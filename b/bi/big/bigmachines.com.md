@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmachines.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102025312id_/http%3A//www.bigmachines.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmachines.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524030558id_/http%3A//www.bigmachines.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,9 +22,15 @@ When we send messages to you or others, we may provide a link that contains an i
   4. Access- BigMachines will provide any individual access to their personal information we have collected by contacting marketing@bigmachines.com.
   5. Security- BigMachines data is hosted in a secure environment with advanced security technology.
   6. Data Integrity- BigMachines actively monitors the accuracy and reliability of its database.
-  7. Enforcement- BigMachines' management team takes this commitment very seriously. Please contact BigMachines at marketing@bigmachines.com with any potential complaints, disputes, or issues concerning this policy. And complaints, disputes, or issues are actively reviewed by BigMachines' management for action and resolution. If the issue is not resolved to your satisfaction by BigMachines, please notify the Better Business Bureau at https://odr.bbb.org/odrweb/public/GetStarted.aspx .
+  7. Enforcement- BigMachines' management team takes this commitment very seriously.
 
 
+
+BigMachines, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. BigMachines, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BigMachine’s certification, please visit http://www.export.gov/safeharbor/
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, BigMachines, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact BigMachines, Inc. at legal@bigmachines.com
+
+BigMachines, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by BigMachines, Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
 
 **Security:** BigMachines, Inc. takes precautions to protect data and information under its control from misuse, loss or alteration. BigMachines utilizes some of the most advanced technology for Internet security available today. BigMachines maintains security measures to allow only the appropriate personnel access to your information. Unfortunately, no system can ensure complete security, and BigMachines disclaims any liability resulting from use of the Site. In addition, our Site is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. 
 
@@ -34,4 +40,4 @@ When we send messages to you or others, we may provide a link that contains an i
 
 Questions or Comments Regarding the Privacy Policy For additional questions, or to be taken off our marketing lists, please send an e-mail to marketing@bigmachines.com. 
 
-To be permanently removed from BigMachines mailing list, please [click here](https://web.archive.org/web/20111102025312id_/http%3A//www.bigmachines.com/emailoptout.php). 
+To be permanently removed from BigMachines mailing list, please [click here](https://web.archive.org/web/20120524030558id_/http%3A//www.bigmachines.com/emailoptout.php). 
