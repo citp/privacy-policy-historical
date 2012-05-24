@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021826id_/http%3A//www.dazeddigital.com/info/article/826/1/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524205855id_/http%3A//www.dazeddigital.com/info/article/826/1/Privacy_Policy) for the most accurate reproduction.*
 
 # Dazed Digital | Privacy Policy
 
-[Info](https://web.archive.org/web/20111124021826id_/http://www.dazeddigital.com/info)
+[Info](https://web.archive.org/web/20120524205855id_/http://www.dazeddigital.com/info)
 
-Published 26 months ago 
+Published 30 months ago 
 
 
 
