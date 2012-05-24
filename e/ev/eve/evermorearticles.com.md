@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the evermorearticles.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124111138id_/http%3A//www.evermorearticles.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evermorearticles.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524171549id_/http%3A//www.evermorearticles.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy The Best Article and Web Directory
 
-| 
+Whois Online 
 
+| Active Users: | 17  
+---|---  
+Accounts: | 0  
+Guests: | 17  
+Visits Today: | 1494  
+Total visits: | 357044  
+  
 **Privacy Policy Overview**
 
 This Privacy Policy covers the EverMoreArticles treatment of personal information that is recorded when you submit your site for inclusion in our database.
@@ -41,5 +48,4 @@ In the event of a change in ownership, or a direct merger or acquisition of Ever
 **Changes to this Privacy Policy  
 **EverMoreArticles may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change.
 
-|   
----|---|---
+| 
