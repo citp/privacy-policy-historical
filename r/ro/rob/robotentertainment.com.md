@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the robotentertainment.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073756id_/http%3A//www.robotentertainment.com/ROBOT-ENTERTAINMENT-PRIVACY-STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robotentertainment.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054556id_/http%3A//www.robotentertainment.com/ROBOT-ENTERTAINMENT-PRIVACY-STATEMENT) for the most accurate reproduction.*
 
-# ROBOT ENTERTAINMENT PRIVACY STATEMENT | Robot Entertainment
+# Robot Entertainment Privacy Statement | Robot Entertainment
 
 (Last updated: 7/7/2010)
 
-Robot Entertainment is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Robot Entertainment site (the "Site"); it does not apply to other online or offline Robot Entertainment sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
+Robot Entertainment is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Robot Entertainment site (the "Site"); it does not apply to other online or offline Robot Entertainment sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
-## Collecting Your Personal Information
+##  Collecting Your Personal Information
 
 The use of the Site does not require you to disclose any personal information. However, the site offers you the opportunity to register for an account, which permits you to use Forums. Should you choose to register for an account you will be asked for personal information such as your name and e-mail address. You may also be asked for additional personal information should you choose to subscribe to an upcoming newsletter or enter any sweepstakes.
 
-The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used for the operation and improvement of the Site. 
+The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used for the operation and improvement of the Site.
 
-## Use of Your Personal Information
+##  Use of Your Personal Information
 
 The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
 
@@ -26,13 +26,13 @@ Robot Entertainment may disclose personal information if required to do so by la
 
 Personal information collected on the Site may be stored and processed in the United States or any other country in which Robot Entertainment or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Robot Entertainment abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-## Control of Your Personal Information
+##  Control of Your Personal Information
 
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Robot Entertainment and its controlled subsidiaries and affiliates without your permission.
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Robot Entertainment in the context of other, separately operated, Robot Entertainment products or services.
 
-## Security of Your Personal Information
+##  Security of Your Personal Information
 
 Robot Entertainment is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
@@ -42,13 +42,13 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other web sites you visit.
 
-## Changes to This Privacy Statement
+##  Changes to This Privacy Statement
 
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-## Contact Information
+##  Contact Information
 
-Robot Entertainment welcomes your comments regarding this privacy statement. If you believe that Robot Entertainment has not adhered to this privacy statement, please contact us by e-mail at [community@robotentertainment.com](mailto:community@robotentertainment.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Robot Entertainment welcomes your comments regarding this privacy statement. If you believe that Robot Entertainment has not adhered to this privacy statement, please contact us by e-mail at [support@robotentertainment.com](mailto:support@robotentertainment.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 Robot Entertainment  
 Plano, TX 75093
