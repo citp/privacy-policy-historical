@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work-killer.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210003359id_/http%3A//www.work-killer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work-killer.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524145020id_/http%3A//www.work-killer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,7 @@ We use outside ad companies to display ads on our site. These ads may contain co
 **Contact Information**
 
 If users have any questions or suggestions regarding our privacy policy, please contact us.
+
+No comments yet.
+
+Sorry, the comment form is closed at this time.
