@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militaryonesource.mil privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123144707id_/https%3A//www.militaryonesource.mil/MOS/f%3Fp%3DMOS%3ACONTENT%3A0%3A%3A%3A%3ASV%2CUT%2CLG%2CCID%2CTID%2CCT%2CCOHE%3A%2C%2CEN%2C23.10.60.10.0.0.0.0.0%2C%2C%2C0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryonesource.mil privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211530id_/http%3A//www.militaryonesource.mil/MOS/f%3Fp%3DMOS%3ACONTENT%3A0%3A%3A%3A%3ASV%2CUT%2CLG%2CCID%2CTID%2CCT%2CCOHE%3A%2C%2CEN%2C23.10.60.10.0.0.0.0.0%2C%2C%2C0) for the most accurate reproduction.*
 
 # Military OneSource
 
