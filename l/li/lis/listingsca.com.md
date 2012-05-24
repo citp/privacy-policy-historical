@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034215id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034630id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Listings Canada
 
@@ -35,7 +35,7 @@ This web site contains links to other sites. Please be aware that we [LWorld Med
 
 **Security**
 
-This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20111124034215id_/http%3A//listingsca.com/common/contact.asp).
+This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](http://listingsca.com/common/contact.asp).
 
 **Site and Service Updates**
 
@@ -53,8 +53,8 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 Press the Back Button on your browser to return to the previous page.
 
-[Listings Canada](https://web.archive.org/)
+[Listings Canada](http://listingsca.com/)
 
-[Home](https://web.archive.org/) | [Jobs](http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&siteID=int_calistingsca03) | [Add/Modify Listing](https://web.archive.org/common/links/) | [Photo Gallery](https://web.archive.org/gallery/) | [Maps](https://web.archive.org/mapmenu.asp) | [Contact](https://web.archive.org/common/contact.asp) | [Privacy Statement](https://web.archive.org/common/privacy.asp) | [About Us](https://web.archive.org/common/aboutus.asp) | [Advertise](https://web.archive.org/common/advertise/) | [USA](http://listingsus.com/)
+[Home](http://listingsca.com/) | [Jobs](http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&siteID=int_calistingsca03) | [Add/Modify Listing](http://listingsca.com/common/links/) | [Photo Gallery](http://listingsca.com/gallery/) | [Maps](http://listingsca.com/mapmenu.asp) | [Contact](http://listingsca.com/common/contact.asp) | [Privacy Statement](http://listingsca.com/common/privacy.asp) | [About Us](http://listingsca.com/common/aboutus.asp) | [USA](http://listingsus.com/)
 
-This site owned and operated by 2011 [LWorld Media Inc.](http://lworldmedia.com/)
+This site owned and operated by 2012 [LWorld Media Inc.](http://lworldmedia.com/)
