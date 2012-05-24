@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the erepublik.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015193411id_/http%3A//www.erepublik.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erepublik.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524072926id_/http%3A//www.erepublik.com/en/privacy-policy) for the most accurate reproduction.*
 
 # eRepublik
 
 (1) Here at eRepublik we care about your privacy and we respect your privacy rights. 
 
-(2) By using eRepublik and/or the eRepublik.com Service, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy **(last updated on the 2nd of June 2010)**. If you do not agree with these terms, you should not use eRepublik and/or an eRepublik.com Service. 
+(2) By using eRepublik and/or the eRepublik.com Service, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy **(last updated on the 3rd of March 2012)**. If you do not agree with these terms, you should not use eRepublik and/or an eRepublik.com Service. 
 
 ### 1 About our Privacy Policy
 
-Our website www.erepublik.com, which includes the eRepublik application programming interface system (further described at <http://api.erepublik.com/eapi-docs.pdf>) (“ **eAPI System** ”), all the webpages containing that address and any webpage containing this domain name, including any page that is enabled for use by a mobile device (“ **eRepublik** ”) and the eRepublik Service (as defined in the Terms and Conditions of Use) are operated and provided by eRepublik Labs Limited of The Seapoint Building, 44/45 Clontarf Road, Dublin 3, Ireland, registration no. 462101, VAT No. IE - 9693023K (“ **we** ”, “ **us** ” and “ **our** ”) and is administered by SC ERPK LABS SRL of 53 5 Dumitru Cariagdi Street, 2nd District, Bucharest, Postal Code 021518, Romania, registered with the Romanian Trade Register under No. J40/6415/2009, having the Sole Registration No. 25622297 on our behalf. 
+Our website www.erepublik.com, which includes the eRepublik application programming interface system (further described at <http://api.erepublik.com/eapi-docs.pdf>) (“ **eAPI System** ”), all the webpages containing that address and any webpage containing this domain name, including any page that is enabled for use by a mobile device (“ **eRepublik** ”) and the eRepublik Service (as defined in the Terms and Conditions of Use) are operated and provided by eRepublik Labs Limited of The Seapoint Building, 44/45 Clontarf Road, Dublin 3, Ireland, registration no. 462101, VAT No. IE - 9693023K (“ **we** ”, “ **us** ” and “ **our** ”) and is administered by SC ERPK LABS SRL of 39-41 Nicolae Filipescu street, 2nd floor, 2nd District, Bucharest, Postal Code 020961, Romania, registered with the Romanian Trade Register under No. J40/6415/2009, having the Sole Registration No. 25622297 on our behalf. 
 
 1.1 eRepublik and the eRepublik Service allows people to register as “Citizens” in order to engage and participate in a variety of activities through the medium of an mass multiplayer online social strategy game, a mixture between social platform and a text- based game with social, economical, political, military and media modules. eRepublik users, referred to as “Citizens”, live in virtual replicas of their “real life” countries, with the possibility to become employees, soldiers, party presidents or members, business members, congress members or even country presidents, and use other functionality made available on eRepublik from time to time.
 
@@ -50,7 +50,7 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 > 
 > 3.2.5 to allow you to access eRepublik and to participate in interactive features of our service, when you choose to do so; 
 > 
-> 3.2.6 to notify you about changes to our service, new features or new versions of the eRepublik game; 
+> 3.2.6 to notify you about new games or applications developed by our company, changes to our service, new features or new versions of the eRepublik game;
 > 
 > 3.2.7 for the purposes of compiling statistics; 
 > 
@@ -74,7 +74,7 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 
 4.2 If you provide personal information to us you understand and agree that we may disclose your personal information to the following third parties: 
 
-> 4.2.1 to the eRepublik hosting provider: Heruvim, Inc., with registered office at 12020 Sunrise Valley Drive, Suite 100 PMB 121, Reston, Virginia 20191, United States of America. You acknowledge that we may change the hosting providers at any time and any such change will be posted on eRepublik by an amendment to this Privacy Policy. You consent to the transfer of your personal data to any new hosting provider’s servers. You may communicate any questions, comments or requests in relation to any change in hosting provider by emailing office@erepublik.com or by post to 5 Dumitru Cariagdi Street, 2nd District, Bucharest, Postal Code 021518, Romania. 
+> 4.2.1 to the eRepublik hosting provider: Heruvim, Inc., with registered office at 12020 Sunrise Valley Drive, Suite 100 PMB 121, Reston, Virginia 20191, United States of America. You acknowledge that we may change the hosting providers at any time and any such change will be posted on eRepublik by an amendment to this Privacy Policy. You consent to the transfer of your personal data to any new hosting provider’s servers. You may communicate any questions, comments or requests in relation to any change in hosting provider by emailing office@erepublik.com or by post to 39-41 Nicolae Filipescu street, 2nd floor, 2nd District, Bucharest, Postal Code 020961, Romania. 
 > 
 > 4.2.2 if you have indicated at registration, or at any time during your time as a user of eRepublik, that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. You may opt out of receiving such offers or change your preferences at any time by emailing office@erepublik.com; 
 > 
@@ -134,4 +134,4 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 
 10 user feedback and complaints
 
-> 10.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to office@erepublik.com or by post to 5 Dumitru Cariagdi Street, 2nd District, Bucharest, Postal Code 021518, Romania. 
+> 10.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to office@erepublik.com or by post to 39-41 Nicolae Filipescu street, 2nd floor, 2nd District, Bucharest, Postal Code 020961, Romania. 
