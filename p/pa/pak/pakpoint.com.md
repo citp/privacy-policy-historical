@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153334id_/http%3A//www.pakpoint.org/useronline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524032737id_/http%3A//www.pakpoint.org/useronline) for the most accurate reproduction.*
 
 # Privacy
 
@@ -15,4 +15,4 @@ The foregoing policies are effective as of March 1, 2009. We reserve the right t
 **[Watch Pakistan Political and Current Affairs Video Programms](http://www.pakpoint.com/category/videos/)  
 **
 
-(c) 2010 PakPoint Network. Disclaimer: All the videos link posted here are contributed by the members of the site or taken from third party websites or public domain and are owned by their respective rightful owners. We do not record or sell any copyrighted video. All trademarks, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. If you find any content in violation of your rights please give your feedback and it will be removed immediately. pakpoint @ gmail.com This website is based on wordpress CMS 
+© 2012 PakPoint Network. Disclaimer: PakPoint Network trust on the freedom of expression. All the material, videos, images and links posted here are contributed by the members of the site or taken from third party websites and/or are already in public domain and are owned by their respective rightful owners. We do not record or sell any copyrighted material. All trademarks, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. If you find any content in violation of your rights please give your feedback and it will be removed immediately. pakpoint @ gmail.com 
