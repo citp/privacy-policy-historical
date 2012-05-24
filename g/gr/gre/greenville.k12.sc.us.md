@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124234015id_/http%3A//www.greenville.k12.sc.us/gcsd/depts/ets/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525011005id_/http%3A//greenville.k12.sc.us/gcsd/depts/ets/policy/privacy.asp) for the most accurate reproduction.*
 
 # Greenville County Schools Web Site Privacy
 
@@ -73,4 +73,4 @@ Greenville, South Carolina 29605
 
 
 
-[ Download Print Version](https://web.archive.org/web/20111124234015id_/http%3A//www.greenville.k12.sc.us/gcsd/depts/ets/policy/pdf/privacy.pdf)
+[ Download Print Version](https://web.archive.org/web/20120525011005id_/http%3A//greenville.k12.sc.us/gcsd/depts/ets/policy/pdf/privacy.pdf)
