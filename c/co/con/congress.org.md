@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214070647id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524181922id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -12,9 +12,11 @@
 
   * The Economist
   * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
-  * European Voice
-  * EuroFinance Conferences
   * CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
+  * Clearstate
+  * EuroFinance Conferences
+  * European Voice
+  * TVC Group
 
 
 
@@ -24,7 +26,7 @@ A "customer" (or "you") is anyone ordering, registering for or making use of any
 
 Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services.  Information is collected by the companies of the Economist Group.  For our businesses operated in the EU and EEA, the companies listed at the end of this policy statement are each registered with the United Kingdom's Information Commissioner's Office as a data controller in accordance with the Data Protection Act 1998.
 
-In addition, when you visit any of our websites or use any of our digital applications (such as our iPhone or iPad applications), we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device’s IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page. 
+In addition, when you visit any of our websites or use any of our digital applications (such as our iPhone or iPad applications), we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device’s IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.
 
 This information is collected to help us:
 
@@ -40,7 +42,7 @@ This information is collected to help us:
 And, if you allow us to*, we may also:
 
   * tell you about additional products and services
-  * tell you about other promotional activities across The Economist Group of companies or other companies with whom we have a business relationship 
+  * tell you about other promotional activities across The Economist Group of companies or other companies with whom we have a business relationship
   * invite you to participate in market research and surveys
 
 
@@ -60,10 +62,10 @@ We also use your information for in-house research and analysis. This helps us t
 
 A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites (directly or via our applications). We use information from cookies for purposes which may include:
 
-  * identifying returning users, registrants and subscribers 
-  * eliminating the need for returning users to re-enter their login details 
+  * identifying returning users, registrants and subscribers
+  * eliminating the need for returning users to re-enter their login details
   * enabling you to move more easily around our sites and applications
-  * tracking your use of our sites to better develop our sites and applications in accordance with your requirements 
+  * tracking your use of our sites to better develop our sites and applications in accordance with your requirements
   * building up an anonymous profile based on your browsing patterns across our sites, applications and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
 
 
@@ -72,11 +74,11 @@ You can delete cookies from your hard drive at any time. Bear in mind, though, t
 
 You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
 
-By visiting an Economist Group website, you consent to the use of cookies as explained above.
+By visiting an Economist Group website, you consent to the use of cookies as explained above. Some of our websites also have a separate cookies section giving more details on the types of cookies used.
 
 You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at[ http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq). 
+Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
 
 ### E-mails
 
@@ -88,7 +90,7 @@ To find out more about the technologies used in these e-mails sent on our behalf
 
 The Economist Group uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.doubleclick.com/privacy/index.aspx>.
 
-For advertisements appearing on in our digital applications, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual customers. 
+For advertisements appearing on in our digital applications, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual customers.
 
 ### External links
 
