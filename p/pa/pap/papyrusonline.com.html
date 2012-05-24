@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the papyrusonline.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231015000id_/http%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the papyrusonline.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524195520id_/http%3A//www.papyrusonline.com/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy &amp; Security</title>
@@ -43,7 +43,6 @@
 <script type="text/javascript" src="http://www.papyrusonline.com/js/colorbox/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="http://www.papyrusonline.com/js/GoogleAnalyticsPlus/distilled.FirstTouch.js"></script>
 <script type="text/javascript" src="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/js/scripts.js"></script>
-<link rel="start" href="http://www.papyrusonline.com/customer-services/customer-service">
 <!--[if (IE 7)|(IE 8)]>
 <link rel="stylesheet" type="text/css" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/css/styles-ie.css" media="all" />
 <![endif]-->
@@ -76,16 +75,16 @@ optionalZipCountries = [];
 
             _gaq.push(["_setAccount", "UA-17961741-1"]);
             asyncDistilledFirstTouch(_gaq);
-            _gaq.push(["_trackPageview","/customer-services/privacy-security"]);
+            _gaq.push(["_trackPageview","/privacy-security"]);
 
             if(Ajax.Responders){
                 Ajax.Responders.register({
                   onComplete: function(response){
                     if(!response.url.include("progress")){
                         if(response.url.include("saveOrder")){
-                            _gaq.push(["_trackPageview", "/customer-services/privacy-security"+ "opc-review-placeOrderClicked"]);
+                            _gaq.push(["_trackPageview", "/privacy-security"+ "opc-review-placeOrderClicked"]);
                         }else if(accordion.currentSection){
-                            _gaq.push(["_trackPageview", "/customer-services/privacy-security"+ accordion.currentSection]);
+                            _gaq.push(["_trackPageview", "/privacy-security"+ accordion.currentSection]);
                         }
                     }
                   }
@@ -151,7 +150,7 @@ optionalZipCountries = [];
 					<ul class="links">
             <li class="first"><a href="https://www.papyrusonline.com/customer/account/" title="My Account">My Account</a></li>
             <li><a href="http://www.papyrusonline.com/customer-services/" title="Customer Service">Customer Service</a></li>
-            <li><a href="http://www.papyrusonline.com/store-locator/" title="Store Locator">Store Locator</a></li>
+            <li><a href="http://www.papyrusonline.com/store-directory/" title="Store Directory">Store Directory</a></li>
             <li><a href="http://www.papyrusonline.com/checkout/cart/" title="Shopping Cart (<strong>0</strong>)" class="top-link-cart">Shopping Cart (<strong>0</strong>)</a></li>
             <li class=" last"><a href="http://www.papyrusonline.com/checkout/" title="Check Out" class="top-link-checkout">Check Out</a></li>
     </ul>
@@ -162,7 +161,7 @@ optionalZipCountries = [];
 			<div id="nav">
 				<div class="nav-container">
 	<ul>
-		<li class="level0 nav-1 level-top first parent">
+		<li id="nav-custom-printing" class="level0 nav-1 level-top first parent">
 <a href="http://www.papyrusonline.com/custom-printing.html" class="level-top">
 <span>Custom Printing</span>
 </a>
@@ -172,15 +171,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-1-4">
+<li id="nav-view-all" class="level1 nav-1-6">
 <a href="http://www.papyrusonline.com/custom-printing.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-1-5">
+</li><li id="nav-best-sellers" class="level1 nav-1-7">
 <a href="http://www.papyrusonline.com/custom-printing.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-1-6 last">
+</li><li id="nav-new-arrivals" class="level1 nav-1-8 last">
 <a href="http://www.papyrusonline.com/custom-printing.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -189,17 +188,25 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-1-1 first parent">
+<li id="nav-new-baby" class="level1 nav-1-1 first parent">
 <a href="http://www.papyrusonline.com/custom-printing/new-baby.html">
 <span>New Baby</span>
 </a>
-</li><li class="level1 nav-1-2 parent">
+</li><li id="nav-stationery" class="level1 nav-1-2 parent">
+<a href="http://www.papyrusonline.com/custom-printing/stationery.html">
+<span>Stationery</span>
+</a>
+</li><li id="nav-party-invitations" class="level1 nav-1-3 parent">
 <a href="http://www.papyrusonline.com/custom-printing/party-invitations.html">
 <span>Party Invitations</span>
 </a>
-</li><li class="level1 nav-1-3">
+</li><li id="nav-wedding" class="level1 nav-1-4 parent">
 <a href="http://www.papyrusonline.com/custom-printing/wedding.html">
 <span>Wedding</span>
+</a>
+</li><li id="nav-gifts" class="level1 nav-1-5 parent">
+<a href="http://www.papyrusonline.com/custom-printing/gifts.html">
+<span>Gifts</span>
 </a>
 </li>
 </ul>
@@ -208,7 +215,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-2 level-top parent">
+</li><li id="nav-occasions" class="level0 nav-2 level-top parent">
 <a href="http://www.papyrusonline.com/i-occasions.html" class="level-top">
 <span>Occasions</span>
 </a>
@@ -218,15 +225,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-2-1 first">
+<li id="nav-view-all" class="level1 nav-2-1 first">
 <a href="http://www.papyrusonline.com/i-occasions.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-2-16">
+</li><li id="nav-best-sellers" class="level1 nav-2-16">
 <a href="http://www.papyrusonline.com/i-occasions.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-2-17 last">
+</li><li id="nav-new-arrivals" class="level1 nav-2-17 last">
 <a href="http://www.papyrusonline.com/i-occasions.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -235,59 +242,59 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-2-2 featured">
-<a href="http://www.papyrusonline.com/i-occasions/chanukah.html">
-<span>Chanukah</span>
+<li id="nav-father-s-day" class="level1 nav-2-2 parent featured">
+<a href="http://www.papyrusonline.com/i-occasions/fathers-day.html">
+<span>Father's Day</span>
 </a>
-</li><li class="level1 nav-2-3 parent featured">
-<a href="http://www.papyrusonline.com/i-occasions/christmas.html">
-<span>Christmas</span>
+</li><li id="nav-graduation" class="level1 nav-2-3 parent featured">
+<a href="http://www.papyrusonline.com/i-occasions/graduation.html">
+<span>Graduation</span>
 </a>
-</li><li class="level1 nav-2-4 parent">
+</li><li id="nav-anniversary" class="level1 nav-2-4 parent">
 <a href="http://www.papyrusonline.com/i-occasions/anniversary.html">
 <span>Anniversary</span>
 </a>
-</li><li class="level1 nav-2-5 parent">
+</li><li id="nav-baptism-christening" class="level1 nav-2-5 parent">
 <a href="http://www.papyrusonline.com/i-occasions/baptism-christening.html">
 <span>Baptism/Christening</span>
 </a>
-</li><li class="level1 nav-2-6 parent">
+</li><li id="nav-bat-mitzvah" class="level1 nav-2-6 parent">
 <a href="http://www.papyrusonline.com/i-occasions/bat-mitzvah.html">
 <span>Bat Mitzvah</span>
 </a>
-</li><li class="level1 nav-2-7 parent">
+</li><li id="nav-bar-mitzvah" class="level1 nav-2-7 parent">
 <a href="http://www.papyrusonline.com/i-occasions/bar-mitzvah.html">
 <span>Bar Mitzvah</span>
 </a>
-</li><li class="level1 nav-2-8 parent">
+</li><li id="nav-birthday" class="level1 nav-2-8 parent">
 <a href="http://www.papyrusonline.com/i-occasions/birthday.html">
 <span>Birthday</span>
 </a>
-</li><li class="level1 nav-2-9 parent">
+</li><li id="nav-bridal-shower" class="level1 nav-2-9 parent">
 <a href="http://www.papyrusonline.com/i-occasions/bridal-shower.html">
 <span>Bridal Shower</span>
 </a>
-</li><li class="level1 nav-2-10 parent">
+</li><li id="nav-communion" class="level1 nav-2-10 parent">
 <a href="http://www.papyrusonline.com/i-occasions/communion.html">
 <span>Communion</span>
 </a>
-</li><li class="level1 nav-2-11 parent">
+</li><li id="nav-confirmation" class="level1 nav-2-11 parent">
 <a href="http://www.papyrusonline.com/i-occasions/confirmation.html">
 <span>Confirmation</span>
 </a>
-</li><li class="level1 nav-2-12 parent">
+</li><li id="nav-engagement" class="level1 nav-2-12 parent">
 <a href="http://www.papyrusonline.com/i-occasions/engagement.html">
 <span>Engagement</span>
 </a>
-</li><li class="level1 nav-2-13 parent">
+</li><li id="nav-new-baby" class="level1 nav-2-13 parent">
 <a href="http://www.papyrusonline.com/i-occasions/new-baby.html">
 <span>New Baby</span>
 </a>
-</li><li class="level1 nav-2-14 parent">
+</li><li id="nav-thank-you" class="level1 nav-2-14 parent">
 <a href="http://www.papyrusonline.com/i-occasions/thank-you.html">
 <span>Thank You</span>
 </a>
-</li><li class="level1 nav-2-15 parent">
+</li><li id="nav-wedding" class="level1 nav-2-15 parent">
 <a href="http://www.papyrusonline.com/i-occasions/wedding.html">
 <span>Wedding</span>
 </a>
@@ -298,7 +305,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-3 level-top parent">
+</li><li id="nav-greeting-cards" class="level0 nav-3 level-top parent">
 <a href="http://www.papyrusonline.com/greeting-cards.html" class="level-top">
 <span>Greeting Cards</span>
 </a>
@@ -308,15 +315,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-3-24">
+<li id="nav-view-all" class="level1 nav-3-23">
 <a href="http://www.papyrusonline.com/greeting-cards.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-3-25">
+</li><li id="nav-best-sellers" class="level1 nav-3-24">
 <a href="http://www.papyrusonline.com/greeting-cards.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-3-26 last">
+</li><li id="nav-new-arrivals" class="level1 nav-3-25 last">
 <a href="http://www.papyrusonline.com/greeting-cards.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -325,95 +332,91 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-3-1 first featured">
-<a href="http://www.papyrusonline.com/greeting-cards/chanukah.html">
-<span>Chanukah</span>
+<li id="nav-father-s-day" class="level1 nav-3-1 first featured">
+<a href="http://www.papyrusonline.com/greeting-cards/fathers-day.html">
+<span>Father's Day</span>
 </a>
-</li><li class="level1 nav-3-2 parent featured">
-<a href="http://www.papyrusonline.com/greeting-cards/christmas.html">
-<span>Christmas</span>
-</a>
-</li><li class="level1 nav-3-3">
-<a href="http://www.papyrusonline.com/greeting-cards/blank-inside-greeting-cards.html">
-<span>Blank Inside</span>
-</a>
-</li><li class="level1 nav-3-4 parent">
-<a href="http://www.papyrusonline.com/greeting-cards/birthday-cards.html">
-<span>Birthday</span>
-</a>
-</li><li class="level1 nav-3-5">
-<a href="http://www.papyrusonline.com/greeting-cards/wedding.html">
-<span>Wedding</span>
-</a>
-</li><li class="level1 nav-3-6">
-<a href="http://www.papyrusonline.com/greeting-cards/anniversary.html">
-<span>Anniversary</span>
-</a>
-</li><li class="level1 nav-3-7">
-<a href="http://www.papyrusonline.com/greeting-cards/bridal-shower.html">
-<span>Bridal Shower</span>
-</a>
-</li><li class="level1 nav-3-8">
-<a href="http://www.papyrusonline.com/greeting-cards/engagement.html">
-<span>Engagement</span>
-</a>
-</li><li class="level1 nav-3-9">
-<a href="http://www.papyrusonline.com/greeting-cards/friendship.html">
-<span>Friendship</span>
-</a>
-</li><li class="level1 nav-3-10">
-<a href="http://www.papyrusonline.com/greeting-cards/thank-you-cards.html">
-<span>Thank You</span>
-</a>
-</li><li class="level1 nav-3-11">
-<a href="http://www.papyrusonline.com/greeting-cards/love.html">
-<span>Love</span>
-</a>
-</li><li class="level1 nav-3-12 parent">
-<a href="http://www.papyrusonline.com/greeting-cards/baby.html">
-<span>Baby</span>
-</a>
-</li><li class="level1 nav-3-13">
-<a href="http://www.papyrusonline.com/greeting-cards/congratulations.html">
-<span>Congratulations</span>
-</a>
-</li><li class="level1 nav-3-14 parent">
-<a href="http://www.papyrusonline.com/greeting-cards/religious.html">
-<span>Religious</span>
-</a>
-</li><li class="level1 nav-3-15">
-<a href="http://www.papyrusonline.com/greeting-cards/sympathy-cards.html">
-<span>Sympathy</span>
-</a>
-</li><li class="level1 nav-3-16">
-<a href="http://www.papyrusonline.com/greeting-cards/get-well.html">
-<span>Get Well</span>
-</a>
-</li><li class="level1 nav-3-17">
-<a href="http://www.papyrusonline.com/greeting-cards/retirement.html">
-<span>Retirement</span>
-</a>
-</li><li class="level1 nav-3-18">
-<a href="http://www.papyrusonline.com/greeting-cards/new-home.html">
-<span>New Home</span>
-</a>
-</li><li class="level1 nav-3-19">
+</li><li id="nav-graduation" class="level1 nav-3-2 featured">
 <a href="http://www.papyrusonline.com/greeting-cards/graduation.html">
 <span>Graduation</span>
 </a>
-</li><li class="level1 nav-3-20">
+</li><li id="nav-blank-inside" class="level1 nav-3-3">
+<a href="http://www.papyrusonline.com/greeting-cards/blank-inside-greeting-cards.html">
+<span>Blank Inside</span>
+</a>
+</li><li id="nav-birthday" class="level1 nav-3-4 parent">
+<a href="http://www.papyrusonline.com/greeting-cards/birthday-cards.html">
+<span>Birthday</span>
+</a>
+</li><li id="nav-wedding" class="level1 nav-3-5">
+<a href="http://www.papyrusonline.com/greeting-cards/wedding.html">
+<span>Wedding</span>
+</a>
+</li><li id="nav-anniversary" class="level1 nav-3-6">
+<a href="http://www.papyrusonline.com/greeting-cards/anniversary.html">
+<span>Anniversary</span>
+</a>
+</li><li id="nav-bridal-shower" class="level1 nav-3-7">
+<a href="http://www.papyrusonline.com/greeting-cards/bridal-shower.html">
+<span>Bridal Shower</span>
+</a>
+</li><li id="nav-engagement" class="level1 nav-3-8">
+<a href="http://www.papyrusonline.com/greeting-cards/engagement.html">
+<span>Engagement</span>
+</a>
+</li><li id="nav-friendship" class="level1 nav-3-9">
+<a href="http://www.papyrusonline.com/greeting-cards/friendship.html">
+<span>Friendship</span>
+</a>
+</li><li id="nav-thank-you" class="level1 nav-3-10">
+<a href="http://www.papyrusonline.com/greeting-cards/thank-you-cards.html">
+<span>Thank You</span>
+</a>
+</li><li id="nav-love" class="level1 nav-3-11">
+<a href="http://www.papyrusonline.com/greeting-cards/love.html">
+<span>Love</span>
+</a>
+</li><li id="nav-baby" class="level1 nav-3-12 parent">
+<a href="http://www.papyrusonline.com/greeting-cards/baby.html">
+<span>Baby</span>
+</a>
+</li><li id="nav-congratulations" class="level1 nav-3-13">
+<a href="http://www.papyrusonline.com/greeting-cards/congratulations.html">
+<span>Congratulations</span>
+</a>
+</li><li id="nav-religious" class="level1 nav-3-14 parent">
+<a href="http://www.papyrusonline.com/greeting-cards/religious.html">
+<span>Religious</span>
+</a>
+</li><li id="nav-sympathy" class="level1 nav-3-15">
+<a href="http://www.papyrusonline.com/greeting-cards/sympathy-cards.html">
+<span>Sympathy</span>
+</a>
+</li><li id="nav-get-well" class="level1 nav-3-16">
+<a href="http://www.papyrusonline.com/greeting-cards/get-well.html">
+<span>Get Well</span>
+</a>
+</li><li id="nav-retirement" class="level1 nav-3-17">
+<a href="http://www.papyrusonline.com/greeting-cards/retirement.html">
+<span>Retirement</span>
+</a>
+</li><li id="nav-new-home" class="level1 nav-3-18">
+<a href="http://www.papyrusonline.com/greeting-cards/new-home.html">
+<span>New Home</span>
+</a>
+</li><li id="nav-goodbye-amp-good-luck" class="level1 nav-3-19">
 <a href="http://www.papyrusonline.com/greeting-cards/goodbye-good-luck.html">
 <span>Goodbye &amp; Good Luck</span>
 </a>
-</li><li class="level1 nav-3-21">
+</li><li id="nav-bon-voyage" class="level1 nav-3-20">
 <a href="http://www.papyrusonline.com/greeting-cards/bon-voyage.html">
 <span>Bon Voyage</span>
 </a>
-</li><li class="level1 nav-3-22">
+</li><li id="nav-recycled" class="level1 nav-3-21">
 <a href="http://www.papyrusonline.com/greeting-cards/recycled.html">
 <span>Recycled</span>
 </a>
-</li><li class="level1 nav-3-23">
+</li><li id="nav-sound-cards" class="level1 nav-3-22">
 <a href="http://www.papyrusonline.com/greeting-cards/sound-cards.html">
 <span>Sound Cards</span>
 </a>
@@ -424,7 +427,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-4 level-top parent featured">
+</li><li id="nav-stationery" class="level0 nav-4 level-top parent featured">
 <a href="http://www.papyrusonline.com/stationery.html" class="level-top">
 <span>Stationery</span>
 </a>
@@ -434,15 +437,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-4-12">
+<li id="nav-view-all" class="level1 nav-4-11">
 <a href="http://www.papyrusonline.com/stationery.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-4-13">
+</li><li id="nav-best-sellers" class="level1 nav-4-12">
 <a href="http://www.papyrusonline.com/stationery.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-4-14">
+</li><li id="nav-new-arrivals" class="level1 nav-4-13 last">
 <a href="http://www.papyrusonline.com/stationery.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -451,47 +454,43 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-4-1 first parent featured">
-<a href="http://www.papyrusonline.com/stationery/holiday-boxed-cards.html">
-<span>Holiday Boxed Cards</span>
-</a>
-</li><li class="level1 nav-4-2">
+<li id="nav-boxed-notes" class="level1 nav-4-1 first">
 <a href="http://www.papyrusonline.com/stationery/boxed-note-cards.html">
 <span>Boxed Notes</span>
 </a>
-</li><li class="level1 nav-4-3">
+</li><li id="nav-boxed-thank-you" class="level1 nav-4-2">
 <a href="http://www.papyrusonline.com/stationery/boxed-thank-you-cards.html">
 <span>Boxed Thank You</span>
 </a>
-</li><li class="level1 nav-4-4">
+</li><li id="nav-flat-cards" class="level1 nav-4-3">
 <a href="http://www.papyrusonline.com/stationery/boxed-flat-note-cards.html">
 <span>Flat Cards</span>
 </a>
-</li><li class="level1 nav-4-5">
+</li><li id="nav-postcards" class="level1 nav-4-4">
 <a href="http://www.papyrusonline.com/stationery/postcards.html">
 <span>Postcards</span>
 </a>
-</li><li class="level1 nav-4-6">
+</li><li id="nav-gift-sets" class="level1 nav-4-5">
 <a href="http://www.papyrusonline.com/stationery/gift-sets.html">
 <span>Gift Sets</span>
 </a>
-</li><li class="level1 nav-4-7">
+</li><li id="nav-writing-sheets" class="level1 nav-4-6">
 <a href="http://www.papyrusonline.com/stationery/writing-sheets.html">
 <span>Writing Sheets</span>
 </a>
-</li><li class="level1 nav-4-8">
+</li><li id="nav-envelopes" class="level1 nav-4-7">
 <a href="http://www.papyrusonline.com/stationery/envelopes.html">
 <span>Envelopes</span>
 </a>
-</li><li class="level1 nav-4-9">
+</li><li id="nav-notepads-amp-sticky-notes" class="level1 nav-4-8">
 <a href="http://www.papyrusonline.com/stationery/notepads-and-sticky-notes.html">
 <span>Notepads &amp; Sticky Notes</span>
 </a>
-</li><li class="level1 nav-4-10">
+</li><li id="nav-recycled" class="level1 nav-4-9">
 <a href="http://www.papyrusonline.com/stationery/recycled.html">
 <span>Recycled</span>
 </a>
-</li><li class="level1 nav-4-11">
+</li><li id="nav-labels-amp-seals" class="level1 nav-4-10">
 <a href="http://www.papyrusonline.com/stationery/labels-and-seals.html">
 <span>Labels &amp; Seals</span>
 </a>
@@ -502,7 +501,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-5 level-top parent">
+</li><li id="nav-invitations-amp-accessories" class="level0 nav-5 level-top parent">
 <a href="http://www.papyrusonline.com/invitations-accessories.html" class="level-top">
 <span>Invitations &amp; Accessories</span>
 </a>
@@ -512,15 +511,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-5-16">
+<li id="nav-view-all" class="level1 nav-5-13">
 <a href="http://www.papyrusonline.com/invitations-accessories.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-5-17">
+</li><li id="nav-best-sellers" class="level1 nav-5-14">
 <a href="http://www.papyrusonline.com/invitations-accessories.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-5-18 last">
+</li><li id="nav-new-arrivals" class="level1 nav-5-15">
 <a href="http://www.papyrusonline.com/invitations-accessories.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -529,65 +528,57 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-5-1 first parent featured">
-<a href="http://www.papyrusonline.com/invitations-accessories/holiday.html">
-<span>Holiday</span>
-</a>
-</li><li class="level1 nav-5-2">
+<li id="nav-fill-in-invitations" class="level1 nav-5-1 first">
 <a href="http://www.papyrusonline.com/invitations-accessories/fill-in-invitations.html">
 <span>Fill-In Invitations</span>
 </a>
-</li><li class="level1 nav-5-3">
+</li><li id="nav-print-at-home" class="level1 nav-5-2">
 <a href="http://www.papyrusonline.com/invitations-accessories/print-at-home-invitations.html">
 <span>Print at Home</span>
 </a>
-</li><li class="level1 nav-5-4">
+</li><li id="nav-matching-thank-you-notes" class="level1 nav-5-3">
 <a href="http://www.papyrusonline.com/invitations-accessories/matching-thank-you-notes.html">
 <span>Matching Thank You Notes</span>
 </a>
-</li><li class="level1 nav-5-5">
-<a href="http://www.papyrusonline.com/invitations-accessories/programs.html">
-<span>Programs</span>
-</a>
-</li><li class="level1 nav-5-6">
+</li><li id="nav-reply-cards" class="level1 nav-5-4">
 <a href="http://www.papyrusonline.com/invitations-accessories/reply-cards.html">
 <span>Reply Cards</span>
 </a>
-</li><li class="level1 nav-5-7">
+</li><li id="nav-place-cards" class="level1 nav-5-5">
 <a href="http://www.papyrusonline.com/invitations-accessories/place-cards.html">
 <span>Place Cards</span>
 </a>
-</li><li class="level1 nav-5-8">
+</li><li id="nav-all-occasion-invitations" class="level1 nav-5-6">
 <a href="http://www.papyrusonline.com/invitations-accessories/all-occasion-invitations.html">
 <span>All Occasion Invitations</span>
 </a>
-</li><li class="level1 nav-5-9 parent">
+</li><li id="nav-birthday-invitations" class="level1 nav-5-7 parent">
 <a href="http://www.papyrusonline.com/invitations-accessories/birthday-invitations.html">
 <span>Birthday Invitations</span>
 </a>
-</li><li class="level1 nav-5-10">
+</li><li id="nav-graduation-invitations" class="level1 nav-5-8">
 <a href="http://www.papyrusonline.com/invitations-accessories/graduation-invitations.html">
 <span>Graduation Invitations</span>
 </a>
-</li><li class="level1 nav-5-11">
+</li><li id="nav-kids-party-invitations" class="level1 nav-5-9">
 <a href="http://www.papyrusonline.com/invitations-accessories/kids-party-invitations.html">
 <span>Kids' Party Invitations</span>
 </a>
-</li><li class="level1 nav-5-12">
-<a href="http://www.papyrusonline.com/invitations-accessories/moving-announcements.html">
-<span>Moving Announcements</span>
-</a>
-</li><li class="level1 nav-5-13">
+</li><li id="nav-new-baby-invitations" class="level1 nav-5-10">
 <a href="http://www.papyrusonline.com/invitations-accessories/new-baby-invitations.html">
 <span>New Baby Invitations</span>
 </a>
-</li><li class="level1 nav-5-14">
+</li><li id="nav-party-invitations" class="level1 nav-5-11">
 <a href="http://www.papyrusonline.com/invitations-accessories/party-invitations.html">
 <span>Party Invitations</span>
 </a>
-</li><li class="level1 nav-5-15">
+</li><li id="nav-wedding-invitations" class="level1 nav-5-12">
 <a href="http://www.papyrusonline.com/invitations-accessories/wedding-invitations.html">
 <span>Wedding Invitations</span>
+</a>
+</li><li id="nav-accessories" class="level1 nav-5-16 last">
+<a href="http://www.papyrusonline.com/invitations-accessories/accessories.html">
+<span>Accessories</span>
 </a>
 </li>
 </ul>
@@ -596,7 +587,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-6 level-top parent">
+</li><li id="nav-gifts" class="level0 nav-6 level-top parent">
 <a href="http://www.papyrusonline.com/gifts.html" class="level-top">
 <span>Gifts</span>
 </a>
@@ -606,15 +597,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-6-31">
+<li id="nav-view-all" class="level1 nav-6-27">
 <a href="http://www.papyrusonline.com/gifts.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-6-32">
+</li><li id="nav-best-sellers" class="level1 nav-6-28">
 <a href="http://www.papyrusonline.com/gifts.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-6-33 last">
+</li><li id="nav-new-arrivals" class="level1 nav-6-29 last">
 <a href="http://www.papyrusonline.com/gifts.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -623,125 +614,109 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-6-1 first featured">
-<a href="http://www.papyrusonline.com/gifts/holiday-ornaments.html">
-<span>Holiday Ornaments</span>
+<li id="nav-father-s-day" class="level1 nav-6-1 first featured">
+<a href="http://www.papyrusonline.com/gifts/fathers-day.html">
+<span>Father's Day</span>
 </a>
-</li><li class="level1 nav-6-2 featured">
-<a href="http://www.papyrusonline.com/gifts/holiday-decor.html">
-<span>Holiday Decor</span>
+</li><li id="nav-graduation" class="level1 nav-6-2 featured">
+<a href="http://www.papyrusonline.com/gifts/graduation.html">
+<span>Graduation</span>
 </a>
-</li><li class="level1 nav-6-3 featured">
-<a href="http://www.papyrusonline.com/gifts/pre-wrapped-gifts.html">
-<span>Pre-Wrapped Gifts</span>
-</a>
-</li><li class="level1 nav-6-4">
-<a href="http://www.papyrusonline.com/gifts/address-books.html">
-<span>Address Books</span>
-</a>
-</li><li class="level1 nav-6-5">
-<a href="http://www.papyrusonline.com/gifts/agendas-and-planners.html">
-<span>Agendas &amp; Planners</span>
-</a>
-</li><li class="level1 nav-6-6">
+</li><li id="nav-albums" class="level1 nav-6-3">
 <a href="http://www.papyrusonline.com/gifts/albums.html">
 <span>Albums</span>
 </a>
-</li><li class="level1 nav-6-7">
+</li><li id="nav-art" class="level1 nav-6-4">
 <a href="http://www.papyrusonline.com/gifts/art.html">
 <span>Art</span>
 </a>
-</li><li class="level1 nav-6-8">
+</li><li id="nav-baby" class="level1 nav-6-5">
 <a href="http://www.papyrusonline.com/gifts/baby.html">
 <span>Baby</span>
 </a>
-</li><li class="level1 nav-6-9">
+</li><li id="nav-bags-amp-cases" class="level1 nav-6-6">
 <a href="http://www.papyrusonline.com/gifts/bags-cases.html">
 <span>Bags &amp; Cases</span>
 </a>
-</li><li class="level1 nav-6-10">
+</li><li id="nav-bath-amp-body" class="level1 nav-6-7">
 <a href="http://www.papyrusonline.com/gifts/bath-body.html">
 <span>Bath &amp; Body</span>
 </a>
-</li><li class="level1 nav-6-11">
+</li><li id="nav-bookmarks" class="level1 nav-6-8">
 <a href="http://www.papyrusonline.com/gifts/bookmarks.html">
 <span>Bookmarks</span>
 </a>
-</li><li class="level1 nav-6-12">
-<a href="http://www.papyrusonline.com/gifts/calendars.html">
-<span>Calendars</span>
+</li><li id="nav-books" class="level1 nav-6-9">
+<a href="http://www.papyrusonline.com/gifts/books.html">
+<span>Books</span>
 </a>
-</li><li class="level1 nav-6-13">
+</li><li id="nav-candles" class="level1 nav-6-10">
 <a href="http://www.papyrusonline.com/gifts/candles.html">
 <span>Candles</span>
 </a>
-</li><li class="level1 nav-6-14">
+</li><li id="nav-diffusers" class="level1 nav-6-11">
+<a href="http://www.papyrusonline.com/gifts/diffusers.html">
+<span>Diffusers</span>
+</a>
+</li><li id="nav-drinkware" class="level1 nav-6-12">
 <a href="http://www.papyrusonline.com/gifts/drinkware.html">
 <span>Drinkware</span>
 </a>
-</li><li class="level1 nav-6-15">
-<a href="http://www.papyrusonline.com/gifts/file-folders.html">
-<span>File Folders</span>
+</li><li id="nav-entertaining" class="level1 nav-6-13">
+<a href="http://www.papyrusonline.com/gifts/entertaining.html">
+<span>Entertaining</span>
 </a>
-</li><li class="level1 nav-6-16">
+</li><li id="nav-photo-frames" class="level1 nav-6-14">
 <a href="http://www.papyrusonline.com/gifts/photo-frames.html">
 <span>Photo Frames</span>
 </a>
-</li><li class="level1 nav-6-17">
+</li><li id="nav-guestbooks" class="level1 nav-6-15">
 <a href="http://www.papyrusonline.com/gifts/guestbooks.html">
 <span>Guestbooks</span>
 </a>
-</li><li class="level1 nav-6-18">
+</li><li id="nav-jewelry" class="level1 nav-6-16">
 <a href="http://www.papyrusonline.com/gifts/jewelry.html">
 <span>Jewelry</span>
 </a>
-</li><li class="level1 nav-6-19">
+</li><li id="nav-journals-amp-notebooks" class="level1 nav-6-17">
 <a href="http://www.papyrusonline.com/gifts/journals-and-notebooks.html">
 <span>Journals &amp; Notebooks</span>
 </a>
-</li><li class="level1 nav-6-20">
+</li><li id="nav-keychains" class="level1 nav-6-18">
 <a href="http://www.papyrusonline.com/gifts/keychains.html">
 <span>Keychains</span>
 </a>
-</li><li class="level1 nav-6-21">
-<a href="http://www.papyrusonline.com/gifts/magnets.html">
-<span>Magnets</span>
+</li><li id="nav-men-s-accessories" class="level1 nav-6-19">
+<a href="http://www.papyrusonline.com/gifts/mens-accessories.html">
+<span>Men's Accessories</span>
 </a>
-</li><li class="level1 nav-6-22">
-<a href="http://www.papyrusonline.com/gifts/notepads-and-sticky-notes.html">
-<span>Notepads &amp; Sticky Notes</span>
+</li><li id="nav-office" class="level1 nav-6-20 parent">
+<a href="http://www.papyrusonline.com/gifts/office.html">
+<span>Office</span>
 </a>
-</li><li class="level1 nav-6-23">
+</li><li id="nav-plush" class="level1 nav-6-21">
 <a href="http://www.papyrusonline.com/gifts/plush.html">
 <span>Plush</span>
 </a>
-</li><li class="level1 nav-6-24">
+</li><li id="nav-serving-sets" class="level1 nav-6-22">
 <a href="http://www.papyrusonline.com/gifts/serving-sets.html">
 <span>Serving Sets</span>
 </a>
-</li><li class="level1 nav-6-25">
-<a href="http://www.papyrusonline.com/gifts/stamps.html">
-<span>Stamps</span>
-</a>
-</li><li class="level1 nav-6-26 parent">
+</li><li id="nav-toys-amp-games" class="level1 nav-6-23 parent">
 <a href="http://www.papyrusonline.com/gifts/toys-and-games.html">
 <span>Toys &amp; Games</span>
 </a>
-</li><li class="level1 nav-6-27">
+</li><li id="nav-trinket-amp-keepsake-boxes" class="level1 nav-6-24">
 <a href="http://www.papyrusonline.com/gifts/trinket-and-keepsake-boxes.html">
 <span>Trinket &amp; Keepsake Boxes</span>
 </a>
-</li><li class="level1 nav-6-28">
+</li><li id="nav-wedding" class="level1 nav-6-25">
 <a href="http://www.papyrusonline.com/gifts/wedding.html">
 <span>Wedding</span>
 </a>
-</li><li class="level1 nav-6-29">
+</li><li id="nav-women-s-accessories" class="level1 nav-6-26">
 <a href="http://www.papyrusonline.com/gifts/women-s-accessories.html">
 <span>Women's Accessories</span>
-</a>
-</li><li class="level1 nav-6-30">
-<a href="http://www.papyrusonline.com/gifts/writing-instruments.html">
-<span>Writing Instruments</span>
 </a>
 </li>
 </ul>
@@ -750,7 +725,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-7 level-top parent">
+</li><li id="nav-gift-wrap" class="level0 nav-7 level-top parent">
 <a href="http://www.papyrusonline.com/gift-wrap.html" class="level-top">
 <span>Gift Wrap</span>
 </a>
@@ -760,15 +735,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-7-11">
+<li id="nav-view-all" class="level1 nav-7-11">
 <a href="http://www.papyrusonline.com/gift-wrap.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-7-12">
+</li><li id="nav-best-sellers" class="level1 nav-7-12">
 <a href="http://www.papyrusonline.com/gift-wrap.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-7-13">
+</li><li id="nav-new-arrivals" class="level1 nav-7-13">
 <a href="http://www.papyrusonline.com/gift-wrap.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -777,43 +752,43 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-7-1 first parent featured">
-<a href="http://www.papyrusonline.com/gift-wrap/holiday-wrap.html">
-<span>Holiday Wrap</span>
+<li id="nav-father-s-day" class="level1 nav-7-1 first featured">
+<a href="http://www.papyrusonline.com/gift-wrap/fathers-day.html">
+<span>Father's Day</span>
 </a>
-</li><li class="level1 nav-7-2">
+</li><li id="nav-graduation" class="level1 nav-7-2 featured">
+<a href="http://www.papyrusonline.com/gift-wrap/graduation.html">
+<span>Graduation</span>
+</a>
+</li><li id="nav-gift-bags" class="level1 nav-7-3">
 <a href="http://www.papyrusonline.com/gift-wrap/gift-bags.html">
 <span>Gift Bags</span>
 </a>
-</li><li class="level1 nav-7-3">
+</li><li id="nav-gift-enclosures" class="level1 nav-7-4">
 <a href="http://www.papyrusonline.com/gift-wrap/gift-enclosures.html">
 <span>Gift Enclosures</span>
 </a>
-</li><li class="level1 nav-7-4">
+</li><li id="nav-gift-tags" class="level1 nav-7-5">
 <a href="http://www.papyrusonline.com/gift-wrap/gift-tags.html">
 <span>Gift Tags</span>
 </a>
-</li><li class="level1 nav-7-5">
+</li><li id="nav-labels-amp-seals" class="level1 nav-7-6">
 <a href="http://www.papyrusonline.com/gift-wrap/labels-and-seals.html">
 <span>Labels &amp; Seals</span>
 </a>
-</li><li class="level1 nav-7-6">
+</li><li id="nav-ribbon-amp-bows" class="level1 nav-7-7">
 <a href="http://www.papyrusonline.com/gift-wrap/ribbon-bows.html">
 <span>Ribbon &amp; Bows</span>
 </a>
-</li><li class="level1 nav-7-7">
-<a href="http://www.papyrusonline.com/gift-wrap/treat-bags-and-boxes.html">
-<span>Treat Bags &amp; Boxes</span>
-</a>
-</li><li class="level1 nav-7-8">
+</li><li id="nav-tissue-paper" class="level1 nav-7-8">
 <a href="http://www.papyrusonline.com/gift-wrap/tissue-paper.html">
 <span>Tissue Paper</span>
 </a>
-</li><li class="level1 nav-7-9">
+</li><li id="nav-wrapping-paper" class="level1 nav-7-9">
 <a href="http://www.papyrusonline.com/gift-wrap/wrapping-paper.html">
 <span>Wrapping Paper</span>
 </a>
-</li><li class="level1 nav-7-10">
+</li><li id="nav-recycled" class="level1 nav-7-10">
 <a href="http://www.papyrusonline.com/gift-wrap/recycled.html">
 <span>Recycled</span>
 </a>
@@ -824,7 +799,7 @@ optionalZipCountries = [];
 <div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
 </div>
-</li><li class="level0 nav-8 level-top last parent">
+</li><li id="nav-sale" class="level0 nav-8 level-top last parent">
 <a href="http://www.papyrusonline.com/sale.html" class="level-top">
 <span>Sale</span>
 </a>
@@ -834,15 +809,15 @@ optionalZipCountries = [];
 <ul class="level0">
 <li class="col-1-1">
 <ul class="level0">
-<li class="level1 nav-8-10">
+<li id="nav-view-all" class="level1 nav-8-9">
 <a href="http://www.papyrusonline.com/sale.html">
 <span>View All</span>
 </a>
-</li><li class="level1 nav-8-11">
+</li><li id="nav-best-sellers" class="level1 nav-8-10">
 <a href="http://www.papyrusonline.com/sale.html?dir=asc&amp;order=num_sold">
 <span>Best Sellers</span>
 </a>
-</li><li class="level1 nav-8-12">
+</li><li id="nav-new-arrivals" class="level1 nav-8-11 last">
 <a href="http://www.papyrusonline.com/sale.html?dir=asc&amp;order=entity_id">
 <span>New Arrivals</span>
 </a>
@@ -851,41 +826,37 @@ optionalZipCountries = [];
 </li>
 <li class="col-1-2">
 <ul class="level0">
-<li class="level1 nav-8-1 first parent featured">
-<a href="http://www.papyrusonline.com/sale/chanukah.html">
-<span>Chanukah</span>
+<li id="nav-mother-s-day" class="level1 nav-8-1 first parent featured">
+<a href="http://www.papyrusonline.com/sale/mothers-day-1.html">
+<span>Mother's Day</span>
 </a>
-</li><li class="level1 nav-8-2 parent featured">
-<a href="http://www.papyrusonline.com/sale/holiday-greeting-cards.html">
-<span>Christmas</span>
+</li><li id="nav-graduation" class="level1 nav-8-2 parent featured">
+<a href="http://www.papyrusonline.com/sale/graduation-1.html">
+<span>Graduation</span>
 </a>
-</li><li class="level1 nav-8-3 parent featured">
-<a href="http://www.papyrusonline.com/sale/holiday-gifts-1.html">
-<span>Holiday Gifts</span>
+</li><li id="nav-easter" class="level1 nav-8-3 featured">
+<a href="http://www.papyrusonline.com/sale/easter.html">
+<span>Easter</span>
 </a>
-</li><li class="level1 nav-8-4 parent">
-<a href="http://www.papyrusonline.com/sale/greeting-cards-1.html">
+</li><li id="nav-valentine-s-day" class="level1 nav-8-4 featured">
+<a href="http://www.papyrusonline.com/sale/valentines-day.html">
+<span>Valentine's Day</span>
+</a>
+</li><li id="nav-greeting-cards" class="level1 nav-8-5 parent">
+<a href="http://www.papyrusonline.com/sale/greeting-cards.html">
 <span>Greeting Cards</span>
 </a>
-</li><li class="level1 nav-8-5">
+</li><li id="nav-stationery" class="level1 nav-8-6">
 <a href="http://www.papyrusonline.com/sale/stationery.html">
 <span>Stationery</span>
 </a>
-</li><li class="level1 nav-8-6">
+</li><li id="nav-invitations-amp-accessories" class="level1 nav-8-7">
 <a href="http://www.papyrusonline.com/sale/invitations-accessories.html">
 <span>Invitations &amp; Accessories</span>
 </a>
-</li><li class="level1 nav-8-7">
+</li><li id="nav-everyday-gifts" class="level1 nav-8-8">
 <a href="http://www.papyrusonline.com/sale/gifts.html">
 <span>Everyday Gifts</span>
-</a>
-</li><li class="level1 nav-8-8">
-<a href="http://www.papyrusonline.com/sale/gifts-for-children.html">
-<span>Gifts for Children</span>
-</a>
-</li><li class="level1 nav-8-9">
-<a href="http://www.papyrusonline.com/sale/gift-wrap.html">
-<span>Gift Wrap</span>
 </a>
 </li>
 </ul>
@@ -921,9 +892,7 @@ optionalZipCountries = [];
 </div><!-- //breadcrumbs -->
 						<div id="col-left" class="col-left sidebar">
 							<div id="col-left-inner">
-								<div class="block cms-menu last-block">
-	<ul class="cms-menu"><li class="parent"><a href="http://www.papyrusonline.com/customer-services"><span>Customer Service</span></a><ul><li><a href="http://www.papyrusonline.com/customer-services/customer-service"><span>Customer Service</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/faq"><span>FAQ</span></a></li><li><strong>Privacy &amp; Security</strong></li><li><a href="http://www.papyrusonline.com/customer-services/returns"><span>Returns</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/payment-pricing"><span>Payment &amp; Pricing</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/perfect-card"><span>PAPYRUS Rewards</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/green"><span>Live Green</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/artist-submissions"><span>Artist Submissions</span></a></li></ul></li></ul></div>    	
-							</div>
+															</div>
 						</div>
 						<div id="main">
 							<div id="main-inner">
@@ -1029,6 +998,29 @@ optionalZipCountries = [];
 	</div>
 	<div id="footer" class="width980">
 		<div id="footer-inner">
+			<div id="footer-newsletter">
+				<form action="https://www.papyrusonline.com/newsletter/subscriber/new/" method="post" id="newsletter-footer-validate-detail">
+	<h3 class="title">Sign Up for Special Offers</h3>	
+	<input type="text" name="email" id="newsletter_footer" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''; this.style.color='#333';" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email">
+	<button type="submit" class="button" id="btnNewsletter_footer" title="Subscribe"><span><span>Subscribe</span></span></button>
+	<div class="clr"><!-- ie6 --></div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-footer-validate-detail');
+//]]>
+</script>
+<script type="text/javascript">
+	
+	try {
+		$('btnNewsletter_footer').observe('click', function(){
+			if(newsletterSubscriberFormDetail.validator.validate()){
+				_gaq.push(['_trackEvent', 'Newsletter', 'submit', $('newsletter_footer').value]);
+			}
+		});
+	} catch(err) {} 
+	
+</script>			</div>
 			<div id="footer-link">
 				<a href="http://www.papyrusonline.com/custom-printing.html">Custom Printing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.papyrusonline.com/i-occasions.html">Occasions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1049,11 +1041,11 @@ optionalZipCountries = [];
 	<div id="closure" class="width980">
 		<div id="closure-inner">
 						<div id="closure-content">
-				© 2011 PAPYRUS
+				© 2012 PAPYRUS
 <span>|</span>
 <a href="http://www.papyrusonline.com/about-papyrus/about-us">About PAPYRUS</a>
 <span>|</span>
-<a href="http://www.papyrusonline.com/store-locator">Store Locator</a>
+<a href="http://www.papyrusonline.com/store-directory">Store Directory</a>
 <span>|</span>
 <a href="http://www.papyrusonline.com/customer-services">Customer Service</a>
 <span>|</span>
