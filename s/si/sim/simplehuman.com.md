@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplehuman.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073251id_/http%3A//www.simplehuman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplehuman.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524051814id_/http%3A//www.simplehuman.com/privacy.html) for the most accurate reproduction.*
 
 # simplehuman: privacy policy
 
