@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033556id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180219id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
 
 # Hairtrade.com - Privacy Policy
 
