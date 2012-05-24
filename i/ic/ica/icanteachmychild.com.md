@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanteachmychild.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073118id_/http%3A//www.icanteachmychild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanteachmychild.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524051906id_/http%3A//www.icanteachmychild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,5 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 **Changes to this Privacy Statement**
 
 The contents of this statement may be altered at any time, at our discretion.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.icanteachmychild.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
