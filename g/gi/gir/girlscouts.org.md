@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014151id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524060833id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
 
 # Girl Scouts of the USA: Privacy Policy
 
@@ -10,11 +10,11 @@ Girl Scouts of the USA is committed to protecting the privacy of our visitors. T
 
 If our policy practices change in the future, we will let you know by posting the policy changes on our Web site. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected.
 
-Girl Scouts' online properties comprise of, but are not limited to, all pages found under www.girlscouts.org, including our online shop and our destination sites for girls and teens, called Go Girls Only and STUDIO 2B respectively.
+Girl Scouts' online properties comprise of, but are not limited to, all pages found under www.girlscouts.org, including our online shop and our destination sites for girls and teens, called Girl Scouts _for girls_ ([forgirls.girlscouts.org](http://forgirls.girlscouts.org/)) and LMK (lmk.girlscouts.org) respectively.
 
 DATA COLLECTION
 
-Girl Scouts of the USA uses its best efforts to respect and protect the privacy of its online visitors. At our site, we do not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view our site. Girl Scouts of the USA only gathers personally identifiable data, such as names, addresses, zip/postal codes, email addresses, etc., when voluntarily submitted by a visitor. For example, personally identifiable information is collected in order to process online transactions, online donations, or job applications. This information is used solely by Girl Scouts of the USA or other entities who are involved in the operation of this site for internal purposes. We do not sell information you provide to us online to third parties. We will only share personally identifiable information with third parties when (i) the person submitting the information authorizes us to share it; (ii) sharing the information is a necessary operation of the site, for instance, to process a credit card transaction, or (iii) we are required to by law. Girl Scouts of the USA has no control over or responsibility for the data collection and use practices of third parties that process online transactions.
+Girl Scouts of the USA uses its best efforts to respect and protect the privacy of its online visitors. At our site, we do not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view our site. Girl Scouts of the USA only gathers personally identifiable data, such as names, addresses, Zip/postal codes, email addresses, etc., when voluntarily submitted by a visitor. For example, personally identifiable information is collected in order to process online transactions, online donations, or job applications. This information is used solely by Girl Scouts of the USA or other entities who are involved in the operation of this site for internal purposes. We do not sell information you provide to us online to third parties. We will only share personally identifiable information with third parties when (i) the person submitting the information authorizes us to share it; (ii) sharing the information is a necessary operation of the site, for instance, to process a credit card transaction, or (iii) we are required to by law. Girl Scouts of the USA has no control over or responsibility for the data collection and use practices of third parties that process online transactions.
 
 CHILDREN'S PRIVACY
 
@@ -65,6 +65,12 @@ If you have any questions about our Privacy Policy, you can contact us at:
 Girl Scouts of the USA  
 420 Fifth Avenue  
 New York, NY 10018  
-Phone: (800) GSUSA 4 U
+Phone: (800) GSUSA 4 U [(800) 478-7248] or (212) 852-8000
+
+If needed, the Information and Referral Center representative can guide you through the Language Line Service, which provides telephone interpretation in 140 languages Monday-Friday, 8:00 a.m.-7:30 p.m. EST.
+
+**E-mail**
+
+You can [e-mail](https://web.archive.org/contact/email.asp) us your question and we will get back to you as soon as possible.
 
 Thank you for visiting our site.
