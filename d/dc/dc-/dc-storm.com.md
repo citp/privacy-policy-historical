@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525080812id_/http%3A//www.dc-storm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc-storm.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524095225id_/http%3A//www.dc-storm.com/privacy) for the most accurate reproduction.*
 
-# Privacy - DC Storm
+# Privacy - DC Storm: Digital Marketing Technology and Service - Multi-Attribution, PPC Optimisation, Container Tag and Multi-Channel Tracking and Reporting
 
 DCS collects and uses certain types of information about visitors to its web site in order to operate flexibly and provide a high level of service.
 
