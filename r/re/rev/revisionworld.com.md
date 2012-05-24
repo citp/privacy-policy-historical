@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2007-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070705222223id_/http%3A//www.revisionworld.com%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524051251id_/http%3A//revisionworld.co.uk/content/privacy) for the most accurate reproduction.*
 
-# Revision World | Privacy
+# Privacy | content, privacy | Revision World
 
 **Privacy Policy**
 
@@ -10,7 +10,7 @@
 
 RevisionWorld.com is an online service that allows our members to revise from educational materials. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. RevisionWorld members can change their profile information at any time. 
 
-RevisionWorld.com cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at [webmaster@RevisionWorld.com](mailto:webmaster@RevisionWorld.com)
+RevisionWorld.com cares deeply about online privacy If you have any questions concerning this privacy policy, please contact us.[](mailto:webmaster@RevisionWorld.com)
 
 **_Information Collection and Use by RevisionWorld.com_**
 
@@ -54,7 +54,7 @@ Ads appearing on this Web site may be delivered to users by RevisionWorld.com or
 
 **_Security_**
 
-RevisionWorld.com member accounts are secured by member-created passwords RevisionWorld.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on RevisionWorld.com, please contact us a [webmaster@RevisionWorld.com](mailto:webmaster@RevisionWorld.com)
+RevisionWorld.com member accounts are secured by member-created passwords RevisionWorld.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on RevisionWorld.com, please contact us. 
 
 **_Sharing and Disclosure of Information RevisionWorld.com Collects_**
 
@@ -66,7 +66,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 **_Contacting the Web Site_**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [webmaster@RevisionWorld.com](mailto:webmaster@RevisionWorld.com)
-
-  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us. 
