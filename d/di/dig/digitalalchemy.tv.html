@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitalalchemy.tv privacy policy that was archived on 2011-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524083526id_/http%3A//www.digitalalchemy.tv/2007/05/digital-alchemy-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitalalchemy.tv privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524054107id_/http%3A//www.digitalalchemy.tv/2007/05/digital-alchemy-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -139,44 +139,14 @@ div.b-mobile {display:none;}
 <body><script type="text/javascript">
     function setAttributeOnload(object, attribute, val) {
       if(window.addEventListener) {
-        window.addEventListener("load",
+        window.addEventListener('load',
           function(){ object[attribute] = val; }, false);
       } else {
         window.attachEvent('onload', function(){ object[attribute] = val; });
       }
     }
-    function showRelatedContent(args) {
-      var el = document.getElementById('related-iframe');
-      if (el.parentNode.style.display != 'none') {
-        el.parentNode.style.display = 'none';
-        document.onclick = showRelatedContent.prevOnClick;
-        return;
-      }
-      
-      var match = /(?:^[?]|&)c=([0-9]+)(?:&|(?!.))/.exec(args);
-      if (match !== null) {
-        document.getElementById('related-loading').style.left = match[1] + 'px';
-        el.style.left = Math.max(0, match[1] - parseInt(el.width) / 2) + 'px';
-      }
-      el.src = "http://www.blogger.com"
-          + '/related-content.g?q='
-          + window.location.href
-          + '&id=' + "33126917";
-      el.parentNode.style.display = 'block';
-      showRelatedContent.prevOnClick = document.onclick;
-
-      // Hide related-content dropdown when clicking anywhere but on it.
-      document.onclick = function() {
-        var el = document.getElementById('related-iframe');
-        if (el.parentNode.style.display != 'none') {
-          el.parentNode.style.display = 'none';
-        }
-        document.onclick = showRelatedContent.prevOnClick;
-      };
-    }
   </script>
-<iframe src="http://www.blogger.com/navbar.g?targetBlogID=33126917&amp;blogName=Digital+Alchemy+dot+TV&amp;publishMode=PUBLISH_MODE_HOSTED&amp;navbarType=BLUE&amp;layoutType=CLASSIC&amp;searchRoot=http%3A%2F%2Fwww.digitalalchemy.tv%2Fsearch&amp;blogLocale=en_US&amp;homepageUrl=http%3A%2F%2Fwww.digitalalchemy.tv%2F" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" allowtransparency="true" title="Blogger Navigation and Search"></iframe>
-
+<iframe src="http://www.blogger.com/navbar.g?targetBlogID=33126917&amp;blogName=Digital+Alchemy+dot+TV&amp;publishMode=PUBLISH_MODE_HOSTED&amp;navbarType=BLUE&amp;layoutType=CLASSIC&amp;searchRoot=http://www.digitalalchemy.tv/search&amp;blogLocale=en_US&amp;homepageUrl=http://www.digitalalchemy.tv/&amp;vt=468569861942208122" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" allowtransparency="true" title="Blogger Navigation and Search"></iframe>
 <div></div>
 <center>
 
@@ -839,6 +809,6 @@ pageTracker._setDomainName(".digitalalchemy.tv");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<script type="text/javascript" src="http://www.blogger.com/static/v1/common/js/4153895687-csitail.js"></script>
+<script type="text/javascript" src="http://www.blogger.com/static/v1/common/js/612699025-csitail.js"></script>
 <script type="text/javascript">BLOG_initCsi('classic_blogspot');</script>
 </body></html>
