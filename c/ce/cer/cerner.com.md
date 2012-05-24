@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214110228id_/http%3A//www.cerner.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524205409id_/http%3A//www.cerner.com/Privacy) for the most accurate reproduction.*
 
-# Legal: Cerner.com
+# Privacy Policy : Cerner.ca
 
 Overview
 
@@ -11,7 +11,7 @@ Cerner Corporation, its subsidiaries and its affiliates ("Cerner") is committed 
   * Personally identifiable information provided by users (name, e-mail or home address, etc.) will not be disclosed to anyone unless users indicate that Cerner may do so, or unless required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
   * Only statistical information about Cerner.com users as a group (usage habits, demographics) may be shared with any affiliate, subsidiary, sponsor, advertiser or partner of Cerner, unless an appropriate confidentiality agreement is in place. Cerner employs strict security measures to safeguard online transactions. All personal information is stored in a secured database.
 
- 
+
 
 The following discloses Cerner’s information gathering and dissemination practices for Cerner.com. Additional terms and conditions, if any, regarding the collection and use of your information may also be provided to you before you sign up for a particular service. Here you will learn what personally identifiable information of yours is collected, how and when Cerner might use your information, how Cerner protects your information, who has access to your information, and how you can correct any inaccuracies in the information.
 
@@ -29,7 +29,11 @@ An IP address is a number automatically assigned to your computer whenever you a
 
 Cerner places a text file called a "cookie" in the browser files of your computer. Cookies are pieces of information that a Web site transfers to an individual's hard disk for record keeping purposes. Cerner.com uses cookies during your online session to deliver content specific to your interests. Cookies allow Cerner to avoid showing you the same ad or other message repeatedly. Cerner Web Site cookies do not contain personal information. They do enable Cerner to relate your use of the site to information that you have specifically and knowingly provided to Cerner.com.
 
-(c) Registration (User-Supplied Information)
+(c) Web Analytics
+
+Cerner may use Google Analytics to understand Cerner.com's site usage. Site usage information is used to help design, develop, and support Cerner.com. To the extent Cerner uses Google Analytics Google receives and stores Cerner.com’scontributed site usage information (such as pages accessed), but it does not receive any individually identifiable or sensitive information as a part of this process. If you do not want data collected by Google Analytics, you can use the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout) available on Google's website.
+
+(d) Registration (User-Supplied Information)
 
 Cerner.com site registration systems require users to give Cerner contact information such as their name and e-mail address, and demographic information such as a ZIP code, income level, organization and/or role. The user's contact information is used to contact the user when necessary. Users may choose (opt-in) to receive future mailings; see the choice/opt-in section below. Cerner uses this data to tailor the user's experience at Cerner.com, showing the user content that reflects their stated preferences. This information may be shared with affiliates, subsidiaries, sponsors, advertisers or partners on an aggregate basis, but personally identifiable information will not be disclosed without the user’s prior consent.
 
@@ -71,7 +75,7 @@ Choice/Opt-In; Review/Correct/Update; Contacting the Web Site
 
 Cerner.com gives users the opportunity to opt-in to receive communications from Cerner at the point where Cerner requests information about the user. This site also gives users the options listed below for removing their information from Cerner’s database in order to stop receiving communications or Cerner’s service; for reviewing, changing and modifying information previously provided (subject to reasonable frequency limitations, which Cerner has established as three or fewer requests per year); or should you have any questions about this privacy statement, the practices of this Web site, or your interaction with this Web site:
 
-  * You can send e-mail to: [webmaster@cerner.com](mailto:webmaster@cerner.com "Webmaster Email Address") 
+  * You can send e-mail to: [webmaster@cerner.com](mailto:webmaster@cerner.com "Webmaster Email Address")
   * You can send mail to the following postal address:
 
 Cerner.com
@@ -84,8 +88,9 @@ North Kansas City, Missouri 64117-2551
 
   * You can call the following telephone number: (816) 201-1122
 
- 
+
 
 As mentioned in the Terms of Use Agreement, ‘Modification of These Terms of Use’ section, Cerner reserves the right to change the terms, conditions, and notices under which the Cerner.com Web Site is offered, including but not limited to any changes associated with the use of the Cerner.com Web Site now or in the future. You are responsible for regularly reviewing these terms and conditions. However, please note that we will give Web users the opportunity to opt-out or prohibit new/unrelated uses of their personal information.
 
-Effective Date: September 8, 2001; Updated January 27, 2004, July 2, 2004 and January 27, 2005
+Effective Date: September 8, 2001  
+Revised Date: April 11, 2012
