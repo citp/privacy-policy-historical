@@ -1,95 +1,192 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101081728id_/http%3A//www.thebody.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525012447id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
 
-# The Body: Privacy Policy
+# Remedy Health Media, LLC
 
-| 
-
-###### 
-
-This Web site is a service of The HealthCentral Network, Inc., the corporate parent of Body Health Resources Corporation. HealthCentral respects the privacy of visitors to this Site. Please read this Privacy Policy carefully so that you understand what information we collect through the Site and what we do with that information. This Privacy Statement applies only to information collected online through the Site and, where specified, through other services within the Network, and does not describe the ways in which we may collect or use information obtained offline or through any other means. 
-
-This privacy policy may change from time to time. Questions or comments regarding it may be directed to [registration@thebody.com](mailto:registration@thebody.com), or in writing to The HealthCentral Network, Inc., 2300 Wilson Boulevard, Suite 600, Arlington, VA 22201, attention: General Counsel. 
-
-### COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION
-
-You do not need to provide any information that identifies you ("Contact Information") to obtain information from The Body. In general, you can visit the site without revealing your identity or any Contact Information. Your decision to provide personal information, including your name, e-mail address, or personal health information, to access special features at The Body is completely voluntary. 
-
-You may choose to provide The Body with Contact Information for the following purposes: 
-
-  * **Information Updates**  
-You may opt to give us your e-mail address and join a list of visitors to whom The Body distributes regular updates about new features, information and services (such as new treatment options, forums, conference coverage, or pharmacy or clinical trial services we may offer from time to time). These updates are distributed by e-mail. We do not furnish these e-mail addresses to third parties, unless you explicitly agree; provided however that we may use third party vendors to distribute our e-mails or provide related services. We contractually require any such vendor to keep your e-mail address confidential and not use it for any purpose other than what we have hired them to do. To make our communications personally relevant (unless we state otherwise at the time you furnish the e-mail address), we may associate your e-mail address with other information provided to us by you, previously, concurrently or subsequently. You may unsubscribe from this feature at any time. 
-  * **Comments**  
-You may write to us with comments about the site. You need not identify yourself to send a comment or question; you may remain anonymous. If you choose to provide Contact Information in your comment or question, we may keep it in our correspondence files and we may send you a response. The Body does not furnish any e-mail addresses received in this manner to third parties, unless you explicitly agree; provided however that we may use third party vendors to distribute our e-mails or provide related services. We contractually require any such vendor to keep your e-mail address confidential and not use it for any purpose other than what we have hired them to do. 
-  * **Public Forums**  
-You may choose to participate in expert question and answer forums, bulletin boards and chat rooms. You need not disclose Contact Information to participate in these activities. We make no attempt to deduce personal identities from non-personal information such as Internet Protocol (IP) addresses. In expert question and answer forums, we attempt to eliminate inadvertent disclosures by visitors of potentially identifying information in publicly posted questions, but there can be no assurance that we will delete all Contact Information that may be disclosed. Accordingly, please remember that any information posted publicly in these areas becomes public information. You should exercise caution when deciding to disclose your Contact Information in public. 
-  * **Research and Buyers' Club Opportunities**  
-If you are at least 18 years of age, you may submit personally identifiable information about your health to The Body for purposes of volunteering for research which may be conducted or arranged by various clinical researchers and laboratories which are independent of The Body, or utilizing discount buying programs which may be hosted by The Body, and involve the services of various companies, such as pharmacies, that are also independent of The Body. Your decision to provide your personal health information, including your HIV-related health information, is completely voluntary. We understand how sensitive this information is. 
-
-Accordingly, before you provide any of your personal health information in an application to participate in clinical trials or buying programs, The Body requires you to read and agree to the terms and conditions of Participation Agreement related to such program and to consent to the release to others of the health information you will be providing, particularly your HIV status. The terms under which this Contact Information is provided are set out in more detail in the Participation Agreement, and we urge you to read it carefully. It also indicates the care we take to store the information you provide in a secure manner, using encryption. Your consent authorizes The Body to provide your Contact Information to the clinical researchers and laboratories involved in the specific trials for which you are volunteering and/or to the independent buyers' club providers described in the Participation Agreement, such as pharmacies. You can change your mind and decide not to disclose your personal health information at any time before you submit the Participation Agreement. Further, if you choose to agree to the Participation Agreement and to disclose your personal health information, at any time, you may request that The Body no longer provide your personal health information to clinical researchers, laboratories, buyers' club providers or other third parties. 
-
-  * **Sponsored Offers**  
-Our advertisers and other sponsors may collect information from users of this Site through offer forms that we display on the Site on their behalf. These forms are labeled as advertisements or identify the advertiser or other sponsor that is making the offer and may ask you to provide Contact Information, demographic information, health-related information, and other information. As will be apparent from the Web page on which the form is displayed, we submit the information you provide on such forms directly to the advertiser or other sponsor identified on the form and we retain a copy of such information only for as long as is necessary to establish to the satisfaction of the advertiser or sponsor the value we have provided. 
-
-
-
-### COLLECTION AND USE OF NON-PERSONALLY IDENTIFIABLE INFORMATION
-
-  * **Anonymous Surveys**  
-You may elect to participate in a visitor survey by filling out an electronic survey form and submitting the results. Unless you explicitly agree, these surveys do not collect any Contact Information -- and when data is collected anonymously it is not associated with your Contact Information. 
-  * **Cookies**  
-Web sites can gather certain non-personally identifiable information about the usage of their sites through the use of "cookies." "Cookies" are small text files that are used to recognize repeat visitors, facilitate ongoing access to some sites, allow sites to understand how and when pages are visited and by how many people, and maintain identities during user sessions. 
-
-Our cookies consist of an alphanumeric identifier that allows us to track the pages you've visited on our Site. We use cookies and other technologies, including digital image files known as web beacons (also referred to as pixel tags or clear GIFs), that allow us to track user activity. For example, our servers automatically collect usage information about how you and other visitors interact with our Site, such as the number of visitors to our Site and to pages within our Site, the frequency with which you and other visitors access individual pages within the Site, the time you and other visitors spend on the Site and on pages within the Site, and other similar information ("Usage Data"). We aggregate this Usage Data to understand overall visitor traffic patterns. We use this information to improve our Site by making it more responsive to the needs of our users. We also use cookies to deliver content specific to your interests, and to avoid showing you the same ad or other message repeatedly. Our cookies do not collect or contain your personally identifiable information. We do not combine the Usage Data we collect with your personally identifiable information. Usage Data enables us to figure out how often users access parts of the Sites so that we can make the Site appealing to as many users as possible, and improve the content. We may share this aggregate information with advertisers and other third parties, but it does not indicate the identity of individual users. Our advertisers and third parties that provide advertising, products and/or services through our site may also assign their own cookies, or place their own web beacons, a process we don't control. 
-
-We do not track your movements on third party sites and we do not have agreements with third-party advertisers or others to use cookies to create user profiles of visitors to The Body. 
-
-The help function on most Web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of some of our Sites' most attractive features. Many companies offer programs that help you to visit Web sites anonymously. While we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
-
-  * **Internet Protocol Addresses**  
-An Internet Protocol (IP) address is a number automatically assigned to your computer whenever you access the Internet. This number does not identify your name, e-mail address or other Contact Information. If you request pages from The Body, The Body's servers enter your IP address into a log. To maintain user anonymity, The Body does not associate IP addresses with records containing Contact Information. We also do not permit IP addresses to be associated and viewed with posts to chat rooms and bulletin boards. The Body stores IP addresses for a period of time to help us to identify anyone who refuses to comply with The Body's in-house rules or terms of service, and to identify visitors who threaten our service, site, customers or others. The Body also uses its log of IP addresses to compile aggregate information on how our visitors are using The Body and to measure site traffic for internal purposes for us and our sponsors. This aggregate data helps us to understand how people are using The Body and helps us improve your experience with The Body. We also use IP address information for systems administration, to report aggregate information to sponsors and advertisers, and to conduct Site analysis. 
+                                         This	  Privacy	  Policy	  was	  last	  modified	  and	  is	  effective	  as	  of	  December	  6,	  2011.	  
+	  
+                                                                Remedy Health Media, LLC
+                                                                                  Privacy	  Policy	  
+                                                                                                  	  
+Remedy	  Health	  Media,	  LLC	  (“RHM”)	  operates	  a	  network	  of	  healthcare	  and	  fitness-­‐related	  websites	  
+(individually,	  a	  “Site”;	  collectively,	  the	  “Sites”).	  	  For	  a	  list	  of	  all	  the	  Sites	  within	  our	  network,	  see	  
+http://www.remedyhealthmedia.com/sites.	  	  This	  is	  the	  official	  privacy	  policy	  for	  all	  RHM	  Sites	  and	  this	  
+Privacy	  Policy	  forms	  a	  part	  of	  your	  legal	  agreement	  with	  us	  under	  the	  RHM	  Terms	  of	  Use.	  	  
+PLEASE	  READ	  THIS	  PRIVACY	  POLICY	  CAREFULLY	  AS	  IT	  DESCRIBES	  HOW	  WE	  COLLECT	  AND	  USE	  
+INFORMATION	  COLLECTED	  ABOUT	  YOU	  ONLINE	  AND	  UNDER	  WHAT	  CIRCUMSTANCES	  WE	  SHARE	  
+INFORMATION	  ABOUT	  YOU.	  Any	  terms	  not	  defined	  in	  this	  Privacy	  Policy	  are	  defined	  in	  the	  Terms	  of	  Use.	  
+	  
+1.        CHANGES	  TO	  PRIVACY	  POLICY.	  	  We	  reserve	  the	  right,	  in	  our	  sole	  discretion,	  to	  modify,	  add	  or	  
+delete	  provisions	  of	  this	  Privacy	  Policy	  at	  any	  time	  and	  from	  time	  to	  time	  by	  updating	  or	  revising	  this	  
+posting	  and	  such	  revisions	  shall	  take	  effect	  as	  of	  the	  date	  of	  posting.	  Your	  use	  of	  any	  of	  our	  Sites	  after	  
+the	  effective	  date	  of	  any	  such	  modification,	  means	  you	  accept	  and	  agree	  to	  be	  bound	  by	  the	  Privacy	  
+Policy,	  as	  modified.	  You	  should	  come	  back	  to	  this	  web	  page	  and	  review	  this	  Privacy	  Policy	  regularly	  so	  
+that	  you	  remain	  aware	  of	  the	  terms	  and	  conditions	  that	  apply	  to	  you.	  
+	  
+2.        NON-­‐PERSONAL	  INFORMATION	  COLLECTED	  AND	  HOW	  COLLECTED.	  	  When	  you	  access	  or	  visit	  any	  
+of	  our	  Sites,	  we	  and	  our	  operational	  service	  providers	  (as	  defined	  in	  the	  “Disclosure	  to	  Third	  Parties”	  
+section	  below)	  and	  others	  who	  host	  our	  Sites	  often	  use	  technology	  that	  can	  recognize,	  collect	  and/or	  
+transmit	  information	  that	  is	  associated	  with	  you,	  but	  which	  do	  not	  personally	  identify	  you.	  Although	  the	  
+term	  "cookie"	  specifically	  refers	  to	  a	  small	  text	  file	  that	  is	  stored	  on	  a	  user's	  computer	  for	  record-­‐
+keeping	  purposes,	  for	  the	  purposes	  of	  this	  Privacy	  Policy,	  we	  will	  use	  the	  term	  "cookie"	  to	  refer	  
+generically	  to	  any	  technology	  that	  can	  recognize,	  collect	  and/or	  transmit	  information	  about	  your	  visits	  to	  
+our	  Sites.	  This	  type	  of	  information	  includes	  such	  data	  as	  the	  Internet	  or	  web	  domain	  that	  referred	  you,	  
+the	  type	  of	  operating	  system	  and	  browser	  you	  are	  using,	  the	  date	  and	  time	  of	  your	  visit,	  data	  relating	  to	  
+activities	  on	  our	  Sites	  (e.g.,	  so-­‐called	  'clickstream'	  data)	  and	  other	  technological	  attributes	  about	  your	  
+visit	  to	  the	  Sites.	  This	  information	  is	  used	  to	  analyze	  trends,	  administer	  the	  Sites,	  track	  user	  movements	  
+on	  the	  Sites	  and	  gather	  aggregate	  demographic	  information	  about	  visitors	  so	  we	  can	  continually	  
+improve	  our	  Sites.	  	  	  
+Cookies	  also	  allow	  our	  Sites	  to	  recognize	  a	  users'	  computer	  or	  access	  device	  each	  time	  it	  is	  used	  to	  visit	  a	  
+particular	  Site	  and	  cookies	  can	  keep	  count	  of	  how	  often	  you	  return.	  Cookies	  can	  also	  track	  how	  you	  use	  
+our	  Sites,	  your	  preferences	  for	  features	  and	  functions	  and,	  for	  our	  Sites	  that	  have	  registration	  or	  similar	  
+features,	  cookies	  can	  store	  information	  such	  as	  your	  user	  name	  and	  password	  so	  you	  don't	  have	  to	  re-­‐
+enter	  them	  each	  time	  you	  return	  to	  visit.	  Cookies	  don't	  personally	  identify	  you	  or	  any	  particular	  user	  or	  
+individual.	  	  	  
+You	  can	  disable	  or	  turn	  the	  cookie	  feature	  off	  by	  changing	  the	  settings	  on	  your	  Internet	  browser	  and	  you	  
+can	  also	  change	  the	  settings	  to	  stop	  your	  browser	  from	  automatically	  accepting	  cookies.	  Although	  
+changing	  these	  settings	  may	  not	  affect	  your	  ability	  to	  browse,	  it	  may	  affect	  your	  ability	  to	  use	  certain	  
+features	  and	  functions	  of	  our	  Sites	  and	  it	  may	  also	  require	  you	  to	  re-­‐enter	  certain	  information	  each	  time	  
 
 
+you	  visit	  or	  attempt	  to	  use	  our	  Sites.	  You	  should	  consult	  the	  operating	  instructions	  that	  apply	  to	  your	  
+browser	  to	  determine	  how	  to	  best	  configure	  your	  browser	  settings	  for	  your	  needs.	  	  
+	  
+3.           PERSONAL	  INFORMATION	  COLLECTED.	  	  The	  term	  "Personal	  Information"	  refers	  to	  any	  
+information	  you	  provide	  in	  connection	  with	  your	  use	  of	  any	  of	  our	  Sites	  by	  which	  you	  can	  be	  personally	  
+identified.	  Personal	  Information	  may	  include	  such	  things	  as	  your	  name,	  street	  address,	  telephone	  
+number,	  date	  of	  birth,	  e-­‐mail	  address	  and	  any	  other	  information	  which	  might	  reasonably	  be	  used	  to	  
+identify	  you.	  We	  only	  obtain	  Personal	  Information	  from	  you	  when	  you	  submit	  it	  to	  us	  or	  provide	  it	  on	  
+one	  or	  more	  of	  our	  Sites	  that	  require	  it	  in	  order	  to	  allow	  you	  to	  register,	  subscribe	  or	  take	  advantage	  of	  
+certain	  features,	  functions,	  services,	  activities,	  promotions	  and	  content	  on	  our	  Sites	  (these	  are	  referred	  
+to	  as	  "Content"	  in	  our	  Terms	  of	  Use).	  You	  may	  also	  email	  us	  with	  a	  question	  or	  for	  more	  information	  and	  
+we	  will	  use	  your	  contact	  information	  (which	  includes	  Personal	  Information	  such	  as	  an	  email	  address)	  to	  
+help	  respond	  and	  for	  customer	  service	  purposes.	  Unless	  you	  voluntarily	  provide	  or	  send	  us	  Personal	  
+Information,	  we	  will	  always	  ask	  you	  to	  submit	  or	  provide	  it	  before	  collecting	  your	  Personal	  Information	  
+and	  unless	  we	  tell	  you	  otherwise,	  such	  Personal	  Information	  will	  be	  used	  for	  the	  purpose	  the	  
+information	  was	  provided	  and	  as	  set	  forth	  in	  this	  Privacy	  Policy.	  Please	  note	  that	  you	  may	  not	  be	  able	  to	  
+use	  some	  Content	  if	  you	  choose	  not	  to	  provide	  your	  Personal	  Information	  when	  requested.	  If	  you	  
+provide	  or	  submit	  your	  Personal	  Information	  to	  any	  of	  our	  Sites,	  we	  will	  always	  give	  you	  the	  right	  to	  
+review,	  update	  and/or	  delete	  your	  Personal	  Information,	  subject	  to	  our	  obligations	  to	  comply	  with	  legal,	  
+regulatory	  or	  internal	  audit	  and	  record-­‐keeping	  requirements.	  
+	  
+4.           HOW	  YOUR	  INFORMATION	  IS	  USED.	  	  	  We	  may	  use	  the	  information	  that	  we	  obtain	  from	  you,	  
+including	  Personal	  Information:	  (a)	  for	  the	  specific	  purpose	  for	  which	  it	  was	  submitted	  (e.g.,	  to	  receive	  
+communications	  by	  e-­‐mail);	  (b)	  to	  improve	  the	  Content,	  appearance	  and	  utility	  of	  our	  Sites;	  (c)	  to	  tailor	  
+your	  experience	  on	  our	  Sites;	  (d)	  to	  trace	  our	  visitors'	  use	  of	  our	  Sites	  for	  internal	  research	  purposes	  and	  
+to	  monitor	  compliance	  with	  our	  Terms	  of	  Use;	  and	  (e)	  to	  notify	  our	  visitors	  of	  updates	  to	  our	  Sites.	  	  
+If	  we	  or	  any	  of	  our	  Sites	  collect,	  maintain,	  use	  or	  intend	  to	  share	  your	  Personal	  Information	  for	  purposes	  
+other	  than	  as	  described	  in	  this	  Privacy	  Policy,	  we	  will	  ensure	  that	  it	  is	  included	  within	  the	  Additional	  
+Terms	  that	  applies	  to	  the	  Site	  or	  Sites	  involved	  or	  will	  post	  a	  notice	  to	  you	  before	  you	  submit	  your	  
+Personal	  Information.	  
+	  
+5.           PUBLIC	  POSTINGS.	  	  Some	  of	  our	  Sites	  may	  permit	  you	  to	  make	  Postings.	  	  If	  you	  make	  a	  Posting	  to	  
+any	  area	  of	  a	  Site	  that	  that	  may	  be	  accessed	  by	  other	  users	  (such	  as	  information	  you	  place	  on	  a	  message	  
+board,	  public	  profile,	  or	  chat	  room),	  please	  keep	  in	  mind	  that	  such	  information	  can	  be	  viewed	  and	  used	  
+by	  anyone	  with	  an	  Internet	  connection.	  	  Please	  use	  caution	  when	  disclosing	  Personal	  Information	  in	  
+these	  areas.	  	  Such	  information	  is	  not	  private	  and	  RHM	  and	  others	  are	  free	  to	  reproduce,	  use,	  disclose	  
+and	  distribute	  such	  information	  to	  others	  without	  limitation	  or	  attribution.	  	  Any	  information	  you	  
+disclose	  may	  also	  be	  used	  by	  third	  parties	  we	  do	  not	  control.	  	  We	  are	  not	  responsible	  for	  any	  
+information	  you	  choose	  to	  disclose	  to	  public	  areas	  of	  our	  Sites.	  
+	  
+6.           MINORS.	  	  Visitors	  that	  are	  minors	  in	  the	  state	  in	  which	  they	  reside	  are	  not	  permitted	  to	  use	  
+and/or	  submit	  their	  Personal	  Information	  to	  our	  Sites.	  Our	  Sites	  are	  not	  intended	  for	  minors	  and	  we	  do	  
+not	  knowingly	  solicit	  or	  collect	  information	  from	  minors.	  	  	  
+                                                                                        -2-
 
-### Disclosure of Your Contact Information
 
-The Body takes very seriously its responsibility to keep your Contact Information private. Accordingly, unless you have explicitly agreed otherwise, we do not make any of your personally identifiable information available to third parties, except as set forth below. 
+	  
+7.          ADVERTISERS,	  CO-­‐SPONSORS	  AND	  LINKS.	  	  Our	  Sites	  may	  contain	  or	  display	  information	  from	  co-­‐
+sponsors,	  advertisers,	  retailers,	  operational	  service	  providers	  or	  other	  unaffiliated	  third	  parties	  (each,	  a	  
+"Third	  Party")	  that	  offer	  to	  make	  information,	  goods	  or	  services	  available,	  provide	  opportunities	  to	  
+participate	  in	  promotions	  or	  engage	  in	  activities	  or	  that	  link	  or	  redirect	  your	  browser	  to	  other	  websites,	  
+materials	  or	  organizations.	  We	  may	  also	  use	  Third	  Parties	  to	  display	  or	  serve	  advertising	  on	  our	  Sites,	  as	  
+well	  as	  for	  distributing	  online,	  email,	  messaged	  or	  web-­‐based	  newsletters	  and	  other	  information.	  Third	  
+Parties	  often	  also	  employ	  cookies	  to	  measure	  advertising	  effectiveness.	  You	  should	  be	  aware	  that	  even	  
+if	  you	  encounter	  an	  advertisement,	  link	  or	  reference	  to	  a	  Third	  Party	  website	  on	  one	  of	  our	  Sites	  and	  
+even	  if	  we	  have	  a	  relationship	  with	  the	  Third	  Party,	  we	  do	  not	  control	  them,	  their	  websites	  or	  their	  
+policies	  and	  practices	  regarding	  use	  of	  their	  websites	  or	  any	  rules	  they	  have	  regarding	  the	  use	  of	  cookies	  
+or	  collection,	  use	  or	  disclosure	  of	  your	  information	  (including	  Personal	  Information).	  These	  are	  within	  
+their	  control	  and	  not	  ours	  and	  the	  terms	  and	  conditions,	  as	  well	  as	  the	  privacy	  policies	  that	  apply	  to	  
+these	  Third	  Parties	  and	  their	  websites	  are	  their	  responsibility,	  not	  ours.	  
+	  
+8.          DISCLOSURE	  TO	  THIRD	  PARTIES.	  	  We	  do	  not	  sell,	  rent,	  lease,	  provide	  or	  otherwise	  disclose	  your	  
+Personal	  Information	  to	  unaffiliated	  entities	  unless	  specifically	  here	  or	  in	  the	  Additional	  Terms	  that	  
+applies	  to	  your	  use	  of	  a	  particular	  Site.	  We	  will	  always	  let	  you	  know	  if	  we	  intend	  to	  provide	  any	  of	  your	  
+Personal	  Information	  to	  a	  Third	  Party.	  	  
+We	  always	  have	  the	  right	  to	  disclose	  your	  Personal	  Information	  to	  any	  Third	  Party	  we	  engage	  for	  the	  
+purpose	  of	  administering,	  operating,	  configuring	  site	  design,	  maintaining	  and	  providing	  internal	  support	  
+for	  our	  Sites	  and	  Content	  on	  the	  Sites.	  These	  Third	  Parties	  are	  called	  "operational	  service	  providers"	  and	  
+provide	  internal	  support	  to	  operations	  and	  activities	  and	  for	  Website	  design,	  development,	  hosting	  and	  
+operations.	  We	  always	  requests	  that	  our	  operational	  service	  providers	  protect	  your	  privacy	  and	  not	  
+disclose	  your	  Personal	  Information	  to	  third	  party	  marketers	  that	  are	  not	  associated	  with	  our	  Sites,	  nor	  
+are	  they	  permitted	  to	  use	  your	  Personal	  Information	  for	  their	  own	  marketing	  or	  promotional	  purposes.	  	  	  
+We	  also	  reserve	  the	  right	  to	  make	  your	  Personal	  Information	  available	  to	  Third	  Parties:	  
+               •      when	  compelled	  by	  a	  governmental	  agency,	  law,	  regulation,	  a	  court	  or	  other	  legal	  process;	  	  
+               •      if	  we	  believe	  you	  are,	  have	  or	  may	  violate	  any	  law,	  regulation,	  or	  our	  Terms	  of	  Use;	  	  
+               •      if	  we	  believe	  you	  are	  or	  may	  be	  a	  threat	  to	  the	  safety,	  property,	  interests	  or	  rights	  of	  RHM	  or	  
+                      others;	  	  
+               •      in	  order	  to	  investigate,	  respond	  to	  or	  resolve	  problems	  or	  inquiries	  or	  defend	  our	  interests;	  	  
+               •      in	  a	  merger,	  acquisition,	  change	  of	  control,	  joint	  venture	  or	  other	  business	  combination.	  
+	  
+9.          REMOVAL	  OF	  YOUR	  INFORMATION/OPTING	  OUT.	  	  At	  your	  request,	  RHM	  will	  remove	  Personal	  
+Information	  that	  you	  have	  provided	  to	  us.	  You	  may	  do	  so	  by	  emailing	  
+privacy@remedyhealthmedia.com.	  	  Some	  of	  our	  Sites	  may	  permit	  you	  to	  opt-­‐out	  of	  certain	  Voluntary	  
+Communications	  for	  which	  you	  have	  registered	  or	  subscribed	  to	  receive	  (such	  as	  newsletters)	  and	  
+promotional	  Automatic	  Communications.	  	  RHM	  also	  provides	  users	  the	  option	  to	  opt-­‐out	  from	  receiving	  
+Voluntary	  Communications	  sent	  by	  RHM	  on	  behalf	  of	  third	  party	  advertisers.	  Users	  may	  unsubscribe	  
+from	  receiving	  Voluntary	  Communications	  and	  promotional	  Automatic	  Communications	  from	  us	  at	  any	  
+time	  by	  following	  the	  instructions	  contained	  at	  the	  end	  of	  every	  email.	  Note,	  where	  RHM	  has	  provided	  
+                                                                                       -3-
 
-**A. Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Contact Information and other information that we have associated with Contact Information may be part of the transferred assets. 
 
-**B. Vendors:** HealthCentral, like many businesses, sometimes contracts with other companies to perform certain business-related functions. For example, we may use third party companies to provide e-mail and direct mail services, database research and maintenance, payment processing, and other services. If you have registered with the Site, we may share your Contact Information and other information that we have associated with your Contact Information, as necessary or desirable for the third party to provide such services for us. Those third parties have contractually committed not to use your Contact Information (and the information we've associated with your Contact Information) for any other purpose. 
+your	  Personal	  Information	  to	  third	  parties,	  as	  permitted	  in	  our	  Privacy	  Policy,	  we	  cannot	  control	  the	  use	  
+of	  that	  information	  by	  such	  third	  parties.	  	  
+Please	  note,	  you	  might	  continue	  to	  receive	  emails	  from	  us	  for	  up	  to	  ten	  (10)	  days	  following	  your	  
+unsubscribing.	  If,	  after	  that	  point,	  you	  are	  still	  receiving	  email	  from	  us,	  please	  contact	  us	  at	  
+privacy@remedyhealthmedia.com.	  
+	  
+10. SECURITY.	  	  We	  maintain	  a	  reasonable	  standard	  of	  security	  and	  confidentiality	  and	  try	  to	  limit	  
+information	  access	  to	  individuals	  who	  need	  to	  have	  such	  access	  to	  perform	  their	  responsibilities	  
+associated	  with	  our	  Sites	  and	  the	  Content	  on	  our	  Sites.	  The	  Internet,	  however,	  and	  communications	  
+therein	  cannot	  be	  guaranteed	  to	  be	  secure	  and	  it	  is	  possible	  that	  others	  may	  unlawfully	  intercept	  or	  
+access	  information,	  transmissions	  or	  communications	  to,	  from	  or	  within	  our	  Sites.	  By	  using	  our	  Sites	  you	  
+are	  agreeing	  to	  assume	  this	  risk	  and	  any	  and	  all	  responsibility	  and	  liability	  that	  may	  arise.	  
+	  
+11. YOUR	  RIGHTS	  REGARDING	  PERSONAL	  INFORMATION.	  	  In	  addition	  to	  any	  terms,	  conditions	  or	  
+rights	  that	  are	  described	  in	  this	  or	  any	  Supplemental	  Privacy	  Policy	  applicable	  to	  particular	  Sites,	  you	  
+always	  have	  the	  right	  to	  request	  that	  RHM:	  (a)	  correct	  or	  update	  your	  Personal	  Information;	  (b)	  not	  
+share	  your	  Personal	  Information	  with	  third	  parties;	  or	  (c)	  remove	  your	  Personal	  Information	  from	  our	  
+active	  marketing	  databases.	  Although	  we	  may	  provide	  you	  with	  the	  ability	  to	  update	  or	  delete	  Personal	  
+Information	  directly	  on	  our	  Site,	  some	  Personal	  Information	  may	  not	  be	  changed	  or	  deleted	  by	  you	  and	  
+may	  require	  you	  to	  contact	  RHM	  for	  verification	  (e.g.,	  birth	  date,	  email	  address,	  name).	  If	  any	  of	  our	  
+Sites	  do	  not	  allow	  you	  to	  update	  or	  delete	  Personal	  Information	  online,	  or	  if	  you	  need	  to	  change	  
+information	  that	  needs	  verification,	  please	  contact	  us	  at:	  privacy@remedyhealthmedia.com.	  
+	  
+12. YOUR	  CALIFORNIA	  PRIVACY	  RIGHTS.	  	  If	  you	  are	  a	  resident	  of	  the	  State	  of	  California,	  under	  the	  
+California	  Civil	  Code,	  you	  have	  the	  right	  to	  request	  information	  on	  how	  to	  exercise	  your	  disclosure	  
+choice	  options	  from	  companies	  conducting	  business	  in	  California.	  To	  do	  so,	  send	  a	  request	  for	  
+information	  indicating	  your	  preference	  as	  to	  how	  you	  would	  like	  RHM	  to	  respond	  to	  your	  request	  (i.e.,	  
+email	  or	  postal	  mail).	  To	  request	  such	  information,	  either	  send	  an	  email	  to	  our	  designated	  Privacy	  
+Administrator	  at	  privacy@remedyhealthmedia.com	  or	  contact	  us	  via	  postal	  mail,	  proper	  postage	  
+prepaid,	  at:	  
+Privacy	  Administrator	  	  
+Remedy	  Health	  Media,	  LLC	  
+500	  5th	  Avenue,	  19th	  Floor	  
+New	  York,	  NY	  10110	  
+Attn:	  Your	  California	  Privacy	  Rights	  
+All	  requests	  sent	  via	  postal	  mail	  must	  be	  labeled	  "Your	  California	  Privacy	  Rights"	  on	  the	  envelope	  or	  post	  
+card	  and	  clearly	  stated	  on	  the	  actual	  request.	  For	  all	  requests,	  please	  include	  your	  name,	  street	  address,	  
+city,	  state,	  and	  zip	  code.	  (Your	  street	  address	  is	  optional	  if	  you	  wish	  to	  receive	  a	  response	  to	  your	  
+request	  via	  email.	  Please	  include	  your	  zip	  code	  for	  our	  own	  recordkeeping.)We	  will	  not	  accept	  requests	  
+via	  the	  telephone	  or	  by	  facsimile.	  We	  are	  not	  responsible	  for	  notices	  that	  are	  not	  labeled	  or	  sent	  
+properly,	  or	  do	  not	  have	  complete	  information.	  
+	  
+                                                                                  -4-
 
-**C. Other Disclosures:** We may occasionally release information about our visitors when release is appropriate to comply with law or legal process, to enforce our Terms of Use or protect HealthCentral against legal liability, or to protect the rights, property, health, or safety of visitors to our Site, our advertisers, vendors, the public or HealthCentral. 
 
-At the specific request of users who volunteer for research opportunities or buying programs, we may share the Contact Information of those volunteers with participating researchers, laboratories or buyers' club providers administering the programs for which those users have volunteered. We will require by contract that these third parties hold Contact Information in strict confidence, and not use it for any reasons other than the ones for which the volunteer gave permission. These researchers, laboratories and buyers' club providers are independent of The Body, however, and there are limits on the assurance The Body gives you when information passes into their hands. Visitors considering volunteering should read carefully the Participation Agreement discussed under Research Opportunities, above, to understand the limits of our responsibility. 
-
-Except as set forth above, you will be notified before we share your Contact Information (and other information that we have associated with your Contact Information) with third parties, and we will not share such information with third parties without your consent. 
-
-### How We Protect Contact Information
-
-Our goal is to take measures to protect the privacy of any information you choose to provide, that are reasonable in the context of the information provided. Accordingly, The Body uses physical, electronic, managerial, and contractual procedures to safeguard and secure the information we collect online, and we use encryption and heightened security procedures when storing or transferring data provided to us by visitors seeking to participate in research opportunities. We only keep information for certain periods of time; we delete Contact Information received and general information on bulletin board postings and other public areas of the site when such information is no longer needed or has become outdated in our judgment. 
-
-We also safeguard Contact Information from unauthorized access. Only authorized employees and agents required by contract to observe our privacy practices are permitted to access Contact Information, and they only may do so for permitted business functions. Any employee who would violate our privacy access policies would be subject to disciplinary action. 
-
-### External Links
-
-The Body provides links to various Web sites other than our own, and we do not control them. Even if an affiliation exists between The Body and such a third-party Web site, The Body exercises no control over linked sites. When you click on one of these links, you will be transferred out of The Body and connected to the Web site of the organization or company that you selected. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to The Body, you should consult that site's privacy policy before providing any Contact Information. 
-
-### Safeguarding Children's Privacy
-
-It is The Body's policy not to collect Contact Information or any other identifying data from children under 13 years of age. Should a child whom we know to be under 13 send Contact Information to us, it is our policy not to use that information except to respond directly to that child to inform him or her that it is our policy not to accept the submission. Certain areas of The Body are dedicated to the important issues of AIDS and HIV among young people and children. These areas of our site present issues that are important to parents, children and health care professionals, but are not directed toward children under the age of 13. In this context, please be mindful of The Body's policy concerning external links, above. 
-
-### My Health Tracker Service
-
-By using the My Health Tracker Service offered by The Body, you agree to be subject to the terms of the Participation Agreement as part of the registration process. The terms of the Participation Agreement shall govern any Contact Information or other information that you submit through the My Health Tracker Service. 
-
-### Terms, Changes and Questions
-
-By using The Body, you signify your agreement to the terms of our privacy policy. If you do not agree with these terms, please do not disclose any Contact Information through The Body. If we decide to change The Body's privacy policy, we will post those changes here so that you will be aware of what information we gather, how we might use that information, and whether we will disclose it to anyone. 
-
-Questions or comments about this policy or the use of Contact Information may be sent to [registration@thebody.com](mailto:registration@thebody.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Contact Information. 
-
-_Last Updated May 19, 2010_
-
-| 
-
-Advertisement
+13. CONTACT	  US.	  	  If	  you	  have	  any	  questions	  about	  this	  Privacy	  Policy,	  please	  contact	  us	  at:	  
+privacy@remedyhealthmedia.com.	  
+	  
+©	  2011	  Remedy	  Health	  Media,	  LLC.	  All	  Rights	  Reserved.	  
+	  
+	  
+                                                                        -5-
