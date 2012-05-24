@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewscraze.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206172643id_/http%3A//www.viewscraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewscraze.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043358id_/http%3A//www.viewscraze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ViewsCraze
 
