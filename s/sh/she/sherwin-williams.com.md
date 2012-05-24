@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherwin-williams.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216074539id_/http%3A//www.sherwin-williams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwin-williams.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524220638id_/http%3A//www.sherwin-williams.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Sherwin-Williams
 
