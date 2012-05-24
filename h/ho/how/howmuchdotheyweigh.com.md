@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howmuchdotheyweigh.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124201114id_/http%3A//www.howmuchdotheyweigh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmuchdotheyweigh.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524204419id_/http%3A//www.howmuchdotheyweigh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,3 +84,5 @@ This document was last updated on September 19, 2011
   * [New Babe Each & Every Day](http://http//www.botd.com.au)
 
 
+
+[Report an image](https://web.archive.org/terms-of-use/)
