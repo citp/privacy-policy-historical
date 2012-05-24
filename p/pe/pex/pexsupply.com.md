@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pexsupply.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163741id_/http%3A//www.pexsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pexsupply.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524163206id_/http%3A//www.pexsupply.com/privacy) for the most accurate reproduction.*
 
 # At PexSupply.com, we are strongly committed to protecting privacy of our customers and our customer's businesses. We know that you may have concerns about privacy while shopping on the Internet and like to ensure you understand the security, protection, and privacy of information we guarantee. - PexSupply.com
 
@@ -10,7 +10,7 @@ When you make a purchase on PexSupply.com, you are asked to provide the informat
 
 ### Customer Accounts
 
-You may create an account through PexSupply.com at any time by providing your e-mail address and creating a unique access password, which will allow some of your information to be safely stored for future orders. Creating an account allows you to save time at checkout, set your ordering preferences, and easily refer back to past orders. You are not required to create an account to visit or order from PexSupply.com. For your privacy and security, *we do not store credit card numbers in your account.
+You may create an account through PexSupply.com at any time by providing your e-mail address and creating a unique access password, which will allow some of your information to be safely stored for future orders. Creating an account allows you to save time at checkout, set your ordering preferences, easily refer back to past orders, adjust your personal information and change your e-mail subscription settings. For your privacy and security, *we do not store credit card numbers in your account. You are not required to create an account to visit or order from PexSupply.com. If you wish to unsubscribe from future communications you can click on the 'Unsubscribe' link within any e-newsletter.
 
 ### How will my information be used?
 
