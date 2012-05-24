@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clockspot.net privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104184631id_/http%3A//www.clockspot.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clockspot.net privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525005428id_/http%3A//www.clockspot.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Clockspot.com
 
@@ -58,4 +58,4 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 ## Changes to this Privacy Policy
 
-Clockspot may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your Clockspot Message Inbox, the email address used to register your Clockspot account, or by placing a prominent notice on our site. If you have questions or suggestions please [contact us](https://web.archive.org/web/20111104184631id_/http%3A//www.clockspot.com/contactUs.php). 
+Clockspot may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your Clockspot Message Inbox, the email address used to register your Clockspot account, or by placing a prominent notice on our site. If you have questions or suggestions please [contact us](https://web.archive.org/web/20120525005428id_/http%3A//www.clockspot.com/contactUs.php). 
