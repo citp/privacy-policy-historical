@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125045839id_/http%3A//yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043203id_/http%3A//www.yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
 
-# Privacy - Obituaries - Kenora, ON - Your Life Moments
+# Privacy - - , - Your Life Moments
 
 Welcome to [www.yourlifemoments.ca](http://www.yourlifemoments.ca/) (the "Site"). 
 
@@ -70,7 +70,7 @@ E: [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved. 
 
-© 2011 Sun Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2012 Sun Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
  
 
