@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the jobrapido.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123152709id_/http%3A//www.jobrapido.co.uk/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524032756id_/http%3A//uk.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy  
-This page describes the ways in which the personal data of users of the website www.jobrapido.co.uk (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it.  
+This page describes the ways in which the personal data of users of the website uk.jobrapido.com (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it.  
 1\. Data Holder  
 The party responsible for handling the personal data of the Site users is Jobrapido S.r.l. (referred to below as “Jobrapido”). If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
 Jobrapido s.r.l., Via Paleocapa 7, 20121 Milano, Italia  
-Telephone number: +39 02726251  
-Email address: uk@jobrapido.net  
+Telephone number: +39 02726251
+
+Email address: uk@jobrapido.com
+
 2\. Place and purpose of the data processing operations  
 The data handling services relating to the Site take place in the Jobrapido offices, and are carried out by the data handling employees of Jobrapido, not by third parties.  
 The personal data provided by users of the Site issuing service requests will only be used to provide the services requested, and will not be revealed to third parties unless required by law or if this is necessary to satisfy the requirements of the users.  
@@ -35,10 +37,13 @@ Concise information may be reported or displayed on web pages dedicated to indiv
 In addition to the data required for surfing purposes, the user is free to provide personal data to request the services offered by Jobrapido (for example, to issue requests for information and quotes, register for services offered by the Site, etc). Failure to provide this data may make it impossible to receive the service requested.  
 5\. Email communications  
 If you chose to provide Jobrapido with your email address, we will send you only the information you signed up for.  
-If you do not want to receive notification emails from us anymore, please adjust your personal settings by opening the email you received from us and clicking on the link “Unsubscribe”.  
-If you do not have any email from Jobrapido, you can contact us via email at: uk@jobrapido.net.  
+If you do not want to receive notification emails from us anymore, please adjust your personal settings by opening the email you received from us and clicking on the link “Unsubscribe”.
+
+If you do not have any email from Jobrapido, you can contact us via email at: uk@jobrapido.com.
+
 6\. Data processing methods  
 Personal information is processed manually and automatically, and the time taken to do so will depend on the purpose for which it is collected.  
 Specific security measures are observed to prevent the loss, illegal or incorrect use of the data, or improper and unauthorised access to it.  
 7\. Rights of the interested parties  
-Users have the right to contact Jobrapido to request confirmation as to whether or not it is in possession of their personal data. They may also acquire the list of personal data held by Jobrapido and information on the use of their personal data, and may update their personal data and have it deleted.
+Users have the right to contact Jobrapido to request confirmation as to whether or not it is in possession of their personal data. They may also acquire the list of personal data held by Jobrapido and information on the use of their personal data, and may update their personal data and have it deleted.  
+
