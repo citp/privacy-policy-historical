@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whatchristianswanttoknow.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124232543id_/http%3A//www.whatchristianswanttoknow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatchristianswanttoknow.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211027id_/http%3A//www.whatchristianswanttoknow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy, Disclaimer And Disclosure For WhatChristiansWantToKnow.com**
 
-## **Privacy Policy  
+##  **Privacy Policy  
 **
 
 The privacy of our visitors to WhatChristiansWantToKnow.com is important to us.
