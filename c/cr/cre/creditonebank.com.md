@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the creditonebank.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530195147id_/https%3A//www.creditonebank.com/SiteInfoPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditonebank.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524231351id_/https%3A//www.creditonebank.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Credit One Bank - Updated Privacy Policy
 
-[](https://web.archive.org/web/20110530195147id_/https%3A//www.creditonebank.com/PaymentSelection.aspx?ToLogInFrom=www.creditonebank.com)
+If you click the 'Continue' button, you will be directed to a third party website unaffiliated with Credit One Bank, which may offer a different privacy policy and level of security. Credit One Bank is not responsible or liable for, and does not endorse or guarantee, any products, services, information or recommendations that are offered or expressed on other websites.
 
-**What's On Your Credit Report?**  
-Review your credit report and score for accuracy.
+Click the 'Return to CreditOneBank.com' button to return to the previous page or click 'Continue' to proceed to the third party website. 
 
-See Yours Now!
+Return to CreditOneBank.com
 
-|  |  |  |   |    
----|---  
-|    
+[
+
+Continue
+
+](http://www.fdic.gov/)
+
   
-Rev. 07/2010
+
+
+**What’s on Your Credit Report?**
+
+Rev. 07/2011
 
 WHAT DOES CREDIT ONE BANK, N.A.  
 DO WITH YOUR PERSONAL INFORMATION?
@@ -54,7 +60,7 @@ information about your creditworthiness
 
 
 
- **Please note:**
+**Please note:**
 
 If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
@@ -115,3 +121,5 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 
 Depending on where you live, you may have additional privacy protections under some state laws. For example, certain state laws may restrict the types of information we may disclose about you, limit the parties with whom we may share such information, or require us to provide you with additional notices or opt-out rights. We will comply with applicable state laws before sharing non-public personal information about you. We may do this by sending a separate notice of those rights to you.
+
+© 2012 Credit One Bank, N.A. All rights reserved. Credit One®, Credit One Bank® and the Credit One Bank® logo are federally registered trademarks. 
