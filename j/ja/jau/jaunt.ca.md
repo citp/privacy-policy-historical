@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123155222id_/http%3A//www.jaunt.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031933id_/http%3A//www.jaunt.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy| Unique getaways within reach | Jaunt.ca
 
@@ -43,7 +43,7 @@ It is important for you to protect against unauthorized access to your password 
 
 If you request access to your personal information, subject to certain exceptions, Jaunt will inform you of the existence, use and disclosure of your personal information and will provide you with a summary of that information. If Jaunt determines not to provide you access to your personal information, we will provide an explanation.
 
-You can help us maintain the accuracy of your personal information by notifying us of any changes to this information. You may log into your account and update your personal information or [contact us here](https://web.archive.org/web/20111123155222id_/http%3A//www.jaunt.ca/contact) to request access to or to make a correction or update to your personal information
+You can help us maintain the accuracy of your personal information by notifying us of any changes to this information. You may log into your account and update your personal information or [contact us here](https://web.archive.org/web/20120524031933id_/http%3A//www.jaunt.ca/contact) to request access to or to make a correction or update to your personal information
 
 #### Are Children Allowed to Use Jaunt?
 
@@ -53,6 +53,6 @@ We will never knowingly collect the personal information of minors.
 
 #### Conditions of Use, Notices, and Revisions
 
-If you choose to visit Jaunt, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the province of Ontario. If you have any concern about privacy at Jaunt, please [contact us](https://web.archive.org/web/20111123155222id_/http%3A//www.jaunt.ca/contact), and we'll try to resolve it.
+If you choose to visit Jaunt, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the province of Ontario. If you have any concern about privacy at Jaunt, please [contact us](https://web.archive.org/web/20120524031933id_/http%3A//www.jaunt.ca/contact), and we'll try to resolve it.
 
 Our business may change or adapt and our Privacy Policy and the Terms of Use will change also. You should check our Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We reserve the right to change our Privacy Policy and such changes will take effect immediately upon being posted to the Site, however, we stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected users.
