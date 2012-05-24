@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123091606id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524022930id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
 # FanArtReview.com - Post your art, photos, or digital art on this art and photograph sharing site.
 
@@ -42,7 +42,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The sites covered by this Privacy Notice sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. has no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 ###  Cookies 
 
@@ -58,4 +58,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20111123091606id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20120524022930id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
