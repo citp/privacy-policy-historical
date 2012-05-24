@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the populiweb.com privacy policy that was archived on 2011-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008201517id_/http%3A//populiweb.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the populiweb.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525000044id_/http%3A//www.populiweb.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>
             Populi - Privacy Notice        </title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,9 +10,9 @@
         
         <link rel="shortcut icon" href="/images/favicon.ico">
         <!-- iStuff -->
-        <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+        <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon.png">
         
-        <link rel="stylesheet" href="/includes/css/screen.css?version=8" type="text/css" media="screen, projection">    
+        <link rel="stylesheet" href="/includes/css/screen.css?version=9" type="text/css" media="screen, projection">    
         <link rel="stylesheet" href="/includes/css/print.css" type="text/css" media="print">    
         <!--[if lte IE 7]><link rel="stylesheet" href="/includes/css/ielte7.css" type="text/css" media="screen, projection" /><![endif]-->
         <link rel="stylesheet" type="text/css" href="/includes/javascript/jquery.fancybox/jquery.fancybox.css" media="screen">
@@ -21,7 +21,7 @@
         <script type="text/javascript" src="/includes/javascript/jquery-1.3.2.min.js"></script>
         <script type="text/javascript" src="/includes/javascript/jquery.innerfade.js"></script>
         <script type="text/javascript" src="/includes/javascript/jquery.easing.1.3.js"></script>
-        <script type="text/javascript" src="/includes/javascript/jquery.labelOver.js"></script>
+        <script type="text/javascript" src="/includes/javascript/jquery.placeholder.min.js"></script>
         <script type="text/javascript" src="/includes/javascript/jquery.fancybox/jquery.fancybox-1.2.1.pack.js"></script>        
         <script type="text/javascript">
             $(document).ready(function() {
@@ -32,7 +32,7 @@
                     'zoomSpeedOut': 500
                 });
                 
-                $('.over-apply').labelOver('over-apply');
+                $('input, textarea').placeholder();
             });
         </script>
     </head>
@@ -221,8 +221,7 @@
                 <div style="width:25%; float:left;">
                     <h5>Get the Populi Newsletter</h5>
                     <form action="#" onsubmit="return false" id="newsletter_form" style="margin-top:3px; position:relative;" autocomplete="off">
-                        <label class="over-apply" for="newsletter_email">email@example.com</label>
-                        <input id="newsletter_email" type="text" style="border:1px solid #555; font-size:12px; height:18px; padding:3px; width:160px;">
+                        <input id="newsletter_email" type="text" placeholder="email@example.com" style="border:1px solid #555; font-size:12px; height:18px; padding:3px; width:160px;">
                         <input type="submit" value="Go" onclick="newsletterSignup($(this));" id="newsletterSignupButton">
                         <p>We won’t share your email.</p>
                     </form>
@@ -244,7 +243,7 @@
                 <a href="/terms">Terms of Service</a>
             </div>
             <div id="copyright">
-                © 2010 Populi
+                © 2010 - 2012 Populi
                 &nbsp;&nbsp;|&nbsp;&nbsp;
                 All rights reserved
             </div>
