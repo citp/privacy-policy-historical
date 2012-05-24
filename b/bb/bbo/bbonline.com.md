@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbonline.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121130300id_/http%3A//www.bbonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbonline.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524124157id_/http%3A//www.bbonline.com/pages/privacy) for the most accurate reproduction.*
 
-# Bed & Breakfast Inns ONLINE - Privacy Statement
+# BBOnline.com
 
 **www.bbonline.com (the "Site")**
 
@@ -10,7 +10,7 @@ By using this Site, you agree to the terms of this privacy policy. Please read t
 
 This Site contains links to other sites. These include links to related resources, products and services. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-This Site also contains links to the emails of the owners of properties who have placed advertisements on this Site and who are not affiliated with nor endorsed by us. We are not responsible for the business or privacy practices of these individuals or organizations. 
+This Site also contains links to the emails of the owners of properties who have placed advertisements on this Site and who are not affiliated with nor endorsed by us. We are not responsible for the business or privacy practices of these individuals or organizations.
 
 **Browsing the Site**
 
@@ -18,7 +18,7 @@ If you browse through the Site without entering any personal data, we will gathe
 
 **Information Collected**
 
-We collect the email addresses of consumers who communicate with us or through our authorized vendors via email. In connection with transactions which occur through the Site, we collect and store the following personal information: physical contact information, transactional information based on your activities on the Site, and sometimes financial information (such as credit card information). 
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email. In connection with transactions which occur through the Site, we collect and store the following personal information: physical contact information, transactional information based on your activities on the Site, and sometimes financial information (such as credit card information).
 
 Any information provided by consumers becomes the property of the Site once received by us and may be used and disclosed as permitted in this Policy.
 
@@ -48,12 +48,10 @@ To learn more about these practice and your choices about not having this inform
 
 **Contacting the Web Site**
 
-Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently. 
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact:
 
 [information@internetbrands.com](mailto:information@internetbrands.com).
 
 **www.bbonline.com**
-
-January 1, 2008
