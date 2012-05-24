@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204231259id_/http%3A//www.hamptons.co.uk/en-gb/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524025443id_/http%3A//www.hamptons.co.uk/en-gb/Privacy-Policy) for the most accurate reproduction.*
 
 # Hamptons - Privacy Policy - Hamptons International Real Estate Agents
 
@@ -12,9 +12,9 @@ Hamptons International website uses robust security protocols to ensure that per
 
 You do not need to provide any personal information to use this site.
 
-You can at anytime remove your details from Hamptons International website database through your **[My Hamptons](https://web.archive.org/en-gb/My-Hamptons/)** account or email [**web@hamptons-int.com**](mailto:web@hamptons-int.com)
+You can at anytime remove your details from Hamptons International website database through your **[My Hamptons](https://web.archive.org/en-gb/My-Hamptons/)** account. If you do not wish to receive further marketing related materials from Hamptons International branch, please email your [local branch office](https://web.archive.org/en-gb/About-Hamptons/Find-an-Office/). 
 
-#### Cookies
+**Cookies**
 
 A cookie is a small file stored on your computer that retains information about pervious visits to a website.
 
@@ -28,5 +28,4 @@ Your details will not be passed to any organisation outside Hamptons Internation
 
 If you have given us permission, we may email you messages to keep you up to date with news about our current services, as well as anything you express an interest in, either online or through other contact with Hamptons International.
 
-If you do not want to be kept informed by email please login into your **[My Hamptons](https://web.archive.org/en-gb/My-Hamptons/)** account and amend your account details or email [**web@hamptons-int.com**](mailto:web@hamptons-int.com).  
-
+If you do not want to be kept informed by email please login into your **[My Hamptons](https://web.archive.org/en-gb/My-Hamptons/)** account and amend your account details. If you no longer wish to receive further marketing related materials from Hamptons International branch, please email your [local branch office](https://web.archive.org/en-gb/About-Hamptons/Find-an-Office/). 
