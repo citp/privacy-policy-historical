@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the lesbiansextales.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529195907id_/http%3A//secure.lesbiansextales.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbiansextales.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524072431id_/http%3A//secure.lesbiansextales.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Lesbian Sex Tales**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
