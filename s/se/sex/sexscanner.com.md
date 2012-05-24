@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the sexscanner.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012141638id_/http%3A//www.sexscanner.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexscanner.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524040508id_/http%3A//www.sexscanner.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##### See also: [About Us](https://web.archive.org/pages/aboutus) | [Terms & Conditions](https://web.archive.org/pages/terms)
+# Privacy Policy of SexScanner – Powerful Adult Dating Search Engine
 
 We want to be very clear about what we do with the information we gather from you. This is explained below.
 
 Sometimes our web site may include a link to another site which is outwith our control, and is therefore not covered by our PRIVACY POLICY. While we make reasonable efforts to ensure that any links are properly managed and associated companies have a reasonable and consistent Privacy Policy we cannot guarantee what they may do when you use their web site.
 
-### a. Your Information
+a. Your Information
 
 We will respect your personal information and comply with all applicable UK Data Protection legislation and rules currently in force.
 
 We will use any information provided by you to us to constantly monitor and improve the Services to you and for marketing purposes. We may also use such information to send you specific emails or other related messages which, in our opinion, may be of interest to you in accordance with our Privacy Policy.
 
-### b. What information does SexScanner collect?
+b. What information does SexScanner collect?
 
 Registration: When you register with any of our sites, we collect certain data, such as your contact details and demographic information.
 
@@ -22,7 +20,7 @@ When Using the Site: We will keep a record of which areas of the site you are in
 
 Competitions and special offers: We may ask you specific questions when you take part in any promotions. If we do, we will keep a record of your answers.
 
-### c. What does SexScanner do with this information?
+c. What does SexScanner do with this information?
 
 We may use your information in the following ways:
 
@@ -40,11 +38,11 @@ We may pass the information we collect about you to other members of our group, 
 
 >As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that SexScanner Search Ltd or its assets are acquired, this information will also be one of the transferred assets.
 
-### d. What about "cookies"?
+d. What about "cookies"?
 
 "Cookies" are small pieces of information that are stored on your computer's hard drive by your browser. These allow SexScanner to store your personal information, which we need in order to provide you with the Service. It also allows us to provide features to make your use of any Alcuda Ltd sites easier. You may set your browser software to reject cookies, but if you do you will not be able to use all of the features of the Services. If you wish to enable cookies, please follow the instructions below. Take care to ensure that the instructions you select match the type and version of your browser software.
 
-### Internet Explorer 8.x:
+Internet Explorer 8.x:
 
   * Click on the Tools-menu. 
   * Select Internet Options in the menu - a new window opens.
@@ -55,7 +53,7 @@ We may pass the information we collect about you to other members of our group, 
 
 
 
-### Internet Explorer 6.x and 7.x:
+Internet Explorer 6.x and 7.x:
 
   * Click on the Tools-menu.
   * Select Internet Options in the menu - a new window opens.
@@ -65,7 +63,7 @@ We may pass the information we collect about you to other members of our group, 
 
 
 
-### Mozilla Firefox:
+Mozilla Firefox:
 
   * Click on the Tools-menu in Mozilla.
   * Click on the Options item in the menu - a new window opens.
@@ -76,6 +74,6 @@ We may pass the information we collect about you to other members of our group, 
 
 
 
-### e. SexScanner Mail
+e. SexScanner Mail
 
 SexScanner mail is our regular 'members only' email that features exclusive discounts and offers as well as a number of reward opportunities. By submitting your email address you are actively agreeing to receive this regular correspondence from us via the email address that you give to us. You can easily unsubscribe or reduce the number of emails you receive from us from any email that we send you or by clicking Unsubscribe option in the mails you receive after signing up.
