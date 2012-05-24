@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161955id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524040816id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
 
-# Stock Market Quotes Business News Financial News investor news investors - Privacy
+# ASX Stock Market News and Small - Mid Cap Business News and Research Financial News - Privacy
 
 **Proactive Investors Limited (the “Company,” “we” or “us”)** respects your privacy and undertakes to protect any personal information entrusted to it. Generally, you may visit our Site without giving us any information about yourself (but we may use Cookies to gather information about you, even if you do not register as a user – please see the section on Cookies below). There are times when we may need to obtain information from you through a registration process in order to provide certain services. Below we describe how we gather and use data. If you are not comfortable with any of the practices or policies described in our privacy policy, we ask that you discontinue use of our Site. Our privacy policy may change from time to time, so please revisit this page frequently to remain fully informed of our latest practices and policies.
 
