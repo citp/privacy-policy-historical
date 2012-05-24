@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passmark.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162410id_/http%3A//www.passmark.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passmark.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034728id_/http%3A//www.passmark.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # PassMark Software - Privacy Policy
 
@@ -44,10 +44,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ## How You Can Access Or Correct Your Information 
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us. You can find out how to contact us on [this page](https://web.archive.org/web/20111123162410id_/http%3A//www.passmark.com/about/contact_us.htm). 
+You can access all your personally identifiable information that we collect online and maintain by contacting us. You can find out how to contact us on [this page](https://web.archive.org/web/20120524034728id_/http%3A//www.passmark.com/about/contact_us.htm). 
 
 You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we take reasonable steps to verify your identity before granting access to information or making corrections.
 
 ## How To Contact Us
 
-Should you have other questions or concerns about our privacy policies, please [contact us](https://web.archive.org/web/20111123162410id_/http%3A//www.passmark.com/about/contact_us.htm). 
+Should you have other questions or concerns about our privacy policies, please [contact us](https://web.archive.org/web/20120524034728id_/http%3A//www.passmark.com/about/contact_us.htm). 
