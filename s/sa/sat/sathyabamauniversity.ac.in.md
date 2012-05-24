@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sathyabamauniversity.ac.in privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124235458id_/http%3A//www.sathyabamauniversity.ac.in/sitepagethree.php%3Fmainref%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sathyabamauniversity.ac.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524221838id_/http%3A//www.sathyabamauniversity.ac.in/sitepagethree.php%3Fmainref%3D24) for the most accurate reproduction.*
 
 # Privacy Policy
 
