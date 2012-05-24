@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021256id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524061312id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Trinidad Guardian
+# Privacy Policy | The Trinidad Guardian Newspaper
 
 Please note, our Web sites may contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy of any company before submitting your personal information.
 
