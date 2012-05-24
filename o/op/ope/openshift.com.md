@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openshift.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210003912id_/https%3A//openshift.redhat.com/app/legal/openshift_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openshift.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524144805id_/https%3A//openshift.redhat.com/app/legal/openshift_privacy) for the most accurate reproduction.*
 
-# OpenShift by Red Hat | OpenShift Privacy Statement
+# OpenShift Privacy Statement | OpenShift by Red Hat
 
 The Red Hat, Inc. Privacy Statement set forth at <http://www.redhat.com/legal/privacy_statement.html> (the “Red Hat Policy”) describes how Red Hat treats personal information when you use our products and services, including information collected when you use OpenShift. By using OpenShift, you are accepting the practices described in the Red Hat Policy, as well as the following privacy practices that are specific to OpenShift: 
 
