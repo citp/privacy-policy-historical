@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animenation.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124074948id_/http%3A//www.animenation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenation.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524215735id_/http%3A//www.animenation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **AnimeNation Privacy Information**
 
-Your privacy is very important to us. We DO NOT sell or share your personal information or email address with ANY third party. The following discloses our information gathering and dissemination practices for the websites: [http://www.animenation.com](https://web.archive.org/web/20111124074948id_/http%3A//www.animenation.com/index.html) and [http://www.animenation.net](http://www.animenation.net/).
+Your privacy is very important to us. We DO NOT sell or share your personal information or email address with ANY third party. The following discloses our information gathering and dissemination practices for the websites: [http://www.animenation.com](https://web.archive.org/web/20120524215735id_/http%3A//www.animenation.com/index.html) and [http://www.animenation.net](http://www.animenation.net/).
 
 Our site uses cookies to keep track of your shopping cart.
 
