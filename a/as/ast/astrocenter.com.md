@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123200318id_/http%3A//www.astrocenter.com/us/privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524050610id_/http%3A//www.astrocenter.com/us/privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
 
 # Privacy Policy | Astrocenter.com
 
