@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karnatakabank.co.in privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205005626id_/http%3A//karnatakabank.co.in/ktk/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karnatakabank.co.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524204305id_/http%3A//www.karnatakabank.com/ktk/Privacy.jsp) for the most accurate reproduction.*
 
 # privacy
 
