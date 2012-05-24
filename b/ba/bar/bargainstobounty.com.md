@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainstobounty.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227045020id_/http%3A//www.bargainstobounty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainstobounty.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043116id_/http%3A//www.bargainstobounty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Bargains to Bounty
 
