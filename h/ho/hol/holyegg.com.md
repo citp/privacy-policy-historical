@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyegg.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123154534id_/http%3A//holyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyegg.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524221147id_/http%3A//holyegg.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Funny Pics
 
