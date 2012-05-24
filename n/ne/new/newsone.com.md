@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsone.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123145148id_/http%3A//newsone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsone.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211608id_/http%3A//newsone.com/privacy) for the most accurate reproduction.*
 
-# Privacy | News One
+# Privacy | Breaking News for Black America
 
 **_Last revised November 11, 2011_**
 
