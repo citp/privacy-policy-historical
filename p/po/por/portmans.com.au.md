@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portmans.com.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125015216id_/http%3A//www.portmans.com.au/webapp/wcs/stores/servlet/PrivacyPolicyView%3FcatalogId%3D10022%26langId%3D-1%26storeId%3D10501) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portmans.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524175931id_/http%3A//www.portmans.com.au/webapp/wcs/stores/servlet/PrivacyPolicyView%3FcatalogId%3D10022%26langId%3D-1%26storeId%3D10501) for the most accurate reproduction.*
 
 # Privacy Policy - Shopping Information - Portmans
 
