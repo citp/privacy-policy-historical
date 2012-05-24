@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161937id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034641id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Hairstyles
+# Privacy Policy for Latest-Hairstyles.com
+
+[](http://www.latest-hairstyles.com/)
+
+**PRIVACY POLICY FOR LATEST-HAIRSTYLES.COM**
+
+Effective Date: April 13, 2012
 
 Thank you for visiting Latest-Hairstyles.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Latest-Hairstyles.com 
 
@@ -68,10 +74,11 @@ To inquire about personally identifiable information that Latest-Hairstyles.com 
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Latest-Hairstyles.com Privacy Notice or its implementation please contact us via email. contact@latest-hairstyles.com 
+If you have any questions or concerns about the Latest-Hairstyles.com Privacy Notice or its implementation please contact us:
 
-PO Box 231732 Las Vegas, NV 89105
+contact@imgpublications.com 
 
-|   
-  
----|---
+Invision Management Group, LLC  
+Attn: Sengmany Ratsavong   
+19 E. Agate Ave., #209  
+Las Vegas, NV 89123
