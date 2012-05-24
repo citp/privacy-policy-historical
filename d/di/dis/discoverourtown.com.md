@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverourtown.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123113022id_/http%3A//www.discoverourtown.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverourtown.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524051535id_/http%3A//www.discoverourtown.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DiscoverOurTown Privacy Policy
 
