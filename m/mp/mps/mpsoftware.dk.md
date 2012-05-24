@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpsoftware.dk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123160948id_/http%3A//www.mpsoftware.dk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpsoftware.dk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180223id_/http%3A//www.mpsoftware.dk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MPSOFTWARE
 
