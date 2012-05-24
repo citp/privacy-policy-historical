@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itgetsbetter.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184537id_/http%3A//www.itgetsbetter.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgetsbetter.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524050010id_/http%3A//www.itgetsbetter.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | It Gets Better Project | Give hope to LGBT youth
 
