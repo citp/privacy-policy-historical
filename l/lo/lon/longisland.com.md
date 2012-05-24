@@ -1,77 +1,67 @@
-> *The following text is extracted and transformed from the longisland.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102212813id_/http%3A//www.longisland.com/LICom_PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longisland.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524174516id_/http%3A//www.longisland.com/privacy) for the most accurate reproduction.*
 
-# LongIsland.com - PRIVACY POLICY
+# LongIsland.com Privacy Policy
 
-**PRIVACY POLICY**
+## LongIsland.com Privacy Policy
 
-**General  \- What personally identifying information does LongIsland.com collect  \- What do we do with your personally identifying information  \- Information we may place automatically on your computer  \- Affiliated or linked sites and advertisements  \- Opting out and other matters  \- Children  \- Non-personally identifying information  \- Security  \- Your acceptance of this Privacy Policy.s terms  \- Who to contact   **
+We are committed in respecting the privacy of every person who visits our website (the "Site"). In the course of using the Site, we may become privy to your personal information, including information that is of a confidential nature. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you. 
 
-**1\. General.**
+The purpose of this Privacy Policy (the "Policy"), as amended from time to time, is to give you an understanding on how we intend to collect and use the information you provide to us. The Policy is subject to our changes. Upon updating the Policy, we will also revise the "Updated" date at the bottom of this Policy. 
 
-LongIsland.com respects the privacy of every individual who visits LongIsland.com (the .Web Site. or .Site.). This Privacy Policy outlines the information Company (.we., .us., .our.) will collect on the Web Site and how we will use that information. This Policy will also show you what to do if you do not want your personal information collected or shared.
+By accessing the Site and providing us such information, you hereby consent to the collection and use of such information for the purposes disclosed in this Policy. 
 
-**2\. What personally identifying information does LongIsland.com collect?**
+## Personal Information
 
-There are cases where we may ask you for personally identifying information such as your name, mailing address, email address, and credit card information. For example, we request personally identifying information when you register for an account on the Site, for online shopping or transactions, for contests, or for other services that require registration or subscription. We will not collect any personally identifying information about you unless you provide it to us voluntarily.
+When you register with the Site, we may ask for information not limited to your age, gender, first and last name, birth date, title, zip code/ pin code, occupation, industry, company or any other physical address, contact number, email or other contact information and other relevant data as desired by us("Personal Information"). Questions or comments submitted by visitors may also be included as Personal Information. 
 
-**3\. What do we do with your personally identifying information?**
+## Personal Information and its usage
 
-When you do provide us with personally identifying information, we may:
+## We may use your Personal Information to:
 
-� store and process the information to better understand your needs and how we can improve our products and services;
+  * 1\. Send you, from time to time, updates or news regarding the Site;
+  * 2\. Respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * 3\. To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the LongIsland.com/terms or as otherwise required by law;
+  * 4\. Ransfer information about you if we are acquired by or merged with another company. In this event, we may notify you before your information is transferred and becomes subject to a different privacy policy;
+  * 5\. To send you updates or news regarding the Site, but you may choose not to receive email of this type by accessing the "Account" tab of the Site and updating your notification settings;
+  * 6\. Seek your feedback or to contact you in relation to those services offered on the Site;
+  * 7\. Administer or otherwise carry out our obligations in relation to any agreement you have with us;
+  * 8\. Anticipate and resolve problems related to the Site; and 
+  * 9\. Allow you to subscribe to our newsletters;
+  * 10\. Allow you to enter promotions or sweepstakes.
+  * 11\. We may also remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes.
 
-� use and disclose the information in the Web Site member directory **** and to our business units and affiliates; 
 
-� disclose the information and use it for administration and troubleshooting for the Web Site;
 
-� use and disclose the information to contact you for informational, marketing and promotional purposes;
+## Non-Personal Information and its usage
 
-� disclose the information so that our third party partners and vendors (merchants, credit card companies, co-branders, sponsors, shippers, etc.) may use it to process and/or complete a transaction you have initiated on the Site;
+At this Site we may additionally collect and track non-personal information about your visit including the domain name and the name of the web page from which you entered our Site, how much time you spend on each of our web pages, the Internet Protocol (IP) address associated with your computer, operating system and platform, transaction history, pages viewed, information searched for or requested for, access time and other relevant statistics. We will use this information for the purposes of improving the performance and operations of our Site and attract advertisers and listings for our Site. 
 
-� disclose the information to third parties when we have reason to believe that disclosure is necessary to identify, contact, or bring legal action against someone (including you) who may be causing injury to or interference (either intentionally or unintentionally) with our rights or property, other users of the Site, or anyone else that could be harmed by such activities, and we may not give you prior notice of such disclosures; and
+## Authorization
 
-� disclose the information to third parties when we believe in good faith that the law requires it. ****
+You authorize us to exchange, share, part with all information (personal and non-personal), across borders and from your country and jurisdiction to any other countries and jurisdictions across the world, with any agent/third party service provider/banks/financial institutions/credit bureaus/agencies/participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management and shall not hold us liable for use or disclosure of this information. 
 
-Finally, as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets subject to the buyer.s privacy policy and other terms. 
+## Information placed on your computer
 
-**4\. Information we may place automatically on your computer.**
+We may store some information such as cookies on your computer when you visit the Site. Cookies are small files that are stored on the hard drive of your computer ready for future access when you return to our Site. This information facilitates your use of the Site and ensures that you do not need to re-enter your details every time you visit it. You can erase or choose to block this information from your computer. The cookies do not contain or capture any personal information. You can configure your computer's browser to alert you when the Site is attempting to send you a cookie and allow you to accept or refuse the cookie. Your decision to refuse cookies will not prevent you from using the Site, but may limit your ability to take advantage of some of our advanced features. 
 
-When you view the Site, we may store some information on your computer. This information will be in the form of a .cookie. or similar file and will help us in many ways. For example, cookies allow us to tailor the Site to better match your interests and preferences. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
+## Children's Privacy
 
-**5\. Affiliated or linked sites and advertisements.**
+Protecting the privacy of every minor is especially important to us. The Site is not structured to attract minor children under eighteen (18) years. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 18 years. 
 
-While on our site you may link to, or view as part of a .frame. on, a page content that is actually created or hosted by a third party. Also, you may be introduced to, or be able to access, information, web sites, advertisements, features, contests or other material offered by third parties not affiliated with us. We are not responsible for the actions or policies of those third parties, who may have their own privacy and data collection policies and practices. Their activities are beyond our control and this Policy, and you should check the applicable terms of use and privacy policies of those third parties if you provide them personally identifying information. Also, our link to another site does not imply our affiliation or endorsement of the linked site. 
+## Third Party Links
 
-Our advertisers, promotional partners, or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you, e.g., a cookie may enable an advertiser to determine whether you have seen a particular advertisement before or to gain other information about you. We do not control the use of this technology or the resulting information, and we do not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers, or ad networks. 
+As a matter of convenience to you, the Site may provide links and hyperlinks to third party advertisements as well as provide links and hyperlinks to external Internet sites. The listing of an external site does not imply endorsement of such site by us. We do not make any representations regarding the availability and performance of the Site or any of the external sites which could be provided. If You click on any advertising banner, sponsor link, or other external link from the Site, your browser may automatically direct you to a new browser window that is not hosted or controlled by us and we are not responsible for the content, terms of use, privacy policies and practices of other websites functionality, or technological safety of these external sites. 
 
-**6\. Opting out and other matters.**
+## Access/Accuracy
 
-If you would like to remove or change some of your personally identifying information under our control, you may do so by visiting [this page](http://www.longisland.com/contact_us.php) or contacting our Customer Support Department at **[here](http://www.longisland.com/contact_us.php)**. (Remember, however, that removing some or all of your personally identifying information may limit your ability to access some or all of the features and services of the Site.)
+To the extent that you provide us with Your Personal Information, we wish to maintain your Personal Information accurate at all times. If you need to update or correct Your Personal Information for any reason, you may [send updates](https://web.archive.org/contact/) and corrections to us at and we may take all reasonable efforts to incorporate the changes in your Personal Information within a reasonable period of time. 
 
-In addition, to keep you in control of your personally identifying information and communications directed to you, we allow you to opt-out of the following services: (i) sharing your information in our member directory, and (ii) receiving communications from us about new Web Site features or services or our partners or other third party vendors. You may opt-out of these services by visiting [this page](http://www.longisland.com/contactus/form.php) or by contacting our Customer Support Department at **[here](http://www.longisland.com/contact_us.php)**.
+## Contacting Us
 
-Except as stated in this Privacy Policy or as otherwise stated at the time your personally identifying information is gathered, we will not provide that information to third parties.
+We will address any questions, comments and concerns about our online privacy practice and policy. Please [write to us](https://web.archive.org/contact/). 
 
-**7\. Children.**
+## Dispute Resolution
 
-This Site is not directed at individuals under eighteen years of age, and we do not knowingly solicit or collect any personally identifying information from such individuals, including children under the age of thirteen. If we discover we have received any information in violation of this policy, we will use reasonable efforts to delete that information immediately. If you believe we have any information from or about anyone in violation of this policy, please contact us at **[this page](http://www.longisland.com/contactus/form.php)**. 
+If you believe that LongIsland.com has not adhered to this Privacy Policy you may contact the LongIsland.com Privacy Office at 631-406-4410 or [send us a message](https://web.archive.org/contact/) by filling out our online contact form. 
 
-**8\. Non-personally identifying information.**
-
-We may also collect information about you that is not personally identifying. Examples of this type of information may include your age, gender, interests, and preferences, the type of Internet browser you use, the type of computer operating system you use, and the domain name of the web site from which you linked to our Site. We may share this information with advertisers, business partners, sponsors, and other third parties. For example, we may inform a sponsor that the membership of the Site is x percent females and y percent males. This data is used to customize the Site's content and advertising and to deliver a better experience for our members and users. ****
-
-**9\. Security.**
-
-We can only tell you to please be careful and responsible when you are online. Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. If you disclose personally identifying information in Material you post, that information can be viewed publicly and can be collected and used by third parties without our and your knowledge and may result in unsolicited messages from other individuals or third parties. While we strive to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
-
-The importance of security for all personally identifying information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, we can.t ensure or warrant the security of any information you transmit to us or from our online products or services, including your personally identifying information, and you do so at your own risk. Once we receive your personally identifying information, we will take reasonable efforts to ensure its security on our systems.
-
-Your account on the Site is password protected so that only you can access it and view the information relevant to your account. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your password and any account information. Remember to sign out of your account on the Site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or Internet caf�.
-
-**10\. Your acceptance of this Privacy Policy.s terms.**
-
-By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this Policy, please do not use the Site. Your continued use of the Site after changes are posted to our Privacy Policy will mean you accept those changes.
-
-**11\. Who to contact.**
-
-If you have questions or concerns regarding this Privacy Policy or if you otherwise need to notify us, you should contact us by mail at: **_30 Jericho Turnpike, Ste 176 Commack, NY. 11725_** ; by telephone at: **_631-406-4410_** or **[here](http://www.longisland.com/contact_us.php)**
+In your contact request, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
