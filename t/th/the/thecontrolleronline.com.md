@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecontrolleronline.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125040326id_/http%3A//thecontrolleronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontrolleronline.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180218id_/http%3A//thecontrolleronline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « «
+# Privacy Policy | The Controller Online
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@thecontrolleronline.com](mailto:info@thecontrolleronline.com).
 
