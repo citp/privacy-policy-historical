@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkconnect.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123201426id_/http%3A//bookmarkconnect.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkconnect.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524050830id_/http%3A//bookmarkconnect.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | BookmarkConnect Social Bookmarking
 
