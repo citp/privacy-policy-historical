@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125225426id_/http%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524204512id_/http%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -38,6 +38,6 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at +44 20 7193 4750 or send us an email at support@companiesintheuk.co.uk 
+Should you have other questions or concerns about these privacy policies, please call us at +44 20 3322 2744 or send us an email at support@companiesintheuk.co.uk 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://networkadvertising.org/managing/opt_out.asp 
