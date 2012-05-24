@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203022957id_/http%3A//www.gatesfoundation.org/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524182813id_/http%3A//www.gatesfoundation.org/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bill & Melinda Gates Foundation
 
