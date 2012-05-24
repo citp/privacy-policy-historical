@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123134904id_/http%3A//www.peacehealth.org/notice-of-privacy-practices/Pages/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524070355id_/http%3A//www.peacehealth.org/notice-of-privacy-practices/Pages/Default.aspx) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
-
-| 
 
 ### Joint Notice Of Privacy Practices  
 Effective Date: May15, 2011
@@ -14,7 +12,7 @@ PLEASE REVIEW IT CAREFULLY.** 
 
 ### Summary of this Notice:
 
-**Below is a summary of the Joint Notice of Privacy Practices (“Notice”) for PeaceHealth, Oregon Imaging Center, and their medical staffs, workforce, volunteers, and students: 
+** Below is a summary of the Joint Notice of Privacy Practices (“Notice”) for PeaceHealth, Oregon Imaging Center, and their medical staffs, workforce, volunteers, and students: 
 
   * **Electronic Medical Record.** We use an electronic medical record. This is a computer system that allows those listed in the Notice and other providers that are not related to us to read and add health information about you. 
   * **Use and Disclosures.** We generally use and disclose your information:   
@@ -66,7 +64,7 @@ PeaceHealth, which includes its employees, student trainees, volunteers and work
     * Southwest Medical Group 
     * Advanced Medical Imaging Center, LLC 
   * PeaceHealth employee assistance programs, workplace wellness centers, chemical dependency programs, home health agencies, hospices and retail pharmacies 
-  * Oregon Imaging Centers (OIC), which includes its employees, trainees, vounteers and workforce members 
+  * Oregon Imaging Centers (OIC), which includes its employees, trainees, volunteers and workforce members 
   * Medical staff members when providing services at or through PeaceHealth, SWHS or OIC 
 
 
@@ -147,7 +145,7 @@ Affiliated Covered Entities: We may share health information with providers who 
 
 **
 
-**Your Authorization:** Other uses and disclosures of your health information not covered by this Notice or permitted by law will be made only with your written permission or authorization. You may revoke your authorization, in writing, at any time (unless you are told otherwise at the time you sign the authorization). If you revoke your authorization, then we will no longer use or disclose your health information for the reasons covered by your authorization, except to the extent that we already have relied on your authorization. We are unable to take back any disclosures we already have made based on your authorization, and we are required to retain our records of the care that we provided to you.
+ **Your Authorization:** Other uses and disclosures of your health information not covered by this Notice or permitted by law will be made only with your written permission or authorization. You may revoke your authorization, in writing, at any time (unless you are told otherwise at the time you sign the authorization). If you revoke your authorization, then we will no longer use or disclose your health information for the reasons covered by your authorization, except to the extent that we already have relied on your authorization. We are unable to take back any disclosures we already have made based on your authorization, and we are required to retain our records of the care that we provided to you.
 
 **Specially Protected Health Information:** Unless otherwise required or permitted by law, we may need your authorization to disclose your health information regarding treatment for AIDS/HIV/ARC, mental health, drug addiction, alcoholism, and other substance abuse treatment, developmental disabilities, and/or genetic information or records.
 
@@ -196,12 +194,12 @@ Florence, OR 97439
 Telephone: (541) 997-8412
 
 **Ketchikan General Hospital  
-**3100 Tongass Avenue  
+** 3100 Tongass Avenue  
 Ketchikan, AK 99901  
 Telephone: (907) 225-5171
 
 **Sacred Heart Medical Center  
-**1255 Hilyard St.  
+** 1255 Hilyard St.  
 Eugene, OR 97401  
 Telephone: (541) 686-7300 
 
@@ -217,12 +215,12 @@ Eugene, OR 97401
 Telephone: (541) 687-7134 ext. 1078
 
 **Advanced Medical Imaging Center LLC  
-**16821 SE McGillivray Blvd. Suite 114  
+** 16821 SE McGillivray Blvd. Suite 114  
 Vancouver, WA 98683  
 Telephone (360) 883-0885
 
 **St. John Medical Center  
-**1615 Delaware Street  
+** 1615 Delaware Street  
 Longview, WA 98632-0302  
 Telephone: (360) 414-2000 
 
@@ -232,7 +230,7 @@ Vancouver, WA 08664
 Tellephone: (360) 256-2000
 
 **Southwest Washington Regional Surgery Center LLC  
-**400 NE Mother Joseph Place  
+** 400 NE Mother Joseph Place  
 P.O. Box 1600  
 Vancouver, WA 98668  
 Telephone: (360) 256-2000
@@ -240,6 +238,3 @@ Telephone: (360) 256-2000
 In addition, you may file a complaint with the federal Office for Civil Rights, Secretary of the Department of Health and Human Services. The Regional Privacy Officer can give you information about filing a complaint.
 
 _**You will not be penalized for filing a complaint.**_
-
-|   
----|---|---
