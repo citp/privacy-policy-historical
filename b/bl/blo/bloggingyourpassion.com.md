@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingyourpassion.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124195016id_/http%3A//bloggingyourpassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingyourpassion.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524193238id_/http%3A//bloggingyourpassion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
