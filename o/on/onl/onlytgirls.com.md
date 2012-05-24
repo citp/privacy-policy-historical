@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlytgirls.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125053301id_/http%3A//in.onlytgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytgirls.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524193916id_/http%3A//in.onlytgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
