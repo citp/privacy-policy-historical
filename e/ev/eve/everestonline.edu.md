@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everestonline.edu privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127030940id_/http%3A//www.everestonline.edu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestonline.edu privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524161919id_/http%3A//www.everestonline.edu/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ We may use a third party service provider to conduct these surveys or contests; 
 
 ### Email A Page
 
-If you choose to use our referral service to email a page about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Everest does not store this information. [[Either we store the information or we don't. If we don't, then we don't need to say why we don't store it. Otherwise, it sounds like we do store it.]]
+If you choose to use our referral service to email a page about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Everest does not store this information. 
 
 ### COMMUNICATIONS FROM THE SITE
 
