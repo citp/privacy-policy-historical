@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the ambient-mixer.com privacy policy that was archived on 2011-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107163410id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ambient-mixer.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524232616id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en_EN" lang="en_EN"><head>
 	<title>Privacy policy</title>
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 	<!--
 		google_analytics_domain_name=".ambient-mixer.com";
 	-->
@@ -22,16 +22,27 @@
   	<link rel="shortcut icon" type="image/x-icon" href="http://www.ambient-mixer.com/images/favicon.ico">
 	<link rel="canonical" href="http://www.ambient-mixer.com/">
 	<meta http-equiv="imagetoolbar" content="no">
-		<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-	<script type="text/javascript">
-		GS_googleAddAdSenseService("ca-pub-0798033953805098");
-		GS_googleEnableAllServices();
+		<script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
 	</script>
+
 	<script type="text/javascript">
-		GA_googleAddSlot("ca-pub-0798033953805098", "AM_catch_all_300x250");
-	</script>
-	<script type="text/javascript">
-		GA_googleFetchAds();
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/7999889/AM_catch_all_300x250', [300, 250], 'div-gpt-ad-1337342112614-0').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
 	</script>
 </head>
 <body onunload="">
@@ -139,16 +150,6 @@
 </div>
 				</div>
 			</div>
-
-			<div class="ads_300x250">
-				<div class="ad_ad">
-					Advertisement
-				</div>
-				<!-- AM_catch_all_300x250 -->
-				<script type="text/javascript">
-					GA_googleFillSlot("AM_catch_all_300x250");
-				</script>
-			</div>
 		</div>
 
 		<div class="mainbar">
@@ -232,8 +233,8 @@
 	</script><script src="https://www1.online-convert.com/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
 	try {
 	var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
-	piwikTracker.setDomains(["*.ambient-mixer.com", "ambient-mixer.com"]);
-	piwikTracker.setCookieDomain('*.ambient-mixer.com');
+	piwikTracker.setDomains('.ambient-mixer.com');
+	piwikTracker.setCookieDomain('.ambient-mixer.com');
 	piwikTracker.trackPageView();
 	piwikTracker.enableLinkTracking();
 	} catch( err ) {}
