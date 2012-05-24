@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caplay.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124004050id_/http%3A//www.caplay.com/index.php/About/index/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caplay.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524220232id_/http%3A//www.caplay.com/index.php/About/index/id/3) for the most accurate reproduction.*
 
 # PrivacyAbout -Caplay | Play it Immediately
 
