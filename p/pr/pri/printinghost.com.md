@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printinghost.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123111512id_/http%3A//www.printinghost.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printinghost.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524222024id_/http%3A//www.printinghost.com/privacypolicy.html) for the most accurate reproduction.*
 
 # printing host has the policy to place your order for customized printing and privacy
 
@@ -6,7 +6,7 @@
 
 **<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #3f3f3f;=""> Information Collection**
 
-<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">PrintingHost is the sole owner of the information collected on <span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #000066;="">[http://www.printinghost.com](https://web.archive.org/web/20111123111512id_/http%3A//www.printinghost.com/%5C%22http://www.printinghost.com%5C%22)<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">. Printinghost collects information from our users at several different points on our website.We use this information to improve the customer experience. 
+<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">PrintingHost is the sole owner of the information collected on <span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #000066;="">[http://www.printinghost.com](https://web.archive.org/web/20120524222024id_/http%3A//www.printinghost.com/%5C%22http://www.printinghost.com%5C%22)<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">. Printinghost collects information from our users at several different points on our website.We use this information to improve the customer experience. 
 
 **<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #3f3f3f;=""> Registration**
 
@@ -29,7 +29,7 @@ Cookies are used by both the My PrintingHost and the PrintingHost order sectioni
  **<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #3f3f3f;=""> Communications from the Site**
 
 <span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">Special Offers and Updates:  
-Established members will occasionally receive information on products,services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. If you do not wish to receive future emails, send an email to<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #000066;="">[ remove@printinghost.com](https://web.archive.org/web/20111123111512id_/http%3A//www.printinghost.com/%5C%22mailto:%20remove@printinghost.com%5C%22)<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">.
+Established members will occasionally receive information on products,services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. If you do not wish to receive future emails, send an email to<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #000066;="">[ remove@printinghost.com](https://web.archive.org/web/20120524222024id_/http%3A//www.printinghost.com/%5C%22mailto:%20remove@printinghost.com%5C%22)<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">.
 
  **<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #3f3f3f;=""> Customer Service**
 
@@ -49,7 +49,7 @@ Established members will occasionally receive information on products,services, 
 
  **<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #3f3f3f;=""> Choice/Opt-out**
 
-<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">Our users are given the opportunity to ‘opt-out’of having their information used for purposes not directly related to our site at the point where we ask for information. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at <span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #000066;="">[remove@printinghost.com](https://web.archive.org/web/20111123111512id_/http%3A//www.printinghost.com/%5C%22mailto:remove@printinghost.com%5C%22)<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">.
+<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">Our users are given the opportunity to ‘opt-out’of having their information used for purposes not directly related to our site at the point where we ask for information. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at <span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #000066;="">[remove@printinghost.com](https://web.archive.org/web/20120524222024id_/http%3A//www.printinghost.com/%5C%22mailto:remove@printinghost.com%5C%22)<span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">.
 
  **<span color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="" #3f3f3f;=""> Links**
 
@@ -68,7 +68,7 @@ If customers have opted out of all communication with the site, or deleted/deact
 
 <span black;="" color:="" ;="" sans-serif="" ,="" verdana="" 9pt;="">If customers have any questions or suggestions regarding our privacy policy, please contact us at:
 
-   **[info@printinghost.com](https://web.archive.org/web/20111123111512id_/http%3A//www.printinghost.com/%5C%22mailto:info@printinghost.com%5C%22)**
+   **[info@printinghost.com](https://web.archive.org/web/20120524222024id_/http%3A//www.printinghost.com/%5C%22mailto:info@printinghost.com%5C%22)**
 
  **USA Office:  
 ** 26645 W 12 Mile RD STE 201  
