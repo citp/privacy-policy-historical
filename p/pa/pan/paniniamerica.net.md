@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124032353id_/http%3A//paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524033351id_/http%3A//paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
 
 # Panini America formerly Donruss Trading Card Company
 
@@ -66,6 +66,6 @@ Irving, TX 75061
 
 Please note that this number is for questions about the Privacy statement, or for a contact to remove your child from a web-based database. It is not for Customer Service questions. 
 
-[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20111124032353id_/http%3A//paniniamerica.net/custserv.cfm?t=privacy#contact)
+[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20120524033351id_/http%3A//paniniamerica.net/custserv.cfm?t=privacy#contact)
 
 THIS PRIVACY POLICY WAS LAST UPDATED ON 3/28/2008 
