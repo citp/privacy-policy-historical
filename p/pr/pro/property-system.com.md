@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property-system.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072232id_/http%3A//www.property-system.com/property-tycoon-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-system.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524082301id_/http%3A//www.property-system.com/property-tycoon-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
