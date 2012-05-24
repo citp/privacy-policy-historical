@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102015943id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524084658id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Incorporate.com | Incorporate.com
+# Privacy Statement - The Company Corporation
+
+[ ](https://web.archive.org/)
+
+800.818.6082 
+
+Privacy Statement
+
+[$50,000 Corporate Veil Guarantee when you form your business with us. Click to learn more.](https://web.archive.org/web/20120524084658id_/http%3A//www.incorporate.com/cvg_50K_guarantee.html)
+
+## The Company Corporation Privacy Statement 
 
 **Last Revised:  July 15, 2011**
 
@@ -24,9 +34,9 @@ For your convenience, our Web site may contain links to companies offering produ
 
 To protect your personal and credit card information from unauthorized access, all information exchanged between our servers and your Web browser is encrypted using Secure Sockets Layer (SSL) technology and is accessible only by designated staff. All of our employees are made aware of our Confidentiality of Client Information Policy on a regular basis and must acknowledge that they have received and read the same. We also secure the infrastructure that supports information collection, exchange, and storage/retrieval at the following levels. We use firewalls to secure the perimeter of our information network and monitor our systems on a regular basis. We also use an authentication and authorization mechanism based on user i.d. and password to restrict access to your personal information. Each authenticated user only has access to the information that he or she is authorized to use. 
 
-All credit card information, personal information, and company information is treated as confidential and proprietary and is not shared outside The Company Corporation, with the exception of contact information and company formation information. Contact information includes your name, your company's name, and the company's address and phone number. Company formation information includes only the month of formation of your company. From time to time, The Company Corporation may rent or sell such contact information and company formation information to outside parties for marketing or other purposes. No personal or company information other than this contact information is shared with any outside party. If you do not want your contact information to be shared with outside parties, please send a request for such information to be removed to [remove@incorporate.com](mailto:remove@incorporate.com) or visit <http://www.incorporate.info/unsubscribe.cfm>.
+All credit card information, personal information, and company information is treated as confidential and proprietary and is not shared outside The Company Corporation, with the exception of contact information and company formation information. Contact information includes your name, your company's name, and the company's address and phone number. Company formation information includes only the month of formation of your company. From time to time, The Company Corporation may rent or sell such contact information and company formation information to outside parties for marketing or other purposes. No personal or company information other than this contact information is shared with any outside party. If you do not want your contact information to be shared with outside parties, please send a request for such information to be removed to [remove@incorporate.com](mailto:remove@incorporate.com).
 
-From time to time, The Company Corporation may wish to send you updates or newsletters with topics of interest to our client base. We may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to [remove@incorporate.com](mailto:remove@incorporate.com) or visit <http://www.incorporate.info/unsubscribe.cfm>. 
+From time to time, The Company Corporation may wish to send you updates or newsletters with topics of interest to our client base. We may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to [remove@incorporate.com](mailto:remove@incorporate.com). 
 
 ## Steps You Can Take to Ensure Your Privacy 
 
