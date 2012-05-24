@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView%3FstoreId%3D10151%26langId%3D-1%26catalogId%3D10051%26fileName%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView%3FstoreId%3D10151%26langId%3D-1%26catalogId%3D10051%26fileName%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Bass Pro Shops
 
-Bass Pro Outdoors Online, L.L.C. takes the privacy of our customers and the security of their Personal Information very seriously. We provide this summary of our Privacy and Security Statement ("Statement") because you have the right to know what Personal Information we collect, how it is protected and used and the circumstances under which it may be disclosed. The complete Privacy and Security Statement may be viewed by [clicking here](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#top). 
+Bass Pro Outdoors Online, L.L.C. takes the privacy of our customers and the security of their Personal Information very seriously. We provide this summary of our Privacy and Security Statement ("Statement") because you have the right to know what Personal Information we collect, how it is protected and used and the circumstances under which it may be disclosed. The complete Privacy and Security Statement may be viewed by [ _clicking here_](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#top). 
 
 If you have further questions regarding this Statement, please contact us: 
 
@@ -12,11 +12,15 @@ If you have further questions regarding this Statement, please contact us:
 
 **To Whom this Statement Applies**
 
-This Statement only applies to Bass Pro Outdoors Online, L.L.C. This Statement does not apply to affiliated entities of Bass Pro Outdoors Online, L.L.C. or to third parties. [Tell me more](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#governed)
+This Statement only applies to Bass Pro Outdoors Online, L.L.C. This Statement does not apply to affiliated entities of Bass Pro Outdoors Online, L.L.C. or to third parties. 
+
+[ _Tell me more_](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#governed)
 
 **The Personal Information We Collect How It Is Gathered and Used**
 
-We collect only the Personal Information you voluntarily provide to us or that is given to us by affiliated entities or third parties that have your permission to share your Personal Information with us. "Personal Information" includes your name, shipping and/or mailing address if goods are to be shipped or mailed to your home, home telephone number, email address, credit or debit card account number, outdoor activity preferences and may also include your purchase history. We do not share email addresses you provide to us when you use the Wish List, eGift Card and Email-A-Friend features or when you contact us via email. We assume when you use the Wish List, eGift Card and Email-A-Friend features that you have the authority or have obtained the consent of the recipient of your message to provide us with his or her email address for the purpose of sending the message and any attached information. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#information)
+We collect only the Personal Information you voluntarily provide to us or that is given to us by affiliated entities or third parties that have your permission to share your Personal Information with us. "Personal Information" includes your name, shipping and/or mailing address if goods are to be shipped or mailed to your home, home telephone number, email address, credit or debit card account number, outdoor activity preferences and may also include your purchase history. We do not share email addresses you provide to us when you use the Wish List, eGift Card and Email-A-Friend features or when you contact us via email. We assume when you use the Wish List, eGift Card and Email-A-Friend features that you have the authority or have obtained the consent of the recipient of your message to provide us with his or her email address for the purpose of sending the message and any attached information. 
+
+[ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#information)
 
 **How We Use Your Personal Information**
 
@@ -26,7 +30,7 @@ We use your Personal Information to respond to and fulfill your requests for Bas
 * to send you our email newsletters and specials offers;
 * to contact you about the status of or to obtain additional information about your order;
 * to improve our web site, customer service and merchandise selections  
-[Tell me more](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#information)
+[ _Tell me more_](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#information)
 
 **If you are a Citizen of Canada**
 
@@ -48,11 +52,15 @@ Bass Pro Outdoors Online, L.L.C does not rent or sell its email address lists. W
 
 The companies with which we share Personal Information are contractually prohibited from using the information obtained from Bass Pro Outdoors Online, L.L.C. for any purpose other than that for which it was provided and are required to have appropriate safeguards in place to protect that information. For information on how to instruct us not to use your Personal Information for these purposes, see "How You Can Control the Use of Your Personal Information" below. 
 
-We may also sell, transfer or otherwise disclose Personal Information including but not limited to your name and mailing address, in connection with a fundamental corporate change such as a merger, consolation, or the sale of all or substantially all of our assets. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#informationshared)
+We may also sell, transfer or otherwise disclose Personal Information including but not limited to your name and mailing address, in connection with a fundamental corporate change such as a merger, consolation, or the sale of all or substantially all of our assets. 
+
+[ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#informationshared)
 
 **Personal Information We Do Not Share**
 
-We do not share your telephone number or credit card information for use by other companies, for more details on the sharing of your Personal Information, please click on the following link. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#informationshared)
+We do not share your telephone number or credit card information for use by other companies, for more details on the sharing of your Personal Information, please click on the following link. 
+
+[ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#informationshared)
 
 **How You Can Control the Use of Your Personal Information**
 
@@ -60,19 +68,25 @@ We give you choices and control over the collection and use of your Personal Inf
 
 There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from Bass Pro Shops?, contact us at 
 
-[_abuse@basspro.com_](mailto:abuse@basspro.com) and do not furnish personal information in response to the email. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#informationcontrol)
+[_abuse@basspro.com_](mailto:abuse@basspro.com) and do not furnish personal information in response to the email. [ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#informationcontrol)
 
 **How You Can Control Email Communications You Receive From Us**
 
-You have the opportunity to choose to receive email communications such as our newsletter and/or special offers and change your mind at any time. If you choose not to sign up for this email service, we will send you only email that relates to a specific purchase or in response to an email inquiry from you. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#informationcontrolemail)
+You have the opportunity to choose to receive email communications such as our newsletter and/or special offers and change your mind at any time. If you choose not to sign up for this email service, we will send you only email that relates to a specific purchase or in response to an email inquiry from you. 
+
+[ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#informationcontrolemail)
 
 **Other Types of Information We Gather, How it is Used and Our Use of Gifs and Cookies**
 
-We use technology to collect anonymous, non-Personal Information that indicates how our site is used by visitors. We use this information to improve our site, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our site for advertising purposes and to help us plan for technical improvements. This information will not identify you or any other user of our web site as an individual. We use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. We use cookies to understand how our site visitors link to our site and what pages they view during their visit. Cookies also allow us to personalize your shopping experience, advertise to you on other web sites and speed the check-out process. Your browser must be set to accept cookies before you can place an order at BassPro.com [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#gifs)
+We use technology to collect anonymous, non-Personal Information that indicates how our site is used by visitors. We use this information to improve our site, for example by enhancing pages or features that are visited frequently, and on occasion we may share this information with our affiliates or other third party companies to provide them with an indication of the amount of interest in our site for advertising purposes and to help us plan for technical improvements. This information will not identify you or any other user of our web site as an individual. We use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. We use cookies to understand how our site visitors link to our site and what pages they view during their visit. Cookies also allow us to personalize your shopping experience, advertise to you on other web sites and speed the check-out process. Your browser must be set to accept cookies before you can place an order at BassPro.com 
+
+[ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#gifs)
 
 **How We Strive to Protect Personal Information**
 
-Bass Pro Outdoors Online, L.L.C. has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Personal Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Personal Information in order to provide the products and services that you request. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#security)
+Bass Pro Outdoors Online, L.L.C. has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Personal Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Personal Information in order to provide the products and services that you request. 
+
+[ _Tell me more_ ](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#security)
 
 **Our Policies Regarding Children**
 
@@ -90,4 +104,6 @@ This web site is operated in the United States. Please be aware that any informa
 
 We will update this Statement from time to time to reflect changes in our business. If we change how we use your Personal Information or the purposes or entities for and to which we disclose your Personal Information we will post the policy change notification on our web site. 
 
-Our current Statement was last updated March 28, 2007. [Tell me more ](https://web.archive.org/web/20111123212316id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/PageDisplayView?langId=-1&storeId=10151&catalogId=10001&headersection=%C2%A7ion=MyAccount&footersection=&pagename=PrivacyPolicyDisplay#updates)
+Our current Statement was last updated January 3, 2012. 
+
+[ _Tell me more_](https://web.archive.org/web/20120524052342id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/FullCMSContentView?storeId=10151&langId=-1&catalogId=10051&path=&fileName=privacyPolicyTellMeMore#updates)
