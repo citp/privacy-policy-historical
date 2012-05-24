@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sigmasport.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215147id_/http%3A//www.sigmasport.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmasport.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525013708id_/http%3A//www.sigmasport.co.uk/content/Privacy) for the most accurate reproduction.*
 
-# Sigma Sport Privacy Policy
-
-## General
+# Privacy Policy
 
 This privacy statement sets out how sigmasport.co.uk will store and use information relating to you. This applies to the entire web site. sigmasport.co.uk is a trading name of Sigma Sport Limited.
 
@@ -10,7 +8,7 @@ sigmasport.co.uk is committed to respecting your privacy. We have structured our
 
 For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.
 
-## Security Information
+### Security Information
 
 sigmasport.co.uk is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality.
 
@@ -18,7 +16,7 @@ When you place orders or access account information, we offer the use of a secur
 
 If you have any further questions about our credit card security policies, please call us on 020 8614 9777 and choose option 2 to talk to one of the mail order team.
 
-## We collect the following information:
+### We collect the following information:
 
 Where you order products, we will collect your name, contact and billing information, transaction and credit card information.
 
@@ -26,7 +24,7 @@ When you register with us to receive our monthly newsletter or details of offers
 
 Our website uses cookies, which are programs which collect additional information. In order to learn more see, How We Use Cookies below.
 
-## What do we do with the information we gather?
+### What do we do with the information we gather?
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -37,7 +35,7 @@ Internal record keeping
 
 
 
-## Who we share the information with and your choices
+### Who we share the information with and your choices
 
 When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement. We will not sell, distribute or lease your personal information to third parties other than our successor in business unless we have your permission or are required by law.
 
@@ -56,11 +54,11 @@ websales@sigmasport.co.uk
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
 
-## Other web sites
+### Other web sites
 
 Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.
 
-## How we use cookies
+### How we use cookies
 
 A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by remembering your details and telling them to the website so that you do not have to enter them each time.
 
