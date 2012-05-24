@@ -1,125 +1,168 @@
-> *The following text is extracted and transformed from the downloadster.net privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121163714id_/http%3A//downloadster.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadster.net privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043828id_/http%3A//www.downloadster.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY** for downloadster.net, and each of its related web sites ("downloadster.net") 
+### for Dowloadster.net, and each of its related web sites ("Dowloadster.net")
 
-Privacy Policy downloadster.net, and its Subsidiaries are committed to safeguarding your privacy online. This Privacy Policy (“Privacy Policy”) discloses how we collect and use information via our product or our various consumer sites and the choices that you can make about the way we collect and use your information. 
+### Privacy Policy Last updated July 6, 2011.
 
-If you are under 18, you should ask your parents or a guardian before you use our Services. If you are not yet 18, do not use our Services; do not download our products. 
+This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. Dowloadster.net provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.
 
-This Privacy Policy applies to any customers who use our Services. Collection, use, disclosure, and protection of personal information may be subject to different regulations outside the United States. Regardless, if you use our Sites, Products or Services you agree to abide by this policy. 
+Please note: our privacy policy changes from time to time and changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. Dowloadster.net does not provide notices of changes in any manner other than by posting the changes at this web site. If you do not agree with the terms of this privacy policy please do not provide any information to Dowloadster.net or use any of the services or products offered or provided on any of the web sites referred in this privacy policy.
 
-Sites Covered by This Policy: www.downloadster.net, and other sites we own that post a link to this Privacy Policy (collectively “Sites”). This Privacy Policy also applies to our Toolbars (collectively “Products”) and our download manager . This Privacy Policy may also apply to new Sites and Products we develop. 
+This Privacy Policy applies to Dowloadster.net's collection, use, storage and disclosure of information by Dowloadster.net on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Website"), (b) on various third party websites, and to Dowloadster.net's other information collection, including the purchase of customer lists from third parties. Dowloadster.net is not responsible for the information collection or privacy practices of third web sites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official Dowloadster.net contact remains subject to this Privacy Policy, as well as the Terms of Use and/or other stated policies.
 
-If you have question or concerns regarding this statement, you should first contact downloadster.net at info@downloadster.net. 
+  
 
-Overview of Our Policy We supply free entertainment and utility software including video playing software, graphics editors, password managers, file zipping software and games. Our Products include Toolbars. Our Toolbars add search functionality to your browser. They also allow one click access to news and our offers. (We refer to our software and Products throughout this agreement as our “Services”). 
 
-We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software. 
+## 1\. Collection of Information.
 
-Please read this Privacy Policy carefully so that you understand our online privacy practices regarding: 
+### 1.1 Survey Information.
 
-* Information we collect * How we use the information * How we share your information, if at all * Your choices 
+Dowloadster.net collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes an Dowloadster.net survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Website, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Dowloadster.net or a third party (a "Third Party") may ask an individual to provide various information to Dowloadster.net, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). Dowloadster.net may also collect information concerning an individual from another source and use that information in combination with information provided from this Web Site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Dowloadster.net or Third Party, but an individual may receive incentives from Dowloadster.net or a Third Party in exchange for providing Survey Information to Dowloadster.net.
 
-We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary this policy will govern. Where there is a conflict between this policy and our supplement, the supplement will govern. 
+### 1.2 Third Party List Information.
 
-We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+Dowloadster.net collects information from individuals when an individual provides information to a Third Party and Dowloadster.net subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, Dowloadster.net seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Dowloadster.net and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list.
 
-Some Terms We Use in This Policy Offers include e-mail, promotions, advertisements contests and third-party software presented by our Partners and us. 
+### 1.3 Other Information.
 
-Personally Identifiable Information (PII) is any information that identifies or could be used to identify, contact or locate you. It also includes your credit card number. 
+Other occasions when Dowloadster.net obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Dowloadster.net or by a Third Party, (2) when an individual requests assistance through Dowloadster.net's customer service department, and (3) when an individual voluntarily subscribes to a Dowloadster.net service or newsletter (together, "Other Information").
 
-Partner is an advertiser, or other entity with whom we have a business relationship to provide Offers. 
+### 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.
 
-Service includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software, as well as our Toolbars. 
+Dowloadster.net currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Dowloadster.net may use other new and evolving sources of information in the future (together, "Technology Information").
 
-Subsidiary is an entity wholly owned or related to downloadster.net. 
+**(a) Cookies.** A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Dowloadster.net to identify the individual with his or her corresponding data that resides in Dowloadster.net's database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.
 
-User means an individual that has accessed the Sites on which we host our Products or Services. 
+**(b) Web Beacons.** A web beacon is programming code that can be used to display an image on a web page (by using an programming function, see http://truste.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Dowloadster.net to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Dowloadster.net might place, with the consent of a Third Party website, a web beacon on the Third Party's website where baseball products are sold. When Joe, an individual listed in Dowloadster.net's database, visits the fishing website, Dowloadster.net receives notice by means of the web beacon that Joe visited the baseball site, and Dowloadster.net would then update Joe's profile with the information that Joe is interested in baseball. Dowloadster.net may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, Dowloadster.net also uses web beacons in email messages sent to individuals listed in Dowloadster.net's database.
 
-We and Our refer to downloadster.net and its subsidiaries. 
+**(c) New Technology.** The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Dowloadster.net's use of new and evolving technology. As a result, Dowloadster.net strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
-You and Your refer to each user and his or her agents. 
+### 1.5 Outside Information.
 
-Personal Information We Collect We may collect personal information at various times when you use our Services. Your participation is voluntary and you have the choice not to disclose any information that we request. 
+Dowloadster.net may receive information about individuals from Third Parties or from other sources of information outside of Dowloadster.net including information located in public databases ("Outside Information").
 
-Installation. During installation, we will present you with Offers. You may choose not to accept our Offers. Your participation is voluntary, you are not required to disclose to our Partners any information they request. However, if you provide your Personally Identifiable Information in response to any Offer, we will share it with our Partners so they can provide you with the Offers in which you have expressed interest. 
+### 1.6 Individual Information.
 
-Contacts/IP Information. If you voluntarily submit information or contact us (e.g. password request, technical support), we may keep a record of this communication. We do not merge this information with your Personally Identifiable Information. 
+As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Dowloadster.net gathers or receives about individuals such as usage data, file transfer and viewing data.
 
-Free Games. We offer free games. Some of our games collect your name as a requisite to setting up a profile. We use this information for the sole purpose of setting up your profile. 
+### 1.7 No Information Collected from Children.
 
-Aggregate Information We Collect When you use our Services, we may collect tracking information such as your IP address, browser type, the type of operating system you use, details about your computer hardware, the applications you have installed on your PC, the domain name of your Internet service provider, and pages you visited on our Sites. None of the information identifies you personally and we do not link aggregate information to Personally Identifiable Information. 
+Dowloadster.net will never knowingly collect any personal information about children under the age of 13. If Dowloadster.net obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, Dowloadster.net has no such information to use or to disclose to Third Parties. Dowloadster.net has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
 
-Cookies. A cookie is a small text file sent to your browser. Cookies are stored on your computer’s hard drive for record keeping purposes. We and our Partners use session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie will terminate. A persistent cookie remains on your hard drive for an extended period. You can remove persistent cookies by following directions provided in your Internet browser’s help file. 
+### 1.8 Log File Information.
 
-We use cookies to: 1) Remind us of who you are and to access your account information (stored on our computers). We also use cookies to store your zip code and other information you have submitted for other services, such as displaying your local weather. We do not store Personally Identifiable Information in our cookies and we do not tie the information in our cookies to our customers’ Personally Identifiable Information 
+When users log-in to access their account, our servers may automatically record and archive certain information that web-browsers send whenever visiting a Website. These server logs may include information vital to validating the user's authorization to access the account. Information, such as a web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a user's entry and activity on the Website.
 
-Some of the Partner Offers on our Services may also use cookies. We have no control over our partners’ privacy policies. We also have no control over their cookies, the information collected and its use 
+### 1.9 Credit Card Information.
 
-Web beacons or Pixels. We and our Partners employ a software technology that helps us better manage content on our site. Web beacons or Pixels are tiny graphics with a unique identifier, similar in function to cookies. They track your online Web movement. We embed Pixels invisibly on Web pages. They are about the size of the period at the end of this sentence. We do not tie the information gathered by Pixels to our customers’ Personally Identifiable Information. 
+Dowloadster.net may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Dowloadster.net. When the Credit Card Information is submitted to Dowloadster.net, such information is encrypted and is protected with SSL encryption software. Dowloadster.net will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction.
 
-Some of the Partner Offers may also use Pixels. We have no control over our partners’ Pixels. We also have no control over how they use information collected. 
+  
 
-Global Unique Identifiers. A GUID (global unique identifier) is a randomly generated alphanumeric identifier used to indicate a unique installation of our Products or Services. We may create a GUID when you install our Products or Services. We use GUIDs to track installations and to enable features and functionality for specific customers who subscribe to our Products and Services. We do not tie the information gathered by GUIDs to our customers’ Personally Identifiable Information. 
 
-Software Information. We employ a technology that allows us to determine the operating systems you are using and to view your computer’s registry. Software installed on your computer has unique registry keys. By viewing your registry, we are able to detect whether you have a compatible operating system, compatible versions of DirectX, and Flash Player installed. We use your registry information to determine whether our software offers are compatible with software already present on your PC. We do not tie registry information gathered to our customers’ Personally Identifiable Information. 
+## 2\. Use of Individual Information.
 
-Hardware Information. Your computer’s operating system also stores hardware information that we examine to determine your computer’s hardware configuration including the amount of memory and the type of video card your computer has, as well as the speed of your processor. We use the information to determine whether our software offers are compatible with your computer hardware. We do not tie hardware information to our customers’ Personally Identifiable Information. 
+### 2.1 Discretion to Use Information.
 
-How We Use Your Information We only use information as it is needed for each specific visit. We do not use your PII in any way at this point. 
+THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION.
 
-E-mail Offers. By providing your e-mail address, and choosing to receive our Offers, you agree to receive e-mails from us. Should you have any questions or concerns, or if you would like to discontinue receiving Offers, simply email us at webmaster@downloadster.net and ask us to remove you from our lists. You will only receive Offers via e-mail from us and our Partners if you have indicated that you would like to receive them. 
+The following paragraphs in Section 2 describe how Dowloadster.net currently uses Individual Information, but Dowloadster.net may change or broaden its use at any time. As noted, Dowloadster.net may update this policy from time to time. Dowloadster.net may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
-Testimonials. We post testimonials on our Sites. Testimonials may contain Personally Identifiable Information. We will obtain your consent via email prior to posting the testimonial or comment. 
+### 2.2 Email.
 
-Third Parties and Advertising. Third parties advertise on our Sites, and we also contract with third parties to serve ads across the Internet. These third parties may serve ads about our products or services, or third party products or services in which, based on your Session Data, we or our business partners believe you may be interested. These third parties may seek to use cookies and pixel tags, including those collected on our Site, to track Session Data about the ads you have seen and types of things in which you appear interested. These third parties may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. You can opt-out of the third party advertising program by visiting the Network Advertising Initiative website http://www.networkadvertising.org/consumer/opt_out.asp. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. 
+Dowloadster.net uses Individual Information to provide promotional offers by email to individuals. Dowloadster.net may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Dowloadster.net's email lists, a person must click here.
 
-When you click on a third party advertisers’ link from our Site, you will enter the third party’s site. We are not responsible for such third party’s sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy. 
+### 2.2(a) Content of Email Messages.
 
-How We Share Your Information. Partners may sponsor Offers or we may co-sponsor an Offer with a Partner through the software. You should always assume data collected when you fill-in an Offer will be shared with a Partner. If an Offer requires you to leave our websites, you should know that our Partners may collect Personally Identifiable Information about you. We do not control these Partner sites. This Privacy Policy does not cover our partners’ websites and information practices. Once you have voluntarily submitted information to our Partners, your personal information is subject to their privacy policy. We have no liability or responsibility for these privacy policies or the use of any Personally Identifiable Information transferred to Partners. 
+In certain commercial email messages sent by Dowloadster.net, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to Dowloadster.net. The "Subject:" line of Dowloadster.net email messages will usually contain a line provided from the advertiser to Dowloadster.net.
 
-If you no longer wish to be contacted by our partners you must contact that partner directly to opt-out. 
+### 2.2(b) Solicited Email.
 
-Our Partners change from time to time, and therefore it is not possible to provide an exhaustive list. We strive to select trustworthy Partners who offer high quality products or services of interest to you. If you are unhappy with one of our Partners, tell us by e-mailing us at info@downloadster.net. 
+Dowloadster.net only sends email to individuals who have agreed on the Website to receive email from Dowloadster.net or to individuals who have agreed on Third Party websites to receive email from Third Parties such as Dowloadster.net. Dowloadster.net does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Dowloadster.net's email messages.
 
-We may periodically use third parties to meet your needs. If we hire a third-party service provider, they will be prohibited from using your Personally Identifiable Information for any purpose not enumerated in this section. 
+### 2.3 Targeted Advertising.
 
-The following describes some of the ways that we may disclose your information to our Partners: 
+Dowloadster.net uses Individual Information to target advertising to an individual. When an individual is using the Internet, Dowloadster.net uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and Dowloadster.net attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Dowloadster.net may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
 
-Search Partners. We may transmit your search queries (made on the Site or within one of our Software Offers) to search Partners, who use this information to provide us with search results, which we then will display to you. 
+### 2.4 Direct Mail and Telemarketing.
 
-Third-Party Advertisements and Software. When you request or submit your information online to a Partner in response to any Offer, we transfer your information for each request made to that Partner. 
+Dowloadster.net uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 2.5 Mobile Phone SMS Messaging. In certain cases, when requested by an individual, a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual's cell phone. Dowloadster.net is not responsible for the privacy practices or the content of such Third Parties.
 
-Our Products. We do not require you to provide Personally Identifiable Information during the installation process of our Toolbars of other software products. However, when you use these Software Offers to access Download Offers (e.g. games) you may be required to provide Personally Identifiable Information. In addition, we will show you Offers during the installation process. 
+### 2.6 Use of Technology Information.
 
-E-Mail Suppression Lists. We may disclose a user’s e-mail address as part of a suppression file or do-not-e-mail list to its partners and affiliates to make sure that a user’s unsubscribe requests are forwarded to the appropriate parties to ensure removal of the user from partner and affiliate databases in compliance with law, including without limitation, the Can-Spam Act of 2003. 
+Dowloadster.net uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Dowloadster.net's web sites are most frequently visited. This information helps Dowloadster.net to better understand the online habits of individuals so that Dowloadster.net can target advertising and promotions to them.
 
-Sale, Merger or Asset Transfer. We may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that we or all of our assets are acquired, customer information, including any information collected through the Sites or the Services would be one of the transferred assets. 
+### 2.7 Profiles of Individuals.
 
-From time to time we use third-parties when providing Services to you. We will only share information with third-parties necessary for them to provide the Services you have requested. Third-parties are prohibited from using your Personally Identifiable Information for promotional purposes. 
+Dowloadster.net uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases.
 
-Your Choices Cookies. By modifying your browser preferences, you can choose to, accept all cookies, to be notified when a cookie is set, or you can reject all cookies. If you choose to reject all cookies, you may be unable to use our Services. 
+### 2.8 Storage of Individual Information.
 
-Offers. We may from time to time, send you e-mail regarding third party promotions, as well as other, Products and Services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our Partners, we may occasionally send you e-mail or direct postal mail about other products and services that we feel may be of interest to you. If you do not wish to receive e-mail from us, you can tell us by e-mailing us at info@downloadster.net. Be sure to include your full name and address, along with the information you submitted during your initial registration including postal address and e-mail, and tell us that you no longer wish to receive Offers from us. You also have the option of unsubscribing from e-mail Offers by clicking on the unsubscribe link at the bottom of every e-mail offer from us. 
+Dowloadster.net may store Individual Information in a database on Dowloadster.net computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Dowloadster.net's control. Not withstanding such measures, Dowloadster.net cannot guarantee that its security measures will prevent Dowloadster.net computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
-Modifications. For any of our sites you may edit your account information and user profile by using your username and password. 
+  
 
-If your personally identifiable information changes, or if you want your information deleted from our systems you should email our customer support team as info@downloadster.net. 
 
-Security and Passwords We cannot and do not ensure or warrant the security of any information collected, transmitted over the Internet, or maintained in your user profile. You agree that any data transmission you make or receive through the Site or the Service is at your own risk. 
+## 3\. Dissemination of Individual Information.
 
-No method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this policy. 
+### 3.1 Sale or Transfer to Third Parties.
 
-We do not knowingly collect information about children under the age of 13. We encourage parents and guardians to be familiar with the web sites that their children visit the Federal Trade Commission (“FTC”) regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children’s Online Privacy Protection Act of 1998 (the “Act”). For more information about the Act and children’s on-line privacy in general, visit the FTC’s web site at www.ftc.gov/privacy. For safety tips on privacy visit www.OnGuardOnline.gov. 
+Dowloadster.net may sell or transfer individual information to third parties for any legally permissible purpose in Dowloadster.net's sole discretion.
 
-Miscellaneous Provisions YOUR USE OF OUR SERVICES IS AT YOUR OWN RISK. OUR SERVICES (INCLUDING ALL CONTENT AND FUNCTIONS MADE AVAILABLE ON OR ACCESSED THROUGH OUR SITES) IS PROVIDED “AS IS.” WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WHATSOEVER ABOUT: (1) THE ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT; (2) THE SERVER THAT MAKES THE SERVICES AVAILABLE, INCLUDING THAT IT IS FREE OF VIRUSES OR OTHER COMPONENTS THAT MAY INFECT, HARM, OR CAUSE DAMAGE TO YOUR COMPUTER EQUIPMENT OR ANY OTHER PROPERTY WHEN YOU ACCESS, BROWSE, DOWNLOAD FROM, OR OTHERWISE USE THE SITE. 
+### 3.2 Order Fulfillment.
 
-UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO OUR NEGLIGENCE, SHALL WE BE LIABLE FOR ANY CONSEQUENTIAL, DIRECT, INCIDENTAL, INDIRECT, PUNITIVE, OR SPECIAL DAMAGES RELATED TO (A) THE USE OF, (B) THE INABILITY TO USE, OR (C) ERRORS OR OMISSIONS IN THE CONTENTS AND FUNCTIONS OF OUR SITES AND SERVICES, EVEN IF WE OR OUR REPRESENTATIVES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT OR TORT, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE OR OTHERWISE) EXCEED $10.00. 
+Dowloadster.net will transfer Individual Information to Third Parties when necessary to provide a product or service that a person orders from such Third Party while using Dowloadster.net web sites or when responding to offers provided by Dowloadster.net.
 
-Indemnification. You agree to indemnify, defend, and hold us and all of our agents, directors, employees, information providers, licensors and licensees, officers, and subsidiaries (collectively, “Indemnified Parties”) harmless from and against any and all liability and costs (including, without limitation, attorneys’ fees and costs) incurred by you in connection with any claim arising out of any breach by you of this Privacy Policy. You will cooperate as fully as reasonably required in our defense of any claim. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without our written consent. 
+### 3.3 Legal Process.
 
-International Policy. Our Services are hosted by servers in the United States. Accordingly, if you are located outside of the United States, we will transfer the personal information you provide to us to the United States. By submitting your personal information, you fully understand and consent, to its transfer, storage and processing in the United States. 
+Dowloadster.net may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
 
-Enforcement / Redress. If you feel that we have not followed our Privacy policy, please let us know. Also, if you have any questions or concerns about our Privacy policy, its implementation, or would like a written copy, please feel free to contact us at info@downloadster.net 
+### 3.4 Summary Data.
+
+Dowloadster.net may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
+
+### 3.5 Access.
+
+Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting info@Dowloadster.net. Dowloadster.net may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
+
+  
+
+
+## 4\. Privacy Practices of Third Parties.
+
+### 4.1 Advertiser cookies and web beacons.
+
+Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Website and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Dowloadster.net does not control Advertisers' use of such technology and Dowloadster.net has no responsibility for the use of such technology to gather information about individuals.
+
+### 4.2 Links.
+
+The Website and email messages sometimes contain hypertext links to the web sites of Third Parties. Dowloadster.net is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by Third Parties. Such links are provided for your convenience and reference only. Dowloadster.net does not operate or control in any respect any information, software, products or services available on such Third Party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
+
+### 4.3 Affiliated Companies.
+
+Dowloadster.net may disclose, transfer, and sell Individual Information to entities affiliated with Dowloadster.net in Dowloadster.net's discretion. Should Dowloadster.net be subject to an acquisition, merger, sale or other change of control or business entity status, Dowloadster.net reserves the right to transfer or assign the Information collected from the Website.
+
+  
+
+
+## 5\. Individuals Outside of the United States.
+
+Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by Dowloadster.net in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States.
+
+  
+
+
+## 6\. Unsubscribe Procedures.
+
+If you wish to discontinue receiving email messages from Dowloadster.net, you have several options:
+
+  * **Unsubscribe from one email list.** We reserve the right to add Individual Information to multiple lists maintained by Dowloadster.net. To unsubscribe from a particular list, either (1) follow the instructions in each promotional email message sent by Dowloadster.net or (2) To globally unsubscribe from all of Dowloadster.net's lists, click here.
+  * **Unsubscribe from a particular SMS messaging campaign.** To unsubscribe from a particular SMS messaging campaign on a cell phone, send "STOP", "END", or "QUIT" to the SMS message received by the individual. In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.
+
+
+
+For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us.
+
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
