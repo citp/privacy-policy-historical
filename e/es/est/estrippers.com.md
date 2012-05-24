@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estrippers.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124024737id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D822) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estrippers.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524215826id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D822) for the most accurate reproduction.*
 
 # Privacy | XXX VIDEO THEATER
 
