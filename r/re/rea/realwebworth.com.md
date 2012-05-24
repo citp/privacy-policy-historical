@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the realwebworth.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011212id_/http%3A//realwebworth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwebworth.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524184102id_/http%3A//realwebworth.com/privacy.html) for the most accurate reproduction.*
 
 # Website Worth & Website Value Calculator! | RealWebWorth.com
+
+## Privacy
 
 **Privacy Statement:**
 
@@ -18,7 +20,7 @@ We run contests on our site in which we ask visitors for contact information (li
 
 We also use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-Public Forums 
+Public Forums
 
 * Google, as a third party vendor, uses cookies to serve ads on your site.
 
