@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8countnews.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014510id_/http%3A//www.8countnews.com/news/125/ARTICLE/2082/2008-11-21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8countnews.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524215628id_/http%3A//www.8countnews.com/news/125/ARTICLE/2082/2008-11-21.html) for the most accurate reproduction.*
 
 # 8countnews.com Privacy Policy
 
