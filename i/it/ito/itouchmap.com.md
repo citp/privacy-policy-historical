@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itouchmap.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123005841id_/http%3A//www.itouchmap.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itouchmap.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525005424id_/http%3A//itouchmap.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
 
 # iTouchMap.com Privacy Policy
 
