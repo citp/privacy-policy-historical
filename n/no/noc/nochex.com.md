@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124172907id_/http%3A//nochex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143309id_/http%3A//nochex.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,9 +8,7 @@ Any information you provide us with will only be disclosed in accordance with th
 
 ## Required Information
 
-To open a Nochex Personal account you must tell us certain personal information such as your name, email address, date of birth and postal address. For security, you must also submit a password and answer security questions. 
-
-If you wish to open a Nochex Seller / Nochex Merchant Account, additional information will be required including for example, the nature of your business, web address and business address. 
+To open a Nochex account you must tell us certain personal information such as your name, email address, date of birth and postal address. Depending on the type of account you may also be asked to supply additional information such as the nature of your business, web address and business address.  For security, you must also submit a password and answer security questions. 
 
 For certain transactions you need to provide financial information such as your debit card details. We only collect the information that is required by regulation and law for us to process your transactions securely and protect you against fraud.
 
@@ -18,9 +16,9 @@ For certain transactions you need to provide financial information such as your 
 
 We only use your personal information to service your account and to improve our service to you. As part of our normal business operation, we do share some financial information with banks, card processing and verification services. 
 
-Unless required by law, these organisations may not use your information for secondary purposes. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law when we believe that such action is necessary to comply with current judicial proceedings, a court order or legal process serviced on our web site. Otherwise, under no circumstances will information you provided to Nochex be transmitted in any way to a third party.
+Unless required by law, these organisations may not use your information for secondary purposes. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law when we believe that such action is necessary to comply with current judicial proceedings, a court order or legal process serviced on our web site. Otherwise, under no circumstances will information you provide to Nochex be transmitted in any way to a third party without your consent.
 
-## Aggregate Statistical Information 
+##  Cookies 
 
 We may collect aggregated statistical information for purposes of improving our service and your experience with Nochex. This data does not contain personally identifying information, such as your name or email address.
 
@@ -31,6 +29,8 @@ This allows Nochex to tailor the service to your preferences. You are not oblige
 We never use cookies to retrieve information from your computer which was not originally contained in the cookie. We use cookies and IP addresses for system administration and to monitor aggregate non-personalised information (such as anonymous statistics related to the take up or use of services, or to patterns of browsing). 
 
 Certain non-personal information about users is recorded by the standard operation of Nochex's internet servers. Examples of this type of information include the type of browsers being used, its operating system and the domain names (not e-mail addresses) of users. 
+
+Because we use privacy neutral cookies we do not seek to obtain consent from users for any cookies used on our website. 
 
 ## Links
 
