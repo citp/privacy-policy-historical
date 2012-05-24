@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famedollars.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220061830id_/http%3A//www.gammae.com/famedollars/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famedollars.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043347id_/http%3A//www.gammae.com/famedollars/privacy.php) for the most accurate reproduction.*
 
 # FameDollars v2.0 - Privacy Policy
 
