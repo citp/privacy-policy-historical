@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muthootfinance.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126084926id_/http%3A//www.muthootfinance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muthootfinance.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524094221id_/http%3A//www.muthootfinance.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Muthoot Finance Ltd. - A Muthoot M George Enterprise
+# Muthoot Finance
 
 **What information do we collect?**    
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form 
