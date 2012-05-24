@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yeva-4u.com.ua privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124103830id_/http%3A//yeva-4u.com.ua/index.php%3Fshow%3Dcontent%26data%3Dppolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yeva-4u.com.ua privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524030209id_/http%3A//yeva-4u.com.ua/index.php%3Fshow%3Dcontent%26data%3Dppolicy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Russian women are waiting for you</title>
@@ -23,8 +23,8 @@ table.reklama_edit_popup {
 table.banner_edit_popup {
   /*display: none;*/
 	position: absolute;
-	top: 25%;
-	left: 57%;
+	top: 25px;
+	left: 0;
 	/*margin-left: -320px;*/
 	z-index: 50000;
 }
@@ -32,8 +32,8 @@ table.banner_edit_popup {
 table.chat_edit_popup {
   /*display: none;*/
 	position: absolute;
-	top: 19%;
-	left: 15%;
+	top: 150px;;
+	right: 0;
 	/*margin-left: -320px;*/
 	z-index: 50000;
 }
@@ -41,8 +41,17 @@ table.chat_edit_popup {
 table.vchat_edit_popup {
   /*display: none;*/
 	position: absolute;
-	top: 19%;
-	left: 57%;
+	top: 25px;
+	right: 0;
+	/*margin-left: -320px;*/
+	z-index: 50000;
+}
+
+table.erochat_edit_popup {
+  /*display: none;*/
+	position: absolute;
+	top: 300px;
+	left: 0;
 	/*margin-left: -320px;*/
 	z-index: 50000;
 }
@@ -50,8 +59,8 @@ table.vchat_edit_popup {
 table.phonecall_edit_popup {
   /*display: none;*/
 	position: absolute;
-	top: 70%;
-	left: 57%;
+	top: 250px;
+	right: 0;
 	/*width: 320px;*/
 	/*margin-left: -320px;*/
 	z-index: 50000;
@@ -92,8 +101,8 @@ div#invite_stpeterburg {
     border-width: 5px;
     height: 150px;
     position: absolute;
-    right: 50px;
-    top: 65%;
+    right: 0px;
+    top: 85%;
     width: 300px;
     z-index: 70000; 
 	
@@ -164,6 +173,7 @@ div#quest2 a {
 <script type="text/javascript" src="js/jquery.Jcrop.js"></script>
 <script type="text/javascript" src="js/swfobject.js"></script>
 <script type="text/javascript" src="js/tabs.js"></script>
+<script type="text/javascript" src="js/jquery.timers.js"></script>
 <script language="JavaScript">
 
 $(document).ready(function(){
@@ -193,6 +203,11 @@ function chatwinclose(){
 
 function vchatwinclose(){
    $('#invite_vchat').hide('slow');
+   //document.write("<img src='' width='100' height='100' src='./actions/declinevchat.php'>");
+}
+
+function erochatwinclose(){
+   $('#invite_erochat').hide('slow');
    //document.write("<img src='' width='100' height='100' src='./actions/declinevchat.php'>");
 }
 
@@ -239,11 +254,14 @@ function phonecallwinclose(){
     case 3:
      $("#invite_banner").load("actions/userphonecall.php?id=" + user);
     break;
+    case 4:
+     $("#invite_banner").load("actions/usererochat.php?id=" + user);
+    break;
    }
    //$("#invite_banner").load("actions/userphonecall.php?id=" + user);
    $("#invite_banner").show('slow');
    num++;
-   if(num > 3){ num = 1;}
+   if(num > 4){ num = 1;}
    //}
   }
   
@@ -269,6 +287,14 @@ function phonecallwinclose(){
    $("#invite_vchat").hide('slow');
    $("#invite_vchat").load("actions/uservchat.php?id=" + user);
    $("#invite_vchat").show('slow');
+  }
+  
+  function rotate_erochat(){
+   var user = '';
+   
+   $("#invite_erochat").hide('slow');
+   $("#invite_erochat").load("actions/usererochat.php?id=" + user);
+   $("#invite_erochat").show('slow');
   }
   
 </script>
@@ -392,7 +418,7 @@ dating-advise us, and you get free credits to your account.
 </p><form name="send_email" method="post" action="index.php?show=content"> 
 <br>Name: <input type="text" name="bonus_name">
 <br>Email: <input type="text" name="bonus_email">
-<br><img src="image/uniqimage.php?n=4334695" alt=""><input type="hidden" value="4334695" name="uniculcode"><input type="text" name="itscode"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Send" name="email_bonus"></form>
+<br><img src="image/uniqimage.php?n=14373526" alt=""><input type="hidden" value="14373526" name="uniculcode"><input type="text" name="itscode"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Send" name="email_bonus"></form>
 <p>administrator Lia
 </p></div>
 </div>
@@ -617,6 +643,23 @@ function hide_dopinfo(){
 </tbody></table>
 
 
+<table cellpadding="0" cellspacing="0" id="invite_erochat" class="erochat_edit_popup" style="display: none;">
+      		<tbody><tr><td class="chat_edit_transparent" colspan="3" style="height: 20px;">&nbsp;</td></tr>
+      		<tr><td class="chat_edit_transparent" style="width: 20px;">&nbsp;</td>
+      			<td align="center" class="chat_edit_popup">
+      			<table>
+      			<tbody><tr><td style="padding-left: 20px;" colspan="2"><nobr> ( y.o.) <br> invites you for EroChat &nbsp;&nbsp;&nbsp;<a href="#" onclick="$('#invite_erochat').hide('slow');return(false);" style="color: #0000FF;">[Close]</a></nobr></td></tr>
+      			<tr><td style="padding-left: 20px;" rowspan="4"><img src="smallphotos/" border="1" width="100" height="120"></td></tr>            
+            <tr><td style="padding-left: 20px;"><input type="button" value="View profile" class="chatbut1" onclick="location.href=&quot;index.php?show=profile&amp;id=&quot;"></td></tr>
+            <tr><td style="padding-left: 20px;"><input type="button" value="Accept Erochat" class="chatbut2" onclick="location.href=&quot;index.php?show=erochat&amp;sess=&quot;"></td><td></td></tr>
+            <tr><td style="padding-left: 20px;"><input type="button" value="Decline Erochat" class="chatbut3" onclick="location.href=&quot;erochatgirl.php?act=decline&amp;idprofile=&quot;"></td></tr>
+            </tbody></table>
+      			</td>
+      		<td class="chat_edit_transparent" style="width: 20px;">&nbsp;</td></tr>
+      		<tr><td class="chat_edit_transparent" colspan="3" style="height: 20px;">&nbsp;</td></tr>
+</tbody></table>
+
+
 <table cellpadding="0" cellspacing="0" id="invite_phonecall" class="phonecall_edit_popup" style="display: none;">
       		<tbody><tr><td class="chat_edit_transparent" colspan="3" style="height: 20px;">&nbsp;</td></tr>
       		<tr><td class="chat_edit_transparent" style="width: 20px;">&nbsp;</td>
@@ -644,21 +687,6 @@ function hide_dopinfo(){
 
 
 
-  <div id="quest" align="center">
- Miss Russian Bride 2011<br>
-and mister International Groom 2011<br>
-You are welcome to visit<br>
-Great Competition Show Summer 2011<br>
-In Saint-Petersburg, Russia.<br>
-5000 ladies from all over<br>
-the Russia and Ukraine will take part<br>
-in this show program.<br>
-<br>
-<a href="/index.php?show=prepayromancetour">pre-payment</a>
-<br>
-   [<a href="#" onclick="$('#quest').hide('slow');">close</a>]
-  </div>  
-             \
 <table border="0" cellspacing="0" cellpadding="0" width="600" align="center">
 <tbody><tr>
 <td>
@@ -770,7 +798,7 @@ screen.colorDepth:screen.pixelDepth)</script>
 document.write("<a href='http://click.hotlog.ru/?435005' target='_top'><img "+
 " src='http://hit23.hotlog.ru/cgi-bin/hotlog/count?"+
 hotlog_r+"&' border=0 width=88 height=31 alt=HotLog><\/a>")
-</script><a href="http://click.hotlog.ru/?435005" target="_top"><img src="http://hit23.hotlog.ru/cgi-bin/hotlog/count?0.12942855944551845&amp;s=435005&amp;im=115&amp;r=&amp;pg=https%3A//web.archive.org/web/20111124103830id_/http%253A//yeva-4u.com.ua/index.php%253Fshow%253Dcontent%2526data%253Dppolicy&amp;c=Y&amp;j=N&amp;wh=800x600&amp;px=24&amp;js=1.3&amp;" border="0" width="88" height="31" alt="HotLog"></a>
+</script><a href="http://click.hotlog.ru/?435005" target="_top"><img src="http://hit23.hotlog.ru/cgi-bin/hotlog/count?0.7696704252171889&amp;s=435005&amp;im=115&amp;r=&amp;pg=https%3A//web.archive.org/web/20120524030209id_/http%253A//yeva-4u.com.ua/index.php%253Fshow%253Dcontent%2526data%253Dppolicy&amp;c=Y&amp;j=N&amp;wh=800x600&amp;px=24&amp;js=1.3&amp;" border="0" width="88" height="31" alt="HotLog"></a>
 <noscript>
 <a href="http://click.hotlog.ru/?435005" target="_top">
 <img src="http://hit23.hotlog.ru/cgi-bin/hotlog/count?s=435005&amp;im=115" border="0"
@@ -783,4 +811,4 @@ hotlog_r+"&' border=0 width=88 height=31 alt=HotLog><\/a>")
 </div>
 
 
-<div align="center"><font size="-1">Time: 0.008 sec.</font></div><!----></body></html>
+<div align="center"><font size="-1">Time: 0.007 sec.</font></div><!----></body></html>
