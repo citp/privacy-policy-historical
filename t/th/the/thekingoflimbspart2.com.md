@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekingoflimbspart2.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124191003id_/http%3A//thekingoflimbspart2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekingoflimbspart2.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054217id_/http%3A//thekingoflimbspart2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The King of Limbs Part 2
 
@@ -40,4 +40,4 @@ kingoflimbs2 [at] gmail.com
 
 Last updated Sun, 01 May 2011 14:41
 
-May 1, 2011 at 7:41 AM
+[No Comments yet.](http://thekingoflimbspart2.com/privacy-policy/#respond "Comment on Privacy Policy")
