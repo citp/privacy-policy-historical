@@ -1,12 +1,98 @@
-<!--The following is the downloaded HTML source of the carsort.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124025520id_/http%3A//carsort.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carsort.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524175850id_/http%3A//carsort.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head>
+    
+    <meta content="Carsort" property="og:site_name">
+    <meta content="373940242651805" property="fb:app_id"> 
+    <meta content="612980623" property="fb:admins"> 
+    
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <link href="/images/favicon.ico" rel="shortcut icon">    
     <link href="/images/favicon.ico" rel="icon">
-    <script type="text/javascript" async="" src="http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js"></script><script type="text/javascript" async="" src="http://widgets.twimg.com/j/2/widget.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
 
+    <script type="text/javascript">
+      // <![CDATA[
+        
+      var _fbAppId = '373940242651805';
+      var _template = 'sites/carsort/privacy-policy';
+      
+      // ]]>
+    </script> 
+
+           
+    <script type="text/javascript">
+  // <![CDATA[        
+    /** See: http://www.thetaboard.com/blog/client-side-error-logging-with-google-analytics?r=378 */
+    (function() {
+      function parseUrl(url) {
+        var a = document.createElement('a');
+        a.href = url;
+        return a;
+      }
+      
+      var handlingOnError = false;
+      window.onerror = function(message, fileRaw, line) { 
+        var summary = '[' + fileRaw + ' (' + line + ')] ' + message;
+        var parsedFile = parseUrl(fileRaw);
+   
+        if (parsedFile.host != window.location.host) { 
+          console.warn('Ignoring error from 3rd party domain: ' + summary);
+          return;
+        } else if (line == '0' || line == 0) {
+          // adb: these seem to be noisy and not useful
+          console.warn('Ignoring line 0 error: ' + summary);
+          return;
+        }
+        
+        // Notify google analytics 
+        _gaq.push(['_trackEvent', 'error', 'javascript', summary, null, true]);
+        
+        /* adb: commenting this out, its way too noisy, we'll rely on google analytics for now
+        // If the file is our url, substitute our template
+        var file = fileRaw;
+        if (file == window.location.href && _template.length > 0) 
+          file = _template;   
+        else
+          file = parsedFile.pathname;
+        
+        var data = "errClass=onError&message=" + encodeURIComponent(message) + "&file=" + encodeURIComponent(file) + "&line=" + encodeURIComponent(line) + "&url=" + encodeURIComponent(window.location.href) + "&details=" + encodeURIComponent(fileRaw);
+        
+        // Notify us     
+        handlingOnError = true;
+        $.ajax({ url: '/api/error', type: 'post', data: data, complete: function() { handlingOnError = false; } });
+        */
+      };
+    
+      var handlingAjaxError = false;
+      $(document).ajaxError(function(event, request, settings, error) {
+        if (handlingAjaxError || handlingOnError) return;
+        handlingAjaxError = true;
+        
+        var obj = { url: settings.url, responseText: request.responseText, statusText: request.statusText, statusCode: request.statusCode(), error: error };
+        var details = JSON.stringify(obj);
+         
+        // Notify google analytics 
+        _gaq.push(['_trackEvent', 'error', 'ajax', details, null, true]);
+    
+        /* adb: commenting this out, its way too noisy, we'll rely on google analytics for now
+        var message = request.responseText;
+        if ($.trim(message).length == 0)
+          message = request.statusText;
+        if ($.trim(message).length == 0)
+          message = error;
+          
+        var data = "errClass=ajax&message=" + encodeURIComponent(message) + "&file=" + encodeURIComponent(_template) + "&line=none&url=" + encodeURIComponent(window.location.href) + "&details=" + encodeURIComponent(details);
+        
+        // Notify us     
+        $.ajax({ url: '/api/error', type: 'post', data: data, complete: function() { handlingAjaxError = false; } });
+        */
+      });
+    })();
+  // ]]>    
+</script>
+    
      
     
     <script type="text/javascript">
@@ -16,7 +102,7 @@
       
       _gaq.push(['_setAccount', 'UA-11218461-22']);
       // record which split-test we are in
-      _gaq.push(['_setCustomVar', 5, 'SplitTest', 'A', 1]); // 1 is visitor scope, see: http://code.google.com/apis/analytics/docs/tracking/gaTrackingCustomVariables.html 
+      _gaq.push(['_setCustomVar', 5, 'SplitTest', 'B', 1]); // 1 is visitor scope, see: http://code.google.com/apis/analytics/docs/tracking/gaTrackingCustomVariables.html 
       _gaq.push(['_trackPageview']);
     
       // ]]>
@@ -82,7 +168,7 @@
         }      
       </style>
     
-    <link type="text/css" rel="stylesheet" href="/cacheable/css?f=css%2Fcore.css&amp;h=84a2b9bc0f46cd2a79b367689728bc64">     
+    <link type="text/css" rel="stylesheet" href="/cacheable/css?f=css%2Fcore.css&amp;h=0cf614667fe58d98790023a158997c52">     
   
 	
 <title>Privacy Policy</title>
@@ -90,7 +176,32 @@
 	
 </head>
 <body>
+
+    
+    <script type="text/javascript">
+    // <![CDATA[
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "14243123" });
+      (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+      })();
+    // ]]>
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14243123&amp;cv=2.0&amp;cj=1" />
+    </noscript>
+    
+
     <div id="container">
+      <div class="default ad-top">
+        <table><tbody><tr><td style="vertical-align: top"><script type="text/javascript" src="http://a.collective-media.net/adj/lb.geekaphone/carsort;site=geekaphone;site=carsort;!category=geekaphone;!category=carsort;pos=atf;sz=728x90;ord=1337882330154?"></script><noscript>
+        <a target="_blank" href="http://a.collective-media.net/jump/lb.geekaphone/carsort;site=geekaphone;site=carsort;!category=geekaphone;!category=carsort;pos=atf;sz=728x90;ord=1337882330154?">
+          <img alt="" border="0" src="http://a.collective-media.net/ad/lb.geekaphone/carsort;site=geekaphone;site=carsort;!category=geekaphone;!category=carsort;pos=atf;sz=728x90;ord=1337882330154?" />
+        </a>
+      </noscript></td></tr></tbody></table>
+      </div>
       <div class="site-nav" id="header">
         <table style="width: 100%;"><tbody><tr>
           <td style="vertical-align: middle; width:40%;">
@@ -103,29 +214,13 @@
           <td style="width:40%; text-align: right;">
             <form action="/api/search" method="get"> 
               <div> 
-                <input name="product" class="text-field hint prod-autocomplete" title="search by model" style="width: 16em;" type="text"> 
+                <input name="product" class="text-field prod-autocomplete" placeholder="search by model" style="width: 16em;" type="text"> 
                 <input value="Go" type="submit" title="Look up a particular model"> 
               </div> 
             </form> 
           </td>
         </tr></tbody></table>
       </div>
-      
-        
-        <div id="ad-banner">
-          <table style="text-align: center;">
-            <tbody><tr><td>
-              <script type="text/javascript">
-                //<![CDATA[
-                  ord = window.ord || Math.floor(Math.random()*1E16);
-                  document.write('<script type="text/javascript" src="http://ad1.netshelter.net/adj/ns.snapsort/bestbuy_skinnybar;ppos=atf;kw=;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
-                //]]>
-              </script><script type="text/javascript" src="http://ad1.netshelter.net/adj/ns.snapsort/bestbuy_skinnybar;ppos=atf;kw=;tile=1;dcopt=ist;sz=728x90;ord=4983795237656392?"></script>
-              <noscript><a target="_blank" href="http://ad1.netshelter.net/jump/ns.snapsort/bestbuy_skinnybar;ppos=atf;kw=;tile=1;sz=728x90;ord=123456789?"><img alt="" border="0" src="http://ad1.netshelter.net/ad/ns.snapsort/bestbuy_skinnybar;ppos=atf;kw=;tile=1;sz=728x90;ord=123456789?" /></a></noscript>
-            </td></tr>
-          </tbody></table>
-        </div>
-      
       <div id="body">
         
   
@@ -167,9 +262,12 @@
           <br><br>          
         </div>
       </div>
+      <div style="text-align: right">
+        <fb:like show_faces="true" width="450" send="false"></fb:like>
+      </div>
     </div>
 
-    <script type="text/javascript" src="/cacheable/js?f=common%2Fjs%2Fcommon.js&amp;h=34ccafa6141f876a691a93748a0a24e3"></script>
+    <script type="text/javascript" src="/cacheable/js?f=common%2Fjs%2Fcommon.js&amp;h=7da8b6dd68d5ca2d2b26c42c20511910"></script>
     <script>
       // <![CDATA[
       if (loadPlugins.twitter) {
@@ -208,16 +306,18 @@
 
       if (loadPlugins.gs) {
         async_load('http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js', function() {
-          var feedback_widget_options = {};    
-          $(document).ready(function(){  
-            feedback_widget_options.display = "overlay";  
-            feedback_widget_options.company = "carsort";
-            feedback_widget_options.placement = "right";
-            feedback_widget_options.color = "#CF5C08";
-            feedback_widget_options.style = "idea";
-            // This is important to avoid the script using document.write, which you can't use with xHTML strict
-            feedback_widget_options.container = 'gsContainerID';
-            var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+          $(document).ready(function() {
+            var options = {  
+              display: 'overlay',  
+              company: 'carsort',
+              placement: 'right',
+              color: '#CF5C08',
+              style: 'idea',
+              // This is important to avoid the script using document.write, which you can't use with xHTML strict
+              container: 'gsContainerID'
+            };
+            if (GSFN)            
+              var feedback_widget = new GSFN.feedback_widget(options);
           });
         });
       }
