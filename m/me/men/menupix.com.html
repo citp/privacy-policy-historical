@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the menupix.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124034755id_/http%3A//www.menupix.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the menupix.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524173822id_/http%3A//www.menupix.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>MenuPix.com - Privacy Policy</title><meta name="description" content="MenuPix.com is a comprehensive search engine for Boston, Cambridge, and Brookline restaurant menus, reviews, ratings, delivery, and takeout information. MenuPix.com is FREE for both users and restaurants. "> <meta name="keywords" content="Menu, Menus, Boston, Los Angeles, San Francisco, Restaurants, Delivery, Take Out, Dining, Food, reviews, maps, ratings, menu guide, boston menus, la menus, san francisco menus, cambridge menus">
@@ -87,20 +87,20 @@ GA_googleFetchAds();
     
     <!--facebook login div start-->
         <div id="f-login-div">
-	
+	    
+            <div style=" width:107px; float:right; margin-right:15px;cursor:pointer;">
+	  <img src="http://www.menupix.com/images/fb_connect.gif" border="0" onclick="fblogin_new();">
+        </div> 
+	           		
 <div id="fb-root"></div>
-
 <!-- //check if any page if the jquery is not defined in head then only execute this -->
-
 <script>
 if(typeof(jQuery)=='undefined')
 {
   document.write('<script type="text/javascript" src="http://www.menupix.com/js/jquery-1.3.2.min.js"><\/script>');
 }
 </script><script type="text/javascript" src="http://www.menupix.com/js/jquery-1.3.2.min.js"></script>
-
 <script>
-
 $(document).ready(function(){
    
   window.fbAsyncInit = function() {
@@ -109,6 +109,7 @@ $(document).ready(function(){
 		status: true, 
 		cookie: true,
 		xfbml: true,
+		oauth: true,
 		channelUrl:'http://www.menupix.com/channel.html'
 	});
 	
@@ -127,24 +128,19 @@ $(document).ready(function(){
 });
 
 function logout(){
-	FB.logout(function(){
-	window.location = 'http://www.menupix.com/user_logout.php';
-	});
+	//alert('test');
+	FB.logout(function(response) {		
+		window.location = 'http://www.menupix.com/user_logout.php';
+	});	
 }
 
 function fblogin_new() {
   
 	FB.login(function(response) {
-	}, {perms:'email,publish_stream'});
+	}, {scope:'email,publish_stream'});
 }
 	  
 </script>
-    
-            <div style=" width:107px; float:right; margin-right:15px;cursor:pointer;">
-	  <img src="http://www.menupix.com/images/fb_connect.gif" border="0" onclick="fblogin_new();">
-        </div> 
-	           		
-
     
 		
 	
@@ -521,7 +517,7 @@ GA_googleFillSlot("728-BF2-All");
 	<a href="http://www.menupix.com/advertise.php">Advertising</a> | <a href="http://www.menupix.com/resource.php">Resources</a> | <a href="http://www.menupix.com/faq.php">Help/FAQ</a> | 
 	<a href="http://www.menupix.com/privacy.php">Privacy Policy</a> | <a href="http://www.menupix.com/legal.php">Legal Statement</a>
 <br>
-	  Copyright © 2005-2011 MenuPix, LLC All rights reserved.<br> <span style="color:#FFF"> /home/mxst1k/public_html/privacy.php</span>
+	  Copyright © 2005-2012 MenuPix, LLC All rights reserved.<br> <span style="color:#FFF"></span>
 
 <br>	</div>
 </div>
