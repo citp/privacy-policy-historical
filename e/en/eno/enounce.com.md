@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enounce.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033149id_/http%3A//www.enounce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enounce.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180119id_/http%3A//www.enounce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Enounce
 
@@ -57,7 +57,7 @@ If you would prefer that we do not share PII about you with affiliated entities 
 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove PII about you from the databases of affiliated entities with which we have already shared PII about you (i.e., to which we have already provided PII about you as of the date on which we implement your opt-out request). If you wish to cease receiving marketing-related emails from such affiliated entities, please contact such affiliated entities directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.
 
-**Changing or Suppressing PII about you.** To the extent the laws of your country entitle you to review, correct, update or suppress PII about you that has been previously provided to us, you may exercise this right by logging in to your Profile or the Accounts area of the Site or by emailing us at [privacy@enounce.com](mailto:privacy@enounce.com) . For your protection, we will only implement such requests with respect to the PII associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+**Changing or Suppressing PII about you.** To the extent the laws of your country entitle you to review, correct, update or suppress PII about you that has been previously provided to us, you may exercise this right by logging in to your Profile or the Accounts area of the Site or by emailing us at [privacy@enounce.com](mailto:privacy@enounce.com). For your protection, we will only implement such requests with respect to the PII associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
 In each event, you must clearly indicate the information that you wish to have changed, clearly indicate that you wish to have PII about you suppressed from our database or clearly indicate the limitations you wish to put on our use of PII about you.
 
