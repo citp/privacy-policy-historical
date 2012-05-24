@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lost-media.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615082605id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lost-media.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524044130id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Sites Network
 
