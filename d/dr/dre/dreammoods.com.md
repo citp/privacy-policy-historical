@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034844id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180349id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Dream Moods: Privacy Statement
+
+** **
 
 We, at [Dream Moods](http://www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses the information gathering and dissemination practices for [Dream Moods.](http://www.dreammoods.com/index.html)
 
   
 **Information Automatically Logged** : We use your IP address to gather broad demographic information and  as a way of diagnosing problems with our server and to administer and monitor our site.
 
-**Advertisers:**
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+**Advertisers:** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 Also some of these third-party ads may contain cookies. While we use cookies in other parts of our web site, cookies received with banner ads are collected by the ad companies themselves;  we do not have access to this information. 
 
@@ -27,3 +27,5 @@ Note also that when using the discussion forums, a "cookie" will be placed on yo
 
   
 **Contacting The Web Site** : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [privacy@dreammoods.com](mailto:contact@dreammoods.com).
+
+[](http://www.dreammoods.com/cgibin/birdcast.cgi)        
