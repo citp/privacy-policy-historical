@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230742id_/http%3A//www.dogchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524035815id_/http%3A//www.dogchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Dog Channel - Animal Network Privacy Policy
 
