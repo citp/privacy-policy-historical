@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606044829id_/http%3A//www.botanical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524052422id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Botanical.com Privacy Statement
 
   
 _...on the world wide web since 1995_   
@@ -9,7 +9,7 @@ Home of the electronic version of "A Modern Herbal" by Maud Grieve.
 
 |   
   
-"If a man take no thought about what is distant, he will find sorrow near at hand." - The Confucian Analects   
+"If triangles had a god, he would have three sides." - Lettres Persanes   
   
 * * *  
   
