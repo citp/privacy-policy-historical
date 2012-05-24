@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilezen.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124031531id_/http%3A//help.agilezen.com/faqs/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilezen.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524175932id_/http%3A//help.agilezen.com/faqs/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Policies / FAQs - AgileZen Support
+# Privacy Policy / Policies / Knowledge Base - AgileZen Support
 
 Rally Software Development Corp. ("Rally") has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the Rally web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
@@ -32,7 +32,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 
 ## Correcting & Updating Your Information
 
-You can update your contact information at any time by accessing the Settings page after you log in. From your dashboard, you can also update your billing information by clicking the Change Billing button on the account you would like to update. If you would like to discontinue service, you can do so by clicking the Delete Account button on the account you wish to cancel.
+You can update your contact information at any time by accessing the Settings page after you log in. From your dashboard, you can also update your billing information by clicking the Change Billing button on the account you would like to update. If you would like to discontinue service, you can do so by clicking the Cancel button on the account you wish to cancel.
 
 ## Additional Information
 
