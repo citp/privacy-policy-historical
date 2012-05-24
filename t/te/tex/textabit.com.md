@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the textabit.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416122402id_/http%3A//www.textabit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textabit.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031847id_/http%3A//www.textabit.com/privacy-policy) for the most accurate reproduction.*
 
-# TEXTABIT'S PRIVACY POLICY
+# Textabit's Privacy Policy
 
 TEXTABIT values your right to privacy and we are dedicated to protecting it. This Privacy Policy applies to all personally identifiable information that we collect from you in providing the TEXTABIT service ("Service") or your use of this website ("Site"). If you have received a message from a user of TEXTABIT, the relevant privacy policy will be that made available by the user. 
 
