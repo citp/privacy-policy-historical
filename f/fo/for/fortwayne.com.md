@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124163428id_/http%3A//content.fortwayne.com/%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524150800id_/http%3A//content.fortwayne.com/%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
 
 # FortWayne.com - Fort Wayne IN
 
@@ -16,8 +16,8 @@ If you use our referral service ("Email an Article to a Friend") to tell a frien
 **What information does Fort Wayne Newspapers collect?**  
 We may request that you voluntarily supply us with personal information, such as your e-mail address, postal address, home or work telephone number or credit card number (only if you choose to purchase a product online). If you choose to give us personal information via the Internet that we or our business partners may need - to correspond with you, process an order or provide you with a subscription, for example - it is our intent to let you know how we will use such information. 
 
-This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity.Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at  
-<http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.   
+This Web site uses services provided by NewsRight. NewsRight collects content usage information and may use cookies in conjunction with this activity.Your continued readership of the Site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at  
+[http://www.newsregistry.com/privacycenter/servicepolicy.aspx](http://www.newsregistry.com/privacycenter/servicepolicy.aspx) for further information.   
    
  **Cookies**  
 Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus or capture your e-mail address. You can set your browser preferences to reject all cookies, but then you will not be able to participate in most customized services, and you may be required to repeatedly log in to participate in various services, promotions or product offerings. 
