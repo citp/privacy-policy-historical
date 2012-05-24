@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101103828id_/http%3A//www.stamfordadvocate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524095132id_/http%3A//www.stamfordadvocate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - StamfordAdvocate
 
@@ -150,9 +150,16 @@ By signing up for the SMS Service, you consent to receive, from time to time, fu
 
 When you are on our Web Sites you may have the opportunity to visit, or link to, other web sites not operated by the Newspaper, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties. These web sites may collect personal information about you. The Newspaper does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites. This Privacy Policy does not address the information practices of those other web sites. The privacy policies of web sites operated by other affiliates of the Newspaper are located on those web sites.
 
-**K. Miscellaneous**
+**K. News Registry**
 
-**(i) Consent to Processing**
+We participate in the News Registry, a service operated by the News Licensing Group, LLC (NLG). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NLG News Registry. Please refer to the NLG News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
+
+**L. quadrantONE**  
+The quadrantONE platform adheres to the Self‐Regulatory Principles for Online Behavioral Advertising (the "Principles"), developed by the Digital Advertising Alliance, a group of leading online industry trade associations dedicated to applying consumer‐friendly standards to online behavioral advertising across the Internet. To learn more about the Principles and to exercise your choice to opt‐out from interest‐based advertising, please go to <http://www.aboutads.info/choices/>. You may opt‐out from the use of your information for Online Behavioral Advertising purposes by selecting quadrantONE from the list of participating companies and following the opt‐out instructions. 
+
+**M. Miscellaneous**
+
+ ******(i) Consent to Processing**
 
 We control and operate the Web Sites from our offices in the United States of America. By providing Personal Information to theWeb Sites, you understand and consent to such collection, maintenance, processing and transfer of such information. We do not represent that materials on the Web Sites are appropriate or available for use in other locations. Persons who choose to access the Web Sites from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable. All parties to this Privacy Policy waive their respective rights to a trial by jury.
 
