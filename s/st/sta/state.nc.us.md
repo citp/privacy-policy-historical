@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nc.us privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110023317id_/http%3A//www.state.nc.us/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nc.us privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524190718id_/http%3A//www.state.nc.us/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # NCGOV - Portal Policies
 
@@ -11,7 +11,7 @@ Information Collected and Stored Automatically
 Public Disclosure   
 Web Site Security   
 Cookies  
-[Disclaimer](https://web.archive.org/web/20111008124324id_/http://www.state.nc.us/disclaimer.aspx "disclaimer")   
+[Disclaimer](https://web.archive.org/web/20120427021322id_/http://www.state.nc.us/disclaimer.aspx "disclaimer")   
 Links to Other Sites
 
 **Information Collected and Stored Automatically **   
