@@ -1,81 +1,77 @@
-> *The following text is extracted and transformed from the upsellit.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625182525id_/http%3A//www.upsellit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsellit.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524060911id_/http%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.*
 
-# UpSellit.com - Contact Us
+# Our Privacy Policy | Cart Abandonment | Email Remarketing | UpSellit.com
 
-**UpSellit.com Privacy Policy **
 
-At UpSellit.com, we have created this privacy policy because we are concerned about protecting the privacy of the users of our SMARTagent Chat technology. The success of our service depends on our ability to maintain the trust of these users.  Please read on for more information about our privacy policy.  ****
-
-**What does UpSellit.com do? **
-
-UpSellit.com is a leading provider of technology that facilitates real-time sales and customer service for companies doing business on the Internet. We are an Application Service Provider, or ASP, and we offer our proprietary real-time SMARTagent chat technology as an outsourced service to our customers. As an ASP, we may collect information on behalf of our customers.  We also collect information on our own website. Our methods for collection and use of information depend on whether the user logs directly onto our website (a "UpSellit.com User") or accesses our service on one of our customer's sites (an "ASP User"). ****
-
-**UpSellit.com Users **
-
-**What information do we collect from UpSellit.com Users? **
-
-When the online customer service chat first begins, UpSellit.com Users enter into a live question and answer session with our SMARTagent chat technology. We maintain dialogue transcripts of these chats. After the chat, we may ask UpSellit.com Users to fill out an exit survey in order to obtain valuable feedback about our service. Filling out the exit survey is completely voluntary. The surveys may ask for contact information (e.g., email address) and for demographic information (e.g., zip code, age or income level). 
-
-UpSellit.com Users in need of technical support are required to complete a form for purposes of defining and clarifying their technical support requests. When submitting a technical support request, UpSellit.com Users are asked to provide the following identifiable information: email address, URL of their site and a description of the issue. Emails sent to support are kept only for problem solving purposes and this information is not shared with or disclosed to any outside third parties.
-
-We log browser information (e.g., Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site.
-
-We also collect data through aggregated tracking information derived mainly by tallying page views throughout our site.
-
-We do not knowingly collect any information from anyone under 18 years of age. The exit surveys ask UpSellit.com Users to enter their age so that we may refuse to accept any information that has been submitted by anyone under 18.
-
-How does UpSellit.com use information it collects from UpSellit.com Users and will UpSellit.com disclose such information to outside parties?
-
-We access the information we collect for certain purposes (for example, to aggregate the information, to monitor the use of the service during certain chats and for other lawful purposes). A UpSellit.com User's information, including personally identifiable information, will not be shared with anyone. We do not sell, trade or rent the personal information that UpSellit.com Users provide. ****
-
-**ASP Users **
-
-**What information do we collect from ASP Users? **
-
-When the online customer service chat first begins, ASP Users are asked to enter their names in whatever format or detail they prefer. During the chat, ASP Users enter into a live question and answer session with our SMARTagent chat technology. We maintain dialogue transcripts of these chats. After the chat, our customers may ask ASP Users to fill out an exit survey in order to obtain valuable feedback. Filling out the exit survey is completely voluntary. The surveys may ask for contact information (e.g., email address) and for demographic information (e.g., zip code, age or income level). The surveys vary by customer so that our customers may obtain feedback specific to their website and business, as well as feedback regarding our service.
-
-We log browser information (e.g., Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site. 
-
-We do not knowingly collect any information from anyone under 18 years of age. The exit surveys ask ASP Users to enter their age so that our clients may refuse to accept any information that has been submitted by anyone under 18. ****
-
-**How does UpSellit.com use information it collects from ASP Users and will UpSellit.com disclose such information to outside parties? **
-
-We access the information we collect for certain purposes including, but not limited to, the following: to provide maintenance, support or professional services to our customers, to aggregate the information, to monitor the use of the service during certain chats and for other lawful purposes.
-
-An ASP User's information contained in the dialogue transcripts and the exit surveys may be shared with our customer on whose website the ASP User accessed our service (the "ASP Customer"). Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information related to an ASP Customer or ASP User (supplied voluntarily during the chat or in the exit survey) will not be shared with parties other than the ASP Customer, except as required by law. We actively encourage the ASP Customers to post a privacy policy on their site and to ensure that their use of the information will comply with their privacy policy.
-
-We do not sell, trade or rent the personally identifiable information that ASP Users provide. ****
-
-**Information Relevant to Both UpSellit.com Users and ASP Users **
-
-**How does UpSellit.com protect user information? **
-
-Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We offer secure sessions for chats at our clients' option so that data passed between users and operators cannot be decrypted. To achieve this level of security, we use Secure Socket Layer (SSL) encryption that encodes information as it is being sent over the Internet between the user and the operator. All chats and user data are maintained and archived on secure servers. Access to stored data is password protected and passwords are account specific. Therefore, no customer can view data for another customer. We also use appropriate firewall technology within our facility to prevent unauthorized access. For another level of protection, all data is backed up daily, and archives are stored off-site in a secure location. ****
-
-**What about "cookies" **
-
-Cookies are pieces of information that some websites transfer to the computer that is browsing that website and are used for record-keeping purposes at many websites. Use of cookies makes Web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases, personal preferences regarding the use of the particular website and to make sure the user does not see the same ad repeatedly. Many consider the use of cookies to be an industry standard. Our site uses cookies to enhance the user's experience by allowing us to recognize a user's return visit to our own service. 
-
-Browsers are usually set to accept cookies. However, if users would prefer not to receive cookies, they may alter the configuration of their browser to refuse cookies. If they choose to have their browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. ****
-
-**Opt-Out Policy **
-
-UpSellit.com gives users options wherever necessary and practical. Such choices include opting not to engage in chat sessions and opting not to provide identifiable information during chat sessions.  ****
-
-**In summary **
-
-We are committed to protecting the privacy of the users of our service. We use the information we collect to provide a better experience for future use of our service and to provide our customers with valuable feedback on their websites and businesses. ****
-
-**Correcting and Updating Personal Information **
-
-If any of the personal information that you provided to us changes or is incorrect, please [email us](mailto:records@upsellit.com) with your new, correct information. ****
-
-**Business Transfers **
-
-In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets.
-
-**Tell us what you think **
-
-UpSellit.com welcomes your feedback on our privacy policy. Send your comments to [privacy@UpSellit.com](mailto:privacy@UpSellit.com).
-
-We recommend that you review this policy periodically, as we may update it from time to time.
+        
+    
+        We are committed to protecting your privacy. Please review this document before you go further in your visit on our site or before you
+        use any of our tools or services.
+    
+        UpSellit provides abandonment tools to website owners who want to interact with visitors on their website. Part of the service enhances
+        the website owner's understanding of who is on their website and reports to them that information. Naturally, we use our products,
+        so what you read below applies to visitors to our website as well.
+    
+        We use "Cookies." Our cookies are designed to help us and our customers provide better service to visitors on our websites by recognizing
+        a returning visitor and noting that in our reporting. A session "Cookie" is written to a visitor's browser for the purpose of maintaining
+        an understanding of that visitor during the current visit and on any subsequent visit. Any visitor on a website may turn off "Cookies" by
+        adjusting the appropriate setting on their browser. Please note, if a visitor turns off cookies the visitor and/or the website owner may
+        find some of the functionality of the UpSellit's products, to be reduced or impaired.
+    
+        Just like a brick and mortar business pays attention to people in its store, so do we. We use (and provide to our customers) code that
+        helps us "see" who visited our store and what parts of our store they looked at. Providing such data to our customers is an inherent part
+        of the service we provide. In addition to visit-related information, on behalf of our customers we may provide and store chat, email and
+        contact information so our customers may be able to better provide aid to visitors to their websites for the products and/or services our
+        customers offer. We may aggregate and analyze non-personal tracking data to better understand customer behavior and may share aggregated
+        data with our customers to help our customers serve their customers more effectively.
+    
+        If a visitor to our website or our customers' website(s) decides to interact with the website using our products, the visitor may be asked
+        for identifying information including their name, phone number, and other pertinent information. We store that information as well as the
+        transcript of the chat (if one occurs) on behalf of our customers.
+    
+        In order to create an account or user login to use our service or access certain documents or portions of our website, you may be required
+        to complete online registration forms that provide us with contact information such as your name and street address, your email address,
+        and your phone numbers. In order to seek out and repair functionality issues with our servers and related programming, we may use your email
+        and IP addresses for evaluation and diagnostic purposes. We may also use your email and IP address to automatically recognize you should you
+        contact us or use our tools and services. Groups of email and IP addresses are also gathered so that we may have broad demographic information.
+    
+        If you provide us your email address for any reason, we may, from time to time, send you emails regarding our service so that we can directly
+        communicate with you regarding issues we determine to be relevant. Please note that any data you provide on this website may be
+        saved, even if you do not click [submit/next]. Information provided may be used to contact you about our services.
+        We may also provide you with promotional information about our tools and services. An opt-out procedure is provided with
+        each mailing regarding general offers or information. You must accept emails from us that deal with specific issues regarding your account or
+        membership. This is because we may need to contact you if there is a change in the service that we are providing you or if we need to respond
+        to an inquiry that you have sent us regarding a customer service issue or other important concern.
+    
+        Naturally, should you purchase a product or service from us, we will require sufficient information from you so that we can complete the transaction.
+        Such information could include a credit card number and related account and billing information, invoice related information, and other data required
+        for processing the order. We will also update such data should you grant us permission to bill you or your credit card for recurring charges, such as
+        monthly or other types of periodic payments. All information of this nature is maintained by us in a secure database and transmitted across the Internet
+        from you to us using secured transmission encryption.
+    
+        We protect our customers' data from loss, misuse, unauthorized access, alteration, or destruction on secure servers and utilize unique usernames with
+        required passwords to ensure our customers only view their own data.
+    
+        We will never reveal any information you provided us nor information in your commercial use of our services as described above to any third party or
+        entity for any reason except under the following circumstances:
+    
+        If a governmental agency, or court, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or
+        pending legal action.
+    
+    
+        If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise
+        contributed in some way to the causation of the legal matter. Please contact us here if you should have any questions, comments or concerns about
+        this Privacy Policy.
+    
+    
+        **You may write us via surface mail:**
+        UpSellit LLC
+        5655 Lindero Canyon Blvd, Suite 702
+        Westlake Village, CA 91362
+    
+        **You may phone us:**
+        [1-866-504-9619](tel:18665049619)
+    
+        We may modify this Privacy Policy without prior notice to you. By visiting our website and/or using our products or services, you agree to inform
+        yourself of modifications to our Privacy Policy by reviewing it on our website from time to time.
+        
