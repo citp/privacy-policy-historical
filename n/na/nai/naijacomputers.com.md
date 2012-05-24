@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijacomputers.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130205329id_/http%3A//naijacomputers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijacomputers.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524035833id_/http%3A//naijacomputers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
