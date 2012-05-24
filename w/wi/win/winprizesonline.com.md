@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winprizesonline.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124010938id_/http%3A//www.winprizesonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winprizesonline.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054617id_/http%3A//www.winprizesonline.com/privacy.php) for the most accurate reproduction.*
 
 # Win Prizes Online - Win Prizes in Online Sweepstakes
 
