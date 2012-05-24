@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printland.in privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122092654id_/http%3A//www.printland.in/cms/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printland.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524083854id_/http%3A//www.printland.in/cms/privacy_policy.html) for the most accurate reproduction.*
 
 # Printland - Privacy Policy
 
