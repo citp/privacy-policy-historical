@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oemoffhighway.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009040854id_/http%3A//www.oemoffhighway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemoffhighway.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034321id_/http%3A//www.oemoffhighway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OEM Off-Highway - OEM Off-Highway
 
