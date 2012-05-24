@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the pexsupply.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123163741id_/http%3A//www.pexsupply.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pexsupply.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524163206id_/http%3A//www.pexsupply.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<!-- Project Version - -1 last built at Tue, 22-November-2011 12:32:00 EST -->
+	<!-- Project Version - -1 last built at Mon, 21-May-2012 10:14:21 EDT -->
 	<meta http-equiv="content-type" content="content-type:text/html; charset=utf-8">
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"> 
@@ -13,7 +13,7 @@
 <meta name="keywords" content="pex, radiant heat, radiant heating, pex tubing, radiant floor heating, pex plumbing, thermostats, honeywell thermostats, kohler faucets, plumbing supplies, tankless water heaters, boilers">
 <meta name="author" content="PexSupply www.pexsupply.com">
 <meta name="revisit-after" content="30 days">
-<meta name="copyright" content="Copyright 2011 PexSupply.com">
+<meta name="copyright" content="Copyright 2012 PexSupply.com">
 <meta name="distribution" content="global">
 <meta name="language" content="en">
 <meta name="robots" content="index,follow">
@@ -32,7 +32,30 @@
 <script type="text/javascript" src="http://s3.pexsupply.com/html/js/lib/validation.js"></script>
 <script type="text/javascript" src="http://s3.pexsupply.com/html/js/lib/scriptaculous/scriptaculous.js?load=effects,controls,dragdrop"></script>
 <script type="text/javascript" src="http://s3.pexsupply.com/html/js/base.js"></script>
-<script type="text/javascript" src="http://s3.pexsupply.com/html/js/static.js"></script>	
+<script type="text/javascript" src="http://s3.pexsupply.com/html/js/static.js"></script>	<script type="text/javascript">
+			function readCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+	
+		function loadPexLogo()
+		{
+			var prosFlag = readCookie('PexsupplyPro');
+			if (prosFlag == 'Y') {
+				document.getElementById('pexlogo').innerHTML = '<a href="http://www.pexsupply.com/" title="Pex Supply Homepage"><img src="http://s3.pexsupply.com/html/img/logo/PEX_Logo_wProBadge.jpg" alt="PexSupply.com" width="350" height="78" /></a>';
+			}
+			else
+			{	
+				document.getElementById('pexlogo').innerHTML = '<a href="http://www.pexsupply.com/" title="Pex Supply Homepage"><img src="http://s3.pexsupply.com/html/img/logo/logo_pex.gif" alt="PexSupply.com" width="350" height="78" /></a>';				
+			}
+		}	
+	</script>
 </head>
 <body>	
 	<!-- clickTale-->
@@ -62,24 +85,24 @@
 							<!--<li class="phone_down"><a href="http://www.pexsupply.com/contact" target="_blank">1-888-757-4774</a></li>-->
 							<li class="phone"><a href="http://www.pexsupply.com/contact" target="_blank">1-888-757-4774</a></li>
 							<!--SMPEX: Phone Down Message:EOF-->									
-					        <!-- BEGIN LivePerson Button Code -->
 							<li class="chat">							
-								<!-- BEGIN LivePerson Button Code -->
-								<div id="lpButDivID-1313005438271"></div>
-								<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/47899488/?cmd=mTagRepstate&amp;site=47899488&amp;buttonID=13&amp;divID=lpButDivID-1313005438271&amp;bt=1&amp;c=1"></script>
-								<style type="text/css"> 
-								.lpPoweredBy {display:none;}
-								.lpEmtStarRating {display:none;} 
-								</style> 
+								<div>
+									<table border="0" cellspacing="2" cellpadding="2">
+										<tbody><tr><td align="center"><a id="_lpChatBtn" href="javascript:void(0)" title="Click here to chat">&nbsp;</a></td></tr>
+									</tbody></table>
+									<script>
+										$('_lpChatBtn').onclick = function() {
+											window.open('https://server.iad.liveperson.net/hc/47899488/?cmd=file&file=visitorWantsToChat&site=47899488&byhref=1', 'LiveChat', 'width=475,height=400,location=no,menubar=no,status=no,toolbar=no,scrollbars=yes,resizable=yes');
+										};
+									</script>
+								</div>
 							</li>
-							<!-- END LivePerson Button code -->
 						</ul>
 					</div>
-					<!-- #header_service1 -->
-					<div class="clear">
-						<a href="http://www.pexsupply.com/" title="Pex Supply Homepage"><img src="http://s3.pexsupply.com/html/img/logo/logo_pex.gif" alt="PexSupply.com" width="350" height="78"></a>
-					</div>
-					
+					<div id="pexlogo" class="clear"><a href="http://www.pexsupply.com/" title="Pex Supply Homepage"><img src="http://s3.pexsupply.com/html/img/logo/logo_pex.gif" alt="PexSupply.com" width="350" height="78"></a></div>
+					<script type="text/javascript">
+					loadPexLogo();
+					</script>
 				</div>
 				<!-- /.col_a -->
 			
@@ -140,8 +163,9 @@
 			<div id="nav_main" class="clear">
 				<ul class="clear">
 					<li id="nav_pex" class="menu">
-						<a href="/pex">PEX Products</a>
-						<!-- .overlay -->
+						<a href="http://www.pexsupply.com/pex">PEX Products</a>
+						
+<!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 		<!-- .sections -->
@@ -150,15 +174,15 @@
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_PEX_plumbing"><a href="/PEX-Plumbing-515000">PEX Plumbing</a></h3>
+					<h3 class="hdr_PEX_plumbing"><a href="http://www.pexsupply.com/PEX-Plumbing-515000">PEX Plumbing</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="/PEX-Fittings-525000">PEX Fittings</a></li>
-							<li><a href="/PEX-Manifolds-518000">PEX Manifolds</a></li>
-							<li><a href="/Installation-Parts-521000">PEX Plumbing Install Parts</a></li>
-							<li><a href="/PEX-Plumbing-Packages-1729000">PEX Plumbing Packages</a></li>
-							<li><a href="/PEX-Tools-26000">PEX Tools</a></li>
-							<li><a href="/PEX-Tubing-516000">PEX Tubing</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Fittings-525000">PEX Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Manifolds-518000">PEX Manifolds</a></li>
+							<li><a href="http://www.pexsupply.com/Installation-Parts-521000">PEX Plumbing Install Parts</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Plumbing-Packages-1729000">PEX Plumbing Packages</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Tools-26000">PEX Tools</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Tubing-516000">PEX Tubing</a></li>
 						</ul>
 					</div>
 				</div>
@@ -170,19 +194,19 @@
 			<div class="sprite spritewhiteplain middle">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_radiant"><a href="/Radiant-Heat-297000">Radiant Heat</a></h3>
+					<h3 class="hdr_radiant"><a href="http://www.pexsupply.com/Radiant-Heat-297000">Radiant Heat</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="/PEX-Fittings-37000">PEX Fittings</a></li>
-							<li><a href="/PEX-Tools-26000">PEX Tools</a></li>
-							<li><a href="/PEX-Tubing-223000">PEX Tubing</a></li>
-							<li><a href="/Radiant-Heat-Controls-212000">Radiant Heat Controls</a></li>
-							<li><a href="/Radiant-Heat-Install-Parts-196000">Radiant Install Parts</a></li>
-							<li><a href="/Radiant-Heat-Manifolds-258000">Radiant Heat Manifolds</a></li>
-							<li><a href="/Radiant-Heat-Packages-12350000">Radiant Heat Packages</a></li>
-							<li><a href="/Radiant-Heat-Panels-206000">Radiant Heat Panels </a></li>
-							<li><a href="/Electric-Radiant-Heat-1139000">Electric Radiant Heat</a></li>
-							<li><a href="/Radiant-Heat-Insulation-456000">Radiant Heat Insulation</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Fittings-37000">PEX Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Tools-26000">PEX Tools</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Tubing-223000">PEX Tubing</a></li>
+							<li><a href="http://www.pexsupply.com/Radiant-Heat-Controls-212000">Radiant Heat Controls</a></li>
+							<li><a href="http://www.pexsupply.com/Radiant-Heat-Install-Parts-196000">Radiant Install Parts</a></li>
+							<li><a href="http://www.pexsupply.com/Radiant-Heat-Manifolds-258000">Radiant Heat Manifolds</a></li>
+							<li><a href="http://www.pexsupply.com/Radiant-Heat-Packages-12350000">Radiant Heat Packages</a></li>
+							<li><a href="http://www.pexsupply.com/Radiant-Heat-Panels-206000">Radiant Heat Panels </a></li>
+							<li><a href="http://www.pexsupply.com/Electric-Radiant-Heat-1139000">Electric Radiant Heat</a></li>
+							<li><a href="http://www.pexsupply.com/Radiant-Heat-Insulation-456000">Radiant Heat Insulation</a></li>
 						</ul>						
 					</div>
 				</div>
@@ -196,11 +220,11 @@
 				<div class="content">
 					<h3 class="hdr_brands"><a href="/pex/control/category/~category_id=15204#topbrands">Brands</a></h3>
 					<div class="listing">
-						<a href="/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
-						<a href="/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="36"></a>
-						<a href="/Viega"><img src="/html/img/logo/viega.jpg" alt="Viega Logo" width="121" height="44"></a>
-						<a href="/ThermaPEX"><img src="/html/img/logo/Thermapex.jpg" alt="ThermaPEX Logo" width="120" height="44"></a>
-						<a href="/Cash-Acme"><img src="/html/img/logo/logo_cash_acme.jpg" alt="Cach Acme Logo" width="121" height="32"></a>
+						<a href="http://www.pexsupply.com/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
+						<a href="http://www.pexsupply.com/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="36"></a>
+						<a href="http://www.pexsupply.com/Viega"><img src="/html/img/logo/viega.jpg" alt="Viega Logo" width="121" height="44"></a>
+						<a href="http://www.pexsupply.com/ThermaPEX"><img src="/html/img/logo/Thermapex.jpg" alt="ThermaPEX Logo" width="120" height="44"></a>
+						<a href="http://www.pexsupply.com/Cash-Acme"><img src="/html/img/logo/logo_cash_acme.jpg" alt="Cach Acme Logo" width="121" height="32"></a>
 					</div>
 				</div>
 				<div class="btm"><div><!-- --></div></div>
@@ -224,8 +248,9 @@
 <!-- /.overlay -->
 					</li>
 					<li id="nav_heating" class="menu">
-						<a href="/Heating-Supplies-193000">Heating Supplies</a>
-						<!-- .overlay -->
+						<a href="http://www.pexsupply.com/Heating-Supplies-193000">Heating Supplies</a>
+						
+<!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 
@@ -235,68 +260,68 @@
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_heating"><a href="/Heating-Supplies-193000">Heating Supply</a></h3>
+					<h3 class="hdr_heating"><a href="http://www.pexsupply.com/Heating-Supplies-193000">Heating Supply</a></h3>
 					<div class="listing clear">
 						<table class="nh">
 							<tbody><tr>
-								<td width="174"><a href="/Air-Eliminators-310000">Air Eliminators</a></td>
-								<td width="174"><a href="/Nipples">Nipples</a></td>							
+								<td width="174"><a href="http://www.pexsupply.com/Air-Eliminators-310000">Air Eliminators</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Nipples">Nipples</a></td>							
 							</tr>
 							<tr>
-								<td width="174"><a href="/Air-Valves-300000">Air Valves</a></td>
-								<td width="174"><a href="/Pipe-Insulation-12071000">Pipe Insulation</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Air-Valves-300000">Air Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Pipe-Insulation-12071000">Pipe Insulation</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Aquastats-Wells-350000">Aquastats &amp; Wells</a></td>
-								<td width="174"><a href="/Pressure-Valves-221000">Pressure Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Aquastats-Wells-350000">Aquastats &amp; Wells</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Pressure-Valves-221000">Pressure Valves</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Baseboard-Heaters-808000">Baseboard Heaters</a></td>
-								<td width="174"><a href="/Pumps-Flanges-288000">Pumps &amp; Flanges</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Baseboard-Heaters-808000">Baseboard Heaters</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Pumps-Flanges-288000">Pumps &amp; Flanges</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Boilers-449000">Boilers</a></td>
-								<td width="174"><a href="/Radiant-Heat-297000">Radiant Heat</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Boilers-449000">Boilers</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Radiant-Heat-297000">Radiant Heat</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Expansion-Tanks-353000">Expansions Tanks</a></td>
-								<td width="174"><a href="/Radiator-Valves-12712000">Radiator Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Expansion-Tanks-353000">Expansions Tanks</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Radiator-Valves-12712000">Radiator Valves</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Pipe-Fittings-Nipples-415000">Fittings</a></td>
-								<td width="174"><a href="/Relief-Valves-313000">Relief Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Pipe-Fittings-Nipples-415000">Fittings</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Relief-Valves-313000">Relief Valves</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Flow-Control-Valves-275000">Flow Controls Valves</a></td>
-								<td width="174"><a href="/Switching-Relays-443000">Switching Relays</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Flow-Control-Valves-275000">Flow Controls Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Switching-Relays-443000">Switching Relays</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Flow-Switches-1759000">Flow Switches</a></td>
-								<td width="174"><a href="/Tekmar-Controls-445000">Tekmar Controls</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Flow-Switches-1759000">Flow Switches</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Tekmar-Controls-445000">Tekmar Controls</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Gas-Valves-Controls-287000">Gas Valves</a></td>
-								<td width="174"><a href="/Temperature-Controllers-12741000">Temperature Controllers</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Gas-Valves-Controls-287000">Gas Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Temperature-Controllers-12741000">Temperature Controllers</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Temperature-Pressure-Gauges-864000">Gauges</a></td>
-								<td width="174"><a href="/Thermocouples-194000">Thermocouples</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Temperature-Pressure-Gauges-864000">Gauges</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Thermocouples-194000">Thermocouples</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Heating-Specialties-1393000">Heating Specialties</a></td>
-								<td width="174"><a href="/Thermostats-327000">Thermostats</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Heating-Specialties-1393000">Heating Specialties</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Thermostats-327000">Thermostats</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/KickSpace-Portable-Heaters-1806000">Kickspace Heaters</a></td>
-								<td width="174"><a href="/Transformers-282000">Transformers</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/KickSpace-Portable-Heaters-1806000">Kickspace Heaters</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Transformers-282000">Transformers</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Low-Water-Cutoffs-191000">Low Water Cutoffs</a></td>
-								<td width="174"><a href="/Water-Feeders-1761000">Water Feeders</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Low-Water-Cutoffs-191000">Low Water Cutoffs</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Water-Feeders-1761000">Water Feeders</a></td>
 							</tr>
 							<tr>
-								<td width="174"><a href="/Mixing-Valves-322000">Mixing Valves</a></td>
-								<td width="174"><a href="/Zone-Valves-Controls-324000">Zone Valves &amp; Controls</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Mixing-Valves-322000">Mixing Valves</a></td>
+								<td width="174"><a href="http://www.pexsupply.com/Zone-Valves-Controls-324000">Zone Valves &amp; Controls</a></td>
 							</tr>
 						</tbody></table>							
 					</div>
@@ -311,11 +336,11 @@
 				<div class="content">
 					<h3 class="hdr_brands"><a href="/pex/control/category/~category_id=297193#topbrands">Brands</a></h3>
 					<div class="listing">
-						<a href="/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
-						<a href="/Honeywell"><img src="/html/img/logo/Honeywell.jpg" alt="Honeywell Logo" width="121" height="36"></a>
-						<a href="/Taco"><img src="/html/img/logo/taco.jpg" alt="Taco Logo" width="121" height="44"></a>
-						<a href="/Weil-Mclain"><img src="/html/img/logo/Weil_McLain.jpg" alt="Weil Mclain Logo" width="120" height="44"></a>
-						<a href="/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="32"></a>						   
+						<a href="http://www.pexsupply.com/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
+						<a href="http://www.pexsupply.com/Honeywell"><img src="/html/img/logo/Honeywell.jpg" alt="Honeywell Logo" width="121" height="36"></a>
+						<a href="http://www.pexsupply.com/Taco"><img src="/html/img/logo/taco.jpg" alt="Taco Logo" width="121" height="44"></a>
+						<a href="http://www.pexsupply.com/Weil-Mclain"><img src="/html/img/logo/Weil_McLain.jpg" alt="Weil Mclain Logo" width="120" height="44"></a>
+						<a href="http://www.pexsupply.com/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="32"></a>						   
 					</div>
 				</div>
 				<div class="btm"><div><!-- --></div></div>
@@ -340,8 +365,9 @@
 <!-- /.overlay -->
 					</li>
 					<li id="nav_plumbing" class="menu">
-						<a href="/Plumbing-Supplies-1000">Plumbing Supplies</a>
-						<!-- .overlay -->
+						<a href="http://www.pexsupply.com/Plumbing-Supplies-1000">Plumbing Supplies</a>
+						
+<!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 
@@ -351,56 +377,56 @@
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_plumbing"><a href="/Plumbing-Supplies-1000">Plumbing Supplies</a></h3>
+					<h3 class="hdr_plumbing"><a href="http://www.pexsupply.com/Plumbing-Supplies-1000">Plumbing Supplies</a></h3>
 					<div class="listing clear">
   						<table class="nh">
 							<tbody><tr>
-								<td><a href="/Access-Doors-909000">Access Doors</a></td>
-								<td><a href="/PEX-Plumbing-515000">PEX Plumbing</a></td>							
+								<td><a href="http://www.pexsupply.com/Access-Doors-909000">Access Doors</a></td>
+								<td><a href="http://www.pexsupply.com/PEX-Plumbing-515000">PEX Plumbing</a></td>							
 							</tr>
 							<tr>
-								<td><a href="/Backflow-Preventers-1619000">Backflow Preventers</a></td>
-								<td><a href="/Plumbing-Specialties-12791000">Plumbing Specialties</a></td>
+								<td><a href="http://www.pexsupply.com/Backflow-Preventers-1619000">Backflow Preventers</a></td>
+								<td><a href="http://www.pexsupply.com/Plumbing-Specialties-12791000">Plumbing Specialties</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Chemicals-Compounds-358000">Chemicals &amp; Compounds</a></td>
-								<td><a href="/Pumps-579000">Pumps</a></td>
+								<td><a href="http://www.pexsupply.com/Chemicals-Compounds-358000">Chemicals &amp; Compounds</a></td>
+								<td><a href="http://www.pexsupply.com/Pumps-579000">Pumps</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Expansion-Tanks-14860000">Expansion Tanks</a></td>
-								<td><a href="/Solder-430000">Solder</a></td>
+								<td><a href="http://www.pexsupply.com/Expansion-Tanks-14860000">Expansion Tanks</a></td>
+								<td><a href="http://www.pexsupply.com/Solder-430000">Solder</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Faucets-Fixtures-1594000">Faucets &amp; Sinks</a></td>
-								<td><a href="/Supply-Stops-Risers-636000">Stops &amp; Risers</a></td>
+								<td><a href="http://www.pexsupply.com/Faucets-Fixtures-1594000">Faucets &amp; Sinks</a></td>
+								<td><a href="http://www.pexsupply.com/Supply-Stops-Risers-636000">Stops &amp; Risers</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Pipe-Fittings-Nipples-415000">Fittings</a></td>
-								<td><a href="/Tools-648000">Tools</a></td>
+								<td><a href="http://www.pexsupply.com/Pipe-Fittings-Nipples-415000">Fittings</a></td>
+								<td><a href="http://www.pexsupply.com/Tools-648000">Tools</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Sloan-Flush-Valves-615000">Flush Valves</a></td>
-								<td><a href="/Toilet-Parts-14781000">Toilet Parts</a></td>
+								<td><a href="http://www.pexsupply.com/Sloan-Flush-Valves-615000">Flush Valves</a></td>
+								<td><a href="http://www.pexsupply.com/Toilet-Parts-14781000">Toilet Parts</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Grease-Traps-513000">Grease Traps</a></td>
-								<td><a href="/Tub-Shower-Products-14808000">Tub &amp; Shower Products</a></td>
+								<td><a href="http://www.pexsupply.com/Grease-Traps-513000">Grease Traps</a></td>
+								<td><a href="http://www.pexsupply.com/Tub-Shower-Products-14808000">Tub &amp; Shower Products</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Outlet-Boxes-14861000">Outlet Boxes</a></td>
-								<td><a href="/Tubular-Products-1394000">Tubular Goods &amp; P-Traps</a></td>
+								<td><a href="http://www.pexsupply.com/Outlet-Boxes-14861000">Outlet Boxes</a></td>
+								<td><a href="http://www.pexsupply.com/Tubular-Products-1394000">Tubular Goods &amp; P-Traps</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Nipples">Nipples</a></td>
-								<td><a href="/Valves-2000">Valves</a></td>
+								<td><a href="http://www.pexsupply.com/Nipples">Nipples</a></td>
+								<td><a href="http://www.pexsupply.com/Valves-2000">Valves</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Clamps-Pipe-Hangers-Straps-1385000">Pipe Hangers</a></td>
-								<td><a href="/Water-Filters-15431000">Water Filters</a></td>
+								<td><a href="http://www.pexsupply.com/Clamps-Pipe-Hangers-Straps-1385000">Pipe Hangers</a></td>
+								<td><a href="http://www.pexsupply.com/Water-Filters-15431000">Water Filters</a></td>
 							</tr>
 							<tr><!--PXP446: Adding new 2 cats in PLU mega dropdown (css & img): 10/03/2011: Shuchi-->
-								<td><a href="/Pipe-Insulation-12071000">Pipe Insulation</a></td>
-								<td><a href="/Water-Heaters-1813000">Water Heaters</a></td>
+								<td><a href="http://www.pexsupply.com/Pipe-Insulation-12071000">Pipe Insulation</a></td>
+								<td><a href="http://www.pexsupply.com/Water-Heaters-1813000">Water Heaters</a></td>
 							</tr>
 						</tbody></table>
 					</div>
@@ -415,11 +441,11 @@
 				<div class="content">
 					<h3 class="hdr_brands"><a href="/pex/control/category/~category_id=5151#topbrands">Brands</a></h3>
 					<div class="listing">
-						<a href="/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
-						<a href="/Watts"><img src="/html/img/logo/Watts.jpg" alt="Watts Regulator Logo" width="121" height="36"></a>
-						<a href="/Viega"><img src="/html/img/logo/viega.jpg" alt="Viega Logo" width="121" height="44"></a>				    
-					    <a href="/Takagi"><img src="/html/img/logo/takagi.jpg" alt="Takagi Logo" width="121" height="36"></a>
-					    <a href="/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="36"></a>				   
+						<a href="http://www.pexsupply.com/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
+						<a href="http://www.pexsupply.com/Watts"><img src="/html/img/logo/Watts.jpg" alt="Watts Regulator Logo" width="121" height="36"></a>
+						<a href="http://www.pexsupply.com/Viega"><img src="/html/img/logo/viega.jpg" alt="Viega Logo" width="121" height="44"></a>				    
+					    <a href="http://www.pexsupply.com/Takagi"><img src="/html/img/logo/takagi.jpg" alt="Takagi Logo" width="121" height="36"></a>
+					    <a href="http://www.pexsupply.com/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="36"></a>				   
 					</div>
 				</div>
 				<div class="btm"><div><!-- --></div></div>
@@ -446,7 +472,8 @@
 					</li>
                     <li id="nav_air" class="menu">
 						<a href="/HVAC-Air-Quality-Products-695000">HVAC - Air Conditioning</a>
-						<!-- .overlay -->
+						
+<!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 
@@ -456,44 +483,44 @@
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_airsys"><a href="/HVAC-Air-Quality-Products-695000">Air Systems</a></h3>
+					<h3 class="hdr_airsys"><a href="http://www.pexsupply.com/HVAC-Air-Quality-Products-695000">Air Systems</a></h3>
 					<div class="listing clear">
 						<table class="nh">
 							<tbody><tr>
-								<td><a href="/Air-Cleaners-1381000">Air Cleaners</a></td>
-								<td><a href="/HVAC-Parts-Controls-10520000">HVAC Controls</a></td>							
+								<td><a href="http://www.pexsupply.com/Air-Cleaners-1381000">Air Cleaners</a></td>
+								<td><a href="http://www.pexsupply.com/HVAC-Parts-Controls-10520000">HVAC Controls</a></td>							
 							</tr>
 							<tr>
-								<td><a href="/Air-Conditioners-1812000">Air Conditioners</a></td>
-								<td><a href="/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></td>
+								<td><a href="http://www.pexsupply.com/Air-Conditioners-1812000">Air Conditioners</a></td>
+								<td><a href="http://www.pexsupply.com/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Air-Conditioning-Accessories-11751000">AC Install Parts</a></td>
-								<td><a href="/Mini-Split-Air-Conditioners-1811000">Mini-Split Air Conditioners</a></td>
+								<td><a href="http://www.pexsupply.com/Air-Conditioning-Accessories-11751000">AC Install Parts</a></td>
+								<td><a href="http://www.pexsupply.com/Mini-Split-Air-Conditioners-1811000">Mini-Split Air Conditioners</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Condensate-Removal-Pumps-1878000">Condensate Pumps</a></td>
-								<td><a href="/Air-Conditioner-Replacement-Parts-11863000">Replacement Parts</a></td>
+								<td><a href="http://www.pexsupply.com/Condensate-Removal-Pumps-1878000">Condensate Pumps</a></td>
+								<td><a href="http://www.pexsupply.com/Air-Conditioner-Replacement-Parts-11863000">Replacement Parts</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Dampers-1608000">Dampers</a></td>
-								<td><a href="/Registers-Grilles-13463000">Registers &amp; Grilles</a></td>
+								<td><a href="http://www.pexsupply.com/Dampers-1608000">Dampers</a></td>
+								<td><a href="http://www.pexsupply.com/Registers-Grilles-13463000">Registers &amp; Grilles</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Dehumidifiers-14881000">Dehumidifiers</a></td>
-								<td><a href="/Replacement-Filters-12765000">Replacement Filters</a></td>
+								<td><a href="http://www.pexsupply.com/Dehumidifiers-14881000">Dehumidifiers</a></td>
+								<td><a href="http://www.pexsupply.com/Replacement-Filters-12765000">Replacement Filters</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Filter-Driers-12761000">Filter Driers</a></td>
-								<td><a href="/Thermostats-327000">Thermostats</a></td>
+								<td><a href="http://www.pexsupply.com/Filter-Driers-12761000">Filter Driers</a></td>
+								<td><a href="http://www.pexsupply.com/Thermostats-327000">Thermostats</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Flex-Duct-13471000">Flex Duct</a></td>
-								<td><a href="/HVAC-Tools-10274000">Tools</a></td>
+								<td><a href="http://www.pexsupply.com/Flex-Duct-13471000">Flex Duct</a></td>
+								<td><a href="http://www.pexsupply.com/HVAC-Tools-10274000">Tools</a></td>
 							</tr>
 							<tr>
-								<td><a href="/Humidifiers-1380000">Humidifiers</a></td>
-								<td><a href="/Ventilation-Fans-14530000">Ventilation Fans</a></td>
+								<td><a href="http://www.pexsupply.com/Humidifiers-1380000">Humidifiers</a></td>
+								<td><a href="http://www.pexsupply.com/Ventilation-Fans-14530000">Ventilation Fans</a></td>
 							</tr>
 						</tbody></table>
 					</div>
@@ -508,11 +535,11 @@
 				<div class="content">
 					<h3 class="hdr_brands"><a href="/pex/control/category/~category_id=695#topbrands">Brands</a></h3>
 					<div class="listing">
-						<a href="/Sanyo"><img src="/html/img/logo/sanyo.jpg" width="121" height="36" alt="Sanyo Logo"></a>				    
-						<a href="/LG"><img src="/html/img/logo/LG.jpg" width="121" height="36" alt="LG Logo"></a>						
-					   	<a href="/Honeywell"><img src="/html/img/logo/Honeywell.jpg" width="121" height="36" alt="Honeywell Logo"></a>					   	
-					    <a href="/Carrier"><img src="/html/img/logo/carrier.jpg" alt="Carrier Logo" width="121" height="36"></a>
-					    <a href="/Fieldpiece"><img src="/html/img/logo/fieldpiece.jpg" alt="Fieldpiece Logo" width="121" height="36"></a>						   
+						<a href="http://www.pexsupply.com/Sanyo"><img src="/html/img/logo/sanyo.jpg" width="121" height="36" alt="Sanyo Logo"></a>				    
+						<a href="http://www.pexsupply.com/LG"><img src="/html/img/logo/LG.jpg" width="121" height="36" alt="LG Logo"></a>						
+					   	<a href="http://www.pexsupply.com/Honeywell"><img src="/html/img/logo/Honeywell.jpg" width="121" height="36" alt="Honeywell Logo"></a>					   	
+					    <a href="http://www.pexsupply.com/Carrier"><img src="/html/img/logo/carrier.jpg" alt="Carrier Logo" width="121" height="36"></a>
+					    <a href="http://www.pexsupply.com/Fieldpiece"><img src="/html/img/logo/fieldpiece.jpg" alt="Fieldpiece Logo" width="121" height="36"></a>						   
 					</div>
 				</div>
 				<div class="btm"><div><!-- --></div></div>
@@ -526,8 +553,9 @@
 <!-- /.overlay -->
 					</li>	
 					<li id="nav_fitting" class="menu">
-						<a href="/Fittings-Valves-15150000">Fittings &amp; Valves</a>
-						<!-- .overlay -->
+						<a href="http://www.pexsupply.com/Fittings-Valves-15150000">Fittings &amp; Valves</a>
+						
+<!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 		<!-- .sections -->
@@ -536,25 +564,25 @@
 			<div class="sprite spritewhiteplain left">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_fitting"><a href="/Pipe-Fittings-Nipples-415000">Fittings</a></h3>
+					<h3 class="hdr_fitting"><a href="http://www.pexsupply.com/Pipe-Fittings-Nipples-415000">Fittings</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="/Black-Fittings-173000">Black Fittings</a></li>
-							<li><a href="/Black-Fittings-Imported-12033000">Black Fittings Imported</a></li>
-							<li><a href="/Black-Nipples-172000">Black Nipples</a></li>
-							<li><a href="/Brass-Fittings-164000">Brass Fittings</a></li>
-							<li><a href="/Brass-Nipples-163000">Brass Nipples</a></li>
-							<li><a href="/Compression-Fittings-12482000">Compression Fittings</a></li>
-							<li><a href="/Copper-DWV-Fittings-1268000">Copper DWV Fittings</a></li>
-							<li><a href="/Copper-Fittings-130000">Copper Fittings</a></li>
-							<li><a href="/Copper-Tubing-1568000">Copper Tubing</a></li>
-							<li><a href="/Flare-Fittings-12970000">Flare Fittings</a></li>
-							<li><a href="/Galvanized-Fittings-92000">Galvanized Fittings</a></li>
-							<li><a href="/Galvanized-Nipples-91000">Galvanzied Nipples</a></li>
-							<li><a href="/PEX-Fittings-525000">PEX Fittings</a></li>
-							<li><a href="/Propress-Fittings-892000">Propress Fittings</a></li>
-							<li><a href="/PVC-Fittings-470000">PVC Fittings</a></li>
-							<li><a href="/SharkBite-Fittings-595000">SharkBite Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Black-Fittings-173000">Black Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Black-Fittings-Imported-12033000">Black Fittings Imported</a></li>
+							<li><a href="http://www.pexsupply.com/Black-Nipples-172000">Black Nipples</a></li>
+							<li><a href="http://www.pexsupply.com/Brass-Fittings-164000">Brass Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Brass-Nipples-163000">Brass Nipples</a></li>
+							<li><a href="http://www.pexsupply.com/Compression-Fittings-12482000">Compression Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Copper-DWV-Fittings-1268000">Copper DWV Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Copper-Fittings-130000">Copper Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Copper-Tubing-1568000">Copper Tubing</a></li>
+							<li><a href="http://www.pexsupply.com/Flare-Fittings-12970000">Flare Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Galvanized-Fittings-92000">Galvanized Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Galvanized-Nipples-91000">Galvanized Nipples</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Fittings-525000">PEX Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/Propress-Fittings-892000">Propress Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/PVC-Fittings-470000">PVC Fittings</a></li>
+							<li><a href="http://www.pexsupply.com/SharkBite-Fittings-595000">SharkBite Fittings</a></li>
 						</ul>
 					</div>
 				</div>
@@ -566,22 +594,22 @@
 			<div class="sprite spritewhiteplain middle">
 				<div class="top"><div><!-- --></div></div>
 				<div class="content">
-					<h3 class="hdr_valve"><a href="/Valves-2000">Valves</a></h3>
+					<h3 class="hdr_valve"><a href="http://www.pexsupply.com/Valves-2000">Valves</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="/Ball-Valves-5000">Ball Valves</a></li>
-							<li><a href="/Boiler-Drains-500000">Boiler Drains</a></li>
-							<li><a href="/Check-Valves-Swing-Check-3000">Check Valves</a></li>
-							<li><a href="/Dielectric-Unions-Watts-3001A-1640000">Dielectric Unions</a></li>
-							<li><a href="/Gas-Ball-Valves-Gas-Cocks-833000">Gas Ball Valves</a></li>
-							<li><a href="/Gate-Valves-308000">Gate Valves</a></li>
-							<li><a href="/PVC-Ball-Valves-14440000">PVC Ball Valves</a></li>
-							<li><a href="/Sillcocks-Hose-Bibbs-14661000">Sillcocks &amp; Hose Bibbs</a></li>
-							<li><a href="/Solenoid-Valves-10634000">Solenoid Valves</a></li>
-							<li><a href="/Spring-Loaded-Check-Valves-790000">Spring Loaded Check Valves</a></li>
-							<li><a href="/Washing-Machine-Shuttoff-Valves-610000">Washing Machine Shutoff Valves</a></li>
-							<li><a href="/Taco-WAGS7200-1-Water-Gas-Safety-Shut-Off-Valve-3777000-p">Water &amp; Gas Safety Valve</a></li>
-							<li><a href="/Wye-Strainers-Cast-Iron-Bronze-705000">Wye Strainers</a></li>
+							<li><a href="http://www.pexsupply.com/Ball-Valves-5000">Ball Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Boiler-Drains-500000">Boiler Drains</a></li>
+							<li><a href="http://www.pexsupply.com/Check-Valves-Swing-Check-3000">Check Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Dielectric-Unions-Watts-3001A-1640000">Dielectric Unions</a></li>
+							<li><a href="http://www.pexsupply.com/Gas-Ball-Valves-Gas-Cocks-833000">Gas Ball Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Gate-Valves-308000">Gate Valves</a></li>
+							<li><a href="http://www.pexsupply.com/PVC-Ball-Valves-14440000">PVC Ball Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Sillcocks-Hose-Bibbs-14661000">Sillcocks &amp; Hose Bibbs</a></li>
+							<li><a href="http://www.pexsupply.com/Solenoid-Valves-10634000">Solenoid Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Spring-Loaded-Check-Valves-790000">Spring Loaded Check Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Washing-Machine-Shutoff-Valves-610000">Washing Machine Shutoff Valves</a></li>
+							<li><a href="http://www.pexsupply.com/Taco-WAGS7200-1-Water-Gas-Safety-Shut-Off-Valve-3777000-p">Water &amp; Gas Safety Valve</a></li>
+							<li><a href="http://www.pexsupply.com/Wye-Strainers-Cast-Iron-Bronze-705000">Wye Strainers</a></li>
 						</ul>						
 					</div>
 				</div>
@@ -595,11 +623,11 @@
 				<div class="content">
 					<h3 class="hdr_brands"><a href="/pex/control/category/~category_id=15150#topbrands">Brands</a></h3>
 					<div class="listing">
-						<a href="/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="36"></a>
-						<a href="/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
-						<a href="/Cash-Acme"><img src="/html/img/logo/logo_cash_acme.jpg" alt="Cash-Acme Logo" width="120" height="43"></a>
-						<a href="/Cello"><img src="/html/img/logo/logo_cello.jpg" alt="Cello Logo" width="123" height="41"></a>
-						<a href="/Ward"><img src="/html/img/logo/logo_ward.jpg" alt="Ward Logo" width="123" height="41"></a>
+						<a href="http://www.pexsupply.com/Rifeng"><img src="/html/img/logo/rifeng.jpg" alt="Rifeng Logo" width="121" height="36"></a>
+						<a href="http://www.pexsupply.com/Uponor"><img src="/html/img/logo/uponor.jpg" alt="Uponor Logo" width="121" height="37"></a>
+						<a href="http://www.pexsupply.com/Cash-Acme"><img src="/html/img/logo/logo_cash_acme.jpg" alt="Cash-Acme Logo" width="120" height="43"></a>
+						<a href="http://www.pexsupply.com/Cello"><img src="/html/img/logo/logo_cello.jpg" alt="Cello Logo" width="123" height="41"></a>
+						<a href="http://www.pexsupply.com/Ward"><img src="/html/img/logo/logo_ward.jpg" alt="Ward Logo" width="123" height="41"></a>
 					</div>
 				</div>
 				<div class="btm"><div><!-- --></div></div>
@@ -614,7 +642,8 @@
 					</li>
 					<li id="nav_brand" class="menu">
 						<a href="/pex/control/allBrands">Shop By Brand</a>
-						<!-- .overlay -->
+						
+<!-- .overlay -->
 <div class="overlay" style="display: none;">
 	<div class="overlay_content">
 		<!-- .sections -->
@@ -626,21 +655,22 @@
 					<h3 class="hdr_brands"><a href="/pex/control/allBrands">Shop By Brand</a></h3>
 					<div class="listing clear">
 						<ul>
-							<li><a href="/AO-Smith">AO Smith</a></li>
-							<li><a href="/Bradford-White">Bradford White</a></li>
-							<li><a href="/Elkay">Elkay</a></li>
-							<li><a href="/Honeywell">Honeywell</a></li>
-							<li><a href="/Kohler">Kohler</a></li>
-							<li><a href="/Rifeng">Rifeng</a></li>
-							<li><a href="/Sanyo">Sanyo</a></li>
-							<li><a href="/Taco">Taco</a></li>
-							<li><a href="/Takagi">Takagi</a></li>
-							<li><a href="/Triangle-Tube">Triangle Tube</a></li>
-							<li><a href="/Uponor">Uponor</a></li>
-							<li><a href="/Viega">Viega</a></li>
-							<li><a href="/Watts">Watts</a></li>
-							<li><a href="/Weil-Mclain">Weil Mclain</a></li>
-							<li><a href="/White-Rodgers">White Rodgers</a></li>
+							<li><a href="http://www.pexsupply.com/AO-Smith">AO Smith</a></li>
+							<li><a href="http://www.pexsupply.com/Bell-and-Gossett">Bell &amp; Gossett</a></li>
+							<li><a href="http://www.pexsupply.com/Bradford-White">Bradford White</a></li>
+							<li><a href="http://www.pexsupply.com/Fantech">Fantech</a></li>
+							<li><a href="http://www.pexsupply.com/Grundfos">Grundfos</a></li>
+							<li><a href="http://www.pexsupply.com/Honeywell">Honeywell</a></li>
+							<li><a href="http://www.pexsupply.com/Rifeng">Rifeng</a></li>
+							<li><a href="http://www.pexsupply.com/Sanyo">Sanyo</a></li>
+							<li><a href="http://www.pexsupply.com/Taco">Taco</a></li>
+							<li><a href="http://www.pexsupply.com/Takagi">Takagi</a></li>
+							<li><a href="http://www.pexsupply.com/Triangle-Tube">Triangle Tube</a></li>
+							<li><a href="http://www.pexsupply.com/Uponor">Uponor</a></li>
+							<li><a href="http://www.pexsupply.com/Viega">Viega</a></li>
+							<li><a href="http://www.pexsupply.com/Watts">Watts</a></li>
+							<li><a href="http://www.pexsupply.com/Weil-Mclain">Weil Mclain</a></li>
+							<li><a href="http://www.pexsupply.com/White-Rodgers">White Rodgers</a></li>
 							<li><a href="/pex/control/allBrands">View All Brands</a></li>
 						</ul>
 					</div>
@@ -687,6 +717,36 @@
 			<div class="btm"><div><!-- --></div></div>
 		</div>
 		<!-- /.spritecontextual.password -->
+
+		<!-- START: T&T Sign-In Test: experience D -->
+		<div class="spritecontextual" id="tnt_login_exp_d_pop" style="display: none;">
+			<div class="content">
+				<div class="top"><!-- --></div>
+				<a href="#" class="close">close</a>
+				<div class="overlay_content">
+					<form method="post" id="tnt_login_exp_d_form" action="https://www.pexsupply.com/pex/control/loginForCheckout">
+						<fieldset class="common">
+							<h3 class="hdr_common">Returning Customers – Sign In</h3>
+							<p>Sign in to access your account and complete your order.</p>
+							<legend class="hidden"><span class="hidden">Sign In Form</span></legend>
+							<label>Email Address</label>
+							<input type="text" class="text required prompt validate-email" name="USERNAME" value="">
+							<label>Password</label>
+							<input type="password" class="text required prompt validate-password" name="PASSWORD" value="">
+							<button class="btn_signin" type="submit">Sign In</button>
+							<a id="trigger_pw_d" href="#">Forgot Password?</a>
+						</fieldset>
+					</form>
+					<div class="guest_checkout">	
+						<h3 class="hdr_common">Checkout as a Guest</h3>
+						<p>You will have the option to create an account on the order confirmation page.</p>
+					</div>
+				</div>
+			</div>
+			<div class="btm"><div><!-- --></div></div>
+		</div>
+		<!-- END: T&T Sign-In Test: T&T experience D by ai 08/08/2011 -->
+
 				
 
 
@@ -718,7 +778,7 @@
 			<li><a href="/customerservice/product-availability">Product Availability</a></li>
 			<li><a href="/customerservice/shipping-policy">Shipping Policy</a></li>
 			<li><a href="/customerservice/delivery-estimate">Delivery Estimate</a></li>
-			<li><a href="https://www.pexsupply.com/customerservice/returns-exchanges">Returns &amp; Exchanges</a></li>
+			<li><a href="https://www.pexsupply.com/Returns">Returns &amp; Exchanges</a></li>
 		
 			<li><a href="/pex/control/reviewsContest">Reviews Contest</a></li>
 		
@@ -748,7 +808,7 @@
 				<!-- .block -->
 				<div class="block">
 					<h3 class="hdr_common">Customer Accounts</h3>
-					<p>You may create an account through PexSupply.com at any time by providing your e-mail address and creating a unique access password, which will allow some of your information to be safely stored for future orders. Creating an account allows you to save time at checkout, set your ordering preferences, and easily refer back to past orders. You are not required to create an account to visit or order from PexSupply.com. For your privacy and security, *we do not store credit card numbers in your account.</p>						
+					<p>You may create an account through PexSupply.com at any time by providing your e-mail address and creating a unique access password, which will allow some of your information to be safely stored for future orders. Creating an account allows you to save time at checkout, set your ordering preferences, easily refer back to past orders, adjust your personal information and change your e-mail subscription settings. For your privacy and security, *we do not store credit card numbers in your account. You are not required to create an account to visit or order from PexSupply.com. If you wish to unsubscribe from future communications you can click on the 'Unsubscribe' link within any e-newsletter.</p>						
 				</div>
 				<!-- /.block -->
 				
@@ -820,7 +880,7 @@
 						<ul>
 							<li><a href="https://www.pexsupply.com/contact">Contact Us</a></li>
 							<li><a href="/customerservice/shipping-policy">Shipping Policy</a></li>
-							<li><a href="https://www.pexsupply.com/customerservice/returns-exchanges">Returns &amp; Exchanges</a></li>
+							<li><a href="https://www.pexsupply.com/Returns">Returns &amp; Exchanges</a></li>
 							<li><a href="/customerservice/low-price-guarantee">Low Price Guarantee</a></li>
 							<li><a href="/customerservice/faqs">FAQs</a></li>
 						</ul>
@@ -832,7 +892,7 @@
 							<li><a href="/pex/control/testimonials">Testimonials</a></li>
 							<li><a href="/pex/control/pexGear">PexSupply Gear</a></li>
 							<li><a href="/pex/control/careers2">Careers</a></li>
-							<li><a href="/Coupons?cmpid=coup-ftr">PexSupply Coupons</a></li>
+							<li><a href="http://www.pexsupply.com/Coupons?cmpid=coup-ftr">PexSupply Coupons</a></li>
 							
 						</ul>
 					</div>
@@ -844,8 +904,8 @@
 						<ul>
 							<li><a href="/Access-Doors-909000">Access Doors</a></li>
 							<li><a href="/AO-Smith-Residential-Water-Heaters-10084000">AO Smith Water Heaters</a></li>
-							<li><a href="/Aqua-Pure-Water-Filters-11900000">Aqua-Pure Water Filters</a></li>
-							<li><a href="/Backflow-Preventers-1619000">Backflow Preventers</a></li>
+							<li><a href="http://www.pexsupply.com/Aqua-Pure-Water-Filters-11900000">Aqua-Pure Water Filters</a></li>
+							<li><a href="http://www.pexsupply.com/Backflow-Preventers-1619000">Backflow Preventers</a></li>
 							<li><a href="/Ball-Valves-5000">Ball Valves</a></li>
 							<li><a href="/Bradford-White-Residential-Water-Heaters-11200000">Bradford White Water Heaters</a></li>
 							<li><a href="/Copper-Fittings-130000">Copper Fittings</a></li>
@@ -863,8 +923,8 @@
 						<h3><a href="/Heating-Supplies-193000">Heating Supplies</a></h3>
 						<ul>
 							<li><a href="/Baseboard-Heaters-808000">Baseboard Heaters</a></li>
-							<li><a href="/Buderus">Buderus Boilers</a></li>
-							<li><a href="/Burnham">Burnham Boilers</a></li>
+							<li><a href="http://www.pexsupply.com/Buderus">Buderus Boilers</a></li>
+							<li><a href="http://www.pexsupply.com/Burnham">Burnham Boilers</a></li>
 							<li><a href="/Expansion-Tanks-353000">Extrol Tanks</a></li>
 							<li><a href="/Grundfos-Pumps-1838000">Grundfos Pumps</a></li>
 							<li><a href="/Honeywell-Thermostats-283000">Honeywell Thermostats</a></li>
@@ -872,7 +932,7 @@
 							<li><a href="/Radiant-Heat-297000">Radiant Heat</a></li>
 							<li><a href="/Taco-Pumps-1837000">Taco Pumps</a></li>
 							<li><a href="/Triangle-Tube-Prestige-Boilers-1629000">Triangle Tube Boilers</a></li>
-							<li><a href="/Weil-Mclain">Weil Mclain Boilers</a></li>
+							<li><a href="http://www.pexsupply.com/Weil-Mclain">Weil Mclain Boilers</a></li>
 							<li><a href="/White-Rodgers-Thermostats-644000">White Rodgers Thermostats</a></li>
 						</ul>
 					</div>
@@ -880,10 +940,10 @@
 					
 					<!-- .col -->
 					<div class="col last">
-						<h3><a href="/pex">PEX</a></h3>
+						<h3><a href="http://www.pexsupply.com/pex">PEX</a></h3>
 						<ul>
 							<li><a href="/PEX-Fittings-525000">PEX Fittings</a></li>
-							<li><a href="/PEX-Manifolds">PEX Manifolds</a></li>
+							<li><a href="http://www.pexsupply.com/PEX-Manifolds">PEX Manifolds</a></li>
 							<li><a href="/PEX-Plumbing-515000">PEX Plumbing</a></li>
 							<li><a href="/PEX-Tools-26000">PEX Tools</a></li>
 							<li><a href="/PEX-Tubing-223000">PEX Tubing for Heating</a></li>
@@ -896,7 +956,7 @@
 							<li><a href="/LG-Ductless-Mini-Split-Systems-1667000">LG Mini-Split Air Conditioners</a></li>
 							<li><a href="/Refrigerant-Line-Sets-Copper-Fittings-For-HVAC-1690000">Line Sets</a></li>
 							<li><a href="/Panasonic-Ventilation-Fans-13250000">Panasonic Ventilation Fans</a></li>
-							<li><a href="/Sanyo-Ductless-Mini-Split-Systems-1783000">Sanyo Mini-Split Air Conditioners</a></li>
+							<li><a href="http://www.pexsupply.com/Goodman-Air-Quality-Products-1686000">Goodman Air Conditioners</a></li>
 						</ul>
 					</div>
 					<!-- /.col -->
@@ -906,7 +966,7 @@
 					<p>At PexSupply.com, our goal is to bring you the highest quality plumbing, heating and HVAC supplies at competitive prices. Our product catalog includes PEX Plumbing Supplies, Radiant Heat Supplies, VisionPro Honeywell Thermostats, Taco pumps and mini-split air conditioners. If there are items you are looking for but can't find on our website, please contact our Customer Service Representatives &amp; we will do our best to find what you need.</p>
 					
 					<div class="utility clear">
-						<p class="copyright">© 2011 PexSupply.com</p>
+						<p class="copyright">© 2012 PexSupply.com</p>
 						<ul class="clear">
 							<li><a href="/terms">Terms of Use</a></li>
 							<li><a href="/privacy">Privacy Policy</a></li>
@@ -921,13 +981,11 @@
 		
 		<!-- #site_security -->
 		<div id="site_security" class="clear">
-			<a id="nextag" class="credentials" href="http://www.nextag.com/Pexsupply~1186363zzzreviewsz1zmainz17-htm" target="_blank" rel="external"><img src="/html/img/logo/logo_nextag.jpg" alt="Nextag Seller" width="126" height="49"></a>
+			<a id="nextag" class="credentials" href="http://www.nextag.com/Pexsupply~1186363zzzreviewsz1zmainz17-htm" target="_blank" rel="external"><img src="/html/img/logo/logo_nextagnew.jpg" alt="Nextag Seller" width="76" height="67"></a>
 			<a id="price_grabber" class="credentials" href="http://www.pricegrabber.com/rating_getreview.php/retid=7269" target="_blank" rel="external"><img src="/html/img/logo/logo_PriceGrabber.jpg" alt="PriceGrabber User Ratings for Pex Supply" width="67" height="57"></a>
-			
-			<a id="become" class="credentials" href="http://www.become.com/trustedmerchantprogram.html" target="_blank" rel="external"><img src="/html/img/logo/become_logo.jpg" alt="Pexsupply is Become.com Trusted Merchant" width="72" height="83"></a> 
-			
+        	<a id="resellerrating" href="https://www.resellerratings.com" class="credentials" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=25885','name','height=760,width=780,scrollbars=1');return false;"><img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=25885" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;"></a>
+			<span id="phcc" class="credentials"><img src="/html/img/logo/logo_PHCC.jpg" alt="PHCC" width="76" height="67"></span>
 			<a id="bbb" class="credentials" rel="nofollow" href="javascript:void(window.open('https://www.bbb.org/online/consumer/cks.aspx?id=1090121133511860', 'BBB', 'width=550,height=450, location=no, menubar=no, status=no,toolbar=no, scrollbars=yes, resizable=yes'))"><img src="http://s3.pexsupply.com/html/img/logo/logo_bbb.gif" alt="BBB Reliability Seal" width="85" height="32"></a>
-			
 			<div id="verisign" class="credentials">
 				<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.pexsupply.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
 			</div>
