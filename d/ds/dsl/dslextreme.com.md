@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035013id_/http%3A//www.dslextreme.com/termsconditions%3Fi%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180446id_/http%3A//www.dslextreme.com/termsconditions%3Fi%3D8) for the most accurate reproduction.*
 
 # DSL Extreme - Privacy Policy
 
