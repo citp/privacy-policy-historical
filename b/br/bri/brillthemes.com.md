@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brillthemes.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001008id_/http%3A//www.brillthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brillthemes.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524091828id_/http%3A//www.brillthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BrillThemes
+# » Privacy Policy » BrillThemes
 
 BrillThemes owns and operates this website. We are committed to the privacy and security of our visitors' information. The following is a statement of our privacy practices:
 
