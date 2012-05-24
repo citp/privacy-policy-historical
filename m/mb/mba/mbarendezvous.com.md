@@ -1,43 +1,7 @@
-> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524053419id_/http%3A//www.mbarendezvous.com/privacypolicy.php) for the most accurate reproduction.*
 
-# CMAT 2012 | Privacy Policy :: MBA colleges in India | MBA Admission in Distance learning
+# MBARendezvous.com Privacy Policy | MBARendezvous.com India's only Content Lead Portal
 
-|  |   
----  
-|   
----  
-|  |  | [AICTE launches the first national level Common Management Admission Test (CMAT)-2012 for facilitating institutions to select suitable students for admission in all management programs approved by AICTE for year 2012-13..](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=39) |   
-|  |   
-|  |  | [Diversity Initiatives@FORE School of Management, New Delhi ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=38) |   
-|  |   
-|  |  | [You got another chance to apply at FORE School Of Management, New Delhi as last date has been extended to 12th December 2011](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=37) |   
-|  |   
-|  |  | [ FORE School Of Management , New Delhi has offered 7 advantages to MBA Aspirants..](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=36) |   
-|  |   
-|  |  | [Last date of filling application form at IMT Ghaziabad, Nagpur and Hyderabad is now 14th December, 2011…](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=35) |   
-|  |   
-|  |  | [Pull up your socks for MAT which will accepted by 370 Business Schools this year. The candidates can take MAT as a Paper Based Test on 4th December, 2011 or Computer Based Test from 10th December, 2011 on wards..](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=30) |   
-|  |   
-|  |  | [Are You Running Late…? Registration for IFMR has begun. Last date for submission of application form for CAT Aspirants is Dec 10, 2011 and 31 Jan, 2012 for XAT/GMAT aspirants ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=26) |   
-|  |   
-|  |  | [Delhi University South Campus announces for Joint Admission Process for Masters of Business Economics (MBE), Masters of Finance and Control (MFC), Last date 12th December 2011](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=23) |   
-|  |   
-|  |  | [BIMTECH admission Procedure has begun- Last date for submission of application form is Dec 31, 2011](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=22) |   
-|  |   
-|  |  | [2,05,000 aspirants have appeared for CAT-2011](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=20) |   
-|  |   
-|  |  | [More than 50,000 students are appearing for NMAT-2012](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=19) |   
-|  |   
-|  |  | [ Good English learning at school level helps to clear TOEFL test effortlessly…](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=12) |   
-|  |   
-|  |  | [New format of Graduate Record Examination (GRE) has added General Test..](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=11) |   
-|  |   
-|  |  | [Result of CAT 2011 will be out on 11th January 2012](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/knowinner.php?id=2) |   
-|  |   
-  | 
-
-|   
----  
 | 
 
 Privacy Policy  
@@ -84,59 +48,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
   
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [info@mbarendezvous.com](mailto:info@mbarendezvous.com)  
-  
-   
-  [](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/index.php)  
-   
-  
-|  |   
----  
-[](http://www.fsm.ac.in/)  
-| Motivational Enzyme  
----  
-  
-  * |  |  |   
----  
-  
-**Mr. Analjit Singh**  
-  
-|  |   
-|   |  |   
-
-  
-  
-| Teachings of Management Gurus  
----  
-  
-  * |   |  |   
----  
-  
-**Thomas J. Peters**  
-  
-  |  |    
-  |   |   |    
-
-  
-  
-[](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/advertise.php)  
-  
-|   
----  
-  
-|   
----  
-|  |  | [ Welingkar hosts Indo US Summit for Cooperation in Higher Education. ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=54) |   
-|  |   
-|  |  | [ Dr.J.D.Singh,Director General of Jaipuria Institute of Management , Lucknow,Noida,Jaipur & Indore has been awarded the prestigious 'Best Teacher Award in Marketing Management… ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=53) |   
-|  |   
-|  |  | [ LIVE PLACEMENT UPDATE @ FORE School Of Management, New Delhi ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=52) |   
-|  |   
-|  |  | [ SNAP is being held on 18th December, 2011 so register yourself before 23rd November ,2011 for 17 Institutes Symbiosis Institute of Business Management (SIBM) Pune, Symbiosis Institute of Computer Studies & Research (SICSR), Symbiosis Institute of Media & Communication (SIMC) Pune, Symbiosis Institute of International Business (SIIB), Symbiosis Centre for Management & Human Resource Development (SCMHRD), Symbiosis Institute of Management Studies (SIMS), Symbiosis Institute of Telecom Management (SITM), Symbiosis Centre for Information Technology (SCIT), Symbiosis Institute of Geo-informatics (SIG), Symbiosis Institute of Operations Management (SIOM) Nashik, Symbiosis Institute of Health Sciences (SIHS), Symbiosis Institute of Business Management (SIBM) Bengaluru, Symbiosis Institute of Media & Communication (SIMC) Bengaluru, Symbiosis School of Banking Management (SSBM), Symbiosis School of Economics (SSE), Symbiosis Institute of Technology (SIT), Symbiosis School of Biomedical Sciences ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=48) |   
-|  |   
-|  |  | [ Xavier Aptitude Test (XAT) 2012 being conducted on Sunday 8th January, 2012 for XLRI Jamshedpur,LIBA Chennai, Xavier Institute Management Bhubaneshwar, Mar Athanasios College for Advanced Studies Triuvalla, Xavier Institute of Social Service Ranchi,Xavier Institute of Management Jabalpur, XIMR Mumbai,Xavier Institute of Management and Entrepreneurship Bengaluru, Loyla Academy Secunderabad,Mount Carmel Institute of Management, Bengaluru,St. Joseph’s Institute of Management Trichy,St.Joseph’s College of Business Administration Bengaluru,Andhra Loyla Institute of Management Vijayawada,St. Aloysius Institute of Management & Information Technology (AIMIT)Mangalore,St.Berchmans College Kerala,St.Francis Institute of Management & Research Mumbai ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=47) |   
-|  |   
-|  |  | [ ( IMT ) Institute of Management Technology Ghaziabad, Nagpur and Hyderabad announces admission for the following full-time, PGDM programmes in management, commencing from June 2012 with Last date for filling up the application form is 14th December, 2011 ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=46) |   
-|  |   
-|  |  | [ ( IMT ) Institute of Management Technology , Dubai announces admission for 2-year full-time, MBA programme. The sessions are starting in Jan 2012 & Sep 2012 ](https://web.archive.org/web/20111207133259id_/http%3A//www.mbarendezvous.com/buzzinner.php?id=44) |   
-|  | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [info@mbarendezvous.com](mailto:info@mbarendezvous.com)
