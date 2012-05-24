@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hellolocal.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123023423id_/http%3A//www.hellolocal.com/Privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hellolocal.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524220254id_/http%3A//www.hellolocal.com/Privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 
@@ -19,10 +19,23 @@
 		<title>HelloLocal.com Privacy Policy</title>
 
 	
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-	
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script src="/scripts/jquery.cookies.2.2.0.min.js" type="text/javascript"></script>
+
 	
 	<script language="JavaScript" type="text/javascript">
+			
+			$(document).ready(function(){
+				if(document.referrer.indexOf('http://www.hellolocal.com') == -1 && document.referrer != ''){
+					var newOptions = {
+				    	expiresAt: new Date(2012, 24, 05)
+					};
+					$.cookies.set('SEM_SOURCE',document.referrer.toString(), newOptions);
+					$.cookies.set('LANDING_PAGE',self.location.toString(), newOptions);
+				}
+			});
+	
 			function beenClicked(marker) {
 				var theImage = document.getElementById('converter');
 				theImage.src = marker;
@@ -38,14 +51,13 @@
 			function tis() {
 				pageTracker._trackPageview('/track/infospace/');
 				var theImage = document.getElementById('converter');
-				theImage.src = 'http://www.googleadservices.com/pagead/conversion/1071721528/?label=2omWCKGgPxC42IT_Aw&script=0';
-				//theImage.src = 'http://www.googleadservices.com/pagead/conversion/1071721528/?label=xgNVCO2ZrgIQuNiE_wM&amp;guid=ON&amp;script=0';
 			}
-			function trackit() {
+			function trackit(keyword,title,sitehost,adrank,bsource,currentObj) {
 				pageTracker._trackPageview('/track/yahoo');
 				var theImage = document.getElementById('converter');
 				theImage.src = 'http://www.googleadservices.com/pagead/conversion/1071721528/?label=2omWCKGgPxC42IT_Aw&script=0';
-
+				
+				$.post("/cap/track.cfm", { keyword: keyword, adtitle: title, adhost: sitehost, rank: adrank, source: bsource, referrer: document.referrer, adurl: currentObj.href } );
 				
 			}
 			
@@ -56,7 +68,7 @@
 			function trackquigo() {
 				pageTracker._trackPageview('/track/quigo/');
 				var theImage = document.getElementById('converter');
-				theImage.src = "https://mv.bidsystem.com/ppc/sendtracker.aspx?c=208596&conversion=1&w=p3p&cb=0EB6DA24-9525-7FB6-A2D374052AD7E29F&u=c22f0e8e-f312-43e6-994c-526c659b5b6d";
+				theImage.src = "https://mv.bidsystem.com/ppc/sendtracker.aspx?c=208596&conversion=1&w=p3p&cb=08BC3916-BEC9-21B0-7AA29C1DD6B9831D&u=c22f0e8e-f312-43e6-994c-526c659b5b6d";
 			}
 			
 			function trackrl() {
@@ -199,6 +211,28 @@
 			var img = new Image();
 			img.src = clickUrl; 
 		}
+		
+		
+		
+	$(document).ready(function(){
+		$('#noads').click(function(){
+		_gaq.push(['_trackPageview', '/noads/']);
+		  var newOptions = {
+			    expiresAt: new Date(2012, 24, 05)
+			  };
+			$.cookies.set('NOADS','1', newOptions);
+			$(this).delay(1000, function(){
+				window.location = "http://www.hellolocal.com/privacy.cfm?";
+			});
+			return false;
+		});
+		$('#showads').click(function(){
+			$.cookies.del('NOADS');
+			$(this).delay(1000, function(){
+				window.location = "http://www.hellolocal.com/privacy.cfm?";
+			});
+		});
+	});
 
 
 	</script>
@@ -226,10 +260,11 @@
 	<style type="text/css">
 		
 	</style>
+	<link href="http://www.hellometro.com/lobby/assets/stylesheets/buttons.css" type="text/css" rel="stylesheet" media="screen">
+	
 	<script src="/scripts/standard_ui.js" type="text/javascript" language="javascript"></script>	
 	<link rel="SHORTCUT ICON" href="/favicon.ico">	
 	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAxlNjcILiMUNra09cJ_A5shSB3Z3Y8CxkMQNl8knGtyMnzizUmRR-gL_919Mv8dhFgT-AoANVjME_Mw" type="text/javascript"></script> 
-	
 </head>
 <body style="background-color: #727BAC; margin-top: 0px; padding-top: 0px;" onload="" onunload="">
 
@@ -240,62 +275,45 @@
 <div id="mainBox">
 
 <table cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-left: auto; margin-right: auto; postion: relative;">
-
 	<tbody><tr>
-		<td valign="top" width="100%" colspan="3">
-			<!-- Begin Header -->
-			<table cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td id="tlHead">
-						<div id="headFlashBlock" style="width: 350px; overflow:hidden; height: 85px; background-image: url(/images/hellolocal_head_logo.png); background-position: left 20px; background-repeat: no-repeat;"></div>
-					</td>
-					<td id="trHead" style="width: 598px; text-align: right; padding-right: 10px;" class="nomobile">
-						<table style="float:right">
-							<tbody><tr>
-								<td>
-									
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				
+		<td colspan="3" style="background-color: white;">
+		<div id="headFlashBlock" style="width: 215px; overflow:hidden; height: 85px; background-image: url(/images/hellolocal_head_logo.png); background-position: left 10px; background-repeat: no-repeat; float: left;"></div>
+		
+		</td>
+	</tr>
 				<tr class="nomobile">
-					<td colspan="2" style="background-color: white; padding-left: 9px; border-right: solid 1px green;">
+					<td colspan="3" style="background-color: white; padding-left: 9px; border-right: solid 1px green;">
+						
 						
 						<ul id="nav">
-						
+							
 							 <li class="mainNav"><a class="mainNav" href="http://www.hellolocal.com/index.cfm">Home</a>
 							 </li>
 							 
-										<li class="mainNav"><a class="mainNav" href="http://www.hellolocal.com/guide/WA/Seattle/98101/WhitePages">White Pages</a>
-											<ul>
-												<li><a href="http://www.hellolocal.com/guide/WA/Seattle/98101/WhitePages">Search&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-												<li><a href="http://www.hellolocal.com/WP/lastNames.cfm">Browse By Last Name&nbsp;&nbsp;</a></li>
-												<li><a href="http://www.hellolocal.com/WP/phoneSearch.cfm">Reverse Phone Lookup&nbsp;&nbsp;</a></li>
-											</ul>
-										 </li>
-									
-                            
-                            <li class="mainNav"><a class="mainNav" href="/zipcodes.cfm">ZIP Codes</a></li>
-                            <li class="mainNav"><a class="mainNav" href="/neighborhoods.cfm">Neighborhoods</a></li>
-							<li class="mainNav"><a class="mainNav" href="/local_events.cfm">Events</a></li>
-
-							<li class="mainNav"><a class="mainNav" href="/guide/WA/Seattle/Classifieds/index">Classifieds</a></li> 
+											<li class="mainNav"><a class="mainNav" href="http://www.hellolocal.com/guide/WA/Seattle/98101/WhitePages">White Pages</a>
+												<ul>
+													<li><a href="http://www.hellolocal.com/guide/WA/Seattle/98101/WhitePages">Search&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+													<li><a href="http://www.hellolocal.com/WP/lastNames.cfm">Browse By Last Name&nbsp;&nbsp;</a></li>
+													<li><a href="http://www.hellolocal.com/WP/phoneSearch.cfm">Reverse Phone Lookup&nbsp;&nbsp;</a></li>
+												</ul>
+											 </li>
+										
+	                            
+	                            <li class="mainNav"><a class="mainNav" href="/zipcodes.cfm">ZIP Codes</a></li>
+	                            <li class="mainNav"><a class="mainNav" href="/neighborhoods.cfm">Neighborhoods</a></li>
+								<li class="mainNav"><a class="mainNav" href="/local_events.cfm">Events</a></li>
+	
+								<li class="mainNav"><a class="mainNav" href="/guide/WA/Seattle/Classifieds/index">Classifieds</a></li> 
 						</ul>
 						
 					</td>
 				</tr>
-				
-			</tbody></table>
 
-			<!-- End Header -->
-		</td>
-	</tr>
 	<tr>
 		<td colspan="3" valign="top">
-		<div class="nomobile" style="background-color: white; border-left: solid 2px #313260; border-right: solid 2px #313260; position: relative; height: 15px; width: 946px; background-image: url(/styles/images/header/underNavShadow.jpg); background-repeat: repeat-x;"><br>
+		<div class="nomobile" style="background-color: white; border-left: solid 2px #313260; border-right: solid 2px #313260; position: relative; height: 15px; width: 963px; background-image: url(/styles/images/header/underNavShadow.jpg); background-repeat: repeat-x;"><br>
 		</div>
+		
 		<div id="contentCover"></div>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%" id="contentTable" summary="">
@@ -319,7 +337,7 @@ Everything on our sites will be suitable for the entire family. Sometimes we wil
 Cookies: HelloLocal.com and our city-guide sites may use cookies. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. For more information about cookies, please visit www.allaboutcookies.org/cookies/
 </p>
 <p>
-Third-Party Cookies: We use third-party advertising companies to serve ads when you visit HelloLocal.com and our city-guide sites. These companies may use information about your visits to HelloLocal.com and our city-guide sites (not including your name, address, or other personal information) to provide advertisements on HelloLocal.com and our city-guide sites, other websites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third-party cookie may be placed on your browser. We do not control nor do we have access to these cookies. If you would like more information about this practice and to learn about choices not to be included in information-gathering used by these companies, please click either of the following links. NAI OPT-OUT or DoubleClick OPT-OUT
+Third-Party Cookies: We use third-party advertising companies to serve ads when you visit HelloLocal.com and our city-guide sites. These companies may use information about your visits to HelloLocal.com and our city-guide sites (not including your name, address, or other personal information) to provide advertisements on HelloLocal.com and our city-guide sites, other websites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third-party cookie may be placed on your browser. We do not control nor do we have access to these cookies. If you would like more information about this practice and to learn about choices not to be included in information-gathering used by these companies, please click either of the following links. <a href="http://www.networkadvertising.org/managing/opt_out.asp">NAI OPT-OUT</a> or <a href="http://www.google.com/settings/ads/onweb/">DoubleClick OPT-OUT</a>
 </p>
 </div>
 
@@ -358,6 +376,7 @@ Third-Party Cookies: We use third-party advertising companies to serve ads when 
 		</form>
 
 	</div>
+
 </td></tr>
 
 </tbody></table>
@@ -406,6 +425,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-350746-14");
 pageTracker._initData();
 pageTracker._trackPageview();
+
 </script>
 
 <!-- Begin comScore Tag -->
@@ -423,8 +443,20 @@ pageTracker._trackPageview();
 </noscript>
 <!-- End comScore Tag -->
 	
-</div>
-
+	<script type="text/javascript">
+		var sw = $(window).width();
+		if(sw < 767){
+			$('iframe').remove();
+			$.getScript('/scripts/geo.js');
+		}
+		$('.getloc').click(function(){
+			$('.getloc').html('Finding Location ...');
+			$.getScript('/scripts/geo.js',function(){
+				$('.getloc').toggle('slide');
+			});
+			return false;
+		});
+	</script>
 	
 
- </body></html>
+ </div></body></html>
