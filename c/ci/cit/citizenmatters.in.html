@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citizenmatters.in privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101132630id_/http%3A//bangalore.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citizenmatters.in privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524235748id_/http%3A//bangalore.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -27,37 +27,73 @@
   <link rel="stylesheet" type="text/css" href="/stylesheets/article.css">
 
   <link rel="stylesheet" type="text/css" href="/stylesheets/portal.css">
+  <link rel="stylesheet" type="text/css" href="/stylesheets/lightwindow.css"> 
 
   <script src="/javascripts/prototype.js?1207944364" type="text/javascript"></script>
 <script src="/javascripts/effects.js?1207944364" type="text/javascript"></script>
 <script src="/javascripts/dragdrop.js?1207944364" type="text/javascript"></script>
 <script src="/javascripts/controls.js?1207944364" type="text/javascript"></script>
 <script src="/javascripts/application.js?1216836694" type="text/javascript"></script>
+  <script src="/javascripts/scriptaculous.js?1207944364" type="text/javascript"></script> 
+  <script src="/javascripts/lightwindow.js?1207944364" type="text/javascript"></script>
   <script src="/javascripts/scroller.js?1215804210" type="text/javascript"></script>
 
   <script src="/javascripts/calendar_date_select.js?1207944364" type="text/javascript"></script>
 <link href="/stylesheets/calendar_date_select.css?1207944364" media="screen" rel="Stylesheet" type="text/css">
           <title>Citizen Matters: Privacy Policy</title>
   
-<!-- PUT THIS TAG IN THE head SECTION -->
+  <script>
+	function yui_popup_init() {
+	// Instantiate a Panel from markup
+	//YAHOO.example.container.panel1 = new YAHOO.widget.Panel("panel1", { width:"400px", visible:false, constraintoviewport:true } );
+	//YAHOO.example.container.panel1.render();
+
+	// Instantiate a Panel from script
+	bookmarkspopup = new YAHOO.widget.Panel("bookmarkspopupwindow", {context:["bookmarklink","tl","bl"], constraintoviewport:true,
+																	 width:"180px", visible:false, draggable:true } );
+	bookmarkspopup.render();
+
+	YAHOO.util.Event.addListener("bookmarklink", "click",
+								function(e) {
+									YAHOO.util.Event.preventDefault(e);
+									bookmarkspopup.show();
+								}, bookmarkspopup, true);
+	}
+
+	YAHOO.util.Event.addListener(window, "load", yui_popup_init);
+</script>
+
+<script src="/javascripts/prototype.js?1207944364" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1207944364" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1207944364" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1207944364" type="text/javascript"></script>
+<script src="/javascripts/application.js?1216836694" type="text/javascript"></script>
+
+<link href="/rss" rel="alternate" title="RSS" type="application/rss+xml">
+
+
+
+<!-- Google Ad Manager -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
-  GS_googleAddAdSenseService("ca-pub-3062077995299223");
-  GS_googleEnableAllServices();
+	GS_googleAddAdSenseService("ca-pub-3062077995299223");
+	GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
-  GA_googleAddSlot("ca-pub-3062077995299223", "CM_NewsHome_Left_120x240");
-  GA_googleAddSlot("ca-pub-3062077995299223", "CM_NewsHome_Right_200x200");
-  GA_googleAddSlot("ca-pub-3062077995299223", "CM_BOTTOM_728X90");
-  GA_googleAddSlot("ca-pub-3062077995299223", "CM_Port_Top_468x60");
-  GA_googleAddSlot("ca-pub-3062077995299223", "CM_Second_right_200x200");
-  GA_googleAddSlot("ca-pub-3062077995299223", "CM_Article_Second_Col_120x600");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_Port_Top_468x60");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_NewsHome_Left_120x240");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_NewsHome_Right_200x200");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_BOTTOM_728X90");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_Portal_Centre_Left_200x80");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_Portal_Centre_Right_200x80");
+	GA_googleAddSlot("ca-pub-3062077995299223", "CM_Article_Second_Col_120x600");
 </script>
 <script type="text/javascript">
-  GA_googleFetchAds();
+	GA_googleFetchAds();
 </script>
-<!-- END OF TAG FOR head SECTION -->
+<!-- END OF Google Ad Manager -->
+
 
 </head>
 
@@ -74,7 +110,7 @@
 
     <div id="header-background-left">
       <div class="top-left-hello">
-        Tue, 01 Nov
+        Fri, 25 May
       </div>
       <div class="top-left-hello" style="padding-left:90px;">
       </div>
@@ -446,7 +482,7 @@ function searchRequestCompleted(request) {
 </style>
     <div id="footer">
 <div style="float:left;width=250px;text-align:left;padding-left:5px;">
-<span style="font-size:1.2em;">Oorvani Media Pvt Ltd © 2007-11</span> <br>All Rights Reserved<br>
+<span style="font-size:1.2em;">Oorvani Media Pvt Ltd © 2007-2012</span> <br>All Rights Reserved<br>
 </div>
 <div style="padding-right:20px;">
  <div class="blue-links" style="float:right;width:180px;text-align:right;">
