@@ -1,77 +1,77 @@
-> *The following text is extracted and transformed from the pastrykicks.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125061312id_/http%3A//www.lovepastry.com/document/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastrykicks.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524142558id_/http%3A//www.lovepastry.com/document/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Official Pastry Shoes by Vanessa and Angela Simmons. Check out new Pastry friends Jessica Jarrell and Cody Simpson!
 
   **LOVEPASTRY.COM PRIVACY POLICY**
 
-LOVEPASTRY.COM’s Privacy Policy sets forth how Run Athletics International, LLC and its affiliates **** (“RAIL”, “Company”, “We” and “Us”) collects, uses and protects personal information shared by the users (“You” or “User”) of the LOVEPASTRY.COM website and its associated services and domains (collectively, “LOVEPASTRY.COM" or “Website").  If you are under eighteen (18) years of age, “You” and “Your” includes your parents or legal guardian.  By using or accessing LOVEPASTRY.COM, you are accepting the terms of this Privacy Policy.
+LOVEPASTRY.COM’s Privacy Policy sets forth howRun Athletics International, LLC and its affiliates ****(“RAIL”, “Company”, “We” and “Us”) collects, uses and protects personal information shared by the users (“You” or “User”) of the LOVEPASTRY.COM website and its associated services and domains (collectively, “LOVEPASTRY.COM" or “Website").  If you are under eighteen (18) years of age, “You” and “Your” includes your parents or legal guardian.   By using or accessing LOVEPASTRY.COM, you are accepting the terms of this Privacy Policy. 
 
 This Privacy Policy was most recently updated on ­­­­­­­­­­­­­December 1, 2010.
 
-LOVEPASTRY.COM is committed to providing a social, safe and entertaining online experience for people of all ages. 
+LOVEPASTRY.COM is committed to providing a social, safe and entertaining online experience for people of all ages.
 
-1.     **Information Collection Generally**
+**1\. Information Collection Generally**
 
-Users may disclose certain personal information (“personally identifiable information,” or “PII”) while registering for or using the Website, including but not limited to the User’s name, age, birth date, gender, E-Mail address, address and/or telephone number.  We collect and store this information and may use the information as you interact with LOVEPASTRY.COM and as otherwise set forth in this Privacy Policy.  When Users update information, we keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.  
+Users may disclose certain personal information (“personally identifiable information,” or “PII”) while registering for or using the Website, including but not limited to the User’s name, age, birth date, gender, E-Mail address, address and/or telephone number.  We collect and store this information and may use the information as you interact with LOVEPASTRY.COM and as otherwise set forth in this Privacy Policy.  When Users update information, we keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.  
 
-We collect the browser type and IP address of all LOVEPASTRY.COM visitors.  We also store certain information from User’s browsers using cookies (small pieces of data stored on the User's computer) and use cookies to confirm that a User is signed in. Cookies can be blocked or removed by a User through the use of browser settings. 
+We collect the browser type and IP address of all LOVEPASTRY.COM visitors.  We also store certain information from User’s browsers using cookies (small pieces of data stored on the User's computer) and use cookies to confirm that a User is signed in. Cookies can be blocked or removed by a User through the use of browser settings.  
 
-Users post User Content (as defined in the LOVEPASTRY.COM Terms of Use) on LOVEPASTRY.COM at their own risk.  We cannot control the actions of other Users with whom you may choose to share information. 
+Users post User Content (as defined in the LOVEPASTRY.COM Terms of Use) on LOVEPASTRY.COM at their own risk.  We cannot control the actions of other Users with whom you may choose to share information. 
 
 Any improper collection or misuse of information provided on LOVEPASTRY.COM is a violation of the LOVEPASTRY.COM Terms of Service and should be reported to [orders@lovepastry.com](mailto:orders@lovepastry.com). 
 
-LOVEPASTRY.COM takes reasonable precautions to protect our Users' information, including locating account information on a secured server behind a firewall. Sensitive information (such as passwords), is encrypted using secure socket layer technology (SSL).  No security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that User Content you post on LOVEPASTRY.COM will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on LOVEPASTRY.COM. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.  Because email messages are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
+LOVEPASTRY.COM takes reasonable precautions to protect our Users' information, including locating account information on a secured server behind a firewall. Sensitive information (such as passwords), is encrypted using secure socket layer technology (SSL).  No security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that User Content you post on LOVEPASTRY.COM will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on LOVEPASTRY.COM. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.  Because email messages are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. 
 
-LOVEPASTRY.COM may collect credit card information in connection with the purchase of products.  Credit card information is sent to the appropriate financial institution for procecssing and is not shared with other third parties and is not stored by LOVEPASTRY.COM after the transaction is completed. 
+LOVEPASTRY.COM may collect credit card information in connection with the purchase of products.  Credit card information is sent to the appropriate financial institution for procecssing and is not shared with other third parties and is not stored by LOVEPASTRY.COM after the transaction is completed.  
 
-By using LOVEPASTRY.COM, you are consenting to have your personal data transferred and processed in the United States.
+By using LOVEPASTRY.COM, you are consenting to have your personal data transferred and processed in the United States. 
 
 If you have any questions about the security of LOVEPASTRY.COM, please contact us at [orders@lovepastry.com](mailto:orders@lovepastry.com). 
 
-**2. Use of Information By LOVEPASTRY.COM**
+** 2\. Use of Information By LOVEPASTRY.COM **
 
 LOVEPASTRY.COM may use your name and email address to send you notifications regarding LOVEPASTRY.COM and affiliated websites and brands, including but not limited to announcements, service-related notifications and responses to inquirers. 
 
-We may use personal information provided by our users, including but not limited to age, location, gender and website usage patterns, for the purpose of profiling the demographics of LOVEPASTRY.COM users.  Aggregate demographic information may be published or shared with third parties such as advertisers. 
+We may use personal information provided by our users, including but not limited to age, location, gender and website usage patterns, for the purpose of profiling the demographics of LOVEPASTRY.COM users.  Aggregate demographic information may be published or shared with third parties such as advertisers. 
 
-In addition to the purposes described in Section 1, we may actively collect and use email addresses and user names to track usage and to ensure users are following the site's Terms of Use.  In addition, we may use an email address and user name to ban a user temporarily or permanently if that user engages in inappropriate conduct on the site. We may also use email addresses and user names to enable parents to review PII that their children have submitted to the Website and to provide notification regarding the site, such as any future amendments to this Privacy Policy. We also may use information in the aggregate to analyze site usage, as well as to research and develop new products, programs, or services.
+In addition to the purposes described in Section 1, we may actively collect and use email addresses and user names to track usage and to ensure users are following the site's Terms of Use.  In addition, we may use an email address and user name to ban a user temporarily or permanently if that user engages in inappropriate conduct on the site. We may also use email addresses and user names to enable parents to review PII that their children have submitted to the Website and to provide notification regarding the site, such as any future amendments to this Privacy Policy. We also may use information in the aggregate to analyze site usage, as well as to research and develop new products, programs, or services.
 
-We may use the IP address and/or cookies of LOVEPASTRY.COM visitors in order to track usage of the Website, to allow items to remain in the User’s shopping cart, to determine a User’s time zone to allow the stories to be released at the designated time and to track the number of  times a user signs in to the Website.  Cookies can be blocked or removed by a User through the use of browser settings. 
+We may use the IP address and/or cookies of LOVEPASTRY.COM visitors in order to track usage of the Website, to allow items to remain in the User’s shopping cart, to determine a User’s time zone to allow the stories to be released at the designated time and to track the number of  times a user signs in to the Website.  Cookies can be blocked or removed by a User through the use of browser settings.  
 
-We may disclose information where we are required to do so by law, for example, in response to a court order or a subpoena, or where we disclose information to service providers or other companies who provide support for the operations of our website and who do not use or disclose the information for any other purpose.  To the extent permitted by applicable law, we also may disclose PII in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using our website, protect the security or integrity of our website, or enable us to take precautions against liability.
+We may disclose information where we are required to do so by law, for example, in response to a court order or a subpoena, or where we disclose information to service providers or other companies who provide support for the operations of our website and who do not use or disclose the information for any other purpose.  To the extent permitted by applicable law, we also may disclose PII in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using our website, protect the security or integrity of our website, or enable us to take precautions against liability.
 
 If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or business transfer, we may transfer PII to a third party as part of that transaction, to the extent permitted by applicable law.
 
-Finally, we may transfer PII and store it outside of the jurisdiction in which a group member of RAIL is located.  As set out above, RAIL is operating from the United States, which was recognized as a country providing an adequate level of protection by the Federal Trade Commission, so that the information we collect will be mainly processed and stored there.
+Finally, we may transfer PII and store it outside of the jurisdiction in which a group member of RAIL is located.  As set out above, RAIL is operating from the United States, which was recognized as a country providing an adequate level of protection by the Federal Trade Commission, so that the information we collect will be mainly processed and stored there.
 
-**3.             Collection of Information for Third-Party Sites and Advertisers**
+**3.            Collection of Information for Third-Party Sites and Advertisers**
 
-We may allow third-party advertisers to place advertisements on LOVEPASTRY.COM.  In the event that such advertisements are placed, it will be in the nature of banner advertising sourced from a third party.  We do not directly supply PII to such third party advertisers.  However, following an advertisement link through to another website may result in the disclosure of certain PII due to the functionality of such third party website. ****
+We may allow third-party advertisers to place advertisements on LOVEPASTRY.COM.  In the event that such advertisements are placed, it will be in the nature of banner advertising sourced from a third party.  We do not directly supply PII to such third party advertisers.  However, following an advertisement link through to another website may result in the disclosure of certain PII due to the functionality of such third party website. ** **
 
-**4.             Security**
+**4.            Security**
 
 The security of your personal information is important to us. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. When you enter sensitive information, such as your credit card number, or our membership subscription form, we encrypt that information using secure socket layer technology (SSL).
 
-**5. Other Websites**
+** 5\. Other Websites  **
 
-LOVEPASTRY.COM may contain links to other websites. We are not responsible for the privacy practices of other web sites. This Privacy Policy applies solely to information collected by LOVEPASTRY.COM and does not apply to information provided to any other website.
+LOVEPASTRY.COM may contain links to other websites. We are not responsible for the privacy practices of other web sites. This Privacy Policy applies solely to information collected by LOVEPASTRY.COM and does not apply to information provided to any other website. 
 
-**6.             Access to Information, and Objection to Information Collection and Retention**
+**6.            Access to Information, and Objection to Information Collection and Retention**
 
-LOVEPASTRY.COM users may modify their email and password at any time by signing into their account profile.  We keep the original and new email addresses. Notification from LOVEPASTRY.COM will be sent to the current address.  
+LOVEPASTRY.COM users may modify their email and password at any time by signing into their account profile.  We keep the original and new email addresses. Notification from LOVEPASTRY.COM will be sent to the current address.  
 
 Please contact us if you would like to access the PII that we have collected online from you or your child, correct factual errors in such information, request to have this information deleted, or request that we no longer collect or maintain such information.
 
 Please be sure to include your email address and a telephone number where we can reach you. To protect you and your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about you or your child.
 
-**7. Age Restrictions**
+** 7\. Age Restrictions  **
 
-LOVEPASTRY.COM is intended for adult and young adult users.  Users who are thirteen (13) years of age or older and below eighteen (18) years of age are not permitted to use or access the Website. 
+LOVEPASTRY.COM is intended for adult and young adult users.  Users who are thirteen (13) years of age or older and below eighteen (18) years of age are not permitted to use or access the Website.  
 
-**8. Terms of Use, Notices and Revisions**
+** 8\. Terms of Use, Notices and Revisions  **
 
 Your use of LOVEPASTRY.COM, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including limitation on damages and choice of law. 
 
-LOVEPASTRY.COM reserves the right to change its Privacy Policy and Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the LOVEPASTRY.COM website. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+LOVEPASTRY.COM reserves the right to change its Privacy Policy and Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the LOVEPASTRY.COM website. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
 
-If you have any questions about this privacy policy, please contact us [orders@lovepastry.com](mailto:orders@lovepastry.com).  You may also contact us by mail at Run Athletics International, LLC., _________________.   __
+If you have any questions about this privacy policy, please contact us [orders@lovepastry.com](mailto:orders@lovepastry.com).  You may also contact us by mail at Run Athletics International, LLC., _________________.    _ _
