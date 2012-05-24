@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034615id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034629id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
 # US NSF - Privacy Policy
 
@@ -10,7 +10,7 @@ Thank you for visiting the National Science Foundation web site. Please note tha
 
 ## Web Measurement and Customization Technology 
 
-If you are visiting the NSF website to browse through our site, read pages, or download information, we use single session cookies (Tier 1, see [OMB M-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)) to gather and store certain information about your visit automatically. This information does **not** identify you personally, and the cookie is deleted when you close your browser. We automatically collect and store **only** the following information about your visit:
+If you are visiting the NSF website to browse through our site, read pages, or download information, we use persistent cookies (Tier 2, see [OMB M-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)) to gather and store certain information about your visit automatically. This information does **not** identify you personally. We automatically collect and store **only** the following information about your visit:
 
   1. The **Internet domain** (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site; 
   2. The type of **browser** and **operating system** used to access our site; 
@@ -22,7 +22,7 @@ If you are visiting the NSF website to browse through our site, read pages, or d
 
 This information is used by our web content managers and developers to help us make our site more useful to visitors—to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record personal information about individuals and their visits. The information we collect is deleted after three years.
 
-You can opt-out of the single session cookies on our site by disabling cookies in your web browser. Instructions for [disabling cookies in popular desktop browsers](http://www.usa.gov/optout_instructions.shtml) are provided on USA.gov. Opting-out of the single session cookies on our site will not prevent you from accessing any of the information or services on our site. 
+You can opt-out of the persistent cookies on our site by disabling cookies in your web browser. Instructions for [disabling cookies in popular desktop browsers](http://www.usa.gov/optout_instructions.shtml) are provided on USA.gov. Opting-out of the persistent cookies on our site will not prevent you from accessing any of the information or services on our site. 
 
 ## Collected Information 
 
