@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150608id_/http%3A//www.iselect.com.au/popups/health_insurance_privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524142917id_/http%3A//iselect.com.au/popups/health_insurance_privacy_statement.jsp) for the most accurate reproduction.*
 
 # Health Insurance Privacy Statement - iSelect
 
@@ -36,7 +36,7 @@ In some circumstances iSelect is entitled to disclose your personal information 
 
 ## Correction and Access to your information
 
-We aim to ensure that the personal information collected, used or disclosed is accurate, complete and up-to-date. We will take reasonable steps to ensure this occurs. If you believe that your personal information is not accurate, complete or up to date, please contact us by telephone on 03-9276-8000, via email to privacy@iselect.com.au or address your request to the Privacy Officer, Level 4 973 Nepean Highway, Moorabbin Victoria 3189. 
+We aim to ensure that the personal information collected, used or disclosed is accurate, complete and up-to-date. We will take reasonable steps to ensure this occurs. If you believe that your personal information is not accurate, complete or up to date, please contact us by telephone on 03-9276-8000, via email to privacy@iselect.com.au or address your request to the Privacy Officer, 294 Bay Rd, Cheltenham VIC 3192. 
 
 You will not be charged for accessing your information, although we might have to charge the reasonable cost of processing your request, including photocopying, administration and postage. 
 
