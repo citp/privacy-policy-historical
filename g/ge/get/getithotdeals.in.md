@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the getithotdeals.in privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124070222id_/http%3A//getithotdeals.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getithotdeals.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195259id_/http%3A//www.getithotdeals.in/privacy) for the most accurate reproduction.*
 
-# HotDeals | Privacy Policies
+# Privacy Policy – getithotdeals.in
 
 ## Privacy
 
 This Privacy Policy discloses the privacy practices for the Hotdeals websites (http://www.hotdeals.in, http://hotdeals.getit.in/, http://hotdeals.freeads.in/). Getit Infoservices Pvt. Ltd. the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us. please read this privacy policy carefully by accessing or using our website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this privacy policy and our website terms of use. if you do not agree to these terms, exit this page and do not access or use the website. 
-
-  
-
 
 ### 1\. Changes to Privacy Policy.
 
