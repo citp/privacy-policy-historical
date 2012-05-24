@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104213id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031046id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Homeland Security News
 
@@ -8,4 +8,4 @@ To collect customer information, National Terror Alert may occasionally use “c
 
 National Terror Alert offers links to other sites. If you visit one of these linked sites, you should review that organization’s privacy policy and other policies. National Terror Alert is not responsible for the content or policies of other organizations. We do not pass any information on to the linked site, but we cannot protect information you provide directly to that site. National Terror Alert reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. We also reserve the right to modify the terms of our Privacy Policy. Therefore, it may be necessary for our visitors to check here periodically to review the information we collect and how we are using that information. By using our web site, you consent to our collection and use of this information.
 
-If you have any comments or questions about our privacy policy, please contact National Terror Alert via our online contact form. 
+If you have any comments or questions about our privacy policy, please contact National Terror Alert via our online contact form.
