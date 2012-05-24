@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125034901id_/http%3A//www.reachoo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180116id_/http%3A//www.reachoo.com/privacy_policy) for the most accurate reproduction.*
 
-# Reachoo.com - Videotise Your Ads - Privacy Policy
+# Reachoo.com - Free video classifieds - ad syndication - Privacy Policy
 
 **Your privacy is critically important to us. At Reachoo we have a few fundamental principles:**
 
