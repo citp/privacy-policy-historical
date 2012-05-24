@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213413id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524175717id_/http%3A//m.theglobeandmail.com/privacy-policy/%3Fservice%3Dmobile) for the most accurate reproduction.*
 
-# The Globe and Mail - Privacy Policy
+# Privacy Policy - The Globe and Mail
 
-[](http://www.globeandmail.com/)
-
-### The Globe and Mail Inc.("Globe")
+### The Globe and Mail Inc. ("Globe")
 
 ## Globe Privacy Code
 
@@ -49,7 +47,7 @@ _Note_ : If any Person at any time has any questions or concerns about Globe's p
 
 > i) write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
 
-> ii) provide information to Globe through the form provided at the bottom of this page (click here).
+> ii) provide information to Globe [ by sending an email with your inquiry (click here)](mailto:comments@globeandmail.ca?cc=globenewsweb@globeandmail.ca&subject=Privacy%20Inquiry).
 
 ### _Refusing or withdrawing Consent:_
 
@@ -108,9 +106,8 @@ Certain Globe Companies Services may be co-branded and offered in conjunction wi
 
 **Disclosure** \- making Personal Information available to a Third Party.
 
-**Employee** \- an employee or independent contractor (including freelancers)1 of Globe.
-
-1 The inclusion of independent contractors, including freelancers, within the definition of "Employee" is for convenience of reference only, and does in no manner imply that such individuals are employees of the company within the meaning of employment legislation or are in an employee-employer relationship with the company.
+**Employee** \- an employee or independent contractor (including freelancers)1 of Globe.   
+1The inclusion of independent contractors, including freelancers, within the definition of "Employee" is for convenience of reference only, and does in no manner imply that such individuals are employees of the company within the meaning of employment legislation or are in an employee-employer relationship with the company. 
 
 **Individual** \- an individual other than an Employee who (a) corresponds with Globe, including complaints and including applications for employment; (b) enters an contest sponsored by Globe; or (c) uses, or applies to use, the products or services of Globe.
 
@@ -260,16 +257,10 @@ _A Person shall be able to address a challenge concerning compliance with the ab
 
 > i) write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
 
-> ii) provide information to Globe through the form provided at the bottom of this page (click here).
+> ii) provide information to Globe [ by sending an email with your inquiry (click here)](mailto:comments@globeandmail.ca?cc=globenewsweb@globeandmail.ca&subject=Privacy%20Inquiry).
 
 10.2 Globe shall inform Persons about the existence of these procedures as well as the availability of complaint procedures.
 
 10.3 The person or persons accountable for compliance with the Globe Privacy Code may seek external advice where appropriate before providing a final response to individual complaints.
 
 10.4 Globe shall investigate all complaints concerning compliance with the Globe Privacy Code. If a complaint is found to be justified, Globe shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures. A Person shall be informed of the outcome of the investigation regarding his or her complaint.
-
-## Privacy Inquiry
-
-Please send us your privacy inquiry using the form below.   
-**All fields are mandatory.**   
-© 2011 The Globe and Mail Inc. All Rights Reserved. 
