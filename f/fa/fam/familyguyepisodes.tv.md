@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyguyepisodes.tv privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124023912id_/http%3A//www.familyguyepisodes.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyguyepisodes.tv privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524175729id_/http%3A//www.familyguyepisodes.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Watch Full Length Family Guy Episodes Online - Privacy Policy
 
