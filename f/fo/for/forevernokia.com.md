@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the forevernokia.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125023707id_/http%3A//forevernokia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernokia.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524234612id_/http%3A//forevernokia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForeverNokia
-
-## Privacy Policy
 
 At [forevernokia.com](http://forevernokia.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [forevernokia.com](http://forevernokia.com/) and how it is used.
 
