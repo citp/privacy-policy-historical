@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsgrid.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123010233id_/http%3A//www.sportsgrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsgrid.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525005504id_/http%3A//www.sportsgrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SportsGrid
 
