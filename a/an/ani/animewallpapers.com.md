@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125145034id_/http%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526005054id_/http%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
   
-[Win $25 in the Anime Wallpapers.Com November 2011 Wallpaper Contest or a Wolf Hat! Theme is "My Little Pony: Friendship is Magic"](http://www.animeforum.com/showthread.php?105863-Wallpaper-of-the-Month-November-2011-1st-Prize-25-gift-certificate)   
+[Win $25 in the Anime Wallpapers.Com February 2012 Wallpaper Contest or a Racoon Hat! Theme is "Typography"](http://www.animeforum.com/showthread.php?107241-Wallpaper-of-the-Month-February-2012-1st-Prize-25-gift-certificate)   
 [Home](http://www.animewallpapers.com/) > Privacy Policy 
 
 Our postal address is  
