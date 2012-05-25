@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125081136id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525061615id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,9 +46,7 @@ Cookies are pieces of data created when you visit a site and are stored in the c
 
 **Where cookies are used**
 
-We use an external, independent measurement and research company (Google) to gather information about who is using which parts of our website. This information is gathered using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. We use this information to help us improve our service to you.
-
-Cookies are used throughout the website to determine your accessibility preference when you click on the "A" accessibility buttons. Cookies are also used on the For Staff section of the web site to list your preference of service and on the pagination of documents.
+See our [Cookies statement](https://web.archive.org/cookies.htm) for more information.
 
 **Linking to other sites from the Leeds Met website**
 
