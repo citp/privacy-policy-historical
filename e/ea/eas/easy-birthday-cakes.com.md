@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127050128id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525100600id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy-Birthday-Cakes.com Privacy Policy
 
