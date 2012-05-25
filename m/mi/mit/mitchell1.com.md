@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitchell1.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125040144id_/http%3A//mitchell1.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitchell1.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525083714id_/http%3A//www.mitchell1.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Mitchell Repair Information Company, LLC Legal Notices
 
@@ -59,4 +59,5 @@ At any time you can contact us using the information below to ask us to remove y
 
 How to Contact Us 
 
-Should you have other question or concerns about these privacy policies, please call us at 1-888-724-6742, send an email to [CustomerSupport@mitchell1.com](mailto:CustomerSupport@mitchell1.com) or mail correspondence to Mitchell Repair Information Company LLC, P.O. Box 509044, San Diego, California 92150-9044.
+Should you have other question or concerns about these privacy policies, please call us at 1-888-724-6742, send an email to [CustomerSupport@mitchell1.com](mailto:CustomerSupport@mitchell1.com) or mail correspondence to Mitchell Repair Information Company LLC, 14145 Danielson St. Poway, CA 92064   
+.
