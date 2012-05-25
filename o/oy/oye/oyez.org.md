@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyez.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125120412id_/http%3A//www.oyez.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyez.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525083806id_/http%3A//www.oyez.org/privacy) for the most accurate reproduction.*
 
 # The Oyez Project at Chicago-Kent - Privacy Policy | The Oyez Project at IIT Chicago-Kent College of Law
 
