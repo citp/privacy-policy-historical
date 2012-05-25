@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmfn.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026235332id_/http%3A//www.northwesternmutual.com/legal-information/online-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmfn.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525212214id_/http%3A//www.northwesternmutual.com/legal-information/online-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Northwestern Mutual online privacy statement – Northwestern Mutual
 
@@ -91,7 +91,7 @@ We reserve the right to amend this Statement from time to time. Any material cha
 
 The Northwestern Mutual Financial Network website is maintained by The Northwestern Mutual Life Insurance Company, 720 E. Wisconsin Avenue, Milwaukee, WI, 53202. Visit the [Contact Us](https://web.archive.org/contact-us/default.aspx) section for additional information.
 
-Last revised: October 4, 2010
+Last revised: September 28, 2011
 
 ## NMIS Online Website
 
@@ -111,11 +111,11 @@ The NMIS Online website gathers two types of information about people who visit 
 
 The NMIS Online website is hosted by a third party, which assists in administering some of the services and transactions. The third party is contractually bound to maintain the confidentiality of any information submitted by visitors to the site and to use such information solely for the purpose of providing the requested services to or on behalf of NMIS and/or its subsidiaries and affiliates.
 
-We want to provide our customers with a means to communicate with us 24 hours a day, seven days a week. We do this through the following Customer Service e-mail forms:
+We want to provide our customers with a means to communicate with us 24 hours a day, seven days a week. We do this through the following Customer Service email forms:
 
   * A "Contact Us" form that enables users to submit questions/comments about the NMIS Online website;
   * A "Technical Support" form, which is accessible from the "Contact Us" form, which allows users to report sign-on questions and technical issues; and
-  * A Northwestern Mutual Financial Representative e-mail form, which is accessible from the "Contact Us" form, which allows users to request information about planning and investing from a Northwestern Mutual Financial Representative.
+  * A Northwestern Mutual Financial Representative email form, which is accessible from the "Contact Us" form, which allows users to request information about planning and investing from a Northwestern Mutual Financial Representative.
 
 
 
