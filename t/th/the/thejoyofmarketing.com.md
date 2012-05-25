@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejoyofmarketing.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017065531id_/https%3A//thejoyofmarketing.com/tjom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejoyofmarketing.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525060300id_/https%3A//thejoyofmarketing.com/tjom-privacy-policy) for the most accurate reproduction.*
 
 # TJOM Privacy Policy
 
