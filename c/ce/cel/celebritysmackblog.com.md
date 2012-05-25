@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebritysmackblog.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125042735id_/http%3A//www.celebritysmackblog.com/smack-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritysmackblog.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526002914id_/http%3A//www.celebritysmackblog.com/smack-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Celebrity Smack: Gossip and Entertainment Blog
+# Privacy Policy : Celebrity Smack: Celeb Gossip Blog!
 
 **What information do we collect?**
 
@@ -89,3 +89,16 @@ SheKnows, LLC
 <http://www.sheknows.com/mediakit/articles/813566/privacy-policy-1>
 
 Some of these third party advertising networks are participants in the Network Advertising Initiative (“NAI”), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards.You can learn more about **NAI and how you may “opt out” of targeted advertising delivered by NAI member ad networks[here.](http://www.networkadvertising.org/)**
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&title=Privacy%20Policy&notes=What%20information%20do%20we%20collect%3F%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site.%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%20or%20e-mail%20address.%20You%20may%2C%20however%2C%20visit%20our%20site%20anonym "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&srcTitle=Celebrity+Smack%3A+Celeb+Gossip+Blog%21+Celebrity+Gossip%2C+Celeb+News%2C+Gossip+Blog "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&title=Privacy%20Policy&source=Celebrity+Smack%3A+Celeb+Gossip+Blog%21+Celebrity+Gossip%2C+Celeb+News%2C+Gossip+Blog&summary=What%20information%20do%20we%20collect%3F%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site.%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20may%20be%20asked%20to%20enter%20your%3A%20name%20or%20e-mail%20address.%20You%20may%2C%20however%2C%20visit%20our%20site%20anonym "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.celebritysmackblog.com%2Fsmack-privacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
