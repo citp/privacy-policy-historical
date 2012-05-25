@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101075957id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525121226id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sparklette - Dine. Wine. Travel.
+# Privacy Policy | Sparklette Magazine
 
 Effective Date: October 31, 2009
 
