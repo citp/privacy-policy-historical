@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the ubuy.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909054126id_/http%3A//www.ubuy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuy.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525121634id_/http%3A//www.ubuy.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# The place to buy anything and everything.
+# ubuy.com
 
-We believe that the establishment of trust and privacy is instrumental to the continued growth of the Internet. We have created this privacy statement to demonstrate our commitment to individual privacy. The policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our services. By using our web site, you agree to the terms and conditions set forth below. 
+Privacy Policy
 
-Collection of Personal Information 
+SmartName.com (or NameMedia) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties.
 
-We collect personal information including, without limitations, name, address, e-mail address, telephone, demographic data and member identification number from its members and users. We may collect such personal information as part of the registration process for members or when members or users submit comments or other correspondence to us through our web site or otherwise. Additionally, we may collect personal information through its web site by using cookies or other methods of monitoring web usage. We do not market, sell, or trade this information to any outside companies, but collected information may be shared with our business partners. We may, at times, use the demographic information as a marketing or promotional tool. When we do that, we will make sure it remains entirely anonymous. 
+SmartName.com (or NameMedia) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind.
 
-Cookies 
-
-We use cookies to keep track of its members' and users' activity. The type of cookies we use do not get stored on your computer, rather they expire once the browser is closed. 
-
-Security 
-
-Our site's registration form requires users to give us contact information (a valid email address), unique identifiers (a password), financial information (credit card number), and demographic information (such as a zip code). When this type of information is collected it travels through the Internet in encrypted form. We use Secure Sockets Layer (SSL), which provides strong cryptography, to transfer all of the personal information to us. Financial and login information (password) are encrypted and stored in that form on our servers. 
+SmartName.com (or NameMedia) or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
