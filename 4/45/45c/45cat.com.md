@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 45cat.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105070819id_/http%3A//www.45cat.com/45_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 45cat.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215206id_/http%3A//www.45cat.com/45_privacy.php) for the most accurate reproduction.*
 
 # 45cat - Privacy Policy
 
