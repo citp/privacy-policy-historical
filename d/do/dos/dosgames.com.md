@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125055120id_/http%3A//dosgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525222335id_/http%3A//www.dosgames.com/privacy.php) for the most accurate reproduction.*
 
 # dosgames.com privacy policy
 
