@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gwnrg.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211190632id_/http%3A//gwnrg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwnrg.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525080804id_/http%3A//www.gwnrg.com/privacy.html) for the most accurate reproduction.*
 
-# GW directory - fast approval directory - Privacy Policy
+# GW directory - SEO directory - Privacy Policy
 
 Privacy Policy for GWNRG.com
 
