@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglemagazine.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214034124id_/http%3A//junglemagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglemagazine.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074615id_/http%3A//junglemagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jungle Magazine
 
