@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmein.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101194753id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmein.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525030247id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # GET ME IN! Buy & Sell Concert Tickets, Theatre Tickets and Sports Tickets.
 
