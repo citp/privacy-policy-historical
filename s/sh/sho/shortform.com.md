@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shortform.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125114201id_/http%3A//www.shortform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortform.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081434id_/http%3A//www.shortform.com/privacy) for the most accurate reproduction.*
 
 # ShortForm
+
+* * *
 
 ShortForm.tv respects your privacy. Although the site does not require personal information to be used, should you provide personal information, for example by creating an account and logging in, that personal information (such as name and contact information) will not be released, sold, or rented to parties outside ShortForm.tv.
 
