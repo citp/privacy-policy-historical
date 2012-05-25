@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010823id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525164741id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
 
 # Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
 
@@ -21,10 +21,6 @@ When we refer to ourselves as "we" or "Pfizer," we mean our entire company, incl
 
 You should read the Privacy Policy at each Web site that you visit after you leave one of our sites. Pfizer is not responsible for how other Web sites treat your privacy once you leave a Pfizer site.
 
-  * To review definitions of keywords, click here: [Glossary](https://web.archive.org/web/20111214010823id_/http%3A//www.pfizer.com/general/glossary.jsp)
-
-
-
 ### Personal information we collect
 
 ### Information we collect from visitors
@@ -45,9 +41,9 @@ From time to time we may augment our existing user databases with legally obtain
 
 ### Other information
 
-  * We also collect information that you voluntarily provide to us through responses to surveys, search functions, questionnaires, feedback, Tell Your Story forms and the like. 
-  * On some of our Web sites, we offer health assessment tools that ask you to provide self-assessment information. 
-  * We may also ask you to provide additional information such as your e-mail address if you want to obtain additional services or information or to resolve complaints or concerns. 
+  * We also collect information that you voluntarily provide to us through responses to surveys, search functions, questionnaires, feedback, Tell Your Story forms and the like.
+  * On some of our Web sites, we offer health assessment tools that ask you to provide self-assessment information.
+  * We may also ask you to provide additional information such as your e-mail address if you want to obtain additional services or information or to resolve complaints or concerns.
 
 
 
@@ -69,7 +65,7 @@ Top
 
 ### How we use the information
 
-### Aggregate data 
+### Aggregate data
 
 We gather aggregate data about visitors to our Web sites for product and service development and improvement activities. We also use it for market analysis. We may provide information from our Web sites in aggregate form, with identifying information removed, to third parties. When aggregate health information is provided, we pool it from many individual records and strip it of any data that could be used to identify an individual before it is used. Any third party that receives aggregated health care data must agree not to attempt to re-identify the people it belongs to.
 
@@ -113,12 +109,12 @@ Information in our data centers is backed up routinely, in order to aid in the r
 
 ### Third parties
 
-In addition to aggregate information (discussed previously), we may share some kinds of information with third parties as described below. 
+In addition to aggregate information (discussed previously), we may share some kinds of information with third parties as described below.
 
-  * Companies and people who work for us: Because we are a large company, we contract with other companies and individuals to help us provide services. For example, we may host some of our Web sites on another company's computers, hire technical consultants to maintain our Web-based health sites, or work with companies to remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. In addition, if you are a health care professional, we may validate your licensure status and other information against available databases that list licensed health care professionals. In order to perform their jobs, these other companies may have limited access to some of the personal information we maintain about our users. Other companies may collect information on our behalf through their sites. This occasionally incorporates the use of frames on the site that will not show the URL you are visiting in the browser address window. We require such companies to comply with the terms of our privacy policies, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us. We use our best efforts to limit other companies’ use of personally identifiable or health care information. 
-  * Promotional and informational offers: Sometimes we send offers to selected groups of customers. To accomplish this we may use third parties working on behalf of Pfizer . We provide a variety of mechanisms for you to tell us you do not want to receive such promotional - informational offers. For example, we may provide an opt-in box for customers to receive information that is sent by a third-party fulfillment house, and we make clear that, by opting in, you are submitting your data to a third-party. You can elect not to receive promotional or informational material from us by following the instructions to opt-out as mentioned or included in each of our programs we send to you. 
-  * Business transfers: If we transfer a business unit (such as a subsidiary) or an asset (such as a Web site) to another company, we will require it to honor the terms of this Privacy Policy. 
-  * Legal requirements: We may release account and other personal information when we believe release is required to comply with law. We may release personal health information if, in our judgment after review by an attorney, the release is compelled by law or regulation, or if the release may be necessary to prevent the death or serious injury of an individual. 
+  * Companies and people who work for us: Because we are a large company, we contract with other companies and individuals to help us provide services. For example, we may host some of our Web sites on another company's computers, hire technical consultants to maintain our Web-based health sites, or work with companies to remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. In addition, if you are a health care professional, we may validate your licensure status and other information against available databases that list licensed health care professionals. In order to perform their jobs, these other companies may have limited access to some of the personal information we maintain about our users. Other companies may collect information on our behalf through their sites. This occasionally incorporates the use of frames on the site that will not show the URL you are visiting in the browser address window. We require such companies to comply with the terms of our privacy policies, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us. We use our best efforts to limit other companies' use of personally identifiable or health care information.
+  * Promotional and informational offers: Sometimes we send offers to selected groups of customers. To accomplish this we may use third parties working on behalf of Pfizer . We provide a variety of mechanisms for you to tell us you do not want to receive such promotional — informational offers. For example, we may provide an opt-in box for customers to receive information that is sent by a third-party fulfillment house, and we make clear that, by opting in, you are submitting your data to a third-party. You can elect not to receive promotional or informational material from us by following the instructions to opt-out as mentioned or included in each of our programs we send to you.
+  * Business transfers: If we transfer a business unit (such as a subsidiary) or an asset (such as a Web site) to another company, we will require it to honor the terms of this Privacy Policy.
+  * Legal requirements: We may release account and other personal information when we believe release is required to comply with law. We may release personal health information if, in our judgment after review by an attorney, the release is compelled by law or regulation, or if the release may be necessary to prevent the death or serious injury of an individual.
 
 
 
@@ -148,9 +144,9 @@ Top
 
 ### Children's policy
 
-We are committed to protecting the privacy of children. We do not collect personally identifiable information from any person we actually know is a child under the age of 13. See also our [Terms of Use](https://web.archive.org/web/20111214010823id_/http%3A//www.pfizer.com/general/terms.jsp) for more information.
+We are committed to protecting the privacy of children. We do not collect personally identifiable information from any person we actually know is a child under the age of 13.
 
-Pfizer Inc. Privacy Policy updated April 4, 2011.
+Pfizer Inc. Privacy Policy updated February 17, 2012.
 
 Pfizer Inc  
 Privacy Officer  
@@ -161,10 +157,11 @@ New York, NY 10017
 
 Top
 
-* * *
+### Resolving Your Privacy Concerns
 
-[](https://web.archive.org/general/jump.jsp?url=http%3A%2F%2Fclicktoverify.truste.com%2Fpvr.php%3Fpage%3Dvalidate%26companyName%3DPfizer%2C%2520Inc.%26sealid%3D101)
+If, after attempting to address a privacy question or concern with Pfizer directly by contacting Pfizer's Privacy Officer, you still have a specific privacy concern that has not been resolved, you may choose mediation of that concern by a neutral third party at no cost to you. Pfizer will cover the cost of mediations submitted to the JAMS Alternative Dispute Resolution Service.
 
-The site you have linked from has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe. The TRUSTe program does not cover information that may be collected through downloadable software.
-
-If you have questions or concerns regarding our Privacy Policy, you should first contact the [Privacy Officer](https://web.archive.org/contact/mail_privacy.jsp) or write to the address provided in our Privacy Policy. If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should then contact [TRUSTe](https://web.archive.org/general/jump.jsp?url=http://watchdog.truste.com/pvr.php?page=complaint).
+JAMS  
+620 Eighth Avenue, 34th Floor  
+New York, NY 10018  
+(212) 751-2700
