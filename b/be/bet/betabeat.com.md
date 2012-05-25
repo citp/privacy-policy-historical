@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betabeat.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230021606id_/http%3A//www.betabeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betabeat.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526004528id_/http%3A//www.betabeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Betabeat — News, gossip and intel from Silicon Alley 2.0.
+# Privacy Policy | Betabeat
 
 Last Updated: March 15, 2011
 
