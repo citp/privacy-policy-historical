@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bothlink.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124160659id_/http%3A//bothlink.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bothlink.net privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525023608id_/http%3A//bothlink.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-|    
-
 
 Bothlink.net takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -40,6 +37,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 Contact Information
 
 Concerns or questions about this privacy policy can be directed to webs.dirs@gmail.com for further clarification.
-
-|   
----|---|---
