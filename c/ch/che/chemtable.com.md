@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemtable.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116081223id_/http%3A//www.chemtable.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemtable.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526013902id_/http%3A//www.chemtable.com/privacy.htm) for the most accurate reproduction.*
 
 # ChemTable Software - Privacy Policy
 
