@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islcollective.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204033546id_/http%3A//en.islcollective.com/Your_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islcollective.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201321id_/http%3A//en.islcollective.com/Your_Privacy) for the most accurate reproduction.*
 
 # iSLCollective.com - Free ESL worksheets made by teachers for teachers
 
@@ -36,4 +36,4 @@ We reserve the right to change this Privacy Policy at any time in our sole discr
 
 Your Questions about our Privacy Policy
 
-Should you have further questions about our privacy policy, please contact us at laszlope@gmail.com 
+Should you have further questions about our privacy policy, please contact us at support [a.t] islcollective [d.ó.t] com
