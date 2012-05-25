@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiawatch.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003322id_/http%3A//californiawatch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiawatch.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215611id_/http%3A//californiawatch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Watch
 
@@ -38,9 +38,9 @@ California Watch may participate in the Echo Network, which would make visitor c
 
 Visitors agree that by posting content to any part of the California Watch site, they automatically grant, and represent and warrant that they have the right to grant, Echo a non-exclusive, royalty free, perpetual, irrevocable and fully assignable and sublicensable right to usethat content on all Echo sites that have opted into the Echo network.
 
-###### AP News Registry
+###### News Registry
 
-This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
+This Web site uses services provided by NewsRight, LLP. NewsRight collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NewsRight Registry. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
 
 ###### Privacy
 
