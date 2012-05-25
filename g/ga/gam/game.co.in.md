@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112023441id_/http%3A//www.game.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525221255id_/http%3A//www.game.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Free online games at Game.co.in
 
