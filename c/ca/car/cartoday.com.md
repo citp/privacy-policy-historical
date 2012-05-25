@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoday.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120237id_/http%3A//www.carmag.co.za/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoday.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525042818id_/http%3A//www.carmag.co.za/page/privacy-policy) for the most accurate reproduction.*
 
 # CARmag.co.za - Privacy Policy
 
