@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxback.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223180806id_/http%3A//www.taxback.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxback.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526014237id_/http%3A//www.taxback.com/privacy.asp) for the most accurate reproduction.*
 
-# Tax Back - Tax refund services. Worldwide Income Tax Returns.
+# Privacy Policy, Secure Global Tax Returns - Taxback.com
 
 Taxback.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@taxback.com](mailto:info@taxback.com) or call +353 1 887 1999 or Freephone (Ireland) 1800 66 88 66. If you are not satisfied with our response you can contact TRUSTe here .
 
