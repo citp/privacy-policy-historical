@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227213225id_/http%3A//www.nbnco.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525181409id_/http%3A//www.nbnco.com.au/privacy.html) for the most accurate reproduction.*
 
-# NBN Co - Privacy policy
+# NBN Co - National Broadband Network - Australia | Privacy policy
 
 This Privacy Policy is designed to tell you what will happen to the information you provide through this website or through any other form of communication with us, NBN Co Limited ABN 86 136 533 741, our wholly owned subsidiaries, or our agents or contractors. Please be sure to read this entire Privacy Policy before using this website or submitting personal information to us or our agents or contractors.
 
