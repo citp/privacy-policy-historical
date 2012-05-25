@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivergoehler.co.uk privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128162318id_/http%3A//www.olivergoehler.co.uk/component/content/article/112/1276-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivergoehler.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525152401id_/http%3A//www.olivergoehler.co.uk/component/content/article/112/1276-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 This Privacy Policy describes the terms of our commitment to your privacy.
 
-**PERSONS OR PA RTIES COVERED** This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
+**PERSONS OR PARTIES COVERED** This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
 
 **PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED**
 
@@ -32,8 +32,6 @@ This website routinely collects information about its visitors, subscribers, mem
 **VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'**
 
 Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
-
-Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
 
 **ONLINE ORDERING**
 
@@ -91,7 +89,7 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPO RT OF INCIDENTS**
 
-You may direct questions, comments or reports to: **info(at)multipliedforce.com**
+You may direct questions, comments or reports to: **subscriber(a)olivergoehler.co.uk**
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
@@ -99,30 +97,21 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on: **1/2/07**
-
-**COPYRIGHT**
-
-This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and Nevada Processing Center, Inc.
+This Privacy Policy was last updated on: **1/12/11**
 
 **DISPUTES**
 
 As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
 
-Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
-
 In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal.
-
-The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the city declared in the contact information of the web owner.
 
 **APPLICABLE LAW**
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the city of the Website owner(s).
 
-**COPYRIGHT AND LICENSE**
+  
 
-This "Privacy Policy" is copyrighted © 2003-2006 by Mining Gold Corporation Nevada Processing Center, Inc (888) 214-3349, and is fully licensed for use by this website. If you wish to lawfully use this Terms of Use on your website, contact [support@npcinfo.com](mailto:support@npcinfo.com) for licensing information or visit [legal documents website.](http://www.internet-law-compliance.com/)
