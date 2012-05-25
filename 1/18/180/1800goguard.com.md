@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014182540id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526000101id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NATIONAL GUARD
 
@@ -25,10 +25,6 @@ This site makes chat rooms, forums, message boards and/or news groups available 
 ### Link Disclaimer
 
 The appearance of hyperlinks does not constitute endorsement by the Army National Guard of this Web site or the information, products or services contained therein. Such links are provided consistent with the stated purpose of this DoD Web site.
-
-### Section 508 Compliance Statement
-
-Section 508 of the Rehabilitation Act Amendments, as amended by the Workforce Investment Act of 1998, requires that when Federal agencies develop, procure, maintain or use electronic and information technology, they shall ensure that the electronic and information technology allows Federal employees with disabilities to have access to and use of information and data that is comparable to the access to, and use of, information and data by Federal employees who are not individuals with disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities.
 
 ### Problems, Comments or Questions
 
