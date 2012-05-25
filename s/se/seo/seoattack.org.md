@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoattack.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123111033id_/http%3A//www.seoattack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoattack.org privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526000824id_/http%3A//www.seoattack.org/privacy) for the most accurate reproduction.*
 
 # SEO Attack | Free, Easy and Simple Backlink Analysis
 
