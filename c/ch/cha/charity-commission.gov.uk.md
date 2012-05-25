@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125042159id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201339id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
 
 # Copyright statement
 
-#### Copyright Statement - © Crown copyright 2011 
+#### Copyright Statement - © Crown copyright 
 
 The material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material (other than the Register of Charities, the Royal Arms or departmental logos) may be reproduced free of charge in any format or medium provided it is reproduced accurately and not used in a misleading context. 
 
@@ -29,7 +29,7 @@ The National Archives
 Kew   
 Richmond   
 Surrey TW9 4DU   
-Email:[ psi@nationalarchives.gsi.gov.uk](mailto:psi@nationalarchives.gsi.gov.uk)
+Email:[mailto:psi@nationalarchives.gsi.gov.uk](mailto:psi@nationalarchives.gsi.gov.uk "psi@nationalarchives.gsi.gov.uk")
 
 The Commission has a statutory obligation to permit the inspection by any member of the public of the information entered on the Register, and to provide, on request, and on payment of any prescribed charge, copies of entries on the Register. The Commission also has a statutory obligation to permit such inspection of the accounts and reports which are sent to it, and of the trusts of charities which are entered on the register. Again, it has to provide copies on request, and on payment of any prescribed charge. 
 
@@ -68,9 +68,9 @@ The Charity Commission is a Data Controller under the Data Protection Act 1998. 
 We collect four main types of information from visitors to www.charitycommission.gov.uk: 
 
   * feedback (general questions and specific feedback on the website);
-  * notification of changes to entries on the Charity Commission’s Register of Charities;
+  * notification of changes to entries on the Charity Commission's Register of Charities;
   * representations on Schemes and Orders; and
-  * site usage information (from session cookies and log files).
+  * site usage information (from our own and third-party cookies).
 
 
 
@@ -85,9 +85,9 @@ You can send us your comments to our email feedback address or from our website 
 
 You can make comments or representations about a scheme that the Commission is making for a charity by email. A form is available for this purpose. We must take into consideration any representations that we receive within the statutory period of notice. We may decide as a result that the proposals need to be changed. 
 
-We will retain a hard copy of your representation. This will be dealt with in accordance with the [Commission’s record retention policy.](https://web.archive.org/About_us/About_the_Commission/ccrecords.aspx)
+We will retain a hard copy of your representation. This will be dealt with in accordance with the [Commission's record retention policy.](https://web.archive.org/About_us/About_the_Commission/ccrecords.aspx "/About_us/About_the_Commission/ccrecords.aspx")
 
-###### 3\. Notification of changes to entries on the Charity Commission’s Register of Charities 
+###### 3\. Notification of changes to entries on the Charity Commission's Register of Charities 
 
 Email requests to update or correct details displayed on the online Register of Charities are generally dealt with by our Charity Database division. The types of changes they deal with include changes to correspondent and website or e-mail contact details for a charity. The division also deals with amendment of charity financial details, area of operation, classifications etc. 
 
@@ -99,29 +99,23 @@ We will confirm that the requested changes have been made if you specifically re
 
 #### 4\. Site usage information 
 
-###### Cookies 
+We record traffic to our site using third-party cookies. These place small amounts of information on your computer or mobile phone. The information collected cannot be used to identify you personally. We collect this information to: 
 
-We will be unable to display certain pages such as the Welsh version of our site and other accessibility options if your browser is set up to refuse our cookies. 
-
-###### What are Cookies? 
-
-Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and [accessibility options](https://web.archive.org/AccessibilityOptions.aspx "Accessibility options") . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. 
-
-The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before the Charity Commission website. 
-
-More information on cookies is available from Directgov: 
-
-  * [_Internet browser cookies - what they are and how to manage them_](http://www.direct.gov.uk/managingcookies "Internet browser cookies - what they are an how to manage them on the DirectGov website") (opens new window)
+  * measure how many people are using our online services, so they can be made easier to use and there's enough capacity to ensure they are fast
+  * analyse anonymised data to help us understand how people interact with Charity Commission services so we can make them better
 
 
 
-###### Log files 
+We also use cookies to give you control over the way our site works, for example: 
 
-Log files allow us to record visitors' use of the site. Specialist software puts together log file information from all our visitors, which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information. 
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
 
-We use Google analytics to manage log file information. 
 
-  * [Read Google's privacy policy](http://www.google.com/privacy.html "Googles privacy policy") (opens new window)
+
+You can set up your browser to refuse cookies but this means we will be unable to display certain pages such as the Welsh version of our site and provide other accessibility options. Our cookies policy provides more information on how cookies work and how to manage them. 
+
+  * [Read our cookies policy](https://web.archive.org/misc/cookies_policy.aspx "/misc/cookies_policy.aspx")
 
 
 
