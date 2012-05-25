@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.ca privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224853id_/http%3A//help.petsmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.ca privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525211226id_/http%3A//www.petsmart.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Help Desk - Petsmart.com | PetSmart
 
