@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the flocabulary.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125083032id_/http%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flocabulary.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525200709id_/http%3A//flocabulary.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta name="google-site-verification" content="u-ixHMrt4OQpc1tqE9NcQk7-HSMYH4rPb2-_p8BUQZQ">
  
 
 
@@ -14,11 +15,19 @@
 	<link href="http://flocabulary.s3.amazonaws.com/site-static/css/fonts.css" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="http://flocabulary.s3.amazonaws.com/site-static/js/fancybox/jquery.fancybox-1.3.4.css?modified=17102011" media="screen">
 	
-	<script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-785079-1']);
-  _gaq.push(['_trackPageview']);
+	
+		_gaq.push(['_setCustomVar', 1, 'LoginStatus', 'Anon', 3]);  
+	
+
+	_gaq.push(['_setCustomVar', 2, 'OriginalReferrer', document.referrer, 1]);
+	_gaq.push(['_setCustomVar', 3, 'OriginalLandingPage', window.location.pathname, 1]);
+
+	_gaq.push(['_trackPageview']);
+  
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -138,6 +147,10 @@
 
 
 
+
+
+
+
 <div class="face">
 	<h2>
 		Like us? Like us. 
@@ -150,17 +163,12 @@
 
 
 <div id="videos">
-	<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
-
-	<input type="hidden" name="oid" value="00DE0000000Jmmg">
-	<input type="hidden" name="retURL" value="http://www.flocabulary.com/post-newsletter/">
-	
-	<input id="email2" maxlength="80" name="email" size="20" type="text"><br>
-	
-<div style="display:none;">Webform Source:<textarea id="00NE0000000LLU0" name="00NE0000000LLU0" type="text" wrap="soft">Newsletter CTA</textarea></div>
-	
-	<input id="submit2" src="http://flocabulary.s3.amazonaws.com/site-static/images/cta-submit.png" type="image" name="submit" style="float:left;">
-	</form>
+		<form action="/add-to-newsletter/" method="POST">
+		<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="59dd3cf2309cc403e76970bae4659756"></div>
+		<input id="email2" maxlength="80" name="email" size="20" type="text"><br>
+				
+		<input id="submit2" src="http://flocabulary.s3.amazonaws.com/site-static/images/cta-submit.png" type="image" name="submit" style="float:left;">
+		</form>
 </div>
 
 			
@@ -177,9 +185,9 @@
 	 
 		<div class="footer_inner">
 			<a href="/free/">
-			<h2 style="padding: 10px 0 0 0;">
-				<img src="http://flocabulary.s3.amazonaws.com/site-static/images/more_than.png" alt="">
-			</h2>
+			
+				<img src="http://flocabulary.s3.amazonaws.com/site-static/images/more_than.png" style="padding-top: 10px;" alt="">
+		
 		</a> 
 		</div>
 	 
@@ -239,8 +247,8 @@
 <div class="clr">
 </div>
 <div class="bottom">
-	<div class="copywrite">
-		Copyight ©2011 Flocabulary. <a href="/terms-of-use/">Terms</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/credits/">Credits</a>
+	<div class="copyright">
+		Copyight ©2012 Flocabulary. <a href="/terms-of-use/">Terms</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/credits/">Credits</a>
 	</div>
 </div>
 </div>
