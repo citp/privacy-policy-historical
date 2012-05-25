@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scribie.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126025448id_/http%3A//scribie.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scribie.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525190014id_/http%3A//scribie.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -11,7 +11,7 @@
 
 <title>Privacy Policy</title>
 
-<link rel="Stylesheet" href="/css/style.css" type="text/css">
+<link rel="stylesheet" href="/combiner?reset.css,app-style.css,style.css" type="text/css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.google.com/jsapi"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 <script type="text/javascript"> 
@@ -26,6 +26,7 @@
 <div id="container">
 
 
+	
 	<header>
 		<div class="width-wrap">
 		   	<div id="logo">
@@ -36,9 +37,7 @@
 		  	
 			<nav>
 				<div id="topnav"> 
-					<img src="/img/telephone.png" style="vertical-align:text-top"> <a href="/contact-us#phone" title="Phone support available during 9 to 5 PM EST">(703) 672-0242</a>
-					<a href="/faq">FAQ</a> 
-					<a href="https://scribie.com/freelance-transcription">Work For Us</a> 
+					<a href="/contact-us#phone" title="From 9 AM to 5 PM EST" class="phone">(703) 672-0242</a><a href="/faq">FAQ</a><a href="https://scribie.com/freelance-transcription">Work For Us</a> 
 				</div>
 
 				<div class="clearboth"> </div>
@@ -107,19 +106,35 @@
 
 	<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. </p>		
 
-	<br>
-
 	</div>
 	</div>
 
 </div>
 
-<div class="push"></div>
+<div id="push"></div>
 
 </div>
 
 	 <footer>
+	 	<div class="separator"> </div>
 	 	<div class="width-wrap">
+			<p>
+				<span class="copy">
+					© Copyright 2008-2012 by CGBiz LLC. All Rights Reserved.
+				</span>
+
+				<span class="links">
+					<a href="/freelance-transcription">Freelancers</a> |
+					<a href="/affiliate">Affiliates</a> |
+					<a href="/terms-of-service">Terms</a> | 
+					<a href="/privacy-policy">Privacy</a>  | 
+					<a href="/contact-us?subject=General Feedback">Feedback</a> | 
+					<a href="/about-us">About Us</a> | 
+					<a href="#plupper">Live Chat</a>
+				</span>
+			</p>
+
+			<!-- Plupper Tracking Code -->
 			<script type="text/javascript">
 				function insert_script(url) {
 					(function(d, t) {
@@ -130,21 +145,7 @@
 						s.parentNode.insertBefore(g, s);
 					})(document, 'script');
 				} 
-			</script>
-			<p>
-				
-				<a href="/jobs">Jobs</a> |
-				<a href="/affiliate">Affiliate</a> |
-				<a href="/terms-of-service">Terms</a> | 
-				<a href="/privacy-policy">Privacy</a>  | 
-				<a href="/about-us">About</a> | 
-				<a href="/contact-us?subject=Bug Report">Bug Report</a> | 
-				<a href="/contact-us?subject=General Feedback">Contact</a> | 
-				<a href="#plupper">Live Chat</a> |
-				© CGBiz LLC 2008-2011			</p>
 
-			<!-- Plupper Tracking Code -->
-			<script type="text/javascript">
 				insert_script("https://www.google.com/jsapi");
 				var t = setInterval(function() {
 					if(typeof google == "object") {
@@ -157,17 +158,21 @@
 		</div>
 	</footer>
 			<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-430508-10']);
+			_gaq.push(['_setDomainName', 'scribie.com']);
+			_gaq.push(['_trackPageview']);
 
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-430508-10']);
-		  _gaq.push(['_trackPageview']);
+			(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
 
-		  (function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-
+			window.onerror = function(message, file, line) {
+					var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+					_gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
+			}
 		</script>	
 	
 
