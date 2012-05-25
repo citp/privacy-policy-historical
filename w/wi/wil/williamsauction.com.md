@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125113145id_/http%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525075759id_/http%3A//williamsauction.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -69,3 +69,27 @@ If you have any questions about this Privacy Policy or about our information-col
 Copyright 2011 Williams & Williams Marketing Services, Inc. * All rights reserved
 
 Use of this website constitutes acceptance of the Williams & Williams’ Terms of Use and Privacy Policy
+
+History 
+
+OKroots 
+
+Team Bios 
+
+In the News 
+
+Partners 
+
+Contact Us 
+
+Organization 
+
+Careers 
+
+Enter your E-mail Address 
+
+or Edit My Auction Alerts
+
+**Please enter an e-mail address.**  
+If you are already signed up to receive auction alerts and would like to edit  
+your preferences 
