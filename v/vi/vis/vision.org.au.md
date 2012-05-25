@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530073112id_/http%3A//www.ucb.com.au/index.php%3Fview%3Darticle%26id%3D94%253Aprivacy-policy%26tmpl%3Dcomponent%26print%3D1%26layout%3Ddefault%26page%3D%26option%3Dcom_content%26Itemid%3D97) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525154340id_/http%3A//www.ucb.com.au/index.php%3Fview%3Darticle%26id%3D94%253Aprivacy-policy%26tmpl%3Dcomponent%26print%3D1%26layout%3Ddefault%26page%3D%26option%3Dcom_content%26Itemid%3D97) for the most accurate reproduction.*
 
 # UCB Australia - Privacy Policy
 
