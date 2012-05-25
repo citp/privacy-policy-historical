@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006135954id_/http%3A//www.famousfootwear.com/content.aspx%3Fcontentid%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525043350id_/http%3A//www.famousfootwear.com/content.aspx%3Fcontentid%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Footwear
 
-This privacy statement discloses the privacy practices for FamousFootwear.com.  It is effective 04/05/2009.
+This privacy statement discloses the privacy practices for famous.com.  It is effective 04/05/2009.
 
 Because we want to demonstrate our commitment to your privacy, this privacy statement will notify you of:
 
@@ -20,7 +20,7 @@ If you feel that we are not abiding by our posted privacy policy, you should [co
 
 ## Information Collection and Use
 
-Famous Footwear is an operating division of Brown Group Retail, Inc. which in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The FamousFootwear.com website is operated by the Famous Footwear Division of Brown Shoe Company. Brown Group Retail, Inc. and Brown Shoe Company, Inc. are the sole owners of all information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the FamousFootwear.com website.
+Famous Footwear is an operating division of Brown Group Retail, Inc. which in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The famous.com website is operated by the Famous Footwear Division of Brown Shoe Company. Brown Group Retail, Inc. and Brown Shoe Company, Inc. are the sole owners of all information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the famous.com website.
 
 ## REWARDS Customers
 
@@ -48,7 +48,7 @@ If you prefer we do not share your name and address, please see the **Choice and
 
 ## Links
 
-From time to time, FamousFootwear.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
+From time to time, famous.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
 
 ## Surveys and Contests
 
