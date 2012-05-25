@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the givex.com privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215065543id_/http%3A//givex.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the givex.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525135945id_/http%3A//givex.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy</title>
 	<!-- Include the CSS File -->
 <link rel="stylesheet" type="text/css" href="css/givex_public.css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+function launchBC(url,boxname,w,h) { window.open(url , boxname , 'width='+w+',height='+h+',left=150,top=150,menubar=0,toolbar=0,status=0,resizable=0'); }
+</script>
 
 <script>
 function launchBC(url,boxname,w,h) { window.open(url , boxname , 'width='+w+',height='+h+',left=150,top=150,menubar=0,toolbar=0,status=0,resizable=0'); }
@@ -83,6 +87,7 @@ var uagent = navigator.userAgent.toLowerCase();
 // Detects if the current browser is a Windows Mobile device.
 function DetectWindowsMobile()
 {
+	// || (document.URL.search("uptix") != -1) 
    if (uagent.search(deviceWinMob) > -1)
       return true;
    else
@@ -113,11 +118,28 @@ function DetectS60OssBrowser()
       return false;
 }
 
-if (DetectS60OssBrowser()) { location.href = 'http://www.givex.com/mobile/'; }
-if (DetectWindowsMobile()) { location.href = 'http://www.givex.com/mobile/'; }
-if (DetectAndroid()) { location.href = 'http://www.givex.com/mobile/'; }
-if (DetectIphone()) { location.href = 'http://www.givex.com/mobile/'; }
-if (DetectBlackBerry()) { location.href = 'http://www.givex.com/mobile/'; }
+if ( (location.href.indexOf("uptix.html") != -1)  && (DetectBlackBerry()  || DetectIphone()  || DetectAndroid() || DetectWindowsMobile() || DetectS60OssBrowser()) ){
+	location.href = 'http://www.givex.com/corp/uptix_info.html';
+}else{
+	if (DetectS60OssBrowser()) { location.href = 'http://www.givex.com/mobile/'; }
+	if (DetectWindowsMobile()) { location.href = 'http://www.givex.com/mobile/'; }
+	if (DetectAndroid()) { location.href = 'http://www.givex.com/mobile/'; }
+	if (DetectIphone()) { location.href = 'http://www.givex.com/mobile/'; }
+	if (DetectBlackBerry()) { location.href = 'http://www.givex.com/mobile/'; }
+}
+</script>
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12951902-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 
 </script>
 </head>
@@ -322,7 +344,7 @@ if (DetectBlackBerry()) { location.href = 'http://www.givex.com/mobile/'; }
 
 		<br>
 
-		<p style="color: white;">© 1999-2011, Givex Corporation. All rights reserved.</p>
+		<p style="color: white;">© 1999-<script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020, Givex Corporation. All rights reserved.</p>
 	</div>
 
 </div>
