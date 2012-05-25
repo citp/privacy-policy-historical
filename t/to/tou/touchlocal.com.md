@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchlocal.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026014010id_/http%3A//www.touchlocal.com/go/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchlocal.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525045149id_/http%3A//www.touchlocal.com/go/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
