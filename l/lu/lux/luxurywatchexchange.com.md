@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117003753id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525043830id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
-# Luxury Watch Exchange
+# Luxury Watch Exchange | Auction Sell Buy FREE |
 
-Search Engine QuikSearch - (WatchName) (Luxury Watch Exchange) i.e. Panerai Luxury Watch Exchange  
-
+**DIAMONDS - EGL 8 Ct & GIA 2 Ct FOR TRADE in Diamond Category!  
+**
 
 [ ](http://www.luxurywatchexchange.com/index.asp)
 
@@ -38,4 +38,5 @@ Data in relation to credit card payments are processed by Authorize.net and Pay
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [admin@uxurywatchexchange.com](mailto:admin@theluxurywatchexchange.com).  You can also correct any factual errors in that information or request us to remove your details form any list under our control.
 
-[](http://www.alexa.com/siteinfo/www.luxurywatchexchange.com?p=rwidget#reviews) [](http://www.coolwatchsites.com/) [](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/) [](http://www.watchsites.net/)
+[](http://www.coolwatchsites.com/) [](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/) [](http://www.watchsites.net/)   
+
