@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125084538id_/http%3A//www.bie.org/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525202149id_/http%3A//www.bie.org/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Project Based Learning | BIE
 
@@ -97,4 +97,4 @@ Novato, CA 94949
 (415) 883-0122  
 [info@bie.org](mailto:info@bie.org)
 
-[](http://www.bie.org/services/webinars)
+[](http://www.pblu.org/)
