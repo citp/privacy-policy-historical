@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111070529id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525143913id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
 
-# Texas State Technical College | Footer & Perisistent Nav | Privacy & Security
+# Texas State Technical College | Home | Texas State Technical College
 
 | 
 
@@ -75,6 +75,4 @@ By using our web site, you consent to the collection and use of the information 
 
 ### 10\. Disclaimer
 
-All of the information provided is believed to be accurate and reliable; however, TSTC assumes no responsibility for any errors, appearing in these rules or otherwise. Further, TSTC assumes no responsibility for the use of the information provided. TSTC specifically disclaims any and all liability for any claims or damages that may result from providing the information contained on the site, including any web sites maintained by third parties and linked to TSTC Web sites. The responsibility for content rests with the organizations that provide the information. The inclusion of links from this site does not imply endorsement by TSTC. Specific questions regarding a document should be directed to the appropriate department and not necessarily to a TSTC Webmaster. TSTC makes no effort to independently verify, and does not exert editorial control over, information on pages outside of the harlingen.tstc.edu domain.  
-  
----|---
+All of the information provided is believed to be accurate and reliable; however, TSTC assumes no responsibility for any errors, appearing in these rules or otherwise. Further, TSTC assumes no responsibility for the use of the information provided. TSTC specifically disclaims any and all liability for any claims or damages that may result from providing the information contained on the site, including any web sites maintained by third parties and linked to TSTC Web sites. The responsibility for content rests with the organizations that provide the information. The inclusion of links from this site does not imply endorsement by TSTC. Specific questions regarding a document should be directed to the appropriate department and not necessarily to a TSTC Webmaster. TSTC makes no effort to independently verify, and does not exert editorial control over, information on pages outside of the harlingen.tstc.edu domain.
