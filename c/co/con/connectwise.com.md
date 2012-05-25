@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223074425id_/http%3A//www.connectwise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526003703id_/http%3A//www.connectwise.com/privacy.php) for the most accurate reproduction.*
 
 # ConnectWise.com: Privacy Policy
 
@@ -17,7 +17,6 @@ ConnectWise strives to comply with all applicable laws around the globe that are
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
 
-  
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.  
 
 **Notice**  
