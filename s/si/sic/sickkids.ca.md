@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sickkids.ca privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203130658id_/http%3A//www.sickkids.ca/VisitingSickKids/information-privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickkids.ca privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525045658id_/http%3A//www.sickkids.ca/VisitingSickKids/information-privacy/index.html) for the most accurate reproduction.*
 
 # Privacy of your information at SickKids
 
