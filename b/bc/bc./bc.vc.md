@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the bc.vc privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114180506id_/http%3A//bc.vc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bc.vc privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525095743id_/http%3A//www.bc.vc/privacy.en.php) for the most accurate reproduction.*
 
 # bc.vc - a modern URL shortener
 
 _This statement was last updated February 26, 2011._
 
-The term 'bc.vc' or 'us' or 'we' refers to the owner(s) of the website. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service. 
+The term 'bc.vc - a modern url shortener' or 'us' or 'we' refers to the owner(s) of the website. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service. 
 
-We at bc.vc respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts. 
+We at bc.vc - a modern URL shortener respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts. 
 
 Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you. 
 
 This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally. 
 
-[For the purpose of the Data Protection Act 1998, bc.vc is our data controller.] 
+[For the purpose of the Data Protection Act 1998, bc.vc - a modern URL shortener is our data controller.] 
 
 **1\. Collected Information**
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20111114180506id_/http%3A//bc.vc/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20120525095743id_/http%3A//www.bc.vc/contact.php). 
