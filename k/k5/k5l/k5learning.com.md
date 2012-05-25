@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224010539id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081145id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
 
-# K5 Learning | Privacy
+# Privacy | K5 Learning
 
 ## K5 Learning is safe for your children
 
@@ -50,4 +50,4 @@ K5 uses “cookies”. A cookie is a small amount of data sent to your browser f
 
 Your family's use of this site is conditioned on your having accepted these terms. You should check back to this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modifications hereto.
 
-If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20111224010539id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
+If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20120525081145id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
