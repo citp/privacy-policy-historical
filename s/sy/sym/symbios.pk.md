@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125170255id_/http%3A//symbios.pk/page.php%3Fpid%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbios.pk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525042347id_/http%3A//symbios.pk/page.php%3Fpid%3D17) for the most accurate reproduction.*
 
 # Pakistan's Top Online Shop, Nokia, Blackberry, Apple, Casio, Sony, Canon & Much More
 
