@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxuser.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126193519id_/http%3A//www.imagine-publishing.co.uk/privacy_policy.html%3Futm_source%3Dlinuxuser.co.uk%26utm_medium%3Dlink%26utm_campaign%3DGlobal%252BFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxuser.co.uk privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526005657id_/http%3A//www.imagine-publishing.co.uk/privacy_policy.html%3Futm_source%3Dlinuxuser.co.uk%26utm_medium%3Dlink%26utm_campaign%3DGlobal%252BFooter) for the most accurate reproduction.*
 
 # Imagine Publishing - Just imagine...
 
