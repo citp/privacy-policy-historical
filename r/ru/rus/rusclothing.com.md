@@ -1,31 +1,6 @@
-> *The following text is extracted and transformed from the rusclothing.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125112642id_/http%3A//www.rusclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusclothing.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525142428id_/http%3A//www.rusclothing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RusClothing.com
-
-  
-| **Customers comments**  
----  
-_Dear Friends: Last week I decided I wanted to watch some of the lunar eclipse.I knew it was cold out and so I put on my beautiful brown Valenkis that go almost to my knees. The temperature was cold, -11F, and I decided to stay out only until I started to get uncomfortable. I watched a lot of the eclipse and thoroughly enjoyed my time outside, being very still, and very cozy. My fingers started to get chilly and my cheeks were cold, although my bare toes in my warm boots were just beginning to cool off. Imagine my surprise when I discovered that I'd been out in that sub-zero weather for almost an hour! I LOVE your boots!!!!! Thanks,_  
- ** _Pam, US_**  
-[more...](https://web.archive.org/customers/)  
-  
-  
-[  
-](http://www.twitter.com/rusclothing/)   
-All major cards and  
-PayPal payments with  
-  
-  
-[](https://web.archive.org/shipping/)  
-[  
-Secure Site](http://www.comodogroup.com/)  
-  
-  
-|    
-[Home](http://www.rusclothing.com/)[Privacy Policy](https://web.archive.org/privacy/)   
-  
-  
-| 
 
   * **Our Commitment To Privacy**
 
@@ -71,7 +46,4 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 
 |   
-  
----|---  
-  
 
