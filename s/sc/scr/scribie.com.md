@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126025448id_/http%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525190014id_/http%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,3 @@ CGBiz LLC will notify customers by email about any significant changes in this p
 If you have questions or concerns about CGBiz LLC's Privacy Policy please contact us at [privacy@scribie.com](mailto:privacy@scribie.com). 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-  
-
