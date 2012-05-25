@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the picknsave.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125081846id_/http%3A//www.picknsave.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the picknsave.com privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526014412id_/http%3A//www.picknsave.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head id="headMaster"><title>
 	Privacy :: Pick 'n Save
@@ -13,9 +13,9 @@
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzNTU0NzAxMTNkZA==">
 
 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20140208161752/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
-var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1FkwIQZ+I7xUnjXocAJBiR4GvUBbsi/4lwIknHW9GGABuBRNAIgunGlGEOY0EBac2Il99EDyIGwLhEFRpXRqmQu8IgwIc=" };//]]>
+var GSNContext = { "ConsumerID": 246358739, "RequestArguments": "3z3c8BCMa4IYI/V+ohVR+RlpALhnWR64qoM3E/jK06AUnoBP02CV/bNhekNbq/+QoFijczQVr6lY3UhpVYtyqoaAVic+hFUqcL3orK3ZzJQ=" };//]]>
 </script>
 
 <script src="http://images.gsngrocers.com/Assets/Common/Js/prototype.js" type="text/javascript"></script>
@@ -30,14 +30,22 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
 <script src="http://images.gsngrocers.com/Assets/Common/Js/Settings/ConsumerSettings.js" type="text/javascript"></script>
 <script src="/Assets/Common/Js/Analytics/GoogleAnalytics_Scripts.js" type="text/javascript"></script>
 	            <!-- begin header -->
-	            <script type="text/javascript">
+	            <style type="text/css">
+			@import url(http://picknsave.gsngrocers.com/production/picknsave-overrides.css);
+		</style><script type="text/javascript">
 			function fbButtonClick(fun) { 
 				if (typeof(GSNServices) == 'object' && typeof(GSNServices.ConsumerSettingService) == 'object') {
 					GSNServices.ConsumerSettingService.SetConsumerSettingByName('DisableFacebookSingleSignOn', 'false');
 				}
 				FB.login(function() {
-					window.location.reload();
-				}, {perms:'email,user_location'});
+	        		var currentPath = window.location.pathname.toLowerCase();
+					/*Only reload the page if it is NOT the sign in page, otherwise redirect to site root*/
+					if (currentPath != '/profile/signin.aspx') {
+						window.location.reload();
+					} else {
+						window.location = '/';
+					}
+				}, {scope:'email,user_location'});
 			}
 		</script><div id="StoreHeader"><a id="StoreHeaderLogo" href="http://www.picknsave.com"><img border="0" alt="Store Logo" src="/Assets/215/Images/HeaderLogo.gif"></a><div id="StoreHeaderLoginContainer"><script type="text/javascript" src="/Assets/Common/Js/Profile/Profiles.js"></script><script type="text/javascript">
 			function onLoginKeyPress(event) {
@@ -88,7 +96,7 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
       <div id="StoreHeaderLoginInputs"><input id="UserName" type="text" name="loginHeaderUserName" value="Username or Email" onfocus="ToggleErrorMessage(this,false); clearLoginForm(this);"><span id="rfvUserName" class="rfvMessage hidden">*Required</span><input id="Password" type="password" name="loginHeaderPassword" value="Password" onkeypress="onLoginKeyPress(event)" onfocus="ToggleErrorMessage(this,false); clearLoginForm(this);"><span id="rfvPassword" class="rfvMessage hidden">*Required</span><a id="main-login-button" class="button" href="#" onclick="SubmitLogin()"><span>Sign In</span></a></div>
     </div><script type="text/javascript">
 				function GoogleSiteSearch() {
-					var search = $('txtSearchTerm').value.trim();
+					var search = $('txtSearchTerm').value.strip();
 					var location = '/Search.aspx';
 
 					if(search == ''){
@@ -141,7 +149,9 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
         <li><a class="subnav-link" href="/Liquor.aspx"><span>Liquor/Wine/Beer/Spirits</span></a></li>
         <li><a class="subnav-link" href="/Pharmacy.aspx"><span>Pharmacy</span></a></li>
         <li><a class="subnav-link" href="/Health.aspx"><span>Health &amp; Beauty Care</span></a></li>
-        <li class="lastSubNav"><a class="subnav-link" href="/Grocery.aspx"><span>Grocery/Dairy/Frozen</span></a></li>
+        <li><a class="subnav-link" href="/Grocery.aspx"><span>Grocery/Dairy/Frozen</span></a></li>
+        <li><a class="subnav-link" href="/glutenfree.aspx"><span>Gluten Free</span></a></li>
+        <li class="lastSubNav"><a class="subnav-link" href="/partyplanner.aspx"><span>Party Planner</span></a></li>
       </ul>
     </li>
     <li><a class="nav-link" href="/StoreLocator.aspx"><span style="
@@ -155,7 +165,8 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
     <li><a class="nav-link" href="/Careers.aspx"><span style="
 										background-image:url(/Assets/215/Images/nav_careers.jpg);height:10px;text-indent:-9999px;width:86px;
 									">Careers</span></a><ul>
-        <li class="firstSubNav"><a class="subnav-link" href="/About-Us.aspx"><span>About Us</span></a></li>
+        <li class="firstSubNav"><a class="subnav-link" href="/Apply.aspx"><span>Apply Now</span></a></li>
+        <li><a class="subnav-link" href="/About-Us.aspx"><span>About Us</span></a></li>
         <li class="lastSubNav"><a class="subnav-link" href="/Community.aspx"><span>Community</span></a></li>
       </ul>
     </li>
@@ -166,7 +177,7 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
 </div>
 	            <!-- end header -->
         		
-	            <input type="hidden" name="ctl00$hfRequestVars" id="hfRequestVars" value="zSrr5fphjhD55t1FkwIQZ+I7xUnjXocAJBiR4GvUBbsi/4lwIknHW9GGABuBRNAIgunGlGEOY0EBac2Il99EDyIGwLhEFRpXRqmQu8IgwIc=">
+	            <input type="hidden" name="ctl00$hfRequestVars" id="hfRequestVars" value="3z3c8BCMa4IYI/V+ohVR+RlpALhnWR64qoM3E/jK06AUnoBP02CV/bNhekNbq/+QoFijczQVr6lY3UhpVYtyqoaAVic+hFUqcL3orK3ZzJQ=">
 
 	            <!-- begin content -->
 	            
@@ -243,12 +254,17 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
             </form>
             
             <!-- begin footer -->
-            <div id="GsnFooter">Copyright © 2011 Roundy's Supermarkets Inc. All Rights Reserved.<span class="footerDivider">|</span><a href="/privacy.aspx">Privacy Policy</a><span class="footerDivider">|</span><a href="/productrecall.aspx">Product Recall</a><span class="footerDivider">|</span><a href="/Community.aspx">Community</a><span class="footerDivider">|</span><a href="/suppliers.aspx">For Our Suppliers</a></div>
-<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div><script>window.fbAsyncInit = function() {
-		        	FB.init({appId: '162561657123999', status: true, cookie: true, xfbml: true});
-				FB.Event.subscribe('auth.sessionChange', function(response) {
-					    if (response.session) {
-					      window.location.reload();
+            <div id="GsnFooter">Copyright © 2012 Roundy's Supermarkets Inc. All Rights Reserved.<span class="footerDivider">|</span><a href="/privacy.aspx">Privacy Policy</a><span class="footerDivider">|</span><a href="/productrecall.aspx">Product Recall</a><span class="footerDivider">|</span><a href="/Community.aspx">Community</a><span class="footerDivider">|</span><a href="/suppliers.aspx">For Our Suppliers</a><span class="footerDivider">|</span><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=251227&amp;p=irol-IRHome" target="_blank">Investor Relations</a></div><img height="1" src="http://ads.exactdrive.com/seg?add=234017&amp;t=2" width="1"><div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div><script>window.fbAsyncInit = function() {
+		        	var currentPath = window.location.pathname.toLowerCase();
+		        	FB.init({appId: '162561657123999', status: true, cookie: true, xfbml: true, oauth: true});
+				FB.Event.subscribe('auth.authResponseChange', function(response) {
+					    if (response.authResponse) {
+							/*Only reload the page if it is NOT the sign in page, otherwise redirect to site root*/
+							if (currentPath != '/profile/signin.aspx') {
+								window.location.reload();
+							} else {
+								window.location = '/';
+							}
 					    } else {
 					      // The user has logged out, and the cookie has been cleared
 					    }
@@ -268,7 +284,7 @@ var GSNContext = { "ConsumerID": 201776632, "RequestArguments": "zSrr5fphjhD55t1
         	
             
             
-            <script type="text/javascript" src="/Scripts/Analytics.ashx"></script><script type="text/javascript">	 var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20110410004755/https://ssl." : "https://web.archive.org/web/20110410004755/http://www.");	 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://web.archive.org/web/20110410004755/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">	var globalPageTracker = null;	function GlobalPageTracker() {		try { globalPageTracker = _gat._getTracker("UA-3023687-58"); globalPageTracker._trackPageview(); } catch (err) { } 	}	Event.observe(window, 'load', GlobalPageTracker);</script><script type="text/javascript">    _qoptions = {        qacct: "p-1bL6rByav5EUo",        labels: GSNContext.ConsumerID.toString()    };</script><script type="text/javascript" src="https://web.archive.org/web/20110410004755/http://edge.quantserve.com/quant.js"></script><script type="text/javascript">   var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20110410004755/https://ssl." : "https://web.archive.org/web/20110410004755/http://www.");     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://web.archive.org/web/20110410004755/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>    <script type="text/javascript">   	var pageTracker = null;	function ChainPageTracker() {      try { pageTracker = _gat._getTracker("UA-6929907-1"); pageTracker._trackPageview(); } catch (err) {  }    }	Event.observe(window, 'load', ChainPageTracker);  </script><script type="text/javascript">var axel = Math.random() + "";var a = axel * 10000000000000;document.write('<iframe src="https://web.archive.org/web/20110410004755/http://fls.doubleclick.net/activityi;src=2828607;type=retar102;cat=pfcha257;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>');</script><iframe src="https://web.archive.org/web/20110410004755/http://fls.doubleclick.net/activityi;src=2828607;type=retar102;cat=pfcha257;ord=4997650287302.724?" width="1" height="1" frameborder="0"></iframe><noscript><iframe src="https://web.archive.org/web/20110410004755/http://fls.doubleclick.net/activityi;src=2828607;type=retar102;cat=pfcha257;ord=1?" width="1" height="1" frameborder="0"></iframe></noscript><script type="text/javascript">  if (typeof (GSNContext) == 'object') {      var random1 = Math.round(Math.random() * 10000000000000000);        document.write('<img src="https://web.archive.org/web/20110410004755/http://edge.aperture.displaymarketplace.com/audmeasure.gif?PixelID=227&liveconclientID=4419522406425&cuID=' + GSNContext.ConsumerID + '&rand=' + random1 + '" height="1" width="1" border="0"/>');  }  </script><img src="https://web.archive.org/web/20110410004755/http://edge.aperture.displaymarketplace.com/audmeasure.gif?PixelID=227&amp;liveconclientID=4419522406425&amp;cuID=201776632&amp;rand=6732689269977890" height="1" width="1" border="0">
+            <script type="text/javascript" src="/Scripts/Analytics.ashx"></script><script type="text/javascript">    _qoptions = {        qacct: "p-1bL6rByav5EUo",        labels: GSNContext.ConsumerID.toString()    };</script><script type="text/javascript" src="https://web.archive.org/web/20140208151355/http://edge.quantserve.com/quant.js"></script><script type="text/javascript">  if (typeof (GSNContext) == 'object') {      var random1 = Math.round(Math.random() * 10000000000000000);        document.write('<img src="https://web.archive.org/web/20140208151355/http://edge.aperture.displaymarketplace.com/audmeasure.gif?PixelID=227&liveconclientID=4419522406425&cuID=' + GSNContext.ConsumerID + '&rand=' + random1 + '" height="1" width="1" border="0"/>');  }  </script><img src="https://web.archive.org/web/20140208151355/http://edge.aperture.displaymarketplace.com/audmeasure.gif?PixelID=227&amp;liveconclientID=4419522406425&amp;cuID=246358739&amp;rand=8890948343057432" height="1" width="1" border="0"><script type="text/javascript">	if (typeof (GSNTrackingItems) == 'object') {		GSNTrackingItems.PageTracking.TrackingKey = 'UA-6929907-38'; 	}	submitPageTracking(); </script>
         </div>
         <!-- begin footer outer -->
         <!-- READ DOCUMENTATION/WARNINGS IN THE CODE BEHIND ON CACHING-->
