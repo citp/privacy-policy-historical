@@ -1,36 +1,38 @@
-> *The following text is extracted and transformed from the sakura-house.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709214011id_/http%3A//www.sakura-house.com/english/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakura-house.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525092417id_/http%3A//www.sakura-house.com/en/privacy) for the most accurate reproduction.*
 
-# Disclaimer and privacy policy
+# SAKURA HOUSE - Privacy policy
 
-Room availabilities:  
-Room availabilities shown on the page of each premises are not real-time. The database is renewed twice a day, so the actual availabilities at one moment may differ.
+Since its establishment in 1992, Sakura House Co., Ltd. (hereinafter referred to as “the Company”) has offered rental accommodation such as guest houses and apartments at a reasonable price to customers from over 100 different countries each year.  
+This website (hereinafter referred to as “this Website”) acquires information (hereinafter referred to as “Personal Information”) required for contacts and transactions during procedures including reservations and inquiries, such as the customer’s name, address, telephone number, and e-mail address.  
+The Company works to protect privacy and strictly manages the Personal Information of customers while complying with the Personal Information Protection Act, as well as other related laws, ordinances, and standards.  
+All Personal Information provided to the Company will not be provided or submitted to a third party, excluding when the customer’s agreement has been obtained or there is a valid reason.
 
-Room condition:  
-The photographs and the movies of our rooms are taken when the premises opened. Therefore, actual condition of the rooms (ex. color of curtains or type of furniture) may differ. If you would like to know the specific condition of a room, please contact us.
+The Personal Information of customers shall be appropriately acquired, used and provided within the scope of the Company’s business such as room reservations, inquiries, and sending information about various events and promotional campaigns. If the Personal Information will be used for purposes other than those clearly stated when the customer provides the Personal Information, the customer shall be contacted immediately regarding that purpose.
 
-External links:  
-There may be Web sites linked to and from this site, but that does not constitute endorsement by Sakura House.   
-We do not take any responsibility of the information contained in these sites.
+#### Provision to third parties
 
-  
+As a rule, Personal Information provided by the customer shall not be disclosed, provided, or transferred to a third party, except in the following cases.   
+・When required to carry out the business of the Company’s group companies, including information about various events and promotional campaigns, contact about products and services, etc.   
+・When required to carry out business for the Company’s subcontracting  
+・When agreement has been obtained from the customer
 
+However, Personal Information may be disclosed or provided without obtaining agreement from the customer in the following cases.   
+・If ordered to disclose Personal Information for legal reasons  
+・If it is impossible to obtain agreement from the customer and there is danger of damage to the life, health, or assets of the customer or a third party  
+・If required to do so for serious and urgent reasons related to the customer, the Company, or a third party
 
-We understand the importance of your personal information such as name or email address. Therefore, we use 128 bit SSL secured connection to collect personal information from this Web site.  
-  
-Information we collect:  
-The kind of information we collect may vary depending upon how you would like to use this site.
+#### The usage of cookies
 
-When you wish to inquire, or reserve a room, or put your name on our waiting list, we collect the most information from you, including your name, email address, phone number, occupation, or type of visa.  
-These personal information are used only for further communication between you and Sakura House for the sole purpose of renting a room, except when you actually move in to one of our rooms, the information shall be put into our tenant database for our management.  
-Otherwise the information will not be used for other purposes, nor will be provided to other groups or parties.
+Some pages use cookies in order to make it possible to view this Website in a smooth fashion. When the customer visits this Website again, cookies are used to confirm whether the computer has been used to visit this Website previously and to simplify the entering of information into forms.  
+It is possible to set the browser you use to not accept cookies. However, if cookies are disabled by the customer, some functions of this Website cannot be used.
 
-When you wish to make a payment from our site (to drop a deposit for a room), we also collect a credit card number. This information shall be used only once to make the payment, and will be deleted after.
+Secure Sockets Layer (SSL) is used to make it easier for customers to use this Website by encrypting transmitted information. It is not used to identify the specific Personal Information of a customer. The inquiry forms on this Website supports SSL.  
+Names, e-mail addresses, and other Personal Information entered by the customer is protected and safely transmitted to the Company.
 
-When you wish to subscribe our newsletter, we collect your email address. This is for the sole purpose of delivering the newsletters, and shall not be used for other purposes.
+#### Management of subcontractors
 
-In any case, you have the right to update or delete the personal information you have sent. Please contact us to do this.
+When entrusting the processing of Personal Information to a third party, the Company inspects whether or not the subcontractor is protecting Personal Information in a safe manner and enters into a nondisclosure agreement with the subcontractor.
 
-Cookies and IP address:  
-"Cookie" is a small text file transferred from a Web site to your computer, that allows the Web site to identify your machine when you visit the next time. Sakura House Web site may use cookies to help you enter information to our inquiry form.
+#### Revisions to this Privacy Policy
 
-IP address is a set of numbers to represent a computer on the Internet. We take track of the IP address of the computers that visit our Web site solely to analyze the traffic, and we do not correlate this information with other personal data.
+When revisions have been made to this Privacy Policy, they will be announced on the Site. Please confirm the latest information on the Site.
