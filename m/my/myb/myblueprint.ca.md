@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226221343id_/http%3A//www.myblueprint.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525095319id_/http%3A//www.myblueprint.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myBlueprint
 
@@ -42,7 +42,7 @@ You can stop using our website at any time. You may cancel your account by click
 
 ### Your Consent
 
-We will not collect or use your personal information without your consent (unless we are required to do so by law). By agreeing to the provisions of the End User License Agreement, you are agreeing to the terms of this Privacy Policy and you are consenting to the collection and use of your personal information as set out in this Privacy Policy. You may withdraw your consent to our collection and use of your personal information at any time, subject to contractual and legal restrictions and reasonable notice. However, please note that if you withdraw your consent to certain uses of your personal information, we may no longer be able to provide products or services to you.
+We will not collect or use your personal information without your consent (unless we are required to do so by law). By agreeing to the provisions of the [End User License Agreement](https://web.archive.org/eula), you are agreeing to the terms of this Privacy Policy and you are consenting to the collection and use of your personal information as set out in this Privacy Policy. You may withdraw your consent to our collection and use of your personal information at any time, subject to contractual and legal restrictions and reasonable notice. However, please note that if you withdraw your consent to certain uses of your personal information, we may no longer be able to provide products or services to you.
 
 ### Minors
 
