@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125084016id_/http%3A//www.linentablecloth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081519id_/http%3A//www.linentablecloth.com/privacy-policy) for the most accurate reproduction.*
 
-# Collection and Use of Information - LinenTablecloth
+# Collection and Use of Information At LinenTablecloth
 
 It is the policy of LinenTablecloth (our " **Site** ") to keep your personal information private and secure. When you make a purchase from our Site, you may be required to provide your name, email address, credit card information, address, phone number, and a password. We use this information only to process your orders, keep you updated on your order status and personalize your shopping experience.
 
