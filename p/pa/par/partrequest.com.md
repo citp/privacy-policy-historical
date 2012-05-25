@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118022934id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525062651id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Used Auto Parts Online
 
-PartRequest.com is committed to helping you find quality used auto parts online while ensuring the protection of your privacy.
+PartRequest.com is committed to helping you find quality used auto parts online while ensuring the protection of your privacy. We've developed the most robust and secure part locating services on the Internet. In fact, we are the only used auto parts locator that allows you to remain anonymous when you place your request.
 
 ## Here is what you should know about our Privacy Policy
 
 In order to submit a used auto parts request to our network of salvage yards, junk yards and other used auto parts vendors, you are required to provide us with your email address and some other personal information, including your name and the city, state and zip or postal code where the part will be shipped if it is purchased from one of our vendors. You are not required to provide us with a phone number and your are not required to provide us with a street address.
 
-The information that is required from you is needed in order to provide our subscribers with enough information so they can reply to you after you place a part request. Your personal information, including your email address and phone number (if you choose to provide it), will not be shared with anyone outside our network of subscribers. In addition, each subscriber has agreed to the terms and conditions of our Subscriber Agreement which states, in part, that each subscriber is required to keep all information that they receive through our service confidential.
+The information that is required from you is needed in order to provide our subscribers with enough information so they can reply to you after you place a part request. At no time do we provide your email address to any of our salvage yards (see below for details about our anonymous email feature). In addition, each subscriber has agreed to the terms and conditions of our Subscriber Agreement which states, in part, that each subscriber is required to keep all information that they receive through our service confidential.
+
+## Remain Anonymous!
+
+Unlike other services that are out there, we will NOT provide your email address to anyone, not even the salvage yards that receive your part request. Other used part locators send your request to their subscribers by email, indicating that the request came from your email address. This means that someone you're not sure you can trust has your email address stored somewhere, and has the ability to send you spam or, worse, sell your email address to someone that operates a spam factory. In fact, we tested our competition and found that our email address was sold to a third party that continues to send us spam. This will NOT happen when you use PartRequest.com to find used auto parts. We process and distribute your part request differently. Our proprietary email system keeps your email address safe with us so you don't have to worry about receiving spam. We send out your part request anonymously and all communications from the salvage yards that sell used parts through our service are tracked and logged for your privacy and convenience.
 
 If you believe that your privacy has not been maintained as a result of your use of our web site, please [contact our support team](https://web.archive.org/contact) immediately.
 
