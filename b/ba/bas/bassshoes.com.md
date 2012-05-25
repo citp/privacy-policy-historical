@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassshoes.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105060102id_/https%3A//bassshoes.harborghb.com/bass-shoes-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassshoes.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525021201id_/https%3A//bassshoes.harborghb.com/bass-shoes-privacy) for the most accurate reproduction.*
 
 # G.H. Bass & Co. Official Online Store - Classic and edgy styles of shoes for women, men and kids
 
