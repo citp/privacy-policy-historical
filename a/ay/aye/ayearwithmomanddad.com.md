@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayearwithmomanddad.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022250id_/http%3A//ayearwithmomanddad.com/pr-friendly/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayearwithmomanddad.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215758id_/http%3A//ayearwithmomanddad.com/pr-friendly/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy | A Year with Mom & Dad
 
@@ -32,3 +32,5 @@ A Year With Mom and Dad is not responsible for the content of external internet 
 A Year With Mom and Dad may on occasion ask for personal information, such as for giveaways. This information will not be sold or used for any purpose other than contacting the winner of the giveaway. Your information may be sent to giveaway providers for mailing the giveaway. A Year With Mom and Dad is not responsible for information shared with giveaway sponsors as a means of mailing a giveaway. It is the intent of A Year With Mom and Dad that this information be colleted for confirming winners of a giveaway as a method of prize distribution only.
 
 This privacy policy was written with the help of [This Mama Loves Her Bargains](http://www.mamalovesherbargains.com/).
+
+[](http://www.printfriendly.com/print/v2?url=http://ayearwithmomanddad.com/pr-friendly/disclosure-privacy-policy/)
