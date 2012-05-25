@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terraplana.com privacy policy that was archived on 2011-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110913052414id_/http%3A//www.terraplana.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraplana.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525213523id_/http%3A//www.vivobarefoot.com/uk/privacy-policy) for the most accurate reproduction.*
 
-# Terra Plana | Privacy Policy UK
+# VIVOBAREFOOT | The original barefoot shoe | Barefoot Running | Barefoot Shoes | Privacy Policy UK
 
 ### Privacy Policy UK
 
