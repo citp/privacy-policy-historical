@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103092227id_/http%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525224352id_/http%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SlugBooks - Privacy Policy
+# Privacy Policy | SlugBooks
 
 **Slug Books**
 
