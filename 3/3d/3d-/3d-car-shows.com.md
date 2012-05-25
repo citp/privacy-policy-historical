@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124234217id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525195537id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 3D Car Shows
+# Privacy Policy 3D Car Shows
 
 This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://3d-car-shows.com](http://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
 
@@ -55,6 +55,8 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
@@ -78,6 +80,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://3d-car-shows.com](http://3d-car-shows.com/)  
 1511 Le Mirage Wilgeheuwel Johannesburg South Africa 2040  
 +27.729722724  
-webmaster@3d-car-shows.com
+[webmaster@3d-car-shows.com](mailto:webmaster@3d-car-shows.com)
 
-This document was last updated on August 16, 2011
+This document was last updated on December 05, 2011
