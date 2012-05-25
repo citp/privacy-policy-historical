@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209112034id_/http%3A//www.vivobarefoot.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525213523id_/http%3A//www.vivobarefoot.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # VIVOBAREFOOT | The original barefoot shoe | Barefoot Running | Barefoot Shoes | Privacy Policy UK
 
