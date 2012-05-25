@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingo4affiliates.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025630id_/http%3A//www.bingo4affiliates.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingo4affiliates.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525200533id_/http%3A//www.bingo4affiliates.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Bingo 4 Affiliates Privacy Policy
 
