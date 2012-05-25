@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124024415id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526013425id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Touch Up Paint | AutomotiveTouchup | 888-710-5192
 
-Automotivetouchup.com is the website of Microfinish LLC. 
+Automotivetouchup.com belongs to Microfinish LLC. 
 
 Our postal address is 
 
@@ -33,3 +33,5 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+
+We appreciate your comments and choose to spotlight some of our customer comments as testimonials. If your comment is selected to appear on our site, we will use only your first name, last initial, location, car/paint info, and your comment. When [submitting your comment](https://web.archive.org/feedback.aspx), you will have the option to opt out of having your review appear on our site. 
