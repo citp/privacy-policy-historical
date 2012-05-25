@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125121254id_/http%3A//www.sinclairintl.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525084326id_/http%3A//www.sinclairintl.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
 
-# 
+# Top Rated Supplier of Firearm Reloading Equipment, Supplies, and Tools - Sinclair Intl
 
 ## Privacy Policy
 
