@@ -1,19 +1,25 @@
-<!--The following is the downloaded HTML source of the hexrpg.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121031558id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hexrpg.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525122951id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Hogwarts Extreme : An Interactive Harry Potter RPG</title>
-<link rel="stylesheet" type="text/css" href="/layouts/finalbattle/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="/layouts/padfoot/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="/javascript/lightbox/themes/classic-dark/jquery.lightbox.css">
+<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui/css/ui-darkness/jquery-ui-1.8.16.custom.css">
 
 <link href="/favicon.ico" rel="icon" type="image/x-icon"> 
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link rel="apple-touch-icon" href="/josh/AppleTouchIcon/apple-touch-icon7.png">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.php">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="/javascript/jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
 <script type="text/javascript">window.name = 'main';</script>
 <script type="text/javascript" src="/jquery.timers.js"></script>
 <script type="text/javascript" src="/forum/forumScripts.js"></script>
+<script type="text/javascript" src="/javascript/lightbox/jquery.lightbox.js"></script>
+<script type="text/javascript" src="/javascript/actual/jquery.actual.min.js"></script>
 <script type="text/javascript" src="/javascript/userinfowindow.js"></script>
+<script type="text/javascript" src="/javascript/searchbar.js"></script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="robots" content="all">
@@ -22,6 +28,8 @@
 
 <style type="text/css">
 
+	.ui-autocomplete-loading { background: url('/javascript/lightbox/themes/evolution/images/loading.gif') right center no-repeat; }
+	
     .linkSpan{
     	position:absolute;
     	width:100%;
@@ -34,8 +42,116 @@
     .linkContainer {
     	position: relative;
     }
+    
+    .barShadow {
+        -webkit-box-shadow: #000000 0 -.1em .5em;
+    	-moz-box-shadow: #000000 0 -.1em .5em;
+    	box-shadow: #000000 0 -.1em .5em;
+     }
+     
+     .forumButton {
+        cursor: pointer;
+     }
+     
+     #threadRow {
+        height: 40px;
+     }
+     
+     .postCell {
+        padding: 10px;
+     }
+     
+     .postCellSmall {
+        padding: 5px;
+     }
+     
+     .postCellLeft {
+        padding-left: 10px;
+     }
+     
+     .postCellLeftSmall {
+        padding-left: 5px;
+     }
+    
         
 </style>
+<style type="text/css">
+.button {
+    color: #FFFFFF;
+	border: 1px solid #0b0c0e;
+	
+	background: #768194;
+	background: -webkit-gradient(linear, left top, left bottom, from(#1e2126), to(#000000));
+	background: -moz-linear-gradient(top,  #1e2126,  #000000);
+
+	
+	-webkit-box-shadow: #1e2126 0 0 .5em;
+	-moz-box-shadow: #1e2126 0 0 .5em;
+	box-shadow: #1e2126 0 0 .5em;
+	
+	text-shadow: .1em .1em .2em #000000;
+
+	text-decoration: none; 
+	vertical-align: middle;
+}
+.button:hover {
+    //border-top-color: #28597a;
+	background: #464c58;
+	//background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
+	//background: -moz-linear-gradient(top,  #000000,  #1e2126);
+	background: -webkit-gradient(linear, left top, left bottom, from(#323740), to(#000000));
+	background: -moz-linear-gradient(top,  #323740,  #0a0b0d);
+    
+    -webkit-box-shadow: #323740 0 0 .5em;
+	-moz-box-shadow: #323740 0 0 .5em;
+	box-shadow: #323740 0 0 .5em;
+    
+    text-decoration: none;
+
+}
+.button:active {
+    //border-top-color: #28597a;
+	background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#0e1012));
+	background: -moz-linear-gradient(top,  #000000,  #0e1012);
+	outline: 0;
+}
+#enroll {
+   	font-size: 48px;
+    padding: 15px 25px;
+    
+    -webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+    
+}
+.welcome{
+    
+    color: #FFFFFF;
+    font-size: 12px;
+    padding: 3px 8px;
+    
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+    
+}
+</style>
+<script type="text/javascript">
+$('.lightbox').lightbox();
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3419286-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </head>	<body><div id="usernameContainer2" style="z-index: 3; display: inline;">
 		<div id="usernameContainer3" style="z-index: 5;">
 			
@@ -49,8 +165,7 @@
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="bigcontainer" style="width: 100%; height:  100%;"><input type="hidden" id="username" value=""><div id="header" class="header"></div><div style="position:absolute;left:0px;top:160px"><table border="0" cellpadding="0" cellspacing="0" width="780" name="mainTable">
+<div id="bigcontainer" style="width: 100%; height:  100%;"><input type="hidden" id="username" value=""><div id="header" class="header"></div><div style="position:absolute;left:0px;top:160px"><table border="0" cellpadding="0" cellspacing="0" width="780" height="100%" name="mainTable">
 <tbody><tr>
 <td width="166" valign="top">
 
@@ -63,90 +178,73 @@
   <div class="linkContainer">-&nbsp;<a href="/aboutus.php">About Us<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/links.php">Affiliates<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/downloads.php">Promote<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=58">Welcome Center<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/58">Welcome Center<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/report.php">Report<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Interact</b></div>
 <div style="padding-top:3px;padding-bottom:10px"> <div class="linkContainer">-&nbsp;<a href="/owlpost.php">Owlpost<span class="linkSpan"></span></a>  <br></div>
   <div class="linkContainer">-&nbsp;<a href="/dailymoney.php">Daily Money<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/hogfriends.php">Hogfriends<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/map.php">Marauders Map<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/fanfiction/">Fan Fiction<span class="linkSpan"></span></a> *<br></div>
+  <div class="linkContainer">-&nbsp;<a href="/map.php">Marauder's Map<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/fanfiction/">Fan Fiction<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/spell/">Spells<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/clubs/">Clubs<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/dorms/">Dorms<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/games/">Games<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Role Playing</b></div>
-<div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=35">RP Central<span class="linkSpan"></span></a><br></div>
-   <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=136">The Lounge<span class="linkSpan"></span></a><br></div>
-   <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=137">Teaching Center<span class="linkSpan"></span></a><br></div>
+<div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/f/35">RP Central<span class="linkSpan"></span></a><br></div>
+   <div class="linkContainer">-&nbsp;<a href="/f/136">The Lounge<span class="linkSpan"></span></a><br></div>
+   <div class="linkContainer">-&nbsp;<a href="/f/137">Teaching Center<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>The Castle</b></div>
-<div style="padding-top:3px;padding-bottom:10px">   <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=20">Entrance Hall<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=1">Great Hall<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=40">Student Hangout<span class="linkSpan"></span></a><br></div>
+<div style="padding-top:3px;padding-bottom:10px">   <div class="linkContainer">-&nbsp;<a href="/f/20">Entrance Hall<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/1">Great Hall<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/40">Student Hangout<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/commonroom.php">Common Room<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/library/">The Library<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=22">Hospital Wing<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/22">Hospital Wing<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>The Grounds</b></div>
-<div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=17">Main Yard<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=27">Quidditch Pitch<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=34">Hogwarts Express<span class="linkSpan"></span></a><br></div>
+<div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/f/17">Main Yard<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/27">Quidditch Pitch<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/34">Hogwarts Express<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Subsidiaries</b></div>
 <div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="http://dp.hexrpg.com" target="_blank">Daily Prophet<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="http://quibbler.hexrpg.com/" target="_blank">The Quibbler<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="http://witchweekly.hexrpg.com/" target="_blank">Witch Weekly<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="http://whisperer.hexrpg.com" target="_blank">The Whisperer<span class="linkSpan"></span></a><br></div> 
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Economy</b></div>
-<div style="padding-top:3px;padding-bottom:10px">   <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=30">Diagon Alley<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=21">Hogsmeade<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=38">Knockturn Alley<span class="linkSpan"></span></a><br></div>
+<div style="padding-top:3px;padding-bottom:10px">   <div class="linkContainer">-&nbsp;<a href="/f/30">Diagon Alley<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/21">Hogsmeade<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/38">Knockturn Alley<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/ads.php">Advertisements<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/auctions/">Auctions<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/trading/">Trading<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/lottery/">Lottery<span class="linkSpan"></span></a> <br></div>
+  <div class="linkContainer">-&nbsp;<a href="/lottery/">Lottery<span class="linkSpan"></span></a>  <br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Classes</b></div>
 <div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/class/">Announcements<span class="linkSpan"></span></a><br></div>
   <div class="linkContainer">-&nbsp;<a href="/class/classroom.php">Classrooms<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=9">Faculty Lounge<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/9">Faculty Lounge<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Books and Movies</b></div>
-<div style="padding-top:3px;padding-bottom:10px"> <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=159">DH Part 2<span class="linkSpan"></span>  <img src="/forum/images/sidebar_dh.png" width="15" height="13" alt="" border="0"></a>  <br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=503">Book Discussion<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=155">Film Discussion<span class="linkSpan"></span></a> *<br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=37">Magical Theories<span class="linkSpan"></span></a><br></div>
+<div style="padding-top:3px;padding-bottom:10px"> <div class="linkContainer">-&nbsp;<a href="/f/159">DH Part 2<span class="linkSpan"></span></a>  <br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/503">Book Discussion<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/155">Film Discussion<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/37">Magical Theories<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Get Involved</b></div>
-<div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=12">Ideas &amp; Suggestions<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=51">Arts &amp; Graphics<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=15">Contest Forum<span class="linkSpan"></span></a><br></div>
-  <div class="linkContainer">-&nbsp;<a href="/forum/index.php?forum=16">Questions<span class="linkSpan"></span></a><br></div>
+<div style="padding-top:3px;padding-bottom:10px">  <div class="linkContainer">-&nbsp;<a href="/f/12">Ideas &amp; Suggestions<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/51">Arts &amp; Graphics<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/15">Contest Forum<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/f/16">Questions<span class="linkSpan"></span></a><br></div>
 </div><div style="padding-bottom: 5px; border-bottom: 1px solid; width: 140px;" class="navline"><b>Your Items</b></div>
 
 <div style="padding-top:3px;padding-bottom:10px"> <div class="linkContainer">-&nbsp;<a href="/inventory.php">Inventory<span class="linkSpan"></span></a><br></div>
+  <div class="linkContainer">-&nbsp;<a href="/inventory_quick.php">Quick Inventory<span class="linkSpan"></span></a><br></div>
  <div class="linkContainer">-&nbsp;<a href="/store/store_edit.php">Store<span class="linkSpan"></span></a><br></div>
  <div class="linkContainer">-&nbsp;<a href="/pets/">Pets<span class="linkSpan"></span></a><br></div>
  <div class="linkContainer">-&nbsp;<a href="/cards/index.php">Wizard Cards<span class="linkSpan"></span></a><br></div>
-</div><script type="text/javascript">
-<!--
-function check(){
-	if (document.getElementById('search').value == ''){
-	 alert('Please fill out a value.');
-	 return false;
-	}
-	if (document.getElementById('option1').checked == 0){
-	 	if (document.getElementById('option2').checked == 0){
-	 alert('Please select an option.');
-	 return false;
-	 }
-	}
-	return true;
-}
-// -->
-</script>
-
-<b>
-<form method="post" action="/searchtype.php" onsubmit="return check()">
-<input type="text" name="search" size="15" class="btn2" id="search"><br>
+</div><b>
+<form method="post" action="/searchtype.php">
+<input type="text" name="search" size="15" class="btn2"><br>
 <div id="various_text">
-<input type="radio" name="stype" value="user" class="btn2" id="option1">  User Search<br>
-<input type="radio" name="stype" value="owl" class="btn2" id="option2">  Owl Search<br>
+<input type="radio" name="stype" value="User" class="btn2" id="option1" checked="true">  <label for="option1">User Search</label><br>
+<input type="radio" name="stype" value="Item" class="btn2" id="option2">  <label for="option2">Owl Search</label><br>
 </div>
 <br>
 <input type="submit" value="Find" class="btn2"></form>
@@ -170,21 +268,20 @@ google_color_url = "bad8e4";
 </script>
 </div><div style="position:absolute;left:177px;top:135px"><table border="0" width="385">
 	<tbody><tr><td>
-	<a href="/login.php" class="toplinks">Login</a> - <a href="/enrollment.php" class="toplinks">Enroll</a> *  - <a href="/whyjoin.php" class="toplinks">Why Enroll?</a>  - <a href="/terms.php" class="toplinks">Terms</a> *  -  <a href="/contact.php" class="toplinks">Contact</a><div id="date">Sunday, November 20, 2011 09:15:57 pm</div>
+	<a href="/login.php" class="toplinks">Login</a> - <a href="/enrollment.php" class="toplinks">Enroll</a> *  - <a href="/whyjoin2.php" class="toplinks">Why Enroll?</a>  - <a href="/terms.php" class="toplinks">Terms</a> *  -  <a href="/contact.php" class="toplinks">Contact</a><div id="date">Friday, May 25, 2012 07:29:50 am</div>
 	</td></tr></tbody></table></div><div style="position:absolute;left:570px;top:135px; z-index: 1;"><table width="420" border="0">
     <tbody><tr>
         <td align="right">
-            <div id="members_online">
+            <div id="members_online" onclick="location.href='/map.php';" style="cursor:pointer;">
                 <b>
-                    <font color="#FFCC00"> 374 members online</font>
+                     126 members online
                 </b>
             </div>
 			<!--
             <a href="http://www.darkmark.com" target="_blank">Dark Mark</a>  |
             <a href="http://thegoldenwand.com" target="_blank">The Golden Wand</a>
-			-->
-            <a href="/forum/index.php?forum=33">Return from the Dead</a> |             
-            <a href="/forum/index.php?forum=20">HEX Idol</a>
+			-->         
+            <a href="/f/33">McGonagall's Tail</a> | <a href="/f/20">HEX Idol</a>
         </td>
     </tr>
 </tbody></table>
@@ -239,10 +336,10 @@ If this policy is modified, a news post will be made on the main page or an aste
 <table><tbody><tr><td><font size="-2"><a href="/about.php"><b>About</b></a> • <a href="/terms.php"><b>Terms</b></a>  • <a href="/bullying.php"><b>Bullying</b></a> • <a href="/terms.php?view=pp"><b>Privacy Policy</b></a> • <a href="/terms.php?view=coppa"><b>COPPA Policy</b></a> • <a href="/terms.php?view=credits"><b>Credits</b></a> • <a href="/contact.php"><b>Contact</b></a> • <a href="/multiples.php"><b>Multiples</b></a> • <a href="/sitemap.php"><b>Site Map</b></a> </font> <br><br> 
 <center><font size="-2"><a href="http://www.darkmark.com" target="_blank">Dark Mark</a>  |
             <a href="http://thegoldenwand.com" target="_blank">The Golden Wand</a> </font></center><br><br><font size="1">
-Copyright © 2001-2011 HEXRPG. All rights reserved.
+Copyright © 2001-2012 HEXRPG. All rights reserved.
 <br><br>
 <!-- All scripts, images, and content belong to Hogwarts Extreme. <br>  -->
-Hogwarts Extreme is an independent Harry Potter fan website.<br>
+Hogwarts Extreme is an independent fan website.<br>
 Images, contents, Harry Potter © Warner Brothers, J.K. Rowling, and/or their respective owners.<br>
 User content on this website is credited to the individuals. <br><br>
 <br>
