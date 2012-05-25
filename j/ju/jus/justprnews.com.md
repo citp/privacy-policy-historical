@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125134127id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525084624id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Just PR News
 
@@ -46,12 +46,6 @@ Thanks for visiting justprnews.com.
 
 #### Incoming search terms:
 
-  * easyra1n scam (31)
-  * powered by myBB general wire (5)
-  * easyra1n scam? (2)
-  * easyra1n fraud (1)
-  * easyra1n fraude? (1)
-  * www justprnews com contact mail id (1)
-  * wymSubmit a New Story (1)
+  * easyra1n scam (56)
 
 
