@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123214256id_/http%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526013402id_/http%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | | Live the DreamLive the Dream
-
-## [Privacy Policy](http://www.livethedreamevent.com/privacy/ "Permalink to Privacy Policy")
-
-[July 28, 2010](http://www.livethedreamevent.com/privacy/ "12:03 am") by [todd](http://www.livethedreamevent.com/author/todd/ "View all posts by todd")
+# Privacy Policy | Live the Dream | Creating Tomorrow's Leaders Today
 
 This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
@@ -30,8 +26,6 @@ Upwards Enterprises, LLC
 Los Angeles, California 90069
 
 This privacy policy is effective as of May 1, 2009.
-
-[1,459 Comments](http://www.livethedreamevent.com/privacy/#comments "Comment on Privacy Policy")
 
 © 2008-2011 Upward Enterprises, LLC. All Rights Reserved.
 
