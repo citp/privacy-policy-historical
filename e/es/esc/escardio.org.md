@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119114624id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525044441id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # ESC | About the ESC | How we work | ESC Policies | ESC Privacy and Data Security Policy
 
@@ -129,14 +129,14 @@ If you want to know exactly what personal information the ESC holds on you, you 
 
 
 
-> > European Society of Cardiology - Data Privacy  
->  2035 route des Colles  
->  Les Templiers  
->  BP179  
->  06903 Sophia Antipolis Cedex  
->  France
+European Society of Cardiology - Data Privacy  
+2035 route des Colles  
+Les Templiers  
+BP179  
+06903 Sophia Antipolis Cedex  
+France
 
-### Data security
+Data security
 
 To protect your information, the ESC uses an industry standard security protocol called Secure Sockets Layer (SSL) to encrypt the transmission of sensitive information between you and our website. 
 
