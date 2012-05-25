@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112050803id_/http%3A//www.shell.com.ng/home/content/nga/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526013248id_/http%3A//www.shell.com.ng/home/content/nga/footer/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nigeria
+# Privacy Policy | Nigeria
 
 ###  What does this privacy policy cover? 
 
