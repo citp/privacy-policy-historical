@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125221135id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201628id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ToolGuyd
 
@@ -16,9 +16,15 @@ Should you send us an email directly or via our [contact us](http://toolguyd.co
 
 If you subscribe to any of our email lists, your email address will be collected. Your email address will be shared with Google, since we use their Feedburner service to deliver emails to these lists. You may opt-out of such lists at any time.
 
+**Comments**
+
+In order to leave a comment, you are asked to enter your name, which will be displayed with your comment, and your email address, which is not shared and is only used if we need to contact you on a case by case basis such as to answer a question.
+
+We do collect IP addresses when you leave a comment, but such information is not shared with any external party. This information is collected for three reasons – to prevent spam, to ensure that giveaways are fair and that readers don’t enter multiple times under different aliases, and to catch corporate shills that hype-up their brands’ products.
+
 **Logs**
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and the pages you visited throughout our site. IP addresses may also be collected whenever a comment or email is submitted to us via the comment or contact form interface.
+As with most other websites, we collect and use the data contained in server log files. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and the pages you visited throughout our site. IP addresses may also be collected whenever a comment or email is submitted to us via the comment or contact form interface.
 
 **Cookies and Web Beacons**
 
@@ -38,4 +44,4 @@ While we periodically review the privacy policies of all third parties that may 
 
 If you have any questions or concerns about your privacy, please feel free to [contact us](http://toolguyd.com/contact-us/).
 
-Updated Mar 13 2009
+Updated May 1st, 2012.
