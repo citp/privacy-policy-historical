@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125110512id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081455id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeSiteNews.com
 
 ### Privacy Policy
 
-LifeSiteNews.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.  
+LifeSiteNews.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
+
 LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alternative to the mainstream news media. Every day we gather the most important news on life and family issues from Canada, the U.S. and around the world. We give you the truth that is usually not available from your local media. 
 
 The registration process is used to tailor the news sent to your email address. See “Use of Registration Information” below.
@@ -32,9 +33,6 @@ We do not collect or use any online contact information or identifiable off-line
 
 
 **Subscribe/Unsusbscribe**
-
-LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing list, please go to the unsubscribe page:   
-[ http://www.lifesitenews.com/ldn/unsubscribe/](http://www.lifesitenews.com/ldn/unsubscribe/)
 
 **Correct/Update Personal Information**
 
