@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125043617id_/http%3A//www.bobvila.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201229id_/http%3A//www.bobvila.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Bob Vila : Trusted Home Renovation & Repair Expert
 
@@ -47,7 +47,6 @@ We will use your Personal Information in the ways described below or described a
 
 
 
-  
 **Cookies, Web Beacons and Log Information.**   We use cookies, web beacons, log information and IP addresses in the ways described above and below. 
 
   * “Cookies” are small pieces of information that a website attaches to your browser when you visit a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until deleted) to provide you with a more personal and interactive experience with the Site.  We do not store Personal Information in any Cookies on your computer.  Persistent Cookies can be removed by following your Internet browser’s directions within the help tab.  In order to use certain aspects of the Site, your web browser must accept Cookies.  If you choose to disable Cookies, some aspects of the Site may not work properly.  
@@ -74,7 +73,7 @@ We realize how important it is to keep your Personal Information confidential. 
 
 **Children’s Information**
 
-The Site is not directed or intended for children under 13 years of age.  We do not knowingly collect Personal Information from individuals under 13 years of age.  If you are under 13 years of age, you should not register or provide Personal Information on the Site.  If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s Personal Information from our systems.  If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us so that we may delete and remove your child’s information from our systems. 
+The Site is not directed or intended for children under 13 years of age.  We do not knowingly collect Personal Information from individuals under 13 years of age.  If you are under 13 years of age, you should not register or provide Personal Information on the Site.  If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s Personal Information from our systems.  If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please [contact us](http://www.bobvila.com/contacts "http://www.bobvila.com/contacts") so that we may delete and remove your child’s information from our systems. 
 
 **Updating and Control of Your Personal Information**
 
