@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beplayed.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223132455id_/http%3A//beplayed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beplayed.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081359id_/http%3A//beplayed.com/privacy.html) for the most accurate reproduction.*
 
 # BePlayed WEB SITE PRIVACY STATEMENT
 
@@ -35,6 +35,6 @@ To provide relevant information not found on our Web site, BePlayed may provide 
 Any personal information that you disclose while visiting any of our websites is collected by BePlayed, and is used in the manner specified above.
 
 **Questions and Complaints**  
-If you have any questions, complaints or comments regarding our Privacy Policy Statement, [please contact us](http://www.beplayed.com/contact/).
+If you have any questions, complaints or comments regarding our Privacy Policy Statement, [please contact us](http://www.beplayed.com/contact.html).
 
 By using this site, you signify your assent to the BePlayed Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
