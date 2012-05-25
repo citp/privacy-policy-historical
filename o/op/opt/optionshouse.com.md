@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123181904id_/http%3A//www.optionshouse.com/risk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525032336id_/http%3A//www.optionshouse.com/risk/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy | OptionsHouse Brokerage 2.0
 
@@ -192,7 +192,7 @@ Penson strives to ensure that their systems are secure and that they meet indust
 
 
 
-You may access your account information through a variety of media offered by OptionsHouse and Penson (i.e. statements or online services). Please contact OptionsHouse at [customerservice@OptionsHouse.com](https://web.archive.org/web/20111123181904id_/http%3A//www.optionshouse.com/risk/customerservice@OptionsHouse.com) if you require any additional information.
+You may access your account information through a variety of media offered by OptionsHouse and Penson (i.e. statements or online services). Please contact OptionsHouse at [customerservice@OptionsHouse.com](https://web.archive.org/web/20120525032336id_/http://www.optionshouse.com/risk/privacy/customerservice@OptionsHouse.com) if you require any additional information.
 
   * Changes to Penson's Privacy Policy
 
