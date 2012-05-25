@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benlakhal.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125005534id_/http%3A//www.benlakhal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benlakhal.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525093817id_/http%3A//www.benlakhal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BenLakhal.com Valid PR3 Link Directory - Privacy Policy
 
