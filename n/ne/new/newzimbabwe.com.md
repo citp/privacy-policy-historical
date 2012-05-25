@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newzimbabwe.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126094123id_/http%3A//www.newzimbabwe.com/terms/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzimbabwe.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526005622id_/http%3A//www.newzimbabwe.com/terms/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Video news and interviews: The latest news, showbiz and sports videos
 
-We, New Zimbabwe Media Ltd; [www.newzimbabwe.com](http://www.newzimbabwe.com/), (also known as "Newzim", "New Zimbabwe", "New Zimbabwe Group", "NZML" or any other name that maybe used now or in future to refer to the brand) are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+We, New Zimbabwe Media Ltd; [ www.newzimbabwe.com](http://www.newzimbabwe.com/), (also known as "Newzim", "New Zimbabwe", "New Zimbabwe Group", "NZML" or any other name that maybe used now or in future to refer to the brand) are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
 Collection Of Information 
 
@@ -14,13 +14,13 @@ We will only collect personal information from you (such as name, address, telep
 
 Examples of where we may collect and your personal information include (without limitation):
 
-| (a)| information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views)  
+|  (a)  |  information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views)   
 ---|---  
-(b)| If you order a product or service from us we may ask for information including your name, e-mail address, delivery and billing address. We do not collect or keep any of your financial information. Sometimes we may ask for your telephone number to be forwarded to the couriers who may deliver your order. These details allow us to process your orders efficiently.  
-(c)|  information that you provide to us for the purpose of registering with us including details  
-(d)|  information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters including details  
-(e)| If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email management@newzimbabwe.com to ask that it be deleted.  
-(f)| any other information that you choose to send to us; and other details  
+(b)  |  If you order a product or service from us we may ask for information including your name, e-mail address, delivery and billing address. We do not collect or keep any of your financial information. Sometimes we may ask for your telephone number to be forwarded to the couriers who may deliver your order. These details allow us to process your orders efficiently.   
+(c)  |  information that you provide to us for the purpose of registering with us including details   
+(d)  |  information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters including details   
+(e)  |  If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email management@newzimbabwe.com to ask that it be deleted.   
+(f)  |  any other information that you choose to send to us; and other details   
   
 Cookies
 
@@ -34,7 +34,7 @@ We use Google Analytics to analyse the use of this website. Google Analytics gen
 
 Our advertisers/payment services providers may also send you cookies.
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html>. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>
+We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: [ http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/). You can opt-out of the Adsense partner network cookie at: [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html). However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
@@ -44,18 +44,18 @@ Personal data submitted on this website will be used for the purposes specified 
 
 We may use your personal information to:
 
-(a)| administer the website;  
+(a)  |  administer the website;   
 ---|---  
-(b)| improve your browsing experience by personalising the website;  
-(c)| enable your use of the services available on the website;  
-(d)| send to you goods purchased via the website, and supply to you services purchased via the website  
-(e)| send statements and invoices to you, and collect payments from you;  
-(f)| send you general (non-marketing) commercial communications;  
-(g)| send you email notifications which you have specifically requested  
-(h)| send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology you can inform us at any time if you no longer require marketing communications  
-(i)| provide third parties with statistical information about our users – but this information will not be used to identify any individual user;  
-(j)| deal with enquiries and complaints made by or about you relating to the website; and  
-(k)| other uses.  
+(b)  |  improve your browsing experience by personalising the website;   
+(c)  |  enable your use of the services available on the website;   
+(d)  |  send to you goods purchased via the website, and supply to you services purchased via the website   
+(e)  |  send statements and invoices to you, and collect payments from you;   
+(f)  |  send you general (non-marketing) commercial communications;   
+(g)  |  send you email notifications which you have specifically requested   
+(h)  |  send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology you can inform us at any time if you no longer require marketing communications   
+(i)  |  provide third parties with statistical information about our users – but this information will not be used to identify any individual user;   
+(j)  |  deal with enquiries and complaints made by or about you relating to the website; and   
+(k)  |  other uses.   
   
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
@@ -69,11 +69,11 @@ We may disclose information about you to any of our employees, officers, agents,
 
 In addition, we may disclose information about you: 
 
-(a)| to the extent that we are required to do so by law;  
+(a)  |  to the extent that we are required to do so by law;   
 ---|---  
-(b)| in connection with any legal proceedings or prospective legal proceedings;  
-(c)| in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and  
-(d)| to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.  
+(b)  |  in connection with any legal proceedings or prospective legal proceedings;   
+(c)  |  in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and   
+(d)  |  to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.   
   
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
@@ -126,9 +126,11 @@ If you have any questions about this privacy policy or our treatment of your per
 [management@newzimbabwe.com](mailto:management@newzimbabwe.com)
 
 **New Zimbabwe Media Ltd  
-596A Kingsbury Road  
-Birmingham  
-B24 9PJ  
+Bromsgrove Business Centre  
+57 High Street  
+Bromsgrove  
+Worcestershire  
+B61 8AJ  
 **
 
 Data controller
