@@ -1,0 +1,2111 @@
+<!--The following is the downloaded HTML source of the classestoedu.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525101227id_/http%3A//www.classestoedu.com/privacy-policy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8">
+<title>classetoedu</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/chrome.js"></script>
+<script type="text/javascript" src="simpletreemenu.js"></script>
+<link rel="stylesheet" type="text/css" href="simpletree.css">
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+
+
+<script language="javascript">
+function validate()
+{
+	if(document.requestForm.campus.selectedIndex == '')
+	{
+	
+			alert("Please Select Campus.");
+			document.requestForm.campus.focus();
+			return false;
+
+	}
+	if(document.requestForm.program.selectedIndex == '')
+	{
+	
+			alert("Please Select Program.");
+			document.requestForm.program.focus();
+			return false;
+
+	}
+
+	return true;
+}
+</script>
+
+<script language="javascript">
+function validate1()
+{
+	if(document.f1.zipCode.value=='')
+		{
+			alert("Please Enter Your Zip Code.");
+			document.f1.zipCode.focus();
+			return false;
+		}
+	if(isNaN(document.f1.zipCode.value))
+		{
+			alert("Zip Code must be Numeric.");
+			document.f1.zipCode.focus();
+			return false;
+		}
+
+	if(document.f1.zipCode.value.length<5)
+		{
+			alert("Zip Code must be 5 digit.");
+			document.f1.zipCode.focus();
+			return false;
+		}
+
+	return true;
+}
+</script>
+
+<script>
+var regiondb = new Object()
+
+
+
+
+regiondb["Art & Design"] = [{value:"Fashion", text:"Fashion"},
+{value:"Film &amp; Television", text:"Film &amp; Television"},
+{value:"Fine Art &amp; Craft", text:"Fine Art &amp; Craft"},
+{value:"Graphic Design", text:"Graphic Design"},
+{value:"Interior Design", text:"Interior Design"},
+{value:"Multimedia &amp; Web Design", text:"Multimedia &amp; Web Design"},
+{value:"Music", text:"Music"},
+{value:"Photography", text:"Photography"},
+{value:"Theater Arts", text:"Theater Arts"}];
+
+
+
+
+
+regiondb["Business"] = [{value:"Accounting", text:"Accounting"},
+{value:"Business (General)", text:"Business (General)"},
+{value:"Business Administration", text:"Business Administration"},
+{value:"Customer Service", text:"Customer Service"},
+{value:"E-Commerce", text:"E-Commerce"},
+{value:"Entrepreneurship", text:"Entrepreneurship"},
+{value:"Finance", text:"Finance"},
+{value:"Human Resources", text:"Human Resources"},
+{value:"Insurance &amp; Risk Management", text:"Insurance &amp; Risk Management"},
+{value:"International Business", text:"International Business"},
+{value:"Management &amp; Leadership", text:"Management &amp; Leadership"},
+{value:"Marketing &amp; Advertising", text:"Marketing &amp; Advertising"},
+{value:"Office Administration", text:"Office Administration"},
+{value:"Operations Management", text:"Operations Management"},
+{value:"Organizational Psychology", text:"Organizational Psychology"},
+{value:"Project Management", text:"Project Management"},
+{value:"Public Relations", text:"Public Relations"},
+{value:"Real Estate", text:"Real Estate"},
+{value:"Retail &amp; Sales", text:"Retail &amp; Sales"},
+{value:"Sports Management", text:"Sports Management"}];
+
+
+
+
+
+regiondb["Education"] = [{value:"Adult Education", text:"Adult Education"},
+{value:"Assessment &amp; Evaluation", text:"Assessment &amp; Evaluation"},
+{value:"Child Development", text:"Child Development"},
+{value:"Corporate Training", text:"Corporate Training"},
+{value:"Curriculum Design", text:"Curriculum Design"},
+{value:"Distance Education", text:"Distance Education"},
+{value:"Early Childhood Education", text:"Early Childhood Education"},
+{value:"Education (General)", text:"Education (General)"},
+{value:"Educational Administration", text:"Educational Administration"},
+{value:"Educational Technology", text:"Educational Technology"},
+{value:"ESL", text:"ESL"},
+{value:"Higher Education", text:"Higher Education"},
+{value:"K-12 Education", text:"K-12 Education"},
+{value:"Literacy &amp; Reading", text:"Literacy &amp; Reading"},
+{value:"Physical &amp; Health Education", text:"Physical &amp; Health Education"},
+{value:"Special Education", text:"Special Education"},
+{value:"Teacher Aide", text:"Teacher Aide"},
+{value:"Teaching License", text:"Teaching License"}];
+
+
+
+
+
+
+regiondb["Engineering & Construction"] =[{value:"Architecture &amp; Landscape Design", text:"Architecture &amp; Landscape Design"},
+{value:"Civil Engineering", text:"Civil Engineering"},
+{value:"Computer &amp; Software Engineering", text:"Computer &amp; Software Engineering"},
+{value:"Construction", text:"Construction"},
+{value:"Electrical Engineering", text:"Electrical Engineering"},
+{value:"Engineering (General)", text:"Engineering (General)"},
+{value:"Engineering Management", text:"Engineering Management"},
+{value:"Industrial Engineering", text:"Industrial Engineering"},
+{value:"Material Engineering", text:"Material Engineering"},
+{value:"Mechanical Engineering", text:"Mechanical Engineering"},
+{value:"Quality Control &amp; Safety", text:"Quality Control &amp; Safety"},
+{value:"Systems Engineering", text:"Systems Engineering"}];
+
+
+
+
+
+regiondb["Health"] = [{value:"Alternative Medicine", text:"Alternative Medicine"},
+{value:"EMS &amp; Paramedic", text:"EMS &amp; Paramedic"},
+{value:"Gerontology", text:"Gerontology"},
+{value:"Health &amp; Medical Sciences", text:"Health &amp; Medical Sciences"},
+{value:"Health Care Administration", text:"Health Care Administration"},
+{value:"Health Education", text:"Health Education"},
+{value:"Laboratory", text:"Laboratory"},
+{value:"Medical &amp; Dental Assistant", text:"Medical &amp; Dental Assistant"},
+{value:"Medical Technology", text:"Medical Technology"},
+{value:"Nursing", text:"Nursing"},
+{value:"Nutrition", text:"Nutrition"},
+{value:"Pharmacy", text:"Pharmacy"},
+{value:"Physical Therapy", text:"Physical Therapy"},
+{value:"Physician Assistant", text:"Physician Assistant"},
+{value:"Psychology &amp; Mental Health", text:"Psychology &amp; Mental Health"},
+{value:"Public Health", text:"Public Health"},
+{value:"Radiologic Science", text:"Radiologic Science"},
+{value:"Respiratory Therapy", text:"Respiratory Therapy"},
+{value:"Sports and Fitness", text:"Sports and Fitness"}];
+
+
+
+
+regiondb["Hospitality & Culinary"] = [{value:"Baking &amp; Pastry", text:"Baking &amp; Pastry"},
+{value:"Catering", text:"Catering"},
+{value:"Culinary Arts", text:"Culinary Arts"},
+{value:"Event Planning", text:"Event Planning"},
+{value:"Hospitality Management", text:"Hospitality Management"},
+{value:"Le Cordon Bleu", text:"Le Cordon Bleu"},
+{value:"Travel &amp; Tourism", text:"Travel &amp; Tourism"}];
+
+
+
+
+regiondb["Law & Criminal Justice"] = [{value:"Corrections", text:"Corrections"},
+{value:"Court Reporting", text:"Court Reporting"},
+{value:"Crime Scene &amp; Forensics", text:"Crime Scene &amp; Forensics"},
+{value:"Criminal Justice", text:"Criminal Justice"},
+{value:"Homeland Security", text:"Homeland Security"},
+{value:"Investigation", text:"Investigation"},
+{value:"Law", text:"Law"},
+{value:"Paralegal &amp; Legal Services", text:"Paralegal &amp; Legal Services"},
+{value:"Public Safety", text:"Public Safety"},
+{value:"Security &amp; Loss Prevention", text:"Security &amp; Loss Prevention"}];
+
+
+
+
+regiondb["Liberal Arts & Humanities"] = [{value:"Art History", text:"Art History"},
+{value:"Communications &amp; Media", text:"Communications &amp; Media"},
+{value:"English", text:"English"},
+{value:"Ethnic Studies", text:"Ethnic Studies"},
+{value:"General Studies", text:"General Studies"},
+{value:"Language", text:"Language"},
+{value:"Liberal Arts", text:"Liberal Arts"},
+{value:"Religious Studies", text:"Religious Studies"},
+{value:"Writing", text:"Writing"}];
+
+
+
+
+regiondb["Science"] = [{value:"Aviation Science", text:"Aviation Science"},
+{value:"Biology", text:"Biology"},
+{value:"Chemistry", text:"Chemistry"},
+{value:"Environmental Science", text:"Environmental Science"},
+{value:"Mathematics &amp; Statistics", text:"Mathematics &amp; Statistics"},
+{value:"Physics", text:"Physics"},
+{value:"Veterinary Science &amp; Animal Care", text:"Veterinary Science &amp; Animal Care"}];
+
+
+
+regiondb["Social Science"] = [{value:"Anthropology", text:"Anthropology"},
+{value:"Behavioral Science", text:"Behavioral Science"},
+{value:"Conflict Resolution &amp; Mediation", text:"Conflict Resolution &amp; Mediation"},
+{value:"Economics", text:"Economics"},
+{value:"Geography", text:"Geography"},
+{value:"History", text:"History"},
+{value:"International Relations", text:"International Relations"},
+{value:"Political Science", text:"Political Science"},
+{value:"Psychology &amp; Behavior", text:"Psychology &amp; Behavior"},
+{value:"Public Policy &amp; Administration", text:"Public Policy &amp; Administration"},
+{value:"Social Sciences", text:"Social Sciences"},
+{value:"Social Work &amp; Human Services", text:"Social Work &amp; Human Services"},
+{value:"Sociology", text:"Sociology"}];
+
+
+
+
+regiondb["Technology & IT"] = [{value:"Computer &amp; Software Engineering", text:"Computer &amp; Software Engineering"},
+{value:"Computer Programming", text:"Computer Programming"},
+{value:"Computer Science", text:"Computer Science"},
+{value:"Graphics &amp; Multimedia", text:"Graphics &amp; Multimedia"},
+{value:"Information Systems", text:"Information Systems"},
+{value:"Information Systems Security", text:"Information Systems Security"},
+{value:"Information Technology", text:"Information Technology"},
+{value:"Network Administration", text:"Network Administration"},
+{value:"Security", text:"Security"},
+{value:"Technical Management", text:"Technical Management"},
+{value:"Technical Support &amp; Repair", text:"Technical Support &amp; Repair"},
+{value:"Telecommunications", text:"Telecommunications"},
+{value:"Vendor Certifications", text:"Vendor Certifications"},
+{value:"Video Game Development", text:"Video Game Development"},
+{value:"Web Design", text:"Web Design"},
+{value:"Web Development", text:"Web Development"}];
+
+
+
+regiondb["Vocational"] = [{value:"Applied Technology", text:"Applied Technology"},
+{value:"Automotive and Vehicle", text:"Automotive and Vehicle"},
+{value:"Aviation", text:"Aviation"},
+{value:"Beauty &amp; Cosmetology", text:"Beauty &amp; Cosmetology"},
+{value:"Computer &amp; Appliance Repair", text:"Computer &amp; Appliance Repair"},
+{value:"Electrician", text:"Electrician"},
+{value:"HVAC", text:"HVAC"},
+{value:"Plumbing", text:"Plumbing"},
+{value:"Transportation", text:"Transportation"},
+{value:"Welding", text:"Welding"}];
+
+function setCities(chooser) {
+    var newElem;
+    var where = (navigator.appName == "Microsoft Internet Explorer") ? -1 : null;
+    var cityChooser = chooser.form.elements["program"];
+    while (cityChooser.options.length) {
+        cityChooser.remove(0);
+    }
+    var choice = chooser.options[chooser.selectedIndex].value;
+    var db = regiondb[choice];
+    newElem = document.createElement("option");
+    newElem.text = "Choose a Program:";
+    newElem.value = "";
+    cityChooser.add(newElem, where);
+    if (choice != "") {
+        for (var i = 0; i < db.length; i++) {
+            newElem = document.createElement("option");
+            newElem.text = db[i].text;
+            newElem.value = db[i].value;
+            cityChooser.add(newElem, where);
+        }
+    }
+}				  
+</script>					  
+
+</head>
+
+<body onload="MM_preloadImages('images/home_nav_hover.gif','images/about_nav_hover.gif','images/contact_nav_hover.gif')">
+<!--header pannel start -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top" class="header"><table width="939" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="center" valign="top" class="header_img"><table width="939" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="471" align="left" valign="top"><table width="351" border="0" cellspacing="0" cellpadding="0" class="logo_gap">
+      <tbody><tr>
+        <td align="left" valign="top"><a href="#"><img src="images/logo.gif" alt="classestoedu" border="0" title="classestoedu"></a></td>
+      </tr>
+    </tbody></table></td>
+    <td align="left" valign="top"><table width="375" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="375" border="0" cellspacing="0" cellpadding="0" class="nav_gap">
+  <tbody><tr>
+    <td width="116" align="left" valign="top"><a href="default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','images/home_nav_hover.gif',1)"><img src="images/home_nav.gif" name="Image34" width="116" height="26" border="0" id="Image34" title="Home" alt="Home"></a></td>
+    <td width="14" align="left" valign="top">&nbsp;</td>    <td width="116" align="left" valign="top"><a href="about-us.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','images/about_nav_hover.gif',1)"><img src="images/about_nav.gif" name="Image35" width="116" height="25" border="0" id="Image35" alt="About Us" title="About Us"></a></td>
+    <td width="13" align="left" valign="top">&nbsp;</td>
+    <td width="116" align="left" valign="top"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','images/contact_nav_hover.gif',1)"><img src="images/contact_nav.gif" name="Image36" width="116" height="25" border="0" id="Image36" alt="Contact Us" title="Contact Us"></a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+<!--header pannel end -->
+<!--body pannel start -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top" class="body_bg"><table width="939" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="939" border="0" cellspacing="0" cellpadding="0">
+	<!--nav pannel start -->
+  <tbody><tr>
+    <td align="left" valign="top">
+
+
+			<style type="text/css">
+/* css  for drop down top menu  */
+	
+	/*start of 1*/
+	
+.dropmenudiv{
+padding:0;
+margin:0;
+position:absolute;
+font:normal 11px/19px Arial, Helvetica, sans-serif;
+z-index:100;
+top:0;
+color:#fff;
+background:#98AC1A;
+width:600px;
+visibility:hidden;
+border:solid 1px #627B00;
+}
+
+
+	/* end anchoring li Css*/
+	/*end of 1*/
+	
+	/*start of 2*/
+.dropmenudiv02{
+position:absolute;
+font:normal 11px/19px Arial, Helvetica, sans-serif;
+z-index:100;
+color:#fff;
+background:#98AC1A;
+width:200px;
+visibility:hidden;
+margin:0 0 0 0;
+padding:0 0 0 0;
+border:solid 1px #627B00;
+}
+
+	/*end of 2*/
+	
+	
+
+
+	/*start of 3*/
+	
+.dropmenudiv055{
+position:absolute;
+font:normal 11px/19px Arial, Helvetica, sans-serif;
+z-index:100;
+top:0;
+color:#fff;
+background:#98AC1A;
+width:500px;
+visibility:hidden;
+margin:0 0 0 0;
+padding:0 0 0 0;
+border:solid 1px #627B00;
+}
+
+	/*end of 3*/
+	
+	
+	/*start of 4*/
+	
+.dropmenudiv66{
+position:absolute;
+font:normal 11px/19px Arial, Helvetica, sans-serif;
+z-index:100;
+color:#fff;
+background:#98AC1A;
+width:300px;
+visibility:hidden;
+margin:0 0 0 0;
+padding:0 0 0 0;
+border:solid 1px #627B00;
+}
+
+
+ul.digital{
+	padding:0 0 0 0;
+	margin: 0 0 0 0;
+	}
+ul.digital li{
+	background-color:#A7C82A ;
+	border-bottom:solid 1px #627B00;
+	list-style-type:none;
+	}
+ul.digital li a{
+	font:bold 12px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	display:block;
+	padding:0 0 0 10px;
+	}
+ul.digital li a:hover{
+	font:bold 12px/20px Arial, Helvetica, sans-serif;
+	background-color:#748606;
+	padding:0 0 0 10px;
+	}
+	
+/* anchoring li Css */
+ul.digital01{
+	padding:0px;
+	margin:0px;
+	}
+ul.digital01 li{
+	margin:0;
+	padding:0;
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding:0 0 0 0;
+	list-style-type:none;
+	}
+ul.digital01 li a{
+	margin:0;
+	padding:0;
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding:0 10px 0 10px;
+	}
+ul.digital01 li a:hover{
+	margin:0;
+	padding:0;
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	background-color:#748606;
+	padding:0 10px 0 10px;
+}
+.mid_border{
+	border-right:solid 1px #fff;
+	}
+
+/*end of 4*/
+
+
+</style>
+
+
+
+
+
+
+<table width="939" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top" class="nav_border">
+	<div id="chromemenu">
+	<ul class="nav">
+	<li><a href="default.asp">Home</a></li>          
+	<li><a href="online-degrees.asp" rel="dropmenu1" title="Online&nbsp;Degrees">Online&nbsp;Degrees <img src="images/down.gif" border="0" width="1" height="1" style="display:none;"></a></li>           
+	<li><a href="#" rel="dropmenu2" title="Campus&nbsp;Schools">Campus&nbsp;Schools <img src="images/down.gif" border="0" width="1" height="1" style="display:none;"></a></li>           
+	<li><a href="#" rel="dropmenu3" title="Education&nbsp;Resources">Education&nbsp;Resources <img src="images/down.gif" border="0" width="1" height="1" style="display:none;"></a></li>           
+	<li><a href="#" rel="dropmenu4" title="Career&nbsp;Resources">Career&nbsp;Resources <img src="images/down.gif" border="0" width="1" height="1" style="display:none;"></a></li>           
+	<li class="noimge"><a href="#" title="Military">Military</a></li> 
+	</ul>
+	
+	</div>
+	
+	
+	
+	<!--menu start 01 -->
+	
+	
+	<div id="dropmenu1" class="dropmenudiv">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	
+	<ul class="digital">
+<li><a href="degree-by-level.asp">Degrees by Level</a></li>
+</ul>
+	
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+				<ul class="digital01">
+				<li><a href="online-associates-degrees.asp">Associate</a></li>
+				<li><a href="online-bachelors-degrees.asp">Bachelor</a></li>
+				<li><a href="online-masters.asp">Masters</a></li>
+				<li><a href="online-mba.asp">MBA</a></li>
+				</ul>
+				</td>
+    <td align="left" valign="top">
+				<ul class="digital01">
+				<li><a href="online-doctorate-phd-degrees.asp">Doctorate / phd</a></li>
+				<li><a href="online-coursework.asp">Coursework</a></li>
+				<li><a href="online-certificate.asp">Certificate</a></li>
+				<li><a href="online-high-school-diploma.asp">High School Diploma</a></li>
+				
+				</ul>
+				</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+		<ul class="digital">
+<li><a href="guide-to-majors.asp">Online Education Guides</a></li>
+</ul>
+	
+	<ul class="digital01">
+				<li><a href="guide-to-majors.asp">Guide to Majors</a></li>
+				<li><a href="guide-to-master-degreesguide.asp">Guide to Master's Degress</a></li>
+				<li><a href="guide-to-doctorate-degrees.asp">Guide to Doctorate Degress</a></li>
+				</ul>
+	
+	
+	
+	</td>
+  </tr>
+    
+</tbody></table></td>
+    <td align="left" valign="top" class="mid_border">&nbsp;</td>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><ul class="digital">
+<li><a href="#">Degrees by Subject</a></li>
+</ul></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+				<ul class="digital01">
+				<li><a href="online-degrees-art-design.asp">Art &amp; Design</a></li>
+				<li><a href="online-degrees-business.asp">Business</a></li>
+				<li><a href="online-degrees-education.asp">Education</a></li>
+				<li><a href="online-degrees-engineering-construction.asp">Engineering &amp; Construction</a></li>
+				<li><a href="online-degrees-health.asp">Health</a></li>	
+				<li><a href="online-degrees-hospitality-culinary.asp">Hospitality &amp; Culinary</a></li>
+				</ul>	</td>
+    <td align="left" valign="top">
+		<ul class="digital01">
+			<li><a href="online-degrees-law-criminal-justice.asp">Law &amp; Criminal Justice</a></li>	
+			<li><a href="online-degrees-liberal-arts-humanities.asp">Liberal Arts &amp; Humanities</a></li>
+			<li><a href="online-degrees-science.asp">Science</a></li>
+			<li><a href="online-degrees-social-science.asp">Social Science</a></li>
+			<li><a href="online-degrees-technology-it.asp">Technology &amp; IT</a></li>
+			<li><a href="online-degrees-vocational.asp">Vocational</a></li>	   
+	   </ul>	   </td>
+  </tr>
+</tbody></table></td>
+  </tr>
+<tr>
+    <td align="left" valign="top">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	<ul class="digital">
+<li><a href="gonline-degrees-college-courses.asp">Online Courses</a></li>
+</ul>
+	
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	<ul class="digital01">
+				<li><a href="online-degrees-business-courses.asp">Business Courses</a></li>
+				<li><a href="online-degrees-career-training.asp">Career Training</a></li>
+				<li><a href="online-degrees-continuing-education.asp">Continuing Education</a></li>
+				</ul>
+	
+	</td>
+    <td align="left" valign="top">
+	<ul class="digital01">
+	<li><a href="online-degrees-language-courses.asp">Language Courses</a></li>
+				<li><a href="online-degrees-online-training.asp">Online Traning</a></li>
+				<li><a href="online-degrees-personal-development.asp">Personal Development</a></li>
+	</ul>
+	
+	</td>
+  </tr>
+</tbody></table>
+
+	</td>
+  </tr>
+</tbody></table>
+	
+	</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+</tbody></table>
+			</div>
+			<!--menu start 01 -->
+			
+			
+			
+			<!--menu start 02 -->
+	
+	
+	<div id="dropmenu2" class="dropmenudiv02">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+ <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><ul class="digital01">
+				<li><a href="california.asp">California</a></li>
+				<li><a href="texas.asp">Texas</a></li>
+				<li><a href="new-york.asp">New York</a></li>
+				<li><a href="florida.asp">Florida</a></li>
+				<li><a href="illinois.asp">Illinois</a></li>	
+				
+				</ul></td>
+    <td align="left" valign="top"><ul class="digital01">
+				<li><a href="georgia.asp">Georgia</a></li>
+				<li><a href="pennsylvania.asp">Pennsylvania</a></li>
+				<li><a href="new-jersey.asp">New Jersey</a></li>
+				<li><a href="virginia.asp">Virginia</a></li>
+				<li><a href="washington.asp">Washington</a></li>	
+				</ul></td>
+  </tr>
+</tbody></table></td>
+ </tr>
+ <tr>
+   <td align="center" valign="top">
+   <ul class="digital01">
+<li><a href="all-states.asp">All States</a></li>
+</ul>
+</td>
+ </tr>
+</tbody></table>
+			</div>
+			<!--menu start 02 -->
+			
+				<!--menu start 03 -->
+	
+	
+	<div id="dropmenu3" class="dropmenudiv055">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	
+	<ul class="digital">
+<li><a href="education-guidance.asp">Education Guidance</a></li>
+</ul>
+	
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+				<ul class="digital01">
+				<li><a href="find-the-right-program.asp">Find the Right Program</a></li>
+				<li><a href="maximize-online-learning.asp">Get the Most from Online Learning</a></li>
+				<li><a href="how-online-classrooms-work.asp">How Online Classrooms Work</a></li>
+				<li><a href="plan-your-graduate-study.asp">Plan Your Graduate Study</a></li>
+				<li><a href="find-career-happiness.asp">Find Career Happiness</a></li>
+				<li><a href="money-making-advice.asp">Money-Making Advice</a></li>
+				</ul>
+				</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+		<ul class="digital">
+<li><a href="education-advisor.asp">Education Advisor</a></li>
+</ul>
+	<ul class="digital01">
+				<li><a href="education-advisor-ask-the-professor.asp">Ask the Professor</a></li>
+				<li><a href="education-advisor-ask-the-recruiter.asp">Ask the Recruiter</a></li>
+				<li><a href="education-advisor-ask-the-veteran.asp">Ask the Veteran</a></li>
+				<li><a href="education-advisor-in-depth.asp">In-Depth Research</a></li>
+				<li><a href="education-advisor-questions-answered.asp">Questions Answered</a></li>
+				</ul>
+	
+	
+	</td>
+  </tr>
+</tbody></table></td>
+    <td align="left" valign="top" class="mid_border">&nbsp;</td>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td align="left" valign="top">
+		<ul class="digital">
+<li><a href="guide-to-majors.asp">Online Education Guides</a></li>
+</ul>
+	
+	<ul class="digital01">
+				<li><a href="guide-to-majors.asp">Guide to Majors</a></li>
+				<li><a href="guide-to-master-degreesguide.asp">Guide to Master's Degress</a></li>
+				<li><a href="guide-to-doctorate-degrees.asp">Guide to Doctorate Degress</a></li>
+				</ul>
+	
+	
+	
+	</td>
+  </tr>
+
+</tbody></table>
+
+
+	<ul class="digital">
+<li><a href="#">More Resources</a></li>
+</ul>	
+
+<ul class="digital01">
+				<li><a href="more-resources-scholarship-financial-aid.asp">Scholarship &amp; Financial Aid</a></li>
+				<li><a href="#">Assessment: Campus or Online Education?</a></li>
+				<li><a href="#">Test Preparation</a></li>
+				<li><a href="#">E-Learning Essentials</a></li>
+				<li><a href="school-accreditation.asp">School Accreditation</a></li>
+				<li><a href="#">Online Learning Successes</a></li>
+				<li><a href="teachers-aid.asp">Teachers Aid</a></li>
+				</ul>		
+
+
+</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+</tbody></table>
+			</div>
+			<!--menu start 03 -->
+			
+			<!--menu start 04 -->
+	
+	
+	<div id="dropmenu4" class="dropmenudiv66">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+ <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+	<ul class="digital">
+<li><a href="#">Career Training</a></li>
+<li><a href="career-assessment.asp">Career Assessment</a></li>
+<li><a href="career-planning.asp">Career Planning</a></li>
+<li><a href="find-career-happiness.asp">Career Happiness</a></li>
+
+</ul>
+	</td>
+	<td align="left" valign="top" class="mid_border">&nbsp;</td>
+    <td align="left" valign="top">
+	<ul class="digital">
+	<li><a href="#">Career Advice</a></li>
+<li><a href="#">CareerXE�</a></li>
+<li><a href="money-making-advice.asp">Money Making Advice</a></li>
+<li><a href="career-research.asp">Career Research</a></li>
+</ul></td>
+  </tr>
+</tbody></table></td>
+ </tr>
+ <tr>
+   <td align="center" valign="top">
+
+</td>
+ </tr>
+</tbody></table>
+			</div>
+			<!--menu start 04 -->
+			
+	
+	</td>
+  </tr>
+</tbody></table>
+
+			
+			
+			
+			
+			<script type="text/javascript">
+				cssdropdown.startchrome("chromemenu")
+			</script>
+	</td>
+  </tr>
+  <!--nav pannel end -->
+  <tr>
+    <td align="left" valign="top"><img src="images/blank_img.gif" alt="" height="9"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="739" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="200" align="left" valign="top">
+	<p class="search_text"><strong>Search by Subject:</strong></p>
+	<ul id="treemenu2" class="treeview">
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Art &amp; Design</a>
+	<ul rel="closed">
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Fashion</a>
+		<ul rel="closed">
+		<li><a href="#">Fashion Design</a></li>
+		<li><a href="#">Fashion Merchandising</a></li>
+		<li><a href="#">Retail Management</a></li>
+		
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+	<li><a href="#">Film &amp; Television</a></li>
+	<!--main no drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Fine Art &amp; Craft</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Furniture Design</a></li>
+            <li><a href="../sample_link.html">Jewelry Design &amp; Repair</a></li>
+		
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Graphic Design</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Advertising and Commercial Design</a></li>
+            <li><a href="../sample_link.html">Visual Communications</a></li>
+		
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Interior Design</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Floral Design</a></li>
+            <li><a href="../sample_link.html">Interior Decorating</a></li>
+		
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Multimedia &amp; Web Design</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Animation</a></li>
+            <li><a href="../sample_link.html">Video Game Design</a></li>
+			  <li><a href="../sample_link.html">Web Design</a></li>
+		
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Music</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Music Education</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+	<li><a href="#">Photography</a></li>
+	<li><a href="#">Theater Arts</a></li>
+	<!--main no drop down end -->
+	
+	
+    </ul>
+</li>
+<!--main end -->
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Business</a>
+	<ul rel="closed">
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Accounting</a>
+		<ul rel="closed">
+		<li><a href="#">Forensic Accounting</a></li>
+		<li><a href="#">Taxation</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+<li><a href="#">Business (General)</a></li>
+		<li><a href="#">Business Administration</a></li>
+		<li><a href="#">Customer Service</a></li>
+		<li><a href="#">E-Commerce</a></li>
+		<li><a href="#">Entrepreneurship</a></li>
+	<!--main no drop down end -->
+	
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Finance</a>
+		<ul rel="closed">
+		 <li><a href="#">Financial Planning</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Human Resources</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Labor Relations</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	
+	<!--main no drop down start -->
+		<li><a href="#">Insurance &amp; Risk Management</a></li>
+		<li><a href="#">International Business</a></li>
+	<!--main no drop down end -->
+	
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Management &amp; Leadership</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Applied Management</a></li>
+            <li><a href="../sample_link.html">Leadership</a></li>
+			<li><a href="../sample_link.html">Marketing Management</a></li>
+			<li><a href="../sample_link.html">Nonprofit Management</a></li>
+			<li><a href="../sample_link.html">Operations Management</a></li>
+			<li><a href="../sample_link.html">Organizational Management</a></li>
+			<li><a href="../sample_link.html">Retail Management</a></li>
+		
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Marketing &amp; Advertising</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Marketing Management</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+	<li><a href="#">Office Administration</a></li>
+	<!--main no drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Operations Management</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Acquisitions &amp; Contract Management</a></li>
+		 <li><a href="../sample_link.html">Facilities Management</a></li>
+		 <li><a href="../sample_link.html">Safety &amp; Quality Control</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+	<li><a href="#">Organizational Psychology</a></li>
+	<li><a href="#">Project Management</a></li>
+	<li><a href="#">Public Relations</a></li>
+	<!--main no drop down end -->
+	
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Real Estate</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Home Inspection</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+	<li><a href="#">Retail &amp; Sales</a></li>
+	<li><a href="#">Sports Management</a></li>
+	<!--main no drop down end -->
+    </ul>
+</li>
+<!--main end -->
+
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Education</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Adult Education</a></li>
+		<li><a href="#">Assessment &amp; Evaluation</a></li>
+	<!--main no drop down end -->
+	
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Child Development</a>
+		<ul rel="closed">
+		 <li><a href="#">Child Care</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Corporate Training</a></li>
+		<li><a href="#">Curriculum Design</a></li>
+		<li><a href="#">Distance Education</a></li>
+		<li><a href="#">Early Childhood Education</a></li>
+		<li><a href="#">Education (General)</a></li>
+		<li><a href="#">Educational Administration</a></li>
+		<li><a href="#">Educational Technology</a></li>
+		<li><a href="#">ESL</a></li>
+		<li><a href="#">Higher Education</a></li>
+		<li><a href="#">K-12 Education</a></li>
+		<li><a href="#">Literacy &amp; Reading</a></li>
+		<li><a href="#">Physical &amp; Health Education</a></li>
+		<li><a href="#">Special Education</a></li>
+		<li><a href="#">Teacher Aide</a></li>
+	<!--main no drop down end -->
+	
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Teaching License</a>
+		<ul rel="closed">
+		 <li><a href="../sample_link.html">Mathematics Education</a></li>
+            <li><a href="../sample_link.html">Science in Education</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+    </ul>
+</li>
+<!--main end -->
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Engineering &amp; Construction</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Aerospace Engineering</a></li>
+		<li><a href="#">Architecture &amp; Landscape Design</a></li>
+		<li><a href="#">Chemical Engineering</a></li>
+		<li><a href="#">Civil Engineering</a></li>
+		<li><a href="#">Computer &amp; Software Engineering</a></li>
+	<!--main no drop down end -->
+	
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Construction</a>
+		<ul rel="closed">
+		 <li><a href="#">Construction Management</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Electrical Engineering</a></li>
+		<li><a href="#">Engineering (General)</a></li>
+		<li><a href="#">Engineering Management</a></li>
+		<li><a href="#">Environmental Engineering</a></li>
+		<li><a href="#">Industrial Engineering</a></li>
+		<li><a href="#">Manufacturing Engineering</a></li>
+		<li><a href="#">Material Engineering</a></li>
+		<li><a href="#">Mechanical Engineering</a></li>
+		<li><a href="#">Other Engineering</a></li>
+		<li><a href="#">Petroleum Engineering</a></li>
+		<li><a href="#">Quality Control &amp; Safety</a></li>
+		<li><a href="#">Systems Engineering</a></li>
+	<!--main no drop down end -->
+    </ul>
+</li>
+<!--main end -->
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Health</a>
+	<ul rel="closed">
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Alternative Medicine</a>
+		<ul rel="closed">
+		 <li><a href="#">Massage Therapy</a></li>
+		  <li><a href="#">Natural Health</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">EMS &amp; Paramedic</a></li>
+		<li><a href="#">Gerontology</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Health &amp; Medical Sciences</a>
+		<ul rel="closed">
+		 <li><a href="#">Communication Disorders</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Health Care Administration</a>
+		<ul rel="closed">
+		 <li><a href="#">Health Information Technology</a></li>
+		 <li><a href="#">Medical Coding &amp; Transcription</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">Health Education</a></li>
+		<li><a href="#">Laboratory</a></li>
+		<li><a href="#">Medical &amp; Dental Assistant</a></li>
+		<li><a href="#">Medical Technology</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Nursing</a>
+		<ul rel="closed">
+		 <li><a href="#">Forensic Nursing</a></li>
+		 <li><a href="#">Licensed Practical Nurse (LPN)</a></li>
+		 <li><a href="#">LPN to BSN Programs</a></li>
+		 <li><a href="#">Nurse Administration</a></li>
+		 <li><a href="#">Nurse Education</a></li>
+		 <li><a href="#">Registered Nurse (RN)</a></li>
+		 <li><a href="#">RN to BSN</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+			<!--main no drop down start -->
+		<li><a href="#">Nutrition</a></li>
+		<li><a href="#">Pharmacy</a></li>
+	<!--main no drop down end -->
+	
+			<!--main drop down start -->
+	<li class="submenu"><a href="#">Physical Therapy</a>
+		<ul rel="closed">
+		 <li><a href="#">Occupational Therapy</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main drop down end -->
+			<!--main no drop down start -->
+		<li><a href="#">Physician Assistant</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Psychology &amp; Mental Health</a>
+		<ul rel="closed">
+		 <li><a href="#">Counseling</a></li>
+		 <li><a href="#">Forensic Psychology</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Public Health</a></li>
+		<li><a href="#">Radiologic Science</a></li>
+		<li><a href="#">Respiratory Therapy</a></li>
+		<li><a href="#">Sports and Fitness</a></li>
+	<!--main no drop down end -->
+    </ul>
+</li>
+<!--main end -->
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Hospitality &amp; Culinary</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Baking &amp; Pastry</a></li>
+		<li><a href="#">Catering</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Culinary Arts</a>
+		<ul rel="closed">
+		 <li><a href="#">Chef Training</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">Event Planning</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Hospitality Management</a>
+		<ul rel="closed">
+		 <li><a href="#">Hotel Management</a></li>
+		 <li><a href="#">Restaurant Management</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+			<!--main no drop down start -->
+		<li><a href="#">Le Cordon Bleu</a></li>
+		<li><a href="#">Travel &amp; Tourism</a></li>
+	<!--main no drop down end -->
+    </ul>
+</li>
+<!--main end -->
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Law &amp; Criminal Justice</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Corrections</a></li>
+		<li><a href="#">Court Reporting</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Crime Scene &amp; Forensics</a>
+		<ul rel="closed">
+		 <li><a href="#">Forensic Psychology</a></li>
+		 <li><a href="#">Forensic Science</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Criminal Justice</a>
+		<ul rel="closed">
+		 <li><a href="#">Justice Administration</a></li>
+		 <li><a href="#">Juvenile Justice</a></li>
+		 <li><a href="#">Law Enforcement</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	
+			<!--main drop down start -->
+	<li class="submenu"><a href="#">Homeland Security</a>
+		<ul rel="closed">
+		 <li><a href="#">Intelligence Studies</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">Investigation</a></li>
+		<li><a href="#">Law</a></li>
+		<li><a href="#">Paralegal &amp; Legal Services</a></li>
+		<li><a href="#">Public Safety</a></li>
+		<li><a href="#">Security &amp; Loss Prevention</a></li>
+	<!--main no drop down end -->
+	
+    </ul>
+</li>
+<!--main end -->
+
+
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Liberal Arts &amp; Humanities</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Art History</a></li>
+		<li><a href="#">Classical Studies</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Communications &amp; Media</a>
+		<ul rel="closed">
+		 <li><a href="#">Journalism</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">English</a></li>
+		<li><a href="#">Ethnic Studies</a></li>
+		<li><a href="#">General Studies</a></li>
+		<li><a href="#">Language</a></li>
+		<li><a href="#">Liberal Arts</a></li>
+		<li><a href="#">Library Science</a></li>
+		<li><a href="#">Museum Studies</a></li>
+		<li><a href="#">Philosophy</a></li>
+	<!--main no drop down end -->
+	
+			<!--main drop down start -->
+	<li class="submenu"><a href="#">Religious Studies</a>
+		<ul rel="closed">
+		 <li><a href="#">Christian Studies</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+				<!--main drop down start -->
+	<li class="submenu"><a href="#">Writing</a>
+		<ul rel="closed">
+		 <li><a href="#">Technical Writing</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	
+    </ul>
+</li>
+<!--main end -->
+
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Science</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Agriculture</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Aviation Science</a>
+		<ul rel="closed">
+		 <li><a href="#">Aviation Mechanics &amp; Technology</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	
+			<!--main drop down start -->
+	<li class="submenu"><a href="#">Biology</a>
+		<ul rel="closed">
+		 <li><a href="#">Biotechnology</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Chemistry</a></li>
+	<!--main no drop down end -->
+				<!--main drop down start -->
+	<li class="submenu"><a href="#">Environmental Science</a>
+		<ul rel="closed">
+		 <li><a href="#">Fire Science</a></li>
+		 <li><a href="#">Geographic Information Science</a></li>
+		 <li><a href="#">Wildlife &amp; Forestry</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">Mathematics &amp; Statistics</a></li>
+		<li><a href="#">Physics</a></li>
+		<li><a href="#">Veterinary Science &amp; Animal Care</a></li>
+	<!--main no drop down end -->
+	
+    </ul>
+</li>
+<!--main end -->
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Social Science</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Anthropology</a></li>
+		<li><a href="#">Behavioral Science</a></li>
+		<li><a href="#">Conflict Resolution &amp; Mediation</a></li>
+		<li><a href="#">Economics</a></li>
+		<li><a href="#">Geography</a></li>
+		<li><a href="#">History</a></li>
+		<li><a href="#">International Relations</a></li>
+		<li><a href="#">Linguistics</a></li>
+		<li><a href="#">Political Science</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Psychology &amp; Behavior</a>
+		<ul rel="closed">
+		 <li><a href="#">Behavioral Science</a></li>
+		 <li><a href="#">Counseling</a></li>
+		 <li><a href="#">School Counseling</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	
+			<!--main drop down start -->
+	<li class="submenu"><a href="#">Public Policy &amp; Administration</a>
+		<ul rel="closed">
+		 <li><a href="#">Emergency Management</a></li>
+		 <li><a href="#">Public Policy</a></li>
+		 <li><a href="#">Public Safety Management</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Social Sciences</a></li>
+	<!--main no drop down end -->
+				<!--main drop down start -->
+	<li class="submenu"><a href="#">Social Work &amp; Human Services</a>
+		<ul rel="closed">
+		 <li><a href="#">Social Work</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">Sociology</a></li>
+		<li><a href="#">Women's Studies</a></li>
+	<!--main no drop down end -->
+	
+    </ul>
+</li>
+<!--main end -->
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Technology &amp; IT</a>
+	<ul rel="closed">
+	<!--main no drop down start -->
+		<li><a href="#">Computer &amp; Software Engineering</a></li>
+		<li><a href="#">Computer Programming</a></li>
+		<li><a href="#">Computer Science</a></li>
+		<li><a href="#">Graphics &amp; Multimedia</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Information Systems</a>
+		<ul rel="closed">
+		 <li><a href="#">Database Management</a></li>
+		 <li><a href="#">Information Assurance</a></li>
+		 <li><a href="#">Information Science</a></li>
+		 <li><a href="#">Information Systems Security</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Information Systems Security</a></li>
+		<li><a href="#">Information Technology</a></li>
+	<!--main no drop down end -->
+				<!--main drop down start -->
+	<li class="submenu"><a href="#">Network Administration</a>
+		<ul rel="closed">
+		 <li><a href="#">Computer Networking</a></li>
+		  <li><a href="#">Network Security</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main drop down start -->
+	<li class="submenu"><a href="#">Security</a>
+		<ul rel="closed">
+		 <li><a href="#">Network Security</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+		<!--main no drop down start -->
+		<li><a href="#">Technical Management</a></li>
+		<li><a href="#">Technical Support &amp; Repair</a></li>
+		<li><a href="#">Technical Writing</a></li>
+		<li><a href="#">Technology Education</a></li>
+		<li><a href="#">Telecommunications</a></li>
+	<!--main no drop down end -->
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Vendor Certifications</a>
+		<ul rel="closed">
+		 <li><a href="#">Cisco Certification</a></li>
+		 <li><a href="#">Microsoft Certification</a></li>
+		 <li><a href="#">Oracle Certification</a></li>
+		 <li><a href="#">Sun Certification</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+			<!--main no drop down start -->
+		<li><a href="#">Video Game Development</a></li>
+		<li><a href="#">Web Design</a></li>
+		<li><a href="#">Web Development</a></li>
+	<!--main no drop down end -->
+	
+    </ul>
+</li>
+<!--main end -->
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Vocational</a>
+	<ul rel="closed">
+		<!--main drop down start -->
+	<li class="submenu"><a href="#">Applied Technology</a>
+		<ul rel="closed">
+		 <li><a href="#">Audio/Visual</a></li>
+		 <li><a href="#">Telecommunications</a></li>
+		</ul>
+	</li>
+	<!--main drop down end -->
+	<!--main no drop down start -->
+		<li><a href="#">Automotive and Vehicle</a></li>
+		<li><a href="#">Aviation</a></li>
+		<li><a href="#">Beauty &amp; Cosmetology</a></li>
+		<li><a href="#">Computer &amp; Appliance Repair</a></li>
+		<li><a href="#">Electrician</a></li>
+		<li><a href="#">HVAC</a></li>
+		<li><a href="#">Plumbing</a></li>
+		<li><a href="#">Transportation</a></li>
+		<li><a href="#">Welding</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+</ul>
+
+<p class="search_text"><strong>Search by Degree Level:</strong></p>
+
+<!--main start -->
+<ul id="treemenu1" class="treeview">
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Online Associate</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+		<li><a href="#">Accounting</a></li>
+	   <li><a href="#">Arts &amp; Humanities</a></li>
+	   <li><a href="#">Business &amp; Management</a></li>
+	   <li><a href="#">Communication Arts</a></li>
+	   <li><a href="#">Computer Information Systems</a></li>
+	   <li><a href="#">Computer Networking</a></li>
+	   <li><a href="#">Computer Programming</a></li>
+	   <li><a href="#">Criminal Justice</a></li>
+	   <li><a href="#">Early Childhood Development</a></li>
+	   <li><a href="#">Education</a></li>
+	   <li><a href="#">Fire Science</a></li>
+	   <li><a href="#">Graphic Design</a></li>
+	   <li><a href="#">Health Care Administration</a></li>
+	   <li><a href="#">Health Sciences</a></li>
+	   <li><a href="#">Hospitality Management</a></li>
+	   <li><a href="#">Human Resources</a></li>
+	   <li><a href="#">Information Technology</a></li>
+	   <li><a href="#">Law &amp; Paralegal</a></li>
+	   <li><a href="#">Marketing</a></li>
+	   <li><a href="#">Medical Assistant</a></li>
+	   <li><a href="#">Social Sciences</a></li>
+	   <li><a href="#">Telecommunications</a></li>
+	   <li><a href="#">Web Design &amp; Development</a></li>
+	   <li><a href="#">Veterinary</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Online Bachelor</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+		<li><a href="#">Accounting &amp; Finance</a></li>
+	   <li><a href="#">Advertising</a></li>
+	   <li><a href="#">Art &amp; Design</a></li>
+	   <li><a href="#">Aviation</a></li>
+	   <li><a href="#">Business Degree</a></li>
+	   <li><a href="#">Business Administration</a></li>
+	   <li><a href="#">Business Leadership</a></li>
+	   <li><a href="#">Business Management</a></li>
+	   <li><a href="#">Communication Arts</a></li>
+	   <li><a href="#">Computer Information Systems</a></li>
+	   <li><a href="#">Computer Networking</a></li>
+	   <li><a href="#">Computer Programming</a></li>
+	   <li><a href="#">Computer Science</a></li>
+	   <li><a href="#">Criminal Justice</a></li>
+	   <li><a href="#">Culinary Management</a></li>
+	   <li><a href="#">Database Technology</a></li>
+	   <li><a href="#">e-Business &amp; e-Commerce</a></li>
+	   <li><a href="#">Education</a></li>
+	   <li><a href="#">Fashion</a></li>
+	   <li><a href="#">Fire Science</a></li>
+	   <li><a href="#">Game Software Development</a></li>
+	   <li><a href="#">Healthcare Management</a></li>
+	   <li><a href="#">Health Sciences</a></li>
+	   <li><a href="#">Humanities and Liberal Arts</a></li>
+	   <li><a href="#">Human Resources</a></li>
+	   <li><a href="#">Advertising</a></li>
+	   <li><a href="#">IT - Business</a></li>
+	   <li><a href="#">IT - Project Management</a></li>
+	   <li><a href="#">IT - Security</a></li>
+	   <li><a href="#">Interior Design</a></li>
+	   <li><a href="#">Labor Relations</a></li>
+	   <li><a href="#">Marketing &amp; Sales</a></li>
+	   <li><a href="#">Nursing</a></li>
+	   <li><a href="#">Paralegal</a></li>
+	   <li><a href="#">Political Science</a></li>
+	   <li><a href="#">Public Administration</a></li>
+	   <li><a href="#">Psychology Degree</a></li>
+	   <li><a href="#">Retail Management</a></li>
+	   <li><a href="#">Science Degree</a></li>
+	   <li><a href="#">Social Science</a></li>
+	   <li><a href="#">Technology Management</a></li>
+	   <li><a href="#">Theology &amp; Divinity</a></li>
+	   <li><a href="#">Tourism &amp; Hospitality</a></li>
+	   <li><a href="#">Visual Communications</a></li>
+	   <li><a href="#">Web Development</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Online Masters</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+		<li><a href="#">Accounting &amp; Finance</a></li>
+			<li><a href="#">Aviation Science</a></li>
+			<li><a href="#">Business Leadership</a></li>
+			<li><a href="#">Business Management</a></li>
+			<li><a href="#">Computer Science</a></li>
+			<li><a href="#">Counseling &amp; Psychology</a></li>
+			<li><a href="#">Criminal Justice</a></li>
+			<li><a href="#">eCommerce &amp; eBusiness</a></li>
+			<li><a href="#">Digital Security</a></li>
+			<li><a href="#">Diplomacy</a></li>
+			<li><a href="#">Education</a></li>
+			<li><a href="#">Engineering</a></li>
+			<li><a href="#">Environmental Science</a></li>
+			<li><a href="#">Fine Arts</a></li>
+			<li><a href="#">Health Care Administration</a></li>
+			<li><a href="#">Health Care Management</a></li>
+			<li><a href="#">Health Science</a></li>
+			<li><a href="#">Human Resources</a></li>
+			<li><a href="#">Human Services</a></li>
+			<li><a href="#">Industrial &amp; Manufacturing</a></li>
+			<li><a href="#">International Management</a></li>
+			<li><a href="#">Information Systems</a></li>
+			<li><a href="#">Information Technology</a></li>
+			<li><a href="#">Journalism &amp; Communication</a></li>
+			<li><a href="#">Marketing</a></li>
+			<li><a href="#">Nursing</a></li>
+			<li><a href="#">Project Management</a></li>
+			<li><a href="#">Psychology</a></li>
+			<li><a href="#">Public Administration</a></li>
+			<li><a href="#">Public Health</a></li>
+			<li><a href="#">Science</a></li>
+			<li><a href="#">Social Work</a></li>
+			<li><a href="#">Taxation</a></li>
+			<li><a href="#">Technology Management</a></li>
+			<li><a href="#">Telecommunication</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Online MBA</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+		<li><a href="#">General MBA Programs</a></li>
+		<li><a href="#">Accounting MBA</a></li>
+		<li><a href="#">Agriculture MBA</a></li>
+		<li><a href="#">Aviation MBA</a></li>
+		<li><a href="#">Biotechnology MBA</a></li>
+		<li><a href="#">Computer Systems MBA</a></li>
+		<li><a href="#">Criminal Justice MBA</a></li>
+		<li><a href="#">Customer Relations MBA</a></li>
+		<li><a href="#">e-Business MBA</a></li>
+		<li><a href="#">Economics MBA</a></li>
+		<li><a href="#">Entrepreneurship MBA</a></li>
+		<li><a href="#">Executive MBA</a></li>
+		<li><a href="#">Finance MBA</a></li>
+		<li><a href="#">Financial Planning MBA</a></li>
+		<li><a href="#">Global Management MBA</a></li>
+		<li><a href="#">Health Care Management MBA</a></li>
+		<li><a href="#">Hospitality &amp; Tourism MBA</a></li>
+		<li><a href="#">Human Resource MBA</a></li>
+		<li><a href="#">Industrial Management MBA</a></li>
+		<li><a href="#">International Business MBA</a></li>
+		<li><a href="#">Knowledge Management MBA</a></li>
+		<li><a href="#">Leadership MBA</a></li>
+		<li><a href="#">Management MBA</a></li>
+		<li><a href="#">Marketing MBA</a></li>
+		<li><a href="#">Media &amp; Entertainment MBA</a></li>
+		<li><a href="#">Nonprofit Management MBA</a></li>
+		<li><a href="#">Operations MBA</a></li>
+		<li><a href="#">Organizational MBA</a></li>
+		<li><a href="#">Project Management MBA</a></li>
+		<li><a href="#">Risk Management MBA</a></li>
+		<li><a href="#">Security Management MBA</a></li>
+		<li><a href="#">Technology Management MBA</a></li>
+		<li><a href="#">Telecommunications MBA</a></li>
+		<li><a href="#">MBA Certificate Programs</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Online Doctorate</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+			<li><a href="#">Applied Management</a></li>
+			<li><a href="#">Business &amp; Management</a></li>
+			<li><a href="#">Education</a></li>
+			<li><a href="#">Health &amp; Medical</a></li>
+			<li><a href="#">Human Services</a></li>
+			<li><a href="#">Leadership</a></li>
+			<li><a href="#">Psychology &amp; Counseling</a></li>
+			<li><a href="#">Public Health</a></li>
+			<li><a href="#">Public Policy</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+
+
+
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">Online Certificate</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+			<li><a href="#">Undergraduate Certificate</a></li>
+			<li><a href="#">Graduate Certificate</a></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">College Courses</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+			<li></li>
+			<li></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+<!--main start -->
+<li style="margin:0 0 1px 0;" class="submenu"><a href="#">
+High School Diploma</a>
+	<ul rel="closed">
+		
+	<!--main no drop down start -->
+			<li></li>
+			<li></li>
+	<!--main no drop down end -->
+				
+    </ul>
+</li>
+<!--main end -->
+
+</ul>
+
+<script type="text/javascript">
+
+//ddtreemenu.createTree(treeid, enablepersist, opt_persist_in_days (default is 1))
+
+ddtreemenu.createTree("treemenu1", false)
+ddtreemenu.createTree("treemenu2", false)
+
+</script></td>
+    <td align="left" valign="top"><table width="525" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top">
+<h2 class="about">Classestoedu Privacy Policy</h2>
+
+	<p class="simple_text">We at Classestoedu and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.<br><br>
+
+Classestoedu has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of Classestoedu regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that Classestoedu does not own or control, or to people that Classestoedu does not employ.</p>
+<p class="our_text">Information Collected by Classestoedu</p>
+<p class="our_text">Non-Personally Identifiable Consumer Information</p>
+
+
+
+
+
+<p class="simple_text">Classestoedu collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the Classestoedu site, the pages of the site you visited and the URL of the page you visited upon leaving the site.<br><br>
+
+Classestoedu may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information.</p>
+<p class="our_text">Personally Identifiable Consumer Information</p>
+
+
+<p class="simple_text">In addition, at some of the Classestoedu web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.</p>
+<p class="our_text">How Collected Information is Used</p>
+
+<p class="simple_text">The non-personally identifiable information that Classestoedu collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.<br><br>
+
+If you elect to provide Classestoedu with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from Classestoedu and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other Classestoedu sales and marketing efforts.</p>
+<p class="our_text">Sharing Information with Third Parties</p>
+<p class="simple_text">All personally identifiable information you provide is maintained in confidence by Classestoedu. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.<br><br>
+
+Your non-personally identifiable data may be shared with third-party partners of Classestoedu on an anonymous basis.<br><br>
+
+When you request information from Classestoedu or one or more of our clients, we may transfer that information within Classestoedu or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.<br><br>
+
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that Classestoedu is very careful in selecting companies with whom it does business.<br><br>
+
+In addition to the above situations where your information may be shared with others, there is also the possibility that Classestoedu, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.<br><br>
+
+Finally, Classestoedu may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.</p>
+<p class="our_text">Security</p>
+
+<p class="simple_text">Wherever your personally identifiable information may be held within Classestoedu or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while Classestoedu will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.</p>
+
+<p class="our_text">Choice</p>
+<p class="our_text">Non-Personally Identifiable Consumer Information - Use of Cookies &amp; Opting-Out</p>
+
+
+<p class="simple_text">Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.<br><br>
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting Classestoedu web sites.</p>
+<p class="our_text">Personally Identifiable Consumer Information - Opting-Out</p>
+
+<p class="simple_text">You may choose whether or not to provide personally identifiable information to Classestoedu. If you choose to provide such information to Classestoedu, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at privacy@classestoedu.com and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.</p>
+
+<p class="our_text">Access/Accuracy</p>
+
+<p class="simple_text">To the extent that you do provide us with personally identifiable information, Classestoedu wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting Classestoedu should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to privacy@classestoedu.com and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.</p>
+<p class="our_text">Children's Privacy</p>
+
+
+<p class="simple_text">In compliance with the Children's Online Privacy Protection Act (COPPA), classestoedu.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.</p>
+
+<p class="our_text">Refer a Friend</p>
+
+<p class="simple_text">Some of Classestoedu's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a Classestoedu site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Classestoedu stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.<br><br>
+
+Your friend may contact us at privacy@classestoedu.com to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.</p>
+<p class="our_text">Commitment</p>
+
+<p class="simple_text">Protecting your privacy online is an evolving area, and Classestoedu's web sites are constantly changing to meet these demands.<br><br>
+
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at privacy@classestoedu.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.</p>
+<p class="our_text">Your Consent</p>
+
+<p class="simple_text">By using this web site, you consent to the terms of our Online Privacy Policy and to Classestoedu's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.</p>
+
+
+	</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+</td>
+    <td width="200" align="left" valign="top">
+	<table width="195" border="0" align="right" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+    <td height="10" align="left" valign="top"></td>
+  </tr><tr>
+    <td align="left" valign="top"><h2 class="frature_bg01">Featured School</h2></td>
+  </tr>
+  <tr>
+    <td height="50" align="center" valign="top" class="univer_bg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="141" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/university_phoneix_lright.gif" alt="" width="141" height="58"></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><p class="univer_text012">University of Phoenix <span>Business, Education, Health, Law &amp; Criminal Justice, Social Science, Technology &amp; IT</span></p>
+	<table width="87" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><a href="UOP/index.htm"><img src="images/learn_more01.gif" alt="Learn More" border="0" title="Learn More"></a></td>
+  </tr>
+</tbody></table>
+	
+	</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="195" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/blank_img.gif" alt="" width="1" height="14"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="dashed_right"><table width="114" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/walden_logo.gif" alt="Walden University" width="114" height="62" title="Walden University"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="learnmore_gap"><table width="87" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><a href="Walden/index.htm"><img src="images/learn_more01.gif" alt="Learn More" width="87" height="23" border="0" title="Learn More"></a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="dashed_right"><table width="114" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/dervey_logo.gif" alt="DeVry University" title="DeVry University" width="114" height="62"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="learnmore_gap"><table width="87" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><a href="devry_university/index.htm"><img src="images/learn_more01.gif" alt="Learn More" border="0" title="Learn More"></a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="dashed_right"><table width="114" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/sju_logo.jpg" alt="Saint Joseph's University" title="Saint Joseph's University" width="114" height="62"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="learnmore_gap"><table width="87" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><a href="sju"><img src="images/learn_more01.gif" alt="Learn More" border="0" title="Learn More"></a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table></td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><h2 class="frature_bg01">Search School by Subject</h2></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="search01_bg">
+	
+	<table width="195" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top" class="search01_bg"><form name="requestForm" action="" onsubmit="return validate();" method="post" enctype="multipart/form-data">
+	<table width="160" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td height="12" align="left" valign="top">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="19" align="left" valign="top" class="degree_text">Degree by Subject:</td>
+  </tr>
+  <tr>
+    <td height="30" align="left" valign="top"><select name="campus" class="select001_box" onchange="setCities(this)">
+	  <option value="All" selected="selected">--- All Subjects ---</option>
+  <option value="Art &amp; Design">Art &amp; Design</option>
+  <option value="Business">Business</option>
+  <option value="Education">Education</option>
+  <option value="Engineering &amp; Construction">Engineering &amp; Construction</option>
+  <option value="Health">Health</option>
+  <option value="Hospitality &amp; Culinary">Hospitality &amp; Culinary</option>
+  <option value="Law &amp; Criminal Justice">Law &amp; Criminal Justice</option>
+  <option value="Liberal Arts &amp; Humanities">Liberal Arts &amp; Humanities</option>
+  <option value="Science">Science</option>
+  <option value="Social Science">Social Science</option>
+  <option value="Technology &amp; IT">Technology &amp; IT</option>
+  <option value="Vocational">Vocational</option>
+
+    </select>
+    </td>
+  </tr>
+  <tr>
+    <td height="19" align="left" valign="top" class="degree_text">Program:</td>
+  </tr>
+  <tr>
+    <td height="30" align="left" valign="top"><select name="program" class="select001_box">
+	<option value="">- All Programs -</option>
+    </select></td>
+  </tr>
+  <tr>
+    <td height="33" align="center" valign="top"><input type="image" name="imageField2" src="images/go_botton.gif" title="Go" alt="Go"></td>
+  </tr>
+</tbody></table></form>
+</td>
+  </tr>
+</tbody></table>
+	
+	
+	</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><div class="navi0112">
+	<div class="navi0122">
+	<ul class="top01124">
+	<li><a href="#" title="Top Degrees" class="active">Top Degrees</a></li>
+	<li><a href="#" title="Most Popular">Most Popular</a></li>
+	<li><a href="#" title="Recent&nbsp;Articles">Recent&nbsp;Articles</a></li>
+	</ul>
+	</div>
+	<div class="navi0222">&nbsp;</div>
+	<br class="spacer">
+
+	<div class="right01"><ul class="business">
+<li><a href="#" title="Business">Business</a></li>
+<li><a href="#" title="Health Care">Health Care</a></li>
+<li><a href="#" title="Education">Education</a></li>
+<li><a href="#" title="Technology">Technology</a></li>
+<li><a href="#" title="Law &amp; Criminal Justice">Law &amp; Criminal Justice</a></li>
+</ul></div>
+	</div></td>
+  </tr> 
+  <tr>
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+	
+	</td>
+  </tr>
+</tbody></table>
+	
+</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+<!--body pannel end -->
+<!--footer pannel start -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="204" align="left" valign="top" bgcolor="#063E70">
+	<table width="939" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="939" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="17" colspan="5" align="left" valign="top"><img src="images/blank_img.gif" alt="" height="17"></td>
+    </tr>
+  <tr>
+    <td width="10" align="left" valign="top">
+	</td>
+    <td width="252" align="left" valign="top"><h2 class="corporate">Corporate</h2>
+	<ul class="footer">
+<li><a href="default.asp" title="Home">Home</a></li>
+<li><a href="about-classestoedu.asp" title="About calssestoedu">About calssestoedu</a></li>
+<li><a href="press-room.asp" title="Press Room">Press Room</a></li>
+<li><a href="partner-program.asp" title="Partner With Us">Partner With Us</a></li>
+<li><a href="#" title="Contact Us">Contact Us</a></li>
+<li><a href="privacy-policy.asp" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="#" title="Site map">Site map</a></li>
+
+
+	
+	</ul>
+	
+	
+	</td>
+    <td width="261" align="left" valign="top">
+	<h2 class="corporate">Online Degree Resources</h2>
+	<ul class="footer">
+<li><a href="online-degrees.asp" title="Online Degrees">Online Degrees</a></li>
+<li><a href="online-colleges-universities.asp" title="Online Colleges &amp; Universities">Online Colleges &amp; Universities</a></li>
+<li><a href="online-associates-degrees.asp" title="Online Associate Degrees">Online Associate Degrees</a></li>
+<li><a href="online-bachelors-degrees.asp" title="Online Bachelor Degrees">Online Bachelor Degrees</a></li>
+<li><a href="online-masters.asp" title="Online Master Programs">Online Master Programs</a></li>
+<li><a href="online-doctorate-phd-degrees.asp" title="Online Doctorate / PhD Degrees">Online Doctorate / PhD Degrees</a></li>
+<li><a href="online-high-school-diploma.asp" title="Online High School Diploma">Online High School Diploma</a></li>
+	</ul>
+	
+	</td>
+    <td width="238" align="left" valign="top">
+	<h2 class="corporate">Education Resources</h2>
+	<ul class="footer">
+<li><a href="guide-to-majors.asp" title="Guide to Majors">Guide to Majors</a></li>
+<li><a href="#" title="Education Guidance">Education Guidance</a></li>
+<li><a href="education-advisor.asp" title="Education Advisor">Education Advisor</a></li>
+<li><a href="ask-the-professor.asp" title="Ask the Professor">Ask the Professor</a></li>
+<li><a href="ask-the-recruiter.asp" title="Ask the Recruiter">Ask the Recruiter</a></li>
+<li><a href="teachers-aid.asp" title="Teachers Aid">Teachers Aid</a></li>
+<li><a href="school-accreditation.asp" title="School Accreditation">School Accreditation</a></li>
+</ul>
+	
+	
+	</td>
+    <td align="left" valign="top">
+	<h2 class="corporate">Career Resources</h2>
+	<ul class="footer">
+<li><a href="#" title="CareerXE�">CareerXE�</a></li>
+<li><a href="career-training.asp" title="Career Training">Career Training</a></li>
+<li><a href="career-assessment.asp" title="Career Assessment">Career Assessment</a></li>
+<li><a href="money-making-advice.asp" title="Money Making Advice">Money Making Advice</a></li>
+<li><a href="career-happiness-advice.asp" title="Career Happiness Advice">Career Happiness Advice</a></li>
+<li><a href="campus-schools.asp" title="Campus Schools">Campus Schools</a></li>
+<li><a href="military.asp" title="Military">Military</a></li>
+</ul>
+	</td>
+  </tr>
+</tbody></table>
+
+</td>
+  </tr>
+</tbody></table>
+	
+	</td>
+  </tr>
+</tbody></table>
+
+<!--footer pannel end -->
+
+
+</body></html>
