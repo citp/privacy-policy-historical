@@ -1,30 +1,10 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229231758id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525045603id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
 # Privacy Policy > About ING Direct > ING Direct
 
 ## Website privacy policy 
 
 The privacy of our website users is important to us and we take care to safeguard it. This policy explains how we use the personal information we hold about you. Click on the links below to navigate to the relevant section. 
-
-**Important information**
-
-**Queries**
-
-If you have privacy questions which are not answered by this Website Privacy Policy or any other concerns about how we use your personal information, please write to us or contact Customer Services on **0845 603 8888.**
-
-**Changes**
-
-Our Website Privacy Policy is regularly reviewed to make sure that we continue to serve your privacy interests. We reserve the right to modify or otherwise update this privacy policy and these changes will be posted on our website. We encourage you to visit this page from time to time to ensure that you are aware of any changes we may have made. 
-
-**Processing applications and providing services to you**
-
-If you apply for or use our products, we will also use your personal information in accordance with the following:
-
-  * [ING Direct Savings and Your Personal Information](https://web.archive.org/home/tandc/savings_fpn.pdf "ING Direct Savings and Your Personal Information")
-  * [ING Direct Insurance and Your Personal Information](https://web.archive.org/home/tandc/personal_info.pdf "ING Direct Insurance and Your Personal Information")
-  * [ING Direct Mortgages and Your Personal Information](https://web.archive.org/home/tandc/personal_info_mortgage.pdf "ING Direct Mortgages and Your Personal Information")
-
-
 
 **Where we obtain your information from**
 
@@ -36,18 +16,9 @@ The information we collect via this website may include any personal details you
 
 The information we collect via this website may also include your IP address (this is your computer’s individual identification number that is assigned to your computer when connected to the Internet) which is automatically logged by our web-server in the UK.  Unless we suspect fraud, we do not use your IP address to identify you personally. 
 
-**Cookies & spotlight tags**
+**Cookies**
 
-This website also collects data which allows us to recognise you, your preferences and how you use this website. 
-
-  * This information is collected by using temporary ‘ _session cookies_ ’.  These are small strings of data stored in your device’s temporary memory when you navigate around the website but which are deleted when you close your Web browser. 
-  * This information is also collected by using _spotlight tags_ (also known as ‘boom tags’, ‘clear GIFs’, ‘pixel tags’, ‘web beacons’ and ‘web bugs’).  These are small strings of computer code that are placed in the pages of our website which allow our advertising agents to store ‘ _persistent cookies_ ’ in your Web browser’s cookie file when you access our website.  Unlike session cookies, these persistent cookies are not deleted when you close your Web browser. 
-
-
-
-We use the ‘session’ cookies employed in this website to enable you to move back and forth within a secure banking session and to save you re-entering information. 
-
-Our session cookies and our advertising agents’ persistent cookies do not store your e-mail address or other personal information. 
+For  information on how we use cookies and similar technologies on this website, please see our [Cookie  policy](https://web.archive.org/web/20120525045603id_/http%3A//www.ingdirect.co.uk/home/cookiepolicy.asp)
 
 Back to the top
 
