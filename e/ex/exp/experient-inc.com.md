@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201012011id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525214433id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ Experient is the sole owner of the information you provide to us on this Web sit
 
 Cookies and Other Tracking Technologies
 
-For each visitor to the Solution Center portion of our Web site, our Web server will automatically recognize or record information regarding the sender's domain or e-mail address. We collect the e-mail addresses of those who choose to communicate with us via e-mail and aggregate information on what pages consumers access or visit.
+For each visitor to the Knowledge Center portion of our Web site, our Web server will automatically recognize or record information regarding the sender's domain or e-mail address. We collect the e-mail addresses of those who choose to communicate with us via e-mail and aggregate information on what pages consumers access or visit.
 
 Policy Changes
 
