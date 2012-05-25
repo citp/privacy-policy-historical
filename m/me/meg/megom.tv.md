@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megom.tv privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216123840id_/http%3A//megom.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megom.tv privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525142159id_/http%3A//megom.tv/privacypolicy) for the most accurate reproduction.*
 
 # MeGom.TV: Privacy Policy
 
