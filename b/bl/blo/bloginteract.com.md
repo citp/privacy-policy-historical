@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloginteract.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114010312id_/http%3A//bloginteract.com/blog-interacts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloginteract.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525200035id_/http%3A//bloginteract.com/blog-interacts-privacy-policy) for the most accurate reproduction.*
 
-# Blog Interact's Privacy Policy | Blog Interact - Social Media Network
+# Blog Interact's Privacy Policy | Blog Interact®
 
-### BLOG INTERACT – SOCIAL MEDIA NETWORK PRIVACY POLICY
+### BLOG INTERACT – OUR PRIVACY POLICY
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
 
@@ -27,7 +27,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 **3\. How Do We Protect the Security of Your Information?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. (Registration only).
   * We use encryption to protect your information contained in our customer list.
   * We use a firewall to protect against unlawful intrusion.
   * We limit access to your information on a need to know basis.
