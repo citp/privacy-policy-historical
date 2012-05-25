@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904183033id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526003853id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
 
 # Auto Parts Shopping Where Your Privacy and Security are Guaranteed
 
 Your privacy and security are highly respected and carefully safeguarded at AutohausAZ. We value our relationship with you and appreciate the trust you put in us by providing requested information.
 
-We know how scary it can be to give information over the Internet. You can rest assured that AutohausAZ is firmly committed to protecting the privacy and security of all your communications with us. We do not provide any personal identifying information, regardless of its source, to any third party for any purpose other than as described in this Privacy Policy. Any information you provide in your secure member profile or during the process of submitting a parts request or order is used only to improve our service to you.
+We know how scary it can be to give information over the Internet. You can be rest assured that AutohausAZ is firmly committed to protecting the privacy and security of all your communications with us. We do not provide any personal identifying information, regardless of its source, to any third party for any purpose other than as described in this Privacy Policy. Any information you provide in your secure member profile or during the process of submitting a parts request or order is used only to improve our service to you.
 
 ### Our Privacy & Security Commitment To You:
 
@@ -12,9 +12,9 @@ We know how scary it can be to give information over the Internet. You can rest 
 
 AutohausAZ.com is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties, except as outlined in this Policy. We collect information from our customers to prepare parts quotes, process orders and better serve you with pertinent information, such as order confirmations and order status updates. Information collected may include your name, shipping address, billing address, telephone number(s), email address and payment information. Please be sure to enable email from Autohausaz.com email addresses so you are able to receive confirmations of your orders and responses to any questions you send to us.
 
-We require you to submit an email address and password for logging into your secure member area. To safeguard your login information, we ask that you select a security question and answer. DO NOT share your login information nor security information with anyone. If you elect to receive our newsletter/special promotions emails, your contact information will be used for the delivery of these items.
+We require you to submit an email address and password for logging into your secure member area. To safeguard your login information, we ask that you select a security question and answer. DO NOT share your login information or security information with anyone. If you elect to receive our newsletter/special promotions emails, your contact information will be used for the delivery of these items.
 
-Your member profile asks you only for very basic contact information. This contact information is used to respond to your requests and to uniquely identify you, your preferences and your cars. You are encouraged to keep your information up-to-date via the links on the My Autohaus and Car Care drop-down menus. This will save you time on all your future requests and orders.
+Your member profile asks you only for very basic contact information. This contact information is used to respond to your requests and to uniquely identify you, your preferences and your cars. You are encouraged to keep your information up-to-date via the links on the "My Autohaus" and "Car Care" drop-down menus. This will save you time on all your future requests and orders.
 
 Car information is used only for the purpose of locating the correct part numbers for any custom quote requests and to verify the accuracy of your orders to ensure you receive the right parts for your car. You may update your vehicle information on the Edit Saved Vehicles link on the Car Care drop-down menu.
 
@@ -26,11 +26,11 @@ AutohausAZ does NOT do any mass/junk emailings. Your email address is strictly u
 
 AutohausAZ takes precautions to protect its customers' information. When you submit sensitive information to us, your information is protected both online and offline.
 
-Our site provides you with THE HIGHEST available technology for ensuring maximum security in data transmittal by using Extended Validation SSL (secure socket layer) and 256-bit encrypted security for all activity when you're logged into the Members Only Area (including updating profile data, placing and tracking orders, etc.). Contact information (like your email address, phone number, shipping address) and credit card information is used only for the purpose of processing and shipping your auto parts to you. The most sensitive portion of your credit card information, the 3-digit CVV code, is never stored in our system and must be re-entered each time you place an order.
+Our site provides you with THE HIGHEST available technology for ensuring maximum security in data transmittal by using Extended Validation SSL (secure socket layer) and 256-bit encrypted security for all activity when you're logged into My Autohaus (including updating profile data, placing and tracking orders, etc.). Contact information (like your email address, phone number, shipping address) and credit card information is used only for the purpose of processing and shipping your auto parts orders. The most sensitive portion of your credit card information, the 3-digit CVV code, is never stored in our system and must be re-entered each time you place an order.
 
 In addition to the highest encryption technology, AutohausAZ contracts with an outside party, McAfee Secure (formerly HackerSafe), to test our website daily to ensure all confidential information is safe from hackers and that AutohausAZ meets all current PCI security payment card industry standards. McAfee Secure helps protect you from identity theft and credit card fraud. The live McAfee Secure mark appears only when a website meets the McAfee Secure standards.
 
-We further stand behind our commitment to your privacy and security by complying with all BBBOnline Reliability and Accreditation Program requirements for integriy, dependability and customer service response.
+We further stand behind our commitment to your privacy and security by complying with all BBBOnline Reliability and Accreditation Program requirements for integrity, dependability and customer service response.
 
 To ensure your comfort in the security of our website, please feel free to visit the following links to certify the current validity of our security certifications by clicking on the appropriate seal:
 
@@ -40,7 +40,7 @@ Access to all of our users' information is restricted. AutohausAZ.com operates i
 
 All AutohausAZ.com servers, including web servers, mail servers and database servers, are housed and maintained in secure locations that utilize multi-tiered security measures to ensure the physical security of your data, including 24/7/365 professional security, video surveillance, biometric retinal scanning and man-trap entry points.
 
-Access to AutohausAZ.com servers and database is strictly monitored and protected from outside access. Internet access is restricted and protected by real time scans for viruses, continuous scans of all servers, as well as mutliple firewalls and other security features throughout our network. We restrict common ports of attack at our firewall, as well as employ a number of systems that watch for malicious activity. Our hosting company also utilizes a third party to run security and vulnerability audits, including but not limited to port scans, server configuration audits and other security and vulnerability checks that help ensure that our servers are as secure as possible.
+Access to AutohausAZ.com servers and database is strictly monitored and protected from outside access. Internet access is restricted and protected by real time scans for viruses, continuous scans of all servers, as well as multiple firewalls and other security features throughout our network. We restrict common ports of attack at our firewall, as well as employ a number of systems that watch for malicious activity. Our hosting company also utilizes a third party to run security and vulnerability audits, including but not limited to port scans, server configuration audits and other security and vulnerability checks that help ensure that our servers are as secure as possible.
 
 All employees are kept up-to-date on our security and privacy practices and are continually notified and reminded about the importance of privacy and what they can do to ensure that customers' information remains protected at all times.
 
@@ -60,7 +60,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 The Customer Reviews section of the AutohausAZ.com website is for the purpose of sharing customer experiences. This section is moderated to ensure accurate testimonials. Published reviews are genuine and are not edited or altered by AutohausAZ. AutohausAZ reserves the right to post or remove any testimonial at its discretion.
 
-By posting your comment(s) or testimonial(s) ("Testimonial") on our website, you give us permission to reprint or use the Testimonial in connection with our business. You also are agreeing to the following: (1) The reprint or use of the Testimonial will be at our discretion and without compensation; 2) We may use the Testimonial with or without any psuedo (pen) name credit; 3) Our right to use the Testimonial is perpetual and may be assigned by us; 4) We may use the Testimonial locally, nationally or globally and such use may be made in any media, information or communication platform (including Internet advertising) currently in use or later developed; and 5) You and not someone else composed and posted the Testimonial. Other than your pseudo (pen) name and your general geographic location (city or state or country), which we may or may not use, your personal contact information will not be disclosed in connection with our reprint or use of your Testimonial.
+By posting your comment(s) or testimonial(s) ("Testimonial") on our website, you give us permission to reprint or use the Testimonial in connection with our business. You also are agreeing to the following: (1) The reprint or use of the Testimonial will be at our discretion and without compensation; 2) We may use the Testimonial with or without any pseudo (pen) name credit; 3) Our right to use the Testimonial is perpetual and may be assigned by us; 4) We may use the Testimonial locally, nationally or globally and such use may be made in any media, information or communication platform (including Internet advertising) currently in use or later developed; and 5) You and not someone else composed and posted the Testimonial. Other than your pseudo (pen) name and your general geographic location (city or state or country), which we may or may not use, your personal contact information will not be disclosed in connection with our reprint or use of your Testimonial.
 
 **Children**
 
@@ -68,7 +68,7 @@ AutohausAZ.com does not sell products for purchase by children. Youth-oriented p
 
 **External Links**
 
-This website contains links to other sites. AutohausAZ is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifable information. This privacy statement applies only to information collected directly by AutohausAZ.com.
+This website contains links to other sites. AutohausAZ is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected directly by AutohausAZ.com.
 
 **Notification of Changes**
 
@@ -76,15 +76,15 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 **Latest Update**
 
-The Privacy Policy contained herein became officially effective January 1, 2002. It was last reviewed/updated on August 20, 2009.
+The Privacy Policy contained herein became officially effective January 1, 2002. It was last reviewed/updated on September 23,2011.
 
 * * *
 
   
 
 
-### If you have any questions or concerns about this Privacy Policy  
-or any of your dealings with AutohausAZ, please [Email Customer Service](mailto:sales@autohausaz.com)
+### If you have any questions or concerns about this Privacy Policy or any of  
+your communications with AutohausAZ, please [Email Customer Service](mailto:sales@autohausaz.com)
 
 * * *
 
