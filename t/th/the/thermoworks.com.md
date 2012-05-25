@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermoworks.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125203018id_/http%3A//www.thermoworks.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermoworks.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525200655id_/http%3A//www.thermoworks.com/company/privacy.php) for the most accurate reproduction.*
 
 # ThermoWorks Privacy
 
@@ -27,7 +27,7 @@ The information we collect allows us to...
 >  Process repairs, calibrations and other services you request  
 >  Contact you about the status of an order or service request  
 >  Send you product and promotional information at your request  
->  Taylor or product selection, inventory and online services to better suit your needs
+>  Tailor our product selection, inventory and online services to better suit your needs
 
 **Does the ThermoWorks website use "cookies"?**  
 Cookies are small data files that are stored on your computer by a website—www.ThermoWorks.com does use cookies to...
