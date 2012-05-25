@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrafficbrain.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123113322id_/http%3A//www.thetrafficbrain.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficbrain.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074248id_/http%3A//www.thetrafficbrain.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Traffic Brain
 
