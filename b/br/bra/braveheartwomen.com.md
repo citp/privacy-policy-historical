@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braveheartwomen.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125084018id_/http%3A//www.braveheartwomen.com/customhtml.jspa%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braveheartwomen.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526003223id_/http%3A//www.braveheartwomen.com/customhtml.jspa%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Braveheart Women Privacy Policy: BraveHeart Women
 
