@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the onextrapixel.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225123942id_/http%3A//www.onextrapixel.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onextrapixel.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074729id_/http%3A//www.onextrapixel.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
-# OXP Disclaimer and Privacy Policy | Onextrapixel - Showcasing Web Treats Without A Hitch
+# OXP Disclaimer and Privacy Policy | Onextrapixel - Web Design & Development Online Magazine
 
-_Last updated: 11th September 2011_
+_Last updated: 1st May 2012_  
+PLEASE READ THE DISCLAIMER AND PRIVACY POLICY CAREFULLY. BY ACCESSING THIS WEBSITE YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS BELOW. THESE TERMS AND CONDITIONS ARE SUBJECT TO CHANGE WITHOUT NOTICE, FROM TIME TO TIME IN OUR SOLE DISCRETION. IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, PLEASE DO NOT ACCESS THIS WEBSITE.
 
 **Onextrapixel is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. The terms of this policy apply to all Onextrapixel websites, unless different terms are specified in a form or contract provided to you online or offline.**
 
-By using this site, you understand and agree to the terms of this policy. This site is owned by Onextrapixel, and may be accessed internationally. For data protection purposes, Onextrapixel is the controller and, unless otherwise noted, is also the processor of data. Information collected may be retained, and may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction.
+By using this site, you understand and agree to the terms of this policy. This site is owned by Onextrapixel, and may be accessed internationally. For data protection purposes, Onextrapixel is the controller and, unless otherwise noted, is also the processor of data. Information collected may be retained, and may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction. Onextrapixel also assumes no responsibility for, and shall not be liable for any damages or loss resulting to user or anyone else from use of this site.
 
 **Collection of Your Personal Information**  
 When you visit this site, certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site’s operation. We may also collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. 
@@ -61,6 +62,10 @@ We have appropriate security measures in place in our physical facilities and th
 **Affiliate Programs, Sponsored Posts, etc**  
 From time to time we may choose to use affiliate links and/or sponsored posts as an effort to generate extra income to our website. The appearance of such links or sponsored content in this blog is determined by its informational or inspirational value and not by its commercial value to us. We will only promote products and services that we like and feel are beneficial to our audience.
 
+**Accuracy of Information**
+
+Onextrapixel cannot warrant ANY of the information on this site, and can make no guarantees as to its accuracy or as to the rationality of any of the opinions expressed.
+
 **Links**  
 Onextrapixel is not responsible for the content of any third-party website. We may link to websites, including those of our third-party content providers that have different privacy policies and practices from those disclosed here. Any links to such websites are provided for your convenience or reference only. 
 
@@ -70,7 +75,7 @@ Onextrapixel is not responsible for the privacy policies or practices of third-p
 
 You access any third-party websites at your own risk.
 
-There may be circumstances where access to our website is provided by a hypertext link located on another website. Although Onextrapixel encourages and appreciates links from third-party websites, Onextrapixel has no responsibility for the content of such websites and Onextrapixel does not endorse, authorize, approve, certify, maintain, or control these other websites and does not guarantee the accuracy, completeness, efficacy or timeliness of the information located on such websites.
+There may be circumstances where access to our website is provided by a hypertext link located on another website. Although Onextrapixel encourages and appreciates links from third-party websites, Onextrapixel has no responsibility for the content of such websites and Onextrapixel does not endorse, authorize, approve, certify, maintain, or control these other websites and does not guarantee the accuracy, completeness, efficacy or timeliness of the information located on such websites, nor are we responsible for, the content of these sites. The existence of such a link cannot be construed as direct or indirect approval, endorsement or sponsorship of or affiliation with the linked site. 
 
 **Copyright**  
 Content may not be reproduced, distributed, translated, displayed, posted, communicated or used in any way without the prior written consent of Onextrapixel.
@@ -81,7 +86,7 @@ All e-mails, comments or other forms of communication received by Onextrapixel a
 **Content**  
 The views and opinions expressed in the media, articles or comments on this site are those of the speakers or authors and do not necessarily reflect the views and opinions held by Onextrapixel.
 
-While, we try our upmost to ensure that all the information provided is non-misleading and correct to the best of our knowledge. Onextrapixel does not warrant the accuracy, timeliness or completeness of the information contained on our website. If you have a particular complaint about something you’ve found on this website, feel free to contact us.
+While, we try our upmost to ensure that all the information provided is non-misleading and correct to the best of our knowledge. Onextrapixel does not warrant the accuracy, timeliness or completeness of the information contained on our website. If you have a particular complaint about something you’ve found on this website, feel free to [contact us](http://www.onextrapixel.com/contact/).
 
 **Comments**  
 Comments on this website are the sole responsibility of their writers and the writer will take full responsibility, liability, and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment. The accuracy, completeness, veracity, honesty, exactitude, factuality and politeness of comments are not guaranteed.
