@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125075444id_/http%3A//www.discountasp.net/userpolicy_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525154814id_/http%3A//www.discountasp.net/userpolicy_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policies at DiscountASP.NET ASP.NET, ASP, SQL Hosting Service
 
