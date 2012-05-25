@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the flashcardmachine.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124012902id_/http%3A//www.flashcardmachine.com/about/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flashcardmachine.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525080547id_/http%3A//www.flashcardmachine.com/about/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Flashcard Machine Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="keywords" value="flashcards,study tools,study skill,study tip,flash card,muliplication flash card,math flash card,spanish flash card">
 <meta name="description" value="Create interactive flashcards for studying, entirely web based. You can share with your classmates, or teachers can make the flash cards for the entire class.">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/fcm.js?v=3"></script>
-<link rel="stylesheet" type="text/css" href="/css/fcm.css?v=8">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/fcm.js?v=3"></script>
+<link rel="stylesheet" type="text/css" href="/css/fcm.css?v=16">
 <link rel="stylesheet" type="text/css" href="/css/print.css?v=1" media="print">
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="/css/fcm-ie6.css?v=1" />
@@ -24,9 +24,36 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script>
-</head>
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+  twttr.ready(function (twttr) {
+    twttr.events.bind('tweet', function(event) {
+      if (event) {
+        _gaq.push(['_trackSocial', 'twitter', 'tweet', 'http://www.flashcardmachine.com/']);
+      }
+    });
+  });
+</script></head>
 <body>
+
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.Event.subscribe('edge.create', function(targetUrl) {
+  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+  }); 
+};
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <div id="wrapper1">
 <div id="wrapper2">
@@ -67,7 +94,8 @@
     </div>
     
     <div id="donate">
-      We are 100%<br>user supported!
+      <strong>Supporting users<br>see no ads!
+      </strong>
       <a href="/donate/"><img src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" width="110" height="23" border="0" alt="Make a Donation"></a>
     </div>
     
@@ -128,28 +156,47 @@
   <div id="ads-right">
     
     <div id="facebook">
-      <div><a href="http://www.facebook.com/FlashcardMachine" onclick="recordOutboundLink(this, 'Outbound Links', 'facebook.com');return false;"><img src="http://media.flashcardmachine.com/img/facebook.jpg" border="0"></a></div>
-      <div><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FFlashcardMachine&amp;layout=button_count&amp;show_faces=true&amp;width=144&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:144px; height:21px;" allowtransparency="true"></iframe></div>
+      <div><a href="http://www.facebook.com/FlashcardMachine" onclick="recordOutboundLink(this, 'Outbound Links', 'facebook.com');return false;"><img src="http://media.flashcardmachine.com/img/facebook.jpg" width="144" height="44" border="0"></a></div>
+      <div class="fb-like" data-href="http://www.flashcardmachine.com" data-send="false" data-layout="button_count" data-width="144" data-show-faces="true"></div>  
+    </div>
+    
+    <div id="plusone">
+    <!-- Place this tag where you want the +1 button to render -->
+    <g:plusone size="medium" annotation="inline" width="142" href="http://www.flashcardmachine.com/"></g:plusone>
+    <!-- Place this render call where appropriate -->
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+    </div>
+    
+    <div id="twitter">
+      <a href="https://twitter.com/share?url=http%3A%2F%2Fwww.flashcardmachine.com%2F" class="twitter-share-button" data-lang="en">Tweet</a>
     </div>
     
     <div id="appstore">
       <a href="http://itunes.apple.com/us/app/flashcard-machine/id368469794?mt=8" onclick="recordOutboundLink(this, 'Outbound Links', 'itunes.apple.com');return false;"><img src="http://media.flashcardmachine.com/img/app_store_badge.gif" width="142" height="49" border="0"></a>
     </div>
+    
     <div id="android-market">
       <a href="https://market.android.com/details?id=com.flashcardmachine.app" onclick="recordOutboundLink(this, 'Outbound Links', 'market.android.com');return false;"><img src="http://media.flashcardmachine.com/img/android_market_badge.gif" width="142" height="61" border="0"></a>
     </div>
+    
         
     <div class="ad-wrapper">
-			<script type="text/javascript"><!--
-			google_ad_client = "pub-7944584375572736";
-			/* 120x600, created 11/23/09 */
-			google_ad_slot = "4899881376";
-			google_ad_width = 120;
-			google_ad_height = 600;
-			//-->
-			</script>
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>
+      <script type="text/javascript"><!--
+      google_ad_client = "ca-pub-7944584375572736";
+      /* Right Column */
+      google_ad_slot = "2966075827";
+      google_ad_width = 160;
+      google_ad_height = 600;
+      //-->
+      </script>
+      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+      </script>
     </div>
     
     
@@ -159,7 +206,7 @@
 
 <div id="footer">
   
-  <p class="left">© 2001 - 2011 Flash Card Machine, LLC · <a href="/about/privacy.cgi">Privacy Policy</a> · <a href="/about/terms.cgi">Terms of Use</a></p>
+  <p class="left">© 2001 - 2012 Flash Card Machine, LLC · <a href="/about/privacy.cgi">Privacy Policy</a> · <a href="/about/terms.cgi">Terms of Use</a></p>
   <p class="right"><a href="/links/">Links</a> · <a href="/flashcards.html">Flashcards</a></p>
   
 </div>
