@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121150423id_/http%3A//sacramento.cbslocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525123254id_/http%3A//sacramento.cbslocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « CBS Sacramento
 
