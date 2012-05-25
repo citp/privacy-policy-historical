@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122121050id_/http%3A//3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525140136id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3D-Savers.com - Privacy Policy
 
