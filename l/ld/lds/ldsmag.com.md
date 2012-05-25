@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldsmag.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125191657id_/http%3A//www.ldsmag.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsmag.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525192810id_/http%3A//www.ldsmag.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Meridian Magazine:: Privacy Policy
 
