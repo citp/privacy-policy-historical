@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fourthsource.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128070404id_/http%3A//www.fourthsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourthsource.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525195708id_/http%3A//www.fourthsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fourth Source
+# Privacy and Cookie Policy - Fourth Source
 
 This privacy policy sets out how Fourth Source uses and protects any information that you give Fourth Source when you use this website.
 
 Fourth Source is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-Fourth Source may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2011.
 
 **What we collect**
 
@@ -27,6 +25,7 @@ We require this information to understand your needs and provide you with a bett
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * **_We never pass your information onto any third parties_**
 
 
 
@@ -42,7 +41,15 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. For more information, visit [http://www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies/).
+
+**Cookies we use**
+
+**Google Analytics** – We use this cookie to help us understand how visitors interact with our website, so we can deliver a better service for our users, all data is kept anonymous. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/).
+
+**Google Adsense -**  This cookie is used to help us understand how our ads on our website are performing and also deliver you the most relevant ads specifically to you. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/).
+
+**OpenX**  - This cookie is used to serve advertisements on the website. We use it to serve Google ads as well as our own ads. You can find out more about the OpenX cookie at [www.openx.com/about/openx-market-privacy-principles](http://www.openx.com/about/openx-market-privacy-principles).
 
 **Links to other websites**
 
@@ -50,15 +57,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 **Controlling your personal information**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at mail@fourthsource.com
+If you would like a copy of the information held on you please write to us at Fourth Source, 1 Lyric Square, London, W6 0NB.
 
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us at Fourth Source, 1 Lyric Square, London, W6 0NB.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Fourth Source may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2011.
