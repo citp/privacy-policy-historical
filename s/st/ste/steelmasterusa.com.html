@@ -1,361 +1,417 @@
-<!--The following is the downloaded HTML source of the steelmasterusa.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126093047id_/http%3A//www.steelmasterusa.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the steelmasterusa.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525214516id_/http%3A//www.steelmasterusa.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <meta name="google-site-verification" content="QwtZGZqAmKKjSV26uEzjNHSspNr1-K-ji6hITXao8h8">
 <meta name="google-site-verification" content="QwtZGZqAmKKjSV26uEzjNHSspNr1-K-ji6hITXao8h8">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Privacy Policy</title>
-<link rel="stylesheet" href="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/style.css.pagespeed.ce.MJNgVeuD-W.css" type="text/css" media="screen">
-<script type="text/javascript" async="" src="//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/6u24A7.js"></script><script type="text/javascript" src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/drop-down.js.pagespeed.ce.MTl1O1b5tE.js"></script>
-<script src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/input-hide.js.pagespeed.ce.Kz40DcKuKs.js" type="text/javascript"></script>
-<script type="text/javascript">//<![CDATA[
-var transparentImage = "images/transparent.gif";
-function fixTrans()
-{
-    if (typeof document.body.style.maxHeight == 'undefined') {
-    var imgs = document.getElementsByTagName("img");
-    for (i = 0; i < imgs.length; i++)
-    {    
-        if (imgs[i].src.indexOf(transparentImage) != -1)
-        {
-            return;
-        }
-        if (imgs[i].src.indexOf(".png") != -1)
-            {
-                var src = imgs[i].src;
-                imgs[i].src = transparentImage;
-                imgs[i].runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + src + "',sizingMethod='scale')";
-                imgs[i].style.display = "inline-block";
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Privacy Policy</title>
+	<link rel="stylesheet" href="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/style.css" type="text/css" media="screen">
+	<script type="text/javascript" src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/drop-down.js"></script>
+	<script src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/input-hide.js" type="text/javascript"></script>
+	<script src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/ie-png.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/jquery.main.js"></script>
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/lt8.css" media="screen"/><![endif]-->
+	<script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
+
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
             }
-        }    
+            break;
     }
 }
-if (document.all && !window.opera)
-    attachEvent("onload", fixTrans);
-
-//]]></script>
-<script type="text/javascript" src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/jquery-1.4.2.min.js.pagespeed.ce.EAku7lY97C.js"></script>
-<script type="text/javascript" src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/js/jquery.main.js.pagespeed.ce.xWPxdVj-6U.js"></script>
-<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/lt8.css" media="screen"/><![endif]-->
+//]]>
+</script>
+                        <style type="text/css" media="screen">
+                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:40px;position:fixed; right:0; top:100px;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -84px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+                        </style>
+                                                <style type="text/css" media="print">
+                                body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}
+                        </style>
+                        <link rel="image_src" href="http://www.gravatar.com/avatar/ec98a630c43a5bd37e45adc419d63817?default=&amp;size=110.jpg"> 
 <link rel="stylesheet" id="NextGEN-css" href="http://www.steelmasterusa.com/wp-content/plugins/nextgen-gallery/css/ngg_k2.css?ver=1.0.0" type="text/css" media="screen">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.steelmasterusa.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.steelmasterusa.com/wp-includes/wlwmanifest.xml">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.steelmasterusa.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="" href="http://www.steelmasterusa.com">
-<link rel="start" title="Hello world!" href="http://www.steelmasterusa.com/hello-world">
-<link rel="prev" title="SteelMaster Buildings Featured in Blockbuster Movies" href="http://www.steelmasterusa.com/steelmaster-buildings-featured-in-blockbuster-movies">
-<link rel="next" title="Cogi Farms – Agricultural Use Steel Buildings" href="http://www.steelmasterusa.com/cogi-farms-agricultural-steel-buildings">
-<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[452,477] -->
+<link rel="start" title="Hello world!" href="http://www.steelmasterusa.com/hello-world/">
+<link rel="prev" title="SteelMaster Buildings Featured in Blockbuster Movies" href="http://www.steelmasterusa.com/steelmaster-buildings-featured-in-blockbuster-movies/">
+<link rel="next" title="Cogi Farms – Agricultural Use Steel Buildings" href="http://www.steelmasterusa.com/cogi-farms-agricultural-steel-buildings/">
+
+<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[446,471] -->
 <meta name="description" content="SteelMaster Buildings Email Privacy Policy was created to demonstrate our firm commitment to your privacy and the protection of your information.">
 <meta name="keywords" content="steelmaster buildings privacy policy, steelmaster privacy policy, privacy policy steelmaster buildings, privacy policy steelmaster">
-<link rel="canonical" href="http://www.steelmasterusa.com/privacy-policy">
+<link rel="canonical" href="http://www.steelmasterusa.com/privacy-policy/">
 <!-- /all in one seo pack -->
-<script type="text/javascript" src="http://www.steelmasterusa.com/wp-includes/js/jquery/jquery.js.pagespeed.ce.JeWTJctH0q.js"></script><script type="text/javascript">//<![CDATA[
-if(typeof jQuery=="undefined"){throw"Unable to load Shadowbox, jQuery library not found."}var Shadowbox={};Shadowbox.lib={getStyle:function(B,A){return jQuery(B).css(A)},setStyle:function(C,B,D){if(typeof B!="object"){var A={};A[B]=D;B=A}jQuery(C).css(B)},get:function(A){return(typeof A=="string")?document.getElementById(A):A},remove:function(A){jQuery(A).remove()},getTarget:function(A){return A.target},preventDefault:function(A){A=A.browserEvent||A;if(A.preventDefault){A.preventDefault()}else{A.returnValue=false}},addEvent:function(C,A,B){jQuery(C).bind(A,B)},removeEvent:function(C,A,B){jQuery(C).unbind(A,B)},animate:function(A,D,C,F){C=Math.round(C*1000);var E={};for(var B in D){for(var B in D){E[B]=String(D[B].to);if(B!="opacity"){E[B]+="px"}}}jQuery(A).animate(E,C,null,F)}};(function(A){A.fn.shadowbox=function(B){return this.each(function(){var E=A(this);var D=A.extend({},B||{},A.metadata?E.metadata():A.meta?E.data():{});var C=this.className||"";D.width=parseInt((C.match(/w:(\d+)/)||[])[1])||D.width;D.height=parseInt((C.match(/h:(\d+)/)||[])[1])||D.height;Shadowbox.setup(E,D)})}})(jQuery)
-//]]></script><script type="text/javascript" src="http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/js/shadowbox.js.pagespeed.ce.MqoWxArqNA.js"></script><script type="text/javascript"><!--
+<script type="text/javascript" src="http://www.steelmasterusa.com/wp-includes/js/jquery/jquery.js"></script><script type="text/javascript" src="http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/js/sbadapter/shadowbox-jquery.js"></script><script type="text/javascript" src="http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/js/shadowbox.js"></script><script type="text/javascript"><!--
 window.onload = function() {var options ={assetURL:'',loadingImage:'http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/css/images/loading.gif',flvPlayer:'http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/swf/mediaplayer.swf',animate:true,animSequence:'wh',overlayColor:'#000',overlayOpacity:0.85,overlayBgImage:'http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/css/images/overlay-85.png',listenOverlay:true,autoplayMovies:true,showMovieControls:true,resizeDuration:0.35,fadeDuration:0.35,displayNav:true,continuous:false,displayCounter:true,counterType:'default',viewportPadding:20,handleLgImages:'resize',initialHeight:160,initialWidth:320,enableKeys:true,keysClose:['c', 'q', 27],keysPrev:['p', 37],keysNext:['n', 39],handleUnsupported:'',text: {cancel:'Cancel',loading: 'loading',close:'<span class="shortcut">C</span>lose',next:'<span class="shortcut">N</span>ext',prev:'<span class="shortcut">P</span>revious',errors:{single: 'You must install the <a href="{0}">{1}</a> browser plugin to view this content.',shared: 'You must install both the <a href="{0}">{1}</a> and <a href="{2}">{3}</a> browser plugins to view this content.',either: 'You must install either the <a href="{0}">{1}</a> or the <a href="{2}">{3}</a> browser plugin to view this content.'}}};Shadowbox.init(options);}
---></script><link rel="stylesheet" type="text/css" media="screen" href="http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/css/shadowbox.css.pagespeed.ce.Gcnn5ICC7E.css"><link id="MediaRSS" rel="alternate" type="application/rss+xml" title="NextGEN Gallery RSS Feed" href="http://www.steelmasterusa.com/wp-content/plugins/nextgen-gallery/xml/media-rss.php">
+--></script><link rel="stylesheet" type="text/css" media="screen" href="http://www.steelmasterusa.com/09site/wp-content/plugins/pb-embedflash/css/shadowbox.css"><link id="MediaRSS" rel="alternate" type="application/rss+xml" title="NextGEN Gallery RSS Feed" href="http://www.steelmasterusa.com/wp-content/plugins/nextgen-gallery/xml/media-rss.php">
+
 <!-- NextGeEN Gallery CoolIris/PicLens support -->
 <script type="text/javascript" src="http://lite.piclens.com/current/piclens_optimized.js"></script>
 <!-- /NextGEN Gallery CoolIris/PicLens support -->
 <meta name="NextGEN" content="1.4.3">
 <script language="javascript" type="text/javascript" src="https://a1.websitealive.com/4297/Visitor/vTracker_v2.asp?websiteid=395&amp;groupid=4297"></script></head>
 <body class="inner1">
-<div class="w1">
-<div id="wrapper">
-<!-- Google Code for Call Tracking Sign-Up -->
+	<div class="w1">
+		<div id="wrapper">
+			<!-- Google Code for Call Tracking Sign-Up -->
 <script type="text/javascript">
 var phone_number = "18003417007";
 function GetPhoneNumber() {
 return phone_number;
 }
 </script>
-<script type="text/javascript">//<![CDATA[
-// JavaScript Document
-
-function FormatPhoneNumber(number_string, format_string) {
-num_of_x = 0;
-for (i = 0; i < format_string.length; i++) {
-if (format_string.charAt(i) == 'x') {
-num_of_x++;
-}
-}
-if (number_string.length != num_of_x) {
-return number_string;
-}
-else {
-formatted_string = "";
-pos = 0;
-for (i = 0; i < format_string.length; i++) {
-if (format_string.charAt(i) == 'x') {
-formatted_string += number_string.charAt(pos);
-pos++;
-}
-else {
-formatted_string += format_string.charAt(i);
-}
-}
-return formatted_string;
-}
-}
-//]]></script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion/1071914647/calltracking"></script>
-<div id="header">
-<h1 class="logo"><a href="http://www.steelmasterusa.com"></a></h1>
-<ul class="add-nav">
-<li><a href="http://www.steelmasterusa.com/">Home</a></li>
-<li><a href="http://info.steelmasterusa.com/steelmaster-contact-us/">Contact Us</a></li>
-<li><a href="/international/en-espanol">En Español</a></li>
-<li><a href="/sitemap-2">SiteMap</a></li>
-<li><a href="/media-room-2">Media Room</a></li>
-</ul>
+<script type="text/javascript" src="http://www.steelmasterusa.com/formatnumber.js"> </script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion/1071914647/calltracking"> </script>
+			<div id="header">
+				<h1 class="logo"><a href="http://www.steelmasterusa.com"></a></h1>
+				<ul class="add-nav">
+					<li><a href="http://www.steelmasterusa.com/">Home</a></li>
+				  <li><a href="http://www.steelmasterusa.com/contact-us">Contact Us</a></li>
+				  <li><a href="/international/en-espanol">En Español</a></li>
+				  <li><a href="/sitemap-2">SiteMap</a></li>
+				  <li><a href="/media-room-2">Media Room</a></li>
+				  				</ul>
 <div class="phone">
-<div class="holder">
-<script language="javascript">
+					<div class="holder">
+						<script language="javascript">
 document.write(FormatPhoneNumber(GetPhoneNumber(), "x-xxx-xxx-xxxx"))
-</script>1-800-341-7007 <noscript>1-800-341-7007</noscript>
-</div>
-</div>
-<ul id="nav">
-<li class="first"><a href="http://www.steelmasterusa.com" title="Home" class=" nav-home">Home</a></li>
+</script> <noscript>1-800-341-7007</noscript>
+					</div>
+				</div>
+				<ul id="nav">
+                                         <li class="first"><a href="http://www.steelmasterusa.com" title="Home" class=" nav-home">Home</a></li>
 <li><a title="Products" class=" nav-products">Products</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
 <ul>
-<li><a href="http://www.steelmasterusa.com/products/clearance-center" title="Special Deals">Special Deals</a></li>
-<li><a href="http://www.steelmasterusa.com/products/agricultural" title="Agricultural">Agricultural</a></li>
-<li><a href="http://www.steelmasterusa.com/products/aircraft" title="Aircraft Hangars">Aircraft Hangars</a></li>
-<li><a href="http://www.steelmasterusa.com/products/animal-shelters" title="Animal Shelters">Animal Shelters</a></li>
-<li><a href="http://www.steelmasterusa.com/products/athletic-facilities" title="Athletic Facilities">Athletic Facilities</a></li>
-<li><a href="http://www.steelmasterusa.com/products/auto-shops" title="Auto Shops">Auto Shops</a></li>
-<li><a href="http://www.steelmasterusa.com/products/bulk-storage" title="Bulk Storage">Bulk Storage</a></li>
-</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/products/canopies-awnings" title="Canopies &amp; Awnings">Canopies &amp; Awnings</a></li>
-<li><a href="http://www.steelmasterusa.com/products/carports" title="Carports">Carports</a></li>
-<li><a href="http://www.steelmasterusa.com/products/commercial-industrial" title="Commercial Industrial">Commercial Industrial</a></li>
-<li><a href="http://www.steelmasterusa.com/products/container-covers" title="Container Covers">Container Covers</a></li>
-<li><a href="http://www.steelmasterusa.com/products/custom-buildings" title="Custom Buildings">Custom Buildings</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
-<ul>
-<li><a href="http://www.steelmasterusa.com/products/custom-buildings" title="Specialty Buildings">Specialty Buildings</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/clearance-center" title="Special Deals">Special Deals</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/agricultural/" title="Agricultural">Agricultural</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/aircraft/" title="Aircraft Hangars">Aircraft Hangars</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/animal-shelters/" title="Animal Shelters">Animal Shelters</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/athletic-facilities/" title="Athletic Facilities">Athletic Facilities</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/auto-shops/" title="Auto Shops">Auto Shops</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/bulk-storage/" title="Bulk Storage">Bulk Storage</a></li>
+</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/products/canopies-awnings/" title="Canopies &amp; Awnings">Canopies &amp; Awnings</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/carports/" title="Carports">Carports</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/commercial-industrial/" title="Commercial Industrial">Commercial Industrial</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/container-covers/" title="Container Covers">Container Covers</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/custom-buildings/" title="Custom Buildings">Custom Buildings</a><div class="drop">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
+	<ul>
+		<li><a href="http://www.steelmasterusa.com/products/custom-buildings" title="Specialty Buildings">Specialty Buildings</a></li>
+	</ul>
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
+	<li><a href="http://www.steelmasterusa.com/products/emergency-relief-structures/" title="Emergency Relief Structures">Emergency Relief Structures</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/garages/" title="Garages">Garages</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/government/" title="Government (GSA)">Government (GSA)</a></li>
+</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/products/green-buildings/" title="Green Buildings">Green Buildings</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/hay-storage/" title="Hay Storage">Hay Storage</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/affordable-steel-housing/" title="Housing">Housing</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/man-caves/" title="Man Caves">Man Caves</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/pole-barns/" title="Pole Barns">Pole Barns</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/portable-liftable-steel-buildings/" title="Portable / Liftable Buildings">Portable / Liftable Buildings</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/quonset-hut-history/" title="Quonset History">Quonset History</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/retail-storesbusiness-facilities/" title="Retail / Business">Retail / Business</a></li>
+</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/products/roofing-systems/" title="Roofing Systems">Roofing Systems</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/rv-storage/" title="RV Storage">RV Storage</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/salt-storage-buildings/" title="Salt Storage Buildings">Salt Storage Buildings</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/sheds/" title="Sheds">Sheds</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/storage-buildings/" title="Storage Buildings">Storage Buildings</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/workshops/" title="Workshops">Workshops</a></li>
+	<li><a href="http://www.steelmasterusa.com/products/building-accessories/" title="Accessories/Parts">Accessories/Parts</a></li>
 </ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
-<li><a href="http://www.steelmasterusa.com/products/emergency-relief-structures" title="Emergency Relief Structures">Emergency Relief Structures</a></li>
-<li><a href="http://www.steelmasterusa.com/products/garages" title="Garages">Garages</a></li>
-<li><a href="http://www.steelmasterusa.com/products/government" title="Government (GSA)">Government (GSA)</a></li>
-</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/products/green-buildings" title="Green Buildings">Green Buildings</a></li>
-<li><a href="http://www.steelmasterusa.com/products/hay-storage" title="Hay Storage">Hay Storage</a></li>
-<li><a href="http://www.steelmasterusa.com/products/affordable-steel-housing" title="Housing">Housing</a></li>
-<li><a href="http://www.steelmasterusa.com/products/man-caves" title="Man Caves">Man Caves</a></li>
-<li><a href="http://www.steelmasterusa.com/products/pole-barns" title="Pole Barns">Pole Barns</a></li>
-<li><a href="http://www.steelmasterusa.com/products/portable-liftable-steel-buildings" title="Portable / Liftable Buildings">Portable / Liftable Buildings</a></li>
-<li><a href="http://www.steelmasterusa.com/products/quonset-hut-history" title="Quonset History">Quonset History</a></li>
-<li><a href="http://www.steelmasterusa.com/products/retail-storesbusiness-facilities" title="Retail / Business">Retail / Business</a></li>
-</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/products/roofing-systems" title="Roofing Systems">Roofing Systems</a></li>
-<li><a href="http://www.steelmasterusa.com/products/rv-storage" title="RV Storage">RV Storage</a></li>
-<li><a href="http://www.steelmasterusa.com/products/salt-storage" title="Salt Storage">Salt Storage</a></li>
-<li><a href="http://www.steelmasterusa.com/products/sheds" title="Sheds">Sheds</a></li>
-<li><a href="http://www.steelmasterusa.com/products/storage-buildings" title="Storage Buildings">Storage Buildings</a></li>
-<li><a href="http://www.steelmasterusa.com/products/workshops" title="Workshops">Workshops</a></li>
-<li><a href="http://www.steelmasterusa.com/products/building-accessories" title="Accessories/Parts">Accessories/Parts</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
 <li><a title="Learn More" class=" nav-learn-more">Learn More</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
 <ul>
-<li><a href="http://www.steelmasterusa.com/learn-more/model-gallery" title="Model Gallery">Model Gallery</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/building-sizes" title="Building Sizes">Building Sizes</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/construction" title="Construction">Construction</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/sm-difference" title="SteelMaster Difference">SteelMaster Difference</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/the-factory" title="The Factory">The Factory</a></li>
-<li><a href="http://www.steelmasterusa.com/category/video" title="Video Gallery">Video Gallery</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/find-local-steel-building" title="Find Local Buildings">Find Local Buildings</a></li>
-</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/learn-more/resource-center" title="Resource Center">Resource Center</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/blog-4" title="Blog">Blog</a></li>
-<li><a href="http://www.steelmasterusa.com/learn-more/testimonials" title="Customer Reviews">Customer Reviews</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/model-gallery/" title="Model Gallery">Model Gallery</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/building-sizes/" title="Building Sizes">Building Sizes</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/construction/" title="Construction">Construction</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/sm-difference/" title="SteelMaster Difference">SteelMaster Difference</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/the-factory/" title="The Factory">The Factory</a></li>
+	<li><a href="http://www.steelmasterusa.com/category/video" title="Video Gallery">Video Gallery</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/resource-center/" title="Resource Center">Resource Center</a></li>
+</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/learn-more/find-local-steel-building/" title="Find Local Buildings">Find Local Buildings</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/blog-4/" title="Blog">Blog</a></li>
+	<li><a href="http://www.steelmasterusa.com/learn-more/testimonials/" title="Customer Reviews">Customer Reviews</a></li>
 </ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
 <li><a title="Company" class=" nav-company">Company</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
 <ul>
-<li><a href="http://www.steelmasterusa.com/company/about-us" title="About SteelMaster">About SteelMaster</a></li>
-<li><a href="http://www.steelmasterusa.com/company/company-information" title="Company Information">Company Information</a></li>
-<li><a href="http://www.steelmasterusa.com/category/news-releases" title="In the News">In the News</a></li>
-<li><a href="http://www.steelmasterusa.com/company/our-team" title="Our Team">Our Team</a></li>
-<li><a href="http://www.steelmasterusa.com/company/employment" title="Employment">Employment</a></li>
-<li><a href="http://www.steelmasterusa.com/company/referral-program" title="Referral Program">Referral Program</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
-<ul>
-<li><a href="https://steelmasterusa.wufoo.com/forms/partners-in-steel-registration/" title="Referral Registration Form">Referral Registration Form</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/about-us/" title="About SteelMaster">About SteelMaster</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/company-information/" title="Company Information">Company Information</a></li>
+	<li><a href="http://www.steelmasterusa.com/category/news-releases" title="In the News">In the News</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/awards/" title="Awards">Awards</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/employment/" title="Employment">Employment</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/our-team/" title="Our Team">Our Team</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/referral-program/" title="Referral Program">Referral Program</a><div class="drop">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
+	<ul>
+		<li><a href="https://steelmasterusa.wufoo.com/forms/partners-in-steel-registration/" title="Referral Registration Form">Referral Registration Form</a></li>
+	</ul>
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
+</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/company/interactive-building-maps/" title="Interactive Building Maps">Interactive Building Maps</a></li>
+	<li><a href="http://www.steelmasterusa.com/company/newsletters/" title="Newsletters">Newsletters</a></li>
 </ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
-<li><a href="http://www.steelmasterusa.com/company/interactive-building-maps" title="Interactive Building Maps">Interactive Building Maps</a></li>
-</ul></div><div class="col"><ul>	<li><a href="http://www.steelmasterusa.com/company/newsletters" title="Newsletters">Newsletters</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
 <li><a title="International" class=" nav-international">International</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
 <ul>
-<li><a href="http://www.steelmasterestructuras.com" title="En Español">En Español</a></li>
-<li><a href="http://www.steelmasterusa.com/international/worldwide" title="Worldwide">Worldwide</a></li>
-<li><a href="http://www.steelmasterusa.com/international/overseas-logistics" title="Overseas Logistics">Overseas Logistics</a></li>
-<li><a href="http://www.steelmasterusa.com/international/intl-distributor-ops" title="Distributor Opportunities">Distributor Opportunities</a></li>
-<li><a href="http://www.steelmasterusa.com/international/contact-us-intl" title="Contact Us">Contact Us</a></li>
+	<li><a href="http://www.steelmasterestructuras.com" title="En Español">En Español</a></li>
+	<li><a href="http://www.steelmasterusa.com/international/worldwide/" title="Worldwide">Worldwide</a></li>
+	<li><a href="http://www.steelmasterusa.com/international/overseas-logistics/" title="Overseas Logistics">Overseas Logistics</a></li>
+	<li><a href="http://www.steelmasterusa.com/international/intl-distributor-ops/" title="Distributor Opportunities">Distributor Opportunities</a></li>
+	<li><a href="http://www.steelmasterusa.com/international/contact-us-intl/" title="Contact Us">Contact Us</a></li>
 </ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
 <li><a title="Customer Service" class=" nav-customer-service">Customer Service</a><div class="drop">
-<div class="drop-inner">
-<div class="table">
-<div class="top-left"></div>
-<div class="top"></div>
-<div class="top-right"></div>
-<div class="body">
-<div class="left"></div>
-<div class="content">
-<div class="holder">
-<div class="col">
+				<div class="drop-inner">
+					<div class="table">
+						<div class="top-left"></div>
+						<div class="top"></div>
+						<div class="top-right"></div>
+						<div class="body">
+							<div class="left"></div>
+							<div class="content">
+								<div class="holder">
+									<div class="col">
 <ul>
-<li><a href="http://www.steelmasterusa.com/customer-service/faqs-2" title="FAQ's">FAQ's</a></li>
-<li><a href="http://info.steelmasterusa.com/steelmaster-contact-us" title="Contact Us">Contact Us</a></li>
-<li><a href="http://info.steelmasterusa.com/steelmaster-instant-call-back" title="Instant Call Back">Instant Call Back</a></li>
-<li><a href="http://www.steelmasterusa.com/customer-service/building-parts-accessories" title="Parts and Accessories">Parts and Accessories</a></li>
-<li><a href="http://www.steelmasterusa.com/customer-service/links" title="Links">Links</a></li>
+	<li><a href="http://www.steelmasterusa.com/customer-service/faqs-2/" title="FAQ's">FAQ's</a></li>
+	<li><a href="http://www.steelmasterusa.com/contact-us" title="Contact Us">Contact Us</a></li>
+	<li><a href="http://info.steelmasterusa.com/steelmaster-instant-call-back" title="Instant Call Back">Instant Call Back</a></li>
+	<li><a href="http://www.steelmasterusa.com/customer-service/building-parts-accessories/" title="Parts and Accessories">Parts and Accessories</a></li>
+	<li><a href="http://www.steelmasterusa.com/customer-service/links/" title="Links">Links</a></li>
 </ul>
-</div>
-</div>
-</div>
-<div class="right"></div>
-</div>
-<div class="bottom-left"></div>
-<div class="bottom"></div>
-<div class="bottom-right"></div>
-</div>
-</div>
-</div></li>
-<li><a href="http://www.steelmasterusa.com/blogpage" title="Blog" class=" nav-blogpage">Blog</a></li>
-<li class="last"><a class="nav-shop-a" href="http://shop.steelmasterusa.com/"><span class="nav-shop">Shop</span></a></li>
-</ul>
-</div>
-<div id="main">
+						</div>
+								</div>
+							</div>
+							<div class="right"></div>
+						</div>
+						<div class="bottom-left"></div>
+						<div class="bottom"></div>
+						<div class="bottom-right"></div>
+					</div>
+				</div>
+			</div></li>
+<li><a href="http://www.steelmasterusa.com/blogpage/" title="Blog" class=" nav-blogpage">Blog</a></li>
+					<li class="last"><a class="nav-shop-a" href="http://shop.steelmasterusa.com/"><span class="nav-shop">Shop</span></a></li>
+			  </ul>
+			</div>
+			<div id="main">
 <div id="content">
-<div class="post" id="post-17766">
-<div class="head">
-<h1>Privacy Policy</h1>
-</div>
-<div class="body">
-<h2>SteelMaster Buildings Email Privacy Policy</h2>
+
+		
+		<div class="post" id="post-17766">
+		<div class="head">
+			<h1>Privacy Policy</h1>
+					</div>
+		<div class="body">
+			<h2>SteelMaster Buildings Email Privacy Policy</h2>
 <p>We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.</p>
 <p>________________________________________________________________________________</p>
 <p><strong>Why did you receive an email from us?</strong></p>
@@ -370,34 +426,58 @@ document.write(FormatPhoneNumber(GetPhoneNumber(), "x-xxx-xxx-xxxx"))
 <p><strong>How can you stop receiving email from us?</strong></p>
 <p>Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.</p>
 <p>If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to <span style="text-decoration: underline;"><a href="mailto:marketing@steelmasterusa.com">marketing@steelmasterusa.com</a></span> for review.</p>
-</div>
-<div class="foot">
-<ul>
-<li>Posted in <a href="http://www.steelmasterusa.com/category/application-extras" title="View all posts in Application Extras" rel="category tag">Application Extras</a></li>
-<li><a href="http://www.steelmasterusa.com/privacy-policy#respond" title="Comment on Privacy Policy">No Comments</a></li>
-</ul>
-</div>
-</div>
+<div class="shareinpost"><ul class="socialwrap row"><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;n=Privacy+Policy&amp;pli=1" title="Share this post : Privacy Policy on Blogger"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-50px 0px" class="image-24" width="24" alt="blogger"> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Bookmark this post : Privacy Policy on Delicious"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-150px 0px" class="image-24" width="24" alt="delicious"> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://digg.com/submit?url=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;bodytext=SteelMaster+Buildings+Email+Privacy+Policy%0D%0AWe+have+created+this+email+privacy+policy+to+demonstrate+our+firm+commitment+to+your+privacy+and+the+protection+of+your+information.%0D%0A%0D%0A________________________________________________________________________________%0D%0A%0D%0AWhy+did+you+receive+an+email+from+us%3F%0D%0A%0D%0AIf+you+received" title="Digg this post : Privacy Policy"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-200px 0px" class="image-24" width="24" alt="digg"> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Recommend this post : Privacy Policy on Facebook"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-275px 0px" class="image-24" width="24" alt="facebook"> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Buzz up this post : Privacy Policy "><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-475px 0px" class="image-24" width="24" alt="google_buzz"> <span class="head">Buzz it up</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;&amp;summary=SteelMaster+Buildings+Email+Privacy+Policy%0D%0AWe+have+created+this+email+privacy+policy+to+demonstrate+our+firm+commitment+to+your+privacy+and+the+protection+of+your+information.%0D%0A%0D%0A________________________________________________________________________________%0D%0A%0D%0AWhy+did+you+receive+an+email+from+us%3F%0D%0A%0D%0AIf+you+received" title="Share this post : Privacy Policy on Linkedin"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-675px 0px" class="image-24" width="24" alt="linkedin"> <span class="head">Share on Linkedin</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy on Reddit"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1075px 0px" class="image-24" width="24" alt="reddit"> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy with Stumblers"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1225px 0px" class="image-24" width="24" alt="stumble"> <span class="head">Share with Stumblers</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F" title="Tweet this post : Privacy Policy on Twitter"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px" class="image-24" width="24" alt="twitter"> <span class="head">Tweet about it</span></a></li><li class="iconOnly"><a rel="_self" href="http://www.steelmasterusa.com/privacy-policy/feed" title="Follow this post : Privacy Policy comments"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1100px 0px" class="image-24" alt="rss"> <span class="head">Subscribe to the comments on this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.print();" title="Print this post : Privacy Policy for reading later"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1050px 0px" class="image-24" width="24" alt="print"> <span class="head">Print for later</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.bookMark('http%3A%2F%2Fwww.steelmasterusa.com%2Fprivacy-policy%2F', 'Privacy+Policy', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px" class="image-24" width="24" alt="bookmark"> <span class="head">Bookmark in Browser</span></a></li><li class="iconOnly"><a rel="_self" href="mailto:?subject=%20:%20Privacy%20Policy&amp;body=Here%20is%20a%20link%20to%20a%20site%20I%20really%20like.%20%20%20http://www.steelmasterusa.com/privacy-policy/" title="Tell a friend about this post : Privacy Policy "><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-250px 0px" class="image-24" alt="email"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div>					</div>
+		<div class="foot">
+			<ul>
+				<li>Posted in <a href="http://www.steelmasterusa.com/category/application-extras/" title="View all posts in Application Extras" rel="category tag">Application Extras</a></li>
+				<li><a href="http://www.steelmasterusa.com/privacy-policy/#respond" title="Comment on Privacy Policy">No Comments</a></li>
+							</ul>
+		</div>
+	</div>
+	
+	
 <!-- Start editing here. -->
+
+
+		
+		
+
+
 <h3>Leave a Reply</h3>
+
+
 <form action="http://www.steelmasterusa.com/wp-comments-post.php" method="post" id="commentform">
-<p class="clearfix"><label for="author">Name (required)</label> <input type="text" class="text" name="author" id="author" value="" size="22" tabindex="1"></p>
-<p class="clearfix"><label for="email">Email (will not be shared, required)</label> <input type="text" class="text" name="email" id="email" value="" size="22" tabindex="2"></p>
-<p class="clearfix"><label for="url">Phone Number (will not be shared)</label> <input type="text" name="url" id="url" value="" size="22" tabindex="3" class="text"></p>
-<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
-<p class="clearfix"><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment"></p>
-<input type="hidden" name="comment_post_ID" value="17766">
+
+
+	<p class="clearfix"><label for="author">Name (required)</label> <input type="text" class="text" name="author" id="author" value="" size="22" tabindex="1"></p>
+
+	<p class="clearfix"><label for="email">Email (will not be shared, required)</label> <input type="text" class="text" name="email" id="email" value="" size="22" tabindex="2"></p>
+
+	<p class="clearfix"><label for="url">Phone Number (will not be shared)</label> <input type="text" name="url" id="url" value="" size="22" tabindex="3" class="text"></p>
+
+
+	<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+	<p class="clearfix"><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment"></p>
+	<input type="hidden" name="comment_post_ID" value="17766">
+
 <p>Comment moderation is enabled. Your comment may take some time to appear.</p>
 </form>
+
+	
+	
+	
+		
 </div>
+
 <div id="sidebar">
-<form method="get" class="form-search" id="searchform" action="http://www.steelmasterusa.com">
-<fieldset>
-<input type="text" class="text" value="Search our site" onfocus="if(this.value == 'search'){this.value = ''}" onblur="if(this.value == ''){this.value = 'search'}" name="s">
-<input type="submit" value="Go" class="btn-go">
-</fieldset>
+	<form method="get" class="form-search" id="searchform" action="http://www.steelmasterusa.com">
+	<fieldset>
+		<input type="text" class="text" value="Search our site" onfocus="if(this.value == 'search'){this.value = ''}" onblur="if(this.value == ''){this.value = 'search'}" name="s">
+		<input type="submit" value="Go" class="btn-go">
+	</fieldset>
 </form>	<div class="holder">
-<div class="widget widget_text">	<div class="textwidget"><ul class="sidenav">
+		<div class="widget widget_text">			<div class="textwidget"><ul class="sidenav">
 <li><a href="/steel-garage/">Garages and Workshops</a></li>
 <li><a href="/agricultural-buildings/">Agricultural Storage</a></li>
 <li><a href="/industrial-steel-building/">Industrial / Commercial</a></li>
@@ -408,180 +488,187 @@ document.write(FormatPhoneNumber(GetPhoneNumber(), "x-xxx-xxx-xxxx"))
 <li><a href="/steel-carports/">Carports</a></li>
 <li><a href="/history-quonset-hut/">Quonset Hut History</a></li>
 </ul></div>
-</div><div class="widget widget_text">	<div class="textwidget"><ul class="btns">
-<li><a href="/products/clearance-center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAAiCAMAAAATfAkGAAABd1BMVEXcAADdAAD////////////////////////////////////////////////////cAADdAADdAwPdCQneAADeAwPfAADgAADgAwPgCQnhAADhGxviAADjCQnkAADlAADmS0vnAADoBgboJCToS0vpV1fqAADqBgbqJCTtAADubGzwAADwbGzzAADzqKj0ERH0qKj1AAD1IiL1MzP2AAD2ERH2IiL2RET3MzP4AAD4ERH4RET4xsb4zMz5Zmb6AAD6ERH6RET6VVX6d3f7AAD7ERH7MzP7RET7d3f729v73t78AAD8ERH8IiL8MzP8RET8VVX8Zmb8d3f8mZn8qqr8u7v9MzP9RET9VVX9Zmb9d3f9iIj9mZn9qqr9u7v9zMz+AAD+ERH+IiL+MzP+RET+VVX+Zmb+d3f+mZn+qqr+u7v+zMz+3d3+7u7/AAD/ERH/IiL/MzP/RET/VVX/Zmb/d3f/iIj/mZn/qqr/u7v/zMz/3d3/7u7////NgBW8AAAAD3RSTlMAAAAqP0uNk6i02+T2+fysZ1hGAAADpUlEQVRYw9VYi1bTQBCNQaigqPgCFUVQQQVLQYXIIyBPqVhFsVIEC5ZXwQDF0pZmPt6Z2d10E/iA5J5DZnIzd+Y27DZtDdM06huvQZhxrbHeRJumGRvruHUjzLjVMRYjpw2vW26GHS2vG0yjbqHtbvjRtlBnxF7ejwJexoymrkdRQFeT0dz5JArobDbgeTQABryIBtDpq2gAnfZJxIcQGAf5yJERl3m8xg1wwYDMKA6KBvHaaVzKBwPtJT3kkyly0Bs64Ff39aHTBGP4Nz+4/o4nlkFQy/JZNoL5X4xTGrf8Fk++Y/Id4xQx7xKJEaodP+CCg+ERVRporx6RPpkil72hUzI5GBb+EujUIrx35RXXWgdBrUtm0rI+UFzTOJhHiSi3rHlKvlnWJNZOqoI1la0H2qsCn0yR697Qea+RJYBObcIXpCZsew1gNg+CUhHxC2AJYEJxswB52/7K5BfbxuM+XZ0DmFtF0rYnDsCd40xCa89agi6zbVnuDV1iFhspE+g0ScgApDH8zOd/YDFTKiJc2FsEWPE4nJZM7oGbrMIua1cAMsk09pAFmXw+TZSC1p61kvNkyaQs94ZKRc0EOs0SdgByWYEKgIoVQjb7B2A7W4Wydw0od6GULYHL2g0X3I0c9lDibBbPqiTfDrTHFUD0qU/G5Tv6UKmo0AChM8AhFAEKjgAWq8hwnFOAQ3FArlgslgH+OScAJ+KAWqeEVAF7KLHjFKS8GGgv6YpPxuVFfSheLRWLOLSkdH6nh4XCoeZUFlXhzHGOyZ5s5GLTEjl38MbyyCO8g5rTo0JBjnaC7cmk4jyZ7tS7ylBGdacn4kYUzjk9Vtuw7Ih/TpWKvd3MI8k42Smzf3YWcKra+5wq2YVOzyqVM4DTmlNeBbgUz7ZytMz4j6Di5qn3NWFDLMNNNL3lkVs7RGIDfAE5zMu53BaleD9YH2iPGdMbukxfp2KoXKdVfZ2KrbUv51ZpuzFUzFSRpI2Le7W293cBFjH7BLCbYZLL04vqVu+m1SsJtFd0Wpfpe18MvWjvTzNmftEMd29x+pxTgFUuwfcq5CjDiy7sM4nvVRkmU1Sbmv68x0+W1ZmUshRor+iUT0Yxg6e605Q4F/6m1TMq/ECnb6IB7bNUyBGpz6eR+czf3B2Jr1HdzUZTTyS+m/Y0GbHex1FAb8yoW2h/GH60f6wzzIb+1nthR2t/A/8qOfr0zu0w48GzUf5V0rxU33g91L/0Xr1y2TTN/zvvZj2KSeKpAAAAAElFTkSuQmCC" alt="steel building clearance" width="169" height="34"></a></li>
-<li><a href="http://info.steelmasterusa.com/steelmaster-quote-request"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAAiCAMAAAATfAkGAAACJVBMVEVltvyz4f////////////////////////////////////////////////////////////////87Ozs/REhAREhARUhBRUhETVVFTlVGTlVHT1VIT1VIVmJJV2JKV2JLWGJMWGJNX29NYG9OWWJOYG9PYW9QYW9RYW9RYm9RaHxSYm9TY29TaXxUY29UanxVZG9Va3xVcYlWa3xXbHxYbHxYc4lZbXxabXxadIlaepZbe5ZdfJZefZZehKJfd4lgd4lghaJheIlhfpZhhaJif5ZjhqJjja9kgJZkjq9lgZZlh6JmiKJmjq9mt/xnlrxoiaNouPxpiqNpl7xqka9qufxriqNrmLxrn8lska9suvxtjKNtk7BtmbxujaNuoMluu/xvlLBvu/xwoclwqNZwvPxyoslyvf1zlrBzvvx0pMl0seN1l7B1qtZ1v/12pcl2v/x3rNZ3wP15oL15psp5rdZ5s+N5uvB6wv17ob17qMp8rtZ8teN9qMp9w/1+sNd+vfB/qsqAxf2Bq8qBsdeCxfyDsteDxv2ErMqGu+SGyP2HwfCItdeJvOSJw/GJyv2KtteMvuSMy/2PxvGPzf6RwOSSz/6TzP2VyvGV0P6Xy/GY0v6a0P2b1P6e1f6h1/6j2P6m2v6o2/+q1/2q3P+s3f+u3v+w3/+y4P+z4f+34v+44v+44//E6P/L5/7S7f/V7v/d7/7q9f/s9v/s9//3/P/5/f////91kNWuAAAAEnRSTlMAAAAkKj9LfoGNk6i0xtvk+fzHZtOTAAAD/0lEQVRYw9VY+19TdRg+HawYJeLD3JAkhJowcaKZlRmJGpbMxAuKQViOSDEiSrusmLrSM6c1GmDC3LoYXbxb6v6+3vd7OePbhz9g5/l8znme816e9/kBfpll249V+JYWyxlLfRW2bVu2Xfnw3u2/yxm37z2s5KSVD279Ve649eBJ26p4dOPP8seNRxWW7+4fXsBdn1V9c94LuFlt1cz/7gXM11jF37yBolX81RugpL94A5T0Z2+AkhYMTKYEZgqFmZQrC3PEk9xeQKqdKsjRGXc3lZorec2VrNUwl03iIX0tpU0mzVwFSpo30A6J9quDSg3mL8viM1/l89TgKSbVRv6jgGxf1rv4VnoFxLbE1e2iExgUJ9SlfH5Q7m53r0GLdjNXnpLmDET0Rn+/Frl6XfsxB0R4ikkXc3TsuUiEX7p0Tlh9xvJl5btN947zCXUpd1xXt/W7dxVHzFw5SjproA2g9wWg7RAwIUoTwEtTs7P0fWiW6lxiUpLbu4l2i0W5LvE6LQBT8gOo/1766hmmNnFjql5U5MEJPrMIKOkVA2sBJmDtfiAuSlpQTTymvBIH3iS6GI+X1gUCePEi8L7Q3wH7tb2aYQpID3lBvuNq8v+gpNMGWgEmYFMPsLqVcIbEKVlrFY8rA9x+gwSIewZ+KK0zzgAD0yuxSXycAnq0vZphUnbygnzT5Er2HTBzTVPSrIEWIBqNvgAciao/mDESY9lLX2eBFvEQpBRoyR5ZIVWjXNdOO4BL8kUYI1t6i76aYVJ24oJ6jynfqJkrS0kzBtbIuRXdmW5gRJSEeAVEazL8EBZIxsjISPcG4LRY18U6NGYyp4GDYgLozhzEhkbqqxkm5SFPybeYXASUNG0gBIRCoTrg3S5gWJSEGKYS1qepyyUmJdPjodA40bAYp3VlNK7/mderr670N9SFX88w+fEsy9eAcXWHfbrSi4CSOgaeB+j9ObBuJ7AzRhgdBRoOxw77qebUwb8nFqPWVoeqMdHnD8eh2qheZ2zVSXGWP/1isQGoO7tZGO/xo8FZp6VfOsQcJwZsFr5mLoeSJg00A0xAc6c61JxscI92vqrV0aSrgkr4S+uEIIJMB4C3mN1FNB9w3ZILZDLZya7Jo7pk5kpS0oSBJoAJaOpQG02JLzpWEQc3ntyYSAiJpr08ItE3FOaswfBQaT2RGAK2CFGLsOBd1EJteGjLycRelljVQdW+cC3b7eIJOthHFe1r5kpQ0i+9AUr6qTdAST/2Bijph95A0ao58YEXcKLGqj7/nhdwvtqquv6OF3C9ylry77He8sexf5ZYtu9O775yR+8dH/8qWXX/p31vlzM+uXa/Svx+aj3x9PKy/qV32VOP27b9H1lWWa3UObA3AAAAAElFTkSuQmCC" alt="steel building quote request" width="169" height="34"></a></li>
+		</div><div class="widget widget_text">			<div class="textwidget"><ul class="btns">
+<li><a href="/products/clearance-center"><img src="/wp-content/themes/SteelMaster/images/btn-clearence-center.png" alt="steel building clearance" width="169" height="34"></a></li>
+<li><a href="http://www.steelmasterusa.com/steelmaster-web-quote"><img src="/wp-content/themes/SteelMaster/images/btn-request.png" alt="steel building quote request" width="169" height="34"></a></li>
 <!--Start AliveChat Button Code-->
-<li><img src="http://www.steelmasterusa.com/wp-content/uploads/2011/10/xlive-chat-button.png.pagespeed.ic.sy-_4A2yiw.png" border="0" onclick="window.open('http://a1.websitealive.com/4297/rRouter.asp?groupid=4297&amp;websiteid=395&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');" style="cursor:pointer;" width="169" height="34"></li>
+<li><img src="http://www.steelmasterusa.com/wp-content/uploads/2011/10/live-chat-button.png" border="0" onclick="window.open('http://a1.websitealive.com/4297/rRouter.asp?groupid=4297&amp;websiteid=395&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');" style="cursor:pointer;"></li>
 <!--End AliveChat Button Code-->
-<li><a href="http://info.steelmasterusa.com/steelmaster-brochure-request"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAAiCAMAAAATfAkGAAABR1BMVEW/v7/FxcX///////////////////////////////////////////////////////87OztGRkZHR0dRUVFSUlJTU1NcXFxdXV1eXl5gYGBnZ2doaGhpaWlsbGxycnJzc3N0dHR1dXV4eHh9fX1+fn5/f3+AgICEhISFhYWIiIiJiYmKioqLi4uQkJCRkZGUlJSVlZWWlpaXl5ednZ2fn5+goKChoaGioqKjo6Opqamqqqqrq6utra2urq61tbW2tra4uLi6urq/v7/AwMDBwcHCwsLDw8PExMTFxcXLy8vNzc3Ozs7Pz8/Q0NDR0dHW1tbY2Nja2trb29vc3Nzh4eHi4uLj4+Pl5eXm5ubn5+fo6Ojp6enq6urs7Ozu7u7v7+/x8fHy8vLz8/P09PT19fX39/f4+Pj5+fn7+/v8/Pz9/f3+/v7///8I4q0yAAAAEHRSTlMAAABDTW6AvsHM0eHp8vr84qtWLwAAA4JJREFUWMPVWO9XGlcU3KxpK7axs4Bi3QXrr5pfZoElJtpUSGJpY7UpYZENtmkX0WrK//+58959LDTn9LtvDufu3Xtn5s1ZwQ/ruK4zl7s3vs24l5tzGdN156+6x69uM467V/Mq6fzYBnzBP/3YDsw5OUuS5pxFS5IuOmNbYFPSf+wAk97YASa9tgNM+rcdYNJLO8CkI8FpW0H6brt9Phrpcp5VbrtqdUpq14javDOCtrlo/n8MZ50nAjXUtSv13OhPP5UZ3WjEpENBGRpPhsP9vGrK779BkzdQNUL5RzXTHamRUrzXkvw+2ydsOmoJkc4Y7k+dp4L7ZiJOrHQfTsyznYaJN2TSVFBGOYp26HwMbETREjZ2sJumG5AaHSlZJ6UZqZFSbCCvFcdpuoQlNYuwFEW7eexkhmXkpaFPJxNEyO/qiTiVtXuaGnPD1k0UmXgpk8aCVYSsm6iEWGZzAK+hGs9DIY4LODwEKtiMQ6waauzhgHWZN68NWS3juAEvM6TK0IHDTFDBA5nIilXx4hnzbJfh06TkynGUvqH6NSrLeKM6Dg6AtzNJ6WZ0D7D5lvw4k4rhashMlenZmSALoTlh4X+Sql1jJmlP4CNkDeHzw4bSHp9kiHALjQZHMgjVVqg9uhldAQe9NV6nUr1Q8EI2fhiuYXkqMAYTDnRSOX3Klp1v4vWY9Ezgo8pahc8PmyZwtoWqj6On2HrInRpUUVBboZ7xtyY6fsm+bz7E2tlUOjH8jd9KObJ0NBWIwdMqV1vNZrOEqmjE3LDNKRMwaV/go6br9h6KbGqse9iG1/8FJR+tfgvodzyU4Btqv4i9vhrtPTJPplPjUqQTww7Qomertc3hjGCbBE+t5NAa3Tv9/iNtbtjmlAmYNBEEKAZBEXhx4rErAY+Tn+Dh2yThEEnSUuUx20CowTPeBIEH76TEk1qtEp7V4AUinTF8F6Am8kzwgg9NrU70KlGVY6WsJRlbTglMvIRJB4JAP5bgh8Hg5Tr/oQZ1znh9Phh8xztOgcHgV0Ux1Hq3vgIU13/msEtynRq9WKnPGK48Z1MX+URA7oqcpVe6vlwvijJjix4m3oBJf7cDTPqHHWDSD3aASf+0A0z6lx0YO4sXqQ24WHQWroY24GrBufvRiqQf7zpu7tqCoNc59VZy4ebydse8uLxZ0O9P73z+1e1+e/L1l5+5rvsvpOSFw2zZAYYAAAAASUVORK5CYII=" alt="steel building brochure request" width="169" height="34"></a></li>
+
+<li><a href="http://www.steelmasterusa.com/steelmaster-brochure-request"><img src="/wp-content/themes/SteelMaster/images/btn-brochure.png" alt="steel building brochure request" width="169" height="34"></a></li>
 </ul>
 </div>
-</div><div class="widget widget_text">	<div class="textwidget"><ul class="logos">
-<li><a href="http://www.bbb.org/norfolk/business-reviews/buildings-pre-cut-prefab-and-modular-dealers/steelmaster-buildings-in-virginia-beach-va-5465" target="_blank"><img src="http://www.steelmasterusa.com/wp-content/uploads/2010/11/bbb-2010.png.pagespeed.ce.Ej9YPznIUA.png" alt="Better Business Bureau" width="140" height="259"></a></li>
-<li><a href="http://pressroom.ups.com/Press+Releases/Archive/2011/Q1/UPS+Honors+SteelMaster+Buildings+with+Global+Trade+Award" target="_blank"><img src="http://www.steelmasterusa.com/wp-content/uploads/2011/01/UPSBadgeFinal.jpg.pagespeed.ce.GWl27-t8H5.jpg" alt="Dofasco" width="169" height="104"></a></li>
-<li><a href="http://www.steelmasterusa.com/steelmaster-named-top-10-to-watch-winner"><img src="http://www.steelmasterusa.com/wp-content/uploads/2011/04/HRCC_logo-1801-RGB-low-res.jpg.pagespeed.ce.SRWgKueoSA.jpg" alt="Chamber’s Small Business of the Year Awards" width="169" height="125"></a></li>
-<li><a href="http://www.dofasco.ca/bins/index.asp" target="_blank"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/169x81xlogo2.png.pagespeed.ic.ONCyBCJ6nw.png" alt="Dofasco" width="169" height="81"></a></li>
-<li><a href="http://www.energystar.gov/" target="_blank"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/93x95xlogo3.png.pagespeed.ic.CrQ3pSwK_x.png" alt="Energy Star" width="93" height="95"></a></li>
-<li><a href="http://www.recycle-steel.org/" target="_blank"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/101x104xlogo4.png.pagespeed.ic.zxsuk2-pDa.png" alt="Recycle Steel" width="101" height="104"></a></li>
+		</div><div class="widget widget_text">			<div class="textwidget"><ul class="logos">
+<li><a href="http://www.bbb.org/norfolk/business-reviews/buildings-pre-cut-prefab-and-modular-dealers/steelmaster-buildings-in-virginia-beach-va-5465" target="_blank"><img src="/wp-content/uploads/2010/11/bbb-2010.png" alt="Better Business Bureau" width="140" height="259"></a></li>
+<li><a href="http://pressroom.ups.com/Press+Releases/Archive/2011/Q1/UPS+Honors+SteelMaster+Buildings+with+Global+Trade+Award" target="_blank"><img src="/wp-content/uploads/2011/01/UPSBadgeFinal.jpg" alt="Dofasco" width="169" height="104"></a></li>
+<li><a href="http://www.steelmasterusa.com/steelmaster-named-top-10-to-watch-winner"><img src="http://www.steelmasterusa.com/wp-content/uploads/2011/04/HRCC_logo-1801-RGB-low-res.jpg" alt="Chamber’s Small Business of the Year Awards" width="169" height="125"></a></li>
+<li><a href="http://www.dofasco.ca/bins/index.asp" target="_blank"><img src="/wp-content/themes/SteelMaster/images/logo2.png" alt="Dofasco" width="169" height="81"></a></li>
+<li><a href="http://www.energystar.gov/" target="_blank"><img src="/wp-content/themes/SteelMaster/images/logo3.png" alt="Energy Star" width="93" height="95"></a></li>
+<li><a href="http://www.recycle-steel.org/" target="_blank"><img src="/wp-content/themes/SteelMaster/images/logo4.png" alt="Recycle Steel" width="101" height="104"></a></li>
 </ul>
 </div>
-</div>	</div>
+		</div>	</div>
 </div>
-</div>
+ </div>
 <div id="footer">
-<div class="col1">
-<h3 class="text-building-applications">Building Applications | 800-341-7007 | </h3>
-<div class="links">
-<ul>
-<li><a href="http://www.steelmasterusa.com/products/agricultural">Agricultural</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/aircraft">Aircraft Hangars</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/animal-shelters">Animal Shelters</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/athletic-facilities">Athletic Facilities</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/auto-shops">Auto Shops</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/bulk-storage">Bulk Storage</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/carports">Carports</a><br>
-</li>
-</ul>
-<ul>
-<li><a href="http://www.steelmasterusa.com/products/commercial-industrial">Commercial</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/custom-buildings">Custom Buildings</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/garages">Garages</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/government">Government (GSA)</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/green-buildings">Green Buildings</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/hay-storage">Hay Storage</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/affordable-steel-housing">Housing</a></li>
-</ul>
-<ul>
-<li><a href="http://www.steelmasterusa.com/products/pole-barns">Pole Barns</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/portable-liftable-steel-buildings">Portable Buildings</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/quonset-hut-history">Quonset History</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/retail-storesbusiness-facilities">Retail Stores</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/roofing-systems">Roofing Systems</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/rv-storage">RV Storage</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/salt-storage">Salt Storage</a></li>
-</ul>
-<ul>
-<li><a href="http://www.steelmasterusa.com/products/sheds">Sheds</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/storage-buildings">Storage Buildings</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/products/workshops">Workshops</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/media-room-2">Media Room</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/company/interactive-building-maps">Interactive Buildings Maps</a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/usa-steel-buildings">USA Steel Building Map </a><br>
-</li>
-<li><a href="http://www.steelmasterusa.com/international-steel-buildings">International Building Map</a><br>
-</li>
-</ul>
-</div>
-<h3 class="text-by-state">SteelMaster Buildings by State</h3>
-<div class="links">
-<ul>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-alabama">Alabama</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-alaska">Alaska</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-arizona">Arizona</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-arkansas">Arkansas</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-california">California</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-colorado">Colorado</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-connecticut">Connecticut</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-delaware">Delaware</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-washington-dc">District of Columbia</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-florida">Florida</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-georgia">Georgia</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-hawaii">Hawaii</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-idaho">Idaho</a></li>
-</ul>
-<ul>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-illinois">Illinois</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-indiana">Indiana</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-iowa">Iowa</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-kansas">Kansas</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-kentucky">Kentucky</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-louisiana">Louisiana</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-maine">Maine</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-maryland">Maryland</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-massachusetts">Massachusetts</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-michigan">Michigan</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-minnesota">Minnesota</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-mississippi">Mississippi</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-missouri">Missouri</a></li>
-</ul>
-<ul>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-montana">Montana</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-nebraska">Nebraska</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-nevada">Nevada</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-hampshire">New Hampshire</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-jersey">New Jersey</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-mexico">New Mexico</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-york">New York</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-north-carolina">North Carolina</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-north-dakota">North Dakota</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-ohio">Ohio</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-oklahoma">Oklahoma</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-oregon">Oregon</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-pennsylvania">Pennsylvania</a></li>
-</ul>
-<ul>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-puerto-rico">Puerto Rico</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-rhode-islan">Rhode Island</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-south-carolina">South Carolina</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-south-dakota">South Dakota</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-tennessee">Tennessee</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-texas">Texas</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-utah">Utah</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-vermont">Vermont</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-virginia">Virginia</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-washington-state">Washington</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-west-virginia">West Virginia</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-wisconsin">Wisconsin</a></li>
-<li><a href="http://www.steelmasterusa.com/steel-buildings-in-wyoming">Wyoming</a></li>
-</ul>
-</div>
-<div class="copy"><a href="/privacy-policy">Privacy Policy</a> | © 2011 SteelMaster Buildings LLC. All Rights Reserved <br>
-Website Design: <a href="http://www.CostaDesigns.com" target="_blank">CostaDesigns.com</a></div>
-</div>
-<div class="col2">
-<h3 class="text-find-us">Find Us On</h3>
-<div class="holder">
-<div class="widget widget_text">	<div class="textwidget"><div class="btn">
-<a href="http://www.steelmasterusa.com/company/newsletters"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAAiCAMAAAATfAkGAAABSlBMVEW/v7/FxcX///////////////////////////////////////////////////////////////87OztGRkZHR0dISEhRUVFSUlJTU1NUVFRcXFxdXV1gYGBhYWFnZ2doaGhpaWlsbGxtbW1ycnJzc3N0dHR4eHh6enp9fX1+fn5/f3+FhYWGhoaIiIiJiYmKioqLi4uTk5OUlJSVlZWWlpadnZ2enp6fn5+goKCioqKpqamqqqqrq6usrKytra21tbW2tra3t7e4uLi/v7/AwMDBwcHCwsLDw8PExMTFxcXLy8vMzMzNzc3Ozs7R0dHW1tbX19fY2Nja2trb29vc3Nze3t7h4eHi4uLj4+Pl5eXm5ubn5+fo6Ojq6urs7Ozu7u7v7+/x8fHy8vLz8/P09PT19fX39/f4+Pj5+fn7+/v8/Pz9/f3+/v7////GnIdJAAAAEnRSTlMAAAAkKj9LfoGNk6i0xtvk+fzHZtOTAAADiklEQVRYw9VY3V/TWBCNwQ+KK+K0FLE1oUEQ0bpLKFapWkQQUKHgR5pE0d2GBkH7/7/umbk3ad23feOeX3snM3PmzGnzax9i2bY1VrgxuMi4URizYdO2x08/vX99kfH+0+k4Ox0fmIBruPUDMzBmFQxxWrAmDXE6aU0Z4nTKGpgCa/DLDMDpuRmA0zMzAKc/zACcpoI9IppF9KiZksIBXmmKc0XqKwf3p4mm7x8wV2Y8xdvTfC+LuuBpwvSjY6E37yK520yhv5ceP5rljSupbPuMLvjKBwemKJXZA2UQTvuCHa4+7/c9etLXG/slLjwBGX2iV1UqeV6JqsyVGW1t579OdcHLCJAEXhFVvSp0oLUz0uLzIe/xtI++rNvJbJSUQThNBG+gQ9UkqdFaQvRGaov0kA+iD9z+QrSRJBtEnEifufn0SMwyTVikGidrLJ9UlT7E1oWwmPBi+oJ2bUSJLYiNfaJ90YLTnmAbo0TbPYj3ODLW6HavV6IareOyivJazpVYywp5RcUs0wR40GqxKkM/p3C2zsqapRtsQdnIzMBpIGgTdYrkBA75AdEdx3HqwRbR2zbd8WkJ5Xowz/ei7LSYKzMOMkBNZyrq5HpTxALMLXFvS+6ls9SBfluITd/3m5w5VOz45AwVuChvnmqL9KjTwJehodOgSC2f6m0q81XQqTsOL+v8D6eC+S1ptuadMrJ67pTbjs58OMV++s2poBhkTrsCMLqHRXrgkt8FTRWRuNRC3iI67La5eqiEs3Z3OD2MWQaCwD3k5F37Hc7H5HaHEr7KQCzjUjvlBhfVcLmltOA0FOCXEoYPiCq0GuKno4qrhF1HoUv3qBKi/DwMj9AULuCCOzKdxyxThKOyoq2yRginrA8ZbkFZtj3lxa5W2A7DbT5zGwI4jQSbRFG0zx+iEemvXYpUiaIGwp9RVKGi687gn2BT9Rv6K9vU05lKpPtu5EIs0mf0Alquy0o8omdlGwRmhM8o6nseqUYOOI0FUMe5zLOxFkGO8y/p0cs43l1glbmXceZ0TjvNprOo+3PxHMRifcZxo4LizPLHmEc+LrPYTCOWLH4mfMbuAs8u7OpGDjj9agbg9NgMwOk3MwCn380AnP5tBgbW1D9mYMqaPOmZgJNJa+I0MQGnE9bln0Y4/XnZsgtnBhg9K/BTyYnz9GLbPEnPJ+T56aWrf9y60E9Pbl6/Ytv2v4J4mFkhNQDrAAAAAElFTkSuQmCC" alt="Subscribe to News" width="169" height="34"></a>
+				<div class="col1">
+				  <h3 class="text-building-applications"></h3>
+			  <div class="links">
+						<ul>
+							<li><a href="http://www.steelmasterusa.com/products/agricultural">Agricultural</a><br>
+						  </li>
+							<li><a href="http://www.steelmasterusa.com/products/aircraft">Aircraft Hangars</a><br>
+						  </li>
+						    <li><a href="http://www.steelmasterusa.com/products/animal-shelters">Animal Shelters</a><br>
+						  </li>
+						    <li><a href="http://www.steelmasterusa.com/products/athletic-facilities">Athletic Facilities</a><br>
+						  </li>
+						    <li><a href="http://www.steelmasterusa.com/products/auto-shops">Auto Shops</a><br>
+						  </li>
+						    <li><a href="http://www.steelmasterusa.com/products/bulk-storage">Bulk Storage</a><br>
+						  </li>
+						    <li><a href="http://www.steelmasterusa.com/products/carports">Carports</a><br>
+			              </li>
+						</ul>
+						<ul>
+                          <li><a href="http://www.steelmasterusa.com/products/commercial-industrial">Commercial</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/custom-buildings">Custom Buildings</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/garages">Garages</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/government">Government (GSA)</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/green-buildings">Green Buildings</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/hay-storage">Hay Storage</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/affordable-steel-housing">Housing</a></li>
+						</ul>
+						<ul>
+                          <li><a href="http://www.steelmasterusa.com/products/pole-barns">Pole Barns</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/portable-liftable-steel-buildings">Portable Buildings</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/quonset-hut-history">Quonset History</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/retail-storesbusiness-facilities">Retail Stores</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/roofing-systems">Roofing Systems</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/rv-storage">RV Storage</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/salt-storage">Salt Storage</a></li>
+						</ul>
+						<ul>
+                          <li><a href="http://www.steelmasterusa.com/products/sheds">Sheds</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/storage-buildings">Storage Buildings</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/products/workshops">Workshops</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/media-room-2">Media Room</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/company/interactive-building-maps">Interactive  Maps</a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/usa-steel-buildings">Steel Building Map                    </a><br>
+                          </li>
+						  <li><a href="http://www.steelmasterusa.com/international-steel-buildings">Int Building Map</a><br>
+                          </li>
+						</ul>
+			      </div>
+				  <h3 class="text-by-state"></h3>
+					<div class="links">
+						<ul>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-alabama">Alabama</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-alaska">Alaska</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-arizona">Arizona</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-arkansas">Arkansas</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-california">California</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-colorado">Colorado</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-connecticut">Connecticut</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-delaware">Delaware</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-washington-dc">District of Columbia</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-florida">Florida</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-georgia">Georgia</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-hawaii">Hawaii</a></li>
+							<li><a href="http://www.steelmasterusa.com/steel-buildings-in-idaho">Idaho</a></li>
+						</ul>
+						<ul>
+                          <li><a href="http://www.steelmasterusa.com/steel-buildings-in-illinois">Illinois</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-indiana">Indiana</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-iowa">Iowa</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-kansas">Kansas</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-kentucky">Kentucky</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-louisiana">Louisiana</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-maine">Maine</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-maryland">Maryland</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-massachusetts">Massachusetts</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-michigan">Michigan</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-minnesota">Minnesota</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-mississippi">Mississippi</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-missouri">Missouri</a></li>
+					  </ul>
+						<ul>
+                          <li><a href="http://www.steelmasterusa.com/steel-buildings-in-montana">Montana</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-nebraska">Nebraska</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-nevada">Nevada</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-hampshire">New Hampshire</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-jersey">New Jersey</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-mexico">New Mexico</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-new-york">New York</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-north-carolina">North Carolina</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-north-dakota">North Dakota</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-ohio">Ohio</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-oklahoma">Oklahoma</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-oregon">Oregon</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-pennsylvania">Pennsylvania</a></li>
+					  </ul>
+						<ul>
+                          <li><a href="http://www.steelmasterusa.com/steel-buildings-in-puerto-rico">Puerto Rico</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-rhode-islan">Rhode Island</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-south-carolina">South Carolina</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-south-dakota">South Dakota</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-tennessee">Tennessee</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-texas">Texas</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-utah">Utah</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-vermont">Vermont</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-virginia">Virginia</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-washington-state">Washington</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-west-virginia">West Virginia</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-wisconsin">Wisconsin</a></li>
+						  <li><a href="http://www.steelmasterusa.com/steel-buildings-in-wyoming">Wyoming</a></li>
+					  </ul>
+				  </div>
+				  <div class="copy">
+				    <h3><a href="/privacy-policy"><br>
+			        SteelMaster Buildings  Privacy Policy</a><br>
+				    </h3>
+				    <p><br>
+			        © 2012 SteelMaster Buildings LLC. All Rights Reserved  | Website Design: <a href="http://www.CostaDesigns.com" target="_blank">CostaDesigns.com</a></p>
+				  </div>
+			  </div>
+				<div class="col2">
+					<h3 class="text-find-us"> </h3>
+					<div class="holder">
+                                                <div class="widget widget_text">			<div class="textwidget"><div class="btn">
+<a href="http://www.steelmasterusa.com/company/newsletters"><img src="/wp-content/themes/SteelMaster/images/btn-subscribe-on-news.png" alt="Subscribe to News" width="169" height="34"></a>
 <br>
 <br>
-<a href="http://www.steelmasterusa.com/blog-subscription"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAAiCAMAAAATfAkGAAACB1BMVEXsPCz/WDf////////////////////////////////////////////////////////////////XKhjYKRbYKxraLh3bKRPbMyLdMCDfKQ/gMyPiTT/kKQzkNiblPS7mNxznOCjnOivoRizpVD3qKQzqOirqPC3rNxzrYk3sT0HtRiztcF3tiYDuVD3vKQzvf23wNxzwYk3wdGnxb1zxcF3xfXPxjX3yVD3yb1zyeWfyf23ym47zYk3zb1rzeWf0KQz0blj0cF30gnL0jX30qZ71Riz1bFX1eGP1f231gnD1jHv1jH31lYf1m472alL2dmD2gGz2i3n2jX32lYb2n5L2uK73KQz3Yk33aE/3iXf3lYX3n5H3qZ73u7b4Riz4cF34k4L4m474nY74qJv4qZz4sqj4vLP4xr75VD35Yk35Zkv5jX35p5n5sqb5sqf5vLL5vLP5xb75xr76Y0j6f236m476saT6uK76urD6u7H6xb36xb76z8n608/61M77YUT7ZUj7jX37xLv7xbz7xr77z8f7z8j7z8n72dT74t/74+D8XkH8dVz8uK78xr78zsb81M782NL82dP82dT84t784t/85eP9XD39xr794t794t/97On98e/+WTn+Wjv+Z0n+aEv+ak3+pZT+7On+8e/+9fT/WDf/fWT/o5D/1s7/7er/8/H///9U65kyAAAAEnRSTlMAAAAkKj9LfoGNk6i0xtvk+fzHZtOTAAADyElEQVRYw9VYDXMTVRRdt6hNlVq/QGWlolErwmqNVtStTVuIilGkKcUioFRiraEBUaFSqaRWqICFpVH7pSgmfJ4f6X3v3vd2O+MPyJ6Z7rvvnnPPPbOTmc6s47p3NaXWopGxNtXkuq7jus23b9643si4cfN2s0rafOvqn42Oq7fudZ2mO3//1fj4506Tk7r2RxJwLeW0XryQBFxsddrO/JgEnGlz8E0yAAdfJQOU9ONkgJJ+mAxQ0pzFrhMhYeKjXC4Mj9D9SBiqUuHSSJzOjUyrHmkmmD6Ryw2H4XBMzJW2UT4aE8ZimPdJf2IXD3PvEnWmR2ya6c8kHCXNWizyv9l/s1lgnO7jgCoZu2P0uPQ+z4ZSfZ/dB+yLiaVQNlYevrNo+Xj/Zx5W+MnOWS0TWUrabbATOFUoHAZ2dgNlapRBpG5+Ukc5RtexWC6X67jSfQXLVC2j3l0ACpGYq0LhPWVcUArSHSbDs+Xy0TrO6oV0Jckp2qKHOcKi+IkWOMrpKOk2gzyQp6NY7NsGFFUFIrmcRzGiqRqk6hzmqT8vQk1bsVQWrDuHZXU5hrpuan81aFarTh8dg8D7k6ydnD/GDvGkfUC1WMyrkVVJJ/P5wToGI9r42gSxpCLmKp9/e5WOn5JQnySZRDWe1Lwz0VpQ0ozFD/zDqL6RoaR0p7lMRn4tX8doZSQjs6jSsiqqGd2MxFJFuln7ZF8+FZbzGeMojLpq7SzhC3agpEMRxiqVyq/At0NAha4VEAksULemGoYeA8ZkYoGXLXw5pJuRmKvKQatbsE/25VM71oaMozDqqrXamx0oaY/BjlJJHXMo9QCqLIFIU85F9F5gr9Bz8u5KPbppxVJZzFHLPHu+Ay8t8UmD4mg6n9JVtHKQyoFvEAC9vv/yEgb8Gi4HQXAZS74Puvr+SczEaNAtCJYw48/Qn2JrajqIxFJZsO4Q8G4Q9Nb0xfcHoJa/ToM0PECOQS9wSC9GpD3JDpQ0bVGTF7Q1vV+qD9Jp2PL/6OM4ToP9QLoT6IyJpegXa9ZtNvyrutlvrs93SpH+zRpsNuveZAdK6lk8M6qYX7o8r337ClUrb7V7HstX9rSvoiH0KEZpsAvwOoCOmFjWdIk167wObTH1Ije7WDP1khrW8J7esyI7vI4ps06Dkj6eDFDSdckAJX04GaCkDyUDlPSRZABO2/pHk4D1bU7rhseSgA2tTsuWJ5KALS3Omt83Ptn42Hh+jeOmDmx6qtGx6UBKfZVsOf3Kc882Ml547XSL/n7q3HP/gw39pfeB++52Xfc/nP/2BcCXB8MAAAAASUVORK5CYII=" alt="Subscribe to Blog" width="169" height="34"></a></div>
+<a href="http://www.steelmasterusa.com/blog-subscription"><img src="/wp-content/themes/SteelMaster/images/subscribe-blog.png" alt="Subscribe to Blog" width="169" height="34"></a></div>
 <ul class="social">
-<li><a href="http://www.facebook.com/SteelMasterBuildings?ref=search&amp;sid=760772993.2915561004..1"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/ico-fb.gif.pagespeed.ce.XBfe5s4krf.gif" alt="Facebook" width="148" height="47"></a></li>
-<li><a href="http://twitter.com/SteelMasterUSA"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/ico-tw.gif.pagespeed.ce.r2M5aAyjkw.gif" alt="Twitter" width="148" height="43"></a></li>
-<li><a href="http://www.flickr.com/photos/steelmastersteelbuildings/"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/ico-flickr.gif.pagespeed.ce.azvqwjrAvB.gif" alt="Flickr" width="148" height="41"></a></li>
-<li><a href="http://www.youtube.com/SteelMasterBuilding"><img src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/images/ico-youtube.gif.pagespeed.ce.bmLLTiIfp8.gif" alt="YouTube" width="148" height="49"></a></li>
+<li><a href="http://www.facebook.com/SteelMasterBuildings?ref=search&amp;sid=760772993.2915561004..1"><img src="/wp-content/themes/SteelMaster/images/ico-fb.gif" alt="Facebook" width="148" height="47"></a></li>
+<li><a href="http://twitter.com/SteelMasterUSA"><img src="/wp-content/themes/SteelMaster/images/ico-tw.gif" alt="Twitter" width="148" height="43"></a></li>
+<li><a href="http://www.flickr.com/photos/steelmastersteelbuildings/"><img src="/wp-content/themes/SteelMaster/images/ico-flickr.gif" alt="Flickr" width="148" height="41"></a></li>
+<li><a href="http://www.youtube.com/SteelMasterBuilding"><img src="/wp-content/themes/SteelMaster/images/ico-youtube.gif" alt="YouTube" width="148" height="49"></a></li>
 </ul></div>
-</div>	</div>
+		</div>					</div>
+				</div>
 </div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
+		</div>
+	</div>
+        <div id="follow" class="right"><ul class="tab down"><li class="follow"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" alt=""><span></span></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.facebook.com/SteelMasterBuildings?ref=search&amp;sid=760772993.2915561004..1" title="Become my Facebook friend"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-363px 0px" alt="Become my Facebook friend"> <span class="head">Become my Facebook friend</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.flickr.com/photos/steelmastersteelbuildings/" title="See my photos"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-495px 0px" alt="See my photos"> <span class="head">See my photos</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.steelmasterusa.com/feed/rss/" title="RSS"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1452px 0px" alt="RSS"> <span class="head">RSS</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://twitter.com/SteelMasterUSA" title="Tweet with me"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1749px 0px" alt="Tweet with me"> <span class="head">Tweet with me</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.youtube.com/SteelMasterBuilding" title="Subscribe to my YouTube Channel"><img src="http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.steelmasterusa.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-33px -33px" alt="Subscribe to my YouTube Channel"> <span class="head">Subscribe to my YouTube Channel</span></a></li></ul></div>        
+        <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl."
 : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -591,18 +678,8 @@ try {
 var pageTracker = _gat._getTracker("UA-3912232-1"); pageTracker._setDomainName(".steelmasterusa.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-<script type="text/javascript">
-var userflyHost = (("https:" == document.location.protocol) ? "https://secure.userfly.com" : "http://asset.userfly.com");
-document.write(unescape("%3Cscript src='" + userflyHost + "/users/29118/userfly.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://secure.userfly.com/users/29118/userfly.js" type="text/javascript"></script>
-<!-- Start of HubSpot Logging Code  -->
-<script type="text/javascript" language="javascript">
-var hs_portalid=53714;
-var hs_salog_version = "2.00";
-var hs_ppa = "steelmasterusa.app5.hubspot.com"
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://steelmasterusa.app5.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-<!-- End of HubSpot Logging Code -->
+
+
 <!-- Start AliveChat Tracking Code -->
 <script type="text/javascript">
 function wsa_include_js(){
@@ -618,20 +695,54 @@ else if (window.addEventListener) {window.addEventListener('load', wsa_include_j
 else {document.addEventListener('load', wsa_include_js, false);}
 </script>
 <!-- End AliveChat Tracking Code -->
-<!-- Start HubSpot Test Tracking Code -->
+ 
+
+<!-- Place this tag in the <head> of your document Google Plus 1-->
+<link href="https://plus.google.com/111402821759906628108" rel="publisher"> 
+
+<!-- Start CoreMotives Tracking Code -->  
 <script type="text/javascript">
-(function() {
-var p = document.createElement('script');
-p.type = 'text/javascript'; p.async = true;
-p.src = '//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/6u24A7.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(p, s);
-})();
+var cmJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+var path = "databroker.coremotives.com/DataBroker.js?version=2";
+document.write(unescape("%3Cscript src='" + cmJsHost + path + "' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://databroker.coremotives.com/DataBroker.js?version=2" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	var coreMotives = new DataBroker();
+	coreMotives.customerId = "4258f73d-8571-4c82-9c61-d21d59860a73";
+	coreMotives.instanceId = 777;
+	coreMotives.trackPageView();
+} catch (e) { }
 </script>
-<!-- End HubSpot Test Tracking Code -->
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/23729767/x.js?cmd=file&amp;file=chatScript3&amp;site=23729767&amp;&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Secure/3a"></script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<!-- End Core Motives Tracking Code -->  
+
+<!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=53714; 
+var hs_salog_version = "2.00";
+var hs_ppa = "steelmasterusa.app5.hubspot.com";
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://steelmasterusa.app5.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
+
+<!-- Begin RingRevenue Call Tracking Code -->
+<!-- Omit http from path to ensure protocol is same as current request -->
+<script src="//js15.ringrevenue.com/15/integration.js"></script>
+<script type="text/javascript">
+  RingRevenue.advertiser_integration = {
+    id : '10831',
+    numberSelector : '.promoNumber',
+    campaignId: '9637',
+    ringPoolId: '1742'
+  };
+</script>
+<!-- End RingRevenue Call Tracking Code -->
+
+
+               
 
 <meta name="blogcatalog" content="9BC9463512">
+
 <!--[if lte IE 6]><script src="http://www.steelmasterusa.com/wp-content/themes/SteelMaster/ie6/warning.js"></script><script>window.onload=function(){_ie6("http://www.steelmasterusa.com/wp-content/themes/SteelMaster/ie6/")}</script><![endif]-->
 
 </body></html>
