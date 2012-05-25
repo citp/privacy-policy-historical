@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsws.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125123554id_/http%3A//www.wsws.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsws.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081456id_/http%3A//www.wsws.org/privacy.shtml) for the most accurate reproduction.*
 
 # World Socialist Web Site
 
