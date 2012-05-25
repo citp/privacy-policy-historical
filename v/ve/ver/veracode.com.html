@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the veracode.com privacy policy that was archived on 2011-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107052210id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veracode.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525183911id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
-<meta name="description" content="Veracode is the industrys first provider of automated, on-demand application security solutions. Created by a world-class team of application security experts from @stake, Guardent, ISS, VeriSign and Symantec, the company delivers services to identify software flaws introduced through coding errors or malicious intent.">
+<meta name="description" content="Veracode is the industry's first provider of automated, on-demand application security solutions. Created by a world-class team of application security experts from @stake, Guardent, ISS, VeriSign and Symantec, the company delivers services to identify software flaws introduced through coding errors or malicious intent.">
 <meta name="keywords" content="Veracode">
 <meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved.">
 <meta name="robots" content="index, follow">
@@ -11,7 +11,7 @@
 	<link rel="shortcut icon" href="http://www.veracode.com/images/favicon.ico">
 	
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/nw_veracode/js/swfobject.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/nw_veracode/js/swfobject.js"></script>
 <script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/nw_veracode/js/cookies.js"></script>
 <script type="text/javascript" language="javascript" src="http://www.veracode.com/templates/nw_veracode/js/gen_validatorv2.js"></script>
 
@@ -55,20 +55,117 @@ $(document).ready(function() {
   );
 });
 </script>
+<style type="text/css">
+#panel {
+        position:absolute;
+        top:0px;
+        clear:both;
+		height: 113px;
+        width: 884px;
+	display: none;
+        background: url(/images/soss/soss_callout_update.png) no-repeat center top;
+        cursor:pointer;
+        z-index:99999;
+}
+.btn-slide {
+	background: url(/images/soss/soss_btn_update.png) no-repeat;
+	width: 335px;
+	height: 32px;
+	margin: 0 auto;
+	display: block;
+	position:absolute;
+	top:0px;
+}
+.active {
+	background-position: right 12px;
+}
+#panelclose {
+        position:absolute;
+        right: 0px;
+        top:0px;
+        z-index:9999999;
+        background: url(/images/soss/soss_close.png) no-repeat top right;
+        width: 87px;
+        height: 26px;
+        cursor:pointer;
+}
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+   $('#panel').slideDown("slow");
+   setTimeout(function(){
+        $('#panel').slideUp(500);
+        $("#panelclose").hide();
+   },5000); 
+        
+        var container = $( "#panel" );
+	$(".btn-slide").click(function(){
+		$("#panel").slideToggle("slow");
+                $("#panelclose").show();
+                if (container.is( ":visible" )){
+                    setTimeout(function(){
+                         $('#panel').slideUp(500);
+                         $("#panelclose").hide();
+                    },5000); 
+                }
+                return false;
+	});
+
+        $("#panel").click(function() {
+           window.location =  "http://info.veracode.com/state-of-software-security-volume-4-supplement.html";
+	});
+
+        if (container.is( ":visible" )){
+            $("#panelclose").show();
+        } else {
+            $("#panelclose").hide();
+        }
+
+
+        $("#panelclose").click(function() {
+           setVCCookie("veracode_soss", "1", 5);
+           $('#panel').hide();
+           $('#panelclose').hide();
+        })
+});
+
+function setVCCookie(name, value, expireDays) {
+	var expireDate = null;
+	if(expireDays != null && expireDays != 0) {
+		expireDate = new Date();
+		expireDate.setDate(expireDate.getDate()+expireDays);
+	}
+	cookieStr = name + "=" + escape(value) + ((expireDate == null) ? "" : "; expires=" + expireDate.toGMTString())+',path=/;domain=veracode.com';
+//	cookieStr = name + "=" + escape(value) + ((expireDate == null) ? "" : "; expires=" + expireDate.toGMTString())+',path=/;domain=veracode.com';
+	document.cookie = cookieStr;
+}
+
+</script>
 <meta name="google-site-verification" content="LOHTEdSL1FzdoqSO1zry1DruOwJfqJK6HehXZpdhsbM">
-</head>
-<body id="subPage2Col">
+
+
+
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=75952171"></script></head>
+<body id="subPage1Col">
 <a name="top" id="top"></a>
 <div id="container">
 
 			<div id="header_top_container">
-				<div id="header_top">
-                                        <a href="/buy/veracode-free-trial-signup.html" id="trial">Sign up for a FREE Trial!</a> 
-					<!-- <a href="https://trial.veracode.com/freetrials/veracode-free-trial-signup.php" id="trial">Sign up for a FREE Trial!</a> -->
+
+				<div id="header_top">   
+             <div id="chat_text_link">
+<!-- BEGIN LivePerson Button Code -->
+<span id="lpButDivID-1331217022"></span>
+<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/75952171/?cmd=mTagRepstate&amp;site=75952171&amp;buttonID=7&amp;divID=lpButDivID-1331217022&amp;bt=3&amp;c=1"></script>
+
+<!-- END LivePerson Button code -->
+</div>
+                                       
 					<ul id="top_links" class="horizontal">
-						<li><a href="/about">Company</a></li>
+                                                
+                                                <li><a href="/about">Company</a></li>
 						<li><a href="/newsevents">News &amp; Events</a></li>
-                                                <li><a href="/careers/index.html">Careers</a></li>
+                                                <!-- <li><a href="/careers/index.html">Careers</a></li> -->
 						<li class="last"><a href="https://analysiscenter.veracode.com/" target="_blank">Login</a></li>
 					</ul>
 					<div id="search">
@@ -79,10 +176,20 @@ $(document).ready(function() {
         <input type="hidden" value="95" name="Itemid">
         <div id="input_container"><input name="searchword" id="searchword" type="text" class="searchbox" value="Search"></div>
         <input type="submit" value="&nbsp;" id="searchgo" class="submit">
-      </form>
+      </form> 
 	  				</div>
+  <a href="#" class="btn-slide" style="float:left;"></a>
+  <div style="display: none;" id="panel">
+	<!-- SoSS callout here -->
+  </div>
+  <div id="panelclose" style="display: none;"></div>
+<!--     <a href="/buy/veracode-free-trial-signup.html" id="trial">Sign up for a FREE Trial!</a>     -->
+
+
+					<!-- <a href="https://trial.veracode.com/freetrials/veracode-free-trial-signup.php" id="trial">Sign up for a FREE Trial!</a> -->
 				</div>
 			</div>
+			<div class="clear"></div>
 
 			<div id="header_container">
 				<div id="header">
@@ -96,8 +203,8 @@ $(document).ready(function() {
 									<li><a href="/products/static">Veracode Static</a></li>
 									<li><a href="/products/dynamic">Veracode Dynamic</a></li>
 									<li><a href="/products/application-security-elearning.html">Veracode E-Learning</a></li>
-									<li><a href="/products/veracode-application-security-analytics.html">Veracode Analytics</a></li>
-									<li><a href="/products/application-security-for-executives.html">Veracode Policy Manager</a></li>
+									<li><a href="/products/application-security-analytics.html">Veracode Analytics</a></li>
+									<li><a href="products/policy-manager.html">Veracode Policy Manager</a></li>
 									<li><a href="/products/veracode-apis.html">Veracode API<font style="text-transform: lowercase;">s</font></a></li>
 									<li class="last"><a href="/products/mobile-application-security.html">Veracode Mobile</a></li>
 								</ul>
@@ -108,13 +215,13 @@ $(document).ready(function() {
 									<li><a href="/services/consulting">App Sec Consulting</a></li>
 									<li><a href="/services/vulnerability-remediation-consulting.html">Vulnerability Remediation Consulting</a></li>
 									<li><a href="/services/manual-controls.html">Manual Pen Testing</a></li>
-									<li><a href="/services/3rd-party-analysis.html">Third Party Testing</a></li>
+									<li><a href="/services/third-party-analysis.html">Third Party Testing</a></li>
 									<li><a href="/services/pci-compliance.html">PCI Compliance</a></li>
 									<li><a href="/services/application-audits.html">INDEPENDENT SOFTWARE Audit</a></li>
 									<li><a href="/services/security-team.html">SOLUTIONS FOR SECURITY TEAM</a></li>
 									<li><a href="/services/business-owner.html">SOLUTIONS FOR EXECUTIVE TEAM</a></li>
 									<li><a href="/services/developers.html">SOLUTIONS FOR DEVELOPERS</a></li>
-									<li><a href="/services/government-perspective.html">SOLUTIONS FOR GOVERNMENT</a></li>
+									<li><a href="/services/solutions-for-government.html">SOLUTIONS FOR GOVERNMENT</a></li>
 									<li class="last"><a href="/security">Security</a></li>
 								</ul>
 							</li>
@@ -136,7 +243,7 @@ $(document).ready(function() {
 							<li class="last"><a id="customers_new" href="/partners">Partners</a>
 								<ul>
 									<li><a href="/partners">Partners Overview</a></li>
-									<li><a href="/partners/why-partner-with-veracode-2.html">Why Partner with Veracode?</a></li>
+									<li><a href="/partners/why-partner-with-veracode.html">Why Partner with Veracode?</a></li>
 									<li><a href="/partners/partner-benefits.html">Partner Benefits</a></li>
 									<li><a href="/partners/veracode-partner-offerings.html">Partner Offerings</a></li>
                                     <li><a href="http://info.veracode.com/apply-to-become-a-partner.html">Become a Partner</a></li>
@@ -153,17 +260,7 @@ $(document).ready(function() {
 			</div>
 			<div id="page_content_container">
 				<div id="secondary_page_content">
-   										<div id="content_left_container">
-						<div id="content_left">
-							<div id="left_navigation">
-      				    						</div>
-					
-							<div class="resources">
-      											</div>	
-										
-						</div>
-					</div>
-										<div id="content_main">
+   										<div id="content_main">
 											<div id="page_content">
 						
 						
@@ -176,13 +273,13 @@ Veracode respects your right to privacy and your right to limit information exch
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy46715 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
- addy46715 = addy46715 + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
- var addy_text46715 = 'w&#101;bm&#97;st&#101;r' + '&#64;' + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy46715 + '\'>' );
- document.write( addy_text46715 );
+ var addy16966 = 'c&#111;nt&#97;ct' + '&#64;';
+ addy16966 = addy16966 + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
+ var addy_text16966 = 'c&#111;nt&#97;ct' + '&#64;' + 'v&#101;r&#97;c&#111;d&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy16966 + '\'>' );
+ document.write( addy_text16966 );
  document.write( '<\/a>' );
- //-->\n </script><a href="mailto:webmaster@veracode.com">webmaster@veracode.com</a><script language="JavaScript" type="text/javascript">
+ //-->\n </script><a href="mailto:contact@veracode.com">contact@veracode.com</a><script language="JavaScript" type="text/javascript">
  <!--
  document.write( '<span style=\'display: none;\'>' );
  //-->
@@ -213,21 +310,32 @@ Veracode respects your right to privacy and your right to limit information exch
 
   			<div id="footer_container">
 				<div id="footer">
-				        <p id="contact">© 2006-2011 <a href="http://www.veracode.com">Veracode, Inc.</a> | 4 Van de Graaff Drive, Burlington, MA 01803 (781) 425-6040 | <a href="/careers/index.html" target="_blank">We are hiring!</a></p><div id="social_media">
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a class="addthis_button_preferred_3"></a>
-<a class="addthis_button_preferred_4"></a>
-<a class="addthis_button_compact"></a>
-<a class="addthis_counter addthis_bubble_style"></a>
+				        <p id="contact">© 2006-2012 <a href="http://www.veracode.com">Veracode, Inc.</a> | 4 Van de Graaff Drive, Burlington, MA 01803 (781) 425-6040 | <a href="/careers/index.html" target="_blank">We are hiring!</a></p>						<div id="social_media">
+<div id="email-button">
+	<a href="mailto:?subject=Privacy Policy&amp;body=http://www.veracode.com%2Fprivacy-policy.html" title="Email"></a>
 </div>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e80d12b3f023972"></script>
-<!-- AddThis Button END -->
+<div id="custom-tweet-button">
+	<a href="https://twitter.com/share?url=http://www.veracode.com%2Fprivacy-policy.html" target="_blank" title="Share on Twitter"></a>
 </div>
+<div id="custom-linkedin-button">
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.veracode.com%2Fprivacy-policy.html&amp;title=Privacy+Policy" target="_new" title="Send to LinkedIn"></a>
+</div>
+<div id="custom-facebook-button">
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.veracode.com%2Fprivacy-policy.html&amp;send=false&amp;layout=button_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=22&amp;appId=322880594452099" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:22px;float:left;" allowtransparency="true"></iframe>
+</div>
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="medium"></g:plusone>
 
-
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+					</div>
+						<div class="clear"></div>
 				        <div id="sitemap">
 <div class="sitemap_col" id="sitemap_col_left">
 	<ul>
@@ -236,9 +344,10 @@ Veracode respects your right to privacy and your right to limit information exch
 				<li><a href="/products">Products Overview</a></li>
 				<li><a href="/products/static">Veracode Static</a></li>
 				<li><a href="/products/dynamic">Veracode Dynamic</a></li>
-				<li><a href="/products/application-security-elearning.html">Veracode E-Learning</a></li>
-				<li><a href="/products/veracode-application-security-analytics.html">Veracode Analytics</a></li>
-				<li><a href="/products/application-security-for-executives.html">Veracode Policy Manager</a></li>
+				<li><a href="/products/application-security-elearning.html">Veracode eLearning</a></li>
+				<li><a href="/products/application-security-analytics.html">Veracode Analytics</a></li>
+				<li><a href="/products/policy-manager.html">Veracode Policy Manager</a></li>
+                                <li><a href="/products/veracode-apis.html">Veracode APIs</a></li>
 				<li class="last"><a href="/products/mobile-application-security.html">Veracode Mobile</a></li>
 			</ul>
 		</li>
@@ -249,23 +358,24 @@ Veracode respects your right to privacy and your right to limit information exch
 				<li><a href="/services">Services Overview</a></li>
 				<li><a href="/services/consulting">App Sec Consulting</a></li>
 				<li><a href="/services/manual-controls.html">Manual Pen Testing</a></li>
-				<li><a href="/services/3rd-party-analysis.html">Third Party Testing</a></li>
+				<li><a href="/services/third-party-analysis.html">Third Party Testing</a></li>
 				<li><a href="/services/pci-compliance.html">PCI Compliance</a></li>
 				<li><a href="/services/application-audits.html">Independent Software Audit</a></li>
-				<li><a href="/services/application-security-for-executives.html">Solutions for Security Team</a></li>
+				<li><a href="/services/security-team.html">Solutions for Security Team</a></li>
 				<li><a href="/services/business-owner.html">Solutions for Executive Team</a></li>
-				<li><a href="/services/veracode-levels-2.html">Veracode Levels</a></li>
 				<li><a href="/services/developers.html">Solutions for Developers</a></li>
-				<li class="last"><a href="/services/security-team.html">Security</a></li>
+                                <li><a href="/services/solutions-for-government.html">Solutions for Government</a></li>
+				<li class="last"><a href="/security">Security</a></li>
 			</ul>
 		</li>
 	</ul>
 </div>
 <div class="sitemap_col" id="sitemap_col_right">
 	<ul>
-                <li><a href="/careers/index.html" target="_blank">We are hiring!</a></li>
-                <li><a href="/directory" target="_blank">Verafied Directory</a></li>
+                <li><a href="/careers/index.html">We are hiring!</a></li>
+                <li><a href="/directory">Verafied Directory</a></li>
 		<li><a href="http://www.veracode.com/blog" target="_blank">Blog</a></li>
+		<li><a href="/privacy-policy.html">Privacy Policy</a></li>
 		<li><a href="/resources">Resources</a>
 			<ul>
 				<li><a href="/reports">Veracode Research</a></li>
@@ -286,7 +396,7 @@ Veracode respects your right to privacy and your right to limit information exch
 		<li class="last"><a id="customers_new" href="/partners">Partners</a>
 			<ul>
 				<li><a href="/partners">Partners Overview</a></li>
-				<li><a href="/partners/why-partner-with-veracode-2.html">Why Partner with Veracode?</a></li>
+				<li><a href="/partners/why-partner-with-veracode.html">Why Partner with Veracode?</a></li>
 				<li><a href="/partners/partner-benefits.html">Partner Benefits</a></li>
 				<li><a href="/partners/veracode-partner-offerings.html">Partner Offerings</a></li>
                 <li><a href="http://info.veracode.com/apply-to-become-a-partner.html">Become a Partner</a></li>
@@ -295,8 +405,12 @@ Veracode respects your right to privacy and your right to limit information exch
 		</li>
 	</ul>
 </div>
-</div>
-<ul id="link_list">
+</div><ul id="link_list">
+<li><a href="http://www.veracode.com/security/sql-injection">SQL Injection</a></li>
+<li><a href="http://www.veracode.com/security/web-security">Web Security</a></li>
+<li><a href="http://www.veracode.com/security/xss">Cross-Site Scripting</a></li>
+<li><a href="http://www.veracode.com/security/mobile-code-security">Mobile Security</a></li>
+<li><a href="http://www.veracode.com/security/vulnerability-assessment-software">Vulnerability Assessment</a></li>
 <li><a href="http://www.veracode.com/security/code-analysis">Source Code Analysis</a></li>
 <li><a href="http://www.veracode.com/security/code-security">Software Code Security</a></li>
 <li><a href="http://www.veracode.com/security/code-review">Code Review Tools</a></li>
@@ -317,59 +431,62 @@ Veracode respects your right to privacy and your right to limit information exch
 </ul>
 <ul class="latestnews">
 	<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-makes-urgent-detection-of-sql-injection-and-xss-vulnerabilities-at-massive-scale-a-reality-2.html" class="latestnews">
-			Veracode Offers Sample RFP to Guide Application Security Partner Selection</a>
+		<a href="http://www.veracode.com/press-releases/chris-eng-discuss-mobile-device-application-security-at-hitrust-2012-conference" class="latestnews">
+			Veracode’s Chris Eng to Discuss Mobile Device Application Security at HITRUST 2012 Conference</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/utest-doubles-down-on-security-features-partners-with-veracode-2.html" class="latestnews">
-			Veracode Issues "Twacked" Infographic: When Good Twitter Accounts Go Bad</a>
+		<a href="http://www.veracode.com/press-releases/veracode-claims-information-security-product-of-the-year-for-its-veracode-platform.html" class="latestnews">
+			Veracode Claims ‘Information Security Product of the Year’ for its Veracode Platform</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-named-2011-crn-emerging-technology-vendor-2.html" class="latestnews">
-			Veracode Introduces Greater Automation</a>
+		<a href="http://www.veracode.com/press-releases/veracode-secures-30m-in-additional-funding-and-expands-executive-team-2.html" class="latestnews">
+			Veracode Releases Study of Software Related Cybersecurity Risks in Public Companies</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/digital-defense-partnership-with-veracode-unites-leading-cloud-information-security-providers.html" class="latestnews">
-			Digital Defense Partnership with Veracode Unites Leading Cloud Information Security Providers</a>
+		<a href="http://www.veracode.com/press-releases/veracode-secures-30m-in-additional-funding-and-expands-executive-team.html" class="latestnews">
+			Veracode Secures $30M in Additional Funding and Expands Executive Team</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-named-2011-crn-emerging-technology-vendor.html" class="latestnews">
-			Veracode Named 2011 CRN Emerging Technology Vendor</a>
+		<a href="http://www.veracode.com/press-releases/good-technology-chooses-veracode-to-improve-mobile-app-security.html" class="latestnews">
+			Good Technology Chooses Veracode to Improve Mobile App Security</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/utest-doubles-down-on-security-features-partners-with-veracode.html" class="latestnews">
-			uTest doubles down on security features, partners with Veracode</a>
+		<a href="http://www.veracode.com/press-releases/veracode-infographic-details-social-media-security-basics.html" class="latestnews">
+			Veracode Infographic Details Social Media Security Basics</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-makes-urgent-detection-of-sql-injection-and-xss-vulnerabilities-at-massive-scale-a-reality.html" class="latestnews">
-			Veracode Makes Urgent Detection of SQL Injection and  XSS Vulnerabilities at Massive Scale a Reality</a>
+		<a href="http://www.veracode.com/press-releases/alwayson-selects-veracode-as-an-ondemand-top-100-winner.html" class="latestnews">
+			AlwaysOn Selects Veracode as an OnDemand Top 100 Winner</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-leads-black-hat-usa-2011-panel-owning-your-phone-at-every-layer.html" class="latestnews">
-			Veracode Leads Black Hat USA 2011 Panel: Owning Your Phone at Every Layer</a>
+		<a href="http://www.veracode.com/press-releases/veracode-s-latest-reporting-innovation-breaks-negative-paradigms-associated-with-secure-application-2.html" class="latestnews">
+			Growth in SaaS and Mobile Applications Increases Requirement for Software Security Testing at Scale</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/events/lunch-learn.html" class="latestnews">
-			Veracode Simplifies Security Policy Management for Organizations Grappling with Mobile Applications</a>
+		<a href="http://www.veracode.com/press-releases/veracode-s-latest-reporting-innovation-breaks-negative-paradigms-associated-with-secure-application.html" class="latestnews">
+			Veracode’s Latest Reporting Innovation Breaks Negative Paradigms Associated  with Secure Application</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/richard-a.-clarke-joins-veracode-board-of-directors.html" class="latestnews">
-			Richard A. Clarke Joins Veracode Board of Directors</a>
+		<a href="http://www.veracode.com/press-releases/veracode-to-lead-mobile-app-security-discussions-at-rsa-conference-2012.html" class="latestnews">
+			Veracode to Lead Mobile App Security Discussions at RSA Conference 2012</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-reveals-top-ten-risks-to-mobile-security-at-infosecurity-europe-2011.html" class="latestnews">
-			Veracode Reveals Top Ten Risks to Mobile Security at Infosecurity Europe 2011</a>
+		<a href="http://www.veracode.com/press-releases/veracode-to-host-career-open-house-on-february-9.html" class="latestnews">
+			Veracode to Host Career Open House on February 9</a>
 	</li>
 		<li class="latestnews">
-		<a href="http://www.veracode.com/press-releases/veracode-announces-inaugural-federal-advisory-board-members.html" class="latestnews">
-			Veracode Announces Inaugural Federal Advisory Board Members</a>
+		<a href="http://www.veracode.com/press-releases/veracode-licenses-security-innovation-s-elearning-suite-to-deliver-full-spectrum-application-securit.html" class="latestnews">
+			Veracode Licenses Security Innovation’s eLearning Suite to Deliver Full-Spectrum Application Securit</a>
 	</li>
 	</ul>				</div>
 			</div>
 
 <!-- End of SEO code -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
+
+<!-- 
+<SCRIPT type="text/javascript" src="https://lct.salesforce.com/sfga.js"></SCRIPT>
+<SCRIPT type="text/javascript">__sfga();</SCRIPT>
+-->
 <!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
 
 <script type="text/javascript">
@@ -388,35 +505,48 @@ Veracode respects your right to privacy and your right to limit information exch
 </script>
 
 
-
 <script type="text/javascript">
-if (window._ngt)
-{
-  var tracker = new _ngt("WS-84D86C");
-  tracker.track();
-}
-</script>
-<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+document.write(unescape("%3Cscript src='" + document.location.protocol +
+  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>Munchkin.init('790-ZKW-291');</script>
 
+<!--
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
 <script>mktoMunchkin("790-ZKW-291");</script>
+-->
+
+
+
 <!-- Google Code for Vistors - All (except visitors who signed-up for something) Remarketing List -->
 <script type="text/javascript">
-<!--
+/* <![CDATA[ */
 var google_conversion_id = 1060394375;
 var google_conversion_language = "en";
 var google_conversion_format = "3";
 var google_conversion_color = "666666";
 var google_conversion_label = "xHlHCJGEyQEQh6vR-QM";
 var google_conversion_value = 0;
-//-->
+/* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
+<script>
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//www.googleadservices.com/pagead/conversion.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1060394375/?label=xHlHCJGEyQEQh6vR-QM&amp;guid=ON&amp;script=0"/>
+<script>
+document.write(unescape("%3Cimg height='1' width='1' style='border-style:none;' alt='' src='" + document.location.protocol + "//www.googleadservices.com/pagead/conversion/1060394375/?label=xHlHCJGEyQEQh6vR-QM&amp;guid=ON&amp;script=0'%3E%3C/%3E"));
+</script>
 </div>
 </noscript>
 
+
+<!-- BEGIN LivePerson Monitor. -->
+
+
+<script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "75952171",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
+
+
+<!-- END LivePerson Monitor. -->
 
 </body></html>
