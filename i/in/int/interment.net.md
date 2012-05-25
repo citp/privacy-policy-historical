@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125812id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525090616id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
