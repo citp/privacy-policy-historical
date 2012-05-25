@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtso.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126184717id_/http%3A//www.wtso.com/content.php%3Fcms_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtso.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526003351id_/http%3A//www.wtso.com/content.php%3Fcms_id%3D9) for the most accurate reproduction.*
 
 # WTSO
 
