@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellenews.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125001658id_/http%3A//www.bellenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellenews.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525200129id_/http%3A//www.bellenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BelleNews.com
 
@@ -24,3 +24,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Belle News then you may contact us at privacy@bellenews.com
 
 Last updated Sun, 31 Jul 2011 22:22
+
+[](http://digg.com/submit?phase=2&url=http://www.bellenews.com/privacy-policy/&title=Privacy%20Policy) [](http://del.icio.us/post?url=http://www.bellenews.com/privacy-policy/&title=Privacy%20Policy) [](http://www.facebook.com/share.php?u=http://www.bellenews.com/privacy-policy/&t=Privacy%20Policy) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.bellenews.com/privacy-policy/&title=Privacy%20Policy) [](http://sphinn.com/submit.php?url=http://www.bellenews.com/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://www.bellenews.com/privacy-policy/&title=Privacy%20Policy) [](http://technorati.com/faves?add=http://www.bellenews.com/privacy-policy/)
