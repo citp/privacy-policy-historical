@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/%3Ftitle%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525102328id_/http%3A//wiki.xtube.com/%3Ftitle%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - XTube Wiki
 
@@ -101,13 +101,13 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 ## Rate this article!
 
-  * Currently3.14/5
-  * [1](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=1&q=2473&t=174.129.237.157&c=5 "1 out of 5")
-  * [2](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=2&q=2473&t=174.129.237.157&c=5 "2 out of 5")
-  * [3](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=3&q=2473&t=174.129.237.157&c=5 "3 out of 5")
-  * [4](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=4&q=2473&t=174.129.237.157&c=5 "4 out of 5")
-  * [5](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=5&q=2473&t=174.129.237.157&c=5 "5 out of 5")
+  * Currently3.12/5
+  * [1](https://web.archive.org/web/20120525102328id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=1&q=2473&t=174.129.237.157&c=5 "1 out of 5")
+  * [2](https://web.archive.org/web/20120525102328id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=2&q=2473&t=174.129.237.157&c=5 "2 out of 5")
+  * [3](https://web.archive.org/web/20120525102328id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=3&q=2473&t=174.129.237.157&c=5 "3 out of 5")
+  * [4](https://web.archive.org/web/20120525102328id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=4&q=2473&t=174.129.237.157&c=5 "4 out of 5")
+  * [5](https://web.archive.org/web/20120525102328id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=5&q=2473&t=174.129.237.157&c=5 "5 out of 5")
 
 
 
- **3.1** /5 (11327 votes total)
+ **3.1** /5 (12736 votes total)
