@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rapcentral.co.uk privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031215143id_/http%3A//www.rapcentral.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapcentral.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525041228id_/http%3A//www.rapcentral.co.uk/privacy.html) for the most accurate reproduction.*
 
 # RapCentral.co.uk - Privacy Policy
 
 **Privacy Policy for www.rapcentral.co.uk**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email by [clicking here](https://web.archive.org/web/20111031215143id_/http%3A//www.rapcentral.co.uk/contact.php) and filling in our contact form. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email by [clicking here](https://web.archive.org/web/20120525041228id_/http%3A//www.rapcentral.co.uk/contact.php) and filling in our contact form. 
 
 At www.rapcentral.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.rapcentral.co.uk and how it is used. 
 
