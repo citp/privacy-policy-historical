@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the biqboq.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022335id_/http%3A//www.biqboq.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biqboq.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525090402id_/http%3A//www.biqboq.com/static/policy) for the most accurate reproduction.*
 
-# BiqBoq | Privacy Policy
+# BiqBoq : Social Bookmarking Website >> Promote Web | Privacy Policy
 
-We apologize to inform that from the end of January 2012, you will no longer be able to access this website anymore and all of your links will be deleted. Today we just renewed our web hosting for only 3 months because we have not enough money to run this website for longer period. If you like this website and need us to provide longer service please donate us. In the pass, we never received any donate from our 70K+ members and situation seriously now. 
+[](http://tinyurl.com/6mafvjh)
 
-Please do not hesitate to contact us if you have alternative way to keep this website available. 
-
-BiqBoq admin   
-biqboq.com@gmail.com   
-1 Nov 2011 
-
-[ ](https://www.paypal.com/verified/pal=extrabank@gmail.com)
-
-Like this? Donate via PayPal (secure)  
-[Why donate?](https://web.archive.org/static/why-donate/)
-
-Don't have a PayPal account?   
-[Sign Up for a PayPal Account](https://www.paypal.com/cgi-bin/webscr?cmd=_registration-run)
+* * *
 
   
 
@@ -45,3 +33,5 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration form asks users to enter sensitive information (such as email and password), that information is encrypted and protected.
 
 If you have any questions about the security at our web site, please send an e-mail to support@biqboq.com. 
+
+* * *
