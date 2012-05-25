@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extasycams.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123110735id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26showall%3D%26Submit%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extasycams.com privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526000848id_/http%3A//www.extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26showall%3D%26Submit%3Dprivacy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><title>ExtasyCams - Cheapest Live Adult Cams</title>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -300,20 +300,16 @@ function autocenter3(whathight)
 
 function autocenter4(whathight)
 {
+
+           $("#flashmovie2").css("height",whathight+'px');
+           $("#flashmovie2").css("width",'100%');
+           
+
          if (navigator.appName.indexOf('Internet Explorer')>=0)
          setTimeout('window.scrollTo(0, 270)',1);
-         else
-         ScrollTo(document.getElementById('flashmovie'));
-         
+
          if (navigator.appName.indexOf('Netscape')>=0)
          window.scrollTo(0, 270);
-         
-
-         document.getElementById('flashmovie2').style.width='100%';
-         document.getElementById('flashmovie2').width='100%';
-         document.getElementById('flashmovie2').style.height=whathight+'px';
-         document.getElementById('flashmovie2').height=whathight+'px';
-
 }
 
 
@@ -405,6 +401,35 @@ function removefavorite(whatssid,whatmodelid)
               document.getElementById(a[i-1].id).parentNode.removeChild(document.getElementById(a[i-1].id));
               var cachekiller = Math.random();
               $.get('index.php?ajax=removefavorite&action=remove&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
+                 //alert('Result: ' + data);
+              });
+            }
+
+      }
+
+}
+
+
+
+
+
+function removelastvisited(whatssid,whatmodelid)
+{
+      if (whatssid=='')
+      currentssid = $.getUrlVar('ssid');
+      else
+      currentssid = whatssid;
+
+      i = 0;
+      a = document.getElementsByTagName("div");
+      while (element = a[i++])
+      {
+            if ((element.className == "container_model_1") || (element.className == "container_model_2") ||(element.className == "container_model_3"))
+            if (a[i-1].id=='favm'+whatmodelid)
+            {
+              document.getElementById(a[i-1].id).parentNode.removeChild(document.getElementById(a[i-1].id));
+              var cachekiller = Math.random();
+              $.get('index.php?ajax=removelastvisited&action=remove&id='+whatmodelid+'&ssid='+currentssid+'&cachekiller='+cachekiller, function(data){
                  //alert('Result: ' + data);
               });
             }
@@ -645,7 +670,7 @@ window.onresize = resize;
 
 
             <div style="width: 980px; height: 20px; position: relative; margin-top: 5px; overflow: hidden; display: block;" id="scrollerDiv"><table cellpadding="0" cellspacing="0" class="nlsscroller"><tbody><tr><td class="scrlclient"><table id="scroll1$loading" style="display:none;position:absolute;top:z-index:1000"><tbody><tr><td><img src="https://web.archive.org/templates/purple/images/img/loading.gif"></td><td style="color:#333333">Loading...</td></tr></tbody></table><table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" style="width:980px;height:20px"><div id="scroll1" style="position:absolute;overflow:hidden;width:980px;height:20px;" onmouseover="NlsScroller.mOver('scroll1')" onmouseout="NlsScroller.mOut('scroll1')"><div id="scroll1$content" style="height:100%"><table id="scroll1line0" style="position: absolute; top: 0px; z-index: 3; left: 0px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent">
-            &nbsp;&nbsp;&nbsp;<span style="FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif,helvetica; COLOR: #FFFFFF">For the 7th year in a row, extasycams.com is the cheapest adult video chat website in the world. </span> </td></tr></tbody></table><table id="scroll1line1" style="position: absolute; top: 0px; z-index: 2; left: 657px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent"> <span style="FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif,helvetica; COLOR: #FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;Thank you for your support and feedback in our effort to keep the highest standards, even at this price.</span> </td></tr></tbody></table><table id="scroll1line2" style="position: absolute; top: 0px; z-index: 1; left: 1366px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent"> &nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;<span style="FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif,helvetica; COLOR: #FFFFFF">For the 8th year in a row, extasycams.com is the cheapest adult video chat website in the world. </span> </td></tr></tbody></table><table id="scroll1line1" style="position: absolute; top: 0px; z-index: 2; left: 657px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent"> <span style="FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif,helvetica; COLOR: #FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;Thank you for your support and feedback in our effort to keep the highest standards, even at this price.</span> </td></tr></tbody></table><table id="scroll1line2" style="position: absolute; top: 0px; z-index: 1; left: 1366px;" class="scrlcontentfrm"><tbody><tr><td class="scrlcontent"> &nbsp;&nbsp;
             </td></tr></tbody></table></div><div id="scroll1Helper" style="display:none;position:absolute;top:0px;width:100%;height:100%" class="scrlefflayerH"><table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></div></div></td></tr></tbody></table></td></tr></tbody></table></div>
             <script>
               var n = new NlsScroller("scroll1");
@@ -764,15 +789,15 @@ LOGIN:
      <img src="/templates/purple/images/header_logo_extasycams.com.png">
 </div>
 <div id="header_logo2" style="left: 203px;">
-     <span id="logocaption" class="fontone"><strong>There are 161 live cams right now!</strong></span>
+     <span id="logocaption" class="fontone"><strong>There are 207 live cams right now!</strong></span>
 </div>
 <div id="header_image" style="left: 468px;">
 </div>
 <div id="header_imageright" style="left: 738px;">
      
-   <br><br>
-   <img src="/templates/purple/images/header_imageright_1.png">
-   
+       <br><br>
+       <img src="/templates/purple/images/header_imageright_1.png">
+       
 </div>
 
 </div>
@@ -852,7 +877,7 @@ Summary:<br><br>
 <a target="_blank" href="http://models.extasycams.com">Models Wanted</a> &nbsp;&nbsp;
 <a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=18usc">18 U.S.C. 2257</a>
 <br>
-Copyright © 2004 - 2011 Zipp Software - Cheap Live Adult Sex Cams. All rights reserved. <br><br>
+Copyright © 2004 - 2012 Zipp Software - Cheap Live Adult Sex Cams. All rights reserved. <br><br>
 </center>
 
 
@@ -928,7 +953,7 @@ function OneStat_Pageview()
 
 OneStat_Pageview();
 //-->
-</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;url=https%3A//web.archive.org/web/20111123110735id_/http%253A//extasycams.com/index.php%253Flang%253Deng%2526ssid%253D%2526wbid%253D%2526refid%253Dextasycams.com%2526mref%253D%2526showall%253D%2526Submit%253Dprivacy&amp;ti=ExtasyCams%20-%20Cheapest%20Live%20Adult%20Cams&amp;section=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;cmc=&amp;cu0=&amp;cu1=&amp;cu2=&amp;cu3=&amp;cu10=&amp;cu11=&amp;rf=&amp;tz=0&amp;ch=22&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;url=https%3A//web.archive.org/web/20120526000848id_/http%253A//www.extasycams.com/index.php%253Flang%253Deng%2526ssid%253D%2526wbid%253D%2526refid%253Dextasycams.com%2526mref%253D%2526showall%253D%2526Submit%253Dprivacy&amp;ti=ExtasyCams%20-%20Cheapest%20Live%20Adult%20Cams&amp;section=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;cmc=&amp;cu0=&amp;cu1=&amp;cu2=&amp;cu3=&amp;cu10=&amp;cu11=&amp;rf=&amp;tz=0&amp;ch=22&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
 <a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;js=No&amp;" ALT="OneStat.com Web Analytics"></a>
 </noscript>
@@ -948,6 +973,6 @@ OneStat_Pageview();
 
 
 
-<center></center>
+
 
 </body></html>
