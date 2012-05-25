@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shipsol.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123141543id_/http%3A//www.shipsol.com/f.to/guide/privacy_protection.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shipsol.com privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525142257id_/http%3A//www.shipsol.com/f.to/guide/privacy_protection.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -14,11 +14,11 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript" src="http://image.shipsol.com/js/common.js"></script>
 <script type="text/javascript" src="http://image.shipsol.com/js/jquery.js"></script>
 <script type="text/javascript" src="http://image.shipsol.com/js/tooltip.js"></script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-25848886-1']);
-  _gaq.push(['_setDomainName', 'shipsol.com']);
+  _gaq.push(['_setAccount', 'UA-27970336-2']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -28,6 +28,7 @@
   })();
 
 </script>
+
 <link rel="stylesheet" type="text/css" href="http://image.shipsol.com/css/member.css"></head>
 
 
@@ -348,6 +349,7 @@ function portal_login()
 <!-- // Contents -->
 
 <!-- FOOTER -->
+
 <div id="footer">
 	<h1 class="blind">footer</h1>
 	<p class="link">
@@ -355,19 +357,29 @@ function portal_login()
 	<a href="/f.to/guide/terms_of_use.html">Terms of Use</a><span class="tab">|</span> 
 	<a href="/f.to/guide/privacy_protection.html">Privacy Policy</a><span class="tab">|</span>
 	<a href="/f.to/guide/unauthorized_email.html">Denial of unauthorized email address collection</a><span class="tab">|</span> 
-	<a href="http://www.komec.kr/02_equipment/pop_email.asp?snd=KOMEC@komea.kr" onclick="window.open(this.href,'pop_email','width=860,height=730,top=50,left=50,scrollbars=1');return false;">Contact us</a>
+	<a href="http://www.komec.kr" onclick="window.open(this.href,'pop_email','width=860,height=730,top=50,left=50,scrollbars=1');return false;">Contact us</a>
 	</p>
 	<p class="copyright">
 		<span>CopyRight©2011, <cite>Korea Marine Equipment Global Service Center,</cite> All Rights Reserved.</span>
 		<span>
-			<select>
+			<select id="familysite" onchange="javascript:change_familysite()">
 				<option>::: Family Site ::: </option>
-				<option>Korea Marine Equip </option>
+				<option value="http://www.komea.kr">KOMEA</option>
+				<option value="http://www.komec.kr">KOMEC</option>
 			</select>
 		</span>
 	</p>
 </div>
 <!-- // FOOTER -->
+<script language="javascript">
+	function change_familysite()
+	{
+		if (document.getElementById("familysite").value != "")
+		{
+			window.open(document.getElementById("familysite").value,"familysite","");
+		}
+	}
+</script>
 
 
 <!--SWTAGOK-->
