@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customercarecontacts.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223152656id_/http%3A//customercarecontacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customercarecontacts.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201649id_/http%3A//customercarecontacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Care Contacts
 
