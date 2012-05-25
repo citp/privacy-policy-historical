@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the monsterenergy.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075455id_/http%3A//www.monsterenergy.com/us/en/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterenergy.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525135150id_/http%3A//www.monsterenergy.com/us/en/resources/privacy) for the most accurate reproduction.*
 
-# Monster Energy Drink® | Unleash The BeastPrivacy Policy
+# Monster Energy Drink® | Privacy Policy
 
 ### PRIVACY POLICY
 
-Monster Beverage Company, a division of Hansen Beverage Company, a Delaware corporation (“Monster Energy”) has created this Privacy Policy (“Privacy Policy”) in order to demonstrate our commitment to the privacy of our web site visitors. The following discloses our information gathering and dissemination practices for the Monster Energy® website, located at http://www.monsterenergy.com (the “Site”).
+Monster Energy Company (“Monster Energy”) has created this Privacy Policy (“Privacy Policy”) in order to demonstrate our commitment to the privacy of our web site visitors. The following discloses our information gathering and dissemination practices for the Monster Energy® website, located at http://www.monsterenergy.com (the “Site”).
 
 Please be aware that if you use the Site, register in any fashion in connection with the Site, or participate in a survey, contest, sweepstakes, or other promotion available on the Site, you are agreeing to both the terms of this Privacy Policy and our Terms and Conditions of Use set forth elsewhere on the Site, the terms of which are incorporated by this reference, each as in effect from time to time. Please also be aware we reserve the right at our discretion to make changes to this Privacy Policy at any time, and all such changes shall be immediately applicable. You will be notified of any material changes to this Privacy Policy by email. Your continued use of our Site following the posting of changes to this Privacy Policy will mean you accept those changes.
 
@@ -40,4 +40,4 @@ The Site is not directed at children under the age of 13 and Monster Energy proh
 
 We take reasonable precautions to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. We use Secure Socket Layer (“SSL”) technology to protect the security of your credit card information as it is transmitted to us. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. We cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
-EFFECTIVE DATE: October 2, 2009
+EFFECTIVE DATE: January 5, 2012
