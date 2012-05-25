@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126062738id_/http%3A//paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526000645id_/http%3A//paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
 
 # PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, ALMS, And More!
 
