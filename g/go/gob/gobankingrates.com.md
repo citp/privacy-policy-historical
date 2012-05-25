@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gobankingrates.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206182918id_/http%3A//www.gobankingrates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobankingrates.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201900id_/http%3A//www.gobankingrates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Go Banking Rates
+# Privacy Policy
 
 By visiting, using and/or submitting information to www.GoBankingRates.com, you are accepting the practices described in this Privacy Policy.
 
