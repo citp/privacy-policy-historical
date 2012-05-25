@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124174234id_/http%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525051204id_/http%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Edfinancial Services
 
 [](http://www.truste.org/ivalidate.php?url=www.edfinancial.com&sealid=101 "Click to verify your privacy")
 
-At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on July 13, 2011. 
+At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on February 17, 2012. 
 
 ### TRUSTe Privacy Program
 
-Edfinancial Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@edfinancial.com](mailto:info@edfinancial.com).  If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Edfinancial Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via our [e-mail contact form](https://www.edservicing.com/customercarequestions "e-mail contact form").  If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### What this Privacy Policy Covers
 
@@ -24,7 +24,7 @@ Edfinancial Services does not collect any nonpublic personal information from vi
 
 We currently use Google Analytics to track visitors by collecting anonymous statistics with first-party cookies, small text files with a single string of anonymous text or numbers. We do not collect any personally identifiable information about website visitors using this tool. The type of information we collect includes pages visited, product, school and lender codes, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. We do not link an IP address with the identity of a computer user.
 
-If you choose not to uncheck the Offers box on your registration form, you agree that Edfinancial Services or Edamerica, Inc. may periodically send educational or marketing information to the email address with which you registered. You may unsubscribe to this service at any time by following the instructions included in each email communication. You may also contact us for assistance at [info@edfinancial.com](mailto:info@edfinancial.com) or by calling 1-800-337-6884. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+If you choose not to uncheck the Offers box on your registration form, you agree that Edfinancial Services or Edamerica, Inc. may periodically send educational or marketing information to the email address with which you registered. You may unsubscribe to this service at any time by following the instructions included in each email communication. You may also contact us for assistance via our [e-mail contact form](https://www.edservicing.com/customercarequestions "e-mail contact form"). You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
 Certain processes, such as online loan applications, will require that you provide your social security number and date of birth if you choose to continue with the online process. Once this information is provided, it will be associated by Edfinancial Services with the user account that is then logged on, and you will not need to provide it again. Thereafter, you will only need your username and password to access your account information or to complete forms in other processes. For your security, the social security number that you enter cannot be used with any other account.
 
@@ -32,7 +32,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 ### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@edfinancial.com](mailto:info@edfinancial.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us vial our [e-mail contact form](https://www.edservicing.com/customercarequestions "e-mail contact form"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Minimum Age Requirement
 
@@ -40,7 +40,7 @@ By law, Edfinancial Services cannot collect any information from persons who are
 
 ### Updating Personal Information
 
-You may update or modify or delete basic personal information associated with your account by using the [Edfinancial Services login manager](https://preapproval.edfinancial.com/LoginApp/Default.aspx) or by contacting us at [info@edfinancial.com](mailto:info@edfinancial.com) or at 1-800-337-6884.
+You may update or modify or delete basic personal information associated with your account by using the [Edfinancial Services login manager](https://preapproval.edfinancial.com/LoginApp/Default.aspx) or by contacting us via our [e-mail contact form](https://www.edservicing.com/customercarequestions "e-mail contact form").
 
 ### Use of Cookies
 
@@ -56,7 +56,7 @@ The security of your personal information is important to us.  When you enter s
 
 In addition to the use of SSL technology, we follow industry-accepted best practices for protecting personal information, both during transmission and at rest on our systems. While no method of communication over the Internet or electronic storage is ever 100% secure, we have gone to great lengths to protect your personal information through the use of layered firewalls, intrusion detection/protection systems, file level encryption of data while at rest and encryption of data while in transit over our network. All systems provide extensive logging and automated reporting of issues enabling timely response, interdiction and corrective actions if necessary.
 
-If you have any questions about security on our Web site, you can email us at [info@edfinancial.com](mailto:info@edfinancial.com).
+If you have any questions about security on our Web site, you can contact us via our [e-mail contact form](https://www.edservicing.com/customercarequestions "e-mail contact form").
 
 ### Passwords
 
@@ -75,8 +75,9 @@ If you have any questions about this policy please contact:
 Customer Privacy  
 Edfinancial Services  
 120 North Seven Oaks Drive  
-Knoxville, TN 37922  
-1-800-337-6884 or [info@edfinancial.com](mailto:info@edfinancial.com)
+Knoxville, TN 37922
+
+[e-mail contact form](https://www.edservicing.com/customercarequestions "e-mail contact form")
 
 ### California Privacy
 
