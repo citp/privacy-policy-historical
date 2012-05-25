@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpk.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220021350id_/http%3A//www.cpk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpk.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525103102id_/http%3A//www.cpk.com/privacy) for the most accurate reproduction.*
 
 # California Pizza Kitchen - Privacy Policy
 
