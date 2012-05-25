@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldgolfhalloffame.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011120440id_/http%3A//www.worldgolfhalloffame.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolfhalloffame.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525185540id_/http%3A//www.worldgolfhalloffame.org/privacy-policy.php) for the most accurate reproduction.*
 
 # World Golf Hall of Fame
 
