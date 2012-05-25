@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123kerala.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125061204id_/http%3A//www.123kerala.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123kerala.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525124218id_/http%3A//123kerala.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
