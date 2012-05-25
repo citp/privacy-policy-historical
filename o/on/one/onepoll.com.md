@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepoll.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010050514id_/http%3A//www.onepoll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepoll.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525022305id_/http%3A//www.onepoll.com/privacy) for the most accurate reproduction.*
 
 # OnePoll Respects the Privacy Rights of Our Members and Website Users: OnePoll
 
@@ -78,15 +78,15 @@ The terms defined in the Terms and Conditions shall have the same meaning when u
 
   * ### OnePoll in the Media
 
-  * [SaveMe4Later ](https://web.archive.org/press/view/1275)Fri, 2011-09-24
+  * [EuroCamp ](https://web.archive.org/press/view/15723)2012-05-23
 
-  * [Aunt Bessie's ](https://web.archive.org/press/view/1273)Fri, 2011-09-20
+  * [Beneden Healthcare ](https://web.archive.org/press/view/15719)2012-05-23
 
-  * [Moletestuk.com ](https://web.archive.org/press/view/1274)Fri, 2011-09-20
+  * [Naturally Different ](https://web.archive.org/press/view/15709)2012-05-23
 
-  * [esure ](https://web.archive.org/press/view/1272)Fri, 2011-09-16
+  * [Whole Foods Market ](https://web.archive.org/press/view/15693)2012-05-22
 
-  * [Birmingham Food Fest ](https://web.archive.org/press/view/1271)Fri, 2011-09-15
+  * [Siteopia ](https://web.archive.org/press/view/15620)2012-05-14
 
   * [More](https://web.archive.org/press)
 
