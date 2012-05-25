@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the leedsmet.ac.uk privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125081136id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leedsmet.ac.uk privacy policy that was archived on 2012-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525061615id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 426 - published by Open Text Web Solutions 10.1 - 10.1.2.287 - 32300 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 426 - published by Open Text Web Solutions 10.1 - 10.1.2.287 - 33920 -->
 <title>Privacy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
@@ -22,6 +22,8 @@
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.leedsmet.ac.uk/assets/scripts/jquery.accordion.js"></script>
+
 <script type="text/javascript" src="http://www.leedsmet.ac.uk/assets/scripts/global.js"></script>
 
 
@@ -29,18 +31,23 @@
  $(document).ready(function($){
 
 $("#contact-info").hide();
-$(".footernavsection").hide();
-$("#footernews").hide();
+//$(".footernavsection").hide();
+//$("#footernews").hide();
 togglediv("#contact a","#contact-info","0.5");
-togglediv("#footernavstrip a",".footernavsection","slow","bottom");
-togglediv("#newsfootertitle a","#footernews","0.8","bottom");
+//togglediv("#footernavstrip a",".footernavsection","slow","bottom");
+//togglediv("#newsfootertitle a","#footernews","0.8","bottom");
 cleardefaultinput($("#searchoursite"));
 
-$("#newsloader").click(function(event){
-    event.preventDefault();
+//$("#newsloader").click(function(event){
+    //event.preventDefault();
     // load news page footer element on click
-        $("#response").load("/about/newsfragment.htm");
-    });
+        //$("#response").load("/about/newsfragment.htm");
+        $("#response").load("/news/external-footer-fragment.htm");
+
+
+
+
+    //});
 
 
 $('.styleswitch').click(function()
@@ -50,6 +57,15 @@ $('.styleswitch').click(function()
         });
         var c = readCookie('style');
         if (c) switchStylestyle(c);
+
+ $('#accordion').accordion({
+            autoheight: false,
+            alwaysOpen: false,
+            active: false,
+            header: 'h3.toggler'
+ 
+});  
+
 });          
 </script>
 
@@ -72,7 +88,7 @@ $('.styleswitch').click(function()
         <div class="contactbaropen lmugrey3col lmufont14">9.00-5.00 Mon-Fri</div>
     </div>
     <div id="contact-map">
-        <a href="/about/how-to-get-to-leeds-metropolitan-university.htm?utm_source=Header &amp;utm_medium=Contact&amp;utm_campaign=How%2Bto%2BFind%2BUs" onclick="_gaq.push(['_trackEvent','Header','Link','Contact_How_to_Find_Us']);"><img src="/howtofindus.jpg" alt="Map. How to find us."></a>
+        <a href="/about/how-to-get-to-leeds-metropolitan-university.htm?utm_source=Header &amp;utm_medium=Contact&amp;utm_campaign=How%2Bto%2BFind%2BUs" onclick="_gaq.push(['_trackEvent','Header','Link','Contact_How_to_Find_Us']);"><img src="/images/howtofindus.jpg" alt="Map. How to find us."></a>
     </div>
     <div id="contact-git">
         <div class="lmumage3col lmufont24">GET IN TOUCH</div>
@@ -89,30 +105,32 @@ $('.styleswitch').click(function()
 <a href="#skipnav" class="forhidskip">[Skip to content]</a>
 <div id="global-header">
             <div id="hdr-left">
-                <div id="logo-box" class="lmupurp2bg"><a href="/index.htm?utm_source=Home&amp;utm_medium=Logo&amp;utm_campaign=Home%2BLogo%2BLink" onclick="_gaq.push(['_trackEvent','Home','Link','Logo']);" accesskey="1" tabindex="1"><img src="http://www.leedsmet.ac.uk/assets/images/lmu-logo.png" alt="Leeds Metropolitan University Logo" border="0"></a></div>
+                <div id="logo-box" class="lmupurp2bg"><a href="/index.htm?utm_source=Home&amp;utm_medium=Logo&amp;utm_campaign=Home%2BLogo%2BLink" onclick="_gaq.push(['_trackEvent','Home','Link','Logo']);" accesskey="1" tabindex="101"><img src="http://www.leedsmet.ac.uk/assets/images/lmu-logo.png" alt="Leeds Metropolitan University Logo" border="0"></a></div>
                 <div id="logo-box-strip"></div>
             </div>
             <div id="hdr-right">
                 
              <div id="accessibility-panel">
                     <div id="portals" class="lmufont12 lmuarial">
-                       <div id="blueportal" class="lmuturq4bg"><a href="/staff/index.htm?utm_source=Header&amp;utm_medium=Staff&amp;utm_campaign=Header%2BStaff%2BLink" onclick="_gaq.push(['_trackEvent','Header','Link','Staff']);"><span class="glados">Staff</span></a><img class="afportal" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="portal arrow" border="0"></div>                         
-<div id="orangeportal" class="lmuturq4bg"><a href="/students/index.htm?utm_source=Header&amp;utm_medium=Current%2BStudents&amp;utm_campaign=Header%2BCurrent%2BStudents" onclick="_gaq.push(['_trackEvent','Header','Link','Students']);"><span class="glados">Current Students</span> <img class="afportal" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="portal arrow" border="0"></a></div> 
+                       <div id="blueportal" class="lmuturq4bg"><a href="/staff/index.htm?utm_source=Header&amp;utm_medium=Staff&amp;utm_campaign=Header%2BStaff%2BLink" onclick="_gaq.push(['_trackEvent','Header','Link','Staff']);" accesskey="u" tabindex="201"><span class="glados">Staff</span><img class="afportal" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="portal arrow" border="0"></a></div>                         
+<div id="orangeportal" class="lmuturq4bg"><a href="/students/index.htm?utm_source=Header&amp;utm_medium=Current%2BStudents&amp;utm_campaign=Header%2BCurrent%2BStudents" onclick="_gaq.push(['_trackEvent','Header','Link','Students']);" accesskey="i" tabindex="202"><span class="glados">Current Students</span> <img class="afportal" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="portal arrow" border="0"></a></div> 
+
+<div id="orangeportal" class="lmuturq4bg"><a href="/alumni/index.htm?utm_source=Header&amp;utm_medium=Alumni&amp;utm_campaign=Header%2BAlumni%2BLink" onclick="_gaq.push(['_trackEvent','Header','Link','Alumni']);"><span class="glados" accesskey="o" tabindex="203">Alumni</span></a><img class="afportal" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="portal arrow" border="0"></div>
                     </div>
                    <div id="access"><a href="#" rel="default" class="styleswitch" onclick="_gaq.push(['_trackEvent','Header','Button','Small_Accessibility']);"><img src="http://www.leedsmet.ac.uk/assets/images/access01.jpg" alt="accessibility small default text" border="0"></a><a href="#" rel="big" class="styleswitch" onclick="_gaq.push(['_trackEvent','Header','Button','Medium_Accessibility']);"><img src="http://www.leedsmet.ac.uk/assets/images/access02.jpg" alt="accessibility medium text" border="0"></a><!-- <a href="#" rel="highcontrast" class="styleswitch" onClick="_gaq.push(['_trackEvent','Header','Button','Colour_Contrast_Accessibility');"><img src="http://www.leedsmet.ac.uk/assets/images/access04.jpg"  alt="Accessibility dyslexic high contrast" border="0" /></a> --><!--<a href="#" rel="textonly" class="styleswitch" onClick="_gaq.push(['_trackEvent','Header','Button','Textonly_Accessibility');"><img src="http://www.leedsmet.ac.uk/assets/images/access05.jpg" alt="Accessibility Text only for screen readers" border="0" /></a> --></div>                 
-                    <div id="social-media"><a href="http://www.youtube.com/leedsmet" onclick="_gaq.push(['_trackEvent','Header','Icon','YouTube']);"><img src="http://www.leedsmet.ac.uk/assets/images/youtube_16.png" alt="youtube icon" border="0"></a><a href="http://www.facebook.com/leedsmetropolitan" onclick="_gaq.push(['_trackEvent','Header','Icon','Facebook']);"><img src="http://www.leedsmet.ac.uk/assets/images/facebook_16.png" alt="facebook icon" border="0"></a><a href="http://twitter.com/#!/leedsmet" onclick="_gaq.push(['_trackEvent','Header','Icon','Twitter']);"><img src="http://www.leedsmet.ac.uk/assets/images/twitter_16.png" alt="twitter icon" border="0"></a><a href="http://www.leedsmet.ac.uk/rss.xml" onclick="_gaq.push(['_trackEvent','Header','Icon','RSS']);"><img src="http://www.leedsmet.ac.uk/assets/images/rss_16.png" alt="rss icon" border="0"></a></div>
-                    <div id="contact" class="lmufont18 lmuavenyreg lmupurp2bg"><a href="#?utm_source=Header&amp;utm_medium=Contact&amp;utm_campaign=Header%2BContact%2Bus" onclick="_gaq.push(['_trackEvent','Header','Link','Contact_us']);"><span class="contact-text">Contact / Find us</span><img class="afcontact" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="contact us arrow" border="0"></a></div>
+                    <div id="social-media"><a href="http://www.youtube.com/leedsmet" onclick="_gaq.push(['_trackEvent','Header','Icon','YouTube']);"><img src="http://www.leedsmet.ac.uk/assets/images/youtube_16.png" alt="youtube icon" border="0"></a><a href="http://www.facebook.com/leedsmetropolitan" onclick="_gaq.push(['_trackEvent','Header','Icon','Facebook']);"><img src="http://www.leedsmet.ac.uk/assets/images/facebook_16.png" alt="facebook icon" border="0"></a><a href="http://twitter.com/#!/leedsmet" onclick="_gaq.push(['_trackEvent','Header','Icon','Twitter']);"><img src="http://www.leedsmet.ac.uk/assets/images/twitter_16.png" alt="twitter icon" border="0"></a><a href="http://www.leedsmet.ac.uk/news/rss.xml" onclick="_gaq.push(['_trackEvent','Header','Icon','RSS']);"><img src="http://www.leedsmet.ac.uk/assets/images/rss_16.png" alt="rss icon" border="0"></a></div>
+                    <div id="contact" class="lmufont18 lmuavenyreg lmupurp2bg"><a href="http://www.leedsmet.ac.uk/contact-us.htm?utm_source=Header&amp;utm_medium=Contact&amp;utm_campaign=Header%2BContact%2Bus" onclick="_gaq.push(['_trackEvent','Header','Link','Contact_us']);"><span class="contact-text">Contact / Find us</span><img class="afcontact" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="contact us arrow" border="0"></a></div>
                 </div>
                 <div id="navigation" class="lmuavenyreg">
                     <ul class="navprimary lmufont20">
-                        <li><a href="/study/index.htm" class="clr-sac">Study &amp;<br> courses</a></li>
-                        <li><a href="/life/index.htm" class="clr-lalm">Life at Leeds<br> Metropolitan</a></li>
-                        <li><a href="/employability/index.htm" class="clr-eag">Employability<br> &amp; graduates</a></li>
+                        <li><a href="/study/index.htm" class="clr-sac" accesskey="q" tabindex="301">Study &amp;<br> courses</a></li>
+                        <li><a href="/life/index.htm" class="clr-lalm" accesskey="w" tabindex="302">Life at Leeds<br> Metropolitan</a></li>
+                        <li><a href="/employability/index.htm" class="clr-eag" accesskey="e" tabindex="303">Employability<br> &amp; graduates</a></li>
                     </ul>
                     <ul class="navsecondary lmufont18">
-                        <li class="small-border"><a href="/research/index.htm" class="clr-res">Research</a></li>
-                        <li class="small-border"><a href="/business/index.htm" class="clr-bus">Business</a></li>                      
-                        <li><a href="/about/index.htm" class="clr-abo">About us</a></li>
+                        <li class="small-border"><a href="/research/index.htm" class="clr-res" accesskey="r" tabindex="304">Research</a></li>
+                        <li class="small-border"><a href="/business/index.htm" class="clr-bus" accesskey="t" tabindex="305">Business</a></li>                      
+                        <li><a href="/about/index.htm" class="clr-abo" accesskey="y" tabindex="306">About us</a></li>
                     </ul>
                 </div>
 <a name="skipnav" accesskey="2"></a>
@@ -130,7 +148,7 @@ $('.styleswitch').click(function()
 
 <form name="gs" method="GET" action="http://sitesearch.leedsmet.ac.uk/search">
 <label for="qt" class="forhid">search</label>  
- <input type="text" name="q" id="qt" size="32" maxlength="256" class="search-padding" value="Search our site">                   
+ <input type="text" name="q" id="qt" size="32" maxlength="256" class="search-padding" value="Search our site" accesskey="4" tabindex="401">                   
                  
                   <input type="hidden" name="entqr" value="0">
                   <input type="hidden" name="ud" value="1">
@@ -142,7 +160,7 @@ $('.styleswitch').click(function()
                   <input type="hidden" name="site" value="default_collection">
 
  <label for="submit" class="forhid">Search our site</label>
-<input type="image" src="http://www.leedsmet.ac.uk/assets/images/transparentfill.png" id="submit" name="btnG" class="searchgo" alt="search the Leeds Met site" accesskey="4">    
+<input type="image" src="http://www.leedsmet.ac.uk/assets/images/transparentfill.png" id="submit" name="btnG" class="searchgo" alt="search the Leeds Met site" tabindex="402">    
 </form>
 
 
@@ -169,6 +187,10 @@ $(document).ready(function($){
                               
                                     <li class="thirdnav">
                                       <a href="/contact-us.htm">Contact Us</a>
+                                        </li>
+                              
+                                    <li class="thirdnav">
+                                      <a href="/cookies.htm">Cookies</a>
                                         </li>
                               
                                     <li class="thirdnav">
@@ -237,8 +259,7 @@ $(document).ready(function($){
         <p><strong>Site usage information and cookies </strong></p>
         <p>Cookies are pieces of data created when you visit a site and are stored in the cookie directory of your hard drive. They generally do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. They are used to help you when you return to a website. For example, they may enable you to return directly to a particular part of the site by 'remembering' where you last accessed. If you choose not to accept the cookies (by setting your browser to reject them), this should not affect your access to the majority of facilities available on our website.</p>
         <p><strong>Where cookies are used</strong></p>
-        <p>We use an external, independent measurement and research company (Google)&nbsp;to gather information about who is using which parts of our website. This information is gathered using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. We use this information to help us improve our service to you.</p>
-        <p>Cookies are used throughout the website to determine your accessibility preference when you click on the "A" accessibility buttons. Cookies are also used on the For Staff section of the web site to list your preference of service and&nbsp;on the pagination of documents.</p>
+        <p>See our&nbsp;<a href="/cookies.htm">Cookies statement</a> for more information.</p>
         <p><strong>Linking to other sites from the Leeds Met website </strong></p>
         <p>The Leeds Met website contains many links to other sites, to help you find the information you need. These may be 'official partners' of Leeds Met or other third parties with information likely to be of interest and relevance to those using our website. Leeds Met is not responsible for the privacy practices of the organisations that operate these other sites. You should be aware of this when you leave www.leedsmet.ac.uk and, if concerned, read the privacy statements on the other websites you visit.</p>
         <p><strong>Advertising </strong></p>
@@ -252,7 +273,10 @@ $(document).ready(function($){
 
                         
                        
+<div id="accordion">
+
                          
+</div>
                  
 
                                     </div>
@@ -266,19 +290,24 @@ $(document).ready(function($){
 </div>
 <!-- Footer: --> 
 
+
+
 <div id="footer" class="lmublac1bg lmuwhite1col lmuarial">
         <div id="newspanel">
             <div id="newsstrip">
-                <div id="newsfootertitle"><div class="fntitle"><a href="#" id="newsloader" onclick="_gaq.push(['_trackEvent','Footer','TitleLink','Footer_News_NotHomepage_Title']);">News</a></div><img class="afnews" src="http://www.leedsmet.ac.uk/assets/images/portalarrow.png" alt="portal arrow"></div>
+                <div id="newsfootertitle"><div class="fntitle lmufont16"><a href="http://www.leedsmet.ac.uk/news/index.htm" id="newsloader" onclick="_gaq.push(['_trackEvent','Footer','TitleLink','Footer_News_NotHomepage_Title']);" accesskey="2">News</a></div></div>
                 <div id="newsfootericons">
 <a href="http://www.youtube.com/leedsmet" onclick="_gaq.push(['_trackEvent','Footer','Icon','YouTube']);"><img src="http://www.leedsmet.ac.uk/assets/images/youtube_16.png" border="0" alt="youtube icon"></a>
 <a href="http://www.facebook.com/leedsmetropolitan" onclick="_gaq.push(['_trackEvent','Footer','Icon','Facebook']);"><img src="http://www.leedsmet.ac.uk/assets/images/facebook_16.png" border="0" alt="facebook icon"></a>
 <a href="http://twitter.com/#!/leedsmet" onclick="_gaq.push(['_trackEvent','Footer','Icon','Twitter']);"><img src="http://www.leedsmet.ac.uk/assets/images/twitter_16.png" border="0" alt="twitter icon"></a>
-<a href="http://www.leedsmet.ac.uk/rss.xml" onclick="_gaq.push(['_trackEvent','Footer','Icon','RSS']);"><img src="http://www.leedsmet.ac.uk/assets/images/rss_16.png" border="0" alt="rss icon"></a></div>
+</div>
                 <div class="clearboth"></div>
                  
                 <div id="footernews">     
-                <div id="response"></div> 
+                
+                 <div id="response"></div> 
+
+
                  </div>   
 
             </div>
@@ -300,7 +329,7 @@ $(document).ready(function($){
                     <div class="footernavtitle lmufont18 lmuavenyreg"><a href="http://www.leedsmet.ac.uk/life/index.htm">Life at Leeds Metropolitan</a></div>
                     <div class="footernavlinks">
                         <ul>
-                            <li><a href="/life/leeds_culture_shopping_nightlife.htm">Culture, shopping &amp; nightlife</a></li><li><a href="/life/leeds-yorkshire.htm">Leeds &amp; Yorkshire</a></li><li><a href="/life/accommodation.htm">Accommodation</a></li><li><a href="/life/learning.htm">Learning</a></li><li><a href="/life/international-students.htm">International Students</a></li><li><a href="/life/your-finances.htm">Your finances</a></li><li><a href="/life/sports_exercise.htm">Sports &amp; exercise</a></li><li><a href="/life/feeling-at-home.htm">Feeling at home</a></li><li><a href="/life/support.htm">Support</a></li><li><a href="/life/your-lifestyle.htm">Your lifestyle</a></li><li><a href="/life/our-campuses.htm">Our campuses</a></li>
+                            <li><a href="/life/leeds_culture_shopping_nightlife.htm">Culture, shopping &amp; nightlife</a></li><li><a href="/life/leeds-yorkshire.htm">Leeds &amp; Yorkshire</a></li><li><a href="/life/accommodation.htm">Accommodation</a></li><li><a href="/life/learning.htm">Learning</a></li><li><a href="/life/international-students.htm">International Students</a></li><li><a href="/life/your-finances.htm">Your finances</a></li><li><a href="/life/sports_exercise.htm">Sports &amp; exercise</a></li><li><a href="/life/feeling-at-home.htm">Feeling at home</a></li><li><a href="/life/support.htm">Support</a></li><li><a href="/life/your-lifestyle.htm">Your lifestyle</a></li><li><a href="/life/our-campuses.htm">Our campuses</a></li><li><a href="/life/creative-spaces.htm">Creative Spaces</a></li>
                         </ul>
                     </div>
                 </div>
@@ -308,7 +337,9 @@ $(document).ready(function($){
                     <div class="footernavtitle lmufont18 lmuavenyreg"><a href="http://www.leedsmet.ac.uk/employability/index.htm">Employability &amp; graduates</a></div>
                     <div class="footernavlinks">
                         <ul>
-                            <li><a href="/employability/university-placements.htm">Placements</a></li><li><a href="/employability/volunteering.htm">Volunteering</a></li><li><a href="/employability/exchange-programmes.htm">Exchange programmes</a></li><li><a href="/employability/mentoring.htm">Mentoring</a></li><li><a href="/employability/guest-speakers.htm">Guest Speakers</a></li><li><a href="/employability/annual-student-showcases.htm">Annual Student Showcases</a></li><li><a href="/employability/jobs-careers-support.htm">Jobs &amp; Careers support</a></li><li><a href="/employability/furthering-your-studies.htm">Furthering your studies</a></li><li><a href="/employability/starting-a-business.htm">Starting a business</a></li><li><a href="/employability/social-business-networking.htm">Social &amp; business networking</a></li><li><a href="/employability/case-studies.htm">Case studies</a></li>
+                            <li><a href="/employability/Connecting-you-with-employers.htm">Connecting you with Employers</a></li>
+                            <li><a href="/employability/building-your-CV.htm">Building your CV</a></li>
+                            <li><a href="/employability/case-studies.htm">Case Studies</a></li>
                         </ul>
                     </div>
                 </div>
@@ -316,7 +347,7 @@ $(document).ready(function($){
                     <div class="footernavtitle lmufont18 lmuavenyreg"><a href="http://www.leedsmet.ac.uk/research/index.htm">Research</a></div>
                     <div class="footernavlinks">
                         <ul>
-                            <li><a href="/research/current-research-activity.htm">Current research activity</a></li><li><a href="/research/Research-Students.htm">Research Students</a></li><li><a href="/research/Research-Facilities.htm">Research Facilities</a></li><li><a href="/research/contact.htm">Contact</a></li>
+                            <li><a href="/research/current-research-activity.htm">Current research activity</a></li><li><a href="/research/Research-Students.htm">Research Students</a></li><li><a href="/research/Research-Facilities.htm">Research Facilities</a></li><li><a href="/research/inaugural-lectures-leeds-metropolitan-university.htm">Inaugural Lectures</a></li><li><a href="/research/leverhulme-trust-visiting-fellowships.htm">Leverhulme Trust Visiting Fellowships</a></li><li><a href="/research/contact.htm">Contact</a></li>
                         </ul>
                     </div>
                 </div>
@@ -332,11 +363,12 @@ $(document).ready(function($){
                     <div class="footernavtitle lmufont18 lmuavenyreg"><a href="http://www.leedsmet.ac.uk/about/index.htm">About Us</a></div>
                     <div class="footernavlinks">
                         <ul>
-                            <li><a href="/about/who-we-are.htm">Who we are</a></li><li><a href="/about/governance.htm">Governance</a></li><li><a href="/about/key-information.htm">Public Information</a></li><li><a href="/about/news.htm">News &amp; Events</a></li><li><a href="/about/giving-to-leeds-metropolitan.htm">Giving to Leeds Metropolitan</a></li>
+                            <li><a href="http://www.leedsmet.ac.uk/about/index.htm#faculties">Faculties</a></li>
+                            <li><a href="/about/who-we-are.htm">Who we are</a></li><li><a href="/about/governance.htm">Governance</a></li><li><a href="/about/key-information.htm">Public Information</a></li><li><a href="/about/giving-to-leeds-metropolitan.htm">Giving to Leeds Metropolitan</a></li>
                         </ul>
 
                         <ul>
-                            <li><a href="/contact-us.htm">Contact Us</a></li><li><a href="/disclaimer.htm">Disclaimer</a></li><li><a href="/privacy.htm">Privacy</a></li>
+                            <li><a href="/contact-us.htm">Contact Us</a></li><li><a href="/cookies.htm">Cookies</a></li><li><a href="/disclaimer.htm">Disclaimer</a></li><li><a href="/privacy.htm">Privacy</a></li>
                                     <li><a href="/website-feedback-and-comments.htm">Website feedback</a></li> 
                         </ul>
 
