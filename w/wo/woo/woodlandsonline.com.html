@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the woodlandsonline.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124013541id_/http%3A//www.woodlandsonline.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woodlandsonline.com privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526033753id_/http%3A//www.woodlandsonline.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<title>Woodlands Online - Privacy Policy</title>
+		<title>Woodlands Online Privacy Policy</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		
 		
@@ -13,10 +13,11 @@
 		
 		<link rel="stylesheet" type="text/css" href="/print.css" media="print"> 
 		
-				<meta name="description" content="Woodlands Tx Business Directory with News, Employment and Classifieds, Real Estate and Homes for Sale, Sports and Events Calendar on Woodlands Online">
-				<meta name="keywords" content="Woodlands, Tx,Texas, Business Directory, Real Estate, Homes, Property for Sale, Mall, Pavilion, Movie Theaters, Shopping, Jobs, Employment, Montgomery County, News, Newspapers, Media, Events Calendar, Classifieds, Classified Ads, Village, Hometown, Residents, Forums, Community Portal, Woodlands Online">
+				<meta name="description" content="Woodlands Online Privacy Policy">
 			
-		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/codetemps/javascript/img_functions_static.js"></script>
+				<meta name="keywords" content="Woodlands Online, Privacy, Policy">
+			
+		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/codetemps/javascript/img_functions_static.js"></script>
 				
 		
 		
@@ -35,6 +36,26 @@
 		
 		<link rel="shortcut icon" href="http://www.woodlandsonline.com/favicon.ico">
 		
+		<style type="text/css">
+			#mainbody #lefttemplate{
+				float:left;
+				width:186px;
+			}
+			#mainbody #middletemplate{
+				float:left;
+				
+						width:940.8px;
+						padding-left:19.6px;
+					
+			} 
+			#mainbody #righttemplate{
+				float:right;
+				width:306px;
+			}
+			#mainbody #toptemplate{
+				width:100%;
+			}
+		</style>
 		<script src="/__utm.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -207,7 +228,252 @@ GA_googleAddSlot("ca-pub-7287154124515757", "wol_ros_multiple_728x90_TopCenter_I
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
+</script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5565957-81']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script> 
+		<link rel="stylesheet" type="text/css" href="/globalstyles.css">
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/codetemps/jqueryui/js/jquery-ui-1.8.16.datepicker.min.js"></script>
+		<script type="text/javascript" src="/codetemps/jqueryui/sidjs-0.1/sidjs-0.1.partialmin.js"></script>
+		
+		<script>
+			listenForDateChange = 0;
+			(function($) {
+			    $.fn.equalHeight = function() {
+			        var max_bottom = 0;
+			
+			        this.each(function() {
+			            var bottom = $(this).offset().top + $(this).outerHeight();
+			            if (bottom > max_bottom) max_bottom = bottom;
+			        });
+			
+			        return this.each(function() {
+			            var offtop = $(this).offset().top,
+						curheight = $(this).outerHeight(),
+						diff = curheight - $(this).height(),
+						bottom = offtop + curheight;
+			
+			            if (max_bottom > bottom) $(this).height(max_bottom - offtop - diff);
+			        });
+			    };
+			})(jQuery);
+			function replaceDatePicker(curElement, foundby, anchorMonthEle, anchorDayEle, anchorYearEle){
+				datePickerCount++;
+				if(datePickerCount == 1){
+					//console.log('first called');
+					
+					Sid.css('/codetemps/jQueryUI/css/flick/jquery-ui-1.8.17.custom.css', function(){
+						//
+						//console.log('jqUI css loaded');
+					},window)	
+				}
+				if(typeof Trim == 'undefined'){
+					window.Trim = function(stringToTrim){
+						return stringToTrim.replace(/^\s+|\s+$/g,"")	
+					}
+				}
+				switch(foundby){
+					case 'maxlength':
+						var theMonth = $(curElement).children('input[type="text"][maxlength="2"]:first').val();
+						var theDay = $(curElement).children('input[type="text"][maxlength="2"]:last').val();
+						var theYear = $(curElement).children('input[type="text"][maxlength="4"]').val();
+						var monthSelector = $(curElement).children('input[type="text"][maxlength="2"]:first');
+						var daySelector = $(curElement).children('input[type="text"][maxlength="2"]:last');
+						var yearSelector = $(curElement).children('input[type="text"][maxlength="4"]');
+					break;
+					case 'blur':
+						var theMonth = $(curElement).children('input[type="text"][onfocus="this.blur();"]:eq(0)').val();
+						var theDay = $(curElement).children('input[type="text"][onfocus="this.blur();"]:eq(1)').val();
+						var theYear = $(curElement).children('input[type="text"][onfocus="this.blur();"]:eq(2)').val();
+						var monthSelector = $(curElement).children('input[type="text"][onfocus="this.blur();"]:eq(0)');
+						var daySelector = $(curElement).children('input[type="text"][onfocus="this.blur();"]:eq(1)');
+						var yearSelector = $(curElement).children('input[type="text"][onfocus="this.blur();"]:eq(2)');
+					break;
+					case 'anchor':
+						var theMonth = $(anchorMonthEle).val();
+						var theDay = $(anchorDayEle).val();
+						var theYear = $(anchorYearEle).val();
+						var monthSelector = $(anchorMonthEle);
+						var daySelector = $(anchorDayEle);
+						var yearSelector = $(anchorYearEle);
+					break;
+				}
+				if(theMonth != undefined && theMonth != null && theMonth != ''){
+					var thisDate = new Date(theYear, theMonth-1, theDay);
+				}else{
+					thisDate = new Date();
+				}
+				$(monthSelector).add(daySelector).css({'max-width':"2em","opacity":"0.8","text-align":"right","cursor":"pointer"});
+				$(yearSelector).css({'width':"3em","opacity":"0.8","text-align":"center","cursor":"pointer","margin-right":".5em"});
+				var thisContainer = document.createElement('span');
+				var thisInput = document.createElement('input');
+				$(thisInput).attr('type', 'text');
+				$(thisInput).css({"display":"none"});
+				$(thisContainer).insertAfter(yearSelector);
+				$(thisContainer).append(thisInput);
+				var thisDatePicker = $(thisInput).datepicker({ 
+					buttonImage: "/codetemps/jQueryUI/images/calendar.gif"
+					,showOn: "both"
+					,buttonImageOnly: false
+					,dateFormat: 'm-d-yy'
+					,defaultDate: thisDate
+					,numberOfMonths: 2
+					,maxDate: +3560
+					,onSelect: function(dateText, inst) {  
+						listenForDateChange = 0;
+						var thisNewDate = dateText.split('-');
+						$(monthSelector).val(thisNewDate[0]);
+						$(daySelector).val(thisNewDate[1]);
+						$(yearSelector).val(thisNewDate[2]);
+						
+					}
+				});	
+				//console.log($(curElement).find('a'));
+				var thisID = 'datepickerparent' + datePickerCount;
+				$(curElement).attr('id', thisID);
+				
+				//console.log(thisID);
+				$('#' + thisID + ' a[href^="javascript:"]').each(function(index, element) {
+					//console.log(this);
+					if($(this).attr('href').search(/\(("|').+?("|'),("|').+?("|'),("|').+?("|'),("|').+?("|'),(1|0)/) > 11){
+						var calendarArgMatch = $(this).attr("href").match(/("|').*?("|') ?, *?("|').*?("|') *?, *?("|').*?("|') ?, ?("|').*?("|') *?, *?[0-9]/);
+						var calendarArgArray = calendarArgMatch[0].split(",");
+						if(calendarArgMatch[calendarArgMatch.length-1]){
+							thisDatePicker.datepicker( "option", "minDate", new Date() );	
+						}
+						$(this).attr('href', 'javascript:void(0);');
+						$(this).click(function(e){
+							listenForDateChange = 1;
+							thisDatePicker.datepicker("show");
+						});
+					}else if($(this).attr('href').search($(monthSelector).attr("name") > 0 && $(daySelector).attr("name") > 0 && $(yearSelector).attr("name") > 0 )){
+						$(this).click(function(e){
+							listenForDateChange = 1;
+							setTimeout(function(){
+								if(listenForDateChange){
+									if($(monthSelector).val() != ''){
+										var newDate = new Date($(yearSelector).val(), parseInt($(monthSelector).val())-1,$(daySelector).val());
+										thisDatePicker.datepicker( "setDate" , newDate );
+									}
+									listenForDateChange = 0;
+								}
+							}, 300);
+						});
+					}
+				});
+				$(monthSelector).add(daySelector).add(yearSelector).click(function(e){
+					thisDatePicker.datepicker("show");
+				});
+			}
+			$(document).ready(function(e) { 
+				
+				
+				$('ul#b0').css('display','block');
+				
+				datePickerCount = 0;
+				//Auto-Format City Field
+				var localIndexNo = 0;
+				$('select[name="City"] option[value="reserved"]').remove();
+				$('select[name="City"]').children('option').each(function(index,element){
+					var thisValue = $(this).attr('value');
+					var nextValue = $(this).next().attr('value');
+					if(thisValue > nextValue && thisValue.length){
+						localIndexNo = index;
+					}else if(thisValue.length){
+						//break;
+					}
+				});
+				if(localIndexNo){
+				   $('select[name="City"]').children('option').each(function(index,element){
+						var thisValue = $(this).attr('value');
+						var nextValue = $(this).next().attr('value');
+						var thisElementPointer = element;
+						var breakOut = 0;
+						if(index <= localIndexNo && thisValue.length){
+							$('select[name="City"]').children('option').each(function(index2,element){
+								if(index2 > localIndexNo && !breakOut){
+									var innerValue = $(this).attr('value');
+									if(thisValue <= innerValue){
+										$(thisElementPointer).clone().removeAttr('selected').insertBefore(this);
+										breakOut = 1;
+									}
+								}
+							});
+						}
+						if(index == localIndexNo && thisValue.length){
+							
+							$(element).insertAfter(thisSeperator);
+						}
+					});
+					var thisSeperator = document.createElement('option');
+					thisSeperator.setAttribute('style', 'height:1px;background-color:#222;font-size:1px;margin:3px 0;');
+					thisSeperator.setAttribute('value', '');
+					$(thisSeperator).insertAfter('select[name="City"] option:eq('+localIndexNo+')');
+				}
+				if($('.szrc:not(form *)').length){
+					$('.szrc:not(form *)').wrapInner('<div class="ui-state-error">');
+					$('td.szrc:has(div.ui-state-error)').attr('align', 'center');
+					$('div.ui-state-error br').after('<span class="errorIcon"></span>');
+					$('div.ui-state-error:has(br)').css({'padding': '0.75em 1em', "line-height":"1.75em"});
+					$('div.ui-state-error br:first').remove();
+					$('div.ui-state-error:has(br) span').css({'margin-top':'0.325em'});
+					$('.szrc:not(form *)').css({ 'display':'none'
+												,'visibility':'visible'});
+					$('.szrc:not(form *)').fadeIn(300);
+					$('form td.szrc').siblings('td').children(':input').css({'background-color':'rgba(255,230,231,.5)','border-style':'outset', 'border-width':'1.5px'});
+				}
+				$('div#middletemplate form *').filter(':input').filter('[type="text"][maxlength="2"]').parent().each(function(index, element) {
+					var foundby = 'maxlength';
+					var maxlength2count = $(this).children('input[type="text"][maxlength="2"]').length;
+					var maxlength4count = $(this).children('input[type="text"][maxlength="4"]').length;
+					if(maxlength2count == 2 && maxlength4count == 1){
+						replaceDatePicker(this, foundby);
+					}
+				});
+				$('div#middletemplate form *').filter(':input').filter('[type="text"][onfocus="this.blur();"]').parent(':not(:has(.hasDatepicker))').each(function(index, element) {
+					var foundby = 'blur';
+					var blurcount = $(this).children('input[type="text"][onfocus="this.blur();"]').length;
+					if(blurcount == 3){
+						replaceDatePicker(this, foundby);
+					}
+				});
+				$('div#middletemplate form a[href^="javascript:"]').parent(':not(:has(.hasDatepicker))').each(function(index, element) {
+					var foundby = 'anchor';
+					var anchorcount = $(this).children('a[href^="javascript:"]').length;
+					
+					$(this).children('a[href^="javascript:"]').each(function(i, e){
+						if($(this).attr("href").search(/\(("|').+?("|'),("|').+?("|'),("|').+?("|'),("|').+?("|'),(1|0)/) > 11){
+							var searchString = $(this).attr("href").match(/("|').*?("|') ?, *?("|').*?("|') *?, *?("|').*?("|') ?, ?("|').*?("|') *?, *?[0-9]/);
+							if(searchString != null){
+								var searchStringArray = searchString[0].replace(/['" ]/g, '').split(',');
+								if($(this).parent().siblings('[name="'+searchStringArray[1]+'"]').length == 1 && $(this).parent().siblings('[name="'+searchStringArray[2]+'"]').length == 1 && $(this).parent().siblings('[name="'+searchStringArray[3]+'"]').length == 1){
+									
+									if($(this).parent().get(0).tagName == 'SPAN'){
+										var thisthis = 	$(this).parent().parent();
+										//console.log(thisthis);
+									}else{
+										var thisthis = $(this).parent();
+									}
+									replaceDatePicker(thisthis, foundby, $(thisthis).children('[name="'+searchStringArray[1]+'"]'), $(thisthis).children('[name="'+searchStringArray[2]+'"]'), $(thisthis).children('[name="'+searchStringArray[3]+'"]'));
+								}
+							}
+						}
+					});
+				});
+				
+			});
+		</script>
 	</head>
 	
 	<body text="BLACK" link="Navy" alink="Navy" vlink="maroon" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" background="http://www.woodlandsonline.com/images/site_bg.jpg">
@@ -233,14 +499,14 @@ GA_googleFetchAds();
 </script>
 <div id="globalheader">
 	<h1>
-		<a href="http://www.woodlandsonline.com/"><img src="/images/headerleft_new.jpg" alt="Woodlands Online"></a>
+		<a href="http://www.woodlandsonline.com/"><img src="/images/headerleft_new.jpg" alt="The Woodlands Texas Community Website and Guide"></a>
 	</h1>
 	<div id="top_header_center"></div>
 	<div id="site_sponsor">
-		SITE SPONSORS
+		&nbsp;
 		
 	</div>
-	<div id="date_info_channel_bar">
+	<div id="date_info_channel_bar" onmouseover="defaultMenu(2,1)">
 		<div id="slogan">The Woodlands Texas Community Website and Guide</div>
 		<select id="qjumpselect" name="ChannelList" onchange="javascript:gotoPage();">
 			<option value="">Channel Quick Jump</option>
@@ -263,12 +529,6 @@ GA_googleFetchAds();
 			
 				<option value="http://www.woodlandsonline.com/cdps/businessresources.cfm">&nbsp;&nbsp;Business to Business</option>
 			
-				<option value="http://www.woodlandsonline.com/christmas/christmaschurchservices.cfm">&nbsp;&nbsp;Christmas Church Services</option>
-			
-				<option value="http://www.woodlandsonline.com/christmas/christmasgiftguide.cfm">&nbsp;&nbsp;Christmas Gift Guide</option>
-			
-				<option value="http://www.woodlandsonline.com/christmas/">&nbsp;&nbsp;Christmas In The Woodlands</option>
-			
 				<option value="http://www.woodlandsonline.com/cdps/churchguide.cfm">&nbsp;&nbsp;Church Guide</option>
 			
 				<option value="http://www.woodlandsonline.com/clps/">&nbsp;&nbsp;Classifieds</option>
@@ -287,6 +547,8 @@ GA_googleFetchAds();
 			
 				<option value="http://www.woodlandsonline.com/cdps/educationschools.cfm">&nbsp;&nbsp;Education &amp; Schools</option>
 			
+				<option value="http://www.woodlandsonline.com/spps/ahpg.cfm?spgid=672">&nbsp;&nbsp;Election Guide 2012</option>
+			
 				<option value="http://www.woodlandsonline.com/cdps/electronicscomputers.cfm">&nbsp;&nbsp;Electronics &amp; Computers</option>
 			
 				<option value="http://www.woodlandsonline.com/mlps/">&nbsp;&nbsp;Email Lists</option>
@@ -301,11 +563,17 @@ GA_googleFetchAds();
 			
 				<option value="http://www.woodlandsonline.com/leps/">&nbsp;&nbsp;Features</option>
 			
+				<option value="http://www.woodlandsonline.com/spgs/fitness/">&nbsp;&nbsp;Fitness Guide</option>
+			
 				<option value="http://www.woodlandsonline.com/cdps/diningfooddrink.cfm">&nbsp;&nbsp;Food &amp; Drink</option>
 			
 				<option value="http://www.woodlandsonline.com/mnps/">&nbsp;&nbsp;Forums</option>
 			
+				<option value="http://www.woodlandsonline.com/cdps/golfguide.cfm">&nbsp;&nbsp;Golf Guide</option>
+			
 				<option value="http://www.woodlandsonline.com/cdps/government.cfm">&nbsp;&nbsp;Government</option>
+			
+				<option value="http://www.woodlandsonline.com/spgs/graduationguide/">&nbsp;&nbsp;Graduation Guide</option>
 			
 				<option value="http://www.woodlandsonline.com/cdps/healthmedical.cfm">&nbsp;&nbsp;Health &amp; Medical</option>
 			
@@ -345,6 +613,8 @@ GA_googleFetchAds();
 			
 				<option value="http://www.woodlandsonline.com/cdps/parksguide.cfm">&nbsp;&nbsp;Parks Guide</option>
 			
+				<option value="http://www.woodlandsonline.com/spgs/patioguide/">&nbsp;&nbsp;Patio Dining</option>
+			
 				<option value="http://www.woodlandsonline.com/cdps/personalcarebeauty.cfm">&nbsp;&nbsp;Personal Care &amp; Beauty</option>
 			
 				<option value="http://www.woodlandsonline.com/cdps/pets.cfm">&nbsp;&nbsp;Pets</option>
@@ -369,6 +639,8 @@ GA_googleFetchAds();
 			
 				<option value="http://www.woodlandsonline.com/cdps/sportsrecreation.cfm">&nbsp;&nbsp;Sports &amp; Recreation</option>
 			
+				<option value="http://www.woodlandsonline.com/spgs/summercamps/index.cfm">&nbsp;&nbsp;Summer Camp Guide</option>
+			
 				<option value="http://www.woodlandsonline.com/cdps/travelservices.cfm">&nbsp;&nbsp;Travel</option>
 			
 				<option value="http://www.woodlandsonline.com/vmps/">&nbsp;&nbsp;Video Directory</option>
@@ -380,61 +652,18 @@ GA_googleFetchAds();
 				<option value="http://www.woodlandsonline.com/cdps/yardlawngarden.cfm">&nbsp;&nbsp;Yard &amp; Garden</option>
 			
 		</select>
-		<div id="date_time">Nov 23, 2011</div>
+		<div id="date_time">May 25, 2012</div>
 	</div>
 	
-		<script>
-			function jsvarsHeader(){
-				jsvarsHeader.activeCalled = 0;
-				jsvarsHeader.defaultCalled = 0;
-				jsvarsHeader.curSubMenuMouseover = -5;
-			}
-			jsvarsHeader()
-			function makeActive(eleIDnum){
-				for (i=0;i<=14;i++){
-					document.getElementById('t'+i).className='';	
-				}
-				if(eleIDnum == 0)
-					document.getElementById('t0').style.background='#0367aa URL(/images/menutophome.jpg) top left';
-				else
-					document.getElementById('t0').style.background='#0367aa URL(/images/menutophome_inactive.jpg) top left';
-				document.getElementById('t'+eleIDnum).className='active';
-				jsvarsHeader.activeCalled = 1;
-			}
-			
-			function defaultMenu(eleIDSuffix){
-				jsvarsHeader.defaultCalled = 0;
-				jsvarsHeader.activeCalled = 0;
-				setTimeout(function(){
-					if(jsvarsHeader.curSubMenuMouseover != eleIDSuffix){
-						setTimeout(function(){
-							if(!jsvarsHeader.activeCalled && !jsvarsHeader.defaultCalled){
-								jsvarsHeader.defaultCalled = 1;					
-								for (i=0;i<=14;i++){
-									document.getElementById('t'+i).className='';	
-								}
-								if(0 == 0)
-									document.getElementById('t0').style.background='#0367aa URL(/images/menutophome.jpg) top left';
-								document.getElementById('t0').className='active';
-							}
-						}, 3000);
-					}
-				}, 50);
-			}
-			function subMenuMouseover(eleIDSuffix){
-				jsvarsHeader.curSubMenuMouseover = eleIDSuffix;
-			}
-			function resetSubMenuMouseover(){
-				jsvarsHeader.curSubMenuMouseover = -5;
-			}
-		</script>
+		<script src="/globalheader.js" type="text/javascript"></script>
+		
 		<ul class="header_nav_top">
 			
-				<li id="t0" class="active" onmouseover="makeActive(0);" onmouseout="defaultMenu(0)">
+				<li id="t0" onmouseout="defaultMenu(0)" class="active">
 					
-						<a href="/" id="homeicon" title="Home Page"></a>
+						<a href="/" id="homeicon" onmouseover="makeActive(0);" title="Home Page"></a>
 					
-					<ul id="b0" onmouseover="subMenuMouseover(0)" onmouseout="resetSubMenuMouseover(0)">
+					<ul id="b0" onmouseover="subMenuMouseover(0)" onmouseout="resetSubMenuMouseover(0)" style="display: block;">
 						
 							<li><a href="/clps/" title="Classifieds">Classifieds</a></li>
 						
@@ -459,9 +688,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t1" onmouseover="makeActive(1);" onmouseout="defaultMenu(1)">
+				<li id="t1" onmouseout="defaultMenu(1)">
 					
-							<a href="/cdps/" title="Businesses">Businesses</a>
+							<a onmouseover="makeActive(1);" href="/cdps/" title="Businesses">Businesses</a>
 						
 					<ul id="b1" onmouseover="subMenuMouseover(1)" onmouseout="resetSubMenuMouseover(1)">
 						
@@ -476,9 +705,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t2" onmouseover="makeActive(2);" onmouseout="defaultMenu(2)">
+				<li id="t2" onmouseout="defaultMenu(2)">
 					
-							<a href="/npps/" title="News">News</a>
+							<a onmouseover="makeActive(2);" href="/npps/" title="News">News</a>
 						
 					<ul id="b2" onmouseover="subMenuMouseover(2)" onmouseout="resetSubMenuMouseover(2)">
 						
@@ -503,9 +732,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t3" onmouseover="makeActive(3);" onmouseout="defaultMenu(3)">
+				<li id="t3" onmouseout="defaultMenu(3)">
 					
-							<a href="/evps/" title="Events">Events</a>
+							<a onmouseover="makeActive(3);" href="/evps/" title="Events">Events</a>
 						
 					<ul id="b3" onmouseover="subMenuMouseover(3)" onmouseout="resetSubMenuMouseover(3)">
 						
@@ -517,14 +746,12 @@ GA_googleFetchAds();
 						
 							<li><a href="/mvps/" title="Movies">Movies</a></li>
 						
-							<li><a href="/christmas/christmaschurchservices.cfm" title="Christmas Church Services">Christmas Church Services</a></li>
-						
 					</ul>
 				</li>
 			
-				<li id="t4" onmouseover="makeActive(4);" onmouseout="defaultMenu(4)">
+				<li id="t4" onmouseout="defaultMenu(4)">
 					
-							<a href="/jmps/" title="Jobs">Jobs</a>
+							<a onmouseover="makeActive(4);" href="/jmps/" title="Jobs">Jobs</a>
 						
 					<ul id="b4" onmouseover="subMenuMouseover(4)" onmouseout="resetSubMenuMouseover(4)">
 						
@@ -543,9 +770,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t5" onmouseover="makeActive(5);" onmouseout="defaultMenu(5)">
+				<li id="t5" onmouseout="defaultMenu(5)">
 					
-							<a href="/cdps/realestatehomes.cfm" title="Real Estate">Real Estate</a>
+							<a onmouseover="makeActive(5);" href="/cdps/realestatehomes.cfm" title="Real Estate">Real Estate</a>
 						
 					<ul id="b5" onmouseover="subMenuMouseover(5)" onmouseout="resetSubMenuMouseover(5)">
 						
@@ -562,9 +789,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t6" onmouseover="makeActive(6);" onmouseout="defaultMenu(6)">
+				<li id="t6" onmouseout="defaultMenu(6)">
 					
-							<a href="/cdps/shoppingguide.cfm" title="Shopping">Shopping</a>
+							<a onmouseover="makeActive(6);" href="/cdps/shoppingguide.cfm" title="Shopping">Shopping</a>
 						
 					<ul id="b6" onmouseover="subMenuMouseover(6)" onmouseout="resetSubMenuMouseover(6)">
 						
@@ -584,14 +811,12 @@ GA_googleFetchAds();
 						
 							<li><a href="/cdps/yardlawngarden.cfm" title="Yard">Yard</a></li>
 						
-							<li><a href="/christmas/christmasgiftguide.cfm" title="Christmas Gifts">Christmas Gifts</a></li>
-						
 					</ul>
 				</li>
 			
-				<li id="t7" onmouseover="makeActive(7);" onmouseout="defaultMenu(7)">
+				<li id="t7" onmouseout="defaultMenu(7)">
 					
-							<a href="/cdps/sportsrecreation.cfm" title="Sports">Sports</a>
+							<a onmouseover="makeActive(7);" href="/cdps/sportsrecreation.cfm" title="Sports">Sports</a>
 						
 					<ul id="b7" onmouseover="subMenuMouseover(7)" onmouseout="resetSubMenuMouseover(7)">
 						
@@ -607,12 +832,14 @@ GA_googleFetchAds();
 						
 							<li><a href="/spgs/fitness/" title="Fitness Guide">Fitness Guide</a></li>
 						
+							<li><a href="/cdps/golfguide.cfm" title="Woodlands Golf Guide">Woodlands Golf Guide</a></li>
+						
 					</ul>
 				</li>
 			
-				<li id="t8" onmouseover="makeActive(8);" onmouseout="defaultMenu(8)">
+				<li id="t8" onmouseout="defaultMenu(8)">
 					
-							<a href="/cdps/automotivecar.cfm" title="Cars">Cars</a>
+							<a onmouseover="makeActive(8);" href="/cdps/automotivecar.cfm" title="Cars">Cars</a>
 						
 					<ul id="b8" onmouseover="subMenuMouseover(8)" onmouseout="resetSubMenuMouseover(8)">
 						
@@ -625,9 +852,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t9" onmouseover="makeActive(9);" onmouseout="defaultMenu(9)">
+				<li id="t9" onmouseout="defaultMenu(9)">
 					
-							<a href="/cdps/communityresources.cfm" title="Community">Community</a>
+							<a onmouseover="makeActive(9);" href="/cdps/communityresources.cfm" title="Community">Community</a>
 						
 					<ul id="b9" onmouseover="subMenuMouseover(9)" onmouseout="resetSubMenuMouseover(9)">
 						
@@ -652,9 +879,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t10" onmouseover="makeActive(10);" onmouseout="defaultMenu(10)">
+				<li id="t10" onmouseout="defaultMenu(10)">
 					
-							<a href="/cdps/healthmedical.cfm" title="Health">Health</a>
+							<a onmouseover="makeActive(10);" href="/cdps/healthmedical.cfm" title="Health">Health</a>
 						
 					<ul id="b10" onmouseover="subMenuMouseover(10)" onmouseout="resetSubMenuMouseover(10)">
 						
@@ -673,9 +900,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t11" onmouseover="makeActive(11);" onmouseout="defaultMenu(11)">
+				<li id="t11" onmouseout="defaultMenu(11)">
 					
-							<div>Living</div>
+							<div onmouseover="makeActive(11);">Living</div>
 						
 					<ul id="b11" onmouseover="subMenuMouseover(11)" onmouseout="resetSubMenuMouseover(11)">
 						
@@ -696,9 +923,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t12" onmouseover="makeActive(12);" onmouseout="defaultMenu(12)">
+				<li id="t12" onmouseout="defaultMenu(12)">
 					
-							<div>Guides</div>
+							<div onmouseover="makeActive(12);">Guides</div>
 						
 					<ul id="b12" onmouseover="subMenuMouseover(12)" onmouseout="resetSubMenuMouseover(12)">
 						
@@ -710,11 +937,15 @@ GA_googleFetchAds();
 						
 							<li><a href="/cdps/churchguide.cfm" title="Churches">Churches</a></li>
 						
+							<li><a href="/spgs/patioguide/" title="Patio Dining">Patio Dining</a></li>
+						
 							<li><a href="/cdps/relocationguide.cfm" title="Relocation">Relocation</a></li>
 						
 							<li><a href="/cdps/parksguide.cfm" title="Parks">Parks</a></li>
 						
-							<li><a href="/christmas/" title="Christmas in The Woodlands">Christmas in The Woodlands</a></li>
+							<li><a href="/spgs/summercamps/" title="Summer Camps">Summer Camps</a></li>
+						
+							<li><a href="/spgs/graduationguide/" title="Graduation">Graduation</a></li>
 						
 							<li><a href="/cdps/dentalguide.cfm" title="Dental Guide">Dental Guide</a></li>
 						
@@ -723,9 +954,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t13" onmouseover="makeActive(13);" onmouseout="defaultMenu(13)">
+				<li id="t13" onmouseout="defaultMenu(13)">
 					
-							<a href="/siteindex.cfm" title="Services">Services</a>
+							<a onmouseover="makeActive(13);" href="/siteindex.cfm" title="Services">Services</a>
 						
 					<ul id="b13" onmouseover="subMenuMouseover(13)" onmouseout="resetSubMenuMouseover(13)">
 						
@@ -744,9 +975,9 @@ GA_googleFetchAds();
 					</ul>
 				</li>
 			
-				<li id="t14" onmouseover="makeActive(14);" onmouseout="defaultMenu(14)">
+				<li id="t14" onmouseout="defaultMenu(14)">
 					
-							<a href="/cdps/visitorsguide.cfm" title="Visitors">Visitors</a>
+							<a onmouseover="makeActive(14);" href="/cdps/visitorsguide.cfm" title="Visitors">Visitors</a>
 						
 					<ul id="b14" onmouseover="subMenuMouseover(14)" onmouseout="resetSubMenuMouseover(14)">
 						
@@ -764,25 +995,24 @@ GA_googleFetchAds();
 						
 							<li><a href="/pcps/" title="Postcards">Postcards</a></li>
 						
-							<li><a href="/christmas/" title="Christmas in The Woodlands">Christmas in The Woodlands</a></li>
-						
 					</ul>
 				</li>
 			
 		</ul>
+		<div id="gh-mousecatcher-2" onmouseover="defaultMenu(2,1)"></div>
 	
 
-	<div id="header_bottom_container">
+	<div id="header_bottom_container" onmouseover="defaultMenu(2,1)">
 		<div style="float:left" id="moduleName">
 			
-				<a href="/privacy.cfm">Welcome</a>
+				<a href="/privacy.cfm">Welcome to The Woodlands</a>
 			
 		</div>
 		<div id="modulesponsor">
 			
 		</div>
 		
-			<a id="twitter" href="/twitterRedir.cfm?xxvar=&amp;pagetitle=Woodlands%20Online%20%2D%20Privacy%20Policy&amp;sharepath=http://www.woodlandsonline.com/privacy.cfm?" target="_blank">Tweet This Page</a>
+			<a id="twitter" href="/twitterRedir.cfm?xxvar=&amp;pagetitle=Woodlands%20Online%20Privacy%20Policy&amp;sharepath=http://www.woodlandsonline.com/privacy.cfm?" target="_blank">Tweet This Page</a>
 			<a id="facebook" href="http://www.facebook.com/share.php?u=http://www.woodlandsonline.com/privacy.cfm?" target="_blank">Facebook This Page</a>
 			<div id="gplus"><g:plusone size="small" count="false"></g:plusone></div>
 		
@@ -795,37 +1025,18 @@ GA_googleFetchAds();
 		</ul>
 	</div>
 </div>
-</div>
+<script>document.getElementById('b0').style.display='block';</script></div>
 		<div id="mainbody" align="center">
 			
 			
-			<style type="text/css">
-					#mainbody #lefttemplate{
-						float:left;
-						width:186px;
-					}
-					#mainbody #middletemplate{
-						float:left;
-						
-								width:940.8px;
-								padding-left:19.6px;
-							
-					} 
-					#mainbody #righttemplate{
-						float:right;
-						width:306px;
-					}
-					#mainbody #toptemplate{
-						width:100%;
-					}
-				</style>
+			
 			<div class="centercontainer" align="center">
 				<div id="globalheader_print">
 					<h1>
 						<a href="http://www.woodlandsonline.com/"><img src="/images/headerleft_new.jpg" alt="Woodlands Online"></a>
 					</h1>
 					
-						<a href="/privacy.cfm">Welcome</a>
+						<a href="/privacy.cfm">Welcome to The Woodlands</a>
 					
 				</div>
 				<br style="line-height:1px;clear:both;">
