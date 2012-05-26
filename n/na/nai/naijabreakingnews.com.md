@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijabreakingnews.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124113808id_/http%3A//naijabreakingnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijabreakingnews.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526051346id_/http%3A//naijabreakingnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigeria News
 
