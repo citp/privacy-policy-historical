@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodesiq.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126130051id_/http%3A//www.hodesiq.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodesiq.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526115806id_/http%3A//hodesiq.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Hodes iQ - Hodes iQ - Global Leader in Talent Management Solutions
 
@@ -19,6 +19,9 @@ The Technomedia-Hodes iQ website might contain "cookies" to provide better servi
 
 EXTERNAL SITES  
 Technomedia-Hodes iQ cannot be held responsible, in any way, by the privacy policies in place on websites for which a link is provided or not. Technomedia-Hodes iQ cannot be held responsible, in any way, by the privacy policies of its partners, shareholders or members websites.
+
+[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
+
 
 U.S. - EU SAFE HARBOR PRIVACY STATEMENT  
 Technomedia-Hodes iQ has established a comprehensive privacy program, including a global privacy office and a chief privacy officer, designed to help us respect and protect your data privacy rights. Technomedia-Hodes iQ also complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement.  Additional information about the Safe Harbor principles and certification process can be found at <http://www.export.gov/safeharbor/>.
