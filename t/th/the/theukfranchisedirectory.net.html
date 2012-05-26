@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theukfranchisedirectory.net privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229064857id_/http%3A//www.theukfranchisedirectory.net/page/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theukfranchisedirectory.net privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526134554id_/http%3A//www.theukfranchisedirectory.net/page/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 <meta name="keywords" content="UK Franchise, franchise opportunities, franchise opportunity, franchise, franchising, uk business opportunities, franchise business">
 <meta name="language" content="en_GB">
 <meta name="robots" content="index, follow">
-<meta name="copyright" content="The UK Franchise Directory 2011">
+<meta name="copyright" content="The UK Franchise Directory 2012">
 <meta name="rating" content="Safe For Kids">
 <meta name="revisit-after" content="30 days">
     <title>TheUKFranchiseDirectory.net Website Privacy policy - The UK Franchise Directory</title>
@@ -17,7 +17,7 @@
     <link rel="image_src" href="http://www.theukfranchisedirectory.net/qSf/css/images/header-logo.png">
     <link rel="stylesheet" href="/qCf/css/nn4.css" type="text/css">
     <!--link before import prevents Flash Of Unstyled Content in ie6pc -->
-    <style type="text/css">@import url("/qSf/css/zenB906.php");</style>
+    <style type="text/css">@import url("/qSf/css/zenC322.php");</style>
     <!--[if lt IE 7.]>
     <style type="text/css">@import url("/qSf/css/IEinclude.css");</style>
     <script language="JavaScript" src="/qCf/js/ieDropdowns.js"></script>
@@ -25,7 +25,8 @@
     <style type="text/css">@import url("/qSf/css/IEexclude.css");</style>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
         <script type="text/javascript" src="/qCf/js/jquery_validate.js"></script>
-  </head>
+    <script type="text/javascript" src="/qCf/js/common.js"></script>
+  <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
   <body>
 <div id="container">
   <div id="content">
@@ -90,7 +91,7 @@ $(document).ready(function(){
 </tr>
 <tr class="turing">
   <th><label for="reg1_leave_blank">Leave blank</label></th>
-  <td><input type="text" name="reg1[leave_blank]" id="reg1_leave_blank"><input type="hidden" name="reg1[rmi][fid]" id="reg1_rmi_fid"><input type="hidden" name="reg1[rmi][tk]" id="reg1_rmi_tk"><input type="hidden" name="reg1[rmi][type]" id="reg1_rmi_type"><input type="hidden" name="reg1[rmi][pid]" id="reg1_rmi_pid"><input type="hidden" name="reg1[_csrf_token]" value="216cb9642d8f232ebbfcfa8b3e48bac0" id="reg1__csrf_token"></td>
+  <td><input type="text" name="reg1[leave_blank]" id="reg1_leave_blank"><input type="hidden" name="reg1[rmi][fid]" id="reg1_rmi_fid"><input type="hidden" name="reg1[rmi][tk]" id="reg1_rmi_tk"><input type="hidden" name="reg1[rmi][type]" id="reg1_rmi_type"><input type="hidden" name="reg1[rmi][pid]" id="reg1_rmi_pid"></td>
 </tr>
 <tr>
  <th></th>
@@ -100,6 +101,47 @@ $(document).ready(function(){
 </tr>
 </tbody></table>
 </form>
+  <div id="fb-root"></div>
+  <script type="text/javascript">
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '109974535807473',
+        status     : true, 
+        cookie     : true,
+        xfbml      : true,
+        oauth      : true,
+      });
+      FB.Event.subscribe('auth.authResponseChange', function(response) {
+        if (response.status.toString() === 'connected') {
+          top.location = window.location = "/interact/login.php";
+        } else if (response.status.toString() === 'unknown') {
+          top.location = window.location = "/interact/logout.php";
+        }
+      });
+
+      // If a facebook login button can be loaded from facebook, show some text to encourage people to use it
+      if ($('#facebook-regprompt').size()) {
+        if (typeof(FB)!=='undefined' && FB._userStatus!=='unknown') {
+          $('#facebook-regprompt').html('You can also log into this site using your Facebook account instead of filling in the form above. Just click the Facebook button below and click "Log in with Facebook" in the window that pops up.');
+        }
+        FB.Event.subscribe('auth.statusChange', function(response) {
+          if (response.status.toString() === 'unknown') {
+            $('#facebook-regprompt').html('');
+          } else {
+            $('#facebook-regprompt').html('You can also log into this site using your Facebook account instead of filling in the form above. Just click the Facebook button below and click "Log in with Facebook" in the window that pops up.');
+          }
+        });
+      }
+    };
+    (function(d){
+       var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all.js";
+       d.getElementsByTagName('head')[0].appendChild(js);
+     }(document));
+  </script>
+  <div id="facebook-regprompt"></div>
+  <fb:login-button showfaces="true" max-rows="5" onlogin="OnRequestPermission();" scope="email"></fb:login-button>
 </div>  <div class="twitter-si-ctnr">
     <div class="twitter-si-intro">
           </div>
@@ -124,24 +166,24 @@ $(document).ready(function(){
 
 <div class="flash4star">
 <h2>Popular Franchises</h2>
-<ul><li><a href="/page/wsi-internet/872964.php"><img title="WSI Internet" alt="WSI Internet" src="/qSf/images/ukfd-stars-4-345.jpg" height="54" width="200"></a></li><li><a href="/page/jani-king-gb-ltd/sz37wx.php"><img src="/qSf/images/15622_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/lloyds-tsb-bank/xq7g0f.php"><img src="/qSf/images/13605_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/ovenclean/400427.php"><img src="/qSf/images/11796_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/global-travel-group/366565.php"><img title="Global Travel Group" alt="Global Travel Group" src="/qSf/images/ukfd-stars-4-110.gif" height="54" width="200"></a></li><li><a href="/page/go-kart-party/IbkIbv.php"><img src="/qSf/images/14415_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/cash-generator/915203.php"><img src="/qSf/images/15928_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/dream-doors/423034.php"><img src="/qSf/images/2511_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/united-carpets/262307.php"><img title="United Carpets" alt="United Carpets" src="/qSf/images/ukfd-stars-4-164.jpg" height="54" width="200"></a></li><li><a href="/page/activ-social/2mk9io.php"><img src="/qSf/images/15375_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/chips-away-international/599925.php"><img src="/qSf/images/15944_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/activ-web-design-seo/723862.php"><img src="/qSf/images/11305_en_GB.jpg" height="54" width="200"></a></li></ul></div>
+<ul><li><a href="/page/wsi-internet/872964.php"><img src="/qSf/images/17057_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/premier-sport/Xh58Bq.php"><img src="/qSf/images/16907_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/freshstart-partners/w5l4yr.php"><img src="/qSf/images/16658_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/lloyds-tsb-bank/xq7g0f.php"><img src="/qSf/images/13605_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/e-lites/add5kz.php"><img src="/qSf/images/17255_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/cex-ltd/724604.php"><img src="/qSf/images/14029_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/lawnscience/ex9m3m.php"><img src="/qSf/images/16103_en_GB.jpg" height="54" width="200"></a></li><li><a href="/page/united-carpets/262307.php"><img title="United Carpets" alt="United Carpets" src="/qSf/images/ukfd-stars-4-164.jpg" height="54" width="200"></a></li><li><a href="/page/global-travel-group/366565.php"><img title="Global Travel Group" alt="Global Travel Group" src="/qSf/images/ukfd-stars-4-110.gif" height="54" width="200"></a></li><li><a href="/page/eurodebt/vkzstz.php"><img src="/qSf/images/14325_en_GB.jpg" height="54" width="200"></a></li></ul></div>
 <div class="floatfix"></div>    </div><!-- end main -->
     <div id="sidebar"><dl>
 
 <dt><span class="navParent">Popular Categories</span></dt>
-<dd><ul><li><a class="navChild" href="/showcaselist/business-to-business.php">Business To Business</a></li><li><a class="navChild" href="/showcaselist/coffee.php">Cafe and Coffee Franchises</a></li><li><a class="navChild" href="/showcaselist/cleaning.php">Cleaning Franchises</a></li><li><a class="navChild" href="/showcaselist/consultancy.php">Consultancy</a></li><li><a class="navChild" href="/showcaselist/food.php">Food Franchises</a></li><li><a class="navChild" href="/showcaselist/indoor-property.php">Indoor Property Services</a></li><li><a class="navChild" href="/showcaselist/personal.php">Personal</a></li><li><a class="navChild" href="/showcaselist/repair-and-maintenance.php">Repair and Maintenance</a></li><li><a class="navChild" href="/showcaselist/retail.php">Retail</a></li><li><a class="navChild" href="/showcaselist/sales.php">Sales</a></li><li><a class="navChild" href="/showcaselist/services.php">Services</a></li><li><a class="navChild" href="/showcaselist/area-developer.php">Area Developer</a></li><li><a class="navChild" href="/showcaselist/part-time.php">Part Time Opportunity</a></li><li><a class="navChild" href="/showcaselist/resales.php">Resales</a></li><li><a class="navChild" href="/showcaselist/service-providers.php">Service Providers</a></li><li><a class="navChild" href="/showcaselist/master-franchise.php">Master Franchises (International)</a></li><li><a class="navChild" href="/showcaselist/business-opportunities.php">Business Opportunities (non-franchised)</a></li></ul></dd>
+<dd><ul><li><a class="navChild" href="/showcaselist/business-to-business.php">Business To Business</a></li><li><a class="navChild" href="/showcaselist/coffee.php">Cafe and Coffee Franchises</a></li><li><a class="navChild" href="/showcaselist/cleaning.php">Cleaning Franchises</a></li><li><a class="navChild" href="/showcaselist/consultancy.php">Consultancy</a></li><li><a class="navChild" href="/showcaselist/food.php">Food Franchises</a></li><li><a class="navChild" href="/showcaselist/indoor-property.php">Indoor Property Services</a></li><li><a class="navChild" href="/showcaselist/personal.php">Personal</a></li><li><a class="navChild" href="/showcaselist/repair-and-maintenance.php">Repair and Maintenance</a></li><li><a class="navChild" href="/showcaselist/retail.php">Retail</a></li><li><a class="navChild" href="/showcaselist/sales.php">Sales</a></li><li><a class="navChild" href="/showcaselist/services.php">Services</a></li><li><a class="navChild" href="/showcaselist/area-developer.php">Area Developer</a></li><li><a class="navChild" href="/showcaselist/part-time.php">Part-Time Opportunity</a></li><li><a class="navChild" href="/showcaselist/resales.php">Resales</a></li><li><a class="navChild" href="/showcaselist/service-providers.php">Service Providers</a></li><li><a class="navChild" href="/showcaselist/master-franchise.php">Master Franchises (International)</a></li><li><a class="navChild" href="/showcaselist/business-opportunities.php">Business Opportunities (non-franchised)</a></li></ul></dd>
 <dt><span class="navParent">Other Categories</span></dt>
 <dd><ul><li><a class="navChild" href="/showcaselist/accountancy.php">Accountancy</a></li><li><a class="navChild" href="/showcaselist/automotive.php">Automotive and Car</a></li><li><a class="navChild" href="/showcaselist/beverages.php">Beverages</a></li><li><a class="navChild" href="/showcaselist/care.php">Care</a></li><li><a class="navChild" href="/showcaselist/chemical.php">Chemical</a></li><li><a class="navChild" href="/showcaselist/children-and-babies.php">Children and Babies</a></li><li><a class="navChild" href="/showcaselist/communications.php">Communications</a></li><li><a class="navChild" href="/showcaselist/computers.php">Computers</a></li><li><a class="navChild" href="/showcaselist/dating.php">Dating</a></li><li><a class="navChild" href="/showcaselist/delivery.php">Delivery</a></li><li><a class="navChild" href="/showcaselist/distribution.php">Distribution</a></li><li><a class="navChild" href="/showcaselist/education-training.php">Education-Training</a></li><li><a class="navChild" href="/showcaselist/electrical.php">Electrical</a></li><li><a class="navChild" href="/showcaselist/entertainment.php">Entertainment</a></li><li><a class="navChild" href="/showcaselist/environmental.php">Environmental</a></li><li><a class="navChild" href="/showcaselist/estate-agents.php">Estate Agents and Lettings</a></li><li><a class="navChild" href="/showcaselist/fashion.php">Fashion</a></li><li><a class="navChild" href="/showcaselist/financial.php">Financial</a></li><li><a class="navChild" href="/showcaselist/beauty.php">Hair and Beauty</a></li><li><a class="navChild" href="/showcaselist/health.php">Health</a></li><li><a class="navChild" href="/showcaselist/internet.php">Internet</a></li><li><a class="navChild" href="/showcaselist/legal.php">Legal</a></li><li><a class="navChild" href="/showcaselist/luxury.php">Luxury</a></li><li><a class="navChild" href="/showcaselist/outdoor-property.php">Outdoor Property</a></li><li><a class="navChild" href="/showcaselist/pest-control.php">Pest control</a></li><li><a class="navChild" href="/showcaselist/pets-and-animals.php">Pets and Animals</a></li><li><a class="navChild" href="/showcaselist/print-and-design.php">Print and Design</a></li><li><a class="navChild" href="/showcaselist/promotional.php">Promotional</a></li><li><a class="navChild" href="/showcaselist/recruitment.php">Recruitment</a></li><li><a class="navChild" href="/showcaselist/security.php">Security</a></li><li><a class="navChild" href="/showcaselist/signs.php">Signs</a></li><li><a class="navChild" href="/showcaselist/sports.php">Sports</a></li><li><a class="navChild" href="/showcaselist/supplies.php">Supplies</a></li><li><a class="navChild" href="/showcaselist/travel.php">Travel</a></li></ul></dd></dl></div>
     <div id="features">
-<a href="/page/daily-poppins/o4c40m.php"><img src="/qSf/images/13592_en_GB.jpg" height="90" width="120"></a>
-<a href="/page/cex-ltd/724604.php"><img src="/qSf/images/12171_en_GB.jpg" height="89" width="120"></a>
-<a href="/page/eurodebt/vkzstz.php"><img src="/qSf/images/11940_en_GB.jpg" height="60" width="120"></a>
-<a href="/page/mcdonalds-restaurants/695453.php"><img title="McDonald's Restaurants" alt="McDonald's Restaurants" src="/qSf/images/ukfd-stars-3-491.jpg" height="116" width="120"></a>
-<a href="/page/adept-cleaning-services/018630.php"><img title="Adept Cleaning Services" alt="Adept Cleaning Services" src="/qSf/images/1181_en_GB.png" height="120" width="120"></a>
-<a href="/page/vehicle-strategies-club/iogqsr.php"><img src="/qSf/images/14751_en_GB.jpg" height="100" width="120"></a>
-<a href="/page/countrywide-signs-ltd/427826.php"><img title="Countrywide Signs Limited" alt="Countrywide Signs Limited" src="/qSf/images/ukfd-stars-3-102.gif" height="120" width="120"></a>
-<a href="/page/mac-tools-europe/tfppzf.php"><img title="Mac Tools Europe" alt="Mac Tools Europe" src="/qSf/images/2688_en_GB.png" height="110" width="120"></a>
-<a href="/page/all-trades-network/473029.php"><img title="All Trades Network" alt="All Trades Network" src="/qSf/images/ukfd-stars-3-81.jpg" height="60" width="120"></a>
+<a href="/page/home-xperts/e5oqhd.php"><img src="/qSf/images/16740_en_GB.jpg" height="80" width="120"></a>
+<a href="/page/merry-maids-service-master/013804.php"><img src="/qSf/images/16043_en_GB.jpg" height="60" width="120"></a>
+<a href="/page/chips-away-international/599925.php"><img src="/qSf/images/12510_en_GB.jpg" height="60" width="120"></a>
+<a href="/page/autosheen/WTJngn.php"><img src="/qSf/images/2623_en_GB.jpg" height="70" width="120"></a>
+<a href="/page/maid2clean/611272.php"><img src="/qSf/images/14753_en_GB.jpg" height="90" width="120"></a>
+<a href="/page/mac-tools-europe/tfppzf.php"><img src="/qSf/images/17281_en_GB.jpg" height="70" width="120"></a>
+<a href="/page/granite-transformations-europe/690175.php"><img src="/qSf/images/17279_en_GB.jpg" height="70" width="120"></a>
+<a href="/page/servicemaster-contract-srvcs/wbrdsm.php"><img src="/qSf/images/16544_en_GB.jpg" height="100" width="120"></a>
+<a href="/page/adept-cleaning-services/018630.php"><img src="/qSf/images/17267_en_GB.jpg" height="120" width="120"></a>
   <div class="floatfix"></div>
 </div>
     <div id="content-end"></div>
@@ -151,13 +193,13 @@ $(document).ready(function(){
 <div id="header-logo"><a href="/"><img src="/qSf/css/images/header-logo.png" alt="The UK Franchise Directory"></a></div>
 <h1>TheUKFranchiseDirectory.net Website Privacy policy</h1>
 <h2>The UK Franchise Directory</h2>
-<div id="fivestar"><a href="/page/wsi-internet/872964.php"><img title="WSI Internet" alt="WSI Internet" src="/qSf/images/2312_en_GB.jpg" height="54" width="200"></a></div>		<div class="navbar">
+<div id="fivestar"><a href="/page/wsi-internet/872964.php"><img src="/qSf/images/17058_en_GB.jpg" height="54" width="200"></a></div>		<div class="navbar">
 <ul id="cascademenu1">
 
 <li><a href="/showcaselist/franchises.php"><span>View UK Franchise Opportunities</span></a><ul id="cascademenu2">
 <li><a href="/match/franchises.php"><span>FREE franchise matching service</span></a></li>
 <li><a href="/franchise-business/franchises/newest.php"><span>Newest franchises</span></a>
-<ul><li><a href="/page/oscar-pet-food/891539.php"><span>Oscar Pet Food</span></a></li><li><a href="/page/assist-with-solutions/rsr62v.php"><span>Assist With Solutions</span></a></li><li><a href="/page/ology-business-coaching/372399.php"><span>Ology</span></a></li><li><a href="/page/business-rescue/w4mszn.php"><span>Business Rescue</span></a></li><li><a href="/page/cube-social-housing/3orv8w.php"><span>Cube Social Housing</span></a></li><li><a href="/page/vinomania/lzzfrv.php"><span>Vinomania</span></a></li></ul></li>
+<ul><li><a href="/page/e-lites/add5kz.php"><span>E-Lites </span></a></li><li><a href="/page/internet-creation/qumr9v.php"><span>Internet Creation</span></a></li><li><a href="/page/sliding-sash-solutions/822616.php"><span>Sliding Sash Solutions</span></a></li><li><a href="/page/ringtons/2e9eqi.php"><span>Ringtons</span></a></li><li><a href="/page/home-sale-bureau/ofzpmh.php"><span>Home Sale Bureau</span></a></li><li><a href="/page/photography-for-little-people/2lt7sr.php"><span>Photography For Little People</span></a></li></ul></li>
 <li><a href="/franchise-business/franchises/popular.php"><span>Popular franchises</span></a>
 <ul><li><a href="/franchise-business/franchises/popular.php"><span>View all popular franchises</span></a></li></ul></li>
 <li><a href="/franchise-business/franchises/featured.php"><span>Featured franchises</span></a>
@@ -169,7 +211,7 @@ $(document).ready(function(){
 <li><a href="/franchise-business/investment-1.php"><span>Investment Level</span></a>
 <ul><li><a href="/showcaselist/under-10000.php"><span>Under £10,000</span></a></li><li><a href="/showcaselist/10k-20k.php"><span>£10k - £20k</span></a></li><li><a href="/showcaselist/20k-30k.php"><span>£20k - £30k</span></a></li><li><a href="/showcaselist/30k-50k.php"><span>£30k - £50k</span></a></li><li><a href="/showcaselist/50k-100k.php"><span>£50k - £100k</span></a></li><li><a href="/showcaselist/100k-250k.php"><span>£100k - £250k</span></a></li><li><a href="/showcaselist/over-250k.php"><span>Over £250k</span></a></li></ul></li>
 <li><a href="/franchise-business/franchise-type.php"><span>Franchise Type</span></a>
-<ul><li><a href="/showcaselist/single-unit.php"><span>Single Unit</span></a></li><li><a href="/showcaselist/part-time.php"><span>Part Time</span></a></li><li><a href="/showcaselist/resales.php"><span>Resales</span></a></li><li><a href="/showcaselist/management-franchises.php"><span>Management Franchises</span></a></li><li><a href="/showcaselist/area-developer.php"><span>Area Developer</span></a></li><li><a href="/franchise-business/franchise-type.php"><span># Show all Business Categories #</span></a></li></ul></li>
+<ul><li><a href="/showcaselist/single-unit.php"><span>Single Unit</span></a></li><li><a href="/showcaselist/part-time.php"><span>Part-Time</span></a></li><li><a href="/showcaselist/resales.php"><span>Resales</span></a></li><li><a href="/showcaselist/management-franchises.php"><span>Management Franchises</span></a></li><li><a href="/showcaselist/area-developer.php"><span>Area Developer</span></a></li><li><a href="/franchise-business/franchise-type.php"><span># Show all Business Categories #</span></a></li></ul></li>
 <li><a href="/franchise-business/premises.php"><span>Place of Operation</span></a>
 <ul><li><a href="/showcaselist/work-from-home.php"><span>Work from home</span></a></li><li><a href="/showcaselist/vehicle-based.php"><span>Vehicle based</span></a></li><li><a href="/showcaselist/office-based.php"><span>Office Based</span></a></li><li><a href="/showcaselist/kiosk-based.php"><span>Kiosk Based</span></a></li><li><a href="/showcaselist/high-street-retail.php"><span>High Street Retail</span></a></li><li><a href="/showcaselist/secondary-retail.php"><span>Secondary Retail</span></a></li><li><a href="/showcaselist/restaurant-based.php"><span>Restaurant Based</span></a></li><li><a href="/showcaselist/dedicated-premises-based.php"><span>Dedicated Premises Based</span></a></li></ul></li>
 <li><a href="/showcaselist/franchises.php?ob=az"><span>Franchise name</span></a></li>
@@ -218,7 +260,7 @@ $(document).ready(function(){
 <li><a href="http://www.irelandfranchisedirectory.com"><span>Ireland Franchise Directory</span></a></li>
 <li><a href="http://www.caponica.com"><span>Web Design by Caponica</span></a></li></ul>
 <p class="copyright">
-© Copyright 2011<br>
+© Copyright 2012<br>
 Franchise Development Services Ltd</p>
 		<div class="floatfix"></div>
 	</div></div><!-- end footer and footer-in -->
