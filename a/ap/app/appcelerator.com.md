@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appcelerator.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211034205id_/http%3A//www.appcelerator.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526123741id_/http%3A//www.appcelerator.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Appcelerator
 
-**At Appcelerator, we’re committed to transparency and we respect your privacy. This Privacy Policy Statement applies to Appcelerator’s products, services and websites worldwide.**
+**At Appcelerator, we're committed to transparency and we respect your privacy. This Privacy Policy Statement applies to Appcelerator's products, services and websites worldwide.**
 
-This privacy policy statement applies to products, services and websites worldwide of Appcelerator, Inc. Our postal address is 201 Ravendale Drive, Mountain View, CA 94043. We can be reached via e-mail at [info@appcelerator.com](mailto:info@appcelerator.com?subject=privacy) or you can reach us by telephone at (650) 450-9671.
+This privacy policy statement applies to products, services and websites worldwide of Appcelerator, Inc. Our postal address is 440 North Bernardo Avenue, Mountain View, CA 94043. We can be reached via e-mail at [info@appcelerator.com](mailto:info@appcelerator.com?subject=privacy) or you can reach us by telephone at (650) 200-4255.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
@@ -30,4 +30,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-_Please read our[Terms and Conditions of Use](http://www.appcelerator.com/company/terms-and-conditions-of-use/)._
+_Please read our[Terms and Conditions of Use](https://web.archive.org/web/20120526123741id_/http%3A//www.appcelerator.com/terms-and-conditions-of-use/)._
