@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126162327id_/http%3A//reservations.insanelycheapflights.com/Default.aspx%3Ftabid%3D5625) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527003807id_/http%3A//reservations.insanelycheapflights.com/Default.aspx%3Ftabid%3D5625) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,14 +54,14 @@ If you receive browser warnings when going from secure mode pages to non-SSL pag
 
 We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We urge you to take every precaution to protect you personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-If you have any questions about security on our Site, you can send us an email or contact us [feedback@insanelycheapflights.com](https://web.archive.org/web/20111126162327id_/http%3A//reservations.insanelycheapflights.com/feedback@insanelycheapflights.com) [888-323-4383]   
+If you have any questions about security on our Site, you can send us an email or contact us [feedback@insanelycheapflights.com](https://web.archive.org/web/20120527003807id_/http%3A//reservations.insanelycheapflights.com/feedback@insanelycheapflights.com) [888-323-4383]   
   
 | ****Government And Legal |   
 ---|---  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.  
 | ****Access to Personally Identifiable Information |   
 ---|---  
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [feedback@insanelycheapflights.com](https://web.archive.org/web/20111126162327id_/http%3A//reservations.insanelycheapflights.com/feedback@insanelycheapflights.com) or by contacting us by telephone or postal mail at the contact information listed below.  
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [feedback@insanelycheapflights.com](https://web.archive.org/web/20120527003807id_/http%3A//reservations.insanelycheapflights.com/feedback@insanelycheapflights.com) or by contacting us by telephone or postal mail at the contact information listed below.  
 | ****Children's Privacy Protection |   
 ---|---  
 One Travel understands the importance of protecting children's privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, children 13 years of age or younger. It is not our policy to intentionally collect or maintain information about anyone under the age of 13.  
@@ -79,5 +79,5 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 DBA of WK Travel, Inc.  
 1050 East Flamingo Road, Suite S-302  
 Las Vegas, NV 89119  
-[feedback@insanelycheapflights.com](https://web.archive.org/web/20111126162327id_/http%3A//reservations.insanelycheapflights.com/feedback@insanelycheapflights.com)  
+[feedback@insanelycheapflights.com](https://web.archive.org/web/20120527003807id_/http%3A//reservations.insanelycheapflights.com/feedback@insanelycheapflights.com)  
 888-323-4383 
