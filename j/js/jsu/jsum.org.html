@@ -1,39 +1,54 @@
-<!--The following is the downloaded HTML source of the jsum.org privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126031457id_/http%3A//www.jsum.org/policies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jsum.org privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526100507id_/http%3A//www.jsum.org/policies.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>jSum Directory&nbsp;- Policies  </title>
+<title>Policies</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/templates/Elevation/style/main.css">
+<link href="http://fonts.googleapis.com/css?family=Asap" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/templates/jsum/style/main.css">
+<meta name="keywords" content="privacy policy">
+<meta name="description" content="JSum.org privacy policy.">
+<meta name="author" content="Jsum.org">
+<meta name="copyright" content="Copyright (c) 2012 - Jsum.org - All Rights Reserved">
+<meta name="robots" content="index, follow">
 <meta name="generator" content="PHP Link Directory 4.1.0">
-<!--[if IE 8]>
-<link rel="stylesheet" href="/templates/Elevation/style/ie8.css" type="text/css" media="all" />
-<![endif]-->
-<!--[if IE 7]>
-<link rel="stylesheet" href="/templates/Elevation/style/ie7.css" type="text/css" media="all" />
-<![endif]-->
-<!--[if IE 6]>
-<link rel="stylesheet" href="/templates/Elevation/style/ie6.css" type="text/css" media="all" />
-<![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-         var valid_obj = new Object();
-     </script>
+<script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-211680-28']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
 
-</script>
-</head>
-<body><script type="text/javascript">
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
 
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
 
 function ajaxFunction()
 {
@@ -86,43 +101,43 @@ catch (e)
 jQuery(function($) {
 	$(document).ready(function(){
 		
-												jQuery.validator.messages.required = "This field is required.";
-																jQuery.validator.messages.remote = "Please fix this field.";
-																jQuery.validator.messages.email = "Invalid email address format.";
-																jQuery.validator.messages.url = "Invalid URL.";
-																jQuery.validator.messages.date = "Invalid date format.";
-																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-																jQuery.validator.messages.number = "Required numeric field.";
-																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-																jQuery.validator.messages.digits = "Required integer field.";
-																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-																jQuery.validator.messages.equalTo = "Please enter the same value again.";
-																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-									
-		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
 		function fireEvent(obj, evt) {
-            var fireOnThis = obj;
-            if (document.createEvent) {
-              var evObj = document.createEvent('MouseEvents');
-                evObj.initEvent(evt, true, false);
-                fireOnThis.dispatchEvent(evObj);
-            } else if (document.createEventObject) {
-                fireOnThis.fireEvent('on'+evt);
-            }
-        }
-		
-		//valid obj isntantiated in header.tpl
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
                 valid_obj.login_form = {
 				debug: false,
 				onKeyUp: true,
-                onfocusout: false,
+				onfocusout: false,
 				errorElement: "span",
 				errorClass: "errForm",
 				submitHandler: function(form) {
@@ -131,11 +146,11 @@ jQuery(function($) {
 						form.submit();
 					}
 				},
-				
+
 				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
 		};
 
-        $("#login_form").validate(valid_obj.login_form);
+		$("#login_form").validate(valid_obj.login_form);
 
                 var selects = $("#login_form").find("select");
                 var crt;
@@ -147,50 +162,50 @@ jQuery(function($) {
                         });
                     }
                 });
-    });
+	});
 });
 </script>
 <script type="text/javascript">
 jQuery(function($) {
 	$(document).ready(function(){
 		
-												jQuery.validator.messages.required = "This field is required.";
-																jQuery.validator.messages.remote = "Please fix this field.";
-																jQuery.validator.messages.email = "Invalid email address format.";
-																jQuery.validator.messages.url = "Invalid URL.";
-																jQuery.validator.messages.date = "Invalid date format.";
-																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-																jQuery.validator.messages.number = "Required numeric field.";
-																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-																jQuery.validator.messages.digits = "Required integer field.";
-																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-																jQuery.validator.messages.equalTo = "Please enter the same value again.";
-																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-									
-		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
 		function fireEvent(obj, evt) {
-            var fireOnThis = obj;
-            if (document.createEvent) {
-              var evObj = document.createEvent('MouseEvents');
-                evObj.initEvent(evt, true, false);
-                fireOnThis.dispatchEvent(evObj);
-            } else if (document.createEventObject) {
-                fireOnThis.fireEvent('on'+evt);
-            }
-        }
-		
-		//valid obj isntantiated in header.tpl
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
                 valid_obj.search_form = {
 				debug: false,
 				onKeyUp: true,
-                onfocusout: false,
+				onfocusout: false,
 				errorElement: "span",
 				errorClass: "errForm",
 				submitHandler: function(form) {
@@ -199,11 +214,11 @@ jQuery(function($) {
 						form.submit();
 					}
 				},
-				
+
 				"rules": {search: {"required":true}}, "messages": {}
 		};
 
-        $("#search_form").validate(valid_obj.search_form);
+		$("#search_form").validate(valid_obj.search_form);
 
                 var selects = $("#search_form").find("select");
                 var crt;
@@ -215,193 +230,110 @@ jQuery(function($) {
                         });
                     }
                 });
-    });
+	});
 });
 </script>
-<div id="topwrapper">
-<div id="top">
-<form method="post" action="/login.php" onsubmit="ajaxFunction();">
-<table id="login" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><label>Username:</label></td>
-<td><input type="text" name="user" value="" size="20" maxlength="25" class="text"></td>
-<td><label>Password:</label></td>	
-<td><input type="password" name="pass" value="" size="20" maxlength="25" class="text"></td>
-<td><input class="button" type="submit" name="login" value="Login"></td>
-<td class="sep"><div id="loginsplit"></div></td>
-<td><a href="/profile.php?mode=register" title="Register">Register</a></td>
-</tr>
-</tbody></table>
-<a class="lostpassword" href="/profile.php?mode=sendpassword" title="Recover your password">Lost password?</a>
-<img src="/templates/Elevation/images/lost.gif">
-<input type="hidden" name="formSubmitted" value="1">
+<div class="mainblock">
+<div class="header">
+<div class="wrap">
+<div class="headerLogo">
+<a href="/"><img src="/templates/jsum/images/logo.png" border="0" alt="jSum Directory"></a>
+</div>
+<div class="hLink">
+<a href="/" title="Browse Directory Home page"><span>Home</span></a> |&nbsp;
+<a href="/login.php">Login</a>
+|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+|&nbsp;
+<a href="/contact.php" title="Contact directory owner"><span>Contact</span></a>
+| <a href="/rss.php?list=latest&amp;s=H&amp;p=1"><span>RSS</span></a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="hMenuContainer">
+<div class="wrap">
+<form class="headerSearch" action="/index.php" method="get" id="search_form">
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<button class="searchBtnCenter" type="submit"></button>
 </form>
+<div class="hMenu">
+<a href="/submit.php" title="Submit your link to the directory"><span>Submit Link</span></a> - 
+<a href="/submit_article.php" title="Submit your article to the directory"><span>Submit Article</span></a> - 
+<a href="/index.php?list=latest" title="Browse latest links"><span>Latest Links</span></a> - 
+<a href="/index.php?list=latestarticles" title="Browse latest articles"><span>Latest Articles</span></a> - 
+<a href="/index.php?list=top" title="Browse most popular links"><span>Top Hits</span></a> - 
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow"><span>Search</span></a>
+</div>
+<div class="clear"></div>
 </div>
 </div>
-<div id="headerwrapper">
-<div id="header">
-<a class="logo" href="/"><img src="/templates/Elevation/images/logo.png" alt=""></a>
-<div id="searchmenu">
-<div class="left"></div>
-<div class="center">
-<div id="search">
-<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px" id="search_form">
-<div id="inputleft"></div>
-<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
-<div id="inputright"></div>
-<button type="submit"></button>
-</form>
-<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+<div class="wrap"><div class="center1"><div class="path"><a href="/" style="font-weight: bold;">JSum Directory</a> <img src="/templates/jsum/images/pathArrow.gif" alt=" - "> Policies</div><div class="leftContainer">
+<div class="boxad">
+<div class="boxTopLeft"></div>
+<div class="boxTopRight"></div>
+<div class="boxMiddleAd">
+<a href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=nwwbsvcs-jsum"><img src="http://tracking.hostgator.com/img/Discount_Shared/Hostgator-new-_AN--300x250-.gif" border="0"></a></div>
 </div>
-<script type="text/javascript">
-
-var view1 = 0;
-var view2 = 0;
-
-</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar2').style.display='block';" onmouseout="if(view2==0) document.getElementById('bar2').style.display='none';"><span class="dropdown">Latest</span></a><div id="bar2" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/latest-links.html">»&nbsp;&nbsp;Latest Links</a><a href="/latest-articles.html" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Latest Articles</a></div></li><li><div class="split"></div></li><li><a href="/top-hits.html" title="Browse most popular links"><span>Top Hits</span></a></li><li><div class="split"></div></li><li><a href="/contact.php">Contact</a></li></ul></div></div><div class="right"></div><a class="rss" href="/rss.php?c="><img src="/templates/Elevation/images/rss.jpg" alt="RSS"></a></div></div></div><div id="contentwrapper"><div id="content"><div id="contentTop"></div><div class="clear"></div><div id="contentMiddle"><div id="sideleft">
-<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
-<li id="15">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Site Partners</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<ul class="boxPopCats">
-<li> <a target="_blank" href="http://www.azfra.us">Azfra Directory</a></li><li> <a target="_blank" href="http://www.inewu.com">iNew Directory</a></li><li> <a target="_blank" href="http://www.ze-web.com">ZE Web Directory</a></li><li> <a target="_blank" href="http://www.zssfw.com">Zean Directory</a></li><li> <a target="_blank" href="http://www.directoryclinic.com">Directory Clinic</a></li></ul>
-</div>		</li>
-<li id="6">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Statistics</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<ul class="boxStats">
-<li><strong>Active Links:</strong> 38264</li>
-<li><strong>Todays Links:</strong> 88</li>
-<li><strong>Active Articles:</strong> 731</li>
-<li><strong>Todays Articles:</strong> 10</li>
+<ul style="list-style-type: none; padding: 0px; margin: 0px;">
+<li id="41" class="rightbox">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest Featured Links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">			 <ul class="boxPopCats">
+<li>
+<a href="                                                /detail/mayfair-security-york-257504.htm" title="Read more about: Mayfair Security York">Mayfair Security York</a>
+</li>
+<li>
+<a href="                                                /detail/spa-breaks-at-wildmoor-spa-257497.htm" title="Read more about: Spa Breaks At Wildmoor Spa">Spa Breaks At Wildmoor Spa</a>
+</li>
+<li>
+<a href="                                                /detail/business-to-business-financing-256138.htm" title="Read more about: Business to Business Financing">Business to Business Financing</a>
+</li>
+<li>
+<a href="                                                /detail/inflatable-water-slides-255263.htm" title="Read more about: Inflatable Water Slides">Inflatable Water Slides</a>
+</li>
+<li>
+<a href="                                                /detail/handicap-walk-in-tub-253812.htm" title="Read more about: Handicap Walk In Tub">Handicap Walk In Tub</a>
+</li>
 </ul>
-
+</div>
+<div class="boxBottom"></div>
 </div>		</li>
-<li id="21">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Alexa Rank</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<center>
+</ul>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc">1) Privacy Policy
+<br><br>
+The privacy of your nonpublic personal information is important to us. We use safeguards to protect your privacy and confidentiality. This Disclosure discusses information we collect and the manner in which it is used.<br><br>
+We reserve the right, at any time, to add to, change, update or modify our privacy policy simply by posting such change, update or modification on the Website. Any such change, update or modification will be effective immediately upon posting on the Website.<br><br>
+2) Security<br><br>
+We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.<br><br>
+3) Information Collecting<br><br>
+If you do nothing during your visit but browse through the Website and read the information contained on the Web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access our Website, and the date and time you access our Website and the pages you visit.<br><br>
+We may collect nonpublic personal information from you when you voluntarily provide personally identifiable information to us though our Website, such as when subscribing to a newsletter or registering a member account. We limit use of such information to the purposes for which the information was provided. However, we reserve the right to use such information to contact you regarding additional services or products that you may find useful.<br><br>
+If you send an e-mail message that includes personally identifiable information, for example, in an e-mail message containing an inquiry, we will use that information to respond to your inquiry. Remember that e-mail is not necessarily secure against interception.<br><br>
+It is our policy to not sell, rent, or give away any nonpublic personal information unless required by law. WE DO NOT DISCLOSE ANY NONPUBLIC PERSONAL INFORMATION ABOUT YOU WITH ANYONE FOR ANY PURPOSE THAT IS NOT SPECIFICALLY PERMITTED BY LAW.<br><br>
+We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit, or recall a registered user's information. If you are not comfortable with this use, you may configure your browser to be notified when cookies are to be received and to provide you with the option of refusing cookies. However, refusing cookies may limit your ability to use our Website in its entirety. Our advertisers and sponsors may use cookies as well, we do not have access to any of this information and are not responsible for it's usage.<br><br>
+4) Links to Other Websites<br><br>
+Our Website may contain links to Websites that are provided and maintained exclusively by third parties. Websites provided and maintained by third parties are not subject to this privacy policy. Please review the privacy policies on those Websites to understand their personal information handling practices. We make no representations concerning the privacy policies of these third party Websites.<br><br>
+5) Questions<br><br>
+If you have any questions about our policies, you may contact us by using our contact form.</td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div><div style="clear: both;"></div></div></div><div class="bottomContainer">
+<div class="wrap">
+<ul style="list-style-type: none; padding: 0px; margin: 0px;">
+<li id="46" class="rightbox">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Alexa Rank</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">                        
 <script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/b?url=www.jsum.org"></script>
-</center>
-</div>		</li>
-</ul>
-</div><div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul><div class="path"><a href="/" id="firstPath">jSum Directory</a><span>Policies</span></div>
-<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc">1) Privacy Policy<br>
-The privacy of your nonpublic personal information is important to us. We use safeguards to protect your privacy and confidentiality. This Disclosure discusses information we collect and the manner in which it is used.<br>
-<br>
-We reserve the right, at any time, to add to, change, update or modify our privacy policy simply by posting such change, update or modification on the Website. Any such change, update or modification will be effective immediately upon posting on the Website.<br>
-<br>
-2) Security<br>
-We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.<br>
-<br>
-3) Information Collecting<br>
-If you do nothing during your visit but browse through the Website and read the information contained on the Web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access our Website, and the date and time you access our Website and the pages you visit.<br>
-<br>
-We may collect nonpublic personal information from you when you voluntarily provide personally identifiable information to us though our Website, such as when subscribing to a newsletter or registering a member account. We limit use of such information to the purposes for which the information was provided. However, we reserve the right to use such information to contact you regarding additional services or products that you may find useful.<br>
-<br>
-If you send an e-mail message that includes personally identifiable information, for example, in an e-mail message containing an inquiry, we will use that information to respond to your inquiry. Remember that e-mail is not necessarily secure against interception.<br>
-<br>
-It is our policy to not sell, rent, or give away any nonpublic personal information unless required by law. WE DO NOT DISCLOSE ANY NONPUBLIC PERSONAL INFORMATION ABOUT YOU WITH ANYONE FOR ANY PURPOSE THAT IS NOT SPECIFICALLY PERMITTED BY LAW.<br>
-<br>
-We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit, or recall a registered user's information. If you are not comfortable with this use, you may configure your browser to be notified when cookies are to be received and to provide you with the option of refusing cookies. However, refusing cookies may limit your ability to use our Website in its entirety. Our advertisers and sponsors may use cookies as well, we do not have access to any of this information and are not responsible for it's usage.<br>
-<br>
-4) Links to Other Websites<br>
-Our Website may contain links to Websites that are provided and maintained exclusively by third parties. Websites provided and maintained by third parties are not subject to this privacy policy. Please review the privacy policies on those Websites to understand their personal information handling practices. We make no representations concerning the privacy policies of these third party Websites.<br>
-<br>
-5) Questions<br>
-If you have any questions about our policies, you may contact us by using our contact form.</td></tr><tr><td></td></tr></tbody></table>
-<div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
-<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
-<li id="16">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Bookmark Me</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<div style="width: 171px; margin: 0px auto; padding: 10px 0px;">
-<a class="a2a_dd" href="http://www.addtoany.com/share_save" target="_blank">
-<img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark">
-</a>
-<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
-</div>
 
-</div>		</li>
-<li id="31">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Daily Deals</div>
 </div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<center>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-3694065946200759";
-/* jsum-120x240 */
-google_ad_slot = "2354358921";
-google_ad_width = 120;
-google_ad_height = 240;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</center>
-</div>		</li>
-<li id="8">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Latest featured links</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<ul class="boxPopCats">
-<li>
-<a href="                                                /detail/link-211824.htm" title="Read more about: Paintings for Sale">Paintings for Sale</a>
-</li>
-<li>
-<a href="                                                /detail/link-206981.htm" title="Read more about: Sacramento Personal Injury Lawyers">Sacramento Personal Injury ...</a>
-</li>
-<li>
-<a href="                                                /detail/link-206956.htm" title="Read more about: Plumbing Birmingham">Plumbing Birmingham</a>
-</li>
-<li>
-<a href="                                                /detail/link-206945.htm" title="Read more about: Garden Furniture Centre">Garden Furniture Centre</a>
-</li>
-<li>
-<a href="                                                /detail/link-206853.htm" title="Read more about: Leather Sofas">Leather Sofas</a>
-</li>
+<div class="boxBottom"></div>
+</div>                        </li>
 </ul>
-</div>		</li>
-</ul>
+<div class="clear"></div>
 </div>
-<div class="clear"></div></div></div></div><div id="footerwrapper"><div id="footer"><div id="footercontent">© 2011 JSum.org - All Rights Reserved | Powered by <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHPLD</a> | <a class="links" href="/policies.html">Privacy Policy</a></div></div></div>&nbsp;</body></html>
+</div><div class="footer"><div class="wrap"><div align="center" class="copyright">Copyright © 2012 - <a href="/">JSum Directory</a> - All Rights Reserved - <a href="http://www.jsum.org/policies.html">Privacy Policy</a> - <a href="http://www.jsum.org/tos.html">TOS</a> - Powered by <a href="http://www.phplinkdirectory.com" title="Directory Script by PHP Link Directory">PHP Link Directory</a></div><div class="clear"></div></div></div><div class="clear"></div></div></body></html>
