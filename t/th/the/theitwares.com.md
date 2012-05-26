@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theitwares.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160815id_/http%3A//www.theitwares.com/pages.php%3FcID%3D1%26pID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitwares.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526150810id_/http%3A//www.theitwares.com/pages.php%3FcID%3D1%26pID%3D1) for the most accurate reproduction.*
 
-# TheITWares - One Stop for all Gizmos!TheITWares - One Stop for all Gizmos!
+# 
 
 E-LOUNGE respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by E-LOUNGE. You are advised to please read this Privacy Policy carefully. By accessing the services provided by E-LOUNGE you agree to the collection and use of your data by E-LOUNGE and certain authorized third party service providers in the manner provided in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the website: http://www.theitwares.com
 
