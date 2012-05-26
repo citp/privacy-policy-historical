@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreecrochetafghanpatterns.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125184352id_/http%3A//www.allfreecrochetafghanpatterns.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecrochetafghanpatterns.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526214724id_/http%3A//www.allfreecrochetafghanpatterns.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCrochetAfghanPatterns.com
 
@@ -162,12 +162,10 @@ Please Wait
 
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite patterns
-  * add personal notes
-  * quickly reference your patterns
+  * SAVE all your favorite patterns
+  * ADD personal notes
+  * QUICKLY reference your patterns
 
-  
-  
----|---|---
+
