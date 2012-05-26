@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052833id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526145540id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
