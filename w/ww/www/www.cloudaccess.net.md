@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204015538id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526121548id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -129,7 +129,7 @@ CloudAccess.net, LLC.
 salesteam @ cloudaccess.net   
 Toll Free: 800-400-1565  
 Fax: 313-899-7032  
-web: [http://www.cloudaccess.net](http://www.cloudaccess.net/undefined)
+web: [http://www.cloudaccess.net](https://www.cloudaccess.net/undefined)
 
 12719 S West Bayshore Dr., Suite 9  
 Traverse City, MI 49684
