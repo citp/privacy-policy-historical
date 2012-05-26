@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melodika.net privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112205710id_/http%3A//www.melodika.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D7090%26Itemid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melodika.net privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526045020id_/http%3A//www.melodika.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D7090%26Itemid%3D53) for the most accurate reproduction.*
 
 # MELODIKA.net - Privacy Policy for MELODIKA.net
 
