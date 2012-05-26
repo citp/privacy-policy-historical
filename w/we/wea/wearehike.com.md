@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearehike.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104165820id_/http%3A//www.wearehike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearehike.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526020354id_/http%3A//www.wearehike.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hike – Free Social Apps
 
