@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the throated.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126103131id_/http%3A//throated.com/MCE/thr/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the throated.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526224115id_/http%3A//throated.com/MCE/thr/0/privacy) for the most accurate reproduction.*
 
 # Throated.com :: Throated.com Privacy Policy
 
