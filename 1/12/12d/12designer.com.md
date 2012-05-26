@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12designer.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125221156id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12designer.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526140031id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - 12designer
 
