@@ -1,0 +1,122 @@
+> *The following text is extracted and transformed from the leica-geosystems.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526040942id_/http%3A//www.leica-geosystems.com/en/Web-Site-Legal_1811.htm) for the most accurate reproduction.*
+
+# Web Site Legal - Leica Geosystems - Leica Geosystems
+
+Please read this privacy policy carefully. Your use of any Leica Geosystems Web site constitutes your agreement to this privacy policy (the "Leica Geosystems Privacy Policy") and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
+
+Introduction  
+Important Terms Used Throughout This Privacy Policy
+
+**INFORMATION WE COLLECT AND HOW WE USE IT**
+
+  * If You Visit the Site to Browse
+  * If You Register, Send Us a Communication or Engage in a Transaction While at Our Site.
+  * If You Do Not Wish to Disclose User Information  
+
+  * Cookies
+
+
+
+**ACCESS TO YOUR INFORMATION AND COMPLAINTS**
+
+  * Accessing, Correcting, Updating and Deleting Your Personal Information
+  * Complaints
+  * Removal or Correction of Personally Identifiable Information
+  * Third Parties and Links to Other Web Sites
+  * Security
+  * Site and Service Updates
+  * Children
+  * Merger, Assets, Sales, etc.
+  * How do I Contact Leica Geosystems
+  * Miscellaneous
+
+
+
+* * *
+
+**Introduction  
+**Leica Geosystems AG, Switzerland. ("Leica Geosystems," or "we," as appropriate) is committed to safeguarding the privacy of visitors to our Web sites and the pages therein, including <http://www.leica-geosystems.com/> and <http://www.disto.com/> (collectively, the "Site") and users of the other services available through our Site (the "Service(s)"). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein. 
+
+The Leica Geosystems Privacy Policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services. We've developed our Privacy Policy from industry guidelines and standards, and local, national, and international laws and requirements. All privacy practices and methods described herein only apply insofar as permitted by the applicable standards, laws and requirements and as limited by the website or interactive banner you are visiting.
+
+**Important Terms Used Throughout This Privacy Policy**  
+Throughout the Leica Geosystems Privacy Policy we use several specialized terms. "Personally Identifiable Information" is information that tells us specifically who you are, like your name, street address, email address, billing address, credit card number and expiration date. "User Information" means all Personally Identifiable Information and any other forms of information discussed in the Leica Geosystems Privacy Policy, including the Internet Protocol (IP) address of a user's computer. We use the term "aggregate" when we combine information from various persons or users. Information is said to be "anonymized" if it does not identify individual persons or entities or associate a particular person or entity with such information. 
+
+**INFORMATION WE COLLECT AND HOW WE USE IT    ******   
+
+****If you visit the Site to Browse  
+**** We will only collect and store the domain name and host from which a user accessed the Internet (e.g., aol.com), the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user linked directly to our site or to which the user links after visiting our site. We use this information to measure the number of visitors to sections of our sites, to determine from where our visitors linked and to where our visitors link from the sites and to help us make our sites more useful. For example, we organize and analyze IP addresses so that we can provide efficient service, enhance security, monitor appropriate usage and produce traffic volume statistics. This type of information is sometimes shared with third parties, such as when we aggregate and disclose site traffic information for marketing and commercial purposes. When we share such information with third parties we will require them to abide by the standards of the Leica Geosystems Privacy Policy. Leica Geosystems is the sole owner of the information collected on this Site. We will not sell, share or rent this information to others in ways different from that disclosed in the Leica Geosystems Privacy Policy.
+
+This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses "cookies", text files that are stored on your computer to help analyze the use of the website. The information generated by the cookie about your use of this website (including your IP address) is sent to a Google server in the U.S. and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing other website activity and internet related services. In addition, Google may also transfer this information to third parties if required by law or if third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by changing the settings on your browser, we would point out, however, that you can use in this case not all the features of this website. By using this site, you consent to the processing of data about you by Google in the manner described and for the aforementioned purpose. [You can withdraw your consent to the data collection and storage at any time with effect for the future](http://tools.google.com/dlpage/gaoptout?hl=de). Alternatively, you can opt Add-on use of Google Analytics (<http://tools.google.com/dlpage/gaoptout?hl=de>), if available for your browser. Given the debate about the use of analytical tools with full IP addresses, we would like to point out that this website uses Google Analytics with the "_anonymizeIp ()" is used and therefore IP addresses will be processed only shortened to exclude a direct personal link.
+
+**If You Register, Send Us a Communication or Engage in a Transaction While at Our Site.**  
+If you communicate with us, we collect and store the Personally Identifiable Information you provide through this process, including if applicable) your user ID and password, which we may elect to provide for you. If you engage in a transaction while logged on to our Site, then we collect and store information about the transaction. If you send us communications, then we may collect such communications in a file specific to you. 
+
+We use the information we collect from you as a registered user to build features that we hope will make the Services more attractive and easier for you to use. This may include better customer support and timely notice of new products and services. We may share User Information with our partners, affiliates and joint venturers that are committed to serving your need for the Services and improving your user experience, but will require such third parties to abide by the standards of the Leica Geosystems Privacy Policy. We may also share aggregate anonymized data relating to activity on the Site and use of the Services, such as demographical and statistical information, for marketing, research and other purposes. Furthermore, we may need to disclose User Information to law enforcement or other government officials if appropriate for your protection or in connection with an investigation of fraud, intellectual property infringement or other activity that is illegal or may expose us or our users to legal liability. From time to time, our Site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Site. 
+
+We send responses to all communications from users. Established members will occasionally receive information on products, services or special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+
+**If You Do Not Wish to Disclose User Information**  
+If you do not want to provide us with certain User Information then you may opt out by not using the Service that provides us with such User Information. For example, if you do not want us to retain your name, then you may choose not to become a registered user, not to send us a communication, or not to purchase products through the Site. You will not be entitled to the benefits of registration or a response to the communication, but you are still free to browse the Site.
+
+**Cookies  
+**Cookies are small text files that our Site can send to your browser for storage on your hard drive. Cookies can make your use of our Site easier by saving your status and preferences upon visits to our Site. The cookies are refreshed every time you enter the Site. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. We may use cookies for two purposes: (1) to enable Leica Geosystems' website to customize some of its information for your convenience, such as "remembering" the language you selected; and (2) in some instances, to associate you with your User Information. For example, through the use of cookies we may provide a service so that you can login automatically and thereby save you time. Although rejection of cookies will not interfere with your ability to interact with most of our Site, you may need to accept cookies in order to login and use certain interactive Services on the Site.
+
+Access, Correct, Update Your Personal Information by completely filling in this [Contact form](https://web.archive.org/en/Feedback-Form_4169.htm), or sending a letter to:
+
+Leica Geosystems AG.  
+Attn:Webmaster  
+Heinrich-Wild-Strasse  
+CH-9435 Heerbrugg  
+Switzerland
+
+Leica Geosystems will use reasonable efforts to supply you with the information you requested to access and to correct any factual inaccuracies in this information. 
+
+Delete Your Personal Information by filling in this [Contact form](https://web.archive.org/en/Feedback-Form_4169.htm), specifying your request and giving your email address (important: must be the one you submitted when registering in our Online Store). We will then use reasonable efforts to remove your personal information from our files."
+
+**Complaints**  
+Leica Geosystems is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices either via [email](https://web.archive.org/en/Feedback-Form_4169.htm) or sending a letter to: 
+
+Leica Geosystems AG.  
+Attn:Webmaster  
+Heinrich-Wild-Strasse  
+CH-9435 Heerbrugg  
+Switzerland
+
+Leica Geosystems will be happy to respond to your questions and comments.
+
+**Removal or Correction of Personally Identifiable Information**  
+Upon your request, we may remove your Personally Identifiable Information from our database and correct any errors you identify in such information. If Personally Identifiable Information is removed, you will lose access to the parts of the Site for which you must provide such Personally Identifiable Information to gain access. After removal, we will only retain copies of such information as are necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into through our Site and as otherwise reasonably necessary. Any Personally Identifiable Information provided as a part of a transaction on the Site represents a record of that business transaction that cannot be altered after the transaction is complete.
+
+**Third Parties and Links to Other Web Sites**  
+The Leica Geosystems Privacy Policy only addresses the use and disclosure of User Information collected by Leica Geosystems. If you disclose information to other parties, different rules may apply to their use or disclosure of such information regardless of their affiliation or relationship with Leica Geosystems. Because Leica Geosystems does not control the privacy practices of third parties you are subject to the privacy customs and policies of those third parties. When you link to another Web site, you are subject to the privacy policy of that Web site. We encourage you to ask questions and review the applicable privacy policy before you disclose your personal information to third parties. 
+
+We do not try to control, and disclaim responsibility for, information provided by other users or third parties that is made available through our Site. Such information may contain errors, intentional or otherwise, or may be offensive, inappropriate or inaccurate, and in some cases will be mislabeled or deceptively labeled.
+
+**Security**  
+This Site takes every precaution to protect our users' information. Leica Geosystems has implemented technology and security features and strict policy guidelines to safeguard the privacy of your Personally Identifiable Information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available.
+
+**Site and Service Updates**  
+We may send Site and Service announcement updates to users. We communicate with the user to provide requested Services via email or phone.
+
+Choice/Opt-out
+
+Users who no longer wish to receive our notices or promotional materials may opt-out of receiving these communications by sending and email to replying to [webmaster@leica-geosystems.com](mailto:webmaster@leica-geosystems.com) with "unsubscribe" written in the subject line of the email, or sending a letter to:
+
+Leica Geosystems AG.  
+Attn:Webmaster  
+Heinrich-Wild-Strasse  
+CH-9435 Heerbrugg  
+Switzerland
+
+**Children**  
+Leica Geosystems joins the industry in recognizing that children may not be able to make informed choices about personal information requested online. Accordingly, Leica Geosystems does not target children under the age of 13 for collection of information online. Leica Geosystems does not solicit or collect customer identifiable information from children under the age of 13. If a child has provided us with personal information, a parent or guardian of that child may contact us at the addresses listed elsewhere in this Privacy Policy if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our databases.
+
+**Merger, Assets, Sales, etc.**  
+If Leica Geosystems or any of its lines of business is sold, pledged or disposed of as a going concern whether by merger, sale of assets, bankruptcy or otherwise, then the user database of Leica Geosystems could be sold as part of that transaction and all User Information accessed by such successor or purchaser.
+
+**How do I Contact Leica Geosystems**  
+If you have any questions regarding the Leica Geosystems Privacy Policy, you can contact Leica Geosystems via [email](https://web.archive.org/en/Feedback-Form_4169.htm).
+
+**Miscellaneous**   
+Leica Geosystems may from time to time change the Leica Geosystems Privacy Policy with or without notice, so please check it regularly for any changes or updates. For future reference, LEICA GEOSYSTEMS will make a link to the current Leica Geosystems Privacy Policy available to you on your screen when you are on our Site. Your use of the Site constitutes your agreement to the Leica Geosystems Privacy Policy and your assent to any modification thereto. If you do not agree with any of these terms in, please do not use this site or submit any personal information. This English version shall always prevail in case of conflicts between it and any translations of the Leica Geosystems Privacy Policy.
