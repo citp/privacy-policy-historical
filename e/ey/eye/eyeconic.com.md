@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126040715id_/http%3A//www.eyeconic.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526113035id_/http%3A//www.eyeconic.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Eyeconic | Privacy Policy
 
@@ -160,4 +160,4 @@ Category Information**
   
   |    |     
   
-© 2011, Eyeconic, Inc. All rights reserved. All brands are the marks or registered trademarks of their respective owners. 
+© 2012, Eyeconic, Inc. All rights reserved. All brands are the marks or registered trademarks of their respective owners. 
