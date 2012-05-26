@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pinkooo.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125152256id_/http%3A//pinkooo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkooo.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526093611id_/http%3A//www.pinkooo.com/privacy.html) for the most accurate reproduction.*
 
-# Link Exchange - Pinkooo.com
+# Privacy Policy
 
-Pinkooo.com: Free Article Submission, Social Bookmarking, Ask Questions & Find Answers, Web Directory, Free Classifieds, Social Networking and More. 
+Pinkooo.com: Free Article Submission, Social Bookmarking, Ask Questions & Find Answers, Web Directory, Free Classifieds, Business Directory, Online Press Releases, Find Jobs Online, Scripts & Source Codes for Developers, Online Shopping, Travel, Online Videos, Web Design & Development, E-Business Solutions and More.
 
-* * *
+[](https://web.archive.org/web/20120526093611id_/http%3A//www.pinkooo.com/index.html)
 
-### Privacy:
+Custom Search 
 
-* * *
+### Privacy Policy
 
-Pinkooo.com services include article directory, link directory, free classified posting, references, questions and answers, news and social bookmarking. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.pinkooo.com and how it is used. The content replication from any of the pinkooo's section is strictly prohibited and the users may be terminated from our services. Like many other Web sites, http://www.pinkooo.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. Appropriate guidelines, terms and conditions, linked privacy policies can be found in the respective sections, the user of our service must agree to all such criteria. We are no way responsible damage, loss caused for any activities from the resources, content, links or whatever else. The terms and policies can be regenerated or changed without any prior notice.
+Pinkooo.com services include article directory, link directory, free classified posting, references, questions and answers, news and social bookmarking. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.pinkooo.com and how it is used. The content replication from any of the pinkooo's section is strictly prohibited and the users may be terminated from our services. Like many other Web sites, http://www.pinkooo.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. Appropriate guidelines, terms and conditions, linked privacy policies can be found in the respective sections, the user of our service must agree to all such criteria. We are no way responsible damage, loss caused for any activities from the resources, content, links or whatever else. The terms and policies can be regenerated or changed without any prior notice.
 
 * * *
 
@@ -28,6 +28,7 @@ Google, as a third party vendor, uses cookies to serve ads on http://www.pinkooo
 
 **Advertisements**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, ValueClick, Tribal Fusion, Search Anyway and Others. These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.pinkooo.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. www.pinkooo.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.pinkooo.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Infolinks, AOL, Smowtion and Others. These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.pinkooo.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. www.pinkooo.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.pinkooo.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-## Link Exchange | [Online Dating](http://www.clickhearts.in/)
+  
+
