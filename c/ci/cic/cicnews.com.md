@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125200905id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526123807id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
 # CIC NEWS - Privacy Policy
 
@@ -6,9 +6,9 @@ CICNews.com is part of the Campbell Cohen Immigration Network (henceforth referr
 
 The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), [Canadaworkvisa.ca](http://www.canadaworkvisa.ca/), [Canadavisa.com](http://www.canadavisa.com/).
 
-**Our postal address is: 215 Redfern, Suite 118,  
-Montreal, [Quebec](http://www.canadavisa.com/about-quebec.html "More about Quebec »"), Canada  
-H3Z 3L5  
+**Our postal address is: 1980 Sherbrooke Street West, Suite 800,  
+Montreal, Quebec, Canada  
+H3H 1E8  
 1.514.937.9445  
 1.888.947.9445 (Toll free in North America)**
 
