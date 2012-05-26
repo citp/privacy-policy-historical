@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230205746id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526071519id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Ron Hazelton Online
 
-This privacy notice discloses the privacy practices for www.ronhazelton.com. Your privacy is very important to us. This privacy notice applies solely to information collected by this web site.
+This privacy notice discloses the privacy practices for [http://www.ronhazelton.com](http://www.ronhazelton.com/) Your .privacy is very important to us. This privacy notice applies solely to information collected by this web site.
 
 ##  Information Collection, Use and Sharing
 
