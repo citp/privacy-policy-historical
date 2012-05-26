@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112012013id_/http%3A//www.liebertpub.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526215112id_/http%3A//www.liebertpub.com/nv/company/privacy-policy/3) for the most accurate reproduction.*
 
-# Mary Ann Liebert, Inc. – The Leading Publisher in Biotechnology
+# Privacy Policy Title
+
+## Mary Ann Liebert Inc. & Liebertpub.com Privacy Policy
 
 Mary Ann Liebert, Inc. (Liebert) and liebertpub.com (the "Site") are committed to protecting your privacy. As a user of the Site, you acknowledge that we will collect certain information about you, and that you may provide information regarding your interests and preferences. This statement sets forth our Privacy Policy and describes the practices liebertpub.com follows with respect to information provided by visitors to this Site. Please be aware that this Site may contain links to other sites that are covered by their own privacy policies.
 
-### How We Use Your Personal Information 
+#### How We Use Your Personal Information
 
 **Newsletter and Email Communications Subscribers** **:  
 **When you fill out our Opt-In form, we use the contact information you provide to send you journal alerts, complimentary articles, news updates, and special offers on the journals you requested or other related Liebert journals.
@@ -14,7 +16,7 @@ Mary Ann Liebert, Inc. (Liebert) and liebertpub.com (the "Site") are committed t
 
 **We do not sell or rent information about our customers or email lists to third parties.**
 
-****If you would like to change your registration or opt-out of receiving email from us, you can send an email to[info@liebertpub.com](mailto:info@liebertpub.com) and type “Unsubscribe from ‘Journal Name’” in the subject line to remove yourself from a particular journal list or “Unsubscribe from all” to remove yourself from all email communication. We will process your request within 10 days. You can also manage your account by clicking on the links at the bottom of your email. 
+** ** If you would like to change your registration or opt-out of receiving email from us, you can send an email to [info@liebertpub.com](mailto:info@liebertpub.com) and type “Unsubscribe from ‘Journal Name’” in the subject line to remove yourself from a particular journal list or “Unsubscribe from all” to remove yourself from all email communication. We will process your request within 10 days. You can also manage your account by clicking on the links at the bottom of your email.
 
 Any personal data you may provide is used to create personalized content and services on our Site, as well as to better understand the interests and preferences of our members and customers. 
 
