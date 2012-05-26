@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxedup.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904165047id_/http%3A//www.boxedup.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxedup.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526130459id_/http%3A//www.boxedup.com/privacy) for the most accurate reproduction.*
 
-# boxedup.com - universal social wish list (wishlist), gift list and shopping list
+# boxedup |
 
 We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. If you think our policy falls short of your expectations or that we are failing to abide by our policy, do please tell us.
 
