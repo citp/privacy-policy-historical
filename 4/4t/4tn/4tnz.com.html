@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4tnz.com privacy policy that was archived on 2011-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110129020137id_/http%3A//www.4tnz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4tnz.com privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526173419id_/http%3A//www.4tnz.com/content/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>4tnz! : Privacy Policy</title>
@@ -7,8 +7,8 @@
 <meta name="description" content="Privacy Policy">
 <meta name="robots" content="index,follow">
 <link rel="shortcut icon" href="/files/favicon.jpg" type="image/x-icon">
-
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://profile.bauerpublishing.com/js/global.js"></script>		
+		<meta property="fb:page_id" content="17426304831">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://profile.bauerpublishing.com/js/global.js"></script>		
 <script type="text/javascript" src="/misc/hugejs.js"></script>
 		<script type="text/javascript"> window.google_analytics_uacct = "UA-544320-15"; </script>		<!-- GAM head tags -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -20,6 +20,7 @@
 <script type="text/javascript">
   GA_googleAddSlot("ca-pub-2097284243937973", "4tnz_site_300x250");
   GA_googleAddSlot("ca-pub-2097284243937973", "4tnz_site_728x90");
+  GA_googleAddSlot("ca-pub-2097284243937973", "4tnz_site_160x600");
   GA_googleAddSlot("ca-pub-2097284243937973", "4tnz_site_skin");
 
 	GA_googleAddSlot("ca-pub-2097284243937973", "BTN_interstitial_code");
@@ -37,59 +38,49 @@
 <script type="text/javascript">	
 sublimevideo.ready(function(){
   sublimevideo.onStart(function(sv){
-    _gaq.push(['t1._trackEvent', '90secscoop', 'start']);
+    if (!sv.element.id.match(/-ad$/)) {
+      _gaq.push(['t1._trackEvent', '90secscoop', 'start']);
+    }
   });
   sublimevideo.onEnd(function(sv){
-    _gaq.push(['t1._trackEvent', '90secscoop', 'complete']);
+    if (!sv.element.id.match(/-ad$/)) {
+      _gaq.push(['t1._trackEvent', '90secscoop', 'complete']);
+    }
   });
 });
 </script>		<style type="text/css" media="all">@import "/files/css/5e05e8d2b4d8cce15d71aa0476af3c29.css";</style>
 		<link type="text/css" rel="stylesheet" media="all" href="/misc/jqGalScroll.css">
 		<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/thickbox_tools/thickbox.css">
-		<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gridtheme/css/sep08.css?1296266497">
+		<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gridtheme/css/sep08.css?1338053666">
 				<link href="/misc/tnzQuiz.css" type="text/css" rel="stylesheet" media="all">
 		<!--[if gte IE 5.5]>
 		<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gridtheme/css/ie6.css" />
 		<![endif]-->
 	</head>
 	<body id="body" class="nav-user" style="">
-				<!-- Login area -->
-		<div id="loginStuff"><div class="content">
-			<!-- Social links -->
-			<div class="social">
-				<a href="http://www.facebook.com/pages/4TNZ/17426304831?ref=mf" target="_new"><img src="/sites/all/themes/gridtheme/img/icn_facebook.gif"> &nbsp;<span class="ul">Fan us on Facebook!</span></a>
-				&nbsp;&nbsp;
-				<a href="http://www.myspace.com/4tnz" target="_new"><img src="/sites/all/themes/gridtheme/img/icn_myspace.gif"> &nbsp;<span class="ul">Friend us on MySpace!</span></a>
-				&nbsp;&nbsp;
-				<a href="http://www.twitter.com/4tnz" target="_new"><img src="/sites/all/themes/gridtheme/img/icn_twitter.gif"> &nbsp;<span class="ul">Follow us on Twitter!</span></a>
-			 
-			</div>
-			
-
-					<div id="userBox" class="loginForm">
-
-					</div>
-			<!-- Login -->
-				<!-- Search -->
-				<div class="search">
-				<form action="/search" id="cse-search-box">
-  				<div>
-				    <input type="hidden" name="cx" value="013355329104812184132:ujfdex3hkse">
-				    <input type="hidden" name="cof" value="FORID:11">
-				    <input type="hidden" name="ie" value="UTF-8">
-				    <span class="leftCap">
-				      <input type="image" src="/sites/all/themes/gridtheme/img/search_left_top.gif"></span>
-							<input type="text" id="search" name="query" class="greyed">
-						<span class="rightCap"></span>
-  </div>
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-
-
-		</div>
-		<!-- /Search -->
-		</div></div><!-- /loginStuff -->
-		
+	<!-- insert the user bar asyncronously -->
+	<div id="bsso-user-bar" style="display: none;"></div>
+	<script type="text/javascript">
+	$.ajax({
+		url: 'http://profile.4tnz.com/injectable/user_bar.js',
+		dataType: 'script'
+	});
+	</script>
+	<!-- insert the user bar asyncronously -->
+	<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8187616" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8187616&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->	
 		<!-- Main content area : 935px wide -->
 		<div id="contentArea">
 
@@ -100,7 +91,6 @@ sublimevideo.ready(function(){
 	<!--<div id="parent"><a href="#"><img src="/sites/all/themes/gridtheme/img/btn_pos.gif" alt="Parent over shoulder!" /></a></div>-->
 	<!-- SKINNED -->
 	<div id="logo"><a href="/"><img src="/sites/all/themes/gridtheme/img/logo_skinned.gif" alt="4tnz"></a></div>
-	<!--<div id="parent"><a href="javascript:approachingParent(true);"><img src="/sites/all/themes/gridtheme/img/btn_pos_skinned.gif" alt="Parent over shoulder!" /></a></div>-->
 <!-- GAM background skin -->
 <script type="text/javascript">
   GA_googleFillSlot("4tnz_site_skin");
@@ -112,94 +102,174 @@ GA_googleFillSlot("BTN_interstitial_code");
 
 	<!-- Leaderboard ad -->
 	<div id="topLeaderboard">
-	<script type="text/javascript">
-				GA_googleFillSlot("4tnz_site_728x90");
-	 		 	</script>
+  	<script type="text/javascript">
+  		  		GA_googleFillSlot("4tnz_site_728x90");
+  	 		 	</script>
 	</div>
+
 </div><!-- /topStuff -->
-			<!-- Main navigation -->
+			<script type="text/javascript">
+function approachingParent(displayParentContent) {
+	if (displayParentContent)
+		$("body").addClass("parent");
+	else
+		$("body").removeClass("parent");
+}
+</script>
+<!-- Main navigation -->
 <div id="navigation">
 	<div class="container">
 
 		<ul>
-			<li><a href="http://www.4tnz.com/" id="nav-home" class="unselected">Home</a></li>
+			<li><a href="http://www.4tnz.com/see/gossip" id="nav-gossip" class="unselected">Gossip</a></li>
 			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/see/stories/" id="nav-stories" class="unselected">Stories</a></li>
+			</li><li><a href="http://www.4tnz.com/see/stories" id="nav-stories" class="unselected">Stories ▼</a>
+				<ul class="submenu">
+					<li><a href="http://www.4tnz.com/type/embarrassing_moments">Embarrassing Moments</a></li>
+					<li><a href="http://www.4tnz.com/type/just_jokes">Just Jokes</a></li>
+					<li><a href="http://www.4tnz.com/type/parents_just_dont_get_it">Parents Just Don't Get It</a></li>
+					<li><a href="http://www.4tnz.com/type/school_sucks">School Sucks</a></li>
+					<li><a href="http://www.4tnz.com/s4m/new">Sux 4 Me</a></li>
+					<li><a href="http://www.4tnz.com/type/top_secret_confessions">Top Secret Confessions</a></li>
+				</ul>
+			</li>
 			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/s4m/new" id="nav-sucks-4-me" class="unselected">Sux 4 Me</a></li>
+			</li><li><a href="http://www.4tnz.com/see/videos/" id="nav-videos" class="unselected">Videos ▼</a>
+				<ul class="submenu">
+					<li><a href="http://www.4tnz.com/type/awesome_videos">Awesome Videos</a></li>
+					<li><a href="http://www.4tnz.com/type/4tnz_originals">4TNZ Originals</a></li>
+				</ul>
+			</li>
 			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/see/videos/" id="nav-videos" class="unselected">Videos</a></li>
+			</li><li><a href="http://www.4tnz.com/see/pictures/" id="nav-pictures" class="unselected">Pics ▼</a>
+				<ul class="submenu">
+					<li><a href="http://www.4tnz.com/type/fashion_trashin">Fashion Trashin'</a></li>
+					<li><a href="http://www.4tnz.com/type/pictures">Funny Pics</a></li>
+					<li><a href="http://www.4tnz.com/type/node_gallery">Photo Galleries</a></li>
+					<li><a href="http://www.4tnz.com/type/say_what">Say What? Challenge</a></li>
+				</ul>
+			</li>
 			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/see/pictures/" id="nav-pictures" class="unselected">Pics</a></li>
+			</li><li><a href="http://www.4tnz.com/see/gossip/" id="nav-twilight" class="unselected">Celebs ▼</a>
+				<ul class="submenu">
+          <li><a href="http://www.4tnz.com/channel/american+idol">American Idol</a></li>
+          <li><a href="http://www.4tnz.com/channel/ashley+greene">Ashley Greene</a></li>
+          <li><a href="http://www.4tnz.com/channel/ashley+tisdale">Ashley Tisdale</a></li>
+          <li><a href="http://www.4tnz.com/channel/bella+thorne">Bella Thorne</a></li>
+          <li><a href="http://www.4tnz.com/channel/booboo+stewart">BooBoo Stewart</a></li>
+          <li><a href="http://www.4tnz.com/channel/cody+simpson">Cody Simpson</a></li>
+          <li><a href="http://www.4tnz.com/channel/daniel+radcliffe">Daniel Radcliffe</a></li>
+          <li><a href="http://www.4tnz.com/channel/demi+lovato">Demi Lovato</a></li>
+          <li><a href="http://www.4tnz.com/channel/emma+watson">Emma Watson</a></li>
+          <li><a href="http://www.4tnz.com/channel/glee">Glee</a></li>
+          <li><a href="http://www.4tnz.com/channel/greyson+chance">Greyson Chance</a></li>
+          <li><a href="http://www.4tnz.com/channel/harry+potter">Harry Potter</a></li>
+          <li><a href="http://www.4tnz.com/channel/hunger+games">Hunger Games</a></li>
+          <li><a href="http://www.4tnz.com/channel/jersey+shore">Jersey Shore</a></li>
+          <li><a href="http://www.4tnz.com/channel/justin+bieber">Justin Bieber</a></li>
+          <li><a href="http://www.4tnz.com/channel/joe+jonas">Joe Jonas</a></li>
+          <li><a href="http://www.4tnz.com/channel/katy+perry">Katy Perry</a></li>
+          <li><a href="http://www.4tnz.com/channel/kardashians">Kardashians</a></li>
+          <li><a href="http://www.4tnz.com/channel/kellan+lutz">Kellan Lutz</a></li>
+          <li><a href="http://www.4tnz.com/channel/kevin+jonas">Kevin Jonas</a></li>
+          <li><a href="http://www.4tnz.com/channel/kristen+stewart">Kristen Stewart</a></li>
+          <li><a href="http://www.4tnz.com/channel/lady+gaga">Lady Gaga</a></li>
+          <li><a href="http://www.4tnz.com/channel/lucy+hale">Lucy Hale</a></li>
+          <li><a href="http://www.4tnz.com/channel/miley+cyrus">Miley Cyrus</a></li>
+          <li><a href="http://www.4tnz.com/channel/nick+jonas">Nick Jonas</a></li>
+          <li><a href="http://www.4tnz.com/channel/one+direction">One Direction</a></li>
+          <li><a href="http://www.4tnz.com/channel/rihanna">Rihanna</a></li>
+          <li><a href="http://www.4tnz.com/channel/robert+pattinson">Robert Pattinson</a></li>
+          <li><a href="http://www.4tnz.com/channel/selena+gomez">Selena Gomez</a></li>
+          <li><a href="http://www.4tnz.com/channel/taylor+lautner">Taylor Lautner</a></li>
+          <li><a href="http://www.4tnz.com/channel/taylor+swift">Taylor Swift</a></li>
+          <li><a href="http://www.4tnz.com/channel/twilight">Twilight</a></li>
+          <li><a href="http://www.4tnz.com/channel/vanessa+hudgens">Vanessa Hudgens</a></li>
+          <li><a href="http://www.4tnz.com/channel/victoria+justice">Victoria Justice</a></li>
+          <li><a href="http://www.4tnz.com/channel/zac+efron">Zac Efron</a></li>
+          <li><a href="http://www.4tnz.com/channel/zendaya">Zendaya</a></li>
+				</ul>
+			</li>
 			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/see/gossip/" id="nav-gossip" class="unselected">Gossip</a></li>
+				</li><li><a href="http://polls.4tnz.com" id="nav-polls" class="unselected">Polls</a></li>
 			<li class="sep">
-			</li><li><a href="http://polls.4tnz.com" id="nav-polls" class="unselected">Polls</a></li>
-			<li class="sep">
-			</li><li><a href="http://quiz.4tnz.com" id="nav-quizzes" class="unselected">Quizzes</a>
+			</li><li><a href="http://quiz.4tnz.com" id="nav-quizzes" class="unselected">Quizzes ▼</a>
 				<ul class="submenu">
 					<li><a href="http://quiz.4tnz.com/">Personality Quizzes</a></li>
 					<li><a href="http://fanfic.4tnz.com/">Fan Fiction</a></li>
 				</ul>
 			</li>
-			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/see/win-it/" id="nav-win-it" class="unselected">Win It!</a></li>
-			<li class="sep">
-			</li><li><a href="http://www.4tnz.com/see/gossip/" id="nav-twilight" class="unselected">Celebs ▼</a>
-				<ul class="submenu">
-					<li><a href="http://www.4tnz.com/channel/twilight">Twilight</a></li>
-					<li><a href="http://www.4tnz.com/channel/jonas+brothers">JoBros</a></li>
-					<li><a href="http://www.4tnz.com/channel/justin+bieber">Justin Bieber</a></li>
-					<li><a href="http://www.4tnz.com/channel/taylor+lautner">Taylor Lautner</a></li>
-					<li><a href="http://www.4tnz.com/channel/robert+pattinson">Robert Pattinson</a></li>
-					<li><a href="http://www.4tnz.com/channel/selena+gomez">Selena Gomez</a></li>
-					<li><a href="http://www.4tnz.com/channel/demi+lovato">Demi Lovato</a></li>
-					<li><a href="http://www.4tnz.com/channel/miley+cyrus">Miley Cyrus</a></li>
-					<li><a href="http://www.4tnz.com/channel/taylor+swift">Taylor Swift</a></li>
-					<li><a href="http://www.4tnz.com/channel/lady+gaga">Lady Gaga</a></li>
-				</ul>
-			</li>
-			<li class="sep">
-			</li><li><a href="http://messageboards.4tnz.com/" id="nav-messageboards" class="unselected">MSG Boards</a></li>
-			<li class="sep">
-		
+			<li class="sep">		
 		</li></ul>
 	</div>
 </div><!-- /navigation -->
-
+<div id="parent"><a href="javascript:approachingParent(true);"><img src="http://www.4tnz.com/sites/all/themes/gridtheme/img/incoming_parent_button.png" alt="Incoming Parent Button"></a></div>
 			
 			<!-- Single node : 460px wide -->
 			<div id="singleNode">
 				
 				<!-- Content -->
 								<div class="snContent sn-nav-  ">
-<div class="postTime">3 years ago</div>
+<div class="postTime">4 years ago</div>
 	<div class="type">
 					<a href="/type/static">
 						<img src="/sites/all/themes/gridtheme/img/header_static.gif">
 				</a>
-		<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.4tnz.com/privacy&amp;layout=standard&amp;show_faces=false&amp;width=218&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:218px; height:30px;" allowtransparency="true"></iframe>
+		<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.4tnz.com/content/privacy-policy&amp;layout=standard&amp;show_faces=false&amp;width=218&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:218px; height:30px;" allowtransparency="true"></iframe>
 	</div>
-		<h1><a href="/privacy">Privacy Policy</a></h1>
+		<h1><a href="/content/privacy-policy">Privacy Policy</a></h1>
 			
 	<span class="inline-left">
 				<img class="small" src="/sites/all/modules/image_assets/default_original.gif">
 	</span>
-	<p>We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read 4TNZ's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please e-mail us at team@4tnz.com.</p><p>Remember, if you sign up for any of 4TNZ's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy.<br><br><b>What types of personal information does 4tnz.com collect?</b><br>We sometimes collect personal information from our users when you sign up for services at 4tnz.com or enter contests or sweepstakes. Personal information includes your first and last name, home or other address (like your school), telephone number, e-mail address, or any other information that tells another person who you are.<br><br>When you use some of the services provided by 4tnz.com, we ask for some contact information such as your name, address, and e-mail address, and financial information such as a credit card number. We give you notice and provide a link to this Privacy Policy at each location that asks you for personal information.<br><br>4tnz.com collects personal information in three ways:<br><br>You can subscribe on-line to receive a free online newsletter from 4tnz.com. 4tnz.com collects only your e-mail address to provide the online newsletter. If you are under the age of 13, you must provide the e-mail address of a parent or guardian before you will be able to receive future issues of the on-line newsletter, and 4tnz.com will notify your parent or guardian of the online newsletter subscription and give them the chance to cancel the subscription.</p><p>You can open an account at 4tnz.com. 4tnz.com collects only the e-mail address and password you select, and your birthday. We do not monitor or collect information from your e-mail account unless a legal authority requests us to do so, a user interferes with our operations, or a user otherwise violates 4tnz.com's Terms of Use. If you are under the age of 13, you may open an e-mail account at 4tnz.com with a parent's prior permission.</p><p>You can enter contests or sweepstakes sponsored by 4tnz.com. Our contests and sweepstakes require a minimal amount of information to register, but we always collect your e-mail address so that we can notify you of the results of the contest. If you are under the age of 13, you must provide the e-mail address of a parent or guardian when entering the contest, and 4tnz.com will notify the parent or guardian of your contest entry and give them the chance to cancel the entry. 4tnz.com is prohibited by law from conditioning your participation in a contest or sweepstakes on the disclosure of more personal information than is reasonably necessary to participate.</p><p>We do not collect the e-mail addresses of people who write to us via e-mail except to respond to them. Unless we know that we have received the e-mail from a reader who is 13 or over, we will discard the e-mail addresses within 30 days.</p><p>We may also collect other information about you, This is so you can enjoy certain services within the website and be involved in certain surveys. None of this information can be or is used to identify you personally, however.<br><br>You should also be aware that other companies may advertise on our site, and 4tnz.com may provide links to other websites. These advertisers and sites may collect data or solicit personal information from you. 4tnz.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites.<br><br><b>How does 4tnz.com use this information?</b><br>Our policy about using personal information is simple: Except as described in this Policy, 4tnz.com will not disclose or sell any of the personal information you provide to any third parties.</p><p>4tnz.com uses the personal information you provide for recordkeeping purposes, for statistical analysis, to learn about you and your interests, to provide products and services you request, to tell you about other 4tnz.com services that might interest you, and to notify contests winners.</p><p>We may disclose information about our users when we are required to by law, or when we have reason to believe that someone is causing injury to or interfering with our rights or property, other 4tnz.com users, or anyone else who could be harmed by those activities.<br><br><b>What about 4tnz.com's surveys?</b><br>We want to know what you think. 4tnz.com surveys and polls are questions we ask to learn more about our readers and their preferences and interests. Any data we collect from a survey is edited before we release it to any third party. When you participate in a survey, you are completely anonymous. We will never ask you for your name, address, or e-mail address to participate in a survey. If you do give us personal information like your name or e-mail address in the survey form where it wasn't supposed to be included, we will delete it before storing the information or releasing it to any third party. We sometimes ask for your zip code only so that we can compare likes and dislikes and attitudes from different areas of our readership.</p><p>Sometimes we conduct surveys on behalf of a particular client. Again, any data we collect from a survey is edited before we release it to the client, and you remain completely anonymous. The survey reports we send to clients include only aggregated data, like 80% of girls said X and 64% of girls said Y. We disclose on every survey that we may be paid for the survey data. We will not participate in a survey on behalf of any client that will not take steps to protect your privacy.</p><p>All of our surveys are optional, and there are no prizes or rewards for participating in any 4tnz.com survey.<br><br><b>How does 4tnz.com protect my personal information?</b><br>We make every effort to ensure that your information is secure on our system. Only those employees who need access to your information in order to do their jobs are allowed access.</p><p>4tnz.com sometimes asks for your credit card information in order to provide you with goods or services that you request. This information is securely stored on our computers (also called "servers"). Credit card transactions take place only on servers that offer a high level of security. These transactions are handled by a third-party financial institution, Kable Fulfillment Services of Ohio, Inc., which receives the credit card number and other personal information you provide in order to verify the credit card number and process the transaction. This third party has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.</p><p>We do not collect personal information for the purpose of credit card transactions from users under the age of 13 and no personal information from children under 13 is shared with any third-party service provider.</p><p>Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to use. You do so at your own risk. You should always be careful and smart about the information you provide on-line. Remember, whenever you voluntarily provide personal information through e-mail, that information can be collected and used by others.<br><br><b>What are cookies and how does 4tnz.com use them?</b><br>Cookies are small pieces of data that are placed on your computer's hard drive when you visit 4tnz.com. Cookies are standard in the industry; you'll find them at most major websites.</p><p>Cookies allow 4tnz.com to keep track of which areas of our site you have visited and how long you spend at a particular site, to track your preferences and interests, and to personalize your experience at 4tnz.com. 4tnz.com uses anonymous cookies that are not linked to any identifying information about you. This means that your activity at the site will be logged, but you remain anonymous to us.</p><p>4tnz.com also may use cookies to help ensure that personal information is not collected from children under 13 without their parents' consent.<br><br><b>What is an IP address and how does 4tnz.com use it?</b><br>An IP address is a number that's automatically assigned to your computer whenever you're surfing the web - your computer's unique "signature." Web servers automatically identify your computer by its IP address.</p><p>When you visit 4tnz.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows 95), the browser software it uses (for example, Microsoft Internet Explorer or Netscape), and your Internet service provider (for example, AOL). This information helps us better understand the people who visit 4tnz.com. None of this information is linked to "personal information" about individual users - instead, it's information about the general population. As with cookies, your session will be logged, but you remain anonymous to us.</p><p>4tnz.com collects this general information to identify the most popular areas on our website and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on their advertisements.<br><br><b>What about privacy for users under age 13?</b><br>If you are under 13, you should always ask your parents for permission before sending any personal information to us or to anyone else. You should ask your parent or guardian to read this Privacy Policy and to participate with you in the registration process.</p><p>Except as otherwise described in this Policy, we do not knowingly collect or use any personal information from children under age 13 without first notifying and obtaining the express permission of a parent or guardian. The parent or guardian of children under 13 who register for any special contest, sweepstakes, or promotion sponsored by 4tnz.com will receive notice of the child's registration and the opportunity to cancel. Children under 13 who register for contests or sweepstakes and promotional opportunities will also be asked to provide their parent or guardian's E-mail address so that we can notify the parent or guardian if the child is the winner of the contest.</p><p>4tnz.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances.<br><br><b>How can a parent or guardian review this personal information collected from children under 13?</b><br>Parents have the right to review all personal information about children under 13 collected by 4tnz.com, can ask 4tnz.com to delete the information, and can refuse to permit 4tnz.com to collect or use the child's information in the future. If a parent or guardian wishes to review a child's personal information or ask 4tnz.com to delete that information, they should contact 4TNZ at the address and telephone number listed below, or send an e-mail request to team@4tnz.com. We will verify the identity of the parent or guardian before allowing them to review a child's personal information.<br><br><b>How can you correct or update your information?</b><br>If you would like to correct or update information that you have previously provided to 4tnz.com, you can let us know by sending us an e-mail at team@4tnz.com or mailing a letter to our postal address listed below.<br><b><br>How can you contact 4tnz.com?</b><br>If you have any questions about our privacy policy, the practices of this site, or want to reach us for any other reason, you can contact us at:</p><p>4TNZ<br>270 Sylvan Avenue<br>Englewood Cliffs, NJ 07632<br>(201) 569-6699<br>or E-mail us at:<br>team@4tnz.com</p><div class="tinyClearBoth">&nbsp;</div>
+	<p>We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read 4TNZ's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please e-mail us at contactus@4tnz.com.</p>
+
+<p>Remember, if you sign up for any of 4TNZ's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy.<br><br><b>What types of personal information does 4tnz.com collect?</b><br>We sometimes collect personal information from our users when you sign up for services at 4tnz.com or enter contests or sweepstakes. Personal information includes your first and last name, home or other address (like your school), telephone number, e-mail address, or any other information that tells another person who you are.<br><br>When you use some of the services provided by 4tnz.com, we ask for some contact information such as your name, address, and e-mail address, and financial information such as a credit card number. We give you notice and provide a link to this Privacy Policy at each location that asks you for personal information.<br><br>4tnz.com collects personal information in three ways:<br><br>You can subscribe on-line to receive a free online newsletter from 4tnz.com. 4tnz.com collects only your e-mail address to provide the online newsletter. If you are under the age of 13, you must provide the e-mail address of a parent or guardian before you will be able to receive future issues of the on-line newsletter, and 4tnz.com will notify your parent or guardian of the online newsletter subscription and give them the chance to cancel the subscription.</p>
+
+<p>You can open an account at 4tnz.com. 4tnz.com collects only the e-mail address and password you select, and your birthday. We do not monitor or collect information from your e-mail account unless a legal authority requests us to do so, a user interferes with our operations, or a user otherwise violates 4tnz.com's Terms of Use. If you are under the age of 13, you may open an e-mail account at 4tnz.com with a parent's prior permission.</p>
+
+<p>You can enter contests or sweepstakes sponsored by 4tnz.com. Our contests and sweepstakes require a minimal amount of information to register, but we always collect your e-mail address so that we can notify you of the results of the contest. If you are under the age of 13, you must provide the e-mail address of a parent or guardian when entering the contest, and 4tnz.com will notify the parent or guardian of your contest entry and give them the chance to cancel the entry. 4tnz.com is prohibited by law from conditioning your participation in a contest or sweepstakes on the disclosure of more personal information than is reasonably necessary to participate.</p>
+
+<p>We do not collect the e-mail addresses of people who write to us via e-mail except to respond to them. Unless we know that we have received the e-mail from a reader who is 13 or over, we will discard the e-mail addresses within 30 days.</p>
+
+<p>We may also collect other information about you, This is so you can enjoy certain services within the website and be involved in certain surveys. None of this information can be or is used to identify you personally, however.<br><br>You should also be aware that other companies may advertise on our site, and 4tnz.com may provide links to other websites. These advertisers and sites may collect data or solicit personal information from you. 4tnz.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites.<br><br><b>How does 4tnz.com use this information?</b><br>Our policy about using personal information is simple: Except as described in this Policy, 4tnz.com will not disclose or sell any of the personal information you provide to any third parties.</p>
+
+<p>4tnz.com uses the personal information you provide for recordkeeping purposes, for statistical analysis, to learn about you and your interests, to provide products and services you request, to tell you about other 4tnz.com services that might interest you, and to notify contests winners.</p>
+
+<p>We may disclose information about our users when we are required to by law, or when we have reason to believe that someone is causing injury to or interfering with our rights or property, other 4tnz.com users, or anyone else who could be harmed by those activities.<br><br><b>What about 4tnz.com's surveys?</b><br>We want to know what you think. 4tnz.com surveys and polls are questions we ask to learn more about our readers and their preferences and interests. Any data we collect from a survey is edited before we release it to any third party. When you participate in a survey, you are completely anonymous. We will never ask you for your name, address, or e-mail address to participate in a survey. If you do give us personal information like your name or e-mail address in the survey form where it wasn't supposed to be included, we will delete it before storing the information or releasing it to any third party. We sometimes ask for your zip code only so that we can compare likes and dislikes and attitudes from different areas of our readership.</p>
+
+<p>Sometimes we conduct surveys on behalf of a particular client. Again, any data we collect from a survey is edited before we release it to the client, and you remain completely anonymous. The survey reports we send to clients include only aggregated data, like 80% of girls said X and 64% of girls said Y. We disclose on every survey that we may be paid for the survey data. We will not participate in a survey on behalf of any client that will not take steps to protect your privacy.</p>
+
+<p>All of our surveys are optional, and there are no prizes or rewards for participating in any 4tnz.com survey.<br><br><b>How does 4tnz.com protect my personal information?</b><br>We make every effort to ensure that your information is secure on our system. Only those employees who need access to your information in order to do their jobs are allowed access.</p>
+
+<p>4tnz.com sometimes asks for your credit card information in order to provide you with goods or services that you request. This information is securely stored on our computers (also called "servers"). Credit card transactions take place only on servers that offer a high level of security. These transactions are handled by a third-party financial institution, Kable Fulfillment Services of Ohio, Inc., which receives the credit card number and other personal information you provide in order to verify the credit card number and process the transaction. This third party has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.</p>
+
+<p>We do not collect personal information for the purpose of credit card transactions from users under the age of 13 and no personal information from children under 13 is shared with any third-party service provider.</p>
+
+<p>Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to use. You do so at your own risk. You should always be careful and smart about the information you provide on-line. Remember, whenever you voluntarily provide personal information through e-mail, that information can be collected and used by others.<br><br><b>What are cookies and how does 4tnz.com use them?</b><br>Cookies are small pieces of data that are placed on your computer's hard drive when you visit 4tnz.com. Cookies are standard in the industry; you'll find them at most major websites.</p>
+
+<p>Cookies allow 4tnz.com to keep track of which areas of our site you have visited and how long you spend at a particular site, to track your preferences and interests, and to personalize your experience at 4tnz.com. 4tnz.com uses anonymous cookies that are not linked to any identifying information about you. This means that your activity at the site will be logged, but you remain anonymous to us.</p>
+
+<p>4tnz.com also may use cookies to help ensure that personal information is not collected from children under 13 without their parents' consent.<br><br><b>What is an IP address and how does 4tnz.com use it?</b><br>An IP address is a number that's automatically assigned to your computer whenever you're surfing the web - your computer's unique "signature." Web servers automatically identify your computer by its IP address.</p>
+
+<p>When you visit 4tnz.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows 95), the browser software it uses (for example, Microsoft Internet Explorer or Netscape), and your Internet service provider (for example, AOL). This information helps us better understand the people who visit 4tnz.com. None of this information is linked to "personal information" about individual users - instead, it's information about the general population. As with cookies, your session will be logged, but you remain anonymous to us.</p>
+
+<p>4tnz.com collects this general information to identify the most popular areas on our website and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on their advertisements.<br><br><b>What about privacy for users under age 13?</b><br>If you are under 13, you should always ask your parents for permission before sending any personal information to us or to anyone else. You should ask your parent or guardian to read this Privacy Policy and to participate with you in the registration process.</p>
+
+<p>Except as otherwise described in this Policy, we do not knowingly collect or use any personal information from children under age 13 without first notifying and obtaining the express permission of a parent or guardian. The parent or guardian of children under 13 who register for any special contest, sweepstakes, or promotion sponsored by 4tnz.com will receive notice of the child's registration and the opportunity to cancel. Children under 13 who register for contests or sweepstakes and promotional opportunities will also be asked to provide their parent or guardian's E-mail address so that we can notify the parent or guardian if the child is the winner of the contest.</p>
+
+<p>4tnz.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances.<br><br><b>How can a parent or guardian review this personal information collected from children under 13?</b><br>Parents have the right to review all personal information about children under 13 collected by 4tnz.com, can ask 4tnz.com to delete the information, and can refuse to permit 4tnz.com to collect or use the child's information in the future. If a parent or guardian wishes to review a child's personal information or ask 4tnz.com to delete that information, they should contact 4TNZ at the address and telephone number listed below, or send an e-mail request to contactus@4tnz.com. We will verify the identity of the parent or guardian before allowing them to review a child's personal information.<br><br><b>How can you correct or update your information?</b><br>If you would like to correct or update information that you have previously provided to 4tnz.com, you can let us know by sending us an e-mail at contactus@4tnz.com or mailing a letter to our postal address listed below.<br><b><br>How can you contact 4tnz.com?</b><br>If you have any questions about our privacy policy, the practices of this site, or want to reach us for any other reason, you can contact us at:</p>
+
+<p>4TNZ<br>270 Sylvan Avenue<br>Englewood Cliffs, NJ 07632<br>(201) 569-6699<br>or E-mail us at:<br>contactus@4tnz.com</p>
+<div class="tinyClearBoth">&nbsp;</div>
 
 </div>
 
 <!--Node Extras-->
 <div id="threeColsSingle">
-	
-<!--
-	<div id="rotflBox">
-		<div>Like it?</div>
-		<div class="rotflBox" id="vote_points_12584"><div class="number">384</div><div class="addRotfl"><span class="vote-up-inact" title="/vote_up_down/node/12584/1/1/1"><a href="/vote_up_down/node/12584/1?destination=node%2F12584" class="vote-up-inact" title="Vote"></a> </span></div></div>	</div>
--->
 	<div id="shareStory">
 		<h3>Share this with your Facebook friends!</h3>
-			<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.4tnz.com/privacy&amp;layout=standard&amp;show_faces=false&amp;width=218&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:218px; height:30px;" allowtransparency="true"></iframe>
+			<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.4tnz.com/content/privacy-policy&amp;layout=standard&amp;show_faces=false&amp;width=218&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:218px; height:30px;" allowtransparency="true"></iframe>
 	</div>
 	<div id="sendOwn">
 		<h3>Send us your own funny stuff!</h3>
@@ -211,7 +281,6 @@ GA_googleFillSlot("BTN_interstitial_code");
 <option value="just_jokes">Just Jokes</option>
 <option value="school_sucks">School Sucks</option>
 <option value="pictures">Pictures</option>
-<option value="funny_videos">Funny Videos</option>
 <option value="embarrassing_moments">Embarrassing Moments</option>
 		</select>
 	</div>
@@ -223,11 +292,6 @@ GA_googleFillSlot("BTN_interstitial_code");
 	GA_googleFillSlot("BTN_Countdown_Clock_2");
 </script>
 <!-- /Countdown -->
-<div id="comment-wrapper">
-	<!--BCCS-->
-	<script type="text/javascript" src="http://profile.bauerpublishing.com/js/bccs.js"></script>
-	<!--/BCCS-->
-</div>
 			<div id="text_ad_zone"></div>
 				<!-- /content -->
 
@@ -242,9 +306,9 @@ GA_googleFillSlot("BTN_interstitial_code");
 
   <div class="content"><div id="hugeTriangle" style="float: left;">  <a href="/type/static"><img src="/sites/all/modules/additional_content/hugeTriangle.jpg"></a></div>
 			<!-- Gossip item -->
-				<div class="item"><a href="/node/12651">
-				<div class="image"><img src="/sites/all/modules/image_assets/default_square.gif" width="60" alt="404!"><br></div>
-				<h3>404!</h3></a></div>
+				<div class="item"><a href="/node/12586">
+				<div class="image"><img src="/sites/all/modules/image_assets/default_square.gif" width="60" alt="Advertise on 4tnz"><br></div>
+				<h3>Advertise on 4tnz</h3></a></div>
 			<!-- /item -->
 			<!-- Gossip item -->
 				<div class="item"><a href="/node/12585">
@@ -252,9 +316,9 @@ GA_googleFillSlot("BTN_interstitial_code");
 				<h3>Terms of Use</h3></a></div>
 			<!-- /item -->
 			<!-- Gossip item -->
-				<div class="item"><a href="/node/12586">
-				<div class="image"><img src="/sites/all/modules/image_assets/default_square.gif" width="60" alt="Advertise on 4tnz"><br></div>
-				<h3>Advertise on 4tnz</h3></a></div>
+				<div class="item"><a href="/node/12651">
+				<div class="image"><img src="/sites/all/modules/image_assets/default_square.gif" width="60" alt="404!"><br></div>
+				<h3>404!</h3></a></div>
 			<!-- /item --><div class="moreGossip"><a href="/type/static" alt="More Static"><img src="/sites/all/themes/gridtheme/img/img_moreArrow.gif"></a></div></div>
 </div>
 	
@@ -268,28 +332,36 @@ GA_googleFillSlot("BTN_interstitial_code");
     	
 			<!-- Main right column : 300px wide -->
 			<div id="rightCol">
-				<!-- Right col ad: 300 x 250px -->
-				<div id="square_ad" class="ad">
-				<script type="text/javascript">
-				  GA_googleFillSlot("4tnz_site_300x250");
-				</script>
-				</div>
-			<!-- End Rght col ad -->
-			<div id="block-featured_video-0" class="block block-featured_video">
+  			<div id="block-block-9" class="block block-block">
 
 
-  <div class="content"><!-- Featured Video -->
-<div id="featured-video">
-  <div id="video-subhead">
-   <img height="37" width="173" alt="The 90 Second Scoop" src="/sites/all/themes/gridtheme/img/90secscoop_sub.gif">
-  </div>  
-  <div id="video-container">  <video class="sublime" width="288" height="160" poster="http://d1lamn0k5re0rc.cloudfront.net/90ss-20110125-poster-480.jpg" preload="none">
-  <source src="http://d1lamn0k5re0rc.cloudfront.net/90ss-20110125.mp4">
-  <source src="http://d1lamn0k5re0rc.cloudfront.net/90ss-20110125.ogv">
-  </video>
-   <div class="tinyClearBoth">&nbsp;</div>
-  </div>
-</div><!-- /featuredVideo --></div>
+  <div class="content"><!-- Right col ad: 300 x 250px -->
+<div id="square_ad" class="ad">
+<script type="text/javascript">
+  GA_googleFillSlot("4tnz_site_300x250");
+</script>
+</div></div>
+</div>
+<div id="block-featured_video-0" class="block block-featured_video">
+
+
+  <div class="content"><!-- Q&Q -->
+<div id="qqEsque">
+	<div class="item">
+		<a href="http://www.4tnz.com/content/ellen-gets-fun"><h3>4TNZ Fav Funny Video Pick</h3></a>
+		<a href="http://www.4tnz.com/content/ellen-gets-fun"><img src="http://www.4tnz.com/files/Screen shot 2012-05-21 at 4.13.59 PM.png" alt="4TNZ Fav Funny Video Pick"></a>
+	</div>
+	<div class="item"><a href="http://www.4tnz.com/node/12709">
+		<div class="image"><img src="http://www.4tnz.com/sites/all/themes/gridtheme/img/img_qnq_swearwordmachine.jpg" alt="Image"><br></div>
+		<h3>The Swearword Machine</h3>
+		<p>
+			Real words can't describe your anger? Time to make some up! The Swearword Machine is specially designed to
+			cater to filthiest of mouths. In just a few steps, you can baffle your friends with some custom-made cussin'.
+		</p>
+	</a>
+	<br clear="all">
+	</div><!-- /item -->
+</div><!-- /qqEsque --></div>
 </div>
 <div id="block-block-14" class="block block-block">
 
@@ -304,103 +376,45 @@ GA_googleFillSlot("BTN_interstitial_code");
 	<h4>Sites we like</h4>
 	<div class="col">
 		<ul>
-			<li><a href="http://www.j-14.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','j-14.com');">J-14</a></li>
-			<li><a href="http://www.jonasbrothersfan.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','jonasbrothersfan.com');">jonasbrothersfan.com</a></li>
-			<li><a href="http://www.glitterfy.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','glitterfy.com');">Glitter Graphics</a></li>
-			<li><a href="http://www.oceanup.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','oceanup.com');">OceanUp</a></li>
-<li><a href="http://www.TwilightGuide.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','twilightguide.com');">TwilightGuide.com</a></li>
-<li><a href="http://www.facebook.com/home.php#/pages/Twilight/8526405673?ref=ts" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.facebook.com/home.php#/pages/Twilight/8526405673?ref=ts');">Twilight Facebook Page</a></li>
-<li><a href="http://www.JustinDrewDaily.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.justindrewdaily.com');">JustinDrewDaily.com</a></li>
-<li><a href="http://www.NewMoonMovie.org" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.newmoonmovie.org');">NewMoonMovie.org</a></li>
-<li><a href="http://www.IHeartDaily.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.iheartdaily.com');">I Heart Daily</a></li>
-<li><a href="http://www.JonasHQ.org" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.jonashq.org');">JonasHQ.org</a></li><li><a href="http://www.jsyk.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','jsyk.com');">JSYK.com</a></li>
+			<li><a href="http://www.j-14.com" rel="nofollow" onclick="javascript: pageTracker._trackEvent('Outgoing','click','j-14.com');" target="_new">J-14</a></li>
+			<li><a href="http://www.mmm-mag.com" rel="nofollow" onclick="javascript: pageTracker._trackEvent('Outgoing','click','mmm-mag.com');" target="_new">M Magazine</a></li>
 		</ul>
 	</div>
 	<div class="col">
 		<ul>
-			<li><a href="http://www.mmm-mag.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','mmm-mag.com');">M Magazine</a></li>
-			<li><a href="http://www.juniorcelebs.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','juniorcelebs.com');">juniorcelebs.com</a></li>
-			<li><a href="http://www.disneysociety.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','disneysociety.com');">disneysociety.com</a></li>
-			<li><a href="http://www.twistmagazine.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','twistmagazine.com');">Twist Magazine</a></li>
-			<li><a href="http://www.stardoll.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','stardoll.com');">Stardoll: Fame, Fashion and Friends</a></li>
-			<li><a href="http://www.Twilight-Gossip.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','Twilight-Gossip.com');">Twilight-Gossip.com</a></li>
-<li><a href="http://www.EdwardsMeadow.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.edwardsmeadow.com');">EdwardsMeadow.com</a></li>
-<li><a href="http://www.EdwardCullenOnline.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.EdwardCullenOnline.com');">Edward Cullen Online</a></li>
-<li><a href="http://www.thematcheddepartment.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.thematcheddepartment.com');">The Matched Department</a></li><li><a href="http://www.thevanalenlegacy.com" onclick="javascript: pageTracker._trackEvent('Outgoing','click','http://www.thevanalenlegacy.com');">The Van Alen Legacy</a></li>
+			<li><a href="http://www.twistmagazine.com" rel="nofollow" onclick="javascript: pageTracker._trackEvent('Outgoing','click','twistmagazine.com');" target="_new">Twist Magazine</a></li>
+			<li><a href="http://www.oceanup.com" rel="nofollow" onclick="javascript: pageTracker._trackEvent('Outgoing','click','oceanup.com');" target="_new">OceanUp</a></li>
 		</ul>
 	</div>
 	<div class="tinyClearBoth">&nbsp;</div>
 </div><!-- /bffLinks --></div>
 </div>
-<div id="block-block-7" class="block block-block">
-
-
-  <div class="content"><!-- Q&Qesque foo -->
-<div id="qqEsque">
-
-	<!-- Q&Q item 2 -->
-	<div class="item"><a href="http://www.4tnz.com/content/whos-your-future-jobro-husband">
-		<div class="image">
-			<img src="http://www.4tnz.com/sites/all/themes/gridtheme/img/teasers/JonasWeddingTeaser.jpg" alt="Who‘s Your Future JoBro Husband?"><br>
-		</div>
-			<h3>Who‘s Your Future JoBro Husband?</h3>
-			<p>Here comes the bride... eventually! We know you‘re gonna marry one of these three 
-			cuties. But who will it be: Joe, Nick or Kevin?</p>
-	</a></div><!-- /item -->
-	
-
-	<!-- Q&Q item 4-->
-	<div class="item"><a href="http://www.4tnz.com/content/are-you-true-twilight-fanatic">
-		<div class="image">
-			<!-- This image must be 100 x 135px -->
-			<img src="http://www.4tnz.com/sites/all/themes/gridtheme/img/teasers/twilightteaser.jpg" alt="Are You A Twilight Fanatic?"><br>
-		</div>
-			<h3>Are You A "Twilight" Fanatic?</h3>
-			<p>OK, you‘ve seen the movie like a million times. But do you REALLY know all there is to know about this vampire phenomenon? See what your bloody IQ is!</p>
-	</a></div><!-- /item -->
-	<!-- Q&Q item 5-->
-	<div class="item"><a href="http://www.4tnz.com/node/12709">
-		<div class="image">
-			<!-- This image must be 100 x 135px -->
-			<img src="http://www.4tnz.com/sites/all/themes/gridtheme/img/img_qnq_swearwordmachine.jpg" alt="Image"><br>
-		</div>
-			<h3>The Swearword Machine</h3>
-			<p>Real words can't describe your anger? Time to make some up! The Swearword Machine is specially designed to cater to filthiest of mouths. In just a few steps, you can baffle your friends with some custom-made cussin'.</p>
-	</a></div><!-- /item -->
-	</div><!-- /qqEsque --></div>
-</div>
-			
 			</div><!-- /rightCol -->
 			
 			
 			<!-- Little middle column -->
 			<div id="middleCol">
-			<div class="item">
+        <script type="text/javascript">
+         GA_googleFillSlot("4tnz_site_160x600");
+        </script>
+  			<div class="item">
 	<h4>STORIES</h4>
 		<div class="item-list">
 			<ul>
 				<li>
-					<a href="/node/12408" alt="I Went Into The Men" s="" room="" by="" mistake'="">
+					<a href="/content/my-dad-talks-2-his-facebook" alt="My Dad Talks 2 His Facebook!">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/lost in translation.img_assist_custom_0.jpg" alt="I Went Into The Men" s="" room="" by="" mistake'="" width="24px">
+							<img src="/files/confused-woman_4_0.jpg" alt="My Dad Talks 2 His Facebook!" width="24px">
 						</div>
-						<div class="view-field view-data-node-title">I Went Into The Men's Room By Mistake</div>
+						<div class="view-field view-data-node-title">My Dad Talks 2 His Facebook!</div>
 					</a>
 				</li>
 				<li>
-					<a href="/node/12572" alt="Anonymous Readers Spill Their Guts!">
+					<a href="/content/time-when-my-mom-was-behind-me-movie-theater" alt="That Time When My Mom Was Behind Me In The Movie Theater ">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/I-Think-Mullets-Are-Sexy.img_assist_custom_0.jpg" alt="Anonymous Readers Spill Their Guts!" width="24px">
+							<img src="/files/perilmoviedate_0.jpg" alt="That Time When My Mom Was Behind Me In The Movie Theater " width="24px">
 						</div>
-						<div class="view-field view-data-node-title">Anonymous Readers Spill Their Guts!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/25484" alt="Homework Excuses: Cloning Robert Pattinson!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/homework_excuse_10_0.jpg" alt="Homework Excuses: Cloning Robert Pattinson!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Homework Excuses: Cloning Robert Pattinson!</div>
+						<div class="view-field view-data-node-title">That Time When My Mom Was Behind Me In The Movie Theater </div>
 					</a>
 				</li>		</ul>
 	</div> 
@@ -411,27 +425,11 @@ GA_googleFillSlot("BTN_interstitial_code");
 		<div class="item-list">
 			<ul>
 				<li>
-					<a href="/node/25221" alt="The Saxiest Walrus Ever!">
+					<a href="/content/what-happens-when-you-have-fun-job" alt="This Is What Happens When You Have A Fun Job">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/saxywalrus_0_0.jpg" alt="The Saxiest Walrus Ever!" width="24px">
+							<img src="/files/BackStreetBoys+Video_0.jpg" alt="This Is What Happens When You Have A Fun Job" width="24px">
 						</div>
-						<div class="view-field view-data-node-title">The Saxiest Walrus Ever!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/26116" alt="Taylor" s="" deleted="" &quot;csi&quot;="" scene!'="">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/taylor_swift_csi_0.jpg" alt="Taylor" s="" deleted="" &quot;csi&quot;="" scene!'="" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Taylor's Deleted "CSI" Scene!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/29307" alt="Wizards on Deck With Hannah: LOL Time!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/Picture 1_22_0.png" alt="Wizards on Deck With Hannah: LOL Time!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Wizards on Deck With Hannah: LOL Time!</div>
+						<div class="view-field view-data-node-title">This Is What Happens When You Have A Fun Job</div>
 					</a>
 				</li>		</ul>
 	</div> 
@@ -442,27 +440,19 @@ GA_googleFillSlot("BTN_interstitial_code");
 		<div class="item-list">
 			<ul>
 				<li>
-					<a href="/node/12807" alt="Would You Like A Side Of Cockroaches With That?">
+					<a href="/content/taylor-swifts-stuns-red-gown" alt="Taylor Swifts Stuns In Red Gown">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/mexican-mcdonalds.t_200_0.jpg" alt="Would You Like A Side Of Cockroaches With That?" width="24px">
+							<img src="/files/Taylor+Swift+BMA_0.jpg" alt="Taylor Swifts Stuns In Red Gown" width="24px">
 						</div>
-						<div class="view-field view-data-node-title">Would You Like A Side Of Cockroaches With That?</div>
+						<div class="view-field view-data-node-title">Taylor Swifts Stuns In Red Gown</div>
 					</a>
 				</li>
 				<li>
-					<a href="/node/24070" alt="Pigeon: &quot;My BFFs Got Cooked!&quot;">
+					<a href="/content/whats-going-gleeful-pic" alt="What" s="" going="" on="" in="" this="" gleeful="" pic?'="">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/goodbyemyfriend.t_250_0.jpg" alt="Pigeon: &quot;My BFFs Got Cooked!&quot;" width="24px">
+							<img src="/files/48BA5C6834D_0.jpg" alt="What" s="" going="" on="" in="" this="" gleeful="" pic?'="" width="24px">
 						</div>
-						<div class="view-field view-data-node-title">Pigeon: "My BFFs Got Cooked!"</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/28848" alt="Shopper" s="" best="" friend'="">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/doggroceries_0.jpg" alt="Shopper" s="" best="" friend'="" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Shopper's Best Friend</div>
+						<div class="view-field view-data-node-title">What's Going On In This Gleeful Pic?</div>
 					</a>
 				</li>		</ul>
 	</div> 
@@ -473,27 +463,27 @@ GA_googleFillSlot("BTN_interstitial_code");
 		<div class="item-list">
 			<ul>
 				<li>
-					<a href="/node/25169" alt="Robert &amp; Camilla: Sitting In A Tree?">
+					<a href="/content/take-notes-justin" alt="Take Notes, Justin! ">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/robert_camilla_0.jpg" alt="Robert &amp; Camilla: Sitting In A Tree?" width="24px">
+							<img src="/files/Louis-Tomlinson-girlfriend-Eleanor-Calder_0_0.jpg" alt="Take Notes, Justin! " width="24px">
 						</div>
-						<div class="view-field view-data-node-title">Robert &amp; Camilla: Sitting In A Tree?</div>
+						<div class="view-field view-data-node-title">Take Notes, Justin! </div>
 					</a>
 				</li>
 				<li>
-					<a href="/node/31782" alt="Preview New Twilight Death Cab Tune!">
+					<a href="/content/jbs-last-song-believe-4-selena" alt="Is JBs Last Song On Believe 4 Selena?">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/deathcabforcutie_4_0.jpg" alt="Preview New Twilight Death Cab Tune!" width="24px">
+							<img src="/files/justin-bieber-selena-gomez-romance-rumors_0.jpg" alt="Is JBs Last Song On Believe 4 Selena?" width="24px">
 						</div>
-						<div class="view-field view-data-node-title">Preview New Twilight Death Cab Tune!</div>
+						<div class="view-field view-data-node-title">Is JBs Last Song On Believe 4 Selena?</div>
 					</a>
 				</li>
 				<li>
-					<a href="/node/31816" alt="Ellen: New &quot;American Idol&quot; Judge!">
+					<a href="/content/oh-hes-busted" alt="Oh He" s="" busted!'="">
 						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/ellendegeneres_0.jpg" alt="Ellen: New &quot;American Idol&quot; Judge!" width="24px">
+							<img src="/files/Screen shot 2012-05-23 at 2.37.00 PM_0.png" alt="Oh He" s="" busted!'="" width="24px">
 						</div>
-						<div class="view-field view-data-node-title">Ellen: New "American Idol" Judge!</div>
+						<div class="view-field view-data-node-title">Oh He's Busted!</div>
 					</a>
 				</li>		</ul>
 	</div> 
@@ -502,124 +492,7 @@ GA_googleFillSlot("BTN_interstitial_code");
 </div><!-- /item --><div class="item">
 	<h4>QUIZZES</h4>
 		<div class="item-list">
-			<ul>
-				<li>
-					<a href="/node/19650" alt="WYR: July 2, 2008">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/default_wyr_square_filepath.gif" alt="WYR: July 2, 2008" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">WYR: July 2, 2008</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/21868" alt="WYR: July 17, 2008">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/default_wyr_square_filepath.gif" alt="WYR: July 17, 2008" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">WYR: July 17, 2008</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/25821" alt="WYR: February 6, 2009">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/default_wyr_square.gif" alt="WYR: February 6, 2009" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">WYR: February 6, 2009</div>
-					</a>
-				</li>		</ul>
-	</div> 
-	<div class="tinyClearBoth">&nbsp;</div>
-
-</div><!-- /item --><div class="item">
-	<h4>WIN IT!</h4>
-		<div class="item-list">
-			<ul>
-				<li>
-					<a href="/node/39895" alt="Tickets To See Justin and Sean!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/bieberkingston2_0.jpg" alt="Tickets To See Justin and Sean!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Tickets To See Justin and Sean!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/40493" alt="Love at First Bite: Twilight Cook Book!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/TwilightCookBook_0.jpg" alt="Love at First Bite: Twilight Cook Book!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Love at First Bite: Twilight Cook Book!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/40664" alt="A Brand New Bike!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/schwinn_bike_0.jpg" alt="A Brand New Bike!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">A Brand New Bike!</div>
-					</a>
-				</li>		</ul>
-	</div> 
-	<div class="tinyClearBoth">&nbsp;</div>
-
-</div><!-- /item --><div class="item">
-	<h4>GAMES</h4>
-		<div class="item-list">
-			<ul>
-				<li>
-					<a href="/node/13858" alt="Avoid The Falling POOP!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/poogameon.t_250_0.jpg" alt="Avoid The Falling POOP!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Avoid The Falling POOP!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/24785" alt="Cow Boxing: Udder Madness!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/cow_fighter.t_250_0.jpg" alt="Cow Boxing: Udder Madness!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Cow Boxing: Udder Madness!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/25900" alt="High School Musical Trivia">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/HSMgame_0.jpg" alt="High School Musical Trivia" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">High School Musical Trivia</div>
-					</a>
-				</li>		</ul>
-	</div> 
-	<div class="tinyClearBoth">&nbsp;</div>
-
-</div><!-- /item --><div class="item">
-	<h4>MOVIES &amp; TV</h4>
-		<div class="item-list">
-			<ul>
-				<li>
-					<a href="/node/24146" alt="The Wall Almost Killed Me!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/images/hole_in_the_wall.t_250_0.jpg" alt="The Wall Almost Killed Me!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">The Wall Almost Killed Me!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/24851" alt="Napoleon Slaps His Bro Silly!">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/Napoleon_Dynamite_0.png" alt="Napoleon Slaps His Bro Silly!" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">Napoleon Slaps His Bro Silly!</div>
-					</a>
-				</li>
-				<li>
-					<a href="/node/24894" alt="I Got The Zit From Hell">
-						<div class="view-field view-data-image-assets-square-filepath">
-							<img src="/files/date_movie_0.png" alt="I Got The Zit From Hell" width="24px">
-						</div>
-						<div class="view-field view-data-node-title">I Got The Zit From Hell</div>
-					</a>
-				</li>		</ul>
+			<ul>		</ul>
 	</div> 
 	<div class="tinyClearBoth">&nbsp;</div>
 
@@ -628,9 +501,9 @@ GA_googleFillSlot("BTN_interstitial_code");
 		<div class="tinyClearBoth">&nbsp;</div>
 <div id="footerLinks">
 	<a href="/sitemap.xml">Site Map</a> | 
-	<a href="/privacy/">Privacy policy</a> | 
-	<a href="/terms/">Terms of use</a> | 
-	<a href="/advertise/">Advertise with 4TNZ</a> |
+	<a href="/content/privacy-policy">Privacy policy</a> | 
+	<a href="/terms">Terms of use</a> | 
+	<a href="/content/advertise-4tnz">Advertise with 4TNZ</a> |
 	Part of the Bauer Teen Network
 </div>		
 <div style="display:none;">
@@ -658,9 +531,6 @@ GA_googleFillSlot("BTN_interstitial_code");
 		</div>
 	</div>
 </div>
-<script type="text/javascript">
-	HummingbirdTracker.track({sld: "4tnz", site: 'editorial'})
-</script>
 <script type="text/javascript">
 //Login function moved from footerlinks.html into proper .js file 2010-02-17 WR
 $("#login-submit").click(function(){
@@ -726,8 +596,8 @@ $(document).ready(function(){
 
 		<br clear="all"><br>	
 		<div id="parentContent" class="hidden">
-	<p class="right"><a href="javascript:approachingParent(false);">Previous Page</a></p>
-	<img src="/sites/all/themes/gridtheme/img/img_pos_funny.gif" lowsrc="/sites/all/themes/gridtheme/img/img_pos_funny_lowsrc.gif" alt="Q: How many existentialists does it take to screw in a light bulb?">
+	<!-- <p class="right"><a href="javascript:approachingParent(false);">Previous Page</a></p> -->
+	<img src="/sites/all/themes/gridtheme/img/img_ipb_mitosis.gif" lowsrc="/sites/all/themes/gridtheme/img/img_ipb_mitosis_lowsrc.gif" alt="Mitosis" border="0">
 </div>		<!-- BCCS Comments -->
 <script type="text/javascript"> 
 	var bccs_canonical_domain = 'www.4tnz.com';
@@ -744,7 +614,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
   _gaq.push(['t1._setAccount', 'UA-544320-15']);
   _gaq.push(['t1._setCustomVar', 1,'Application','Editorial',3]);
   _gaq.push(['t1._setDomainName', '.4tnz.com']);
-	  _gaq.push(['t1._trackPageview("/static/")']);
+	  _gaq.push(['t1._trackPageview','/static/privacy-policy']);
+  _gaq.push(['t1._trackPageLoadTime']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -764,30 +635,10 @@ labels:"TeenNetwork"
 <noscript>
 <a href="http://www.quantcast.com/p-650TyJC0S_R96" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-650TyJC0S_R96.gif?labels=TeenNetwork" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<!-- End Quantcast tag -->
-<!-- Begin comScore Tag -->
-<script>
-    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:8187616,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8187616&c3=&c4=&c5=&c6=&c15=&cj=1" />
-</noscript>
-<!-- End comScore Tag -->		<img src="http://a.admob.com/c0?a=a1493eddf991516" alt="" width="1" height="1">
-		<!-- FB SDK -->
+<!-- End Quantcast tag -->		<img src="http://a.admob.com/c0?a=a1493eddf991516" alt="" width="1" height="1">
+				<!-- FB SDK -->
 		<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-		<script>
+		<script type="text/javascript">
 		  window.fbAsyncInit = function() {
 		    FB.init({appId: '40476376599', status: true, cookie: true,
 		             xfbml: true});
