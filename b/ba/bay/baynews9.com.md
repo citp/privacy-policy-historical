@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005311id_/http%3A//www.baynews9.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526092336id_/http%3A//www.baynews9.com/content/news/baynews9/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Bay News 9 - Privacy Policy
+# Privacy Policy - Bay News 9
 
 In addition to reviewing this privacy policy, please read our User Agreement. Your use of **BayNews9.com** constitutes agreement to its terms and conditions.
 
@@ -8,7 +8,7 @@ In addition to reviewing this privacy policy, please read our User Agreement. Yo
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of **BayNews9.com** by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-It is the goal of **BayNews9.com** to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site. 
+It is the goal of **BayNews9.com** to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
 **The type of information BayNews9.com collects:**
 
@@ -26,7 +26,7 @@ We may also allow access to our database by third parties that provide us with s
 
 You may have read about "cookies," nuggets of information that are placed by a web site in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of **BayNews9.com** , you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer.
 
-Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies. 
+Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies.
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
 
@@ -49,16 +49,16 @@ If you're worried about your children's activities or their privacy on our site,
 
 We use third-party advertising services companies to serve ads when you visit **BayNews9.com**. A list of these ad serving companies as of the date of this privacy policy is as follows; we may add to or alter this list, and if we do so we will revise this privacy policy accordingly:
 
-1\. Valueclick   
-(<http://www.valueclick.com/privacy.html>) 
+1\. Valueclick  
+(<http://www.valueclick.com/privacy.html>)
 
-These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. 
+These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness.
 
 Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's ("NAI") consumer Web site at [www.networkadvertising.org/consumer/](http://www.networkadvertising.org/consumer/), and in particular, NAI's Ad Network "Opt-Out" page at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-If you have other concerns or questions about any aspect of this policy, you may also e-mail our web master. We welcome your feedback. You can also send us regular mail at the following address: 
+If you have other concerns or questions about any aspect of this policy, you may also e-mail our web master. We welcome your feedback. You can also send us regular mail at the following address:
 
 Webmaster  
-BayNews9.com   
-700 Carillon Parkway, Suite 9   
+BayNews9.com  
+700 Carillon Parkway, Suite 9  
 St. Petersburg, FL 33716
