@@ -1,33 +1,42 @@
-<!--The following is the downloaded HTML source of the get-paid.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623072127id_/http%3A//www.get-paid.com/modules/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the get-paid.com privacy policy that was archived on 2012-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120526100843id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="http://www.get-paid.com/favicon.ico" rel="shortcut icon">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-language" content="en">
 <meta name="robots" content="index,follow">
 <meta name="keywords" content="earn money, paid surveys, complete offers, work at home, gptreasure, get paid to,get paid">
 <meta name="description" content="Get paid to earn easy money online by filling out offers such as paid surveys. Gptreasure offers many ways to earn money online while working at home.">
-<meta name="rating" content="general">
-<meta name="author" content="Gptreasure">
-<meta name="copyright" content="Copyright © 2008-2011">
-<meta name="generator" content="XOOPS">
-<title>Gptreasure - Privacy</title>
-<link href="http://www.get-paid.com/favicon.ico" rel="SHORTCUT ICON">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.get-paid.com/xoops.css">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.get-paid.com/themes/blue_shine/style.css">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.get-paid.com/modules/newoffers/newoffers.css">
-
-<!-- RMV: added module header -->
-<link href="style.css" rel="stylesheet" type="text/css">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.get-paid.com/include/xoops.js">
+<title>Gptreasure - Privacy Policy</title>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.get-paid.com/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.get-paid.com/js/jcorner.js"></script>
+<script type="text/javascript" src="http://www.get-paid.com/js/custom.js"></script>
+<script type="text/javascript" src="http://www.get-paid.com/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="http://www.get-paid.com/js/organictabs.jquery.js"></script>
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://www.get-paid.com/js/PIE.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			if (window.PIE) {
+				$('.higlight-video').each(function() {
+					PIE.attach(this);
+				});
+			}
+		});
+	</script>
+	<style type="text/css">
+		.home_tab a:hover{background-color:transparent !important;}
+		.home_tab:hover{background:transparent url('img/nav_hover.png') no-repeat 0 2px !important;}
+		.email_tab a:hover{background-color:transparent !important;}
+		.email_tab:hover{background:transparent url('img/nav_hover.png') no-repeat right 2px !important;}
+	</style>
+<![endif]-->
+<link type="text/css" href="http://www.get-paid.com/js/smoothness/jquery-ui-1.8.16.custom.css" rel="Stylesheet">
+<script>
+document.cookie= 'bb_lastactivity=;expires=Sat, 01-Jan-2000 00:00:00 GMT';
+document.cookie= 'bb_lastvisit=;expires=Sat, 01-Jan-2000 00:00:00 GMT';
 </script>
-<link rel="stylesheet" href="http://www.get-paid.com/language/english/style.css" type="text/css">
-
-
-<script src="http://www.get-paid.com/js/submit.js" type="text/javascript" language="javascript"></script>
-<script src="http://www.get-paid.com/js/tabs.js" type="text/javascript" language="javascript"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -41,146 +50,418 @@
   })();
 
 </script>
-<script type="text/javascript">
-<!--
-
-//-->
+<script>
+$(function() {
+		$( "#tabs" ).tabs();
+	});
+$(document).ready(function() { 
+	$('.fb-login-button-custom').click(function() {
+		$.ajax({
+			type: "GET",
+			url: "fbregister.php",
+			success: function(data) {
+				if (data == 'redirect')
+				{
+					window.location = 'dashboard.php';
+				}
+				if (data == 'reg')
+				{
+					window.location = 'http://www.get-paid.com/?fbreg=1';
+				}
+			}
+		});
+	});
+	
+	//for position of inbox
+	$("#her-friendnoti").click(function(){
+    	var p = $(this).position();
+        $("#envelopebox").css({'left': p.left + 'px'});
+    });
+	
+	//for position of friend request
+	$("#friend_tab").click(function(){
+    	var p = $(this).position();
+        $("#friend_box").css({'left': p.left + 'px'});
+    });
+});
 </script>
-</head>
+<link rel="stylesheet" href="http://www.get-paid.com/main.css">
+<link rel="canonical" href="http://www.get-paid.com/privacy.php">
+<!--[if IE]>
+<style type="text/css" media="screen">
+
+
+@font-face {
+  font-family: 'Calibri';
+  src: url('calibri.eot');
+ 
+}
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('EC8D9_0.eot');
+ 
+}
+
+</style>
+<![endif]-->
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+
 <body>
-<!-- START HEADER-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" id="header" align="center">
-        <tbody><tr>
-          <td id="logo"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td><img src="http://www.get-paid.com/themes/blue_shine/images/logo2.png" alt="Gptreasure logo - Get Paid To Complete Offers"></td>
-              </tr>
-              <tr>
-                
-              </tr>
-          </tbody></table></td>
-          <td class="headerImg"></td>
-        </tr>
-    </tbody></table>
-  
-  
-    
-	<table cellspacing="0" cellpadding="0" width="100%" border="0" id="menu" align="center">
-        <tbody><tr align="center">
-          <td id="headmenu"><a class="menuHead" title="Gptreasure - Get paid to complete offers" href="http://www.get-paid.com/">Home</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="Frequently Asked Questions" href="http://www.get-paid.com/modules/faq/">FAQ</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="Latest news" href="http://www.get-paid.com/modules/news/">News</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="Referral Program" href="http://www.get-paid.com/modules/referral/">Referrals</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="Rules" href="http://www.get-paid.com/modules/rules/">Rules</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="Forum" href="http://www.get-paid.com/modules/newbb/">Forum</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="Contact us" href="http://www.get-paid.com/modules/contact/">Contact</a></td>
-          <td class="separator"></td>
-          <td id="headmenu"><a class="menuHead" title="List of offers" href="http://www.get-paid.com/modules/newoffers/"><font color="#FF0000">Offers</font></a></td>
-    	</tr>
-    </tbody></table>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+	appId      : '257343134346199',
+	status     : true, 
+	cookie     : true,
+	xfbml      : true,
+	oauth      : true
+  });
+	FB.Event.subscribe('auth.authResponseChange', function(resp) {
+		if (resp.status === 'connected')
+		{
+			$.ajax({
+				type: "GET",
+				url: "fbregister.php",
+				success: function(data) {
+					if (data == 'redirect')
+					{
+						window.location = 'dashboard.php';
+					}
+					if (data == 'reg')
+					{
+						window.location = 'http://www.get-paid.com/?fbreg=1';
+					}
+				}
+			});
+		}
+	});
+};
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+ }(document));
+ 
+</script>
 
-<table cellspacing="0" id="Main" align="center">
-    <tbody><tr>
-	        <td id="leftcolumn">
-        <!-- Start left blocks loop -->
-                  <div class="blockTitle"><h3>Login</h3></div>
-<div class="blockContent"><form style="margin-top: 0px;" action="http://www.get-paid.com/user.php" method="post">
-    Username: <br>
-    <input type="text" name="uname" size="12" value="" maxlength="25"><br>
-    Password: <br>
-    <input type="password" name="pass" size="12" maxlength="32"><br>
-            <input type="checkbox" name="rememberme" value="On" class="formButton">Remember me<br>
-        <br>
-    <input type="hidden" name="xoops_redirect" value="/modules/privacy/">
-    <input type="hidden" name="op" value="login">
-    <input type="submit" value="User Login"><br>
-    
-</form>
-<br>
-<a href="http://www.get-paid.com/user.php#lost" title="Lost Password?">Lost Password?</a>
-<br><br>
-<a href="/register.php" title="Register Now!">Register Now!</a> </div>                  <div class="blockTitle"><h3>Share our website</h3></div>
-<div class="blockContent"><br>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
 
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style">
-<a rel="nofollow" href="http://www.addthis.com/bookmark.php" class="addthis_button" style="text-decoration:none;">
-        <img style="padding-left:2em;" src="http://s7.addthis.com/static/btn/sm-plus.gif" width="16" height="16" border="0" alt="Share"> Share</a>
+
+<!--To implement different header for dashboard.php -->
+
+<div class="hd">
+	<div class="menu">
+        <ul class="dropdown">
+        	<div class="fb-login-button" data-scope="email,publish_stream,user_birthday">Connect</div>            <li class="home_tab"><a href="http://www.get-paid.com/"></a></li>
+            <li id="lidashboard"><a href="http://www.get-paid.com/offers.php">Earn cash</a>
+                <ul>
+                    <div id="earncashbox">
+                        <div style="float:left">
+                            <div id="earncashboxtitle">CLASSICAL</div>
+                            <div id="earncashboxcontent">
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=offers">Offers</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=pathoffers">Path Offers</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=surveys">Surveys</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=points">Points</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=dailysurveys">Daily Surveys</a></div>
+                                <div id="earncashlastleft" class="earncashbutton"><a href=""></a></div>
+                            </div>
+                        </div>
+                        <div id="earncashmidline"><div id="earncashmidline1"></div><div id="earncashmidline2"></div><div id="earncashmidline3"></div></div>
+                        <div style="float:left">
+                            <div id="earncashboxtitle">EXTERNAL</div>
+                            <div id="earncashboxcontent">
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=videos">Videos</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=tasks">Tasks</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=radiumone">Radium One</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=sponsorpay">Sponsor Pay</a></div>
+                                <div class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=paymentwall">Payment Wall</a></div>
+                                <div id="earncashlastright" class="earncashbutton"><a href="http://www.get-paid.com/offers.php?tab=supersonicads">Supersonic Ads</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </ul>
+            </li>
+            <li id="ligames"><a href="http://www.get-paid.com/games.php">Games</a>
+                <ul>
+                    <li><a href="http://www.get-paid.com/games.php">Play Games</a></li>
+                    <li class="last_sub_menu"><a href="http://www.get-paid.com/games.php?action=tourhistory">Tournament Results</a></li>
+                </ul>
+            </li>
+            <li id="lireferral"><a href="http://www.get-paid.com/referral.php">Referrals</a>
+                <ul>
+                    <li><a href="http://www.get-paid.com/referral.php?go=getstart">Getting Started</a></li>
+                    <li><a href="http://www.get-paid.com/referral.php?go=banners">My Banners</a></li>
+                    <li class="last_sub_menu"><a href="http://www.get-paid.com/referral.php?go=myrefs">Referrals</a></li>
+                </ul>
+            </li>
+            <li id="licontest"><a href="http://www.get-paid.com/contest.php">Contests</a>
+                <ul>
+                    <li><a href="http://www.get-paid.com/contest.php">This month</a></li>
+                    <li><a href="http://www.get-paid.com/contest.php?lastmonth=yes">Last month</a></li>
+                    <li class="last_sub_menu"><a href="http://www.get-paid.com/forum/showthread.php?14292-March-20-2012-DAILY-CONTESTS-!">Facebook trivia</a></li>
+                </ul>
+            </li>
+            <li id="liforums"><a href="http://www.get-paid.com/forum.php">Forums</a></li>
+            <li id="lifaqs" class="last_tab"><a href="http://www.get-paid.com/faqs.php">Help</a>
+                <ul>
+                    <li><a href="http://www.get-paid.com/faqs.php">FAQ's</a></li>
+                    <li class="last_sub_menu"><a href="http://www.get-paid.com/contact.php">Contact us</a></li>
+                </ul>
+            </li>
+            
+                    <li class="status_tab">
+                        <a id="loginli" href="http://www.get-paid.com/login.php">Login</a> - 
+                        <a href="http://www.get-paid.com/">Register</a>
+                    </li>
+                    <div id="loginbox">
+                        <form method="post" enctype="multipart/form-data" action="forum/login.php?do=login">
+                        <input type="hidden" name="do" value="login">
+                        <input type="hidden" name="url" value="/">
+                        Username: <input type="text" class="inputtext" name="vb_login_username"><br>
+                        Password: <input type="password" class="inputtext" name="vb_login_password"><br>
+                        <input type="submit" value="Login"></form>
+                    </div>        </ul>
+        <div class="clear"></div>
+    </div>
+	<div class="main_box">
+		<div class="hd_btm">
+        	            <div class="logomain">
+				<a href="http://www.get-paid.com/"><img src="http://www.get-paid.com/img/logo.png"></a>
+			</div>
+						<div class="clear"></div>
+		</div>
+	</div>
 </div>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=gptreasure"></script>
-<!-- AddThis Button END --></div>                  <div class="blockTitle"><h3>Advertisement</h3></div>
-<div class="blockContent"><center>
-<br><br>
-<!-- Dream Team Money rate us banner -->
-<a rel="nofollow" href="http://www.dreamteammoney.com/index.php?showtopic=6542" target="_blank"><img src="http://www.dreamteammoney.com/rating16542.gif" border="0"></a><br>
-<b><a rel="nofollow" href="http://www.dreamteammoney.com/splash" target="_blank">
-<span style="font-family: Verdana, Tahoma, Arial, Trebuchet MS, Sans-Serif, Georgia, Courier, Times New Roman, Serif; font-size: 10px;">GPT Marketing Forum</span></a></b>
-<!-- Dream Team Money rate us banner -->
-<br><br></center></div>                <!-- End left blocks loop -->      </td>
-           <td id="centercolumn">
-        <!-- Display center blocks if any -->
-<div id="banner">&nbsp;</div>
-  <table cellspacing="0" class="centercol">
-    <tbody><tr>
-      <td id="centerCcolumn" colspan="2">
-        <!-- Start center-center blocks loop -->
- <div style="padding: 5px;">
-    <div class="blockTitle"><h2>Privacy Policy</h2></div>
-    <div class="blockContent">When a user registers to Gptreasure.com he needs to enter: username, password,
-and email.<br>
-This is the only minimal information Gptreasure collects from its registered
-users.<br>
-Gptreasure.com is committed to protect its users' privacy, and will not share
-this information with anyone else!<br>
-<br>
-In addition, there are some cases when a user gives out more information
-than what mentioned above.<br>
-For instance, if there's a problem with an offer that a user tried to complete
-and the user needs to provide Gptreasure.com with personal information (such
-as print screen of an order that he placed).<br>
-Gptreasure.com is committed to protect users' privacy<u> in any case whatsoever</u>
-and all information Gptreasure.com gets from its users will be kept confidential.<br></div>
-</div>         <!-- End center-center blocks loop -->      </td>
-    </tr>
-    <tr>
-      <td id="centerLcolumn">
-        <!-- Start center-left blocks loop -->
-        <!-- End center-left blocks loop -->      </td>
-      <td id="centerRcolumn">
-        <!-- Start center-right blocks loop -->
-        <!-- End center-right blocks loop -->      </td>
-    </tr>
-  </tbody></table>
-  <!-- End display center blocks -->
-  <div id="content"> 
- </div>
- </td>
-          </tr>
-    <tr>
-      <td colspan="3" class="footer">Copyright © 2008 - 2011 | Gptreasure - All Rights Reserved | <a href="http://www.get-paid.com/modules/privacy" title="Privacy policy"><b>Privacy Policy</b></a> | <a href="http://www.get-paid.com/modules/terms" title="Terms and Conditions"><b>Special Terms &amp; Updates</b></a><br>
-      </td>
-    </tr>
-</tbody></table>
-<!-- TradeDoubler site verification 1610850 -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12607898-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+<div class="blackbackgroundwindow">
+	<div class="rwindowout">
+		<div class="rwindowclosebar">
+			<div class="rwindowheader"></div>
+			<div class="rwindowclosebutton"></div>
+		</div>
+		<div class="rwindowin"></div>
+	</div>
+</div><div id="banner_norm">
+	<div class="main">
+    	<h1>Privacy Policy</h1>
+    </div>
+</div>
+
+<div id="content">
+
+	<div class="main">
+    	 <div id="content_frame">
+         	<div class="top"></div>
+            <div class="mid" style="display:block; overflow:hidden;"><div style="margin:10px;">
 
 
-<meta http-equiv="Expires" content="0">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Pragma" content="no-cache">
+
+
+
+
+
+
+<h1>
+	<b style="font-size: 10pt; font-family: Arial, Helvetica, sans-serif; color: rgb(56, 56, 56); ">What Our Privacy Policy Covers</b></h1>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Please read this privacy policy to learn more about:</font></font></p>
+<ol>
+	<li>
+		<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.53cm; background-position: initial initial; background-repeat: initial initial; ">
+			<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">What personally identifiable information of yours is collected by Get-Paid.com.com (“Get-Paid.com”) or by third-party advertisers (together, the “Third-Parties” or individually a “Third-Party” );</font></font></p>
+	</li>
+	<li>
+		<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.53cm; background-position: initial initial; background-repeat: initial initial; ">
+			<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">How the information is used;</font></font></p>
+	</li>
+	<li>
+		<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.53cm; background-position: initial initial; background-repeat: initial initial; ">
+			<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">How you can access and change your account information;</font></font></p>
+	</li>
+	<li>
+		<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.53cm; background-position: initial initial; background-repeat: initial initial; ">
+			<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">How you will receive notice of changes in this privacy policy; and</font></font></p>
+	</li>
+	<li>
+		<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.53cm; background-position: initial initial; background-repeat: initial initial; ">
+			<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">How to contact Get-Paid.com.</font></font></p>
+		<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.53cm; background-position: initial initial; background-repeat: initial initial; ">
+			&nbsp;</p>
+	</li>
+</ol>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Information Collected by Get-Paid.com</b></font></font></h6>
+<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">To become a member of Get-Paid.com, you must register and create an account on the Get-Paid.com website. The only information that Get-Paid.com collects is the information you provide through the Get-Paid.com registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address (“IP address”), and other contact information. Your IP address is recorded when you register, so that Get-Paid.com can enforce its one account per person policy and other provisions of our&nbsp;</font></font><u><font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt"><span style="background: transparent"><a href="http://www.get-paid.com/specialterms.php">Terms of Service</a> and <a href="http://www.get-paid.com/rules.php">Rules</a>.</span></font></font></u></p>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Other information, that does not personally identify you as an individual, is collected by Get-Paid.com from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by Get-Paid.com. This information can be utilized by Get-Paid.com in such manner as Get-Paid.com, in its sole discretion, deems appropriate.</font></font></p>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Information Sharing &amp; Disclosure</b></font></font></h6>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">In the event that you subscribe to or opt-in a Third-Party offer, Get-Paid.com may provide your information to the Third-Party in order to directly faciliate the relationship between you and the advertiser.</font></font></p>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Your email address may also be used for tracking purposes, when you complete offers, so that Get-Paid.com can determine that you completed the offers. Get-Paid.com will also use your email address to send you the Get-Paid.com newsletters, unless you have opted out of receiving such newsletters. <b>You can OPTOUT anytime by going to <a href="http://www.get-paid.com/profile.php?action=edit">'My account'</a>, under PERSONAL DETAILS </b> .</font></font></p>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<span style="font-family: Arial, Helvetica, sans-serif; ">Get-Paid.com is committed to protect its users' privacy, and will not share this information with anyone else, beside in the cases&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; ">mentioned&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; ">above.</span></p>
+<p>
+	<span style="font-family: Arial, Helvetica, sans-serif; ">In addition, there are some cases when a user gives out more information than what mentioned above.</span><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; ">
+	<span style="font-family: Arial, Helvetica, sans-serif; ">For instance, if there's a problem with an offer that a user tried to complete and the user needs to provide Get-Paid.com with personal information (such as print screen of an order that he placed).</span><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; ">
+	<span style="font-family: Arial, Helvetica, sans-serif; ">Get-Paid.com is committed to protect users' privacy</span><u style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; ">&nbsp;in any case whatsoever</u><span style="font-family: Arial, Helvetica, sans-serif; ">&nbsp;and all information Get-Paid.com gets from its users will be kept confidential.</span></p>
+<p>
+	&nbsp;</p>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Information Provided to Third-Parties or Other Users</b></font></font></h6>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Get-Paid.com.com (“Get-Paid.com”) deals in large part with the Third-Parties. You may be asked by the Third-Parties to give them your personally identifiable information, either when you complete an offer, when you use their websites, or by some other means. Get-Paid.com is not responsible for information you provide the Third-Parties, and you should read their privacy policies as well before providing them with any such information. Please note, unless otherwise stated, any offer you complete on Get-Paid.com.com will be with a Third-Party.</font></font></p>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Any information you post on the Get-Paid.com website or send through Get-Paid.com’s Message Center may be available to other Get-Paid.com users or viewers of the Get-Paid.com website. Get-Paid.com is not responsible for the information you post on the Get-Paid.com website or for information you provide other Get-Paid.com users, all of which you do at your own risk.</font></font></p>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Legal Disclaimer</b></font></font></h6>
+<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">It is possible that Get-Paid.com may need to disclose your personally identifiable information from time to time. Specifically, Get-Paid.com may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Get-Paid.com has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Get-Paid.com’s&nbsp;</font><font size="2" style="font-size: 9pt; ">&nbsp;</font></font><u><font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt; "><span style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; background-position: initial initial; background-repeat: initial initial; "><a href="http://www.get-paid.com/specialterms.php">Terms of Service</a>&nbsp;and&nbsp;<a href="http://www.get-paid.com/rules.php">Rules</a>,</span></font></font></u><span style="font-size: 9pt; font-family: Arial, Helvetica, sans-serif; line-height: 0.58cm; ">&nbsp;(2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Get-Paid.com, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Get-Paid.com’s rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.</span></p>
+<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	&nbsp;</p>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Managing Your Information</b></font></font></h6>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">You can review the personal information you have provided Get-Paid.com and make any desired changes to that information by logging in to your account on the Get-Paid.com website, clicking on the “My Account” icon in the “Members Area” section of the Get-Paid.com website, by editing the information, and then by submitting the revised information. You should update Get-Paid.com on any changes that occur, which would make the information you have provided Get-Paid.com inaccurate or misleading.</font></font></p>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Changes to this Privacy Policy</b></font></font></h6>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Notice of all changes that materially affect ways in which your personally identifiable information may be used or shared will be emailed to you or posted on the Get-Paid.com website. Your continued use of the Get-Paid.com program after such notices of changes have been sent to you or published on the Get-Paid.com website constitutes your consent to the changes.</font></font></p>
+<h6 class="western" style="margin-top: 0cm; margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 10pt"><b>Questions &amp; Comments</b></font></font></h6>
+<p class="western" style="margin-bottom: 0cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Unless stated otherwise, Get-Paid.com’s current privacy policy applies to all information that Get-Paid.com has about you and your account. If you have any questions or comments regarding your privacy or this privacy policy, you should&nbsp;</font></font><a href="http://www.get-paid.com/contact.php"><font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt"><u><span style="background: transparent">contact Get-Paid.com</span></u></font></font></a><font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">&nbsp;prior to providing Get-Paid.com any personally identifiable information.</font></font></p>
+<p class="western" style="margin-bottom: 0.53cm; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; border-image: initial; padding-top: 0cm; padding-right: 0cm; padding-bottom: 0cm; padding-left: 0cm; line-height: 0.58cm; ">
+	<font face="Arial, Helvetica, sans-serif"><font size="2" style="font-size: 9pt">Last Updated: January 19th, 2012.</font></font></p>
+
+
+
+
+
+
+
+
+
+
+
+		    </div>
+            </div>
+            <div class="bot"></div>
+               
+           
+          
+         </div>
+         			<div class="social_box">
+            	<div class="top"></div>
+                <div class="content">                
+                	<center>We are on <span class="facebook"><a href="http://www.facebook.com/pages/Gptreasurecom-Get-Paid-to-Complete-Offers/157020064341408" target="_blank">facebook</a></span></center>
+                    <span class="line"></span>
+                    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like-box" data-href="http://www.facebook.com/pages/Gptreasurecom-Get-Paid-to-Complete-Offers/157020064341408" data-width="273" data-show-faces="true" data-stream="false" data-header="true"></div>
+<span class="line"></span>
+                    <center>We Are Social, Join Us</center>
+                    <span class="line"></span>
+                    <center><img src="http://www.get-paid.com/img/index_social_icon.png" border="0" usemap="#Map">
+                      <map name="Map" id="Map">
+                        <area shape="rect" coords="10,0,41,30" href="https://twitter.com/#!/Gptreasure27 " target="_blank" alt="Twitter">
+                        <area shape="rect" coords="51,3,80,29" href="http://www.facebook.com/pages/Gptreasurecom-Get-Paid-to-Complete-Offers/157020064341408" target="_blank" alt="Facebook">
+                      </map>
+                  </center>
+                </div>
+                <div class="bot"></div>
+				<br><br>
+                <!-- Place this tag where you want the badge to render -->
+<div class="g-plus" data-href="https://plus.google.com/113159768158875164247" data-width="300" data-height="69" data-theme="light"></div>
+            </div>
+			<a href="http://www.get-paid.com/register.php" style="float:right; clear:right; margin-right:27px; margin-top:20px;"><img src="http://www.get-paid.com/img/social_box_reg_button.png"></a>    </div>
+</div>
+
+<script type="text/javascript">
+
+</script>
+
+
+<div id="footer">
+	<div class="main">
+    	<div class="block_text">
+       	  <h3>About us</h3>
+          <a href="http://www.get-paid.com/faqs.php">Read our FAQs</a><br>
+          <a href="http://www.get-paid.com/contact.php">Contact Us</a><br>
+		  <a href="http://www.get-paid.com/blog/">Check Blog</a><br>
+        </div>
+        <div class="block_text">
+       	  <h3>Get Paid With Us!</h3>
+       	  <a href="http://www.get-paid.com/register.php">Join us</a><br>
+		  <a href="http://www.get-paid.com/rules.php">Rules</a><br>
+		  <a href="http://www.get-paid.com/forum/">Visit Forum</a> <br>
+        </div>
+        <div class="block_text">
+       	         	  <h3><a href="/make-money/">Resources</a></h3>	       	
+        	
+			<a href="http://www.get-paid.com/how-to-make-money-fast/">How to Make Money Fast</a><br>
+			<a href="http://www.get-paid.com/how-to-make-extra-money/">How to Make Extra Money</a><br>
+			<a href="http://www.get-paid.com/earn-extra-income-from-home/">Earn Extra Income</a><br>
+			<a href="http://www.get-paid.com/work-from-home/">Work from Home</a><br>
+			<a href="http://www.get-paid.com/free-money-online/">Free Money Online</a><br>
+			<a href="http://www.get-paid.com/how-to-make-money/">How to Make Money</a><br>
+        </div>
+		<div class="block_text">
+       	  <h3>More Resources</h3>	       	
+        	
+			<a href="http://www.get-paid.com/ways-to-make-money-online/">Ways to Make Money Onine</a><br>
+			<a href="http://www.get-paid.com/earn-money/">Earn Money</a><br>
+			<a href="http://www.get-paid.com/how-to-get-rich/">How to Get Rich</a><br>
+			<a href="http://www.get-paid.com/i-need-money/">I Need Money</a><br>
+			<a href="http://www.get-paid.com/make-money-online/">Make Money Online</a><br>
+			<a href="http://www.get-paid.com/ways-to-make-money/">Ways to Make Money</a><br>
+		</div>
+        <a href="http://www.get-paid.com/referral.php" class="bottom_img_link"><img src="http://www.get-paid.com/img/referralsqure.png"></a>
+        <div id="copyright">
+    		Copyright © 2008 - 2012 | <a href="http://www.get-paid.com/"><b>Paid Surveys</b></a><b><a> by Get-Paid.Com</a></b><a> - All Rights Reserved | </a><a href="http://www.get-paid.com/privacy.php">Privacy Policy</a> | <a href="http://www.get-paid.com/specialterms.php">Special Terms &amp; Updates</a>
+    	</div>
+    </div>
+    
+</div>
+
+
+
+<!--<audio preload="auto" id="audio-alert-message" src="/sounds/preview.wav" />-->
+    
+
+
+
+
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+document.write(unescape("%3Cscript%20src='"+
+ (document.location.protocol=='https:'?
+  'https://clicktale.pantherssl.com/':
+  'http://s.clicktale.net/')+
+ "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(14317,0.5,"www03");
+</script>
+<!-- ClickTale end of Bottom part -->
+<!--<script src="http://www.linkstant.com/linkstant.js" type="text/javascript"></script>-->
 
 </body></html>
