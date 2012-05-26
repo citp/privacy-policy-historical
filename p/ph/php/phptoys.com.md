@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phptoys.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124045956id_/http%3A//phptoys.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phptoys.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526054849id_/http%3A//www.phptoys.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PhpToys.com Privacy Policy
 
