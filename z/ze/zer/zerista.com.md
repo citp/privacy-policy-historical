@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010170921id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526064122id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Zerista Privacy Policy
+# Privacy Policy | Zerista
 
 The Zerista site, www.Zerista.com and any related web services delivered by Zerista on partner sites (“Site”), are owned and operated by Zerista, Inc. (“Zerista”).
 
