@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126034554id_/http%3A//www.kathmandu.com.au/sc-privacy-statement-au/Information/2879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526130245id_/http%3A//www.kathmandu.com.au/sc-privacy-statement-au/Information/2879) for the most accurate reproduction.*
 
-# Girls Clothing -Outdoor Clothing for Girls -8-14 years - Kids Stainless Steel Bottle
+# Summit Club Privacy Statement - Kathmandu Australia
 
   * Personal information that you supply Kathmandu to join its Summit Club membership is only used by Kathmandu to send you information about Kathmandu products, and/or share outdoors, travel and adventure information.
 
