@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careercrate.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109221711id_/http%3A//careercrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercrate.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526032811id_/http%3A//careercrate.com/privacy) for the most accurate reproduction.*
 
-# CareerCrate
+# CareerCrate - The Best Careers, Jobs and Employment Video Site
 
 Privacy Statement Information
 
