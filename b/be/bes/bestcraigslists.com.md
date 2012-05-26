@@ -1,0 +1,46 @@
+> *The following text is extracted and transformed from the bestcraigslists.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526131552id_/http%3A//www.bestcraigslists.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+
+# Post Classifieds, Post Free Classified Ads, Jobs, For Sale, Vehicles, Matrimonial, Real Estate, Community, Services
+
+**PRIVACY POLICY:**
+
+The policy as described here by the website [http://www.bestcraigslists.com](http://www.bestcraigslists.com/) is described only for the information and data as collected by the company online and for their uses in internet. This does not pertain to any of the other domains or websites who ask for similar data. It is advised to the viewer beforehand to read the other online policy documents to be fully aware and be assured of the future of their furnished information. This is our policy document informing our customers and viewers about the data we ask from them and what and how we use the data taken. Going further into the website after this point is a default agreement on your part about the knowledge and acceptance of our privacy policy by you.
+
+**DATA WE TAKE FROM YOU:**  
+There is information that a viewer to the website is asked to furnish. It can either be for some of the personal information that the company thinks will help them serve the customer better or the company needs for their security safeguards. It can be to restrict viewer entry to some of the privileged sections of the website. The customer is also given a brief outline of the ways this information is supposed to be used but it is not solely binding.
+
+The other type of information is general in nature and collected as the customer goes through the site. This information is not individualistic and so can’t return back to the customer.  
+The viewer is always free to withheld information but that can restrict their mobility in the website.
+
+**THE PERSONAL INFORMATION:**  
+To put an order on the infinite information and viewers pouring in daily on the website it is needed to keep track of all the persons seeking information, this can only be done with the name and mail id of the viewer. These are personal information. To serve according to the interests and preferences of the customers some of the personal information will be needed. This can be mail id, choice of a particular service or any other information that can refer back to you. It is here emphasised that we take adequate measures to safeguard the personal information of our customers.
+
+**THE NON PERSONAL INFORMATION:**  
+This is a common internet practice to monitor the movements of a viewer in a website. This is done through automated software that keeps monitoring and storing the information to their respective warehouse of database. No information is saved in any identifiable tags but as common threads, so this information cannot identify a visitor. This is done to get the trend of visitor preferences and act and improve the website accordingly. 
+
+The monitoring is done by cookies which are small bundles of information software that store is as a group. There can be many parameters in this information bundle like date, day and time, portions of the site visited, sites visited after or before the current site and time of stay in the current site.  Visitors are at liberty to disable cookies by their individual server services but this can restrict their mobility and some functions of the site can be malfunctioning.
+
+**WHAT WE DO WITH THE INFORMATION:**  
+This has briefly been described before also. We take information to provide customised data that the customer asks for, or the preference of service needed. If a customer has a hobby of gardening we try to provide all our relative information regarding garden plants. Some special exclusive invitations are also sent. If a person is interested in classical music we can send one of our complementary issues to that person. For that the personal information of mail id will be needed. It is not mandatory to subscribe to the free issues and a customer can also unsubscribe from them by intimating us. Some of our services also go beyond the sphere of internet. A new eatery in the vicinity of a customer address is also intimated by us to the said customer. This is mostly done with a schematic map of the locality. This is personal information.
+
+We use non personal information to understand our customer choices and preferences better. How they want to use the website is also understood by this. The navigation to the most frequently visited page can be improved by using the collected information so that visitors are better suited to move there. There can also be some improvements in our functionality and services based on the non personal data collected. 
+
+We can outsource some of our processing and related work to another third party. To execute the work there might be need to share some of your personal data with them, which will be guided by the same privacy policy as described here. It can be said that all the heads involved in any personal information are guided by adequate privacy declarations to protect misuse of the data.  
+In legal need we are bound to share personal information. It can be with the police or with any other law enforcing agencies who can furnish enough documentation to establish the authority to access the data. The legally binding situations are only obliged for. There can be other instance of security of the website and related information and in such instances also the personal information is shared with the law enforcing agencies; this is specially emphasised that the sharing is for the brief period of the crisis only and not thereafter.
+
+There can also be other instances of sharing personal information but it is assured to you by us that without prior consent from any of our customers no such information is used and the customer is given the choice to participate or withdraw.
+
+**WAYS TO ACCESS AND MODIFY PERSONAL INFORMATION:**  
+There can be alterations in the personal information provided by you. Preferences can change, personal information like location also can change and some of the professional ones also can change. To inform us about the changes so that we can help in serving you better, it is judicious to update your personal database whenever there is any change in them. To alter your preferences it can also be done with a separate mailing to us. There is no such intimation needed for changing personal information. It can be done by logging in with the customised personal set of key characters and alter all that is needed. There are some issues tough. Some of our hard drives can be stubborn in retaining information and it is very tough to remove all traces from the website database. It is also our privilege to contact you in spite of your response to be out of online promotional activities regarding your visits to the respective website.
+
+**PRIVACY OF CHILDREN:  **  
+It is imperative that under all conditions we do not reveal the identity or information relating to identify anyone below the age of thirteen. This is one of the strongest principles that this website follows. WE DO NOT REVEAL IT. It is not even suggested to promote any part of the website to visitors below that age. Once it comes to our knowledge about the age of any visitor below thirteen they are also individually discouraged from providing any personal information in this platform. If even it is done by mistake then also it is immediately deleted from our database. All these can be done only when we know the age to be below thirteen. If anyone provides us a fabricated age above thirteen we are helpless.
+
+**SECURITY OF THE DATA COLLECTED:**  
+The personal data collected is maintained in adequate security. There are very few people who have access to that and all are required to maintain the code of conduct necessary. As an added safety there will be electronic monitoring systems for all those involved and others also. It is mentioned here that we can’t assure complete security for all the data transferred through any electronic medium and hence inform our inability for so. This implies that all the data that you furnish us are at own risk and we do not stand liable for the security lapses. 
+
+**TRANSFER PERMISSION:  **  
+Since this website is based in USA, it is very common for us to transfer any data of the person outside of the country in to USA and we inform you beforehand about that. Since you are involved in any activity of the website it is assumed already that you have permitted the transfer.
+
+**WEBSITE LINKS:**  
+It is a common internet practice to put links in the website. These links can be to any other website or to an allied website of the same publisher. Whatever be the case the privacy policy of data ends once you navigate out of the website and so it is stressed here to read each privacy policy of the new websites before venturing any personal information to them. This website does not have any responsibility towards your information furnished with any other website.  The privacy policy so described here covers only this website.
