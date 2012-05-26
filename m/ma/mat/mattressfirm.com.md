@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127012156id_/http%3A//www.mattressfirm.com/Privacy%2520Policy-M27.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527012517id_/http%3A//www.mattressfirm.com/Privacy%2520Policy-M27.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
