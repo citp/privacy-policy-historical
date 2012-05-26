@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the journalists.org privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506185643id_/http%3A//journalists.org%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalists.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527004315id_/https%3A//members.journalists.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online News Association
+# Privacy Policy | ONA Members
 
-Last Updated: November 10, 2008
+Last Updated: September 15, 2011
 
-This Privacy Policy discloses the privacy practices for the Online News Association Web site, located at www.Journalists.org (the “Site”), a service of the Online News Association (“ONA”). In this Privacy Policy, the terms “we,” “us,” or “our” refer to ONA, and the terms “you” and “your” refer to you as a user of the Site.
+This Privacy Policy discloses the privacy practices for the Online News Association Web site, located at [www.journalists.org](http://www.journalists.org/) and members.journalists.org (the “Site”), a service of the Online News Association (“ONA”). In this Privacy Policy, the terms “we,” “us,” or “our” refer to ONA, and the terms “you” and “your” refer to you as a user of the Site.
 
 We respect the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our practices. This Privacy Policy governs our collection of information from you through your use of the Site. It does not apply to any information you may provide to us through other means; for example, via mail, via telephone, or at conferences, workshops or other events. 
 
-By using this Site, you agree that your use of the Site and any disputes over our online privacy practices are governed by this Privacy Policy and our [Terms of Use](https://web.archive.org/?page=termsofuse). If you have questions about this policy, please contact us at [website@journalists.org](mailto:website@journalists.org).
+By using this Site, you agree that your use of the Site and any disputes over our online privacy practices are governed by this Privacy Policy and our Terms of Use. If you have questions about this policy, please contact us at [website@journalists.org](mailto:website@journalists.org).
 
-TYPES OF INFORMATION WE COLLECT 
+**TYPES OF INFORMATION WE COLLECT**
 
 The information we collect via the Site falls into two categories: (1) information that you voluntarily provide; and (2) anonymous information that may be automatically collected for purposes of Site management and operation. This information may be collected directly by us, or it may be collected by our third party website hosting provider, or another service provider, on our behalf. No personally identifiable information (such as your name, address, email address, or telephone number) is automatically collected via our Site; personally identifiable information about Site users is collected only when it is knowingly and voluntarily submitted by our users. 
 
-Information You Voluntarily Provide To Us 
+**Information You Voluntarily Provide To Us**
 
 We may collect and store information, personal or otherwise, that you voluntarily supply to us while on our Site or in communicating via email in connection with a feature provided on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, request email updates, or participate in surveys, and information that you post on message boards or other community posting areas on our Site. We may also ask for information (including a credit card number) from those who pay for an ONA membership, register for a conference, workshop or other event, or conduct other transactions on our Site. 
 
@@ -24,13 +24,13 @@ Also, each year, ONA recognizes outstanding online journalism through its Online
 
 The information you supply will help us provide the product or service requested, process your application or entry, offer you more personalized features, and tailor the Site to your interests. Supplying such information is entirely voluntary. However, if you choose not to supply the information requested, we may be unable to provide you with services made available to other users of our Site. 
 
-Information That Is Automatically Collected
+**Information That Is Automatically Collected**
 
 We also may collect and store information that is generated automatically as you navigate through our Site. For example, our Site’s servers automatically collect limited information about your computer's connection to the Internet, including your IP address. The IP address is a number that lets computers attached to the Internet know where to send data - such as the web pages users view. Your IP address does not tell us who you are. We use this information to deliver the Site’s content to you upon request and to measure traffic within the Site. Our Site’s servers also may log information such as the type of web browser software you use to access the Site, the operating system running on your computer, the speed of your computer’s CPU, and the web pages you visited immediately before and after you visited the Site, for purposes of measuring traffic patterns on the Site and the usage of Site services and features and optimizing the Site to accommodate our users. This information is not correlated with any personally identifying information you may provide.
 
 If you select the “Remember Me” option when you log in to access the Member Areas of our Site, we will use a standard feature of browser software called a "cookie" to store your username and password so that you will not need to log in the next time you visit. Of course, you are free to set your web browser not to accept cookies; however, doing so may render your computer unable to take advantage of the “Remember Me” feature and possibly other personalized features enjoyed by other users of the Site. 
 
-USE AND DISCLOSURE OF INFORMATION
+**USE AND DISCLOSURE OF INFORMATION**
 
 As indicated above, we may use the information that you provided to us, and that is automatically collected as you use our Site, in a variety of ways, including, but not limited to, for purposes of processing your registration or membership request, providing you with a product or service you have requested, sending you RSS feeds you have requested, sending you email updates and other communications, customizing features that appear on the Site, delivering our Site content to you, measuring Site traffic and improving the Site and the services and features offered via the Site. 
 
@@ -52,28 +52,28 @@ Please be aware that we may occasionally release information about our Site visi
 
 Please also note that in the unlikely event that ONA or substantially all of ONA’s assets are acquired by another organization or company, information about our visitors may be among the transferred assets.
 
-INTERNATIONAL USE
+**INTERNATIONAL USE**
 
 To our international members, please recognize that the information that is collected via the Site will be stored and processed in the United States. By using the Site, you consent to the transfer of such information outside of your country. 
 
-THIRD-PARTY SITES
+**THIRD-PARTY SITES**
 
 Our Site may include links to third party websites whose privacy policies we do not control. Once you leave our Site, any information you provide at another site will be governed by the privacy policy of the operator of the site you are visiting. The privacy policies of third party websites may differ from that of our Site. 
 
-CHILDREN’S PRIVACY
+**CHILDREN’S PRIVACY**
 
 This Site is not directed to children under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of 13, we will delete such information from our records. Because we do not collect any personally identifiable information from children under the age of 13, we also do not knowingly distribute any such information to third parties. We do not knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information. 
 
-MODIFYING YOUR INFORMATION AND PRIVACY PREFERENCES
+**MODIFYING YOUR INFORMATION AND PRIVACY PREFERENCES**
 
-If you are or become an ONA member and you register on the Site, you will have the opportunity to review, update, change or delete the information you have provided us (and that we continue to store) at any time. If you remove your registration information completely, you may not be able to continue using certain services that require registration. To review, update, change or delete your membership or registration information, log in to the Site and click on the “Edit My Profile” or “Membership Info” links, as applicable. 
+If you are or become an ONA member and you register on the Site, you will have the opportunity to review, update, change or delete the information you have provided us (and that we continue to store) at any time. If you remove your registration information completely, you may not be able to continue using certain services that require registration. To review, update, change or delete your membership or registration information, log in to the Site and click on the “Edit Profile” or “Edit Account” links, as applicable. 
 
-You may also control certain privacy features on our Site, such as whether other registered members can view your list of professional connections, or whether your “Online Now” status is displayed to other registered users so that they can start a chat with you. To set your privacy preferences, log in to the Site and and click on the “My Preferences” link. 
+You may also control certain privacy features on our Site, such as whether other registered members can view your profile information. To set your privacy preferences, log in to the Site and and click on the “Edit Profile” link, then click on the “Privacy Settings” link.
 
-STORAGE OF INFORMATION
+**STORAGE OF INFORMATION**
 
 All information gathered on our Site is stored within a database to which only ONA and its hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
 
-CHANGES TO THIS POLICY
+**CHANGES TO THIS POLICY**
 
 If we need to change this Privacy Policy at some point in the future, we will post the modified Privacy Policy on the Site and update the “Last Updated” date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
