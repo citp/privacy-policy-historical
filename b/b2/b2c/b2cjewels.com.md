@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2cjewels.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011072226id_/http%3A//b2cjewels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2cjewels.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526045915id_/http%3A//www.b2cjewels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # B2C Jewels - Privacy Policy
 
