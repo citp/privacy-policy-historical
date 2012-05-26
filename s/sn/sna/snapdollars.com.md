@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapdollars.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126152610id_/http%3A//www.snapdollars.com/privacy%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D520%26width%3D700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapdollars.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526115059id_/http%3A//www.snapdollars.com/privacy%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D520%26width%3D700) for the most accurate reproduction.*
 
 # Privacy Policy
 
