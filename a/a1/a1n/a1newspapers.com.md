@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2011-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110721010809id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1newspapers.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526044612id_/http%3A//www.a1newspapers.com/Privacy-Policy-a1newspapers.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
