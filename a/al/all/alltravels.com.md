@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125165947id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526064023id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy :: AllTravels :: Anywhere You Want To Go & Anything You Want To Do ::.
 
@@ -53,9 +53,11 @@ Nonetheless, we seek to protect your user experience and the integrity of our si
 
 * * *
 
-| 
-
 [Please contact us if you have any questions about this Privacy Policy](http://www.alltravels.com/contact/ "Click here to open the contact section home page").
+
+* * *
+
+[](https://www.google.com/adplanner/planning/site_profile?nh=true#siteDetails?identifier=alltravels.com "Check out this site on DoubleClick Ad Planner by Google") **You can target this site on the Google Advertising Network,[click here to see our current traffic and demographics](https://www.google.com/adplanner/planning/site_profile?nh=true#siteDetails?identifier=alltravels.com "Click here to see our current traffic and demographics at DoubleClick Ad Planner by Google - this link opens in a new browser window or tab").**
 
 * * *
 
