@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126224110id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527004016id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
 
 # Privacy Policy for Idol-Mania.com
 
@@ -38,22 +38,17 @@ egehler(at sign)gmail.com
 
 PS: This also is the No Creeps Privacy Policy as requested by Cait and Jeb 
 
-_——–  
-Like this Post? Give it a Plus 1  
-_
+_—_
 
-_
+ _
 
-Follow us on Twitter [@idolfans](http://twitter.com/idolfans)
-
-To Purchase any American Idol I-Tunes Singles and Help Support Idol-Mania Blog – Click on any of the I-Tunes Banner Or Link Below  
-[](http://click.linksynergy.com/fs-bin/click?id=DnbLdVMRPg0&offerid=146261.10004108&type=4&subid=0)
+Help Support Idol-Mania Blog – 
 
 [ Get Your American Idol CD’s, DVD’s and Merchandise ](http://astore.amazon.com/idol-store-20)
 
 [ American Idol](http://idol-mania.com/)
 
-[American Idol 2011](http://idol-mania.com/american-idol-fan/)
+[American Idol 2012](http://idol-mania.com/american-idol-fan/)
 
 _
 
