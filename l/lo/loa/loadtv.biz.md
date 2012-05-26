@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loadtv.biz privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126151527id_/http%3A//loadtv.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadtv.biz privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526220859id_/http%3A//loadtv.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoadTV
 
-Our website is extremely crucial on the privacy of the information about our users.
+Our website is extremely crucial on the privacy of the information about our users. [LoadTV.biz](http://loadtv.biz/) provides information about the TV Shows, actors and actresses. On this site there are no materials that are protected by copyright.
 
 **Information provided by you:**  
 We collect the information you provide at the registration or by any other way (through your messages). Registration forms require user’s name, e-mail address and a password. In addition, after being registered on our website you are obligated to follow the General rules of conduct. We keep the right to take the following actions with the registrational and impersonal information around the world: to use it for our work, to have an access, to process it, to expose, to public, to transfer, to keep, to sell, to investigate, to check and to conduct other operations over the information by our own will or as required by law.
