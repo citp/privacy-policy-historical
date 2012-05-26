@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmanagerdx.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127085140id_/http%3A//www.wpmanagerdx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmanagerdx.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526231139id_/http%3A//www.wpmanagerdx.com/privacy-policy) for the most accurate reproduction.*
 
 # WP ManagerDX - WordPress Blog Installer & Manager
 
@@ -9,7 +9,7 @@ Welcome to WPManagerDX.com (the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.  
 This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by HeavenlyBiz.com (collectively, “Services”) (“Authorized Customers”).
+transacting business and Visitors who register to transact business on the Site and make use of the various services offered by WPManagerDX.com (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information”   
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
@@ -28,7 +28,7 @@ With whom may the information may be shared?
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
 How is Personally Identifiable Information stored?  
-Personally Identifiable Information collected by HeavenlyBiz.com is securely stored and is not accessible to third parties or employees of HeavenlyBiz.com except for use as indicated above.
+Personally Identifiable Information collected by WPManagerDX.com is securely stored and is not accessible to third parties or employees of WPManagerDX.com except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 
@@ -36,11 +36,11 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 Are Cookies Used on the Site?  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-How does HeavenlyBiz.com use login information?   
-HeavenlyBiz.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+How does WPManagerDX.com use login information?   
+WPManagerDX.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?  
-HeavenlyBiz.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+WPManagerDX.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
 Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
 Our privacy policy does not cover their collection or use of this information.  
 Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
