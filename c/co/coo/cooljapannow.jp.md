@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooljapannow.jp privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220031323id_/http%3A//cooljapannow.jp/help/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooljapannow.jp privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526090640id_/http%3A//cooljapannow.jp/help/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
