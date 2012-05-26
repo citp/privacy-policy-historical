@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnpparibasopen.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111181256id_/http%3A//www.bnpparibasopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnpparibasopen.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526035618id_/http%3A//www.bnpparibasopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # BNP Paribas Open - Privacy Policy
 
