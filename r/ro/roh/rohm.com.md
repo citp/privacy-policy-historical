@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohm.com privacy policy that was archived on 2011-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110810094944id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohm.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526225917id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ROHM
 
