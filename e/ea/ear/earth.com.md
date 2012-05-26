@@ -1,133 +1,63 @@
-> *The following text is extracted and transformed from the earth.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214221510id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526172908id_/http%3A//earth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy Policy - Earth.com
 
-## About Us
+**Earth.com** is committed to protecting the privacy of your information. This privacy policy (the “Privacy Policy”) describes EARTH.COM’s information practices with respect to the websites owned or operated by EARTH.COM (“Sites”) and EARTH.COM products (“Products”) and services (“Services”) available or enabled via the Sites, provided that this Privacy Policy does not apply to EARTH.COM or EARTH.COM affiliated websites relating to loans and/or insurance or to any products or services available on such loan and/or insurance sites, all of which are governed by the privacy policies accessible directly from the applicable website(s). This Privacy Policy is subject to the Terms of Service posted on the applicable Site(s). By using EARTH.COM’s Sites, Products and/or Services, you expressly consent to EARTH.COM’s collection, storage, use and disclosure of your information as described in this Privacy Policy.
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). Domain Development Corporation allows the third party Domdex, Inc. to track users for the purpose of targeting advertisements. Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. The full text of Domdex's privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
-
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
-
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
-
-## Dispute Resolution and Privacy Seals
-
-We have no privacy seals or other assurance mechanisms. 
-
-## Additional Information
-
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
-
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
-
-* * *
-
-### Group "Basic information"
-
-We collect the following information: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+**INFORMATION COLLECTED**  
+• Automatic Collection: EARTH.COM uses common Internet technologies such as cookies and Web beacons to keep track of users’ interactions with EARTH.COM’s Sites, Products and Services and to improve the quality of its service. EARTH.COM may also collect your Internet Protocol (IP) address to track and aggregate non-personally identifiable information, your referring website addresses, browser type, domain name and access times.  
+o Cookie: When you visit one of EARTH.COM’s Sites and/or utilize a EARTH.COM Product or Service, EARTH.COM’s servers send a cookie (a small file with a string of characters) to your computer. Standing alone, cookies do not personally identify you but would recognize your web browser; unless you choose to identify yourself to EARTH.COM (through an account or otherwise), you will remain anonymous to EARTH.COM. A cookie can be either session based (assigned to you each time you sign in) or persistent (it identifies browsers that have previously visited EARTH.COM’s Sites or utilized a Product or Service). Most web browsers are initially set up to accept cookies, but you can disable your web browser’s ability to accept cookies; however, if you do so, certain Site, Product or Service features may not work.  
+o Web Beacon: A web beacon is an electronic image on a web page that recognizes certain types of information on your computer when you visit that particular web page.  
+o IP Address: an Internet Protocol Address is a numerical label that is assigned to each computer on the Internet.  
+o Referring website address: a referring website address identifies the address of the webpage you were on previously.  
+o Browser: A browser is a software application used for retrieving, presenting, and traversing information resources on the World Wide Web.  
+In addition, EARTH.COM may utilize third parties to track and analyze usage information, and in so doing may use third party cookies. Please see more detailed information below under “Third Parties” if you would like to know more about third party cookies.  
+• Voluntary Collection: EARTH.COM may collect certain information that personally identifies you (“PI”) or is protected personal information (“PPI”), such as your name, address, email address and/or billing information (collectively referred to herein as “personally identifiable information”), if you choose to share such information. For example, this information may be requested as part of account registration, the purchase of Products or Services, or some other information request. The decision to provide this information is optional; however, if you elect not to register or provide the requested information, you may not be able to access certain content, products, services or features or participate in certain areas of the Site.  
+• Publicly Posted: Information that you post on or through any public areas on the Sites (or elsewhere on the Internet) may be collected and used by anyone and may result in unsolicited messages or other contact from others.  
+**HOW DO WE USE THE INFORMATION WE COLLECT?**  
+The information we collect enables EARTH.COM to:  
+• customize the advertising and content you see  
+• fulfill your requests for Products and Services  
+• improve its services  
+• contact and communicate with you  
+• conduct research and analysis  
+• provide anonymous reporting for internal and external clients  
+• provide you with additional information  
+**WHEN DO WE SHARE OR DISCLOSE YOUR INFORMATION?**  
+• We may share non-personal information with others, such as advertisers, sponsors and business partners, in aggregate anonymous form (meaning the information shared will not contain any personally identifiable information about you).  
+• Other than as noticed in this Privacy Policy, we will not sell, share, rent or otherwise disclose to third parties your personally identifiable information without your permission.  
+o We may share your personally identifiable information with third parties who facilitate communication on behalf of EARTH.COM for EARTH.COM’s marketing and promotional efforts and/or for other information dissemination on behalf of EARTH.COM.  
+o We may sell, rent or share your personally identifiable information, provided we have received your prior permission, to third parties to send you marketing and promotional information not related to EARTH.COM that may be of interest to you.  
+o Your personally identifiable information may be transferred to third parties such as technical agents, payment processing vendors, consultants, advertising companies and among our affiliates for the performance of EARTH.COM services or making products available to you.  
+o As in any transaction, if you provide your credit card information to us for purchases, your credit card company will be provided with all relevant information about the vendor, items(s) purchased, cost and other information necessary to process the transaction.  
+o All companies working for and with us that EARTH.COM provides with your personally identifiable information are contractually required to protect your personally identifiable information and keep it confidential; they are not permitted to sell or otherwise disclose your information to third parties except as authorized by us and you or as permitted or required by law.  
+o Please also note further details about EARTH.COM’s disclosure of your personally identifiable information in the website-specific descriptions at the end of this Privacy Policy.  
+• In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, we may transfer, sell or assign to third parties information concerning your relationship with us, including personally identifiable information that you provide and other information concerning your relationship with us.  
+• We may disclose your personally identifiable information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our Sites, Products or Services.  
+• By agreeing to this Privacy Policy, you are authorizing us to share your personally identifiable information with and among EARTH.COM affiliated companies.  
+**PARTIES UNDER 13**  
+• We do not knowingly collect personal information online from children under 13 to ensure compliance with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA and its accompanying regulations under United States federal law protect the privacy of children using the Internet. Because we do not knowingly collect personal information from children under the age of 13, we do not knowingly distribute information to third parties. Our Sites, Products and Services may include content that may be unsuitable for children under 13 and are not necessarily monitored. EARTH.COM encourages parents to talk to their children about online safety and to monitor their children’s use of the Internet.  
+THIRD PARTIES  
+This Privacy Policy does not cover how third parties use cookies or other technologies or any information third parties gather or share; third party information practices are addressed in the third parties’ privacy policies. EARTH.COM shall not be liable for information collected by third parties.  
+• Services:  
+o From time to time, EARTH.COM might establish a business relationship with other persons or entities to perform certain services on behalf of EARTH.COM. For example, EARTH.COM might contract with service providers to provide credit card processing, data management, promotional services, web hosting, web development, etc. In such cases, EARTH.COM would provide the service providers with the information needed for them to perform their respective services. Service providers may use third party cookies.  
+• Data Gathering:  
+o EARTH.COM may establish business relationships with third parties to track and analyze non-personally identifiable usage information from users who visit EARTH.COM’s Sites or utilize the Products or Services, or to track the performance of advertisements; such third parties may create reports on website traffic, statistics, advertisements, and “click-throughs” among others. These third parties may use third party cookies, web beacons and/or other monitoring technologies and may share information they gather with other third parties, or use other third parties to collect information on their behalf. Among others, EARTH.COM uses Media Online Inc. (“Magnetic”) to track and analyze Site information and to create reports; the full text of Magnetic’s privacy policy is at http://privacy.magnetic.is. In addition, note that you may go to http://www.networkadvertising.org/managing/opt_out.asp to opt-out of a wide selection of third party tracking.  
+• Advertisers:  
+o Advertisements appearing on the Sites or through Products and Services may be delivered to users by EARTH.COM or one of its advertising partners. Advertising partners may set third party cookies (or other technologies such as pixel tags), to compile information about where you or others who are using your computer saw their advertisements and analyze and optimize the performance of the ads.  
+**THIRD PARTY WEBSITES**  
+• The Sites, Products and Services may contain links to websites or content operated and maintained by third parties over which EARTH.COM has no control. Privacy policies on such linked websites may be different from our Privacy Policy, and you access such linked websites or third party content at your own risk.  
+**SECURITY**  
+Information that EARTH.COM collects from the Sites, Products and Services is stored on servers that EARTH.COM solely manages, using standard security procedures and practices appropriate to the nature of the information. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, EARTH.COM cannot guarantee or warrant the security of any information you transmit on or through the Sites, Products or Services and you do so at your own risk.  
+**FOREIGN COUNTRIES**  
+Your personal information may be transferred to and maintained on servers or databases located outside your state or country or to a jurisdiction where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that EARTH.COM processes and stores all information in the United States and your consent to this Privacy Policy represents your agreement to and understanding of this processing.  
+**CHANGES TO PRIVACY POLICY**  
+EARTH.COM reserves the right to change this Privacy Policy at any time and will do so by posting the revised Privacy Policy on the Sites. The new Privacy Policy will apply to all current and past users of the Sites, Products and Services and will replace any prior Privacy Policies that are inconsistent. Your continued use of the Sites constitutes your agreement to the Privacy Policy as revised.  
+**DISPUTE RESOLUTION**  
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California applicable to agreements made and performed in California, excluding the application of the conflict of laws provisions. You agree that any action or suit brought by a party to enforce or adjudicate your rights under this agreement shall be brought in the federal or state courts located in Los Angeles, California.  
+**CONTACT US**  
+If you have any questions about this Privacy Policy or EARTH.COM’s privacy practices, please email us at support@Earth.com.com.  
+Or you can contact us by mail at:  
+26500 W. Agoura Road, Suite 102-595  
+Calabasas, CA 91302  
+In addition, if you wish to exclude your personally identifiable information from our direct marketing or from being shared with, or rented or sold to a third party, or if you would like to update or delete your email address, mailing address or other personally identifiable information, or otherwise manage communications your receive from EARTH.COM, please contact us at the above.
