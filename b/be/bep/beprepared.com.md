@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034356id_/http%3A//beprepared.com/article.asp_Q_ai_E_241_A_c2a_E_bn_A_name_E_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526093735id_/http%3A//beprepared.com/article.asp_Q_ai_E_241_A_c2a_E_bn_A_name_E_PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Emergency Essentials
 
