@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126232457id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526132635id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,9 +37,14 @@ We may share your personal information with **Third Parties** including, but not
 
 **Business transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal information may be part of the transferred assets.
 
-**What are your choices**
+**What are your choices  
+**As outlined in this Privacy Policy, you can always choose not to provide your personal information to the Site, however doing so may prevent you from obtaining certain information or using other valuable features of the Site. During the registration process for Registered Users, our Site provides an opportunity to opt-out of receiving communications from Myron and/or Third Parties.
 
-As outlined in this Privacy Policy, you can always choose not to provide your personal information to the Site, however doing so may prevent you from obtaining certain information or using other valuable features of the Site. During the registration process for Registered Users, our Site provides an opportunity to opt-out of receiving communications from Myron and/or Third Parties.
+We also use third-party advertising companies to serve ads and/or collect certain information when you visit our website. These companies may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+
+## Safe Harbor Privacy Principles
+
+Myron Corp. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Myron Corp. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Myron Corp.'s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Links to other web sites
 
