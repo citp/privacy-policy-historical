@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eros-cams.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126022603id_/http%3A//www.eros-cams.com/support/privacy.htm%3Fck%3Dsc%26server%3Deros-cams) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eros-cams.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526094441id_/http%3A//www.eros-cams.com/support/privacy.htm%3Fck%3Dsc%26server%3Deros-cams) for the most accurate reproduction.*
 
 # Eros-cams Live Girls on home web cams. The best live cam site for amateur girls and housewives
 
