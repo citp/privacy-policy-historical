@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102183802id_/https%3A//www.secondmarket.com/privacy-policy%3Ft%3Dfl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526032355id_/https%3A//www.secondmarket.com/privacy-policy%3Ft%3Dfl) for the most accurate reproduction.*
 
 # Privacy Policy - SecondMarket
 
@@ -35,7 +35,7 @@ _SecondMarket does not sell personal information about its clients or users to a
 
 We collect information from you that is required to open an account, to transact business, to communicate with you, verify your identity and fulfill legal and regulatory requirements. We call this your “Profile.” From time to time, we may request additional information (e.g., through surveys) to help us further assess your needs and preferences.
 
-We also offer the option to allow you to share certain information with other clients and users of the SecondMarket Platform. You can share your profile with everyone on the SecondMarket Platform, or only with members whom you designate as “Trusted Connections.” You are not required to select anyone as a “Trusted Connection”, and thus you do not have to share your Profile with anyone other than SecondMarket employees and contractors who have a need to know your Profile information in order to service your account. Anyone you do designate as a “Trusted Connection”, will be able to see your bidding, offering and trading activity in addition to your Profile.
+We also offer the option to allow you to share certain information with other clients and users of the SecondMarket Platform. You can share your profile with everyone on the SecondMarket Platform, or only with members whom you designate as “Trusted Connections.” You are not required to select anyone as a “Trusted Connection”, and thus you do not have to share your Profile with anyone other than SecondMarket employees and contractors who have a need to know your Profile information in order to service your account. Anyone you do designate as a “Trusted Connection”, will be able to see your bidding, offering and trading activity in addition to your Profile. In the event you indicate an interest to buy a particular asset, we will notify the issuer of that asset of your interest, unless you deselect the box next to the words "Share your name and interest to buy with [Name of Issuer]".
 
 ## Types of Information We Collect
 
@@ -90,6 +90,7 @@ The cornerstone of our Privacy Policy is the commitment to keep our clients' per
 
   * Where such disclosure is required or appropriate pursuant to laws or securities regulations, including cooperating with government agencies, other regulatory bodies and law enforcement officials, performing background checks, resolving disputes or performing risk-management functions. 
   * To help us improve our services to you, we may engage another business to help us to carry out certain internal functions such as account processing, client services or other data collection relevant to our business. Use of the information shared is strictly limited to the performance of the task we request and for no other purpose. 
+  * In the event you indicate an interest to buy a particular asset, we will notify the issuer of that asset of your interest, unless you deselect the box next to the words "Share your name and interest to buy with [Name of Issuer]". 
 
 
 
@@ -123,3 +124,5 @@ The following additional information will be of interest to you if you access Se
   * SecondMarket, Inc. has also entered into a contractual arrangement with Omniture, Inc. ("Omniture") to provide internet consulting services and reports. SecondMarket, Inc. may transmit any information provided by you to Omniture that is necessary for Omniture to provide business optimization services including website tracking, recording, reporting, behavioral targeting, testing and optimization, keyword bid management, search engine functionality, and website content publishing. 
 
 
+
+Revised 12/19/2011 
