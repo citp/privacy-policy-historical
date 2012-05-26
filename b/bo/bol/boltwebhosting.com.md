@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115041428id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526032416id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
 
-# Best Cheap Web Hosting, Bolt Web Hosting, Web Host Policy | Bolt Web Hosting, Inc.
+# Best Cheap Web Hosting, Bolt Web Hosting, Web Host Policy
 
 Last Updated: January 25, 2011.
 
@@ -23,3 +23,13 @@ Detailed billing and financial information is not stored on our servers, as our 
 ## Privacy of Data
 
 We do not sell any personal information about our customers to any third party. Additionally, we limit the data that is sent to 3rd party applications (i.e. Google Analytics listed above) as much as possible.
+
+## Join Us On Facebook
+
+Bolt Web Hosting is on Facebook! Come join us for a chance to win some amazing prizes and be kept updated on our latest announcements.
+
+[](http://www.facebook.com/pages/Bolt-Web-Hosting/212746705422720)
+
+## Subscribe to Our Newsletter
+
+Signup for our weekly newsletter and get important announcements, exclusive deals, and tips on how to manage your websites effectively.
