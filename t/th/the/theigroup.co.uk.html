@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theigroup.co.uk privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127145016id_/http%3A//www.theigroup.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theigroup.co.uk privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527004356id_/http%3A//www.theigroup.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -28,11 +28,7 @@
 
 
 
-
-		
-
-
-
+	
     <script type="text/javascript" src="/js/libs/modernizr-2.0.6.min.js"></script>
 
 
@@ -119,22 +115,41 @@ function new_captcha()
             <div class="headerImgClear"></div>
         
         	<div class="contentInnerContainer">
-		        <div class="customMapContainer" id="mapArea" style="margin-top:5px;">
-		              <canvas id="example" width="400" height="551"></canvas>
-		              
-		              <div class="secondaryMapcontainer">
-		                <img id="placeholder" src="/img/map/background.png">
-		              </div>
-		
-		              <div class="clear"></div>
-		                    <div class="mapLinkContainer">
-		                    	<p>Hover your mouse over the map to find your local directory!</p>
-		                    	<p><a href="/directory-index/" title="For a full list of counties please click here" class="mapLink">For a full list of counties please click here</a></p>
-		                    </div>
-		   		</div>		
-                
+
+            <div class="flashMapContainer">
+              <div class="clear10"></div>
+             <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="551" id="TheiGroupMap" align="middle">
+                <param name="movie" value="/flash/TheiGroupMap.swf">
+                <param name="quality" value="high">
+                <param name="bgcolor" value="#FFF">
+                <param name="play" value="true">
+                <param name="allowScriptAccess" value="always">
+                <!--[if !IE]>-->
+                <object type="application/x-shockwave-flash" data="/flash/TheiGroupMap.swf" width="400" height="551">
+                  <param name="movie" value="/flash/TheiGroupMap.swf">
+                <param name="quality" value="high">
+                <param name="bgcolor" value="#FFF">
+                <param name="play" value="true">
+                <param name="allowScriptAccess" value="always">
+                <!--<![endif]-->
+                  <a href="http://www.adobe.com/go/getflash">
+                    <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+                  </a>
+                <!--[if !IE]>-->
+                </object>
+                <!--<![endif]-->
+              </object>
+            <div class="clear10"></div>
+            <div class="flashMapText">
+              <div style="margin-left:50px;">
+                <p>Hover your mouse over the map to find your local directory!</p>
+                <p><a href="/directory-index/" title="For a full list of counties please click here" class="mapLink">For a full list of counties please click here</a></p>
+              </div>
+            </div>
+            </div>
                 <div class="contentContainer">
-                						<!-- MAIN CONTENT AREA -->
+
+                  					<!-- MAIN CONTENT AREA -->
 					<div class="contentContainerSmall">
                     	<h1 class="pageHeading">Our business directories</h1>
                     
@@ -183,7 +198,7 @@ function new_captcha()
             <div class="contentClear"></div>
             
             <div class="privacyContainer">
-            	<p class="privacyText">Copyright 2011 IMMAT Ltd | <a href="/privacy-policy/" title="Privacy Policy" class="footerLinks">Privacy Policy</a></p>
+            	<p class="privacyText">Copyright 2012 IMMAT Ltd | <a href="/privacy-policy/" title="Privacy Policy" class="footerLinks">Privacy Policy</a></p>
             </div>
             
             <div class="clear"></div>
@@ -202,19 +217,6 @@ function new_captcha()
 
   <script src="/js/libs/jquery-1.7.min.js"></script>
   
-  <!-- conditional -->
-  	<!--[if IE]> -->
-		<script src="/js/libs/IEcanvas.js"></script>
-  	<!-- <![endif]-->
-
-	<!--[if !IE]> -->
-		<script src="/js/libs/canvas.js"></script>
-	<!-- <![endif]-->
-  
-  
-  
-  
-
   <!-- scripts concatenated and minified via ant build script-->
   <script defer="" src="/js/plugins.js"></script>
   <script defer="" src="/js/script.js"></script>
