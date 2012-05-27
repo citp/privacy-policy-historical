@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtn.sd privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125081431id_/http%3A//www.mtn.sd/en/article/mtn-sudan/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtn.sd privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527101139id_/http%3A//www.mtn.sd/en/article/mtn-sudan/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MTN Sudan
 
