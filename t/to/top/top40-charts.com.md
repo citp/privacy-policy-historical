@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223150844id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527230425id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
 
 # About @ Top40-Charts.com - Songs & Videos from 49 Top 20 & Top 40 Music Charts from 30 Countries
 
@@ -54,8 +54,8 @@ These parties are not allowed to use personally identifiable information except 
 This web site contains links to other sites. Please be aware that we TOP40-CHARTS.COM are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
   
-**Third-Part Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+**Third-Party Advertising**  
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Surveys & Contests**  
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
