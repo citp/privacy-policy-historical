@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011093140id_/http%3A//www.houseofnames.com/xq/asp/kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527150540id_/http%3A//www.houseofnames.com/xq/asp/kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
@@ -172,7 +172,7 @@ When you receive newsletters or promotional E-Mail from us, we may use a simple 
   
 This page was last modified on 1 March 2011 at 14:33.
 
-©2000-2011 Swyrich Corporation. See [Terms of Use](http://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
+©2000-2012 Swyrich Corporation. See [Terms of Use](http://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
 houseofnames.com is an internet property owned by Swyrich Corporation.
 
 | 
@@ -184,7 +184,7 @@ houseofnames.com is an internet property owned by Swyrich Corporation.
 
 [](https://web.archive.org/product/Surname+History)
 
- **[Hordern Surname History](https://web.archive.org/product/Surname+History)**  
+ **[Anderson Surname History](https://web.archive.org/product/Surname+History)**  
  **Our Rating:**  
 Over 20 years of research into the family history from the earliest records, showing spelling variations, early origins, notables, settlers and much more. Suitable for framing.
 
