@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008111438id_/http%3A//www.osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527090522id_/http%3A//www.osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
 
 # About OSA
 
@@ -68,6 +68,4 @@ If a user's personally identifiable information changes, or if a user no longer 
 Washington, DC 20036   
 202.223.8130 Ph   
 202.223.1096 Fax   
-email: 
-
-info@osa.org 
+email: [info@osa.org ](mailto:info@osa.org)
