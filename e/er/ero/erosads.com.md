@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erosads.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926191747id_/https%3A//www.erosads.com/disclaimer/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erosads.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527065448id_/https%3A//www.erosads.com/disclaimer/privacy.htm) for the most accurate reproduction.*
 
 # The Eros Guide Privacy Policy
 
