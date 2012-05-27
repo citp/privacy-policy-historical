@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nbclosangeles.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812184634id_/http%3A//www.nbclosangeles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbclosangeles.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527132229id_/http%3A//www.nbclosangeles.com/privacy) for the most accurate reproduction.*
 
-# - Privacy Policy | NBC Los Angeles
-
-## Privacy Policy
+# Privacy Policy | NBC Los Angeles
 
 _This Privacy Policy was last updated on July 8, 2011._
 
