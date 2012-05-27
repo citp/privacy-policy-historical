@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the senderscore.org privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209183124id_/http%3A//www.returnpath.net/privacy/privacy_senderscore.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the senderscore.org privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527232207id_/http%3A//www.returnpath.net/privacy/privacy_senderscore.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Return Path</title>
@@ -9,14 +9,16 @@
 	<meta name="keywords" content="email deliverability, email reputation, sender reputation, inbox performance, email marketing, email best practices, email delivery, inbox delivery, reputation monitor, campaign preview, mailbox monitor, blacklist alert, sender score, ip reputation score">
 	<meta name="robots" content="">
 
-	<link rel="stylesheet" href="/lib/css/main.css?_ts=1323455484" type="text/css" media="screen">
+	<link rel="stylesheet" href="/lib/css/main.css?_ts=1338160927" type="text/css" media="screen">
 	<link rel="stylesheet" href="/lib/css/menu.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/lib/css/sliders.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/lib/css/tipTip.css" type="text/css" media="screen">
 
 	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	<script type="text/JavaScript" language="javascript" src="/lib/js/jquery.js"></script>
 	<script type="text/JavaScript" language="javascript" src="/lib/js/apmenu.js"></script>
 	<script type="text/JavaScript" language="javascript" src="/lib/js/cornerz.js"></script>
+	<script type="text/JavaScript" language="javascript" src="/lib/js/jquery.tipTip.js"></script>
 	<script type="text/JavaScript">
 		var $j = jQuery.noConflict();
 		$j(document).ready(function(){
@@ -24,10 +26,11 @@
 			$j("#columnLeft").cornerz({radius:7});
 			$j(".round").cornerz({radius:7});
 			$j(".roundtop").cornerz({radius:7, corners: "tl tr"});
+			$j(".tip").tipTip({keepalive:"true"});
 		});
 	</script>
 	<script>function redirect(select) {location.href=select.options[select.selectedIndex].value;}</script>
-	<script type="text/JavaScript" language="javascript" src="/lib/js/includes.js?_ts=1323455484"></script>
+	<script type="text/JavaScript" language="javascript" src="/lib/js/includes.js?_ts=1338160927"></script>
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -113,13 +116,11 @@ var WRInitTime=(new Date()).getTime();
 				<li><a href="http://www.returnpath.es"><img src="/lib/images/flags/es.png" border="0">Español</a></li>
 				<li><a href="http://www.returnpath.fr"><img src="/lib/images/flags/fr.png" border="0">Français</a></li>
 				<li><a href="http://br.returnpath.net"><img src="/lib/images/flags/br.png" border="0">Português/Brasil</a></li>
+				<li><a href="http://www.returnpath.it"><img src="/lib/images/flags/it.png" border="0">Italiano</a></li>
 			</ul>
 		</div>
 		<div id="navSearch" style="padding-top:10px;">
-			<form action="http://www.returnpath.net/search/" id="cse-search-box">				
-				<input type="hidden" name="cx" value="010218550733606896978:_s-xdwm1eua">
-				<input type="hidden" name="cof" value="FORID:10;NB:1">
-				<input type="hidden" name="ie" value="UTF-8">
+			<form action="/search/" id="cse-search-box">				
 				<input type="text" name="q" size="15">
 				<input name="sa" align="top" type="image" value="Search" src="/lib/images/global/buttonSearch.png" alt="Search" id="searchButton" class="searchSubmitButton">  
 			</form>
@@ -164,6 +165,7 @@ var WRInitTime=(new Date()).getTime();
 							<li><a href="/commercialsender/domainassurance/how-it-works" title="How it Works"><span>How it Works</span></a></li>
 							<li><a href="/commercialsender/domainassurance/marketers" title="Marketers and Senders"><span>Marketers and Senders</span></a></li>
 							<li><a href="/commercialsender/domainassurance/security" title="Security and IT"><span>Security and IT</span></a></li>
+							<li><a href="/commercialsender/domainassurance/dmarc" title="DMARC"><span>DMARC</span></a></li>
 							<li><a href="/commercialsender/domainassurance/financialservices" title="Financial Services"><span>Financial Services</span></a></li>
 							<li><a href="/commercialsender/domainassurance/resources" title="Resources"><span>Resources</span></a></li>
 							<li><a href="/commercialsender/domainassurance/contact" title="Request More Information"><span>Request More Information</span></a></li>
@@ -205,6 +207,7 @@ var WRInitTime=(new Date()).getTime();
 					<li><a href="/internetserviceprovider/certification" title="Email Certification Program"><span>Email Certification Program</span></a></li>
 					<li><a href="/internetserviceprovider/receivermap" title="Receiver Map"><span>Receiver Map</span></a></li>
 					<li><a href="/internetserviceprovider/blacklist" title="Reputation Network Blacklist"><span>Reputation Network Blacklist</span></a></li>
+					<li><a href="/internetserviceprovider/dmarc" title="DMARC for ISPs"><span>DMARC for ISPs</span></a></li>
 					<li><a href="/internetserviceprovider/apply" title="Become a Data Partner"><span>Become a Data Partner</span></a></li>
 				</ul></div>
 			</li>
@@ -441,7 +444,7 @@ a.footer:hover { color: #c41230; text-decoration: none }
     </tr>
     </tbody></table>
 	<br>
-    <p><a href="/privacy/" rel="nofollow" title="Privacy at Return Path" style="color:#999;text-decoration:none;"><span>Privacy</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;Copyright 2011 Return Path, Inc.</p>
+    <p><a href="/privacy/" rel="nofollow" title="Privacy at Return Path" style="color:#999;text-decoration:none;"><span>Privacy</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;Copyright 2012 Return Path, Inc.</p>
     
     
   </div>
