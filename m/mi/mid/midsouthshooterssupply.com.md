@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127105605id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527163512id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Midsouth Shooters Supply -- Privacy Policy
+# Privacy Policy | Shooting Supplies | MidsouthShootersSupply.com
 
 Midsouth Shooters Supply takes your privacy very important. We do not sell, trade, rent or share your information. Below are our policy specifics if you care to read.
 
