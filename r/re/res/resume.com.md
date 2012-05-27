@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224926id_/http%3A//www.resume.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527083941id_/http%3A//www.resume.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
