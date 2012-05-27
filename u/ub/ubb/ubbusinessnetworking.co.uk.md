@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubbusinessnetworking.co.uk privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127155916id_/http%3A//www.ubbusinessnetworking.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubbusinessnetworking.co.uk privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527101651id_/http%3A//www.ubbusinessnetworking.co.uk/policy) for the most accurate reproduction.*
 
 # Privacy Policy » UB Business Networking.co.uk – Business Network, Online Networking, Business Events, Groups, London
 
