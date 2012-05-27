@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201183950id_/http%3A//www.autobytel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527121727id_/http%3A//www.autobytel.com/privacy-policy) for the most accurate reproduction.*
 
 # Autobytel Privacy Policy | Autobytel.com
 
