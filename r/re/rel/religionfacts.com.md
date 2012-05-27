@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionfacts.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006190730id_/http%3A//www.religionfacts.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionfacts.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527165131id_/http%3A//www.religionfacts.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ReligionFacts
 
