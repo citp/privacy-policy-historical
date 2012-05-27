@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125035355id_/http%3A//www.unisuper.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527092139id_/https%3A//www.unisuper.com.au/privacy-policy) for the most accurate reproduction.*
 
 # UniSuper | Privacy policy
 
@@ -30,7 +30,7 @@ In some cases, UniSuper is required by law to collect personal information about
 
 If UniSuper is unable to collect certain personal information from you, it may not be able to provide your benefits to you or to your beneficiaries. For example, if you fail to provide UniSuper with an up-to-date address, UniSuper may be required to transfer your benefits to the Australian Taxation Office or to an eligible rollover fund, rather than provide those benefits through the Fund.
 
-Also, if UniSuper is unable to collect certain personal information from you, it may not be able to administer your benefits at all or as favourably as it otherwise might. For example, if you fail to provide your tax file number, UniSuper will not able to accept any voluntary after-tax (non-concessional) contributions from you and additional tax will be deducted from any employer or salary sacrifice (concessional) contributions made by you or your employer.
+Also, if UniSuper is unable to collect certain personal information from you, it may not be able to administer your benefits at all or as favourably as it otherwise might. For example, if you fail to provide your tax file number, UniSuper will not be able to accept any voluntary after-tax (non-concessional) contributions from you and additional tax will be deducted from any employer or salary sacrifice (concessional) contributions made by you or your employer.
 
 In other cases, if UniSuper is unable to collect certain personal information (e.g. your email address), it will not be able to provide you with member communications or other services as quickly or as effectively as it otherwise might.
 
@@ -60,26 +60,29 @@ UniSuper engages certain external organisations to assist in the provision of se
 
 ## Legal compliance
 
-UniSuper is required or authorised (e.g. under taxation, superannuation or anti-money laundering legislation) to disclose your personal information to certain government authorities (e.g., to the Australian Tax Office, the Australian Securities and Investments Commission, the Australian Prudential Regulation Authority and the Australian Transaction Reports and Analysis Centre).  
-How does UniSuper maintain the quality of your personal information?
+UniSuper is required or authorised (e.g. under taxation, superannuation or anti-money laundering legislation) to disclose your personal information to certain government authorities (e.g., to the Australian Tax Office, the Australian Securities and Investments Commission, the Australian Prudential Regulation Authority and the Australian Transaction Reports and Analysis Centre).
 
-UniSuper relies on accurate, complete and up-to date personal information to fulfil its duties. Accordingly, whenever UniSuper sends you correspondence that includes your personal information (e.g., a benefit statement) we will ask you to check its accuracy and respond to us immediately with any changes. UniSuper also provides an update service via MemberOnline.  We may also update your personal details based on information provided by your employer.  
+## How does UniSuper maintain the quality of your personal information?
+
+UniSuper relies on accurate, complete and up-to date personal information to fulfil its duties. Accordingly, whenever UniSuper sends you correspondence that includes your personal information (e.g., a benefit statement) we will ask you to check its accuracy and respond to us immediately with any changes. UniSuper also provides an update service via MemberOnline.  We may also update your personal details based on information provided by your employer.
+
 It is not possible for UniSuper to keep track of every change to your personal information. UniSuper must therefore rely on you to advise it of any changes to your personal information. UniSuper encourages you to advise it immediately of any changes to your personal information, especially if it may affect your benefits directly (e.g. changes to your name, address or nominated beneficiaries).
 
 ## How does UniSuper keep your personal information secure?
 
-UniSuper takes all necessary precautions to ensure your personal information (in both physical and electronic form) is secure. In particular, UniSuper operates in a secure environment that ensures protection of all paper-based personal information. As part of their role, UniSuper staff are required to respect the privacy of all personal information in their possession. Further, all UniSuper information technology systems employ the latest data security software and hardware. All users of these systems are registered with UniSuper and access is monitored on a constant basis. Users are able to access only the personal information they require to perform their role.  
+UniSuper takes all necessary precautions to ensure your personal information (in both physical and electronic form) is secure. In particular, UniSuper operates in a secure environment that ensures protection of all paper-based personal information. As part of their role, UniSuper staff are required to respect the privacy of all personal information in their possession. Further, all UniSuper information technology systems employ the latest data security software and hardware. All users of these systems are registered with UniSuper and access is monitored on a constant basis. Users are able to access only the personal information they require to perform their role.
+
 Any personal information held by UniSuper will be destroyed or permanently de-identified when it is no longer needed for any purpose for which UniSuper might legitimately use or disclose it.
 
 ## How can you access and correct your personal information?
 
 UniSuper will provide you with access to all personal information held about you upon request. (Please see the details at the end of this policy for information about how to contact UniSuper.) Your Benefit Statement (which is provided to you twice yearly) will generally include most of the personal information UniSuper holds about you.
 
-Sometimes, UniSuper may refuse to provide you with access to your personal information (e.g. where it would be unlawful or may pose a serious and imminent threat to someone’s health). Where this occurs, UniSuper will provide you with reasons for the refusal.  
-Does UniSuper collect and use government identifiers?
+Sometimes, UniSuper may refuse to provide you with access to your personal information (e.g. where it would be unlawful or may pose a serious and imminent threat to someone’s health). Where this occurs, UniSuper will provide you with reasons for the refusal.
 
-As mentioned above, UniSuper may collect and use your tax file number. Tax file numbers are numbers assigned to every tax-payer by the Australian Tax Office to identify each such person uniquely for tax-related purposes. Tax file numbers are government-assigned identifiers. UniSuper does not collect or use any other government-assigned identifiers.  
-Collection and use of tax file numbers by UniSuper is authorised by law.
+## Does UniSuper collect and use government identifiers?
+
+As mentioned above, UniSuper may collect and use your tax file number. Tax file numbers are numbers assigned to every tax-payer by the Australian Tax Office to identify each such person uniquely for tax-related purposes. Tax file numbers are government-assigned identifiers. UniSuper does not collect or use any other government-assigned identifiers. Collection and use of tax file numbers by UniSuper is authorised by law.
 
 ## Are you able to transact with UniSuper anonymously?
 
@@ -87,7 +90,7 @@ When you make enquiries to UniSuper that are of a general nature (e.g. a general
 
 ## Does UniSuper disclose your information overseas?
 
-UniSuper may in some instances disclose personal information overseas, for example if we have appointed a service provider who processes data off-shore. If this occurs, we will put in place appropriate contractual arrangements with such organisations with a view to providing a reasonable level of privacy protection equivalent to the standard you can expect in Australia..
+UniSuper may in some instances disclose personal information overseas, for example if we have appointed a service provider who processes data off-shore. If this occurs, we will put in place appropriate contractual arrangements with such organisations with a view to providing a reasonable level of privacy protection equivalent to the standard you can expect in Australia.
 
 ## Does UniSuper collect and manage personal information on its website any differently to other personal information?
 
