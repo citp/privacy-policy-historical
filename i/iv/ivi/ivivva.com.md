@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivivva.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216114523id_/http%3A//www.ivivva.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivivva.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527051916id_/http%3A//www.ivivva.com/privacy_policy) for the most accurate reproduction.*
 
 # privacy policy | ivivva athletica
 
