@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comindware.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117080342id_/http%3A//www.comindware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comindware.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527170154id_/http%3A//www.comindware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Comindware
 
@@ -22,4 +22,4 @@ We collect information about your behavior on the website to make the website a 
 
 ## Data removal
 
-We collect all the information to satisfy better your needs, so we strongly believe that all the information you get from Comindware and our partners is relevant to what you want and look for. Yet, in case you don’t want to get information from us or our partners anymore, you can write to us through the [contact us](https://web.archive.org/contact-us/) form at any moment and we will take your personal data off our database. If you have any questions about your data collecting, keeping and processing, don’t hesitate to ask through the [contact us](https://web.archive.org/contact-us/) form as well.
+We collect all the information to satisfy better your needs, so we strongly believe that all the information you get from Comindware and our partners is relevant to what you want and look for. Yet, in case you don’t want to get information from us or our partners anymore, you can write to us through the [contact us](https://web.archive.org/company/contact-us/) form at any moment and we will take your personal data off our database. If you have any questions about your data collecting, keeping and processing, don’t hesitate to ask through the [contact us](https://web.archive.org/company/contact-us/) form as well.
