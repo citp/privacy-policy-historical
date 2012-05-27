@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vans.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126093658id_/http%3A//www.vans.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vans.co.uk privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527203251id_/http%3A//vans.co.uk/privacy) for the most accurate reproduction.*
 
 # Vans United Kingdom Skate Shoes, Girls, Apparel, Kids, Skateparks, Contests, Music and more!
 
