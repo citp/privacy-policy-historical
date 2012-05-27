@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressvisits.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126230720id_/http%3A//www.expressvisits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressvisits.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527094552id_/http%3A//expressvisits.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.expressvisits.com
 
