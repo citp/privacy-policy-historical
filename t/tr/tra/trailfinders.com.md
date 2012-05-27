@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119110355id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527205545id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.*
 
 # None
 
@@ -26,3 +26,9 @@ Trailfinders and Nedstat use cookies to track users as they travel through the s
 Firewalls set up by your company network may prohibit the use of browser cookies.
 
 If you would like to know more about cookies, or would like to disable cookies in your browser settings (i.e. refuse cookies) please visit [www.aboutcookies.org.](http://www.aboutcookies.org/ "www.aboutcookies.org")
+
+### Who should you contact about our privacy policy?
+
+Please write to The Marketing Department, 9 Abingdon Road, London, W8 6AH
+
+Alternatively please call 020 7408 9080 or email marketing@trailfinders.com
