@@ -1,130 +1,112 @@
-> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234724id_/http%3A//www.razorgator.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527091555id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
 
-# Policies - RazorGator.com
+# Razorgator Tickets Privacy Policy & Security | Live Event Tickets
 
-Policies Governing Use of This Website and Our Services
+PRIVACY POLICY
 
-* * *
+As a Razorgator.com client, you are in control of all your event planning as well as your personal information. As the leader in our industry, we realize that earning and retaining your trust is of paramount importance, so protecting your privacy is a responsibility we take very seriously. 
 
-Please read this page carefully and in its entirety as it details important information on our policies and the terms and conditions you are agreeing to when utilizing our website and services.
+That's why we've provided this Privacy Policy which sets forth our policies regarding the collection, use, and protection of the personal information of those using Razorgator.com. Personal information means information that can be linked to a specific individual such as name, address, telephone number, email address, and credit card number. 
 
-### Main Contents
+We encourage you to review and familiarize yourself with our Privacy Policy, but be assured that we do not sell or rent our customers' personal information to third parties. If you have any further questions or concerns, please contact us at 310.481.3400. 
 
-1.0 Agreement; Terms and Conditions  
-2.0 Changes in Terms and Conditions  
-3.0 Ticket Purchase Policy  
-4.0 Indemnity  
-5.0 Privacy Policy  
-6.0 Non-Affiliations  
-7.0 Contacting Us 
+Razorgator is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.razorgator.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. This privacy statement covers sites ending in Razorgator.com, which includes versions of our site that are accessed through our partner sites.   
+[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.razorgator.com&ctv_group=US)
 
-#### **1.0 Agreement; Terms and Conditions**
+Some of our marketing partners use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.razorgator.com only and does not cover the use of cookies by any advertisers. 
 
-By visiting, using or ordering from this website, you expressly agree to be bound by the following terms and conditions and to adhere to these Terms and Conditions and all applicable laws and regulations governing this website. 
+Razorgator   
+If you have questions or concerns regarding this statement, you should first contact the Privacy Team at 4094 Glencoe Ave. Suite A, Marina del Rey, CA 90292. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-If you break these Terms and Conditions, **Razor Gator, Inc.** reserves the right to prevent your future use of this website, cancel your ticket order, and/or take appropriate legal action and remedies available against you. 
+Special note about children   
+This site is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any personal information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personal information on our site. In the event that we discover that a child under the age of 13 has provided personal information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at www.ftc.gov/kidzprivacy for more information about this Act), we will delete the child’s Personal Information from our files to the extent technologically possible. 
 
-#### **2.0 Changes in Terms and Conditions**
+Personal information gathered by Razorgator and how it’s used   
+When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our email newsletters or other services, as described below. We do not knowingly permit the site to be used by any person under the age of 18 and we do not knowingly collect any personal information from children (meaning those younger than 13 years of age). A valid credit card is required to make a purchase on our site. 
 
-Razor Gator, Inc., the owner and operator of razorgator.com reserves the right to change these Terms and Conditions at any time. Posting updated Terms and Conditions on this site will make the new Terms and Conditions effective immediately and binding on all users of this website without exception. Therefore, please check this page of the website periodically for updates. 
+Making a Purchase   
+In order to purchase tickets and related services through our site, you must provide us with some personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, and your email address. If you are making buying tickets for one or more people other than yourself, you will need to make sure that each of these other individuals agrees, in advance, that you may disclose their personal information to us. 
 
-#### **3.0 Ticket Purchase Policy**
+Customer Registration   
+If you choose to become a registered customer of Razorgator, you must provide your email address, password, and password validation. This information is collected on the registration form for several reasons including: (i) personal identification; (ii) to complete air, hotel, car, and other reservations; (iii) to allow us to contact you for customer service purposes, if necessary; (iv) to customize the content of our site to meet your specific needs; and (v) to make product improvements to our site. In addition, we need your email address to confirm your new customer registration and each ticket you transact on our site. As a Razorgator customer, you will also occasionally receive updates from us about ticket sales in your area, special offers, new Razorgator services, and other noteworthy items. However, you may choose at any time to no longer receive these types of email messages. 
 
-Pursuant to California law, Razor Gator, Inc. hereby discloses that the purchase price of the tickets contains a service charge or profit which has been added to the face value of the tickets, and that, as of the date of your purchase, Razor Gator, Inc. may have no contract to obtain the tickets at a certain price from a person in possession of the tickets, or from a person who has a contractual right to obtain the tickets from the primary contractor, and may not be able to supply tickets at the price or range of prices identified or advertized on this website. 
+Customer Profile   
+As a Razorgator customer, you can choose to complete your online profile by providing us with event preferences, credit-card billing information, delivery address, and other personal information. This information is used to assist you in purchasing tickets quickly without having to type in the same information repeatedly. If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page, [/tickets/members/login](https://web.archive.org/tickets/members/login). You may also contact us via email at rg-sales@razorgator.com or call 800.542.4466 to speak with a representative. 
 
-Razor Gator, Inc. agrees to use its best efforts to procure and to deliver, prior to the date of the event, the tickets described. 
+Partners   
+We use third parties to provide news, packages, and logos on our site. We do not share any personal information with these companies. If you choose to purchase a package from our partners at PrimeSport, any information you provide them is subject to their privacy policy. These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
-Note that online orders placed after 5PM US Pacific Standard Time on weekdays or at any time on weekends may not be processed until the next working day. 
+Online Surveys   
+Razorgator values opinions and comments from customers, so we frequently conduct online surveys. Participation in these surveys is entirely optional. Typically, the information is aggregated and used to make improvements to Razorgator and to develop appealing content, features, and promotions for customers. Survey participants are anonymous unless otherwise stated in the survey. 
 
-Also, should Razor Gator, Inc. fail to deliver to a BUYER the full quantity of tickets contracted for, Razor Gator, Inc.'s sole obligation or liability shall be limited to the return to BUYER of any deposits and/or payments for undelivered tickets previously made by BUYER to Razor Gator, Inc. under this Agreement. 
+Promotions & Sweepstakes   
+Razorgator frequently sponsors promotions and sweepstakes to give customers the opportunity to win Hard-To-Get® tickets and related prizes. We collect and maintain personal information about you through the operation of these promotions and sweepstakes in order to enable us to provide you with the best service. We also collect personal information for other activities that include contacting you, conducting survey questions, collecting other marketing data and other uses detailed throughout this privacy policy. From time to time, marketing emails will be sent to your email address provided upon entry into the promotion or sweepstakes. We use contact information to notify contest winners and survey information to develop promotions and product improvements to the Razorgator.com web site. 
 
-Razor Gator, Inc. shall not be liable for any incidental, special, or consequential damages or for loss or expense directly or indirectly arising from Razor Gator, Inc.'s obligations under this Agreement, and BUYER agrees to waive any additional rights or remedies conferred upon it now or in the future under California law. 
+If the promotion or sweepstakes is conducted in conjunction with a celebrity, any personal information we obtain through the promotion or sweepstakes may be shared with the celebrity or the agency who promotes the celebrity. For example, if we run a promotion endorsed by celebrity “X”, your name and email address would be shared with the agency who promotes celebrity “X”. 
 
-Due to policies set forth by the organizers of the events for which tickets are sold on this website, Razor Gator, Inc.cannot issue exchanges or refunds after BUYER has placed an order, unless Razor Gator, Inc. is unable to fulfill the order. 
+Before entering a particular promotion or sweepstakes, you should first refer to its Official Rules: [/tickets/sweepstakes-terms-conditions/](https://web.archive.org/tickets/sweepstakes-terms-conditions/). 
 
-Razor Gator, Inc. is not responsible for lost, stolen, damaged or destroyed tickets once tickets are certified as delivered or are in BUYER'S physical possession. Please note that direct sunlight or heat can damage certain types of tickets. 
+We only collect personal information that is voluntarily provided to us. You can opt-out of receiving promotional emails, or otherwise sharing your personal information, by following the steps detailed below in the privacy policy. 
 
-**4.0 Indemnity**
+Automatic Logging of Session Data   
+We automatically log generic information about your computer's connection to the Internet, which we call "session data," that is anonymous and not linked to any personal information. Session data consists of things such as IP address, operating system and type of browser software being used and the activities conducted by the user while on our site. An IP address is a number that allows computers, such as our web servers, know where to send data back to the user via the internet, such as the pages on the site that the user wishes to view. We collect session data because it helps us analyze such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. Although such information does not identify any visitor personally, it is possible to determine from an IP address a visitor's Internet Service Provider (ISP) and the approximate geographic location of his or her point of connectivity. 
 
-All users and visitors of this website agree to indemnify and hold Razor Gator, Inc., its subsidiaries, affiliates, officers, agents and other partners and employees, harmless from any loss, liability, claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of this website, including your use of this website to provide a link to another website. 
+Cookies   
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses, or harvest your personal information. Razorgator uses cookies to help analyze our web page flow, to measure promotional effectiveness, and to foster trust and safety. 
 
-#### **5.0 Privacy Policy**
+First and foremost, you can rest assured that no personally identifiable information ("PII") about you (e.g., name, address, etc.) is gathered or stored in the cookies placed by the Razorgator.com web site and, as a result, none can be passed on to any third parties. 
 
-a. Overview  
-b. What information we gather and track and what we do with it  
-c. Cookies  
-d. Security of sensitive data  
-e. Opt-out policy  
+Most web browsers automatically accept cookies. Of course, by changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. Razorgator supports your right to block any unwanted internet activity, especially that of unscrupulous websites. However, blocking Razorgator cookies may disable certain features on our site and may make it impossible to purchase or use certain services available on the site. Please note that it is possible to block cookie activity from certain web sites while permitting cookies from sites you trust, like Razorgator. 
 
+General information Razorgator collects and why   
+“General Information” is information about you or your activities on our site that do not identify you personally. When you use the internet, your web browser or software may communicate certain information to the host website you visit. Examples, of General Information include the unique number assigned to your server or Internet connection, the capabilities and features of your computer, you geographic location, and your movement and activity within a particular website. Likewise, when you register as a customer of Razorgator, enter certain sweepstakes and promotions, or complete offers like email newsletter subscriptions, we collect general information about you such as age, gender and zip code. We collect and store this information to generate statistics about visitors to our site for non-personal demographic purposes. 
 
-**a. Overview**
+How long your personal information is kept   
+We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. 
 
-Razor Gator, Inc. is firmly committed to protecting the privacy of our customers and visitors to our website. This page details how we collect information from customers and visitors, what we do with that information, how secure the information is kept and what alternatives you have available regarding our mailing lists.
+Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Please note that we have greater control over recently collected data than over archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies. 
 
-**b. What information we gather and track and what we do with it**
+Opting out of promotional emails   
+At any time, you can unsubscribe from our Get The Edge or other newsletter or similar services through the "My Account" link, accessible on the Razorgator home page. 
 
-The IP (Internet protocol) address and browser type of each visitor is automatically recorded in our website site usage logs. This information helps us to administer our website and make it more efficient to give visitors an overall better experience when visiting our site. This information does not help to individually identify any single user or groups of users. Thus, users remain completely anonymous with the type of information gathered.
+As a customer or promotion/sweepstakes entrant, you will occasionally receive email updates from us about ticket sales in your area, special offers, new Razorgator services, and other noteworthy items. We hope you will find these updates interesting and informative. Of course, if you prefer not receive them, please click on the "unsubscribe" link or follow the instructions in each email message or by sending a letter: 
 
-If a visitor simply browses our site, no personal information is entered and therefore remains anonymous.
+Attn: Marketing Department   
+Razorgator, Inc.   
+4094 Glencoe Ave. Suite A   
+Marina del Rey, CA 90292 
 
-A mailing list on which all visitors may register to receive updates on new ticket availability and special offers from time to time is OPTIONAL. Contact information gathered for the mailing list is kept internal to our company at all times. It will not be sold or otherwise revealed to third parties at any time.
+Razorgator reserves the right to limit membership to those who will accept emails. Customers will be notified via email prior to any actions taken. 
 
-From time to time, we have joint promotions or special offers with third party companies and these may be publicized to members of our mailing list. However, at no point will the contact information of members on the list be revealed to our third party partners. All mailings to members will come directly from our email servers.
+Protection against the misuse of customer information   
+Razorgator contains links to other websites. Please note that when you click on one of these links, you are entering another website for which Razorgator has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and your Razorgator membership account information. Please be very careful, responsible, and alert with this information, especially whenever you're online. In addition to the circumstances described above, Razorgator may disclose client information if required to do so by law, court order, as requested by other government or law enforcement authority, as requested in connection with any governing entity regulating ticket distribution to any event or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of Razorgator or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. Further, if Razorgator or substantially all of its assets are acquired, our customer information will most likely also be transferred in connection with such acquisition. 
 
-Members of the mailing list may opt-out of receiving future mailings at any time using an easy 2-step procedure. Each mailing sent to members will include complete information at the end of the mailing on how to opt-out of future mailings. 
+In addition to the circumstances described above in the previous paragraph, Razorgator is obligated to collect and provide certain personal information in connection with the sale of any World Cup Ticket for each attendee of a World Cup Event. Specifically, FIFA Federations, Sponsors, the 2006 FIFA World Cup Organizing Committee - Germany, and other venue sponsors regulating ticket and event venues for the World Cup in Germany in 2006 require that each attendee of a World Cup Event provide the following information with respect to each ticket user: (1) name, (2) date of birth, (3) nationality, as shown on attendee's passport, and (4) passport identification number. Accordingly, as a condition to delivery of tickets purchased for any 2006 World Cup event, this information must be provided for each ticket user as part of the checkout procedure, or Razorgator will be unable to deliver the World Cup tickets to you. Please also note that the personal information you provide about each ticket user will be maintained in the United States for processing and dissemination to the governing bodies that require it. 
 
-When a visitor makes a purchase on our site, we will collect full contact details and payment information from the customer. This information will not be sold or otherwise revealed to third parties at any time. It will be used primarily to communicate with the customer in order to promptly fulfill the order.
+Changes to the Privacy Policy   
+This policy is effective as of January 1, 2005. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-From time to time we have joint promotions or special offers with third party companies and these may be publicized to customers. However, at no point will the contact information or payment information of our customers be revealed to our third party partners. All mailings to customers will come directly from our email servers. ****
+If you have a privacy question or concern   
+Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email by clicking here. Please reference the privacy policy in your subject line. Razorgator will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us in care of Razorgator, 4094 Glencoe Ave. Suite A, Marina del Rey, CAa 90292 Attn: Privacy Team. Agents 
 
-**c. Cookies**
+We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
-Cookies are small text files that your web browser creates and stores in a cookies folder on your hard drive. These text files have no way of carrying viruses or inflicting any damage upon your computer. The cookies that we store for the period of your visit do not in any way allow us to view the rest of the contents of your computer, control your computer in any way, or extract any personal information stored in files on other parts of your computer.
+Service Providers   
+We use Cybersource to provide credit card transactions on our site. When you buy tickets, we will share billing information as necessary for Cybersource to provide that service. Cybersource is prohibited from using your personally identifiable information for any other purpose. Thank you for using Razorgator! 
 
-Cookies are used to allow our shopping cart to function properly. Therefore, you will need to have cookies enabled in your browser in order to purchase tickets from us. 
+Security Guarantee
 
-Your payment information, home address and other contact details are NOT stored in the cookie once you exit our site. The cookie only lasts for the period that you remain on our site and use the shopping cart to make a purchase.
+Razorgator guarantees the safety of your online purchases 
 
-**d. Security of sensitive data**
+We are so confident that your credit card transaction will be secure that we back every online purchase made at Razorgator.com with our Shop Safe Guarantee powered by Payment Tech, the nations largest processor of e-commerce and direct marketing payment transactions. Razorgator uses the latest in encryption technology to ensure that every transaction is safe. 
 
-We have rigorous security measures in place, both online and offline, in order to protect sensitive data from mailing list members and customers.
+Our Shop Safe Guarantee   
+In the unlikely event that an unauthorized use of your credit card occurs, follow the reporting procedures defined by your credit card provider and contact us at sales@Razorgator.com immediately. Most credit card companies cover all charges that result from unauthorized use of your credit card or may limit your liability to $50.00 US - the maximum liability allowed under the Fair Credit Billing Act. For additional information on the Fair Credit Billing Act, contact the Bureau of Consumer Protection or visit the Federal Trade Commission web site at [www.ftc.gov](http://www.ftc.gov/). 
 
-**For online security:**
+Technology   
+Our secure server software encrypts all of your personal information, including credit card information. The process of encryption takes the information you enter and converts it into bits of code that are securely transmitted over the Internet. This scrambled data cannot be read as the information travels over the Internet. 
 
-All transactions are carried out on our secure server and are encrypted with full 128-bit encryption. Our secure server certificate is issued by Verisign, the premier authority for the issuance of secure server certificates around the world. Click here to view details about our secure server certificate.
+Once your encrypted personal information is received by our secure server, it is translated back into its original form and stored in our off-line database. Your credit card information is not transmitted over the Internet again. To further ensure the safety of all your personal information, we've located our off-line database in a secure underground data center. 
 
-Customer information stored in our online database is protected from hacking attempts by industrial strength firewall software and database protection measures. We are constantly upgrading our systems as new technology becomes available in order to maintain the highest level of online security and data integrity.
-
-**For offline security:**
-
-Employees with access to customer information or other sensitive information are not permitted to remove this information from our office premises at any time. We limit the number of employees with access to sensitive information to the minimum required to provide top-notch service to our customers and members.
-
-**e. Opt-out Policy**
-
-Members of our mailing list can refer to any copy of a mailing received from us for details on our easy 2-step opt-out procedure.
-
-For customers that do not wish to receive any further correspondence from us, please email us at: [admin@razorgator.com](mailto:admin@razorgator.com) and state your full name, email address and reason for wishing to opt-out. All opt-out requests will be honored promptly and courteously. 
-
-#### **6.0 Non-Affiliations**
-
-Razor Gator, Inc. is an independent, privately owned company engaged in the business of buying and selling tickets at a premium for sporting events, concerts, and theatre. The amount charged over the face value of the tickets represents our fair compensation for the difficulty involved in obtaining premium seating to hard-to-get and sold-out events.
-
-Razor Gator, Inc. is in **no way affiliated** with any box office or official organizers (e.g. FIFA, ATP, NBA, NCAA, etc) of the events for which we obtain tickets. 
-
-#### **7.0 Contacting Us**
-
-If you have any questions about the above Terms and Conditions, please contact: 
-
-Razor Gator, Inc.   
-9464 Wilshire Blvd.   
-Beverly Hills, California 90212   
-Tel : 1-800-852-7771   
-Or 1-310-277-4788   
-Fax : 1-310-277-5528
-
-Back To Top
-
-Back to Previous Page
-
-  
-
+Credit Card Security Desk   
+If you are more comfortable with inputting your credit card number over the phone, you can call or fax our Client Service Center with your credit card information: In the United States, call 800.542.4466 or fax to 310.289.3010. Outside the United States, call 310.481.3400 or fax to 310.289.3010. 
