@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hikebiketravel.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127041756id_/http%3A//hikebiketravel.com/%3Fpage_id%3D295) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikebiketravel.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527090359id_/http%3A//hikebiketravel.com/hike-bike-travel-privacy-statement-policy) for the most accurate reproduction.*
 
-# Hike Bike Travel Privacy Policy | HikeBikeTravel
+# Hike Bike Travel Privacy Policy | Hike Bike Travel
 
 HikeBikeTravel.com (hereafter called HBT) has created this privacy policy (hereafter, “Policy”) in order to demonstrate our commitment to customer privacy. Privacy on the HBTwebsite (hereafter, “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Policy as a means to communicate our information gathering and dissemination practices.
 
