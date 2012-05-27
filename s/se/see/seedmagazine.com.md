@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedmagazine.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209013041id_/http%3A//seedmagazine.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedmagazine.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527154727id_/http%3A//seedmagazine.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy § SEEDMAGAZINE.COM
 
@@ -78,7 +78,4 @@ This Privacy Policy and the privacy practices of Seed Media will be subject excl
 If you have any comments or questions regarding our Privacy Policy, please contact us at [webmaster@seedmediagroup.com](mailto:webmaster@seedmediagroup.com) or at our contact information below.
 
 Seed Media Group, LLC  
-12 W. 21st St, 7th Floor  
-New York, NY 10010  
-Phone: 646 502 7050  
-Fax: 646 502 7040
+
