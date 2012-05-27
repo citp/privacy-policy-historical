@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumba.com.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125142637id_/http%3A//www.jumba.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumba.com.au privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527124127id_/http%3A//www.jumba.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
