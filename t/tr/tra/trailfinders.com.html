@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the trailfinders.com privacy policy that was archived on 2011-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119110355id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trailfinders.com privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527205545id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<!-- Generated: 19/11/2011 11:03:53 -->
+<!-- Generated: 27/05/2012 21:55:46 -->
+<!-- Hobby -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="classification" content="travel">
 <meta name="country" content="UK">
@@ -20,6 +21,8 @@
 <script src="http://www.trailfinders.com/codesource/js/jquery.js" type="text/javascript"></script>
 <script src="http://www.trailfinders.com/codesource/js/colorbox.js" type="text/javascript"></script>
 <script src="http://www.trailfinders.com/codesource/js/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="http://www.trailfinders.com/codesource/micro/viewloginscriptuk.js" type="text/javascript" language="javascript1.2"></script>
+<link rel="StyleSheet" href="http://www.trailfinders.com/codesource/css/gsaLogin.css" type="text/css">
 <script type="text/javascript">
 rnd.today=new Date();
 rnd.seed=rnd.today.getTime();
@@ -39,10 +42,19 @@ function TFddmenu() { return; }
 <div id="header"> 
 <a href="http://www.trailfinders.com"><img src="graphics/logos2/tfHeader.gif" alt="TRAILFINDERS - THE TRAVEL EXPERTS"></a>
 <div id="topNav">
-   <form name="header" onsubmit="return false;" action="">
-     <input name="query" id="query" size="28" maxlength="256" value="" onkeypress="var key; if(window.event){key=event.keyCode;}else if (event.which){key=event.which;}if(key == 13){document.getElementById('gsaSearch').click();return false;}else{return true;}">
-     <input type="button" value="Search" name="Search" id="gsaSearch" onclick="window.location='http://www.trailfinders.com/services.nsf/gsasearch?readform&amp;query='+escape(document.header.query.value); ">
-   </form>
+  <form name="header" onsubmit="return false;" action="">
+      
+	<input class="gsaTxtArea" type="text" value="Search Trailfinders Website..." onblur="if (this.value == '') {this.value = 'Search Trailfinders Website...';}" onfocus="if (this.value == 'Search Trailfinders Website...') {this.value = '';}" onkeypress="var key; if(window.event){key=event.keyCode;}else if (event.which){key=event.which;}if(key == 13){document.getElementById('gsaSearch').click();return false;}else{return true;}" name="query" id="query">
+   <input class="gsaButton" type="button" value="Go" name="Search" id="gsaSearch" onclick="window.location='http://www.trailfinders.com/services.nsf/gsasearch?readform&amp;query='+escape(document.header.query.value); ">
+</form>
+<!--Start of ViewTrail Login -->
+<form name="form1" onsubmit="return false;" action="">
+<input id="name" class="snTxtArea" autocomplete="off" type="text" value="Surname" onblur="if (this.value == '') {this.value = 'Surname';}" onfocus="if (this.value == 'Surname') {this.value = '';}" name="inputtext">
+<input id="bookno" class="bookNumTxtArea" autocomplete="off" type="text" value="Booking Number" onblur="if (this.value == '') {this.value = 'Booking Number';}" onfocus="if (this.value == 'Booking Number') {this.value = '';}" name="inputtext">
+<input class="vtButton" type="button" value="ViewTrail" id="ViewTrail" onclick="validate()" name="button">
+</form>
+<!--End of ViewTrail Login-->
+<div style="float:right;">
    <a href="http://www.trailfinders.com" title="Home">Home</a> | 
    <a href="http://www.trailfinders.com/aboutus" title="About Us">About Us</a> | 
    <a href="http://www.trailfinders.com/news" title="News">News</a> | 
@@ -50,6 +62,7 @@ function TFddmenu() { return; }
    <a href="http://www.trailfinders.com/sitemap" title="Sitemap">Sitemap</a> | 
    <a href="http://www.trailfinders.com/services.nsf/services?ReadForm" title="Services">Services</a> | <!-- hide this section if referer=ie or aus -->
    <a href="http://www.trailfinders.com/viewtrail" title="My Booking - ViewTrail">ViewTrail</a>
+</div>
 </div><!--topNav-->
 </div><!--header-->
 <div style="clear:both;"></div>
@@ -71,7 +84,7 @@ function TFddmenu() { return; }
 <div style="clear:both;"></div>
 
 <div id="banner">
-  <div class="homeimg5"><img style="float: left" src="graphics/buttons2/spacer.gif" height="95" width="785" alt=""><img style="float:right;" src="graphics/telephone3/defaultUK.png" width="190" height="94" alt="Call us to book"></div>
+  <div class="homeimg3"><img style="float: left" src="graphics/buttons2/spacer.gif" height="95" width="785" alt=""><img style="float:right;" src="graphics/telephone3/defaultUK.png" width="190" height="94" alt="Call us to book"></div>
 </div><!--banner-->
 <div id="leftColHome">
 
@@ -118,6 +131,9 @@ function TFddmenu() { return; }
 <p class="mainTxt">Trailfinders and Nedstat use cookies to track users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time, or to monitor the success of a particular campaign. The use of cookies in this way helps to make our system more efficient.</p>
 <p class="mainTxt">Firewalls set up by your company network may prohibit the use of browser cookies.</p>
 <p class="mainTxt">If you would like to know more about cookies, or would like to disable cookies in your browser settings (i.e. refuse cookies) please visit <a href="http://www.aboutcookies.org" title="www.aboutcookies.org">www.aboutcookies.org.</a></p>
+<h3>Who should you contact about our privacy policy?</h3>
+<p class="mainTxt">Please write to The Marketing Department, 9 Abingdon Road, London, W8 6AH</p>
+<p class="mainTxt">Alternatively please call 020 7408 9080 or email marketing@trailfinders.com</p>
 </div><!--main-->
 <div id="rightColHome">
 
@@ -126,8 +142,8 @@ function TFddmenu() { return; }
 <a href="media.nsf/awards?readform" title="Awards"><img src="http://www.trailfinders.com/graphics/logos2/WhichAward.png" width="190" height="160" style="position:static; width: 190px; height: 160px" alt="Trailfinders Awards"></a><!-- UK only -->
 <a href="faq/Trailfinders-Consumer-Protection" title="Consumer Protection"><p style="color:#007568; font-weight:bold; text-align:center; margin:0 0 -1px 0; padding:0; font-size:14px; font-family:Arial, Helvetica, sans-serif; letter-spacing:-0.3px; text-decoration: none">Trusted for over 41 years</p><img src="http://www.trailfinders.com/graphics/logos2/airLogos70op.png" style="width: 190px; height: 44px" width="190" height="44" alt="IATA ATOL ABTA"></a><!-- hide if referer=aus -->
  <div style="clear:both; height:10px;"></div>
+<div style="display:block" class="center">
 <div style="clear: both; height: 5px"></div>
-<div class="center">
 <script type="text/javascript">
  AC_FL_RunContent( 'codebase',
   'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0',
@@ -165,27 +181,38 @@ function TFddmenu() { return; }
     FlashVars="uspxml=http://www.trailfinders.com/graphics/flash/biteSizeUSP/xml/toursUK.xml">
   </embed>
  </object>
-</noscript></div>
+</noscript>
+</div><!-- end of USP flash div -->
   </div><!--rightNav-->
 </div><!--rightColHome-->
 <div style="clear:both;"></div>
 
 <div class="footer">
-            <a href="http://www.trailfinders.com/africa" title="Africa">Africa</a>
-| <a href="http://www.trailfinders.com/asia" title="Asia">Asia</a>
-| <a href="http://www.trailfinders.com/australia" title="Australia">Australia</a> <!-- hide if referer=aus -->
-| <a href="http://www.trailfinders.com/canada" title="Canada">Canada</a>
-| <a href="http://www.trailfinders.com/caribbean" title="Caribbean">Caribbean</a>
-| <a href="http://www.trailfinders.com/europe" title="Europe">Europe</a>
-| <a href="http://www.trailfinders.com/india-the-himalayas-and-sri-lanka" title="India, the Himalayas ∓ Sri Lanka">India, the Himalayas &amp; Sri Lanka</a>
-<br>  <a href="http://www.trailfinders.com/indian-ocean" title="Indian Ocean">Indian Ocean</a>
-| <a href="http://www.trailfinders.com/middle-east" title="The Middle East">The Middle East</a> 
-| <a href="http://www.trailfinders.com/new-zealand" title="New Zealand &amp; the Pacific">New Zealand &amp; the Pacific</a>
-<br>  <a href="http://www.trailfinders.com/round-the-world" title="Round the World">Around the World</a>
-| <a href="http://www.trailfinders.com/south-america" title="South America">South &amp; Central America</a>
-| <a href="http://www.trailfinders.com/usa" title="USA">USA</a>
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=Africa">Africa</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=Australia">Australia</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=Canada%20%26%20Alaska">Canada &amp; Alaska</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=China%2C%20Hong%20Kong%20%26%20Japan">China, Hong Kong &amp; Japan</a>
+ <br>
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=Indian%20Ocean">Indian Ocean</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=India%2C%20the%20Himalayas%20%26%20Sri%20Lanka">India, Sri Lanka, Nepal &amp; Bhutan</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=New%20Zealand%20%26%20the%20Pacific">New Zealand &amp; the Pacific</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=South%20East%20Asia">South East Asia</a>
+ <br>
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=South%20%26%20Central%20America">South &amp; Central America</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=The%20Caribbean">The Caribbean</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=The%20Middle%20East">The Middle East</a>
+ | 
+<a href="http://www.trailfinders.com/tailormadehotels.nsf/tailormadeindex?ReadForm&amp;map1=USA">USA</a>
 <hr style="width:342px; color:#ffffff; margin:3px auto 3px auto;">
-<p class="mainTxtCenter">© 2011 Trailfinders Ltd. | Reg No:1004502 | <a href="http://www.trailfinders.com/media.nsf/privacy?readform">Privacy Policy</a></p>
+<p class="mainTxtCenter">© 2012 Trailfinders Ltd. | Reg No:1004502 | <a href="http://www.trailfinders.com/media.nsf/privacy?readform">Privacy Policy</a></p>
 </div><!--footer-->
 </div><!--wrapper-->
 
