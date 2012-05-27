@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bibleinfo.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224020022id_/http%3A//www.bibleinfo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibleinfo.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527130018id_/http%3A//www.bibleinfo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bibleinfo.com
 
