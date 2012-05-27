@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010632id_/http%3A//www.splcenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527134530id_/http%3A//www.splcenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Southern Poverty Law Center
 
 This Privacy Policy sets forth the practices in effect at the Southern Poverty Law Center to protect the privacy of its website visitors and financial supporters, as well as recipients of its print publications. This Policy also outlines how you can update your information or receive additional information.
 
-  
-**Protecting your information**  
+ **Protecting your information**  
 The SPLC uses electronic security systems to protect any records containing personal identifying information and limits the number of people who have access to such information. Business partners with whom the SPLC may share personal information during the course of usual business must abide by confidentiality agreements, which forbid the disclosure of any personal identifying information to additional parties.
 
- **Online Giving**
-
+ **Online Giving**  
 The SPLC's [online donation process](https://web.archive.org/donations/donate/overview "Donate Now") occurs in a secure portion of the SPLCenter.org website. Submissions are encrypted and secure from outside users via Secure Sockets Layer (SSL) software, the industry standard for secure online transactions. All personal information - including credit card number, name, and address - is encrypted so it cannot be read as it travels over the Internet.  
 ****  
 The SPLC wants you to have positive experiences at its websites -[SPLCenter.org](http://www.splcenter.org/) and [Tolerance.org](http://www.tolerance.org/) \- and to understand your privacy rights while on its websites. If you do not agree with the terms outlined below, do not access the SPLC's websites.
