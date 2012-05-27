@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106145356id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527062328id_/http%3A//www.theamericanwedding.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Your Privacy Is Important | Customer Service | The American Wedding
 
-## Privacy & Security
-
-American Stationery Company, Inc. (the Company), as owner and operator of several commercial web sites, including: 
+American Stationery Company, Inc. (the Company), as owner and operator of several commercial web sites, including:
 
   * [www.americanstationery.com](http://www.americanstationery.com/)
   * [www.theamericanwedding.com](http://www.theamericanwedding.com/)
@@ -28,14 +26,14 @@ is committed to your online security and privacy. We believe that your online sh
       * Links
       * Surveys & Contests
       * Email To Friend
-  * Security
-    * Personal Information
-    * Billing Information
-    * SSL Encryption
-  * Additional Information 
-    * Children's Guidelines
-    * Notification of Changes
-    * Contact Information
+    * Security
+      * Personal Information
+      * Billing Information
+      * SSL Encryption
+    * Additional Information 
+      * Children's Guidelines
+      * Notification of Changes
+      * Contact Information
 
 
 
@@ -52,6 +50,9 @@ Registration enables us to establish a user account for you, and enables the adv
 
 Once your user account has been inactive for a period of 12 months or more or if it is 6 months after the wedding date, we may remove it from our online database and you will need to re-register in order to use those features again. Invalid email addresses will be removed. 
 
+**Catalog Requests**  
+When you order a catalog online you will receive an order confirmation, and a shipping confirmation via e-mail. As a catalog requestor, you will also receive e-mail promotions that can be used on future orders. You may opt-out at any time by clicking the link at the bottom of the e-mail. 
+
 **Order**  
 When ordering, we request additional information from the user. This includes contact information (such as phone number, and address) for billing and shipping, and financial information (such as credit card number, expiration date or checking account number and bank routing number). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
 
@@ -60,7 +61,7 @@ We believe in helping others. We believe that our customers may wish to share th
 
 ### Information Use
 
- **Cookies**  
+**Cookies**  
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies and persistent cookies. Once users close the browser, the session ID cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
 By allowing a cookie from our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in some marketing promotions that may be offered from time to time, to users matching a specific profile. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
@@ -92,7 +93,7 @@ Business Transitions
 In the event the Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
 **Opt-in/out & Update**  
-By using our web site, our users agree to the uses of information described in this statement, and are "opting-in" to receive communications as herein described. Our users always have a choice. They are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by following the opt-out instructions contained in the email or clicking [here](https://web.archive.org/optoutdb.asp). Our users may update their information in "My Account" at any time.
+By using our web site, our users agree to the uses of information described in this statement, and are "opting-in" to receive communications as herein described. Our users always have a choice. They are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by following the opt-out instructions contained in the email or clicking [here](https://web.archive.org/advancednewsletter/manage/). Our users may update their information in "My Account" at any time.
 
 **Links**  
 This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
@@ -107,7 +108,7 @@ If a user elects to use our Email To Friend feature, for inviting a friend or re
 
 This web site takes reasonable precautions to protect our users' information. When users submit sensitive information via the web site, their information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information, that information is encrypted and is protected with the best encryption software in the industry \- SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.
+When our registration/order form asks users to enter sensitive information, that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.
 
 While we use SSL encryption to protect sensitive information online, we also take steps to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.
 
@@ -115,11 +116,11 @@ While we use SSL encryption to protect sensitive information online, we also tak
 We use the information internally, to insure the accurate and timely fulfillment of the user's order. We may also use the information internally, for specific marketing or promotional campaigns, as described within this statement. We may share some information with our affiliate partners and/or our third-party affiliate management company, to ensure proper payment of affiliate commissions. From time to time, we may sell, license or rent lists, containing your name and address information, but never email address, credit card or payment information, to others, unless you request us not to do so. Our users’ election, to have their information shared, or withheld, may be changed at time of ordering. We NEVER sell, license or rent your email address to others.
 
 **Billing Information**  
-Billing information, including credit card account numbers, expiration dates, checking account numbers and bank routing identifiers are never shared with third parties, except those companies associated with order and payment processing. 
+Billing information, including credit card account numbers, expiration dates, checking account numbers and bank routing identifiers are never shared with third parties, except those companies associated with order and payment processing.
 
 **SSL Encryption**  
 Digital certificates encrypt data using [Secure Sockets Layer](http://developer.netscape.com/tech/security/ssl/howitworks.html) (SSL) technology, the industry-standard method for protecting web communications developed by Netscape Communications Corporation. The SSL security protocol provides data encryption, server authentication, message integrity, and optional client authentication for a TCP/IP connection. Because SSL is built into all major browsers and web servers, simply installing a digital certificate turns on their SSL capabilities.   
-SSL comes in two strengths, 40-bit and 128-bit, which refer to the length of the "session key" generated by every encrypted transaction. The longer the key, the more difficult it is to break the encryption code. Most browsers support 40-bit SSL sessions, and the latest browsers enable users to encrypt transactions in 128-bit sessions - trillions of times stronger than 40-bit sessions. Our web site supports 128-bit sessions. 
+SSL comes in two strengths, 40-bit and 128-bit, which refer to the length of the "session key" generated by every encrypted transaction. The longer the key, the more difficult it is to break the encryption code. Most browsers support 40-bit SSL sessions, and the latest browsers enable users to encrypt transactions in 128-bit sessions - trillions of times stronger than 40-bit sessions. Our web site supports 128-bit sessions.
 
 ## Additional Information 
 
@@ -133,7 +134,7 @@ Each time you purchase a product from this site, or provide information about yo
 We reserve the right to make changes to this policy at our sole discretion. If we change our privacy policy, we will post the new, updated privacy statement on our web site, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We may, at our option, send an email notification to our users, advising them of changes to this policy, or changes in our terms and conditions.
 
   **Contact Information  
-**If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+**If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 [www.tawhelp.com](http://www.tawhelp.com/)  
 Phone: 1-765-473-4438   
