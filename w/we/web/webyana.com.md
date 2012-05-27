@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115958id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527095337id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
 
-# Webyana - Affordable Solutions for Small Businesses
+# Webyana - Create your free website in minutes
+
+## Privacy Policy
 
 This policy covers how Webyana Technologies Private Ltd, a private limited company incorporated under the Indian Companies Act 1956, treats personal information that it collects and receives on www.webyana.com 
 
