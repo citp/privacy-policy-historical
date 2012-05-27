@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126050629id_/http%3A//www.moviegoods.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527053513id_/http%3A//www.moviegoods.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # MovieGoods - Privacy Policy
 
-This privacy statement discloses the privacy practices for MovieGoods, Inc. ([http://www.moviegoods.com](http://www.moviegoods.com/))   
+This privacy statement discloses the privacy practices for MovieGoods ([http://www.moviegoods.com](http://www.moviegoods.com/))   
 Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices has also agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through the website; 
@@ -10,16 +10,16 @@ Because this website wants to demonstrate its commitment to your privacy, it has
   3. How the information is used; 
   4. With whom the information may be shared; 
   5. What choices are available to you regarding collection, use and distribution of the information; 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under MovieGoods, Inc.’s control; 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under MovieGoods’s control; 
   7. How you can correct any inaccuracies in the information. 
 
 
 
-If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by email at [help@moviegoods.com](mailto:help@moviegoods.com), or telephone at (919) 595-1110, or by mail at 9300 Globe Center Drive, Suite 116, Morrisville, North Carolina 5760. 
+If you believe that MovieGoods is not abiding by its posted privacy policy, please contact our Privacy Advocate by email at [help@moviegoods.com](mailto:help@moviegoods.com), or telephone at (919) 595-1110, or by mail at 9300 Globe Center Drive, Suite 116, Morrisville, North Carolina 5760. 
 
 ## Information Collection and Use
 
-MovieGoods, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MovieGoods, Inc. collects information from our users at several different points on our website. 
+MovieGoods is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MovieGoods collects information from our users at several different points on our website. 
 
 Return to Top
 
@@ -43,7 +43,7 @@ During the registration process, during the order process, and at other times at
 
 ## Cookies
 
-A cookie is a piece of data stored by your web browsing software, on your hard disk drive, which is used by a website to identify and "remember" you during subsequent accesses. MovieGoods, Inc. delivers a "cookie" to you in order to identify and "remember" you during your visit to our site, and during your subsequent visits to our site. If you choose to register, or if you place an order, MovieGoods, Inc. will use the cookie to avoid asking for the same information more than once. For example, we plan to offer a "wish list" feature so that you may store product information in a personal list that will be remembered during later visits to our site. We also want to provide a personal welcome when you return to our site, and we hope that as we learn some of your preferences, we can deliver personalized content and special merchandising offers to you. 
+A cookie is a piece of data stored by your web browsing software, on your hard disk drive, which is used by a website to identify and "remember" you during subsequent accesses. MovieGoods delivers a "cookie" to you in order to identify and "remember" you during your visit to our site, and during your subsequent visits to our site. If you choose to register, or if you place an order, MovieGoods will use the cookie to avoid asking for the same information more than once. For example, we plan to offer a "wish list" feature so that you may store product information in a personal list that will be remembered during later visits to our site. We also want to provide a personal welcome when you return to our site, and we hope that as we learn some of your preferences, we can deliver personalized content and special merchandising offers to you. 
 
 We also associate your "cookie" with information about the web site that first referred you to MovieGoods.com, so that we can reward these "affiliates" by paying them a small commission on your purchases, in certain circumstances. Your personal identifying information is never disclosed to our affiliates. 
 
@@ -75,7 +75,7 @@ Return to Top
 
 ## Links
 
-This website contains links to other sites. When you click on such links to external websites, none of the personal identifying information we gather is shared with those other sites. Please be aware that we (MovieGoods, Inc.) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. 
+This website contains links to other sites. When you click on such links to external websites, none of the personal identifying information we gather is shared with those other sites. Please be aware that we (MovieGoods) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.google.com/privacy_ads.html). 
 
