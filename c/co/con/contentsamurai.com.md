@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentsamurai.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126185351id_/http%3A//www.contentsamurai.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentsamurai.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527091257id_/http%3A//www.contentsamurai.com/privacy.htm) for the most accurate reproduction.*
 
 # Page Building - Fresh Content - Linking Strategy - Content Samurai
 
