@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004355id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527184432id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
   
 **PRIVACY**
 
-We at goireland.com are committed to protecting your privacy and this Privacy Policy sets out what we do with any of your information which we may obtain when you use our website [www.goireland.com](http://www.goireland.com/) (referred to in these policies as the “website” or the “site”) or the Gulliver booking system. The site is operated by Gulliver InfoRes Services, FEXCO Centre, Killorglin, Co Kerry, Ireland (referred to in these policies as "we"/"us"/"our"). 
+We at goireland.com are committed to protecting your privacy and this Privacy Policy sets out what we do with any of your information which we may obtain when you use our website [www.goireland.com](http://www.goireland.com/) (referred to in these policies as the “website” or the “site”) or the Gulliver booking system. The site is operated by Visitravel Ltd., FEXCO Centre, Killorglin, Co Kerry, Ireland (referred to in these policies as "we"/"us"/"our"). 
 
 **Using our site**   
 By using our site, you signify that you agree with the terms of our current Privacy Policy as posted on this site from time to time.
@@ -76,5 +76,5 @@ To give you an additional layer of security, all credit or debit card numbers ar
 **Contacting Us**   
 If you have any questions about this Privacy and Security Policy, please contact us at [privacy@gulliverireland.com](mailto:privacy@gulliverireland.com). Also, please contact us if you have any comments on how we can improve our policies. We reserve the right to change or remove this Privacy Policy and/or this Security Policy at our discretion and will post any new Privacy Policy and/or Security Policy here and we encourage you to visit this area frequently to stay informed.
 
-**© 2007 Gulliver InfoRes Services  
-**
+  
+
