@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufile.ca privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125153506id_/http%3A//www.drtax.ca/en/UFile/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufile.ca privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527032122id_/http%3A//www.drtax.ca/en/UFile/privacy-policy.aspx) for the most accurate reproduction.*
 
 # UFile: Privacy Policy
 
@@ -46,7 +46,16 @@ Dr Tax will identify the purposes for which we are collecting any personal infor
 
 
 
-You can prevent future secondary use of your information by “opting out” when Dr Tax collects your information or at any time by simply contacting us.  
+You can prevent future secondary use of your information by “opting out” when Dr Tax collects your information or at any time by simply contacting us.
+
+Chief Privacy Officer  
+Dr Tax Software Inc.   
+3333 Graham Blvd  
+Suite 222  
+Montreal, Quebec  
+H3R 3L5  
+
+
 Opting out only applies to the secondary purposes because we may need to contact you regarding the primary purposes above.
 
 The UFile ONLINE web-based tax preparation service collects tax return information required to assist you in completing and filing your tax return. This tax information is used for the sole purpose of helping you prepare and file your tax return. Dr Tax does not use this tax information data for other purpose.
