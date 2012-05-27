@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231160618id_/http%3A//www.psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527135131id_/http%3A//www.psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
 
 # Contact Information - Psychologist World
 
@@ -144,6 +144,57 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 >  
+
+In line with most major web sites, this site uses cookies to enable users to use specific functions on the website, and to track usage of the site.
+
+###### What data is stored in cookies?
+
+  
+This site uses cookies to store statistics about a user's visit so that we can improve the site's usability, and to store essential user-specific information such as login details and the items that you add to your shopping basket. This site assumes implied consent with regards to a user’s request to save a setting (e.g. country, login details, shopping cart change), and where cookies are automatically set, this is in compliance with our Terms and Conditions of use.
+
+###### What cookies are used to store information?
+
+  
+This site uses cookies to store statistics about a user’s visit so that we can improve the site’s usability, and to store essential user-specific information such as login details and the items that you add to your shopping basket.
+
+  * __utma   
+Third party-set Google Analytics cookie. Used to track user clicks on the website to improve the site. 
+  * __utmb   
+Third party-set Google Analytics cookie.  Statistics pertaining to a user’s visit. 
+  * __utmc  
+Third party-set Google Analytics cookie.  Time spend on site. 
+  * __utmz   
+Third party-set Google Analytics cookie. Source by which user found the site. 
+  * aa  
+e.g. login  
+Login information required to enable subscribers to log in.
+  * bb  
+e.g. 098f6bcd4621d373cade4e832627b4f6  
+Login information required to enable subscribers to log in.
+  * Other Product Cookies:   
+Used to track users for purposes such as Google AdWords and Analytics.
+  * Other cookies:   
+e.g. Login details, information for administrating users  
+These cookies shouldn’t affect general visitors.
+
+
+
+###### How can I prevent my web browser from storing cookies?
+
+The most effective way to prevent this site and 3rd parties such as Google from storing cookies is to block the domains of the cookies (e.g. “.hypnoticworld.com”) in your web browser settings. This varies between browser brands and versions. You can find more information below:
+
+Microsoft®  Windows® users:  
+<http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies>
+
+FireFox users:  
+<http://support.mozilla.org/en-US/kb/Blocking%20cookies>
+
+Safari users:  
+<http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>
+
+Users of other web browsers can usually find information from the manufacturer of the software, usually through the Help section of the program.
+
+For more information on our cookies policy, please contact us – email support details can be found on the Contact Us page.
 
 ###### Self Hypnosis CD's from Hypnotic World:
 
