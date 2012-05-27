@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slh.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222045159id_/http%3A//www.slh.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slh.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527090453id_/http%3A//www.slh.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Small Luxury Hotels of the World | slh.com
 
@@ -36,11 +36,12 @@ SLH may use your personal information to:
 (c) enable your use of the services available on the web-site;  
 (d) send you goods purchased via the web-site and/or supply you with services purchased via the web-site;  
 (e) send statements and invoices to you and process payments;  
-(f) send you general (non-marketing) commercial communications;  
-(g) send you e-mail notifications which you have specifically requested;  
-(h) send you marketing communications relating to our business or the businesses of carefully selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by e-mail or similar technology (you can inform us at any time if you no longer require marketing communications);  
-(i) provide third parties with statistical information about our users but this information will not be used to identify any individual user;  
-(j) deal with enquiries and complaints made by or about you relating to the web-site.
+(f) track your use of the reservation process and contact you once via email regarding your experience;  
+(g) send you general (non-marketing) commercial communications;  
+(h) send you e-mail notifications which you have specifically requested;  
+(i) send you marketing communications relating to our business or the businesses of carefully selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by e-mail or similar technology (you can inform us at any time if you no longer require marketing communications);  
+(j) provide third parties with statistical information about our users but this information will not be used to identify any individual user;  
+(k) deal with enquiries and complaints made by or about you relating to the web-site.
 
 Where you submit personal information for publication on the web-site, SLH will publish and otherwise use that information in accordance with the license you grant to us.
 
