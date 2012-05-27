@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206072951id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527060630id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
 
 # Marshalls Privacy Policy
 
@@ -143,5 +143,3 @@ Attn: Customer Service - Privacy Notice
 ### Changes to Our Notice
 
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our information practices. We will post a prominent notice on the site to notify you of any significant changes to our Privacy Notice and indicate when it was most recently updated. 
-
-©2011 Marshalls. All rights reserved.
