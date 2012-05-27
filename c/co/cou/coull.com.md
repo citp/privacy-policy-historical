@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208081558id_/http%3A//coull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527172906id_/http%3A//coull.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | coull.com
 
@@ -16,6 +16,22 @@ The information we collect via the Website may include.
   * Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers help facility.
 
 
+
+### Users
+
+This section describes the information collected from visitors and how it is used by Coull.
+
+#### How we use cookies on our website
+
+A cookie is a small text file that is stored on a user's computer for tracking and record-keeping purposes. We use both session ID cookies and persistent cookies, further details of which can be obtained[here](http://coull.com/visitor-cookies). We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies via your browser’s ‘clear cookie’ function. Please see[allaboutcookies.org](http://www.allaboutcookies.org/) for more information about blocking cookies on your particular web browser.
+
+Unless you have adjusted your browser setting so that it will refuse cookies, we will drop cookies as soon as you visit any of our domains.
+
+Persistent cookies enable us to track and target your interests to enhance your experience on our website and, if applicable, the Coull Publisher Dashboard. For example, we use this data to understand how you interact with our website so we can make improvements to the information and design of our website. By agreeing to the terms of this privacy policy, you consent to the cookies referenced above being dropped onto your machine.
+
+#### What we share with third parties
+
+We use a 3rd party analytics company, which drops cookies via our website and collects non-personally identifiable information about you, so we can understand how you use our website. We do not have access to or control over these cookies, but please see [here](http://coull.com/visitor-cookies) for more information on these cookies. By agreeing to the terms of this privacy policy, you consent to the cookies referenced above being dropped onto your machine.
 
 ### What we do with your information
 
