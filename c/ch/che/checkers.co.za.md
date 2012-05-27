@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkers.co.za privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127072736id_/http%3A//www.checkers.co.za/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkers.co.za privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527150155id_/http%3A//www.checkers.co.za/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Client Information Processing Policy
 
