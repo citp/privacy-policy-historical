@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callercenter.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126155104id_/http%3A//www.callercenter.com/disclaimer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callercenter.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527034141id_/http%3A//www.callercenter.com/disclaimer-privacy-policy.html) for the most accurate reproduction.*
 
 # CallerCenter Disclaimer/Privacy Policy
 
