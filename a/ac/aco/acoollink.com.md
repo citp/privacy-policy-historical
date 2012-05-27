@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125715id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527060247id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | | A Cool LinkA Cool Link
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ACoolLink.com / A Cool Link LLC, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -53,14 +53,3 @@ If you do not agree to A Cool Link LLC’s Privacy Policy as posted here on this
 **Your use of this site indicates acceptance of this privacy policy.**
 
 [](http://www.linkwithin.com/)
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&srcTitle=A+Cool+Link+Cool+Links+From+Around+the+Web "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=A+Cool+Link+Cool+Links+From+Around+the+Web&summary=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
