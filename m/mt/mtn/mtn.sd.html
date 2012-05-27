@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtn.sd privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125081431id_/http%3A//www.mtn.sd/en/article/mtn-sudan/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtn.sd privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527101139id_/http%3A//www.mtn.sd/en/article/mtn-sudan/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - MTN Sudan</title>
@@ -317,9 +317,9 @@ $('.related-links li a').each(function(){
 																					
 		
 										<div class="social">
-		<a href="http://www.facebook.com/mtnsudan?ref=ts#!/mtnsudan" class="facebook" target="_blank">
+		<a href="http://www.facebook.com/#!/mtnsudan1" class="facebook" target="_blank">
 		<strong>Become a fan of MTN</strong>
-		Connect with us on Facebook
+		Connect with us on Face book
 		</a>
 	</div>
 
@@ -456,7 +456,7 @@ FAQ
 </a>
 
 </li></ul>	
-			<p class="copyright"> All rights reserved. © 2011 MTN.</p>
+			<p class="copyright"> All rights reserved. © 2012 MTN.</p>
 			<ul id="sitemap" class="grid_16 alpha omega"><li id="nav-sitemap-en_8">
 <a href="/en">
 For you
@@ -624,13 +624,13 @@ Contact us
 <!--
 var cfm_formEmail
 
-function cmFormValidate_formEmail(id,extras) { cfm_formEmail = $('#' + id).validate({  errorPlacement : function(error,element) { var errorContainer = element.parent().find(".error").is("span"); if(errorContainer) { var message = error.text() ; element.next(".error").html(message).attr("style","color:red;"); } else { error.insertAfter(element); } } ,rules: {  'username' : {  required :  true, email :  true }, 'passwd' : {  required :  true }}, messages: {  'username' : {  required :  "Enter your email id.", email :  "Enter a valid email address." }, 'passwd' : {  required :  "Enter your password." } } }); return cfm_formEmail; }; 
+function cmFormValidate_formEmail(id,extras) { var $ = jQuery; cfm_formEmail = $('#' + id).validate({  errorPlacement : function(error,element) { var errorContainer = element.parent().find(".error").is("span"); if(errorContainer) { var message = error.text() ; element.next(".error").html(message).attr("style","color:red;"); } else { error.insertAfter(element); } } ,rules: {  'username' : {  required :  true, email :  true }, 'passwd' : {  required :  true }}, messages: {  'username' : {  required :  "Enter your email id.", email :  "Enter a valid email address." }, 'passwd' : {  required :  "Enter your password." } } }); return cfm_formEmail; }; 
 -->
 </script>
 
 <script type="text/javascript" language="javascript">
 <!--
-$(document).ready(function(){
+jQuery(document).ready(function(){
 var cfm_formEmail = cmFormValidate_formEmail("formEmail","");
 });
 -->
