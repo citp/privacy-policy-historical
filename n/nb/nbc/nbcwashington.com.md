@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the nbcwashington.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014095549id_/http%3A//www.nbcwashington.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcwashington.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527144603id_/http%3A//www.nbcwashington.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NBC Washington
-
-## Privacy Policy
+# Privacy Policy | NBC4 Washington
 
 _This Privacy Policy was last updated on July 8, 2011._
 
  **Introduction:Owned Television Stations**
 
-The web sites which are located at the domain NBCWashington.com (the "Site") are operated by [NBC](https://web.archive.org/web/20111014095549id_/http://topics?topic=NBC+Universal+Inc.) Owned Television Stations. Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the [United States of America](https://web.archive.org/web/20111014095549id_/http://topics?topic=United+States). If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcwashington.com](mailto:newsletters@nbcwashington.com) or at the address at the end of this policy.
+The web sites which are located at the domain NBCWashington.com (the "Site") are operated by [NBC](https://web.archive.org/web/20120527144603id_/http://topics?topic=NBC+Universal+Inc.) Owned Television Stations. Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the [United States of America](https://web.archive.org/web/20120527144603id_/http://topics?topic=United+States). If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcwashington.com](mailto:newsletters@nbcwashington.com) or at the address at the end of this policy.
 
 PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
@@ -16,7 +14,7 @@ PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULL
 
 • Personal Data
 
-• Aggregate and [Anonymous Data](https://web.archive.org/web/20111014095549id_/http://topics?topic=Anonymous+Data+Corp.)
+• Aggregate and [Anonymous Data](https://web.archive.org/web/20120527144603id_/http://topics?topic=Anonymous+Data+Corp.)
 
 2\. Use of Cookies and Other Technologies
 
@@ -62,7 +60,7 @@ Personally Identifiable Information (“Personal Data”) is any information tha
 
 Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site (“AA Data”). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
 
- **2\. Use of Cookies and[ Similar Technologies](https://web.archive.org/web/20111014095549id_/http://topics?topic=Similar+Technologies):**
+ **2\. Use of Cookies and[ Similar Technologies](https://web.archive.org/web/20120527144603id_/http://topics?topic=Similar+Technologies):**
 
 Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
 
@@ -150,7 +148,7 @@ NBC Owned Television Stations
 
 30 Rockefeller Plaza
 
-[New York, NY](https://web.archive.org/web/20111014095549id_/http://topics?topic=New+York+City) 10112
+[New York, NY](https://web.archive.org/web/20120527144603id_/http://topics?topic=New+York+City) 10112
 
   
   
