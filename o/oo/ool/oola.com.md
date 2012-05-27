@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oola.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529012303id_/http%3A//www.oola.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oola.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527033244id_/http%3A//www.oola.com/privacy.html) for the most accurate reproduction.*
 
 # Oola.com | Privacy Policy
 
