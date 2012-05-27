@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saralvaastu.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116015832id_/http%3A//www.saralvaastu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saralvaastu.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527062500id_/http%3A//www.saralvaastu.com/privacy-policy) for the most accurate reproduction.*
 
 # Saral Vaastu
 
