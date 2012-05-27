@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgehungry.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123164711id_/http%3A//www.badgehungry.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgehungry.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527194913id_/http%3A//www.badgehungry.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — BadgeHungry!
 
@@ -46,10 +46,16 @@ Legal Disclaimer
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
+Affiliate Information
+
+BadgeHungry is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
+
+Links to outside resources are affiliate links wherever possible.
+
 Contact Details
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by email, our contact information is as follows:
 
 [admin@badgehungry.com](mailto:admin@badgehungry.com)
 
-This privacy policy was last updated on February 15, 2011.
+This privacy policy was last updated on April 5, 2012.
