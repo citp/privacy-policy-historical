@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixpubliclibrary.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218113845id_/http%3A//www.phoenixpubliclibrary.org/pageView.jsp%3Fid%3D6430) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixpubliclibrary.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527093124id_/http%3A//www.phoenixpubliclibrary.org/pageView.jsp%3Fid%3D6430) for the most accurate reproduction.*
 
 # Phoenix Public Library - www.phoenixpubliclibrary.org
 
