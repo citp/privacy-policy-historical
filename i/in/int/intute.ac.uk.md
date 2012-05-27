@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intute.ac.uk privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025175804id_/http%3A//www.intute.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intute.ac.uk privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527122813id_/http%3A//www.intute.ac.uk/privacy.html) for the most accurate reproduction.*
 
 # Intute - Privacy policy
 
