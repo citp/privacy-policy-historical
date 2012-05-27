@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsports.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231183356id_/http%3A//outsports.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsports.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528013050id_/http%3A//www.outsports.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Outsports: The Home For Gay Sports Fans and Athletes
 
