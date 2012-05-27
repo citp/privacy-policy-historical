@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127124713id_/http%3A//www.utahcoupondeals.com/getting-started/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527150904id_/http%3A//www.utahcoupondeals.com/getting-started/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Utah Coupon Deals
 
-[](http://www.utahcoupondeals.com/getting-started/privacy-policy/logo_small-copy/)
+[](http://www.utahcoupondeals.com/getting-started/privacy-policy/locked-keys/)
 
 At Utah Coupon Deals, we are committed to protecting your privacy wither you are a first-time visitor or regular reader of this website.
 
