@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003151206id_/http%3A//www.ticketleap.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527085929id_/http%3A//www.ticketleap.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# TicketLeap Privacy Policy - The leading social ticketing platform.
+# TicketLeap Privacy Policy - The Leading Social Ticketing Platform.
 
 Last Updated: April 29, 2011
-
-  * What Information We Collect and How We Do It
-  * Collection of Information You Provide Voluntarily
-  * Automatic Collection of Information
-  * How We Use Your Information
-  * How We Share Your Information
-  * Your Postings
-  * Visiting Our Site from Outside the United States
-  * Our Security Precautions
-  * Access to Your Personally Identifiable Information
-  * Your California Privacy Rights
-  * Children's Privacy
-  * Third-Party Links
-  * Contact Information
-
-
 
 Welcome to the TicketLeap.com website, which is owned and operated by TicketLeap, Inc. ("TicketLeap," "We," "Us," or "Our"). We have created this Privacy Policy for the benefit of the users ("You" or "Your") of Our TicketLeap.com website (the "Site"), to demonstrate our serious commitment to protecting Your privacy. Our users include potential patrons of events listed on the Site as well as "Event Affiliates," by which We mean the event venue and the promoter or organizer of an event, as well as their authorized third-party service providers. The following information summarizes how TicketLeap collects, uses and discloses information on and through the Site, as well as any other information You provide to us over the Internet or through our mobile applications. This Privacy Policy also applies to any offline contact that You have with Us or Our office, such as over the telephone, but does NOT apply to information collected from our employees and contractors. Finally, this Privacy Policy applies to information about third-party individuals collected by Us from Our Site users. 
 
@@ -46,7 +30,7 @@ Our Site, like many websites on the Internet, uses "cookies." A cookie is a smal
 
 We use cookies for purposes that include, but are not limited to, keeping track of Your purchases and other activities on the Site, delivering content specific to Your interests, saving Your password, and if You choose, saving other personal and financial information so You do not have to re-enter it each time You visit the Site. We do this to enhance Your experience on Our Site and to make it as easy to use as possible.
 
-Third-party advertisers and advertising networks on the Site may also place their own cookies on Your browser and collect information directly from You in this manner, although they do not have access to cookies set by the Site. These third party cookies are set to, among other things, help deliver advertisements to You that You might be interested in (both on our Site and other websites that you may visit in the future), to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to You. The use of these cookies and other automated technologies by such third parties to collect information are governed by each third party's specific privacy policy, not this one. While We may use a variety of companies to serve advertisements on the Site, You may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers We may use.
+Third-party advertisers and advertising networks on the Site may also place their own cookies on Your browser and collect information directly from You in this manner, although they do not have access to cookies set by the Site. These third party cookies are set to, among other things, help deliver advertisements to You that You might be interested in (both on our Site and other websites that you may visit in the future), to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to You. The use of these cookies and other automated technologies by such third parties to collect information are governed by each third party's specific privacy policy, not this one. While We may use a variety of companies to serve advertisements on the Site, You may wish to visit http://www.networkadvertising.org/optout_nonppii.asp, which provides information regarding the "opt-out" procedures of certain third party ad servers We may use.
 
 If you do not wish to accept cookies, you can usually set your browser to decline them, and if You wish to delete or disable cookies previously placed on your computer, the "help" portion of the toolbar on most browsers will tell You how to do so. Please note, however, that if You choose to set Your browser to decline, delete or disable cookies, You may not be able to access certain areas of Our Site.
 
@@ -70,7 +54,7 @@ TicketLeap uses Your information (whether personally identifiable or non-persona
   * communicate with You about products or services that may be of interest to You either from Us or third parties (e.g. discounts, special events and exclusive deals); 
   * develop and display content and advertising (such as targeted ads) tailored to Your interests on Our Site and other webistes:
   * verify Your eligibility and deliver prizes in connection with promotions, contests and sweepstakes; 
-  * enforce [**Our Terms of Service**](http://www.ticketleap.com/info/terms/); 
+  * enforce [**Our Terms of Service**](http://www.ticketleap.com/legal/terms-of-service/); 
   * protect TicketLeap, Our Event Affiliates, our Site, Our customers and/or other users, and other third parties from fraud, hacking or other harm;
   * cooperate with legal, criminal or regulatory investigations or proceedings; 
   * provide You with newsletters, RSS feeds, or other communications or services which You have signed up for or otherwise agreed to receive; 
@@ -90,7 +74,7 @@ From time to time, where permitted by applicable law, We may share Your personal
 
 In addition, We may disclose Your personally identifiable and non-personally identifiable information to Our agents, contractors and service providers who are engaged to perform functions on Our behalf (such as processing of payments, provision of data storage, hosting of Our website, marketing of Our products and services, conducting audits, and performing web analytics). For example, in order to process transactions and payments on the Site, We will share Your personally identifiable information with providers of credit and debit card processing services and payment applications, and other agents, representatives, contractors, vendors and service providers, so they can provide Us with support services such as authorization of credit and debit card transactions, order and ticket fulfillment, and promotional fulfillment. These third party contractors and service providers shall be permitted to obtain only the personally identifiable information they need to provide the service.
 
-We may also disclose Your personally identifiable information to third parties when We believe, in good faith and in Our sole discretion, that such disclosure is reasonably necessary to (a) enforce or apply [**Our Terms of Service**](http://www.ticketleap.com/info/terms/), including investigation of potential violations thereof, (b) comply with legal or regulatory requirements or cooperate with a law enforcement or regulatory investigation, (c) protect the rights, property or safety of Us, Our users or other third parties, (d) prevent a crime or protect national security, or (e) detect, prevent or otherwise address fraud, security or technical issues. We may also disclose non-personally identifiable information to Our business partners, merchants, advertisers, investors, potential buyers and other third parties if We deem such disclosure, in Our sole discretion, to have sound business reasons or justifications. 
+We may also disclose Your personally identifiable information to third parties when We believe, in good faith and in Our sole discretion, that such disclosure is reasonably necessary to (a) enforce or apply [**Our Terms of Service**](http://www.ticketleap.com/legal/terms-of-service/), including investigation of potential violations thereof, (b) comply with legal or regulatory requirements or cooperate with a law enforcement or regulatory investigation, (c) protect the rights, property or safety of Us, Our users or other third parties, (d) prevent a crime or protect national security, or (e) detect, prevent or otherwise address fraud, security or technical issues. We may also disclose non-personally identifiable information to Our business partners, merchants, advertisers, investors, potential buyers and other third parties if We deem such disclosure, in Our sole discretion, to have sound business reasons or justifications. 
 
 Certain information relating to usage of the Site and/or Our services may be shared with third parties (such as advertisers, Event Affiliates, marketing partners, service providers and others) on an aggregated, anonymous basis for research, analytical or promotional purposes (for example, so that they can customize their advertisements, promotions, and communications to the appropriate audience). However, such information will not identify You as the subject or source of the information. 
 
@@ -102,7 +86,7 @@ Finally, please also be aware that Event Affiliates and other third parties visi
 
 #### Your Postings
 
-We may provide areas on Our Site where You can post information about Yourself, communicate with others, post reviews or upload content. Whenever You disclose personally identifiable information publicly (such as on publicly viewable web pages), that information becomes public and can be collected and used by others, including for the sending of unsolicited messages. We can't control who reads Your posting or what others may do with information You voluntarily post, so we encourage You to use Your discretion with respect to posting personally identifiable information. Also, such postings are governed by [**Our Terms of Service**](http://www.ticketleap.com/info/terms/), so be sure to review them before posting.
+We may provide areas on Our Site where You can post information about Yourself, communicate with others, post reviews or upload content. Whenever You disclose personally identifiable information publicly (such as on publicly viewable web pages), that information becomes public and can be collected and used by others, including for the sending of unsolicited messages. We can't control who reads Your posting or what others may do with information You voluntarily post, so we encourage You to use Your discretion with respect to posting personally identifiable information. Also, such postings are governed by [**Our Terms of Service**](http://www.ticketleap.com/legal/terms-of-service/), so be sure to review them before posting.
 
 #### Visiting Our Site from Outside the United States
 
