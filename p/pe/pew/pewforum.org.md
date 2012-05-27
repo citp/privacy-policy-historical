@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewforum.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193036id_/http%3A//pewforum.org/Feeds-and-Tools/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewforum.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527150113id_/http%3A//www.pewforum.org/Feeds-and-Tools/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Pew Forum on Religion & Public Life
 
