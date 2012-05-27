@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwee.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128141156id_/http%3A//www.zwee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwee.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527130300id_/http%3A//www.zwee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | zwee - Cheap Electronics & Gadgets, Deals, Offers and Video Reviews.
 
