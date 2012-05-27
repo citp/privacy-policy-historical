@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102233659id_/http%3A//www.iplcricketlive.com/db/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527223556id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
 
-# cricket20 - IPL Cricket Live :: Indian Premier League - Privacy Policy
+# IPL Cricket Live 2012, IPL5, IPL2012 - Privacy Policy
 
-GreenBerry Media (GBM) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+The following Privacy Statement discloses the information gathering and dissemination practices for iplcricketlive.com
 
-**Personal Information**  
-We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
+Our site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer’s hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. If a guest makes a purchase, cookies are used to keep the shopping cart active during the shopping process. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
+We may use an outside ad company to display ads on our Site. These ads may contain cookies and are collected by our ad company, and we do not have access to this information.
 
-**Use of Information**  
-We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
+We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Website). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink, chances are that your IP address varies each session, thus making it effectively impossible for us to use your IP address to determine who you are.
 
-We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
+In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
 
-When we collect your information, we will give you the ability to indicate that you do not want us to use your personal information for disclosed secondary purposes. At any time, you may notify us of your preference on this issue by contacting our privacy officer as set out at the end of this document. Please allow a reasonable time for your preference to be implemented.   
-**  
-Cookies**  
-Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. 
+By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
-If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
+Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. These companies may use some information (such as your domain type, your IP address, about your visits to this and other Websites) in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin (at) iplcricketlive (dot) com
