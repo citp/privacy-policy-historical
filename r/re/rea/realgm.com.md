@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818234810id_/http%3A//www1.realgm.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527144654id_/http%3A//basketball.realgm.com/info/privacy_policy) for the most accurate reproduction.*
 
 # RealGM: Privacy Policy
 
