@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the competitionhunter.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126094059id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the competitionhunter.com privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527113523id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head>
+<!-- Sunday 27th of May 2012 12:35:22 PM -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
@@ -10,7 +11,7 @@
 <meta name="keywords" content="privacy policy">
 <link rel="stylesheet" type="text/css" href="/templates/ExpandedList/css/style_expand.css" title="EXPExpanded">
 <link rel="alternate stylesheet" type="text/css" href="/templates/ExpandedList/css/style.css" title="EXPList" disabled="">  
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/ExpandedList/js/3rdparty/Yetii/yetii.js"></script>
+<script type="text/javascript" async="" src="https://assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/ExpandedList/js/3rdparty/Yetii/yetii.js"></script>
 <script type="text/javascript" src="/templates/ExpandedList/js/3rdparty/css_browser_selector/css_browser_selector.js"></script>
 <script type="text/javascript" src="/templates/ExpandedList/js/switcher.js"></script>
 <script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
@@ -33,17 +34,85 @@ $(function() {
 
 
 
+
+<link rel="stylesheet" type="text/css" href="http://www.competitionhunter.com/modules/thumbnail_plus/css/shadows.css">
+
+
+<script>
+function tweet_story(htmlid, linkid)
+{
+//	var emailtodisplay=document.getElementById('tweet-' + htmlid).style.display ? '' : 'none';
+//	document.getElementById('emailto-' + htmlid).style.display = emailtodisplay;
+
+	if (xmlhttp) {
+		url = $thisurl + "/modules/twitter/sendtweet.php";
+		mycontent = "htmlid=" + htmlid + "&linkid=" + linkid;
+		target2 = document.getElementById ('tweet-' + htmlid);
+		target2.innerHTML = "<img src='./modules/twitter/templates/images/tweet_sending.gif' width='110' height='20' style='border:0;padding:0;marign:0;' title='Sending Tweet...' alt='Sending Tweet...' />";	
+		
+		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+		
+		if (mnmxmlhttp) {
+			mnmxmlhttp[htmlid].open ("POST", url, true);
+			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
+					   'application/x-www-form-urlencoded');
+
+			mnmxmlhttp[htmlid].send (mycontent);
+			errormatch = new RegExp ("^ERROR:");
+			target1 = document.getElementById ('tweet-' + htmlid);
+			mnmxmlhttp[htmlid].onreadystatechange = function () {
+				if (mnmxmlhttp[htmlid].readyState == 4) {
+					if (mnmxmlhttp[htmlid].responseText.match (errormatch)) {
+						target2 = document.getElementById ('tweet-' + htmlid);
+						target2.innerHTML = '<font color=red>'+mnmxmlhttp[htmlid].responseText.substring (6, mnmxmlhttp[htmlid].responseText.length)+'</font>';
+					} else {
+						target2 = document.getElementById ('tweet-' + htmlid);
+						target2.innerHTML = mnmxmlhttp[htmlid].responseText;
+					}
+				}
+			}
+		}
+	}
+}
+</script>
+
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.competitionhunter.com/rss.php">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body>
 <a name="top"></a>
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+var logout_url = "/login.php?op=logout&amp;return=";
+var appid = "386938501336523";
+
+
+
+  window.fbAsyncInit = function() {
+    FB.init({appId: appid, status: true, cookie: true, xfbml: true});
+  };
+
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+	function FBredirect(response) {
+    	    window.location = logout_url;
+    	    return;
+    	}
+
+
+</script>
 <div class="page">
 <div id="maincol" class="columns">
 	
 	<div id="header"><h1><a href="http://www.competitionhunter.com"><img src="/logonew.png" alt="Competition Hunter"></a></h1>
 <div align="right">
-<iframe src="http://www.facebook.com/plugins/like.php?app_id=172456322811526&amp;href=http%3A%2F%2Fwww.competitionhunter.com&amp;send=false&amp;layout=standard&amp;width=500&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:35px;" allowtransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/like.php?app_id=172456322811526&amp;href=http://www.facebook.com/competitionhunter&amp;send=false&amp;layout=standard&amp;width=500&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:35px;" allowtransparency="true"></iframe>
 </div>
 </div>
 
@@ -69,10 +138,9 @@ $(function() {
 			</li>																			<li><a href="/Win-Toys-and-games-competitions/">Toys and Games competitions</a>
 			</li>									</ul>				</li>
 												<li><a href="/live/">Live<span>What´s Going On</span></a></li>
-												<li><a href="/tagcloud/">Tag cloud<span>Popular Tags</span></a></li>
 								<li><a href="/topusers/">Top Users<span>Contributors</span></a></li>
-<li id="blab1"><a href="http://www.competitionhunter.com/static/karma-reward-store">Karma Reward<span>Store</span></a></li>
-
+<li id="blab1"><a href="http://www.competitionhunter.com/static/karma-reward-store">Rewards<span>Karma Rewards</span></a></li>
+<li id="blab1"><a href="http://www.competitionhunter.com/blog">Blog<span>News/Comps</span></a></li>
 							</ul>
 		</div>
 	</div>
@@ -93,10 +161,51 @@ google_ad_height = 60;
 </div>
 
 	</div>
-
-
-<script type="text/javascript">url=document.location.toString();if (url.indexOf('blab')!=-1) document.getElementById('blab1').className='current';if (url.indexOf('blab')!=-1) document.write('<iframe src="./blab5std/" border="0" style="width:100%;height:420px;border:0"></iframe>');</script>
 	
+
+			<div style="background-color: #EAE7D2">
+			<div id="notification_area" style="padding: 15px 5px 0 5px;">
+				<div style="border: 1px solid #AAA; -moz-border-radius: 4px; border-radius: 4px; padding: 5px;">
+					<table border="0" cellspacing="0" cellpadding="0" width="100%">
+						<tbody><tr valign="top">
+							<td width="120" style="padding-top: 1px;">
+								<small>[2012-05-20 13:03:21]</small>
+							</td>
+							<td>
+								New Travel Competitions:
+<br>
+Great new travel competition from Lonely Planet!  <a href="http://www.awin1.com/awclick.php?mid=4208&amp;id=135369" target="_blank">Click here to enter!</a>
+<br>
+Win a holiday to Barcelona!  <a href="http://www.awin1.com/awclick.php?mid=4003&amp;id=135369" target="_blank">Click here to enter!</a>
+							</td>
+							<td width="20">
+								<a id="notification_close" href="/close.php?id=1337515401" class="ui-dialog-titlebar-close ui-corner-all" role="button">
+									<span class="ui-icon ui-icon-closethick">
+										close
+									</span>
+								</a>
+							</td>
+						</tr>
+					</tbody></table>
+				</div>
+			</div>
+		</div>
+		
+		<script language="javascript">
+		$("#notification_close").bind('click',function(){
+			$.ajax({
+				type: "GET",
+				url: $(this).attr('href'),
+				cache: false,
+				success: function(html)	{							
+					$("#notification_area").fadeOut();
+				}
+			});
+			return false;
+		});
+		</script>
+		
+		
 
 
 
@@ -119,23 +228,23 @@ When you register with Competition Hunter, you are asked to provide a username, 
 <br>
 <b>Our use of that information:</b><br>
 <br>
-The information you provide to us will never be passed on or sold to a third party.  We do not engage in regular emails out to our users, or newsletters, but may very occasionally email our users with announcements related to Competition Hunter.  These emails are rare - it is highly likely you've never received an email from us.  Regarding individual users, and issues pertaining to use of the site, technical problems or queries, you may be emailed privately.<br>
+The information you provide to us will never be passed on or sold to a third party.  You may receive notifications of actions and digests of new or popular submissions at intervals which you can control or turn off.  Regarding individual users, and issues pertaining to use of the site, technical problems or queries, you may be emailed privately.<br>
 <br>
 We reserve the right to pass on any user information to relevant authorities and law enforcement in the event of any illegal activity.<br>
 <br>
 <b>Notifications/verification:</b><br>
 <br>
-The site currently does not notify you via email of actions, nor ask for an email verification upon sign up.  You may in the future be emailed with notifications of actions, dependant on future features of the site, or email verification to confirm your email address.  You will have the option to opt-out of any notifications we send you.<br>
+The site may notify you via email of actions (for example, if someone has commented on your submission).  You may in the future be emailed with notifications of actions, dependant on future features of the site, or email verification to confirm your email address.  You may also be mailed competition digests at intervals of your choice, which you may also turn off.  You will have the option to opt-out of any and all notifications we send you.<br>
 <br>
 <b>Cookies:</b><br>
 <br>
-Cookies are alphanumeric identifiers that your computer may store to allow sites to do things like track and remember your visits, remember whether you have logged in, and other background functions.   Cookies have been around since the dawn of the internet, are perfectly safe and are important for making the web work as it does.  Competition Hunter cookies do not collect any personal information.<br>
+Cookies are alphanumeric identifiers that your computer may store to allow sites to do things like track and remember your visits, remember whether you have logged in, and other background functions.   Cookies have been around since the dawn of the internet and are important for making the web work as it does.  Competition Hunter cookies do not collect any personal information.<br>
 <br>
-Competition Hunter's use of cookies extends only to remembering if you are logged in.  We use third party analytics which makes use of cookies to track and measure site visits and statistics.  3rd party advertisers may also use cookies to track your visits, as is standard practice.  <br>
+Competition Hunter's use of cookies extends to remembering if you are logged in, have voted, or have closed notifications.  We use third party analytics (Google Analytics), which makes use of cookies to track and measure site visits and statistics.  The site has display advertising provided by 3rd party advertisers, like Google Adsense, and run affiliate scripts that may also use cookies to track your visits and outbound clicks, as is standard practice.  We also use a 3rd Party affiliate script which may affiliate outbound traffic from regular links on the site. You can read their <a href="http://skimlinks.com/privacy-policy#users">Privacy Policy</a> and find more information on the cookies they <a href="http://skimlinks.com/user-cookies">use</a>.<br>
 <br>
-Whilst cookies are important for us to be able to measure our site statistics, you have the option in your web browser to disable cookies or browse anonymously should you wish.  Your browser will have help documentation on how to do this.  We recommend you leave cookies activated as it means the site can make life easier by doing things like keeping you logged in.<br>
+Whilst cookies are important for us to be able to measure our site statistics, you have the option in your web browser to disable cookies or browse anonymously should you wish.  Your browser will have help documentation on how to do this, or you can visit allaboutcookies.org.  We recommend you leave cookies activated as it means the site can make life easier by doing things like keeping you logged in.<br>
 <br>
-By visiting Competition Hunter and allowing cookies you are consenting for your cookies to be used by Competition Hunter and any associated 3rd party service or advertiser.<br>
+By visiting Competition Hunter, you are consenting for your cookies to be used by Competition Hunter and any associated 3rd party service or advertiser.<br>
 <br>
 <b>Amendment:</b><br>
 <br>
@@ -144,13 +253,17 @@ Competition Hunter may amend this Privacy Policy at any time, at its sole discre
 <b>Conditions of Use</b><br>
 <br>
 If you decide to visit Competition Hunter, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including any complaints or associated legal actions.			</div>
-<div align="center" style="margin-bottom:10px">
-<iframe width="468" height="60" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.audience2media.com/servlet/ajrotator/1136819/0/vh?z=a2media&amp;dim=619827&amp;kw=&amp;click="><script language=JavaScript src="http://ads.audience2media.com/servlet/ajrotator/1136819/0/vj?z=a2media&dim=619827&kw=&click=&abr=$scriptiniframe"></script><noscript><a href="http://ads.audience2media.com/servlet/ajrotator/1136819/0/cc?z=a2media"><img src="http://ads.audience2media.com/servlet/ajrotator/1136819/0/vc?z=a2media&dim=619827&kw=&click=&abr=$imginiframe" width="468" height="60" border="0"></a></noscript></iframe>
+			<div align="center">
+<center>
 
+                                                                            <!--START MERCHANT:merchant name Offersclick from affiliatewindow.com.-->
+                                                                                        			<a href="http://www.awin1.com/cread.php?s=44528&amp;v=633&amp;q=32398&amp;r=135369"><img src="http://www.awin1.com/cshow.php?s=44528&amp;v=633&amp;q=32398&amp;r=135369" border="0"></a>
+                                                                <!--END MERCHANT:merchant name Offersclick from affiliatewindow.com-->
+                                                       
+</center>                                                           
+</div> 
 
 </div>
-
-			</div>
 <div id="sidebar" class="columns">
 	<div class="wrapper">
 	
@@ -158,7 +271,7 @@ If you decide to visit Competition Hunter, your visit and any possible dispute o
 		
 
 		<div class="mpanel">
-							<form action="/login.php?return=%2Fstatic%2Fprivacy-policy" method="post">
+							<form action="/login.php?return=%2Fstatic%2Fprivacy-policy" method="post" name="mpanel_login_form">
 			<ol>
 				<li>
 					<label for="username">Username</label>
@@ -175,37 +288,22 @@ If you decide to visit Competition Hunter, your visit and any possible dispute o
 				</li>
 			</ol>
 			</form>
+			<div style="padding-top: 4px;" align="center">
+
+				<a title="Twitter Logon" href="#" onclick="window.open(&quot;/modules/twitter/tweet.php?mode=start&quot;,&quot;new&quot;,&quot;width=500, height=300, toolbar=no, location=yes, directories=no, menubar=no, fullscreen=no&quot;); return false;"><img src="http://www.competitionhunter.com/templates/ExpandedList/sidebar_modules/tw.gif" width="120" height="20" border="0"></a>
+				<a href="/modules/fb/fb.php?mode=start" onclick="window.open(&quot;/modules/fb/fb.php?mode=start&quot;,&quot;new&quot;,&quot;width=300, height=300, toolbar=no, location=yes, directories=no, menubar=no, fullscreen=no&quot;); return false;"><img src="http://www.competitionhunter.com/templates/ExpandedList/sidebar_modules/fb.gif" width="142" height="20" border="0"></a>
+
+			
+			</div>
 						</div>
 		<div class="mpanel_strap small_font">
 					<a href="/login.php?return=%2Fstatic%2Fprivacy-policy#forgot">Forgotten Password?</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			<a href="/register/">No Account? Register Now!</a>
 				</div>
-		<h3><a href="/contribute/"><img src="/templates/ExpandedList/images/buttons/submit.png" alt=""></a></h3>		
-
-		<div class="search_top"><!-- //--></div>
-		<div class="search_box">
-						<div class="search_wrap">
-				<form action="/set_end_date.php" method="post" name="thisform-enddate" id="thisform-enddate">
-					<input type="text" name="set_end_date" id="set_end_date" value="Search by end date..." onfocus="if(this.value == 'Search by end date...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search by end date...';}">
-					<input type="submit" value="  ">
-				</form>
-			</div>
-					</div>
-		<div class="search_bottom"><!-- //--></div>			
-
-		<div class="search_top"><!-- //--></div>
-		<div class="search_box">
-						<div class="search_wrap">
-				<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.competitionhunter.com/search/&quot;+this.search.value; return false;">
-					<input type="text" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
-					<input type="submit" value="  ">
-				</form>
-			</div>
-			<a href="/advanced-search/">Advanced Search</a>
-		</div>
-		<div class="search_bottom"><!-- //--></div>		
-		
-		
+		<h3><a href="/contribute/"><img src="/templates/ExpandedList/images/buttons/submit.png" alt=""></a></h3><div style="margin-top:0px;" align="center">
+<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1647280055&amp;adSize=300x250,300x600"></script>
+</div>
+<br>
 <div style="margin-bottom:0px;" align="center">
 <div class="smetaside">
 			<b>Fan and Follow us NOW!</b>
@@ -220,13 +318,44 @@ If you decide to visit Competition Hunter, your visit and any possible dispute o
 </div>
 
 <div style="margin-bottom:0px;" align="center">
-<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="competitionhunt">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.competitionhunter.com&amp;media=http%3A%2F%2Fa0.twimg.com%2Fprofile_images%2F1159963780%2Favatar.png&amp;description=THE%20place%20to%20find%20all%20new%20competitions%20-%20ipad%2Fholidays%2Fcash%2Fcars%2C%20you%20name%20it.%20%20Users%20add%2C%20vote%20and%20chat%20about%20the%20latest%20competitions%20and%20earn%20points%20for%20everything%20they%20do%2C%20which%20can%20then%20be%20exchanged%20for%20Amazon%2C%20iTunes%20and%20ASOS%20vouchers!" class="pin-it-button" count-layout="vertical">Pin It</a>
+<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="competitionhunt" style="width:55px; height:60px;">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 <g:plusone size="tall"></g:plusone>
 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.competitionhunter.com&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90&amp;appId=172456322811526" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:60px;" allowtransparency="true"></iframe>
 </div>
 
 <br>
 
+<div style="margin-bottom:0px;" align="center">
+<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1647280055&amp;adSize=160x600,300x600"></script>
+</div>
+<br>
+
+		
+
+		<div class="search_top"><!-- //--></div><div class="search_box">
+						<div class="search_wrap" style="margin-bottom: 0px;">
+				<form action="/set_end_date.php" method="post" name="thisform-enddate" id="thisform-enddate">
+					<input type="text" name="set_end_date" id="set_end_date" value="Search by end date..." onfocus="if(this.value == 'Search by end date...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search by end date...';}">
+					<input type="submit" value="  ">
+				</form>
+			</div>
+					</div><div class="search_bottom" style="margin-top: 0px;"><!-- //--></div>		
+
+		<div class="search_top"><!-- //--></div>
+		<div class="search_box">
+						<div class="search_wrap">
+				<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.competitionhunter.com/search/&quot;+this.search.value; return false;">
+					<input type="text" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+					<input type="submit" value="  ">
+				</form>
+			</div>
+			<a href="/advanced-search/">Advanced Search</a>
+		</div>
+		<div class="search_bottom"><!-- //--></div>		
+		
+		
 <div style="margin-top:0px;" align="center">
 
 <a href="http://www.competitionhunter.com/static/help-and-faq" target="_blank">
@@ -244,7 +373,7 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 		<div id="qeuedtop">
 			<div class="tab">
 				<ul id="qeuedtop-nav" class="ucase clearfix">
-					<li class="activeli"><a href="#qeued" class="active"><span>Competitions</span></a></li>
+					<li class="activeli"><a href="#qeued" class="active"><span>Published</span></a></li>
 					<li class=""><a href="#topnews" class=""><span>Top Today</span></a></li>
 				</ul>
 			</div>
@@ -254,20 +383,20 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 
 
 <div class="headline">
-	<div class="sectiontitle"><a href="http://www.competitionhunter.com">Competitions</a></div>
+	<div class="sectiontitle"><a href="http://www.competitionhunter.com">Published</a></div>
 </div>
 <div class="boxcontent">
 	<ul class="sidebar-stories">
 		
-<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-natural-skincare-and-make-up-from-lavera-worth-%C2%A362-sofeminine-co-uk-1/">1</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-natural-skincare-and-make-up-from-lavera-worth-%C2%A362-sofeminine-co-uk-1/" class="switchurl">Win natural skincare and m...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-tickets-Events-competitions/-win-tickets-for-an-m-power-driving-experience-at-the-moving-motor-show-or-tickets-for-the-goodwood-festival-of-speed-/">2</a></span><span class="sidebar-article"><a href="/Win-tickets-Events-competitions/-win-tickets-for-an-m-power-driving-experience-at-the-moving-motor-show-or-tickets-for-the-goodwood-festival-of-speed-/" class="switchurl"> Win tickets for an M Powe...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-4/">2</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-4/" class="switchurl">Great Gift Extravaganza!</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-a-holiday-competitions/win-a-family-break-on-the-french-atlantic-coast/">3</a></span><span class="sidebar-article"><a href="/Win-a-holiday-competitions/win-a-family-break-on-the-french-atlantic-coast/" class="switchurl">Win a family break on the ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-3/">1</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-3/" class="switchurl">Great Gift Extravaganza!</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-designer-shoes-pink-lady-apples/">4</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-designer-shoes-pink-lady-apples/" class="switchurl">Win Designer Shoes - Pink ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-3/">1</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-3/" class="switchurl">Great Gift Extravaganza!</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-kindle-touch-prize-draw/">3</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-kindle-touch-prize-draw/" class="switchurl">Win a Kindle Touch Prize D...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-1/">1</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/great-gift-extravaganza-1/" class="switchurl">Great Gift Extravaganza!</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-joseph-joseph-baking-mixing-set/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-joseph-joseph-baking-mixing-set/" class="switchurl">Win a Joseph Joseph baking...</a></span></li>
 
 	</ul>
 </div>
@@ -281,15 +410,15 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 <div class="boxcontent">
 	<ul class="sidebar-stories">
 		
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-blu-ray-player-and-9-films/">4</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-blu-ray-player-and-9-films/" class="switchurl">Win a Blu-ray player and 9...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-an-xbox-360-kinect-star-wars-console-bundle-pocket-lint-competitions/">1</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-an-xbox-360-kinect-star-wars-console-bundle-pocket-lint-competitions/" class="switchurl">Win an Xbox 360 Kinect Sta...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Cash-and-Vouchers-competitions/win-%C2%A32000-tesco-vouchers/">4</a></span><span class="sidebar-article"><a href="/Win-Cash-and-Vouchers-competitions/win-%C2%A32000-tesco-vouchers/" class="switchurl">Win £2000 Tesco vouchers</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-spa-hamper-with-new-dove-natural-touch-deodorant-/">1</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-spa-hamper-with-new-dove-natural-touch-deodorant-/" class="switchurl">Win a spa hamper with new ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-kindle-kobo-ereader-and-books/">4</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-kindle-kobo-ereader-and-books/" class="switchurl">Win a Kindle, Kobo ereader...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-Food-and-drink-competitions/win-a-mornflake-hamper-plus-%C2%A3150-shopping-vouchers/">1</a></span><span class="sidebar-article"><a href="/Win-Food-and-drink-competitions/win-a-mornflake-hamper-plus-%C2%A3150-shopping-vouchers/" class="switchurl">Win a Mornflake hamper plu...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-nintendo-3ds-and-games/">4</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-nintendo-3ds-and-games/" class="switchurl">Win a Nintendo 3DS and gam...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-books-music-film-and-video-competitions/win-10-copies-of-ireland-for-food-lovers-by-georgina-campbell/">1</a></span><span class="sidebar-article"><a href="/Win-books-music-film-and-video-competitions/win-10-copies-of-ireland-for-food-lovers-by-georgina-campbell/" class="switchurl">Win 10 copies of Ireland f...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-books-music-film-and-video-competitions/the-man-who-planted-trees-review-giveaway-%7C-stressed-rach/">3</a></span><span class="sidebar-article"><a href="/Win-books-music-film-and-video-competitions/the-man-who-planted-trees-review-giveaway-%7C-stressed-rach/" class="switchurl">The Man Who Planted Trees ...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-designer-handbag-%7C-mail-online-competitions/">1</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-designer-handbag-%7C-mail-online-competitions/" class="switchurl">Win a designer handbag | M...</a></span></li>
 
 	</ul>
 </div>
@@ -298,6 +427,8 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 
 			<div class="box_bottom"><!-- //--></div>
 		</div>
+		
+
 		
 		<script type="text/javascript">
 		//<![CDATA[
@@ -311,12 +442,16 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 		
 		<div class="clear"></div>
 		<div id="catstags">
+
 			<div class="tab">
 				<ul id="catstags-nav" class="ucase clearfix">
 					<li class="activeli"><a href="#sidecats" class="active"><span>Categories</span></a></li>
 										<li class=""><a href="#sidetags" class=""><span>Top Tags</span></a></li>
 									</ul>
 			</div>
+
+
+
 			<div class="box">
 				<div class="tab_content" id="sidecats" style="display: block;">
 				
@@ -361,10 +496,6 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 		
 		<div class="clear"></div>
 
-<div style="margin-bottom:20px;" align="center">
-<iframe width="300" height="250" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.audience2media.com/servlet/ajrotator/1136818/0/vh?z=a2media&amp;dim=619835&amp;kw=&amp;click="><script language=JavaScript src="http://ads.audience2media.com/servlet/ajrotator/1136818/0/vj?z=a2media&dim=619835&kw=&click=&abr=$scriptiniframe"></script><noscript><a href="http://ads.audience2media.com/servlet/ajrotator/1136818/0/cc?z=a2media"><img src="http://ads.audience2media.com/servlet/ajrotator/1136818/0/vc?z=a2media&dim=619835&kw=&click=&abr=$imginiframe" width="300" height="250" border="0"></a></noscript></iframe>
-
-</div>
 
 		<div class="tab">
 			<ul class="ucase clearfix">
@@ -379,64 +510,38 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 </div>
 <div class="boxcontent" id="sidebar-comments">
 	
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="/avatars/user_uploaded/sarahs_15.jpg" alt="sarahs" title="sarahs"></div>“<a class="switchurl" href="/Win-Food-and-drink-competitions/win-a-crate-of-champagne-for-new-year/#c905">:)...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-a-home-and-garden-competitions/win-a-year-of-scented-flowers-gardenersworld-com/#c1313">Lovely - highly scented roses in a boquet - my very favourite xx...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="philreeves" title="philreeves"></div>“<a class="switchurl" href="/Win-Food-and-drink-competitions/win-a-crate-of-champagne-for-new-year/#c904">my kind of prize...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-a-home-and-garden-competitions/win-a-beautiful-bouquet-every-month-for-a-year-boots-competitions/#c1312">lovey prize - would cheer you up every month...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-Food-and-drink-competitions/win-a-perfectly-paired-wine-dine-experience-with-pike-in-a-poke-wines-and-lyons-seafood-meals-worth-%C2%A3170/#c901">This would work well with my seafood diet .... seefood and eat it ........</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-a-home-and-garden-competitions/win-a-limited-edition-tracey-emin-monoprint-/#c1311">The Turner art gallery is worth a visit (free entry) and the old town has...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/win-a-%C2%A3250-tk-maxx-voucher/#c900">Have found great designer label bargains at TK Maxx --- you just need a...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-a-home-and-garden-competitions/win-a-joseph-joseph-baking-mixing-set/#c1310">Said it before say it again ..... love Joseph Joseph!...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-diamond-peel-skin-rejuvinator/#c899">Now you're talking..... what about you Fi?...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="/avatars/user_uploaded/fifowkes_15.jpg" alt="fifowkes" title="fifowkes"></div>“<a class="switchurl" href="/Win-a-holiday-competitions/win-a-7-night-stay-on-tresco-worth-%C2%A39400-lonely-planet-competitions/#c1309">Mine ! Mine! You are right - it does look pretty amazing! xx...</a>”<p></p>
 
 </div>		</div>
 		<div class="box_bottom"><!-- //--></div>
+		
 
 <div style="margin-top:10px;" align="center">
-
-<a href="http://www.competitionhunter.com/static/karma-reward-store" target="_blank">
-<img src="http://www.competitionhunter.com/karmarewardstoresmall.png" alt="Karma Reward Store">
-</a>
+<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1647280055&amp;adSize=300x250&amp;zone=Marketplace"></script>
 </div>
-
-
-
-
-
-
-
-
-
-<div style="margin-top:10px;" align="center">
-
-<a href="http://www.competitionhunter.com/blog" target="_blank">
-<img src="http://www.competitionhunter.com/templates/ExpandedList/images/bloglogo.png" alt="Blog">
-</a>
-</div>
-
-<div align="center" style="margin-top:10px">
-
-<iframe width="300" height="250" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://ads.audience2media.com/servlet/ajrotator/1136818/0/vh?z=a2media&amp;dim=619835&amp;kw=&amp;click="><script language=JavaScript src="http://ads.audience2media.com/servlet/ajrotator/1136818/0/vj?z=a2media&dim=619835&kw=&click=&abr=$scriptiniframe"></script><noscript><a href="http://ads.audience2media.com/servlet/ajrotator/1136818/0/cc?z=a2media"><img src="http://ads.audience2media.com/servlet/ajrotator/1136818/0/vc?z=a2media&dim=619835&kw=&click=&abr=$imginiframe" width="300" height="250" border="0"></a></noscript></iframe>
-
-</div>
-
-
-
-
-
-
 
 					</div>
 </div>
 </div>
 
+
+
 <div id="footer">
-		<div class="columns left">
+	
+	<div class="columns left">
 		<a href="http://www.competitionhunter.com"><img src="/templates/ExpandedList/images/logo_footer.png" alt="Competition Hunter"></a>
 		<p class="propercase">
 			<strong>
-			<a href="http://www.competitionhunter.com/">Competitions</a> &nbsp;<span class="bullet">•</span>&nbsp;
-			<a href="/upcoming/">Upcoming Competitions</a> &nbsp;<span class="bullet">•</span>&nbsp;
+			<a href="http://www.competitionhunter.com/">Published</a> &nbsp;<span class="bullet">•</span>&nbsp;
+			<a href="/upcoming/">Upcoming</a> &nbsp;<span class="bullet">•</span>&nbsp;
 			<a href="/contribute/">Submit New Competition</a>  &nbsp;<span class="bullet">•</span>&nbsp;
 			<a href="/live/">Live</a> &nbsp;<span class="bullet">•</span>&nbsp;
 			<a href="/tagcloud/">Tag cloud</a> &nbsp;<span class="bullet">•</span>&nbsp;
@@ -446,7 +551,17 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 		</p>
 		<div class="small_font">
 			Copyright © 2011 Competition Hunter. 
-		</div>		
+		</div>
+<script type="text/javascript" language="JavaScript">
+glam_affiliate_id = '1647280055';
+glam_logo_type = 'GEnter';
+glam_logo_size = '160x24';
+color_or_grayscale_flag ='';
+glam_logo_color = 'wht';
+glam_gs_logo_color = '';
+glam_logo_country = 'UK';
+</script>
+<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
 	</div>
 	<div class="columns right">
 		
@@ -456,7 +571,9 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 				Competitionhunter.com is a UK competition sharing community where users can find and share online competitions.  Submit, vote on and discuss competitions, earn Karma points, and exchange them for real-life rewards!
 			</p>
 				</div>
-	</div>
+	
+<a href="http://www.thumbshots.com" alt="thumbnails by thumbshots.com">&nbsp;</a>
+</div>
 <div id="credits" class="clearfix">
 	<div class="columns left small_font">
 		<a href="/advanced-search/">Advanced Search</a>
@@ -465,7 +582,8 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
            <span class="bullet">&nbsp;•&nbsp;</span>
 		<a href="http://www.competitionhunter.com/static/contact/">Contact Us</a>
 		<span class="bullet">&nbsp;•&nbsp;</span>
-		<a href="#top">^ To Top</a>
+		<a href="#top">^ To Top</a><br>
+Find out how we use cookies <a href="http://www.competitionhunter.com/static/privacy-policy">here</a>.
 	</div>
 	<div class="columns right small_font">	
 	<a href="http://www.competitionhunter.com/static/help-and-faq/">Help and FAQ</a>
@@ -491,14 +609,27 @@ Check out our <a href="http://www.competitionhunter.com/static/help-and-faq">Hel
 
 <span class="bullet">&nbsp;•&nbsp;</span>
 
+<a href="http://www.competitionhunter.com/static/terms-of-use">Terms of Use</a>
+
+<span class="bullet">&nbsp;•&nbsp;</span>
+
 	
 
 <a href="http://www.competitionhunter.com/static/privacy-policy">Privacy Policy</a>
 
+<span class="bullet">&nbsp;•&nbsp;</span>
+
+	
+
+<a href="http://www.competitionhunter.com/">Online Competitions</a>
+
+<span class="bullet">&nbsp;•&nbsp;</span>
+
+<a href="http://www.competitionhunter.com/">UK Competitions</a>
+
 	</div>
 
-</div>
-<script type="text/javascript" src="/templates/ExpandedList/js/3rdparty/MKTree/mktree.js"></script>
+</div><script type="text/javascript" src="/templates/ExpandedList/js/3rdparty/MKTree/mktree.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -525,6 +656,7 @@ var nodeLinkClass="link";
 
 
 
+
 <script type="text/javascript" src="http://s.skimresources.com/js/9312X679882.skimlinks.js"></script>
 
 
@@ -532,8 +664,33 @@ var nodeLinkClass="link";
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 
 
+<!-- Include ONCE for ALL buttons in the page -->
+<script type="text/javascript">
+(function() {
+    window.PinIt = window.PinIt || { loaded:false };
+    if (window.PinIt.loaded) return;
+    window.PinIt.loaded = true;
+    function async_load(){
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        if (window.location.protocol == "https:")
+            s.src = "https://assets.pinterest.com/js/pinit.js";
+        else
+            s.src = "http://assets.pinterest.com/js/pinit.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.attachEvent)
+        window.attachEvent("onload", async_load);
+    else
+        window.addEventListener("load", async_load, false);
+})();
+</script>
+
 <script src="/templates/xmlhttp_total.php" type="text/javascript"></script>
 
 
-
+                                                       
+                                
 </body></html>
