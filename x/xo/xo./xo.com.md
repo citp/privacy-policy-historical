@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230054847id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx%3Futm_source%3DXOhome%26utm_medium%3Dtextlink%26utm_campaign%3Dfooter_small_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527201026id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | XO
 
