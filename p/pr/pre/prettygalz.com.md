@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettygalz.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125212712id_/http%3A//www.prettygalz.com/the-news/100-prettygalzcom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettygalz.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527161824id_/http%3A//www.prettygalz.com/the-news/100-prettygalzcom-privacy-policy.html) for the most accurate reproduction.*
 
 # PrettyGalz.com Privacy Policy | PrettyGalz.com - Who Doesn't Want To Admire?
 
