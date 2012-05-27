@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bajajcapital.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121031152id_/http%3A//www.bajajcapital.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajajcapital.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527062951id_/http%3A//www.bajajcapital.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bajaj capital :: Privacy Policy
 
 Coverage under this Policy/Protection to: 
 
 All visitors ("visitors") who visit the site http://www.bajajcapital.com (‘Site’) and provide information to Bajaj Capital Limited (‘BCL’) online through this Site are covered under this Policy. 
+
+By visiting/using our Site and/or registering yourself with our Site, you authorize us and our affiliates/group companies/sister concerns, to contact you via email or telecommunication means and offer you with our services and also share with you information on various products, services and/or to offer you with promotional offers running on the Site, and/or the offers of our affiliates/group companies/sister concerns, from time to time, as the case may be. You understand that, should you have registered  yourself under the DND or DNC or NCPR service, contacting you through the telecommunication means, will not be permitted. Hence, in order to serve you better, you authorize us to contact you via email or telecommunication means and upon doing so, you shall not raise any complaint/dispute/claim, against us and/or our affiliates/group companies/sister concerns. Should we and/or our affiliates/group companies/sister concern, be summoned by any of the service provider and/or by the appropriate authority, you agree to extend all necessary co-operation, support to help us protect our interest.
 
 Information covered by this Policy: 
 
