@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escortsandbabes.com.au privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127202849id_/http%3A//www.escortsandbabes.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortsandbabes.com.au privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527122305id_/http%3A//www.escortsandbabes.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
