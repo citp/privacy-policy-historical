@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127062654id_/http%3A//stewartmedia.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewartmedia.biz privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527123550id_/http%3A//stewartmedia.biz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO Melbourne | Search Marketing Melbourne | SEO Agencies Melbourne | Social Media Optimisation| Appear On The First Page Of Google
+# Privacy Policy | SEO Melbourne | Appear On The First Page Of Google
 
-Stew Art Media values the privacy of our subscribers and we despise spamming on the Internet. Spamming costs the people who receive it time and money. We comply with the National Privacy Principles as set out in the Privacy Act when providing the services here at Stew Art Media
+Stew Art Media values the privacy of our subscribers and we despise spamming on the Internet. Spamming costs the people who receive it time and money. We comply with the National Privacy Principles as set out in the Privacy Act when providing the [services](http://stewartmedia.biz/services/ "services") here at Stew Art Media
 
 **1\. The information we collect**
 
