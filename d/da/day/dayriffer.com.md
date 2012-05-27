@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dayriffer.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129062907id_/http%3A//dayriffer.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayriffer.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527145054id_/http%3A//www.dayriffer.com/privacy-policy) for the most accurate reproduction.*
 
-# DayRiffer - Aggregating with attitude
+# Privacy Policy | DayRiffer
 
 Dayriffer.com is committed to protecting online user privacy. In order to ensure your privacy while using this website, we collect your information only in the manner and for the purposes described below.
 
-This “Privacy Policy” contains the privacy practices governing dayriffer.com’s collection, use, and disclosure of personal information. Capitalized terms used herein shall have the same meaning as designated in the dayriffer.com Terms of Service located at <http://dayriffer.com/about/terms>, unless otherwise specifically defined in this Privacy Policy. All references herein to “we” or “us” refer to dayriffer.com. All references to the “Site” refer to our website located at [http:// dayriffer.com](http://%20dayriffer.com/).
+This "Privacy Policy" contains the privacy practices governing dayriffer.com's collection, use, and disclosure of personal information. Capitalized terms used herein shall have the same meaning as designated in the dayriffer.com Terms of Service located at <http://dayriffer.com/terms-of-use>, unless otherwise specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to dayriffer.com. All references to the "Site" refer to our website located at [http://dayriffer.com](http://%20dayriffer.com/).
 
 ## Children
 
@@ -35,7 +35,7 @@ Although we use reasonable efforts to maintain the privacy of your personally id
 
 We also collect and store non-personally identifiable information, such as visitor traffic, page hits, Site referral information, browser information, downloads, and general Site use information through typical Internet data collection tools, such as web beacons, cookies, and embedded web links.
 
-This Site may use cookie and tracking technology. A “cookie” is a tiny file that your browser places on your computer's hard drive, which acts to identify your computer. Cookie and cookie tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help tailor the Site to visitors’ needs and help customize the Site for visitors. For example, we may use cookies to store your Site preferences, usage patterns, and other information so that the Site will function better for you on subsequent visits. The Site may also use cookies to deliver content specific to your interests and for other similar purposes. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information (as discussed above), cookies may be tied to such information. Aggregated cookie and tracking information may be shared with third parties. If you choose to reject the Site’s cookies, some areas of the Site may not function properly or may not be accessible.
+This Site may use cookie and tracking technology. A "cookie" is a tiny file that your browser places on your computer's hard drive, which acts to identify your computer. Cookie and cookie tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help tailor the Site to visitors' needs and help customize the Site for visitors. For example, we may use cookies to store your Site preferences, usage patterns, and other information so that the Site will function better for you on subsequent visits. The Site may also use cookies to deliver content specific to your interests and for other similar purposes. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information (as discussed above), cookies may be tied to such information. Aggregated cookie and tracking information may be shared with third parties. If you choose to reject the Site's cookies, some areas of the Site may not function properly or may not be accessible.
 
 ### Automatically Collected Log Information
 
@@ -87,7 +87,7 @@ In the event that there is a merger, consolidation, reorganization, or another c
 
 ## Terms
 
-Reference is made to the Terms of Service for the Site which shall apply to this Privacy Policy as if set forth in full herein. You may wish to review them at <http://dayriffer.com/about/terms>.
+Reference is made to the Terms of Service for the Site which shall apply to this Privacy Policy as if set forth in full herein. You may wish to review them at <http://dayriffer.com/terms-of-use>.
 
 ## Contact Information
 
