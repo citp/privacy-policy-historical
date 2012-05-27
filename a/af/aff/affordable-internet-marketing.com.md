@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016125655id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527185425id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You're here: [AIM Home](http://www.affordable-internet-marketing.com/) » **Privacy Policy**
+You're here: [AIM Home](http://www.affordable-internet-marketing.com/) » [Internet Marketing](http://www.affordable-internet-marketing.com/category/internet-marketing/) » **Privacy Policy**
 
 This is the web site of Affordable [Internet marketing](http://www.affordable-internet-marketing.com/).  
 This site is owned by Case Stevens  
@@ -11,7 +11,7 @@ Postbus 132
 5100 AC Dongen  
 The Netherlands
 
-We can be reached via e-mail, but our email address was harvested so many times that we’ve put up a [contact form](http://www.affordable-internet-marketing.com/2004/06/contact-affordable-internt-marketing-blog/).  
+We can be reached via e-mail, but our email address was harvested so many times that we’ve put up a [contact form](http://www.affordable-internet-marketing.com/contact-affordable-internt-marketing-blog/).  
 You can still email us when you use ‘support’ (anything else goes straight to the black hole) before the @ sign followed by our domain name.
 
 **Email**  
@@ -54,6 +54,8 @@ In case of a survey or site registration we will store your information with the
 **Data collection of non-personally identifying information**  
 We use third-party advertising companies to serve ads when you visit our website.  
 These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/privacy/ads/).
+
+[](http://pinterest.com/casestevens/)
 
 Other Bookmarks that you can use now!
