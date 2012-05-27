@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebdesignresources.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103213621id_/http%3A//www.allwebdesignresources.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebdesignresources.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527115818id_/http%3A//www.allwebdesignresources.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Allwebdesignresources.com
 
