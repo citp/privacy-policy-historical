@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211110id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527163324id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Votigo social media solutions - Privacy Policy</title>
@@ -7,95 +7,14 @@
       <meta name="Description" content="Votigo custom Video contest promotions, viral video contests, video galleries, photo gallery, image gallery, contest rules, sweepstakes rules, photo contests, online promotions.">
   <meta name="keywords" content="video contest, video contests, photo contest, photo contests, social networking, contest platform, image gallery, viral marketing, contests, online promotions">
   <meta name="author" content="Votigo, Inc.">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="robots" content="index,follow">
   <link rel="Shortcut Icon" href="http://www.votigo.com/favicon.ico">
   <link rel="image_src" type="image/jpeg" href="http://www.votigo.com/corp/img/votigo-logo.gif">
   <meta name="title" content="Video Contest, Video Contests, Photo contests, online promotions">
-  <script type="text/javascript" src="/corp/js/jquery-1.4.2.min.js"></script>
-  <script type="text/javascript" src="/corp/js/sample.js"></script>
-  <script type="text/javascript" src="/corp/js/jquery.jcoverflip.js"></script>
-  <script src="/colorbox/jquery.colorbox.js" type="text/javascript"></script>
-  <link href="/colorbox/colorbox.css?v=11" media="screen" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="/corp/js/jquery.betterTooltip.js"></script>
-   <script type="text/javascript">
-		$(document).ready(function(){
-			$('.tTip').betterTooltip({speed: 150, delay: 300});
-		});
-	</script>
-    <script>
-    var curentelement;
-    var currentgall;
-    function showGallery() {
-    	$.colorbox({
-            width : "1020px",
-            height : "420px",
-			inline : true,
-    		href : "#maingallerywrap",
-	    	onOpen : function() {
-		    	$("#maingallerywrap").show();
-		    },
-			onCleanup : function() {
-    			if((curentelement != null) && (currentgall != null)){
-        			document.getElementById(currentgall).style.display = "block";
-        			document.getElementById(curentelement).style.display = "none";
-    			}
-    			$("#maingallerywrap").hide();
-	    	}
-	    	
-	    });
-    }
+  <link rel="stylesheet" type="text/css" media="screen" href="/corp/css/screen.css?v=2710">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/corp/js/jquery-1.4.2.min1.js"></script>
 
-    function showGallery1(showId, hideId) {
-        document.getElementById(showId).style.display = "block";
-    	document.getElementById(hideId).style.display = "none";
-    	$.colorbox.resize();
-    }
-
-    function setDisplayEle(galleryId,eleId) {
-        curentelement=eleId;
-    	currentgall=galleryId;
-    }
-    
-   jQuery( document ).ready( function(){
-       jQuery( '#flip' ).jcoverflip({
-         current: 1,
-         beforeCss: function( el, container, offset ){
-           return [
-             $.jcoverflip.animationElement( el, { left: ( container.width( )/2 - 210 - 110*offset + 20*offset )+'px', bottom: '0px' }, { } ),
-             $.jcoverflip.animationElement( el.find( 'img' ), { width: Math.max(10,100-20*offset*offset) + 'px' }, {} )
-           ];
-         },
-         afterCss: function( el, container, offset ){
-           return [
-             $.jcoverflip.animationElement( el, { left: ( container.width( )/2 + 110 + 110*offset )+'px', bottom: '0px' }, { } ),
-             $.jcoverflip.animationElement( el.find( 'img' ), { width: Math.max(10,100-20*offset*offset) + 'px' }, {} )
-           ];
-         },
-         currentCss: function( el, container ){
-           return [
-             $.jcoverflip.animationElement( el, { left: ( container.width( )/2 - 100 )+'px', bottom: 0 }, { } ),
-             $.jcoverflip.animationElement( el.find( 'img' ), { width: '200px' }, { } )
-           ];
-         },
-         change: function(event, ui){
-           jQuery('#scrollbar').slider('value', ui.to*25);
-         }
-       });
-       
-       
-       jQuery('#scrollbar').slider({
-         value: 50,
-         stop: function(event, ui) {
-           if(event.originalEvent) {
-             var newVal = Math.round(ui.value/25);
-             jQuery( '#flip' ).jcoverflip( 'current', newVal );
-             jQuery('#scrollbar').slider('value', newVal*25);
-           }
-         }
-       });
-     });
-    </script>
   <script>
 (function($){$.browserTest=function(a,z){var u='unknown',x='X',m=function(r,h){for(var i=0;i<h.length;i=i+1){r=r.replace(h[i][0],h[i][1]);}return r;},c=function(i,a,b,c){var r={name:m((a.exec(i)||[u,u])[1],b)};r[r.name]=true;r.version=(c.exec(i)||[x,x,x,x])[3];if(r.name.match(/safari/)&&r.version>400){r.version='2.0';}if(r.name==='presto'){r.version=($.browser.version>9.27)?'futhark':'linear_b';}r.versionNumber=parseFloat(r.version,10)||0;r.versionX=(r.version!==x)?(r.version+'').substr(0,1):x;r.className=r.name+r.versionX;return r;};a=(a.match(/Opera|Navigator|Minefield|KHTML|Chrome/)?m(a,[[/(Firefox|MSIE|KHTML,\slike\sGecko|Konqueror)/,''],['Chrome Safari','Chrome'],['KHTML','Konqueror'],['Minefield','Firefox'],['Navigator','Netscape']]):a).toLowerCase();$.browser=$.extend((!z)?$.browser:{},c(a,/(camino|chrome|firefox|netscape|konqueror|lynx|msie|opera|safari)/,[],/(camino|chrome|firefox|netscape|netscape6|opera|version|konqueror|lynx|msie|safari)(\/|\s)([a-z0-9\.\+]*?)(\;|dev|rel|\s|$)/));$.layout=c(a,/(gecko|konqueror|msie|opera|webkit)/,[['konqueror','khtml'],['msie','trident'],['opera','presto']],/(applewebkit|rv|konqueror|msie)(\:|\/|\s)([a-z0-9\.]*?)(\;|\)|\s)/);$.os={name:(/(win|mac|linux|sunos|solaris|iphone)/.exec(navigator.platform.toLowerCase())||[u])[0].replace('sunos','solaris')};if(!z){$('html').addClass([$.os.name,$.browser.name,$.browser.className,$.layout.name,$.layout.className].join(' '));}};$.browserTest(navigator.userAgent,true);})(jQuery);
 
@@ -105,18 +24,37 @@
             });
 
 </script>
-  <link rel="stylesheet" type="text/css" media="screen" href="/corp/css/screen.css?v=985"></head>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1121555-5']);
+  _gaq.push(['_setDomainName', '.votigo.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
 
 <body>
 <div id="wrapper">
 
             <div id="header">
        <div id="logo"><a href="/" title="Votigo®"><span>Votigo®</span></a></div>
-        <div class="launch-txt">social media contests &amp; promotions</div>
+        <div class="request-demo"><a href="/corp/contact.php"><img src="/corp/img/opt-images/contact-sales.png?v=4"></a></div>
         <div class="contact-details">
-          <span>Call us. 1.800.948.8830</span>
+          <span>Call Sales at 800-519-1850</span>
           <div class="clear"></div>
-          <div class="already-reg"><a href="http://platform.votigo.com/login" target="_blank">Already Registered? Login</a></div>
+         <div class="already-reg">
+             <a target="_blank" href="http://platform.votigo.com/login"><span class="login-signup"></span></a>
+             <a target="_blank" href="http://platform.votigo.com/users/add"><span class="login-signup"></span></a>
+          </div>
           <div class="clear"></div>
         </div>
       </div><!-- end #header -->
@@ -369,7 +307,7 @@
               <li><a href="/corp/platform-overview/createcontest.php">Self-Service Platform</a></li>
               <li><a href="/corp/platform-overview/dev-api.php">Developer API</a></li>
               <li><a href="/corp/platform-overview/enterprise.php">Enterprise Solutions</a></li>
-              
+
               <li class="notification_header" style="margin-top: 20px;"><a href="/corp/features-and-pricing.php">Features &amp; Pricing</a></li>
               <li class="notification_header">Self-Serve</li>
               <li><a href="/corp/self-serve/faq.php">FAQ's  </a></li>
@@ -398,19 +336,20 @@
               <li><a href="/corp/facebook/facebook-photo-contest-application.php">Photo Contests</a></li>
               <li><a href="/corp/facebook/facebook-sweepstakes-application.php">Sweepstakes</a></li>
               <li><a href="/corp/facebook/facebook-applications.php#explore">Branded Apps</a></li>
+              <li><a href="/corp/solutions/fbcontests.php">Facebook Contests</a></li>
+
               <li style="margin-top: 18px;">Legal</li>
               <li><a href="/corp/terms.php">Terms of use </a></li>
               <li><a href="/corp/privacy.php">Privacy Policy</a></li>
-              <li><div class="fl fbtabs"><a href=""><p class="contact-details-logo" title="Preferred Developer Consultant"><span class="contact-details-icon">Sweepstakes</span></p></a></div></li>
             </ul>
           </div>
           <div class="fotLp">
             <ul>
               <li>Free Resources</li>
-              <li><a href="http://www.votigo.com/blog/">Blog </a></li>
+              <li><a href="/blog/">Blog </a></li>
               <li><a href="/corp/solutions/whycontestswork.php">Why Contests Work</a></li>
               <li><a href="/corp/solutions/tips.php">Tips for Success</a></li>
-              
+
               <li style="margin-top:33px;">Clients</li>
               <li><a href="/corp/clients/index.php">Portfolio</a></li>
               <li><a href="/corp/clients/testimonials.php">Testimonials</a></li>
@@ -419,42 +358,32 @@
           </div>
            <div class="fotLpLast">
             <ul>
-              
+
               <li>Contact Us</li>
               <li>Sales: 1.800.948.8830</li>
               <li>For Sales press '1'</li>
               <li>Or use our <a href="/corp/contact.php">contact form</a></li>
               <li>&nbsp;</li>
-              <li class="lastlink">
+              <li class="lastlink" style="margin-left: 15px;">
                 <a href="http://twitter.com/votigo" target="_blank"><img src="/corp/img/latest/footer-twitter.jpg" border="0" width="38" height="38" alt="t" class="virallinks"></a>
                 <a href="http://twitter.com/share?url=http://www.votigo.com/corp/privacy.php&amp;text=Check%20out%20%40votigo%20for%20video%20contest%2C%20facebook%20contest%2C%20twitter%20contest%2C%20sweepstakes%20%26%20social%20media%20promotions.%20%23contest&amp;related=votigo" target="_blank"></a>
               </li>
               <li class="lastlink">
-                <a href="http://www.facebook.com/pages/Lafayette-CA/Votigo-Social-Media-Solutions/30234388700" target="_blank"><img src="/corp/img/latest/footer-fb-icon.jpg" border="0" width="38" height="39" alt="f" class="virallinks virallinks1"></a> 
+                <a href="http://www.facebook.com/pages/Lafayette-CA/Votigo-Social-Media-Solutions/30234388700" target="_blank"><img src="/corp/img/latest/footer-fb-icon.jpg?v=2" border="0" width="38" height="38" alt="f" class="virallinks virallinks1"></a>
                 <a target="_blank" href="http://www.facebook.com/share.php?u=http://www.votigo.com/corp/privacy.php&amp;t=Votigo creates viral and engaging photo and video contests, sweepstakes, and promotions that drive measurable results for our clients."></a>
-               
+
               </li>
                <li class="lastlink">
-				 <a href="https://plus.google.com/117447893516827723575#117447893516827723575/posts" target="_blank"><img src="/corp/img/latest/gplus.jpg" style="height: 37px;"></a>
+				 <a href="https://plus.google.com/117447893516827723575#117447893516827723575/posts" target="_blank"><img src="/corp/img/opt-images/gplus.jpeg" style="height: 37px;"></a>
               </li>
               </ul>
           </div>
         </div><!-- .content end-->
-        <div class="copyright">©2011 Votigo, Inc.  Votigo is a registered trademark and the Votigo logo is a trademark of Votigo, Inc.  All Rights Reserved.</div>
+        <div class="copyright">©2012 Votigo, Inc.  Votigo is a registered trademark and the Votigo logo is a trademark of Votigo, Inc.  All Rights Reserved.</div>
 
     </div><!-- end #footer -->
 
-     <!-- google tracking. -->
-          <script type="text/javascript">
-       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-     <script type="text/javascript">
-       var pageTracker = _gat._getTracker("UA-1121555-5");
-       pageTracker._initData();
-       pageTracker._trackPageview();
-     </script>
-           <!--footer end.-->
+      <!--footer end.-->
       <br><br><br><br>
     </td>
   </tr>
