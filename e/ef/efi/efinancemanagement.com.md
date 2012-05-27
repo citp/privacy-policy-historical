@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201083242id_/http%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527075504id_/http%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  [ Privacy Policy](http://www.efinancemanagement.com/privacy-policy)
+
+User Rating:  / 0
+
+Details
+     Category: [](http://www.efinancemanagement.com/privacy-policy?id=2)
+     Created on Tuesday, 07 July 2009 04:07 
+     Last Updated on Thursday, 03 May 2012 18:13 
+     Written by Administrator 
+     Hits: 675 
 
 _PRIVACY POLICY_
 
