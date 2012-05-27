@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071941id_/http%3A//www.fla-keys.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527173431id_/http%3A//www.fla-keys.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - TDC Monroe County Florida Keys Official Tourism Website
 
