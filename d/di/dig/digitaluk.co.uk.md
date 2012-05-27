@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012221151id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528002653id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Digital UK - Privacy Policy
 
@@ -50,7 +50,7 @@ There are a variety of cookies used on the Digital UK website, mostly to improve
 
 A ruling in May 2011 by the Information Commissioner's Office requires that in most cases, website wanting to use cookies should request consent from users. 
 
-We are currently working on a way to comply with this rule without interrupting the user experience.    
+[Find out more](http://www.digitaluk.co.uk/cookie_report)  
 
 
 ### D. Registration
