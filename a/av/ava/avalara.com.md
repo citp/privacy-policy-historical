@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220140038id_/http%3A//avalara.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalara.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527071953id_/http%3A//www.avalara.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy for Avalara.com
 
@@ -116,4 +116,4 @@ E. Accessing and Changing Your Information
 You can review the personal information you provided us and make any desired changes to such information, or to the settings for your Avalara account, at any time by logging in to your account on the Avalara Web site and changing your preferences in the Profile page of the "UserCenter" tab. You can also close your account through the Avalara Web site. If you close your Avalara account, we will mark your account in our database as "Closed," but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally or company identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law.
 
 F. Contacting Us  
-If you have any questions about this privacy statement, Avalara's information practices, or your dealings with Avalara, you can contact us, call 877-780-4848 Monday through Friday between the hours of 8am and 5pm PST, or write us at Avalara, 435 Ericksen Ave. #250, Bainbridge Island, WA 98110.
+If you have any questions about this privacy statement, Avalara's information practices, or your dealings with Avalara, you can contact us, call 877-780-4848 Monday through Friday between the hours of 8am and 5pm PST, or write us at Avalara, 100 Ravine Lane NE, Ste 220, Bainbridge Island, WA 98110.
