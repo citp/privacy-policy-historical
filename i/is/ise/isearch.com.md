@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307034245id_/http%3A//www.isearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527153958id_/http%3A//www.isearch.com/privacy.html) for the most accurate reproduction.*
 
 # iSearch - Social Directory - Privacy
 
@@ -24,7 +24,7 @@ The information you provide on or through the iSearch site also may be used, wit
 
 ##### Links to Other Websites:
 
-In some cases, when you are seeking further information about a person you are searching, you may see links or advertisements about information and data available to you through other websites. For example, if you find an old classmate through the iSearch site, you may be able to gather more detailed information such as a phone number or address, subject to certain terms and conditions, through [www.intelius.com](http://www.intelius.com/redir.php?qvar=tezHJBEm5gQTAVR5QYyJQwYD40zQUKRHV4BRYAPe4J1RwETiwZXgEafGEyWlKUEBRW). You should carefully review the privacy and personal information policies of any advertised or linked websites before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party Web sites. 
+In some cases, when you are seeking further information about a person you are searching, you may see links or advertisements about information and data available to you through other websites. For example, if you find an old classmate through the iSearch site, you may be able to gather more detailed information such as a phone number or address, subject to certain terms and conditions, through [www.intelius.com](http://www.intelius.com/redir.php?qvar=1-AzYlRRKWBywNtg1CUujRIg0k4n0YvTBhKiQJQwBVXjKBCoRjUYghEyc4JDYTBIQbElOE4NNmws1WJTdGRznU). You should carefully review the privacy and personal information policies of any advertised or linked websites before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party Web sites. 
 
 ##### Information Security:
 
