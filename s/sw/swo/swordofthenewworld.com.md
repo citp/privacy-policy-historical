@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230421id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527153113id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
-# GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting & Strategy Games Online
+# GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Adventure, Shooting & Strategy Games Online
 
   
 **K2 Network Online Privacy Policy**
