@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the jobsjobsjobs.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032133id_/http%3A//www.jobsjobsjobs.com.au/index%3Fstatic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsjobsjobs.com.au privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527194952id_/http%3A//www.jobsjobsjobs.com.au/-146879/Privacy) for the most accurate reproduction.*
 
-# Jobs, Jobs, Jobs: Australia's new career and employment website
+# Privacy | jobsjobsjobs.com.au | Australia's biggest jobs network
 
-In today’s times we all need to be smart in the way we handle our personal information, who we give it out to and what they will do with it.  At jobsjobsjobs Limited we understand how important the information is that you tell us when you use the jobsjobsjobs Site. We take it very seriously. 
+In today’s times we all need to be smart in the way we handle our personal information, who we give it out to and what they will do with it.  At jobsjobsjobs Pty Ltd we understand how important the information is that you tell us when you use the jobsjobsjobs Site. We take it very seriously. 
 
-We believe we are at the forefront of the privacy issues in our industry and as a result we continue to improve and refine the way we protect your personal information.  We feel it is important that you understand how protective we are and how we manage your valuable information, so we have developed a ‘Privacy Charter’ that all our staff committed too, passionately. 
+We believe we are at the forefront of the privacy issues in our industry and as a result we continue to improve and refine the way we protect your personal information.  We feel it is important that you understand how protective we are and how we manage your valuable information, so we have developed a ‘Privacy Charter’ that all our staff are committed too, passionately. 
 
-This Privacy Charter details the commitment of jobsjobsjobs Limited to protect your information when you use the jobsjobsjobs Site at www.jobsjobsjobs.com.au(Site).  We ask that you to read this charter and familiarise yourself about how we approach this important issue before you use the Site. 
+This Privacy Charter details the commitment of jobsjobsjobs Pty Ltd to protect your information when you use the jobsjobsjobs Site at www.jobsjobsjobs.com.au(Site).  We ask that you to read this charter and familiarise yourself about how we approach this important issue before you use the Site. 
 
-jobsjobsjobs Limited adheres to and complies with the National Privacy Principles and the Privacy Act 1998 (Cth). 
+jobsjobsjobs Pty Ltd adheres to and complies with the National Privacy Principles and the Privacy Act 1998 (Cth). 
 
-This Privacy Charter sets out jobsjobsjobs Limited’s policies for managing personal information across jobsjobsjobs Limited and all of its businesses, operating within Australia. 
+This Privacy Charter sets out jobsjobsjobs Pty Ltd’s policies for managing personal information across jobsjobsjobs Pty Ltd and all of its businesses, operating within Australia. 
 
-A Privacy Officer, who is responsible for all matters pertaining to privacy, has been appointed at jobsjobsjobs Limited and this person’s contact details are provided in this Privacy Charter under the heading ‘Privacy Officer’, below. 
+A Privacy Officer, who is responsible for all matters pertaining to privacy, has been appointed at jobsjobsjobs Pty Ltd and this person’s contact details are provided in this Privacy Charter under the heading ‘Privacy Officer’, below. 
 
 ### Your Acceptance 
 
-This Privacy Charter applies to and should be read in conjunction with the [Terms and Conditions](https://web.archive.org/Terms.html) which are available on the Site.  You can also request a copy from jobsjobsjobs Limited by writing to the privacy officer. 
+This Privacy Charter applies to and should be read in conjunction with the [Terms and Conditions](https://web.archive.org/-146880/Terms-of-Use) which are available on the Site.  You can also request a copy from jobsjobsjobs Pty Ltd by writing to the privacy officer. 
 
 By viewing and using the Site, you will be deemed to have agreed to the matters described in this Privacy Charter. If you do not agree with the terms of this Privacy Charter, then you should stop accessing and using the Site immediately. 
 
-Further, you should review this Privacy Charter regularly, as it may be updated from time to time, at jobsjobsjobs Limited’s discretion. 
+Further, you should review this Privacy Charter regularly, as it may be updated from time to time, at jobsjobsjobs Pty Ltd’s discretion. 
 
 ### Privacy Statement
 
-jobsjobsjobs Limited utilises the latest technological advances to target consumers’ lifestyles and supply the highest level of service without compromising usability and content of the Site and its features. 
+jobsjobsjobs Pty Ltd utilises the latest technological advances to target consumers’ lifestyles and supply the highest level of service without compromising usability and content of the Site and its features. 
 
-In each of its businesses, jobsjobsjobs Limited has relationships with customers to whom it provides various services.   As part of these customer relationships, jobsjobsjobs Limited collects information necessary to enrol customers in products and services and to offer them additional or related products and services. 
+In each of its businesses, jobsjobsjobs Pty Ltd has relationships with customers to whom it provides various services.   As part of these customer relationships, jobsjobsjobs Pty Ltd collects information necessary to enrol customers in products and services and to offer them additional or related products and services. 
 
-As mentioned previously, jobsjobsjobs Limited takes the protection of personal information very seriously and zealously protects the privacy of individuals, including customers, clients and service providers. This Privacy Charter will serve the interests of all persons in respect of whom jobsjobsjobs Limited collects personal information and will provide jobsjobsjobs Limited with an effective method to provide privacy protection. 
+As mentioned previously, jobsjobsjobs Pty Ltd takes the protection of personal information very seriously and zealously protects the privacy of individuals, including customers, clients and service providers. This Privacy Charter will serve the interests of all persons in respect of whom jobsjobsjobs Pty Ltd collects personal information and will provide jobsjobsjobs Pty Ltd with an effective method to provide privacy protection. 
 
 ### Types of Personal Information We Collect
 
@@ -75,20 +75,22 @@ We store personal information in a combination of secure computer storage facili
 
 ### **How We Use Your Personal Information**
 
-Once you have provided us with your personal information, we use it for the purposes for which it was collected. Generally, this will involve the use of your personal information by us to deliver products and services that you have requested and to process transactions you conduct on our Site.  Other ways in which we may use your personal information follow – 
+Once you have provided us with your personal information, we use it for the purposes for which it was collected. Generally, this will involve the use of your personal information by us to deliver products and services that you have requested and to process transactions you conduct on our Site. We will also use information you have provided to us to deliver ongoing information directly or indirectly relevant to the product and/or service you use. We will also use your information to inform you of opportunities, through newsletter, emails, short message service, mail or other electronic forms of communication deemed appropriate, which we believe would be of interest to you based on your activity or membership of our website.   Other ways in which we may use your personal information follow – 
 
-  * to conduct marketing activities and to conduct market research (where you have consented to this use at the time of providing your information to us);
+  * to conduct marketing activities and to conduct market research;
   * to customise your online experience and to provide you with more relevant online offers and updates;
   * for regulatory or compliance purposes;
-  * to service our relationship with you; and
+  * to service our relationship with you;
+  * to provide you information about any fraudulent activity related to our website; and
   * for internal accounting and administration.
 
-  
 
+
+We also track any contact via email when an advertiser has included an email address within a job ad. We track this for the purposes of substantiating a valid contact or application which may bypass the jobsjobsjobs.com.au application process. We retain this contact information indefinitely and use it for the purpose of ensuring your contact is valid and meets that outlined in our terms and conditions located on our website. 
 
 ### **Newsletters and email offers**
 
-Unless you indicate that you do not want us to do so, we will send you marketing material if you have consented to this at the time of providing your personal information.  If you have provided this consent, we may use your email address to send you the following types of email messages – 
+We will on occasion send you marketing material either directly or indirectly related to your site activity and use of our website. We may use your email address to send you the following types of email messages – 
 
   * occasional updates about our products and services;
   * occasional marketing offers; and
@@ -96,15 +98,17 @@ Unless you indicate that you do not want us to do so, we will send you marketing
 
 
 
-We may use the information you have previously provided to us to make our email offers more relevant to you.  You may decline to receive email offers at any time by responding in the manner described in the email offer.  However, if the law requires that we provide you with information about our products or services, we will provide you with that information even if you have chosen not to receive marketing material from us. 
+If you do not wish to receive any of these communications, you can choose to cease any communication, other than fraudulent notice warnings or communication related to administration of your membership or activity on our website, by following the opt out (unsubscribe) process contained within each piece of communication. 
 
-### **Opt Out**
+However, if the law requires that we provide you with information about our products or services, we will provide you with that information even if you have chosen not to receive marketing material from us. 
 
-To opt out of receiving email offers or newsletters from jobsjobsjobs Limited, please login into members section (top menu), select “my profile” and clear the checkbox next to “I would like to receive the jobsjobsjobs.com.au weekly e–newsletter with special offers” and then press “update”.  Alternatively, you may contact our Privacy officer and request that you be removed from the mailing list for email offers or newsletters. All email offers and email newsletters sent to you by jobsjobsjobs Limited also provide instructions on how to opt out of receiving future offers or newsletters. These instructions are usually located at the bottom of the email message. 
+### **Opt Out (Unsubscribe)**
+
+To opt out (unsubscribe) of receiving email offers or newsletters from jobsjobsjobs Pty Ltd, follow the opt out (unsubscribe) process (link) contained within each communication piece. Alternatively, you may contact our Privacy officer and request that you be removed from the mailing list for email offers or newsletters. All email offers and email newsletters sent to you by jobsjobsjobs Pty Ltd also provide instructions on how to opt out (unsubscribe) of receiving future offers or newsletters. These instructions are usually located at the bottom of the email message. 
 
 ### **Access & Correction Of Information About You**
 
-We will, upon a written request by you, provide you with access to the information we hold about you, unless there is an exception which applies under the National Privacy Principles which prevents us from providing you with that personal information.  You are entitled to correct or update the information we hold about you.  We may recover from you our reasonable costs of supplying you with access to the information that we hold about you.  If you request that we provide you with access to your information that we hold about you, wwe will endeavour to provide that information to you within a reasonable time.  If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles. 
+We will, upon a written request by you, provide you with access to the information we hold about you, unless there is an exception which applies under the National Privacy Principles which prevents us from providing you with that personal information.  You are entitled to correct or update the information we hold about you.  We may recover from you our reasonable costs of supplying you with access to the information that we hold about you.  If you request that we provide you with access to your information that we hold about you, we will endeavour to provide that information to you within a reasonable time.  If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles. 
 
 ### **Keeping Your Personal Information Up–to–Date**
 
@@ -132,7 +136,7 @@ Other than as described in this section, we will not disclose your personal info
 
 ### **Trans–Border Data Flows**
 
-For the purposes of providing our services to you, it may be necessary for us to forward personal information to relevant overseas service providers.  We will always ask for your consent at the time of collecting your personal information to allow us to provide your personal information to overseas entities for the purpose of providing our services to you.  Please let us know if you have any objections to such transfers of information.  However, we note that we may be not be able to provide you with the products and/or services requested if you object to such trans–border data flows. 
+For the purposes of providing our services to you, it may be necessary for us to forward personal information to relevant overseas service providers. When you provide us your personal information you give us the consent to do so. If you do not wish jobsjobsjobs Pty Ltd to provide this information you will need to email The Privacy Officer and specifically state any objections to such transfers of information. However, we note that we may be not be able to provide you with the products and/or services requested if you object to such trans–border data flows. 
 
 ### **Links to other websites**
 
@@ -142,9 +146,9 @@ Our Site contains links to other websites.  We are not responsible for the priv
 
 We have adopted appropriate security features in order to protect and keep secure personal information from loss, misuse, alteration or destruction.  We regularly review our security and encryption technologies and strive to protect personal information to the highest level possible. 
 
-### **SSL** **Technology**
+### **SSL Technology**
 
-We employ Secure Service Layer (SSL) Technology whenever any transaction is completed over our Site. Indeed, transactions involving the passage of personal information occur in one of our secure online areas only.  SSL technology encrypts the information you send through our Site.  The use of SSL technology requires two components – 
+We employ Secure Service Layer (SSL) Technology whenever any transaction is completed over our Site. Transactions involving the passage of personal information occur in one of our secure online areas only.  SSL technology encrypts the information you send through our Site.  The use of SSL technology requires two components – 
 
   * An SSL–compatible browser; and
   * A web server to perform “key–exchange” that establishes a secure connection.
@@ -158,7 +162,7 @@ For you to benefit from the SSL Technology which we have implemented:
 
 
 
-jobsjobsjobs Limited makes no warranty or representation in respect of the strength or effectiveness of the encryption capabilities of SSL Technology and jobsjobsjobs Limited is not responsible in any way for events arising from any unauthorised access of the information you provide. 
+jobsjobsjobs Pty Ltd makes no warranty or representation in respect of the strength or effectiveness of the encryption capabilities of SSL Technology and jobsjobsjobs Pty Ltd is not responsible in any way for events arising from any unauthorised access of the information you provide. 
 
 ### **Tracking activity on our websites**
 
@@ -168,34 +172,13 @@ When you browse the Site and have not registered for any online products or serv
 
 Cookies collect information that include the server your computer is logged onto, your browser type and how you gained entry to the Site.  Therefore, when you visit the Site anonymously, details are recorded about your visit, such as how you have used the Site, the time and date of your access to the Site, pages of the Site that you accessed and the time you spent on the Site.   This information is used in an anonymous form for statistical purposes and as such, cannot be used to identify you individually. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses or capture your email address or any other personally identifiable information.  You should note that accepting cookies is required if you want to view our Site, because they are essential for our Site administration and security. 
 
-### **Privacy Officer**
-
-If you – 
-
-  * have any question about your privacy or this Privacy Charter in respect of privacy;
-  * wish to update or access the information we hold about you; or
-  * wish to make a complaint.
-
-
-
-please write to us at the following address – 
-
-**The Privacy Officer  
-jobsjobsjobs Limited   
-First Floor, 34–36 Punt Road   
-Windsor VIC 3181 **
-
-Or email us at the following email address –
-
-**Email:**[privacy@jobsjobsjobs.com.au](mailto:privacy@jobsjobsjobs.com.au)
+[privacy@jobsjobsjobs.com.au](mailto:privacy@jobsjobsjobs.com.au)
 
 Our Privacy Officer will respond to you as soon as reasonably practicable.
 
 ### **Changes To Our Privacy Charter**
 
-We reserve the right to review and change this Privacy Charter from time to time. 
-
-Should we change our Privacy Charter, we will post our revised Privacy Charter on our website as soon as it is completed and becomes available.  If we make a material change to this Privacy Charter we will notify you by placing a prominent notice on our homepage or by directly sending you a notification.  Please periodically review this Privacy Charter to stay informed about how we are helping protect the personal information we collect.  Your continued use of this Site and our services constitutes your agreement to this Privacy Charter and any updates to it. 
+We reserve the right to review and change this Privacy Charter from time to time. Please periodically review this Privacy Charter to stay informed about how we are helping protect the personal information we collect. Your continued use of this Site and our services constitutes your agreement to this Privacy Charter and any updates to it. 
 
 ### **Further Information on Privacy**
 
