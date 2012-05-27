@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205055749id_/http%3A//royalsociety.org/about-us/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527110645id_/http%3A//royalsociety.org/about-us/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Society
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the **Act** ), the data control
 
 We may collect and process the following data about you: 
 
-  * Information that you provide by filling in forms on our site [http://royalsociety.org](http://royalsociety.org/) ( **our site** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information for other purposes, for example when you report a problem with our site.
+  * Information that you provide by filling in forms on our sites [http://royalsociety.org](https://web.archive.org/) and [http://pictures.royalsociety.org](http://pictures.royalsociety.org/) ( **our sites** ). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information for other purposes, for example when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We or a third party engaged by us for the purpose may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
