@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231013045id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527191337id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP
+
+Some ADP companies participate in the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Frameworks as set forth by the United States Department of Commerce, including Virtual Edge Corporation and The Right Thing LLC (formerly AIRS/The Right Thing).  This means that, for personal information that individuals in the European Economic Area and Switzerland provide to these affiliates for processing on behalf of our clients, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Additionally ADP protects all ADP associate information in accordance with the Safe Harbor Principles, and ADP, Inc. has certified to the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks for human resources data. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
+
+ADP believes that privacy is important to the success and use of the Internet. This statement sets forth ADP's Privacy Statement for ADP.com and describes the practices that ADP will follow with respect to the privacy of users of this site. From time to time, we may change this Privacy Statement. For example, as we update and improve our service, new features may require modifications to the Privacy Statement. Accordingly, please check back periodically. 
 
 **What is personally identifiable information?**   
 "Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. 
