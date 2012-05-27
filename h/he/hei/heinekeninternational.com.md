@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heinekeninternational.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110031302id_/http%3A//www.heinekeninternational.com/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinekeninternational.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527083715id_/http%3A//www.heinekeninternational.com/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Heineken International Privacy policy
 
