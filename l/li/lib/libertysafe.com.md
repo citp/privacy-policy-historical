@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libertysafe.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115000007id_/http%3A//www.libertysafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertysafe.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527133048id_/http%3A//www.libertysafe.com/privacy.php) for the most accurate reproduction.*
 
-# Liberty Safe - Privacy
+# Liberty Safes - Privacy
 
   
 The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we have described in our Privacy Policy.
