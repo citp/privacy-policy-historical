@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123195743id_/http%3A//www.cl-p.com/SiteInfo/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527213126id_/http%3A//www.cl-p.com/SiteInfo/Privacy_Statement) for the most accurate reproduction.*
 
 # Connecticut Light & Power : Privacy Statement
 
@@ -8,9 +8,7 @@ This Privacy Statement covers all the websites for the Company and will be updat
 
 This Privacy Statement answers the following questions: 
 
-**Additional Protection Measures Coming Soon**  
-
- **What additional protection measures are we taking?**  
+**What additional protection measures are we taking?**  
 You will be asked to provide additional security information before you can complete certain transactions on our website. Residential customers will be asked to provide the last four digits of the primary account holder's "Primary ID." Commercial customers will be asked for their [phone number](http://www.cl-p.com/CUSTOMER/ManageAccount/UpdatePhoneNumber.aspx). 
 
 A Primary ID is the unique identification number you provided at the time you set up service. For most residential customers, it will be the last four digits of the Social Security Number. If we do not have a primary ID, you have the option of completing ID verification online or you may call our Customer Service Center for assistance. 
@@ -96,8 +94,8 @@ Some states and public utility commissions which regulate the Company’s utilit
 
 See: 
 
-  * <http://www.mass.gov/Eoca/docs/idtheft/201CMR1700reg.pdf> 
-  * <http://www.cga.ct.gov/2009/pub/chap743dd.htm#Sec42-471.htm> 
+  * <http://www.lawlib.state.ma.us/subject/about/identitytheft.html> 
+  * <http://www.jud.ct.gov/lawlib/law/identitytheft.htm> 
 
  
 
