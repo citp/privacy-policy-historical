@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126093715id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527123915id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ConsumerBase.com
+# Privacy Policy
 
 The Privacy Policy was created in 2003 and most recently updated in November 2010.
 
@@ -79,4 +79,4 @@ Privacy Department
 ConsumerBase LLC  
 1603 Orrington Avenue, Floor 9  
 Evanston, IL 60201-3841  
-[privacy@consumerbase.com](mailto:privacy@consumerbase.com)
+[privacy@consumerbase.com](http://www.consumerbase.com/mailto:privacy@consumerbase.com)
