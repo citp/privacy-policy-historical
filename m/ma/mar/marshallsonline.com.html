@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marshallsonline.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206072951id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marshallsonline.com privacy policy that was archived on 2012-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527060630id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -19,7 +19,9 @@
 
 <meta name="keywords" content="Marshalls privacy policy, Marshalls customer privacy, Marshalls privacy rights">
 
-<meta property="fb:page_id" content="61025451835"><link rel="stylesheet" href="http://www.marshallsonline.com/wp-content/themes/marshalls/css/styles2.css" type="text/css" media="screen">
+<meta property="fb:page_id" content="61025451835"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="http://www.marshallsonline.com/wp-content/themes/marshalls/css/styles2.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.marshallsonline.com/wp-content/themes/marshalls/css/jquery.qtip.css" type="text/css">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=135052389905512"></script><script language="javascript" type="text/javascript" src="http://www.marshallsonline.com/wp-content/themes/marshalls/javascript/modernizr-1.7.min.js"></script>
 
 <script language="JavaScript" type="text/javascript">
@@ -40,7 +42,7 @@
 <meta name="generator" content="WordPress 3.0.1">
 <link rel="canonical" href="http://www.marshallsonline.com/privacy/">
 
-<script language="JavaScript" type="text/javascript"> var key="ABQIAAAA40PArrv6bcvsSwk5ePCqmhRarG3bWT7kNXLt0_h_TCOSQXMMZxSpx6xz8cooL57IujayLmWWVEIqqA";</script>
+<script type="text/JavaScript" src="http://www.google.com/jsapi"></script>
 <script language="JavaScript" type="text/javascript" src="http://www.marshallsonline.com/wp-content/themes/marshalls/javascript/marshalls.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://www.marshallsonline.com/wp-content/themes/marshalls/javascript/header-functions.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://www.marshallsonline.com/wp-content/themes/marshalls/javascript/tjx-carousel.js"></script>
@@ -50,101 +52,48 @@ jQuery(document).ready( function() {
 			//click event for the Twitter Follow Us link
 			jQuery('#twFollowUs').click(function() {
 						s1 = s_gi("tjxmarshalls");
-		s1.prop12 = "Twitter";s1.eVar13 = "Twitter (Subscription)";s1.eVar7 = "Out";		s1.linkTrackVars="prop10,prop11,prop12,prop13,prop14,events,eVar7,eVar13,eVar17,eVar20";
+		s1.prop15 = "Homepage:Header:Twitter:Link";s1.eVar18 = "Homepage:Header:Twitter:Link";		s1.linkTrackVars="prop10,prop11,prop12,prop13,prop14,events,eVar7,eVar13,eVar17,eVar20";
 		s1.linkTrackEvents = "";
 		s1.events = "";
 		var s_code1=s1.tl();
 		if(s_code1) document.write(s_code1);
-						s_objectID='mar_sub_twitter'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_sub_twitter');				window.open('http://twitter.com/marshalls');
+						s_objectID='Homepage:Header:Twitter:Link'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','Homepage:Header:Twitter:Link');				window.open('http://twitter.com/marshalls');
 			});
 		
 			//Click event for the Facebook Like Us link
 			jQuery('#fbLikeUs').click(function() {
 						s1 = s_gi("tjxmarshalls");
-		s1.prop12 = "Facebook";s1.eVar13 = "Facebook (Subscription)";s1.eVar7 = "Out";		s1.linkTrackVars="prop10,prop11,prop12,prop13,prop14,events,eVar7,eVar13,eVar17,eVar20";
+		s1.prop16 = "Homepage:Header:Facebook:Likes";s1.eVar19 = "Homepage:Header:Facebook:Likes";		s1.linkTrackVars="prop10,prop11,prop12,prop13,prop14,events,eVar7,eVar13,eVar17,eVar20";
 		s1.linkTrackEvents = "";
 		s1.events = "";
 		var s_code1=s1.tl();
 		if(s_code1) document.write(s_code1);
-						s_objectID='mar_sub_facebook'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_sub_facebook');				window.open('http://www.facebook.com/Marshalls');
+						s_objectID='Facebook Like Button: Top Nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','Facebook Like Button: Top Nav');				window.open('http://www.facebook.com/Marshalls');
 			});
 			
 			//Click event for RSS Stay Up To Speed
 			jQuery('#rssStayUp').click(function() {				
 				document.getElementById('lightRSS').style.display='block';
 				document.getElementById('fade').style.display='block';
-				s_objectID='mar_sub_rss'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_sub_rss');			});
+				s_objectID='Homepage:Header:RSS:Link'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','Homepage:Header:RSS:Link');			});
 			
-			//Click event for Email Nav Subscribe
-			jQuery('#emailSignup').click(function() {				
-				document.getElementById('lightEmailNav').style.display='block';
+			jQuery('#emailSignup').click(function(){
+				//omniture link tracking for email lightbox
+				s_objectID='Homepage:Lightbox:Email-Signup'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','Homepage:Lightbox:Email-Signup');				
+				//clear form fields
+				jQuery("input#lbEmail").val('');
+				jQuery("input#lbZip").val('');
+				jQuery("input#lbFirstName").val('');
+				jQuery("input#lbLastName").val('');
+				
+				//Reset invisibility on all error <li> items and <ul> each time through
+				jQuery('.errorMessageContainerSubWidget li').each(function(index) {
+					jQuery(this).hide();
+				});
+				jQuery('.errorMessageContainerSubWidget').hide();				
+
+				document.getElementById('lightEmail').style.display='block';
 				document.getElementById('fade').style.display='block';
-				s_objectID='mar_sub_email'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_sub_email');			});
-			
-			jQuery('#emailSubscribeNav').click(function(){
-				jQuery('#emailErrorNav').hide();
-				jQuery('#zipcodeErrorNav').hide();
-				//assign values from form inputs			
-				var email = jQuery("input#emailNav").val();			
-				var zip = jQuery("input#zipNav").val();
-				//run form field validations
-				validEmail = validateEmail(email);
-				validZipCode = validateZipCode(zip);
-				var error = false;
-				//test validation returns, if errors found show message layer
-				if( validEmail != 1 ) {
-					jQuery('#emailErrorNav').show();				
-					closeIt();
-					error = true;
-				}
-				if( validZipCode != 1 ) {
-					jQuery('#zipcodeErrorNav').show();
-					closeIt();
-					error = true;
-				}
-				if( error ) {
-					jQuery(this).disabled = false;
-					return false;
-				}			
-				//made it this far, form inputs are ok, now bundle up params in prep for post submission
-				var param = {
-						'email': email.toLowerCase(),
-						'zip_code': zip,
-						'first_name' : '',
-						'last_name' : '',
-						'source' : 'header',
-						'action' : 'email_subscription',
-						'email_format' : 'html'
-					};
-					//process form here	
-					var url = "http://www.marshallsonline.com/wp-content/tjx-commons/request-handlers/tjx-ajax-account-util.php";
-					jQuery.post(url, param, function(retVal){
-						jQuery(this).disabled = false;
-						if(retVal.code == "success") {
-							jQuery("input#emailNav").val('  email');
-							jQuery("input#zipNav").val('  zip');
-							jQuery('#emailSuccessNav').show();
-							closeIt();
-									s1 = s_gi("tjxmarshalls");
-		s1.eVar1 = "Header";s1.prop12 = "Email";s1.eVar13 = "Email (Subscription)";s1.eVar7 = "Out";		s1.linkTrackVars="prop10,prop11,prop12,prop13,prop14,events,eVar7,eVar13,eVar17,eVar20";
-		s1.linkTrackEvents = "event2";
-		s1.events = "event2";
-		var s_code1=s1.tl();
-		if(s_code1) document.write(s_code1);
-								}
-						else {
-							var htmlString = '<p id="pError"><img src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/errorImg.jpg" style="width:28px;" />&nbsp;&nbsp;' + retVal.data + '</p>';
-							if(jQuery('#pError').length){							
-								jQuery('#pError').remove();
-							}						
-							jQuery('#postErrorNav').append(htmlString);
-							jQuery('#postErrorNav').show();
-							closeIt();
-						}
-					},
-					"json"
-				);			
-				return false;
 			});
 		});
 </script>
@@ -182,38 +131,41 @@ window.fbAsyncInit = function() {
 <div id="container">
 	<div id="page-header"> <a id="logo" href="http://www.marshallsonline.com" title="Visit the Marshalls Homepage">Marshalls</a>
 	<div id="page-navigation">
-		<ul>
-			<li><a href="http://www.marshallsonline.com" title="Visit the Marshalls Homepage" class="" onclick="s_objectID='mar_hp_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_hp_nav');">Marshalls home</a></li>
-			<li><a href="http://www1.marshallsonline.com/tjx/locator.asp" onclick="s_objectID='mar_storesearch_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_storesearch_nav');" title="Find a Marshalls Store">Find a store</a></li>
-			<li><a href="http://www1.marshallsonline.com/tjx/about-us.asp" onclick="s_objectID='mar_storemap_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_storemap_nav');" title="Explore a Marshalls Store">Explore our store</a></li>
-		</ul>
-	</div>
-	<div style="position:relative;top:50px;left:-285px;z-index:1000;"><form name="findStore" id="findStore" action="http://www1.marshallsonline.com/tjx/search_results.aspx" onsubmit="return submitLocator(this, 'http://www1.marshallsonline.com/tjx/');" method="post">
-      <input id="findStoreSrchBox" name="findStoreSrchBox" type="text" style="width:160px; font-family:Helvetica, sans-serif; font-size:11px; color:#9e9d9d; border:1px solid #D6D6D6; height:16px; margin-left:60px;" value=" zip code or city &amp; state" onfocus="this.value=''">
-      <input type="image" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/hdr_search_btn.gif" class="findStoreBtnImg" onclick="s_objectID='mar_storesearch_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_storesearch_nav');">
-      <input type="hidden" id="geolat" name="geolat">
-      <input type="hidden" id="geolong" name="geolong">
-    </form></div>
-    
-  <div style="position:relative;left:10px;top:-25px;margin-left:650px;"><a href="http://www1.marshallsonline.com/tjx/gc_redir.asp?intcmp=giftcards_header" target="_blank" onclick="s_objectID='mar_giftcards_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_giftcards_nav');" title="Buy a Marshalls Gift Card"><img src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/HP_giftCardIMG.gif" border="0"></a></div>
-  <div style="position:relative;left:280px;top:-67px;width:145px;z-index:1005;"><a href="http://www1.marshallsonline.com/tjx/locator.asp" style="text-decoration:none;color:#990000;">extended store hours</a></div>
-	<div id="social">
-		<ul>
-			<li id="emailSignup" class="icon email"><a href="javascript:void(0)" title="Share this page via Email">Email a link to
+    <ul>
+      <li><a href="http://www.marshallsonline.com" onclick="s_objectID='mar_hp_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_hp_nav');" title="Visit the Marshalls Homepage">Marshalls home</a></li>
+      <li><a href="http://www1.marshallsonline.com/tjx/browse.asp" onclick="s_objectID='mar_storemap_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_storemap_nav');" title="Explore a Marshalls Store" class="">browse depts.</a></li> 
+	   <li><a href="http://www1.marshallsonline.com/tjx/gc_redir.asp?intcmp=giftcards_header" target="_blank" onclick="s_objectID='mar_giftcards_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_giftcards_nav');" title="Buy a Marshalls Gift Card">buy a gift card</a></li> 
+     <li><div id="nav_findStore"><div id="nav_findStoreLabel">Find a store</div><div style="margin-left: 90px; margin-top: -15px;"><form name="findStore" id="findStore" action="http://www1.marshallsonline.com/tjx/search_results.aspx" onsubmit="return submitLocator(this, 'http://www1.marshallsonline.com/tjx/');" method="post"><input id="findStoreSrchBox" name="findStoreSrchBox" type="text" style="width:100px; font-family:Helvetica, sans-serif; font-size:11px; color:#9e9d9d; border:1px solid #D6D6D6; height:16px;" value=" zip or city, state" onfocus="this.value=''"><input type="image" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/hdr_search_btn.gif" class="findStoreBtnImg" onclick="s_objectID='mar_storesearch_nav'; var s1=s_gi('tjxmarshalls');s1.tl(this,'o','mar_storesearch_nav');">
+      <input type="hidden" id="geolat" name="geolat"><input type="hidden" id="geolong" name="geolong">
+    </form>
+    </div>
+</div>
+     
+     </li>
+    </ul>    
+  </div>
+  
+
+  <div id="gift-card"></div>
+ 
+  <div id="social">
+    <ul>
+      <li id="emailSignup" class="icon email"><a href="javascript:void(0)" title="Share this page via Email">Email a link to
         this page</a></li>
-			<li id="twFollowUs" class="icon twitter"><a href="javascript:void(0)" title="Tweet about this page on Twitter">Tweet
+      <li id="twFollowUs" class="icon twitter"><a href="javascript:void(0)" title="Tweet about this page on Twitter">Tweet
         a link to this page</a></li>
-			<li id="rssStayUp" class="icon feed"><a href="javascript:void(0)" title="Subscribe to this site using RSS">Subscribe
+      <li id="rssStayUp" class="icon feed"><a href="javascript:void(0)" title="Subscribe to this site using RSS">Subscribe
         to this page</a></li>
-			<li class="fb">
-				<div class="fb-like" data-href="http://www.facebook.com/marshalls" data-send="false" data-layout="button_count" data-width="100" data-height="200" data-show-faces="false" data-font="arial"></div>
-			</li>
-		</ul>
-	</div>
+      <li class="fb">
+        <!--iframe  src="http://www.facebook.com/plugins/like.php?href=facebook.com%2Fmarshalls&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px; height: 21px;" allowtransparency="true"></iframe-->
+		<div class="fb-like" data-href="http://www.facebook.com/marshalls" data-send="false" data-layout="button_count" data-width="450" data-height="200" data-show-faces="false" data-font="arial"></div>
+      </li>
+    </ul>
+  </div>
 	</div>
   <div id="main" role="main">
-    <div id="main-header">
-      <!--  <h1 title="Some Title">Some Title</h1>
+	    <div id="main-header">
+	      <!--  <h1 title="Some Title">Some Title</h1>
                 <h2 title="Apparel, Accessories, Footwear and More">
                     Apparel <span>&bull;</span> Accessories <span>&bull;</span> Footwear <span>&bull;</span>
                     And More</h2>-->
@@ -322,7 +274,6 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 </ul>
 <h3>Changes to Our Notice</h3>
 <p>This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our information practices. We will post a prominent notice on the site to notify you of any significant changes to our Privacy Notice and indicate when it was most recently updated. </p>
-<p>©2011 Marshalls. All rights reserved.</p>
 </div>
 <p></p>
 <div class="footerBand"></div>		</div>
@@ -344,7 +295,7 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 										<div class="tweetContentWrapper">										
 										<div class="tweetContent">
 										<ul id="ucarousel">
-										<li id="0" class="tweets"><p><span class="userName">coleyscloset</span> $120 French Connection sweater at @marshalls for $40. That's a good Wednesday, folks. <span class="tweetime">Wed Oct 5 13:04:07</span></p></li><li id="1" class="tweets"><p><span class="userName">aerieruiz</span> Got new @MichaelKors boots @Marshalls over the weekend and co-workers have been raving about it for two days straight now. <span class="tweetime">Tue Oct 4 18:58:56</span></p></li><li id="2" class="tweets"><p><span class="userName">SamanthaCModel</span> @anniecvazquez I made a killing at @marshalls 2day! 2 pairs of pants, 1 dress, 3 tops, 2 jackets &amp; a bag for under $175. I couldn't resist! <span class="tweetime">Mon Oct 3 18:34:33</span></p></li><li id="3" class="tweets"><p><span class="userName">TheBaileyBrand</span> I'm a perfume junkie, so finding some of my fave luxe fragrances @marshalls makes me uber happy. #40ThingsToKnowAboutME <span class="tweetime">Sat Oct 1 18:28:35</span></p></li><li id="4" class="tweets"><p><span class="userName">MELISSAallsnup</span> just scored 4 onsies and 5 pairs of tights for my peanut for less than $14 @Marshalls #sweetdeal <span class="tweetime">Sat Oct 1 17:17:54</span></p></li><li id="5" class="tweets"><p><span class="userName">outsidevoice</span> Brown leather jacket I plan to LIVE IN? Check! Thanks, @marshalls! <span class="tweetime">Fri Sep 30 12:52:45</span></p></li><li id="6" class="tweets"><p><span class="userName">TatLVR_Mary</span> Went to @marshalls &amp; wanted all the boots that were there! #WannaShop <span class="tweetime">Fri Sep 30 12:31:35</span></p></li><li id="7" class="tweets"><p><span class="userName">mrsnunz</span> @marshalls found a gorgeous pair of black tahari skinny pants $29 on sale vs orignal $198 on label - thank you! <span class="tweetime">Thu Sep 29 16:15:37</span></p></li><li id="8" class="tweets"><p><span class="userName">XoxoYourCandy</span> Spent 180 @Marshalls. 150 for my oscar boots. 10 for my hair mask. &amp; 5 to Juvenile Diabetes. Now home, relaxing over a warm cup of tea. <span class="tweetime">Sat Sep 17 21:28:44</span></p></li><li id="9" class="tweets"><p><span class="userName">DeniseVitola</span> Gucci shoes @marshalls...found a new home with me. <span class="tweetime">Sat Sep 17 18:15:58</span></p></li><li id="10" class="tweets"><p><span class="userName">AnnaRice23</span> Love finding the EXACT same booties I bought at @Marshalls last weekend at an online shop for triple the price. <span class="tweetime">Sun Sep 11 17:31:57</span></p></li><li id="11" class="tweets"><p><span class="userName">WordsmithJenn</span> I just discovered @marshalls &amp; I think I'm in love! I got a pair of Chinese Laundry heels for 30 bucks! #awesome #lovethisstore <span class="tweetime">Sat Sep 10 16:59:39</span></p></li><li id="12" class="tweets"><p><span class="userName">natalieneal</span> I think @Marshalls is highly underrated. Great place to find nice clothes and home decorations that won't break the bank. <span class="tweetime">Thu Sep 8 21:47:35</span></p></li><li id="13" class="tweets"><p><span class="userName">HymAndHerr</span> @marshalls has Vera Wang Lavendar flat black leather boots for $150!! Had to go half a size smaller :) #HERR <span class="tweetime">Thu Sep 8 13:22:42</span></p></li><li id="14" class="tweets"><p><span class="userName">AdrienneRoyer</span> @marshalls I must have courage then. today I'm sporting leopard-print Tahari slingbacks that I found for $20 on clearance at @marshalls! :) <span class="tweetime">Wed Aug 31 13:32:51</span></p></li>										</ul>
+										<li id="0" class="tweets"><p><span class="userName">glitterbuzzinfo</span> The sun came out, I had to buy some stylish shoes! Quick grab $19.99 @marshalls #trends #style  ; ) <a href="javascript:void(window.open('http://t.co/P7pDZ6pI','_blank'));">http://t.co/P7pDZ6pI</a>  <span class="tweetime">Thu May 24 13:33:53</span></p></li><li id="1" class="tweets"><p><span class="userName">kjeanie</span> Going to treat myself at #marshalls today. Discounted clothing is calling me. <span class="tweetime">Wed May 23 11:40:11</span></p></li><li id="2" class="tweets"><p><span class="userName">fionnalevv</span> Omg marshalls ♥ never fails to impress <span class="tweetime">Mon May 21 13:16:05</span></p></li><li id="3" class="tweets"><p><span class="userName">quspork</span> Thanks to @marshalls finally found the perfect white capris for vacation! (Plus another pair of pants, a few shirts, a new purse... haha) <span class="tweetime">Fri May 18 13:44:35</span></p></li><li id="4" class="tweets"><p><span class="userName">JessicaSings_</span> I Loveeee Marshalls &lt;3 <span class="tweetime">Fri May 18 12:22:54</span></p></li><li id="5" class="tweets"><p><span class="userName">MissToy_Box101</span> I need a swim suit asap... I saw the cutest ones at Marshall's!! <span class="tweetime">Fri May 18 12:08:30</span></p></li><li id="6" class="tweets"><p><span class="userName">PopofStyle</span> Loving #nautical pieces for summer! Check out this dress feature and others styled on @marshalls instagram &amp; <a href="javascript:void(window.open('http://t.co/410rpshu','_blank'));">http://t.co/410rpshu</a>  <span class="tweetime">Thu May 17 13:38:05</span></p></li><li id="7" class="tweets"><p><span class="userName">stylishstepmom</span> I may not be a 'Maxx'anista, as much as I am a 'Marshalls'anista!!! :) :) <span class="tweetime">Wed May 9 15:44:43</span></p></li><li id="8" class="tweets"><p><span class="userName">Lucytakesatrip</span> Love getting $18.00 panties for $2.99 @marshalls! #toogoodtopassup <a href="javascript:void(window.open('http://t.co/Sr8H6gZP','_blank'));">http://t.co/Sr8H6gZP</a>  <span class="tweetime">Wed May 9 14:08:22</span></p></li><li id="9" class="tweets"><p><span class="userName">Life_of_Meg</span> Just found the cutest strapless coral RL swimsuit at Marshalls... for $25. #lunchtimewin <span class="tweetime">Tue May 1 14:54:38</span></p></li><li id="10" class="tweets"><p><span class="userName">stacycoxbeauty</span> @Marshalls a fashionista's paradise found. Just snagged a peach/silk Equipment blouse 4 about $69 dollars. They normally run around $200! xo <span class="tweetime">Tue May 1 14:34:51</span></p></li><li id="11" class="tweets"><p><span class="userName">MerrimentStyle</span> MERRIMENT: Fashion - Weekend Designer Steals from Marshalls! <a href="javascript:void(window.open('http://t.co/R23jT6KB','_blank'));">http://t.co/R23jT6KB</a> <a href="javascript:void(window.open('http://t.co/jV9zVm5a','_blank'));">http://t.co/jV9zVm5a</a>  <span class="tweetime">Mon Apr 30 15:43:20</span></p></li><li id="12" class="tweets"><p><span class="userName">CandyStiletto</span> Great find @marshalls #gotitatmarshalls <a href="javascript:void(window.open('http://t.co/uMbBAhII','_blank'));">http://t.co/uMbBAhII</a>  <span class="tweetime">Mon Apr 30 10:32:39</span></p></li><li id="13" class="tweets"><p><span class="userName">Caitlin22Miller</span> Marshalls has THE best home goods! Makes me think of all the things I can do when I move out! 🏠 <span class="tweetime">Fri Apr 27 14:24:03</span></p></li><li id="14" class="tweets"><p><span class="userName">GlamKaren</span> @marshalls @PopofStyle - That reminds me... I "need" to go to @marshalls this weekend.  No choice.  ;) <span class="tweetime">Fri Apr 27 09:45:09</span></p></li>										</ul>
 										</div>
 										<!-- tweetContent ends -->
 										</div>
@@ -372,7 +323,7 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 				    <!-- END: Subscribe Widget -->
 				  </div>
 	  						<div class="bottomPromoCards">
-											<a href="javascript:void(window.open('http://www1.marshallsonline.com/tjx/gc_redir.asp?intcmp=giftcards_footerpromo','_blank'));"><img alt="Gift Card" title="Gift Card" src="http://www.marshallsonline.com/wp-uploads/2011/11/promoCard2New1.gif"></a>
+											<a href="javascript:void(window.open('http://www1.marshallsonline.com/tjx/gc_redir.asp?intcmp=giftcards_footerpromo','_blank'));"><img alt="Gift Card" title="Gift Card" src="http://www1.marshallsonline.com/tjx/images/promoCard2New1.gif"></a>
 									    <!--<script type="text/javascript" language="JavaScript">
 
 				               // var tabbedContent = new Spry.Widget.TabbedPanels("tabbedContent");
@@ -393,14 +344,13 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 				<ul>
 					<li><a href="http://www.marshallsonline.com/sitemap/" title="sitemap">sitemap</a></li>
 					<li><a href="http://www1.marshallsonline.com/tjx/locator.asp" title="store locator">store locator</a></li>
-					<li><a href="http://www1.marshallsonline.com/tjx/about-us.asp" title="about Marhsalls">about Marshalls</a></li>
-					<li><a href="http://www1.marshallsonline.com/tjx/corporate.asp" title="corporate rewards">corporate rewards</a></li>
+					<li><a href="http://www1.marshallsonline.com/tjx/corporate.asp" title="business gift cards">business gift cards</a></li>
+					<li><a href="http://www1.marshallsonline.com/tjx/grand-openings.asp" title="grand openings">grand openings</a></li>
 				</ul>
 			</div>
 			<div id="footerColumn2" class="footer">
 				<ul>
 					<li><a href="http://www.marshallsonline.com/social-responsibility/" title="social responsibility">social responsibility</a></li>
-					<li><a href="http://www1.marshallsonline.com/tjx/grand-openings.asp" title="grand openings">grand openings</a></li>
 					<li><a href="http://www.marshallsonline.com/terms-of-use/#returns" title="returns">returns</a></li>
 					<li><a href="http://media.marshallsonline.com/login.cfm?path_info=/index.cfm?instance_code=Marshalls&amp;CFID=48367863&amp;CFTOKEN=f29bf6044a2a6ed-9E54177F-B891-408F-E3615DE9D9892B5B" title="press">press</a></li>	
 					<li><a href="http://www.marshallscanada.ca" target="_blank" title="Marshalls Canada">Marshalls Canada</a></li>	
@@ -409,7 +359,7 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 			<div id="footerColumn3" class="footer">
 				<ul>
 					<li><a href="http://www1.marshallsonline.com/tjx/product-info.asp" title="product info / recalls">product info / recalls</a></li>
-					<li><a href="http://www1.marshallsonline.com/tjx/customer-service.asp" title="contact us">contact us</a></li>
+					<li><a href="http://www1.marshallsonline.com/tjx/customer-service.asp" title="customer service">customer service</a></li>
 					<li><a href="http://www.marshallsonline.com/terms-of-use/" title="terms of use">terms of use</a></li>
 					<li><a href="http://www.marshallsonline.com/privacy/" title="privacy">privacy</a></li>
 					<li><a href="http://www.tjxrewards.com" title="tjx rewards® credit card">tjx rewards® credit card</a></li>
@@ -424,7 +374,7 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 					<li><a href="http://www1.marshallsonline.com/tjx/spanish.asp" title="en español">en español</a></li>   
 				</ul>
 			</div>
-			<div class="copyright">© 2011 Marshalls</div>
+			<div class="copyright">© 2012 Marshalls</div>
 			<div class="footer" style="margin-left:270px;"><ul><li><a href="http://www.tjx.com/" target="_new" title="TJX Companies">The TJX Companies, Inc.</a></li></ul></div>
 		</div>
 		<!-- footer ends -->
@@ -482,7 +432,7 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 <!-- Connect LightBox Section Starts -->
 
 			  <!-- whiteContent email begins -->
-			  <div id="lightEmail" class="whiteContent subscribeWidget">
+			  <div id="lightEmail" class="whiteContent">
 				<!--<h1 class="lightBoxHeading">Accessorize your inbox!</h1>
 				<p class="lightBoxText">Sign up to get store happenings, fashion news<br />and fan finds by email.</p>-->
 				<!-- START : Error and Success message -->
@@ -499,7 +449,8 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 					  <input type="text" value="" class="lbInputEmail" id="lbEmail" name="email" onfocus="this.value = '';">
 					  <input type="text" value="" class="lbInputZip" id="lbZip" name="zipCode" onfocus="this.value = '';"><div class="clear"></div>
 					  <input type="image" name="signUpButton" id="lbEmailSubscribe" value="sign up" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/lightbox_btn.gif" style="margin-left:100px;margin-top:10px;"> 
-					  <!-- <input type="submit" name="signUp" value="submit" class="marginT15 submit" /> -->
+					  <!-- <input type="submit" name="signUp" value="submit" class="marginT15 submit" /> -->					  
+						<a style="margin-right:33px;text-decoration:underline;color:#fff;" href="/privacy/">privacy policy</a>
 					</form>
 			    <div class="errorMessageContainerSubWidget">
                             <ul>
@@ -519,21 +470,21 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 			  <!-- whiteContent email ends -->
 			  
 			  <!-- whiteContent Email Success begins -->
-			  <div id="lightEmailSuccess" class="whiteContentSuccess subscribeWidget">
-				<div style="width:300px;height:21px;margin-top:225px;text-align:center;color:#fff;font-weight:bold;font-size:1em;">
+			  <div id="lightEmailSuccess" class="whiteContentSuccess">
+				<div style="width:300px;height:21px;margin-top:230px;text-align:center;color:#fff;font-weight:bold;font-size:1em;">
 					<div style="width:195px;vertical-align:middle;float:left;padding-top:1px;text-align:right;padding-right:5px;"> </div><iframe src="http://www.facebook.com/plugins/like.php?href=facebook.com%2Fmarshalls&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px; height: 21px;" allowtransparency="true"></iframe>
 				</div>
 				<div style="width:600px;height:20px;margin-top:18px;text-align:left;margin-left:195px;color:#fff;font-weight:bold;font-size:1em;">
 					<div style="vertical-align:middle;float:left;padding-top:1px;"> </div>&nbsp;<a id="twtFollow" href="http://twitter.com/marshalls" class="twitter-follow-button" data-show-count="false" data-link-color="#ffffff">Follow @marshalls</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
 				</div>
-				<a href="javascript:void(0)" id="close-link" onclick="document.getElementById('lightEmailSuccess').style.display='none';document.getElementById('fade').style.display='none'"></a>
+				<a href="javascript:void(0)" id="close-link3" onclick="document.getElementById('lightEmailSuccess').style.display='none';document.getElementById('fade').style.display='none'"></a>
 			  </div>
 				<!-- End witheContent Email Success -->
 				
 				<!-- whiteContent Giftbox begins -->
 			  <div id="lightGift" class="whiteContentGift">
-				<a href="http://www1.marshallsonline.com/tjx/gc_redir.asp?intcmp=giftcard_lightbox" id="gift-link" target="_blank" onclick="document.getElementById('lightGift').style.display='none';document.getElementById('fade').style.display='none'"></a>
-				<a href="javascript:void(0)" id="gift-close" onclick="document.getElementById('lightGift').style.display='none';document.getElementById('fade').style.display='none'"></a>
+				<a href="http://www1.marshallsonline.com/tjx/gc_redir.asp?intcmp=giftcard_lightbox" id="gift-link" target="_blank"></a>
+				<a href="javascript:void(0)" id="gift-close"></a>
 			  </div>
 			  <!-- whiteContent Giftbox ends -->
 				
@@ -556,8 +507,7 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 			  <!-- whiteContent CA Begin -->
 			  <div id="lightCA" class="whiteContentCA">
 			        <a id="goto-CA" href="http://www.marshallscanada.ca/en/index.asp"></a>
-				<a href="javascript:void(0)" id="close-link" onclick="document.getElementById('lightCA').style.display='none';document.getElementById('fade').style.display='none'"></a>
-			        <a href="javascript:void(0)" id="close-link2" onclick="document.getElementById('lightCA').style.display='none';document.getElementById('fade').style.display='none'"></a>
+				<a href="javascript:void(0)" id="close-link4" onclick="document.getElementById('lightCA').style.display='none';document.getElementById('fade').style.display='none'"></a>
 			  </div>			
 			  <!-- whiteContent CA End -->
 		<!-- Navigation Email -->
@@ -633,9 +583,149 @@ Attn: Customer Service - Privacy Notice<br><br></li>
 					</div>
 			  </div>
 			  <!-- whiteContent Survey ends -->	
+			  <!-- whiteContent Trends overlay begins-->
+			  <div id="tjxTrends" class="whiteContentTrends">
+					<img usemap="#lightbox1" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574"> 
+					<img usemap="#lightbox2" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574">
+					<img usemap="#lightbox3" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574"> 
+					<img usemap="#lightbox4" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574">
+					<img usemap="#lightbox5" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574"> 
+					<img usemap="#lightbox6" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574">
+					<img usemap="#lightbox7" src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/spacer.gif" width="804" height="574">
+					<map name="lightbox1">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(1,'Homepage:Lightbox:BlockParty:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(11,'Homepage:Lightbox:BlockParty:Ladies-Tops');">
+					</map>
+					<map name="lightbox2">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(2,'Homepage:Lightbox:ToTheMaxi:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(12,'Homepage:Lightbox:ToTheMaxi:Ladies-Dresses');">
+					</map>
+					<map name="lightbox3">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(3,'Homepage:Lightbox:FashionLines:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(12,'Homepage:Lightbox:ToTheMaxi:Ladies-Dresses');">
+					</map>
+					<map name="lightbox4">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(4,'Homepage:Lightbox:BrilliantLegwork:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(13,'Homepage:Lightbox:BrilliantLegwork:Ladies-Bottoms');">
+					</map>
+					<map name="lightbox5">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(5,'Homepage:Lightbox:ScubaLesson:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(12,'Homepage:Lightbox:ToTheMaxi:Ladies-Dresses');">
+					</map>
+					<map name="lightbox6">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(6,'Homepage:Lightbox:TheGreatWhite:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(10,'Homepage:Lightbox:TheGreatWhite:Ladies');">
+					</map>
+					<map name="lightbox7">
+						<area shape="rectangle" coords="710,20,785,45" href="javascript:void(0);" onclick="document.getElementById('tjxTrends').style.display='none';document.getElementById('fade').style.display='none'">
+						<area class="seeNextTrend" shape="rectangle" coords="540,415,690,440" href="javascript:void(0);" onclick="nextTrendTracking(0,'Homepage:Lightbox:ModernMixup:NextTrend');">
+						<area id="browseRedir" shape="rectangle" coords="520,455,700,475" href="javascript:void(0);" onclick="redirBrowse(11,'Homepage:Lightbox:ModernMixup:Ladies-Tops');">
+					</map>
+			  </div>
+			  <!-- whiteContent Trends overlay ends-->
+			  <!-- whiteContent Video overlay -->
+			  <div id="tjxTrendsVideo" class="whiteContentTrendsVideo">
+				<iframe id="vidIframeContent" src="http://www1.marshallsonline.com/tjx/showVideo.asp" width="977" height="470"></iframe>
+				<img src="http://www.marshallsonline.com/wp-content/themes/marshalls/images/closeVideo.jpg" class="closeIconVideo" alt="close" onclick="document.getElementById('tjxTrendsVideo').style.display='none';document.getElementById('fade').style.display='none'">
+			  </div>
+			  <!-- whiteContent Video overlay ends -->
 			  <!-- blackOverlay begins -->
 			  <div id="fade" class="blackOverlay"></div> 
+			  <script type="text/javascript">
+				var $ = jQuery;
+				var dept;
+				$(document).ready( function() {
+					$('#fade').click(function(){
+						document.getElementById('fade').style.display='none';
+						document.getElementById('lightRSS').style.display='none';
+						document.getElementById('lightEmail').style.display='none';
+						document.getElementById('lightGift').style.display='none';
+						document.getElementById('lightEmailSuccess').style.display='none';
+						document.getElementById('tjxSurvey').style.display='none';
+						document.getElementById('tjxTrends').style.display='none';
+						document.getElementById('tjxTrendsVideo').style.display='none';
+					});
+					
+					$('#gift-link').click(function(){
+						document.getElementById('fade').style.display='none';
+						document.getElementById('lightGift').style.display='none';
+					});
+					
+					$('#gift-close').click(function(){
+						document.getElementById('fade').style.display='none';
+						document.getElementById('lightGift').style.display='none';
+					});
+					
+					//get the height and width of the page  
+					var window_width = $(window).width();  
+					var window_height = $(window).height();  
+  
+					//vertical and horizontal centering of modal window(s)  
+					/*we will use each function so if we have more than 1 
+					modal window we center them all*/  
+					var email_height = $('#lightEmail').outerHeight();  
+					var gift_width = $('#lightGift').outerWidth(); 
+					var gift_height = $('#lightGift').outerHeight();  
+					var email_width = $('#lightEmail').outerWidth(); 
+					var survey_height = $('#tjxSurvey').outerHeight();  
+					var survey_width = $('#tjxSurvey').outerWidth(); 
+					var trends_height = $('#tjxTrends').outerHeight();  
+					var trends_width = $('#tjxTrends').outerWidth(); 
+					var video_height = $('#tjxTrendsVideo').outerHeight();  
+					var video_width = $('#tjxTrendsVideo').outerWidth(); 
+  
+					//calculate top and left offset needed for centering  
+					var top = (window_height-email_height)/2;  
+					var left = (window_width-email_width)/2; 
+					var gifttop = (window_height-gift_height)/2;  
+					var giftleft = (window_width-gift_width)/2; 
+					var surveytop = (window_height-survey_height)/2;  
+					var surveyleft = (window_width-survey_width)/2; 
+					var trendstop = (window_height-trends_height)/2;  
+					var trendsleft = (window_width-trends_width)/2; 
+					var videotop = (window_height-video_height)/2;  
+					var videoleft = (window_width-video_width)/2; 					
+  
+					//apply new top and left css values  
+					$('#lightEmail').css({'top' : top , 'left' : left});
+					$('#lightGift').css({'top' : gifttop , 'left' : giftleft});
+					$('#lightEmailSuccess').css({'top' : top , 'left' : left});
+					$('#tjxSurvey').css({'top' : surveytop , 'left' : surveyleft});
+					$('#tjxTrends').css({'top' : trendstop , 'left' : trendsleft});
+					$('#tjxTrendsVideo').css({'top' : videotop , 'left' : videoleft});
+					
+					var page_height = $(document).height();
+					
+					$('.blackOverlay').css('height', page_height);
+				});
+
+				function redirBrowse(dept,rel) {
+					var s1=s_gi("tjxmarshalls");
+					s1.tl(jQuery(this),'o',rel);
+					location.href= 'http://www1.marshallsonline.com/tjx/browse.asp?d=' + dept;
+				}
+				
+				function nextTrendTracking(slide,rel) {
+					//deferred load on lightbox slide images, load here if not already loaded
+					var defaultImg = $('#tjxTrends img:eq(' + slide + ')').attr('src');
+					var results = defaultImg.match(/gif/);
+					if(results) {
+						var imgName = "spring12_lightboxslide0" + (slide + 1) + ".jpg";
+						$('#tjxTrends img:eq(' + slide + ')').attr('src', 'http://www.marshallsonline.com/wp-content/themes/marshalls/images/spring2012/' + imgName)
+					}
+					//omniture
+					var s1=s_gi("tjxmarshalls");
+					s1.tl(jQuery(this),'o',rel);
+				}
+			  </script>
 			  <!-- blackOverlay ends -->
+			  
 
 			  <!-- Connect LightBox Section Ends -->
 			  <script language="JavaScript" type="text/javascript" src="http://www.marshallsonline.com/wp-content/tjx-commons/javascript/tjx-account.js.php?s_account=&amp;flag="></script>
