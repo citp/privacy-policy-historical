@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthmil.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125065517id_/http%3A//tenthmil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthmil.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527070940id_/http%3A//tenthmil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TENTHMIL - TENTHMIL
 
