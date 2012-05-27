@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naseeb.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128063042id_/http%3A//www.naseeb.com/cms.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naseeb.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527124208id_/http%3A//www.naseeb.com/cms.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Naseeb.com Privacy Policy - Naseeb.com
 
@@ -74,7 +74,7 @@ Naseeb Networks, Inc.
 1299 Del Mar Avenue  
 Suite 110  
 San Jose, CA 95128  
-[info@naseebnetworks.com](https://web.archive.org/web/20111128063042id_/http%3A//www.naseeb.com/info@naseebnetworks.com)
+[info@naseebnetworks.com](https://web.archive.org/web/20120527124208id_/http%3A//www.naseeb.com/info@naseebnetworks.com)
 
 **Refund Policy**
 
