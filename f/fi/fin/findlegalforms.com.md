@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127142259id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527121307id_/http%3A//findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # - FindLegalForms.com
 
@@ -25,7 +25,3 @@ Although we don't recommend doing so on our site, if you do not want the benefit
 FindLegalForms.com supports P3P, the Platform for Privacy Preferences, allowing us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While our site supports P3P, the resulting code has inherent limitations such that it may not completely and accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code for all purposes.
 
 **If you have any additional questions or concerns about our dedication to consumer privacy, please do not hesitate to[contact us](http://www.findlegalforms.com/xcart/customer/help.php?section=about).**
-
-## Protect your rights. Save time and money.
-
-FindLegalForms.com’s comprehensive library of legal documents, legal papers, and business forms has been prepared by attorneys to provide you with safe, informative, and easy-to-use legal forms.
