@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximus.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127040558id_/http%3A//www.maximus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximus.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527152527id_/http%3A//www.maximus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Effective August 17, 2009
 
 ## Our Commitment to Privacy
 
-MAXIMUS, Inc. (together with its affiliates, "MAXIMUS") respects your privacy and we have developed the following policy to demonstrate our commitment to you. This privacy policy applies to personally identifiable information we collect about you on the MAXIMUS website located at [www.maximus.com](http://www.maximus.com/) (the “Site”) and describes the types of information collected, how that information is used, and the choices users have about collection and use of this information. This privacy policy does not govern privacy practices associated with offline activities, Web sites other than the Site, or products and services not available or enabled via the Site, except as expressly set forth in this Privacy Policy.
+MAXIMUS, Inc. (together with its affiliates, "MAXIMUS") respects your privacy and we have developed the following policy to demonstrate our commitment to you. This privacy policy applies to personally identifiable information we collect about you on the MAXIMUS website located at [www.maximus.com](http://www.maximus.com/) (the “Site”) and describes the types of information collected, how that information is used, and the choices users have about collection and use of this information. This privacy policy does not govern privacy practices associated with offline activities, websites other than the Site, or products and services not available or enabled via the Site, except as expressly set forth in this Privacy Policy.
 
 ## Information We Collect
 
