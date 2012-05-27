@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fco.gov.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209162504id_/http%3A//www.fco.gov.uk/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fco.gov.uk privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527065412id_/http%3A//www.fco.gov.uk/en/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
 The FCO processes personal data for the purposes of promoting and protecting internationally the interests of the United Kingdom and its citizens and contributing to a stronger world community. Recipients of the personal data we may hold on you may include other UK Government Departments and public authorities.
 
-The FCO is fully compliant with the Data Protection Act 1998. A copy of the charter is available to [read and download](http://www.fco.gov.uk/resources/en/constant-nav/data-protection-charter "data-protection-charter").  
+The FCO is fully compliant with the Data Protection Act 1998. [Read and download a copy of the charter](http://www.fco.gov.uk/resources/en/constant-nav/data-protection-charter-12 "data-protection-charter-12").  
 
 
 ## 1\. Registration information
