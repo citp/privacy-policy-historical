@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209104409id_/http%3A//www.ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528073934id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.*
 
 # Ideas-Shared.com - Privacy Policy
 
