@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130149id_/http%3A//www.theknot.com/au_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528081407id_/http%3A//www.theknot.com/au_privacy.shtml) for the most accurate reproduction.*
 
-# The Knot Privacy Policy - TheKnot.com
+# Privacy Policy - Your Privacy RightsTheKnot.com -
 
 **Contact Us**
 
-If you have questions or concerns regarding this statement, you should first contact The Knot Member Services by emailing membersupport@theknot.com and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call 800-390-9784.
+If you have questions or concerns regarding this statement, you should first contact The Knot Member Services by emailing membersupport@theknot.com and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call 800-390-9784.
+
+As we describe below, we may share your personal information with third parties for their marketing purposes. You can elect for us not to do so by editing your privacy preferences in your member profile at http://global.theknot.com/join/EmailPreferences.aspx, or by emailing us at membersupport@theknot.com (please include your name, address, and email address).
 
  **How We Collect Your Information**
 
@@ -20,17 +22,17 @@ If you choose to use our "Send to a Friend" feature, which allows you to send an
 
  **What We Do With the Information We Collect**
 
-Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Knot. From time to time, The Knot does share names, postal addresses, and demographic information with other pre-screened organizations that have specific direct mail product and service offers we think may be of interest to you. You may choose at any time to remove your name and address from these mailing lists by editing your privacy preferences (see paragraph below) or by letting us know via email to membersupport@theknot.com (please include your name, address, and email).
+Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Knot. From time to time, The Knot does share names, postal addresses, email addresses, and other contact and/or demographic information with other pre-screened organizations that have specific product and service offers we think may be of interest to you. The Knot also shares member information with partner retailers to allow your registries to be updated with purchase status. You may choose at any time to remove your name and contact information from these lists by editing your privacy preferences (see paragraph below) or by letting us know via email to membersupport@theknot.com (please include your name, address, and email).
 
 We are a member of the Facebook Beacon Program. If you are a member of Facebook, and are logged in to Facebook during the same time as you are logged into TheKnot.com, we may share information regarding your activities on our site with Facebook pursuant to your authorization. If you agree to give Facebook access to this information, Facebook may publish it on your Facebook profile, send it to your “friends” in a News Feed, and use it to improve its site or services or for other purposes. We do not control Facebook’s privacy policy, and its privacy policy will govern its use of your information once it has been shared by us. We assume no liability for Facebook’s actions with respect to its use of your information or otherwise. Accordingly, we suggest that you if you plan to authorize the transfer of your personal information retrieved on TheKnot.com to Facebook, you first review Facebook’s privacy policy, available at http://www.facebook.com/home.php#/policy.php.
 
 We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/managing/opt_out.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 
  **Changing Your Personal Information and/or Newsletter Subscription**
 
-You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at http://www.theknot.com/profile. If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing membersupport@theknot.com and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call 800-390-9784.
+You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at http://www.theknot.com/profile. If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing membersupport@theknot.com and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call 800-390-9784.
 
  **Other Sites**
 
@@ -54,6 +56,6 @@ If at some point in the future, there is a change to our information usage pract
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Posted on: Oct 09, 2008
+Posted on: Feb 08, 2012
 
 See More: [Help Center](http://wedding.theknot.com/related.aspx?type=tag&value=Help+Center)
