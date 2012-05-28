@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onebox.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101140100id_/http%3A//www.new.onebox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onebox.com privacy policy that was archived on 2012-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529011146id_/http%3A//www.new.onebox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -24,7 +24,7 @@
         
         
         
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 
 
@@ -44,7 +44,7 @@
 	(SSL-Detected=, akamaiCountry=US)"
   nodename = "privacy" 
   template = "oneboxMainTemplate"
-  timestamp = "2011-11-01 07:01:00.268"
+  timestamp = "2012-05-25 08:05:33.151"
   -->
 </div>
 
@@ -66,58 +66,61 @@
 
 
 
-<!--div id="loginLoadingDiv" style="height: 18px; position: relative; top: 23px; left: 995px">
-<img border="0" src="/onebox-cms-public/dms/onebox/resources/images/small_loader.gif" alt="" id="loginLoading" style="display:none"/>
-</div-->
+<!--<div id="loginLoadingDiv" style="height: 18px; position: relative; top: 23px; left: 995px">
+	<img border="0" src="/onebox-cms-public/dms/onebox/resources/images/small_loader.gif" alt="" id="loginLoading" style="display:none"/>
+	</div>-->
 
-<div id="globalheader">
-    <ul id="globalnav">
-        <li id="gn-home"><a id="lnk_topnav_getStarted" href="/home">Home</a></li>
+	
+	<div id="globalheader">
+	    <ul id="globalnav">
+		<li id="gn-home"><a id="lnk_topnav_getStarted" href="/home">Home</a></li>
+		<li id="gn-signup"><a id="lnk_topnav_signup" href="javascript:goToSignup()">Sign Up</a></li>
+	
+    
 
-<li id="gn-signup"><a id="lnk_topnav_signup" href="javascript:goToSignup()">Sign Up</a></li>
+		<script language="JavaScript">
+		cookie_name = "12000PlanCookie";
+		var cookieValue;
+		if(document.cookie)
+		{
+		index = document.cookie.indexOf(cookie_name);
+		if (index != -1)
+		{
+		namestart = (document.cookie.indexOf("=", index) + 1);
+		nameend = document.cookie.indexOf(";", index);
+		if (nameend == -1) {nameend = document.cookie.length;}
+		cookieValue= document.cookie.substring(namestart, nameend);
+		}
+		}
+		if (cookieValue== "12000PlanCookie"){
+		document.write("<li id='gn-pricing'><a id='lnk_topnav_pricing' href='/pricing-receptionist_1'>Pricing</a></li>");
+		}
+		else{
+		document.write("<li id='gn-pricing'><a id='lnk_topnav_pricing' href='/pricing-receptionist_b'>Pricing</a></li>");
+		}
 
-	<script language="JavaScript">
-	cookie_name = "12000PlanCookie";
-	var cookieValue;
-	if(document.cookie)
-	{
-	index = document.cookie.indexOf(cookie_name);
-	if (index != -1)
-	{
-	namestart = (document.cookie.indexOf("=", index) + 1);
-	nameend = document.cookie.indexOf(";", index);
-	if (nameend == -1) {nameend = document.cookie.length;}
-	cookieValue= document.cookie.substring(namestart, nameend);
-	}
-	}
-	if (cookieValue== "12000PlanCookie"){
-        document.write("<li id='gn-pricing'><a id='lnk_topnav_pricing' href='/pricing-receptionist_b'>Pricing</a></li>");
-	}
-	else{
-        document.write("<li id='gn-pricing'><a id='lnk_topnav_pricing' href='/pricing-receptionist'>Pricing</a></li>");
-	}
+		</script><li id="gn-pricing"><a id="lnk_topnav_pricing" href="/pricing-receptionist_b">Pricing</a></li>
 
-	</script><li id="gn-pricing"><a id="lnk_topnav_pricing" href="/pricing-receptionist">Pricing</a></li>
-
-        <li id="gn-features"><a id="lnk_topnav_features" href="/features/toll-free">Features</a></li>
-        <li id="gn-hiw"><a id="lnk_topnav_hiw" href="/how-it-works">How it Works</a></li>
+        
+		<li id="gn-features"><a id="lnk_topnav_features" href="/features/toll-free">Features</a></li>
+		<li id="gn-hiw"><a id="lnk_topnav_hiw" href="/how-it-works">How it Works</a></li>
 		<li id="gn-faq"><a id="lnk_topnav_faq" href="/faq-receptionist">FAQ</a></li> <!-- change: added this line -->
 		<li id="gn-login"><a id="lnk_topnav_login" href="/login">Login</a></li> <!-- change: added this line -->
-    </ul>
-</div>
+	    </ul>
+	</div>
 
-<!-- <div id="loginContainer">
-    <form action="javascript:login($('email').value,$('user_password').value)" method="post">
-    <div id="loginBtn"><input type="image" id="login" name="mainLoginSubmit" src="/onebox-cms-public/dms/onebox/resources/images/en/buttons/btn_go.jpg"/></div>
-    <div id="loginInputsContainer">
-        <div id="loginInputs">
-            <span class="searchTextLeft">&nbsp;</span><input class="searchText" id="email" name="email" type="text" value="User" onfocus="doClearLoginFields(this.id);" /><span class="searchTextRight" style="margin-right:5px;">&nbsp;</span>
-            <span class="searchTextLeft">&nbsp;</span><input class="searchText" id="user_password" name="user_password" type="password" value="" /><span class="searchTextRight">&nbsp;</span>
-        </div>
-        <div class="loginInputsText"><input type="checkbox" name="remember" id="remember" style="vertical-align:middle;" />Save Login | <a href="javascript:showLoginPopup('1','password')">Help</a></div>
-    </div>
-   </form>
-</div> --> <!-- change: commented out -->
+	<!-- <div id="loginContainer">
+	    <form action="javascript:login($('email').value,$('user_password').value)" method="post">
+	    <div id="loginBtn"><input type="image" id="login" name="mainLoginSubmit" src="/onebox-cms-public/dms/onebox/resources/images/en/buttons/btn_go.jpg"/></div>
+	    <div id="loginInputsContainer">
+		<div id="loginInputs">
+		    <span class="searchTextLeft">&nbsp;</span><input class="searchText" id="email" name="email" type="text" value="User" onfocus="doClearLoginFields(this.id);" /><span class="searchTextRight" style="margin-right:5px;">&nbsp;</span>
+		    <span class="searchTextLeft">&nbsp;</span><input class="searchText" id="user_password" name="user_password" type="password" value="" /><span class="searchTextRight">&nbsp;</span>
+		</div>
+		<div class="loginInputsText"><input type="checkbox" name="remember" id="remember" style="vertical-align:middle;" />Save Login | <a href="javascript:showLoginPopup('1','password')">Help</a></div>
+	    </div>
+	   </form>
+	</div> --> <!-- change: commented out -->
                 
                         
 
@@ -241,7 +244,7 @@
 
 
 
-<div id="liveChatContainer" style="margin-top: 30px; float: right; width: 351px; padding-right: 40px; padding-top: 0px; height: 25px;"><img id="liveChatIcon" alt="Live Chat" style="vertical-align: top;" src="/onebox-cms-public/dms/onebox/resources/images/icons/liveChatIcon.gif"> <a href="javascript:MM_openBrWindow('http://server.iad.liveperson.net/hc/62672927/?SESSIONVAR!skill=Sales&amp;SESSIONVAR!origin=oneboxsales&amp;cmd=file&amp;file=visitorWantsToChat&amp;site=62672927&amp;byhref=1','childWin','scrollbars=no,toolbar=no,resize=yes,height=350,width=480')">Live Sales Chat </a>| Order by Phone <span id="salesNumberCont" style="">(888) 656-6326</span></div> <div id="logoContainer" style="margin-top: 0px; float: left; margin-bottom: 15px; width: 301px;"><a href="/home"><img id="logo" alt="Onebox. One number. One solution." src="/onebox-cms-public/dms/onebox/resources/images/obLogo.jpg"></a></div>
+<div id="liveChatContainer" style="margin-top: 30px; float: right; width: 351px; padding-right: 5px; padding-top: 0px; height: 25px;"> 	<img id="liveChatIcon" alt="Live Chat" style="vertical-align: top;" src="/onebox-cms-public/dms/onebox/resources/images/icons/liveChatIcon.gif"><a href="javascript:MM_openBrWindow('http://server.iad.liveperson.net/hc/62672927/?SESSIONVAR!skill=Sales&amp;SESSIONVAR!origin=oneboxsales&amp;cmd=file&amp;file=visitorWantsToChat&amp;site=62672927&amp;byhref=1','childWin','scrollbars=no,toolbar=no,resize=yes,height=350,width=480')">Live Sales Chat </a>| Order by Phone <span id="salesNumberCont" style="">(888) 656-6326</span></div> <div id="logoContainer" style="margin-top: 0px; float: left; margin-bottom: 15px; width: 301px;"><a href="/home"><img id="logo" alt="Onebox. One number. One solution." src="/onebox-cms-public/dms/onebox/resources/images/obLogo.jpg"></a> </div>
 
                 
                     
@@ -320,12 +323,16 @@ function showDefaultSalesNum(){
 
 
 
-<div id="copyrightContainer"><div class="copyright">© 1997-2011 j2 Global Communications, Inc.&nbsp;</div><div id="j2globalLogo" style="float:left"><a id="lnk_footer_j2global" target="_blank" href="http://www.j2global.com"><span>j2 Global</span></a></div></div>
+<div id="copyrightContainer"><div class="copyright">© 1997-<font id="year">2020</font> j2 Global, Inc.&nbsp;</div><div id="j2globalLogo" style="float:left"><a id="lnk_footer_j2global" target="_blank" href="http://www.j2global.com"><span>j2 Global</span></a></div></div>
+<script type="text/javascript">
+	var d = new Date();
+	document.getElementById("year").innerHTML = d.getFullYear();
+</script>
 <div id="footerLinks">
     <ul id="footNav">
         <li id="lnk_footer_legal"><a href="/legal">Legal</a></li>
         <li>|</li>
-        <li id="lnk_footer_custAgree"><a href="/terms-popup#10" target="_blank">Customer Agreement</a></li>
+        <li id="lnk_footer_custAgree"><a href="/terms-popup" target="_blank">Customer Agreement</a></li>
         <li>|</li>
         <li id="lnk_footer_privacy"><a href="/privacy">Privacy Policy</a></li>
         <li>|</li>
@@ -335,11 +342,11 @@ function showDefaultSalesNum(){
         <li>|</li>
         <li id="lnk_footer_sitemap"><a href="/sitemap">Site Map</a></li>
         <li>|</li>
+        <li id="lnk_footer_testimonial"><a href="http://www.new.onebox.com/testimonials">Testimonials</a></li>
+ <li>|</li>
         <li id="lnk_footer_faq"><a href="/faq-receptionist">FAQ</a></li>
         <li>|</li>
         <li id="lnk_footer_mobile"><a href="/features/mobile-apps">Mobile Apps</a></li>
-        <li>|</li>
-        <li id="lnk_footer_refer"><a href="http://onebox.extole.com/o/333617049">Refer Friends</a></li>
     </ul>
 </div>
 <div style="clear:both"><!--clear this--></div>
@@ -429,6 +436,41 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
   
   </script>  
 <!-- End google Analytics -->
+
+<!-- Start AdRoll -->
+<script type="text/javascript">
+adroll_adv_id = "2NYMCRUHIRFVNEMUYHJMUJ";
+adroll_pix_id = "EWOOQBQZ2VH7LH5EUMNPOE";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- End AdRoll -->
+
+<!-- Start AOL -->
+<img src="https://secure.leadback.advertising.com/adcedge/lb?site=695501&amp;betr=onebox_cs=[+]1[720],3[8760]" width="1" height="1" border="0">
+<!-- End AOL -->
+
+<!-- Start Quantcast Tag -->
+<script type="text/javascript"> 
+_qoptions={qacct:"p-14-WW2kYa_sOc",labels:"_fp.event.Onebox Homepage"};
+</script>
+<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+<noscript>
+<img src="//secure.quantserve.com/pixel/p-14-WW2kYa_sOc.gif?labels=_fp.event.Onebox+Homepage" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
         
         
     
