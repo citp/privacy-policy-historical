@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042943id_/http%3A//www.bangladeshdir.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528074015id_/http%3A//www.bangladeshdir.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,11 +12,13 @@ We use third-party advertising companies to serve ads when you visit our site. T
 
 We use Google adsense to serve ads when you visit Bangladeshdir.com. Google uses DART cookie to serve ads to you based on your visit to Bangladeshdir.com and other sites on the Internet. You may opt out the use of DART cookie by visiting the [Google Privacy Center](http://www.google.com/privacy/ads/). 
 
+If your website listed on our web directory, your E-Mail address, Phone/Fax numbers may be added to your website description. If you want to remove your E-mail Address, Phone/Fax numbers, Please, Contact Us.
+
 Bangladeshdir.com contains many links to other sites on the web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
 We reserve the right to change this policy policy at any time without prior notice.
 
-If you have any further questions about our privacy policies, please [contact us](http://www.bangladeshdir.com/mail_us).  
+If you have any further questions about our privacy policies, please [contact us](https://web.archive.org/mail_us).  
 
 
-BangladeshDir.com Privacy Policy Last updated: April 25, 2011
+BangladeshDir.com Privacy Policy Last updated: April 11, 2012
