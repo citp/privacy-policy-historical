@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yettoknow.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225025817id_/http%3A//www.yettoknow.com/commitment-to-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yettoknow.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528101218id_/http%3A//www.yettoknow.com/commitment-to-your-privacy) for the most accurate reproduction.*
 
 # Yet To Know | Privacy Protection in modern day romance and socializing is crucial to our community and our company, we treat nothing more importantly then our members privacy
 
 ###  Website Privacy Statement
 
-Last Updated: January 1, 2011
+Last Updated: January 1, 2012
 
 ###  Scope and Changes
 
@@ -123,7 +123,7 @@ If a user decides to upload their contacts, they accept that by doing so, an ema
 
 ###  Your Use of Other User's Information
 
-You may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate the accounts of those who misuse other users' information or who otherwise violate the [Terms of Use](http://www.yettoknow.com/terms-of-use/).
+You may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate the accounts of those who misuse other users' information or who otherwise violate the Terms of Use.
 
 ###  Third Party Advertising and Links to Third Party Websites
 
