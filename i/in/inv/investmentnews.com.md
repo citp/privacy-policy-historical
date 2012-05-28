@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117171515id_/http%3A//www.investmentnews.com/article/20010101/STATIC/101010738) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528225853id_/http%3A//www.investmentnews.com/article/20010101/STATIC/101010738) for the most accurate reproduction.*
 
 # Privacy Policy - InvestmentNews
-
-## Privacy Policy
 
 _InvestmentNews.com_ is the Web site of _InvestmentNews_ , a publication of the InvestmentNews Group, a business unit of Crain Communications Inc. Our postal address is 711 Third Avenue, New York, NY 10017-4036. We can be reached by e-mail at in_webmaster@investmentnews.com or by telephone at 212-210-0100. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
