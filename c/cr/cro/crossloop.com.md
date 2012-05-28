@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127210538id_/http%3A//www.crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528054810id_/http%3A//www.crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # CrossLoop - Privacy Policy
 
@@ -76,4 +76,4 @@ This Privacy Policy is subject to revision, and if we make any substantial chang
 
 This Policy was last updated in November 2007.
 
-© 2006-2011 CrossLoop Inc. All Rights Reserved. 
+© 2006-2012 CrossLoop Inc. All Rights Reserved. 
