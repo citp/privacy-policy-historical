@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ensidia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154521id_/http%3A//manaflask.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensidia.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528063531id_/http%3A//www.manaflask.com/en/privacy/policy) for the most accurate reproduction.*
 
-# Manaflask - Help and about
+# Top Raiding: Guides, Streams, Interviews and Blogs
 
 This policy is effective as of April 14, 2009.
 
@@ -28,4 +28,4 @@ We also recommend that any children between the age of 13 and 18 ask their paren
 
 ## Security
 
-Manaflask takes a lot of precautions to protect our users’ information. Your information is for example located and stored within Europe’s most secure data center, also known as "The Bunker", an ultra secure underground Military Grade facility, protected by both integrated processes for physical, digital and human security.
+Manaflask takes a lot of precautions to protect our users’ information. Your information is for example located and stored within Europe’s most secure data center, also known as "The Bunker", an ultra secure underground Military Grade facility, protected by both integrated processes for physical, digital and human security. 
