@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129023302id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529011907id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Watchdog News
 
 **Watchdog.org Privacy policy**
 
@@ -66,3 +66,6 @@ The **_Franklin Center for Government & Public Integrity_** reserves the right t
 This policy and the use of this Site are governed by North Dakota law. Any claim related to the Site or this policy shall be brought in a federal or state court in the state of North Dakota, within one year after the claim arises. You agree no such claim may be brought as a class action.  Users of [franklincenterhq.org](http://franklincenterhq.org/ "Franklin Center") and any projects or affiliated websites of the _Franklin Center for Government and Public Integrity_ consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy.  **Watchdog.org** & **franklincenterhq.org** are controlled, operated and administered entirely within the United States.  If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy, the terms of this written policy shall control.
+
+  
+
