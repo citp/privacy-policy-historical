@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visainfoservices.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214215348id_/https%3A//www.visainfoservices.com/Pages/Content.aspx%3FTag%3Dprivacy_statement_PAGE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visainfoservices.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528204944id_/https%3A//www.visainfoservices.com/Pages/Content.aspx%3FTag%3Dprivacy_statement_PAGE) for the most accurate reproduction.*
 
 # WorldBridge Visa Information
 
@@ -12,7 +12,7 @@ We respect your right to privacy. You are invited to search or browse the site w
 
 For the purposes of this privacy statement, “corporate affiliates” means any entity or joint venture that is wholly or partially owned by Computer Sciences Corporation. “Personal information” means any information which identifies you, such as your name, telephone number and email address. “Business Partners” means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services or information.
 
-If you choose to visit www.visainfoservices.com, your visit and any dispute over privacy is subject to this Privacy Statement, our [Website Use Terms](https://web.archive.org/web/20111214215348id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=TermsOfUse_PAGE), and [Conditions of Sale](https://web.archive.org/web/20111214215348id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=Condition_Sale_PAGE).
+If you choose to visit www.visainfoservices.com, your visit and any dispute over privacy is subject to this Privacy Statement, our [Website Use Terms](https://web.archive.org/web/20120528204944id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=TermsOfUse_PAGE), and [Conditions of Sale](https://web.archive.org/web/20120528204944id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=Condition_Sale_PAGE).
 
 ## Information we collect
 
@@ -71,7 +71,7 @@ This privacy statement does not apply to the services of WorldPay Ltd or to any 
 
 ## Cookies
 
-We may also collect information through the use of a technology called "cookies." A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. If you are uncomfortable accepting cookies from our website you can set your web browser to refuse cookies altogether or to notify you when a website attempts to send a cookie.
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. The WorldBridge website does not use cookies to store information on your computer.
 
 ## Changes to Our Privacy Statement Regarding Customer and Online User Information
 
