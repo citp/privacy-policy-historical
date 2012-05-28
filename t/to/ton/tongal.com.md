@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tongal.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128012333id_/http%3A//tongal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tongal.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528041940id_/http%3A//tongal.com/about/privacy) for the most accurate reproduction.*
 
 # Tongal | Privacy Policy
 
@@ -13,8 +13,8 @@ Our privacy policy and security measures are periodically reviewed and enhanced 
 California Civil Code Section 1798.83 permits registered users who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To request such information, please e-mail [info@tongal.com](mailto:info@tongal.com) or write to us at:
 
 Tongal, Inc.  
-137 Bay Street, #3  
-Santa Monica, CA 90405  
+4063A Glencoe Ave  
+Marina Del Ray, CA 90292  
 Attention: Mr. James DeJulio
 
 #### Information About All Tongal Visitors
