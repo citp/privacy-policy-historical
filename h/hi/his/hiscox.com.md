@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the hiscox.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116083528id_/http%3A//www.hiscox.com/site-tools/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiscox.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528113219id_/http%3A//www.hiscox.com/site-tools/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | Hiscox Corporate
+# Cookies and privacy | Hiscox Corporate
 
-The pages on the website ('the website') are published by Investis Limited ('us' or 'we') on behalf of Hiscox Plc, with the exception of the 'Current vacancies' pages as detailed below.
+The pages on the website ('the website') are published by Investis Limited ('us' or 'we') on behalf of Hiscox Ltd, with the exception of the 'Current vacancies' pages as detailed below.
 
 Investis Limited ('us' or 'we') will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are:
 
-  * Your name
-  * Your mobile telephone number
-  * Your email address
-  * Your occupation
+  * Your name 
+  * Your mobile telephone number 
+  * Your email address 
+  * Your occupation 
 
 
 
-The information collected will be used to send you the information you have requested and to provide information that may be useful to you. This information may be shared with Hiscox Plc and other Hiscox companies.
+The information collected will be used to send you the information you have requested and to provide information that may be useful to you. This information may be shared with Hiscox Ltd and other Hiscox companies.
 
 We may share non-personal aggregate statistics (group) data about our site visitors’ traffic patterns with partners or other parties. However, we do not sell or share any information about individual users.
 
@@ -41,7 +41,7 @@ Other Hiscox websites may also contain a privacy policy that is different from t
 
 ## 'Current vacancies' pages
 
-The current vacancies pages (within the Careers section of this site) are published by Hiscox Limited who only collects information submitted by you for recruitment purposes.
+The current vacancies pages (within the Careers section of this site) are published by Hiscox Ltd who only collects information submitted by you for recruitment purposes.
 
 ## Use of cookies
 
@@ -54,13 +54,15 @@ We use cookies to:-
 
 
 
+[More information on the cookies used on this site](https://web.archive.org/site-tools/privacy/cookies-information.aspx).
+
 ## Your acceptance of these terms
 
 By using this site, you consent to the collection and use of this information by Investis and Hiscox and to this privacy policy. If we change our privacy policy in any way, we will post these changes on this page. You are responsible for checking this privacy policy whenever you access the Site.
 
 ## Contact details
 
-Please e-mail any questions, concerns or comments you have about this privacy policy or the site to enquiry@hiscox.com or write to us at:
+Please e-mail any questions, concerns or comments you have about this privacy policy or the site to [enquiry@hiscox.com](mailto:enquiry@hiscox.com) or write to us at:
 
 1 Great St Helen's  
 London   
