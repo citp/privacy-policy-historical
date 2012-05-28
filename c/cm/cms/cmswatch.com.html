@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmswatch.com privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127021045id_/http%3A//www.realstorygroup.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmswatch.com privacy policy that was archived on 2012-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528200907id_/http%3A//www.realstorygroup.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -17,11 +17,12 @@
 <link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen" />
 <![endif]-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/scripts/jquery.placeholder.js"></script>
 <script type="text/javascript" language="javascript" src="/scripts/global.js"></script>
 <script type="text/javascript" language="javascript" src="/scripts/ajax.js"></script>
 <script type="text/javascript" src="/scripts/lightbox.js"></script>
-<script type="text/javascript" src="/scripts/jquery.placeholder.js"></script>
+<script type="text/javascript" language="javascript" src="/scripts/validator.js"></script>
 <script type="text/javascript" language="javascript" src="/scripts/login.js"></script>
         <link rel="alternate" type="application/rss+xml" title="realstorygroup RSS Feed" href="/Blog/Feed/realstorygroup-feed.xml">    
     <script type="text/javascript">
@@ -49,9 +50,10 @@
 
      <div id="header">
     <h1 id="logo"><a href="/">Real Story Group. Make Better Technology Decisions.</a></h1>
-    <p id="identity">Formerly <strong>CMS Watch</strong>. <a href="#lb-formerly-cmswatch" class="lightbox">Here's our story</a>
+    <p id="identity">Delivering <strong>fearless advice</strong> since 2001. <a href="#lb-formerly-cmswatch" class="lightbox">Here's our story</a>
     <br>What <strong>Real Independence</strong> means. <a href="#lb-real-independence" class="lightbox">Find Out</a></p>
     <ul id="nav-utility">
+        <li><a href="/Demo/">Schedule a Demo</a></li>
         <li><a href="/Sample">Free Sample</a></li>
         <li><a href="/Contact">Contact</a></li>
         <li><a href="javascript:showLoginBox();">Subscriber Login</a></li>
@@ -60,6 +62,10 @@
                     <span id="cart" class="emptycart">Your cart is empty.</span>
         </li>
     </ul>
+    <div class="clearfix"></div>
+    <div id="newsletter-signup">
+    <a href="#lb-newsletter-form" class="lightbox">Sign up for our Newsletter</a>
+    </div>
 </div>
 <div id="nav-main">
     <ul>
@@ -215,16 +221,14 @@ policy of a linked site or product or service before disclosing any personally i
             <div class="first">
          
             <h4>Evaluation Reports</h4>
-        <ul>
-        <li><a href="/Reports/Collaboration/">Collaboration &amp; Social Software Report</a></li>
-        <li><a href="/Reports/DAM/">Digital Asset Management Report</a></li>
-        <li><a href="/Reports/ECM/">Document &amp; Records Management Report</a></li>
-        <li><a href="/Reports/Portal/">Portals &amp; Content Integration Report</a></li>
-        <li><a href="/Reports/Search/">Search &amp; Information Access Report</a></li>
-        <li><a href="/Reports/SharePoint/">SharePoint Ecosystem  Report</a></li>
-        <li><a href="/Reports/CMS/">Web CMS Report</a></li>
-        <li><a href="/Purchase/">Purchase Now</a></li>
-
+<ul>
+        <li><a href="/Reports//">Web Content and Experience Management</a></li>
+        <li><a href="/Reports//">Digital and Media Asset Management</a></li>
+        <li><a href="/Reports//">Enterprise Collaboration &amp; Social Software</a></li>
+        <li><a href="/Reports//">Document Management (ECM)</a></li>
+        <li><a href="/Reports//">Portals and Content Integration</a></li>
+        <li><a href="/Reports//">Enterprise Search</a></li>
+        <li><a href="/Reports//">SharePoint Ecosystem</a></li>
         </ul>
            </div>
        </div>
@@ -269,7 +273,7 @@ policy of a linked site or product or service before disclosing any personally i
 </div>
 <!-- /FOOTER -->    <!-- * Copyright */ -->
                 <div id="footer">
-                    <p>Copyright Real Story Group 2001 - 2011. All rights reserved.</p>
+                    <p>Copyright Real Story Group 2001 - 2012. All rights reserved.</p>
                     <ul class="utility">
                         <li class="alpha"><a href="/Contact/">Contact Us</a></li>
                         <li><a href="/Copyright/">Copyright Policy</a></li>
@@ -353,7 +357,202 @@ that works only for <strong>you</strong>, the technology customer.</p>
             </div>
         </div>
     </div>
-</div><script type="text/javascript">
+</div><div class="lightbox-shade" id="lb-newsletter-form">
+    <div class="lightbox-content lightbox-thin">
+        <a href="#" class="close">close <span>x</span></a>
+        <div class="lightbox-content-wrapper">
+            <div id="newsletter-form-content" class="group newsletter-form">
+            <h3>Newsletter Signup</h3>
+<p>Thank you for signing up for The Real Story Group Newsletter. You will receive our monthly newsletter,
+plus updates with new information on the technology streams you have expressed interest in below.</p>
+
+    <form id="frm_newsletter" name="frm_newsletter" class="my-class">
+        <input type="hidden" name="LeadSource" id="LeadSource" value="Newsletter">
+        <input type="hidden" name="email_flag" id="subscribe" value="1">
+
+        <div class="newsletter-form-fields">
+
+            <label for="contact_email">Email Address *</label>
+            <br>
+            <input type="text" id="nl-contact_email" name="contact_email" class="required email" size="30">
+            <br>
+
+            <label for="confirm_email">Confirm Email Address *</label>
+            <br>
+            <input type="text" id="nl-confirm_email" name="confirm_email" class="required email" equalto="contact_email" size="30">
+            <br>
+
+            <label for="first_name">Name *</label>
+            <br>
+            <input type="text" id="first_name" name="first_name" placeholder="First" class="required" size="15">
+            <input type="text" id="last_name" name="last_name" placeholder="Last" class="required" size="15">
+            <br>
+
+            <label for="company_name">Company *</label>
+            <br>
+            <input type="text" id="company_name" name="company_name" class="required" size="30">
+            <br>
+
+            <label for="job_title">Job Title</label>
+            <br>
+            <input type="text" id="job_title" name="job_title" size="30">
+
+        </div>
+        <div class="newsletter-streams">
+            <p>Choose the streams that you’d like to receive updates for:</p>
+            <input type="checkbox" name="selected_reports[]" value="10">&nbsp; <label for="">Digital and Media Asset Management<br>
+<input type="checkbox" name="selected_reports[]" value="5">&nbsp;  <label for="">Document Management (ECM)</label><br>
+<input type="checkbox" name="selected_reports[]" value="13">&nbsp; <label for="">Enterprise Collaboration &amp; Social Software</label><br>
+<input type="checkbox" name="selected_reports[]" value="4">&nbsp;  <label for="">Enterprise Search</label><br>
+<input type="checkbox" name="selected_reports[]" value="1">&nbsp;  <label for="">Portals and Content Integration</label><br>
+<input type="checkbox" name="selected_reports[]" value="14">&nbsp; <label for="">SharePoint Ecosystem</label><br>
+<input type="checkbox" name="selected_reports[]" value="2">&nbsp;  <label for="">Web Content Management</label><br>
+        </label></div>
+        <div class="newsletter-submit-button">
+            <input type="button" value="Submit" onclick="SubmitNewsletter(this.form,theValidator);">
+        </div>
+        <div class="clearfix"></div>
+    </form>
+            </div>
+        </div>
+    </div>
+</div>
+<iframe id="sfFrame" name="sfFrame" height="1" width="1" scrolling="no" frameborder="0"></iframe>
+<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" id="frmSF" target="sfFrame">
+<input type="hidden" name="oid" value="00DC0000000PkF5">
+<input type="hidden" name="retURL" id="retURL" value="">
+<input type="hidden" name="lead_source" id="lead_source" value="">
+<input type="hidden" name="sfga" value="00DC0000000PkF5">
+<input id="first_name" name="first_name" size="20" type="hidden">
+<input id="last_name" name="last_name" type="hidden">
+<input id="company" name="company" type="hidden">
+<input id="email" name="email" type="hidden">
+<input id="phone" name="phone" type="hidden">
+<input id="title" name="title" type="hidden">
+<input id="country" name="country" type="hidden">
+<input id="industry" name="industry" type="hidden">
+<input id="00NC0000004y5fC" name="00NC0000004y5fC" type="hidden">
+<input id="00NC0000004y5fM" name="00NC0000004y5fM" type="hidden">
+<input id="00NC0000004y5fW" name="00NC0000004y5fW" type="hidden">
+<input id="00NC0000004y5fg" name="00NC0000004y5fg" type="hidden">
+<input id="00NC0000004y5fq" name="00NC0000004y5fq" type="hidden">
+<input id="00NC0000004y5fv" name="00NC0000004y5fv" type="hidden">
+<input id="00NC0000004y5g0" name="00NC0000004y5g0" type="hidden">
+<input id="00NC0000004y5gK" name="00NC0000004y5gK" type="hidden">
+<input id="00NC0000004xtRT" name="00NC0000004xtRT" type="hidden">
+<input id="00NC0000004y5ip" name="00NC0000004y5ip" type="hidden">
+<input id="00NC0000004y5iz" name="00NC0000004y5iz" type="hidden">
+<input id="00NC0000004y5j9" name="00NC0000004y5j9" type="hidden">
+<input id="00NC0000004y5jJ" name="00NC0000004y5jJ" type="hidden">
+<input id="00NC0000004y5jT" name="00NC0000004y5jT" type="hidden">
+<input id="00NC0000004y5ji" name="00NC0000004y5ji" type="hidden">
+<input id="00NC0000004y5je" name="00NC0000004y5je" type="hidden">
+<input id="00NC0000004y5iV" name="00NC0000004y5iV" type="hidden">
+<input id="00NC0000004y5iB" name="00NC0000004y5iB" type="hidden">
+
+</form>
+<script type="text/javascript">
+
+//---------------------------------------
+function SendToSF( theForm ) {
+//---------------------------------------
+        var mapping = Array();
+        var data = Array();
+
+        mapping[ 'first_name']          = 'first_name';
+        mapping[ 'last_name']           = 'last_name';
+        mapping[ 'company_name']        = 'company';
+        mapping[ 'contact_email']       = 'email';
+        mapping[ 'contact_phone']       = 'phone';
+        mapping[ 'job_title']           = 'title';
+        mapping[ 'country_code']        = 'country';
+        mapping[ 'LeadSource']          = 'lead_source';
+        mapping[ 'referrer_code']       = '00NC0000004y5gK';
+        mapping[ 'rsg_customer']        = '00NC0000004xtRT';
+        mapping[ 'comments']            = '00NC0000004y5iV';
+        mapping[ 'email_flag']          = '00NC0000004y5iB';
+        mapping[ 'industry']            = 'industry';
+
+
+// Stages
+        mapping[ 'Plan']        = '00NC0000004y5ip';
+        mapping[ 'FinalReq']    = '00NC0000004y5iz';
+        mapping[ 'RFP']         = '00NC0000004y5j9';
+        mapping[ 'InvVendors']  = '00NC0000004y5jJ';
+        mapping[ 'KeepingUp']   = '00NC0000004y5jT';
+        mapping[ 'Justify']     = '00NC0000004y5ji';
+        mapping[ 'Other']       = '00NC0000004y5je';
+
+// Streams
+        mapping[ '10'] = '00NC0000004y5fC';             // DAM
+        mapping[ '5']  = '00NC0000004y5fM';             // ECM
+        mapping[ '1']  = '00NC0000004y5fg';             // Portal
+        mapping[ '4']  = '00NC0000004y5fq';             // Search
+        mapping[ '13'] = '00NC0000004y5fW';             // Collab
+        mapping[ '14'] = '00NC0000004y5fv';             // SharePoint
+        mapping[ '2']  = '00NC0000004y5g0';             // CMS
+
+        var sfForm = document.getElementById( 'frmSF' );
+
+        for ( i = 0; i < theForm.elements.length; i++ ) {
+
+                var theElem = theForm.elements[i];
+
+                if ( theElem.type == 'checkbox' ) {
+                        var fname = mapping[ theElem.value ];
+                        if ( fname ) {
+                            if ( theElem.checked ) {
+                                sfForm[ fname ].value = 1;
+                            }
+                            else {
+                                sfForm[ fname ].value = '';
+                            }
+                        }
+                }
+                else if ( theElem.type == 'radio' ) {
+                       if ( theElem.checked ) {
+                                var fname = mapping[ theElem.name ];
+                                if ( fname ) {
+                                        sfForm[ fname ].value = theElem.value;
+                                }
+                        }
+                }
+                else if ( theElem.name == 'referrer_code' ) {
+                        var fname = mapping[ theElem.name ];
+                        var idx = theElem.selectedIndex;
+                        if ( idx > 0 ) {
+                                sfForm[ fname ].value = theElem.options[ idx ].text;
+                        }
+                }
+                else if ( theElem.name == 'selected_reports[]' ) {
+                        var fname = mapping[ theElem.value ];
+
+                        if ( fname ) {
+                            sfForm[ fname ].value = 1;
+                        }
+                }
+                else {
+
+                        var fname = mapping[ theElem.name ];
+                        if ( fname ) {
+                                sfForm[ fname ].value = theElem.value;
+                        }
+                }
+        }
+
+        sfForm.submit();
+}
+
+</script>
+<script type="text/javascript">
+
+theValidator.required("frm_newsletter", "contact_email", "Please enter a valid email address","EMAIL");
+theValidator.required("frm_newsletter", "confirm_email", "Please confirm your email address","EMAIL");
+theValidator.required("frm_newsletter", "first_name", "Please enter your First Name","REGULAR");
+theValidator.required("frm_newsletter", "last_name", "Please enter your Last Name","REGULAR");
+theValidator.required("frm_newsletter", "company_name", "Please enter your Company Name","REGULAR");
+
+</script><script type="text/javascript">
 // $('input').placeholder();
 $('input[placeholder],textarea[placeholder]').placeholder();
 </script><form id="frmBuyNow" name="frmBuyNow" method="POST" action="/cgi/store/load_prod.html">
