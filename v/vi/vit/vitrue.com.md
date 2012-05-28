@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vitrue.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225038id_/http%3A//www.vitrue.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitrue.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528094710id_/http%3A//www.vitrue.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy | Vitrue
-
-[ ](http://developers.facebook.com/preferreddevelopers/#Vitrue)
+# Privacy Policy - Vitrue
 
 [](http://www.vitrue.com/) [Sign Up For a Demo](http://vitrue.com/request-a-demo) [Log In](https://accounts.vitrue.com/)
 
@@ -59,3 +57,7 @@ You should consult the respective privacy policies of these third-party sites. V
 **Contact Information** Please contact Vitrue with any questions or comments about this Privacy Policy at [info@vitrue.com](mailto:info@vitrue.com).
 
 Effective date: October 8, 2007
+
+[ ](http://vitrue.com/educational-resources/)
+
+[ ](http://vitrue.com/educational-resources/)[ ](http://vitrue.com/educational-resources/)[ ](http://vitrue.com/educational-resources/)
