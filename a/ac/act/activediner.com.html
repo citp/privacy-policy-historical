@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the activediner.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203220252id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activediner.com privacy policy that was archived on 2012-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528104250id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,7 +13,7 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="X-UA-Compatible" content="IE=7">
 <link href="/includes/css/common2.css" media="screen" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/scripts/header.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/scripts/header.js"></script>
 <style type="text/css" media="screen">@import url("/includes/css/menuh.css");</style>
 <!--[if IE]>
 <style type="text/css" media="screen">
@@ -27,14 +27,6 @@ font-size:100%; /* to enable text resizing in IE */
 </style>
 <![endif]-->
 
-
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleU=escape(window.location.href);
-var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-document.write('<scr'+'ipt'+casaleHost+'86284&amp;u=');
-document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=86284&amp;u=https%3A//web.archive.org/web/20111203220252id_/http%253A//www.activediner.com/privacy.cfm&amp;f=1&amp;id=1867044532.6465585"></script>
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -82,8 +74,9 @@ _gaq.push(['_trackPageview']);
 <div id="container">
 	
     <div id="topMessage" align="right">
+    
     <!-- Place this tag where you want the +1 button to render -->
-    <g:plusone annotation="inline" width="225"></g:plusone>
+    <g:plusone annotation="inline" width="225" callback="plusone_vote"></g:plusone>
     <!-- Place this render call where appropriate -->
     <script type="text/javascript">
       (function() {
@@ -91,7 +84,11 @@ _gaq.push(['_trackPageview']);
         po.src = 'https://apis.google.com/js/plusone.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
       })();
+			function plusone_vote(obj) {
+				_gaq.push(['_trackEvent','Social Shares','Google +1 Vote',obj.href]);
+			}
     </script>
+    
     <a href="http://twitter.com/ActiveDiner" target="_blank" rel="nofollow" title="follow us on twitter" onclick="_gaq.push(['_trackPageview','http://twitter.com/ActiveDiner'])"><img src="/images/nav/follow-twitter.gif" border="0" width="188" height="30" alt="follow us on twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://itunes.apple.com/us/app/activediner/id340889839?mt=8" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackPageview','http://itunes.apple.com/us/app/activediner/id340889839?mt=8'])"><img src="/images/nav/app_store_badge_gray.gif" width="122" height="40" border="0" alt="Get ActiveDiner on the iPhone"></a></div>
   
 	<div id="topRoundedCorner"></div>
@@ -158,10 +155,10 @@ _gaq.push(['_trackPageview']);
       </li>
     </ul>
     <ul>
-      <li><h2><a href="/register" rel="nofollow">Sign Up for Specials</a></h2></li>
+      <li><h2><a href="/register/" rel="nofollow">Sign Up for Specials</a></h2></li>
     </ul>
     <ul>
-      <li><h2><a href="/add">Add Your Restaurant</a></h2></li>
+      <li><h2><a href="/add/">Add Your Restaurant</a></h2></li>
     </ul>
     <ul>
       <li><h2><a href="/blog/">ActiveDiner Blog</a></h2></li>
@@ -210,7 +207,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Registration Forms
 </h4>
 <p>
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers, and demographic information (like their zip code or age). 
 </p>
 
 <p>
@@ -304,7 +301,7 @@ Contacting the Web Site
 <p>
 
   </p><div id="footer">
-  	Copyright 1996-2010 &nbsp;ActiveDiner.com &nbsp; All rights reserved. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	Copyright 1996-2012 &nbsp;ActiveDiner.com &nbsp; All rights reserved. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <span class="footer">
     <a href="/about.cfm" rel="nofollow">About Us</a>&nbsp; |&nbsp;
     <a href="/contactform.cfm" rel="nofollow">Contact Us</a>&nbsp; |&nbsp;
@@ -313,19 +310,35 @@ Contacting the Web Site
     <a href="/tos.cfm" rel="nofollow">Terms of Service</a>
     </span>
   </div>
-  <blockquote>
-  <p class="grayText">We serve the following States, Cities and Counties:</p>
-  <p class="grayText">New York NY, San Francisco CA, Chicago IL, Los Angeles CA, San Diego CA, Las Vegas NV, Boston MA, New Orleans LA, Atlanta GA, Houston TX, Philadelphia PA, Portland OR, Seattle WA, Dallas TX, Denver CO, Miami FL, Austin TX, New York City, Orlando FL, Kansas City MO, Minneapolis MN, Charlotte NC, Baltimore MD, Pittsburgh PA, Columbus OH, Nashville TN, Phoenix AZ, Raleigh NC, Charleston SC, Milwaukee WI, Tampa FL, Cleveland OH, Myrtle Beach SC, Indianapolis IN, Fort Worth TX, Fort Lauderdale FL, Cincinnati OH, Jacksonville FL, Louisville KY, Grand Rapids MI, Memphis TN, Buffalo NY, Detroit MI, Greenville SC, Boca Raton FL, Hartford CT, Oakland CA, Greensboro NC, Honolulu HI, Newark NJ, Dayton OH, Riverside CA</p>
-  </blockquote><br>
+  
   
 
 <div id="adBelowBanner"><script type="text/javascript">GA_googleFillSlot("activediner_citypage_overlay_tag_below");</script></div>
 
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-bfD-RpsDsJUxQ";quantserve();</script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-bfD-RpsDsJUxQ"
+});
+</script>
+
 <noscript>
-<a href="http://www.quantcast.com/p-bfD-RpsDsJUxQ" target="_blank" rel="nofollow"><img src="http://pixel.quantserve.com/pixel/p-bfD-RpsDsJUxQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-bfD-RpsDsJUxQ.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
 </noscript>
+<!-- End Quantcast tag -->
 
 
 
