@@ -1,0 +1,689 @@
+<!--The following is the downloaded HTML source of the couponcodesindia.com privacy policy that was archived on 2012-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528054850id_/http%3A//www.couponcodesindia.com/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+<title>Privacy Policy</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="CouponCodesIndia.com is a portal for all shoppers in India who wants to save money using Coupon Codes, Promotional Codes, Deals &amp; Offers of various shopping malls.">
+<meta name="keywords" content="Coupons,  Coupon Codes, Offers, Promotional Codes">
+<link href="http://www.couponcodesindia.com/theme/New-Hosting2/images/screen-03.css" rel="stylesheet" type="text/css">
+	
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="JavaScript" src="http://www.couponcodesindia.com/js/yadjs.js"></script>
+<script type="text/javascript" src="http://www.couponcodesindia.com/js/ZeroClipboard.js"></script>
+
+<script type="text/javascript">
+	function validateForm ( form_obj )
+	{
+		var returnValue = true ;
+		$("#"+form_obj+" input,select,textarea").each ( function ( )
+							{
+								if ( $(this).attr("sch_req") == "1" && returnValue )
+								{
+									if ( $(this).val() == "" )
+									{
+										alert ( $(this).attr("sch_msg")+" cannot be empty" ) ;
+										$(this).focus();
+										returnValue = false ;
+									}
+								}
+							}
+					
+		 ) ;
+		 return returnValue ;
+
+	}
+	
+	function copy_coupon_and_go_to_site ( coupon_id )
+	{
+		window.open ( "http://www.couponcodesindia.com/load/"+coupon_id+"/" , "_blank" ) ;
+	}
+	
+	function animate_area ( div_id , direction )
+	{
+		if ( direction == 0 )
+			$("#"+div_id).animate ( { scrollLeft : "-=504" } , "slow" ) ;
+		else
+			$("#"+div_id).animate ( { scrollLeft : "+=504" } , "slow" ) ;
+	}
+	
+	function show_tool_tip ( copon_id )
+	{
+		$("#coupon_Tool_tip_action_"+copon_id).show() ;
+	}
+	
+	function hide_tool_tip ( copon_id )
+	{
+		$("#coupon_Tool_tip_action_"+copon_id).hide() ;
+	}
+	
+	
+	function set_copy_command ( text_to_copy , control_id , coupon_id )
+	{
+		if ( navigator.userAgent.indexOf("MSIE") > -1 ) 
+		{
+			$("#"+control_id).click ( function ( )
+										{
+											window.clipboardData.setData("Text",text_to_copy);
+											copy_coupon_and_go_to_site ( coupon_id ) ;
+										}
+									 ) ;
+		}
+		else
+		{
+			var clip = new ZeroClipboard.Client();
+		   
+			ZeroClipboard.setMoviePath ( "http://www.couponcodesindia.com/js/ZeroClipboard.swf" ) ;
+		   
+			clip.setText( text_to_copy ); 
+			clip.setHandCursor( true );
+			clip.addEventListener( 'mouseOver', function(client) {
+                                show_tool_tip ( coupon_id ) ;
+                        } );
+			clip.addEventListener( 'mouseOut', function(client) { 
+                                hide_tool_tip ( coupon_id ) ;
+                        } );
+			clip.addEventListener( 'complete', function(client, text) {
+				$("#"+control_id).css("background-color" , "#33CC66");
+				$("#coupon_Tool_tip_action_"+coupon_id).css("width","60px").text("Copied ! ") ;
+				copy_coupon_and_go_to_site ( coupon_id ) ;
+			} );
+													
+			clip.glue( control_id );
+		}
+	}
+	
+	
+</script>
+
+</head>
+<body id="home">
+	<div id="header">
+	<div class="inner">
+		<ul id="nav">
+						<li><a href="http://www.couponcodesindia.com/">Home</a></li>
+							<li class="active"><a href="http://www.couponcodesindia.com/Privacy-Policy/">Privacy Policy</a></li>
+							<li><a href="http://www.couponcodesindia.com/contact-us/">Contact Us</a></li>
+						
+		</ul>
+	</div>
+</div>
+
+<div id="div_loading"><img src="http://www.couponcodesindia.com/theme/New-Hosting2/images/ajax-loader.gif" border="0"></div>
+
+
+<script language="javascript">
+	
+	$(document).ready ( 
+						function ( )
+						{
+							$("#div_Background").click ( close_window ) ;
+							
+						}
+						
+	);
+	
+	var wd = $(window).width ( ) ;
+	var ht = $(window).height ( ) ;
+	
+	function close_window ( )
+	{
+		
+		$("#div_Window").animate ( { top : "25%" , opacity : 0.10 } , "normal" , function ( )
+																					{
+																						$(this).hide().css({top:"15%"});
+																						$("#div_Background").hide ( ) ;
+																					}
+			 ) ;
+		
+	}
+	
+	function show_Screen_bg ( divArea )
+	{
+	
+		$("#div_Background").css ( {"left" : "0px" , "top" : "0px" , "opacity" : 0.60} ).width( wd ).height ( ht ).show();
+
+	}
+	
+	function show_window_comment( coupon_id )
+	{
+		show_Screen_bg ( ) ;
+		
+		$("#div_loading").show();
+		$("#div_Window").load("http://www.couponcodesindia.com/comments_post/"+coupon_id+"/", function()
+																						{
+																							var n_wd = $("#div_Window").width ( ) ;
+																							var n_ht = $("#div_Window").height ( ) ;
+																							//$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
+																							$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
+																							$("#div_loading").hide();
+																						}
+		 ) ;
+	}
+	
+	
+	function show_comments ( coupon_id ) 
+	{
+		$("#li_close_comments_"+coupon_id).children().show();
+		$("#li_write_comments_"+coupon_id).children().show();
+		$("#div_comments_"+coupon_id).slideDown('normal');
+	}
+	
+	function close_comments ( coupon_id )
+	{
+		$("#div_comments_"+coupon_id).slideUp('normal');
+		$("#li_close_comments_"+coupon_id).children().hide();
+		$("#li_write_comments_"+coupon_id).children().hide();
+	}
+	
+
+</script>
+
+
+
+<div id="div_Background" style="display:none; background-color:#000000; position:fixed; z-index:101">
+</div>
+
+<div id="div_Window" style="display:none; top:15%; z-index:105; position:fixed; padding: 8px; width: auto;">
+	
+</div>	<!-- end: #header -->
+	<div id="shell">
+		<a id="logo" href="http://www.couponcodesindia.com/" title="Home">
+		<img src="http://www.couponcodesindia.com/media/logo.jpg" alt="coupon">
+	</a>
+	<div id="search">
+		<form id="searchForm" method="post" action="http://www.couponcodesindia.com/search_query/">
+			<input name="query" id="query" value="Search coupon codes" type="text" onfocus="this.value='';">
+			<label for="query">e.g.
+			Yatra.com
+			&nbsp;
+			Myntra.com
+			&nbsp;
+			Yebhi.com
+			&nbsp;
+			BigRock.in
+			</label>
+			<button type="submit"><span>Search</span></button>
+		</form>
+	</div>
+		<!-- end: #search -->
+		<div id="content">
+			<div id="major">
+			
+			
+				<div class="panel" id="storeCollection">
+					
+					<h2><span>Privacy Policy</span></h2>
+					<div class="inner">
+						<div>
+							<p>Privacy Policy for www.couponcodesindia.com<br> <br> The privacy of our visitors to www.couponcodesindia.com is important to us.</p>
+<p>At www.couponcodesindia.com, we recognize that privacy of your personal  information is important. Here is information on what types of personal  information we receive and collect when you use visit www.couponcodesindia.com,  and how we safeguard your information. We never sell your personal information  to third parties.<br> <br> Log Files<br> As with most other websites, we collect and use the data contained in log files.  The information in the log files include your IP (internet protocal) address,  your ISP (internet service provider), the browser you used to visit our site  (such as Internet Explorer or Firefox), the time you visited our site and which  pages you visited throughout our site.<br> <br> Cookies and Web Beacons<br> We do use cookies to store information, such as your personal preferences when  you visit our site. This could include only showing you a popup once in your  visit, or the ability to login to some of our features, such as forums.<br> <br> We also use third party advertisements on www.couponcodesindia.com to support  our site. Google, as a third party vendor, uses cookies to serve ads. Google’s  use of the DART cookie enables it to serve ads to users based on their visit to  sites on the Internet.<br> <br> Some of these advertisers may use technology such as cookies and web beacons  when they advertise on our site, which will also send these advertisers  information including your IP address, your ISP, the browser you used to visit  our site, and in some cases, whether you have Flash installed. This is generally  used for geotargeting purposes or showing certain ads based on specific sites  visited.<br> <br> You can chose to disable or selectively turn off our cookies or third-party  cookies in your browser settings, or by managing preferences in programs such as  Norton Internet Security. However, this can affect how you are able to interact  with our site as well as other websites. This could include the inability to  login to services or programs, such as logging into forums or accounts.</p>						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<!-- end: #major -->
+			<div id="minor">
+				<div class="panel">
+					<h3><span>Browse Coupons</span></h3>
+					<div class="inner">
+						
+						<div class="break">
+						</div>
+						<div class="tagCloud">
+							
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Snapfish/">Snapfish</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Shopping/">Shopping</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Travel/">Travel</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Hotels/">Hotels</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Books/">Books</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Magazines/">Magazines</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Insurance/">Insurance</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Arts-and-Crafts/">Arts and Crafts</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Automotive/">Automotive</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Baby/">Baby</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Clothes/">Clothes</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Computers/">Computers</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Software/">Software</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Education/">Education</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Electronics/">Electronics</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Mobiles/">Mobiles</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Games/">Games</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Food-Wine/">Food &amp; Wine</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Gifts/">Gifts</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Flowers/">Flowers</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Health/">Health</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Beauity/">Beauity</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Fitness/">Fitness</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Appliances/">Appliances</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Furniture/">Furniture</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Broadband/">Broadband</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Web-Hosting/">Web Hosting</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Jewelry/">Jewelry</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Movies/">Movies</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Music/">Music</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Pets/">Pets</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Religious/">Religious</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Seasonal/">Seasonal</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Finance/">Finance</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Careers/">Careers</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Matrimony/">Matrimony</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Sports/">Sports</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Tools/">Tools</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Toys/">Toys</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Calling-Cards/">Calling Cards</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Digital-Photo-Prints/">Digital Photo Prints</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Others/">Others</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Domain-Registration/">Domain Registration</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Family/">Family</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Business/">Business</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Home-Garden/">Home &amp; Garden</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Commerce/">Commerce</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Classifieds/">Classifieds</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Marketing/">Marketing</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Accessories/">Accessories</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Real-Estate/">Real Estate</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Webmaster-Tools/">Webmaster Tools</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Online/">Online</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Wedding/">Wedding</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Affiliates/">Affiliates</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/internet/">internet</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/hair-wigs/">hair wigs</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Dvds/">Dvds</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/candles/">candles</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/scrapbook/">scrapbook</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Allergies/">Allergies</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Stairlifts/">Stairlifts</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Advertisements/">Advertisements </a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Medical/">Medical</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Greetings-Cards/">Greetings Cards</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/lighting/">lighting</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Vehicles/">Vehicles</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Entertainment/">Entertainment</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/christmas/">christmas</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Water-ponds/">Water ponds  </a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/bikes/">bikes</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/coffee/">coffee</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Security-alarams/">Security alarams</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Autoparts/">Autoparts</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Constructions/">Constructions</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Trees/">Trees</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Aeroplanes/">Aeroplanes</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Graphics/">Graphics</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Lenses/">Lenses</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Apparel/">Apparel</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Colors/">Colors</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Detectors/">Detectors</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Aluminiumfences/">Aluminiumfences</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/glasses/">glasses</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Rugs/">Rugs</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/landscape/">landscape</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/spa-enclosures/">spa enclosures</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/ladders/">ladders</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Flags/">Flags</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/kitchen-and-bathroom-accessories/">kitchen and bathroom accessories</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Cookwear/">Cookwear</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Dating/">Dating</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Tax/">Tax</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Hardware/">Hardware</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Air-bags/">Air bags</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Body-arts-tattoos/">Body arts &amp; tattoos</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Air-compressors/">Air compressors</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Air-Gas/">Air Gas</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Guns-rifles/">Guns &amp; rifles</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Purifiers/">Purifiers</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Security-Technology/">Security Technology</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Trading/">Trading</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Press--Media/">Press &amp; Media</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Banking/">Banking</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Protective-gloves/">Protective gloves</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Webshows/">Webshows</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Water/">Water</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Bridal-collection/">Bridal collection</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Aquariums/">Aquariums</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Home-designs-styles/">Home designs &amp; styles</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Party-decorations/">Party decorations </a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Massagers/">Massagers</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Bath-fruit-baskets/">Bath &amp; fruit baskets</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/All-bibles/">All bibles</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Fabrics/">Fabrics</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Business-Cards/">Business Cards</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/vitamins-minarals/">vitamins &amp; minarals</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Children-Furniture/">Children Furniture</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Contact-Lenses/">Contact Lenses</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Tobacco/">Tobacco</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Mattress-covers/">Mattress covers</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Fireboxes-stoves/">Fireboxes &amp; stoves</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Iron-components/">Iron components </a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Greenhouses/">Greenhouses</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Cameras/">Cameras</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/State-Federal-Posters/">State &amp; Federal Posters</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Laundry/">Laundry</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Photos--Videos/">Photos &amp; Videos</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Batteries/">Batteries</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Medals/">Medals</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Projectors/">Projectors</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Equipments/">Equipments</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Warranty/">Warranty</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Stamps/">Stamps</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Events/">Events</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Satellites/">Satellites</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Sales/">Sales</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Cleaners/">Cleaners</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Bedding/">Bedding</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Army-tags/">Army &amp; tags</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Mobile-Recharge/">Mobile Recharge</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/NewArrivelsFashionSarees/">NewArrivels&amp;Fashion&amp;Sarees</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Rummy-Games/">Rummy Games</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Themes/">Themes</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Shoes/">Shoes</a>
+							
+													<a style="font-size: 11px;" href="http://www.couponcodesindia.com/coupons/Watch/">Watch</a>
+							
+													
+							
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="panel">
+					<div class="inner">
+						
+						<div class="break">
+						</div>
+						<div class="tagCloud">
+							
+							
+													
+							
+						</div>
+						
+					</div>
+				</div>
+				
+				
+				<div class="panel">
+	<h3><span>Bookmark or Join US </span></h3>
+	<div class="inner">
+		<ul id="powerToolsMajor">
+		
+					
+			<li>
+				<a href="http://twitter.com/Couponcodesind" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Twitter.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://www.facebook.com/#!/profile.php?id=100001729648234" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_FaceBook.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://www.delicious.com/coupon_codes" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Delicious.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://digg.com/CouponCodesindia/" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Digg.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://in.linkedin.com/pub/coupon-codes/28/9b7/110" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Linkedin.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://www.reddit.com/user/Couponcodesindia/" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Reddit.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://www.stumbleupon.com/stumbler/Couponcodesindia/" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Stumbleupon.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://couponcodes-1.newsvine.com/" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Newsvine.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="https://www.google.com/bookmarks/l#!threadID=G1uTBEmIGE90%2FBDRHQDAoQ1dzej9El" target="_blank"><img src="http://www.couponcodesindia.com/media/SocialNet_Googlebookmarks.png" border="0"></a>
+			</li>
+					
+			
+		</ul>
+		
+		<div id="powerToolsTooltip">
+		</div>
+	</div>
+</div>				
+			</div>
+			<!-- end: #minor -->
+			<div class="break">
+			</div>
+		</div>
+		<!-- end: #content -->
+	</div>
+	
+	
+	<div align="center" style="clear:both">
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12314974-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><br><br>	</div>
+	
+	
+	<div id="footer">
+
+	<!--<div id="leaderboard"> <a href="#" title="Subscribe to the newsletter"><img src="main_files/newsletter.png" alt="Hot Coupon Newsletter"></a> </div>-->
+
+	<div id="redTape">
+
+
+		<ul class="inner">
+
+			<li id="copyright">Copyright © 2011. Coupons &amp; Promo Codes from Indian Stores CouponCodesIndia.com. All rights reserved.</li>
+
+			<li id="sundries">
+
+				<ul>
+
+				
+					<li><a href="http://www.couponcodesindia.com/Privacy-Policy/">Privacy Policy</a></li>
+
+				
+				</ul>
+
+			</li>
+
+		</ul>
+
+	</div>
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12314974-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+<<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21203323-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	<!-- end: #footer -->
+
+
+
+
+
+
+</body></html>
