@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likeforex.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011154226id_/http%3A//www.likeforex.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeforex.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528224838id_/http%3A//www.likeforex.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :LikeForex.com
 
