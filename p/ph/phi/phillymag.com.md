@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162340id_/http%3A//www.phillymag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528062331id_/http%3A//www.phillymag.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Philadelphia Magazine - phillymag.com
+# Philadelphia Magazine
 
 Welcome to the _Philadelphia Magazine_ Web-Site (the "Site")! _Philadelphia Magazine_ is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for Philadelphia Magazine and Metro Corporation (collectively "Philadelphia" of "We") and explains how we collect information and how we use the information that we collect. 
 
