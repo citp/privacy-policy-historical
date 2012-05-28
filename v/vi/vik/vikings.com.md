@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102044322id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528092715id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Minnesota Vikings | Privacy Policy
 
