@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccl.org privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126093602id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccl.org privacy policy that was archived on 2012-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528213941id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Commitment - Center for Creative Leadership</title>
@@ -29,6 +29,9 @@
 $(document).ready(function() {
 
 	$("a.fancy").fancybox({'titlePosition'	: 'over' });
+
+	$("area.fancyMap").fancybox({ 'type': 'iframe', 'width': 520, 'height': 294 });
+
 			
 	$("a[rel=fancy_group]").fancybox({
 		'transitionIn'	: 'none',
@@ -145,13 +148,23 @@ function fancyClose() {jQuery("a#fancybox-close").trigger("click");}
 <h3>Select a Region:</h3>
 <ul>
 <li><a href="/leadership/capabilities/northAmericaOverview.aspx"><strong>CCL - Americas</strong></a>: <a href="/leadership/capabilities/northAmericaOverview.aspx">English</a></li>
-<li><a href="/leadership/capabilities/europe/index.aspx"><strong>CCL - Europe, Middle East and Africa</strong></a>: <a href="/leadership/capabilities/europe/index.aspx">English</a></li>
-<li><a href="/leadership/capabilities/asia/index.aspx"><strong>CCL - Asia Pacific</strong></a>: <a href="/leadership/capabilities/asia/index.aspx">English</a></li>
-<li><a href="/leadership/capabilities/russia/index.aspx"><strong>CCL - Russia &amp; CIS</strong></a>: <a href="/leadership/capabilities/russia/index.aspx">English</a> | <a href="/leadership/russian/index.aspx">Russian</a></li>
-<li><a href="/leadership/capabilities/asia/index.aspx"><strong>CCL - India</strong></a>: <a href="/leadership/capabilities/asia/index.aspx">English</a></li>
+<li><a href="/leadership/capabilities/europe/index.aspx"><strong>CCL - Europe, Middle East and Africa</strong></a>: <a href="/leadership/capabilities/europe/index.aspx">English</a>
+	<ul style="padding-left:15px;">
+	<li><a href="/leadership/capabilities/africa/index.aspx"><strong>CCL - Africa</strong></a>: <a href="/leadership/capabilities/africa/index.aspx">English</a></li>
+	<li><a href="/leadership/capabilities/russia/index.aspx"><strong>CCL - Russia &amp; CIS</strong></a>: <a href="/leadership/capabilities/russia/index.aspx">English</a> | <a href="/leadership/russian/index.aspx">Russian</a></li>
+	</ul>
+</li>
+<li><a href="/leadership/capabilities/asia/index.aspx"><strong>CCL - Asia Pacific</strong></a>: <a href="/leadership/capabilities/asia/index.aspx">English</a>
+	<ul style="padding-left:15px;">
+	<li><a href="/leadership/capabilities/asia/index.aspx"><strong>CCL - India</strong></a>: <a href="/leadership/capabilities/asia/index.aspx">English</a></li>
+	<li><a href="/leadership/capabilities/asia/index.aspx"><strong>CCL - China</strong></a>: <a href="/leadership/capabilities/asia/index.aspx">English</a></li>
+	</ul>
+</li>
 </ul>
 </div>
 </div>
+
+
 </div>
 <!--//end of header//-->
 
@@ -264,6 +277,7 @@ function fancyClose() {jQuery("a#fancybox-close").trigger("click");}
 		<li class="bottom"><a href="/leadership/coaching/aboutCoaches.aspx">About our Coaches</a></li>
 		</ul>
 	</li>
+	<li><a href="/leadership/community/speakersBureau.aspx">Speakers Bureau</a></li>
 	<li class="bottom"><a href="/leadership/about/caseStudies.aspx">Client Successes</a></li>	
 	</ul>
 </li>
@@ -329,7 +343,6 @@ function fancyClose() {jQuery("a#fancybox-close").trigger("click");}
 	<li><a href="/leadership/research/faculty.aspx">CCL Faculty</a></li>
 	<li><a href="/leadership/research/projects.aspx">Global Research &amp; Innovation</a></li>
 	<li><a href="/leadership/research/awards/index.aspx">CCL Research Awards</a></li>
-	<li><a href="/leadership/community/speakersBureau.aspx">Speakers Bureau</a></li>
 	<li class="bottom"><a href="/leadership/research/sharing/index.aspx">Latest Articles &amp; Knowledge</a></li>
 	</ul>
 </li>
@@ -357,13 +370,14 @@ function fancyClose() {jQuery("a#fancybox-close").trigger("click");}
 		<li class="bottom"><a href="/leadership/update/index.aspx">Archived Newsletters</a></li>
 		</ul>
 	</li>
-	<li><a href="/leadership/products/myCCL.aspx" class="category">myCCL - Leadership Social Network</a>
+	<li><a href="/leadership/products/myCCL.aspx" class="category">myCCL - Leadership Resource</a>
 		<ul>
 		<li class="top"><a href="/leadership/products/myCCL.aspx">What is myCCL?</a></li>
 		<li><a href="/leadership/products/benefits.aspx">Membership Benefits</a></li>
 		<li class="bottom"><a href="/leadership/secure/myccl/profile/editProfile.aspx">Join Now</a></li>
 		</ul>
 	</li>
+	<li><a href="/leadership/community/socialMedia.aspx">Social Media</a></li>
 	<li><a href="/leadership/community/membershipGroups.aspx" class="category">Networks &amp; Partnerships</a>
 		<ul>
 		<li class="top"><a href="/leadership/community/membershipGroups.aspx">Overview</a></li>
@@ -469,7 +483,8 @@ function fancyClose() {jQuery("a#fancybox-close").trigger("click");}
 <script type="text/javascript">  
   
   var addthis_config = {
-    "data_track_clickback": true
+      "data_track_clickback": true,
+      data_ga_property: 'UA-2456844-1' 
   } 
    
 </script>
@@ -486,7 +501,7 @@ function openWin(theform) {
 	document.forms.emailPage.submit();
 }
 function openCallBackWin(theform) {
-	var n = window.open("/leadership/forms/utilities/callBackForm.aspx?", "emailWindow","width=400,height=540,scrollbars=1,,");
+	var n = window.open("/leadership/forms/utilities/callMeBackForm.aspx?", "emailWindow","width=400,height=540,scrollbars=1,,");
 	theform.target = callBackWindow;
 	document.forms.callBackPage.submit();
 }
@@ -497,16 +512,10 @@ function openCallBackWin(theform) {
 </style>
 <div id="utilityControl">
   <div id="mediaPack">
-    <form id="dummy" name="dummy" action="" method="post"></form>
-      
-       <form id="callBackPage" name="callBackPage" onsubmit="window.open ('/leadership/forms/utilities/callMeBackForm.aspx','callBackWindow','width=500,height=540,top=20,left=20,scrollbars=1,status=no');" target="callBackWindow" action="/leadership/forms/utilities/callMeBackForm.aspx" method="post">
-        <input type="image" src="/leadership/images/callbackBtn.gif" style=" height:16px;" border="0" alt="Call me back" title="Call me back" name="emailPageBtn" id="Image1" onsubmit="openCallBackWin(this);">
-      </form>         
-        
-    <a href="/leadership/news/rss.aspx?pageId=1386"><img src="/leadership/images/rss.gif" height="15px" border="0" alt="RSS Feed - XML" title="RSS Feed - XML"></a>
-    <a href="/leadership/podcast/index.aspx"><img src="/leadership/images/podcast3.gif" height="15px" border="0" alt="Podcast Feed - XML" title="Podcast Feed - XML"></a>
-    <img src="/leadership/images/forwardFriendBtn.gif" width="20" height="16" border="0" alt="Forward to a Friend" id="ForwardtoFriend" title="Forward to a Friend" onclick="window.open ('/leadership/forms/utilities/emailPageForm.aspx?url=http://www.ccl.org/leadership/utilities/privacy.aspx','emailWindow','width=500,height=540,top=50,left=150,scrollbars=1,status=no');">  
-
+    <a href="/leadership/forms/utilities/callMeBackForm.aspx" class="fancybox-iframe-medium-tall"><img src="/leadership/images/callbackBtn.gif" height="16" border="0" alt="Call me back" title="Call me back" name="emailPageBtn" id="Image1"></a>
+    <a href="/leadership/news/rss.aspx?pageId=1386"><img src="/leadership/images/rss.gif" height="15" border="0" alt="RSS Feed - XML" title="RSS Feed - XML"></a>
+    <a href="/leadership/podcast/index.aspx"><img src="/leadership/images/podcast3.gif" height="15" border="0" alt="Podcast Feed - XML" title="Podcast Feed - XML"></a>
+    <a href="/leadership/forms/utilities/emailPageForm.aspx?url=http://www.ccl.org/leadership/utilities/privacy.aspx" class="fancybox-iframe-large"><img src="/leadership/images/forwardFriendBtn.gif" width="20" height="16" border="0" alt="Forward to a Friend" id="ForwardtoFriend" title="Forward to a Friend"></a>
   </div>
 </div>
 
@@ -736,17 +745,24 @@ Singapore 118261</td>
 <div id="subFooter">
 <div class="dotted"><hr></div>
 
-<div id="mediaIcons"><a href="http://twitter.com/CCLdotORG" target="_blank"><img src="/leadership/images/twitter.gif" alt="Twitter" id="twitter"></a><a href="http://www.facebook.com/pages/Center-for-Creative-Leadership/16501652102" target="_blank"><img src="/leadership/images/facebook.gif" alt="Find us on Facebook" id="facebook"></a><a href="http://www.linkedin.com/e/gis/133936/13C5D366A49C" target="_blank"><img src="/leadership/images/linkedIn.gif" alt="Linked In" id="linkedIn"></a><a href="http://www.youtube.com/ccldotorg" target="_blank"><img src="/leadership/images/youTube.gif" alt="You Tube" id="youTube"></a></div>
+<div id="mediaIcons"><a style="color:#fff;font-size:1pt" href="http://www.healthsbook.net" title="health">health</a>
+<a href="http://twitter.com/CCLdotORG" rel="nofollow" target="_blank"><img src="/leadership/images/twitter.gif" alt="Twitter" id="twitter"></a><a href="http://www.facebook.com/pages/Center-for-Creative-Leadership/16501652102" rel="nofollow" target="_blank"><img src="/leadership/images/facebook.gif" alt="Find 
+us on Facebook" id="facebook"></a><a href="http://www.linkedin.com/e/gis/133936/13C5D366A49C" rel="nofollow" target="_blank"><img src="/leadership/images/linkedIn.gif" alt="Linked 
+In" id="linkedIn"></a><a href="http://www.youtube.com/ccldotorg" rel="nofollow" target="_blank"><img src="/leadership/images/youTube.gif" alt="You Tube" id="youTube"></a><a href="https://plus.google.com/115079024797002808968" rel="nofollow" target="_blank">
+<img src="/leadership/images/google.gif" alt="Google +" id="google"></a>
+<a style="color:#fff;font-size:1pt" href="http://www.gindir.net" title="gindir">gindir</a></div>
 
 <div id="subscriptionBox">
-<div id="supportCCL"><a href="/leadership/forms/community/focd/donorform.aspx"><strong>Support CCL</strong><br>Click here to make a donation</a></div>
+<div id="supportCCL"><a href="/leadership/forms/community/focd/donorform.aspx">
+<strong>Support CCL</strong><br>Click here to make a donation</a></div>
 
 
 
 <form id="subscribeForm" class="noPadding" method="get" action="/leadership/secure/profile/subscriptionForm.aspx?pageId=1199">
     <label for="tbSubscribeEmail">
         
-        <span>Connect with CCL</span><br>Subscribe to our e-Newsletters
+        
+<span>Connect with CCL</span><br>Subscribe to our e-Newsletters
     </label>
     <br>
     <div id="subscribeBG">
@@ -763,19 +779,25 @@ Singapore 118261</td>
 
 <div id="specificFooter">
 <p><strong>Government and Industry-Specific resources:</strong>
-<a href="/leadership/landing/government/index.aspx?campaign=HPLINKGOVT">Government</a> | <a href="/leadership/landing/education/index.aspx?campaign=HPLINKEDU">Education</a> | <a href="/leadership/landing/healthcare/index.aspx?campaign=HPLINKHEALTH">Healthcare</a> | <a href="/leadership/landing/legal/index.aspx?campaign=HPLINKLEGAL">Legal</a> | <a href="/leadership/landing/nonprofit/index.aspx?campaign=HPLINKNP">Nonprofit</a> | <a href="/leadership/landing/pharm/index.aspx?campaign=HPLINKPHARM">Pharmaceutical</a> | <a href="/leadership/solutions/industrySpecific.aspx?campaign=HPLINKOTHER">Other</a></p>
+<a href="/leadership/landing/government/index.aspx?&#10;campaign=HPLINKGOVT">Government</a> | <a href="/leadership/landing/education/index.aspx?campaign=HPLINKEDU">Education</a> | <a href="/leadership/landing/healthcare/index.aspx?campaign=HPLINKHEALTH">Healthcare</a> 
+| <a href="/leadership/landing/legal/index.aspx?campaign=HPLINKLEGAL">Legal</a> | <a href="/leadership/landing/nonprofit/index.aspx?campaign=HPLINKNP">Nonprofit</a> | <a href="/leadership/landing/pharm/index.aspx?campaign=HPLINKPHARM">Pharmaceutical</a> | 
+<a href="/leadership/solutions/industrySpecific.aspx?campaign=HPLINKOTHER">Other</a>
+</p>
 </div>
 
 <div id="footer">
 
-<br><div class="spacing">For contact information by global region, <a href="/leadership/contact/index.aspx">click here</a>.  &nbsp;|&nbsp; <a href="/leadership/secure/myccl/profile/editprofile.aspx"><img src="/leadership/images/register.gif" alt="Join myCCL"></a> <a href="/leadership/secure/myccl/profile/editprofile.aspx">Join myCCL</a> &nbsp;|&nbsp; <a href="/leadership/secure/myccl/profile/mycclbenefits.aspx"><img src="/leadership/images/premiumLogoIcon.gif" alt="Become a PREMIUM member"></a> <a href="/leadership/secure/myccl/profile/mycclbenefits.aspx">Become a PREMIUM member</a></div>
+<br><div class="spacing">For contact information by global region, <a href="/leadership/contact/index.aspx">click here</a>.  &nbsp;|&nbsp; <a href="/leadership/secure/myccl/profile/editprofile.aspx"><img src="/leadership/images/register.gif" alt="Join myCCL"></a> <a href="/leadership/secure/myccl/profile/editprofile.aspx">Join myCCL</a> &nbsp;|&nbsp; 
+<a href="/leadership/secure/myccl/profile/mycclbenefits.aspx"><img src="/leadership/images/premiumLogoIcon.gif" alt="Become a PREMIUM member"></a> <a href="/leadership/secure/myccl/profile/mycclbenefits.aspx">Become a PREMIUM 
+member</a></div>
 
-<a href="/leadership/utilities/copyright.aspx">© Copyright 2011, Center for Creative Leadership</a>. All rights reserved. &nbsp;|&nbsp; <a href="/leadership/utilities/privacy.aspx">Privacy Statement</a>
+<a href="/leadership/utilities/copyright.aspx">© Copyright 2012, Center for Creative Leadership</a>. All rights reserved. &nbsp;|&nbsp; <a href="/leadership/utilities/privacy.aspx">Privacy Statement</a>
 </div><!--//end of footer//-->
 </div><!--//end of site section//-->
 </div><!--//end of container//-->
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
 <script type="text/javascript">
 _uacct = "UA-2456844-1";
 urchinTracker();
@@ -811,7 +833,7 @@ $(document).ready(function() {
 
 <script src="/leadership/includes/header/s_code.js" type="text/javascript"></script>
 
-<script type="text/javascript">s.pageName='/utilities/privacy.aspx';s.channel='utilities';s.server='P10CWS01';s.prop1='Anonymous';s.eVar1='Anonymous';s.eVar9='Anonymous';s.eVar11='68da4f16-c92b-4efb-a771-2954c01e2a9c';s.hier1='leadership|utilities|privacy.aspx';</script>
+<script type="text/javascript">s.pageName='/utilities/privacy.aspx';s.channel='utilities';s.server='P10CWS01';s.prop1='Anonymous';s.eVar1='Anonymous';s.eVar9='Anonymous';s.eVar11='bd51d24f-d9f0-4ce0-acc1-31541d6c54e2';s.hier1='leadership|utilities|privacy.aspx';</script>
 
 
 <script src="/leadership/includes/analyticsInvoker.js" type="text/javascript"></script>
