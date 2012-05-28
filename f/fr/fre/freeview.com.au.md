@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125085706id_/http%3A//www.freeview.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528105843id_/http%3A//www.freeview.com.au/privacy.aspx) for the most accurate reproduction.*
 
-# Freeview – digital television – privacy policy
+# Privacy Policy | Freeview – Digital Television
 
 Your privacy is important to Freeview Australia. Please read our Privacy Policy carefully to understand how we will deal with any personal information you provide us by registering your interest with Freeview.
 
