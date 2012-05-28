@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidefutbol.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119001804id_/http%3A//www.insidefutbol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidefutbol.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528095952id_/http%3A//www.insidefutbol.com/privacy-policy) for the most accurate reproduction.*
 
 # Football - Privacy Policy | Inside Futbol - Online World Football Magazine
 
