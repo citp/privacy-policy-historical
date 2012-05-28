@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042026id_/http%3A//www.karmasandhan.com/p/privacy-policy_7572.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528134018id_/http%3A//www.karmasandhan.com/p/privacy-policy_7572.html) for the most accurate reproduction.*
 
 # West Bengal and Central Government Jobs and Recruitment News: Privacy policy.
+
+Karmasandhan.com is an online employment news site which brings you latest going-on jobs and recruitments news of West Bengal and Central Governments. Please note: we do not claim our site to be error free, before using our information please read our [ Disclaimer.](http://www.karmasandhan.com/p/disclaimer-and-terms-of-use.html)
+
+##  Privacy policy. 
 
   
 At www.karmasandhan.com, we give extreme importance to privacy of our visitors. We do not do anything hidden without knowledge of our visitors because it’s your right to know how we treat your privacy and so we have clearly outlines the types of information we ([www.karmasandan.com/](http://www.karmasandan.com/)) received and collect and also how it is used. If you want more information, feel free to write us anytime at: info@karmasandhan.com  
@@ -17,7 +21,8 @@ www.karmasandhan.com does use cookies to store information about visitors’ pre
   
 **Information collected through Log Files:**  
 Like many other Web sites, we (www.karmasandhan.com) make use of log files. With this log files we simply used to analysis how visitors arrives and exit.  The information in log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.  
-For such purposes, we recently use tools provided to us by:
+For such purposes, we recently use tools provided to us by:  
+
 
   * StatCounter.
   * Google Analytics
