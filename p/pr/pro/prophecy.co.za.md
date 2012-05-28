@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophecy.co.za privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128072906id_/http%3A//www.prophecy.co.za/pages.php%3Fpages_id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophecy.co.za privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528104039id_/http%3A//www.prophecy.co.za/pages.php%3Fpages_id%3D5) for the most accurate reproduction.*
 
 # Prophecy.co.za - Computer Hardware, Software, Accessories, Peripherals
 
