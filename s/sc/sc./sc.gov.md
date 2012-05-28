@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sc.gov privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012023534id_/http%3A//www.sc.gov/Pages/PrivacyandSecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc.gov privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528200529id_/http%3A//www.sc.gov/Pages/PrivacyandSecurity.aspx) for the most accurate reproduction.*
 
-# SC.GOV - Privacy and Security Policy
+# Privacy and Security Policy - SC.GOV
 
 ## Privacy Policy
 
@@ -46,7 +46,7 @@ This web site has links to many other web sites. These include links to web site
 
 ### Live Help 
 
-The [Live Help](https://web.archive.org/HelpCenter/default.htm) service is the SC.GOV portal's live customer service application that allows visitors to talk with customer service representatives in real-time. 
+The [Live Help](https://web.archive.org/Pages/help.aspx "Live Help") service is the SC.GOV portal's live customer service application that allows visitors to talk with customer service representatives in real-time. 
 
 Certain information is collected and maintained in regards to the Live Help service. In addition to IP address, browser type, date and time of the visit, and the referring webpage, transcripts of the chats are saved for statistical, demographic, and/or customer service purposes. Some information is also collected through chat surveys on a volunteer basis.
 
