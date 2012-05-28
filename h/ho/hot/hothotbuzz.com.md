@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hothotbuzz.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127213228id_/http%3A//hothotbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothotbuzz.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528130012id_/http%3A//hothotbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hot Hot Buzz
 
@@ -19,5 +19,3 @@ We also use third party advertisements on **http://hothotbuzz.com** to support o
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
- 
