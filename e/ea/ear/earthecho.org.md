@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthecho.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205136id_/http%3A//www.earthecho.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthecho.org privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528092527id_/http%3A//www.earthecho.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EarthEcho International
 
