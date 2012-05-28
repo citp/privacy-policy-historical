@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzmr.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210033301id_/http%3A//www.bzmr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzmr.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529013123id_/http%3A//www.bzmr.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
