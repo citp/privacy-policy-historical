@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coderetard.com privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825093429id_/http%3A//www.coderetard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderetard.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528160000id_/http%3A//www.coderetard.com/privacy) for the most accurate reproduction.*
 
 # Code Retard: Anything Geeky Goes
 
