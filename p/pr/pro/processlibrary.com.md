@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processlibrary.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116174909id_/http%3A//www.processlibrary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processlibrary.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528232649id_/http%3A//www.processlibrary.com/privacy) for the most accurate reproduction.*
 
 # ProcessLibrary.com - Privacy Policy
 
