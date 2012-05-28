@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011020655id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528223948id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
 
 # LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Disney and many more
+
+## Privacy notice
 
 **1.     ****Purpose for Information Collection and Usage**
 
@@ -22,7 +24,7 @@ In order to check creditworthiness during our business relationship, we might se
 
 Furthermore, address and order data is collected and processed for our own marketing purposes.Third party marketing entities will only receive data permitted by law (publicized specific and summarized data lists according to § 28 Abs. 3 Nr. 3 Federal Data Protection Act (Bundesdatenschutzgesetz) or with your explicit permission.
 
-Naturally, you may retract your permission for using, processing and forwarding data for marketing purposes at any time by sending us such notice.You may do so by send a message by mail LamaLoLi GmbH or via E-mail to [info@lamaloli.com](mailto:info@lamaloli.com).
+Naturally, you may retract your permission for using, processing and forwarding data for marketing purposes at any time by sending us such notice.You may do so by send a message by mail LamaLoLi GmbH or via E-mail to [support@lamaloli.com](mailto:info@lamaloli.com).
 
  **2.     ****SSL (Secure Socket Layer)**
 
