@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508015723id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528050057id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Carolina Panthers | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #### Carolina Panthers Website Privacy Policy
 
-_Revised November 15, 2010_
+_Revised June 15, 2011_
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.panthers.com/seal_m "Validate TRUSTe privacy certification")This privacy policy applies to the Carolina Panthers website located at www.panthers.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -49,7 +49,7 @@ Email Communications: When you open emails from us, we may receive a confirmatio
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
-Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
+Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as but not limited to newsletters, article commenting, message boards, article and video ratings, real-time chats or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
 Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website, in the newsletter or email or by sending an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com).
 
