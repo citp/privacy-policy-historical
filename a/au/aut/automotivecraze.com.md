@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivecraze.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127094401id_/http%3A//www.automotivecraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivecraze.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528184547id_/http%3A//www.automotivecraze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
