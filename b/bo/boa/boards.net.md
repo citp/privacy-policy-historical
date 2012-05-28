@@ -1,71 +1,83 @@
-> *The following text is extracted and transformed from the boards.net privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614130902id_/http%3A//boards.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.net privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528224814id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
 
-# The Boards Network Start Point Portal - Privacy Page
+# ProBoards - Free Forums & Free Message Boards
 
-Your privacy is a matter of great importance to the Boards Network and [The Commerce Company](http://www.commerco.com/). 
+ProBoards, Inc. (" **ProBoards** ") is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Privacy Policy have the same meanings as in ProBoards' [Website Terms of Service](https://web.archive.org/tos)). ProBoards created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
-Privacy of customer’s information and e-commerce transactions is of paramount importance to the Boards Network and [The Commerce Company](http://www.commerco.com/). Commerco is committed to protecting customer privacy and assisting its portal guests to take full advantage of Internet electronic commerce. 
+This Privacy Policy is only applicable to the Website and not to any websites of third parties (" **Third-Party Websites** "), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
 
-To protect portal guest privacy, The Commerce Company follows several operating principles following the standards of worldwide practice for customer privacy and data protection. 
+BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
 
-**PRINCIPLE 1 - NOTICE**  
-Commerco will ask a visitor when information is needed that personally identifies an individual (Personal Information) or allows us to contact the individual. All web input forms associated with contact information requested when visitors contact Commerco, ordering e-mail newsletters or joining a limited-access premium site. Commerco uses visitor Personal Information for four primary purposes: 
+Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. For additional information, see the section concerning Updates and Changes to Privacy Policy, below.
 
-To alert visitors to special offers, updated information and other new services from the Boards Network, another Commerco portal or The Commerce Company. 
+1\. **CHILDREN'S PRIVACY**
 
-**PRINCIPLE 2 - CONSENT**  
-If visitors choose not to register or provide their personal information, they can still use most Commerco sites. But visitors will not be able to access areas that require registration. 
+> ProBoards does not solicit or knowingly collect personally identifiable information from children under the age of 13. If ProBoards obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, ProBoards will immediately delete such information from its database. Because ProBoards does not collect personally identifiable information from children under the age of 13, ProBoards has no such information to use or disclose to third parties. ProBoards has designed this Privacy Policy in order to comply with the Children's Online Privacy Protection Act (COPPA).
 
-If a visitor decides to register, they will be able to select the information they want to receive from a Commerco site by subscribing to various services, like electronic newsletters. If a visitor does not want communications from Commerco or a portal regarding Commerco programs, events, or services by e-mail, postal mail, or telephone, they may visit the Commerco Visitor Information Center, and to establish preferences in the Free Newsletters and Contact Options sections. At this point our center is not available, so requests via email via the contact page regarding privacy concerns are also honored. 
+2\. **INFORMATION COLLECTION PRACTICES**
 
-Commerco occasionally allows other companies to offer its registered customers information about their products and services, using postal mail only. If visitors do not want to receive these offers, they should uncheck the Contact Options section stating, "Commerco partners can send me postal mail about their services or products." 
+> a. **Traffic Data.** ProBoards may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively " **Traffic Data** ").
+> 
+> b. **Cookies.** A " **Cookie** " is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same advertisements or informational messages repeatedly, and to store Your password so You do not have to re-enter it each time You visit the Website. In addition, ProBoards may use Cookies, and other methods, to store and retrieve data from Your web browser. For additional information on ProBoards' uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.
+> 
+> IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+> 
+> c. **Ad Serving.** ProBoards uses third-parties including [Datonics](http://datonics.com/consumer-privacy-center) for advertising and analytics for pages that we host. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising. Some ad networks that are a part of the Network Advertising Initiative provide an easy way to opt out of behavioral targeting by utilizing the [NAI Opt Out page](http://www.networkadvertising.org/managing/opt_out.asp). You can also visit [AboutAds.info](http://www.aboutads.info/) for more information.
+> 
+> d. **Personal Information.** In order for You to use certain of the Website services, You will be asked to provide ProBoards certain information that personally identifies You (" **Personal Information** "). Personal Information includes, without limitation: (1) " **Contact Data** " (such as Your e-mail address, website URLs, and instant messaging screen names); and (2) " **Demographic Data** " (such as Your date of birth and gender). In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. ProBoards may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to ProBoards.
+> 
+> You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services.
+> 
+> e. **Information You Make Public.** By registering with the Website, You are required to create a personal profile, which may include Personal Information. Personal Information contained in personal profiles is available and accessible to all visitors of the Website. The Website contains features that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which ProBoards is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so.
 
-**PRINCIPLE 3 - ACCESS**  
-Commerco will provide its visitors the means to ensure that their personal information is correct and current. They may review and update their information at any time at the Visitor Information Center. At the Visitor Information Center a visitor can:   
+3\. **INFORMATION USE AND DISCLOSURE PRACTICES**
+
+> a. **Traffic Data and Information Gathered Using Cookies**
+> 
+> ProBoards analyzes Traffic Data and information gathered using Cookies to help ProBoards better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, ProBoards is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements. From time to time, ProBoards may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. ProBoards does not attempt to link information gathered using Cookies to Personal Information.
+> 
+> b. **Personal Information**
+>
+>> i. **Generally.** ProBoards uses Your Contact Data to send You information about ProBoards and ProBoards' products and services, and to contact You when necessary in connection with the Services. ProBoards uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time ProBoards may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website. In addition, ProBoards shares Demographic Data with its advertisers and marketing partners so that such third-parties may provide You with advertisements tailored to Your interests.
+>> 
+>> ii. **Disclosure Practices.**
+>> 
+>> Except as otherwise provided in this Privacy Policy, and under the following circumstances, ProBoards will keep Your Personal Information private, and will not share it with third parties.
+>> 
+>>   * **Disclosure in Connection with Services.** ProBoards discloses Personal Information to those who help it provide services, including those who perform technical, administrative and data processing tasks such as, but not limited to, ad serving, hosting, billing, fulfillment, and data storage and security.
+>>   * **Opt-in Consent for Third Party Offers.** Upon registration, and from time to time thereafter, ProBoards may provide You with an opportunity to co-register for, or otherwise receive, offers, goods or services directly from advertisers and companies other than ProBoards ("Third Party Offers"). If You co-register for or opt-in to receive a Third Party Offer, ProBoards will share your Personal Information with such third party. The proprietors of the Third Party Offers may have their own terms of service, privacy policies, unsubscribe provisions, or other policies and they may ask You to agree to the same. ProBoards is not responsible for the policies or practices of the proprietors of any Third Party Offers You opt-in to receive. You are under no obligation to co-register for or opt-in to receive any Third Party Offer.
+>>   * **By Law or to Protect Rights.** ProBoards discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when ProBoards believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of ProBoards, third-parties or the public at large. 
+>>   * **Business Transfers; Bankruptcy.** ProBoards reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of ProBoards' assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by ProBoards' successor organization.
+>>   * **License to User Content.** By using the Website, You grant the ProBoards Parties the right to publish Your Personal Information in connection with the ProBoards Parties' exercise of their license in and to Your User Content. You further waive any claims arising from the ProBoards Parties' exercise of that right. For additional information, see Terms of Service Section 15, regarding User Content.
+>> 
 
 
-Register. Once visitors register, they won't need to do so again. Wherever visitors reach any Commerco site, their information stays with them. 
+4\. **CONSENT TO RECEIVE EMAIL FROM PROBOARDS**
 
-**PRINCIPLE 4 - SECURITY**  
-Commerco strictly protects the security of its visitor’s personal information and honors their choices for intended use of that information. Commerco make best effort attempts to protect data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+By registering with the Website, you thereby consent to receive periodic email communications regarding the Services, new product offers, promotions and other matters.
 
-**PRINCIPLE 5 - ENFORCEMENT**  
-If for some reason a visitor believes that The Commerce Company has not adhered to these principles, [contact](http://www.boards.net/Contact/) The Commerce Company, so that a determination regarding this belief can be made and corrective action taken, if appropriate. Be certain the words Privacy Policy are in the Subject line of any correspondence. 
+5\. **CONSENT TO RECEIVE EMAIL COMMUNICATIONS FROM MEMBERS**
 
-**NOTICE TO PARENTS**  
-Parents or guardians: Commerco wants to help guard children's privacy (after all, Commerco does operate [Kidz.Com](http://www.kidz.com/)). Commerco encourages parents to speak with children about safe and responsible use of their Personal Information while using the Internet. Parents can find a wealth of information for children at the [Kidz.Com](http://www.kidz.com/) Internet site. 
+By registering with the Website, your thereby consent to receive electronic communications, including email and personal messages from other Website members.
 
-**CUSTOMER PROFILES**  
-As mentioned above, every registered visitor has a unique personal profile. Each profile is assigned a unique personal identification number, which helps Commerco ensure that only that visitor can access their profile. 
+6\. **SECURITY OF PERSONAL INFORMATION**
 
-When visitors register, Commerco creates their profile, assigns a personal identification number, and sends this personal identification number back to their computer in the form of a cookie, which is a very small file that resides on the computer’s hard drive. This code is unique to the computer it resides upon. It enables seamless travel across Commerco sites, allowing visitors to order free newsletters and visit premium start point portal sites without having to reenter registration form information already provided. Even if visitors switch computers, they won't need to re-register – their e-mail address and password identifies them. 
+ProBoards has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.
 
-**Privacy FAQs:**  
+7\. **USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
 
+ProBoards wants Your Personal Information to be complete and accurate. By using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, Your Personal Information, please visit your account profile.
 
-Q: What is a cookie, and how does a cookie affect privacy?  
-A: A cookie is the term first coined by Netscape to identify a file that can be passed from an Internet web server to a browser and back again. The file is tiny and allows the site to keep a limited amount of information about a visitor so as to identify them by matching the code contained in the visitor’s computer against a database on the server. 
+8\. **THIRD-PARTY WEBSITES**
 
-Q: How exactly does registration information help provide better content for visitors?  
-A: The Commerce Company operates approximately 200 start point portals. Each of these has many different sub sites that, in turn, are comprised of many web pages of content. Finding what visitors need among those pages should be easy. When visitors provide information about themselves, it helps to filter out sites that are not relevant to the visitor. The better Commerco understand its visitors, the more specific the information that can be provided. Commerco can offer product or information updates that help its visitors stay up to date. 
+ProBoards neither owns nor controls Third-Party Websites. Accordingly, Third-Party Websites are under no obligation to comply with this Privacy Policy. Before visiting or providing Personal Information to a Third-Party Website, You should inform Yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in Your discretion, protect Your privacy.
 
-Q: When entering a form and quitting before finishing, what happens to the information already typed in?  
-A: If visitors begin to enter data on a form and decide to quit, simply click a cancel button or another link on the page. None of the information entered on the page where entry stopped should be saved. However, information entered on previous pages or as the consequence of error reporting, will be saved in a database. 
+9\. **PROMOTIONAL ACTIVITIES**
 
-Q: Can this privacy policy be modified?  
-A: This Privacy Policy can only be modified by The Commerce Company. Such modifications may occur from time to time, with notice being posted on this page. It is the portal guest's option as to whether to continue their relationship with this portal at that time. 
+From time to time, ProBoards may conduct contests, giveaways and other promotions (collectively, " **Promotional Activities** "). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, ProBoards may also ask You to participate in surveys designed to help ProBoards improve the Websites or Services. Any Personal Information provided to ProBoards in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
 
-Q: If The Commerce Company sells a portal or the company itself is sold or no longer exists, what happens to my data?  
-A: In order for any new owner of either an individual former Commerco portal or The Commerce Company to continue to service the needs of portal guests, the information supplied by them should transfer to the new owner under the existing terms and conditions. At that time, should the new owner have new terms and conditions, they should communicate that the terms have changed and request that site guests approve the changes. 
+10\. **UPDATES AND CHANGES TO PRIVACY POLICY**
 
-Q: What is The Mutual Customer Network?  
-A: The Mutual Customer Network is being developed to offer portal guest more flexibility and a more integrated Internet experience in their travels through Commerco start point portals. The idea is to offer a single point of data entry to allow guests to be known at all Commerco portals. 
+Although most changes are likely to be minor, ProBoards reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless ProBoards obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-Q: Will other companies be a part of The Mutual Customer Network?  
-A: Eventually, Commerco may make this service available to other companies to ensure the correctness of mutual customer's data. This sharing of data may only take place via authorization by the Commerco portal guest only. 
-
-Hopefully, this statement addresses concerns about the Boards Network privacy. If it does not, please use our [Contact](http://www.boards.net/Contact/) form to communicate your issues to us. Be sure to use the words "Privacy Policy" in the subject. 
-
-[Return to Home Page](http://www.boards.net/). 
-
-Thank you for your interest the Boards Network. 
+Effective Date: April 16, 2012 
