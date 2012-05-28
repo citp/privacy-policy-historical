@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219224846id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528190039id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
 
 # 
 
-[](http://advancedasian.com/home.html)
-
+  
 At Amped Asia, we take your privacy seriously. This page outlines our policies regarding any information that you may send us. 
 
 Amped Asia will periodically ask e-mail or contact information during some events. When e-mail addresses are collected, they are stored safely, not sold, or given out to any third parties. If such contact information is posted on a public domain, such as our forums, we take no responsibility for the acquirement of your personal information. 
