@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123194248id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528022753id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,100 +6,90 @@
 
 ### Introduction
 
-We are committed to respecting your privacy. 
+This website is owned and operated by Ballistic Media Pty Ltd.  We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. 
 
-This document constitutes the Privacy Policy under which you may use CGSociety. Your use of CGSociety constitutes your agreement to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use CGSociety or any associated services. By using CGSociety, you are accepting the practices described in this Privacy Policy. 
+### 1\. Information Collected
 
-We are dedicated to providing a safe and secure user experience. This Privacy Policy tells you how we use personal information collected by us. You are encouraged to review the Privacy Policy whenever you visit CGSociety to make sure that you understand how any personal information you provide will be used. 
+We collect two types of information from you: i) information that you voluntarily provide to us (e.g. through a voluntary registration process, sign-ups or emails); and ii) information that is derived through automated tracking mechanisms. 
 
-This Privacy Policy is for CGSociety only. If you link to other websites, we encourage you to review their privacy policies so you can understand how they collect, use and share your information. We are not responsible for the privacy policies or practices of other web sites to which you choose to link to from CGSociety. This Privacy Policy applies solely to the information we collect via CGSociety and does not apply to information we collect in any other fashion. 
+**Voluntary Registration Information.**
 
-Your data will be stored and processed in whole or in part in the United States. If you access CGSociety outside the United States, your usage constitutes consent to the transfer of your data out of your country and to the United States. You also agree that your data may be transferred to any other country. 
+In order to fully access this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, address, email address and country of residence. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis. 
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
+   
 
-### Collection and Use of Information
+By registering with us, you consent to the use and method of disclosure as described in this Privacy Policy. 
 
-We may request that you provide personal information, including your name, address, e-mail address, telephone number credit card number, social security number, contact information, billing information and any other information from which your identity is discernible. We may collect demographic information that is not unique to you such as your ZIP code, age, preferences, gender, interests and favourites. Sometimes we may collect a combination of the two types of information. 
+**Voluntary Information for Services and Features.**
 
-We may also gather certain information about your use of CGSociety's services, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that may be collected by us. This information can include your IP address, browser type, domain names, access times and referring web site addresses.We may ask to provide descriptive, cultural, behavioural, preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. 
+We also collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum, iv) commenting on articles, and others.  When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information.  Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our other users in the future. 
 
-### Public Information
+**Cookies**
 
-Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While we strive to protect and respect your privacy, we cannot guarantee the security of any information you disclose in public areas. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. CGSociety uses cookies to store visitor’s preferences and to record session information. Our site uses "cookies" and other tracking technologies.  Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly.  Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorised access to the user's information while they are away from their computer. 
 
-###  CGJobs Resumes and Profiles
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site. 
 
-We give you a number of options regarding the accessibility of your resume: 
+Third-Party Cookies:  In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique "cookie" on your browser. 
 
-  1. You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product. 
-  2. If you allow your resume to be searchable without making it confidential and hiding your contact information, then all parties with access to our searchable resume database will have access to your resume.
-  3. If you have a confidential resume, but apply to a job posting on CGJobs, the employer to whom you send your resume will be able to view your contact information.
+### 2\.  Referrals
 
+You may choose to invite friends to join the CGSociety by sending invitation emails via our invite feature. CGSociety stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. CGSociety does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact CGSociety to request removal of their information from our database. 
 
+### 3\. How We Use Your Information
 
-In addition, portions of your searchable resume may be made public in your CGJobs profile. 
+CGSociety only uses your personal information for the original purposes it was given. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection. 
 
-We attempt to limit access to our resume database only to employers, recruiters, hiring managers, and human resource professionals, as well as law enforcement and national security agencies, but cannot guarantee that other parties will not gain access to this database. We are not responsible for the use made of resumes by third parties who access such resumes while they are in our searchable database. However, the portions of your searchable resume that are automatically made public in your CGJobs profile are accessible to anyone who uses the CGJobs service. 
+CGSociety will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of CGSociety unless required to do so by law. Further, CGSociety reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected. 
 
-You may remove your resume on CGJobs or delete your profile on CGJobs at anytime, but, employers, recruiters and others who have paid for access to the CGJobs resume database or to obtain a copy of that database or have paid for access to the CGJobs services, as well as parties who have otherwise gained access may have retained a copy of your resume or CGJobs profile in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances. 
+Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site. 
 
-If you apply for a position on CGJobs, you may be asked to provide information on your gender, race or other protected status where permitted by applicable law. Some employers are required by law to gather this information from job applicants for reporting and record-keeping requirements. 
+CGSociety may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc. 
 
-### Use of Your Information
+We may permit certain trusted third parties to track usage, analyse data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyse data; provide search results and links and assist in fulfilling your orders. 
 
-We use the information we gather on CGSociety, whether personal, demographic, collective or technical, for the purpose of operating and improving CGSociety's services, fostering a positive user experience, and delivering the products that we offer. If you have provided consent for us to do so, we may also use the information we gather to inform you of other products or services available from us or our affiliated companies. 
+Also, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates. 
 
-We may use your contact information in order to send you e-mail or other communications regarding CGSociety's products and services, to contact you about your opinion of current products and services or potential new products and services that may be offered. The nature and frequency of these messages will vary depending upon the information we have about you. 
+We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganisation, stock sale or other change in control. 
 
-In addition, you may receive free newsletters from us relating to topics that may be of special interest to you. All such newsletters have the facility for you to easily unsubscribe from the particular mailing list. We have areas on CGSociety where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback for marketing purposes or to contact you for further information. 
+CGSociety may disclose Contact Information in special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions of use or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities. 
 
-We also share aggregated information about visitors to CGSociety with our clients, partners and other third parties so that they can understand the kinds of visitors to CGSociety and how those visitors use CGSociety. 
+WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A BULLETIN BOARD, CHAT ROOM OR ANY OTHER PUBLICLY ACCESSIBLE AREA OF THE SITE. 
 
-### Third Party and Co-Branded Sites
+You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information. 
 
-We may establish relationships with business partners that allow visitors to CGSociety to link directly to sites operated by these partners. Some of these sites may be co-branded with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Policy will apply to any personal information we obtain in this manner. 
+We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information. 
 
-We are not responsible for the content or practices of web sites operated by third parties that are linked to our sites. These links are meant for your convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of those third party sites. Once you have left CGSocietys via such a link, you should check the applicable privacy policy of the third party site. 
+### 4\. How We Protect Your Information
 
-### Information Disclosure
+We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorised access to or unauthorised alteration, disclosure or destruction of data. To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. 
 
-Disclosure to third parties of your personal information, combined personal and demographic information or information about your use of CGSociety's services may occur as described below. We may disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties, we may supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We may use data we have about you to determine whether you might be interested in the products or services of a particular third-party. 
+### 5\. Third Party Advertising
 
-We may disclose information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our web servers, analysing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party. 
+Advertisements appearing on this Site may be delivered to you by CGSociety or one of our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the advertising partners to recognise your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. CGSociety does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners. 
 
-We may disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: conform to legal requirements or comply with legal process; protect our rights or property or that of our affiliated companies; prevent a crime or protect national security; or protect the personal safety of users or the public. 
+This privacy statement covers the use of cookies by CGSociety and does not cover the use of cookies by any of its advertisers. 
 
-We may disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we may become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. 
+### 6\.  Accessing and Updating Your Personal Information and Preferences
 
-We may also share aggregated anonymous information about our visitors with our clients, partners and other third parties so that they may understand the kinds of visitors to CGSociety and how those visitors use CGSociety. 
+We provide mechanisms for updating and correcting your personal information for many of our services.  You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account. 
 
-### Security
+### 7\. Email Choice/Opt-out
 
-Your personally identifiable information is kept secure. In order to prevent unauthorized access or disclosure we have put in place commercially reasonable and suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Only authorized employees, agents and contractors have access to this information. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. 
+If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails.  In addition, you may send an email to support@cgsociety.org. We will make commercially reasonable efforts to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
 
-Your credit card information is protected through the use of encryption, such as the Secure Socket Layer protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. We use a service company to process credit card transactions and we do not store your credit card details. 
+### 8\. Children's Privacy and Parental Controls
 
-We will not be held responsible for events arising from unauthorised access of your personal information. 
+We do not solicit any personal information from children. If you are not 18 or older, you are not authorised to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors. 
 
-You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any CGSociety passwords and accounts. Please notify us immediately if there is any unauthorised use of your account by any other user or any other breach of security. 
+### 9\. Disclaimer to Security
 
-### Cookies, Applets and Web Beacons 
+By consenting to the Terms and Conditions of the Site and hence the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk. 
 
-We may use cookies, applets, web beacons and other devices (collectively known as tracking technology). Personal information cannot be collected via tracking technology. Aggregate cookie and tracking information may be shared with third parties. If do not wish to receive cookies you can instruct your web browser to refuse them. However, doing so will prevent access to some areas of CGSociety and limit your use of some services. 
+### 10\. Notification of Changes
 
-### Access to and Modification of Your Information
+CGSociety reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted. 
 
-You may review, correct, update or change your information at any time. You may also opt out of receiving newsletters and certain other information from us. To change your information, simply log into your account and edit it with the options provided. 
+### 11\.  CONTACT INFORMATION:
 
-We retain indefinitely all the information we gather about you in an effort to make your repeat use of CGSociety more efficient, practical, and relevant. You can close and delete your information from our online database in which event we will remove all our copies of your information except for an archival copy which is not accessible on the Internet. 
-
-You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. To request access, please contact our privacy officer as set out at Contact Information. 
-
-### Privacy Policy Changes
-
-We reserve the right to make changes to this policy. Any changes to this policy will be posted to this page. 
-
-### Contact Information
-
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
+If you have any questions or concerns regarding this Privacy Policy please contact: Garth Hammet - Privacy Officer privacy@ballisticmedia.net 
