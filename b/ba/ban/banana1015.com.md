@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127143527id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528091555id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.*
 
 # Banana 101.5 Radio - Flint's Rock Radio - Flint Music
 
@@ -90,7 +90,7 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please contact us at: .
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please .
 
 ### Effective Date
 
