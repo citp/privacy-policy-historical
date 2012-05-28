@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the englishleap.com privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127153925id_/http%3A//www.englishleap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the englishleap.com privacy policy that was archived on 2012-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529001816id_/http%3A//www.englishleap.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<!-- Meta data -->
@@ -13,31 +13,51 @@
 					var BASE_URI = "/";
 				</script>
 		<link rel="canonical" href="http://www.englishleap.com/privacy">
-		<link rel="alternate" type="application/rss+xml" title="English Leap" href="http://www.englishleap.com/blog/rss/all.rss">
+		<link rel="alternate" type="application/rss+xml" title="EnglishLeap" href="http://www.englishleap.com/blog/rss/all.rss">
 		<meta name="keywords" content="">
 		<meta name="description" content="">
-<!-- <title>English Leap &bull; Privacy</title> -->
+<!--<title>EnglishLeap &bull; Privacy</title>
+-->
 <title>Privacy</title>
+
+<script language="javascript" type="text/javascript">
+var flashArray = new Array();
+
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] ?
+navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0);
+var str1=plugin.description.substring(plugin.description.indexOf(".")+1)
+var strVersion=str1.substr(0,1)
+var str2=plugin.description.substring(plugin.description.indexOf(".")-2)
+var chkVersion=str2.substr(0,2)
+
+if (plugin &&parseInt(plugin.description.substring(plugin.description.indexOf(".")-2)) <10) 
+{ alert("Flash 10.1 is not available,Please upgrade your Flash player.")} 
+else if(chkVersion==10) {
+if(strVersion=="0")
+{alert("Flash 10.1 is not available,Please upgrade your Flash player.")}
+
+}
+</script>
 <!-- CSS Stylesheets -->
-<link href="/addons/shared_addons/themes/englishleap/css/reset.css" type="text/css" rel="stylesheet">
+
 <link href="/addons/shared_addons/themes/englishleap/css/stylesheet.css" type="text/css" rel="stylesheet">
+<link href="/addons/shared_addons/themes/englishleap/css/thickbox.css" type="text/css" rel="stylesheet">
 <link href="/addons/shared_addons/themes/englishleap/css/form.css" type="text/css" rel="stylesheet">
+
 <script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery.js"></script>
 <script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery-ui-1.8.15.custom.min.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/fade.js"></script>
+
+<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/thickbox.js"></script>
 <script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/query.corner.js"></script>
 <script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/swfobject.js"></script>
 <script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/combo.js"></script>
 
-<link href="/addons/shared_addons/themes/englishleap/css/jquery.treeview.css" type="text/css" rel="stylesheet">
-<link href="/addons/shared_addons/themes/englishleap/css/jquery-ui.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery.treeview.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery.treeview.sortable.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery.treeview.async.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/jquery.treeview.edit.js"></script>
 
+<link href="/addons/shared_addons/themes/englishleap/css/SpryTabbedPanels.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/SpryTabbedPanels.js"></script>
 
+<!-- code to get swf & xml files for demo course sections to preload them -->
+<script> var flashArray = new Array(); var j=0;</script>
 
 <script src="addons/shared_addons/modules/assessments/js/jquery.countdown.pack.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -52,16 +72,8 @@ jQuery(function($){
 	$('.widget').corner("5px");
 });
 </script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/cufon-yui.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/segoe.font.js"></script>
-<script type="text/javascript">
-Cufon.replace('h4');
-Cufon.replace('h2.page-title');
-Cufon.replace('.page-right-side h1');
-Cufon.replace('.page-right-side ul.howitworks li .contents h4');
-Cufon.replace('#footer-keywords h5');
-Cufon.replace('#homepage h1');
 
+<script type="text/javascript">
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
@@ -76,75 +88,58 @@ function adjustNavigationActiveClass(activeId,applyClassName,removeClassName)
 	$("."+activeId + " a").addClass(applyClassName);
 }
 </script>
-<!-- left side switch menu script -->
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/ddaccordion.js"></script>
-<script type="text/javascript" src="/addons/shared_addons/themes/englishleap/js/ddaccordioninit.js"></script>
-<!-- end -->
-<link rel="shortcut icon" href="favicon.ico">
-<link rel="icon" type="image/ico" href="favicon.ico">
-<!--[if IE 6]>
-<link href="/addons/shared_addons/themes/englishleap/css/ie6.css" type="text/css" rel="stylesheet" />
-<![endif]-->
 
+<link rel="icon" type="image/ico" href="favicon.ico">
 	</head>
 	<body>
 		<!-- Start wrapper -->
 		<div class="wrapper">
 			<!-- Header -->
-			<!-- Start of Login Bar Wrapper -->
-<div id="toppanel">
-    <div id="panel">
-        <div class="content clearfix">
-            <div class="page-width">
-			<form action="http://www.englishleap.com/users/login" method="post" accept-charset="utf-8" id="login">			            <table class="login-table" cellpadding="0" cellspacing="0" border="0">
-                <tbody><tr>
-                    <td width="27%"><label for="email">E-mail</label><input type="text" id="email" name="email" maxlength="120"></td>
-                    <td width="2%">&nbsp;</td>
-                    <td width="27%"><label for="password">Password</label><input type="password" id="password" name="password" maxlength="20"></td>
-                    <td width="15%"><input type="submit" value="Login" name="btnLogin" class="account-login-button"></td>
-                    <td width="29%">&nbsp;</td>
-                </tr>
-                
-                    <tr>
-                    	<td>
-                        	<span class="float_left" style="margin:10px 0 0 40px;">
-                                <input type="checkbox" name="remember" value="1" class="checkbox">                                <p class="remember-me">Remember Me</p>
-                            </span>
-                        </td>
-                        <td>&nbsp;</td>
-                        <td>
-                        <a href="http://www.englishleap.com/users/reset_pass" class="forgot-password">Forgot your password?</a></td>
-                        <td>&nbsp;</td>
-                        <td>&nbsp;</td>
-                    </tr>
-
-                
-            </tbody></table>
-			</form>            </div>
-        </div>
-    </div> 
-
-    <div class="page-width">
-        <div class="tab">
-            <ul class="login">
-                <li id="toggle">
-                    <a id="open" class="open signIn" href="javascript:void(0);">Sign In</a>
-                    <a id="close" style="display: none;" class="close signIn" href="javascript:void(0);">Sign In</a>
-                </li>
-            </ul>
-            <a href="http://www.englishleap.com/register" class="register">Register</a> 
-            <p class="toll-free-number">+91-11-64690378</p>
-        </div> 
-    </div>
-</div>
-<!-- End of Login Bar Wrapper -->
-    
+			<!-- Start of Login Popup box -->
+<div id="loginDiv" title="" style="display:none;">
+    <form action="http://www.englishleap.com/users/login" method="post" accept-charset="utf-8" id="loginPopup">        <a href="javascript://" onclick="tb_remove();" class="close">Close</a>
+        <h1>Login to Englishleap</h1>
+        <table cellpadding="0" cellspacing="0" border="0" width="97%">
+            <tbody><tr>
+                <td><label for="email">E-mail</label></td>
+                <td><input type="text" maxlength="120" name="email" id="email"></td>
+                <td><input type="checkbox" class="checkbox" value="1" name="remember"><p class="remember-me">Remember Me</p></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password</label></td>
+                <td><input type="password" maxlength="20" name="password" id="password"></td>
+                <td><a class="forgot-password" href="users/reset_pass">Forgot your password?</a></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td><input type="submit" class="sign-in-button" name="btnLogin" value="Login"></td>
+                <td>&nbsp;</td>
+            </tr>
+        
+            <tr>
+                <td colspan="3"><div style="font-size:1px; height:1px; background:#cccccc; display:block; width:100%;">&nbsp;</div></td>
+            </tr>
+            
+            <tr>
+                <td colspan="3" style="text-align:center;"><a href="http://www.englishleap.com/register" class="sign-up">Not Registered? Click here to Register now. </a></td>
+            </tr>    
+        </tbody></table>
+    </form></div>
+<!-- End of Login Popup box -->
+   
 <!-- Start of Header Wrapper -->
-<div id="header">
+<div id="header" style="border-top:9px solid #4C4C4C; margin-top:0px;">
 	<div class="page-width">
     	<a href="http://www.englishleap.com/" title="English Leap Home" class="logo">
     		<img src="addons/shared_addons/themes/englishleap/images/english-leap-logo.jpg" alt="English Leap Logo">
         </a>
+		
+        <div style="width:450px; float:right; margin:0 10px 0 0;">
+            <span class="register"> 
+                <a href="http://www.englishleap.com/register" class="sign-up">Register</a>            	<a id="signin-link1" href="#TB_inline?height=230&amp;width=460&amp;inlineId=loginDiv" class="thickbox login-link" onclick="showPopUp();">Login</a>
+            </span>
+            <p class="toll-free-number">+91-11-64690378</p>
+		</div>
 
 		<div class="header-navigation">
             <!-- <div class="site-search">
@@ -153,14 +148,25 @@ function adjustNavigationActiveClass(activeId,applyClassName,removeClassName)
             </div> -->
     
             <ul class="main-nav" id="topnav">
-               <li class="first"><a href="http://www.englishleap.com/home">Home</a></li><li class=""><a href="http://www.englishleap.com/how-it-works">How it Works</a></li><li class=""><a href="http://www.englishleap.com/english-course">Courses</a></li><li class="resources last"><a href="http://www.englishleap.com/resources">Resources</a></li>
+               <li class="first"><a href="http://www.englishleap.com/home">Home</a></li><li class=""><a href="http://www.englishleap.com/how-it-works">How it Works</a></li><li class=""><a href="http://www.englishleap.com/english-course">Plans &amp; Pricing</a></li><li class="last"><a href="http://www.englishleap.com/resources">Resources</a></li>
             </ul>
 		</div>
 
 
     </div>
 </div>
-<!-- End of Header Wrapper -->		<!-- Start of Page Content Wrapper -->
+
+
+<!-- End of Header Wrapper -->
+<script type="text/javascript">
+anyFunctionToExecuteOnClose = true;	
+function functionToExecuteOnClose(){
+	$('#loginDiv').css("display","none");
+}	
+function showPopUp(){
+$('#loginDiv').css("display","");
+}
+</script>		<!-- Start of Page Content Wrapper -->
 		<div id="static-pages">
 			<div class="page-width">				
 			<!-- Content -->
@@ -221,43 +227,51 @@ function adjustNavigationActiveClass(activeId,applyClassName,removeClassName)
 		<!-- End wrapper -->	
         
 		<!-- Footer -->
-        
         <!-- Start of Upper Footer -->
 <div id="footer-keywords">
 	<div class="page-width">
     	<h5>Popular Resources on EnglishLeap.com</h5>
         <ul>
         	<li><a href="http://www.englishleap.com/improve-english">Improve English Communication</a></li>
-            <li><a href="http://www.englishleap.com/other-resources/improve-spoken-english">Improve Spoken English</a></li>
+            <li><a href="http://www.englishleap.com/other-resources/improve-spoken-english">How to Improve Spoken English</a></li>
             <li><a href="http://www.englishleap.com/other-resources/spoken-english-tips">Spoken English Tips</a></li>
             <li><a href="http://www.englishleap.com/other-resources/learn-english-online">Learn English online</a></li>
 
         	<li><a href="http://www.englishleap.com/common-mistakes">Common Mistakes in English</a></li>
             <li><a href="http://www.englishleap.com/vocabulary">English Vocabulary</a></li>
             <li><a href="http://www.englishleap.com/vocabulary/root-words">Root Words</a></li>
+            <li><a href="http://www.englishleap.com/vocabulary/synonyms">Synonyms</a></li>
+            <li><a href="http://www.englishleap.com/vocabulary/antonym">Antonyms</a></li>
+            <li><a href="http://www.englishleap.com/vocabulary/phrasal-verbs">Phrasal Verbs</a></li>
             <li><a href="http://www.englishleap.com/grammar">English Grammar</a></li>
             <li><a href="http://www.englishleap.com/grammar/adjectives">Adjectives</a></li>
             <li><a href="http://www.englishleap.com/grammar/adverbs">Adverbs</a></li>
             <li><a href="http://www.englishleap.com/grammar/articles">Articles</a></li>
             <li><a href="http://www.englishleap.com/grammar/nouns">Nouns</a></li>
             <li><a href="http://www.englishleap.com/grammar/verbs">Verbs</a></li>
+            <li><a href="http://www.englishleap.com/grammar/tenses">Tenses</a></li>
+            <li><a href="http://www.englishleap.com/grammar/prepositions">Prepositions</a></li>
             
 
         	<li><a href="http://www.englishleap.com/punctuation">English Punctuation</a></li>
-            <li><a href="http://www.englishleap.com/other-resources/idioms">English Idioms</a></li>
+            <li><a href="http://www.englishleap.com/other-resources/idioms">Idioms</a></li>
             <li><a href="http://www.englishleap.com/other-resources/learn-english-through-hindi">Learn English Through Hindi</a></li>
             <li><a href="http://www.englishleap.com/other-resources/learn-english-through-tamil">Learn English Through Tamil</a></li>
             <li><a href="http://www.englishleap.com/other-resources/metaphors">Metaphors</a></li>
+            <li><a href="http://www.englishleap.com/other-resources/learn-english-pronunciation">Learn English Pronunciation</a></li>
 
         <!--	<li><a href="http://www.englishleap.com/exercises - any exercise">English Exercises</a></li>
             <li><a href="http://www.englishleap.com/exercises - any other exercise">Practise English</a></li> -->
-            <li><a href="http://www.englishleap.com/career-resources/interview-questions">Interview Questions</a></li>
+            <!--<li><a href="http://www.englishleap.com/career-resources/interview-questions">Interview Questions</a></li> -->
             <li><a href="http://www.englishleap.com/career-resources/10-tips-to-ace-your-interview">Interview Preparation</a></li>
             
             <li><a href="http://www.englishleap.com/career-resources/group-discussion-gd-tips-2">Group Discussion Tips</a></li>
             <li><a href="http://www.englishleap.com/career-resources/resume-writing-tips">Resume Writing Tips</a></li>
+            <li><a href="http://www.englishleap.com/english-lessons">English Lessons</a></li>
+            <li><a href="http://www.englishleap.com/english-tutorial">English Tutorial</a></li>
+            <li><a href="http://www.englishleap.com/exercises">English Exercises</a></li>            
         </ul>
-        <h6><a href="http://www.englishleap.com/">Learn English</a> from the experts-Englishleap is the best online resource to learn English. Join the largest English speaking community on the web and start learning English today!</h6>
+        <h6><a href="http://www.englishleap.com/">Learn English</a> from the experts - Englishleap is the best online resource to learn English. It offers comprehensive <a href="http://www.englishleap.com/english-course">English speaking course</a> to improve your English online.Join the largest English speaking community on the web and start learning English today!</h6>
 	</div>
 </div>
 <!-- End of Upper Footer -->
@@ -268,7 +282,7 @@ function adjustNavigationActiveClass(activeId,applyClassName,removeClassName)
     	<div class="footer-links">
         	<div style="width:100%; float:left;">
                 <ul>
-                    <li class="no-background first"><a href="http://www.englishleap.com/about-us">About us</a></li><li class=""><a href="http://www.englishleap.com/contact">Contact us</a></li><li class=""><a href="http://www.englishleap.com/terms-of-service">Terms of Service</a></li><li class="current"><a href="http://www.englishleap.com/privacy">Privacy</a></li><li class=""><a href="http://www.englishleap.com/careers">Careers</a></li><li class="last"><a href="http://www.englishleap.com/faq">FAQ</a></li>
+                    <li class="no-background first"><a href="http://www.englishleap.com/about-us">About us</a></li><li class=""><a href="http://www.englishleap.com/contact">Contact us</a></li><li class=""><a href="http://www.englishleap.com/terms-of-service">Terms of Service</a></li><li class="current"><a href="http://www.englishleap.com/privacy">Privacy</a></li><li class=""><a href="http://www.englishleap.com/careers">Careers</a></li><li class="last"><a href="http://www.englishleap.com/blog">Blog</a></li>
                 </ul>
                 </div>
             
@@ -279,15 +293,13 @@ function adjustNavigationActiveClass(activeId,applyClassName,removeClassName)
 
         <div class="social-networking">
             <ul>
-                <li class=""><a href="#" onclick="return false;" title="Follow us at Facebook" class="facebook">Facebook.com</a></li>
-                <li><a href="#" onclick="return false;" title="Follow us at Twitter" class="twitter">Twitter.com</a></li>
-                <li><a href="#" onclick="return false;" title="Follow us at LinkedIn" class="linkedin">LinkedIn.com</a></li>
-                <li><a href="#" onclick="return false;" title="Google" class="google">Google</a></li>
+                <li class=""><a href="http://www.facebook.com/englishleap" target="_blank" title="Follow us at Facebook" class="facebook">Facebook.com</a></li>
+                <li><a href="http://www.twitter.com/englishleap" target="_blank" title="Follow us at Twitter" class="twitter">Twitter.com</a></li>
             </ul>
             <h4>Follow Us</h4>
         </div>
 
-        <div class="copyright">© 2011 English Leap, all rights reserved.</div>
+        <div class="copyright">© 2012 EnglishLeap, all rights reserved.</div>
     </div>
 </div>
 <!-- End of Footer Wrapper -->
