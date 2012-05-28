@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmtc.net privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128014100id_/http%3A//nmtc.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmtc.net privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528105727id_/http%3A//nmtc.net/privacy.php) for the most accurate reproduction.*
 
 # nmtc.net
 
