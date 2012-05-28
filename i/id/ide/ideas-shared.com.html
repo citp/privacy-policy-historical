@@ -1,43 +1,40 @@
-<!--The following is the downloaded HTML source of the ideas-shared.com privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209104409id_/http%3A//www.ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideas-shared.com privacy policy that was archived on 2012-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528073934id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<base href="http://www.ideas-shared.com/">
+<base href="http://ideas-shared.com/">
 <meta http-equiv="Content-Type" content="text/html; utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta name="keywords" content="integrated social collaboration, ideas-shared, ideas, challenges, petitions, business, community, individual, make money, save money">
+<meta name="description" content="Introducing the amazing new Ideas-Shared system helping you achieve more through inspired and effective collaboration.">
 <title>Ideas-Shared.com - Privacy Policy</title>
 
-<link rel="stylesheet" type="text/css" href="http://www.ideas-shared.com/assets/templates/is/css/ie.css">
-<link rel="stylesheet" type="text/css" href="http://www.ideas-shared.com/2/engine1/style.css" title="main">
+<link rel="stylesheet" type="text/css" href="http://ideas-shared.com/assets/templates/is/css/ie.css">
+<link rel="stylesheet" type="text/css" href="http://ideas-shared.com/2/engine1/style.css" title="main">
 <style type="text/css">a#vlb{display:none}</style>
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.ideas-shared.com/assets/templates/is/js/jquery.1.4.2.min.js"></script>
-<script type="text/javascript" src="http://www.ideas-shared.com/assets/templates/is/js/jquery-ui-1.8.9.custom.min.js"></script>
-<script type="text/javascript" src="http://www.ideas-shared.com/assets/templates/is/js/jquery.cookies.js"></script>
-<script type="text/javascript" src="http://www.ideas-shared.com/assets/templates/is/js/tScripts.js"></script>
-<script type="text/javascript" src="http://www.ideas-shared.com/2/engine1/wowslider.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="assets/templates/is/js/jquery.1.4.2.min.js"></script>
+<script type="text/javascript" src="assets/templates/is/js/jquery-ui-1.8.9.custom.min.js"></script>
+<script type="text/javascript" src="assets/templates/is/js/jquery.cookies.js"></script>
+<script type="text/javascript" src="assets/templates/is/js/tScripts.js"></script>
+<script type="text/javascript" src="2/engine1/wowslider.js"></script>
 <script type="text/javascript">
-function GetCallUrl()
-{
-	var prefix=document.location.href.substring(0,document.location.href.toLowerCase().indexOf('ideas-shared.com'));
-	return prefix+"ideas-shared.com/";
 
-}
 $(function(){
-
-
-
-
 								  
 if($.cookie('is-remember-info')=='1')
 {
   $('#rememberMyInfo').attr('checked',true);
-  $('#loginUsername').val( $.cookie('is-remember-username'));
+  $('#loginUsername').val($.cookie('is-remember-username'));
   $('#loginPassword').val($.cookie('is-remember-password'));
 }
 $('#login-button').click(function()
 {
-	if($('#loginUsername').val()==''||$('#loginUsername').val()=='Username')
+   MemberLogin();	
+});});
+function MemberLogin()
+{
+   if($('#loginUsername').val()==''||$('#loginUsername').val()=='Username')
 		alert('Please provide your username.');
 	else if($('#loginPassword').val()==''||$('#loginPassword').val()=='Password')
 		alert('Please provide your password.');
@@ -52,22 +49,20 @@ $('#login-button').click(function()
 		$('#login-button').hide();	
 		$('#login-status').show();
 		$('.login-fields').attr('disabled',true);
-		$.post(GetCallUrl()+'index.php?id=338',{service:'login',returnUrl:'',password:$('#loginPassword').val(),username:$('#loginUsername').val()},function(data)
+		$.post('index.php?id=338',{service:'login',returnUrl:'',password:$('#loginPassword').val(),username:$('#loginUsername').val()},function(data)
 		{
 			if(data.indexOf('error')>0)
 			{
 				alert("Your account could not be located.  Make sure you typed your username and password correctly and try again.");
 				$('.login-fields').attr('disabled',false);
 				$('#login-status').hide();
-				$('#login-button').show();
-                              
+				$('#login-button').show();                              
 			}
 			else
-                document.location='index.php?id=96';
+                document.location='index.php?id=2';
 		});
 	}
-});});
-
+}
 </script>
 </head>
 <body>
@@ -90,28 +85,30 @@ $('#login-button').click(function()
 <!-- <input type="text" style="width:120px;margin-right:10px;" id="loginPassword" value="Password" class="login-fields" onfocus="if($(this).attr('type')=='text'){$(this).val(''); this.type='password';}" /> -->
 <input type="password" style="width:120px;margin-right:10px;" id="loginPassword" value="Password" class="login-fields" onfocus="if(this.value=='Password'){$(this).val('');}">
 
-<button id="login-button" style="cursor:pointer;">Login</button> &nbsp;<a href="index.php?id=368">Forgot password?</a>
-<img src="http://www.ideas-shared.com/assets/templates/is/images/loading.gif" id="login-status" style="display:none;">
+<button id="login-button" style="cursor:pointer;" onclick="MemberLogin();">Login</button> &nbsp;<a href="index.php?id=368">Forgot password?</a>
+<img src="http://ideas-shared.com/assets/templates/is/images/loading.gif" id="login-status" style="display:none;">
 <div style="clear:both;"></div>
 <span id="remember-me"><input type="checkbox" id="rememberMyInfo">&nbsp;Remember me</span>
 </div>
 <div style="clear:both;padding-bottom:20px;"></div>
 <ul class="main-menu">
-<li class=""><a href="index.php?id=1" title="Home">Home</a> <ul><li id="hm398" class="first"><a href="index.php?id=398" title="More Info">More Info</a></li></ul> </li>
-<li class=""><a href="index.php?id=386" title="What Is..">What Is</a> <ul><li id="hm355" class="first"><a href="index.php?id=355" title="Modules">Modules</a></li><li id="hm372"><a href="index.php?id=372" title="Screenshots">Screenshots</a></li><li id="hm20" class="last"><a href="index.php?id=20" title="Rewards">Rewards</a></li></ul> </li>
-    <li class=""><a href="index.php?id=174" title="Why Join..">Why Join</a> <ul><li id="hm179" class="first"><a href="index.php?id=179" title="Individuals &amp; Families">Individuals &amp; Families</a></li><li id="hm181"><a href="index.php?id=181" title="Communities">Communities</a></li><li id="hm184"><a href="index.php?id=184" title="Business">Business</a></li><li id="hm371" class="last"><a href="index.php?id=371" title="No Idea? - No Problem!">No Idea? - No Problem!</a></li></ul> </li>
-    <li class=""><a href="index.php?id=158" title="How it Works..">Examples</a> <ul><li id="hm168" class="first"><a href="index.php?id=168" title="Custom Modules">Custom Modules</a></li><li id="hm350"><a href="index.php?id=350" title="Custom Module Usage">Custom Module Usage</a></li><li id="hm213" class="last"><a href="index.php?id=213" title="Custom Module Landing Pages">Custom Landing Pages</a></li></ul> </li>
-<li class=""><a href="index.php?id=370" title="About Us..">About Us</a> <ul><li id="hm172" class="first"><a href="index.php?id=172" title="Meet The Team">Meet The Team</a></li><li id="hm110"><a href="index.php?id=110" title="Press">Press</a></li><li id="hm106"><a href="index.php?id=106" title="News">News</a></li><li id="hm107"><a href="index.php?id=107" title="Link To Us">Link To Us</a></li><li id="hm39" class="last"><a href="index.php?id=39" title="Contact Us">Contact Us</a></li></ul> </li>
+<li class=""><a href="index.php?id=1" title="Home">Home</a>  </li>
+<li class=""><a href="index.php?id=486" title="About Ideas-Shared">About</a> <ul><li id="hm531" class="first"><a href="index.php?id=531" title="How It Works">How It Works</a></li><li id="hm430"><a href="index.php?id=430" title="Toolkit &amp; Upgrades">Toolkit &amp; Upgrades</a></li><li id="hm355"><a href="index.php?id=355" title="Tour">Tour</a></li><li id="hm548" class="last"><a href="index.php?id=548" title="Practical User Guides">Practical User Guides</a></li></ul> </li>
+<li class=""><a href="index.php?id=174" title="Why Join">Why Join</a> <ul><li id="hm20" class="first"><a href="index.php?id=20" title="Rewards">Rewards</a></li><li id="hm413"><a href="index.php?id=413" title="Publications">Publications</a></li><li id="hm412" class="last"><a href="index.php?id=412" title="Consulting">Consulting</a></li></ul> </li>
+<li class=""><a href="index.php?id=92" title="Who is Ideas-Shared For?">Our Members</a> <ul><li id="hm179" class="first"><a href="index.php?id=179" title="Family, Friends and You">Family, Friends &amp; You</a></li><li id="hm181"><a href="index.php?id=181" title="Communities">Communities</a></li><li id="hm182"><a href="index.php?id=182" title="Schools &amp; Universities">Schools &amp; Universities</a></li><li id="hm184"><a href="index.php?id=184" title="Business">Business</a></li><li id="hm580"><a href="index.php?id=580" title="Charities">Charities</a></li><li id="hm186" class="last"><a href="index.php?id=186" title="Environment">Environment</a></li></ul> </li>
+<li class=""><a href="index.php?id=158" title="Groups">Groups</a> <ul><li id="hm168" class="first"><a href="index.php?id=168" title="Your Groups">Your Groups</a></li><li id="hm350"><a href="index.php?id=350" title="More Group Uses">More Group Uses</a></li><li id="hm213"><a href="index.php?id=213" title="Group Landing Pages">Group Landing Pages</a></li><li id="hm429" class="last"><a href="index.php?id=429" title="Join A group">Join A Group</a></li></ul> </li>
+<li class=""><a href="index.php?id=370" title="Our Story">Our Story</a> <ul><li id="hm172" class="first"><a href="index.php?id=172" title="Meet The Team">Meet The Team</a></li><li id="hm110"><a href="index.php?id=110" title="Press Items">Press Items</a></li><li id="hm106"><a href="index.php?id=106" title="News">News</a></li><li id="hm107"><a href="index.php?id=107" title="Affiliate Program">Affiliate Program</a></li><li id="hm39" class="last"><a href="index.php?id=39" title="Contact Us">Contact Us</a></li></ul> </li>
     <li class=""><a href="index.php?id=7" title="Help">Help</a> <ul><li id="hm40" class="first"><a href="index.php?id=40" title="FAQ">FAQ</a></li><li id="hm159"><a href="index.php?id=159" title="Hints &amp; Tips">Hints &amp; Tips</a></li><li id="hm45" class="last"><a href="index.php?id=45" title="Online Support">Online Support</a></li></ul> </li>
-<li class=""><a href="http://www.ideas-shared.com/blogger/index.php" title="Founders Blog">Blog</a>  </li>
-<li class=""><a href="http://www.ideas-shared.com/blogger/rss-feed.html" title="RSS Feed">RSS</a>  </li>
 </ul>
 <div style="clear:both;"></div>
 </div>
 </div>
 <div id="content">
 <div id="join-form">
-<br>
+<center>
+<a href="http://www.facebook.com/pages/Ideas-Shared/147551751985239?sk=app_106171216118819"><img src="http://ideas-shared.com/assets/templates/is/images/facebook.png"></a><a href="http://twitter.com/IdeasShared"><img src="http://ideas-shared.com/assets/templates/is/images/twitter.png"></a><a href="http://ideas-shared.com/blogger/rss-feed.html"><img src="http://ideas-shared.com/assets/templates/is/images/rsslogo.png"></a></center>
+<center><a href="index.php?id=431" title="Ideas-Shared is an advanced site that should only be browsed using advanced browsers such as Mozilla Firefox, Safari or Google Chrome. To learn more please click here. Thank you for your support and understanding."><h5>Recommended Browsers</h5></a>
+
 <h2>SIGN UP FREE</h2>
 <script type="text/javascript">
   function ProcessSignup()
@@ -136,7 +133,7 @@ $('#login-button').click(function()
 
    }
 </script>
-<form class="form" action="index.php?id=339" method="post" id="registrationForm" name="registrationForm"><input type="hidden" name="nospam:blank" value="">
+<center><form class="form" action="index.php?id=339" method="post" id="registrationForm" name="registrationForm"><input type="hidden" name="nospam:blank" value="">
 <label for="username">Username
 </label> <input type="text" name="username:required:minLength=6" id="username" value="">
 <label for="password">Password
@@ -150,13 +147,17 @@ $('#login-button').click(function()
   
    <label for="privacy"><input name="privacy:required" id="privacy" type="checkbox" value="yes">Agree to <a href="index.php?id=14" targer="_blank">Privacy Policy</a></label>
 <div style="clear:both;padding-bottom:10px;"></div>
-<div class="blue-button" id="registerNowButton" onclick="ProcessSignup();">Join Now!</div>
+<div class="blue-button" id="registerNowButton" title="Click to join Ideas-Shared. We recommend you do not use Internet Explorer. Please use Mozilla Firefox, Safari or Chrome when signing up or browsing our site. Thank you." onclick="ProcessSignup();">Join Now!</div>
 </form>
+</center>
 <br>
-<br><br>
+<center><a href="index.php?id=409"><img src="images/facebook-login.png" height="30" width="80" title="Please click here to signup or login using Facebook."></a></center>
 <br>
 <br>
-</div>
+<center><h6>Free PDF Download:<br><br>“Helping You Make Money<br>... Save Money...<br>Or Simply Change<br>Your World!”<br><br>Read it Now!</h6>
+<a href="http://ideas-shared.com/iseasy.pdf"><img border="1" img="" src="images/iseasy.png" width="200"></a>
+<h6><p>12 Pages 968KB</p></h6></center>
+</center></div>
 <div id="sections">
 <h1>Privacy Policy</h1>
 
@@ -331,8 +332,9 @@ $('#login-button').click(function()
 <div id="footer" style="">
 
 <div style="text-align:center;">
-<a href="http://www.ideas-shared.com/blogger">Founders Blog</a>
-<a href="http://www.ideas-shared.com/support">Online Support</a>
+<a href="index.php?id=107">Affiliate Program</a>
+<a href="http://ideas-shared.com/blogger">Founders Blog</a>
+<a href="http://ideas-shared.com/support">Online Support</a>
 <a href="index.php?id=39">Contact Us</a>
 <a href="index.php?id=107">Link to Us</a>
 <a href="index.php?id=13">Terms of Use</a>
@@ -340,18 +342,18 @@ $('#login-button').click(function()
 </div>
 
 <div id="social-links">
-<a href="https://www.facebook.com/pages/Ideas-Shared/147551751985239?v=app_4949752878">
-<img src="http://www.ideas-shared.com/assets/templates/is/images/facebook.png" align="right">
+<a href="http://www.facebook.com/pages/Ideas-Shared/147551751985239?sk=app_106171216118819">
+<img src="http://ideas-shared.com/assets/templates/is/images/facebook.png" align="right">
 </a>
 <a href="http://twitter.com/IdeasShared">
-<img src="http://www.ideas-shared.com/assets/templates/is/images/twitter.png" align="right">
+<img src="http://ideas-shared.com/assets/templates/is/images/twitter.png" align="right">
 </a>
-<a href="http://www.ideas-shared.com/blogger/rss-feed.html">
-<img src="http://www.ideas-shared.com/assets/templates/is/images/rsslogo.png" align="right"></a>
+<a href="http://ideas-shared.com/blogger/rss-feed.html">
+<img src="http://ideas-shared.com/assets/templates/is/images/rsslogo.png" align="right"></a>
 </div>
 
 <div style="clear:both;padding-bottom:10px;"></div>
-<div id="copyright">Copyright © Ideas-Shared.Com. A Division of Internet-Shared Ltd 2011. All Rights Reserved.</div>
+<div id="copyright">Copyright © Ideas-Shared.Com. A Division of Internet-Shared Ltd 2011 - 2012. All Rights Reserved.</div>
 
 </div>
 
