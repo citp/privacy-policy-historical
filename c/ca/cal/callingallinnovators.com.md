@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callingallinnovators.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127212958id_/http%3A//www.nokia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callingallinnovators.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528080353id_/http%3A//www.nokia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Nokia - Nokia.com
 
@@ -18,15 +18,21 @@ Third party services installed on your device may allow access to information av
 
 We collect your personal data typically when you make a purchase, use or register into our products and services, take part in a campaign or otherwise interact with us. Below are examples of the categories of data we collect.
 
-·         **_Your use of our products and services_** When you use our products and services your IP-address, access times, the website you linked from, pages you visit, the links you use, the content you viewed and other such information your browser provides us with is automatically collected by Nokia. Some of our mobile services may collect your unique mobile device identifiers, subscriber identity information, network service provider specific identifiers, network settings and other such information. When you use our products and services or otherwise interact with us over telecommunications networks, certain additional information, such as your mobile subscription number, may be transmitted to us by your mobile network provider.
+### Your use of our products and services
 
-·         **_Information you provide us with_** We may ask you to provide us with information such as your name, email address, street address, user names and passwords, your consents, preferences and feedback, information relating to your devices, age, gender, postal code and language preferences. Please note that certain non-identifiable information collected from you may become personally identifiable when you provide us with your personal data. We may also obtain, in accordance with applicable law, some personal data from list-rental companies and other such publicly available sources. Some of our services may allow you to submit information about other people, for example, if you make an order for a product that you wish us to send directly to another recipient.
+When you use our products and services your IP-address, access times, the website you linked from, pages you visit, the links you use, the content you viewed and other such information your browser provides us with is automatically collected by Nokia. Some of our mobile services may collect your unique mobile device identifiers, subscriber identity information, network service provider specific identifiers, network settings and other such information. When you use our products and services or otherwise interact with us over telecommunications networks, certain additional information, such as your mobile subscription number, may be transmitted to us by your mobile network provider
 
-·         **_Your transactions with us_** We collect information relating to your purchase and use of our products and services and your other interactions with us. Such information may include details of the queries or requests you have made, the products and services provided, delivery details, bank account number, credit card details, billing address, credit checks and other such financial information, details of agreements between you and Nokia, records of contacts and communications, information and details relating to the content you have provided us with and other such transactional information. We may, in accordance with applicable law, record your communication with our customer care or with other such contact points.
+### Information you provide us with
 
-  *  ** _Location data_** Nokia’s location based services and features may use satellite, Wi-Fi or other network based location data, for example your IP-address. Assisted positioning methods of the device, for example Assisted GPS, provide you with faster and more accurate location data. Use of assisted positioning methods may involve exchanging your location data, wireless network identifiers along with your unique device or network service provider identifiers with a location server. Nokia processes this information anonymously. Depending on your positioning settings and your use of location services of other service providers your device may connect to other service providers’ servers, which are not controlled or operated by Nokia. We recommend you to check the privacy policies of such service providers to understand how they process your location data. You can modify the positioning settings of your device from the device settings, for example change or disable positioning methods or location servers or modify the accuracy of your location data.
+We may ask you to provide us with information such as your name, email address, street address, user names and passwords, your consents, preferences and feedback, information relating to your devices, age, gender, postal code and language preferences. Please note that certain non-identifiable information collected from you may become personally identifiable when you provide us with your personal data. We may also obtain, in accordance with applicable law, some personal data from list-rental companies and other such publicly available sources. Some of our services may allow you to submit information about other people, for example, if you make an order for a product that you wish us to send directly to another recipient
 
+### Your transactions with us
 
+We collect information relating to your purchase and use of our products and services and your other interactions with us. Such information may include details of the queries or requests you have made, the products and services provided, delivery details, bank account number, credit card details, billing address, credit checks and other such financial information, details of agreements between you and Nokia, records of contacts and communications, information and details relating to the content you have provided us with and other such transactional information. We may, in accordance with applicable law, record your communication with our customer care or with other such contact points
+
+### Location data
+
+Nokia’s location based services and features may use satellite, Wi-Fi or other network based location data, for example your IP-address. Assisted positioning methods of the device, for example Assisted GPS, provide you with faster and more accurate location data. Use of assisted positioning methods may involve exchanging your location data, wireless network identifiers along with your unique device or network service provider identifiers with a location server. Nokia processes this information anonymously. Depending on your positioning settings and your use of location services of other service providers your device may connect to other service providers’ servers, which are not controlled or operated by Nokia. We recommend you to check the privacy policies of such service providers to understand how they process your location data. You can modify the positioning settings of your device from the device settings, for example change or disable positioning methods or location servers or modify the accuracy of your location data.
 
 Nokia offers various location based services and features that may require the use of your location data. For example when you make a location based search, use location enhanced weather features or request for map data, your location data may be sent to Nokia to serve you with the right content. This may also include location based advertizing. Some location based services may allow you to associate your personal data with your location. To learn more about available location based services and features, please refer to instructions and other support material for our products and services.
 
@@ -34,13 +40,21 @@ Nokia offers various location based services and features that may require the u
 
 Nokia may process your personal data for the following purposes. Please note that one or more purposes may apply simultaneously.
 
-·         **_Providing products and services_** We may use your personal data to provide you with our products and services, to process your order or as otherwise may be necessary to perform the contract between you and Nokia, to ensure the functionality and security of our products and services, to identify you as well as to prevent and investigate fraud and other misuses.
+### Providing products and services
 
-·         **_Developing products and services_** We may use your personal data to develop our products and services. However, for the most part we only use aggregate and statistical information for such purposes. We may combine personal data collected in connection with your use of a particular Nokia product and/or service with other personal data we may hold about you, unless such personal data was collected for a different purpose.
+We may use your personal data to provide you with our products and services, to process your order or as otherwise may be necessary to perform the contract between you and Nokia, to ensure the functionality and security of our products and services, to identify you as well as to prevent and investigate fraud and other misuses.
 
-·         **_Communicating with you_** We may use your personal data to communicate with you, for example to send you critical alerts and other such notices relating to our products and/or services and to contact you for consumer care related purposes.
+### Developing products and services
 
-·         **_Marketing and making recommendations_** We may use your personal data to personalize our offering and to provide you with more relevant services, for example, to make recommendations and to display customized content and advertising in our services. This may include displaying Nokia and third party content. We may use your personal data for direct marketing or research purposes, for example, to conduct market research and we may, in accordance with applicable law, contact you to inform you of new products, services or promotions we may offer.
+We may use your personal data to develop our products and services. However, for the most part we only use aggregate and statistical information for such purposes. We may combine personal data collected in connection with your use of a particular Nokia product and/or service with other personal data we may hold about you, unless such personal data was collected for a different purpose.
+
+### Communicating with you
+
+We may use your personal data to communicate with you, for example to send you critical alerts and other such notices relating to our products and/or services and to contact you for consumer care related purposes.
+
+### Marketing and making recommendations
+
+We may use your personal data to personalize our offering and to provide you with more relevant services, for example, to make recommendations and to display customized content and advertising in our services. This may include displaying Nokia and third party content. We may use your personal data for direct marketing or research purposes, for example, to conduct market research and we may, in accordance with applicable law, contact you to inform you of new products, services or promotions we may offer.
 
 ## First use of your Nokia device
 
@@ -50,19 +64,29 @@ Depending on your device a Nokia Account may be created for you or you may need 
 
 We do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.
 
-·         **_Your consent and social sharing services_** We may share your personal data if we have your consent to do so. Some services may allow you to share your personal data with other users of the service or with other services and their users. Please consider carefully before disclosing any personal data or other information that might be accessible to other users.
+### Your consent and social sharing services
 
-·         **_Nokia companies and authorized third parties_** We may share your personal data with other Nokia companies or authorized third parties who process personal data for Nokia for the purposes described in this Policy. This may include for example billing through your network service provider or otherwise, delivery of your purchases, providing services including customer service, managing and analyzing consumer data, credit checks, conducting market research and managing marketing and other such campaigns. When you purchase a Nokia product from us with a network service provider plan, we may need to exchange information with your network service provider to provide you with such service.
+We may share your personal data if we have your consent to do so. Some services may allow you to share your personal data with other users of the service or with other services and their users. Please consider carefully before disclosing any personal data or other information that might be accessible to other users.
+
+### Nokia companies and authorized third parties
+
+We may share your personal data with other Nokia companies or authorized third parties who process personal data for Nokia for the purposes described in this Policy. This may include for example billing through your network service provider or otherwise, delivery of your purchases, providing services including customer service, managing and analyzing consumer data, credit checks, conducting market research and managing marketing and other such campaigns. When you purchase a Nokia product from us with a network service provider plan, we may need to exchange information with your network service provider to provide you with such service.
 
 We may conduct joint marketing and other communications with our partners, for example your mobile operator. To avoid duplicate or unnecessary communications and to tailor the message to you we may need to match information that Nokia has collected with information that the partner has collected where this is permitted by law. 
 
 These authorized third parties are not permitted to use your personal data for any other purposes. We require them to act consistently with this Policy and to use appropriate security measures to protect your personal data.
 
-·         **_International transfers of personal data_** Our products and services may be provided using resources and servers located in various countries around the world. Therefore your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America. In such cases we take steps to ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard agreements approved by relevant authorities (where necessary) and by requiring the use of other appropriate technical and organizational information security measures.
+### International transfers of personal data
 
-·         **_Mandatory disclosures_** We may be obligated by mandatory law to disclose your personal data to certain authorities or other third parties, for example, to law enforcement agencies in the countries where we or third parties acting on our behalf operate. We may also disclose and otherwise process your personal data in accordance with applicable law to defend Nokia’s legitimate interests, for example, in civil or criminal legal proceedings.
+Our products and services may be provided using resources and servers located in various countries around the world. Therefore your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America. In such cases we take steps to ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard agreements approved by relevant authorities (where necessary) and by requiring the use of other appropriate technical and organizational information security measures.
 
-·         **_Mergers and Acquisitions_** If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers.
+### Mandatory disclosures
+
+We may be obligated by mandatory law to disclose your personal data to certain authorities or other third parties, for example, to law enforcement agencies in the countries where we or third parties acting on our behalf operate. We may also disclose and otherwise process your personal data in accordance with applicable law to defend Nokia’s legitimate interests, for example, in civil or criminal legal proceedings.
+
+### Mergers and Acquisitions
+
+If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers.
 
 ## How Do We Address The Privacy of Children?
 
@@ -76,7 +100,7 @@ As certain Nokia products and services may allow you to manage your profile, we 
 
 ## What Steps Are Taken To Safeguard Personal Data?
 
-Privacy and security are key considerations in the creation and delivery of our products and services. We have assigned specific responsibilities to address privacy and security related matters. We enforce our internal policies and guidelines through an appropriate selection of activities, including proactive and reactive risk management, security engineering, training and assessments. We take appropriate steps to address online security, physical security, risk of data loss and other such risks taking into consideration the risk represented by the processing and the nature of the data being protected. Also, we limit access to our data bases containing personal data to authorized persons having a justified need to access such information.
+Privacy and security are key considerations in the creation and delivery of our products and services. We have assigned specific responsibilities to address privacy and security related matters. We enforce our internal policies and guidelines through an appropriate selection of activities, including proactive and reactive risk management, security engineering, training and assessments. We take appropriate steps to address online security, physical security, risk of data loss and other such risks taking into consideration the risk represented by the processing and the nature of the data being protected. Also, we limit access to our data bases containing personal data to authorized persons having a justified need to access such information. 
 
 ## How Do We Use Cookies and Web Beacons?
 
