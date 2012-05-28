@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217042543id_/http%3A//www.womenshealth.gov/about-us/website-policies/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528055515id_/http%3A//www.womenshealth.gov/about-us/website-policies/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy policy | womenshealth.gov
 
