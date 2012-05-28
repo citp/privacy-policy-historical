@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010414id_/http%3A//www.avforums.com/forums/view_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528083843id_/http%3A//www.avforums.com/forums/view_privacy_policy.htm) for the most accurate reproduction.*
 
-# AVForums.com Privacy Policy
+# Privacy Policy
 
 **Terms of Use  
 **  
@@ -32,11 +32,11 @@ M2N Limited/AVForums.com does not disclose your personally identifying informati
 
 It's also important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number) in a posting on the forum, that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the offering of any personally identifying information within the message board itself.
 
-**Privacy for Children Aged 12 and Under  
+**Privacy for Children  
 **  
-Although the M2N Limited websites are generally targeted at an adult audience, we welcome the participation of younger users with their parents' consent. We strongly recommend that users 12 and under refrain from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children.
+Although the M2N Limited websites are generally targeted at an adult audience, we welcome the participation of younger users with their parents' consent. We strongly recommend that users under 18 years of age refrain from offering any personal information either in their user profile or in the forums themselves, and we encourage parents to stay involved in the online life of their children.
 
-M2N Limited complies fully with the UK data protection act. The personal data we store about AVForums member (limited to their email address and date of birth in most cases) is used only for internal purposes and therefore we are not obliged to notify the Information Commissioner's Office.
+M2N Limited complies fully with the UK data protection act. The personal data we store about AVForums members (limited to their email address and date of birth in most cases) is used only for internal purposes and therefore we are not obliged to notify the Information Commissioner's Office.
 
 **Changing or Updating Personal Information  
 **  
