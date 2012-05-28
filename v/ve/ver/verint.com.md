@@ -1,147 +1,151 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121010751id_/http%3A//verint.com/corporate/section2a.cfm%3Farticle_level2_category_id%3D3%26article_level2a_id%3D204) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528203505id_/http%3A//verint.com/corporate/section2a.cfm%3Farticle_level2_category_id%3D3%26article_level2a_id%3D204) for the most accurate reproduction.*
 
-# Privacy Policy : Legal : About Verint : Verint
+# Verint Privacy Policy : Legal : About Verint : Verint
 
-Last revised: December 22, 2009
+Last revised: May 2012
 
-Verint Systems Inc. and its [subsidiaries](http://verint.com/corporate/section2a.cfm?article_level2_category_id=15&article_level2a_id=211) (collectively, " **Verint** ," " **we** , " **us** ") share your concerns about the protection of your personal information online.  This Privacy Policy (the " **Policy** ") describes our practices regarding the collection and use of information through our websites, including our partner and customer extranets, where this Policy is posted (collectively, the " **Site** ").  By providing personal information to us, you signify your agreement to the terms and conditions of this Policy. If you do not agree to this Policy, please do not provide us with any personal information.
+Verint Systems Inc. and its [subsidiaries](http://www.sec.gov/Archives/edgar/data/1166388/000110465912023217/a12-2869_1ex21d1.htm) (collectively, “Verint”) are concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the "Site") as well as certain information we collect from offline sources, as explained in more detail below. By providing Personal Information (defined below) to us, you agree to the terms and conditions of this Privacy Policy.
 
-In some cases, specific Verint websites may contain other notices about their collection, use and disclosure of information. To the extent that those notices conflict with this Policy, website specific policy will control. 
+If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click <http://verint.com/corporate/careers_list.cfm> to review our privacy policy for job seekers who apply for jobs through the Site.
 
-Please note that Verint reviews its privacy practices from time to time, and that those practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. You can determine when this Policy was last revised by checking the "Last revised" legend at the top of the Policy.  Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. 
+Verint complies with the U.S. - E.U. and US- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Information regarding the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. A copy of Verint's Safe Harbor policy can be found at: <http://verint.com/safeharbor>.
 
-**The Information We Gather.**
+**Personal Information We Collect**
 
-Verint gathers three types of information: 
+"Personal Information **"** is information that identifies you as an individual, such as:
 
-**(1) Personal information:**  Personal information is information that identifies a person as an individual.  You do not have to provide personal information to us; however; particular services made available through the Site may require us to collect personal information from you. We collect personal information from you, such as, your first name, surname, street address, email address and telephone number, as well as your business contact information, and, if applicable, your credit card information or other payment information. This information is collected when registering for services, when submitting an inquiry or request form to us through the Site, when logging a ticket for maintenance and/or services or when registering to use and post on forums or blogs we may provide.  
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Organization and job title or function
+  * Login ID, PIN or other Password for access to certain content on the Site
 
-Verint may merge personal information collected about you offline, such as business contact information that we receive in connection with sales presentations, information regarding purchase history or information gathered when you attend a trade shows, seminar or other business events, with personal information about you that we collect through the Site and that is stored in our databases. If we do merge offline personal information with personal information about you that we collect through the Site, all such personal information shall be treated in accordance with this Policy.
 
-In some cases, you may provide us with personal information about another person, such as of a colleague, partner or customer. By providing us with personal information about another person, you represent that you have obtained the consent of the person whose personal information you are providing to us. 
 
-**(2) Non-personal information:**  Non-personal information is aggregated information, demographic information, and any other information that does not reveal a person’s specific identity. When visitors come to our Site, we and our service providers collect and aggregate information indicating, among other things, which pages of the Site were visited, the order in which they were visited and which hyperlinks were "clicked".  Collecting such information involves the logging of the operating system and browser software used by each visitor to the Site.
+We may merge Personal Information collected through the Site with Personal Information that we collect about you offline, such as business contact information that we receive in connection with sales presentations, your e-mails to us or your purchases from us, information gathered when you attend a trade show, seminar or other business event, or information provided by your employer if your company enrolls you in a training event. All such merged Personal Information will be treated in accordance with this Privacy Policy.
 
-We may also collect non-personal information when you voluntarily provide it to us, such as information concerning your business or areas of interest. Also, when we collect personal information from you in a transaction, inquiry, request or visit, we may extract some non-personal information about that event and combine it with other non-personal information such as clickstream data. This information is used to help us understand trends and patterns. Such information constitutes non-personal information because, unless combined with personal information, it does not personally identify you or any other user. 
+We use third-party payment services ("Payment Service") to collect payments for purchases made through the Site. If you wish to make a payment through the Site, you will be directed to a webpage that is hosted by the Payment Service (or the Payment Service's service providers) and not by Verint. Any Personal Information that you provide through the Payment Service's webpage will be collected by Payment Service and not by us, and will be subject to Payment Service's privacy policy, rather than this Privacy Policy. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH PAYMENT SERVICES.
 
-We also use "cookies" to help us determine, for example, the type of content and sites to which a visitor to the Site links, the length of time each visitor spends at any particular area of the Site and the Verint services visitors choose to use. A cookie is a piece of data that a website can send to your browser, which may then be stored by your browser on your computer and may identify, for example, your preferences. Cookies allow Verint to serve you better and more efficiently, and to personalize your experience at the Site.  The Site may also use web beacons, pixel tags, clear GIFs or other technologies to better tailor the Site to provide better customer service. These technologies often work in conjunction with cookies. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser.  If you do not want information collected through the use of cookies, there is a procedure in most browsers that allows you to decline the use of cookies. For more information on how to do so, please refer to the documentation accompanying your browser. To learn more about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/).
+**How We Use Personal Information**
 
-**(3)  IP addresses:** Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time(s) of such visit(s) and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. It may be possible to determine from an IP address a visitor’s ISP and the geographic location of his or her point of connectivity.  
+We may use Personal Information:
 
-**How We Use and Disclose Information We Gather.**
+  * To respond to your inquiries and fulfill your requests, such as to send you e-mail alerts, white papers or information about our company, products and services.
+  * To send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
+  * To complete and fulfill your purchase, for example, to have your order delivered to you, to provide you with the products and services you request, to communicate with you regarding your purchase and provide you with related customer service.
+  * To allow you to register for or take advantage of various opportunities, such as enrolling in online and classroom training; submitting online tickets for support or other services; participating in forums, blogs or other interactive features; or applying for your organization to become a Verint Systems partner.
+  * To send you marketing communications that we believe may be of interest to you.
+  * To allow you to provide feedback in a customer satisfaction survey or for market research purposes.
+  * To personalize your experience on the Site by presenting products and offers tailored to you.
+  * To administer and develop our business relationship with you and the organization you represent, if you represent one of our customers, business partners or prospective customers or partners.
+  * For our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-Please take some time to familiarize yourself with the different ways Verint uses the information that it gathers. 
 
-**(1) Personal information:**
 
-_Transactions_
+**How Personal Information is Disclosed**
 
-. Verint may use and disclose your personal information to fulfill your requests and complete transactions with you. If you request something through the Site, for example, a product or service, a callback, or specific marketing materials, we will use your personal information to fulfill your request.  To help us do this, we may share information, with others, for instance, our affiliates, business partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment of such transactions.  
+Your Personal Information may be disclosed:
 
-_Purchases_
+  * To our [affiliates](http://www.sec.gov/Archives/edgar/data/1166388/000110465912023217/a12-2869_1ex21d1.htm) for the purposes described in this Privacy Policy. Verint Systems Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
+  * To business partners, if you choose to purchase products and services from us that include or require products and services of our business partners (such as integration services), to enable them to provide the applicable products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH BUSINESS PARTNERS.
+  * To identify you to anyone to whom you send messages through the Site.
+  * To third party distributors that we ask to follow-up on requests from you.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Site.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-. If you choose to make a purchase from us, we may use your personal information and we may share your personal information with our third party service providers to complete your purchase, including, without limitation, to process your credit card or other payment information.
 
-_Surveys_
 
-. We may contact you to request that you complete a customer satisfaction survey or for market research purposes. If you do not wish to receive surveys or be contacted for market research purposes, you may opt-out of receiving future requests by following the opt-out instructions in the applicable communication or by opting-out out as indicated below in the “Opt-Out” section. 
+**Other Information We Collect**
 
-_Marketing_
+"Other Information" is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
 
-. Verint may use your personal information to send informational and promotional materials to you.  Our electronic marketing communications provide the customer with a method of "opting out" of receiving future electronic marketing communications of a similar nature. You may also opt-out from receiving electronic marketing communications as set forth in the “Opt-Out” section below.
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-_Correspondence_
 
-. If you contact us by email, we may keep a record of your contact information and correspondence, and reserve the right to use your email address, and any information you provide in your message, to respond. In addition, from time to time we may email important information regarding the use of the Site or services, or other administrative information, to people who have provided us with their email addresses. Because this information may be important, it is not possible to "opt out" of receiving these emails. 
 
-_Messages to Friends_
+**How We Collect Other Information**
 
-.  We may provide functionality to permit you to send messages regarding Site-related content to a friend through the Site. If you wish to use this feature, we will use your friend’s name and e-mail address so that we can facilitate your sending of the message to your friend. Please note that any personal information you provide in connection with the sending of this message to your friend, such as your name and your e-mail address, will, of course, be disclosed to your friend.
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-_Social Media Channels_
+  * **Through your browser** : Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version. We use this information to ensure that our Site functions properly.
+  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences and Verint services visitors choose to use. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while visiting the Site, as well as for online tracking purposes. We can recognize your computer to assist your use of the Site. We also gather statistical information about the usage of the Site in order to continually improve the design and functionality, understand how customers use the Site and to assist us with resolving questions regarding the Site. 
 
-. Verint may provide social, business and communication channels (such as forums, wikis, blogs and other social media platforms and interactive services) to which you are able to post information and materials (collectively, “ **BCC Services** ”) on or through the Site to enable online sharing and collaboration. Please note that any information you disclose through the BCC Services becomes public information, and may be available to visitors to the Site and to the general public. In addition, when you choose to make a posting on the BCC Services, certain personal information (which may include, for example, your user name), may be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose personal information, or any other information, on or through the BCC Services. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF ANY PERSONAL INFORMATION YOU VOLUNTARILY DISCLOSE THROUGH THE BCC SERVICES. 
+You can refuse to accept these cookies by configuring your web browser settings to automatically reject cookies or to prompt you to accept cookies; for more information about how to do this, please refer to your browser's Help documentation. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site. 
 
-_Business Partners_
+  * **Using pixel tags and** **other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Site pages and HTML-formatted email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns and compile statistics about Site usage and response rates.
+  * **IP Address** : Your "IP Address" is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+  * **From you** : Information such as your location, as well as other information, such as your preferred means of communication or areas of interest, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site.
+  * **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Site, (for example, we may aggregated Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
-. If you represent a Verint business partner, we may use personal information you provide (including any personal information you provide when you visit one of our extranets intended specifically for Verint business partners) to administer and develop our business relationship with you and the business partner you represent. For example, as part of our lead generation activities, we may share your personal information with our customers so that they can contact you regarding your services (or regarding any integrated services/solutions we may offer) or with other business partners so that they can contact you regarding a potential reseller relationship. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY OUR CUSTOMERS OR OTHER BUSINESS PARTNERS.
 
-_Customers_
 
-. If you represent a Verint customer, we may use personal information you provide (including any personal information you provide when you visit one of our extranets intended specifically for Verint customers) to administer and develop our business relationship with you and the Verint customer you represent. Further, if you choose to purchase products and services from us and our business partners (or products and services from us that include or require products and services of our business partners), we may share your personal information with the applicable business partners who will provide the applicable products and services, such as integration services. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH BUSINESS PARTNERS.
+**How We Use and Disclose Other Information**
 
-_Internal Business Purposes._
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the "How We Collect Other Information" section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
 
- We may also use your personal information for our internal business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. For example, our service providers create reports on Site usage, which contain information on Site usage on a personally identifiable basis, and we use these reports for our internal business purposes.
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-_Service Providers_
+**Third Party Sites**   
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
 
-. Verint works with third parties who provide services that may include, but are not necessarily limited to, website hosting, data analysis and email services. We reserve the right to share personal information with third party service providers for the purpose of providing services, and will seek to impose confidentiality obligations on service providers. 
+**Security**   
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
 
-_Third Party Communications_
+**Choices and Access**
 
-. From time to time, we may share your personal information with third parties to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you. If you would prefer that we do not share your information with third parties for the third parties’ marketing purposes, please see the "Opt-Out" section below.
+**Your Choices Regarding Our Use and Disclosure of Your Personal Information**
 
-_Assignment_
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-. We reserve the right to transfer any and all information that we collect to an affiliate or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+  * **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the instructions contained in the email or by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com).
+  * **Our sharing of your Personal Information with affiliates for their marketing purposes** : If you would prefer that we do not share your Personal Information on a going-forward basis with our affiliates for their marketing purposes, you may opt-out of this sharing by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com).
+  * **Our sharing of your Personal Information with unaffiliated third parties for their marketing purposes** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com).
 
-_Law enforcement; Emergencies; Compliance_
 
-. We reserve the right to use and release personal information if we believe that a person is in violation of our [Terms of Service](http://verint.com/corporate/section2a.cfm?article_level2_category_id=3&article_level2a_id=205) or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, and to use and release such information in response to court and governmental orders (including court and government orders outside your country of residence), civil subpoenas, discovery requests and as otherwise required or permitted by law (including laws outside your country of residence).  We also reserve the right to use and release personal information when we believe that such use and/or release is needed to protect the rights, property, safety or security of Verint, our visitors, customers or the public, to respond to an emergency or to permit us to pursue available remedies or limit the damages that we may sustain. 
 
-**(2) Non-personal information:** Verint and its service providers use non-personal information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of our Site visitors, and by measuring demographics and interests, for example, regarding specific areas of the Site. Verint and its service providers may also use non-personal information to analyze trends and statistics and to help us provide better customer service.  We may provide statistical information based on this data to our affiliates and other current and potential business partners of Verint. We may also use the aggregate data to inform third parties as to the number of people who have seen and clicked on links to their websites.  Because non-personal information does not personally identify you, we may use this information for any purpose. In addition, we reserve the right to share non-personal information, which does not personally identify you, with our affiliates and other third parties, for any purpose. In some instances, we may combine non-personal information with personal information (such as combining your name with your geographical location). If we do combine any non-personal information with personal information, the combined information will be treated by us as personal information hereunder as long as it is combined. 
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or unaffiliated third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-**(3)  IP addresses: **We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site. We may also use and disclose IP addresses for all the purposes for which we use and disclose personal information. Please note that we treat IP addresses, server log files and related information as non-personal information, except where we are required to do otherwise under applicable law.
+**How You Can Access, Change or Suppress Your Personal Information**
 
-**Third Party Sites.**
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us at [privacy@verint.com](mailto:privacy@verint.com) or at the addresses listed below in "Contacting Us".
 
-The Site contains links to other Internet web sites (including, for example, to Verint’s presence on Facebook or Twitter), as well as to co-branded or other affiliated sites which may or may not be owned or operated by Verint.  Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of any such web sites, including such sites’ use of any information (such as IP address, browser type or operating system) collected when visitors to the Site click through links to those sites.  We provide these links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by us. If you provide any personal information through any third party website, your transaction will occur on the third party website (not the Site) and the personal information you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
 
-**Online Advertising.**
+**Retention Period**   
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-We may use third-party advertising companies to serve ads when you visit our Site. Please note that these companies may use information about your visit to this Site in order to provide advertisements about goods and services that may be of interest to you and to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers and partners. In the course of serving advertisements to this Site, these companies may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://networkadvertising.org/optout_nonppii.asp](http://networkadvertising.org/optout_nonppii.asp).
+**Use of Site by Minors  
+**The Site is not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Information through the Site.
 
-Verint has security measures in place to protect against the loss, misuse, and alteration of that personal information which is under our control. Unfortunately, no security system, or system of transmitting data over the Internet or storing data, can be guaranteed to be 100% secure. As a result of the foregoing, while we strive to protect your personal information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and Verint's servers, or any information provided to us or to any third party. You provide all such information at your own risk. 
+**Cross-Border Transfer**   
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
 
-**Opt-Out.  **
+**Sensitive Information  
+**We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us.
 
-If you do not wish to receive electronic marketing communications from us, or if you would prefer that we do not share your personal information with third parties for such third parties’ marketing purposes, you may opt-out of receiving such electronic marketing communications or from such sharing by emailing us at [opt-out@verint.com](mailto:opt-out@verint.com). Please specify clearly which of the following choices you are opting out of:
+**Information We Handle as a Service Provider  
+**In the course of providing goods and services to our customers, Verint may receive information from our customers and distributors about their own customers. Verint acts only in accordance with our customer’s or distributor’s instructions with respect to such information, and its collection, use and disclosure is governed by the privacy policy and practices of the customer or distributor concerned and not by this Privacy Policy.
 
-i.          Receiving marketing-related e-mails (including surveys and communications for market research purposes) from Verint; and/or
+**Updates to this Privacy Policy**   
+We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
-ii.         Allowing Verint to share your personal information with third-parties for their marketing purposes.
+**Contacting Us**
 
-We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your personal information from the databases of third parties with which we have already shared your personal information (i.e., to which we have already provided your personal information as of the date on which we implement your opt-out request). If you wish to cease receiving electronic marketing communications from such third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or electronic marketing communications.
+If you have any questions about this Privacy Policy, please contact us by email at [privacy@verint.com](mailto:privacy@verint.com), or please write to the following address:
 
-**Accessing, Changing or Suppressing Personal Information.**
+> Verint Systems Inc.
+> 
+> Attn: Legal Department/Privacy Policy
+> 
+> 330 South Service Road
+> 
+> Melville, NY 11747 USA
 
-If you would like access to personal information about you or if you would like to have your personal information suppressed or changed in Verint’s database, please contact us at [info@verint.com](mailto:info@verint.com), and we will use reasonable efforts to comply with your request. (We may need to contact you in order to be sure that we are suppressing or changing the appropriate information.)  For your protection, we will only implement such requests with respect to the personal information associated with the particular e-mail address that you use to send us your request, and we may ask you to verify your identity and provide other details to help us to respond to your request. 
-
-In each event, you must clearly indicate the information that you wish to have access to, changed or suppressed from our database. When requesting that personal information be suppressed, please keep in mind that there will be residual information that will remain within Verint databases, access logs and other records, which may or may not contain such personal information.
-
-**Note Regarding the Use of the Site by Children.**
-
-The Site is not directed to individuals under the age of eighteen (18), and we request that such individuals do not provide personal information through the Site. 
-
-**Retention Period.  **
-
-We will retain your personal information for the period required or permitted by law. 
-
-**Jurisdictional and Cross-Border Issues.  **
-
-We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By providing any personal information, you consent to the transfer of personal information to other countries, such as the United States and Israel, which may provide a different level of data security than in your country of residence.
-
-**Questions?**
-
-Questions regarding this Privacy Policy should be directed to Verint at [info@verint.com](mailto:%20info@verint.com).
-
-Verint Systems Inc.
-
-Attn: Legal Department/Privacy Policy
-
-330 South Service Road 
-
-Melville, NY 11747 USA
-
-Verint Systems Inc. is the party responsible for the management of the jointly-used personal information.
+Please note that email communications are not always secure, so please do not include credit card information or sensitive information in your emails to us.
