@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010202942id_/http%3A//www.ynot.com/ynot-company-notices/71028-ynot-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528223103id_/http%3A//www.ynot.com/ynot-company-notices/71028-ynot-privacy-policy.html) for the most accurate reproduction.*
 
 # YNOT Privacy Policy
 
