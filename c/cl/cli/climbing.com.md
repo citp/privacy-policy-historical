@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the climbing.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123052146id_/http%3A//www.climbing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climbing.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528221827id_/http%3A//www.climbing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 | 
 
+| [](https://web.archive.org/) |   
+---|---  
+  
 ### **SKRAM MEDIA CONSUMER PRIVACY POLICY**
 
 Skram Media and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site, since use of this site constitutes agreement with these terms. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points.
@@ -145,8 +148,3 @@ Subscription Information
 Climbing Magazine  
 P.O. Box 420235  
 Palm Coast, FL 32142-0235
-
-[blog comments powered by ](http://disqus.com/)   
-  
-  
-
