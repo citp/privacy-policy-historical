@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114175405id_/http%3A//reelclub.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528055945id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Reading Cinemas
 
 **PRIVACY POLICY**
 
-Reading Entertainment Australia Pty Limited ACN 070 893 908 and its related entities (Reading) are committed to preserving your privacy, and this Privacy Statement reflects our firm commitment to you. It sets out our policies in relation to the way we collect and handle personal information. We encourage you to check our privacy statement regularly as this Privacy Statement may change from time to time.
+Reading Entertainment Australia Pty Limited ABN 12070893908 and Australia Country Cinemas Pty Ltd ABN 99076276349, and its related entities (Reading), are committed to preserving your privacy, and this Privacy Statement reflects our firm commitment to you. It sets out our policies in relation to the way we collect and handle personal information. We encourage you to check our privacy statement regularly as this Privacy Statement may change from time to time.
 
 **1\. HOW AND WHY WE COLLECT INFORMATION**
 
@@ -135,6 +135,9 @@ By providing your personal information to us or by using our web site, you are i
 If you have any questions about our privacy statement, please contact our privacy officer at [privacy@readingcinemas.com.au](mailto:privacy@readingcinemas.com.au) or by mail to;
 
 Privacy Officer   
-Reading Entertainment Australia Pty Limited  
+Reading Entertainment Australia Pty Limited &  
+Australia Country Cinemas Pty Limited  
 Level 1, 98 York Street  
 South Melbourne, Victoria 3205
+
+Phone: (03) 9685 0900
