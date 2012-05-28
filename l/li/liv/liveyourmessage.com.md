@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the liveyourmessage.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223064440id_/http%3A//www.liveyourmessage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveyourmessage.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528083013id_/http%3A//www.liveyourmessage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Live Your Message
+# Privacy Policy
+
+Skip to content
+
+
+
+
+  * [Home](http://www.liveyourmessage.com/ "Live Your Message")
+  * [Contact](https://web.archive.org/contact/ "Contact Us")
+
+
+
+## Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -15,3 +27,11 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+Download my FREE, comprehensive 40-page report and discover: 
+
+  * The secrets to a bold and lucrative brand that will inspire your audience, skyrocket engagement and attract loyal new fans 
+  * Simple, proven strategies to supercharge your website to deepen connection, gain trust, make repeat sales and gather referrals, 24/7 
+
+  
+
