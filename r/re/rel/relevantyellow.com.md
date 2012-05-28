@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128190016id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantyellow.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528144017id_/http%3A//www.relevantyellow.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RelevantYellow.com
+# RelevantYellow verified business directory. Get a free optimized local business profile page.
 
 ## Relevant Yellow Privacy Policy
 
