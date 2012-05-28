@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212853id_/http%3A//www.batanganetwork.com/publishers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangamedia.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528224853id_/http%3A//www.batanganetwork.com/publishers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Batanga Network. Online Advertising Network that targets Hispanic markets.
 
