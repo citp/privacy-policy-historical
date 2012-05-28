@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208164746id_/http%3A//www.shoedazzle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528224750id_/http%3A//www.shoedazzle.com/privacy_policy) for the most accurate reproduction.*
 
 # ShoeDazzle - Privacy Policy | Style. Personalized.
 
@@ -69,7 +69,7 @@ As you might expect, the majority of information that we collect is obtained thr
 
 ###### WHAT IF YOU'RE NOT A SHOEDAZZLE MEMBER, BUT YOU'VE HEARD FROM SHOEDAZZLE?
 
-If you're not a member but you've been contacted by ShoeDazzle, we may have received your information in a few different ways. First, another member may have referred you under a "Refer-a-Friend" campaign. Members may give us your name and email address in order for them to customize an invitation for you to join. You also may receive similarly customized email reminders from your friend about this invitation. If you apply for membership, your information will be used in accordance with the rest of this privacy policy. If you choose not to apply online, your email address may be retained for a period. Similarly, a member may have shipped a gift or other merchandise to you through us and provided your personal information for that purpose.
+If you're not a member but you've been contacted by ShoeDazzle, we may have received your information in a few different ways. First, another member may have referred you under a &quot;Refer-a-Friend&quot; campaign. Members may give us your name and email address in order for them to customize an invitation for you to join. You also may receive similarly customized email reminders from your friend about this invitation. If you apply for membership, your information will be used in accordance with the rest of this privacy policy. If you choose not to apply online, your email address may be retained for a period. Similarly, a member may have shipped a gift or other merchandise to you through us and provided your personal information for that purpose.
 
 You may have received an offer from us. If you were a prior member, we may have invited you back. We may also have received your information from one of our partners or from the mailing, opt-in emailing, or phone lists of a reputable company. Unless we are using an opt-in only list in our marketing efforts, ShoeDazzle will screen our lists with the Direct Marketing Association ("DMA") preference lists before we send such offers.
 
