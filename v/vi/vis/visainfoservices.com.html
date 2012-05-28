@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visainfoservices.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214215348id_/https%3A//www.visainfoservices.com/Pages/Content.aspx%3FTag%3Dprivacy_statement_PAGE) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visainfoservices.com privacy policy that was archived on 2012-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528204944id_/https%3A//www.visainfoservices.com/Pages/Content.aspx%3FTag%3Dprivacy_statement_PAGE) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	WorldBridge Visa Information
@@ -30,19 +30,51 @@
     <script src="../scripts/thickbox.js" type="text/javascript"></script>
 
     
+<script type="text/javascript">
+   
+    var rssTimeout = 60000;
+   
+     function loadRSS()
+    {
+    $("#ctl00_hlMoreNews").hide();
+  //call ajax rss content
+        $.ajax({
+                  url: "GetRss.aspx",
+                  cache: false,
+                  timeout: rssTimeout, //milliseconds
+                  success: function(res) {
+                    $("#feedContent").html(res);
+                    var error = $("#ErrorRss").val();
+                         if(error!="0")
+                         {
+                            $("#ctl00_news_panel").hide();
+                            
+                         }
+                        $("#ctl00_hlMoreNews").show();
+                        $("#divLoading").hide();
+                  },
+                  error: function(xhr,status,error){
+                    $("#ctl00_news_panel").hide();
+                    $("#divLoading").hide();
+                   
+                  }
+                });
+    }
+    </script>
+
 </head>
 <body>
     <form name="aspnetForm" method="post" action="/Pages/Content.aspx?Tag=privacy_statement_PAGE" id="aspnetForm" class="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="aW7SRxaDa9h2zMdBNHqJ5wpYrbJydiF91yanx0FToeFeGRIsEa3UOnY68Detojc0yeFJqAXu85gvw5a0oj4qXCQpwDcQroY9ilPPfbvghk/XfQMTfQ6TDNZl4mKE7cUrO3UvmbphPa39m/23ohRZs3J11rn3tXJ89SuWLcujZeG0He5b+D8PW0FM2mJA4anqDAY6xpmUjgRB5wWv8DBKqhNTOTL+pgG6NGpglswMlazyezYOfp6f/KL7sgq5U0uIS8eyP3ZGYNB/lJ+6riAg3W0tbCDkZnkj72u1Ul7ey7+TO3vFua4U9VB8yFhM3c2Sq49BkaIdujWrRPu4gZLTuRjPrn3E13IxZeHCe1HzVLvWmnavBMBYTw70haoH7nBYNEHIN8HDLUZb3h9vxeISJfYkIJkKwC3gXMi8iEiUVgtztAywsFwvWRjWr7efi0WBgEOvqowu75utmVaV/faZFVTf/H/X4YNmXbDm3IujpqEzEPD0QtfADIz9ZXtQ9bd7Ve5DpCu4iBWrVT2JMYgoyMtgf3JpcPVaRAvtuujUpOx9QR6+Ue7RsvEsLGdYwFDk9b+x0h8vh/lXwOEbry5z8KCRoNdWhxd3n4HyeVuuIvxdzvH8bnc2qiYufp5lOVUVAcp2Wu7I/ThU9vtC7YSZwmO9SKltAo/SMZDCbXDt/e11jbijK1AufKK/aZX3pSq+iitocuZq9G2Otowdj2lsuOCDk2b4h4ygMG4XqeAoXN9iSp5Ee6Q6Sg2dm7ekbIr2zXxZ/+7GeRHELuroZPgLfjnN5Rr6zEBt57KR1fKhFr6FUlJ95jnypodvxDQsm5VEMXU/jS5jd5izDsIzCTG9aHosCkoOZwFlRYKg/IT5QUuBtnooxGFl+nmWw+pl6ZrXwWuwBaNNps0gesLkEgdIjclX8tmc08T0u5JM+RsLZ5qIz4w0zC6YdOeKnKCC+HZki02e0MET78NkWxuGss0Vdc7AmeEEmGzMBlrr+C6TB+5lnqF/lYBEkqoKeHbPpbRRMDfYC7Zsm3k0PWJbOOVu0H4JnzY55P0RH9pRp7L3/sVmXv4BVcMnMQ+eLajUJsNGUK3o6Tg4swwDn9aWrOteGb8xFMgA3Pyyl5vquL9QjiFHiQVtB9/R0X+mfpZ4V5Lm5WqrbY6g42bIy17FM/fwJAGdqAKYIcxAWwd1FpAdpXqpwGdC3GCvxAhxO6U4dPNKMWA5PBP97G2iqnbDNuP11o7t7ya5YerWdq1OsjfZ9YbTWrOGLcyIsybkL6OYJ0zsFchyb5L1tycoeB31XooH+HfMct+ZULIKXwFd/Ow+7WL3lHkO7wVYXwPkGX5iz4tvfraFgmV0VTh3lCk0M+hlaB03kQXUBEDLHqaavHA8Lut3aJ8iVCm3YZk5YmHZYILHx+UAiRiIPqOzMSatf0foZQFhrw+MagPSMju2pBwqduXlXWKilLyrM+mfZMiyRoUwECuuT9eIe8U19w1nEoO7UfKM/7/bePzdNw7ZrPQpiCyMW3ua7VgipxOH9svhoz5pAT7dkJqIc29QHgj9zSD7CdpVDNXGLEpfhyYnOUTN75vZXWMitE2KJQMDGOCVvW7UG8n9sWGbRwHv0kN6T6EHFsPSSQlbg1lwVPYoAT5aZASvrXteYAwDLf+RSU8RGkwvsWyV9nU7Bt04V1KZVievYZ6m7VRvJfR4c990Gvn47ahqbeO3VTHLFTSDCbs3Wf7Ku/6N5JJwfcQONyT9d7iZwifJoXcahSVHiYVHRQKwGACAkMBsuPmgcyKG0k86tCloWUoim/bHPbHLRIn01tWuVStaMQUKJqhFBnN6GHum/m+o7hvOhW9LNp2euJGci3h5jT8HaChsHgIt/T+VRMeWysmGikajKymHQH5zCwOCVe2vcRS3XpWmI5jG+iaEjtQktaD/jw6zbmHXWIziUAmV25DsmiYr4XAi6va6rSiv/m3HPyiStFPicb5DCqq+E5iCofu9o0amnb2bx4sd4gi+qlA/VLsRrwJOifZln606GB9zvYbYYk340yd/ta5QoborEoipMDU19hopMUzAQ8qHjG9rNQ+pguH91H52VbcCfWagzrbyDbcn2gcFLfwW7fSVwEDl8aUO1ZnjroySL8ov/s6IAfB0YM5+OOpppw2BXfni7sWU5a9tSMOO5kGxXHMCYJmZd5vrAqpmh/3bdBdNN2CRNSAFYHNwdwVMgS+1siEh8PfOF6Kj7+wWfYVoie5WQlZ7CQlLfTjAjC7ty3H+HMA9/AN+um0FIfQBf2MXYl+ZnBxx8lGiElBhLfpzV5InYKI4wR9Om7iuYNP/FekAo/2yiq4IVpFHwf8jHbf991uw+o56vrqk6exxcRKx2taIvT81Ze+bZOc0YW19fJogRdPcnX0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ngyB5l8QRj+gkZteZhASmm2Mb/brlkNxNTxABBKqLvuBGebkgwYGDYFrzCapIovyaM+q/rt14Ua7WT57YI4jjQ8R+jgTB6oGm84Zo+xNWp6fyPdqSRh/oi7MMoMt9W1N2i3MDw==">
-        <div class="mainlayout">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="dYWk8vc5nBOOu8KeXYpE7dMe/g56wVr+pIyWQoGML9B5qQbth49Uw4fad69wEkkdbxuzPk30Q+5fFVtfLzXJ1NAJ/zXLduDr1VjnmvfnwhpHI4tVJgii1eOc577VS2Njv7Nyow==">
+        <div id="ctl00_dvMainLayout" class="mainlayout">
             <!-- HEADER -->
             <div id="header">
                 <div class="content">
                     <div id="partner">
                         <div class="partlogoleft">
-                            <a id="ctl00_lnkWBLogo" href="javascript:__doPostBack('ctl00$lnkWBLogo','')"><img src="../Images/worldbridge_small.jpg" id="ctl00_Img3" style="padding-left: 15px; padding-top: 30px;" alt="WorldBridge"></a>
+                            <a id="ctl00_lnkWBLogo" href="javascript:__doPostBack('ctl00$lnkWBLogo','')"><img src="../Images/worldbridge_small.jpg" id="ctl00_Img3" style="margin-left: 15px; margin-top: 30px;" alt="WorldBridge"></a>
                         </div>
                  
                         
@@ -61,25 +93,27 @@
                 </div>
             </div>
             <div id="headerBar">
-                <div id="ctl00_breadcrumbLabel" class="breadcrumbLabel">
-                    
-                    <span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=QFpkvSPWZipeDd-Fb5I44wCqhqKmj9aWoU2LCulfuhORNX2xRTaDJK_kYSTtu-tLornoXeYsnR4V0eI8L0T4ya9Xnxc1&amp;t=634591110234867806" border="0"></a><span class="breadcrumbText">
-                            You are here
-                        </span><span> &gt; </span><span class="breadcrumbText">
-                            Privacy Statement
-                        </span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+                <div style="padding: 15px 15px 0 15px;">
+                    <div id="ctl00_breadcrumbLabel" class="breadcrumbLabel">
+                        
+                        <span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=QFpkvSPWZipeDd-Fb5I44wCqhqKmj9aWoU2LCulfuhORNX2xRTaDJK_kYSTtu-tLornoXeYsnR4V0eI8L0T4ya9Xnxc1&amp;t=634663682575797894" border="0"></a><span class="breadcrumbText">
+                                You are here
+                            </span><span> &gt; </span><span class="breadcrumbText">
+                                Privacy Statement
+                            </span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+                    </div>
+                    <!--START LANGUAGES-->
+                    <div id="languageBar">
+                        <span id="ctl00_lblAlternativeLanguages" class="languageText"></span>
+                    </div>
+                    <!--END LANGUAGES-->
                 </div>
-                <!--START LANGUAGES-->
-                <div id="languageBar">
-                    <span id="ctl00_lblAlternativeLanguages" class="languageText"></span>
-                </div>
-                <!--END LANGUAGES-->
             </div>
-            <!-- begin: TN - suggestion 96 --->
+            <!-- END HEADER -->            
             
             
-            <!-- end: TN - suggestion 96 --->
-            <!-- END HEADER -->
+            
+            
             <!-- LEFT COLUMN-->
             
             <!-- END LEFT COLUMN-->
@@ -88,40 +122,18 @@
                 
                 <!-- /panel -->
                 
-                <div class="bannerAdvertisement" style="visibility: hidden">
-                    <div class="d240x400fatSkyscraper" style="visibility: hidden">
-                        <!--
-						<object width="160" height="600">
-						<param name="movie" value="images/banners/skyscraper_1.swf">
-						<embed src="images/banners/skyscraper_1.swf" width="160" height="600">
-						</embed>
-						</object>
-						-->
-                    </div>
-                    <!-- /fullBanner -->
-                </div>
-                <!-- /bannerAdvertisement -->
+                
+                &nbsp;
             </div>
             <!-- END RIGHT COLUMN-->
-            <div id="ctl00_PublicContentDiv" class="contentColumn ignoreLeft">
+            <div id="ctl00_PublicContentDiv" class="contentColumn">
                 <!---BEGIN CONTENT HERE-->
-                <!-- the actual content -->
-                <table id="ctl00_contentTable" cellpadding="0" cellspacing="0" width="100%" height="100%" class="">
-	<tbody><tr>
-		<td style="border: 0px">
-                            
-                        </td>
-	</tr>
-	<tr>
-		<td style="border: 0px">
-                            <span id="ctl00_errorLabel" class="errorMessage"></span>
-                            <span id="ctl00_successLabel" class="successMessage"></span>
-                        </td>
-	</tr>
-	<tr>
-		<td style="border: 0px; padding-bottom: 0px; padding-left: 5px; padding-right: 0px;
-                            padding-top: 0px">
-                            
+                <div style="margin-bottom: 15px;">
+                    <span id="ctl00_errorLabel" class="errorMessage"></span>
+                    <span id="ctl00_successLabel" class="successMessage"></span>
+                </div>
+                <div>
+                    
 <h1>Privacy Statement</h1>
 <p>Return to <a href="/Pages/dest_org.aspx">WorldBridge homepage</a> 
 </p><p>This privacy statement regarding Customer and online user information applies to Computer Sciences Corporation and its worldwide corporate affiliates (“we” or “our”) but not to those Computer Sciences Corporation affiliates that have published their own privacy statements. This privacy statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact.</p>
@@ -160,18 +172,15 @@
 <h2>Online Payment Card Transactions</h2>
 <p>You may purchase products or services via the online payment facility. When submitting your payment details, you will enter all cardholder data fields into a third party payment module, hosted by WorldPay Ltd. WorldPay Ltd are acting as the data processor on behalf of CSC. By submitting your payment details online, you provide your consent to the transfer of your cardholder details and billing address direct to WorldPay Ltd for the processing of the payment data and transaction authorization. <br><br>This privacy statement does not apply to the services of WorldPay Ltd or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of WorldPay Ltd or any other parties with whom you interact.</p>
 <h2>Cookies</h2>
-<p>We may also collect information through the use of a technology called "cookies." A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. If you are uncomfortable accepting cookies from our website you can set your web browser to refuse cookies altogether or to notify you when a website attempts to send a cookie.</p>
+<p>A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. The WorldBridge website does not use cookies to store information on your computer.</p>
 <h2>Changes to Our Privacy Statement Regarding Customer and Online User Information</h2>
 <p>We will occasionally update this privacy statement. If we make changes to the Privacy Statement regarding Customer and Online User Information or make any material changes to how CSC will use your Personal information, we will revise the Privacy Statement to reflect such changes and revise the statement's effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how CSC is protecting your Personal information.</p>
 <h2>Contact</h2>
 <p>Please contact CSC, Royal Pavilion, Wellesley Road, Aldershot, Hampshire, GU11 1PZ, United Kingdom if you have any questions about the collection and processing of your information by CSC. If you have any questions about this Privacy Statement, please select the country from where you are travelling on the <a href="/Pages/Welcome.aspx">www.visainfoservices.com</a> homepage. On the menu on the left select the Send an Email Enquiry or Suggestion option and submit your enquiries.</p>
 <p>Return to <a href="/Pages/dest_org.aspx">WorldBridge homepage</a></p>
 
-                            
-                        </td>
-	</tr>
-</tbody></table>
-
+                    
+                </div>
                 <!---END CONTENT HERE-->
             </div>
             <div id="footer">
@@ -202,7 +211,6 @@
                             <a id="ctl00_hplAccessibility_Statement" href="Content.aspx?Tag=AccessibilityStatement_PAGE">Accessibility Statement</a>
                         </div>
                     </div>
-                    
                 </div>
             </div>
         </div>
