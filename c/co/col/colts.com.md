@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colts.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034237id_/http%3A//www.colts.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colts.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528034820id_/http%3A//www.colts.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Colts.com | Privacy Policy
 
@@ -10,7 +10,7 @@
 
 **This privacy policy applies to the Indianapolis Colts' website located at[www.colts.com](http://prod.www.colts.clubs.nfl.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.**
 
-**Indianapolis Colts, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact the Indianapolis Colts at aj.macht@colts.nfl.net. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).**
+**Indianapolis Colts, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact the Indianapolis Colts at dan.plumlee@colts.nfl.net. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).**
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -50,7 +50,7 @@ We may collect information from you in several different areas on the Website, i
 
 **Registration:** You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
-**Newsletters and Website Emails:** We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email. You may also contact us at [aj.macht@colts.nfl.net](mailto:aj.macht@colts.nfl.net).
+**Newsletters and Website Emails:** We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email. You may also contact us at [dan.plumlee@colts.nfl.net](mailto:dan.plumlee@colts.nfl.net).
 
 **Contests or Sweepstakes:** We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
 
@@ -131,7 +131,7 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 ##### 10\. Correcting/Updating Personal Information
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out message in an email, or by emailing us at [aj.macht@colts.nfl.net](mailto:aj.macht@colts.nfl.net).
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out message in an email, or by emailing us at [dan.plumlee@colts.nfl.net](mailto:dan.plumlee@colts.nfl.net).
 
 ##### 11\. Your California Privacy Rights
 
@@ -141,11 +141,11 @@ As explained in this privacy policy, whenever you agree to let us collect person
 
 Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an email to [aj.macht@colts.nflnet](mailto:aj.macht@colts.nflnet).
+If you are a California resident and have questions about our compliance with this law, please send an email to [dan.plumlee@colts.nfl.net](mailto:dan.plumlee@colts.nflnet).
 
 ##### 12\. Questions About This Privacy Policy
 
-If you have any questions about this privacy policy or the privacy practices of this Website, contact [aj.macht@colts.nfl.net](mailto:aj.macht@colts.nfl.net).
+If you have any questions about this privacy policy or the privacy practices of this Website, contact [dan.plumlee@colts.nfl.net](mailto:dan.plumlee@colts.nfl.net).
 
 Questions may also be directed to:
 
