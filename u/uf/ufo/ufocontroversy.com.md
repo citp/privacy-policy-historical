@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufocontroversy.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113015419id_/http%3A//www.ufocontroversy.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufocontroversy.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528065701id_/http%3A//www.ufocontroversy.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UFO Controversy: blogging your views, your stories!
 
@@ -12,4 +12,4 @@ If you choose to purchase business services through UFO Controversy and our prov
 
 Profile information will be used to create personalized content and services from our UFO Controversy site. In addition, UFO Controversy and its licensees may use aggregated information from profiles to provide our partners with information that will help them, and thereby us, to serve you better.
 
-UFO Controversy reserves the right to change its policy at any time, but will notify You of any changes. Should a privacy dispute arise, UFO Controversy will be held harmless and not liable for any loses that may have been incurred. If you want additional information or clarification, please email us at, [customer service](https://web.archive.org/web/20111113015419id_/http%3A//www.ufocontroversy.com/page/publisher@ufodigest.com), with your specific questions. We will be more than happy to answer them.
+UFO Controversy reserves the right to change its policy at any time, but will notify You of any changes. Should a privacy dispute arise, UFO Controversy will be held harmless and not liable for any loses that may have been incurred. If you want additional information or clarification, please email us at, [customer service](https://web.archive.org/web/20120528065701id_/http%3A//www.ufocontroversy.com/page/publisher@ufodigest.com), with your specific questions. We will be more than happy to answer them.
