@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternion.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217064240id_/http%3A//www.alternion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternion.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529175012id_/http%3A//www.alternion.com/privacy) for the most accurate reproduction.*
 
 # Alternion - Privacy Policy
 
