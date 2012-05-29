@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204175349id_/http%3A//www.gaiaonline.com/info/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529061939id_/http%3A//www.gaiaonline.com/info/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gaia Online
 
 Gaia Interactive, Inc. ("Gaia") values the privacy of its users, members, customers, subscribers, and others who visit and use (collectively or individually, "Members") [www.gaiaonline.com](http://www.gaiaonline.com/) and any other web sites or services owned or operated by Gaia (collectively, "Gaia Online"). 
 
-This Privacy Notice is incorporated into and is subject to the Gaia Online [_Terms of Use_](https://web.archive.org/info/index.php?info=tos). Your use of Gaia Online and any personal information you provide on Gaia Online remain subject to the terms of this [_Privacy Notice_](https://web.archive.org/info/index.php?info=privacy) and our [_Terms of Use_](https://web.archive.org/info/index.php?info=tos). 
+This Privacy Notice is incorporated into and is subject to the Gaia Online [_Terms of Use_](https://web.archive.org/info/legal/tos). Your use of Gaia Online and any personal information you provide on Gaia Online remain subject to the terms of this [_Privacy Notice_](https://web.archive.org/info/legal/privacy) and our [_Terms of Use_](https://web.archive.org/info/legal/tos). 
 
 **NOTE TO KIDS:** Gaia Online is not for persons under the age of 13. _If you are under 13 years of age, then we encourage you to visit other web sites_ \-- there are lots of other great web sites for you.
 
