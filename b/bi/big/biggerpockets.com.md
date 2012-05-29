@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205164307id_/http%3A//www.biggerpockets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529141226id_/http%3A//www.biggerpockets.com/privacy.html) for the most accurate reproduction.*
 
 # BiggerPockets Real Estate Investment Community Privacy Policy
 
