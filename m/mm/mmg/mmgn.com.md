@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmgn.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227071445id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmgn.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530010907id_/http%3A//mmgn.com/Privacy) for the most accurate reproduction.*
 
 # MMGN Privacy Policy
 
@@ -66,7 +66,7 @@ MMGN conducts email and web-delivered surveys from time to time, as well as inst
 
 ## Cookies
 
-Cookies are pieces of information that a website transfers to your computer for record keeping purposes. MMGN uses cookies to recognize registered users to the site and provide them a more seamless browsing experience. The third-party tools that MMGN utilises, including third-party advertisements and statistical tools, may also contain cookies. Most web browsers are set to accept cookies, but you may configure your browser to reject cookies, although it may interfere with some functionalities of the site.
+Cookies are pieces of information that a website transfers to your computer for record keeping purposes. MMGN uses cookies to recognize registered users to the site and provide them a more seamless browsing experience. The third-party tools that MMGN utilises, including third-party advertisements and statistical tools, may also contain cookies. Most web browsers are set to accept cookies, but you may configure your browser to reject cookies, although it may interfere with some functionalities of the site. You can opt out of third party vendor’s cookies at any time by visiting this page: http://www.networkadvertising.org/managing/opt_out.asp
 
 ## Access, Correction and Update of Information
 
