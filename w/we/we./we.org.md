@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we.org privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819064733id_/http%3A//we.org/privacyPolicy.php%3FINC%3DYes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529045930id_/http%3A//we.org/privacyPolicy.php%3FINC%3DYes) for the most accurate reproduction.*
 
 # We.org Privacy Policy
 
