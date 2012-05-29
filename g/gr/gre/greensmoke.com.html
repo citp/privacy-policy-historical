@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the greensmoke.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101140824id_/http%3A//www.greensmoke.com/catalog/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greensmoke.com privacy policy that was archived on 2012-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529075324id_/http%3A//www.greensmoke.com/catalog/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy of Green Smoke</title>
 <meta name="description" content="Privacy Policy of Green Smoke when buying electric cigarette online">
-<meta name="keywords" content="Anti Smoking Laws,  avoid smoking bans, Better Smoking Alternative, buy cigarettes online, buy e-cigarette, cheap cigarettes online, Chemical Free Cigarette, cigarettes online, Cut Cigarette, Cut Cigarette Use, dangers of cigarette smoking, discount cigarettes, discount cigarettes pay pal, e-cig,  e-cigarette, ecigarettes, Effects of Cigarette Smoking, electric cigarette, electric cigarettes, electric cigarette, electric cigarettes, Health Conscious Smokers, ingredients in tobacco, ingredients of tobacco, Serious Health Risks of Tobacco, Smoke Electric Cigarette, smoking bans, smoking treatments, tobacco coupons, Trendy Smoking Alternative, women smoking cigarettes"><link rel="stylesheet" type="text/css" href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/default.css">
+<meta name="keywords" content="Anti Smoking Laws,  avoid smoking bans, Better Smoking Alternative, buy cigarettes online, buy e-cigarette, cheap cigarettes online, Chemical Free Cigarette, cigarettes online, Cut Cigarette, Cut Cigarette Use, dangers of cigarette smoking, discount cigarettes, discount cigarettes pay pal, e-cig,  e-cigarette, ecigarettes, Effects of Cigarette Smoking, electric cigarette, electric cigarettes, electric cigarette, electric cigarettes, Health Conscious Smokers, ingredients in tobacco, ingredients of tobacco, Serious Health Risks of Tobacco, Smoke Electric Cigarette, smoking bans, smoking treatments, tobacco coupons, Trendy Smoking Alternative, women smoking cigarettes">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<link rel="stylesheet" type="text/css" href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/default.css">
 <link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/layout.css" rel="stylesheet" type="text/css">
 <link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/style.css" rel="stylesheet" type="text/css">
 <link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/lightbox.css" rel="stylesheet" type="text/css" media="all, screen">
@@ -13,17 +17,42 @@
 <link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/greensmoke.css" rel="stylesheet" type="text/css">
 <link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/hpstyle.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/style_li2.css">
+<link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/jquery.fancybox.css" rel="stylesheet" type="text/css">
+<link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/auto_ship.css" rel="stylesheet" type="text/css">
 
 <link href="http://www.greensmoke.com/catalog/hp-images/favicon.gif" rel="shortcut icon">
 <!-- dd menu -->
-<script type="text/javascript" src="http://www.greensmoke.com/catalog/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/catalog/js/jquery-1.4.2.min.js"></script>
+<!--script type="text/javascript" src="/catalog/js/jquery-1.7.min.js"></script-->
 <script type="text/javascript" src="/catalog/js/jquery.nyroModal.custom.js"></script>
 <script type="text/javascript" src="/catalog/js/jquery.nyroModal-ie6.js"></script> 
 <script type="text/javascript" src="/catalog/js/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="/catalog/js/jquery.fancybox.js"></script>
+
 <script type="text/javascript">
 <!--
 	jQuery(document).ready(function($)
 	{
+            $('.fancybox').fancybox();
+			$('#cart-lightbox').trigger('click');	
+			if (!$.browser.opera) {
+		
+				// select element styling
+				$('select.mr-select-cls').each(function(){
+					var title = $(this).attr('title');
+					if( $('option:selected', this).val() != ''  ) title = $('option:selected',this).text();
+					$(this)
+						.css({'z-index':10,'opacity':0,'-khtml-appearance':'none'})
+						.after('<span class="mr-select-cls">' + title + '</span>')
+						.change(function(){
+							val = $('option:selected',this).text();
+							$(this).next().text(val);
+							})
+				});
+	
+			};
+            
     if(jQuery.cookie('is_18')!='yes' && jQuery.cookie('is_18')!='yes_t')
       { 
     jQuery(function() {
@@ -106,28 +135,15 @@ document.onclick = mclose;
 var fileBottomNavCloseImage = '/catalog/'+fileBottomNavCloseImage;
 var fileLoadingImage = '/catalog/'+fileLoadingImage;
 </script>
-<!--
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>-->
-
-
+<script type="text/javascript" src="http://www.greensmoke.com/catalog/js/togglemenu.js"></script>
 <script type="text/javascript">
-function display(action, id)
-{
-if (action == 'show')
-{
-document.getElementById("explanation"+id).style.display = "block";
-document.getElementById("link"+id).href= "javascript:display('hide', "+id+")";
-document.getElementById("link"+id).innerHTML = "X";
-}
+<!--
+/*jQuery(document).ready(function($){
+  return windows_onload();
+});*/
+//-->
 
-if (action == 'hide')
-{
-document.getElementById("explanation"+id).style.display = "none";
-document.getElementById("link"+id).href= "javascript:display('show', "+id+")";
-document.getElementById("link"+id).innerHTML = "log in";
-}
-}
+<!--
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
@@ -147,56 +163,110 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-</script>
-  <script type="text/javascript">
-   function display(action, id)
-   {
-       if (action == 'show')
-       {
-       document.getElementById("explanation"+id).style.display = "block";
-       document.getElementById("link"+id).href= "javascript:display('hide', "+id+")";
-       document.getElementById("link"+id).innerHTML = "X";
-       }
-       
-       if (action == 'hide')
-       {
-       document.getElementById("explanation"+id).style.display = "none";
-       document.getElementById("link"+id).href= "javascript:display('show', "+id+")";
-       document.getElementById("link"+id).innerHTML = "log in";
-       }
-   }
-   
-   function isValidEmail(str) {
-    return (str.indexOf(".") > 2) && (str.indexOf("@") > 0);
-   }
-   
-   function submitLoginForm()
-    {
-    var obj = eval("document.login_frm");
-    if (obj)
-    {
-             obj.action = "//www.greensmoke.com/catalog/index.php?_a=login&redir=";
-             obj.submit();
+//-->
+
+<!--
+  function display(action){
+    if (action == 'show'){
+      jQuery("#explanation").show();  jQuery("#login_box").show();  jQuery("#messageTopLogin").hide();
+      jQuery("#link").attr("href", "javascript:display('hide');");
+      jQuery("#link").text("X"); jQuery('#username').focus();
+    }    
+    if (action == 'hide'){      
+      jQuery("#explanation").hide(); jQuery("#login_box").hide(); jQuery("#messageTopLogin").hide();
+      jQuery("#link").attr("href", "javascript:display('show');");
+      jQuery("#link").text("log in");
     }
+  }
+  
+  function isValidEmail(str) {
+    var reg = new RegExp("^[a-zA-Z0-9.+_-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$");
+    if(!reg.test(str))
+      return false;
+    else
+      return true;
+  }
+
+  function submitLoginForm(){
+   var obj = eval("document.login_frm");
+   if (obj){
+       obj.action = "https://www.greensmoke.com/catalog/index.php?_a=login&redir=%2Fcatalog%2Findex.php%3F_a%3DviewDoc%26amp%3BdocId%3D9";
+       obj.submit();
    }
-   
-     function submitLoginForm1()
-    {
-    var obj = eval("document.login_frm1");
-    if (obj)
-    {
-             obj.action = "//www.greensmoke.com/catalog/index.php?_a=login&redir=";
-             obj.submit();
-    }
-   }
-   
-    function onSubmitByEnterKey(e)
-   {
-alert('shevy');
-       if(e == 13)
+  }
+ 
+  function onSubmitByEnterKey(e){
+    if(e == 13)
+	submitLoginForm();
+  }
+
+  jQuery(document).ready(function(){
+    jQuery("#linkTopLogin").click(function()
+    {                    
+      var username = jQuery("#username").val();
+      if (username == "") {
+        alert("Please enter a Email");
+        jQuery("#username").focus();
+        return false;
+      }
+      else if(!isValidEmail(username)){
+        alert("Please enter a correct Email");       
+        jQuery("#username").focus();
+        return false;
+      }
+      
+      var password = jQuery("#password").val();
+      if (password == "") {
+        alert("Please enter a Password");
+        jQuery("#password").focus();
+        return false;
+      }                      
+      
+      var ssl = "0";     
+      if(ssl == "1") {   
+        jQuery.post("https://www.greensmoke.com/catalog/index.php?_a=login",
+          {"username_top" : username, "password_top" : password},                
+          function(data) {                             
+            if(data!="" && data.length<8)
+            {
+              if(data=="wrong") {
+                jQuery('#login_box').hide();   
+                jQuery('#messageTopLogin').show();
+                jQuery('#messageTopLogin').html("<div class='redTopLogin'>Login failed.<br/>Please try again.</div>")
+                .hide()
+                .fadeIn(1500, function() {
+                  display('show');                                      
+                });
+              }
+              else if(data=="blocked") {
+                jQuery('#login_box').hide();   
+                jQuery('#messageTopLogin').show();
+                jQuery('#messageTopLogin').html("<div class='redTopLogin'>This account is blocked.<br/>Please contact Customer Care.</div>")
+                .hide()
+                .fadeIn(1500, function() {
+                    display('hide');                                   
+                });
+              }
+              else {
+                  jQuery('#login_box').hide();                   
+                  jQuery("#sessFalse").hide();
+                  jQuery("#explanation").hide();                  
+                  jQuery("#messageTopLogin").hide();
+                  jQuery("#topUsername").text(data);
+                  jQuery("#sessTrue").show();              
+              }
+            }              
+          });
+      }
+      else{
         submitLoginForm();
-   }
-   </script>
+      }
+      return false;
+    });
+   });
+//-->
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -207,127 +277,219 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script></head>
 
-<body><div id="top_line">
-    <div id="top_line_in">
-        <div class="leaf"><a href="http://www.greensmoke.com/electroniccigarettes/"><img src="http://www.greensmoke.com/catalog/hp-images/leaf.png" alt="Electronic Cigarettes" border="0"></a></div>
-        <div class="cc textcc"><a href="http://www.greensmoke.com/catalog/contact-us/info_4.html">Customer Care</a>: <span class="ccb">888-224-1345</span></div>
-        <div class="live-chat textcc">
-            <!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainerpwk1bd70n6"></div><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" id="swifttagcontainerpwk1bd70n6"><div style="display: inline;" id="swifttagdatacontainerpwk1bd70n6"></div><script type="text/javascript" src="https://support.greensmoke.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXB3azFiZDcwbjYmdmVyc2lvbj00LjAxLjI0MCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmdyZWVuc21va2UuY29tJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV8zeWtocmVxN241N3NuZXUucG5nJmN1c3RvbW9mZmxpbmU9aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmdyZWVuc21va2UuY29tJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9uM3F6b3VsOXdxNTVrdXAucG5nJmN1c3RvbWF3YXk9aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmdyZWVuc21va2UuY29tJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9laDBxNzEwNnAyd3E5MTMucG5nJmN1c3RvbWJhY2tzaG9ydGx5PWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfbXRnajM3ZGhoaXo2aDdoLnBuZwo4MGJlZTFlMDQzZWNhNDljNTI3Y2YwOTlhZmFlNmM1MjhmMTNjOTJi"></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelempwk1bd70n6=document.createElement("script");swiftscriptelempwk1bd70n6.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "pwk1bd70n6"; var swifttagurlpwk1bd70n6="https://support.greensmoke.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXB3azFiZDcwbjYmdmVyc2lvbj00LjAxLjI0MCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmdyZWVuc21va2UuY29tJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV8zeWtocmVxN241N3NuZXUucG5nJmN1c3RvbW9mZmxpbmU9aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmdyZWVuc21va2UuY29tJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9uM3F6b3VsOXdxNTVrdXAucG5nJmN1c3RvbWF3YXk9aHR0cHMlM0ElMkYlMkZzdXBwb3J0LmdyZWVuc21va2UuY29tJTJGX19zd2lmdCUyRmZpbGVzJTJGZmlsZV9laDBxNzEwNnAyd3E5MTMucG5nJmN1c3RvbWJhY2tzaG9ydGx5PWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfbXRnajM3ZGhoaXo2aDdoLnBuZwo4MGJlZTFlMDQzZWNhNDljNTI3Y2YwOTlhZmFlNmM1MjhmMTNjOTJi";setTimeout("swiftscriptelempwk1bd70n6.src=swifttagurlpwk1bd70n6;document.getElementById('swifttagcontainerpwk1bd70n6').appendChild(swiftscriptelempwk1bd70n6);",1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! -->  </div>
-        <div class="link-txt">
-            <ul>
-                <li><a href="http://www.greensmoke.com/catalog/info.html">About Us</a></li>
-                <li><a href="http://www.greensmoke.com/catalog/product-faq/info_22.html">FAQ</a></li>
-                <li><a href="http://www.greensmoke.com/catalog/green-smoker-reviews/info_31.html">Testimonials</a></li>
-            </ul>
+<body>
+
+	
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+
+<style>
+.kayako_chat
+{
+    text-decoration: underline;
+    color:#2A5931;
+    font-family:verdana,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.kayako_chat:hover
+{
+    text-decoration: none;
+}
+</style>
+
+<div id="top_line">
+    <div id="top_line_in">       
+        <div class="leaf"><a href="http://www.greensmoke.com/electroniccigarettes/"><div class="over_head_leaf"></div></a></div>
+	<div class="topinter">
+            <div class="livechat intertxt">	       	       	     
+	<div><div id="proactivechatcontainerz64y5erzap"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainerz64y5erzap"><div style="display: inline;" id="swifttagdatacontainerz64y5erzap"></div><script type="text/javascript" src="https://support.greensmoke.com/visitor/index.php?/chat_test/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXo2NHk1ZXJ6YXAmdmVyc2lvbj00LjQwLjEwNzkmcHJvZHVjdD1GdXNpb24mY3VzdG9tb25saW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfN3dtZjlnY2l5bHlicWdnLnBuZyZjdXN0b21vZmZsaW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfa2g2cjJ3ODZyNXlxeXdiLmdpZiZjdXN0b21hd2F5PWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfbHk2cHYzZnNncmY3NTNqLmdpZiZjdXN0b21iYWNrc2hvcnRseT1odHRwcyUzQSUyRiUyRnN1cHBvcnQuZ3JlZW5zbW9rZS5jb20lMkZfX3N3aWZ0JTJGZmlsZXMlMkZmaWxlXzV0eWN3OTI1cDlud2M5NS5naWYKNDA4YTk3ODg4ODljYWEzNGIyZjc0ZjdmNzQ4ZmZiYTgyYWZjMzRiMg=="></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelemz64y5erzap=document.createElement("script");swiftscriptelemz64y5erzap.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "z64y5erzap"; var swifttagurlz64y5erzap="https://support.greensmoke.com/visitor/index.php?/chat_test/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXo2NHk1ZXJ6YXAmdmVyc2lvbj00LjQwLjEwNzkmcHJvZHVjdD1GdXNpb24mY3VzdG9tb25saW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfN3dtZjlnY2l5bHlicWdnLnBuZyZjdXN0b21vZmZsaW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfa2g2cjJ3ODZyNXlxeXdiLmdpZiZjdXN0b21hd2F5PWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfbHk2cHYzZnNncmY3NTNqLmdpZiZjdXN0b21iYWNrc2hvcnRseT1odHRwcyUzQSUyRiUyRnN1cHBvcnQuZ3JlZW5zbW9rZS5jb20lMkZfX3N3aWZ0JTJGZmlsZXMlMkZmaWxlXzV0eWN3OTI1cDlud2M5NS5naWYKNDA4YTk3ODg4ODljYWEzNGIyZjc0ZjdmNzQ4ZmZiYTgyYWZjMzRiMg==";setTimeout("swiftscriptelemz64y5erzap.src=swifttagurlz64y5erzap;document.getElementById('swifttagcontainerz64y5erzap').appendChild(swiftscriptelemz64y5erzap);",1);</script>
+            </div>
+	    <div style="float:right;">
+            <div class="custcare intertxt"><div class="custcareimg"></div><a href="http://www.greensmoke.com/catalog/contact-us/info_4.html">Contact Us:</a></div>           
+            <div id="headerPhone" class="fontinter"></div>
+	     <script type="text/javascript">	       
+	       var idev = ""; //jQuery.cookie('idev');
+	       var phone = "";
+	       var gsphone = "1-877-473-3676";	
+	       var greensmoke = "1-877-GreenSmoke";
+	      
+	       if(idev!=""){
+		   jQuery.get("http://www.greensmoke.com/catalog/affPhoneHeader.php",
+		     function(data){
+			if(data!=""){
+			  jQuery("#headerPhone").html(data);
+			  phone = data;
+			  greensmoke = data;
+			}
+			else{
+			   phone = gsphone;
+			   jQuery("#headerPhone").html(gsphone);			
+			}
+		  });		  
+		  var href = '';
+		  idev = idev==null ? '' : ''+idev+'.html';   
+		  jQuery('#translate a').click(function(){
+		     href = jQuery(this).attr('href');
+		     window.location.href = href+idev;	
+		     return false;
+		  });	
+	       }
+	       else{
+		  phone = gsphone;
+		  jQuery("#headerPhone").html(gsphone);
+		  
+		  jQuery("#headerPhone").mouseover(function() {
+		     jQuery("#headerPhone").html(greensmoke);
+		  });
+	       
+		  jQuery("#headerPhone").mouseout(function() {
+		     jQuery("#headerPhone").html(phone);
+		  });	  
+	       }	      	        
+	    </script>
+	    </div>
         </div>
 
-        <form name="login_frm1" method="post" target="_self" action="javascript:onSubmitByEnterKey1(event.which);">
-            <div class="welcome textcc">Welcome, (<a href="javascript:display('show', 1)" class="textform" id="link1">log in</a> )
-                <div id="explanation1" style="display:none;">
-                    <div class="login_box">
+                
+        <div id="sessFalse" class="welcome textcc" style="display:block;">
+            Welcome, ( <a href="javascript:display('show')" class="textform" id="link">log in</a> )
+            <div id="explanation" style="display:none;">                
+                <div class="login_box">
+                    <div id="login_box" style="display:block;">
+                        <form name="login_frm" method="post">
+                        <input type="hidden" name="remember" value="1">
                         <div class="form_top">
                             <div class="label"><label>Email:</label></div>
-                            <div class="input_cont"><input name="username_top" type="text" class="input_box_top"></div>
+                            <div class="input_cont"><input name="username" id="username" type="text" class="input_box_top"></div>
                         </div>
                         <div class="form_top">
                             <div class="label"><label>Password:</label></div>
-                            <div class="input_cont"><input name="password_top" type="password" class="input_box_top"></div>
+                            <div class="input_cont"><input name="password" id="password" type="password" class="input_box_top"></div>
                         </div>
                         <div class="forget">
-                            <div class="forget_txt"><a href="http://www.greensmoke.com/catalog/index.php?_a=forgotPass"><span style="font-size:11px;">Password ?</span></a>   |   <a href="http://www.greensmoke.com/catalog/index.php?_g=co&amp;_a=reg&amp;co=1&amp;redir="><span style="font-size:11px;">New User</span></a> |   <a href="http://www.greensmoke.com/earn/login.php"><span style="font-size:11px;">Affiliates</span></a></div>
-                            <div class="btn_top"><a href="#" onclick="javascript:submitLoginForm1(); return false;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image45','','http://www.greensmoke.com/catalog/hp-images/btn_go_r.jpg',1)"><img src="http://www.greensmoke.com/catalog/hp-images/btn_go.jpg" name="Image45" width="28" height="15" border="0" id="Image45"></a></div>
+                            <div class="forget_txt"><a href="http://www.greensmoke.com/catalog/index.php?_a=forgotPass"><span style="font-size:11px;">Password?</span></a> | <a href="http://www.greensmoke.com/catalog/index.php?_g=co&amp;_a=reg&amp;co=1&amp;redir="><span style="font-size:11px;">New User</span></a> | <a href="http://earn.greensmoke.com"><span style="font-size:11px;">Affiliates</span></a></div>
+                            <div class="btn_top"><input id="linkTopLogin" name="linkTopLogin" type="image" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image45','','http://www.greensmoke.com/catalog/hp-images/btn_go_r.jpg',1)" src="http://www.greensmoke.com/catalog/hp-images/img_trans.gif" class="login_btn_go"></div>
                         </div>
+                        </form>
                     </div>
-                </div>
+                    <div id="messageTopLogin" style="display:none;"></div>
+                </div>                            
             </div>
-        </form>
+        </div>
+        
+        <div id="sessTrue" class="welcome textcc" style="display:none;">
+            Welcome, <b><a href="http://www.greensmoke.com/catalog/index.php?_a=account" id="topUsername"></a></b>&nbsp; | &nbsp;<b><a href="http://www.greensmoke.com/catalog/index.php?_a=logout">Logout</a></b>
+        </div>
+        
 
         
 
-        <div id="carts">
+        
+
+<div id="carts">
             <div class="view_cart">
-                <div class="view_cart_img"><a href="#"><img src="http://www.greensmoke.com/catalog/hp-images/cart_icon.png" border="0"></a></div>
-                <div class="view_cart_txt text5_top"><a href="/index.php?_g=co&amp;_a=cart">VIEW CART</a> <!--<span class="text6_top"><a href="#">McAfee</a></span><span class="text7_top"><a href="#"> Secure</a></span>--></div>
+                <div class="view_cart_img"><a href="http://www.greensmoke.com/catalog/index.php?_g=co&amp;_a=cart"><div class="overhead_cart"></div></a></div>
+                <div class="view_cart_txt text5_top"><a href="http://www.greensmoke.com/catalog/index.php?_g=co&amp;_a=cart">VIEW CART</a> <!--<span class="text6_top"><a href="#">McAfee</a></span><span class="text7_top"><a href="#"> Secure</a></span>--></div>
             </div>
-            <div class="item text8_top">Items in Cart:0 <br> Total: $         0.00</div>
+            <div class="item text8_top">Items in Cart:0 <br> Total: $0.00          </div>
         </div>
+
 
     </div>
 </div>
-
 <div id="content_header">
     <div id="header_main" style="margin-bottom: -2px;">        
-        <div class="logo_top"><a href="http://www.greensmoke.com"><img src="http://www.greensmoke.com/catalog/hp-images/logo.jpg" border="0"></a></div>
+        <div class="logo_top"><a href="http://www.greensmoke.com"><img src="http://www.greensmoke.com/catalog/hp-images/logo.png" border="0" alt="Green Smoke E-Cigarettes"></a></div>
         <div class="right_section">
             <div class="offer_main">
-                <div class="alert"><span class="text6_top">18+ to Purchase</span><span style="padding-left:15px;" class="cty"><a href="http://www.greensmoke.co.uk/">UK</a>  |  <a href="http://www.greensmoke.co.za/">SA</a></span>
+                <div class="alert"><span class="text6_top">18+ to Purchase</span><span id="translate" style="padding-left:15px;"><a href="http://www.greensmoke.co.uk/"><img src="http://www.greensmoke.com/catalog/hp-images/eu.jpg"></a><a href="http://www.greensmoke.co.za/"><img src="http://www.greensmoke.com/catalog/hp-images/sa.jpg"></a></span>
                 </div>
                 <div class="offer">
                     <ul>
-                        <li><a href="http://www.greensmoke.com/catalog/return-policy/info_28.html">1 Year Warranty</a>  |</li>
-                        <li><a href="http://www.greensmoke.com/catalog/shipping-options/info_24.html">Free Shipping*</a>|</li>
-                        <li><a href="http://www.greensmoke.com/catalog/hreturn-policy/info_28.html">30 Day Money Back</a></li>
+			<li><a href="http://www.greensmoke.com/catalog/info.html">E-Cig Info</a>  |</li>
+			<li><a href="http://www.greensmoke.com/testimonials.html">Testimonials</a>|</li>
+			<li><a href="http://www.greensmoke.com/catalog/product-faq/info_22.html">FAQ</a> |</li>
+			<li><a href="http://www.greensmoke.com/catalog/about-green-smoke/info_1.html">About Us</a></li>		  
                     </ul>
                 </div>
             </div>
-
+ 
             <div id="bar">
                 <div id="main-nav">
                     <ul class="dropdown">
                         <li class="l nav_border_l"><a href="http://www.greensmoke.com/catalog/Starter-Kits/cat_2.html">E-Cigarette Kits</a>
                             <ul>
-                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/green-smoke-starter-kit/prod_7.html">Green Smoke Starter Kit</a></li>
+                                                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/pro-kit/prod_7.html">Pro Kit</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/social-smoker-kit/prod_15.html">Social Smoker Kit</a></li>
+                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/ultimate-kit/prod_14.html">Ultimate Kit</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/love-birds-kit/prod_14.html">Love Birds Kit</a></li>
+                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/express-kit/prod_15.html">Express Kit</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/upower-kit/prod_229.html">U-Power Kit</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/disposables-6pack/prod_239.html">Disposables 6-Pack</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/green-smoke/love-birds-kit/prod_250.html">Love Birds Kit</a></li>
+                                
                             </ul>
                         </li>
                         <li class="m nav_border_m"><a href="http://www.greensmoke.com/catalog/Cartridges/cat_4.html">Cartomizers</a>
                             <ul>
-                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/tobacco-gold-flavormax-cartomizer-5pack/prod_222.html">Tobacco Gold FlavorMax Cartomizer 5-pack</a></li>
+                                                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/flavormax-cartomizer-special/prod_16.html">FlavorMax Cartomizer Special</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/new-flavormax-cartomizers/prod_204.html">New FlavorMax Cartomizers</a></li>
+                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/flavormax™-cartomizers/prod_204.html">FlavorMax™ Cartomizers</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/flavormax-cartomizer-special/prod_16.html">FlavorMax Cartomizer Special</a></li>
+                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/super-flavormax-cartomizer-special/prod_36.html">Super FlavorMax Cartomizer Special</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/classic-cartomizer-blowout-not-flavormax/prod_5.html">Classic Cartomizer Blowout (not FlavorMax)</a></li>
-                                
-                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/super-flavormax-cartomizer-special/prod_36.html">Super FlavorMax Cartomizer Special</a></li>  </ul>
+                                <li><a href="http://www.greensmoke.com/catalog/cartomizers/flavormax-5-flavor-variety-pack/prod_221.html">FlavorMax 5 Flavor Variety Pack</a></li>
+                                  </ul>
                         </li>
                         <li class="m nav_border_m"><a href="http://www.greensmoke.com/catalog/Batteries/cat_3.html">E-Cig Batteries</a>
                             <ul>
-                                <li><a href="http://www.greensmoke.com/catalog/batteries/pink-electronic-cigarette-battery/prod_176.html">Pink Electronic Cigarette Battery</a></li>
+                                                                <li><a href="http://www.greensmoke.com/catalog/batteries/3-batteries-super-pack/prod_242.html">3 Batteries Super Pack</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/batteries/electronic-cigarette--battery/prod_2.html">Electronic Cigarette  Battery</a></li>  </ul>
+                                <li><a href="http://www.greensmoke.com/catalog/batteries/usb-electronic-cigarette/prod_33.html">USB Electronic Cigarette</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/batteries/electronic-cigarette--battery/prod_2.html">Electronic Cigarette  Battery</a></li>
+                                  </ul>
 
                         </li>
                         <li class="m nav_border_m"><a href="http://www.greensmoke.com/catalog/Chargers/cat_5.html">E-Cig Chargers</a>
                             <ul>
+                                                                <li><a href="http://www.greensmoke.com/catalog/chargers/usb-charger-super-pack/prod_240.html">USB Charger Super Pack</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/chargers/high-powered-car-adapter/prod_251.html">High Powered Car Adapter</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/chargers/high-powered-wall-adapter/prod_252.html">High Powered Wall Adapter</a></li>
+                                
                                 <li><a href="http://www.greensmoke.com/catalog/chargers/usb-charger-for-electronic-cigarettes/prod_11.html">USB Charger for Electronic Cigarettes</a></li>
                                 
                                 <li><a href="http://www.greensmoke.com/catalog/chargers/home-adapter/prod_22.html">Home Adapter</a></li>
                                 
                                 <li><a href="http://www.greensmoke.com/catalog/chargers/car-adapter-for-usb-charger/prod_20.html">Car Adapter for USB Charger</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/chargers/usb-home-charger-kit/prod_25.html">USB Home Charger Kit</a></li>  </ul>
+                                <li><a href="http://www.greensmoke.com/catalog/chargers/usb-home-charger-kit/prod_25.html">USB Home Charger Kit</a></li>
+                                  </ul>
 
                         </li>
                         <li class="m nav_border_m"><a href="http://www.greensmoke.com/catalog/Accessories/cat_6.html">Accessories</a>
                             <ul>
-                                <li><a href="http://www.greensmoke.com/catalog/accessories/easy-traveler-coffee-cup/prod_209.html">Easy Traveler Coffee Cup</a></li>
-                                
-                                <li><a href="http://www.greensmoke.com/catalog/accessories/usb-electronic-cigarette/prod_33.html">USB Electronic Cigarette</a></li>
-                                
-                                <li><a href="http://www.greensmoke.com/catalog/accessories/green-smoke-carrying-case/prod_149.html">Green Smoke Carrying Case</a></li>
+                                                                <li><a href="http://www.greensmoke.com/catalog/accessories/green-smoke-carrying-case/prod_149.html">Green Smoke Carrying Case</a></li>
                                 
                                 <li><a href="http://www.greensmoke.com/catalog/accessories/green-smoke®-sparkle-carrying-case/prod_159.html">Green Smoke® Sparkle Carrying Case</a></li>
                                 
-                                <li><a href="http://www.greensmoke.com/catalog/accessories/racing-tshirt/prod_190.html">Racing T-Shirt</a></li>
+                                <li><a href="http://www.greensmoke.com/catalog/accessories/25-rubber-tips/prod_31.html">25 Rubber Tips</a></li>
+                                
+                                <li><a href="http://www.greensmoke.com/catalog/accessories/easy-traveler-coffee-cup/prod_209.html">Easy Traveler Coffee Cup</a></li>
                                 
                                 <li><a href="http://www.greensmoke.com/catalog/accessories/green-smoke-racing-cap/prod_198.html">Green Smoke Racing Cap</a></li>
-                                
-                                <li><a href="http://www.greensmoke.com/catalog/accessories/100-rubber-tips/prod_31.html">100 Rubber Tips</a></li>  </ul>
+                                  </ul>
 
                         </li>
                         <li class="r nav_border_r"><a href="http://www.greensmoke.com/catalog/become-a-distributor/info_18.html">Distributors</a></li>
@@ -340,143 +502,45 @@ pageTracker._trackPageview();
 
 </div>
 
+
 <div id="page">
-   
-		
+    
 
-	
-	<div id="social">
-		<div id="breadCrumb" class="home text5">
-			<a href="http://www.greensmoke.com/catalog" class="breadcrumbs">Home</a> <img src="http://www.greensmoke.com/catalog/images/bullet1.png" alt=""> <a href="http://www.greensmoke.com/catalog/privacy-policy.html" class="breadcrumbs">privacy-policy</a>
-		</div>
-            <div id="likeButtons">
-		<!--a href="http://www.facebook.com/pages/Green-Smoke/180388099502" target="_blank"><img src="http://www.greensmoke.com/catalog/images-special/new-images/fb-button.png"></a>  <a href="http://twitter.com/GreenSmokeCig"  target="_blank"><img src="http://www.greensmoke.com/catalog/images-special/new-images/twitter-button.png"></a>&nbsp;<a href="http://blog.greensmoke.com/feed/"><img src="http://www.greensmoke.com/catalog/images-special/new-images/rss_1.jpg" border="0" alt="RSS" /></a>&nbsp;-->	   
 
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style" style="float:left; margin-right:2px;"> 
-<a class="addthis_button_facebook_like" fb:like:layout="button_count" addthis:url="https://www.facebook.com/pages/Green-Smoke/180388099502"></a>
+<div id="topImage" style="text-align:center;">
+ <a href="http://www.greensmoke.com/memorialday/"><img src="/catalog/images/banners/memorialday2012_ip.jpg" alt="Memorial Day 2012" border="0"></a>
 </div>
-<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
-<!-- AddThis Button END -->
 
+
+    <div id="social">
+	<div id="breadCrumb" class="home text5"><a href="http://www.greensmoke.com/" class="breadcrumbs">Home</a> <img src="http://www.greensmoke.com/catalog/images/bullet1.png" alt=""> <a href="http://www.greensmoke.com/catalog/privacy-policy.html" class="breadcrumbs">privacy-policy</a></div>
+        <div id="likeButtons">
 <div class="twitter">
 <a href="https://twitter.com/GreenSmokeCig" class="twitter-follow-button" data-show-screen-name="false"></a> 
 <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
 </div>
 
-
 <div class="googlePlus">
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <g:plusone size="medium" href="http://www.greensmoke.com/"></g:plusone>
 </div>
-	    </div>
-
-    <div id="content">
-		<div id="middle_top">
-			<div class="wideCart">
-				<div id="leftCol">
-                <script type="text/javascript">
-var url = new Array('Starter-Kits/cat_2.html','Cartridges/cat_4.html','batteries/electronic-cigarette-battery/prod_2.html','Chargers/cat_5.html','cases-accessories/cat_6.html');
-jQuery(document).ready(function(){
-    var i = 0;
-    jQuery('a[go]').each(function(){
-        jQuery(this).attr('href','/catalog/'+url[jQuery(this).attr('go')]);
-        i++;
-    });
-}); //End ready
-</script>
-<div class="categoryBox">
-  <div class="boxWrap">
-    <a go="0"><img src="http://www.greensmoke.com/catalog/hp-images/thumbs/thumb_starterkit.gif" alt="E-Cigarette Starter Kits"></a>
-    <a href="http://www.greensmoke.com/catalog/Starter-Kits/cat_2.html"><p>Green Smoke<sup><span style="font-size:75%;">®</span></sup> E-Cigarette Starter Kits</p></a>
-    <div class="stock">In Stock<a go="0" class="more"><em>More</em></a>							</div>
-  </div>
 </div>
 
-<div class="categoryBox">
-  <div class="boxWrap">
-	<a go="1"><img src="http://www.greensmoke.com/catalog/hp-images/thumbs/thumb_cartridge.gif" alt="Electronic Cigarette Cartridges"></a>
-	<a href="http://www.greensmoke.com/catalog/Cartridges/cat_4.html"><p>Electric Cigarette Cartridges</p></a>
-	<div class="stock">In Stock<a go="1" class="more"><em>More</em></a></div>
-  </div>
-</div>
-
-<div class="categoryBox">
-  <div class="boxWrap">
-	<a go="2"><img src="http://www.greensmoke.com/catalog/hp-images/thumbs/thumb_battery.gif" alt="Electric Cigarette Battery" height="78"></a>
-	<a href="http://www.greensmoke.com/catalog/batteries/electronic-cigarette-battery/prod_2.html"><p>Electronic Cigarette Battery</p></a>
-	<div class="stock">In Stock<a go="2" class="more"><em>More</em></a></div>
-  </div>
-</div>
-
-<div class="categoryBox">
-  <div class="boxWrap">
-	<a go="3"><img src="http://www.greensmoke.com/catalog/hp-images/thumbs/thumb_usbcharger.gif" alt="Electric Cigarette Chargers"></a>
-	<a href="http://www.greensmoke.com/catalog/Chargers/cat_5.html"><p>Electric Cigarette Chargers</p></a>
-	<div class="stock">In Stock<a go="3" class="more"><em>More</em></a></div>
-  </div>
-</div>
-
-<div class="categoryBox">
-  <div class="boxWrap">
-	<a go="4"><img src="http://www.greensmoke.com/catalog/hp-images/thumbs/case.gif" alt="E-cigarette Cases and Accessories"></a>
-	<a href="http://www.greensmoke.com/catalog/cases-accessories/cat_6.html"><p>E-Cigarette Cases and Accessories</p></a>
-	<div class="stock">In Stock<a go="4" class="more"><em>More</em></a></div>
-</div>
-</div>
-
-<div class="whygs">
-  <div class="inner">
-    <h3>WHY GREEN SMOKE<sup><span style="font-size:75%;">®</span></sup>?</h3>
-    <ul>
-	  <li>No ash or cigarette butts</li>
-	  <li>Fresh atomizer in every cartridge</li>
-	  <li>Easy to use and maintain</li>
-	  <li>Smoke in many no smoking zones</li>
-	  <li>No bad odor on clothes or breath</li>
-	  <li>Large variety of flavors and strengths</li>
-	  <li>Exceptionally high smoke volume</li>
-	  <li>30 Day Money Back Guarantee</li>
-      <li>1 Year Warranty on all e-cigarettes</li>
-	  <li>Best customer service</li>
-	  <li>More smoke for your money</li>
-	  <li>Free Shipping *</li>
-      <li class="more">Additional <a href="http://www.greensmoke.com/catalog/why-green-smoke-good_for_me/info_11.html">E-Cigarette Benefits...</a></li>
-	</ul>
-  </div>
-</div>
-
-<div class="follow">
-  <a target="_blank" href="http://twitter.com/GreenSmokeCig"><img src="http://www.greensmoke.com/catalog/hp-images/follow_me_on_twitter.jpg" alt="Twitter"></a>
-</div>
-
-<div class="follow">
-  <a target="_blank" href="http://www.facebook.com/pages/Green-Smoke/180388099502?v=app_112078882147346"><img src="http://www.greensmoke.com/catalog/hp-images/follow_me_on_facebook.jpg" alt="Facebook"></a>
-</div>
-			</div>
-
-			<div id="middleColCart">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-  <td style="background-image:url('../../catalog/images/headingbg.gif');" width="11"><img src="http://www.greensmoke.com/catalog/../../catalog/images/headingleft.gif" width="11" height="32" alt="GreenSmoke"></td>
-  <td style="background-image:url('../../catalog/images/headingbg.gif'); text-align:left;" class="heading"><h1>Green Smoke Privacy Policy</h1></td>
-  <td align="right" style="background-image:url('../../catalog/images/headingbg.gif');"><img src="http://www.greensmoke.com/catalog/../../catalog/images/headingaro.gif" width="23" height="32" alt="GreenSmoke"></td>
-</tr>
-<tr>
-  <td colspan="3"><img src="http://www.greensmoke.com/catalog/images/ter.gif" height="5" alt="Greensmoke"></td>
-</tr>
-</tbody></table>
+	<div id="wrapper">
+	    <div id="middle_lft">
+<div class="headingTitle"><h1>Green Smoke Privacy Policy</h1></div>
 
 <table width="650" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
   <td style="padding:4px 10px 4px 0" class="basketViewDoc">
 
+  
   <div class="divFAQ">
 <p>Green Smoke, Inc. understands that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting. 
 </p><h2>Your Personal Information </h2>
 <p>The information we learn from customers helps us to personalize and continually improve our customer service, while developing ways to improve your shopping experience at Greensmoke.com. Following is some of the information we gather about our users. </p>
-<p><strong>•<em> Information You Provide Us:</em></strong> When you complete a Customer Profile Form on- line or communicate with us via e-mail, letter, fax or phone, we receive and store the information you've provided. This information is basic, including: name, address, phone, fax and cell phone numbers, e-mail address and business information (if applicable). We use this information that you provide for such purposes as responding to your requests, communicating with you and customizing future shopping for you.</p>
-<p><strong>•<em> Third Party Vendors:</em> </strong>In addition to collecting your information, we have third party vendors who will also collect your information in order to provide the products and/or services you've requested (e.g. credit card companies, fulfillment companies, call centers, marketing companies and freight companies). In general, these companies are intermediaries acting solely to provide services related to your request. Most of these vendors have their own privacy policy to protect your information, and have access to personal information needed to perform their functions on behalf of Greensmoke.com, but may not use the same for other purposes.</p>
+<p><strong>•<em> Information You Provide Us:</em></strong> When you complete a Customer Profile Form on- line or communicate with us via e-mail, letter, fax or phone, we receive and store the information you`ve provided. This information is basic, including: name, address, phone, fax and cell phone numbers, e-mail address and business information (if applicable). We use this information that you provide for such purposes as responding to your requests, communicating with you and customizing future shopping for you.</p>
+<p><strong>•<em> Third Party Vendors:</em> </strong>In addition to collecting your information, we have third party vendors who will also collect your information in order to provide the products and/or services you`ve requested (e.g. credit card companies, fulfillment companies, call centers, marketing companies and freight companies). In general, these companies are intermediaries acting solely to provide services related to your request. Most of these vendors have their own privacy policy to protect your information, and have access to personal information needed to perform their functions on behalf of Greensmoke.com, but may not use the same for other purposes.</p>
 <p><strong>• <em>Are Cookies Used On The Greensmoke.com Site:</em></strong> We use cookies to obtain a variety of information which provides us details as to what product and information interest our visitors view the most. Cookies can also be used to protect your information. If you wish to disable our cookie from obtaining this information, you can seek programs that will allow you to visit our site anonymously. </p>
 <h2>Does Greensmoke.com Share the Information It Receives?</h2>
 <p>Under no circumstances will we ever give away or sell your personal information to anyone else for any reason whatsoever, without prior written approval from yourself. Any information we gain through our use of customer polls, surveys, cookies, session tracking or anything else, is used internally and for the sole purpose of providing you better service. If you are on our mailing list and you ask us to remove you, we will do so immediately and will not attempt to sell your information. As we do with our own, we respect your privacy. </p>
@@ -488,64 +552,85 @@ jQuery(document).ready(function(){
 </h2><h2>Conditions of Use, Notices, and Revisions </h2>
 <p>If you choose to visit Greensmoke.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the laws of the State of Florida. If you have any concern about privacy at Greensmoke.com, please contact us with a thorough description, and we will try to resolve it. </p>
 <p>Because our business changes constantly, our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web Site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.</p>
-<div align="center">
-<table cellspacing="0" cellpadding="0" border="0" width="391">
-    <tbody>
-        <tr>
-            <td><a href="http://www.greensmoke.com/catalog/green-smoke-starter-kits/cat_2.html" style="outline: medium none;"><img height="104" border="0" width="215" alt="Green Smoke Starter Kit" src="http://www.greensmoke.com/catalog/images/gsstrkt.jpg"></a></td>
-            <td><a href="http://www.greensmoke.com/catalog/electronic-cigarette-cartridges/cat_4.html"><img height="104" border="0" width="215" alt="Electronic Cigarette Cartridges" src="http://www.greensmoke.com/catalog/images/flavors.jpg"></a></td>
-        </tr>
-        <tr>
-            <td colspan="2"><img height="8" width="1" src="http://www.greensmoke.com/catalog/../../../../images/ter.gif" alt=""></td>
-        </tr>
-        <tr>
-            <td><a href="http://www.greensmoke.com/catalog/cartridges/super-cartridges-special/prod_36.html"><img height="88" width="215" title="Sizzling summer Super Cartridges Special only $12.99 per 5 pack" alt="Sizzling summer Super Cartridges Special only $12.99 per 5 pack" src="http://www.greensmoke.com/catalog/images/summerspcl.jpg"></a></td>
-            <td><a href="http://www.greensmoke.com/catalog/become-a-sales-rep/info_30.html"><img height="88" width="215" title="Sales Rep. Program" alt="Sales Rep. Program" src="http://www.greensmoke.com/catalog/images/salesrep.jpg"></a></td>
-        </tr>
-    </tbody>
-</table>
-<a class="txtlink2" href="http://www.greensmoke.com/catalog/green-smoke-starter-kits/cat_2.html">Get Green Smoke™ NOW!</a> </div>
 </div>
-
+  
+  
+  
   
 
   
 
+  
+
+  
+  
   <div class="sharethis" align="right">
   <script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=rotate&amp;publisher=87925063-63b8-4de9-a806-7a44191eadff"></script>
   </div>
   </td>
 </tr>
 </tbody></table>
-			</div>
-
-<div id="rightCol" style="background:none;"></div>
-
-		    <div class="clear"></div>
-
-		  </div>
-
-
-	  </div>
 
 </div>
-
-<center>
+	    
+	    <div id="rightCol">
+		
+		<div class="liveChat">   
+		<!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainerrqhef164is"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainerrqhef164is"><div style="display: inline;" id="swifttagdatacontainerrqhef164is"></div><script type="text/javascript" src="https://support.greensmoke.com/visitor/index.php?/Default_9p7sr/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXJxaGVmMTY0aXMmdmVyc2lvbj00LjMwLjc0NSZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9MTAmY3VzdG9tb25saW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfdHg5bjYyb2w3ZHc3cDJzLmdpZiZjdXN0b21vZmZsaW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfemZkODJlNXhiajRzamU5LnBuZyZjdXN0b21hd2F5PWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfYTB6dnVqeWF0NXNrdWsyLnBuZyZjdXN0b21iYWNrc2hvcnRseT1odHRwcyUzQSUyRiUyRnN1cHBvcnQuZ3JlZW5zbW9rZS5jb20lMkZfX3N3aWZ0JTJGZmlsZXMlMkZmaWxlX3ppNDhqcHRzc3VpbDVweC5wbmcKZTFkOWY4YWEzMzQ0YTVhYzZjMzI3YzA2ZTlkMGJjZDBkNDY1MzkxYQ=="></script></td> </tr></tbody></table></div> <script type="text/javascript">var swiftscriptelemrqhef164is=document.createElement("script");swiftscriptelemrqhef164is.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "rqhef164is"; var swifttagurlrqhef164is="https://support.greensmoke.com/visitor/index.php?/Default_9p7sr/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXJxaGVmMTY0aXMmdmVyc2lvbj00LjMwLjc0NSZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9MTAmY3VzdG9tb25saW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfdHg5bjYyb2w3ZHc3cDJzLmdpZiZjdXN0b21vZmZsaW5lPWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfemZkODJlNXhiajRzamU5LnBuZyZjdXN0b21hd2F5PWh0dHBzJTNBJTJGJTJGc3VwcG9ydC5ncmVlbnNtb2tlLmNvbSUyRl9fc3dpZnQlMkZmaWxlcyUyRmZpbGVfYTB6dnVqeWF0NXNrdWsyLnBuZyZjdXN0b21iYWNrc2hvcnRseT1odHRwcyUzQSUyRiUyRnN1cHBvcnQuZ3JlZW5zbW9rZS5jb20lMkZfX3N3aWZ0JTJGZmlsZXMlMkZmaWxlX3ppNDhqcHRzc3VpbDVweC5wbmcKZTFkOWY4YWEzMzQ0YTVhYzZjMzI3YzA2ZTlkMGJjZDBkNDY1MzkxYQ==";setTimeout("swiftscriptelemrqhef164is.src=swifttagurlrqhef164is;document.getElementById('swifttagcontainerrqhef164is').appendChild(swiftscriptelemrqhef164is);",1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! -->
+		</div>
+		
+		<div class="col_box">
+		  <div class="prodimg"><a href="http://www.greensmoke.com/catalog/Starter-Kits/cat_2.html"><img src="http://www.greensmoke.com/catalog/images/img1.png" alt="Electronic Cigarette Starter Kit" border="0"></a></div>
+		  <div class="txtimg">
+		    <p><a href="http://www.greensmoke.com/catalog/Starter-Kits/cat_2.html">Electronic Cigarette <b>Starter Kit</b></a></p>
+		  </div>
+		  <div class="more"><a href="http://www.greensmoke.com/catalog/Starter-Kits/cat_2.html"></a></div>
+		</div>
+		<div class="col_box">
+		  <div class="prodimg"><a href="http://www.greensmoke.com/catalog/Cartridges/cat_4.html"><img src="http://www.greensmoke.com/catalog/images/img2.png" alt="Electronic Cigarette Cartomizers" border="0"></a></div>
+		  <div class="txtimg">
+		    <p><a href="http://www.greensmoke.com/catalog/Cartridges/cat_4.html">Electronic Cigarette <b>Cartomizers</b></a></p>
+		  </div>
+		  <div class="more"><a href="http://www.greensmoke.com/catalog/Cartridges/cat_4.html"></a></div>
+		</div>
+		<div class="col_box">
+		 <div class="prodimg"><a href="http://www.greensmoke.com/catalog/Batteries/cat_3.html"><img src="http://www.greensmoke.com/catalog/images/img3.png" alt="Electronic Cigarette Batteries" border="0"></a></div>
+		  <div class="txtimg">
+		    <p><a href="http://www.greensmoke.com/catalog/Batteries/cat_3.html">Electronic Cigarette <b>Batteries</b></a></p>
+		  </div>
+		  <div class="more"><a href="http://www.greensmoke.com/catalog/Batteries/cat_3.html"></a></div>
+		</div>
+		<div class="col_box">
+		 <div class="prodimg"><a href="http://www.greensmoke.com/catalog/Chargers/cat_5.html"><img src="http://www.greensmoke.com/catalog/images/img4.png" alt="Electronic Cigarette Chargers" border="0"></a></div>
+		  <div class="txtimg">
+		    <p><a href="http://www.greensmoke.com/catalog/Chargers/cat_5.html">Electronic Cigarette <b>Chargers</b></a></p>
+		  </div>
+		  <div class="more"><a href="http://www.greensmoke.com/catalog/Chargers/cat_5.html"></a></div>
+		</div>
+		<div class="col_box">
+		  <div class="prodimg"><a href="http://www.greensmoke.com/catalog/Accessories/cat_6.html"><img src="http://www.greensmoke.com/catalog/images/img5.png" alt="Electronic Cigarette Cases and Accessories" border="0"></a></div>
+		  <div class="txtimg">
+		    <p><a href="http://www.greensmoke.com/catalog/Accessories/cat_6.html">E-Cig <br><b>Cases and Accessories</b></a></p>
+		  </div>
+		  <div class="more"><a href="http://www.greensmoke.com/catalog/Accessories/cat_6.html"></a></div>
+		</div>
+	    </div>
+	</div>
 <div class="warning">
         	<p><span class="text6">WARNING:</span> This product is intended for use by persons 18 or older, and not by children, women who are pregnant or breast feeding, or persons with or at risk of heart disease, high blood pressure, diabetes, or taking medicine for depression or asthma. If you have a demonstrated allergy or sensitivity to nicotine or any combination of inhalants, consult your physician before using this product. This product is sold purely for recreational purposes - it is not a smoking cessation product and has not been tested as such. You must be over the legal age in your state to buy or use this product.<br>
         	 <br>
 			Nicotine is highly addictive and habit forming. Keep out of reach of children. This product contains Nicotine, a chemical known to the state of California to cause birth defects or other reproductive harm.</p>
     </div>
-</center></div></div>
+</div></div>
 
-<div id="footer_main" style="margin-top:20px;">
+<div id="footer_main">
    <div class="footer_in" style="padding-left: 95px;">
       <div class="footer_links">
-        	<h4>SITE</h4>
+            <h4>SITE</h4>
             <ul>
-        	<li><a href="/">HOME</a></li>
+        	<li><a href="http://www.greensmoke.com/">HOME</a></li>
            	<li><a href="http://www.greensmoke.com/catalog/cat_saleItems.html">SHOP E-CIGS</a></li>
-           	<li><a href="http://www.greensmoke.com/catalog/sitemap.html">SITEMAP</a></li>
+           	<li><a href="#" onclick="toggleSitemap('status',1);return false;">SITEINFO </a></li>
             	<li><a href="http://www.greensmoke.com/catalog/terms-and-conditions/info_7.html">TERMS</a></li>
             	<li><a href="http://www.greensmoke.com/catalog/privacy-policy.html">PRIVACY</a></li>
             </ul>
@@ -554,7 +639,7 @@ jQuery(document).ready(function(){
         	<h4>COMPANY</h4>
             <ul>
         	<li><a href="http://blog.greensmoke.com/">BLOG</a></li>
-           	<li><a href="http://www.greensmoke.com/earn/join.php">AFFILIATE</a></li>
+           	<li><a href="http://earn.greensmoke.com/home/">AFFILIATE PROGRAM</a></li>
            	<li><a href="http://www.greensmoke.com/catalog/press-release/info_49.html">PRESS RELEASES</a></li>
                 <li><a href="http://www.greensmoke.com/catalog/become-a-distributor/info_18.html">BE A DISTRIBUTOR</a></li>
                 <li><a href="http://www.greensmoke.com/catalog/info.html">E-CIG INFO</a></li>
@@ -564,58 +649,99 @@ jQuery(document).ready(function(){
         	<h4>FOLLOW US</h4>
             <ul>
         	<li><a href="http://twitter.com/GreenSmokeCig" target="_blank">TWITTER</a></li>
-           	<li><a href="http://www.facebook.com/GreenSmokeElectronicCigarette" target="_blank">FACEBOOK</a></li>
-           	<li><a href="http://www.youtube.com/user/GreenSmokeChannel">YOUTUBE</a></li>
+           	<li><a href="http://www.facebook.com/greensmokecigs" target="_blank">FACEBOOK</a></li>
+           	<li><a href="http://www.youtube.com/user/GreenSmokeChannel" target="_blank">YOUTUBE</a></li>
+		<li><a href="https://plus.google.com/103150788672666499995/posts" target="_blank">GOOGLE +</a></li>
             	<li><a href="http://blog.greensmoke.com/feed/">RSS BLOG</a></li>
             </ul>
         </div>
         <div class="footer_links1" style="width: 30px;">
 &nbsp;
         </div>        
-
- <!--      <div class="macafee">
-        <div class="macafee_in">
-       <a name="trustlink" href="http://secure.trust-guard.com/certificates/5553" target="_blank"
-onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='nonwin',scrollbars=yes,width=517,height='screen.availHeight',menubar=no,toolbar=no'); return false;"
-oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 'd.getFullYear()'.'); return false;">
-<img name="trustseal" alt="Business Verified" style="border: 0;" src="https://secure.trust-guard.com/seals/5553/business/header/gray" /></a></div>
-        
-        <div class="macafee_in">
- -->
-        <!-- START SCANALERT CODE -->
-<!--<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=greensmoke.com"><img width="94" height="54" border="0" src="https://images.scanalert.com/meter/greensmoke.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a> -->
-<!-- END SCANALERT CODE </div>
-        </div> --> 
-        
+    
         <div class="creadit">
         	<div class="card">
-                    <img src="http://www.greensmoke.com/catalog/images/1.png" alt="VISA" border="0">
-                    <img src="http://www.greensmoke.com/catalog/images/icon-master.png" alt="Master Card" border="0">
-                    <img src="http://www.greensmoke.com/catalog/images/2.png" border="0" alt="American Express">
-                    <img src="http://www.greensmoke.com/catalog/images/4.png" border="0" alt="Discover">
-                    <a href="http://icheckgateway.com/"><img src="http://www.greensmoke.com/catalog/images/3.png" border="0" alt="Check Gateway"></a>
-                    <img src="http://www.greensmoke.com/catalog/images/5.png" border="0" alt="We ship worldwide">
+                    <div class="visa"></div>
+                    <div class="master"></div>
+                    <div class="americanExpress"></div>
+                    <div class="discover"></div>
+                    <a href="http://icheckgateway.com/" class="check"></a>
+                    <div class="shipWorldwide"></div>
                 </div>
-                <div class="gurt1"><img src="http://www.greensmoke.com/catalog/images/6.png" alt="United States Postal Service" border="0"><img src="http://www.greensmoke.com/catalog/images/7.png" alt="FedEx" border="0"></div>
-      </div>
-          <div class="secure1"><a href="http://www.greensmoke.com/catalog/return-policy/info_28.html"><img src="http://www.greensmoke.com/catalog/images/30days.png" alt=""></a></div>
-        <div class="secure"><a href="#" onclick="open('https://seal.godaddy.com/verifySeal?sealID=uiOV98zfwSsiFFjpk0iPsGedCgZvjXtOs7TKFM1lUeb6aHUCFhIbh','','width=600,height=360'); return false;"><img src="http://www.greensmoke.com/catalog/images/watch.png" alt=""></a></div>
-<div class="secure2">
-       <table border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers.">
-<tbody><tr>
-<td align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.greensmoke.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
-</tr>
-</tbody></table>
+                <div class="gurt">
+                    <div class="usps"></div>
+                    <div class="fedEx"></div>
+		</div>
+	</div>
+	
+	<div class="secure1">
+	<a title="Click for the Business Review of Green Smoke, Inc., a Cigar &amp; Cigarette &amp; Tobacco Dealers - Retail in Miami FL" href="https://www.bbb.org/south-east-florida/business-reviews/tobacco-products-retail/green-smoke-in-miami-fl-92018438#sealclick"><img alt="Click for the BBB Business Review of this Cigar &amp; Cigarette &amp; Tobacco Dealers - Retail in Miami FL" style="border: 0;" src="https://seal-Seflorida.bbb.org/seals/blue-seal-63-134-whitetxt-greensmokeinc-92018438.png"></a>
+	</div>
+	
+        <div class="secure2">
+           <table border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers.">
+		<tbody><tr>
+		    <td align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.greensmoke.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+			<!-- START SCANALERT CODE -->
+			<div class="macafee_in">
+				<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=greensmoke.com"><img width="94" height="54" border="0" src="https://images.scanalert.com/meter/greensmoke.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+			</div>
+			<!-- END SCANALERT CODE -->
+			</td>
+		</tr>
+           </tbody></table>
         </div>
         <div class="copy">
-        	<div class="footer_logo"><a href="/"><img src="http://www.greensmoke.com/catalog/images/footer-logo.png" border="0" alt="GreenSmoke"></a></div>
+            <div class="footer_logo"><a href="http://www.greensmoke.com/" class="footer_logo_img"></a></div>
+	    <div class="secure3"><a href="http://www.greensmoke.com/catalog/return-policy/info_28.html" class="return-policy"></a></div>
             <div style="display:none;" class="footer_counter" id="affiliatefooterinfo"></div>
         </div>
-        <div class="copyright">Green Smoke Inc. USA © 2011</div>
+        <div class="copyright">Green Smoke Inc. USA © 2012</div>
+	<div id="sitemapDiv"><table cellspacing="0" cellpadding="0" id="status1">
+  <tbody><tr>
+    <td width="100%"><h1 align="center">Buy E-Cigarettes Online<br> 
+      Shop Green Smoke's Vapor Electric Cigarettes</h1>
+        <table align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="top" width="440" align="left"><p> Green Smoke® was founded to provide smokers with an <strong>exciting new alternative to traditional cigarettes! </strong>The Green Smoke® vapor e-cig provides the look and feel of a typical cigarette, but runs on a rechargeable battery, with no need to light up. Green Smoke® e-cigarette users inhale nicotine and full bodied flavoring through a vapor that has the same effect as traditional cigarettes but without the ash.</p>            </td>
+            <td valign="top" width="20" align="left"></td>
+            <td valign="top" width="440" align="left"><p> Enhance your smoking experience and enjoy the smoking sensation without the lingering smell traditional tobacco cigarettes leave.  With Green Smoke® <a href="http://www.greensmoke.com/electroniccigarettes/" title="electronic cigarettes">electronic cigarettes</a>, you can now enjoy affordable vapor smoking without your home, clothing or car smelling like an ashtray! </p> </td>
+          </tr>
+      </tbody></table>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><p><a href="http://www.greensmoke.com/catalog/Starter-Kits/cat_2.html" title="electronic cigarette starter kits">Electronic Cigarette Starter Kit</a> - Find the perfect vapor smoking starter kits that fits your lifestyle. <br>
+        <a href="http://www.greensmoke.com/catalog/Cartridges/cat_4.html" title="e-cigarette cartridges: cartomizers">E-Cigarette Cartridges: Flavormax Cartomizers</a> - We set the standards for the electronic cigarette industry with Green Smoke 2-piece e-cigarette design that combines the atomizer with the cartridge.<br>
+ <a href="http://www.greensmoke.com/catalog/Accessories/cat_6.html" title="e-cig accessories">E-Cig Accessories</a> - 
+ Find some cool electric cig accessories to go with your favorite vapor cigarettes.<br><a href="http://www.greensmoke.com/catalog/Batteries/cat_3.html" title="vapor e-cigarette batteries">Vapor E-Cig Batteries</a> - 
+ Looking for batteries to power your Green Smoke® electric cigarette? Keep your green cigarettes always ready by charging your spare battery when not in use.<br> <a href="http://www.greensmoke.com/catalog/Chargers/cat_5.html">Electronic Cigarette Chargers</a> - 
+ Need a quick recharge? Shop now for a variety of e-cig chargers.<br> <a href="http://www.greensmoke.com/catalog/become-a-distributor/info_18.html" title="wholesale electric cigs">Wholesale Electric Cigs</a> - Contact us for distribution and wholesale pricing.
+ </p>
+      <p><strong>Vaping Guides</strong></p>      
+      <blockquote>
+        <p><a href="http://www.greensmoke.com/catalog/what-is-green-smoke-/info_29.html" title="what is e-cigarette">   What is the Green Smoke E-Cigarettes?</a>        <br>
+          <a href="http://www.greensmoke.com/catalog/compare-green-smoke-to-other-electric-cigarettes/info_10.html" title="compare electric cigarettes">Electric Cigarettes Comparison</a><br>
+          <a href="http://www.greensmoke.com/catalog/smokeless-green-smoke/info_36.html" title="smokeless cigarettes">What is Smokeless Cigarette?</a><br>
+          <a href="http://www.greensmoke.com/catalog/info.html" title="vapor smoking faq">More Vapor Smoking FAQ</a>      </p>
+          <p><a title="Electric Cig Learning Center" href="http://www.resources.greensmoke.com/">Electric Cig Learning Center </a></p>
+            <p>&nbsp;</p>
+        <div align="center"><strong>Green Smoke® Vapor E-Cigs <br>
+        Best Smokeless Cigarettes For Authentic Feel and Taste </strong><br> 
+          30-Day Money Back Guarantee. <br>
+          <br>
+          <br> 
+        </div>
+      </blockquote>      </td>
+  </tr>
+</tbody></table>  
+<script language="javascript"> toggleSitemap('status',1) </script></div>
     </div>
-      
 </div>
-
 
 <link href="http://www.greensmoke.com/catalog/skins/GreenSmoke2010/styleSheets/colorbox_age.css" rel="stylesheet" type="text/css">
 <link href="/catalog/skins/GreenSmoke2010/styleSheets/ageConfirm.css" rel="stylesheet" type="text/css">
@@ -682,9 +808,21 @@ oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image
 
 
 
-<!-- GS-3296 -->
 
-<!-- GS-3296 -->
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+document.write(unescape("%3Cscript%20src='"+
+(document.location.protocol=='https:'?
+'https://clicktale.pantherssl.com/':
+'http://s.clicktale.net/')+
+"WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(1353,0.6,"www09");
+</script>
+<!-- ClickTale end of Bottom part -->
 
 
 
