@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeround.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214110347id_/http%3A//xeround.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeround.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529130226id_/http%3A//xeround.com/privacy-policy) for the most accurate reproduction.*
 
 # Xeround Cloud DBaaS Website and Service Privacy Policy | Xeround
 
