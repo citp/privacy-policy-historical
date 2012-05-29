@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookoo.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129062818id_/http%3A//www.bookoo.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookoo.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529204048id_/http%3A//www.bookoo.com/privacy.jsp) for the most accurate reproduction.*
 
 # bookoo - yard sales and classifieds in bookoo, US
 
@@ -10,11 +10,11 @@ Here's the short version: we respect your privacy and never release or misuse yo
 
 If you're bored, you can read the long version below (yawn....). 
 
-This is a web site of Rolera. 
+This is a web site operated by Bookoo, Inc. 
 
 Our postal address is: 248 Foster Drive Oswego, IL 60543 
 
-We can be reached via e-mail at info@kingwoodyardsales.com. 
+We can be reached via e-mail at info@bookoo.com. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -44,7 +44,7 @@ If you feel that this site is not following its stated information policy, you m
 
 * * *
 
-[ Advertising on bookoo ](https://web.archive.org/web/20111129062818id_/http%3A//www.bookoo.com/sponsor.jsp)  
+[ Advertising on bookoo ](https://web.archive.org/web/20120529204048id_/http%3A//www.bookoo.com/sponsor.jsp)  
 ---|---|---  
   
 Copyright 2008 bookoo.com Dedicated to our wives. 
