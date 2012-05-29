@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201172122id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530005214id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
-# The Clymb | The Gear You Need. Up to 70% Below Retail. ™
-
-You must be logged in. Please log in.
+# The Clymb | The Gear You Need. Up to 70% Below Retail.™
 
 ### OVERVIEW
 
-The Clymb respects the privacy of our valued customers and members. This Privacy Policy outlines what specific information is gathered on TheClymb.com site and how that information is used. The Clymb works to ensure highest degree of protection for consumers and businesses. In fact, our standards meet (and exceed) the U.S. Department of Commerce's "Safe Harbors" standards. We will continue to work to ensure that our website complies with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the The Clymb's Privacy Statement, please contact us via email at privacy@TheClymb.com.
+The Clymb respects the privacy of our valued customers and members. This Privacy Policy outlines what specific information is gathered on TheClymb.com site and how that information is used. The Clymb works to ensure highest degree of protection for consumers and businesses. In fact, our standards meet (and exceed) the U.S. Department of Commerce's "Safe Harbors" standards. We will continue to work to ensure that our website complies with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the The Clymb's Privacy Statement, please contact us via email at: [privacy@theclymb.com](mailto:privacy@theclymb.com).
 
 ### COLLECTION AND USE OF INFORMATION BY THECLYMB.COM
 
@@ -22,4 +20,4 @@ The Clymb allows you to purchase merchandise in a variety of ways. When credit c
 
 ### THE BOTTOM LINE
 
-Maintaining your privacy is of paramount importance to us as it helps foster confidence, goodwill, and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at : privacy@theclymb.com
+Maintaining your privacy is of paramount importance to us as it helps foster confidence, goodwill, and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at: [privacy@theclymb.com](mailto:privacy@theclymb.com)
