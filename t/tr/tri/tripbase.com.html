@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the tripbase.com privacy policy that was archived on 2011-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112064700id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripbase.com privacy policy that was archived on 2012-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529155335id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xml:lang="en" lang="en"><head>
+		<link rel="canonical" href="http://www.tripbase.com/mumboJumbo.do">
     	<!--META HTTP-EQUIV="Refresh" CONTENT="0; URL=/triptoe/frame.do"-->
     	<title>Tripbase.com - Privacy Policy</title>
         <meta name="description" content="Tripbase is a travel website that gives you unbiased recommendations about where to go on your next trip based on what you like.">
@@ -26,17 +27,17 @@
 
 <!-- 1.0.2 Production -->
 
-<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles1.0.2/undohtml.css">
-			<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/genlwcss.cssd?v=1.0.2">
-	<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/generalcss.cssd?v=1.0.2">		
+<link rel="stylesheet" type="text/css" href="/triptoe/styles1.0.2/undohtml.css">
+			<link rel="stylesheet" type="text/css" href="/genlwcss.cssd?v=1.0.2">
+	<link rel="stylesheet" type="text/css" href="/generalcss.cssd?v=1.0.2">		
 
-<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles1.0.2/yui.css">
-<link rel="StyleSheet" href="http://css.tripbase.com/triptoe/styles1.0.2/communityBox.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="/triptoe/styles1.0.2/yui.css">
+<link rel="StyleSheet" href="/triptoe/styles1.0.2/communityBox.css" type="text/css" media="screen">
 
 
 
 <!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles1.0.2/ieHacks-7.css" />
+	<link rel="stylesheet" type="text/css" href="/triptoe/styles1.0.2/ieHacks-7.css" />
 <![endif]-->
 
 
@@ -44,9 +45,9 @@
 	<script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 	<script type="text/javascript" src="http://yui.yahooapis.com/2.5.2/build/calendar/calendar-min.js"></script>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script type="text/javascript" src="http://js.tripbase.com/triptoe/js/jquery/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/triptoe/js/jquery/jquery.cookie.js"></script>
 
-        	<script type="text/javascript" src="http://js.tripbase.com/triptoe/js/lightweight/fulljs-cp-1.0.2.js?v=1.15"></script>
+        	<script type="text/javascript" src="/triptoe/js/lightweight/fulljs-cp-1.0.2.js?v=1.15"></script>
     			
 	
 
@@ -78,6 +79,28 @@
 			<div class="introArrow" id="introArrow" style="display:none;"></div>
         	<div id="general-header">
 				
+
+<style>
+	#fbLoginImg {    background: url("/triptoe/images/generator/community/loginMsg.gif") no-repeat scroll center center;    height: 130px;    position: absolute;    top: 100px;    width: 100%;    z-index: 10000;}
+</style>
+<script>
+	if(typeof tripbaseCommunity == "undefined")		
+		tripbaseCommunity = {}
+		
+	tripbaseCommunity.openFBLogin = function () {
+		$('#tripbase_overlay').show();
+		$('body').append("<div id='fbLoginImg'></div>"); 
+
+    	var url = '/fblogin.do?retUrl='+tbencode(location.href);
+    	fbWindow = window.open(url,'FBWindow','top=10,left=10,menubar=no,toolbar=no,scrollbars=no,resizable=no,status=no,location=no,width=600,height=230');
+    	if (window.focus) {fbWindow.focus()}	
+    }
+	$(function(){ 
+    	$('body').append("<div id='tripbase_overlay' style='display:none;'></div>"); 
+		$('#tripbase_overlay').hide();
+    });
+
+</script>
 
 
 <div id="header-actual" class="gen-header not-logged-in">
@@ -175,7 +198,7 @@
     	    	
     	<div style="clear:both;"></div>
     	
-    	<input type="hidden" id="savedJsActionId" value="$jsactionId">
+    	<input type="hidden" id="savedJsActionId" value="">
     
     </div>
 
@@ -466,16 +489,19 @@ font-family:Tahoma">Advertising campaigns</span></u></b></p>
 <p class="MsoBodyText" style="margin-top:6.0pt;margin-right:0in;margin-bottom:
 6.0pt;margin-left:0in;line-height:14.0pt"><span style="font-size:9.0pt;
 font-family:Tahoma">We may permit certain other companies to conduct
-advertising campaigns on Tripbase. The advertisements that you see when
+advertising campaigns and collect non-personally identifiable information on Tripbase. The advertisements that you see when
 accessing Tripbase are redirected from the servers of those advertising
 companies. Some advertisers may use cookies on your computer. The cookies
 enable them to collect information about websites that you have accessed,
 advertisements posted on those sites and the advertisements that you have
-viewed. In this manner advertisers try to display advertisements tailored to
+viewed. In this manner advertisers try to display advertisements on Tripbase, other websites and other forms of media that are tailored to
 your preferences. The use made by the advertisers of cookies is subject to
 their own privacy policies and not to this Policy. If you wish to study the
 privacy policies of those advertisers you should visit their websites, or
-contact them directly.</span></p>
+contact them directly.If you would like more information about the practices 
+of some of these third party advertising companies and learn which of these 
+companies allow you to opt-out of this type of information collection, please 
+click <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>. </span></p>
 
 <p class="MsoBodyText" style="margin-top:6.0pt;margin-right:0in;margin-bottom:
 6.0pt;margin-left:0in;line-height:14.0pt"><b><u><span style="font-size:9.0pt;
@@ -510,146 +536,153 @@ embed"><span style="font-size:10.0pt;line-height:150%;font-family:Arial">&nbsp;<
 			</div>  
 			
 			<div id="footer" class="footerTank">   			 
-				<div style="clear:both"></div>
-<!-- 31/08/2011 temporary GOOGLE-CHANGE -->
+				
+<!-- Google+ -->
+<center><a href="https://plus.google.com/u/0/104240828999877815069" rel="publisher">Find us on Google+</a></center>
+	
+    
+    <div style="clear:both"></div>
+    <!-- 31/08/2011 temporary GOOGLE-CHANGE -->
 
 	 
-
- 
-<script>
-	if (typeof dojo != "undefined")
-		dojo.tripbase.isLoggedIn = false;
-</script>
-			<div id="footerContent">     
-
-				<div style="text-align:center;width:820px;margin-left:150px;"> 
-					<div class="footerLinks">   
-    					<a href="/help.do" ;"="">Help</a>	                 
-    				</div> 
-					
-    				<div class="linkDivider">|</div> 
-    				
-    				<div class="footerLinks">   
-    					<a href="/aboutus.do" ;"="">About Us</a>	                
-    				</div> 
-    				
-    				<div class="linkDivider">|</div> 
-    				
-    				<div class="footerLinks">   
-    					<a href="/media" ;"="">Press Room</a>	              
-    				</div> 
-    				
-    				<div class="linkDivider">|</div>
-    				
-    				<div class="footerLinks">  
-    					<a href="/blog" ;"="">Travel Blog</a>
-    				</div>
-    				
-    				<div class="linkDivider">|</div>
     
-    				<div class="footerLinks">  
-    					<a href="/editContactUs.do" ;"="">Contact Us</a>
-    				</div> 
-    				
-    				<div class="linkDivider">|</div>
-    				
-    				<div class="footerLinks">  
-    					<a href="/partner-program.do" ;"="">Partners &amp; Licensing</a>	                
-    				</div>
-    				
-    				<div class="linkDivider">|</div>
-    				   
-    				<div class="footerLinks">     
+     
+    <script>
+        	if (typeof dojo != "undefined")
+    		dojo.tripbase.isLoggedIn = false;
+        </script>
+    			<div id="footerContent">     
+    
+    				<div style="text-align:center;width:820px;margin-left:150px;" class="adjWidth"> 
+    					<div class="footerLinks">   
+        					<a href="/help.do" ;"="">Help</a>	                 
+        				</div> 
     					
-        					<a href="/editFeedback.do" ;"="">Give Feedback</a>	  
-    				</div>
-    
-    				
-    						
-    				<!--div class="linkDivider">|</div>
-    								
-    			
-    				<div class="footerLinks" style="width:80px;"> 
-    					<a onclick="ifLoaded('dojo.tripbase.openSendResults();');">Send to a friend</a>
-					 
-    					<div class="sendResults" id="sendResults" style="display:none;">
-							<img src="/triptoe/images/generator/popup/xs.gif" onclick="dojo.tripbase.closeSendResults();" style="position:absolute;margin-left:208px;margin-top:-4px;cursor:pointer;"/> 
-							<form id="shareResultsForm">
-        						<div class="field" style="margin-top:15px;">
-        							To Email Address <span style="color:#660000;font-size:10px;">(* required)</span> <input type="text" name="emailt" id="toEmailAddress2"/><br>
+        				<div class="linkDivider">|</div> 
+        				
+        				<div class="footerLinks">   
+        					<a href="/aboutus.do" ;"="">About Us</a>	                
+        				</div> 
+        				
+        				<div class="linkDivider">|</div> 
+        				
+        				<div class="footerLinks">   
+        					<a href="/media" ;"="">Press Room</a>	              
+        				</div> 
+        				
+        				<div class="linkDivider">|</div>
+        				
+        				<div class="footerLinks">  
+        					<a href="/blog" ;"="">Travel Blog</a>
+        				</div>
+        				
+        				<div class="linkDivider">|</div>
+        
+        				<div class="footerLinks">  
+        					<a href="/editContactUs.do" ;"="">Contact Us</a>
+        				</div> 
+        				
+        				<div class="linkDivider">|</div>
+        				
+        				<div class="footerLinks">  
+        					<a href="/partner-program.do" ;"="">Partners &amp; Licensing</a>	                
+        				</div>
+        				
+        				<div class="linkDivider">|</div>
+        				   
+        				<div class="footerLinks">     
+        					
+                					<a href="/editFeedback.do" ;"="">Give Feedback</a>	  
+        				</div>
+        
+        				
+        						
+        				<!--div class="linkDivider">|</div>
+        								
+        			
+        				<div class="footerLinks" style="width:80px;"> 
+        					<a onclick="ifLoaded('dojo.tripbase.openSendResults();');">Send to a friend</a>
+    					 
+        					<div class="sendResults" id="sendResults" style="display:none;">
+    							<img src="/triptoe/images/generator/popup/xs.gif" onclick="dojo.tripbase.closeSendResults();" style="position:absolute;margin-left:208px;margin-top:-4px;cursor:pointer;"/> 
+    							<form id="shareResultsForm">
+            						<div class="field" style="margin-top:15px;">
+            							To Email Address <span style="color:#660000;font-size:10px;">(* required)</span> <input type="text" name="emailt" id="toEmailAddress2"/><br>
+            						</div>
+            						<div class="field">
+            							Your Email Address <span style="color:#660000;font-size:10px;">(* required)</span> <input type="text" name="emailf"/><br>
+            						</div>
+            						<div class="field">
+            							Subject <input type="text" value="Check out these destinations" name="title"/><br>
+            						</div>
+            						<div class="field">
+            							Message <textarea cols="34" rows="4" style="font-family: Arial;font-size:12px;" name="msg">Tripbase helps you find where to go.</textarea><br>
+            						</div>
+    							</form>
+        						<div class="field"> 
+    								<button onclick="dojo.tripbase.sendResults(this)">
+    									Send Now
+    								</button>
         						</div>
-        						<div class="field">
-        							Your Email Address <span style="color:#660000;font-size:10px;">(* required)</span> <input type="text" name="emailf"/><br>
-        						</div>
-        						<div class="field">
-        							Subject <input type="text" value="Check out these destinations" name="title"/><br>
-        						</div>
-        						<div class="field">
-        							Message <textarea cols="34" rows="4" style="font-family: Arial;font-size:12px;" name="msg">Tripbase helps you find where to go.</textarea><br>
-        						</div>
-							</form>
-    						<div class="field"> 
-								<button onclick="dojo.tripbase.sendResults(this)">
-									Send Now
-								</button>
+        						<div class="shareMsg" style="clear:both;">Share your data? Never! <a href="javascript:noop()" onclick="dojo.tripbase.openLegalPopup('privacyPolicy')"> Read More </a></div>						
     						</div>
-    						<div class="shareMsg" style="clear:both;">Share your data? Never! <a href="javascript:noop()" onclick="dojo.tripbase.openLegalPopup('privacyPolicy')"> Read More </a></div>						
-						</div>
+        					
+        
+        				</div-->
     					
+        				
+        				<div class="linkDivider">|</div>
+        				<div class="footerLinks" style="width:80px;">  
+        					<a href="/mumboJumbo.do?t=termsOfUse" ;"=""> Terms of Use </a>
+        				</div>
+    					
+        				<div class="linkDivider">|</div>
+    					
+        				<div class="footerLinks" style="width:80px;">  
+        					<a href="/mumboJumbo.do?t=privacyPolicy" ;"=""> Privacy Policy  </a>
+        				</div>
+    					<div style="clear:both;"></div>
+    				</div>
+    				
+    				<div style="width:960px;" class="adjWidth">
+        				
+        				<div style="width:960px;" class="adjWidth">
+        					<div style="text-align:center;">
+    							 <div class="madePossible">    
+    								Photos provided by <a href="http://www.panoramio.com/">Panoramio</a> are under the copyright of their owners.
+    							</div>
+    						</div>
+    						<div style="text-align:center;font-size:11px;color:#807F7F;" class="theAttribution">  
+    							Portions from 
+    							<a href="http://en.wikipedia.org/">
+    								Wikipedia
+    							</a>, 
+    							<a href="http://wikitravel.org/en/" target="moreInfoWindow">
     
-    				</div-->
-					
-    				
-    				<div class="linkDivider">|</div>
-    				<div class="footerLinks" style="width:80px;">  
-    					<a href="/mumboJumbo.do?t=termsOfUse" ;"=""> Terms of Use </a>
+    								Wikitravel
+    							</a> 
+    							under 
+    							<a href="http://www.gnu.org/copyleft/fdl.html" target="moreInfoWindow">
+    								GFDL
+    							</a>
+    						</div>
+    
+        					<div style="font-size:11px;color:#807F7F;text-align:center;" class="copyrights"> 
+    							© 2012 Trip Technologies Inc. All rights reserved. No part of this site may be reproduced without our written permission.
+    							        					</div>				   
+        				</div>
+    					
+    					
     				</div>
-					
-    				<div class="linkDivider">|</div>
-					
-    				<div class="footerLinks" style="width:80px;">  
-    					<a href="/mumboJumbo.do?t=privacyPolicy" ;"=""> Privacy Policy  </a>
-    				</div>
-					<div style="clear:both;"></div>
-				</div>
-				
-				<div style="width:960px;">
-    				
-    				<div style="width:960px;">
-    					<div style="text-align:center;">
-							 <div class="madePossible">    
-								Photos provided by <a href="http://www.panoramio.com/">Panoramio</a> are under the copyright of their owners.
-							</div>
-						</div>
-						<div style="text-align:center;font-size:11px;color:#807F7F;"> 
-							Portions from 
-							<a href="http://en.wikipedia.org/">
-								Wikipedia
-							</a>, 
-							<a href="http://wikitravel.org/en/" target="moreInfoWindow">
-
-								Wikitravel
-							</a> 
-							under 
-							<a href="http://www.gnu.org/copyleft/fdl.html" target="moreInfoWindow">
-								GFDL
-							</a>
-						</div>
-
-    					<div style="font-size:11px;color:#807F7F;text-align:center;"> 
-							© 2011 Trip Technologies Inc. All rights reserved. No part of this site may be reproduced without our written permission.
-							    					</div>				   
-    				</div>
-					
-					
-				</div>
-				<br><br><br> 
-
-		</div>
-		
-		
+    				<br><br><br> 
+    
+    		</div>
+    		
+    	    	
+    	
+    
+    
 	
-
 			</div> 						
 		</div>
 		
