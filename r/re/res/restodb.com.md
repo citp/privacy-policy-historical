@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115213801id_/http%3A//www.restodb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529033903id_/http%3A//www.restodb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Restaurant and Dining Guide - Directory, Review, Articles, Photos
 
@@ -41,6 +41,6 @@ Latest Forum Posted
 
 Latest Articles Posted
 
-[]()[](https://web.archive.org/indonesia/articles/2010/01/22/the_new_wagyu_lamb/ "The New Wagyu Lamb")
+[]()[](https://web.archive.org/indonesia/articles/2009/01/31/ottimo_deli_original_italian_tiramisu/ "Ottimo Deli: Original Italian Tiramisu")
 
-Ada Beberapa Jenis Santapan Yang Bisa Dinikmati Dalam Promosi Selama Sebula ...
+Nama Ottimo Deli Diambil Dari Bahasa Italia, Ottimo Berarti Optimum Dan Del ...
