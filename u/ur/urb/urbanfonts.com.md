@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanfonts.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220120825id_/http%3A//www.urbanfonts.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanfonts.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530001847id_/http%3A//www.urbanfonts.com/disclaimer.php) for the most accurate reproduction.*
 
 # Download Free Fonts - Urban Fonts
 
