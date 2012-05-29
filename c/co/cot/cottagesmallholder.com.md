@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209173901id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529023037id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# The Cottage Smallholder » Privacy Policy
+# Privacy Policy | The Cottage Smallholder
 
 **PRIVACY POLICY for www.CottageSmallholder.com**
 
@@ -65,3 +65,6 @@ The Data Protection Act 1998 gives you the right to access the information that 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us by using the “Contact us” form accessible from the button/tab at the top of this screen, or by email to:
 
 Fiona [at] cottagesmallholder [dot] com.
+
+  
+
