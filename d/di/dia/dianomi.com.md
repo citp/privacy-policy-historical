@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201172517id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530002634id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Dianomi Limited - Privacy Policy
 
@@ -10,11 +10,11 @@ For users in the United Kingdom: Dianomi is registered with the Data Protection 
 
 **1\. Collection and Use of information by Dianomi**
 
-Personal information is any information that concerns you individually, such as your name, address, telephone number, fax number, e-mail address, and your preferences in receiving information from our advertising partners. 
+Personal information is any information that concerns you individually, such as your name, address, telephone number, fax, e-mail address, and your preferences in receiving information from our advertising partners. 
 
 We ask for and use your personal information on the Website in order to operate, enhance and provide to you the information services you request. 
 
-We may also use your personal information to provide you with information about other products, programs or services we believe may be of interest to you provided you have consented to being contacted in this way. Dianomi may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. 
+We (and, if appropriate, our advertising partners) may also use your personal information (utilising any of the means of contact you have provided) to provide you with information about other products, programs or services we believe may be of interest to you provided you have consented to being contacted in this way. Dianomi may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. 
 
 When you submit your personal information on the Website, you are giving your consent to the collection, use and disclosure of such information as set forth in this Privacy Policy. 
 
@@ -55,7 +55,11 @@ This Website is not designed for children under the age of thirteen (13) and Dia
 
 We have put in place various security measures in accordance with industry standards to protect the security of your personal information both online and offline. If you have any questions about security you can email us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_. 
 
-**8\. How to contact us**
+**8\. Call Recording**
+
+Calls to and from dianomi may be recorded for quality and training purposes. 
+
+**9\. How to contact us**
 
 If you have any questions or comments on this Privacy Policy please contact us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_. 
 
