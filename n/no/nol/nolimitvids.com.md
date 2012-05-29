@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nolimitvids.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127103637id_/http%3A//ww2.nolimitvids.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolimitvids.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529040240id_/http%3A//ww2.nolimitvids.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
