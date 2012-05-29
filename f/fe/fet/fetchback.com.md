@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fetchback.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211073819id_/http%3A//fetchback.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchback.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529111543id_/http%3A//fetchback.com/privacy.html) for the most accurate reproduction.*
 
 # FetchBack - The Retargeting Company
 
-[](https://web.archive.org/web/20111211073819id_/http%3A//fetchback.com/livedemo.html)  
+[](https://web.archive.org/web/20120529111543id_/http%3A//fetchback.com/livedemo.html)  
 
 
-[](https://web.archive.org/web/20111211073819id_/http%3A//fetchback.com/casestudies.html)
+[](https://web.archive.org/web/20120529111543id_/http%3A//fetchback.com/casestudies.html)
 
    
 
@@ -15,10 +15,6 @@
 The following describes the overall company Privacy Policy of FetchBack, Inc (referred to as "FetchBack", "we", "us" and "our"). We understand how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. This Privacy Policy was created to inform you what information we collect when you visit FetchBack.com as well as our customer's (referred to as "Advertisers") websites; and then how that information is collected and used by companies that display advertisements(referred to as "Partners"). Those who visit our Advertisers' websites are referred to as "Prospects" throughout this policy. Because our Privacy Policy may be updated periodically, we encourage you to review these pages on a regular basis. 
 
 FetchBack is a member of the Network Advertising Initiative. You can learn more about the Network Advertising Initiative, as well as opt-out of FetchBack and other behavioral marketing tools by visiting <http://www.networkadvertising.org/managing/opt_out.asp>
-
-Fetchback is also a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.fetchback.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact [customerservice@FetchBack.com](mailto:customerservice@FetchBack.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 ### Personal and Non-Personal Information
 
@@ -38,7 +34,7 @@ The NPII data collected by FetchBack in the above outlined process of Retargetin
 
 ### How to Opt-Out of FetchBack's Services
 
-At any time you may Opt-Out of FetchBack's services; however please note that by Opting-Out, you will not be able to take full advantage of Retargeted advertising or have your FetchBack.com account login information remembered for you. You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set - simply check your browser settings to do so. By deleting your cookies in this manner, you will disable FetchBack and it's Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit FetchBack.com or one of our Advertiser's websites to ensure you are not receiving Retargeted advertisements. Another way to Opt-Out is to [click this link](https://web.archive.org/web/20111211073819id_/http%3A//fetchback.com/optout.html). You can also Opt-Out of FetchBack's Retargeting service by visiting the Network Advertising Initiative website by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. When you Opt-Out of FetchBack's services in this manner, a cookie will be set on your browser. FetchBack must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet. 
+At any time you may Opt-Out of FetchBack's services; however please note that by Opting-Out, you will not be able to take full advantage of Retargeted advertising or have your FetchBack.com account login information remembered for you. You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set - simply check your browser settings to do so. By deleting your cookies in this manner, you will disable FetchBack and it's Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit FetchBack.com or one of our Advertiser's websites to ensure you are not receiving Retargeted advertisements. Another way to Opt-Out is to [click this link](https://web.archive.org/web/20120529111543id_/http%3A//fetchback.com/optout.html). You can also Opt-Out of FetchBack's Retargeting service by visiting the Network Advertising Initiative website by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. When you Opt-Out of FetchBack's services in this manner, a cookie will be set on your browser. FetchBack must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet. 
 
 ### IP's
 
