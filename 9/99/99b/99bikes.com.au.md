@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 99bikes.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126140314id_/http%3A//99bikes.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99bikes.com.au privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529134014id_/http%3A//99bikes.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 99 Bikes Online Bike Shop
+# Privacy Policy | 99 Bikes
 
 This Privacy Policy ("Policy") explains in general terms how 99 Bikes Pty Ltd (referred to in this document as "99 Bikes","we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
