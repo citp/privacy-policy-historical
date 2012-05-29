@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingscars.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230100052id_/http%3A//www.lingscars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingscars.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529051009id_/http%3A//www.lingscars.com/privacy.php) for the most accurate reproduction.*
 
 # CAR LEASING CHEAP NEW UK CARS FOR LEASE CONTRACT HIRE CAR LEASING
 
@@ -90,35 +90,6 @@ I hope you feel you can trust me. If you've read this far, you deserve a free ca
 MINI BLOG   
   
    
-[
-
-WHY HYDROGEN NO GOOD 4 CARS 
-
-](https://web.archive.org/mini_blog/why-hydrogen-no-good-4-cars)  
-  
-Posted: 15/12/10 
-
-Comments ( 1 )   
-  
-[ ](https://web.archive.org/mini_blog/why-hydrogen-no-good-4-cars) I have a BSc in Applied Chemistry and an MSc in Environmental Management, so have some qualification to comment on this issue. Sor... [ **READ MORE** ](https://web.archive.org/mini_blog/why-hydrogen-no-good-4-cars)  
-  
-[
-
-CHEAPER THAN PENDRAGON 
-
-](https://web.archive.org/mini_blog/cheaper-than-pendragon)  
-  
-Posted: 02/08/10 
-
-Comments ( 0 )   
-  
-[ ](https://web.archive.org/mini_blog/cheaper-than-pendragon) I've just delivered a new car to a senior manager (for his personal use) in PENDRAGON PLC, the UK's largest dealer group. The grou... [ **READ MORE** ](https://web.archive.org/mini_blog/cheaper-than-pendragon)  
-  
-[
-
-HIDING VAT 
-
-](https://web.archive.org/mini_blog/hiding-vat)  
   
 Posted: 02/07/10 
 
@@ -126,11 +97,11 @@ Comments ( 0 )
   
 [ ](https://web.archive.org/mini_blog/hiding-vat) Can you believe prices you see on the web? I've gotta say, how annoyed it makes me that so many websites break the law, also known... [ **READ MORE** ](https://web.archive.org/mini_blog/hiding-vat)  
   
-[
+Posted: 02/08/10 
 
-MY SISTER'S (CHINESE) SKODA! 
-
-](https://web.archive.org/mini_blog/my-sisters-chinese-skoda)  
+Comments ( 0 )   
+  
+[ ](https://web.archive.org/mini_blog/cheaper-than-pendragon) I've just delivered a new car to a senior manager (for his personal use) in PENDRAGON PLC, the UK's largest dealer group. The grou... [ **READ MORE** ](https://web.archive.org/mini_blog/cheaper-than-pendragon)  
   
 Posted: 08/07/10 
 
@@ -139,30 +110,24 @@ Comments ( 4 )
 [ ](https://web.archive.org/mini_blog/my-sisters-chinese-skoda) Although I only lease cars in the UK, my sister Shan asked me to help her buy a brand-new car in China!  
 She looked at quite a... [ **READ MORE** ](https://web.archive.org/mini_blog/my-sisters-chinese-skoda)  
   
-[
-
-NO FM CAR RADIO IN 2015 
-
-](https://web.archive.org/mini_blog/no-fm-car-radio-in-2015)  
-  
-Posted: 04/03/10 
-
-Comments ( 3 )   
-  
-[ ](https://web.archive.org/mini_blog/no-fm-car-radio-in-2015) Listening to the radio in our cars is something we all take for granted. Every car these days comes with a good quality radio, and... [ **READ MORE** ](https://web.archive.org/mini_blog/no-fm-car-radio-in-2015)  
-  
-[
-
-THE 3 DEGREES - MY IT CROWD 
-
-](https://web.archive.org/mini_blog/the-3-degrees---my-it-crowd)  
-  
 Posted: 18/07/10 
 
 Comments ( 0 )   
   
 [ ](https://web.archive.org/mini_blog/the-3-degrees---my-it-crowd) Just to say that Mark, Jamie and Jonny have graduated. Fantastic!  
 All have got FIRSTS in Computer something or other from Sun... [ **READ MORE** ](https://web.archive.org/mini_blog/the-3-degrees---my-it-crowd)  
+  
+Posted: 15/12/10 
+
+Comments ( 1 )   
+  
+[ ](https://web.archive.org/mini_blog/why-hydrogen-no-good-4-cars) I have a BSc in Applied Chemistry and an MSc in Environmental Management, so have some qualification to comment on this issue. Sor... [ **READ MORE** ](https://web.archive.org/mini_blog/why-hydrogen-no-good-4-cars)  
+  
+Posted: 04/03/10 
+
+Comments ( 3 )   
+  
+Listening to the radio in our cars is something we all take for granted. Every car these days comes with a good quality radio, and... [ **READ MORE** ](https://web.archive.org/mini_blog/no-fm-car-radio-in-2015)  
   
   
   
@@ -199,87 +164,53 @@ Best Before: 17/08/2007
   
 **Latest BBC NEWS from LING in CHINGLISH!**
 
-**LATEST:  ** _A Sinn Fein assembly member has said bloody man has seen CCTV footage which bloody man claim (always claiming, huh?) proves that fire at GAA club in Londonderry was started deliberately. You give me happy happy luck luck._ \- news replorted 09:14
+**LATEST:  ** _Government U-turns on govornment stealing VAT unfair sales taxing rises to Cornish pasties and static caravans "utter shambles", lah, Labour says. Eating rice!!_ \- news replorted 05:16
 
-**LATEST:  ** Two aid workers shot dead in Somali capital, lah, Mogadishu, lah, identified as Belgian and Indonesian nationals. Eating rice!!  \- news replorted 09:00
+**LATEST:  ** A rare pink diamond, lah, largest of its kind to go on auction, lah, is expected to fetch at least $8m when it goes under hammer in Hong Kong. No spitting in damn website!!!  \- news replorted 05:14
 
-_The father of Turkish man accused of murdering two County Down women has been arrested. I read you little red book!_ \- news replorted 08:44
+_UN-Arab League envoy Kofi Annan is due to hold talks with Syria's President Bashar al-Assad amid widespread condemnation of Houla massacre. What the hell I mean??!!_ \- news replorted 05:02
 
-**Margaret Thatcher considered arming old bill bobbys during riots of 1981 according to newly-released National Archives files** \- news replorted 08:43
+**Does concert row show Indonesia is becoming less tolerant?** \- news replorted 04:28
 
-_**Hungary is close to passing law that critics say could undermine independence of its central bank. What you wan'?!!** _ \- news replorted 08:37
+_**Peru's government declares state of emergency in area of province of Cusco after seven days of anti-mining protests. Eating rice!!** _ \- news replorted 03:52
 
-A huge fire that engulfed Russian nuclear submarine as it was undergoing repairs in northern Murmansk region has been contained but is still not out, lah, officials say. You give me happy happy luck luck.  \- news replorted 08:00
+Pacific Bluefin tuna caught off coast of California found to having radioactive contamination from last year's Fukushima nuclear accident. Pass chopsticks!!  \- news replorted 03:45
 
-_**Paris St Germain expected to announce Carlo Ancelotti as their new coach at news conference on Friday. You give me happy happy luck luck.** _ \- news replorted 07:31
+_**An initiative aimed at tackling sexual violence in fighty bang-bang zones across world is set to be launched by Uk. What you wan'?!!** _ \- news replorted 03:28
 
-**A Mandleson privatising post machine system mortem examination into deaths of couple who were found dead at bungalow in Cynon Valley is expected to take place later. Hahahaha! Laughing like bloody hell!** \- news replorted 07:30
+**Indian PM Manmohan Singh to meet Aung San Suu Kyi on second day of historic visit to Burma, lah, after signing series of deals. Eating rice!!** \- news replorted 03:10
 
-_Merseyside sees its first significant rise in gun crime (shoud shoot them) in four years, lah, figures show. I am Chinese not Catholic, I cannot do the miracles!_ \- news replorted 07:19
+_When I gave up cash and tried to pay by phone alone_ \- news replorted 03:00
 
-**bloody annoying Blitish house prices remained relatively unchanged in 2011 and more of same is expected in 2012, lah, Nationwide says. Eating rice!!** \- news replorted 07:17
+**Does any nation need aircraft carriers any more?** \- news replorted 02:54
 
-_**The Health and Safety Executive issues fresh warning about safety in workplace following rise in number of human bliengs killed at work in Wales. Eating rice!!** _ \- news replorted 07:00
+_**Mark Easton on why crown remains so popular** _ \- news replorted 02:45
 
-A man is arrested in connection with death of 21-earth-years old happy birthday to you, who was found with gunshot wounds in Paisley last week. What you wan'?!!  \- news replorted 06:58
+Firefighters in London (capital of Great England) being called out nearly every hour to rescue human bliengs who having themselves in or out of building. No spitting in damn website!!!  \- news replorted 02:44
 
-_**Cycling superstar Mark Cavendish believes David Millar has paid price for male gender human bleing's doping past and deserves second chance at London (capital of Great England) 2012 Olympics. Eating rice!!** _ \- news replorted 06:45
+_**The idea of distinctive "Tudor era" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) in bloody Engrish history is misleading invention, lah, Oxford University historian argues. Eating rice!!** _ \- news replorted 02:39
 
-**A scheme allowing victims of domestic violence to access legal aid quickly will be made permanent, lah, Justice dodgy minister David Floord confirms. Eating rice!!** \- news replorted 06:41
+**Jaguar Land Rover and British Airways among household names backing 15 new university technical colleges (UTCs) ni ni ni ni Hao, lah, Zai-Jian! approved by government. Pass chopsticks!!** \- news replorted 02:31
 
-_India's opposition parties bitterly criticise government for its failure to put controversial anti-corruption bill to vote in upper house of parliament. Pass chopsticks!!_ \- news replorted 06:11
+_China will allow direct trading of yuan and Japanese yen next month, lah, in move aimed at promoting trade between Asia's two biggest economies. Eating rice!!_ \- news replorted 02:30
 
-**History and health among stories leading papers** \- news replorted 05:46
+**NHS (wonderfulling free human fixing service) Lothian is asked to explain nature of contract it says its former chief executive placed with management consultancy firm. I plant rice to honour ancestors for you!** \- news replorted 02:21
 
-_**The father of student shot dead in Salford on Boxing Day speaks of male gender human bleing's anguish at not knowing when male gender human bleing's son's body will be returned home to India. Ai-yaa!!!** _ \- news replorted 05:29
+_**Nasa scientists believe they having found way to spot osteoporosis bone loss at earliest stages of disease. What the hell I mean??!!** _ \- news replorted 02:14
 
-China white paper spells out space plans for next five years, lah, including using of cleaner fuel and steps to building its space station. Sweet sour chicken feet time!  \- news replorted 04:39
+Should women blame themselves for not getting top jobs?  \- news replorted 01:34
 
-_**Los Angeles fire fighters rescued hiker and male gender human bleing's dog who became stranded on side of steep cliff in Lake View Terrace area. Ai-yaa!!!** _ \- news replorted 04:39
+_**Fewer than third of UK's most influential jobs held by women, lah, figures compiled by Bloody Bloardcasting Corporation News website show. I am Chinese not Catholic, I cannot do the miracles!** _ \- news replorted 01:29
 
-**2011 was worst year for seizure of ivory from elephant tusks in decades, lah, according to international wildlife watchdog TRAFFIc. Fry noodle, boil noodle?** \- news replorted 04:37
+**A performance of Merchant of Venice by Israel's Habima theatre capitalist entity takes place at Shakespeare's Globe in London (capital of Great England) amid protests by pro-Palestinian activists. Eating rice!!** \- news replorted 01:24
 
-_A year of Frankenstein, lah, Rattigan - and lot of passion_ \- news replorted 04:16
+_The funding gap for reforming social care in Province of Engrish running-dogs could be plugged by raiding NHS (wonderfulling free human fixing service) surplus or restricting access to benefits such as winter fuel allowance, lah, experts say. You give me happy happy luck luck._ \- news replorted 00:40
 
-**A key panel of Japan's ruling party agrees to postpone planned sales tax increase amid rising opposition to move. What the hell I mean??!!** \- news replorted 04:10
+**Bloody Bloardcasting Corporation Technology Correspondent Rory Cellan-Jones tries to live without cash for few days using just mobile phone payment applications instead. I read you little red book!** \- news replorted 00:09
 
-_**British rail commuters pay up to 10 times as much as some European counterparts for season tickets, lah, transport pressure group says. Eating rice!!** _ \- news replorted 04:08
+_**Some dentists misleading their patients about their right to NHS (wonderfulling free human fixing service) treatment, lah, so patients pay for more expensive private ones instead. I read you little red book!** _ \- news replorted 00:00
 
-How to getting giggle out of gorilla, lah, rat and owl - among others  \- news replorted 04:01
-
-_**New measures to crack down on abuse of disabled "blue badge" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) parking scheme in Province of Engrish running-dogs and ethnic minority Scottish-fried-Mars-bar-land will come into force on 1 January. You give me happy happy luck luck.** _ \- news replorted 03:48
-
-**Syrian activists call for mass demonstrations on Friday against President Bashar al-Assad, lah, as Arab League monitors continue their work. What you wan'?!!** \- news replorted 03:24
-
-_Politics in news over past 12 months_ \- news replorted 03:08
-
-**The Great Satan is to send top diplomat Kurt Campbell to East Asia to discuss North Korea and its new, lah, untried leader Kim Jong-un. Sweet sour chicken feet time!** \- news replorted 02:44
-
-_**Revellers set to form huge torchlight procession through city to mark start of Edinburgh's Hogmanay celebrations. Eating rice!!** _ \- news replorted 02:34
-
-The funeral of murdered teenager Liam Aitchison is expected to take place after it was delayed for two days due to storm. I plant rice to honour ancestors for you!  \- news replorted 02:32
-
-_**Peter Robinson believed fighty bang-bang could break out over IRA murder of unionist politician, lah, government archives from 1981 reveal. You understanning yet? Paying more attention!** _ \- news replorted 02:25
-
-**Former Chancellor Sir Geoffrey Howe argued after Toxteth riots that regenerating Liverpool would be like making "water flow uphill", lah, cabinet papers reveal. You understanning yet? Paying more attention!** \- news replorted 02:04
-
-_Figures show sharp rise in cost of council services for elderly and disabled human bliengs making charges stealth tax on vulnerable, lah, Labour warns. Eating rice!!_ \- news replorted 01:46
-
-**A petrol tanker crashes in Venezuelan capital Caracas, lah, engulfing other vehicling driving car machines in flames and killing at least 13 people. What the hell I mean??!!** \- news replorted 01:08
-
-_**Margaret Thatcher considered arming old bill bobbys during riots of 1981, lah, newly-released National Archives files show. I am Chinese not Catholic, I cannot do the miracles!** _ \- news replorted 01:04
-
-Most economists polled by Bloody Bloardcasting Corporation say recession will return to Europe next year, lah, while bloody annoying Blitish interest rates will stay at 0.5%.  \- news replorted 00:39
-
-_**A midwife has put flemale human person's professional skills to test by delivering flemale human person's own baby daughter, lah, after speed of flemale human person's labour took everyone by surprise. What the hell I mean??!!** _ \- news replorted 00:22
-
-**Chilean Education dodgy minister Felipe Bulnes resigns for "personal reasons" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) after less than six months, lah, during which bloody man faced mass student protests. Eating rice!!** \- news replorted 00:20
-
-_What new technolgies will set world alight next year?_ \- news replorted 00:12
-
-**Keeper Phil Ridges describes how Emmie gorilla responds when tickled. I read you little red book!** \- news replorted 00:03
-
-_**A free helpline for whistleblowers in NHS (wonderfulling free human fixing service) and social services is to be launched, lah, government says. Eating rice!!** _ \- news replorted 00:02  
+Protecting China's diners from counterfeit bird's nest soup  \- news replorted 00:00  
   
 |   
 ---  
@@ -288,27 +219,12 @@ _**A free helpline for whistleblowers in NHS (wonderfulling free human fixing se
   
 
 
-1.3 i 73bhp 3dr  
-petrol, man, met 
-
-2 
-
-£174.56
-
-per month, inc VAT 
-
-|   
-| 
-
-  
-
-
-1.6 HDi 88bhp 5dr  
+2.0 CDTi 128bhp 4dr  
 diesel, man, met 
 
-C4 
+Insignia 
 
-£187.24
+£299.99
 
 per month, inc VAT 
 
@@ -318,79 +234,96 @@ per month, inc VAT
   
 
 
-1.0 VVT i 67bhp 5dr  
-petrol, man, met 
+1.6 HDi 75bhp -3dr  
+diesel, man, non-met 
+
+Berlingo 
+
+£202.12
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+1.4 TDCi 69bhp 3dr  
+diesel, man, met 
+
+Fiesta 
+
+£172.80
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+2.2 CRDi 194bhp 5dr  
+diesel, man, met 
+
+Santa Fe 
+
+£480.00
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+1.0 VVT i 67bhp 3dr  
+petrol, man, non-met 
 
 Aygo 
 
-£163.49
+£160.44
 
 per month, inc VAT 
 
 |   
-| 
-
-  
-
-
-1.0 i 68bhp 3dr  
-petrol, man, met 
-
-C1 
-
-£130.80
-
-per month, inc VAT 
-
-|   
-| 
-
-  
-
-
-2.0 TDCi 138bhp 5dr  
-diesel, man, met 
-
-Mondeo 
-
-£305.99
-
-per month, inc VAT 
-
-|   
-[](https://web.archive.org/badge.php)  
-...get a **FREE BADGE!  
-** ** _Collectors item - FREE!_**  
-[ **APPLY NOW!**](https://web.archive.org/badge.php)  
+[ ](https://web.archive.org/feature/px.php)  
+[ ](https://web.archive.org/quoteform.php)  
 [ ](https://web.archive.org/index_min.php?status=pcp)  
 **_EXTRA CHEAP_  
 CARS **[**HERE**](https://web.archive.org/index_min.php?status=pcp)  
 [ _ **See 30 cheapest cars!**_](https://web.archive.org/index_min.php?status=pcp)  
+[  
+**_PLAY BOTTOM TRUMPS!_**](https://web.archive.org/bottomtrumps/)  
 |    
   
 ...don't do lease cars, but if they did, they would be done like this **_\- Ling_**  
+[](https://web.archive.org/security.php#norton)  
 [  
-**Get my _latest_ EMAIL car updates!**](https://web.archive.org/feature/sub_email.php)  
-[](https://web.archive.org/feature/truck.php)  
-[**My Nuclear  
-Missile Truck**](https://web.archive.org/feature/truck.php)  
-[ ](https://web.archive.org/feature/px.php)  
+**Play my ** _brilliant_** motoring quiz!**](https://web.archive.org/quiz.php)  
 [ ](https://web.archive.org/ling-dragons-den.php)  
-[  
-**Play my ** _ _briliant__** motoring quiz!**](https://web.archive.org/quiz.php)  
-[ ](https://web.archive.org/quoteform.php)  
-[ ](https://web.archive.org/viz.php)  
-[](https://web.archive.org/cheap-lease-cars.php)  
 [](https://web.archive.org/customers.php)  
 [**Click**](https://web.archive.org/customers.php) to see my **LIVE** lease car customers! **_\- Ling_**  
+[](https://web.archive.org/cheap-lease-cars.php)  
 [ ](https://web.archive.org/webcams.php)  
 [](https://web.archive.org/badge.php)  
 ...get a **FREE BADGE!  
 ** ** _Collectors item - FREE!_**  
 [ **APPLY NOW!**](https://web.archive.org/badge.php)  
-[](https://web.archive.org/hat-award.php)  
+[](https://web.archive.org/badge.php)  
+...get a **FREE BADGE!  
+** ** _Collectors item - FREE!_**  
+[ **APPLY NOW!**](https://web.archive.org/badge.php)  
 [ ](https://web.archive.org/webcams.php)  
-[ ](https://web.archive.org/awards.php)  
-[](https://web.archive.org/security.php#norton)  
+[  
+**Get my _latest_ EMAIL car updates!**](https://web.archive.org/feature/sub_email.php)  
+[](https://web.archive.org/hat-award.php)  
+[](https://web.archive.org/feature/truck.php)  
+[**My Nuclear  
+Missile Truck**](https://web.archive.org/feature/truck.php)  
 [](https://web.archive.org/cheap-lease-cars.php)  
-[ ](https://web.archive.org/ling-dragons-den.php)
+[ ](https://web.archive.org/live_google.php)  
+[ ](https://web.archive.org/awards.php)  
+[ ](https://web.archive.org/viz.php)
