@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loginbd.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213090951id_/http%3A//www.loginbd.com/complete-directory-of-bangladesh-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginbd.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529121920id_/http%3A//www.loginbd.com/complete-directory-of-bangladesh-privacypolicy.php) for the most accurate reproduction.*
 
-# LoginBD.Com- Largest web directory in Bangladesh
+# LoginBD.Com- Specialized Commercial Search Engine for Bangladesh
 
 **Overview**  
 This is the Privacy Policy governing your use of the **LoginBD** (www.loginbd.com) Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the **Terms of Service Agreement** between you and **LoginBD** which by use of this Site you agree to accept. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and Anonymous Information you submit to us through our Site. This Privacy Policy applies only to Users; it does not apply to any information about companies or organizations that use the Services on the Site.
