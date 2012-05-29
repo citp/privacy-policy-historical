@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the net-games.biz privacy policy that was archived on 2011-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213180503id_/http%3A//www.bgames.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the net-games.biz privacy policy that was archived on 2012-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529055918id_/http%3A//www.bgames.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -53,14 +53,162 @@ GA_googleAddSlot("ca-pub-6805767336962452", "bgames_ros_160x600");
 </script>
 <!-- END OF TAG FOR head SECTION -->
 <style type="text/css">.hiddenPic {display:none;}</style>
+<script src="/js/jquery-1.7.1.min.js"></script>
+<style type="text/css">
+
+#betaBannerDiv {
+	background-color: #4B67A1;
+	position: relative;
+	width: 100%;
+	width: 970px;
+	height: 35px;
+	z-index: 10000;
+	top: 50px;
+	top: 0px;
+	left: 0;
+	display: none;
+	background: #999; /* for non-css3 browsers */
+	border-left: 1px solid black;
+	border-right: 1px solid black;	
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cccccc', endColorstr='#000000'); /* for IE */
+	/*background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#000)); /* for webkit browsers */
+	/*background: -moz-linear-gradient(top,  #ccc,  #000); /* for firefox 3.6+ */ 	
+	
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FCB12E', endColorstr='#d54100'); /* for IE */
+	/*background: -webkit-gradient(linear, left top, left bottom, from(#FCB12E), to(#d54100));
+	background: -moz-linear-gradient(top,  #FCB12E,  #d54100); /* for firefox 3.6+ */
+}	
+
+#betaBanner {
+	height: 50px;
+	width: 970px;
+	/*margin: 0 auto;*/
+	margin-left: 0px;
+	position: relative;
+	left: 0;
+	color: white;	
+}	
+
+#betaBanner a{
+	position: relative;
+	color: white;
+	/*text-decoration: underline;*/
+	text-decoration: none;
+}
+#betaBanner a:hover{
+	text-decoration: none;
+}
+#siteContainer {
+	top: 0px;
+	position: relative;
+	/*display: none;*/
+}
+#betaBannerDiv #closeLink
+{
+	float: right;
+	right: 0px;
+	top: 0px;
+	position: absolute;
+	font-size: 17px;
+	color: white;
+	font-weight: bold;
+}
+#betaBanner #closeLink a
+{
+	color: white;
+}
+
+</style>
 </head>
- <body id="body">
-<div id="siteContainer">
+ <body id="body"><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe"></iframe></m></div>
+
+<!--div id="betaBannerDiv">
+	<div id="betaBanner">                      
+		<a href="http://beta.bgames.com"><img src="/images/betaBanner.jpg" width="970" height="50"></a>
+		<div id="closeLink"><a href="#" onclick="closeBetaBanner(); return false;"><img src="/images/close_button.png" width="30" height="30"></a></div>		                  
+	</div>	
+</div--> 		 	
+
+<script>
+
+jQuery.noConflict();
+function closeBetaBanner()
+{
+	jQuery.cookie('close_betabanner', '1',{path: '/'});
+	jQuery("#betaBannerDiv").slideUp("fast",function(){
+			jQuery("#siteContainer").css({"top":"0px"});
+		});
+}
+
+/**
+ * jQuery Cookie plugin - https://github.com/carhartl/jquery-cookie
+ *
+ * Copyright (c) 2010 Klaus Hartl, @carhartl
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ */
+(function(jQuery) {
+    jQuery.cookie = function(key, value, options) {
+
+        // key and at least value given, set cookie...
+        if (arguments.length > 1 && (!/Object/.test(Object.prototype.toString.call(value)) || value === null || value === undefined)) {
+            options = jQuery.extend({}, options);
+
+            if (value === null || value === undefined) {
+                options.expires = -1;
+            }
+
+            if (typeof options.expires === 'number') {
+                var days = options.expires, t = options.expires = new Date();
+                t.setDate(t.getDate() + days);
+            }
+
+            value = String(value);
+
+            return (document.cookie = [
+                encodeURIComponent(key), '=', options.raw ? value : encodeURIComponent(value),
+                options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+                options.path    ? '; path=' + options.path : '',
+                options.domain  ? '; domain=' + options.domain : '',
+                options.secure  ? '; secure' : ''
+            ].join(''));
+        }
+
+        // key and possibly options given, get cookie...
+        options = value || {};
+        var decode = options.raw ? function(s) { return s; } : decodeURIComponent;
+
+        var pairs = document.cookie.split('; ');
+        for (var i = 0, pair; pair = pairs[i] && pairs[i].split('='); i++) {
+            if (decode(pair[0]) === key) return decode(pair[1] || ''); // IE saves cookies with empty string as "c; ", e.g. without "=" as opposed to EOMB, thus pair[1] may be undefined
+        }
+        return null;
+    };
+})(jQuery);
+
+jQuery(document).ready(function() {
+	if (false && !jQuery.cookie('close_betabanner'))
+	{
+		var leftMar = (jQuery("#siteContainer").width()-jQuery("#wideContainer").width())/2;
+		jQuery("#betaBannerDiv").css({"margin-left":leftMar});	
+		jQuery("#betaBannerDiv").slideDown("fast",function(){
+			//$("#siteContainer").css({"top":"35px","top":"35px"});
+			jQuery(this).css({"position":"fixed"});
+			jQuery("#siteContainer").css({"top":"50px"});
+		});
+	}
+});
+
+</script>
 <center>
 <div id="wideContainer">
 <div id="mainContainer">
-	<script type="text/javascript">var smartad = "1";</script>
+	<script type="text/javascript">var smartad = "";</script>
+	<script type="text/javascript">var checkflag = 0;</script>
 <script type="text/javascript" src="/js/header_script.js"></script>
+
 <div id="container">
     <div id="header">
         <div class="header_top padding-left-zero">
@@ -270,19 +418,39 @@ pageTracker._trackPageview();
 </center>
 
 
-<div id="rightadContainer" style="display: none;">
+<div id="rightadContainer" style="left: 1088px;">
 	Advertisment:	
 	<div id="rightadBorder">
 		<div id="rightad">
-							
+				
 				<script type="text/javascript">
+				if (smartad)
+				{
 					rightadContainer= document.getElementById("rightadContainer");
 					rightadContainer.style.display = 'none';
 					//wideContainer.style.width=970+'px';
 					var showSmartAd = true;
+				}
 				</script>	
 				
-									
+				
+				<script type="text/javascript">
+				if (!smartad)
+				{				
+					var showSmartAd = false;
+					rightadContainer= document.getElementById("rightadContainer");
+					if (myWidth>1160)
+					{
+						rightadContainer.style.left = (padFromLeft + 970 + 10) + 'px';
+						GA_googleFillSlot("bgames_ros_160x600");
+					}
+					else
+					{
+						rightadContainer.style.display = 'none';
+					}	
+				}
+				</script>
+								
 		</div>
 	</div>
 </div>
@@ -291,21 +459,16 @@ pageTracker._trackPageview();
 <script type="text/javascript" language="javascript">
 if (showSmartAd)
 {
-	var cw = 970; // specify content width
-	var cp = 10; // specify the content padding if desired
-	 
-	try{
-	var s=document.createElement('script');
-	s.id='specific_rome_js';
-	s.type='text/javascript';
-	s.src='http://rome.specificclick.net/rome/rome.js?l=31401&t=j&cw='+cw+'&cp='+cp;
-	document.body.appendChild(s);
-	}catch(e){}
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1521765/0/16/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+jQuery("#wideContainer").css("cursor","auto");
+}
+else
+{
+// Elad - 23.5.12 - Removed WIBIYA Toolbar 
+//document.write('<scr'+'ipt src="http://cdn.wibiya.com/Toolbars/dir_0019/Toolbar_19975/Loader_19975.js" type="text/javascript"></scri'+'pt>');
 }
 </script>
 
-
-</div><script id="specific_rome_js" type="text/javascript" src="http://rome.specificclick.net/rome/rome.js?l=31401&amp;t=j&amp;cw=970&amp;cp=10"></script>
 
 <!-- Google Code for Bgames Remarketing List -->
 <script type="text/javascript">
@@ -325,5 +488,7 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1037333982/?label=Rvp4CPy8wQIQ3uvR7gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>	
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: Suphrin Internet LTD // Page: bgames.test // Placement: bgames.test_skin (1521765) // created at: Jun 2, 2011 10:44:16 AM-->
+
 
 </body></html>
