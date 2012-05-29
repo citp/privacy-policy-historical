@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130051531id_/http%3A//learnthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530012800id_/http%3A//learnthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Learnthat.com
 
-That Network has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learnthat.com. 
+That Network has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learnthat.com.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site. 
+We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
 Our site’s registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer’s contact information is also used to contact the visitor when necessary. Your contact information is not shared with any third-parties, and is kept private at all times. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. No individual personal information is ever revealed to any third-parties.
 
@@ -34,9 +34,9 @@ Learnthat.com is committed to helping you and your family have a secure, private
 
 Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [privacy@learnthat.com](mailto:privacy@learnthat.com)
   2. Send a notice to the mailing list program to take yourself off the list (instructions in your subscription email). If you are confused or do not know how to remove yourself, send email to [privacy@learnthat.com](mailto:privacy@learnthat.com)
@@ -45,7 +45,7 @@ This site gives users the following options for removing their information from 
 
 Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. 
+This site gives users the following options for changing and modifying information previously provided.
 
   1. email [privacy@learnthat.com](mailto:privacy@learnthat.com)
 
@@ -53,7 +53,7 @@ This site gives users the following options for changing and modifying informati
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 That Network  
 216 W Main Street, Suite 230  
