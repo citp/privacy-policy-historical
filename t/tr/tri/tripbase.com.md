@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112064700id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529155335id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Tripbase.com - Privacy Policy
 
@@ -70,7 +70,7 @@ Some of the Cookies may expire when the session ends and you exit your browser. 
 
 **_Advertising campaigns_**
 
-We may permit certain other companies to conduct advertising campaigns on Tripbase. The advertisements that you see when accessing Tripbase are redirected from the servers of those advertising companies. Some advertisers may use cookies on your computer. The cookies enable them to collect information about websites that you have accessed, advertisements posted on those sites and the advertisements that you have viewed. In this manner advertisers try to display advertisements tailored to your preferences. The use made by the advertisers of cookies is subject to their own privacy policies and not to this Policy. If you wish to study the privacy policies of those advertisers you should visit their websites, or contact them directly.
+We may permit certain other companies to conduct advertising campaigns and collect non-personally identifiable information on Tripbase. The advertisements that you see when accessing Tripbase are redirected from the servers of those advertising companies. Some advertisers may use cookies on your computer. The cookies enable them to collect information about websites that you have accessed, advertisements posted on those sites and the advertisements that you have viewed. In this manner advertisers try to display advertisements on Tripbase, other websites and other forms of media that are tailored to your preferences. The use made by the advertisers of cookies is subject to their own privacy policies and not to this Policy. If you wish to study the privacy policies of those advertisers you should visit their websites, or contact them directly.If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **_Information Security_**
 
