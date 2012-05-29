@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the low-carb-diet-recipes.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022327id_/http%3A//www.low-carb-diet-recipes.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the low-carb-diet-recipes.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529063206id_/http%3A//www.low-carb-diet-recipes.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.low-carb-diet-recipes.com
 
