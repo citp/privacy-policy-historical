@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128191444id_/http%3A//www.esmo.org/about-esmo/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529054336id_/http%3A//www.esmo.org/about-esmo/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Data Security Policy - European Society for Medical Oncology (ESMO)
 
 This privacy policy applies to your use of the websites (collectively referred to as the “Website”), operated by The European Society for Medical Oncology, a Swiss-based not-for-profit corporation, referred to interchangeably hereafter as “ESMO”. 
 
-The “Website” includes, without limitation, the ESMO website (www.esmo.org) and any specific versions (e.g., [oncologypro.esmo.org](http://oncologypro.esmo.org/?token=)) or filters thereof, the European Action against Rare Cancers website ([http://www.rarecancers.eu](http://www.rarecancers.eu/)), the ESMO Press Centre, and any other online platforms used by ESMO which could require your personal data.
+The “Website” includes, without limitation, the ESMO website (www.esmo.org) and any specific versions (e.g., [oncologypro.esmo.org](http://oncologypro.esmo.org/?token=)) or filters thereof, the European Action against Rare Cancers website ([www.rarecancerseurope.org](http://www.rarecancerseurope.org/)), the ESMO Press Centre, and any other online platforms used by ESMO which could require your personal data.
 
 ESMO respects your privacy and is committed to protecting the confidentiality of your personal information. This policy explains how ESMO collects and uses Member, customer and site visitor information, and how it protects your privacy. It also explains how you can manage your own personal information held by ESMO in the ‘My ESMO’ area on the ESMO website.
 
@@ -114,7 +114,8 @@ Listed below are some of the security procedures that ESMO uses to protect your 
 
 #### Email privacy
 
-ESMO respects the privacy of personal email addresses and complies with the current legislation on email communication (according to the Swiss Data Protection Act and the Tele Service Data Protection Act). The objective is not to send you unwanted messages, and your email details will not be passed on to any other individual or organisation without your explicit permission, although in the case of conference/meeting registration special conditions may apply – see Registration Terms and Conditions.   
+ESMO respects the privacy of personal email addresses and complies with the current legislation on email communication (according to the Swiss Data Protection Act and the Tele Service Data Protection Act). ESMO will not send you  you unsolicited email messages and will not contact you on behalf of third parties without your consent. Your email details will not be passed on to any other individual or organisation without your explicit permission, although in the case of conference/meeting registration special conditions may apply – see Registration Terms and Conditions. 
+
 Without your specific ‘Opt In’ to receive e-campaigns from ESMO you may receive emails concerning:
 
   * Products and services similar to those you have already received from ESMO 
