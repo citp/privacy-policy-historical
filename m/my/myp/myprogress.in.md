@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the myprogress.in privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184248id_/http%3A//www.myprogress.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprogress.in privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529070208id_/http%3A//www.myprogress.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # :: Pro Online Marketing Pvt. Ltd. ::
+
+Privacy Policy
+
+
+
+
+## Success
+
+Improvement is an ongoing process. Pro Online Marketing Pvt Ltd has always strived to achieve the motto of our group - 'Together We Prosper', by improving the quality of our products and keeping in touch with the latest trends in the market. To this end, our research and development process is always online to meet our customers needs and expectations.
 
 This privacy policy only covers the Pro Online Marketing Pvt. Ltd.’s website [ **http://www.MyProgress.in**](http://www.myprogress.in/) and all other 'Top Level Domains' attached to the domain name “MyProgress.in”. External websites linked from this site are not covered by this policy.
 
