@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203144347id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529053859id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdReady | AdReady
 
@@ -80,7 +80,7 @@ We may aggregate Personal Information, and disclose such information to third pa
 
 ### Other Third Parties
 
-We will not share Personal Information collected on this web site with third parties for their direct marketing purposes without your consent. In addition, AdReady does not otherwise share Personal Information about site users with third parties unless doing so is appropriate to carry out a user’s request or it believes that doing so is legally required or is in AdReady’s interest to protect its property or other legal rights or the rights or property of others, or necessary for national security, other law enforcement, issues of public importance or safety, or to enforce our Terms and Conditions or other policies.
+AdReady does not otherwise share Personal Information about site users with third parties unless doing so is appropriate to carry out a user’s request or it believes that doing so is legally required or is in AdReady’s interest to protect its property or other legal rights or the rights or property of others, or necessary for national security, other law enforcement, issues of public importance or safety, or to enforce our Terms and Conditions or other policies.
 
 ### Merger, Sale or Bankruptcy
 
@@ -122,8 +122,8 @@ or mail to:
 
 Attention: Privacy Officer
 
-936 North 34th Street, Suite 300
+2601 Elliott Ave, Suite 400A
 
-Seattle, WA 98103
+Seattle, WA 98121
 
-Policy updated as of August 17, 2011 (The ‘effective date’)
+Policy updated as of December 15th, 2011 (The ‘effective date’)
