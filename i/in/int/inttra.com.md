@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127104055id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529063621id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
 
   * [Home](https://web.archive.org/)
-  * [Legal - Privacy Policy](https://web.archive.org/web/20111127104055id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
+  * [Legal - Privacy Policy](https://web.archive.org/web/20120529063621id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
 
 
 
-Updated June 2011
+**Updated March 2012**
 
-This Privacy and Security Policy ("Privacy Policy") addresses our use and disclosure of information we collect from you on our product platforms and corporate web site. The product platforms are:
+This Privacy and Security Policy (" **Privacy Policy** ") addresses our use and disclosure of information we collect from you on our product platforms and corporate web site. The product platforms are:
 
   * [www.inttraworks.inttra.com](http://www.inttraworks.inttra.com/); 
   * [https://www.cvt.inttra.com](https://www.cvt.inttra.com/); 
@@ -20,17 +20,16 @@ This Privacy and Security Policy ("Privacy Policy") addresses our use and disclo
 
 The corporate website resides at [www.inttra.com](http://www.inttra.com/). The product platforms and the corporate website listed here are collectively referred to as the " **Websites** ". 
 
-INTTRA has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and INTTRA practices have been reviewed by TRUSTe for U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor compliance including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at the contact information below. If you are not satisfied with our response you can contact TRUSTe at:   
-<http://watchdog.truste.com/pvr.php?page=complaint>.
+INTTRA has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and INTTRA practices have been reviewed by TRUSTe for U.S.-EU Safe Harbor compliance and U.S.-Swiss Safe Harbor compliance, including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at the contact information below. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., ([ click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html)). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
 
-Our privacy practices comply with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Programs as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Sqitzerland, respectively. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce's Web site at: <http://export.gov/safeharbor/>.
+Our privacy practices comply with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Programs as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland, respectively. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce's Web site at: <http://export.gov/safeharbor/>. 
 
-This Privacy Policy applies to all data and information that INTTRA may obtain about you, in connection with its provision of the INTTRA systems defined below, including, without limitation, the Websites and transmissions via electronic data interchange (" **EDI** ") (collectively referred to as the " **System** "), and all related services (provision of the System and all related services are collectively referred to as the " **Services** "). This Privacy Policy should be read in conjunction with one or more agreements between your company (the " **Company** ") and INTTRA (the " **Agreement(s)** ") that apply to the System and the Services and with any other documents or guides that are provided from time to time in relation to the Services.  
-INTTRA recognizes the importance of protecting the privacy of users of the System ("Users") and this Privacy Policy sets forth INTTRA's practices with respect to the collection, use and disclosure of personal data of Users.
+This Privacy Policy applies to all data and information that INTTRA may obtain about you, in connection with its provision of the INTTRA systems defined below, including, without limitation, the Websites and transmissions via electronic data interchange (" **EDI** ") (collectively referred to as the " **System** "), and all related services (provision of the System and all related services are collectively referred to as the " **Services** "). This Privacy Policy should be read in conjunction with one or more agreements between your company (the " **Company** ") and INTTRA (the " **Agreement(s)** ") that apply to the System and the Services and with any other documents or guides that are provided from time to time in relation to the Services.   
+INTTRA recognizes the importance of protecting the privacy of users of the System (" **Users** ") and this Privacy Policy sets forth INTTRA's practices with respect to the collection, use and disclosure of personal data of Users. 
 
 ### Collection and Use of Personal Data
 
-Your personal data (which includes your name, job title, contact details including business telephone and fax number and e-mail address) may be collected through the System and through e-mail and other correspondence with INTTRA as well as from third parties, or by any other means, in connection with providing a Service to you on our behalf. We also may collect sensitive information, such as invoice/payment information or tax ID in connection with specific INTTRA products. We will not share, sell or trade your personal data with third parties for promotional purposes without your consent.
+Your personal data (which includes your name, job title, contact details including business telephone and fax number and e-mail address) may be collected through the System and through e-mail and other correspondence with INTTRA as well as from third parties, or by any other means, in connection with providing a Service to you on our behalf. We also may collect sensitive information, such as invoice/payment information or tax ID in connection with specific INTTRA products. We will not share, sell or trade your personal data with third parties for promotional purposes without your consent. 
 
 INTTRA and/or its affiliates and third party service providers may use the personal data to:
 
@@ -48,7 +47,7 @@ With your consent, INTTRA and/or its affiliates may use the personal data to mar
 
 In addition, any third party offering a service directly to your Company in connection with our Services or on our Websites (including, without limitation, live chat service providers, e-mail service providers and recruiting platforms) (collectively " **Partners** ") may use your personal data to: (a) provide the services; (b) contact you regarding your inquiries; and (c) market its products and services to your Company through use of post, fax or by e-mail.
 
-Third party personal information may also be entered on our System, such as if your Company has elected to use an administrator to enter the personal data about its users. If this data is collected on our System, it will only be used for the stated purpose for which it was collected. 
+Third party personal information may also be entered on our System, such as if your Company has elected to use an administrator to enter the personal data about its users. If this data is collected on our System, it will only be used for the stated purpose for which it was collected.
 
 ### Disclosure of Personal Data
 
@@ -68,6 +67,10 @@ In the event that INTTRA, or any of its assets, are acquired or become the subje
 
 You acknowledge that INTTRA is not responsible for information or data in the possession of third parties, except for data processors acting on behalf of INTTRA, regardless of how such data was obtained. Please consult the privacy policies of these third parties to learn how they may use or disclose your information. You may be contacted directly by an individual carrier.   
 Aggregate or other information not identifiable with any individual may be used or disclosed for other purposes, and to other parties, as deemed appropriate by INTTRA subject to any obligations of confidentiality under the Agreement(s) and applicable laws.
+
+### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you sServices, comply with our legal obligations, resolve disputes and enforce our agreements. 
 
 ### Data Transfers
 
@@ -107,7 +110,12 @@ You may have certain rights under applicable data protection laws which may incl
 
 In addition, you may have a right to request that personal data is corrected, blocked or deleted if the data is factually incorrect, incomplete or irrelevant for the purposes described in this Privacy Policy. For any of these requests, please contact INTTRA at the address set out below or through the feedback button on the Websites and the System. We will respond to your request within 30 business days. 
 
-You may withdraw your consent for the processing of your personal data at any time, but if you do so, INTTRA may not be able to provide certain Services to you, including access to parts of the Websites.
+You may withdraw your consent for the processing of your personal data at any time, but if you do so, INTTRA may not be able to provide certain Services to you, including access to parts of the Websites. To cancel your account or request we no longer use your information to provide you Sservice or as otherwise outlined herein let us know by one of the these methods:
+
+  * Send an e-mail with your request and current contact information to service@inttra.com; or
+  * Send a letter with your request and current contact information to INTTRA Inc., Attention: Legal Department, One Upper Pond Road, Morris Corporate Center, Building D, Parsippany, NJ 07054. 
+
+
 
 ### Use of System
 
