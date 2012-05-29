@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tidbits.com privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122024118id_/http%3A//tidbits.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tidbits.com privacy policy that was archived on 2012-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529123632id_/http%3A//tidbits.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -14,12 +14,12 @@
 	<link rel="Search" href="http://tidbits.com/search/" title="Search All TidBITS Content">
 	<link rel="Author" href="http://tidbits.com/about/contact-info.html" title="Contact Information">
 	<link rel="Contents" href="tb-issues/" title="TidBITS Issue Archive">
-	<link rel="alternate" type="application/rss+xml" href="http://tidbits.com/feeds/tidbits.rss" title="TidBITS Full Text Feed">
+<link rel="alternate" type="application/rss+xml" href="http://tidbits.com/feeds/tidbits_blurb.rss" title="TidBITS Articles Feed">
 	<link rel="alternate" type="application/rss+xml" href="http://tidbits.com/commentfeeds/firehose.xml" title="TidBITS Full Comments Feed">
 
-	<link rel="stylesheet" href="https://tidbitsimages.s3.amazonaws.com/tidbits_2011.css" type="text/css">
+	<link rel="stylesheet" href="/tidbits_2012.css" type="text/css">
 	<link rel="stylesheet" type="text/css" media="print" href="http://images.tidbits.com/tb-new-print.css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://tidbitsimages.s3.amazonaws.com/javascript/tb.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://tidbitsimages.s3.amazonaws.com/javascript/tb.js" type="text/javascript" charset="utf-8"></script>
 	<meta name="viewport" content="width:940">
 <script type="text/javascript">
 var googletag = googletag || {};
@@ -35,7 +35,6 @@ var node = document.getElementsByTagName('script')[0];
 node.parentNode.insertBefore(gads, node);
 })();
 </script>
-
 <script type="text/javascript">
 googletag.cmd.push(function() {
 googletag.defineSlot('/9369407/Leaderboard', [728, 90],
@@ -46,7 +45,13 @@ googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 </script>
-	<script src="/javascript/prototype.js" type="text/javascript"></script>
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
+</script>
+<script src="http://images.tidbits.com/javascript/prototype.js" type="text/javascript"></script>
 <script src="http://images.tidbits.com/javascript/scriptaculous.js" type="text/javascript"></script>
 <script src="http://images.tidbits.com/js-global/FancyZoom.js" type="text/javascript"></script>
 <script src="http://images.tidbits.com/js-global/FancyZoomHTML.js" type="text/javascript"></script>
@@ -54,6 +59,7 @@ googletag.enableServices();
 
 </head>
 <body onload="setupZoom(); slidedown_hello()">
+
 <!-- popup query -->
 <div id="big_ole_background" style="display:none">&nbsp;</div>
 
@@ -78,7 +84,7 @@ googletag.enableServices();
 				<div class="tbf_wide"><div class="tbf_alert" id="lin_top_message_1"></div></div>
 			</div>
 			<div class="spacer"></div>
-			<form name="tb_login_pup" id="tb_login_pup_form" action="noscript.cgi" method="POST">
+			<form name="tb_login_pup" id="tb_login_pup_form" action="noscript.cgi" onsubmit="return false();" method="POST">
 			
 			<div class="form_row">
 			<div class="form_left small_bold_label">Email</div>
@@ -93,11 +99,11 @@ googletag.enableServices();
 			<div class="form_clear"></div>
 			
 			<div class="form_row">
-			<div class="form_left"><button value="Log In" name="account_login_submit" onclick="return login_popup()">Log In</button><input type="hidden" id="homepage_redirect" name="homepage_redirect"></div>
+			<div class="form_left"><button value="Log In" name="account_login_submit" onclick="return login_popup()">Log In</button><input type="hidden" id="homepage_redirect" name="homepage_redirect"><input type="hidden" id="lin_madras" name="lin_madras" value=""></div>
 			</div>
 			<div class="form_clear"></div>
 			<div class="tbf_row">
-				<div class="tbf_wide_80">Need to <a href="/create_account">create an account</a>?<br>Need a <a href="/forgot_password">new password</a>?</div>
+				<div class="tbf_wide_80"><a href="/forgot_password">Need a new password</a>?<br><a href="/create_account">Need to create an account</a>?</div>
 
 			</div>
 			<div class="spacer"></div>
@@ -252,7 +258,7 @@ googletag.enableServices();
 			<div class="spacer"></div>
 			
 			<div class="tbf_row">
-				<div class="tbf_left">&nbsp;</div><div class="tbf_right"><input id="comm_post_comment" tabindex="4" type="submit" value="Post Comment" name="submit_this_comment" style="width:100px; float:right" onclick="cb_post_submit(); return false;"></div>
+				<div class="tbf_left">&nbsp;</div><div class="tbf_right"><input id="comm_post_comment" tabindex="4" type="submit" value="Post Comment" name="submit_this_comment" style="width:100px; float:right" onclick="cb_post_submit(''); return false;"></div>
 			</div>
 			<div class="spacer"></div>
 			
@@ -275,10 +281,10 @@ googletag.enableServices();
 <div id="mainbody">
 
 <!-- start header -->
-<div id="header">
+<div id="header" class="header_reg">
 
 	<div id="tblogo">
-	<a href="/"><img src="http://images.tidbits.com/images/tblogo21_01.gif" alt="TidBITS: Apple News for the Rest of Us" width="177" height="84" border="0"></a>
+	<a href="/"><img src="http://images.tidbits.com/images/tblogo22_01.gif" alt="TidBITS: Apple News for the Rest of Us" width="177" height="84" border="0"></a>
 
 	</div><!-- end tblogo -->
 
@@ -306,6 +312,7 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 	<ul class="leftnav">
 		<!-- start search -->
 		<li class="topcorner">
+		
 			<form action="http://tidbits.com/search" method="POST" name="search_form"><input type="hidden" name="advanced_search" value=""><input type="text" name="search_text" size="8" maxlength="70" value="Search" onfocus="this.value=''" onblur="if (this.value == '') { this.value = 'Search'; }">&nbsp;<span style="margin: 0 5px 0 5px; vertical-align: -2px"><span style="vertical-align: -2px"><input type="image" name="submit_search" src="http://images.tidbits.com/images/go_search_button.gif"></span>&nbsp;&nbsp;<img src="http://images.tidbits.com/images/adv_search_button.gif" title="Click for Advanced Search" onclick="var f = document.search_form; f.search_text.value =''; f.advanced_search.value = '1'; f.submit();"></span></form>
 		</li>
 	</ul>
@@ -318,7 +325,7 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 		<li class="gettb"><strong>Get TidBITS via...</strong></li>
 	
 		<li><a href="/lists.html" title="Subscribe via email" class="gettb">Email&nbsp;<img src="http://images.tidbits.com/images/gettb_button_email.gif" width="12" height="12" border="0" class="nav_img" alt="Email subscription options"></a></li>
-		<li><a href="/feeds/tidbits.rss" title="Subscribe via RSS" class="gettb">RSS&nbsp;<img src="http://images.tidbits.com/images/feed-icon-12x12.gif" width="12" height="12" border="0" class="nav_img" alt="Subscribe via RSS"></a></li>
+		<li><a href="/feeds/tidbits_blurb.rss" title="Subscribe via RSS" class="gettb">RSS&nbsp;<img src="http://images.tidbits.com/images/feed-icon-12x12.gif" width="12" height="12" border="0" class="nav_img" alt="Subscribe via RSS"></a></li>
 		<li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=276986548" title="Subscribe to the podcast" class="gettb">Podcast&nbsp;<img src="http://images.tidbits.com/images/feed-icon-12x12_podcast.gif" width="12" height="12" border="0" class="nav_img" alt="Subscribe to the postcast"></a></li>
 		<li><a href="http://www.twitter.com/TidBITS" title="Get Article Updates via Twitter" class="gettb">Twitter&nbsp;<img src="http://images.tidbits.com/images/feed_icon_12x12_twitter.png" width="12" height="12" border="0" class="nav_img" alt="Get Article Updates via Twitter"></a></li>
 		<li><a href="http://www.facebook.com/pages/TidBITS/195314925519" title="Go to the TidBITS Page at Facebook" class="gettb">Facebook&nbsp;<img src="http://images.tidbits.com/images/feed_icon_12x12_facebook.gif" width="12" height="12" border="0" class="nav_img" alt="Go to the TidBITS Page at Facebook"></a></li>
@@ -342,6 +349,7 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 		<li><a href="/account">Account Info</a></li>
 		<li><a href="javascript:void(0)" onclick="return account_logout();">Logout</a></li></div>
 		<li><a href="/about_accounts.html">About Accounts</a></li>
+		<li><a href="/member_benefits.html">Member Benefits</a></li>
 	</ul>
 </div>
 
@@ -398,15 +406,15 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 </ul>
 </div>
 
-<div id="issuelist" style="display:none"><ul class="leftnav"><li><div class="special"><form method="post" action="noaction.cgi" onsubmit="return false" id="issue_search_form" name="issue_search_form">Issue # <input type="number" required="" onkeydown="if (event.keyCode == 13) { redirect_issue(this.form); }" id="issue_searchvalue" name="issue_number" style="width:35px; height: 10px">&nbsp;<input onclick="redirect_issue(this.form)" type="image" name="submit_search" src="http://images.tidbits.com/images/go_search_button_blk.gif"></form></div></li><li><a href="/issue/1103">#1103, 14 Nov 11</a></li>
-<li><a href="/issue/1102">#1102, 07 Nov 11</a></li>
-<li><a href="/issue/1101">#1101, 31 Oct 11</a></li>
-<li><a href="/issue/1100">#1100, 24 Oct 11</a></li>
-<li><a href="/issue/1099">#1099, 17 Oct 11</a></li>
-<li><a href="/issue/1098">#1098, 11 Oct 11</a></li>
-<li><a href="/issue/1097">#1097, 10 Oct 11</a></li>
-<li><a href="/issue/1096">#1096, 03 Oct 11</a></li>
-<li><a href="/issue/1095">#1095, 26 Sep 11</a></li>
+<div id="issuelist" style="display:none"><ul class="leftnav"><li><div class="special"><form method="post" action="noaction.cgi" onsubmit="return false" id="issue_search_form" name="issue_search_form">Issue # <input type="number" required="" onkeydown="if (event.keyCode == 13) { redirect_issue(this.form); }" id="issue_searchvalue" name="issue_number" style="width:35px; height: 10px">&nbsp;<input onclick="redirect_issue(this.form)" type="image" name="submit_search" src="http://images.tidbits.com/images/go_search_button_blk.gif"></form></div></li><li><a href="/issue/1127">#1127, 21 May 12</a></li>
+<li><a href="/issue/1126">#1126, 14 May 12</a></li>
+<li><a href="/issue/1125">#1125, 07 May 12</a></li>
+<li><a href="/issue/1124">#1124, 30 Apr 12</a></li>
+<li><a href="/issue/1123">#1123, 23 Apr 12</a></li>
+<li><a href="/issue/1122">#1122, 16 Apr 12</a></li>
+<li><a href="/issue/1121">#1121, 09 Apr 12</a></li>
+<li><a href="/issue/1120">#1120, 02 Apr 12</a></li>
+<li><a href="/issue/1119">#1119, 26 Mar 12</a></li>
 
 
 <li><a href="/backissues">Back Issues</a></li></ul></div>
@@ -449,23 +457,23 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 
 <ul>
 
-<li><a href="http://markspace.com/bits?source=tidbits">Mark/Space</a></li>
-
-<li><a href="http://nuance.com/dragon/mac">Nuance</a></li>
-
-<li><a href="http://bit.ly/tbboom">Global Delight</a></li>
+<li><a href="/members.html">TidBITS Members</a></li>
 
 <li><a href="http://www.noteboomproductions.com/tb">Noteboom</a></li>
 
+<li><a href="http://www.getdoxie.com/a/bits">Doxie</a></li>
+
+<li><a href="http://nuance.com/dragon/mac">Nuance</a></li>
+
+<li><a href="http://www.barebones.com/products/yojimbo/">Bare Bones</a></li>
+
 <li><a href="http://crashplan.com/ref/tidbits.html">CrashPlan</a></li>
 
-<li><a href="http://store.apple.com/us/product/H7359ZM/A/cyborg-rat-7-contagion-gaming-mouse">Cyborg R.A.T. 7 Gaming Mouse</a></li>
+<li><a href="http://www.intego.com/virusbarrier?from=tidbits-text">Intego</a></li>
 
-<li><a href="http://www.tidbits.com/about/support/contributors.html">Readers Like You!</a></li>
+<li><a href="http://www.ez.com/sstb">ScanSnap</a></li>
 
-<li><a href="http://www.intego.com/wmtb">Intego</a></li>
-
-<li><a href="http://www.smilesoftware.com/">Smile</a></li>
+<li><a href="http://smle.us/tbpdfpen">Smile</a></li>
 
 </ul><div class="sponsor_sidebox_bottom">&nbsp;</div>
 </div>
@@ -492,7 +500,6 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 
 <!-- begin rightcolumn_container -->
 <div id="rightcolumn_container">
-
 <!-- begin rightcolumn -->
 	<!-- rightcolumn is embedded within centercolumn so featured text wraps around it -->
 	<div id="rightcolumn">
@@ -501,86 +508,18 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 
 
 
+<div class="tearoffbox_wide_p">
+<p class="tearoffbox_wide_top_p">&nbsp;</p>
+<div class="tearoffbox_text tearoffbox_text_loginmsg">Pick an apple!&nbsp;
+<a href="http://tidbits.com/member_benefits.html"><img class="shift_down" width="16" height="16" border="0" src="http://images.tidbits.com/images/membership/memberapple_red_16x16.png"> 
+<img class="shift_down" border="0" width="16" height="16" src="http://images.tidbits.com/images/membership/memberapple_yellow_16x16.png"> 
+<img class="shift_down" border="0" width="16" height="16" src="http://images.tidbits.com/images/membership/memberapple_orange_16x16.png"> 
+<img class="shift_down" border="0" width="16" height="16" src="http://images.tidbits.com/images/membership/memberapple_green_16x16.png"> 
+<img class="shift_down" border="0" width="16" height="16" src="http://images.tidbits.com/images/membership/memberapple_rainbow_16x16.png"></a></div> 
+<div class="tearoffbox_text" style="margin-top:4px"><a href="http://tidbits.com/member_benefits.html">Become a TidBITS member!</a>
+</div><div class="tearoffbox_wide_bottom_p">&nbsp;</div></div>
 
 
-
-
-
-
-<!-- Special Lion box items -->
-<div class="tearoffbox_wide_container">
-<div class="tearoffbox_wide_special">
-<p class="tearoffbox_wide_top_special">&nbsp;</p>
-
-<ul style="margin-top:50px">
-<li style="margin-right:120px"><a href="http://tidbits.com/article/12364" style="color:red">Upgrade to and Learn Lion with New Take Control Ebooks</a></li>
-<li><a href="http://tidbits.com/article/12320">Our Favorite Hidden Features in Mac OS X Lion</a></li>
-<li><a href="http://tidbits.com/article/12559">Meanwhile, Back at the Lion Ranch…</a></li>
-<li><a href="http://tidbits.com/article/12457">Apple ID Becomes Mac OS X and iCloud Glue</a></li>
-<li><a href="http://tidbits.com/article/12417">Lion Security: Building on the iOS Foundation</a></li>
-<li><a href="http://tidbits.com/article/12483">Beware Lion’s Versions Bug on Network and Non-HFS+ Volumes</a></li>
-<li><a href="http://tidbits.com/article/12429">Mac OS X 10.7.1 Fixes Just a Few Bugs</a></li>
-<li><a href="http://tidbits.com/article/12422">Lion Provides First Steps Toward Power Savings</a></li>
-<li><a href="http://tidbits.com/article/12443">Two Important Screen Sharing Changes in Lion</a></li>
-<li><a href="http://tidbits.com/article/12431">How to Fax in Lion</a></li>
-<li><a href="http://tidbits.com/article/12412">Subtle Irritations in Lion</a></li>
-<li><a href="http://tidbits.com/article/12411">Lion Recovery Disk Assistant Creates External Recovery Drives</a></li>
-<li><a href="http://tidbits.com/article/12392">Finding a Replacement for Quicken</a></li>
-<li><a href="http://tidbits.com/article/12393">Lion Awakens Three Sleeping Utilities</a></li>
-<li><a href="http://tidbits.com/article/12398">Lion Is a Quitter</a></li>
-<li><a href="http://tidbits.com/article/12394">Video Viewing in Lion Freezes New iMacs</a></li>
-<li><a href="http://tidbits.com/article/12306">Dealing with Lion's Hidden Library</a></li>
-<li><a href="http://tidbits.com/article/12350">Update Migration Assistant before Upgrading to Lion</a></li>
-<li><a href="http://tidbits.com/article/12301">How Long Will Lion Take to Download?</a></li>
-<li><a href="http://tidbits.com/article/12237">The Two Faces of Lion</a></li>
-<li><a href="http://roaringapps.com/apps:table">Lion Application Compatibility Wiki</a></li>
-<li><a href="http://tidbits.com/article/12191">Rosetta and Lion: Get Over It?</a></li>
-<li><a href="http://tidbits.com/article/12156">Preparing for Lion: Find Your PowerPC Applications</a></li>
-</ul>
-
-<div class="tearoffbox_wide_bottom_special">&nbsp;</div>
-
-</div><!-- end tearoffbox_wide -->
-
-</div><!-- end tearoffbox_wide_container for Special Lion Box -->
-
-
-
-<!-- Watchlist items -->
-<div class="tearoffbox_wide_container">
-<div class="tearoffbox_wide_watchlist">
-<p class="tearoffbox_wide_top_watchlist">&nbsp;</p>
-
-<h6><a href="/section/watchlist">TidBITS Watchlist</a></h6>
-<ul>
-
-<li><a href="/article/12642">SpamSieve 2.8.8</a></li>
-
-<li><a href="/article/12640">MacBook Pro Video Update 1.0 (Snow Leopard)</a></li>
-
-<li><a href="/article/12629">Postbox 3</a></li>
-
-<li><a href="/article/12627">DEVONthink Personal, Pro, and Pro Office 2.3.1</a></li>
-
-<li><a href="/article/12626">Java for Mac OS X 10.7 Update 1 and Java for Mac OS X 10.6 Update 6</a></li>
-
-<li><a href="/article/12625">Digital Camera RAW Compatibility Update 3.9</a></li>
-
-<li><a href="/article/12624">MacBook Pro SMC Firmware Update 1.5</a></li>
-
-<li><a href="/article/12616">Adobe Photoshop Elements 10 Editor and Premiere Elements 10 Editor</a></li>
-
-<li><a href="/article/12610">Sandvox 2.2</a></li>
-
-<li><a href="/article/12606">Aperture 3.2.1</a></li>
-
-</ul>
-
-<div class="tearoffbox_wide_bottom_watchlist">&nbsp;</div>
-
-</div><!-- end tearoffbox_wide -->
-
-</div><!-- end tearoffbox_wide_container for watchlist items -->
 
 <!-- begin tearoff box wide -->
 
@@ -591,14 +530,14 @@ googletag.display('div-gpt-ad-1320253426252-0'); });
 <div class="tips_sponsor_logo">
 &nbsp;
 </div>
-<h6>Find Text Leading from Acrobat PDF</h6>
-<p></p><p>Ever have to recreate a document from an Acrobat PDF? You can find out most everything about the text by using the Object Inspector, except the leading. Well, here's a cheesy way to figure it out. Open the PDF in Illustrator (you just need one page). Release any and all clipping masks. Draw a guide at the baseline of the first line of text, and one on the line below. Now, Option-drag the first line to make a copy, and position it exactly next to the original first line at baseline. Then put a return anywhere in the copied line. Now adjust leading of the copied lines, so that the second line of copy rests on the baseline of the second line of the original. Now you know your leading.</p><p>Or you could buy expensive software to find the leading. Your choice.</p><p></p>
-<p>Visit <a href="http://macproductionartist.wordpress.com">Mac Production Artist Tips and Scripts</a></p>
+<h6>Untrash the Trash</h6>
+<p></p><p>Feeling trasher's remorse? On Snow Leopard, you can open the Trash (click the Trash icon in the Dock) and "untrash" individual items there. Select one or more trashed items (files and folders) and choose File &gt; Put Back. This returns the items to where they were when you originally put them in the trash. The keyboard shortcut is Command-Delete - the same as the shortcut for trashing an item in the first place, since in deleting something from the trash you are untrashing it.</p><p></p>
+
 </div>
 
 <div class="tearoffbox_wide_bottom_tips">
-<div style="padding-bottom:35px"><div class="tip_display" style="float:left"><p><br><a href="/tipbits/172">Link to this tip</a></p></div><div class="tip_display" style="float:right; width:150px">
-<p class="credit">Submitted by<br>Greg Ledger</p>
+<div style="padding-bottom:35px"><div class="tip_display" style="float:left"><p><br><a href="/tipbits/210">Link to this tip</a></p></div><div class="tip_display" style="float:right; width:150px">
+<p class="credit">Submitted by<br>Matt Neuburg</p>
 </div></div>
 
 </div>
@@ -651,7 +590,6 @@ googletag.display('div-gpt-ad-1320253426252-1'); });
 </div>
 
 	</div><!-- end rightcolumn -->
-
 
 </div><!-- end rightcolumn_container -->
 
@@ -812,7 +750,7 @@ We will not share names or email addresses of any other DealBITS participants wi
 
 
 <footer>
-<p>TidBITS is copyright © 2011 TidBITS Publishing Inc.</p>
+<p>TidBITS is copyright © 2012 TidBITS Publishing Inc.</p>
 <p>Reuse governed by <a href="http://tidbits.com/terms/">Creative Commons License</a>.</p></footer>
 
 <p><a href="/about.html" title="About TidBITS">About TidBITS</a> | <a href="/advertising.html" title="Advertise with TidBITS!">Advertise with TidBITS!</a> | <a href="/contact.html" title="Contact Info">Contact Info</a> | <a href="/copyright.html" title="Copyright Terms">Copyright Terms</a> | <a href="/privacy.html" title="Privacy Policy">Privacy Policy</a></p>
@@ -852,6 +790,7 @@ var skimlinks_domain = 'go.tidbits.com';
 skimlinks();
 </script>
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
 
 
 
