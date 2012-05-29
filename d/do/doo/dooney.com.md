@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126134206id_/http%3A//www.dooney.com/OA_HTML/dbibeCCtpSctDspRte.jsp%3Fsection%3D19976) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530010529id_/http%3A//www.dooney.com/OA_HTML/dbibeCCtpSctDspRte.jsp%3Fsection%3D19976) for the most accurate reproduction.*
 
 # Dooney & Bourke: Privacy Policy
 
@@ -42,7 +42,8 @@ We are not responsible for the practices employed by Websites linked to or from 
 **Accessing/Correcting Your Information**  
 As a registered user at dooney.com you can access your personal information at any time. After successfully logging in to the site you can got to the "Profile" link on the top right corner of the site and edit any of your personal information.
 
-You may notify us at any time if you do not wish to receive offers from our marketing partners. You may also notify us if you wish to be removed from our email and postal mailing lists entirely. To request either form of removal, contact us with your instructions by email, phone or mail at:  
+**Non-Sharing and Deletion Options**  
+You may notify us at any time if you do not wish to receive offers from our marketing partners or have your information shared with them. You may also notify us if you wish to be removed from our email and postal mailing lists entirely. To request either form of removal, contact us with your instructions by email, phone or mail at:  
 [CustServ@Dooney.com](mailto:CustServ@Dooney.com)  
 Dooney & Bourke   
 P.O. Box 841  
