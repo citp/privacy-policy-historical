@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngadultfinances.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227123715id_/http%3A//youngadultfinances.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngadultfinances.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529195835id_/http%3A//youngadultfinances.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Financial Success for Young Adults
 
@@ -33,6 +33,6 @@ We also won’t share, [trade](http://www.youngadultfinances.com/how-to-use-tech
 
 #### Incoming search terms:
 
-  * [information in](http://youngadultfinances.com/about-us/privacy-policy/ "information in")
+  * [Adult forum Privacy Policy](http://youngadultfinances.com/about-us/privacy-policy/ "Adult forum Privacy Policy")
 
 
