@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manduka.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206011038id_/http%3A//www.manduka.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manduka.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529174501id_/http%3A//www.manduka.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Manduka™ High Performance Yoga Mats and Yoga Accessories | Privacy Policy
 
