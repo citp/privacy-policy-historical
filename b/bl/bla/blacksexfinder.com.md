@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123194035id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529051426id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
-# BlackSexFinder - Black Sex, Black Dating - Privacy Policy
+# Black Sex | Black Pussy | Black Girls | Black Date | Black Single | Adult Finder | Black Meet | BlackSexFinder
 
 **Information Obtained**
 
