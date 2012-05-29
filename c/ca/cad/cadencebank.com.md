@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117202615id_/http%3A//www.cadencebank.com/Privacy_Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529132905id_/http%3A//www.cadencebank.com/Privacy_Security) for the most accurate reproduction.*
 
 # Cadence Bank
 
 | 
 
   
-[](https://web.archive.org/web/20111117202615id_/http%3A/history)[](https://web.archive.org/web/20111117202615id_/http%3A/Location_Alabama)[](https://web.archive.org/web/20111117202615id_/http%3A/Careers)
+[](https://web.archive.org/web/20120529132905id_/http%3A/history)[](https://web.archive.org/web/20120529132905id_/http%3A/Location_Alabama)[](https://web.archive.org/web/20120529132905id_/http%3A/careers)
 
 [To print this privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/Cadence%20_2011%20Privacy%20Notice%20with%20Affiliate_OptOut_Annual%20Mailing%20oct%202011.pdf)
 
