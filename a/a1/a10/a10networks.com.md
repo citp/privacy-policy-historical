@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the a10networks.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103091037id_/http%3A//www.a10networks.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a10networks.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529183048id_/http%3A//www.a10networks.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/contact/index.php)
 
 This Privacy Policy is made available to you in order to make you aware of how A10 Networks, Inc. ("A10") collects and uses personal information you provide to us or collected via your visit to the A10 Web site. 
 
