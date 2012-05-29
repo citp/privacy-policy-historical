@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelibrary.org privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215024150id_/http%3A//www.freelibrary.org/policies/flppp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelibrary.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529060356id_/http%3A//www.freelibrary.org/policies/flppp.htm) for the most accurate reproduction.*
 
 # FLP - Privacy Statement
 
@@ -70,6 +70,10 @@ This website contains links to other sites. We encourage you to be aware when yo
 **Your Consent**  
   
 By using our website, you consent to the collection and use of information as set forth in this privacy policy. You also acknowledge our right to change this policy, without prior notification, and our commitment to post any such changes on this page so that you are fully informed of the types of information we collect, how we use it, and under what circumstances, if any, it is disclosed.   
+  
+**SMS Correspondence**  
+  
+You may opt-out of the Free Library of Philadelphia Foundation's SMS correspondence or Premium SMS Services by texting "STOP" to the short code 20222. Text "HELP" to 20222 for help or visit [www.hmgf.org/t](http://mobilegiving.org/?page_id=18). Message and data rates may apply.  
   
 **Give Us Your Feedback**  
   
