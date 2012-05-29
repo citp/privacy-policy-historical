@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129115748id_/http%3A//www.rent-acoder.com/display.php%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-acoder.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529034303id_/http%3A//www.rent-acoder.com/display.php%3Fid%3D3) for the most accurate reproduction.*
 
-# Privacy Policy - Rent A Coder - Hire Freelancers
+# Privacy Policy - Programming and design services
 
 Privacy Policy
 
