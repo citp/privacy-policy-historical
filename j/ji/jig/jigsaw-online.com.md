@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221001537id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529122127id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Women's Fashion Clothes – Online Shop
 
@@ -12,11 +12,11 @@ You can access and browse our website without having to disclose any personal da
 
 By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy Policy below and in the [Terms and Conditions ](http://www.jigsaw-online.com/termsandconditions.aspx?pagename=siteterms)provided on the site.
 
-### Personal Information Collected
+### How we use cookies
 
-If you buy from us, we will require information such as your first name and surname, email address, phone number and delivery and billing addresses. This information is required in order that we may process your order efficiently. 
+If you buy from us, we will require information such as your first name and surname, email address, phone number and delivery and billing addresses. This information is required in order that we may process your order efficiently.
 
-This site uses internet cookies. These are small pieces of information that are stored by your browser on your computer to improve the speed at which it can access pages of our website, thereby giving you a better browsing experience. These cookies do not record or store any personal details and are harmless to your computer. Should you not which to store cookies on your computer from our website or any other, it is possible to change the settings on your web browser to prevent cookies from being stored. Please note that disabling cookies may reduce the performance of our website on your computer. 
+This site uses internet cookies. These are small pieces of information that are stored by your browser on your computer to improve the speed at which it can access pages of our website, thereby giving you a better browsing experience. These cookies do not record or store any personal details and are harmless to your computer. Should you not which to store cookies on your computer from our website or any other, it is possible to change the settings on your web browser to prevent cookies from being stored. Please note that disabling cookies may reduce the performance of our website on your computer. **By continuing to use the site with your current browser settings, you consent to allow this site to use cookies.**
 
 ### Your Right To Know
 
