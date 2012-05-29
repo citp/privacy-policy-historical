@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125001824id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlapiper.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529214734id_/http%3A//www.dlapiper.com/global/termsconditions/onlineprivacypolicy) for the most accurate reproduction.*
 
-# DLA Piper | Online Privacy Policy
+# DLA Piper, Global Law Firm | Online Privacy Policy
 
-Your privacy is important to us. This notice explains our online information practices and the choices you can make about the way your information is used at our site.  
+Your privacy is important to us. This notice explains our online information practices and the choices you can make about the way your information is used at our Web site ([www.dlapiper.com]()).  
 
 
 **The Information We Collect  
@@ -39,30 +39,34 @@ DLA Piper posts information about programs and events that are sponsored by or c
 
 
 **Cookies  
-** A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.  A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.  
+** Our website uses cookies. A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site and services.   
 
 
-When you visit our website we send you a cookie. Cookies may be used in the following ways:  
+We may use cookies in the following ways:   
 
 
-  * To enable the personalisation features on our website (which give you the ability to recall recently viewed pages and see information which you have input on line).
+  * Where they are essential to make our site work
 
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
+  * To enable the personalisation features on our site (which give you the ability to recall recently viewed pages and see information which you have input on line)
+
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our site. We cannot identify you personally in this way. 
 
 
 
 
-Two types of cookies may be used on this website, session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
+For detailed information about cookies and how they are used on our website, see our [Cookie Policy](http://www.dlapiper.com/global/termsandconditions/cookiepolicy/).   
 
- **Disabling/Enabling Cookies**  
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
 
- **Our Commitment to Security**  
+**_Disabling/enabling cookies  
+_** You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. For further information about disabling or blocking cookies, please see ['Can I withdraw my consent?' in our Cookie Policy](http://www.dlapiper.com/global/termsandconditions/cookiepolicy/#Can%20I%20withdraw%20my%20consent).   
+
+
+**Our Commitment to Security**  
 We employ security measures to prevent unauthorized access to information that we collect online. However, we cannot guarantee the security of your personal information.  
 
 
 **How to Contact Us**  
-If you have any questions or concerns about the privacy policy for DLA Piper or its implementation, you may contact us at info@dlapiper.com. If at any time you decide that we should not longer hold any of your personal data, or wish to change the use to which any such data can be put, please let us know by emailing us at this address.  
+If you have any questions or concerns about the privacy policy for DLA Piper or its implementation, you may contact us at info@dlapiper.com. If at any time you decide that we should no longer hold any of your personal data, or wish to change the use to which any such data can be put, please let us know by emailing us at [info@dlapiper.com](javascript:SendMail\('info','dlapiper.com?subject=Privacy policy enquiry'\);).  
 
 
 **Revisions to our Privacy Policy  
