@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124955id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529063141id_/http%3A//www.tatasky.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Tata Sky Satellite Television – PRIVACY POLICY
+# DTH India | Tata Sky DTH | Digital TV
 
 Tata Sky Limited is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Website “www.tatasky.com” (“Site”).
 
