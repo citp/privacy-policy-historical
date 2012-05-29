@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212192536id_/http%3A//www.telikompng.com.pg/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529085318id_/http%3A//www.telikompng.com.pg/Privacy.aspx) for the most accurate reproduction.*
 
-# Telikom PNG Limited > Home
+# Home
 
 Telikom PNG Limited is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Telikom PNG Limited Web site and governs data collection and usage. By using the Telikom PNG Limited website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Telikom PNG Limited will occasionally update this Statement of Privacy to reflec
 
 Contact Information
 
-Telikom PNG Limited welcomes your comments regarding this Statement of Privacy. If you believe that Telikom PNG Limited has not adhered to this Statement, please contact Telikom PNG Limited at [lsap@telikompng.com.pg](mailto:lsap@telikompng.com.pg). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Telikom PNG Limited welcomes your comments regarding this Statement of Privacy. If you believe that Telikom PNG Limited has not adhered to this Statement, please contact Telikom PNG Limited at [webmasters@telikompng.com.pg](mailto:webmasters@telikompng.com.pg). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
