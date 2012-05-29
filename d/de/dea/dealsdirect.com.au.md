@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113085143id_/http%3A//www.dealsdirect.com.au/page/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529125821id_/http%3A//www.dealsdirect.com.au/s/dd-privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DealsDirect.com.au Australia's #1 Discount Online Department Store
+# Online Shopping | Australia Online Shopping | Deals Direct
 
-  * [Privacy and Security](https://web.archive.org/privacy/#privacy)
-  * [The National Privacy Principles](https://web.archive.org/privacy/#nationalprivacy)
-  * [Collecting Personal Information About You](https://web.archive.org/privacy/#personalinformation)
-  * [Using and Disclosing Your Personal Information](https://web.archive.org/privacy/#disclosingpersonalinformation)
-  * [Access to Your Personal Information](https://web.archive.org/privacy/#accesspersonalinformation)
-  * [Correcting Your Personal Information](https://web.archive.org/privacy/#correctingpersonalinformation)
-  * [Securing and Storing Your Personal Information](https://web.archive.org/privacy/#securingpersonalinformation)
-  * [How Your Personal Information May be Shared](https://web.archive.org/privacy/#howshare)
-  * [Cookies](https://web.archive.org/privacy/#cookies)
-  * [Disposal of Personal Information](https://web.archive.org/privacy/#disposal)
-  * [For more information or to complain about a breach of your privacy](https://web.archive.org/privacy/#breach)
-  * [Changes To Our Privacy Policy](https://web.archive.org/privacy/#changeprivacy)
+  * [Privacy and Security](https://web.archive.org/s/dd-privacy.html/#privacy)
+  * [The National Privacy Principles](https://web.archive.org/s/dd-privacy.html/#nationalprivacy)
+  * [Collecting Personal Information About You](https://web.archive.org/s/dd-privacy.html/#personalinformation)
+  * [Using and Disclosing Your Personal Information](https://web.archive.org/s/dd-privacy.html/#disclosingpersonalinformation)
+  * [Access to Your Personal Information](https://web.archive.org/s/dd-privacy.html/#accesspersonalinformation)
+  * [Correcting Your Personal Information](https://web.archive.org/s/dd-privacy.html/#correctingpersonalinformation)
+  * [Securing and Storing Your Personal Information](https://web.archive.org/s/dd-privacy.html/#securingpersonalinformation)
+  * [How Your Personal Information May be Shared](https://web.archive.org/s/dd-privacy.html/#howshare)
+  * [Cookies](https://web.archive.org/s/dd-privacy.html/#cookies)
+  * [Disposal of Personal Information](https://web.archive.org/s/dd-privacy.html/#disposal)
+  * [For more information or to complain about a breach of your privacy](https://web.archive.org/s/dd-privacy.html/#breach)
+  * [Changes To Our Privacy Policy](https://web.archive.org/s/dd-privacy.html/#changeprivacy)
 
 
 
-Auction Alliance Pty Ltd ABN 64 096 509 134 trading as DealsDirect.com.au ( **“DealsDirect”** ) is an online retailer and is committed to protecting your privacy and developing a website that gives you an enjoyable and secure online experience.
+Deals Direct Pty Ltd ABN 64 096 509 134 trading as DealsDirect.com.au ( **“DealsDirect”** ) is an online retailer and is committed to protecting your privacy and developing a website that gives you an enjoyable and secure online experience.
 
-### Privacy and Security
+###  Privacy and Security
 
 At DealsDirect.com.au we understand that you value your privacy and wish to have your personal information kept secure. Our Privacy Policy describes generally how we manage your personal information and safeguard your privacy. If you would like more information, please don't hesitate to [_contact us_](https://web.archive.org/contact-us/).
 
-### The National Privacy Principles
+###  The National Privacy Principles
 
 We are bound by the National Privacy Principles, as provided in the Privacy Act (Cth) 1988 ( **“Privacy Act”** ).
 
-### Collecting Personal Information About You
+###  Collecting Personal Information About You
 
 At DealsDirect.com.au we only collect personal information that is necessary for us to conduct our business as an online provider of goods.
 
@@ -37,7 +37,7 @@ We may also collect some information from you when you use our website [www.deal
 
 The only personal information that we collect about you when you use our website is what you tell us about yourself, for example, when you complete an online form when placing an order, or information you provide to us when you send us an email. Please note, we will record your email address if you send us an email. We reserve the right to include your email address as part of our email communications for which you can unsubscribe to if you choose.
 
-### Using and Disclosing Your Personal Information
+###  Using and Disclosing Your Personal Information
 
 We respect your privacy. Any personal information that we collect about you will be used and disclosed by us so that we can provide you with the services that you have requested, or otherwise to enable us to carry out our business as suppliers of goods.
 
@@ -62,7 +62,7 @@ We may also use your personal information for research and development of our pr
 
 We do not engage in unsolicited telephone or email marketing. In particular, if you are contacted by telephone by an individual or organisation claiming to represent DealsDirect.com.au - do not purchase from the organisation as we have a strict policy against telephone marketing.
 
-### Access to Your Personal Information
+###  Access to Your Personal Information
 
 In most cases you may have access to personal information that we hold about you. We will handle requests for access to your personal information in accordance with the National Privacy Principles.
 
@@ -72,17 +72,17 @@ In some cases, we may refuse to give you access to personal information we hold 
 
 We will also refuse access where the personal information relates to existing or anticipated legal proceedings, and the information would not be accessible by the process of discovery in those proceedings. If we refuse to give you access we will provide you with reasons for our refusal.
 
-### Correcting Your Personal Information
+###  Correcting Your Personal Information
 
 If you request us to do so we will amend any personal information about you held by us which is inaccurate, incomplete or out of date. If we disagree with your view about the accuracy, completeness or currency of a record of your personal information held by us, and you ask us to associate with that record a statement that you have a contrary view, we will take reasonable steps to do so.
 
-### Securing and Storing Your Personal Information
+###  Securing and Storing Your Personal Information
 
 We are committed to maintaining the confidentiality of the information that you provide us and we will take all reasonable precautions to protect your personal information from unauthorised use or alteration.
 
 In our business, personal information may be stored both electronically (on our computer system) and in hard-copy form. Firewalls, anti-virus software and email filters, as well as passwords, protect all our electronic information. Likewise, we take all necessary measures to ensure the security of hard-copy information.
 
-### How your personal information may be shared
+###  How your personal information may be shared
 
 Except for the purposes outlined in the Privacy Policy, we do not sell or disclose your personal information. However, we may release personal information strictly under the following circumstances:
 
@@ -96,31 +96,31 @@ We also use organisations to provide services on behalf of DealsDirect from time
 
 In the event that DealsDirect contracts with a third party to provide some part of the information or service that you have requested, DealsDirect may provide your information to such third party, or such third party may collect information from you, on our behalf. By agreement with DealsDirect, these third parties are required to implement equivalent security measures and to process your information only as authorised by DealsDirect to fulfill the service(s) that they have been contracted to provide. Otherwise, information you provide at the website [www.dealsdirect.com.au](https://web.archive.org/) will not be transferred to unrelated third parties, unless we have your express prior consent.
 
-### Cookies
+###  Cookies
 
 The DealsDirect website uses “cookies” to help you personalise your online experience. A cookie is a text file or a packet of information that is placed on your hard disk by a web page server to identify and interact more effectively with your computer.
 
 There are two types of cookies that may be used at the DealsDirect.com.au website: a persistent cookie and a session cookie. A persistent cookie gets entered by your web browser into the “Cookies” folder on your computer and remains in this “Cookies” folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is held temporarily in your computer's memory and disappears after you close your browser or shut down your computer. The DealsDirect.com.au website may also use web "beacons" (also called "clear GIFs" or "pixel tags") in conjunction with cookies for the same reasons. Web beacons are small strings of code that are placed in a Web page.
 
-Cookies cannot be used to run programs. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+Cookies cannot be used to run programs. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalise DealsDirect pages, or register with the DealsDirect.com.au website or services, the cookie helps DealsDirect record your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same DealsDirect website, information you previously provided can be retrieved, so you can easily use the DealsDirect features that you customised.
 
 You can configure your internet browser (such as Microsoft Internet Explorer, Mozilla Firefox, or Safari) to accept all cookies, reject all cookies or notify you when a cookie is sent. Please refer to your internet browsers instructions to learn more about these functions. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the DealsDirect services or websites you visit.
 
-### Disposal of Personal Information
+###  Disposal of Personal Information
 
 Once your transaction is finalised, both the electronic and hard-copy information is securely archived. After a period of 7 years both the electronic and hard-copy information is destroyed.
 
-### For more information or to complain about a breach of your privacy
+###  For more information or to complain about a breach of your privacy
 
 If you would like more information about the way we manage personal information which we hold about you, or are concerned that we may have breached your privacy, please contact us by email, fax or post:
 
 **Email us[here](https://web.archive.org/contact-us/email-us/)**  
 **Fax:** 02 9641 2299  
-**Post:** The Privacy Offer, DealsDirect.com.au, PO Box 1012, Ingleburn NSW 1890 
+**Post:** The Privacy Offer, DealsDirect.com.au, PO Box 1012, Ingleburn NSW 1890
 
-### Changes To Our Privacy Policy
+###  Changes To Our Privacy Policy
 
 From time to time it may be necessary for us to revise our privacy policy. Any changes will be in accordance with the Privacy Act and the National Privacy Principles. We may notify you about changes to this privacy policy by posting an updated version on our website [www.dealsdirect.com.au](https://web.archive.org/).
 
