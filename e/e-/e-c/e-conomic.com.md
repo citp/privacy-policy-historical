@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125164105id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529141944id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
 
 # e-conomic's online media Privacy Policy
 
@@ -8,7 +8,7 @@ When you visit e-conomic's websites, we automatically collect information about 
 
 The information we collect from your visit is not personal. In other words, this information cannot be used to identify you personally. We use this information to monitor general tendencies in user behaviour.
 
-In the following, you can read about how we collect information from your visit, why we do it and how your data is protected. ****
+In the following, you can read about how we collect information from your visit, why we do it and how your data is protected. 
 
 ### Automatically collected data
 
