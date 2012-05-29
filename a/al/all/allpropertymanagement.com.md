@@ -1,103 +1,85 @@
-> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129174350id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529171511id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
 
 # AllPropertyManagement.com - Rental and Association Management Companies
 
-## TERMS OF USE
-
-The allpropertymanagement.com web site is in intended for use by prospective property management clients only.
-
-Any commercial use of the data, content, text, or images contained in the web site or its database is strictly prohibited and constitutes and infringement of our copyrighted work and content.
+## Effective Date: 12/16/2011
 
 * * *
 
-## PRIVACY POLICY
+Seamus Co., LLC d/b/a All Property Management, Inc. ("All Property Management", "company", "we", "us", "our") is committed to protecting our user's ("visitor", "user", "you", "your") privacy. We want you to know what information is collected when you visit our website, how we use that information, and how you can update it. All Property Management reserves the right to append or otherwise modify this privacy statement at any time in our sole discretion, so please re-visit this page occasionally to check for updates.
 
-[](http://www.truste.org/ivalidate.php?url=www.allpropertymanagement.com&sealid=101)
+### Information We Collect
 
-All Property Management, LLC [has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) This privacy statement covers the Web site [www.allpropertymanagement.com](http://www.allpropertymanagement.com/).
+All Property Management collects various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you complete and submit a request for information form through our service.
 
-If you have questions or concerns regarding this statement, you should first contact us at 888-238-8948. [If you are not satisfied with our response you can contact TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+### Information Collected Automatically
 
-### General Information
+The types of information your browser or Internet session automatically sends us each time you visit our site, which we may automatically collect, include:
 
-All Property Management, LLC respects the privacy of visitors to our online site. Any personal information gathered on this site will be kept strictly confidential and will only be used in ways for which you have specifically consented. We will never sell or rent any personal information collected from you to any third party. We will take special care to protect the privacy and security of your information.
+  * Your browser, e.g., Internet Explorer® or Firefox®
+  * Your Internet domain, e.g. AOL, MSN, etc.
+  * Your computer's operating system, e.g. Windows®, UNIX, Linux, etc.
+  * Your navigation path, i.e. the URL's from which you accessed our site, the pages of our site you visit, and so forth
+  * Your IP address
 
-All Personally Identified Information gathered on this website is in accordance with the Privacy Policy.
 
-### Privacy Contact Information
 
-You can contact All Property Management regarding privacy matters by mail at
+This information lets us see how users are finding our sites and tells us which pages are visited the most often so we can make our websites more useful.
 
-All Property Management  
-2505 3rd Avenue, Suite 325  
-Seattle, WA 98121
+### Information You Provide to Us
 
-Or by email by using our [Contact Form by clicking here](http://www.allpropertymanagement.com/contact/)
+In addition to information automatically collected from your browser, we also collect information that you provide when you join our email list, send us inquiries, or submit a request to be contacted by a company listed in our directory service. Our inquiry submission process will request personal information such as name, street address, phone number, email address, as well as certain property information that may be required to assist you in effectively transmitting your expression of interest through our service. The personal information you provide as part of the inquiry process will only be shared with the property manager(s) or other service providers, if any, you have expressed an interest in hearing from or as disclosure may otherwise be required by law or compelled by legal process.
 
-### Collection and Use of Personally Identifiable Information
+### How We Use This Information
 
-All Property Management, LLC will only collect personally identifiable data, such as your name, home address, rental property address, telephone number, or e-mail address, when it is voluntarily submitted to us at this website. This information will be collected through our online "Get A Quote" form.
+We use the information collected from you to help us better plan and manage our website to meet your needs and fulfill the requests for information you submit. We also may use the information you provide to us for follow-up communications and marketing purposes.
 
-No other third parties, either on our behalf or for themselves, other than the property management companies you select, will collect any Personally Identified Information through this website.
+### Your Rights, Our Obligations
 
-Should you need to correct or update your personal information, you may do so by emailing us by using our [Contact Form by clicking here](http://www.allpropertymanagement.com/contact/). [We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at 888-238-8948. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)
+All Property Management does not sell or rent any personal data submitted by visitors to our site to any third parties. The company respects the privacy of the users visiting our site and will abide by all applicable laws concerning the management and release of personal information. On occasion, we may use certain information that we have collected to send you information about products and services or updates and other information we think may be of interest to you. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please visit us at <http://www.allpropertymanagement.com/email/> to request your email address be removed from our list. After completing the form you will receive a confirmation that you have been removed.
 
-* * *
+Data you provide to us will be held in strict confidence by the company and will be used for company purposes only, except that we will share your personal information with the entities and individuals from whom you have requested information through our service. In addition, we may share elements of your information with third party vendors and hosting partners that support the necessary hardware, software, networking, storage, and related technology required to run All Property Management. And finally, we may share aggregate information about our users with advertisers, business partners or as may be required by law.
 
-## TRACKING TECHNOLOGIES
+### Children
 
-### Non-Personally Identifiable Information
+Our service is not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 to 17 should not submit any personal information without the permission of their parents or guardians. By using our service, you are representing to us that you are at least 18 years of age, or that you are at least 13 years old and have your parents' or guardian's permission to use the service.
 
-This website also collects and uses information in aggregate form to track the total number of visitors to our site, the number of visitors to each page of our site, the domain names of our visitors' Internet service providers, and other such technical information. This is technical information that does not by itself identify a specific individual. No personally identifiable information is available in this process and referred to as "non-personally identifiable information". We use this data to better target our marketing efforts.
+### Our Security Measures
 
-### Cookies
+All Property Management has industry standard security measures in place to protect against the loss, misuse, and alteration of the information under our control. We employee SSL encryption with all data you include on the inquiry forms that you submit through our service.
 
-Our website uses a technology called "cookies". A cookie is a token that a server gives to your browser when you access a website. Cookies are capable of storing many types of data. Cookies help provide additional functionality to the site or to help us analyze site usage more accurately. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission. We do not, however, use cookies to track the navigational habits of identified visitors. We do use Google Analytics to track aggregate data for our site.
+### Why We Use "Cookies"
 
-[Our third party Live-chat service provider uses cookies to help us provide better customer service. We do not have access or control over these cookies, nor are they covered by this privacy policy.](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission.
+When you visit our website(s), we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your information so we can improve our service and enhance your experience when you return.
 
-### Change of Privacy Policy
+### Links From Our Site To Other Sites
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site [prior to the changes taking effect.](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)
+Our website may contain links to the websites of other parties. If and when you access these external websites, you will become subject to their respective privacy policies and the information they obtain from you during your visit will be subject to those policies. Please be advised that we are not responsible for the privacy practices or the content of any websites that we do not directly control.
 
-### Security
+### For More Information
 
-We take careful measures to prevent the loss, misuse, and alteration of your information. We use Secure Sockets Layer (SSL) technology supporting 128-bit encryption when we collect information from you. The information collected is stored on secure servers behind a firewall. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. We only provide access to your personal information to All Property Management, LLC employees and the companies from which you request information.
+If you have questions about our information practices, please [contact us](http://www.allpropertymanagement.com/contact/) at <http://www.allpropertymanagement.com/contact/>.
 
-### Disclosure of Information
+### Definitions
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+#### Cookies
 
-### Testimonials
+Data created by a web server that is stored on a user's computer. It provides a way for the website to keep track of a user's patterns and preferences and, with the cooperation of the web browser, to store them on the user's own hard disk. The cookies contain a range of URLs (web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent times during the same browser session. You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the options or preferences menu. NOTE: If you disable cookies in your browser, you will not be able to access any secure areas of our website.
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
+#### IP (Internet Protocol) Address
 
-### Blog
+This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2.
 
-If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. [To request removal of your personal information from our blog or community forum, contact us at 888-238-8948. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)
+#### Browser Session
 
-### Third Party Links
+A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session.
 
-As a convenience to our visitors, allpropertymanagement.com currently contains links to a number of sites that we believe may offer useful information. The privacy policies and procedures described here do not apply to those sites. We suggest contacting those sites directly for information on their data collection and distribution policies.
+#### SSL Encryption (Secure Sockets Layer)
 
-We do not allow third party advertisers to track your browsing.
+This is the leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session.
 
-### Change in Ownership
+#### URL (Uniform Resource Locator)
 
-If All Property Management is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+This is an Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for All Property Management is [http://www.AllPropertyManagement.com/](http://www.allpropertymanagement.com/).
 
-* * *
-
-## INFORMATION DISCLAIMER
-
-All Property Management tries to provide content that is true and accurate as of the date of writing; however, we give no assurance or warranty regarding the accuracy, timeliness, or applicability of any of the contents. Visitors to allpropertymanagement.com web site should confirm with the appropriate state real estate commission or licensing agency that a property manager has the appropriate licensing and credentials. If you have any questions regarding how to reach the appropriate real estate commission or licensing agency please contact us at 888-238-8948.
-
-The information at allpropertymanagement.com does not in any way constitute legal or professional advice and is not intended to take the place of either the written law or regulations. All Property Management, LLC, its owners, directors and other representatives cannot be held liable for actions and will not be liable for damages or losses arising from the use of such information.
-
-All Property Management does not advocate or endorse the engagement or use of any particular property management company. Selection and arrangements with any given company are the responsibility of the service user.
-
-All Property Management  
-2505 3rd Avenue, Suite 325  
-Seattle, WA 98121
-
-**[Privacy Policy Effective date - 6.10.2008](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)**
+Internet Explorer and Windows are registered trademarks of Microsoft Corporation in the United States and/or other countries. All other trademarks are the property of their respective owners in the United States and/or other countries.
