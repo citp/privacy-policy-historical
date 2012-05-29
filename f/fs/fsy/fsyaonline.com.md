@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fsyaonline.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903093436id_/http%3A//www.fsyaonline.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsyaonline.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529195835id_/http%3A//youngadultfinances.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Financial Success for Young Adults
 
-The privacy of our visitors to FYSAonline.com is important to us.
+The privacy of our visitors to YoungAdultFinances.com is important to us.
 
-At FYSAonline.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit FYSAonline.com, and how we safeguard your information.  We never sell your personal information to third parties.
+At YoungAdultFinances.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit YoungAdultFinances.com, and how we safeguard your information.  We never sell your personal information to third parties.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
@@ -18,6 +18,10 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 AdSense Privacy Policy Provided by [JenSense](http://www.blogger.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
+## 
+
+## Subscribe
+
 ## _Email Subscription Stuff_
 
   
@@ -25,4 +29,10 @@ Join today to get new FSYA content as soon as it’s published.
 
 We promise never to stuff your inbox with unneeded junk.
 
-We also won’t share, trade, sell, deliver, reveal, publicize, or market your email address in any way.
+We also won’t share, [trade](http://www.youngadultfinances.com/how-to-use-technical-analysis-to-trade/ "Trade with technical analysis"), sell, deliver, reveal, publicize, or market your email address in any way.
+
+#### Incoming search terms:
+
+  * [Adult forum Privacy Policy](http://youngadultfinances.com/about-us/privacy-policy/ "Adult forum Privacy Policy")
+
+
