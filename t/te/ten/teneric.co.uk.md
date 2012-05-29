@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teneric.co.uk privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112110213id_/http%3A//www.teneric.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teneric.co.uk privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529181852id_/http%3A//www.teneric.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Teneric Ltd
 
