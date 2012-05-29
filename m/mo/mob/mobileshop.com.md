@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008230510id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529122230id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
 
 # Mobile Phones - Buy 3, 3G, o2, Orange, Vodafone, Virgin and T-Mobile and Accessories. MobileShop Cheap mobile phones deals
 
