@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213303id_/http%3A//uk.omgpm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,9 @@
 
 OMG takes the privacy of its customers and users seriously. We take care to put measures in place to preserve the security and integrity of all the information provided to us and/or collected from those who use our services.
 
-This policy covers our approach to collecting, storing, safeguarding and processing information submitted by or collected from users, affiliates, prospective affiliates and clients at OMG sites and/or sites owned and operated by OMG affiliates.
+This policy covers our approach to collecting, storing, safeguarding and processing information submitted by or collected from users, affiliates, prospective affiliates and clients at OMG sites.
+
+We have a distinct [Advertising Privacy Policy](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/tracking-privacy.aspx) covering OMG’s use of Advertising Cookies which you can [read here](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/tracking-privacy.aspx)
 
 ## Terms
 
@@ -21,9 +23,9 @@ This policy covers our approach to collecting, storing, safeguarding and process
   * ‘Referrer’ refers to any individual who makes (or attempt to make) a recommendation using OMG referral technology accessed via an OMG client website, by entering details of another individual (the ‘referee’) who they believe may be interested in the products or services of that client.
   * ‘Referee’ refers to any individual who has given their consent for a specific referrer to enter their profile information into OMG referral technology and, as a result, receives details of a product or service that may be of interest to them.
   * ‘Profile information’ refers to information submitted proactively at a website by individuals and companies. 
-    * Individuals’ profile information inludes (but is not limited to) name, address, telephone and fax numbers, email addresses, third-party user IDs, URLs of online profiles, bank account information and so on
+    * Individuals’ profile information includes (but is not limited to) name, address, telephone and fax numbers, email addresses, third-party user IDs, URLs of online profiles, bank account information and so on
     * Companies’ profile information includes (but is not limited to) company name, trading name, address, telephone and fax numbers, email addresses, domain ownership information, website statistics, website user profiles, bank account information and so on
-  * ‘User data’ refers to information on the origin and behaviour of users, collected automatically (rather than being submitted proactively) and stored in anonymous and/or aggregated form. User data could include fields such as browser program, operating system, referring website, previous websites visited, entry URL, exit URL, IP address, country of origin, time on site, pages viewed, search text entered and so on. User data does not include any personally identifiable information. 
+  * ‘User data’ refers to information on the origin and behaviour of users, collected automatically (rather than being submitted proactively) and stored in anonymous and/or aggregated form. User data could include fields such as browser program, operating system, referring website, previous websites visited, entry URL, exit URL, IP address, country of origin, time on site, pages viewed, search text entered and other anonymous data. User data does not include any personally identifiable information. 
   * ‘Tracking pixel’, ‘action tag’ or ‘transparent gif’ refer to an image included in web pages in affiliate websites (or in web pages in the websites of their partners) that is used to collect user data from visitors to those websites and return it to OMG. 
   * ‘Cookie’ refers to small piece of text stored on a user's computer by a web browser recording information such as user preferences, shopping cart contents and other website data. Cookies do not include any personally identifiable data. 
 
@@ -80,12 +82,12 @@ Profile information may be used by OMG for the following purposes:
 
 Profile information may be combined with other information for the above purposes.
 
-User data may be used by OMG for the following purposes:
+Anonymous user data may be used by OMG for the following purposes:
 
   * To calculate performance metrics for individual affiliate websites, or for particular groups of affiliate websites
-  * To improve the targeting (relevancy to target users) of advertisements served by OMG to its affiliates and included in pages appearing on those affiliates’ sites
+  * To improve the overall targeting (relevancy to target users) of advertisements served by OMG to its affiliates and included in pages appearing on those affiliates’ sites
   * To provide aggregate information to individual clients on the number, behaviour and origin of website users (‘web traffic’) that have been directed to the client’s site from relevant OMG affiliate sites
-  * To calculate or estimate volume and/or revenue projections for individual prospective clients, or clients considering a change to their affiliate marketing programmes, based on total audience size and/or usage and behaviour patterns
+  * To calculate or estimate volume and/or revenue projections for individual prospective clients, or clients considering a change to their affiliate marketing programmes, based on total audience size and/or usage and aggregate behaviour patterns
   * To make (or consider making) improvements to any aspect of the services provided by OMG, including the improvement of OMG website functionality
 
 
@@ -120,21 +122,75 @@ Both profile information and user data may be transferred between the subsidiary
 
 ## Cookies
 
-Advertisements served by OMG Network and displayed at affiliate sites may use cookies stored on users’ computers to record information on clicks, leads and sales – in other words, information on:
+We use the following cookies:
 
-  * which advertisements users have seen or clicked on
-  * which websites they visit before and after viewing a particular advertisement 
-  * whether or not they have made a purchase as a result of clicking on a particular advertisement. 
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**Privacy**  
+  
+---|---|---  
+  
+Google Analytics
+
+| 
+
+This is a web analytics service provided by Google which sets a cookie in order to evaluate your use of the website and compile reports for us on activity.
+
+| 
+
+Google stores the information collected by the cookie on servers in the US and may also transfer this information to third parties where required to do so by law or for processing information on Google's behalf. Google analytics data is completely anonymous. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
+  
+.Dashboard.AffiliateOverview.Filters (actual cookie name will vary)
+
+| 
+
+This cookie used to save the preferences for your personalised dashboard configuration.
+
+| 
+
+The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+  
+Dashboard_Portlets_ (actual cookie name will vary)
+
+| 
+
+This cookie used to save the preferences for your personalised dashboard configuration.
+
+| 
+
+The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+  
+Announce
+
+| 
+
+This cookie used to manage your login preferences within our administration area.
+
+| 
+
+The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+  
+More information about cookies can be found [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+## Cookies
+
+You can also control how cookies operate on your device by modifying your Browser settings. You will need to ensure that you are running an up to date browser.
+
+  * For Internet Explorer options > Safety > Delete browsing history and follow the instructions
+  * For Firefox click Options > Privacy >Clear your recent history or remove individual cookies and follow the instructions
+  * For Chrome click Settings > History > Clear browsing data and follow the instructions
 
 
 
-OMG cookies do not include any personally identifiable information and are used purely to track the performance of OMG affiliates, as well as to improve the relevancy (‘targeting’) of served advertisements, for example by making them more closely related to the type of website or web page that a particular user has visited. 
+## Advertising Cookies
 
-Many web browsers allow users to decline specific cookies (or all cookies) if they wish, without damaging their experience. 
-
-Under the terms of their contracts with OMG, all OMG affiliates are obliged to inform their users of the fact that OMG advertisements hosted on their sites may store cookies to users’ computers, in addition to their statutory privacy and data protection responsibilities. 
-
-OMG has no control over any additional cookies that may be used by its affiliates or clients. 
+OMG provides advertising services which involves the use of cookies and tracking technologies. Further detail can be found in our [Advertising Privacy Policy](https://web.archive.org/web/20120529064057id_/http%3A//uk.omgpm.com/tracking-privacy.aspx).
 
 ## Subject access requests
 
