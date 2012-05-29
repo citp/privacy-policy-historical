@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128233212id_/http%3A//gumgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumgum.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529205247id_/http%3A//gumgum.com/privacy-policy) for the most accurate reproduction.*
 
 # GumGum - World's Largest In-Image Advertising Platform | Privacy
 
@@ -10,7 +10,7 @@ GumGum provides this Privacy Policy to inform you of our policies and procedures
 
 Personally Identifiable Information means information about you that can be used to contact or identify you. Personally Identifiable Information may include, but is not limited to, your username, your name, phone number, email address and home and business postal addresses.
 
-**Information Collection and Use**
+##### Information Collection and Use
 
   * We require Publishers and Contributors to provide certain Personally Identifiable Information when first becoming a Registered User. We may also request additional Personally Identifiable Information from time to time thereafter. Providing such additional Personally Identifiable Information is entirely optional, although some GumGum Site features may not work without it.
   * For Publishers and Contributors, we use your Personally Identifiable Information mainly to provide the Services to you, as applicable, and to administer your inquiries. We may also use your Personally Identifiable Information to contact you with GumGum newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
@@ -23,10 +23,12 @@ Personally Identifiable Information means information about you that can be used
 
 
 
-**Cookies**   
-Like many websites, we use cookies on the GumGum Site (by placing or reading them via your browser) to save your registration ID and login password for future logins to the GumGum Site. We also utilize session ID cookies to enable certain features of the GumGum Site, to better understand how you interact with the GumGum Site and to monitor aggregate usage by GumGum Users and web traffic routing on the GumGum Site. Third party advertisers on the GumGum Site may also place or read cookies on your browser. We also use cookies when you visit websites with content tagged by Publishers or Contributors with GumGum Code, to collect Log Data, as described in the Log Data section above. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the GumGum Site or all functionality of the Services. 
+##### Cookies
 
-**Information Sharing and Disclosure**  
+Like many websites, we use cookies on the GumGum Site (by placing or reading them via your browser) to save your registration ID and login password for future logins to the GumGum Site. We also utilize session ID cookies to enable certain features of the GumGum Site, to better understand how you interact with the GumGum Site and to monitor aggregate usage by GumGum Users and web traffic routing on the GumGum Site. Third party advertisers on the GumGum Site may also place or read cookies on your browser. We also use cookies when you visit websites with content tagged by Publishers or Contributors with GumGum Code, to collect Log Data, as described in the Log Data section above. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the GumGum Site or all functionality of the Services.
+
+##### Information Sharing and Disclosure
+
 Log Data and Aggregate Information: We may share the following information with third parties, including, but not limited to, vendors that support the operation of our Services and entities involved in the delivery of advertisements: Log Data collected on both the GumGum Site and third party websites tagged with GumGum Code (as described in the Log Data section above), as well as aggregated anonymized information resulting from the analysis of such Log Data for a variety of purposes, including, but not limited to, conducting industry, traffic and demographic analysis, and enabling web publishers to deliver to advertisers audience segments that are appropriate for their products or services.
 
 Service Providers: We may employ third party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, maintenance, hosting and database management services, and administration). These third parties have access to your Personally Identifiable Information and Log Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
@@ -35,20 +37,26 @@ Compliance with Laws and Law Enforcement: GumGum cooperates with government and 
 
 Business Transfers: GumGum may sell, transfer or otherwise share some or all of its assets, including your Personally Identifiable Information and Log Data, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
 
-**Changing or Deleting Your Information**  
+##### Changing or Deleting Your Information
+
 You may review, update, correct or delete the Personally Identifiable Information in your settings, whether as a Publisher or Contributor by logging into your account. Log Data cannot be deleted. If you want to delete your account, you may contact us by sending an email to contact (at) gumgum (dot) com. We may retain an archived copy of your records as required by law or for legitimate business purposes. If you are a Publisher or Contributor and you want to stop using GumGum, you must follow the instructions set forth in the Publisher Terms of Service Agreement or the Contributor Terms of Service Agreement, as applicable.
 
-**Our Policy Toward Children**  
+##### Our Policy Toward Children
+
 GumGum does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without their consent, he or she should contact us at contact (at) gumgum (dot) com. If we become aware that a child under 13 has provided us with Personally Identifiable Information, we will delete such information from our files.
 
-**Security**  
+##### Security
+
 GumGum is concerned with safeguarding your information. We employ a variety of measures designed to protect your information from unauthorized access.
 
-**International Transfer**  
+##### International Transfer
+
 Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to GumGum, please be advised that we transfer Personally Identifiable Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-**Links to Other Sites**   
-The GumGum Site, including, but not limited to, the section where Reports are displayed, contains links to other websites. If you choose to click on another third party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personally Identifiable Information from you. Other websites and services follow different rules regarding the use or disclosure of the Personally Identifiable Information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+##### Links to Other Sites
 
-**Contacting Us**  
-Questions? Suggestions? Concerns? Email us at contact (at) gumgum (dot) com.
+The GumGum Site, including, but not limited to, the section where Reports are displayed, contains links to other websites. If you choose to click on another third party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personally Identifiable Information from you. Other websites and services follow different rules regarding the use or disclosure of the Personally Identifiable Information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+##### Contacting Us
+
+Questions? Suggestions? Concerns? Email us at [contact@gumgum.com](mailto:contact@gumgum.com).
