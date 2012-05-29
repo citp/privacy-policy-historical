@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902031540id_/http%3A//www.ingres.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529231218id_/http%3A//www.actian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ingres
+# Privacy Policy
 
-Your privacy is important to Ingres Corporation ("Ingres" "we" or "us"). We have prepared this privacy policy to disclose and describe certain policies implemented throughout Ingres governing Ingres' use of personally identifiable information about users of our web site located at www.ingres.com ("Site").
+Your privacy is important to Actian Corporation ("Actian" "we" or "us"). We have prepared this privacy policy to disclose and describe certain policies implemented throughout Actian governing Actian's use of personally identifiable information about users of our web site located at www.actian.com ("Site").
 
 ## Privacy Policy Updates
 
-Due to the Internet's rapidly evolving nature, Ingres may need to update this Privacy Policy from time to time. If so, Ingres will post its updated Privacy Policy on our Site located at www.Ingres.com, so you are always aware of what personally identifiable information we may collect and how we may use this information. Ingres encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+Due to the Internet's rapidly evolving nature, Actian may need to update this Privacy Policy from time to time. If so, Actian will post its updated Privacy Policy on our Site located at www.Actian.com, so you are always aware of what personally identifiable information we may collect and how we may use this information. Actian encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
 ## Information Collection and Use
 
@@ -16,15 +16,15 @@ The Site may track the total number of visitors to our Site, the number of visit
 
 ## Disclosure
 
-We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. Additionally, we may disclose your personally identifiable information, in our sole discretion, to law enforcement agencies to assist in any investigation. We may provide your personally identifiable information that we collect to the vendors and service agencies that we may engage to assist us and to our third party marketing partners. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment). We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Ingres participates or to a purchaser of all or substantially all of Ingres' assets to which this Site relates.
+We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority. Additionally, we may disclose your personally identifiable information, in our sole discretion, to law enforcement agencies to assist in any investigation. We may provide your personally identifiable information that we collect to the vendors and service agencies that we may engage to assist us and to our third party marketing partners. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment). We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Actian participates or to a purchaser of all or substantially all of Actian's assets to which this Site relates.
 
 ## Data Security
 
-We may employ reasonable procedural and technological measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Ingres may use encryption, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
+We may employ reasonable procedural and technological measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Actian may use encryption, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
 
 ## Links to Third Party Sites
 
-The Site may provide links to other Web sites or resources over which Ingres does not have control ("External Web Sites"). Such links do not constitute an endorsement by Ingres of those External Web Sites. You acknowledge that Ingres is providing these links to you only as a convenience, and further agree that Ingres is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the External Web Sites.
+The Site may provide links to other Web sites or resources over which Actian does not have control ("External Web Sites"). Such links do not constitute an endorsement by Actian of those External Web Sites. You acknowledge that Actian is providing these links to you only as a convenience, and further agree that Actian is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the External Web Sites.
 
 ## Data Integrity
 
@@ -40,4 +40,4 @@ Portions of this Site make chat rooms, forums, message boards, and/or news group
 
 ## Children's Privacy
 
-This Site is not intended for children under the age of 13. Ingres does not target its services or this Site to children under 13. Ingres does not knowingly collect personally identifiable information from children under the age of 13. Updating your Information and Contacting Us If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at [info@ingres.com](mailto:info@ingres.com) with the words "PRIVACY POLICY" in the subject line.
+This Site is not intended for children under the age of 13. Actian does not target its services or this Site to children under 13. Actian does not knowingly collect personally identifiable information from children under the age of 13. Updating your Information and Contacting Us If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at [info@actian.com](mailto:info@actian.com) with the words "PRIVACY POLICY" in the subject line.
