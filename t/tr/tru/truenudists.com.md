@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206173759id_/http%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529174856id_/http%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # tn | Privacy Policy
 
 This is the web site of **truenudists.com**.(owned by SocialCO Media, LLC) 
 
 Our postal address is   
-**P.O. Box 73333  
-Phoenix, AZ 85050**
+**13026 N. Cave Creek Rd. Suite #203  
+Phoenix, AZ 85022**
 
 We can be reached via e-mail at mailto:support at truenudists.com  
 or you can reach us by telephone at 
