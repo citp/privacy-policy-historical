@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the king.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226050906id_/http%3A//www.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530074702id_/http%3A//www.king.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
 
-# Privacy Statement - Support at King.com - Play Free Games
+# Privacy Statement - Support at King.com
 
 ## PRIVACY STATEMENT
 
@@ -56,7 +56,7 @@ By visiting the Site or using the Site Features, you consent to the collection a
 
 ### Questions? Contact Us
 
-If you have any questions about this privacy policy or our use of your personal data, or you wish to change or update personal data you have previously provided to us, you can contact us using the [dedicated form](https://web.archive.org/support/contact.jsp). You can also use this form if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
+If you have any questions about this privacy policy or our use of your personal data, or you wish to change or update personal data you have previously provided to us, you can contact us using the [dedicated form](https://web.archive.org/support/stt/?action=contact). You can also use this form if you wish to request from us a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
 ### Terms and Conditions
 
