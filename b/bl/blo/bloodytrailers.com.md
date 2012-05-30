@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodytrailers.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202032756id_/http%3A//www.bloodytrailers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodytrailers.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530200456id_/http%3A//www.bloodytrailers.com/privacy) for the most accurate reproduction.*
 
 # The Biggest Collection of Bloody Horror Movie Trailers On The NetPrivacy Policy - Bloody Trailers
 
