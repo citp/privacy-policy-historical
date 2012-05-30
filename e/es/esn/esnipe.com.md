@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the esnipe.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115142741id_/http%3A//www.esnipe.com/eSnipePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnipe.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530154444id_/http%3A//www.esnipe.com/privacy) for the most accurate reproduction.*
 
-# eSnipe Privacy Statement
+# Privacy Policy | eSnipe
 
-|  | 
-
-   [Log In](https://web.archive.org/web/20111115142741id_/http://www.esnipe.com/)
-
-   [Join eSnipe](https://web.archive.org/web/20111115142741id_/http://www.esnipe.com/NewMemberSimple/)
-
-|  |  |  (Last updated 23:15 PDT May 28 2001)
+(Last updated 23:15 PDT May 28 2001)
 
 **What information do we collect?**  
 When you join esnipe, we ask for some information that will identify you to us as a user. This information includes your name, email address, eBay username and eBay password. We require your eBay username and password in order to place bids on your behalf. Without these, esnipe could not place a bid on eBay for you. We may also ask you to supply a handful of demographic statistics. This is for aggregate purposes only. It is not stored with your other information, and can not ever be associated with you or your account - even by esnipe.
@@ -21,10 +15,10 @@ eSnipe **never** supplies your personal information to any third party for adver
 The information we collect about bids is summarized, and we provide basic information to our advertisers on the general product categories our members are interested in. 
 
 **Is my information secure?**  
-Your personal information is protected by your password. Never share this password with anyone. esnipe will never contact you unsolicited to ask for your password. We have taken steps to ensure our databases are secure, and are confident in our ability to keep your information safe. However, please note that the bid pages on eBay are not encrypted, and therefore when esnipe, or yourself for that matter, places a bid - your username and password are sent over the Internet without encryption. Because of this, esnipe can not guarantee 100% protection of your password when a bid is being placed. **What about cookies?**  
+Your personal information is protected by your password. Never share this password with anyone. esnipe will never contact you unsolicited to ask for your password. We have taken steps to ensure our databases are secure, and are confident in our ability to keep your information safe. However, please note that the bid pages on eBay are not encrypted, and therefore when esnipe, or yourself for that matter, places a bid - your username and password are sent over the Internet without encryption. Because of this, esnipe can not guarantee 100% protection of your password when a bid is being placed. 
+
+**What about cookies?**  
 eSnipe stores a cookie on your computer to track you while you are on the site. The information in this cookie is a string of characters that is meaningless to everyone and everything except our server. No personal information or bid information is stored in the cookie. The information in the cookie can not be used by third parties to gain access to your account information. 
 
 **Still have questions?**  
-We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20111115142741id_/http://www.esnipe.com/ContactUS/), and we will be happy to discuss the matter with you.   
-  
----|---|---|---|---
+We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20120530154444id_/http%3A//ContactUS/), and we will be happy to discuss the matter with you. 
