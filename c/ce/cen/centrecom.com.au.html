@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centrecom.com.au privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211013id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centrecom.com.au privacy policy that was archived on 2012-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531012611id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -12,9 +12,7 @@ Centre Com - Cheap Laptops &amp; Computers</title>
 <link rel="stylesheet" type="text/css" href="stylesheet_v15.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="includes/javascript/jquery.min.js"></script>
 <script type="text/javascript" src="includes/javascript/myscript.js"></script>
-<script type="text/javascript" src="includes/javascript/jquery-ui-1.8.15.custom.min.js"></script>
 <script type="text/javascript" src="includes/javascript/animatedcollapse.js"></script>
-<link type="text/css" href="css/ui-lightness/jquery-ui-1.8.15.custom.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="ccpricelist_style.css">
 <link type="text/css" href="includes/popup_box.css" rel="stylesheet">
 
@@ -33,123 +31,6 @@ function loadSearchContents(element){if (element.value ==''){element.value = 'Pr
 eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('4 8=j;g u(x,a){9(!8){8=v;4 b=w A();b.B(b.C()+(D*E*k*k*F));4 c="; G="+b.H();7.I="J="+x+c+"; K=/";4 i;4 l;L(i=1;i<5;i++){9(l=7.d(\'M\'+i)){l.6=\'N\'+((i==x)?\'s\':\'\')}}4 z=1;O(l=7.d(\'m\'+a+\'x\'+z)){3(x,a,\'P\',z);l.6=\'n\'+x+\' n\'+x+((z/2)==p.q(z/2)?\'e\':\'o\');3(x,a,\'Q\',z);3(x,a,\'R\',z);3(x,a,\'S\',z);3(x,a,\'T\',z);3(x,a,\'U\',z);3(x+\' f f-V\',a,\'W\',z);3(x,a,\'X\',z);3(x,a,\'Y\',z);3(x,a,\'Z\',z);3(x,a,\'10\',z);3(x,a,\'11\',z);3(x,a,\'12\',z);3(x+\' f f-13\',a,\'14\',z);z++}8=j}}g 3(x,a,y,z){4 t=7.d(y+\'x\'+a+\'x\'+z);9(t){t.6=y+x}}g 15(x){4 c=x.r(\'x\');4 a=7.d(\'m\'+x);4 b=a.6.r(\' \');9(b[1]==b[0]+\'h\'){a.6=b[0]+\' \'+b[0]+((c[1]/2)==p.q(c[1]/2)?\'e\':\'o\')}16{a.6=b[0]+\' \'+b[0]+\'h\'}}',62,69,'|||themereplace|var||className|document|themelock|if||||getElementById||sprite|function|||false|60||lpinfox|lpinfo||Math|floor|split|||themeswitch|true|new||||Date|setTime|getTime|365|24|1000|expires|toGMTString|cookie|sitestyle|path|for|lpvx|lpviewitem|while|lpframe|lppic|lpimg|lpname|lpmanu|lpprice|x_more|lpmore|lpstock|lpcustom|lpsku|lpmodel|lplink|lpsell|x_buy|lpbuy|lpomover|else'.split('|'),0,{}));
 </script>
 
-<script>
-jQuery.fn.ForceNumericOnly =
-			function()
-			{
-				return this.each(function()
-				{
-					$(this).keydown(function(e)
-					{
-						var key = e.charCode || e.keyCode || 0;
-						
-						// allow backspace, tab, delete, arrows, numbers and keypad numbers ONLY
-						if(key==13){
-							var postcode=$('input#post_code').val();
-							//$('div#shipping_info').fadeOut("slow");
-							runMe(postcode);
-						} else if(e.shiftKey || e.ctrlKey || e.altKey){
-							e.preventDefault();
-						} else {	//Or return the keycode	
-											
-							var n = e.keyCode;
-							if (!((n == 8)              // backspace
-							|| (n == 46)                // delete
-							|| (n >= 35 && n <= 40)     // arrow keys/home/end
-							|| (n >= 48 && n <= 57)     // numbers on keyboard
-							|| (n >= 96 && n <= 105))   // number on keypad
-							) {
-								e.preventDefault(); 
-							}
-						}
-						
-					});
-				});
-		};
-		
-
-$(document).ready(function()
-	{
-	$('a.poplight[href^=#]').click(function()
-		{
-		var a=$(this).attr('rel');
-		var b=$(this).attr('href');
-		var c=b.split('?');
-		var d=c[1].split('&');
-		var e=d[0].split('=')[1];
-		$('#'+a).fadeIn().css(
-			{
-			'width':Number(e)
-		}
-		).prepend('<a href="#" class="close"><img src="close_pop.png" class="btn_close" title="Close Window" alt="Close" /></a>');
-		var f=($('#'+a).height()+80)/2;
-		var g=($('#'+a).width()+80)/2;
-		$('#'+a).css(
-			{
-			'margin-top':-f,'margin-left':-g
-		}
-		);
-		$('body').append('<div id="fade"></div>');
-		$('#fade').css(
-			{
-			'filter':'alpha(opacity=80)'
-		}
-		).fadeIn();
-		return false
-	}
-	);
-	$('a.close, #fade').live('click',function()
-		{
-		$('#fade , .popup_block').fadeOut(function()
-			{
-			$('#fade, a.close').remove()
-		}
-		);
-		return false
-	}
-	);
-	//$('input#post_code').ForceNumericOnly();
-	$('button#find_postage').bind("click",function()
-		{
-		var a=$('input#post_code').val();
-		runMe(a)
-	}
-	)
-}
-);
-function runMe(b)
-	{
-	$('div#shipping_top').show();
-	if(b==""||b.length<3)
-		{
-		$('div#shipping_info').fadeOut(200);
-		$('div#shipping_info').html("<b>Invalid Postcode!</b>").fadeIn(200)
-	}
-	else
-		{
-		$.post("checkPostage.php",
-			{
-			postc:b
-		}
-		,function(a)
-			{
-			if(typeof a.fee=='undefined')
-				{
-				$('div#shipping_info').fadeOut(200);
-				$('div#shipping_info').html("<b>"+a.error_msg+"</b>").fadeIn(200)
-			}
-			else
-				{
-				$('div#shipping_info').fadeOut(200);
-				$('div#shipping_info').html("<b>"+a.fee+"</b>").fadeIn(200)
-			}
-		}
-		,"json")
-	}
-}
-
-
-</script>
 
 <!--[if lt IE 7]>
 <script src="ie7/IE9.js" type="text/javascript"></script>
@@ -170,22 +51,25 @@ _gaq.push(['_trackPageview']);
 	<div id="header"></div>	<div id="preload">
 		<img src="webgfx/bluemenubar.png" width="1" height="1" alt="Image01">
 	</div>
+    <div style="width:100%; font-weight:bold; background: url('webgfx/alertBg.jpg') repeat-x scroll 0 0 #FDE891; color:#666666; float:left; font-size:115%; border-bottom: 1px solid #CCCCCC; height:25px; padding-top:3px;">CENTRE COM FOR <span style="color:#0066CC;">GAMERS</span>, CLICK HERE</div>
+    <a href="http://www.centrecom.com.au/game" style=" z-index: 2002; position: absolute; top: 0px; left:0px; width: 100%; height: 28px;"></a>
 	<div class="menubar"></div>
+    
 	<div class="centre1024"><div>
 		<div class="hlogo sprite sprite-main_logo"></div>
 		<a class="hlogoclk" href="default.php"></a>
 		<div class="headertxt">
 				
-			<a href="https://www.centrecom.com.au/catalog/account.php">Log In</a>&nbsp;|&nbsp;<a href="https://www.centrecom.com.au/catalog/create_account.php">New Account</a>		</div>
+			<a href="https://www.centrecom.com.au/catalog/account.php">Log In</a>&nbsp;|&nbsp;<a href="https://www.centrecom.com.au/catalog/create_account.php">New Account</a>&nbsp;|&nbsp;<a href="https://www.centrecom.com.au/catalog/checkout_shipping.php">Checkout</a>		</div>
 		<div id="searchbox" class="sprite sprite-searchbox">
 			<div class="searchboxclk" onclick="if (check_sbox()) document.quick_find.submit();"></div>
 			<form name="quick_find" action="http://www.centrecom.com.au/catalog/advanced_search_result.php" method="get" onsubmit="return check_sbox();"><input type="text" name="keywords" value="Product Search" onclick="document.quick_find.keywords.select();" onfocus="clearSearchContents(this);" onblur="loadSearchContents(this);" size="20" maxlength="30" class="searchboxi">			</form>
 		</div>
 		<!--<div class="socialbox">-->
-		<div class="socialbox" style="position: absolute; top: 20px; right:200px;">
+		<div class="socialbox" style="position: absolute; top: 50px; right:200px;">
                     <a href="http://www.facebook.com/pages/Sunshine-Australia/Centre-Com/148679791856715" style="text-decoration:none;" target="_blank"><img src="images/icons/facebook.png" width="60" height="60" alt="Join Us" border="0"></a>
                     <a href="http://twitter.com/#!/centrecomau" style="text-decoration:none;" target="_blank"><img src="images/icons/twitter.png" width="60" height="60" alt="Follow Us" border="0"></a>
-                    <a href="http://centrecomau.blogspot.com" style="text-decoration:none;" target="_blank"><img src="images/icons/blogger.png" width="60" height="60" alt="Review Us" border="0"></a>  
+                    <a href="http://centrecomau.blogspot.com/" style="text-decoration:none;" target="_blank"><img src="images/icons/blogger.png" width="60" height="60" alt="Review Us" border="0"></a>  
                     <a href="http://www.youtube.com/centrecommarketing" style="text-decoration:none;" target="_blank"><img src="images/icons/youtube.png" width="60" height="60" alt="Watch Us" border="0"></a>      
                 </div>   
 		<div id="nav">
@@ -194,7 +78,7 @@ _gaq.push(['_trackPageview']);
                 <li><a href="laptops_finder.php">Laptops</a>
 			<ul>
 				<li><a href="http://www.centrecom.com.au/catalog/laptops_finder.php">Laptop Finder</a></li>
-				
+				<li><a href="http://www.centrecom.com.au/catalog/acer-laptops-c-100_230.html">Acer</a></li>
 				<li><a href="http://www.centrecom.com.au/catalog/asus-laptops-c-100_120.html">Asus</a></li>
 				<li><a href="http://www.centrecom.com.au/catalog/laptops-c-100_119.html">Hewlett Packard</a></li>
 				<li><a href="http://www.centrecom.com.au/catalog/lenovo-laptops-c-100_133.html">Lenovo</a></li>
@@ -208,7 +92,7 @@ _gaq.push(['_trackPageview']);
 			<ul>
 				<li><a href="http://www.centrecom.com.au/catalog/desktop-c-81.html">Show All PC Systems</a></li>
 				<li><a href="http://www.centrecom.com.au/catalog/centre-c-81_128.html">Centre Com</a></li>
-				<li><a href="http://www.centrecom.com.au/catalog/hewlett-packard-c-81_127.html">Hewlett Packard</a></li>
+				<li><a href="http://www.centrecom.com.au/catalog/branded-c-81_127.html">Hewlett Packard</a></li>
 				<li><a href="http://www.centrecom.com.au/catalog/all-in-one-pcs-c-81_132.html">All-in-One</a></li>
 				<li><a href="http://www.centrecom.com.au/catalog/apple-desktops-c-189_188.html">Apple Systems</a></li>
 				<li><a href="build.php">Custom PC Builder</a></li>
@@ -237,17 +121,19 @@ _gaq.push(['_trackPageview']);
 	</ul>
 	</div>
 	</div>
-	<div class="page960" style="margin-top: 109px;">
+	<div class="page960" style="margin-top: 110px;">
 		<div class="crumbstrip">
 			<div class="bcrumb"><a href="http://www.centrecom.com.au/catalog/default.php" class="headerNavigation">Home</a>&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_red" alt="">&nbsp;<a href="http://www.centrecom.com.au/catalog/-c-0.html" class="headerNavigation">All Products</a>&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_red" alt="">&nbsp;<a href="http://www.centrecom.com.au/catalog/privacy.php" class="headerNavigation">Privacy Notice</a></div>
-			<div class="cart"><a href="http://www.centrecom.com.au/catalog/shopping_cart.php"><img src="images/pixel_trans.gif" class="spblock sprite sprite-cart" alt="cart" title=" cart ">&nbsp;Shopping cart:&nbsp;<span class="red">0</span> items&nbsp;($0.00)</a></div>
+			<div class="cart"><a href="http://www.centrecom.com.au/catalog/shopping_cart.php"><img src="images/pixel_trans.gif" class="spblock sprite sprite-cart" alt="cart" title=" cart ">&nbsp;Shopping cart:
+                        <span class="red">1</span> item&nbsp;($165.00)</a></div>
 		</div>
 <!-- header_eof //-->
 <!-- left_navigation //-->
 <div class="leftcol">
-<div class="newboxh">Categories</div><div id="sidemenu"><div class="entry" onclick="toggleblock('tcat189');">Apple&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat189" class="head" style="display:none;"><div class="entry" onclick="toggleblock('tcat144');">Apple Accessories&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat144" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/external-hard-drives-c-189_144_151.html">- External Hard Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/ipad-accessories-c-189_144_149.html">- iPad Accessories</a><a class="entry" href="http://www.centrecom.com.au/catalog/iphone-accessories-c-189_144_147.html">- iPhone 3 Accessories</a><a class="entry" href="http://www.centrecom.com.au/catalog/iphone-accessories-c-189_144_148.html">- iPhone 4 Accessories</a><a class="entry" href="http://www.centrecom.com.au/catalog/speakers-c-189_144_150.html">- Speakers</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/apple-desktops-c-189_188.html">Apple Desktops</a><a class="entry" href="http://www.centrecom.com.au/catalog/apple-ipad-c-189_215.html">Apple iPad 2</a><a class="entry" href="http://www.centrecom.com.au/catalog/apple-laptops-c-189_190.html">Apple Laptops</a></div><div class="entry" onclick="toggleblock('tcat96');">Audio&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat96" class="head" style="display:none;"><div class="entry" onclick="toggleblock('tcat193');">Bluetooth&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat193" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/headsets-c-96_193_194.html">- Headsets</a><a class="entry" href="http://www.centrecom.com.au/catalog/speaker-phone-c-96_193_195.html">- Speaker Phone</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/headphones-c-96_118.html">Headphones</a><a class="entry" href="http://www.centrecom.com.au/catalog/players-c-96_90.html">MP3 Players</a><a class="entry" href="http://www.centrecom.com.au/catalog/sound-cards-c-96_42.html">Sound Cards</a><a class="entry" href="http://www.centrecom.com.au/catalog/speakers-c-96_61.html">Speakers</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/blank-dvds-c-77.html">Blank CDs &amp; DVDs</a><a class="entry" href="http://www.centrecom.com.au/catalog/cabling-c-73.html">Cabling</a><div class="entry" onclick="toggleblock('tcat99');">Cameras&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat99" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/camcorders-c-99_114.html">Camcorders</a><a class="entry" href="http://www.centrecom.com.au/catalog/webcams-c-99_112.html">Webcams</a></div><div class="entry" onclick="toggleblock('tcat125');">Cases &amp; Enclosures&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat125" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/cases-included-c-125_126.html">Cases (no PSU included)</a><a class="entry" href="http://www.centrecom.com.au/catalog/cases-included-c-125_60.html">Cases (PSU included)</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/clearance-items-c-136.html">Clearance Items</a><div class="entry" onclick="toggleblock('tcat75');">Cooling&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat75" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/case-fans-c-75_179.html">Case Fans</a><a class="entry" href="http://www.centrecom.com.au/catalog/coolers-c-75_178.html">CPU Coolers</a><a class="entry" href="http://www.centrecom.com.au/catalog/controllers-c-75_196.html">Fan Controllers</a><a class="entry" href="http://www.centrecom.com.au/catalog/liquid-cooling-c-75_181.html">Liquid Cooling</a><a class="entry" href="http://www.centrecom.com.au/catalog/thermal-paste-c-75_180.html">Thermal Paste</a></div><div class="entry" onclick="toggleblock('tcat27');">CPUs&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat27" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/amd-cpu-c-27_29.html">AMD CPU</a><a class="entry" href="http://www.centrecom.com.au/catalog/intel-c-27_28.html">Intel CPU</a></div><div class="entry" onclick="toggleblock('tcat81');">Desktop PCs&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat81" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/all-in-one-pcs-c-81_132.html">All-in-One PCs</a><a class="entry" href="http://www.centrecom.com.au/catalog/centre-c-81_128.html">Centre Com PCs</a><a class="entry" href="http://www.centrecom.com.au/catalog/hewlett-packard-c-81_127.html">Hewlett Packard PCs</a><a class="entry" href="http://www.centrecom.com.au/catalog/upgrade-c-81_157.html">Upgrade DIY Kit</a></div><div class="entry" onclick="toggleblock('tcat101');">Gaming Products&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat101" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/computers-c-101_206.html">Computers</a><a class="entry" href="http://www.centrecom.com.au/catalog/controllerswheels-c-101_207.html">Controllers/Wheels</a><a class="entry" href="http://www.centrecom.com.au/catalog/headphonesheadsetmic-c-101_204.html">Headphones/Headset/Mic</a><a class="entry" href="http://www.centrecom.com.au/catalog/keyboards-c-101_202.html">Keyboards</a><a class="entry" href="http://www.centrecom.com.au/catalog/laptops-c-101_205.html">Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/mice-mousemats-c-101_203.html">Mice &amp; Mousemats</a><a class="entry" href="http://www.centrecom.com.au/catalog/other-c-101_208.html">Other</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/graphics-cards-c-26.html">Graphics Cards</a><a class="entry" href="http://www.centrecom.com.au/catalog/toner-c-129.html">Ink &amp; Toner</a><a class="entry" href="http://www.centrecom.com.au/catalog/keyboards-c-58.html">Keyboards</a><a class="entry" href="http://www.centrecom.com.au/catalog/laptop-accessories-c-79.html">Laptop Accessories</a><div class="entry" onclick="toggleblock('tcat100');">Laptops&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat100" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/asus-laptops-c-100_120.html">Asus Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/laptops-c-100_119.html">HP Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/lenovo-laptops-c-100_133.html">Lenovo Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/panasonic-laptops-c-100_160.html">Panasonic Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/samsung-laptops-c-100_146.html">Samsung Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/toshiba-laptops-c-100_121.html">Toshiba Laptops</a></div><div class="entry" onclick="toggleblock('tcat115');">Memory&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat115" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/desktop-memory-c-115_23.html">Desktop Memory</a><a class="entry" href="http://www.centrecom.com.au/catalog/notebook-memory-c-115_116.html">Notebook Memory</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/mice-input-devices-c-59.html">Mice &amp; Input Devices</a><a class="entry" href="http://www.centrecom.com.au/catalog/monitors-c-25.html">Monitors</a><div class="entry" onclick="toggleblock('tcat36');">Motherboards&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat36" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/motherboards-c-36_63.html">AMD Motherboards</a><a class="entry" href="http://www.centrecom.com.au/catalog/intel-motherboards-c-36_62.html">Intel Motherboards</a></div><div class="entry" onclick="toggleblock('tcat67');">Networking&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat67" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/hubsswitches-c-67_103.html">Hubs/Switches</a><a class="entry" href="http://www.centrecom.com.au/catalog/modemrouters-c-67_104.html">Modem/Routers</a><a class="entry" href="http://www.centrecom.com.au/catalog/network-adapters-c-67_105.html">Network Adapters</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/optical-drives-c-49.html">Optical Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/other-hardware-c-57.html">Other Hardware</a><div class="entry" onclick="toggleblock('tcat95');">Peripherals&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat95" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/printer-servers-c-95_88.html">KVM &amp; Printer Servers</a><a class="entry" href="http://www.centrecom.com.au/catalog/scanners-c-95_44.html">Scanners</a><a class="entry" href="http://www.centrecom.com.au/catalog/ups-c-95_89.html">UPS</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/power-supplies-c-74.html">Power Supplies</a><a class="entry" href="http://www.centrecom.com.au/catalog/power-surge-c-158.html">Power Surge</a><div class="entry" onclick="toggleblock('tcat30');">Printers&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat30" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/brother-printers-c-30_138.html">Brother Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/canon-printers-c-30_31.html">Canon Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/epson-printers-c-30_33.html">Epson Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/printers-c-30_32.html">HP Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/other-printers-c-30_140.html">Other Printers</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/projectors-c-102.html">Projectors</a><div class="entry" onclick="toggleblock('tcat64');">Software&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat64" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/academic-pricing-c-64_91.html">Academic Pricing</a><a class="entry" href="http://www.centrecom.com.au/catalog/commercial-software-c-64_82.html">Commercial Software</a><a class="entry" href="http://www.centrecom.com.au/catalog/games-c-64_106.html">Games</a><a class="entry" href="http://www.centrecom.com.au/catalog/microsoft-office-c-64_76.html">Microsoft Office</a><a class="entry" href="http://www.centrecom.com.au/catalog/microsoft-windows-c-64_65.html">Microsoft Windows</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/storage-cards-c-85.html">Storage Cards</a><div class="entry" onclick="toggleblock('tcat107');">Storage Devices&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat107" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/desktop-hard-drives-c-107_22.html">Desktop Hard Drives</a><div class="entry" onclick="toggleblock('tcat108');">External Hard Drives&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat108" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/portable-c-107_108_153.html">- 2.5" Portable</a><a class="entry" href="http://www.centrecom.com.au/catalog/desktop-c-107_108_154.html">- 3.5" Desktop</a><a class="entry" href="http://www.centrecom.com.au/catalog/--ssd-c-107_108_152.html">- SSD</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/drives-c-107_139.html">NAS Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/notebook-hard-drives-c-107_109.html">Notebook Hard Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/scsi-hard-drives-c-107_110.html">SCSI Hard Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/solid-state-drives-c-107_135.html">Solid State Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/storage-accessories-c-107_137.html">Storage Accessories</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/tablet-c-159.html">Tablet PC</a><a class="entry" href="http://www.centrecom.com.au/catalog/media-players-c-86.html">TV &amp; Media Players</a><a class="entry" href="http://www.centrecom.com.au/catalog/flash-drives-c-98.html">USB Flash Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/wall-mount-brackets-c-156.html">Wall Mount Brackets</a></div><form name="newsletterform" onsubmit="return validateNewsletter(this)" method="post" action="/catalog/privacy.php">
+<a href="http://centrecom.com.au/game" target="_blank"><img src="./webgfx/forgamers1.png" border="0"></a>
+<div class="newboxh">Categories</div><div id="sidemenu"><div class="entry" onclick="toggleblock('tcat189');">Apple&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat189" class="head" style="display:none;"><div class="entry" onclick="toggleblock('tcat144');">Apple Accessories&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat144" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/external-hard-drives-c-189_144_151.html">- External Hard Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/ipad-accessories-c-189_144_149.html">- iPad Accessories</a><a class="entry" href="http://www.centrecom.com.au/catalog/iphone-accessories-c-189_144_147.html">- iPhone 3 Accessories</a><a class="entry" href="http://www.centrecom.com.au/catalog/iphone-accessories-c-189_144_148.html">- iPhone 4 Accessories</a><a class="entry" href="http://www.centrecom.com.au/catalog/speakers-c-189_144_150.html">- Speakers</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/apple-desktops-c-189_188.html">Apple Desktops</a><a class="entry" href="http://www.centrecom.com.au/catalog/apple-laptops-c-189_190.html">Apple Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/ipad-c-189_240.html">The New iPad (3)</a></div><div class="entry" onclick="toggleblock('tcat96');">Audio&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat96" class="head" style="display:none;"><div class="entry" onclick="toggleblock('tcat193');">Bluetooth&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat193" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/headsets-c-96_193_194.html">- Headsets</a><a class="entry" href="http://www.centrecom.com.au/catalog/speaker-phone-c-96_193_195.html">- Speaker Phone</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/headphones-c-96_118.html">Headphones</a><a class="entry" href="http://www.centrecom.com.au/catalog/players-c-96_90.html">MP3 Players</a><a class="entry" href="http://www.centrecom.com.au/catalog/sound-cards-c-96_42.html">Sound Cards</a><a class="entry" href="http://www.centrecom.com.au/catalog/speakers-c-96_61.html">Speakers</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/blank-dvds-c-77.html">Blank CDs &amp; DVDs</a><div class="entry" onclick="toggleblock('tcat73');">Cables &amp; Adaptors&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat73" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/custom-power-cables-c-73_244.html">Custom Power Cables</a><a class="entry" href="http://www.centrecom.com.au/catalog/hdmi-c-73_246.html">HDMI</a><a class="entry" href="http://www.centrecom.com.au/catalog/monitor-adaptors-c-73_245.html">Monitor Adaptors</a><a class="entry" href="http://www.centrecom.com.au/catalog/networking-c-73_248.html">Networking</a><a class="entry" href="http://www.centrecom.com.au/catalog/sata-c-73_247.html">Sata &amp; IDE</a><a class="entry" href="http://www.centrecom.com.au/catalog/firewire-c-73_249.html">USB &amp; Firewire</a></div><div class="entry" onclick="toggleblock('tcat99');">Cameras&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat99" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/webcams-c-99_112.html">Webcams</a></div><div class="entry" onclick="toggleblock('tcat125');">Cases &amp; Enclosures&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat125" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/cases-included-c-125_126.html">Cases (no PSU included)</a><a class="entry" href="http://www.centrecom.com.au/catalog/cases-included-c-125_60.html">Cases (PSU included)</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/clearance-items-c-136.html">Clearance Items</a><div class="entry" onclick="toggleblock('tcat75');">Cooling&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat75" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/case-fans-c-75_179.html">Case Fans</a><a class="entry" href="http://www.centrecom.com.au/catalog/coolers-c-75_178.html">CPU Coolers</a><a class="entry" href="http://www.centrecom.com.au/catalog/controllers-c-75_196.html">Fan Controllers</a><a class="entry" href="http://www.centrecom.com.au/catalog/liquid-cooling-c-75_181.html">Liquid Cooling</a><a class="entry" href="http://www.centrecom.com.au/catalog/thermal-paste-c-75_180.html">Thermal Paste</a></div><div class="entry" onclick="toggleblock('tcat27');">CPUs&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat27" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/amd-cpu-c-27_29.html">AMD CPU</a><a class="entry" href="http://www.centrecom.com.au/catalog/intel-c-27_28.html">Intel CPU</a></div><div class="entry" onclick="toggleblock('tcat81');">Desktop PCs&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat81" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/all-in-one-pcs-c-81_132.html">All-in-One PCs</a><a class="entry" href="http://www.centrecom.com.au/catalog/barebone-c-81_234.html">Barebone</a><a class="entry" href="http://www.centrecom.com.au/catalog/branded-c-81_127.html">Branded PCs</a><a class="entry" href="http://www.centrecom.com.au/catalog/centre-c-81_128.html">Centre Com PCs</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/electronics-c-241.html">Electronics</a><a class="entry" href="http://www.centrecom.com.au/catalog/glasses-c-219.html">Glasses</a><a class="entry" href="http://www.centrecom.com.au/catalog/graphics-cards-c-26.html">Graphics Cards</a><a class="entry" href="http://www.centrecom.com.au/catalog/toner-c-129.html">Ink &amp; Toner</a><a class="entry" href="http://www.centrecom.com.au/catalog/keyboards-c-58.html">Keyboards</a><a class="entry" href="http://www.centrecom.com.au/catalog/laptop-accessories-c-79.html">Laptop Accessories</a><div class="entry" onclick="toggleblock('tcat100');">Laptops&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat100" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/acer-laptops-c-100_230.html">Acer Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/asus-laptops-c-100_120.html">Asus Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/gigabyte-laptops-c-100_231.html">Gigabyte Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/laptops-c-100_119.html">HP Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/lenovo-laptops-c-100_133.html">Lenovo Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/samsung-laptops-c-100_146.html">Samsung Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/sony-laptops-c-100_235.html">Sony Laptops</a><a class="entry" href="http://www.centrecom.com.au/catalog/toshiba-laptops-c-100_121.html">Toshiba Laptops</a></div><div class="entry" onclick="toggleblock('tcat115');">Memory&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat115" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/desktop-memory-c-115_23.html">Desktop Memory</a><a class="entry" href="http://www.centrecom.com.au/catalog/notebook-memory-c-115_116.html">Notebook Memory</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/mice-input-devices-c-59.html">Mice &amp; Input Devices</a><a class="entry" href="http://www.centrecom.com.au/catalog/monitors-c-25.html">Monitors</a><div class="entry" onclick="toggleblock('tcat36');">Motherboards&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat36" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/motherboards-c-36_63.html">AMD Motherboards</a><a class="entry" href="http://www.centrecom.com.au/catalog/intel-motherboards-c-36_62.html">Intel Motherboards</a></div><div class="entry" onclick="toggleblock('tcat67');">Networking&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat67" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/hubsswitches-c-67_103.html">Hubs/Switches</a><a class="entry" href="http://www.centrecom.com.au/catalog/modemrouters-c-67_104.html">Modem/Routers</a><a class="entry" href="http://www.centrecom.com.au/catalog/network-adapters-c-67_105.html">Network Adapters</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/optical-drives-c-49.html">Optical Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/other-hardware-c-57.html">Other Hardware</a><div class="entry" onclick="toggleblock('tcat95');">Peripherals&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat95" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/printer-servers-c-95_88.html">KVM &amp; Printer Servers</a><a class="entry" href="http://www.centrecom.com.au/catalog/scanners-c-95_44.html">Scanners</a><a class="entry" href="http://www.centrecom.com.au/catalog/ups-c-95_89.html">UPS</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/power-supplies-c-74.html">Power Supplies</a><a class="entry" href="http://www.centrecom.com.au/catalog/power-surge-c-158.html">Power Surge</a><div class="entry" onclick="toggleblock('tcat30');">Printers&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat30" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/brother-printers-c-30_138.html">Brother Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/canon-printers-c-30_31.html">Canon Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/epson-printers-c-30_33.html">Epson Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/printers-c-30_32.html">HP Printers</a><a class="entry" href="http://www.centrecom.com.au/catalog/lexmark-c-30_238.html">Lexmark</a><a class="entry" href="http://www.centrecom.com.au/catalog/other-printers-c-30_140.html">Other Printers</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/projectors-c-102.html">Projectors</a><div class="entry" onclick="toggleblock('tcat64');">Software&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat64" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/academic-pricing-c-64_91.html">Academic Pricing</a><a class="entry" href="http://www.centrecom.com.au/catalog/commercial-software-c-64_82.html">Commercial Software</a><a class="entry" href="http://www.centrecom.com.au/catalog/games-c-64_106.html">Games</a><a class="entry" href="http://www.centrecom.com.au/catalog/microsoft-office-c-64_76.html">Microsoft Office</a><a class="entry" href="http://www.centrecom.com.au/catalog/microsoft-windows-c-64_65.html">Microsoft Windows</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/storage-cards-c-85.html">Storage Cards</a><div class="entry" onclick="toggleblock('tcat107');">Storage Devices&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat107" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/desktop-hard-drives-c-107_22.html">Desktop Hard Drives</a><div class="entry" onclick="toggleblock('tcat108');">External Hard Drives&nbsp;<img src="images/pixel_trans.gif" class="spblock sprite sprite-arrow_right_blue" alt=""></div><div id="tcat108" class="head" style="display:none;"><a class="entry" href="http://www.centrecom.com.au/catalog/portable-c-107_108_153.html">- 2.5" Portable</a><a class="entry" href="http://www.centrecom.com.au/catalog/desktop-c-107_108_154.html">- 3.5" Desktop</a><a class="entry" href="http://www.centrecom.com.au/catalog/--ssd-c-107_108_152.html">- SSD</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/drives-c-107_139.html">NAS Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/notebook-hard-drives-c-107_109.html">Notebook Hard Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/scsi-hard-drives-c-107_110.html">SCSI Hard Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/solid-state-drives-c-107_135.html">Solid State Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/storage-accessories-c-107_137.html">Storage Accessories</a></div><a class="entry" href="http://www.centrecom.com.au/catalog/tablet-c-159.html">Tablet PC</a><a class="entry" href="http://www.centrecom.com.au/catalog/media-players-c-86.html">TV &amp; Media Players</a><a class="entry" href="http://www.centrecom.com.au/catalog/flash-drives-c-98.html">USB Flash Drives</a><a class="entry" href="http://www.centrecom.com.au/catalog/wall-mount-brackets-c-156.html">Wall Mount Brackets</a></div><form name="newsletterform" onsubmit="return validateNewsletter(this)" method="post" action="/catalog/privacy.php">
 <div id="newsletter">
- <div class="newsletterbox"><input type="text" name="newsletteremail" id="newsletteremail" value="Email" onclick="document.newsletterform.newsletteremail.select();" size="20" maxlength="96" class="newsletteremail"><input type="hidden" name="gpd" value="1279272619"></div>
+ <div class="newsletterbox"><input type="text" name="newsletteremail" id="newsletteremail" value="Email" onclick="document.newsletterform.newsletteremail.select();" size="20" maxlength="96" class="newsletteremail"><input type="hidden" name="gpd" value="896122230"></div>
   <div class="join_now"> <input type="image" src="webgfx/newsletter_join.png" onmouseover="this.src='webgfx/newsletter_join_hover.png'" onmouseout="this.src='webgfx/newsletter_join.png'" alt="Join Now" title=" Join Now "></div>
   	<div id="dvNewsletterEmailFlag" class="newsmsg"></div>
 </div>
@@ -327,7 +213,6 @@ function limitText(limitField, limitNum) {
 <a href="http://www.youtube.com/subscription_center?add_user=centrecommarketing" target="_blank"><img src="webgfx/subscribe.gif" border="0" /></a>	
 			</div>            
   </div>-->
-
 
 
 </div><!-- left_navigation_eof //-->
@@ -444,7 +329,7 @@ Questions regarding our
 		<li><a href="http://www.centrecom.com.au/catalog/front.php?cPath=-2">Special Offers</a></li>
 		<li><a href="http://www.centrecom.com.au/catalog/laptops-c-100.html">Notebooks</a></li>
 		<li><a href="http://www.centrecom.com.au/catalog/desktop-c-81.html">PC Systems</a></li>
-		<li><a href="http://www.centrecom.com.au/catalog/front.php?cPath=-1">New Products</a></li>
+		<li><a href="cashback&amp;redemptions.php">Cashback &amp; Redemptions</a></li>
 	</ul>
 	<ul>	
 		<li><span class="header">Information</span></li>
@@ -468,7 +353,7 @@ Questions regarding our
 		<li><a href="http://www.centrecom.com.au/catalog/locations.php">Phone &amp; Fax Details</a></li>
                 <li><a href="faqs.php">FAQs</a></li>
 	</ul>
-<div style="float:right; clear: none;"><img src="webgfx/footer_gfx_nodeecd.png" alt="   " title="  " style="border: 0; width: 260px; height: 130px;"></div><div style="clear: both; text-align: center; font: normal 10px Arial; color: #2969b7; padding-top: 5px; text-align: center;">Copyright ©2011 Centre Com All rights reserved. A.B.N. 96 084 165 293. All prices and specifications are subject to change without notice. E&amp;OE.
+<div style="float:right; clear: none;"><img src="webgfx/footer_gfx_nodeecd.png" alt="   " title="  " style="border: 0; width: 260px; height: 130px;"></div><div style="clear: both; text-align: center; font: normal 10px Arial; color: #2969b7; padding-top: 5px; text-align: center;">Copyright ©2012 Centre Com All rights reserved. A.B.N. 96 084 165 293. All prices and specifications are subject to change without notice. E&amp;OE.
 </div>
 </div>
 </div>
