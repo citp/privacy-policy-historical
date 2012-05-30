@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleartalking.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109130842id_/http%3A//www.cleartalking.com/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleartalking.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530050802id_/http%3A//www.cleartalking.com/privpolicy.html) for the most accurate reproduction.*
 
 # About Cleartalking.com
 
