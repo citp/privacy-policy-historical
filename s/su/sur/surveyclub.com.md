@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217120440id_/http%3A//www.surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530093905id_/http%3A//www.surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Survey Club - Take Paid Surveys Online and Get Paid!
 
@@ -61,4 +61,4 @@ If you're a SurveyClub member and you simply wish to cancel your account, you ar
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-This Privacy Policy was last updated August 18, 2011.
+This Privacy Policy was last updated December 9, 2011.
