@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellercloud.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102172408id_/http%3A//www.sellercloud.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellercloud.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530054132id_/http%3A//www.sellercloud.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SellerCloud
 
