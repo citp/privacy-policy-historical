@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgon.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228130126id_/http%3A//imgon.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgon.net privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530234941id_/http%3A//imgon.net/privacy) for the most accurate reproduction.*
 
 # imgon.net - Privacy Policy
 
