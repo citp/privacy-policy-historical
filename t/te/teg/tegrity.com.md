@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tegrity.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214135052id_/http%3A//www.tegrity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tegrity.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530185241id_/http%3A//www.tegrity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tegrity
+# Privacy Policy | Tegrity Lecture Capture
 
 You may access most of the Tegrity website without giving any personal information about yourself. In some cases, Tegrity may request certain personal and non-personal information from you, via survey or otherwise, such as your name, e-mail address, telephone number, company name, company information or other information. In addition, Tegrity collects information from website visitors such as what Tegrity web pages you access, how often you access them, your domain name and from which website you entered the Tegrity website.
 
