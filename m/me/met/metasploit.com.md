@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130211427id_/http%3A//www.metasploit.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531003116id_/http%3A//www.metasploit.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Metasploit Project
 
@@ -17,6 +17,7 @@
     * [Issue tracker](https://web.archive.org/development/issue-tracker "Issue tracker")
     * [Report a bug](https://web.archive.org/development/report-a-bug "Report a bug")
   * [Exploits](https://web.archive.org/modules/)
+  * [Wear Swag](https://web.archive.org/wear-swag/)
   * [Download](https://web.archive.org/download/)
 
 
