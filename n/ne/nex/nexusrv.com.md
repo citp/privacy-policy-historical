@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexusrv.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130210643id_/http%3A//www.nexusrv.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusrv.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530234100id_/http%3A//www.nexusrv.com/privacypolicy.php) for the most accurate reproduction.*
 
 # NeXus RV Privacy Policy | NeXus RV
 
