@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228142930id_/http%3A//www.ukofficedirect.co.uk/privacy_policy_cp.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530214354id_/http%3A//www.ukofficedirect.co.uk/privacy_policy_cp.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ## 
 
-[Home](http://www.ukofficedirect.co.uk/Default.aspx "Home")> Privacy Policy
+[Home](http://www.ukofficedirect.co.uk/Default.aspx "Home") Privacy Policy
 
 ## Privacy Policy
 
@@ -34,12 +34,24 @@ Under no circumstances will we hold sensitive payment details such as your card 
 Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:  
   
 1\. To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);2\. In certain cases we may use your email address to send you information on our other products and services. In such a case you will be offered the option to opt in/out before completing your purchase.We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes. **Your Rights  
-** You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including full postal address, to the following address:Privacy  
+** You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including full postal address, to the following address:
+
+UK Office Direct Ltd
+
+Dome House
+
+48 Artillery Lane
+
+London
+
+E1 7LS
+
 UK Office Direct Ltd  
-Unit 5, Blackworth Court  
-Blackworth Industrial Estate  
-Highworth  
-Swindon  
-Wiltshire  
-SN6 7NS **Other Websites  
+Dome House  
+48 Artillery Lane  
+London  
+E1 7LS
+
+  
+**Other Websites  
 ** This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
