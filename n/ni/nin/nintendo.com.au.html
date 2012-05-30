@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nintendo.com.au privacy policy that was archived on 2011-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119142056id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nintendo.com.au privacy policy that was archived on 2012-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530200953id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
 <title>
@@ -10,23 +10,21 @@ Nintendo.com.au
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="imagetoolbar" content="false">
-<meta name="copyright" content="Copyright © 2008 Nintendo Australia">
+<meta name="copyright" content="Copyright © 2012 Nintendo Australia">
 <meta name="keywords" content="Home">
 
-	<meta name="description" content="The Official Nintendo Australia web page with all the latest info on Nintendo 3DS, hardware, launch games, videos, hands-on events, plus Nintendo games, previews, contests, and consoles.">
-
+	<meta name="description" content="The Official Nintendo Australia web page with all the latest info on Wii, Nintendo 3DS, hardware, games, videos, hands-on events, plus Nintendo games, previews, contests, and consoles.">
 <meta name="location" content="Australia">
 
 <link rel="shortcut icon" href="/template_images/favicon.ico" type="image/x-icon">
-
 <link href="/templates/nintendo.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if IE 7]> 
+<link href="/templates/nintendo-ie7.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
 
 <script type="text/javascript" src="/templates/scripts/jquery-1.6.4.min.js"></script>
-
 <script type="text/javascript" src="/templates/scripts/nintendo_ui.js"></script>
-
 <script type="text/javascript" src="/templates/flash/flowplayer/flowplayer-3.2.6.min.js"></script>
-
 
 <script type="text/javascript" src="/templates/jquery.jfontsizer.min.js"></script>
 <script type="text/javascript" src="/templates/jquery.jfontsizer.config.js"></script>
@@ -38,11 +36,12 @@ Nintendo.com.au
 		//Cufon.replace('h1');	
 		//Cufon.replace('a .cat_path1 span, .cat_path span', {hover: true});
 		//	
-			Cufon.replace('#global_nav a',{hover: {color: '#27BCEC'}});
+		Cufon.replace('#global_nav a',{hover: {color: '#27BCEC'}});
 		Cufon.replace('h2.cufon');
+		Cufon.replace('h1.cufon');
 		Cufon.replace('.cufon-font',{hover:true});
-
-
+		//Cufon.replace('h2.member1 a', 'h2.member2 a', '.comp-name h2', {hover: {color:'#27BCEC'}});
+		Cufon.replace('.page_main_column h2.comp_title');	
 </script>
 
 
@@ -58,12 +57,13 @@ Nintendo.com.au
 <script src="templates/pngfix.js" type="text/javascript"></script>
 <![endif]-->
 
+
 <!--UNCOMMENT THIS WHEN NEXT TAKEOVER IS WANTED-->
 	<script type="text/javascript">
 		
 function mycarousel_initCallback(carousel)
 {
-    var clicked=false;
+	var clicked=false;
 	// Disable autoscrolling if the user clicks the prev or next button.
     carousel.buttonNext.bind('click', function() {
         carousel.startAuto(0);
@@ -96,6 +96,11 @@ function mycarousel_initCallback(carousel)
 		
     });
 	
+};
+
+function mycarousel_itemFirstInCallback(carousel){
+	carousel.options.auto=5;
+	//console.log('its 5');
 };
 
 function replace_carousel_flash(carousel,li,index,state) {
@@ -143,10 +148,11 @@ var flashparams=new Array();
 				buttonNextEvent:'click',
 				buttonPrevEvent:'click',
 				scroll:1,
-				auto: 5,
+				auto: 8,
 				visible:1,
 				wrap:"both",
 				initCallback: mycarousel_initCallback,
+				itemFirstInCallback: mycarousel_itemFirstInCallback,
 				itemVisibleOutCallback: replace_carousel_flash
 			});
 		}
@@ -258,15 +264,14 @@ if (r==true)
 	<!--  sub page takeover code -->
 
 
-
-
+	
 
 </head>
 <body>
 	
 	<div id="outerwrapper" class=""> 
 	<div id="innerwrapper"><a name="top"></a>
-		<div class="global_nav_holder">
+    		<div class="global_nav_holder">
 			<div class="logo_nav"><a title="Nintendo.com.au - Home" href="/index.php">
 
              <img src="/template_images/logo_nav_nintendo.jpg" alt="Nintendo.com.au" width="130" height="50">
@@ -310,8 +315,12 @@ if (r==true)
 			<a href="http://www.nintendo.com.au/nintendo-3ds-eshop"><img src="http://www.nintendo.com.au/template_images/header/nin_eshop-logo.png"></a></div>
 			
 			</div>
-					<div id="signup_login"><a href="/index.php?pageID=58">Sign Up</a> &nbsp; | &nbsp; <a href="/index.php?pageID=54">Login</a></div>
-				</div>		<div>
+            <div class="page_tools">
+                        <div id="signup_login"><a href="/index.php?pageID=58">Sign Up</a> &nbsp; | &nbsp; <a href="/index.php?pageID=54">Login</a></div>
+                     
+          </div>
+		</div>
+				<div>
 	<!-- Banner starts-->		
     	<div class="relative">
 												<div class="banner_default"><img src="/template_images/29_banner.jpg" alt="Banner" width="990" height="205"></div>
@@ -447,7 +456,6 @@ if (r==true)
 															</div>
 					   
 			   			 
-					   
 										 
 <div class="page_sub_column">
 <div class="promo_holder">
@@ -498,7 +506,6 @@ if (r==true)
 <div class="footer_wrapper_subpage">
 	<div class="footer_header"></div>
       <div class="footer_content">
-        <div class="footer_lists_holder">
           <div class="footer_list">
             <p class="list_title">Nintendo</p>
             <ul>
@@ -521,7 +528,6 @@ if (r==true)
               <li><a href="http://gamesites.nintendo.com.au/DSi/">Nintendo DSi</a></li>
               <li><a href="http://gamesites.nintendo.com.au/ONM"> Official Nintendo Magazine</a></li>
                             <li><a href="http://www.melbourne.nintendoexperience.com.au"> Melb. Nintendo Experience</a></li>
-              <li><a href="http://www.sydney.nintendoconnection.com.au"> Syd. Nintendo Connection</a></li>
             </ul>
           </div>
           <div class="footer_list">
@@ -549,29 +555,28 @@ if (r==true)
               <li><a href="/index.php?pageID=7&amp;action=competition&amp;sectionID=1">Competitions</a></li>
             </ul>
           </div>
-          <!-- -->
-          <div class="footer_list">
-           <a id="ONM-cta" href="http://gamesites.nintendo.com.au/ONM/">
-           	<span>Check out the <br>latest issue<br></span>
-			<img src="/web_images/onm/onm1.jpg" alt="Official Nintendo Magazine"><br>
-			<span>Official <br>Nintendo <br>Magazine</span>
-           </a>
+		  <div class="footer_list_ctas">
+            <ul>
+				<li class="fli_preorder">
+				    
+					<a rel="footer:buy-now" href="/index.php?pageID=325&amp;prevpage=Nintendo|Home|Footer|Online Privacy Policy&amp;intcmp=Nintendo|Home|Footer|Online Privacy Policy:footer:buy-now" title="Buy now" id="logo-footer-buy">
+										Pre-order or Buy now
+					</a>
+				</li>
+				<li class="fli_channel"><a href="http://www.youtube.com/nintendoau" id="logo-footer-youtube">www.youtube.com/nintendoau - Channel</a></li>
+				<li class="fli_join"><a href="http://club.nintendo.com.au/" id="logo-footer-club" title="Go to Club Nintendo">Club.Nintendo.com.au - Sign Up</a></li>
+            </ul>
           </div>
-        </div>
-        <div class="logo_footer" id="logo_footer"> 
-	        	<a href="/" title="Nintendo.com.au - Home" id="logo-footer-home">
-	        	<!-- <img alt="Nintendo.com.au" height="33" src="/template_images/logo_footer_nintendo.gif" width="116" /> -->
-	        	Nintendo.com.au - Home
-	        	</a> 
-	        	<a href="http://club.nintendo.com.au/" id="logo-footer-club" title="Go to Club Nintendo">
-	        	Club.Nintendo.com.au - Sign Up
-	        	</a>
-	        	        
-				          <a rel="footer:buy-now" href="/index.php?pageID=325" title="Buy now" id="logo-footer-buy">
-				    				            Buy now
-				     	</a>
-
-        	</div>
+          <div class="footer_list_last">
+			<a id="ONM-cta" href="http://gamesites.nintendo.com.au/ONM/">
+				<span class="onm-title">Official Nintendo Magazine</span>
+				<img src="/web_images/onm/onm1.jpg" width="61px" height="86px" alt="Official Nintendo Magazine"><br>
+				<span class="onm-description">Out Now</span>
+			</a>
+			<ul>
+				<li class="fli_NIN"><a href="/" title="Nintendo.com.au - Home" id="logo-footer-home">Nintendo.com.au - Home</a></li>
+			</ul>
+          </div>
         <div class="spacer"></div>
       </div>
       <div id="global_footer">
@@ -581,12 +586,12 @@ if (r==true)
           <li><a href="/privacy">Privacy</a>&nbsp;&nbsp;|</li>
           <li><a href="/health-and-safety">Health &amp; Safety</a>&nbsp;&nbsp;|</li>
           <li><a href="/warranty">Warranty</a>&nbsp;&nbsp;|</li>
-          <li><a href="http://gamesites.nintendo.com.au/support/">Support</a>&nbsp;&nbsp;|</li>
+          <li><a href="/support/">Support</a>&nbsp;&nbsp;|</li>
           <li><a href="/contact">Contact Us</a>&nbsp;&nbsp;|</li>
 		  <li><a href="http://nintendomobile.com.au/">Mobile Site</a>&nbsp;&nbsp;|</li>
 		  <li><a href="/index.php?action=sitemap">Site Map</a></li>
         </ul>
-        <div class="copyright">© 2011
+        <div class="copyright">© 2012
  Nintendo Australia. Games are property of their respective owners. 
       		<div class="spacer"></div>
 	    </div>
@@ -596,7 +601,6 @@ if (r==true)
 </div></div>
 
 <!--END HOMEPAGE FOOTER -->		
-
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -608,7 +612,9 @@ var pageTracker = _gat._getTracker("UA-6429023-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-
+	
+	<!-- live -->
+    			
 <!--The Below needs to be have proper suite id before going live -->	
 <script type="text/javascript" src="templates/s_code.js"></script>
 <script type="text/javascript">
@@ -653,7 +659,8 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 <!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->
+<!-- End SiteCatalyst code version: H.20.3. -->		
+	
 
 
 </body></html>
