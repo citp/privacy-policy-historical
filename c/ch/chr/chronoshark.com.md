@@ -1,29 +1,24 @@
-> *The following text is extracted and transformed from the chronoshark.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023000853id_/http%3A//www.chronoshark.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronoshark.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530074607id_/http%3A//www.sharkstores.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# DiamondShark | Deal of the Day on Discounted Diamond & Gold Jewelry, Diamond Jewelry
-
-## Privacy Policy
+# Privacy Policy
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 ### What Information Do We Collect? 
 
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+When you visit SharkStores you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
-  * Personal Information You Choose to Provide (Registration Information)
+Personal Information You Choose to Provide (Registration Information) 
 
-You will provide us information about yourself when you register an account at DiamondShark, place ab order or register for email newsletters and alerts. 
+You will provide us information about yourself when you register an account at sharkstores, place an order or register for email newsletters and alerts. 
 
-  * Email Information
+Email Information 
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
-  * Web Site Use Information
+Web Site Use Information
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before visiting DiamondShark (if you arrived by clicking a link from that site).
-
-
-
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before visiting sharkstores (if you arrived by clicking a link from that site).
 
 ### How Do We Use the Information That You Provide to Us?
 
@@ -39,11 +34,11 @@ As you shop on our Web site, the site uses its’ cookies to differentiate you f
 
 ### Sharing Information with Third Parties
 
-DiamondShark does not share any information collected about our visitors with any third party source.
+SharkStores does not share any information collected about our visitors with any third party source.
 
 ### Notice of New Services and Changes
 
-If you've specifically opted-in, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [service@diamondshark.com](mailto:service@diamondshark.com).
+If you've specifically opted-in, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [service@sharkstores.com](mailto:service@sharkstores.com).
 
 ### How Do We Secure Information Transmissions?
 
@@ -51,7 +46,7 @@ Email is not recognized as a secure medium of communication. For this reason, we
 
 ### How Can You Access and Correct Your Information?
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by visiting your account page at DiamondShark or emailing servicediamondshark.com.
+You may request access to all your personally identifiable information that we collect online and maintain in our database by visiting your account page at sharkstores or emailing servicesharkstores.com.
 
 ### Certain Disclosures 
 
@@ -67,4 +62,4 @@ Please remember that when you use a link to go from our Web site to another Web 
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-Privacy Policy last updated July 3, 2008. 
+Privacy Policy last updated November 7, 2011. 
