@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topbilling.co.za privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201155323id_/http%3A//www.topbilling.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topbilling.co.za privacy policy that was archived on 2012-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530202637id_/http%3A//www.topbilling.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Top Billing Privacy Policy</title>
@@ -12,17 +12,109 @@
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link href="css/helper.css" media="screen" rel="stylesheet" type="text/css">
 <link href="css/dropdown.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/sabc.css" rel="stylesheet" type="text/css">
 <link href="css/default.ultimate.css" media="screen" rel="stylesheet" type="text/css">
 <meta name="google-site-verification" content="3rOkA7mDJIoL2xA4KZMdAtk_UEVuBUuZXw-79yP495E">
 <meta name="y_key" content="e41449ab17fe99ec">
-<script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="includes/banners.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	function urldecode (str) { return decodeURIComponent((str + '').replace(/\+/g, '%20')); }
+
+	var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+	var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+	function getthedate(){ var mydate=new Date(); var year=mydate.getYear(); if (year < 1000) year+=1900; var day=mydate.getDay(); var month=mydate.getMonth(); var daym=mydate.getDate(); if (daym<10) daym="0"+daym; var hours=mydate.getHours(); var minutes=mydate.getMinutes(); var seconds=mydate.getSeconds(); if (hours<=0) hours="0"+hours; if (hours==0) hours=12; if (minutes<=9) minutes="0"+minutes; if (seconds<=9) seconds="0"+seconds; var cdate=dayarray[day]+" "+daym+" "+montharray[month]+" "+year+" "+hours+":"+minutes; document.getElementById("clock").innerHTML=cdate;}
+	function goforit(){ setInterval("getthedate()",1000); }
+
+	function doSocial(sVal){
+		if (sVal == "Twitter"){
+			document.getElementById("Twitter-scroll").style.display = "block";
+			document.getElementById("Facebook-scroll").style.display = "none";
+		}else{
+			document.getElementById("Twitter-scroll").style.display = "none";
+			document.getElementById("Facebook-scroll").style.display = "block";
+		}
+	}
+	function sendRequest(strOpt,strURL){
+		var xmlHttp;
+		if (window.XMLHttpRequest) { // Mozilla, Safari, ...
+			var xmlHttp = new XMLHttpRequest();
+		} else if (window.ActiveXObject) { // IE
+	         var xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+	
+	    xmlHttp.open('GET', strURL, true);
+	    xmlHttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	    xmlHttp.onreadystatechange = function() {
+			//if want to display php page result call function here...
+			if (xmlHttp.readyState == 4) {
+				if (strOpt == 1){
+		            testResults(xmlHttp.responseText);
+				}
+			}
+	    }
+	    xmlHttp.send(strURL);
+	}
+	
+	function testResults(varTXT){
+		varA = "";
+	}
+	
+	function frmValidateSearchMainView(thisform){ var msg = "No results found. Please enter text to search"; if (document.SABCCORPORATE.q.value == "") { alert(msg); document.SABCCORPORATE.q.focus(); return false; } else if (document.SABCCORPORATE.q.value == " ") { alert(msg); document.SABCCORPORATE.q.focus(); return false; } else if (document.SABCCORPORATE.q.value == "  ") { alert(msg); document.SABCCORPORATE.q.focus(); return false; } else if (document.SABCCORPORATE.q.value == "--- enter keywords here ---") { alert(msg); document.SABCCORPORATE.q.focus(); return false; } if(document.SABCCORPORATE.radSearch[0].checked){ document.SABCCORPORATE.cx.value = "014101189712005551823:mmfewy8bjho"; document.SABCCORPORATE.cof.value = "FORID:11"; }  else if(document.SABCCORPORATE.radSearch[1].checked){ document.SABCCORPORATE.cx.value = "partner-pub-7837760522231511:8gpyje1tkft"; document.SABCCORPORATE.cof.value = "FORID:11"; } else { document.SABCCORPORATE.cx.value = "partner-pub-7837760522231511:7cr9rwb90wi"; document.SABCCORPORATE.cof.value = "FORID:11"; } document.SABCCORPORATE.submit(); }
+	function FocusTitle(){ document.SABCCORPORATE.q.value = " "; }
+	function setHomepage(){ if (document.all) { document.body.style.behavior='url(#default#homepage)'; document.body.setHomePage('http://www.sabc.co.za'); } else if (window.sidebar) { if(window.netscape) { try {   netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");   }   catch(e)   {   alert("this action was aviod by your browser,if you want to enable,please enter about:config in your address line,and change the value of signed.applets.codebase_principal_support to true");   } }  var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch); prefs.setCharPref('browser.startup.homepage','http://www.asp.net/130.aspx'); }}
+	function dispBannerTopSABC(bC){
+		aCount = 1;
+		bCount = bC;
+		imgArray = [  
+			['','SABC+News+Break+-+728x90','t','0','1']
+		]
+		//check for scripts or normal images
+		if (imgArray[bCount][2] == "t"){
+			document.getElementById("sabcTopBanner").innerHTML = document.getElementById("divBIHT" + imgArray[bCount][4]).innerHTML;
+		}else{
+			document.getElementById("sabcTopBanner").innerHTML = urldecode(imgArray[bCount][0]);
+		}
+		
+		//check to see if script should loop or not
+		if (aCount > 0){
+			var url="banner-impression.php?sBUp=" + imgArray[bCount][4] + "&pageID=12345678";
+			if (aCount-1 > bCount){
+				sendRequest(1,url);
+				setTimeout ("dispBannerTopSABC("+(bCount+1)+")", 10000);
+			}else{
+				sendRequest(1,url);
+				setTimeout ("dispBannerTopSABC(0)", 10000);
+			}
+		}
+	}
+	function dispBannerRightSABC(bC){
+		aCount = 1;
+		bCount = bC;
+		imgArray = [  
+			['','SABC+News+Break+-+300x250','t','0','2']
+		]
+		//check for scripts or normal images
+		if (imgArray[bCount][2] == "t"){
+			document.getElementById("sabcRightBanner").innerHTML = document.getElementById("divBIHT" + imgArray[bCount][4]).innerHTML;
+		}else{
+			document.getElementById("sabcRightBanner").innerHTML = urldecode(imgArray[bCount][0]);
+		}
+		
+		//check to see if script should loop or not
+		if (aCount > 0){
+			var url="banner-impression.php?sBUp=" + imgArray[bCount][4] + "&pageID=12345678";
+			if (aCount-1 > bCount){
+				sendRequest(1,url);
+				setTimeout ("dispBannerRightSABC("+(bCount+1)+")", 10000);
+			}else{
+				sendRequest(1,url);
+				setTimeout ("dispBannerRightSABC(0)", 10000);
+			}
+		}
+	}
+</script>
 <script type="text/javascript"> 
 //<![CDATA[
-		var banners = [ 
-							new banner('Top Hat Competition','banner-click.php?bannerID=129','system-files/top-hat-competition-1305107767.png','30/04/3000','top','728','top','90'),
-								new banner('Sure Travel','banner-click.php?bannerID=18','system-files/sure-travel.gif','30/04/3000','right','200','right','90'),
-							new banner('','','','30/04/3000','nada','','nada')
-		]
 //]]>
 </script>
 <script src="includes/scrolling.js" type="text/javascript"></script>
@@ -119,10 +211,10 @@ var mygallery3=new fadeSlideShow({
 	wrapperid: "fadeshow3", //ID of blank DIV on page to house Slideshow
 	dimensions: [198, 250], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
-		["system-files/win-a-top-billing-we-1319538886.jpg", "competitions/Win-a-Top-Billing-Wedding---Update.html?compID=110", "", "Win a Top Billing Wedding - Update"],
-		["system-files/win-happy-feet-2-ham-1322490262.jpg", "competitions/Win-Happy-Feet-2-Hampers.html?compID=124", "", "Win Happy Feet 2 Hampers"],
-		["system-files/win-an-electricity-m-1322495989.jpg", "competitions/Win-an-electricity-monitor.html?compID=125", "", "Win an electricity monitor"],
-		["system-files/win-a-top-billing-we-1319538886.jpg", "competitions/Win-a-Top-Billing-Wedding---Update.html?compID=110", "", "Win a Top Billing Wedding - Update"]
+		["system-files/the-top-billing-pres-1338303989.jpg", "http://www.topbilling.com/presenters/-my-top-billing-dream.html", "_new", "The Top Billing Presenter Search"],
+		["system-files/win-a-volvo-s60-1337103972.jpg", "http://www.volvocarsa.co.za/bigdrive/", "_new", "Win A Volvo S60"],
+		["system-files/win-a-r1000-yuppiech-1336473306.jpg", "http://www.yuppiechef.co.za/top-billing.htm", "_new", "Win a R1000 Yuppiechef voucher"],
+		["system-files/the-top-billing-pres-1338303989.jpg", "competitions/The-Top-Billing-Presenter-Search.html?compID=140", "", "The Top Billing Presenter Search"]
 	],
 	displaymode: {type:'auto', pause:10000, cycles:0, wraparound:false},
 	persist: false, //remember last viewed slide and recall within same session?
@@ -134,9 +226,10 @@ var mygallery4=new fadeSlideShow({
 	wrapperid: "events1", //ID of blank DIV on page to house Slideshow
 	dimensions: [198, 250], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
-		["system-files/franschhoek-bubbly-f-1322491351.jpg", "articles/Franschhoek-Bubbly-Festival.html?articleID=935", "", "Franschhoek Bubbly Festival"],
+		["system-files/the-table-of-peace---1336032915.jpg", "articles/The-Table-of-Peace-&-Unity.html?articleID=1227", "", "The Table of Peace & Unity"],
+		["system-files/wine-and-whales-on-t-1323432469.jpg", "articles/Wine-and-Whales-on-the-Hermanus-Wine-Route.html?articleID=944", "", "Wine and Whales on the Hermanus Wine Route"],
 		["system-files/kirstenbosch-summer--1321520586.jpg", "articles/Kirstenbosch-Summer-Concerts.html?articleID=918", "", "Kirstenbosch Summer Concerts"],
-		["system-files/franschhoek-bubbly-f-1322491351.jpg", "articles/Franschhoek-Bubbly-Festival.html?articleID=935", "", "Franschhoek Bubbly Festival"]
+		["system-files/the-table-of-peace---1336032915.jpg", "articles/The-Table-of-Peace-&-Unity.html?articleID=1227", "", "The Table of Peace & Unity"]
 	],
 	displaymode: {type:'auto', pause:10000, cycles:0, wraparound:false},
 	persist: false, //remember last viewed slide and recall within same session?
@@ -147,7 +240,7 @@ var mygallery4=new fadeSlideShow({
 </script>
 </head>
 
-<body bgcolor="#0D3B6E" style="background-image:url(images/bg.jpg); background-repeat:repeat-x">
+<body bgcolor="#0D3B6E" style="background-image:url(images/bg.jpg); background-repeat:repeat-x" onload="goforit()">
 <!-- BEGIN EFFECTIVE MEASURE CODE -->
 <!-- COPYRIGHT EFFECTIVE MEASURE -->
 <script type="text/javascript">
@@ -161,20 +254,67 @@ var mygallery4=new fadeSlideShow({
 	<img src="//za.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 </noscript>
 <!--END EFFECTIVE MEASURE CODE -->
-<table width="100%" align="center" border="0" style="height:100%;">
+<table width="100%" cellpadding="0" cellspacing="0" align="center" border="0" style="height:100%">
 	<tbody><tr>
 		<td align="center" valign="top" style="padding-top:0px">
-			<table align="center" border="0" cellpadding="0" cellspacing="0" width="1100px">
-				<tbody><tr>
-					<td bgcolor="#04386A" align="left" valign="top"><a href="http://www.topbilling.com" title="Top Billing - Janez &amp; Lorna"><img src="system-files/top-billing--janez---1317301730.jpg" border="0" alt="Top Billing - Janez &amp; Lorna" title="Top Billing - Janez &amp; Lorna"></a></td>
-					<td width="750px" bgcolor="#04386A" align="left" valign="top" style="background-image:url(images/header.jpg)">
-						<table cellspacing="0" cellpadding="0" border="0" width="100%">
-							<tbody><tr>
-								<td align="right" valign="top" style="padding-left:11px; padding-right:11px; padding-top:0px">
-																													<a href="banner-click.php?bannerID=129" target="_blank" title="Top Hat Competition"><img src="system-files/top-hat-competition-1305107767.png" alt="Top Hat Competition" title="Top Hat Competition" border="0"></a>
-																											</td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="1190px">
+								<tbody><tr>
+					<td bgcolor="#FFFFFF" colspan="2">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" height="90px" style="height:90px" width="100%">
+							<tbody><tr><td align="center"><div id="sabcTopBanner"><!-- begin ad tag -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=728x90;ord=200271353657262?"></script>
+<noscript><a href="https://ad.doubleclick.net/jump/Topbilling/;sz=728x90;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/Topbilling/;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></div></td></tr>
+						</tbody></table>
+					</td>
+				</tr>
+								<tr>
+					<td bgcolor="#FFFFFF" colspan="2">
+						<div id="top_search"> 
+						<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+						<form action="googlesearch.php" id="cse-search-box" method="get" target="_top" name="SABCCORPORATE" onsubmit="return frmValidateSearchMainView(this);" style="margin:0px">
+						    <input type="hidden" name="cx" value="partner-pub-7837760522231511:l7q2vqrukax">
+						    <input type="hidden" name="cof" value="FORID:11">
+						    <input type="hidden" name="ie" value="ISO-8859-1">
+							<table border="0" cellpadding="3" cellspacing="2">
+								<tbody><tr><td><input type="text" name="q" size="20" id="search_box"></td><td><input type="submit" name="go" value="Go" style="display:block" id="go_button" onclick="return frmValidateSearchMainView(this);"></td></tr>
+								<tr><td colspan="2"><label><input type="radio" name="radSearch" value="SABCCORP" checked="">&nbsp;This site</label> <label>&nbsp;&nbsp;<input type="radio" name="radSearch" value="SABC">&nbsp;SABC</label> <label>&nbsp;&nbsp;<input type="radio" name="radSearch" value="Web">&nbsp;Web</label></td></tr>
+							</tbody></table>
+							<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+							<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>							</form>
+						</div>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" height="40px" style="height:40px" width="100%">
+							<tbody><tr bgcolor="#ffffff">
+								<td width="74px" align="left" style="padding-left:30px"><img src="images/sabc-black-sml.png" border="0" alt="SABC Logo" title="SABC"></td>
+								<td align="left" style="padding-left:0px">
+								<div id="sabc-navigation">    
+									<ul id="sabc-list">      
+								    	<li class="sabcli"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCHOME" title="Home" target="_top" class="sabc-listLI"><span class="blc">Home</span></a></li>
+								    	<li class="sabcli"><a href="http://www.sabc.co.za/news" title="News" class="sabc-listLI"><span class="blc">News</span></a></li>
+										<li class="sabcli"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCSPORT" title="Sport" class="sabc-listLI"><span class="blc">Sport</span></a></li>
+										<li class="sabcli"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCTV" title="TV" class="sabc-listLI"><span class="blc">TV</span></a></li>
+										<li class="sabcli"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCRADIO" title="Radio" class="sabc-listLI"><span class="blc">Radio</span></a></li>
+										<li class="sabcli"><a href="http://www.sabceducation.co.za/" title="Education" class="sabc-listLI"><span class="blc">Education</span></a></li>
+										<li class="sabcli"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCTVLICENCES" title="TV Licences" class="sabc-listLI"><span class="blc">TV Licences</span></a></li>
+										<li class="sabcli"><a href="http://www.sabc.co.za/mandela" title="Mandela Day" class="sabc-listLI"><span class="blc">Mandela Day</span></a></li>
+										<li class="sabcli"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCCONTACTUS" title="Contact Us" class="sabc-endlistLI"><span class="blc">Contact Us</span></a></li>  
+									</ul> 
+								</div>
+								</td>
 							</tr>
 						</tbody></table>
+					</td>
+				</tr>
+				<tr><td bgcolor="#ffffff" colspan="2">&nbsp;</td></tr>
+				<tr>
+					<td bgcolor="#04386A" align="left" valign="top"><a href="http://www.topbilling.com" title="Top Billing - new"><img src="system-files/top-billing--new-1328106937.jpg" border="0" alt="Top Billing - new" title="Top Billing - new"></a></td>
+					<td width="840px" bgcolor="#04386A" align="right" valign="top" style="background-image:url(images/header-wide.jpg)">
+						<div id="TBTopBanner"></div>
 					</td>					
 				</tr>
 				<tr>
@@ -198,6 +338,8 @@ var mygallery4=new fadeSlideShow({
 					<li><a href="presenters/jeannie-d-top-billing-presenter.html" title="Jeannie D - Presenters Profile">Presenters Profile</a></li>
 					<li><a href="presenters/jeannie-d-dressed-by-.html" title="Jeannie D - Dressed by">Dressed by</a></li>
 					<li><a href="presenters/jeannie-voted-sexiest-presenter.html" title="Jeannie D - Presenter Articles">Presenter Articles</a></li>
+					<li><a href="presenters/workout-with-jeannie-d.html" title="Jeannie D - Presenter Workout">Presenter Workout</a></li>
+					<li><a href="presenters/jeannie-d-s-look-on-a-budget.html" title="Jeannie D - Get the look">Get the look</a></li>
 				</ul></li>
 			<li><span class="dir">Jo-Ann Strauss</span>
 				<ul><li></li>
@@ -208,6 +350,7 @@ var mygallery4=new fadeSlideShow({
 				<ul><li></li>
 					<li><a href="presenters/janez-vermeiren.html" title="Janez Vermeiren - Presenters Profile">Presenters Profile</a></li>
 					<li><a href="presenters/janez-vermeiren-topbilling-presenter.html" title="Janez Vermeiren - Dressed by">Dressed by</a></li>
+					<li><a href="presenters/janez-s-look-on-a-budget.html" title="Janez Vermeiren - Get the look">Get the look</a></li>
 				</ul></li>
 			<li><span class="dir">Michael Mol</span>
 				<ul><li></li>
@@ -218,10 +361,12 @@ var mygallery4=new fadeSlideShow({
 				<ul><li></li>
 					<li><a href="presenters/ursula-chikane.html" title="Ursula Chikane - Presenters Profile">Presenters Profile</a></li>
 					<li><a href="presenters/dressed-by.....html" title="Ursula Chikane - Dressed by">Dressed by</a></li>
+					<li><a href="presenters/ursula-s-look-on-a-budget.html" title="Ursula Chikane - Get the look">Get the look</a></li>
 				</ul></li>
 			<li><span class="dir">Simba Mhere</span>
 				<ul><li></li>
 					<li><a href="presenters/-simba-mhere.html" title="Simba Mhere - Presenters Profile">Presenters Profile</a></li>
+					<li><a href="presenters/simba-s-look-on-a-budget.html" title="Simba Mhere - Get the look">Get the look</a></li>
 				</ul></li>
 			<li><span class="dir">Dhiveja Sundrum </span>
 				<ul><li></li>
@@ -240,14 +385,20 @@ var mygallery4=new fadeSlideShow({
 				<ul><li></li>
 					<li><a href="presenters/voice-over-artists.html" title="Voice over Artist - Presenters Profile">Presenters Profile</a></li>
 				</ul></li>
+			<li><span class="dir">Presenter Search 2012</span>
+				<ul><li></li>
+					<li><a href="presenters/-my-top-billing-dream.html" title="Presenter Search 2012 - My Top Billing Dream">My Top Billing Dream</a></li>
+					<li><a href="presenters/top-billing-presenter-search-celebrity-judges.html" title="Presenter Search 2012 - Judges">Judges</a></li>
+					<li><a href="presenters/auditions-update.html" title="Presenter Search 2012 - Audition Update">Audition Update</a></li>
+					<li><a href="presenters/behind-the-scenes-of-the-presenter-search-2012.html" title="Presenter Search 2012 - Behind the Scenes: Durban">Behind the Scenes: Durban</a></li>
+				</ul></li>
+			<li><a href="presenters/application-form.php">TV Presenter Application</a>
+				<ul><li></li>
+				</ul></li>
 		</ul>
 	</li>
 	<li class="navDiv"><span class="dir" style="padding-left:20px;width:86px;text-align:center">Magazine</span>
 		<ul>
-			<li><a href="magazine/../magazine/this-months-issue.html" title="THIS MONTHS ISSUE - coming soon">THIS MONTHS ISSUE</a></li>
-			<li><a href="magazine/../magazine/subscribe-to-magazine.html" title="Subscribe - coming soon">Subscribe</a></li>
-			<li><a href="magazine/../magazine/previous-issues.html" title="Previous Issues - coming soon">Previous Issues For Sale</a></li>
-			<li><a href="magazine/diy-magazines.html" title="DIY Digital Magazines - coming soon">DIY Digital Magazines</a></li>
 			<li><a href="magazine/../magazine/previous-downloads.php" title="My Digital Magazines - coming soon">My Digital Magazines</a></li>
 			<li><a href="magazine/top-billing-magazine-website-exclusives.html" title="Top Billing Magazine Website Exclusives - coming soon">Website Exclusives</a></li>
 		</ul>
@@ -263,11 +414,14 @@ var mygallery4=new fadeSlideShow({
 			<li><a href="lifestyle/fr.html" title="BLOG: From Behind The Lens - coming soon">BLOG: From Behind The Lens</a></li>
 			<li><a href="lifestyle/out---about-in-cape-town.html" title="BLOG: Out &amp; About - coming soon">BLOG: Out &amp; About</a></li>
 			<li><a href="lifestyle/my-city---my-jo-burg-george-kasongo-to-introduce-to-you-his-city.html" title="BLOG: My City - My Jo'burg - coming soon">BLOG: My City - My Jo'burg</a></li>
+			<li><a href="lifestyle/behind-the-scenes-with-wimpie.html" title="BLOG: Behind the scenes with Wimpie - coming soon">BLOG: Behind the scenes with Wimpie</a></li>
 			<li><a href="lifestyle/the-beauty-bulletin-weekly-tip.html" title="The Beauty Bulletin brings you the latest beauty trends - coming soon">Beauty Tip</a></li>
 			<li><a href="lifestyle/the-beauty-bulletin--get-the-celeb-look.html" title="The Beauty Bulletin: Get the Celeb Look - coming soon">Get the Celeb Beauty Look</a></li>
-			<li><a href="lifestyle/decor-tips.html" title="Décor Tips - coming soon">Décor Tips</a></li>
+			<li><a href="lifestyle/decor-tips.html" title="DECOR: Tips - coming soon">DECOR: Tips</a></li>
+			<li><a href="lifestyle/decor-houses.html" title="DECOR Houses - coming soon">DECOR Houses</a></li>
 			<li><a href="lifestyle/the-pinotage-guide.html" title="Entertainment Tips - coming soon">Entertainment Tips</a></li>
 			<li><a href="lifestyle/travel.html" title="Travel - coming soon">Travel</a></li>
+			<li><a href="lifestyle/decor--houses.html" title="Suppliers Guide - coming soon">Suppliers Guide</a></li>
 		</ul>
 	</li>
 	<li class="navDiv"><span class="dir" style="padding-left:20px;width:86px;text-align:center">Events</span>
@@ -286,11 +440,11 @@ var mygallery4=new fadeSlideShow({
 	</li>
 	<li class="navDiv"><span class="dir" style="padding-left:20px;width:86px;text-align:center">Bonus Features</span>
 		<ul>
-			<li><a href="bonus-features/audition-videos.php" title="Presenter Auditions - coming soon">Presenter Auditions</a></li>
-			<li><a href="bonus-features/top-billing-presenter-search-finalists.html" title="Top Billing presenter Search top 14 finalists - coming soon">Presenter Search Top 14</a></li>
-			<li><a href="bonus-features/auditions.php" title="Audition Videos - coming soon">Audition Videos</a></li>
-			<li><a href="bonus-features/presenter-search-judges-profiles.html" title="Presenter Search - Judges' Profiles - coming soon">Presenter Search - Judges' Profiles</a></li>
-			<li><a href="bonus-features/presenter-search-auditions.html" title="Presenter Search, Audition Pictures Cape Town - coming soon">Presenter Search, Audition Pictures Cape Town</a></li>
+			<li><a href="bonus-features/audition-videos.php" title="Presenter Auditions 2010 - coming soon">Presenter Auditions 2010</a></li>
+			<li><a href="bonus-features/top-billing-presenter-search-finalists.html" title="Top Billing presenter Search top 14 finalists - coming soon">Presenter Search 2010 Top 14</a></li>
+			<li><a href="bonus-features/auditions.php" title="Audition Videos 2010 - coming soon">Audition Videos 2010</a></li>
+			<li><a href="bonus-features/presenter-search-judges-profiles.html" title="Presenter Search 2010- Judges' Profiles - coming soon">Presenter Search 2010- Judges' Profiles</a></li>
+			<li><a href="bonus-features/presenter-search-auditions.html" title="Presenter Search 2010, Audition Pictures - coming soon">Presenter Search 2010, Audition Pictures</a></li>
 			<li><a href="bonus-features/fan-mail.html" title="Fan Pages - coming soon">Fan Pages</a></li>
 			<li><a href="bonus-features/shell-stencil-downloads.html" title="Shell Stencil Downloads - coming soon">Shell Stencil Downloads</a></li>
 			<li><a href="bonus-features/../newsletter/top-billing-newsletter.php" title="TopBilling Newsletter Subscription - coming soon">Newsletter Subscription</a></li>
@@ -304,6 +458,7 @@ var mygallery4=new fadeSlideShow({
 			<li><a href="contact-us/social-investment.html" title="TopBilling Charities - coming soon">Top Billing Charities</a></li>
 			<li><a href="contact-us/tswelopele-productions.html" title="Tswelopele Productions - coming soon">Tswelopele Productions</a></li>
 			<li><a href="contact-us/interview-with-patience-stevens.html" title="Interview with Patience Stevens  - coming soon">Interview with Patience Stevens</a></li>
+			<li><a href="contact-us/top-billing-careers.html" title="Careers - coming soon">Careers</a></li>
 		</ul>
 	</li>
 </ul>
@@ -322,20 +477,8 @@ var mygallery4=new fadeSlideShow({
 										<tr>
 											<td align="left" valign="top" width="220px" height="100%" style="background-color:#EBEBEB;">
 												<table cellpadding="0" cellspacing="0" border="0">
-																										<tbody><tr>
-														<td align="left" valign="top" style="padding-left:9px">
-															<table cellpadding="0" cellspacing="0">
-																<tbody><tr>
-																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px"><h1>TOP BILLING MAGAZINE</h1></td>
-																</tr>
-																<tr>
-																	<td align="left" valign="top"><div style="position:absolute;margin-top:140px;background-image:url(images/now-digital.png);background-repeat:no-repeat;width:198px;height:55px;cursor:pointer" onclick="location.href='magazine/this-months-issue.html';"></div><a href="magazine/this-months-issue.html" title="More on the Nov 2011 issue"><img src="system-files/Magazine-sml-20111101.jpg" style="border:solid 1px #45AACC" alt="More on the Nov 2011 issue" title="More on the Nov 2011 issue"></a></td>
-																</tr>
-															</tbody></table>
-														</td>
-													</tr>
-																																																				<tr>
-														<td align="left" valign="top" style="padding-left:9px; padding-top:10px; padding-bottom:10px">
+																																							<tbody><tr>
+														<td align="left" valign="top" style="padding-left:9px; padding-top:2px; padding-bottom:10px">
 															<table cellpadding="0" cellspacing="0" width="200px">
 																<tbody><tr>
 																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">TOP BILLING EVENTS</td>
@@ -352,12 +495,12 @@ var mygallery4=new fadeSlideShow({
 														<td align="left" valign="top" style="padding-left:9px; padding-top:10px; padding-bottom:10px">
 															<table cellpadding="0" cellspacing="0" width="200px">
 																<tbody><tr>
-																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">Win A Tori Amos CD</td>
+																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">Win A Fantastic Wedding Guide</td>
 																</tr>
 																<tr>
 																	<td align="center" valign="top" style="border:solid 1px #45AACC" bgcolor="#ffffff">
-																																					<a href="competitions/Win-A-Tori-Amos-CD.html?compID=126" title="Win A Tori Amos CD">
-																		<img src="system-files/win-a-tori-amos-cd-1322561671.jpg" border="0" alt="Win A Tori Amos CD" title="Win A Tori Amos CD"></a>
+																																					<a href="competitions/Win-A-Fantastic-Wedding-Guide.html?compID=144" title="Win A Fantastic Wedding Guide">
+																		<img src="system-files/win-a-fantastic-wedd-1337267035.jpg" border="0" alt="Win A Fantastic Wedding Guide" title="Win A Fantastic Wedding Guide"></a>
 																	</td>
 																</tr>																
 															</tbody></table>
@@ -370,10 +513,16 @@ var mygallery4=new fadeSlideShow({
 														</td>
 													</tr>
 																																																				<tr>
+														<td align="center" valign="top" style="padding-left:0px; padding-top:10px;background-color:#EBEBEB;"><a target="_blank" href="banner-click.php?bannerID=141" title="Kenya Airways"><img src="system-files/kenya-airways-1334660758.png" border="0" alt="Kenya Airways" title="Kenya Airways"></a></td>
+													</tr>
+																										<tr>
+														<td align="center" valign="top" style="padding-left:0px; padding-top:10px;background-color:#EBEBEB;"><a target="_blank" href="banner-click.php?bannerID=142" title="My Top Billing Dream"><img src="system-files/my-top-billing-dream-133830388.jpg" border="0" alt="My Top Billing Dream" title="My Top Billing Dream" width="200px"></a></td>
+													</tr>
+																										<tr>
 														<td align="center" valign="top" style="padding-left:0px; padding-top:10px;background-color:#EBEBEB;">
 															<script type="text/javascript"> 
 																	show_banners('left');
-															</script><div id="adLocation-1" class="swb"></div>
+															</script>
 														</td>
 													</tr>
 													<tr>
@@ -474,25 +623,25 @@ info@topbilling.com<br><br>
 								<td align="left" valign="top" width="220px">
 																		<table cellpadding="0" cellspacing="0" border="0">
 										<tbody><tr>
-											<td align="left" valign="top" style="background-image:url(images/left-col-top.jpg);" height="26px" width="220px">&nbsp;</td>
+											<td align="left" valign="top" style="background-image:url(images/left-col-top.jpg);" height="26px" width="310px">&nbsp;</td>
 										</tr>
 										<tr>
-											<td align="left" valign="top" width="220px" style="background-color:#EBEBEB;height:100%;">
+											<td align="left" valign="top" width="310px" style="background-color:#EBEBEB;height:100%;">
 												<table cellpadding="0" cellspacing="0" border="0">
 													<tbody><tr>
-														<td align="left" valign="top" style="padding-left:9px">
+														<td align="left" valign="top" style="padding-left:5px">
 															<table cellpadding="0" cellspacing="0">
 																<tbody><tr>
-																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">SEARCH TOP BILLING</td>
+																	<td align="left" width="300px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head-right.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">SEARCH TOP BILLING</td>
 																</tr>
 																<tr>
 																	<td align="left" valign="top" height="36px">
-																		<table cellpadding="0" cellspacing="0" width="200px" bgcolor="#CBCDCE" style="height:100%;">
+																		<table cellpadding="0" cellspacing="0" width="300px" bgcolor="#CBCDCE" style="height:100%;">
 																			<tbody><tr>
 																				<td style="height:100%;"><form name="search" method="get" action="top-billing-search-results.php">
 																					<table cellpadding="0" cellspacing="0" style="height:100%;">
 																						<tbody><tr>
-																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input type="text" name="searchbox" style="width:140px;height:17px;border:solid 1px #BCBDC0;" value="type your keywords here" class="search-Navy" onclick="searching();"></td>
+																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input type="text" name="searchbox" style="width:220px;height:17px;border:solid 1px #BCBDC0;" value="type your keywords here" class="search-Navy" onclick="searching();"></td>
 																							<td align="left" valign="top" style="padding-top:6px"><input type="image" src="images/search-but.jpg" style="border:0px" alt="Search The Keywords" title="Search The Keywords"></td>
 																						</tr>
 																					</tbody></table></form>
@@ -504,23 +653,30 @@ info@topbilling.com<br><br>
 															</tbody></table>
 														</td>
 													</tr>
-													<tr>
-														<td align="left" valign="top" style="padding-left:9px; padding-top:10px;background-color:#EBEBEB;">
+																										<tr>
+														<td align="left" valign="top" style="padding-left:5px; padding-top:10px;background-color:#EBEBEB;">
 															<table cellpadding="0" cellspacing="0">
 																<tbody><tr>
-																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">TOP BILLING NEWSLETTER</td>
-																</tr>
-																<tr>
-																	<td align="left" valign="top"><a href="newsletter/top-billing-newsletter.php" title="Subscribe to Tob Billing Newsletter"><img src="images/newsletter-banner.jpg" border="0" alt="Subscribe to Tob Billing Newsletter" title="Subscribe to Tob Billing Newsletter"></a></td>
+																	<td align="left">
+																		<div id="sabcRightBanner"><!-- begin ad tag -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=300x250;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=300x250;ord=136028285530851.44?"></script>
+<noscript><a href="https://ad.doubleclick.net/jump/Topbilling/;sz=300x250;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/Topbilling/;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></div>
+																	</td>
 																</tr>																
 															</tbody></table>
 														</td>
 													</tr>
-													<tr>
-														<td align="left" valign="top" style="padding-left:9px; padding-top:10px;background-color:#EBEBEB;">
-															<table cellpadding="0" cellspacing="0" width="200px" bgcolor="#ffffff">
+																										<tr>
+														<td align="left" valign="top" style="padding-left:5px; padding-top:10px;background-color:#EBEBEB;">
+															<table cellpadding="0" cellspacing="0" width="300px" bgcolor="#ffffff">
 																<tbody><tr>
-																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">SHARE TOP BILLING</td>
+																	<td align="left" width="300px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head-right.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">SHARE TOP BILLING</td>
 																</tr>
 																<tr>
 																	<td align="left" valign="top" bgcolor="#ffffff" style="padding-top:5px; padding-bottom:5px">
@@ -541,10 +697,10 @@ info@topbilling.com<br><br>
 														</td>
 													</tr>
 													<tr>
-														<td align="left" valign="top" style="padding-left:9px; padding-top:10px;background-color:#EBEBEB;">
-															<table cellpadding="0" cellspacing="0" width="200px" bgcolor="#ffffff">
+														<td align="left" valign="top" style="padding-left:5px; padding-top:10px;background-color:#EBEBEB;">
+															<table cellpadding="0" cellspacing="0" width="300px" bgcolor="#ffffff">
 																<tbody><tr>
-																	<td align="left" colspan="2" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">RSS FEEDS</td>
+																	<td align="left" colspan="2" width="300px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head-right.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">RSS FEEDS</td>
 																</tr>
 																<tr>
 																	<td align="left" valign="top" bgcolor="#ffffff" style="padding-top:5px; padding-bottom:5px">
@@ -558,13 +714,14 @@ info@topbilling.com<br><br>
 														</td>
 													</tr>
 													<tr>
-														<td align="left" valign="top" style="padding-left:9px; padding-top:10px;background-color:#EBEBEB;">
-															<table cellpadding="0" cellspacing="0" width="100%" border="0">
+														<td align="left" valign="top" style="padding-left:5px; padding-top:10px;background-color:#EBEBEB;">
+															<div id="Twitter-scroll" style="display:block;height:350px;">
+															<table cellpadding="0" cellspacing="0" width="300px" border="0">
 																<tbody><tr>
-																	<td align="left" valign="top" colspan="2"><a href="http://twitter.com/SABC3Topbilling" target="_blank"><img src="images/twitter.jpg" width="128px" border="0" alt="Top Billing on Twitter" title="Top Billing on Twitter"></a><a href="http://www.facebook.com/pages/Top-Billing/189348557784065" target="_blank" title="Top Billing on Facebook"><img src="images/facebook.jpg" border="0" alt="Top Billing on Facebook" title="Top Billing on Facebook"></a></td>
+																	<td align="left" valign="top" colspan="2"><a href="javascript:;" onclick="doSocial('Twitter');"><img src="images/twitter-sabc.jpg" width="129px" border="0" alt="Top Billing on Twitter" title="Top Billing on Twitter"></a><a href="javascript:;" title="Top Billing on Facebook" onclick="doSocial('Facebook');"><img src="images/facebook-sabc.jpg" border="0" alt="Top Billing on Facebook" title="Top Billing on Facebook"></a></td>
 																</tr>
 																<tr>
-																	<td colspan="2" align="left" style="background-image:url(images/twitter-bg.jpg)">
+																	<td colspan="2" align="left" style="background-image:url(images/twitter-bg-sabc.jpg)">
 <script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
 <script type="text/javascript">
 new TWTR.Widget({
@@ -574,7 +731,7 @@ new TWTR.Widget({
   interval: 6000,
   title: 'tweets @',
   subject: 'SABC3Topbilling',
-  width: 200,
+  width: 300,
   height: 200,
   theme: {
     shell: {
@@ -601,53 +758,70 @@ new TWTR.Widget({
 																	</td>
 																</tr>																
 															</tbody></table>
+															</div>
+															<div id="Facebook-scroll" style="display:none;height:350px;">
+															<table cellpadding="0" cellspacing="0" width="300px" border="0">
+																<tbody><tr>
+																	<td align="left" valign="top" colspan="2"><a href="javascript:;" onclick="doSocial('Twitter');"><img src="images/twitter-sabc.jpg" width="129px" border="0" alt="Top Billing on Twitter" title="Top Billing on Twitter"></a><a href="javascript:;" title="Top Billing on Facebook" onclick="doSocial('Facebook');"><img src="images/facebook-sabc.jpg" border="0" alt="Top Billing on Facebook" title="Top Billing on Facebook"></a></td>
+																</tr>
+																<tr>
+																	<td colspan="2" align="left" bgcolor="#ffffff">
+																		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTop-Billing%2F189348557784065&amp;width=305&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23EBEBEB&amp;stream=true&amp;header=true&amp;appId=278386265519967" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:305px;" allowtransparency="true"></iframe>
+																	</td>
+																</tr>																
+															</tbody></table>
+															</div>
 														</td>
 													</tr>
 													<tr>
-														<td align="left" valign="top" style="padding-left:9px; padding-top:10PX">
+														<td align="left" valign="top" style="padding-left:5px; padding-top:10px;background-color:#EBEBEB;">
+															<table cellpadding="0" cellspacing="0">
+																<tbody><tr>
+																	<td align="left" width="300px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head-right.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">TOP BILLING NEWSLETTER</td>
+																</tr>
+																<tr>
+																	<td align="left" valign="top"><a href="newsletter/top-billing-newsletter.php" title="Subscribe to Tob Billing Newsletter"><img src="images/newsletter-banner-sabc.jpg" border="0" alt="Subscribe to Tob Billing Newsletter" title="Subscribe to Tob Billing Newsletter"></a></td>
+																</tr>																
+															</tbody></table>
+														</td>
+													</tr>
+													<tr>
+														<td align="left" valign="top" style="padding-left:5px; padding-top:10PX">
 																														<form name="Poll" id="Poll" method="post" action="pollCalc.php">
 															<table cellpadding="0" cellspacing="0">
 																<tbody><tr>
-																	<td align="left" width="200px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">VOTING POLL</td>
+																	<td align="left" width="300px" height="28px" valign="top" class="white-sml" style="background-image:url(images/title-head-right.gif); background-repeat:no-repeat; padding-left:18px; padding-top:8px">VOTING POLL</td>
 																</tr>
 																<tr>
 																	<td align="left" valign="top" height="36px">
-																		<table cellpadding="0" cellspacing="0" width="200px" bgcolor="#CBCDCE" style="height:100%;">
+																		<table cellpadding="0" cellspacing="0" width="300px" bgcolor="#CBCDCE" style="height:100%;">
 																			<tbody><tr>
 																				<td style="height:100%;">
 																					<table cellpadding="0" cellspacing="0" style="height:100%;">
 																						<tbody><tr>
-																							<td colspan="2" align="left" valign="top" style="padding-top:8px; padding-left:10px" class="darkgray"><strong>Which insert was ur favourite on this week's show</strong></td>
+																							<td colspan="2" align="left" valign="top" style="padding-top:8px; padding-left:10px" class="darkgray"><strong>Are you auditioning for the presenter search?</strong></td>
 																						</tr>
 																																												<tr>
 																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="1" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Riaan and Dan's makeover</td>
+																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Yes! I have auditioned already</td>
 																						</tr>
 																																																																		<tr>
 																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="2" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Shopping with Sonia Sedibe</td>
+																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Yes! I am ready and waiting</td>
 																						</tr>
 																																																																		<tr>
 																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="3" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">The Happy Feet 2 interviews</td>
+																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">I might...</td>
 																						</tr>
 																																																																		<tr>
 																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="4" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Ryk Neethling's house</td>
+																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Not sure if I have 'IT'</td>
 																						</tr>
 																																																																		<tr>
 																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="5" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">The Green Expo</td>
+																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">No ways! Jeannie's job is safe</td>
 																						</tr>
-																																																																		<tr>
-																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="6" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">Tori Amos Interview</td>
-																						</tr>
-																																																																		<tr>
-																							<td align="left" valign="top" style="padding-left:5px; padding-top:5px"><input name="pollAnswer" type="radio" value="7" class="radioB"></td>
-																							<td align="left" valign="top" style="padding-top:4px;padding-left:4px;" class="darkgray">The Best of Joburg Awards</td>
-																						</tr>
-																																																																																																																																																																																<tr>
+																																																																																																																																																																																																																												<tr>
 																							<td colspan="2" align="left" valign="top" style="padding-top:8px; padding-left:10px"><a href="javascript:;" onclick="return valPoll();" title="Vote now"><img src="images/vote-but.jpg" border="0" alt="Vote now" title="Vote now"></a>&nbsp;&nbsp;<a href="pollResults.php" title="View Poll Results"><img src="images/results-but.jpg" alt="View Poll Results" title="View Poll Results" style="border:0px"></a></td>
 																																								
 																						</tr>																																																																																																												
@@ -662,14 +836,6 @@ new TWTR.Widget({
 															</form>
 																													</td>
 													</tr>	
-																																							<tr>
-														<td align="center" valign="top" style="padding-left:0px; padding-top:10px;background-color:#EBEBEB;">
-															<script type="text/javascript"> 
-																show_banners('right');
-															</script><div id="adLocation-2" class="swb"><a href="banner-click.php?bannerID=18" title="Sure Travel" target="_self"><img border="0" src="system-files/sure-travel.gif" width="200" alt="Sure Travel"></a></div>
-														</td>
-													</tr>	
-													<tr><td height="10px"></td></tr>																																																																																																								
 												</tbody></table>
 											</td>
 										</tr>
@@ -680,8 +846,8 @@ new TWTR.Widget({
 					</td>
 				</tr>	
 								<tr>
-					<td align="left" valign="top" colspan="2" width="1100px" style="background-color:#0B2E50; background-image:url(images/footerBG.jpg); background-repeat:no-repeat">
-						<div id="showLinks" style="display:block">
+					<td align="left" valign="top" colspan="2" width="1100px" style="background-color:#0B2E50; background-image:url(images/footerBG-SABC.jpg); background-repeat:no-repeat">
+						<div id="showLinks" style="display:none">
 						<table cellpadding="0" cellspacing="0" border="0" width="100%" style="height:209px;">
 							<tbody><tr>
 								<td colspan="15" align="left" valign="top" style="padding-top:21px; padding-left:16px"><span class="white">QUICK LINKS</span>&nbsp;&nbsp;&nbsp;<a href="javascript:;" onclick="javascript:quickLinks(0);" title="Hide Billing Links"><img src="images/hide-quick-links.gif" border="0" alt="Top Billing Links" title="Top Billing Links"></a></td>
@@ -765,6 +931,16 @@ new TWTR.Widget({
 																								<a href="presenters/voice-over-artists.html" class="footerLinks" title="Voice over Artist ">› Voice over Artist</a>
 																							</td>
 										</tr>		
+																	<tr>
+											<td align="left" valign="top" style="padding-top:5px">
+																								<a href="javascript:;" class="footerLinks" title="Presenter Search 2012 - coming soon">› Presenter Search 2012</a>
+																							</td>
+										</tr>		
+																	<tr>
+											<td align="left" valign="top" style="padding-top:5px">
+																								<a href="presenters/application-form.php" class="footerLinks" title="Application Form - coming soon">› TV Presenter Application</a>
+																							</td>
+										</tr>		
 																</tbody></table>
 								</td>
 																<td height="100px" width="1px" style="background-image:url(images/dotted-line.gif)"></td>
@@ -773,18 +949,6 @@ new TWTR.Widget({
 										<tbody><tr>
 											<td align="left" valign="top"><a href="javascript:;" class="White" title="Magazine">Magazine</a></td>
 										</tr>
-																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="magazine/../magazine/this-months-issue.html" class="footerLinks" title="THIS MONTHS ISSUE">› THIS MONTHS ISSUE</a></td>
-										</tr>		
-																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="magazine/../magazine/subscribe-to-magazine.html" class="footerLinks" title="Subscribe">› Subscribe</a></td>
-										</tr>		
-																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="magazine/../magazine/previous-issues.html" class="footerLinks" title="Previous Issues">› Previous Issues For Sale</a></td>
-										</tr>		
-																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="magazine/diy-magazines.html" class="footerLinks" title="DIY Digital Magazines">› DIY Digital Magazines</a></td>
-										</tr>		
 																	<tr>
 											<td align="left" valign="top" style="padding-top:5px"><a href="magazine/../magazine/previous-downloads.php" class="footerLinks" title="My Digital Magazines">› My Digital Magazines</a></td>
 										</tr>		
@@ -827,13 +991,19 @@ new TWTR.Widget({
 											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/my-city---my-jo-burg-george-kasongo-to-introduce-to-you-his-city.html" class="footerLinks" title="BLOG: My City - My Jo'burg">› BLOG: My City - My Jo'burg</a></td>
 										</tr>		
 																	<tr>
+											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/behind-the-scenes-with-wimpie.html" class="footerLinks" title="BLOG: Behind the scenes with Wimpie">› BLOG: Behind the scenes with Wimpie</a></td>
+										</tr>		
+																	<tr>
 											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/the-beauty-bulletin-weekly-tip.html" class="footerLinks" title="The Beauty Bulletin brings you the latest beauty trends">› Beauty Tip</a></td>
 										</tr>		
 																	<tr>
 											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/the-beauty-bulletin--get-the-celeb-look.html" class="footerLinks" title="The Beauty Bulletin: Get the Celeb Look">› Get the Celeb Beauty Look</a></td>
 										</tr>		
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/decor-tips.html" class="footerLinks" title="Décor Tips">› Décor Tips</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/decor-tips.html" class="footerLinks" title="DECOR: Tips">› DECOR: Tips</a></td>
+										</tr>		
+																	<tr>
+											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/decor-houses.html" class="footerLinks" title="DECOR Houses">› DECOR Houses</a></td>
 										</tr>		
 																	<tr>
 											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/the-pinotage-guide.html" class="footerLinks" title="Entertainment Tips">› Entertainment Tips</a></td>
@@ -842,7 +1012,7 @@ new TWTR.Widget({
 											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/travel.html" class="footerLinks" title="Travel">› Travel</a></td>
 										</tr>		
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="javascript:;" class="footerLinks" title="Suppliers Guide - coming soon">› Suppliers Guide</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="lifestyle/decor--houses.html" class="footerLinks" title="Suppliers Guide">› Suppliers Guide</a></td>
 										</tr>		
 																							</tbody></table>
 								</td>
@@ -887,19 +1057,19 @@ new TWTR.Widget({
 											<td align="left" valign="top"><a href="javascript:;" class="White" title="Downloads, Celebrity Interviews, Fan Pages and more.">Bonus Features</a></td>
 										</tr>
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/audition-videos.php" class="footerLinks" title="Presenter Auditions">› Presenter Auditions</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/audition-videos.php" class="footerLinks" title="Presenter Auditions 2010">› Presenter Auditions 2010</a></td>
 										</tr>		
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/top-billing-presenter-search-finalists.html" class="footerLinks" title="Top Billing presenter Search top 14 finalists">› Presenter Search Top 14</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/top-billing-presenter-search-finalists.html" class="footerLinks" title="Top Billing presenter Search top 14 finalists">› Presenter Search 2010 Top 14</a></td>
 										</tr>		
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/auditions.php" class="footerLinks" title="Audition Videos">› Audition Videos</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/auditions.php" class="footerLinks" title="Audition Videos 2010">› Audition Videos 2010</a></td>
 										</tr>		
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/presenter-search-judges-profiles.html" class="footerLinks" title="Presenter Search - Judges' Profiles">› Presenter Search - Judges' Profiles</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/presenter-search-judges-profiles.html" class="footerLinks" title="Presenter Search 2010- Judges' Profiles">› Presenter Search 2010- Judges' Profiles</a></td>
 										</tr>		
 																	<tr>
-											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/presenter-search-auditions.html" class="footerLinks" title="Presenter Search, Audition Pictures Cape Town">› Presenter Search, Audition Pictures Cape Town</a></td>
+											<td align="left" valign="top" style="padding-top:5px"><a href="bonus-features/presenter-search-auditions.html" class="footerLinks" title="Presenter Search 2010, Audition Pictures">› Presenter Search 2010, Audition Pictures</a></td>
 										</tr>		
 																	<tr>
 											<td align="left" valign="top" style="padding-top:5px"><a href="javascript:;" class="footerLinks" title="Celebrity Interviews - coming soon">› Celebrity Interviews</a></td>
@@ -951,6 +1121,9 @@ new TWTR.Widget({
 																	<tr>
 											<td align="left" valign="top" style="padding-top:5px"><a href="contact-us/interview-with-patience-stevens.html" class="footerLinks" title="Interview with Patience Stevens ">› Interview with Patience Stevens</a></td>
 										</tr>		
+																	<tr>
+											<td align="left" valign="top" style="padding-top:5px"><a href="contact-us/top-billing-careers.html" class="footerLinks" title="Careers">› Careers</a></td>
+										</tr>		
 																							</tbody></table>
 								</td>
 																						</tr>
@@ -959,15 +1132,104 @@ new TWTR.Widget({
 							</tr>
 						</tbody></table>
 						</div>
-						<div id="hideLinks" style="display:none">
+						<div id="hideLinks" style="display:block">
 						<table cellpadding="0" cellspacing="0" border="0" width="100%" style="height:60px;">
 							<tbody><tr>
-								<td colspan="15" align="left" valign="top" style="padding-top:21px; padding-left:16px"><span class="white">QUICK LINKS</span>&nbsp;&nbsp;&nbsp;<a href="javascript:;" onclick="javascript:quickLinks(1);" title="Show Top Billing Links"><img src="images/hide-quick-links.gif" border="0" alt="Top Billing Links" title="Top Billing Links"></a></td>
+								<td colspan="15" align="left" valign="top" style="padding-top:21px; padding-left:16px"><span class="white">QUICK LINKS</span>&nbsp;&nbsp;&nbsp;<a href="javascript:;" onclick="javascript:quickLinks(1);" title="Show Top Billing Links"><img src="images/show-quick-links.gif" border="0" alt="Top Billing Links" title="Top Billing Links"></a></td>
 							</tr>
 						</tbody></table>
 						</div>
 					</td>
 				</tr>
+				<tr>
+					<td colspan="2" bgcolor="#DEDEDE" style="padding:15px" align="left">
+						<div id="explore-footer">
+							<div id="explore-outer">
+								<div id="explore-topbar">
+									<h4 class="footBigW"><span>EXPLORE THE SABC</span></h4>
+								</div>
+							</div>
+				        <table class="arrow" width="100%" cellpadding="3" cellspacing="7">
+				               <tbody><tr class="odd">
+				                 <td width="14%" style="padding-left:15px"><b><a href="SABCHOME" title="HOME" class="sabcBLC"><span class="blc"><strong>Home</strong></span></a></b></td>
+				                 <td width="14%"><p>&nbsp;</p></td>
+				                 <td width="14%"><p>&nbsp;</p></td>
+				                 <td width="14%"><p>&nbsp;</p></td>
+				
+				                 <td width="14%"><p>&nbsp;</p></td>
+				            	 <td width="14%"><p>&nbsp;</p></td>
+				                 <td width="14%"><p>&nbsp;</p></td>
+				               </tr>
+				                <tr class="odd">
+				                 <td width="14%" style="padding-left:15px"><a href="http://www.sabcmobile.co.za/" title="MOBILE" target="_blank" class="sabcBLC">Mobile</a></td>
+				                 <td width="14%"><a href="http://www.sabcnews.co.za" title="NEWS" class="sabcBLC">News</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCTVLICENCES" title="TVLICENCE" class="sabcBLC">TV Licences</a></td>
+				
+				                 <td width="14%"><a href="http://www.sabc1.co.za/" title="SABC1" class="sabcBLC">SABC1</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/dtt" title="DTT" class="sabcBLC">DTT</a></td>
+				            	 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/5fm" title="5FM" class="sabcBLC">5 FM</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/metrofm" title="METRO FM" class="sabcBLC">Metro FM</a></td>
+				               </tr>
+				                <tr class="odd">
+				                 <td width="14%" style="padding-left:15px"><a href="SABCABOUT" title="ABOUT" class="sabcBLC">About</a></td>
+				
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCSPORT" title="SPORT" class="sabcBLC">Sport</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCTV" title="TV" class="sabcBLC">TV</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/sabc2" title="SABC2" class="sabcBLC">SABC2</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/weather" title="WEATHER" class="sabcBLC">Weather</a></td>
+				            	 <td width="14%"><a href="http://www.sabc.co.za/rsg" title="RSG" class="sabcBLC">RSG</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/radioguide" title="Radio guide" class="sabcBLC">Radio Guide</a></td>
+				
+				               </tr>
+				                <tr class="odd">
+				                 <td width="14%" style="padding-left:15px"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCBIZINFO" title="ADVERTISE" class="sabcBLC">Advertise</a></td>
+				                 <td width="14%"><a href="http://www.sabceducation.co.za/" title="EDUCATION" class="sabcBLC">Education</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/tvguide" title="TV GUIDE" class="sabcBLC">TV Guide</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/SABC3" title="SABC3" class="sabcBLC">SABC3</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCRADIO" title="RADIO" class="sabcBLC">Radio</a></td>
+				
+				            	 <td width="14%"><a href="http://www.ukhozifm.co.za/portal/site/ukhozifm/" title="UKHOZI FM" class="sabcBLC">Ukhozi FM</a></td>
+				                 <td width="14%"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCTECHNOLOGY" title="TECHNLOGY" class="sabcBLC">Technology</a></td>
+				               </tr>
+				             </tbody></table><br>
+				  		</div>
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#000000" colspan="2">
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td width="350px" style="padding:15px" align="left">
+									<img src="images/sabc_footlogo.jpg" border="0" alt="SABC Logo" title="SABC"><br>
+							      	<span class="sabcW">Broadcasting for Total Citizen Empowerment</span>
+								</td>
+								<td width="450px" align="center">
+							    	<table height="30px" width="450px" border="0" align="center">
+							        	<tbody>
+							            	<tr>
+							                     <td width="150px" style="padding-left:55px" align="left"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCABOUT" title="About the SABC" class="sabc">About the SABC</a></td>
+							                     <td width="130px" align="left"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCCONTACTUS" title="Contact Us" class="sabc">Contact Us</a></td>
+							                	 <td width="140px" align="left"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCCITINFOJOBS" title="Jobs" class="sabc">Jobs</a></td>
+							                </tr>
+											<tr>
+							                     <td style="padding-left:55px" align="left"><a href="http://www.sabc.co.za/wps/portal/SABC/SABCBIZINFO" title="Advertise" class="sabc">Advertise</a></td>
+							                     <td align="left"><a href="http://www.sabc.co.za/wps/portal/SABC/disclaimer" title="Disclaimer" class="sabc">Disclaimer</a></td>
+							                     <td align="left"><a href="http://www.sabc.co.za/wps/portal/SABC/sitemap" title="Site Map" class="sabc">Site Map</a></td>
+							                </tr>
+							             </tbody>
+							            </table>
+								</td>
+								<td width="350px" align="right" style="padding-right:15px">
+									 <a href="http://www.dmma.co.za/" target="_blank"> <img height="46" border="0" width="131" title="DMMA" alt="DMMA Logo" src="images/DMMA_logo.jpg"></a>     
+									 <br class="clear">
+									 <br>
+									 <span class="sabcW">SABC © 2011</span>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr><td height="1px" colspan="2" bgcolor="#000000"></td></tr>
 				<tr>
 					<td align="center" valign="top" colspan="2" height="28px" width="1100px" style="background-color:#0F0F1D;">
 						<table cellpadding="0" cellspacing="0" border="0">
@@ -985,6 +1247,33 @@ new TWTR.Widget({
 		</td>
 	</tr>
 </tbody></table>
+<div id="divBIHT1" style="display:none"><!-- begin ad tag -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=728x90;ord=200271353657262?"></script>
+<noscript><a href="https://ad.doubleclick.net/jump/Topbilling/;sz=728x90;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/Topbilling/;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></div>
+<div id="divBIHT2" style="display:none"><!-- begin ad tag -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=300x250;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/Topbilling/;dcopt=ist;sz=300x250;ord=136028285530851.44?"></script>
+<noscript><a href="https://ad.doubleclick.net/jump/Topbilling/;sz=300x250;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/Topbilling/;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></div>
+<script type="text/javascript">
+	dispBannerTopSABC(0);
+</script>
+<script type="text/javascript">
+	dispBannerRightSABC(0);
+</script>
+<script type="text/javascript">
+	dispBannerBot(0);
+</script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 		<script type="text/javascript">
@@ -999,6 +1288,7 @@ new TWTR.Widget({
 				document.getElementById('fb-root').appendChild(e);
 			}());
 		</script>
+<div id="qRes"></div>
 
 
 </body></html>
