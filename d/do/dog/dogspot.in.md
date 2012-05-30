@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215084456id_/http%3A//www.dogspot.in/shop/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530183655id_/http%3A//www.dogspot.in/new/shop/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DogSpot
 
@@ -19,3 +19,10 @@ PetsGlam Services Pvt Ltd
 Gurgaon 122017, Haryana, India  
 Telephone No.: +91-9818809553  
 E-Mail ID: contact@dogspot.in
+
+  
+
+
+Views and Articles are not endorsed by DogSpot.in. DogSpot does not assume responsibility or liability for any Comment or for any claims, damages, or losses resulting from any use of the Site or the materials contained therein. All contributions and Articles are owned by DogSpot.in. 
+
+[](http://www.junglee.com/mn/search/junglee/ref=seller_badge_Dogspot&sr_nr_p_6_1?rh=n%3A683871031%2Cn%3A!683872031%2Cn%3A801743031%2Cp_6%3AA2WQ2B9BVSXPGW&bbn=801743031&ie=UTF8&qid=1335330304&rnid=905183031) [](http://www.facebook.com/indogspot)[](http://twitter.com/#!/indogspot)
