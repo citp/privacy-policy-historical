@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dezyre.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126104226id_/http%3A//www.dezyre.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezyre.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530200746id_/http%3A//www.dezyre.com/index/privacy) for the most accurate reproduction.*
 
 # DeZyre.com: Privacy Policy
 
@@ -44,4 +44,4 @@ This site provides for message boards. Please remember that any information that
 
 #### Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at privacy@dezyre.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at contact@dezyre.com 
