@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224143016id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530060234id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vivid Seats
 
@@ -6,7 +6,7 @@
 
 Vivid Seats is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site located at www.vividseats.com. In this policy, "personal and account information" means your name, company name, account number, address, telephone number, and e-mail address plus other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, and "we" and "us" means Vivid Seats.
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.vividseats.com&sealid=101)Vivid Seats Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 866-848-8499, or via email at customersupport@vividseats.com. If you are not satisfied with our response you can contact TRUSTe here.
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.vividseats.com&sealid=101)Vivid Seats Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 866-848-8499, or via email at customersupport@vividseats.com. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -86,6 +86,14 @@ We may also analyze and act upon your personal and account information as part o
 
 If you become our customer, we may send you updates on important information about our company and services.
 
+### Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at customerservice@vividseats.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### Social Media (Features) and Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Will my personal and account information be provided to any other party?
 
 We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Your personal and account information will never be sold, shared, rented or traded to third parties except under the following circumstances:
@@ -118,4 +126,4 @@ You can reach us by email customerservice@vividseats.com or you can call us toll
 Vivid Seats Ltd. 344 N. Ogden Ave. 4th Floor Chicago, IL 60607  
 Email: customersupport@vividseats.com
 
-Last updated on June 17, 2011 
+Last updated on April 16, 2012
