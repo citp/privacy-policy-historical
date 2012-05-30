@@ -1,18 +1,31 @@
-> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116190251id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182102id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
 ## Privacy and security statement
 
-### Respecting Your privacy
+### Respecting your privacy
 
-The Department of Transport and Main Roads is committed to protecting user privacy. We understand and appreciate that visitors to, and users of, this website, are concerned about their privacy and the confidentiality and security of information they provide to us.
+The _Information Privacy Act 2009_ (IP Act) regulates the way in which Queensland government agencies must manage personal information.  It addresses concerns about any unauthorised use of this information and gives individuals a right of access to personal information held about them. 
 
-On 1 July 2009, the Information Privacy Act 2009 came into effect which impacts on all state government agencies, including the Department of Transport and Main Roads (DTMR). To download a copy of this Act, please click on [Information Privacy Act 2009 (PDF, 845 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
+Like other Queensland government agencies, the Department of Transport and Main Roads (TMR) is required to comply with eleven (11) Information Privacy Principles (IPPs) contained in the IP Act. These IPPs set out how personal information must be collected, stored, used and disclosed.
+
+The IP Act defines personal information as:
+
+> _..”information or an opinion, including information or an opinion forming part of a database, whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.”_
+
+For information to be personal information two criteria must be satisfied.
+
+  1. It must be about a living individual. 
+  2. The individual’s identity must be apparent or reasonably ascertainable from the information.
+
+
+
+To download a copy of this Act, please click on [Information Privacy Act 2009 (PDF, 845 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
 ### Your personal information
 
-Details about the personal information held by DTMR are outlined in the Department of Transport and Main Roads [Information Privacy Plan (PDF, 359.6 KB)](https://web.archive.org/~/media/df56da07-7d06-47cb-b7aa-01dcf0c50982/informationprivacyplan.pdf). The plan details the steps this department will take to address its obligations under the Information Privacy Act 2009. 
+Details about the personal information held by DTMR are outlined in the Department of Transport and Main Roads [Information Privacy Plan (PDF, 359 KB)](https://web.archive.org/~/media/df56da07-7d06-47cb-b7aa-01dcf0c50982/informationprivacyplan.pdf). The plan details the steps this department will take to address its obligations under the Information Privacy Act 2009. 
 
 ### When using online services
 
@@ -44,6 +57,34 @@ Your name and address details will not be added to a mailing list nor will we di
 This site does not provide facilities for securely transmitting information across the internet. We recognise that there can be risks with transmitting information across the internet.
 
 This site contains links to non-Queensland Government websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of such web sites.
+
+### Privacy Complaints
+
+If an individual believes that TMR has not dealt with their personal information in accordance with the IPPs contained in the IP Act, they may lodge an information privacy complaint. 
+
+A privacy complaint is a complaint by an individual about an act or practice of a department in relation to the individual’s personal information. 
+
+Privacy complaints made to TMR must:
+
+  * be written; 
+  * state an address of the complainant to which notices may be forwarded under the IP Act; 
+  * provide certified identification; and 
+  * give particulars of the act or practice the subject of the complaint.
+
+
+
+Privacy complaints need to be marked **Private and Confidential** and forwarded to:
+
+Post: | The Privacy Contact Officer   
+RTI & Privacy Unit   
+Legal and Prosecution Services Branch   
+Department of Transport and Main Roads   
+GPO Box 1549   
+Brisbane Qld 4001  
+---|---  
+Email: | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
+  
+or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/Contact-us.aspx).
 
 ### Contact
 
