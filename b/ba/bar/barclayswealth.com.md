@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214633id_/http%3A//www.barclayswealth.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531005650id_/http%3A//www.barclayswealth.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Barclays Wealth
+# Privacy Policy - Barclays
 
 >
 
@@ -27,61 +27,48 @@ This policy contains the following sub-headings:
 
 ###  Cookies 
 
-With regards to the new requirements on Cookies following the revision of the e-Privacy Directive, Barclays is working towards implementing the new requirements in line with guidance from the Information Commissioner's Office. 
+**What is a cookie?**
 
-To make using our Site as straightforward as possible and to improve the service we offer you, we use cookies. 
+Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to these websites – or visit other websites that use the same cookies – they recognise these cookies and therefore your browsing device.  
+Cookies help websites to do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences and generally improving your browsing experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. 
 
-**What are Cookies?**
+**What types of cookies do we use?**
 
-Cookies are text files that web servers can store on your computer's hard drive when you visit a website. They allow the server to recognise you when you revisit. There are two main types: 
+The type of cookies used on this website can be put into one of four categories based on the International Chamber of Commerce (ICC) guide for cookie categories: Strictly Necessary, Performance, Functionality and Targeting. 
 
-  * **Transient (or per-session) cookies**  
-These only exist for your site visit and are deleted on exit. They recognise you as you move between pages, for example, recording items added to an online shopping basket. These cookies also help maintain security. 
-  * **Persistent (or permanent) cookies**  
-These stay on your machine until expiry or deletion. Many are built with automatic deletion dates to help ensure your hard drive doesn't get overloaded. These cookies often store and re-enter your log-in information, so you don't need to remember membership details. 
+**Strictly Necessary Cookies** – These cookies are essential in order to enable you to navigate our websites and to access secure content. Without these cookies, services you have asked for, such as internet banking facilities, cannot be provided. These cookies don’t gather information about you for profiling or targeted marketing purposes. 
 
+This category cannot be disabled using the cookies preference selection on this website. 
 
+**Performance Cookies** – These cookies collect anonymous information about how visitors use our websites, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect personally identifiable information; the information collected is anonymous and is only used to improve the performance of our websites. 
 
-We use both types of cookie. 
+These cookies are not used to target you with online advertising and without these cookies we cannot learn how our website is performing, and make relevant enhancements that could help improve your experience when using our online services. 
 
-Additionally, cookies can be first or third party cookies. First party cookies are owned & created by the website you're viewing- in this case by Barclays Bank plc. Third party cookies are owned & created by an independent company, usually a company providing a service to the website owners. In our case, third party cookies provided from this Site are still subject to the provisions set out below. 
+**Functionality Cookies** – These cookies allow our websites to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you. These cookies can also be used to remember customisation changes that you may make (for example text size or fonts). They may also be used to provide services you asked for such as watching a video or commenting on a blog. The information these cookies collect is anonymous and cannot be used to track your browsing activity on other websites. 
 
-**What we use cookies for**
+Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience. 
 
-Internet cookies help you do things online, like remembering logon details so you don't have to re-enter them when revisiting a site. 
+**Targeting Cookies** – These cookies gather information about your browsing habits. They remember that you've visited a website and share this information with other organisations such as advertisers. They do this in order to provide you with adverts that are more relevant to you and your interests. Although these cookies can track your visits to other websites, they don’t usually know who you are. 
 
-We use cookies to: 
+Disabling these cookies will not stop online adverts from being displayed to you. However without these cookies, online adverts you encounter may be less relevant to you and your interests. 
 
-  1. Gather customer journey information across our sites 
-  2. Ensure your privacy in our secure sites 
-  3. Store login details for our secure sites 
-  4. Temporarily store details input into our calculators, tools, illustrations and demonstrations 
-  5. Store details of your marketing, product and business unit preferences to improve our targeting and enhance your journey through our sites 
-  6. Evaluate our sites' advertising and promotional effectiveness. 
+**Setting your cookie preferences**
 
+You can control how cookies are placed on your device either through the ‘Cookies’ link near the bottom of the page or from within your browser. 
 
+**What happens to cookies that have been downloaded in the past?**
 
-We use both our own (first party) and partner companies' (third party) cookies to support these activities. 
+Once you've disabled a cookie category we'll stop using the associated cookies to gather any further information but we may still use information collected previously. You can delete existing cookies from your browser. 
 
-We don't use cookies to track people's Internet usage after leaving our sites. 
+**More information**
 
-**Services requiring enabled cookies**
+Information about cookies: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-Some of our services require cookies in your browser to view and use them and to protect your financial and personal information. 
+Internet Advertising Bureau: [Guide to online advertising and privacy](http://www.youronlinechoices.eu/)
 
-**Changing your cookie settings**
+International Chamber of Commerce United Kingdom: ICC UK [cookie guide](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf)
 
-You are not obliged to accept cookies that we send to you and you can in fact modify your browser so that it will not accept cookies. To enable or disable cookies, follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). Alternatively, an [external resource](http://www.allaboutcookies.org/manage-cookies/ "Information about cookies") is available, providing specific information about cookies and how to manage them to suit your preferences. 
-
-Please note that should you choose to set your browser to disable cookies, you may not be able to access secure areas of this Site, for example any online accounts you may hold. 
-
-**Other information relating to your computer**
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This information is statistical data about our Site users' browsing actions and patterns. 
-
-**Secure online services**
-
-Any secure online services you subscribe to with us may use cookies to enable information about you and your preferences to be stored and to prevent unauthorised access to your services and information. Cookies must usually be accepted in such circumstances - without them we cannot ensure your information is secure (and people rejecting cookies can't use the services). 
+All of the external sites you can reach through this website are here to help you. However, we must tell you that we accept no responsibility or liability for the content, accuracy or availability of any external site you may encounter. 
 
 Back to top
 
@@ -128,7 +115,7 @@ Back to top
 
 ###  Intellectual Property 
 
-The entire content of the Site is subject to copyright with all rights reserved and it may only be stored, held or used for your personal use only. You may not download (all or in part) for non-personal use or otherwise reproduce, transmit or modify the Site without our prior permission. However, you may print out part or all of the Site for your own personal use. These permissions are revocable by us at any time. Barclays and Barclays Wealth are registered trade marks owned by Barclays Bank PLC. You are granted a non-exclusive licence of those rights in order to view this site on a non-commercial basis only, revocable at any time. 
+The entire content of the Site is subject to copyright with all rights reserved and it may only be stored, held or used for your personal use only. You may not download (all or in part) for non-personal use or otherwise reproduce, transmit or modify the Site without our prior permission. However, you may print out part or all of the Site for your own personal use. These permissions are revocable by us at any time. Barclays is a registered trade mark owned by Barclays Bank PLC. You are granted a non-exclusive licence of those rights in order to view this site on a non-commercial basis only, revocable at any time. 
 
 Back to top
 
@@ -148,12 +135,12 @@ Back to top
 
 ###  Your Queries 
 
-If you have any queries regarding privacy issues then please [email us](mailto:priv.acy@barclayswealth.com), or write to us at Barclays Wealth, Data Protection Officer, 1 Churchill Place, Risk – Level 16, Canary Wharf, London, United Kingdom E14 5HP. 
+If you have any queries regarding privacy issues then please [email us](mailto:priv.acy@barclayswealth.com), or write to us at Barclays, Data Protection Officer, 1 Churchill Place, Risk – Level 16, Canary Wharf, London, United Kingdom E14 5HP. 
 
 Back to top
 
 ###  External Links 
 
-All of the external sites you can reach through Barclays Wealth Online are here to help you. However, we must tell you that we accept no responsibility or liability for the content, accuracy or availability of any external site you may encounter. 
+All of the external sites you can reach through Barclays Online are here to help you. However, we must tell you that we accept no responsibility or liability for the content, accuracy or availability of any external site you may encounter. 
 
 Back to top
