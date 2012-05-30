@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105100310id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530062034id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,8 @@ If you feel that this site is not following its stated information policy, you m
 
 In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to info[at]allfreelogo.com. 
 
-### [9 Keys to an Effective Logo](https://web.archive.org/article/9-keys-to-an-effective-logo.html "9 Keys to an Effective Logo")
+### [Why is a Logo so Important to Your Business?](https://web.archive.org/article/why-is-a-logo-so-important-to-your-business.html "Why is a Logo so Important to Your Business?")
 
-**Erin Ferree**
+**Anthony Jewell**
 
-The right logo, with the right characteristics, will boost your visibility, credibility and memorablity ? which means more business for you! {[Read Full Article](https://web.archive.org/article/9-keys-to-an-effective-logo.html "9 Keys to an Effective Logo")}
+These are some good questions to ask when you are considering to get a logo design or already have a logo for your business. See a logo speaks volume about your company, it right off the bat tells your "future possible client" if you are reliable and instils trust in them. Although how good your service is matters, how you present your company is what will win you their trust and in the end win them as a client. {[Read Full Article](https://web.archive.org/article/why-is-a-logo-so-important-to-your-business.html "Why is a Logo so Important to Your Business?")}
