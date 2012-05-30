@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesnewsworld.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225014909id_/http%3A//timesnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnewsworld.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530233810id_/http%3A//timesnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Times News World Page
+# Privacy Policy | Times News World
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
