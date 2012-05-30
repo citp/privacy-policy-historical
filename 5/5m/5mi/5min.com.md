@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5min.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217024213id_/http%3A//www.5min.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5min.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530230446id_/http%3A//www.5min.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # 5min - Life Videopedia
 
