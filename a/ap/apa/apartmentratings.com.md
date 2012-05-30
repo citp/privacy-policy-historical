@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119054443id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.apartmentratings.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530104522id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.apartmentratings.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
