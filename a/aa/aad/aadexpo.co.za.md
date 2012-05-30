@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadexpo.co.za privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201072721id_/http%3A//www.aadexpo.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadexpo.co.za privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530074727id_/http%3A//www.aadexpo.co.za/privacy) for the most accurate reproduction.*
 
 # :: AAD 2012 :: Africa Aerospace & Defence 2012
 
