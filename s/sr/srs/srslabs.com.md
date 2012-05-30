@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srslabs.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108014507id_/http%3A//srslabs.mobi/%3Frequest%3D/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srslabs.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530052925id_/http%3A//www.srslabs.mobi/%3Frequest%3D/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,4 +31,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 If applicable, you can access all your personally identifiable information that we collect online and maintain by logging into your account. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please [contact](http://www.srslabs.mobi/contact) us.
+Should you have other questions or concerns about these privacy policies, please [contact](http://srslabs.mobi/contact) us.
