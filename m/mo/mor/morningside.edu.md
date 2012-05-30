@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningside.edu privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126223009id_/http%3A//www.morningside.edu/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningside.edu privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530083658id_/http%3A//www.morningside.edu/privacypolicy.cfm) for the most accurate reproduction.*
 
 # We respect your privacy at Morningside College.
 
