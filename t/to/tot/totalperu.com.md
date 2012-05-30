@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127142620id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530020138id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Peru Expat and Travel
 
 | | 
+
+* * *
 
 * * *
 
@@ -32,15 +34,45 @@ This website offers a number of social networking / publishing features which ma
 
 **totalperu.com  
 Peru Expat and Travel  
+General**
+
+This is a social networking website. With very few exception, ie: where you enter your email address to register or login, all of the information you enter on our site will be published on out site. This means that the search engines bots will read and indexed what you publish. Additionally people and other bots from anywhere in the world may also read and/or copy whatever you publish. Peru Expat and Travel has no control over what people or bots access the page and/or what the people or bots do with the information.
+
+For that reason it is not advisable to enter your email address except for your site registration and to login. Additionally it is not advisable to publish phone numbers, addresses, or other personally identifiable information. Even if you delete an entry from our site, we have no control over what those who may have copied the information does with it.
+
+* * *
+
+**totalperu.com  
+Peru Expat and Travel  
+Commercial Posting**
+
+The purpose of Peru Expat and Travel is to be a topical social network. That means the free and open exchange of information, opinions, recommendations, experiences, etc related to the topic of the site. This of course, also includes commercial postings, ie: posting information and links to your products and services.
+
+However, we are in the processing of limiting the commercial posting to those who also participate socially in an active manner. Some sections require you to "earn points" before you can use them. In other cases postings and/or links will be deleted if we feel their are unsuitable, ie: one posts with a link to your website. For our directory submissions, we require you to complete an interview before we'll review your submission. In cases of abuse, ie: repeating commercial postings without any social participation or off-topic commercials posts, your account and access to our network of sites may be disabled.
+
+The cornerstone of our new policy on social participation is for you to build a "expert page" (see Main Menu / Experts) where you can make a comprehensive and interesting page for your business, services, website, etc. You don't need a website to participate, and if you have one you are welcome (and encouraged) to link to it. It is recommended you create an "expert page" as the starting point for your participation.
+
+All of your social interaction will be automatically linked to your "expert page", leaving you to simply participate socially and build interest in your abilities, skills, interests, experiences and develop friendships that will lead you to be the other members think of when they need your product or service.
+
+Additionally, anyone who engages in commercial posting, through our experts page or otherwise, may be emailed with directly relevant emails. ie: if the moderator deletes a commercial post, if a directory submission is approved, etc. Additionally, any commercial posting, not made within the "experts page", ie: a forum post, profile, etc it may be turn into an expert page by the moderator and you will be notified by email and encouraged to edit your page.
+
+Please do not enter URLs, addresses, phone numbers, email addresses, etc for the titles of your posts, profile name, etc.
+
+* * *
+
+**HOST##  
+Peru Expat and Travel  
 Non-Registered Users**
 
 * * *
 
-If you participate in any portion of our website we will prompt you for your email address. We do not publish your emails as provided in the specific prompt for it. If you include your email address in your profile, message text or any similar location it will be published along with your message and we have no control over who sees it or how it is used.
+> If you participate in any portion of our website we will prompt you for your email address. We do not publish your emails as provided in the specific prompt for it. If you include your email address in your profile, message text or any similar location it will be published along with your message and we have no control over who sees it or how it is used.
 
 Additionally, as a non-registered user your IP address is usually published with what ever content you submit.
 
 We highly recommend you chose to participate as a  registered user and do not put contact information directly within your messages. We are not currently accepting posts from unregistered users.
+
+Please note at this time it is required that all users register before they can participate.
 
 * * *
 
