@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130230954id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530054840id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Orion Telescopes: Privacy
+# Privacy
 
 ## Privacy Policy
 
@@ -37,6 +37,8 @@ Whenever you contact us in this fashion, please provide us with your exact name 
 If you are a customer of our Site, you may change your email information or your postal address information by sending an email to us as follows:
 
 > **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-676-1343
+
+We may attempt to verify your order with the preCharge global merchant network. preCharge does not approve or decline orders, however does provide a review system based on a variety of information provided in the ordering processing by which we may use to consider your order.
 
 FOR YOUR OWN PROTECTION, NEVER SEND CREDIT CARD INFORMATION VIA EMAIL. WE CANNOT GUARANTEE THE SECURITY OF EMAIL TRANSMISSIONS AND THUS CANNOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.
 
