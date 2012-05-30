@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eznettools.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209053842id_/http%3A//www.eznettools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eznettools.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530054515id_/http%3A//www.eznettools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EZ-NetTools - Bid Proposal Online Presenter
 
