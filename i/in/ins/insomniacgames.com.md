@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insomniacgames.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009151417id_/http%3A//www.insomniacgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insomniacgames.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531015445id_/http%3A//www.insomniacgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Insomniac Games
 
