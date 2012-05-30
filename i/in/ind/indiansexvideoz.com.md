@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the indiansexvideoz.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118143058id_/http%3A//tour.indiansexvideoz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexvideoz.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530205806id_/http%3A//tour.indiansexvideoz.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Our registered postal address is,
-
-Online Net Media UK Ltd  
-Station Road, Horsforth  
-Leeds, LS17 6PA  
-United Kingdom 
+YellowPlum Ltd.  
+Stasikratous, 16,   
+1065, Nicosia  
+Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
 
@@ -31,7 +29,7 @@ If a subscriber sends any personal communication or correspondence, by any means
 
 The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
 
-You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>.
+You may obtain further information about "cookies" and how they function at: [ http://www.cookiecentral.com/](http://www.cookiecentral.com/).
 
  _ **Use of Personal Subscriber Information.**_
 
@@ -59,7 +57,9 @@ There may be occasions when a subscriber will be presented with special offers e
 
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
- _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [support@247mg.com](mailto:support@247mg.com) , clearly stating that the subscriber has revoked consent to receive any future offers. _ **Data Controller.**_
+ _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [support@247mg.com](mailto:support@247mg.com) , clearly stating that the subscriber has revoked consent to receive any future offers.
+
+This website (the "site") is licensed and owned by  Yellowplum Ltd Stasikratous, 16, 1065, Nicosia, Cyprus.  We don't accept any post at this address, if you need to contact us you can only contact us by E-Mail: [support@247mg.com](mailto:support@247mg.com) _**Data Controller.**_
 
 The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [support@247mg.com](mailto:support@247mg.com) . The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the site.
 
@@ -90,4 +90,4 @@ All Sales Are Final!
 
 We 
 
-_will not_ issue refunds for any website membership you have purchased. Therefore, we are making our refund policy clear up front: _There will be no refunds for any reason_
+_will not_ issue refunds for any website membership you have purchased after transaction goes, We will refund if there is any issue with the website access. Therefore, we are making our refund policy clear up front: _There will be no refunds for any reason_
