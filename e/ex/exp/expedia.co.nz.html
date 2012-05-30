@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the expedia.co.nz privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006232827id_/http%3A//www.expedia.co.nz/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expedia.co.nz privacy policy that was archived on 2012-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530024608id_/http%3A//www.expedia.co.nz/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/pubspec/scripts/include/xmlhttp.js"></script>
+<script type="text/javascript" src="/pubspec/scripts/include/xmlhttp.js"></script>
 
-<!-- srvpush 16:28:27(:751) -->
+<!-- srvpush 19:46:08(:255) -->
 
 
 
@@ -808,6 +808,8 @@ function WriteCookie(c)
 
 
 
+
+
 	
 	
 	
@@ -980,9 +982,11 @@ function WriteCookie(c)
 
 	
 	<!-- feed header -->
-	
+	<!--ActivityId:7452fe12-fe51-4475-ab93-7f357caed34c;-->
 
-		<script language="javascript" type="text/javascript" src="/static/default/default/scripts/popunder.js?v=release-2011-10-r1.1.282928"></script>
+
+<script src="/static/header/headUtil.js?v=release-2012-05-r4-72-464761"></script>
+<!-- 0 ms -->
 <div itemscope="" itemtype="http://schema.org/Product" id="xp-hdr" style="float:left;">
 	<script type="text/javascript">
 		if (typeof xp  === "undefined"){
@@ -1015,19 +1019,22 @@ function WriteCookie(c)
 
 		xp.namespace("xp.nav.event");
 		xp.nav.event.onDOMReady = function(callback) {
+            var callbackWrapper = function() {
+                setTimeout(callback, 0);
+            };
 			if (window.addEventListener){
-		  		window.addEventListener('load', callback, false); 
+		  		window.addEventListener('load', callbackWrapper, false);
 			}else if (window.attachEvent){
-				window.attachEvent('onload', callback);
+				window.attachEvent('onload', callbackWrapper);
 			}else {
 			 	if ( window.onload != null ) {
 	      			var _onload = window.onload;
 	      			window.onload = function ( e ) {
 	        			_onload(e);
-	        			window[callback]();
+	        			window[callbackWrapper]();
 	      			};
 	    		} else
-	      			window.onload = callback;
+	      			window.onload = callbackWrapper;
 			}
 		}
 		
@@ -1049,7 +1056,9 @@ function WriteCookie(c)
 	              
 	        /* logo */    
 	        #xp-hdr .xp-hdr-logo {position:absolute; float:left;display: inline;no-repeat;margin: 21px 0 0 14px; padding:0;}
+			#xp-hdr .xp-thhdr-logo {position:absolute; float:left;display: inline;no-repeat;margin: 15px 0 0 14px; padding:0;}
 	        #xp-hdr .xp-hdr-logo a img {border: none;}
+			#xp-hdr .xp-thhdr-logo a img {border: none;}
 	      
 	      	/* service links */
 	        #xp-hdr .xp-hdr-svc {float:right;margin:7px 8px 0 0;}
@@ -1111,7 +1120,8 @@ function WriteCookie(c)
 			#nav-woodpecker {border-style: solid; border-color: black; height: 32px; background-color: rgb(255, 0, 0); text-align: center; 
 				 vertical-align: middle; font-size: 22px; color: white;font-style: normal;line-height:120%;}
 			#nav-woodpecker .nav-woodpecker-b{font-weight: bold; text-decoration: underline;}
-			
+			#nav-tool-travelalert { color: #cc0000 !important; }
+			#nav-tool-travelalert:hover, #nav-tool-travelalert:active { color: #ff2323 !important; }
 
 			
 	    </style>
@@ -1123,31 +1133,37 @@ function WriteCookie(c)
 	
 		
 
+	    <script src="/static/default/default/scripts/exp/core/ChannelTracking.js?v=release-2012-05-r4-72-464761"></script>
+<!-- 0 ms -->
 
-	    		<script language="javascript" type="text/javascript" src="/static/default/default/scripts/exp/core/ChannelTracking.js?v=1.1&amp;v=release-2011-10-r1.1.282928"></script>
+
+
 			
 
 	    <div class="xp-hdr-width xp-hdr-top xp-hsprite clearfix"> 
 	         <div id="nav-head-logo" class="xp-hdr-logo">
-	             <a title="expedia.co.nz" href="http://www.expedia.co.nz/" onclick="window.top.location.href='http://www.expedia.co.nz/?rfrr=Head:Nav:Multi:Home'; return false;">
-	             <img itemprop="image" src="http://media.expedia.com/media/content/shared/images/navigation/expedia.co.nz.png?v=1" alt="Expedia.co.nz"></a>
-	         </div>    	 
+				<a title="Expedia.co.nz" href="http://www.expedia.co.nz/" onclick="window.top.location.href='http://www.expedia.co.nz/?rfrr=Head:Nav:Multi:Home'; return false;">
+					 <img itemprop="image" src="http://media.expedia.com/media/content/shared/images/navigation/expedia.co.nz.png?v=1" alt="Expedia.co.nz">
+				</a>		 
+	         </div>
+	         <div style="clear: both;"></div>
 	         <div id="nav-head-service" class="xp-hdr-svc">
 	            <ul>
 			
+			
+		                        <li id="nav-tool-welc" class="xp-no-border-right">
+		                            <span class="xp-hdr-bold">Welcome - Already a member?</span>
+		                            [ <a id="nav-tool-signin" rel="nofollow" target="_top" href="http://www.expedia.co.nz/pub/agent.dll?qscr=logi&amp;ussl=1" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:SignIn')">Sign In</a> ]
+		                        </li>
 
-	                        <li id="nav-tool-welc" class="xp-no-border-right">
-	                            <span class="xp-hdr-bold">Welcome - Already a member?</span>  
-	                            [ <a id="nav-tool-signin" rel="nofollow" target="_top" href="http://www.expedia.co.nz/pub/agent.dll?qscr=logi&amp;ussl=1" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:SignIn')">Sign In</a> ]
-	                        </li>
 	                     <li class="">
 	                        
 							<a id="nav-tool-itinerary" rel="nofollow" target="_top" href="http://www.expedia.co.nz/pub/agent.dll?qscr=litn" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:Trips')">
-						
 				
 	                                My Itineraries
 	                         </a>
 	                     </li>
+	                 
 	                 
 						<li class="">
 	                        <a id="nav-tool-account" rel="nofollow" target="_top" href="http://www.expedia.co.nz/pub/agent.dll?qscr=info" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:Profile')">
@@ -1156,15 +1172,16 @@ function WriteCookie(c)
 	                    </li>
 	                 
 	                	<li id="customersupport" class="">
-	                    	<a id="nav-tool-cs" href="#" rel="nofollow" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:CustSupport');javascript:window.open('http://faq.expedia.co.nz/result.aspx?questionId=', 'CustomerSupport', 'scrollbars=yes,resize=no,width=636,height=650');return false;">
+	                    	<a id="nav-tool-cs" href="http://support.expedia.co.nz" target="_blank" rel="nofollow" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:CustSupport');">
+	
 	<span>Customer Support</span>
 </a>
 
 						</li>	                    	
 	                    <li class="xp-no-border-right">
 	                         
-<script language="JavaScript" type="text/javascript" src="http://media.expedia.com/media/content/shared/scripts/external/opinionlab/oo_engine.js?v=1">
-</script>
+<script src="/static/default/default/scripts/external/opinionlab/oo_engine.js?v=release-2012-05-r4-72-464761"></script>
+<!-- 0 ms -->
 
 <a id="nav-tool-feedback" rel="nofollow" target="_top" href="https://secure.opinionlab.com/ccc01/comment_card.asp" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:None:Opinion');OpinionLab.O_LC();return false;">
     Feedback
@@ -1177,28 +1194,25 @@ function WriteCookie(c)
 	                		
 		                </li>  
 
+					
 		                <li class="xp-no-border-right xp-srch-pad">
-<div id="button-facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=www.facebook.com%2Fexpedia&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21&amp;ref=header&amp;locale=en_AU" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe></div>
-<script>xp.nav.event.onDOMReady(function(){document.getElementById('button-facebook').innerHTML='<iframe src="http://www.facebook.com/plugins/like.php?href=www.facebook.com%2Fexpedia&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21&ref=header&locale=en_AU" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>'})</script>
+
+
+<div id="button-facebook"></div>
+<!--[if !(IE 7)]-->
+<script>xp.nav.event.onDOMReady(function(){if (!hasMetaDataSet("ROBOTS", ["NOFACEBOOK"])){document.getElementById('button-facebook').innerHTML='<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fexpedia.co.nz&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>'}})</script>
 		                </li>  
 
-		                <li class="xp-no-border-right xp-srch-zeropad">
-<g:plusone annotation="none" width="90" size="medium"></g:plusone>
-<script>window.___gcfg = {lang: 'en-GB'};xp.nav.event.onDOMReady(function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})</script>
-
-		                </li>  
 
 				</ul>
-				
-				
-				
-				
-				
-				
-				
 	          </div>
-	              <div id="nav-head-ad" class="xp-hdr-ad">	                
-												
+	              <div id="nav-head-ad" class="xp-hdr-ad">	
+			
+				<div style="float: left;  width: 405px;"><img width="405" height="42" border="0" src="http://media.expedia.com/media/content/expaus/images/e3hp/header-ad/tagline.gif"></div>
+				
+				<div id="Banner"></div>
+					
+													
 	              </div> 
 	    </div>    
 	    <div id="tab-navigation" class="xp-hdr-width clearfix xp-hsprite xp-hdr-tab">
@@ -1213,8 +1227,9 @@ function WriteCookie(c)
 		height:32px;width:73px;
 	}
 	
-	.HeaderPhoneNoText {color: #AE5617;font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 12px;padding-left:10px;}
-    .HeaderPhoneNo {color: #003E7E;font-weight: bold;font-family: Arial, Helvetica, sans-serif;font-size: 12px;}
+	.HeaderPhoneNoText {color: #AE5617;font-family: Arial, Helvetica, sans-serif;font-weight: bold;font-size: 13px;padding-left:2px;}
+    .HeaderPhoneNo {color: #003E7E;font-weight: bold;font-family: Arial, Helvetica, sans-serif;font-size: 13px; padding-right:2px;}
+	
 </style>	
 <!--[if IE 6]>
 <style type="text/css">
@@ -1231,17 +1246,17 @@ function WriteCookie(c)
 <a target="_top" title="" href="http://www.expedia.co.nz/Hotels" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Hotels:Hotels' );">
 <span>Hotels</span>
 </a>
+</li><li id="tab-flthotel">
+<a target="_top" title="" href="http://www.expedia.co.nz/Expedia-Holidays" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Package:FltHotel' );">
+<span>Expedia Holidays</span>
+</a>
 </li><li id="tab-flights">
-<a target="_top" title="" href="http://www.expedia.co.nz/cheap-flights.aspx" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Flights:Flights' );">
+<a target="_top" title="" href="http://www.expedia.co.nz/Flights" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Flights:Flights' );">
 <span>Flights</span>
 </a>
-</li><li id="tab-flthotel">
-<a target="_top" title="" href="http://www.expedia.co.nz/holiday-packages.aspx" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Package:FltHotel' );">
-<span>Holiday Packages</span>
-</a>
 </li><li id="tab-cars">
-<a target="_top" title="" href="http://www.expedia.co.nz/car-rentals.aspx" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Cars:Cars' );">
-<span>Car Rental</span>
+<a target="_top" title="" href="http://www.expedia.co.nz/Rental-Cars" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Cars:Cars' );">
+<span>Rental Cars</span>
 </a>
 </li>	
 <li id="tab-insurance">
@@ -1249,7 +1264,7 @@ function WriteCookie(c)
 <span>Travel Insurance</span>
 </a>
 </li><li id="tab-tshop">
-<a target="_top" title="" href="http://www.expedia.co.nz/tourist-attractions.aspx" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Tshop:Tshop' );">
+<a target="_top" title="" href="http://www.expedia.co.nz/Activities" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Tshop:Tshop' );">
 <span>Activities</span>
 </a>
 </li><li id="tab-lastminute">
@@ -1260,7 +1275,7 @@ function WriteCookie(c)
 <a target="_top" title="" href="http://www.expedia.co.nz/travel-deals.aspx" onclick="xp.nav.trackAnalytics(this,'a','Head:Nav:Multi:Deals' );" class="xp-hdr-tab-highlight">
 <span>Deals</span>
 </a>
-</li>	<div style="color: red;float:right; font-weight: bold; font-size: 12px; padding:7px 5px 0 0;"><span class="HeaderPhoneNoText">Call our travel experts:</span> <span class="HeaderPhoneNo">0800 998 799</span></div>
+</li>	<div style="color: red;float:right; font-weight: bold; font-size: 12px; padding:7px 3px 0 0;"><span class="HeaderPhoneNoText">Call our travel experts:</span> <span class="HeaderPhoneNo">0800 998 799</span></div>
 </ul>
 
 
@@ -1270,10 +1285,6 @@ function WriteCookie(c)
 	
 </div>	
 <div style="clear:both"></div>
-
-
-
-	
 
 	
 
@@ -1301,7 +1312,7 @@ s_server = "www.expedia.co.nz";
 s_channel = "Help";
 s_prop1 = ""; 
 s_prop11 = ""; 
-s_prop12 = "f36f176ee1f446b9b762abba7ecc08b0"; 
+s_prop12 = "d54ac4922ef1474a976da9b1f4123262"; 
 s_account = "Expedia" + "29";
 s_exp_account = s_account;
 s_pageType = ""; 
@@ -2115,9 +2126,11 @@ PLSetChannel("Help");
 
 
 	
-	<!--navigation-markup-separator-->		
-		<link rel="stylesheet" type="text/css" href="/static/footer/footer.css?v=release-2011-10-r1.1.282928">
-		<script language="javascript" type="text/javascript" src="/static/footer/footer.js?v=release-2011-10-r1.1.282928"></script>
+	<!--navigation-markup-separator-->
+<link rel="stylesheet" href="/static/footer/footer.css?v=release-2012-05-r4-72-464761">
+<!-- 47 ms -->
+<script src="/static/footer/footer.js?v=release-2012-05-r4-72-464761"></script>
+<!-- 0 ms -->
 <div id="footer" class="footer">
     <div class="footer-separator">&nbsp;</div>
     <div class="footer-rounded-box footer-links">
@@ -2150,43 +2163,51 @@ PLSetChannel("Help");
                 </div>
                 <div id="footer-corporate-links" class="footer-list-container">
                     <img id="footer-corporate-links-image" alt="expedia.co.nz" src="//media.expedia.com/media/content/shared/images/navigation/footer/logo-small.gif">
-                    <ul class="footer-list">
+                    <ul class="footer-list" style="width:845px">
                         <li><a href="http://www.expedia.co.nz/corporate/about.aspx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">About Us</a><span>|</span></li>
                         <li><a href="http://press.expedia.co.nz/" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Press Centre</a><span>|</span></li>
                         <li><a href="http://www.expedia.co.nz/corporate/price-promise.aspx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Expedia Price Promise</a><span>|</span></li>
-			                  <li><a href="http://www.expedia.co.nz/travel-news.aspx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Travel News</a><span>|</span></li>
+			            <li><a href="http://www.expedia.co.nz/travel-news.aspx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Travel News</a><span>|</span></li>
+						<li><a href="http://www.expediajobs.com/job_search/index.html?location=37" rel="nofollow" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Jobs</a><span>|</span></li>
                         <li><a href="http://www.expedia.co.nz/pub/agent.dll?qscr=hgen&amp;hfnm=PrivacyPol.htx" rel="nofollow" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Privacy Policy</a><span>|</span></li>
                         <li><a href="http://www.expedia.co.nz/pub/agent.dll?qscr=hgen&amp;hfnm=TermsOfUse.htx" rel="nofollow" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Terms of Use</a><span>|</span></li>
-                        <li><a href="http://www.expedia.co.nz/feedback.aspx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Feedback</a><span>|</span></li>
                         <li><a href="http://www.expedia.co.nz/sitemap.aspx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:CorporateLink')">Site Map</a></li>
                     </ul>
                 </div>
                 <div class="footer-separator-thin-down"><!-- --></div>
                 <div id="footer-global-sites" class="footer-list-container">
-                    <div id="footer-global-sites-header">Global Sites:</div>
-                    <ul class="footer-list">
-                        <li><a href="http://www.expedia.com.au/" title="Expedia.com.au" class="flag-au" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.at/" title="Expedia.at" class="flag-at" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.be/" title="Expedia.be" class="flag-be" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+                    <div id="footer-global-sites-header">Global Sites:</div>                    
+					<ul class="footer-list">
+						<li><a href="http://www.expedia.com.ar/" title="Expedia.com.ar" class="flag-ar" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.at/" title="Expedia.at" class="flag-at" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.com.au/" title="Expedia.com.au" class="flag-au" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>		
+						<li><a href="http://www.expedia.be/" title="Expedia.be" class="flag-be" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
 						<li><a href="http://www.expedia.com.br/" title="Expedia.com.br" class="flag-br" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.ca/" title="Expedia.ca" class="flag-ca" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.dk/" title="Expedia.dk" class="flag-dk" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.fr/" title="Expedia.fr" class="flag-fr" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.de/" title="Expedia.de" class="flag-de" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.co.uk/" title="Expedia.co.uk" class="flag-uk" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.co.in/" title="Expedia.co.in" class="flag-in" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.ie/" title="Expedia.ie" class="flag-ie" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.it/" title="Expedia.it" class="flag-it" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.co.jp/" title="Expedia.co.jp" class="flag-jp" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                                                <li><a href="http://www.expedia.com.my/" title="Expedia.com.my" class="flag-my" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li> 
-                        <li><a href="http://www.expedia.com.mx/" title="Expedia.com.mx" class="flag-mx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.nl/" title="Expedia.nl" class="flag-nl" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.no/" title="Expedia.no" class="flag-no" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.com.sg/" title="Expedia Singapore Official Site" class="flag-sg" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.es/" title="Expedia.es" class="flag-es" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.se/" title="Expedia.se" class="flag-se" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                        <li><a href="http://www.expedia.com/" title="Expedia.com" class="flag-us" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
-                    </ul>
+						<li><a href="http://www.expedia.ca/" title="Expedia.ca" class="flag-ca" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.de/" title="Expedia.de" class="flag-de" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.dk/" title="Expedia.dk" class="flag-dk" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.es/" title="Expedia.es" class="flag-es" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.fr/" title="Expedia.fr" class="flag-fr" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.com.hk/" title="Expedia.com.hk" class="flag-hk" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.co.id/" title="Expedia.co.id" class="flag-id" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.ie/" title="Expedia.ie" class="flag-ie" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>		
+						<li><a href="http://www.expedia.co.in/" title="Expedia.co.in" class="flag-in" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>		
+						<li><a href="http://www.expedia.it/" title="Expedia.it" class="flag-it" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.co.jp/" title="Expedia.co.jp" class="flag-jp" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.co.kr/" title="Expedia.kr" class="flag-kr" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.mx/" title="Expedia.mx" class="flag-mx" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li> 
+						<li><a href="http://www.expedia.com.my/" title="Expedia.com.my" class="flag-my" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li> 		
+						<li><a href="http://www.expedia.nl/" title="Expedia.nl" class="flag-nl" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.no/" title="Expedia.no" class="flag-no" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>						
+						<li><a href="http://www.expedia.com.ph/" title="Expedia.com.ph" class="flag-ph" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>                      		
+						<li><a href="http://www.expedia.se/" title="Expedia.se" class="flag-se" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.com.sg/" title="Expedia.com.sg" class="flag-sg" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>				
+						<li><a href="http://www.expedia.co.th/" title="Expedia.co.th" class="flag-th" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>				
+						<li><a href="http://www.expedia.com.tw/" title="Expedia.com.tw" class="flag-tw" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>                      
+						<li><a href="http://www.expedia.co.uk/" title="Expedia.co.uk" class="flag-uk" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.com/" title="Expedia.com" class="flag-us" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+						<li><a href="http://www.expedia.com.vn/" title="Expedia.com.vn" class="flag-vn" onclick="xp.nav.trackAnalytics(this,'a','Footer:All:AllSites')"></a></li>
+					</ul>
                 </div>
             </div>
 
@@ -2195,22 +2216,205 @@ PLSetChannel("Help");
     </div>
         <div class="footer-statements">
         <div id="footer-copyright" class="footer-list-container">
-            © 2011, Expedia Inc. All rights reserved. Expedia, Inc. is not responsible for content on external web sites.
+            © 2012, Expedia Inc. All rights reserved. Expedia, Inc. is not responsible for content on external web sites.
         </div>
     </div>
 	<script type="text/javascript" src="http://www.expedia.co.nz/js/footer_insert.js"></script>
 
 
 </div>	
-	  
-
-
-
-
-
-
 	
+  
+
+
+
+
+	<style>
+	.ie6-image{
+		width:530x;
+		height:203px;
+		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/fusion/v2.3/images/IE6/IE6.png');
+	}
+
+	.ie6-close-row{
+		height:16px;
+		position:relative;
+	}
+
+	.ie6-wrapper {
+		display:none;
+		position:absolute;
+		top:193px;
+		width:100%;
+		text-align:center;
+		z-index:1001;
+		color:#333;
+		font-family:arial,helvetica,clean,sans-serif;
+	}
+
+	.ie6-content-wrap{
+		position:absolute;
+		left:50%;
+	}
+
+	.ie6-content{
+		width:415px;
+		height:203px;
+		position:absolute;
+		left:-175px;
+		top:-180px;
+		text-align:left;
+	}
+
+	.ie6-background {
+		display:none;
+		background-color:#6E6E6E;
+		filter:alpha(opacity=60);
+		position:absolute;
+		top:0px;
+		left:0px;
+		height:100%;
+		width:100%;
+		z-index:1000;
+	}
+
+	.ie6-iframe{
+		display:none;
+		border:none;
+		position:absolute;
+		top:0px;
+		left:0px;
+		height:100%;
+		width:100%;
+		z-index:999;
+		filter:alpha(opacity=0);
+	}
+
+	.ie6-logo{
+		float:left;
+	}
+
+	.ie6-close{
+		display:block;
+		background: url('/static/fusion/v2.3/images/iconsSprites.png') no-repeat -91px 0px;
+		overflow:hidden;
+		width:14px;
+		height:14px;
+		position:absolute;
+		top:0px;
+		right:0px;
+	}
+
+	.ie6-title{
+		margin-bottom:18px;
+		font-size:16px;
+		font-weight:normal;
+	}
+
+	.ie6-paragraph{
+		margin-bottom:5px;
+		font-size:12px;
+	}
+
+	.ie6-button-row{
+		position:absolute;
+		top:140px;
+	}
+
+	.ie6-remind{
+		text-decoration:underline;
+		font-weight:bold;
+		font-size:12px;
+		display:block;
+		float:right;
+		height:21px;
+		line-height:20px;
+		margin-right:16px;
+	}
+
+	.ie6-button-wrap{
+		color:#FFF;
+		text-decoration:none;
+		cursor:pointer;
+	}
+
+	.ie6-button{
+		background:url(/static/fusion/v2.3/images/BlueButton.png) 0px -42px repeat-x;
+		font-weight:bold;
+		height:21px;
+		display:block;
+		line-height:20px;
+		float:right;
+	}
+
+	.ie6-button-wrap:hover,.ie6-button-wrap:active,.ie6-button-wrap:visited{
+		color:#FFF;
+		text-decoration:none;
+	}
+
+	.ie6-bleft{
+		background:url(/static/fusion/v2.3/images/BlueButton.png) 0px -21px no-repeat;
+		height:21px;
+		width:18px;
+		display:block;
+		float:right;
+	}
+
+	.ie6-bright{
+		background:url(/static/fusion/v2.3/images/BlueButton.png) 0px 0px no-repeat;
+		height:21px;
+		width:18px;
+		display:block;
+		float:right;
+	}
 	
+	#ie6-frame{display:none;}
+	#ie6-bg{display:none;}
+	#ie6-wra{display:none;}
+	</style>
+
+	<!--[if lte IE 6]>
+	<style type="text/css">
+		#ie6-frame{display:block;}
+		#ie6-bg{display:block;}
+		#ie6-wra{display:block;}
+	</style>
+	<![endif]-->
+
+	<iframe id="ie6-frame" class="ie6-iframe" scrolling="no" frameborder="0" style="width: 1366px; height: 7136px;"></iframe>
+	<div id="ie6-bg" class="ie6-background" style="width: 1366px; height: 7136px;"></div>
+	<div id="ie6-wra" class="ie6-wrapper">
+		<div class="ie6-image"></div>
+		<div class="ie6-content-wrap">
+			<div id="ie6-m" class="ie6-content">
+				<div class="ie6-close-row"><a href="javascript:ie6Close()" class="ie6-close"><!-- --></a></div>
+				<h3 class="ie6-title">Your Internet Explorer 6 browser is outdated</h3>
+				<p class="ie6-paragraph">Please upgrade by downloading a new version on the Microsoft website.</p>
+				<p class="ie6-paragraph">Then come back to Expedia and enjoy a faster, more secure experience.</p>
+				<div class="ie6-button-row">
+					<a class="ie6-button-wrap" onclick="ie6Close();" href="http://windows.microsoft.com/en-NZ/internet-explorer/downloads/ie-8"><span class="ie6-bleft"></span><span class="ie6-button">UPGRADE NOW</span><span class="ie6-bright"></span></a>
+					<a class="ie6-remind" href="javascript:ie6Close()">Remind me later</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+	document.getElementById('ie6-frame').style.width = document.documentElement.scrollWidth;
+	document.getElementById('ie6-frame').style.height = document.documentElement.scrollHeight;
+	document.getElementById('ie6-bg').style.width = document.documentElement.scrollWidth;
+	document.getElementById('ie6-bg').style.height = document.documentElement.scrollHeight;
+
+	function ie6Close()
+	{
+		document.getElementById('ie6-frame').style.display = 'none';
+		document.getElementById('ie6-bg').style.display = 'none';
+		document.getElementById('ie6-wra').style.display = 'none';
+		document.cookie = "IE6U=hide";
+	}
+	</script>
+
+
 
 	
 
@@ -2240,6 +2444,7 @@ PLSetChannel("Help");
 	<!--AdLocation:  AdSubLocation:  AdOrig:  AdDest:  -->
  
  
+ 
 
 <!-- Ad Handling Ends -->
 
@@ -2252,7 +2457,7 @@ PLSetChannel("Help");
 
 
 
-<!--TS (29/0[CID=0]) compress=1,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.22.137, Req=16:28:27(:735), Rsp=16:28:28(:079), hash=34(0x136c3588) ET=344ms Dur=344ms Mif=0 --><comment id="ProcTime" title="344"></comment>
+<!--TS (29/0[CID=0]) compress=1,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.22.239, Req=19:46:08(:208), Rsp=19:46:08(:536), hash=46(0x136c3588) ET=344ms Dur=328ms Mif=0 --><comment id="ProcTime" title="328"></comment>
 
 	
 	
@@ -2284,7 +2489,7 @@ PLSetChannel("Help");
 
 
 
-<comment id="TotalBytes" title="78247" title1="30044"></comment>
+<comment id="TotalBytes" title="83632" title1="32096"></comment>
 
 
 
