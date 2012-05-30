@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohwrestling.com privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928042952id_/http%3A//www.rohwrestling.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohwrestling.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182505id_/http%3A//www.rohwrestling.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ROH Wrestling
 
