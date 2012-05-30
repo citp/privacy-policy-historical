@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tennis.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163640id_/http%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis.com.au privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530070459id_/http%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Tennis Australia
 
 Tennis Australia is committed to the protection of your personal information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
 
-In general, you can view the Tennis Australia website without revealing any information about yourself.However, there are times Tennis Australia may seek and collect information from you (for example, when you subscribe to our e-newsletter).This Tennis Australia Privacy Policy tells you about your privacy and describes the manner in which Tennis Australia collects, holds and uses personal information collected through our website.If you wish to make any inquiries regarding this Tennis Australia Privacy Policy, you should contact Tennis Australia’s Privacy Officer by email at the following address privacy@tennisaustralia.com.au.
+In general, you can view the Tennis Australia website without revealing any information about yourself. However, there are times Tennis Australia may seek and collect information from you (for example, when you subscribe to our e-newsletter).This Tennis Australia Privacy Policy tells you about your privacy and describes the manner in which Tennis Australia collects, holds and uses personal information collected through our website.If you wish to make any inquiries regarding this Tennis Australia Privacy Policy, you should contact Tennis Australia’s Privacy Officer by email at the following address [privacy@tennis.com.au](mailto:privacy@tennis.com.au).
 
 Tennis Australia may, from time to time, review and update this Tennis Australia Website Privacy Policy to take account new laws and technology. All personal information held byTennis Australia will be governed by its most recent policy, posted on the Website.
 
@@ -22,8 +22,10 @@ Tennis Australia may, from time to time, review and update this Tennis Australia
 
 2.3 This information will not be used to identify you and may include:
 
-* the number of users visiting the Website and the number of pages viewed;
-* the date, time and duration of a visit; or
+  * the number of users visiting the Website and the number of pages viewed;
+  * the date, time and duration of a visit; or
+
+
 
 Mli> the path taken though the Website.
 
@@ -43,17 +45,21 @@ Mli> the path taken though the Website.
 
 3.1 Tennis Australia collects or may collect the following kinds of information about users:
 
-* ‘contact information’. This may include an email address where Tennis Australia can contact you. It may also include your name, mobile phone number, other phone numbers or address details.
-* Communications (by email or other means, which pass through the Tennis Australia systems) between yourself and Tennis Australia.
-* Other personal information provided voluntarily by you. This could be in response to surveys, contests or online activities.
-* Non-personally identifiable information, such as your IP address, browser type, pages visited etc. None of this information identifies you personally.
+  * ‘contact information’. This may include an email address where Tennis Australia can contact you. It may also include your name, mobile phone number, other phone numbers or address details.
+  * Communications (by email or other means, which pass through the Tennis Australia systems) between yourself and Tennis Australia.
+  * Other personal information provided voluntarily by you. This could be in response to surveys, contests or online activities.
+  * Non-personally identifiable information, such as your IP address, browser type, pages visited etc. None of this information identifies you personally.
+
+
 
 **4\. How Tennis Australia uses the personal information it collect about you**
 
 4.1 Tennis Australia uses the information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. Tennis Australia generally uses personal information to:
 
-* Provide you with products or services you have requested.
-* Direct marketing in relation to promotional activities where it is impracticable for Tennis Australia to obtain your prior written consent. However, when Tennis Australia does this, we will provide an express option for you to decline receiving any further marketing communications from Tennis Australia, via an opt out mechanism. Tennis Australia will only send you emails if you have elected to receive such emails in response to an email we have received from you.
+  * Provide you with products or services you have requested.
+  * Direct marketing in relation to promotional activities where it is impracticable for Tennis Australia to obtain your prior written consent. However, when Tennis Australia does this, we will provide an express option for you to decline receiving any further marketing communications from Tennis Australia, via an opt out mechanism. Tennis Australia will only send you emails if you have elected to receive such emails in response to an email we have received from you.
+
+
 
 **5\. Who we disclose your personal information to**
 
@@ -87,7 +93,7 @@ Mli> the path taken though the Website.
 
 phone: 03 9914 4000
 
-email:privacy@tennisaustralia.com.au
+email: [privacy@tennis.com.au](mailto:privacy@tennis.com.au)
 
 write to: Tennis Australia
 
