@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the renlearn.co.uk privacy policy that was archived on 2011-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113170023id_/http%3A//www.renlearn.co.uk/about-us/142-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the renlearn.co.uk privacy policy that was archived on 2012-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530022601id_/http%3A//www.renlearn.co.uk/about-us/142-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		  <base href="http://www.renlearn.co.uk/about-us/142-privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -12,7 +13,7 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy</title>
   <link href="/templates/renlearn/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
   <script type="text/javascript" src="http://www.renlearn.co.uk/templates/renlearn/js/jquery-ui-1.8.5.custom.min.js"></script>
@@ -28,19 +29,55 @@
 			var is_msie = navigator.userAgent.toLowerCase().indexOf('msie') > -1; 
 			if (is_msie){document.write('<link rel="stylesheet" href="/templates/renlearn/css/ie.css" type="text/css" />');}
 		</script>
-		<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20944383-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+				<script type="text/javascript">
+		
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-20944383-1']);
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		  
+			/* Ensure that download clicks get tracked to google analytics */
+			jQuery.noConflict();
+			
+			jQuery(document).ready(function () {
+				/* List of file types to track */
+				var fileWhitelist = /\.(pdf)$/i;
+				
+				/* Apply to every anchor tag on the page */
+				jQuery('a').each(function () {
+					/* Get the URL of the file */
+					var href = jQuery(this).attr('href');
+					
+					/* Check the file is in the whitelist */
+					if (href && href.match(fileWhitelist)){
+						jQuery(this).click(function () {
+							/* Remove the http:// and get the relative path */
+							fileLocation = href.replace(/http:\/\//gi, "");
+							
+							fileLocation = '/' + fileLocation.substr(fileLocation.indexOf("/")).replace("/",""); 
+							
+							/* Send the page view to google */
+							_gaq.push(['_trackPageview', fileLocation]);
+							
+							/*
+							* Pause before launching the download to ensure that
+							* the browser doesn't interrupt the push to google
+							*/
+							setTimeout(function() { 
+								location.href = href; 
+							}, 200);
+							
+							return false;
+						});
+					}
+				});
+			});
+		</script>
 	</head>
 <body>
 <!-- template -->
@@ -67,7 +104,7 @@
 <script language="JavaScript">
 jQuery.noConflict();
 jQuery(document).ready(function(){ 
-	jQuery('#cddslideshow').galleryView({ panel_width: 790,panel_height: 200,frame_width: 0,frame_height: 0,nav_theme: 'dark',transition_speed: 1000,transition_interval: 7000,overlay_opacity: 0.4 }); 
+	jQuery('#cddslideshow').galleryView({ panel_width: 790,panel_height: 200,frame_width: 0,frame_height: 0,nav_theme: 'dark',transition_speed: 600,transition_interval: 4700,overlay_opacity: 0.4 }); 
 });
 </script>
 
@@ -168,10 +205,10 @@ jQuery(document).ready(function(){
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy16175 = '&#105;nf&#111;' + '&#64;';
- addy16175 = addy16175 + 'r&#101;nl&#101;&#97;rn' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write( '<a ' + path + '\'' + prefix + addy16175 + suffix + '\'' + attribs + '>' );
- document.write( addy16175 );
+ var addy12959 = '&#105;nf&#111;' + '&#64;';
+ addy12959 = addy12959 + 'r&#101;nl&#101;&#97;rn' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.write( '<a ' + path + '\'' + prefix + addy12959 + suffix + '\'' + attribs + '>' );
+ document.write( addy12959 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:info@renlearn.co.uk">info@renlearn.co.uk</a><script language="JavaScript" type="text/javascript">
@@ -194,10 +231,10 @@ jQuery(document).ready(function(){
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy49473 = '&#105;nf&#111;' + '&#64;';
- addy49473 = addy49473 + 'r&#101;nl&#101;&#97;rn' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write( '<a ' + path + '\'' + prefix + addy49473 + suffix + '\'' + attribs + '>' );
- document.write( addy49473 );
+ var addy10256 = '&#105;nf&#111;' + '&#64;';
+ addy10256 = addy10256 + 'r&#101;nl&#101;&#97;rn' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.write( '<a ' + path + '\'' + prefix + addy10256 + suffix + '\'' + attribs + '>' );
+ document.write( addy10256 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:info@renlearn.co.uk">info@renlearn.co.uk</a><script language="JavaScript" type="text/javascript">
@@ -218,6 +255,8 @@ jQuery(document).ready(function(){
 <p>With regard to IP address and domain information, RLUK uses a specialised computer system to record this data when a user visits our site. This information is only used to provide aggregate statistical information to help us keep the site functional and responsive, and to determine overall visitor usage patterns. This information is not utilised to try and identify specific individuals, or track an individual's navigation through the site.Our web site does use "cookie" information to help provide an enhanced functional system experience to those visiting the site. A cookie is a piece of data stored on the user's hard drive containing information about the user. While our site does use cookie information, only specific cookie data elements helpful for our site operation are accessed and utilised. We may use cookie information to determine ways in which our web site can be improved, but no personal identification information is included in such activities, and this information is not shared with any third party. If a user rejects the cookie, the user may still use the site.</p>
 <h2>External Links to Other Web Sites</h2>
 <p>Users visiting our web site may find links to web sites owned and operated by other organisations. Please note that when you click on one of these links, you are moving to another web site. While we reviewed the linked sites at the time of the posting of the link, and only provide a link if we believe the content of a site might be of interest to visitors to our site, the content of those linked sites is the responsibility of the organisation actually owning and/or operating the site. RLUK is not responsible for the content of any linked site. We encourage you to read the privacy statements of any linked site as its privacy policy may differ from RLUK's.</p>
+<p>&nbsp;</p>
+<p><a href="/about-us/452-testofsted">test</a></p>
 
 </td>
 </tr>
@@ -226,59 +265,19 @@ jQuery(document).ready(function(){
 <span class="article_separator">&nbsp;</span>
 
 					</div>
-					<div id="rightPanel"><div id="rp-a"><img src="/templates/renlearn/images/rightBorder1.png" border="0"></div>
-<div id="rp-b">
-<table border="0">
+					<div id="rightPanel"><table border="0">
 <tbody>
 <tr>
-<td><img src="/templates/renlearn/images/rh-icon-events.png" border="0"></td>
-<td>
-<p>Events<strong></strong></p>
-<a href="http://renlearn.co.uk/renaissance-zone/123-events"><img src="/templates/renlearn/images/click-here.png" border="0"></a></td>
+<td><a href="/component/cddforms/form/1/8"><img style="margin: 0px 0px 10px;" alt="yellow contactus" src="/images/stories/yellow_contactus.png" width="220" height="60"></a></td>
 </tr>
 </tbody>
-</table>
-</div>
-<div id="rp-c1"><img src="/templates/renlearn/images/rightBorder3.png" border="0"></div><div id="rp-a"><img src="/templates/renlearn/images/rightBorder1.png" border="0"></div>
-<div id="rp-b">
-<table border="0">
+</table><table border="0">
 <tbody>
 <tr>
-<td><img src="/templates/renlearn/images/rh-icon-more-info.png" border="0"></td>
-<td>
-<p>Request more<br>Information<strong></strong></p>
-<a href="/component/cddforms/form/1/8"><img src="/templates/renlearn/images/click-here.png" border="0"></a></td>
+<td><a href="http://www.renlearn.co.uk/renaissance-zone/celebratesuccess/successstoriesall"><img style="margin: 0px 0px 10px;" alt="generic successstory" src="/images/stories/generic_successstory.png" height="60" width="220"></a></td>
 </tr>
 </tbody>
-</table>
-</div>
-<div id="rp-c1"><img src="/templates/renlearn/images/rightBorder3.png" border="0"></div><div id="rp-a"><img src="/templates/renlearn/images/rightBorder1.png" border="0"></div>
-<div id="rp-b">
-<table border="0">
-<tbody>
-<tr>
-<td><img src="/templates/renlearn/images/rh-icon-competitions.png" border="0"></td>
-<td>
-<p>Competitions<br>and Activities<strong></strong></p>
-<a href="http://renlearn.co.uk/renaissance-zone/resourcesandincentives/competitionsactivities"><img src="/templates/renlearn/images/click-here.png" border="0"></a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="rp-c1"><img src="/templates/renlearn/images/rightBorder3.png" border="0"></div><div id="rp-a"><img src="/templates/renlearn/images/rightBorder1.png" border="0"></div>
-<div id="rp-b">
-<table border="0">
-<tbody>
-<tr>
-<td><img src="/templates/renlearn/images/rh-icon-success.png" border="0"></td>
-<td>
-<p>Success<br>Stories<strong></strong></p>
-<a href="/renaissance-zone/124-success-stories"><img src="/templates/renlearn/images/click-here.png" border="0"></a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="rp-c1"><img src="/templates/renlearn/images/rightBorder3.png" border="0"></div><script type="text/javascript">
+</table><script type="text/javascript">
 jQuery(function() {
     jQuery("#jCarouselLite").jCarouselLite({
         vertical: true,
@@ -295,44 +294,47 @@ jQuery(function() {
 	<div id="jCarouselLite"> 
 		<ul>
 						
-			<li class="newsItem"><h2><a href="/about-us/265-deprived-academy-shows-poorest-pupils-can-still-achieve-top-marks" alt="'Deprived' Academy shows poorest pupils can still achieve top marks" /><span>'Deprived' Academy shows poorest pupils can still achieve top marks</span></a></h2>
-			<p><i>Tuesday, 12 July 2011 12:09</i></p>
+			<li class="newsItem"><h2><a href="/about-us/411-fresh-outlook-boys-reading-on-a-par-with-girls" alt="Fresh Outlook: Boys' Reading on a Par with Girls'" /><span>Fresh Outlook: Boys' Reading on a Par with Girls'</span></a></h2>
+			<p><i>Wednesday, 07 March 2012 00:00</i></p>
 			<hr>
-			<p>The link between pupils receiving Free School Meals and underachievement in examinations has long been established, so it should come as no surprise that the findings of the recent Sutton Trust report reveal that the poorest - particularly White British - pupils in struggling schools "lag further behind".
+			<p>
+Fresh Outlook: Boys' Reading on a Par with Girls'
+&nbsp;
+A study suggests that boys' reading ability has improved since last year and that they've now caught up with girls. The 'What Kids Are Reading' 2012 study uses computer software to analyse what level of difficulty children are reading when they read for pleasure. Conducted by Professor Keith Topping of Dundee University and funded by Renaissance Learning, it examined the reading habits of thousands of students in British schools - writes Catrin Hughes of The Fresh Outlook.
 </p>
-			<p><a href="/about-us/265-deprived-academy-shows-poorest-pupils-can-still-achieve-top-marks">Read more</a></p>
+			<p><a href="/about-us/411-fresh-outlook-boys-reading-on-a-par-with-girls">Read more</a></p>
 			</li>
 						
-			<li class="newsItem"><h2><a href="/about-us/256-170511-personalised-practice-is-the-key-to-unlocking-boys-reading-potential" alt="Personalised practice is the key to unlocking boys' reading potential" /><span>Personalised practice is the key to unlocking boys' reading potential</span></a></h2>
-			<p><i>Tuesday, 17 May 2011 14:06</i></p>
+			<li class="newsItem"><h2><a href="/about-us/378-new-ar-student-app-now-available" alt="New AR Student App now available!" /><span>New AR Student App now available!</span></a></h2>
+			<p><i>Monday, 05 March 2012 00:00</i></p>
 			<hr>
-			<p>The importance of encouraging boys to read is universally acknowledged, but the way in which this can be achieved has long been the subject of debate. A recent report suggests that getting boys to read anything - whether a comic or the sports section of a tabloid - is better than nothing. Whilst this is arguably true, it ultimately does little to establish a solid foundation upon which the life-changing effect of reading can be built.
+			<p>The new Accelerated Reader Student App is now available to download for free from the App Store™ or iTunes®, which allows students to quiz on their iPhone®, iPad® or iPod touch® in school.
 </p>
-			<p><a href="/about-us/256-170511-personalised-practice-is-the-key-to-unlocking-boys-reading-potential">Read more</a></p>
+			<p><a href="/about-us/378-new-ar-student-app-now-available">Read more</a></p>
 			</li>
 						
-			<li class="newsItem"><h2><a href="/about-us/243-record-breaking-30000-ar-quizzes-completed-in-one-day-" alt="Record-breaking 30,000 AR quizzes completed in one day " /><span>Record-breaking 30,000 AR quizzes completed in one day </span></a></h2>
-			<p><i>Wednesday, 06 April 2011 18:01</i></p>
+			<li class="newsItem"><h2><a href="/about-us/377-and-the-winner-is" alt="And the winner is..." /><span>And the winner is...</span></a></h2>
+			<p><i>Thursday, 01 March 2012 00:00</i></p>
 			<hr>
-			<p>Renaissance Learning is delighted to announce that not only has its "Quiz for Japan" fundraising initiative succeeded in generating a substantial donation to the Japanese Relief Fund, but in the process a new UK record has also been set for the total number of Accelerated Reader (AR) quizzes completed in one day.
+			<p>The votes have been counted...the results are in...and we can now reveal who the "Nation's Favourite Children's Character" is...!
 </p>
-			<p><a href="/about-us/243-record-breaking-30000-ar-quizzes-completed-in-one-day-">Read more</a></p>
+			<p><a href="/about-us/377-and-the-winner-is">Read more</a></p>
 			</li>
 						
-			<li class="newsItem"><h2><a href="/about-us/241-uk-schools-quiz-for-japan-in-record-breaking-fundraising-literacy-initiative-from-renaissance-learning" alt="UK schools "Quiz for Japan" in record-breaking fundraising literacy initiative from Renaissance Learning" /><span>UK schools "Quiz for Japan" in record-breaking fundraising literacy initiative from Renaissance Learning</span></a></h2>
-			<p><i>Thursday, 31 March 2011 12:05</i></p>
+			<li class="newsItem"><h2><a href="/about-us/338-the-guardian-boys-closing-reading-gap-with-girls" alt="The Guardian: Boys closing reading gap with girls" /><span>The Guardian: Boys closing reading gap with girls</span></a></h2>
+			<p><i>Tuesday, 28 February 2012 00:00</i></p>
 			<hr>
-			<p>On Wednesday 6th April 2011 thousands of children across the UK will take part in a fundraising event for the Japanese Relief Fund in which they will attempt to read and successfully quiz as many books as possible over a 24-hour period.
+			<p>What Kids Are Reading 2012 report finds children are now reading to the same level of difficulty across genders. Boys are no longer lagging behind girls when it comes to reading ability, according to a new report.
 </p>
-			<p><a href="/about-us/241-uk-schools-quiz-for-japan-in-record-breaking-fundraising-literacy-initiative-from-renaissance-learning">Read more</a></p>
+			<p><a href="/about-us/338-the-guardian-boys-closing-reading-gap-with-girls">Read more</a></p>
 			</li>
 						
-			<li class="newsItem"><h2><a href="/about-us/240-parent-a-teacher-reading-levels-decline-post-primary-school" alt="Parent & Teacher: Reading levels decline post primary school" /><span>Parent & Teacher: Reading levels decline post primary school</span></a></h2>
-			<p><i>Thursday, 31 March 2011 09:51</i></p>
+			<li class="newsItem"><h2><a href="/about-us/337-bbc-news-boys-now-reading-as-well-as-girls-study-suggests" alt="BBC News: Boys now reading as well as girls, study suggests" /><span>BBC News: Boys now reading as well as girls, study suggests</span></a></h2>
+			<p><i>Sunday, 26 February 2012 00:00</i></p>
 			<hr>
-			<p>An exclusive report entitled: "What Kids Are Reading: The Book-Reading Habits of Pupils in British Schools 2011," shows that primary schools have made impressive gains in improving literacy standards but, as they move toward secondary school stage, reading levels decline year on year, with children selecting increasingly less difficult books to read.
+			<p>Boys appear to have caught up with girls on reading ability, research into what children are reading for pleasure suggests. A study of which books more than 210,000 UK children are reading suggests boys no longer read at a lower level of difficulty than girls. Concerns that boys lag behind girls has been frequently expressed.
 </p>
-			<p><a href="/about-us/240-parent-a-teacher-reading-levels-decline-post-primary-school">Read more</a></p>
+			<p><a href="/about-us/337-bbc-news-boys-now-reading-as-well-as-girls-study-suggests">Read more</a></p>
 			</li>
 				</ul>
 	</div>
@@ -359,35 +361,35 @@ jQuery(function() {
 		<ul>
 						
 			<li class="newsItem">
-<h2><a href="/about-us/265-deprived-academy-shows-poorest-pupils-can-still-achieve-top-marks" alt=""><span>'Deprived' Academy shows poorest pupils can still achieve top marks</span></a></h2>
+<h2><a href="/about-us/411-fresh-outlook-boys-reading-on-a-par-with-girls" alt=""><span>Fresh Outlook: Boys' Reading on a Par with Girls'</span></a></h2>
 <!-- 			<p><em></em></p> -->
 			<hr>
 			 
 			</li>
 						
 			<li class="newsItem">
-<h2><a href="/about-us/256-170511-personalised-practice-is-the-key-to-unlocking-boys-reading-potential" alt=""><span>Personalised practice is the key to unlocking boys' reading potential</span></a></h2>
+<h2><a href="/about-us/378-new-ar-student-app-now-available" alt=""><span>New AR Student App now available!</span></a></h2>
 <!-- 			<p><em></em></p> -->
 			<hr>
 			 
 			</li>
 						
 			<li class="newsItem">
-<h2><a href="/about-us/243-record-breaking-30000-ar-quizzes-completed-in-one-day-" alt=""><span>Record-breaking 30,000 AR quizzes completed in one day </span></a></h2>
+<h2><a href="/about-us/377-and-the-winner-is" alt=""><span>And the winner is...</span></a></h2>
 <!-- 			<p><em></em></p> -->
 			<hr>
 			 
 			</li>
 						
 			<li class="newsItem">
-<h2><a href="/about-us/241-uk-schools-quiz-for-japan-in-record-breaking-fundraising-literacy-initiative-from-renaissance-learning" alt=""><span>UK schools "Quiz for Japan" in record-breaking fundraising literacy initiative from Renaissance Learning</span></a></h2>
+<h2><a href="/about-us/338-the-guardian-boys-closing-reading-gap-with-girls" alt=""><span>The Guardian: Boys closing reading gap with girls</span></a></h2>
 <!-- 			<p><em></em></p> -->
 			<hr>
 			 
 			</li>
 						
 			<li class="newsItem">
-<h2><a href="/about-us/240-parent-a-teacher-reading-levels-decline-post-primary-school" alt=""><span>Parent &amp; Teacher: Reading levels decline post primary school</span></a></h2>
+<h2><a href="/about-us/337-bbc-news-boys-now-reading-as-well-as-girls-study-suggests" alt=""><span>BBC News: Boys now reading as well as girls, study suggests</span></a></h2>
 <!-- 			<p><em></em></p> -->
 			<hr>
 			 
@@ -439,16 +441,7 @@ function showsubmenu(id) {
 					</li>
 	
 		<li>
-							<a class="head" id="headOpen3" href="javascript:showsubmenu('3')">News archive</a>
-			<ul id="submenuid3" style="display:none">				<li><a href="/about-us/news-archive/january">January</a></li>
-			</ul>		</li>
-	
-		<li>
 							<a href="/about-us/careers">Careers</a>
-					</li>
-	
-		<li>
-							<a href="/about-us/latest-news">Latest news</a>
 					</li>
 	
 		<li>
@@ -456,13 +449,17 @@ function showsubmenu(id) {
 					</li>
 	
 		<li>
-							<a href="/about-us/partners">Partners</a>
+							<a href="/about-us/partners">Our Partners</a>
 					</li>
 	
 		<li>
 							<a href="/about-us/terms-of-use">Terms of use</a>
 					</li>
-<input type="hidden" id="totalcount" value="8">
+	
+		<li>
+							<a href="http://www.renlearn.co.uk/images/stories/pdfs/R003777603GF3F7F.pdf">Renaissance Place System Requirements</a>
+					</li>
+<input type="hidden" id="totalcount" value="7">
 <input type="hidden" id="opendefault" value="0">
 </form> 
 </ul>
@@ -498,7 +495,7 @@ jQuery(document).ready(function () {
 	<input type="hidden" name="option" value="com_search">
 	<input type="hidden" name="Itemid" value="7">
 </form></div>
-				<div id="navTabs"><ul class="menu"><li class="item1"><a href="http://www.renlearn.co.uk/"><span>Home</span></a></li><li class="parent item2"><a href="/reading"><span>Reading</span></a></li><li class="parent item4"><a href="/writing"><span>Writing</span></a></li><li class="parent item3"><a href="/maths"><span>Maths</span></a></li><li class="parent item5"><a href="/assessment"><span>Assessment</span></a></li><li class="parent item6"><a href="/renaissance-zone"><span>Renaissance Zone</span></a></li><li id="current" class="parent active item7"><a href="/about-us"><span>About Us</span></a></li><li class="parent item8"><a href="/contact-us"><span>Contact Us</span></a></li><li class="parent item178"><a href="/more-links"><span>More links</span></a></li></ul></div>
+				<div id="navTabs"><ul class="menu"><li class="item1"><a href="http://www.renlearn.co.uk/"><span>Home</span></a></li><li class="parent item2"><a href="/reading"><span>Reading</span></a></li><li class="parent item4"><a href="/writing"><span>Writing</span></a></li><li class="parent item3"><a href="/maths"><span>Maths</span></a></li><li class="parent item5"><a href="/rsp"><span>School Partnership</span></a></li><li class="parent item6"><a href="/renaissance-zone"><span>Renaissance Zone</span></a></li><li id="current" class="parent active item7"><a href="/about-us"><span>About Us</span></a></li><li class="parent item8"><a href="/contact-us"><span>Contact Us</span></a></li><li class="parent item178"><a href="/more-links"><span>More links</span></a></li><li class="item327"><a href="http://www.renlearn.co.uk/images/stories/pdfs/R003777603GF3F7F.pdf"><span>Renaissance Place System Requirements</span></a></li></ul></div>
 			</div>
 		</div>
 	</div>
