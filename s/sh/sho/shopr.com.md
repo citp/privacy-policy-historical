@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopr.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528151143id_/http%3A//www.shopr.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopr.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182454id_/http%3A//www.shopr.com/privacypolicy) for the most accurate reproduction.*
 
 # Shopr.com
 
@@ -11,7 +11,6 @@ Effective **February 13, 2009**
   * The Information We Collect
   * How We Use Information
   * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy
   * How To Access Or Correct Your Information
   * How To Contact Us
 
