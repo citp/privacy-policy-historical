@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220043012id_/http%3A//valenciacollege.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530172759id_/http%3A//valenciacollege.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
 
 # Who We Are - Vision, Values & Mission - Valencia College
 
