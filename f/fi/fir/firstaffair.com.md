@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103000934id_/http%3A//www.firstaffair.com/fa/datenschutz/p/k/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530032459id_/http%3A//www.firstaffair.com/en/datenschutz.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Affair
 
@@ -12,7 +12,7 @@ You are able to join our internet service without providing your name or home ad
 
 **Payment details**
 
-During a payment all relevant data for the payment process will be stored indefinitely. Payment data such as your credit card number and relevant data will be passed on to our payment service provider and stored. Our payment systems contractors are also governed by the German Data Privacy Protection Act. 
+For the completion of each payment process, we save all information that is relevant to the payment. This information is saved by us for an indeterminate amount of time. If you order any products, your payment information (e.g. credit card number, bank account information, addresses) and other information will be passed on to and saved by our contractual partner for the payment transaction. For the purposes of credit rating inquiries, the information will be passed on to and also saved by our contractual partners in this area. In case of an outstanding debt, this information will be passed on to our debt collection partner. Our contractual partners for payment transactions are bound by the German Federal Data Protection Act (BDSG). 
 
 **Passing of private data to a third party**
 
@@ -34,10 +34,12 @@ People under the age of 18 are not permitted to join our service.
 
 Our web pages contain links to other websites. We can not guarantee that these parties are governed by the German Data Privacy Protection Act. 
 
-**Questions and Suggestions** Please do not hesitate to contact us if you have any questions and suggestions regarding our service and webpage support@firstaffair.com. Thank you very much for taking your time for our privacy statement and enjoy our service. 
+**Questions and Suggestions**
 
-Berlin the 31st of July 2007 
+Please do not hesitate to [contact us](https://web.archive.org/netforge/ne?tmpl=support_mail&pid=&kid=) if you have any questions and suggestions regarding our service and webpage. Thank you very much for taking your time for our privacy statement and enjoy our service. 
 
-#### Casual Dating ads
+Berlin the 13th january 2012 
 
-With us, you can place free ads and see other people's ads
+#### Fling sex
+
+To protect yourself, you must use a condom
