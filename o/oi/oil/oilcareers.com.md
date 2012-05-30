@@ -1,156 +1,65 @@
-> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222050956id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530055031id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
-**Information about our Organisation and Web site**
+****Collection of Personal Information****
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like OilCareers Limited . We are based in United Kingdom .   
-Our principal activity is: Recruitment   
-Our privacy policy covers OilCareers Limited and its Web site: 
+We collect personal information from you (such as name, address, telephone number, email address etc) when you fill in registration forms, submit comments to the Site, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
-** | Organisation Name:  | OilCareers Limited   
----|---  
-Address:  | Westhill Business Centre   
-City, Zip:  | Westhill , AB32 6UF   
-State:  | Aberdeenshire   
-Country:  | United Kingdom   
-Controller:  | OilCareers Limited   
-Web Sites(s):  | www.oilcareers.com   
-**  
-****Providing Visitors with Anonymous Access****
+****Collection of Other Information****
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser. Cookies allow us to identify your computer and find out details about your visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the site such as logging in, setting up jobs-by-email and saving your preferences. 
 
-**
+The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the site and geographical location. 
 
-**The services and links of our Web site** ****
+For detailed information about cookies and web beacons used on our site and how to opt out - please visit our Cookies Use page.
 
-**
+****Use of Your Information****
 
-Our Web site enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. 
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation): 
 
-Our Web site does not include links to third party Web service providers. 
+  * personalising your visits to the Site to improve the services provided to you;
+  * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting; 
+  * customer service and support; 
+  * communicating (and personalising such communication) with you; 
+  * enabling you to share our content with others e.g. using an ‘Email a friend’ or ‘Share this’ functionality;
+  * conducting market research; and/or
+  * carrying out technical and statistical analysis to measure the performance of our services and the Site.
 
-****
+****Sharing Your Information****
 
-**Automatic Collection of Information**
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer. 
 
-We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. 
+We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group. 
 
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
+Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group. 
 
-  * Technical administration of the Web site 
-  * Research and development 
-  * Customer administration 
+Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you. 
 
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
 
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
 
-For more information about cookies please visit [www.aboutcookies.org](http://www.aboutcookies.org/). 
+****Keeping Your Personal Information Secure****
 
-**
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
 
-Data Collection and Purpose Specification 
+****Accessing Your Personal Information****
 
-**
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other privacy queries, please write to us (including full details of your request) at the following address: 
 
-We collect the personal data that you may volunteer while using our services. 
+| Privacy Team  
+---  
+OilCareers Limited  
+22 Abercrombie Court  
+Arnhall Business Park  
+Westhill  
+AB32 6FE  
+Aberdeenshire  
+United Kingdom  
+  
+We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information. 
 
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
+****Changes to this Privacy Policy****
 
-To access the table of personal data collected and purposes for which they are used, please click here. 
-
-We may collect and use personal data for the additional purposes of: 
-
-  * Matching job seekers with vacancies. 
-  * Allowing recruiters to find potential recruits. 
-
-
-
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: by indicating in a box at the point on the site where personal data is collected. 
-
-**
-
-Children's Privacy 
-
-**
-
-We do not knowingly collect personal data from children. 
-
-We do not take specific steps to protect the privacy of children who disclose their personal data to us. 
-
-We do not provide information about our personal data practices in relation to children on our home page, or at those sites on our Web site where we collect personal data. 
-
-**
-
-Disclosure and Visitor Choice 
-
-**
-
-We disclose our visitors' personal data to our subsidiaries or other organisations. 
-
-Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to opt-out of disclosure: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-
-**
-
-Confidentiality / Security 
-
-**
-
-We give you the option of using a secure transmission method to send us the following types of personal data: 
-
-  * primary personal data (such as name and contact details) 
-  * other personal and profiling data (such as physical description, leisure activities) 
-  * identifiers (such as credit card details, Web site password) 
-
-
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-**
-
-Access to the personal data we may hold about you 
-
-**
-
-You can ask us, by: 
-
-  * sending an email ( support@oilcareers.com ) 
-
-whether we are keeping personal data about you. 
-
-Upon request, which you can indicate by: 
-
-  * sending an email ( support@oilcareers.com ) 
-
-We will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity. We will provide the information at a charge of £10. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-  * rectified or amended 
-  * completed 
-
-
-
-We do not reserve the right to refuse to provide you with a copy of your personal data. 
-
-#### Independent Data Protection Authority supervision 
-
-Designation of the authority  | The Information Commissioner  
----|---  
-URL  | www.dataprotection.gov.uk   
-Address  | Water Lane, Wycliffe House, Wilmslow, Cheshire SK9 5AF   
-Country  | UNITED KINGDOM 
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page. 
