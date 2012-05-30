@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130184327id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530080900id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Tip and Trick
 
@@ -49,10 +49,10 @@ By using this site, you consent to the collection and use of this information by
   * [Free Genuine License Code for Privacy Guardian by Signing Up PC Tools Newsletter](http://www.tipandtrick.net/2008/free-genuine-license-code-for-privacy-guardian-by-signing-up-pc-tools-newsletter/ "Permanent Link: Free Genuine License Code for Privacy Guardian by Signing Up PC Tools Newsletter")
   * [Enable Lock Pages in Memory to Prevent Database Paging to Disk](http://www.tipandtrick.net/2008/enable-lock-pages-in-memory-to-prevent-database-paging-to-disk/ "Permanent Link: Enable Lock Pages in Memory to Prevent Database Paging to Disk")
   * [How to Remove Recycle Bin Icon in Windows 7](http://www.tipandtrick.net/2010/how-to-remove-recycle-bin-icon-in-windows-7/ "Permanent Link: How to Remove Recycle Bin Icon in Windows 7")
-  * [Steganos Security Suite 2007 Full Version Free Download and Serial Number](http://www.tipandtrick.net/2008/steganos-security-suite-2007-full-version-free-download-and-serial-number/ "Permanent Link: Steganos Security Suite 2007 Full Version Free Download and Serial Number")
   * [How to Change the Default Setting for Power Button Action in Windows 7](http://www.tipandtrick.net/2010/how-to-change-the-default-setting-for-power-button-action-in-windows-7/ "Permanent Link: How to Change the Default Setting for Power Button Action in Windows 7")
+  * [Steganos Security Suite 2007 Full Version Free Download and Serial Number](http://www.tipandtrick.net/2008/steganos-security-suite-2007-full-version-free-download-and-serial-number/ "Permanent Link: Steganos Security Suite 2007 Full Version Free Download and Serial Number")
   * [New HP Elite Autofocus Webcam](http://www.tipandtrick.net/2008/new-hp-elite-autofocus-webcam/ "Permanent Link: New HP Elite Autofocus Webcam")
-  * [Not a Hack: Lahore Electric Supply Companies (LESCO) Website Privacy Leaks](http://www.tipandtrick.net/2008/not-a-hack-lahore-electric-supply-companies-lesco-website-privacy-leaks/ "Permanent Link: Not a Hack: Lahore Electric Supply Companies \(LESCO\) Website Privacy Leaks")
   * [How to Disable Windows Vista CD/DVD Disc Burning/Recording Function](http://www.tipandtrick.net/2008/how-to-disable-windows-vista-cddvd-disc-burningrecording-function/ "Permanent Link: How to Disable Windows Vista CD/DVD Disc Burning/Recording Function")
+  * [Not a Hack: Lahore Electric Supply Companies (LESCO) Website Privacy Leaks](http://www.tipandtrick.net/2008/not-a-hack-lahore-electric-supply-companies-lesco-website-privacy-leaks/ "Permanent Link: Not a Hack: Lahore Electric Supply Companies \(LESCO\) Website Privacy Leaks")
 
 
