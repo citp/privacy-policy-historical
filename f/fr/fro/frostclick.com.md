@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130141808id_/http%3A//www.frostwire.com/%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530201938id_/http%3A//www.frostwire.com/%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - FrostWire.com - BitTorrent So Simple
+# Privacy Policy - FrostWire.com - Share Big Files. Official Website 100% Free Download
 
 ##   Privacy Policy
 
