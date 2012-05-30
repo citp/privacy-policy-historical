@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103051730id_/http%3A//www.nairapark.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530041541id_/http%3A//www.nairapark.com/policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Naira Park
+# Privacy Policy | NairaPark.com
 
 | 
 
-The website www.nairapark.com and its sub-sites which are mobile.nairapark.com, forum.nairapark.com, r.nairapark.com and e.nairapark.com shall henceforth be called "Nairapark.com". By accessing or using Nairapark.com, you agree to have read and understood the Privacy Policy as stipulated below: 
+The website www.nairapark.com and its sub-sites which are mobile.nairapark.com, forum.nairapark.com and r.nairapark.com shall henceforth be called "Nairapark.com". By accessing or using Nairapark.com, you agree to have read and understood the Privacy Policy as stipulated below: 
 
 If you decide to use any of our services, you may be requested to provide information about yourself. You are not obliged to provide any information although if you do not, certain services may not be made available to you. If you do provide any personal information, you agree to provide true, accurate, current and complete information which is not misleading in any way. If you decide to change any of your personal information such as your e-mail address, you may wish to inform us. Simply send an e-mail to admin@nairapark.com so as to make necessary amendment. 
 
