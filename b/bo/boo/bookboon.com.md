@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookboon.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202183848id_/http%3A//bookboon.com/blog/en/about-the-website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookboon.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530055727id_/http%3A//bookboon.com/blog/en/about-the-website/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | Blog
+# Privacy statement - Bookboon's Blog
 
 **Bookboon.com Ltd.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.bookboon.com or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
 
@@ -65,4 +65,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 This Privacy Notice was last modified July 1, 2010
 
 **Contact Information:**  
-Please contact the Company with any questions or comments about this Privacy Notice using this email address bookboon@ventus.dk
+Please contact the Company with any questions or comments about this Privacy Notice using this email address public@bookboon.com.
