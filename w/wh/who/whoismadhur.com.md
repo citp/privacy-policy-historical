@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoismadhur.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006182236id_/http%3A//www.whoismadhur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoismadhur.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530065344id_/http%3A//www.whoismadhur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Madhur Kapoor's Blog
 
