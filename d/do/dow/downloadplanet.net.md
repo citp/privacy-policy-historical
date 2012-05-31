@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadplanet.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012920id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplanet.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601001155id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy - Windows Shareware, Freeware, MP3, Games, DVD, Audio, Video Software
 
@@ -6,120 +6,116 @@
 ---|---  
 | 
 
-  * [Business & Productivity Tools](https://web.archive.org/category/freeware/Business---Productivity-Tools.html)
-  * [Communications](https://web.archive.org/category/freeware/Communications.html)
-  * [Desktop Enhancements](https://web.archive.org/category/freeware/Desktop-Enhancements.html)
-  * [Drivers](https://web.archive.org/category/freeware/Drivers.html)
-  * [Educational](https://web.archive.org/category/freeware/Educational.html)
-  * [Games](https://web.archive.org/category/freeware/Games.html)
-  * [Home & Personal](https://web.archive.org/category/freeware/Home---Personal.html)
-  * [Internet](https://web.archive.org/category/freeware/Internet.html)
-  * [Multimedia & Design](https://web.archive.org/category/freeware/Multimedia---Design.html)
-  * [Network Tools](https://web.archive.org/category/freeware/Network-Tools.html)
-  * [Programming](https://web.archive.org/category/freeware/Programming.html)
-  * [Security](https://web.archive.org/category/freeware/Security.html)
-  * [Utilities](https://web.archive.org/category/freeware/Utilities.html)
-  * [Web Authoring](https://web.archive.org/category/freeware/Web-Authoring.html)
+  * [Business & Productivity Tools](https://web.archive.org/category/Business---Productivity-Tools.html)
+  * [Communications](https://web.archive.org/category/Communications.html)
+  * [Desktop Enhancements](https://web.archive.org/category/Desktop-Enhancements.html)
+  * [Drivers](https://web.archive.org/category/Drivers.html)
+  * [Educational](https://web.archive.org/category/Educational.html)
+  * [Games](https://web.archive.org/category/Games.html)
+  * [Home & Personal](https://web.archive.org/category/Home---Personal.html)
+  * [Internet](https://web.archive.org/category/Internet.html)
+  * [Multimedia & Design](https://web.archive.org/category/Multimedia---Design.html)
+  * [Network Tools](https://web.archive.org/category/Network-Tools.html)
+  * [Programming](https://web.archive.org/category/Programming.html)
+  * [Security](https://web.archive.org/category/Security.html)
+  * [Utilities](https://web.archive.org/category/Utilities.html)
+  * [Web Authoring](https://web.archive.org/category/Web-Authoring.html)
 
 
 
 ####  Top Downloads
 
-  * [Classic Icons ](https://web.archive.org/details/classic-icons.html)
+  * [XFreesoft DVD Ripper ](https://web.archive.org/details/xfreesoft-dvd-ripper.html)
 
-140 high quality icons for toolbar, web sites...
+XFree DVD Ripper can convert DVD to any video...
 
-  * [YouTube Mobile Downloader ](https://web.archive.org/details/youtube-mobile-downloader.html)
+  * [iTake DVD Creator burner for Mac ](https://web.archive.org/details/itake-dvd-creator-burner-for-mac.html)
 
-Download and watch YouTube movies with your...
+Perfect for any video to DVD conversion and DVD...
 
-  * [PaperPort Professional ](https://web.archive.org/details/paperport-professional.html)
+  * [iTake DVD Creator ](https://web.archive.org/details/itake-dvd-creator.html)
 
-PaperPort Professional 11 is the best PaperPort...
+iTake DVD Creator Burner is a powerful DVD...
 
-  * [Word Reader ](https://web.archive.org/details/word-reader.html)
+  * [iTake DVD Ripper ](https://web.archive.org/details/itake-dvd-ripper.html)
 
-Word Reader is an easy-to-use Free Word...
+Remarkable with fantastic speed and quality,...
 
-  * [Free Flash Player ](https://web.archive.org/details/free-flash-player.html)
+  * [MacVideo DVD Ripper ](https://web.archive.org/details/macvideo-dvd-ripper.html)
 
-Free Flash Player is a program to play Adobe...
+Mac DVD Ripper can rip DVD to all popular video...
 
-  * [Driver Easy Freeware Driver Updates ](https://web.archive.org/details/driver-easy-freeware-driver-updates.html)
+  * [XFreesoft DVD Creator for Mac ](https://web.archive.org/details/xfreesoft-dvd-creator-for-mac.html)
 
-Driver Easy Freeware Driver Updates is a...
+XFreesoft DVD Creator for Mac is a super easy...
 
-  * [WinMend File Copy ](https://web.archive.org/details/winmend-file-copy.html)
+  * [MacVideo Video Converter ](https://web.archive.org/details/macvideo-video-converter.html)
 
-WinMend File Copy is a free and excellent batch...
+Mac Video Converter is a powerful yet...
 
-  * [Sound Driver Update ](https://web.archive.org/details/sound-driver-update.html)
+  * [XFreesoft DVD Ripper for Mac ](https://web.archive.org/details/xfreesoft-dvd-ripper-for-mac.html)
 
-Sound Driver Update manages your PC to get 100%...
+If you are looking for DVD ripping software for...
 
-  * [Canon Driver Download ](https://web.archive.org/details/canon-driver-download.html)
+  * [MacVideo DVD Creator ](https://web.archive.org/details/macvideo-dvd-creator.html)
 
-Download Canon drivers immediately to resolve...
+MacVideo DVD Creator is professional DVD...
 
-  * [Driver Updates For Windows 7 ](https://web.archive.org/details/driver-updates-for-windows-7.html)
+  * [iTake Video Converter ](https://web.archive.org/details/itake-video-converter.html)
 
-Driver Updates For Windows 7 is a professional...
+iTake Video Converter is excellent video...
 
 
 
 
 ####  New Downloads
 
-  * [SEO PowerSuite Tools 21](https://web.archive.org/details/seo-powersuite-tools.html)
+  * [TeeChart Pro VCL/FMX 2012](https://web.archive.org/details/teechart-pro-vcl-fmx.html)
 
-SEO PowerSuite is the full collection of SEO...
+100% VCL native Charting component library with...
 
-  * [SharePoint AD Management Pack 1.0.802.1](https://web.archive.org/details/sharepoint-ad-management-pack.html)
+  * [dSHIFT Migrator for SharePoint 4.3.5.0](https://web.archive.org/details/dshift-migrator-for-sharepoint.html)
 
-A suite of 4 powerful SharePoint AD...
+Have you used dSHIFT Migrator for SharePoint...
 
-  * [Photo Recover-Center 2.3](https://web.archive.org/details/photo-recover-center.html)
+  * [DWG to DXF Converter 201204 201204](https://web.archive.org/details/dwg-to-dxf-converter-201204.html)
 
-Recover deleted or lost photos from any digital...
+DWG to DXF Converter is a batch DWG and DXF...
 
-  * [Aba Search and Replace 2.0](https://web.archive.org/details/aba-search-and-replace.html)
+  * [ID Card Creater 7.3.0.1](https://web.archive.org/details/id-card-creater.html)
 
-Aba is a tool for replacing text in multiple...
+Professional design ID card creater software...
 
-  * [Data Recovery Software for Windows 7 3.0](https://web.archive.org/details/data-recovery-software-for-windows-7.html)
+  * [Corporate SMTP Server 5.23](https://web.archive.org/details/corporate-smtp-server.html)
 
-Download Free - Recover Data for Windows 7 to...
+Corporate SMTP Server is outgoing SMTP server...
 
-  * [Leawo Mac DVD to PSP Converter v2.1.0](https://web.archive.org/details/leawo-mac-dvd-to-psp-converter.html)
+  * [Word PDF Converter 5.83](https://web.archive.org/details/word-pdf-converter.html)
 
-Leawo Mac DVD to PSP Converter is a powerful...
+Word PDF Converter is an easy-to-use and...
 
-  * [submitpad Diamond Suite 2011](https://web.archive.org/details/submitpad-diamond-suite.html)
+  * [Any DVD Cloner Platinum 1.1.7](https://web.archive.org/details/any-dvd-cloner-platinum.html)
 
-Submit your software to 1000+ downloadsite,...
+Any DVD Cloner Platinum is an ultimate solution...
 
-  * [Windows Mail to Mac Mail 3.0](https://web.archive.org/details/windows-mail-to-mac-mail.html)
+  * [Sakina Privacy Protector 4.0.3](https://web.archive.org/details/sakina-privacy-protector.html)
 
-Windows Mail to Mac Mail by PCVARE Solutions is...
+Sakina Privacy Protector is an ideal program...
 
-  * [Oposoft All To FLV Converter 8.1](https://web.archive.org/details/oposoft-all-to-flv-converter.html)
+  * [Ares Galaxy Turbo Booster 6.0.9](https://web.archive.org/details/ares-galaxy-turbo-booster.html)
 
-All To FLV Converter is professional Flash...
+Ares Galaxy Turbo Booster(AGTB) is a powerful...
 
-  * [Aspose.Pdf for SharePoint 1.0.0.0](https://web.archive.org/details/aspose-pdf-for-sharepoint.html)
+  * [BearShare Premium P2P 6.0.8](https://web.archive.org/details/bearshare-premium-p2p.html)
 
-Aspose.Pdf for SharePoint is a flexible...
-
-
+Bearshare Premium P2P is a free peer to peer...
 
 
-####  Popular Searches
 
-[Phonerotica Com](https://web.archive.org/programs/phonerotica/com), [Foto Julia Peres Bugil](https://web.archive.org/programs/foto/julia-peres-bugil), [Foto Bugil Dewi Persik](https://web.archive.org/programs/foto/bugil-dewi-persik), [Phonerotica Indonesia](https://web.archive.org/programs/phonerotica/indonesia), [Serial Number Internet Download Manager](https://web.archive.org/programs/serial/number-internet-download-manager), [Gambar Artis Indonesia Bugil](https://web.archive.org/programs/gambar/artis-indonesia-bugil), [Autocad 2007 Free Download](https://web.archive.org/programs/autocad/2007-free-download), [Age Of Empires 2 Full Version Download Free Games](https://web.archive.org/programs/age/of-empires-2-full-version-download-free-games), [Naruto Games For Pc](https://web.archive.org/programs/naruto/games-for-pc), [Cheats Point Blank Gamscool](https://web.archive.org/programs/cheats/point-blank-gamscool), [Fraps Full Download Full Version](https://web.archive.org/programs/fraps/full-download-full-version), [Speedbit Video Accelerator Activation Code](https://web.archive.org/programs/speedbit/video-accelerator-activation-code), [Megaupload Premium Account Generator](https://web.archive.org/programs/megaupload/premium-account-generator), [Anti Proxy](https://web.archive.org/programs/anti/proxy), [Sorority Life Cheats Codes](https://web.archive.org/programs/sorority/life-cheats-codes)
 
 ####  Recent Searches
 
-[Boliwood Celeb Sek Tapes](https://web.archive.org/programs/boliwood/celeb-sek-tapes), [Brother Mfc 495cw Ocr Software](https://web.archive.org/programs/brother/mfc-495cw-ocr-software), [Bounce And Bounce Evolution Game Samsung Jet 8003](https://web.archive.org/programs/bounce/and-bounce-evolution-game-samsung-jet-8003), [Bluetooth File Transfer Wizard](https://web.archive.org/programs/bluetooth/file-transfer-wizard), [Bluetooth Driver Acer Aspire 4732z Windows Xp Sp2](https://web.archive.org/programs/bluetooth/driver-acer-aspire-4732z-windows-xp-sp2), [Blackberry 8130 Unlock](https://web.archive.org/programs/blackberry/8130-unlock), [Arthur And The Minimoys Pc Game Down Load](https://web.archive.org/programs/arthur/and-the-minimoys-pc-game-down-load), [Asx Codec](https://web.archive.org/programs/asx/codec), [Cara Koneksi Canon Ir5570 Ke Komputer](https://web.archive.org/programs/cara/koneksi-canon-ir5570-ke-komputer), [Artis Ngentot](https://web.archive.org/programs/artis/ngentot), [Ball State Athletics Muncie](https://web.archive.org/programs/ball/state-athletics-muncie), [Basc 2 Assist Software Download Update](https://web.archive.org/programs/basc/2-assist-software-download-update), [Avira 2011 Freeware](https://web.archive.org/programs/avira/2011-freeware), [Autocad Skill Test](https://web.archive.org/programs/autocad/skill-test), [Beyluxe Messenger Emoticon](https://web.archive.org/programs/beyluxe/messenger-emoticon)
+[Advanced Id Creator Activation Key](https://web.archive.org/programs/advanced/id-creator-activation-key), [Coupon For Breakoutbras](https://web.archive.org/programs/coupon/for-breakoutbras), [Outlaw Bike..](https://web.archive.org/programs/outlaw/bike..), [Acer Windows Vista Home Basic Service Pack](https://web.archive.org/programs/acer/windows-vista-home-basic-service-pack), [Anonymous Socks Proxy List](https://web.archive.org/programs/anonymous/socks-proxy-list), [Advanced Html Tricks](https://web.archive.org/programs/advanced/html-tricks), [Acer Windows Vista Home Basic](https://web.archive.org/programs/acer/windows-vista-home-basic), [Advanced Flash Flip Book](https://web.archive.org/programs/advanced/flash-flip-book), [Advanced Html Calendar](https://web.archive.org/programs/advanced/html-calendar), [Iron Speed Designer Product Key](https://web.archive.org/programs/iron/speed-designer-product-key), [Acer Webcam Not Clear](https://web.archive.org/programs/acer/webcam-not-clear), [Igi Part1 Game Cheat](https://web.archive.org/programs/igi/part1-game-cheat), [Acer Travelmate 2490 Drivers](https://web.archive.org/programs/acer/travelmate-2490-drivers), [Advanced Find Replace Word 2007](https://web.archive.org/programs/advanced/find-replace-word-2007), [Turbocad Deluxe Tutorial For Mac](https://web.archive.org/programs/turbocad/deluxe-tutorial-for-mac)
 
   
 | 
@@ -151,4 +147,4 @@ If you have any questions about this privacy statement, the practices of this si
   
 ---|---  
   
-Welcome to the ShareMe. Here you can free download windows shareware, freeware and demo versions of commercial software, games, mp3, dvd, audio, video programs. We do not share, host any crack, warez files either from mirrors or file hosting website rapidshare, depositfile, megaupload, youtube. All software have posted by genuine software authors and we publish them, if you like it, buy the licensed full version or serial keys. Any questions, complaints or claims related to the software should be directed to the appropriate author or company responsible for developing the software, not the staff working for shareme.com 
+Welcome to the ShareMe. Here you can free download windows shareware, freeware and demo versions of commercial software, games, mp3, dvd, audio, video programs. We do not share, host any crack, warez files either from mirrors or file hosting website rapidshare, depositfile, youtube. All software have posted by genuine software authors and we publish them, if you like it, buy the licensed full version or serial keys. Any questions, complaints or claims related to the software should be directed to the appropriate author or company responsible for developing the software, not the staff working for shareme.com 
