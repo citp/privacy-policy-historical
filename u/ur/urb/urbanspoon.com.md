@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230220148id_/http%3A//www.urbanspoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanspoon.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531031852id_/http%3A//www.urbanspoon.com/privacy) for the most accurate reproduction.*
 
 # Urbanspoon Privacy Policy
 
-[Terms of Service](https://web.archive.org/web/20111230220148id_/http%3A//www.urbanspoon.com/tos)
+[Terms of Service](https://web.archive.org/web/20120531031852id_/http%3A//www.urbanspoon.com/tos)
 
 (As of August 30, 2011)
 
@@ -44,7 +44,7 @@ We use your information to provide and improve our services, to diagnose and fix
 
 **Advertisers:** Advertisers and advertising networks use tracking technologies to collect information about users. computers or mobile devices and their online activities (for example, IP addresses, browser information, web pages visited, searches made and mobile device ID) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our Properties to enable them to display targeted ads to you. They also may use web technologies such as cookies and pixel tags to collect data about you when you visit our Properties. 
 
-**Restaurants:** We may share your information with restaurants at which you have made a reservation using Urbanspoon.s restaurant reservation service, including, without limitation, information you provided during the reservation process, any comments or special notes relating to your reservation, and your reservation history. We may also provide restaurants with feedback and other statistics from recent diners. You may also agree to receive communications from various restaurants; the content, frequency, timing or unsubscribe process of such communications shall be controlled solely by such restaurants. 
+**Restaurants:** We may share your information with restaurants at which you have made a reservation using Urbanspoon's restaurant reservation service, including, without limitation, information you provided during the reservation process, any comments or special notes relating to your reservation, and your reservation history. We may also provide restaurants with feedback and other statistics from recent diners. You may also agree to receive communications from various restaurants; the content, frequency, timing or unsubscribe process of such communications shall be controlled solely by such restaurants. 
 
 **Analytics Companies:** We may allow analytics companies to use tracking technologies to collect information about our users' computers or mobile devices and their online activities. These companies analyze this information to help us understand how our Properties are being used. 
 
