@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthonymorrison.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210120209id_/http%3A//www.anthonymorrison.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonymorrison.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531214915id_/http%3A//www.anthonymorrison.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anthony Morrison
 
@@ -112,3 +112,13 @@ Visionary Strategies will occasionally update this Privacy Policy in response to
 **Information About Children**  
 We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. The Children’s Online Privacy Protection Act ("COPPA") took effect on April 21, 2000 and imposes certain requirements on Web sites directed toward children under 13 that collect information on those children, or on Web sites that know they are collecting information on children under the age of 13. It currently is Visionary Strategies’s policy not to collect personal information on any person under 13. To learn more about COPPA, consult the Federal Trade Commission’s COPPA Web Site [www.ftc.gov](http://www.ftc.gov/) or you may call 202/FTC-HELP.  
 By using this web site, you consent to this Agreement and to the collection and use of information by Visionary Strategies as specified above
+
+**Text Message Terms & Conditions**  
+The company collects your mobile number and a date and time of your interaction. We do not share your personal information with any third parties.
+
+Text Anthony to 26469 is a standard rate (non-premium) text messaging program. Up to 5 messages a month. This service does not require you to pay a subscription fee at any time. Message and data rates may apply. Contact your carrier to ask about text messaging charges on your specific plan. 
+
+HELP and Customer Service for Text Program Issues  
+For questions or technical assistance related to this text messaging service, call 1-800-715-7593 or email support@redfishmedia.com.
+
+STOP – You can terminate receiving messages from any program by texting STOP to the short code 26469.
