@@ -1,103 +1,143 @@
-> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228094947id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531023102id_/http%3A//www.cheapoair.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policies - CheapOair.co.uk
 
-Last updated 28th January 2009
+|   | 
 
-Heart Internet Limited ("we") are committed to protecting and respecting your privacy.
+|  |  |    Privacy Policy  
+---  
+CheapOair.co.uk is strongly committed to protecting your privacy.  
+  
+[](https://privacy.truste.com/privacy-seal/Dukes-Court-Travel-of-London/validation?rid=385a5fe0-b578-44e5-943d-dff223a6e904 "TRUSTe
+European Safe Harbor certification")  
+  
+Duke's Court Travel Limited is strongly committed to protecting your privacy and will be the data controller in respect of your personal data. 
 
-This policy (together with our terms of use <http://www.heartinternet.co.uk/websiteuse.shtml>, terms and conditions of supply <http://www.heartinternet.co.uk/termshi.shtml> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This privacy policy ("Privacy Policy") (together with our [Terms and Conditions](http://www.cheapoair.co.uk/terms/)) discloses our information collection and dissemination practices in connection with the website at www.CheapOair.co.uk (the "Site"). By using the Site you signify your acceptance of the terms in this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the Site. All references in the Privacy Policy to "CheapOair", "we", "us" and "our" refer to Duke's Court Travel Limited; and references to "you" and "your" are to you, the user.
 
-For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Heart Internet Limited of 2 Castle Quay, Nottingham NG7 1FW. 
+Duke's Court Travel Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [cservice@CheapOair.co.uk.](mailto:cservice@CheapOair.co.uk) If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**1 Information we may collect from you**
+Duke's Court Travel Limited complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. [Participant] has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Duke's Court Travel Limited’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-1.1 We may collect and process the following data about you:
+We may amend this Privacy Policy at any time. This Privacy Policy shall apply whilst published on the Site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes. 
 
-1.1.1 information that you provide by filling in forms on our website [https://customer.heartinternet.co.uk](https://customer.heartinternet.co.uk/) (our "site"). This includes information provided at the time of registering an account, purchasing services from us or requesting further services. We may also ask you for information when you report a problem with our site or the services you have purchased;
+CheapOair is committed to providing fair information practices and protecting our customers' private and personal information submitted via the Site.   
+  
+   
+| **COLLECTION AND USE OF INFORMATION**  
+---  
+We request certain personally identifiable information from you on our order form when you make a booking with us. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). 
 
-1.1.2 if you contact us letter or email, we may keep a record of that correspondence;
+We may collect additional information about you when you register an account with us, including (without limitation) from emails or other correspondence that you send to us, when you participate in competitions, questionnaires and surveys and when you contact us or our customer service representatives. We may also collect information about you from third party sources (for example credit checking agencies) and we may collect information about your usage of the Site (see below under the heading "Cookies").
 
-1.1.3 if you contact us by telephone, we may record our telephone conversation for training purposes and, if you are asking us to provide you with the use of a dedicated hosting server, for the purposes of proving your request;
+CheapOair uses this information: 
 
-1.1.4 we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
+  * for billing purposes 
+    * to fulfill your Booking and its purchasing of travel-related products and services
+  * to contact you if we have trouble processing your Booking 
+  * to answer your questions and process your requests for services from us
+  * to improve your shopping experience and the Site 
+  * for internal administration, analysis and quality assurance purposes, including fraud prevention 
+  * for marketing assistance 
+  * to keep you informed about our latest services
 
-1.1.5 details of transactions you carry out through our site and of the fulfilment and administration of your orders; and
+To ensure that your credit, debit or charge card is not being used without your consent, we may validate your name, address and contact number supplied by you during the booking process against appropriate third party databases. By accepting the terms of this Privacy Policy you agree and authorize us to carry out such verification checks as stated herein. In performing these checks, you acknowledge and concur that such personal information you provide to us may be disclosed to a registered Credit Reference Agency which may keep a record of such information in whole or in part. You can rest assured that this verification process is performed for the sole purpose of verifying and confirming your identity and that this process does not perform a credit check, so your credit rating will not be affected by it.
 
-1.1.6 details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access and use. 
+All information provided by you to us is securely processed in strict accordance with the Data Protection Act of 1998. 
 
-**2 IP addresses and cookies**
+**Co-Travelers**
 
-2.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+When you register for an account we offer you the opportunity to provide personal information about others who may travel with you such as name, email and date of birth. CheapOair stores this information for the sole purpose allowing you to book travel on behalf of others.
 
-2.2 For the same reason, we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+Co-Travelers may contact us at [ cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk) to request that we remove this information from our database.
 
-2.2.1 to estimate our audience size and usage pattern;
+**Sharing your information**
 
-2.2.2 to store information about your preferences, and so allow us to customise our site according to your individual interests;
+For the purposes of providing you with services we may provide your personal information to third party service providers, our group companies, our outsource service providers (including companies who process your order on our behalf) and/or selected third party marketing partners. For example, we use an outside shipping company to ship paper tickets, and a credit card processing company to bill you for travel products. These companies do not retain, share, store or use your personal information for any other purposes. 
 
-2.2.3 to speed up your searches; and
+We may disclose your personal information to third parties, such as official bodies and our professional advisers, as far as we believe necessary (i) to comply with relevant laws, orders or regulations, (ii) to enforce our customer terms and conditions of use or other contractual agreements and (iii) to protect the property and other rights of CheapOair, its group companies, customers and others (for example, in any way relating to protection against fraudulent activities in respect of CheapOair).
 
-2.2.4 to recognise you when you return to our site. 
+We may from time to time restructure our business operations (for example, by selling part of our business) to a buyer either within or outside of our group. In such transactions your personal information could be transferred as part of the relevant sale (including during negotiations for sale). If this is the case we would let you know. 
 
-2.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+CheapOair does not sell, trade, share or rent your personal information to others without your prior consent. 
 
-**3 Where we store your personal data**
+Except with your consent and/or as permitted or required by applicable law, we will only share your personal information as described in this Privacy Policy. 
 
-3.1 The personal data that we collect from you will be stored on our servers inside the European Economic Area ("EEA"). Some of your personal data will be transferred to Datacash Limited (whose registered office is at 8 Gate Street, London WC2A 3HP and company number is 03430157) for the purposes of processing your payment information. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+**Transfer outside the UK**
 
-3.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+For any of the above purposes, we may need to send your information internationally including to countries outside the European Economic Area (EEA) for example to Fareportal Inc, one of our group companies in New York, USA. Please note that certain countries (such as the USA) do not have equivalent data protections to those required in the UK and EEA and by visiting the Site, you consent to such transfer of your information outside of the EEA. We will, however, take steps to ensure that your personal information is transferred, stored and processed in accordance with appropriate security standards and in accordance with the terms of this Privacy Policy and applicable data protection laws.
 
-3.3 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. Specifically, your personal data will be stored in accordance with the Payment Card Industry Data Security Standard.
+**Third party websites**
 
-**4 Uses made of the information**
+Other websites accessible through the Site have their own privacy policies and data collection practices. Please consult each website's privacy policy. CheapOair is not responsible for the actions or omissions of third parties.  
+  
+  
+**COOKIES**  
+---  
+Like many other sites, this Site uses cookies to personalise your experience, and to speed up the member sign in process. Cookies are information stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Site and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the members' area. 
 
-4.1 We use information held about you in the following ways:
+A cookie may be placed by our advertising server. These cookies are used only for the purposes of tracking the effectiveness of advertising served by us on our Site. No personal information about you is gathered by the use of these cookies. Cookies may be placed by our third party advertising companies who may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. The information collected does not include your personal information. This privacy statement covers the use of cookies by CheapOair only and does not cover the use of cookies by any advertisers. If you would like to opt out of re-targeted advertising from CheapOair that occurs when visiting our third party advertising publishers, please [click here](http://preferences.truste.com/truste/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-4.1.1 to ensure that content from our site is presented in the most effective manner for you and for your computer;
+If you register or place an order with us or if you continue to use the Site, you agree to our use of cookies. 
 
-4.1.2 to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 
+You can set up your computer to reject cookies although, if you do so, you may not be able to use certain features on the Site.  
+  
+  
+**THIRD PARTY TRACKING TECHNOLOGIES**  
+---  
+  
+We use a third party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate.  
+  
+  
+**SECURITY**  
+---  
+The security of your personal information is important to us. When you enter sensitive information (such as your credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html>
 
-4.1.3 to carry out our obligations arising from any contracts entered into between you and us;
+All of our secure servers use a high-grade encryption key (RC4 with 128 bit secret key). While secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time. 
 
-4.1.4 to allow you to participate in interactive features of our service, when you choose to do so;
+If you receive browser warnings when going from secure mode pages to non-SSL pages, it is most likely a warning that you are switching servers. As long as your data is entered on a secure mode page, it will only be transmitted to a secure server. 
 
-4.1.5 to notify you about changes to our service.
+We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security and any transmission is at your own risk. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
 
-4.2 If you have placed an order for our services, we will use the information we hold to send you our regular newsletter. This newsletter is our primary method of communicating with you and will inform you of changes to our site, notify you of planned outages and updates to our services, and keep you informed about our services generally. By placing an order for our services, you consent to us using the information we hold about you in this way.
+If you have any questions about security on the Site, you can email us at [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk)  
+  
+  
+**GOVERNMENT AND LEGAL**  
+---  
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.
 
-4.3 We may also use your information, or permit selected third parties to use your information, to provide you with details about goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone. 
+Under US law, airlines are required to provide the US Department of Homeland Security with certain information about passengers travelling to and from the US. A list of frequently asked questions has been compiled by the Article 29 Data Protection Working Party to provide further information to passengers. Please click [here](http://ec.europa.eu/justice/policies/privacy/index_en.htm) to learn more.  
+  
+  
+**ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
+---  
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by logging into your account and making the appropriate changes, emailing to our Customer Support at [cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk) or by contacting us by telephone or postal mail at the contact information listed below.
 
-4.4 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
+  
+  
+**CHILDREN'S PRIVACY PROTECTION**  
+---  
+CheapOair understands the importance of protecting children's privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, persons under 18 years of age. For the avoidance of doubt, it is not our policy to intentionally collect or maintain information about anyone under the age of 13.  
+  
+**OPT-OUT**  
+---  
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel service, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form.
 
-4.5 If you are a new customer, and where we permit selected third parties to use your information, we (or they) will contact you by electronic means only if you have consented to this. 
+To keep you informed about our latest services, we may notify you via email newsletter of any changes to our offering. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting us at the address below.
 
-4.6 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+If you have any questions about this Privacy Policy please contact our customer service department:
 
-**5 Disclosure of your information**
-
-5.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in UK Companies Act 2006.
-
-5.2 We may disclose your personal information to third parties:
-
-5.2.1 in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or
-
-5.2.2 if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use <http://www.heartinternet.co.uk/websiteuse.shtml> or terms and conditions of supply <http://www.heartinternet.co.uk/termshi.shtml> and other agreements; or to protect our rights, property, or safety, or that of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-**6 Your rights**
-
-6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Heart Internet Ltd, 2 Castle Quay, Castle Boulevard, Nottingham NG7 1FW 
-
-6.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-**7 Access to information**
-
-7.1 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**8 Changes to our privacy policy**
-
-8.1 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
-
-**9 Contact**
-
-9.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Heart Internet Ltd, 2 Castle Quay, Castle Boulevard, Nottingham NG7 1FW 
+  
+**Customer Service,  
+CheapOair.co.uk,  
+204 King Street  
+Hammersmith  
+London  
+W6 0RA  
+**Ph:** +44 (0) 203 104 0055  
+[cservice@CheapOair.co.uk](mailto:cservice@CheapOair.co.uk)**  
+   
+  
+  |    
+  |  |  
