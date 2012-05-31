@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fanoos.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001323id_/http%3A//www.fanoos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanoos.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531220451id_/http%3A//www.fanoos.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-#### Fanoos Privacy Policy
+# Fanoos Privacy
 
 Fanoos takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our Children's Privacy Policy to learn more about how we treat personally identifiable information collected from children and Privacy Information to learn how we treat such information collected in connection with Fanoos financial products and services. 
 
