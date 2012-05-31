@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lot18.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222051234id_/http%3A//www.lot18.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lot18.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531065149id_/http%3A//www.lot18.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lot18
 
@@ -52,7 +52,7 @@ While Lot18 uses standard security procedures and practices relative to safeguar
 
 ## Collection of Information from Minors
 
-We do not knowingly collect Personal Information from minors under 18, nor do we direct any of our content to minors under 18. If we learn that we collected the Personal Information of a minor, we will take steps to delete the information as soon as possible. 
+We do not knowingly collect Personal Information from minors under 21, nor do we direct any of our content to minors under 21. If we learn that we collected the Personal Information of a minor, we will take steps to delete the information as soon as possible. 
 
 ## Accessing and Correcting Personal Information
 
