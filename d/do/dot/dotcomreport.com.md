@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcomreport.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216133345id_/http%3A//dotcomreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcomreport.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531101555id_/http%3A//dotcomreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,4 +44,4 @@ By using this site and providing us with your information, you agree to the Site
 We may occasionally update the Site’s Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the Site’s Privacy Policy when you visit to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make material changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so, and we will e-mail registered website visitors information on material changes to this policy. Your continued use of the Site means you accept those changes for all information you have provided to us. 
 
 **Questions and Suggestions**  
-If you have questions or suggestions, or want the opportunity to review or change any of the information collected from or about you, please complete a feedback form.
+If you have questions or suggestions, or want the opportunity to review or change any of the information collected from or about you, please complete a feedback form. 
