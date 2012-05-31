@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201170749id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531110357id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
 
 # L.L.Bean: Your Privacy Rights
 
@@ -18,7 +18,8 @@ Email: preferences@llbean.com
 
 **Contents**
 
-**Information We Collect**  
+**Information We Collect**
+
 We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:
 
   * Place an order from our catalogs or on our Web site
@@ -82,6 +83,10 @@ Freeport, ME 04033
 [preferences@llbean.com](mailto:preferences@llbean.com)
 
 Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because mailings are planned in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive unwanted communications, please contact us again and we will make every effort to correct the situation.
+
+**Third Party Catalog Opt-Out Services**
+
+Over the past several years, many third party services have become available to help consumers opt-out of catalog mailings. We currently do not honor requests made through these services, with the exception of Catalog Choice. We made this decision after careful consideration of customer service, data protection, privacy and whether or not there were fees associated with the service. It is important to us that consumers not have to pay to make a catalog opt-out request. Catalog Choice met all of our requirements. If you prefer to use their service, we welcome you to visit their website at catalogchoice.org. Whether you use Catalog Choice or contact us directly with your mailing preferences, we are committed to meeting your needs.
 
  return to top
 
