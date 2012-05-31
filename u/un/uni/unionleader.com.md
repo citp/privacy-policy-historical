@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unionleader.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060444id_/http%3A//www.unionleader.com/article/99999999/SERVICES/110419986) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionleader.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531175210id_/http%3A//www.unionleader.com/article/99999999/SERVICES/110419986) for the most accurate reproduction.*
 
 # Privacy Statement | New Hampshire SERVICES
 
@@ -10,9 +10,9 @@ Purchase of archive article(s) requires an account and a credit card transaction
 
 #### Registration
 
-You may be asked to register as a user to read articles on [UnionLeader.com](http://www.unionleader.com/). Registration is free and will not ask you to identify yourself unless you choose to receive additional benefits for visiting our site. For example, you may choose to receive e-mail messages alerting you when the Web site is updated with breaking news. You can opt out of this service at any time by sending a message to the [webmaster](https://web.archive.org/forms/webmaster.aspx).
+You may be asked to register as a user to read and comment on [UnionLeader.com](http://www.unionleader.com/)articles. Registration is free and will ask you for some basic information. You may choose to receive e-mail messages alerting you when the Web site is updated with breaking news. You can opt out of this service at any time by sending a message to the [webmaster](https://web.archive.org/forms/webmaster.aspx).
 
-The registration process may collect basic demographic information (age, ZIP code and whether you read the print edition). This helps us provide useful content and services and it gives our advertisers, who make this site possible, a better understanding of who they reach by advertising on UnionLeader.com. Except for your voluntary submission of an e-mail address, no personally identifiable information is collected in the registration process. The Union Leader Corporation does not share e-mail addresses with outside parties. 
+The registration process may collect basic demographic information (age, town, ZIP code, phone number and whether you read the print edition). This helps us provide useful content and services and it gives our advertisers, who make this site possible, a better understanding of who they reach by advertising on UnionLeader.com. The Union Leader Corporation does not share e-mail addresses with outside parties. 
 
 #### Cookies
 
@@ -44,4 +44,4 @@ If we change our privacy or registration policy on this Web site that further af
 
 #### Contact information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact the webmaster](https://web.archive.org/forms/webmaster.aspx).
+If users have any questions or suggestions regarding our privacy policy, please [contact the webmaster](https://web.archive.org/section/services0302).
