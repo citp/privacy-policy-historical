@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techonshow.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055150id_/http%3A//www.techonshow.com/%3Fpage_id%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techonshow.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531215016id_/http%3A//www.techonshow.com/our-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
