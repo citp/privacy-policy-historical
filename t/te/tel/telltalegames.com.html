@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the telltalegames.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228012513id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telltalegames.com privacy policy that was archived on 2012-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531061439id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>Telltale Games - Privacy Policy</title>
@@ -16,9 +16,9 @@
     <link rel="alternate" type="application/rss+xml" title="Telltale Jobs" href="/feeds/jobs">
 
     	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-    <link rel="stylesheet" href="/include/css/tt4.css?1309894533">
+    <link rel="stylesheet" href="/include/css/tt4.css?1335319194">
     <link rel="stylesheet" href="/include/css/thickbox.css">
-             <link rel="stylesheet" href="/include/css/support.css?1220395091">
+             <link rel="stylesheet" href="/include/css/support.css?1335827757">
         <script type="text/javascript" src="/include/js/global.js?1288833967"></script>
         <script>
     $(document).ready(function(){
@@ -50,64 +50,64 @@ function urchinTracker() {
      $(document).ready(function(){
           var nbar_antime = 200;
           var drop_antime = 300;
-          
+
           $('#register').click(function(){ window.location = '/mytelltale/register'; return false; });
           $('#logout').click(function(){ window.location = $(this).attr('link'); return false; });
-          
+
           $('#help-link').click(function(){
                $('.help-dropdown').animate({ top: '42px' }, { queue: false, duration: drop_antime });
                return false;
           });
-          
+
           $('.games').bind('mouseenter', function(){
                $('.games-dropdown').animate({ top: '42px' }, { queue: false, duration: drop_antime });
           });
-          
+
           $('.games-dropdown, .games').bind('mouseleave', function(){
                $('.games-dropdown').animate({ top: '-338px' }, { queue: false, duration: drop_antime });
           });
-          
+
           $('.games-dropdown a').bind('mouseenter', function(){
                $('.games-dropdown').stop().css({ top: '42px' });
           });
-          
-          $('.account-box').bind('mouseenter', 
+
+          $('.account-box').bind('mouseenter',
                function() {
                     $('.account-box').stop().css({ width: '34px' });
                     $('.cart-text').stop().css({ width: '1px' });
                     if(navbar != 'mytelltale')
                          $('#account-settings').css({ backgroundPosition: '-209px -347px' });
-                    
+
                     var icon = '#'+$(this).attr('id')+'-icon';
                     var iconpos = $(icon).attr('bgpos') + 'px ' + (navbar == 'mytelltale' ? '-116' : '0') + 'px';
                     iconpos = iconpos.split(' ', 2);
                     var bgpos = $(this).attr('bgpos').split(' ', 2);
-                    
+
                     $(icon).css({ backgroundPosition: iconpos[0] + ' ' + (parseInt(iconpos[1]) - 57) + 'px' });
-                    
+
                     $('#account-name, #account-login').animate({ width: (loggedin ? '90px' : '124px') }, { queue: false, duration: nbar_antime });
                     $('#'+$(this).attr('id')+' .cart-text').animate({ width: '55px' }, { queue: false, duration: nbar_antime });
-                    
+
                     if(navbar == 'mytelltale')
                          $(this).css({ backgroundPosition: parseInt(bgpos[0]) + 'px ' + parseInt(bgpos[1]) + 'px'  });
                     $(this).animate({ backgroundPosition: (parseInt(bgpos[0]) + -148) + 'px ' + parseInt(bgpos[1]) + 'px', width: '95px' }, { queue: false, duration: nbar_antime });
                }
           );
-          
-          $('.account-box').bind('mouseleave', 
+
+          $('.account-box').bind('mouseleave',
                function(){
                     $('.account-box').stop();
                     $('.cart-text').stop();
-                    
+
                     var icon = '#'+$(this).attr('id')+'-icon';
                     var iconpos = $(icon).attr('bgpos') + 'px ' + (navbar == 'mytelltale' ? '-116' : '0') + 'px';
                     iconpos = iconpos.split(' ', 2);
-                    
+
                     $(icon).css({ backgroundPosition: iconpos[0] + ' ' + iconpos[1] });
 
                     $('#account-name, #account-login').animate({ width: (loggedin ? '158px' : '192px') }, { queue: false, duration: nbar_antime });
                     $('#'+$(this).attr('id')+' .cart-text').animate({ width: '1px' }, { queue: false, duration: nbar_antime });
-                    
+
                     if(navbar == 'mytelltale')
                          $(this).css({ backgroundPosition: (navbar == 'mytelltale' ? '-605px -347px' : '0px -347px') });
                     $(this).animate({ backgroundPosition: (navbar == 'mytelltale' ? '-814px -347px' : '-209px -347px'), width: '34px' }, { queue: false, duration: nbar_antime });
@@ -117,15 +117,15 @@ function urchinTracker() {
 </script>
 
 <div class="games-dropdown">
-	<a tracking="Navbar Games Drop-down Sam and Max" subtracking="page" href="/samandmax" id="game-samandmax">Sam &amp; Max</a>
-    <a tracking="Navbar Games Drop-down Tales of Monkey Island" subtracking="page" href="/monkeyisland" id="game-monkeyisland">Tales of Monkey Island</a>
-	<a tracking="Navbar Games Drop-down Puzzle Agent" subtracking="page" href="/puzzleagent" id="game-puzzleagent">Puzzle Agent</a>
-    <a tracking="Navbar Games Drop-down Wallace and Gromit" subtracking="page" href="/wallaceandgromit" id="game-wallaceandgromit">Wallace &amp; Gromit's Grand Adventures</a>
-    <a tracking="Navbar Games Drop-down Strong Bad" subtracking="page" href="/strongbad" id="game-strongbad">Strong Bad's Cool Game for Attractive People</a>
-	<a tracking="Navbar Games Drop-down Back to the Future" subtracking="page" href="/bttf" id="game-bttf">Back to the future: The Game</a>
-	<a tracking="Navbar Games Drop-down Jurassic Park" subtracking="page" href="/jurassicpark" id="game-jp">Jurassic Park</a>
-	<a tracking="Navbar Games Drop-down Poker Night" subtracking="page" href="/pokernight" id="game-pn">Poker Night at the Inventory</a>
-    <a tracking="Navbar Games Drop-down More Games" subtracking="page" href="/games" id="game-more">More Telltale Games</a>
+ <a tracking="Navbar Games Drop-down Walking Dead" subtracking="page" href="/walkingdead" id="game-a">The Walking Dead</a>
+ <a tracking="Navbar Games Drop-down Law and Order" subtracking="page" href="/lawandorder" id="game-b">Law and Order Legacies</a>
+ <a tracking="Navbar Games Drop-down Jurassic Park" subtracking="page" href="/jurassicpark" id="game-c">Jurassic Park</a>
+ <a tracking="Navbar Games Drop-down Back to the Future" subtracking="page" href="/bttf" id="game-d">Back to the future: The Game</a>
+ <a tracking="Navbar Games Drop-down Puzzle Agent" subtracking="page" href="/puzzleagent" id="game-e">Puzzle Agent</a>
+ <a tracking="Navbar Games Drop-down Sam and Max" subtracking="page" href="/samandmax" id="game-f">Sam &amp; Max</a>
+ <a tracking="Navbar Games Drop-down Tales of Monkey Island" subtracking="page" href="/monkeyisland" id="game-g">Tales of Monkey Island</a>
+ <a tracking="Navbar Games Drop-down Wallace and Gromit" subtracking="page" href="/wallaceandgromit" id="game-h">Wallace &amp; Gromit's Grand Adventures</a>
+ <a tracking="Navbar Games Drop-down More Games" subtracking="page" href="/games" id="game-more">More Telltale Games</a>
 </div>
 
 <div class="help-dropdown">
@@ -146,7 +146,7 @@ function urchinTracker() {
         <div class="vert-rule"></div>
     <a tracking="Navbar Videos Button" subtracking="page" class="videos " href="/videos">Videos</a>
         <div class="vert-rule"></div>
-    <a tracking="Navbar Forums Button" subtracking="page" class="forums" href="/forums/">Forums</a>     
+    <a tracking="Navbar Forums Button" subtracking="page" class="forums" href="/forums/">Forums</a>
         <div class="vert-rule"></div>
     <div tracking="Navbar Account Info Button" subtracking="page" class="account ">
         <div class="account-info">
@@ -172,8 +172,8 @@ function urchinTracker() {
                               <span tracking="Navbar Register Link" subtracking="page" id="register">Register!</span>
                          </span>
                     </div>
-                    
-               </a>          
+
+               </a>
                     <div class="vert-rule righty"></div>
                <a tracking="Navbar Cart Info button" subtracking="page" class="account-box" id="account-cart" href="/cart" bgpos="0px -405px">
                     <div class="account-icon" id="account-cart-icon" title="Your Cart" bgpos="-506"></div>
@@ -181,13 +181,13 @@ function urchinTracker() {
                          <span class="cart-contents" id="stuff-in-cart">0 Items</span>
                     </div>
                </a>
-               
+
                <div class="vert-rule righty"></div>
-          
+
           </div>
-     
+
      </div>
-     
+
 </div><table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td align="center">
@@ -334,7 +334,7 @@ Last Updated on: (July 26th, 2005)</p></div>
 <div class="foot-bar">
      <div class="ttg-logo"><img src="/images/ttg-logo-footer.png" class="png"></div>
      <div class="ttg-text">
-     <b>Telltale Games - © 2011 Telltale, Incorporated. All rights reserved.<br>
+     <b>Telltale Games - © 2012 Telltale, Incorporated. All rights reserved.<br>
      <b>
 		<a href="/" tracking="Footer link to Mani Page" subtracking="page">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		<a href="/store" tracking="Footer link to Store" subtracking="page">Store</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -365,6 +365,6 @@ pageTracker._trackPageview();
 
 
 
-<!-- c1 qs0.043084144592285 s0.13455200195312-->
+<!-- c1 qs0.00037884712219238 s0.073452949523926-->
 <!--  -->
 <!--  --></b></b></div></div><div id="imgLoader" style="position:absolute; top:0px; left:0px; width:1px; height:1px; visibility:hidden; overflow:hidden;"></div></body></html>
