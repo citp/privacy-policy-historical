@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reusablebags.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201051405id_/http%3A//www.reuseit.com/help.php%3Fid%3D18%23help165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reusablebags.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531071846id_/http%3A//www.reuseit.com/help.php%3Fid%3D18%23help165) for the most accurate reproduction.*
 
 # Security & Privacy - reuseit.com
 
