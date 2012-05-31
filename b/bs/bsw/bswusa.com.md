@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516133943id_/http%3A//www.bswusa.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531110526id_/http%3A//bswusa.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Professional Studio Equipment for Audio Broadcast and Recording | BSWUSA.com
-
-**BSW PRIVACY POLICY**
+# Privacy Notice
 
 BSW has created this privacy statement to disclose our information gathering and dissemination practices for our website (www.bswusa.com).
 
@@ -18,11 +16,11 @@ We do not sell any customer information to third parties.
 
 You may be removed from our e-mail or snail mail list at anytime, by doing one or more of the following:
 
-> 1\. Click the Un-subscribe link if e-mailed.
-> 
-> 2\. Or send an email to info@bswusa.com ask to be removed for our list.
-> 
-> 3\. Phone us (800) 426-8434
+          1\. Click the Un-subscribe link if e-mailed.
+
+                     2\. Or send an email to info@bswusa.com ask to be removed for our list.
+
+                     3\. Phone us (800) 426-8434
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
