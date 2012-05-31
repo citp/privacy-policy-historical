@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020410id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531140621id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
 
 # GamePressure.com
 
@@ -82,4 +82,4 @@ Our philosophy is to make entertainment easier by bringing you sites full of use
 
 If you have any additional questions. Send an e-mail on  and our marketing rep will contact you within 3 business days.
 
-Copyright © 2005-2011 GAMEPRESSURE.com
+Copyright © 2005-2012 GAMEPRESSURE.com
