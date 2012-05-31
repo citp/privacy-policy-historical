@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215082542id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2012-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531225646id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy - GlobalGiving</title>  
@@ -47,6 +47,12 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+  
+  // Client Side Error Tracking - GGL-4221
+  window.onerror = function(message, file, line) { 
+     var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message; 
+     _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
+  }
 </script>
 
 
@@ -92,6 +98,7 @@
 			&nbsp;
 		</div>  
 	</noscript> 
+	
 	<div id="headerWrapper" class="headerFooterWrapper">
 
 	<div id="header" class="siteWrapper">
@@ -100,7 +107,7 @@
 
 		<div id="headerMargins">
 			<div id="logo">
-				<a id="logoLink" href="/" onclick="trackHeaderClick(this)" ;="">GlobalGiving</a>
+				<a id="logoLink" href="/" onclick="trackHeaderClick(this);">GlobalGiving</a>
 			</div> 
             
 			<div id="topnav">
@@ -122,10 +129,9 @@
         
 		<div id="login_name"></div>
 		<ul>
-						
-			<li><a href="/dy/cart/view/gg.html?cmd=gcart" class="cart" onclick="trackHeaderClick(this)" ;="">giving cart</a></li>
-			<li><a href="/dy/user/view/gg.html?cmd=showprof" class="profile" onclick="trackHeaderClick(this)" ;="">my profile</a></li>
-			<li><a href="javascript:void(0);" onclick="Logout();" class="logout" ;="">logout</a></li>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart" class="cart" onclick="trackHeaderClick(this);">giving cart</a></li>
+			<li><a href="/dy/user/view/gg.html?cmd=showprof" class="profile" onclick="trackHeaderClick(this);">my profile</a></li>
+			<li><a href="javascript:void(0);" onclick="Logout();" class="logout">logout</a></li>
 		</ul>
 	</div>  
 	<!--end logged in area-->
@@ -133,9 +139,9 @@
 	<!--login area-->
 	<div id="nologindiv" style="display: inline;">
 		<ul>
-			<li><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink" class="cart" onclick="trackHeaderClick(this)" ;="">giving cart</a></li>
-			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount" class="profile" onclick="trackHeaderClick(this)" ;="">create an account</a></span></li>
-			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login" onclick="trackHeaderClick(this)" ;="">login</a></span></li>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink" class="cart" onclick="trackHeaderClick(this);">giving cart</a></li>
+			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount" class="profile" onclick="trackHeaderClick(this);">create an account</a></span></li>
+			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login" onclick="trackHeaderClick(this);">login</a></span></li>
 		</ul>
 	</div> 
 	<!--end login area-->
@@ -143,12 +149,6 @@
 			    
 			</div>
 
-		    
-		            <!-- Gift Card Callout -->
-					<div id="giftCardPromo">
-						 <!--<a href="/redeem"  onclick="trackHeaderClick(this)";></a>-->
-					     <a href="/dy/gifts/personalize/gg.html?selectedDesign=63&amp;isGiftCertificate=true" onclick="trackGiftClick(this)" ;=""></a>
-					</div>
 		    
 
 			<div id="nav"> 
@@ -205,16 +205,16 @@
 	<!--************* TABS *************-->
 	<ul id="global_nav_ul">
 		<li id="donors">
-			<a href="/index.html" onclick="trackHeaderClick(this)" ;="">Donors</a>
+			<a href="/index.html" onclick="trackHeaderClick(this);">Donors</a>
 		</li>
 		<li id="nonprofits">
-			<a href="/non-profits/" onclick="trackHeaderClick(this)" ;="">Non-Profits</a>
+			<a href="/non-profits/" onclick="trackHeaderClick(this);">Non-Profits</a>
 		</li>
 		<li id="corporate">
-			<a href="/corporate-partners/" onclick="trackHeaderClick(this)" ;="">Corporate Partners</a>
+			<a href="/corporate-partners/" onclick="trackHeaderClick(this);">Corporate Partners</a>
 		</li>
 		<li id="about">
-			<a href="/aboutus/" onclick="trackHeaderClick(this)" ;="">About</a>
+			<a href="/aboutus/" onclick="trackHeaderClick(this);">About</a>
 		</li>
 	</ul>
 </div>
@@ -227,13 +227,13 @@
 		<!--************* DONOR NAV *************-->
 		<ul id="ul_donors" style="display:none;">
 		<li id="find">
-			<a href="/dy/v2/content/browse.html" onclick="trackHeaderClick(this)" ;="">Find a Project</a>
+			<a href="/dy/v2/content/browse.html" onclick="trackHeaderClick(this);">Find a Project</a>
 		</li>
 		<li id="gifts">
-			<a href="/gifts/" onclick="trackHeaderClick(this)" ;="">Gift Cards</a>
+			<a href="/gifts/" onclick="trackHeaderClick(this);">Gift Cards</a>
 		</li>
 		<li id="getInvolved">
-			<a href="/get-involved/" onclick="trackHeaderClick(this)" ;="">Get Involved</a>
+			<a href="/get-involved/" onclick="trackHeaderClick(this);">Get Involved</a>
 		</li>
 		</ul>
 		
@@ -241,48 +241,48 @@
 
 		<ul id="ul_nonprofits" style="display:none;">
 		<li id="features">
-			<a href="/non-profits/features-and-benefits/" onclick="trackHeaderClick(this)" ;="">Features &amp; Benefits</a>
+			<a href="/non-profits/features-and-benefits/" onclick="trackHeaderClick(this);">Features &amp; Benefits</a>
 		</li>
 		<li id="join">
-			<a href="/non-profits/join-globalgiving/" onclick="trackHeaderClick(this)" ;="">Join GlobalGiving</a>
+			<a href="/non-profits/join-globalgiving/" onclick="trackHeaderClick(this);">Join GlobalGiving</a>
 		</li>
 		<li id="manage">
-			<a href="/dy/v2/pe/dashboard/overview.html" onclick="trackHeaderClick(this)" ;="">Manage Project(s)</a>
+			<a href="/dy/v2/pe/dashboard/overview.html" onclick="trackHeaderClick(this);">Manage Project(s)</a>
 		</li>
 		<li id="tools">
-			<a href="http://tools.blog.globalgiving.org/" onclick="trackHeaderClick(this)" ;="">Tools &amp; Training</a>
+			<a href="http://tools.blog.globalgiving.org/" onclick="trackHeaderClick(this);">Tools &amp; Training</a>
 		</li>
 		</ul>
 		<!--************* CORPORATE PARTNER NAV *************-->
 		
 		<ul id="ul_corporate" style="display:none;">
 		<li id="services">
-			<a href="/corporate-partners/services-we-offer" onclick="trackHeaderClick(this)" ;="">Services We Offer</a>
+			<a href="/corporate-partners/services-we-offer" onclick="trackHeaderClick(this);">Services We Offer</a>
 		</li>
 		<li id="currentPartners">
-			<a href="/corporate-partners/current-partners/" onclick="trackHeaderClick(this)" ;="">Current Partners</a>
+			<a href="/corporate-partners/current-partners/" onclick="trackHeaderClick(this);">Current Partners</a>
 		</li>
 		<li id="giftcards">
-			<a href="/corporate-partners/order-gift-cards" onclick="trackHeaderClick(this)" ;="">Order Gift Cards</a>
+			<a href="/corporate-partners/order-gift-cards" onclick="trackHeaderClick(this);">Order Gift Cards</a>
 		</li>
 		<li id="corportateContactus">
-			<a href="/corporate-partners/contact-us/" onclick="trackHeaderClick(this)" ;="">Contact Us</a>
+			<a href="/corporate-partners/contact-us/" onclick="trackHeaderClick(this);">Contact Us</a>
 		</li>
 		</ul>
 		<!--************* ABOUT US NAV *************-->
 		
 		<ul id="ul_about" style="display:block;"> 
 		<li id="howitworks">
-			<a href="/howitworks.html" onclick="trackHeaderClick(this)" ;="">How It Works</a>
+			<a href="/howitworks.html" onclick="trackHeaderClick(this);">How It Works</a>
 		</li>
 		<li id="team">
-			<a href="/aboutus/bios.html" onclick="trackHeaderClick(this)" ;="">Our Team</a>
+			<a href="/aboutus/bios.html" onclick="trackHeaderClick(this);">Our Team</a>
 		</li>
 		<li id="jobs">
-			<a href="/aboutus/jobs/" onclick="trackHeaderClick(this)" ;="">Jobs</a>
+			<a href="/aboutus/jobs/" onclick="trackHeaderClick(this);">Jobs</a>
 		</li>
 		<li id="contactus">
-			<a href="/contactus/" onclick="trackHeaderClick(this)" ;="">Contact Us</a>
+			<a href="/contactus/" onclick="trackHeaderClick(this);">Contact Us</a>
 		</li>
 		</ul>
 		
@@ -364,6 +364,11 @@
 	</div> 
 	</div>   
 	
+	<div id="printedLogo" class="onlyPrinted">
+        <a href="/"><img src="/img/logos/horz_gglogo_white.png" alt="GlobalGiving" border="0"></a>      
+    </div>
+    
+    
 	 
 	<!-- default template -->
 	<div id="siteWrapperDiv" class="siteWrapper">	<!-- START wrapper DIV --> 
@@ -384,6 +389,7 @@
 
 	
 	
+	
 	<a name="content" class="hidden"></a> 
 
 
@@ -402,8 +408,7 @@
   </p>
 	<p>   
 	GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward 
-	Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. 
-	Department of Commerce. 
+	Transfer, Security, Data Integrity, and Access and Enforcement.
 	</p>
   <p>
   	<a href="https://safeharbor.export.gov/list.aspx" target="_blank">We self-certify compliance with:</a><br>
@@ -774,80 +779,81 @@ make changes to your information and update your account at any time.
 		<div class="grid_12 alpha omega">
 			<div class="grid_2 alpha">
 				<ul class="footText">
-					<li class="footTitle"><a href="/aboutus/" onclick="trackFooterClick(this)" ;="">About Us</a></li>
-					<li><a href="/howitworks.html" onclick="trackFooterClick(this)" ;="">How GlobalGiving Works</a></li>
-					<!--<li><a href="/aboutus/media" onclick="trackFooterClick(this)";>GlobalGiving in the News</a></li>-->
-					<li><a href="/aboutus/bios.html" onclick="trackFooterClick(this)" ;="">Our Team</a></li>
-					<li><a href="/aboutus/jobs/" onclick="trackFooterClick(this)" ;="">Jobs &amp; Internships</a></li>
-                    <li><a href="/aboutus/privacypol.html" onclick="trackFooterClick(this)" ;="">Privacy Policy</a></li>
-                    <li><a href="/aboutus/terms-of-service.html" onclick="trackFooterClick(this)" ;="">Terms of Service</a></li>
-					<li><a href="/help.html" onclick="trackFooterClick(this)" ;="">Help &amp; FAQ</a></li>
-					<li><a href="/contactus/" onclick="trackFooterClick(this)" ;="">Contact us</a></li>
+					<li class="footTitle"><a href="/aboutus/" onclick="trackFooterClick(this);">About Us</a></li>
+					<li><a href="/howitworks.html" onclick="trackFooterClick(this);">How GlobalGiving Works</a></li>
+					<!--<li><a href="/aboutus/media" onclick="trackFooterClick(this);">GlobalGiving in the News</a></li>-->
+					<li><a href="/aboutus/bios.html" onclick="trackFooterClick(this);">Our Team</a></li>
+					<li><a href="/aboutus/jobs/" onclick="trackFooterClick(this);">Jobs &amp; Internships</a></li>
+                    <li><a href="/aboutus/privacypol.html" onclick="trackFooterClick(this);">Privacy Policy</a></li>
+                    <li><a href="/aboutus/terms-of-service.html" onclick="trackFooterClick(this);">Terms of Service</a></li>
+					<li><a href="/help.html" onclick="trackFooterClick(this);">Help &amp; FAQ</a></li>
+					<li><a href="/contactus/" onclick="trackFooterClick(this);">Contact us</a></li>
 				</ul>
 			</div>
 
 			<div class="grid_2">
 				<ul class="footText"> 
-					<li class="footTitle"><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this)" ;="">Post A Project</a></li> 
-					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this)" ;="">Add Your Project</a></li>
-					<li><a href="/non-profits/join-globalgiving/recommend.html" onclick="trackFooterClick(this)" ;="">Recommend a Project</a></li>
-					<li><a href="/aboutus/dd.html" onclick="trackFooterClick(this)" ;="">Application Documents &amp; Due Diligence</a></li>
-					<li><a href="/non-profits/features-and-benefits/" onclick="trackFooterClick(this)" ;="">Features &amp; Benefits</a></li>
-					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this)" ;="">How To Join</a></li>
+					<li class="footTitle"><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">Post A Project</a></li> 
+					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">Add Your Project</a></li>
+					<li><a href="/non-profits/join-globalgiving/recommend.html" onclick="trackFooterClick(this);">Recommend a Project</a></li>
+					<li><a href="/aboutus/dd.html" onclick="trackFooterClick(this);">Application Documents &amp; Due Diligence</a></li>
+					<li><a href="/non-profits/features-and-benefits/" onclick="trackFooterClick(this);">Features &amp; Benefits</a></li>
+					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">How To Join</a></li>
 				</ul>
 			</div>
 
 			<div class="grid_2">
 				<ul class="footText">
-					<li class="footTitle"><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this)" ;="">Ways To Give</a></li>
-					<li><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this)" ;="">Donate to a Project</a></li>
-					<li><a href="/gifts/" onclick="trackFooterClick(this)" ;="">Gift Cards</a></li>
-					<li><a href="/project-of-the-month-club/" onclick="trackFooterClick(this)" ;="">Project of the Month Club</a></li>
-					<li><a href="/gifts/inhonor.html" onclick="trackFooterClick(this)" ;="">Donate In Honor</a></li>
-					<li><a href="/givingtools/" onclick="trackFooterClick(this)" ;="">Registries &amp; Fundraisers</a></li>
-					<li><img src="/img/flags/gb.gif" alt="UK Flag" style="width:16px; height:11px"> <a href="http://www.globalgiving.co.uk/" onclick="trackFooterClick(this)" ;="">GlobalGiving UK</a></li>
+					<li class="footTitle"><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this);">Ways To Give</a></li>
+					<li><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this);">Donate to a Project</a></li>
+					<li><a href="/gifts/" onclick="trackFooterClick(this);">Gift Cards</a></li>
+					<li><a href="/project-of-the-month-club/" onclick="trackFooterClick(this);">Project of the Month Club</a></li>
+					<li><a href="/gifts/inhonor.html" onclick="trackFooterClick(this);">Donate In Honor</a></li>
+					<li><a href="/givingtools/" onclick="trackFooterClick(this);">Registries &amp; Fundraisers</a></li>
+					<li><img src="/img/flags/gb.gif" alt="UK Flag" style="width:16px; height:11px"> <a href="http://www.globalgiving.co.uk/" onclick="trackFooterClick(this);">GlobalGiving UK</a></li>
 				</ul>
 			</div>
 			<div class="grid_2">
 				<ul class="footText">
-					<li class="footTitle"><a href="/get-involved/" onclick="trackFooterClick(this)" ;="">Learn &amp; Do More</a></li>
-					<li><a href="/to-go/" onclick="trackFooterClick(this)" ;="">API</a></li>
-					<li><a href="/guaranteed/" onclick="trackFooterClick(this)" ;="">GlobalGiving Guaranteed</a></li>
-					<li><a href="/seeresults.html" onclick="trackFooterClick(this)" ;="">Our Impact to Date</a></li>
-					<li><a href="http://inthefield.globalgiving.org/" onclick="trackFooterClick(this)" ;="">In the Field</a></li>
-					<li><a href="/newsletter/" onclick="trackFooterClick(this)" ;="">Newsletter</a></li>
+					<li class="footTitle"><a href="/get-involved/" onclick="trackFooterClick(this);">Learn &amp; Do More</a></li>
+					<li><a href="/to-go/" onclick="trackFooterClick(this);">API</a></li>
+					<li><a href="/guaranteed/" onclick="trackFooterClick(this);">GlobalGiving Guaranteed</a></li>
+					<li><a href="/seeresults.html" onclick="trackFooterClick(this);">Our Impact to Date</a></li>
+					<li><a href="/inthefield/" onclick="trackFooterClick(this);">In the Field</a></li>
+					<li><a href="/newsletter/" onclick="trackFooterClick(this);">Newsletter</a></li>
 					<li><a href="http://blog.globalgiving.org">Blog</a></li>
-					<li><a href="/aboutus/logos.html" onclick="trackFooterClick(this)" ;="">Logos</a></li>
+					<li><a href="/aboutus/logos.html" onclick="trackFooterClick(this);">Logos</a></li>
+					<li><a href="/iati/" onclick="trackFooterClick(this);">IATI Data</a></li>
 				</ul>
 			</div>
 			<div class="grid_4 omega">
 				<div class="newsletterSignup">
-					<div class="footLogoTitle"><a href="/newsletter/" onclick="trackFooterClick(this)" ;="">Sign up for our monthly newsletter</a></div> 
+					<div class="footLogoTitle"><a href="/newsletter/" onclick="trackFooterClick(this);">Sign up for our monthly newsletter</a></div> 
                     <form action="http://globalgiving.us1.list-manage1.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="_gaq.push(['_trackEvent', 'Newslettler', 'Email Submitted']);">						
 				        <div class="ctrlHolder">    
                         <input type="text" value="e-mail" name="EMAIL" class="required email" size="30" maxlength="200" id="mce-EMAIL" style="color: #777777;" onclick="clearEmail(this);" onfocus="clearEmail(this);" onblur="fillEmail(this);"> 
 				        <input type="image" src="/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: top;">
-				        <div class="footText"><em><a href="/newsletter/" onclick="trackFooterClick(this)" ;="">Not sure? Read samples of previous newsletters</a></em></div> 
+				        <div class="footText"><em><a href="/newsletter/" onclick="trackFooterClick(this);">Not sure? Read samples of previous newsletters</a></em></div> 
 				        </div> 
 				    </form>
 				</div>
 				
 				<div id="facebookFooterLogo" class="logoDiv">
 				<ul class="footSocialLogos">  
-					<li class="footLogoTitle"><a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this)" ;="">Become a fan on</a></li>
-					<li><a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this)" ;=""><img src="/img/navigation/footer/facebook.gif" alt="Facebook" style="width:105px; height:39px"></a></li> 
+					<li class="footLogoTitle"><a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this);">Become a fan on</a></li>
+					<li><a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this);"><img src="/img/navigation/footer/facebook.gif" alt="Facebook" style="width:105px; height:39px"></a></li> 
 				</ul>
 				</div>
 				<div class="logoDiv">
 				<ul class="footSocialLogos">  
-					<li class="footLogoTitle twitter"><a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this)" ;="">Follow us on</a></li> 
-					<li><a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this)" ;=""><img src="/img/navigation/footer/twitter.gif" alt="Twitter" style="width:97px; height:25px"></a></li> 
+					<li class="footLogoTitle twitter"><a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this);">Follow us on</a></li> 
+					<li><a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this);"><img src="/img/navigation/footer/twitter.gif" alt="Twitter" style="width:97px; height:25px"></a></li> 
 				</ul>
 				</div>
 				<div class="logoDiv">
 				<ul class="footSocialLogos">  
-					<li class="footLogoTitle"><a href="/rss.html" onclick="trackFooterClick(this)" ;="">RSS</a></li>
-					<li><a href="/rss.html" onclick="trackFooterClick(this)" ;=""><img src="/img/navigation/footer/rss.gif" alt="RSS" style="width:41px; height:42px"></a></li> 
+					<li class="footLogoTitle"><a href="/rss.html" onclick="trackFooterClick(this);">RSS</a></li>
+					<li><a href="/rss.html" onclick="trackFooterClick(this);"><img src="/img/navigation/footer/rss.gif" alt="RSS" style="width:41px; height:42px"></a></li> 
 				</ul>
 				</div> 
 			</div>
@@ -860,7 +866,7 @@ make changes to your information and update your account at any time.
 		<div class="grid_12 noMargin alpha omega"> 
 			<div class="grid_7 alpha" id="trustlogos">
 				<div class="grid_3 alpha omega">
-				<span class="footTitle"><a href="/aboutus/media/index.html#3" onclick="trackFooterClick(this)" ;="">Featured In</a></span><br>
+				<span class="footTitle"><a href="/aboutus/media/index.html#3" onclick="trackFooterClick(this);">Featured In</a></span><br>
 				<a href="/aboutus/media/index.html#3"><img src="/img/navigation/footer/logos.gif" alt="Media Logos" style="width:220px; height:69px"></a> 
 				</div>
 				<div id="lineDiv">
@@ -878,9 +884,9 @@ make changes to your information and update your account at any time.
 			</div>
 			<div class="grid_5 omega">
 				<div id="finePrint">
-					<div class="footTitle finePrint"><a href="/aboutus/dd.html" onclick="trackFooterClick(this)" ;="">The Fine Print</a></div>
+					<div class="footTitle finePrint"><a href="/aboutus/dd.html" onclick="trackFooterClick(this);">The Fine Print</a></div>
 					<p class="footText notPrinted">
-						<a href="/aboutus/dd.html" onclick="trackFooterClick(this)" ;="">
+						<a href="/aboutus/dd.html" onclick="trackFooterClick(this);">
 						Projects on globalgiving.org undergo compliance checks to ensure they have a bona fide charitable purpose and meet
 						applicable laws relating to international philanthropy.</a> Organizations listed as partners do not necessarily endorse or
 						support any particular project listed on globalgiving.org. <a href="/aboutus">The GlobalGiving Foundation is a 501(c)3 organization</a> (EIN: 30-0108263).
@@ -889,11 +895,11 @@ make changes to your information and update your account at any time.
 						GlobalGiving<br>
 						1023 15th Street, NW, 12th Floor, Washington, DC 20005<br>
 						Phone: (202) 232-5784  &nbsp;&nbsp; Fax: (202) 315-2558<br>
-						<a href="/contactus/" class="contactus" onclick="trackFooterClick(this)" ;="">Contact us</a>
+						<a href="/contactus/" class="contactus" onclick="trackFooterClick(this);">Contact us</a>
 					</p>
 
 					<div id="copyright" class="footText">
-						Copyright © 2000-2011 GlobalGiving Foundation.
+						Copyright © 2000-2012 GlobalGiving Foundation.
 
 					</div> 
 				</div>
