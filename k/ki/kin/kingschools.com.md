@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113200831id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601015544id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | King Schools
 
@@ -34,14 +34,14 @@ The categories of information that we collect and retain on this web site are:
   * Name
   * Postal Address
   * Telephone Number
-  * email address
+  * Email Address
   * Credit Card Information
   * Pilot Status
   * Account Login and Account Preferences
 
 
 
-We'll use this information in processesing your order, shipping your products to you, maintaining your web account, for internal quality reviews, for improving our web site, and to contact you as part of our regular marketing efforts.
+We'll use this information in processing your order, shipping your products to you, maintaining your web account, for internal quality reviews, for improving our web site, and to contact you as part of our regular marketing efforts.
 
 ### How we protect your information:
 
