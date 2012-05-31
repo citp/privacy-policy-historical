@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012083921id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531234518id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | 89.3 KPCC
 
-You have come to this page from a Web site produced by Southern California Public Radio (SCPR), the operator of KPCC, KPCV, and KUOR. When we refer to KPCC, KPCV, and KUOR in this privacy policy, we are referring to the privacy policy of SCPR. We recognize the importance of privacy to visitors to any SCPR Web site, and we want every user (you) to know how we collect and use information about you when you visit our Web sites. This privacy policy explains what type of information is collected from you when you visit this and other SCPR Web sites, and how we may use that information.
+You have come to this page from a Web site produced by Southern California Public Radio (SCPR), the operator of KPCC, KVLA, and KUOR. When we refer to KPCC, KVLA, and KUOR in this privacy policy, we are referring to the privacy policy of SCPR. We recognize the importance of privacy to visitors to any SCPR Web site, and we want every user (you) to know how we collect and use information about you when you visit our Web sites. This privacy policy explains what type of information is collected from you when you visit this and other SCPR Web sites, and how we may use that information.
 
 ## Contents
 
@@ -12,9 +12,9 @@ You have come to this page from a Web site produced by Southern California Publi
     * Demographic and profile information
     * Credit card information
   * Your California Privacy Rights
-  * [Contact SCPR](https://web.archive.org/web/20111012083921id_/http://www.scpr.org/privacy/contact)
-  * [Consent](https://web.archive.org/web/20111012083921id_/http://www.scpr.org/privacy/consent)
-  * [Effective Date](https://web.archive.org/web/20111012083921id_/http://www.scpr.org/privacy/effective)
+  * [Contact SCPR](https://web.archive.org/web/20120531234518id_/http://www.scpr.org/privacy/contact)
+  * [Consent](https://web.archive.org/web/20120531234518id_/http://www.scpr.org/privacy/consent)
+  * [Effective Date](https://web.archive.org/web/20120531234518id_/http://www.scpr.org/privacy/effective)
 
 
 
@@ -94,3 +94,6 @@ Your use of the SCPR Web site constitutes consent to any policy then in effect.
 ## Effective date
 
 This policy was last updated on August 26, 2010.
+
+  
+
