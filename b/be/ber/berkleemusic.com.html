@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the berkleemusic.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229132848id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the berkleemusic.com privacy policy that was archived on 2012-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531095948id_/http%3A//www.berkleemusic.com/about/about/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta name="verify-v1" content="AaO+3igXqu1T41mOie77vhlyYSpUBjPr+twijt6QwZ4=">
 
 	<title>Privacy Policy</title>
-	<link rel="stylesheet" href="/homepage.css?v=1.8 " type="text/css">
-	<link rel="stylesheet" href="/style_new.css?v=1.01" type="text/css">	
+	<link rel="stylesheet" href="/homepage.css?v=1.17 ?v=1.98" type="text/css">
+	<link rel="stylesheet" href="/style_new.css?v=1.08" type="text/css">	
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">        
 	<link rel="alternate" type="application/rss+xml" href="http://www.berkleemusicblogs.com/feed/" title="Berkleemusic Blogs"> 
-	<script language="javascript1.1" src="/rollovers.js" type="text/javascript"></script>
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7649.js" async="" type="text/javascript"></script><script language="javascript1.1" src="/rollovers.js" type="text/javascript"></script>
 	<script language="JavaScript" src="/breadcrumb.js" type="text/javascript"></script>
 	<script language="javascript" type="text/javascript">AC_FL_RunContent = 0;</script>
 	<script src="/AC_RunActiveContent.js" language="javascript" type="text/javascript"></script>
 	<script src="/javascripts/swfobject.js" language="javascript" type="text/javascript"></script>
+	<script src="/javascripts/check_length.js" language="javascript" type="text/javascript"></script>
 	<script language="JavaScript" type="text/javascript">
 	<!--
 	function popCenterWindow(url, name, w, h){
@@ -32,23 +33,17 @@
 		newWindow = window.open(url,name,'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=' + w + ',height=' + h + ',top=' + topPos + ',left=' + leftPos)
         newWindow.focus();
 	}
-
-    
-    function addSifrFont() {
-        var lubalin = new Font('lubalin_book.swf', {
-        tags:'h1,h3',
-        classFilter:'sifr'
-        });
-        lubalin.replace();
-    }
     
 
 	-->
 	</script>
-	
-	
-	 
-		
+
+    <script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js"></script>
+    <script type="text/javascript">
+        GS_googleAddAdSenseService("ca-pub-3088739887126413");
+        GS_googleEnableAllServices();
+    </script>
+
 	
 	    <meta name="description" content="Online extension school and career center for Berklee College of Music.">
     
@@ -61,141 +56,208 @@
 	  
     <script type="text/javascript" src="/javascripts/prototype.js"></script>
     <script type="text/javascript" src="/javascripts/scriptaculous.js"></script>
-    <script type="text/javascript" src="/javascripts/rails/sifr.lite.js"></script>
     <script type="text/javascript" src="/javascripts/lightview2.3.2/js/lightview.js"></script>
-	<script type="text/javascript" src="/community/templates/bms/js/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+    google.load("jquery", "1.6.1");
+    </script>
 	
 	<script type="text/javascript" language="JavaScript">
 	 /* label over */
 	
 	jQuery.noConflict(); // make sure there's no clash with prototype / scriptaculous
 	
-	jQuery.fn.labelOver = function(overClass) {
+		jQuery.fn.labelOver = function(overClass) {
 		return this.each(function(){
-			var label = jQuery(this);
-			var f = label.attr('for');
-			if (f) {
-				var input = jQuery('#' + f);
-				
-				this.hide = function() {
-				  label.css({ textIndent: -10000 })
-				}
-				
-				this.show = function() {
-				  if (input.val() == '') label.css({ textIndent: 0 })
-				}
-	
-				// handlers
-				input.focus(this.hide);
-				input.blur(this.show);
-				label.addClass(overClass).click(function(){ input.focus() });
-				
-				if (input.val() != '') this.hide(); 
-			}
+		var label = jQuery(this);
+		var f = label.attr('for');
+		if (f) {
+		var input = jQuery('#' + f);
+		this.hide = function() {
+		label.css({ textIndent: -10000 })
+		}
+		this.show = function() {
+		if (input.val() == '') label.css({ textIndent: 0 })
+		}
+
+		input.focus(this.hide);
+		input.blur(this.show);
+		label.addClass(overClass).click(function(){ input.focus() });
+		if (input.val() != '') this.hide(); 
+		}
 		})
-	}
-	
-	
-	jQuery(document).ready(function(){
-    	// set the hints in fields that need them
-    	// find all the input elements with title attributes
-
-    	jQuery('label.hint').labelOver('over');
-
-    });
+		}
+		jQuery(document).ready(function(){
+		// set the hints in fields that need them
+		// find all the input elements with title attributes
+		jQuery('label.hint').labelOver('over');
+		});
 	
     </script>
+    
+    
+      <script type="text/javascript">
+    	
+      	//set up the array to store ga events
+          var categoryEvents = new Array();
+        
+          function registerEvent(category, action) {
+
+            // this function is now a no-op, in development/staging environments
+            
+
+              //check if this has already been registered
+              if (categoryEvents.indexOf(category+action) > -1 ) {
+                  //do nothing
+              } else {
+                  categoryEvents.push(category+action)
+                  pageTracker._trackEvent(category, action);
+              }
+              
+            
+
+      	}
+
+      </script>
+
     <link rel="stylesheet" href="/javascripts/lightview2.3.2/css/lightview.css" type="text/css">
-	
-	
-	<!-- IE6 PNG FIx -->
-	
-	<!--[if IE 6]>
-	<script src="/community/templates/bms/js/jquery.pngFix.js"></script>
-	<script>
-	  /* EXAMPLE */
-	  DD_belatedPNG.fix('#masthead_container, li.active, #awards img, #quad .quad-cont, .quad-cont img, span #in_left, span #in_right, #footer, div.footer_bottom');
-	  
-	</script>
-	<![endif]--> 
-	
-	
 	
 </head>
 
 	
-	<body onload="javascript:window.name='Berkleemusic';window.focus();addSifrFont();" bgcolor="white" text="black">
+<body onload="javascript:window.name='Berkleemusic';" bgcolor="white" text="black">
 
 <!-- center it -->
 <div style="text-align: center;" class="pagebackground">
 
 
     <div>
-		<div id="messagebar_wrapper">
-    <div class="container clearfix">
-        <div id="contactleft" class="column">
-            Winter Term Starts January 11th!&nbsp;&nbsp;&nbsp;<a href="javascript:popCenterWindow('/school/contact-admissions-popup','contact',526,475)"><span>Contact Us</span></a> <span class="contact_no">1-866-BERKLEE (USA) or +1-617-747-2146 (INTL)</span>
-        </div>
-	
-        <div id="contactright" class="column floatright clearfix">
-           
-		   <div class="fr">
-		    <form action="/results" id="cse-search-box">
+		<link rel="stylesheet" href="/stylesheets/header.css?v=2" type="text/css">
 
-                <input type="hidden" name="cx" value="016757877586583040297:d2thd_psyhu">
-                <input type="hidden" name="cof" value="FORID:11">
-
-                <div class="input_wrapper">
-                    <label for="Searchbox" class="hint over">Search Online Courses</label>
-                    <div class="fl">
-                    <input type="text" name="q" id="Searchbox" size="16" maxlength="100" title="Search for curriculum"></div>
-                    <div class="top_search_submit fl"><input type="image" src="/images/rails/btn_topbar_search_submit.gif" name="sa"></div>
+<div id="top_bar" class="container clearfix">
+  
+  <div class="row clearfix">
+    <div id="contactleft" class="column fl">Summer Term Starts June 25th!</div>
+      <div class="fr">
+        <ul class="drop_down clearfix fr">
+            <li><a href="/register">Log In</a></li>
+            <li><a href="/register/user-new">Sign Up</a></li>
+            <li id="go_to">
+              <a href="/" class="drop">Go to</a>
+              <div class="dropdown_2columns align_right">
+                <div class="col_2">
+                  <ul class="greybox">
+                    <li id="market_berkleemusic">
+                      <a href="http://www.berkleemusic.com">
+                        Berkleemusic
+                        <span>LEARN MUSIC ONLINE</span>
+                      </a>
+                    </li>
+                    <li id="market_network">
+                      <a href="http://network.www.berkleemusic.com">
+                        Berklee Music Network
+                        <span>FIND A JOB, GET DEALS, COLLABORATE</span>
+                      </a>
+                    </li>
+                    <li id="market_berklee">
+                      <a href="http://www.berklee.edu" target="_blank">
+                        Berklee College of Music
+                        <span>LEARN ABOUT OUR BOSTON CAMPUS</span>
+                      </a>
+                    </li>
+                  </ul>
                 </div>
-
-            </form>
-			</div>
+              </div>
+            </li>
             
-        </div>
-
+          </ul>
+      </div>
     </div>
+  
 </div>
 
 <!-- masthead -->
 <div id="masthead_container">
-	<div id="masthead" class="container clearfix">
-        <a href="/"><div id="logo" class="column"></div></a>
-        <div id="primary_menu" class="column">
-        	<ul class="menu">
-				<li class="parent active">
-					<a href="/"><span>Online School</span></a>
-				</li>
-				<li>
-					<a href="/billboard/jobs/"><span>Jobs + Gigs</span></a>
-				</li>
-				<li>
-					<a href="/blogs/"><span>Blogs</span></a>
-				</li>
-				<li>
-					<a href="/community/"><span>Network</span></a>
-					<div id="beta"><img src="/images/icon_beta.gif" alt="Berkleemusic's Network is in Beta."></div>
-				</li>
-				<li class=" last_item">
-					<a href="/store"><span>Store</span></a>
-				</li>
-			</ul>
-        </div>
-        <div id="profile_menu" class="column">
-
-
-	<div id="login_signup">
-		<a class="login_button" href="/register" title="Log in">Log In</a>
-		<a class="signup_button" href="/register/user-new" title="Sign up">Sign Up</a>
-	</div>
-
-
-
+  <div id="masthead" class="container clearfix">
+    <a href="/" onclick="registerEvent('homepage', 'header_logo')"><div id="logo" class="column"></div></a>
+    <div id="primary_menu" class="column">
+      <ul class="menu drop_down clearfix">
+        <li class="first d">
+            <a href="/school/certificates" class="drop double"><span>Online</span>Certificates</a>
+            <div class="dropdown_4columns">
+              <div class="col_2">
+                <ul class="greybox">
+                    <li><a href="/music-production">Music Production</a></li>
+                    <li><a href="/songwriting">Songwriting</a></li>
+                    <li><a href="/orchestration">Orchestration</a></li>
+                    <li><a href="/music-theory">Music Theory</a></li>
+                    <li><a href="/music-business">Music Business</a></li>
+                    <li><a href="/music-history-and-liberal-arts">Music History &amp; Liberal Arts</a></li>
+                </ul>
+              </div>
+              <div class="col_2">
+                  <ul class="greybox">
+                      <li><a href="/guitar">Guitar</a></li>
+                      <li><a href="/bass">Bass</a></li>
+                      <li><a href="/keyboard">Keyboard</a></li>
+                      <li><a href="/drums">Drums</a></li>
+                      <li><a href="/voice">Voice</a></li>
+                      <li><a href="/music-for-film-games-and-tv">Music for Film, Games &amp; TV</a></li>
+                  </ul>
+                </div>
+            </div>
+        </li>
+        <li class="d">
+            <a href="/school/courses" class="drop double"><span>Online</span>Courses</a>
+            <div class="dropdown_4columns">
+              <div class="col_2">
+                <ul class="greybox">
+                    <li><a href="/music-production">Music Production</a></li>
+                    <li><a href="/songwriting">Songwriting</a></li>
+                    <li><a href="/orchestration">Orchestration</a></li>
+                    <li><a href="/music-theory">Music Theory</a></li>
+                    <li><a href="/music-business">Music Business</a></li>
+                    <li><a href="/music-history-and-liberal-arts">Music History &amp; Liberal Arts</a></li>
+                </ul>
+              </div>
+              <div class="col_2">
+                  <ul class="greybox">
+                      <li><a href="/guitar">Guitar</a></li>
+                      <li><a href="/bass">Bass</a></li>
+                      <li><a href="/keyboard">Keyboard</a></li>
+                      <li><a href="/drums">Drums</a></li>
+                      <li><a href="/voice">Voice</a></li>
+                      <li><a href="/music-for-film-games-and-tv">Music for Film, Games &amp; TV</a></li>
+                  </ul>
+                </div>
+            </div>
+        </li>
+        <li class="d">
+            <a href="/school/information" class="drop double"><span>About</span>Berkleemusic</a>
+            <div class="dropdown_2columns">
+              <div class="col_2">
+                <ul class="greybox">
+                    <li><a href="http://tour.berkleemusic.com" target="_blank">Take the Tour</a></li>
+                     <li><a href="/school/faculty">Faculty</a></li>
+                    <li><a href="/welcome/faculty-clinics">Faculty Online Clinics</a></li>
+                     <li><a href="/welcome/student-spotlights">Students</a></li>
+                     <li><a href="/welcome/student-advisors">FAQ / Student Advisors</a></li>
+                    <li><a href="/school/information">School Info</a></li>
+                </ul>
+              </div>
+            </div>
+        </li>
+        <li id="blogs" class="single ">
+            <a href="/blogs"><span>Blogs</span></a>
+        </li>
+        <li class="single ">
+            <a href="/store"><span>Bookstore</span></a>
+        </li>
+      </ul>
+    </div>
+  </div>
 </div>
-</div>
+
     <!--<div class="number_header">
         <strong>CALL OUR ADVISORS NOW</strong>   1-866-BERKLEE <span>(USA)  | </span>+1 617 747 2146 <span>(Intl) |</span> 
         <a href="javascript:popCenterWindow('/school/contact-admissions-popup','contact',526,475)">Contact Advisors</a>
@@ -204,60 +266,13 @@
 <!-- starts content area w/ nav and content -->
  
      <div id="thepage-wrapper">
-       
-  
+ 
 
 <div class="content-footer-container">
 
     <div class="thepage">
-    
-    
-	<!-- Main navigation bar -->
 
-	<!--<table width="760" border="0" align="center" cellspacing="0" cellpadding="0">
-
-		<tr>
-			<td valign=Middle align=left class="site-header"><a href="/" title="Berkleemusic home"><img align=left width="100" height="54" src="/images/d.gif" border=0 alt="Berkleemusic online music school"></a><div class="tagline">learn music online</div></td>
-		</tr>
-
-
-		<tr><td style="text-align:center; padding-top:2px;">
-
-			<div id="cssnav-menu">
-            <ul>
-              <li><a href="/" title="Berkleemusic home">Online School</a></li>
-              <li><a href="/store" title="Store">Bookstore</a></li>
-              <li><a href="/billboard/jobs" title="Jobs">Jobs &amp; Gigs</a></li>
-              <li><a href="/directory" title="Directory">Directory</a></li>
-              <li><a href="/discuss" title="Discussions">Discussions</a></li>
-              <li><a href="/blogs" title="Blogs">Blogs</a></li>
-			</ul>
-            <div class="search">
-
-
-<form action="/results" id="cse-search-box">
-
-    <input type="hidden" name="cx" value="016757877586583040297:d2thd_psyhu">
-    <input type="hidden" name="cof" value="FORID:11">
-    <label for="Searchbox" style="position:absolute; top:0px; left:0px; visibility:hidden">Search:</label><input type="text" name="q" id="Searchbox" size="16" value=" ">
-    <input type="submit" name="sa" value="Search">
-
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
-</div>
-			</div>	
-		</td></tr>
-
-		
-	</table>--><!-- end of main navigation bar -->
 <div style="padding-bottom:4px; padding-left:2px;">	
-
-<script language="JavaScript" type="text/javascript">
-<!--
-// breadcrumbs();
--->
-</script>	
-
 
 
 <div class="crumbs"><a href="/" class="crumblink">Home</a> -&gt; <a href="../" class="crumblink">About</a> -&gt; <span class="lastcrumb">Privacy Policy</span></div>
@@ -417,14 +432,14 @@ wish to opt-out of all announcements.</p>
             </div>
 
             <div class="legal_info">    
-                <span style="padding-top: 24px; text-align:center; position:relative; width: 760px;"><a href="http://www.berklee.edu/" title="Berkleemusic home"><img src="/images/footer/logo.gif" alt="Berklee Music" width="60" height="31" border="0" style=" float:left; padding:5px 15px 15px 15px;"></a></span>&copy;2001-2009 <a href="http://www.berklee.edu/" title="Berkleemusic home">Berklee College of Music</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span style="padding-top: 24px; text-align:center; position:relative; width: 760px;"><a href="http://www.berklee.edu/" title="Berkleemusic home"><img src="/images/footer/logo.gif" alt="Berklee Music" width="60" height="31" border="0" style=" float:left; padding:5px 15px 15px 15px;"></a></span>&copy;2001-2012 <a href="http://www.berklee.edu/" title="Berkleemusic home">Berklee College of Music</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="/about/about/termsofuse" title="Terms of use">Terms of Use</a> |
                 <a href="/about/about/privacypolicy" title="Privacy policy"><B>Privacy Policy</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="/contact/index?type_id=14" title="Contact us">Contact Us</a> | 
                 <a href="/about" title="About us">About&nbsp;Us</a> 
                 <br>
                 <br>
-                <a href="/">Berkleemusic</a> is accredited by the New England Association of Schools and Colleges (<a href="http://www.neasc.org" title="NEASC">NEASC</a>)<br><br>
+                <a href="http://www.berklee.edu">Berklee College of Music</a> is accredited by the New England Association of Schools and Colleges (<a href="http://www.neasc.org" title="NEASC">NEASC</a>)<br><br>
             </div> -->
 	
 
@@ -440,58 +455,49 @@ wish to opt-out of all announcements.</p>
     <div id="footer" class="footer_cell">
         <ul id="footer_promos">
             <li class="sample_course">
-                <a class="block-link" href="/welcome/samplecourse"></a>
-                <h4><a href="/welcome/samplecourse">Sample a Course</a></h4>
+                <a class="block-link" href="/welcome/samplecourse" onclick="registerEvent('sample_course', 'footer_quad_link')"></a>
+                <h4><a href="/welcome/samplecourse" onclick="registerEvent('sample_course', 'footer_quad_link')">Sample a Course</a></h4>
                 <p>See what it's like inside our online courses</p>
             </li>
             <li class="tour">
-                <a class="block-link" href="http://tour.berkleemusic.com/" target="_new"></a>
-                <h4><a href="http://tour.berkleemusic.com/" target="_new">Take the Tour</a></h4>
+                <a class="block-link" href="http://tour.berkleemusic.com/" onclick="registerEvent('tour', 'footer_quad_link')" target="_new"></a>
+                <h4><a href="http://tour.berkleemusic.com/" target="_new" onclick="registerEvent('tour', 'footer_quad_link')">Take the Tour</a></h4>
                 <p>Experience Berklee's online school</p>
             </li>
             <li class="catalog">
-                <a class="block-link" href="/school/download-pdf"></a>
-                <h4><a href="/school/download-pdf">Download our Catalog</a></h4>
-                <p>Explore 130+ online music courses and programs</p>
+                <a class="block-link" href="/school/download-pdf" onclick="registerEvent('download_pdf', 'footer_quad_link')"></a>
+                <h4><a href="/school/download-pdf" onclick="registerEvent('download_pdf', 'footer_quad_link')">Download our Catalog</a></h4>
+                <p>Explore 150+ online music courses and programs</p>
             </li>
             <li class="advisors">
-                <a class="block-link" href="javascript:popCenterWindow('/school/contact-admissions-popup','contact',526,475)"></a>
-                <h4><a href="javascript:popCenterWindow('/school/contact-admissions-popup','contact',526,475)">Contact our Advisors</a></h4>
+                
+                <a class="block-link" href="/register/user-new" onclick="registerEvent('contact_us', 'footer_quad_link')"></a>
+                <h4><a href="/register/user-new" onclick="registerEvent('contact_us', 'footer_quad_link')">Contact our Advisors</a></h4>
                 <p><span class="US_phone"><strong>1-866-BERKLEE</strong> (USA)</span> <span class="intl_phone">+1-617-747-2146 (INTL)</span></p>
+                
             </li>
         </ul>
         <ul id="footer_nav">
-            <li><a href="/">Online Music School</a></li>
-            <li><a href="/store">Bookstore</a></li>
-            <li><a href="/billboard/jobs">Music Jobs &amp; Gigs</a></li>
-            <li><a href="/community/index.php/network/forums">Forums</a></li>
-            <li><a href="/community/">Network</a></li>
-            <li><a href="/blogs">Music Blogs</a></li>
-            <li><a href="/partners">Partners</a></li>
-            <li><a href="/school/information">School Information</a></li>
-            <li><a href="/scholarship">Music Scholarships</a></li>
-            <!-- this next one needs the javascript popup thinger -->
-            <li class="tell-a-friend last_item"><a href="#" onclick="window.open('/tellfriend/tellfriend', 'tellfriend', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=760, height=670');return false;">Tell a Friend</a></li>
+
+            <li><a href="/">Online Music School</a></li><li><a href="http://network.www.berkleemusic.com/jobs">Jobs &amp; Gigs</a></li><li><a href="/store">Bookstore</a></li><li><a href="http://www.berkleemusicnetwork.com">Network</a></li><li><a href="/blogs">Music Blogs</a></li><li><a href="/partners">Partners</a></li><li><a href="/school/information" onclick="registerEvent('school_info', 'footer_link')">School Information</a></li><li class="last_item"><a href="/scholarship/" onclick="registerEvent('scholarship', 'right_bar_link')">Music Scholarships</a></li>
+
         </ul>
         <div class="footer_bottom">
             <a href="http://www.berklee.edu" id="berklee-link"></a>
-            <p class="copyright">©2001-2009 <a href="http://www.berklee.edu">Berklee College of Music</a></p>
+            <p class="copyright">©2001-2012 <a href="http://www.berklee.edu">Berklee College of Music</a></p>
             <ul class="footer_extras">
                 <li><a href="/about/about/termsofuse">Terms of Use</a></li>
                 <li class="last_item"><a href="/about/about/privacypolicy/">Privacy Policy</a></li>
             </ul>
             <ul class="footer_extras last_item">
-                <li><a href="/contact/index?type_id=14">Contact Us</a></li>
+                <li><a href="/contact/index?type_id=14" onclick="registerEvent('contact_us', 'footer_link')">Contact Us</a></li>
                 <li class="last_item"><a href="/about">About Us</a></li>
             </ul>
-            <p class="accredited"><a href="/">Berkleemusic</a> is accredited by the New England Association of Schools and Colleges (NEASC)</p>
+            <p class="accredited"><a href="http://www.berklee.edu/">Berklee College of Music</a> is accredited by the New England Association of Schools and Colleges (NEASC)</p>
+            <img src="/images/upcea-awards-trans.png" alt="UPCEA Awards won" id="footer-award">
         </div>
     </div>
-<!-- large scaling background image -->
 
-    <!-- <div id="background">
-        <img src="/images/background_large.jpg" alt="" id="bg-image" />
-    </div> -->
 
 
 <!-- BEGIN Invitation Positioning  -->
@@ -499,6 +505,7 @@ wish to opt-out of all announcements.</p>
 var lpPosY = 100;
 </script>
 <!-- END Invitation Positioning  -->
+
 
 <!-- Begin google stats  -->
 <script type="text/javascript">
@@ -511,6 +518,13 @@ var lpPosY = 100;
   pageTracker._trackPageview();
 </script>
 <!-- End google stats  -->
+<script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("497-GEH-430");</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/7649.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 
 <script language="JavaScript" type="text/javascript">
@@ -524,4 +538,4 @@ if (eval_after != "") {
 
 
 
-</div></div></body></html>
+</div></body></html>
