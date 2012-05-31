@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cyberdriveillinois.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008053039id_/http%3A//www.cyberdriveillinois.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdriveillinois.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531214642id_/http%3A//cyberdriveillinois.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Home](https://web.archive.org/home.html) • [Web.archive.org](https://web.archive.org/home.html) • [Web](https://web.archive.org/web/home.html) • [20120531214642id ](https://web.archive.org/web/20120531214642id_/home.html) • [Http:](https://web.archive.org/web/20120531214642id_/http%3A/home.html) • [](https://web.archive.org/web/20120531214642id_/http%3A//home.html) • [Cyberdriveillinois.com](https://web.archive.org/web/20120531214642id_/http%3A//cyberdriveillinois.com/home.html) • Privacy Policy
 
 The Illinois Secretary of State understands the importance of privacy to web site visitors. Some information is collected by the Illinois Secretary of State to assist the Office with improving customer service. Personal information is collected from our web site only when you provide the information on a voluntary basis. Under no circumstances will personally identifiable information, such as name, address, driver’s license number, social security number, telephone number, and medical or disability information, be sold for commercial solicitation purposes. Personally identifiable information may be used only for purposes authorized by law.
 
@@ -8,7 +10,7 @@ All personally identifying information submitted by you on this web site is prot
 
 We currently do not enable "cookies." A "cookie" is a file placed on your personal computer’s hard drive by a web site that allows the site to monitor your use of the site.
 
-If you browse our site to read or download information, we use software programs to collect and create summary statistics regarding what is most and least interesting for our visitors or to identify system performance or problem areas. No personally identifiable information is collected. The following types of information are collected: 
+If you browse our site to read or download information, we use software programs to collect and create summary statistics regarding what is most and least interesting for our visitors or to identify system performance or problem areas. No personally identifiable information is collected. The following types of information are collected:
 
   * Which pages were viewed
   * Number of visits
@@ -33,7 +35,7 @@ If you send us an email, the information may be saved for a designated period of
 
 The Privacy Policy is subject to change. We encourage you to check back regularly.
 
-Disclaimer
+## Disclaimer
 
 The Department of Information Technology of the Office of the Secretary of State maintains the Secretary of State’s web site as a public service. While effort is made to provide accurate and current information, we do not warrant that the information and materials are free from error.
 
