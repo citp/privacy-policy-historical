@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeducationcenter.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201010426id_/http%3A//www.theeducationcenter.com/tec/af/tec/core/nav/page.do%3FNAME%3DPrivacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducationcenter.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531024455id_/http%3A//www.theeducationcenter.com/tec/af/tec/core/nav/page.do%3FNAME%3DPrivacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement - The Mailbox.com, The #1 Magazine for Teachers
 
