@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mymeteor.ie privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214022316id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymeteor.ie privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531033702id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
-Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.
+Meteor Mobile Communications Limited in examination (under the Companies (Amendment) Act, 1990) (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.
 
 This policy applies to all personal data ("Data") in our possession. Personal Data is any information concerning a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in or is likely to come into the possession of a data controller. Personal Data covered under this policy includes the following: call traffic details, service usage data and customer details.
 
