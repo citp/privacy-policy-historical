@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001749id_/http%3A//www.bostonmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531191331id_/http%3A//www.bostonmagazine.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Boston Magazine
+# Boston Magazine
 
 Welcome to the _Boston Magazine_ Web-Site (the "Site")! _Boston Magazine_ is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for Boston Magazine and Metro Corporation (collectively "Boston" of "We") and explains how we collect information and how we use the information that we collect. 
 
