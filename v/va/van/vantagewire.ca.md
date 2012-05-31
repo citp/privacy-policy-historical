@@ -1,100 +1,95 @@
-> *The following text is extracted and transformed from the vantagewire.ca privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagewire.ca privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531222554id_/http%3A//www.vantagewire.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# VantageWire - Free Real-time Stock Quotes for TSX, TSX-V, NYSE, Nasdaq, Amex and OTCBB
 
-**Go Daddy Respects Your Privacy**
+Vantage Communications Ltd. respects your privacy. This statement of our Privacy Policy explains what information we gather from you and how we use that information. We consider the information you have shared with us strictly confidential and will use that information only as specified in this Privacy Policy or to the extent necessary to comply with applicable law.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Information We Gather and How We Use It**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We collect certain information from you in order to provide you with the best user experience possible.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We use your IP address to identify you, to gather demographic information that helps us understand how you and our other customers use our Web site, and to administer our Web site. If you purchase items through the Marketplace, your IP address is used to help match you with your shopping cart.
 
-**Information Collection and Use**
+Our registration form requires you to give us contact information (like your name and email address), demographic information (like your postal/zip code, age, occupation and income level, etc.) and profile information (like your investment experience). We use your contact information to contact you about our Web site and provide you with information and promotional material from our partners and advertisers. We use various other portions of your information to comply with the Toronto Stock Exchange, New York Stock Exchange and Nasdaq Stock Market regulations regarding the distribution of real-time information, to target advertising, and to personalize our Web site by showing you content that we think you might be interested in and displaying the content according to your preferences.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We sometimes conduct or sponsor surveys and contests on our Web site. If you elect to participate, we may ask you for contact, demographic and other information as part of these offerings. We would use this information to analyze and report on the results of surveys, to provide you with the results of the surveys and contests, and to send you information about our company and promotional material from our partners and advertisers. Participation in surveys, contests and e-blasts are completely voluntary.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+From time to time we may supplement information that you provide to us with information received from third parties.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Information We May Disclose**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We share demographic, profile and other general information about you and our other customers with our advertisers on an aggregate basis. This means that we tell our advertisers general information about the characteristics of our customer base such as how many female visitors and registered users we have within a certain postal code, but we do not specifically identify a particular female visitor or provide her contact information to our advertisers.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Our advertisers may ask us to mail or e-mail you promotional information tailored to your interests. We will send you this information on behalf of our advertisers. From time to time we may use third parties (pursuant to a confidentiality agreement) to assist us in e-mail broadcasts and list management. You may opt-out of receiving these mailings by editing your account settings.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may disclose your contact information or other specific information about you to third parties in conjunction with advertising, contests or new service offerings that you elect to participate in.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may share your contact information with our strategic partners and certain other companies. These selected entities may send you information by e-mail or regular mail, or may contact you by telephone.
+
+We may from time to time sell or transfer your contact and demographic information to affiliates and non-affiliates of the Company.
+
+As we continually look for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honour the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honoured.
+
+We may release your contact and other information to third parties when we believe that such release is reasonably necessary to (i) comply with law, (ii) cooperate with state and federal regulatory agency investigations, (iii) comply with the terms of the Subscriber Agreements with the TSX, Nasdaq and the New York Stock Exchange, (iv) enforce the terms of our User Agreement or License Agreement, or (v) protect the rights of Vantage Communications Ltd. or others.
+
+**Cookies**
+
+Our Web site uses cookies which deposit certain record keeping information in your hard drive. We use cookies to save your password so you don’t have to re-enter it each time you visit our site, keep track of your preferences, deliver content specific to your interests, make sure you don’t see the same ad repeatedly, keep track of your shopping cart and order status, and for other similar purposes. These cookies can’t read other data from your hard drive or read cookie files created by other sites or applications.
+
+Our Web site contains display ads sold by us or by outside advertising agencies. These ads may contain cookies which will be deposited in your hard drive if you click on the ads. Information generated from cookies deposited on your hard drive by our advertisers is collected by our advertisers and we do not have access to this information.
+
+Most browsers are set to accept cookies unless you reconfigure your browser to refuse them or to notify you when you have received one. If you do not accept cookies, you will not be able to use certain features of our site.
+
+**Subscriptions and Purchases**
+
+You may subscribe for a fee to certain services through our Web site or purchase publications and merchandise through the Marketplace. If you subscribe for services which require payment of a fee or place an order with us through the Marketplace, we will need your contact information and certain financial information such as your credit card number. Any financial information we collect will be used solely to bill you for the services and items you have purchased and to electronically deliver or ship items to you.
+
+**Public Forums**
+
+Chat rooms, forums, message boards, and/or news groups are available to you through our Web site. Please remember that any information disclosed in these areas becomes public information. If you post personal information online that is accessible to the public, you may receive unsolicited responses. You should exercise caution when deciding to disclose any of your personal information in a public forum.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Our Web site has certain security measures in place in effort to protect the loss, misuse and alteration of the information under our control.
 
-**Updating Your Information**
+**Links to Other Web Sites**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Our Web site contains links to other sites. Vantagewire.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Third Party Advertising**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We use Commission Junction, Google Adsense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-      iii.      You may call us at: (480) 505-8800
+**Third Party Cookies**
 
-       iv.      You may fax us at: (480) 505-8844
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ’cookie’ on your browser.
 
-**Sending Emails**
+**Your Options**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+You may choose not to register for real-time quotes. Access to delayed quotes does not require registration.  
+You may opt-out of receiving communications from us and/or our partners. Your options include:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Opting to not receive promotional materials from our advertisers and/or,  
+Opting to not receive any newsletters, notices about new services or any other content from Vantagewire.com.  
+You may opt-out during the registration process or after registering by selecting the “delete account” option in your Account Profile, or by contacting us by e-mail at: [support@vantagewire.com](mailto:support@vantagewire.com). Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails.
 
-**Compliance with Laws and Law Enforcement**
+**Correct or Update Your Information**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+You may correct or update any information previously provided to us by visiting us the Account Profile section of the site, or by contacting us by by e-mail
 
-**Third Party Service Providers**
+**Contacting Us**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our head office at:
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Vantage Communications Ltd.  
+Suite 150 - 666 Burrard St.  
+Vancouver, British Columbia  
+Canada V6C 2X8  
+[support@vantagewire.com](mailto:support@vantagewire.com)
 
-**Supplementation of Information**
+**Additional Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Please also refer to the [Terms & Conditions](https://web.archive.org/page/terms-conditions) and [Disclaimer](https://web.archive.org/page/disclaimer) for additional privacy related information. For general information about Internet privacy issues, you may wish to also visit the Web site hosted by the US Federal Trade Commission at [http://www.ftc.gov/privacy](http://www.ftc.gov/privacy.)
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may from time to time revise this Privacy Policy.  
+This statement of our Privacy Policy was last revised on March 1, 2008.
