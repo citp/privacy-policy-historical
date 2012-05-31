@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231065335id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteoverload.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601012641id_/http%3A//cuteoverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Cute Overload
 
