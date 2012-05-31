@@ -1,111 +1,141 @@
-> *The following text is extracted and transformed from the pizzahut.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/privacypolicy.html%3FWT.mc_id%3D070209Yeti_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531043347id_/http%3A//www.pizzahut.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pizza Hut - America's Favorite Pizza - Privacy Policy
 
-  * What information does Company collect about me on this Site?  
+  * About this Policy  
 
-  * What does Company do with the information collected?  
+  * Information We Collect  
 
-  * With whom does Company share the information?  
+  * How We Collect Information  
 
-  * How can I stop receiving notices about future offers or stop my Personal Information from being shared with third parties?  
+  * How We Use Information  
 
-  * How do I correct or update my Personal Information?  
+  * Information Sharing  
 
-  * How does Company protect the security of my Personal Information?  
+  * Your Choices  
 
-  * Does Company's Site link to other sites?  
+  * More Questions?  
 
-  * What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy?  
+  * Our Sites and Children  
 
-  * How does Company handle children's privacy online?  
+  * Security  
 
-  * How do I contact Company?
+  * Links
+  * Updating Personal Information
+  * Policy Updates
 
 
 
-## What information does Company collect about me on this Site?
-
-Company collects personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities. The personally identifiable information ("Personal Information") collected on this Site can include some or all of the following: your name, address, telephone number(s), email addresses, text messaging information and other contact information associated with electronic or digital messaging methods, vehicles and interaction, credit card information, demographic information, and any other information you may voluntarily provide. You will have the choice whether or not to disclose such Personal Information in the above activities; however, some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personal Information. 
-
-At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box(es). If you choose to opt in, your Personal Information will be kept in a secured database and We will alert you via your selected opt-in communication method (i.e., email, text messaging, etc.) to new features, special offers, updated information and new services. 
-
-In addition to the Personal Information identified above, Our web servers automatically identify computers by their IP addresses. Company may use IP addresses to analyze trends, administer the Site, track users' movement and gather broad demographic information for aggregate use. To emphasize, IP addresses are not linked to Personal Information. 
-
-Further, Our Site may use technologies such as "cookies" to provide visitors with tailored information upon each visit. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. To emphasize, cookies are not linked to any Personal Information while on this Site. 
-
-Company's ad management partner, Microsoft Advertiser & Publisher Solutions (Atlas), employs pixels or transparent GIF files to help manage Our online advertising. These files enable Atlas to recognize a unique cookie on your web browser, which in turn enables Us to learn which advertisements bring users to Our website. The cookie was placed by Us, or by another advertiser who works with Atlas. With both cookies and Universal Action Tag technology, the information We collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number(s), or email address. For more information about Atlas, including information on how to opt out of these technologies, go to <http://www.atlassolutions.com/privacy>. 
+**About this Policy**   
+This policy describes our privacy practices for the websites where it is posted. It also applies to our practices for our mobile phone and text programs.
 
 Back to top »
 
-## What does Company do with the information collected?
+**Information We Collect**
 
-Company may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations through your selected opt-in methods; and (9) in general, to promote and market Company's business and various products. 
+ **Contact Information:** For example, we might collect your name and street address. We might also collect your phone number or email address.
 
-In addition, from time to time, We may market certain third-party services through Our Site. Should you choose to accept an offer from a third party, We will pass your relevant Personal Information, which may include your name, address, and credit/debit card number, to that third party. 
+**Payment Information:** For example, we might collect your credit card information when you make a purchase. 
 
-Back to top »
+**Demographic Information:** We might, for example, collect your age. We might also collect information about the food you like. 
 
-## With whom does Company share the information?
-
-Company is a part of [Yum! Brands, Inc](http://www.yum.com/privacy.asp). ("Yum Brands"). Yum Brands includes: [KFC U.S. Properties, Inc.](http://www.kfc.com/privacy.asp), [Taco Bell Corp.](http://www.tacobell.com/legal/privacypolicy.html), [Pizza Hut, Inc.](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/privacypolicy.html), [Long John Silver's, Inc.](http://www.ljsilvers.com/privacy/), [A&W Restaurants, Inc.](http://www.awrestaurants.com/#/home), and [Yum Restaurants International, Inc](http://www.yrigfp.com/legal.asp). Company may share Personal Information collected on this Site with any member of Yum Brands, its franchisees, and any other future subsidiaries or affiliates. This Privacy Policy applies if Company shares your Personal Information collected on this Site with any other Yum Brands members. If you choose to provide your Personal Information to other members of Yum Brands through their respective websites, then the respective Privacy Policies will apply. 
-
-Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this statement. Company may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) working with third-party companies to support the Site's technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, or maintain a database of visitor information, etc.); or (iv) to facilitate your transactions with Our third-party marketing partners. 
-
-If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it will be clearly communicated to visitors that the third party will have no right to use the Personal Information for independent purposes without your consent. In support of this policy, Company will enter into written agreements with any third party receiving Personal Information requiring the third party to comply with Company's privacy policies and applicable laws. To avoid your Personal Information from being shared with a third party, you can choose not to use the affected service or participate in the affected promotional activity. 
+**Other Information:** For example, we collect IP addresses and user browsing behavior. We collect this and other information using the tracking tools described in this policy.
 
 Back to top »
 
-## How can I stop receiving notices about future offers or stop my Personal Information from being shared with third parties?
+**How We Collect Information**
 
-Those who initially opted in to receive future offers or promotional materials or to allow the sharing of Personal Information with third parties may subsequently opt out as follows: 
+ **We collect information directly from you.** For example, when you register on a website, for a sweepstakes or for one of our programs. We also collect information if you leave comments or make contact requests.
 
-  * For email communications: (a) send a request to us through our feedback page at [www.PizzaHut.com/ContactUs](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/contactus.html) and include the appropriate email address(es) or (b) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website;
-  * For text message communications, (a) send a request to us through our feedback page at [www.PizzaHut.com/ContactUs](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/contactus.html) and include the appropriate mobile telephone number(s), (b) send a "STOP" text message to "749488" or (c) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website.
-  * Please understand that if you opt-out, and later accept an offer from an advertiser or one of Our third party marketing partners, We will share your Personal Information with that specific third party.
+**We collect information from you passively.** If you are on a mobile device and use a location based service, for example, then we will collect your location. We use common tracking tools like browser cookies to collect information passively. We may also use web beacons. 
+
+**We collect information from third parties.** For example, we might get information about you from one of our franchisees. This information might be combined with information we already have. 
+
+Back to top »
+
+**How We Use Information**
+
+We use your information as is disclosed at the time we collect the information and in the following ways: 
+
+  1. **(1) To respond to your requests or inquiries.** For example, we use your information to fulfill orders or prizes. We might also use your information to register you for a promotions or our website. From time to time, we may also use your information to process your employment application.
+  2. **(2) To improve our products and services and for related business purposes.** For example, we use information to understand our visitors and customers. This includes looking at website usage trends. We also use your information to make website and product improvements. We might also use your information to customize your experience with us. We may do these activities using the tracking tools described in this policy.
+  3. **(3)For security purposes.** For example, we might use information to protect our website or our company. We might also use information to protect our customers or our business partners.
+  4. **(4) To promote Pizza Hut and our related companies.** For example, unless we tell you otherwise, we might send you notices of special promotions, offers or solicitations. We might also notify you about new website features or product offerings. To manage your communications, follow the instructions in Your Choices, below.
+  5. **(5) To communicate with you about your account or our relationship.** For example, to notify you about changes to this Policy or our website Terms, to let you know about issues relating to your order or your relationship with us.
 
 
 
 Back to top »
 
-## How do I correct or update my Personal Information?
+**Information Sharing**
 
-Those who have registered on our website may review, correct, update or delete/deactivate their Personal Information, by logging on to Our Site and clicking on "My Account" to make the appropriate changes. 
+**We may share your information as follows:**|  **Can you limit?**  
+---|---  
+**With other Yum! Brands, Inc. companies and brands.** Other companies and brands including KFC and Taco Bell. For a copy of their privacy policies, click on their names in this section.|  **No**  
+**If we think we have to in order to comply with the law.** For example, we will disclose information to respond to a court order or subpoena. We may also disclose if a government agency or investigatory body requests.|  **No**  
+**In the event all or part of Pizza Hut transfers ownership.** For example, if there is a merger, acquisition or similar event, we will share information with the new owner. We may also sell off all or part of our customer lists as part of an asset sale.|  **No**  
+**With our vendors.** For example, we will share information with companies that help us deliver products and services. We also allow third parties like website hosting companies to collect information on our behalf.|  **No**  
+**With our business partners in whose products or services we think you may be interested.** For example, if we run a joint promotion, you will be given the option to have your information shared with our co-promotion company. We might also offer another company’s products or services on our website. When necessary, we will give that company your information.|  **In some  
+circumstances**  
+  
+Back to top »
 
-If you are not a Registered User, you may send a request to us through our feedback page at [www.PizzaHut.com/ContactUs](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/contactus.html) to correct, update or delete/deactivate their applicable email address(es). 
+**Your Choices**
+
+To stop receiving our promotional emails, you can follow the instructions in any individual promotional email you receive. When logged in, registered users can also change their options at the My Account page.
+
+To stop receiving Pizza Hut text messages, text STOP to 749488. If you send an opt-out text message you will get a message back confirming that you are opted out. When logged in, registered users can change their options at the My Account page.
+
+To opt out of having us share your information with third parties for their promotional purposes, you can follow the instructions in any individual promotional email you receive or when logged in, registered users can also change their options at the My Account page. If you accept an offer from one of our third-party marketing partners after you opt out, we will share your information with that specific party. 
+
+To manage how we -and our third party vendors- use cookies and other tracking tools, please [click here](http://quikorder.pizzahut.com/QOcontent2/Files/PDF/PizzaHutandOurTrackingTools.pdf). 
+
+You can choose whether or not to disclose personal information. Some parts of our sites and some services may be more difficult or impossible to use, though, if you choose not to share. If you turn of cookies or tracking tools parts of our site and services may also not function properly. 
 
 Back to top »
 
-## How does Company protect the security of my Personal Information?
+**More Questions?**
 
-Company uses appropriate technical and procedural security measures to protect this Site and data submitted by users. We cannot guarantee, however, that our standard measures will not prevent a third party from circumventing our security measures and unlawfully intercept or access transmissions or private communications, or where an error may occur in the administration of this Site. As such, Company recommends that you use caution whenever submitting Personal Information online. 
+Visit our [Contact Us](http://www.pizzahut.com/contactus.html) page, [email us](mailto:customermaniac@pizzahut.com), call us at 972-338-7700, or write to us at the following address: 
 
-Back to top »
-
-## Does Company's Site link to other sites?
-
-Yes. This Site may contain links to other websites that may not be owned or operated by Company. Company cannot control nor is responsible for the privacy practices or content of such other websites. Company encourages you to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to Personal Information collected on this Site. 
+Pizza Hut, Inc.  
+7100 Corporate Drive  
+Plano, Texas 75024
 
 Back to top »
 
-## What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy?
+**Our Sites and Children**
 
-This Privacy Policy was last updated on March 1, 2010. Company will post any changes on the Site's homepage, so visitors are always aware of any changes to what information We collect, how We use it, and under what circumstances We disclose it. If We decide to use your Personal Information in a manner different than first communicated, Company will notify users by email to the email addresses on record. Users will then be given a choice as to whether or not their Personal Information can be used in the new manner. 
+To our knowledge, we do not collect personally identifiable information from children under 13. Other than our Book IT!® Program website, our sites are also not targeted to children. If you believe we have personally identifiable information about a child under 13, please email us at [customermaniac@pizzahut.com](mailto:customermaniac@pizzahut.com) or call us at 972-338-7700. If you chose to write, please use the address listed above and mark your letter to the attention of " **COPPA - Information Request**." 
 
-In the event that Company goes through a business transition, such as a merger, another company acquires Company or its Affiliates, or Company sells a portion of its assets, your Personal Information will, in most instances, be part of the assets transferred. At least 10 days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site. If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt out. 
+Under the Children’s Online Privacy Protection Act ("COPPA"), you have the right to review and have any of your child’s information deleted (which you can do by contacting us as described here).You also have the right to refuse to permit further collection or use of your child’s information, also by contacting us as described here.
 
-Back to top »
-
-## How does Company handle children's privacy online?
-
-Company's practice is not to collect information from children under 13, and Company does not knowingly collect any Personal Information online from children under 13 or as otherwise prohibited by law. If You believe We have information about a child under 13, please send a request to Us through Our feedback page at [www.PizzaHut.com/ContactUs](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/contactus.html) or a write to Pizza Hut, Inc., 7100 Corporate Drive, Plano, Texas 75024, Attention: Children's Online Privacy Act - Information Request, or by us at 972-338-7700. To learn more about how to protect your child online, we suggest you visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) and read the helpful information provided by the FTC at <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>.
+To learn more about how to protect your child online [read the helpful information provided by the FTC](http://www.onguardonline.gov/), which includes [this consumer education bulletin](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm). Parents, although we do not collect personally identifiable information from children under 13, you should be aware that under the Children's Online Privacy Protection Act, if we did collect such information, we would be prohibited from conditioning a child’s participation in an activity on the child’s disclosure of more personal information than is reasonably necessary to participate in such activity. 
 
 Back to top »
 
-## How do I contact Company?
+**Security**
 
-If you have any further questions concerning the Company's Privacy Policy and the use of your Personal Information, please contact us through our feedback page at [www.PizzaHut.com/ContactUs](https://web.archive.org/web/20111201164525id_/http%3A//www.pizzahut.com/contactus.html). 
+We use industry standard measures to protect personal information. We cannot guarantee that you will be completely secure, however. We recommend that you use caution when using the Internet or mobile devices.
 
 Back to top »
 
-**Effective as of March 1, 2010**
+**Links**
+
+This Site may contain links to other websites that Pizza Hut may not own or operate. We cannot control and we are not responsible for the privacy practices or content of such other websites. We encourage you to read the privacy statements of each and every website that collects personal information. This Policy only applies to the personal information collected on this Site.. 
+
+Back to top »
+
+**Updating Personal Information**
+
+If you are a registered user on our Site, you can review, correct, update or delete/deactivate your personal information. Log on to our Site and click on "My Account" to make changes.. 
+
+Back to top »
+
+**Policy Updates**
+
+This Policy was updated on April 17, 2012. We will post any changes on the Site's homepage. Check [here](http://quikorder.pizzahut.com/QOcontent2/Files/PDF/PizzaHutWebsitePrivacyPolicy.pdf) for the most recent version of our policy. Where permitted by law, changes to our policy will be applied to information we already maintain. . 
+
+Back to top »
+
+**Effective as of April 17, 2012**
