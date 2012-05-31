@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neusoft.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128234538id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neusoft.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531030713id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.*
 
 # Neusoft - Privacy Statement
 
@@ -36,4 +36,4 @@ Neusoft reserves the right to modify and interpret this Privacy Statement. We ma
 **11\. Contact Information**  
 If you have any question or suggestions, you may contact Neusoft. We will then do our utmost to resolve it.
 
-Updated: Nov. 9, 2005
+Updated: Dec. 14, 2011
