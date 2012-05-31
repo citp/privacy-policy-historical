@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145607id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531031316id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is the web site of **OrganicAuthority.com**.
 
 Our postal address is   
-**9190 Olympic Blvd. 305  
-Beverly Hills, CA 90034**
+**9854 National Blvd. #413  
+Los Angeles, CA 90034**
 
-We can be reached via e-mail at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy713%20=%20'liveorganic'%20+%20'@';%20addy713%20=%20addy713%20+%20'organicauthority'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy713%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy713%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[liveorganic@organicauthority.com](mailto:liveorganic@organicauthority.com)  
+We can be reached via e-mail at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy51628%20=%20'liveorganic'%20+%20'@';%20addy51628%20=%20addy51628%20+%20'organicauthority'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy51628%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy51628%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[liveorganic@organicauthority.com](mailto:liveorganic@organicauthority.com)  
 or you can reach us by telephone at 310-694-8306
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
@@ -21,8 +21,7 @@ As we continue to develop our business, we might sell certain of our assets in c
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site.
 
-Third party vendors, including Google, use cookies to serve ads based on your (the user) prior visits to our website and other websites. Google's use of the DART cookie enables it and its partners to serve ads to you based on your history of visits to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). You can also opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).  
-
+Third party vendors, including Google, use cookies to serve ads based on your (the user) prior visits to our website and other websites. Google's use of the DART cookie enables it and its partners to serve ads to you based on your history of visits to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). You can also opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
 
