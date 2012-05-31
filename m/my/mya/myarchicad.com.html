@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myarchicad.com privacy policy that was archived on 2011-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205033113id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myarchicad.com privacy policy that was archived on 2012-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531040953id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -7,6 +7,7 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta name="robots" content="noodp">
+<meta name="Description" content="">
 <!-- robots content="noindex" -->
 <link rel="top" title="Home" href="/">
 <link rel="author" title="Contact Us" href="/contact/">
@@ -22,8 +23,52 @@
 <!--[if IE]>
 <link href="/css/style_ie7.css" rel="stylesheet" type="text/css"/>
 <![endif]-->
-<script language="JavaScript1.2" src="/js/main.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/main.js" type="text/javascript"></script>
+
 <meta name="verify-v1" content="a6zvbawibqHUm5zakmhejt+5Po+LmkJQK5MAkDs3h7Y=">
+<script type="text/javascript">
+function track() {	// Track external links with google analytics
+	//alert(this.href);	return false;
+	if (_gat) {
+		var category = 'click';
+		var action = this.href;
+		_gat._getTrackerByName()._trackEvent(category, action);
+		//setTimeout('document.location = "' + link.href + '"', 100);
+		document.location = this.href;
+		return false;
+	} else {	// Fallback to normal link operation if GA is not present
+		//alert(this.href);	return false;
+		return true;
+	}
+}	// track
+
+function mark_links() {
+	//var log = '';
+	var a = document.getElementsByTagName("a");
+	for (var i=0; i<a.length; i++) {
+		if (a[i].href.match(/\.graphisoft\./))		continue;	// Skip internals
+		if (a[i].href.match(/\.graphisoftus\./))	continue;
+		if (a[i].href.match(/\.archicad\./))		continue;
+		if (a[i].href.match(/archicadwiki\./))		continue;
+		if (a[i].href.match(/myarchicad\./))		continue;
+		if (!a[i].href.match(/^https?:/))			continue;	// Skip non-http
+
+		a[i].onclick = track;									// Bind track function to click event on the rest
+		//log += a[i].href + "\n";
+	}
+	//alert(log);
+}
+//window.onload = mark_links;	// FIXME
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1084909-2']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 </head>
 <body><a name="top"></a>
 
@@ -43,10 +88,12 @@
 
 <div class="hmenu"><!-- MENU TREE-->
 <ul>
+<li><a href="/openbim/">Open BIM</a>
+</li>
 <li><a href="/products/">Products</a>
 <ul>
 <li><a href="/products/archicad/" title="/products/archicad/">ArchiCAD</a></li>
-<li><a href="/products/acse2011/" title="/products/acse2011/">ArchiCAD STAR(T) Edition</a></li>
+<li><a href="/products/acse2012/" title="/products/acse2012/">ArchiCAD STAR(T) Edition</a></li>
 <li><a href="/products/mep-modeler/" title="/products/mep-modeler/">MEP Modeler</a></li>
 <li><a href="/products/bim-explorer/" title="/products/bim-explorer/">BIMx</a></li>
 <li><a href="/products/ecodesigner/" title="/products/ecodesigner/">EcoDesigner</a></li>
@@ -76,6 +123,7 @@
 <li><a href="/education/training_guides/" title="/education/training_guides/">ArchiCAD Tutorials</a></li>
 <li><a href="/education/certification/" title="/education/certification/">ArchiCAD Certification</a></li>
 <li><a href="/education/books/" title="/education/books/">ArchiCAD Related Books</a></li>
+<li><a href="/education/webinars/" title="/education/webinars/">Online Seminars</a></li>
 <li><a href="/education/education_us/" title="/education/education_us/">US Education Programs<span class="gsflag gsflag-us external" alt="flag"></span></a></li>
 </ul></li>
 <li><a href="/community/">Community</a>
@@ -130,6 +178,7 @@
 
 
 
+<div id="notify" class="notify" style="display:none"></div>
 <div class="maincont">
 
 <div class="vmenu">
@@ -140,7 +189,7 @@
 
 
 <div class="quicklinks"><img src="/static_images/111/quicklinks_top.jpg" alt="----------------------------">
-<div class="qlback"><h2>QuickLinks</h2><!-- begin="1" type="textarea" rows="10" columns="32" label="Text" id="text" allow_html="yes" --><a href="/products/archicad/">ArchiCAD&nbsp;15&nbsp;»</a><a href="/education/training_guides/">Tutorials&nbsp;»</a><a href="/products/ecodesigner/">EcoDesigner&nbsp;»</a><a href="http://archicadwiki.com/">ArchiCAD&nbsp;Wiki&nbsp;»</a><a href="http://archicad-talk.graphisoft.com/">ArchiCAD-Talk&nbsp;»</a><a href="http://www.architectsjury.com/">ArchitectsJURY&nbsp;»</a><a href="/community/success_stories/">Project&nbsp;Gallery&nbsp;»</a><a href="/purchase/">Where to Buy&nbsp;»</a><!-- end="1" --></div><img src="/static_images/111/quicklinks_bottom.jpg" alt="----------------------------"></div>
+<div class="qlback"><h2>QuickLinks</h2><!-- begin="1" type="textarea" rows="10" columns="32" label="Text" id="text" allow_html="yes" --><a href="/products/archicad/">ArchiCAD&nbsp;16&nbsp;»</a><a href="/education/training_guides/">Tutorials&nbsp;»</a><a href="/products/ecodesigner/">EcoDesigner&nbsp;»</a><a href="http://archicadwiki.com/">ArchiCAD&nbsp;Wiki&nbsp;»</a><a href="http://archicad-talk.graphisoft.com/">ArchiCAD-Talk&nbsp;»</a><a href="http://www.architectsjury.com/">ArchitectsJURY&nbsp;»</a><a href="/community/success_stories/">Project&nbsp;Gallery&nbsp;»</a><a href="/purchase/">Where to Buy&nbsp;»</a><!-- end="1" --></div><img src="/static_images/111/quicklinks_bottom.jpg" alt="----------------------------"></div>
 
 <div id="web_icons" style="text-align:right">
 <a href="http://www.facebook.com/archicad"><img height="24" width="24" alt="facebook icon" title="Facebook" src="/static_images/icons/facebookicon_24x24.png"></a>
@@ -263,11 +312,6 @@ Privacy Policy
 <div class="close"><!-- begin="1" type="textarea" rows="10" columns="32" label="Text" id="text" allow_html="yes" --><p class="cont944 textright grey">GRAPHISOFT is part of the <a style="color: #888888; text-decoration: none" target="_blank" href="http://www.nemetschek.com/en/home/the_company.html">Nemetschek Group <img width="72" height="20" style="margin-top: 2px; margin-bottom: -6px;" alt="" src="/static_images/logo-nemetschek.png"></a></p>
 <!-- end="1" -->
 </div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct="UA-1084909-2";if(typeof urchinTracker==='function') urchinTracker();</script>
-<script src="/js/awstats_misc_tracker.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript">llactid=17782</script>
-<script type="text/javascript" language="javascript" src="http://t5.trackalyzer.com/trackalyze.js"></script>
 
 
 
