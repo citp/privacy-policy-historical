@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobsbridge.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927143455id_/http%3A//jobsbridge.com/AllUsers/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsbridge.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531094027id_/http%3A//www.jobsbridge.com/AllUsers/policy.aspx) for the most accurate reproduction.*
 
 # Jobsbridge - Privacy Policy
 
-Thank you for visiting Valley Portals, Inc.'s (the "Company" or "We") job search Internet web site located at www.jobsbridge.com (the "website"). We have created this privacy statement in order to demonstrate our respect for the privacy of our members and visitors to the website. 
+Thank you for visiting Jobsbridge's (the "Company" or "We") job search Internet web site located at www.jobsbridge.com (the "website"). We have created this privacy statement in order to demonstrate our respect for the privacy of our members and visitors to the website. 
 
 ## Overview
 
