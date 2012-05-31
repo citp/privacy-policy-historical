@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227040944id_/http%3A//www.sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531041417id_/http%3A//www.sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash.Org - Make Money Uploading Files!
 
@@ -120,9 +120,9 @@ Any questions relating to our Privacy Policies may be directed to admin@sharecas
   
 
 
-**Dean McGuire**
+**jbs17**
 
-I've used sites like ziddu before and made close to nothing. This all changed when I found sharecash. In three days I had $400 in my account, and I only uploaded five files. I LOVE this site!
+I was earnings 20$ per 1000 downloads on other sites before I decided to try ShareCash. ShareCash changed my online earnings from 1$ day to 10-20$ a Day! I've made more with ShareCash in a Day than I was making in a Month with other sites and I was always paid on time, for 5 times. Best uploading site on the web!
 
   more testimonials       
 
@@ -131,12 +131,12 @@ I've used sites like ziddu before and made close to nothing. This all changed wh
 
 **Latest User!**
 
-Welcome and congratulations to _**easwaran555,**_ the newest member of our community!
+Welcome and congratulations to _**Bosonic,**_ the newest member of our community!
 
 [](http://sharecash.org/register.php)
 
 **Latest Payout!**
 
-Congratulations to _**eddy9898**_ for cashing out _**200.00$**_! Keep up the great work!
+Congratulations to _**jhawsh**_ for cashing out _**51.47$**_! Keep up the great work!
 
 [](http://sharecash.org/register.php)
