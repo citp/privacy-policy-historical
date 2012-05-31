@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optinzip.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018190059id_/http%3A//www.optinzip.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinzip.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531130510id_/http%3A//www.optinzip.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ProfitInfo.com
 
-[Home](https://web.archive.org/web/20111018190059id_/http%3A//www.optinzip.com/index.htm) > [About Us](http://optinzip.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20111018190059id_/http%3A//www.optinzip.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20120531130510id_/http%3A//www.optinzip.com/index.htm) > [About Us](http://optinzip.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20120531130510id_/http%3A//www.optinzip.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of ProfitInfo.com/AWeber Systems, Inc.**
 
