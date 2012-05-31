@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228003204id_/http%3A//www.clarisonic.com/customer_care/privacy_and_security/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531205740id_/http%3A//www.clarisonic.com/customer_care/privacy_and_security) for the most accurate reproduction.*
 
-# Clarisonic | Clarisonic | Legal information and privacy policy
+# Clarisonic | Legal information and privacy policy
 
 ## Pacific Bioscience Laboratories, Inc.
 
@@ -8,13 +8,13 @@ To ensure your privacy, Pacific Bioscience Laboratories, Inc. (Pacific Bioscienc
 
 ## Information collection
 
-When you engage in activities on our website or with our products, like ordering or registering products, requesting customer support or subscribing to e-mail alerts, Pacific Bioscience Laboratories may ask you to provide us with information. 
+When you engage in activities on our website or with our products, like ordering or registering products, requesting customer support or subscribing to e-mail alerts, Pacific Bioscience Laboratories may ask you to provide us with information.
 
 By choosing to enter and submit the requested information when prompted, you are consenting to Pacific Bioscience Laboratories’ collection, use and disclosure of such information for the purposes of providing the services to you as outlined herein.
 
 ## How we use your information
 
-Any information collected will be used only by Pacific Bioscience Laboratories to improve our products, services and website or to communicate with you in the form of newsletters and notices if you give us permission to do so. Pacific Bioscience Laboratories uses information and/or e-mail addresses for internal purposes only and does not sell, lease or rent information to third parties.
+Any information collected will be used only by Pacific Bioscience Laboratories to improve our products, services and website or to communicate with you in the form of newsletters and notices if you give us permission to do so. Pacific Bioscience Laboratories uses information and/or e-mail addresses for internal purposes only and does not sell, lease or rent information to third parties.  ﻿Your information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers.
 
 ## Product purchasing
 
@@ -40,12 +40,12 @@ Our websites provide hyperlinks, which are highlighted words or pictures within 
 
 Pacific Bioscience Laboratories may hire outside contractors to perform services on our behalf (such as packaging and shipping). We will only provide those companies the personal information they need to complete the desired service. They are not permitted to use customer information for any other purpose.
 
-## Sale of assets
+## Business Transfers
 
-In the event that another company acquires Pacific Bioscience Laboratories, Clarisonic, or its assets, Pacific Bioscience Laboratories reserves the right to include Information and Personally Identifiable Information among the assets transferred to the acquiring company.
+In the event that another company acquires Pacific Bioscience Laboratories, Clarisonic, or its assets, Pacific Bioscience Laboratories reserves the right to include Information and Personally Identifiable Information among the assets transferred to the acquiring company.  We may share your information with other entities and affiliates in the family of companies controlled by L'Oreal for internal reasons, primarily for business and operational purposes. 
 
 ## Amendments to privacy policy
 
 Pacific Bioscience Laboratories reserves the right to amend this privacy policy periodically. Any amendments made to this privacy policy will be considered effective ten (10) days after the amendments are posted on the site.
 
-If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@clarisonic.com](mailto:privacy@clarisonic.com).
+If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@clarisonic.com](mailto:privacy@clarisonic.com).
