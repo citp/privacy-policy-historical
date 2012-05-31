@@ -1,29 +1,64 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226103315id_/http%3A//www.bizbash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531113948id_/http%3A//www.bizbash.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | User Agreement | Website | Event Planners | PR | Caterers | Venues | Trade Show | Marketing | Strategy | Ideas | Trends | Style | BizBash
+# Privacy Policy | BizBash
 
-SUMMARY:  
-We respect your privacy. The following explains the type of information we may collect during the normal operation of our business, and how BizBash Media would use and protect such collected information. It is important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
+Welcome to www.BizBash.com (the “Website”). This website is owned and operated by BizBash Media, Inc. ( **“we”, “us”, “our”** ). We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you do not want us accessing and/or using your personal information as described herein, please do not provide us with any! **This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit this Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.**
 
-This Privacy Policy is current as of January 1, 2010 and if any substantive changed to this policy are made, we will announce it on our websites, and if you have provided us with contact information we will also send you a notice to the email or physical address we have on file with you.  If you have any questions or concerns regarding our privacy policy, please don't hesitate to contact us at 646.638.3600, via fax at 646.638.3601, or by writing to us at [Privacy@bizbash.com](mailto:Privacy@bizbash.com) or BizBash Media at 8 West 38th Street, 2nd Floor, NY, NY 10018.
+We encourage you to read this policy to learn more about what information of yours we collect and how we use it and how you can “opt-out” of receiving communications from us. Additionally, this policy includes information about how we endeavor to protect your data. If you have any questions about our collection and use of your information, please contact us at [info@bizbash.com.](mailto:info@bizbash.com)
 
-Personal Information We Collect:  
-BizBash collects information about you when you visit and/or purchase products from this website. Some of this information is automatically collected, and some is collected when you interact with the site. The type of information that is automatically collected can include date and time of access of the site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site. Information from which you can be personally identified may also be collected by BizBash at the site, including your name, postal address, e-mail address (referred to as “Personal Consumer Information”). Of course, you may choose not to provide certain information to BizBash, but if so, you may not be able to participate in certain BizBash activities and transactions.
+  1. **Information Collected; Use of Information; Sharing of Information**
+    1. **Personally Identifiable Information**   
+If you contact us, we may keep a record of that correspondence. We may collect personally identifiable information (“Personal Information”) such as your name, address, telephone number, date of birth and e-mail address from you. Personal Information is collected via voluntary submissions from you. If you do not want to provide us with your Personal Information, you may still access the Website but certain areas may not be accessible to you. If you choose to submit content to any public area of the Website, your content will be considered “public” and will not be subject to the privacy protections set forth herein or any applicable law, rule or regulation. We encourage you to exercise caution when making decisions about what information you disclose in such public areas. Furthermore, except as otherwise described in this Privacy Policy, any content you post to a public area of the Website may be used by us for any purpose.
 
-Use of “Cookies” and Other Technologies: BizBash may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how its visitors make use of this site. This aggregate tracking information is used to help BizBash improve and enhance the website experience for all of its visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this site.
+Your Personal Information may be used by us (i) to process your registration requests, purchase orders and promotions entries; (ii) communicate with you; (iii) administer assistance to you when requested; and (iv) as required by applicable laws, rules or regulations, or the Terms of Use applicable to this Website. We may share your Personal Information with third parties to further the purpose for which you provided such information to us, for example, in order to process a purchase order. We also share your Personal Information with third parties if we believe that the law requires us to do, or to protect our own property or the property of our affiliates. Additionally, in the event of a corporate restructuring (such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.
 
-E-mail Communication: When you communicate with BizBash electronically, via e-mail or otherwise, you consent to BizBash’s use of the information you have provided, and you further consent to receive electronic communications from BizBash. If you would prefer not to receive such communications, please e-mail [Privacy@bizbash.com](mailto:Privacy@bizbash.com)and so advise.
+    2. **Non-Personally Identifiable Information**   
 
-Resale or disclosure of information to third parties:  
-The Personal Consumer Information collected by BizBash may be used by BizBash for any lawful purpose, including to communicate with you, respond to your requests, and analyze and improve BizBash’s websites, its business and/or its service to you. BizBash may use this information to send you e-mail newsletters, promotional offers with respect to goods or services of a particular brand or other types of communications on behalf of BizBash and/or its affiliates. All e-mail newsletters and promotional offers will provide you with an opportunity to opt out of receiving future issues of such newsletters or to opt out of receiving future promotional offers with respect to such brand. BizBash may also use your Personal Consumer Information to send you e-mails or other communications on behalf of third parties, and in some cases we may provide your e-mail to third parties who have sponsored content or an event that you have registered for. All such communications will provide you with the opportunity to opt out of receiving future third party offers from BizBash. You may also, at any time, opt-out of receiving any third-party offers from this site by sending an e-mail to [Privacy@bizbash.com](mailto:Privacy@bizbash.com).
 
-From time to time, BizBash may suggest people to be invited to industry events and will occasionally provide names and email addresses to vendors for event invitations.
+Certain non-personally identifiable information (“Non-Personal Information”) about our visitors is collected by the standard operation of our Internet servers and through the use of “cookies”. A “cookie” is a small amount of data sent to your browser from a web server and stored by your computer. Generally, cookies are used to enable us to deliver to you a better and more personalized service, assist us in tracking visits to the Website and to measure visitor patterns. This information is not personally identifiable and is used by us only to improve the Website. We do not use cookies to retrieve Personal Information from your computer, or use cookies to retrieve other information from your computer for purposes that are unrelated to the Website or your interaction with the Website. We reserve the right to disclose or utilize any of this information in aggregate form, for any purpose, in our sole judgment. The Non-Personal Information we collect is used by us to improve the content of our Website and enhance your experience. Third party advertisers that serve ads on the Website may also use their own cookies. By modifying your browser preferences, you can accept or reject all cookies. If you choose to reject all cookies, you will not be able to access the portions of the Website that require you to register in order to participate. 
 
-Security:  
-BizBash Media handles your information securely. BizBash Media employs security measures to protect the loss, misuse and alteration of the information we store and transmit. Access to our servers is limited. Our BizBash Media security policy ensures that our personnel maintain the highest standards in working with the data on our servers. We recommend that you do not share your passwords with anyone. BizBash Media will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, if you are using a computer that others have access to, such as one in a computer lab, Internet cafe or public library, always remember to log out and close your browser window when leaving our site.
+You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your Personal Information and Non-Personal Information collected by us.
 
-Links to Other Sites:  
-BizBash.com contains links to other Web sites and those sites may not follow the same privacy policies as BizBash.com. This can include links from advertisers, content providers, and partners who may use BizBash Media’s logo and/or style as the result of a co-branding agreement.
+  2. **Protection for Children and Minors.**
 
-Questions?  
-If you have any questions on our Privacy Policy, you can contact us at [Privacy@bizbash.com](mailto:Privacy@bizbash.com).
+**This Website is not intended for, and we have no intention of collecting personally identifiable information from persons under the age of 18.** If a person under the age of 18 has provided us with personally identifiable information, we will use all reasonable efforts to delete such information from our database. If you are under the age of 18, you are not authorized to access or submit any content or information to this Website. 
+
+  3. **Opt-Out.**
+
+If you do not want to receive email or other communications from us in the future, please send an email to us at the address below or call us at the telephone number below requesting to be removed from our mailing list. You will also have the option of clicking on a link included in email correspondence you receive from us in order to remove yourself from our mailing list. 
+
+> Email Contact: [remove@bizbash.com](https://web.archive.org/web/20120531113948id_/http%3A//www.bizbash.com/remove@bizbash.com)  
+>  Telephone Contact: 646.839.6835 
+
+Please note that there might be a brief delay between when you submit your request to “opt-out” and when it is processed and reflected in our systems; accordingly you may continue to receive communications from us for a limited time after you unsubscribe. We appreciate your patience.
+
+  4. **Security.**
+
+We are committed to using commercially reasonable efforts to maintaining the security of your Personal Information. To help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help safeguard and secure the information we collect. Although we use commercially reasonable efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website.
+
+  5. **Security.**
+
+This Website contains links to other websites for the purchase of third party products and services. Please be aware that we are not responsible for such third party sites in any manner including without limitation, the privacy practices of other websites. We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us by this Website.
+
+  6. **Links to Other Websites.**
+
+This Website contains links to other websites for the purchase of third party products and services. Please be aware that we are not responsible for such third party sites in any manner including without limitation, the privacy practices of other websites. We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us by this Website.
+
+  7. **Offers and Promotions.**
+
+We may from time to time offer you opportunities that are sponsored or co-branded with third parties. Such content may include contests, sweepstakes or promotions. In connection with such opportunities, the relevant third parties may obtain Personal Information that you voluntarily submit to participate in such opportunity. We have no control over these third parties’ use of such information.
+
+  8. **Contact Us.**
+
+If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at [info@bizbash.com](mailto:info@bizbash.com) or write us at **8 W 38th Street, Suite 200, New York, NY 10018.**
+
+  9. **Governing Law.**
+
+This Privacy Policy and our legal obligations hereunder are subject to the laws of New York, U.S.A., regardless of your location. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in New York County, New York, U.S.A. in all disputes arising out of or relating to the Services. 
+
+
+
+
+**Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at http://www.bizbash.com/termsandconditions is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.**
+
+This Privacy Policy was last updated on March 1st, 2012. 
