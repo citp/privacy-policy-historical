@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dstv.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528235638id_/http%3A//www.dstv.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstv.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531214409id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# DStv.com
+# DSTV.COM
 
 **MULTICHOICE AFRICA (PTY) LTD ("MULTICHOICE")**
 
@@ -10,9 +10,9 @@
 2\. By accessing the DStv website, users agree to be bound by the privacy policy effective at the time of such access.   
 
 
-This privacy policy forms part of the MultiChoice website [terms and conditions](https://web.archive.org/Pages/TermsConditions/). 
+This privacy policy forms part of the MultiChoice website [terms and conditions](http://www.dstv.com/TermsAndConditions/). 
 
-3\. MultiChoice reserves the right in its sole discretion to amend this privacy policy from time to time. In this event, MultiChoice will post the revised policy on the DStv website. Each time a user accesses the DStv website, the user agrees to be bound by 4. the policy posted on the DStv website at the time.   
+3\. MultiChoice reserves the right in its sole discretion to amend this privacy policy from time to time. In this event, MultiChoice will post the revised policy on the DStv website. Each time a user accesses the DStv website, the user agrees to be bound by 4\. the policy posted on the DStv website at the time.   
 MultiChoice will take all reasonable steps to use or disclose users' personal information only in the manner allowed by this policy.   
 
 
