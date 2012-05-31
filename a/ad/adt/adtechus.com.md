@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtechus.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025103853id_/http%3A//www.adtechus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtechus.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531074135id_/http%3A//www.adtechus.com/privacy) for the most accurate reproduction.*
 
 # ADTECH Ad Server Solutions for Publishers, Ad Networks, Agencies and Advertisers - Privacy
 
