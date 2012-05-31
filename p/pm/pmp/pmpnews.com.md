@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211040607id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072127id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
 
 # UBM Canon - Privacy Policy
 
@@ -149,17 +149,12 @@ In the US: | UBM Canon
 11444 W. Olympic Blvd.  
 Los Angeles, CA 90064  
 USA  
-Email: info@cancom.com  
+Email: info@ubm.com  
 ---|---  
-| Pharmalive.com  
-828A Newtown-Yardley Road  
-Newtown, PA 18940  
-Telephone: 215-944-9800  
-Email: administrator@pharmalive.com  
 In the UK: | Octo Media  
 Kent House, Romney Place  
 Maidstone, Kent  
 ME15 6LH United Kingdom  
-Email: info@cancom.com   
+Email: info@ubm.com   
   
 Back to top
