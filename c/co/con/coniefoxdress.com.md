@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coniefoxdress.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601235809id_/http%3A//www.coniefoxdress.com/cms/help/productHelp/policy/clist34.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coniefoxdress.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531090331id_/http%3A//www.coniefoxdress.com/cms/help/productHelp/policy/clist34.html) for the most accurate reproduction.*
 
-# Formal dress,Prom dresses,Formal dresses,Dresses for a wedding by CONIEFOX formal dress Privacy Policy
+# Formal dresses, evening dresses, prom dresses, coniefoxdress Privacy Policy
 
 Privacy
 
@@ -41,5 +41,11 @@ Cookies
 
 Cookies are small pieces of information that are stored by your browser on your computer hard drive.We use cookies for the following reasons:   
 1.To ensure that items are placed into your Shopping Basket and orders are processed correctly.  
-2.To identify you as you travel around our site.  
+2.To identify you as you travel around our site.
+
 3.To provide site usage information, which together with purchase information, will further help us improve and develop the products and services we offer.
+
+Choice and Opt-Out
+
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at sales@coniefox.com or coniefox@gmail.com  
+
