@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004637id_/http%3A//www.chicagobears.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531071045id_/http%3A//www.chicagobears.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Chicago Bears
 
 ## Chicago Bears Website Privacy Policy
 
-**_Last updated on August 5, 2008._**
+**_Last updated on April 20, 2012._**
 
-**_[](http://www.truste.org/ivalidate.php?url=www.chicagobears.com&sealid=102)_**This privacy policy applies to the Chicago Bears website located at[ www.ChicagoBears.com](https://web.archive.org/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+**_[](http://www.truste.org/ivalidate.php?url=www.chicagobears.com&sealid=102)_**
+
+This privacy policy applies to the Chicago Bears website located at [www.ChicagoBears.com](https://web.archive.org/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by the Chicago Bears
 
-The Chicago Bears Football Club is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the site www.chicagobears.com
+The Chicago Bears Football Club has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.chicagobears.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at (847) 295-6600. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-If you have questions or concerns regarding this statement, you should first contact Dan Gadd at Chicago Bears Football Club, 1000 Football Drive, Lake Forest, IL 60045. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-This site complies with EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
+The Chicago Bears Football Club complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. The Chicago Bears Football Club has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view The Chicago Bears Football Club's certification, please visit <http://www.export.gov/safeharbor/>.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purpose of this privacy policy.
 
@@ -50,6 +48,8 @@ We may collect information from you in several different areas on the Website, i
 **Registration:** You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to chose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
 **Newsletters and Website Emails:** We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by emailing [fanservices@chicagobears.com](mailto:fanservices@chicagobears.com) or by following the instructions provided on the Website or in the newsletter or email.
+
+**Send To A Friend:** If you choose to use our referral service to tell a friend about our site, we will ask you for your friends email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Chicago Bears do not store this information after sending this one-time email.
 
 **Contests or Sweepstakes:** We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used).
 
@@ -128,9 +128,11 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 **CORRECTING/UPDATING PERSONAL INFORMATION**
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [fanservices@chicagobears.com](mailto:fanservices@chicagobears.com). We will respond to your request within 10-20 business days.
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [fanservices@chicagobears.com](mailto:fanservices@chicagobears.com). We will respond to your request within 10-20 business days.
 
 Users can update their information with regards to the Bears Direct email newsletter by clicking on the "update preferences" link at the bottom of Bears Direct emails. Users wishing to update their Chicago Bears Store account can do so by accessing the "My Account" section within the store.
+
+**Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at fanservices@chicagobears.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -144,8 +146,8 @@ If you are a California resident and have questions about our compliance with th
 
 CA Privacy Rights  
 Chicago Bears  
-1000 Football Drive  
-Lake Forest, IL 60045 
+1920 Football Drive  
+Lake Forest, IL 60045
 
 **QUESTIONS ABOUT THIS PRIVACY POLICY**
 
@@ -153,8 +155,10 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 Questions regarding this statement should be directed to:
 
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=65b265da-900d-4199-9b01-3f89a89a6307 "TRUSTe European Safe Harbor certification")
+
 Chicago Bears Football Club  
-Attn: Dan Gadd  
+Attn: New Media Department  
 Website Privacy Policy  
-1000 Football Drive  
+1920 Football Drive  
 Lake Forest, IL 60045
