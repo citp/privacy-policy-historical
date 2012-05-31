@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internetcorkboard.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007091957id_/http%3A//www.internetcorkboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetcorkboard.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531075028id_/http%3A//www.internetcorkboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Last Updated: March 12 2010
+### Last Updated: March 29, 2011
 
 _Generally InternetCorkboard.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII")._
 
@@ -24,11 +24,11 @@ We may collect any or all of the following three types of information: (i) traff
 
 There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site. 
 
-There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. 
+There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. Most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of your browser and browser add-ons for more information. 
 
 A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-**(c) Third Party Advertising.** We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We may also have relationships with other third-party companies to provide instant messaging, social networking linking and other services to users of our Site. We share Clickstream Data and Non-PII with such advertising and third party companies. Third parties that provide such instant messaging and social networking linking and other services may collect PII from you when you are registering for and using any of their services, and such registration and use may occur on our Site. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
+**(c) Third Party Advertising.** We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We may also have relationships with other third-party companies to provide instant messaging, social networking linking and other services to users of our Site. We share Clickstream Data and Non-PII with advertising and third party companies. Third parties that provide such instant messaging and social networking linking and other services may collect PII from you when you are registering for and using any of their services, and such registration and use may occur on our Site. Third parties may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
 
 ## Is data stored by InternetCorkboard.com secure?
 
@@ -42,9 +42,7 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
 
-Business and Legal Affairs   
-InternetCorkboard.com/ValueClick Inc.   
-30699 Russell Ranch Road  
-Suite 250  
-Westlake Village, CA 91362  
-E-Mail: [privacy@valueclick.com ](mailto:privacy@valueclick.com)
+InternetCorkboard.com  
+PO Box 168  
+Monrovia, CA 91017  
+E-Mail: [contact us](https://web.archive.org/contact.html)
