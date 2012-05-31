@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227091624id_/http%3A//www.ukbride.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072119id_/http%3A//www.ukbride.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Wedding dress | Wedding dresses
 
@@ -18,9 +18,7 @@ For information on the Data Protection Act 1998, the Privacy and Electronic Comm
 
 The site stores personal information by those creating an Eternity membership login name and password. Information pertaining to this will be kept on our servers along with details you submit both relating to your wedding planning and to those who you have entered into our My Guest List, My Table Plan and My Address Book. Brides may send you an email if you choose to publish your website via the site.
 
-Your information will be passed on to third party businesses by ourselves if you have 'opted in' to receiving information from third parties or you have opted in to our Terms & Conditions. You may choose to email suppliers and other businesses or contact other brides and grooms on the site yourself.
-
-UKbride captures and stores personal information, during the registration process. This information is shared with selected third party companies as detailed above.
+Your contact information and registration/wall poll responses may be passed on to selected third party businesses by ourselves if you have 'opted in' to receiving information regarding products and services which you may find useful from third parties during the registration process. If you subsequently feel you no longer wish to have you details passed on please email [datacontroller@whitespacepublishers.co.uk](mailto:datacontroller@whitespacepublishers.co.uk) including the email address that you registered with along with your full postal address and postcode and we will no longer pass on any of your details.
 
 In addition, the site automatically logs the user's IP address and session information such as the duration of the visit and the type of browser used. This is recognised by the Web server and is only used for system administration and to provide statistics, which Whitespace Publishers Ltd may compile to evaluate site use.
 
