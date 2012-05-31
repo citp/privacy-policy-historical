@@ -1,42 +1,37 @@
-> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014140749id_/http%3A//www.girlsgames1.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531054947id_/http%3A//www.girlsgames1.com/privacy.htm) for the most accurate reproduction.*
 
 # GirlsGames1.com
 
-**Personal Information**  
-GirlsGames1.com does not attempt to collect any personel information. 
+**Personal Information** ****  
+Here, at GirlsGames1.com your personal information will not be collected. GirlsGames1.com does everything to make sure your online privacy is protected. 
 
-**Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit GirlsGames1.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+**IP address and logging**   
+Once you log in at our site, your IP will be used to collect information about your site visiting habits as well as some demographic information. 
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+**Third Party Advertising**   
+At our site, third party companies will have access to some of your anonymous information that will be used to improve your online experience and provide advertisements about products and services that are of more interest to you. This is usually done by cookies or third party web beacon. The information they collect cannot lead to you personally and they include info about the ads that you’ve clicked, type of your browser, etc. You can learn more about this here:[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-**Liability**  
-Related copyright organization or owner wants to remove any game. GirlsGames1.com will immediately remove games in question.
+**Third Party Cookies**   
+Third party cookies may be recognized or placed on your browser by our third party advertiser, only in order to make the advertisements you see more relevant to you. 
 
-### Special Note About Google Advertising
+**Liability**   
+At any time, you can report any sort of intellectual property violation. GirlsGames1.com will instantly remove any game that is reported in accordance with copyright organization or owner. 
 
-  
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+**External Links**   
+There are links to the other sites at GirlsGames1.com. GirlsGames1.com, however, cannot be responsible for the contents and privacy policies of those sites. 
 
-### Special Note On DoubleClick DART Cookie
+GirlsGames1.com allows you to use the services of our site only if you agree to its “Privacy Policy” and “Terms of Use” conditions in full. You agree to these terms automatically when you visit GirlsGames1.com and/or use any game or anything else displayed on this site. If you don’t agree with any part of these terms and conditions, you are not allowed to use the contents of this site. These terms and conditions are prone to changes and it is your responsibility to keep up to date 
 
-Google, as a third party vendor, uses cookies to serve ads on our site.  
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
+**Access Restrictions**   
+You can use GirlsGames1.com on your own if you have 13 years or more. Younger visitors are allowed only in presence of their parents. 
 
-**ValueClick Media**
+**Proprietary Rights of the Games**   
+Since the majority of software and games are submitted by their creators, GirlsGames1.com cannot be held responsible for any intellectual rights or properties violation. However, GirlsGames1.com will response in a short notice to any report of such violation. 
 
-A statement of the fact that online behavioral advertising (“OBA”) and/or multi-site advertising is occurring; 
+**Outgoing and Incoming Links**   
+GirlsGames1.com cannot be held responsible for the contents and policies of the sites that link to our site or any of the outgoing links. 
 
-A description of types of data that are collected for OBA and/or multi-site advertising purposes on each of your websites by you and any third parties; 
+**Advertisments**   
+GirlsGames1.com cannot be held responsible about the advertisements published on our site. 
 
-An explanation of how, and for what purpose, that data will be used or transferred to third parties; and 
-
-A conspicuous link to the OBA choice mechanism (e.g., opt-out link) provided by the NAI member, and/or a conspicuous link to the opt-out page on the NAI's consumer website. 
-
-**Copyright**  
-All rights reserved, GirlsGames1.com © 2008. All games copyright to their respective owners.
-
-**Contact**  
-If you have any questions please contact us via girlsgames1.com@gmail.com
+﻿ 
