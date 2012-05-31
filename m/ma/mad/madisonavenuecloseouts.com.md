@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madisonavenuecloseouts.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102213806id_/http%3A//www.madisonavenuecloseouts.com/about-our-company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonavenuecloseouts.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531111653id_/http%3A//www.madisonavenuecloseouts.com/about-our-company/privacy-policy.html) for the most accurate reproduction.*
 
 # Madison Avenue Closeouts Privacy Policy
 
@@ -55,6 +55,6 @@ How to Contact Us
 If you have any questions about our privacy policy, please contact us at:
 
 **Madison Avenue Closeouts**  
-2324 Ebenezer Road, Ste B  
-Rock Hill, SC  29732  
-USA
+sales@madisonavenuecloseouts.com
+
+704-733-9570
