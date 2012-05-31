@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130022024id_/http%3A//www.eurocontrol.int/articles/privacy-policy-ip-address) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531025633id_/http%3A//www.eurocontrol.int/articles/privacy-policy-ip-address) for the most accurate reproduction.*
 
 # Privacy Policy / IP address | EUROCONTROL
 
