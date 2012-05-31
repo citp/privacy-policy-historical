@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paizo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214410id_/http%3A//paizo.com/paizo/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paizo.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531095134id_/http%3A//paizo.com/paizo/about/privacypolicy) for the most accurate reproduction.*
 
 # paizo.com - Paizo / About Paizo / Privacy Policy
 
 ##  Paizo Publishing, LLC Website Privacy Policy 
 
-### This document was last updated August 31, 2011
+### This document was last updated February 1, 2012
 
 We at Paizo Publishing are committed to protecting your personal information. This policy applies to transactions made and data gathered on the paizo.com website, and does not apply to any other website or offline contact between Paizo Publishing and consumers.
 
@@ -21,6 +21,8 @@ We use the information you provide for us to help us deliver the services you ha
 We use the financial information you give us to check your qualifications and to charge you for products and services you order from us. By making a purchase or engaging in other activity on the Site that uses financial information, you consent to our providing your financial information to our service providers and the third parties necessary to process your transactions.
 
 If you participate in Pathfinder Society organized play, your participation in games is recorded and may be disclosed to volunteer Venture Captains. This information is limited to information about your participation and does not include any personal, financial or demographic information.
+
+If you use the private messaging system, messages sent and received are visible to the sender and recipient. Messages may be reviewed by Paizo staff or disclosed to appropriate law enforcement agencies if required to do so by law, or in the good faith belief that such action is necessary to investigate abuse or ensure personal safety.
 
 Customers may "opt in" to register interest with [Goblinworks Games](http://goblinworksgames.com/), publishers of the officially licensed MMO _Pathfinder Online_. Paizo may share those customers' personal and demographic information with Goblinworks.
 
@@ -39,6 +41,7 @@ You have the means to ensure that your personal information is correct and curre
   * Tell us whether you want Paizo to send you marketing information. 
   * Choose whether you want third parties to send you their offers. 
   * Subscribe, or cancel subscriptions, to newsletters about our services and products. 
+  * Opt out of the private messaging system.
 
 
 
