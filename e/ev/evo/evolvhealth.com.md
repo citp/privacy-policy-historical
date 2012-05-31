@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evolvhealth.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320030402id_/http%3A//evolvhealth.com/privacy.asp%3Fco_la%3DUS_EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvhealth.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601000453id_/http%3A//www.evolvhealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Evolv | Privacy Policy
+# EvolvHealth Privacy Policy | EvolvHealth Corporate Site
 
 ## INFORMATION COLLECTION
 
-EvolvHealth, LLC (referred to herein as "EvolvHealth", "our", "us" or "we") is the sole owner of the information collected on our websites and on the replicated EvolvHealth websites that we provide for use by independent contractor Members (hereafter the "websites"). We collect information from Independent Members ("Members"), customers and visitors to the websites at different points on the websites.
+EvolvHealth, LLC (referred to herein as “EvolvHealth”, “our”, “us” or “we”) is the sole owner of the information collected on our websites and on the replicated EvolvHealth websites that we provide for use by independent contractor Members (hereafter the “websites”). We collect information from Independent Members (“Members”), customers and visitors to the websites at different points on the websites.
 
 ### Personally Identifiable Information
 
@@ -12,11 +12,11 @@ Through your use of or visits to our websites, you may be required or requested 
 
 ### Member and Customer Registration
 
-In order to become a Member, an applicant must provide biographical and contact information (such as name, mailing address, telephone numbers, and email address) to us. We also require an applicant's Social Security Number or Federal Tax ID Number so that we may prepare and file necessary non-employee compensation forms for the IRS. Certain customers may be required to register in order to purchase products directly from us ("Registered Customers"). Registered Customers will be required to provide contact information (such as name, mailing address, telephone number(s), and email address) and payment information (such as credit card or checking account information). We use this information to maintain contact with Members and Registered Customers, and to process Member and Registered Customer orders.
+In order to become a Member, an applicant must provide biographical and contact information (such as name, mailing address, telephone numbers, and email address) to us. We also require an applicant’s Social Security Number or Federal Tax ID Number so that we may prepare and file necessary non-employee compensation forms for the IRS. Certain customers may be required to register in order to purchase products directly from us (“Registered Customers”). Registered Customers will be required to provide contact information (such as name, mailing address, telephone number(s), and email address) and payment information (such as credit card or checking account information). We use this information to maintain contact with Members and Registered Customers, and to process Member and Registered Customer orders.
 
 ### Downline Genealogy Reports
 
-As a network marketing company, EvolvHealth provides certain information to Members regarding the other Members and Registered Customers enrolled in a Member's downline marketing organization. If you enroll as a Member or Registered Customer with EvolvHealth, your name, email address, and telephone number will be provided to your Sponsor and the Member immediately above your Sponsor. No other personally identifiable information will be shared with other Members. Such information is made available to EvolvHealth Members subject to a confidentiality and non-disclosure covenant in the agreement that each Member enters into with EvolvHealth.
+As a network marketing company, EvolvHealth provides certain information to Members regarding the other Members and Registered Customers enrolled in a Member’s downline marketing organization. If you enroll as a Member or Registered Customer with EvolvHealth, your name, email address, and telephone number will be provided to your Sponsor and the Member immediately above your Sponsor. No other personally identifiable information will be shared with other Members. Such information is made available to EvolvHealth Members subject to a confidentiality and non-disclosure covenant in the agreement that each Member enters into with EvolvHealth.
 
 ### Product or Service Purchases
 
@@ -30,21 +30,21 @@ Personally identifiable information that is collected from customers, Members an
 
 ### Profile Information
 
-EvolvHealth stores information that it collects through cookies, log files, clear gifs, and/or third parties to create a profile of visitors to our websites ("users"), including customers, Registered Customers, and Members. A profile is stored information that EvolvHealth keeps on individual users that details their viewing preferences. Profile information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. EvolvHealth does not share profile information with other third parties.
+EvolvHealth stores information that it collects through cookies, log files, clear gifs, and/or third parties to create a profile of visitors to our websites (“users”), including customers, Registered Customers, and Members. A profile is stored information that EvolvHealth keeps on individual users that details their viewing preferences. Profile information is tied to the user’s personally identifiable information to provide offers and improve the content of the site for the user. EvolvHealth does not share profile information with other third parties.
 
 ### Cookies
 
-A cookie is a piece of data stored on a user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on the websites. EvolvHealth uses both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+A cookie is a piece of data stored on a user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on the websites. EvolvHealth uses both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-By setting a cookie on a user's computer, users do not have to log in a password more than once, thereby saving time while at the websites. If a user rejects the cookie, the user will still be able to use the site. The only drawback to this is that the user may need to enter his or her password every time he or she accesses the site.
+By setting a cookie on a user’s computer, users do not have to log in a password more than once, thereby saving time while at the websites. If a user rejects the cookie, the user will still be able to use the site. The only drawback to this is that the user may need to enter his or her password every time he or she accesses the site.
 
 ### Log Files
 
-Like most standard website servers EvolvHealth's websites use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable our web-based service. We use a tracking utility that uses log files to analyze user movement.
+Like most standard website servers EvolvHealth’s websites use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable our web-based service. We use a tracking utility that uses log files to analyze user movement.
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
-EvolvHealth employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help EvolvHealth to better manage content on the websites by informing it what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information.
+EvolvHealth employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help EvolvHealth to better manage content on the websites by informing it what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users’ personally identifiable information.
 
 In addition, EvolvHealth uses clear gifs in its HTML-based emails to let it know which emails have been opened by the recipients. This allows EvolvHealth to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
@@ -72,7 +72,7 @@ Though EvolvHealth makes every effort to preserve user privacy, EvolvHealth may 
 
 EvolvHealth shares aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
 
-### These are the instances in which we will share users' personal information:
+### These are the instances in which we will share users’ personal information:
 
 EvolvHealth DOES NOT Share Personally Identifiable Information about users with any Third Parties.
 
@@ -86,7 +86,7 @@ EvolvHealth partners with other third parties to provide specific services. When
 
 ### Business Transitions
 
-In the event EvolvHealth goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, the personal information of Members and customers will, in most instances, be part of the assets transferred. If as a result of the business transition, a Member's or customer's personally identifiable information will be used in a manner different from that stated at the time of collection, the Member or customer will be given choice consistent with our notification of changes section.
+In the event EvolvHealth goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, the personal information of Members and customers will, in most instances, be part of the assets transferred. If as a result of the business transition, a Member’s or customer’s personally identifiable information will be used in a manner different from that stated at the time of collection, the Member or customer will be given choice consistent with our notification of changes section.
 
 ### Choice
 
@@ -94,15 +94,15 @@ Users are always notified when their information is being collected by any outsi
 
 ### Links
 
-EvolvHealth's websites may contain links to other sites. Please be aware that EvolvHealth is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by EvolvHealth websites.
+EvolvHealth’s websites may contain links to other sites. Please be aware that EvolvHealth is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by EvolvHealth websites. 
 
 ### Security
 
-EvolvHealth takes every precaution to protect all users' information. When users submit sensitive information via EvolvHealth's websites, their information is protected both online and offline.
+EvolvHealth takes every precaution to protect all users’ information. When users submit sensitive information via EvolvHealth’s websites, their information is protected both online and offline.
 
-When the Member Application, Customer Registration, and/or online order forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as the Member Application and Agreement and online order forms, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when users are just 'surfing'.
+When the Member Application, Customer Registration, and/or online order forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as the Member Application and Agreement and online order forms, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when users are just ‘surfing’.
 
-While EvolvHealth uses SSL encryption to protect sensitive information online, the Company also does everything in our power to protect user information offline. All user information, not just the sensitive information mentioned above, is restricted in EvolvHealth's offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. ALL employees are kept up-to-date on Company security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment.
+While EvolvHealth uses SSL encryption to protect sensitive information online, the Company also does everything in our power to protect user information offline. All user information, not just the sensitive information mentioned above, is restricted in EvolvHealth’s offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. ALL employees are kept up-to-date on Company security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment.
 
 ## MISCELLANEOUS
 
@@ -112,9 +112,7 @@ EvolvHealth reserves the right to amend or change this Privacy Policy at any tim
 
 ### Making Changes to Your Personally Identifiable Information
 
-Members and Registered Customers may update your personal information as necessary by logging into eCenter, the back office website, or contacting our member services department which allows them to access and edit their registration account information. In addition, you may contact us at [info@evolvhealth.com](mailto:info@evolvhealth.com) to update your profile.
-
-### Protecting Children
+Members and Registered Customers may update your personal information as necessary by logging into eCenter, the back office website, or contacting our member services department which allows them to access and edit their registration account information. In addition, you may contact us at [info@evolvhealth.com](mailto:info@evolvhealth.com) to update your profile. 
 
 EvolvHealth is committed to the safety of our children. Persons under the age of 18 may not enroll as EvolvHealth Members or register as customers. Children under the age of 13 may not purchase products through any of our websites. We do not knowingly collect any personal information from such children at this site or any of its other sites.
 
@@ -122,13 +120,9 @@ EvolvHealth is committed to the safety of our children. Persons under the age of
 
 Questions regarding this Privacy Policy should be directed to [privacypolicy@evolvhealth.com](mailto:privacypolicy@evolvhealth.com), or by mail to EvolvHealth, Galleria Tower 2, 23rd Floor, 13455 Noel Road, Dallas, Texas 75240.
 
-### Effective Date
-
 The effective date of this Privacy Policy is October 1, 2009.
 
-© 2020 EvolvHealth, LLC. All Rights Reserved.
-
-[](http://www.evolvhealth.com/pdfs/Privacy_Policy.pdf)
+© 20202011 EvolvHealth, LLC. All Rights Reserved.
 
 [](http://get.adobe.com/reader/?promoid=BUIGO)
 
