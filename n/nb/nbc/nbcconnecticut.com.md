@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nbcconnecticut.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011173704id_/http%3A//www.nbcconnecticut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcconnecticut.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531193918id_/http%3A//www.nbcconnecticut.com/privacy) for the most accurate reproduction.*
 
 # | NBC Connecticut
-
-## Privacy Policy
 
 _This Privacy Policy was last updated on July 8, 2011._
 
