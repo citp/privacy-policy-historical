@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccri.edu privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124165630id_/http%3A//www.ccri.edu/webservices/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccri.edu privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531112308id_/http%3A//www.ccri.edu/webservices/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Services - Information Technology - Community College of Rhode Island
 
