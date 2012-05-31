@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210154414id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531071714id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
 
 # Free Webstore - Privacy Policy
 
@@ -60,7 +60,7 @@ These terms and this disclaimer and any claim based on use of information from t
 
 ### **Consent and enquiries**
 
-By continuing to user this site and accessing the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data please contact email. If at any time you wish us to cease processing your information please send a message to the Administrator at the email address on this sites contact page. 
+By continuing to use this site and access the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data, please [contact us](http://www.freewebstore.org/website/contact.asp).
 
 [ ](http://www.freewebstore.org/website/testimonials.html) [ ](http://www.freewebstore.org/website/features.html) [ ](http://help.freewebstore.org/) [ ](http://www.freewebstore.org/website/free_ecommerce_services.html) [ ](http://www.freewebstore.org/website/packages.html) [ ](http://www.freewebstore.org/website/ecommerce.html)
 
