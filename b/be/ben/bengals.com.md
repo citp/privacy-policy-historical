@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bengals.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120160537id_/http%3A//www.bengals.com/footer/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengals.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531165842id_/http%3A//www.bengals.com/footer/privacy-statement.html) for the most accurate reproduction.*
 
 # Web Site Privacy Policy - Cincinnati Bengals
 
-**Revised: November 16, 2010**
+**Revised: May 1, 2012**
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bengals.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=007cd83b-8f07-4b23-b618-66283ff07da6 "TRUSTe online privacy certification")
 
 This privacy policy applies to the Cincinnati Bengals Web site located at [www.bengals.com](http://prod.www.bengals.clubs.nfl.com/) and [http://www.cincinnatibengals.com](http://prod.www.bengals.clubs.nfl.com/) (the "Web site"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Web site is operated by the Cincinnati Bengals.
 
-Cincinnati Bengals has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [webmaster@bengals.nfl.net](mailto:webmaster@bengals.nfl.net). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Cincinnati Bengals has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.bengals.com](http://prod.www.bengals.clubs.nfl.com/) and [www.cincinnatibengals.com](http://prod.www.bengals.clubs.nfl.com/) and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [webmaster@bengals.nfl.net](mailto:webmaster@bengals.nfl.net). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -19,15 +19,15 @@ Please read the information below to learn more about our data collection polici
   
 
 
-  * Types Of Information That May Be Collected 
-  * How Information May Be Collected 
-  * How We Use The Information Collected 
-  * With Whom The Information May Be Shared 
-  * Security 
+  * Types Of Information That May Be Collected
+  * How Information May Be Collected
+  * How We Use The Information Collected
+  * With Whom The Information May Be Shared
+  * Security
   * Chat Rooms, Forums, And Message Boards
-  * Links To Other Web sites 
+  * Links To Other Web sites
   * Tell-A-Friend
-  * A Special Note For Parents Concerning Privacy 
+  * A Special Note For Parents Concerning Privacy
   * Notification Of Changes And Your Acceptance Of The Privacy Policy
   * Correcting/Updating Personal Information
   * Your California Privacy Rights
@@ -54,6 +54,10 @@ Newsletters and Web site Emails: We offer free newsletters to share information 
 Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Web site that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Web site, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. All contests are managed internally by the Cincinnati Bengals and none of the data collected is shared with third-party sponsors.
 
 Cookies: As with many Web sites, our Web site uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Web site whenever your computer is used to visit the Web site. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the Web site. For registered users, cookies can make using the Web site easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Web site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Web site. Cookies may also allow the Web site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are used solely for purposes as outlined above, and are not combined with personally-identifiable information such as your name and email address.
+
+Third Party Cookies: The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy statement. We do/do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.]
+
+Web beacons: Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Web site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
@@ -123,7 +127,11 @@ By using this Web site, you signify your agreement to the terms of our privacy p
 
 Correcting/updating personal information
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Web site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile by clicking on the "If you have already registered, please click here to login and update your profile" link on our enewsletter registration page, or updating your personal preferences in the "My Account" section of the Bengals Pro Shop Web site. You may also email us at [webmaster@bengals.nfl.net](mailto:webmaster@bengals.nfl.net) with your change request.
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Web site, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. This can be done by making changes to your profile by clicking on the "If you have already registered, please click here to login and update your profile" link on our enewsletter registration page, or updating your personal preferences in the "My Account" section of the Bengals Pro Shop Web site. You may also email us at [webmaster@bengals.nfl.net](mailto:webmaster@bengals.nfl.net) with your change request.
+
+Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [webmaster@bengals.nfl.net](mailto:webmaster@bengals.nfl.net). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Your california privacy rights
 
