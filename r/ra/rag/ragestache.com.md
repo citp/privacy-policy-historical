@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragestache.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201095432id_/http%3A//www.ragestache.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragestache.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531150754id_/http%3A//www.ragestache.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Ragestache
 
