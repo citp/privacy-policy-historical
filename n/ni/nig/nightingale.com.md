@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nightingale.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006165716id_/http%3A//www.nightingale.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightingale.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601000508id_/http%3A//www.nightingale.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # PRIVACY AND SECURITY
 
