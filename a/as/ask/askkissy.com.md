@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the askkissy.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219201241id_/http%3A//www.askkissy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askkissy.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531020700id_/http%3A//www.askkissy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | | | AsKKissy.com | |
+
+* * *
 
 **Privacy Policy for www.askkissy.com**
 
