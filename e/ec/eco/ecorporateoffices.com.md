@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecorporateoffices.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225005058id_/http%3A//www.ecorporateoffices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorporateoffices.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531073802id_/http%3A//ecorporateoffices.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
