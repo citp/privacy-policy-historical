@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227080232id_/http%3A//www.visitlondon.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531093018id_/http%3A//www.visitlondon.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Visit London
 
@@ -38,7 +38,7 @@ You can manage your details at [www.visitlondon.com/preferences](http://www.visi
 We collect information about our users for a variety of purposes. These include:
 
   * where you supply information to us in order that we deliver a required service e.g. newsletters relevant to you and your interests, information will be processed by us to supply the information and material which we promise. Your information is held at London & Partners in the UK, and maintained by London & Partners and yourself via [www.londonandpartners.com](http://www.londonandpartners.com/).
-  * so we can communicate with you in response to a specific action performed by you on this site or one of our affiliate sites, e.g. when you book a hotel, buy a ticket, reserve a table, leave a review, enter a competition, redeem a special offer.
+  * so we can communicate with you in response to a specific action performed by you on this site, via our email newsletters or one of our affiliate sites, e.g. when you book a hotel, buy a ticket, reserve a table, leave a review, enter a competition, redeem a special offer.
   * so we can inform you of new competitions, special offers, relevant products and services which may be of interest
   * so we can send you news items which are relevant to your interests
   * to help us improve and personalise our services
@@ -59,7 +59,57 @@ You are ultimately responsible for the security of your email and password. Plea
 
 ## Cookies
 
+ **What are Cookies?**
+
+A cookie is a small data file that is sent to a user’s computer or mobile phone from a web site and is stored on the device. Each web site can send its own cookies to your browser if your browser's preferences allow it. Typical uses for cookies are to recognise you when you make a return visit, to personalise content, to enable functions like shopping baskets or favourite lists, to analyse web traffic and to target advertising.
+
+Why do we use them?
+
+ **www.visitlondon.com makes use of cookies for the following purposes:**
+
+1\. To remember you on subsequent visits, and to allow you to remain logged in to the site so that you can enter competitions and redeem special offers  
+2\. For web and marketing analytics, so we can understand more about how the site is used and help us to improve it  
+3\. To enable third party features like YouTube videos, social sharing buttons (e.g. Facebook Likes) and triggering of user satisfaction surveys  
+4\. To target advertising – we want to make sure that the ads we show you are as relevant as possible
+
+ **We do not collect any personally identifiable information in our cookies.**
+
+## List of Cookies
+
+These are the main cookies which are set by this web site, and what they are used for.
+
 [www.visitlondon.com](https://web.archive.org/) makes use of cookies to personalise content and provide statistics that allow us to understand how users use the website, helping us to improve its structure and content. Although some website operators use cookies to generate consumer profiling information to be sold or transferred to third parties, it is the policy of this site never to share information collected using cookies with third parties.
+
+Name| Description| Duration/Expiry  
+---|---|---  
+VisitLondonMember| For visitors who have registered and logged in, this cookie stores an encrypted ID so that we can recognise you on subsequent visits| 10 years  
+JSESSIONID| Used for session management| Session only  
+__utma| This cookie is used to determine unique visitors to our site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.| 2 years from set/update.  
+__utmb| This cookie is used to establish and continue a user session with our site.| Set at beginning of session for 30 minutes  
+__utmc| This cookie is used to determine the end of a session when there has been no activity for 30 minutes.| Expires at end of session  
+__utmz| This cookie stores the type of referral used by the visitor to reach our site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link| 6 months from set/update  
+  
+##  **From 3rd Parties**
+
+We work with a number of third parties including marketing and advertising partners. These services will set cookies which are not directly controlled by visitlondon.com
+
+The domains associated with advertising and marketing that may set cookies while visiting our site are as follows:
+
+Adtech  
+Appnexus  
+Rubicon  
+Weborama  
+Doubleclick  
+Quantcast  
+mookie1.com
+
+The domains associated with non-advertising 3rd party services that may set cookies while visiting our site are as follows:
+
+Stumbleupon  
+Facebook  
+YouTube  
+Kampyle  
+Wibiya
 
 ## Disabling / Enabling Cookies
 
