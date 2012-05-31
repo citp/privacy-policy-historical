@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weinterrupt.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202091357id_/http%3A//weinterrupt.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weinterrupt.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531094155id_/http%3A//weinterrupt.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — We Interrupt
 
 WeInterrupt.com has a zero tolerance for spam policy. We value and respect your privacy.
 
