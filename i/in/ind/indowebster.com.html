@@ -1,0 +1,373 @@
+<!--The following is the downloaded HTML source of the indowebster.com privacy policy that was archived on 2012-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531123033id_/http%3A//www.indowebster.com/page/Privacy_Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>Indowebster Privacy Policy - Indowebster.com</title>
+			<meta name="description" content="Indowebster Privacy Policy">	<meta name="keywords" content="Indowebster,Privacy,Policy">	<link rel="stylesheet" href="http://s.v5.idws-static.com/min/6d00195e81128e36316d9f69f5e2918d.css" type="text/css">
+	<link rel="stylesheet" href="http://s.v5.idws-static.com/min/9070275e3f7e7a2606a51ff87318b8d1.css" type="text/css">
+	<link rel="shortcut icon" href="http://s.v5.idws-static.com/img/icons/favicon.ico">
+	<script type="text/javascript" async="" src="http://id-cdn.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s.v5.idws-static.com/js/new/jquery.js"></script>
+	<script src="http://s.v5.idws-static.com/min/6ee80a0d206759eb12c6178f50112665.js" type="text/javascript"></script>
+	<meta name="google-site-verification" content="kUQSgow5KA8NOdQjJaz5418SlCLKyBom_AeSDBQI1uE">
+		<script type="text/javascript" async="" src="//platform.twitter.com/widgets.js"></script></head>
+<body>
+<div id="mainLoading" style="display:none" class="al_c"></div>
+<header>
+    <div class="container_12">
+    	<nav id="mainNav" class="grid_9">
+    		<ul>
+	<li><a href="http://www.indowebster.com/">Home</a></li>
+    <li><a href="http://www.indowebster.com/category/video">Video</a></li>
+    <li><a href="http://www.indowebster.com/category/music">Music</a></li>
+    <li><a href="http://www.indowebster.com/category/image">Images</a></li>
+    <li><a href="http://www.indowebster.com/category/games">Games</a></li>
+    <li><a href="http://www.indowebster.com/category/uncategorized">Other</a></li>
+    <li><a href="http://www.indowebster.web.id" target="_blank">Forum</a></li>
+</ul>
+	
+
+    	</nav>
+        <nav id="profileNav" class="grid_3">
+            <ul id="profileMenu">
+	<li><a href="http://www.indowebster.com/register" title="register">Register</a></li>
+	<li><a class="loginHeaderBtn" href="http://www.indowebster.com/login" title="Login">Login</a></li>
+</ul>
+
+<div class="grid_3 alpha omega">
+	<fieldset id="loginBoxHeader" class="rb5">
+		<form>
+		<dl class="noblock">
+			<dt><label for="username">Enter Username</label></dt>
+			<dd><input id="username" name="username" title="username" tabindex="4" type="text" class="input text r3 innerWidth_3"></dd>
+		</dl>
+		<dl class="noblock">
+			<dt><label for="password">Enter Password</label></dt>
+			<dd><input id="password" name="password" title="password" tabindex="5" type="password" class="input text r3 innerWidth_3"></dd>
+		</dl>
+		<div id="errorMessage" class="noblock" align="right">
+			&nbsp;
+		</div>				
+		<dl class="noblock">
+			<dd class="right"><input id="signin_submit" value="Login" tabindex="6" type="submit" name="login" class="button r3 small"></dd>
+			<dd><input id="remember" value="1" tabindex="7" type="checkbox" name="remember"> <label for="remember">Remember me</label></dd>
+			<dd><a href="http://www.indowebster.com/forgotpassword" class="size_3">Forgot password?</a></dd>
+			<dd class="clear"></dd>
+		</dl>
+		
+		<input type="hidden" id="1234" value="bcd7610">
+		<input type="hidden" id="referer" value="/page/Privacy_Policy">
+		</form>
+	</fieldset>
+</div>
+<div class="clear"></div>
+
+<script type="text/javascript">
+var o = $('#loginBoxHeader');
+function toggleLogin() {
+	if (o.is(":visible")) {
+		o.fadeOut('fast');
+	} else {
+		o.fadeIn();	
+	}
+}
+
+$('.loginHeaderBtn').click(function() {
+	toggleLogin();
+	return false;
+});
+
+o.mouseup(function() {
+	return false;
+});
+
+$(document).mouseup(function() {
+	if (o.is(":visible"))
+		toggleLogin();
+});
+
+$('#signin_submit').click(function(e){
+	 e.preventDefault();
+	$('#errorMessage').empty().append('loading..');
+	
+	$.post("http://www.indowebster.com/ajax/login/execute",
+		{
+			username:$('#username').val(),
+			password:$('#password').val(),
+			remember:$('#remember').val(),
+			"1234":$('#1234').val(),
+			referer:$('#referer').val(),
+			login:$("input[name=login]").val()
+		},	
+		function(data){
+			$("#errorMessage").empty().append(data);
+			if(data=='Login Success')
+			{
+				setTimeout("location.reload(true)",1000);
+			}
+		});
+});
+</script>        </nav>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</header>
+<section id="subHeader">
+    <div class="container_12" id="subHeaderContainer">
+        <div class="grid_8 size_6">
+        		<div id="searchBoxTop" class="input searchBox r3 width_8">
+		<div class="grid_8 alpha">
+			<input type="text" id="searchInput" class="input r3 size_5 search" value="Indowebster Search">
+  			<input type="button" id="searchBtn" class="button r3 color_blue width_1" value="">
+		</div>
+
+		<div class="clear"></div>
+	</div>
+	<script type="text/javascript">
+		$('#searchBoxTop').find('#searchInput').keydown(function(event) {
+			var keycode = (event.keyCode ? event.keyCode : (event.which ? event.which : event.charCode));
+			if (keycode == 13) {
+				window.location = 'http://www.indowebster.com/search/'+$(this).val();
+				return false;
+			} 
+			else  
+			{
+				return true;
+			}
+		});
+		
+		$('#searchBoxTop').find('#searchBtn').click(function(){
+			var val = $(this).closest('#searchBoxTop').find('#searchInput').val();
+			if (val == 'Indowebster Search' || val == '')
+			{
+				alert('You didn\'t enter any keyword');
+				return false;
+			}
+			window.location = 'http://www.indowebster.com/search/'+val;
+		});
+		
+		$('#searchBoxTop').find('#searchInput').focus(function(){
+			if ($(this).val() == 'Indowebster Search') $(this).val('');
+		});
+		
+		$('#searchBoxTop').find('#searchInput').blur(function(){
+			if ($(this).val() == '') $(this).val('Indowebster Search');
+		});
+	</script>
+        </div>
+        <div class="grid_4">
+        	<ul class="r3 noblock" id="statistic">
+			<li class="alpha"><strong>1,312,140</strong> <span>members</span></li>
+        	    <li><strong>1,348,130</strong> <span>files</span></li>
+            	<li><strong>157.11 TB</strong> <span>size</span></li>
+	</ul>        </div>
+            	<div class="clear"></div>
+    </div>
+</section>
+
+<section id="bodyAndFooter">
+	<section id="body">
+		<div class="container_12" id="bodyHeader">
+			<div class="grid_10">
+				<ul>
+					<li class="alpha"><a href="http://www.indowebster.com/" title="Indowebster Home"><img src="http://s.v5.idws-static.com/img/new/main/logo-home.png" alt="Indowebster Home"></a></li>
+					
+																								<li>
+																	<a href="http://www.indowebster.com/page">Page</a>
+															</li>
+																				<li>
+																	<span>Privacy Policy</span>
+															</li>
+																						</ul>
+				<div class="clear"></div>
+			</div>
+			<div class="grid_2">
+	    		<a href="https://twitter.com/idws" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#00AEFF" data-show-count="false">Follow @idws</a>
+	    		<span class="clear"></span>
+				<script type="text/javascript">(function(){var twtr=document.createElement('script');twtr.type='text/javascript';twtr.async=true;twtr.src='//platform.twitter.com/widgets.js';document.getElementsByTagName('head')[0].appendChild(twtr);})();</script>
+	    		</div>
+	    		<div class="clear"></div>
+		</div>
+				<div class="container_12" id="bodyContainer">
+							<div class="grid_10 prefix_1 suffix_1 block adPos" id="header_ads" title="ALL">
+					<div class="block">
+	<h6 class="size_1 title soft">ADVERTISEMENT</h6>
+	<div class="adPos" id="header_ads" title="ALL"></div>
+</div>				</div>
+				<div class="clear"></div>
+									
+<div class="container_12">
+	<div class="grid_4 al_r">
+		<h1 class="title">Indowebster Privacy Policy</h1>
+	</div>
+	<div class="grid_8 block">		
+		<p>Indowebster is a Non-Profit Organization. All the Files Shared here are for Evaluation Purposes ONLY, in No Way Related or Supporting Piracy &amp; are CopyRight to their Respective Record Labels. Do give your Support &amp; Purchase the Original Videos, Albums, Images, E-books or Softwares.</p>
+
+		<br>
+		
+		<strong>Indowebster Privacy Policy</strong>
+		<br><br>
+		
+		<p>This Indowebster Privacy Policy, in conjunction with the AUP, Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Indowebster website and are collectively referred to as the "Agreement".</p>
+		<p>Indowebster may modify the Agreement which will become effective immediately upon posting on the website.</p>
+		<p>Any Content uploaded by you to Indowebster becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.</p>
+		<p>Indowebster uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases.</p>
+		<p>A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided Indowebster. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable Indowebster to track and target your interests to enhance your experience on our website.</p>
+		<p>You may review, update or correct personal information or your account on your User Panel.</p>
+		<p>The email address you provide for order processing will only be used to send you information and updates pertaining to your order.</p>
+		<p>We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of Indowebster, or visitors of Indowebster; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities.</p>
+		<p>
+		
+		Third-party websites or services linked to Indowebster are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. Indowebster is not responsible for the privacy practices of the third-party websites and companies.</p>
+		<p>You are solely responsible for safeguarding the secrecy of your password.</p>
+		<p>Indowebster is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.</p>
+		<p>If you are not a resident of the Indonesia, you understand and agree that Indowebster stores and processes your information on computers located in the Indonesia, any by providing any data to Indowebster, you consent to the transfer of such information to the Indonesia.</p>
+		<p>In the event that Indowebster is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Indowebster may not be able to control how your personal information is treated, transferred or used.</p>
+		<p>Although we strive to protect your personal information, Indowebster cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+		</p>
+		
+		
+		<br>
+		<strong>Indowebster Acceptable Use Policy</strong>
+		<br><br>
+		<p>
+		This Indowebster Acceptable Use Policy, in conjunction with the Terms of Service, Privacy Policy and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Indowebster website and are collectively referred to as the "Agreement".</p>
+		<p>Indowebster may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. If you are dissatisfied with anything related to the Indowebster website, your sole remedy is to discontinue use of the Services. You use the Services of Indowebster at your own risk.</p>
+		<p>You agree while using Indowebster Services, that you may not: 
+		
+		</p><ul>
+			<li><p>Use the Services for any illegal purpose;</p></li>
+			<li><p>Use any robot, spider, site search and/or retrieval application, or other device to retrieve or index any portion of the Services, with the exception of public search engines;</p></li>
+			<li><p>Transmit any viruses, worms, defects, Trojan horses or other items of a contaminating or destructive nature;</p></li>
+			<li><p>Upload any Content that includes code hidden or otherwise contained within the Content which is unrelated to the Content;</p></li>
+			<li><p>Reformat or frame any portion of any web page that is part of the Services without the express permission of Indowebster;</p></li>
+			<li><p>Collect or harvest any personal identifiable information or solicit users;</p></li>
+			<li><p>Impersonate another person, whether real or fictional;</p></li>
+			<li><p>Permit any third parties to use your name and password;</p></li>
+			<li><p>Violate or attempt to violate Indowebster systems or interfere with the normal use of the Services by users;</p></li>
+			<li><p>Resale Indowebsters products and Services;</p></li>
+			<li><p>Post Content containing restricted or password only files;</p></li>
+			<li><p>Post advertisements or solicitations of business;</p></li>
+			<li><p>Transmit any form of solicitation or Spam;</p></li>
+			<li><p>Submit any Content that falsely implies sponsorship of the Content by the Services, falsify or delete any author attribution in any Content, or promote any information that you know is false or misleading;</p></li>
+			<li><p>Promote an illegal or unauthorized copy of another person's copyrighted work;</p></li>
+			<li><p>Submit Content that is libelous, defamatory, obscene, pornographic, abusive, harassing, threatening, unlawful or promotes or encourages illegal activity;</p></li>
+			<li><p>Submit Content that violates the rights of others, such as Content that infringes any copyright, trademark, patent, trade secret or violates any right of privacy or publicity, or that is libelous or defamatory, or that directs any user to the content of a third party without consent of the third party;</p></li>
+			<li><p>Defame or libel any person; invade any person's right of privacy or publicity or otherwise violate, misappropriate or infringe the rights of any person;</p></li>
+			<li><p>Export or re-export Content in violation of the export or import laws of the Indonesia or without all required approvals, licenses and exemptions;</p></li>
+			<li><p>Post any links to any external Internet sites that are obscene or pornographic, or display pornographic or sexually explicit material of any kind.</p></li>
+		</ul>
+		
+		<p>No failure in delay in exercising or enforcing this policy shall constitute a waiver of the policy or any other right or remedy. If any provision of this policy is deemed unenforceable due to law or change in law, such a provision shall be disregarded and the balance of the policy shall remain in effect.</p>
+		
+	</div>
+	<div class="clear"></div>
+</div>
+	
+			<div class="clear"></div>
+		</div>
+	</section>
+	<footer>
+		<div class="container_12" id="footerContainer">
+			<div class="grid_2">
+	<h4 class="title">Indowebster</h4>
+	<ul>
+		<li><a href="http://www.indowebster.com/page/About_Us">About Us</a></li>
+		<li><a href="http://www.indowebster.com/page/Contact_Us">Contact Us</a></li>
+		<li><a href="http://www.indowebster.com/page/People">People Behind The Scene</a></li>
+		<li><a href="http://www.indowebster.com/page/Server_Status">Server Status</a></li>
+		<li><a href="http://www.indowebster.com/page/Career">Career</a></li>
+	</ul>
+</div>
+<div class="grid_2">
+	<h4 class="title">Services</h4>
+	<ul>
+		<li><a href="http://www.indowebster.com/page/TOS">Term of Service</a></li>
+		<li><a href="http://www.indowebster.com/page/DMCA">DMCA</a></li>
+		<li><a href="http://www.indowebster.com/page/Advertisement">Advertisement</a></li>
+		<li><a href="http://www.indowebster.com/page/Privacy_Policy">Privacy Policy</a></li>
+	</ul>
+</div>
+<div class="grid_2">
+	<h4 class="title">Membership</h4>
+	<ul>
+		<li><a href="http://www.indowebster.com/page/VIP_Benefits">Membership Plan</a></li>
+		<li><a href="http://www.indowebster.com/page/Donation">Donation</a></li>
+		<li><a href="http://www.indowebster.com/statistic">Top Uploaders</a></li>
+	</ul>
+</div>
+<div class="grid_2">
+	<h4 class="title">Networks</h4>
+	<ul>
+		<li><a href="http://www.indowebster.web.id" target="_blank">Indowebster Forum</a></li>
+		<li><a href="http://www.indogamers.com" target="_blank">Indogamers</a></li>
+	</ul>
+</div>
+<div class="grid_2">
+	<h4 class="title">Partnership</h4>
+	<ul>
+		<li>-</li>
+	</ul>
+</div>
+<div class="grid_2">
+	<h4 class="title">Social Media</h4>
+	<ul>
+		<li><a href="http://twitter.com/#!/idws" title="Follow us on twitter @IDWS">Follow @IDWS on twitter</a></li>
+		<li><a href="http://www.facebook.com/OfficialIndowebster" title="Join our official Facebook page">Join our Facebook</a></li>
+		<li><a href="http://www.indowebster.com/rss.xml" title="Indowebster RSS feed">Indowebster RSS feed</a></li>
+	</ul>
+</div>
+<div class="clear"></div>
+			<div class="grid_12 al_c">
+				Indowebster is proudly powered by <a href="http://maxindo.net/">PT. Maxindo Content Solution.</a>
+			</div>
+		</div>
+	</footer>
+</section>
+
+
+<script src="http://s.v5.idws-static.com/min/0af575532b2b69b64e1c8b69d6513327.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="http://s.v5.idws-static.com/js/new/jquery.imgscale.js"></script>
+<script language="javascript" type="text/javascript" src="http://s.v5.idws-static.com/js/new/jquery.alertbox.js"></script>
+<script language="javascript" type="text/javascript" src="http://s.v5.idws-static.com/js/new/idws.general.js"></script>
+
+<script type="text/javascript" language="javascript">
+$('.adPos').each(function(){
+    var name = $(this).attr('id');
+    var page = $(this).attr('title');
+	var datas;
+	jQuery.ajax({
+		url: 'http://www.indowebster.com/ajax/banner/get_banner/' + page + '/' + name,
+		success: function(data) {
+			$('#'+name+'').html(data);
+  		}
+ 	});	
+	$(this).ajaxStop(function(){
+		$(this).html(datas);
+	});
+});
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1975205-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript"> 
+(function() {
+var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+em.src = ('HTTPS:' == document.location.protocol ? 'HTTPS://id-ssl'  : 'http://id-cdn')  + '.effectivemeasure.net/em.js';
+var s = document.getElementsByTagName('script')[0]; 
+s.parentNode.insertBefore(em, s);
+})();
+</script>
+</body></html>
