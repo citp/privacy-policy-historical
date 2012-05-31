@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006164510id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531055743id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,8 +16,8 @@ Every Registered User has a unique Personal Profile. Each Personal Profile is as
 
 ## Privacy 
 
-**U.S. - EU Safe Harbor Privacy Statement**   
-Infor is committed to handling personal information of employees and customers that Infor receives from the European Economic Area in accordance with the Safe Harbor Principles.  You can find Infor’s Safe Harbor certification at http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles and the FAQs, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/.
+**U.S. - EU and U.S. - Swiss  Safe Harbor Privacy Statement**   
+Infor is committed to handling personal information of employees and customers that Infor receives from the European Union member countries and Switzerland in accordance with the U.S. - E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce.  You can find Infor’s Safe Harbor certification at http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles and the FAQs, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/.
 
 To protect your privacy when you browse and/or make use of the services provided through the Company Website, the Company follows certain basic rules:   
 
