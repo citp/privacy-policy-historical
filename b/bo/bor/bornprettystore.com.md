@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bornprettystore.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122300id_/http%3A//www.bornprettystore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bornprettystore.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531230828id_/http%3A//www.bornprettystore.com/privacy.php) for the most accurate reproduction.*
 
 # Quality Nail Art & Nail Polish Products, Retail, Wholesale & OEM - bornprettystore.com
 
