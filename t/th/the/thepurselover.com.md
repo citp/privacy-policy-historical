@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the thepurselover.com privacy policy that was archived on 2011-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110908135806id_/http%3A//thepurselover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepurselover.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601001942id_/http%3A//thepurselover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-(No Ratings Yet)  
-
-
- Loading ...
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
