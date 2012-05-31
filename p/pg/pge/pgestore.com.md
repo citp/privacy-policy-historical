@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228120139id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531060237id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # eStore Retail Services | eStore Retail Services Privacy Policy
 
@@ -87,7 +87,7 @@ In the event that we sell or otherwise transfer operation of this Site to a thir
 
 ### Communications from the Site
 
-If you choose to transact or take certain actions with the Site and provide PII, you agree to receive communications directly related to your transaction or action taken. These communications may include but are not limited to: registration confirmations, shipping confirmations, cancelation confirmation, return confirmations, customer service, or similar transaction/action related communications.
+If you choose to transact or take certain actions with the Site and provide PII, you agree to receive communications directly related to your transaction or action taken. These communications may include but are not limited to: registration confirmations, shipping confirmations, cancellation confirmation, return confirmations, customer service, or similar transaction/action related communications.
 
 ### Marketing Communications:
 
