@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getthelabel.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220230534id_/http%3A//www.getthelabel.com/fcp/content/privacy-policy/customerservices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getthelabel.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531051928id_/http%3A//www.getthelabel.com/fcp/content/privacy-policy/customerservices) for the most accurate reproduction.*
 
 # Get The Label - Customer Services
 
@@ -198,13 +198,15 @@ Customer Services
 
 Get The Label
 
-Unit B,
+Unit B,The Grandstand
 
-PO Box 190, 
+Leacroft Road, 
 
 Birchwood,
 
-WA3 9AN
+Cheshire
+
+WA3 6PJ
 
 
 
