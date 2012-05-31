@@ -1,13 +1,125 @@
-> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126051906id_/http%3A//www.internationalwomensday.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531191654id_/http%3A//www.internationalwomensday.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# International Women's Day 2011
+# International Women's Day 2012
 
-We take the privacy of our users seriously. We are committed to the privacy of your customer information and use strict security standards to safeguard it. We collect only information that is needed to serve you and administer the service. We work to ensure that the information concerning you is accurate in all aspects. Our operational and data processing are in a secure environment that protects information from being accessed inappropriately by third parties. This Privacy Statement explains our privacy and data-protection practices. It is important for us to safeguard our users' privacy while providing a valuable service. Collecting personal information is at times necessary if we are to satisfy the expectations and requirements of our users (eg. by communicating with them and providing a service).
+## Privacy Policy
 
-**What information do we compile?**  
-We hold the details you supply when communicating with us.
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-**What do we do with the information we collect?**  
-The email address you provided lets us and carefully selected third parties send you information. Each time you receive a message, you will have the option to decline to receive further marketing information relating to the services.
+### 1\. What information do we collect?
 
-If you have any questions or wish to have your data removed from the International Women's Day service, please use the contact form [here](https://web.archive.org/contact.asp), clearly specifying your name and the email address you submitted when using the International Women's Day services.
+We may collect, store and use the following kinds of personal information:
+
+(a) to the extent that we are required to do so by law;  
+(b) in connection with any legal proceedings or prospective legal proceedings;  
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);   
+(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and  
+(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+Except as provided in this privacy policy, we will not provide your information to third parties.
+
+### 2\. Cookies
+
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+
+We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to keep track of you whilst you navigate the website. We will use the persistent cookies to enable our website to recognise you when you visit.
+
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. 
+
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>
+
+Our payment services providers may also send you cookies. 
+
+We may publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences). You can opt-out of the Adsense partner network cookie at: [http://www.google.com/privacy_ads.html.](http://www.google.com/privacy_ads.html) However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at:[http://www.google.com/ads/preferences/plugin.](http://www.google.com/ads/preferences/plugin)
+
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+
+### 3\. Using your personal information
+
+Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+
+**We may use your personal information to:**
+
+(a) administer the website;   
+(b) improve your browsing experience by personalising the website;   
+(c) enable your use of the services available on the website;   
+(d) supply to you services purchased via the website;   
+(e) send statements and invoices to you, and collect payments from you;   
+(f) send you general (non-marketing) commercial communications;   
+(g) send you email notifications which you have specifically requested;  
+(h) send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);  
+(i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;  
+(j) deal with enquiries and complaints made by or about you relating to the website.
+
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+
+All our website financial transactions are handled through our payment services provider, PayPal. We do not store credit card details. You can review the PayPal privacy policy at [www.paypal.com](http://www.paypal.com/). We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+
+### 4\. Disclosures
+
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+
+**In addition, we may disclose your personal information:**
+
+(a) to the extent that we are required to do so by law;   
+(b) in connection with any legal proceedings or prospective legal proceedings;  
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);   
+(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and  
+(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+Except as provided in this privacy policy, we will not provide your information to third parties.
+
+### 5\. International data transfers
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
+
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+
+You expressly agree to such transfers of personal information.
+
+### 6\. Security of your personal information
+
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
+
+### 7\. Policy amendments
+
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+
+We may also notify you of changes to our privacy policy by email.
+
+### 8\. Your rights 
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
+
+(a) the payment of a fee (currently fixed at £10.00); and  
+(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+We may withhold such personal information to the extent permitted by law.
+
+You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+
+### 9\. Third party websites
+
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+
+### 10\. Updating information
+
+Please let us know if the personal information which we hold about you needs to be corrected or updated.
+
+### 11\. Contact
+
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info@internationalwomensday.com or by post to Aurora Ventures (Europe) Limited, Quadrant House, 4 Thomas More Square, London E1W 1YW, United Kingdom. 
+
+### 12\. Data controller
+
+The data controller responsible in respect of the information collected on this website is Aurora Ventures (Europe) Limited.
+
+Our data protection registration number is Z2695681.
