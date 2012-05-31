@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liztomey.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228080651id_/http%3A//liztomey.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liztomey.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531045131id_/http%3A//liztomey.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY :LizTomey.com
+# 
 
 Last Updated: October 6th, 2009
 
