@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226151016id_/http%3A//directspecialstoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531044310id_/http%3A//www.directspecialstoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -60,7 +60,7 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ## How Can You Correct and Update Your Personal Information or Obtain Additional Information
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20111226151016id_/http%3A//directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20120531044310id_/http%3A//www.directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
 
 Direct Specials Today  
 Attn: Privacy Policy  
