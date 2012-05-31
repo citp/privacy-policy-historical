@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104042556id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601000800id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
 
 # Visit Orlando - Official Florida Vacation Information
+
+**Privacy Policy**
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. 
 
