@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the freshproduceclothes.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209032732id_/http%3A//freshproduceclothes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshproduceclothes.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531024628id_/http%3A//freshproduceclothes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy Policy
 
+[](https://web.archive.org/contact-us) | [](https://web.archive.org/product-info) | [](https://web.archive.org/fp-faq) | [](https://web.archive.org/fp-shipping) | [](https://web.archive.org/returns-and-exchanges) | [](https://web.archive.org/privacy-policy)  
+---|---|---|---|---|---  
+  
 Fresh Produce collects customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly. Except as otherwise mentioned below, this privacy policy only addresses the use and disclosure of information we collect from you on our website. By visiting [www.freshproduceclothes.com](http://www.freshproduceclothes.com/) you are accepting the practices described in this privacy policy.
 
 **Do we share your information?**   
