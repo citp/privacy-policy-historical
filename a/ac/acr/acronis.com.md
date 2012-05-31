@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221085052id_/http%3A//www.acronis.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601000025id_/http%3A//www.acronis.com/company/privacy.html) for the most accurate reproduction.*
 
 # Acronis Privacy Statement
 
