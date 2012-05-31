@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224125id_/http%3A//www.brightstorm.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531024237id_/http%3A//www.brightstorm.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brightstorm
 
