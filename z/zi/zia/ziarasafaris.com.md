@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziarasafaris.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154838id_/http%3A//www.ziarasafaris.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziarasafaris.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531142503id_/http%3A//www.ziarasafaris.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ziara Safaris | Ziara Safaris
 
