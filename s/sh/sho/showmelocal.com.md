@@ -1,56 +1,102 @@
-> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220164919id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531034124id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ShowMeLocal.com - Privacy Policy
 
-This privacy policy sets out how ShowMeLocal Inc. uses and protects any information that you give ShowMeLocal Inc. when you use this website. 
+##  Collection and Use of Personal Information 
 
-ShowMeLocal Inc. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website you can be assured that it will only be used in accordance with this privacy policy. 
+We collect the following personal information from you: 
 
-ShowMeLocal Inc. may amend this policy from time to time by updating this page. You should check this page periodically to ensure that you are happy with any changes. This policy is effective from 7/1/2006. 
-
-## WHAT WE COLLECT
-
-We may collect the following information: 
-
-  * name and job title; 
-  * contact information including email address; 
-  * demographic information such as post code, preferences and interests; 
-  * other information relevant to customer surveys and/or offers;
+  * Contact Information such as name, email address, mailing address, phone number 
+  * Billing Information such as credit card number, and billing address 
+  * Financial Information such as bank or brokerage account numbers, types of investments 
+  * Unique Identifiers such as user name, account number, password 
+  * Preferences Information you provide such as product or content interests, or communication or marketing preferences 
+  * Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our site you visited. 
 
 
 
-## WHAT WE DO WITH THE INFORMATION WE GATHER
+We also collect the following information from you: 
 
-We use this information in order to better understand your needs and provide you with a better service, as well as for the following reasons: We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
-
-  * internal record keeping;
-  * we may periodically send promotional emails about new products, special offers or other information which we think you may be of interest to you using the email address that you gave us;
-  * occasionally, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail;
-  * we may use the information to customize the website according to your interests;
+  * Information about your business such as company name, company size, business type 
+  * Demographic information such as household income, age, education, gender, interests, and zip code 
 
 
 
-## SECURITY
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to: 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-## HOW WE USE COOKIES
-
-A cookie is a small file, which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.   
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.   
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you chose to share with us.   
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
-
-## LINKS TO OTHER WEBSITES
-
-Our website may contain links to enable you to easily visit other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this privacy policy. You should exercise caution and look at the privacy policy applicable to the website in question. 
-
-## CONTROLLING YOUR PERSONAL INFORMATION
-
-You may choose to restrict the collection or use of your personal information in the following way: 
-
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by visiting the following link us at http://www.ShowMeLocal.com/unsubscribe.aspx
+  * Fulfill your order 
+  * Send you an order confirmation 
+  * Assess your needs to determine suitable products or services 
+  * Send you requested product or service information 
+  * Send product updates or warranty information 
+  * Respond to customer service requests 
+  * Administer your account 
+  * Send you a newsletter 
+  * Send you marketing communications 
+  * Administer contests and sweepstakes you entered, and notify you if you won 
+  * Improve our Web site and marketing efforts 
+  * Conduct research and analysis 
+  * Respond to your questions and concerns 
+  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at support@showmelocal.com 
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen. 
+**Choice/Opt-Out**   
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@showmelocal.com. Social Networks 
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network. Information Obtained from Third Parties 
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
+
+##  Disclosure to Third Parties 
+
+We will share your information with third parties only in the ways that are described in this privacy statement.   
+We may disclose your personal information 
+
+  * as required by law, such as to comply with a subpoena, or similar legal process 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if ShowMeLocal Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so. 
+
+
+
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at support@showmelocal.com. 
+
+## Tracking Technologies 
+
+We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.   
+We use Google AdSense to serve ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: http://www.google.com/privacy_ads.html 
+
+## Security
+
+The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our Web site, you can contact us at support@showmelocal.com 
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@showmelocal.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+## Other Information
+
+Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget providerâ€™s privacy policy 
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@showmelocal.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so. 
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at support@showmelocal.com. 
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+## Feedback
+
+You can contact us about this privacy statement by writing or email us at the address below:   
+ShowMeLocal Inc.  
+610 East 16th  
+Brooklyn, NY 11226   
+United States  
+Email: support@showmelocal.com  
+[](http://privacy.truste.com/certified-privacy/ShowMeLocal-Inc./validation?validationId=e840bd46-77d3-4643-ba3e-535aadcb6e47 "ShowMeLocal Inc. Privacy Seal Certification")
