@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214025401id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072911id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MovieTickets.com
 
@@ -54,7 +54,7 @@ We encourage you to talk with your children about communicating with strangers a
 
 Parental Access
 
-At MovieTickets.com, our goal is to help parents ensure that their kids have a safe and fun online experience. That's why we've set up a system by which parents can print out and mail or fax us a signed form that allows them to review any identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's information. [You can link to the form from here](http://www.movietickets.com/docs/access.pdf). MovieTickets.com takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+At MovieTickets.com, our goal is to help parents ensure that their children have a safe and fun online experience. That's why we've set up a system by which parents can print out and mail or fax us a signed form that allows them to review any identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's information. [You can link to the form from here](http://www.movietickets.com/docs/access.pdf). MovieTickets.com takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
 
 If MovieTickets.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Policy Act of 1998 (U.S.C. 6501 et seq.).
 
