@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the yodlee.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227011411id_/http%3A//www.yodlee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodlee.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531235950id_/http%3A//yodlee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Yodlee
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.yodlee.com/seal_m "Validate TRUSTe privacy certification") [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.yodlee.com/seal_m "TRUSTe European Safe Harbor certification")
+[TRUSTe online privacy certification](https://privacy.truste.com/privacy-seal/Yodlee,-Inc-/validation?rid=65d5d71b-21d2-4209-8310-24a1787fa07a "TRUSTe online privacy certification")
 
 **Yodlee is committed to safeguarding your privacy.**
 
-Last Updated: 3/8/2011
+Last Updated: 1/5/2012
 
 Financial institutions trust Yodlee to power online banking applications that increase profitability and drive more value from the online channel. Yodlee's personal financial management, payments, and customer acquisition solutions deliver a simple, centralized and secure means for consumers to manage all of their financial tasks - any time, anywhere. Yodlee makes financial institutions' sites essential to their customers and generates new revenue opportunities. More than 200 financial institutions and portals today offer Yodlee-powered solutions to millions of customers worldwide.
 
 This Privacy Policy sets forth Yodlee's commitment to you to protect the privacy of your personal information that is collected through the Yodlee MoneyCenter service. In particular we will not sell your personally identifiable data to any third parties. The Yodlee MoneyCenter Services have participated in industry certified audits and assessments to help promote the principles of disclosure and informed consent on the Internet. Because Yodlee wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices as they apply to the Yodlee MoneyCenter service and have our privacy and security practices reviewed for compliance by these recognized experts.
 
 **Frequently Asked Questions**
+
+  
+
 
   * What categories of Personal Information does the Yodlee MoneyCenter Service collect?
   * What categories of my Personal Information gathered through the Yodlee MoneyCenter Service does the Yodlee MoneyCenter Service disclose?
@@ -34,7 +37,8 @@ This Privacy Policy sets forth Yodlee's commitment to you to protect the privacy
 
 **What categories of Personal Information does the Yodlee MoneyCenter Service collect?**
 
-In order to use the Yodlee MoneyCenter Service, Yodlee requires you to create a Yodlee MoneyCenter username and password. During registration you are required to give contact information such as name, address and email address. Specifically, Yodlee collects the following categories of personal information about you through the Yodlee MoneyCenter Service: 
+In order to use the Yodlee MoneyCenter Service, Yodlee requires you to create a Yodlee MoneyCenter username and password. During registration you are required to give contact information such as name, address and email address. Specifically, Yodlee collects the following categories of personal information about you through the Yodlee MoneyCenter Service:   
+
 
 **A. Registration Information:** When you register for the Yodlee MoneyCenter Service, you will be asked for basic registration information, such as a Yodlee MoneyCenter username and password which you choose, name, address, demographic information (such as age, income) and an e-mail address for Yodlee Customer Service. Additional information may be required to utilize value-added features of the Yodlee MoneyCenter Service, such as Auto-Registration and Password Reset, or to access specific third party Internet services using the Yodlee MoneyCenter Service. This information may include your passwords and user names for the third party web sites and Internet services. We will use this information for providing the services you requested and accessing the web sites you select on your behalf, so that we can present the requested information to you but such information is not required to register for the Yodlee MoneyCenter Service.
 
@@ -96,6 +100,7 @@ You can contact Yodlee for any questions or suggestions you have at [Yodlee Cust
 
   * [TRUSTe](http://www.truste.org/) provides Web site certification programs. 
   * [The Federal Trade Commission](http://www.ftc.gov/privacy/) offers an overview of privacy protection.
+  
 
 
 
@@ -141,12 +146,10 @@ back to top
 
 **TRUSTe Privacy Program and EU Safe Harbor**
 
-Yodlee has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the site www.yodlee.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please first contact Yodlee Customer Service by selecting "Submit Service Request" after logging into Yodlee MoneyCenter or at [customerservice@yodlee.com](mailto:customerservice@yodlee.com) or 3600 Bridge Parkway, Suite 200, Redwood City, CA 94065.
+Yodlee has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.yodlee.com and does not cover information that may be collected through any mobile applications, downloadable software or behind the log in of this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please first contact Yodlee Customer Service by selecting "Submit Service Request" after logging into Yodlee MoneyCenter or at [customerservice@yodlee.com](mailto:customerservice@yodlee.com) or 3600 Bridge Parkway, Suite 200, Redwood City, CA 94065.
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://watchdog.truste.com/pvr.php?page=complaint>, by mail at WatchDog Complaints, TRUSTe, 55 2nd St, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [TRUSTe Privacy Complaint Form](http://www.truste.com/consumers/watchdog_complaint.php) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If contacting us does not resolve your complaint you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) by mail at WatchDog Complaints, TRUSTe, 835 Market St., 8th Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [TRUSTe Privacy Complaint Form](http://www.truste.com/consumers/watchdog_complaint.php) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
-The TRUSTe program only covers information that is collected through this website, and **does not** cover information that may be collected through any software downloaded from this site.
-
-Yodlee complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+Yodlee complies with the U.S. - E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Yodlee has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Yodlee's certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
 
 back to top
