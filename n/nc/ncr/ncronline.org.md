@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119232317id_/http%3A//www.ncronline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601005206id_/http%3A//ncronline.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Catholic Reporter
-
-[Printer-friendly version](http://ncronline.org/print/12384 "Display a printer-friendly version of this page.")[Send to friend](http://ncronline.org/printmail/12384 "Send this page by e-mail.")[PDF version](http://ncronline.org/printpdf/12384 "Display a PDF version of this page.")
 
 Effective February 12, 2009
 
