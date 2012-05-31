@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walterbecker.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018042029id_/http%3A//www.walterbecker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walterbecker.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531183722id_/http%3A//www.walterbecker.com/privacy.html) for the most accurate reproduction.*
 
 # privacy notice | walter becker dot com
 
