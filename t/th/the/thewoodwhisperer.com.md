@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewoodwhisperer.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111193601id_/http%3A//thewoodwhisperer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewoodwhisperer.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531103406id_/http%3A//www.thewoodwhisperer.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | The Wood Whisperer
 
@@ -8,9 +8,9 @@ Your privacy is important to us. To better protect your privacy we provide this 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google?s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, William Ng School of Fine Woodworking has no access or control over these cookies that may be used by third party advertisers.  
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, The Wood Whisperer, Inc. has no access or control over these cookies that may be used by third party advertisers.  
 **  
 Collection of Personal Information**  
 When visiting TheWoodWhisperer.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
