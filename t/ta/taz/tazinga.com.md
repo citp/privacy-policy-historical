@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101205629id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531065442id_/http%3A//www.tazinga.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -75,4 +75,4 @@ E-mail: [Contact Us](mailto:%69%6e%66%6f@%74%61%7a%69%6e%67%61.%63%6f%6d)
 
 Effective Date: 12/01/08
 
-Copyright © 2008-2011 Tazinga. All rights reserved.
+Copyright © 2008-2012 Tazinga. All rights reserved.
