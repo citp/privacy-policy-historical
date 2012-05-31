@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagads.net privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201143152id_/http%3A//flagads.net/index.php/guest/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagads.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072758id_/http%3A//flagads.net/index.php/guest/policy) for the most accurate reproduction.*
 
 # Flagads - Privacy Policy
 
