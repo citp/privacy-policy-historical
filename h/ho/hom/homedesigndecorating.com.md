@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homedesigndecorating.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208231824id_/http%3A//homedesigndecorating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedesigndecorating.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601040020id_/http%3A//homedesigndecorating.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Home Design | Home Decor | Home Furniture | Office | Garden Page
+# Privacy | Home Design and Decorating Ideas - Homedesigndecorating.com Page
 
 ### Privacy Policy
 
