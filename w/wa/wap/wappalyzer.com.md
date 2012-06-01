@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the wappalyzer.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223135719id_/http%3A//wappalyzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wappalyzer.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601185835id_/http%3A//wappalyzer.com/privacy) for the most accurate reproduction.*
 
-# Wappalyzer - Privacy Policy
+# Privacy Policy | Wappalyzer
 
-The Wappalyzer Privacy Policy describes how we treat personal information when you use Wappalyzer's products and services, including information provided when you use the [Wappalyzer Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/10229). In addition, the following describes our privacy practices that are specific to the Wappalyzer Firefox add-on. Wappalyzer will notify you if it materially changes these policies, at which time you will have the opportunity to discontinue using the Wappalyzer Firefox add-on. 
+The Wappalyzer Privacy Policy describes how we treat personal information when you use Wappalyzer's products and services, including information provided when you use the Wappalyzer browser extension ("extension"). In addition, the following describes our privacy practices that are specific to the extension.
 
-### Information we collect
+## Information we collect
 
-You do not need to provide any personal information in order to download and use the Wappalyzer Firefox add-on. All of the features can be used without sharing any personally identifiable information. 
+You do not need to provide any personal information in order to download and use the extension. All of the features can be used without sharing any personally identifiable information.
 
-The Wappalyzer Firefox add-on has some basic features that work automatically when you use the Firefox add-on. Other features are optional and only operate and transmit data if you choose to have them enabled. 
+The extension has some basic features that work automatically when you use the browser extension. Other features are optional and only operate and transmit data if you choose to have them enabled.
 
-### Basic Wappalyzer features
+## Basic features
 
-Any time you use the Wappalyzer Firefox add-on to analyze a website, the Firefox add-on sends basic, limited information including the domain name of the website you have visited and what system was identified on it. This data is retained in Wappalyzer's server logs and protected according to our general Privacy Policy. At no time this data can be traced back to you personally, since no personally identifiable information is stored. 
+Any time you use the extension to analyze a website, the extension sends basic, limited information including the domain name of the website you have visited and what application was identified on it. This data is retained in Wappalyzer's server logs and protected according to our general Privacy Policy. At no time this data can be traced back to you personally, since no personally identifiable information is stored.
 
-### Information security
+## Information security
 
-Any information sent to Wappalyzer will be maintained in accordance with the Wappalyzer Privacy Policy. Wappalyzer's Privacy Policy does not cover information that you send to third party sites. 
+Any information sent to Wappalyzer will be maintained in accordance with the Wappalyzer Privacy Policy. Wappalyzer's Privacy Policy does not cover information that you send to third party sites.
 
-### Your choices
+## Your choices
 
-Any Wappalyzer feature that works by automatically sending information about sites when you visit them can be disabled and re-enabled in the add-on settings. 
+Any feature that works by automatically sending information about sites when you visit them can be disabled and re-enabled in the extension settings. 
