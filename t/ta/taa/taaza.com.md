@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taaza.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112022129id_/http%3A//taaza.com/privacy_policy_popup.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taaza.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601235422id_/http%3A//ads.taaza.com/privacy_policy_popup.php) for the most accurate reproduction.*
 
 # 
 
@@ -9,6 +9,9 @@ When using our site and services, you may provide information about yourself, su
 
 **Emails, SMS or any other form of communication**  
 While you are registered on Taaza.com you may receive communication from us in any form like email, sms or other mailing or communication models. 
+
+**Sharing information on Social Sites**  
+The site Taaza.com and any of its subdomains (like ads, news, travel, jobs, games, finance, movies etc) can share the public information posted by users (like reviews, comments, ads, news) for promotion purposed on social websites like facebook, linkedin, google+, twitter etc. 
 
 **Control over the content, service, registrations, accounts, user database, expansion, sharing etc.**   
 Taaza.com along with their affiliates and associated sites, hold the complete control on the following items, 
