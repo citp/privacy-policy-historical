@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the coolbthemes.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229002843id_/http%3A//www.coolbthemes.com/2001/04/privacy-policy-cool-blogger-templates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbthemes.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601175347id_/http%3A//www.coolbthemes.com/2001/04/privacy-policy-cool-blogger-templates.html) for the most accurate reproduction.*
 
-# Privacy Policy | Cool Blogger Templates | CoolBthemes | Template For Your Dream Blog
+# Privacy Policy | Cool Blogger Templates | Blogger Templates
+
+Do You Want Unique Template Design ? We Are Design Our New Premium Style Blogger Template.Its Call Slap Mag Blogger Template. High Seo Friendly And User Friendly Template [Click Here](http://www.coolbthemes.com/2012/04/slapmag-premium-blogger-template.html) See It 
+
+###  [Privacy Policy | Cool Blogger Templates]()
 
 Privacy Policy for www.Coolbthemes.com
 
