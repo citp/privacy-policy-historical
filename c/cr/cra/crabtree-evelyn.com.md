@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201011011id_/http%3A//www.crabtree-evelyn.com/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601062851id_/http%3A//www.crabtree-evelyn.com/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,9 @@ Crabtree & Evelyn does not sell or rent any personal information about our custo
 With your prior consent, we may share names and addresses from our mailing list with carefully chosen marketing partners. We may also share aggregated statistical or demographic information with third parties in a manner that does not reveal our customers’ personal identity.
 
 **How do I remove my information?**  
-If you would prefer not to receive our emails and/or mailings, you may 
+If you would prefer not to receive our emails you may 
 
- _[click here](http://www.crabtree-evelyn.com/mailinglist/unsubscribe.aspx)_
+ _[click here](http://www.crabtree-evelyn.com/eng/newslettercontent/csunsubscribe.cfm)_
 
 or follow the removal instructions at the bottom of the next email that you receive from crabtree-evelyn.com.
 
@@ -32,17 +32,16 @@ You may also contact us as follows: 
 
 By email: | [askus@crabtree-evelyn.com](mailto:askus@crabtree-evelyn.com)  
 ---|---  
-**By Phone:** | 1 800 Crabtree  
+**By Phone:** | 1-800-272-2873  
 **Fax:** | 1-800-253-1519  
 **By Mail:** | Customer Service Department  
 102 Peake Brook Road  
-PO Box 167  
 Woodstock CT 06281  
   
 ****  
 Please include your name and address as it appears on the email or postal mail you received from us and indicate ‘Do not contact me by (email)/(mail)’. Please note that if you make subsequent purchases from our website, we will confirm your order by email, and we may need to contact you by phone, email or postal mail with other questions regarding your order.
 
-**Does crabtree-evelyn.com use cookies?**  
+**Does Crabtree-evelyn.com use cookies?**  
 Cookies, or bits of information automatically stored on your computer’s hard drive, recognize your shopping preferences. We use cookies to personalize your online shopping experience and to keep track of your order as you browse and shop our online store. Your cookie also allows us to recognize you when you return to our site. Cookies do not store any personally identifiable information, such as your name, address or any financial information.
 
 **Can I ‘refuse’ cookies?  **   
@@ -54,6 +53,6 @@ To protect the security of your online order information, Crabtree & Evelyn uses
 **Does Crabtree-evelyn.com link to other sites?**  
 For your convenience, crabtree-evelyn.com may include links which will take you away from our site – to other web sites that are not under our control. These websites have their own privacy and security policies which you should review. Crabtree & Evelyn has no responsibility for linked web sites.
 
-**Changes to the Privacy & Security Policy? **
+**Changes to the Privacy  Policy? **
 
-Crabtree & Evelyn may update our Privacy & Security Policy. When we make changes, we will post them here. You may wish to check this section from time to time because, by visiting our website, you agree to accept any such changes.
+Crabtree & Evelyn may update our Privacy Policy. When we make changes, we will post them here. You may wish to check this section from time to time because, by visiting our website, you agree to accept any such changes.
