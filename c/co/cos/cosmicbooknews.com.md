@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005329id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601141008id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
 
 # Cosmic Book News Privacy Policy - Cosmic Book News
 
