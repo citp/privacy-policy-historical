@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006151938id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601172135id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy for the Ordnance Survey website
 
-Last Updated: March 2011
+Last Updated: May 2012
 
 Ordnance Survey, and its wholly owned subsidiary company Ordnance Survey Limited, are committed to protecting and respecting your privacy, and operate within the requirements of the Data Protection Act 1998.
 
@@ -26,25 +26,19 @@ We recommend that you read this Privacy Policy alongside the Website Terms of Us
 
 1.6 If you apply for any competitions we publicise on the Website, we may require your name, address, post code, telephone number and email address.
 
-1.7 You may supply us with information via our applications, web forums and bulletin boards. Please refer to the Website Terms of Use for more information about our rules on Submissions.
+1.7 If you choose to make an online payment, our payment services provider will require your card details, personal identifying information and contact details.
 
-2 **Information we store automatically:**
+1.8 You may supply us with information via our applications, web forums and bulletin boards. Please refer to the Website Terms of Use for more information about our rules on Submissions.
 
-2.1 Like many websites, we obtain certain information when your web browser accesses the Website. This is statistical data about our users’ browsing actions and patterns, and we do not use it to identify any individual.
+2 **Cookies:**
 
-For example, we collect:
+2.1 Like many websites, we use cookies to obtain certain information when your web browser accesses the Website.  A cookie is a small text file stored on your computer that we can access when you make return visits to the Website to monitor how the Website is used, improve our service and make your experience more efficient.
 
-a) the Internet protocol (IP) address used to connect your computer or other access device to the Internet;
+2.2 For detailed information on the cookies used across the Website, and how you can block or delete them, please see our [Cookie Policy](http://www.ordnancesurvey.co.uk/cookies/index.html). 
 
-b) aggregate computer and connection information such as browser type and version, operating system and platform; and
+2.3 We will not use cookies to identify you personally.
 
-c) URL click stream information showing how users have reached our Website and whether they access other sites via any external links.
-
-2.2 We may [store information about you in a cookies](https://web.archive.org/cookies.html): small text file stored on your computer that we can access when you make return visits to the Website to monitor how the Website is used, improve our service and make your experience more efficient. For more information on the cookies used across the Website, please see our [Cookie policy](https://web.archive.org/cookies.html).
-
-2.3 We may use software tools to measure and collect session information, including response times, download errors, length of visits and page interaction information.
-
-2.4 We may monitor and record telephone calls, and keep a record of them for quality control, training, and administration purposes. We may also automatically record the number from which you call our customer service centre.
+* * *
 
 3 **How we use your information**
 
@@ -52,7 +46,7 @@ We may use your personal data to:
 
 a) provide you with personalised access to our mapping data;   
 b) provide you with access to personalised areas of the getamap application, magazine and shop;  
-c) fulfil orders for any products you purchase via the Website, via our service providers;  
+c) fulfil online payments or orders for any products you purchase via the Website, via our service providers;  
 d) respond to any email enquiries and complaints we receive from you;  
 e) administer any service you have asked us to provide;  
 f) monitor data traffic and any patterns of use;  
@@ -72,11 +66,13 @@ b) Third Party Service Providers: we will provide service providers with your pe
 These include:
 
   * fulfilling orders from our shop;
-  * fulfilling orders for mapping data from the OS OpenData site; and  
+  * fulfilling orders for mapping data from the OS OpenData site;
+  * fulfilling online payments; and  
 administering our emailing lists.
-  * Other Organisations: If you have expressly given permission, we may share your information with third party organisations so they may contact you directly for the purposes to which you have consented (for example, where you have opted in to receive third party marketing information).  
 
 
+
+c) Other Organisations: If you have expressly given permission, we may share your information with third party organisations so they may contact you directly for the purposes to which you have consented (for example, where you have opted in to receive third party marketing information).  
 
 5 **Retaining your information**
 
@@ -94,7 +90,7 @@ administering our emailing lists.
 
 7 **Contacting Us**
 
-7.1 For the purpose of the Data Protection Act 1998, the Data Controller is either (1) the Secretary of State for Communities and Local Government acting through Ordnance Survey or (2) in relation to the leisure pages of the Website including the getamap application, the Data Controller is Ordnance Survey Limited, a company registered in England and Wales with company no. 06894550.
+7.1 For the purpose of the Data Protection Act 1998, the Data Controller is either (1) the Secretary of State for Business, Innovation and Skills, acting through Ordnance Survey or (2) in relation to the leisure pages of the Website including the getamap application, the Data Controller is Ordnance Survey Limited, a company registered in England and Wales with company no. 06894550.
 
 7.2 We will use reasonable efforts to supply, correct or delete any of your personal data on request. You are entitled to ask us for a copy of any personal data that we hold about you (for which we may charge a small fee).
 
