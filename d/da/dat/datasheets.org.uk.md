@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasheets.org.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220161000id_/http%3A//www.datasheets.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheets.org.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601035929id_/http%3A//www.datasheets.org.uk/privacy.html) for the most accurate reproduction.*
 
 # Advertising Cookie, Datasheet Collection, and Privacy Policies | Datasheets.org.uk
 
@@ -42,6 +42,6 @@ If you require any more information or have any questions about our privacy poli
 privacydatasheetarchive.com.
 
 [Search Syntax](http://www.datasheets.org.uk/search-syntax.html "Search Syntax - How to find a datasheet.") | [Privacy Policy](http://www.datasheets.org.uk/privacy.html "Privacy Policy") | [Disclaimer](http://www.datasheets.org.uk/disclaimer.html "Disclaimer")  
-© 2011 Datasheets.org.uk
+© 2012 Datasheets.org.uk
 
 |  
