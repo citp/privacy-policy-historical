@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adeex.us privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227233649id_/http%3A//www.adeex.us/questions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeex.us privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601202316id_/http%3A//www.adeex.us/questions/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Free Classified Ads . Local Classifieds Adeex
 
 At adeex.us, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by adeex.us and how it is used.
 
