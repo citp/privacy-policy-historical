@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglasses-shop.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217010458id_/http%3A//www.sunglasses-shop.co.uk/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasses-shop.co.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601052131id_/http%3A//www.sunglasses-shop.co.uk/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sunglasses Shop Privacy Information : Shop For Sunglasses
 
@@ -16,7 +16,7 @@ As well as the delivery address we may also share your telephone number with the
 
 ## Information Disclosure and Marketing
 
-If you have made a purchase from us we may update you with our latest products, news and special offers via e-mail and post. You will also be given the opportunity to receive communications from selected third parties and partners. Of course, you have the option to opt-out of receiving marketing communications from us and such selected third parties, by selecting the relevant option at checkout.
+Sunglasses Shop is part of Prescription Eyewear Ltd. If you have made a purchase from us we may update you with our latest products, news and special offers via e-mail and post. On occasion you may also receive communications from carefully selected third parties, partners or any other Prescription Eyewear Ltd brands. Of course, you have the option to opt-out of receiving marketing communications by selecting the relevant option at checkout or using the unsubscribe options in the communication.
 
 We also collect certain non personal data to provide analysis on our site traffic, sales and other commercial opportunities that we feel helps bring a better level of service to our customers. This may be passed on to third parties for collation purposes or used internally to improve our level of customer service.  
 Information
@@ -39,7 +39,7 @@ We reserve the right to change this privacy policy without notice. By providing 
 
 You can contact us at any time and request details of any of the information you have provided us with. We may require proof of identification before any such disclosure is made.
 
-You can contact Customer Services by email:
+You can contact Sunglasses Shop Customer Services by email:
 
 customerservices@sunglassesshop.com
 
@@ -56,29 +56,29 @@ SS1 1JE
 
 ## What's New From Ray-Ban
 
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/4154/brown-violet-havana-710m2-polarised/30584.aspx "Ray-Ban 4154 Brown Violet Havana 710/M2 Polarised")
+  * [](http://www.sunglasses-shop.co.uk/ray-ban/5267/black-2000/36178.aspx "Ray-Ban 5267 Black 2000")
 
-£141.00
+£648.00
 
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/3460/gunmetal-004-56/30361.aspx "Ray-Ban 3460 Light Ray Gunmetal 004-56")
+  * [](http://www.sunglasses-shop.co.uk/ray-ban/3484/black-blue-02978/35855.aspx "Ray-Ban 3484 Black Blue 029/78")
 
-£176.00
+£142.00
 
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/3460/black-002-56/30359.aspx "Ray-Ban 3460 Light Ray Black 002-56")
+  * [](http://www.sunglasses-shop.co.uk/ray-ban/3025-aviator/arista-gold-001-3f/35853.aspx "Ray-Ban 3025 Arista Gold 001-3F")
 
-£176.00
+£113.00
 
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/3460/gold-001-59/30358.aspx "Ray-Ban 3460 Light Ray Gold 001-59")
+  * [](http://www.sunglasses-shop.co.uk/ray-ban/3183/gunmetal-004-71/35852.aspx "Ray-Ban 3183 Gunmetal 004-71")
 
-£176.00
+£97.00
 
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/4105/black-60158-polarised/29688.aspx "Ray-Ban 4105 Black 601/58 Polarised")
+  * [](http://www.sunglasses-shop.co.uk/ray-ban/laramie/black-107862/35820.aspx "Ray-Ban 4169 Black 107862")
 
-£144.00
+£117.00
 
-  * [](http://www.sunglasses-shop.co.uk/ray-ban/3461/arista-00171-polarised/29661.aspx "Ray-Ban Caravan Flip Out Arista 001/71 Polarised")
+  * [](http://www.sunglasses-shop.co.uk/ray-ban/3025-aviator/gold-001/35819.aspx "Ray-Ban 3025 Gold 001")
 
-£176.00
+£108.00
 
 
 
