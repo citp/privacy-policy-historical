@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressmediawire.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201224424id_/http%3A//www.pressmediawire.com/page.php%3Fpage%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressmediawire.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601170719id_/http%3A//www.pressmediawire.com/page.php%3Fpage%3D7) for the most accurate reproduction.*
 
 # 
 
