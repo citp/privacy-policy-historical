@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uaudio.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124074543id_/http%3A//www.uaudio.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uaudio.com privacy policy that was archived on 2012-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601131459id_/http%3A//www.uaudio.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -7,6 +7,7 @@
 <meta name="description" content="Universal Audio is the leading developer of audio recording products, including analog classics by Bill Putnam, and award-winning UAD plug-ins for Pro Tools, Logic and Cubase.">
 <meta name="keywords" content="Audio, Cubase, Digital Performer, DSP, Logic, Mastering, Mixing, Nuendo, Plug-Ins, Plugins, Pro Tools, Recording, UAD-2, UAD Powered Plug-Ins, Universal Audio, Uaudio
 ">
+<meta name="google-site-verification" content="qujAyPk96-ZgcXWIOJ4-7eReIVn6ksPDirNE5VpmzmM">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://www.uaudio.com/skin/frontend/uaudio/default/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.uaudio.com/skin/frontend/uaudio/default/favicon.ico" type="image/x-icon">
@@ -19,9 +20,9 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.uaudio.com/media/css/8da6578de2d92ca338b6ed8cf815a41a.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.uaudio.com/media/css/f5078e3f4a34e9158e23be6cb2fe1cdc.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.uaudio.com/media/css/9b22554be03d7d30ab4c8f879647c84a.css" media="print">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.uaudio.com/media/js/3c3bb3602ab16f5beae017528438b031.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.uaudio.com/media/js/9c7e8bc972b7cb7af7067eb553f424b9.js"></script>
 <link rel="canonical" href="http://www.uaudio.com/privacy.html">
 <!--[if lte IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.uaudio.com/media/css/ca52224608d743a08596e9440e157448.css" media="all" />
@@ -63,8 +64,11 @@ Cufon.set('engine', 'canvas');
 				UA.my.loggedIn = false;
 				if(UA.my.loggedIn) UA.my.addLoggedIn();
 				if(_gaq) {
-					_gaq.push(['_setCustomVar', 1, 'User Type', "NONE", 1]);
-									}
+					var pageTracker = _gat._getTrackerByName();
+					if (pageTracker._getVisitorCustomVar(1) != 'UAD-2') {
+						_gaq.push(['_setCustomVar', 1, 'UserType', 'No UAD', 1]);
+					}
+				}
 			});
 		</script>
 <!--/{MYUAUDIO_LOGGEDIN_a75a3c245947de7ce4b70b01ca599573}--></head>
@@ -87,11 +91,17 @@ Cufon.set('engine', 'canvas');
 	
 				<div id="logo"><a href="http://www.uaudio.com/" title="Universal Audio"><img src="http://www.uaudio.com/skin/frontend/uaudio/uaudio/images/common/universal_audio_logo.png" width="230" height="40" alt="Universal Audio"></a></div>
 				
-		<form id="site_search_form" class="search_mini_form" action="http://www.uaudio.com/search/" method="get">
+		<script>
+function get_hostname_from_url(url) {
+    //return url.split(/\/+/g)[1];
+    return url.match(/:\/\/(.[^/]+)/)[1];
+}
+</script>
+<form id="site_search_form" class="search_mini_form" action="http://www.uaudio.com/search/" method="get">
 	<div class="search">
 		<ul>
 			<li>
-				<label for="search">Search site:</label>
+				<label for="search">Search Site:</label>
 				<input id="searchSite" type="text" name="q" value="" class="input-text">
 			</li>
 			<li><input type="submit" title="Go" class="search-submit"></li>
@@ -107,9 +117,13 @@ Cufon.set('engine', 'canvas');
 		<!-- Top Navigation Begin --> 
 <ul class="navigation">
 <li class="link-parent first"> <a href="/hardware.html">Hardware</a>
-<div class="popout hardware">
-<ul>
+<div class="popout hardware" style="width: 570px;">
+<ul style="width: 225px;">
 <li>
+<h2>Audio Interface</h2>
+</li>
+<li><a href="/interfaces/apollo.html">» Apollo w/ Realtime UAD Processing</a></li>
+<li style="margin-top: 10px;">
 <h2>Channel Strips</h2>
 </li>
 <li><a href="/hardware/channel-strips/la-610-mkii.html">» LA-610 MkII</a></li>
@@ -136,53 +150,44 @@ Cufon.set('engine', 'canvas');
 </div>
 </li>
 <li class="link-parent"> <a href="/uad-plug-ins.html">UAD-2 + Plug-Ins</a>
-<div class="popout uad">
-<ul>
+<div class="popout uad" style="width: 500px;">
+<ul style="width: 220px;">
 <li>
 <h2>UAD-2 DSP Accelerators <br> (PCIe / ExpressCard)</h2>
 </li>
-<li><a href="/uad-plug-ins/uad-2-solo/uad-2-solo-laptop.html">» UAD-2 SOLO/Laptop</a></li>
 <li><a href="/uad-plug-ins/uad-2-solo/uad-2-solo.html">» UAD-2 SOLO</a></li>
-<li><a href="/uad-plug-ins/uad-2-solo/uad-2-solo-flexi.html">» UAD-2 SOLO Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-duo/uad-2-duo.html">» UAD-2 DUO</a></li>
-<li><a href="/uad-plug-ins/uad-2-duo/uad-2-duo-flexi.html">» UAD-2 DUO Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad.html">» UAD-2 QUAD</a></li>
-<li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-flexi.html">» UAD-2 QUAD Flexi</a></li>
-<li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-neve.html">» UAD-2 QUAD Neve<sup>®</sup></a></li>
+<li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-neve.html">» UAD-2 QUAD Neve</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-omni-6.html">» UAD-2 QUAD Omni 6</a></li>
 <li>
 <h2 style="margin-top: 10px;">UAD-2 DSP Accelerators <br> (Firewire 400/800)</h2>
 </li>
 <li><a href="/uad-plug-ins/uad-2-duo/uad-2-satellite-duo.html">» UAD-2 Satellite DUO</a></li>
-<li><a href="/uad-plug-ins/uad-2-duo/uad-2-satellite-duo-flexi.html">» UAD-2 Satellite DUO Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-satellite-quad.html">» UAD-2 Satellite QUAD</a></li>
-<li><a href="/uad-plug-ins/uad-2-quad/uad-2-satellite-quad-flexi.html">» UAD-2 Satellite QUAD Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-satellite-quad-omni-6.html">» UAD-2 Satellite QUAD Omni 6</a></li>
-</ul>
-<ul>
 <li>
-<h2>UAD Powered Plug-Ins Library</h2>
+<h2 style="margin-top: 10px;">Audio Interface</h2>
 </li>
-<li><a href="/store.html#plug-in-bundles">» Bundles</a></li>
-<li><a href="/store.html#channel-strips">» Channel Strips</a></li>
-<li><a href="/store.html#compressors-limiters">» Compressors &amp; Limiters</a></li>
-<li><a href="/store.html#delay-modulation">» Delay &amp; Modulation</a></li>
-<li><a href="/store.html#equalizers">» Equalizers</a></li>
-<li><a href="/store.html#mastering">» Mastering</a></li>
-<li><a href="/store.html#special-processing">» Special Processing</a></li>
-<li><a href="/store.html#reverbs">» Reverbs</a></li>
+<li><a href="/interfaces/apollo.html">» Apollo w/ Realtime UAD Processing</a></li>
 </ul>
-<ul class="last">
+<ul class="last" style="width: 240px;">
 <li>
-<h2 style="margin-top: 10px;">Top Selling Plug-Ins</h2>
+<h2>Top Selling Plug-Ins</h2>
 </li>
-<li><a href="/store/special-processing/little-labs-voice-of-god.html">» Little Labs® Voice Of God</a></li>
-<li><a href="/store/delay-modulation/mxr-flanger-doubler.html">» MXR® Flanger/Doubler</a></li>
-<li><a href="/store/special-processing/ampex-atr-102.html">» Ampex® ATR-102 Tape Recorder</a></li>
-<li><a href="/store/reverbs/lexicon-224.html">» Lexicon® 224 Digital Reverb</a></li>
 <li><a href="/store/special-processing/studer-a800-tape-recorder.html">» Studer® A800 Tape Recorder </a></li>
+<li><a href="/store/reverbs/lexicon-224.html">» Lexicon® 224 Digital Reverb</a></li>
+<li><a href="/store/special-processing/ampex-atr-102.html">» Ampex® ATR-102 Tape Recorder</a></li>
+<li><a href="/store/equalizers/manley-massive-passive.html">» Manley® Massive Passive EQ</a></li>
+<li><a href="/store/special-processing/fatso.html">» FATSO™ Jr./Sr. Tape Sim. &amp; Compressor</a></li>
+<li> </li>
+<li><a href="/store/special-processing/little-labs-voice-of-god.html">» Little Labs® Voice Of God</a></li>
+<li><a href="/store/delay-modulation/ep-34.html">» EP-34 Tape Echo</a></li>
+<li><a href="/store/reverbs/emt-250.html">» EMT® 250 Classic Electronic Reverb</a></li>
+<li><a href="/store/compressors-limiters/1176-collection.html">» 1176 Classic Limiter Plug-In Collection</a></li>
+<li><a href="/store/delay-modulation/mxr-flanger-doubler.html">» MXR® Flanger/Doubler Plug-In</a></li>
+<li><a class="big" style="margin-left: 0pt; margin-top: 13px;" href="/store.html">» Visit the Online Store</a></li>
 </ul>
-<p><a class="big" href="/store.html">» Visit the Online Store</a></p>
 </div>
 </li>
 <li class="link-parent"> <a href="/store.html">Store</a>
@@ -211,10 +216,12 @@ Cufon.set('engine', 'canvas');
 <div class="popout support">
 <ul class="last">
 <li><a href="/support/uad">» UAD Support</a></li>
-<li><a href="/support/contact.html">» Contact</a></li>
+<li><a href="/support/apollo-support">» Apollo Support</a></li>
+<li><a href="/support/hardware">» Analog Hardware</a></li>
 <li><a href="/support/uad/downloads.html">» Downloads</a></li>
 <li><a href="/my/hardware/register">» Register</a></li>
 <li><a href="/support/manuals.html">» Manuals</a></li>
+<li><a href="/support/contact.html">» Contact</a></li>
 <li><a href="http://www.studionu.com/uadforums/" target="_blank">» Forum</a></li>
 </ul>
 </div>
@@ -229,7 +236,7 @@ Cufon.set('engine', 'canvas');
 </ul>
 </div>
 </li>
-<li class="facebook"> <a href="http://www.facebook.com/pages/Universal-Audio/23477253356" target="_blank"><img src="/skin/frontend/uaudio/uaudio/images/common/icon_facebook.png" alt=""></a><a style="left: 1px;" href="https://twitter.com/#!/UAudio" target="_blank"><img src="/skin/frontend/uaudio/uaudio/images/common/icon_twitter.png" alt=""></a> <a style="left: -2px;" href="http://www.youtube.com/profile?user=UniversalAudio" target="_blank"><img src="/skin/frontend/uaudio/uaudio/images/common/icon_youtube.png" alt=""></a></li>
+<li class="facebook"> <a href="http://www.facebook.com/pages/Universal-Audio/23477253356" target="_blank"><img src="/skin/frontend/uaudio/uaudio/images/common/icon_facebook.png" alt=""></a><a style="left: 1px;" href="https://twitter.com/#!/UAudio" target="_blank"><img src="/skin/frontend/uaudio/uaudio/images/common/icon_twitter.png" alt=""></a> <a style="left: -  2px;" href="http://www.youtube.com/user/UniversalAudio/featured" target="_blank"><img src="/skin/frontend/uaudio/uaudio/images/common/icon_youtube.png" alt=""></a></li>
 <!-- Top Navigation End --> 
 </ul><!--{CATALOG_NAVIGATION_e90e1273ce9ccaa28255205259a5e506}-->
 <!--/{CATALOG_NAVIGATION_e90e1273ce9ccaa28255205259a5e506}-->		
@@ -288,7 +295,7 @@ Cufon.set('engine', 'canvas');
 </div></div>		</div>
 		<div class="four-col-one">
 			<form action="/my/newsletter/new" method="post" id="newsletter-validate-detail">
-    <div class="newsletter-subscribe">
+	    <div class="newsletter-subscribe">
 		<ul>
 			<li><label class="news-gothic" for="newsletter">Subscribe to the ua newsletter</label></li>
 			<li><input name="email" type="text" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email"></li>
@@ -301,11 +308,9 @@ Cufon.set('engine', 'canvas');
     //var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
 //]]>
 </script>
-<!--{POLL_9ac959877b0efda86098cacf899b7816}--><!--/{POLL_9ac959877b0efda86098cacf899b7816}--><div class="block featured-promo"><a href="/support/uad/downloads.html"><img src="/media/promo/2011/v61_sidebar.jpg" alt="6.1"></a>
-<p>UAD Power Plug-Ins v6.1 with Little Labs Voice of God and MXR Flanger/Doubler Available Now.&nbsp;<a href="/support/uad/downloads.html">More info…</a></p>
-</div><div class="block featured-artist"><a href="/blog/artist-interview-rik-simpson/"><img src="/media/blog/r/i/rik.png" alt="Rik Simpson"></a>
-<h2>Rik Simpson</h2>
-<p>Rik Simpson on Producing Coldplay's Mylo Xyloto.&nbsp;<a href="/blog/artist-interview-rik-simpson/">Read the interview…</a></p>
+<!--{POLL_9ac959877b0efda86098cacf899b7816}--><!--/{POLL_9ac959877b0efda86098cacf899b7816}--><div class="block featured-promo"><a href="/store.html"><img src="/media/promo/2012/05_sidebar.jpg" alt="Annual Build Your Own Bundle"></a></div><div class="block featured-artist"><a href="/blog/artist-interview-tony-maserati/"><img src="/media/blog/1/_/1_hero_shot_ua_maserati_thumb.jpg" alt="Tony Maserati" width="226" height="127"></a>
+<h2>Tony Maserati</h2>
+<p>Pop Royalty's Favorite Engineer.<br><a href="/blog/artist-interview-tony-maserati/">Read the interview…</a></p>
 </div>        </div>
 	</div>
 </div>
@@ -326,6 +331,7 @@ Cufon.set('engine', 'canvas');
 </ul>
 <ul>
 <li><a href="/hardware.html"><strong>Hardware</strong></a></li>
+<li><a href="/interfaces/apollo.html">Apollo</a></li>
 <li><a href="/hardware/channel-strips/la-610-mkii.html">LA-610 MkII</a></li>
 <li><a href="/hardware/mic-preamps/710-twin-finity.html">710 TwinFinity</a></li>
 <li><a href="/hardware/mic-preamps/4-710d.html">4-710d TwinFinity</a></li>
@@ -340,19 +346,14 @@ Cufon.set('engine', 'canvas');
 <ul>
 <li><a href="/uad-plug-ins.html"><strong>UAD-2 + Plug-Ins</strong></a></li>
 <li><a href="/uad-plug-ins/uad-2-duo/uad-2-satellite-duo.html">UAD-2 Satellite DUO</a></li>
-<li><a href="/uad-plug-ins/uad-2-duo/uad-2-satellite-duo-flexi.html">UAD-2 Satellite DUO Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-satellite-quad.html">UAD-2 Satellite QUAD</a></li>
-<li><a href="/uad-plug-ins/uad-2-quad/uad-2-satellite-quad-flexi.html">UAD-2 Satellite QUAD Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-satellite-quad-omni-6.html">UAD-2 Satellite QUAD Omni 6</a></li>
-<li><a href="/uad-plug-ins/uad-2-solo/uad-2-solo-laptop.html">UAD-2 SOLO/Laptop</a></li>
 <li><a href="/uad-plug-ins/uad-2-solo/uad-2-solo.html">UAD-2 SOLO</a></li>
-<li><a href="/uad-plug-ins/uad-2-solo/uad-2-solo-flexi.html">UAD-2 SOLO/Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-duo/uad-2-duo.html">UAD-2 DUO</a></li>
-<li><a href="/uad-plug-ins/uad-2-duo/uad-2-duo-flexi.html">UAD-2 DUO Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad.html">UAD-2 QUAD</a></li>
-<li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-flexi.html">UAD-2 QUAD Flexi</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-neve.html">UAD-2 QUAD Neve</a></li>
 <li><a href="/uad-plug-ins/uad-2-quad/uad-2-quad-omni-6.html">UAD-2 QUAD Omni 6</a></li>
+<li><a href="/interfaces/apollo.html">Apollo</a></li>
 <li>&nbsp;</li>
 </ul>
 <ul>
