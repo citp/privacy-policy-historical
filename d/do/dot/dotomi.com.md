@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206002425id_/http%3A//www.dotomi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601085635id_/http%3A//www.dotomi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rethink display advertising with Personalized Media by Dotomi.
 
@@ -64,7 +64,7 @@ As you surf the internet, you will receive ads. Wouldn't you rather receive ads 
 
 * * *
 
-If you prefer not to receive relevant advertising from Dotomi, please click on the following link to opt-out.  Additionally, Dotomi is a member of the NAI (Network Advertising Initiative), which allows for the central opting out of all of its members' cookies from a single opt-out page. To find out more, and opt-out of NAI member cookies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.[  
+If you prefer not to receive relevant advertising from Dotomi, please click on the following link to opt-out. Additionally, Dotomi is a member of the NAI (Network Advertising Initiative), which allows for the central opting out of all of its members' cookies from a single opt-out page. To find out more, and opt-out of NAI member cookies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.[  
 ](http://www.dotomi.com/privacy.html#top "back to top")
 
 * * *
@@ -90,4 +90,4 @@ Dotomi, Inc.
 168 North Clinton Street, 4th Floor  
 Chicago, Illinois 60661
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).?
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
