@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vroomvroomvroom.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101213553id_/http%3A//www.vroomvroomvroom.com/customerservice/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vroomvroomvroom.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601024905id_/http%3A//www.vroomvroomvroom.com/customerservice/Privacy-Policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Cheap Car Rental USA, Compare Car Rental with Avis, Budget, Alamo, Hertz.
+# Privacy Policy
 
 At VroomVroomVroom we know what it is like to receive unwanted emails (SPAM). We hate it! And that is why we are committed to respecting your privacy to the highest degree.
 
