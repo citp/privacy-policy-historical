@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taylorguitars.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162625id_/http%3A//www.taylorguitars.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorguitars.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601150744id_/http%3A//www.taylorguitars.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Taylor Guitars - Terms of Use
+# Privacy Policy | Taylor Guitars
 
 Thank you for visiting our website. The Taylor Guitars website at www.taylorguitars.com (the “Site) is a copyrighted work belonging to Taylor-Listug, Inc. dba Taylor Guitars (“Taylor Guitars”). Taylor Guitars grants you the right to use the Site subject to the terms and conditions (the “Terms of Use”) set forth below. BY USING THE SITE, YOU AGREE TO THESE TERMS OF USE; IF YOU DO NOT AGREE, YOU SHOULD IMMEDIATELY HALT YOUR USE OF THE SITE.
 
@@ -10,13 +10,13 @@ Taylor Guitars reserves the right, at its sole discretion, to revise the terms a
 
 Our Commitment to Privacy
 
-At Taylor Guitars, protecting the confidentiality of our customers’ and users’ personal information is a priority. We provide this Online Privacy Policy to inform you of how we manage this responsibility. This policy deals with the collection, use, and disclosure of personal information that may be gathered by Taylor Guitars during your interactions with this website. 
+At Taylor Guitars, protecting the confidentiality of our customers’ and users’ personal information is a priority. We provide this Online Privacy Policy to inform you of how we manage this responsibility. This policy deals with the collection, use, and disclosure of personal information that may be gathered by Taylor Guitars during your interactions with this website.
 
 We take your privacy very seriously. As set forth below, we do not sell or rent your personal information to third parties. Please take a moment to review the following notices to learn more about our information collection practices, including what information is collected, how the information is used, to whom we disclose the information, and how we protect your personal information.
 
 Information Collected
 
-At our internet website, you can learn about us, view our products, purchase merchandise, request information, and participate in chat rooms on bulletin boards or comments as they appear on the site. In certain areas of this website, we may ask you to voluntarily provide us with personal information. The kinds of personal information that we may request include your name, address, e-mail address, telephone number, cellular phone number, credit card information, and information regarding your interests in a variety of products, programs, and services. All such information will be used in accordance with the terms of this policy. 
+At our internet website, you can learn about us, view our products, purchase merchandise, request information, and participate in chat rooms on bulletin boards or comments as they appear on the site. In certain areas of this website, we may ask you to voluntarily provide us with personal information. The kinds of personal information that we may request include your name, address, e-mail address, telephone number, cellular phone number, credit card information, and information regarding your interests in a variety of products, programs, and services. All such information will be used in accordance with the terms of this policy.
 
 Why Information is Collected
 
@@ -30,7 +30,7 @@ We restrict the use of any information provided to us on our website to achieve 
 
 We will not knowingly share information provided by you with anyone except as required or permitted by applicable law. However, secure data transmission over the internet cannot be guaranteed. While it is our intent to maintain the privacy of the information you transmit through our website, we cannot guarantee such information will remain confidential or secure.
 
-We may disclose personally identifiable information to governmental or judicial authorities, law enforcement authorities, or to other individuals or entities in response to a subpoena, court order, or other legal process. We may also disclose such information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Additionally, we may transfer personal information if we are acquired by or merged with another entity. 
+We may disclose personally identifiable information to governmental or judicial authorities, law enforcement authorities, or to other individuals or entities in response to a subpoena, court order, or other legal process. We may also disclose such information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Additionally, we may transfer personal information if we are acquired by or merged with another entity.
 
 Publicly Displayed Information
 
@@ -38,11 +38,11 @@ Publicly displayed information is public. You should be aware that any informati
 
 Collection of Information By Third Party Sites
 
-Our policy only applies to your use of this website. Although this website contains links to other sites, these sites are governed by their own privacy policies, and we are not responsible for their operations and practices. We do not disclose any personal information to those operating linked sites. You are encouraged to read the privacy policies of each site you visit to determine what information that site may be collecting about you. 
+Our policy only applies to your use of this website. Although this website contains links to other sites, these sites are governed by their own privacy policies, and we are not responsible for their operations and practices. We do not disclose any personal information to those operating linked sites. You are encouraged to read the privacy policies of each site you visit to determine what information that site may be collecting about you.
 
 How Your Information is Protected
 
-We take all precautions including administrative, technical, and physical measures to safeguard your personal information. To ensure your personal information is secure, our policy guidelines are communicated to our employees and strictly enforced within the company. In addition, we employ current internet security technology to preserve your privacy rights on our website and in all aspects of electronic commerce. 
+We take all precautions including administrative, technical, and physical measures to safeguard your personal information. To ensure your personal information is secure, our policy guidelines are communicated to our employees and strictly enforced within the company. In addition, we employ current internet security technology to preserve your privacy rights on our website and in all aspects of electronic commerce.
 
 Cookies and Other Technical Information
 
@@ -54,7 +54,7 @@ By themselves, cookies or tracking systems do not contain or reveal any personal
 
 Children’s Privacy
 
-Our website is not directed to children and we do not knowingly market or solicit information from any child under the age of 13. In the event we learn a child under 13 sends personal information to us, we will promptly attempt to delete that information. 
+Our website is not directed to children and we do not knowingly market or solicit information from any child under the age of 13. In the event we learn a child under 13 sends personal information to us, we will promptly attempt to delete that information.
 
 Notification of Changes to Privacy Policy
 
@@ -66,5 +66,4 @@ If you have any questions or concerns about Taylor Guitar’s Online Privacy Pol
 Attn: Website Services  
 1980 Gillespie Way  
 El Cajon, CA  
-92020)  
-
+92020)
