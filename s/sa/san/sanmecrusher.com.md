@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanmecrusher.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114113726id_/http%3A//www.sanmecrusher.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanmecrusher.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601041633id_/http%3A//www.sanmecrusher.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy_Sanme
 
@@ -22,6 +22,6 @@ Sanme does not assume any responsibility for the privacy practices or the conten
 Sanme may at any time revise the terms of this Privacy Policy by updating it.
 
 If you have any questions regarding Sanme's processing of your personal information, you are welcome to contact us.  
-Tel: +86-21-58202968   58205268  
+Tel: +86-21-58202968   58206909  
 Fax: +86-21-58200089  
 E-mail: service@sanmecrusher.com 
