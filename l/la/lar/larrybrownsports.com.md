@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the larrybrownsports.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529145241id_/http%3A//larrybrownsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larrybrownsports.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601045733id_/http%3A//larrybrownsports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Larry Brown Sports
 
@@ -61,4 +61,4 @@ If you decide to visit LBS website, your visit and any possible dispute over pri
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of 1/2/2009 and last updated 1/2/2009. 
+This Privacy Policy is effective as of 1/2/2009 and last updated 1/2/2009.
