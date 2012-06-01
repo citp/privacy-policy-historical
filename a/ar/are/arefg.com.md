@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arefg.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110233442id_/http%3A//arefg.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arefg.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601231710id_/http%3A//arefg.com/privacy.php) for the most accurate reproduction.*
 
 # Australian Mortgage and Business Brokers
 
