@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216103428id_/http%3A//www.struq.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601042451id_/http%3A//www.struq.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Struq | Privacy Policy - Struq's privacy policy
 
@@ -22,10 +22,12 @@ If your personally identifiable information changes you may update it by filling
 
 ### Third Party Cookies
 
-The use of cookies by our tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to make it easier for you to navigate our site.
+The use of cookies by our tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to make it easier for you to navigate our site and provide insight into how the site is used.
 
 ### Changes in this Privacy Statement
 
 If we change our privacy policy, we will post those changes to this privacy
+
+Opt-out of Struq interest based advertising [here](https://web.archive.org/cookie_and_privacy_policy/)
 
 Last Updated: March 19 2011
