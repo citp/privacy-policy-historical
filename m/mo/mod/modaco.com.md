@@ -1,31 +1,19 @@
-> *The following text is extracted and transformed from the modaco.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008182451id_/http%3A//www.modaco.com/topic/239953-modaco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaco.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601035536id_/http%3A//www.modaco.com/topic/239953-modaco-privacy-policy) for the most accurate reproduction.*
 
-# MoDaCo Privacy Policy - Windows Phone @ MoDaCo
+# MoDaCo - Privacy Policy - Website - MoDaCo
 
-  * You cannot start a new topic
-  * This topic is locked
+###  [ #1 ](http://www.modaco.com/topic/239953-modaco-privacy-policy/#entry733839 "MoDaCo - Privacy Policy: post #1")
 
+Posted 23 April 2006 - 10:27 PM
 
+PaulOBrien
 
-###  MoDaCo Privacy Policy  [](http://www.modaco.com/index.php?app=forums&module=extras&section=rating&t=239953&rating=1&secure_key=bb2fe024f8a71424996db6d9af08c1fc "Rate topic 1 star")[](http://www.modaco.com/index.php?app=forums&module=extras&section=rating&t=239953&rating=2&secure_key=bb2fe024f8a71424996db6d9af08c1fc "Rate topic 2 stars")[](http://www.modaco.com/index.php?app=forums&module=extras&section=rating&t=239953&rating=3&secure_key=bb2fe024f8a71424996db6d9af08c1fc "Rate topic 3 stars")[](http://www.modaco.com/index.php?app=forums&module=extras&section=rating&t=239953&rating=4&secure_key=bb2fe024f8a71424996db6d9af08c1fc "Rate topic 4 stars")[](http://www.modaco.com/index.php?app=forums&module=extras&section=rating&t=239953&rating=5&secure_key=bb2fe024f8a71424996db6d9af08c1fc "Rate topic 5 stars")
-
-  
-
-
-###  [#1](http://www.modaco.com/topic/239953-modaco-privacy-policy/page__view__findpost__p__733839 "Link to post #1")  
-
-  * Group: Founder
-  * Posts: 31,417
-  * Joined: 06-November 02
   * Gender:Male
   * Location:Norwich, UK
-  * Interests:Snowboarding, Arsenal FC, Mobile Phones (duh!), Fast Cars, Slow VW Campers!
-  * Devices:Galaxy S II / Xoom 3G
+  * Devices:One X / TF Prime
   * Twitter:[@paulobrien](http://twitter.com/paulobrien)
 
 
-
-Posted 23 April 2006 - 10:27 PM
 
 **Privacy Statement**
 
@@ -78,27 +66,20 @@ Parents or guardians: we want to help you guard your children's privacy. We enco
   
 
 
-0 
+###  [ #2 ](http://www.modaco.com/topic/239953-modaco-privacy-policy/#entry1759491 "MoDaCo - Privacy Policy: post #2")
 
-* * *
+PaulOBrien 
 
-  
+Posted 14 July 2011 - 12:28 PM
 
+PaulOBrien
 
-###  [#2](http://www.modaco.com/topic/239953-modaco-privacy-policy/page__view__findpost__p__1759491 "Link to post #2")   [Paul](http://www.modaco.com/user/1-paul/) 
-
-  * Group: Founder
-  * Posts: 31,417
-  * Joined: 06-November 02
   * Gender:Male
   * Location:Norwich, UK
-  * Interests:Snowboarding, Arsenal FC, Mobile Phones (duh!), Fast Cars, Slow VW Campers!
-  * Devices:Galaxy S II / Xoom 3G
+  * Devices:One X / TF Prime
   * Twitter:[@paulobrien](http://twitter.com/paulobrien)
 
 
-
-Posted 14 July 2011 - 12:28 PM
 
 **Contact Details**
 
@@ -106,33 +87,9 @@ _These details are for use only in relation to purchases from the MoDaCo store!_
 
 If you have a query regarding your MoDaCo purchase, they should be directed in the first instance for Forum@MoDaCo.com by email.
 
-Our company is based at MoDaCo, 18 School Road, Tivetshall St Mary, Norfolk, NR15 2BP. United Kingdom. Our Customer Service number (for Store purchase related queries only) is 01379 888 101.
+Our company is based in Diss, Norfolk, United Kingdom. Our Customer Service number (for Store purchase related queries only) is 01379 888 101.
 
   
 
-
-0 
-
-* * *
-
-  
-
-
-  * ← [Possible to disable flag?](http://www.modaco.com/topic/343344-possible-to-disable-flag/)
-  * **[Website](http://www.modaco.com/forum/116-website/ "Return to Website")**
-  * [MoDaCo Plus account](http://www.modaco.com/topic/343575-modaco-plus-account/) →
-
-  
-
-
-  * You cannot start a new topic
-  * This topic is locked
-
-
-
-* * *
-
-##  1 User(s) are reading this topic  
-0 members, 1 guests, 0 anonymous users
   *[23 April 2006 - 10:27 PM]: 2006-04-23T22:27:31+00:00
   *[14 July 2011 - 12:28 PM]: 2011-07-14T12:28:33+00:00
