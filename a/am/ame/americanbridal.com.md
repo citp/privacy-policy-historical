@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226031722id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601045117id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
 
 # Privacy Policy & Site Security
 
@@ -8,7 +8,7 @@ Our secure server software (SSL) is the industry standard and among the best ava
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-If you are prevented from ordering online or you do not wish to enter your information online, you may call in your order to our toll free 1-800-568-3398 Monday to Friday 6:00am to 5:00pm Pacific Standard Time.
+If you are prevented from ordering online or you do not wish to enter your information online, you may call in your order to our toll free 1-800-568-3398 Monday to Friday 5:00am to 8:00pm Pacific Standard Time.
 
 If you have tried to order from us but were unable to do so, you may receive an email form us so that we can offer our assistance.
 
@@ -18,6 +18,6 @@ Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help anal
 
 You are viewing: Privacy Policy & Site Security
 
-© 1997-2011 American Bridal™. All Rights Reserved.
+© 1997-2012 American Bridal™. All Rights Reserved.
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.americanbridal.com)
