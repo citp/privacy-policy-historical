@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestleview.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203924id_/http%3A//www.wrestleview.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleview.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601054521id_/http%3A//www.wrestleview.com/info/privacy.php) for the most accurate reproduction.*
 
 # WrestleView.com - Privacy Policy
 
@@ -17,5 +17,7 @@ Our advertisements may contain cookies, which allow advertisers to track informa
 We are affiliated with a few sites, but that's about it. If you click on their link under the affiliates section, then you are sent to their respective site and from then on, has nothing to do with WrestleView.com. 
 
 **WrestleView.com's Public Forums and Chat Room**  
-The discussion forums and chat room are for wrestling fans and of course WrestleView readers to interact and discuss various topics (mainly wrestling). All information is optional. Children under 13 years of age must have their parent's permission.   
+The discussion forums and chat room are for wrestling fans and of course WrestleView readers to interact and discuss various topics (mainly wrestling). All information is optional. Children under 13 years of age must have their parent's permission. 
+
+  
 
