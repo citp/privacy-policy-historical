@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explore.org privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120190604id_/http%3A//www.explore.org/extra/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explore.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601221154id_/http%3A//explore.org/extra/privacy_policy) for the most accurate reproduction.*
 
-# explore - cultural and educational films and photos
+# explore
 
 Effective and revised as of June 15, 2009
 
