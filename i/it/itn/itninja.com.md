@@ -1,118 +1,150 @@
-> *The following text is extracted and transformed from the itninja.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628162153id_/http%3A//dell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itninja.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601110627id_/http%3A//www.itninja.com/privacy_policy.pdf) for the most accurate reproduction.*
 
-# Dell Terms of Sale, License Agreements & Policies | Dell
+# ITNinja Privacy Policy
 
-Privacy Statement Regarding Customer and Online User Information
-
-The Privacy Statement Regarding Customer and Online User Information applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our"), but not to those Dell corporate affiliates that have published their own privacy and security statements. This privacy statement also does not apply to the websites of our business partners or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact.
-
-This privacy statement governs personal information we collect from our customers and online from our website users ("you"), through Dell products, services, software, websites, contacts, or our relationship with you. Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.
-
-For the purposes of this privacy statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by Dell Inc. "Business partners" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services, or information. "Personal information" means information which identifies you, such as your name, telephone number, and email address.
-
+ITNinja Privacy Policy
+The following statement describes the privacy policy relating to the ITNinja web
+site (the "Site") operated by Dell, Inc. ("Dell" or "we"). Dell is committed to user
+privacy in all of its communications regarding its products and services. If you
+provide Dell with information via the ITNinja website, it will be treated according
+to this policy. Dell encourages you to read this policy before interacting with the
+website. By providing any personal information to Dell via the ITNinja web site or
+e-mail addresses, you agree to these terms.
+The purpose of this privacy policy is to inform you of the following:
+   •    What kind of information, including any personally identifiable information,
+          is collected
+   •    Who collects the information
+   •    How the information is used
+   •    With whom the information may be shared
+   •    What choices are available to you regarding its collection, use, and
+          distribution
+   •    The security procedures that are in place to protect the information
+   •    How you can correct inaccuracies in the information
 Information We Collect
-
-We may ask you to provide personal information when you 
-
-  * Use our website;
-  * Request quotes, services, support, or information;
-  * Place orders for products or services;
-  * Apply for credit card or financing;
-  * Participate in surveys, sweepstakes, or other promotional activities;
-  * Subscribe to newsletters, promotional emails, or other materials;
-  * Apply for a job, submit your resume/CV, or create a candidate profile; or
-  * Contact us.
-
-
-
-Information we may request includes your email address, name, home address, and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for your Social Security number and other data to process your credit or financing request. Job applicants may be requested to provide information such as educational background, employment experience, and job interest. We may also collect demographic information, such as your business or company information, age, gender, interests, preferences and favorites. Forms that you may fill in will indicate whether information requested is mandatory or voluntary.
-
-We may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with the Dell websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
-
-In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information obtained through other Dell resources. We may also supplement the information we collect with information obtained from other parties.
-
-Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
-
-How We Use Personal Information
-
-Dell uses your personal information to: 
-
-  * Deliver the services and support, or carry out, the transactions you have requested;
-  * Send communications to you, such as product safety information, your transactions status (for example, order confirmations), information about products and services available from Dell and its corporate affiliates, promotional offers, and surveys;
-  * Customize, analyze, and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you;
-  * Enforce our conditions of sale, website terms and/or separate contracts (if applicable) with you;
-  * Prevent fraud and other prohibited or illegal activities;
-  * Protect the security or integrity of the website, our business, or our products or services; or
-  * Otherwise, as disclosed to you at the point of collection.
+Non-Personally Identifiable Information. Non-personally identifiable information
+is information that, by itself, cannot be tracked to a specific individual. Dell may
+collect non-personally identifiable information while you are visiting the
+Site. While providing services and features, Dell may collect web surfing data
+such as your IP address, web pages on the Site that have you visited, time and
+date, the web site you came through to reach the Site, and whether or not you
+clicked on any links while at the Site. We may use different types of technologies
+to collect this information, including cookies and single-pixel GIFs.
+If your browser is configured to accept the cookies, these cookies will be used to
+recognize your computer when you revisit the Site to provide you with a better
+web surfing experience; for example, it allows us to learn how you use the Site
+and to show you information we think you would want to see. If you wish, you
+can configure your browser to block cookies; however, your ability to access
+certain portions of the Site may be affected.
+Links to third parties may be displayed on the Site. These third parties may use
+cookies or other technologies to collect information when you are visiting their
+web sites. The information advertisers or other third parties collect is governed
+by their individual privacy policies, not by Dell’s privacy policy.
+Personally Identifiable Information. While providing various services or features,
+we may ask you to provide personal information. For example, if you choose to
+register at the Site, you may be asked to provide your name, email address,
 
 
-
-Personal information collected may be stored and processed in the United States or any other country in which Dell or its corporate affiliates, subsidiaries or agents maintain facilities, and by using Dell products and services (including our website), you consent to any such transfer of information outside of your country.
-
-Disclosing Personal Information
-
-We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if Dell reasonably believes it is necessary to protect Dell, its customers, or the public.
-
-In addition, we may share your personal information with business partners that help Dell carry out transactions you request or that help Dell to customize, analyze, and/or improve our communication or relationship with you, and then only with business partners who share Dell's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
-
-How You Can Access Your Information
-
-Dell wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the My Account / Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password.
-
-Selecting Your Communication Preferences
-
-You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
-
-  * The My Account / Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell.com, and to subscribe or unsubscribe to newsletters about our products and services; and
-  * At any point you can also visit our [List Removal Page](https://ecomm.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com/content/topics/global.aspx/policy/en/country_specific&s=gen&~section=023&c=us&l=en) and request to be removed from our advertising and marketing lists (catalogs, telephone, faxes, and email);
-  * At the time you save a cart while shopping online, you can choose to receive email reminders;
-  * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws.
-
-
-
-Please allow up to 10 business days for your email preferences to take effect.
-
-Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
-
-How We Secure Your Personal Information
-
-Dell is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, such as encryption, passwords, physical security, etc. While we strive to protect your personal information, Dell cannot ensure or warrant that the personal information or private communications you transmit to us will always remain private, and you do so at your own risk. For more information about our security measures, please click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=006). 
-
-If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
-
-We will not require you to transmit your SSN on the Internet unless the connection is secure or the SSN is encrypted, or require you to transmit your SSN to access a website without requiring additional authentication.
-
-Collection and Use of Children's Personal Information
-
-Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites.
-
-If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian.
-
-How We and Our Partners Use Cookies and Web Beacons
-
-Click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=001) for information about how we and our partners use cookies and web beacons to customize content and to tailor advertisements and email you receive.
-
-Third-Party Websites and Services
-
-Please be aware that other websites that may be accessed through our website may collect personally identifiable information about you. The information practices of those third-party websites linked to Dell.com are not covered by this privacy statement. We generally use the "" symbol to mark links that go to third party sites.
-
-Please be aware that, in providing services on Dell's behalf, our business partners may collect personal information about you. 
-
-Changes to Our Privacy Statement Regarding Customer and Online User Information
-
-We will occasionally update this privacy statement. If we make changes to the Privacy Statement Regarding Customer and Online User Information or make any material changes to how Dell will use your personal information, we will revise the Privacy Statement to reflect such changes and revise the statement's effective date, included at the end of this section. We encourage you to periodically review this statement to be informed of how Dell is protecting your personal information. 
-
-Contacting Us
-
-If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
-
-Dell Inc.  
-Attention: Privacy  
-One Dell Way  
-Round Rock, Texas 78682  
-USA  
+telephone number, company, title, password and/or username. If you choose to
+use the Site, create a profile or post information on our question and answer
+system, blogs, links, and software library, you may elect to provide information,
+such as your name, telephone number, street address, age, text, messages,
+feedback, images, suggestions, photos, birthday, icon, links to web sites,
+information regarding what products interest you, product information, bugs, and
+other comments, or other content ("User Submissions").
+Use of the Information We Collect
+Use of Non-Personally Identifiable Information. Dell may use non-personally
+identifiable information collected to improve the quality of Dell’s services; for
+example, by diagnosing service or technology problems, by assessing and
+maintaining security, by increasing ad placements on web sites that are
+generating more web traffic, by presenting you with information that we think you
+would be interested in seeing, or by allowing you to log in or access your profile
+information automatically. We may also use the information to count and
+recognize returning users.
+Dell may use non-personally identifiable information collected to determine user
+demographics, interests, and behavior and may market Dell products by sharing
+non-personally identifiable information with potential customers or partners. Dell
+also may provide your non-personally identifiable information to contractors so
+that they can perform services for us.
+Use of Personally Identifiable Information. User Submissions, profile
+information, including without limitation your username, email address, and
+location may be viewable by others. Dell does not intentionally directly provide
+personally identifiable information to partners, except if you provide personally
+identifiable information as part of an inquiry about products or services provided
+by one of the partners. In that case, we will provide that information to that
+partner so that they may attempt to provide you with information regarding the
+products or services about which you inquired.
+If you provide us your email address when requesting information or when
+signing up for user communities, newsletters, or other services, we may send
+you email messages to communicate with you or to provide you information that
+we think you would like to see.
+If Dell shares any of the information collected from you with a third party, the third
+party's use of that information will then be governed by the third party's privacy
+policy.
+If you provide personally identifiable information for your profile or other User
+Submissions, other users of the Site will have access to this information.
+Other Sharing of Information Dell may release any information about any user,
 
 
-You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
+including personally identifiable information, if in its sole discretion, release is
+appropriate to comply with the law, requests or orders from law enforcement,
+court order, or any investigation. Dell also may release information to protect its
+rights, property, or other interests, including those of its customers or users or to
+prevent illegal activities or violations of Dell’s ITNinja Terms of Service
+Agreement (available at www.itninja.com/terms_of_service.pdf).
+In the event that Dell, in whole or in part, establishes a partnership with another
+company, or is acquired by or merged with another company or enters
+bankruptcy, collected information may be transferred to the partner or the
+acquiring or merging company.
+Deletions/Corrections/Opt-Out
+You can delete your account and profile by contacting us directly at
+support@itninja.com. You may also change your profile information by logging in
+to your user profile.
+Dell also allows users who choose to provide personally identifiable information
+on their profile to edit their profile to ensure that it is correct and up-to-date. We
+may use your email address to send you messages notifying you of important
+changes to the Site, services, and special offers. If you do not want to receive
+such email messages, you may opt out by sending an email message to
+support@itninja.com or by sending mail to the following postal address:
+Dell KACE
+Attn: Bob Kelly
+PO Box 639
+Haymarket, VA 20168
+Opting out may prevent you from receiving email messages regarding updates,
+improvements, or special offers.
+Child Protection
+Dell does not offer services to, or target, persons under the age of 13. In
+compliance with the Children's Online Privacy Protection Act, any information we
+receive from people we believe to be children under 13 will be purged from our
+database.
+International Users
+The Site is hosted in the United States and is intended for and directed to users
+in the United States. If you are accessing the Site from outside the United
+States, the laws or regulations governing personal data collection, use, and
+disclosure may differ from United States laws. Be advised that through your
+continued use of the Site, which is governed by U.S. law, this Privacy Policy, and
+our Terms of Services, you are transferring your personal information to the
+United States and you consent to that transfer.
 
- **Privacy Statement Regarding Customer and Online User Information Effective Date: December 30, 2010.**
+
+Security
+Dell makes efforts to protect against the loss, misuse, and alteration of the
+collected information. Be aware, however, that the Internet is not 100%
+secure. Therefore, we cannot ensure the security of any information transmitted
+over the Internet, and we accept no liability for any disclosure. Many areas of the
+Site are password-protected. To increase the security of the Site, please do not
+share your passwords with anyone.
+Links to Other Web Sites
+The Site may contain links to other web sites. In addition, User Submissions
+might contain links to other web sites. Dell is not responsible for the privacy
+practices or the content of any third party web sites that may be linked to the
+Site.
+Modifications
+This privacy policy replaces any previous privacy policies formerly posted on the
+Site. We reserve the right to modify this privacy policy at any time by posting the
+changes on this web page and any such changes are immediately effective upon
+posting. We also may notify you about changes to the privacy policy by sending
+you a notice to your email address or by placing a notice on the Site. Please
+check the effective date at the top of this page to determine if the privacy policy
+has been modified since you last reviewed it. Your continued use of the Site
+following posting of this or any updated privacy policy will constitute your
+acceptance	  
