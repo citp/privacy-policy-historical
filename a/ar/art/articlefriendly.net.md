@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefriendly.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014300id_/http%3A//www.articlefriendly.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefriendly.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601023527id_/http%3A//www.articlefriendly.net/privacy.php) for the most accurate reproduction.*
 
 # Article Friendly | Privacy Statement
 
