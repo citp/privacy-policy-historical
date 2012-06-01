@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126013346id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602011117id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MegaBuy Online Computer Shop
 
@@ -34,7 +34,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 We may correct or supplement your address information with standardised postal representation in order to ensure that your orders are delivered.
 
 **Contests**  
-Periodically, contests may be run on our website. Sometimes contests are sponsored by our suppliers and/or partners. To enter these contests you may need to enter your Name, E-Mail Address and/or Password. At the time of entry, you may decide if you wish to have your name posted on our website if you are the winner. Winner’s names are NEVER shared with our customers without their consent.
+Periodically, contests may be run on our website. Sometimes contests are sponsored by our suppliers and/or partners. To enter these contests you may need to enter your Name, E-Mail Address and/or Password. At the time of entry, you may decide if you wish to have your name posted on our website if you are the winner. Winners' names are NEVER shared with our customers without their consent.
 
 **Our Use of Cookies**  
 Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. We may use session cookies to provide a seamless experience on the website and to combine with our log files so that we can understand our website traffic and analyze website usage information in aggregate form.
