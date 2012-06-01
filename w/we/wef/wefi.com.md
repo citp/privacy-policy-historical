@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wefi.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203084321id_/http%3A//www.wefi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefi.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601191825id_/http%3A//www.wefi.com/privacy) for the most accurate reproduction.*
 
-# WeFi Privacy Policy
+# Privacy Policy - Legal - WeFi
 
-WeFi ( **"WeFi"** , **"us"** , **"we"** or **"our"** ) respects the privacy of the visitors to the Website, the home page of which is located at [http://www.wefi.com](http://www.wefi.com/ "WeFi - Find Wi-Fi anywhere and friends everywhere"), and the users of our services ( **"Services"** ) and the WeFi connectivity software (the **"WeFi Software"** ).
+WeFi ( **"WeFi"** , **"us"** , **"we"** or **"our"** ) respects the privacy of the visitors to the Website, the home page of which is located at [http://www.wefi.com](https://web.archive.org/ "WeFi - Find Wi-Fi anywhere and friends everywhere"), and the users of our services ( **"Services"** ) and the WeFi connectivity software (the **"WeFi Software"** ).
 
-This privacy policy (the "Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Services and/or the WeFi Software. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Service Agreement for the WeFi Services (at <http://www.wefi.com/TOS/>) and any WeFi License Agreement (at <http://www.wefi.com/EULA/>). This Privacy Policy will be continuously assessed against new technologies, business practices and our visitors’ and users’ needs. Access to and use of the Website and WeFi Services is available only to individuals who can form legally binding contracts under applicable law. If you do not qualify, you may not use the Website and WeFi Services. If you are a minor under the age of 13, you are not authorized to register, become a WeFi member or use the Services.
+This privacy policy (the "Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Services and/or the WeFi Software. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Service Agreement for the WeFi Services (at [http://www.wefi.com/terms/](https://web.archive.org/terms/ "WeFi's Terms of Service")) and any WeFi License Agreement (at [http://www.wefi.com/eula/](https://web.archive.org/eula/ "WeFi's License Agreement")). This Privacy Policy will be continuously assessed against new technologies, business practices and our visitors’ and users’ needs. Access to and use of the Website and WeFi Services is available only to individuals who can form legally binding contracts under applicable law. If you do not qualify, you may not use the Website and WeFi Services. If you are a minor under the age of 13, you are not authorized to register, become a WeFi member or use the Services.
 
  **"Personal Information"** is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number.
 
@@ -12,17 +12,17 @@ This privacy policy (the "Privacy Policy") is intended to inform you of our poli
 
 We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
 
-* ## USER CONSENT
+* ### USER CONSENT
 
 By submitting Personal Information through our Services and/or the WeFi Software and using our Website, Services and/or WeFi Software, you agree to the terms of this Privacy Policy and to our use of your Personal Information for the purposes given where the information is collected. You expressly consent to the processing of your Personal Information according to this Privacy Policy. If you do not agree to this Privacy Policy, you are not authorized to use our Website, Services and/or WeFi Software.
 
 By consenting to this Privacy Policy, you confirm that your command and knowledge of English is sufficient to understand the terms and conditions set forth herein.
 
-For persons in the European Union, as used herein, terms such as “Personal Information” refer to “personal data” as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. We will not collect any personal data from you unless you provide it to us voluntarily with your freely given specific and informed consent. By using our Website, Services and/or the WeFi Software, you agree that we may transfer your Personal Information outside the European Union in connection with the purposes stated in this Privacy Policy. Your personal data may be transferred to the United States (and/or other non-European Union jurisdictions, as applicable).
+For persons in the European Union, as used herein, terms such as "Personal Information" refer to "personal data" as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. We will not collect any personal data from you unless you provide it to us voluntarily with your freely given specific and informed consent. By using our Website, Services and/or the WeFi Software, you agree that we may transfer your Personal Information outside the European Union in connection with the purposes stated in this Privacy Policy. Your personal data may be transferred to the United States (and/or other non-European Union jurisdictions, as applicable).
 
 You agree that your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
-* ## INFORMATION YOU PROVIDE TO US
+* ### INFORMATION YOU PROVIDE TO US
 
 WeFi collects Personal Information from its online visitors and users on a voluntary basis and only to the extent necessary to fulfill your requests and to create or enhance our relationship with you. The Personal Information we gather from you helps us learn about our members and potential members of our community and the users of the WeFi Software. We collect Personal Information that you submit to us voluntarily through our Service and/or the WeFi Software. We may collect Anonymous Information passively or actively. The types of Personal Information and Anonymous Information we collect are:
 
@@ -39,11 +39,11 @@ WeFi collects Personal Information from its online visitors and users on a volun
 
 The WeFi Profile that you create when you sign up for our WeFi Services contains Personal Information such as your username, e-mail address and password. Only your WeFi Member name will be visible to other WeFi Members. All the information in your WeFi Profile that you select to be publicly displayed will be public information and any WeFi Member will be able to see it, including any Personal Information that is stored in your WeFi Profile that you decide to select as public information.
 
-* ## INFORMATION COLLECTED VIA TECHNOLOGY
+* ### INFORMATION COLLECTED VIA TECHNOLOGY
 
 We may collect general, aggregated, demographic, and non-personal information from our online visitors and users. The non-personal information will not be linked to any Personal Information of our online visitors or users, through cookies or other means, without consent. This type of anonymous, aggregated profiling and session data may include information provided to us through surveys, polls, etc., but will not be tied to any Personal Information without consent. The non-personal information collected may also include aggregated Anonymous Information about site usage and the customer base.
 
-As you navigate our Website or use the WeFi Community Services, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use “Cookies” and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and viewed. This type of information is collected to better understand how you use our community and make the community and the Services we provide more useful to you. Most browsers are automatically set to accept Cookies. Please contact your PC consultant if you need additional information on Cookies. Personal information collected through the use of cookies and other technology will be handled in accordance with this Privacy Policy. If you would like more information about cookies and how to control and delete cookies in various browsers, such as Internet Explorer, Firefox, Safari, Opera and Chrome, please visit <http://www.aboutcookies.org/>.
+As you navigate our Website or use the WeFi Community Services, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use "Cookies" and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and viewed. This type of information is collected to better understand how you use our community and make the community and the Services we provide more useful to you. Most browsers are automatically set to accept Cookies. Please contact your PC consultant if you need additional information on Cookies. Personal information collected through the use of cookies and other technology will be handled in accordance with this Privacy Policy. If you would like more information about cookies and how to control and delete cookies in various browsers, such as Internet Explorer, Firefox, Safari, Opera and Chrome, please visit <http://www.aboutcookies.org/>.
 
 When you use our WeFi Software to improve your connectivity, the Services collects information about the device on which the WeFi Software is executed, including without limitation, the hardware address of its network adapter, basic usage statistics about your device and your use of the WeFi Software and Services.
 
@@ -55,11 +55,11 @@ An **"Internet protocol address"** or **"IP Address"** is a number that is autom
 
 We may also contract with third parties in order to promote the products and/or services of these third parties by placing ads on the Website. We may use information that was posted by WeFi Members to tailor the display of ads to the interest of the Users. Clicking on such ads will direct you to the website of the third party and the third party may also use Cookies in connection with these ads. Please be advised that we are not responsible for these other websites or any content on these other websites and that this Privacy Policy does not govern your visit of these other websites. You are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on our Website may be delivered to you by third-party advertising companies. These companies may use information about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/> .
 
-* ## PERSONAL INFORMATION WE RECEIVE FROM OTHER SOURCES
+* ### PERSONAL INFORMATION WE RECEIVE FROM OTHER SOURCES
 
 We may receive Personal Information about you from other sources like telephone or fax, or from third parties that provide services for us in connection with the WeFi Services. We may add, and you hereby agree to the addition of, this information to the information we have already collected from you via our Website or through the WeFi Software in order to improve our community and our Services.
 
-* ## USE OF INFORMATION
+* ### USE OF INFORMATION
 
 In general, Personal Information you submit to us is used by us either to sign you up for our community, respond to requests that you make, to improve our community and Services and to better tailor the features, performance and support of the Services and the WeFi Software, and to offer you additional information, opportunities, and functionality. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails, should you request to receive such communications from us.
 
@@ -67,19 +67,19 @@ The idea behind the WeFi community is that the members of our community share in
 
 Members are also able to search for publicly available information that was posted by a WeFi Member in a public section of the WeFi Services, or for information in a WeFi Profile.
 
-While visiting and using these publicly available sections, you agree to comply with and abide by the Code of Conduct in our Terms of Service available at <http://www.wefi.com/TOS/>. If you do not agree, you may not use these publicly available sections. PLEASE UNDERSTAND THAT ANY INFORMATION THAT IS DISCLOSED IN THESE PUBLICLY AVAILABLE SECTIONS BECOMES PUBLIC INFORMATION. WEFI HAS NO CONTROL OVER ITS USE AND IS NOT LIABLE IN ANY WAY FOR ANYONE’S USE, MISUSE, COLLECTION OR DISCLOSURE OF INFORMATION DISCLOSED IN PUBLICLY AVAILABLE SECTIONS. YOU SHOULD EXERCISE CAUTION AND JUDGMENT WHEN DECIDING TO DISCLOSE YOUR PERSONAL INFORMATION OR ANY OTHER INFORMATION ABOUT YOURSELF. The information presented in these publicly available sections reflects the views of the individual users.
+While visiting and using these publicly available sections, you agree to comply with and abide by the Code of Conduct in our Terms of Service available at [http://www.wefi.com/terms/](https://web.archive.org/terms/ "WeFi's Terms of Service"). If you do not agree, you may not use these publicly available sections. PLEASE UNDERSTAND THAT ANY INFORMATION THAT IS DISCLOSED IN THESE PUBLICLY AVAILABLE SECTIONS BECOMES PUBLIC INFORMATION. WEFI HAS NO CONTROL OVER ITS USE AND IS NOT LIABLE IN ANY WAY FOR ANYONE’S USE, MISUSE, COLLECTION OR DISCLOSURE OF INFORMATION DISCLOSED IN PUBLICLY AVAILABLE SECTIONS. YOU SHOULD EXERCISE CAUTION AND JUDGMENT WHEN DECIDING TO DISCLOSE YOUR PERSONAL INFORMATION OR ANY OTHER INFORMATION ABOUT YOURSELF. The information presented in these publicly available sections reflects the views of the individual users.
 
 We use the location-based information we collect from you when you use the WeFi Software of the relevant functions of the WeFi Services to provide you with specific information and services that are related to your location. Please be aware that when you use the WeFi Software, you may be sending us location-based information and this information might also be available to other WeFi Members. Location-based information that you send to us may reveal your actual location.
 
 We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this Anonymous Information to analyze usage patterns so that we may enhance our community and Services. We reserve the right to use and disclose Anonymous Information to third parties in our discretion.
 
-* ## FEEDBACK
+* ### FEEDBACK
 
 If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we will not associate such feedback with your Personal Information. We will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
 
 You acknowledge and agree that all feedback is the sole and exclusive property of WeFi and may be used by WeFi (or its affiliates, publishing partners, distributors, licensors and licensees) for any purpose. If and to the extent you are deemed to have retained, under applicable law, any right, title or interest in or to any portion of your feedback, you hereby transfer, grant, convey, assign and relinquish solely and exclusively to WeFi all of your right, title and interest in and to the feedback, without reservation and without additional consideration, under applicable patent, copyright, trade secret, trademark and other similar laws or rights, in perpetuity, and in the alternative to the extent such assignment is ineffective under applicable law, you hereby grant to WeFi the sole and exclusive, irrevocable, sublicensable, transferable, worldwide, paid-up license to reproduce, fix, adapt, modify, translate, reformat, create derivative works from, manufacture, introduce into circulation, publish, distribute, sell, license, sublicense, transfer, rent, lease, transmit, publicly display, publicly perform, provide access to electronically, broadcast, communicate to the public by telecommunication, display, enter into computer memory, and use and practice the feedback all modified and derivative works thereof, all portions and copies thereof in any form, all inventions, designs, and marks embodied therein, and all patent, copyright, trade secret, trademark and other intellectual property rights thereto, or to incorporate the same in other works in any form, media, or technology now known or later developed. To the extent permitted by applicable laws, you hereby waive any moral rights or rights of publicity or privacy you may have in the feedback.
 
-* ## DISCLOSURE OF PERSONAL INFORMATION
+* ### DISCLOSURE OF PERSONAL INFORMATION
 
 Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties, unless you ask or authorize us to do so. We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the WeFi Services and to help us communicate with the WeFi Members. However, these service providers do not have any independent right to share this information (expect pursuant to a legal requirement such as a subpoena or warrant).
 
@@ -95,7 +95,7 @@ If our company or our assets are acquired by another company, that company will 
 
 We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend the rights or property of us, users and visitors of our Website or Services, or third parties.
 
-* ## YOUR CHOICES REGARDING YOUR PERSONAL INFORMATION
+* ### YOUR CHOICES REGARDING YOUR PERSONAL INFORMATION
 
 We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to **"opt-out"** by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). If you wish to remove your Access Point as it has been mapped by a WeFi Member, please contact us at [](mailto:support@wefi.com "Send mail to support@wefi.com") and your site will be removed from the database.
 
@@ -107,7 +107,7 @@ Subject to security and privacy concerns (e.g., regarding your password and cred
 
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us at [support@wefi.com](mailto:support@wefi.com "Send mail to support@wefi.com").
 
-* ## REGARDING CHILDREN
+* ### REGARDING CHILDREN
 
 Our Website, Services and/or the WeFi Software are not directed toward anyone under the age of 13. If you are under the age of 13, you may not give us any Personal Information, you may not create WeFi Profile ore register on our Website or through the WeFi Software, and you may not sign up for or participate in any of our Services. Except as may be required by law, we will not knowingly collect, maintain, or disclose any Personal Information from children under the age of 13. If you are between the ages of 13 and 18, please let your parent or guardian know about this Privacy Policy and get his or her permission before you give us any of your Personal Information, before you sign up or participate in any of our Services or use the WeFi Software. Do not disclose your real name on publicly available sections of the WeFi Services, and never tell anyone online anything private about yourself or your family, including your phone number and address. We encourage parents and guardians to spend time online with their children to become familiar with the types of content available on the Internet, including our Website. Parents and guardians should regularly oversee their children’s use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids.
 
@@ -115,25 +115,25 @@ If you are a parent or guardian who has discovered that your child has submitted
 
 We do not intentionally gather Personal Information about visitors or users who are under the age of 13. If you believe that we have collected Personal Information about a visitor or user who is under the age of 13, please contact WeFi at [support@wefi.com](mailto:support@wefi.com "Send mail to support@wefi.com"), and such WeFi Profile will be deleted.
 
-* ## OTHER SITES
+* ### OTHER SITES
 
 Our provision of links to other websites or locations is for your convenience and does not signify our endorsement of such other websites or location or its contents. Links to other websites or locations may also be posted by other WeFi Members. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. If you are concerned about the privacy policy of a certain third party, you may contact them directly or visit their individual web sites to learn more about their individual privacy policies.
 
-* ## SECURITY
+* ### SECURITY
 
 We recognize our responsibility to protect the Personal Information you entrust to us. We use reasonable administrative, technical, personnel and physical measures to safeguard your Personal Information in our possession against loss, theft and unauthorized use, disclosure or modification. We store Personal Information provided by our online visitors and users of our Services and WeFi Software in a database that is accessible by authorized employees only on a need-to-know basis in a secure physical environment behind a firewall. A password will be required from you and any authorized WeFi employee who has access to your data prior to gaining access. Whenever you give WeFi sensitive or confidential information, such as credit card numbers, we will use standard encryption technology when transferring or receiving such information to ensure that your privacy is protected. Unless otherwise specified herein or on the site where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes. In addition, we also use reasonable methods to make sure that your Personal Information is accurate, up-to-date and appropriately complete.
 
 While we take precautions against possible breaches in our Website and customer databases, no website or Internet transmission is completely secure. Accordingly, we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur and cannot be held liable for any unauthorized access or use of the data you have supplied to us. Your use of our Website, Services and/or the WeFi Software is at your own risk. We urge you to take steps to protect your Personal Information when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure Internet browser.
 
-* ## CONTACT US
+* ### CONTACT US
 
 If you think that the use of your Personal Information is not in alignment with the purpose for which you have provided it to WeFi, as described in this Privacy Policy, or if you have any questions or suggestions regarding this Privacy Policy, please contact us at [support@wefi.com](mailto:support@wefi.com "Send mail to support@wefi.com"). We will duly process your questions, requests and suggestions.
 
-* ## TERMS OF SERVICE
+* ### TERMS OF SERVICE
 
-The terms of this Privacy Policy are incorporated into our Terms of Service. Please review our Terms of Service <http://www.wefi.com/TOS/>.
+The terms of this Privacy Policy are incorporated into our Terms of Service. Please review our Terms of Service [http://www.wefi.com/terms/](https://web.archive.org/terms/ "WeFi's Terms of Service").
 
-* ## PRIVACY POLICY UPDATES
+* ### PRIVACY POLICY UPDATES
 
 This Privacy Policy is subject to occasional re vision, and changes will be posted on this page. If we make any substantial changes in the way we use or disclose your Personal Information, we will notify you at the email address listed in your WeFi Profile and obtain your consent to a change in the use or disclosure of your Personal Information. Please check back from time to time to ensure you are aware of any such notices of changes in our privacy practices. Your continued use of our Website, Services and/or WeFi Software will signify your acceptance of these changes. If you object to any such changes, we will delete your WeFi Profile.
 
