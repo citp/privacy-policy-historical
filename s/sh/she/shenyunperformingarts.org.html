@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shenyunperformingarts.org privacy policy that was archived on 2011-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103132351id_/http%3A//www.shenyunperformingarts.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shenyunperformingarts.org privacy policy that was archived on 2012-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602011828id_/http%3A//www.shenyunperformingarts.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,6 +12,8 @@
 <link rel="stylesheet" type="text/css" href="/css/en-us/front.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.tinyscrollbar.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.vticker.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery/jquery.tools.scrollable.min.js"></script>
 
 <script type="text/javascript" charset="utf-8">
@@ -48,7 +50,7 @@ $(document).ready(function() {
 	}
 
 	var dropdownConfig = {
-		interval: 50,
+		interval: 20,
 		sensitivity: 4,
 		over: showGlobalLangMenu,
 		timeout: 100,
@@ -57,11 +59,55 @@ $(document).ready(function() {
 
 	$("#global-lang-text").hoverIntent(dropdownConfig);
 
-	
+	           
+        function showOriginalImage() {
+            $(this).attr("src", $(this).attr("src").replace("-over", "-original"));
+        }
+        function showOverImage() {
+            $(this).attr("src", $(this).attr("src").replace("-original", "-over"));
+        }
+	var imageConfig = {
+		interval: 50,
+		sensitivity: 4,
+		over: showOverImage,
+		timeout: 150,
+		out: showOriginalImage
+	};
+        $("#image_ticket_finder").hoverIntent(imageConfig);
+        $("#image_ticket-map_finder").hoverIntent(imageConfig);
+        $("#footer-new-to-shen-yun").hoverIntent(imageConfig);
+        
+        function showPopup() {
+            $('#'+$(this).attr("id")+'-dropdown').show();
+        }
+        function hidePopup() {
+            $('#'+$(this).attr("id")+'-dropdown').hide();
+        }
+	var popupConfig = {
+		interval: 20,
+		sensitivity: 4,
+		over: showPopup,
+		timeout: 100,
+		out: hidePopup
+	};        
+        $("#menu-select-city").hoverIntent(popupConfig);
+        $('#menu-select-city-dropdown').show();
+        $('#scrollable-city-list').tinyscrollbar();
+        $('#menu-select-city-dropdown').hide();
+        
+        //highlights vertical slide
+        $('#footer-highlight-text').vTicker({
+            speed: 500,
+            pause: 3000,
+            showItems: 1,
+            animation: 'fade',
+            mousePause: false,
+            height: 0,
+            direction: 'up'
+        });
 });
 
 </script>
-
 
 
 </head>
@@ -73,57 +119,75 @@ $(document).ready(function() {
 
     	<div id="top-nav-clean">
             <div id="top-logo-link">
-                <a href="/">
-                	<img src="/image/front/en-us/top-logo-link-bg.jpg" height="59" width="1000" alt="Home" title="Home">
-                </a>
+                <div id="top-logo-left">
+                    <img src="/image/front/trans.gif" height="59" width="100%" alt="Home" title="Home">
+                </div>
+                <div id="top-logo-center">
+                    <a href="/"><img src="/image/front/trans.gif" height="59" width="100%" alt="Home" title="Home"></a>
+                </div>
+                <div id="top-logo-right">
+                    <form method="get" action="/search">
+                        <div id="top-search">
+                            <input type="text" name="q" id="top-search-keyword" value="Search" onfocus="searchOnFocus()" onblur="searchOnBlur()">
+                            <script type="text/javascript">
+                                function searchOnFocus () {
+                                    if ($('#top-search-keyword').val()=='Search') {
+                                        $('#top-search-keyword').val('');
+                                    }
+                                }
+
+                                function searchOnBlur () {
+                                    if ($('#top-search-keyword').val()=='') {
+                                        $('#top-search-keyword').val('Search');
+                                    }
+                                }
+                            </script>
+                        </div>
+
+                        <div id="top-search-button">
+                            <input type="image" src="/image/front/trans.gif" height="22" width="24" title="Submit">
+                        </div>
+                    </form>
+                </div>
             </div>
 
 
 
             <div id="top-log-nav-wrapper">
 
-                                        <div id="menu-shenyun2012" class="hand">
+                <div id="menu-ticket-finder" class="hand">
+                    <a href="/tickets/list"><img id="image-ticket-finder" alt="Ticket finder" title="Ticket finder" style="vertical-align: top;" src="/image/front/en-us/menu-ticket-finder-original.png" border="0"></a>
+                    <a href="/tickets/world-map"><img id="image_ticket-map_finder" alt="World Map" title="World Map" src="/image/front/menu-ticket-map-original.png" border="0"></a>
+                </div>
 
-                        <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="170" height="75">
-                        <param name="movie" value="/flash/SY2012.swf">
-                        <param name="quality" value="high">
-                        <param name="wmode" value="transparent">
-                        <param name="swfversion" value="6.0.65.0">
-                        <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don't want users to see the prompt. -->
-                        <param name="expressinstall" value="Scripts/expressInstall.swf">
-                        <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
-
-                        <!--[if !IE]>-->
-                        <object type="application/x-shockwave-flash" data="/flash/SY2012.swf" width="170" height="75">
-                          <!--<![endif]-->
-                          <param name="quality" value="high">
-                          <param name="wmode" value="transparent">
-                          <param name="swfversion" value="6.0.65.0">
-                          <param name="expressinstall" value="Scripts/expressInstall.swf">
-                          <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
-                          <div>
-
-                                <a href="/shenyun2012">
-                                    <img alt="Shen Yun 2012" title="Shen Yun 2012" src="/image/front/en-us/menu-shenyun2012.png">
-                                </a>
-
-                          </div>
-                          <!--[if !IE]>-->
-
-                        </object>
-                        <!--<![endif]-->
-                      </object>
+                <div id="menu-select-city">
+                    <a href="/tickets/list"><img id="menu-select-city-button" class="hand" src="/image/front/en-us/tickets-select-city-button.jpg" border="0"></a>
+                    <div id="menu-select-city-dropdown" style="display:none">
+                        <div class="content">
+                            <div style="color: #5c3d8c; font-weight: bold; font-size: 12px; margin-bottom: 8px;">You may be interested in...</div>
+                            <div style="color: #000000; font-size: 13px; font-weight: bold; line-height: 18px;">
+                                                                <a class="hand" href="/city/chicago">Chicago</a><br>
+                                                                <a class="hand" href="/city/hamilton">Hamilton</a><br>
+                                                                <a class="hand" href="/city/newbrunswick">New Brunswick</a><br>
+                                                            </div>
+                            <hr style="height:2px; border: 0; color: #D0BB68; background-color: #D0BB68; width: 100%">
+                        
+                            <div id="scrollable-city-list">
+                                <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+                                <div class="viewport">
+                                    <div class="overview">
+                                                                                <div style="width: 90px; float: left; margin-right:20px; font-size: 11px; line-height: 19px;">
+                                            <span class="title">United States</span><br><a href="/city/atlanta">Atlanta</a><br><a href="/city/augusta">Augusta</a><br><a href="/city/austin">Austin</a><br><a href="/city/boston">Boston</a><br><a href="/city/buffalo">Buffalo</a><br><a href="/city/Chattanooga">Chattanooga</a><br><a href="/city/chicago">Chicago</a><br><a href="/city/cincinnati">Cincinnati</a><br><a href="/city/columbus">Columbus</a><br><a href="/city/dallas">Dallas</a><br><a href="/city/Dayton">Dayton</a><br><a href="/city/denver">Denver</a><br><a href="/city/detroit">Detroit</a><br><a href="/city/eugene">Eugene</a><br><a href="/city/fort-lauderdale">Fort Lauderdale</a><br><a href="/city/greenville">Greenville</a><br><a href="/city/honolulu">Honolulu</a><br><a href="/city/houston">Houston</a><br><a href="/city/indianapolis">Indianapolis</a><br><a href="/city/kansas-city">Kansas City</a><br><a href="/city/little-rock">Little Rock</a><br><a href="/city/los-angeles">Los Angeles</a><br><a href="/city/costa-mesa">Los Angeles (Costa Mesa)</a><br><a href="/city/madison">Madison</a><br><a href="/city/memphis">Memphis</a><br><a href="/city/minneapolis">Minneapolis</a><br><a href="/city/nashville">Nashville</a><br><a href="/city/newbrunswick">New Brunswick</a><br><a href="/city/new-york">New York</a><br><a href="/city/park-city">Park City</a><br><a href="/city/philadelphia">Philadelphia</a><br><a href="/city/phoenix">Phoenix</a><br><a href="/city/pittsburgh">Pittsburgh</a><br><a href="/city/providence">Providence</a><br><a href="/city/raleigh">Raleigh</a><br><a href="/city/rochester">Rochester</a><br><a href="/city/san-antonio">San Antonio</a><br><a href="/city/escondido">San Diego (Escondido)</a><br><a href="/city/san-francisco">San Francisco</a><br><a href="/city/seattle">Seattle</a><br><a href="/city/st-louis">St. Louis</a><br><a href="/city/st-petersburg">St. Petersburg</a><br><a href="/city/tampa">Tampa</a><br><a href="/city/toledo">Toledo</a><br><a href="/city/washington-dc">Washington, DC</a><br><a href="/city/waterbury">Waterbury</a><br><a href="/city/worcester">Worcester</a><br>                                        </div>
+                                        <div style="width: 90px; float: left; font-size: 11px; line-height: 19px;">
+                                            <span class="title">Canada</span><br><a href="/city/calgary">Calgary</a><br><a href="/city/edmonton">Edmonton</a><br><a href="/city/hamilton">Hamilton</a><br><a href="/city/kitchener-waterloo">Kitchener-Waterloo</a><br><a href="/city/mississauga">Mississauga</a><br><a href="/city/montreal">Montreal</a><br><a href="/city/ottawa">Ottawa</a><br><a href="/city/regina">Regina</a><br><a href="/city/toronto">Toronto</a><br><a href="/city/vancouver">Vancouver</a><br><br><span class="title">Europe</span><br><a href="/city/berlin">Berlin</a><br><a href="/city/frankfurt">Frankfurt</a><br><a href="/city/london">London</a><br><a href="/city/paris">Paris</a><br><a href="/city/stockholm">Stockholm</a><br><a href="/city/the-hague">The Hague</a><br><a href="/city/Zurich">Zürich</a><br><br><span class="title">Australia</span><br><a href="/city/auckland">Auckland</a><br><a href="/city/canberra">Canberra</a><br><a href="/city/melbourne">Melbourne</a><br><a href="/city/sydney">Sydney</a><br><a href="/city/wellington">Wellington</a><br><br><span class="title">Asia</span><br><a href="/city/anyang">Anyang</a><br><a href="/city/chiayi">Chiayi</a><br><a href="/city/daegu">Daegu</a><br><a href="/city/daejeon">Daejeon</a><br><a href="/city/hiroshima">Hiroshima City</a><br><a href="/city/kaohsiung_gushan">Kaohsiung Gushan</a><br><a href="/city/Kaohsiung_lingya">Kaohsiung Lingya</a><br><a href="/city/nagoya">Nagoya</a><br><a href="/city/nishinomiya">Nishinomiya City</a><br><a href="/city/taichung">Taichung City</a><br><a href="/city/tainan">Tainan City</a><br><a href="/city/taipei">Taipei</a><br><a href="/city/taoyuan">Taoyuan City</a><br><a href="/city/Tokyo">Tokyo</a><br><br><span class="title"></span><br><a href="/city/"></a><br>                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    
+                </div>
 
-                                            <ul id="top-nav-clean-menu">
-                            <li class="has-dropdown">
-                                                                            <a href="/tickets/list" class="tickets ">Tickets</a>
-
-
-                                    
-                            </li>
-
+                        <ul id="top-nav-clean-menu">
                             <li class="has-dropdown">
                                     <a href="/company/about-the-company" class="about-us ">ABOUT US</a>
                                     <div class="dropdown-wrapper" id="dropdown-about-us">
@@ -133,7 +197,8 @@ $(document).ready(function() {
                                         <p><a href="/artists">Meet the Artists</a></p>
                                         <p><a href="/frequently-asked-questions">Frequently Asked Questions</a></p>
                                         <p><a href="/press-releases">Press Releases</a></p>
-
+					<p><a href="/shen-yun-openings">Employment Opportunities</a></p>
+                                        <div class="vspace10">&nbsp;</div>
                                     </div>
                             </li>
 
@@ -148,7 +213,7 @@ $(document).ready(function() {
                                         <p><a href="/learn/category/index/level-one/g01erf6Soxk">Shen Yun Costumes</a></p>
 
                                         
-                                        <p><a href="/learn/category/index/level-one/OpmubUhdd0g">Digital Projection</a></p>
+                                        <p><a href="/learn/category/index/level-one/OpmubUhdd0g">Digital Projection </a></p>
 
                                                                                 </div>
                                         <div id="learn-dropdown-col-2">
@@ -157,6 +222,7 @@ $(document).ready(function() {
                                         <p><a href="/learn/category/index/level-one/ZiksLpcpL8A">Stories and History</a></p>
                                         <p><a href="/learn/category/index/level-one/ItNLnxh8WBE">Shen Yun and Traditional<br>Chinese Culture</a></p>
                                         </div>
+                                        <div class="vspace10">&nbsp;</div>
                                     </div>
                             </li>
 
@@ -165,17 +231,17 @@ $(document).ready(function() {
                                     <a href="/videos" class="videos ">VIDEOS</a>
                             </li>
 
-                                                        <li class="has-dropdown">
+                            <li class="has-dropdown">
                                     <a href="/news" class="news ">NEWS</a>
                                     <div class="dropdown-wrapper" id="dropdown-news">
                                         <div class="vspace10">&nbsp;</div>
                                         <p><a href="/news">News</a></p>
                                         <p><a href="/blog">Blog</a></p>
                                         <p><a href="/reviews">Reviews</a></p>
-
+                                        <div class="vspace10">&nbsp;</div>
                                     </div>
                             </li>
-                            
+
                             <li>
                                     <a href="https://www.shenyunperformingarts.org/support" class="support-us ">SUPPORT US</a>
                             </li>
@@ -187,9 +253,6 @@ $(document).ready(function() {
                             -->
 
                         </ul>
-                    
-
-
 
                     <div id="lang-separator"></div>
 
@@ -202,7 +265,7 @@ $(document).ready(function() {
                                     </div>
 
                                     
-                                    <div class="global-lang-popup-wrapper" id="global-lang-popup" style="height:330px">
+                                    <div class="global-lang-popup-wrapper" id="global-lang-popup" style="height:360px">
                                             <div class="global-lang-popup-item">
                                                     <p class="current">
                                                                                                                         English
@@ -287,6 +350,13 @@ $(document).ready(function() {
                                                                                                                 </p>
                                             </div>
 
+                                            <div class="global-lang-popup-item">
+                                                    <p>
+                                                                                                                        <a href="http://vi.shenyunperformingarts.org/privacy-policy?lang=vi">
+                                                                                                                        Việt
+                                                                                                                        </a>
+                                                                                                                </p>
+                                            </div>
 
 
                                     </div>
@@ -298,7 +368,7 @@ $(document).ready(function() {
 
         </div>
 
-		        <!-- end #header -->
+                <!-- end #header -->
     </div>
 
     <div id="body" class="body body-privacy-policy-v2">
@@ -323,7 +393,8 @@ Privacy Policy&nbsp;›&nbsp;
 					</div> 
 					
 					<div class="page-toptabs-2col-lbrs-content-left page-toptabs-2col-lbrs-content-left-privacy-policy-v2">
-	
+                                            
+						
 												<div class="page-toptabs-2col-lbrs-content-page-title">
 							Privacy Policy						</div>
 							
@@ -383,8 +454,9 @@ Privacy Policy&nbsp;›&nbsp;
 .page-toptabs-2col-lbrs-content-right-block-get-ticket {
 	background: #FFFFFF url(/image/front/right-block-bg-get-ticket.jpg) no-repeat scroll left top;
 }
-
 </style>
+
+
 					<div class="page-toptabs-2col-lbrs-content-right-block-yellow">
 						<div id="right-block-get-tickets-title">Tickets</div>
 						
@@ -401,7 +473,7 @@ Privacy Policy&nbsp;›&nbsp;
 						<div id="right-block-select-country">
 					        <select name="country-right-col" id="country-right-col">
 						    	<option value="0">Your Country</option>
-					            <option value="14">Australia</option><option value="37">Canada</option><option value="56">Germany</option><option value="194">Sweden</option><option value="229">United States</option>						    </select>
+					            <option value="14">Australia</option><option value="37">Canada</option><option value="74">France</option><option value="56">Germany</option><option value="112">Japan</option><option value="163">Netherlands</option><option value="168">New Zealand</option><option value="120">South Korea</option><option value="194">Sweden</option><option value="42">Switzerland</option><option value="223">Taiwan</option><option value="227">United Kingdom</option><option value="229">United States</option>						    </select>
 						</div>
 						
 						<div class="clearNoFloat"></div>
@@ -446,6 +518,7 @@ $(document).ready(function() {
 });		
 
 </script>
+
 					<div class="vspace10"></div>
 					<div class="vspace10"></div>
 					<div class="vspace10"></div>
@@ -462,28 +535,30 @@ Shadowbox.init();
 					<div id="page-toptabs-2col-lbrs-content-right-block-intro-video">
 			            <div id="column-right-shenyun-intro-video-link">
 			                <a href="http://media1.shenyunperformingarts.org/video/2010/ShenYunIntro2011_EN_640X360.mp4" rel="shadowbox;height=450;width=600">
-			                	<img src="/image/front/trans.gif" height="170" width="300">
+			                	<img src="/image/front/trans.gif" height="165" width="299">
 			                </a>
 			            </div>
 
 					
 						<div id="page-toptabs-2col-lbrs-content-right-block-intro-video-watch-link">
 							<a href="http://media1.shenyunperformingarts.org/video/2010/ShenYunIntro2011_EN_640X360.mp4" rel="shadowbox;height=450;width=600">
-								Watch Shen Yun Introduction&nbsp;»
-							</a>
+							Watch Shen Yun Introduction							</a>
 						</div>
-						<div id="page-toptabs-2col-lbrs-content-right-block-intro-video-more-link">
+						<!-- <div id="page-toptabs-2col-lbrs-content-right-block-intro-video-more-link">
 							<a href="/videos">
-								Watch more videos&nbsp;»
+								Watch more videos&nbsp;&raquo;
 							</a>
-						</div>						
+						</div>	-->					
 					</div>
 					
 				    <div style="display:none">
-				    	<img src="/image/front/column-right-shenyun-intro-video-bg.jpg">
-				    	<img src="/image/front/column-right-shenyun-intro-video-bg-mouseover.jpg">
+					<!--
+				    	<img src="/image/front/column-right-shenyun-intro-video-bg.jpg" />
+				    	<img src="/image/front/column-right-shenyun-intro-video-bg-mouseover.jpg" />
+				    	-->
 				    </div>	
 <script>
+/*
 var right_col_video_mouse_config = {
 		interval: 0,
 		sensitivity: 4,
@@ -503,9 +578,11 @@ function right_col_video_mouse_over () {
 
 function right_col_video_mouse_out () {
 	$('#page-toptabs-2col-lbrs-content-right-block-intro-video').css('background', 'url(/image/front/column-right-shenyun-intro-video-bg.jpg)');
+*/
 }
 
 </script> 					
+
 					<div class="vspace10"></div>
 					<div class="vspace10"></div>
 					<div class="vspace10"></div>
@@ -794,87 +871,184 @@ function storeAddress() {
 	<!-- end #body -->
 
 
-
 <div id="footer">
     <div id="footer-content">
-        <div id="footer-content-page-links">
+        <div id="footer_content-upper">
+
+            <div id="footer-content-highlights">
+                <div style="float: left; width: 100px; margin-top: 2px; margin-left: 10px;">
+                    <img src="/image/front/en-us/highlights-title.png" border="0" alt="Highlights">
+                </div>
+                
+                <div style="float: left; width: 300px; height: 400px;" id="footer-highlight-text">
+                    <ul style="list-style-type:none; margin: 0; padding: 0; line-height: 18px;">
+                        			<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/_juOHNN4OtA/type/news" style="color: #522d7b"><b>Shen Yun’s 2012 Season Comes to a Close</b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/bXMBWrnnRKU/type/news" style="color: #522d7b"><b>Asia-Pacific Bids Farewell to Shen Yun</b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/7_SWf8biAu4/type/news" style="color: #522d7b"><b>More Shows to Meet US Demand</b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/LC2HsDTANd8/type/news" style="color: #522d7b"><b>Magic 7: Shen Yun Packs Lincoln Center </b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/4q7CrIn3uKQ/type/news" style="color: #522d7b"><b>Feature Interview: Principal Dancer Cindy Liu</b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/O7MQuVZZt38/type/news" style="color: #522d7b"><b>European Parliament Vice-President Welcomes Shen Yun</b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/sYRIoUN_M4A/type/blog" style="color: #522d7b"><b>Inner Peace</b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/tRuO4GNAwp4/type/review" style="color: #522d7b"><b>Former Director of UNESCO ‘s International Bureau of Education: “the truth of Chinese culture” </b></a>
+			</li>
+						<li style="font-size:14px; color: #522d7b">
+			<a href="/content/read/item/m1JU9TxQP7w/type/review" style="color: #522d7b"><b>Mainland Chinese Stage Director: ‘Never Seen Such Purity’</b></a>
+			</li>
+			                    </ul>
+                </div>
+            </div>
+            
+            <div id="footer-content-seperator"></div>
+            
+            <div id="footer-content-guestbook" style="padding-top: 2px;">
+                <a href="/guestbook" class="hand"><img src="/image/front/en-us/guestbook-title.png" border="0" alt="Guestbook"> </a>
+                <div id="footer-content-share-your-experience"><a href="/guestbook" style="color: #522d7b">Share Your Experience</a></div>
+            </div>
+            
+            <div id="footer-content-subscription">
+                <form id="subscription" method="get">
+                    <a onclick="bottomStoreAddress(); return false;" class="hand"><div id="bottom-subscription">
+                        <input type="text" name="subscriptionEmail" id="bottom-subscription-email" value="Enter your email" onfocus="bottomSubscribeOnFocus()" onblur="bottomSubscribeOnBlur()" onkeypress="return bottomNewsletterOnEnter(event);">
+                        <script type="text/javascript">
+                            function bottomSubscribeOnFocus () {
+                                if ($('#bottom-subscription-email').val()=='Enter your email') {
+                                    $('#bottom-subscription-email').val('');
+                                }
+                            }
+
+                            function bottomSubscribeOnBlur () {
+                                if ($('#bottom-subscription-email').val()=='') {
+                                    $('#bottom-subscription-email').val('Enter your email');
+                                }
+                            }
+			    
+			    function bottomNewsletterOnEnter(evt) {
+				var keyCode = null;
+				if( evt.which ) {
+				    keyCode = evt.which;
+				} else if( evt.keyCode ) {
+				    keyCode = evt.keyCode;
+				}
+				if( 13 == keyCode ) {
+				    bottomStoreAddress();
+				    return false;
+				}
+				else {
+				    return true;
+				}
+			    }
+
+                            function isValidEmailAddress(emailAddress) {
+                                var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                                return pattern.test(emailAddress);
+                            }
+                            // AJAX call sending sign up info to store-address.php
+                            function bottomStoreAddress() {
+                                if ($.trim($("#bottom-subscription-email").val())=="") {
+                                        $("#footer-content-subscriptionResponse").html("Please enter your email address.");
+                                        return false;
+                                }
+
+                                if (!isValidEmailAddress($("#bottom-subscription-email").val())) {
+                                        $("#footer-content-subscriptionResponse").html("Sorry, the email address you entered is invalid.");
+                                        return false;
+                                }
+
+                                $('footer-content-subscriptionResponse').html = 'Processing your request...';
+
+                                $.ajax({
+                                         type: "get",
+                                         url: "/newsletter/index",
+                                         data: "ajax=true&email=" + $("#bottom-subscription-email").val(),
+                                         success: function(data){
+                                                $("#footer-content-subscriptionResponse").css('color','red').html(data);
+                                                $('#bottom-subscription-email').val('');
+                                         }
+                                });
+                              }
+                        </script>
+                    </div></a>
+
+                    <div id="bottom-subscription-button">
+                        <input type="image" src="/image/front/trans.gif" height="22" width="22" onclick="bottomStoreAddress(); return false;" title="Submit">
+                    </div>
+                </form>
+               
+                <div id="footer-content-subscriptionResponse">Subscribe to our newsletter</div>
+                <div style="margin: 15px 2px 0 0; float: right">
+                    <a href="/facebook"><img src="/image/front/sm-fb.png" border="0" alt="Facebook"></a>
+                    <a href="/twitter"><img src="/image/front/sm-tw.png" border="0" alt="Twitter"></a>
+                    <a href="/youtube"><img src="/image/front/sm-yt.png" border="0" alt="Youtube"></a>
+                </div>
+            </div>
+        </div>
+        <div class="clearNoFloat">&nbsp;</div>
+        <div><img src="/image/front/footer-divider.png" border="0" alt="footer divider"></div>
+        <div class="vspace10">&nbsp;</div>
+        <div id="footer-content-lower">
             <div id="footer-content-page-links-small">
                 <a href="/company/about-the-company">About Us</a>
                 &nbsp;·&nbsp;
                 <a href="/contact-us">Contact Us</a>
                 &nbsp;·&nbsp;
+
+                <a href="/shen-yun-openings">Employment Opportunities</a>
+                &nbsp;·&nbsp;
+
                 <a href="/terms-and-conditions">Terms &amp; Conditions</a>
                 &nbsp;·&nbsp;
+                
                 <a href="/privacy-policy">Privacy Policy</a>
                 &nbsp;·&nbsp;
+                
                 <a href="/site-map">Site Map</a>
 
-
                             </div>
-
-                        <div id="footer-content-page-links-small-right">
-
-                <a href="/guestbook"><b>Audience Guestbook</b></a>
-
-
-            </div>
-                    </div>
-
-        <div id="footer-content-page-misc">
-            <div id="footer-content-page-search">
-
-                <form method="get" action="/search">
-                    <div id="top-search">
-                        <input type="text" name="q" id="top-search-keyword" value="Search" onfocus="searchOnFocus()" onblur="searchOnBlur()">
-                        <script type="text/javascript">
-                            function searchOnFocus () {
-                                if ($('#top-search-keyword').val()=='Search') {
-                                    $('#top-search-keyword').val('');
-                                }
-                            }
-
-                            function searchOnBlur () {
-                                if ($('#top-search-keyword').val()=='') {
-                                    $('#top-search-keyword').val('Search');
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div id="top-search-button">
-                        <input type="image" src="/image/front/trans.gif" height="22" width="24" title="Submit">
-                    </div>
-                </form>
-
-            </div>
-
-
-            <div style="display:none">
-                <!-- preload dropdown backgrounds -->
-                <img src="/image/front/menu-dropdown-bg-news.png">
-                <img src="/image/front/menu-dropdown-bg-learn.png">
-                <img src="/image/front/menu-dropdown-bg-about-us.png">
-                <img src="/image/front/global-lang-popup.png">
-                <img src="/image/front/menu-dropdown-bg-tours-and-tickets.png">
-
-
-            </div>
+            
+            <div id="footer-content-page-copyright">
+                Copyright ©2012 Shen Yun Performing Arts. All Rights Reserved.            </div>
 
         </div>
-
-        <div id="footer-content-page-copyright">
-            Copyright ©2011 Shen Yun Performing Arts. All Rights Reserved.        </div>
-
-
-
+        
     </div>
 
+    <div style="display:none">
+        <!-- preload dropdown backgrounds -->
+        <img src="/image/front/menu-dropdown-bg-news.png">
+        <img src="/image/front/menu-dropdown-bg-learn.png">
+        <img src="/image/front/menu-dropdown-bg-about-us.png">
+        <img src="/image/front/global-lang-popup.png">
+        <img src="/image/front/menu-dropdown-bg-tours-and-tickets.png">
+    </div>
+    
     <!-- end #footer -->
 </div>
 
 <!-- end #container -->
 </div>
 
+
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action, opt_label, opt_value) {
+    _gat._getTrackerByName()._trackEvent(category, action, opt_label, opt_value);
+    setTimeout('document.location = "' + link.href + '"', 500);
+  }
+</script>
 
 
 		<script type="text/javascript">
