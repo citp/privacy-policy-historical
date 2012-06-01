@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetipsblog.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525063420id_/http%3A//www.onlinetipsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetipsblog.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602004234id_/http%3A//www.onlinetipsblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tips Blog
 
@@ -30,3 +30,5 @@ DoubleClick has implemented security measures in order to protect information be
 
 Changes to this Privacy Policy  
 We amend the rights to change this privacy policy from time to time as we add new information. 
+
+Posted by Yogesh Patel   @   30 November 2009 0 comments
