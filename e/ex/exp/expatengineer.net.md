@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100853id_/http%3A//www.expatengineer.net/jobs.nsf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601090413id_/http%3A//www.expatengineer.net/jobs.nsf/privacy%3Fopenform) for the most accurate reproduction.*
 
-# Privacy Policy - Expat Engineer
+# Privacy Policy - Engineering Jobs - Expat Engineer
 
 This Privacy Policy applies to to all web sites owned and operated by ExpatJob.net Group, KCO Pty Ltd, (ABN 88 087 371 248) "KCO" is a private Australian company. KCO is bound by the National Privacy Principles of the Privacy Act, 1988 (Australia)
 
@@ -29,4 +29,4 @@ Upon request, KCO, will allow any user to "opt out" of further promotional conta
 
 The foregoing policies are effective as of Jan 1, 2002. KCO, reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-Any questions about this Privacy Statement can be directed to the KCO at info@expatjob.net. 
+Any questions about this Privacy Statement can be directed to KCO, by clicking [< **here** >](http://www.expatengineer.net/jobs.nsf/contact-us)
