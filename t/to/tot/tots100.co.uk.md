@@ -1,55 +1,37 @@
-> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231060338id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601231440id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | Tots 100
+# Privacy & Cookies | Tots 100
 
-**Privacy Policy**
+Tots100 and [Flea Enterprises](http://www.fleaenterprises.com/) are committed to protecting your privacy and security. From time to time we may ask you to supply personal information on this site to help us provide you with services, such as setting up a blog profile or a PR agency subscription, or subscribing to our email newsletters and competitions.
 
-This privacy policy sets out how F[lea Enterprises Ltd](http://fleaenterprises.com/ "Flea Enterprises") uses and protects information that you give us when you use this website.
+In order to deliver such services, we may store and process personal information. By submitting this information, you consent to such processing in connection with your Tots100/Flea Enterprises account, offers and services. We may contact you from time to time with information about your account, and important changes to our website and services.
 
-Flea Enterprises Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Subject to the terms below, we will not share your personal details with any third party without your consent. We may provide aggregate information about users, statistics, traffic patterns and site information to our partners, but we will never share any information from which you might be identified.
 
-Flea Enterprises Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2011.
+If you enter a competition on our website, we may share contact details with the promoters of the competition to ensure prizes can be delivered to winning site users.
 
-**What we collect**
+Flea Enterprises Ltd is not responsible for the web sites that are referred to or linked to from this website. When you visit these web sites your personal information might be used in ways that do not conform to this policy.
 
-We may collect the following information:
+**Cookies**
 
-  * Name
-  * contact information including email address
-  * details of your other online accounts, eg Twitter or Facebook
-  * demographic information such as region, preferences and interests
-  * other information relevant to customer surveys and/or offers
+When you visit the Tots100 or any Flea Enterprises website, we use “cookie” technology to improve your experience of the website. Cookies are small pieces of information that are issued to your computer or browsing device, which store information about your use of the website.
 
+Most cookies used on this site last only for the duration of your web session and will expire when you close your browser. Other cookies are used to remember your account details when you return to the website and may last for longer.
 
+**Flea Enterprises use cookies to:**
 
-**What we do with the information we gather**
+• create a specific log-in session for a visitor to the Tots100 website in order that services are delivered in an effective, secure and consistent manner;  
+• recognise when a visitor to the Tots100 website has visited before; this means we can identify the number of unique visitors we receive to the website;  
+• collect statistical information about how our visitors use the website so that we can improve the website and learn which parts are most popular to visitors; and
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser.
 
-  * Internal record keeping.
-  * If you opt-in to receive PR requests via the Tots100 we will forward promotional messages from our PR subscribers about new products, review opportunities or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may use the information to improve the website according to your interests.
+Please note that by blocking or deleting cookies used on a Flea Enterprises Ltd website you may lose access to some of the functionality of the website.
 
+**Feedback, Comments & Suggestions**
 
+If you have any queries about our privacy and cookies policy, please do not hesitate to contact us. Our address is Swift House, 6 Cumberland Close, Darwen, Lancs, BB3 2TR
 
-**Security**
+**Finally**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * If you have previously agreed to us using your personal information to help deliver PR requests, you may change your mind at any time by amending your profile within the Tots100
-
-
-
-We will not sell, distribute or otherwise share your personal information to third parties unless we are required by law to do so.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Flea Enterprises Limited, Swift House, 6 Cumberland Close, Darwen, Lancashire BB3 2TR
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+If you do not agree with this Privacy Policy you should not submit your personal information on this website. Please refer to the site’s [Terms and Conditions](http://www.tots100.co.uk/terms/)
