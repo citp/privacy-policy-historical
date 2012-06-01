@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinni.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224140853id_/http%3A//www.jinni.org/index.php%3Fview%3Dpage%26pagename%3Dprivacy%26PHPSESSID%3D210e660d158f661b6ba27617355efa10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinni.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601161259id_/http%3A//www.jinni.org/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # Jinni.org - Free Classifieds
 
