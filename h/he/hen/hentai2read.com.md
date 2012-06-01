@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentai2read.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202153708id_/http%3A//hentai2read.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentai2read.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601131431id_/http%3A//hentai2read.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | .: H2R – Enjoy a huge collection of erotic, ecchi, hentai manga :.
 
