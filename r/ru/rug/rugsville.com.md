@@ -1,38 +1,54 @@
-> *The following text is extracted and transformed from the rugsville.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609175119id_/http%3A//www.rugsville.com/index.asp%3Ffuse%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugsville.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601091538id_/http%3A//www.rugsville.com/store/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Rugsville
+# Privacy Policy
 
-**Privacy Policy**  
-The privacy of our customers is very important to us. We realize it is important for you (our customers) to feel safe online. We are fully committed to ensuring that your privacy is respected and protected. 
+**PRIVACY POLICY**
 
-We know that sharing data with third parties is an important and sensitive issue, and we will not compromise your trust by sharing personal information without your permission. We collect two types of information - Personal information (such as name, address, telephone number, e-mail address, company name, company address, mailing address, credit card number and expiration date and images to be processed, if you place an order with us), and Aggregate information (such as information about how many visitors visit our web site, the pages they access, time and day of the week these pages are accessed, the amount of time spent on a particular page, the exit page, and other similar information).
+Rugsville is committed to respecting the privacy rights of our customers and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to insure that none of your privacy rights as stated herein are ever violated. The following outlines Rugsville’s privacy policy and details the measures we have taken to safeguard and protect your privacy, while providing you with a unique and rewarding online shopping experience. By visiting Rugsville, you are agreeing to the policies detailed below. 
 
-Anka Designs (the "Company") will protect your Personal information that you share with us. The Company does not disclose, give, sell, trade, barter or transfer any Personal information to third parties. If we share information with third parties, we will give them only the Aggregate information (such as information about how many visitors visit our web site, the pages they access, time and day of the week these pages are accessed, the amount of time they spend on a particular page and other similar information). Personal information that is collected is kept in a location with restricted access. Access to this location is restricted via username, password protection. However, if you request us to forward the output copy to a medical specialist (plastic surgeon or dentist) of your choice, you are prompted to input their specific e-mail address at checkout. Additionally, the default is set to "No" and you will click "Yes" to enable this. Even so, only your first and last name and copy of the imaged output is forwarded to the e-mail address that you have input. 
+**What if i communicate with Rugsville electronically?**
 
-You do not have to give us personal information to visit our site. If you choose not to provide personal information, you can still visit AnkaDesigns.com web site. We collect, maintain and use personal information you have voluntarily submitted to contact you, including via email, to respond to your comments or requests for information, or to contact you in the course of processing your order or for sending the output. Under no circumstances will we use this information for anything else not described in this privacy notice.
+When you send an email to Rugsville or visit the web site, you are communicating with us electronically. When you send an email to Rugsville, you consent to receive communications from us electronically in response. Please note that this does not constitute opting in to our email or direct mail lists. Rugsville may communicate with you by email, by updating or posting notices on the web site. You agree that all agreements, notices, disclosure and other communications that Rugsville provides to you electronically satisfy any legal requirement that such communication be in writing. All communications with Rugsville become the property of Rugsville. 
 
-We issue cookies which are associated with your personally identifiable information. They are used for along with the aggregate information we collect to statistically analyze the collective characteristics and behavior of visitors to our site. AnkaDesigns.com measures the overall patron demographics and interests regarding specific areas of our site, and uses this information to allocate our resources most efficiently. 
+**What information does Rugsville collect?**
 
-Where we collect personal information you will have the option to “opt-out” from any future updates or information from us regarding products or services that might interest you. If you leave the box, Contact me in the future about additional offers or services, selected/check marked, then we may contact you regarding new features, site improvements, or for periodic marketing & promotional notices and introductions to new products or services. If you do not wish to receive such updates, you have the option to "opt out" by clicking the box and removing the check mark. Additionally, you will be able to opt-out of our marketing updates at any time by e-mailing us at [customer-service@AnkaDesigns.com](mailto:customer-service@AnkaDesigns.com)
+In order to serve you better, Rugsville collects and stores your personal information when you: (i) create an account (ii) sign up to be notified of special deals like discounts and exclusive offers; or (iii) enter a contest or promotion on our site. An account is created when you do one of following things: make a purchase on Rugsville, create a wish list on Rugsville, or register for an account on Rugsville, or enter certain Rugsville sweepstakes. When creating an account, we ask you for your first and last name, your e-mail address, a password, and perhaps some other similar information. If you are making a purchase, we will additionally ask you for your billing address, shipping address, and credit card information. 
 
-While the Company will make every attempt to protect the personal information that you share with us, electronic mail is not secure against interception. While AnkaDesigns.com strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. You acknowledge that you are aware of security and privacy limitations including but not limited to: limitation of security and that data or information may be subject to spoofing, sniffing, forgery, spamming, eavesdropping, hacking, system contamination and may be subject to other privacy or security hazards. 
+Our system also may gather information about the areas you visit on our site as well as the IP address you use to connect to our site. We may use this data internally only for 2 reasons: 1) to personalize your experience on Rugsville .com and the marketing materials you receive from Rugsville or its partners and 2) to prevent fraud on your account. We would not share any of this data on an individual basis (we may share it in an aggregate form without personal identifiers) with any outside company other than perhaps consultants or service providers of Rugsville who were assisting Rugsville in serving you better. We do not keep track of where you go on the World Wide Web. 
 
-You can access, review and/or correct your personally identifiable information that we collect online and maintain, by e-mailing us at [customer-service@AnkaDesigns.com](mailto:customer-service@AnkaDesigns.com). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows errors. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+**What does Rugsville do with this personal information?**
 
-If you have any questions about this Privacy Policy statement, the practices of this web site, or your dealings with this site, you can contact: 
+Your information is used to process your orders and personalize your shopping experience on Rugsville, for internal purposes and to comply with any legal requirements. By storing your personal information on a secure server, Rugsville is able to shorten your checkout process and allow you to check your order status online. 
 
-customer-service@AnkaDesigns.com
+At Rugsville, we also review what kinds of products appeal most to our customers as a group. This statistical information helps us improve our offering in the same way that other companies change their catalog based on what sells best. We may also use information about the kinds of products you buy from Rugsville to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers (for instructions on how to opt-out, please see below). 
 
-or mail us at:
+**Does Rugsville share any information it collects with outside parties?**
 
-Customer Service  
-Anka Designs  
-511 Blackstone Ct.  
-Danville, CA 94506  
-USA
+We may use your purchase information about the products you buy from Rugsville to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers (for instructions on how to opt-out, please see below). We may share this information with consultants or service providers to help Rugsville serve you better. Of course, to the extent that we would ever share any of that information with a consultant or service provider, we would only do so if that party agreed to protect your private information by adopting a privacy policy at least as stringent as our own. 
 
-**By using this website, you signify your acceptance of this Privacy Policy, and you adhere to the Terms of Use posted on the website. If you do not agree with any of these terms, please do not use this site or submit any personal information. If you choose to visit AnkaDesigns.com, your visit and any dispute over privacy is subject to this Notice and our[Terms of Use](https://web.archive.org/web/20040609175119id_/http%3A//www.rugsville.com/index.asp?fuse=terms), including limitations on damages, arbitration of disputes, and application of the law of the State of California. USE OF THIS WEBSITE CONSTITUTES YOUR ACCEPTANCE OF THE ABOVE TERMS. **
+**How does Rugsville safeguard my personal information?**
 
-Please check back for updates to this Privacy Policy statement.
+Rugsville has implemented a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in Rugsville’s database. 
 
-Last updated: April, 2003 
+**Does Rugsville provide a way to update or remove personal information?**
+
+Rugsville provides a my account feature on our website which allows you to modify and/or remove most of your personal information. This page can be accessed by clicking the account link at the top of every page on the site. Rest assured that all of your information within my account is secure and accessible only by you or limited Rugsville personnel. 
+
+**How does Rugsville use my e-mail address?**
+
+Your e-mail address is used to create and identify your account on Rugsville. Your e-mail address is also used by Rugsville to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. We may also use your e-mail address to notify you about important functionality changes to the Web site, new Rugsville services and special offers and promotions we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers and promotions. We offer a convenient unsubscribe option on our site as well, click here to unsubscribe. 
+
+**Does Rugsville use "cookies"?**
+
+A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, the internet provider's domain name and country that our visitors come and the addresses of the sites visited immediately before coming to and immediately after leaving Rugsville.com. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies lets us trace your "click stream" activity (i.e., the paths taken by visitors to our site as they move from page to page). Cookies do not capture your individual email address or any private information about you. 
+
+Rugsville may use third-party advertising companies to serve ads on our web site as well as third party companies to provide tracking and analysis of information and data collected from visitors to our web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and Rugsville reserves the right to provide that information and data to these third parties. 
+
+**Your consent**
+
+You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to Rugsville’s privacy policy. Rugsville reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+If you have any questions please contact [info@rugsville.com](mailto:info@rugsville.com). You can also call us at 1-800-717-0221 or by postal mail at the following:
+
+Rugsville.com  
+104 Constitution Dr.
