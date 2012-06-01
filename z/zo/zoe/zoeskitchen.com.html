@@ -1,369 +1,247 @@
-<!--The following is the downloaded HTML source of the zoeskitchen.com privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122015104id_/http%3A//zoeskitchen.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoeskitchen.com privacy policy that was archived on 2012-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601223235id_/http%3A//zoeskitchen.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Zoës Kitchen</title>
-	<link rel="stylesheet" type="text/css" href="/style.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+	Zoes Kitchen - privacy policy
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=zoes"> 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/App_Themes/zoes/js/redirection_mobile.js"></script>
+		<script type="text/javascript" src="/App_Themes/zoes/js/jquery-1.6.4.min.js"></script>
 
+	<script type="text/javascript" src="/App_Themes/zoes/js/jquery.main.js"></script>
 
+<script type="text/javascript">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript">
-<!--
+function checkEnter(e,linkvar,valuevar){ //e is event object passed from function invocation
+var characterCode //literal character code will be stored in this variable
 
-var cellName=null;
-var imageDir="/graphics/";
+if (e ==13)
+{
+characterCode =13;
+}
+else
+{
+if(e && e.which){ //if which property of event object is supported (NN4)
 
-//pre-load images if "Image" is defined
+e = e;
+characterCode = e.which; //character code is contained in NN4's which property
+}
+else{
+e = event;
 
+characterCode = e.keyCode //character code is contained in IE's keyCode property
+}}
 
-if(document.images)
-   {
-    var item_IMG_01_off = new Image();
-    item_IMG_01_off.src = imageDir+"bu_history.off.gif"; 
-    var item_IMG_01_on  = new Image();
-    item_IMG_01_on.src  = imageDir+"bu_history.on.gif";
+if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
+location.assign(linkvar+'list-view.aspx?address='+valuevar);
 
-    var item_IMG_02_off = new Image();
-    item_IMG_02_off.src = imageDir+"bu_locations.off.gif"; 
-    var item_IMG_02_on  = new Image();
-    item_IMG_02_on.src  = imageDir+"bu_locations.on.gif";
-
-    var item_IMG_03_off = new Image();
-    item_IMG_03_off.src = imageDir+"bu_nutrition.off.gif";
-    var item_IMG_03_on  = new Image();
-    item_IMG_03_on.src  = imageDir+"bu_nutrition.on.gif";
-    
-    var item_IMG_04_off = new Image();
-    item_IMG_04_off.src = imageDir+"bu_menu.off.gif";
-    var item_IMG_04_on  = new Image();
-    item_IMG_04_on.src  = imageDir+"bu_menu.on.gif";
-    
-    var item_IMG_05_off = new Image();
-    item_IMG_05_off.src = imageDir+"bu_opportunity.off.gif"; 
-    var item_IMG_05_on  = new Image();
-    item_IMG_05_on.src  = imageDir+"bu_opportunity.on.gif";
-   
-    var item_IMG_06_off = new Image();
-    item_IMG_06_off.src = imageDir+"bu_lifebook.off.gif"; 
-    var item_IMG_06_on  = new Image();
-    item_IMG_06_on.src  = imageDir+"bu_lifebook.on.gif";
-
-    var item_IMG_07_off = new Image();
-    item_IMG_07_off.src = imageDir+"bu_onow.off.gif"; 
-    var item_IMG_07_on  = new Image();
-    item_IMG_07_on.src  = imageDir+"bu_onow.on.gif";
-
-    var item_IMG_08_off = new Image();
-    item_IMG_08_off.src = imageDir+"bu_catering.off.gif";
-    var item_IMG_08_on  = new Image();
-    item_IMG_08_on.src  = imageDir+"bu_catering.on.gif";
-    
-    var item_IMG_09_off = new Image();
-    item_IMG_09_off.src = imageDir+"bu_card.off.gif";
-    var item_IMG_09_on  = new Image();
-    item_IMG_09_on.src  = imageDir+"bu_card.on.gif";
-    
-    var item_IMG_10_off = new Image();
-    item_IMG_10_off.src = imageDir+"bu_talk.off.gif"; 
-    var item_IMG_10_on  = new Image();
-    item_IMG_10_on.src  = imageDir+"bu_talk.on.gif";
-
-	var item_IMG_11_off = new Image();
-    item_IMG_11_off.src = imageDir+"bu_home.off.gif"; 
-    var item_IMG_11_on  = new Image();
-    item_IMG_11_on.src  = imageDir+"bu_home.on.gif";
-    
-  	var item_IMG_12_off = new Image();
-    item_IMG_12_off.src = imageDir+"bu_news.off.gif"; 
-    var item_IMG_12_on  = new Image();
-    item_IMG_12_on.src  = imageDir+"bu_news.on.gif";
-    
-    var item_IMG_13_off = new Image();
-    item_IMG_13_off.src = imageDir+"life_back.off.gif"; 
-    var item_IMG_13_on  = new Image();
-    item_IMG_13_on.src  = imageDir+"life_back.on.gif";
-
-	var item_IMG_14_off = new Image();
-    item_IMG_14_off.src = imageDir+"life_next.off.gif"; 
-    var item_IMG_14_on  = new Image();
-    item_IMG_14_on.src  = imageDir+"life_next.on.gif";
-    
-  	var item_IMG_15_off = new Image();
-    item_IMG_15_off.src = imageDir+"life_start.off.gif"; 
-    var item_IMG_15_on  = new Image();
-    item_IMG_15_on.src  = imageDir+"life_start.on.gif";
-    
-    var item_IMG_16_off = new Image();
-    item_IMG_16_off.src = imageDir+"morephotos.off.gif"; 
-    var item_IMG_16_on  = new Image();
-    item_IMG_16_on.src  = imageDir+"morephotos.on.gif";
-
-	var item_IMG_17_off = new Image();
-    item_IMG_17_off.src = imageDir+"bu_photos.off.gif"; 
-    var item_IMG_17_on  = new Image();
-    item_IMG_17_on.src  = imageDir+"bu_photos.on.gif";
-    
-    var item_IMG_18_off = new Image();
-    item_IMG_18_off.src = imageDir+"bu_jobs.off.gif"; 
-    var item_IMG_18_on  = new Image();
-    item_IMG_18_on.src  = imageDir+"bu_jobs.on.gif";
-
-    var item_IMG_19_off = new Image();
-    item_IMG_19_off.src = imageDir+"bu_media.off.gif"; 
-    var item_IMG_19_on  = new Image();
-    item_IMG_19_on.src  = imageDir+"bu_media.on.gif";
-
-    var item_IMG_20_off = new Image();
-    item_IMG_20_off.src = imageDir+"bu_fran.off.gif"; 
-    var item_IMG_20_on  = new Image();
-    item_IMG_20_on.src  = imageDir+"bu_fran.on.gif";
-	
-	var item_IMG_21_off = new Image();
-    item_IMG_21_off.src = imageDir+"bu_philosophy.off.gif"; 
-    var item_IMG_21_on  = new Image();
-    item_IMG_21_on.src  = imageDir+"bu_philosophy.on.gif";
-	
-	var item_IMG_22_off = new Image();
-    item_IMG_22_off.src = imageDir+"bu_corp.off.gif"; 
-    var item_IMG_22_on  = new Image();
-    item_IMG_22_on.src  = imageDir+"bu_corp.on.gif";
-	
-	var item_IMG_23_off = new Image();
-    item_IMG_23_off.src = imageDir+"bu_catprog.off.gif"; 
-    var item_IMG_23_on  = new Image();
-    item_IMG_23_on.src  = imageDir+"bu_catprog.on.gif";
-    
-	var item_IMG_24_off = new Image();
-    item_IMG_24_off.src = imageDir+"bu_gives.off.gif"; 
-    var item_IMG_24_on  = new Image();
-    item_IMG_24_on.src  = imageDir+"bu_gives.on.gif";
-    
-	var item_IMG_25_off = new Image();
-    item_IMG_25_off.src = imageDir+"bu_zcard.off.gif"; 
-    var item_IMG_25_on  = new Image();
-    item_IMG_25_on.src  = imageDir+"bu_zcard.on.gif";
-    
-	var item_IMG_26_off = new Image();
-    item_IMG_26_off.src = imageDir+"bu_catmen.off.gif"; 
-    var item_IMG_26_on  = new Image();
-    item_IMG_26_on.src  = imageDir+"bu_catmen.on.gif";
-    
-	var item_IMG_27_off = new Image();
-    item_IMG_27_off.src = imageDir+"bu_zmail.off.gif"; 
-    var item_IMG_27_on  = new Image();
-    item_IMG_27_on.src  = imageDir+"bu_zmail.on.gif";
-	
-	var item_IMG_28_off = new Image();
-    item_IMG_28_off.src = imageDir+"bu_team.off.gif"; 
-    var item_IMG_28_on  = new Image();
-    item_IMG_28_on.src  = imageDir+"bu_team.on.gif";
-	}
-
-function over(cellName) 
-    {
-     if(document.images) 
-       {
-        if(cellName == 'button1') {document[cellName].src = item_IMG_01_on.src;}
-        if(cellName == 'button2') {document[cellName].src = item_IMG_02_on.src;}
-        if(cellName == 'button3') {document[cellName].src = item_IMG_03_on.src;}
-        if(cellName == 'button4') {document[cellName].src = item_IMG_04_on.src;}
-        if(cellName == 'button5') {document[cellName].src = item_IMG_05_on.src;}
-        if(cellName == 'button6') {document[cellName].src = item_IMG_06_on.src;}
-        if(cellName == 'button7') {document[cellName].src = item_IMG_07_on.src;}
-        if(cellName == 'button8') {document[cellName].src = item_IMG_08_on.src;}
-        if(cellName == 'button9') {document[cellName].src = item_IMG_09_on.src;}
-        if(cellName == 'button10') {document[cellName].src = item_IMG_10_on.src;}
-        if(cellName == 'button11') {document[cellName].src = item_IMG_11_on.src;}
-        if(cellName == 'button12') {document[cellName].src = item_IMG_12_on.src;}
-		if(cellName == 'button13') {document[cellName].src = item_IMG_13_on.src;}
-        if(cellName == 'button14') {document[cellName].src = item_IMG_14_on.src;}
-        if(cellName == 'button15') {document[cellName].src = item_IMG_15_on.src;}
-        if(cellName == 'button16') {document[cellName].src = item_IMG_16_on.src;}
-        if(cellName == 'button17') {document[cellName].src = item_IMG_17_on.src;}
-        if(cellName == 'button18') {document[cellName].src = item_IMG_18_on.src;}
-        if(cellName == 'button19') {document[cellName].src = item_IMG_19_on.src;}
-        if(cellName == 'button20') {document[cellName].src = item_IMG_20_on.src;}
-        if(cellName == 'button21') {document[cellName].src = item_IMG_21_on.src;}
-		if(cellName == 'button22') {document[cellName].src = item_IMG_22_on.src;}
- 		if(cellName == 'button23') {document[cellName].src = item_IMG_23_on.src;}
- 		if(cellName == 'button24') {document[cellName].src = item_IMG_24_on.src;}
- 		if(cellName == 'button25') {document[cellName].src = item_IMG_25_on.src;}
- 		if(cellName == 'button26') {document[cellName].src = item_IMG_26_on.src;}
- 		if(cellName == 'button27') {document[cellName].src = item_IMG_27_on.src;}
-		if(cellName == 'button28') {document[cellName].src = item_IMG_28_on.src;}
-     
-       }
+return false
+}
+else{
+return true
 }
 
-function out(cellName) 
-    {
-     if(document.images) 
-       {
-        if(cellName == 'button1') {document[cellName].src = item_IMG_01_off.src;}
-        if(cellName == 'button2') {document[cellName].src = item_IMG_02_off.src;}
-        if(cellName == 'button3') {document[cellName].src = item_IMG_03_off.src;}
-        if(cellName == 'button4') {document[cellName].src = item_IMG_04_off.src;}
-        if(cellName == 'button5') {document[cellName].src = item_IMG_05_off.src;}
-        if(cellName == 'button6') {document[cellName].src = item_IMG_06_off.src;}
-        if(cellName == 'button7') {document[cellName].src = item_IMG_07_off.src;}
-        if(cellName == 'button8') {document[cellName].src = item_IMG_08_off.src;}
-        if(cellName == 'button9') {document[cellName].src = item_IMG_09_off.src;}
-        if(cellName == 'button10') {document[cellName].src = item_IMG_10_off.src;}
-        if(cellName == 'button11') {document[cellName].src = item_IMG_11_off.src;}
-        if(cellName == 'button12') {document[cellName].src = item_IMG_12_off.src;}
-       	if(cellName == 'button13') {document[cellName].src = item_IMG_13_off.src;}
-        if(cellName == 'button14') {document[cellName].src = item_IMG_14_off.src;}
-        if(cellName == 'button15') {document[cellName].src = item_IMG_15_off.src;}
-        if(cellName == 'button16') {document[cellName].src = item_IMG_16_off.src;}
-        if(cellName == 'button17') {document[cellName].src = item_IMG_17_off.src;}
-        if(cellName == 'button18') {document[cellName].src = item_IMG_18_off.src;}
-        if(cellName == 'button19') {document[cellName].src = item_IMG_19_off.src;}
-        if(cellName == 'button20') {document[cellName].src = item_IMG_20_off.src;}
-		if(cellName == 'button21') {document[cellName].src = item_IMG_21_off.src;}
-		if(cellName == 'button22') {document[cellName].src = item_IMG_22_off.src;}
-		if(cellName == 'button23') {document[cellName].src = item_IMG_23_off.src;}
-		if(cellName == 'button24') {document[cellName].src = item_IMG_24_off.src;}
-		if(cellName == 'button25') {document[cellName].src = item_IMG_25_off.src;}
-		if(cellName == 'button26') {document[cellName].src = item_IMG_26_off.src;}
-		if(cellName == 'button27') {document[cellName].src = item_IMG_27_off.src;}
-		if(cellName == 'button28') {document[cellName].src = item_IMG_28_off.src;}
-		
-		       }
 }
-function jspopup(myurl, w, h, tb, sb, st){
-	var wnd = window.open(myurl,"popup","toolbar=" + tb + ",location=0,directories=0,status=" + st + ",menubar=1,scrollbars=" + sb + ",resizable=0,width=" + w + ",height=" + h);
-	if (wnd.opener == null) wnd.opener = self;
-}
-function clickMenu() {
-	jspopup('/menu_popup.asp','512','550', '1', '1', '0');
-	location.href='/menu.asp';
-}
-// -->
-</script>
-<script language="JavaScript" src="/CalendarPopup.js" type="text/javascript"></script>
-<script language="JavaScript">document.write(getCalendarStyles());</script>
-<link href="/calendar.css" rel="stylesheet" type="text/css">
-
-
-</head><body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" class="top"><map name="online">
-<area shape="rect" coords="40,23,127,38" href="/getcontent.asp?id=5&amp;section=togo">
-<area shape="rect" coords="202,23,334,38" href="/getcontent.asp?id=5&amp;section=catering">
-<area shape="rect" coords="409,23,488,38" href="/getcontent.asp?id=7&amp;section=card">
-</map>
-
-<meta http-equiv="keywords" content="Zoe's Kitchen, Zoes Kitchen, Zoe's, Zoes, Greek, John Cassimus, Zoe Cassimus, Cassimus, Chicken Rollup, Corporate catering, World famous chicken salad, Healthy, unique, food, Fast casual dining, Home of the original chicken rollup">
-<meta http-equiv="description" content="">
-	
-
-
-<table height="100%" width="735" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td width="21">&nbsp;</td>
-<td width="556" background="/graphics/stripes3.gif" valign="top"><table height="76" width="556" cellpadding="0" cellspacing="0" border="0" class="top">
-	<tbody><tr>
-	<td width="300" valign="bottom"><img src="/graphics/head2_privacy.gif" height="40"></td>
-	<td width="256"><img src="/graphics/spacer.gif" height="76" width="256"></td>
-	</tr>
-	</tbody></table>
-	
-	<table width="528" cellpadding="0" cellspacing="0" border="0" align="center" background="/graphics/contentbg4.gif">
-	<tbody><tr>
-	<td width="528" height="17" colspan="3">
-	<img src="/graphics/spacer.gif" height="17" width="528"></td>
-	</tr>
-	<tr>
-	<td width="17" valign="top"><img src="/graphics/spacer.gif" height="250" width="17"></td>
-	<td width="494" valign="top"><p></p><p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's Kitchen USA, LLC ("Zoë's" or "We" or "Us") is committed to protecting the privacy of customers visiting the Zoë's Kitchen website, www.zoeskitchen.com (the "Site").<span style="mso-spacerun: yes">&nbsp; </span>The purpose of this Zoë's Kitchen USA, LLC Website Privacy Policy (the "Policy") is to explain what information Zoë's collects from you when you visit the Site and how Zoë's uses that information.<span style="mso-spacerun: yes">&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">What information is collected? </font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's only collects personally identifiable information, such as your first and last name, mailing address, email address, and phone number, when you voluntarily submit it.<span style="mso-spacerun: yes">&nbsp; </span>For example, personally identifiable information will be requested from you when you register for our Zoë's Catering Incentive Program, when you apply for a job on-line, when you apply for a franchise, or when you provide feedback to Us via the Site.<span style="mso-spacerun: yes">&nbsp; </span>We use this information to process your requests and provide you with the desired information, and we may at times provide you with other related information about our business.<span style="mso-spacerun: yes">&nbsp; </span>We retain the information for as long as it is needed for the purpose it was collected.<span style="mso-spacerun: yes">&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">In addition to your personally identifiable information, Zoë's also gathers tracking information such as your IP address, operating system, and browser type.<span style="mso-spacerun: yes">&nbsp; </span>We do not collect any personally identifiable information from you in this manner.<span style="mso-spacerun: yes">&nbsp; </span>We use the aggregate information to better serve you by continually improving the content of our website. </font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">How is the information used? </font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's may share your personally identifiable information with Zoë's franchisees, subsidiaries, and affiliates (the "Zoë's Affiliates").<span style="mso-spacerun: yes">&nbsp; </span>All Zoë's Affiliates will be informed of the terms of this Policy and required to comply with such terms.<span style="mso-spacerun: yes">&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's may disclose your personally identifiable information as required for implementation of our Zoë's Catering Incentive Program, including disclosing such information to the third parties with whom program participants can redeem their Zoë's Incentive Dollars.</font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Other than these uses, Zoë's does not share, sell or trade any of your personally identifiable information to third parties without your permission.<span style="mso-spacerun: yes">&nbsp; </span>However, Zoë's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the Site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.<span style="mso-spacerun: yes">&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Use of Cookies:</font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">"Cookies" are pieces of information that a website places on an individual's hard drive for record-keeping purposes.<span style="mso-spacerun: yes">&nbsp; </span>Cookies allow the Site to remember important information that will make your use of the Site more convenient, and may be associated with personally identifiable information.<span style="mso-spacerun: yes">&nbsp; </span>Currently, the Site uses cookies only in conjunction with franchise applications, but that use may be expanded in the future.<span style="mso-spacerun: yes">&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Links to other sites: </font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">We may offer links to other sites that are not operated by Zoë's.<span style="mso-spacerun: yes">&nbsp; </span>If you visit one of these linked sites, you should review its privacy and other policies.<span style="mso-spacerun: yes">&nbsp; </span>We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies. </font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">What is the policy regarding children? </font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's does not specifically solicit or collect information about children, but We are concerned about the safety of children and their use of the Internet.<span style="mso-spacerun: yes">&nbsp; </span>We will not knowingly request or solicit personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.<span style="mso-spacerun: yes">&nbsp; </span>In the event that We receive actual knowledge that Zoë's has collected such personally identifiable information without the requisite and verifiable parental consent, We will delete that information from our database as quickly as is practical.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Third Party Hosting:</font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's contracts with one or more third parties to maintain and host the Site.<span style="mso-spacerun: yes">&nbsp; </span>Therefore, any information you submit, including personally identifiable information, will be placed and stored on a computer server maintained by this third party.<span style="mso-spacerun: yes">&nbsp; </span>Your use of the Site and any provision of personally identifiable information you submit to the Site constitutes your acknowledgement that such information or content could pass through and may be stored in servers outside the control of Zoë's.<span style="mso-spacerun: yes">&nbsp; </span>You agree that Zoë's has no liability or responsibility for any such pass through or storage of the same.<span style="mso-spacerun: yes">&nbsp; </span></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">How will I be notified of changes to this privacy statement? </font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's reserves the right to change this Policy at any time and will post all changes on this Site.<span style="mso-spacerun: yes">&nbsp; </span>All changes will apply from the effective date forward, and will not be retroactive.<span style="mso-spacerun: yes">&nbsp; </span>If you have any questions or concerns about this Policy, please contact our <customer service="" department="">.<span style="mso-spacerun: yes">&nbsp; </span></customer></font></font></span></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 6pt"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Who can I contact if I have additional questions? </font></font></span></b></p>
-<p class="BFBodyNoTab" style="MARGIN: 0in 0in 12pt"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">If you have any questions about our Zoë's Kitchen, LLC's Website Privacy Policy please contact us at : </font></font></span></p>
-<p class="BFAddress" style="MARGIN: 0in 0in 0pt 1in"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Zoë's Kitchen Corporate</font></font></span></p>
-<p class="BFAddress" style="MARGIN: 0in 0in 0pt 1in"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">2901 2nd Avenue S</font></font></span></p>
-<p class="BFAddress" style="MARGIN: 0in 0in 0pt 1in"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Suite 155</font></font></span></p>
-<p class="BFAddress" style="MARGIN: 0in 0in 0pt 1in"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana">Birmingham, AL 35233</font></font></span></p>
-<p class="BFAddress" style="MARGIN: 0in 0in 0pt 1in"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 11pt"><font size="2"><font face="arial,helvetica,verdana"><a href="&lt;/A"> </a></font></font></span></b></p></td>
-	<td width="17" valign="top"><img src="/graphics/spacer.gif" height="200" width="17"></td>
-
-	</tr>
-	<tr>
-	<td width="528" height="17" colspan="3"><img src="/graphics/spacer.gif" height="16" width="528"><br>
-	<img src="/graphics/white.gif" height="1" width="528"></td>
-	</tr></tbody></table>
-	<!-- <img src="/graphics/spacer.gif" height="5" width="528"><br>
-	<centeR><img src="/graphics/online_again.gif" height="50" width="528" border="0" usemap="#online"></centeR><br> -->
-	<table width="528" cellpadding="0" cellspacing="0" border="0" align="center" background="/graphics/contentbg4.gif">
-	<tbody><tr>
-	<td width="528" height="6" colspan="4"><img src="/graphics/white.gif" height="1" width="528"><br>
-	<img src="/graphics/spacer.gif" height="5" width="528"></td>
-	</tr>
-	<tr>
-	<td width="12" valign="top"><img src="/graphics/spacer.gif" height="5" width="12"></td>
-	<td width="252" valign="top"><font size="1"><a href="/privacy.asp" class="imedia">Privacy Policy</a></font></td>
-	<td width="252" valign="top" align="right" style="text-decoration:underline;"><font size="1"><a href="http://www.infomedia.com" class="imedia">Web Development</a> by <a href="http://www.infomedia.com" class="imedia">Infomedia</a></font></td>
-	<td width="12" valign="top"><img src="/graphics/spacer.gif" height="5" width="12"></td>
-	</tr>
-	<tr>
-	<td width="528" height="5" colspan="4"><img src="/graphics/spacer.gif" height="4" width="528"><br>
-	<img src="/graphics/white.gif" height="1" width="528"></td>
-	</tr></tbody></table></td>
-<td width="158" background="/graphics/menubg4.gif" valign="top">
-<a href="/"><img src="/graphics/logo3.gif" alt="" width="158" height="157" border="0"></a>
-<br>
-
-	<div id="sidemenu" style="width:158px; height:200px;">
-			<ul>
-				<li style="top: 0; left:0"><a href="/online.asp" onmouseover="subMenu_show(this);" class="online">order online</a></li>
-				<li style="top: 26px; left:0"><a href="/menu.asp" onmouseover="subMenu_show(this);" class="menu">menu</a></li>
-				<li style="top: 52px; left:0"><a href="/locations.asp" onmouseover="subMenu_show(this);" class="locations">locations</a></li>
-				<li style="top: 77px; left:0"><a href="/careers.asp" onmouseover="subMenu_show(this);" class="join">join team zoes</a></li>
-				<li style="top: 104px; left:0"><a href="/iForm.asp?id=30" onmouseover="subMenu_show(this);" class="gives">zoes gives back</a></li>
-				<!--<li style="top: 130px; left:0"><a href="/donate.asp" onMouseOver="subMenu_show(this);" class="donate">donate</a></li>-->
-				<li style="top: 130px; left:0"><a href="/inthenews.asp" onmouseover="subMenu_show(this);" class="news">zoes in the news</a></li>
-				<li style="top: 156px; left:0"><a href="/catering.asp" onmouseover="subMenu_show(this);" class="catering">catering rewards</a></li>
-				<li style="top: 182px; left:0"><a href="http://www.fishbowl.com/clt/zsktchn/lp/join/join.asp" target="new" onmouseover="subMenu_show(this);" class="mail">zoe-mail</a></li>
-				<li style="top: 208px; left:0"><a href="http://zoeskitchen.alohaenterprise.com:8080/efMemberLinkLogin.do" onmouseover="subMenu_show(this);" class="gift" target="new">gift cards</a></li>
-				<li style="top: 234px; left:0"><a href="/franchise.asp" onmouseover="subMenu_show(this);" class="franchises">franchises</a></li>
-				<li style="top: 260px; left:0"><a href="/realestate.asp" onmouseover="subMenu_show(this);" class="real">real estate</a></li>
-				<li style="top: 286px; left:0"><a href="/feedback.asp" onmouseover="subMenu_show(this);" class="contact">contact us</a></li>
-				<li style="top: 312px; left:0"><a href="/" onmouseover="subMenu_show(this);" class="home">home</a></li>
-			</ul>
-
-		</div><!-- sidemenu -->
-	<a href="http://www.facebook.com/ZoesKitchen" target="new"><img src="/graphics/icon_fb.gif" style="border:0; margin:0 2px 0 26px;"></a>
-	<a href="http://twitter.com/zoeskitchen" target="new"><img src="/graphics/icon_tw.gif" style="border:0;"></a>
-</td>
-</tr>
-</tbody></table>
-<div id="cal" style="position:absolute;visibility:hidden;background-color:white;layer-background-color:white;"></div>
+        </script>
 
 
 <script type="text/javascript">
 
+ 
+
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-22104457-1']);
+
+  _gaq.push(['_setAccount', 'UA-23332047-1']);
+
   _gaq.push(['_trackPageview']);
 
+ 
+
   (function() {
+
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
   })();
 
+ 
+
 </script>
+<script>
+             SA.redirection_mobile ({
+                tablet_redirection : "true",
+                mobile_prefix : "mobile",
+                cookie_hours : "2" 
+            });
+        </script>
+ 
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico"><link href="App_Themes/zoes/css/ie.css" type="text/css" rel="stylesheet"></head>
+<body class="LTR ENUS">
+    <form name="form1" method="post" action="/privacy-policy.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyN2Rkds66qYMmRFKnyk/5J0L3byqIFkX+gDpjZgX9Z4DRHzM=">
+</div>
+
+<div><input type="hidden" name="lng" id="lng" value="en-US">
+</div>
+<script src="/ScriptResource.axd?d=gw9Sdk7VONsLFDD1iXmraKM-RuOV6URCgsFiXtMk3d5VLHwyDepOvFmkhsK-gJFTbIfVWqSOxLAWJZQP2n4fSrwDDS9ksf6N0vYKmJt7x8c2tYukI499ZO3JFi6PmxlXlGAM5giPaOr71sDaiEScU5cFls2fIrRDss9gzNdJA_w1&amp;t=4edbeeee" type="text/javascript"></script>
+    <div id="manPortal">
+
+</div>
+     
+	<!-- wrapper -->
+	<div id="wrapper">
+		<div class="w1">
+			<div class="w2">
+				<div class="w3">
+					<div class="w4">
+						<!-- header -->
+						<div id="header">
+							<h1 class="logo"><a href="/home.aspx">ZoesKitchen</a></h1>
+							<div class="holder">
+								<!-- search -->
+								<div class="search">
+									<fieldset>
+										<div class="row">
+											<a href="http://zoes.fbmta.com/members/UpdateProfile.aspx?Action=Subscribe&amp;InputSource=W" target="_blank" class="email">zoë-mail</a>
+											<label for="pack">find a zoës</label>
+											<span class="text-input"><input id="pack" name="searchinpt" type="text" class="text" onkeypress="if(event.keyCode==13) {document.forms[0].action='http://zoeskitchen.com/locations/list-view.aspx?address='+document.forms[0].searchinpt.value; 
+document.forms[0].submit();}"></span>
+											<a href="javascript:checkEnter('13','/locations/',document.forms[0].searchinpt.value);"><img src="/App_Themes/zoes/images/btn-search.gif" alt="search" class="submit"></a>
+										</div>
+									</fieldset>
+								</div>
+								<a href="/location.aspx" class="order">ORDER ONLINE</a>
+								<!-- nav-holder -->
+								<div class="nav-holder">
+												
+
+
+ 
+<ul class="navCMSListMenuUL" id="menuElem">
+		<li class="navCMSListMenuLI"><a href="/Menu.aspx" class="navCMSListMenuLink" onmouseover="document.Menu.src='/App_Themes/zoes/images/nav-menu-ro.png';" onmouseout="document.Menu.src='/App_Themes/zoes/images/nav-menu-up.png';"><span><img src="/App_Themes/zoes/images/nav-menu-up.png" name="Menu" width="54px" height="28px"></span></a></li>
+		<li class="navCMSListMenuLI"><a href="/Catering.aspx" class="navCMSListMenuLink" onmouseover="document.Catering.src='/App_Themes/zoes/images/nav-catering-ro.png';" onmouseout="document.Catering.src='/App_Themes/zoes/images/nav-Catering-up.png';"><span><img src="/App_Themes/zoes/images/nav-Catering-up.png" name="Catering" width="75px" height="28px"></span></a></li>
+		<li class="navCMSListMenuLI"><a href="/Location.aspx" class="navCMSListMenuLink" onmouseover="document.Locations.src='/App_Themes/zoes/images/nav-Locations-ro.png';" onmouseout="document.Locations.src='/App_Themes/zoes/images/nav-Locations-up.png';"><span><img src="/App_Themes/zoes/images/nav-Locations-up.png" name="Locations" width="79px" height="28px"></span></a></li>
+		<li class="navCMSListMenuLI"><a href="/About-Zoes.aspx" class="navCMSListMenuLink" onmouseover="document.AboutZoes.src='/App_Themes/zoes/images/nav-AboutZoes-ro.png';" onmouseout="document.AboutZoes.src='/App_Themes/zoes/images/nav-AboutZoes-up.png';"><span><img src="/App_Themes/zoes/images/nav-AboutZoes-up.png" name="AboutZoes" width="99px" height="28px"></span></a></li>
+
+		<li class="navCMSListMenuLI"><a href="/gift-cards.aspx" class="navCMSListMenuLink" onmouseover="document.GiftCards.src='/App_Themes/zoes/images/nav-giftcards-ro.png';" onmouseout="document.GiftCards.src='/App_Themes/zoes/images/nav-giftcards-up.png';"><span><img src="/App_Themes/zoes/images/nav-giftcards-up.png" name="GiftCards" width="90px" height="28px"></span></a></li>
+		<li class="navCMSListMenuLI"><a href="/Careers.aspx" class="navCMSListMenuLink" onmouseover="document.Careers.src='/App_Themes/zoes/images/nav-Careers-ro.png';" onmouseout="document.Careers.src='/App_Themes/zoes/images/nav-Careers-up.png';"><span><img src="/App_Themes/zoes/images/nav-Careers-up.png" name="Careers" width="64px" height="28px"></span></a></li>
+	</ul>
+								</div>
+							</div>
+						</div>
+						<!-- main -->
+						<div id="main">
+							<div class="main-w">
+								<div class="main-holder">
+									<div class="main-frame">
+										<div class="main-wrap"><div class="main-bg">
+	<div class="main-container">
+		<!-- main-case -->
+		<div class="main-case">
+			<!-- content -->
+			<div id="content">
+<div class="privacy">
+				<h2 class="contact"><span><img src="/app_themes/zoes/images/privacytxt-header.png" alt=""></span></h2>
+															Zoë's Kitchen USA, LLC ("Zoë's" or "We" or "Us") is committed to protecting the privacy of customers visiting the Zoë's Kitchen website, www.zoeskitchen.com (the "Site").&nbsp; The purpose of this Zoë's Kitchen USA, LLC Website Privacy Policy (the "Policy") is to explain what information Zoë's collects from you when you visit the Site and how Zoë's uses that information. <br>
+<br>
+<h3>What information is collected?</h3>
+Zoë's only collects personally identifiable information, such as your first and last name, mailing address, email address, and phone number, when you voluntarily submit it.&nbsp; For example, personally identifiable information will be requested from you when you register for our Zoë's Catering Incentive Program, when you apply for a job on-line, when you apply for a franchise, or when you provide feedback to Us via the Site.&nbsp; We use this information to process your requests and provide you with the desired information, and we may at times provide you with other related information about our business.&nbsp; We retain the information for as long as it is needed for the purpose it was collected. In addition to your personally identifiable information, Zoë's also gathers tracking information such as your IP address, operating system, and browser type.&nbsp; We do not collect any personally identifiable information from you in this manner.&nbsp; We use the aggregate information to better serve you by continually improving the content of our website.<br>
+<br>
+<h3>How is the information used?</h3>
+Zoë's may share your personally identifiable information with Zoë's franchisees, subsidiaries, and affiliates (the "Zoë's Affiliates").&nbsp; All Zoë's Affiliates will be informed of the terms of this Policy and required to comply with such terms.<br>
+<br>
+Zoë's may disclose your personally identifiable information as required for implementation of our Zoë's Catering Incentive Program, including disclosing such information to the third parties with whom program participants can redeem their Zoë's Incentive Dollars.<br>
+<br>
+Other than these uses, Zoë's does not share, sell or trade any of your personally identifiable information to third parties without your permission.&nbsp; However, Zoë's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the Site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.<br>
+<br>
+<h3>Use of Cookies:</h3>
+"Cookies" are pieces of information that a website places on an individual's hard drive for record-keeping purposes.&nbsp; Cookies allow the Site to remember important information that will make your use of the Site more convenient, and may be associated with personally identifiable information.&nbsp; Currently, the Site uses cookies only in conjunction with franchise applications, but that use may be expanded in the future.<br>
+<br>
+<h3>Links to other sites:</h3>
+We may offer links to other sites that are not operated by Zoë's.&nbsp; If you visit one of these linked sites, you should review its privacy and other policies.&nbsp; We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.<br>
+<br>
+<h3>What is the policy regarding children?</h3>
+Zoë's does not specifically solicit or collect information about children, but We are concerned about the safety of children and their use of the Internet.&nbsp; We will not knowingly request or solicit personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.&nbsp; In the event that We receive actual knowledge that Zoë's has collected such personally identifiable information without the requisite and verifiable parental consent, We will delete that information from our database as quickly as is practical.<br>
+<br>
+<h3>Third Party Hosting:</h3>
+Zoë's contracts with one or more third parties to maintain and host the Site.&nbsp; Therefore, any information you submit, including personally identifiable information, will be placed and stored on a computer server maintained by this third party.&nbsp; Your use of the Site and any provision of personally identifiable information you submit to the Site constitutes your acknowledgement that such information or content could pass through and may be stored in servers outside the control of Zoë's.&nbsp; You agree that Zoë's has no liability or responsibility for any such pass through or storage of the same.&nbsp; <br>
+<br>
+<h3>How will I be notified of changes to this privacy statement?</h3>
+Zoë's reserves the right to change this Policy at any time and will post all changes on this Site.&nbsp; All changes will apply from the effective date forward, and will not be retroactive.&nbsp; If you have any questions or concerns about this Policy, please contact our .<br>
+<br>
+<h3>Who can I contact if I have additional questions?</h3>
+If you have any questions about our Zoë's Kitchen, LLC's Website Privacy Policy please contact us at :
+<div style="margin-left: 40px;">Zoës Kitchen Home Office<br>
+2931 2nd Avenue South<br>
+Birmingham, AL 35233</div>
+<br>
+<br>
+</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+	
+
+
+
+
+<!-- main-footer -->
+											<div class="main-footer">
+												<ul class="list">
+													<li><a href="/privacy-policy.aspx">Privacy Policy</a></li>
+													<li><a href="/site-map.aspx">Site Map</a></li>
+												</ul>
+												<ul class="bill">
+													<li><a href="/About-Zoes/contact-us.aspx">Contact us</a></li>
+													<li><a href="/About-Zoes/real-estate.aspx">Real Estate</a></li>
+													<li><a href="/About-Zoes/franchises.aspx">Franchises</a></li>
+												</ul>
+												<ul class="social-networks">
+													<li><a href="http://www.facebook.com/ZoesKitchen" target="_blank" class="facebook">facebook</a></li>
+													<li><a href="http://twitter.com/zoeskitchen" target="_blank" class="twitter">twitter</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+	<span class="main-r">bg</span>
+							<span class="main-l">bg</span>
+<span class="main-b">bg</span>
+						
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- footer -->
+	<div id="footer">
+		<span>Copyright Zoës Kitchen 2011</span>
+		<em>Site Designed by <a target="_blank" href="http://www.overpasscreative.com/">Overpass Creative</a></em>
+	</div>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+    
+    </form>
+
+
 </body></html>
