@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usgbc.org privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516011704id_/http%3A//www.usgbc.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgbc.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601193446id_/http%3A//www.usgbc.org/Privacy) for the most accurate reproduction.*
 
 # USGBC: Privacy Policy
 
@@ -26,10 +26,10 @@ Any information We gather, whether submitted voluntarily or collected automatica
 If You are concerned about the information You have provided to Us or would like to review, update, or delete this information, please e-mail Us at [mailto:info@usgbc.org](mailto:info@usgbc.org)  We will make reasonable efforts to comply with Your requests. 
 
 **Links**  
-Please see Our [Terms and Conditions](http://usgbc.org/terms_and_conditions.asp) page. 
+Please see Our [Terms and Conditions](https://web.archive.org/DisplayPage.aspx?CMSPageID=172) page. 
 
 **Security**  
-This site takes reasonable precautions to protect Our users’ information.  Please note, however, that electronic transmissions via the Internet are not necessarily secure from interception, and We do not guarantee the security or confidentiality of transmissions.  We reserve the right to update or otherwise alter Our security practices if and when it seems appropriate to do so.  As with Our [Terms and Conditions](http://usgbc.org/terms_and_conditions.asp), You should check Our Security provisions each time You visit Our site to identify and understand any changes made since Your previous visit. 
+This site takes reasonable precautions to protect Our users’ information.  Please note, however, that electronic transmissions via the Internet are not necessarily secure from interception, and We do not guarantee the security or confidentiality of transmissions.  We reserve the right to update or otherwise alter Our security practices if and when it seems appropriate to do so.  As with Our [Terms and Conditions](https://web.archive.org/DisplayPage.aspx?CMSPageID=172), You should check Our Security provisions each time You visit Our site to identify and understand any changes made since Your previous visit. 
 
 **Notification of Changes**  
-If We decide to change Our approach to privacy, We will post those changes to this Privacy Policy so that users are always aware of what information We collect, how We use it, and under what circumstances We disclose it.  Changes to the Privacy Policy will be dated, and will be effective from the date specified forward.  As with Our [Terms and Conditions](http://usgbc.org/terms_and_conditions.asp), You should check Our Privacy Policy each time You visit Our site to identify and understand any changes made since Your previous visit.
+If We decide to change Our approach to privacy, We will post those changes to this Privacy Policy so that users are always aware of what information We collect, how We use it, and under what circumstances We disclose it.  Changes to the Privacy Policy will be dated, and will be effective from the date specified forward.  As with Our [Terms and Conditions](https://web.archive.org/DisplayPage.aspx?CMSPageID=172), You should check Our Privacy Policy each time You visit Our site to identify and understand any changes made since Your previous visit.
