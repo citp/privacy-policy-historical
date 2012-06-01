@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the productiontrax.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105014821id_/http%3A//www.productiontrax.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productiontrax.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601143844id_/http%3A//www.productiontrax.com/privacy.php) for the most accurate reproduction.*
 
 # Productiontrax.com - Royalty Free Digital Multimedia Content: Privacy Policy
 
-[Home](https://web.archive.org/web/20111105014821id_/http%3A//www.productiontrax.com/index.php) > Privacy Policy  
+[Home](https://web.archive.org/web/20120601143844id_/http%3A//www.productiontrax.com/index.php) > Privacy Policy  
   
 Productiontrax.com values your privacy, whether you just browse the Productiontrax.com Web Site ("Site"), use its services, or purchase tracks. We strive to keep our privacy practices in current with the highest standards on the Web. This privacy policy describes the kinds of information we collect, how we collect it, and how we use it.
 
