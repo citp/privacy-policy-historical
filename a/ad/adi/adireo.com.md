@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adireo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124115244id_/http%3A//www.adireo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adireo.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601191259id_/http%3A//www.adireo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Adireo.com - Free classifieds: jobs, properties, services, dating... - Waterford, Ireland
+# Adireo.com - Free classifieds: jobs, properties, services, dating... - Essex, England
 
 Adireo Privacy Policy 
 
