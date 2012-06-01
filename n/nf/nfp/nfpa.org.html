@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nfpa.org privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202091204id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nfpa.org privacy policy that was archived on 2012-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601113824id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>NFPA :: Privacy Policy</title>
@@ -18,50 +18,60 @@
 <!-- End of OAS Initial Call and Setup -->
 
 <!-- Begin LP Custom Variables-->
+<script type="text/javascript">
+	if (typeof(lpUnit)=='undefined')	var lpUnit='sales';
+</script>
 <script src="https://www.nfpa.org/includes/mtagconfig.js" type="text/Javascript"></script>
 <script type="text/javascript">
 	lpAddVars('page','Section','NFPA-Privacy+Policy');
 	if (typeof(lpUnit)=='undefined')	var lpUnit='sales';
 </script>
 <!-- end LP Custom Variables-->
+
 </head>
 <body>
 
 
-<!-- SiteCatalyst code version: H.23.8.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+<!-- SiteCatalyst code version: H.24.2.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
+
+<script type="text/javascript">
+	var omni_account="nfpaprod";
+</script>
 
 <script type="text/javascript" src="http://www.nfpa.org/SiteCatalyst/s_code.js"></script>
 
-<script type="text/javascript">//<![CDATA[
+<script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.pageName="Privacy Policy";
-s.server=""
-s.channel="NFPA.org/Privacy Policy";
-s.pageType=""
-s.prop1="Guest"
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
+
+s.pageName="privacy policy:privacy policy";
+s.channel="footer";
+s.prop1="privacy policy"
+s.prop2=document.URL.toLowerCase();
+s.prop5="logged out"
+s.prop12="guest"
+
+
+
 /* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.transactionID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
+s.eVar2="logged out"
+
+//On the Ship To page set event37 and on the Bill to page set event 38.
+
+
+
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-s.t()//]]></script>
-<!-- End SiteCatalyst code version: H.23.8. -->
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://nfpasjc.d1.sc.omtrdc.net/b/ss/nfpatest/1/H.24.2--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.2. -->
+
+
 <script type="text/JavaScript">
 
 function clickTrack( e )
@@ -97,14 +107,14 @@ function clickTrack( e )
 			//remove old HBX space placeholder from name attribute
 			sname = sname.replace(/\+/g," ");
 			
-			s_objectID=sname;
+			s_objectID=sname.toLowerCase();
 			//alert(sname);
 
 		}
 		else{
 			sname = obj.innerHTML;
 			sname = sname.replace(/<BR>/i," ");
-			s_objectID= sname;
+			s_objectID= sname.toLowerCase();
 			//alert(sname);
 		}
 	}
@@ -119,6 +129,43 @@ function clickTrack( e )
 
 document.body.onclick = clickTrack;
 
+
+function addToCartEvent(sProductID, iListPrice)
+{
+	s=s_gi('nfpaprod');
+	s.linkTrackVars = 'events,products';
+	s.linkTrackEvents = 'scOpen,scAdd,event33';
+	s.events = 'scOpen:C59DFBB2A16B4F0E,scAdd,event33';
+	s.products = ';' + sProductID + ';;;event33=' + iListPrice;
+	s.tl(true,'o','Cart Addition');
+	
+	//alert('prodid: ' + sProductID);
+}
+
+function removeFromCartEvent(sProductID)
+{
+	s=s_gi('nfpaprod');
+	s.linkTrackVars = 'events,products';
+	s.linkTrackEvents = 'scRemove';
+	s.events = 'scRemove';
+	s.products = ';' + sProductID;
+	s.tl(true,'o','Cart Removal');
+	
+	//alert('prodid: ' + sProductID);
+}
+
+
+function beginCheckoutEvent()
+{
+	
+	s=s_gi('nfpaprod');
+	s.linkTrackVars='events,products';
+	s.linkTrackEvents='scCheckout,event34,event35,event39'; 
+	s.events='scCheckout,event34:C59DFBB2A16B4F0E,event35:C59DFBB2A16B4F0E,event39:C59DFBB2A16B4F0E';
+	s.products='';
+	s.tl(this,'o','Checkout Initiated');
+	
+}
 
 </script>
 
@@ -243,7 +290,7 @@ or you can reach us by telephone at 617-770-3000</p>
 			<img src="/assets/images/socialimages/podcasts.jpg" alt="NFPA Podcasts" height="15" width="55" name="podcast" border="0" align="top"></a>&nbsp;&nbsp;&nbsp;
 		<a href="http://www.nfpa.org/itemDetail.asp?categoryID=1799&amp;itemID=42555&amp;URL=News%20&amp;%20Publications/RSS%20feeds" target="_blank">
 			<img src="/assets/images/socialimages/rss.jpg" alt="NFPA RSS Feeds" name="rss" border="0" align="top"></a>&nbsp;&nbsp;&nbsp;
-        </span><a href="http://www.nfpa.org/index.asp">Home</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=142">Contact</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=88">Privacy Policy</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=89">Terms of Use</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=149">Help</a>&nbsp;&nbsp;© National Fire Protection Association 2011
+        </span><a href="http://www.nfpa.org/index.asp">Home</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=142">Contact</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=88">Privacy Policy</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=89">Terms of Use</a>&nbsp;&nbsp;<a href="http://www.nfpa.org/displayContent.asp?categoryID=149">Help</a>&nbsp;&nbsp;© National Fire Protection Association 2012
 		</p>
 		<div class="clearboth"></div>
 	</div>
@@ -261,73 +308,7 @@ or you can reach us by telephone at 617-770-3000</p>
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script><!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="log.nfpa.org";
-
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM5507050FCA80EN3";//ACCOUNT NUMBER(S)
-hbx.pn="Privacy+Policy";//PAGE NAME(S)
-hbx.mlc="NFPA.org/Privacy+Policy";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME  -- not used
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY  -- not used
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="n";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME - blank defaults to 3
-hbx.lt="auto";//LINK TRACKING  - set to "none" or "auto" or "manual"
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="1,-2,-3";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="9638C4BF-85EE-4758-8068-71BA701F3167";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1   -- to capture multiple values - populate w/ pipe delimited list 
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-  //Start Search Event Tags
-  
-  //End of Search Event tags
-
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="http://www.nfpa.org/hbx/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
+</script>
 </div>
 
 
