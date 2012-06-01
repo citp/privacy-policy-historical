@@ -1,50 +1,71 @@
-> *The following text is extracted and transformed from the allstarpics.net privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204081709id_/http%3A//www.allstarpics.net/index/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstarpics.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601082123id_/http%3A//members.allstarpics.net/privacy) for the most accurate reproduction.*
 
-# AllStarPics.Net - Privacy Statement
+# Privacy Notice
 
-AllStarPics.Net knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting AllStarPics.Net, you are accepting the practices described in this Privacy Notice. 
+**1.        ** **General**
 
-**What Personal Information About Users Does AllStarPics.Net Gather?**  
-The information we learn from users helps us personalize and continually improve your experience at AllStarPics.Net. Here are the types of information we gather. 
+AllStarPics.Net is committed to protecting your privacy when you visit AllStarPics.Net or use its services ("Services") as further outlined in this policy. As a condition of using the Services of AllStarPics.Net, you agree to provide AllStarPics.Net with certain personal information. This information includes, but not limited to: full name, postal address, phone number and email address as well as your computer's unique IP address (if any), financial information (credit card number, etc., for orders placed with AllStarPics.Net) and demographic information (e.g., zip code, postal code, hometown, gender, purchase history information and age as well as IP addresses that are not unique to your computer). Please note that nowhere on the Site do we knowingly collect contact information or financial information from children under the age of 14. Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on August 22, 2007. Each time you visit AllStarPics.Net, use the Services, or provide us with information, you are accepting the practices described in this privacy policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this privacy policy.
 
-**Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future browsing for you, improving our site, and communicating with you. 
+**2.        ** **Changes to Privacy Policy**
 
-**Does AllStarPics.Net Share the Information It Receives?**  
-Information about our users is an important part of our business, and we are not in the business of selling it to others. Thus, for example, AllStarPics.Net does not sell, and will never sell, information about you to external marketers, list brokers, or other third parties without user consent. Nor will we give such information to affiliated businesses or companies that we team up with to provide co-branded or jointly owned offerings unless you choose to take advantage of those offerings, and even then, any sharing of information is limited to information relating to the offering. Further, whenever we deal with user information, we will always comply with applicable laws and regulations in doing so. 
+This policy may be revised over time as new features are added to the Site or as we incorporate suggestions from our users. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. We will also post a notification that the Privacy Policy has been amended prominently on our Web site so that you can always review what information we gather, how we might use that information, and under which conditions we will disclose it to anyone.
 
-We share user information with our parent entity, the subsidiaries it controls, and as described below. 
+**3.        ** **How Your Information is Used**
 
-**Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, we will include offerings from these businesses on AllStarPics.Net. In other cases, we may include joint offerings from AllStarPics.Net and these businesses on AllStarPics.Net. You can tell when another business is involved in the offering, and we share user information related to those offerings with that business. 
+**Order and Payment Processing, Customer Service, Credit Card Issuers and Quality Assurance:**
 
-**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include sending e-mail, removing repetitive information from user lists, analyzing data, and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+We use contact information to help us efficiently perform transactions, to deliver the services you have requested, to perform quality assurance, sales analyses and other business analyses, and to contact you in connection with any orders that you have placed with us. We may also provide your contact information to your credit card issuer or to credit card processors for their purposes. No other use of your financial information will be made except to satisfy any law, regulation, governmental request, or judicial order. When you make a purchase through the Site, or register with the Site, you will provide us with an email address where we, or these service providers, may contact you for the purposes described in this paragraph.
 
-**Business Transfers:** As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is transferred along with the rest of the service or business unit. Also, in the event that AllStarPics.Net, or substantially all of its assets are acquired, user information will of course be included in the transaction. 
+**Contacting You for Offers and Promotions:**
 
-**Protection of AllStarPics.Net and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms and Conditions of Use and other agreements; or protect the rights, property, or safety of AllStarPics.Net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
+You agree, in consideration for the use of the Services provided by AllStarPics.Net, to allow AllStarPics.Net to use your personal information to send you marketing and promotional materials. AllStarPics.Net may also send you marketing and promotional materials that promote third party products. AllStarPics.Net will not rent or sell your personal information for use by third parties. These materials may include, but are not limited to: newsletters providing you with additional information on how to use the Services, and promotional offers for goods and services from AllStarPics.Net or third parties.
 
-Other than as set out above, you will always receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+**Use of Demographic Information:**
 
-**What About Third-Party Advertisers?**  
-Our site includes third-party advertising, and some of our advertisers use third-party companies to serve their advertisements that appear on our site. Often, these third-party advertising companies, called "ad networks" or "network advertisers", employ cookie and other technologies to measure the effectiveness of their ads and to show you ads that are more relevant and interesting to you. We do not provide any user information to them, and we do not have access to or control cookies that may be placed by the ad networks. If you would like more information about the ad networks, including information about how to opt-out of their information collection, the National Advertising Initiative offers useful information on its Web site. 
+AllStarPics.Net may use your demographic information to perform business analyses or to tailor the Site and communications to your interests. We may share anonymous, aggregated demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. Any time that we are allowed under this privacy policy to share your contact information or financial information, we may also share your demographic information along with it.
 
-**Opting Out of Behavioral Advertising**  
-You can use the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp) to examine your computer to identify those companies that have placed an advertising cookie file on your computer, and to "opt out" of behavioral advertising. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. 
+**4.        ** **Disclosure to Governmental Entities**
 
-**How Secure Is Information About Me?**  
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+AllStarPics.Net may disclose specific contact information when we determine that such disclosure is necessary to comply with law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of AllStarPics.Net or other visitors to the site or users of the Services. Also, your contact information may be passed on to a third party in the event of a merger, acquisition, consolidation, divestiture, or a bankruptcy of AllStarPics.Net.
 
-**What Choices and Access Do I Have?**  
-As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of some AllStarPics.Net features. 
+**5.        ** **Use of Cookies and Other Site Tracking Data**
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use some features if you do not use cookies. 
+**Cookies:**
 
-The Federal Trade Commission provides useful information about online privacy on its own Web site. 
+A "cookie" is a small file that we save on your computer's hard drive that contains non-personal information. These cookies help to give you faster access to pages you have already visited. They also allow you to personalize your pages, and optimize your experience at our sites. We also use cookies to help us figure out how many people visit our sites, which of our web pages they visit, and how long they stay there. This information helps us figure out which of our web features are highly successful and which sites might need improvement. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. Most browsers accept cookies automatically, but allow you to disable them. Disabling cookies may prevent you from properly using the Services or accessing the site.
 
-**Children**  
-AllStarPics.Net is not intended for use by children under the age of 13. If you are under 13, you may not submit information about yourself to AllStarPics.Net. 
+**Session IDs:**
 
-**Conditions of Use, Notices, and Revisions**  
-If you choose to visit AllStarPics.Net, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law. If you have any concern about privacy at AllStarPics.Net, please send us a thorough description to our help desk, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes. 
+"Session IDs" allow us to identify a particular user across multiple web page requests. This Session ID is maintained within your cookie file, where possible. If cookies are not enabled, or if The user's internet browser program does not support cookies then AllStarPics.Net will place the Session ID in the requested web page. This allows the end user to avoid having to continually re-enter Certain information such as account name and password for every web page request. This Session ID expires whenever the user closes their internet browser.
 
-**Related Practices and Information**  
-[Terms and Conditions of Use](https://web.archive.org/web/20101204081709id_/http%3A//www.allstarpics.net/index/terms.asp)
+**Web Site Tracking, Reporting:**
+
+Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. AllStarPics.Net (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. For example, we capture data on the type of browser used, operating system software (e.g. Windows 95 vs. 98 or Macintosh), cookie preferences (whether the user has them turned on or off), and search engine keywords (what key words did a visitor use to get to our site). We also record number of visits, paths taken, and time spent on sites and pages within AllStarPics.Net's web sites. Please keep in mind that none of this information is personally identifiable and that we only distribute this information to internal staff at AllStarPics.Net
+
+**IP Address:**
+
+Each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.
+
+**Banner Ads:**
+
+The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. AllStarPics.Net is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers. AllStarPics.Net does not sponsor, endorse or guarantee any products or services advertised by third parties on its site.
+
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
+
+<http://networkadvertising.org/consumer/opt_out.asp>
+
+**Direct Linking URLs or Hotlinking:**
+
+In order to provide more relevant advertising and monitor user bandwidth usage (as governed by the AllStarPics.Net Terms of Service), AllStarPics.Net may gather data from the referer logs that identify where and how frequently user images being hosted by AllStarPics.Net are being displayed on third party sites.
+
+**6.        ** **Information from Other Sites**
+
+AllStarPics.Net may place links to other web sites operated by other parties and from time to time may include information and links to third party web sites in our promotional email. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+
+**7.        ** **Non-US Users**
+
+If you are not a resident of the United States, you understand and agree that AllStarPics.Net stores and processes your information on computers located in the United States, and by providing any data to AllStarPics.Net, you consent to the transfer of such information to the United States.
+
+**8.        ** **Security Precautions**
+
+AllStarPics.Net has security measures in place to help protect against the loss, misuse and alteration of the information under our control. We use secure socket layer (SSL) technology to help protect the security of commerce transactions. We encrypt your contact information and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and make all commercially reasonable efforts to do so, AllStarPics.Net cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. This privacy policy does not apply to any information, including such photographs, that you submit for use in publicly available areas. We ask that you do not submit any personal information, including contact information or financial information, for display in public areas, as other people who use the Services will see it. If you submit such information for display in public areas, AllStarPics.Net cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed.
