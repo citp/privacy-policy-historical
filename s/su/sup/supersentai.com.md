@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108152327id_/http%3A//www.supersentai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601135501id_/http%3A//www.supersentai.com/privacy) for the most accurate reproduction.*
 
-# Power Rangers Central / Frequently Asked Questions
+# Power Rangers Central / Privacy Policy
 
 ---  
   
-RANGERCENTRAL.COM has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and spreading practices for this Web site: RANGERCENTRAL.COM
+Ranger Central has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and spreading practices for this Web site: Ranger Central
 
   Personal Information  
 This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
@@ -16,7 +16,7 @@ Use of Cookies
 Power Rangers Central may make use of cookies (small pieces of information placed on your computer by our website) for information collection purposes. Any information provided by these cookies will not be personally identifiable and is solely used to improve your experience at our site. We dot not passively connect personally identifiable information through the use of cookies.
 
   External Links  
-This site contains links to other sites. RANGERCENTRAL.COM is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. Ranger Central is not responsible for the privacy practices or the content of such Web sites. 
 
 Third Party Cookies
 
