@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006151852id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601131703id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Legal Statement | Williams-Sonoma
 
-Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, and west elm®.
+Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm® and Rejuvenation®.
 
 Please take a few minutes to review these Terms and Conditions. Your purchase of products from us constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
@@ -34,7 +34,13 @@ This Web Site and all Content available on this Web Site are provided on an "as 
 
 ### Product Pricing Information
 
-The prices displayed on our Web Site may differ from prices that are available in stores. The prices displayed in our catalogs are quoted in U.S. Dollars and are valid and effective only in the U.S.
+The prices displayed on our Web Site may differ from prices that are available in stores or in catalogs, and our pricing may differ from store to store. If you are in the U.S. or Canada Web Site prices will be displayed in U.S. Dollars. Elsewhere Web Site prices will generally be displayed in the local currency. The prices displayed in our printed catalogs are quoted in U.S. Dollars and are valid and effective only in the U.S.
+
+For full-price products, "Suggested Price" or "Sugg. Price" refers to the manufacturers' suggested retail price. "Our Price" refers to the everyday value price we offer to our customers. For sale products (identified by pricing in red), "Suggested Price" or "Sugg. Price" refers to the most recent selling price. "Sale" refers to the reduced price we are offering to our customers. 
+
+### Special Offers
+
+Occasionally we will offer special promotions to our customers that we refer to as "special offers" or "special offer". This can include a gift with purchase, free shipping, manufacturer offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
 
 ### Inaccuracy Disclaimer
 
@@ -42,11 +48,11 @@ From time to time there may be information on our Web Site or in our catalog tha
 
 * * * * * * * * * * 
 
-Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California. Last Updated: July 2011
+Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California. Last Updated: November 2011
 
 Back to Top
 
-We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, and west elm. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
+We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm and Rejuvenation. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
@@ -146,11 +152,11 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email").
 
-Effective Date: April 13, 2011
+Effective Date: November 2011
 
 Back to Top
 
-[Copyright 2011 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/ "Copyright 2011 Williams-Sonoma") All Rights Reserved.
+[Copyright 2012 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/ "Copyright 2012 Williams-Sonoma") All Rights Reserved.
 
 Williams-Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
