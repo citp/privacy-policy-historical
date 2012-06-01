@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excelfunctions.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008082600id_/http%3A//www.excelfunctions.net/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelfunctions.net privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601165356id_/http%3A//www.excelfunctions.net/Privacy-Policy.html) for the most accurate reproduction.*
 
 # ExcelFunctions.net Privacy Policy
 
