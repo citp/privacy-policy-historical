@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504123824id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602112727id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - - How-Do
+# Privacy Policy | How-Do
 
-Before using the Website (that is, any site operated by How-Do) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.  
- **  
-The basic principles**
+Before using the Website (that is, any site operated by How-Do) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.
+
+**The basic principles**
 
 By accessing and using the Website you are agreeing to be legally bound by the Terms & Conditions and this Privacy Policy. You should therefore also read the Terms & Conditions before using the Website.
 
@@ -36,8 +36,7 @@ The information about you as an identifiable individual, including contact detai
 
  **Credit/debit cards**
 
-We do not store credit card details, nor do we share customer details with any third parties   
-
+We do not store credit card details, nor do we share customer details with any third parties
 
 **Use of cookies on a website:**
 
@@ -66,21 +65,3 @@ You have the ability to accept or decline cookies by modifying the settings in y
 As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
 
 If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail [contact@how-do.co.uk](mailto:contact@how-do.co.uk).
-
- **COMPANY INFORMATION**
-
-How-Do is a company registered in England and Wales under company number 6103268 whose registered office is at Hollins Chambers, 64A Bridge Street, Manchester, M3 3BA, UK.
-
-You can mail us at contact@how-do.co.uk with any comments or for further information.
-
- **Contact information**
-
-How-Do's trading address is 40 Lapwing Lane, Manchester M20 2WR. Tel: 0161 445 1499
-
-**Something to add? Then[leave a comment](http://www.how-do.co.uk/privacy-policy/#commentform) below or [email us now](mailto:contact@how-do.co.uk).**  
-
-
-* * *
-
-Did you enjoy this article? Please share it!  
-
