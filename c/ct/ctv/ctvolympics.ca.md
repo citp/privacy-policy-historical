@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ctvolympics.ca privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104203142id_/http%3A//ctvolympics.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctvolympics.ca privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602042457id_/http%3A//www.ctvolympics.ca/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | 2012 Olympics
 
-**Consortium Website Privacy Policy**
+Consortium Website Privacy Policy 
 
 (Last Updated on April 1, 2011) 
 
-Canada’s Olympic Broadcast Media Consortium (the, " **Consortium** ") respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains the Consortium's treatment of your personally identifiable information collected in connection with your activities on or related to all Consortium websites referencing this Privacy Policy (the " **Consortium Sites** ") and all services made available on the Consortium Sites (collectively, unless noted otherwise, the " **Consortium Services** "). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information. 
+Canada’s Olympic Broadcast Media Consortium (the, "Consortium") respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains the Consortium's treatment of your personally identifiable information collected in connection with your activities on or related to all Consortium websites referencing this Privacy Policy (the "Consortium Sites") and all services made available on the Consortium Sites (collectively, unless noted otherwise, the "Consortium Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information. 
 
 We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time. Please note that this Privacy Policy does not apply to the practices of companies or websites which are not owned or controlled by Consortium. 
 
@@ -14,11 +14,11 @@ We urge you to read this Privacy Policy carefully and to check back periodically
 
 In the course of operating the Consortium Services, we may collect two types of information about our users: Personal Information and Non-Personal Information. 
 
-" **Personal Information** " is personally identifiable information, such as your name, address, email address, birth date and gender. Personal Information is collected by us when you choose to provide it to us when registering for a Consortium Service, such as when you choose to subscribe to a Consortium Service, enter a Consortium promotion, choose to receive a Consortium newsletter, or choose to participate in a Consortium survey. In addition, if you choose to contact any of our customer service representatives, we may keep a record of that correspondence so that we may fully address the subject matter. We may also receive Personal Information from our business partners and other third parties, provided that such third parties confirm to us that you have permitted them to share such information. 
+"Personal Information" is personally identifiable information, such as your name, address, email address, birth date and gender. Personal Information is collected by us when you choose to provide it to us when registering for a Consortium Service, such as when you choose to subscribe to a Consortium Service, enter a Consortium promotion, choose to receive a Consortium newsletter, or choose to participate in a Consortium survey. In addition, if you choose to contact any of our customer service representatives, we may keep a record of that correspondence so that we may fully address the subject matter. We may also receive Personal Information from our business partners and other third parties, provided that such third parties confirm to us that you have permitted them to share such information. 
 
 Business contact information such as the name, title, business address, email address or telephone number of a business or professional person or an employee of an organization is not considered Personal Information. 
 
-" **Non-Personal Information** " is information of an anonymous nature, such as your Internet Protocol Address (“ **IP Address** ”), the domain you may have used to access a Consortium Service, the type and version of browser or operating system you may be using, and the website you may have come from and visit next. Aggregate information, such as demographic statistics of our users (e.g., average age or geographical allocation of our users), number of visitors and average time spent on a Consortium Service, is also considered Non-Personal Information. 
+"Non-Personal Information" is information of an anonymous nature, such as your Internet Protocol Address (“IP Address”), the domain you may have used to access a Consortium Service, the type and version of browser or operating system you may be using, and the website you may have come from and visit next. Aggregate information, such as demographic statistics of our users (e.g., average age or geographical allocation of our users), number of visitors and average time spent on a Consortium Service, is also considered Non-Personal Information. 
 
 Non-Personal Information is collected or derived by us in the course of operating the Consortium Services. For example, our web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie (as defined herein) or through a Web Beacon (as defined herein) when you choose to visit a Consortium Service. Non-Personal Information is used by Consortium as described in this Privacy Policy. 
 
