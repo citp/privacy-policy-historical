@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the alldaygiveaways.com privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605042109id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alldaygiveaways.com privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603010028id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta name="msvalidate.01" content="402CAAF418CB43561F9FE41F954141C2">
 						<title>All Day Giveaways | Sweepstakes | Free Contest Giveaway | Privacy Policy</title>
-				<meta name="Keywords" content="All Day Giveaways, ADGA, AllDayGiveaways.Com, free, contest, sweepstakes, giveaways, online-sweepstakes, online sweepstakes, online contests, enter free contests, free online contests, free sweepstakes, win prizes online, win prizes online, where to enter contests, where to enter sweepstakes, contests, sweepstakes, drawing, giveaway, prizes, competitions, contests, games, lotto, freebies, enter contests, enter sweepstakes, free prizes, win real prizes, free contests, win prizes for free, CONTEST, Canada sweepstakes, SWEEPSTAKES, win, WIN, prize, PRIZES, sweepstakes online, sweepstake giveaway, photo contests, paid surveys, free, FREE, cash, freebies, rewards, free getaways, vacation deals">
-		<meta name="Description" content="All Day Giveaways - Free Contests, Sweepstakes &amp; Giveaways! Win Free Prizes. Join or Free. Amazing Giveaways running daily.">
+				<meta name="Keywords" content="All Day Giveaways, ADGA, AllDayGiveaways.com, free, contest, sweepstakes, giveaways, online-sweepstakes, online sweepstakes, online contests, enter free contests, free online contests, free sweepstakes, win prizes online, win prizes online, where to enter contests, where to enter sweepstakes, contests, sweepstakes, drawing, giveaway, prizes, competitions, contests, games, lotto, freebies, enter contests, enter sweepstakes, free prizes, win real prizes, free contests, win prizes for free, CONTEST, Canada sweepstakes, SWEEPSTAKES, win, WIN, prize, PRIZES, sweepstakes online, sweepstake giveaway, photo contests, paid surveys, free, FREE, cash, freebies, rewards, free getaways, vacation deals">
+		<meta name="Description" content="All Day Giveaways - Free Contests, Sweepstakes &amp; Giveaways! Win Free Prizes. Join for Free. Amazing Giveaways running daily.">
 		<meta name="Abstract" content=" All Day Giveaways provides free giveaways offering amazing prizes to be won daily.">
-		<meta name="Copyright" content="Copyright All Day Giveaways 2010">
+		<meta name="Copyright" content="Copyright All Day Giveaways 2012">
 		<meta http-equiv="Content-Language" content="EN">
 		<meta name="revisit-after" content="1 days">
 		<meta name="robots" content="FOLLOW,INDEX">
-		<link rel="STYLESHEET" type="text/css" href="/stylesheets/styles.css">
+		<meta property="og:image" content="/static/img/larry_1.png">
+	<meta property="og:image" content="/static/img/logo_home.png">
+	<link rel="STYLESHEET" type="text/css" href="/stylesheets/styles.css">
 	<link rel="STYLESHEET" type="text/css" href="/stylesheets/publishers.css">
 	<link rel="STYLESHEET" type="text/css" media="print" href="/stylesheets/print.css">
 		<link rel="stylesheet" href="/stylesheets/jquery-ui.css" type="text/css">
@@ -26,20 +28,64 @@
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/static/js/header.js"></script>
 	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="/static/js/html5.js"></script>
 
-        <!-- Google Analytics -->
         <script type="text/javascript">
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId      : '159069364127665', // App ID
+                    status     : true, // check login status
+                    cookie     : true, // enable cookies to allow the server to access the session
+                    xfbml      : true,  // parse XFBML
+                    oauth: true
+                });
+                function checkLoginSession() {
+                    FB.getLoginStatus(function(r) {
+                        if (r.authResponse) {
+                            document.location.href = 'http://www.alldaygiveaways.com/giveaways-contests-sweepstakes/signup/facebook/';
+                        } else {
+                            FB.login(function(response) {
+                                FB.getLoginStatus(function(r) {
+                                    if (r.authResponse) {
+                                        document.location.href = 'http://www.alldaygiveaways.com/giveaways-contests-sweepstakes/signup/facebook/';
+                                    }
+                                });
+                            }, {scope: 'publish_stream,user_interests,user_birthday,user_location,email,offline_access'});
+                        }
+                    });
+                }
+                var clicked = false;
+                $("#fb-login-link-signup-header").click(function() {
+                    clicked = true;
+                    checkLoginSession();
+                });
+                /* FB.Event.subscribe('auth.authResponseChange', function(r) {
+                    if (r.authResponse && clicked) {
+                        // document.location.href = 'http://www.alldaygiveaways.com/giveaways-contests-sweepstakes/signup/facebook/';
+                    }
+                });*/
+            }
+               
 		$(document).ready(function() {
 			
 			userLoggedIn = 0;
 			userEligible = 0;
+			userNeedsCompleteProfile =									0
+							;
+			
+			showJustListed = false;
+			showAboutToEnd = false;
 			
 			$("#loginPopupx").click(function(){
 				$(".login_quick").slideToggle(300);
 				return false;
 			});
 
-			FB.init({appId: '159069364127665', status: true, cookie: true, xfbml: true});
+			//FB.init({appId: '159069364127665', status: true, cookie: true, xfbml: true});
+                            //window.fbAsyncInit = function() {
+                                
+                          
+                            //}
 
 			$("input[name=search]").bind('keyup', function() {
 				
@@ -49,7 +95,7 @@
 			var lock = false; //to prevent too many actions building up
 			
 			//selecting interests (press and depress)
-			$(".interest_bar > .item").click(function(){
+			$('input[name="interests"]').click(function(){
 
 				if(!lock) {
 
@@ -59,48 +105,32 @@
 
 					var button = $(this);
 
-					if (!button.hasClass('on')) {
-						$.ajax({
-							type: 'POST',
-							url: '/',
-							dataType: 'json',
-							data: {changeInterest: button.attr("id")},
-							success: function(output) {
-								button.addClass('on');
+					$.ajax({
+						type: 'POST',
+						url: '/',
+						dataType: 'json',
+						data: {changeInterest: button.attr("id")},
+						success: function(output) {
 
-								//to make interest icon colored
-								var src = button.children('.interest_link').children('.interest_icon').attr("src");
-								var srcArray = src.split('_bw');
-								button.children('.interest_link').children('.interest_icon').attr("src", srcArray[0] + srcArray[1]);
-								lock = false;
-								
-								printOutput(output);
-							}
-						});
+							printOutput(output);
+						}
+					});
+					
+					lock = false;
+					
+					//adjust the selected count
+					selectedCount = $("#selectedCount").html();
+					if($(this).is(':checked')) {
+						selectedCount = parseInt(selectedCount) + 1;
+						$("#selectedCount").html(selectedCount);
+					} else {
+
+						selectedCount = parseInt(selectedCount) - 1;
+						$("#selectedCount").html(selectedCount);
 					}
-					else {
-						$.ajax({
-							type: 'POST',
-							url: '/',
-							dataType: 'json',
-							data: {changeInterest: button.attr("id")},
-							success: function(output) {
-								button.removeClass('on');
-
-								//to make interest icon black and white
-								var src = button.children('.interest_link').children('.interest_icon').attr("src");
-								var srcArray = src.split('.');
-								button.children('.interest_link').children('.interest_icon').attr("src", srcArray[0] + '_bw.' + srcArray[1]);
-								lock = false;
-
-								printOutput(output);
-							}
-						});
-					}
-
+				} else {
+					return false;
 				}
-
-				return false;
 			});
 
 			$(".selectAll").click(function(){
@@ -113,20 +143,14 @@
 					dataType: 'json',
 					data: {changeInterest: 'all'},
 					success: function(output) {
-						//to make all interest icons colored
-						$('.interest_icon').each(function(index) {
-
-							if(!$(this).parent().parent().hasClass("on")) {
-								var src = $(this).attr("src");
-								var srcArray = src.split('_bw');
-								$(this).attr("src", srcArray[0] + srcArray[1]);
-							}
-						});
-
-						$(".item").addClass('on');
+						$('input[name="interests"]').attr('checked','checked');
+						$('input[name="interests"]').parent().addClass('selected');
 
 						printOutput(output);
-						
+
+						//adjust the selected count
+						$("#selectedCount").html($('input[name="interests"]').size());
+
 					}
 				});
 				return false;
@@ -145,19 +169,13 @@
 					dataType: 'json',
 					data: {changeInterest: 'none'},
 					success: function(output) {
-						//to make all interest icons black and white
-						$('.interest_icon').each(function(index) {
-
-							if($(this).parent().parent().hasClass("on")) {
-								var src = $(this).attr("src");
-								var srcArray = src.split('.');
-								$(this).attr("src", srcArray[0] + '_bw.' + srcArray[1]);
-							}
-						});
-						
-						$(".item").removeClass('on');
+						$('input[name="interests"]').removeAttr('checked');
+						$('input[name="interests"]').parent().removeClass('selected');
 
 						printOutput(output);
+						
+						//adjust the selected count
+						$("#selectedCount").html(0);
 
 					}
 				});
@@ -183,6 +201,58 @@
 			});
 
 			$(".selectSortBy, .selectOrder, .selectEntry").change(function(){
+				returnSort();
+				return false;
+			});
+			
+			$("#interest_dropdown").click(function(){
+				showJustListed = false;
+				showAboutToEnd = false;
+				
+				$("#listing_breadcrumb").html("My Interests");
+				$('.side_interest').removeClass('highlight');
+				$(this).parent().addClass('highlight');
+				
+				returnSort();
+			});
+			
+			$(".just_listed").click(function(){
+				showJustListed = true;
+				showAboutToEnd = false;
+				
+				$('.nav_side_options').hide(200);
+				
+				//change current filters
+				$(".selectSortBy").val("startingDate");
+				$(".selectOrder").val("desc");
+				
+				$("#listing_breadcrumb").html("Just Listed");
+				$('.side_interest').removeClass('highlight');
+				$('.side_interest').removeClass('expanded');
+				$(this).parent().addClass('highlight');
+				
+				returnSort();
+			});
+			
+			$(".ending").click(function(){
+				showAboutToEnd = true;
+				showJustListed = false;
+				
+				$('.nav_side_options').hide(200);
+
+				//change current filters
+				$(".selectSortBy").val("endingDate");
+				$(".selectOrder").val("asc");
+				
+				$("#listing_breadcrumb").html("About To End");
+				$('.side_interest').removeClass('highlight');
+				$('.side_interest').removeClass('expanded');
+				$(this).parent().addClass('highlight');
+				
+				returnSort();
+			});
+			
+			$('input[name="interests"]').change(function(){
 				returnSort();
 				return false;
 			});
@@ -215,7 +285,9 @@
 
 			sort['sortBy'] = $(".selectSortBy").val();
 			sort['order'] = $(".selectOrder").val();
-			sort['entry'] = $(".selectEntry").val();	
+			sort['entry'] = $('.selectEntry').val();
+			sort['justListed'] = showJustListed;
+			sort['aboutToEnd'] = showAboutToEnd;
 
 			$.ajax({
 				type: 'POST',
@@ -340,6 +412,7 @@
 		}
 		
 		function printOutput(output){
+			$(".search_info").html('');
 			$(".main_inner").html('');
 
 			if(output[output.length - 1]['total'] == 0){
@@ -350,17 +423,14 @@
 			
 			var results = '';
 			if(output[output.length - 1]['total'] != 0){
+
 				
-				results = '<h5 class="search_info">';
-				
-				results += output[output.length - 1]['total'];
-				results += ' Results <span class="text_blue">';
+				//results += output[output.length - 1]['total'];
+				results += 'Viewing <span>';
 
 				if(output[output.length - 1]['search'] != '') {
-					results += ' for ' + output[output.length - 1]['search'];
+					results += ' for ' + output[output.length - 1]['search'] + ' ';
 				}
-
-				results += ' (';
 
 				results += ((output[output.length - 1]['currentPage'] - 1) * output[output.length - 1]['pageSize']) + 1;
 
@@ -372,10 +442,10 @@
 					results += ((output[output.length - 1]['currentPage'] - 1) * output[output.length - 1]['pageSize']) + output[output.length - 1]['pageSize']
 				}
 
-				results += ' of ' + output[output.length - 1]['total'] + ')</span></h5>';
+				results += ' of ' + output[output.length - 1]['total'] + '</span>';
 			}
 			
-			$(".main_inner").append(results);
+			$(".search_info").append(results);
 
 			if(output != null){
 				for (i = 0; i < output.length - 1; i++) { //the last element contains currentPage and numPages
@@ -384,6 +454,12 @@
 					
 					if(output[i]['entered'] != null){
 						result += output[i]['entered'];
+						result += ' ';
+					}
+					
+					if(output[i]['promotionHighlightGiveaway']){
+						result += 'highlighted';
+						result += ' ';
 					}
 
 					result +=		'"><div class="cast"></div><div class="thumb">\n\
@@ -418,7 +494,8 @@
 
 			return false;
 		}
-
+		
+		//Google Analytics
                 var _gaq = _gaq || [];
                 _gaq.push(['_setAccount', 'UA-16609500-1']);
                 _gaq.push(['_setDomainName', 'none']);
@@ -455,76 +532,95 @@
 
 		function showLoading() {
 
-                        $(".main_inner").html('<CENTER><img src="/static/img/loading.gif" style="margin-top: 55px;"></CENTER>');
+                        $(".main_inner").html('<CENTER><img src="/static/img/loading.gif" style="margin-top: 20px;"></CENTER>');
 
 			return false;
                 };
 
 		//INPUT: location: name of the class to write the paging
 		function updatePaging(location, currentPage, numPages){
+			
 			location = $("." + location);
-
 			location.html('');
-
-			//if first page
-			if(currentPage != 1){
-				$(".paging_holder").append('<a href="#" onclick="return goPrev();" class="btn_arrow_sm_left"><span></span></a>');
-			}
-
-			var i = 1;
-			for (i = 1; i <= numPages; i++)
-			{
-				var link = '<a href="#" onclick="return gotoPage(' + i + ');" class="pg_number';
-
-				if(i == currentPage){
-					link += ' on';
+			
+			if(numPages > 1){
+				
+				//if first page
+				if(currentPage != 1){
+					$(".paging_holder").append('<a href="#" onclick="return goPrev();" class="btn_arrow_sm_left"><span></span></a>');
 				}
 
-				link += '">';
+				var i = 1;
+				for (i = 1; i <= numPages; i++)
+				{
+					var link = '<a href="#" onclick="return gotoPage(' + i + ');" class="pg_number';
 
-				link += i;
+					if(i == currentPage){
+						link += ' on';
+					}
 
-				link += '</a>';
+					link += '">';
 
-				$(".paging_holder").append(link);
-			}
+					link += i;
 
-			//if last page
-			if(currentPage != numPages){
-				$(".paging_holder").append('<a href="#" onclick="return goNext();" class="btn_arrow_sm_right"><span></span></a>');
+					link += '</a>';
+
+					$(".paging_holder").append(link);
+				}
+
+				//if last page
+				if(currentPage != numPages && numPages > 1){
+					$(".paging_holder").append('<a href="#" onclick="return goNext();" class="btn_arrow_sm_right"><span></span></a>');
+				}
 			}
 
 			return false;
 		};
 
-	</script>
-</head>
-<body class="policy">
+		function supports_canvas() {
+			return !!document.createElement('canvas').getContext;
+		}
+		
+		function signupOverlayToggle() {
 
+			$(".signupOverlay").toggle();
+
+			return false;
+		}
+
+	</script>
+	
+			<script type="text/javascript" src="http://www.alldaygiveaways.com/clickheat/js/clickheat.js"></script><noscript><p><a href="http://www.labsmedia.com/clickheat/index.html">Traffic analysis</a></p></noscript><script type="text/javascript"><!--
+			clickHeatSite = 'ADG';clickHeatGroup = 'Privacy-Policy';clickHeatServer = 'http://www.alldaygiveaways.com/clickheat/click.php';initClickHeat(); //-->
+		</script>
+	
+	
+</head>
+<body class="policy ">
+<!-- begin adf.ly conversion tracking --><img src="http://adf.ly/conv.php?aid=35273" width="1" height="1" border="0" hspace="0" vspace="0"><!-- end adf.ly conversion tracking -->
 	<div class="outer">
 		<div class="wrapper">
-			<div class="header">
-				<div class="top_holder">
-					<a href="/" class="logo">All Day Giveaways</a>
+			<div class="header">				
+					<a href="/" class="logo" title="All Day Giveaways has tons of free giveaways to enter">All Day Giveaways</a>
 					<div class="nav">
 						<ul>
 							<li class="nav_giveaways"><a href="/contests/"><span>Giveaways!</span></a></li>
 							<li class="nav_points"><a href="/giveaways-contests-sweepstakes/diamond_points/"><span>Diamond Points</span></a></li>															
 							<li class="nav_winners"><a href="/giveaways-contests-sweepstakes/winners_circle"><span>Winner's Circle</span></a></li>
 							<li class="nav_about"><a href="/giveaways-contests-sweepstakes/about/"><span>How it works</span></a></li>																	
+							<li class="nav_blog"><a href="http://blog.alldaygiveaways.com/" target="new"><span>Blog</span></a></li>																	
 						</ul>
 					</div>
-					<div id="fb-root"></div>
-					<script src="http://connect.facebook.net/en_US/all.js"></script>
 					<div class="signin_holder">
 						<div class="return">
+							<h5>New? Join for free! <a href="/giveaways-contests-sweepstakes/signup/" onclick="return signupOverlayToggle();" class="btn">Sign up</a></h5>
 							<h5>Already a member? <a id="loginPopupx" href="/giveaways-contests-sweepstakes/login/">Login</a></h5>
 							<div class="clear"></div>
 						</div>
 						<div class="dropdown login_quick" style="display: none;">
 							<form action="/giveaways-contests-sweepstakes/login/" method="post">
 								<div class="login_title">Login using Facebook</div>
-								<div class="fb_login"><fb:login-button size="large" perms="publish_stream,user_interests,user_birthday,user_location,email,offline_access" onlogin="document.location.href=&quot;http://www.alldaygiveaways.com/giveaways-contests-sweepstakes/login/facebook/&quot;;" id="fb-login-link">Connect</fb:login-button></div>
+								<div class="fb_login"><fb:login-button size="large" data-scope="publish_stream,user_interests,user_birthday,user_location,email,offline_access" onlogin="document.location.href=&quot;http://www.alldaygiveaways.com/giveaways-contests-sweepstakes/login/facebook/&quot;;" id="fb-login-link">Connect</fb:login-button></div>
 								<h3 style="margin: 5px auto;">OR</h3>
 								<div class="login_title">Login with email address</div>								
 								<table cellspacing="0" border="0" class="tbl_lg">
@@ -540,37 +636,14 @@
 									</tr>
 								</tbody></table>
 							</form>							
-						</div>										
-												
-					</div>
-					<div class="clear"></div>
-				</div>				
-				<div class="search">
-					<div class="search_field">
-						<form action="/contests/" method="get" id="searchForm">
-							<input type="text" id="searchInput" class="searchform" autocomplete="off" name="search" value="">
-							<div class="options" id="searchBar">
-																	<a href="/giveaways-contests-sweepstakes/login/" class="btn_more">My Interests</a>
-															</div>
-							<div class="buttons">
-																	<span class="btn"><span><input type="submit" value="Search"></span></span>
-															</div>
-						</form>												
-					</div>
-					<div class="signin">				
-						<div class="sign_inner">
-							<h5>Want to enter?<br>Join for free!</h5>
-							<div class="buttons"><a href="/giveaways-contests-sweepstakes/signup/" class="btn"><span>Sign up</span></a></div>
-							<div class="clear"></div>
 						</div>
-					</div>
-					<div class="pts_balance">
+						<div class="pts_balance">
 						<div class="member_signin" id="memberBar">							
 							<div class="inside">
 								<h5 class="name" id="memberMenuBar"><a href="#" class="btn_more"></a></h5><div class="clear"></div>
-								<a href="/giveaways-contests-sweepstakes/points/" class="pts"><span><b></b>pts</span></a>
+								<a href="/giveaways-contests-sweepstakes/points/" class="pts"><span><b class="status"></b>pts</span></a>
 							</div>
-							<a href="/giveaways-contests-sweepstakes/profile/" class="avatar"><img src="/static/img/profile_picture_sm.gif" border="0" alt=""></a>
+							<a href="/giveaways-contests-sweepstakes/profile/" class="avatar"><img id="imageURL" src="/static/img/profile_picture_sm.gif" border="0" alt=""></a>
 							<div class="clear"></div>																			
 							<div class="dropdown">
 								<table border="0" cellspacing="0">									
@@ -583,18 +656,118 @@
 								</tbody></table>
 							</div>
 							<div class="clear"></div>
-						</div>						
-					</div>					
+						</div>
+						<div class="clear"></div>						
+					</div>																					
+					</div>									
+					<div class="search_top">
+						<form action="/contests/" method="get" id="searchForm">
+							<div class="buttons">
+								<span class="btn_sm"><span><input type="submit" value="Search"></span></span>							</div>
+
+							<input type="text" id="searchInput" class="searchform" autocomplete="off" name="search" value="">
+						</form>
+						<div class="clear"></div>
+					</div>
+					<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+					<!--script src="http://connect.facebook.net/en_US/all.js"></script-->
+                                                <script>
+                                                        (function() {
+                                                      var e = document.createElement('script'); e.async = true;
+                                                      e.src = document.location.protocol 
+                                                        + '//connect.facebook.net/en_US/all.js';
+                                                      document.getElementById('fb-root').appendChild(e);
+                                                    }());
+                                                    </script>    
 					<div class="clear"></div>
+					<div id="search-result-holder"></div>
 				</div>
-				<div id="search-result-holder"></div>
-								
-			</div>			
+				
 										
-			<div class="content">
+							<div class="signupOverlay" style="display: none;">
+					
+					<div class="inner">
+					<div class="inner_bg">
+						<div class="larrySignup" title="Sign up as a member for Free!">&nbsp;</div>
+						<a href="#" class="close" onclick="return signupOverlayToggle();" style="margin-right: 10px;">close</a>
+						<div class="clear"></div>
+						<h1>Create your account</h1>												
+						<div class="form">
+							<form method="post" action="/giveaways-contests-sweepstakes/signup_1/">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>									
+										<td><label>First name<span class="text_orange">*</span></label><input type="text" name="firstName" value=""></td>
+									</tr>
+									<tr>									
+										<td><label>Last name<span class="text_orange">*</span></label><input type="text" name="lastName" value=""></td>
+									</tr>
+									<tr>									
+										<td><label>Email address<span class="text_orange">*</span></label><input type="text" name="emailAddress" value=""></td>
+									</tr>
+									<tr>									
+										<td><label>Password<span class="text_orange">*</span></label><input type="password" name="password" value=""></td>
+									</tr>
+									<tr>									
+										<td><label>Confirm password<span class="text_orange">*</span></label><input type="password" name="confirmPassword" value=""></td>
+									</tr>
+									<!--tr>									
+										<td><span class="alignLeft text_sm text_orange">*Required</span><br><span class="alignRight text_sm text_blue">Your details will not be sold or shared with any third party</span></td>								
+									</tr-->
+								</tbody></table>							
+								<strong class="bold text_m">By clicking ’I agree’ below you agree with our <a href="/giveaways-contests-sweepstakes/tos/" target="new">terms of service</a></strong>
+								<div class="buttons"><span class="btn_lg" style="margin-right: 0px;"><span><input type="submit" name="submit" value="I Agree, Sign Up"></span></span></div>							
+							</form>
+						</div>
+						<div class="fb_info">
+							<h4>Signup using your Facebook acount</h4>							
+							<a href="#" id="fb-login-link-signup-header" class="click" title="Signup using Facebook"></a>
+						</div>
+						
+						<div class="clear"></div><div class="ad_holder">
+							<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://ads.alldayinteractive.com/www/delivery/...'
+  * to
+  *   'https://ads.alldayinteractive.com/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.alldayinteractive.com/www/delivery/ajs.php':'http://ads.alldayinteractive.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=21");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.alldayinteractive.com/www/delivery/ajs.php?zoneid=21&amp;cb=41362656400&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120603010028id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy/"></script><noscript><a href='http://ads.alldayinteractive.com/www/delivery/ck.php?n=a393b9c9&amp;cb=648277' target='_blank'><img src='http://ads.alldayinteractive.com/www/delivery/avw.php?zoneid=21&amp;cb=310371&amp;n=a393b9c9' border='0' alt='' /></a></noscript>
+
+						</div>
+					</div>
+					</div>				
+				</div>
+						<div class="content">
 				<div class="inner">
 	<div class="general">
-		<h1>Privacy Policy</h1>
+		<h2>Privacy Policy</h2>
 		<!--div class="important">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -744,14 +917,52 @@ and use authorization granted to Site visitors.</p>
 				</div-->
 				<div class="left link_signup">
 					<h3>Run a giveaway</h3>
-					<p>See how running a Giveaway with All Day Giveaways<br>can benefit your business.&nbsp;<a href="/giveaways-contests-sweepstakes/contact/">Contact us</a></p>
+					<p>See how running a Giveaway with All Day Giveaways<br>can benefit your business.&nbsp;<a href="/giveaways-contests-sweepstakes/contact_giveaway/">Get more information</a></p>
+				</div>
+				<div class="right">
+					<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://ads.alldayinteractive.com/www/delivery/...'
+  * to
+  *   'https://ads.alldayinteractive.com/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.alldayinteractive.com/www/delivery/ajs.php':'http://ads.alldayinteractive.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=17");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.alldayinteractive.com/www/delivery/ajs.php?zoneid=17&amp;cb=75878425170&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120603010028id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy/"></script><noscript><a href='http://ads.alldayinteractive.com/www/delivery/ck.php?n=a11ce244&amp;cb=31810' target='_blank'><img src='http://ads.alldayinteractive.com/www/delivery/avw.php?zoneid=17&amp;cb=784947&amp;n=a11ce244' border='0' alt='' /></a></noscript>
+
 				</div>
 				<div class="clear"></div>			
 				<hr>
 				<div class="left">
-					<a href="/giveaways-contests-sweepstakes/tos/">Terms of Service</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/privacypolicy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/faq/">FAQs</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/contact/">Contact Us</a>
+					<a href="/giveaways-contests-sweepstakes/tos/">Terms of Service</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/privacypolicy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/faq/">FAQs</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/contact/">Contact Us</a>&nbsp;&nbsp;&nbsp;<a href="http://support.alldaygiveaways.com">Help &amp; Support</a>
 					<br>
-					<span>© All Day Giveaways 2010</span>	
+					<span>© All Day Giveaways 2012</span>	
 				</div>
 				<div class="right">
 					<h2>1-877-511-ADGA<span class="normal">(2342)</span></h2>
@@ -766,10 +977,10 @@ and use authorization granted to Site visitors.</p>
 		<div class="footer_inner" style="display: none;">
 			<div class="left">
 							</div>
-			<div class="right" style="display: none;"><img src="/static/img/guy_footer.gif" class="guy_footer" border="0" alt="Diamond Status"><div class="msg_holder"><div class="msg"><span>Hi, My name is Guy Giveaway.</span></div></div></div>
 			<div class="clear"></div>
 		</div>
 		
 	</div>
+
 
 </body></html>
