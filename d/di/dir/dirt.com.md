@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirt.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127121959id_/http%3A//www.dirt.com/about-dirt-com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirt.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602121932id_/http%3A//www.dirt.com/about-dirt-com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dirt.com | The Leader in Breaking News, Opinions, Scandal and Dirt
+# Privacy Policy | Dirt.com | Dirt.com
 
 PRIVACY POLICY AND CONSUMER EDUCATION
 
@@ -20,7 +20,7 @@ Personal Information is used for the following purposes: (i) to provide and impr
 
 **PRIVACY POLICY AND CONSUMER EDUCATION**  
 **Children’s Privacy**  
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should cont getthedirt@dirt.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should cont getthedirt@[dirt](http://www.dirt.com/ "dirt").com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
 **Consumer Education Related to Social Networking**  
@@ -62,4 +62,4 @@ Your information may be transferred to – and maintained on – computers locat
 The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 **VIOLATIONS AND COMMENTS**  
-Please report any violations of this Privacy Policy or make any comments to getthedirt@dirt.com.
+Please report any violations of this Privacy Policy or make any comments to [getthedirt@dirt.com.](mailto:GetTheDirt@dirt.com)
