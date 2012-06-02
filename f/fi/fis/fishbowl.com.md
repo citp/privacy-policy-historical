@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowl.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221214157id_/http%3A//www.fishbowl.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowl.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602095020id_/http%3A//www.fishbowl.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Browser
 
