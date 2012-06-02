@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatts.com.au privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203040333id_/http%3A//www.tattsgroup.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatts.com.au privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602095437id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -37,7 +37,8 @@ Tatts Group does not generally disclose personal information to third parties ex
   * information relevant to the management of Tatts Group businesses which is otherwise available in the public domain;
   * where third party contractors appointed by Tatts Group require access to personal information held by us to perform services for us or on your behalf; or
   * where Tatts Group reasonably believes it is necessary to protect any person and/or Tatts Group rights or property;
-  * where Tatts Group is required or authorised by law to do so; or
+  * where Tatts Group is required or authorised by law to do so; 
+  * to recognised governing bodies responsible for the administration of events on which Tatts Group businesses conduct wagering where there are reasonable grounds to suspect that there has been a breach of the rules of the event, rules of the governing body or a threat to the probity of the event on which Tatts Group businesses conduct wagering; or
   * with your consent.
 
 
@@ -72,11 +73,11 @@ Tatts Group will only transfer personal information overseas in circumstances wh
 
 ## 12\. Changes in the Future
 
-Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx?CSRT=16682486393375864295).
+Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx).
 
 ## 13\. Additional Information on Privacy
 
-For further information about privacy issues and the protection of privacy, visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
+For further information about privacy issues and the protection of privacy, visit the Office of the Australian Information Commissioner's website at [www.oaic.gov.au](http://www.oaic.gov.au/)[](http://www.privacy.gov.au/).
 
 ## 14\. Resolving your privacy concerns
 
@@ -84,7 +85,7 @@ If you have any issues that you wish to raise with Tatts Group or you wish to ma
 
 Our contact details are as follows:
 
-**Tatts Group Limited**  
+Tatts Group Limited  
 ---  
 Street Address | 615 St.Kilda Rd, Melbourne VIC 3004  
 Postal Address | Locked Bag 888 St.Kilda Rd Central, VIC 8008  
