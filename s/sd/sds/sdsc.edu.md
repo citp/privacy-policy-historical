@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sdsc.edu privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203224424id_/http%3A//www.sdsc.edu/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdsc.edu privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602071611id_/http%3A//www.sdsc.edu/Privacy.html) for the most accurate reproduction.*
 
-# San Diego Supercomputer Center
+# San Diego Supercomputer Center: Privacy
 
 The San Diego Supercomputer Center (SDSC) is committed to your privacy within the applicable laws of the State of California and the Policies of the University of California. This disclosure includes:
 
@@ -14,7 +14,7 @@ The San Diego Supercomputer Center (SDSC) is committed to your privacy within th
 
 
 
-Please contact SDSC at [communications@sdsc.edu](mailto:info@sdsc.edu#99;ommunications@sdsc.edu) if you feel we're not abiding by our posted privacy notice.
+Please contact SDSC at [communications@sdsc.edu](mailto:communications@sdsc.edu) if you feel we're not abiding by our posted privacy notice.
 
 ### Information Collection and Use
 
@@ -38,7 +38,7 @@ This Web site takes every precaution to protect our users' information. When use
 
 ### Correcting/Updating Personal Information
 
-If a user's personally identifiable information changes (such as e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. 
+If a user's personally identifiable information changes (such as e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.
 
 ### Notification of Changes
 
