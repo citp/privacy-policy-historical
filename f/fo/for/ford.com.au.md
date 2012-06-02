@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323111355id_/http%3A//www.ford.com.au/servlet/Satellite%3Fc%3DDFYPage%26cid%3D1137384249847%26pagename%3Dwrapper%26site%3DFOA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602124027id_/http%3A//www.ford.com.au/privacy) for the most accurate reproduction.*
 
 # Ford Australia - Privacy
 
