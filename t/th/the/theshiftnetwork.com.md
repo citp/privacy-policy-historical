@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211713id_/http%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040334id_/http%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The Shift Network
+# Privacy Policy | The Shift Network
 
-## Privacy policy
-
-The Shift Network, Inc.  
-Privacy Policy
+The Shift Network, Inc. Privacy Policy
 
 This privacy statement discloses the privacy practices of The Shift Network, Inc. and all websites owned or operated by or on behalf of The Shift Network, Inc., including, without limitation, [theshiftnetwork.com](http://theshiftnetwork.com/) and [shiftmovement.com](http://shiftmovement.com/) (collectively referred to as “our websites”).
 
@@ -75,7 +72,7 @@ The Shift Network provides users the following options for changing and modifyin
 
 ### Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with any of our websites, you can contact: [support@theshiftnetwork.com](mailto:support@theshiftnetwork.com) (802) 363-2844
+If you have any questions about this privacy statement, the practices of this site, or your dealings with any of our websites, you can contact: support@theshiftnetwork.com (802) 363-2844
 
 ###  Acceptance of Privacy Statement
 
@@ -85,5 +82,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Your continued use of any portion of our website following posting of the updated privacy statement will constitute your acceptance of the changes.
 
-Effective Date  
+Effective Date   
 This privacy statement was last revised on March 30, 2010.
