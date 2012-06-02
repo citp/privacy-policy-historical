@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230011034id_/http%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602190440id_/http%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Complaints Board - Consumer Complaints, Reviews, Information
 
