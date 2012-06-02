@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mad4flash.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828155052id_/http%3A//www.mad4flash.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mad4flash.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040455id_/http%3A//www.mad4flash.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Games
+# Privacy Flash Games and Embed Code
 
 Your Privacy at Mad4flash.com  
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website. 
