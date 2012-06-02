@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addedsuccess.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203200252id_/http%3A//www.addedsuccess.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addedsuccess.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603013204id_/http%3A//addedsuccess.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Addedsuccess - inner
 
