@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupspaces.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115090414id_/http%3A//groupspaces.com/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupspaces.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602093241id_/http%3A//groupspaces.com/c/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : GroupSpaces
 
@@ -10,7 +10,7 @@ Any capitalized terms not defined herein have the meaning set forth in the [Grou
 
 ## **1\. Who we are**
 
-For the purpose of the Data Protection Act 1998, the data controller is GroupSpaces Limited of 32-38 Scrutton Street, London EC2A 4RQ. We respect the right that you and members of your Group have to privacy and will only process personal data you or they provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
+For the purpose of the Data Protection Act 1998, the data controller is GroupSpaces Limited of Suite 17861, Lower Ground Floor, 145-157 St John Street, London EC1V 4PW. We respect the right that you and members of your Group have to privacy and will only process personal data you or they provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
 
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please e-mail us at: [helpdesk@groupspaces.com](mailto:helpdesk@groupspaces.com).
 
