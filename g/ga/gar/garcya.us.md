@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garcya.us privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203024858id_/http%3A//garcya.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garcya.us privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602104645id_/http%3A//garcya.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design Blog
 
