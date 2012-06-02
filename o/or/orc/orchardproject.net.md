@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the orchardproject.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102062541id_/http%3A//www.orchardproject.net/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orchardproject.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602103247id_/http%3A//www.orchardproject.net/privacy) for the most accurate reproduction.*
 
-# Orchard Project - Terms of Use
-
-  1. ## PRIVACY POLICY
+# Privacy Policy - Orchard Project
 
 ## Outercurve Foundation Online Privacy Statement
 
@@ -24,7 +22,7 @@ Outercurve’s Web site may provide links to third-party Web sites for the conve
 
 ## TYPES OF INFORMATION WE COLLECT
 
-### Non-Personal Information 
+### Non-Personal Information
 
 Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. Outercurve may collect and analyze non-personal information to evaluate how visitors use the Outercurve Web site.
 
@@ -77,6 +75,3 @@ From time to time Outercurve may email you electronic newsletters, announcements
 ### Contacting Us
 
 Questions about this Privacy Statement can be directed to [info@outercurve.org](mailto:info@outercurve.org).
-
-
-
