@@ -1,67 +1,77 @@
-> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209062801id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602232949id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Hugh Thompson's Digital Home
+# Privacy Policy : Digital Home
 
 You are here: [Home](http://www.digitalhome.ca/) / [About](http://www.digitalhome.ca/about/) / Privacy Policy
 
-Privacy Policy
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-This statement discloses Digital Home Canada’s privacy practices and policies.
+**What this Privacy Statement Covers**
 
-INFORMATION COLLECTION, USE AND DISCLOSURE
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope. 
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link.
 
-Digital Home respects your personal privacy. You may use our website without providing any personal information about yourself to us. If we ask you to provide us with any personal information, we will tell you the purposes for which we intend to use that information. We will not collect, use, or disclose that information without your consent. We not use or disclose the information for any other purposes without your consent.
 
-COOKIES
 
-Cookies are small pieces of data which are stored on your computer to allow your web browser to remember something about our website. Cookies are useful because they allow us to personalize our site for you. For example, cookies are used on our Digital Forums in order that returning members do not always need to login. Cookies may also enable us to track and target your interests to enhance your experience on our site.
+**Collection and Use of Personal Information**
 
-BUSINESS RELATIONSHIPS
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services. 
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services. 
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-We collect and share aggregated demographic information about our users with our advertisers and other business partners, but this information cannot be used to identify any particular individual.
 
-LINKS
 
-This website may contain links to other sites and advertisements; however, this privacy statement only applies to information collected by Digital Home. We are not responsible for the privacy practices and policies of linked websites.
+**Collection and Use of Non-Personal Information**
 
-RETENTION OF INFORMATION
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you. 
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We will only retain your personal information for as long as necessary to fulfill the purposes for which we collected the information. Once the information is no longer required to fulfill these purposes, it will either be destroyed, erased or made anonymous.
 
-ACCESS TO INFORMATION
 
-At your request, we will provide to you a statement explaining the extent to which we hold personal information about you, and we will explain how that information has been used or disclosed by us.
+**Information Sharing and Disclosure**
 
-SECURITY
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information. 
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
 
-We will use appropriate security safeguards to protect your personal information against loss, theft, and unauthorized access.
 
-This statement discloses Digital Home Canada’s privacy practices and policies.
 
-INFORMATION COLLECTION, USE AND DISCLOSURE
+**Consent**
 
-Digital Home respects your personal privacy. You may use our website without providing any personal information about yourself to us. If we ask you to provide us with any personal information, we will tell you the purposes for which we intend to use that information. We will not collect, use, or disclose that information without your consent. We not use or disclose the information for any other purposes without your consent.
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
 
-COOKIES
 
-Cookies are small pieces of data which are stored on your computer to allow your web browser to remember something about our website. Cookies are useful because they allow us to personalize our site for you. For example, cookies are used on our Digital Forums in order that returning members do not always need to login. Cookies may also enable us to track and target your interests to enhance your experience on our site.
 
-BUSINESS RELATIONSHIPS
+**How to Access your Personal Information**
 
-We collect and share aggregated demographic information about our users with our advertisers and other business partners, but this information cannot be used to identify any particular individual.
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
 
-LINKS
 
-This website may contain links to other sites and advertisements; however, this privacy statement only applies to information collected by Digital Home. We are not responsible for the privacy practices and policies of linked websites.
 
-RETENTION OF INFORMATION
+**Security**
 
-We will only retain your personal information for as long as necessary to fulfill the purposes for which we collected the information. Once the information is no longer required to fulfill these purposes, it will either be destroyed, erased or made anonymous.
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions. 
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. 
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
 
-ACCESS TO INFORMATION
 
-At your request, we will provide to you a statement explaining the extent to which we hold personal information about you, and we will explain how that information has been used or disclosed by us.
 
-SECURITY
+**Changes to this Privacy Statement**
 
-We will use appropriate security safeguards to protect your personal information against loss, theft, and unauthorized access.
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**  
+
+
+*   
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network’s Web site individually and opt out (if they offer this capability). 
+* If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
