@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesumo.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603180316id_/http%3A//www.gamesumo.com/index.php%3Ftask%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesumo.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602045220id_/http%3A//www.gamesumo.com/index.php%3Ftask%3Dpp) for the most accurate reproduction.*
 
-# GameSumo.com - Page introuvable
+# GameSumo.com - Az oldal nem található
 
 ToonGames PRIVACY POLICY
 
