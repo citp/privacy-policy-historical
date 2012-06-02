@@ -1,106 +1,55 @@
-> *The following text is extracted and transformed from the waeplus.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202181527id_/http%3A//www.waeplus.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waeplus.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602044531id_/http%3A//www.waeplus.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**What information do we collect?**
+This privacy policy sets out how WAE+ Limited (hereby known as WAE+) uses and protects any information that you give WAE+ when you use this website.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
+WAE+ is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Any data we request that is not required will be specified as voluntary or optional. 
+WAE+ may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 22/05/2012.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+ **What we collect**
 
- **What do we use your information for?**
+We may collect the following information:
 
-Any of the information we collect from you may be used in one of the following ways: 
+When you make a purchase from our website, we collect certain personal information from you (for example: your name, email address, payment address and details). All such information is held on secure servers. WAE+ complies fully with all applicable Data Protection and consumer legislation, and will treat all your personal information as fully confidential.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**What we do with the information we gather**
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
+Internal record keeping.  
+We may use the information to improve our products and services.  
+We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.   
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+In order to serve you most efficiently, reputable third-party banking and distribution institutions handle our credit card transactijohons and order fulfilment. They receive the information needed to verify and authorise your payment card and to process your order. All such organisations are under strict obligation to keep your personal information private.
 
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+ **Security**
 
-• To send periodic emails
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+ **How we use cookies**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
- **How do we protect your information?**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+For full information please check our [cookie policy](https://www.waeplus.co.uk/pages/Cookie-Information.html "Cookie Information")
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be held at all.
+ **Links to other websites**
 
- **Do we use cookies?**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+ **Controlling your personal information**
 
- **Do we disclose any information to outside parties?**
+You may choose to restrict the collection or use of your personal information in the following ways:  
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@waeplus.com
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **CAN-SPAM Compliance**
-
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://dropship.weareelectricals.com/pages/Terms-%26-Conditions.html.
-
- **Your Consent**
-
-By using our site, you consent to our privacy policy.
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
-
-This policy was last modified on **16/02/2011**
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-weareelectricals.com  
-206 2nd Floor Quayside Tower  
-Birmingham, West Midlands B1 2HF  
-United Kingdom  
-info@waeplus.co.uk  
-08000029045
-
- **Privacy Policy Customer Pledge**
-
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
-California Online Privacy Protection Act  
-Childrens Online Privacy Protection Act  
-Privacy Alliance  
-Controlling the Assault of Non-Solicited Pornography and Marketing Act
-
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
-
-Respectfully, 
-
-Tina Murray Customer Service Manager  
-Dropship.WeAreElectricals.com
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 180 Newhall Street, Birmingham, B3 1SJ.
