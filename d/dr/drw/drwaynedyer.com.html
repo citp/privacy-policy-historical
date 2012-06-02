@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the drwaynedyer.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101140103id_/http%3A//www.drwaynedyer.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drwaynedyer.com privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603001627id_/http%3A//www.drwaynedyer.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>
 Privacy - Dr. Wayne Dyer </title>
 <meta name="description" content="Dr. Wayne Dyer Privacy Policy.">
 <link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="/css/styles.css"><link rel="stylesheet" type="text/css" href="/js/jquery.jcarousel.css"><link rel="stylesheet" type="text/css" href="/js/tango/skin.css"><script type="text/javascript" src="/js/urchin.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script><script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js"></script><link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.7.1.custom.css"><script type="text/javascript">
@@ -50,6 +51,9 @@ Privacy - Dr. Wayne Dyer </title>
 	$(document).ready(function() {
 		var spinner = '<img src="/img/spinner.gif" class="spinner" />';
 		$('body').prepend(spinner);
+		$('ul.products a,.sections a').click(function(){
+			return productLoad(this);
+		}).filter(':contains("Wishes"):first').click();
 	});
 
 	function openQuickLook(quickLookClass) {
@@ -95,6 +99,16 @@ Privacy - Dr. Wayne Dyer </title>
 		// if they click on an individual product, select or deselect that product and submit the selected formats
 		if($container.hasClass('products') && !$container.hasClass('all')) {
 
+			formatsList = '/index/formats:';
+			if($anchor.next('input').val() != undefined){
+				formatsList += $anchor.next('input').val();
+			}else{
+				formatsList += '0';
+			}
+			$('ul.products a').removeClass('selected');
+			$anchor.addClass('selected');
+
+			/*
 			if($anchor.hasClass('selected')) {
 				$anchor.removeClass('selected');
 				// if we have removed all filters, display all products
@@ -116,6 +130,7 @@ Privacy - Dr. Wayne Dyer </title>
 			if(formatsList.length > 0) {
 				formatsList = '/index/formats:' + formatsList;
 			}
+			*/
 		}
 
 		$('.dyer-products').hide();
@@ -177,7 +192,8 @@ Privacy - Dr. Wayne Dyer </title>
 			return true;
 		});
 	});
-</script><link rel="stylesheet" type="text/css" href="/css/privacy.css" media="all"><!--[if lte IE 6]>
+</script>
+<!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="/css/ie6.css" media="all" /><![endif]-->
 <!--[if lte IE 7]>
 <link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" /><![endif]-->
@@ -187,13 +203,13 @@ Privacy - Dr. Wayne Dyer </title>
 
 <a href="/"><h1>Dr. Wayne W. Dyer</h1></a>
 
-<div id="enews_signup">
-
-<form class="header-enews-form" method="post" action="/privacy"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="c0e3da13f42080a35d52c5b1c007d8f85ebf6ed9" id="Token1149946029"></fieldset><label for="signup">e-news keep in touch</label><input name="data[Enews][email]" type="text" id="signup" value=""><input type="submit" id="submitbutton" value="">
+<div id="enews_signup" style="margin-top:16px; text-align:right;">
+<a href="/enews"><img src="/img/home/sign-up-enews-gift-hd.gif" alt="Sign Up for Dr. Wayne Dyer's E-news and Receive a Free Meditation Download" style="margin-bottom:4px;"></a><br>
+<form class="header-enews-form" method="post" action="/privacy"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="47714a3f42f8073af12b3f6b3700fdafdf446be0" id="Token1197853730"></fieldset><label for="signup" style="text-indent:0;"><a href="/enews"><img src="/img/enews_keepintouch2_03.gif" alt="e-news keep in touch"></a></label>
+<input name="data[Enews][email]" type="text" id="signup" value="" style=""><input type="submit" id="submitbutton" value="">
 </form>
 <style type="text/css">
-	.header-enews-form .error-message {
-			}
+	.header-enews-form {float:right;}
 </style>
 
 
@@ -218,9 +234,9 @@ Privacy - Dr. Wayne Dyer </title>
 
 
 
-<!--					<div id="enews_signup"> <form id="EnewsAddSimpleForm" method="post" action="/enews/add_simple/DYER_ENEWS_GROUP"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="data[_Token][key]" value="c0e3da13f42080a35d52c5b1c007d8f85ebf6ed9" id="Token1647824159" /></fieldset>			            <label for="email"> </label>
+<!--					<div id="enews_signup"> <form id="EnewsAddSimpleForm" method="post" action="/enews/add_simple/DYER_ENEWS_GROUP"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="data[_Token][key]" value="47714a3f42f8073af12b3f6b3700fdafdf446be0" id="Token253652579" /></fieldset>			            <label for="email"> </label>
 			            <input name="data[Enews][email]" type="text" value="" id="EnewsEmail" /> <input type="submit" class="button" value=" " />			            <div class="clear"></div>
-			            <fieldset style="display:none;"><input type="hidden" name="data[_Token][fields]" value="e78aa932af8bb6212d774ed27d845c79c34352c3%3An%3A0%3A%7B%7D" id="TokenFields1823379601" /></fieldset></form> </div>
+			            <fieldset style="display:none;"><input type="hidden" name="data[_Token][fields]" value="e78aa932af8bb6212d774ed27d845c79c34352c3%3An%3A0%3A%7B%7D" id="TokenFields1860367522" /></fieldset></form> </div>
 				 -->  <div class="clear"></div>
   <div id="sidebar">
     <div id="sidebar_content">
@@ -299,14 +315,22 @@ $(document).ready(function() {
 <div class="featured-products">
     	<a href="" class="previous">Previous</a>
 	<a href="" class="next">Next</a>
-	<div class="carousel" style="height: 144px;">
+	<div class="carousel" style="height: 110px;">
   	<div class="promo-carousel">
 		<ul class="promo-groups">
 			<li class="site promo">
-		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=4958"><img src="/img/resize_cache/4958_c1.gif" width="104.08921933086" height="200" alt="Unstoppable Me! App"></a></span>
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=4958"><img src="/img/resize_cache/4958_c1.gif" width="120" height="120" alt="Unstoppable Me! App"></a></span>
 		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=4958">Unstoppable Me! App</a></span>
 
 		<p>Now available as a children's eBook for iPhone, iPod Touch and iPad. Dr. Wayne Dyer provides the audio narration for this fantastic adaptation.</p>
+
+     </li>
+
+<li class="site promo">
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=2848"><img src="/img/resize_cache/2848_c1.gif" width="120" height="136.28571428571" alt="Unstoppable Me!"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=2848">Unstoppable Me!</a></span>
+
+		<p></p>
 
      </li>
 
@@ -319,10 +343,26 @@ $(document).ready(function() {
      </li>
 
 <li class="site promo">
-		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=4119"><img src="/img/resize_cache/4119_c1.gif" width="120" height="170.57142857143" alt="Make The Shift!"></a></span>
-		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=4119">Make The Shift!</a></span>
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=2614"><img src="/img/resize_cache/2614_c1.gif" width="120" height="106.28571428571" alt="Incredible You!"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=2614">Incredible You!</a></span>
 
-		<p>Best-selling author and renowned spiritual teacher, Dr. Wayne W. Dyer, presents his first feature film—<em>The Shift</em>!</p>
+		<p></p>
+
+     </li>
+
+<li class="site promo">
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=3248"><img src="/img/resize_cache/3248_c1.gif" width="120" height="136.28571428571" alt="It‘s Not What You‘ve Got!"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=3248">It‘s Not What You‘ve Got!</a></span>
+
+		<p></p>
+
+     </li>
+
+<li class="site promo">
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=5671"><img src="/img/resize_cache/5671_c1.gif" width="120" height="120" alt="It's Not What You've Got! App"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=5671">It's Not What You've Got! App</a></span>
+
+		<p>Lessons for kids on money and abundance, is now available as a children's Book for your iPhone, iPad and iPod Touch.</p>
 
      </li>
 		</ul>
@@ -415,7 +455,7 @@ Our online e-newsletter asks users to give us contact information (like their na
     </div>
     <div class="col-right">
     	<ul class="top">
-    		<li><a href="/copyright">© 2011 Dr. Wayne W. Dyer</a></li>
+    		<li><a href="/copyright">© 2012 Dr. Wayne W. Dyer</a></li>
         	<li><a href="/terms-of-use">Terms of Use</a> </li>
         	<li><a href="/privacy">Privacy</a></li>
             <li><a href="/pages/sitemap">Sitemap</a></li>
@@ -470,7 +510,7 @@ Our online e-newsletter asks users to give us contact information (like their na
 		s.eVar7=""
 		s.eVar8=""
 		s.eVar9=s.purchaseID
-		s.eVar10="216.129.122.140"
+		s.eVar10="64.214.54.13"
 		s.eVar11=""
 		s.eVar12=""
 		s.eVar13=""
@@ -485,6 +525,7 @@ src="http://drwaynedyer.122.2o7.net/b/ss/hhdyerprod,hhglobalprod/1/H.20.3--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->		
 </div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/36/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","776912703d",29794,"MldaN0sAWkEAAkxYWQsdeQBNCFtcThFZVlMWHVwKShFYUxg=",0,1115,new Date().getTime()]);</script>
 
 
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/36/eum/rum.js"></script></body></html>
