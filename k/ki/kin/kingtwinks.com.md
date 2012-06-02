@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingtwinks.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203084042id_/http%3A//www.kingtwinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingtwinks.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602042654id_/http%3A//kingtwinks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Gay Twink Tube
 
