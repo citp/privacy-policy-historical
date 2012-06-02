@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tout.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011154950id_/http%3A//www.tout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tout.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602194821id_/http%3A//www.tout.com/privacy) for the most accurate reproduction.*
 
 # TOUT | Life's Moments
 
@@ -48,3 +48,25 @@ We take reasonable measures to protect your personal information in an effort to
 ### Questions?
 
 If you have any questions about our privacy policy, please contact us at [help@tout.com](mailto:help@tout.com).
+
+### Address
+
+Tout HQ  
+139 Townsend ST 4th fl  
+San Francisco, CA 94107
+
+### Job Candidates
+
+Visit our [Hiring](https://web.archive.org/hiring) page for open positions, or email us directly at [jobs@tout.com](mailto:%20jobs@tout.com)
+
+### Press and Media
+
+Email us directly at [press@tout.com](mailto:%20press@tout.com)
+
+### Copyright
+
+Learn more about copyright
+
+### Problems or Technical Support
+
+To contact Team Tout regarding any support, product help or technical issues around the Tout apps or website, please use the "FEEDBACK" button or email us directly at [help@tout.com](mailto:%20help@tout.com)
