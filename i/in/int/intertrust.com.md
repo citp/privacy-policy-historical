@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419195145id_/http%3A//www.intertrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602080237id_/http%3A//www.intertrust.com/privacy) for the most accurate reproduction.*
 
 # Intertrust's Privacy Policy | Intertrust
 
@@ -10,7 +10,7 @@ By accessing our Site, You are consenting to the information collection and use 
 
 ### About Intertrust
 
-Intertrust develops and licenses intellectual property for digital rights management (DRM) and trusted computing. We have 85 U.S. patents, hold over 100 issued patents, and have over 300 patent applications pending worldwide. Our patent portfolio covers software and hardware techniques that can be implemented in a broad range of products that use DRM and trusted computing technologies, including digital media platforms and web services, and the enterprise infrastructure. Our research, engineering, and IP groups focus on development of next-generation technologies, invention protection, and licensing.
+Intertrust develops and licenses intellectual property for digital rights management (DRM) and trusted computing. We have over 200 issued patents, and have over 250 patent applications pending worldwide. Our patent portfolio covers software and hardware techniques that can be implemented in a broad range of products that use DRM and trusted computing technologies, including digital media platforms and web services, and the enterprise infrastructure. Our research, engineering, and IP groups focus on development of next-generation technologies, invention protection, and licensing.
 
 ### What personal information do we collect on the Site and why?
 
@@ -41,4 +41,4 @@ Intertrust uses commercially reasonable efforts to store and maintain Personal I
 
 ### Comments and Questions
 
-If You have questions or comments about this Privacy Statement, please [contact us](https://web.archive.org/contact_us_form) or write to: Intertrust Technologies Corporation attn: Legal Department, 955 Stewart Drive, Sunnyvale, CA 94085.
+If You have questions or comments about this Privacy Statement, please [contact us](https://web.archive.org/contact_us_form) or write to: Intertrust Technologies Corporation attn: Legal Department, 920 Stewart Drive, Sunnyvale, CA 94085.
