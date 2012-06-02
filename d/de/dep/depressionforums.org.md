@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226131137id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602051755id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
 
-# The Depression Forums Privacy Policy - The Depression Forums - A Depression & Mental Health Social Community Support Group
+# The Depression Forums Privacy Policy - THE DEPRESSION FORUMS WELCOMES YOU AS A GUEST! - The Depression Forums - A Depression & Mental Health Social Community Support Group
 
 **Privacy Policy**
 
 If you do nothing during your visit but browse through our web site, do searches, read pages, or download information, we will automatically gather and store certain information about your visit. This information does not identify you personally. No information about users/visitors will be sold, shared, or utilized in any commercial way. We automatically collect and store only the following information about your visit:
 
-1\. The Internet domain (for example, "company.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and   
-IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site;  
-2\. the type of browser and operating system used to access our site;  
-3\. the date and time you accessed our site;  
-4\. the searches you made;  
-5\. the pages you visited; and  
-6\. if you linked to this site from another web site, the address of that web site.
+   1\. The Internet domain (for example, "company.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and   
+   IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site;  
+   2\. the type of browser and operating system used to access our site;  
+   3\. the date and time you accessed our site;  
+   4\. the searches you made;  
+   5\. the pages you visited; and  
+   6\. if you linked to this site from another web site, the address of that web site.
 
 We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site, what part of the site they are interested in, how long they use the site, and the types of technology our visitors use.   
 **We do not track or record information about the identity of individuals and their visits.**  
@@ -40,7 +40,7 @@ Our Web site does not track, collect or distribute personal information about in
 
 **About Cookies**
 
-Depression Forums, Inc. is dedicated to protecting the privacy of our visitors and to ensure that our information is accurate, complete, and up-to-date.   
+Depression Forums, Inc.  is dedicated to protecting the privacy of our visitors and to ensure that our information is accurate, complete, and up-to-date.   
 To be useful we must gain and earn the trust and confidence of our members and visitors. Therefore, with the help of Administration and Members alike, we strive to maintain the highest possible level of integrity.   
 Our principals are based on the best codes of practice and ethical standards. We invite suggestions on how we can do better.
 
@@ -48,33 +48,31 @@ We understand that health is a very personal subject and we want our Members and
 **  
 Types of Information Collected**
 
-In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, when you register to use our site, we ask for and store your user name, email address and other identifying contact data. Cookies were originally designed to help a website distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. Currently, websites use cookies to enhance the user's visit; in general, cookies can securely store a user's ID and password, personalize home pages, or identify which parts of a site have been visited.
+In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, when you register to use our site, we ask for and store your user name, email address and other identifying contact data.  Cookies were originally designed to help a website distinguish a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. Currently, websites use cookies to enhance the user's visit; in general, cookies can securely store a user's ID and password, personalize home pages, or identify which parts of a site have been visited.
 
 You may set your web browser to notify you of cookie placement requests or decline cookies completely. In addition, you can delete the files that contain cookies; those files are stored as part of your Internet browser, however, if you delete cookies that have been sent from our site, this will cause you to re-enter your data (e.g. login again).
 
 **About Advertisments**
 
 **DEPRESSIONFORUMS.ORG is a private, all volunteer message board.  
-We rely primarily on donations or subscriptions to maintain these forums.   
-[ Your Help ](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**   
+We rely primarily on donations or subscriptions to maintain these forums.    
+[ Your Help](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**   
 Any member who continues to post, send PMs and actively use this free service understands that they do so under Our [ **Terms of Service**](http://www.depressionforums.org/forums/Forums-Terms-Service-TOS-and-FAQ-f7.html)
 
 We do NOT have any pop up advertisements what- so-ever - No pop under advertisements and nothing will follow you when you leave our site and we will continue to adhere to this policy. 
 
 _We **do not** have anything to do with the Pharmacy Manufacturers _and we **do not** track you as in monitoring antidepressant usage and side effects such as other depression forums do.   
-_DF has no direct funding from drug companies._   
-However, DF does have bills to pay to cover the costs of our server and the general running of this site. In an ideal world, we would prefer to be solely sponsored by member donations and/or subscriptions, but we cannot afford to run on subscriptions alone as we now have a dedicated server for you and plenty of expense.
+_DF has no direct funding from drug companies._     
+However, DF does have bills to pay to cover the costs of our server and the general running of this site.  In an ideal world, we would prefer to be solely sponsored by member donations and/or subscriptions, but we cannot afford to run on subscriptions alone as we now have a dedicated server for you and plenty of expense.
 
-To make up the shortfall, Depressionforums.org accepts ads from advertising agencies. These advertising agencies sell our ad space and pay DF directly. They make their money by dealing with the large pharma companies directly and selling ad space on many health sites, DF included.  
-If you look at the larger sites you will notice similar ads. If you do not wish to see the ads, you may take out a subscription for a nominal price.  
-We appreciate your understanding and wish you all the very best, as we know you do DF. **[Sponsor](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**
+To make up the shortfall, Depressionforums.org accepts ads from advertising agencies.  These advertising agencies sell our ad space and pay DF directly.  They make their money by dealing with the large pharma companies directly and selling ad space on many health sites, DF included.  
+If you look at the larger sites you will notice similar ads.  If you do not wish to see the ads, you may take out a subscription for a nominal price.  
+We appreciate your understanding and wish you all the very best, as we know you do DF.   **[Sponsor](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**
 
-**Sincerely,**
+**Sincerely,
 
- **The Depression Forums Administration  
-Depression Forums, Inc.**
+The Depression Forums Administration  
+Depression Forums, Inc.
 
+**  
 Reviewed June 9, 2011 by Forum Admin 
-
-  
-
