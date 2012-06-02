@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abroy.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216155209id_/http%3A//www.abroy.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abroy.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602214323id_/http%3A//www.abroy.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Abroy.com - Games for Smart People
 
