@@ -1,0 +1,418 @@
+<!--The following is the downloaded HTML source of the instantrewards.net privacy policy that was archived on 2012-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602214321id_/http%3A//www.instantrewards.net/easy/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Instant Rewards for Starters</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+       	<script language="javascript">
+		function changeDiv(divname, action) {
+		if (action == "show") {
+		document.getElementById(divname).style.display='block';
+		} else if (action == "toggle") {
+		if (document.getElementById(divname).style.display == 'none') {
+		document.getElementById(divname).style.display='block';
+		} else {
+		document.getElementById(divname).style.display='none';
+		}
+		} else {
+		document.getElementById(divname).style.display='none';
+		}
+		}
+		function popUp(URL) {
+		newwindow=window.open(URL, null, 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1');
+		if (window.focus) {newwindow.focus()}
+		}
+		function ClipBoard()
+		{
+		holdtext.innerText = copytext.innerText;
+		Copied = holdtext.createTextRange();
+		Copied.execCommand("Copy");
+		}
+		function confirmation(message, nextpage) {
+		var answer = confirm(message)
+		if (answer) {
+		window.location = nextpage;
+		}
+		}
+		function promptuser(question, nextpage)
+		{
+		var answer = prompt(question, "");
+		if (answer != null) {
+		window.location = nextpage + answer;
+		}
+		}
+		</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link type="text/css" rel="stylesheet" href="main.css">
+<script language="JavaScript" type="text/javascript" src="menu_hp.js"></script>
+
+<link rel="stylesheet" type="text/css" href="jquery.css"><!-- Drop Down Menu -->
+<script language="JavaScript" type="text/javascript" src="jquery.js"></script>
+<script language="JavaScript" type="text/javascript" src="jquery2.js"></script>
+
+
+<!-- For Featured Offers -->
+			<script language="javascript" type="text/javascript"> 
+			    function toggle(id) {
+			       var e = document.getElementById(id);
+			       if(e.style.display == 'block')
+			          e.style.display = 'none';
+			       else
+			          e.style.display = 'block';
+			    }
+			</script>
+
+			<style type="text/css">
+				.cssheader {
+					width: 220px;
+					background: transparent url(images/mousebg.png) top center no-repeat;
+					font-size:13px;
+					text-align:left;
+					color: #cacaca;
+					padding:8px 6px 5px 10px;
+					}
+				.cssbody {
+					margin-left:0px;
+					border-top: 1px #111111 solid;
+					}
+			</style>
+
+			<script language="javascript">
+				function togglePannelStatus(content) {
+					var expand = (content.style.display=="none");
+					content.style.display = (expand ? "block" : "none");
+					var chevron = content.parentNode
+					.firstChild.childNodes[1].childNodes[0];
+					chevron.src = chevron.src
+					.split(expand ? "expand.gif" : "collapse.gif")
+					.join(expand ? "collapse.gif" : "expand.gif");
+					}
+
+
+		    	function changeDiv(divname, action) {
+					if (action == "show") {
+						document.getElementById(divname).style.display='block';
+					} else if (action == "toggle") {
+						if (document.getElementById(divname).style.display == 'none') {
+							document.getElementById(divname).style.display='block';
+						} else {
+							document.getElementById(divname).style.display='none';
+						}
+					} else {
+						document.getElementById(divname).style.display='none';
+					}
+				}
+
+				function popUp(URL) {
+					newwindow=window.open(URL, null, 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1');
+					if (window.focus) {newwindow.focus()}
+				}
+
+				function ClipBoard()
+				{
+					holdtext.innerText = copytext.innerText;
+					Copied = holdtext.createTextRange();
+					Copied.execCommand("Copy");
+				}
+
+				function confirmation(message, nextpage) {
+					var answer = confirm(message)
+					if (answer) {
+						window.location = nextpage;
+					}
+				}
+
+				function promptuser(question, nextpage)
+				{
+					var answer = prompt(question, "");
+					if (answer != null) {
+						window.location = nextpage + answer;
+					}
+				}
+
+				function slideLeft(){
+					var prizeNodeList = document.getElementById('productRow').getElementsByTagName('td');
+					if(prizeNodeList.length <= 5) return false;
+					for(var i = 0; i < prizeNodeList.length; i++){
+						if (i == 0 && isHidden(prizeNodeList[i]) == false){
+							return false;
+						}
+						if(!isHidden(prizeNodeList[i])){
+							showNode(prizeNodeList[i-1]);
+							if(i+4 <= prizeNodeList.length){
+								hideNode(prizeNodeList[i+4]);
+							}
+							return false;
+						}
+					}
+				}
+                            
+				function slideRight(){
+					var prizeNodeList = document.getElementById('productRow').getElementsByTagName('td');
+					if(prizeNodeList.length <= 5) return false;
+					nodeIndex = prizeNodeList.length -1;
+					for(var i = nodeIndex; i >=0 ; i--){
+						if(i == nodeIndex && isHidden(prizeNodeList[ i]) == false){
+							return false;
+						}
+						if(!isHidden(prizeNodeList[i])){
+							showNode(prizeNodeList[i+1]);
+							if(i-4 >= 0){
+								hideNode(prizeNodeList[i-4]);
+							}
+							return false;
+						}
+					}    
+				}
+
+				function isHidden(element){
+					return (element.className == 'hidden') ? true : false;
+				}
+
+				function hideNode(element){
+					element.className = 'hidden';
+				}
+
+				function showNode(element){
+					element.className = '';
+				}
+			</script>
+
+			<style type="text/css">
+				.hidden{
+					display:none;
+				}
+			</style>
+
+			<style>
+				#prizer:hover { background: none; border: 0px;  width: 125px; height: 70px;}
+				#prizer { background: none; width: 125px; height: 70px;}
+				#dropmenudiv{
+					position:absolute;
+					border:1px solid #1d3550;
+					border-bottom-width: 1px;
+					font:normal 12px Tahoma;
+					line-height:18px;
+					border-bottom: 1px solid #000000;s
+					z-index:100;
+					padding-top:10px;
+					padding-bottom:10px;
+					margin-right:-125px;
+				}
+
+				#dropmenudiv a{
+					width: 165px;
+					display: block;
+					text-indent: 3px;
+					padding: 1px 0 0 0px;
+					padding-left:10px;
+					text-decoration: none;
+					font-weight: bold;
+					text-align:left;
+					color:#1d3550;
+				}
+				
+				#dropmenudiv a:hover{ 
+					background-color: #efeaea;
+				}
+			</style>		
+ 
+
+</head>
+<body bgcolor="#e9eaec" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<script type="text/javascript" src="boxover.js"></script>
+
+<!-- Designed by killuanhn@gmail.com -->
+
+<div id="content">	</div><table width="1000" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
+		<td>
+			<img src="images/top.jpg" width="1000" height="22" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table id="Table_05" width="1000" height="49" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						<img src="images/m_left1.jpg" width="347" height="49" border="0"></td>
+					<td>
+						<img src="images/m_blank.jpg" width="7" height="49" border="0"></td>
+					<td>
+						<img src="images/m_left.jpg" width="29" height="49" border="0"></td>
+					<td style="background: url('images/m_bg.jpg') top left no-repeat; text-align: left;" width="571" height="49">
+					
+
+
+					<table width="571" height="49" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr><td style="text-align: left;">
+					&nbsp;<a href="index.php" style="color: #cacaca;">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="login.php" style="color: #cacaca;">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="viewoffers.php" style="color: #cacaca;">View Offers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="http://www.instantrewards.net/faq.html" style="color: #cacaca;">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="http://www.instantrewards.net/promotions.html" style="color: #cacaca;">Promotions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="http://www.instantrewards.net/proofgallery.html" style="color: #cacaca;">Proof Gallery</a>
+					</td>
+
+                    <td style="text-align: left;" width="88">
+					<ul id="jsddm">
+					<li>
+					<a href="#" style="color: #cacaca;">Our Network&nbsp;&nbsp;<img src="images/arrow1.png" border="0"></a>
+					    
+						<ul>
+						<li><a href="http://www.starter.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Starter</b></a></li>
+						<li><a href="http://www.easy.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Easy</b></a></li>
+						<li><a href="http://www.paypal.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Paypal</b></a></li>
+						<li><a href="http://www.60.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>60</b></a></li>
+						<li><a href="http://www.80.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>80</b></a></li>
+						<li><a href="http://www.120.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>120</b></a></li>
+						<li><a href="http://www.games.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Games</b></a></li>
+						<li><a href="http://www.giftcards.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Gift Cards</b></a></li>
+						<li><a href="http://www.cameras.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Cameras</b></a></li>
+						<li><a href="http://www.laptops.instantrewards.net/"><img src="images/arrow.png" border="0"> &nbsp;<b>Laptops</b></a></li>
+						</ul>
+					</li>
+					</ul>
+					</td></tr></tbody></table>
+
+
+
+										
+					</td>
+					<td>
+						<img src="images/m_right.jpg" width="12" height="49" border="0"></td>
+					<td>
+						<img src="images/m_right1.jpg" width="34" height="49" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+	
+
+<tr>
+		<td>
+			<table id="Table_06" width="1000" height="88" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						<img src="images/header_left.jpg" width="27" height="88" border="0"></td>
+					<td>
+						<img src="images/header_logo.jpg" width="382" height="88" border="0"></td>
+					<td>
+						<img src="images/header_blank.jpg" width="562" height="88" border="0"></td>
+					<td>
+						<img src="images/header_right.jpg" width="29" height="88" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td>
+			<img src="images/header_line.jpg" width="1000" height="3" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/s_under_how.jpg" width="1000" height="14" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/c_title_privacy.jpg" width="1000" height="37" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/c_s_under_title.jpg" width="1000" height="10" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table id="Table_02" width="1000" height="227" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td background="images/c_left.jpg" width="27" height="100%"></td>
+					<td width="944" height="227" bgcolor="#f4f5f7" valign="top" align="left">
+					
+
+
+
+
+<p align="center"><strong>INSTANT REWARDS Privacy  Policy</strong></p><br>
+<p>We at Instant Rewards respect the privacy of our users.  Any personal information collected from the users is used according to the  terms described below.</p><br>
+<p><strong>Information Collected: </strong><br><br>
+  During  registration the following information is collected email address, mailing  address, phone number and date of birth.   The IP address is collected for every user and every time the user logs  into his account. In addition to this users who receive gifts worth more than  $599 will be required to submit W-9 or W-8 form, submission of this form  includes the Social Security Number. If you do not receive more than $599 you  need not submit W-9 form.</p><br>
+<p><strong>Use of the collected information:</strong><br><br>
+  We will use  the collected information for contacting members, shipping the rewards they  earn and also for detecting fraud. If you were required to send us a W-9 form,  we will be sending the user a 1099 form, as this is required by law. We may  share personal information with third parties for the purpose of verifying  account information and identifying fraud.</p><br>
+<p><strong>Contacting Members</strong><br><br>
+  We may  contact members via email or postal mail with information regarding their  account with us. We may ship reward items to the userï¿½s postal address. We are  committed to ethical and responsible email practices in accordance with the  CAN-SPAM Act of 2003. </p><br>
+<p><strong>Credit Card Details</strong><br><br>
+  We will  never ask any user for their credit card information. We also advice users that  they do not disclose their credit card details in any communications with us.  Users may use their credit cards for signing up with affiliate offers, but we  do not have access to any of that information.</p><br>
+<p>We may make changes to this policy from time to time. You  are advised to check back at this page for any updates.</p>
+
+
+
+
+
+
+
+</td>
+					<td background="images/c_right.jpg" width="29" height="100%"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/c_s_under_s1.jpg" width="1000" height="23" border="0"></td>
+	</tr>
+
+		<tr>
+		<td background="images/footer_bg.jpg" width="1000" height="107">
+		
+		
+<table width="1000" height="107" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="17" height="107"></td>
+					<td width="582" height="107" style="color: #939393; padding-left: 18px; text-align: left;">
+					
+					Copyright © 2011 InstantRewards.net. All Rights Reserved.
+					<div style="height: 10px; width: 10px;"></div>
+					<a href="http://www.twitter.com/instantrewards" target="_blank" onmouseover="imgOn('twitter')" onmouseout="imgOff('twitter')"><img name="twitter" src="images/twitter.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/instantrewards" target="_blank" onmouseover="imgOn('facebook')" onmouseout="imgOff('facebook')"><img name="facebook" src="images/facebook.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/instantrewards" target="_blank" onmouseover="imgOn('youtube')" onmouseout="imgOff('youtube')"><img name="youtube" src="images/youtube.png" border="0"></a>
+					
+					</td>
+					<td>
+						<img src="images/footer_line1.png" width="2" height="107" border="0"></td>
+					<td width="198" height="107" style="padding-left: 15px; text-align: left;">
+					
+					<a href="index.php" style="color: #939393;">Home</a><br>      
+					<a href="termsofservice.php" style="color: #939393;">Terms of Service</a><br>     
+					<a href="privacypolicy.php" style="color: #939393;">Privacy Policy</a><br>    
+					<a href="reportspam.php" style="color: #939393;">Report Spam</a>
+					<div style="height: 2px;"></div>
+					
+					</td>
+					<td>
+						<img src="images/footer_line2.png" width="2" height="107" border="0"></td>
+					<td width="180" height="107" style="padding-left: 15px; text-align: left;">
+					
+					<a href="http://www.instantrewards.net/faq.html" style="color: #939393;">FAQ</a><br>      
+					<a href="http://www.instantrewards.net/promotions.html" style="color: #939393;">Promotions</a><br>     
+					<a href="http://www.instantrewards.net/proofgallery.html" style="color: #939393;">Proof Gallery</a><br>    
+					<a href="http://www.instantrewards.net/aboutus.html" style="color: #939393;">About Us</a>
+					<div style="height: 2px;"></div>
+					
+					</td>
+					<td width="19" height="107"></td>
+				</tr>
+			</tbody></table>
+		
+		
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/footer_bottom.jpg" width="1000" height="21" border="0"></td>
+	</tr>
+</tbody></table>
+
+<script language="JavaScript" type="text/javascript" src="wz_tooltip.js"></script>
+
+<!-- Designed by killuanhn@gmail.com -->
+
+
+<div style="position: absolute; visibility: hidden;"><div></div><div></div></div></body></html>
