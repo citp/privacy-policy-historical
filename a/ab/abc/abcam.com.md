@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202093856id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602033414id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy | Abcam
 
@@ -26,13 +26,20 @@ Any personally identifiable information (including credit card information) is p
 
 ### Other information we may collect
 
-You can use our site to contact other researchers who have published reviews on Abcam products. 
+Our site can be used to contact other researchers in the following ways:
 
-In this case we do not reveal the reviewer's contact details on the website, but will forward your message (including your email reply address) directly to them. This is designed to enable you to get in touch with the reviewer without compromising the security of their personal information. 
+  * To email customers who have published reviews on Abcam products (Abreviews)
+  * To share product information with your contacts via email
 
-We monitor the original message sent using the website both to check compliance with our ISP's abuse policy and so that if we think there is information of general benefit to our customers we can contact you and ask permission to publish some or all of its content. 
 
-Sometimes we offer the chance to enter a competition; this is usually by answering survey questions. In this case sensitive personal data will only be used to aggregate responses. 
+
+For Abreviews, we do not reveal the reviewer's contact details on the website but will forward your message (including your email reply address) directly to them. This is designed to enable you to get in touch with the reviewer without compromising the security of their personal information. 
+
+In both cases, we monitor who the email was sent to/from and the original message to ensure compliance with our ISP's abuse policy. If we think there is information of general benefit to our customers we may contact you for permission to publish some or all of its content. 
+
+Visitors of the site using this functionality agree to adhere to its intended purpose as outlined above. 
+
+We sometime offer the chance to enter competitions; this is usually by answering survey questions. In this case sensitive personal data will only be used to aggregate responses. 
 
 ### Statistical website usage information
 
