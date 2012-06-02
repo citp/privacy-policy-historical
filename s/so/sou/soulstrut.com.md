@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulstrut.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204195652id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulstrut.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001033id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.*
 
 # Soul Strut | A Vinyl Record Community
 
