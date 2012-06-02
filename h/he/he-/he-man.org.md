@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202053807id_/http%3A//www.he-man.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-man.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602053901id_/http%3A//www.he-man.org/privacy.php) for the most accurate reproduction.*
 
 # He-Man.org > Privacy
 
@@ -68,4 +68,4 @@ Richmond, KY 40476, USA
 [webmaster@mvcreations.com](mailto:webmaster@mvcreations.com)
 
 Use of this site signifies your acceptance of the terms and conditions.  
-© 2010 MV Creations, LLC. All Rights Reserved.
+© 2012 MV Creations, LLC. All Rights Reserved.
