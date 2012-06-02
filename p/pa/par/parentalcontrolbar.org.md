@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentalcontrolbar.org privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009025050id_/http%3A//www.parentalcontrolbar.org/about_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentalcontrolbar.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602073939id_/http%3A//www.parentalcontrolbar.org/about_privacy.pdf) for the most accurate reproduction.*
 
 # 
 
