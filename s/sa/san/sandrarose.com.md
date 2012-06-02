@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandrarose.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204091853id_/http%3A//sandrarose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandrarose.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602191541id_/http%3A//sandrarose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Sandra Rose
 
@@ -18,12 +18,12 @@ The cookies can be cleared from your computer by either clearing your cache or b
 
 You can [_click here to opt out_](http://networkadvertising.org/) of having your information used by third party advertisers’ cookies.
 
-**Google Analytics disclosure**
+ **Google Analytics disclosure**
 
 Sandrarose.com uses Google Analytics to track your visits to this website in order to provide current traffic statistics for Sandrarose.com to third party advertisers and other affiliates. Google Analytics provides reports about how visitors interact with websites so website owners can improve their website and how people find it. A different cookie is used for each website, and visitors are not tracked across multiple sites.
 
 Google Analytics requires that all websites that use it must update their privacy policy to include a notice that fully discloses the use of Analytics. To disable this type of cookie, some browsers will indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis. In addition to declining cookies, you can also install the Google Analytics Opt-out Add-on in your browser, which prevents Google Analytics from collecting information about your visits to this blog.
 
-[_Learn more about the Google Analytics Opt-out Browser Add-on and other Google Analytics privacy information._](http://www.google.com/intl/en/analytics/privacyoverview.html)
+[ _Learn more about the Google Analytics Opt-out Browser Add-on and other Google Analytics privacy information._](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
 If you need further information, send an email to sandra@sandrarose.com
