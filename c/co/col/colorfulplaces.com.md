@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorfulplaces.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234408id_/http%3A//www.colorfulplaces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorfulplaces.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602224728id_/http%3A//www.colorfulplaces.com/privacy) for the most accurate reproduction.*
 
-# Bluegreen Corporation | Privacy Statement | Colorful Places
+# Colorful Places | Privacy Statement
 
 At Bluegreen, we recognize that privacy is an important issue, and we understand that you are concerned about the security and privacy of your personal information. In order to demonstrate our commitment to fostering and maintaining strong customer relationships, we have created two separate policies that describe the manner in which we use and protect the information we receive from and about you. 
 
