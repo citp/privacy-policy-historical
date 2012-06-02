@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmjuniversity.edu.in privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202015054id_/http%3A//www.cmjuniversity.edu.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmjuniversity.edu.in privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602054024id_/http%3A//www.cmjuniversity.edu.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Official Website - CMJ University, CMJ Privacy Policy
+# Official Website - CMJ University, CMJ University Shillong, CMJ University Meghalaya, CMJ University Programs, MBA, CMJ University Courses
 
 CMJ University acknowledges and respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our web site without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
