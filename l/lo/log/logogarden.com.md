@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001048id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001827id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – LogoGarden.com
 
 **Online privacy statement  
 **LogoGarden.com, LLC respects your privacy This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every LogoGarden.co.ik Web page. 
@@ -91,3 +91,8 @@ Or
 LOGOGARDEN.COM, LLC  
 1011 Centre Road, Suite 322,   
 Wilmington, Delaware, 19805
+
+The names, likenesses, professions, and exact statements of the endorsers on this page do not belong to actual customers. However, endorsers' identities reflected above do reflect typical customer base for LogoGarden, and their testimonials reflect typical feedback LogoGarden receives from its users.
+
+  
+
