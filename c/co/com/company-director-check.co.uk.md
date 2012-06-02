@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the company-director-check.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227114035id_/http%3A//company-director-check.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the company-director-check.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603012819id_/http%3A//company-director-check.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Director Check - find free company director information
 
