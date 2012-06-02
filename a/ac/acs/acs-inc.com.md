@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201155246id_/http%3A//www.acs-inc.com/acs-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602092135id_/http%3A//www.acs-inc.com/acs-privacy-policy.aspx) for the most accurate reproduction.*
 
 # ACS Privacy Policy | ACS
 
-**General** This Privacy Statement (“Statement”) describes the online privacy practices for ACS websites maintained by Affiliated Computer Services, Inc. and its subsidiaries (“ACS”). It also describes our privacy practices related to certain personal information that ACS receives in the United States from the European Union and Switzerland (see the “Safe Harbor” section below).
+**General** This Privacy Statement (“Statement”) describes the online privacy practices for this website maintained by Affiliated Computer Services, LLC, (“ACS”) a wholly-owned subsidiary of Xerox Corporation ("Xerox") doing business as Xerox Services ("Xerox Services"). It also describes our privacy practices related to certain personal information that ACS receives in the United States from the European Union and Switzerland (see the “Safe Harbor” section below).
 
 By using our sites you agree that your use is subject to the terms of this Statement and you consent to the collection, use and storage of your information by ACS in accordance with this Statement and as may be more specifically explained on each website. ACS may change this Statement at any time and will display the changes here in the form of a new Statement. Because your use of this website after changes have been posted indicates your agreement with those changes, we encourage you to visit this Statement on a regular basis. If you are not comfortable with using this website in accordance with this Statement, please exit immediately.
 
