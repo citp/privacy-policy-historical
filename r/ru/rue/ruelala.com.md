@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605075440id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602221522id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
 
 # 
 
@@ -11,7 +11,7 @@ We also collect personal information when you choose to use certain other featur
 
 In addition, through the Site, we automatically gather certain information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. Most browsers can be set to prevent cookies or to notify you when one is being placed. However, cookies are necessary to access the Site. 
 
-The Site also makes use of a technology designed to enhance your browsing experience and to provide aggregate non-personally identifiable information about the use of the Site to us. If for any reason you do not wish to have this technology enabled while browsing the Site, please click [here](https://web.archive.org/analytics). A cookie will be set on your browser that instructs this technology not to start. If you have disabled this technology and wish to reactivate it, please click [here](https://web.archive.org/analytics). Please note that if you are accessing the Site through the iPhone or iPad applications, these links will not function and this technology will not be disabled. 
+The Site also makes use of a technology designed to enhance your browsing experience and to provide aggregate non-personally identifiable information about the use of the Site to us. If for any reason you do not wish to have this technology enabled while browsing the Site, please click [here](https://web.archive.org/analytics "here"). A cookie will be set on your browser that instructs this technology not to start. If you have disabled this technology and wish to reactivate it, please click [here](https://web.archive.org/analytics "here"). Please note that if you are accessing the Site through the iPhone or iPad applications, these links will not function and this technology will not be disabled. 
 
 If you choose to invite an individual to join Rue La La, you will need to provide his/her name and email address. Rue La La stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals. 
 
@@ -42,7 +42,7 @@ We are committed to protecting the information we receive from you. We follow re
 The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access. 
 
 **Accessing and Updating Your Personal Information and Preferences**  
-If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
+If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [atyourservice@ruelala.com](mailto:atyourservice@ruelala.com "atyourservice@ruelala.com"). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction. 
 
@@ -58,7 +58,7 @@ Rue La La
 20 Channel Center  
 Boston, MA 02210  
 1-888-992-LALA (5252)  
-[AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com)
+[atyourservice@ruelala.com](mailto:atyourservice@ruelala.com "atyourservice@ruelala.com")
 
 Last Updated: June 16, 2009  
-© 2008 - 2011 Retail Convergence.com, LP. All rights reserved. 
+© 2008 - 2012 Retail Convergence.com, LP. All rights reserved. 
