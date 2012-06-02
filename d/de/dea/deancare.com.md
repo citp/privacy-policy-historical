@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106124407id_/http%3A//www.deancare.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602044635id_/http%3A//www.deancare.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dean - WI
 
@@ -64,4 +64,4 @@ Dean provides links to outside sources as a courtesy; however, Dean is not respo
 
 ### Copyright Statement
 
-©2010 Dean Health Systems, Inc. / Dean Health Plan, Inc. All rights reserved. Materials on deancare.com may be reprinted or reproduced for personal use. Visitors are welcome to share the site's contents with others via the social-sharing features available through the site. Permission to reprint or reproduce any content in part or in its entirety for any other reason is expressly prohibited, unless prior written consent is obtained from Dean. Dean logos and Crash Helmet are marks of Dean.
+©2012 Dean Health Systems, Inc. / Dean Health Plan, Inc. All rights reserved. Materials on deancare.com may be reprinted or reproduced for personal use. Visitors are welcome to share the site's contents with others via the social-sharing features available through the site. Permission to reprint or reproduce any content in part or in its entirety for any other reason is expressly prohibited, unless prior written consent is obtained from Dean. Dean logos and Crash Helmet are marks of Dean.
