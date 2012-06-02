@@ -1,146 +1,46 @@
-> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110054935id_/http%3A//webcamworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001150id_/http%3A//www.webcamworld.com/privacy-policy.html) for the most accurate reproduction.*
 
-# webcamworld.com : Privacy Statement
+# Privacy Policy
 
-**Atyc WebDesigns, Ltd.** has created this privacy statement along with [TRUSTe](http://www.truste.org/) in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [**_WebCam World_** ](http://webcamworld.com/)
+**What information do we collect?**
 
-**
+We collect information from you when you fill out a form. 
 
-  
-Information Automatically Logged 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously. 
 
-**
+**What do we use your information for?**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site.
+Any of the information we collect from you may be used in one of the following ways: 
 
-**
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-  
-Cookies 
+**How do we protect your information?**
 
-**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site.
+**Do we use cookies?**
 
-**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-  
-Advertisers 
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-**
+**Do we disclose any information to outside parties?**
 
-We use an outside ad software to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad software, and we do not share this information to anyone. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-**
+**Childrens Online Privacy Protection Act Compliance**
 
-  
-Registration Forms 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
-**
+**Online Privacy Policy Only**
 
-Our site's registration forms may require users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary. 
+**Your Consent**
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+By using our site, you consent to our web site privacy policy. 
 
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. 
+**Contacting Us**
 
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-**
-
-  
-Surveys 
-
-**
-
-Our online surveys ask visitors for contact information (like email address). 
-
-Contact information from the surveys is used to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-**
-
-  
-Contests 
-
-**
-
-We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
-
-Contact information from the contests is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary. 
-
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-**
-
-  
-External Links 
-
-**
-
-This site contains links to other sites. **Atyc WebDesigns, Ltd.** is not responsible for the privacy practices or the content of such Web sites. 
-
-**
-
-  
-Special Relationships 
-
-**
-
-This site may be sponsored by one or more companies (called sponsors) which do not have access to the information we collect from visitors. However, visitors and subscribers to our services may recieve promotional material from the sponsors. The user has the right and means to remove him/herself from such services at any time. Please see the choice/opt-out section below.
-
-__**
-
-  
-Public Forums 
-
-**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**
-
-  
-Security 
-
-**
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-
-**
-
-  
-Choice/Opt-Out 
-
-**
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
-
-  1. You can visit the following URL: [http://webcamworld.com/contacts.html ](http://webcamworld.com/contacts.html)
-  2. You can remove yourself from each service we offer as explained in each of the services. 
-
-**
-
-  
-Data Quality/Access 
-
-**
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can visit the following URL: [http://webcamworld.com/contacts.html ](http://webcamworld.com/contacts.html)
-  2. You can enter the MEMBER LOGIN screen for each of the services that provide this feature. 
-
-**
-
-Contacting the Web Site 
-
-**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact administrators via the contact form found at <http://webcamworld.com/contacts.html>
-
-  
-
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/cgi-bin/contact.cgi). 
