@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realdose.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203213211id_/http%3A//www.realdose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdose.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040249id_/http%3A//www.realdose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 **HOW WE PROTECT YOUR PRIVACY**
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our websites [www.realdose.com](https://web.archive.org/web/20111203213211id_/http://www.realdose.com/) and [www.doubleyourfatlossnow.com](http://www.doubleyourfatlossnow.com/), you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our websites [www.realdose.com](https://web.archive.org/web/20120602040249id_/http://www.realdose.com/) and [www.doubleyourfatlossnow.com](http://www.doubleyourfatlossnow.com/), you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-RealDose Nutrition LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the sites [www.realdose.com](https://web.archive.org/web/20111203213211id_/http://www.realdose.com/) and [www.doubleyourfatlossnow.com](http://www.doubleyourfatlossnow.com/). TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contactus@realdose.com](mailto:contactus@realdose.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
+RealDose Nutrition LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the sites [www.realdose.com](https://web.archive.org/web/20120602040249id_/http://www.realdose.com/) and [www.doubleyourfatlossnow.com](http://www.doubleyourfatlossnow.com/). TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contactus@realdose.com](mailto:contactus@realdose.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
 
 **MINORS**
 
@@ -94,9 +94,9 @@ You may also mail your concerns to us at the following address:
 
 RealDose Nutrition LLC
 
-2710 Thomes Ave., Suite 394
+22100 E 26th Avenue #100
 
-Cheyenne, WY 82001
+Aurora, CO 80019
 
 United States
 
@@ -106,9 +106,9 @@ If you are a California resident and our customer, Cal. Civ. Code § 1798.83 per
 
 RealDose Nutrition LLC
 
-2710 Thomes Ave., Suite 394
+22100 E 26th Avenue #100
 
-Cheyenne, WY 82001
+Aurora, CO 80019
 
 United States
 
