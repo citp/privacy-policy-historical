@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kiefit.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112150048id_/http%3A//www.kiefit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiefit.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602104436id_/http%3A//www.kiefit.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Kiefit.com Health and Fitness | KieFit Privacy Policy
+
+Neue Seite 1
 
 ###  kiefit.com privacy policy
 
@@ -20,7 +22,7 @@ Visit your kiefit.com Settings to edit your profile and other information. When 
 
 Protecting the privacy of the very young is important to us. For that reason, we will not collect age information for users under 18 years.
 
-[ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
 
@@ -37,7 +39,7 @@ kiefit.com reserves the right to modify all or some of this Privacy Policy at an
 
 If you have any questions about this Privacy Policy, the practices of this website or your dealings with this kiefit.com, you can send an e-mail, in English, 
 
-to  privacy[@]kiefit.com
+to privacy[@]kiefit.com
 
 Effective Date: March 13th, 2009
 
