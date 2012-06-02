@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lagoonia.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203065607id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dlagoonia%26lang%3Den%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagoonia.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602104834id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dlagoonia%26lang%3Den%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
