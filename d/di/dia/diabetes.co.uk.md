@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101063437id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602112353id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Diabetes.co.uk
 
@@ -18,10 +18,6 @@ By using this site, you agree with the terms of this Privacy Policy. Whenever yo
 
 
 
-## OneTouch® meter trial 
+## OneTouch® Verio®IQ Trial
 
-For the OneTouch® meter trials, you agree for your data to be shared with LifeScan in order for LifeScan to supply your meter and/or for more information from themselves or parties you have opted-in to receiving information from.
-
-## OneTouch® UltraEasy® carry case offer 
-
-For the free OneTouch® UltraEasy® carry case offer, you agree for your data to be shared with LifeScan in order for LifeScan to supply your carry case and/or for more information from themselves or parties you have opted-in to receiving information from.
+For this OneTouch® Verio®IQ Trial you agree for your data to be shared with LifeScan in order for LifeScan to provide more information from themselves or parties you have opted-in to receiving information from in relation to this promotion. 
