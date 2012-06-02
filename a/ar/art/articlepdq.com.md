@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlepdq.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227111411id_/http%3A//articlepdq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepdq.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603012133id_/http%3A//articlepdq.com/privacy-policy) for the most accurate reproduction.*
 
-# ArticlePDQ Article Directory | Submit Articles | Find Free Content | Privacy Policy | ArticlePDQ.com
+# Article Directory | Submit Articles | Find Free Content | Privacy Policy | ArticlePDQ.com
 
 At **ArticlePDQ** we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
 
