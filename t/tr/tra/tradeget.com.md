@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeget.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153633id_/http%3A//www.tradeget.com/help/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeget.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001206id_/http%3A//www.tradeget.com/privacystatement.aspx) for the most accurate reproduction.*
 
-# help center
+# Tradeget - India Manufacturers Exporters Suppliers Directory,Indian Exporter,Supplier and Manufacturer,India
 
 Tradeget respects our clients' right to privacy online. We hold detailed client information in confidence. 
 
