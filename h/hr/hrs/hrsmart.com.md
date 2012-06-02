@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201104451id_/http%3A//www.hrsmart.com/-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602175106id_/http%3A//www.hrsmart.com/-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Resource Software | Applicant Tracking System
 
@@ -12,7 +12,7 @@ This statement discloses HRsmart, Inc.'s ("HRsmart's") privacy policy with respe
 
 This privacy policy applies only to the personal information HRsmart maintains in its capacity as an ASP. HRsmart builds custom software applications to help clients manage their human resources information. HRsmart's clients use this software to store, manipulate and extract human resources data. Typically, clients input data to the application's database. HRsmart's clients also may permit other parties to input data, such as vendors and job applicants. Our clients, not HRsmart, control which parties may enter data to the database. Similarly, our clients, not HRsmart, control which parties, such as employees and vendors, may access the data stored in the database. If you have a question about how a particular client protects personal information, we encourage you to review its privacy policy.
 
-HRsmart adheres to the Safe Harbor Principles set forth by United States Department of Commerce regarding the collection, use, and retention of data from the European Union.
+HRsmart complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. HRsmart has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HRsmart’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **1\. Notice**  
 HRsmart does not collect personal information. Clients use our applications to store and manage data that often contains personal information. Individuals should consult our clients' privacy policies for information about how their personal information may be collected and used by our clients.
