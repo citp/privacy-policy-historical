@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the merckgroup.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125134430id_/http%3A//www.merckgroup.com/en/privacy_statement/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merckgroup.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602031945id_/http%3A//www.merckgroup.com/en/privacy_statement/privacy_statement.html) for the most accurate reproduction.*
 
 # The Merck Group - Privacy Statement
-
-[Home](https://web.archive.org/en/index.html)
-
-Privacy Statement
 
 **General**
 
@@ -53,12 +49,12 @@ If you have any problems, questions or suggestions, please feel to contact our C
 
 ## Corporate Privacy Officer at Merck KGaA
 
-Peter Rauh   
+Norbert Moeren   
 Frankfurter Strasse 250   
-D-64293 Darmstadt   
+64293 Darmstadt   
 Germany
 
-Tel.: +49(0)6151-72-7855   
-Fax: +49(0)6151-72-917855
+Phone: +49(0)6151-72-5167   
+Fax: +49(0)6151-72-915167
 
  
