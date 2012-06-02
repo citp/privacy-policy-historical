@@ -1,0 +1,553 @@
+<!--The following is the downloaded HTML source of the xooma.com privacy policy that was archived on 2012-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602211514id_/http%3A//www.xoomaworldwide.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Xooma Worldwide</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+
+#dropmenudiv{
+	position:absolute;
+	border-bottom-width: 0;
+	font:normal 10px Arial;
+	line-height:14px;
+	z-index:100;
+	text-align: left;
+	left: 13px;
+}
+
+#divLink {
+	padding: 1px;
+}
+
+#divLink a {
+	background-color: #30DA0B;
+	border: 1px solid white;
+	width: 130%;
+	display: block;
+	/*padding:2 2 2 2;*/
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+	background-color: #12ad2a;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+</style>
+<link rel="stylesheet" type="text/css" href="/common/javascript/style.css">
+<link rel="stylesheet" type="text/css" href="/common/javascript/subModal.css">
+<script type="text/javascript" src="/common/javascript/common.js"></script>
+<script type="text/javascript" src="/common/javascript/subModal.js"></script>
+
+<script type="text/javascript">
+function createRequestObject() {
+    var ro;
+    var browser = navigator.appName;
+    
+		if(browser == "Microsoft Internet Explorer"){
+        ro = new ActiveXObject("Microsoft.XMLHTTP");
+    }else{
+        ro = new XMLHttpRequest();
+    }
+    return ro;
+}
+
+var http = createRequestObject();
+
+function sndReq(action,cartitem, tagID) {
+    //alert("Sending request to " + action + "cartItemId=" + cartitem);
+		//var tagID = divTag;
+		var divTag = document.getElementById(tagID);
+		divTag.innerHTML = 'Updating, Please Wait.';
+		var url = action + "cartItemId=" + cartitem + "&tagID=" + tagID;
+		http.open('GET', url);
+    http.onreadystatechange = handleResponse;
+    http.send(null);
+}
+
+function handleResponse() {
+    if(http.readyState == 4){
+			var update = new Array();
+			var response = http.responseText;
+			if(response.indexOf('|' != -1)) {
+					update = response.split('|');
+					var tagID = update[0];
+					//alert("TagID = " + tagID);
+					var  divTag = document.getElementById(tagID);
+					divTag.innerHTML = update[1];
+			}
+    }
+}
+
+/***********************************************
+* AnyLink Drop Down Menu-  Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+align = 'middle';
+
+//NEWS
+var menu1=new Array()
+          menu1[0]='<div id="divLink"><a href="companyNews.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Company News</a></div>'
+menu1[1]='<div id="divLink"><a href="xoomatv.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Xooma TV</a></div>'
+          menu1[2]='<div id="divLink"><a href="incentiveprograms.asp"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Incentive Programs</a></div>'
+ 
+
+//Company
+var menu2=new Array()
+          menu2[0]='<div id="divLink"><a href="corpInfo.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; The Story</a></div>'
+          menu2[1]='<div id="divLink"><a href="corpTeam.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Meet Our Team</a></div>'
+          menu2[2]='<div id="divLink"><a href="scienceBoard.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Science Board</a></div>'
+          menu2[3]='<div id="divLink"><a href="virtualtour.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Virtual Office Tour</a></div>'
+
+//Products
+var menu3=new Array()
+menu3[0]='<div id="divLink"><a href="product.asp?" ><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; X2O</a></div>'
+menu3[1]='<div id="divLink"><a href="xCapeInfo.asp?"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Xooma Blast</a></div>'
+menu3[2]='<div id="divLink"><a href="http://www.metabowize.com/demo" target="_blank"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Metabowize</a></div>'
+          menu3[3]='<div id="divLink"><a href="http://www.xoomaworldwide.com/content/Online-X-Catalog.pdf" target="_blank"><img src="/content/images/whiteArrow.jpg" border="0" align="absmiddle"> &nbsp; Product Catalog</a></div>'
+
+var menuwidth='150px' //default menu width
+//var menubgcolor='5fe617'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body bgcolor="#5add45" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div id="dropmenudiv" style="visibility:hidden;width:150px;" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="/common/javascript/AC_RunActiveContent.js" language="javascript"></script>
+<style type="text/css">
+<!--
+body {
+	background-image: url('/content/images/blueBG2.jpg');
+	background-position: center;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-color: #01a7d9;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.arial {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.size12px {
+	font-size: 12px;
+}
+.arial12px {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.arial12px {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.blueHeader14pxArial {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #33CCFF;
+	font-weight: bold;
+}
+.size10px {font-size: 10px}
+.bodyText {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.heading1 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: 1697d7;
+}
+
+--></style>
+<center>	<table width="853" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="Table_01">
+    <!--DWLayoutTable-->
+    <tbody><tr>
+      <td width="7" height="90" background="/content/images/xoomaHeader_01.jpg"><img src="/content/images/xoomaHeader_01.jpg" width="7" height="90" alt=""></td>
+      <td width="791" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tbody><tr>
+            <td width="5" height="90" valign="top"><img src="/content/images/xoomaHeader_02.jpg" width="5" height="90" alt=""></td>
+            <td width="296" valign="top"><a href="http://www.xoomaworldwide.com"><img src="&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  /content/images/xoomaHeader_03.jpg&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" alt="" width="296" height="90" border="0"></a></td>
+            <td width="10" valign="top"><!--DWLayoutEmptyCell-->&nbsp;</td>
+            <td width="480" valign="top"><table width="480" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="305" align="center" valign="middle"><div align="center" class="arial12px" style="padding: 5" ;="">Taylor . Demo<br></div></td>
+                <td width="180"><table width="167" border="0" align="right" cellpadding="0" cellspacing="0">
+                  <!--DWLayoutTable-->
+                  <tbody><tr>
+                    <td width="167" height="57" valign="middle" background="/content/images/xoomaHeader_10.jpg"><div align="center" class="arial12px" style="padding: 5" ;="">
+                        <select name="to_lang" onchange="trurl='http%3A%2F%2Fwww.xoomaworldwide.com%2F%2Findex.asp%3Fstype%3Dgoogle'; 
+                         lp=this.options[this.selectedIndex].value;                                                       
+                         if(lp != '') {                                         
+                           if(lp == 'pl') {
+                             window.location='https://www.xoomaworldwide.com/index.asp?language=pl'; 
+                           } else {
+						     if(lp == 'ru') {
+                               window.location='https://www.xoomaworldwide.com/index.asp?language=ru'; 
+                             } else { 
+                               if(lp == 'en') {
+                                 window.location='https://www.xoomaworldwide.com/index.asp?language=en'; 
+                               } else { 
+                                 window.location='http://www.google.com/translate_c?hl='+lp+'&amp;sl=en&amp;tl='+lp+'&amp;u='+trurl; 
+							   }	 
+							 }  
+                           } 
+                         }" style="font:11px arial;width:127px" align="center">   
+								      <option selected="" value="">Select your language</option>
+								      <option value="ar">Arabic</option>
+											<option value="bg">Bulgarian</option>
+											<option value="zh-CN">Chinese</option>
+											<option value="hr">Croatian</option>
+											<option value="cs">Czech</option>
+											<option value="da">Danish</option>
+											<option value="nl">Dutch</option>
+											<option value="en">English</option>
+											<option value="fi">Finnish</option>
+											<option value="fr">French</option>
+											<option value="de">German</option>
+											<option value="el">Greek</option>
+											<option value="hi">Hindi</option>
+											<option value="it">Italian</option>
+											<option value="ja">Japanese</option>
+											<option value="ko">Korean</option>
+											<option value="no">Norwegian</option>
+											<option value="pl">Polish</option>
+											<option value="pt">Portuguese</option>
+											<option value="ro">Romanian</option>
+											<option value="ru">Russian</option>
+											<option value="es">Spanish</option>
+											<option value="sv">Swedish</option>
+                  </select>
+                        <span class="size10px">
+				        
+						*Translations provided by Google<br>
+				                               Russian and Polish translations provided by Xooma Worldwide</span>
+					  </div>
+					</td>
+                  </tr>
+                  <tr>
+                    <td height="6" valign="top"><img src="/content/images/xoomaHeader_11.jpg" width="158" height="4" alt=""></td>
+                  </tr>
+                  <tr>
+                    <td height="32" valign="middle" background="/content/images/xoomaHeader_13.jpg"><div align="center"><a href="https://www.xoomaworldwide.com/backOffice/"><img src="/content/images/xoomaHeader_16.jpg" alt="" width="16" height="16" border="0"><img src="&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9; &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;          /content/images/xoomaHeader_17.jpg&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9; &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" alt="" width="121" height="16" border="0"></a></div>
+										</td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table>
+            </td>
+          </tr>
+      </tbody></table></td>
+      <td width="14" background="/content/images/xoomaHeader_08.jpg"><img src="/content/images/xoomaHeader_08.jpg" width="14" height="90" alt=""></td>
+    </tr>
+    <tr>
+      <td height="18" background="/content/images/xoomaHeader_01.jpg"><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td valign="top">
+			<div align="right" style="padding-top: 5px;">
+        <div align="left"> <a href="/demo/index.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;">
+   
+	          Home
+		</a>&nbsp;&nbsp;
+	<a href="/demo/companyNews.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;" onmouseover="return dropdownmenu(this, event, menu1, '170px')" onmouseout="delayhidemenu()">
+  	          News
+		</a>&nbsp;&nbsp;
+	<a href="/demo/corpInfo.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;" onmouseover="return dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">
+  	          Company
+		</a>
+  &nbsp;&nbsp;<a href="/demo/product.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;" onmouseover="return dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">
+  	          Products
+		</a>&nbsp;&nbsp;<a href="/demo/opportunity.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;">
+  	          Opportunity
+		</a>&nbsp;&nbsp;
+	<a href="/demo/order.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;">
+  	          Get Started / Order Now 
+		</a>
+	&nbsp;&nbsp;
+  	<a style="cursor: pointer;
+	padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;" onclick="showPopWin('/demo/myCart.asp?', 640, 480, null,null,'View Your Shopping Cart');">
+	<!--
+	<a href="/demo/myCart.asp?" style="padding-top: 2px;
+	padding-right: 8px;
+	padding-left: 8px;
+	padding-bottom: 2px;
+	background-color: #00A7D8;
+	color: #FFFFFF;
+	text-decoration: none;">-->
+	
+	<img src="/content/ecomm/checkout.gif" border="0">
+  	          My Cart
+		 </a>
+	</div>
+	
+      </div>
+		</td>
+      <td background="/content/images/xoomaHeader_08.jpg"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    </tr>
+		<tr>
+			<td background="/content/images/xoomaHeader_01.jpg"></td>
+			<td bgcolor="#00A7D8" height="2"></td>
+			<td background="/content/images/xoomaHeader_08.jpg"></td>
+		</tr>
+		<tr>
+    <td height="90" background="/content/images/xoomaHeader_01.jpg"><img src="/content/images/xoomaHeader_01.jpg" width="7" height="90" alt=""></td>
+    <td valign="top">	<style type="text/css">
+<!--
+.arial12px {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.bodyText {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.heading1 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: 1697d7;
+}
+.blueHeader14pxArial {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #33CCFF;
+	font-weight: bold;
+}
+.size12px {	font-size: 12px;
+}
+-->
+</style>
+<table width="853" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td>
+      <div align="left">
+        <p align="center" class="heading1">Privacy Statement</p>
+        <p align="left" class="bodyText">XOOMA is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the XOOMA Web site and governs data collection and usage. By using the XOOMA website, you consent to the data practices described in this statement.</p>
+        <p align="left" class="bodyText"><strong>Collection of your Personal Information</strong></p>
+        <p align="left" class="bodyText">XOOMA collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. XOOMA also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.</p>
+        <p align="left" class="bodyText">There is also information about your computer hardware and software that is automatically collected by XOOMA. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by XOOMA for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the XOOMA Web site.</p>
+        <p align="left" class="bodyText">Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through XOOMA public message boards, this information may be collected and used by others.</p>
+        <p align="left" class="bodyText">XOOMA encourages you to review the privacy statements of Web sites you choose to link to from XOOMA so that you can understand how those Web sites collect, use and share your information. XOOMA is not responsible for the privacy statements or other content on Web sites outside of the XOOMA and XOOMA family of Web sites.</p>
+        <p align="left" class="bodyText"><strong>Use of your Personal Information</strong></p>
+        <p align="left" class="bodyText">XOOMA collects and uses your personal information to operate the XOOMA Web site and deliver the services you have requested. XOOMA also uses your personally identifiable information to inform you of other products or services available from XOOMA and its affiliates. XOOMA may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
+        <p align="left" class="bodyText">XOOMA does not sell, rent or lease its customer lists to third parties. XOOMA may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, XOOMA may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to XOOMA, and they are required to maintain the confidentiality of your information.</p>
+        <p align="left" class="bodyText">XOOMA does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.</p>
+        <p align="left" class="bodyText">XOOMA keeps track of the Web sites and pages our customers visit within XOOMA, in order to determine what XOOMA services are the most popular. This data is used to deliver customized content and advertising within XOOMA to customers whose behavior indicates that they are interested in a particular subject area.</p>
+        <p align="left" class="bodyText">XOOMA Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on XOOMA or the site; (b) protect and defend the rights or property of XOOMA; and, (c) act under exigent circumstances to protect the personal safety of users of XOOMA, or the public.</p>
+        <p align="left" class="bodyText"><strong>Use of Cookies</strong></p>
+        <p align="left" class="bodyText">The XOOMA Web site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+        <p align="left" class="bodyText">One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize XOOMA's pages, or register with XOOMA site or services, a cookie helps XOOMA to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same XOOMA Web site, the information you previously provided can be retrieved, so you can easily use the XOOMA features that you customized.</p>
+        <p align="left" class="bodyText">You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the XOOMA services or Web sites you visit.</p>
+        <p align="left" class="bodyText"><strong>Security of your Personal Information</strong></p>
+        <p align="left" class="bodyText">XOOMA secures your personal information from unauthorized access, use or disclosure. XOOMA secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
+        <p align="left" class="bodyText"><strong>Changes to this Statement</strong></p>
+        <p align="left" class="bodyText">XOOMA will occasionally update this Statement of Privacy to reflect company and customer feedback. XOOMA encourages you to periodically review this Statement to be informed of how XOOMA is protecting your information.</p>
+        <p align="left" class="bodyText"><strong>Contact Information</strong></p>
+        <p align="left" class="bodyText">XOOMA welcomes your comments regarding this Statement of Privacy. If you believe that XOOMA has not adhered to this Statement, please contact XOOMA. We will use commercially reasonable efforts to promptly determine and remedy the problem.</p>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+<br><br><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td height="29" bgcolor="#FFFFFF">
+		  <div align="center">
+		    				    <a href="/demo/index.asp?">Home</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/corpInfo.asp?">Company</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/product.asp?">Products</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/opportunity.asp?">Opportunity</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/accountType.asp?">Get Started</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/termsofuse.asp?">Terms Of Use</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/privacy.asp?">Privacy Statement</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/siteMap.asp?">Site Map</a> &nbsp;&nbsp;&nbsp;
+						<a href="/demo/faq.asp?">Support</a>
+			<br> 
+
+
+
+		    				<br>
+		    <span class="arial10px">© Xooma Worldwide 2012</span>
+		    <br>
+				 
+		      <span class="size12px">*Translations for this website are provided by Google.<br>For contextual questions regarding content and statements, please refer to the english version of our website.</span> <br>
+										  
+		    <br>
+    </div></td></tr>
+	<tr>
+		<td height="19" valign="bottom" bgcolor="#FFFFFF">&nbsp;</td>
+	</tr>
+</tbody></table><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td background="/content/images/xoomaHeader_08.jpg"> </td>
+  </tr>
+</tbody></table>
+<p>&nbsp;</p>
+
+
+</center><div id="popupMask"></div><div id="popupContainer"><div id="popupInner"><div id="popupTitleBar"><div id="popupTitle"></div><div id="popupControls"><img src="/common/images/close.gif" onclick="hidePopWin(false);" id="popCloseBox"></div></div><iframe src="/common/javascript/loading.html" style="width:100%;height:100%;background-color:transparent;" scrolling="auto" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe></div></div></body></html>
