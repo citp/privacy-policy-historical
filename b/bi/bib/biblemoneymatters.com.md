@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002815id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602221314id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,3 +51,6 @@ This blog does not contain any content which might present a conflict of interes
 If you are a copyright owner or agent thereof and believe that user content infringes upon your copyright, please submit notice, pursuant to the Digital Millennium Copyright Act (17 U.S.C. § 512(c)) to our Copyright Agent with the following information: (i) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright; (ii) a description of the copyrighted work that you claim has been infringed; (iii) the URL of the location containing the material that you claim is infringing; (iv) your address, telephone number, and email address; (v) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (vi) a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
 By email: peter at this domain name
+
+  
+
