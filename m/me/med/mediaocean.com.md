@@ -1,46 +1,68 @@
-> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210093400id_/http%3A//www.mediaocean.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602083619id_/http%3A//www.mediaocean.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Mediaocean
 
-**MediaOcean Privacy Policy**  
-this policy applies to sites that have URLs (for example, www.______) that end in MediaOcean.com. When we talk about "MediaOcean" or "we" in this policy, we are talking about MediaOcean Company . 
+This privacy policy explains how we (Mediaocean) will use Personal Information that we collect from you, or that you provide. For definitions, please see the bottom of this page.
 
-**Privacy Policy**   
-As an Internet pioneer, we understand the power that the Internet holds for changing your life and making things easier for you. These benefits are at risk if people are concerned about their personal privacy. We are committed to providing you with an Internet experience that respects and protects your personal privacy choices and concerns. Our privacy policy and practices are detailed below. Please read them thoroughly. We make three pledges to you: We will not release personally identifiable information about you without your permission (except as needed to provide to you the services you have expressly requested). See "third party relationships" below. You can manage and control the information that you have voluntarily provided to us. You can tell us what your privacy questions and concerns are so that we can respond. We constantly improve the tools you can use to manage the data that you provide to us. Please refer to this page from time to time to see these new features. 
+### Mediaocean as a data processor
 
-**Helpful Definitions**  
-Personally identifiable information is information, like your name, birth date, e-mail address or mailing address, that can be used to uniquely identify you.
+With respect to Personal Information that is collected, stored or used by our clients, we act only as a Data Processor. Our sole function is to provide technical support to run the systems on our mainframe and servers for the benefit of our clients. The client company is the Data Controller and is responsible for data protection obligations pertaining to its notification, collection, accuracy, and timely disposal. The client company is also responsible for arrangements to enable you to access your own Personal Information, subject to confirmation of identification, and for authorising disclosure to Third Parties.
 
-We will not share any anonymous information about the use of our site with third parties if we know that this information will be linked with your personally identifiable information obtained from another sourse, unless you have given us permission.
+### Mediaocean as a data controller
 
-Anonymous information is not personally identifiable information. Anonymous information is information about how you use our site (such as sites you visit and searches you do). Anonymous information also includes the domain names and/or I.P. addresses (as explained below) of internet browsers that visit our site, the time of day the site was visited, and other non-personal information. Anonymous information is information that is not tied to any person who is not registered as an MediaOcean member, but helps us know who what our users do (for example, the average stay on the News page lasts over 10 minutes). 
+Acting as a Data Controller, we may collect and process the following information about you:
 
-The next sections tell how and when we collect anonymous information and personally identifiable information from you. 
+  * your name, your email address and other contact details;
+  * your training profile, including details of courses you’ve attended and courses that you’re due to complete;
+  * information that you provide by filling in forms on www.mediaocean.com (our website), or on the websites listed on www.mediaocean.com/support; when you contact us, or when we contact you;
+  * if you contact us, we may keep a record of that correspondence;
+  * we may ask you to complete surveys that we use for research purposes, although you don’t have to respond to them; and
+  * details of your visits to our website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access (please see the section below headed ‘IP addresses and cookies’).
 
-**Collection and Use of Personally Identifiable Information**
 
-**Registration**  
-We want to assure you that you can visit our site and use many of our services without telling us who you are or revealing any personally identifiable information about yourself to us. It is only when you register to become an MediaOcean member that will you be asked to provide us with personally identifiable information. 
 
-**Sharing Personally Identifiable Information with Third Parties**   
-We will not share your personally identifiable information unless you have authorized us to share it. 
+We use your Personal Information in the following ways:
 
-**Anonymous Information**  
-We collect anonymous information when people use our site, even if they have not registered with us. We use this information to personalize your experience on our site, to show you more relevant advertising messages, and to improve our services in general. We share this anonymous information with some other companies, so you can see more relevant advertising messages. These companies analyzes anonymous information that we collect during your visit to MediaOcean and other sites to understand what services you would like. 
+  * to contact you where necessary or appropriate, for example if you have a query;
+  * to enhance or improve your experience on our website and/or with our products & services generally;
+  * to provide you with information, products, or services that you request from us and notify you of any changes to these;
+  * to help us keep the information that it holds about you up-to-date;
+  * to carry out obligations arising from contracts entered into between the client company and us;
+  * and to keep your information secure.
 
-**Use of IP Addresses**   
-An Internet protocol (I.P.) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your company's local area network (LAN) or wide area network (WAN). Web servers, the powerful computers that provide web pages for viewing, automatically identify your computer by the IP address assigned to it during your session online. We may collect I.P. addresses for some purposes (for example, to report anonymous user information to our advertisers and to audit the use of our site). We do not ordinarily link a user's I.P. address to a person's personal information, which means we will have a record of each user's session but the user remains anonymous to us. We will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's terms of use or to protect our service, site, or other users. PLEASE NOTE: Under certain circumstances, I.P. addresses and/or domain names may be linked to personally identifiable information, when said information is stored in databases managed by Internet registrars or registries such as Network Solutions or ARIN.
 
-**Security**   
-We operate secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Only certain employees have access to the information you provide us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences. 
 
-**Contacting Us**   
-If you have questions about this privacy policy or the practices of this site, please contact:
+To minimise the risk of unauthorised access to your information, we may use some of your information to authenticate you when using our website or when you contact us by telephone.
 
-MediaOcean, Inc.  
-250 14th Street, 4th Floor  
-Atlanta GA 30318  
-404 885 9940 TEL  
-404 885 9949 FAX
+### IP addresses and cookies
 
-MediaOcean reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any significant changes to this privacy policy. 
+We may collect information about your computer, including your IP address, operating system and browser type, for system administration.
+
+For the same reason, we may obtain information about your general internet usage by using cookie files. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and to deliver a better and more personalised service. Some of the cookies we use are essential for our website to operate.
+
+We use cookies as follows:
+
+Type | Name | Purpose | Sites  
+---|---|---|---  
+Session cookie | Jsessionid | Used to track user session on website | All sites  
+Session cookie | LtpaToken, LtpaApacheToken | Authentication token that identifies user during session | DDS sites  
+Session cookie | UserName | Used in display of pages | DDS sites  
+Google Analytics cookies | _utma, _utmb, _utmz | Collects anonymous traffic data | All sites  
+Persistent cookie | DDSPersistentLoginCookie | Stores user credentials between sessions if user selects ‘Remember me’ on login page | DDS sites  
+Persistent cookie | SPRING_SECURITY_REMEMBER_ME_COOKIE [name may change] | Stores user credentials between sessions if user selects ‘Remember me’ on login page | Support central  
+Persistent cookie | SaveStateCookie | Dojo cookie that remembers tree selections | DDS sites  
+  
+The following cookies that we use are essential for the operation of our website and have already been set: **JsessionId** ,  **LtpaToken** ,  **LtpaApacheToken**.
+
+If you register with us or if you continue to use our website, you agree to our use of cookies.
+
+### Definitions
+
+The following terms are used in this privacy policy:
+
+  * **Personal Information** is any information about an identified or identifiable individual, regardless of the medium or format in which the information is stored.
+  * A **Data Controller** is a party or entity that determines the purposes and means of the processing of Personal Information. A company functions as a data controller when it decides how such information is to be used, and then uses that information accordingly.
+  * A **Data Processor** is a party or entity that processes Personal Information on behalf of a Data Controller. A company functions as a Data Processor when it acts as an agent of another company, following its instructions as to how that information should be handled and processed.
+  * A **Third Party** is an entity or person other than you, Mediaocean or its clients.
+
+
