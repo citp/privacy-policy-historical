@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnang.com.sg privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216162235id_/http%3A//www.nuffnang.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.sg privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602113459id_/http%3A//www.nuffnang.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Nuffnang Singapore | Asia Pacific’s First Blog Advertising Community » Privacy Policy
 
