@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dots.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224905id_/http%3A//www.dots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dots.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602071127id_/http%3A//www.dots.com/privacy.html) for the most accurate reproduction.*
 
 # Dots : Privacy Policy
 
@@ -49,4 +49,4 @@ Dots, LLC
 30300 Emerald Valley Parkway  
 Glenwillow, OH 44139  
 877-874-2674  
-e-mail us through our [comment form](https://web.archive.org/web/20111101224905id_/http%3A//www.dots.com/forms/contact_form.aspx)
+e-mail us through our [comment form](https://web.archive.org/web/20120602071127id_/http%3A//www.dots.com/forms/contact_form.aspx)
