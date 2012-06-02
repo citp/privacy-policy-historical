@@ -1,47 +1,196 @@
-> *The following text is extracted and transformed from the 4projects.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906152427id_/http%3A//www.4projects.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4projects.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602194349id_/http%3A//www.4projects.com/privacy.aspx) for the most accurate reproduction.*
 
 # Construction Collaboration Software - Project Extranet, Document Management, Workflow, eProcurement, NEC3 Contract Manager, eforms, Communication Management, IPD, BIM, Project Management
 
-4Projects is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the 4Projects Web site and governs data collection and usage. By using the 4Projects website, you consent to the data practices described in this statement.
+Website & Email Privacy Policy
 
-Collection of your Personal Information
+4Projects are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-4Projects collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. 4Projects also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+**(1) What information do we collect?**
 
-There is also information about your computer hardware and software that is automatically collected by 4Projects. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by 4Projects for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the 4Projects Web site.
+We may collect, store and use the following kinds of personal data:
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through 4Projects public message boards, this information may be collected and used by others. Note: 4Projects does not read any of your private online communications.
+(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit, entry & exit points and number of page views;
 
-4Projects encourages you to review the privacy statements of Web sites you choose to link to from 4Projects so that you can understand how those Web sites collect, use and share your information. 4Projects is not responsible for the privacy statements or other content on Web sites outside of the 4Projects and 4Projects family of Web sites.
+(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
 
-Use of your Personal Information
+(c) information that you provide to us for the purpose of registering with us (including Name, Company, Job Title, Email, Address, Telephone & mobile number);
 
-4Projects collects and uses your personal information to operate the 4Projects Web site and deliver the services you have requested. 4Projects also uses your personally identifiable information to inform you of other products or services available from 4Projects and its affiliates. 4Projects may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including opens, clicks, preference information, email and other contact information);
 
-4Projects does not sell, rent or lease its customer lists to third parties. 4Projects may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, 4Projects may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to 4Projects, and they are required to maintain the confidentiality of your information.
+(e) any other information that you choose to send to us;
 
-4Projects does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+**(2) Cookies**
 
-4Projects keeps track of the Web sites and pages our customers visit within 4Projects, in order to determine what 4Projects services are the most popular. This data is used to deliver customized content and advertising within 4Projects to customers whose behavior indicates that they are interested in a particular subject area.
+A cookie consists of information sent by a web server to a web browser, and stored by the browser on your computer. This information is then sent back to the server each time the browser requests a page from the web server. This enables the web server to identify and track the usage of the website in question..
 
-4Projects Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on 4Projects or the site; (b) protect and defend the rights or property of 4Projects; and, (c) act under exigent circumstances to protect the personal safety of users of 4Projects, or the public.
+4Projects may use both “session” cookies and “persistent” cookies on their websites. We will use the session cookies to keep track of you whilst you navigate the website. We will use the persistent cookies to enable our website to recognise you when you visit;
 
-Use of Cookies
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-The 4Projects Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+4Projects makes use of Google Analytics to analyse the use of their websites. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated in this manner is used to create reports about the usage of 4Projects web sites, the use of Google Analytics also allows 4Projects to monitor system performance and can be used to identify areas that can be improved.  Google will store this information securely; their privacy policy is available at:[ http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html).
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize 4Projects pages, or register with 4Projects site or services, a cookie helps 4Projects to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same 4Projects Web site, the information you previously provided can be retrieved, so you can easily use the 4Projects features that you customized.
+With the onset of the EU Cookie law, 4Projects operates on the precept of implied consent.  Rather than explicitly asking each individual user to accept the storing of cookies, this means that continued usage of any 4Projects website implies an acceptance to allow the storage of cookies as detailed within this policy.  For more information about the Cookie law and how it pertains to organisations please refer to the Information Commissioners website available [here](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx).
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the 4Projects services or Web sites you visit.
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-Security of your Personal Information
+**  (3) Using your personal data**
 
-4Projects secures your personal information from unauthorized access, use or disclosure. 4Projects secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
-Changes to this Statement
+We may use your personal information to:
 
-4Projects will occasionally update this Statement of Privacy to reflect company and customer feedback. 4Projects encourages you to periodically review this Statement to be informed of how 4Projects is protecting your information.
+(a) administer the website;
 
-Contact Information
+(b) improve your browsing experience by personalising the website;
 
-4Projects welcomes your comments regarding this Statement of Privacy. If you believe that 4Projects has not adhered to this Statement, please contact 4Projects at [mike.metcalf@4projects.com](mailto:mike.metcalf@4projects.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+(c) enable your use of the services available on the website;
+
+(d) send you general (non-marketing) commercial communications;
+
+(e) send you email notifications which you have specifically requested;
+
+(f) send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer wish to receive marketing communications);
+
+(g) provide third parties with statistical information about our users –this information will not be used to identify individual users in any way;
+
+(h) deal with enquiries and complaints made by or about you pertaining to the use of the website;
+
+(i) OTHER USES.
+
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+
+**(4) Disclosures**
+
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+
+In addition, we may disclose information about you:
+
+(a) to the extent that we are required to do so by law;
+
+(b) in connection with any legal proceedings or prospective legal proceedings;
+
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+
+Except as provided in this privacy policy, 4Projects will not provide your information to third parties.
+
+**(5) International data transfers**
+
+Information that we collect may be stored, processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+Information which you provide may be transferred to countries (including the United States, Japan, Australia, and Canada which do not have data protection laws equivalent to those in force in the European Economic Areas (EEA).
+
+In addition, personal information that you submit for publication on the website may be published on the internet and as such may be available, via the internet, around the world.
+
+You expressly agree to such transfers of personal information.
+
+**(6) Security of your personal data**
+
+4Projects will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers.
+
+It should be noted that data transmission carried out over the internet is inherently insecure, and as such 4Projects cannot guarantee the security of data sent via that route.
+
+You are responsible for keeping your password and user details confidential. 4Projects will never ask you for your password for any reason.
+
+**(7) Email policy overview**
+
+4Projects maintains a strict opt-in only policy in regard to its email communications. We only send email to individuals who have requested that these mailings be sent to them, or as part of an on-going relationship we have with an individual or business.
+
+Your right to control what mailings, if any, you receive from 4Projects is important to us. The information below will assist you in understanding the different mailing options you have, and how you can notify us of changes in the mailings you wish to receive or to unsubscribe in general.
+
+Though we may include announcements from partners or other third parties in some communications, we do not provide email addresses to third parties.
+
+If you believe you have received unwanted, unsolicited email sent via any 4Projects system or purporting to be sent via 4Projects, please forward a copy of that email with your comments to [info@4projects.com](mailto:info@4projects.com)  for review and subsequent actioning.
+
+(a) What mailing lists 4Projects maintains and your subscription options
+
+**Customer, partner & prospect mailing lists**
+
+_Newsletter_  
+Keep up to date with what is happening with our newsletter showcasing webinars, whitepapers, articles, research, case studies and best practice guides.
+
+**Customer and partner only mailing lists**
+
+_Platform Updates_  
+News on the latest developments and new features of the 4Projects platform..
+
+_Service Update_  
+Details of critical service and performance issues with the 4Projects platform. These communications will be infrequent.
+
+To sign up to our email communications please visit: [www.4projects.com](http://www.4projects.com/).
+
+**Other email notifications**
+
+_Transactional emails_  
+4Projects typically sends an automated email confirmation when a form is completed requesting information.
+
+**Customer support incidents and responses**  
+Responses to customer support or pre-sales support requests are handled through email, telephone or online chat.
+
+(b) Changing your subscription preferences
+
+**4Projects mailing lists**
+
+**Customer and partner communications**  
+As a 4Projects customer or partner, you can update your communications preferences at any time by following the links located at the bottom of our emails. Requests submitted in this manner are generally processed and effective immediately.
+
+In addition, you may email a request to [info@4projects.com](mailto:info@4projects.com) requesting that your address be unsubscribed. Please be aware that unsubscribe requests submitted in this manner will take longer to process and will not be effective immediately.
+
+**Non-customer communications**  
+As a web site visitor who has requested that we send you email updates, you can update your communications preferences or unsubscribe at any time by clicking on the relevant link within emails you receive from us. Unsubscribe requests submitted in this manner are processed and effective immediately.
+
+In addition, you may email a request to [info@4projects.com](mailto:info@4projects.com) requesting that your address be unsubscribed. Please be aware that unsubscribe requests submitted in this manner will take longer to process and will not be effective immediately.
+
+**Transactional emails**  
+You will only receive transactional emails from 4Projects when you request information. There is no need to unsubscribe from these one-time mailings.
+
+**Customer support incidents and responses**  
+You will only receive these email responses in reply to specific support requests, or in response to technical issues detected by 4Projects proactive monitoring. There is no need to unsubscribe from these interactive mailings.
+
+(c) Third party mailings
+
+Occasionally, we may contract with a third party to communicate on 4Projects behalf to the third party's contacts. We do not collect your email address or contact information from this third party, and we do not have access to their mailing list.
+
+Depending on the nature of the third party mailing, we may, in order to comply with applicable laws, provide the third party with a suppression list of contacts to exclude from their list. The third party does not have permission to keep or market to this list, or to use it in any way other than as a suppression list for a mailing they are providing on 4Projects behalf.
+
+(d) Sharing and Usage
+
+4Projects will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.
+
+(e) Email Tracking
+
+When we send you emails, we may include a tacking image and web analytics code to allow us to determine the number of people who have interacted with our emails. When you click on a link in an email, we may record this individual response to allow us to customise our offerings to you. This tracking collects only limited information such as webpage viewed, time and date.
+
+**(8) Policy amendments**
+
+We may update this privacy policy from time-to-time by posting a new version on our websites. You should check this page occasionally to ensure you are happy with any changes.
+
+We may also notify you of changes to our privacy policy by email.
+
+**(9) Your rights**
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
+
+You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+
+**(10) Third party websites**
+
+4Projects websites may contain links to other websites. 4Projects are not responsible for the privacy policies or practices of third party websites.
+
+**(11) Updating information**
+
+Please let us know if the personal information we hold about you needs to be corrected or updated.
+
+**(12) Contact**
+
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@4projects.com](mailto:info@4projects.com)  or by post to 4Projects, The Teleport, Doxford International, Sunderland, SR3 3XD.
+
+**(13) Data controller**
+
+The data controller responsible for our website is 4Projects, contactable via email to [info@4projects.com](mailto:info@4projects.com).
+
+Our data protection registration number is **Z9988339.**
