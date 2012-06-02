@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119073124id_/http%3A//www.smartzip.com/s/sz/std/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602081950id_/http%3A//www.smartzip.com/privacy-policy) for the most accurate reproduction.*
 
-# SmartZip - Privacy Policy
+# Privacy Policy :: Smartzip
 
 #### Privacy Policy
 
@@ -41,15 +41,15 @@ We also use technologies, including electronic images known as Web bugs-sometime
 
 We use cookies and tracking technologies in a variety of ways, including:
 
-  * Keeping count of return visits to our site or our advertisers' or partners' sites; 
+  * Keeping count of return visits to our site or our advertisers’ or partners’ sites; 
   * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage; 
   * Determining which features our overall user population likes best; 
-  * Saving your password so you don't have to re-enter it each time you visit our site; and
+  * Saving your password so you don’t have to re-enter it each time you visit our site; and
   * Displaying the most appropriate advertising or content based on your interests. 
 
 
 
-We allow other companies that are presenting advertisements on our site and, sometimes, in our newsletters and email alerts to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies do not provide those advertisers with personally identifiable information. Our advertisers' use of tracking technology is subject to their own privacy policies.
+We allow other companies that are presenting advertisements on our site and, sometimes, in our newsletters and email alerts to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies do not provide those advertisers with personally identifiable information. Our advertisers’ use of tracking technology is subject to their own privacy policies.
 
 ##### How Do We Use the Information?
 
@@ -70,11 +70,11 @@ We will make your personally identifiable information available to other compani
   * You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction; 
   * You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site) within our site and grant us permission to pass your registration information back to that service partner (their use of your information is subject to their applicable privacy policies); 
   * We hire third-party vendors to provide specialized services, such as customer support, email message deployment, suppression, merge and de-duplication services, data processing, and special products or services that you have requested (these companies are only allowed to use the information in order to help us fulfill our services to you and we do not provide your information to these companies for their own, permanent use); 
-  * You unsubscribe for a mailing that we send to you on behalf of a third party; we may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails; 
+  * You unsubscribe for a mailing that we send to you on behalf of a third party; we may share your removal instruction with the third party so that it may be added to that person’s list of people to whom they may not send emails; 
   * You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process; 
   * When required by law, such as when we respond to subpoenas, court orders, or legal process; 
   * We believe that your actions violate applicable laws, SmartZip’s Terms of Service, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others; 
-  * Members of the SmartZip corporate family - to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications; members of our corporate family will use this information to send you marketing communications only if you’ve requested their services; and
+  * Members of the SmartZip corporate family – to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications; members of our corporate family will use this information to send you marketing communications only if you’ve requested their services; and
   * We use return email addresses to answer the email we receive; such addresses are not used for any other purpose and are not shared with outside parties. 
 
 
