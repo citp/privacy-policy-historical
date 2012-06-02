@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spikedmath.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204150937id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spikedmath.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602215417id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Spiked Math - Privacy Policy
 
@@ -29,7 +29,8 @@ Spiked Math might use cookies for the commenting system.
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... 
 
 ** Google Adsense  
-** Project Wonderful
+** Lijit  
+** Blogads
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on Spiked Math send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -37,4 +38,7 @@ Spiked Math has no access to or control over these cookies that are used by thir
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Spiked Math's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+**Lijit Information**   
+Our advertising partner Lijit only collects anonymous information from you unless you choose otherwise. Lijit does permit you to opt out of the collection of this anonymous site visit data. For more information on opting out please visit: <http://www.lijit.com/choices> and select the Opt Out Now button. For more information on Lijit's privacy practices please visit: <http://www.lijit.com/company/privacy-policy>
