@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209113723id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602215416id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
 
 # SuccessFactors Privacy Policy
 
@@ -6,7 +6,7 @@ Last revision, effective as of December 7, 2011
 
 #### Introduction
 
-SuccessFactors, Inc. and its worldwide affiliates ("SuccessFactors") are committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com](http://www.successfactors.com/homepage/)). SuccessFactors has therefore established this Web Privacy Policy Statement to assist you to understand how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit. By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement.
+SuccessFactors, Inc. and its worldwide affiliates ("SuccessFactors") are committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com](http://www.successfactors.com/home/)). SuccessFactors has therefore established this Web Privacy Policy Statement to assist you to understand how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit. By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement.
 
 #### Safe Harbor Certification
 
@@ -16,7 +16,7 @@ SuccessFactors is self-certified to the United States/European Union and United 
 
 SuccessFactors agrees to cooperate with the EU Data Protection Authorities and the Swiss Federal Data Protection, and to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
 
-If you have a complaint concerning SuccessFactors' Safe Harbor compliance, please contact [privacy@successfactors.com](mailto:privacy@successfactors.com).
+If you have a complaint concerning SuccessFactors' Safe Harbor compliance, please contact [privacy@successfactors.com](mailto:privacy@successfactors.com). 
 
 #### Web Site Data Collection Overview
 
@@ -50,7 +50,7 @@ SuccessFactors may amend this Privacy Statement from time to time. If SuccessFac
 
 #### Choice/Opt-Out and Updating Information
 
-If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing here: [ http://www.successfactors.com/unsubscribe/](http://www.successfactors.com/unsubscribe/). YYou may also contact us by regular mail addressed to: SuccessFactors, Inc., Attn: Chief Information Officer, 1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404.
+If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing here: [ http://www.successfactors.com/unsubscribe/](http://www.successfactors.com/unsubscribe/). You may also contact us by regular mail addressed to: SuccessFactors, Inc., Attn: Chief Information Officer, 1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404.
 
 #### DMCA Notice
 
@@ -64,3 +64,24 @@ If you believe that your copyrighted work has been copied in a way that constitu
   6. A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
 
 
+
+The above information must be submitted to the following DMCA Agent:
+
+DMCA Notice  
+SuccessFactors, Inc.  
+1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404  
+Attn: General Counsel
+
+Telephone: 650-645-2000  
+Fax: 650-645-2099  
+Email: [contracts@successfactors.com](mailto:contracts@successfactors.com), with “DMCA Notice” in the subject line 
+
+Under federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees. 
+
+Please note that this procedure is exclusively for notifying SuccessFactors that your copyrighted material has been infringed. The preceding requirements are intended to comply with SuccessFactors' rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws. 
+
+#### Contacting Us
+
+If you have any questions about this Privacy Statement or this Web site, please contact us directly at: [privacy@successfactors.com](mailto:privacy@successfactors.com). 
+
+Written inquiries may be addressed to: SuccessFactors, Inc., Chief Information Officer, 1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404, United States.
