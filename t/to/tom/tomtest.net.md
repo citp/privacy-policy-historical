@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtest.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204195233id_/http%3A//www.tomtest.net%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtest.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603002055id_/http%3A//tomtest.net%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # TomTest.net | Privacy Policy | Get Your Premiums Here!
 
@@ -18,7 +18,7 @@ Any of the information we collect from you may be used in one of the following w
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.   
 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
