@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the fontcubes.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211222id_/http%3A//www.fontcubes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontcubes.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602174054id_/http%3A//www.fontcubes.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Font Cubes Free Fonts for PC and Mac
+# Privacy Policy for Mac, Android, Windows | Font Cubes
 
+  
 | 
 
 ## Privacy Policy
@@ -23,7 +24,3 @@ www.fontcubes.com has no access to or control over these cookies that are used b
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hometheaterroomsdesign.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. For example, Google uses cookies to serve ads through the DART cookie based on visitors' usage of websites. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-[](http://www.psprint.com/gallery/?utm_source=blog&utm_medium=organic&utm_campaign=lb)
-
-[](http://wheredidtimefly.com/)
