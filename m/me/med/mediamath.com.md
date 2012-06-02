@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212643id_/http%3A//www.mediamath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602132813id_/http%3A//www.mediamath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 MediaMath is the leading online media trading company, offering agencies and their advertisers unprecedented reach and performance through one relationship. The company's industry-leading TerminalOne® platform is an enterprise-class DSP providing an unmatched combination of supply, data, analytics, workflow automation and optimization to return focus to marketing strategy rather than media execution. MediaMath is headquartered in New York City with offices in Los Angeles, Chicago,  
 Boston, San Francisco, Washington, D.C., and London.
 
-This Privacy Statement presents MediaMath’s privacy policy, including privacy practices for our data use and collection across our platform and the [www.MediaMath.com](https://web.archive.org/web/20111231212643id_/) web site.
+This Privacy Statement presents MediaMath’s privacy policy, including privacy practices for our data use and collection across our platform and the [www.MediaMath.com](https://web.archive.org/web/) web site.
 
 MediaMath is deeply committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
 
