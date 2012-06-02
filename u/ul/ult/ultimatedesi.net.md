@@ -1,26 +1,54 @@
-> *The following text is extracted and transformed from the ultimatedesi.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104700id_/http%3A//www.ultimatedesi.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedesi.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602031506id_/http%3A//www.ultimatedesi.net/static/privacy) for the most accurate reproduction.*
 
-# privacy policy - UltimateDesi.Net - Desi Porn Tube
+# privacy policy - UltimateDesi.Net
 
 ## Privacy Policy
 
-**What Information UltimateDesi.Net** **Collects:**
+This document details important information regarding the use and disclosure of User Data collected on UltimateDesi.Net
 
-**Personal Information:**  
-In certain situations such as when signing up for an account at UltimateDesi.Net , you will be asked to provide certain information which is considered personal. This may include name, e-mail, birth date or mailing address. You will need to provide this information in order to use certain features or take part in certain activities at UltimateDesi.Net such as uploading videos, posting content, accessing forums, entering contests, subscribing to mailing lists or receiving promotions.
+The security of your Data is very important to UltimateDesi.Net **** and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-**Non-Personal Information:**   
-Whenever you access or use the UltimateDesi.Net site, your web browser creates a record on our web servers about your time spent at the site. This information may include what pages you visited, how much time you spent at a page, your web request, Internet Protocol address, browser language, what pages you visited, number of clicks as well as other information which is considered non-personal. While at UltimateDesi.Net , you may also be sent cookies. Cookies are text files that are sent to your computer in order to identify your browser. UltimateDesi.Net may use persistent cookies which remain even after you have closed your browser. You may remove persistent cookies from your web browser. You may also create browser settings to refuse or disable all cookies but this may interfere with some of the features at UltimateDesi.Net.
+This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
 
-**How UltimateDesi.Net** **May Use Your Information:**   
-All Personal information that is submitted voluntarily to public areas such as in discussion boards, forums, chat rooms, user profiles or messages is considered public. This information may be displayed to and used by all other UltimateDesi.Net users. When you post user content or any message through UltimateDesi.Net, your account name may be used in correlation with that content but your email address will NOT be used. Any content that is submitted to UltimateDesi.Net may be used or redistributed through other channels including internet and other media. We encourage you to use discretion when posting information in the public areas.   
-The personal information which UltimateDesi.Net requires in order to create a user account will not be made public. This includes your name, email address, address or any other personal information which is not provided voluntarily in public areas. Your personal information will not be used for commercial or marketing messaging unless you have given your consent or in relation to certain features or programs. In these events, you will have the opportunity to opt out of the messaging. UltimateDesi.Net may use your e-mail address in order to send messages about the UltimateDesi.Net site news.   
-Non-personal information is used in order to make improvements to the UltimateDesi.Net site design and quality. In some cases, we may use your personal information to improve the site but this personal information will not be made public or distributed to third-party sites. Personal and   
-non-personal information may be used to create new features, promotions, services or for tracking visitors to the site.   
-Cookies and log file information are used to a) remember your information for the next time you visit the site; b) customize the site and its content to your browser; c) keep track of marketing and the effectiveness of campaigns; d) keep track of aggregate metrics; e) keep track of all your submissions, entries, statuses in contests and other promotions.
+DATA COLLECTED
 
-**When UltimateDesi.Net** **May Disclose Information**   
-All non-personal information may be disclosed at any time to any third party without notice or consent from the user. Personal information may be disclosed to subsidiaries, affiliates or other companies or persons when it is necessary to process a request for UltimateDesi.Net. In the event that your personal information is shared with a third party, that third party must adhere to the terms and conditions as stated in the UltimateDesi.Net Privacy Policy. All efforts will be made to make sure that your private information stays private and confidential through secure measures.   
-Your personal information will not be shared with third parties for use in their marketing or commercial purposes unless you have given consent prior or as part of a certain program or feature. In this case, you will have the option to opt-in or opt-out of the program/feature.  
-Under certain extreme circumstances, such as a court order or subpoena, UltimateDesi.Net may be required to release your personal or non-personal information. UltimateDesi.Net may also release any of your information in the event of an actual, impending or possible lawsuit.   
-UltimateDesi.Net may also release personal or non-personal information if, in good faith, UltimateDesi.Net believes that it is necessary in order to uphold the Terms of Use, protect against any liability, aid law enforcement agencies, protect the rights of UltimateDesi.Net or its users, or to protect the integrity of the web site. 
+  * Personal Information: 
+    * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
+    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+  * Cookies: When you visit UltimateDesi.Net, we may send one or more cookies to your computer that uniquely identifies your browser session. UltimateDesi.Net **** uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  * Log File Information: When you visit UltimateDesi.Net, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  * Emails: If you contact us, we may keep a record of that correspondence. 
+
+
+
+USES
+
+  * Your Personally identifiable information submitted to UltimateDesi.Net **** is used to provide to the user the website's features and special personalized features. 
+  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the UltimateDesi.Net **** private mail, etc. Other Users can contact you through, private messages. 
+  * Any videos that you submit to UltimateDesi.Net ** **may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
+  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
+  * OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
+  * OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the UltimateDesi.Net **** user-experience. 
+
+
+
+DISCLOSURE OF INFORMATION
+
+  * if under duty to do so UltimateDesi.Net **** may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of UltimateDesi.Net **** or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is UltimateDesi.Net **’s **policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
+  * Should you deliberately upload any illegal material UltimateDesi.Net **** shall forward all available information to all relevant authorities and this without notice.   
+\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+
+
+
+SECURITY
+
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+Unfortunately, the transmission of information via the Internet is not completely secure. UltimateDesi.Net **** uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to UltimateDesi.Net **** and you do so at your own risk. 
+
+YOUR RIGHTS
+
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at  ultimatedesi@hotmail.com.
