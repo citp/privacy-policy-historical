@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msgroups.net privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203084410id_/http%3A//msgroups.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msgroups.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602103654id_/http%3A//msgroups.net/site%7Eprivacy) for the most accurate reproduction.*
 
-# Privacy
+# MSGROUPS.NET Privacy Policy
 
 #####  Privacy Policy
 
