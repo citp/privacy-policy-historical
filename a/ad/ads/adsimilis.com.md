@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsimilis.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211053122id_/http%3A//www.adsimilis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsimilis.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602142233id_/http%3A//www.adsimilis.com/privacy.html) for the most accurate reproduction.*
 
 # Adsimilis - Privacy
 
