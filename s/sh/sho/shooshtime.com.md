@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shooshtime.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203212456id_/http%3A//www.shooshtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shooshtime.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040045id_/http%3A//www.shooshtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Porn, Amateur Porn, XXX - Free Porn Sex Tube - SHOOSH
+# Privacy Policy - Free Porn, Amateur Porn, XXX, Free Porno Sex Tube
 
 _(updated 1-11-2011)_  
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 18 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 18.
