@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadeprehacks.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124010706id_/http%3A//www.arcadeprehacks.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeprehacks.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602185937id_/http%3A//www.arcadeprehacks.com/page/1.html) for the most accurate reproduction.*
 
-# ArcadePreHacks.com - Privacy Policy
+# Privacy Policy
 
 **Guests**  
 We do not collect any personal information on this website. However, our web server logs all visitor information and we use this for statistical purposes. 
