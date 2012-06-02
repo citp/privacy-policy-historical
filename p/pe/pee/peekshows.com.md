@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the peekshows.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204073749id_/http%3A//www.peekshows.com/privacy.phtml%3Fwmcode%3Dpeek123-lncentry) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekshows.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603000444id_/http%3A//www.peekshows.com/privacy.phtml%3Fwmcode%3Dpeek123-lncentry) for the most accurate reproduction.*
 
 # PeekShows.com takes your Privacy Seriously! Secure and Encrypted Website and Servers with Green Bar Protection through Geotrust Extended Validation.
 
 ### EXCEPTION:  
 This Privacy Policy is null and void in cases of maliciously intentional fraud!
 
-This means that if you intentionally supply us with fraudulent information or attempt to defraud us, this privacy policy will not be honored. This exception is in place to help defeat internet fraudsters which use stolen credit card information in an attempt to steal money from the credit card holders, credit card companies, and merchants. In cases where we are supplied with fraudulent information, we may supply that information to the authorities in an attempt to help catch the crooks. We have been successful in getting internet fraudsters and hackers apprehended! 
+This means that if you intentionally supply us with fraudulent information or attempt to defraud us, this privacy policy will not be honored. This exception is in place to help defeat internet fraudsters that use stolen credit card information in an attempt to steal money from the credit card holders, credit card companies, and merchants. In cases where we are supplied with fraudulent information, we may supply that information to the authorities in an attempt to help catch the crooks.  
+**We have been successful in getting internet fraudsters and hackers apprehended and sent to jail!**
 
 The peekshows Network respects and safeguards the privacy of every individual who visits our website. This Privacy Policy is a formal document that outlines the privacy practices of the Peekshows Network. In this policy, the information we collect about you and how that information may be used will be explained.
 
@@ -47,7 +48,11 @@ Peekshows has implemented security policies, rules and technical measures to pro
 
 All employees and data processors, having access to, and associated with the processing of personal data, are obliged to respect the confidentiality of our customers' personal data. Peekshows conducts background and credit checks on all of its employees prior to employment. Peekshows uses a Username and password scheme in order to safeguard your information and limit access to our computer network by our employees and third parties.
 
-**IIX. Contact Us**
+**IIX. Cookies**
+
+A cookie is a small text file which is placed on your computer's hard drive. PeekShows.com uses cookies to help track customer signups for use in the PeekShows webmaster affiliate programs, and to assist with the security of the PeekShows.com Members Area. **Our cookies do not contain any personally identifiable information about you!** Overall, cookies help us provide you with a better website and to make your experience on PeekShows.com more enjoyable and secure. A cookie in no way gives us access to your computer or any information about you. You can choose to accept or decline cookies locally on your computer from within your web browser settings. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Doing so may prevent you from logging into the PeekShows.com Members area, or taking full advantage of PeekShows.com in general. 
+
+**IX. Contact Us**
 
 You can contact PeekShows.com and Broadcasting Concepts, Inc. via any of the following methods:  
 Email: support@peekshows.com  
