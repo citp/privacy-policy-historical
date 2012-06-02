@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204060641id_/http%3A//webincomejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602052320id_/http%3A//webincomejournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Income Journal!
+# Privacy Policy | WebIncomeJournal.com
 
 **Last Updated: 22nd September, 2011**
 
@@ -61,7 +61,3 @@ This site encourages parents to go online with their kids. Here are a few tips t
 **Revisions to This Policy**
 
 We reserve the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgment and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-### Leave a Response
-
-**IMPORTANT:** Please, ensure you understand my new [**Commenting Policy.**](http://webincomejournal.com/commenting-policy) Any violation will lead to your comment being deleted. **Keywordluv & Commentluv** are installed. Use wisely. Comments should contribute to the discussion or they stand DELETED! 
