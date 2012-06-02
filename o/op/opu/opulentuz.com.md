@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the opulentuz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101031438id_/http%3A//opulentuz.com/html/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opulentuz.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603003224id_/http%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.*
 
-# Opulentus Overseas Careers Complaints | Opulentus Careers Fraud Protection | Opulentus Fraud Protection | Fraud Free Opulentus on-line Payments | Fraud Protection Payments
+# Opulentus Complaints | Opulentus Privacy Policy
 
-Opulentus Overseas Careers strictly adheres to the commitment of protecting its clients’ information, maintains a fraud protection policy and makes sure to cater to client’s complaints; if any.
+Privacy Policy
+
+Opulentus Overseas Careers strictly adheres to the commitment of protecting its client's information, maintains a fraud protection policy and makes sure to cater to client's complaints; if any.
 
 We recognize the importance of preserving integrity and maintaining confidentiality. Any personal information and/or business proprietary material that are disclosed will be kept highly confidential.
 
@@ -20,6 +22,6 @@ The site has security measures in place to protect against the loss, misuse and 
 
 A separate dedicated team works to resolve the queries and issues of clients. This team makes sure to cater to complaints in best possible manner and provide solutions which result in best services to clients. 
 
-Only genuine complaints are dealt by our team. Opulentus Overseas Careers Complaints which are not genuine and are a result of client’s own negligence or fault is not catered by Opulentus. Such non genuine complaints can be rejection of visa due to non submission of documents from client’s side, absence of client on interview date at immigration office resulting in visa rejection etc. In such cases, Opulentus Overseas Careers will not be responsible and complaints relating to these will not be adhered to. 
+Only genuine complaints are dealt by our team. Opulentus Overseas Careers Complaints which are not genuine and are a result of client's own negligence or fault is not catered by Opulentus. Such non genuine complaints can be rejection of visa due to non submission of documents from client's side, absence of client on interview date at immigration office resulting in visa rejection etc. In such cases, Opulentus Overseas Careers will not be responsible and complaints relating to these will not be adhered to. 
 
-Our privacy policy and terms and conditions may change from time to time and the clients should keep checking our website frequently to be updated. Our current privacy policy applies to all information that we have about you and your account unless stated otherwise. 
+Our privacy policy and terms and conditions may change from time to time and the clients should keep checking our website frequently to be updated. Our current privacy policy applies to all information that we have about you and your account unless stated otherwise.
