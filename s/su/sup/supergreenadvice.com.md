@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergreenadvice.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124050958id_/http%3A//supergreenadvice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergreenadvice.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603005954id_/http%3A//www.supergreenadvice.com/privacy.php) for the most accurate reproduction.*
 
 # SUPERGREENADVICE - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Generally supergreenadvice.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII")
 
-This service is provided by supergreenadvice.com which is owned by embreo Ltd. For us, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+This service is provided by supergreenadvice.com. For us, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 ## What does this Privacy Policy cover?
 
@@ -38,7 +38,7 @@ Please note that it is not necessary for you to become a member in order to use 
 
 ## How is my data processed?
 
-We may disclose data to other entities within the EU belonging to the embreo Ltd group of companies and to third parties located in the EU to the extent that such disclosure is not incompatible with the purposes for which data are collected as mentioned above, but only that they provide adequate privacy protection. 
+We may disclose data to other entities within the EU and to third parties located in the EU to the extent that such disclosure is not incompatible with the purposes for which data are collected as mentioned above, but only that they provide adequate privacy protection. 
 
 You acknowledge that supergreenadvice.com and its affiliate entities operate in the United States and the European Union and agree to (i) permit supergreenadvice.com to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by us shall be subject to the Terms stated in this Privacy Policy and our [Terms of Use](https://web.archive.org/terms.php). 
 
@@ -66,14 +66,4 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to supergreenadvice.com with regard to: (a) the purposes for which such third party's data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
 
-## How do I find out more about our information practices?
-
-supergreenadvice.com is a division of embreo Ltd.
-
-embreo Ltd  
-570 KINGSTON ROAD  
-RAYNES PARK  
-LONDON   
-SW20 8DR
-
-E-Mail: info@supergreenadvice.com
+Please feel free to [contact us](https://web.archive.org/contact.php) with any additional questions or concerns.
