@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uabpr.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204202723id_/http%3A//uabpr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uabpr.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603000603id_/http%3A//uabpr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # UABPR.Com | The Directory - About Us
 
