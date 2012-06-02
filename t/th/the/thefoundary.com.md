@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundary.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227045907id_/http%3A//www.thefoundary.com/PrivacyModal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundary.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602021513id_/http%3A//www.thefoundary.com/PrivacyModal.html) for the most accurate reproduction.*
 
 # 
 
@@ -69,4 +69,4 @@ Thank you for shopping at [thefoundary.com.](http://thefoundary.com/)
 Sincerely,  
 The Hayneedle Team  
 The effective date of this Privacy Policy is September 16, 2010 (as modified August 25, 2011)  
-Copyright © 2010-2011 Hayneedle. ALL RIGHTS RESERVED.
+Copyright © 2012 Hayneedle. ALL RIGHTS RESERVED.
