@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenpom.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203195158id_/http%3A//kenpom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenpom.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603002139id_/http%3A//kenpom.com/privacy.php) for the most accurate reproduction.*
 
 # kenpom.com privacy policy
 
