@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210190251id_/http%3A//www.gftforex.com/Privacy-Policy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602220144id_/http%3A//www.gftforex.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - GFT
 
