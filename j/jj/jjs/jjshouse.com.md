@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jjshouse.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219195305id_/http%3A//www.jjshouse.com/about/help.php%3Fpage_id%3D86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjshouse.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603111917id_/http%3A//www.jjshouse.com/about/help.php%3Fpage_id%3D86) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice-JJsHouse.com
 
 JJsHouse.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-###  **JJsHouse.com’s Privacy Policy**
+###  **JJsHouse.com ’s Privacy Policy**
 
-Thank you for accessing the website ("Site") of JJsHouse.com Limited (all references to “us” and “our" refer to JJsHouse.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+Thank you for accessing the website ("Site") of JJsHouse.com Limited (all references to “us” and “our" refer to JJsHouse.com ). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
 This Privacy Policy explains:  
 1\. how we collect, use, and (under certain conditions) disclose your personal information;  
@@ -23,7 +23,7 @@ How does JJsHouse.com use my personal information?
 How are cookies and other technologies used to collect information?  
 Does JJsHouse.com ever give out my personal information?  
 Is information JJsHouse.com collects about me secure?  
-Are children allowed to use JJsHouse.com?  
+Are children allowed to use JJsHouse.com ?  
 How does JJsHouse.com use and disclose information collected from me offline?
 
 Where can I find updates to this policy?  
@@ -93,16 +93,16 @@ This Site incorporates physical, electronic, and administrative procedures to sa
      * Working only with third-party service providers who we believe adequately secure all computer hardware.  
 **While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.**
 
-**What choices do I have regarding JJsHouse.com’s collection of my information?**
+**What choices do I have regarding JJsHouse.com ’s collection of my information?**
 
 You can choose to:  
      * Correct or update your personal information  
      * Stop receiving mail to your email address  
      * Disable your account to prevent any future purchases through that account  
 **To correct or update your personal information** , log in to My Accounts and submit a request through the online Customer Service.  
-**To unsubscribe from emails**  you receive from Jjshouse.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
+**To unsubscribe from emails**  you receive from JJsHouse.com , follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
 
-**Are children allowed to use JJsHouse.com?**
+**Are children allowed to use JJsHouse.com ?**
 
 We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.  
 If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
@@ -176,7 +176,7 @@ While our business is designed with safeguarding your personal information in mi
 OPT OUT/CORRECTIONS
 
   
-Upon your request, we will (a) correct or update your personal information; (b) stop sending mail to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can correct or update your personal information through the online Customer Service system by logging in to My Accounts and submitting a request. To unsubscribe from emails you receive from JJsHouse.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending mail to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can correct or update your personal information through the online Customer Service system by logging in to My Accounts and submitting a request. To unsubscribe from emails you receive from JJsHouse.com , follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
 
   
 OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
