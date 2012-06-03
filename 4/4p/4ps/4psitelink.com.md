@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4psitelink.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006231851id_/https%3A//www.4psitelink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4psitelink.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603161232id_/https%3A//www.4psitelink.com/privacy.php) for the most accurate reproduction.*
 
 # yLink by 4Psite :: Privacy
 
