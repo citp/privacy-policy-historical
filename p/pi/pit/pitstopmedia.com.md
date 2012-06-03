@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203191314id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603062835id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Pitstop Media Inc - Privacy Policy | Internet Marketing Services by Pitstop Media Inc
+# Pitstop Media Inc - Privacy Policy
 
 |  |  |   | 
 
-195% Increase in AdWords CTR, Campaign Cost Decrease by 40%
+410% Increase in Google AdWords Conversions in Three Months
 
-Food Connect hired us to optimize an AdWords account with poor Quality Scores, high CPC and lack of any form of conversion tracking. Even then, we delivered ...
+Prior to contracting us, Holy Family was managing its PPC campaigns in-house, incurring AdWords losses and a negative ROI. We helped optimize the account ...
 
-[](http://www.pitstopmedia.com/case-studies/cs-detail-food-connect.php)
+[](http://www.pitstopmedia.com/case-studies/cs-detail-holy-family.php)
 
 | 
 
