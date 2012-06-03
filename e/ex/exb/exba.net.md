@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exba.net privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424213930id_/http%3A//exba.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exba.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603191204id_/http%3A//exba.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,3 +33,6 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Exba.net then you may contact us at contact@exba.net
 
 Last updated Thu, 17 Feb 2011 21:48
+
+  
+
