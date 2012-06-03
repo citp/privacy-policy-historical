@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226200925id_/http%3A//www.theatlantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603040452id_/http%3A//www.theatlantic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Atlantic
 
-**Last Updated:   July 22, 2011**
+**Last Updated:   April 24, 2012**
 
 **Privacy Policy**
 
@@ -41,6 +41,27 @@ Parents: These Sites are not directed to children under the age of thirteen (13)
 
 Please note that the Sites are directed towards users who reside in the United States. It is not our intent to gather personally identifiable information from individuals residing outside of the United States. If you are located outside of the United States, the information you provide to us will be transferred to the United States whose laws may not provide the same level of protection for personal information as your home country. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and other courts of, and in accordance with the laws of, the District of Columbia.
 
-**Disclaimer** This Privacy Policy may be changed at any time at our discretion. **How Can I Request that my Personally Identifiable Information not be Shared? How Can I Review My Personally Identifiable Information?** As indicated above, if you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information. **Any Questions?** For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by emailing us at [theatlantic@emailcustomerservice.com](mailto:theatlantic@emailcustomerservice.com), calling us at 800-234-2411, or writing to us at the address listed below. **Our Postal Address** Atlantic Monthly Group, Inc.  
+**Disclaimer** This Privacy Policy may be changed at any time at our discretion. **How Can I Request that my Personally Identifiable Information not be Shared? How Can I Review My Personally Identifiable Information?** As indicated above, if you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.
+
+ ** _Online_**
+
+Atlantic Monthly Group, Inc.
+
+600 New Hampshire Avenue, NW
+
+Washington, DC 20037
+
+ ** _Print:_**
+
+Atlantic Customer Care
+
+P.O. Box 420235
+
+Palm Coast, FL 32142-0235
+
+ **Any Questions?**
+
+ **  
+**For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by emailing us at[ theatlantic@emailcustomerservice.com](mailto:theatlantic@emailcustomerservice.com), calling us at 800-234-2411, or writing to us at the address listed below. **Our Postal Address** Atlantic Monthly Group, Inc.  
 600 New Hampshire Avenue, NW  
 Washington, DC 20037
