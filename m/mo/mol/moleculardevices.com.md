@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103031429id_/http%3A//www.moleculardevices.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603225943id_/http%3A//www.moleculardevices.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to www.MolecularDevices.com (and permutation webpages that provide a direct link to this Privacy Policy - collectively the "Sites"), which are owned and operated by Molecular Devices, Inc. This Privacy Policy is designed to explain our practices regarding the collection and use of information received from you and/or your company. 
+Welcome to www.MolecularDevices.com (and permutation webpages that provide a direct link to this Privacy Policy - collectively the "Sites"), which are owned and operated by Molecular Devices, LLC. This Privacy Policy is designed to explain our practices regarding the collection and use of information received from you and/or your company. 
 
 The Sites provide an opportunity for investors, prospective employees, and other adults to learn more about our company. The Sites are particularly geared to our customer base - life science researchers, drug discovery & development scientists, and bioassay/test developers - to provide them with content, products, and services focusing on their industries, to the role they play in their organizations, and to helping them accomplish biological procedures faster, more reliably, and in a cost-efficient manner. 
 
@@ -10,13 +10,13 @@ Your use of the Sites is subject to this Privacy Policy, which you may at any ti
 
 **Consent and data transfer:** By giving your personal information to us, which includes information furnished during a pre-registration, online order, or other registration or data capture process, you agree that we may collect and use such personal information and other information in accordance with the terms and conditions of this Privacy Policy. 
 
-For our customers in Switzerland and the European Union, please note that Molecular Devices, Inc. and affiliates operates in countries outside of Switzerland and the European Union (including the United States). If you use this Site, all information, including personal information, will be transferred to Molecular Devices, Inc. (including subcontractors that may be maintaining and/or operating our Sites) in the United States and elsewhere. Although this may include countries where there may be a lower level of legal protection for your personal information then your location country, we will protect your information in accordance with requirements applicable to your information. By using this Site, you unambiguously consent to the transfer of your personal information and other information to the United States and elsewhere for the purposes and uses described herein. 
+For our customers in Switzerland and the European Union, please note that Molecular Devices, LLC. and affiliates operates in countries outside of Switzerland and the European Union (including the United States). If you use this Site, all information, including personal information, will be transferred to Molecular Devices, LLC. (including subcontractors that may be maintaining and/or operating our Sites) in the United States and elsewhere. Although this may include countries where there may be a lower level of legal protection for your personal information then your location country, we will protect your information in accordance with requirements applicable to your information. By using this Site, you unambiguously consent to the transfer of your personal information and other information to the United States and elsewhere for the purposes and uses described herein. 
 
 **How we collect information about you:
 
 Personally identifying information.
 
-** When you register via this Site, you will be asked to provide personally identifying contact information (e.g., name, organization, address, phone number, e-mail address, fax number, and so on) and other information. On this Site, for example, we may collect and retain personally identifying and other information from you in a number of ways, such as when you place an order, request e-mail updates or other information, complete customer surveys, submit a feedback or contact form, or provide a resume. Information about particular transactions, such as product purchases over the website, is maintained in our databases in the same or similar manner as such information is maintained for transactions which are done by telephone, fax, etc. If any third parties, including any companies owned by Molecular Devices, Inc., provide information to us about you, we may combine that information with other information we have about you, and if and to the extent we do, we will treat such combined information in accordance with this Privacy Policy. 
+** When you register via this Site, you will be asked to provide personally identifying contact information (e.g., name, organization, address, phone number, e-mail address, fax number, and so on) and other information. On this Site, for example, we may collect and retain personally identifying and other information from you in a number of ways, such as when you place an order, request e-mail updates or other information, complete customer surveys, submit a feedback or contact form, or provide a resume. Information about particular transactions, such as product purchases over the website, is maintained in our databases in the same or similar manner as such information is maintained for transactions which are done by telephone, fax, etc. If any third parties, including any companies owned by Molecular Devices, LLC., provide information to us about you, we may combine that information with other information we have about you, and if and to the extent we do, we will treat such combined information in accordance with this Privacy Policy. 
 
 **E-mail address.** Your e-mail address is used to raise and respond to issues and inquiries of all types and to keep in contact with you generally. It is also used to distribute information about us and market our products and services as described herein. 
 
@@ -34,7 +34,7 @@ In connection with our customer rewards programs and/or other promotions, we use
 
 **How we share your information:  
 **  
- **Third parties.** Molecular Devices, Inc. does not provide the personally identifiable information you supply to us to outside mailing lists. We may share information about you with employees, affiliates, successors, and agents/representatives (for example, consultants), which are required to treat the information in accordance with this Privacy Policy. Except as specifically described in this Privacy Policy, we will not, without your specific prior consent, sell, trade, or transfer your information to unaffiliated third parties other than authorized third parties (such as, for example, contractors supporting operation of this Site) and others involved in the e-commerce distribution chain (e.g., vendors, service providers), which may need access to some of your personal information. We oblige such third parties to comply with our privacy policy, and limit their access and use of your personal information. 
+ **Third parties.** Molecular Devices, LLC. does not provide the personally identifiable information you supply to us to outside mailing lists. We may share information about you with employees, affiliates, successors, and agents/representatives (for example, consultants), which are required to treat the information in accordance with this Privacy Policy. Except as specifically described in this Privacy Policy, we will not, without your specific prior consent, sell, trade, or transfer your information to unaffiliated third parties other than authorized third parties (such as, for example, contractors supporting operation of this Site) and others involved in the e-commerce distribution chain (e.g., vendors, service providers), which may need access to some of your personal information. We oblige such third parties to comply with our privacy policy, and limit their access and use of your personal information. 
 
 **Mergers/acquisitions.** In the event of any prospective or actual merger, business or asset sale, divestiture, other changes in control or financial status, or re-organization we may share or transfer personal information with the other party or parties involved. We will require the recipient to use the information in accordance with this Privacy Policy. 
 
@@ -44,7 +44,7 @@ In connection with our customer rewards programs and/or other promotions, we use
 **  
 We take reasonable steps to safeguard the information you provide to us. For example, web page elements transmitting personal or financial information are encrypted from your client PC to our servers (which are located in the United States to the extent data on Canadian registered website visitors is concerned) using the standard known as SSL (Secure Sockets Layer). Beyond the SSL encryption your data is protected once it reaches our network through the use of secure network firewalls. Portions of your data may also be encrypted on our storage server for additional security. 
 
-Because no system is 100% secure or error-free despite taking commercially reasonable steps, Molecular Devices, Inc. and its affiliates do not promise, and you should not expect, that information you provide shall remain private under all circumstances. It is your responsibility to safeguard any passwords, ID numbers, or other special access features associated with your use of the Site. 
+Because no system is 100% secure or error-free despite taking commercially reasonable steps, Molecular Devices, LLC. and its affiliates do not promise, and you should not expect, that information you provide shall remain private under all circumstances. It is your responsibility to safeguard any passwords, ID numbers, or other special access features associated with your use of the Site. 
 
 **Opting out:  
 **  
@@ -60,7 +60,7 @@ If you have any questions relating to this Privacy Policy or relating to the tra
 
 **Other websites:**
 
-This Site contains links to the websites of other organizations. Molecular Devices, Inc. is not responsible for the privacy practices or the content of other websites, and unless otherwise specified, does not imply any relationship, sponsorship, or affiliation between Molecular Devices, Inc. and these linked sites, or adoption or approval of the content of such sites. Since we do not control these websites, we encourage you to review the privacy policies posted on those, and all, third party websites. 
+This Site contains links to the websites of other organizations. Molecular Devices, LLC. is not responsible for the privacy practices or the content of other websites, and unless otherwise specified, does not imply any relationship, sponsorship, or affiliation between Molecular Devices, LLC. and these linked sites, or adoption or approval of the content of such sites. Since we do not control these websites, we encourage you to review the privacy policies posted on those, and all, third party websites. 
 
 **Children's privacy:**
 
@@ -68,7 +68,7 @@ We do not knowingly collect personal information from children under the age of 
 
 **How to contact us:**
 
-For any requests or questions related to this Privacy Policy, or if you have concerns about how information you provide to  **Molecular Devices, Inc.**  is being used, please contact us at [info@moldev.com](mailto:info@moldev.com) or [webmaster@moldev.com](mailto:webmaster@moldev.com). 
+For any requests or questions related to this Privacy Policy, or if you have concerns about how information you provide to  **Molecular Devices, LLC.**  is being used, please contact us at [info@moldev.com](mailto:info@moldev.com) or [webmaster@moldev.com](mailto:webmaster@moldev.com). 
 
 **Revisions to Privacy Policy:**
 
