@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the fantrax.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916044555id_/http%3A//www.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantrax.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603065233id_/http%3A//www4.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
-# Fantrax Fantasy Sports | Free Commissioner games | NFL, MLB, NBA, NHL, NASCAR, College Basketball and Football | Privacy Policy
+# Privacy Policy - Fantrax
 
 **OUR COMMITMENT TO PRIVACY**
 
-This Privacy Policy applies to the www.fantrax.com website owned and operated by Vauntek Inc. (hereinafter referred to as "Fantrax", "we", "our", or "us"). The Fantrax website is an interactive fantasy sports website which allows users to access sports-related information, software, merchandise and services. Fantrax respects the privacy of its users and is committed to protecting the personal information which it collects. This Fantrax Privacy Policy has been prepared to assist you in understanding the type of personal information that we may collect, how it used and with whom it may be shared. It also explains how your personal information is protected, and how it may be accessed. Our Policy is modeled after the Canadian Standards Association Model Code for the Protection of Personal Information and has been developed to comply with the federal Personal Information Protection and Electronic Documents Act. We recommend that you review this Privacy Policy carefully and to check back periodically as the Policy may be amended from time to time. 
+This Privacy Policy applies to the www.fantrax.com website owned and operated by Septillium LLC. (hereinafter referred to as "Fantrax", "we", "our", or "us"). The Fantrax website is an interactive fantasy sports website which allows users to access sports-related information, software, merchandise and services. Fantrax respects the privacy of its users and is committed to protecting the personal information which it collects. This Fantrax Privacy Policy has been prepared to assist you in understanding the type of personal information that we may collect, how it used and with whom it may be shared. It also explains how your personal information is protected, and how it may be accessed. Our Policy is modeled after the Canadian Standards Association Model Code for the Protection of Personal Information and has been developed to comply with the federal Personal Information Protection and Electronic Documents Act. We recommend that you review this Privacy Policy carefully and to check back periodically as the Policy may be amended from time to time. 
 
 **COLLECTION OF PERSONAL INFORMATION**
 
 "Personal information" is personally identifiable information such as your name, address, e-mail address, gender, birth date, password, and includes information about your product and service subscriptions and usage, credit information and billing records, service and recorded complaints. 
 
-Personal information is collected by Fantrax only when you specifically and knowingly choose to provide it us such as when register for a league, enter a Fantrax contest/promotion, request our electronic communications, or communicate with us via telephone, mail, email or "contact us" tool, participate in on-line chat room or bulletin boards or choose to or subscribe to receive information, products or services from Fantrax. 
+Personal information is collected by Fantrax only when you specifically and knowingly choose to provide it to us, such as when you register for a league, enter a Fantrax contest/promotion, request our electronic communications, communicate with us via telephone, mail, email or "contact us" tool, participate in on-line chat room or bulletin boards or choose to subscribe to receive information, products or services from Fantrax. 
 
 We may also receive personal information from our business partners and other third parties, provided that such third parties confirm to us that they have obtained your consent to the disclosure of your personal information. 
 
@@ -22,7 +22,7 @@ Personal information does not include certain business information, such as empl
 
 Fantrax uses your personal information primarily for the purpose of providing you with the products and services you have requested from us, such as customizing the content you view, receiving newsletters and/or other communications for which you have registered, special offers or promotional materials, or confirming or fulfilling an order you have made. 
 
-Your personal information is used to communicate with you about your account and to provide you with information related to other Fantrax services. We may use your personal information from time to time to inform you about changes or enhancements to our products and services. We retain your website user ID and password so that upon request by you and receipt of identification we may remind them of you. 
+Your personal information is used to communicate with you about your account and to provide you with information related to other Fantrax services. We may use your personal information from time to time to inform you about changes or enhancements to our products and services. We retain your website user ID and password so that upon request by you and receipt of identification we may remind you of them. 
 
 If you indicated that you were interested in receiving offers or information from selected Fantrax sponsors or advertisers, your personal information may also be used to contact you or to send you e-mail materials and other mailings about products and services that might be of interest to you. You always have the option, however, to advise us not to share your personal information with other Fantrax partners or to exclude you from marketing offers for other products or services. 
 
@@ -68,8 +68,10 @@ The Fantrax Site may contain links to external websites. These are provided for 
 
 If you have any questions, comments or complaints about the collection, use or disclosure of your personal information by Fantrax, or if you simply want to know whether we have any of your personal information on file, you may contact Fantrax's Privacy Officer at: [privacy@fantrax.com](mailto:privacy@fantrax.com) or write us at: 
 
-10-8707 Dufferin Street, Suite 105  
-Thornhill, Ontario, Canada L4J 3Y1
+2400 Oxford Drive  
+Suite 450  
+Bethel Park, PA   15102  
+USA
 
 Except in limited circumstances, as specifically provided by applicable privacy legislation, Fantrax can tell you whether it holds personal information about you. We can inform you of the source of your personal information, allow you to access to your personal information, find out how it has been used and the third parties to whom it has been disclosed. We also provide you with the means to access, correct, update, change or delete any personal information you may have provided to us. 
 
