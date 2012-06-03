@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230002125id_/http%3A//prommanow.com/index.php/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603140220id_/http%3A//prommanow.com/index.php/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Pro MMA Now
+# Privacy Policy
 
 **What information do we collect?**
 
