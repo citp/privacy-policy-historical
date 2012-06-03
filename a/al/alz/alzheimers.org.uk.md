@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226121352id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603224529id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
 
 # Terms and disclaimer - Alzheimer's Society
 
-## © Copyright 1998-2011 Alzheimer's Society  
+## © Copyright 1998-2012 Alzheimer's Society  
 All rights reserved
 
 The information provided on this site is for the benefit of people with dementia, carers, health and social care professionals and others with an interest in dementia. 
@@ -12,6 +12,8 @@ The Alzheimer's Society believes in the free dissemination of information as far
 Commercial use or publication of all or any item displayed is strictly prohibited without prior authorisation from the Alzheimer's Society. 
 
 Using any of the Alzheimer's Society's registered logos, graphics or photographs without the Society's prior consent is strictly prohibited.
+
+If you wish to request permission to re-use content from any or part of Alzheimer's Society's publications or website in any media, [please complete this form](http://www.alzheimers.org.uk/site/scripts/xforms_form.php?formID=238). 
 
 ## Disclaimer 
 
@@ -41,15 +43,25 @@ You can ask us whether we are keeping personal data about you by writing to the 
 
 Alzheimer's Society tries to keep the information we have about you accurate and up to date. If however, you find errors or inaccuracies in your data, we will erase, complete or amend that information upon request. 
 
+## Cookies and IP tracking   
+
+
 Our site uses cookies. A cookie is a small text marker stored on your computer that enables us to track the use of our website. We use cookies to help us understand what our users' interests and preferences are to ensure the website is as user friendly as possible.
 
-This site uses cookies in order to provide a service to visitors. No personal data is stored in cookies and cookies are not used in order to provide advertising. Cookies are used for the following purposes:
+This site only uses cookies in order to provide a service to visitors. No personal data is stored in cookies and cookies are not used in order to provide advertising. Cookies are used for the following purposes:
 
-1\. to allow users to log in to the web site  
-2\. to check that cookies can be set and therefore determine whether a user is able to log in  
-3\. to store a reference to form data that is stored on the web server.  
-4\. to help us better understand how visitors engage with this website. 
+  * to allow users to log in to the web site
+  * to check that cookies can be set and therefore determine whether a user is able to log in
+  * to store a reference to form data that is stored on the web server.
+  * to help us better understand how visitors engage with this website.
 
-Please note that any information you may post on any bulletin board or chat room may be viewed by anyone visiting our site. Do not post any information about yourself which you would not be happy for random passers by to see. Our [online forum](http://www.alzheimers.org.uk/talkingpoint/site/index.php "bulletin boards") also uses cookies.
+
+
+For more details see the [full list of all cookies used on this website](http://www.alzheimers.org.uk/site/scripts/documents_info.php?documentID=1875).
+
+## Safety online   
+
+
+Please note that any information you may post on any bulletin board or chat room may be viewed by anyone visiting our site. Do not post any information about yourself which you would not be happy for random passers by to see. 
 
 If you have any concerns about the processing of your personal data by the Alzheimer's Society, please contact Information Security Manager, Alzheimer's Society, Devon House, 58 St Katharine's Way, London E1W 1LB 
