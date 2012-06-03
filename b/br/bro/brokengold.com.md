@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001002id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603142912id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Jewelry Online
 
@@ -13,7 +13,7 @@ If you have questions or concerns regarding this statement, you should first con
 * * *
 
 **The following applies only to North Carolina residents.**  
-Brokengold.com may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a North Carolina resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to support@brokengold.com or write to North Carolina Privacy Information c/o Brokengold.com, 1648 Memorial Dr Burlington NC 27215. We will not honor such request more than once per calendar year.  
+Brokengold.com may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a North Carolina resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to support@brokengold.com or write to North Carolina Privacy Information c/o Brokengold.com, 2437 N Church St Burlington NC 27217. We will not honor such request more than once per calendar year.  
 For more information on how your personally identifiable information is collected and used, please read our Privacy Policy.
 
 **Privacy Policy  
@@ -107,7 +107,7 @@ In our sole discretion, we may transfer, sell or assign information collected on
 
 **Customer Service**
 
-If you have any questions or concerns, please feel free to contact us at: Brokengold.com; Attn. Customer Service; 1648 Memorial Dr Burlington NC 27215 or via email at support@brokengold.com.
+If you have any questions or concerns, please feel free to contact us at: Brokengold.com; Attn. Customer Service; 2437 N Church St Burlington NC 27217 or via email at support@brokengold.com.
 
 **Changes to this Policy**
 
@@ -126,7 +126,7 @@ You may remove your information from our database. If you remove your informatio
 
 Presented by:  
 Brokengold.com  
-1648 Memorial Dr  
-Burlington NC 27215
+2437 N Church St   
+Burlington NC 27217
 
 ©2008 BGC MANAGEMENT, INC. - Sell Gold, Scrap Silver, Old Jewelry & More at BrokenGold.com
