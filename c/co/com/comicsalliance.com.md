@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicsalliance.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212929id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicsalliance.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603211912id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
 
 # AOL Privacy
 
