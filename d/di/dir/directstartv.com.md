@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231041110id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603044140id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # DIRECT TV Deals and DIRECTV Satellite TV Service Promotional Coupon Codes from DirectStarTV DIRECTV DIRECT TV DIRECTTV
 
@@ -58,7 +58,7 @@ DirectStarTV reserves the right to change this policy. If we do make changes, th
 
 You may contact us via the following methods:  
 Email: [comments @DirectStarTV.com  
-](mailto:comments@DirectStarTV.com) Phone: 1-877-550-6259  
+](mailto:comments@DirectStarTV.com) Phone: 1-888-662-8395  
 Mailing Address: 1091 521 Corporate Center Drive, Indian Land, SC 29707
 
 **We take your privacy and security seriously.**
