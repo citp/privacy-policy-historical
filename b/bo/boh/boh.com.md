@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009070016id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131233id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
 
-# Bank of Hawaii - Online Privacy Policy
+# Bank of Hawaii - Security - Bank of Hawaii - Online Privacy Policy
 
-### Protecting the privacy of your information on boh.com.
+## Protecting the privacy of your information on boh.com.
 
 Thank you for visiting Bank of Hawaii’s website. We understand the importance of customer privacy and want you to know what information is collected online and how we use it. 
 
