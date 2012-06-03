@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swann.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231062736id_/http%3A//www.swann.com/s/company/p/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swann.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603151927id_/http%3A//www.swann.com/s/company/p/privacypolicy) for the most accurate reproduction.*
 
 # Swann - Advanced Security Made Easy
 
