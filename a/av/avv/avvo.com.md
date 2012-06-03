@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2011-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110815184749id_/http%3A//www.avvo.com/support/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603023844id_/http%3A//www.avvo.com/support/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Avvo.com
 
