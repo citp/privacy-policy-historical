@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the petermillar.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901105220id_/http%3A//www.petermillar.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petermillar.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603054931id_/http%3A//www.petermillar.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We take seriously the issue of safeguarding the privacy of information. We have created this Privacy Policy in order to better familiarize you with the information we collect or obtain, and the way in which we use this information to better operate our business and serve the needs of our guests.
 
-## What is Personal Information?
+What is Personal Information?
 
 The term “Personal Information” refers to any information that can be used to identify you as an individual or is about you as an individual. It can include, among other things, your name, address, age, gender and personal financial history.
 
-## How is Personal Information Collected?
+How is Personal Information Collected?
 
 While in the process of browsing our website, you also provide us with information that does not reveal your personal identity—what type of product you're seeking information about, for example. We use this aggregated, anonymous data mainly for website improvements, but we do not connect it to any Personal Information, such as your name or address.
 
@@ -18,7 +18,7 @@ In the event you choose to provide us with this information, we will use it for 
 
 If you wish, you may also submit your email address in order to be placed on a subscription list or to receive other information. You will be placed on these lists only when you indicate your desire to be included. In deciding whether or not to join such lists, please note that they are only used for internal purposes; we do not sell or rent our lists to anyone. In the event you choose to join one of our lists, you may ask to be removed from the list at any time as it is our desire to allow each visitor to have the ability to accept or decline any form of communication from us.
 
-## How Do We Store Information?
+How Do We Store Information?
 
 We regularly obtain and store information in both digital and physical form. In order to better facilitate the security for Personal Information, we endeavor to store Personal Information in a secure location, be it a database or filing cabinet. Furthermore, we take steps to limit and control access to this information.
 
@@ -50,7 +50,7 @@ Certain laws, legal actions, financial reporting requirements and other governme
 
 If we suspect any unlawful activity is taking place or if we need to enforce or defend our rights, we may investigate and/or take action that we deem appropriate, including to report findings or suspicions to the police or other relevant law enforcement agency.
 
-## How Do I Access My Personal Information?
+#### How Do I Access My Personal Information?
 
 We understand that you may like to know what Personal Information we hold about you, and we welcome facilitating your request whenever appropriate to do so. To protect your Personal Information, however, we require that you prove your identity to us at the time your request is made.
 
@@ -62,16 +62,16 @@ The above information is required to create an audit trail of how the request ha
 
 We reserve the right to decline access to your Personal Information under certain circumstances. When your Personal Information will not be disclosed, you will be provided with the reasons for this nondisclosure.
 
-## How Do I Revise My Personal Information?
+How Do I Revise My Personal Information?
 
 If at any time you wish to update your Personal Information, you can do so by contacting Customer Service:
 
 \- via email: [custserv@petermillar.com](mailto:Custserv@petermillar.com)  
-\- via letter: PeterMillar.com, 220 James Jackson Ave Cary, NC 27513 Attn: Customer Service
+\- via letter: PeterMillar.com, 4300 Emperor Blvd., Suite 100 Durham, NC 27703 Attn: Customer Service
 
 In all instances it will be your responsibility to maintain the accuracy and currency of your Personal Information with us. We will only make changes requested by you to your Personal Information in those instances when we have received an appropriate written request from you. That written request must also include adequate and appropriate proof of your identity.
 
-## For How Long Is My Personal Information Retained?
+For How Long Is My Personal Information Retained?
 
 Information generally, including Personal Information, will be retained for the period of time required to fulfill our business purpose and comply with applicable law and record retention requirements. This may mean that it will be stored indefinitely or for as long as there is a business purpose for doing so. Notwithstanding, we may delete information, including your Personal Information, from time to time as we deem appropriate.
 
@@ -90,4 +90,4 @@ To Whom Do I Direct Questions or Concerns Regarding this Policy?
 Questions or concerns regarding this privacy policy should be directed to Customer Service
 
 \- via email: [custserv@petermillar.com](mailto:Custserv@petermillar.com)  
-\- via letter: PeterMillar.com, 220 James Jackson Ave Cary, NC 27513 Attn: Customer Service
+\- via letter: PeterMillar.com, 4300 Emperor Blvd., Suite 100 Durham, NC 27703 Attn: Customer Service
