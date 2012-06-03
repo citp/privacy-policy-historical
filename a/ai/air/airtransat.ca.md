@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207165431id_/http%3A//www.airtransat.ca/EN/Info/privacy.aspx%3FExitID%3D765%26ContentType%3Dgamme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124625id_/http%3A//www.airtransat.ca/EN/Info/privacy-policy-and-legal-notice.aspx%3FExitID%3D765%26ContentType%3Dgamme) for the most accurate reproduction.*
 
 # Privacy | Air Transat
 
@@ -178,7 +178,7 @@ Should an individual feel that this Policy is not being complied with or should 
 
 ## Terms and Conditions of Carriage 
 
-Click [here](http://media.transattravel.com/Airtransat/_pdf/sched_EN_tarif.pdf) to open the Tariff containing rules applicable to scheduled services for the transportation of passengers and baggage or goods between points in Canada in the one hand and points outside Canada on the other hand.
+Click [here](http://media.transattravel.com/Airtransat/_pdf/sched_EN_tarif.pdf) to open the Tariff containing rules applicable for the transportation of passengers and baggage or goods between points in Canada in the one hand and points outside Canada on the other hand.
 
 ## Terms of use for the Air Transat site
 
