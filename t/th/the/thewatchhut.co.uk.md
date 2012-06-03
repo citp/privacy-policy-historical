@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231230248id_/http%3A//www.thewatchhut.co.uk/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603203322id_/http%3A//www.thewatchhut.co.uk/information/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement Watches | Quality Designer Watches | The Watch Hut
 
@@ -6,7 +6,7 @@ This notice describes our privacy policy; by visiting our website, you are accep
 
 ## Controllers of Personal Information
 
-Any personal information provided to or gathered by us is controlled primarily by T. H. Baker and Co Ltd of 95 High Street, Brierley Hill, West Midlands, England, United Kingdom, DY5 3AU.
+Any personal information provided to or gathered by us is controlled primary by DM London Ltd of Unit 24 Waterfront East, Level Street, Brierley Hill, West Midlands, DY5 1XG.
 
 ## Collection and Use of Personal Information About Customers
 
