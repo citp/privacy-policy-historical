@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145019id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604000335id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dazeinfo
+# Privacy Policy l Dazeinfo
 
 Dazeinfo.com is a Technology analysis blog which showcases amazing insights of IT Industry. Dazeinfo is committed to safeguard privacy of its users while online at Dazeinfo.com. We have right to collect information (whenever necessary) from our users like name, email address, etc. And we abide by the terms and conditions and we never share/sell any of your information to any third party authority by any means. Like most web services we keep track of visitor logs which involves information like IP address, Browser Info, Operating System Info, [Internet](http://dazeinfo.com/tag/internet/ "Internet") Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze [trends](http://dazeinfo.com/tag/trends/ "trends"), administer the site, track user’s movement around the site, and gather demographic information. and other such information are not linked to any information that is personally identifiable. This log may be used to improve service offered by us and to find copyright violators. These logs will not be made public unless required by law.
 
@@ -78,7 +78,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.dazeinfo.com/connect/
+http://www.dazeinfo.com/[connect](http://www.dazeinfo.com/connect/ "connect")/
 
 No 95/5, 12th Cross, 8th Main  
 Wilson Garden  
@@ -94,3 +94,9 @@ Cookies, [JavaScript](http://dazeinfo.com/tag/javascript/ "JavaScript"), or Web 
 Since we has no access/control over these third party cookies that are used by third-party advertisers we are not liable for any loss affected by our advertisers. Dazeinfo.com privacy policy will not apply and we cannot control the preferences and activities of our sponsored advertising partners.
 
 It is your(user’s/reader’s) responsibility to read respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out (avoid) of certain practices and these third party cookies can be blocked by the web browser and it is not mandatory to read free content from Dazeinfo.com. More detailed information about cookie management with specific web [browsers](http://dazeinfo.com/tag/browsers/ "browsers") can be found respective support websites of your web browser.
+
+##### Incoming search terms:
+
+  * www coppa org/comply htm
+
+
