@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140619id_/http%3A//www.batterystuff.com/shop_safe_zone.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603104337id_/http%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
 
-# Privacy & Security Notice
+# BatteryStuff Articles | Privacy and Security Policy
+
+[](https://web.archive.org/images/knowledge-base/Privacy-Security-Policy.jpg)
 
 ### BatteryStuff.com is a ShopSafeZone
 
 **Website**  
-We at BatteryStuff.com feel that your personal privacy is of the utmost importance. BatteryStuff.com uses Secure Socket Layer (SSL) with 2048 bit encryption certified by GoDaddy.com, which is the leader in website security and encryption. BatteryStuff.com website is hosted by [Digital West](http://www.digitalwest.net/) which is certified secure by Equifax Secure Global eBusiness SSL 3.0, RC4 with 128 bit encryption (High); RSA with 1024 bit exchange.
+We at BatteryStuff.com feel that your personal privacy is of the utmost importance. BatteryStuff.com uses Secure Socket Layer (SSL) with 2048 bit encryption certified by GoDaddy.com, which is the leader in website security and encryption. BatteryStuff.com website is hosted by [Servint](http://www.servint.net/) which is certified secure by Equifax Secure Global eBusiness SSL 3.0, RC4 with 128 bit encryption (High); RSA with 1024 bit exchange.
 
 **Credit Card**  
 All credit card and personal info collected by BatteryStuff.com is used only to aid in processing orders and customer service. BatteryStuff.com does not compile Credit Card information on our computers and any hard copies of sales documents and credit data is confetti shredded on a regular basis. BatteryStuff.com began doing business on the Internet in 1997 and we have never had a breach of our customer’s personal security.
@@ -19,4 +21,21 @@ BatteryStuff.com does not buy, sell, beg, borrow, or steal email information. Up
 **Government, Corporate, and Bulk Orders**  
 We gladly accept Government, Corporate and Bulk/Blanket Orders. We accept major Credit Cards and can open a Terms Account with credit approval. Please email [robin@batterystuff.com](mailto:robin@batterystuff.com) or call during business hours.
 
+**Correcting Mistkaes**
+
 Errors, Omissions, etc.: Typographical, photographic, pricing, and editing errors on the website are unintentional and we reserve the right to correct them.
+
+We reserve the right to fix any errors we discover. We will correct any processing errors by debiting or crediting the payment method used for the purchase, for the refund or reimbursement.
+
+**Relationship between our Return/Warranty policies and credit card/debit card chargebacks**
+
+Our warranty and return procedures are the main avenues for settling issues with defective merchandise and/or unwanted merchandise. However, customers still have the option to file a chargeback if they paid using a credit card. Once a customer selects a system (our returns system, our warranty procedures, or chargeback) they are required to use that system for the duration of the claim, unless the claim is reversed.
+
+Here are the basic principles behind how Batterystuff.com manages the resolution process returns, warranties and chargebacks:
+
+  * BatteryStuff.com returns department and warranties department are the primary processes for settling issues with transactions
+  * Chargebacks override all other claims
+
+
+
+Written on March 30, 2012 a 2:03 pm 
