@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.ie privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208083308id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.ie privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603121617id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
