@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the japanican.com privacy policy that was archived on 2011-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008014404id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japanican.com privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603034232id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -71,13 +71,8 @@ JAL: False
 <li class="lngKorea"><a href="/Korean/index.aspx" target="_blank"><span></span><img src="/common/images/header/btn_lng_korea.gif" alt="korean" width="30" height="12"></a></li>
 <li class="lngChinaTrad"><a href="/Traditional-Chinese/index.aspx" target="_blank"><span></span><img src="/common/images/header/btn_lng_china_trad.gif" alt="Traditonal-Chinese" width="42" height="12"></a></li>
 <li class="lngChinaSimple"><a href="/Simplified-Chinese/index.aspx" target="_blank"><span></span><img src="/common/images/header/btn_lng_china_simple.gif" alt="Simplified-Chinese" width="43" height="12"></a></li>
-<li class="title search"><form action="/search/search.aspx" onsubmit="cutStringAtSearch('Search all of JAPANiCAN');"><input type="text" name="q" value="Search all of JAPANiCAN" class="textBox" onfocus="delStrignAtFocus(this,'Search all of JAPANiCAN');" onblur="checkStrignAtBlur(this,'Search all of JAPANiCAN');"><input type="image" src="/common/images/header/btn_search.gif" name="sa" alt="Go" width="20" height="20" class="button"></form></li>
 </ul>
-<script type="text/javascript">
-// <![CDATA[
-checkStringAtReturn('Search all of JAPANiCAN');
-// ]]>
-</script>
+
 <div class="middle clearFix">
 <div class="links">
 
@@ -461,23 +456,25 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
 
 <table class="sbox" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><span>Departure</span><br>
+    <td><span>Starts in:</span><br>
                             <select name="deptcd" id="tour_deptcd" class="form200">
                                 <option value="Anywhere">Anywhere</option>
+								<optgroup label="Popular Starting Points">
+								<option value="TYO">Tokyo</option>
+								<option value="KYO">Kyoto</option>
+								<option value="OSA">Osaka</option>
+								<option value="NGO">Nagoya</option>
+								</optgroup><optgroup label="Other Starting Points">
 								<option value="FUK">Fukuoka</option>
-                                <option value="HIJ">Hiroshima</option>
-                                <option value="HKD">Hokkaido</option>
-                                <option value="KYO">Kyoto</option>
-                                <option value="NGO">Nagoya</option>
-                                <option value="OKN">Okinawa</option>
-                                <option value="OSA">Osaka</option>
-                                <option value="TKY">Takayama</option>
-                                <option value="TYO">Tokyo</option>
-                            </select></td>
+								<option value="HIJ">Hiroshima</option>
+								<option value="HKD">Hokkaido</option>
+								<option value="OKN">Okinawa</option>
+								<option value="TKY">Takayama</option>
+                            </optgroup></select></td>
     </tr>
 <tr>
 <td>
-<span>Destination</span><br>
+<span>Visits:</span><br>
                             <select name="destcd" id="tour_destcd" class="form200">
                                 <option value="">Anywhere</option>
 								<optgroup label="Most Popular Areas">
@@ -508,8 +505,8 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
 									<option value="50">Kagoshima</option>
 									<option value="16">Kanagawa</option>
 									<option value="53">Kobe/Himeji</option>
+									<option value="35">Koyasan (Mt. Koya)</option>
 									<option value="49">Kumamoto</option>
-									<option value="35">Mt. Koya</option>
 									<option value="21">Nagano</option>
 									<option value="51">Nagasaki</option>
 									<option value="24">Narita</option>
@@ -531,7 +528,7 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
   <td>
 <table cellspacing="0" cellpadding="0" class="intable">
 <tbody><tr>
-<td colspan="2"><span>Leaving between</span></td>
+<td colspan="2"><span>With departures between:</span></td>
 </tr><tr>
 <td><input name="searchfrom" type="text" value="mm/dd/yyyy" id="tour_searchfrom" class="form75">
 <a href="#" onclick="calTourFrom.select($('tour_searchfrom'),'tour_searchfrom_anchor','MM/dd/yyyy'); return false;" id="tour_searchfrom_anchor"><img src="/images/common/searchbox_13.gif" alt="calender" width="15" height="15" border="0"></a>
@@ -564,7 +561,7 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
 	                                        <option value="14">14</option>
                                         </select></td>
 <td><span>Children</span><br>
-<span class="noarrow">(8-11)</span><br>
+<span class="noarrow">(6-11)</span><br>
 <select name="cpn" id="tour_cpn" class="form60">
 	                                        <option selected="selected" value="0">0</option>
 	                                        <option value="1">1</option>
@@ -600,16 +597,17 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
 </tbody></table></td>
   </tr>
 <tr>
-  <td><span>Tour type</span><br>
-<input id="tour_cdt" type="checkbox" name="cdt" value="1" checked=""><label for="cdt" id="day_trip_label"> Daytrip</label><br>
-<input id="tour_cpk" type="checkbox" name="cpk" value="2" checked=""><label for="cpk" id="package_label"> Package (2 Days+)</label><br>
-<input id="tour_ctp" type="checkbox" name="ctp" value="3" checked=""><label for="ctp" id="transport_hotel_label"> Transport &amp; accommodation only</label></td>
+  <td><span>Tour Type</span><br>
+<input id="tour_cdt" type="checkbox" name="cdt" value="1"><label for="cdt" id="day_trip_label"> Day Tours</label><br>
+<input id="tour_cpk" type="checkbox" name="cpk" value="2"><label for="cpk" id="package_label"> Multi-day Tours</label><br>
+<input id="tour_ctp" type="checkbox" name="ctp" value="3"><label for="ctp" id="transport_hotel_label"> Bargain Travel Packages</label></td>
   </tr>
 
+<!--
 <tr>
 <td>
-<input id="tour_keywords" name="kw" type="text" value="" class="form200 searchbykw" onfocus="this.style.backgroundImage = 'none';"></td>
-</tr>
+<input id="tour_keywords" name="kw" type="text" value="" class="form200 searchbykw" onfocus="this.style.backgroundImage = 'none';" /></td>
+</tr> -->
 <tr>
 <td class="centertd"><input type="image" src="/common/images/btn_hory.gif" name="image" alt="SEARCH"></td>
 </tr>
@@ -876,8 +874,6 @@ if(tnLi[0].firstChild){
 		
 		<li><a href="http://japan-articles.japanican.com/en/articles/best_selling_tours.html"><img src="/common/images/util/bestsale_sunrise.jpg" alt="Best Selling Sunrise Tours!" width="160" height="80"><br>Best Selling Sunrise Tours!</a></li>
 		
-		<li><a href="/ryokan/onsen/"><img src="/common/images/util/bn_theme_onsen.jpg" alt="Japan Onsen Guide - Japanese hot springs / spas"><br>Japan Onsen Ryokan Guide<br>Japanese hot springs / spas</a></li>
-				
 		<li><a href="/special/shinkansen/"><img src="/common/images/util/bn_shinkansen_side.jpg" width="160" height="80" alt="Bullet train + hotel bargain travel package"><br>Bullet train + hotel bargain travel package</a></li>
 	</ul>
 	
@@ -1388,18 +1384,11 @@ Please contact the branch at which you purchased your trip.<br clear="all">
 
 
 
-<!-- notice -->
-<div class="notice" style="margin-top:40px; ">
-<p>
-<a href="http://japan-articles.japanican.com/en/articles/20110314_earthquake.html" target="_blank">Information regarding the effects of the earthquake/tsunami on hotel and tour bookings</a>
-</p>
-</div>
-<br clear="all">
-<!-- /notice -->
 
 
 
-<div class="topTxtLinks" style="margin-top:6px; ">
+
+<div class="topTxtLinks" style="margin-top:40px; ">
 
 <!-- copy -->
 <div>
