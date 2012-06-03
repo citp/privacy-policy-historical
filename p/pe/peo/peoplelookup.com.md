@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peoplelookup.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226002246id_/http%3A//www.peoplelookup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplelookup.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603031323id_/http%3A//www.peoplelookup.com/privacy.php) for the most accurate reproduction.*
 
-# PeopleLookup People Search - Public Records, Background Checks & More
+# PeopleLookup People Search - Public Records, Background Checks & More.
 
 People Lookup Privacy Policy
 
@@ -14,7 +14,7 @@ In general, you can visit us on the Internet without telling us who you are and 
 
 **How to Remove your Information from the People Lookup Public Records Databases**
 
-[](https://www.truerep.com/partner-offer-1.html?refer=8095)
+[](https://www.truerep.com/?refer=8095)
 
 Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider.
 
@@ -22,7 +22,7 @@ In addition to public records, personal information may be publicly or commercia
 
 As a courtesy we allow you to opt out your personal information from our Website. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it will again appear on our Website. For example, if your address or area code changes, your new information -- including other associated identifying information -- will again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212-2nd Avenue Northeast"), we may include the differing record. In addition to this Website, there are many other companies offering public records search services, and your request that we opt out your information from this Website will not prevent your information from appearing on these other services.
 
-In order for PeopleLookup to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are faxing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request. Please fax to 425-974-6194 and allow 4 to 6 weeks to process your request.
+In order for PeopleLookup to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are faxing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request. Please fax to 425-974-6194 and allow 7 to 14 days to process your request.
 
 **How we Use and Share Personal Information**
 
@@ -71,7 +71,5 @@ We follow generally accepted industry standards to protect the personal informat
 We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Chief Privacy Officer at privacy@ peoplelookup or by writing us at Privacy c/o PeopleLookup 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns.
 
 **Changes to this Policy**
-
-If we decide to change this Policy, we will post the changes to this Policy, the home page link, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page.
