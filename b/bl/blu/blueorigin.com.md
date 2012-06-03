@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the blueorigin.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/PPage.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueorigin.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603023026id_/http%3A//www.blueorigin.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Blue Origin - Privacy Policy
+# Blue Origin - Terms of use
 
-## Privacy Policy
+How personal information about you is collected, used and disclosed by Blue Origin
 
-Effective Date: February 25, 2011
-
-This Privacy Policy explains how personal information about you is collected, used and disclosed by Blue Origin.
+Effective Date: 24 August 2011
 
 ## Personal Information Collected
 
@@ -20,9 +18,9 @@ We may receive certain types of information automatically whenever you email, en
 
 Blue Origin may use the personal information it collects about you for a variety of purposes, for example, to: 
 
-  * Send you communications about Blue Origin;
-  * Respond to your comments and questions; and
-  * Change or improve Blue Origin's vehicles, services, websites, and overall development programs and operations.
+  * Send you communications about Blue Origin; 
+  * Respond to your comments and questions; and 
+  * Change or improve Blue Origin's vehicles, services, websites, and overall development programs and operations. 
 
 
 
@@ -30,8 +28,8 @@ Blue Origin may use the personal information it collects about you for a variety
 
 Blue Origin may share personal information about you outside of Blue Origin, including as follows: 
 
-  * Blue Origin may share personal information about you with its affiliates or third parties who complete transactions or perform services on its behalf.
-  * Personal information may be shared as part of a business transaction, such as for a vendor supplying goods and equipment to Blue Origin, or assisting Blue Origin with providing services, or seeking to provide goods and services to you. It may also be shared in the event of insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets in the transaction.
+  * Blue Origin may share personal information about you with its affiliates or third parties who complete transactions or perform services on its behalf. 
+  * Personal information may be shared as part of a business transaction, such as for a vendor supplying goods and equipment to Blue Origin, or assisting Blue Origin with providing services, or seeking to provide goods and services to you. It may also be shared in the event of insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets in the transaction. 
   * Blue Origin may share personal information when it believes it is appropriate (i) to comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Blue Origin, its affiliates, agents, and others, including to enforce Blue Origin's agreements, policies, and Terms of Use, or (iii) in an emergency to protect the personal safety of Blue Origin, its affiliates, or any other person. 
 
 
@@ -50,8 +48,4 @@ Blue Origin may change this Policy from time to time. If we make any changes to 
 
 ## Contact Us
 
-If you have any questions, comments or concerns about this Policy or about Blue Origin's privacy practices, please send an email message to privacy[at]blueorigin.com.
-
-[Home](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/index.html) | [Updates](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/letter.htm) | [Internships](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/internships.htm) | [Media](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/media.htm) | [Research](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/nsresearch.html) | [Terms of Use](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/TCPage.htm) | [Privacy Policy](https://web.archive.org/web/20111007222248id_/http%3A//www.blueorigin.com/PPage.htm)  
----|---|---|---|---|---|---  
-© 2011 Blue Origin LLC ~ All rights reserved.
+If you have any questions, comments or concerns about this Policy or about Blue Origin's privacy practices, please send an email message to _Privacy@BlueOrigin.com_.
