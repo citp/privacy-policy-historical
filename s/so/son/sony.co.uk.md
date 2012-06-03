@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118125911id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603122213id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -53,27 +53,27 @@ Back to top
 
 #### Making a purchase via a Sony website
 
-When you make a purchase via this website, you are purchasing your products and/or services from one of a number of Sony Centres or from Sony (through Sony Style). Sony has facilitated this on its website by providing a means for you to select a Sony Centre convenient to you and to buy products and/or services from that Sony Centre online. On occasion you may buy products and/or services from Sony Style.
+When you make a purchase via this website, you are purchasing your products and/or services from one of a number of Sony Centres or from Sony (through Sony Store online). Sony has facilitated this on its website by providing a means for you to select a Sony Centre convenient to you and to buy products and/or services from that Sony Centre online. On occasion you may buy products and/or services from Sony Store online.
 
 When you buy online, you will be asked to select a Sony Centre to purchase from. The Personal Data you provide in placing an order (such as your name, address and other details) is collected on behalf of that Sony Centre, which will be the “data controller” of your Personal Data for the purposes of the Data Protection Act 1998. The Sony Centre will also record information about your purchases.
 
-If you purchase products and/or services from Sony Style then Sony will be the data controller of your Personal Data and we will record information about your purchases.
+If you purchase products and/or services from Sony Store online then Sony will be the data controller of your Personal Data and we will record information about your purchases.
 
-You will be provided with the name and contact details of whichever Sony Centre you choose prior to your purchase or if you are dealing with Sony Style this will be made clear to you.
+You will be provided with the name and contact details of whichever Sony Centre you choose prior to your purchase or if you are dealing with Sony Store online this will be made clear to you.
 
 #### Making a purchase over the telephone
 
-When you make a purchase over the telephone, you are purchasing your products and services from one of a number of Sony Centres or from Sony (through Sony Style).. Sony has facilitated this at its call centre by providing you with a means to select a Sony Centre convenient to you and to buy products and services from that Sony Centre over the telephone. On occasion you may buy products and/or services from Sony Style.
+When you make a purchase over the telephone, you are purchasing your products and services from one of a number of Sony Centres or from Sony (through Sony Store online). Sony has facilitated this at its call centre by providing you with a means to select a Sony Centre convenient to you and to buy products and services from that Sony Centre over the telephone. On occasion you may buy products and/or services from Sony Store online.
 
 When you buy over the telephone, you will be asked to select a Sony Centre from a list based on which Sony Centres operate in your area or where you would like to have your purchase delivered to. The Personal Data you provide (such as your name, address and other details) is collected on behalf of that Sony Centre, which will be the “data controller” of your Personal Data for the purposes of the Data Protection Act 1998. That Sony Centre will also record information about your purchases.
 
-If you purchase products and/or services from Sony Style then Sony will be the data controller of your Personal Data and we will record information about your purchases.
+If you purchase products and/or services from Sony Store online then Sony will be the data controller of your Personal Data and we will record information about your purchases.
 
-You will be provided with the name and contact details of whichever Sony Centre you choose prior to your purchase or if you are dealing with Sony Style this will be made clear to you.
+You will be provided with the name and contact details of whichever Sony Centre you choose prior to your purchase or if you are dealing with Sony Store online this will be made clear to you.
 
 #### How your Personal Data is used
 
-Whether you make an order online or over the telephone, the Sony Centre you choose to purchase from or Sony, if you have purchased from Sony Style, will use your Personal Data to complete the sale and provide product and after sales support to you. Your Personal Data is shared with Sony and the Sony Centres and may be combined with other information they hold about you as a customer, such as details of other purchases you have made from Sony or a Sony Centre. This information is used to provide you with better service and a more personalised experience, whether you shop at any of the Sony Centres or at Sony Style. Sony and the Sony Centres may also analyse purchase information to learn more about their customers’ shopping preferences in general. If you would prefer that your Personal Data is not shared with Sony and the Sony Centres, or have any other queries regarding the handling of your Personal Data, please send an email to privacy@eu.sony.com.
+Whether you make an order online or over the telephone, the Sony Centre you choose to purchase from or Sony, if you have purchased from Sony Store online, will use your Personal Data to complete the sale and provide product and after sales support to you. Your Personal Data is shared with Sony and the Sony Centres and may be combined with other information they hold about you as a customer, such as details of other purchases you have made from Sony or a Sony Centre. This information is used to provide you with better service and a more personalised experience, whether you shop at any of the Sony Centres or at Sony Store online. Sony and the Sony Centres may also analyse purchase information to learn more about their customers’ shopping preferences in general. If you would prefer that your Personal Data is not shared with Sony and the Sony Centres, or have any other queries regarding the handling of your Personal Data, please send an email to privacy@eu.sony.com.
 
 If you agree, Sony and Sony Centres may also use your Personal Data to send you updates and details of offers relating to products or services by post, email, telephone or text message(SMS). If you would like to stop receiving these offers and updates please send an email to privacy@eu.sony.com. Alternatively, if you have registered with Sony online and have a "MySony" profile then you may log-in and amend your marketing preferences.
 
@@ -197,9 +197,9 @@ Jays Close
 Viables  
 Basingstoke RG22 4SB  
 Telephone: +44 (0)845 6000 124  
-Last Updated: 2011
+Last Updated: 2012
 
 Back to top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2011 Sony Europe Limited All Rights Reserved.
+© 2012 Sony Europe Limited All Rights Reserved.
