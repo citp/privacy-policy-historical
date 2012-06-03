@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208032020id_/http%3A//www.revenueads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603200701id_/http%3A//www.revenueads.com/privacy.php) for the most accurate reproduction.*
 
 # RevenueAds Privacy Policy | RevenueAds
 
