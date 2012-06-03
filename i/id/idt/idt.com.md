@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192409id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603182734id_/http%3A//www.idt.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Integrated Device Technology
-
- 
+# Privacy Policy | IDT
 
 **Privacy Policy**  
-Your privacy is very important to us. Integrated Device Technology ("IDT") adheres to the following privacy policy regarding its collection, use and dissemination of personal and non-personal information collected through its website (idt.com). IDT reserves the right to modify its privacy policy at any time. 
+Your privacy is very important to us. Integrated Device Technology (“IDT”) adheres to the following privacy policy regarding its collection, use and dissemination of personal and non-personal information collected through its website (idt.com). 
 
 **Collection of Non-Personal Information**  
-Whenever you visit a web page on the internet, your browser automatically identifies the IP address from where your page request was initiated. It also volunteers certain basic information like browser type, the operating system you are running, and in some cases the page from which you referred to the Site. IDT's server automatically collects this information and tracks it on a page by page and on a statistical basis. 
+Whenever you visit a web page on the internet, your browser automatically identifies the IP address from where your page request was initiated. It also volunteers certain basic information like browser type, the operating system you are running, and in some cases the page from which you referred to the Site.  IDT’s server automatically collects this information and tracks it on a page by page and on a statistical basis.  Our server also collects: date and time of visit; web page viewed; country, region, city, and company from where a page request was initiated; whether our site was accessed from a bookmark or link; search keywords used; and the referring URL.
 
 **Use of Non-Personal Information**  
-IDT uses non-personal information such as the region or country of the world from which your IP request emerged to suggest the appropriate language presentation or to select the best promotion aligned to that region of the world. We also use browser type, operating system, and page visits for statistical analysis of site usage and navigation trends. 
+IDT uses non-personal information such as the region or country of the world from which your IP request emerged to suggest the appropriate language presentation or to select the best promotion aligned to that region of the world. We also use browser type, operating system, and page visits for statistical analysis of site usage and navigation trends.
 
 **Collection of Personal Information**  
-When you create your personal preferences at IDT, we will ask for your name, title, company name, e-mail address, mail address and IDT product preferences. IDT also uses "Cookies" to collect personal information about our visitors. 
+When you create your personal preferences at IDT, we will ask for your name, title, company name, e-mail address, mail address and IDT product preferences. IDT also uses “Cookies” to collect personal information about our visitors.
 
 **Use and Disclosure of Personal Information**  
-We maintain personal information for statistical purposes to improve our web site for users' needs, to offer services, to administer the site, to correspond with users and for other purposes related to the reason you visited our site. IDT will not give or sell this information to third parties other than to assist in providing information or services to you or to manage and improve the site and database. For example, IDT may provide your name and delivery address to third parties that IDT uses for delivering products to you. IDT will also respond to legal requests for information where required by law. 
+We maintain personal information for statistical purposes to improve our web site for users’ needs, to offer services, to administer the site, to correspond with users and for other purposes related to the reason you visited our site. IDT will not give or sell this information to third parties other than to assist in providing information or services to you or to manage and improve the site and database. For example, IDT may provide your name and delivery address to third parties that IDT uses for delivering products to you. IDT will also respond to legal requests for information where required by law.
 
-**Access to Personal Information Stored On IDT Servers**  
-You can modify or delete your contact information within the “myProfile” page at any time through the “myIDT” page available as a link in the headers of the web site. 
+****Cookies****  
+Our site utilizes cookie technology to authenticate your access to some areas of our website and to prevent you from having to enter redundant and duplicate data.  Cookies also allow us to analyze user trends of our website visitors to better understand your needs.  Cookies are small text files that our website places on your hard drive for identification purposes.  A cookie can contain information such as the URL you came from, your computer’s IP address (i.e., the Internet address of your computer) and domain type (e.g., “.com”, “.org”, etc.), your browser type, the country, state, and telephone area code where your server is located, the pages of our site that were viewed during a visit, and any search terms that you entered on our site.  Cookies are a common web site practice. They cannot access, read or modify any data on your computer or provide us with your personal data. If you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies, although it is possible that some areas of our web site will not function properly if you do so.
 
 **Correspondence and Notifications**  
-When you create your “myIDT” profile on the site, you can complete a personal interest profile. Where possible, IDT uses this interest profile as well as your activity on the site as collected via Cookies to modify the information delivered to your browser to be more aligned to your interest preferences. IDT also will use your interest profile and your activity on the site to communicate with you via e-mail or to make offers to you during your visits. If you wish to stop receiving emails from IDT, we will terminate the activity upon receipt of your request as per the CAN-SPAM act. All of our email correspondence will provide the ability for users to unsubscribe. 
+When you create your “myIDT” profile on the site, you can complete a personal interest profile. Where possible, IDT uses this interest profile as well as your activity on the site as collected via Cookies to modify the information delivered to your browser to be more aligned to your interest preferences. IDT also will use your interest profile and your activity on the site to communicate with you via e-mail or to make offers to you during your visits. If you wish to stop receiving emails from IDT, we will terminate the activity upon receipt of your request as per the CAN-SPAM act. All of our email correspondence will provide the ability for users to unsubscribe.
 
 **External Links**  
-The Site contains links to third party sites. IDT does not endorse, sponsor or control those websites. Therefore, we encourage you to review the privacy policies of any third party sites. 
+The Site contains links to third party sites. IDT does not endorse, sponsor or control those websites. Therefore, we encourage you to review the privacy policies of any third party sites.
 
 **Security**  
-When you transact business with IDT our goal is to ensure that your information will be transmitted across the web using certain security measures.We use Secure Sockets Layer (SSL) technology, which encrypts sensitive information such as your name, address, phone number, credit card, etc. The web site also uses the VeriSign digitalidentification service, which allows your browser to properly confirm the server you are transacting with is IDT's server. During the transaction, the server is properly identified with your browser and the information is encrypted before your personal information is transmitted. 
+When you transact business with IDT, our goal is to ensure that your information will be transmitted across the web using certain security measures.  We use Secure Sockets Layer (SSL) technology, which encrypts sensitive information such as your name, address, phone number, credit card, etc. The web site also uses digital certificates which allow your browser to confirm that the server you are transacting with is IDT’s server.  During the transaction, the server is identified to your browser and the information is encrypted before your personal information is transmitted.
 
-Access to your personal information is limited to IDT employees and its services providers as described above. All personal information is protected through password access, which is only made available to identified corporate users. 
+Access to your personal information is limited to IDT employees and its services providers as described above. All personal information is protected through password access, which is only made available to identified corporate users.
 
-**Please note:** Some corporate firewalls do not support secure SSL transmissions. If you experience problems when trying to connect using SSL, please contact your Internet administrator and confirm if your corporate firewall supports SSL. 
+We actively monitor and enhance our security on an ongoing basis, implementing website security technologies such as secure servers, firewalls, and encryption of financial data, to protect the safety of your personal data.
+
+**Changes to Privacy Policy**  
+We reserve the right to change this policy, however, we will not materially change our policies and practices to make them less protective of customer information without notifying affected customers by email.  Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.  We encourage you to periodically review this Privacy Policy to be informed of how IDT is protecting your information.
 
 **Comments**  
-Any questions or concerns regarding this policy should be submitted using the [Ask IDT form](https://web.archive.org/askidt.cfm), or sent by first class mail, postage prepaid, to Integrated Device Technology, Inc, 6024 Silver Creek Valley Road, San Jose, CA 95138, Attention: Webmaster.
+If you have questions or comments about this Privacy Policy please email [webmaster@idt.com](mailto:webmaster@idt.com).  You privacy is important to us and we will make every effort to address your concerns.
