@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesociety.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193902id_/http%3A//www.onlinesociety.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesociety.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603034613id_/http%3A//www.onlinesociety.org/privacy.php) for the most accurate reproduction.*
 
 # - Privacy Policy
 
@@ -29,3 +29,13 @@ OnlineSociety.org contains links to other websites including submitted sites and
 Policy Changes
 
 Any changes to the privacy policy will be posted within this document as well as on the homepage and any other pertinent location. It is important to us that our users be aware of any and all policies regarding the policies for collection and use of their information. Information will be used in the manner under which it was originally collected.
+
+Refund Policy
+
+100% refund of payment made to listing a website in OnlineSociety.org will be made under the following circumstances -
+
+  * The website submitted for review is not accepted and/or approved by the editors of OnlineSociety.org.
+  * The website is approved but not listed to the satisfaction of the website owner. We do our best to resolve any issues related to your website submission at OnlineSociety.org. However, if the site owner is not satisfied for any reason and wants to cancel the listing, should request for a refund within 30 days of listing the website. A cancellation of the listing after 30 days from the day of listng will not obligate OnlineSociety.org to refund any of the fees.
+  * Refund will not be made under any circumstances not mentioned above.
+
+
