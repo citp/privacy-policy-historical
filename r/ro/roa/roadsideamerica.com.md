@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023221405id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603115532id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Roadside America
 
@@ -18,7 +18,7 @@ RoadsideAmerica.com collects personal information when you register when you ent
 
 RoadsideAmerica.com may collect anonymous data from you in the process of delivering a service you are using. For example, for you to email a My Sights trip to a friend, RoadsideAmerica.com stores the trip name and attraction ID numbers -- but no email addresses or other personal information.
 
-RoadsideAmerica.com automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request. We may use information for the following general purposes: to customize the advertising and content, improve our services, conduct research, and provide anonymous reporting for internal and external clients.
+RoadsideAmerica.com automatically receives and records information on our server logs from your browser. We may use information for the following general purposes: to customize the advertising and content, improve our services, conduct research, and provide anonymous reporting for internal and external clients. We and service providers acting on our behalf, such as Google Analytics, use Log Files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, device type, device identifiers, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, date and time of activity on our websites or applications, and other similar information. In some cases, we will associate this information with a user ID number for our internal use. End users can choose to [opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout?hl=en)[](http://tools.google.com/dlpage/gaoptout?hl=en). 
 
 ## Information Sharing and Disclosure
 
@@ -60,7 +60,7 @@ If you have questions or suggestions, please contact us at:
 
 RoadsideAmerica.com  
 Customer Care Issues  
-PO Box 324  
-Novato, CA 94948
+P.O. Box 324  
+Novato, CA 94948-0324
 
-Effective Date: April 7, 2009
+Effective Date: October 26, 2011
