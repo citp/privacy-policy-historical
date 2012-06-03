@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227062626id_/http%3A//www.photoshopessentials.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopessentials.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603030033id_/http%3A//www.photoshopessentials.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Photoshop Tutorials - Photoshop Essentials.com
+# Privacy Policy - Photoshop Essentials.com
 
 ### Privacy Policy for Photoshop Essentials.com
 
