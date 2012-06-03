@@ -1,72 +1,79 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724095325id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603092424id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
 
 # Assurant Health Privacy Policy
 
-[Individual Rights and Forms](http://www.hipaa.assuranthealth.com/) 
+[HIPAA Privacy Notice](http://www.assuranthealth.com/corp/ah/HIPAA/HIPAAPrivacyNotice.htm)  [
 
-**Assurant Health Companies:**  
+Individual Rights and Forms
 
+](http://www.assuranthealth.com/corp/ah/aboutassuranthealth/hipaa)
 
-Time Insurance Company  
-John Alden Life Insurance Company  
-Union Security Company  
+[HITECH Business Associate Information](http://www.assuranthealth.com/corp/ah/AboutAssurantHealth/HITECH-FAQ)
 
+ **  
+Online Privacy Policy** If You are an individual consumer located in California or other applicable state (if any), this notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
-Form 28280 (Created April 13, 2003 / Rev. February, 2008)
+Assurant Health and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
-## NOTICE OF PRIVACY PRACTICES
+We use the brand name "Assurant Health" to associate our products and services and to connect us with the brand of our parent company, Assurant, Inc. This Policy is intended to inform our consumers of our practices with regard to consumers' personal information collected through this website. As used in this online Privacy Policy, the term "you and your" are defined to include all website visitors including, but not limited to, customers, brokers, third party administrators, and/or representatives of any of the above.
 
-**This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.**
+**I. Categories of personal information we collect  
+**  
+The term "personal information" includes any individually identifiable information about you that we collect online, such as your name, address, email address, telephone number, or social security number. We collect this information when you voluntarily disclose it to us in connection with a service offered on this website. Our website has security safeguards that are designed to protect any personal information that you decide to give us via this website. You may, however, choose not to provide this information and use an alternative form of communication such as telephone, fax, or regular mail. By using our website your consent to this online Privacy Policy is implied.
 
-Assurant Health is required by law to maintain the privacy of protected health information and to provide the people we insure with this notice of our legal duties and privacy practices. Assurant Health is required to abide by the terms of the Notice. 
+ **II. How we use and disclose personal information  
+**  
+If you choose to provide us with personal information, such as in an email to one of our online email boxes, by filling out a form with your personal information and submitting it to us through our website or by logging onto our website, we use that information to respond to your message and to help us provide you with the information you have requested. We also need information from you when you register for online access to your claims information. We use that information in order to process transactions that you request and to authenticate you as a registered user.
 
-**Who We Are**   
-In business since 1892, Assurant Health provides health insurance coverage for almost one million people nationwide. Assurant Health develops and provides a wide range of individual medical, small group, short term and student health insurance products, as well as non-insurance products. Assurant Health also provides consumer-choice products such as Health Savings Accounts and Health Reimbursement Arrangements. With almost 3,000 employees, Assurant Health is headquartered in Milwaukee, Wis., and has operations offices in Minnesota, Idaho and Florida, as well as sales offices across the country. Assurant Health is the brand name for products underwritten and issued by Time Insurance Company, John Alden Life Insurance Company and Union Security Insurance Company. The Assurant Health Web site is [www.assuranthealth.com](http://www.assuranthealth.com/). Assurant Health is part of Assurant, which offers specialized insurance products and related services in North America and selected other markets.
+We do not sell or rent personal information about visitors to this site or consumers who use the site. We will use and disclose the information you give us only as required or permitted by law. This may include, for example, disclosures to third parties that perform business services on our behalf or in response to a request from a law enforcement agency or subpoena.
 
-**Information We Collect  
-** To serve your health insurance needs, Assurant Health collects information about you. We may collect this information directly from you orally or on applications or other forms. We also collect information from third parties such as your agent or broker, your current or former health care providers and consumer reporting agencies. In addition, this information may include your transactions with Assurant Health, its affiliates and others. It is impossible to describe every type of information that we collect, but here are some examples: your name, age, address, Social Security number, telephone number, occupation and other demographic information about you and your family; whether you are a past or present customer with us, or if you ever applied for an insurance product or service from us, as well as your history of other insurance coverage and applications (if you apply online, information is collected through an Internet “cookie,” an information-collecting device from a web server); your past, present or future physical, mental or behavioral health or condition; your health care history; your history of insurance coverage, premiums, claims and payments through Assurant Health; information from consumer reporting agencies and data collection agencies.
+ **III. How we collect and use personal information**
 
-**How Assurant Health May Use and Disclose Information About You  
-** We use and disclose information about you in serving your health insurance needs. It is impossible to describe every type of information that we use or disclose but we have provided some examples of how we use this information to provide services to you and your dependents. 
+Personally-identifiable information is information that allows us to identify you. We collect, analyze, monitor online activities, and store any personal information that you voluntarily provide by sending us an email to one of our online email boxes, by filling out a form with personal information and submitting through our website or by logging onto our website.
 
-**Treatment:** Your health care provider may ask us to use or disclose protected health information in connection with treatment, including the provision, coordination, or management of health care and related services. 
+ This information helps us assist you with technical issues encountered when using our website, improve our website and make your visits more appealing. You may choose not to provide personal information to us by not sending us an email using our online email boxes, by not filling out a form with personal information and by not logging onto our website. Refer to Section XII for other ways to contact us.
 
-**Payment:** We may use and disclose protected health information for payment purposes, including billing, review of health care services, determining whether a service is “medically necessary” and for utilization review. For instance, a doctor or health facility involved in your care may forward a claim to us with your protected health information. Assurant Health must have this health information to process your claims. 
+ **IV. How we collect and use non-personal information  
+**  
+Non-personal information is generic data that does not allow us to identify or contact a specific individual. We look at such data on an individual and collective basis, to help us detect trends that might help us to improve our website.
 
-**Health Care Operations:** Assurant Health may use and disclose protected health information as part of our health care operations. For example, we may use and disclose information in the underwriting process, renewal process, quality assessment activities or accreditation and certification. 
+We may gather generic data automatically from your web browser, such as: the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the Uniform Resource Locator (URL) click path to, through, and from our website; and the date and time you access our website.
 
-**Plan Sponsors:** If you are enrolled in a group health plan, Assurant Health may provide protected health information to the plan sponsor. For instance, we may share enrollment or disenrollment information with your employer. 
+If we do combine non-personal information with personal information, the combined information will be treated as personal information as long as it remains combined.
 
-**Health-related Benefits and Services:** We may, from time to time, contact you about treatment alternatives or other health related benefits, products or services that may be of interest to you, and for case management or care coordination. 
+ **V. Email communication  
+**  
+To protect your privacy, please do not use email to communicate information to us that you consider confidential. Email is not a secure method of communication and is not encrypted. Accordingly, an email message potentially could be accessed and viewed by others without your knowledge and/or permission, while in transit to us.
 
-**Business Associates:** Assurant Health works with companies and consultants who perform a wide variety of functions on our behalf. For example, we work with financial institutions such as agents, brokers, insurance distributors, reinsurers and excess loss insurers, non-financial institutions such as health care providers, detectors of fraud, auditors, insurance support organizations, claims handlers, underwriters, and others such as information technology specialists and consultants. At times it may be necessary for us to provide your protected health information to one or more of these outside persons or organizations who assist us with our health care operations. In all cases, we require these business associates to provide written assurances to us that they will appropriately safeguard the privacy of your protected health information. 
+ **VI. Cookies**
 
-**Individuals Involved in Your Care or Payment:** We may use or disclose protected health information to you or other family members who are covered under your health insurance policy regarding your care or payment related to your care. If you object to our use or disclosure of your protected health information in communications with other family members covered under your health insurance policy, please contact our customer service department and ask for the [Right to Restrictions form](http://www.assuranthealth.com/NR/rdonlyres/B8858592-0A8D-4769-9B1D-4EFC4E0F9B19/0/Restrictionspdf.pdf), or visit our Web site at [www.assuranthealth.com](http://www.assuranthealth.com/). This request must be made in writing and signed by you or your legally authorized representative. 
+Persistent cookies may be used on this website. These are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use this information to analyze traffic patterns and improve our website. If you prefer not to accept cookies, the help portion of the toolbar on most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, disabling cookies may result in certain parts of the website not operating correctly or prevent you from taking full advantage of some of the features of our website.
 
-**Permitted or Required by Law:** Assurant Health may release information when requested by law enforcement officials or when permitted or required by law. If you are involved in a lawsuit or dispute, Assurant Health may need to disclose protected health information in response to a court or administrative order. 
+ **VII. Process for reviewing or requesting changes to personal information  
+**  
+If you think that any personal information we have collected about you is inaccurate, you may send a written request for review to us at the address provided in Section XII. We will investigate your request and make appropriate changes if warranted.
 
-**More Stringent Laws:** Assurant Health offers health coverage in many states across the nation. In some cases we may be required to follow the state law provisions on use and disclosure of your protected health information, which may be more stringent than those outlined in this notice. 
+ **VIII. Changes to this policy  
+**  
+We may change this Policy from time to time without notice. The most current Policy will be posted on this website. You should therefore review this online Privacy Policy regularly.
 
-**Our Security Safeguards**   
-Assurant Health has established safeguards to ensure the security and confidentiality of information about you. These safeguards include protection against any anticipated threats or hazards to the security or integrity of the information, as well as protection against the unauthorized access to or use of this information. We restrict access to your information to those employees “who need to know that information” to provide products or services to you or on your behalf. Any other use or disclosure of your protected health information may only be made with your written authorization, which may be revoked under certain circumstances at any time. 
+ **IX. Effective date**
 
-**Your Rights Regarding Protected Health Information**   
-You have the following rights regarding protected health information we maintain about you: 
+Effective Date: June 2, 2010
 
-**Right to Access:** You have the right to request to access and/or inspect your protected health information in a designated record set. A designated record set could include information related to enrollment, premium payment, claims adjudication and medical management. [Right to Access form](http://www.assuranthealth.com/NR/rdonlyres/480E6883-FCA4-421D-85F2-0C621BE17145/0/Accesspdf.pdf)
+ **X. Links to other Websites  
+**  
+This website may contain links to other websites that may have online information practices different from ours. We are not responsible for the privacy and security practices of those websites, and we encourage our visitors to learn about the privacy and security practices of those websites.
 
-**Right to Amend:** If you feel that the information we have about you is incorrect, you may ask to have protected health information in a designated record set amended. You have the right to request an amendment as long as the information is kept and created by Assurant Health. _[_Right to Amend form_](http://www.assuranthealth.com/NR/rdonlyres/6599A1F7-35E5-481E-B357-929F3CE4367A/0/Amendpdf.pdf)_
+ **XI. Children**
 
-**Right to an Accounting of Disclosures:** You have the right to receive an accounting of disclosures made by us of your protected health information after April 14, 2003. The accounting will not include disclosures made for purposes of treatment, payment or health care operations, disclosures permitted or required by law, or disclosures to you or to third parties to whom you have authorized disclosure. _[_Right to Request an Accounting of Disclosures form_](http://www.assuranthealth.com/NR/rdonlyres/DFCB86A0-2515-44B4-976A-C3D3FCC9A9F6/0/Accountingpdf.pdf)_
+This website is not intended for children under the age of 18.
 
-**Right to Request Restrictions:** You have the right to request a restriction or limitation on the health information we use or disclose about you for treatment, payment or health care operations. We are not required to agree to a requested restriction. _[_Right to Request Restrictions form_](http://www.assuranthealth.com/NR/rdonlyres/B8858592-0A8D-4769-9B1D-4EFC4E0F9B19/0/Restrictionspdf.pdf)_
+We do not knowingly collect personal information from anyone under the age of 13. For more information about protecting your child's privacy online, visit the Federal Trade Commission.
 
-**Right to Confidential Communications:** If you feel that your life may be in danger if Assurant Health contacts you at the address or phone number maintained in our records, you may request that we contact you in a different way or at a different location. _[_Right to Request Confidential Communications form_](http://www.assuranthealth.com/NR/rdonlyres/59AF0273-41AB-4143-B5CA-7AE0842DF46D/0/Confidentialpdf.pdf)_
+ **XII. Privacy contact information  
+**  
+We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Health Privacy Office, 501 W. Michigan Avenue, Milwaukee WI 53203 or e-mail us your question at [ahprivacyoffice@assurant.com  
+](mailto:ahprivacyoffice@assurant.com?subject=Privacy%20Policy)
 
-**Complaints:** If you believe your privacy rights have been violated, you may file a complaint with Assurant Health or with the Secretary of the Department of Health and Human Services. All complaints must be in writing. You will not be retaliated against for filing a complaint. If you would like to request to access or amend your personal health information, to request restrictions on use or disclosure, to request confidential communications, or to request an accounting of disclosures, please visit our Web site at [www.assuranthealth.com](http://www.assuranthealth.com/) or [Click here for _additional information on your rights_](http://www.hipaa.assuranthealth.com/). Each form must be signed by you or your legally authorized representative. Each of the forms provides additional information relating to your rights, including the cost that may be involved to process your request. 
-
-**Changes to This Notice**   
-We reserve the right to make changes to this notice and to make the revised or changed notice effective for protected health information we already have about you as well as any information we receive or create in the future. Any changes to this notice will be posted on our Web site, and if we make substantial material changes to the notice, we will distribute the revised notice to you or your plan sponsor via mail. You may view a copy of this notice at any time at our Web site [www.assuranthealth.com](http://www.assuranthealth.com/) or you may receive another copy of the notice by calling our Customer Service Department. For Time Insurance Company and Union Security Insurance Company call 1-800-800-1212. For John Alden Life Insurance Company call 1-800-328-4316. Assurant Health 501 West Michigan Milwaukee, WI 53203 
-
-**Women’s Health and Cancer Rights Act Notice**   
-Effective October 21, 1998, the Federal Women’s Health and Cancer Rights Act requires all health insurance plans that provide coverage for a mastectomy must also provide coverage for the following medical care: reconstruction of the breast on which the mastectomy has been performed; surgery and reconstruction of the other breast to produce a symmetrical appearance; and prostheses and physical complications at all stages of the mastectomy, including lymphedemas, in a manner determined in consultation with the attending physician and the patient. Covered benefits are subject to all provisions described in your plan, including but not limited to: deductible, copayment, rate of payment, exclusions and limitations.
+| 
