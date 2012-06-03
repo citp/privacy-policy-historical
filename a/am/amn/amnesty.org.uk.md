@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202212812id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603020537id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
 
 # AIUK : Privacy Policy
 
@@ -23,8 +23,10 @@ Your online privacy and security is very important to Amnesty International.
 **  
 1\. INTERPRETATION**   
 1.1 In this Privacy Policy:   
-1.1.1 the 'Sites' means the websites located at www.amnesty.org.uk,  www.unsubscribe me.org, www.irrepressible.info and www.protectthehuman.com; and   
-1.1.2 'we', 'us' and 'Amnesty International UK' mean Amnesty International United Kingdom Section, a private company limited by guarantee, incorporated in England and Wales with registration no. 01735872, whose registered office is at Human Rights Action Centre, 17-25 New Inn Yard, London, EC2A 3EA, which owns and operates the Sites. 
+1.1.1 This privacy policy applies only to our Amnesty International UK (AIUK) websites ('the sites') that are under the parent domain of amnesty.org.uk (and includes protectthehuman.com)  
+1.1.2 'we', 'us', 'Amnesty International UK' and AIUK mean Amnesty International United Kingdom Section, a private company limited by guarantee, incorporated in England and Wales with registration no. 01735872, whose registered office is at Human Rights Action Centre, 17-25 New Inn Yard, London, EC2A 3EA, which owns and operates the Sites.   
+1.1.3 This privacy policy explains how AIUK uses the information it collects about you and procedures that AIUK has in place to safeguard your privacy. AIUK is committed to ensuring that your privacy is protected. Under the Data Protection Act 1998 AIUK has a legal duty to protect any personal information it collects from you.  
+1.1.4 AIUK does not capture and store any personal information about an individual who accesses this website, except where he or she voluntarily chooses to give AIUK personal information via email, or by using an electronic form on the website, or by enquiring about any of AIUK's services.
 
 **2\. INTRODUCTION**  
 2.1 The Sites provide various services which include, but are not limited to, providing information on and encouraging participation in Amnesty International UK's various campaigns to stand up for humanity and human rights and protecting individuals wherever justice, fairness, freedom and truth are denied; and providing an online community for like-minded people to take action together.   
@@ -76,7 +78,133 @@ We may from time to time operate an 'Invite a friend' or similar service.  This
 We may provide links to other websites.  Before supplying any personal information to any other website, we recommend that you check that website's Privacy Policy.  We do not accept responsibility for the protection of any data supplied to other sites. 
 
 **13\. COOKIES**  
-We may use cookies to monitor how you are using the Sites, as these will help us make improvements for the future.  You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies, but if you do so parts of the Sites may not work correctly.  Information about your computer such as your IP address, operating system and browser type may also be used to examine usage trends. 
+**13.1 What is a cookie?**  
+A cookie is a small text file, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. There are various types of cookies which perform different functions, such as remembering which items you have placed in your shopping basket or recording your browsing habits. The information recorded by the cookie is retrieved on the user's next visit to the site. 
+
+For more information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+**13.2 AIUK cookies - how to manage cookies**  
+Most web browsers will accept cookies, but if you would rather that we did not collect data in this way you can choose to accept all or some or reject cookies in your browser's privacy settings. Rejecting all cookies means that certain features cannot then be provided to you and accordingly you may not be able to take full advantage of all of the website's features and you may be prevented from completing, for example, a donation online. Each browser is different, so check the 'Help' menu of your browser to learn how to change your cookie preferences.
+
+**How to check cookies are enabled for PCs**
+
+| 
+
+**Google Chrome**  
+
+
+  1. Click on 'Tools' at the top of your browser window and select Options
+  2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
+  3. Now select 'Allow local data to be set'
+
+  
+---|---  
+  
+| 
+
+**Microsoft Internet Explorer**
+
+  1. ****Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab  
+
+  2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser
+  3. Settings above Medium will disable cookies
+
+  
+  
+| 
+
+**Mozilla Firefox**  
+
+
+  1. Click on 'Tools' at the top of your browser window and select Options
+  2. Then select the Privacy icon
+  3. Click on Cookies, then select 'allow sites to set cookies'
+
+  
+  
+| 
+
+**Safari**  
+
+
+  1. Click on the Cog icon at the top of your browser window and select the 'Preferences' option
+  2. Click on 'Security', check the option that says 'Block third-party and advertising cookies'
+  3. Click 'Save'
+
+  
+  
+  
+**How to check cookies are enabled for Macs**  
+
+
+| 
+
+**Google Chrome**  
+
+
+  1. Click on 'Chrome' at the top of your browser window and select 'Preferences' options
+  2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
+  3. Now select 'Allow local data to be set'
+
+  
+---|---  
+  
+| 
+
+**Safari**  
+
+
+  1. Click on 'Safari' at the top of your browser window and select the 'Preferences' option
+  2. Click on 'Security' then 'Accept cookies'
+  3. Select the 'Only from site you navigate to'
+
+  
+  
+| 
+
+**Mozilla Firefox**  
+
+
+  1. Click on 'Firefox' at the top of your browser window and select 'Preferences' options
+  2. Then select the Privacy icon
+  3. Now select 'Accept cookies from sites'
+
+  
+  
+| 
+
+**Microsoft Internet Explorer 5.0 on OSX**  
+
+
+  1. Click on 'Explorer' at the top of your browser window and select 'Preferences' options
+  2. Scroll down until you see 'Cookies' under Receiving Files
+  3. Select the 'Never Ask' option
+
+  
+  
+If your browser isn't shown above, please visit [www.aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=1)  
+
+
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or visit [www.aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
+
+**13.3 How does AIUK use cookies?**  
+On our websites, cookies record information about your online preferences, remember information about you when you visit our site and compile statistical reports on website activity. Some cookies are used that are essential in order to provide our services to you.
+
+During the course of any visit to amnesty.org.uk, your navigation through the site is recorded by a cookie that is downloaded to your device. The information recorded is retrieved on a repeat visit to the site by checking to see, and finding, the cookie left there on the last visit.
+
+Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. Below we have set out the four categories of cookies that AIUK uses on our website. These cookies are:
+
+**• Strictly necessary cookies**  
+These cookies are essential in order to enable you to move around the website and use its features.. Without these cookies, services you have asked for, such as making payments for donations cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet.
+
+**• Performance cookies**  
+These cookies collect information about how our visitors use the website, for instance which pages visitors go to most often, and if they get error messages from any web pages. They also allow us to record and count the number of visitors to the website, all of which enables us to see how visitors use the website in order to improve the way that our website works. These cookies do not collect information that identifies a visitor, as all information these cookies collect is anonymous and is only used to improve how our website works.
+
+**• Functionality cookies**  
+These cookies allow our website to remember choices you make (such as your login details or your choices in relation to our newsletters and subscriptions). Whenever these cookies are used we will notify you before using the cookie, providing more information about the functionality cookie to be used, and how it might improve your user experience. The information these cookies collect is usually anonymised. They do not gather any information about you that could be used for advertising or remember where you have been on the internet. AIUK doesn't currently collect this type of cookies. If we decide to do so in the future we will up date this policy. 
+
+**• Targeting cookies**  
+These cookies collect several pieces of information about your browsing habits. They are placed by our third party service provider [although we may also place a cookie that collects this kind of information]. All of the information that these cookies collect is anonymised, although they contain a unique key that is able to distinguish, for example, individual user browsing habits, or log if an individual user has clicked on a one of our suggested recommendations. These cookies can track your visits around the website, but they do not usually know who you are. They remember that you have visited our website and your browsing habits on our website to improve your experience, so that our recommendations are a better fit for you. This information is only shared between us and our third party service provider. Without these cookies, the user experience on our website will be less relevant to you and your interests.
 
 **14\. SECURITY**  
 14.1 When you submit your Information to us on any of the Sites, we take steps to ensure that your information is treated securely. Unfortunately, it is not possible to guarantee the total security of any data transmitted over the Internet. While we strive to protect your Information, Amnesty International UK cannot ensure or warrant the security of any information you transmit to us, and you therefore do this at your own risk. Once we receive your transmission, we take reasonable steps to ensure its security on our systems, but we take no responsibility for any unauthorised access or loss of personal information that is beyond our control.   
