@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125003706id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603174257id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Audubon Society
 
@@ -41,6 +41,8 @@ Finally, you may decide to send Audubon personally identifying information, for 
 Cookies
 
 What are "Cookies". A cookie is a small text file sent to your computer’s hard drive by a website’s server. Each time you return to the site that "set" the cookie, the server retrieves its cookie from your computer and thereby knows you are a previous visitor who has returned. Cookies may contain information about your ISP, operating system, browser type, screen resolution and number of colors, your computer’s processor type, your ISP’s server, your Internet protocol address, and what server you were last on. Other information can be added to a cookie, but only information that you give to us.
+
+IP Location services provided by [MaxMind](http://www.maxmind.com/app/javascript_city). 
 
 Use of Cookies
 
