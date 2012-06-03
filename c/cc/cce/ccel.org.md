@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103010304id_/http%3A//www.ccel.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603120434id_/http%3A//ccel.org/info/privacy.html) for the most accurate reproduction.*
 
-# CCEL Privacy Policy | Christian Classics Ethereal Library
+# CCEL Privacy Policy - Christian Classics Ethereal Library
 
 Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several CCEL services that require the collection of information from you. These services include making purchases through the CCEL Store and signing up with a user name and password to enable you to download books and access community and annotation features. Other services may set cookies on your computer. These include installing books on your computer, annotating books, and managing your personal preferences. 
 
