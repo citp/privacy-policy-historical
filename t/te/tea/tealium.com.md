@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201232231id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603231621id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Tealium
 
 This privacy policy addresses Tealium’s (hereafter referred to as “the Company”) current practices and policies with regard to data collected through this web site. The term “personal data” refers to personally identifiable information about you, such as your name, mailing address, e-mail address, telephone number, and any other information that identifies you personally.
 
@@ -30,6 +30,10 @@ This technology does not identify you personally. It simply enables us to compil
 
 In order to collect the anonymous data described in the preceding paragraph, the Company uses “cookies”. Cookies are small pieces of data or data files, which are sent by a web site to your browser and stored on your computer. They are used to understand general traffic patterns on our web site. The information stored in the cookies is only used for statistical tracking purposes and not for individual identification. Cookies do not damage your computer. In order for certain applications on the Company’s web sites to function properly, if at all it is necessary for your computer to accept cookies. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
 
+## Opt-Out
+
+You can opt out of third-party tracking solutions by clicking the opt-out link. To opt back in to third-party solution, click the opt-in link.
+
 ## Children
 
 The Company does not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data to the Company, please contact us, and we will endeavor to delete that information from our databases.
@@ -46,4 +50,4 @@ This privacy policy forms part of our web site Terms of Use and as such shall be
 
 If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
 
-This policy was last updated on October 22, 2010.
+This policy was last updated on November 22, 2011.
