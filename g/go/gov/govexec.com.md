@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132228id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603125634id_/http%3A//www.govexec.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -- GovExec.com
+# Privacy Policy - GovExec.com
 
 Last Updated: February 27, 2011
 
@@ -30,7 +30,7 @@ From time to time we allow reputable companies, whose products or services we fe
 
 We may provide statistical usage data in the aggregate--not information about you personally--to our partners about how visitors use the Sites. From time to time we conduct research on our users' demographics, interests and behavior based on the information you provide to us upon registration, on order forms, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and we may share this aggregated data with advertisers or other businesses.
 
-In some cases, we may disclose information about you to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process, to protect and defend our rights or to prevent misuse of our Sites, or to protect the personal safety or property of our users or the public. 
+In some cases, we may disclose information about you to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process, to protect and defend our rights or to prevent misuse of our Sites, or to protect the personal safety or property of our users or the public.
 
 In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, Government Executive reserves the right to transfer your personally identifiable information to the new party in control or the party acquiring assets.
 
@@ -70,11 +70,10 @@ As indicated above, if you do not want your personally identifiable information 
 
 **Any Questions?**
 
-For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by emailing us at [webmaster@govexec.com](mailto:webmaster@govexec.com), calling us at 202-739-8501, or writing to us at the address listed below.
+For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by [emailing us](https://web.archive.org/about/contact/), calling us at 202-739-8501, or writing to us at the address listed below.
 
 **Our Postal Address**
 
 Government Executive Media Group  
 600 New Hampshire Avenue, NW  
-Washington, DC 20037  
-
+Washington, DC 20037
