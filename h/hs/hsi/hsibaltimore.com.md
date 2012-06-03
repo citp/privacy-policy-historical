@@ -1,18 +1,27 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114014432id_/http%3A//hsionline.com/privacy-policydisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603195918id_/http%3A//hsionline.com/privacy-policydisclaimer) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer
 
-We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose personal information about you as an individual user, but please note that the Internet as a whole is not a secure forum. Exercise caution whenever disclosing information on any website.
+If you enjoy the HSI e-Alert, please make sure to add this new address to your “friends” list or to “whitelist” it if necessary. By doing this you’ll also ensure smooth delivery of your newsletters. It only takes a few minutes…use the following link for easy step-by-step instructions for your specific email program:
 
-Personal information will not be shared at any time without your permission and we will only collect this information on a voluntary basis. If you volunteer your personal information, we may use it to send you special offers or to contact you with answers to any questions or concerns that you may have. Users may, however, choose to opt-in to a service in order to receive future offers and information from HSI.
+<http://hsionline.com/email-whitelist-instructions/>
 
-If you opt-in you may receive e-mails from us introducing new products and services that we think will be of interest to you. Some may be from companies other than Agora.
+**We have a strict anti-spam policy!** We know how important your privacy is to you so we guarantee that we will NEVER sell your e-mail address. Please note you can remove yourself from our list at any time. We supply a link at the bottom of each e-mail to manage your subscription to the HSI e-Alert e-letter. We also provide you with a mailing address to contact us if you have any problems.
 
-We reserve the right to use, without identifying you, any questions, comments or other information that is submitted. We guarantee that we will keep your personal identification information confidential if your information is used in books, articles, or promotions.
+To manage your subscription by mail or for any other subscription issues, write us at:
 
-By using HSIonline.com you have agreed to accept our privacy policy. We reserve the right to change or modify HSIonline.com and its policies at anytime. By continuing to use the website you have agreed to any changes that have been made.
+Order Processing Center  
+Attn: Customer Service  
+P.O. Box 925  
+Frederick, MD 21705 USA
 
-If you have any questions or concerns about HSIonline.com privacy policy please send an e-mail to: hsiresearch@healthiernews.com  
+Or take a moment to fill out our customer service contact form: <http://www.newmarkethealth.com/hsicontact/hsi_contact_form.htm>
 
+When you place an online order with us, we collect your e-mail address, land address, and sometimes telephone number. This information may be used by NewMarket Health, LLC for service, editorial, and marketing purposes. We will sometimes share your information with third-party vendors who assist us with the preparation and mailing of our editorial and marketing communications, and with order fulfillment facilities. We will also occasionally provide your land address to carefully screened partners or third-party companies for the purpose of contacting you with news about relevant products or publications. We will never rent or sell your telephone or fax number or e-mail address to any third party.
+
+We may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics. The cookie itself does not contain any of your personal information, so it does not jeopardize the privacy of your activities or the security of the transactions you place at our sites; We simply log this information in order to provide a more customized experience when visiting the site.
+
+**Policy against advertising our website using unsolicited email messages**  
+We require that all e-mails promoting hsionline.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination. If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (abuse@hsionline.com). We will immediately investigate all allegations made related to unsolicited messages.
 
 Health Disclaimer! The information provided on this site should not be construed as personal medical advice or instruction. No action should be taken based solely on the contents of this site. Readers should consult appropriate health professionals on any matter relating to their health and well-being. The information and opinions provided here are believed to be accurate and sound, based on the best judgment available to the authors, but readers who fail to consult appropriate health authorities assume the risk of any injuries. The publisher is not responsible for errors or omissions.
