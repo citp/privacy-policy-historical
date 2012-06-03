@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intradayfun.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204084401id_/http%3A//intradayfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intradayfun.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603140251id_/http%3A//intradayfun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Intraday Fun Unlimited - Single Smile Worth Millions
+# Privacy Policy - IntraDayFun
 
 **Privacy Policy for IntraDayFun.com**
 
