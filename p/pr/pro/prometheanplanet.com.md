@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206123152id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124334id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promethean Planet
 
@@ -18,32 +18,36 @@ c) Details of transactions you carry out through Our Site and of the fulfilment 
 
 d) Details of your visits to Our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for Our own billing purposes or otherwise and the resources that you access.
 
-### 2\. IP ADDRESSES AND COOKIES
+### 2\. COLLECTION OF PERSONALLY IDENTIFYING INFORMATION FROM OR ABOUT CHILDREN
 
-2.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to Our advertisers. This is statistical data about Our users' browsing actions and patterns, and does not identify any individual.
+Promethean does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age 13 may provide any personal information to Promethean. In the event that we learn that we have collected personal information from a child under the age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com).
 
-2.2 For the same reason, We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help Us to improve Our Site and to deliver a better and more personalised service. They enable Us:
+### 3\. IP ADDRESSES AND COOKIES
+
+3.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to Our advertisers. This is statistical data about Our users' browsing actions and patterns, and does not identify any individual.
+
+3.2 For the same reason, We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help Us to improve Our Site and to deliver a better and more personalised service. They enable Us:
 
 a) To speed up your use of Our Site.  
 b) To store information about your preferences, and so allow Us to customise Our Site according to your individual interests.  
 c) To estimate Our customer base and usage pattern.  
 d) To recognise you when you return to Our Site.
 
-2.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of Our Site. Unless you have adjusted your browser setting so that it will refuse cookies, Our system will issue cookies when you log on to Our Site.
+3.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of Our Site. Unless you have adjusted your browser setting so that it will refuse cookies, Our system will issue cookies when you log on to Our Site.
 
-2.4 Please note that Our advertisers may also use cookies, over which We have no control.
+3.4 Please note that Our advertisers may also use cookies, over which We have no control.
 
-### 3\. WHERE WE STORE YOUR PERSONAL DATA
+### 4\. WHERE WE STORE YOUR PERSONAL DATA
 
-3.1 The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") . It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+4.1 The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") . It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-3.2 [All information you provide to Us is stored on Our secure servers. Any payment transactions will be encrypted [using SSL technology]. Where We have given you (or where you have chosen) a password which enables you to access certain parts of Our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+4.2 [All information you provide to Us is stored on Our secure servers. Any payment transactions will be encrypted [using SSL technology]. Where We have given you (or where you have chosen) a password which enables you to access certain parts of Our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-3.3 Unfortunately, the transmission of information via the internet is not completely secure. Although We will do Our best to protect your personal data, We cannot guarantee the security of your data transmitted to Our Site; any transmission is at your own risk. Once We have received your information, We will use procedures and security features to try to prevent unauthorised access.
+4.3 Unfortunately, the transmission of information via the internet is not completely secure. Although We will do Our best to protect your personal data, We cannot guarantee the security of your data transmitted to Our Site; any transmission is at your own risk. Once We have received your information, We will use procedures and security features to try to prevent unauthorised access.
 
-### 4\. USES MADE OF THE INFORMATION
+### 5\. USES MADE OF THE INFORMATION
 
-4.1 We use information held about you in the following ways:
+5.1 We use information held about you in the following ways:
 
 a) To ensure that content from Our Site is presented in the most effective manner for you and for your computer.
 
@@ -64,11 +68,11 @@ i) If you do not want Us to use your data in this way, or to pass your details o
 
 j) We do not disclose information about identifiable individuals to our advertisers, but We may provide them with aggregate information about our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from you to enable Us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-### 5\. DISCLOSURE OF YOUR INFORMATION
+### 6\. DISCLOSURE OF YOUR INFORMATION
 
-5.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+6.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-5.2 We may disclose your personal information to third parties:
+6.2 We may disclose your personal information to third parties:
 
 a) In the event that We sell or buy any business or assets, in which case We may disclose your personal data to the prospective seller or buyer of such business or assets.
 
@@ -76,17 +80,21 @@ b) If Promethean Limited or substantially all of its assets are acquired by a th
 
 c) If We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/en-us/support/terms-and-conditions/) or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Promethean Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection
 
-### 6\. YOUR RIGHTS
+### 7. CALIFORNIA USERS
 
-6.1 You have the right to ask Us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes or if We intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data. You can also exercise the right at any time by updating the preferences in your Promethean Planet account.
+In accordance with California Civil Code 1798.83, California residents are entitled to know that they may file grievances and complaints at California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814, or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
 
-6.2 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+### 8\. YOUR RIGHTS
 
-### 7\. CHANGES TO OUR PRIVACY POLICY
+8.1 You have the right to ask Us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes or if We intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data. You can also exercise the right at any time by updating the preferences in your Promethean Planet account.
+
+8.2 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+### 9\. CHANGES TO OUR PRIVACY POLICY
 
 Any changes We may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. You are expected to check this page from time to time to take notice of any changes We make, as they are legally binding on you. Some of the provisions contained in this Privacy Policy may also be superseded by provisions or notices published elsewhere on Our Site.
 
-### 8\. CONTACT
+### 10\. CONTACT
 
 Questions, comments and requests regarding this privacy policy should be addressed to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com)
 
