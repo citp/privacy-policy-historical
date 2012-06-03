@@ -1,79 +1,41 @@
-> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235309id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603040759id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
 
 # Privacy policy | CGI.com
 
-**Objective**  
-The purpose of this policy is to establish the general principles that govern CGI members’ management and protection of personal information, which may be collected, used, and disclosed during the normal course of their professional duties at CGI. 
+CGI Group Inc. (“CGI”) respects the privacy of its Web site visitors and is committed to protecting the privacy rights of identifiable individuals.  In this regard, CGI has prepared this Web Site Privacy Policy (the “Privacy Policy”) to communicate to its users how CGI collects, uses and discloses personal information collected about them on the CGI Web site. This Privacy Policy applies to [www.cgi.com](http://www.cgi.com/) and its authorized sub-sites that expressly adopt, display or link back to this Privacy Policy.
 
- **Scope**  
-While exercising its right to collect, use and disclose personal information for legitimate business purposes, CGI’s protection of personal information extends to all personal information under its custody or control.
+ **Collection and Use of Personal Information**  
+We may collect personal information such as your name, personal home address, personal e-mail address and personal telephone and fax numbers that you voluntarily provide to us when you request information about our services, submit questions, register for services, or when you submit your resume in relation to a career opportunity. The aforementioned personal information provided by you may then be used to communicate with you in connection with your various inquiries or to consider you for employment purposes.
 
- **Definition of Personal Information**  
-For the purpose of the present Privacy Policy, “ **personal information** ” refers to any information, factual or subjective, recorded under any form, about an individual, and which allows this individual to be identified. Personal information includes, the name, birth date, gender, religion, income, home telephone number, personal mobile telephone number, home address, personal e-mail address, personal fax number, social insurance number/social security number, financial or health information and opinions about an individual.
+We may also collect information in connection with your visit to our Web site through the use of cookies.  Such information will be used to analyze trends, to administer the site, to track visitors’ movements around the site and to gather demographic information about our visitor base as a whole.  The use of cookies merely identifies you as a number, that is, your name, address or any other information that directly identifies you will not be collected.  Additional details regarding the use of various technologies are provided below.
 
-However, personal information does not include an individual’s “business contact information”, which comprises an individual’s name, position name or title, business telephone number, business address, business e-mail, business fax number and other similar business information.
+ **Disclosure of Personal Information**  
+We may disclose the personal information collected through this Web site with our affiliates for internal business purposes.
 
- **Governing Principles of Personal Information Protection**
+We may also share information provided by you with service providers that we retain to perform services on our behalf.  These service providers are contractually limited from using or disclosing the information except as is necessary to perform the services or to comply with legal requirements.  Furthermore, we may disclose information about you where we are required or permitted by law to do so.
 
-  *  **Accountability**  
-CGI is responsible for the personal information under its custody or control. Where CGI transfers personal information to a third party, CGI shall contractually require that a comparable level of protection is provided to the personal information transferred.
+ **Links to non-CGI websites**  
+This Web site may contain links to third party Web sites that are not affiliated with CGI.  CGI does not in any way endorse or make any representations about such third party Web sites.  The links are simply made available for your convenience.  As such, CGI is not responsible for the privacy practices or content of such third party Web sites.  If you choose to access those links, we encourage you to review their respective privacy policies before submitting any of your personal information.
 
-CGI has designated a Privacy Officer to oversee all ongoing activities related to the development, implementation, maintenance and adherence to CGI’s policies and procedures covering privacy as well as to ensure compliance with applicable laws, and regulations.
+ **Our Security Measures to Protect Personal Information**  
+To protect the personally identifiable information you transmit through your use of this Web site, we maintain reasonable physical, technical and administrative safeguards to help protect against the unauthorized access, use and disclosure of the information.
 
+ **Access and Correction**  
+Using our [Contact Us](http://www.cgi.com/en/contact-resources) page, you may request information about the existence of the personal information voluntarily provided by you through our Website, and request access to such information in order to have it deleted, updated or corrected, subject to certain legal restrictions.
 
+ **Use of Technology: Cookies & Logs**  
+As previously mentioned, CGI may use cookies to collect information about its visitors.  Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser.  You may choose to disable cookies on your computer by modifying your Web browser.
 
-  *  **Identifying Purposes**  
-Where CGI proceeds with the collection of personal information, CGI shall inform the individual of the identified purpose for which the personal information is being collected at, or before the time of collection.
+CGI may also use logs to collect information about its visitors.  CGI may review server logs for security purposes, for example, to detect intrusions into our network.  Server log data, which contains visitors' IP addresses, could in instances of criminal malfeasance be used to trace and identify individuals.  In such instances, raw data logs would be shared with appropriate investigative bodies authorized to investigate such breaches of security.  Like cookies, logs do not cross reference the information automatically collected with any type of personal information that is voluntarily offered by you on or through this Web site.
 
+ **Young Audiences**  
+This Web site is not intentionally designed for or directed to children and we do not knowingly collect or maintain personal information from children on our Web site.  If we become aware that we have inadvertently received personal information from such a visitor, we will delete the information from our records.
 
-  *  **Consent**  
-Except where permitted or required by law, CGI will only collect, use and disclose personal information with the knowledge and consent of the individual. CGI will use the form of consent, either express or implied, that reflects the nature of the information being collected, taking into account its sensitivity and reasonable expectations of the individual. All personal information will be collected by fair and lawful means.
+ **Consent**  
+By using this Web site and sub-sites, you consent to the collection, use and disclosure of your personal information by us in the manner described in this Privacy Policy.  CGI reserves the right to make changes to this Privacy Policy from time to time without notice.
 
-Consent will also be obtained by CGI when a new use for the personal information is identified.
-
-An individual may withdraw his/her consent at any time with respect to the continuing use or disclosure of his/her personal information, subject to legal or contractual restrictions and reasonable notice. CGI will inform the individual of the implications of such a withdrawal.
-
-
-
-  *  **Limit to Collection, Use, Disclosure, and Retention**  
-CGI will only collect personal information that is necessary to fulfill the purposes identified to the individual.
-
-CGI will only use and disclose personal information for the purpose for which it was collected and, where applicable, with CGI accepted client policies and procedures, all in accordance with the applicable laws and regulations.
-
-CGI will only retain personal information as long as is necessary for the fulfillment of the purpose identified, as well as for legal purposes. Furthermore, personal information retained by CGI shall be disposed of/destroyed in accordance with CGI’s Records Management and Retention Policy and Records Management and Retention Policy Manual guidelines and/or client’s specifications agreed to by CGI as part of its contract with the client, all in accordance with the applicable laws and regulations.
-
-
-
-  *  **Accuracy**  
-Where CGI collects personal information, CGI shall take appropriate measures to ensure that the personal information is accurate, complete, and up to date as is necessary to fulfill the purpose for which the information is to be used. 
-
-
-  * **Individual Access**  
-Subject to the limitation below, and upon written request, an individual will be informed of the existence, use or disclosure of his/her personal information, and of his/her right to access his/her personal information, subject to certain legal restrictions. Any refusal or restriction to an individual’s request of access to his/her personal information will be made in writing, and will provide the reasons for such refusal or restriction within a reasonable time.
-
-Subject to the limitation below, an individual upon written request may also request that a correction be made with respect to his/her personal information in CGI custody or under CGI control. All requests to correct personal information must be accompanied by the appropriate supporting documentation. Where the request for correction is not resolved to the satisfaction of the individual, the substance of the unresolved matter will be recorded by CGI.
-
-Notwithstanding the foregoing, where CGI collects personal information for a third party or when CGI is entrusted with personal information by a third party, CGI’s obligation to maintain the accuracy of the personal information, as well as the obligation to provide access and correction to an individual of his/her personal information will be determined and governed by a formal agreement between CGI and the third party concerned.
-
-
-
-  *  **Safeguards**  
-Personal information shall be protected in accordance with CGI’s Information Security Policy and, where applicable, with CGI accepted client policies and procedures, all in accordance with the applicable laws and regulations.
-
-Personal information is to be protected from unauthorized use, disclosure, access, copying and modification. These safeguards apply to personal information irrespective of the storage medium. Such safeguards may take the form of locked filing cabinets, restricted access to information (physical and on a need-to-know basis, alarm systems or other electronic control devices, technological tools such as passwords, encryption, firewalls, anonymizing software, etc.).
-
-The selection of safeguards will be determined according to the nature of the personal information to be protected and, where applicable, in accordance with CGI accepted client policies and procedures.
-
-
-
-
- **Sanctions**  
-Violations of this policy may result in disciplinary action commensurate with the seriousness of the infringer’s behaviour.
-
- **Compliance**  
-CGI members are expected to comply with all aspects of the present Privacy Policy and to support others in doing so.
-
- All requests, questions, complaints, or violations pertaining to this policy should be directed in writing to:
+ **Privacy Questions and Access**  
+For additional information about our online privacy practices, please contact: ** **
 
 The Privacy Officer  
 CGI Group Inc.  
