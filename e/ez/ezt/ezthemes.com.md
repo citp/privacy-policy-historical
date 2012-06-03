@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128010830id_/http%3A//ezthemes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603101713id_/http%3A//www.ezthemes.com/privacy.php) for the most accurate reproduction.*
 
 # EZthemes: Desktop Themes and more.... Privacy Page.
 
