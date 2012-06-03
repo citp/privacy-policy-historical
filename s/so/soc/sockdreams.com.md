@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204153037id_/http%3A//www.sockdreams.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131159id_/http%3A//www.sockdreams.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Socks by Sock Dreams » Customer Service » Privacy Policy
 
 ### Privacy Policy
 
-We value your privacy &amp; security. Virtual terminal has SSL for secure online transactions.  
+We value your privacy & security. Virtual terminal has SSL for secure online transactions.  
 We will NEVER sell or give your information to anyone else or add you to our mailing list simply because you’ve written or ordered.
 
 #### Our commitment to privacy
 
 We respect your privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-#### The information we collect &amp; how we use it:
+#### The information we collect & how we use it:
 
 In order to process your order, we may require various forms of personal information from you depending on the payment method you choose. We will never ask for more than is necessary for the bank to verify your ability to pay with your chosen method.
 
