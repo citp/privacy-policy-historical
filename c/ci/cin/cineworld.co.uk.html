@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the cineworld.co.uk privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227031227id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cineworld.co.uk privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603080106id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js-enabled"><head>
+        <!-- This comment replaces content that was removed due to user's cookie settings -->
+    <script type="text/javascript">
+        var webtrendsAvailable = typeof WebTrends == 'function';
+    </script>
 
 <title>Cineworld Cinemas: Privacy Policy</title>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -11,12 +15,16 @@
 <link rel="stylesheet" href="/assets/css/cineworld.core.packed.css" type="text/css" media="all">
 <link rel="stylesheet" href="/assets/css/cineworld.mycineworld.packed.css" type="text/css" media="all">
 <link rel="stylesheet" href="/assets/css/cineworld.print.packed.css" type="text/css" media="print">
+<link rel="stylesheet" href="/assets/tsr/css/jquery.fancybox.packed.css" type="text/css" media="all">
 
 <script type="text/javascript" src="/assets/js/jquery.packed.js"></script>
 <script type="text/javascript" src="/assets/js/cineworld.common.packed.js"></script><style type="text/css">.mycineworldJavascriptEnabled { display: none; }</style>
+<script type="text/javascript" src="/assets/tsr/js/jquery.fancybox.packed.js"></script>
+<script type="text/javascript" src="/assets/js/specialist/cineworld.mycineworld.packed.js"></script>
 
 <!--[if IE]>
     <link  href="/assets/css/cineworld.ie.packed.css" rel="stylesheet" type="text/css" media="all" />
+    <link  href="/assets/css/cineworld.mycineworld.ie.packed.css" rel="stylesheet" type="text/css" media="all" />
 <![endif]-->
 <!--[if IE 6]>
     <script type="text/javascript" src="/assets/js/specialist/iepngfix.packed.js"></script>
@@ -24,8 +32,7 @@
 <![endif]-->
 
 <meta name="WT.sp" content="Website">
-    <meta name="DCS.dcsaut" content="">
-    <meta name="WT.seg_1" content="Non Logged In">
+
 
         
 		<meta name="Keywords" content="Cineworld cinemas, cinema, onlline privacy policy, cookies, customer information">
@@ -37,7 +44,9 @@
     
 
 
-<!-- cin-pr-wb11 -->        <script type="text/javascript">
+<!-- cin-pr-wb16 -->
+
+        <script type="text/javascript">
             $(document).ready(function() {
                 var bar = $('.mycineworld.pane.bar');
                 if (bar.length > 0) {
@@ -76,37 +85,50 @@
         </script>
 
 
+
 	</head>
 
 	<body class="cineworld twoCol contentRight" style="">
-
+        <div id="fb-root"></div>
         <div id="container">
             <div id="centered">
 
     <a href="#content" class="hidden">Skip to Content</a>
 
-    <h1><a href="/"><img src="/assets/images/new/logo_cineworld-cinemas.png" alt="Cineworld Cinemas"></a></h1>
+    <h1 class="identity"><a href="/"><img src="/assets/images/new/logo_cineworld-cinemas.png" alt="Cineworld Cinemas" width="202" height="100"></a></h1>
 
 
                 <div id="page">
 
                     <!-- header-wrap needed for flexible login form area -->
                     <div id="wrap">
-    <div class="mycineworld pane bar ">
-            <div class="dark">
-                <h2><a href="/mycineworld/register"><span>My</span>Cineworld</a></h2>
-            </div>
-            <div class="light login">
-                    <form method="post" action="https://www.cineworld.co.uk/login">
-                        <ul>
-                            <li><label for="barUsername">Email</label> <input type="text" id="barUsername" name="username" placeholder="Email" aria-required="true"></li>
-                            <li><label for="barPassword">Password</label> <input type="password" id="barPassword" name="password" placeholder="Password" aria-required="true"></li>
-                            <li><button class="action mini smallGreen" type="submit" name="authenticate" value="login">Login</button></li>
-                            <li><a class="action mini smallGreen signup" href="/mycineworld/register">Sign Up</a></li>
-                            <li>Want up to the minute film information? Then <a class="inline signup" href="/mycineworld/register">sign up!</a></li>
-                        </ul>
-                    </form>
-            </div>
+    <div class="mcw bar  anonymous">
+            <ul class="right">
+                <li class="logo"><a href="/mycineworld"><span class="highlight">My</span>Cineworld</a></li>
+                    <li>    <a class="action smallGreen loginLink modal" href="/login?location=" data-modal="https://www.cineworld.co.uk/login?modal=1&amp;location=">Login &gt;</a>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('.loginLink').click(function(event) {
+                    event.preventDefault();
+                    $.mcwModal({modalSelector: $(this).attr('data-modal'), iframe: true, width: 867, height: 591});
+                    return false;
+                }).addClass('modal');
+            });
+        </script>
+</li>
+                    <li>    <a class="action largeGreen modal" id="registerLink" href="/register?location=&amp;source=mycineworld&amp;favouriteCinema=-1">Register Now &gt;</a>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('.action[id="registerLink"]').click(function(event) {
+                    event.preventDefault();
+                    $.mcwModal({modalSelector: 'https://www.cineworld.co.uk/register?modal=1&amp;location=', iframe: true, width: 867, height: 591});
+                    return false;
+                }).addClass('modal');
+            });
+        </script>
+</li>
+            </ul>
+                <p>Welcome to a world without booking fees</p>
     </div>
 
                         <div id="main-wrap">
@@ -123,7 +145,7 @@
 
 
 
-		<li><a href="/mycineworld/register">My Cineworld</a>
+		<li><a href="/mycineworld">mycineworld</a>
             <ul>
 
 
@@ -174,7 +196,7 @@
         <li><a href="/films/event/metopera">Met Opera</a></li>
 
 
-        <li><a href="/films/event/roh">Royal Opera House</a></li>
+        <li><a href="/films/event/ringcycle">Met Opera Ring Cycle</a></li>
 
 
         <li><a href="/films/event/ntlive">NT Live</a></li>
@@ -187,11 +209,11 @@
 
 
 
-		<li><a href="/imax">IMAX? &amp; RealD 3D</a>
+		<li><a href="/imax">IMAX &amp; RealD 3D</a>
             <ul>
 
 
-        <li><a href="/imax">IMAX?</a></li>
+        <li><a href="/imax">IMAX</a></li>
 
 
         <li><a href="/reald">RealD 3D</a></li>
@@ -219,16 +241,13 @@
         <li><a href="/unlimited/intro">What is Unlimited?</a></li>
 
 
-        <li><a href="/unlimited/benefits">Membership Benefits</a></li>
+        <li><a href="/unlimited/howitworks">How it works</a></li>
 
 
-        <li><a href="/unlimited/faq">Pricing &amp; FAQs</a></li>
+        <li><a href="/unlimited/discounts">Discounts</a></li>
 
 
         <li><a href="/unlimited/terms">Terms &amp; Conditions</a></li>
-
-
-        <li><a href="https://www.unlimitedcineworld.com/uk/pages/Login.aspx">Apply for Unlimited</a></li>
             </ul>
         </li>
 
@@ -239,43 +258,44 @@
         <li><a href="/competitions">Competitions</a></li>
 
 
-        <li><a href="/conferencing">Conferencing</a></li>
+        <li><a href="/venuehire/home">Venue Hire</a></li>
 
 
         <li><a href="/news">News &amp; Events</a></li>
 
 
-        <li><a href="http://www.cineworlddigital.co.uk/cineworlddigital27/page/1">Unlimited Magazine</a></li>
+        <li><a href="http://www.cineworlddigital.co.uk/unlimited31/page/1">Cineworld Mag</a></li>
                                             </ul>
 
-        <div class="phoneBookings">For information and bookings call <span class="number">0871&nbsp;200&nbsp;2000</span> <span class="smallPrint">10p per minute from a BT landline. Mobile and other providers may vary.</span></div>
-
-        <div class="promo">
-            <a href="/news/309/detail" target="_blank"><img src="/assets/media/ads/ad_19547.png" alt="Cineworld's Android App" title="Cineworld's Android App"></a>
-        </div>
+    <div class="promo">
+        <a href="/news/322/detail" target="_self"><img src="/assets/media/ads/ad_20254.png" alt="Take a 10% chunk off ticket prices" title="Take a 10% chunk off ticket prices"></a>
+    </div>
                                         </div>
 
                                         <a name="content"></a>
                                         <div id="content-main">    <h2 class="page ">Privacy Policy</h2>
-        <p>Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our <a href="../terms">Terms</a>.</p>
+        <p>Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our <a href="/terms">Terms</a>.</p>
 <p>We use the information we collect about you to help efficiently administer our business and the services we provide to you in accordance with the Data Protection Act 1998. We take privacy seriously and endeavour to be as open as possible in terms of how your information is used.</p>
 <h3>What information do we collect and how do we use it?</h3>
 <p>By entering your personal information on the Cineworld web site you accept that we may retain your information and it may be held by Cineworld or by any third party company which processes it on our behalf.</p>
 <h4>General Bookings</h4>
-<p>If you wish to book tickets using our web site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you service related emails related to each booking.&nbsp;&nbsp;</p>
-<h4>MyCineworld</h4>
-<p>If you wish to sign up to the MyCineworld service, you will need to complete the registration process and we will need to know your name and&nbsp;e-mail.</p>
-<p>If you sign up to the MyCineworld service, our agents and sub-contractors shall use this information to communicate with you on any matter relating to provision of our services in general. We may further use the information we collect to facilitate your use of our Cineworld Advance Booking service or to send to you our weekly email communication, containing information of upcoming attractions and information about special features of our Web Site or any other service or products which we think may be of interest to you. If at any time you decide you would rather not receive this information, please use the modify function on the Web Site. In any event, a facility explaining how to unsubscribe is available at the end of every correspondence.</p>
+<p>If you wish to book tickets using our web site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you service related emails related to each booking (including one follow-up email after your cinema visit, to check that you were satisfied with the service).&nbsp;&nbsp;</p>
+<h4>mycineworld</h4>
+<p>If you wish to sign up to the mycineworld service, you will need to complete the registration process and we will need to know your name and&nbsp;e-mail.</p>
+<p>If you sign up to the mycineworld service, our agents and sub-contractors shall use this information to communicate with you on any matter relating to provision of our services in general. We may further use the information we collect to facilitate your use of our Cineworld Advance Booking service or to send to you our weekly email communication, containing information of upcoming attractions and information about special features of our Web Site or any other service or products which we think may be of interest to you. If at any time you decide you would rather not receive this information, please use the modify function on the Web Site. In any event, a facility explaining how to unsubscribe is available at the end of every correspondence.</p>
+<h4>Facebook Connect</h4>
+<p>mycineworld account holders who sign up or connect using Facebook Connect will also be subject to Facebook's terms and conditions of use and privacy policy, for which Cineworld is not responsible.</p>
 <h4>External web sites</h4>
 <p>The Web Site links to a number of external web sites and then to the Internet and you acknowledge that your access of such web sites will be subject to the relevant third party's terms and conditions and that any information you provide to such third parties is subject to its own privacy policy. Cineworld has no control over how such information is used and, as such, any course of action you have regarding any alleged misuse of such information must be against the relevant third party. You acknowledge that the same information may be provided by you to both that third party and Cineworld, but only when specifically provided to Cineworld is it subject to this Privacy Policy.</p>
 <h4>What about "cookies"?</h4>
-<p>"Cookies" are small pieces of information that are stored by your browser on your computer. Our cookies contain information that we can use to identify you and allow us to efficiently operate the Login service. The information stored within the cookie is encoded and restricted so only Cineworld and its agents (which include third-party advertising companies) are allowed access. We will use this information to track site usage, tailor site content, and prevent service abuse. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this Web Site.</p>
+<p>"Cookies" are small pieces of information that are stored by your browser on your computer. Our cookies contain information that we can use to identify you and allow us to efficiently operate the Login service. The information stored within the cookie is encoded and restricted so only Cineworld and its agents (which include third-party advertising companies) are allowed access. We will use this information to track site usage, tailor site content, and prevent service abuse. Please see our <a href="http://www.cineworld.co.uk/aboutcookies">Cookie Policy</a> for more information on how we use cookies, and how you can adjust your cookie settings. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this Web Site.</p>
 <h4>How does Cineworld protect customer information?</h4>
 <p>While the nature of the Internet is such that we cannot guarantee the security of the information you transmit to us via the Internet, we follow strict security procedures (including appropriate technical and organisational measures) in the storage and disclosure of information which you have given us, to prevent unauthorised access or loss. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose your sensitive information to you.</p>
 <h4>Will Cineworld disclose the information it collects to outside parties?</h4>
 <p>Cineworld may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics will include no personally identifying information.</p>
 <p>If you have given us your consent to do so during the registration process, we may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If subsequently you do not wish us to disclose your information in this way, please use the modify function on the Web Site.</p>
 <p>Please note, however, that Cineworld may be required to disclose your personal information to third parties as a result of a court order or pursuant to a statutory or governmental order or decree or to comply with any search warrant or similar presented to Cineworld by any to law enforcement or government officer.</p>
+<p>In addition, where you enter a competition, we may pass your details on to third parties for the purposes of administering the competition and/or delivering prizes only.</p>
 <h4>Sale of business</h4>
 <p>In the event that our business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers' advisers and will be passed on to the new owners of the business.</p>
 <h4>Your consent</h4>
@@ -293,7 +313,7 @@
                         </div>
                     </div>
                     <div id="footer">
-    © Cineworld 2011
+    © Cineworld 2012
 
                 <a href="/mobile?r=revert">Cineworld Mobile</a> |
                 <a href="/careers/company">Careers</a> |
@@ -304,6 +324,7 @@
                 <a href="/press/company">Press</a> |
                 <a href="http://www.cineworldplc.com/">Cineworld PLC</a> |
                 <a href="/policy">Privacy Policy</a> |
+                <a href="/cookiesettings">Cookie Settings</a> |
                 <a href="http://cineworld.ie" title="Click here to access the Cineworld Ireland site.">Cineworld Ireland</a>
                     </div>
 
@@ -318,28 +339,12 @@
 
             <div id="top-advert" class="advert">
                 <div class="inner">
-    <script type="text/javascript">
-        var ord = window.ord || Math.floor(Math.random() * 1E16);
-        document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/cwad21.footer/_default;pos=1;tile=1;dcopt=ist;sz=1x1,728x90;ord=' + ord + '?"><\/script>');
-    </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/cwad21.footer/_default;pos=1;tile=1;dcopt=ist;sz=1x1,728x90;ord=7849413887252974?"></script>
-    <noscript>
-        <a href="http://ad.doubleclick.net/adj/jump/cwad21.footer/_default;pos=1;tile=1;sz=1x1,728x90;ord=123456789?" target="_blank">
-            <img src="http://ad.doubleclick.net/adj/ad/cwad21.footer/_default;tile=1;sz=1x1,728x90;ord=123456789?" border="0" />
-        </a>
-    </noscript>
+        <!-- This comment replaces content that was removed due to user's cookie settings -->
                 </div>
             </div>
 
             <div id="side-advert">
-    <script type="text/javascript">
-        var ord = window.ord || Math.floor(Math.random() * 1E16);
-        document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/cwad21.footer/_default;pos=1;tile=2;dcopt=ist;sz=120x600;ord=' + ord + '?"><\/script>');
-    </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/cwad21.footer/_default;pos=1;tile=2;dcopt=ist;sz=120x600;ord=7849413887252974?"></script>
-    <noscript>
-        <a href="http://ad.doubleclick.net/adj/jump/cwad21.footer/_default;pos=1;tile=2;sz=120x600;ord=123456789?" target="_blank">
-            <img src="http://ad.doubleclick.net/adj/ad/cwad21.footer/_default;tile=2;sz=120x600;ord=123456789?" border="0" />
-        </a>
-    </noscript>
+        <!-- This comment replaces content that was removed due to user's cookie settings -->
             </div>
 
     <script type="text/javascript">
@@ -356,27 +361,103 @@
             </div>
         </div>
 
-                <script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=LNVoBMlfVgrKB1JkuWjokQ&amp;v=1"></script>        
-            <script type="text/javascript" src="/assets/js/specialist/cineworld.twitter.packed.js"></script>
-
-        <script src="/assets/js/specialist/webtrends.packed.js" type="text/javascript"></script>
         <script type="text/javascript">
-            var webtrendsAvailable = typeof WebTrends == 'function';
+            $(document).ready(function() {
+                var body = $('body');
+                if (window != window.top && body.is('.isBooking')) {
+                    var dimensions, viewport;
+                    viewport = function() {
+                        var a, e;
+                        e = window;
+                        a = 'inner';
+                        if (!('innerWidth' in window)) {
+                            a = 'client';
+                            e = document.documentElement || document.body;
+                        }
+                        return {
+                            width: e[a + 'Width'],
+                            height: e[a + 'Height']
+                        };
+                    };
+                    dimensions = viewport();
 
-            if (webtrendsAvailable) {
-                var _tag = new WebTrends();
-                _tag.dcsid = 'dcskzgl9m000000w4dyp4senq_3i2w';
-                _tag.fpcdom = '.cineworld.co.uk';
-                _tag.dcsGetId();
-            }
-        </script><script type="text/javascript" src="https://statse.webtrendslive.com/dcskzgl9m000000w4dyp4senq_3i2w/wtid.js"></script>
-        <script type="text/javascript">
-            if (webtrendsAvailable) {
-                _tag.dcsCollect();
-            }
+                    if (dimensions.width == 810) {
+                        $('h1.identity a').attr('href', '/facebook/distributor/');
+                        $('.sidepanel.general,fieldset .sidepanel').detach().appendTo($('#content-main'));
+                        $('#footer').html('&copy; Cineworld ' + new Date().getFullYear());
+                        $('.panel.receipt .categoryPromotion .action').remove();
+                        $('<link />').attr({rel: 'stylesheet', href: 'http://www.cineworld.co.uk/assets/facebook/distributor/css/booking.packed.css'}).appendTo(body);
+
+                        window.fbAsyncInit = function() {
+                            FB.init({appId: '108994665793659', status: true, cookie: true, xfmbl: true });
+                            FB.Canvas.setAutoGrow(100);
+                            FB.Canvas.scrollTo(0, 0);
+                        };
+
+                        (function(d){
+                            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                            if (d.getElementById(id)) {return;}
+                            js = d.createElement('script'); js.id = id; js.async = true;
+                            js.src = '//connect.facebook.net/en_US/all.js';
+                            ref.parentNode.insertBefore(js, ref);
+                        }(document));
+                    }
+                }
+            });
         </script>
-            <noscript>
-        <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcskzgl9m000000w4dyp4senq_3i2w/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.cineworld.co.uk&amp;" />
-            </noscript>
+
+        <!-- This comment replaces content that was removed due to user's cookie settings -->
+
+        <!-- This comment replaces content that was removed due to user's cookie settings -->
+
+    <style type="text/css">
+        #cookieNotification {
+            background-color: white;
+            border: 1px solid #A2ACB1;
+            border-radius: 5px 5px 5px 5px;
+            bottom: 40px;
+            box-shadow: 1px 0 15px rgba(0, 0, 0, 0.2);
+            display: block;
+            padding: 20px 20px 0;
+            position: fixed;
+            right: 20px;
+            width: 280px;
+            z-index: 9999;
+            display: none;
+        }
+
+        #cookieNotification a {
+            font-size: 1em;
+            color: black;
+        }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("a[href='/cookiesettings']").fancybox({type: 'iframe', width: 867, height: 700, scrolling : 'no'});
+            $("#changeSettings").fancybox({type: 'iframe', width: 867, height: 700, scrolling : 'no'});
+
+            if ($.cookie("cookieLevel") == null) {
+                $.cookie('cookieLevel', '1111', { expires: 731, path: '/' });  // default to full use of cookies if user does not say otherwise
+                $("#cookieNotification").show("slow");
+                $("#cookieNotification").delay(10000).hide("slow");
+            }
+        });
+
+        function setCookieLevel(level) {
+            $.cookie('cookieLevel', level, { expires: 731, path: '/'});  // expire in two years time
+            $('#cookieNotification').hide();
+        }
+    </script>
+
+    <div id="cookieNotification" style="display: block;">
+        <p>This website uses cookies to provide you with a better experience.<br><br>You can adjust your cookie settings at any time at the bottom of each page.&nbsp; If you do not adjust your settings, you are consenting to us issuing all cookies to you.<br><br></p>
+        <p>
+            <a id="changeSettings" onclick="setCookieLevel('1111')" href="/cookiesettings">Change settings</a><br>
+            <a onclick="setCookieLevel('1111')" href="#">No, thanks</a>
+        </p>
+        <p>
+            <a class="" href="/aboutcookies" target="_blank">Find out more about Cookies</a>
+        </p>
+    </div>
 	
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
