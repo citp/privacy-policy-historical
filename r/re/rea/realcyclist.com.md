@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcyclist.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227054349id_/http%3A//www.realcyclist.com/roadbike/footer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcyclist.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603025550id_/http%3A//www.realcyclist.com/roadbike/footer.html%23privacy) for the most accurate reproduction.*
 
 # Realcyclist.com | Footer Links from Realcyclist.com
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy, we provide this
 
 ## The Information We Collect
 
-This policy applies to all information collected or submitted on the RealCyclist website, including all affiliated websites, including but not limited to: Backcountry.com, DepartmentOfGoods.com, Dogfunk.com, HucknRoll.com, RealCyclist.com, SteepandCheap.com, WhiskeyMilitia.com, Chainlove.com, and Bonktown.com. On some pages, you can order products, make requests, submit product reviews, and register to receive materials or communications from us. The types of Personal Information collected at these pages are:
+This policy applies to all information collected or submitted on the RealCyclist website, including all affiliated websites, including but not limited to: Backcountry.com, DepartmentOfGoods.com, Dogfunk.com, HucknRoll.com, RealCyclist.com, SteepandCheap.com, WhiskeyMilitia.com, Chainlove.com, Bonktown.com, and CompetitiveCyclist.com. On some pages, you can order products, make requests, submit product reviews, and register to receive materials or communications from us. The types of Personal Information collected at these pages are:
 
   * Name
   * Address
