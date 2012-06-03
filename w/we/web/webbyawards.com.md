@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203015158id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603103749id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to the Webby Awards
 
@@ -46,7 +46,7 @@ WE DO NOT USE THIS INFORMATION FOR MARKETING PURPOSES. This lets us provide maxi
 
 We will also use your email address to send you a reminder email to participate in the Webby Awards each year.
 
-You will also have the opportunity to opt-in to receive occasional information from our partners. If you wish to stop receiving this information, you may unsubscribe from the link at the bottom of the email from our partner, or email [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com) and ask to be taken off the mailing list.
+You will also have the opportunity to opt-in to receive occasional information from our partners. If you wish to stop receiving this information, you may unsubscribe from the link at the bottom of the email from our partner, or email [deniser@webbyawards.com](mailto:deniser@webbyawards.com) and ask to be taken off the mailing list.
 
 #### Tell a Friend Notifications
 
@@ -54,7 +54,7 @@ When you request a notification to be sent to your friend, we ask you for your n
 
 #### Contests and Promotional Features
 
-When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. In some cases we offer you the opportunity to receive information about new services, special offers and other news that you might find valuable. To receive such notifications you must opt-in to the distribution list. If at any time you choose to opt-out of receiving such notifications you may do so by sending your request to: [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com).
+When you enter a contest or other promotional feature, we may ask for your name, address, and email address so we can administer the contest and notify winners. In some cases we offer you the opportunity to receive information about new services, special offers and other news that you might find valuable. To receive such notifications you must opt-in to the distribution list. If at any time you choose to opt-out of receiving such notifications you may do so by sending your request to: [deniser@webbyawards.com](mailto:deniser@webbyawards.com).
 
 #### Technical Information
 
@@ -64,7 +64,7 @@ We may use this personal information to improve our services to you and to custo
 
 ### How can you edit your personal information?
 
-You may change your personal information at any time by emailing [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com) and describing the changes you would like to make.
+You may change your personal information at any time by emailing [deniser@webbyawards.com](mailto:deniser@webbyawards.com) and describing the changes you would like to make.
 
 ### How does The Webby Awards protect customer information?
 
@@ -82,7 +82,7 @@ Our search engine is hosted and provided by Atomz.com. They do not collect any p
 
 #### Reviews
 
-Please note that as part of the People's Voice Voting, users will be able to write reviews directly relating to the nominated websites only. To change any aspect of your review, or to report a review that you feel is inappropriate, please contact us at: [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com).
+Please note that as part of the People's Voice Voting, users will be able to write reviews directly relating to the nominated websites only. To change any aspect of your review, or to report a review that you feel is inappropriate, please contact us at: [deniser@webbyawards.com](mailto:deniser@webbyawards.com).
 
 #### Voting
 
@@ -94,11 +94,11 @@ You are not able to change your vote in any category once you have submitted you
 
 #### Voting Confirmation
 
-To review and confirm your votes in People's Voice, please review the "Ballot Scorecard" page once you have registered. Please contact us at [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com) if you have any questions regarding your votes.
+To review and confirm your votes in People's Voice, please review the "Ballot Scorecard" page once you have registered. Please contact us at [deniser@webbyawards.com](mailto:deniser@webbyawards.com) if you have any questions regarding your votes.
 
 ### Will the Webby Awards disclose the information it collects to outside parties?
 
-The Webby Awards does not sell or share your personal information to others. If you submit a site in our Call for Entries, we do allow our partners to provide you with news and special offers. However, we do not share your personal information with our partners and maintain control of your information at all times. If at any time you choose not to receive such notifications you may do so by sending your request to: [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com) or simply unsubscribe from the link at the bottom of the email.
+The Webby Awards does not sell or share your personal information to others. If you submit a site in our Call for Entries, we do allow our partners to provide you with news and special offers. However, we do not share your personal information with our partners and maintain control of your information at all times. If at any time you choose not to receive such notifications you may do so by sending your request to: [deniser@webbyawards.com](mailto:deniser@webbyawards.com) or simply unsubscribe from the link at the bottom of the email.
 
 The Webby Awards may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
@@ -108,4 +108,4 @@ By using our Web site, you consent to the collection and use of information by T
 
 ### Your thoughts?
 
-The Webby Awards welcomes your questions and comments about privacy. To contact us, please send email to [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com). You will receive a confirmation from us via email within 2 business days of receipt of your email.
+The Webby Awards welcomes your questions and comments about privacy. To contact us, please send email to [deniser@webbyawards.com](mailto:deniser@webbyawards.com). You will receive a confirmation from us via email within 2 business days of receipt of your email.
