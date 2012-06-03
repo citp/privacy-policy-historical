@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226204109id_/http%3A//www.ogilvy.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603194050id_/http%3A//www.ogilvy.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ogilvy & Mather
 
-Welcome to our site ("Site"). Ogilvy & Mather Worldwide ("Ogilvy") knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the Site and, ultimately, just how we use such personally identifiable information. 
+Welcome to our site ("Site"). Ogilvy & Mather ("Ogilvy") knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the Site and, ultimately, just how we use such personally identifiable information. 
 
 This policy applies only to the web site located at [www.ogilvy.com](http://www.ogilvy.com/), and not to any other web site or service.  If you do not agree with this policy, then you should not use the Site 
 
@@ -42,9 +42,9 @@ At times, some of our advertisers and their ad service providers set cookies whe
 
 The Site may contain links to web sites maintained by third parties.  Ogilvy is not responsible for the privacy practices of such third party sites.  You should carefully read their own privacy policies before providing any information to such third parties. 
 
-**Opt Out Procedures**
+**Opt-Out Procedures**
 
-You have the option to opt out of receiving information from Ogilvy. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by Ogilvy in relation to this Site. Ogilvy also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from Ogilvy, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked "Privacy-Urgent", and [contact us](https://www.ogilvy.com/Contact.aspx). 
+You have the option to opt-out of receiving information from Ogilvy. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by Ogilvy in relation to this Site. Ogilvy also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from Ogilvy, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked "Privacy-Urgent", and [contact us](https://www.ogilvy.com/Contact.aspx). 
 
 However, Ogilvy is not responsible for removing information from third party lists or dat abases of any kind if we have shared your information with such third parties as permitted by this policy. 
 
@@ -77,7 +77,7 @@ We may amend our privacy policy at any time and will post those changes on this 
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can [contact us](https://www.ogilvy.com/Contact.aspx). 
 
 In addition, our mailing address is:   
-Ogilvy & Mather Worldwide Headquarters   
+Ogilvy & Mather Headquarters   
 636 11th Avenue   
 New York, NY 10036 
 
