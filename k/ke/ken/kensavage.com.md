@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kensavage.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217124932id_/http%3A//www.kensavage.com/contact-ken-savage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensavage.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603043348id_/http%3A//www.kensavage.com/contact-ken-savage/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy
 
 KenSavage.com respects your right to privacy. This statement discloses the privacy practices for the KenSavage.com website. This statement also describes other important topics relating to your privacy.
 
