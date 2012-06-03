@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217091500id_/http%3A//www.roomandboard.com/rnb/our_website/privacy.ftl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603070257id_/http%3A//www.roomandboard.com/rnb/our_website/privacy.ftl) for the most accurate reproduction.*
 
 # Privacy Policy - Our Website - Room & Board
 
