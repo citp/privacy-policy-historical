@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114174405id_/http%3A//www.globalgraphics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603164506id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.*
 
-# Global Graphics - Privacy Policy
+# Global Graphics Software privacy policy
 
 Global Graphics Software Limited (hereinafter "Global Graphics") is committed to protecting your privacy in accordance with this online privacy policy as amended from time to time (“Privacy Policy”). Global Graphics will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -20,7 +20,7 @@ The type of information we will collect about you includes:
 
 We use the information to handle orders, deliver products and services, update our records and generally maintain your account with us. We also use this information to keep you informed about new products, upgrades, and services available from Global Graphics, to improve our on-line store, and prevent or detect fraud or abuses of our website. We may also pass on information to our Distributor/Reseller and Corporate Licensing Center partners for market research purposes, so that they may contact you about a potential sales lead, or provide you with the product or service that you require.
 
-### _Changes in Privacy Policy_
+## Changes in Privacy Policy
 
 Global Graphics may change its Privacy Policy from time to time at its sole discretion and will provide notice of changes on this page. If as a result of such changes you want to alter the ways in which Global Graphics is allowed to use your personal information, you can do so by emailing [privacy-information@globalgraphics.com](mailto:privacy-information@globalgraphics.com). 
 
@@ -37,7 +37,5 @@ We will never collect sensitive information about you without your explicit cons
 The Site and the products and services are intended for adult audiences, and Global Graphics does not knowingly collect any personal information from anyone under 13 years of age. 
 
 Global Graphics is not responsible for the content or privacy practices of non-Global Graphics sites to which this website might link.
-
-Please Note. When ordering gDoc products and services via the Site, Digital River GmbH (element 5) is the seller of the gDoc products in your shopping cart and therefore your contractual partner. When ordering gDoc products and services via the Site you will be subject to the Digital River GmbH (element 5) online Privacy Statement. 
 
 If you have any questions/comments about privacy, you should email [privacy-information@globalgraphics.com](mailto:privacy-information@globalgraphics.com).
