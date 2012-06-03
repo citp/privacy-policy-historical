@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012163521id_/http%3A//consumercellular.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604005341id_/http%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Consumer Cellular
 
