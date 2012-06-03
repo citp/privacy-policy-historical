@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the shiftplanning.com privacy policy that was archived on 2011-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120224652id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shiftplanning.com privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603150935id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html lang="en"><head>
 
 	<!-- META -->
 		<meta charset="utf-8">
@@ -18,16 +18,13 @@
 	-->
 
 	<!-- SITE CSS & FONTS -->
-		<link href="http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic&amp;subset=latin" rel="stylesheet" type="text/css">
-		<link href="http://static.shiftplanning.com/layout/css/site.css" rel="stylesheet" type="text/css">
-		<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		<link rel="stylesheet" type="text/css" href="http://cdn.shiftplanning.com/layout/static/34homepage.css">		<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 	<!-- ANALYTICS JS -->
-		<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-12331150-1");pageTracker._trackPageview();} catch(err) {}</script>
-		
-	<!-- FACEBOOK -->
-		</head><body id="index" class="home"><div id="fb-root"></div>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	  		var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-12331150-1']); _gaq.push(['_trackPageview']);
+	  		(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+		</script>
 
 	<!-- RSS FEEDS! -->
 	    <link rel="alternate" type="application/atom+xml" title="Posts on 'ShiftPlanning' (Atom)" href="http://www.shiftplanning.com/posts/atom.xml">
@@ -35,364 +32,465 @@
 		<link rel="alternate" type="application/rss+xml" title="Posts on 'ShiftPlanning' (RSS 2.0)" href="http://www.shiftplanning.com/posts/rss.xml">
 
 	<!-- FAVICON -->
-		<link rel="icon" href="http://static.shiftplanning.com/layout/images/favicon.ico" type="image/x-icon">
-		<link rel="shortcut icon" href="http://static.shiftplanning.com/layout/images/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="http://cdn.shiftplanning.com/layout/34/images/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="http://cdn.shiftplanning.com/layout/34/images/favicon.ico" type="image/x-icon">
 
 	<!-- SITE JS -->
-		<script type="text/javascript" src="http://static.shiftplanning.com/layout/hithere/97ext.js"></script>
-		<script type="text/javascript" src="http://static.shiftplanning.com/layout/hithere/97home.js"></script>
+		<script type="text/javascript" src="http://cdn.shiftplanning.com/layout/static/34external.js"></script><script type="text/javascript" src="http://cdn.shiftplanning.com/layout/static/34homepage.js"></script>		<script type="text/javascript" src="http://cdn.shiftplanning.com/layout/34/js/waypoints.min.js"></script>
 		
+<script type="text/javascript">
+	$(document).ready(function() {
 
+		$('#launch_lc').bind('mouseenter', function(){
 
+		    if(typeof OtimeoutID == "number") {
+				window.clearTimeout(OtimeoutID);
+				delete OtimeoutID;
+		    }
+		    if(typeof CtimeoutID == "number") {
+				window.clearTimeout(CtimeoutID);
+				delete CtimeoutID;
+		    }
+			$(this).animate({'width': '288px'});
 
-	<div id="loading"></div>
-	<div id="hidiv" class="dia"></div>
-	<div id="darkBackgroundLayer" class="darkenBackground" style="display: none;"></div>
-	<iframe name="hiframe" id="hiframe" style="visibility:hidden; width: 1px; height: 1px; position: absolute; left: -999px; top: -999px;"></iframe>
-
-
-	<style>
-		#header-section{
-			width: 100%;
-			height: 93px;
-			background:url(/layout/images/header_bg_n.png) top left repeat-x;
-		}
-
-		/*  ------------------  */
-
-		#main-nav{
-			clear: right;
-			width: 690px;
-			float:right;
-			white-space: nowrap;
-			margin: 25px 0 0 0;
-			height: 30px;
-		}
-
-		#main-nav ul.menu{
-			width: 690px;
-			float:right;
-			white-space: nowrap;
-			padding:0 0 0 12px;
-		}
-
-		#main-nav ul.menu li{
-			display:block;
-			float: right;
-			list-style: none;
-			padding: 0 0 0 35px;
-		}
-
-		#main-nav ul.menu li a{
-			display:block;
-			font: normal 16px 'ColaborateRegular', Arial, sans-serif;
-			text-align:left;
-			height: 30px;
-			text-decoration:none;
-			color:#870000;
-			text-shadow: 0 1px 1px #FFF;
-
-			-webkit-transition: box-shadow,color 0.2s ease;
-			-moz-transition: box-shadow,color 0.2s ease;
-			-o-transition: box-shadow,color 0.2s ease;
-			transition: box-shadow,color 0.2s ease;
-
-		}
-
-		#main-nav ul.menu li a:hover, #main-nav ul.menu li a.cur{
-			color: #4f4f4f;
-			background:url(/layout/images/menu_hover_09.png) bottom center no-repeat;
-		}
-
-		#main-nav ul.menu li em {
-			margin-left: 4px;
-		}
-		#main-nav ul.menu li a:active{
-			color :#4f4f4f;
-			background: url(/layout/images/menu_hover_09.png) bottom center no-repeat;
-		}
-
-		#main-nav ul.menu li a.try {
-			color :#ffffff;
-			background: url(/layout/images/try_sp_green_bg.png) top left repeat-x;
-			border: 1px solid #687028;
-			padding: 5px 11px 0 11px;
-			height: 23px;
-			margin-top: -7px;
-			font: normal 16px 'ColaborateRegular', Arial, sans-serif;
-			-moz-border-radius: 2px;
-		    border-radius: 2px; /* future proofing */
-		    -khtml-border-radius: 2px; /* for old Konqueror browsers */
-		    text-shadow: 0 1px 1px #687028;
-		    -moz-box-shadow: 0px 0px 1px #888; -webkit-box-shadow: 0px 0px 2px #888; box-shadow: 0px 0px 2px #888;
-		}
-
-		#main-nav ul.menu li a.try:hover {
-			-moz-box-shadow: 0px 0px 5px #888; -webkit-box-shadow: 0px 0px 5px #888; box-shadow: 0px 0px 5px #888;
-		}
-
-	</style>
-
-		<section id="header-section">
-		<header class="body">
-			<a href="http://www.shiftplanning.com/"><img src="http://static.shiftplanning.com/layout/images/logo.png" width="239" height="51" alt="ShiftPlanning - Online Employee Scheduling Software" title="ShiftPlanning - Online Employee Scheduling Software" class="logo" style="margin: 8px 0 0 2px;"></a>
-			<nav id="upper-navigation">
-								<ul class="group1">
-					<li><a href="http://www.shiftplanning.com/blog/"><b>Blog</b><em class="blog"></em></a></li>
-					<li><a href="http://www.shiftplanning.com/api/"><b>Api</b><em class="api"></em></a></li>
-				</ul>
-								<ul class="group2">
-																	<li><a href="http://www.shiftplanning.com/contact/"><b>Contact Us</b><em class="support"></em></a></li>
-						<!--<li><script type="text/javascript" src="//www.shiftplanning.com/support/chat/js/phplive.js.php?d=2&base_url=%2F%2Fwww.shiftplanning.com%2Fsupport%2Fchat&text=Live Chat"></script><a href="javascript://"><em class="livechat"></em></a></li>-->
-										</ul>
+		}).bind('mouseleave', function(){
 
-				<ul class="group3">
-											<li><a href="http://www.shiftplanning.com/app/"><b>Login</b><em class="login"></em></a></li>
-									</ul>
-			</nav>
-			<nav id="main-nav">
-				<ul class="menu">
-					<li><a href="http://www.shiftplanning.com/signup/" class="try">Try ShiftPlanning Free</a></li>
-					<li><a href="http://www.shiftplanning.com/signup/">Learn About Pricing</a></li>
-					<li><a href="http://www.shiftplanning.com/tour/">Take the Tour</a></li>
-				</ul>
-			</nav>
-		</header>
-	</section>
+			CtimeoutID = window.setTimeout(function(){ $('#launch_lc').animate({'width': '32px'}); }, 1500);
 
-	<script type="text/javascript">
-		$(document).ready(function() {
+		}).bind('click', function(){
 
-			$('#launch_lc').bind('mouseenter', function(){
+			livechat('2');
 
-			    if(typeof OtimeoutID == "number") {
-					window.clearTimeout(OtimeoutID);
-					delete OtimeoutID;
-			    }
-			    if(typeof CtimeoutID == "number") {
-					window.clearTimeout(CtimeoutID);
-					delete CtimeoutID;
-			    }
-				$(this).animate({'width': '288px'});
+		});
 
-			}).bind('mouseleave', function(){
+		$('#launch_loc_cl').bind('click', function(event){
 
-				CtimeoutID = window.setTimeout(function(){ $('#launch_lc').animate({'width': '32px'}); }, 1500);
+			event.stopPropagation();
+			$('#launch_lc').animate({'width': '32px'});
 
-			}).bind('click', function(){
+		});
+							OtimeoutID = window.setTimeout(function(){ $('#launch_lc').animate({'width': '288px'}); $.get("/index.php?lc_opened_u=1"); }, 7500);
+		
+	});
 
-				livechat('2');
+</script><style>
+	#launch_lc { position: fixed; top: 160px; left: 0px; background: url(http://cdn.shiftplanning.com/layout/34/images/launch_sales_chat.png) top right; width: 32px; height: 221px; cursor: pointer; z-index: 99999;}
+	#launch_loc_cl { bottom: 0px; float: right; margin-top: 184px; margin-right: 44px; width: 25px; height: 25px; }
+</style></head>
 
-			});
 
-			$('#launch_loc_cl').bind('click', function(event){
+<body class="sp2011"><div id="launch_lc"><div id="launch_loc_cl"></div></div>
 
-				event.stopPropagation();
-				$('#launch_lc').animate({'width': '32px'});
 
-			});
-									OtimeoutID = window.setTimeout(function(){ $('#launch_lc').animate({'width': '288px'}); $.get("/index.php?lc_opened_u=1"); }, 7500);
-					});
+	<div class="terms">
 
-	</script>
-	<style>
-		#launch_lc { position: fixed; top: 160px; left: 0px; background: url(http://static.shiftplanning.com/layout/images/launch_sales_chat.png) top right; width: 32px; height: 221px; cursor: pointer; z-index: 99999;}
-		#launch_loc_cl { bottom: 0px; float: right; margin-top: 184px; margin-right: 44px; width: 25px; height: 25px; }
-	</style>
-	<div id="launch_lc"><div id="launch_loc_cl"></div></div>
+		<div class="nav">
+			<div class="in">
+				
+	<a href="http://www.shiftplanning.com/"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/logo.png" class="logo" title="Online Employee Scheduling Software"></a>
 
-	<section id="inner-main-content">
-	<section class="body">
-		<nav class="inner-menu">
-			<ul class="menu">
-				<li><a href="/">Home</a>»</li>
-				<li><a href="#">Privacy Policy</a></li>
-			</ul>
-		</nav>
-	</section>
-</section>
+	<div class="navlogin">
+		<a href="http://www.shiftplanning.com/app/">Login<img src="http://cdn.shiftplanning.com/layout/34/images/2011/blank.gif" class="_login pr"></a>
+	</div>
+        <ul class="toolbox">
+			            <li class="first"><a class="langChooser" href="#"><img src="http://www.shiftplanning.com/app/layout/images/flags/us.png"></a></li> 
+            <li><a href="http://twitter.com/shiftplanning" class="tw"></a></li>
+            <li><a href="http://www.facebook.com/shiftplanning" class="fb"></a></li>
+            <li><a href="https://plus.google.com/116891738761385122423/" class="gp"></a></li>
+<!--            <li><a href="#" class="pi"></a></li>-->
+        </ul>
 
-<section id="content-section2">
-	<section class="body">
-		<p>ShiftPlanning™ takes your privacy seriously. We have developed the following Privacy Policy for your protection.</p>
-
-<ol>
-	<li>This Policy applies to all ShiftPlanning™ Websites ("Websites"). This Policy does not apply to other companies' or organizations' Websites to which we link. You should carefully review the privacy policies of those Websites in order to determine how they treat your personal information.</li>
-	<li>This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and your rights to update or correct it.</li>
-	<li>This policy does not apply to the practices of companies or Websites that ShiftPlanning™ does not own or control, or to people that ShiftPlanning™ does not employ or manage.</li>
-</ol>
-
-<br>
-
-<h1>INFORMATION ABOUT YOU </h1>
-
-<b>Information Gathered From All Visitors </b>
-<br>
-<br>
-<b>Aggregate Data </b>
-
-<p>We gather certain generic information with respect to users of our Website. Information may include number of unique visitors, the frequency with which they visit, and the areas on the Website that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in the aggregate, on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our users use certain parts of our Website, which, in turn, enables us to make it as appealing and user friendly as possible. We may also share aggregate data of users' collective use of our Website with advertisers, sponsors, and other companies with which we do business ("Affiliates" or "Business Partners"). We do this so they, too, can improve functionality and offer services and materials that users want.</p>
-
-<b>Cookies </b>
-
-<p>We use "cookies" on our Website. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. Cookies tell our computer that you've visited before and help to make your visit more personal so you don't have to re-enter info on a return visit. Cookies also allow us to count the number of unique and return visitors who use our Website.</p>
-<p>Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features like checking out (and participation in certain offerings) on our Website if you choose not to accept cookies. Cookies can also enable us to track and target the interests of our users to enhance their experience on our Website.</p>
-
-<b>IP Addresses </b>
-
-<p>We collect and analyize traffic on our Website by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the Website.</p>
-
-<b>Personalizing Your Experience on the Website </b>
-
-<p>We try to personalize your experience on our Website by tracking shift requests, vacation requests, shift trade requests, vacation requests, etc. and other content you may have sent or received. From time to time, we may send you surveys or solicit your feedback. We use surveys to gage user interest in new products and premiums we may offer, as well as to try and enhance your experience with the Website, by creating additional services, or optimizing those services that already exist. We will ask for your feedback on many site features. We may also use the information to alert you to offers and products in which you may be interested in.</p>
-
-<b>Information Gathered From Members </b>
-
-<p>If you elect to purchase a product on a ShiftPlanning™ owned website, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There may also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part. Additional data may be collected from you based upon certain services you elect to utilize on our Website. By obtaining this information, we can provide our users with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a user; however, the omission of certain types of data will limit the value of your use of these features. If you become a user of our Website or from one of our affialted Website, we may share your registration information with the affiliates.</p>
-
-<b>Uses of Personal Information </b>
-
-<p>If you have provided us your consent via opt-in subscription, we may use the information we have collected about you in ten ways:</p>
-
-<ol>
-	<li>To send personalized, targeted information that we think our users will find relevant, either from ShiftPlanning™ or directly from its Business Partners;</li>
-	<li>To support any of your requests like order processing;</li>
-	<li>To send promotions, offers, advertisements and coupons based on user interests;</li>
-	<li>To contact the user for feedback and surveys; and</li>
-	<li>To send the user other information about ShiftPlanning™ or its Business Partners. These communications include but are not limited to e-mail, postal mail and SMS messages.</li>
-	<li>To respond to your questions or the comments that you fax or email to us;</li>
-	<li>To provide you with newsletters or other subscription information;</li>
-	<li>To distribute to sponsors and advertisers who run the promotions and/or for purposes of marketing by our sponsors and advertisers;</li>
-	<li>To run chatrooms, blogs, discussion groups and bulletin boards;</li>
-	<li>To gather aggregate information on website use and to provide services to the public of a general or specific nature, paid or unpaid.</li>
-</ol>
-
-<p>All decisions we make involving Personal Information are based on accurate, complete and up-to-date information. We rely on you, however, to disclose all material information and to inform us of any relevant changes or corrections as they may relate to you. We encourage you to contact us as soon as possible, and we will make the appropriate reasonable corrections or amendments, upon receipt of appropriate evidence.</p>
-<p>We will retain Personal Information only as long as is required for the purposes we describe and as is required under law. Once Personal Information is no longer required (or if you have opted-out or withdrawn your consent), it is our practice that it is destroyed, deleted or made anonymous.</p>
-
-<b>On-Site Advertising </b>
-
-<p>ShiftPlanning™ may also use information about you to target advertising while you are visiting our Website. We may use cookie files to assure that you will not be served the same ads repeatedly.</p>
-
-<b>Privacy of Website Information </b>
-
-<p>This policy applies to all aspects of our Website, including your personalized messages, attached photos or graphics, or other personal content. We do not monitor or edit the contents of the online messages/ information you send. On occasion, however, we may need to view your messages in connection with the maintenance of our network.</p>
-
-<b>Disclosure Exceptions </b>
-
-<p>Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:</p>
-
-<ol>
-	<li>To comply with legal process such as a search warrant, subpoena or court order;</li>
-	<li>To protect the company's rights and property;</li>
-	<li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;</li>
-	<li>To protect ShiftPlanning™ against misuse or unauthorized use of our Website and/or the ShiftPlanning™ service; or</li>
-	<li>During emergencies, such as when we believe someone's physical safety is at risk.</li>
-</ol>
-
-<br>
-
-<h1>Your Control Over Your Personal Information </h1>
-<br>
-
-<b>Opt-Out/Changing Your Status </b>
-
-<p>To opt-out or change an aspect of your personal status, please visit the Terms Of Use and Privacy Policy section of the ShiftPlanning™ Website. Here you will be able to change any/all aspects of your personal status or opt-out of aspects of our service.</p>
-
-<b>Sale of Assets </b>
-
-<p>In the event that ShiftPlannning™ and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third party acquiring ShiftPlanning™ assets.</p>
-
-<b>Data Security </b>
-
-<p>When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. In addition to our online security efforts, we take reasonable steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Our main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our websites, you can send an email to <img src="http://www.shiftplanning.com/includes/functions/eimage.php" style="margin-bottom: -2px;">.</p>
-
-<b>Changes to the Privacy Policy </b>
-
-<p>ShiftPlanning™ will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When ShiftPlanning™ posts changes to this Policy, you will see a date depicting the last update of the policy on the top of this page. If there are material changes to this Policy or in how ShiftPlanning™ uses your personally identifiable information, ShiftPlanning™ will prominently post such changes prior to implementing the change. ShiftPlanning™ expects you to periodically review this Policy to be informed of how we are protecting your information. You may review our policy anytime as it will always be linked to our website.</p>
-
-<b>How does the Privacy Policy deal with Children?</b>
-
-<p>Children should always get permission from their parents before sending information about themselves (such as their names, email addresses, and phone numbers) over the Internet. We will not knowingly encourage any minor to register with our site or to access those features which require registration. If a child has provided us with personal information, we ask that any concerned parent or guardian of the child contact us.</p>
-
-<b>Use Common Sense in All Your Online Activities </b>
-
-<p>Even the best Privacy Policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your online activities.</p>
-<p>Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings.</p>
-<p>Anytime you visit a chat room or post a message to an online bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam). Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information.</p>
-
-<b>Contact Information</b>
-
-<p>If you have questions or concerns regarding this Policy, you should email ShiftPlanning Customer Service at <img src="http://www.shiftplanning.com/includes/functions/eimage.php" style="margin-bottom: -2px;">.</p>
-
-<b>Last Revised: July 23rd, 2010</b>	</section>
-</section>
-		<div style="display: none;">
-			<script type="text/javascript"> var google_conversion_id = 1034760016; var google_conversion_language = "en"; var google_conversion_format = "3"; var google_conversion_color = "666666"; var google_conversion_label = "eJGTCJj9hAIQ0N607QM"; var google_conversion_value = 0; </script>
-			<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+	<div style="clear: right;"></div>
+	<div class="navlinks">
+		<!-- <a href="http://www.shiftplanning.com/why/">Why ShiftPlanning?</a> -->
+		<a href="http://www.shiftplanning.com/tour/">Take the Tour</a>
+		<a href="http://www.shiftplanning.com/customers/">Success Stories</a>
+		<a href="http://www.shiftplanning.com/blog/">Blog</a>
+		<a href="http://www.shiftplanning.com/signup/" class="try">Pricing &amp; Sign-Up</a>
+	</div>
+			</div>
 		</div>
 
+		<div class="atf">
 		
-			<footer id="footer-main">
+			<div class="wrapper">
 
-				<section class="body">
+				<div class="effects"></div>
+			
+				<div class="in">
 
-					<ul class="footer-logo">
-						<li><a href="http://www.shiftplanning.com/" title="ShiftPlanning Homepage"><img src="http://static.shiftplanning.com/layout/images/footer_logo_35.png" width="156" height="33" alt="Shift Planning" class="footerLogo"></a></li>
-					</ul>
+					<img src="http://cdn.shiftplanning.com/layout/34/images/2011/wizard_business.png" class="_wizard">
+				
+					<h1>ShiftPlanning's Privacy Policy</h1>
+					<p>ShiftPlanning© takes your privacy seriously. We have developed the following Privacy Policy for your protection.</p>
 
-					<ul class="shift-planning-footer">
-						<li><h3>ShiftPlanning</h3></li>
-						<li><a href="http://www.shiftplanning.com/tour/" title="Product Tour">Tour</a></li>
-						<li><a href="http://www.shiftplanning.com/signup/" title="Pricing &amp; Sign-up">Pricing</a></li>
-						<li><a href="http://www.shiftplanning.com/support/" title="ShiftPlanning Support">Support</a></li>
-						<li><a href="http://www.shiftplanning.com/contact/" title="Contact ShiftPlanning">Contact US</a></li>
-						<li><a href="http://www.shiftplanning.com/free/" title="Free online employee scheduling">Account Setup</a></li>
-						<li><a href="http://www.shiftplanning.com/sitemap/" class="noPad">Site Map</a></li>
-					</ul>
+				</div>
 
-					<ul class="shift-planning-footer">
-						<li><h3>Quick Links</h3></li>
-						<li><a href="http://www.shiftplanning.com/blog/">Company Blog</a></li>
-						<li><a href="http://www.shiftplanning.com/about/">About Us</a></li>
-						<li><a href="http://www.shiftplanning.com/roadmap/">Road Map</a></li>
-						<li><a href="http://www.shiftplanning.com/api/">Data Api</a></li>
-						<li><a href="http://www.spgrab.com" target="_blank" title="Screenshot Sharing">Screenshot Sharing</a></li>
-					</ul>
-
-					<style> ul.shift-planning-footer li img.iphone { margin: 0 0 9px 0; } </style>
-					<ul class="shift-planning-footer">
-						<li><a href="/iphone/" title="ShiftPlanning iPhone App"><img src="http://static.shiftplanning.com/layout/images/shiftplanning_for_iphone.png" width="163" height="58" alt="Iphone Employee Scheduling" class="iphone"></a></li>
-						<li><a href="http://appworld.blackberry.com/webstore/content/44192?lang=en" title="ShiftPlanning BlackBerry App"><img src="http://static.shiftplanning.com/layout/images/shiftplanning_for_blackberry.png" alt="BlackBerry Employee Scheduling" width="163" height="57" class="iphone"></a></li>
-						<li><a title="ShiftPlanning Android App" href="https://market.android.com/details?id=com.ShiftPlanning&amp;feature=search_result"><img src="http://static.shiftplanning.com/layout/images/shiftplanning_for_android.png" width="163" height="57" alt="Android Employee Scheduling" class="iphone"></a></li>
-					</ul>
-
-					<ul class="extras">
-						<li><a href="http://www.shiftplanning.com/signup/"><img src="http://static.shiftplanning.com/layout/images/tryit_img_16.png" width="177" height="62" alt="Prices &amp; Sign Up - Free"></a></li>
-						<li>
-							<ul class="social-connects">
-								<li><a href="http://www.facebook.com/shiftplanning"><img src="http://static.shiftplanning.com/layout/images/faceBook_icon_25.png" width="32" height="32" alt="facebook"></a></li>
-								<li><a href="http://www.twitter.com/shiftplanning"><img src="http://static.shiftplanning.com/layout/images/twitter_icon_27.png" width="32" height="32" alt="twitter"></a></li>
-								<li><a href=""><img src="http://static.shiftplanning.com/layout/images/flicker_icon_29.png" width="32" height="32" alt="flicker"></a></li>
-								<li><a href="http://www.youtube.com/watch?v=rD0dTAT-4jo&amp;feature=player_embedded"><img src="http://static.shiftplanning.com/layout/images/youtube_icon_31.png" width="32" height="32" alt="you tube"></a></li>
-								<li class="noMar"><a href="http://feeds.feedburner.com/shiftplanning"><img src="http://static.shiftplanning.com/layout/images/rss_icon_33.png" width="32" height="32" alt="rss feed"></a></li>
-							</ul>
-						</li>
-						<li>
-							<ul class="terms">
-								<li><a href="http://www.shiftplanning.com/terms/">Terms of Use</a>l</li>
-								<li class="noMar"><a href="http://www.shiftplanning.com/privacy/" class="noPad">Privacy Policy</a></li>
-							</ul>
-							<ul class="rights">
-								<li>© 2011 ShiftPlanning.com <br>All Rights Reserved</li>
-							</ul>
-						</li>
-					</ul>
-
-				</section>
-
-			</footer>
-
+			</div>
+			
+		</div>
 		
-	
+		<div class="body_e">
+
+			<div class="in wfm">
+
+				<ol>
+					<li>This Policy applies to all ShiftPlanning© Websites ("Websites"). This Policy does not apply to other companies' or organizations' Websites to which we link. You should carefully review the privacy policies of those Websites in order to determine how they treat your personal information.</li>
+					<li>This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and your rights to update or correct it.</li>
+					<li>This policy does not apply to the practices of companies or Websites that ShiftPlanning© does not own or control, or to people that ShiftPlanning© does not employ or manage.</li>
+				</ol>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+			
+				<h2>Aggregate Data </h2>
+				
+				<p>We gather certain generic information with respect to users of our Website. Information may include number of unique visitors, the frequency with which they visit, and the areas on the Website that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in the aggregate, on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our users use certain parts of our Website, which, in turn, enables us to make it as appealing and user friendly as possible. We may also share aggregate data of users' collective use of our Website with advertisers, sponsors, and other companies with which we do business ("Affiliates" or "Business Partners"). We do this so they, too, can improve functionality and offer services and materials that users want.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+			
+				<h2>Cookies </h2>
+				
+				<p>We use "cookies" on our Website. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. Cookies tell our computer that you've visited before and help to make your visit more personal so you don't have to re-enter info on a return visit. Cookies also allow us to count the number of unique and return visitors who use our Website.</p>
+				<p>Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features like checking out (and participation in certain offerings) on our Website if you choose not to accept cookies. Cookies can also enable us to track and target the interests of our users to enhance their experience on our Website.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+							
+				<h2>IP Addresses </h2>
+				
+				<p>We collect and analyize traffic on our Website by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the Website; however, we do not link your IP address to any personally identifying information.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+							
+				<h2>Personalizing Your Experience on the Website </h2>
+				
+				<p>We try to personalize your experience on our Website by tracking shift requests, vacation requests, shift trade requests, vacation requests, etc. and other content you may have sent or received. From time to time, we may send you surveys or solicit your feedback. We use surveys to gage user interest in new products and premiums we may offer, as well as to try and enhance your experience with the Website, by creating additional services, or optimizing those services that already exist. We will ask for your feedback on many site features. We may also use the information to alert you to offers and products in which you may be interested in.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+							
+				<h2>Information Gathered From Members </h2>
+				
+				<p>If you elect to purchase a product on a ShiftPlanning© owned website, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There may also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part. Additional data may be collected from you based upon certain services you elect to utilize on our Website. By obtaining this information, we can provide our users with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a user; however, the omission of certain types of data will limit the value of your use of these features. If you become a user of our Website or from one of our affialted Website, we may share your registration information with the affiliates.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+							
+				<h2>Uses of Personal Information </h2>
+				
+				<p>If you have provided us your consent via opt-in subscription, we may use the information we have collected about you in five ways:</p>
+				
+				<ol>
+					<li>To send personalized, targeted information that we think our users will find relevant, either from ShiftPlanning© or directly from its Business Partners;</li>
+					<li>To support any of your requests like order processing;</li>
+					<li>To send promotions, offers, advertisements and coupons based on user interests;</li>
+					<li>To contact the user for feedback and surveys; and</li>
+					<li>To send the user other information about ShiftPlanning© or its Business Partners. These communications include but are not limited to e-mail, postal mail and SMS messages.</li>
+					<li>To respond to your questions or the comments that you fax or email to us;</li>
+					<li>To provide you with newsletters or other subscription information;</li>
+					<li>To distribute to sponsors and advertisers who run the promotions and/or for purposes of marketing by our sponsors and advertisers;</li>
+					<li>To run chatrooms, blogs, discussion groups and bulletin boards;</li>
+					<li>To gather aggregate information on website use and to provide services to the public of a general or specific nature, paid or unpaid.</li>
+				</ol>
+				
+				<p>All decisions we make involving Personal Information are based on accurate, complete and up-to-date information. We rely on you, however, to disclose all material information and to inform us of any relevant changes or corrections as they may relate to you. We encourage you to contact us as soon as possible, and we will make the appropriate reasonable corrections or amendments, upon receipt of appropriate evidence.</p>
+				<p>We will retain Personal Information only as long as is required for the purposes we describe and as is required under law. Once Personal Information is no longer required (or if you have opted-out or withdrawn your consent), it is our practice that it is destroyed, deleted or made anonymous.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+							
+				<h2>On-Site Advertising </h2>
+				
+				<p>ShiftPlanning© may also use information about you to target advertising while you are visiting our Website. We may use cookie files to assure that you will not be served the same ads repeatedly.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+							
+				<h2>Privacy of Website Information </h2>
+				
+				<p>This policy applies to all aspects of our Website, including your personalized messages, attached photos or graphics, or other personal content. We do not monitor or edit the contents of the online messages/ information you send. On occasion, however, we may need to view your messages in connection with the maintenance of our network.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+							
+				<h2>Disclosure Exceptions </h2>
+				
+				<p>Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:</p>
+				
+				<ol>
+					<li>To comply with legal process such as a search warrant, subpoena or court order;</li>
+					<li>To protect the company's rights and property;</li>
+					<li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;</li>
+					<li>To protect ShiftPlanning© against misuse or unauthorized use of our Website and/or the ShiftPlanning© service; or</li>
+					<li>During emergencies, such as when we believe someone's physical safety is at risk.</li>
+				</ol>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+							
+				<h2>Sale of Assets </h2>
+				
+				<p>In the event that ShiftPlannning© and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third party acquiring ShiftPlanning© assets.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+							
+				<h2>Data Security </h2>
+				
+				<p>When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. In addition to our online security efforts, we take reasonable steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Our main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our websites, you can send an email to <img src="http://www.shiftplanning.com/includes/functions/eimage.php" style="margin-bottom: -2px;">.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+							
+				<h2>Changes to the Privacy Policy </h2>
+				
+				<p>ShiftPlanning© will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When ShiftPlanning© posts changes to this Policy, you will see a date depicting the last update of the policy on the top of this page. If there are material changes to this Policy or in how ShiftPlanning© uses your personally identifiable information, ShiftPlanning© will prominently post such changes prior to implementing the change. ShiftPlanning© expects you to periodically review this Policy to be informed of how we are protecting your information. You may review our policy anytime as it will always be linked to our website.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+							
+				<h2>How does the Privacy Policy deal with Children?</h2>
+				
+				<p>Children should always get permission from their parents before sending information about themselves (such as their names, email addresses, and phone numbers) over the Internet. We will not knowingly encourage any minor to register with our site or to access those features which require registration. If a child has provided us with personal information, we ask that any concerned parent or guardian of the child contact us.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_e">
+
+			<div class="in">
+							
+				<h2>Use Common Sense in All Your Online Activities </h2>
+				
+				<p>Even the best Privacy Policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your online activities.</p>
+				<p>Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings.</p>
+				<p>Anytime you visit a chat room or post a message to an online bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam). Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information.</p>
+				
+			</div>
+
+		</div>
+
+		<div class="body_o">
+
+			<div class="in">
+			
+				<h2>Contact Information</h2>
+				
+				<p>If you have questions or concerns regarding this Policy, you should email ShiftPlanning Customer Service at <img src="http://www.shiftplanning.com/includes/functions/eimage.php" style="margin-bottom: -2px;">.</p>
+				
+				<h3>Last Revised: January 27th, 2010</h3>
+				
+			</div>
+
+		</div>
+
+		<div class="footer">
+
+	<div class="in">
+
+		<table>
+			<tbody><tr>
+				<td width="180"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_logo.png" class="footer_logo"></td>
+				<td width="25"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_menu_split.png"></td>
+				<td width="180">
+					ShiftPlanning					<br>
+					<a href="http://www.shiftplanning.com/why/">Why</a>
+					<br>
+					<a href="http://www.shiftplanning.com/tour/">Tour</a>
+					<br>
+					<a href="http://www.shiftplanning.com/signup/">Pricing</a>
+					<br>
+					<a href="http://www.shiftplanning.com/casestudies/">Case Studies</a>
+					<br>
+					<a href="http://www.shiftplanning.com/contact/">Contact Us</a>
+				</td>
+				<td width="25"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_menu_split.png"></td>
+				<td width="180">
+				    Quick Links				    <br>
+				    <a href="http://www.shiftplanning.com/blog/">Company Blog</a>
+				    <br>
+				    <a href="http://www.shiftplanning.com/about/">About Us</a>
+				    <br>
+				    <a href="http://www.shiftplanning.com/roadmap/">Road Map</a>
+				    <br>
+				    <a href="http://www.shiftplanning.com/api/">Data Api</a>
+				    <br>
+				    <a href="http://www.shiftplanning.com/sitemap/">Site Map</a>
+				</td>
+				<td width="25"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_menu_split.png"></td>
+				<td width="185">
+					<a href="http://www.shiftplanning.com/iphone/"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/shiftplanning_for_iphone.png"></a>
+					<br>
+					<a href="http://www.shiftplanning.com/mobile/"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/shiftplanning_for_android.png"></a>
+					<br>
+					<a href="http://www.shiftplanning.com/mobile/"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/shiftplanning_for_blackberry.png"></a>
+				</td>
+				<td width="25"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_menu_split.png"></td>
+				<td>
+					<a href="/signup/"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_tryitfree.png"></a>
+					<br>
+					<a href="http://www.facebook.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_facebook.png"></a>
+					<a href="http://www.twitter.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_twitter.png"></a>
+					<a href="/blog/"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_flickr.png"></a>
+					<a href="http://www.youtube.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_youtube.png"></a>
+					<a href="http://feeds.feedburner.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/footer_rss.png"></a>
+					<div class="legal">
+						<a href="http://www.shiftplanning.com/terms/">Terms of Use</a> &nbsp; &nbsp; | &nbsp; &nbsp;
+						<a href="http://www.shiftplanning.com/privacy/">Privacy Policy</a>
+						<br>
+						© 2011 ShiftPlanning.com<br>
+						All Rights Reserved					</div>
+				</td>
+			</tr>
+		</tbody></table>
+
+	</div>
+
+</div>
+<div class="pop_cont" style="display:none;">
+	<div class="pop">
+		<div class="title">
+			<a href="#" class="popClose"></a>
+			Select Your Language
+		</div>
+		<div class="content">
+			<ul class="languages">
+								<li>
+					<ul>
+											<li><a href="http://sq.shiftplanning.com/privacy/">Shqip<span><img src="http://www.shiftplanning.com/app/layout/images/flags/al.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://www.shiftplanning.com/privacy/">American English<span><img src="http://www.shiftplanning.com/app/layout/images/flags/us.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/human.png"></span></a></li>
+											<li><a href="http://be.shiftplanning.com/privacy/">Беларуская мова<span><img src="http://www.shiftplanning.com/app/layout/images/flags/by.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://bg.shiftplanning.com/privacy/">Български<span><img src="http://www.shiftplanning.com/app/layout/images/flags/bg.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://ca.shiftplanning.com/privacy/">Català<span><img src="http://www.shiftplanning.com/app/layout/images/flags/ad.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+										</ul>
+				</li>
+								<li>
+					<ul>
+											<li><a href="http://cn.shiftplanning.com/privacy/">繁体字<span><img src="http://www.shiftplanning.com/app/layout/images/flags/cn.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://tw.shiftplanning.com/privacy/">繁體字<span><img src="http://www.shiftplanning.com/app/layout/images/flags/tw.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://hr.shiftplanning.com/privacy/">Hrvatski<span><img src="http://www.shiftplanning.com/app/layout/images/flags/hr.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://cs.shiftplanning.com/privacy/">Čeština<span><img src="http://www.shiftplanning.com/app/layout/images/flags/cz.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://da.shiftplanning.com/privacy/">Dansk<span><img src="http://www.shiftplanning.com/app/layout/images/flags/dk.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+										</ul>
+				</li>
+								<li>
+					<ul>
+											<li><a href="http://nl.shiftplanning.com/privacy/">Nederlands<span><img src="http://www.shiftplanning.com/app/layout/images/flags/nl.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://et.shiftplanning.com/privacy/">Eesti keel<span><img src="http://www.shiftplanning.com/app/layout/images/flags/ee.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://tl.shiftplanning.com/privacy/">Filipino<span><img src="http://www.shiftplanning.com/app/layout/images/flags/ph.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://fi.shiftplanning.com/privacy/">Suomi<span><img src="http://www.shiftplanning.com/app/layout/images/flags/fi.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://fr.shiftplanning.com/privacy/">Français<span><img src="http://www.shiftplanning.com/app/layout/images/flags/fr.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+										</ul>
+				</li>
+								<li>
+					<ul>
+											<li><a href="http://ka.shiftplanning.com/privacy/">ქართული<span><img src="http://www.shiftplanning.com/app/layout/images/flags/ge.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://de.shiftplanning.com/privacy/">Deutsch<span><img src="http://www.shiftplanning.com/app/layout/images/flags/de.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://hu.shiftplanning.com/privacy/">Magyar<span><img src="http://www.shiftplanning.com/app/layout/images/flags/hu.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+											<li><a href="http://is.shiftplanning.com/privacy/">Íslenska<span><img src="http://www.shiftplanning.com/app/layout/images/flags/is.png"><img src="http://cdn.shiftplanning.com/layout/34/images/2011/robot.png"></span></a></li>
+										</ul>
+				</li>
+								
+			</ul>
+			<div class="foot">
+								<span class="robot">Machine Translation</span>
+				<span class="human">Human Translation</span>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('.pop_cont .popClose').click(function(){
+			$('.pop_cont').fadeOut(500);
+		});
+		
+		$('.langChooser').click(function(){
+			$('.pop_cont').fadeIn(500);
+		});
+		
+		$('.langSugDontShow').click(function(e){
+			e.preventDefault();
+			var exdate=new Date();
+			exdate.setDate(exdate.getDate()+365);
+			document.cookie = 'doNotShowLanguageSuggestion=1; expires='+exdate.toUTCString();
+			$('.langSug').hide(500);
+		});
+	});
+</script>
+
+	</div>
+
+
+
+
 </body></html>
