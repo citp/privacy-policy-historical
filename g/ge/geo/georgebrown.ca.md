@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212221403id_/http%3A//www.georgebrown.ca/policies/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604002211id_/http%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_George Brown College (George Brown) is collecting the personal information requested under the authority of and for activities authorized by the Ontario Colleges of Applied Arts and Technology Act, 2002._
+ 
 
-_This information will only be used by George Brown or its agents for the purposes specified and will not be sold or otherwise disclosed._
+ _George Brown College (George Brown) is collecting the personal information requested under the authority of and for activities authorized by the Ontario Colleges of Applied Arts and Technology Act, 2002._  
 
-_If you have any questions or concerns related to Freedom of Information (FOI) and Protection of Privacy, please contact the FOI Coordinator for the college at 416-415-5000, ext: 4646._
+_This information will only be used by George Brown or its agents for the purposes specified and will not be sold or otherwise disclosed._  
 
-## **George** Brown College **Web Privacy Policy**
+_If you have any questions or concerns related to Freedom of Information (FOI) and Protection of Privacy, please contact the FOI Coordinator for the college at 416-415-5000, ext: 4646._  
+
+## **George**  Brown College **  Web Privacy Policy**
 
 Respecting the privacy and confidentiality of your personal information is important to George Brown College. This Website Privacy Policy explains how George Brown College collects, uses and discloses your personal information on the George Brown College website (the “Website”).
 
@@ -24,11 +26,11 @@ Personal information is information about an identifiable individual, not includ
 George Brown College collects, uses and discloses your personal information with your knowledge and consent and only for purposes that we have identified prior to or at the time we collect the information. Some of the purposes for which George Brown College may collect, use and disclose your personal information on this Website are:
 
   * To facilitate communication with you
-  * To grant you/enable you to access certain special features or areas of the Website
+  * To grant you/enable you to access certain special features or areas of the Website 
   * To process any of your requests for information
   * To make available to you through the Website certain services
   * To permit you to subscribe to an E-mail List to receive information
-  * To administer participation in contests __
+  * To administer participation in contests __ 
   * To announce special events
 
 
@@ -47,7 +49,7 @@ The Website uses cookie technology to make your use of the Website more convenie
 If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website.
 
 **E-mail list**  
-The Website allows you to provide us with your e-mail address in order that we may send you information and updates about George Brown College. In order to administer the E-mail List we will collect your name, e-mail address, geographical location, school or work status and areas of interest for communication purposes. 
+The Website allows you to provide us with your e-mail address in order that we may send you information and updates about George Brown College. In order to administer the E-mail List we will collect your name, e-mail address, geographical location, school or work status and areas of interest for communication purposes.
 
 **E-mail to a friend**  
 The Website may periodically allow you to provide an e-mail address of a friend and personal information about your friend. The Website will send new stories, links, e-cards, or other information to the friend’s e-mail address. We will assume that, to the extent that we are provided the e-mail address of your friends, you have the consent of your friend to provide us with their e-mail address. We will also assume that you have consented to the friend having your e-mail address. In order to administer this option, we may collect your name, e-mail address, any comments that you provide, as well as the e-mail address of your friend.
@@ -62,14 +64,8 @@ The Website contains links to other websites. When you click on of those links, 
 The Website endeavours to maintain appropriate procedural and technological measures and storage facilities to prevent any unauthorized use or disclosure of your personal information. We exercise care in the secure transmission of your information, however no transmission of information over the internet is one hundred percent secure. We cannot guarantee that information disclosed through the internet cannot be intercepted by third parties. However, George Brown College takes all reasonable precautions available to protect any personal information that is provided to it through the Website including, disposal or destruction of this information.
 
 **Contacting us about your privacy**  
-You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at [website@georgebrown.ca](mailto:website@georgebrown.ca). George Brown College attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information. If you have any questions about this Privacy Policy, you may contact our privacy officer at the following address: [dhall@georgebrown.ca](mailto:dhall@georgebrown.ca)
+You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at [website@georgebrown.ca](mailto:website@georgebrown.ca). George Brown College attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information. If you have any questions about this Privacy Policy, you may contact our privacy officer at the following address: [dhall@georgebrown.ca](mailto:dhall@georgebrown.ca) 
 
 This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to George Brown College’s collection, use and disclosure of your personal information in accordance with this or any revised Privacy Policy.
 
 This version of the Web Privacy Policy has been in effect since June 2009.
-
-  
-_Revised: March 29, 2011 _  
-
-
-[](http://validator.w3.org/check/referer)
