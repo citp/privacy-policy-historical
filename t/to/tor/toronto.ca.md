@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toronto.ca privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006204256id_/http%3A//www.toronto.ca/get_connected/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toronto.ca privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131246id_/http%3A//www.toronto.ca/get_connected/privacy_statement.htm) for the most accurate reproduction.*
 
 # The City of Toronto: Privacy and security statement
 
@@ -44,7 +44,7 @@ The City’s website uses persistent cookies to improve users’ experience by r
 
 You have the ability to accept or decline cookies. All Web browsers automatically accept cookies, but you can modify your browser settings to decline cookies if you prefer.
 
-By declining cookies, use other interactive features or online services that depend on cookies will not function as intended. If you choose to accept cookies, all browsers offer the ability to later delete cookies that you have accepted. If you choose to delete cookies, any settings and preferences controlled by those cookies will be deleted and may need to be recreated.
+By declining cookies, use of interactive features or online services that depend on cookies will not function as intended. If you choose to accept cookies, all browsers offer the ability to later delete cookies that you have accepted. If you choose to delete cookies, any settings and preferences controlled by those cookies will be deleted and may need to be automatically recreated upon a return visit.
 
 **Comments?**  
 We welcome any comments and suggestions about this site. Please contact us at [webdevelopers@toronto.ca](mailto:webdevelopers@toronto.ca) or visit [toronto.ca/comment](http://www.toronto.ca/comment).
