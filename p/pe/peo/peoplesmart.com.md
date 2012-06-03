@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226121549id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603223726id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - PeopleSmart
 
@@ -55,10 +55,9 @@ In an effort to protect against fraud and misuse of our Website and Services, we
 
 ## How You Can Contact Us About Privacy Questions
 
-If you have questions or concerns regarding this policy, you should contact us by writing to us at PeopleSmart.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. PeopleSmart.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. 
+If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@peopesmart.com](mailto:privacy@peopesmart.com), calling 1-888-813-0008 or writing to us at PeopleSmart.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. PeopleSmart.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. Please do not write us for opt-out requests, but instead use our [online form](http://www.peoplesmart.com/optout).
 
-Privacy Department  
-P.O. Box 391146  
-Omaha, NE 68139
+## To Unsubscribe from Email Communications
 
-(Please do not write to us for opt-out requests, but instead use our [online form](http://www.peoplesmart.com/optout).)
+If you would like to stop receiving newsletters and marketing message emails from PeopleSmart.com, please provide us with the email address you would like to unsubscribe by emailing [privacy@peopesmart.com](mailto:privacy@peopesmart.com) or calling   
+1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
