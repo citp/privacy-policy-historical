@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228073056id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603051234id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
 
 # Security & privacy on the Cashplus prepaid card site. Contact us | Cashplus
 
@@ -81,6 +81,8 @@ We'll never send emails to you requesting security or any other confidential inf
 
 ## Cookies Policy
 
+APS Group is committed to ensuring that all site visitors' privacy is protected and that they have a positive experience on the APS Group sites. APS does not put personal information in our cookies and the majority of cookies are there to support processes and will expire when the browser is closed. Any persistent cookies are to improve user experience. 
+
 ### What is a cookie?
 
 A cookie is a text-only string of data, which often includes a random unique identifier that is sent to your computer or mobile phone browser from a website's computer and is stored on your device. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows. 
@@ -89,11 +91,11 @@ On the APS Group's websites (APS), we may use cookies to record information abou
 
 If cookies are enabled then during the course of any visit to an APS' website, the pages you see, along with a cookie, are stored to your device. On a repeat visit the APS website may check to see, and find, any cookie left there on the last visit to enable us to present personalised feature. APS might also look at IP addresses to add general information about the country, city or region in which you are located, along with your domain name (e.g. what internet service provider you use) 
 
-There are two types of cookies that may be used across the APS suite of websites:
+There are two types of cookies that may be used across all APS Group websites:
 
 _Session Cookies_
 
-These are temporary cookies that remain in the cookie file of your browser until you close the browser. They enable information to be maintained across pages of our site and avoid you having to re-enter information. 
+These are temporary cookies that remain in the cookie file of your browser until you close the browser. They enable information to be maintained across pages of our site pursuant to providing you with a better experience. These cookies cannot personally identify you and they will expire when you close down your browser. 
 
 _Persistent Cookies_
 
@@ -102,6 +104,10 @@ These remain in the cookie file of your browser for much longer (though how long
 Cookies cannot be used by themselves to identify you. It is important to note that at no time will we or our service providers attempt to identify you individually during your access of our general websites, and at no time do we know who you are or what pages you individually have been looking at - we simply aggregate the relevant information to create the market segments of groups of people. 
 
 The exception to this is within our secure websites - our secure banking site (Members Area) and our Online Application site - where we have to securely identify you and track your usage to protect your account. However the cookies themselves do not contain any personal or identifiable information. 
+
+_Google Ad-Preferences_
+
+Google sets a cookie on your browser that anonymously captures your interests allowing their advertising partners to present products and services on their websites that are relevant to you. Google are in full control of these cookies. You can change your Google Ad-Preferences or find out more about Google Ad-Preferences by visiting: [www.google.com/ads/preferences/](http://www.google.com/ads/preferences "Google Ad-Preferences")
 
 ### Why does APS use cookies?
 
@@ -114,13 +120,22 @@ APS group also use a number of independent measurement and research companies. T
 Authorised Third Parties serve cookies via our sites, under our direct control. These are used for the following purposes: 
 
   * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
-  * To serve advertisements on our site and track whether these advertisements are clicked on by users.
 
 
 
-For more information and to opt-out of cookies used for this purpose please visit the Omniture Visual Sciences Privacy Centre: [Adobe® SiteCatalyst® HBX Products and Services Privacy Statement](https://documents.hitbox.com/optout.html "Omniture Visual Sciences Privacy Centre")
+### Control Cookie Settings
 
-If you wish to immediate remove these cookies then please go to the [SiteCatalyst HBX Cookie Opt-Out tool](http://www.omniture.com/privacy/visualsciences/policy "SiteCatalyst Cookie Opt-Out tool"). 
+Majority of browsers will have a default 'medium' cookie setting, allowing 1st party cookies but blocking 3rd party cookies. You can change your cookie settings via your browser through the following paths:
+
+  * Internet Explorer: Tools > Internet Options > Privacy
+  * Firefox: Tools > Options > Privacy
+  * Google Chrome: Settings > Under the Bonnet > Privacy
+
+
+
+To opt-out of authorised third party cookies on this website please visit the Omniture Visual Sciences Privacy Centre: [Adobe® SiteCatalyst® HBX Products and Services Privacy Statement](http://www.omniture.com/privacy/visualsciences/policy "Omniture Visual Sciences Privacy Centre")
+
+If you wish to immediately remove these cookies then please go to the [SiteCatalyst HBX Cookie Opt-Out tool](https://documents.hitbox.com/optout.html "SiteCatalyst Cookie Opt-Out tool"). 
 
 ## Phishing
 
