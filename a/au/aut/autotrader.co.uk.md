@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213020417id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603055506id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
 
@@ -44,7 +44,12 @@ A quote or brochure**
 When you request a quote or a brochure we will require you to supply your name, e-mail address, postal address and telephone number. 
 
 **  
-Use of information**
+Video Chat Service  
+**
+
+If you use the video chat service (“Video Chat Service”), you may disclose personal information in the course of using the service. All conversations and email exchanges are recorded.
+
+ **Use of information**
 
 **  
 Test Drive**
@@ -59,13 +64,18 @@ A quote or brochure**
 Your contact details are collected in order for us to pass your details on to third party dealers and vehicle or bike manufacturers who will send you a quote or brochure via email and/or post.
 
 **  
-Who we may disclose information to**
+Video chat service**
+
+Any personal information that you disclose during a video chat or via an online form will be accessible to and processed by the third party supplier of the Video Chat Service and to the dealer with whom you communicate as well as being made available to Auto Trader.
+
+ **Who we may disclose information to**
 
 **  
 We may disclose your personal information to third parties as follows:**
 
-  
-a) We will send your personal information to dealers, vehicle manufacturers, bike manufacturers and relevant third parties to enable them to provide you with the services and products that you have requested on the New Car Website or New Bike Website, e.g. a test drive, quotation or brochure. In certain circumstances, vehicle manufacturers (including Ford Motor Company Limited) or bike manufacturers may transfer and store your personal information outside of the European Economic Area for business and administration purposes; 
+a) We will send your personal information to dealers, vehicle manufacturers, bike manufacturers and relevant third parties to enable them to provide you with the services and products that you have requested on this website, the New Car Website or New Bike Website, e.g. a test drive, quotation, brochure or Video Chat Service. In certain circumstances, vehicle manufacturers (including Ford Motor Company Limited) or bike manufacturers and other relevant third parties may transfer, process and store your personal information outside of the European Economic Area for business and administration purposes; 
+
+The Video Chat Service provider may use computer infrastructure which is situated outside of the European Economic Area.  You consent to any personal data disclosed in the course of using the Video Chat Service being processed and stored by the Video Chat Service provider on its systems outside the European Economic Areas.
 
 b) We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the EEA.  Some of our webpages use plugins from third party platforms (such as the 'Facebook Recommend' or ‘Facebook Gestures’ function). Information about your visit to the Website may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
 
@@ -95,7 +105,7 @@ On occasions Trader Media Group run promotions in which personal information is 
 We have taken measures to ensure that information supplied to us is held securely. As a consequence - we may occasionally request proof of identity before allowing access to your personal information.
 
   
-For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the Police, other public or private sector agencies or representative bodies in accordance with the relevant legislation. This will include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies.  Information shared in this way will not be used for marketing purposes. 
+For the purposes of the prevention or detection of offences, and/or the apprehension or prosecution of offenders, we may share any information that we collect with the Police, other public or private sector agencies, governmental or representative bodies in accordance with the relevant legislation. This will include public authorities, insurance companies, finance companies, automotive advertising companies and/or other agencies.  Information shared in this way will not be used for marketing purposes. 
 
   
 You have the right to access all personal information supplied to Auto Trader and rectify any inaccuracies on the information held. Further enquiries should be made to [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk) or sent to Customer Services, Trader Media Group, Willow House, 1 Woodlands Park, Ashton Road, Newton Le Willows WA12 0HE. 
@@ -240,6 +250,12 @@ Google Adsense**
 
   
 We use third-party advertising companies to serve ads when you visit our Website. These companies may also use cookies, over which we have no control.  These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+
+  
+**Video Chat Service  
+**
+
+We use a third party supplier to provide the Video Chat Service.  The supplier may use cookies, over which we have no control.  The cookies are used to manage your video chat session, to track your preferences and to personalise your experience.  You may disable persistent cookies.  However, if you disable the session cookie you will not be able to use the Video Chat Service.  If you wish to find out more about the supplier’s use of cookies please refer to their privacy policy at <http://www.contactatonce.com/service/serviceprivacy.html>
 
 **  
 Automatic Logging of Session Data**
