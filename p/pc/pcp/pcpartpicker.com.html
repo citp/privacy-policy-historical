@@ -1,0 +1,238 @@
+<!--The following is the downloaded HTML source of the pcpartpicker.com privacy policy that was archived on 2012-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604010245id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta property="og:title" content="PCPartPicker - Pick Parts. Build Your PC. Compare and Share.">
+	<meta property="og:site_name" content="PCPartPicker">
+	<meta property="og:url" content="http://pcpartpicker.com/">
+	<meta property="fb:page_id" content="128672553854009">
+	<title>PCPartPicker Privacy Policy - PCPartPicker</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://pcpartpicker.com/blog/rss.xml">
+	<!-- XMX_ -->
+	<link rel="shortcut icon" href="/favicon.png">
+	
+	<link rel="stylesheet" type="text/css" href="/static/forever/hash/site-833e0f9b3ae326d9ff03c6409d698e90.css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/forever/hash/site-aea2c1bc82cb04d793418a90d75e819c.js"></script>
+	<!--[if lte IE 8]>
+	<script language="javascript" type="text/javascript" src="/static/forever/js/flot-0.7/excanvas.min.js"></script>
+	<![endif]-->
+	
+	<!-- _XMX -->
+	<!--
+		Since you took the time to look at the page source,
+		here's an ascii art rendition of a famous spider (1).
+		And for what it's worth, PCPartPicker pays its server bills
+		on time and with real money rather than renditions of spiders.
+		Seriously, you're still reading this?
+ 
+                                           @@@@@@@@@@@
+                                         @@
+                              @@@@@@@@ @@       @@@@
+                             @@@@@@@@@@@@@@  @@@    @@@@
+                      @@@@@@@@@@@@@@@@@@@@@@@           @@@@
+                    @@       @@@@@@@@@@@@@@@@@ @@@@@@@      @@
+                  @@          @@@@@@@@@ @@ @@@@       @@
+                        @@@@@@@@@@@@@@@@@@@@@@@         @@
+                    @@@@       @@@@@@@ @@@ @@@@           @@
+                  @@         @@@@@@@@@@   @@@@              @@
+                @@         @@     @@@@@@@@@@@                 @@
+                          @@        @@@@@@                      @
+                         @@         @
+                        @@          @
+                       @@           @
+                       @            @ 
+                       @            @ 
+                                     @
+                                     @
+		
+		(1) www.27bslash6.com/overdue.html
+	 -->
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+			init_live_search("us");
+			
+			$("#country_select").change(function(){
+				var ccabbr = $("#country_select").val();
+				if (ccabbr != "us") {
+					var p = window.location.pathname;
+					var c = p.substr(0,4);
+					if (c == "/au/" || c == "/ca/" || c == "/de/" || c == "/fr/" || c == "/jp/" || c == "/nz/" || c == "/uk/" || c == "/us/")
+						p = p.substr(3);
+					if (ccabbr != "us")
+						p = "/" + ccabbr + p;
+					window.location.assign(window.location.protocol + "//" + window.location.host + p + window.location.search + window.location.hash);
+				}
+			});
+			$(".ajax_post_link").click(function() { $(this).parent().submit(); return false; });
+			
+		});
+
+	</script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-16428016-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div class="container_16" id="wrapper">	
+		<div class="grid_5" id="logo"><a href="/"><img src="/static/forever/images/logo.png" alt="PCPartPicker"></a></div>
+		<div class="grid_11" id="header_nav">
+			<div id="header_login">
+
+				<a href="/accounts/login/?next=/privacy/">Log In</a> | <a href="/accounts/register/">Register</a>
+
+				
+				|
+				<select id="country_select">
+					
+					<option value="au">Australia</option>
+					
+					<option value="ca">Canada</option>
+					
+					<option value="de">Deutchland</option>
+					
+					<option value="fr">France</option>
+					
+					
+					
+					<option value="nz">New Zealand</option>
+					
+					<option value="uk">United Kingdom</option>
+					
+					<option value="us" selected="selected">United States</option>
+					
+				</select>
+				
+			</div>
+			<div id="header_links">
+
+
+				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fpcpartpicker&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" style="border:none; margin-bottom:-6px; overflow:hidden; width:100px; height:20px;" allowtransparency="true" class="ui-corner-all"></iframe>
+
+				<a href="/blog/">Blog</a> |
+				<!-- <a href="/guided/">Buying Guide</a> | -->
+				<a href="/parts/pricedrop/">Price Drops</a> |
+				<a href="/user_r/saved/" rel="nofollow">Saved Builds</a>
+
+
+				| <form action="/search/" method="get" style="display:inline !important;">
+				<input id="search_q" type="text" name="q" size="16" autocomplete="off" style="display:inline !important;">
+				<input id="search_go" type="submit" value="Go">
+				</form>
+				<div id="search_result"></div>
+
+			</div>
+		</div>
+		<div class="grid_16" id="header">
+			<div class="menubar">
+				<ul class="group">
+					<li class="item firstandlast" style="margin-right:12px;"><a style="width:118px;" href="/parts/partlist/"><span class="outer"><span class="inner partlist">System Build</span></span></a></li>
+					<li class="item first"><a href="/parts/cpu/"><span class="outer"><span class="inner cpu">CPU</span></span></a></li>
+					<li class="item middle"><a href="/parts/motherboard/"><span class="outer"><span class="inner motherboard">Motherboard</span></span></a></li>
+					<li class="item middle"><a href="/parts/memory/"><span class="outer"><span class="inner memory">Memory</span></span></a></li>
+					<li class="item middle"><a href="/parts/internal-hard-drive/"><span class="outer"><span class="inner internalharddrive">Hard Drive</span></span></a></li>
+					<!--<li class="item middle"><a href="/parts/solid-state-drive/" ><span class="outer"><span class="inner solidstatedrive">SSD</span></span></a></li>-->
+					<li class="item middle"><a href="/parts/video-card/"><span class="outer"><span class="inner videocard">Video Card</span></span></a></li>
+					<li class="item middle"><a href="/parts/power-supply/"><span class="outer"><span class="inner powersupply">Power Supply</span></span></a></li>
+					<li class="item middle"><a href="/parts/case/"><span class="outer"><span class="inner case">Case</span></span></a></li>
+					<li class="item last" style="margin-right:12px;"><a href="/parts/monitor/"><span class="outer"><span class="inner monitor">Monitor</span></span></a></li>
+					<li class="item firstandlast"><a style="width:118px;" href="/benchmarks/"><span class="outer"><span class="inner benchmarks">Benchmarks</span></span></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="grid_16">
+			<div id="tabs">
+				 <div class="container" style="position:relative;">
+	
+				 	<h1 style="margin:0px;padding:0px;position:absolute;bottom:2px;left:10px;color:#fff;font-size:18px;">PCPartPicker Privacy Policy</h1>
+	
+	
+&nbsp;
+	
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="grid_16" id="content">
+	
+
+	<div class="grid_15" id="textcontent">
+<p>
+Your privacy is important to us. At PCPartPicker we have a few fundamental principles:
+</p>
+<p>
+</p><ul>
+<li>We don’t ask you for personal information unless we truly need it.</li>
+<li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
+<li>We don’t send unsolicited email, nor do we share your email address with third parties.</li>
+<li>We don’t store personal information on our servers unless required for the on-going operation of one of our services.</li>
+</ul><p></p>
+<p>
+PCPartPicker, LLC (“PCPartPicker”) operates pcpartpicker.com. It is PCPartPicker’s policy to respect your privacy regarding any information we may collect while operating our website.
+</p>
+<p>
+<b>Website Visitors</b>
+<br>
+Like most website operators, PCPartPicker collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PCPartPicker’s purpose in collecting non-personally identifying information is to better understand how PCPartPicker’s visitors use its website. From time to time, PCPartPicker may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+</p>
+<p>
+PCPartPicker also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on the PCPartPicker website. PCPartPicker only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the PCPartPicker website.
+</p>
+<p>
+<b>Gathering of Personally-Identifying Information</b>
+<br>
+Certain visitors to PCPartPicker’s websites choose to interact with PCPartPicker in ways that require PCPartPicker to gather personally-identifying information. The amount and type of information that PCPartPicker gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at the PCPartPicker website to provide a username and email address.  PCPartPicker collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with PCPartPicker. PCPartPicker does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+</p>
+<p>
+<b>Aggregated Statistics</b>
+<br>
+PCPartPicker may collect statistics about the behavior of visitors to its websites. PCPartPicker may display this information publicly or provide it to others. However, PCPartPicker does not disclose personally-identifying information other than as described below.
+</p>
+<p>
+<b>Protection of Certain Personally-Identifying Information</b>
+<br>
+PCPartPicker discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PCPartPicker’s behalf or to provide services available at PCPartPicker’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PCPartPicker’s website, you consent to the transfer of such information to them. PCPartPicker will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, PCPartPicker discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when PCPartPicker believes in good faith that disclosure is reasonably necessary to protect the property or rights of PCPartPicker, third parties or the public at large. PCPartPicker takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+</p>
+<p>
+<b>Cookies</b>
+<br>
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. PCPartPicker uses cookies to help PCPartPicker identify and track visitors, their usage of PCPartPicker website, and their website access preferences. PCPartPicker visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using PCPartPicker’s websites, with the drawback that certain features of PCPartPicker’s websites may not function properly without the aid of cookies.
+</p>
+<p>
+<b>Business Transfers</b>
+<br>If PCPartPicker, or substantially all of its assets were acquired, or in the unlikely event that PCPartPicker goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PCPartPicker may continue to use your personal information as set forth in this policy.
+</p>
+<p>
+<b>Privacy Policy Changes</b>
+<br>Although most changes are likely to be minor, PCPartPicker may change its Privacy Policy from time to time, and in PCPartPicker’s sole discretion. PCPartPicker encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+</p>
+<p>
+<b>Cookies</b>
+<br>Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+</p>
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="container_16" id="footer">
+		<a href="/about/">About</a> | <a href="/contact/">Contact</a> | <a href="/merchants/">Merchants</a> | <a href="/tos/">Terms of Use</a> | <a href="/privacy/">Privacy Policy</a>
+		<br>&nbsp;
+		<br>©2012 PCPartPicker, LLC.  All rights reserved.
+
+	</div>
+	
+	
+
+
+</body></html>
