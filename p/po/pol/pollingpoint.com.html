@@ -1,47 +1,54 @@
-<!--The following is the downloaded HTML source of the pollingpoint.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229231054id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pollingpoint.com privacy policy that was archived on 2012-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604010520id_/http%3A//today.yougov.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-        <meta charset="utf-8">
-        <title>YouGov US Panel Privacy Policy | 
-                    
-                        YouGov US Panel Privacy Policy
-                    
-                
-
-                | YouGov US Opinion Center</title>
-
+<!DOCTYPE html><html class="no-yjs js generatedcontent" lang="en-us"><!--<![endif]--><head>
         
-        <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.ico">
-        <link href="/static/css/main.css" rel="stylesheet" type="text/css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        
+        <title>YouGov US Opinion Center</title>
+        
+            
+            
+        
+        <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.e2f529823c55.ico">
+        <link href="/static/css/cumulus-core.0118839d0fd9.css" rel="stylesheet" type="text/css">
+        <link href="/static/css/main.b3d9cb90ef19.css" rel="stylesheet" type="text/css">
         <link href="" rel="alternate" type="applicaton/atom+xml">
         
-
+        
+        
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
-        <script src="/static/js/jquery.scrollTo.js" charset="utf-8"></script>
+        <script src="/static/js/jquery.scrollTo.be8584ae8427.js" charset="utf-8"></script>
+        <script src="/static/js/modernizr.custom.2ef282748fd2.js" charset="utf-8"></script>
+        <script src="/static/js/mediaqueries.61e460e9be68.js" charset="utf-8"></script>
+        <script src="/static/js/cumulus-notifications.3d153db26394.js" charset="utf-8"></script>
 
         
 
 <script>
-    
-        // For Google Analytics
 
-        function openUrl(href, target) {
-            if (target.toLowerCase() == '_blank') {
-                window.open(href);
-            } else {
-                window.location = href;
-            }
+    function trackEvent(category, action, label) {
+        if (typeof(_gat) == 'object') {
+            _gat._getTrackerByName()._trackEvent(category, action, label);
         }
+    }
 
-        function recordOutboundLink(link, category, action, label) {
-            if (typeof(_gat) == 'object') {
-                _gat._getTrackerByName()._trackEvent(category, action, label);
-            }
-            setTimeout(openUrl(href, target), 100);
+    // For Google Analytics
+
+    function openUrl(href, target) {
+        if (target.toLowerCase() == '_blank') {
+            window.open(href);
+        } else {
+            window.location = href;
         }
-    
+    }
+
+    function recordOutboundLink(link, category, action, label) {
+        trackEvent(category, action, label);
+        setTimeout(openUrl(link.href, link.target), 100);
+    }
             
 // for search box to clear input text field
 var searchBoxActions = {
@@ -60,7 +67,7 @@ var searchBoxActions = {
         }
 }
 
-var messageBoxActions ={
+var messageBoxActions = {
         
         hideIfEmpty: function (element) 
         {
@@ -92,38 +99,78 @@ window.location.querystring = function(key) {
     return queryObj[key];
 }
 
-$(document).ready(function() {
+//** FUNCTION: Apply the Thumpy image resizing feature via image src swap.
+// src = Image's src. Duh. 
+// thumpyParams = example: 'w=280&ch=100' Any Thumpy-accepted parameter.
+function thumpyTize(src, thumpyParams){
+    // use the src of our images and impose the Thumpy on them!
+    // Get CDN url's from settings.py
+    var thumpyOverrideURL = '//d18lkz4dllo6v2.cloudfront.net/';
+    var currentImgURL = src;
+        if(entryCloudURL == '' || thumpyOverrideURL == ''){
+            $.error('Thumpy Script exception: URLS not correctly defined in settings configuration!');
+        }else{
+            var entryCloudURL = '//d25d2506sfb94s.cloudfront.net/';
+            currentImgURL = currentImgURL.slice(entryCloudURL.length, currentImgURL.length);
+            currentImgURL = thumpyOverrideURL+thumpyParams+'/'+currentImgURL;
+            return currentImgURL;
+        }
+
+};
+
+$(document).ready( function() {
+    //** THUMPY-TIZE DEM IMAGES!
+    //note: we must hide then re-show the image to prevent jumping ugliness.
+    // Images are hidden in the CSS.
+    $('img.article-img').each(function() {
+        $(this).attr('src', thumpyTize($(this).attr('src'), 'w=285&ch=100'))
+            .show();
+    });
+
+    $('img.featuredPic').each(function(){
+        $(this).attr('src', thumpyTize($(this).attr('src'), 'w=274'))
+            .show();
+    });
+
+    $('.redemptionItem .imageContainer img').each(function(){
+        $(this).attr('src', thumpyTize($(this).attr('src'), 'w=120'))
+            .show();
+    });  
+
+    // Thumpy-tize CMS pictures 
+    $('img.thumpy').each(function(){
+            var parentWidth = $(this).closest('div').width();
+            $(this).attr('src', thumpyTize($(this).attr('src'), 'w='+parentWidth)).show();
+    });
+    // ** END THUMPY-TIZED IMAGES.
 
     //Main menu hover binding
     $('.mainMenu li').not('.mainMenu li ul li').hover(
         function(){
-            if($(this).hasClass('current')== false){
+            if($(this).hasClass('current')== false && $(this).children('ul').length >= 1){
                 $('.mainMenu li').not($(this))
                         .not('.mainMenu li ul li')
-                        .not('.mainMenu li ul')
-                        .css('height', '20px');
-                $(this).css('height', '25px');
+                        .not('.mainMenu li ul');
                 $('.mainMenu li ul').hide();
                 $(this).children('ul')
                     .delay(100)
-                    .css({'opacity': 0})
                     .show()
-                    .animate({opacity: 1}, 200);
+                    .find('li').css('opacity', 0).animate({opacity: 1}, 200, function(){
+                    });
+
             }
         },
         function(){
-            if($(this).hasClass('current')== false){
+            if($(this).hasClass('current')== false && $(this).children('ul').length >= 1){
                 $(this).clearQueue();
-                $(this).css('height', '20px');
                 $(this).children('ul')
-                    .delay(300)
+                    .delay(200)
                     .hide();
                 $('.mainMenu li.current ul')
-                    .delay(100)
-                    .css({'opacity': 0})
                     .show()
-                    .animate({opacity: 1}, 300);
-                $('.mainMenu li.current').css('height', '25px');
+                    .find('li').css('opacity', 0).animate({opacity: 1}, 100, function(){
+                    });
+                
             }
         }
     );
@@ -140,26 +187,6 @@ $(document).ready(function() {
         $('#searchBox').attr('value', search_query);
     }
 
-    // Add action to the "dismiss" links in messages
-    var msg_list = $('#messages ul');
-    if (msg_list.children().length == 1) {
-        $('#messages li.error').parent().parent().delay(1000).effect('pulsate', {times: 2});
-    } else {
-        $('#messages li.error').delay(1000).effect('pulsate', {times: 2});
-    }
-
-    $('#messages .dismiss a').click(function() {
-        //fade out <li> that contains link, then remove from DOM entirely
-        if (msg_list.children().length == 1) {
-            messageBoxActions.hideAndSlide($('#messages'), function() {
-                $(this).remove();
-            });
-        }
-
-        messageBoxActions.hideAndSlide($(this).parent(), function() {
-            $(this).remove();
-        });
-    });
 
     $('a[href=top]').click(function() {
         $.scrollTo(0,'slow');
@@ -167,38 +194,19 @@ $(document).ready(function() {
     });
 
     // footer global links slider
-    $(".btnSlide").click(function(){
+    $(".btnSlide, #panelHeader").click(function(){
         $("#panel").slideToggle("fast");
         $('.slide').toggleClass("active"); return false;
     });
+
     
 }); //end doc ready
         </script>
 
+
         
 
-
-        <script>
-            // dynamically crop article images in teaser blocks.
-            function magicWrap(element, height) {
-                var excess = element.height - height;
-
-                $(element).wrap('<div style="height: ' + height + 'px; overflow:hidden; position: relative;" />');
-                $(element).css('position', 'relative');
-
-                if (excess > 0) {
-                    $(element).css('top', excess / -2);
-                } else if (excess < 0) {
-                    $(element).css('height', height);
-                }
-            }
-
-            $(window).load( function() {
-                $('img.article-img').each( function(index, element) {
-                    magicWrap(element, 100);
-                });
-            });
-        </script>
+        
 
         
 
@@ -210,6 +218,7 @@ $(document).ready(function() {
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-3409854-44']);
+  _gaq.push(['_gat._anonymizeIp']);
   _gaq.push(['_trackPageview']);
   _gaq.push(["_trackPageLoadTime"]);
 
@@ -230,9 +239,8 @@ $(document).ready(function() {
         
     <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
     <body>
-
         
-		
+        
         <div id="fb-root"></div>
         <script>
             window.fbAsyncInit = function() {
@@ -243,6 +251,18 @@ $(document).ready(function() {
                     xfbml: true,
                     oauth: true
                 });
+
+               fbApiInit = true; //init flag
+              };
+            // Use this when you need to do a FB call contingent on the FB object loading.
+            function fbEnsureInit(callback) {
+                if(!window.fbApiInit) {
+                    setTimeout(function() {fbEnsureInit(callback);}, 50);
+                } else {
+                    if(callback) {
+                        callback();
+                    }
+                }
             };
 
             (function(d){
@@ -254,6 +274,7 @@ $(document).ready(function() {
         </script>
         
 
+        
         <!-- IE 7 and up conditional -->
         <!--[if gte IE 7]>
         <div id="ie7andup">
@@ -279,33 +300,57 @@ $(document).ready(function() {
 
 
 
+
 <div id="header">
+<div class="row">
     <div class="upper">
         <div id="welcomeBlock">
-            <span id="welcomeMsg">Welcome to the U.S. News and Panelist Site</span>
+            <div class="grid_6">
+                <span id="welcomeMsg">
+                
+                    Welcome to the U.S. News and Panelist Site
+                
+                </span>
+            </div>
             <!-- search_block -->
-            <div id="searchBlock">
-                <form method="get" action="/search/">
-                    <input name="q" id="searchBox" class="searchBox" type="text" placeholder="Search YouGov Site">
-                    <input id="btnSearchSubmit" type="image" src="/static/img/search_icon_25x25_inv.gif" width="25" height="25" alt="search" title="search">
-                </form>
-            </div><!-- search_block -->
+            <div class="grid_6">
+                <div id="searchBlock">
+                    <form method="get" action="/search/">
+                        <input name="q" id="searchBox" class="searchBox" type="text" placeholder="Search YouGov Site">
+                        
+                        <input id="btnSearchSubmit" type="image" src="/static/img/search_icon_25x25_inv.a7fd3cd8c491.gif" width="25" height="25" alt="search" title="search">
+                    </form>
+                </div><!-- search_block -->
+            </div>
         </div>
     </div>
+</div>
+<div class="row">
     <div class="lower">
+        <div class="grid_8">
         <div id="logo">
             <a href="/" title="YouGov. What the world thinks.">
-                <img id="logoimg" src="/static/img/yglogo.png">
+                
+                
+                <img id="logoimg" src="/static/img/yglogo.da03bb490104.png">
+                
+                
             </a>
         </div>
-        
+        </div>
+        <div class="grid_4">
+            
 
 
 <script id="notLoggedInBlock" type="text/html">
 <div class="loginBox">
         <div class="loginButtons">
-            <a href="/account/register" class="header-join">Register</a> | 
-            <a href="/account/login" class="header-login">Login</a> 
+            
+                
+                    <a href="/account/register" class="header-join">Register</a> |
+                
+            
+            <a href="/account/login" class="header-login">Login</a>
         </div>
 </div>
 </script>
@@ -313,15 +358,13 @@ $(document).ready(function() {
     <div id="statusFrame">
             <div id="statusOuter">
                 <div id="statusBox">
-                    <img src="/static/img/no_guy.png" alt="" id="statusPic">
                     <div id="statusIdentityAndNav">
                         <div id="statusIdentity">
-                            
-                            Welcome <span class="email">wut@fakeemail.net</span>                           
-                        <br>
-                        <span class="points">You have
-                        <a href="/account/rewards/" target="_top" id="statusPointsTotal"></a>
-                        points. | </span><a href="/account/logout/" target="_top">Logout</a>
+                            Welcome <span class="email">wut@fakeemail.net</span>
+                            <br>
+                            <span class="points">You have
+                            <a href="/account/rewards/" target="_top" id="statusPointsTotal"></a>
+                            points. | </span> <a href="/account/logout/" target="_top">Logout</a>
                         </div>
                     </div>
                 </div>
@@ -354,19 +397,20 @@ if(getCookie('yguser')){
         success: function(data){
             $('#accountLoginBlock').append($('#loggedInBlock').html());
             //use the name unless it's empty, then use the email.
-            if(data.name != ''){
-                var emailName = data.name;
-            }else{
-                var emailName = data.email;
-            }
-            if(data.avatar || data.avatar != ''){
-                $('#accountLoginBlock').find('#statusIdentity img').attr('src', data.avatar);
-            }
-            if(data.points){
-                $('#accountLoginBlock').find('#statusPointsTotal').text(data.points);
-            }else{
-                $('#accountLoginBlock').find('.points').remove();
-            }
+            
+                if(data.name != ''){
+                    var emailName = data.name;
+                }else{
+                    var emailName = data.email;
+                }
+            
+            
+                if(data.points){
+                    $('#accountLoginBlock').find('#statusPointsTotal').text(data.points);
+                }else{
+                    $('#accountLoginBlock').find('.points').remove();
+                }
+            
             $('#accountLoginBlock').find('.email').html(emailName);
 
         },
@@ -376,61 +420,60 @@ if(getCookie('yguser')){
         }
     });
 }else{
-    $('#accountLoginBlock').append($('#notLoggedInBlock').html());            
+    $('#accountLoginBlock').append($('#notLoggedInBlock').html());
 
 }
 
-    
+
 }); //end doc ready
 
 </script>
 <div id="accountLoginBlock">
 </div>
 
-    </div>
+        </div>
+    </div></div>
 </div>
 
 
 <div id="mainNav">
-    <div id="dropnav" class="ygnav container_12">
+    <div id="dropnav" class="ygnav">
         <ul class="mainMenu">
             
 
-
     <li>
-    <a href="/">Latest Findings</a>
+    <a href="/" class="" style="" rel="" target="">Latest Findings</a>
 
     
     <ul>
         
 
-
     <li>
-    <a href="/news/categories/model-politics/">Blog</a>
+    <a href="/news/categories/model-politics/" class="" style="" rel="" target="">Blog</a>
 
     
 </li>
 
     <li>
-    <a href="/news/categories/life/">Life</a>
+    <a href="/news/categories/life/" class="" style="" rel="" target="">Life</a>
 
     
 </li>
 
     <li>
-    <a href="/news/categories/consumer/">Consumer</a>
+    <a href="/news/categories/consumer/" class="" style="" rel="" target="">Consumer</a>
 
     
 </li>
 
     <li>
-    <a href="/news/categories/politics/">Politics</a>
+    <a href="/news/categories/politics/" class="" style="" rel="" target="">Politics</a>
 
     
 </li>
 
     <li>
-    <a href="/news/">Archive</a>
+    <a href="/news/" class="" style="" rel="" target="">Archive</a>
 
     
 </li>
@@ -441,33 +484,32 @@ if(getCookie('yguser')){
 </li>
 
     <li>
-    <a href="/account/">Panel Members</a>
+    <a href="/account/" class="" style="" rel="" target="">Panel Members</a>
 
     
     <ul>
         
 
-
     <li>
-    <a href="/account/">Activity</a>
+    <a href="/account/" class="" style="" rel="" target="">Activity</a>
 
     
 </li>
 
     <li>
-    <a href="/account/rewards/">Rewards</a>
+    <a href="/account/rewards/" class="" style="" rel="" target="">Rewards</a>
 
     
 </li>
 
     <li>
-    <a href="/account/manage/">Account</a>
+    <a href="/account/referral/" class="" style="" rel="" target="">Refer a friend</a>
 
     
 </li>
 
     <li>
-    <a href="/account/referral/">Refer a friend</a>
+    <a href="/account/manage/" class="" style="" rel="" target="">Account</a>
 
     
 </li>
@@ -478,41 +520,25 @@ if(getCookie('yguser')){
 </li>
 
     <li>
-    <a href="http://corp.yougov.com">Research Services</a>
+    <a href="http://research.yougov.com" class="" style="" rel="" target="">Research Services</a>
 
-    
-    <ul>
-        
-
-
-    <li>
-    <a href=""></a>
-
-    
-</li>
-
-
-    </ul>
     
 </li>
 
 
         </ul>
     </div>
-    <div id="headerSocialButtons"> 
+    <div id="headerSocialButtons">
         <a id="headerJoinFacebookIcon" class="facebook_icon" target="_blank" href="http://www.facebook.com/pages/YouGov/87941536701"></a>
         <a id="headerJoinTwitterIcon" target="_blank" href="http://twitter.com/YouGovUS"></a>
-        <a id="headerRSSIcon" href="/news/feeds/latest/" title="YouGov RSS Feed"></a>
+        <a id="headerRSSIcon" href="/news/feeds/latest/" type="application/rss+xml" title="YouGov RSS Feed"></a>
     </div><!-- headerSocialButtons -->
 </div>
-<div class="clear"></div>
 
 
             
 
-            
-
-            <div class="container_12" id="main">
+            <div id="main">
                 
                 
 <div class="container_12 pagecontent _1_block">
@@ -567,61 +593,72 @@ if(getCookie('yguser')){
                 <div id="panel">
                     <!-- put slider content here -->
                     <div id="panelHeader">
-                      <h4>YouGov Global Sites</h4>
-                        <div class="hubPanel">
-                            
-                            <div class="hubBox">
-                              <span class="hubName">U.K.</span>
-                              
-                              <br><a href="http://www.yougov.co.uk/corporate/" rel="footer">Research Services</a>
-                              
-                              <br><a href="http://today.yougov.co.uk/" rel="footer">News</a>
-                              
-                              <br><a href="http://my.yougov.com/" rel="footer">Panel</a>
-                              
-                            </div>
-                            
-                            
-                            <div class="hubBox">
-                              <span class="hubName">Middle East &amp; North Africa</span>
-                              
-                              <br><a href="http://corporate.yougovsiraj.com/corporate/" rel="footer">Research Services</a>
-                              
-                              <br><a href="http://my.yougovsiraj.com/" rel="footer">News &amp; Panel</a>
-                              
-                            </div>
-                            <div class="clear"></div>
-                            
-                            <div class="hubBox">
-                              <span class="hubName">Germany &amp; Central Europe</span>
-                              
-                              <br><a href="http://www.psychonomics.de/" rel="footer">Research Services</a>
-                              
-                              <br><a href="http://www.yougov.de" rel="footer">Panel</a>
-                              
-                            </div>
-                            
-                            
-                            <div class="hubBox">
-                              <span class="hubName">Scandinavia &amp; Northern Europe</span>
-                              
-                              <br><a href="http://www.yougov.dk/" rel="footer">Research Services &amp; Panel</a>
-                              
-                            </div>
-                            <div class="clear"></div>
-                            
+                        <h4>YouGov Global Sites</h4>
+                    </div>
+                    <div class="hubPanel">
+                        
+                        <div class="hubBox">
+                          <span class="hubName">U.K.</span>
+                          
+                          <br><a href="http://www.yougov.co.uk/corporate/" rel="footer">Research Services</a>
+                          
+                          <br><a href="http://labs.yougov.co.uk/" rel="footer">News</a>
+                          
+                          <br><a href="http://labs.yougov.co.uk/" rel="footer">Panel</a>
+                          
                         </div>
+                        
+                        
+                        <div class="hubBox">
+                          <span class="hubName">United States.</span>
+                          
+                          <br><a href="http://research.yougov.com" rel="footer">Research Services</a>
+                          
+                          <br><a href="http://today.yougov.com" rel="footer">News &amp; Panel</a>
+                          
+                        </div>
+                        <div class="clear"></div>
+                        
+                        <div class="hubBox">
+                          <span class="hubName">Middle East &amp; North Africa</span>
+                          
+                          <br><a href="http://corporate.yougovsiraj.com/corporate/" rel="footer">Research Services</a>
+                          
+                          <br><a href="http://my.yougovsiraj.com/" rel="footer">News &amp; Panel</a>
+                          
+                        </div>
+                        
+                        
+                        <div class="hubBox">
+                          <span class="hubName">Germany &amp; Central Europe</span>
+                          
+                          <br><a href="http://research.yougov.de/" rel="footer">Research Services</a>
+                          
+                          <br><a href="http://www.yougov.de" rel="footer">Panel</a>
+                          
+                        </div>
+                        <div class="clear"></div>
+                        
+                        <div class="hubBox">
+                          <span class="hubName">Scandinavia &amp; Northern Europe</span>
+                          
+                          <br><a href="http://www.yougov.dk/" rel="footer">Research Services &amp; Panel</a>
+                          
+                        </div>
+                        
+                        
                     </div>
                 </div>
                 <div id="footerUtilities">
                     <div class="grid_4" id="footerLogo">
                         <a href="/" title="YouGov.  What the world thinks.">
-                            <img src="/static/img/yg_footer_logo.png" width="279" height="32">
+                            <img src="/static/img/yg_footer_logo.4cc3f089ee75.png" width="279" height="32">
                         </a>
                     </div>
 
                     <div class="grid_4" id="footerInternational">
-                      <h5 class="slide"><a href="javscript:void(0);" class="btnSlide">United States</a><span>&nbsp;</span></h5>
+                      <h5 class="slide"><a href="javscript:void(0);" class="btnSlide">
+                          United States</a><span>&nbsp;</span></h5>
 
 
                     </div> <!-- footerInternational -->
@@ -632,61 +669,83 @@ if(getCookie('yguser')){
 
                 <div id="footerSiteMap">
                     
-                    <div class="grid_3" id="col1">
-				    	<ul>
-				        <li><h5>PANEL MEMBERS</h5></li>
-                        <li><a href="/account/" rel="footer">My Activity</a></li>
-				        <li><a href="/learn-more" rel="footer">Introduction: How It Works?</a></li>
-                        <li><a href="/account/register/" rel="footer">Register</a></li>
-				        <li><a href="/faq" rel="footer">FAQs</a></li>
-				        <li><a href="/rewards" rel="footer">Rewards</a></li>
-				        </ul>
-				    </div>
-				    <div class="grid_3">
-				    	<ul>
-				        <li><h5>RESEARCH PRACTICES</h5></li>
-				        <li><a href="http://corp.yougov.com/marketing-insights/" rel="footer">Marketing Insights</a></li>
-				        <li><a href="http://corp.yougov.com/scientific-research/" rel="footer">Scientific Research</a></li>
-				        <li><a href="http://corp.yougov.com/healthcare/" rel="footer">Healthcare</a></li>
-				        <li><a href="http://corp.yougov.com/public-affairs/" rel="footer">Public Affairs</a></li>
-				    	<li><a href="http://harrisongroupinc.com" rel="footer">Harrison Group</a></li>
-				        </ul>
-					</div>
-					<div class="grid_3">
-				    <ul>
-				        <li><h5>RESEARCH PRODUCTS</h5></li>
-				    	<li><a href="http://brandindex.com" rel="footer">BrandIndex</a></li>
-				    	<li><a href="http://corp.yougov.com/healthcare/hospitalindex/" rel="footer">HospitalIndex</a></li>
-                        <li><a href="http://harrisongroupinc.com/#american" rel="footer">Affluent Marketing</a></li>
-				        </ul>
-					</div>
-					<div class="grid_3" id="col4">
-				    	<ul>
-				        <li><h5>CORPORATE</h5></li>
-                        <li><a href="/about">About YouGov</a></li>
-				        <li><a href="/contact/" rel="footer">Contact Us</a></li>
-				        <li><a href="http://www.yougov.co.uk/investor/" rel="footer">Investor Relations</a></li>
-				        <li><a href="http://corp.yougov.com/careers" rel="footer">Careers</a></li>
-
-				        </ul>
-					</div>
-
+                    <div class="grid_3 alpha" id="col1" "="">
+                            <ul>
+                              <li><h5>Panel Members</h5></li>
+                              
+                              <li><a href="/account" target="_top">My Activity</a></li>
+                              
+                              <li><a href="/learn-more" target="_top">How it Works</a></li>
+                              
+                              <li><a href="/account/register" target="_top">Register</a></li>
+                              
+                              <li><a href="/faq" target="_top">FAQs</a></li>
+                              
+                              <li><a href="/rewards" target="_top">Rewards</a></li>
+                              
+                            </ul>
+                        </div>
+                    
+                    <div class="grid_3 ">
+                            <ul>
+                              <li><h5>Research Practices</h5></li>
+                              
+                              <li><a href="http://research.yougov.com/practices/custom-research/" target="_top">Custom Research</a></li>
+                              
+                              <li><a href="http://research.yougov.com/practices/brandmonitors/" target="_top">Brand Monitors</a></li>
+                              
+                              <li><a href="http://research.yougov.com/practices/market-intelligence/" target="_top">Market Intelligence</a></li>
+                              
+                            </ul>
+                        </div>
+                    
+                    <div class="grid_3 ">
+                            <ul>
+                              <li><h5>Research Products</h5></li>
+                              
+                              <li><a href="http://research.yougov.com/services/brandindex/" target="_top">BrandIndex</a></li>
+                              
+                              <li><a href="http://research.yougov.com/services/hospitalindex/" target="_top">HospitalIndex</a></li>
+                              
+                              <li><a href="http://research.yougov.com/services/omnibus/" target="_top">Omnibus</a></li>
+                              
+                            </ul>
+                        </div>
+                    
+                    <div class="grid_3 omega" id="col4" "="">
+                            <ul>
+                              <li><h5>Corporate</h5></li>
+                              
+                              <li><a href="/about" target="_top">About YouGov</a></li>
+                              
+                              <li><a href="/contact" target="_top">Contact Us</a></li>
+                              
+                              <li><a href="http://www.yougov.co.uk/investor/" target="_top">Investor Relations</a></li>
+                              
+                            </ul>
+                        </div>
+                    
                 </div> <!-- end footerSiteMap -->
 
                 <div class="clear"></div>
 
                 <div id="footerSocialButtons">
-                    <a id="footerJoinFacebook" class="facebook_icon" target="_blank" href="" title="YouGov on Facebook"></a>
-                    <a id="footerJoinTwitter" target="_blank" href="" title="Follow YouGov on Twitter"></a>
-                    <a id="footerRSS" type="application/rss+xml" href="" target="_blank" title="YouGov RSS Feed"></a>
+                    <a id="footerJoinFacebook" class="facebook_icon" target="_blank" href="http://www.facebook.com/pages/YouGov/87941536701" title="YouGov on Facebook"></a>
+                    <a id="footerJoinTwitter" target="_blank" href="http://twitter.com/YouGovUS" title="Follow YouGov on Twitter"></a>
+                    <a id="footerRSS" type="application/rss+xml" href="/news/feeds/latest/" target="_blank" title="YouGov RSS Feed"></a>
                 </div> <!-- footerSocialButtons -->
 
                 <div class="clear"></div>
                 <div id="legal">
-                 | <a href="/privacy">Privacy Policy</a> | <a href="mailto:help.us@yougov.com">Site Feedback</a>
+                    
+                    Copyright © 2000-2012 YouGov plc. All rights reserved |
+                    
+                    
+                    <a href="/privacy">Privacy Policy</a> |
+                    <a href="mailto:help.us@yougov.com">Site Feedback</a>
+                    
                 </div>
-                </div>
-            </div> <!-- end footer -->
+                </div><!-- end footer -->
             
             
         </div> <!-- end contentWrapper -->
@@ -704,4 +763,4 @@ if(getCookie('yguser')){
 
     
 
-</body></html>
+</div></body></html>
