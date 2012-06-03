@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204170938id_/http%3A//www.beyondretro.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603142225id_/http%3A//www.beyondretro.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Vintage Clothing | Beyond Retro
 
