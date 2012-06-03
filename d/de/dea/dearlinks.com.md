@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dearlinks.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121120012id_/http%3A//www.dearlinks.com/info/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearlinks.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603191219id_/http%3A//www.dearlinks.com/info/privacy-policy.htm) for the most accurate reproduction.*
 
 # We respect your privacy and we are committed to safeguarding your privacy while online at our site www
 
