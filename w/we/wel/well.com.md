@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124042509id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603122126id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
 
 # The WELL - Privacy Policy
 
