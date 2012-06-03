@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the leaguelineup.com privacy policy that was archived on 2011-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207060208id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leaguelineup.com privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603125255id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!-- Begin comScore Tag --><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6035644" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035644&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
 <title>LeagueLineup.com - Web Services</title>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<script>
 var a = Math.floor(Math.random()*9999999999+1)
 var random_number = a;
 </script>
@@ -23,79 +24,19 @@ var random_number = a;
 	<script language="javascript">OAS_SET_POSITIONS('Top,Right2');</script>
 
 <script language="javascript">OAS_SET_KEYWORD('');</script>
-<script language="javascript" src="/scripts/OASLocal/LocalFilename.js"></script><script language="JavaScript1.1" src="https://web.archive.org/web/20110330162303/http://oascentral.stackmag.com/RealMedia/ads/adstream_mjx.ads/www.leaguelineup.com/web/20111207060208id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp/1228784869@Top,Right2?"></script>	
+<script language="javascript" src="/scripts/OASLocal/LocalFilename.js"></script><script language="JavaScript1.1" src="https://web.archive.org/web/20110330162303/http://oascentral.stackmag.com/RealMedia/ads/adstream_mjx.ads/www.leaguelineup.com/web/20120603125255id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp/1377269245@Top,Right2?"></script>	
 <script type="text/javascript" src="scripts/sherpa_ui.js"></script>
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
 
 <!-- jQuery -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="http://cdn.jquerytools.org/1.1.1/jquery.tools.min.js"></script>
 
-<script src="js/jquery.bxSlider.js"></script>
+<script src="js/jquery.bxSlider.min.js"></script>
+<script src="js/home.js"></script>
 
-<script type="text/javascript">
-$(document).ready(function() {	
-
-	//Show Banner
-
-	//$(".main_image .desc").show(); //Show Banner
-	//$(".main_image .block").animate({ opacity: 0.85 }, 1 ); //Set Opacity
-
-	//Click and Hover events for thumbnail list
-	$(".image_thumb ul li:first").addClass('active'); 
-
-	$(".main_image .block").slideToggle();
-	$("a.collapse").toggleClass("show");
-
-	$(".image_thumb ul li").click(function(){ 
-		//Set Variables
-		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
-		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
-		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
-		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
-		
-		if ($(this).is(".active")) {  //If it's already active, then...
-			return false; // Don't click through
-		} else {
-			//Animate the Teaser				
-			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 250 , function() {
-				$(".main_image .block").html(imgDesc).animate({ opacity: 0.85,	marginBottom: "0" }, 250 );
-				$(".main_image img").attr({src: imgTitle , alt: imgAlt});
-				$(".main_image a").attr('href', imgAlt);
-				$(".main_image a.collapse").attr('href', "#");
-			});
-		}
-		
-		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
-		$(this).addClass('active');  //add class of 'active' on this list only
-		return false;
-		
-	}) .hover(function(){
-		$(this).addClass('hover');
-		}, function() {
-		$(this).removeClass('hover');
-	});
-			
-	//Toggle Teaser
-	$("a.collapse").click(function(){
-		$(".main_image .block").slideToggle();
-		$("a.collapse").toggleClass("show");
-	});
-	
-
-});
-
-$(document).ready(function(){
-     $('#slider1').bxSlider({
-          displaySlideQty: 7,
-          moveSlideQty: 7,
-          infiniteLoop: false
-     });
-});
-
-</script>
 
 
 
@@ -103,6 +44,15 @@ $(document).ready(function(){
 </head>
 
 <body>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 
@@ -175,28 +125,40 @@ $(document).ready(function(){
         }
 
 
-        var strHref;
-        strHref='http://www.leaguelineup.com/advertisers/a.aspx?ZoneID';
 </script>
 
 
 <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_Header1_btnGo')">
 	
 	<div id="header">
-
+	
+          <div id="paypalprocessing">
+                <a href="faqs_paypal.asp"><img src="images/new.gif" border="0"> &nbsp; NEW FOR 2012! &nbsp;&nbsp; Payment Processing with Paypal! &nbsp;&nbsp; Lower your registration processing costs! &nbsp;&nbsp; [Click for more information] &nbsp; <img src="images/new.gif" border="0"></a>  
+          </div>
+          
         	<div id="header_internal">
 
+               
+     
           	<div id="top_info"> 
                     
                     
                          <ul class="inline_list left">
-                         <li><span style="margin: 20px 0 0 250px;"><a href="training_stack.asp"><b>Visit the <img src="images/new.gif" border="0"> Stack Training Center!</b></a></span></li>
+                         <li>
+                         <div class="fb-like" style="margin: 15px 0 0 250px;" data-href="https://www.facebook.com/pages/LeagueLineupcom/239544982773607" data-send="false" data-layout="button_count" data-width="40" data-show-faces="false"></div>
+<!--
+                         <g:plusone size="medium" annotation="none"></g:plusone>
+                         <a href="https://www.facebook.com/pages/LeagueLineupcom/239544982773607" target="facebook"><img src="images/icons/24/facebook.png"></a>
+                         <a href="http://www.twitter.com/leaguelineup" target="twitter"><img src="images/icons/24/twitter.png"></a> &nbsp; 
+-->
+                           </li>
                          </ul>
+ 
                          
                     
                     
              		<ul class="inline_list right">
-                    <li><div class="welcome"><font color="red">My</font>LeagueLineup</div></li>
+                    <li><div class="welcome"><font color="#cc0000">My</font>LeagueLineup</div></li>
                     
                               <li><input type="button" name="login" value="Login" class="setbutton gray" onclick="window.location='myll_home_login.asp'"></li>
                               <li><input type="button" name="signup" value="Signup" class="setbutton red" onclick="window.location='myll_home_register.asp'"></li>
@@ -378,7 +340,6 @@ $(document).ready(function(){
    	</div>
 </div>
 
-
 <div id="full">
     <div id="content">
 
@@ -483,9 +444,21 @@ Cookies are required to use some features of LeagueLineup.com.  We use cookies t
 	<li><a href="createsite_register.asp">Create Your Free Site</a></li>
 	</ul>
 	<br>
-	<img src="images/icons/16/twitter-16x16.png"> <a href="http://www.twitter.com/leaguelineup" target="twitter"><font color="#3366CC">Follow us on Twitter</font></a><br>
+	<div class="fb-like" data-href="https://www.facebook.com/pages/LeagueLineupcom/239544982773607" data-send="true" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+	<a href="http://www.twitter.com/leaguelineup" target="twitter"><img src="images/icons/24/twitter.png"></a> &nbsp; 
+     <!-- Place this tag where you want the +1 button to render -->
+     <g:plusone size="medium" annotation="none"></g:plusone>
+
+     <!-- Place this render call where appropriate -->
+     <script type="text/javascript">
+       (function() {
+         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+         po.src = 'https://apis.google.com/js/plusone.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+       })();
+     </script>
+     <br>
 	<br>
-	<div><img src="images/icons/16/ll_16x16.gif"> <a href="default.asp">Copyright © 2011 LeagueLineup.com</a></div>
 	</div>
 
 	<div class="footeralignleft"> 
@@ -508,7 +481,7 @@ Cookies are required to use some features of LeagueLineup.com.  We use cookies t
        	<li><a href="localsports.asp">Find A Site</a></li>
 	<li><a href="localsports_photographers.asp">Photographers</a></li>
 	<li><a href="localsports_tournaments.asp">Tournaments</a></li>
-	<li><a href="localsports_teamsplayers.asp">Teams Seeking Players</a></li>
+	<li><a href="localsports_teamsplayers.asp">Team Tryouts</a></li>
 	<li><a href="localsports_teamsgames.asp">Teams Seeking Games</a></li>
 	<li><a href="localsports_leaguesteams.asp">Leagues Seeking Teams</a></li>
 	</ul>
@@ -521,7 +494,7 @@ Cookies are required to use some features of LeagueLineup.com.  We use cookies t
     	<li><a href="fundraising_llprofr.asp">LeagueLineup Pro/Fundraiser</a></li>
 	<li><a href="fundraising_tools.asp">Traditional Products</a></li>
 	<li><a href="fundraising_magazines.asp">Magazines</a></li>
-	<li><a href="fundraising_apparel.asp">Apparel Store</a></li>
+	<li><a href="fundraising_apparelstore.asp">Apparel Store</a></li>
 	</ul>
 	</div>
 
@@ -535,7 +508,8 @@ Cookies are required to use some features of LeagueLineup.com.  We use cookies t
 	<li><a href="faqs_privacypolicy.asp">Privacy Policy</a></li>
 	</ul>
 	</div>
-
+     
+	<div id="copyright"><img src="images/icons/16/ll_16x16.gif"> Copyright © 2012 LeagueLineup.com</div>
 
 
 </div>
