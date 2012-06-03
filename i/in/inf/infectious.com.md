@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infectious.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102045540id_/http%3A//www.infectious.com/learn/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infectious.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603103917id_/http%3A//www.infectious.com/learn/pp) for the most accurate reproduction.*
 
 # iPod Skins, iPhone skins, Laptop skins, Wall Vinyl, Car Decals: learn about all of our great products
 
