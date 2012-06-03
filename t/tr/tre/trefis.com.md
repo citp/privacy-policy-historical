@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trefis.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231011558id_/http%3A//www.trefis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trefis.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603035302id_/http%3A//www.trefis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Trefis
 
-Date of Last Revision: June 28, 2011
+Date of Last Revision: February 19, 2012
 
 Insight Guru, Inc. ("Insight Guru", "we", "us") provides its content and tools on its web site, Trefis, located at [http://www.trefis.com](http://www.trefis.com/) or as applications running on other partner sites (collectively referred to as the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at this Site.
 
