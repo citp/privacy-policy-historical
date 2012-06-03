@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the face-pic.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201110808id_/http%3A//www.faces.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face-pic.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603033410id_/http%3A//www.faces.com/main/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
