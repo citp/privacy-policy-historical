@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106150520id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603102045id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Malta
 
@@ -26,7 +26,13 @@ The University web site uses cookies for certain applications, e.g. to remember 
 #### Email   
 
 
-If you contact the University of Malta by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.
+If you contact the University of Malta by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.  
+
+
+#### Payment Card Details  
+
+
+The University of Malta does not process card numbers, expiry dates and CVVs that are submitted to effect payments other than for processing of payment. Furthermore, the card numbers, expiry dates and CVVs are not being stored by the University of Malta but are encrypted and transmitted directly to the payment gateway.
 
 ### Changes to the Privacy Policy
 
@@ -39,5 +45,5 @@ Queries about the Privacy Policy statement should be directed [here](mailto:webm
   
 
 
-6 November 2011  
+3 June 2012  
 http://www.um.edu.mt/privacy 
