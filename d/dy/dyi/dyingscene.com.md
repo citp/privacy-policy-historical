@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyingscene.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127033432id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyingscene.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603102234id_/http%3A//dyingscene.com/dying-scene-privacy-policy) for the most accurate reproduction.*
 
 # Dying Scene Privacy Policy – Dying Scene
 
@@ -7,6 +7,10 @@
 Dying Scene makes it a top priority to keep our users’ information private so that you can feel comfortable with your experience on the site.  The below Privacy Policy pertains to personally identifiable information that may be collected by the website during your visit.  If you have any questions regarding the below policy please contact the webmaster.
 
 **Data Collection:** The registration process on DyingScene.com requires that users enter a valid email address and a unique username.  It is important to note that this information, as well as comments or other submissions you make on the site, may contain personally identifiable information supplied by you, and may be visible to other users on the website.  Dying Scene may also collect information in our server logs, such as your IP address and cookie information to help us better improve your user experience while on the site.
+
+Dying Scene’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.  If a user wishes to opt out of behavioral targeting they may do so [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Dying Scene participates in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. [Ad Choices](http://www.aboutads.info/choices/).
 
 **Data Use:** Dying Scene will not share your data with third parties unless (i) we first receive your permission, such as your initiated opt-in;  (ii) provided for otherwise in this Privacy Policy; (iii) a service provided on DyingScene.com requires the interaction with or is provided by a third party; (iv) pursuant to legal process or law enforcement; (v) your use of the   site violates our Privacy Policy, [Terms of Service](http://dyingscene.com/dying-scene-terms-and-conditions), other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) this site is purchased by a third party whereby that third party will be able to use the data in the same manner as Dying Scene can as set forth in this Policy.
 
