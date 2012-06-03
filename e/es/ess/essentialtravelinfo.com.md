@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the essentialtravelinfo.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202080335id_/http%3A//www.essentialtravelinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialtravelinfo.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603043531id_/http%3A//www.essentialtravelinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Essential Travel Info
-
-## Introduction
-
-Essential Travel Info is a division of R&V Business Services (Pty) Ltd a private company that also owns and operates AA Travel Guides in South Africa.
-
-We are committed to protecting your privacy. We aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
-
-  
-
+# Essential Travel Info
 
 ## How we use information you provide us
 
@@ -52,3 +43,6 @@ In addition, we will restrict the information disclosed to the absolute minimum 
 ## Changes to our Privacy Policy
 
 If we decide to change our Privacy Policy, we will update all relevant documentation and post any changes onto our websites so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+
+  
+
