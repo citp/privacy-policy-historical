@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213033836id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603103401id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
 
 # OASIS Privacy and Security - Oasis Womens Fashion Clothing Shop UK - www.Oasis-Stores.com
 
@@ -72,15 +72,15 @@ You are entitled to ask for a copy of the information we hold about you (for whi
 ##   
 Cookies
 
-In order to improve your experience when shopping on the website we use cookies.
+To enhance your shopping experience on the Oasis website, we gather information using files called cookies. We use cookies to keep track of things such as what products you have put in your basket, what other kind of products you may be interested in based on what you have previously bought or viewed and to remember you when you return to our site. This information is then used to serve you more relevant information based on your shopping preferences and means you get a richer experience when using your computer to browse and shop our website. 
 
-A cookie is a piece of information our website will place on your computer’s hard drive that can track your movements while you are on the website, it will also recognise you when you visit our website again.
+You can choose to disable cookies but doing so will affect your shopping experience and may prevent you from accessing certain parts of the site. If you disable cookies, you'll still be able to browse the site but it will prevent the checkout from working and you will not be able to place orders. 
 
-Cookies are stored in order for us to continually improve our website and provide a better on-line shopping experience for you. They are mainly used for marketing purposes, but they are also used to tell us what country you are coming from so we can make sure that prices are displayed in the correct currency and pages in the correct language.
+You can enable or disable cookie settings on your computer. It depends on what type of computer (MAC or PC) and also what browser you use as to how you do this. To check your cookie settings on a PC you need to click Help and then choose About and then follow the link about cookies. To check your cookie settings on a Mac click on the apple menu and select the option called About. 
 
-If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.
+We're giving you this information as part of our initiative to comply with recent legislation, and to make sure we are clear about your privacy when using our website. 
 
-Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). However, please note that if you disable the use of cookies on your computer, you will not be able to shop on our website.
+Further information on cookies and how to disable them is available at [www.AboutCookies.org](http://www.aboutcookies.org/). 
 
 ##   
 And lastly
