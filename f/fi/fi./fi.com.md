@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227024911id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603051529id_/http%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
 
 # Fisher Investments | Privacy & Security
 
@@ -33,7 +33,7 @@ To ensure consumer privacy laws are not violated, FI has adopted the policies an
 
 ##  PRIVACY NOTICE
 
-FI collects non-public information about you from the following sources:
+This Fisher Investments U.S. Privacy Notice describes how FI collects, uses and shares information from or about you from the following methods:
 
   * Information we receive about you on applications or other forms;
   * Information you give us orally; and
@@ -41,9 +41,7 @@ FI collects non-public information about you from the following sources:
 
 
 
-We are committed to protecting your privacy and your non-public personal information. We do not sell or market your non-public personal information to unaffiliated organizations. We maintain physical, electronic and procedural safeguards to guard your non-public personal information. We hold our employees to strict standards of conduct regarding confidentiality, and employees who violate our privacy policy are subject to disciplinary process. We restrict access to your information to those employees who need to know that information to carry out their duties.
-
-We do not disclose any non-public personal information about our clients or former clients without the client's authorization, except as permitted by law. We may disclose the non-public information we collect to employees and affiliates, and unaffiliated third parties as permitted by law. Third parties may include law enforcement agencies, government and regulatory authorities, and professionals such as our legal counsel and auditors, and we may disclose information for reasons such as audit purposes, prevention of fraud or money laundering, protection of confidentiality, compliance with laws, and to provide agreed upon products and services to you. Third parties may also include service providers performing financial services for us (such as brokers and custodians) and service providers performing non-financial services for us (such as third parties performing computer related or data maintenance, marketing or other services for us or to assist us in offering our products and services to you). It is our policy to require all third party service providers that will receive information to sign strict confidentiality agreements agreeing to safeguard such information and use it only for the purpose it was provided.
+We are committed to protecting your privacy and your non-public personal information. [Please click here for Fisher Investments Privacy Notice Facts](http://www.fi.com/pdf/Privacy_Notice_Facts.pdf).
 
 ##  PRIVACY POLICY UPDATES
 
@@ -101,7 +99,5 @@ Woodside, CA 94062
 Please provide FI with the exact name and address as it was originally provided. We will be happy to remove your name from our database and will do everything possible to honor your request for removal.
 
 To unsubscribe from FI's email communications, send an email to [optout@fi.com](mailto:optout@fi.com). Please put "UNSUBSCRIBE" in the subject field and include the email address where you received the content, along with any additional email addresses you would like suppressed. We will do our best to prevent you from receiving our email content in the future.
-
-_Updated on November 10, 2006_
 
 [Back to top of page](http://www.fi.com/legal/security.aspx#top)
