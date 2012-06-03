@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the railwayrecruitment.co.in privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205003947id_/http%3A//www.railwayrecruitment.co.in//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwayrecruitment.co.in privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124050id_/http%3A//www.railwayrecruitment.co.in//privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Railway Recruitment
+# Privacy Policy
 
 “railwayrecruitment.co.in” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
