@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201100443id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603205141id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ACT
 
@@ -14,7 +14,8 @@ At ACT, we recognize the importance of protecting the privacy of your personal i
 ACT collects certain Personal Information that you provide voluntarily when using the Site. “Personal Information” includes information that can identify you as a specific individual, such as your name or address. “Personal Information” does not include anonymized, aggregate or statistical information. Under the following circumstances, ACT may collect the following Personal Information from you:
 
   * Test registration and services. When you register for a test or to use ACT’s services, we may collect your name, home address, email address, telephone number, social security number, date of birth, credit card information, and other personally identifiable information such as educational background and interests. Certain information is requested but not mandatory to provide. We will identify to you at the time of collection which information fields are required.
-  * Online orders or questions. When you are ordering materials or requesting information from ACT, we may collect your name, address, email address and other personal information, such as job title or needs for our materials. If you are purchasing materials, we additionally collect credit card information.
+  * Online orders or questions. When you are ordering materials or requesting information from ACT, we may collect your name, address, email address, birth date, and other personal information, such as job title or needs for our materials. If you are purchasing materials, we additionally collect credit card information.
+  * Suppliers. If you are supplier to ACT, we may collect your name, address, email address, telephone number, tax identification number, birth date, bank account information, and other personally identifiable information. Certain information is requested but not mandatory to provide. We will identify to you at the time of collection which information fields are required. 
   * Job applicants. If you are applying for a position with ACT, we collect your name, address, email address, work and educational history, as well as other personal information necessary to evaluate your application.
   * Other interactive tools or functions on the Site may collect other personal information from you, but in each case the personal information being collected is clearly marked at the time of collection. 
 
