@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the fultoncountyga.gov privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211132id_/http%3A//fultoncountyga.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fultoncountyga.gov privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603160831id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
-
-### Audio News
-
-_Hear County Manager Zach Williams discussing ¢itizen $ense on WCLK_  
-[Download](http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/download.php?file=images/audio/Fulton_Focus.mp3 "Click to download media")
 
 |  |   
 |  Privacy Statement  |  [| Print |](http://www.fultoncountyga.gov/privacy?tmpl=component&print=1&page= "Print")  
