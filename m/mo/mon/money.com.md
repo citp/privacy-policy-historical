@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212045501id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603114311id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
 
 # CNNMoney.com: Privacy Policy
 
-|   
-Privacy Policy |   
----|---  
 For the privacy policy of MONEY, FORTUNE, or FORTUNE Small Business magazine, operated by Time, Inc., please click the appropriate link:  
 • [MONEY](http://www.timeinc.net/subs/privacy/jump/mo.html)  
 • [FORTUNE](http://www.timeinc.net/subs/privacy/jump/fo.html)  
@@ -118,7 +115,4 @@ If you have any questions or concerns about the online privacy statement for thi
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
 
-The Privacy Statement posted on this site was updated in February, 2011.
-
-  
-
+The Privacy Statement posted on this site was updated in February, 2011. 
