@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpayplans.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145200id_/http%3A//www.jpayplans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpayplans.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603130421id_/http%3A//www.jpayplans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
