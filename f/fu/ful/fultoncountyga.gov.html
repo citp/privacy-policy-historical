@@ -1,10 +1,51 @@
-<!--The following is the downloaded HTML source of the fultoncountyga.gov privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203211132id_/http%3A//fultoncountyga.gov/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fultoncountyga.gov privacy policy that was archived on 2012-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603160831id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <link type="text/css" rel="stylesheet" href="/jquery/theme/contrast.css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript">
+<!--
+jQuery.noConflict();
+-->
+</script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/ui.core.js"></script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/ui.dialog.js"></script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/ui.draggable.js"></script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/internal_urls.js"></script>
+<script type="text/javascript">
+<!--
+jQuery.extend(jQuery.expr[':'], { external: function(a, i, m) {
+if (!a.href) { return false; }
+if (a.hostname && a.hostname !== window.location.hostname) { var fixedHostname = a.hostname.replace(/^\s+|\s+$/g, '').toLowerCase();
+//var fixedHostname = a.hostname.replace(/^\s+|\s+$/g, '').replace('www.', '').toLowerCase();
+if (jQuery.inArray(fixedHostname, arr) >= 0) { return false; } else return true;
+}else return false;
+}});
+jQuery(document).ready(function() {
+jQuery('#exlinkmsg').hide();
+jQuery('a:external').click(function(e) {
+e.preventDefault();
+var url = jQuery(this).attr('href');
+jQuery('#exlinkmsg').load('disclaimer.html');
+jQuery('#exlinkmsg').show();
+jQuery('#exlinkmsg').dialog({
+modal: true,
+resizable: false,
+overlay: {
+opacity: 0.4,
+background: "black"
+},
+buttons: {
+"Continue": function() {
+window.open(url);
+jQuery(this).dialog("close");
+}
+}});
+}); // Selects all anchors which link to external site/page
+});
+-->
+</script>
   <base href="http://www.fultoncountyga.gov/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -17,33 +58,6 @@
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
-  <!-- JoomlaWorks "AllVideos" Plugin (v3.3) starts here -->
-
-		
-		
-
-<style type="text/css" media="all">
-	@import "http://www.fultoncountyga.gov/plugins/content/jw_allvideos/tmpl/css/template.css";
-</style>
-		
-<script type="text/javascript" src="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/players/wmvplayer/silverlight.js"></script>
-<script type="text/javascript" src="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/players/wmvplayer/wmvplayer.js"></script>
-<script type="text/javascript" src="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/players/quicktimeplayer/AC_QuickTime.js"></script>
-<script type="text/javascript" src="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/jw_allvideos.js"></script>
-			
-<script type="text/javascript">
-	//<![CDATA[
-	window.addEvent('domready', function() {
-		AllVideosLightBox.Init({
-			AVLBWidth:800,
-			AVLBHeight:600
-		});
-		AllVideosEmbed.Init();
-	});
-	//]]>
-</script>
-			
-<!-- JoomlaWorks "AllVideos" Plugin (v3.3) ends here -->
   <script type="text/javascript" src="http://www.fultoncountyga.gov/modules/mod_swmenufree/transmenu_Packed.js"></script>
   <style type="text/css">
 <!--
@@ -189,7 +203,7 @@ div.menu td.last {
 	<td width="554" class="bgtop"><div class="searchp">		<div class="moduletable2">
 					<form action="index.php" method="post">
 	<div class="search2">
-		<input name="searchword" id="mod_search_searchword" maxlength="50" alt="Search" class="inputbox2" type="text" size="50" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button2" onclick="this.form.searchword.focus();">	</div>
+		<input name="searchword" id="mod_search_searchword" maxlength="50" alt="Search" class="inputbox2" type="text" size="40" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button2" onclick="this.form.searchword.focus();">	</div>
 	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
 	<input type="hidden" name="Itemid" value="216">
@@ -224,8 +238,11 @@ div.menu td.last {
 <td> 
 <a id="menu84" href="/personnel">Employment</a>
 </td> 
-<td class="last"> 
+<td> 
 <a id="menu1127" href="/departments-and-agencies">Departments &amp; Agencies</a>
+</td> 
+<td class="last"> 
+<a id="menu2098" href="/employee-source-home-menu">For Employees</a>
 </td> 
 </tr> 
 </tbody></table></div> 
@@ -277,6 +294,11 @@ ms.hideCurrent();
 this.className = "hover";
 }
 document.getElementById("menu1127").onmouseout = function() { this.className = ""; }
+document.getElementById("menu2098").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu2098").onmouseout = function() { this.className = ""; }
 }}
 TransMenu.dingbatSize = 0;
 TransMenu.spacerGif = "";
@@ -322,7 +344,7 @@ window.onload = init();
 	<td colspan="3" height="">		<div class="moduletable">
 					<div class="bannergroup">
 
-<div class="banneritem"><img src="http://www.fultoncountyga.gov/images/banners/banner_homepage5.jpg" alt="Banner" border="0"><div class="clr"></div>
+<div class="banneritem"><img src="http://www.fultoncountyga.gov/images/banners/banner_homepage2.jpg" alt="Banner"><div class="clr"></div>
 	</div>
 
 </div>		</div>
@@ -459,7 +481,7 @@ function openpage(link)
 					
 
 <div style="margin: 10px;">
-<strong id="91d7f1">Share</strong><br>	<a href="#" onclick="location.href='http://del.icio.us/post?v=2&amp;url='+encodeURIComponent(location.href)+'�es=&amp;tags=&amp;title='+encodeURIComponent(document.title);return false;">
+<strong id="ea3ea0">Share</strong><br>	<a href="#" onclick="location.href='http://del.icio.us/post?v=2&amp;url='+encodeURIComponent(location.href)+'�es=&amp;tags=&amp;title='+encodeURIComponent(document.title);return false;">
 	<img src="http://www.fultoncountyga.gov/modules/mod_socialmedia/socialmedia_buttons/delicious.gif" border="0" alt="del.icio.us" title="del.icio.us" style="border:1px solid #CCCCCC;padding:1px;margin: 0px;">
 	</a>
 		<a href="#" onclick="location.href='http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;bodytext=&amp;tags=&amp;title='+encodeURIComponent(document.title);return false;">
@@ -477,7 +499,7 @@ function openpage(link)
 	</div>
 <script type="text/javascript">
 <!--
-document.getElementById('91d7f1').innerHTML = 'Share';
+document.getElementById('ea3ea0').innerHTML = 'Share';
 //-->
 </script>
 		</div>
@@ -513,40 +535,6 @@ document.getElementById('91d7f1').innerHTML = 'Share';
 <tr><td><a href="/unincorporated-fulton-county-services-sm" class="mainlevel">Unincorporated Fulton County Services</a></td></tr>
 <tr><td><a href="/registration-elections" class="mainlevel">Voting and Elections</a></td></tr>
 </tbody></table>		</div>
-			<div class="moduletable_leftnav">
-					<h3>Audio News</h3>
-					
-<p style="text-align: center;"><em>Hear County Manager Zach Williams discussing ¢itizen $ense on WCLK</em><br>
-
-<!-- JoomlaWorks "AllVideos" Plugin (v3.3) starts here -->
-
-<span class="avPlayerContainer">
-	<span style="width:200px;" class="avPlayerSubContainer">
-	
-		<span id="AVPlayerID_bc752e62" class="avPlayerBlock" style="padding-bottom:8px;">
-			
-<object type="application/x-shockwave-flash" style="width:200px;height:20px;" data="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/players/mediaplayer/player.swf" title="JoomlaWorks AllVideos Player">
-	<param name="movie" value="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/players/mediaplayer/player.swf">
-	<param name="quality" value="high">
-	<param name="wmode" value="transparent">
-	<param name="bgcolor" value="#010101">
-	<param name="autoplay" value="false">
-	<param name="allowfullscreen" value="false">
-	<param name="allowscriptaccess" value="always">
-	<param name="flashvars" value="file=http://www.fultoncountyga.gov/images/audio/Fulton_Focus.mp3&amp;autostart=false">
-</object>
-		</span>
-
-				
-				<a class="avDownload" href="http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/download.php?file=images/audio/Fulton_Focus.mp3" title="Click to download media" style="margin:0;padding:0;border:none;">Download</a>
-		
-				
-	</span>
-</span>
-
-<!-- JoomlaWorks "AllVideos" Plugin (v3.3) ends here -->
-
-</p>		</div>
 	</td>
 	<td width="16"><img src="http://www.fultoncountyga.gov/templates/fulco_blue_default/images/content_shadow_lft.gif" width="16" height="400" alt="" border="0"></td>
 	<td width="477" align="left"><img src="http://www.fultoncountyga.gov/templates/fulco_blue_default/images/content_shadow_top.gif" width="477" height="14" alt="" border="0"><br>
@@ -607,10 +595,10 @@ document.getElementById('91d7f1').innerHTML = 'Share';
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy71933 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
- addy71933 = addy71933 + 'F&#117;lt&#111;nC&#111;&#117;ntyG&#97;' + '&#46;' + 'g&#111;v';
- document.write( '<a ' + path + '\'' + prefix + addy71933 + suffix + '\'' + attribs + '>' );
- document.write( addy71933 );
+ var addy16764 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
+ addy16764 = addy16764 + 'F&#117;lt&#111;nC&#111;&#117;ntyG&#97;' + '&#46;' + 'g&#111;v';
+ document.write( '<a ' + path + '\'' + prefix + addy16764 + suffix + '\'' + attribs + '>' );
+ document.write( addy16764 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:webmaster@FultonCountyGa.gov">webmaster@FultonCountyGa.gov</a><script language="JavaScript" type="text/javascript">
@@ -668,7 +656,7 @@ function googleTranslateElementInit() {
 			<div class="moduletable_minibanner">
 					<div class="bannergroup_minibanner">
 
-<div class="banneritem_minibanner"><a href="/component/banners/click/76"><img src="http://www.fultoncountyga.gov/images/banners/newsletter_side_banner.gif" alt="Banner" border="0"></a><div class="clr"></div>
+<div class="banneritem_minibanner"><a href="/component/banners/click/76"><img src="http://www.fultoncountyga.gov/images/banners/newsletter_side_banner.gif" alt="Banner"></a><div class="clr"></div>
 	</div>
 
 </div>		</div>
