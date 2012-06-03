@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplan.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231185928id_/http%3A//healthplan.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplan.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603091250id_/http%3A//www.healthplan.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ Although we perform payment and healthcare operations activities, which require 
 
   * How we protect your privacy. We use security measures to protect against the loss, misuse and alteration of data used by our system.
   * Sharing and Usage. We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
-  * How can you stop receiving email from us? Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [sorick@healthplan.com](mailto:sorick@healthplan.com) for review.
+  * How can you stop receiving email from us? Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [sales@healthplan.com](mailto:sorick@healthplan.com) for review.
 
 
 
