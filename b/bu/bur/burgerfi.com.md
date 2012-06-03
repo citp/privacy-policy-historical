@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the burgerfi.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204175507id_/http%3A//www.burgerfi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgerfi.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124710id_/http%3A//burgerfi.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Burgerfi
+# 
 
 **At BurgerFi we hope that you enjoy our food and our Website and come back to visit us again. Because we value your patronage and respect your privacy rights, we want to provide you with this statement of our Privacy Policy. This Privacy Policy governs your use of any Website or Webpage operated by BurgerFi, including any site from which you access this agreement (collectively, our "Website"), and applies to Personal Information (as defined below) collected by us at our Website.**
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
 ## What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -31,7 +31,7 @@ The email address you provide for order processing, will only be used to send yo
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
@@ -71,8 +71,9 @@ This policy was last modified on January 5, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[www.BurgerFi.com](http://www.burgerfi.com%3C/)  
-290 East Atlantic Avenue  
-Delray Beach, Florida 34444  
+[www.BurgerFi.com](http://www.burgerfi.com/)  
+BurgerFi International, LLC  
+105 US Highway 1  
+North Palm Beach, FL 33408  
 USA  
 [info@burgerfi.com](mailto:info@burgerfi.com)
