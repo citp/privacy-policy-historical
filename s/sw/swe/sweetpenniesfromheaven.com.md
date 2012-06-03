@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetpenniesfromheaven.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110820id_/http%3A//sweetpenniesfromheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetpenniesfromheaven.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603225145id_/http%3A//sweetpenniesfromheaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,6 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[](http://tellafriend.socialtwist.com/)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsweetpenniesfromheaven.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
