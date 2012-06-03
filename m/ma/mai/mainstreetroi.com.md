@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103062848id_/http%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603223207id_/http%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Main Street ROI
 
