@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218205519id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603022924id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy   
+| 
+
+[ ](http://videos.imagesbazaar.com/)
+
+|  | Privacy Policy   
 ---  
 |  | **  
 Our online Registration Form asks visitors for demographic information (like their PIN code or Telephone No.)**   
@@ -47,4 +51,6 @@ When you sign up for an IMAGES BAZAAR e-mail newsletter, you are given the oppor
 
 By using the IMAGES BAZAAR site, you consent to the collection and use of information by IMAGES BAZAAR as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Please send any questions about IMAGES BAZAAR’S Privacy Policy to [info@imagesbazaar.com](mailto:info@imagesbazaar.com)
+Please send any questions about IMAGES BAZAAR’S Privacy Policy to [info@imagesbazaar.com](mailto:info@imagesbazaar.com)  
+  
+"We as a merchant shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time"
