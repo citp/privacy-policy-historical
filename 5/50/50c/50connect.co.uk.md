@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005739id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603023022id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # 50 Connect | Privacy policy
 
@@ -111,7 +111,7 @@ During the course of any visit to 50connect.co.uk, the pages you see, along with
   
 
 
-### b. How does Olderiswiser Limited use cookies?
+###  b. How does Olderiswiser Limited use cookies?
 
 Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
