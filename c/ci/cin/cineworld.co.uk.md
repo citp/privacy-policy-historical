@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227031227id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603080106id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
 
 # Cineworld Cinemas: Privacy Policy
 
 ## Privacy Policy
 
-Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/web/20111227031227id_/http%3A//terms).
+Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/terms).
 
 We use the information we collect about you to help efficiently administer our business and the services we provide to you in accordance with the Data Protection Act 1998. We take privacy seriously and endeavour to be as open as possible in terms of how your information is used.
 
@@ -14,13 +14,17 @@ By entering your personal information on the Cineworld web site you accept that 
 
 #### General Bookings
 
-If you wish to book tickets using our web site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you service related emails related to each booking.  
+If you wish to book tickets using our web site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you service related emails related to each booking (including one follow-up email after your cinema visit, to check that you were satisfied with the service).  
 
-#### MyCineworld
+#### mycineworld
 
-If you wish to sign up to the MyCineworld service, you will need to complete the registration process and we will need to know your name and e-mail.
+If you wish to sign up to the mycineworld service, you will need to complete the registration process and we will need to know your name and e-mail.
 
-If you sign up to the MyCineworld service, our agents and sub-contractors shall use this information to communicate with you on any matter relating to provision of our services in general. We may further use the information we collect to facilitate your use of our Cineworld Advance Booking service or to send to you our weekly email communication, containing information of upcoming attractions and information about special features of our Web Site or any other service or products which we think may be of interest to you. If at any time you decide you would rather not receive this information, please use the modify function on the Web Site. In any event, a facility explaining how to unsubscribe is available at the end of every correspondence.
+If you sign up to the mycineworld service, our agents and sub-contractors shall use this information to communicate with you on any matter relating to provision of our services in general. We may further use the information we collect to facilitate your use of our Cineworld Advance Booking service or to send to you our weekly email communication, containing information of upcoming attractions and information about special features of our Web Site or any other service or products which we think may be of interest to you. If at any time you decide you would rather not receive this information, please use the modify function on the Web Site. In any event, a facility explaining how to unsubscribe is available at the end of every correspondence.
+
+#### Facebook Connect
+
+mycineworld account holders who sign up or connect using Facebook Connect will also be subject to Facebook's terms and conditions of use and privacy policy, for which Cineworld is not responsible.
 
 #### External web sites
 
@@ -28,7 +32,7 @@ The Web Site links to a number of external web sites and then to the Internet an
 
 #### What about "cookies"?
 
-"Cookies" are small pieces of information that are stored by your browser on your computer. Our cookies contain information that we can use to identify you and allow us to efficiently operate the Login service. The information stored within the cookie is encoded and restricted so only Cineworld and its agents (which include third-party advertising companies) are allowed access. We will use this information to track site usage, tailor site content, and prevent service abuse. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this Web Site.
+"Cookies" are small pieces of information that are stored by your browser on your computer. Our cookies contain information that we can use to identify you and allow us to efficiently operate the Login service. The information stored within the cookie is encoded and restricted so only Cineworld and its agents (which include third-party advertising companies) are allowed access. We will use this information to track site usage, tailor site content, and prevent service abuse. Please see our [Cookie Policy](http://www.cineworld.co.uk/aboutcookies) for more information on how we use cookies, and how you can adjust your cookie settings. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this Web Site.
 
 #### How does Cineworld protect customer information?
 
@@ -41,6 +45,8 @@ Cineworld may provide aggregate statistics about our customers, sales, traffic p
 If you have given us your consent to do so during the registration process, we may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If subsequently you do not wish us to disclose your information in this way, please use the modify function on the Web Site.
 
 Please note, however, that Cineworld may be required to disclose your personal information to third parties as a result of a court order or pursuant to a statutory or governmental order or decree or to comply with any search warrant or similar presented to Cineworld by any to law enforcement or government officer.
+
+In addition, where you enter a competition, we may pass your details on to third parties for the purposes of administering the competition and/or delivering prizes only.
 
 #### Sale of business
 
