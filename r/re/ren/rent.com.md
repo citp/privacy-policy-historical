@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229175806id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604071125id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Rent.com:
 
@@ -38,7 +38,6 @@ We may also collect information about your computer or other access device to mi
     * Enforce our agreements, terms, condition, and policies.
     * Provide services as otherwise described to you at the time of collection.
   4. Disclosure. We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may share some or all of your personal information with:
-    * Members of the eBay Inc. corporate family -like PayPal, eBay Classifieds or Shopping.com-to provide joint content and services, to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.
     * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
     * Other third parties to whom you explicitly ask us to send your information, or about whom you are explicitly notified and consent to when using a specific service. (The information we disclose in this way may be subject to those third parties' privacy policies.)
     * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, invoicing, affiliate and rewards programs and co-branded credit cards).
@@ -80,7 +79,7 @@ or
 
 [Contact Us](https://web.archive.org/company/contact/renter/?subject=renter_other)
 
-Last updated October 12, 2010
+Last updated April 2, 2012
 
 
 
