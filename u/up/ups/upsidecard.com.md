@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205094625id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604182352id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
 
@@ -24,11 +24,11 @@ We are committed to protecting our customers’ privacy and security. This discl
 
 We collect and may disclose the following information about you: 
 
-o Information you provide on applications or other forms, such as name, address, e-mail address, social security number, telephone number, and date of birth; 
+  * Information you provide on applications or other forms, such as name, address, e-mail address, social security number, telephone number, and date of birth;
+  * Information about your transactions with us, our affiliates, or other parties, such as card balance, payment history, parties to transactions, and card usage;
+  * Information we receive from a consumer reporting agency, such as verification of your identity and creditworthiness.
 
-o Information about your transactions with us, our affiliates, or other parties, such as card balance, payment history, parties to transactions, and card usage; and 
 
-o Information we receive from a consumer reporting agency, such as verification of your identity and creditworthiness. 
 
 We may also collect and disclose information about how users use our Web site, for example, by tracking unique views received by pages of the Web site or the domains from which users originate. This information is not personally identifiable. We may also use “cookies” to track returning users to our Web site. A cookie is a piece of software that a Web server can store on the users’ PCs and use to identify the users should they visit the Web site again. Information collected may be associated with nonpublic personal information users provide us through our Web site. 
 
@@ -48,7 +48,7 @@ You have the choice to opt out from our sharing of information with these types 
 
 **YOUR RIGHT TO OPT-OUT OF DISCLOSURES TO AFFILIATES AND NON-AFFILIATED THIRD PARTIES**
 
-If you prefer that we not share nonpublic personal information about you with third parties, you may opt-out of those disclosures at any time by directing us not to make those disclosures (other than disclosures permitted or required by law). You may opt-out by calling Customer Service at (866) 845-6273 or by writing to us at “Upside Cardholder Services”, PO Box 550160 Ft. Lauderdale, Fl 33355-0160. 
+If you prefer that we not share nonpublic personal information about you with third parties, you may opt-out of those disclosures at any time by directing us not to make those disclosures (other than disclosures permitted or required by law). You may opt-out by calling Customer Service at (866) 845-6273 or by writing to us at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004. 
 
 **INFORMATION SECURITY**
 
@@ -80,23 +80,23 @@ In order to comply with Vermont law, if our records with respect to your card in
 
 **QUESTIONS**
 
-If you have any questions regarding this Privacy Disclosure, you can contact us at (866) 845-6273 or write to us at “Upside Cardholder Services”, PO Box 550160 Ft. Lauderdale, Fl 33355-0160. 
+If you have any questions regarding this Privacy Disclosure, you can contact us at (866) 845-6273 or write to us at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004. 
 
 This Privacy Disclosure explains the privacy policies of Plastyc Inc. (“Plastyc”) with respect to the UPside Card Services inclusive of customer enrollment, self care and value added services provided through any combination of the UPside Card websites, phone lines and electronic mail and postal mail services, but exclusive of the payment transaction services and card issuance services, which are governed by the MetaBank Privacy Policy. 
 
 We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. This Privacy Disclosure applies to all users of our websites and value-added services, whether they are minor or major, and whether they are a prospective cardholder, existing cardholder, or parent/tutor of a prospective or existing cardholder. 
 
-**1\. The Children Online Privacy Protection Act (COPPA)**
+**The Children Online Privacy Protection Act (COPPA)**
 
 The Children Online Privacy Protection Act, effective April 21, 2000 applies to the online collection of personally identifiable information and aggregate information from children under 13. We do not knowingly market to or solicit information from children under 13. We have made it a policy at Plastyc to not accept any applications or communications from children under the age of 13. Since we do not collect information from children we are not required by law to comply with COPPA, but we do choose to adhere to its principles. We are not responsible for the data collection and practices of nonaffiliated third parties that may be linked to/from our Web site, with respect to COPPA compliance. 
 
 We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. While Plastyc works to protect your personal information, you also have responsibility. 
 
-**2\. INTERNET SAFETY For CHILDREN**
+**INTERNET SAFETY For CHILDREN**
 
 The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate Web sites and be exposed to unwanted risks. Parents can be proactive by installing filtering software that gives them more control over their family’s Internet experience. Learn more about COPPA at [www.coppa.org](http://www.coppa.org/) and on the Federal Trade Commission’s Web Site at [www.ftc.gov](http://www.ftc.gov/). 
 
-**3\. DEFINITIONS**
+**1\. DEFINITIONS**
 
  _We, our, and us_
 
@@ -130,7 +130,7 @@ _Opt out_
 
 , means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice. 
 
-**4\. INFORMATION COLLECTION & USE**
+**2\. INFORMATION COLLECTION & USE**
 
  _Registration_
 
@@ -142,21 +142,21 @@ _Application for a Card_
 
 If you apply for an UPside Card on our site, we require that you provide certain personally identifiable information, including your name, address, phone number, date of birth, bank account information and/or credit card information and Social Security Number. This information is necessary to process your application and contact you, as well as comply with the USA Patriot Act with respect to the issuance of financial instruments.
 
-As part of the card application process, part of the information you supply to us is transmitted to one of the 3 major US Credit Bureaus, Experian, Equifax or TransUnion solely for the purpose of verifying the consistency of your identity, Social Security Number and address. We do not seek any information pertaining to your credit record from such bureaus. 
+As part of the card application process, part of the information you supply to us is transmitted to one of the 3 major US Credit Bureaus, Experian, Equifax or TransUnion solely for the purpose of verifying the consistency of your identity, Social Security Number and address. We do not seek any information pertaining to your credit record from such bureaus. We do not retain any copy of your Social Security Number after such verification. 
 
-Further storage and management of the card application information is governed by [MetaBank Privacy Policy](http://www.fckeditor.net/fckeditor/editor/fckeditor.html?InstanceName=FCKeditor1&Toolbar=Default#1), as MetaBank is the issuer of the cards. 
+Further storage and management of the card application information is governed by MetaBank Privacy Policy, as MetaBank is the issuer of the cards. 
 
-_Participation in the UPside Loyalty Program_
+_Participation in the Loyalty Program_
 
 Once your application for an UPside Card is successfully approved, you may opt to become a member of the UPside Loyalty Program, allowing you to be granted loyalty points exchangeable for certain rewards, and allowing you to receive special product recommendations and offers from third-party merchants or service providers having partnered with Plastyc to this effect.
 
-During the UPside Loyalty Program opt-in process, we may ask you non-personally identifiable lifestyle information such as preferred music genres, favorite sports, or preferred brands of products. We will use card usage information such as the frequency and amounts of monetary reloads in the card to determine how many loyalty points you may receive. 
+During the Loyalty Program opt-in process, we may ask you non-personally identifiable lifestyle information such as preferred music genres, favorite sports, or preferred brands of products. We will use card usage information such as the frequency and amounts of monetary reloads in the card to determine how many loyalty points you may receive. 
 
 We will use certain non-personally identifiable information such as zip code, or lifestyle information provided by you during the UPside Loyalty Program opt-in process, to direct product recommendations and offers from third-party merchants to your online account. 
 
 No personally identifiable information will be passed along by Plastyc to any third-party merchant as part of the UPside Loyalty Program services. Only if you (a) choose voluntarily to accept a product recommendation or offer, and (b) decide to contact the merchant having originated the recommendation or offer, or (c) decide to redeem some of your points with certain merchant, will any personally identifiable information be possibly accessible to such merchant. 
 
-You may opt out of the UPside Loyalty Program at any time through the UPside Card websites. 
+You may opt out of the Loyalty Program at any time through the UPside Card websites. 
 
 _Visits to the UPside Mall_
 
@@ -196,19 +196,26 @@ As is true with most web sites, we gather certain information automatically and 
 
 We do not link this automatically-collected data to personally identifiable information. 
 
-We use a third party tracking service (NAME) that uses cookies/log files to track non- personally identifiable information about visitors to our site in the aggregate, e.g. usage and volume statistics to analyze trends, to administer this site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We may use from time to time third party tracking services such as Quantcast that use cookies/log files to track non-personally identifiable information about visitors to our site in the aggregate, e.g. usage and volume statistics to analyze trends, to administer this site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
 _Supplementation of Information_
 
 In order to provide certain services to you we may on occasion supplement the personal information you submitted to us via the UPside Card websites with information from third party sources.  
-For example:  
+For example:
+
+  * Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.
+  * Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.
+  * Allowing you to reload UPside Cards from a checking account via an UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers.
+
+
+
 \- Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.  
 \- Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.  
-\- Allowing you to reload UPside Cards from a checking account via an UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers. 
+\- Allowing you to fund your prepaid account from a checking account via the UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers. 
 
 We may also purchase marketing data from third parties and add it to our existing user database to better target our advertising and to provide pertinent offers which we think you would be interested in. To enrich our Profiles of individual customers, we tie that information to the personally identifiable information they have provided to us. 
 
-**5\. CHOICE OPT-IN/OPT-OUT**
+**3\. CHOICE OPT-IN/OPT-OUT**
 
 We provide you the opportunity to “opt-in” to certain optional services making use of personally identifiable information which we may ask you as part of the opt-in process, such as, by way of example, the UPside Loyalty Program offering the combination of a loyalty reward program and product promotions and recommendations.
 
@@ -220,7 +227,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 You will be notified when any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party collects your personally identifiable information. 
 
-**6\. COMMUNICATIONS FROM THE UPSIDE CARD WEBSITES**
+**4\. COMMUNICATIONS FROM THE UPSIDE CARD WEBSITES**
 
  _Special Offers and Updates_
 
@@ -242,7 +249,7 @@ _Customer Service_
 
 Based upon personally identifiable information you provide us, we will send you a welcoming email to verify your user name and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
 
-**7\. INFORMATION SHARING AND DISCLOSURE**
+**5\. INFORMATION SHARING AND DISCLOSURE**
 
  _Aggregate information (non-personally identifiable)_
 
@@ -252,7 +259,7 @@ We do not link aggregate data with personally identifiable information.
 
 _Service Providers_
 
-We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information. _See our Choice/Opt-out section above._
+We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information. _See ourChoice/Opt-out section above._
 
 These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
@@ -260,36 +267,36 @@ _Legal Disclaimer_
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site. 
 
-**8\. ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**
+**6\. ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, deactivate or delete it by making the change on our member information page, or by emailing customer support through our secure Contact Us link at the bottom of the member information page.  You may also contact us by telephone at (866) 845-6273 or by postal mail at “Upside Cardholder Services”, PO Box 550160 Ft. Lauderdale, Fl   33355-0160.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, deactivate or delete it by making the change on our member information page, or by emailing customer support through our secure Contact Us link at the bottom of the member information page.  You may also contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.
 
-**9\. SECURITY**
+**7\. SECURITY**
 
 We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your transactions). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers. 
 
 Although we follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it, no method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. 
 
-If you have questions about security on our Web Site, you can contact us by telephone at (866) 845-6273 or by postal mail at “Upside Cardholder Services”, PO Box 550160 Ft. Lauderdale, Fl   33355-0160.
+If you have questions about security on our Web Site, you can contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.
 
-**10\. SPECIAL NOTICE FOR CALIFORNIA RESIDENTS**
+**8\. SPECIAL NOTICE FOR CALIFORNIA RESIDENTS**
 
 In order to comply with California law, if our records with respect to your card indicate a California address we will not disclose information that we have about you outside of our family of companies, unless otherwise permitted by law. 
 
-**11\. SPECIAL NOTICE FOR VERMONT RESIDENTS**
+**9\. SPECIAL NOTICE FOR VERMONT RESIDENTS**
 
 In order to comply with Vermont law, if our records with respect to your card indicate a Vermont address we will not disclose nonpublic personal financial information about you to nonaffiliated third parties, other than permitted by law, unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you. 
 
-**12\. BUSINESS TRANSITIONS**
+**10\. BUSINESS TRANSITIONS**
 
 In the event Plastyc, Inc. And Plastyc.com go through a business transition, such as a merger, acquisition by another company, or a sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and by a prominent notice on our web site of any change in ownership or control of your personally identifiable information. 
 
-**13\. CHANGES IN THIS PRIVACY STATEMENT**
+**11\. CHANGES IN THIS PRIVACY STATEMENT**
 
 If we decide to change our privacy policy, we will psot those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our home page. 
 
-**14\. CONTACT US**
+**12\. CONTACT US**
 
-If you have questions or suggestions regarding our privacy policy, please contact us by telephone at (866) 845-6273 or by postal mail at “Upside Cardholder Services”, PO Box 550160 Ft. Lauderdale, Fl   33355-0160.
+If you have questions or suggestions regarding our privacy policy, please contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.
