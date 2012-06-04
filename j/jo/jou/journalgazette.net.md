@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224151557id_/http%3A//www.journalgazette.net/article/99999999/ABOUT04/709742840) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605001637id_/http%3A//www.journalgazette.net/article/99999999/ABOUT04/709742840) for the most accurate reproduction.*
 
 # JournalGazette.net - about us | The Journal Gazette | Fort Wayne, IN
 
@@ -66,9 +66,9 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 This privacy statement applies only to information collected by this Web site. 
 
-**Associated Press**
+**Newsright**
 
-This website uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
+This website uses services provided by Newsright. Newsright collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the site means you accept the privacy policy of the Newsright. Please refer to the Newsright privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
 
 **PRIVACY PROTECTION FOR CHILDREN**. In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Fort Wayne Newspapers sites to persons under the age of thirteen (13). If Fort Wayne Newspapers later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Fort Wayne Newspapers sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
 
