@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nbcdfw.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222437id_/http%3A//www.nbcdfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcdfw.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604045125id_/http%3A//www.nbcdfw.com/privacy) for the most accurate reproduction.*
 
-# | NBC 5 Dallas-Fort Worth
-
-## Privacy Policy
+# Privacy Policy | NBC 5 Dallas-Fort Worth
 
 _This Privacy Policy was last updated on July 8, 2011._
 
