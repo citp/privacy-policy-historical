@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107162826id_/http%3A//www.singersroom.com/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604043713id_/http%3A//singersroom.com/inside/privacy-policy) for the most accurate reproduction.*
 
-# Singersroom.com: Singersroom.com Privacy Policy
+# Privacy Policy | Singersroom.com
 
 Singersroom is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our Web site. In order to enhance your experience at our site we gather certain personal information about you that helps us customize our content to your tastes and preferences. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically. 
 
@@ -24,7 +24,7 @@ Singersroom's primary goal in collecting personal information is to provide you,
 In addition, if we feel that a user abuses the Singersroom site in any way, we reserve the right to share certain information with third parties. Abuses include (but are not limited to) posssible copyright infringement, possible libel and slander, possible credit card fraud.
 
 Advertising Data Collection   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). To opt out of behavioral targeting [click here.](hhttp://www.networkadvertising.org/managing/opt_out.asp%20) Singersroom participates in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, find out more about “Ad Choices” [here](http://www.aboutads.info/choices/). 
 
 With whom do we share your information and for what purpose?   
 Singersroom does not sell, rent, or trade your personal information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, promotion or contest. 
@@ -37,4 +37,4 @@ By using our Web site, you consent to the collection and use of your personal in
 Changes to our Privacy Policy   
 From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others. 
 
-If you have suggestions as to how the site can be improved, please [**email us**](https://web.archive.org/inside/contact)
+If you have suggestions as to how the site can be improved, please [**email us**](http://www.singersroom.com/inside/contact)
