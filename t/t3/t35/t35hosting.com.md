@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t35hosting.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143019id_/http%3A//www.t35hosting.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t35hosting.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604111437id_/http%3A//www.t35.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Free Web Hosting Terms of Service - T35 Hosting
 
