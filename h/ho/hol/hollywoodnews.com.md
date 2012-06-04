@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206044932id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604123319id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | HollywoodNews.com
 
-This privacy statement discloses the privacy practices for the Hollywood News®, Hollywood Network®, HollywoodNet®, Hollywood Shopping Network®, Hollywood Conferences™, Hollywood Film Conference™, Hollywood Film Festival®, Hollywood Awards®, and Hollywood Network, Inc. (hereinafter “Companies”), and all of their websites, including hollywoodnews.com, hollywoodnet.com, hollywoodnetwork.com, hollywoodfilmfestival.com, hollywoodawards.com, hollywoodlive.com, hollywoodfashion.com,and hollywoodshopping.com, among others.
+This privacy statement discloses the privacy practices for the Hollywood News® and HollywoodNews.com.
 
 Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security.
 
@@ -69,10 +69,9 @@ Please remember that any information you may disclose in or on our directories, 
 If you have any questions about this Privacy Policy you may contact:
 
 Customer Service  
-Carlos de Abreu
-
-Hollywood Network, Inc.  
+Legal Matters  
+HollywoodNews.com  
 433 N. Camden Drive, Suite 600  
 Beverly Hills, CA 90210  
-[info@hollywoodnetwork.com](https://web.archive.org/web/20111206044932id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnetwork.com)  
+[info@hollywoodnews.com](https://web.archive.org/web/20120604123319id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnews.com)  
 Phone: 310-887-1444 – Fax: 310-288-0060
