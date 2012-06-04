@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213023122id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604072605id_/http%3A//www.thegauntlet.com/policy.php) for the most accurate reproduction.*
 
 # The Gauntlet - heavy metal, news, reviews, interviews, videos, setlists
 
@@ -12,7 +12,10 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ####  Advertisers 
 
-We use an both an outside ad company and inhouse ad network to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use an both an outside ad company and inhouse ad network to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.   
+(1) State that the site’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags;   
+(2) Enable end users to opt out of behavioral targeting through the opt-out link located at http://www.networkadvertising.org/managing/opt_out.asp; and   
+(3) Note that you are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an “Ad Choices” link on your site or within advertising units that links to http://www.aboutads.info/choices/. 
 
 ####  Contests 
 
