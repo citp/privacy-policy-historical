@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnoytv.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227032847id_/http%3A//www.pnoytv.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnoytv.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604191410id_/http%3A//www.pnoytv.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Pnoy TV: Privacy Policy | Watch Pinoy TV Channel and Shows Online | Pinoy OFW Tambayan
 
