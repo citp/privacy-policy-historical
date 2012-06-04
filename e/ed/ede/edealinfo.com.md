@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143101id_/http%3A//www.edealinfo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605015152id_/http%3A//www.edealinfo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,9 @@ _eDealinfo.com Inc. Privacy Policy_
 > 
 > _Cookies_
 > 
-> We do not set any cookies on your machine. However our site provides links to other third party websites. The third party website may set cookies and it is governed by their privacy policy. You will be redirected to the third party website only when you click on one or more links on our site that link to the third party website. You will never be redirected to the third party website automatically. 
+> Non-personal information and data may be automatically collected through the standard operation of eDealinfo.com through the use of "cookies". Cookies are small text files that our site places on your computer's hard drive to recognize and facilitate the user's use of the site. Most browsers allow a user to deny cookies; however, users should note that cookies may be required to provide certain web site features. 
+> 
+> Our site also provides links to other third party websites. The third party website may set cookies and it is governed by their privacy policy. You will be redirected to the third party website only when you click on one or more links on our site that link to the third party website. You will never be redirected to the third party website automatically. 
 > 
 > _Business relationships_
 > 
@@ -44,4 +46,4 @@ _eDealinfo.com Inc. Privacy Policy_
 > 
 > _Effective date_
 > 
-> This Privacy Policy was last updated on September 01, 2009. 
+> This Privacy Policy was last updated on April 18, 2012. 
