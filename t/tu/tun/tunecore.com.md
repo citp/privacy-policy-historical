@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213041429id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604095402id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
 
-# TuneCore : Privacy Policy
+# Privacy Policy | TuneCore
 
 ### Effective as of August 31, 2011
 
