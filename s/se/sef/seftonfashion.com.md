@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seftonfashion.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224170146id_/http%3A//www.seftonfashion.com/pag92.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seftonfashion.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604045057id_/http%3A//www.seftonfashion.com/pag92.aspx) for the most accurate reproduction.*
 
 # Privacy - Sefton Fashion
 
