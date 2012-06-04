@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the radiosargam.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016081558id_/http%3A//www.radiosargam.com/films/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiosargam.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604113659id_/http%3A//www.radiosargam.com/films/privacy) for the most accurate reproduction.*
 
-# Privacy - RS Bollywood Online
+# Privacy « RS Bollywood Online
 
 Radiosargam.COM PRIVACY STATEMENT
 
 Radiosargam.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Web site.
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at radiosargam@hotmail.com.  
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [radiosargam@hotmail.com](mailto:radiosargam@hotmail.com).  
 Summary
 
 Our primary goal in collecting user information is to enhance your experience on our Web site. We use aggregated (gathered up data across all user accounts) information to develop content targeted to users’ interests and to better the Web site user experience. Radiosargam.com is committed to your privacy and will not share any personal information with any third party at any time, unless required by law.
@@ -31,7 +31,7 @@ A cookie is a data file that certain Web sites write to your computer’s hard d
 
 Most Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our Web site, you may not be able to use certain features of the site.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation toÂ·not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Browser Level Information
 
@@ -74,12 +74,12 @@ Privacy of Children
 Kids under 13: Do not send any information about yourself to us–including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
 
 How to Contact Us  
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at radiosargam@hotmail.com. We read every message submitted and try to reply promptly to every one.
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [radiosargam@hotmail.com](mailto:radiosargam@hotmail.com). We read every message submitted and try to reply promptly to every one.
 
 How Will I Know if the Privacy Policy Is Changed?  
 This statement may change from time to time, so please check back periodically. [If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.]
 
-© 2005 Radiosargam.com Inc. All Rights Reserved.  
+Â© 2005 Radiosargam.com Inc. All Rights Reserved.  
 DEFINITIONS:
 
 IP address: Every computer connected to the Internet has a numeric address called an “IP address.” This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor’s Internet service provider, employer, university, etc. As part of its database analysis Radiosargam.com resolves IP addresses to domain names.
