@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231075050id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604044651id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
