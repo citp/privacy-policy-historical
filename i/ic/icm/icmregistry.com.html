@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icmregistry.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226181258id_/http%3A//www.icmregistry.com/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icmregistry.com privacy policy that was archived on 2012-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604061455id_/http%3A//www.icmregistry.com/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,6 +30,7 @@
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-22768834-2']);
  _gaq.push(['_trackPageview']);
+ _gaq.push(['_trackEvent']);
 
  (function() {
    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -38,9 +39,217 @@
  })();
 
 </script>
+<script>
+$(window).load(function() {	
+	//if the cookie hasLaunch is not set, then show the modal window
+		if (!readCookie('hasLaunch')) {
+		//launch it
+		
+			
+		
+		//then set the cookie, so next time the modal won't be displaying again.
+		createCookie('hasLaunch', 1, 365);
+	}
+	
+	//if close button is clicked
+	$('.window .close').click(function () {
+		$('#mask').hide();
+		$('.window').hide();
+	});		
+	
+	//if mask is clicked
+		
+	
+
+	$(window).resize(function () {
+	 
+ 		var box = $('#boxes .window');
+ 
+        //Get the screen height and width
+        var maskHeight = $(document).height();
+        var maskWidth = $(window).width();
+      
+        //Set height and width to mask to fill up the whole screen
+        $('#mask').css({'width':maskWidth,'height':maskHeight});
+               
+        //Get the window height and width
+        var winH = $(window).height();
+        var winW = $(window).width();
+
+        //Set the popup window to center
+        box.css('top',  winH/2 - box.height()/2);
+        box.css('left', winW/2 - box.width()/2);
+	 
+	});	
+	
+});
+
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+ 
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+function launchWindow(id) {
+	
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(1000);	
+		$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height());
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).show(); 
+	
+
+}
+
+</script>
+<meta name="norton-safeweb-site-verification" content="nm2rkuigz50jh8xfshrmygbdfiayexc3zcu7qv53adz7d1ebza8w0nm-zp41tyqgzgu9p7v-g78ai8xax-4dqukeiquh9ld11ehmr8i68vh64y8dltm-b74zjx2ir14e">
+<style>
+a.close {color:#006699; text-decoration:none; font-size:14px; text-shadow:0 1px 0 #ffffff;}
+a.close:hover {color:#0081c1; text-decoration:none}
+
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  display:none;
+}
+  
+#boxes .window {
+  position:fixed;
+  left:0;
+  top:0;
+  width:633px;
+  height:200px;
+  z-index:9999;
+  display:none;
+}
+
+#boxes #dialog {
+  width:633px; 
+  height:203px;
+  padding:0px;
+  background-color:#ffffff;
+}
+
+#boxes #dialog .modal-center {background:url(/images/modal/center.png) repeat-y; width:633px; position:relative;}
+
+#boxes #dialog1 {
+  width:375px; 
+  height:203px;
+}
+
+#dialog1 .d-header {
+  background:url(images/login-header.png) no-repeat 0 0 transparent; 
+  width:375px; 
+  height:150px;
+}
+
+#dialog1 .d-header input {
+  position:relative;
+  top:60px;
+  left:100px;
+  border:3px solid #cccccc;
+  height:22px;
+  width:200px;
+  font-size:15px;
+  padding:5px;
+  margin-top:4px;
+}
+
+#dialog1 .d-blank {
+  float:left;
+  background:url(images/login-blank.png) no-repeat 0 0 transparent; 
+  width:267px; 
+  height:53px;
+}
+
+#dialog1 .d-login {
+  float:left;
+  width:108px; 
+  height:53px;
+}
+
+#boxes #dialog2 {
+  background:url(images/notice.png) no-repeat 0 0 transparent; 
+  width:326px; 
+  height:229px;
+  padding:50px 0 20px 25px;
+}
+#btn-reg {width:170px; height:50px; background:url(/images/modal/btn-register.png) no-repeat 0 6px; display:block; position:absolute; right:40px; top:73px;}
+#btn-reg:hover {background-position:0 -55px;}
+#btn-reg:active {background-position:0 -115px;}
+</style>
 </head>
 
-<body><div id="loadingmask" style="margin-top:400px; margin-left:auto; margin-right:auto; padding:40px;background:#d2f0fe; text-align:center; width:400px; display:none;">Verifying Information with Twitter...<img src="images/ajax-loader.gif" width="50" height="50"></div>
+<body>
+<div id="boxes">
+
+<div id="dialog" class="window">
+<div style="background:url(/images/modal/top.png) no-repeat top center; width:633px; height:78px;"><div style="width:92px; height:66px; float:left; background:url(/images/modal/logo.png) no-repeat 24px 24px;"></div><div style="width:452px; height:38px; float:left; padding-left:15px; padding-top:32px; font:24px Helvetica, Arial, sans-serif; font-weight:bold; color:#006699; text-shadow:0 1px 0 #ffffff;">INTA Webinar</div><div style="width:74px; height:70px; float:right; background:url(/images/modal/icon-calendar.png) no-repeat 9px 20px;"></div></div>
+<div class="modal-center">
+<div style="width:500px; margin:0 auto; padding-top:20px; padding-bottom:20px;">
+<span style="font-size:18px; font-family:Helvetica, Arial, sans-serif; font-weight:bold;">Webinar: IP Protection: Brands and the Internet - The Impact
+of New gTLDs on Trademarks and Brands</span><br><br>
+Date: Tuesday, June 5th, 2012<br>
+Time: 2:00 PM EDT
+<a href="https://www2.gotomeeting.com/register/754201562" target="_blank" id="btn-reg"></a>
+</div>
+<div style="width:595px; margin-left:9px; padding:20px; padding-left:10px; padding-right:10px; background:#ffffff; border-top:1px solid #d5d5d5;">
+<a href="http://www.icmregistry.com/inta/booklet-gtld-e.pdf" target="_blank"><img src="/images/modal/inta/img-gtldbrochure.gif" border="0" usemap="#Map" style="padding-right:4px;">
+<map name="Map">
+  <area shape="rect" coords="71,64,155,85" href="http://stager.icmregistry.com/inta/index.php?file=booklet-gtld-e">
+</map>
+</a><a href="http://www.icmregistry.com/inta/Domain-Disputes-Overview.pdf" target="_blank"><img src="/images/modal/inta/img-disputeresolution.gif" border="0" usemap="#Map2" style="padding-right:4px;">
+<map name="Map2">
+  <area shape="rect" coords="72,58,165,79" href="http://www.icmregistry.com/inta/index.php?file=Domain-Disputes-Overview">
+</map>
+</a><a href="http://www.icmregistry.com/inta/Registries-Trademarks-Whitepaper.pdf" target="_blank"><img src="/images/modal/inta/img-whitepaper.gif" border="0" usemap="#Map3">
+<map name="Map3">
+  <area shape="rect" coords="72,56,159,79" href="http://www.icmregistry.com/policies/registries-trademarks-whitepaper/index.php?file=Registries-Trademarks-Whitepaper">
+</map>
+</a></div>
+</div>
+<div style="background:url(/images/modal/bot.png) no-repeat bottom center; height:36px; padding-right:25px; width:608px; text-align:right; padding-top:13px;"><a href="#" class="close">Close it</a></div>
+
+</div>
+
+
+
+<!-- Mask to cover the whole screen -->
+  <div id="mask"></div>
+</div>
 <div id="masking">
 
 <script type="text/javascript">
@@ -50,14 +259,10 @@ $(document).ready(function(e) {
 	}
 });
 </script>
-<style>
-.alertboxstyle { width:547px; height:49px; background:url(/images/alertbg.png) no-repeat 0 0; padding-left:50px; padding-top:12px; position:absolute; top:20px; left:265px; display:none; color:#333333; text-align:left;}
-#alertbox a { font-size:12px;color:#006699; text-decoration:none;}
-#alertbox a:hover { text-decoration:underline;}
-</style>
+
 
 <div id="header">
-<div id="logo"><div id="alertbox" class="alertboxstyle">Registration Issues?<a href="/support"> Get Answers to Common Support Questions Here</a></div>
+<div id="logo"><div id="alertbox" class="alertboxstyle"></div>
 <a href="/"><img src="/images/logo2.png"></a>
 </div>
 
@@ -70,7 +275,7 @@ $(document).ready(function(e) {
 
 </div>
 
-<div style="margin-bottom:10px; width:820px; margin-left:190px; margin-top:80px; background:url(/images/breacumb_bg.gif) repeat-x; position:absolute; z-index:99999999;">         
+<div style="margin-bottom:10px; width:820px; margin-left:190px; margin-top:80px; position:absolute; z-index:99999999;">         
             
             <div id="xxxmenu-buttonbox" align="center">
           <div class="botonitos-breadcrumb"> <a href="/about/" class="xxxmenu-tablink" onmouseover="setVisiblityFacadeSub3('sub3', 'inline');" onmouseout="setVisiblityFacadeSub3('sub3','none');">ABOUT</a></div>
@@ -82,9 +287,7 @@ $(document).ready(function(e) {
             <div class="botonitos-breadcrumb" style="width:150px;">
                          <a href="/registrars/" class="xxxmenu-tablink tl1" rel="anylinkmenu2" onmouseover="setVisiblityFacade('sub1', 'inline');" onmouseout="setVisiblityFacade('sub1','none');">REGISTRARS</a></div>
           </div>
-          <div id="xxxmenu-buttonbox" align="center">
-          <div class="botonitos-breadcrumb" style="width:120px;"> <a href="/launch/" class="xxxmenu-tablink" onmouseover="setVisiblityFacadeSub4('sub4', 'inline');" onmouseout="setVisiblityFacadeSub4('sub4','none');">LAUNCH</a></div>
-        </div>
+          
             <div id="xxxmenu-buttonbox" align="center">
           <div class="botonitos-breadcrumb" style="width:80px;"> <a href="http://member-icmregistry.custhelp.com" class="xxxmenu-tablink" onmouseover="setVisiblityFacadeSub8('sub8', 'inline');" onmouseout="setVisiblityFacadeSub8('sub8','none');">FAQ</a></div>
         </div>
@@ -101,12 +304,10 @@ $(document).ready(function(e) {
 var overState;
 var overStateSub2;
 var overStateSub3;
-var overStateSub4;
 var overStateSub5;
 function setVisiblityFacade(var1, var2) {
 	setVisibility('sub2', 'none');// hide other one
 	setVisibility('sub3', 'none');// hide other one
-	setVisibility('sub4', 'none');// hide other one
 	setVisibility('sub5', 'none');// hide other one
 	window.clearTimeout(overState);
 	if (var2 == 'inline') {
@@ -118,7 +319,6 @@ function setVisiblityFacade(var1, var2) {
 function setVisiblityFacadeSub2(var1, var2) {
 	setVisibility('sub1', 'none');// hide other one
 	setVisibility('sub3', 'none');// hide other one
-	setVisibility('sub4', 'none');// hide other one
 	setVisibility('sub5', 'none');// hide other one
 	window.clearTimeout(overStateSub2);
 	if (var2 == 'inline') {
@@ -130,7 +330,6 @@ function setVisiblityFacadeSub2(var1, var2) {
 function setVisiblityFacadeSub3(var1, var2) {
 	setVisibility('sub1', 'none');// hide other one
 	setVisibility('sub2', 'none');// hide other one
-	setVisibility('sub4', 'none');// hide other one
 	setVisibility('sub5', 'none');// hide other one
 	window.clearTimeout(overStateSub3);
 	if (var2 == 'inline') {
@@ -139,23 +338,11 @@ function setVisiblityFacadeSub3(var1, var2) {
 	}
 	overStateSub3=window.setTimeout (function() {setVisibility(var1, var2)}, 500);	
 }
-function setVisiblityFacadeSub4(var1, var2) {
-	setVisibility('sub1', 'none');// hide other one
-	setVisibility('sub2', 'none');// hide other one
-	setVisibility('sub3', 'none');// hide other one
-	setVisibility('sub5', 'none');// hide other one
-	window.clearTimeout(overStateSub4);
-	if (var2 == 'inline') {
-		setVisibility(var1, var2);
-		return;
-	}
-	overStateSub4=window.setTimeout (function() {setVisibility(var1, var2)}, 500);	
-}
+
 function setVisiblityFacadeSub5(var1, var2) {
 	setVisibility('sub1', 'none');// hide other one
 	setVisibility('sub2', 'none');// hide other one
 	setVisibility('sub3', 'none');// hide other one
-	setVisibility('sub4', 'none');// hide other one
 	window.clearTimeout(overStateSub5);
 	if (var2 == 'inline') {
 		setVisibility(var1, var2);
@@ -176,6 +363,7 @@ function setVisiblityFacadeSub5(var1, var2) {
                  <a href="/about/icm/" class="xxxmenu-tabsublink">About ICM Registry</a>
                  <a href="/about/sponsored-community/" class="xxxmenu-tabsublink">Sponsored Community</a>
                  <a href="/policies/" class="xxxmenu-tabsublink">Policies</a>
+                 <a href="/launch/" class="xxxmenu-tabsublink">Launch Overview</a>
                  </div>
                 </div>
                  <div class="xxxmenu-divsub3" align="center">
@@ -239,29 +427,7 @@ function setVisiblityFacadeSub5(var1, var2) {
           </div>
           
           
-<div onmouseover="setVisiblityFacadeSub4('sub4', 'inline');" onmouseout="setVisiblityFacadeSub4('sub4','none');" class="xxxmenu-divmain4">
-            <div class="xxxmenu-divsub">
-              <div class="xxxmenu-holder" id="sub4">
-                <div class="xxxmenu-divsub1"></div>
-                <div class="xxxmenu-divsub2">
-                 <div class="breadcrumbbox">
-                 <a href="/launch/" class="xxxmenu-tabsublink">Overview</a>
-                 <a href="http://xxxauctions.pool.com" target="_blank" class="xxxmenu-tabsublink">Auctions</a>
-                 <a href="/launch/general-availability/" class="xxxmenu-tabsublink">General Availability</a>
-                 </div>
-                </div>
-                <div class="xxxmenu-divsub3" align="center">
-                <div class="xxxmenu-divsub" style="padding-left:10px">
-                <div class="xxxmenu-tablt"></div>
-                <div class="xxxmenu-tab"><a class="xxxmenu-tablinkon" href="/launch/">LAUNCH</a></div>
-                <div class="xxxmenu-tabrt"></div>
-                </div>
-                </div>
-                <img src="/images/menu-wt-bottom.png" width="234" height="7" class="xxxmenu-botimage">
-                </div>
-            </div>
-          </div>
-		  
+
 <div onmouseover="setVisiblityFacadeSub5('sub5', 'inline');" onmouseout="setVisiblityFacadeSub5('sub5','none');" class="xxxmenu-divmain6">
             <div class="xxxmenu-divsub">
               <div class="xxxmenu-holder" id="sub5">
@@ -272,12 +438,13 @@ function setVisiblityFacadeSub5(var1, var2) {
                  <a href="https://member-icmregistry.custhelp.com/app/report_abuse" target="_blank" class="xxxmenu-tabsublink">Report Abuse</a>
                  <a href="/updates/" class="xxxmenu-tabsublink">Updates</a>
                  <a href="/performers/" class="xxxmenu-tabsublink">Adult Performer Program</a>
+                 <a href="/support/" class="xxxmenu-tabsublink">Support</a>
                  </div>
                 </div>
                 <div class="xxxmenu-divsub3" align="center">
-                <div class="xxxmenu-divsub" style="padding-left:10px">
+                <div class="xxxmenu-divsub" style="padding-left:0px">
                 <div class="xxxmenu-tablt"></div>
-                <div class="xxxmenu-tab"><a class="xxxmenu-tablinkon" style="padding-left:2px;" href="/contact/">CONTACT</a></div>
+                <div class="xxxmenu-tab"><a class="xxxmenu-tablinkon" style="padding-left:0px;" href="/contact/">CONTACT</a></div>
                 <div class="xxxmenu-tabrt"></div>
                 </div>
                 </div>
@@ -290,7 +457,7 @@ function setVisiblityFacadeSub5(var1, var2) {
             </div>
 
 </div>
-<a name="top"><div id="top"><h1><img src="/images/title_privacy_policy.png" alt="Privacy Policy"></h1></div></a>
+<a name="top"><div id="top"><h1 class="icmpageTitles">Privacy Policy</h1></div></a>
 
 <div style="padding: 0 30px 30px 30px;">
 
@@ -304,7 +471,7 @@ function setVisiblityFacadeSub5(var1, var2) {
 
 <p>This policy applies only to Personal Information that ICM collects from and about you. It does not apply to information collected by domain name registrars or third parties when you apply to register or reserve a .XXX name with them nor does it apply to information collected on third party sites that you may access via a link on Registry Websites.</p>
 
-<p>By using Registry Websites or services, including by registering or reserving a .XXX domain name, you consent to the collection, use, processing, and transfer of your Personal Information in accordance with the terms of this Policy. You consent to the collection, use, processing, and/or disclosure of Personal Information in the United States. If you are visiting the Registry Website from a country other than the country in which the Registry servers are located, your communications with the Registry may result in the transfer of information (including your Membership account information) across international boundaries; you consent to such transfer.</p>
+<p>By using Registry Websites or services, including without limitation by registering or reserving a .XXX domain name, you consent to the collection, use, processing, and transfer of your Personal Information in accordance with the terms of this Policy. You consent to the collection, use, processing, and/or disclosure of your sensitive information and your Personal Information in the United States in accordance with the provisions of this Policy. If you are visiting the Registry Website from a country other than the country in which the Registry servers are located, including without limitation visiting from the European Union, your communications with the Registry may result in the transfer of your sensitive information as well as your Personal Information (including without limitation your Membership account information) across international boundaries; you consent to such transfer.</p>
 
 <p class="sectiontitle">Collection, Use, &amp; Disclosure of Personal Information</p>
 
@@ -319,13 +486,13 @@ this Policy, please do not submit Personal Information on Registry Websites.</p>
 
 <p><em>Information Collected Automatically on Registry Websites:</em></p>
  
-<div style="margin-left: 60px;"><p>When you visit Registry Websites, our servers automatically log certain information including: the type of browser you are using (e.g., 
+<div style="margin-left: 60px;"><p>When you visit Registry Websites, our servers automatically log certain information including without limitation: the type of browser you are using (e.g., 
 Safari, Chrome, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), the way you access the Internet (e.g., 
 connection speed through narrowband or broadband access), IP address, other information about your geographic location, and the domain name of your Internet service provider. 
 Our servers also log header information forwarded by the Internet site you navigated from to reach any Registry Websites. Please note that ICM does not control the information 
 included in the header by a referring website, which may include search terms and other information about your activities on that site. Our servers also log information about 
-your activity on Registry Websites, including the time and date of your visits, the pages you view on any Registry Website, your responses to offerings and advertisements 
-(if any) presented on the Registry Websites, and the searches you perform, including any WHOIS searches.</p>
+your activity on Registry Websites, including without limitation the time and date of your visits, the pages you view on any Registry Website, your responses to offerings and advertisements 
+(if any) presented on the Registry Websites, and the searches you perform, including without limitation any WHOIS searches.</p>
 
 <p>Unless you have provided Personal Information directly, for example by registering for updates, ICM cannot and does not attempt to use log data to identify you 
 personally.</p></div>
@@ -345,7 +512,7 @@ and respond to your inquiries, to understand how you use the Registry Websites, 
 
 <p>When you apply for Membership in the .XXX Sponsored Community, we collect your full name, business affiliation, physical address, telephone number, email address and password, and in some cases, your credit card information (collectively, “Membership Information”). This information is required even if you intend to 
 use an ICM approved proxy service to register .XXX domain names. When applying for Membership, we also request your birth date and age related information; we do <em>not retain any</em> age related information. We may also supplement Membership Information with data from third parties such as Dun &amp; Bradstreet, directory services, and public records. We use Membership Information to validate your contact information, to process your credit card payment (if any), and to ensure compliance 
-with Registry Policies including policies related to consumer protection and security, and policies against child abuse images and related activities, and, in the event of a dispute, 
+with Registry Policies including without limitation policies related to consumer protection and security, and policies against child abuse images and related activities, and, in the event of a dispute, 
 to confirm your eligibility for Membership in the Sponsored Community.  Once you have completed the Membership Application, you will receive a “Membership Token,” which is your unique code. </p>
 
 <p style="text-decoration: underline;">IP Rights Information:</p>
@@ -387,8 +554,7 @@ service, the name of that proxy service rather than your name will appear in the
 for products and services, to respond to your inquiries, to third parties as necessary to deliver services associated with operating a website in the .XXX TLD (including without 
 limitation to security scanning service providers) or in furtherance of our Sunrise policies including the auction rules, and to personalize the content and advertisements you see.</p>
 
-<p>ICM does not share your Personal Information (including Personal Information collected on Registry Websites, Membership Information, IP Rights Information, and Registration Information) 
-with third parties without your affirmative consent unless it is: (i) necessary to fulfill a transaction or provide information you have requested; (ii) as required by law or necessary 
+<p>ICM does not share your sensitive information, Personal Information, Membership Information, IP Rights Information, or Registration Information with third parties without your affirmative consent unless it is: (i) necessary to fulfill a transaction or provide information you have requested; (ii) as required by law or necessary 
 to respond to legal process; (iii) in circumstances in which ICM believes that its Registry Websites or services, or that websites operating in the .XXX TLD, are being used in the commission 
 of a crime; (iv) when ICM has a good faith belief that there is an emergency that poses a threat to your safety or the safety of another person; or (v) as necessary to establish, assert, 
 defend, or protect our rights or property.</p>
@@ -404,7 +570,7 @@ change in the use of your Personal Information, ICM will notify you and give you
 
 <p class="sectiontitle">Cookies and Web Beacons</p>
 
-<p>ICM may use cookies, web beacons, or similar technologies in combination with your Personal Information to enhance and personalize your experience on Registry Websites, including to 
+<p>ICM may use cookies, web beacons, or similar technologies in combination with your Personal Information to enhance and personalize your experience on Registry Websites, including without limitation to 
 operate and improve offerings through Registry Websites, to help authenticate you when you use Registry Websites, to remember your preferences and registration information, to enable a 
 shopping cart, to present and help measure and research the effectiveness of ICM offerings, advertisements, and e-mail communications (by determining which ICM e-mails you open and act 
 upon), and to customize the content and advertisements provided to you through Registry Websites.</p>
@@ -456,18 +622,16 @@ purposes. To make a request to the ICM under California's privacy law, please se
 			<li><a href="/about">About .XXX</a></li>
 			<li><a href="/about/icm">About ICM Registry</a></li>
             <li><a href="/about/sponsored-community">Sponsored Community</a></li>
-        	<li><a href="http://member-icmregistry.custhelp.com">FAQ</a>
-		</li></ul>
+        	<li><a href="http://member-icmregistry.custhelp.com">FAQ</a></li>
+		</ul>
 		<ul class="column2b">Registrars
 			<li><a href="/registrars/">Get Your .XXX</a></li>
 			<li><a href="/registrars/become">Become A Registrar</a></li>
 			<li><a href="/registrars/portal">Registrar Login</a></li>
 		</ul>
-		<ul class="column3b">Launch
-			<li><a href="/launch/">Launch Overview</a></li>
-			<li><a href="/performers/">Adult Performer Program</a></li>
-			<li><a href="http://xxxauctions.pool.com" target="_blank">.XXX Auctions</a></li>
-            <li><a href="/launch/plan/">Launch Policies</a></li>
+		<ul class="column3b">Programs
+			<li><a href="http://www.premium.xxx/">Premium Domains</a></li>
+			<li><a href="http://performers.icmregistry.com/">Adult Performer Program</a></li>
 		</ul>
 		<ul class="column4b">Press
 			<li><a href="/press/in-the-news/">In The News</a></li>
@@ -491,7 +655,7 @@ purposes. To make a request to the ICM under California's privacy law, please se
 </ul>
 </div>
 <div id="footer-text" style="overflow:hidden;">
-©2011 ICM Registry LLC&nbsp; <a href="/policies/" class="footer-links">Policies &amp; Legal Agreements</a><a href="/policies/privacy-policy/" class="footer-links-last">Privacy Policy</a>
+©2012 ICM Registry LLC&nbsp; <a href="/policies/" class="footer-links">Policies &amp; Legal Agreements</a><a href="/policies/privacy-policy/" class="footer-links-last">Privacy Policy</a>
 </div>
        </div>
        <div id="footer-bot-rt">
@@ -517,5 +681,6 @@ purposes. To make a request to the ICM under California's privacy law, please se
        </div>
 	</div>
 </div>
-
-</div></div></body></html>
+</div>
+</div>
+</body></html>
