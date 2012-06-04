@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queryexplorer.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205232953id_/http%3A//www.queryexplorer.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queryexplorer.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604082708id_/http%3A//www.queryexplorer.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # QueryExplorer - Privacy Policy
 
@@ -23,6 +23,6 @@ Any web sites that you click to from one of our Internet search results web page
 ## Questions:
 
 Questions regarding this Software Use Privacy Policy should be directed by e-mail to QueryExplorer at [QueryExplorer.privacy@QueryExplorer.com](mailto:QueryExplorer.privacy@QueryExplorer.com) or, by U.S. mail, to:  
-335 Madison Avenue,  
-Suite 840, New York, NY 10017  
+356 E 74th Street,  
+New York, NY 10021  
 Attn: Privacy Officer
