@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202255id_/http%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604064545id_/http%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ tokyohive also collects potentially personally-identifying information like Inte
 
 Gathering of Personally-Identifying Information
 
-Certain visitors to 6Theory Media websites choose to interact with tokyohive in ways that require tokyohive to gather personally-identifying information. The amount and type of information that tokyohive gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at tokyohive.com to provide a username and email address. In each case, tokyohive collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with tokyohive. tokyohive does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to 6Theory Media websites choose to interact with tokyohive in ways that require tokyohive to gather personally-identifying information. The amount and type of information that tokyohive gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at tokyohive.com to provide a username, email address and profile information. In each case, tokyohive collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with tokyohive. tokyohive does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
 
@@ -30,4 +30,4 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Privacy Policy Changes
 
-Although most changes are likely to be minor, tokyohive may change its Privacy Policy from time to time, and in tokyohive’s sole discretion. tokyohive encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, tokyohive may change its Privacy Policy from time to time, and at tokyohive’s sole discretion. tokyohive encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
