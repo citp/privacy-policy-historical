@@ -1,50 +1,40 @@
-> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222023734id_/http%3A//www.chinaspringtour.com/guide/aboutus/521.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604234432id_/http%3A//www.chinaspringtour.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# China tours, Asian travel, cheap flight deals, China expo travel, China travel guide
 
 ChinaSpringTour's mission is to provide you effortless and worry-free travel around China. Personal information submitted to us via the Internet, mail, telephone, fax or by any other means, will be used only to arrange your travel to and around China, and will never be sold, rented, shared, or passed on to any unauthorized third-party. ChinaSpringTour takes full responsibility for protecting the security and confidentiality of personal information that you share with us. Earning your trust is very important to us!
 
-  
 What information will we need and why?
 
-**Name and address:**
+Name and address:
 
-  * To correspond with you by mail
-  * To purchase tickets for airlines, trains, bus service, boat tickets, or to pay entrance fees for attractions
-  * Telephone and fax numbers:
-  * To transmit forms, itineraries, or tickets
-  * To contact you in an emergency
+To correspond with you by mail
 
+To purchase tickets for airlines, trains, bus service, boat tickets, or to pay entrance fees for attractions
 
+Telephone and fax numbers:
 
-**Passport and visa information:  
-**
+To transmit forms, itineraries, or tickets
 
-  * To obtain airline tickets and to book hotels
-  * To apply for travel permits to certain regions in China, such as Tibet
+To contact you in an emergency  
 
 
+Passport and visa information:
 
-**E-mail address:  
-**
+To obtain airline tickets and to book hotels
 
-  * To correspond with you (to send proposals, itineraries, etc.)
-  * To inform you about new services, tours, or special offers from Chinaspringtour
+To apply for travel permits to certain regions in China, such as Tibet
 
+E-mail address:
 
+To correspond with you (to send proposals, itineraries, etc.)
 
-**All other personal information:  
-**
+To inform you about new services, tours, or special offers from Chinaspringtour
 
-  * To design the best trip possible according to your interests and needs
+All other personal information:
 
+To design the best trip possible according to your interests and needs
 
+Credit card information:
 
-**Credit card information:  
-**
-
-  * To pay for your travel services
-
-
-
-1 Pages |< First < Prev 1 Next >Last >|
+To pay for your travel services
