@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sobadsogood.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206104248id_/http%3A//sobadsogood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobadsogood.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604213001id_/http%3A//sobadsogood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | So Bad So Good
 
