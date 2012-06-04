@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoateallthepies.tv privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228022902id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoateallthepies.tv privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605012414id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms & Privacy
 
