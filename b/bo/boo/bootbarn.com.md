@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106121416id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604210250id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # BootBarn.com Privacy Policy
 
@@ -50,4 +50,4 @@ If you have any concerns about leaving cookies on your computer for extended per
 
 ###### Children's Privacy at Boot Barn 
 
-Boot Barn does not sell products for purchase by children. We sell children's products for purchase by adults. Boot Barn, Inc is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent.
+Boot Barn® does not sell products for purchase by children. We sell children's products for purchase by adults. Boot Barn®, Inc is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent.
