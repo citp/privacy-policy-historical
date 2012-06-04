@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223005048id_/http%3A//easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypolicy.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604031455id_/http%3A//www.easypolicy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Easypolicy
 
