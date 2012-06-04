@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbridalprices.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218214941id_/http%3A//www.bestbridalprices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbridalprices.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604234220id_/http%3A//www.bestbridalprices.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Wedding Dresses, Prom Dresses, Wedding Accessories at BestBridalPrices.com
 
@@ -30,4 +30,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 How To Contact Us   
-Should you have other questions or concerns about these privacy policies, please call us at (618) 466-8820 or send us an email at sales@bestbridalprices.com 
+Should you have other questions or concerns about these privacy policies, please call us at (618) 433-9520 or send us an email at sales@bestbridalprices.com 
