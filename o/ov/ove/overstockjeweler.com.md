@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227214342id_/http%3A//www.overstockjeweler.com/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604194444id_/http%3A//www.overstockjeweler.com/privacy-i-3.html) for the most accurate reproduction.*
 
-# Overstock Jewelry Privacy
-
-| 
+# Privacy Policy
 
 SHARING INFORMATION
 
