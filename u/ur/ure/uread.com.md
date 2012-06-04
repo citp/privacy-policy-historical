@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226201057id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604062341id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
 
 # uRead.com: Buy Books Online: Bookstore in India: Highest Discount
 
@@ -119,14 +119,15 @@ We accept payment through Internet Banking for the following banks:
 You can make the DD or Cheque in favour of "Prakash eSolutions Pvt. Ltd. " payable at par in Delhi and send it to us at the address given below: 
 
 URead.com  
-Prakash eSolutions Pvt. Ltd.,   
-4239/1, Ansari Road, Darya Ganj  
-New Delhi – 110004  
-India. 
+Prakash eSolutions Pvt. Ltd.  
+113A, Darya Ganj,  
+Bharat Scout Guide Building  
+New Delhi 110002, INDIA  
+Phone : +91-11-43501212 
 
 In case of cheque payments, orders will be processed only after clearance of the cheque. We accept cheques which are payable "at par" at New Delhi. Do make sure that your book is NOT shown as Out of Stock on uRead.com before you send us your payment. 
 
-If the value of your order is less that $1.9, add $0.57 as shipping charges. We will process your order upon receiving your payment and your book will be couriered to you, or sent by Government Registered Post if there is no Courier Service operational in your area. 
+If the value of your order is less that $1.8, add $0.54 as shipping charges. We will process your order upon receiving your payment and your book will be couriered to you, or sent by Government Registered Post if there is no Courier Service operational in your area. 
 
 Enclose a covering letter with the name and author of the book, **your Shipping Address, Phone Number and Email Address.** Kindly also send us an email informing us that you have sent your DD/Cheque. It will help us process your order quicker. 
 
@@ -168,14 +169,20 @@ However, in a rare case or eventuality, in case the delivery person of the Repre
 
 ##  What is the process/How do I place the COD orders?
 
+Cash On Delivery payment option is currently available in India only.
+
 The process – 
 
-  * Choose the Book(s) you wish to order from uRead which have the COD option
-  * You will asked to verify your Mobile no. for which an Authorization code of 5 digits will be sent as an SMS to your Mobile. 
-  * You will be required to type the 5 digit Authorisation code on uRead, which will verify your Mobile no. and enable us to process your order. (This process is essential for your Verification and for faster Delivery at your doorstep by our Representative Courier partner) 
-  * In case you don’t receive the SMS in a few minutes, you will be provided with an option to ask uRead to re-send your Verification Code. 
-  * After the verification of your Mobile no., the Order will be confirmed and processed for delivery at your doorstep.
-  * On receipt of the delivery of your Book(s), please pay the Cash amount as required.
+  * Choose the Book(s) you wish to order from uRead by using the ‘Add to cart’ option.
+  * After clicking on ‘Checkout’ – please verify the titles & quantities; and click on ‘Proceed to checkout’.
+  * If you already have an Account, ‘Login’ using your Email and Password. If not, please create your uRead.com New Account using your Email ID & and Password; and ‘Login’.
+  * Enter your shipping address and click on ‘Save and use this address’. 
+  * On choosing the COD mode of payment (on the right hand side), your order will be created and an Order Confirmation mail with the Order no. will be sent to your Email ID. 
+  * On delivery of your Book(s), please pay the Cash amount as required.
+
+
+
+In case of any assistance, you may call back at +91-11-43501212 or mail at [customerservice@uread.com](mailto:customerservice@uread.com). 
 
   
 
@@ -206,7 +213,7 @@ Couldn't find the information you needed? Please ask on [ contact@uRead.com](mai
 
 ##  How much are the shipping charges?
 
-URead.com provides free shipping on all books to all locations in India if your total order amount is more than $1.9. Otherwise $0.57 is charged as shipping charge. 
+URead.com provides free shipping on all books to all locations in India if your total order amount is more than $1.8. Otherwise $0.54 is charged as shipping charge. 
 
 International shipping rates are calculated based on the product and the shipping location. These rates are made available during checkout once you enter the delivery address. 
 
