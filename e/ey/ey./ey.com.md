@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102061156id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604041927id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Ernst & Young - United States
 
@@ -20,7 +20,7 @@ If you have questions or you do not feel that your concerns have been addressed 
 
 Unsubscribing to or modifying your information for the distribution of our careers newsletter, _Inside Ernst & Young_, can be done via the links at the bottom of any _Inside Ernst & Young_ issue.
 
-  *  **Job Search Area**. In our job search section, Ernst & Young posts open positions; applicants can apply online. Should you decide to apply for a position via our Web site, the application and resume you submit will be entered into an Ernst & Young proprietary database. Entries deemed inactive for 90 days are purged from the database.
+  *  **Job Search Area**. In our job search section, Ernst & Young posts open positions; applicants can apply online. Should you decide to apply for a position via our Web site, the application and resume you submit will be entered into an Ernst & Young proprietary database.
 
  _ **Your Choice**_. Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. To update any application or resume you have submitted, please apply again via the job search section, and re-submit your updated information. Due to volume, Ernst & Young cannot personally respond to individual requests for applicant status.
 
@@ -70,6 +70,8 @@ In the Thought Center Webcast section, they are used to provide entry for subscr
  _"Web Beacons."_ Ernst & Young occasionally advertises on third party Web sites. As part of our effort to track the success of our advertising campaigns, we may at times use a visitor identification technology such as "web beacons," or "action tags," which count visitors who have come to ey.com after being exposed to an Ernst & Young banner ad on a third party site. We do not use this technology to access your personally identifiable information; it is only used to compile aggregated statistics about visitors who come to ey.com and to gauge the effectiveness of our ads.
 
  **Data Security/Integrity**. Ernst & Young has technological and operational security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. The data you may provide via the United States Web site is shared only with authorized employees of Ernst & Young, and on a limited basis, with vendors who supply information management services, and third parties in association with events (see "Event Registration" and "Entrepreneur of the Year® Nominations" paragraphs above). Access to your information is limited by need, and those who have access to the data have agreed to maintain the confidentiality of such information. In addition, Ernst & Young may disclose personally identifiable information as may be required by subpoena, search warrant, or other legal process.
+
+ **Apps, QR Codes and other related technologies**. When you scan a QR Code, the third party that we engage to provide our QR Codes (3GVision) may collect certain information from your mobile device (such as your mobile device identifier and IP address). 3GVision uses this information only on our behalf for the purpose of providing anonymised statistical reports to us about users of our website and services.
 
  **Children**. Ernst & Young understands the importance of protecting children's privacy in the interactive, online world. ey.com does not intentionally target or solicit to children 13 and younger. Some of the firm's other online services may be designed to educate children on financial and other matters. These Ernst & Young sites are not governed by this privacy policy but will have their own privacy policies that more fully explain how they respect and protect the privacy of children while providing them valuable information, fun and education.
 
