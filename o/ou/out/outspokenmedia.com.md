@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130101223id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604062847id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Outspoken Media
 
