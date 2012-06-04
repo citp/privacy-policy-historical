@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mylifescoop.com privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215020332id_/http%3A//mylifescoop.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mylifescoop.com privacy policy that was archived on 2012-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604192522id_/http%3A//mylifescoop.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en_US" lang="en_US" id="sixapart-standard"><head>
     
@@ -17,6 +17,16 @@
     
     <link rel="alternate" type="application/atom+xml" title="Life Scoop: Tips for a Connected Lifestyle" href="/feed.xml">
     
+    
+     <meta property="og:title" content="My Life Scoop">
+    <meta property="og:type" content="blog">
+    <meta property="og:url" content="http://mylifescoop.com/">
+    <meta property="og:image" content="http://mylifescoop.com/styles/images/MLS-newheader-1tr.jpg">
+    <meta property="og:site_name" content="My Life Scoop">
+    <meta property="og:description" content="My Life Scoop offers practical, real-time tips, tricks, advice, conversations and how-tos to help you do hundreds of things faster, smarter and better, with technology  ">
+
+
+    
     <meta name="generator" content="Movable Type Pro 4.32-en">
     <link rel="stylesheet" href="http://mylifescoop.com/styles/css/styles.css" type="text/css">
 
@@ -28,13 +38,43 @@
 	<script src="http://mylifescoop.com/js/jquery.barousel.js" type="text/javascript"></script>  
 <script src="http://mylifescoop.com/js/jquery.easytabs.js" type="text/javascript"></script>  
 
+
 <script type="text/javascript"> 
   $(document).ready(function(){ $("#tab-container").easyTabs({
   animate: false
 });
 });
 
+$(document).ready(function(){ $("#toggle-box").easyTabs({
+  animate: false
+});
+});
+
+$(document).ready(function() {
+
+	//When page loads...
+	$(".toptoggle_content").hide(); //Hide all content
+	$("ul.toptoggle li:first").addClass("active").show(); //Activate first tab
+	$(".toptoggle:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.toptoggle li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".toptoggle_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+
+
 </script>
+
+
  <script type="text/javascript">
         $(document).ready(function () {
             //BAROUSEL - options
@@ -99,10 +139,10 @@ img.src = "http://mylifescoop.com/stats.php?u=" + escape(document.location.href)
     <div id="header">
         <div id="banner">
              <div id="banner-inner">
-                <div id="MLSlogo"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','ssc','ssc:nav']);" href="/index.html"><img src="/styles/images/MLS-newheader-1.jpg" border="0" width="555" alt="Life Scoop - Tips For A Connected Lifestyle"></a></div><div id="facebooklink"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_off_domain_link']);" href="http://www.facebook.com/LifeScoop"><img src="/styles/images/MLS-newheader-2.jpg" border="0" width="50" alt="Like us on Facebook"></a></div><div id="twitterlink"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_off_domain_link']);" href="http://twitter.com/lifescoop"><img src="/styles/images/MLS-newheader-3.jpg" border="0" width="253" alt="Follow us on Twitter"></a></div>
-                <div id="sponsor"><a href="http://www.intel.com/consumer/tomorrow/" onclick="_gaq.push(['_trackEvent','Intel_VPS','intel','intel']);"><img src="/styles/images/MLS-newheader-4.jpg" alt="Life Scoop - Tips For A Connected Lifestyle" border="0" width="102"></a></div>
+                <div id="MLSlogo"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','ssc','ssc:nav']);" href="/index.html"><img src="/styles/images/MLS-newheader-1tr.jpg" border="0" width="555" alt="Life Scoop - Tips For A Connected Lifestyle"></a></div><div id="facebooklink"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:fb_button_header']);" target="_blank" href="http://www.facebook.com/LifeScoop"><img src="/styles/images/MLS-newheader-2tr.jpg" border="0" width="50" alt="Like us on Facebook"></a></div><div id="twitterlink"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:twitter_button_header']);" target="_blank" href="http://twitter.com/lifescoop"><img src="/styles/images/MLS-newheader-3tr.jpg" border="0" width="253" alt="Follow us on Twitter"></a></div>
+                <div id="sponsor"><a href="http://www.intel.com/consumer/tomorrow/" onclick="_gaq.push(['_trackEvent','Intel_VPS','intel','intel']);"><img src="/styles/images/MLS-newheader-4tr.jpg" alt="Life Scoop - Tips For A Connected Lifestyle" border="0" width="102"></a></div>
             </div><!-- end banner-inner -->
-            </div><!-- end banner -->
+                        </div><!-- end banner -->
     </div><!-- end header -->
     
         <div id="nav"><div id="nav-inner"><div id="menu"><ul class="menu"><li id="nav-family"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','ssc','ssc:nav']);" href="/family/" class="mainbutton"></a>
@@ -147,7 +187,6 @@ img.src = "http://mylifescoop.com/stats.php?u=" + escape(document.location.href)
 	
 			
 
-
     <div id="alpha">
         <div id="alpha-inner">
 
@@ -189,7 +228,7 @@ img.src = "http://mylifescoop.com/stats.php?u=" + escape(document.location.href)
 <!-- FM LifeScoop Homepage Med Rec 1 Zone -->                                 
                                </div>
  	
-       <div id="scoopbutton"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_off_domain_link']);" href="https://www.facebook.com/LifeScoop"><img src="/styles/images/scoopbutton-l.png" border="0" width="64" height="61"></a><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_off_domain_link']);" href="https://twitter.com/#!/lifescoop"><img src="/styles/images/scoopbutton-r.png" border="0" width="236" height="61"></a></div>  
+       <div id="scoopbutton"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:fb_button_below300x250']);" target="_blank" href="https://www.facebook.com/LifeScoop"><img src="/styles/images/scoopbutton-l.png" border="0" width="64" height="61"></a><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:twitter_button_below300x250']);" target="_blank" href="https://twitter.com/#!/lifescoop"><img src="/styles/images/scoopbutton-r.png" border="0" width="236" height="61"></a></div>  
        <div id="newsletterspacing"><div id="emailnewsletter"> <form method="post" action="http://oi.vresp.com?fid=b7c507d124" target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;" class="newsletterform">
     <div class="newsletterfields"><span style="color: #f00;">* </span><span style="color: #666666;">Required Field</span></div>
     <label style="color: #959595;">Email Address:</label>    <span style="color: #f00">* </span>
@@ -210,21 +249,79 @@ img.src = "http://mylifescoop.com/stats.php?u=" + escape(document.location.href)
 </div><br clear="all">
     <input onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_off_domain_link_newsletter']);" type="image" src="/styles/images/join-now.png" value="Join Now" class="joinnow"><br>
     <span class="verticalr"><a title="Email Marketing Software by VerticalResponse" href="http://www.verticalresponse.com">Newsletter</a> by VerticalResponse</span>
-</form><br clear="all"></div><div class="white-boxbottom-300">&nbsp;</div></div>       
-           <div id="top10-widget"> 
-                
- 				<h3>Our Top 10 Lists</h3>     <ul class="block-list">
- 				  <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/10/top-10-food-blogs-for-foodies.html">Top 10 Food Blogs for Foodies</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/10/top-10-decluttersimplify-your-life-blogs.html">Top 10 Blogs to DeClutter &amp; Simplify Your Life </a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/10/top-10-weeknight-dinner-blogs.html">Top 10 Weeknight Dinner Blogs</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/09/top-10-blogs-to-learn-something-new.html">Top 10 Blogs to Learn Something New</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/09/top-10-pop-culture-blogs.html">Top 10 Pop Culture Blogs</a></li>
+</form><br clear="all"></div><div class="white-boxbottom-300">&nbsp;</div></div> 
+        <div id="top10-widget" class="videowidget">     
+ 				<h3>Recent Videos</h3>     
+   <div id="youtubeframe"><iframe width="280" height="142" src="http://www.youtube.com/embed/NArLnXmxmdg" frameborder="0" allowfullscreen=""></iframe></div>
 
+
+<div class="videothumbs">
  				
-               
-                                   <li class="view-all"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','ssc','ssc:nav']);" href="http://mylifescoop.com/top-10/">View all Top 10s »</a></li>
-                </ul><br clear="all"></div><div class="blue-boxbottom-313">&nbsp;</div>
+ 				 <div class="videoitem">
+ 				 <div class="thumbcontainer"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_video_widget']);" href="http://mylifescoop.com/featured-stories/2012/05/video-music-apps-to-keep-your-playlist-going.html"><img src="/images/archive-thumbs/best_music_apps_turntable_fm_spotify_mog.jpg" alt="best_music_apps_turntable_fm_spotify_mog.jpg" border="0"></a></div>
+ 				 <div class="linkcontainer"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_video_widget']);" href="http://mylifescoop.com/featured-stories/2012/05/video-music-apps-to-keep-your-playlist-going.html">VIDEO: Music Apps To Keep Your Playlist Going</a></div></div>
+ 				 
+ 				 <div class="videoitem">
+ 				 <div class="thumbcontainer"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_video_widget']);" href="http://mylifescoop.com/featured-stories/2012/02/video-5-basic-steps-to-understanding-icloud.html"><img src="/images/archive-thumbs/what_is_icloud.jpg" alt="what_is_icloud.jpg" border="0"></a></div>
+ 				 <div class="linkcontainer"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_video_widget']);" href="http://mylifescoop.com/featured-stories/2012/02/video-5-basic-steps-to-understanding-icloud.html">VIDEO: 5 Basic Steps to Understanding iCloud</a></div></div>
+ 				 
+ 				  		 </div> 
 
+  <a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_video_widget']);" href="http://mylifescoop.com/featured-stories/video/" style="color:#ffffff;margin-left:20px;">View all Videos »</a><br clear="all">
+</div><div class="blue-boxbottom-313">&nbsp;</div>
+       
+             
+           <div id="toggle-box">
+                 <ul class="toptoggle">
+                <li><a href="#top10toggle" class="top10toggle">Top 10 Lists </a></li><li><a href="#mostpopular" class="mostpopular">Most Popular</a></li><li><a href="#recentarticles" class="latestarticles">Latest Articles </a></li>
+                </ul>
+                
+                <div class="toptoggle_container">
+                 <div id="top10toggle">
+ 				 
+ 				       <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2012/01/top-10-toddler-apps.html">Top 10 Toddler Apps</a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2012/01/top-10-cooking-blogs.html">Top 10 Cooking Blogs</a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/10/top-10-food-blogs-for-foodies.html">Top 10 Food Blogs for Foodies</a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/10/top-10-decluttersimplify-your-life-blogs.html">Top 10 Blogs to DeClutter &amp; Simplify Your Life </a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/top-10/2010/10/top-10-weeknight-dinner-blogs.html">Top 10 Weeknight Dinner Blogs</a></li>             
+                                   <li class="view-all"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','ssc','ssc:nav']);" href="http://mylifescoop.com/top-10/">View all Top 10s »</a></li>
+               </div> 
+               <div id="mostpopular">
+            
+                
+ 			                    
+
+
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2011/05/top-6-sites-that-inspire-and-educate.html">Top 6 Sites that Inspire and Educate</a></li>
+
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2010/02/6-phone-apps-that-will-save-you-a-fortune.html">6 Phone Apps That Will Save You a Fortune</a></li>
+
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2011/07/top-6-sites-to-find-cool-gadgets-and-gear.html">Top 6 Sites to Find Cool Gadgets and Gear </a></li>
+
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2011/02/whats-the-difference-between-3g-and-4g.html">What's the Difference Between 3G and 4G?</a></li>
+
+                    <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2011/07/6-iphone-apps-you-cant-live-without.html">6 iPhone Apps You Can't Live Without</a></li>
+  
+
+                </div>
+                
+                 <div id="recentarticles">
+             
+                                    
+                   
+                      <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2012/05/microchips-help-lost-pets-find-their-way-home.html">Microchips Help Lost Pets Find Their Way Home</a></li>
+                    
+                      <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2012/05/follow-us-on-twitter-to-win-a-50-itunes-card.html">Follow Us On Twitter To Win a $50 iTunes Card!</a></li>
+                    
+                      <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2012/05/why-mp3s-are-not-yet-good-enough-to-replace-cds.html">Why MP3s Are Not Yet Good Enough to Replace CDs</a></li>
+                    
+                      <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2012/05/video-music-apps-to-keep-your-playlist-going.html">VIDEO: Music Apps To Keep Your Playlist Going</a></li>
+                    
+                      <li><a onclick="_gaq.push(['_trackEvent','Intel_VPS','si','si:blog_forum_view']);" href="http://mylifescoop.com/featured-stories/2012/05/top-6-youtube-channels-focused-on-video-game-strategy.html">Top 6 YouTube Channels Focused on Video Game Strategy</a></li>
+                    
+                 <li class="view-all"><a onclick="_gaq.push(['_trackEvent','Intel_VPS','ssc','ssc:nav']);" href="http://mylifescoop.com/featured-stories/">View more recent articles »</a></li>
+                </div>
+                </div><br clear="all"></div>
 		
 			
 			
@@ -261,7 +358,7 @@ img.src = "http://mylifescoop.com/stats.php?u=" + escape(document.location.href)
 		<style type="text/css">
 			.entry-body { display: block; }
 		</style>
-		<script src="http://toolbar.wibiya.com/toolbarLoader.php?toolbarId=15005&amp;nc=0&amp;pl=1" type="text/javascript"></script>
+		
 		<script type="text/javascript" src="http://profile.typepad.com/services/embed/tpc/6a0120a6582bb5970b0120a6582c87970b/counts_embed.js"></script>
  
            <!-- Facebook Init -->
