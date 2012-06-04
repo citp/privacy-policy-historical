@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126041408id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604133248id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Taxbrain® | Privacy Policy
 
@@ -62,7 +62,7 @@ A "cookie" is a small piece of information that our Web sites may provide to a u
 Like most standard Web site servers we use log files. With or without cookies, our Web site keeps track of usage data, such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting. We also record your IP address as is required by the IRS. This IP address would only be released if ordered by a US court of law.
 
 **Legal Disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe such disclose is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe such disclose is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site. 
 
 Back to Top   
   
