@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215062700id_/http%3A//www.udemy.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604083939id_/http%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
@@ -53,6 +53,10 @@ We will keep Personal Information of our users for as long as they are registere
 
 This Site may contain links to other web sites. The Company cannot and does not control the privacy practices of any such sites. You should review the privacy policy on any web site where you may submit personal information before providing it to any web site.
 
+## Emails
+
+If you choose to register for our products and services, we will send you certain promotional emails. Promotional emails advertise our products and services and/or the products and services of our Users and Affiliates. If you do not want to receive promotional emails from us, you may elect to opt-out of receiving promotional emails at any time after registering by e-mailing us at support@udemy.com, by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails.
+
 ## Legal Disclaimer
 
 We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure doing so in the Company's interest to protect its property or other legal rights or the rights or property of others. 
@@ -76,7 +80,7 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 
 ## Contact Us
 
-If you have questions or concerns regarding this Policy, you should contact Education Revolution by emailing privacy@udemy.com.
+If you have questions or concerns regarding this Policy, please contact us by emailing privacy@udemy.com or calling us at 888-838-5432.
 
 ### Address
 
