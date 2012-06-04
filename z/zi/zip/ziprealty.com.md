@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230125706id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605002517id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Homes for Sale, MLS Listings Search, Real Estate Agents -- Zip Realty
 
 **ZipRealty's Privacy Policy**
 
-Last updated: October 25, 2011 
+Last updated: May 1, 2012 
 
 ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you understand how we collect and use information on the ZipRealty website (the "Site"). 
 
@@ -12,7 +12,7 @@ ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you un
 
 **The Information We Collect**
 
-Personal Information is information that others can use to identify, locate, or contact you. When you register on or use the Site, or contact ZipRealty, you provide ZipRealty with certain Personal Information including, without limitation, your name, address, zip code, email address, telephone number, comments you make to forums and blogs available on the Site, information about whether you plan on buying and/or selling property, home search criteria, information about financing for the purchase of property and other information related to the sale and/or purchase of property. If you register or log on to the Site through Facebook, you agree to allow Facebook to share additional information with ZipRealty including your name, email address, profile picture, gender, user ID, list of friends and any other information that you have made publicly available on Facebook. 
+Personal Information is information that others can use to identify, locate, or contact you. When you register on or use the Site, or contact ZipRealty, you provide ZipRealty with certain Personal Information including, without limitation, your name, address, zip code, email address, telephone number, comments you make to forums and blogs available on the Site, information about whether you plan on buying and/or selling property, home search criteria, information about financing for the purchase of property and other information related to the sale and/or purchase of property. ZipRealty does not request or collect social security numbers, credit card numbers, or driver’s license numbers. If you register or log on to the Site through Facebook, you agree to allow Facebook to share additional information with ZipRealty including your name, email address, profile picture, gender, user ID, list of friends and any other information that you have made publicly available on Facebook. 
 
 Additionally, ZipRealty servers automatically record information sent by your browser when you use the ZipRealty Site, including Internet Protocol address, browser type and language, and date and time of request. We may also collect information using cookies, web beacons or similar technologies. 
 
@@ -43,8 +43,6 @@ ZipRealty will provide you with opportunities to opt-in to share information wit
 You can manage your email preferences by logging into your account through the Site, entering the "Your Account" section, and selecting "Email Preferences." You can also manage your subscriptions by following the subscription management instructions contained in commercial messages that we send you. 
 
 For users who register or log on to the Site through Facebook, please refer to Facebook's privacy settings to determine how you may adjust the permissions and manage the interactivity between ZipRealty and Facebook. 
-
-For users who have consented to have Bank Of America Home Loans share information with ZipRealty: you may revoke your consent to Bank of America Home Loans sharing information about your loan or the status of your loan application with ZipRealty at any time by making such a request via email at [ziprealty.optout@bankofamerica.com](mailto:ziprealty.optout@bankofamerica.com). 
 
 ZipRealty may share your Personal Information with third parties involved with your sale and/or purchase (or potential sale and/or purchase) of real estate. These third parties include, but are not limited to, third-party real estate agents and brokers, insurance providers, lenders, appraisers, home warranty providers, or inspectors. 
 
@@ -82,7 +80,7 @@ Your ZipRealty account can be de-activated at any time by contacting [team@ZipRe
 
 **Viewing and Updating Your Information**
 
-You may edit your preferences or request changes to the information you have provided at any time by sending email to [team@ZipRealty.com](mailto:team@ziprealty.com) or mail to ZipRealty, Inc., 2000 Powell Street, Suite 300, Emeryville, CA 94608 or by using the Site. If you have lost your password, you may request a new one by sending an email to [team@ZipRealty.com](mailto:team@ziprealty.com). 
+You may edit your preferences or request changes to the information you have provided at any time by sending an email to [team@ZipRealty.com](mailto:team@ziprealty.com), or by telephone: (510) 735-2600, or mail to ZipRealty, Inc., 2000 Powell Street, Suite 300, Emeryville, CA 94608 or by using the Site. If you have lost your password, you may request a new one by sending an email to [team@ZipRealty.com](mailto:team@ziprealty.com). 
 
 **Contact**
 
