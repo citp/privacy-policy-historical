@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companieshouse.gov.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228215601id_/http%3A//www.companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companieshouse.gov.uk privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604080622id_/http%3A//www.companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -32,63 +32,7 @@ back to top
 
 **Privacy and Cookies**
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone.These include small files known as cookies. They cannot be used to identify you personally.
-
-These pieces of information are used to improve services for you through, for example: 
-
-  * enabling a service to recognise your device so you don't have to give the same information several times during one task 
-  * recognising that you may already have given a username and password so you don't need to do it for every web page requested 
-  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast 
-
-
-
-You can manage these small files yourself and learn more about them through ["Internet browser cookies - what they are and how to manage them." ](http://www.aboutcookies.org/Default.aspx?page=5)
-
-**Our use of cookies**
-
-**Cookies for measuring use and improving services**
-
-The Companies House website, WebCHeck, WebFiling, and Companies House Direct all use a cookie which is used to improve our understanding of how people use our website and services, through web analytics. 
-
-Name: chcookie  
-Typical content: randomly generated number  
-Expires:2 months
-
-WebFiling uses a cookie which remembers which service within WebFiling was being carried out in the event of a session timeout.
-
-Name: transaction  
-Typical content: Transaction URI  
-Expires: 1 day
-
-**Cookies for remembering user preferences**
-
-WebCHeck uses a cookie **** which remembers the user for subsequent visits. The user is given the choice to explicitly allow this during login.
-
-Name: chwebcheck  
-Typical content: randomly generated number  
-Expires: 1 year
-
-**Cookies used by YouTube**
-
-YouTube videos are embedded in various pages of our website.
-
-Cookies as youtube.com 
-
-Name: VISITOR_INFO1_LIVE   
-Typical content: encoded text   
-Expires: 8 months 
-
-Name: use_hitbox   
-Typical content: encoded text   
-Expires: when you close your browser 
-
-Name: GEO   
-Typical content: encoded text   
-Expires: when you close your browser
-
-**Cookies on Companies House from social networking websites**
-
-Companies House has links so you can use social networking websites (e.g. Twitter and Facebook) with Companies House. These websites may place cookies on your computer.
+[Our cookie policy](https://web.archive.org/web/20120604080622id_/http%3A//www.companieshouse.gov.uk/legal/cookies.shtml)
 
 **Personal information**
 
