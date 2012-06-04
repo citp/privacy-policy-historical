@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229103516id_/http%3A//lowkick.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604100755id_/http%3A//lowkick.blitzcorner.com/data/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LowKick.com
-
-## LowKick.com Privacy Policy
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -20,6 +18,6 @@ Customers may prevent their information from being used for purposes other than 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-**E-Mail Policy**
+#### E-Mail Policy
 
 LowKick.com does not sell ,rent, exchange or otherwise disclosed personal e mail information collected on this site. Personal information is collected only with your permission. 
