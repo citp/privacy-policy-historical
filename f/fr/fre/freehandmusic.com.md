@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023184802id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604111825id_/http%3A//www.onlinesheetmusic.com/privacyinfo.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | FreeHandMusic.com
+# Privacy policy | OnlineSheetMusic.com
 
 **What information do we collect?**
 
@@ -10,7 +10,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -25,6 +25,7 @@ Any of the information we collect from you may be used in one of the following w
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+  
 • To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
@@ -33,7 +34,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
@@ -65,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.freehandmusic.com/terms-and-conditions.aspx>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Conditions of Use](https://web.archive.org/web/20120604111825id_/http%3A//www.onlinesheetmusic.com/conditions-of-use-t3.aspx)
 
 **Your Consent**
 
@@ -73,14 +74,16 @@ By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://support.freehandmusic.com](http://support.freehandmusic.com/)   
-153 Second St., Suite 102  
-Los Altos, CA 94022  
+<http://support.onlinesheetmusic.com/desk/>
+
+Online Sheet Music, Inc.  
+P.O. Box 900  
+Los Altos, CA 94023-0900  
 USA  
-privacy@freehandmusic.com
+[privacy@onlinesheetmusic.com](mailto:privacy@onlinesheetmusic.com)
