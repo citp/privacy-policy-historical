@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaylordhotels.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201180443id_/http%3A//www.gaylordhotels.com/about-gaylord/privacy-policy/index.html%3Fintcmp%3Dgh-pl%3DbNav-cid%3DGenL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaylordhotels.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604142422id_/http%3A//www.gaylordhotels.com/about-gaylord/privacy-policy/index.html%3Fintcmp%3Dgh-pl%3DbNav-cid%3DGenL) for the most accurate reproduction.*
 
 # Gaylord Hotels Privacy Policy
 
@@ -52,10 +52,10 @@ By accessing this website, you signify your assent to the Gaylord Hotels Privacy
 **Changes in This Privacy Policy**  
 We may update this privacy statement to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-[< Back to About Us](https://web.archive.org/web/20111201180443id_/http%3A//www.gaylordhotels.com/about-gaylord/ "Learn more about the Gaylord Hotels properties")
+[< Back to About Us](https://web.archive.org/web/20120604142422id_/http%3A//www.gaylordhotels.com/about-gaylord/)
 
-  * [Contact Us](https://web.archive.org/web/20111201180443id_/http%3A//www.gaylordhotels.com/about-gaylord/contact-us/ "Contact Gaylord Hotels, Gaylord Palms, Gaylord Texan, Gaylord Opryland, Gaylord National")
-  * [F.A.Q.](https://web.archive.org/web/20111201180443id_/http%3A//www.gaylordhotels.com/about-gaylord/faq/ "Frequently Asked Questions about Gaylord Hotels and Convention Centers")
-  * [Privacy Policy](https://web.archive.org/web/20111201180443id_/http%3A//www.gaylordhotels.com/about-gaylord/privacy-policy/ "Gaylord Hotels Privacy Policy")
+  * [Contact Us](https://web.archive.org/web/20120604142422id_/http%3A//www.gaylordhotels.com/about-gaylord/contact-us/)
+  * [F.A.Q.](https://web.archive.org/web/20120604142422id_/http%3A//www.gaylordhotels.com/about-gaylord/faq/)
+  * [Privacy Policy](https://web.archive.org/web/20120604142422id_/http%3A//www.gaylordhotels.com/about-gaylord/privacy-policy/)
 
 
