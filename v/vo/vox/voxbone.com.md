@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the voxbone.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116043837id_/http%3A//voxbone.com/privacypolicy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxbone.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604154913id_/http%3A//www.voxbone.com/privacypolicy.jsf) for the most accurate reproduction.*
 
-# Voxbone - Local phone numbers, Global VoIP backbone
+# Voxbone Privacy Policy
 
 [](http://www.voxbone.com/resources/Voxbone_AUP.pdf)
-
-## Voxbone Privacy Policy
 
 ### 1\. Personal Information
 
