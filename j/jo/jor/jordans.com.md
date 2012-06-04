@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206152635id_/http%3A//www.jordans.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605010526id_/http%3A//www.jordans.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jordan's Furniture
 
@@ -131,7 +131,7 @@ Personal information that is maintained in our offices or stores is subject to p
 
 ### Privacy Protections for Specific Types of Information
 
-For all other services, we serve as an agent for suppliers to offer you financial products and services. Even though we are an agent for these services, we work with our partners to ensure they provide appropriate privacy policies and protections. Our Jordan’s Powercharge is offered through HSBC. Click here for a link to their privacy policy...[www.hrsaccount.com](http://www.hrsaccount.com/)
+For all other services, we serve as an agent for suppliers to offer you financial products and services. Even though we are an agent for these services, we work with our partners to ensure they provide appropriate privacy policies and protections. Our Jordan’s Powercharge is offered through Capital One. Click here for a link to their privacy policy...<http://www.capitalone.com/protection/privacy/index.php>
 
 We also protect the credit or debit card information we collect during transactions by adhering to Payment Card Industry Data Security Standards (PCI Standards). These standards require safeguards for handling and securing customer information. These include using secure networks, encryption or other protection of cardholder data, physical and technical access controls, monitors and tests of security systems, and information security policies. 
 
