@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229233631id_/http%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604181937id_/http%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightcove
 
@@ -45,6 +45,6 @@ In each event, you must clearly indicate the information that you wish to have c
 
 Customer Service/Privacy Policy or General Counsel  
 Brightcove Inc.  
-One Cambridge Center  
-Cambridge, MA 02142  
-Phone: (617) 500-4920
+290 Congress Street  
+Boston, MA 02210  
+Phone: +1 617 500 4947
