@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127202812id_/http%3A//www.accessnorthga.com/access/etc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604215435id_/http%3A//www.accessnorthga.com/access/etc/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AccessNorthGa.com
 
