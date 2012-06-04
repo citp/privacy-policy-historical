@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207125553id_/http%3A//www.examiner.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604082526id_/http%3A//www.examiner.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Examiner.com
 
@@ -24,7 +24,7 @@ In order to improve your experience when using our Site, we, our third party ser
 **Third Party Advertising; Targeting of Ads and Content**  
 We use third party companies to serve ads on our Site, to provide us with data collection, ad response measurement, ad or content targeting, and other marketing or related services. We have granted permission to these companies (some of which are listed below) and certain advertisers or customers of these companies to use cookies, web beacons, pixel tags or similar technologies in order to collect Non-PII about our users (subject to their own privacy guidelines) for purposes of generating advertisements and other content targeted to your interests, and for other data collection, response measurement, marketing and related business purposes. Following are links to the privacy policies of some of our ad serving and data collection partners, which are subject to change from time to time:
 
-  * DoubleClick- [http://www.google.com/intl/en/privacy.html#utm_source=dfp_footer&utm_medium=et&utm_campaign=dfp ](http://www.google.com/intl/en/privacy.html#utm_source=dfp_footer&utm_medium=et&utm_campaign=dfp)
+  * DoubleClick- [http://www.google.com/intl/en/privacy.html](http://www.google.com/intl/en/privacy.html#utm_source=dfp_footer&utm_medium=et&utm_campaign=dfp)
   * Audience Science- [http://www.audiencescience.com/privacy.asp ](http://www.audiencescience.com/privacy.asp)
   * QuantCast- [http://www.quantcast.com/privacy ](http://www.quantcast.com/privacy)
   * Lotame- <http://www.lotame.com/privacy>
