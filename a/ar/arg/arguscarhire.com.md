@@ -1,85 +1,90 @@
-> *The following text is extracted and transformed from the arguscarhire.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020112333id_/http%3A//www.arguscarhire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arguscarhire.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604191638id_/http%3A//www.arguscarhire.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Argus Car Hire Privacy Policy
 
-This legal notice is issued by eTrawler Limited an Irish registered company trading as ArgusCarHire.com and/or CarTrawler (CarTrawler). CarTrawler recognises and appreciates the importance of responsible use of personal data collected on this website. Therefore, CarTrawler takes great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes. This policy (together with our terms and conditions of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. You consent to CarTrawler holding your personal data for the purposes of facilitating vehicle rental on this website and to disclosing your personal data to a rental vehicle provider when you book a rental vehicle from that rental vehicle provider using this website.Any questions, please [ contact us](https://web.archive.org/web/20111020112333id_/http%3A//www.arguscarhire.com/customer-service/index.php "Contac Us")
+This legal notice is issued by Etrawler full owner of ArgusCarHire.com ("we", “us” or “our”). We are committed to protecting and respecting your privacy and appreciate the importance of responsible use of personal data collected on this website. We take great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes.
 
-### What Our Privacy Policy Covers:
+This policy (together with our booking engine [terms and conditions of use](http://www.arguscarhire.com/terms-conditions.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-Our Privacy Policy covers how CarTrawler uses personal information that CarTrawler collects and receives, including information related to your past use of CarTrawler and affiliated CarTrawler products and services. Personal information about you that is personally identifiable such as your name, address, email address or phone number, and that is not otherwise publicly available
-
-### Information We May Collect From You
+### INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our Website (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information and when you report a problem with our site
+  * Information that you provide by filling in forms on our site www.arguscarhire.com (our site). This includes information provided at the time of registering to use our site, completing a vehicle rental booking form or query form, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. We may also collect, and our third party providers of advertisements and content may collect, information about where you are on the internet (e.g. the URL you came from, IP address, domain types like .ie and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+  * Bookings: When you make a booking of vehicle rental on our site, we need to use personal information about you and other passengers included in your booking. We request the following information depending on what specific service you require: name, e-mail address, home address, phone number, gender, date of birth, city and country of birth, driving license number, class of driving licence, passport number and type and country of issue on passport, flight number. Sensitive information such as health, medical, dietary, mobility and religious requirements may also be required. This personal information may be passed on to other suppliers of your travel arrangements in addition to public authorities (customs and immigration), security, and credit checking organisations and otherwise as permitted or required by law.
+  * Secure Transactions: All requests and credit card confirmations sent to us pass directly through our secure server to protect your information. . Any payment transactions will be encrypted using SSL technology. To check that your browser is using the secure server, ensure that a small padlock icon on the lower part of your browser window is visible. When it is in the “locked” position, it means that your transaction is secure. These security features are only activated for pages where you can view and submit your request or confirm your quote by providing your credit card number.
 
 
 
-### Bookings
+### COOKIES
 
-When you make a booking with CarTrawler, CarTrawler needs to use personal information about you and other passengers included in your booking. We request the following information, depending on what specific service you require: name, e-mail address, home address, phone number, gender, date of birth, city and country of birth, driving license number, class of driving license, passport number and type and country of issue of passport. Sensitive information such as health, medical, dietary, mobility and religious requirements may also be required. This personal information may be passed on to other suppliers of your travel arrangements in addition to public authorities (customs and immigration), security and credit checking organisations and otherwise as permitted or required by law.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://www.arguscarhire.com/cookies-policy.php)
 
-### Secure Transactions:
+### WHERE WE STORE YOUR PERSONAL DATA
 
-All requests and credit card confirmations sent to us pass directly through our secure server to protect your information. To check that your browser is using the secure server, ensure that a small padlock icon on the lower part of your browser window is visible. When it is in the 'locked' position, it means that your transaction is secure. These security features are only activated for pages where you can view and submit your request or confirm your quote by providing your credit card number
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your vehicle rental booking, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-### Uses made of the Information:
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you to do their jobs. We have physical, electronic and procedural safeguards in place that protect personal information about you.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### USES MADE OF THE INFORMATION
 
 We use information held about you in the following ways:
 
+  * To facilitate vehicle rental bookings by disclosing your personal data to a vehicle rental provider when you book a vehicle rental with a provider using this website.
   * To ensure that content from our site is presented in the most effective manner for you and for your computer.
   * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
   * To carry out our obligations arising from any contracts entered into between you and us.
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
-  * We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
-  * If you are an existing customer, we may contact you by electronic means (e-mail or SMS) or telephone with information about goods and services similar to those which were the subject of a previous sale to you.
-  * If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-  * If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form).
 
 
 
-### Disclosure Of Your Information
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 155 of the Irish Companies Act 1963.
+If you do not want us to use your data in this way, or if you wish to be removed from our list you may, at any time, notify us by clicking on the “unsubscribe” link at the bottom of each email communication you received from us.
+
+### DISCLOSURE OF YOUR INFORMATION
+
+We will only disclose data in a way compatible with the purposes for which it was obtained. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
 
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If CarTrawler or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20111020112333id_/http%3A//www.arguscarhire.com/terms-conditions.php "Terms of Use") and other agreements; or to protect the rights, property, or safety of CarTrawler, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our booking engine [terms and conditions of use](http://www.arguscarhire.com/terms-conditions.php) and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
-Save as provided for herein CarTrawler does not rent, sell or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested.
+Save as provided herein we do not rent, sell or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested.
 
-### Confidentiality and Security:
+### YOUR RIGHTS
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you in order to do their jobs. 
-  * We have physical, electronic and procedural safeguards in place that protect personal information about you
-  * Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by unticking the box on the booking form relating to marketing emails or by unsubscribing to any such marketing emails by clicking on the unsubscribe link at the bottom of all email communications. You can also exercise the right at any time by contacting us at Argus Car Hire, The Chapel, Mount Saint Annes, Milltown, Dublin 6 
 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
+### ACCESS TO INFORMATION
 
-### Where We Store Your Personal Data
+You have a right to receive a copy of any data, which personally identifies you, held by us. We may charge you an administration fee to cover the cost of carrying out your request. You should write to ArgusCarHire.com, The Chapel, Mount Saint Anne’s, Milltown, Dublin 6, Ireland marked "Data Access Request". You should include adequate information to identify yourself and, such other relevant information that you may have that will reasonably to assist us in fulfilling your request. Your request will be dealt with as soon as possible and will take not more than 40 days to process.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or affiliates. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. CarTrawler take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy
+You also have a right to have inaccurate information corrected. If you discover that we hold inaccurate information about you, you may instruct us to correct that information. Your instruction should be in writing to the address set out above. A request will be dealt with as soon as possible and will take not more than 40 days to process.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology].] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+### CHANGES TO OUR PRIVACY POLICY
 
-### IP Addresses and Cookies
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+### PROHIBITED USES
 
-CarTrawler uses cookies. Cookies are pieces of information that a website can transfer to an individual's computer hard drive for tracking user navigation and customising site information to improve and enhance the user experience. Most Internet browsers are preset to accept cookies. However, if you are concerned about the use of cookies you do have the option to opt out and refuse the transfer of cookies to your computer's hard drive. If you prefer to not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. If you choose to disable cookies, you may not e able to enjoy all the functionality that our website has to offer.
+It is prohibited to use any device, software or routine, directly or indirectly to interfere or attempt with the proper working of this website, any activity in operation on this site to place any undo load or stress upon our systems. We monitor access to the site for data scarpers and automated access of information and we will block processed engaging in these activities.
 
-We don't store any personal credit card information about you in these cookies. Our cookies are in place purely to collect data about where you entered the site.
+### CONTACT
 
-### Prohibited Uses
-
-It is prohibited to use any device, software or routine, directly or indirectly to interfere or attempt to interfere with the proper working of this website, any activity in operation on this site to place any undo load or stress upon our systems. We monitor access to the site for data scrapers and automated access of information and we will block processes engaging in these activities.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Argus Car Hire, The Chapel, Mount Saint Annes, Milltown, Dublin 6 .
