@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danpatrick.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129225647id_/http%3A//www.danpatrick.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danpatrick.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604165744id_/http%3A//www.danpatrick.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
 
-# The Dan Patrick Show | Official Home| Terms, Conditions and Privacy Policy
+# The Dan Patrick Show | Official Home | Terms, Conditions and Privacy Policy
 
 ## Terms & Conditions and Privacy Policy
 
@@ -162,3 +162,14 @@ To be effective, the notification must be in writing and contain the following i
 4\. Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;  
 5\. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;  
 6\. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+  * [](http://twitter.com/intent/tweet?text=Terms%2C%20Conditions%20and%20Privacy%20Policy%20-%20http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&t=Terms%2C%20Conditions%20and%20Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Terms%2C%20Conditions%20and%20Privacy%20Policy&body=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy&notes=Terms%20%26amp%3B%20Conditions%20and%20Privacy%20Policy%0D%0A%0D%0AEffective%20as%20of%20April%2024%2C%202009%2C%20until%20replaced%0D%0A%0D%0ADIRECTV%20is%20dedicated%20to%20protecting%20consumer%20privacy.%20This%20Policy%20explains%20how%20DIRECTV%20collects%2C%20uses%2C%20and%20discloses%20information%20about%20you%20when%20you%20subscrib "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy&srcURL=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&srcTitle=The+Dan+Patrick+Show+%7C+Official+Home+The+official+home+of+the+Dan+Patrick+Show.+Interact+with+Dan+Patrick+and+the+Danettes+as+they+debate+sports+on+a+daily+television+and+radio+show.+Listen+to+Dan+interview+the+biggest+athletes+and+celebrities+in+the+world+and+cover+the+days+biggest+sports+stories. "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&title=Terms%2C%20Conditions%20and%20Privacy%20Policy&source=The+Dan+Patrick+Show+%7C+Official+Home+The+official+home+of+the+Dan+Patrick+Show.+Interact+with+Dan+Patrick+and+the+Danettes+as+they+debate+sports+on+a+daily+television+and+radio+show.+Listen+to+Dan+interview+the+biggest+athletes+and+celebrities+in+the+world+and+cover+the+days+biggest+sports+stories.&summary=Terms%20%26amp%3B%20Conditions%20and%20Privacy%20Policy%0D%0A%0D%0AEffective%20as%20of%20April%2024%2C%202009%2C%20until%20replaced%0D%0A%0D%0ADIRECTV%20is%20dedicated%20to%20protecting%20consumer%20privacy.%20This%20Policy%20explains%20how%20DIRECTV%20collects%2C%20uses%2C%20and%20discloses%20information%20about%20you%20when%20you%20subscrib "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.danpatrick.com%2Fterms-conditions-and-privacy-policy%2F&Title=Terms%2C%20Conditions%20and%20Privacy%20Policy "BlinkList")
+  * 
+
