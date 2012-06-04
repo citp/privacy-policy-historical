@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215739id_/http%3A//www.fastcompany.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604081155id_/http%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Fast Company
+# Privacy Policy | Fast Company
 
-**Fastcompany.com  
-Privacy Policy**
-
- _Updated as of May 5, 2011_
+_Updated as of May 5, 2011_
 
 **Safeguarding your privacy is very important to us.** We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of Inc. communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below. 
 
@@ -49,8 +46,7 @@ This site uses cookies or other tracking devices. A cookie is a small data file 
 
 The Website may use clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather non-personal, aggregate information on visits to our website, track usage of website links and assist with registration and other features. We do not disclose personal information that may be linked to our GIF collection practices to third parties. Other websites that you may link to through the Website may also use clear GIFs. Mansueto Ventures, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor's must review other website operators' privacy policies to determine the type and extent of tracking devices used. 
 
-**Use and Collection of Information by Advertisers and Sponsors;**   
-
+**Use and Collection of Information by Advertisers and Sponsors;**
 
 **Third Party Cookies and Tracking Devices**
 
@@ -118,5 +114,3 @@ If we decide to request information from children, we will require verifiable pa
   * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law. 
 
 
-
-[](http://www.aboutads.info/)
