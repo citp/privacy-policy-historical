@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2011-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205100415id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2012-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604190109id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy
@@ -10,14 +10,7 @@
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<script type="text/javascript" async="" src="https://cn.clickable.net/js/cct.js"></script><script type="text/javascript" async="" src="https://app.revenueexpect.com/fc/re-c.js.php?account_id=476db6ef8c51b88c74877bb8b856c6fc=221=1&amp;url=https://web.archive.org/web/20111205100415id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html"></script><script type="text/javascript">
-var RE_ACCT_ID="476db6ef8c51b88c74877bb8b856c6fc=221=1";
-(function() {
-var re = document.createElement("script"); re.type ="text/javascript"; re.async = true; re.src = document.location.protocol + "//app.revenueexpect.com/fc/re-c.js.php?account_id=" + RE_ACCT_ID + "&url=" + document.location.href;
-var sc = document.getElementsByTagName("script")[0]; sc.parentNode.insertBefore(re, sc);
-})();
-</script>
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://cn.clickable.net/js/cct.js"></script><script type="text/javascript">
 <!--
 var number_format_dec = '.';
 var number_format_th = '';
@@ -140,9 +133,20 @@ document.write("<style type='text/css'>.hidden{display:none;}<\/style>");
 $(document).ready(function(){
 
 	//Examples of how to assign the ColorBox event to elements.
-	$("a[rel='gallery']").colorbox({slideshow:true,slideshowAuto:true,transition:"elastic", contentCurrent:"{current} / {total}"});
-	$("a[rel='gallery1']").colorbox({slideshow:true,slideshowAuto:true,transition:"elastic", contentCurrent:"{current} / {total}"});
-	
+	//$("a[rel='gallery']:not(.colorbox-off)").colorbox({slideshow:true,slideshowAuto:true,transition:"elastic", contentCurrent:"{current} / {total}"});
+	$("a.gallery-image").live("click",function(event) {
+		event.preventDefault();
+		$.colorbox.remove();
+		$("a.gallery-image:not(.colorbox-off)").colorbox({
+			open:true,
+			transition:"elastic",
+			contentCurrent:"{current} / {total}"
+		});
+	});
+	$("a[rel='gallery1']").colorbox({transition:"elastic", contentCurrent:"{current} / {total}"});
+	$("a.colorbox-off").click(function(event) {
+		event.preventDefault();
+	});
 	$("a.colorboxauto").colorbox({initialWidth:400,initialHeight:400});
 	$("a.colorboxpricing").colorbox({width:625,height:675});
 	
@@ -194,6 +198,22 @@ $(document).ready(function(){
 		
 		$this.css("background","#BDBDBD");
 		$this.css("border-color","#818181");
+		
+		var product_option_not_selected = false;
+		$('input[type=radio][name^="product_options"]').each(function() {
+			var name = $(this).attr("name");
+			if($('input[type=radio][name="'+name+'"]:checked').length == 0) {
+				product_option_not_selected = true;
+				console.log(name + " is not selected");
+			}
+		});
+		if(!product_option_not_selected) {
+			$(".product_option_hidden").show().fadeTo('slow',1);
+			$(".product_option_show").hide();
+			$(".add_cart_disabled").removeClass("add_cart_disabled");
+			$("#add_to_cart_div_disabled").remove();
+			$("#add_to_cart_div").fadeIn('slow');
+		}
 		
 		var $currentvalue = $write.val(); 
 		// Add the character
@@ -368,7 +388,7 @@ $(document).ready(function(){
 		else {
 			var model_number = $(".quickselect_model_number").val();
 		}
-		if($(this).val()) {
+		if($(this).val() || $(".quickselect_model_number").val()) {
 			$.post("/xcart1/skin1/quickselect.php",{ model_name: $(this).val() },function(html) {
 				if(html) {
 					var models = html.split(",");
@@ -380,7 +400,7 @@ $(document).ready(function(){
 					});
 				}
 			});
-			$.post("/xcart1/skin1/quickselect.php",{ getParts: 1, cat: 0, byModelName: $(this).val(), byModel: model_number },function(html) {
+			$.post("/xcart1/skin1/quickselect.php",{ getParts: 1, cat: 0, byModelName: $(this).val(), byModel: model_number, type: $("#quickselect_type").val() },function(html) {
 				if(html) {
 					$(".quickselect_product").html(html);
 				}
@@ -398,7 +418,7 @@ $(document).ready(function(){
 		else {
 			var model_name = $(".quickselect_model_name").val();
 		}
-		if($(this).val()) {
+		if($(this).val() || $(".quickselect_model_name").val()) {
 			$.post("/xcart1/skin1/quickselect.php",{ model: $(this).val() },function(html) {
 				if(html) {
 					var models = html.split(",");
@@ -410,7 +430,7 @@ $(document).ready(function(){
 					});
 				}
 			});
-			$.post("/xcart1/skin1/quickselect.php",{ getParts: 1, cat: 0, byModel: $(this).val(), byModelName: model_name },function(html) {
+			$.post("/xcart1/skin1/quickselect.php",{ getParts: 1, cat: 0, byModel: $(this).val(), byModelName: model_name, type: $("#quickselect_type").val() },function(html) {
 				if(html) {
 					$(".quickselect_product").html(html);
 				}
@@ -420,6 +440,33 @@ $(document).ready(function(){
 			$(".quickselect_model_name option").attr("disabled","").show();
 		}
 	});
+	$(".product_option_select").click(function() {
+		var product_option_not_selected = false;
+		$('input[type=radio][name^="product_options"]').each(function() {
+			var name = $(this).attr("name");
+			if($('input[type=radio][name="'+name+'"]:checked').length == 0) {
+				product_option_not_selected = true;
+				console.log(name + " is not selected");
+			}
+		});
+		if(!product_option_not_selected) {
+			$(".product_option_hidden").show().fadeTo('slow',1);
+			$(".product_option_show").hide();
+			$(".add_cart_disabled").removeClass("add_cart_disabled");
+			$("#add_to_cart_div_disabled").remove();
+			$("#add_to_cart_div").fadeIn('slow');
+		}
+	});
+	$("#add_to_cart_div_disabled").click(function() {
+		alert("Please choose an option first.  If you are not sure what option to choose, please give us a call at 866-726-3342.");
+	});
+	if($(".product_option_select").length == 0) {
+		$(".product_option_hidden").show().fadeTo('slow',1);
+		$(".add_cart_disabled").removeClass("add_cart_disabled");
+		$(".product_option_show").hide();
+		$("#add_to_cart_div_disabled").remove();
+		$("#add_to_cart_div").fadeIn('slow');
+	}
 });
 </script><style type="text/css">.hidden{display:none;}</style>
 <style>
@@ -518,7 +565,7 @@ __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
 document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTExMjA1MTAwNDE1aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
+</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIwNjA0MTkwMTA5aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
 <script src="/xcart1/skin1/modules/XAuth/popup_open.js" type="text/javascript"></script>
 <script src="/xcart1/skin1/modules/XAuth/controller.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/xcart1/skin1/modules/XAuth/main.css">
@@ -633,7 +680,7 @@ else
 <ul>
 <li><a href="http://www.powerbookmedic.com/MacBook--Macbook-Pro-Parts-and-Repair-p-1-c-446.html">Macbook &amp; Macbook Pro</a></li>
 <li><a href="http://www.powerbookmedic.com/iPod-Parts--iPod-Repair-p-1-c-373.html">iPod &amp; iPhone Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad</a></li>
+<li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad Parts (All Models)</a></li>
 <li><a href="http://www.powerbookmedic.com/Powerbook-G4-Aluminum-p-1-c-376.html">Powerbook G4 Aluminum</a></li>
 <li><a href="http://www.powerbookmedic.com/Powerbook-G4-Titanium-p-1-c-250.html">Powerbook G4 Titanium</a></li>
 <li><a href="http://www.powerbookmedic.com/White-iBook-G4-p-1-c-419.html">iBook G4</a></li>
@@ -653,7 +700,7 @@ else
 <li><a href="http://www.powerbookmedic.com/Gateway-Parts-p-1-c-644.html">Gateway Parts</a></li>
 </ul>
 </li>
-<li><a href="http://www.powerbookmedic.com/identify-mac-serial.php">ID Your Mac</a>
+<li><a href="http://www.powerbookmedic.com/identify-mac-serial.php">Parts by Serial</a>
 </li>
 <li><a href="http://www.powerbookmedic.com/sell.php">Sell It</a>
 </li>
@@ -852,7 +899,7 @@ PowerbookMedic.com uses pixels, or transparent GIF files, to help manage online 
 </tr>
 </tbody></table>
 <!--
-<select name="SelectURL" onChange="currency_converter(,this.options[this.selectedIndex].value);">
+<select name="SelectURL" id="currency_selector" onChange="currency_converter(,this.options[this.selectedIndex].value);">
 <option>Choose your currency...</option>
 <option value="5">US Dollar (Default)</option>
 <option value="7">Euro</option>
@@ -924,8 +971,10 @@ PowerbookMedic.com uses pixels, or transparent GIF files, to help manage online 
 <table style="width:100%;">
 <tbody><tr>
 <td>
-<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--61087.html" target="_blank">
-<img src="http://medals.bizrate.com/medals/dynamic/61087_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Powerbook Medic Reviews at Bizrate" width="125" height="73" align="top" border="0"></a>						</td>
+<a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=20435','name','height=760,width=780,scrollbars=1'); 
+return false;">
+<img style="border:none;" src="http://seals.resellerratings.com/seal.php?seller=20435" oncontextmenu="alert(" copying="" prohibited="" by="" law="" -="" resellerratings="" seal="" is="" a="" trademark="" of="" all="" enthusiast,="" inc.');="" return="" false;'=""></a>							
+</td>
 <td>
 <a title="Click for the Business Review of Powerbookmedic.com, a Computers - Service &amp; Repair in Huntsville AL" href="http://www.bbb.org/northern-alabama/business-reviews/computers-service-and-repair/powerbookmediccom-in-huntsville-al-900004847#sealclick"><img alt="Powerbookmedic.com is a BBB Accredited Business. Click for the BBB Business Review of this Computers - Service &amp; Repair in Huntsville AL" style="border: 0;" src="/xcart1/skin1/images/images/bbbsealh1.png"></a>
 </td>
