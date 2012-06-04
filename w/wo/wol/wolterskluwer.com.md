@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206081931id_/http%3A//www.wolterskluwer.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604082337id_/http%3A//www.wolterskluwer.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Wolters Kluwer | Privacy Statement
-
-## Privacy Statement
 
 Welcome to this Corporate Website. This site is owned by Wolters Kluwer nv. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site.
 
