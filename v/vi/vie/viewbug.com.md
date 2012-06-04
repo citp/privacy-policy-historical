@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the viewbug.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103022903id_/http%3A//www.viewbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbug.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604101817id_/http%3A//www.viewbug.com/privacy-policy) for the most accurate reproduction.*
 
-# ViewBug.com
+# Privacy Policy - ViewBug.com
 
-**Privacy Policy**
-
-The use of the Viewbug website(s) and/or Viewbug software and any Viewbug services and products (collectively, the "Website") provided by Golozo L.L.C.. ("Viewbug ") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Viewbug [Terms & Conditions](https://web.archive.org/terms/). If you do not agree to this Privacy Policy, please do not use the Website.
+The use of the Viewbug website(s) and/or Viewbug software and any Viewbug services and products (collectively, the "Website") provided by Golozo L.L.C.. ("Viewbug") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Viewbug [Terms & Conditions](https://web.archive.org/terms/). If you do not agree to this Privacy Policy, please do not use the Website.
 
 **General**
 
