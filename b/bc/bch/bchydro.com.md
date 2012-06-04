@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005858id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604163014id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # BC Hydro - Privacy Statement
 
-Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the _British Columbia Freedom of Information and Protection of Privacy Act_.
+_Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the British Columbia Freedom of Information and Protection of Privacy Act (FOIPPA)._
 
-BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the _Hydro and Power Authority Act_. If you have any questions regarding the collection of personal information, please contact us.
+ _BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions regarding the collection of personal information, please contact us._
 
 ### What is considered personal information
 
-Under the _Freedom of Information and Protection of Privacy Act_ , personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.
+Under FOIPPA, personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.
 
 ### What information we collect from you
 
 In order to use this website, a user may be asked to first complete a registration and/or login form. During registration/login, a user is required to provide contact information (such as a name and email address). This information is used only to contact the user about the services on our site for which he/she has expressed an interest. It is optional for the user to provide demographic information and unique identifiers, but encouraged so we can provide a more personalized experience on our site.
 
 Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please call customer service.
+
+Please also note that when you send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you. We recommend that sensitive personal information not be sent unencrypted over the Internet or by e-mail.
+
+In addition, when you visit our website, the web server collects a small amount of information to facilitate the operation and security of our website. This information may include browser type, Internet domain name and IP address. Some information, such as your Internet domain name or IP address, may identify you. This information is not accessed by anyone except in accordance with FOIPPA.
 
 ### Cookies
 
