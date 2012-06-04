@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festivalnet.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215202340id_/http%3A//festivalnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalnet.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604153656id_/http%3A//festivalnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Festival Network Online, Nationwide Listing, festivals, art & craft shows, music festivals, street festivals, art shows, US events guide
 
@@ -6,7 +6,7 @@ We respect your privacy and do NOT share your information with others.
 
 ### Information Gathering
 
-When you create a User Account on FNO, information including your email address, and physical IP Address are recorded and stored. This information is used internally by FNO and is never distributed to any third parties. 
+When you create a User Account on FNO, information including your email address, and physical IP Address are recorded and stored. This information is used internally by FNO and is never distributed to any third parties. [Our site terms and conditions.](http://festivalnet.com/fno/index.php?t=jr_signup_license)
 
 ### Web Site Cookies
 
