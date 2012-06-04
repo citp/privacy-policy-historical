@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amari.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229003238id_/http%3A//www.amari.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amari.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605013449id_/http%3A//www.amari.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement for Amari.com. Site security, information collected, cookies etc. Amari Hotels and Resorts
 
@@ -33,9 +33,13 @@ Our website may contain links to other websites, which are outside our control a
 
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above, this will restrict the amari.com services you can use.
 
-Third party vendors, including Google, show your ads on sites on the internet.  
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
-Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page. (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page.)  
+Third party vendors, including Google, show our ads on sites on the internet and serve these ads based on a user's prior visits to our website. ****
+
+We also use analytic data to inform and optimize our ad campaigns based on your prior visits to our website. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/ads/preferences/plugin/ "http://www.google.com/ads/preferences/plugin/").
+
+Additionally, you may opt out of our use of Google Analytics by visiting the Google Analytics Opt-out page. 
+
+For complete information on Google’s privacy policy, please visit this [page](http://www.google.com/intl/en/analytics/privacyoverview.html "http://www.google.com/intl/en/analytics/privacyoverview.html").  
 
 
 ### Access rights
