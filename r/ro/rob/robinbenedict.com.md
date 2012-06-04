@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the robinbenedict.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112050816id_/http%3A//www.robinbenedict.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinbenedict.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605000650id_/http%3A//www.robinbenedict.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Robin Benedict
+# Privacy Policy - Robin Benedict
+
+## [Privacy Policy](http://www.robinbenedict.com/privacy-policy/)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -20,3 +22,7 @@ We have included links on this site for your use and reference. We are not respo
 
  **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
+
+ 
+
+#### Leave a Reply to this Post 
