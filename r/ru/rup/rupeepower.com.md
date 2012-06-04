@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226062102id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604030735id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
 
 # RupeePower: Get Cheapest Loan Rates and Insurance Quotes in India | Buy Car insurance online
 
@@ -165,9 +165,9 @@ If you have questions, comments, concerns or feedback regarding this Privacy and
   
 
 
-**RupeePower.com (Tetra Media Private Limited)**
+**RupeePower.com (Mint Street Information & Technology Pvt Ltd.)**
 
-#306, 3rd floor, DLF Galleria Towers  
+#521, 5th floor, DLF Galleria Towers  
 Gurgaon - 122009, Haryana, India.  
-Phone: +91-124-4147282  
+Phone: +91-124-4005119  
 
