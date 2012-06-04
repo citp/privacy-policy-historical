@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videouniversity.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122022816id_/http%3A//www.videouniversity.com/videouniversity-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videouniversity.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604083905id_/http%3A//www.videouniversity.com/videouniversity-privacy-policy) for the most accurate reproduction.*
 
 # VideoUniversity Privacy Policy « Video University
 
@@ -38,5 +38,5 @@ VideoUniversity.com may change this Statement from time to time. We encourage yo
 
 No comments yet.
 
-[RSS feed for comments on this post.](http://www.videouniversity.com/videouniversity-privacy-policy/feed)
+[RSS feed for comments on this post.](http://www.videouniversity.com/videouniversity-privacy-policy/feed/)
   *[RSS]: Really Simple Syndication
