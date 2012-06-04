@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clubcareinsurance.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102022902id_/http%3A//www.clubcareinsurance.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcareinsurance.co.uk privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005424id_/http%3A//www.clubcareinsurance.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  PRIVACY POLICY / LEGAL DISCLAIMER
+# Privacy policy - Club Care Insurance
 
 VISL Privacy Policy provides information regarding accuracy, access, security and how it manages visitor, supplier and client information collected from its Website(s).
 
@@ -55,6 +53,3 @@ The use of this Website and any agreements entered into through this Website are
 VISL is a trading name of Vantage Insurance Services Limited ("VISL"). VISL is a subsidiary of Vantage Holdings Limited.
 
 Registered Office: 41 Eastcheap, London EC3M 1DT. Registered No. 3441136
-
-  
-
