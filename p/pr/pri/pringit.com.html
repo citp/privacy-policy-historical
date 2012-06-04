@@ -1,333 +1,83 @@
-<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209122444id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2012-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604070138id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
-<!--[if IE]>
-<style type="text/css">
-select, option { behavior: url("/media/js/disable.htc"); }
-</style>
-<![endif]-->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="alexaVerifyID" content="OSnj6zrqVugMquFKQWdN8xo0BYE">
 <title>Privacy Policy  - Pring!</title>
-<script type="text/javascript" src="/media/js/jquery-1.6.3.min.js"></script>
-<script type="text/javascript" src="/media/js/general.js"></script>
-<script type="text/javascript" src="/media/js/jquery.editinplace.js"></script>
-
-
-
-
-
 <link rel="SHORTCUT ICON" href="/media/images/favicon.ico">
-<link href="/media/css/global.css" rel="stylesheet" type="text/css">
-
-<script language="javascript">
-    function set_redirect(form_id)
-    {
-        status_btn = document.getElementById('status_update_btn');
-        status_btn.disabled = true;
-        frm_action = $("#" + form_id).attr("action");
-        frm_action = frm_action + "?redirect_to=" + escape(location.href);
-        $("#" + form_id).attr("action", frm_action);
-
-        $("#ping_stream_loader").show();
-        $("#status_update_btn").hide();
-        var form = $("#" + form_id).serialize();;
-		
-        $.ajax({
-            type: "POST",
-            url: frm_action,
-            data: form,
-            cache : false,
-            async : true,
-            error: function (data){
-                $("#dv_ping_None").remove();
-                $("#ping_stream_loader").hide("fast");
-                $('#error_ajax_update').html("Server encountered an error, please try again later");
-                $('#error_ajax_update').show();
-                $("#status_update_btn").show();
-                status_btn.disabled = false;
-            },
-            success: function(data){
-            	var testcase = /div/g;
-            	if(!testcase.test(data)){
-                        $('#error_ajax_update').html(data);
-            			$('#error_ajax_update').show();
-            			$("#status_update_btn").show();
-               			$("#ping_stream_loader").hide();
-               			status_btn.disabled = false;
-               			testcase.lastIndex = 0;
-            			return false;
-            		
-            	}
-               testcase.lastIndex = 0;
-               $("#ping_stream_loader").hide("fast");
-               status_btn.disabled = false;
-               $('#error_ajax_update').hide();
-               $("#status_update_btn").show();
-               $("#ping_stream_loader").hide();
-               $("#status_last_text").html($('#webping').val());
-               $("#updater_container").dialog('close');
-               $('.ajax_update_notification').html("Your update has been successfully posted");
-               $('.ajax_update_notification').show();
-               setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
-               $('#live_stream_container').prepend(data).hide().fadeIn('slow');
-               if($('#no_data_to_show') != undefined){
-               		$('#no_data_to_show').remove();
-               }
-            }
-        });
-        
-        return false;
-        /*
-        //erasing previous cookie
-        set_cookie("webping", "", -5);
-        status_submitted = true;
-        return true;*/
-    }
-	function set_redirect_pm(form_id)
-    {
-
-        frm_action = $("#" + form_id).attr("action");
-        frm_action = frm_action + "?redirect_to=" + escape(location.href);
-        $("#" + form_id).attr("action", frm_action);
-		$('#pm_container').hide();
-		$("#pm_container").dialog('close');
-        var form = $("#" + form_id).serialize();;
-        $.ajax({
-            type: "POST",
-            url: frm_action,
-            data: form,
-            cache : false,
-            async : true,
-            error: function (data){
-                $("#dv_ping_None").remove();
-                $('.ajax_update_notification').html("Server encountered an error, please try again later");
-                $('.ajax_update_notification').show();
-                setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
-            },
-            success: function(data){
-				var testcase = /div/g;
-            	if(!testcase.test(data)){            	
-
-					$('.ajax_update_notification').html(data);
-					$('.ajax_update_notification').show();
-					setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
-		   			testcase.lastIndex = 0;
-					return false;
-            		
-            	}
-               testcase.lastIndex = 0;
-               $('.ajax_update_notification').html("Your message has been sent");
-               $('.ajax_update_notification').show();
-               setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
-               if($('#no_data_to_show') != undefined){
-               		$('#no_data_to_show').remove();
-               }
-            }
-        });
-        
-        return false;
-        /*
-        //erasing previous cookie
-        set_cookie("webping", "", -5);
-        status_submitted = true;
-        return true;*/
-    }
-    function update_status(){
-                
-        webping = $(this).val();
-        update_length = subtract_url_length(webping);
-
-        
-        $("#status_limit").html(420-update_length);
-
-        //first earasing previous cookie
-        set_cookie("webping", webping, -5);
-
-        //now creating new one
-        set_cookie("webping", webping, 5);
-
-    }
-
-    function view_status()
-    {
-        $.get("/get_remaing_update/", function(data)
-                                        {
-
-                                            if(data == "")
-                                            {
-                                                return ;
-                                            }
-
-                                            remaining_data = eval('(' + data + ')');
-
-                                            if(remaining_data["hourly_limit"] == "0")
-                                            {
-                                                alert("Your hourly limit has been reached. Please wait for next hour to do update.");
-                                                return;
-                                            }
-
-                                            if(remaining_data["daily_limit"] == "0")
-                                            {
-                                                alert("Your daily limit has been reached. Please wait for next day to do update.");
-                                                return;
-                                            }
-
-                                            $("#updater_container").dialog({
-                                            modal: true,
-                                            width: 699,
-                                            height:533,
-                                            autoResize: false,
-                                            resizable: false,
-                                            dialogClass: 'overwrite_dialog',
-                                            overlay: {
-                                            opacity: 0.5,
-                                            background: "#D8D8D8"
-                                            }
-                                            });
-
-                                            $("#updater_container").show('fast', function() {
-                                                $('#webping').focus();
-                                                $('#webping').select();
-                                                $("#status_limit").html(420-subtract_url_length($('#webping').val()));
-
-                                                if(remaining_data["hourly_limit"] == "-1" || remaining_data["daily_limit"] == "-1")
-                                                {   
-                                                    $("#status_hour_remaining").html("&infin;");
-                                                    $("#status_daily_remaining").html("&infin;");
-
-                                                }
-                                                else {
-                                                    $("#status_hour_remaining").html(remaining_data["hourly_limit"]);
-                                                    $("#status_daily_remaining").html(remaining_data["daily_limit"]);
-                                                }
-                                               });
-                                            
-                                        });
-        
-    }
-
-    $(document).ready(function()
-        {
-        	$('#ping_stream_loader').hide();
-        	$('#error_ajax_update').hide();
-			$('.ajax_update_notification').hide();
-        	
-            $("#lnk_barminmize").click(
-                                        function ()
-                                        {
-                                            $("#bar").hide("slow");
-                                            $("#bar01").show("slow");
-                                            set_cookie("webping_status", "minimize", 5);                                            
-                                            return false;
-                                        }
-                                        );
-            $("#lnk_barmaximize").click(
-                                        function ()
-                                        {
-                                            $("#bar").show("slow");
-                                            $("#bar01").hide("slow");
-                                            set_cookie("webping_status", "maximize", 5);                                            
-                                            return false;                                            
-                                        }
-                                        );
-
-            $("#webping").attr("value", "");
-
-            $("#dialog_close").click(
-                function()
-                {
-                    $("#updater_container").dialog('close');
-                    return false;
-                }
-            );
-            
-            $("#webping").keyup(update_status);
-
-            $("#admin_flag_false_complaint").click(
-                function()
-                {
-                    if (this.checked) {
-                        $("#admin_flag_delete_picture").attr("checked", false);
-                        $("#admin_flag_rename_account").attr("checked", false);
-                        $("#admin_flag_suspend_account").attr("checked", false);
-                        $("#admin_flag_delete_content").attr("checked", false);
-                        $("#admin_flag_suspend_days").val("");
-
-                        $("#admin_flag_delete_picture").attr("disabled", true);
-                        $("#admin_flag_rename_account").attr("disabled", true);
-                        $("#admin_flag_suspend_account").attr("disabled", true);
-                        $("#admin_flag_suspend_days").attr("disabled", true);
-                        $("#admin_flag_delete_content").attr("disabled", true);
-                    } else {
-                        $("#admin_flag_delete_picture").removeAttr("disabled");
-                        $("#admin_flag_rename_account").removeAttr("disabled");
-                        $("#admin_flag_suspend_account").removeAttr("disabled");
-                        $("#admin_flag_suspend_days").removeAttr("disabled");
-                        $("#admin_flag_delete_content").removeAttr("disabled");
-                    }
-                }
-            );
-        }
-    );
 
     
-</script>
-</head>
 
-<body class="bg">
-<!--[if IE 6]>
-<script type="text/javascript"> 
-	/*Load jQuery if not already loaded*/ if(typeof jQuery == 'undefined'){ document.write("<script type=\"text/javascript\"   src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js\"></"+"script>"); var __noconflict = true; } 
-	var IE6UPDATE_OPTIONS = {
-		icons_path: "/media/images/ie-6-update/images/"
-	}
-</script>
-<script type="text/javascript" src="/media/images/ie-6-update/js/ie6update.js"></script>
-<![endif]-->
-	<div id="container">            
+<script type="text/javascript" src="http://www.pringit.com/media/CACHE/js/cfe34a0796fe.js"></script>
+
+<link rel="stylesheet" href="http://www.pringit.com/media/CACHE/css/b690dd7c8586.css" type="text/css">
+
+
+</head>
+<body>
+
+<div class="header_container">
+	<div class="head">
+    	<div class="span6" id="pringlogo_container"><a href="/"></a></div>
+    	<div class="span6 navigation_container ">		
 		<div id="tn_Container">
-		        
-			<div id="top_navigation">
-				<div class="tn_left">
-					<ul>
-						<li><a href="/">Home</a></li>
-                        
-						<li><a href="/public">Public Prings</a></li>
-                                                
-                                                <li><a href="/tour/">Tour</a></li>
-                                                
-                                                <li><a href="/prings/search/">Search</a></li>
-					</ul>
-				</div>
+		
+            <ul class="top_navigation">
+                <li id="help_pring"><a title="Help?" href="/tour/"></a></li>
+                <li id="blog"><a title="Blog" href="http://blog.pringit.com/"></a></li>
                 
-				<div class="tn_right">
-					<ul>
-						
-						<li><a href="/?view_form=login&amp;next=">Login</a></li>
-                        <li><a href="/">Sign Up</a></li>
-						
-					</ul>
-				</div>
-			</div>
-			<div id="update_notification" class="ajax_update_notification">Your update has been successfully posted</div>
+                <li id="signup"><a title="SignUp" href="/?view_form=signup"></a></li>
+                <li id="signin"><a title="SignIn" href="/?next="></a></li>
+                
+			</ul>
+        </div>
+        
+        <div class="bs_error_alert"></div>
+        <div class="bs_success_alert"></div>
+        <div class="bs_info_alert"></div>
+        
 		
 		</div>
-                
+    </div>
+</div>
 
-        
-            <div id="content">
-                <div id="Left_area">
-                    <div id="logo"><a href="/"><img src="/media/images/logo.png"></a></div>
-                    
-                    
+
+<div class="middle_container">
+
+	<div class="middle">
+    
+    
+        <div class="span3 left_container">
+            
+            
+            
+                <div class="footer">
+                <div class="copyright">
+                    <span>© 2012 Pring</span>
+                    <span class="handcrafted">Handcrafted in Pakistan</span>
                 </div>
-
-                <div id="Right_area">
-                   
-                    
+                <div class="footer_nav_container">
+                        <ul>
+                            <li><a href="/pages/about_us/">About Us</a> &nbsp;</li>
+                            <li><a href="/pages/help/">Help</a> &nbsp;</li>
+                            <li><a href="/pages/faq/">FAQ</a> &nbsp;</li>
+                            <li style="padding-right:5px;"><a href="/pages/tos/">Terms</a> &nbsp;</li>
+                            <li><a href="/pages/privacy/">Privacy</a> &nbsp;</li>
+                            <li><a href="http://blog.pringit.com/">Blog</a> &nbsp;</li>
+                            <li><a href="/pidget_designer/">Pidgets</a> &nbsp;</li>
+                            
+                            
+                        
+                    </ul> 
+                </div>
+                <div class="footer_logo"><a href="http://www.ebusiness-pg.com/" target="_blank"><button></button></a></div>
+                </div>
+            
+        </div>
+        <div class="span9 right_container">
+            
     <div id="Rbox">
         <div id="Rb_head">
             <h1> Privacy Policy </h1>
@@ -342,43 +92,93 @@ select, option { behavior: url("/media/js/disable.htc"); }
 <p>For more details, please see our <a href="http://www.pringit.com/pages/tos/" target="_blank">Terms of Service</a>.</p>
 			</div>			
 		</div>
-        <div id="Rb_bottom"><img src="/media/images/RB_bottom.gif"></div>
 	</div>
 
-                </div>
+        </div>
+
+    
+     </div>
+<div class="modal mymodal" id="confirm_container" style="display:none">
+            <div class="modal-header">
+            <a class="close" data-dismiss="modal">×</a>
+            <h3>Are you sure?</h3>
             </div>
-        
+            <div class="modal-body">
+                <div class="warning_text">
+                    <p id="comfirm_text">
+                        
+                    </p>
+            </div>	
+            </div>
+            <div class="modal-footer">
+            <a class="btn btn-primary" id="confirm_yess" href="">Yes</a>
+            <a class="btn" id="confirm_no" href="">Cancel</a>
+            </div>
+</div>
 
-        
-        
-		<div id="footer">
-		
-			<ul>
-				<li>© 2011 Pring</li>
-				<li><a href="/pages/about_us/">About Us</a></li>
-				<li><a href="/pages/help/">Help</a></li> 
-				<li><a href="/pages/faq/">FAQ</a></li>
-				<li><a href="/pages/tos/">Terms</a></li> 
-				<li><a href="/pages/privacy/">Privacy</a></li>
-				<li><a href="http://blog.pringit.com/">Blog</a></li>
-                <li><a href="/pidget_designer/">Pidgets</a></li>
-			</ul>
-                        <div class="disclaimer">Pring, e-Business (Pvt) Ltd is not liable for any content. You are responsible for any content posted by you.</div>
 
-		
-		</div>
-	</div>
-	
+  
+
+</div>
+
+
+
+
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    function change_button_text(search_on) {
+            if (search_on == "People")
+            {
+                $("#search_button_text").html("People");
+                $("#frm_people_prings").attr("action", "/people/search/");
+            }
+            else if (search_on == "Prings")
+            {
+                $("#search_button_text").html("Prings");
+                $("#frm_people_prings").attr("action", "/prings/search/");
+            }
+        }
+
+$(document).ready(
+    function()
+    {
+        $('a[rel=tooltip]').tooltip({
+        placement:'bottom'
+        });
+        $('#search-input').attr('disabled', 'disabled');
+        $('#search-input').val('Fetching search suggestions...');
+        $.ajax({
+            url: '/get_search_suggestions/json/',
+            success: function(data) {
+            $('#search-input').attr('data-source', data);
+            },
+            complete: function() {
+            $('#search-input').removeAttr('disabled');
+            $('#search-input').val('');
+            $('#search-input').focus();
+            $('#search-input').blur();
+            }
+        });
+    });
+
+
+
+
+
+
+
+</script>
+<!--Google Analytics-->
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1840038-8");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
+    try {
+    var pageTracker = _gat._getTracker("UA-1840038-8");
+    pageTracker._trackPageview();
+    } catch(err) {}
+</script>
 
 
 </body></html>
