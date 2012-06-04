@@ -1,134 +1,140 @@
-> *The following text is extracted and transformed from the rachaelraymag.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219090030id_/http%3A//www.rachaelraymag.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelraymag.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604135202id_/http%3A//www.rachaelraymag.com/rrmag/file.jsp%3Fitem%3Dlegal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Every Day with Rachael Ray
+# Every Day with Rachael Ray magazine Official Website
 
-The policies below are applicable to RachaelRaymag.com, the online home of _Every Day with Rachael Ray_ magazine, and other Web sites on the World Wide Web originating in the United States and owned and operated by The Reader's Digest Association, Inc., the publisher of _Every Day with Rachael Ray_ (collectively "the _Every Day with Rachael Ray_ sites") unless otherwise indicated. Our Privacy Policy will tell you what information we collect when you visit _Every Day with Rachael Ray_ sites, how we protect it and what choices you have about how that information is used. We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment. 
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
 
-**COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION**  
-Some functions and services offered through _Every Day with Rachael Ray_ sites require that you provide certain Personally Identifiable Information (PII). PII that we collect includes e-mail address, name, postal address, telephone number, date of birth and credit card number. We collect this PII for example, when you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list. For RachaelRaymag.com, you can make changes to your PII by clicking on your Every Day People membership profile or by contacting Customer Care:   
-Our postal address is:  
-_Every Day with Rachael Ray_  
-PO Box 8038  
-Red Oak, IA 51591-1038
+  * Online Privacy Policy
+  * [Offline Privacy Policy](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy)
+  * [Visitor Agreement](https://web.archive.org/help/terms-of-use)
+  * Your California Privacy Rights
+  * Meredith Corporation "Shine the Light" Customer Notice
 
-You can also reach us via email at [EveryDayService@RD.com](mailto:EveryDayService@RD.com?subject=Rachael%20Ray%20Renew) or call 1-800-305-7991. 
 
-**RECEIVING E-MAIL AND POSTAL CORRESPONDANCE**  
-The online _Every Day_ people Membership Registration form and other online submission forms for RachaelRaymag.com contain clearly identified checkboxes indicating that by submitting the form you will be entitled to receive e-mail correspondence from RachaelRaymag.com, _Every Day with Rachael Ray_ magazine, and other _Every Day with Rachael Ray_ affiliates and partners unless you opt out of receiving e-mail correspondence by unchecking each box. Each time you submit your e-mail address your privacy preferences will be updated. Web site visitors over the age of 18 who have submitted their names, mailing addresses, or e-mail addresses but have not opted out may occasionally receive e-mail correspondence from _Every Day with Rachael Ray_ , and other _Every Day with Rachael Ray_ affiliates and partners, containing information such as newsletters or special offers. If you do not wish to receive these messages, you can check the box that allows you to opt out. If you have already submitted an online _Every Day_ people Membership Registration form and wish to change your preferences, you can do so in your _Every Day_ people membership profile or see the section below on Opting Out. 
 
-Except as noted below, we will not share e-mail addresses we collect through any _Every Day with Rachael Ray_ sites with any unaffiliated third parties unless we specify this at the point of the collection. Except as otherwise noted, unless you consent to the disclosure of your personally identifiable information, only we and our affiliates, our technical consultants, third-party auditors and other third parties who make _Every Day with Rachael Ray_ sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to this information and we require them to agree that they are covered by this policy. 
+## ONLINE PRIVACY POLICY
 
-Occasionally, _Every Day with Rachael Ray_ may make names and postal addresses we collect through the _Every Day with Rachael Ray_ sites available to reputable companies whose products and/or services may interest you, unless you opt out of being included in our postal mailing list (see the section below on opting out of postal mailings). 
+Welcome to our website! Rachaelraymag.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy) to see our Offline Privacy Policy.
 
-Please note that we do reserve the right to transfer your PII and other information to our successors in business and purchasers of site assets. Any personal information provided to entities affiliated with any _Every Day with Rachael Ray_ site will be treated in accordance with the terms of this Privacy Policy, unless you are otherwise notified. In the following limited circumstances we will consider, and may release, personal information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. 
+By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://www.bhg.com/bhg/file.jsp?item=/legal/terms). Please take a few minutes to read them before using or registering with any of our sites.
 
-_Every Day with Rachael Ray_ may also provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis, but these statistics will include no personal information. 
+PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE. 
 
-**INTERACTIVE AREAS OF WEB SITE**  
-The web site may include personal profiles, discussion forums, blogs, social networking services or other interactive areas ("Interactive Areas") in which you or third parties may create, post or store content, messages, comments, materials or other items on the Web Site. If you use these Interactive Areas, you should be aware that any personal information you post on the Web Site or provide to others through the Web Site may be read, collected and used by others and may be posted on publicly available portions of the Web Site. Such information may be retained indefinitely, and may be saved by caching services on the Internet. We recommend you be cautious in giving out personal information to others in public or private online forums. We are not responsible for personal information you chose to post in Interactive Areas of the Web Site or the use by third parties of such personal information. 
+Please read this Online Privacy Policy carefully so that you understand our privacy practices regarding:
 
-**BUSINESS TRANSFERS**  
-Information about our users, including personal information, may be disclosed or transferred as part of any merger, acquisition, or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership or other situation in which personal information is transferred to third parties as one of our business assets. Any personal information transferred will be treated in accordance with terms of this Privacy Policy unless you are otherwise notified. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to Service Providers or other third parties and we encourage you to become familiar with their practices before disclosing information directly to them. 
+  * Children under 13 
+  * Information we collect 
+  * How your information will be used 
+  * How to correct or update your information 
+  * Newsletters and promotions 
+  * Security 
+  * Miscellaneous
 
-**HOW WE USE THE PERSONAL INFORMATION WE COLLECT**  
-In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information on events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Web Site, and for the purpose for which the information was provided. For example, we may use the information we collect:  
-to send you a welcoming e-mail, to contact you about your use of the Web Site and to provide important web site updates;   
-to provide the services, products or information you request and to process payments and complete any transactions in connection therewith;   
-to respond to your e-mails, submissions, comments, requests or complaints;   
-to request feedback and to enable us to develop, customize and improve the web site and our publications, products and services;   
-to send you surveys or questionnaires;   
-to send you newsletters, including any online newsletter(s) you have requested or, for print subscribers, those online newsletters that are editorial companion pieces to our print publications;   
-to contact you about our or a third party's services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes;   
-for editorial purposes, such as to contact you about content you have submitted to the web site or to give attribution to content you submit;   
-to send a one-time e-mail on your behalf which contains a display or link to a recipe, article, advice or other content you have selected to share with a friend through our E-mail-a-Friend service (however, we do not use either you or your friend(s) name and e-mail address you provide us through this feature for other purposes); and   
-to notify contest winners.   
-We provide you the opportunity to opt out of certain of these uses as described in the Choices/Opt Out section below. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information. 
 
-**OPTING OUT OF RECEIVING E-MAIL AND POSTAL CORRESPONDANCE**  
-Receiving e-mail messages and postal mail from _Every Day with Rachael Ray_ and other _Every Day with Rachael Ray_ affiliates and partners is optional. You may choose not to receive certain e-mail, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive e-mail or wish to correct information you provided to _Every Day with Rachael Ray_ and you know you are a member of RachaelRaymag.com, please go your Every Day People Membership Profile or to the Newsletter Preferences page. _Every Day with Rachael Ray_ will use commercially reasonable efforts to delete records from our database when we receive requests to do so; however, because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance. 
 
-We reserve the right to send you certain communications such as service announcements and administrative messages, relating to _Every Day with Rachael Ray_ and RachaelRaymag.com that are necessary to our relationship with you. 
+If you have questions about this Online Privacy Policy, please contact us at [privacy@meredith.com](mailto:privacy@meredith.com).   
 
-If you prefer not to receive postal mailings from _Every Day with Rachael Ray_ , RachaelRaymag.com, or from other reputable companies we may share your name and postal address with, write to us at the address below. 
 
-We also may share personal information we obtain from you through offline sources (such as when you respond to a survey, subscribe to our magazine, or buy one of our products). You may opt out of receiving postal communications or telemarketing calls or e-mails, regardless of how we obtained the information, by writing to the address below. 
+Return to top 
 
-Our postal address is:  
-_Every Day with Rachael Ray_  
-PO Box 8038  
-Red Oak, IA 51591-1038
+### Children Under 13:
 
-You can also reach us via email at [EveryDayService@RD.com](mailto:EveryDayService@RD.com?subject=Rachael%20Ray%20Renew) or call 1-800-305-7991. 
+Meredith cares about protecting the privacy of children. We won't knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones. If you're under 13, please do not register with any of our sites or provide us with any personally identifying information (such as your name, your email address or your phone number). 
 
-You may also use the address above for general customer care questions.
+Return to top
 
-**NEWSLETTERS**  
-You can unsubscribe from any RachaelRaymag.com newsletter(s) by:   
-Clicking on the unsubscribe link at the bottom of your newsletter or by unchecking the appropriate box on the [Newsletter Preferences](https://web.archive.org/Hear-From-Us/newsletters) form. 
+### Information We Collect:
 
-**ONLINE POLICY FOR INDIVIDUALS 17 YEARS OLD AND YOUNGER**  
-No personal information should be submitted or posted on _Every Day with Rachael Ray_ sites by individuals 17 years of age or younger without their parent's or guardian’s permission. We may request name, address, phone number, e-mail address and date of birth from your child for contest participation so that we may notify him or her if selected a winner. In the event we do so, we will request your consent prior to collection. 
+The information we gather on our sites falls into two categories: (1) information you supply when you register or initiate transactions, and (2) tracking information collected as you navigate through our sites. Third-party providers featured on, or linked to from, our sites, such as vendors of products and services offered through our sites, may gather information, as well.
 
-No information collected from online guests 17 years of age or younger is used for any marketing or promotional purposes whatsoever by _Every Day with Rachael Ray_. Unless otherwise disclosed at collection, _Every Day with Rachael Ray_ does not provide any personal information collected through any _Every Day with Rachael Ray_ site from individuals 17 years old and younger, regardless of its source, to any third party for any purpose whatsoever. 
+#### Personally Identifying Information
 
-Note to parents: If your child has submitted his or her name through any _Every Day with Rachael Ray_ site, and you wish to review that information, to have it corrected or deleted from our records, or to refuse to permit further collection or use of the child's information, please communicate your wishes to us by writing to us, e-mailing us or calling us at:  
-Our postal address is:  
-_Every Day with Rachael Ray_  
-PO Box 8038  
-Red Oak, IA 51591-1038
+**Registration Information.** To use certain features on our sites, we ask you to register. When you register, we collect personally identifying information about you, including your name, mailing address, email address, user name and password. We may also ask for some additional information, such as, hobbies, age, browser type, and the like, but you're free to register without providing this information if you prefer. In addition, at various other points on our sites, we may ask you for personally identifying information, including when you: place an order for products, complete a survey, or report a problem with one of our sites. We use this information to process your orders, to tailor our sites to your interests and to make them more useful to you, and to help improve our sites generally.
 
-You can also reach us via email at [EveryDayService@RD.com](mailto:EveryDayService@RD.com?subject=Rachael%20Ray%20Renew) or call 1-800-305-7991.
+**Contests and Other Promotions.** From time to time, we may offer contests or other promotions involving marketing or advertising partners. If you choose to participate in one of these contests or promotions, you'll have to provide some information about yourself (such as your name, address, and email address). We may share this information with sponsors of the contest or other promotional partners, but we will always identify the other parties involved (for example, in the contest rules) and provide notice that your registration may be disclosed to these parties. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We urge you to review their privacy policies and learn how they will use your information before participating. If you don't want us to collect the information requested in connection with a promotion, or to provide it to our co-sponsors or partners, please do not participate in the promotion.
 
-_Every Day with Rachael Ray_ pledges to exert reasonable efforts to assure that the information is deleted as soon as possible. 
+#### Tracking Information
 
-Some _Every Day with Rachael Ray_ contests are open to individuals 17 years old and younger if the official rules so provide. In such contests, if a winner is 17 years old or younger, notification and prizes are sent to the parent or guardian who is also required to complete all necessary documents. 
+**Cookies.** To help us serve your needs better, we use "cookies" to store and sometimes to track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie contains a unique number that allows our sites to identify your computer. For example, cookies allow us to keep track of your user name and password (if you are a registered visitor) so you don't have to re-enter that information each time you visit one of our sites. We also use cookies to make sure you don't see the same ads repeatedly when you visit our sites. The help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you may not be able to take advantage of various features on our sites that are available to other visitors. In addition, our advertising and marketing partners may use their own cookies. 
 
-We encourage parents to be aware of their children's online activities, and to learn about software that can filter objectionable materials. We cannot and will not request more information from your child than is reasonably necessary to participate in any online activity. 
+**Third-Party Advertising Services.** We use the services of DoubleClick, a third-party advertising and email delivery company to serve and target advertisements that you see on the pages of our sites, to serve and target promotions or other marketing messages, and to send e-mails from us. DoubleClick also collects "clickstream data," information about your visit to our sites and to third-party sites that can be aggregated and used to target advertising on this and other sites, and used for marketing research and other similar purposes. This clickstream data does not include personally identifying information such as your name, address, email address or telephone number. DoubleClick uses cookies for many of the same reasons we do, and collects information directly from our users. We share website usage information about visitors to our sites who have received a targeted promotional campaign with DoubleClick to facilitate targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and DoubleClick note some of the pages you visit on our website through the use of pixel tags (also called "clear gifs" or "web beacons"). If you would like to know more about DoubleClick information gathering practices and "opt-out" procedures, please see the privacy statement on the [DoubleClick website](http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_1=&).
 
-**ADVERTISERS**  
-If you submit your name through a form on any _Every Day with Rachael Ray_ site to request information from an advertiser or other third party, _Every Day with Rachael Ray_ is not responsible for any marketing or other use of your name by the third party. To learn more about any other company or organization's privacy policies, we suggest visiting its web site or contacting it by postal mail or telephone. 
+**Browser Level Information and IP Addresses.** When you use our sites, we may also collect information about your access time and your computer configuration, including the type of browser software you use, the operating system that you're running, the resolution of your computer monitor and your Internet Protocol ("IP") address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. Like the IP address, none of the other information described in this paragraph identifies you personally. We collect this information for purposes of aggregated reporting on site activity that we, and our advertisers, may use. For example, we may want to know how long the average user spends on our site, which pages or features get the most attention, and the like. The aggregated information helps to understand our audience and confirm the value of advertising on our websites.
 
-**DISCUSSION BOARDS**  
-Please be aware that discussion board (forum) postings are not private. Others may capture your e-mail address and send you e-mail messages if you post your e-mail address. _Every Day with Rachael Ray_ cannot control such actions by others; however, we urge you and any other discussion board user not to use our forums as a source of e-mail addresses for sending unsolicited messages. For more information on our discussion boards, please see our [ Terms of Use](https://web.archive.org/terms-of-use) for the site. 
+Return to top 
 
-Only individuals 18 years of age or older may participate in our discussion boards. 
+### How Your Information Will Be Used:
 
-**OPINION POLLS**  
-Opinion polls on RachaelRaymag.com and other _Every Day with Rachael Ray_ sites are anonymous. We do not correlate votes submitted via such polls with names or individual e-mail addresses, unless otherwise disclosed at the point of collection. 
+Our primary goal in collecting information is to provide you with a customized experience when visiting our sites and to make our sites more valuable to you. 
 
-**SEARCHES**  
-Keyword search functions are provided on the _Every Day with Rachael Ray_ sites as a convenience to our users. We do not collect your name or e-mail address as a result of using a search feature. We may keep logs of all words searched to help us learn what kinds of information RachaelRaymag.com visitors are seeking, and to improve our service to visitors. 
+**Vendors and Service Providers.** To make your experience on our sites more useful and enjoyable, we may offer some features (such as chat rooms and email newsletters) in conjunction with third party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is necessary to provide you with the services we provide you in conjunction with that Provider Partner. Their use of this information will be subject to the terms of their respective privacy policies, which you can find on their websites. _We will not provide your email address to such third parties unless it's necessary to provide the services you have requested, or to allow you to participate in a co-sponsored promotion._
 
-**OTHER INTERACTIVE FEATURES**  
-When you use an interactive feature on our site, if there is no clearly identified information indicating that you may receive correspondence and a link to this Privacy Policy, we will not save your name or e-mail address. 
+**Sites to Which We Link.** We also may provide links to other websites, and provide access to products and services offered by third parties, whose privacy policies we don't control. When you access another website or purchase products or services or conduct other transactions through our websites, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. When you provide information in the course of obtaining products or services through our sites, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you're on one of our sites throughout the transaction. The provider's privacy policy may differ from ours. If you can't find the privacy policy of any of our providers via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.
 
-**E-MAIL MESSAGES**  
-If you send _Every Day with Rachael Ray_ or RachaelRaymag.com an e-mail message, we may retain that message and your e-mail address, as well as any response we send you. 
+**Shopping.** When you are ready to make a purchase through one of our sites, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with the relevant merchant to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We may share non-financial information with such merchants in accordance with this Privacy Policy. 
 
-**HYPERLINKS TO OTHER WEB SITES**  
-_Every Day with Rachael Ray_ sites may include links to Web sites of other companies unaffiliated with _Every Day with Rachael Ray_. Please note that we are unable to review all such sites and take no responsibility for the content or privacy practices of any unaffiliated Web site. 
+**Our Other Websites.** When you register for one of our sites, the information that you provide will be added to a centralized Meredith database so that you will simultaneously be registered for our other sites as well. We may share the information that we collect from you with other divisions of Meredith so that we and they can offer you products and services that we may believe may be of interest to you.
 
-**COOKIES AND SERVER LOGS**  
-_Every Day with Rachael Ray_ , related Web hosting providers, and advertisers and ad serving and tracking companies sometimes utilize "cookie" technology. Cookies are bits of data stored on your hard drive that contain no personally identifying information but which help enhance your Web-browsing experience. Not all Web browsers accept cookies, and those that do usually provide a preference or setting that allows you to refuse cookies. If your browser does not accept cookies, you may still enjoy _Every Day with Rachael Ray_ sites. 
+**Postal Address Lists.** If you provide us with your postal address, we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter (which should be addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309), requesting that we remove your postal address from these lists. If we receive such a letter from you, we will act as promptly as possible to remove your postal address from future postal address lists that we sell or rent to third parties.
 
-Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, and the web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' Web-browsing systems. 
+**Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.bhg.com/bhg/file.jsp?item=/legal/terms), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets. 
 
-**CREDIT CARDS**  
-_Every Day with Rachael Ray_ uses credit card numbers submitted to us through RachaelRaymag.com for payment purposes only, and not for marketing purposes. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of anyone who places online orders with us. 
+Return to top 
 
-**PRIVACY PRECAUTION WARNING**  
-Please note that no data transmission over the Internet is 100% secure. As a result, we cannot guarantee the security of the information that you transmit via our online services. 
+### How to Correct or Update Your Information:
 
-**IMPROPER CONDUCT**  
-The restrictions above will not apply in the event that you engage in certain improper conduct. Specifically, we shall have the right to use or release to third parties personally identifiable information regarding users who are suspected of having used any _Every Day with Rachael Ray_ sites for any fraudulent purposes or having otherwise violated any law, rule or regulation or the rights of third parties or having engaged in any conduct that we deem improper. 
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [](http://www.bhg.com/common/myaccount)[My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=BHG&cds_page_id=79656) area. 
 
-**HOW _EVERY DAY WITH RACHAEL RAY_ HANDLES HEALTH PRIVACY INTERNALLY**  
-_Every Day with Rachael Ray_ wants your personal information to remain as secure as reasonably possible. Therefore, we have a two-tier system that combines leading technical safeguards and a code of conduct for those employees permitted to access our customers' personal information. On the technical side, we use SSL to help ensure the integrity and privacy of the personal information you provide to us via the Internet. Only authorized employees are permitted to access your personal information. All employees must abide by our Privacy Policy and those who violate our Privacy Policy are subject to disciplinary action, up to and including termination. 
+Return to top 
 
-**ACCEPTANCE OF PRIVACY POLICY**  
-By using this site, you signify your agreement to the _Every Day with Rachael Ray_ sites privacy policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Your continued use of any _Every Day with Rachael Ray_ site following the posting of any changes to these terms shall mean that you have accepted those changes. This policy and all of our legal obligations are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York. 
+### Newsletters and Promotions:
 
-Policy last updated May 2009 
+**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=BHG&cds_page_id=79656) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
 
-**LEGAL NOTICE AND TERMS AND CONDITIONS**  
-Please also read the _Every Day with Rachael Ray_ sites' [ Terms of Use](https://web.archive.org/terms-of-use) to understand the additional terms and conditions which apply to use of the sites. 
+**Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](http://www.bhg.com/bhg/profile/member/optout/) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
+
+Return to top 
+
+### Security:
+
+The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.bhg.com/bhg/file.jsp?item=/legal/terms) for more information related to posting materials on our sites, including our use of such materials.
+
+Return to top 
+
+### Miscellaneous:
+
+The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we'll post the changes before they take effect.
+
+Return to top 
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+**(As provided by California Civil Code Section 1798.83)**
+
+Under California Civil Code Section 1798.83 - also known as the "Shine the Light" law - California residents have a right to request certain information from each business they patronize regarding that business's disclosures of personal information to third parties for the third parties' direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.
+
+The "Shine The Light" law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
+
+Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties' direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our "Shine The Light" Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
+
+Return to top 
+
+## MEREDITH CORPORATION "SHINE THE LIGHT" CUSTOMER NOTICE 
+
+The following options are available to any customers who wish to prevent the disclosure of their personal information to third parties for direct marketing purposes:
+
+#### Disclosures of Name and Postal Address Information. 
+
+If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [???opt-out??? form](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
+
+#### Disclosures of Website Registration Information.
+
+When you register to become a member of one of our websites and when you use our sites, you may be invited to sign up to receive special offers from reputable third-party advertisers that we think may be of interest to you. If you choose to register for these offers, we will share your registration information with the advertisers that sponsor the offers you elect to receive. To prevent the disclosure of your registration information to these advertisers, please do not register to receive third-party offers when you sign up for membership and/or use our sites. 
+
+Many of the third-party offers promoted through our websites are brought to our visitors by a third-party agency, CoolSavings.com. When you register to receive one or more offers from advertising clients of CoolSavings.com, your information will be disclosed to CoolSavings.com and CoolSavings.com may use your information and disclose it to its client advertisers subject to its privacy policy at [http://www.coolsavings.com](http://www.coolsavings.com/). If you do not wish to receive third-party offers through CoolSavings.com, please do not register for these offers when you use our websites. 
+
+#### Disclosures of Sweepstakes and Contest Registration Information. 
+
+From time to time, we may offer co-sponsored sweepstakes, contests and other promotions with third-party advertisers and other partners. We may share your registration information with third-parties involved in a co-sponsored promotion, who will always be identified in the promotion materials (for example, in the official rules). If you do not want your registration information to be disclosed to these third-parties, please do not register for any of our co-sponsored promotions.
+
+Return to top 
