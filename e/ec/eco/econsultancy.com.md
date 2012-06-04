@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145857id_/http%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604041427id_/http%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Econsultancy
 
 ## Overview
 
-**Effective: 1st December 2008**
+**Effective: 28th May 2012**
 
-Econsultancy is committed to protecting and respecting your privacy. This privacy policy is based on the guidelines laid out by the TRUSTe Privacy Program and as required by the UK Data Protection Acts of 1984 and 1998. Econsultancy is a Licensee of TRUSTe's privacy program. TRUSTe is a non-profit organization dedicated to building trust in the Internet by having member organizations disclose information practices.
-
-[](http://www.truste.org/ivalidate.php?url=econsultancy.com&sealid=101) TRUSTe operates as a third-party "watchdog" by auditing privacy practices to make sure that they are in compliance with TRUSTe's privacy standards. In as far as this represents best practice on the web, Econsultancy is committed to complying with these standards so that members can feel secure in the knowledge that their personal data is properly managed. If you have questions or concerns regarding this statement, you should first contact Econsultancy, via our contact form. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Econsultancy to resolve your concerns.
+[ ](https://privacy.truste.com/privacy-seal/E-consultancy-com-Limited/validation?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014 "TRUSTe online privacy certification") Econsultancy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, econsultancy.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +44 (0)20 7269 1450. If you are not satisfied with our response you can contact [TRUSTe here](https://watchdog.truste.com/pvr.php?page=complaint). 
 
 This document discloses the data protection and privacy practices for Econsultancy including:
 
@@ -53,7 +51,31 @@ To fully use our services, you will need to join as a Member, where you will be 
 
 We use a web analytics tool to analyse site usage, how our users arrive at our site, what they do on the site, what browser they are using and on what operating system etc. However, this analytics data, collected via a JavaScript tag in the pages of our site, is not tied to personally identifiable information.
 
-In addition, we use cookies on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Cookies can also help us provide information which is targeted to your interests as well as being used to monitor site performance and to measure site traffic and usage. Cookies are stored on your hard drive, not on our site. Most cookies are "session" cookies, meaning that they are automatically deleted at the end of a session. The other type of cookie we use is a "persistent" cookie. This stays on your hard drive and we use this to automatically identify who you are. We use this cookie so that you do not need to log in manually every time you visit the site if you are a registered user. The cookie itself contains no personally identifiable information but it does pass an ID to our server which allows us to tie the cookie to your personal information. We use the cookie to track how often you visit the site so we know who our most active users are. You are always free to decline our cookies if your browser permits, although in that case you will not be able to use certain features on our site. For example, if you disable cookies, you will need to log in manually each time you visit the site as we cannot use a cookie to remember who you are.
+**Cookies.** We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
+
+The following tables describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Econsultancy cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) 
+
+"Session" Cookies  
+---  
+We use a **session cookie** to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken. | More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>  
+Persistent Cookies for Site Analytics and Performance  
+---  
+**Google AdSense** – this cookie is used by Google to report to us how the adverts shown on Econsultancy.com are performing. User data is all anonymous. | You can find out more generally about Google and its policies and principles as regards advertising at <http://www.google.com/policies/privacy/ads/>  
+**DoubleClick (Google)** – this is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on Econsultancy’s site. User data is anonymous. | As above, you can find out more generally about Google and its policies and principles as regards advertising at <http://www.google.com/policies/privacy/ads/>  
+**Google Analytics** – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. | You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+**Kampyle** – this is tool for us to capture user feedback. You should be able to see the red triangle in the bottom right hand corner of the website. User data is all anonymous unless you give your name in any feedback. | You can find out more about Kampyle on their site at <http://www.kampyle.com/>  
+**Quantcast** – this captures information on site traffic and usage so that we can publish this information on the Quantcast site for anyone to see. User data is all anonymous. | You can see Econsultancy’s site traffic profile on Quantcast at <http://www.quantcast.com/econsultancy.com>  
+**New Relic** – this service helps us understand the speed and technical performance of our site so we can monitor and improve it. User data is all anonymous. | You can find out more about what New Relic do on their site at <http://newrelic.com/>  
+**ClickTale** – this tool, currently only on one page of our site, shows how users interact with a particular page e.g. heat maps and scroll maps. This is to help us improve the usability of our web pages. User data is all anonymous. | You can find out more about what ClickTale do on their site at <http://www.clicktale.com/>  
+**Commission Junction** – this cookie is only set if you get to the confirmation page after checkout. It is used to track whether we then owe any money as a commission to a site (affiliate) which has referred business to us. | You can find out more about Commission Junction at <http://uk.cj.com/>  
+  
+**Web beacons.** Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+**Social buttons.** On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’, LinkedIn ‘Share’, and StumbleUpon. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Econsultancy. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Econsultancy’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Econsultancy, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+
+**External web services.** We use a number of external web services on the Econsultancy site, mostly to display content within our web pages. For example, to display images we often use Flickr; to display slideshows we sometimes use SlideShare; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
+
+**Email tracking.** Some emails that we send you have no tracking in at all e.g. service emails with invoices attached. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of Econsultancy’s emails which you can do via Your Account.
 
 **Surveys & Contests.** From time to time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on the Econsultancy web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winner's name and organization. If the survey or contest has a sponsor then we may share information given by entrants with the sponsor, but only with the user's consent.
 
@@ -85,7 +107,7 @@ Econsultancy complies with the UK Data Protection Act 1998 and is registered wit
 
 ## 4\. Email Communications
 
-As part of the registration process for joining as an Econsultancy member you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "[Email Settings](https://web.archive.org/us/account/email)" section under "[Your Account](https://web.archive.org/us/account)". You can define what emails you receive from the site (if any) and save your settings.
+As part of the registration process for joining as an Econsultancy member you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "[Contact Settings](https://web.archive.org/us/account/contact)" section under "[Your Account](https://web.archive.org/us/account)". You can define what emails you receive from the site (if any) and save your settings.
 
 ## 5\. Our Disclosure of Your Information
 
@@ -124,7 +146,7 @@ If you wish to change your password you can do so at any time through the "[Your
 
 ## 7\. Reviewing and Changing Your Personally Identifiable Information
 
-You can at any time review and change the information you submitted during registration by visiting the "[Your Profile](https://web.archive.org/us/account/profile/edit)" section within the "[Your Account](https://web.archive.org/us/account)" section of the site.
+You can at any time review, delete or change the information you submitted during registration by visiting the "[Your Profile](https://web.archive.org/us/account/profile/edit)" section within the "[Your Account](https://web.archive.org/us/account)" section of the site.
 
 You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area.
 
@@ -150,10 +172,10 @@ The TRUSTe program covers only information that is collected through this Web si
 
 ### 12\. Mailing Address
 
-Telephone | +44 (0)20 7269 1450  
+Telephone | +1 212 971-0630  
 ---|---  
-Office address | 4th Floor, The Corner  
-91-93 Farringdon Road  
-London  
-EC1M 3LN  
-United Kingdom
+Office address | Ste. 307  
+350 7th Avenue  
+New York  
+NY 10001  
+United States
