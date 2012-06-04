@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106114706id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604092745id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Grocery Coupons, Coupons for Canada, Coupons online, printable coupons
+# Privacy Statement
 
 **Information about Privacy on GroceryAlerts.ca**
 
@@ -67,3 +67,6 @@ If you choose to not have your browser accept cookies from the GroceryAlerts.ca 
  **Changes to this Statement**
 
 GroceryAlerts.ca will occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement. For material changes to this statement, GroceryAlerts.ca will notify you by placing prominent notice on the Web site.
+
+  
+
