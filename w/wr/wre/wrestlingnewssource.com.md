@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrestlingnewssource.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206044734id_/http%3A//www3.wrestlingnewssource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewssource.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604113613id_/http%3A//wrestlingnewssource.com/privacy.php) for the most accurate reproduction.*
 
-# Wrestling News - WWE News and Rumors, TNA News, Spoilers and Results
+# Wrestling News, TNA Slammiversary 2012 Results, WWE News, TNA News
 
   
 
