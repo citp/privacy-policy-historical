@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.be privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011211438id_/http%3A//help.aol.co.uk/helpnotsearchable/privacy-policy/article/20070126060009990001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.be privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604044743id_/http%3A//help.aol.co.uk/helpnotsearchable/privacy-policy/article/20070126060009990001) for the most accurate reproduction.*
 
 # AOL UK Privacy Policy
 
@@ -181,9 +181,9 @@ AOL may use cookies, web beacons or similar technologies to enhance and personal
 
 
 
-AOL and its advertisers may also use ad network providers, including AOL affiliates such as AOL Advertising and Tacoda, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=65206 "AOL Help Cookies information") on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by AOL Advertising and Tacoda and other ad network, content, and service providers is subject to their own privacy policies, not this one. To find out more about third party content and ad network providers and the choices you have about these technologies, [click here](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=27088 "AOL Help Advertising information").
+AOL and its advertisers may also use ad network providers, including AOL affiliates such as AOL Advertising and Tacoda, to help present advertisements on the AOL Network. These ad network providers may use [cookies, or web beacons or similar technologies](http://www.allaboutcookies.org/ "AOL Help Cookies information") on your computer to tailor content, advertisements to your preferences, help target, measure and track your visits and the effectiveness of advertisements and promotions, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience and to provide security within shopping baskets or transactions. The use of cookies, web beacons, or similar technologies by AOL Advertising and Tacoda and other ad network, content, and service providers is subject to their own privacy policies, not this one. To find out more about third party content and ad network providers and the choices you have about these technologies, [click here](http://help.aol.co.uk/help_uk/documentLink.do?cmd=displayKC&docType=kc&externalId=27088 "AOL Help Advertising information").
 
-To learn more about cookies and how to disable them, [click here](http://help.aol.co.uk/help_uk/microsites/search.do?cmd=displayKC&docType=kc&externalId=65206).
+To learn more about cookies and how to disable them, [click here](http://www.allaboutcookies.org/).
 
 ## Principle 3
 
