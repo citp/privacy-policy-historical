@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211001432id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604203317id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
 ##### Feel your privacy's being invaded?
 
-Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/web/20111211001432id_/http://www.pct.edu/privacy/contact.asp).
+Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/web/20120604203317id_/https://www.pct.edu/privacy/contact.asp).
 
 We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this website. Any and all information collected via the Penn College website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Your information will be held with the utmost care, and will not be used in ways that you have not consented to.
 
@@ -46,6 +46,8 @@ If a user elects to use our "Send this recipe to a friend" option for informing 
 
 **Student Home Pages** – We periodically monitor student homepages for content, and will discontinue hosting the home page of any student who is in violation of [Penn College's Acceptable Use Policy](https://web.archive.org/its/policy.htm).
 
+**Site Search** – The College uses Google Custom Search for providing customized search results. Submitted queries are not stored by the College; rather they are shared with Google for processing. Use of the Google Custom Search on the College’s website is governed by [Google’s privacy policy.](http://www.google.com/intl/en/policies/privacy/)
+
 **Cookies** – A cookie is a piece of data stored on the user's hard drive, and contains information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. The cookie we use will stay on the user's hard drive. If a user rejects the cookie, they may still use our site with no limitations. Cookies on our site are used solely for the purpose of tracking the progress of visitors to our site.
 
 **Log Files/IP Addresses** – We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
@@ -70,4 +72,4 @@ If we decide to change our privacy statement, we will post those changes on this
 
 ### How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20111211001432id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20120604203317id_/https://www.pct.edu/privacy/contact.asp).
