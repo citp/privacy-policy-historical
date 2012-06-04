@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honest-food.net privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119023743id_/http%3A//honest-food.net/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest-food.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605002340id_/http%3A//honest-food.net/about/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hunter Angler Gardener Cook
 
@@ -39,5 +39,3 @@ Hunter Angler Gardener Cook links to other websites. If you choose to visit othe
 
 **Updates and Changes**  
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Hunter Angler Gardener Cook and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
-
-[Print This Page](http://honest-food.net/contact/privacy-policy/printpage/ "Print This Page")
