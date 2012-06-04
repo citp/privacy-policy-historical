@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006193732id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605012445id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
 
 # Joie de Vivre Hotels Privacy Policy Statement
 
@@ -86,11 +86,11 @@ JDV reserves the right to change this Privacy Policy at any time; notice of chan
 
 ### JDV Contact Information: 
 
-Ann Nadeau  
-Corporate Director of Marketing  
+Linda Palermo  
+Chief Revenue Officer  
 Joie de Vivre Hospitality  
-415.773.1073  
-[anadeau@jdvhospitality.com](mailto:anadeau@jdvhospitality.com)
+415-364-5418  
+[lpalermo@jdvhospitality.com](mailto:lpalermo@jdvhospitality.com)
 
 ## Joie de Vivre Site Security Statement
 
