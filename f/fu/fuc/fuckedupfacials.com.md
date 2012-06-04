@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the fuckedupfacials.com privacy policy that was archived on 2011-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110913202754id_/http%3A//really.fuckedupfacials.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckedupfacials.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604123219id_/http%3A//track.fuckedupfacials.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Fucked Up Facials**
 
 **PRIVACY POLICY STATEMENT**  
-  
   
 
 
