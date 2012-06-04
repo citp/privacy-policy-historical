@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204132911id_/http%3A//www.blubrry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005504id_/http%3A//www.blubrry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Blubrry
 
