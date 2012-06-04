@@ -1,18 +1,7 @@
-> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125054645id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604084931id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # UPto75: Never Miss A Sale: Privacy Policy - Great deals, offers, discounts and sales in stores in your city
 
-### Testimonials
-
-Thanks guys..you saved 200 rs. on flight charges. keep up the good work. Updated your site on my facebook wall :) Regards, Abhijeet
-
-- **Abhijeet**
-
-[](http://www.upto75.com/www.goibibo.com/m/5222/Sale_Offer.html)  
-
-
-Privacy Policy  
----  
 UPto75.com respects the privacy of its users and is committed to protect it in all respects. UPto75.com reserves the right to revise this policy, from time to time in part or full depending upon its requirement, legislations and market conditions. Hence it requests its users to check the privacy policy on a periodic basis.   
    
 **Scope**  
@@ -40,11 +29,11 @@ UPto75.com may use pixel tags, also known as web beacons. Pixel tags help us imp
 The information you provide to us may be used to: 
 
   * Send you alerts or newsletters and/or other communications for which you have registered; 
-  * Provide special offers or promotional materials to you on behalf of us or third parties; Many of our members appreciate receiving these offers. However, you will always be able to opt out receiving future third party offers. 
+  * Provide special offers or promotional materials to you on behalf of us or third parties; Many of our members appreciate receiving these offers. 
   * Monitor or improve the Web Sites; 
   * Customize the advertising and content you see 
 
-Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20111125054645id_/http%3A//www.upto75.com/Terms.html)  
+Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20120604084931id_/http%3A//www.upto75.com/Terms.html)  
   
    
 **With whom information may be shared**  
@@ -65,6 +54,4 @@ We may disclose information about our users, including personal information, in 
 If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by clicking on the unsubcribe link.   
    
 **Security**  
-UPto75.com incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that UPto75.com cannot ensure or warrant the security of any information you transmit to the Web Site, and you do so at your own risk.   
-  
-
+UPto75.com incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that UPto75.com cannot ensure or warrant the security of any information you transmit to the Web Site, and you do so at your own risk. 
