@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viikii.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225134231id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viikii.net privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604080921id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
-# ViKi
+# Viki
 
 Revised: December 2, 2010
 
@@ -65,3 +65,36 @@ We may modify, alter or update this Privacy Policy at any time, so we encourage 
 ### Contact Us
 
 If you have any questions or comments about this Privacy Policy, please contact us at [privacy@viki.com](mailto:privacy@viki.com "privacy@viki.com") . 
+
+### Fun in Any Language™
+
+Viki is a global TV site, where millions of people watch their favorite shows, movies, music videos and more -- translated into 150+ languages by a community of avid fans. Together, we’re breaking down barriers that stand between great entertainment and its fans, no matter where they are! 
+
+© 2010-2012 ViKi, Inc. All Rights Reserved. 
+
+  * ### Viki World
+
+  * [Blog](http://blog.viki.com/)
+  * [About Us](https://web.archive.org/about)
+  * [Our Community](https://web.archive.org/translator_community)
+  * [Our Partners](https://web.archive.org/partners)
+  * [Contact Us](https://web.archive.org/contact)
+  * [Press](https://web.archive.org/press)
+  * [Jobs](https://web.archive.org/jobs)
+  * [Help Center](http://support.viki.com/access/remote)
+  * [ ](https://twitter.com/viki)
+
+
+  * ### Awards
+
+  * TechCrunch: Best International Start-Up
+  * DLD: Top 20 Internet Start-Up
+  * SXSW Accelerator Finalist
+  * Paley Center's 2011 Next Big Thing'
+
+
+  * ### The Legal Stuff
+
+  * The use of this website constitutes acceptance of the Viki [terms of use](https://web.archive.org/terms_of_use) and [privacy policy](https://web.archive.org/privacy). See also our [intellectual property policy](https://web.archive.org/copyright)
+
+
