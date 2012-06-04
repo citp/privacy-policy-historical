@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the californiaprogressreport.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004142718id_/http%3A//www.californiaprogressreport.com/site/%3Fq%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiaprogressreport.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005533id_/http%3A//www.californiaprogressreport.com/site/%3Fq%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | California Progress Report
 
-[Printer-friendly version](http://www.californiaprogressreport.com/site/print/7106 "Display a printer-friendly version of this page.")[Send to friend](http://www.californiaprogressreport.com/site/printmail/7106 "Send this page by e-mail.")
+[Printer-friendly version](http://www.californiaprogressreport.com/site/print/7106 "Display a printer-friendly version of this page.")[Send by email](http://www.californiaprogressreport.com/site/printmail/7106 "Send this page by email.")
 
 The California Progress Report and its owner, the Consumer Federation of California Education Foundation, respect your privacy. We do not collect personally identifiable information on our web site unless you choose to give it to us via an e-mail message, an online form, by responding to an action alert, by submitting an article or comment, or by making an on-line contribution.
 
