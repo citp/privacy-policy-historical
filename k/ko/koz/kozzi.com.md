@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kozzi.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163717id_/http%3A//www.kozzi.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kozzi.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604024622id_/http%3A//www.kozzi.com/policy) for the most accurate reproduction.*
 
 # Kozzi | TERMS OF USE
 
