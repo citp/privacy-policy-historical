@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiangoldrates.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222000359id_/http%3A//www.indiangoldrates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangoldrates.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604033544id_/http%3A//www.indiangoldrates.com/privacy-policy) for the most accurate reproduction.*
 
-# IndianGoldRates | Privacy Policy
+# Privacy Policy
 
 We recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use our services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. If you have any questions about this Policy, please feel free to contact us through our website or write to us at [mail@indiangoldrates.com](mailto:mail@indiangoldrates.com)
 
