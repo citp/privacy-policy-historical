@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227212706id_/http%3A//www.meritline.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604032235id_/http%3A//www.meritline.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
