@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205225657id_/http%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604184350id_/http%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
 
-# Vacation Packages & Travel Deals - London, Paris, Rome, Florence, Venice
+# Go-today Vacation Packages & Travel Deals Security
 
 Last update: September 29, 2011
 
@@ -18,7 +18,7 @@ We do not provide any personal information about our customers to third parties 
 
 Agents: We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, analyzing data, providing marketing assistance, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
 
-Business Partners: : Go-today operates several other travel companies, which include go-today.com, Brian Moore International Tours (BMIT) and customer information is pooled into a unified database. This global list comes with shared opt-in and opt-out privileges for our customers and obligates us to strict record maintenance under the CAN-SPAM act. Customer information is shared between these business entities in an effort to streamline our customer service efforts and provide maximum travel benefits to our customers. 
+Business Partners: Go-today operates several other travel companies, which include go-today.com, Brian Moore International Tours (BMIT) and customer information is pooled into a unified database. This global list comes with shared opt-in and opt-out privileges for our customers and obligates us to strict record maintenance under the CAN-SPAM act. Customer information is shared between these business entities in an effort to streamline our customer service efforts and provide maximum travel benefits to our customers. 
 
 Business Transfers: As we continue to develop our business, we might merger brands together, sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that go-today or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
 
@@ -33,7 +33,7 @@ Cookies are very small text files that your web browser manages for you. We have
 We use secure SSL (Secure Sockets Layer) encryption to protect data that is sent to us by our customers. You can be sure that when making a booking your personal information is protected as it is sent to us. 
 
 **Conditions of Use, Notices, and Revisions**  
-We reserve the right to change this Privacy Policy at any time to respond to changes in the law or in our business practices. All users of this website agree to this Privacy Policy and are bound by it. If you would like to comment on any aspect of this Privacy Policy, please [email us](https://web.archive.org/web/20111205225657id_/http%3A//www.go-today.com/email.aspx?e=general).
+We reserve the right to change this Privacy Policy at any time to respond to changes in the law or in our business practices. All users of this website agree to this Privacy Policy and are bound by it. If you would like to comment on any aspect of this Privacy Policy, please [email us](https://web.archive.org/web/20120604184350id_/http%3A//www.go-today.com/email.aspx?e=general).
 
  **Online Security**
 
