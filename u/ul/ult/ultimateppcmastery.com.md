@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateppcmastery.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202233102id_/http%3A//www.ultimateppcmastery.com/disclaimers/1637) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateppcmastery.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605061227id_/http%3A//www.ultimateppcmastery.com/disclaimers/1637) for the most accurate reproduction.*
 
 # 
 
