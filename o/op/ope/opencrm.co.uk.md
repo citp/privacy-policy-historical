@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203062045id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605023512id_/http%3A//www.opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Delivery Policy
 
-Last updated 1st July 2011
+Last updated 26th April 2012
 
-Copyright © 2005 - 2011. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
+Copyright © 2005 - 2012. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
 
 We at OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly striving to provide excellent service to our customers and business partners, while building long-lasting relationships with them. To achieve these goals, we occasionally need information about you when you visit our Web site.
 
@@ -13,9 +13,9 @@ When you visit our Web sites, you may be providing us with information about you
 * Statistics collected as you browse.  
 * Organisational and personal information you knowingly give us.
 
-Because we respects your right to privacy, we want you to be aware of how we handle this information.
+Because we respect your right to privacy, we want you to be aware of how we handle this information.
 
-Our Commitment to Your Privacy
+### Our Commitment to Your Privacy
 
 We assure you that we do not:
 
@@ -30,7 +30,8 @@ We  do:
 
 We have always valued your privacy, and we reinforce this belief throughout our organisation. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please contact us .
 
-### Delivery of products purchased through our website
+### Delivery of products purchased through our website  
+
 
 When you purchase OpenCRM subscriptions from this website your payment is made made using the PayPal payment gateway, on successful payment you will be directed to a page that commissions your OpenCRM subscription immediately. Once you enter your user name and system details your OpenCRM system is created with all URL, Username and Password details being emailed to you within a few minutes. This is an automated delivery service. Should you have any problems with your delivery please contact [support@opencrm.co.uk](mailto:support@opencrm.co.uk) with URGENT in the subject line and one of our customer service representatives will be notified immediately, this includes 365/24/7 notification and escalation procedures.
 
