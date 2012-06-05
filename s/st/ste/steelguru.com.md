@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steelguru.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122958id_/http%3A//steelguru.com/about_steelguru/read_sg_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelguru.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605042522id_/http%3A//www.steelguru.com/about_steelguru/read_sg_privacy_policy.html) for the most accurate reproduction.*
 
-# SteelGuru - Privacy Policy
+# privacy policy, steelguru policy, steelguru privacy, steel guru
 
 Major & Minor Exims Pvt Limited ("we", "us" or "our") is committed to protecting your privacy and providing a service that is safe and powerful. This Privacy Statement applies to www.steelguru.com (hereinafter the "Site") and governs data collection and usage arising in respect of the Site and the associated services. By accessing and using the Site and our services, you consent to the data practices described in this statement.
 
