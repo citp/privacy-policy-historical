@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229122142id_/http%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605042109id_/http%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # sendspace | Privacy Policy
 
@@ -38,7 +38,9 @@ The **_Send_ space** Web site contains links to other Web sites. **_Send_ space*
 
 **4\. Cookies**
 
-There is a technology called "cookies" which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some **_Send_ space** pages use cookies so that we can better serve you when you visit and then return to our site. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit certain areas of our Web site. 
+There is a technology called "cookies" which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some Sendspace pages use cookies so that we can better serve you when you visit and then return to our site. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit certain areas of our Web site. Your use of this site constitutes your acceptance. 
+
+If you do not want to accept cookies from our website, you may refuse a cookie, or delete the cookies file from your computer at any time using one of a number of available methods, most browsers have a setting to turn off the automatic acceptance of cookies. You should be aware portions of our website may not function properly if you do not accept cookies.
 
 **5\. Modify Your Information**
 
@@ -48,4 +50,4 @@ The **_Send_ space** site provides users with the opportunity to change or modif
 Any questions relating to our Privacy Policies may be directed to **_Send_ space** using the contact form.  
 
 
-**June 4, 2008**
+**April 18, 2012**
