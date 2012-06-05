@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106134008id_/http%3A//www.jda.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605084418id_/http%3A//www.jda.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JDA Privacy/Legal Statement - JDA Software: The Supply Chain Company
 
@@ -51,6 +51,9 @@ By using our Web Site, you signify your assent to our Privacy Policy. If you do 
 
 **CONTACTING THE WEB SITE**  
 If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with our Web Site, please contact [webmaster@jda.com](mailto:webmaster@jda.com).
+
+**JDA PRODUCT PATENTS**  
+[Click here](https://web.archive.org/company/product-patents/) to view the current list of JDA Product Patents.
 
 **OTHER JDA LEGAL LINKS  **  
 [Click here](http://www.jda.com/intactixLegal.asp) to view standard Intactix Software License Agreements.
