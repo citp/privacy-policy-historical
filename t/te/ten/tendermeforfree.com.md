@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tendermeforfree.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210082339id_/http%3A//www.tendermeforfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendermeforfree.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606011828id_/http%3A//www.tendermeforfree.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
