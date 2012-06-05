@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technojourney.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207045756id_/http%3A//technojourney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technojourney.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605170034id_/http%3A//technojourney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TechnoJourney | TechnoJourney
+# Privacy Policy : TechnoJourney
 
 We respect your privacy and we are committed to safeguarding your privacy while you are online at our site TechnoJourney.com. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -25,7 +25,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 If users have any questions or suggestions regarding our privacy policy, please contact us at: admin[@]technojourney[dot]com
 
 [](http://technojourney.com/wp-content/uploads/2010/11/thanks.jpg)
-
-### **Incoming search terms for this article:**
-
-Privacy Policy, advertising privacy statement, third party information, privacy and policy
