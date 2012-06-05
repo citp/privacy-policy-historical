@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122041736id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606012010id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy on Unclebobs.com
 
 ## Uncle Bob's Privacy Policy
 
-Copyright © 2011 Sovran Self Storage, Inc. All rights reserved. Uncle Bob's Self Storage is a registered trademark of Sovran Self Storage, Inc.
+Copyright © 2012 Sovran Self Storage, Inc. All rights reserved. Uncle Bob's Self Storage is a registered trademark of Sovran Self Storage, Inc.
 
 ### We Respect Your Privacy
 
-Uncle Bob's practices a firm committment to the privacy and security of any personal information you may give us. Your personal information will only be used as it is suggested at the time it is collected.
+Uncle Bob's practices a firm commitment to the privacy and security of any personal information you may give us. Your personal information will only be used as it is suggested at the time it is collected.
 
 ### How We Collect Information
 
@@ -20,7 +20,7 @@ Your personal information will not be sold or traded to an outside source. It wi
 
 Your personal information will not be retained for longer than a period of 24 months.
 
-This website can tell us what brand of computer and what browser you are using, and also tells us from what website brought you to Unclebobs.com. We use this information: 1) to improve the performance of our website, or 2) to determine if you were referred by an advertisment we placed on another website.
+This website can tell us what brand of computer and what browser you are using, and also tells us from what website brought you to Unclebobs.com. We use this information: 1) to improve the performance of our website, or 2) to determine if you were referred by an advertisement we placed on another website.
 
 ### Cookies
 
