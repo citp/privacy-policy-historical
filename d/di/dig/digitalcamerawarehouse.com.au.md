@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211211057id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606012759id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Camera Warehouse
 
@@ -39,8 +39,7 @@ DCW provides links to web sites outside of the DCW site. These linked sites are 
 Inquiries relating to our Privacy Policy, or any problems or complaints may be directed to the General Manager by calling the customer service number 1300 365 220. 
 
 Digital Camera Warehouse delivers cheap discount digital cameras Australia wide.     
-Delivery to Sydney, Brisbane, Adelaide, Melbourne, Perth, Hobart, Darwin, Canberra is usually 1-3 days if in stock.   
-Delivery to regional areas is usually 2-5 days for items in stock. Let us know if we can help you.  
-For our best price buy online or [ **visit a DCW  camera shop in **](https://web.archive.org/web/20111211211057id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm) [ **Brisbane,**](https://web.archive.org/web/20111211211057id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm) [ **Sydney** **or Melbourne**.](https://web.archive.org/web/20111211211057id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm)  
-  
+Delivery to Sydney, Brisbane, Adelaide, Melbourne, Perth, Hobart, Darwin, Canberra is usually 1-3 business days if in stock.   
+Delivery to regional areas is usually 2-5 business days for items in stock. Let us know if we can help you.  
+For our best price buy online or [ **visit a DCW  camera shop in **](https://web.archive.org/web/20120606012759id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm) [ **Brisbane,**](https://web.archive.org/web/20120606012759id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm) [ **Sydney** **or Melbourne**.](https://web.archive.org/web/20120606012759id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent36.htm)  
 ---|---
