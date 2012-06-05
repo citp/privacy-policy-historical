@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barbourbymail.co.uk privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228161802id_/http%3A//www.barbourbymail.co.uk/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barbourbymail.co.uk privacy policy that was archived on 2012-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605051325id_/http%3A//www.barbourbymail.co.uk/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js canvas canvastext geolocation crosswindowmessaging websqldatabase indexeddb hashchange historymanagement draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions  video audio localstorage sessionstorage webworkers applicationcache svg smil svgclippaths   fontface"><head><title>
 	Privacy - Barbour By Mail Online Store
@@ -15,11 +15,12 @@
 <script src="/js/typeface-0.15.js"></script>
 <script src="/js/arial_bold.typeface.js"></script>
 <script src="/js/arial_regular.typeface.js"></script>
-<script src="/js/jquery-1.4.2.min.js"></script>
+<script src="/js/jquery-1.7.2.min.js"></script>
 <script src="/js/modernizr-1.5.min.js"></script>
 <script src="/js/eqCols2_10.js"></script>
 <script src="/js/jquery-placeholder.js"></script>
-<script src="/dump/ajaxticker.js"></script>
+<script src="/js/slides.min.jquery.js"></script>
+<script src="/js/slidesInit.js"></script>
 <script>_typeface_js.configure({ disableSelection: true })</script>
 
 
@@ -70,9 +71,48 @@ var opJsUrl=opQaUrl;if(opIsLive==true){opJsUrl=opLiveUrl}if(opTUrl.indexOf('opgl
 opGetDm());var opGQa=true}else if(opTUrl.indexOf('opglobalqa=false')!=-1){opSetC('opglobalqa','false',opGetDm());var opGQa=false}
 else var opGQa=(opGetC('opglobalqa')=='true');if(opGQa)opJsUrl=opQaUrl;var opDs=Math.round(optimost.T.getTime()/(3600000*24));
 document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'"></'+'script>\n');
-//--></script><script type="text/javascript" src="https://by.essl.optimost.com/es/1616/c/1/u/SmithAndMorris_live.js?D_ds=18316"></script>
+//--></script><script type="text/javascript" src="https://by.essl.optimost.com/es/1616/c/1/u/SmithAndMorris_live.js?D_ds=18291"></script>
 
 <!-- END OPTIMOST GLOBAL HEAD CODE -->
+
+<script type="text/javascript">
+    function ajaxsearchsubmit(form) {
+        var search = encodeURIComponent(form.w.value);
+        var asug = encodeURIComponent(form.asug.value);
+        window.location = "http://products.barbourbymail.co.uk/search#w=" + search + "&asug=" + asug;
+        return false;
+    }
+
+    $(document).ready(function () {
+
+        $('#sli_search_1').keypress(function (e) {
+            if (e.which == 13) {
+                e.preventDefault();
+                return ajaxsearchsubmit(document.getElementById('searchform'));
+            }
+        });
+    });
+</script>
+
+<script language="JavaScript" type="text/javascript">
+
+<!-- Yahoo!
+
+window.ysm_customData = new Object();
+
+window.ysm_customData.conversion = "transId=,currency=,amount=";
+
+var ysm_accountid  = "1QOQ2FVE478NJIAS7IU7L51LANS";
+
+document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
+
++ "SRC=//" + "srv1.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid
+
++ "></SCR" + "IPT>");
+
+// -->
+
+</script><script language="JavaScript" type="text/javascript" src="//srv1.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1QOQ2FVE478NJIAS7IU7L51LANS"></script>
 
 <meta name="keywords" content="The Outdoor &amp; Country Store, Barbour, Buy Barbour, barbour jacket, barbour jackets, barbour clothing, barbour uk, barbour coats, barbour mailorder, barbour mail order, barbour sale, wax jackets, wax coats, barbour wax, www.barbour.com, barbour waterproof, barbour bedale, barbour beaufort, barbour shop, barbour stockists, barbour bag, barbour bags, barbour cowan, barbour cowen, www.barbour.co.uk, barbour utility, barbour waxed cotton, barbour waxed jackets, barbour shop, barbour mens, barbour ladies"><meta name="description" content="Buy Barbour Jackets, Quilted Jacket, Shirts and Wellies from Barbours Dedicated online shop, Barbour by Mail. Order Barbour Clothing today. Free UK Delivery."></head>
 <body id="BodyTag">
@@ -85,18 +125,17 @@ document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'
     </script>
 	<div id="navwrappper">
 <div id="navsearch">
-<form name="searchform" action="http://products.barbourbymail.co.uk/search" method="get"> 
+<form name="searchform" id="searchform" action="http://products.barbourbymail.co.uk/search" method="get" onsubmit="return ajaxsearchsubmit(this);"> 
 <input name="w" id="sli_search_1" type="text" autocomplete="off" placeholder="Enter product keyword" class="srchbox"> 
-<input type="hidden" name="asug"> 
+<input type="hidden" name="asug" id="asug"> 
 <input type="submit" value="Search" class="btn"> 
 </form> 
 </div>
 <form name="form1" method="post" action="privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA4MzU0MjMxNg9kFgJmD2QWBAIBD2QWAgIQDxYCHgRUZXh0BXk8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J2h0dHA6Ly9hc3NldHMucmVzdWx0c3BhZ2UuY29tL2F1dG9zdWdnZXN0L2F1dG9zdWdnZXN0LmNzcycgbWVkaWE9J3NjcmVlbicgdHlwZT0ndGV4dC9jc3MnIC8+ZAIDD2QWBAIBD2QWBgIEDw8WAh8ABQcwIGl0ZW1zZGQCBg8WAh4LXyFJdGVtQ291bnQCCRYSAgEPZBYCZg8VBAAITWVuc3dlYXIRL01lbnMtQmFyYm91ci50b3AITWVuc3dlYXJkAgIPZBYCZg8VBAAKV29tZW5zd2VhchMvV29tZW5zLUJhcmJvdXIudG9wCldvbWVuc3dlYXJkAgMPZBYCZg8VBAANQ2hpbGRyZW5zd2VhchIvQ2hpbGRyZW5zd2Vhci50b3ANQ2hpbGRyZW5zd2VhcmQCBA9kFgJmDxUEAAhIZXJpdGFnZRgvSGVyaXRhZ2UtQ29sbGVjdGlvbi50b3AISGVyaXRhZ2VkAgUPZBYCZg8VBAAHQ2xhc3NpYxcvQ2xhc3NpYy1Db2xsZWN0aW9uLnRvcAdDbGFzc2ljZAIGD2QWAmYPFQQACUxpZmVzdHlsZRkvTGlmZXN0eWxlLUNvbGxlY3Rpb24udG9wCUxpZmVzdHlsZWQCBw9kFgJmDxUEABBTdGV2ZSBNY1F1ZWVu4oSiEi9TdGV2ZS1NY1F1ZWVuLnRvcBBTdGV2ZSBNY1F1ZWVu4oSiZAIID2QWAmYPFQQACFNwb3J0aW5nGC9TcG9ydGluZy1Db2xsZWN0aW9uLnRvcAhTcG9ydGluZ2QCCQ9kFgJmDxUEAARTYWxlES9CYXJib3VyLVNhbGUudG9wBFNhbGVkAggPZBYCZg8WAh4HVmlzaWJsZWdkAgMPFgIfAAWOASA8c2NyaXB0IGxhbmd1YWdlPSdqYXZhc2NyaXB0JyBzcmM9J2h0dHA6Ly9iYXJib3VyYnltYWlsLnJlc3VsdHNwYWdlLmNvbS9hdXRvc3VnZ2VzdC9zZWFyY2hib3hfc3VnZ2VzdF92MS5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD5kZKUOm3uq6+QVOFE8kDFjcGDkqwTux0JVqKTM7rBgpSFL">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA4MzU0MjMxNg9kFgJmD2QWBAIBD2QWAgIQDxYCHgRUZXh0BXk8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J2h0dHA6Ly9hc3NldHMucmVzdWx0c3BhZ2UuY29tL2F1dG9zdWdnZXN0L2F1dG9zdWdnZXN0LmNzcycgbWVkaWE9J3NjcmVlbicgdHlwZT0ndGV4dC9jc3MnIC8+ZAIDD2QWBAIBD2QWBgIFD2QWAmYPFgIfAAUHMCBpdGVtc2QCCQ9kFgJmDxYCHgtfIUl0ZW1Db3VudAIKFhQCAQ9kFgJmDxUEAAVXb21lbg5Xb21lbnMtQmFyYm91cgVXb21lbmQCAg9kFgJmDxUEAANNZW4MTWVucy1CYXJib3VyA01lbmQCAw9kFgJmDxUEAAhDaGlsZHJlbg1DaGlsZHJlbnN3ZWFyCENoaWxkcmVuZAIED2QWAmYPFQQACUxpZmVzdHlsZRRMaWZlc3R5bGUtQ29sbGVjdGlvbglMaWZlc3R5bGVkAgUPZBYCZg8VBAAISGVyaXRhZ2UTSGVyaXRhZ2UtQ29sbGVjdGlvbghIZXJpdGFnZWQCBg9kFgJmDxUEAA1JbnRlcm5hdGlvbmFsGEludGVybmF0aW9uYWwtQ29sbGVjdGlvbg1JbnRlcm5hdGlvbmFsZAIHD2QWAmYPFQQAEFN0ZXZlIE1jUXVlZW7ihKINU3RldmUtTWNRdWVlbhBTdGV2ZSBNY1F1ZWVu4oSiZAIID2QWAmYPFQQAB0NsYXNzaWMSQ2xhc3NpYy1Db2xsZWN0aW9uB0NsYXNzaWNkAgkPZBYCZg8VBAAIU3BvcnRpbmcTU3BvcnRpbmctQ29sbGVjdGlvbghTcG9ydGluZ2QCCg9kFgJmDxUEAARTYWxlDEJhcmJvdXItU2FsZQRTYWxlZAIND2QWAmYPFgIeB1Zpc2libGVnZAIDDxYCHwAFjgEgPHNjcmlwdCBsYW5ndWFnZT0namF2YXNjcmlwdCcgc3JjPSdodHRwOi8vYmFyYm91cmJ5bWFpbC5yZXN1bHRzcGFnZS5jb20vYXV0b3N1Z2dlc3Qvc2VhcmNoYm94X3N1Z2dlc3RfdjEuanMnIHR5cGU9J3RleHQvamF2YXNjcmlwdCc+PC9zY3JpcHQ+ZGSfWRF6/FXujbenn9HHMgstI1vTCQ==">
 
 	<nav id="accessibiltylinks">
 		<ul>
-			<!--<li><a href="/accessibility.aspx" accesskey="A">Accessibility</a> </li>-->
 			<li><a href="/sitemap.xml" accesskey="S">Site Map</a></li>
 			<li><a href="#skip_navigation" accesskey="N">Skip to Main Content</a> </li>
 		</ul>
@@ -106,7 +145,6 @@ document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'
 				<ul>
 					<li><a href="/">Home</a></li>
 					<li><a href="/repairs.aspx">Repairs</a></li>
-					<li><a href="/christmas.aspx"><strong>Christmas Delivery &amp; Opening Times</strong></a></li>
 					<li><a href="/deliveryinformation.aspx">Delivery &amp; Returns</a></li>
 					<li><a href="/sizeguide.aspx">Size Guide</a></li>
 					<li><a href="/fabricguide.aspx">Fabric Guide</a> </li>
@@ -115,20 +153,20 @@ document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'
 					<li><a href="/contactandhelp.aspx">Help</a></li>
 				</ul>
 			</nav>
-			<div id="navsearch">
-				
-                
-			</div>
-			<div id="navbasket"> <em><a href="/newbasket.aspx">Your Basket</a></em><strong>
-				<span id="BasketItemsCount">0 items</span>
-				</strong>
-				<ul>
+			
+                <ul class="acc-links">
 					<li><a rel="nofollow" href="/WishList.aspx">Wishlist</a></li>
-					<li><a rel="nofollow" href="https://www.barbourbymail.co.uk/Secure/myaccount.aspx"> Sign In</a></li>
-					<li><a rel="nofollow" href="https://www.barbourbymail.co.uk/Secure/myaccount.aspx"> Register</a></li>	
+               		
+<li><a rel="nofollow" href="https://www.barbourbymail.co.uk/secure/myaccount.aspx"> Sign In</a></li>
+<li><a rel="nofollow" href="https://www.barbourbymail.co.uk/secure/myaccount.aspx"> Register</a></li>	
+
 				</ul>
+			<div id="navbasket"> <em><a href="/newbasket.aspx">Your Basket</a></em><strong id="BasketItemsCount">
+            0 items
+				</strong>
 			</div>
-			<a href="/Barbour-Sale.top"><img src="/dump/web_banner2.jpg" alt="" class="banner"></a></header>
+			<div class="verisign-header"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.barbourbymail.co.uk&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></div>
+			<!--<img src="/css/_temp_fullbanner.gif" alt="" class="banner" /> --></header>
 		<section class="main">
 			
 	<h1 style="visibility: visible;"><span class="typeface-js-vector-container"><canvas height="34" width="105" style="margin-top: 0px; margin-bottom: 0px;">Privacy</canvas></span></h1>
@@ -220,50 +258,51 @@ document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'
 			<div class="clear"></div>
 		</section>
 		<!-- saraheagle - main nav is down here so its z-index is higher than the h1s in IE7 -->
-        
-                <nav id="navmain">
-                    <ul class="cfxmenu">
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Menswear" href="/Mens-Barbour.top"><span class="typeface-js-vector-container"><canvas height="15" width="62" style="margin-top: 1px; margin-bottom: 1px;">Menswear</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Womenswear" href="/Womens-Barbour.top"><span class="typeface-js-vector-container"><canvas height="15" width="82" style="margin-top: 1px; margin-bottom: 1px;">Womenswear</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Childrenswear" href="/Childrenswear.top"><span class="typeface-js-vector-container"><canvas height="15" width="88" style="margin-top: 1px; margin-bottom: 1px;">Childrenswear</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Heritage" href="/Heritage-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="51" style="margin-top: 1px; margin-bottom: 1px;">Heritage</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Classic" href="/Classic-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="45" style="margin-top: 1px; margin-bottom: 1px;">Classic</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Lifestyle" href="/Lifestyle-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="52" style="margin-top: 1px; margin-bottom: 1px;">Lifestyle</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Steve McQueen™" href="/Steve-McQueen.top"><span class="typeface-js-vector-container"><canvas height="15" width="38" style="margin-top: 1px; margin-bottom: 1px;">Steve </canvas><canvas height="15" width="70" style="margin-top: 1px; margin-bottom: 1px;">McQueen™</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Sporting" href="/Sporting-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="52" style="margin-top: 1px; margin-bottom: 1px;">Sporting</canvas></span></a></li>
-            
-                <li class="spc1 typeface-js " style="visibility: visible;"><a title="Sale" href="/Barbour-Sale.top"><span class="typeface-js-vector-container"><canvas height="15" width="26" style="margin-top: 1px; margin-bottom: 1px;">Sale</canvas></span></a></li>
-            
-                    </ul>
-                </nav>
-            
+      
+      <nav id="navmain">
+         <ul class="cfxmenu">
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Women" href="/Womens-Barbour.top"><span class="typeface-js-vector-container"><canvas height="15" width="46" style="margin-top: 1px; margin-bottom: 1px;">Women</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Men" href="/Mens-Barbour.top"><span class="typeface-js-vector-container"><canvas height="15" width="25" style="margin-top: 1px; margin-bottom: 1px;">Men</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Children" href="/Childrenswear.top"><span class="typeface-js-vector-container"><canvas height="15" width="52" style="margin-top: 1px; margin-bottom: 1px;">Children</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Lifestyle" href="/Lifestyle-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="52" style="margin-top: 1px; margin-bottom: 1px;">Lifestyle</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Heritage" href="/Heritage-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="51" style="margin-top: 1px; margin-bottom: 1px;">Heritage</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="International" href="/International-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="76" style="margin-top: 1px; margin-bottom: 1px;">International</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Steve McQueen™" href="/Steve-McQueen.top"><span class="typeface-js-vector-container"><canvas height="15" width="38" style="margin-top: 1px; margin-bottom: 1px;">Steve </canvas><canvas height="15" width="70" style="margin-top: 1px; margin-bottom: 1px;">McQueen™</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Classic" href="/Classic-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="45" style="margin-top: 1px; margin-bottom: 1px;">Classic</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Sporting" href="/Sporting-Collection.top"><span class="typeface-js-vector-container"><canvas height="15" width="52" style="margin-top: 1px; margin-bottom: 1px;">Sporting</canvas></span></a></li>
+   
+      <li class="spc1 typeface-js " style="visibility: visible;"><a title="Sale" href="/Barbour-Sale.top"><span class="typeface-js-vector-container"><canvas height="15" width="26" style="margin-top: 1px; margin-bottom: 1px;">Sale</canvas></span></a></li>
+   
+      </ul> </nav>
+   
 		<footer>
 			
-
 <nav id="navbtm">
 	<ul>
 		<li><a href="/faq.aspx">How to look after your Barbour clothing</a> </li>
-		<li><a href="/christmas.aspx"><strong>Christmas Delivery</strong></a></li>
 		<li><a href="/deliveryinformation.aspx">Delivery &amp; Returns</a> </li>
-		<!-- saraheagle <li><a href="/vat.aspx">VAT</a></li> -->
 		<li><a href="/returnspolicy.aspx">Terms &amp; Conditions</a></li>
 		<li><a href="/privacy.aspx">Privacy Policy</a></li>
-		<li><a href="/counterfeits.aspx">Fraudulent Websites</a></li>
+		<li><a href="/counterfeits.aspx" class="redfraud">Fraudulent Websites</a></li>
 		<li><a href="/contactandhelp.aspx">Help</a></li>
-		<!-- <li><a href="/copyright.aspx">Copyrightssaraheagle  &amp; Trade Marks</a></li> -->
 		<li><a href="/contactandhelp.aspx">Contact Us</a></li>
+		<img src="/imgs/PayPal_mark_50x34.gif" border="0" alt="Acceptance Mark">
 	</ul>
 </nav>
-<p class="floatright">Barbour By Mail is the dedicated Barbour website of Smith and Morris Retail Ltd Trading as Outdoor &amp; Country</p>
-<p class="floatleft">©2011 Outdoor &amp; Country</p>
+<p class="floatright">
+    Barbour By Mail is the dedicated Barbour website of Smith and Morris Retail Ltd
+    Trading as Outdoor &amp; Country</p>
+<p class="floatleft">
+    ©2012 Outdoor &amp; Country</p>
 <nav id="navbtm2">
 	<ul>
 		<li><a target="_blank" href="http://blog.barbourbymail.co.uk">Blog</a></li>
@@ -272,6 +311,7 @@ document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'
 		<li><a href="/jobs.aspx">Jobs</a></li>
 	</ul>
 </nav>
+
 			<!--[if lt IE 7]> <strong>NOTE: You are using an outdated browser! </strong><br>
  For your security and the ability to view this website as it was designed, we suggest you upgrade your  <a href="http://www.microsoft.com/windows/downloads/default.aspx">Internet Explorer</a> or install another browser like <a href="http://www.mozilla-europe.org/en/firefox/">Firefox</a> or <a href="http://www.google.com/chrome">Google Chrome</a>.<![endif]--></footer>
 		<!-- navwrappper -->
@@ -280,6 +320,7 @@ document.write('<'+'script type="text/javascript" src="'+opJsUrl+'?D_ds='+opDs+'
 <script src="/js/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-1029731-6";
+_udn = ".barbourbymail.co.uk";
 urchinTracker();
 </script>
 
@@ -301,8 +342,10 @@ for(var _opN=0;_opN<_opEs.length;_opN++){if (_opEs[_opN].trialCodeLow||_opEs[_op
 
  <script language="javascript" src="http://barbourbymail.resultspage.com/autosuggest/searchbox_suggest_v1.js" type="text/javascript"></script>
 <script language="javascript" type="text/javascript">
+$(document).ready(function () {
     _typeface_js.initialize();
-    sli_load(); 
+    sli_load();
+});
 </script>
 
 
