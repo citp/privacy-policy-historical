@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123220407id_/http%3A//www.aplia.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605225802id_/http%3A//www.aplia.com/privacy.jsp) for the most accurate reproduction.*
 
 # Aplia :: Aplia Privacy Notice
 
