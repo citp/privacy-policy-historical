@@ -1,123 +1,118 @@
-> *The following text is extracted and transformed from the t-shirtforums.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101201223id_/http%3A//www.t-shirtforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirtforums.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606013647id_/http%3A//www.t-shirtforums.com/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # T-Shirt Forums Privacy Policy
 
-### [](http://www.t-shirtforums.com/)
+**How this site handles your personal information**
 
-### Privacy Statement/Coppa Policy for T-ShirtForums.com
+**We know that you value your privacy. Your privacy is important to us, too.**
 
-### **Short Version**
+Your privacy is important to **T-ShirtForums.com**. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
-**We know that you value your privacy. That's why we'll never peddle your private data to anyone.**
+Each time you use this website, the current version of this policy will apply. Policy changes will be reflected on this page. Since users are required to accept all changes to this policy in our [Terms of Use Agreement](http://www.t-shirtforums.com/view_tos.htm) , we encourage you to regularly check the date of this policy and review any changes made since the last time you used the site.   
 
-We don't sell, rent, trade, lease, sublet, give, barter, swap, share, vend, bestow, confer, donate, furnish, bargain, auction, let, furnish, grant, impart, or provide any of your personal data with anyone else. Period. We won't betray your trust.
 
-Go Back to the Previous Page 
+**1\. This site collects information that users voluntarily provide through its registration forms, surveys, and contest entry forms**
 
-### **Long Version**
+Our site contains forms that require a user to give us valid and accurate contact information (like your name and email address during registration, and postal address in the case of a contest or giveaway).
 
-**T-ShirtForums.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [T-ShirtForums.com](http://www.t-shirtforums.com/)
+Contact information from the registration form is used to send information to users about our website. We use the information you submit to fulfill your requests, provide site functionality, improve site quality, personalize your experience, display relevant advertising, provide customer support, message you, back up our systems, allow for disaster recovery, and comply with legal obligations.
 
-####  Information Automatically Logged 
+A user’s contact information from surveys and contests is also used to get in touch with the user when necessary. Demographic and profile data is used to tailor our user’s experience on our website, by showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information in order to tailor our website to better suit your needs.
+**2\. Users submit certain information automatically simply by viewing the website**
 
-####   
-Cookies 
+We use information our site collects, such as your IP address, to help diagnose problems with our server and to administer our website. Your IP address is also used to gather broad demographic information in order to tailor our website to better suit your needs. 
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests. Some of our merchant partners (PayPal) may also use cookies for similar purposes. 
+**3\. This site uses cookies to enhance the user's experience**
 
-####    
-Advertisers 
+Our site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests. Some of our merchant partners (PayPal) may also use cookies for similar purposes. You can learn more about our merchant partners’ policies by visiting their websites. 
 
-Our site serves ads by our own advertising software as well as third party ads. We may use an outside ad company, such as Google, to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+**4\. This site serves third-party advertising**
+
+Our site serves ads by our own advertising software as well as third party ads. We may use an outside ad company, such as Google, to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+
+Google and Advertising:
 
   * Google, as a third party vendor, uses cookies to serve ads on our site.
-  * Google's use of the DART cookie enables it to serve ads to you based on their visit to our site and other sites on the internet
-  * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy page](http://www.google.com/privacy_ads.html).
+  * Google's use of the DART cookie enables it to serve ads to you based on their visit to our site and other sites on the internet.
+  * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy page](http://www.google.com/privacy_ads.html).
 
 
 
-####    
-Registration Forms
+**5\. We use the data we collect from users in a variety of ways**
 
-Our site may contain a registration form that requires users to give us contact information (like their name, email, and postal address). 
+Although we may use user information in any way not specifically limited by the Terms of Use and this privacy policy, it is useful to understand how we typically use the information we collect from users.
 
-Contact information from the registration forms is used to ship purchases, and send information about our company. The customer's contact information is also used to get in touch with the customer when necessary. 
-
-####    
-Surveys
-
-Our online surveys may ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
-
-Contact information from the surveys is used to ship purchases, and to send information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-####    
-Contests
-
-We will sometimes run contests on our site in which we ask visitors for demographic information (like zip code, age, or income level). 
-
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-####    
-External Links 
-
-This site contains links to other sites. **T-ShirtForums.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-####    
-Special Relationships 
-
-T-ShirtForums.com uses an outside online payment service to provide secure online transactions to our members so that they can make payments online with the security and confidence they deserve. We have choosen to form a relationship with PayPal, the online leader for such secure online payment servcies because they are as dedicated to your privacy and security as we are. If you have any questions about PayPal.com's policies regarding these issues, feel free to visit their website at: [**https://www.paypal.com**](https://www.paypal.com/)
-
-####    
-Security 
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These security measures include partnering with a secure online payment service such as PayPal.com and keeping all email on a separate computer so that your information is not shared with anyone.
-
-####    
-Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
-
-  1. 
+  * To improve the website
+  * To personalize your experience
+  * To process transactions
+  * To facilitate contests and surveys
 
 
-####  Data Quality/Access 
 
-This site gives users the following options for changing and modifying information previously provided: 
+We may also disclose and transfer your personal information to any successors-in-interest in the event that T-Shirt Forums is acquired by, sold to, merged with, or transferred to a third party. Some or all of your personal information provided to T-Shirt Forums could be amongst the assets transferred.
 
-  1. 
+  
+**6\. External sites that this website links to are not subject to this policy**
+
+This site contains links to other sites. T-ShirtForums.com is not responsible for the privacy practices or the content of such websites.
+
+**7\. Private messages are not necessarily completely "private"**
+
+The purpose of private messaging is to allow for discreet conversations to take place between members. Although private messages are normally only accessible by those who send and receive them, they are part of the database and as such, property of The T-ShirtForums.com. An Administrator could theoretically locate the Private Messages in the database and read them, for example, to investigate a wrongdoing as required by law enforcement. Private messages are private, but not necessarily secret.
+
+  
+**8\. This site's transactions are not handled internally**
+
+T-ShirtForums.com uses an outside online payment service to provide secure online transactions to our members so that they can make payments online with the security and confidence they deserve. We have chosen to form a relationship with PayPal, the online leader for such secure online payment services because they are as dedicated to your privacy and security as we are. If you have any questions about PayPal.com's policies regarding these issues, feel free to visit their website at: [https://www.paypal.com](https://www.paypal.com/).
+
+  
+**9\. Although your data is reasonably secure, no security measures are 100% secure**
+
+No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. The security measures that are in place include partnering with a secure online payment service such as PayPal.com and keeping all email on a separate computer so that your information is not shared with anyone. 
+
+  
+**10\. Choice/Opt-Out**
+
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.
+
+  1. You can [click to email us.](http://www.t-shirtforums.com/sendmessage.php)
 
 
-**CHILD PRIVACY POLICY/ COPPA AGREEMENT**
 
-Privacy of Minors and Children
+**11\. Users have the ability to change/modify their previously provided information**
 
-The Children's Online Privacy and Protection Act of 1998 ("COPPA") defines a "Child" as anyone under the age of 13. SHPS strictly adheres to COPPA. This site is not intended for children. We will not register or otherwise collect Personal Information from persons who identify themselves as being under the age of 13 during the registration process without the prior verifiable consent of that person's parent or guardian. 
+This site gives users the following options for changing and modifying information previously provided:
 
-The safety and privacy of Children on the Internet is very important to us. We are committed to comply with the requirements of the Children's Online Privacy Protection Act of 1998 (COPPA). For more information about COPPA, please visit the Federal Trade Commission's website. 
-
-Our website is a General Audience website. We want to help you guard your Child's privacy. We want to be sure that no individual under the age of 13 shares information without parental consent. We will not permit registration of anyone who identifies him/herself to be under 13 years of age (a "Child") without verifiable consent from that Child's parent/guardian.   
+  1. You can login to your account at: <http://www.t-shirtforums.com/login.php>
+  2. After you login, you can change your email address on file here: <http://www.t-shirtforums.com/profile.php?do=editpassword>
 
 
-##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+**Data Retention and Account Termination**
+
+We may keep your data as long as is permitted or required under the law. If you terminate your account, we can remove your username from the site, but may retain your data in our system to satisfy any of the authorized uses under this privacy policy. 
+
+For example, we may use retained data to prevent, investigate, or identify possible wrongdoing in connection with the site or to comply with legal obligations. Please note that information may exist in backup storage even after it has been removed from our active databases.  
+
+**We Do Not Collect Personal Information From Children**
+
+This website complies with the Children’s Online Privacy Protection Act of 1998 (“COPPA”) and is not intended for children under 18 years of age. This website does not knowingly or intentionally collect any personally identifiable information from or market to individuals under the age of 18. 
+
+If you become aware that a child has provided us with personal information without parental consent, please contact us [here](http://www.t-shirtforums.com/sendmessage.php). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+
+**Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
 Rodney Blackwell  
 T-ShirtForums.com  
 3104 O Street, Suite 316  
-Sacramento, CA 95816 
+Sacramento, CA 95816   
+USA
 
-  
-USA 
+ **Email:  **[click here to email us](http://www.t-shirtforums.com/sendmessage.php)  
+ **Fax:** (916) 405-3405   
+ **Phone:** (916) 686-0220
 
-** Email: click here to email us  
-Fax: (916) 405-3405   
-Phone: (916) 686-0220 **
-
-Go Back to the Previous Page 
+[Go Back to the Previous Page]()
