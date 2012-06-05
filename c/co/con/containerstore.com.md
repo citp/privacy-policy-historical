@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the containerstore.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228134226id_/http%3A//www.containerstore.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the containerstore.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605162215id_/http%3A//www.containerstore.com/help/privacy.html) for the most accurate reproduction.*
 
 # The Container Store > Privacy Policy
 
@@ -110,4 +110,4 @@ We do not share the information you provide in the online application to anyone 
 
 If you need any other information, please submit your requests or questions to The Container Store, ATTN: Customer Solutions Department, 500 Freeport Parkway, Coppell, TX 75019 or email us at [contain@containerstore.com](mailto:contain@containerstore.com). Please allow 30 days for a response. 
 
-version: 2.17.4 build: 5 timestamp: Sat Dec 24 14:53:58 CST 2011 worker: worker21
+version: 2.24.0 build: 1 timestamp: Thu May 24 14:24:50 CDT 2012 worker: worker15
