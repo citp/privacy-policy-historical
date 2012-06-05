@@ -1,48 +1,75 @@
-> *The following text is extracted and transformed from the crvownersclub.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228153957id_/http%3A//www.crvownersclub.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crvownersclub.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605060013id_/http%3A//www.crvownersclub.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
-# CR-V Owners Club | Privacy Statement
+# Honda CR-V Owners Club Forums Privacy Policy
 
-### Privacy Statement
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-_This document was last updated on January 10, 2007._
+**What this Privacy Statement Covers**
 
-**1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**  
-Siteworthy, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Web sites owned by Siteworthy, Inc. (www.crvownersclub.com), you acknowledge and fully understand Siteworthy Inc.'s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
-
-**2\. PARTICIPATING MERCHANT POLICIES**  
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Siteworthy, Inc. services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-
-**3\. INFORMATION WE COLLECT AND HOW WE USE IT**  
-Siteworthy, Inc. collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
-
-a. Web Server Logs.  
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
-
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
+  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
 
 
 
-b. Use of Cookies  
-Siteworthy, Inc. uses cookies to personalize or enhance your user experience and to track your logged-in status. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
+**Collection and Use of Personal Information**
 
-Siteworthy, Inc. reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into www.crvownersclub.com a site that relies on third-party cookies). You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-c. Personal Information Users  
-Visitors to our website can register to benefit from our forum offerings among other things. When you register, we will request some personal information such as name email address and other relevant information. For other types of types of registrations (such as national meet registrations), we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you.
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-  * To fulfill your service requests for services.
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company or site(s).  
+**Collection and Use of Non-Personal Information**
 
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+
+
+**Information Sharing and Disclosure**
+
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
+
+
+
+**Consent**
+
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+
+
+**How to Access your Personal Information**
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+**Security**
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+**Changes to this Privacy Statement**
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
 
 
