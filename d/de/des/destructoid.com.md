@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085912id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605043809id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # destructoid.com privacy policy -Destructoid
 
