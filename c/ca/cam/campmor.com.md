@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203112452id_/http%3A//www.campmor.com/outdoor/gear/CustomerServiceContent____privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605152731id_/http%3A//www.campmor.com/outdoor/gear/CustomerServiceContent____privacypolicy) for the most accurate reproduction.*
 
 # Campmor: Customer Service - Privacy Policy
 
