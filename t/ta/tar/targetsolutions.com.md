@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetsolutions.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021065034id_/http%3A//targetsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsolutions.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605024242id_/http%3A//targetsolutions.com/sitemap/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TargetSolutions
 
