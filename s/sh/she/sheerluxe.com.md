@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheerluxe.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204172613id_/http%3A//www.sheerluxe.com/privacy-and-cookie-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheerluxe.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605033351id_/http%3A//www.sheerluxe.com/privacy-and-cookie-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -47,55 +47,33 @@ We may disclose your personally identifiable information in the following instan
 
 Where we provide links to third party web sites (whether or not they are affiliated with SheerLuxe and even if SheerLuxe branding appears on these sites), such sites are not controlled by us and are not covered by this Privacy Policy. These links are provided for your convenience only. If you access these sites by using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy. Although where possible we endeavour to ensure that the site operators abide by our Privacy Policy, we cannot guarantee that they will and you are advised to check the privacy policy of such third parties before providing information to them.
 
-8\. Cookie
+8\. Cookies
 
-Use of Cookies on our Site
-
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are.
-
-A cookie will typically contain the name of the domain from which the cookie has come, the 'lifetime' of the cookie, and a value, usually a randomly generated unique number.
-
-Two types of cookies are used on this website: session cookies - temporary cookies that remain in the cookie file of your browser until you leave the site; persistent cookies - these remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
-
-Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies.
-
-How we use cookies on our website and what information we collect Session cookies:
-
-To allow you to carry information across pages of our site and avoid having to log-in many times.
-
-Within registration to allow you to access stored information.  
-Persistent cookies:
-
-To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
-
-To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
-
-Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.
-
-To store registration information so that if you are a member you only have to re-enter your password (instead of all your registration information) each time you visit the site, and so that the site can recognise you as a member.
-
-We do not pass any personally identifiable information obtained by cookie use to third party advertising companies.
-
-Third-party cookies:
-
-Third parties serve cookies via this site. These are used for the following purposes:
-
-  * To serve advertisements on our site and track whether these advertisements are clicked on by users.
-  * To control how often you are shown a particular advertisement.
-  * To tailor content to your preferences.
-  * To count the number of anonymous users of our site.
-  * To aggregate anonymised information for marketing purposes.
+ **Cookies Used on SheerLuxe.com**  
 
 
+ **User Session**
 
-Use of web beacons
+A User Session cookie only lasts for the duration of your visit to SheerLuxe.com and ensures that, once you’re logged in, you won’t have to log in again unless you close (PC) or quit (Mac) your browser or log out of SheerLuxe.com. Usually, when you close or quit your web browser, it will automatically delete the User Session cookie.   
 
-Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third-party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
 
-Disabling or enabling cookies
+**1st Party Persistent**
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
+A persistent cookie is stored on your browser for longer than your user session and is reset each time you visit SheerLuxe.com. SheerLuxe uses 1st Party Persistent cookies – or tracking cookies – to record vital statistics, like how you first found the website.   
 
+
+**3rd Analytical**
+
+SheerLuxe use 3rd Analytical cookies to monitor how the website is performing and how much traffic is coming to the website, usually through Google Analytics. This software gathers anonymous data relating to how people are using this site and then provide us with visitor statistics.
+
+All of these cookies can be turned off or removed through your browser settings, but you will not be able to enjoy the full offerings of SheerLuxe.com (eg you will not be able to enter competitions, log into your account, or retrieve offer codes).   
+
+
+**How to Manage Cookies in Popular Browsers**
+
+[Chrome](http://www.sheerluxe.com/_sheerluxe/pages/redirect/Redirect.aspx?type=RawUrl&refpid=3906&secor=NotSet&rurl=https%3a%2f%2fsupport.google.com%2fchrome%2fbin%2fanswer.py%3fhl%3den%26answer%3d95647%26p%3dcpn_cookies) / [Internet Explorer](http://www.sheerluxe.com/_sheerluxe/pages/redirect/Redirect.aspx?type=RawUrl&refpid=3906&secor=NotSet&rurl=http%3a%2f%2fwindows.microsoft.com%2fen-GB%2fwindows7%2fHow-to-manage-cookies-in-Internet-Explorer-9) / [Firefox](http://www.sheerluxe.com/_sheerluxe/pages/redirect/Redirect.aspx?type=RawUrl&refpid=3906&secor=NotSet&rurl=http%3a%2f%2fsupport.mozilla.org%2fen-US%2fkb%2fEnabling%2520and%2520disabling%2520cookies) / [Opera](http://www.sheerluxe.com/_sheerluxe/pages/redirect/Redirect.aspx?type=RawUrl&refpid=3906&secor=NotSet&rurl=http%3a%2f%2fhelp.opera.com%2fLinux%2f9.52%2fen%2fcookies.html) / [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html%209.%20Bulletin%20Boards,%20Chat%20Rooms%20and%20Other%20Public%20Forums)
+
+  
 9\. Bulletin Boards, Chat Rooms and Other Public Forums
 
 Please note that our forums are open to the public and if you choose to disclose personally identifiable information in these areas you are consenting to its unrestricted distribution in a public forum throughout SheerLuxe.com and to and by other SheerLuxe.com members. We therefore cannot be responsible for the protection or security of such information, regardless of its sensitivity. You disclose all such information on our bulletin boards or in our chat rooms or other public forums entirely at your own risk.
