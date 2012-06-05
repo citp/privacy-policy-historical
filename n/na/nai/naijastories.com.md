@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijastories.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224004819id_/http%3A//www.naijastories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijastories.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605052547id_/http%3A//www.naijastories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,7 +39,15 @@ While we’re doing our best to ensure that fraudulent elements are kept away fr
 
 **Advertising**
 
-We use advertising from Google adwords on the site, and from time to time, we will also partner with relevant businesses that we believe will add value to the site and to our members.
+We use advertising from Google Adwords/Adsense on the site, and from time to time, we will also partner with relevant businesses that we believe will add value to the site and to our members.
+
+Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.
+
+Google’s use of the DART cookie enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.co.uk/policies/privacy/ads/).
+
+The Adbrite Network also serves ads on this site based on cookies. You can visit their [privacy policy](http://www.adbrite.com/mb/privacy.php) page to learn more or go directly to the [opt out](http://www.adbrite.com/mb/behavorial_optout.php) page.
+
+Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20120605052547id_/http://www.naijastories.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp).
 
 **Children & Young Adults**
 
