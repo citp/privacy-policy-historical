@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210515id_/http%3A//www.canadiancontent.net/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605074524id_/http%3A//www.lo4d.com/corp/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Lo4d.com
 
-Privacy Policy 
+Your personal privacy matters to us:
+
+ **The bottom line: We will not ever use your email address or any personal information your provide to us as a means to do any harm; that means we will never sell your information to spammers or provide it to third parties with a _very_ valid reason**. Now to the the details:
 
 **Our commitment**
 
-     We created this privacy policy to ensure that any information obtained from our users is kept 100% confidential. We have never released any information to outside companies and never plan to. We have strong values against SPAMMERS (see Commentary about SPAM). Any users using our forum can be assured that their email address will not be given out to anybody. **Please use this privacy policy as a guarantee of our commitment to you**. 
+We created this privacy policy to ensure that any information obtained from our users is kept 100% confidential. We have never released any information to outside companies and never plan to. Any users using our forum can be assured that their email address will not be given out to anybody. **Please use this privacy policy as a guarantee of our commitment to you**. 
 
 **Your information is logged automatically**
 
@@ -26,7 +28,7 @@ Some of our services may collect and request personal information. It may includ
 
 **External Links**
 
-This site contains links to other sites. **Canadian Content Interactive Media** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **lo4d.com** is not responsible for the privacy practices or the content of such Web sites. 
 
 **Public Forums**
 
