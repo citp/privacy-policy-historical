@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woobox.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228042433id_/http%3A//www.woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woobox.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605031202id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
 
 # Woobox Privacy Policy
 
 Privacy Policy
 
-_Last modified 7/28/2010_
+_Last modified 1/17/2012_
 
 **Our Commitment To Privacy**
 
@@ -26,7 +26,8 @@ You can choose to limit the storage of cookies on your computer when accessing t
 
 **Information Sharing**
 
-The information collected about you may be shared with third parties to facilitate the serving of advertising on the website. Some of these advertisers (such as Google through the Google AdSense program) may use technology such as cookies and web beacons and may collect additional information about you. 
+The information collected about you may be shared with third parties to facilitate the serving of advertising on the website. Some of these advertisers (such as Google through the Google AdSense program) may use technology such as cookies and web beacons and may collect additional information about you.   
+Woobox provides applications that contain entry forms that collect information about you on behalf of other third-parties. Woobox makes this information available to the third-parties that have created the campaign running on Wooobox's servers. This information can include any information you provide along with other personal information that we collect and that is accesible through permissions you grant to our applications on the Facebook, Twitter, and other platforms. 
 
 **Our Commitment To Data Security**
 
