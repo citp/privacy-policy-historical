@@ -1,89 +1,91 @@
-> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624084424id_/http%3A//www.identityguard.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identityguard.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605123310id_/http%3A//www.identityguard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IDENTITY GUARD
 
-At Intersections, protecting your identity and personal information is our mission. We want you to be fully informed about how we use and protect your information. Please take a moment to review this privacy policy.
+At Intersections Inc., protecting your identity and protecting personal information about you is at the very core of our mission. To help us accomplish this, we have implemented a comprehensive information privacy and security program. We want you to be fully informed about this program, and we hope that you will take a moment to review our privacy policy.
 
-## Information We Use to Provide Our Products and Services
+## WHO WE ARE
 
-If you are a customer, we may obtain and provide to you your credit report or other information about you from third party data suppliers. We also may obtain such information as your name, Social Security Number, mailing address, e-mail address, phone number, date of birth, and credit card or other payment information, as needed to provide our products and services to you.
+Intersections is a leading provider of identity protection services and financial information and education services for consumers. We are also a provider to major financial institutions and other entities of identity theft management and mitigation services for their consumer customers. [ Learn more about us. ](http://www.intersections.com/)
 
-We may use your personal information to:
+## WHO DOES OUR PRIVACY POLICY APPLY TO?
 
-  * process and administer your order for our products and services;
-  * verify your identity and protect against fraud;
-  * provide the products and services you request; and
-  * conduct quality testing and improve our products and services.
+Our privacy policy applies to both our online and offline consumer customers. This policy also applies to both our existing and former consumer customers. In addition, this policy applies to each consumer who visits one of our websites or otherwise provides us with personal information, even if the consumer does not buy our products or services. 
+
+## WHAT PERSONAL INFORMATION ABOUT YOU DO WE COLLECT?
+
+The types of personal information which we collect about you depend upon the service or product which you purchase. We collect and retain information about your transactions with us. In order to provide our services and products to you, we may obtain from you, for example, your full name; your mailing address; your email address; your phone numbers; your Social Security number; your credit card information; or other account or payment information, as needed. With your express authorization, we may also obtain your credit report from one or more of the national credit bureaus. In addition, we may obtain information about you from other third parties in connection with providing you with the products or services that you request. For example, we may obtain information about you from sources such as public record vendors, technology providers, the Internet and other sources.
+
+## DO WE COLLECT INFORMATION ABOUT YOUR VISIT TO OUR WEBSITES, INCLUDING USING COOKIES AND OTHER TECHNOLOGIES?
+
+Even if you do not purchase one of our products or services, we retain, on a long-term storage basis, personally identifiable information about you if you volunteer information to us online, or you sign in online to one of our member areas. Doing so permits us to understand and accommodate your online preferences and manage your relationship with us.
+
+We also use various technologies to collect and retain information about visits to our websites. Cookies, for example, are small bits of computer code that we or third parties with whom we have a relationship may install on your computer when it accesses our websites. Cookies make your visit to our websites easier and more convenient. We may use cookies for purposes such as to authenticate users, provide tailored content, to facilitate the display of advertisements, or to determine whether a visitor is unique or whether the visitor has viewed our site before. While most browsers are set to accept cookies by default, Web browsers typically also have features that permit you to refuse cookies or to alert you before accepting them. Your browser manufacturer has information on changing the default setting for your specific browser. Please understand that if you refuse to accept cookies from our websites, you may not be able to use some portions of our websites.
+
+Our websites also may use various technologies to collect non-personally identifiable information when someone visits our websites. For example, as you browse one of our websites we may collect information about your visit, but not about you personally. Via Web server logs, for example, we may monitor statistics such as: the number of people that visit our site, which page(s) are visited on our site, from which domain our visitors come (e.g., aol.com, hotmail.com, etc.), and the type of Internet browsers people use to visit our site (e.g., Microsoft Internet Explorer, Safari (for Apple Computers), Mozilla Firefox, etc.). We also may use outsourcing programs to assist us in analyzing this data to better tailor our websites.
+
+We may use third-party advertising companies and advertising networks to serve ads and collect information when you visit our website. These companies may use information (not including your name, phone number or email address) about your visits to this and other websites in order to provide advertisements on this and other websites about goods and services that may be of interest to you. If you would like more information about network advertising, and to know your choices about not having this information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Finally, Intersections’ websites may include links to websites operated by third parties. We do not control the information, through cookies or otherwise, that those third parties may obtain from you if you follow links to visit their websites, nor do we control their use and sharing of that information.
+
+## IF YOU PURCHASE MOBILELOCKBOX® WHAT INFORMATION DO WE COLLECT?
+
+If you purchase our MOBILE LOCKBOX® service, certain parts of that MOBILE LOCKBOX are powered by our third-party service provider. Your MOBILE LOCKBOX may contain data, which you select and provide, and which are embedded in documents, photos, account logins and other information that our service provider has aggregated about your accounts and financial relationships, as authorized by you.
+
+## DO WE COLLECT INFORMATION FROM OR ABOUT CHILDREN?
+
+None of our products and services or websites are designed for use by minors under the age of 18. If you are under 18 years old, please do not submit any personal information to us.
+
+Parents and guardians of minors are eligible to purchase our minor monitoring service. You must provide us with proof, satisfactory to us, that you are, in fact, the parent or legal guardian of the child in order to obtain information about a child through this service. Except to provide the minor monitoring service to enrolled customers, we do not intentionally obtain or retain information about minors.
+
+If you are participating in the minor monitoring service, we do not share information about your child for any purposes, including marketing, except as expressly authorized by you or as set forth below:
+
+  * We may share information about your child with our service providers to fulfill the minor monitoring service. Our service providers are required to comply with Intersections’ privacy policy.
+  * We may share information about your child to protect against fraud or as otherwise permitted or required by law, including to protect our legal interests.
 
 
 
-We may disclose your personal information to our service providers who help us provide our products and services. We also may disclose that information:
+## HOW DO WE USE THE INFORMATION WHICH WE COLLECT ABOUT YOU?
 
-  * in accordance with your express instructions or consent, or the express instructions or consent of your authorized representative;
-  * for fraud prevention;
-  * to carry out transactions requested by you; and
-  * as otherwise permitted or required by law.
+We use personal information about you to verify your identity and to protect against fraud. We also use this information for our everyday business purposes, such as quality assurance and testing; to process your transactions; maintain your account; respond to court orders and legal investigations; or interact with our service providers. Further, we use your information to market our products and services to you and for joint marketing with other companies. We do not use your credit report information except as required or permitted by law.
+
+## WHAT INFORMATION ABOUT YOU DO WE SHARE?
+
+We do not share personally identifiable information about you with nonaffiliated third parties, except as follows.
+
+  * With our service providers that help us to provide our products and services to you
+  * In accordance with your express instructions or authorization
+  * For fraud prevention or as otherwise permitted or required by law
 
 
 
-## Information We May Disclose to Our Affiliates
+We may disclose certain of your information to financial institutions with which we have a joint marketing agreement solely for use in connection with our jointly offered products and services. A joint marketing agreement between Intersections and a nonaffiliated company is an agreement under which Intersections and our nonaffiliated marketing partner agree to market various products or services to you.
 
-Our affiliates are entities that are controlled by Intersections Inc., that control Intersections Inc., or are under common corporate control with Intersections Inc. Our affiliates may include financial service providers, such as insurance agencies, and other companies, such as background screening and other identity management companies. The companies to whom we may disclose your personal information, as described above, may include our affiliates. We also may disclose information to our affiliates as permitted or required by law, including disclosure in accordance with your express instructions or consent or the express instructions or consent of your authorized representative.
+We may share personal information with companies affiliated with Intersections in cases where our affiliated company is providing services to Intersections. We do not, however, share personal information about you with our affiliated companies for their marketing purposes.
 
-## Information We May Use for Marketing
+## WHAT INFORMATION DO WE SHARE WITH ITAC?
 
-We may use personal information to contact you about our products and services and the products and services of our affiliates and non-affiliated third parties. The personal information we use for marketing, however, will not include the credit report or other information about you we obtain from third party data suppliers and provide to you as part of our products and services.
+If appropriate, we may offer you the opportunity to use the victim assistance services provided by ITAC, the Identity Theft Assistance Center, a nonprofit organization. If you accept, we may disclose personal information about you to ITAC. That information, however, will not include credit report information.
 
-By responding to offers of products or services of our affiliates or non-affiliated third parties, you may be disclosing your personal information directly to them. Use and disclosure of your information by them in connection with their products and services is governed by their respective privacy policies. We do not control their use or disclosure of that information.
+Pursuant to Intersections’ agreement with ITAC, ITAC may share information about you with companies that are members of ITAC (see the list of ITAC members at [www.identitytheftassistance.org](http://www.identitytheftassistance.org/)) and with other companies where fraud may have occurred. Our agreement governs how ITAC maintains, uses and shares information that we provide them about you. ITAC will store personal information about you in a database that ITAC members may use to detect and prevent fraud. ITAC may use information about you in the database for analysis, fraud prevention and detection, law enforcement purposes or as otherwise permitted by law. ITAC may also share personal information about you with the Federal Trade Commission and with law enforcement agencies. ITAC will not sell personal information about you or use this information or share this information with any third parties for marketing.
 
-You may elect not to have us contact you for marketing purposes. You may call us, or if we send you an e-mail primarily for the purpose of marketing, you may follow the instructions in the e-mail.
+## CAN YOU OPT-OUT OF OUR SHARING OF PERSONAL ABOUT YOU?
 
-If you become a customer for our products and services through a financial institution with whom we have a joint marketing agreement, we may disclose certain of your information to that financial institution solely for use in connection with our jointly offered products and services, including marketing of those products and services. The information we disclose, however, will not include the credit report or other information about you we obtain from third party data suppliers and provide to you as part of our products and services.
+Financial companies, including Intersections, choose how they share your personal information. Federal law gives you the right to limit some, but not all, sharing. We have already indicated the circumstances under which we share your personal information. However, it is important for you to know that you may elect for us not to have us contact you for marketing purposes. You may call us or, if we send you an email primarily for a marketing purpose, you may follow the instructions in the email to opt out of receiving further marketing communications.
 
-## Cookies
+## HOW DO WE PROTECT PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU?
 
-If you access our Web site, we may use cookies. Cookies are small bits of computer code that we install on your computer. We use cookies to make your visit to our Web site easier, and to collect information such as traffic, viewing and usage patterns, but only on an anonymous basis. For Web site visitors who do not make purchases or sign in to our member area, our Web server does not have access to personally identifiable information about you. It does not know your e-mail address unless you volunteer it. We place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the Web site. We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for Web site and system administration including: research and development, user analysis and business decision-making. In addition, we may work with third parties who advertise on our Web site or on whose Web sites we advertise. We cannot control the cookies or other instruments those third parties may use to collect personal information.
+To protect personal information about you from unauthorized access or use, we permit access only to Intersections employees and our service provider employees who have a need to know. In addition, we have implemented, and we maintain, technical, administrative and physical security safeguards.
 
-## Restricted Access
+## HOW DO WE CHANGE OUR PRIVACY POLICY?
 
-To access your personal information on our Web site, you are required to select a user name and password. It is your responsibility to restrict access to your user name and password so that only you may gain entry to your personal information online.
+We will not change our privacy policy unless those changes are first posted on our websites. If the change permits or requires any expanded sharing of personal information about you, we will send you a specific notice, either manually or online.
 
-## Confidentiality and Security
+If Intersections is acquired by another company or business, or merges with another company or business, or enters into any similar business transaction, personal information about you may be transferred as a part of that transaction. We will post a notice of that transaction on our websites and/or send you a privacy notice, if required by law.
 
-We recognize the importance of advanced security for your information. We maintain physical, electronic and procedural safeguards to protect your personal information. We also undergo both an annual Web certification and quarterly scans or tests by a nationally recognized computer security firm.
+## QUESTIONS AND COMMENTS?
 
-## Other Web Sites
+If you have questions or comments about our privacy policy, please contact us at the customer service number posted on our websites or provided in your materials.
 
-You may access our Web site through other Web sites. We are not responsible for the collection of information by those other Web sites, and are not bound by any policies or statements made on such sites. Other Web sites, Internet search engines and marketing companies through which you access our Web site may use persistent or session cookies and collect information such as traffic, viewing and usage patterns.
+_Last updated July 2011_  
 
-## Children's Privacy
-
-Our Web site, and our products and services, are designed for use only by individuals who are 13 years or older. We do not knowingly solicit or retain information from individuals who are less than 13 years old. If you are less than 13 years old, please do not submit any personal information to us. In some or all cases, we may elect not to provide our products or services to anyone under 18 years old.
-
-## Former Customers and Other Consumers
-
-This privacy policy applies to both existing and former customers.
-
-This privacy policy applies to each consumer who visits one of our Web sites or otherwise gives us personal information, even if he or she does not buy one of our products or services.
-
-## Changes to Our Privacy Policy and Other Changes
-
-We will not change these policies until those changes are posted on our Web site. If you use our Web site, you agree that we may notify you of changes to our privacy policy by updating our Web site.
-
-If we are acquired by another company or business, merge with another company or business, or complete a similar business transaction, your personal information may be transferred as part of that transaction. We will post notice of that transaction on our Web site for a limited period of time.
-
-## Questions and Comments
-
-f you have questions or comments about our privacy policy, please contact us at the customer service number posted on our Web site or provided in your materials.
-
-## Service-Specific Provisions
-
-In addition to all other provisions in this privacy policy, the following provisions also apply if you are receiving the specific service(s) identified:
-
-**MOBILE LOCKBOX ® Software and Service (the "MOBILE LOCKBOX"):** Certain parts of the MOBILE LOCKBOX are powered by CashEdge®, a provider of account aggregation services. If you use the parts of Mobile Lockbox powered by CashEdge, we will ask you to provide information needed to access certain third party Web sites such as the type of account, URL, and your User ID and Password used to access these accounts. Your Mobile Lockbox will contain data you select such as documents, photos, account login information and information that CashEdge has aggregated containing information regarding your accounts and financial relationships as designated by you.
-
-**ITAC, the Identity Theft Assistance Center:** We may offer you the opportunity to use the victim assistance service provided by ITAC, the Identity Theft Assistance Center, a nonprofit organization. If you accept, you agree that we may disclose your personal information to ITAC. The information we disclose to ITAC will not include the credit report we obtain.
-
-**ITAC's use of information:** ITAC shares information with the companies that are members of ITAC (see the list of ITAC members at [www.identitytheftassistance.org](http://www.identitytheftassistance.org/)) and with other companies where fraud may have occurred. ITAC will store the personal information in a database that ITAC members may use to detect and prevent fraud. ITAC may use information in the database for analysis, fraud prevention and detection, law enforcement purposes and as otherwise permitted by law. ITAC also may share information with the Federal Trade Commission and with law enforcement agencies for law enforcement purposes. ITAC will not sell your personal information, use it for marketing, or give it to anyone else for marketing.
-
-**Last Updated April 1, 2010**
