@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204558id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606000454id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Your Lucky Numbers
+
+[ ](http://9b85fnhzrahf3x953sucfh0855.hop.clickbank.net/?tid=YLNi123513E)
+
+[ ](http://affiliate.ttmtracker.com/rd/r.php?sid=1449&pub=545063&bid=4187&c1=YLNi2549744)
+
+| 
 
 **Privacy Policy**
 
@@ -59,7 +65,7 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-GMB555 - yourluckynumbers.com  
+GMB Direct - yourluckynumbers.com  
 315 Madison Avenue,  
 Suite 901  
 New York, NY 10017
@@ -73,7 +79,7 @@ By using the Website and/or agreeing to receive information via e-mail from us, 
 All messages will be sent from Your Lucky Numbers (yourluckynumbers@millions.yourluckynumbers.com). If you no longer wish to receive emails from YourLuckyNumbers.com, you can unsubscribe at any time by using the "Unsubscribe" link at the head and at the foot of the newsletter or clicking [here](http://trk.yourluckynumbers.com/8_0_-design-=empty.aspx). 
 
 Additionally, if you prefer, you may also send us a note via regular mail at the address listed below:   
-GMB555 - yourluckynumbers.com  
+GMB Direct - yourluckynumbers.com  
 315 Madison Avenue,  
 Suite 901  
 New York, NY 10017
@@ -84,4 +90,7 @@ If you have any questions regarding this statement, or would like more informati
 
 Copyright © 2011 YourLuckyNumbers.com - All Rights Reserved. For Entertainment Purposes Only.
 
-[ ](http://yourluckynumbers.com/0_220_object=422347.aspx?banner=2)
+[ ](http://signup.yourluckynumbers.com/?sub=20&prt=3)
+
+|   
+---|---|---
