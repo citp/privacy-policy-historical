@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gordonandthewhale.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113140951id_/http%3A//gordonandthewhale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordonandthewhale.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605175934id_/http%3A//gordonandthewhale.com/privacy) for the most accurate reproduction.*
 
 # Gordon and the Whale : Privacy Policy » GordonandtheWhale.com
 
@@ -43,3 +43,5 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 **Contacting Us**
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please feel free to [email ](mailto:contact@gordonandthewhale.com)us. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fgordonandthewhale.com%2Fprivacy%2F&media=&description=Gordon+and+the+Whale+%3A+Privacy+Policy)
