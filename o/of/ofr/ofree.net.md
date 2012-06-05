@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006160426id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606013808id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -51,38 +51,38 @@ Subscribe NOW to Only Free Stuff newsletter for daily updates.
 
 or 
 
-[](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff)
+[](http://www.ofree.net/rss2.xml)
 
 to  
 [Only Free - RSS FEED](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff?format=xml "Only Newest Free Stuff and Free Samples RSS Feed")  
 and Get Only Newest Free Stuff and Free Samples Faster and More Reliably! 
 
-Free Apple iPhone 5
+Start working from home today!
 
-[](https://web.archive.org/go/df.asp?qmnyn3x03j)
+[](https://web.archive.org/go/df.asp?8953at27qd)
 
-Apple has redefined the mobile world… again 
+Transform your financial future! 
 
-Only 7 days left for Free Movie Tickets
+Free Nike Air Jordan 11 Retro Concords
 
-[](https://web.archive.org/go/df.asp?qzkitks4n0)
+[](https://web.archive.org/go/df.asp?bw3i0v8xv2)
 
-Summer blockbusters are on their way - watch them for Free 
+Get in the game with sneakers that fit your style! 
 
-Do you prefer Nike or Adidas?
+Get Free Grocery Products
 
-[](https://web.archive.org/go/df.asp?4ru8cf9ah3)
+[](https://web.archive.org/go/df.asp?p068zhp9lm)
 
-Get the shoe brand of your choice Free! Sign-up now! 
+Get Started Now 
 
-Get a New Free Laptop or Tablet Computer – Hurry, Don't Delay
+Free Galaxy S III
 
-[](https://web.archive.org/go/df.asp?c99e9w2w27)
+[](https://web.archive.org/go/df.asp?3a5kllvox2)
 
-Why pay to upgrade? 
+Own one today 
 
-Free Apple iPad 2 and iPhone 4 combo
+$100 in FREE Fandango gift cards
 
-[](https://web.archive.org/go/df.asp?vb1exyhcwn)
+[](https://web.archive.org/go/df.asp?insljj4yrv)
 
-Own Apple’s fastest, most powerful products yet! 
+Movie fans, you won’t want to miss this! 
