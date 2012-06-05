@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511175021id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606000227id_/http%3A//www.littletikes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# privacypolicy - Little Tikes
-
-| 
+# privacypolicy
 
 **_LITTLE TIKES PRIVACY POLICY_**
 
@@ -13,7 +11,7 @@ You can participate in many features on the Site without providing any personall
   
 
 
-If you place orders by mail, phone or on this Site, we do make out mailing list available to carefully screened companies whose products or services might interest you.  If you prefer to have your name withheld, simply let us know by sending an email to: [consumer.service@littletikes.com](mailto:consumer.service@littletikes.com).
+If you place orders by mail, phone or on this Site, we do make out mailing list available to carefully screened companies whose products or services might interest you.  If you prefer to have your name withheld, simply let us know by sending an email to: [littletikes.cares@littletikescare.com](mailto:littletikes.cares@littletikescare.com).
 
    
 Sections of this Site may be subject to additional privacy terms and you will be notified of this when using the applicable sections of the Site.  You should carefully review these additional privacy terms before using those sections; such additional privacy terms will not replace or change this Privacy Policy, except when expressly stated otherwise.  
@@ -62,9 +60,9 @@ Little Tikes will only disclose personally identifiable information to third par
 
 From time to time, Little Tikes may provide personally identifiable information to agents and contractors of Little Tikes who are performing services for Little Tikes.  Such third parties are required to protect this personally identifiable information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Little Tikes.
 
-If we intend to share personally identifiable information about you to companies that may want to market products or services to you (e.g., other marketers, magazine publishers, retailers, participatory databases), we will ask for your permission at the relevant Site where we request such information. If at some point you grant us permission to transfer your information for these purposes and later decide that you no longer want us to do so, simply send us an email at customer.service@mgae.com and we'll change your preferences accordingly.
+If we intend to share personally identifiable information about you to companies that may want to market products or services to you (e.g., other marketers, magazine publishers, retailers, participatory databases), we will ask for your permission at the relevant Site where we request such information. If at some point you grant us permission to transfer your information for these purposes and later decide that you no longer want us to do so, simply send us an email at littletikes.cares@littletikescare.com and we'll change your preferences accordingly.
 
-We may occasionally combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you register with our Site, we provide you with an opportunity to express your preferences with respect to receiving details about other products and services from Little Tikes, MGA, affiliated businesses and selected third parties, as well as information about other or new products, programs or services that we believe may be of interest to you, whether from Little Tikes, MGA or from affiliated businesses and selected third parties (such as licensees). If you ever decide in the future that you would like to update these preferences, you may do so by sending us an email at [customer.service@mgae.com](mailto:customer.service@mgae.com) and we'll change your preferences accordingly.
+We may occasionally combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you register with our Site, we provide you with an opportunity to express your preferences with respect to receiving details about other products and services from Little Tikes, MGA, affiliated businesses and selected third parties, as well as information about other or new products, programs or services that we believe may be of interest to you, whether from Little Tikes, MGA or from affiliated businesses and selected third parties (such as licensees). If you ever decide in the future that you would like to update these preferences, you may do so by sending us an email at [littletikes.cares@littletikescare.com](mailto:littletikes.cares@littletikescare.com) and we'll change your preferences accordingly.
 
 We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt-out, as described more fully below. 
 
@@ -75,14 +73,14 @@ Little Tikes will only collect personal information to the extent deemed reasona
 
 **OPT-OUT, UPDATES AND REMOVAL OF PERSONAL INFORMATION**
 
-If you have provided us with any personal information and do not want Little Tikes to retain this information or wish to update or correct it, you can notify us at any time by calling 1-800-321-0183 or sending us an e-mail at customer.service@mgae.com and we will remove this information from our database or correct it as directed by you. You may also update your information yourself in certain portions of the Site, through use of the user name and password that you have chosen.  Little Tikes will respond to customer requests for the release of personal information about such customer’s account only to the email address on file with Little Tikes.  It is your responsibility to maintain the security and integrity of that email address.
+If you have provided us with any personal information and do not want Little Tikes to retain this information or wish to update or correct it, you can notify us at any time by calling 1-800-321-0183 or sending us an e-mail at littletikes.cares@littletikescare.com and we will remove this information from our database or correct it as directed by you. You may also update your information yourself in certain portions of the Site, through use of the user name and password that you have chosen.  Little Tikes will respond to customer requests for the release of personal information about such customer’s account only to the email address on file with Little Tikes.  It is your responsibility to maintain the security and integrity of that email address.
 
 **CHILDREN'S PRIVACY**
 
   
 Visitors to this Site may participate in many activities without providing any personally identifiable information. However, if a visitor wants to participate in certain of our interactive features, we may ask the visitor to register and provide us with their e-mail address and age information. When the person who registers indicates that he or she is 13 years or younger, we will either collect no personally identifiable information from that individual or, if we are collecting personally identifiable information, we will inform the child that verifiable consent from a parent or legal guardian is required. We may collect the e-mail address of the user's parent or legal guardian in addition to the user's e-mail address, and use the e-mail address of the parent or legal guardian to seek that person's verifiable consent and ask the parent or legal guardian to provide certain personal information including home address. In the alternative, Little Tikes may notify the parent or legal guardian of his/her child's online activities and enable that person to unsubscribe his/her child from a newsletter or other similar activity. If a user is 13 years or younger, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's information with outside third parties not bound by this Privacy Policy.
 
-Parents or legal guardians may at any time review, update or delete from our database any personally identifiable information that we have collected online from their child and/or request that there be no further collection or use of their child's information by calling us at 1-800-321-0183 or sending an e-mail to customer.service@mgae.com, or sending a letter to: 
+Parents or legal guardians may at any time review, update or delete from our database any personally identifiable information that we have collected online from their child and/or request that there be no further collection or use of their child's information by calling us at 1-800-321-0183 or sending an e-mail to littletikes.cares@littletikescare.com, or sending a letter to: 
 
 **Little Tikes Consumer Service**
 
@@ -123,6 +121,3 @@ When sending E-mail, E-Greetings or making a submission or a posting, DO NOT:
 5.      Upload, post, transmit or make available any material that contains software viruses or tampers, destroys or limits the ability to function of a computer, website, personal e-mail account or corporate computer network or website.
 
 Thank You. 
-
-|   
----|---|---
