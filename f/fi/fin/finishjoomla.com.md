@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finishjoomla.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011075227id_/http%3A//www.finishjoomla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishjoomla.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605022732id_/http%3A//www.themepartner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FinishJoomla
+# Privacy Policy | ThemePartner
 
 #### Introduction.
 
@@ -17,6 +17,8 @@ We may use Data to customize and improve your user experience on this site. We w
 #### 3\. Cookies.
 
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
+
+Through our website a cookie is placed by the American company Google, as a part of their "Analytics" service. We are using this service to get insights and reports on how visitors are using our website. Google is able to offer this information to third parties when they are forced to do so by a judge, or when third parties are processing this data on behalf of Google. We have no influence on this. We made sure that the information that is gathered by Google is anonimized to the fullest extent possible. Your IP address is explicitly not provided as part of the data. The information is sent to (and saved on) servers of Google located in the United States of America.
 
 #### 4\. Editing or Deleting Your Account Information.
 
