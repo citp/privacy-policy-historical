@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227023906id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606002631id_/http%3A//www.rootways.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Web Solutions Company | Web Development Company | Web Service Provider | Domain Name Registration | SEO Company | Ecommerce Application | Ecommerce Web Development | Web Service Provider
+# Web Development Company | Web Service Provider | Domain Name Registration | SEO Company | Ecommerce Application | Web Application Development
 
-Privacy Policy 
+## Privacy Policy 
 
-At rootways we are committed to protecting your privacy. The purpose of his Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our WebSites or hosting services and related services or that may be otherwise be collected by us.
+At rootways we are committed to protecting your privacy. The purpose of his Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our [WebSites](https://web.archive.org/web/20120606002631id_/http%3A//www.rootways.com/web-design.php) or [hosting services](https://secure.rootways.com/web-hosting.php) and related services or that may be otherwise be collected by us.
 
 Rootways is the sole owner of the information collected on this Site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. Rootways will protect the confidentiality of its customers' information, account information, personal communications and any other information collected in any form to the fullest extent possible and consistent with the law.
 
@@ -18,7 +18,7 @@ Our site uses an order form for customers to request information, products, and 
 
 If you happen to us any of the feature like chat rooms, forums, message boards, and/or news groups available to our uses on our site, please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Upon request, we may provide third-party services to you. Although we will, only at your request, sign you up for the Partner's services (and share your customer information with the Partner), we are not responsible for the privacy practices of such Partners, and you should review such Partners' privacy statements before having us sign you up for their services. This privacy statement applies solely to information collected by Rootways.
+Upon request, we may provide third-party services to you. Although we will, only at your request, sign you up for the Partner's services (and share your customer information with the Partner), we are not responsible for the privacy practices of such Partners, and you should review such Partners' privacy statements before having us sign you up for their services. This privacy statement applies solely to information collected by [Rootways](https://web.archive.org/web/20120606002631id_/http%3A//www.rootways.com/index.php).
 
 In order to maintain the integrity and security of user data, it is often necessary for us to monitor all connections to our servers. While we take your privacy very seriously, we may disclose information about your account when Rootways has a good faith belief that the law requires such disclosure, or to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Rootways.
 
@@ -28,4 +28,4 @@ You may send a request via e-mail to [**info@rootways.com**](mailto:info@rootway
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact Customer Support at [**info@rootways.com**](mailto:info@rootways.com), and one of our customer care consultants will help resolve the problem as soon as possible.
 
-Rootways reserves the right to modify this policy at any time and without advance notice, effective upon making the modified provisions available on the Rootways Web Site. You are responsible for regularly reviewing these documents, and continued use of the Rootways Services after any such changes shall constitute your consent to such changes. Rootways does not assume any obligation to notify you of any changes to the privacy policy.
+Rootways reserves the right to modify this policy at any time and without advance notice, effective upon making the modified provisions available on the Rootways [Web Site](https://web.archive.org/web/20120606002631id_/http%3A//www.rootways.com/businessdevelopment.php). You are responsible for regularly reviewing these documents, and continued use of the Rootways Services after any such changes shall constitute your consent to such changes. Rootways does not assume any obligation to notify you of any changes to the privacy policy.
