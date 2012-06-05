@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awear.com privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122022844id_/http%3A//www.awear.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awear.com privacy policy that was archived on 2012-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605150702id_/http%3A//www.awear.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <title>
@@ -306,8 +306,8 @@ function checkFieldGN(formName, field, defaultStr) {
 <div id="tag-currencylanding" style="display:none;">
 <div style="display:block;">
 <map name="currency_options">
-<area shape="rect" coords="13,129,161,152" id="ireland" href="https://web.archive.org/web/20111122022844id_/http%3A//www.awear.com/page/privacy?setlocn=eur&amp;log=4">
-<area shape="rect" coords="170,129,318,152" id="uk" href="https://web.archive.org/web/20111122022844id_/http%3A//www.awear.com/page/privacy?setlocn=restofworld&amp;log=4">
+<area shape="rect" coords="13,129,161,152" id="ireland" href="https://web.archive.org/web/20120605150702id_/http%3A//www.awear.com/page/privacy?setlocn=eur&amp;log=4">
+<area shape="rect" coords="170,129,318,152" id="uk" href="https://web.archive.org/web/20120605150702id_/http%3A//www.awear.com/page/privacy?setlocn=restofworld&amp;log=4">
 <area shape="rect" coords="91,169,239,192" href="http://www.awear.com/page/rest-of-world-delivery/?setlocn=eur&amp;log=4">
 </map>
 
@@ -363,7 +363,12 @@ addEvent(window, 'load', function() {addMessagePadding(); }, false);
 	
 </ul>
 
-<script language="javascript" type="text/javascript">  
+<div id="selectCur">
+<span class="selectrestofworld" style="display:none;"><a href="#" onclick="fnGetURL('pound'); return false;" class="ukontransON" onmouseover="this.className='ukontransOFF'" onmouseout="this.className='ukontransON'">€</a><a href="#" onclick="fnGetURL('euro'); return false;" class="restofworldontransOFF">£</a></span>
+<span class="selecteur" style="display:none;"><a href="#" onclick="fnGetURL('pound'); return false;" class="ukontransOFF" onmouseover="this.className='ukontransOFF'" onmouseout="this.className='ukontransOFF'">€</a><a href="#" onclick="fnGetURL('euro'); return false;" class="restofworldontransON" onmouseover="this.className='restofworldontransOFF'" onmouseout="this.className='restofworldontransON'">£</a></span>
+<span class="selectelse" style="display:none;"><a href="#" onclick="fnGetURL('pound'); return false;" class="ukontransOFF" onmouseover="this.className='ukontransOFF'" onmouseout="this.className='ukontransOFF'">€</a><a href="#" onclick="fnGetURL('euro'); return false;" class="restofworldontransON" onmouseover="this.className='restofworldontransOFF'" onmouseout="this.className='restofworldontransON'">£</a></span>
+</div>
+<script>
 var sURL = unescape(location.href);   
 var sPound = "&setlocn=eur&log=4";   
 var sEuro = "&setlocn=restofworld&log=4";     
@@ -416,20 +421,20 @@ function fnGetURL (sCurr) {
 }
 </script>
 
-<script language="javascript" type="text/javascript">
+<script>
 var currency = new CookieJar({expires:'',path: '/'});
 	if(currency.get("locn")!=null){
 		var value = currency.get("locn");
 		if(sURL.indexOf("&setlocn=restofworld") > -1 || value=="restofworld"){
-			document.write('<div id=\"selectCur\"><a href=\"#\" onclick=\"fnGetURL(\'pound\'); return false;\" class=\"ukontransON\" onmouseover=\"this.className=\'ukontransOFF\'\" onmouseout=\"this.className=\'ukontransON\'\">&euro;<\/a><a href=\"#\" onclick=\"fnGetURL(\'euro\'); return false;\" class=\"restofworldontransOFF\">&pound;<\/a><\/div>');
+			jQuery('.selectrestofworld').show();
 		}
 		if(sURL.indexOf("&setlocn=eur") > -1 || value=="eur"){
-		document.write('<div id=\"selectCur\"><a href=\"#\" onclick=\"fnGetURL(\'pound\'); return false;\" class=\"ukontransOFF\" onmouseover=\"this.className=\'ukontransOFF\'\" onmouseout=\"this.className=\'ukontransOFF\'\">&euro;<\/a><a href=\"#\" onclick=\"fnGetURL(\'euro\'); return false;\" class=\"restofworldontransON\" onmouseover=\"this.className=\'restofworldontransOFF\'\" onmouseout=\"this.className=\'restofworldontransON\'\">&pound;<\/a><\/div>');
+			jQuery('.selecteur').show();
 		}
 	}else {
-	document.write('<div id=\"selectCur\"><a href=\"#\" onclick=\"fnGetURL(\'pound\'); return false;\" class=\"ukontransOFF\" onmouseover=\"this.className=\'ukontransOFF\'\" onmouseout=\"this.className=\'ukontransOFF\'\">&euro;<\/a><a href=\"#\" onclick=\"fnGetURL(\'euro\'); return false;\" class=\"restofworldontransON\" onmouseover=\"this.className=\'restofworldontransOFF\'\" onmouseout=\"this.className=\'restofworldontransON\'\">&pound;<\/a><\/div>');
+	jQuery('.selectelse').show();
 }
-</script><div id="selectCur"><a href="#" onclick="fnGetURL('pound'); return false;" class="ukontransOFF" onmouseover="this.className='ukontransOFF'" onmouseout="this.className='ukontransOFF'">€</a><a href="#" onclick="fnGetURL('euro'); return false;" class="restofworldontransON" onmouseover="this.className='restofworldontransOFF'" onmouseout="this.className='restofworldontransON'">£</a></div>
+</script>
 
 <p class="Lwelcome welcomemsg" id="welcome"></p><div style="clear:both;"></div></div><div class="Lcat_headermid_new"><div class="Lmainlogo blacklogo"><a href="http://www.awear.com/page/home/"><img src="http://www.awear.com/content/ebiz/awear/element/blacklogo/logo.gif" name="logo" alt="Black logo"></a></div>
 
@@ -464,6 +469,7 @@ var currency = new CookieJar({expires:'',path: '/'});
 </ul>
 
 </div>
+
 
 
 
@@ -558,39 +564,7 @@ var currency = new CookieJar({expires:'',path: '/'});
 };
 </script>
 <div id="minicart_detail"></div>
-</div><div class="Lcat_headerbottom_new"><div id="tag-loadmessage" style="display:none;">Please wait while the data loads</div>  
-<div id="iframepopup" style="display:none;">
-<iframe id="iframesignup" frameborder="0" src="/page/signupemailpopup?layout=noheadersemail" width="100%" height="320px" scrolling="no" style="border:0px; height:320px;margin:0px;" allowtransparency="true">  </iframe>
-</div>    
-<script language="JavaScript" type="text/javascript">  
-var emailSignup = new CookieJar({expires:(3600*24*365),path: '/'});  
-var showsignup = "";  
-var locn = "";
-if((emailSignup.get("locn")!= null )||(emailSignup.get("locn")!= "" ) && Venda.Platform.getUrlParam(window.location.href,'setlocn') != false){
-if((emailSignup.get("showsignup")== null) || (emailSignup.get("showsignup")== "")){ 
-jQuery(document.createElement("link")).attr({rel:"stylesheet",href:"http://"+ document.domain +"/content/ebiz/awear/resources/css/external/yui/container-signup.css",media:"screen, projector"}).appendTo("head");
-if (typeof Venda.Widget.InvtPopups != "undefined" || Venda.Widget.InvtPopups) {  	  
-Venda.Widget.InvtPopups.create(['static'],  		{  			  drag: true, modal: true, fixedCenter: true, fade: 0.24, width: 692, height: 320 	  	},  	  	{  		  	  loadmessage: 	document.getElementById('tag-loadmessage').innerHTML  		});  
-}  
-addEvent(window, 'load', function() { Venda.Ebiz.loadingPanel("iframepopup","692px",true); }, false);  
-jQuery('div.bd').css('background-color', 'transparent');
-checkCookie();  
-} 
-}
-function checkCookie()  {  
-var emailsignupchk = emailSignup.get("locn");
-if(emailsignupchk != null ){
-var popup = emailSignup.put("showsignup","showsignup");  
-}   };
-
-function closeIframe() {
-document.getElementById('wait_mask').style.display = 'none';
-document.getElementById('wait_c').style.display = 'none';  
-var iframe = document.getElementById('iframesignup');
-   iframe.parentNode.removeChild(iframe);
-      
-}
-</script><!--[if IE 6]>
+</div><div class="Lcat_headerbottom_new"><!--[if IE 6]>
 <style type="text/css">
 ul#menu li.mega.hovering div li {
 border:1px solid #fff;
@@ -694,6 +668,9 @@ border:1px solid #fff;
     
 
 
+
+
+
     <li>&nbsp;</li>
         
 
@@ -720,6 +697,7 @@ border:1px solid #fff;
 
     <li class="title"><a href="http://www.awear.com/the-clothes/denim/icat/awear_denim/&amp;bklist=icat,4,shop,awear_the_clothes,awear_denim">Denim</a></li>
     
+
 
 
 
@@ -762,33 +740,17 @@ border:1px solid #fff;
     <li class="title"><a href="http://www.awear.com/the-clothes/playsuits/icat/awear_playsuits/&amp;bklist=icat,4,shop,awear_the_clothes,awear_playsuits">Playsuits</a></li>
     
 
+
+
+
+
+
     <li>&nbsp;</li>
       </ul>
       <ul>
                  
 
     <li class="title"><a href="http://www.awear.com/the-clothes/coats+jackets/icat/awear_coats_jackets/&amp;bklist=icat,4,shop,awear_the_clothes,awear_coats_jackets">Coats &amp; Jackets</a></li>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <li>&nbsp;</li>
-       
-
-    <li class="title"><a href="http://www.awear.com/the-clothes/going-out-tops/icat/awear_going_out_tops/&amp;bklist=icat,4,shop,awear_the_clothes,awear_going_out_tops">Going Out Tops</a></li>
     
 
 
@@ -851,7 +813,28 @@ border:1px solid #fff;
     <li>&nbsp;</li>
       
 
-    <li class="title"><a href="http://www.awear.com/the-clothes/trousers+shorts/icat/awear_trousers_and_shorts/&amp;bklist=icat,4,shop,awear_the_clothes,awear_trousers_and_shorts">Trousers &amp; Shorts</a></li>
+    <li class="title"><a href="http://www.awear.com/the-clothes/shorts/icat/awear_shorts/&amp;bklist=icat,4,shop,awear_the_clothes,awear_shorts">Shorts</a></li>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li>&nbsp;</li>
+      
+
+    <li class="title"><a href="http://www.awear.com/the-clothes/trousers+leggings/icat/awear_trousers_and_shorts/&amp;bklist=icat,4,shop,awear_the_clothes,awear_trousers_and_shorts">Trousers &amp; Leggings</a></li>
     
 
 
@@ -872,8 +855,13 @@ border:1px solid #fff;
     <li>&nbsp;</li>
 
 
-    <li class="title"><a href="http://www.awear.com/the-clothes/leggings+jeggings/icat/awear_leggings_jeggings/&amp;bklist=icat,4,shop,awear_the_clothes,awear_leggings_jeggings">Leggings &amp; Jeggings</a></li>
+    <li class="title"><a href="http://www.awear.com/the-clothes/nightwear/icat/awear_nightwear/&amp;bklist=icat,4,shop,awear_the_clothes,awear_nightwear">Nightwear</a></li>
     
+
+
+
+
+
 
 
 
@@ -883,18 +871,7 @@ border:1px solid #fff;
       <ul>
 
 
-    <li class="title"><a href="http://www.awear.com/collections/midnight-lace/icat/awear_midnightlace/&amp;bklist=icat,4,shop,collections,awear_midnightlace">Midnight Lace</a></li>
-    
-
-
-
-
-
-
-    <li>&nbsp;</li>
-
-
-    <li class="title"><a href="http://www.awear.com/nightwear/icat/awear_nightwear/&amp;bklist=icat,4,shop,shop,awear_nightwear">Nightwear</a></li>
+    <li class="title"><a href="http://www.awear.com/limited-edition/icat/awear_limited_edition/&amp;bklist=icat,4,shop,shop,awear_limited_edition">Limited Edition</a></li>
     
 
 
@@ -914,6 +891,89 @@ border:1px solid #fff;
 
     <li>&nbsp;</li>
 
+
+    <li class="title"><a href="http://www.awear.com/collections/hot-shop/icat/awear_hotshop/&amp;bklist=icat,4,shop,collections,awear_hotshop">Hot Shop</a></li>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li>&nbsp;</li>
+
+
+    <li class="title"><a href="http://www.awear.com/collections/colour-couture/icat/awear_colour_couture/&amp;bklist=icat,4,shop,collections,awear_colour_couture">Colour Couture</a></li>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li>&nbsp;</li>
+
+
+    <li class="title"><a href="http://www.awear.com/promotions/workwear/icat/awear_workwear/&amp;bklist=icat,4,shop,awear_promotions,awear_workwear">Workwear</a></li>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li>&nbsp;</li>
+
+
+    <li class="title"><a href="http://www.awear.com/the-clothes/going-out/icat/awear_going_out_tops/&amp;bklist=icat,4,shop,awear_the_clothes,awear_going_out_tops">Going Out</a></li>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li>&nbsp;</li>
 
       </ul>
 
@@ -922,12 +982,12 @@ border:1px solid #fff;
 <li class="title"><a href="/icat/awear_bogof">T-shirt Offer</a></li>
 <li>&nbsp;</li>
 
-
       </ul>
     </div>
   </li>
+
   <li>
-    <h2><a class="awear_dresses" href="http://www.awear.com/the-clothes/dresses/icat/awear_dresses/">Dresses</a></h2>
+    <h2><a class="awear_dresses" href="http://www.awear.com/collections/hot-shop/icat/awear_hotshop/">Holiday Shop</a></h2>
   </li>
 
 
@@ -946,6 +1006,8 @@ border:1px solid #fff;
 	<li><a href="http://www.awear.com/the-bags/evening-bags/icat/awear_evening_bags/&bklist=icat,5,shop,awear_accessories,awear_bags,awear_evening_bags">Evening Bags</a></li>
 
 	<li><a href="http://www.awear.com/the-bags/walletspurses/icat/awear_wallets_purses/&bklist=icat,5,shop,awear_accessories,awear_bags,awear_wallets_purses">Wallets/Purses</a></li>
+
+	<li><a href="http://www.awear.com/the-bags/unze-bags/icat/awear_unze_bags/&bklist=icat,5,shop,awear_accessories,awear_bags,awear_unze_bags">Unze Bags</a></li>
 
     <li>&nbsp;</li>
     
@@ -969,7 +1031,9 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/shoes/boots/icat/awear_boots/&amp;bklist=icat,5,shop,shop,awear_shoes,awear_boots">Boots</a></li>
 
-	<li><a href="http://www.awear.com/promotions/boot-promo/icat/awear_bootpromo/&amp;bklist=icat,5,shop,shop,awear_shoes,awear_bootpromo">Boot Promo</a></li>
+	<li><a href="http://www.awear.com/shoes/new-season/icat/awear_shoes_new/&amp;bklist=icat,5,shop,shop,awear_shoes,awear_shoes_new">New Season</a></li>
+
+	<li><a href="http://www.awear.com/shoes/unze-shoes/icat/awear_unze_shoes/&amp;bklist=icat,5,shop,shop,awear_shoes,awear_unze_shoes">Unze Shoes</a></li>
 
 	<li><a href="http://www.awear.com/sale/sale-shoes/icat/awear_sale_shoes/&amp;bklist=icat,5,shop,shop,awear_shoes,awear_sale_shoes">Sale shoes</a></li>
 
@@ -996,6 +1060,8 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/the-bags/walletspurses/icat/awear_wallets_purses/&amp;bklist=icat,5,shop,awear_accessories,awear_bags,awear_wallets_purses">Wallets/Purses</a></li>
 
+	<li><a href="http://www.awear.com/the-bags/unze-bags/icat/awear_unze_bags/&amp;bklist=icat,5,shop,awear_accessories,awear_bags,awear_unze_bags">Unze Bags</a></li>
+
     <li>&nbsp;</li>
     
       </ul>
@@ -1013,6 +1079,8 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/jewellery/earrings/icat/awear_earrings/&amp;bklist=icat,5,shop,awear_accessories,awear_jewellery,awear_earrings">Earrings</a></li>
 
+	<li><a href="http://www.awear.com/jewellery/brooches/icat/awear_brooches/&amp;bklist=icat,5,shop,awear_accessories,awear_jewellery,awear_brooches">Brooches</a></li>
+
     <li>&nbsp;</li>
     
       </ul>
@@ -1026,16 +1094,28 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/accessories/hats+gloves/icat/awear_hats_gloves/&amp;bklist=icat,5,shop,awear_accessories,accessories_awear,awear_hats_gloves">Hats&amp;Gloves</a></li>
 
-	<li><a href="http://www.awear.com/accessories/hair-accessories/icat/awear_hair_accessories/&amp;bklist=icat,5,shop,awear_accessories,accessories_awear,awear_hair_accessories">Hair Accessories</a></li>
-
 	<li><a href="http://www.awear.com/accessories/scarves/icat/awear_scarves/&amp;bklist=icat,5,shop,awear_accessories,accessories_awear,awear_scarves">Scarves</a></li>
 
 	<li><a href="http://www.awear.com/accessories/hosiery/icat/awear_hosiery/&amp;bklist=icat,5,shop,awear_accessories,accessories_awear,awear_hosiery">Hosiery</a></li>
 
+	<li><a href="http://www.awear.com/accessories/watches/icat/awear_watches/&amp;bklist=icat,5,shop,awear_accessories,accessories_awear,awear_watches">Watches</a></li>
+
+	<li><a href="http://www.awear.com/accessories/sunglasses/icat/awear_sunglasses/&amp;bklist=icat,5,shop,awear_accessories,accessories_awear,awear_sunglasses">Sunglasses</a></li>
+
     <li>&nbsp;</li>
     
       </ul>
+      <ul>
+        
 
+    <li class="title"><a href="http://www.awear.com/accessories/cosmetics/icat/awear_cosmetics/&amp;bklist=icat,4,shop,awear_accessories,awear_cosmetics">Cosmetics</a></li>
+    
+
+
+
+
+    <li>&nbsp;</li>
+      </ul>
     </div>
   </li>
 
@@ -1050,6 +1130,14 @@ border:1px solid #fff;
 	
     <li class="title 1"><a href="http://www.awear.com/boutique-brands/icat/awear_boutique/&amp;bklist=icat,4,shop,shop,awear_boutique">Boutique Brands</a></li>
     
+	<li><a href="http://www.awear.com/boutique-brands/true-decadence/icat/awear_true_decadence/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_true_decadence">True Decadence</a></li>
+
+	<li><a href="http://www.awear.com/boutique-brands/mela-loves-london/icat/awear_mela/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_mela">Mela Loves London</a></li>
+
+	<li><a href="http://www.awear.com/boutique-brands/unze/icat/awear_unze/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_unze">Unze</a></li>
+
+	<li><a href="http://www.awear.com/boutique-brands/laundry-room/icat/awear_laundry_room/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_laundry_room">Laundry Room</a></li>
+
 	<li><a href="http://www.awear.com/boutique-brands/closet/icat/awear_closet/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_closet">Closet</a></li>
 
 	<li><a href="http://www.awear.com/boutique-brands/jasmine/icat/awear_jasmine/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_jasmine">Jasmine</a></li>
@@ -1058,13 +1146,9 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/boutique-brands/cutie/icat/awear_cutie/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_cutie">Cutie</a></li>
 
+	<li><a href="http://www.awear.com/boutique-brands/atelier61/icat/awear_atelier61/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_atelier61">Atelier61</a></li>
+
 	<li><a href="http://www.awear.com/boutique-brands/boutique-sale/icat/awear_boutique_sale/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_boutique_sale">Boutique Sale</a></li>
-
-	<li><a href="http://www.awear.com/boutique-brands/closet-sale/icat/awear_closetsale/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_closetsale">Closet Sale</a></li>
-
-	<li><a href="http://www.awear.com/boutique-brands/jasmine-sale/icat/awear_jasminesale/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_jasminesale">Jasmine Sale</a></li>
-
-	<li><a href="http://www.awear.com/boutique-brands/glamourous-sale/icat/awear_glamoroussale/&amp;bklist=icat,5,shop,shop,awear_boutique,awear_glamoroussale">Glamourous Sale</a></li>
 
     <li>&nbsp;</li>
     
@@ -1082,27 +1166,17 @@ border:1px solid #fff;
 	
     <li class="title 1"><a href="http://www.awear.com/sale/icat/awear_sale/&amp;bklist=icat,4,shop,shop,awear_sale">Sale</a></li>
     
-	<li><a href="http://www.awear.com/sale/5-ps3+under/icat/awear_5euro3pound_sale/&amp;bklist=icat,5,shop,shop,awear_sale,awear_5euro3pound_sale">€5 - £3 &amp; Under</a></li>
-
-	<li><a href="http://www.awear.com/sale/10-ps8+under/icat/awear_10euro8pound_sale/&amp;bklist=icat,5,shop,shop,awear_sale,awear_10euro8pound_sale">€10 - £8 &amp; Under</a></li>
-
-	<li><a href="http://www.awear.com/sale/20-ps15+under/icat/awear_20euro15pound_sale/&amp;bklist=icat,5,shop,shop,awear_sale,awear_20euro15pound_sale">€20 - £15 &amp; Under</a></li>
-
-	<li><a href="http://www.awear.com/sale/30-ps25+under/icat/awear_30euro25pound_sale/&amp;bklist=icat,5,shop,shop,awear_sale,awear_30euro25pound_sale">€30 - £25 &amp; Under</a></li>
-
-	<li><a href="http://www.awear.com/sale/40-ps35+under/icat/awear_40euro35pound_sale/&amp;bklist=icat,5,shop,shop,awear_sale,awear_40euro35pound_sale">€40 - £35 &amp; Under</a></li>
-
-	<li><a href="http://www.awear.com/sale/50-off/icat/awear_50off/&amp;bklist=icat,5,shop,shop,awear_sale,awear_50off">50% Off</a></li>
-
-	<li><a href="http://www.awear.com/sale/70-off/icat/awear_70off/&amp;bklist=icat,5,shop,shop,awear_sale,awear_70off">70% Off</a></li>
-
 	<li><a href="http://www.awear.com/sale/sale-dresses/icat/awear_sale_dresses/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_dresses">Sale Dresses</a></li>
-
-	<li><a href="http://www.awear.com/sale/sale-shoes/icat/awear_sale_shoes/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_shoes">Sale shoes</a></li>
 
 	<li><a href="http://www.awear.com/sale/sale-coats+jackets/icat/awear_sale_coatsjackets/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_coatsjackets">Sale Coats &amp; Jackets</a></li>
 
+	<li><a href="http://www.awear.com/sale/sale-shoes/icat/awear_sale_shoes/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_shoes">Sale shoes</a></li>
+
+	<li><a href="http://www.awear.com/sale/sale-accessories/icat/awear_sale_accessories/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_accessories">Sale Accessories</a></li>
+
 	<li><a href="http://www.awear.com/sale/sale-denim/icat/awear_sale_denim/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_denim">Sale Denim</a></li>
+
+	<li><a href="http://www.awear.com/sale/sale-nightwear/icat/awear_sale_loungewear/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_loungewear">Sale Nightwear</a></li>
 
 	<li><a href="http://www.awear.com/sale/sale-knitwear/icat/awear_sale_knitwear/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_knitwear">Sale Knitwear</a></li>
 
@@ -1110,88 +1184,25 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/sale/sale-tops/icat/awear_sale_tops/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_tops">Sale Tops</a></li>
 
-	<li><a href="http://www.awear.com/sale/sale-nightwear/icat/awear_sale_loungewear/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_loungewear">Sale Nightwear</a></li>
-
 	<li><a href="http://www.awear.com/sale/sale-leggings+trousers/icat/awear_sale_trouserlegging/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_trouserlegging">Sale Leggings &amp; Trousers</a></li>
 
+	<li><a href="http://www.awear.com/sale/sale-holiday/icat/awear_sale_holiday/&amp;bklist=icat,5,shop,shop,awear_sale,awear_sale_holiday">Sale Holiday</a></li>
+
     <li>&nbsp;</li>
     
       </ul>
     </div>
   </li>
 
- <li class="mega">
-    <h2><a class="awear_sale" href="http://www.awear.com/christmas/gift-finder/icat/awear_giftfinder/">Gifts<img src="/content/ebiz/awear/page/primarynav/down12-new.gif"></a></h2>
-    <div class="sale">
-      <ul>
-       <li class="title"><a href="icat/awear_xmasmag">Christmas Magazine</a></li>
-<li>&nbsp;</li>
-      </ul>
-      <ul>
-        
-
-	
-    <li class="title 1"><a href="http://www.awear.com/gift-finder/by-price/icat/awear_giftprice/&amp;bklist=icat,4,shop,awear_giftfinder,awear_giftprice">By Price?</a></li>
-    
-	<li><a href="http://www.awear.com/by-price/10ps8-and-below/icat/awear_gift_10_8_below/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftprice,awear_gift_10_8_below">€10/£8 and below</a></li>
-
-	<li><a href="http://www.awear.com/by-price/20ps15-and-below/icat/awear_gift_20_15_below/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftprice,awear_gift_20_15_below">€20/£15 and below</a></li>
-
-	<li><a href="http://www.awear.com/by-price/30ps25-and-below/icat/awear_gift_30_25_below/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftprice,awear_gift_30_25_below">€30/£25 and below</a></li>
-
-	<li><a href="http://www.awear.com/by-price/40ps35-and-below/icat/awear_gift_40_35_below/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftprice,awear_gift_40_35_below">€40/£35 and below</a></li>
-
-	<li><a href="http://www.awear.com/by-price/money-no-object/icat/awear_gift_over50/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftprice,awear_gift_over50">Money No Object</a></li>
-
-    <li>&nbsp;</li>
-    
-      </ul>
-      <ul>
-        
-
-	
-    <li class="title 1"><a href="http://www.awear.com/gift-finder/by-style/icat/awear_giftstyle/&amp;bklist=icat,4,shop,awear_giftfinder,awear_giftstyle">By Style?</a></li>
-    
-	<li><a href="http://www.awear.com/by-style/funky/icat/awear_gift_funky/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftstyle,awear_gift_funky">Funky</a></li>
-
-	<li><a href="http://www.awear.com/by-style/girlie/icat/awear_gift_girlie/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftstyle,awear_gift_girlie">Girlie</a></li>
-
-	<li><a href="http://www.awear.com/by-style/ladylike/icat/awear_gift_ladylike/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftstyle,awear_gift_ladylike">Ladylike</a></li>
-
-	<li><a href="http://www.awear.com/by-style/party-queen/icat/awear_partyqueen/&amp;bklist=icat,5,shop,awear_giftfinder,awear_giftstyle,awear_partyqueen">Party Queen</a></li>
-
-    <li>&nbsp;</li>
-    
-      </ul>
-      <ul>
-        
-
-	
-    <li class="title 1"><a href="http://www.awear.com/gift-finder/something-special/icat/awear_gifttype/&amp;bklist=icat,4,shop,awear_giftfinder,awear_gifttype">Something Special?</a></li>
-    
-	<li><a href="http://www.awear.com/something-special/sweet-dreams/icat/awear_gift_nightwear/&amp;bklist=icat,5,shop,awear_giftfinder,awear_gifttype,awear_gift_nightwear">Sweet Dreams</a></li>
-
-	<li><a href="http://www.awear.com/something-special/outdoor-armour/icat/awear_gift_outer/&amp;bklist=icat,5,shop,awear_giftfinder,awear_gifttype,awear_gift_outer">Outdoor Armour</a></li>
-
-	<li><a href="http://www.awear.com/something-special/all-that-sparkles/icat/awear_gift_sparkle/&amp;bklist=icat,5,shop,awear_giftfinder,awear_gifttype,awear_gift_sparkle">All that Sparkles...</a></li>
-
-	<li><a href="http://www.awear.com/something-special/winter-warmers/icat/awear_gift_winterwarmers/&amp;bklist=icat,5,shop,awear_giftfinder,awear_gifttype,awear_gift_winterwarmers">Winter Warmers</a></li>
-
-    <li>&nbsp;</li>
-    
-      </ul>
-
-    </div>
-  </li>
 
 
 <li>
-<h2><a class="awear_shoes" href="http://www.awear.com/page/awear_tv/">Video</a></h2>
+<h2><a class="awear_shoes" href="http://www.awear.com/10cms-and-interactive-pages/awear-tv/page/awear_tv/">A|Wear TV</a></h2>
 </li>
 
 
   <li>
-    <h2><a class="styleAdvice" href="http://www.awear.com/primary-nav/style-advice/icat/style_advice/">Features</a></h2>
+    <h2><a class="styleAdvice" href="http://www.awear.com/primary-nav/style-advice/icat/style_advice/">Style Features</a></h2>
  
     <div class="styleAdvice">
       <ul>
@@ -1206,13 +1217,9 @@ border:1px solid #fff;
 
 	<li><a href="http://www.awear.com/style-advice/nightwear/icat/nightwear/&amp;bklist=icat,5,shop,primarynav,style_advice,nightwear">Nightwear</a></li>
 
-	<li><a href="http://www.awear.com/get-the-look/red-and-camel-/icat/red_and_camel/&amp;bklist=icat,5,shop,primarynav,style_advice,red_and_camel">Red and Camel </a></li>
-
 	<li><a href="http://www.awear.com/style-advice/secret-vintage/icat/secret_vintage/&amp;bklist=icat,5,shop,primarynav,style_advice,secret_vintage">Secret Vintage</a></li>
 
 	<li><a href="http://www.awear.com/style-advice/shirly-pearl-dress/icat/shirly_pearl_dress/&amp;bklist=icat,5,shop,primarynav,style_advice,shirly_pearl_dress">Shirly pearl dress</a></li>
-
-	<li><a href="http://www.awear.com/get-the-look/shoes/icat/shoe_collection/&amp;bklist=icat,5,shop,primarynav,style_advice,shoe_collection">Shoes</a></li>
 
     <li>&nbsp;</li>
     
@@ -1230,8 +1237,8 @@ border:1px solid #fff;
 
 <!--<li>
     <h2><a href="http://www.awear.com/10cms-and-interactive-pages/awear-fitting-room/page/awear_fitting_room/">Create Your Look</a></h2>
-  </li>
-  -->
+  </li>-->
+
 <!--
   <li>
     <h2><a class="blog" href="http://www.theinsidetrack.ie/" target="_blank">Blog</a></h2>
@@ -1489,7 +1496,7 @@ Copyright © A|wear Ltd
 </div>
 <!-- end content-default -->
 
-<div id="footer"><div class="Lcat_footer"><div class="Lcat_jsfooter"><script type="text/javascript">
+<div id="footer"><div class="Lcat_footer"><div class="Lcat_footer_banner"></div><div class="Lcat_jsfooter"><script type="text/javascript">
 var email=Venda.Platform.getUrlParam(location.href,"email");
 if (email !== false) {
 	jQuery('#email').val(email);
@@ -1599,9 +1606,9 @@ if (email !== false) {
 <a href="http://www.venda.com/pci-compliance-certificate?referer=www.awear.com/pcat/PCI" target="_blank" rel="popup"><img src="http://www.awear.com/content/ebiz/awear/page/pcilogo/logo_pci.png" border="0" alt="PCI Compliant"></a>
 
 </div><div id="vendalogo"><a href="http://www.venda.com" rel="popup" target="_blank"><img src="/venda-support/images/vendalogo/en_logo_light.png" alt="eCommerce solutions and eCommerce software powered by Venda"></a></div></div><div class="Lcat_footer_address"><div class="Lcopyright  copywright">
-<p>Copyright © 2011 A|wear</p>
+<p>Copyright © 2012 A|wear</p>
 </div>
-<p class="Ltext footeraddresstext">Creation House, Lemon Street, Dublin 2, Ireland | Registered with the CRO of Ireland | CRN:3231</p></div></div></div>
+<p class="Ltext footeraddresstext">Latzur Ltd., Creation House, Lemon Street, Dublin 2, Ireland | VAT Reg: IE 9818896O | Reg with the CRO, Ireland | CRN:509316</p></div></div></div>
 
 <div id="productindex"><a href="http://www.awear.com/partners/pwr/product-reviews/c/index.html"><img src="http://www.awear.com/content/ebiz/awear/resources/images/spacer.gif" width="1" height="1" alt="product index"></a></div>
 
@@ -1667,7 +1674,7 @@ Description1: desc1Simplify,
 Description2: desc2Simplify, 
 Description3: desc3Simplify,
 ImageUrl: '', 
-URL: '<venda_dispview invt=>'
+URL: ''
 };
 
 NUCONOMY.Logger.LogActivity(
@@ -1715,38 +1722,6 @@ NUCONOMY.Logger.LogActivity("", "", firstSku, 1161, firstPrice);
 
 
 </script>
-
-<!-- Start of Tagman Site Wide Tracking -->
-
-
-
-	
-	<!-- Tagman - Generic Non secure -->
-	<script type="text/javascript">
-	// your parameters
-	var tmParam = {};
-		tmParam["user_type"] = "";
-		tmParam["currency"] = "€";
-		tmParam["items"] = jQuery("#updateItems").html();
-		tmParam["pagename"] = jQuery("meta[name=keywords]").attr("content");
-	tmParam["tmpageref"] = "1";
-	// our parameters
-	var tmOPV = 0;
-	// set only fire container at the start of a visit (value = visit length in minutes, 0 = all the time) 
-	var tmPageId = 1;
-	// base container id
-	var tmAddJs = 1; 
-	var tmBaseUrl = "http://pfa.levexis.com/awear/tagman.cgi"; 
-	// base url ?€“ only specified for full TagMan Clients
-	</script>
-	<script type="text/javascript" src="http://res.levexis.com/clientfiles/tmap/awear.js"></script>
-	<script type="text/javascript" src="http://res.levexis.com/js/tman.js"></script>
-	<noscript><iframe src="http://res.levexis.com/clientfiles/default/1/awear.htm" style="border:0px none ; width: 0px; height: 0px;"></iframe></noscript>
-	
-
-
-
-<!-- End of Tagman Tagman Site Wide Tracking-->
 
 
 
