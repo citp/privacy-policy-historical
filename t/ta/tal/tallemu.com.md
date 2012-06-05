@@ -1,53 +1,60 @@
-> *The following text is extracted and transformed from the tallemu.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418020541id_/http%3A//www.tallemu.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallemu.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605103250id_/http%3A//www.tallemu.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tall Emu, Australia
 
-### Tall Emu Pty Ltd Privacy Policy
+**Privacy Policy**
 
-#### 1 May 2005
+We take your right to right privacy very seriously. Your personal information has always been important to us at Tall Emu Pty Ltd.
 
-What information do we store and Why? 
+For more information on rights to Privacy you can goto:
 
-We store as little information as necessary to provide you with the services you receive from us. 
+<http://www.privacy.gov.au/materials/types/infosheets/view/6541>
 
-#### Billing and Account Management
+In addition to complying with existing laws that govern confidential information that you provide us with, we are also required to comply with the National Privacy Principles. We will always seek to comply with the National Privacy Principles as well as other applicable laws affecting your personal information.
 
-We store your name, telephone number and address and email details for billing and account management purposes. 
+This privacy policy outlines Tall Emu Pty Ltd, policy on how we manage your personal information. It also sets out generally which types of personal information we hold, for what purposes and how we collect, hold, use and disclose that information.
 
-#### Piracy protection
+**Collecting Your Personal Information**
 
-When you install Online Armor we take a non-identifiable fingerprint of your hardware. This is used soley to ensure you do not install Online Armor on more machines than your licence key permits.
+**The information is collected for the following purposes:**
 
-#### Website
-
-Our website and forums may use session cookies to enhance your browsing experience. These are not stored persistently, unless you request that the forum remembers your username and password. Session cookies and forum cookies are in no way linked with any other information we hold.  To prevent idiots from filling our forums full of nonsense, our forum software logs IP addresses.  These also don't identify you and aren't linked with anything outside of the forum system.
-
-#### What do we do with this information?
-
-We use information you provide as described above only. If you opt to allow anonymous information regarding the programs you block or trust to be shared with us, we store the following piece of information:
-
-  * A fingerprint and other technical information about the program 
-  * Whether or not it was trusted 
-  * Version Information about the program 
+  * managing our relationship with you; or 
+  * contacting you about products and services in which you may be interested.
 
 
 
-None of this is linked to your account(s) in any way, and we take deliberate steps to ensure this information remains anonymous. It is not possible for Tall Emu or any other party to know what programs are running on your computer, but this information does help us understand which programs are being installed in aggregate by our users and prioritises our followup in testing programs for the trusted program list. 
+**Using and Disclosing Your Personal Information**
 
-#### With whom do we share this information?
+Your personal information will not passed onto any entity or third party in any form and will only be used in relation to Tall Emu Pty Ltd products or services.
 
-The only personal information that is shared with a third party is your payment details. We use Worldpay Inc. (A Royal Bank of Scotland Company) to provide a credit card payment facility. Tall Emu does not store your credit card details on its servers, nor does it ever have access to your credit card details..
+**Our Website**
 
-#### How do you access your information?
+We take care to ensure that the personal information you give us on our website is protected. For example, our website has electronic security systems in place, including the use of firewalls and data encryption. User identifiers, passwords or other access codes may also be used to control access to you personal information. We use cookies to provide a better web experience, but they are not used to store personal information or monitor site users in anyway.
 
-The only personal information we store about you relates to billing. You can see this information by logging into the user area.  If your email address has been changed, unfortunately we will be unable to help you since we don't have enough other information to positively identify you.
+**Links to Other Sites**
 
-#### How do we secure your information?
+You may be able to access external websites by clicking on links that we have provided. Those websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy standards, policies and procedures.
 
-Your name name, telephone number and address and email details are stored in a database located behind our firewall and access is controlled by password. 
+**Contacting Us and Privacy Issues**
 
-#### How do we communicate with you?
+You can obtain further information about the way in which we manage the personal information that we hold or you can raise any privacy issues with us by contacting us on (02) 9299 9959 or sending an email to info@tallemu.com.au.
 
-We will communicate with you via email. It will be for the purpose of service announcements and/or billing reminders only.  We also communicate with our customers in the public forums.
+#### Who we've worked with
 
-For more information Please [contact us ](https://web.archive.org/web/20090418020541id_/http%3A//www.tallemu.com/contact_us.html)
+#### What we've integrated with
+
+Paypal, Eparcel, MYOB, Exo, Quickbooks, SMS, Shopping Cart, Veda, Google Analytics/Adwords, CRM's (Tall Emu CRM, ACT, Sales Force), Netsuite, Westpac, ANZ, CommBank, Eway, WorldPay, Webex
+
+#### Languages & Technical Skills
+
+###### Languages, Layouts & Scripting
+
+Delphi, PHP, Kylix, C#, C/C++, PERL, Visual Basic (VB)/VBScript, ASP/ASP.NET, Web Services/SOAP, Java, Java Server Pages (JSP), Javascript, HTML/DHTML, XML/XSL, XMPP
+
+###### Databases
+
+Access, Interbase, MySQL, Oracle, Ingres, Firebird, Informix, Microsoft SQL Server
+
+###### Other Technologies
+
+ADO, CDO/MAPI, SMPP, TAP, IVR Sytems, Predictive Dialler, XMPP
