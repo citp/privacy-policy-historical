@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205111818id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605021346id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## California Society of CPAs' Online Privacy Policy Statement
 
-[www.CalCPA.org](http://www.calcpa.org/) is a website ("the Site") of the California Society of Certified Public Accountants ("CalCPA") and CPA Education Foundation. CalCPA is committed to maintaining your confidence and trust. We understand the value of your personal information and we respect your right to restrict our use of it. CalCPA has created this Online Privacy Policy Statement ("the Privacy Policy") to demonstrate our commitment to fair information practices and the protection of privacy. 
+[www.calcpa.org](http://www.calcpa.org/) is a website ("the Site") of the California Society of Certified Public Accountants ("CalCPA") and CPA Education Foundation. CalCPA is committed to maintaining your confidence and trust. We understand the value of your personal information and we respect your right to restrict our use of it. CalCPA has created this Online Privacy Policy Statement ("the Privacy Policy") to demonstrate our commitment to fair information practices and the protection of privacy. 
 
 ###### **1\. Access to the Areas of Our Web Site.**
 
@@ -61,7 +61,7 @@ We work to include security measures in this Site to protect the loss, misuse an
 
 ###### **6\. User Ability to Access, Update and Correct Personal Information.**
 
-To ensure that all of your Personal Information is correct and up-to-date, you may visit your personal profile at [www.CalCPA.org/find](http://www.calcpa.org/find). Through your personal profile you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about us, or promotional material from some of our partners; and (c) choose whether or not you wish us to share some of your Personal Information with third parties. ****
+To ensure that all of your Personal Information is correct and up-to-date, you may visit your personal profile at [www.calcpa.org/find](http://www.calcpa.org/find). Through your personal profile you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about us, or promotional material from some of our partners; and (c) choose whether or not you wish us to share some of your Personal Information with third parties. ****
 
 ###### **7\. Lost or Stolen Information.**
 
@@ -100,7 +100,7 @@ We store your personal information in a secure location that is accessible only 
 
 ###### **14.  Acceptance.**
 
-By using [www.CalCPA.org](http://www.calcpa.org/), you signify your acceptance of this Privacy Policy, as amended from time to time. If you do not agree with the terms and conditions contained in this Privacy Policy, please do not use our Site. **  
+By using [www.calcpa.org](http://www.calcpa.org/), you signify your acceptance of this Privacy Policy, as amended from time to time. If you do not agree with the terms and conditions contained in this Privacy Policy, please do not use our Site. **  
 **
 
 ###### **15\. Contact Us.**
@@ -111,8 +111,8 @@ Our postal address is as follows:
 
 California Society of CPAs  
 Attn: Customer Services  
-1235 Radio Road  
-Redwood City, California 94065-1217 
+1800 Gateway Drive, Ste 200  
+San Mateo, California 94404-4072
 
 We can be reached via e-mail at [info@calcpa.org](mailto:info@calcpa.org)
 
