@@ -1,37 +1,82 @@
-> *The following text is extracted and transformed from the bluesearchmarketing.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213215649id_/http%3A//bluesearchmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesearchmarketing.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605050434id_/http%3A//bluesearchmarketing.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Online Privacy Policy for Blue Search Marketing
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&t=Privacy%20Policy "Facebook")
+  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&notes= "Delicious")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Blue+Search+Marketing+Internet+Marketing+for+Small+Business+Owners&summary= "LinkedIn")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&bodytext= "Digg")
+  * 
 
-Any kind of contact info you give our company will certainly never be offered or given to a 3rd party however , will only be used to get in touch with you with “http://bluesearchmarketing.com” relevant information.
 
-If you need to have any more details or need any kind of questions about this privacy policy, please get in touch with our company at service@bluesearchmarketing.com
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
-At http://bluesearchmarketing.com, the personal privacy of our guests is of serious value to us. This privacy policy record describes the types of specific information is collected and obtained by http://bluesearchmarketing.com and how it is put to use.
+When accessing our Website, Blue Search Marketing will learn certain information about you during your visit.
 
-Log Data files  
-Just like many other websites, http://bluesearchmarketing.com makes use of log data files. The information inside the log data files consists of Internet protocol addresses (IP), type of internet browser, Internet Service Provider, date/time stamp, referring/exit web pages, and number of clicks to analyze trends, administer the site, monitor user’s movements around the website, and collect demographic info. IP addresses, and other such information are not linked to any info that is actually identifiable to us.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-Cookies and Internet Beacons  
-http://bluesearchmarketing.com does not utilize cookies, and we allow page caching in the future to help with page load times.
+  
+**What Are Cookies?**
 
-DoubleClick DART Cookie  
-Google, makes use of cookies to support ads that may appear on bluesearchmarketing.com.  
-Google’s use of the DART cookie allows it to serve advertisements to end users based on their visit to http://bluesearchmarketing.com and other sites on the Internet.  
-You may opt out of the use of the DART cookie by visiting the Google advertisement and content network privacy policy at: http://www.google.com/privacy_ads.html
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-Some of our advertising and marketing partners may use web beacons or cookies on our website. Our advertising partners include:  
-PayPal  
-SEnuke  
-Google
+  
+**IP Addresses**
 
-These third-party ad servers or advertisement networks use technologies to the ads and hyperlinks that appear on http://bluesearchmarketing.com that deliver directly to your web browsers. They routinely obtain your IP address when this occurs. Other systems ( such as cookies, JavaScript, or Web Beacons ) could also be used by the third-party advertisement networks to measure the performance of their ads and / or to customize the advertising content that you see.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
-http://bluesearchmarketing.com has no access to or control over these cookies that are used by third-party ad servers.
+  
+**Email Information**
 
-You should consult the individual privacy policies of these third-party advertisement providers for more detailed information on their procedures as well as for directions about how to opt-out of particular methods. http://bluesearchmarketing.com’s privacy policy does not apply to, and we cannot manage the activities of, such other advertisers or web sites.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-If you wish to turn off cookies, you may do so via your individual internet browser options. More detailed information about cookie administration with specific web browsers may be present at your browsers’ website.
+  
+**How Do We Use the Information That You Provide to Us?**
 
-[Return to Top](http://bluesearchmarketing.com/privacy-policy/)
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+
+Blue Search Marketing will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+
+ **  
+A Special Note About Children**
+
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+
+  
+**How Do We Protect Your Information and Secure Information Transmissions?**
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+
+Blue Search Marketing may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, Blue Search Marketing uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+  
+**Policy Changes**
+
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+ **  
+Contact**
+
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+
+Blue Search Marketing  
+6778 Westridge CT N, Keizer, OR 97303  
+503.385.8774  
+Please Use Our Contact Us Page
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&t=Privacy%20Policy "Facebook")
+  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&notes= "Delicious")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Blue+Search+Marketing+Internet+Marketing+for+Small+Business+Owners&summary= "LinkedIn")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fbluesearchmarketing.com%2Fprivacy_policy%2F&title=Privacy%20Policy&bodytext= "Digg")
+  * 
+
