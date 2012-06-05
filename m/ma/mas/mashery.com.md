@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205221437id_/http%3A//mashery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605031813id_/http%3A//mashery.com/privacy) for the most accurate reproduction.*
 
-# Mashery - Privacy Policy
+# Privacy Policy | Mashery.com
 
 ### MASHERY CORPORATE PRIVACY POLICY
 
@@ -53,7 +53,7 @@ In most cases, the tools that collect and store personally-identifiable informat
 
 #### 6\. Your Rights to Opt-Out, Opt-In, or Limit Specific Uses and Disclosures of Your Personally Identifiable Information
 
-You can access and modify the account information you provide us by signing in to your “My Account” page within the applicable Mashery service. Should you no longer wish to receive certain communications from us, you may (a) follow the unsubscribe instructions included in the communications you receive, or (b) send us an email at privacy AT mashery [dot] com with “unsubscribe” in the subject line, and we will take you off the applicable list. We reserve the right to send you certain account and legal communications relating to the applicable Mashery service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
+You can access and modify the account information you provide us by signing in to your "My Account" page within the applicable Mashery service. Should you no longer wish to receive certain communications from us, you may (a) follow the unsubscribe instructions included in the communications you receive, or (b) send us an email at privacy AT mashery [dot] com with "unsubscribe" in the subject line, and we will take you off the applicable list. We reserve the right to send you certain account and legal communications relating to the applicable Mashery service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
 
 #### 7\. Links to Other Internet Sites
 
