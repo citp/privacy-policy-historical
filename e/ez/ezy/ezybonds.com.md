@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ezybonds.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150710id_/http%3A//ezybonds.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezybonds.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605054329id_/http%3A//ezybonds.com/privacy.asp) for the most accurate reproduction.*
 
 # Ezybonds Global Payments
+
+[**Return to home page**](http://www.ezybonds.com/)
 
 Privacy Policy
 
@@ -29,4 +31,4 @@ Changing Information
 You can update your account information in the personal details section of the Ezyaccount web site.
 
 Further Questions  
-If you have any questions about your privacy or this privacy statement, please email us at [admin@ezybonds.com](mailto:admin@ezybonds.com)
+If you have any questions about your privacy or this privacy statement, please email us at [support@ezybonds.com](mailto:support@ezybonds.com)
