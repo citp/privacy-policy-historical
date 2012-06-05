@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090146id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605040409id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,3 +77,5 @@ IN NO EVENT SHALL STEVEMADDEN.COM, THE STEVE MADDEN STORES OR ANY OF THEIR AFFIL
 
 **Applicable Law**   
 These Terms of Use will be governed and interpreted pursuant to the laws of the State of New York, notwithstanding any conflicts of law. You specifically consent to personal jurisdiction in New York in connection with any dispute between you and us. The parties to these Terms of Use each agree that the exclusive venue for any dispute between the parties arising out of or relating to these Terms of Use will be in the state and federal courts in New York City (Manhattan), New York. If any part of these Terms of Use is unlawful, void, or unenforceable, that part will be deemed severable and will not affect the validity or enforceability of any remaining provisions. These Terms of Use constitute the entire agreement relating to this subject matter. Notwithstanding the foregoing, any additional terms and conditions on this site will govern the items to which they apply. STEVEMADDEN may revise this Privacy Policy at any time.
+
+**Last modified: March 19, 2012**
