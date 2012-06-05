@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kpoplyrics.net privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201025652id_/http%3A//www.kpoplyrics.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpoplyrics.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605232651id_/http%3A//www.kpoplyrics.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | KPop Lyrics
-
-[ Send Ringtones to your Cell ](http://www.ringtonematcher.com/go/?sid=WNLVros&artist=&song=)
 
 **Privacy Policy for www.kpoplyrics.net**
 
