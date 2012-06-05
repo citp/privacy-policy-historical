@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakemailgenerator.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229064208id_/http%3A//www.fakemailgenerator.com/faq.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakemailgenerator.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605020022id_/http%3A//www.fakemailgenerator.com/faq.php) for the most accurate reproduction.*
 
 # FAQ - Fake Mail Generator
 
@@ -11,10 +11,6 @@ The Fake Mail Generator is a website that allows you to circumvent email confirm
 ###  Why is it called the Fake Mail Generator?
 
 This site is an extension of the [Fake Name Generator](http://www.fakenamegenerator.com/ "Fake Name Generator"), which generates fake names, addresses, and other information. The name of this site was chosen to match its parent site. 
-
-### Isn't this a rip-off of Mailinator, 2Prong, and other sites?
-
-This concept of this website isn't a unique idea, and the original code was written by another person and open sourced. So yes, its a rip-off. 
 
 ### How does this site make money?
 
