@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121015352id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605103202id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Free Stuff Times
 
 Your privacy is very important to Freestufftimes. Accordingly, Freestufftimes has implemented this Privacy Policy to inform you, the user, of the information that Freestufftimes collects from you, how Freestufftimes collects this information, and what Freestufftimes’ does with it after it is collected. By using the Freestufftimes.com Web Site you are accepting the practices described in this policy. If you have any questions or comments regarding this Privacy Policy, please contact Freestufftimes at: webmaster@Freestufftimes.com
 
