@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylace.in privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205023515id_/http%3A//mylace.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylace.in privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605111949id_/http%3A//mylace.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLace.in
 
