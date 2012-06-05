@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011226id_/http%3A//www.masnsports.com/masn_news_information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606003150id_/http%3A//www.masnsports.com/masn_news_information/privacy-policy.html) for the most accurate reproduction.*
 
 # MASN News & Information - Orioles, Nationals, Ravens on MASNsports.com
 
@@ -28,7 +28,7 @@ We will not share your Personal Data with any third party unless we first notify
 
 **Your Ability to Choose**
 
-When you provide us with your Personal Data on the MASN Site, you can let us know that you do not wish to receive our online newsletter or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, by contacting us via email at [info@masn.tv](mailto:info@masn.tv). 
+When you provide us with your Personal Data on the MASN Site, you can let us know that you do not wish to receive our online newsletter or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, by contacting us via email at [info@masnstudios.com](mailto:info@masn.tv). 
 
 **Children**
 
@@ -40,8 +40,8 @@ The Personal Data we collect about you is stored on a secure, password protected
 
 **Updating Your Data**
 
-To update your Personal Data or to make corrections, you can do so by sending us the update via email to [info@masn.tv](mailto:info@masn.tv). 
+To update your Personal Data or to make corrections, you can do so by sending us the update via email to [info@masnstudios.com](mailto:info@masn.tv). 
 
 **Comments and Questions**
 
-If you have any questions, comments or concerns about this Online Privacy Policy or our data collection practices or to request that we delete your Personal Data, you can contact us via email at [info@masn.tv](mailto:info@masn.tv).
+If you have any questions, comments or concerns about this Online Privacy Policy or our data collection practices or to request that we delete your Personal Data, you can contact us via email at [info@masnstudios.com](mailto:info@masn.tv).
