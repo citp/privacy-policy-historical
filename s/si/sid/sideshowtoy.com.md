@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110111346id_/http%3A//www.sideshowtoy.com%3Fpage_id%3D4492%26ref%3Dfooter%26privacy%26helpdesk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606012257id_/http%3A//www.sideshowtoy.com%3Fpage_id%3D4492%26ref%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sideshow Collectibles
 
@@ -14,7 +14,7 @@ We use credit card processing companies to bill users for goods and services. Th
 
 ### Security
 
-This website takes every precaution to protect our users’ information. When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.
+This website takes every precaution to protect our users' information. When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
 ### Links
 
