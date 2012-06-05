@@ -1,317 +1,47 @@
-<!--The following is the downloaded HTML source of the crimsontrace.com privacy policy that was archived on 2007-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071103180612id_/http%3A//www.crimsontrace.com/default.asp%3Fid%3D672) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crimsontrace.com privacy policy that was archived on 2012-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605164409id_/http%3A//www.crimsontrace.com/privacy-statement.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>Crimson Trace Lasergrips - Pistol laser sights for personal protection, law enforcement, recreational shooters, military and AR-15</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<link href="include/style.css" type="text/css" rel="stylesheet">
-<link href="include/products.css" type="text/css" rel="stylesheet">
-<link rel="short icon" type="image/ico" href="favicon.ico">
-
-<!-- Flash Detection -->
-<script src="/include/flash_ie_activecontentfix.js" language="Javascript1.2" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript">
-	<!--
-	var requiredMajorVersion = 8;
-	var requiredMinorVersion = 0;
-	var requiredRevision = 0;
-	// -->
-</script>
-
-
-<script language="javascript" src="include/js.js" type="text/javascript"></script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-// used to hide blocks of HTML.
-function hideElement(ElementId)
-{
-	document.getElementById(ElementId).style.display = "none";
-}
-
-function sendVars() 
-{
-	if (document.forms[0].file1.value != "") 
-	{
-	
-	}
-}
-
-// Add Items to the form.
-function getQuotedNum( Obj )
-{
-	var QuoteRowCount = 1;
-	
-	// Get the parent table or return early.
-	IsTable = false;
-	limit = 0;
-	while( ! IsTable )
-	{
-		limit += 1;
-		//if( Obj = Obj.parentElement )
-		if( document.getElementById( Obj ) )
-		{
-			Obj = document.getElementById( Obj );
-		}
-		if( Obj = Obj.parentNode )
-		{
-			if( Obj.tagName == "TBODY" )
-			{
-				IsTable = true;
-			}
-			else if( Obj.tagName == "BODY" )
-			{
-				return;
-			}
-		}
-		else
-		{
-			return;
-		}
-		// put a counter limit so this doesn't loop forever.
-		if( limit > 12 )
-		{
-			return;
-		}
-	}
-	// Hopefully find the last Quoted row.
-	for( i = 0; i < Obj.rows.length; i++ )
-	{
-		if( Obj.rows[i].id.match(/^quoted/) )
-		{
-			QuoteRowCount += 1;
-		}
-	}
-	return QuoteRowCount - 1;
-}
-
-function initQuoteEditors()
-{
-	var count;
-	count = 1;
-	count = getQuotedNum('quoted01');
-	
-	for( i = 1; i < count + 1; i++ )
-	{
-		FormattedNum = i;
-		if( i < 10 )
-		{
-			FormattedNum = "0" + i;
-		}
-		
-		initEditorCustom('quotefield' + FormattedNum);
-	}
-}
-
-function addQuoteRow( Obj )
-{
-	var QuoteRowCount = 1;
-	
-	// Get the parent table or return early.
-	IsTable = false;
-	limit = 0;
-	while( ! IsTable )
-	{
-		limit += 1;
-		//if( Obj = Obj.parentElement )
-		if( Obj = Obj.parentNode )
-		{
-			if( Obj.tagName == "TBODY" )
-			{
-				IsTable = true;
-			}
-			else if( Obj.tagName == "BODY" )
-			{
-				return;
-			}
-		}
-		else
-		{
-			return;
-		}
-		// put a counter limit so this doesn't loop forever.
-		if( limit > 12 )
-		{
-			return;
-		}
-	}
-	// Hopefully find the last Quoted row.
-	LastQuotedRowNum = false;
-	for( i = 0; i < Obj.rows.length; i++ )
-	{
-		if( Obj.rows[i].id.match(/^quoted/) )
-		{
-			QuoteRowCount += 1;
-			LastQuotedRowNum = i;	// This is the table row to add the new row after.
-		}
-	}
-	QuotedRowNum = QuoteRowCount;
-	if( QuotedRowNum < 10 )
-	{
-		QuotedRowNum = "0" + QuotedRowNum;
-	}
-
-	// Have table and row num, so add the new row.
-	if( LastQuotedRowNum )
-	{
-		tr = Obj.insertRow( LastQuotedRowNum + 1 );
-		tr.setAttribute("id", "quoted" + QuotedRowNum);
-		td = tr.insertCell( tr.cells.length );
-		td.setAttribute("className","formlabel");
-		td.setAttribute("class","formlabel");
-		td.innerHTML = "<strong>Quoted Snippet " + QuoteRowCount + "</strong>";
-		td = tr.insertCell( tr.cells.length );
-		//td.innerHTML = "<textarea cols=\"58\" rows=\"3\" name=\"quotefield" + QuotedRowNum + "\" id=\"quote" + QuotedRowNum + "\"></textarea><br />";
-		td.innerHTML = "<table border=\"1\"><tr><td><textarea id=\"quotefield" + QuotedRowNum + "\" name=\"quotefield" + QuotedRowNum + "\" style=\"width: 370px;\" rows=\"8\" cols=\"80\"></textarea></td></tr></table>";
-		initEditorCustom( "quotefield" + QuotedRowNum );
-	}
-}
-
-function addAttachmentRow( Obj )
-{
-	var AttachmentRowCount = 1;
-	
-	// Get the parent table or return early.
-	IsTable = false;
-	limit = 0;
-	while( ! IsTable )
-	{
-		limit += 1;
-		//if( Obj = Obj.parentElement )
-		if( Obj = Obj.parentNode )
-		{
-			if( Obj.tagName == "TBODY" )
-			{
-				IsTable = true;
-			}
-			else if( Obj.tagName == "BODY" )
-			{
-				return;
-			}
-		}
-		else
-		{
-			return;
-		}
-		// put a counter limit so this doesn't loop forever.
-		if( limit > 12 )
-		{
-			return;
-		}
-	}
-	// Hopefully find the last Quoted row.
-	LastAttachmentRowNum = false;
-	for( i = 0; i < Obj.rows.length; i++ )
-	{
-		if( Obj.rows[i].id.match(/^attachmentrowd/) )
-		{
-			AttachmentRowCount += 1;
-			LastAttachmentRowNum = i;	// This is the table row to add the new row after.
-		}
-	}
-	AttachmentRowNum = AttachmentRowCount;
-	if( AttachmentRowNum < 10 )
-	{
-		AttachmentRowNum = "0" + AttachmentRowNum;
-	}
-
-	// Have table and row num, so add the new row.
-	if( LastAttachmentRowNum )
-	{
-		tr = Obj.insertRow( LastAttachmentRowNum + 1 );
-		tr.setAttribute("id", "attachmentrowd" + AttachmentRowNum);
-		td = tr.insertCell( tr.cells.length );
-		td.setAttribute("className", "formlabel");
-		td.setAttribute("class", "formlabel");
-		td.innerHTML = "<strong>Attachment " + AttachmentRowCount + "</strong>";
-		td = tr.insertCell( tr.cells.length );
-		// disable the file type field for now.
-		//td.innerHTML = "<input type=\"text\" style=\"width: 250px;\" id=\"attachment" + AttachmentRowCount + "\" name=\"attachment" + AttachmentRowCount + "\" value=\"\">&nbsp;&nbsp;<a href=\"javascript:steerburger('default.asp?app=press&upload=true&field=attachment" + AttachmentRowCount + "','upload');\">Browse</a><br /><div align=\"right\">Type<select name=attachmenttype000><option name=\"pdfscan\">Scan (PDF)</option><option name=\"imgjpeg\">Image (JPEG)</option><option value=\"imggif\">Image (GIF)</option><option value=\"imgpng\">Image (PNG)</option></select></div><hr />";
-		td.innerHTML = "<input type=\"text\" style=\"width: 250px;\" id=\"attachment" + AttachmentRowCount + "\" name=\"attachmentfield" + AttachmentRowCount + "\" value=\"\">&nbsp;&nbsp;<a href=\"javascript:steerburger('default.asp?app=press&upload=true&field=attachment" + AttachmentRowCount + "','upload');\">Browse</a><br />";
-	}
-}
-
-//-->
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy</title>
+	<link rel="stylesheet" href="skin/frontend/enterprise/crimsontrace/css/legal.css">
 </head>
+<body style="background:#fff;">
+	
+	<div class="legal">
+	
+	<h1>Privacy Policy</h1>
 
-<body onload="preload();">
-<div align="center"> 
-	<table border="0" cellpadding="0" cellspacing="0" width="740px;">
-	<tbody><tr>
-		<td colspan="5" width="740" height="96" background="images/logotitle.gif" valign="top" align="right" onclick="parent.location='default.asp'">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr><td width="100%"></td><td><a valign="center" href="default.asp?a=dealer"><img border="0" src="images/arrowlow.gif"></a></td><td nowrap="" class="topbar"><a valign="center" href="default.asp?a=dealer">Find a dealer</a></td><td class="topbar">&nbsp;&nbsp;&nbsp;&nbsp;</td><td><a valign="center" href="default.asp?id=500"><img border="0" src="images/arrowlow.gif"></a></td><td nowrap="" class="topbar"><a valign="center" href="default.asp?id=500">Get a catalog</a></td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td><a valign="center" href="#" onclick="window.open('https://www.paypal.com/cart/display=1&amp;business=netsales%40crimsontrace.com','cartwin','width=600,height=400,scrollbars,location,resizable,status');"><img border="0" src="images/arrowlow.gif"></a></td><td nowrap="" class="topbar"><a valign="center" href="#" onclick="window.open('https://www.paypal.com/cart/display=1&amp;business=netsales%40crimsontrace.com','cartwin','width=600,height=400,scrollbars,location,resizable,status');">View shopping cart</a></td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-				<tr><td height="100%" colspan="9">&nbsp;</td></tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="5" width="740px;" height="5px" background="images/doth.gif" style="background-repeat: repeat-x;"></td>
-	</tr>		
-		<tr>
-			<td colspan="5" height="18px;" width="740px;" valign="top">
-				<table border="0" cellpadding="0" cellspacing="0" width="740px;">
-					<tbody><tr>
-			<td height="18px;" class="nav" valign="bottom" style="color:#" nowrap=""><a href="default.asp">Home</a></td><td height="18px;" class="nav" valign="bottom" style="color:#828282" nowrap="" onmouseover="showLayer(this, 'Products', 0, );this.style.background='#EEEEEE';this.style.color='#B02138';this.style.cursor='hand'" onmouseout="hideLayer('Products');this.style.color='#828282';this.style.background='#FFFFFF';this.style.cursor='default'"><div id="Products" class="menu" onmouseover="showLayer(this, 'Products', 0, 0);" onmouseout="hideLayer('Products');"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=505'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Overview</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=13'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">1911</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=509'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">AR-15</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=510'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Beretta</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=522'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Browning</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=752'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">CZ</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=513'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Glock</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=514'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Ruger</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=517'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Sig Sauer</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=518'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Smith &amp; Wesson</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=793'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Springfield Armory</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=519'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Taurus</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=791'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Bowtech &amp; Diamond Archery</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=755'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Apparel</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=581'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Future Model Request</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=756'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap=""></td></tr></tbody></table></div><span onclick="parent.location='default.asp?id=505'">Products</span></td><td height="18px;" class="nav" valign="bottom" style="color:#828282" nowrap="" onmouseover="showLayer(this, 'Applications', 0, );this.style.background='#EEEEEE';this.style.color='#B02138';this.style.cursor='hand'" onmouseout="hideLayer('Applications');this.style.color='#828282';this.style.background='#FFFFFF';this.style.cursor='default'"><div id="Applications" class="menu" onmouseover="showLayer(this, 'Applications', 0, 0);" onmouseout="hideLayer('Applications');"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=17'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Overview</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=586'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Personal Defense</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=589'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Law Enforcement</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=590'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Military</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=591'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Hunting / Recreation</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=592'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Marksmanship Training Tool</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=594'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Aging Eyesight</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=548'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Female Shooters</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=678'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Customer Testimonials</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=728'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">NRA Trainers</td></tr></tbody></table></div><span onclick="parent.location='default.asp?id=17'">Applications</span></td><td height="18px;" class="nav" valign="bottom" style="color:#828282" nowrap="" onmouseover="showLayer(this, 'Support', 0, );this.style.background='#EEEEEE';this.style.color='#B02138';this.style.cursor='hand'" onmouseout="hideLayer('Support');this.style.color='#828282';this.style.background='#FFFFFF';this.style.cursor='default'"><div id="Support" class="menu" onmouseover="showLayer(this, 'Support', 0, 0);" onmouseout="hideLayer('Support');"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=25'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Overview</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=632'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Contact Us</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=500'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Get a Catalog</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=710'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Monthly Winners</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=676'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Locate a dealer</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=634'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Dealer Support</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=635'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Downloads</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=673'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Frequently Asked Questions</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=638'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Future Model Request Form</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=639'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">International Customers</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=685'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Industry Partners</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=640'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Join Our Newsletter</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=642'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Warranty Registration</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=672'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Privacy Policy</td></tr></tbody></table></div><span onclick="parent.location='default.asp?id=25'">Support</span></td><td height="18px;" class="nav" valign="bottom" style="color:#828282" nowrap="" onmouseover="showLayer(this, 'Training', 0, );this.style.background='#EEEEEE';this.style.color='#B02138';this.style.cursor='hand'" onmouseout="hideLayer('Training');this.style.color='#828282';this.style.background='#FFFFFF';this.style.cursor='default'"><div id="Training" class="menu" onmouseover="showLayer(this, 'Training', 0, 0);" onmouseout="hideLayer('Training');"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=3'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Overview</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=668'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Ask the Experts</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=659'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Video Downloads</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=660'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">PDF Downloads</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=661'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Order training videos/DVD's</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=698'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Other Resources</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=742'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Trainer Purchase Program</td></tr></tbody></table></div><span onclick="parent.location='default.asp?id=3'">Training</span></td><td height="18px;" class="nav" valign="bottom" style="color:#828282" nowrap="" onmouseover="showLayer(this, 'About Us', 0, );this.style.background='#EEEEEE';this.style.color='#B02138';this.style.cursor='hand'" onmouseout="hideLayer('About Us');this.style.color='#828282';this.style.background='#FFFFFF';this.style.cursor='default'"><div id="About Us" class="menu" onmouseover="showLayer(this, 'About Us', 0, 0);" onmouseout="hideLayer('About Us');"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=546'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Press Releases</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=582'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Join Our Newsletter</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=729'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Careers</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=786'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">In The Media</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=732'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Company</td></tr><tr><td width="100%" align="left" class="pop" style="background-color: #EEEEEE;" onclick="parent.location='default.asp?id=734'" onmouseover="this.style.color='#B02138';" onmouseout="this.style.color='#666666';" nowrap="">Contact Us</td></tr></tbody></table></div><span onclick="parent.location='default.asp?id=546'">About Us</span></td><td height="18px;" class="nav" valign="bottom" style="color:#828282" nowrap=""><a href="http://forums.crimsontrace.com" target="_blank">Forums</a></td>
-						<td class="nav" width="100%"></td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr><td colspan="5" width="740px;" height="7px;" align="right" style="background-color: #B02138;"></td></tr>
-		<tr><td colspan="5" width="740px;" height="3px;" align="right" style="background-color: #FFFFFF;"></td></tr>
+	<p>This privacy policy involves the Crimson Trace Corporation website, which include but are not limited to CrimsonTrace.com, CTC Defense.com, CTCLightguard.com, CTCCrimsonClub.com (among others). Crimson Trace Corporation collects user email addresses for the purpose of conducting its own marketing and communication research, as well as its use as a primary account designator.</p>
+
+	<p><b>Information Collection &amp; Sharing</b><br>
+	Crimson Trace is the sole owner of the information collected on its website(s).  Crimson Trace Corporation does not, under any circumstances, share personal information with third parties.</p>
+	
+	<p><b>Log Files</b><br>
+	Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.</p>
+	
+	<p><b>Legal Disclaimer</b><br>
+	Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website(s).</p>
+	
+	<p><b>Choice/Opt-out</b><br>
+	Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for information. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by sending an unsubscribe request to <a href="mailto:customer@crimsontrace.com">customer@crimsontrace.com</a>.</p>
+	
+	<p>Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.</p>
+	
+	<p><b>Security</b><br>
+	This Web site takes every precaution to protect our users' information. When users submit sensitive information via the website(s), their information is protected both online and off-line. The servers that store personally identifiable information are in a secure environment.</p>
+	
+	<p><b>Contact Information</b><br>
+	Users who have questions regarding our privacy policy, may contact us at:</p>
+	
+	<p>Phone: 503.783.5333<br>
+	Fax: 503.783.5334<br>
+	9780 SW Freeman Dr.<br>
+	Wilsonville, OR 97070<br>
+	<a href="http://www.crimsontrace.com" target="_blank">www.crimsontrace.com</a></p>
+	
+	</div>
 	
 
-	<tr><td colspan="2" width="100%">
-	<table border="0" cellpadding="0" cellspacing="0" width="740px;" height="100%" style="background:#FFFFFF;">
-		<tbody><tr>
-			
-				<td class="leftstyle" style="padding-left: 0px;padding-right: 0px;" height="368" width="244" align="left" valign="top"><br>
-				<form class="topnav" style="padding:0px; padding-bottom: 5px;border:0px; margin:0px;" method="get" action="default.asp" name="search" width="244"><input class="search" name="search" type="text">&nbsp;&nbsp;<input type="submit" class="topnav" name="submit" value="Search"></form>
 
-
-<table width="244" height="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="redarrow" align="left" valign="center">Support</td></tr><tr><td width="100%" height="5px;" background="images/doth.gif" style="background-repeat: repeat-x;"></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=25'"><a href="default.asp?id=25">Overview</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=632'"><a href="default.asp?id=632">Contact Us</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=500'"><a href="default.asp?id=500">Get a Catalog</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=710'"><a href="default.asp?id=710">Monthly Winners</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=676'"><a href="default.asp?id=676">Locate a dealer</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=634'"><a href="default.asp?id=634">Dealer Support</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=635'"><a href="default.asp?id=635">Downloads</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=673'"><a href="default.asp?id=673">Frequently Asked Questions</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=638'"><a href="default.asp?id=638">Future Model Request Form</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=639'"><a href="default.asp?id=639">International Customers</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=685'"><a href="default.asp?id=685">Industry Partners</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=640'"><a href="default.asp?id=640">Join Our Newsletter</a></td></tr><tr><td class="leftnav" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'" onclick="parent.location='default.asp?id=642'"><a href="default.asp?id=642">Warranty Registration</a></td></tr><tr><td class="leftnavsel" onclick="parent.location='default.asp?id=672'" onmouseover="this.style.background='#C4C4C4';this.style.cursor='hand'" onmouseout="this.style.background='#E6E6E6';this.style.cursor='default'"><a href="default.asp?id=672">Privacy Policy</a></td></tr><tr><td height="100%"></td></tr></tbody></table>
-						</td>
-						<td background="images/dot.gif" width="20" height="100%" style="background-repeat: repeat-y;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		
-			<td class="main" style="margin: 0px;border: 0px;padding: 0px;" height="100%" width="100%" valign="top">
-				<br><table border="0" padding="0" spacing="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
-					<tbody><tr><td align="left" height="20px;" valign="top"><a style="font-size: 11px;text-decoration: none;" class="breadcrumb" href="default.asp">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;<span style="font-size: 11px;">Support&nbsp;&nbsp;/&nbsp;&nbsp;Privacy Policy</span><br></td></tr>
-					<tr><td width="100%;" height="5px" background="images/doth.gif" style="background-repeat: repeat-x;"></td></tr>	
-
-					<tr>
-						<td width="464px;" align="left" class="articletitle" height="56px">
-Privacy Policy
-						 </td>
-					</tr><tr>
-						<td colspan="2" width="100%" height="100%" align="left" class="article" valign="top" style="padding-left: 0px;">
-<p>This privacy statement covers the site <a>www.crimsontrace.com</a>. Crimson Trace Corporation collects user e-mails addresses only for the purposes of conducting its own marketing and communication research. No further information is collected, nor is any information whatsoever shared with third parties.<br><br>If you do not wish to receive electronic mailings, you may discontinue receiving these by sending your request to <a href="mailto:customer@crimsontrace.com">customer@crimsontrace.com</a>.<br><br><span style="FONT-WEIGHT: bold"></span><br><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Information Collection</span><br>Crimson Trace Corporation is the sole owner of the information collected on <a>www.crimsontrace.com</a>. Crimson Trace Corporation collects information from our users at a few different points on our Web site.<br><br><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Log Files</span><br>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Urchin that uses log files to analyze user movement.<br><br style="FONT-WEIGHT: bold"><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Legal Disclaimer</span><br>Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.<br><br>We DO NOT Share Personal Information with Third Parties<br><br style="FONT-WEIGHT: bold"><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Business Transitions</span><br>In the event Crimson Trace Corporation goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.<br><br style="FONT-WEIGHT: bold"><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Choice/Opt-out</span><br>Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.<br><br>Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by sending an unsubscribe request to  <a href="mailto:customer@crimsontrace.com">customer@crimsontrace.com</a>. </p><p><br>Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.<br><br style="FONT-WEIGHT: bold"><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Surveys &amp; Contests</span><br>Our site occasionally requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information such as name and shipping address, and demographic information such as zip code. Contact information will be used to notify the winners and award prizes. Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.<br><br><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Security</span><br>This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. The servers that store personally identifiable information are in a secure environment.<br><br style="FONT-WEIGHT: bold"><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Notification of Changes</span><br>If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.<br><br style="FONT-WEIGHT: bold"><span style="FONT-WEIGHT: bold; FONT-STYLE: italic">Contact Information</span><br>If users have any questions or suggestions regarding our privacy policy, please contact us at:<br><br>Phone: 503.627.9992<br>Fax: 503.627.0166<br>8089 SW Cirrus Drive<br>Beaverton, OR 97008<br><a href="/">http://www.crimsontrace.com/</a><br><br></p><br></td><td width="100px;" height="100%" valign="top" class="blankspace">&nbsp;</td></tr>
-						
-					
-				</tbody></table>
-			</td>
-		</tr>
-			<tr><td colspan="3" width="740px;" height="3px;" align="right" style="background-color: #FFFFFF;">&nbsp;</td></tr>
-			<tr>	<td colspan="3" width="740px;" height="5px" background="images/doth.gif" style="background-repeat: repeat-x;"></td></tr>	
-			<tr><td colspan="3" width="740px;" height="7px;" align="right" style="background-color: #B02138;"></td></tr>
-		<tr><td colspan="3" class="disclaimer" align="left">Copyright ©2005 Crimson Trace, Inc.&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;<strong>To find a dealer or get a catalog, please call <font style="color:#B02138">1-800-442-2406</font></strong>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;<a href="default.asp?id=672">Privacy Policy</a>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;<a href="mailto:customer@crimsontrace.com">Contact Us</a>&nbsp;&nbsp;&nbsp;</td></tr>
-<tr><td colspan="3" class="disclaimer" height="5"></td></tr>
-	</tbody></table>
-
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-521034-1";
-urchinTracker();
-</script>
-
-
-
-
-
-</td></tr></tbody></table></div></body></html>
+</body></html>
