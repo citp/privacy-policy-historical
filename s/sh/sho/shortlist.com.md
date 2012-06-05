@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229210047id_/http%3A//www.shortlist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605101619id_/http%3A//www.shortlist.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ShortList Magazine
 
