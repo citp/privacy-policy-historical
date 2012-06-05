@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwf.ca privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208022418id_/http%3A//wwf.ca/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwf.ca privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605025903id_/http%3A//wwf.ca/privacy_security) for the most accurate reproduction.*
 
 # WWF Canada - Privacy
 
