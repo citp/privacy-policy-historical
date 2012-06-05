@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myhammer.co.uk privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206161127id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myhammer.co.uk privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606012841id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -17,8 +17,8 @@
 		<meta name="author" content="MY-HAMMER Corporation">
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
-		<link rel="Shortcut Icon" href="http://a.myhcdn.net/live/icons/favicon.ico">
-		<link rel="stylesheet" href="http://a.myhcdn.net/css/default.css.php?partnerId=7" type="text/css">
+		<link rel="Shortcut Icon" href="http://images01.myhammer.co.uk/live/icons/favicon.ico">
+		<link rel="stylesheet" href="http://images01.myhammer.co.uk/css/default.css.php?partnerId=7" type="text/css">
 
 				
         <style type="text/css">
@@ -57,18 +57,18 @@
         
 		
 		
-		<link href="http://b.myhcdn.net/v3/csscomb/header|v283|uk" rel="stylesheet" type="text/css" media="screen, projection">
+		<link href="http://images01.myhammer.co.uk/v3/csscomb/header|v330|uk" rel="stylesheet" type="text/css" media="screen, projection">
 
 		
 		
 		<script type="text/javascript">
 			document.canSwitchUsertype = {"ag":false,"an":true};
-		</script>
-		<script type="text/javascript">var time_start=(new Date()).getTime()</script> 		<script type="text/javascript" src="http://a.myhcdn.net/v3/jscomb/mhJQuery-1.4.2|mhHeaderPreGrid|createGeoSysZipCode|adsense|v152|uk"></script>
-		<script type="text/javascript" src="http://a.myhcdn.net/js/global.js.php"></script>
+			var time_start = (new Date()).getTime(); 		</script>
+		<script type="text/javascript" src="http://images01.myhammer.co.uk/v3/jscomb/mhJQuery-1.4.2|mhHeaderPreGrid|createGeoSysZipCode|adsense|v162|uk"></script>
+		<script type="text/javascript" src="http://images01.myhammer.co.uk/js/global.js.php"></script>
 
 		
-        <script type="text/javascript" src="http://c.myhcdn.net/v3/jscomb/omn_uk|v152|uk"></script>
+        <script type="text/javascript" src="http://images01.myhammer.co.uk/v3/jscomb/omn_uk|v162|uk"></script>
 <!-- Omniture -->
 <!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
 <script type="text/javascript">//<![CDATA[
@@ -83,7 +83,7 @@ s.purchaseID=""
 s.transactionID=""
 
 s.pageName="privacy"
-s.server="webnode120"
+s.server="webnode9"
 s.channel="www.myhammer.co.uk"
 s.pageType=""
 
@@ -191,169 +191,184 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		<script type="text/javascript">
 			/* <![CDATA[ */
 			
-				$("#myAccountBox").hover(function() {
-					$("#myAccountBox").css("background-color","#CCDDEB");
-				}, function() {
-					$("#myAccountBox").css("background-color","#EBF2F7");
-				});
-				$('.postJobHeaderLink').attr('href', $('.postJobHeaderLink').attr('href') + '&listingReason=StartProject&omniturePagename=NewHeaderNavigation&eVar42=NewHeaderNavigation_PostJob');
+				(function() {
+					var $LINK_JOB_POST = $('#LINK_JOB_POST');
+					$LINK_JOB_POST.attr('href', $LINK_JOB_POST.attr('href') + '&listingReason=StartProject&omniturePagename=NewHeaderNavigation&eVar42=NewHeaderNavigation_PostJob');
+				})();
 			
 			/* ]]> */
 		</script>
 	</div>
 </div>
+<style type="text/css">
+	#nyroModalContent.showScrollbars {
+		overflow-y: auto !important;
+		overflow-x: hidden !important;
+	}
+
+	#nyroModalContent.noScrollbars {
+		overflow-y: hidden !important;
+		overflow-x: hidden !important;
+	}
+</style>
 <script type="text/javascript">
-mhLayer = {
-	config: {"aOnloadLayers":[],"aOnloadHandles":[],"aLayerHandles":[],"aLoadedJavascript":["jqueryNyroModal"],"aLoadedCss":["mhHeaderHomepage","layer"]},
-	layer: [],
-	eventListeners: {},
-	layerAjaxUrl: "/v3/base/ajax/helper-layer.php",
-	bind: function(eventName, callback) {
-		if(!this.eventListeners[eventName])	this.eventListeners[eventName] = [];
-		this.eventListeners[eventName].push(callback);
-	},
-	unbind: function(eventName) {
-		this.eventListeners[eventName] = [];
-	},
-	trigger: function(eventName) {
-		if(!this.eventListeners[eventName]) return;
-		$.each(this.eventListeners[eventName], function() {
-			this();
-		});
-	},
-	showLayer: function(sLayerName, modal, minHeight, parameter) {
+/* <![CDATA[ */
+(function(doc) {
+	var $body = $('body'),
+		oldLayerInnerHeight = 0,
+		oldLayerOuterHeight = 0,
+		oldWindowHeight = 0;
 
-		if (!modal) modal = false;
-		if (!minHeight) minHeight = 200;
-		if (!parameter) parameter = {};
-		var disableCaching = false;
-		for(i in parameter) {
-			disableCaching = true;
-		}
-
-		if (typeof mhLayer.layer[sLayerName] == "undefined") {
-			mhLayer.loadContent(sLayerName, parameter, disableCaching, function(sHtmlCode) {
-				mhLayer.displayLayerWithHtml(sHtmlCode, modal, minHeight);
+	mhLayer = {
+		config: {"aOnloadLayers":[],"aOnloadHandles":[],"aLayerHandles":[],"aLoadedJavascript":["jqueryNyroModal"],"aLoadedCss":["mhHeaderHomepage","layer"]},
+		layer: [],
+		eventListeners: {},
+		layerAjaxUrl: "/v3/base/ajax/helper-layer.php",
+		bind: function(eventName, callback) {
+			if(!this.eventListeners[eventName])	this.eventListeners[eventName] = [];
+			this.eventListeners[eventName].push(callback);
+		},
+		unbind: function(eventName) {
+			this.eventListeners[eventName] = [];
+		},
+		trigger: function(eventName) {
+			if(!this.eventListeners[eventName]) return;
+			$.each(this.eventListeners[eventName], function() {
+				this();
 			});
-		} else {
-			mhLayer.displayLayer(sLayerName, modal, minHeight);
-		}
-	},
-	showLayerByHandle: function(sLayerHandle, minHeight, parameter) {
-		aLayerConfig = mhLayer.config.aLayerHandles[sLayerHandle];
+		},
+		showLayer: function(sLayerName, modal, minHeight, parameter) {
 
-		if(!aLayerConfig) console.log('Layer Handle not found: ' + sLayerHandle);
-
-        parameter = $.extend({}, aLayerConfig.parameters, parameter);
-        
-		mhLayer.showLayer(aLayerConfig.name, aLayerConfig.modal, minHeight, parameter);
-	},
-	loadContent: function(sLayerName, parameter, disableCaching, successCallback){
-		if(!successCallback) successCallback = function() {};
-    
-		$.ajax({
-			url: mhLayer.layerAjaxUrl,
-			dataType: 'json',
-			data: {
-				layer: sLayerName,
-				'loadedJavascript[]': mhLayer.config.aLoadedJavascript,
-				'loadedCss[]': mhLayer.config.aLoadedCss,
-				'parameter': parameter
-			},
-			success: function(response, textStatus, XMLHttpRequest) {
-				if (response.sRedirectUrl) {
-					document.location.href = response.sRedirectUrl;
-				} else if (response.sData) {
-					if (!disableCaching) mhLayer.layer[sLayerName] = response.sData;
-					successCallback(response.sData);
-				}
+			if (!modal) modal = false;
+			if (!minHeight) minHeight = 200;
+			if (!parameter) parameter = {};
+			var disableCaching = false;
+			for(i in parameter) {
+				disableCaching = true;
 			}
-		});
-	},
-	displayLayer: function(sLayerName, modal, minHeight){
-		this.displayLayerWithHtml(mhLayer.layer[sLayerName], modal, minHeight);
-	},
-	displayLayerWithHtml: function(sHtmlCode, modal, minHeight){
-		$.nyroModalSettings({
-			
-		}, 'css', 'content');
 
-		$.nyroModalManual({
-			debug: false,
-			autoSizable: true,
-			resizable: true,
-			closeButton: '<a href="#" class="nyroModalClose" id="closeBut" title="Close" onclick="showUservoiceAds()">Close<\/a>', // Adding automaticly as the first child of #nyroModalWrapper
-			closeSelector: '.nyroModalClose',
-			modal: modal,
-			minHeight: minHeight,
-			bgColor: '#000',
-			content: sHtmlCode,
-			endShowContent: function(layer) {
-				mhLayer.trigger('layerReady');
-				mhLayer.unbind('layerReady');
-				$(layer.content).trigger('layerReady').unbind('layerRemoved');
-		        $("body").trigger("layerResize");
-				mhLayer.trigger('layerResized');
-			},
-			endRemove: function(layer) {
-				mhLayer.trigger('layerRemoved');
-				mhLayer.unbind('layerRemoved');
-				mhLayer.unbind('layerResized');
-				mhLayer.unbind('layerReady');
-				$(layer.content).trigger('layerRemoved').unbind('layerRemoved');
-			},
-			hideBackground: function(elts, settings, callback) {
-				elts.bg.fadeOut(300, function() {
-					mhLayer.trigger('allLayersRemoved');
+			if (typeof mhLayer.layer[sLayerName] == "undefined") {
+				mhLayer.loadContent(sLayerName, parameter, disableCaching, function(sHtmlCode) {
+					mhLayer.displayLayerWithHtml(sHtmlCode, modal, minHeight);
 				});
-
-                elts.bg.fadeOut(300, callback);
-
+			} else {
+				mhLayer.displayLayer(sLayerName, modal, minHeight);
 			}
+		},
+		showLayerByHandle: function(sLayerHandle, minHeight, parameter) {
+			aLayerConfig = mhLayer.config.aLayerHandles[sLayerHandle];
+
+			if(!aLayerConfig) console.log('Layer Handle not found: ' + sLayerHandle);
+
+			parameter = $.extend({}, aLayerConfig.parameters, parameter);
+
+			mhLayer.showLayer(aLayerConfig.name, aLayerConfig.modal, minHeight, parameter);
+		},
+		loadContent: function(sLayerName, parameter, disableCaching, successCallback){
+			if(!successCallback) successCallback = function() {};
+
+			$.ajax({
+				url: mhLayer.layerAjaxUrl,
+				dataType: 'json',
+				data: {
+					layer: sLayerName,
+					'loadedJavascript[]': mhLayer.config.aLoadedJavascript,
+					'loadedCss[]': mhLayer.config.aLoadedCss,
+					'parameter': parameter
+				},
+				success: function(response, textStatus, XMLHttpRequest) {
+					if (response.sRedirectUrl) {
+						doc.location.href = response.sRedirectUrl;
+					} else if (response.sData) {
+						if (!disableCaching) mhLayer.layer[sLayerName] = response.sData;
+						successCallback(response.sData);
+					}
+				}
+			});
+		},
+		displayLayer: function(sLayerName, modal, minHeight){
+			this.displayLayerWithHtml(mhLayer.layer[sLayerName], modal, minHeight);
+		},
+		displayLayerWithHtml: function(sHtmlCode, modal, minHeight){
+			$.nyroModalSettings({
+
+			}, 'css', 'content');
+
+			$.nyroModalManual({
+				debug: false,
+				autoSizable: true,
+				resizable: true,
+				closeButton: '<a href="#" class="nyroModalClose" id="closeBut" title="Close" onclick="mhLayer.showUservoiceAds();">Close<\/a>', // Adding automaticly as the first child of #nyroModalWrapper
+				closeSelector: '.nyroModalClose',
+				modal: modal,
+				minHeight: minHeight,
+				bgColor: '#000',
+				content: sHtmlCode,
+				endShowContent: function(layer) {
+					mhLayer.trigger('layerReady');
+					mhLayer.unbind('layerReady');
+					$(layer.content).trigger('layerReady').unbind('layerRemoved');
+					$body.trigger("layerResize");
+					mhLayer.trigger('layerResized');
+				},
+				endRemove: function(layer) {
+					mhLayer.trigger('layerRemoved');
+					mhLayer.unbind('layerRemoved');
+					mhLayer.unbind('layerResized');
+					mhLayer.unbind('layerReady');
+					$(layer.content).trigger('layerRemoved').unbind('layerRemoved');
+				},
+				hideBackground: function(elts, settings, callback) {
+					elts.bg.fadeOut(300, function() {
+						mhLayer.trigger('allLayersRemoved');
+					});
+
+					elts.bg.fadeOut(300, callback);
+
+				}
+			});
+		},
+		getWinSize: function(win) {
+			if(!win) win = window;
+			var pos = {x:0,y:0};
+
+			if(typeof win.innerWidth != "undefined"){
+				pos.w = win.innerWidth;
+				pos.h = win.innerHeight;
+			}else if(win.document.body){
+				pos.w = parseInt(win.document.body.clientWidth);
+				pos.h = parseInt(win.document.body.clientHeight);
+			}
+			return pos;
+		},
+		showUservoiceAds: function() {
+			$("#SkyScraper, #mf_sky").show();
+		}
+	};
+
+	$(doc).ready(function() {
+		$.each(mhLayer.config.aOnloadLayers, function() {
+			mhLayer.showLayer(this.name,  this.modal == 'true', false, this.parameters);
 		});
-	},
-	getWinSize: function(win) {
-        if(!win) win = window;
-        var pos = {x:0,y:0};
 
-        if(typeof win.innerWidth != "undefined"){
-            pos.w = win.innerWidth;
-            pos.h = win.innerHeight;
-        }else if(win.document.body){
-            pos.w = parseInt(win.document.body.clientWidth);
-            pos.h = parseInt(win.document.body.clientHeight);
-        }
-        return pos;
-    }
-};
+		$.each(mhLayer.config.aOnloadHandles, function() {
+			mhLayer.showLayerByHandle(this);
+		});
 
-$().ready(function() {
-	$.each(mhLayer.config.aOnloadLayers, function() {
-		mhLayer.showLayer(this.name,  this.modal == 'true', false, this.parameters);
+		$(window).resize(function() {
+			$body.trigger("layerResize");
+			mhLayer.trigger('layerResized');
+		});
+
 	});
 
-	$.each(mhLayer.config.aOnloadHandles, function() {
-		mhLayer.showLayerByHandle(this);
-	});
+	$body.live("layerResize", function() {
+		var $nyroModalContent = $('#nyroModalContent');
 
-	$(window).resize(function() {
-        $("body").trigger("layerResize");
-		mhLayer.trigger('layerResized');
-    });
-
-});
-
-(function() {
-	var oldLayerInnerHeight = 0;
-	var oldLayerOuterHeight = 0;
-	var oldWindowHeight = 0;
-	
-	$("body").live("layerResize", function() {
-
-		if ($("#nyroModalContent").is(":visible")) {
-			var layerInnerHeight = $("#nyroModalContent .infolayer-wrapper").outerHeight();
-			var layerOuterHeight = $("#nyroModalWrapper").outerHeight();
-			var windowHeight = mhLayer.getWinSize().h;
+		if ($nyroModalContent.is(":visible")) {
+			var layerInnerHeight = $nyroModalContent.find('.infolayer-wrapper').outerHeight(),
+				layerOuterHeight = $("#nyroModalWrapper").outerHeight(),
+				windowHeight = mhLayer.getWinSize().h;
 
 			if((oldLayerInnerHeight == layerInnerHeight) && (oldLayerOuterHeight == layerOuterHeight) && (oldWindowHeight == windowHeight)) return;
 
@@ -361,45 +376,31 @@ $().ready(function() {
 			oldLayerOuterHeight = layerOuterHeight;
 			oldWindowHeight = windowHeight;
 
-			$("#nyroModalContent").removeClass("showScrollbars").removeClass("noScrollbars");
+			$nyroModalContent.removeClass("showScrollbars").removeClass("noScrollbars");
 
 			if (layerOuterHeight > windowHeight) {
 				$.nyroModalSettings({
 					height: windowHeight
 				});
-				$("#nyroModalContent").addClass("showScrollbars");
+				$nyroModalContent.addClass("showScrollbars");
 			} else {
 				$.nyroModalSettings({
 					height: layerInnerHeight + 20
 				});
 			}
-
 		}
 	});
-})();
 
-$('.resizeLink').live("click", function() {
-    $("#nyroModalContent").addClass("noScrollbars");
-    window.setTimeout(function() {
-        $("body").trigger("layerResize");
-    }, 100);
-
-});
-
-
+	$('#PaymentSelectContainer').delegate('.resizeLink', 'click', function() {
+		$('#nyroModalContent').addClass("noScrollbars");
+		window.setTimeout(function() {
+			$body.trigger("layerResize");
+		}, 100);
+	});
+})(document);
+/* ]]> */
 </script>
-<style type="text/css">
-    #nyroModalContent.showScrollbars {
-        overflow-y: auto !important;
-        overflow-x: hidden !important;
-    }
-
-    #nyroModalContent.noScrollbars {
-        overflow-y: hidden !important;
-        overflow-x: hidden !important;
-    }
-</style>
-<script type="text/javascript" src="http://c.myhcdn.net/v3/jscomb/jqueryNyroModal|v152|uk"></script><link rel="stylesheet" href="http://a.myhcdn.net/v3/csscomb/mhHeaderHomepage|layer|v283|uk">
+<script type="text/javascript" src="http://images01.myhammer.co.uk/v3/jscomb/jqueryNyroModal|v162|uk"></script><link rel="stylesheet" href="http://images01.myhammer.co.uk/v3/csscomb/mhHeaderHomepage|layer|v330|uk">
 		</div>
 	
 		<div class="hr clear"><hr></div>
@@ -408,7 +409,7 @@ $('.resizeLink').live("click", function() {
 		    
      
 				<div id="context" style="padding-bottom: 200px;">
-			<script type="text/javascript" src="http://c.myhcdn.net/v3/jscomb/omniture|v152|uk"></script>
+			<script type="text/javascript" src="http://images01.myhammer.co.uk/v3/jscomb/omniture|v162|uk"></script>
 
 <div class="categories box box-blue clearfix">
 	<b class="top-left">﻿</b><b class="top-right">﻿</b>
@@ -432,49 +433,49 @@ $('.resizeLink').live("click", function() {
 																				<li>
 										<span>
 											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/plumbers-heating/">Plumbers, Heating</a>
-																							(338)
+																							(262)
 																					</span>
 									</li>
 																												<li>
 										<span>
 											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/carpenters-joiners-handymen/">Carpenters, Joiners, Handymen</a>
-																							(256)
-																					</span>
-									</li>
-																												<li>
-										<span>
-											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/electricians/">Electricians</a>
-																							(160)
-																					</span>
-									</li>
-																												<li>
-										<span>
-											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/painting-decorating/">Painter, Decorator</a>
-																							(70)
-																					</span>
-									</li>
-																												<li>
-										<span>
-											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/door-fitting-windows/">Windows, Door Fitting</a>
-																							(64)
+																							(243)
 																					</span>
 									</li>
 																												<li>
 										<span>
 											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/gardening-landscaping/">Gardening, Landscaping</a>
-																							(61)
+																							(195)
+																					</span>
+									</li>
+																												<li>
+										<span>
+											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/electricians/">Electricians</a>
+																							(102)
+																					</span>
+									</li>
+																												<li>
+										<span>
+											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/painting-decorating/">Painter, Decorator</a>
+																							(93)
+																					</span>
+									</li>
+																												<li>
+										<span>
+											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/door-fitting-windows/">Windows, Door Fitting</a>
+																							(51)
 																					</span>
 									</li>
 																												<li>
 										<span>
 											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/removals-transport-deliveries/">Removals, Transport, Deliveries</a>
-																							(7)
+																							(11)
 																					</span>
 									</li>
 																												<li>
 										<span>
 											<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/rent-hire/">Rent, Hire</a>
-																							(0)
+																							(2)
 																					</span>
 									</li>
 																	</ul>
@@ -491,63 +492,63 @@ $('.resizeLink').live("click", function() {
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/car-motorbike-boat/">Car, Motorbike, Boat</a>
-																					(8)
+																					(7)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/carpenters-joiners-handymen/">Carpenters, Joiners, Handymen</a>
-																					(256)
+																					(243)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/cleaning-services/">Cleaning Services</a>
-																					(17)
+																					(1)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/construction-builders-tradesmen/">Construction, Builders, Tradesmen</a>
-																					(157)
+																					(161)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/disposal-clear-up/">Disposal, Clear-up</a>
-																					(12)
+																					(18)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/electricians/">Electricians</a>
-																					(160)
+																					(102)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/flooring-carpeting/">Flooring, Carpeting</a>
-																					(53)
+																					(45)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/gardening-landscaping/">Gardening, Landscaping</a>
-																					(61)
+																					(195)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/hobby-leisure/">Hobby, Leisure</a>
-																					(1)
+																					(3)
 																			</span>
 								</li>
 																		
@@ -561,63 +562,63 @@ $('.resizeLink').live("click", function() {
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/interior-design/">Interior Design</a>
-																					(1)
+																					(2)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/masonry-paving-concrete/">Masonry, Paving, Concrete</a>
-																					(25)
+																					(51)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/metal-work-processing/">Metal Work, Processing</a>
-																					(3)
+																					(4)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/painting-decorating/">Painter, Decorator</a>
-																					(70)
+																					(93)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/planning-consultation/">Planning, Consultation</a>
-																					(0)
+																					(1)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/plasterers-renderers/">Plasterers, Renderers</a>
-																					(94)
+																					(99)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/plumbers-heating/">Plumbers, Heating</a>
-																					(338)
+																					(262)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/removals-transport-deliveries/">Removals, Transport, Deliveries</a>
-																					(7)
+																					(11)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/rent-hire/">Rent, Hire</a>
-																					(0)
+																					(2)
 																			</span>
 								</li>
 																		
@@ -626,7 +627,7 @@ $('.resizeLink').live("click", function() {
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/roofers-guttering/">Roofers, Guttering</a>
-																					(89)
+																					(73)
 																			</span>
 								</li>
 																		
@@ -640,34 +641,34 @@ $('.resizeLink').live("click", function() {
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/tv-repair-electronic-repair/">TV/Electronic/Computer Repair</a>
-																					(28)
+																					(9)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/tilers-panelers-mosaics/">Tilers, Panelers, Mosaics</a>
-																					(40)
+																					(50)
 																			</span>
 								</li>
 																		
 																																	<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/door-fitting-windows/">Windows, Door Fitting</a>
-																					(64)
+																					(51)
 																			</span>
 								</li>
 																		
 																																																																																																																																																																																																																																																						<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/miscellaneous-service-providers/">Miscellaneous Services</a>
-																					(4)
+																					(18)
 																			</span>
 								</li>
 																																							<li>
 									<span>
 										<a onclick="s_objectID='Category_Browse_from_LeftNav'" href="http://www.myhammer.co.uk/jobs/miscellaneous-trades/">Miscellaneous Trades</a>
-																					(12)
+																					(8)
 																			</span>
 								</li>
 																																																																									
@@ -760,7 +761,7 @@ $('.resizeLink').live("click", function() {
 					<div>
 						<form action="/orderNewsletterUnregisteredUser.php" method="get">
 							<input type="text" name="mhFormData[email]" style="display:inline; width:168px;" onfocus="this.value=''; " value="Email Address:">					
-							<input type="image" style="padding-top:5px;" name="submit" src="http://a.myhcdn.net/buttongenerator.php?type=9&amp;partnerID=7&amp;text=Request+Newsletter&amp;hash=9ef676696df58b01e2957f852fc05cc6e1bc6a5e" alt="Request Newsletter">
+							<input type="image" style="padding-top:5px;" name="submit" src="http://images01.myhammer.co.uk/buttongenerator.php?type=9&amp;partnerID=7&amp;text=Request+Newsletter&amp;hash=9ef676696df58b01e2957f852fc05cc6e1bc6a5e" alt="Request Newsletter">
 						</form>
 					</div>									
 				
@@ -797,7 +798,7 @@ $('.resizeLink').live("click", function() {
 <p>
 	Effective Date: 07.02.2011
 	<br>
-	If you want to save or print this Privacy Policy you can download it as a  <a href="http://a.myhcdn.net/live/structure/110207_privacy_UK.pdf" target="_blank">PDF-file</a> and save the file to a suitable location on your computer. To open the document you may need to install a suitable viewer, such as Adobe® Reader®. Adobe® Reader® can be downloaded for free from  <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe®’s website</a>.
+	If you want to save or print this Privacy Policy you can download it as a  <a href="http://images01.myhammer.co.uk/live/structure/110207_privacy_UK.pdf" target="_blank">PDF-file</a> and save the file to a suitable location on your computer. To open the document you may need to install a suitable viewer, such as Adobe® Reader®. Adobe® Reader® can be downloaded for free from  <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe®’s website</a>.
 </p>
 
 
@@ -1091,7 +1092,7 @@ $('.resizeLink').live("click", function() {
 				</dl>
 				<dl class="kontakt-agb" style="font-size:12px; width:18%">
 					<dt style="font-weight:bold; font-size:15px;">Contact &amp; Service</dt>
-					<dd><a class="mhLinkReplacement" title="Hotline + Contact " rel="follow" name="http://help.myhammer.co.uk" href="#">Hotline + Contact </a></dd>
+					<dd><a class="mhLinkReplacement" title="Contact" rel="follow" name="http://help.myhammer.co.uk" href="#">Contact</a></dd>
 				</dl>
 				<dl class="presse-links last" style="font-size:12px; width:15%">
 					<dt style="font-weight:bold; font-size:15px;">Press, Links &amp; IR</dt>
@@ -1111,7 +1112,7 @@ $('.resizeLink').live("click", function() {
 			<p></p>
 			
             <p class="copyright" style="font-size:12px;">
-			© 2005–2011
+			© 2005–2012
 		<a href="http://www.myhammer.co.uk/showPage.php?id=impressum">MY-HAMMER AG</a>		– All rights reserved.
 		<a href="http://www.myhammer.co.uk/showPage.php?id=terms">Terms &amp; Conditions</a> /
 		<a href="http://www.myhammer.co.uk/showPage.php?id=privacy">Privacy Policy</a> /
@@ -1155,9 +1156,7 @@ $('.resizeLink').live("click", function() {
         right: 0px;
         display: block;
         width: 28px;
-		
         height: 112px;
-		
         margin: -45px 0 0 0;
         padding: 0;
         z-index: 100;
@@ -1185,7 +1184,7 @@ $('.resizeLink').live("click", function() {
         -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Color=\"#2d2d2d\",Direction=240,Strength=2)";
 		
 		
-        background-image: url(http://a.myhcdn.net/v3/live/icons/pic_IhreMeinung.gif);
+        background-image: url(http://images01.myhammer.co.uk/v3/live/icons/pic_IhreMeinung.gif);
 
 		
 
@@ -1202,29 +1201,6 @@ $('.resizeLink').live("click", function() {
 		outline: 0;
 	}
 </style>
-
-<a target="_blank" href="http://www.myhammer.co.uk/v3/uservoice.php" id="uservoice-feedback-tab" onclick="return goUservoice()">Ihre Meinung</a>
-
-<script type="text/javascript">
-	function goUservoice() {
-		
-									window.location.href = "http://www.myhammer.co.uk/v3/uservoice.php";
-				return false;
-					
-	}
-
-	function showUservoiceAds() {
-		$("#SkyScraper, #mf_sky").show();
-	}
-
-	$('#nyroModalContent').live('layerRemoved', function() {
-		showUservoiceAds();
-	});
-</script>
-
-
-
-
 <!--[if lte IE 6]>
 <style type="text/css">
      a#uservoice-feedback-tab {
@@ -1239,37 +1215,46 @@ $('.resizeLink').live("click", function() {
 	}
 </style>
 <script type="text/javascript">
-    $("#uservoice-feedback-tab").hover(
-        function(){
+    $("#uservoice-feedback-tab").bind({
+    	mouseenter: function(){
             $(this).addClass("feedbackOver");
         },
-        function(){
+        mouseleave: function(){
             $(this).removeClass("feedbackOver");
         }
-    );
+    });
 </script>
 <![endif]-->
 
 
-	<script type="text/javascript">
-						var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-						document.write(unescape("%3Cscript src=\"" + gaJsHost + "google-analytics.com/ga.js\" type=\"text/javascript\"%3E%3C/script%3E"));
-					</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-					<script type="text/javascript">
-					var pageTracker = _gat._getTracker("UA-4064804-1");
-					_gat._anonymizeIp();
-					pageTracker._initData();
-					pageTracker._trackPageview("privacy");
-					pageTracker._trackPageLoadTime();
-					</script>
+<a target="_blank" href="http://www.myhammer.co.uk/v3/uservoice.php" id="uservoice-feedback-tab">Ihre Meinung</a>
+
+<script type="text/javascript">
+	/* <![CDATA[ */
+	$('#uservoice-feedback-tab, #feedbackLinkFooter, #feedbackLinkHeaderMin').bind('click', function(e) {
+		e.preventDefault();
+		
+									window.location.href = "http://www.myhammer.co.uk/v3/uservoice.php";
+							
+	});
+
+	$('#nyroModalContent').live('layerRemoved', function() {
+		mhLayer.showUservoiceAds();
+	});
+	/* ]]> */
+</script>
 
 
 
 
-	<iframe src="http://img-cdn.mediaplex.com/0/10285/universal.html?page_name=retargeting_myh_unk_uk&amp;UK_MyH_unk=1&amp;mpuid=618f05740ea4858822343bc47b654130" height="1" width="1" frameborder="0"></iframe>
+
+	<iframe src="http://img-cdn.mediaplex.com/0/10285/universal.html?page_name=retargeting_myh_unk_uk&amp;UK_MyH_unk=1&amp;mpuid=79a6dfbb3391cf42f950c7803093f2dd" height="1" width="1" frameborder="0"></iframe>
 
 
 
-	
+
+    
+
+
 	
 </body></html>
