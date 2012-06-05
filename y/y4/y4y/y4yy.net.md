@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y4yy.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209082703id_/http%3A//y4yy.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y4yy.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605172555id_/http%3A//y4yy.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # the best online photo management and sharing application » More Information » Privacy Policy
 
