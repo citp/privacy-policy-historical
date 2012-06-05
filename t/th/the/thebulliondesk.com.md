@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011238id_/http%3A//www.thebulliondesk.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/privacy_policy.html) for the most accurate reproduction.*
 
 # None
 
-FastMarkets Ltd (“We”) are committed to protecting and respecting your privacy. This policy (together with our [Website Terms and Conditions](https://web.archive.org/web/20111124011238id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is FastMarkets Ltd **(company registered number 03879279)** whose registered office is at 5th Floor Carmelite, 50 Victoria Embankment, Blackfriars, London EC4Y 0LS. 
-
-## 1\. INFORMATION WE MAY COLLECT FROM YOU
+FastMarkets Ltd (“We”) are committed to protecting and respecting your privacy. This policy (together with our [Website Terms and Conditions](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
+For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is FastMarkets Ltd **(company registered number 03879279)** whose registered office is at 2 More London Riverside, London SE1 2AP. 
 
 We may collect and process the following data about you: 
 
@@ -19,16 +17,23 @@ Details of your visits to our sites including, but not limited to, traffic data,
 
 ## 2\. IP ADDRESSES AND COOKIES
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our sites and to deliver a better and more personalised service. They enable us: 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our sites and to deliver a better and more personalised service. 
 
-To estimate our audience size and usage pattern;  
-To store information about your preferences, and so allow us to customise our site according to your individual interests;  
-To speed up your searches;  
-To recognise you when you return to our site. 
+Our Site uses cookies in several ways. 
+
+Session tracking cookies - These cookies identify your browser uniquely but anonymously for the life of a session (usually from when you first visit a site until you close the tab or browser). They do not contain any personal information. They contain a unique and randomly generated number. All visitors to all sites will gain a session cookie on first visit. This will be deleted by the browser when the session ends. 
+
+Authentication cookies - Our sites use authentication cookies, which are short-lived cookies containing a cryptographic hash that is used to validate your log in status and prevent session hijacking and other attacks. These do not contain any personal information. 
+
+Cookies for logged-in users - Once you are logged in, our sites store several cookies on your machine with information about your status and permissions. These include information like your user id, which ticker feed to use and which features are enabled for your account. 
+
+Cookies from 3rd party advertisers - Any visitor to one of our sites which display advertising [www.thebulliondesk.com](http://www.thebulliondesk.com/), [www.basemetals.com](http://www.basemetals.com/), [www.minormetals.com](http://www.minormetals.com/) will receive cookies from our advertisers. These advertisers adhere to standard best practice for privacy, and have their own privacy policies. While we choose our advertising partners carefully and constantly review them, we do not control the content of the adverts directly. You should refer to the privacy and cookie policies of individual advertisers for more details. 
+
+Google Analytics - All our sites make use of Google Analytics to analyse traffic statistics. Google Analytics writes several cookies to your machine which it uses in order to track your activity on a site. This data is anonymously collected using unique, random Ids and does not contain any information which could identify you personally. See [www.google.com/analytics/](http://www.google.com/analytics/) for more information. 
+
+The only part of this information that personally identifies you is your Fastmarkets user id, but this information is stored as part of your account information in our database and is not accessible to anyone else in accordance with our data protection and privacy policies. 
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our sites. 
-
-Please note that our advertisers may also use cookies, over which we have no control. 
 
 ## 3\. WHERE WE STORE YOUR PERSONAL DATA
 
@@ -60,7 +65,7 @@ We may disclose your personal information to third parties:
 
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;  
 If Fastmarkets Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;  
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms and Conditions](https://web.archive.org/web/20111124011238id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.html) or [Terms and Conditions of supply](https://web.archive.org/web/20111124011238id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.pdf) and other agreements; or to protect the rights, property, or safety of Fastmarkets Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms and Conditions](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.html) or [Terms and Conditions of supply](https://web.archive.org/web/20120605051825id_/http%3A//www.thebulliondesk.com/FMTermsAndConditions.pdf) and other agreements; or to protect the rights, property, or safety of Fastmarkets Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 ## 6\. YOUR RIGHTS
 
