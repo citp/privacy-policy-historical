@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sizzlingbit.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203085007id_/http%3A//www.sizzlingbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sizzlingbit.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605083142id_/http%3A//www.sizzlingbit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,9 +23,9 @@ SizzlingBit.com never uses any cookie or web beacons to store information. Howev
 ### DoubleClick DART Cookie
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior visits to SizzlingBit.com.
-  * Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to SizzlingBit.com and/or other sites on the Internet.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to you based on your visit to SizzlingBit.com and/or other sites on the Internet.
   * DART cookie uses non personally identifiable information. And It does not collect any personal information about you, such as your physical address, name, email address or contact details.
-  * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at this URL — <http://www.google.com/privacy_ads.html>. (Alternatively, you can opt out of any third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page at this URL — <http://www.networkadvertising.org/managing/opt_out.asp>)
+  * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at this URL — <http://www.google.com/privacy_ads.html>. (Alternatively, you can opt out of any third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page at this URL — <http://www.networkadvertising.org/managing/opt_out.asp>)
 
 
 
