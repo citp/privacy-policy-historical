@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eearticles.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202122648id_/http%3A//www.eearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eearticles.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605063430id_/http%3A//eearticles.com/privacy.php) for the most accurate reproduction.*
 
 # EEArticles - Privacy Policy
 
