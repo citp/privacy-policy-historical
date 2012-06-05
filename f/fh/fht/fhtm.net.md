@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fhtm.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229181504id_/http%3A//fhtm.net/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhtm.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605070724id_/http%3A//www.fhtm.net/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Fortune Hi-Tech Marketing
 
