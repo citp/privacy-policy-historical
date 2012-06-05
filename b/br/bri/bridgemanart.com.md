@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222011621id_/http%3A//www.bridgemanart.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgemanart.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605031331id_/http%3A//www.bridgemanart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-policy - Bridgeman - Art, Culture, History
+# Privacy policy - Bridgeman - Art, Culture, History
 
 ### This Privacy Policy may change from time to time, so please check it on a regular basis.
 
