@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartofthe.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227051155id_/http%3A//heartofthe.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartofthe.net privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605044931id_/http%3A//heartofthe.net/privacy) for the most accurate reproduction.*
 
-# Privacy | HeartOfThe.Net – Create your free blog
+# Privacy | HeartOfThe.Net - Create your free blog
 
 HeartOfThe.Net takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by [Automattic](http://www.automattic.com/) ([WordPress.com](http://www.wordpress.com/))) describes how we treat the information we collect when you visit and use the website available at HeartOfThe.Net (the “Website”) and is made available under the **Creative Commons Sharealike** license. Please read this notice very carefully.
 
