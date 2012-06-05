@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevenslings.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229201056id_/https%3A//www.sevenslings.com/index.php/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenslings.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606015550id_/http%3A//www.sevenslings.com/content/privacy_policy) for the most accurate reproduction.*
 
-# Seven Everyday Slings
+# Seven™ Everyday Slings - Our Privacy Policy
 
 _Effective **January 1, 2009**_
 
