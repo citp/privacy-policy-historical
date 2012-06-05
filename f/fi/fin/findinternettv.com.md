@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findinternettv.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526084846id_/http%3A//findinternettv.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findinternettv.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605043017id_/http%3A//www.findinternettv.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Find Internet TV
+# Privacy Policy | Find Internet TV
 
 This agreement was last updated on March 23, 2009. 
 
@@ -54,4 +54,4 @@ If, however, we are going to use users' personally identifiable information in a
 
 We are serious in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us. 
 
-**Contact Information** If users have any questions or suggestions regarding our privacy policy, please email us using our [contact form](https://web.archive.org/Contact.aspx). 
+**Contact Information** If users have any questions or suggestions regarding our privacy policy, please email us using our [contact form](https://web.archive.org/contact/). 
