@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222174847id_/http%3A//www.appbrain.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605110103id_/http%3A//www.appbrain.com/info/privacy) for the most accurate reproduction.*
 
 # AppBrain - Privacy Policy
-
-[ ](https://web.archive.org/ "AppBrain Best Android Apps")
 
 Your privacy is critically important to us. At AppBrain we have a few fundamental principles:
 
@@ -68,5 +66,3 @@ If you have questions about privacy or your personal data please contact our [su
   * _Sept 19, 2011_ Clarified privacy policy, added fundamental principles
 
 
-
-[AppBrain - Privacy Policy Español](http://es.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Português](http://pt.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Polski](http://pl.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Česky](http://cs.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Deutsch](http://de.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Svenska](http://sv.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Nederlands](http://nl.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy 日本語](http://ja.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Italiano](http://it.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy Français](http://fr.appbrain.comhttp//www.appbrain.com/info/privacy), [AppBrain - Privacy Policy 한국어](http://ko.appbrain.comhttp//www.appbrain.com/info/privacy), 
