@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209055148id_/http%3A//starwarscelebration.com/LP/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605061254id_/http%3A//www.starwarscelebration.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Star Wars Celebration VI | Aug 23 - 26, 2012 | Orange County Convention Center | Orlando, FL
 
