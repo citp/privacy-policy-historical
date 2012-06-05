@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the knownsrv.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216135315id_/http%3A//knownsrv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownsrv.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605115645id_/http%3A//www.knownsrv.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - KnownSRV :: Secure, Quality, and Fast Hosting Solutions
+# KnownSRV | Secure, Quality, and Fast Hosting Solutions
+
+  
+
 
 ## Privacy Policy
+
+* * *
 
 KnownSRV Solutions respects the privacy and security of its customers and users of its website. KnownSRV strives to provide you with a personalized Internet experience that delivers to you the information, products and services that you need. In order to achieve this goal, KnownSRV sometimes collects information during your visits to our website. 
 
@@ -103,3 +108,6 @@ KnownSRV hereby reserves the right to amend, alter, modify, replace or suspend t
 **Questions or Concerns**
 
 If you have any comments or questions regarding this Privacy Policy please contact KnownSRV via email at [info@KnownSRV.com](mailto:info@knownsrv.com). Effective Date of This Privacy Policy This Privacy Policy was last updated on August 02, 2010.
+
+  
+
