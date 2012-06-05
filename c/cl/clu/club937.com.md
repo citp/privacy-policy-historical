@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206072624id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606014118id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
 
-# 93.7 WRCL Radio - Today's Hottest Jams - Flint Music
+# Club 93.7 Radio - Today's Hottest Jamz - Flint Music
 
 ### About CLUB937.COM
 
@@ -90,7 +90,7 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please contact us at: .
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please .
 
 ### Effective Date
 
