@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120238id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605062238id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CoolChaser
 
 ## What This Privacy Policy Covers
 
-  * This privacy policy pertains to the use of all services related to NextSmallThings (a California Corporation), including the coolchaser web site at [www.coolchaser.com](https://web.archive.org/), clipclip web site at [www.clipclip.org](http://www.clipclip.org/) and url website at [www.url.com](http://www.url.com/).
+  * This privacy policy pertains to the use of all services related to NextSmallThings (a California Corporation), including the coolchaser web site at [www.coolchaser.com](https://web.archive.org/), and url website at [www.url.com](http://www.url.com/).
   * This privacy policy covers how CoolChaser treats personal information that CoolChaser collects and receives. Personal information is information about you that is personally identifiable including but not limited to your name, address, email address, or phone number.
   * Children under 13 are not permitted to use any CoolChaser services, and so this privacy policy makes no provision for children's use of the site.
 
@@ -82,6 +82,9 @@ CoolChaser may update this policy at any time for any reason.
 ## Questions
 
 If you have questions or suggestions you can contact us at:  
-CoolChaser   
-Suite 6502 1516 Howard Ave   
-Burlingame CA 94010
+Next Small Things  
+344 Middlefield Road  
+Suite 8088  
+Palo Alto, California 94301  
+USA  
+Email: ContactUs@NextSmallThings.com 
