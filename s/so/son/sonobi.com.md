@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonobi.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124005148id_/http%3A//sonobi.com/page.php%3F_pageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonobi.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605050937id_/http%3A//sonobi.com/page.php%3F_pageid%3Dprivacy) for the most accurate reproduction.*
 
-# Sonobi Media
+# Sonobi Media ™
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
