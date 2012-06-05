@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesss.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204033137id_/http%3A//articlesss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesss.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605162942id_/http%3A//articlesss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Article Directory
 
