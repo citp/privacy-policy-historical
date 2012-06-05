@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pluck.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124015941id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pluck.com privacy policy that was archived on 2012-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605065944id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -37,20 +37,22 @@
 		}
 		function returnNav(tempId){
 			if(tempId != navVar){
-			document.getElementById(tempId + 's').style.display="none";
+			document.getElementById(tempId + 'd').style.display="none";
 			document.getElementById(tempId).className="navOff";
-				if(navVar != ""){
+				/*if(navVar != ""){
 					setNavState(navVar);
-				}
+				}*/
 			}
 		}
 		function mouseOverState(navItem){
-			if(navVar != ""){
-			document.getElementById(subNavVar).style.display="none";
-			document.getElementById(navVar).className="navOff";
-			}
+			if(navVar != navItem){
+			
 			document.getElementById(navItem).className ="navOn";
-			document.getElementById(navItem + 's').style.display="block";
+			
+				if(navItem!="n5"){	document.getElementById(navItem + 'd').style.display="block";}
+			}
+			
+			
 		}
 	</script>
 
@@ -66,26 +68,71 @@
     	<div class="navContent">
         	<ul class="chromestyle" id="mainNav">
            	 	<li id="n1" onmouseover="mouseOverState('n1')" onmouseout="returnNav('n1')"><a id="l1" href="/products/"><span class="f2">Product</span></a></li>
-            	<li id="n2" onmouseover="mouseOverState('n2')" onmouseout="returnNav('n2')"><a id="l2" href="/services/"><span class="f2">Services</span></a></li>
-            	<li id="n3" onmouseover="mouseOverState('n3')" onmouseout="returnNav('n3')"><a id="l3" href="/results/" rel="dropmenu1"><span class="f2">Results</span></a></li>
+                <li id="n2" onmouseover="mouseOverState('n2')" onmouseout="returnNav('n2')"><a id="l2" href="/services/"><span class="f2">Services</span></a></li>
+                <li id="n3" onmouseover="mouseOverState('n3')" onmouseout="returnNav('n3')"><a id="l3" href="/results/"><span class="f2">Results</span></a></li>
                 <li id="n4" onmouseover="mouseOverState('n4')" onmouseout="returnNav('n4')"><a id="l5" href="/roles/"><span class="f2">Roles</span></a></li>
-                <li id="n5" onmouseover="mouseOverState('n5')" onmouseout="returnNav('n5')"><a id="l6" href="/customers/" rel="dropmenu2"><span class="f2">Customers</span></a></li>
-                <li id="n6" onmouseover="mouseOverState('n6')" onmouseout="returnNav('n6')"><a id="l7" href="/resources/"><span class="f2">Resources</span></a></li>                
+                <li id="n5" onmouseover="mouseOverState('n5')" onmouseout="returnNav('n5')"><a id="l6" href="/customers/"><span class="f2">Customers</span></a></li>
+                <li id="n6" onmouseover="mouseOverState('n6')" onmouseout="returnNav('n6')"><a id="l7" href="/resources/"><span class="f2">Resources</span></a></li> 
             </ul>
+            
+            <div id="n1d" class="navDrop f2" style="display:none; margin-left:-35px;" onmouseover="mouseOverState('n1')" onmouseout="returnNav('n1')">
+            	<a href="/products/applications.html">Applications</a><br><br>
+            	<a href="/products/collections.html">Collections</a><br><br>
+            	<a href="/products/engines.html">Engines</a><br><br>
+            	<a href="/products/api.html">API</a><br><br>
+            	<a href="/products/workbenches.html">Workbenches</a><br><br>
+            	<a href="/products/technology.html">Technology</a><br>
+            </div>
+            <div id="n2d" class="navDrop f2" style="display:none; margin-left:65px;" onmouseover="mouseOverState('n2')" onmouseout="returnNav('n2')">
+            	<a href="/services/community_moderation.html">Community Moderation</a><br><br>
+            	<a href="/services/community_management.html">Community Management</a><br><br>
+            	<a href="/services/professional_services.html">Professional Services</a><br><br>
+            	<a href="/services/account_management.html">Account Management</a><br><br>
+            	<a href="/services/technical_support.html">Tech Support</a><br><br>
+            	<a href="/services/education_resources.html">Education &amp; Resources</a><br>
+            </div>
+            <div id="n3d" class="navDrop f2" style="display:none; margin-left:155px;" onmouseover="mouseOverState('n3')" onmouseout="returnNav('n3')">
+            	<a href="/results/engagement.html">We know how to generate great results</a><br><br>
+                <a href="/results/engagement.html">Engagement</a><br><br>
+                <a href="/results/conversion.html">Conversion</a><br><br>
+                <a href="/results/advocacy.html">Advocacy</a><br>
+            </div>
+            <div id="n4d" class="navDrop close f2" style="display:none;margin-left:237px;" onmouseover="mouseOverState('n4')" onmouseout="returnNav('n4')">
+            	<a href="/roles/analytics.html">Analytics</a><br><br>
+                <a href="/roles/community.html">Community</a><br><br>
+                <a href="/roles/content.html">Content</a><br><br>
+                <a href="/roles/design.html">Design</a><br><br>
+                <a href="/roles/development.html">Development</a><br><br>
+                <a href="/roles/ecommerce.html">e-Commerce</a><br><br>
+                <a href="/roles/management.html">Management</a><br><br>
+                <a href="/roles/marketing.html">Marketing</a><br><br>
+                <a href="/roles/mobile.html">Mobile</a><br><br>
+                <a href="/roles/revenue.html">Revenue</a><br><br>
+                <a href="/roles/social.html">Social</a><br><br>
+                <a href="/roles/technology.html">IT</a><br>
+            </div>
+            <div id="n5d" class=" f2" style="display:none;" onmouseover="mouseOverState('n5')" onmouseout="returnNav('n5')"></div>
+            <div id="n6d" class="navDrop f2" style="display:none;margin-left:455px" onmouseover="mouseOverState('n6')" onmouseout="returnNav('n6')">
+            	<a href="/resources/outcomes.html">Outcomes</a><br><br>
+                <a href="/resources/whitepapers/">White Papers</a><br><br>
+                <a href="http://www.pluck.com/blog/index.php">Blog</a><br><br>
+                <a href="/resources/partners/index.html">Partner Program</a><br><br>
+                <a href="/resources/contact.html">Contact Us</a><br>
+            </div> 
        </div>	
 	</div>
 </div>
 <div id="subNavWrap">
-	<div id="n1s" class="subNav f2" style="display:none; text-align:center;" onmouseover="mouseOverState('n1')" onmouseout="returnNav('n1')">
+	<div id="n1s" class="subNav f2" style="display:none; text-align:center;">
     	<a href="/products/applications.html">Applications</a>
         <a href="/products/collections.html">Collections</a>
 	    <a href="/products/engines.html">Engines</a>
 	    <a href="/products/api.html">API</a>
 	    <a href="/products/workbenches.html">Workbenches</a>
         <a href="/products/technology.html">Technology</a> 
-        <a href="/products/technology.html" style="color:#FFFFFF !important;">Technology</a> 
     </div>
-	<div id="n2s" class="subNav f2" style="display:none; text-align:right;" onmouseover="mouseOverState('n2')" onmouseout="returnNav('n2')">
+    
+	<div id="n2s" class="subNav f2" style="display:none; text-align:right;">
     	<a href="/services/community_moderation.html">Community Moderation</a>
         <a href="/services/community_management.html">Community Management</a>
         <a href="/services/professional_services.html">Professional Services</a>
@@ -93,13 +140,13 @@
         <a href="/services/technical_support.html">Tech Support</a>
         <a href="/services/education_resources.html">Education &amp; Resources</a>
     </div>
-    <div id="n3s" class="subNav f2" style="display:none; text-align:center;" onmouseover="mouseOverState('n3')" onmouseout="returnNav('n3')">
+    <div id="n3s" class="subNav f2" style="display:none; text-align:center;">
     	 <a href="/results/engagement.html" style="color:#FFFFFF !important;">We know how to generate great results</a>
-        <a href="/results/engagement.html">Engagement</a>
+        <a href="/results/engagement.html">Engagement</a>        
         <a href="/results/conversion.html">Conversion</a>
         <a href="/results/advocacy.html">Advocacy</a>
     </div>
-    <div id="n4s" class="subNav close f2" style="display:none; text-align:right;" onmouseover="mouseOverState('n4')" onmouseout="returnNav('n4')">
+    <div id="n4s" class="subNav close f2" style="display:none; text-align:right;">
     	<a href="/roles/analytics.html">Analytics</a>
         <a href="/roles/community.html">Community</a>
         <a href="/roles/content.html">Content</a>
@@ -113,18 +160,16 @@
         <a href="/roles/social.html">Social</a>
         <a href="/roles/technology.html">IT</a>
     </div>
-    <div id="n5s" class="subNav f2" style="display:none; text-align:right;">
-    	
-    </div>
-    <div id="n6s" class="subNav f2" style="display:none; text-align:right;" onmouseover="mouseOverState('n6')" onmouseout="returnNav('n6')">
+    <div id="n5s" class=" f2" style="display:none; " onmouseover="mouseOverState('n5')" onmouseout="returnNav('n5')"></div>
+    <div id="n6s" class="subNav f2" style="display:none; text-align:right; ">
     	<a href="/resources/outcomes.html">Outcomes</a>
         <a href="/resources/whitepapers/">White Papers</a>
         <a href="http://www.pluck.com/blog/index.php">Blog</a>
-       
         <a href="/resources/partners/index.html">Partner Program</a>
         <a href="/resources/contact.html">Contact Us</a>
     </div>
 </div>
+
 
 <div class="bg">
 	<div class="container">
@@ -201,8 +246,8 @@
 <!-- include products nav -->
 <div class="nextStepsWrap">
 <div style="padding:55px 0px 0px 20px; line-height:30px; font-size:14px; font-weight:bold;">
-<a id="learnLink" href="/products/learnmore.html?prev=https://web.archive.org/web/20111124015941id_/http%3A//www.pluck.com/site/privacy.html" title="Learn More"><img src="/images/smallChev.gif"> Learn More</a><br>
-<a id="requestLink" href="/learn/requestDemo.html?prev=https://web.archive.org/web/20111124015941id_/http%3A//www.pluck.com/site/privacy.html" title="Request A Demo"><img src="/images/smallChev.gif"> Request a Demo</a><br>
+<a id="learnLink" href="/products/learnmore.html?prev=https://web.archive.org/web/20120605065944id_/http%3A//www.pluck.com/site/privacy.html" title="Learn More"><img src="/images/smallChev.gif"> Learn More</a><br>
+<a id="requestLink" href="/learn/requestDemo.html?prev=https://web.archive.org/web/20120605065944id_/http%3A//www.pluck.com/site/privacy.html" title="Request A Demo"><img src="/images/smallChev.gif"> Request a Demo</a><br>
 <a href="/resources/contact.html" title="Contact Us"><img src="/images/smallChev.gif"> Contact Us</a>
 </div>
 </div>
