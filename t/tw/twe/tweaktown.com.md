@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214426id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606004658id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
 
 # Legal and Privacy Policy :: TweakTown USA Edition
 
@@ -20,7 +20,12 @@ In accordance with Section 91 of the Broadcasting Services Act Australia, Tweak 
 
 Tweak Town Pty Ltd's staff, contributors and editors etc often receive hardware and software products from manufacturers and service providers and the like from all around the world. These products are used and put through their paces to provide an unbiased opinion in a review or article or the like style format. Mostly we are allowed to keep these said products at no cost.
 
-**The privacy of our visitors to TweakTown is important to us.**
+  
+
+
+## Privacy Policy
+
+ **The privacy of our visitors to TweakTown is important to us.**
 
 At TweakTown, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TweakTown, and how we safeguard your information. We never sell your personal information or email address to third parties.
 
@@ -39,6 +44,3 @@ You can chose to disable or selectively turn off our cookies or third-party cook
  **Interest-based Advertising**
 
 We use interest-based advertising which allows advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, our partner Google Adsense recognizes the types of web pages you visit throughout the Google content network. As an example, if you visit a number of sports pages, we will add you to the "sports enthusiast" interest category.
-
-  
-
