@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the privacychoice.org privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505091059id_/http%3A//www.privacychoice.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacychoice.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605022500id_/http%3A//www.privacychoice.org/privacy) for the most accurate reproduction.*
 
 # PrivacyChoice - Making privacy easier
 
-Last revised October 1, 2010.
+Last revised May 15, 2011.
 
 **Summary of Key Policies (click for details)**
 
@@ -22,6 +22,8 @@ You have additional privacy rights under California law.
 
 We will let you know if this policy changes in a substantive way.
 
+Please stay in touch!
+
   
 
 
@@ -39,7 +41,7 @@ _Registration Information._ If you sign up for site scanning, privacy widget or 
 
 _Information Collected Through TrackerScan._ When you use the TrackerScan add-on or bookmark or view a PrivacyWidget on a third-party website, that action submits the list of tracking companies on the page that you are viewing in order to provide the tracking company information you have requested for that page or website. We also use this information (only in aggregate) to maintain our database as to which tracking companies are generally present on individual websites. However, individual pages you may view are never collected across websites, nor are they associated with any anonymous or personally identifiable information you may otherwise provide to us.
 
-_Third-Party Data Collection_ We may link to third parties, such as UserVoice ([privacy policy](http://uservoice.com/privacy)), and these parties may use cookies or other tracking method under their own privacy policies, but they have agreed not to use or share the information for other purposes.
+_Third-Party Data Collection._ We do not allow any other company to collect information on this site for their own use. We may link to third parties, such as UserVoice ([privacy policy](http://uservoice.com/privacy)), and these parties may use cookies or other tracking method under their own privacy policies, but they have agreed not to use or share the information for other purposes. We provide a link to the Facebook "Like" button, but Facebook cannot collect information unless and until the user clicks on the Facebook image.
 
 ## **We only use your information to provide the services that you request.**
 
@@ -51,7 +53,7 @@ We do not convey any information about your use of this service to any other par
 
 We may publish reports with aggregate information, such as trends in the interests of PrivacyChoice users. This never includes information about any individual user.
 
-To operate the service, we also need to make your information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor in a merger or acquisition. From time to time, we may work with consultants or other third parties who may have access to information about our users, including contact information. We restrict their use of any information in accordance with their assigned tasks and subject to all of the limitations of this policy.
+To operate the service, we also need to make your information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor in a merger or acquisition. We will attempt to notify you in any such case, to the extent permitted by law to do so. From time to time, we may work with consultants or other third parties who may have access to information about our users, including contact information. We restrict their use of any information in accordance with their assigned tasks and subject to all of the limitations of this policy.
 
 ## **You are in control of your information.**
 
@@ -72,3 +74,7 @@ Residents of California have the right to request in writing from businesses wit
 ## **We will let you know if this policy changes in a substantive way.**
 
 Our privacy policy may change from time to time. If we make any substantive changes to our policies, we will place a notice on privacychoice.org and send an email to registered users.
+
+## **Please stay in touch!**
+
+We encourage questions and comments on our privacy policy, and anything else that can help improve our service. Please contact us at privacy@privacychoice.org or use our [contact form](http://www.privacychoice.org/contact).
