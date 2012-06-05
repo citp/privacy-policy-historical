@@ -1,255 +1,470 @@
-<!--The following is the downloaded HTML source of the tomsofmaine.com privacy policy that was archived on 2010-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100220200702id_/http%3A//www.tomsofmaine.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tomsofmaine.com privacy policy that was archived on 2012-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605132459id_/http%3A//www.tomsofmaine.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
-
-    <script src="/js/sifr.js" type="text/javascript"></script>
-    <script src="/js/toms.js" type="text/javascript"></script>
-    <script src="/js/prototype.js" type="text/javascript"></script>
-    <script src="/js/sifr-addons.js" type="text/javascript"></script>
-    <script src="/js/ibox.js" type="text/javascript"></script>
-    <script type="text/javascript" src="/js/swfobject.js"></script>
-    <script src="/js/s_code.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:addthis="http://www.addthis.com/help/api-spec"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   
     
-    <link href="/css/sIFR-screen.css" rel="stylesheet" type="text/css"><link href="/css/template_master.css" rel="stylesheet" type="text/css"><meta name="keywords" content="Toms, natural toothpaste"><meta name="description" content="The Tom's of Maine privacy policy."><title>
-	Privacy Policy
-</title></head>
+                      <!-- log template: head-meta -->           <!-- adding template map -->   
+            
+    
+                      <!-- log template: meta-privacypolicy -->     
+                <title>Privacy Policy | Tom's of Maine</title>
+
+
+<meta name="keywords" content="">                   <script src="/TomsOfMaine/en-us/views/js/common/utils.js" type="text/javascript" language="javascript"></script>
+<script src="/TomsOfMaine/en-us/views/js/common/swfobject2.2.js" type="text/javascript" language="javascript"></script>
+<script src="/TomsOfMaine/en-us/views/js/common/swfaddress.js?strict=0" type="text/javascript" language="javascript"></script>
+<script src="/TomsOfMaine/en-us/views/js/common/jquery-1.4.min.js" type="text/javascript" language="javascript"></script>
+<script src="/TomsOfMaine/en-us/views/js/common/jquery.fancybox-1.3.0.pack.js" type="text/javascript" language="javascript"></script>
+<script src="/TomsOfMaine/en-us/views/js/common/jquery.mousewheel-3.0.2.pack.js" type="text/javascript" language="javascript"></script>
+
+<!--
+<script src="/TomsOfMaine/en-us/views/js/common/jquery.form-2.43.js" type="text/javascript" language="javascript"></script>
+-->
+
+<script src="/TomsOfMaine/en-us/views/js/common/starRating.js" type="text/javascript" language="javascript"></script>
+
+<!-- MOBILE DETECTION / REDIRECTION -->
+<script src="/TomsOfMaine/en-us/views/js/common/detectmobilebrowser.js" type="text/javascript" language="javascript"></script>
+<script src="/TomsOfMaine/en-us/views/js/common/RedirectController.js" type="text/javascript" language="javascript"></script>
+<!-- END -->
+
+
+<script type="text/javascript" language="javascript">
+// FUNCTION: getIEVersion - grab IE version number
+function getIEVersion() {
+	var ua = navigator.userAgent;
+	var MSIEOffset = ua.indexOf("MSIE ");
+	if (MSIEOffset == -1) {
+		return 0;	
+	} else {
+		return parseFloat(ua.substring(MSIEOffset + 5, ua.indexOf(";", MSIEOffset)));
+	}
+}
+
+var isIE = getIEVersion() >= 4;
+var isIE6Min = getIEVersion() <= 6;
+
+/*-- AJAX CALLS --*/
+// FUNCTION: doAjaxCall
+var doAjaxFormGet = function (pagename) {
+	jQuery.fancybox.showActivity();
+	jQuery.ajax ({
+		type: "GET",
+		cache: false,
+		url: pagename,
+		data: jQuery(this),
+		success: function (data) {
+			jQuery.fancybox(data);
+		}
+	});
+	return false;
+};
+
+// FUNCTION: doAjaxFormPost
+var doAjaxFormPost = function (pagename, formname) {
+	var theForm = jQuery(formname);
+	var formVals = jQuery(theForm).serialize();
+	jQuery(theForm).bind("submit", function() {
+		return false;
+	});
+	jQuery.fancybox.showActivity();
+	jQuery.ajax ({
+		type: "POST",
+		cache: false,
+		url: pagename,
+		data: formVals,
+		success: function (data) {
+			jQuery.fancybox(data);
+		}
+	});
+	return false;
+};
+
+// FUNCTION: doAjaxCart
+var doAjaxCart = function (pagename, formvars) {
+	jQuery.fancybox.showActivity();
+	jQuery.ajax ({
+		type: "POST",
+		cache: false,
+		url: pagename,
+		data: formvars,
+		success: function (data) {
+			jQuery.fancybox(data);
+		}
+	});
+	return false;
+};
+
+/*-- GENERAL CALLS --*/
+// FUNCTION: formatPopTitle - ensure no title or alt data is written to the title area of fancybox
+var formatPopTitle = function () { return null; };
+// FUNCTION: set numerals only alert
+/* Call using: onkeypress="return numeralsOnly(event);" */
+var numeralsOnly = function (evt) {
+    evt = (evt) ? evt : event;
+	var charCode = (evt.charCode) ? evt.charCode : ((evt.keyCode) ? evt.keyCode :
+	    ((evt.which) ? evt.which : 0));
+	if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+	    alert("You may only enter numerals in this field.");
+		return false;
+	}
+	return true;
+}
+
+// FUNCTION: boxDisplayController
+var boxDisplayController = function () {
+	/* -- Fancybox Controls -- */
+	var jQueryformContainer = '';
+	var jQueryresponseContainer = '';
+
+	// onclick='doAjaxCart("/ahah/cart/fetchitem.srv", { storeurl: "$var.marketURL", upc: "$var.upcCode" });'
+	var setCart = jQuery('a.setCartDisplay').click(function(event) {
+		// set pagename using href
+		var pagename = jQuery(this).attr('href');
+		doAjaxCart(pagename);
+		this.blur;
+		return false;
+	});
+
+	/* -- NEWSLETTER AND ADD COMMENT -- */
+	var setForm = jQuery('a.setFormDisplay').click(function(event) {
+		// set pagename using href
+		var pagename = jQuery(this).attr('href');
+		doAjaxFormGet(pagename);
+		this.blur;
+		return false;
+	});
+	
+	/* -- GENERIC POPUP -- */
+	var setPC = jQuery('a.setPC').click(function(event) {
+		return '#' + jQuery(this).attr('id');
+	});
+	// initialize fancybox with some options on id passed via jQuery(setPC)
+	jQuery(setPC).fancybox({
+		'centerOnScroll': true,
+		'overlayOpacity': 0.2,
+		'overlayColor': '#02557F',
+		'titleShow': false,
+		'titleFormat': formatPopTitle,
+		'onComplete': jQuery.fancybox.resize()
+	});
+};
+
+// display BrandBox on page load if param "brandbox=show" exists
+var showBrandBox = function ( param ) {
+	if (param === 'show') {
+		jQuery('.hdr-brandboxes').find('a.setPC').click();
+	}
+};
+
+jQuery(document).ready(function() {
+	boxDisplayController();
+	showBrandBox(Utils.queryParam('brandbox'));
+	jQuery('input[id="searchInput"]').click(function(event) {
+		jQuery(this).select();
+	});
+	jQuery('a#fancybox-close').click(function(event){
+		if (isIE && isIE6Min) {
+			location.reload(true);
+		}
+	});
+});
+
+</script>     <!-- log template: head-javascript -->     
+                      
+
+<link href="/TomsOfMaine/en-us/views/css/toms_style.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/TomsOfMaine/en-us/views/css/jquery.fancybox-1.3.0.css" rel="stylesheet" type="text/css" media="screen">
+<!--[if lte IE 6]>
+<link href="/TomsOfMaine/en-us/views/css/toms_style_ie6.css" rel="stylesheet"  type="text/css" media="screen" />
+<![endif]-->     <!-- log template: head-css -->     
+          <!--[if lt IE 7]>
+<script defer type="text/javascript" src="/TomsOfMaine/en-us/views/js/common/pngfix.js"></script>
+<![endif]-->
+</head>
 <body>
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcxNzc5NDQ0D2QWAmYPZBYCAgMPZBYCAgEPZBYEAgMPZBYCZg8WAh4JaW5uZXJodG1sZWQCCQ9kFgICAQ8WAh4EVGV4dAUEMjAxMGRkpQGgPMqGJBhnVJkenzm25bHBJcw=">
-
-<script language="JavaScript" type="text/javascript"><!--
-/*	You	may	give	each	page	an	identifying	name,	server,	and	channel	on
-the	next	lines.	*/
-												
-/*	s.charSet	should	match	encoding	of	HTML	page	*/				
-s.charSet="ISO-8859-1";
-
-// page name and hier
-s.pageName="Privacy";
-s.hier1="Privacy;;;";
-
-/* prop values for hierarchy */
-s.prop4 = "Privacy";
 
 
-/* other vars */
-/* New/Repeat Status and Pathing Variables */
-s.prop8=s.eVar16=s.getNewRepeat();
-if(s.pageName && s.prop8 == 'New') s.prop11 = s.pageName;
-if(s.pageName && s.prop8 == 'Repeat') s.prop12 = s.pageName;
+<div id="wrapperAlt">
+    <div id="container">
+        <div id="header">
+            <div id="logo"><a href="/home"><img src="/TomsOfMaine/en-us/views/images/img_logo.png" alt="Tom's of Maine" width="156" height="116"></a></div>
+            <div id="navigation">
+                   
+    
+                      <!-- log template: include-topnav -->     
+         <!--*/ START headerNavigation || include-topnav /*-->
+<div id="headerNavigation">
+    <div id="shareIcons"> <a href="http://www.facebook.com/TomsofMaine" target="_blank"><img src="/TomsOfMaine/en-us/views/images/img_fb_icon.png" alt="Facebook" border="0"></a> <a href="https://twitter.com/TomsofMaine" target="_blank"><img src="/TomsOfMaine/en-us/views/images/img_twitter_icon.png" border="0" alt="Twiter"></a> <a href="http://www.youtube.com/user/OfficialTomsofMaine" target="_blank"><img src="/TomsOfMaine/en-us/views/images/img_youtube_icon.png" alt="YouTube" border="0"></a> 
+<a target="_blank" href="http://www.tomsofmainestore.com/"><img border="0" alt="Buy Now" src="/TomsOfMaine/en-us/views/images/btnBuyNow.png"></a></div>
+    <div>
+        <ul>
+                                    <li><a href="/where-to-buy">Where To Buy</a></li>
+                                    <li> | </li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                                    <li> | </li>
+                        <li><a href="/newsletter.srv" class="setFormDisplay" id="ajaxForm_newsletter">Newsletter Sign up</a></li>
+                    </ul>
+    </div>
+    <div id="search" style="vertical-align:top;">
+        <form id="searchForm" method="post" action="/search.srv">
+            <fieldset>
+                <span class="input_container">
+                <input name="search" id="searchInput" value="What are you looking for?" type="text">
+                </span>
+                <input src="/TomsOfMaine/en-us/views/css-images/img_search_arrow.gif" alt=">" type="image">
+            </fieldset>
+        </form>
+    </div>
+</div>
+<!--*/ END headerNavigation || include-topnav /*-->
+<!--*/ START newsletter signup /*-->
+<!--
+<div style="display: none;">
+    <div id="newsletterFormContainer">
+ DEFAULT CONTENT FOR id="newsletterFormContainer"
+        <div class="newsletterResponseContainer"></div>
+    </div>
+</div>
+-->                          
+    
+                      <!-- log template: include-level1and2nav -->     
+         
+<!--*/ START mainNavigation || include-level1and2nav /*-->
+<div>
+    <ul id="nav">
+                    <li><a href="/products">Our Products</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                                <li><a href="/products/toothpaste#/?page=Toothpaste">Toothpaste</a></li>
+                                <li><a href="/products/deodorant#/?page=Deodorant">Antiperspirant &amp; Deodorant</a></li>
+                                <li><a href="/products/mouthwash#/?page=Mouthwash">Mouthwash</a></li>
+                                <li><a href="/products/floss#/?page=Floss">Dental Floss</a></li>
+                                <li><a href="/products/soap#/?page=Soap">Soap</a></li>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+                    <li class="separator"> | </li>
+                <li><a href="/business-practices">Our Company</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                                <li><a href="/business-practices/values-beliefs">Values and Beliefs</a></li>
+                                <li><a href="/business-practices/heritage/early-history">Heritage</a></li>
+                                <li><a href="/business-practices/environmental-practices">Environmental Practices</a></li>
+                                <li><a href="/business-practices/working-at-toms">Working at Tom's</a></li>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+                    <li class="separator"> | </li>
+                <li><a href="/research">Good Science</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                                <li><a href="/research/ingredients">Ingredients</a></li>
+                                <li><a href="/research/not-in-our-products">Not In Our Products</a></li>
+                                <li><a href="/research/product-research">Product Research</a></li>
+                                <li><a href="/research/product-certification">Product Certification</a></li>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+                    <li class="separator"> | </li>
+                <li><a href="/community-involvement">Giving Back</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                                <li><a href="/community-involvement/living-well/employee-volunteerism">Living Well</a></li>
+                                <li><a href="/community-involvement/serving-community/about-dental-health-for-all">Serving Community</a></li>
+                                <li><a href="/community-involvement/protecting-planet/clean-waters">Protecting Planet</a></li>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+                    <li class="separator"> | </li>
+                <li><a href="/video-catalog">Videos</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+                    <li class="separator"> | </li>
+                <li><a href="/blog">Blog</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+                    <li class="separator"> | </li>
+                <li><a href="http://www.tomsofmainestore.com" target="_blank">Our Store</a>
+                <!--*/ START subNavigation || include-level1and2nav /*-->
+            <ul>
+                            </ul>
+        <!--*/ END subNavigation || include-level1and2nav /*-->
+        </li>
+        </ul>
+</div>
+<!--*/ END mainNavigation || include-level1and2nav /*-->
 
-/*************	DO	NOT	ALTER ANYTHING BELOW THIS LINE ! **************/
-var	s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!--	End	SiteCatalyst	code	version:	H.15.1.	-->
-        <!-- master container -->
-        <div id="ctl00_container" class="gen01">
-        <!-- menu left sidebar -->
-            <div class="col01">
-                <h6><a href="/Default.aspx"><img src="/images/logo_01.gif" border="0" width="117" height="99"></a></h6>
-                <ul class="nav">
-  <li class="">
-    <h3>
-      <a href="/default.aspx">Home</a>
-    </h3>
-  </li>
-  <li class="">
-    <h3>
-      <a href="/products/default.aspx">Our Products</a>
-    </h3>
-  </li>
-  <li class="">
-    <h3>
-      <a href="/business-practices/default.aspx">Business Practices</a>
-    </h3>
-  </li>
-  <li class="" style="background-image: none">
-    <h3>
-      <a href="/community-involvement/default.aspx">Community Involvement</a>
-    </h3>
-  </li>
-</ul>
+                                                       </div>
+            <div class="clear"><!-- clear --></div>
+        </div>
+        <div id="content">
+        
+                           
+    
+                      <!-- log template: submaster-subpage -->     
+         <div id="subContent">
+    <div id="subContent-hdr">
+
+                <h2 class="hdr-title"><span>Privacy Policy  </span></h2>
+        
+        <div class="hdr-brandboxes">
+            <a class="setPC" href="#brandbox_full"><img src="/TomsOfMaine/en-us/views/images/icon_crueltyfree.gif" alt="cruelty free"></a>
+            <a class="setPC" href="#brandbox_full"><img src="/TomsOfMaine/en-us/views/images/icon_noartificial.gif" alt="no artificial color, flavors or preservatives"></a>
+            <a class="setPC" href="#brandbox_full"><img src="/TomsOfMaine/en-us/views/images/icon_ips.gif" alt="ingredient.purpose.source"></a>
+            <a class="setPC" href="#brandbox_full"><img src="/TomsOfMaine/en-us/views/images/icon_sustainable.gif" alt="sustainable practices"></a>
+            <a class="setPC" href="#brandbox_full"><img src="/TomsOfMaine/en-us/views/images/icon_recyclable.gif" alt="recyclable"></a>
+            <a class="setPC" href="#brandbox_full"><img src="/TomsOfMaine/en-us/views/images/icon_volunteering.gif" alt="volunteering"></a>
+        </div>
+        <div class="clear"><!-- clear --></div>
+
+        <div style="display:none;">
+            <div id="brandbox_full">
+                <div class="pc_inner">
+                    <img src="/TomsOfMaine/en-us/views/images/brandbox_full.jpg" alt="cruelty free | no artificial color, flavors or preservatives | no artificial color, flavors or preservatives |  sustainable practices | recyclable | volunteering">
+                </div>        
             </div>
-            <!-- End left nav menu -->
-            <div class="colfull">
-                
-
-<!-- Search box -->
-<div class="hdr03">
-    <table cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-            <td><input id="tbSearch" type="text" name="q" class="sch" value="" onkeydown="javascript:return KeyHandlerSearch(event);"></td>
-            <td><a href="javascript:search()">
-            <img src="/images/btn_search_sm.gif" height="25" width="54" alt="Search" class="btn" border="0"></a></td>
-        </tr>
-    </tbody></table>
-    <p>
-        <nobr><a href="/video-catalog/default.aspx">videos and discussions</a> | <a href="/products/store-locator.aspx?s5=Where to Buy">where to buy</a> | <a href="/cart.aspx">cart<span id="ctl00_SearchBox1_spancartitems"></span></a></nobr>
-    </p>
-</div>
-                
-
-<div class="hdr01">
-    Join our community!<br>
-    <a href="/community-involvement/project-sponsorships.aspx">Help decide our project sponsorships</a><br>
-    <a href="javascript:ShowHideDiv('divStayInTouchNewsletterForm')">Newsletter Sign up</a><br>
-    <a href="/video-catalog/default.aspx">Video Discussions</a><br>
-</div>
-
-<div class="join01">
-    <div class="hdr02" id="divStayInTouchNewsletterForm" style="display:none;">
-        <table cellpadding="0" cellspacing="0" border="0" class="tblform">
-            <tbody><tr>
-                <td colspan="2" style="height:20px;">
-                    <a href="javascript:ShowHideDiv('divStayInTouchNewsletterForm')" title="Close window" class="close">close</a>
-                </td>
-            </tr>
-            <tr>
-                <td width="154">
-                    <input id="name" type="text" name="name" class="txt1" value="Your name" onclick="clearText(this, 'Your name')" onblur="setText(this, 'Your name')" onkeydown="KeyHandlerRegisterUserForNewsletterPersistent(event)">
-                </td>
-                <td>
-                    <input id="email" type="text" name="email" class="txt2" value="Your email" onclick="javascript:clearText(this, 'Your email')" onblur="setText(this, 'Your email')" onkeydown="KeyHandlerRegisterUserForNewsletterPersistent(event)">
-                </td>
-            </tr>
-            <tr style="height:20px;">
-                <td valign="bottom"><a href="/privacy.aspx">privacy</a></td>
-                <td valign="bottom" align="right"><a href="javascript:RegisterUserForNewsletterPersistent()" title="Submit" class="sbmt">Submit</a></td>
-            </tr>
-        </tbody></table>
-    </div>
-
-    <div class="hdr02" id="divStayInTouchResultsPopup" style="display:none">
+        </div>
 
     </div>
-    <!-- end newsletter form -->
-</div>
+    
                 
-
-
-<div class="hero image">
-<img src="/images/generic_header.jpg" border="0" width="737" height="162" alt="page image">
-</div>
-<!-- end hero area -->
-
-
+    <div id="singleColumn">
+                      <div id="narrow">
+                       
+    
+                      <!-- log template: subtemplate-generic -->     
+         
 <div class="generics">
-
-<h1>PRIVACY POLICY</h1>
-
-
-<p>
-At Tom's of Maine, we respect your privacy. Your personal information is never shared with other companies [or used in ways that violate your trust].
-</p>
-
+       
+    
+                      <!-- log template: Copy-Privacy -->     
+         <div class="hero image"><img src="/TomsOfMaine/en-us/views/images/page-headers/privacypolicy.jpg" alt="Privacy Policy"></div>
+<h2 class="subheading">Privacy Policy</h2>
 <h2>What information does tomsofmaine.com collect?</h2>
-<p>
-While maintaining our commitment to your privacy, we do collect personally and non-personally identifiable information about you. Personally identifiable information includes your name and email address during email newsletter registration or video discussion participation so that we can properly fulfill your requests. Non-personally identifiable information includes your browser type, domain name, IP address and how you clicked through the Site. We collect this information so that we can identify general navigation patterns and better understand how to improve your experience with us.
-</p>
-
-<h2>Personally identifiable information</h2>
-<p>
-We do not collect personally identifiable information about you except when you provide it to us. For example, if you decide to complete a user registration form or online survey, you may be asked to provide certain information such as your contact information (name, email address, mailing address and telephone number), age group, gender and product concerns and the brands and products you use. 
-</p>
-<p>
-If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information. 
-</p>
-<p>
-When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.
-</p>
-
+<p>While maintaining our commitment to your privacy, we do collect personally and non-personally identifiable information about you.</p>
+<h2>Personally indentifiable information</h2>
+<p>Personally identifiable information is any information about you that identifies you, such as your name, contact information, or likeness.  For example, it includes your name and email address that you provide to us during email newsletter registration or video discussion participation so that we can properly fulfill your requests. We do not collect personally identifiable information about you except when you voluntarily provide it to us. For example, if you decide to complete a user registration form or online survey, you may be asked to provide certain information such as your contact information (name, email address, mailing address and telephone number), age group, gender and product concerns and the brands and products you use.</p>
+<p>If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information.</p>
+<p>When you submit your personally identifiable information on the Site, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.</p>
 <h2>Non-personally identifiable information</h2>
-<p>
-As you navigate through this Site, certain anonymous information may be passively collected using various technologies, such as cookies or Internet tags. Your Internet browser automatically transmits to this Site some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This Site may also collect anonymous information from your computer through cookies (a bit of information that a website sends to your Web browser to help the Site remember information about you and your preferences) and Internet tags. 
-</p>
-<p>
-We use such passively collected anonymous information to provide better service to Site visitors, compile and analyze statistics and trends and otherwise administer and improve the Site for your use. Such information is not combined with personally identifiable information collected elsewhere on the Site unless you have consented.
-</p>
-<p>
-If you do not wish to allow cookies or want to change your cookie preferences, you can make changes in your Internet browser if your browser permits, but some parts of our Site may not work as efficiently if you do.
-</p>
-
+<p> Non-personally identifiable information includes your browser type, domain name, IP address and how you clicked through the Site. We collect this information so that we can identify general navigation patterns and better understand how to improve your experience with us. As you navigate through this Site, such anonymous information may be passively collected using various technologies, such as cookies or Internet tags. Your Internet browser automatically transmits to this Site some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This Site may also collect anonymous information from your computer through cookies (a bit of information that a website sends to your Web browser to help the Site remember information about you and your preferences) and Internet tags.</p>
+<p> We use such passively collected anonymous information to provide better service to Site visitors, compile and analyze statistics and trends and otherwise administer and improve the Site for your use. Such information is not combined with personally identifiable information collected elsewhere on the Site unless you have consented.</p>
+<p>If you do not wish to allow cookies or want to change your cookie preferences, you can make changes in your Internet browser if your browser permits, but some parts of our Site may not work as efficiently if you do.</p>
 <h2>How we use information</h2>
-<p>
-We only ask for personally identifiable information that is necessary to process your request, such as allowing you to participate in video discussions or sign up for a newsletter. Except as otherwise stated, we may use information collected via this Site to improve the content of our Site, to customize the Site to your preferences, to communicate information to you (if you have requested it) for our marketing and research purposes and for any other purpose specified. In addition, we may make full use of all information acquired through this Site that is not in personally identifiable form.
-</p>
-<p>
-We do not sell, trade, or rent your email or contact information with outside third parties.
-</p>
-
+<p>We will use personally identifiable information to process your requests, such as allowing you to participate in video discussions or sign up for a newsletter. Except as otherwise stated, we may use information collected via this Site to improve the content of our Site, to customize the Site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for any other purpose specified. In addition, we may make full use of all information acquired through this Site that is not in personally identifiable form.</p>
+<h2>Sharing information with third parties</h2>
+<p>We do not sell, trade, or rent your email or contact information with outside third parties.</p>
+<p>We are careful to limit the sharing of any information we may collect on the Site.  We may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, or with the rights or property of other users of the Site, or anyone else that could be harmed by such activities.  We may disclose user information when we believe in good faith that the law requires the disclosure.</p>
+<p>We may also share information that we collect on this site with companies that perform various services for us.  We may, for example, share information with market analysts, advertisers, business partners, sponsors, our affiliates and other third parties.  We generally limit the information we share with these companies to that which is required to perform their services.  We also share information collected on this site to (i) comply with applicable law, (ii) respond to any legal process served on us, or (iii) protect our rights or our property.</p>
 <h2>Children under 13</h2>
-<p>
-Tom's of Maine does not knowingly encourage or solicit visitors who are under the age of 13 to become a member of Tom's of Maine website, or knowingly collect personally identifiable information from anyone under the age of 13 without parental consent. 
-</p>
-
+<p> Tom's of Maine does not knowingly encourage or solicit visitors who are under the age of 13 to become a member of Tom's of Maine website, or knowingly collect personally identifiable information from anyone under the age of 13 without parental consent.</p>
+<h2>Security of information</h2>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place a written information security program which includes appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect.</p>
 <h2>Opting out of future communications</h2>
-<p>
-You may opt out of receiving future communications from Tom’s of Maine when you register at the Site or otherwise provide your contact information to the Site. You may change your preferences at any time by clicking the "unsubscribe" link at the bottom of any email communication you receive from us and following the instructions provided therein.
-</p>
-
+<p> You may opt out of receiving future communications from Tom's of Maine when you register at the Site or otherwise provide your contact information to the Site. You may change your preferences at any time by clicking the "unsubscribe" link at the bottom of any email communication you receive from us and following the instructions provided therein.</p>
+<h2>Links to other websites</h2>
+<p>The Site contains links to other websites.  By clicking on such links, you will leave the Site and enter the other websites. The privacy practices of such linked websites are not covered by this Privacy Statement, and we are not responsible for the privacy practices, data collection, security or content of other websites.  You should be careful to review any privacy policies posted on linked sites before using them.</p>
 <h2>Your consent</h2>
-<p>
-By using this Site, you agree to the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy. If you do not agree to any provision of this Privacy Policy, please do not use our Site.
-</p>
-
+<p>By using this Site, you agree to the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy. If you do not agree to any provision of this Privacy Policy, please do not use our Site. </p>
 <h2>How to contact us</h2>
-<p>
-If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this Site, or if you would like to opt out of future communications, please contact us as follows:
-</p>
-<p>
-Tom's of Maine<br>
-302 Lafayette Center<br>
-Kennebunk, ME 04043<br>
-1-800-FOR-TOMS<br>
-<a href="mailto:info@tomsofmaine.com">info@tomsofmaine.com</a>
-</p>
-
+<p> If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this Site, or if you would like to opt out of future communications, please contact us as follows: </p>
+<p> Tom's of Maine<br>
+    302 Lafayette Center<br>
+    Kennebunk, ME 04043<br>
+    1-800-FOR-TOMS<br>
+    <a href="mailto:info@tomsofmaine.com">info@tomsofmaine.com</a> </p>
 <h2>Changes to this privacy policy</h2>
-<p>
-This Privacy Policy may be changed by us at anytime without prior notice. If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically and especially before you provide any personally identifiable information. 
-</p>
-
-
+<p> This Privacy Policy may be changed by us at anytime without prior notice. If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically and especially before you provide any personally identifiable information.</p>
 <h2>Copyright Notice</h2>
-<p>
-Copyright © 2008 Tom's of Maine, Inc. All rights reserved. Any rights not expressly granted herein are reserved.
-</p>
+<p>Copyright ©2011 Tom's of Maine, Inc. All rights reserved. Any rights not expressly granted herein are reserved.</p>       </div>
+
+   
+    
+                      <!-- log template: include-drawpods -->     
+         
+   
+        <!-- looking for templates beginning with podlist but found none -->   <div class="clear"><!-- clear --></div>
+<div class="btmCallout">
+
+
 
 
 </div>
-<!-- end generics -->
+<div class="clear"><!-- clear --></div>                          <div class="clear"><!-- clear --></div>
+                </div>
+                      <div class="clear"><!-- clear --></div>
+    </div>
+</div>
+<div id="subContent-btm"><!-- bg image --></div>               </div>
+    </div>
+    <div class="clear"><!-- clear --></div>
 
-<div id="ctl00_MainContent_Features1_divFeatureResults"></div>
+       
+    
+                      <!-- log template: include-footer -->     
+         <!--*/ START footer || include-footer /*-->
+<div id="footer" align="center">
+    <div id="footerNavigation">
+        <ul>
+            <li>© 2012 Tom's of Maine</li>
+                        <li><a href="/press/releases">Press</a></li>
+                        <li><a href="/careers">Careers</a></li>
+                        <li><a href="/tours">Tours</a></li>
+                        <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
+                        <li><a href="/social-media-guidelines">Social Media Policy</a></li>
+                        <li><a href="/terms-of-use">Terms Of Use</a></li>
+                        <li><a href="http://tomsofmaine.custhelp.com/cgi-bin/tomsofmaine.cfg/php/enduser/ask.php">FAQ</a></li>
+                    </ul>
+        <ul class="deviceLinks">
+            <li><a href="http://m.tomsofmaine.com?siteview=mobile" class="linkToMobile">Mobile</a>&nbsp;•&nbsp;<a href="http://www.tomsofmaine.com?siteview=desktop" class="active linkToDesktop">Desktop</a></li>
+        </ul>
+    </div>
+</div>
+<!--*/ END footer || include-footer /*-->       
+</div>
 
-
-            </div>
-         <!-- Footer -->
             
 
-<div class="footer">
-    <p>
-        <a href="/press/default.aspx">Press</a> |  <a href="http://www.tomsofmaine.com/health_professionals/" target="_blank">Health Professionals</a> |  <a href="/careers.aspx">Careers</a> |  <a href="/contact.aspx">Contact</a> |  <a href="/tours.aspx">Tours</a> |  <a href="/site-map.aspx">Site Map</a> |  <a href="javascript:TagFaqClickAndRedirect('http://tomsofmaine.custhelp.com/', 'footer')">FAQ</a>  |  <a href="/privacy.aspx">Privacy</a> | <a href="/terms-of-use.aspx">Terms Of Use</a> | ©2010 Tom's of Maine 
-    </p>
-</div>
-        <!-- End footer -->
-        </div>
-    </form>
 <script type="text/javascript">
-//<![CDATA[
-/* Replacement calls. Please see documentation for more information. */
-if(typeof sIFR == "function")
-{
-    // replace the h1's
-	sIFR.replaceElement(named({sSelector:"body h1", sFlashSrc:"/swf/FGGrayson.swf", sColor:"#004684", sBgColor:"#FFFFFF", sWmode:"transparent",
-	    nPaddingTop:0, nPaddingBottom:0, sFlashVars:"textalign=left&offsetTop=0"}));
-	    
-    // replace the h1's
-	sIFR.replaceElement(named({sSelector:".video2 h2", sFlashSrc:"/swf/FGGrayson.swf", sColor:"#004684", sBgColor:"#FFFFFF", sWmode:"transparent",
-	    nPaddingTop:0, nPaddingBottom:0, sFlashVars:"textalign=left&offsetTop=0"}));
-};
-//]]>
+var dc_doEvent = function ( eventType ) {
+}
+</script>     <!-- log template: analytics_doubleclick -->     
+                      <!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript"><!--
+var s_account='tomus';
+-->
 </script>
-    
+<script language="JavaScript" src="/TomsOfMaine/en-us/views/js/common/s_code.js"></script>
+<script language="JavaScript">
+<!--
+s.pageName='/privacy';
+s.prop1='';
+s.prop2='';
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://tomsofmaine.122.2o7.net/b/ss/tomsprod/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. -->     <!-- log template: analytics_omniture -->     
+          
 
+<!-- PAGE GENERATION INFORMATION
+  Generated:  06/05/2012  08:24:59
+  Application Server: ProdColgate03/8.0.1_tcServer_6.0.20.C
+-->
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
