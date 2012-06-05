@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webhostingchoice.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228021230id_/http%3A//webhostingchoice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingchoice.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605064639id_/http%3A//webhostingchoice.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting Choice
 
-Web Hosting Choice has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Web Hosting Choice](http://www.webhostingchoice.com/)
+Web Hosting Choice has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Web Hosting Choice](http://webhostingchoice.com/)
 
 **Information Automatically Logged**  
 We use your IP address to help diagnose problems with our server and to administer our Web site. The IP is simply stored for security purposes, such as a DOS attack. Your IP is not used for any other purposes. 
