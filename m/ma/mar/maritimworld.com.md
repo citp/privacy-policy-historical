@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the maritimworld.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201203704id_/http%3A//www.maritimworld.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritimworld.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606002311id_/http%3A//www.maritimworld.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Maritimworld - Privacy Policy
 
 Please enter your email address to subscribe  
-for weeklyÂ newsletter.
+for weekly newsletter.
 
 **Privacy**
 
@@ -20,13 +20,5 @@ The collection of information through this website and the disclosure of that in
 ---  
    
   
-[](http://www.mercyships.no/)  
-  
-[](http://www.safebridge.de/)  
-  
-[](http://www.hma.no/)  
-  
-[](http://www.s-5.org/)  
-  
-  
+[](http://www.mercyships.no/) [](http://www.safebridge.de/) [](http://www.hma.no/) [](http://www.s-5.org/)   
 
