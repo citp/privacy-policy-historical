@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205191856id_/http%3A//girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605084829id_/http%3A//girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Girls Not Brides
 
