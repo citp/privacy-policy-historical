@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125501id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605071825id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
 
 # healthinsurance.org™ privacy policy
 
-This privacy policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org™ [via e-mail through this form](http://www.healthinsurance.org/contact/) or via postal mail at healthinsurance.org™ LLC, 8009 34th Ave. South, Suite 360, Minneapolis, MN  55425\. 
+This privacy policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org™ [via e-mail through this form](http://www.healthinsurance.org/contact/) or via postal mail at healthinsurance.org™ LLC, 8009 34th Ave. South, Suite 360, Minneapolis, MN  55425.
 
 ## your privacy and health insurance quotes
 
 We link to sites which provide individual health insurance quotes. The product, your ZIP code and availablity in your area determine which options we display. We choose partners using several criteria, most importantly your convenience and privacy:
 
   * no hassle: shop online, no agent will call
-  * comparison shopping: side-by-side pricing/plans from multiple providers 
-  * mimimum personal information: in most cases just your zip code, birth date and gender 
+  * comparison shopping: side-by-side pricing/plans from multiple providers
+  * mimimum personal information: in most cases just your zip code, birth date and gender
 
 
 
@@ -24,8 +24,8 @@ For most other products, including Medicare, entering your ZIP code in our form 
 
 healthinsurance.org™ only collects personal information from you in these instances:
 
-  * if you use [this form](http://www.healthinsurance.org/contact) to contact us, we only use your information to reply and do not share it
-  * in select ZIP codes a pilot project connects you with insurance agent in your area. It is easily identifiable by being the only time you are directed to [this form.](http://www.healthinsurance.org/quotes/ipa)
+  * if you use [this form](http://www.healthinsurance.org/contact/) to contact us, we only use your information to reply and do not share it
+  * in select ZIP codes a pilot project connects you with insurance agent in your area.
 
 
 
@@ -33,7 +33,7 @@ In the case of the pilot project, you may be contacted by healthinsurance.org™
 
 ## anonymous information
 
-Statistic services log how visitors interact with healthinsurance.org, which helps us improve our site. They do not personally identify you. 
+Statistic services log how visitors interact with healthinsurance.org, which helps us improve our site. They do not personally identify you.
 
 ## cookies
 
@@ -41,4 +41,4 @@ A "cookie" is a piece of information that our web site sends to your browser, wh
 
 ## links to other web sites
 
-When you click on a link that takes you away from healthinsurance.org, be a smart consumer and review the privacy practices at any site you navigate to before providing personal information. 
+When you click on a link that takes you away from healthinsurance.org, be a smart consumer and review the privacy practices at any site you navigate to before providing personal information.
