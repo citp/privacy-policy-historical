@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourhugelist.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008105332id_/http%3A//yourhugelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhugelist.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606000415id_/http%3A//yourhugelist.com/privacy.php) for the most accurate reproduction.*
 
-# YourHUGEList.com - Your Choice For HUGE Traffic!
+# Best List Builder | Quality ListBuilder | Email Advertising | YourHugeList.com
 
-[](http://yourhugelist.com/bannerclick.php?id=852)  
+[](http://yourhugelist.com/bannerclick.php?id=3054)  
 
 
 YourHugeList Privacy Policy
@@ -37,5 +37,5 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) YourHugeList All Rights Reserved 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) |   
+[Support](http://brentstraffic.com/support/index.php?a=add&catid=1) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) |   
 
