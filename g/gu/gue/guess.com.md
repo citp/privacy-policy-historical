@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guess.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120143133id_/http%3A//shop.guess.com/CustomerCare/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605024606id_/http%3A//shop.guess.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**At GUESS, we are committed to protecting your privacy.** We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below.
+**At GUESS , we are committed to protecting your privacy.** We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below.
 
 **Kid's policy (individuals under 13 years of age).** GUESS is committed to protecting the safety of children online. In compliance with the Children's Privacy Protection Act of 1998, GUESS will never knowingly request or use personal information from children under 13 years of age without prior parental consent. If GUESS receives actual knowledge that a subscriber is under 13 years of age, GUESS will eliminate all personal information relating to this subscriber from our files.
 
@@ -27,7 +27,7 @@ Providing a safe and secure environment for your order information is our top pr
 If you have any questions about this privacy statement, the practices of this site, or your dealings with GUESS, you can contact us:
 
 Customer Service  
-GUESSfactory.com  
+GUESS.com  
 1444 Alameda St.  
 Los Angeles, CA 90021  
-[ ](https://web.archive.org/CustomerCare/ContactUs%3E%3Cu%3ECustomer%20Service%20Contact%20Form%3C/u%3E%3C/a%3E%3C/p%3E%3Cbr%20clear=)
+[Customer Service Contact Form](https://shop.guess.com/CustomerCare/ContactUs)
