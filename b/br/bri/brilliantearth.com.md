@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204080858id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605102719id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
 
 # Brilliant Earth: Security Policy & Privacy Policy
 
-Secure Shopping
+Secure Shopping 
 
 At Brilliant Earth, complete security for customer transactions is our primary concern. With these measures in place, you can be confident in the security of the Brilliant Earth website.
 
@@ -28,7 +28,7 @@ If you prefer not to use your credit card over the Internet, you can give us a c
 
 For your protection, Brilliant Earth insures and registers all items for their full value. Brilliant Earth requires that all deliveries must be made to a physical business or home address only - we do not ship to P.O. Box addresses. We also require an adult to sign for the delivery.
 
-Brilliant Earth Privacy Guarantee
+Brilliant Earth Privacy Guarantee 
 
 Your privacy is very important to us. This privacy policy explains what information Brilliant Earth collects, why we collect this information and how we use the information we collect.
 
@@ -86,7 +86,7 @@ Additionally, Brilliant Earth may use third-party advertising or content deliver
 
 Last Updated June 10, 2006
 
-Terms and Conditions
+Terms and Conditions 
 
 Brilliant Earth offers this site to you under the following conditions. By visiting and/or using this site in any way, such as browsing products or placing an order, you agree to these conditions. These terms and conditions may change with or without notice and are effective immediately upon being posted.
 
