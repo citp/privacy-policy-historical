@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113073528id_/http%3A//minnesota.cbslocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcco.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606150527id_/http%3A//minnesota.cbslocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « CBS Minnesota
 
