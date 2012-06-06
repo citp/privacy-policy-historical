@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextsportstar.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224170642id_/http%3A//www.nextsportstar.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextsportstar.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606045800id_/http%3A//www.nextsportstar.com/help/privacy) for the most accurate reproduction.*
 
 # Social Network - Privacy Policy
 
