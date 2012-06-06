@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127082251id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606175849id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head profile="http://www.w3.org/2005/10/profile">
+
+
 
 
 
@@ -58,22 +60,30 @@
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
+
+
+
+
+
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-30167-1");
 		pageTracker._trackPageview();
 	</script>
+
+
+
 	<script language="JavaScript">
    
     function CallUrchin(event_name)
     {
     		pageTracker._trackPageview(event_name);
-			//alert(event_name);
+			/*alert(event_name);*/
 		return true;
     }
     function CallTracker(cat, cat2, value)
     {
     		pageTracker._trackEvent(cat, cat2, value);
-			//alert(event_name);
+			/*alert(event_name);*/
 		return true;
     }
     function CallTrackerServerError(cat, cat2, value)
@@ -86,38 +96,44 @@
 		pageTracker._trackEvent(cat, cat2, value);
 		return true;
     }
+</script>
+      
     
-    /**
-    Asynchronous tracking of page views
-    New recommended approach by GA. Imporves performance
     
-    **/
+    
+	<script language="JavaScript">   
     function CallUrchinAsync(event_name)
     {
-    	_gaq.push(['_trackPageview',event_name]);
+    	_gaq.push(['_trackPageview',event_name]);    	
 		return true;
     }
-    /**
-    Asynchronous tracking of events
-    New recommended approach by GA. Imporves performance
+    </script>
+
+
     
-    **/
+
+
+	<script language="JavaScript">   
     function CallTrackerAsync(cat, cat2, value)
     {
     		_gaq.push(['_trackEvent',cat, cat2, value]);			
 		return true;
     }
+	</script>
+
+
+	<script language="JavaScript">   
     function addGATrans(booknumber,bookprice){    
 		try {		  
 		  pageTracker._addTrans(
-		    booknumber,  									// Order ID
-		    "",                            					// Affiliation
-		    bookprice, 										// Total
-		    "",                                    		 // Tax
-		    "",                                          // Shipping
-		    "",                                			 // City
-		    "",                              			 // State
-		    ""                                       	 // Country
+		    booknumber,  									/* Order ID */
+		    "",                            					/* Affiliation */
+		    bookprice, 										/* Total */
+		    "",                                    		 	/* Tax */
+		    "",                                          	/* Shipping */
+		    "",                                			 	/* City */
+		    "",                              			 	/* State */
+		    ""                                       	 	/* Country */
 		  );		  
 		
 		  pageTracker._trackTrans();
@@ -125,7 +141,7 @@
 		}
     
  	/* http://code.google.com/apis/analytics/docs/tracking/gaTrackingCustomVariables.html */   
-    function setGACustomVar(slot,varName,varValue,scope) {
+     function setGACustomVar(slot,varName,varValue,scope) {
     	pageTracker._setCustomVar(slot,varName,varValue,scope); 
     }    
  </script>  
@@ -136,6 +152,30 @@
 
 
 
+	<!-- start coremetrics tracking here -->
+	<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+	
+	<script type="text/javascript">
+		var domainname = "www.vacationoutlet.com";
+		
+		var coremetricsSubClientID = domainname.toUpperCase();
+		var coremetricsClientID = "50040000|" + coremetricsSubClientID;
+		var coremetricsDataCollectionDomain = "data.coremetrics.com";
+		var coremetricsCookieDomain = domainname;
+		
+		//alert("cmSetClientID(" + coremetricsClientID + ", true, " + coremetricsDataCollectionDomain + ", " + coremetricsCookieDomain + ");");
+		cmSetClientID(coremetricsClientID, true, coremetricsDataCollectionDomain, coremetricsCookieDomain);
+		cmSetupNormalization(null,"tab,i");
+	</script>
+	<!-- end coremetrics tracking here -->
+
+
+
+
+
+
+
+
 
 
 
@@ -156,8 +196,7 @@
 
 
 <script language="javascript" src="/lib/JavaScript/general/browserdetect_lite.js"></script>
-
-	
+<script language="JavaScript" src="/code/javaScript/JSPopup.js"></script>
 </head>
 
 
@@ -166,7 +205,7 @@
 
 
 <!--
-	server and timestamp info:blweb23:Sun Nov 27 03:22:51 EST 2011
+	server and timestamp info:blweb23:Wed Jun 06 13:58:49 EDT 2012
   -->
 	
 
@@ -175,24 +214,31 @@
 
 
 
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script language="javascript" src="/lib/JavaScript/general/browserdetect_lite.js"></script>
 <style type="text/css" media="all">
 img{border: 0;}
 </style>
 <div align="center">
 
-	<div id="VO_header_container">
+
+
+
+
+	<div id="vo_header_container">
 			<div id="vo_header_top">
-				<div id="vo_header_logo"><a href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header/logo_cruise.gif" width="240" height="45" border="0" alt="Vacation Outlet Cruises"></a></div>
- <script type="text/javascript">
-	  	if (browser.isIE7) {
-	  	}
-	  	else
-	  	{
-	  	document.write("<div class='googleplus1_text'>Google Plus One Us!<br /><g:plusone></g:plusone></div>")
-	  	}
-	  </script><div class="googleplus1_text">Google Plus One Us!<br><g:plusone></g:plusone></div>	
+				<div id="vo_header_logo"><a href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header/logo.gif" width="265" height="34" border="0" alt="Vacation Outlet"></a></div>
+ 				
+				 
+				 <script type="text/javascript">
+					  	if (browser.isIE7) {
+					  	}
+					  	else
+					  	{
+					  	document.write("<div class='googleplus1_text'>Google Plus One Us!<br /><g:plusone></g:plusone></div>")
+					  	}
+					</script><div class="googleplus1_text">Google Plus One Us!<br><g:plusone></g:plusone></div>
+	  				
 	  					
 					
 						<div id="vo_header_phone_xtranarrow"><img src="/images_unique/vo/header/vo_header_phone.gif" width="395" height="62" border="0" alt="Vacation Outlet 1-800-TAKE-OFF"><br>
@@ -204,28 +250,37 @@ img{border: 0;}
 		</div>			
 	
 		<div style="clear:both"></div>
-			<div id="VO_header_bottom">
+			<div id="vo_header_bottom">
 			
-				
-				<div class="navButtonon"><a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/header/tab_home-on.gif" width="55" height="41" border="0" alt="Vacation Outlet Home"></a></div>
-				<div class="navButtonoff"><a href="http://www.cruiseoutlet.com/cruises/default.asp"><img src="/images_unique/vo/header/tab_cruise-off.gif" width="73" height="41" border="0" alt="Vacation Outlet Cruises"></a></div>
-				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/packages/default.asp"><img src="/images_unique/vo/header/tab_vaca-off.gif" width="88" height="41" border="0" alt="Vacation Outlet Vacation Packages"></a></div>
-				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/hotels/default.asp"><img src="/images_unique/vo/header/tab_hotel-off.gif" width="66" height="41" border="0" alt="Vacation Outlet Hotels"></a></div>
-				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/default.asp"><img src="/images_unique/vo/header/tab_boston-off.gif" width="150" height="41" border="0" alt="Vacation Outlet Boston Vacations"></a></div>
-				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp"><img src="/images_unique/vo/header/tab_car-off.gif" width="101" height="41" border="0" alt="Vacation Outlet Car Rentals"></a></div>
-				<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/lm/default.asp"><img src="/images_unique/vo/header/tab_lm-off.gif" width="139" height="41" border="0" alt="Vacation Outlet Last Minute Deals"></a></div>
+               
+			
+			
+				<div class="navButtonOff"><a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/header/tab_home-off.gif" width="55" height="41" border="0" alt="Vacation Outlet Home"></a></div>
 
-			
-			
-				<div id="VO_header_space_right_narrow"></div>
+				<div class="navButtonOn"><a href="/cruises/default.asp"><img src="/images_unique/vo/header/tab_cruise-on.gif" width="73" height="41" border="0" alt="Vacation Outlet Cruises"></a></div>
+
+				<div class="navButtonOff"><a href="http://www.vacationoutlet.com/packages/default.asp"><img src="/images_unique/vo/header/tab_vaca-off.gif" width="88" height="41" border="0" alt="Vacation Outlet Vacation Packages"></a></div>
+
+				<div class="navButtonOff"><a href="http://www.vacationoutlet.com/hotels/default.asp"><img src="/images_unique/vo/header/tab_hotel-off.gif" width="66" height="41" border="0" alt="Vacation Outlet Hotels"></a></div>
+
+				<div class="navButtonOff"><a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/default.asp"><img src="/images_unique/vo/header/tab_boston-off.gif" width="150" height="41" border="0" alt="Vacation Outlet Boston Vacations"></a></div>
+
+				<div class="navButtonOff"><a href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp"><img src="/images_unique/vo/header/tab_car-off.gif" width="101" height="41" border="0" alt="Vacation Outlet Car Rentals"></a></div>
+
+				<div class="navButtonOff"><a href="/promotion/vo/lm/default.asp"><img src="/images_unique/vo/header/tab_lm-off.gif" width="139" height="41" border="0" alt="Vacation Outlet Last Minute Deals"></a></div>
+
 				
+				
+					<div id="vo_header_space_right_narrow"></div>
+					
+			
 			</div>
 			
 			<div class="clear-both"></div>
 	</div>
 	<div class="clear"></div>
 	
-		
+
 
 	
 
@@ -408,21 +463,25 @@ img{border: 0;}
 
 
 
+
 </div>
 </div>
+<div style="clear:both;"></div>
 <center>
-	<link rel="stylesheet" type="text/css" href="/vomaps/footer.css">
 	
-	<div id="crosslinks"> 
+	<div id="crosslinks" style="margin-top:10px;"> 
 	
 	
 		<a href="http://www.vacationoutlet.com/cs/default.asp"><img src="/images_unique/cs_v4.gif" alt="Cruise Customer Service" border="0"></a><br><br>
 
-		<a href="/promotion/vo/all-inclusive-vacations.asp" class="footerlinks">All-Inclusive Vacations</a> | 
+		
+	
+		<a href="http://www.vacationoutlet.com/promotion/vo/all-inclusive-vacations.asp" class="footerlinks">All-Inclusive Vacations</a> | 
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=ArubaVacationBody&amp;isShowFramework=true" class="footerlinks">Aruba Vacations</a> | 
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=CaribbeanVacationBody&amp;isShowFramework=true" class="footerlinks">Caribbean Vacations</a> |		  
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=DisneyVacationBody&amp;isShowFramework=true" class="footerlinks">Disney Vacations</a> | 
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=FloridaVacationBody&amp;isShowFramework=true" class="footerlinks">Florida Vacations</a><br>
+		
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=HawaiiVacationBody&amp;isShowFramework=true" class="footerlinks">Hawaii Vacations</a> |		  
 		<a href="http://www.vacationoutlet.com/promotion/vo/jamaica/default.asp" class="footerlinks">Jamaica Vacations</a> | 
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=LasVegasVacationBody&amp;isShowFramework=true" class="footerlinks">Las Vegas Vacations</a> | 
@@ -430,8 +489,6 @@ img{border: 0;}
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=MexicoVacationBody&amp;isShowFramework=true" class="footerlinks">Mexico Vacations</a><br>
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationVacationHead&amp;bodyTemplate=OrlandoVacationBody&amp;isShowFramework=true" class="footerlinks">Orlando Vacations</a> |		  
 		<a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/default.asp" class="footerlinks">Vacations from Boston</a> |
-		
-		
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=ArubaHotelBody&amp;isShowFramework=true" class="footerlinks">Aruba Hotels</a> | 
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=CaliforniaHotelBody&amp;isShowFramework=true" class="footerlinks">California Hotels</a> | 
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=CaribbeanHotelBody&amp;isShowFramework=true" class="footerlinks">Caribbean Hotels</a> | 
@@ -445,66 +502,71 @@ img{border: 0;}
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=NewYorkHotelBody&amp;isShowFramework=true" class="footerlinks">New York Hotels</a> |
 		<a href="http://vacations.vacationoutlet.com/wthvoutlet/CPMerchandisingPage?DD=WTHVOUTLET&amp;headTemplate=DestinationHotelHead&amp;bodyTemplate=OrlandoHotelBody&amp;isShowFramework=true" class="footerlinks">Orlando Hotels</a> | 
 		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/cruise-hotels.asp" class="footerlinks">Pre- And Post-Cruise Hotels</a> | 
-		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/city-hotels.asp" class="footerlinks">Top U.S. Cities Hotels</a><br><br>
+		<a href="http://www.vacationoutlet.com/promotion/vo/hotels/city-hotels.asp" class="footerlinks">Top U.S. Cities Hotels</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/top-vacation-hotel-deals.asp" class="footerlinks">Top Vacation Hotel Deals</a><br><br>
 	
  
 	
-		<a href="http://www.cruiseoutlet.com/c/cruisemain.asp" class="footerlinks">Cruise Lines</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/azamara-cruises.do" class="footerlinks">Azamara Club Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/carnival-cruises.do" class="footerlinks">Carnival Cruise Line</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/celebrity-cruises.do" class="footerlinks">Celebrity Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/costa-cruises.do" class="footerlinks">Costa Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=17" class="footerlinks">Crystal Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=18" class="footerlinks">Cunard Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/disney-cruises.do" class="smlink">Disney Cruise Line</a><br>
-		<a href="http://www.cruiseoutlet.com/promotion/holland-america-cruises.do" class="footerlinks">Holland America Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/msc-cruises.do" class="footerlinks">MSC Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/norwegian-cruises.do" class="footerlinks">Norwegian Cruise Line</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/oceania-cruises.do" class="smlink">Oceania Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=333" class="smlink">Paul Gauguin Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/princess-cruises.do" class="smlink">Princess Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=41" class="smlink">Regent Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/vo/rivercruising/viking-river-cruises.asp" class="smlink">River Cruising</a><br>
+		<a href="http://www.vacationoutlet.com/c/cruisemain.asp" class="footerlinks">Cruise Lines</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/ama-river-cruises.do" class="footerlinks">AmaWaterway Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/avalon-river-cruises.do" class="footerlinks">Avalon Waterways Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/azamara-cruises.do" class="footerlinks">Azamara Club Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/carnival-cruises.do" class="footerlinks">Carnival Cruise Line</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/celebrity-cruises.do" class="footerlinks">Celebrity Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/costa-cruises.do" class="footerlinks">Costa Cruises</a><br>	
 		
-		<a href="http://www.cruiseoutlet.com/promotion/royal-caribbean-cruises.do" class="footerlinks">Royal Caribbean</a> |
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=48" class="smlink">Seabourn Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=324" class="smlink">SeaDream Yacht Club</a> |
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=50" class="smlink">Silversea Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/vo/rivercruising/uniworld-river-cruises.asp" class="smlink">Uniworld River Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/vo/rivercruising/viking-river-cruises.asp" class="smlink">Viking River Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/c/cruiseline.asp?lineid=64" class="smlink">Windstar Cruises</a><br>
- 
-		<a href="http://www.cruiseoutlet.com/promotion/alaska-cruises.do" class="footerlinks">Alaska Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/bahamas-cruises.do" class="footerlinks">Bahamas Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/balcony-suite-cruises.do" class="footerlinks">Balcony-Suite Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/bermuda-cruises.do" class="footerlinks">Bermuda Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/canada-new-england-cruises.do" class="footerlinks">Canada/New England Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/caribbean-cruises.do" class="footerlinks">Caribbean Cruises</a><br>
+		<a href="http://www.vacationoutlet.com/promotion/crystal-cruises.do" class="footerlinks">Crystal Cruises</a>  |		
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=18" class="footerlinks">Cunard Cruises</a> | 		
+		<a href="http://www.vacationoutlet.com/promotion/disney-cruises.do" class="smlink">Disney Cruise Line</a> |
+		<a href="http://www.vacationoutlet.com/promotion/holland-america-cruises.do" class="footerlinks">Holland America Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/msc-cruises.do" class="footerlinks">MSC Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/norwegian-cruises.do" class="footerlinks">Norwegian Cruise Line</a> |  		
+		<a href="http://www.vacationoutlet.com/promotion/oceania-cruises.do" class="smlink">Oceania Cruises</a>|			
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=333" class="smlink">Paul Gauguin Cruises</a><br>
 		
-		<a href="http://www.cruiseoutlet.com/promotion/vo/regional/default.asp" class="footerlinks">Close to Home Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/vo/bostonbest/cdefault.asp" class="footerlinks">Cruise from Boston</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/vo/newyork/cruise-from-ny.asp" class="footerlinks">Cruise from NY</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/europe-cruises.do" class="footerlinks">European Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/family-cruises.do" class="footerlinks">Family Cruises</a> | 		
-		<a href="http://www.cruiseoutlet.com/promotion/glbt/default.asp" class="footerlinks">Gay &amp; Lesbian Cruises</a> |		
-		<a href="http://www.cruiseoutlet.com/groups/default.asp" class="footerlinks">Group Cruises</a><br>  
+		<a href="http://www.vacationoutlet.com/promotion/princess-cruises.do" class="smlink">Princess Cruises</a> |
 		
-		<a href="http://www.cruiseoutlet.com/promotion/hawaii-cruises.do" class="footerlinks">Hawaii Cruises</a>  |
-		<a href="http://www.cruiseoutlet.com/promotion/holiday-cruises.do" class="footerlinks">Holiday Cruises</a>  |
-		<a href="http://www.cruiseoutlet.com/promotion/vo/luxury/cdefault.asp" class="footerlinks">Luxury Cruises</a> | 
-		<a href="http://www.cruiseoutlet.com/promotion/lastminutecruises/lastminutecruises.asp" class="footerlinks">Last-Minute Cruises</a>  | 
-		<a href="http://www.cruiseoutlet.com/promotion/mexico-cruises.do" class="footerlinks">Mexico Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/vo/newships/new-cruise-ships.asp" class="footerlinks">New Cruise Ships</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/cheap-cruises.do" class="footerlinks">Really Cheap Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/romantic-cruises.do" class="footerlinks">Romantic Cruises</a><br>
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=41" class="smlink">Regent Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/royal-caribbean-cruises.do" class="footerlinks">Royal Caribbean</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=48" class="smlink">Seabourn Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=324" class="smlink">SeaDream Yacht Club</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=50" class="smlink">Silversea Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/uniworld-cruises.do" class="smlink">Uniworld River Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/viking-river-cruises.do" class="smlink">Viking River Cruises</a><br>
+		
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=64" class="smlink">Windstar Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/alaska-cruises.do" class="footerlinks">Alaska Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/bahamas-cruises.do" class="footerlinks">Bahamas Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/balcony-suite-cruises.do" class="footerlinks">Balcony-Suite Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/bermuda-cruises.do" class="footerlinks">Bermuda Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/canada-new-england-cruises.do" class="footerlinks">Canada/New England Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/caribbean-cruises.do" class="footerlinks">Caribbean Cruises</a><br>
+		
+		<a href="http://www.vacationoutlet.com/promotion/ports/regional-cruises.do" class="footerlinks">Close to Home Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/cdefault.asp" class="footerlinks">Cruise from Boston</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/ports/cruises-from-new-york.do" class="footerlinks">Cruise from NY</a> |
+		<a href="http://www.vacationoutlet.com/promotion/europe-cruises.do" class="footerlinks">European Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/family-cruises.do" class="footerlinks">Family Cruises</a> | 		
+		<a href="http://www.vacationoutlet.com/groups/default.asp" class="footerlinks">Group Cruises</a> |		
+		<a href="http://www.vacationoutlet.com/promotion/hawaii-cruises.do" class="footerlinks">Hawaii Cruises</a><br>
+		
+		<a href="http://www.vacationoutlet.com/promotion/holiday-cruises.do" class="footerlinks">Holiday Cruises</a>  |
+		<a href="http://www.vacationoutlet.com/promotion/vo/luxury/cdefault.asp" class="footerlinks">Luxury Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/lastminutecruises/lastminutecruises.asp" class="footerlinks">Last-Minute Cruises</a>  | 
+		<a href="http://www.vacationoutlet.com/promotion/mexico-cruises.do" class="footerlinks">Mexico Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/newships/new-cruise-ships.asp" class="footerlinks">New Cruise Ships</a> |
+		<a href="http://www.vacationoutlet.com/promotion/cheap-cruises.do" class="footerlinks">Really Cheap Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/romantic-cruises.do" class="footerlinks">Romantic Cruises</a><br>
 		 
 		<a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1694" class="footerlinks" target="_blank">Shore Excursions</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/singles-cruises.do" class="footerlinks">Single – Cruising Solo?</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/summer-cruises.do" class="footerlinks">Summer Cruise Deals</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/weekend-cruises.do" class="footerlinks">Weekend Cruises</a> |
-		<a href="http://www.cruiseoutlet.com/promotion/vo/west-coast/default.asp" class="footerlinks">West Coast Cruises</a>
+		<a href="http://www.vacationoutlet.com/promotion/singles-cruises.do" class="footerlinks">Single – Cruising Solo?</a> |
+		<a href="http://www.vacationoutlet.com/promotion/summer-cruises.do" class="footerlinks">Summer Cruise Deals</a> |
+		<a href="http://www.vacationoutlet.com/promotion/weekend-cruises.do" class="footerlinks">Weekend Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/west-coast/default.asp" class="footerlinks">West Coast Cruises</a>
+
 
 	</div>
+
 	
 	<div id="footerNav">
 		
@@ -518,11 +580,11 @@ img{border: 0;}
 				<td valign="top">
 					<a href="http://nlg.com/PR_20110823.html" target="newwindow"><img src="/images_unique/promotions/MostEngaged_Logo.gif" alt="" border="0"></a>
 				</td>
-				<td valign="middle">
+				<td valign="middle" style="text-align:left;">
 					<span style="color:white">Vacation Outlet is your premier online destination for dream vacations and cruise getaways.<br>
 					Choose your trip from thousands of discount travel packages and last-minute deals<br> from the world's best
 					resorts, hotels, and cruise lines.<br>
-					© 2011&nbsp;Vacation Outlet is a registered trademark of WTH/NLG.  All rights reserved.  <a href="http://www.vacationoutlet.com/cs/sellerinfo.asp" class="footerlinks">Seller of Travel Info</a></span><br><br>
+					© 2012&nbsp;Vacation Outlet is a registered trademark of WTH/NLG.  All rights reserved.  <a href="http://www.vacationoutlet.com/cs/sellerinfo.asp" class="footerlinks">Seller of Travel Info</a></span><br><br>
 				</td>
 			</tr>
 		</tbody></table>	
@@ -548,7 +610,7 @@ try {
 } catch(error) {}
 </script>
 <noscript>
-<a href="http://www.boldsoft.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/664584437666327480/bc.vmi?wdid=2139414639033429587" border="0" width="1" height="1" /></a>
+<a href="https://www.boldsoft.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="https://vms.boldchat.com/aid/664584437666327480/bc.vmi?wdid=2139414639033429587" border="0" width="1" height="1" /></a>
 </noscript>
 <!-- /Bold Software Visitor Monitor HTML v2.00 -->
 
@@ -581,6 +643,73 @@ _marinTrack.trackPage();
 	</tr>
 </tbody></table>
 </div>
+
+
+
+
+
+	<!-- start coremetrics tracking here -->
+	
+	<script type="text/javascript">	
+		var domainname = "www.vacationoutlet.com";
+		var pathname = document.location.pathname;
+		
+		var tabStartIndex = pathname.indexOf(";jsessionid=");
+		if(tabStartIndex > 0){
+			pathname = pathname.substring(0, tabStartIndex);
+		}
+		
+		var coremetricsPageId = domainname + ":" + pathname;
+		if(pathname == "/sc.do"){
+			var tabName = "itin";
+			
+			var search = document.location.search;
+			var tabStartIndex = search.indexOf("tab=");
+			if(tabStartIndex > 0){
+				var tabEndIndex = search.indexOf("&", tabStartIndex);
+				tabName = search.substring(tabStartIndex + 4, tabEndIndex);
+			}
+			
+			coremetricsPageId = coremetricsPageId + ":" + tabName;
+		}
+	
+		var coremetricsCategoryId = domainname;
+		
+		//alert("cmCreatePageviewTag(" + coremetricsPageId + ", " + coremetricsCategoryId + ");");
+		if(pathname != "/invoicecontent.do"){
+			cmCreatePageviewTag(coremetricsPageId, coremetricsCategoryId);
+		}
+	</script>
+
+
+	<script type="text/javascript">
+		var pathname = document.location.pathname;
+		if(pathname == "/b/c/confirmation.do"){
+			var coremetricsOrderID = "";
+			var coremetricsSubTotal = "";
+			var coremetricsCustomerID = "";
+			var coremetricsCustomerCity = "";
+			var coremetricsCustomerState = "";
+			var coremetricsCustomerPostcode = "";
+			
+			//alert("cmCreateOrderTag(" + coremetricsOrderID + ", " + coremetricsSubTotal + ", 0, " + coremetricsCustomerID + ", " + coremetricsCustomerCity + ", " + coremetricsCustomerState + ", " + coremetricsCustomerPostcode + ");");
+			cmCreateOrderTag(coremetricsOrderID, coremetricsSubTotal, "0", coremetricsCustomerID, coremetricsCustomerCity, coremetricsCustomerState, coremetricsCustomerPostcode);
+			cmCreateRegistrationTag(coremetricsCustomerID, coremetricsCustomerID, coremetricsCustomerCity, coremetricsCustomerState, coremetricsCustomerPostcode, "US");
+			
+		}else if(pathname == "/invoicecontent.do"){
+			var coremetricsOrderID = 'null';
+			var coremetricsSubTotal = 'null';
+			var coremetricsCustomerID = "";
+
+			//alert("cmCreateOrderTag(" + coremetricsOrderID + ", " + coremetricsSubTotal + ", 0, " + coremetricsCustomerID + ");");			
+			cmCreateOrderTag(coremetricsOrderID, coremetricsSubTotal, "0", coremetricsCustomerID, "", "", "");
+			cmCreateRegistrationTag(coremetricsCustomerID, coremetricsCustomerID);
+		}
+	</script>
+
+	<!-- end coremetrics tracking here -->
+
+
 
 
 
