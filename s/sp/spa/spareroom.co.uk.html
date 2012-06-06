@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spareroom.co.uk privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227094443id_/http%3A//www.spareroom.co.uk/content/default/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spareroom.co.uk privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606044046id_/http%3A//www.spareroom.co.uk/content/default/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="no_js logged_out" lang="en"><!--<![endif]--><head>
 
@@ -18,7 +18,7 @@
 
 
 <!-- #bbinclude ":v4:css_compressed_lbi.html" -->
-<link rel="stylesheet" type="text/css" href="http://images2.spareroom.co.uk/assets/14b14a7f8cf4eede18488771f22936da.css">
+<link rel="stylesheet" type="text/css" href="http://images2.spareroom.co.uk/assets/19a27246ba61b51543ec9830701f084c.css">
 <!-- end bbinclude -->
 
 
@@ -27,19 +27,19 @@
 #JQUERY_VERSION#="1.6.1"
 -->
 	<!-- jQuery -->
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 	<script type="text/javascript">window.jQuery || document.write("<script src='http:\/\/images2.spareroom.co.uk\/js\/common\/jquery\/jquery-1.6.1.min.js'><\/script>");</script><script src="http://images2.spareroom.co.uk/js/common/jquery/jquery-1.6.1.min.js"></script>
 <!-- end bbinclude -->
 
 
 
 <!-- #bbinclude ":v4:js_compressed_lbi.html" -->
-<script type="text/javascript" src="http://images2.spareroom.co.uk/assets/b2bf1b73f09a7510617f575cc23bd926.js"></script>
+<script type="text/javascript" src="http://images2.spareroom.co.uk/assets/85b3e3eca384e84400109bd993553feb.js"></script>
 <script>
-sr.user = {
-	id: 0,
-	name: ''
-};
+sr.user.id = 0;
+sr.user.name = '';
+sr.loginReturnPath = '';
+sr.facebookConnect.appOptions.appId = '5097577709';
 sr.init();
 </script>
 <!-- end bbinclude -->
@@ -58,6 +58,11 @@ sr.init();
 
 
 
+
+
+
+
+<!-- end bbinclude -->
 <!-- #bbinclude "header_js_lbi.html" -->
 
 
@@ -66,6 +71,33 @@ sr.init();
 
 <!-- #bbinclude "/vwo_s-r_lbi.html" --><!-- end bbinclude -->
 
+<!-- #bbinclude ":spareroom:google_analytics_async_version_lbi.html" -->
+<!-- NEEDS TO BE PLACED JUST BEFORE THE /head TAG -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1921094-1']);
+  _gaq.push(['_setDomainName', 'spareroom.co.uk']);
+</script>
+
+
+<!-- so we can handle _trackPageview differently on dynamic pages.... -->
+
+<script type="text/javascript">
+  _gaq.push(['_trackPageview']);
+</script>
+
+
+<script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- end bbinclude -->
 </head>
 
 
@@ -88,7 +120,7 @@ sr.init();
 		<div id="header_info_content">
 			
 				<div class="slideshow">
-					<p class="slide slide_first"><!--total_user_count-->2,325,569<!--/total_user_count--> registered users! SpareRoom has a huge choice of <!--Flatshares, -->Rooms for Rent and Flatmates across the UK</p>
+					<p class="slide slide_first"><!--total_user_count-->2,577,522<!--/total_user_count--> registered users! SpareRoom has a huge choice of <!--Flatshares, -->Rooms for Rent and Flatmates across the UK</p>
 					<p class="slide">SpareRoom is the UK's #1 flat and house share website. Source: <a href="/content/about/about-spareroom-new/">Hitwise</a></p>
 					<p class="slide">'The pioneering online business that has transformed the way people look for somewhere to live' - <em>The Daily Express</em></p>
 					<p class="slide">Every 3 minutes someone in the UK finds a flatmate with SpareRoom.co.uk</p>
@@ -107,44 +139,70 @@ sr.init();
 				<span class="login_box_prompt_text">Have an account?</span>
 				<a class="login_box_button login_box_login" href="/flatshare/logon.pl">
 					<span class="login_box_button_text">Log in</span>
-					<span class="login_box_arrow">»</span>
+					<span class="ir login_box_arrow">»</span>
 				</a>	
 			</p>
-			<form action="/flatshare/logon.pl" method="POST" class="login_box_panel login_box_form">
-				<div class="login_box_bubble_arrow"></div>
-			
-				<input type="hidden" name="loginfrom_url" value=""> 
-				
-				<p class="login_box_field login_box_email">
-					<label for="login_box_email">Email</label><br>
-					<input type="text" name="email" id="login_box_email" value="" size="20">
-				</p>
-			
-				<p class="login_box_field login_box_password">
-					<label for="login_box_password">Password</label><br>
-					<input type="password" name="password" id="login_box_password" value="" size="10">
-					<br>
-					<a href="/flatshare/passwordreminder.pl" rel="nofollow" class="login_box_forgotten_pass">Forgot password?</a>
-				</p>
-				
-				<ul class="login_box_security_options">
-					<li class="login_box_remember_me">
-						<input type="radio" name="remember_me" id="login_box_remember_me_y" value="Y">
-						<label for="login_box_remember_me_y">Remember me</label>
-					</li>
-					<li class="login_box_shared_computer">
-						<input type="radio" name="remember_me" id="login_box_remember_me_n" value="N" checked="checked">
-						<label for="login_box_remember_me_n">Shared computer</label>
-					</li>
-				</ul>
-				<p class="login_box_login_button_container">
-					<button type="submit" class="login_box_login_button">Log in</button>
-				</p>				
-			</form>
+			<div class="login_box_panel">
+				<div class="login_box_form_container">
+					<form action="/flatshare/logon.pl" method="POST" class="login_box_form">
+						<div class="login_box_bubble_arrow"></div>				
+						<h4>Log in to SpareRoom</h4>
+						
+						<p class="login_box_field login_box_email">
+							<label for="login_box_email">Email</label><br>
+							<input type="text" name="email" id="login_box_email" value="" size="20">
+						</p>
+					
+						<p class="login_box_field login_box_password">
+							<label for="login_box_password">Password</label><br>
+							<input type="password" name="password" id="login_box_password" value="" size="10">
+							<a href="/flatshare/passwordreminder.pl" rel="nofollow" class="login_box_forgotten_pass">Forgot?</a>
+						</p>
+						
+						<ul class="login_box_security_options">
+							<li class="login_box_remember_me">
+								<input type="radio" name="remember_me" id="login_box_remember_me_y" value="Y">
+								<label for="login_box_remember_me_y">Remember me</label>
+							</li>
+							<li class="login_box_shared_computer">
+								<input type="radio" name="remember_me" id="login_box_remember_me_n" value="N" checked="checked">
+								<label for="login_box_remember_me_n">Shared computer</label>
+							</li>
+						</ul>
+						<p class="login_box_login_button_container">
+							<input type="hidden" name="loginfrom_url" value=""> 
+							<button type="submit" class="login_box_login_button">Log in</button>
+						</p>
+					</form>
+					<div class="login_box_reg">
+						<h4>Not registered?</h4>
+						<p>It's free and lets you...</p>
+						
+						<ul class="bulletlist">
+							<li>Place ads</li>				
+							<li>Contact advertisers</li>
+							<li>Save your searches</li>
+							<li>Save ads</li>
+							<li>Set up email alerts</li>
+						</ul>
+						
+						<p><a href="/flatshare/reg.pl">Register now for free »</a></p>
+					</div>
+					<div class="login_box_fb">				
+						<h4>…or log in using your Facebook account</h4>
+						<p class="login_box_fb_notice">
+							<small>(we'll never post on your timeline without your permission)</small>
+						</p>
+						<p class="login_box_fb_button">
+							<a href="/flatshare/logon.pl" class="fbconnect_login">Log in with Facebook</a>
+						</p>
+					</div>
+				</div>
+			</div>
 		
 	</div>
 
-
+	
 	<div class="clear"></div>
 </div>
 <!-- end bbinclude -->
@@ -373,35 +431,44 @@ sr.init();
 <p>When you provide personal information to SpareRoom.co.uk, the data controller is Flatshare Limited ('we' , 'us', 'Our'). The United Kingdom Data Protection Act 1988 gives United Kingdom users the right to access information that is held about them. <!--Any access request may be subject to a fee of up to &#163;15.00 sterling to meet Flatshare Limited's administration costs in providing details of the information it holds about the requesting user.--></p>
 <p>Flatshare Limited <!-- was SpareRoom.co.uk--> take the privacy of our users seriously.</p>
 
-<p>
-As part of the our services, advertisers and users will register and we may ask you personal information, including such things as: 
-</p><ul><li>First name or first and last names of the user</li>
-<li>Gender, age, birthdates</li>
-<li>Occupation, </li>
-<li>Your email address and telephone number</li>
-<li>Location </li>
+
+<h3>Personal Data</h3>
+<p>As part of the our services, advertisers and users will register and we may ask you personal information, including such things as: </p>
+<ul>
+	<li>First name or first and last names of the user</li>
+	<li>Gender, age, birthdates</li>
+	<li>Occupation, </li>
+	<li>Your email address and telephone number</li>
+	<li>Location </li>
 </ul>
-
 <p>If users are asked to submit sensitive personal data under the Act such as their sexual orientation SpareRoom.co.uk will require your explicit consent before processing such data by using an 'opt in' box.</p>
-
-
-
-
-
 <p>We will never divulge information which does not constitute a part of the actual advert.</p>
-<p>Your email address is not made available on screen to anyone. The only way of making contact with an advertiser is to enter a message and we will send an email on your behalf. The recipient will receive your e-mail address with the message so that they can reply directly to you. Clearly, by choosing to contact the advertiser you are consenting to disclose your e-mail address to them.</p>
 <p>Except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information, unless required by law or for the protection of your membership. However we may share profile information and aggregate usage information in a non-personally identifiable manner with advertisers and other third parties in order to present to members and other users of the our services more targeted advertising, products and services. In such situations we will never disclose information that would personally identify you.</p>
 <p>Except as otherwise described in this privacy statement, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to comply with any laws, rules or regulations of duly constituted governmental authorities; (2) to respond to a subpoena, search warrant or other legal process received by us, whether or not a response is required by applicable law; (3) to enforce our Terms of Use Agreement or to otherwise protect the legal rights of Flatshare Limited; or (4) to protect the security or safety of members of the public and Users.  We reserve the right to transfer personal information to a successor in interest that acquires rights to that information as a result of (a) the sale of Flatshare Limited or (b) a sale of substantially all of the assets of Flatshare Limited or (c) any member of any Flatshare Limited group of companies if applicable.</p>
-<p>SpareRoom.co.uk uses cookies for certain features on the site. If you do not wish to accept the use of cookies you can change your browser to prevent that. Without a cookie you can still use most of the features on the site.</p>
+
+<h3>Cookies</h3>
+<p>SpareRoom.co.uk uses a number of different cookies. A cookie is a small text file that we put on the computer or mobile device you are using to visit our site. These cookies allow us to distinguish you from other users of the website, which helps us to provide you with a better experience and also allows us to improve our site.</p>
+<p>The cookies we use are 'analytical' and 'session'  cookies. Analytical cookies allow us to recognise and count the number of visitors to SpareRoom and to see how people move around the site when they’re using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily. These cookies cannot be used to identify individuals, they are for statistical purposes only.</p>
+<p>Some cookies, such as those created via Facebook Connect, only apply to users who choose to log in to SpareRoom through their Facebook account. SpareRoom has no access to the data stored by third parties such as Facebook in those cookies.</p>
+<p><strong>By using the site you are agreeing to the use of cookies as described.</strong></p>
+<p>You can choose to <a href="#turning_off_cookies">turn off</a> cookies but this may limit your ability to navigate SpareRoom fully.</p>
+
+<h3>Email</h3>
 <p>We will only send you emails pertaining to your activities on the site. Including, but not limited to: confirmation of registration; notice of advert expiry; emails relating to services purchased from us; messages sent on behalf of other users in response to your advert(s); warnings of messages from malevolent users; advert upgrade offers and reminders of key related services on offer. The vast majority of these emails will cease when you remove any adverts and/or stop using the site. You can request for your account to be completely de-activated at any time by contacting us. </p>
 <p>Optionally we may also send you email alerts of adverts suited to your requirements. Both "instant alerts" and "daily summaries" are available to you. You can opt in and out of these at any time by following instructions within the email or by going into "My Account" then "Change my details" on the website. </p>
 <p>Optionally we may occasionally send you newsletters about SpareRoom.co.uk if you give us your prior consent. These could contain: related topics in the news; important information about changes to the laws effecting flatsharing; interesting or humorous flatsharing stories; products or services from associated sites that may be of interest to you. You can opt out of this service at any time.</p>
+
+<h3>Passwords</h3>
 <p>The account of every member is protected by a member-created password.   While we cannot guarantee the security of member account information, we take reasonable precautions to protect the information of our members, as well as information collected from other users. We use industry standard or better measures to protect all information that is stored on our servers and within our database. We limit the access to this information to those employees who need access to perform their job function such as our customer service personnel and technical staff. If you have any questions about the security at our website, please contact us at the address below.</p>
+
+<h3>Privacy policy changes</h3>
 <p>If we change our privacy policy, we will post those changes on our web site so members and other users of the SpareRoom.co.uk are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use members' or other Users' personally identifiable information in a manner different from that stated at the time of collection, we will notify those members and users via e-mail or by placing a prominent notice on our website</p>
+
+<h3>Payments</h3>
 <p>Payment for advertisements &amp; Early Bird access is done so via a secure server provided by WorldPay, part of the Royal Bank of Scotland Group. No actual credit card information is processed, nor stored on our server. We are a Safe Buy accredited website.</p>
 <p>Advertisers can remove and update their advertisements whenever they wish.</p>
 <p>We are registered and fully comply with the Data Protection Act 1988.</p>
-<p>SpareRoom.co.uk is operated by Flatshare Limited, company reg #04407847, registered office: 1 Wellington Road, Bollington, Macclesfield, Cheshire SK10 5JR.</p>
+<p>SpareRoom.co.uk is operated by Flatshare Limited, company reg #04407847, registered office: 32 Park Green, Macclesfield, Cheshire SK10 7NA.</p>
 
 <p>
 
@@ -410,6 +477,21 @@ As part of the our services, advertisers and users will register and we may ask 
 (<a href="/content/default/terms/" class="lbAction" rel="linkget">Click here to see our terms and conditions</a>.)
 
 </p>
+
+
+<hr class="hrz_default">
+
+<h3 id="turning_off_cookies">Turning off cookies</h3>
+
+<p>All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.</p>
+<ul class="bulletlist">
+	<li><a href="http://support.microsoft.com/kb/196955" target="_blank">Cookie settings in Internet Explorer</a></li>
+	<li><a href="http://support.mozilla.com/en-GB/kb/Cookies" target="_blank">Cookie settings in Firefox</a></li>
+	<li><a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647" target="_blank">Cookie settings in Chrome</a></li>
+	<li><a href="http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html" target="_blank">Cookie settings in Safari</a></li>
+</ul>
+<p>We recommend that you don’t turn cookies off when using SpareRoom as this may prevent you from using many of the services on the site.</p>
+
 
 
 			
@@ -430,7 +512,7 @@ As part of the our services, advertisers and users will register and we may ask 
 #lib=":v4:need_help_lbi.html"
 #TYPE#="standard"
 -->
-		<div class="block block_simple need_help need_help_amelia_2">
+		<div class="block block_simple need_help need_help_gemma_4">
 			<div class="block_header">
 				<h3>Need any help?</h3>
 			</div>
@@ -440,7 +522,7 @@ As part of the our services, advertisers and users will register and we may ask 
 					
 					
 					
-					<p class="need_help_unavailable">My name's Amelia. Sorry I'm not available
+					<p class="need_help_unavailable">My name's Gemma. Sorry I'm not available
 					right now. Please <a href="/contact.pl" rel="nofollow">email</a> or call &amp; leave a message
 					and I will get back to you as soon as I can.</p>
 					
@@ -462,7 +544,7 @@ As part of the our services, advertisers and users will register and we may ask 
 						<a href="/contact.pl" rel="nofollow" class="need_help_email">Contact us by email</a>
 					</p>
 					
-					<img src="http://images2.spareroom.co.uk/img/spareroom/v4/staff/amelia_2_small.png" class="need_help_photo">
+					<img src="http://images2.spareroom.co.uk/img/spareroom/v4/staff/gemma_4_small.png" class="need_help_photo">
 				
 				
 				
@@ -506,15 +588,6 @@ As part of the our services, advertisers and users will register and we may ask 
 		</p>
 	</div>
 
-<!-- advert_detail.html , get_early/bold/extra and paypal.html(though paypal unecessary as paypal dont allow addition of jscript)  no longer uses this footer as we have to call the google stuff above the worldpay form in order to use their onsubmit function -->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1921094-1";
-_udn="none";
-urchinTracker();
-</script>
 
 <!-- end bbinclude -->
 
