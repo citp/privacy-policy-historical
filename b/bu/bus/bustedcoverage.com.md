@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bustedcoverage.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206231248id_/http%3A//bustedcoverage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedcoverage.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144039id_/http%3A//bustedcoverage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Busted Coverage
+# Privacy Policy | BustedCoverage – Sports Gossip | Drunk Athletes | Hot Cheerleaders | Football News
 
 **Busted Coverage** knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
