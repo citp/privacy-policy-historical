@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamadweeb.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235411id_/http%3A//mamadweeb.com/2010/03/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamadweeb.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606091651id_/http%3A//mamadweeb.com/2010/03/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
