@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabtemplates.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206094238id_/http%3A//grabtemplates.com/%3Fpage_id%3D6327) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabtemplates.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606184934id_/http%3A//grabtemplates.com/%3Fpage_id%3D6327) for the most accurate reproduction.*
 
 # Privacy Policy | GrabTemplates
 
@@ -71,7 +71,9 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
