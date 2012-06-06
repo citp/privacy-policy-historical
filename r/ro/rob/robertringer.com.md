@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the robertringer.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207155535id_/http%3A//robertringer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertringer.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144554id_/http%3A//robertringer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Robert Ringer
-
-## [Privacy Policy](http://robertringer.com/privacy-policy/ "Privacy Policy")
+# Privacy Policy
 
 A Voice of Sanity in an Insane World takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that A Voice of Sanity takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
-**Ordering Online**
+ **Ordering Online**
 
 Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer-an encryption protocol-and is kept in databases that cannot be accessed from outside our firewall.
 
@@ -16,7 +14,7 @@ A Voice of Sanity does not sell or rent your name to anyone. That means that onl
 
 If at any time you wish to be removed from our mailing list, please contact us by clicking Support or by using the unsubscribe link included in every email we send out.
 
-**E-mail**
+ **E-mail**
 
 If you subscribe to A Voice of Sanity, your e-mail address will be placed in a database. As with all other personal information, only employees of A Voice of Sanity have access to this data. We do not give A Voice of Sanity addresses to outside companies. We will also never rent or sell out email address.
 
