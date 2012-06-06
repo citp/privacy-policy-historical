@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130183028id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawinfo.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606051506id_/http%3A//www.lawinfo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LawInfo.com
-
-## Privacy Policy
 
 At LawInfo.com and LawSmart.com we respect your privacy. Our policy is to allow users to access the information on our site anonymously. We do not collect, sell or provide any personally identifiable information regarding you or other users, unless you voluntarily provide that information to us for that purpose. We do not place cookies in your browser.
 
