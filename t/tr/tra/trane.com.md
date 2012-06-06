@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201011522id_/http%3A//www.trane.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606083646id_/http%3A//www.trane.com/privacy.aspx) for the most accurate reproduction.*
 
 # TRANE Data Protection and Privacy Policy
 
@@ -20,11 +20,11 @@ Personal information collected by Ingersoll Rand from prospective customers, con
 
 ## III. DEFINITIONS
 
-The privacy principles in this Policy are based on the seven Safe Harbor Principles.
+For purposes of this Policy, the following definitions shall apply:
 
 "Agent" means any third party that processes Personal information provided by Ingersoll Rand to perform tasks on behalf of or at the instruction of Ingersoll Rand.
 
-"Ingersoll Rand" means Ingersoll-Rand plc., Inc., its subsidiaries, divisions and groups, including, Climate Solutions, Industrial Technologies, Residential Solutions, Security Technologies, with brands such as Thermo-King, Trane, Schlage, Hussmann, Club Car, Interflex and Steelcraft.
+"Ingersoll Rand" means Ingersoll-Rand plc., Inc., its subsidiaries, divisions and groups, including, Climate Solutions, Industrial Technologies, Residential Solutions, Security Technologies, with brands such as Thermo-King, Trane, Schlage, Club Car, Interflex and Steelcraft.
 
 "Personal information" means any information or set of information that identifies or could be used by or on behalf of Ingersoll Rand to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal information.
 
@@ -32,7 +32,7 @@ The privacy principles in this Policy are based on the seven Safe Harbor Princip
 
 ## IV. PRIVACY PRINCIPLES
 
-For purposes of this Policy, the following definitions shall apply:
+The privacy principles in this Policy are based on the seven Safe Harbor Principles.
 
   1. NOTICE: Where Ingersoll Rand collects Personal information directly from individuals, it will inform them about the purposes for which it collects, stores and processes Personal information about them, the types of non-agent third parties to which Ingersoll Rand discloses that information, and the choices and means, if any, Ingersoll Rand offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to Ingersoll Rand, or as soon as practicable thereafter, and in any event before Ingersoll Rand uses the information for a purpose other than that for which it was originally collected. Ingersoll Rand may disclose Personal information if required to do so by law or to protect and defend the rights or property of Ingersoll Rand.
   2. CHOICE: Ingersoll Rand will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
@@ -64,8 +64,8 @@ Few, if any, of Ingersoll Rand's websites are directed toward children. Neverthe
 Ingersoll Rand website users have the option to request that Ingersoll Rand not use information previously provided, correct information previously provided, or remove information previously provided to Ingersoll Rand. Those that would like to correct or suppress information they have provided to Ingersoll Rand should forward such inquiries to:
 
 _Ingersoll Rand Privacy Inquiries  
-One Centennial Avenue  
-Piscataway, New Jersey  
+800 Beaty Street, Building E  
+Davidson, North Carolina  
 08855-6820  
 Attention: Evan Turtz, Global Data Protection and Privacy Officer_
 
@@ -75,4 +75,4 @@ Ingersoll Rand websites may contain links to other "non-Ingersoll Rand" websites
 
 ## VII. CHANGES TO THIS SAFE HARBOR PRIVACY POLICY
 
-The practices described in this Policy are current Personal data protection policies as of December 1, 2010. Ingersoll Rand reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate notice will be given concerning such amendments.
+The practices described in this Policy are current Personal data protection policies as of April 1, 2012. Ingersoll Rand reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate notice will be given concerning such amendments.
