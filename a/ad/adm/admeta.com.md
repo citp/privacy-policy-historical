@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admeta.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122052326id_/http%3A//www.admeta.com/%3Fp%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admeta.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/%3Fp%3D28) for the most accurate reproduction.*
 
 # Admeta makes buying and selling online media faster, smarter and more efficient.
 
@@ -6,15 +6,15 @@
 
 ##### WHITEBOX ECHO
 
-[Whitebox Echo Direct Sales EULA (End-User Agreement for Advertisers)](https://web.archive.org/web/20111122052326id_/http%3A//www.admeta.com/agremeents/eula_%20echo_directsales_090228_appr.pdf "Whitebox Echo Direct Sales EULA \(End-User Agreement for Advertisers\)")
+[Whitebox Echo Direct Sales EULA (End-User Agreement for Advertisers)](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/eula_%20echo_directsales_090228_appr.pdf "Whitebox Echo Direct Sales EULA \(End-User Agreement for Advertisers\)")
 
 ##### WHITEBOX TANGO
 
-[Whitebox Tango Direct Sales EULA (End-User Agreement for Publishers and Sales Companies)](https://web.archive.org/web/20111122052326id_/http%3A//www.admeta.com/agremeents/eula%20tango%20direct%20sales%20090315_approved.pdf "Whitebox Tango Direct Sales EULA \(End-User Agreement for Publishers and Sales Companies\)")
+[Whitebox Tango Direct Sales EULA (End-User Agreement for Publishers and Sales Companies)](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/eula%20tango%20direct%20sales%20090315_approved.pdf "Whitebox Tango Direct Sales EULA \(End-User Agreement for Publishers and Sales Companies\)")
 
-[Whitebox Tango General Terms and Conditions för External Demand Campaign Buy](https://web.archive.org/web/20111122052326id_/http%3A//www.admeta.com/agremeents/Campaign%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand Campaign Buy")
+[Whitebox Tango General Terms and Conditions för External Demand Campaign Buy](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/Campaign%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand Campaign Buy")
 
-[Whitebox Tango General Terms and Conditions för External Demand RTB Buy](https://web.archive.org/web/20111122052326id_/http%3A//www.admeta.com/agremeents/RTB%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand RTB Buy")
+[Whitebox Tango General Terms and Conditions för External Demand RTB Buy](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/RTB%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand RTB Buy")
 
 ## PRIVACY POLICY
 
