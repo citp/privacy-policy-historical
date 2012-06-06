@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the gamesamba.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226015030id_/http%3A//www.gamesamba.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D164) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamesamba.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606203548id_/http%3A//www.gamesamba.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 
+  <base href="http://www.gamesamba.com/privacy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="MMO, MMORPG, Online Games, MMORTS, Free, Free-to-play, download games, gamesamba, remnant knights, tribal trouble, cocolani, f2p, sambas, realms online, regnum america, regnum English, NGD Studios">
@@ -16,19 +17,18 @@
 
 
 
-<meta name="google-site-verification" content="ILyWokpJgxrq4qHdqoRD3rJNjPH-rhhyvKont1z-BXQ">
 <meta http-equiv="Content-Type" content="text/html; _ISO">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<link href="http://gamesamba.com/templates/basic/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link rel="stylesheet" href="http://gamesamba.com/templates/basic/css/template.css" type="text/css">
+<link href="http://www.gamesamba.com/templates/basic/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="http://www.gamesamba.com/templates/basic/css/template.css" type="text/css">
 
 </head>
 
-<body style="background-color:#ffffff;">
-<div id="main_div" style="background: url(&quot;http://gamesamba.com/templates/basic/images/RNBackground1.jpg&quot;) center top no-repeat; height: 2013px;">
+<body style="background:url('http://www.gamesamba.com/templates/basic/images/RNBackground1.jpg') no-repeat top center;">
+<div id="main_div" style="background:url('http://www.gamesamba.com/templates/basic/images/RNBackground1.jpg') no-repeat top center;">
 
 	<script type="text/javascript" language="javascript">
-	SiteUrl = "http://gamesamba.com/";
+	SiteUrl = "http://www.gamesamba.com/";
     function getDocHeight()
     {
         var thisdoc = document;
@@ -38,11 +38,11 @@
             Math.max(thisdoc.body.clientHeight, thisdoc.documentElement.clientHeight)
         );
     }
-    function resize_bg()
+    /*function resize_bg()
     {
         document.getElementById("main_div").style.height = getDocHeight() + "px";
     }
-    var resize_Interval = window.setInterval("resize_bg()",200);
+    var resize_Interval = window.setInterval("resize_bg()",200);*/
     </script>
     
     <div id="body_div" style="margin-left:-491px; width:982px;">
@@ -52,17 +52,29 @@
                 <td colspan="3">
                     
 <script type="text/javascript">
+	
+				window.onload = function()
+				{
+					if (document.login.username.value == "")
+					{
+						document.getElementById("hti_home_username").style.backgroundPosition = "0px 0px";
+					}
+					if (document.login.passwd.value == "")
+					{
+						document.getElementById("hti_home_passwd").style.backgroundPosition = "0px 0px";
+					}
+				}
+			
 	function UNameFocus(state)
 	{
 		if (state)
 		{
-			if (document.login.username.value == '')
-			{
-				document.getElementById("hti_home_username").style.backgroundPosition = "0px -70px";
-			}
+			//In Focus
+			document.getElementById("hti_home_username").style.backgroundPosition = "0px -70px";
 		}
 		else
 		{
+			//Out Focus
 			if (document.login.username.value == '')
 			{
 				document.getElementById("hti_home_username").style.backgroundPosition = "0px 0px";
@@ -74,10 +86,7 @@
 	{
 		if (state)
 		{
-			if (document.login.passwd.value == '')
-			{
-				document.getElementById("hti_home_passwd").style.backgroundPosition = "0px -70px";
-			}
+			document.getElementById("hti_home_passwd").style.backgroundPosition = "0px -70px";
 		}
 		else
 		{
@@ -91,55 +100,55 @@
 	{
 		if(login == true)
 		{
-			document.getElementById('lOgin').src = "article_assets/mod_login/hLloginbtn.png";	
+			document.getElementById('lOgin').src = SiteUrl+"article_assets/mod_login/hLloginbtn.png";	
 		}
 		else
 		{
-			document.getElementById('lOgin').src = "article_assets/mod_login/loginbtn.png";
+			document.getElementById('lOgin').src = SiteUrl+"article_assets/mod_login/loginbtn.png";
 		}		
 	}
 	function mouseOnRegBtn(reg)
 	{
 		if(reg == true)
 		{
-			document.getElementById('regisbtn').src = "article_assets/mod_login/regbtn_HL.png";	
+			document.getElementById('regisbtn').src = SiteUrl+"article_assets/mod_login/regbtn_HL.png";	
 		}
 		else
 		{
-			document.getElementById('regisbtn').src = "article_assets/mod_login/regbtn.png";
+			document.getElementById('regisbtn').src = SiteUrl+"article_assets/mod_login/regbtn.png";
 		}
 	}
 	function mouseOnLogoutBtn(log)
 	{
 		if(log == true)
 		{
-			document.getElementById('log_out').src = "article_assets/mod_login/hlLogout.png";	
+			document.getElementById('log_out').src = SiteUrl+"article_assets/mod_login/hlLogout.png";	
 		}
 		else
 		{
-			document.getElementById('log_out').src = "article_assets/mod_login/Logout.png";
+			document.getElementById('log_out').src = SiteUrl+"article_assets/mod_login/Logout.png";
 		}
 	}	
 	function mouseOnAcc(acc)
 	{
 		if(acc == true)
 		{
-			document.getElementById('account').src = "article_assets/mod_login/hlAccount.png";	
+			document.getElementById('account').src = SiteUrl+"article_assets/mod_login/hlAccount.png";	
 		}
 		else
 		{
-			document.getElementById('account').src = "article_assets/mod_login/Account.png";
+			document.getElementById('account').src = SiteUrl+"article_assets/mod_login/Account.png";
 		}
 	}
 	function mouseOnBuy(buy)
 	{
 		if(buy == true)
 		{
-			document.getElementById('buy').src = "article_assets/mod_login/hlBuy.png";	
+			document.getElementById('buy').src = SiteUrl+"article_assets/mod_login/hlBuy.png";	
 		}
 		else
 		{
-			document.getElementById('buy').src = "article_assets/mod_login/Buy.png";
+			document.getElementById('buy').src = SiteUrl+"article_assets/mod_login/Buy.png";
 		}
 	}
 	
@@ -166,13 +175,13 @@
 
 #hti_home_username
 {
-	background:url('article_assets/mod_login/uname_back.png') left top;
+	background:url('http://www.gamesamba.com/article_assets/mod_login/uname_back.png') left -70px;
 	background-repeat:no-repeat;
 }
 
 #hti_home_passwd
 {
-	background:url('article_assets/mod_login/pwd_back.png') left top;
+	background:url('http://www.gamesamba.com/article_assets/mod_login/pwd_back.png') left -70px;
 	background-repeat:no-repeat;
 }
 
@@ -183,48 +192,50 @@
 	<table border="0" cellspacing="0" cellpadding="0" width="100%">
         <tbody><tr>
 			<td width="250" rowspan="2">
-
-
-             
 				<a href="/index.php"><img src="/article_assets/home/logo/gslogo.png"></a>
-              
-		  </td>
+			</td>
+			
             <td> 
                 
             </td>
-            <td height="16" width="125" id="hti_home_username"><input type="text" style="width:120px; height:16px; margin-left:0px; margin-top:1px; padding-left:2px; padding-right:2px; background-color:transparent" id="username_vmlogin" name="username" onfocus="UNameFocus(true)" onblur="UNameFocus(false)"></td>
+			
+            <td height="16" width="125" id="hti_home_username" style="background-position: 0px 0px;">
+				<input type="text" style="width:120px; height:16px; margin-left:0px; margin-top:1px; padding-left:2px; padding-right:2px; background-color:transparent" id="username_vmlogin" name="username" onfocus="UNameFocus(true)" onblur="UNameFocus(false)">
+			</td>
+			
             <td width="2"> 
              
-          </td>
+			</td>
             
-            <td height="16" width="125" id="hti_home_passwd">
-                <input type="password" style="width:120px;height:16px; margin-left:0px; margin-top:1px; padding-left:2px; padding-right:2px; tr " id="password_vmlogin" name="passwd" onfocus="PwdFocus(true)" onblur="PwdFocus(false)"> 
+            <td height="16" width="125" id="hti_home_passwd" style="background-position: 0px 0px;">
+                <input type="password" style="width:120px;height:16px; margin-left:0px; margin-top:1px; padding-left:2px; padding-right:2px;" id="password_vmlogin" name="passwd" onfocus="PwdFocus(true)" onblur="PwdFocus(false)"> 
             </td>
+			
             <td height="12" width="50" style="text-align:right">
 				<input type="image" src="/article_assets/mod_login/loginbtn.png" name="Login" id="lOgin" onmouseover="mouseOnLogBtn(true);" onmouseout="mouseOnLogBtn(false);" width="47" ;="" height="12">
             </td>
+			
             <td height="12" width="160" style="text-align:right; padding-left:0px; padding-right:5px; color:#ffffff; font-weight:normal; font-size:10px; font-family:Arial,helvetica,sans-serif;">
-				Forgot Username? Click <a href="/index.php?option=com_content&amp;view=article&amp;id=187&amp;Itemid=213" style="color:#019bdb;font-weight: normal ; font-size:10px; font-family:Arial,helvetica,sans-serif;">HERE</a> 
-          </td>
-             <td height="12" width="160" style="text-align:left; padding-left:5px; padding-right:0px; color:#ffffff; font-weight:normal; font-size:10px; font-family:Arial,helvetica,sans-serif;">  
-				Forgot Password? Click <a href="/index.php?option=com_content&amp;view=article&amp;id=185&amp;Itemid=210" style="color:#019bdb;font-weight: normal ; font-size:10px; font-family:Arial,helvetica,sans-serif;">HERE</a>    
+				Forgot Username? Click <a href="/accounts/forgotusername.html" style="color:#019bdb;font-weight: normal ; font-size:10px; font-family:Arial,helvetica,sans-serif;">HERE</a> 
+			</td>
+			<td height="12" width="160" style="text-align:left; padding-left:5px; padding-right:0px; color:#ffffff; font-weight:normal; font-size:10px; font-family:Arial,helvetica,sans-serif;">  
+				Forgot Password? Click <a href="/accounts/forgotpassword.html" style="color:#019bdb;font-weight: normal ; font-size:10px; font-family:Arial,helvetica,sans-serif;">HERE</a>    
             </td>
             
             <td width="80" height="12" style="text-align:right">
-            		<a href="/index.php?option=com_content&amp;view=article&amp;id=180&amp;Itemid=204"><img id="regisbtn" src="/article_assets/mod_login/regbtn.png" onmouseover="mouseOnRegBtn(true);" onmouseout="mouseOnRegBtn(false);" width="67" height="12"></a>
+            	<a href="/accounts/register.html"><img id="regisbtn" src="/article_assets/mod_login/regbtn.png" onmouseover="mouseOnRegBtn(true);" onmouseout="mouseOnRegBtn(false);" width="67" height="12"></a>
             </td>
         </tr>
         <tr>
-          <td colspan="8" style="text-align:left; padding-right:50px;">
+			<td colspan="8" style="text-align:left; padding-right:50px;">
            
-          </td>
+			</td>
         </tr>
-        
     </tbody></table>
 
-		<input type="hidden" name="cmd" value="login">
-		<input type="hidden" value="aW5kZXgucGhw" name="return">
-		<input type="hidden" name="f2bab047c22e18498c1ae40ae716d4d8" value="1">
+	<input type="hidden" name="cmd" value="login">
+	<input type="hidden" value="aW5kZXgucGhw" name="return">
+	<input type="hidden" name="1afbe6edf5613cd4ce3f7cb5146db602" value="1">
 
 </form>
 </div>
@@ -279,7 +290,7 @@
 	display:block;
 	position:relative;
 	top:5px;
-	left:320px;
+	left:235px;
 
 	/* Menu Width */
 	width:600px;
@@ -299,21 +310,21 @@
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/menHome.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/menHome.png");
 }
 #miHome a:hover
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/hlHome.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/hlHome.png");
 }
 #miHomeA 
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background:url("article_assets/mod_mainmenu/selHome.png");
+	background:url("http://www.gamesamba.com/article_assets/mod_mainmenu/selHome.png");
 }
 
 
@@ -322,7 +333,7 @@
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/menGames.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/menGames.png");
 }
 #miGames a:hover
 {
@@ -335,14 +346,14 @@
 
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/hlGames.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/hlGames.png");
 }
 #miGamesA
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background:url("article_assets/mod_mainmenu/selGames.png");
+	background:url("http://www.gamesamba.com/article_assets/mod_mainmenu/selGames.png");
 }
 
 #miStore a:link, #miStore a:visited
@@ -350,21 +361,21 @@
 	display:block;
 	width:128px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/menStore.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/menStore.png");
 }
 #miStore a:hover
 {
 	display:block;
 	width:128px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/hlStore.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/hlStore.png");
 }
 #miStoreA
 {
 	display:block;
 	width:128px;
 	height:34px;
-	background:url("article_assets/mod_mainmenu/selStore.png");
+	background:url("http://www.gamesamba.com/article_assets/mod_mainmenu/selStore.png");
 }
 
 
@@ -373,21 +384,21 @@
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/menForums.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/menForums.png");
 }
 #miForums a:hover
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/hlForums.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/hlForums.png");
 }
 #miForumsA
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background:url("article_assets/mod_mainmenu/selForums.png");
+	background:url("http://www.gamesamba.com/article_assets/mod_mainmenu/selForums.png");
 }
 
 
@@ -396,21 +407,21 @@
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/menNews.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/menNews.png");
 }
 #miNews a:hover
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/hlNews.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/hlNews.png");
 }
 #miNewsA
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background:url("article_assets/mod_mainmenu/selNews.png");
+	background:url("http://www.gamesamba.com/article_assets/mod_mainmenu/selNews.png");
 }
 
 
@@ -421,21 +432,21 @@
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/menSupport.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/menSupport.png");
 }
 #miSupport a:hover
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background-image:url("article_assets/mod_mainmenu/hlSupport.png");
+	background-image:url("http://www.gamesamba.com/article_assets/mod_mainmenu/hlSupport.png");
 }
 #miSupportA
 {
 	display:block;
 	width:88px;
 	height:34px;
-	background:url("article_assets/mod_mainmenu/selSupport.png");
+	background:url("http://www.gamesamba.com/article_assets/mod_mainmenu/selSupport.png");
 }
 
 #menu_table
@@ -448,28 +459,28 @@
 
 <div id="mainmenu">
 
-<table width="600" height="34" border="0" cellpadding="0" cellspacing="0" id="menu_table">
+<table width="688" height="34" border="0" cellpadding="0" cellspacing="0" id="menu_table">
 
 <tbody><tr>
 
 
-<td id="miHome">
-	<a href="/index.php?option=com_content&amp;view=article&amp;id=157&amp;Itemid=1"> </a>	
+<td id="miHomeA">
+	 
 </td>
 <td id="miGames">
-	<a href="/index.php?option=com_content&amp;view=article&amp;id=158&amp;Itemid=180"> </a>	
+	<a href="/games.html"> </a>	
 </td>
 <td id="miStore">
-	<a href="/index.php?option=com_content&amp;view=article&amp;id=162&amp;Itemid=192"> </a>	
+	<a href="/store.html"> </a>	
 </td>
 <td id="miForums">
 	<a href="/forum/index.php"> </a>	
 </td>
 <td id="miNews">
-	<a href="/index.php?option=com_content&amp;view=article&amp;id=195&amp;Itemid=189"> </a>	
+	<a href="/news/all.html"> </a>	
 </td>
 <td id="miSupport">
-	<a href="/index.php?option=com_content&amp;view=article&amp;id=170&amp;Itemid=190"> </a>	
+	<a href="/support.html"> </a>	
 </td></tr>
 
 </tbody></table>
@@ -654,34 +665,34 @@
 if (document.images)
 {
     signupbuttonup       = new Image();
-    signupbuttonup.src   = "article_assets/mod_sidebar/signup_btn.png" ;
+    signupbuttonup.src   = SiteUrl+"article_assets/mod_sidebar/signup_btn.png" ;
     signupbuttondown     = new Image() ;
-    signupbuttondown.src = "article_assets/mod_sidebar/signup_btn_hl.png" ;
+    signupbuttondown.src = SiteUrl+"article_assets/mod_sidebar/signup_btn_hl.png" ;
 	
 	signinbuttonup       = new Image();
-    signinbuttonup.src   = "article_assets/mod_sidebar/signin_btn.png" ;
+    signinbuttonup.src   = SiteUrl+"article_assets/mod_sidebar/signin_btn.png" ;
     signinbuttondown     = new Image() ;
-    signinbuttondown.src = "article_assets/mod_sidebar/signin_btn_hl.png" ;
+    signinbuttondown.src = SiteUrl+"article_assets/mod_sidebar/signin_btn_hl.png" ;
 	
 	homebuttonup       = new Image();
-    homebuttonup.src   = "article_assets/mod_sidebar/got_samba_btn_norm.png" ;
+    homebuttonup.src   = SiteUrl+"article_assets/mod_sidebar/got_samba_btn_norm.png" ;
     homebuttondown     = new Image() ;
-    homebuttondown.src = "article_assets/mod_sidebar/got_samba_btn_over.png" ;
+    homebuttondown.src = SiteUrl+"article_assets/mod_sidebar/got_samba_btn_over.png" ;
 	
 	newtobuttonup       = new Image();
-    newtobuttonup.src   = "article_assets/mod_sidebar/new_to_btn_norm.png" ;
+    newtobuttonup.src   = SiteUrl+"article_assets/mod_sidebar/new_to_btn_norm.png" ;
     newtobuttondown     = new Image() ;
-    newtobuttondown.src = "article_assets/mod_sidebar/new_to_btn_over.png" 
+    newtobuttondown.src = SiteUrl+"article_assets/mod_sidebar/new_to_btn_over.png" 
 	
 	invitebuttonup       = new Image();
-    invitebuttonup.src   = "article_assets/mod_sidebar/learn_normal.png" ;
+    invitebuttonup.src   = SiteUrl+"article_assets/mod_sidebar/learn_normal.png" ;
     invitebuttondown     = new Image() ;
-    invitebuttondown.src = "article_assets/mod_sidebar/learn_hl.png" ;
+    invitebuttondown.src = SiteUrl+"article_assets/mod_sidebar/learn_hl.png" ;
 	
 	for_sidebar_buttonup       = new Image();
-    for_sidebar_buttonup.src   = "article_assets/thanksgiving/for_sidebar.png" ;
+    for_sidebar_buttonup.src   = SiteUrl+"article_assets/thanksgiving/for_sidebar.png" ;
     for_sidebar_buttondown     = new Image() ;
-    for_sidebar_buttondown.src = "article_assets/thanksgiving/for_sidebar_hl.png" ;
+    for_sidebar_buttondown.src = SiteUrl+"article_assets/thanksgiving/for_sidebar_hl.png" ;
 }
 
 function buttondown( buttonname )
@@ -703,70 +714,40 @@ function buttonup ( buttonname )
 
 <div id="mod_sidebar">
 <table border="0" cellspacing="0" cellpadding="0" width="244">
-    
-	<tbody><tr height="164">
-		<td style="background: url('/article_assets/mod_sidebar/free_signup_bg.png') no-repeat;">
-            <div style="padding-left:112px; padding-top:30px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=180&amp;Itemid=204" onmouseover="buttondown('signupbutton')" onmouseout="buttonup('signupbutton')"><img src="/article_assets/mod_sidebar/signup_btn.png" name="signupbutton" border="0"></a></div>      
-                
-            <div style="padding-left:120px; padding-top:35px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=183&amp;Itemid=207" onmouseover="buttondown('signinbutton')" onmouseout="buttonup('signinbutton')"><img src="/article_assets/mod_sidebar/signin_btn.png" name="signinbutton" border="0"></a></div>   
-		</td>    
-	</tr>
-    <tr height="10">
-		<td>  
-        
-        </td>
-	</tr>
-    <tr height="67">
-		<td>
-            <div style="padding-left:0px; padding-top:0px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=238&amp;Itemid=250" target="_self"><img src="/article_assets/christmas/for_sidebar.png" name="sept_fest_button" border="0"></a></div>   
-		</td>
-	</tr>
-
-	<tr height="10">
-		<td>  
-        	
-        </td>
-	</tr>
-    <!--<TR height="67">
-		<TD>
-            <div style="padding-left:0px; padding-top:0px; padding-bottom:5px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=236&amp;Itemid=248" target="_self" onmouseover="buttondown('for_sidebar_button')" onmouseout="buttonup('for_sidebar_button')"><img src="/article_assets/thanksgiving/for_sidebar.png" name="for_sidebar_button" border="0" /></a></div>   
-		</TD>
-	</TR>-->
+	
+				<tbody><tr height="164">
+					<td style="background: url('/article_assets/mod_sidebar/free_signup_bg.png') no-repeat;">
+						<div style="padding-left:112px; padding-top:30px;">
+						<a href="/accounts/register.html" onmouseover="buttondown('signupbutton')" onmouseout="buttonup('signupbutton')"><img src="/article_assets/mod_sidebar/signup_btn.png" name="signupbutton" border="0"></a></div>      
+							
+						<div style="padding-left:120px; padding-top:35px;">
+						<a href="/accounts/login.html" onmouseover="buttondown('signinbutton')" onmouseout="buttonup('signinbutton')"><img src="/article_assets/mod_sidebar/signin_btn.png" name="signinbutton" border="0"></a></div>   
+					</td>    
+				</tr>
+				<tr height="10">
+					<td>&nbsp;</td>
+				</tr>
+				
     <tr height="164">
         <td style="background: url('/article_assets/mod_sidebar/invite_bg.png') no-repeat;">
             <div style="padding-left:125px; padding-top:33px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=233&amp;Itemid=244" onmouseover="buttondown('invitebutton')" onmouseout="buttonup('invitebutton')"> <img src="/article_assets/mod_sidebar/learn_normal.png" name="invitebutton" border="0" alt="LEARN MORE"></a></div>      
+            <a href="/accounts/invitehelp.html" onmouseover="buttondown('invitebutton')" onmouseout="buttonup('invitebutton')"> <img src="/article_assets/mod_sidebar/learn_normal.png" name="invitebutton" border="0" alt="LEARN MORE"></a></div>      
 		</td>   
 	</tr>
     <tr height="10">
-		<td>  
-        	
-        </td>
+		<td>&nbsp;</td>
 	</tr>
 
 	<tr height="164">
         <td style="background: url('/article_assets/mod_sidebar/got_samba_bg.png') no-repeat;">
             <div style="padding-left:110px; padding-top:90px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=162&amp;Itemid=192" onmouseover="buttondown('homebutton')" onmouseout="buttonup('homebutton')"><img src="/article_assets/mod_sidebar/got_samba_btn_norm.png" name="homebutton" border="0"></a></div>      
+            <a href="/store.html" onmouseover="buttondown('homebutton')" onmouseout="buttonup('homebutton')"><img src="/article_assets/mod_sidebar/got_samba_btn_norm.png" name="homebutton" border="0"></a></div>      
 		</td>   
 	</tr>
         
 	<tr height="10">
-		<td>  
-        	
-        </td>
+		<td>&nbsp;</td>
 	</tr>
-            
-	<!--<TR height="108">
-		<TD style="background: url('/article_assets/mod_sidebar/new_to_bg.png') no-repeat;">
-            <div style="padding-left:110px; padding-top:65px;">
-            <a href="/index.php?option=com_content&amp;view=article&amp;id=168&amp;Itemid=198" onmouseover="buttondown('newtobutton')" onmouseout="buttonup('newtobutton')"><img src="/article_assets/mod_sidebar/new_to_btn_norm.png" name="newtobutton" border="0" /></a></div>   
-		</TD>
-	</TR>	-->
 </tbody></table>
 </div>
 <!-- <<< Modules Anywhere <<< -->
@@ -790,24 +771,24 @@ function buttonup ( buttonname )
 <!--
 if (document.images) {
     gsforumsbuttonup       = new Image();
-    gsforumsbuttonup.src   = "article_assets/mod_footer/gs_forums_norm.png" ;
+    gsforumsbuttonup.src   = SiteUrl+"article_assets/mod_footer/gs_forums_norm.png" ;
     gsforumsbuttondown     = new Image() ;
-    gsforumsbuttondown.src = "article_assets/mod_footer/gs_forums_hl.png" ;
+    gsforumsbuttondown.src = SiteUrl+"article_assets/mod_footer/gs_forums_hl.png" ;
 	
 	facebookbuttonup       = new Image();
-    facebookbuttonup.src   = "article_assets/mod_footer/facebook_norm.png" ;
+    facebookbuttonup.src   = SiteUrl+"article_assets/mod_footer/facebook_norm.png" ;
     facebookbuttondown     = new Image() ;
-    facebookbuttondown.src = "article_assets/mod_footer/facebook_hl.png" ;
+    facebookbuttondown.src = SiteUrl+"article_assets/mod_footer/facebook_hl.png" ;
 	
 	twitterbuttonup       = new Image();
-    twitterbuttonup.src   = "article_assets/mod_footer/twitter_norm.png" ;
+    twitterbuttonup.src   = SiteUrl+"article_assets/mod_footer/twitter_norm.png" ;
     twitterbuttondown     = new Image() ;
-    twitterbuttondown.src = "article_assets/mod_footer/twitter_hl.png" ;
+    twitterbuttondown.src = SiteUrl+"article_assets/mod_footer/twitter_hl.png" ;
 	
 	youtubebuttonup       = new Image();
-    youtubebuttonup.src   = "article_assets/mod_footer/youtube_norm.png" ;
+    youtubebuttonup.src   = SiteUrl+"article_assets/mod_footer/youtube_norm.png" ;
     youtubebuttondown     = new Image() ;
-    youtubebuttondown.src = "article_assets/mod_footer/youtube_hl.png" ;
+    youtubebuttondown.src = SiteUrl+"article_assets/mod_footer/youtube_hl.png" ;
 
 
 
@@ -885,25 +866,31 @@ function buttonup ( buttonname )
       <tbody><tr height="228">
          <td style="padding: 25px 0px 0px 40px; font-size:14px; font-family:Arial, Helvetica, sans-serif;"><img src="/article_assets/mod_footer/headers_games.png"><br><br>
                 <a href="http://realmsonline.gamesamba.com/" target="_blank">Realms Online</a><br>
-                <a href="http://tribaltrouble2.gamesamba.com/" target="_blank">Tribal Trouble 2</a><br>
                 <a href="http://remnantknights.gamesamba.com/" target="_blank">Remnant Knights</a> <br>
+				<a href="http://callofgods.gamesamba.com" target="_blank">Call of Gods</a> <br>
+				<a href="http://ladypopular.gamesamba.com" target="_blank">Lady Popular</a> <br>
+				<a href="http://khanwars.gamesamba.com" target="_blank">Khan Wars</a> <br>
+				<a href="http://managore.gamesamba.com" target="_blank">Managore</a> <br>
+				<a href="http://starsupremacy.gamesamba.com" target="_blank">Star Supremacy</a> <br>
+                <a href="http://tribaltrouble2.gamesamba.com/" target="_blank">Tribal Trouble 2</a><br>
+                
           </td>
          
          <td style="padding: 25px 0px 0px 40px; font-size:14px; font-family:Arial, Helvetica, sans-serif;"><img src="/article_assets/mod_footer/headers_news.png"><br><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=195&amp;Itemid=189">All</a><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=197&amp;Itemid=223">News</a><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=198&amp;Itemid=222">Announcements</a><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=196&amp;Itemid=221">Events</a> <br></td>
+               <a href="/news/all.html">All</a><br>
+               <a href="/news/news.html">News</a><br>
+               <a href="/news/announcements.html">Announcements</a><br>
+               <a href="/news/events.html">Events</a> <br></td>
          
          <td style="padding: 25px 0px 0px 40px; font-size:14px; font-family:Arial, Helvetica, sans-serif;"><img src="/article_assets/mod_footer/headers_store.png"><br><br>
-              <a href="/index.php?option=com_content&amp;view=article&amp;id=162&amp;Itemid=192">Buy Sambas</a><br>
+              <a href="/store.html">Buy Sambas</a><br>
         </td>
        
         <td style="padding: 25px 0px 0px 40px; font-size:14px; font-family:Arial, Helvetica, sans-serif;"><img src="/article_assets/mod_footer/headers_support.png"><br><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=170&amp;Itemid=190">Customer Support</a><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=169&amp;Itemid=197">FAQs</a><br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=168&amp;Itemid=198">New To GameSamba</a> <br>
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=171&amp;Itemid=200">Contact</a> <br>
+               <a href="/support.html">Customer Support</a><br>
+               <a href="/faq.html">FAQs</a><br>
+               <a href="/newtogamesamba.html">New To GameSamba</a> <br>
+               <a href="/contact.html">Contact</a> <br>
          </td>
        
        <td style="padding: 25px 20px 15px 40px; font-size:14px; font-family:Arial, Helvetica, sans-serif;"><img src="/article_assets/mod_footer/headers_connect.png"><br><br>
@@ -921,12 +908,12 @@ function buttonup ( buttonname )
        <td>
           <table width="982" border="0" cellspacing="0" cellpadding="0" style="background: url('/article_assets/mod_footer/footer_bg_02.png') no-repeat;">
               <tbody><tr height="40">
-                  <td width="381" height="21"> <div id="copyright">Copyright © 2011  GameSamba</div></td>
+                  <td width="381" height="21"> <div id="copyright">Copyright © 2012  GameSamba</div></td>
                   <td width="446">
             <div id="terms">
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=161">Terms</a> | 
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=164">Privacy Policy</a> | 
-               <a href="/index.php?option=com_content&amp;view=article&amp;id=166">About GameSamba</a>
+               <a href="/terms.html">Terms</a> | 
+               <a href="/privacy.html">Privacy Policy</a> | 
+               <a href="/aboutus.html">About GameSamba</a>
                </div>
           </td>
                <td><a href="http://www.gamesamba.com"><img src="/article_assets/mod_footer/footer_logo.png" width="138" height="30" style="padding-top:5px;"></a>
