@@ -1,27 +1,24 @@
-<!--The following is the downloaded HTML source of the charlestoncitypaper.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102002204id_/http%3A//www.charlestoncitypaper.com/charleston/PrivacyStatement/Page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charlestoncitypaper.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606205610id_/http%3A//www.charlestoncitypaper.com/charleston/PrivacyStatement/Page) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
   
   <meta name="layout" content="Page">
+  <meta name="oid" content="1102667">
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta http-equiv="imagetoolbar" content="no">
-  
-  
-
-  
-    <link rel="canonical" href="http://www.charlestoncitypaper.com/charleston/PrivacyStatement/Page">
-    
-  
-  
   <link rel="shortcut icon" href="/favicon.ico">
 
   
   
-  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=15">
-  <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=15">
-  <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=15">
-  <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=15">
+  <link rel="stylesheet" type="text/css" href="/foundation/styles/reset.css?cb=42">
+
+  
+  
+    <link rel="stylesheet" type="text/css" href="/styles/defaults.css?cb=42">
+    <link rel="stylesheet" type="text/css" href="/styles/components.css?cb=42">
+    <link rel="stylesheet" type="text/css" href="/styles/publication.css?cb=42">
+  
 
   <style type="text/css">
     /* Foundation Convenience Styles */
@@ -46,6 +43,9 @@
   <!--[if IE 7]>
     <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
   <![endif]-->
+  <!--[if gte IE 9]>
+      <link rel="stylesheet" type="text/css" href="/styles/ie9-plus.css">
+  <![endif]-->
 
   <link rel="stylesheet" href="/styles/print.css" type="text/css" media="print">
 
@@ -66,32 +66,29 @@
 
   
   
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/foundation/scripts/core-public.js?cb=15"></script>
+  
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/foundation/scripts/core-public.js?cb=60a676aecf"></script>
   
 
   
   <link rel="stylesheet" href="/foundation/styles/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
   <script>
-    new Foundation.Fancybox("a.zoomable");
+    Foundation.documentReady.then(function () {
+        jQuery("a.zoomable").fancybox({"type": "image", "titlePosition": "over"});
+    });
   </script>
 
   
-  <script type="text/javascript">
-    jQuery(document).ready(window.setupGlide);
+  <script>
+    // Smooth scrolling to anchors on the same page.
+    setupGlide();
+    
+    // Modify user's own profile links to go to correct URL.
+    fixupProfileLinks("http://www.charlestoncitypaper.com/charleston/Profile", "http://posting.charlestoncitypaper.com/charleston/MyProfile");
   </script>
-
   
   
-
   
-  <script type="text/javascript">
-  <!--
-    fixupProfileLinks(
-        "http://www.charlestoncitypaper.com/charleston/Profile",
-        "http://posting.charlestoncitypaper.com/charleston/MyProfile"
-    );
-  //-->
-  </script>
 
   
   
@@ -99,7 +96,7 @@
   
   
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
+</script>  
     
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-2574871568693937");
@@ -146,6 +143,7 @@
   GA_googleAddSlot("ca-pub-2574871568693937", "Top_Ads");
   GA_googleAddSlot("ca-pub-2574871568693937", "Art-Movies_Skyscraper");  GA_googleAddSlot("ca-pub-2574871568693937", "Calendar-Scene_Skyscraper");  GA_googleAddSlot("ca-pub-2574871568693937", "Food-Drink_Skyscraper");  GA_googleAddSlot("ca-pub-2574871568693937", "Music-Clubs_Skyscraper");  GA_googleAddSlot("ca-pub-2574871568693937", "News-Opinions_Skyscraper");
   GA_googleAddSlot("ca-pub-2574871568693937", "Footer_Leaderboard");
+  GA_googleAddSlot("ca-pub-2574871568693937", "Footer_Leaderboard-Music");
   GA_googleAddSlot("ca-pub-2574871568693937", "Swig_MR1");
   GA_googleAddSlot("ca-pub-2574871568693937", "Swig_MR2");
   GA_googleAddSlot("ca-pub-2574871568693937", "Swig_MR3");
@@ -159,36 +157,21 @@
   GA_googleAddSlot("ca-pub-2574871568693937", "Spoleto_MR2");
   GA_googleAddSlot("ca-pub-2574871568693937", "Spoleto_MR3");
   GA_googleAddSlot("ca-pub-2574871568693937", "Spoleto_MR4");
+  GA_googleAddSlot("ca-pub-2574871568693937", "Food-Drink_Interstitial");
+  GA_googleAddSlot("ca-pub-2574871568693937", "Special-Issues_Interstitial");
+  GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Interstitial");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Attractions");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Culture");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Eating");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_News");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Politics");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Recreation");
+GA_googleAddSlot("ca-pub-2574871568693937", "BOC_Shops");
 </script>
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
 
-
-
-
-<!--
-  <PageMap>
-    <DataObject type="foundation">
-      <Attribute name="oid">1102667</Attribute>
-      <Attribute name="class">Page</Attribute>
-      <Attribute name="lastmodified">20100408124545</Attribute>
-      <Attribute name="creationdate">20081201151906</Attribute>
-    </DataObject>
-
-    <DataObject type="document">
-      <Attribute name="releasedatetime"></Attribute>
-      <Attribute name="releasedate"></Attribute>
-      <Attribute name="releaseepoch"></Attribute>
-      <Attribute name="title">Privacy Statement</Attribute>
-      <Attribute name="author"></Attribute>
-      <Attribute name="authorname"></Attribute>
-      <Attribute name="authorsortname"></Attribute>
-    </DataObject>
-
-    
-  </PageMap>
--->
   <script type="text/javascript" src="/includes/highslide/highslide-with-gallery.js"></script>
 
 <link rel="stylesheet" type="text/css" href="/includes/highslide/highslide.css">
@@ -213,8 +196,18 @@
   
   
     <link rel="image_src" href="http://www.charlestoncitypaper.com/binary/e1e6/charlestoncitypaper-logo.jpg">
+    <meta name="thumbnail" content="http://www.charlestoncitypaper.com/binary/e1e6/charlestoncitypaper-logo.jpg">
   
 
+    
+  
+
+  
+    <link rel="canonical" href="http://www.charlestoncitypaper.com/charleston/PrivacyStatement/Page">
+    <meta property="og:url" content="http://www.charlestoncitypaper.com/charleston/PrivacyStatement/Page">
+    
+  
+  
   
     <meta property="fb:app_id" content="175028705897463">
   
@@ -234,6 +227,41 @@
 
   
   
+  
+
+    
+  
+  
+
+  
+  
+  <!--
+    <PageMap>
+      <DataObject type="foundation">
+        <Attribute name="oid">1102667</Attribute>
+        <Attribute name="class">Page</Attribute>
+        <Attribute name="lastmodified">20100408124545</Attribute>
+        <Attribute name="creationdate">20081201151906</Attribute>
+      </DataObject>
+
+      
+        
+          <DataObject type="document">
+            <Attribute name="releasedatetime"></Attribute>
+            <Attribute name="releasedate"></Attribute>
+            <Attribute name="releaseepoch"></Attribute>
+            <Attribute name="title">Privacy Statement</Attribute>
+            <Attribute name="author"></Attribute>
+            <Attribute name="authorname"></Attribute>
+            <Attribute name="authorsortname"></Attribute>
+          </DataObject>
+        
+
+        
+      
+    </PageMap>
+  -->
+
 </head>
 
 
@@ -248,14 +276,10 @@
     (function () {
         var app = new Foundation.Facebook.Application();
         app.receiveAuthNotifications();
-        
+        app.receiveLikeNotifications();
     })();
   </script>
-
-
-  
-
-  
+    
 
 <!-- Leader -->
 <div id="gridLeader">
@@ -270,14 +294,17 @@
 
 
 
+  
 
-  <div id="MobileDetect" class="GlobalHeader Page " style="display:none">
-    Switch to the <a href="http://m.charlestoncitypaper.com/gyrobase/PrivacyStatement/Page" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
-  </div>
+  
+    <div id="MobileDetect" class="GlobalHeader Page " style="display:none">
+      Switch to the <a href="http://m.charlestoncitypaper.com/charleston/PrivacyStatement/Page" rel="nofollow alternate" media="handheld">mobile version</a> of this page.
+    </div>
 
-  <script>
-    new Foundation.MobileDetectComponent("MobileDetect", false);
-  </script>
+    <script>
+      new Foundation.MobileDetectComponent("MobileDetect", true);
+    </script>
+  
 
 
 
@@ -289,7 +316,7 @@
 	
 		<form class="prepTextForm" id="searchbox_010728361441185215229:pknwh-vjlx4" action="http://www.charlestoncitypaper.com/charleston/Search" name="searchbox_010728361441185215229:pknwh-vjlx4">
 		
-		<input type="hidden" name="cx" value="010728361441185215229:pknwh-vjlx4"> <input type="hidden" name="cof" value="FORID:11"> <input type="hidden" name="as_qdr" value="y"> <input type="text" name="q" class="searchField"> <input type="submit" name="sa" value="" class="searchButton"> 
+		<input type="hidden" name="cx" value="010728361441185215229:pknwh-vjlx4"> <input type="hidden" name="cof" value="FORID:11"> <input type="text" name="q" class="searchField"> <input type="submit" name="sa" value="" class="searchButton"> 
 
 		</form>
 		
@@ -297,13 +324,13 @@
         
 	<ul id="socialbuttonsgroup" class="socialbuttons">
 
-		<li><a href="http://www.charlestoncitypaper.com/charleston/twitter/page"><img src="http://www.charlestoncitypaper.com/images/home/twitter.gif" alt="Twitter" title="Twitter" border="0"></a></li>
-		<li><a href="http://www.facebook.com/pages/Charleston-City-Paper/158774325701" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/facebook.gif" alt="Facebook" title="Facebook" border="0"></a></li>
-		<li><a href="http://www.youtube.com/user/charlestoncitypaper" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/youtube.gif" alt="YouTube" title="YouTube" border="0"></a></li>
-		<li><a href="http://foursquare.com/user/1688479" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/foursquare.gif" alt="Foursquare" title="Foursquare" border="0"></a></li>
-		<li><a href="http://charlestoncitypaper.tumblr.com/" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/tumblr.gif" alt="Tumblr" title="Tumblr" border="0" target="_blank"></a></li>
+		<li><a href="http://www.charlestoncitypaper.com/charleston/twitter/page"><img src="http://www.charlestoncitypaper.com/images/home/twitter.gif" alt="Twitter" title="Twitter" border="0" width="16" height="16"></a></li>
+		<li><a href="https://www.facebook.com/charlestoncitypaper?filter=1" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/facebook.gif" alt="Facebook" title="Facebook" border="0" width="16" height="16"></a></li>
+		<li><a href="https://foursquare.com/user/1688479" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/foursquare.gif" alt="Forusquare" title="Foursquare" border="0" width="16" height="16"></a></li>
+		<li><a href="http://www.youtube.com/user/charlestoncitypaper/videos" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/youtube.gif" alt="YouTube" title="YouTube" border="0" width="16" height="16"></a></li>		
+		<li><a href="http://charlestoncitypaper.tumblr.com/" target="_blank"><img src="http://www.charlestoncitypaper.com/images/home/tumblr.gif" alt="Tumblr" title="Tumblr" border="0" target="_blank" width="16" height="16"></a></li>
 	
-	</ul>
+	</ul> 
         
 	
 
@@ -366,26 +393,14 @@
         
         
     		<div id="promotionsgroup" class="promotionlinks">
+    		<b><a style="font-size:13px;" href="http://www.charlestoncitypaper.com/charleston/bestof">Best of Charleston 2012</a></b><br> 
   		  
          
           
 
         
         
-  		  <a href="http://www.charlestoncitypaper.com/charleston/FreeStuff" target="_self">Win passes to the Charleston Cup</a>
-  		  
-          <br>
-			
-
-		  
-		  
-		
-         
-          
-
-        
-        
-  		  <a href="https://forkfly.com/" target="_self">Find Great Local Deals Using Forkfly</a>
+  		  <a href="http://www.charlestoncitypaper.com/Spoletobuzz/archives/2012/05/23/cps-free-spoleto-mobile-app-brings-the-festival-to-your-fingertips" target="_self">CP's free Spoleto Mobile app</a>
   		  
           <br>
 			
@@ -398,7 +413,7 @@
 
         
         
-  		  <a href="http://www.charlestoncitypaper.com/charleston/CharlestonsHottestBartender/Page" target="_self">Vote now for Charleston's Hottest Bartender</a>
+  		  <a href="http://www.charlestoncitypaper.com/charleston/charleston-beach-guide/Category?oid=3350025" target="_self">Sun, Surf, Sand: CP's Beach Guide</a>
   		  
 
 		  
@@ -529,7 +544,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/victim-in-skinful-felony-dui-dies/Content?oid=3637680">Victim in Skinful felony DUI dies<img src="/images/home/new.gif"></a>
+             <a href="http://www.charlestoncitypaper.com/TheBattery/archives/2012/06/06/police-2-year-old-jamarr-tiller-was-mauled-by-at-least-two-dogs">Police: 2-year-old JaMarr Tiller was mauled by at least two dogs<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -540,7 +555,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/riley-dominates-opponents-in-funding-race/Content?oid=3636946">Riley dominates opponents in funding race</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/blotter-alien-languages-a-shoe-thief-and-a-fishy-break-in/Content?oid=4089165">Blotter: Alien languages, a shoe thief, and a fishy break-in<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -551,7 +566,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/HaireoftheDog/archives/2011/10/28/fitsnews-claims-thomas-ravenel-renounces-us-citizenship">FITSNews claims Thomas Ravenel renounces U.S. citizenship</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/stegelins-weekly-cartoon-zombie-apocalypse/Content?oid=4089168">Stegelin's Weekly Cartoon: Zombie apocalypse<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -562,7 +577,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/doh-riley-critic-calls-the-wrong-potential-donor/Content?oid=3634664">D’Oh! Riley critic calls the wrong potential donor</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/texas-ted-cruz-is-an-example-of-principled-yet-practical-conservatism/Content?oid=4089472">Texas' Ted Cruz is an example of principled yet practical conservatism<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -573,7 +588,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/RockBottom/archives/2011/10/27/chamber-of-commerce-endorses-mayoral-incumbents">Chamber of Commerce endorses mayoral incumbents</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/one-mans-quest-to-make-a-difference-in-his-community/Content?oid=4089475">One man's quest to make a difference in his community<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -584,7 +599,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/HaireoftheDog/archives/2011/10/27/halloween-costume-tips-geisha-good-blackface-bad">Halloween costume tips: Geisha good, blackface bad</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/charlestons-bridges-cross-troubled-waters/Content?oid=4089598">Charleston's bridges cross troubled waters<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -617,6 +632,19 @@
       
       
 
+      <li class="blogItem">
+        <a href="http://www.charlestoncitypaper.com/blogs/TheBattery/" target="_self">The Battery</a>
+      </li>
+
+      
+
+
+    
+       
+      
+      
+      
+
       <li class="">
         <a href="http://www.charlestoncitypaper.com/charleston/commentarchives" target="_self">Recent Comments</a>
       </li>
@@ -631,20 +659,7 @@
       
 
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/ArticleArchives?category=1072140" target="_self">Will Moredock</a>
-      </li>
-
-      
-
-
-    
-       
-      
-      
-      
-
-      <li class="">
-        <a href="http://www.charlestoncitypaper.com/blogs/lovehate" target="_self">Love | Hate</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/ArticleArchives?category=1072140" target="_self">Will Moredock</a>
       </li>
 
       
@@ -708,7 +723,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/halloweeners-rally-for-monday-night-celebrations/Content?oid=3637700">PHOTOS: Halloweeners rally for Monday night celebrations<img src="/images/home/new.gif"></a>
+             <a href="http://www.charlestoncitypaper.com/charleston/freeloaders-props-to-piccolo/Content?oid=4088618">Freeloaders: Props to Piccolo</a>
            </li>
 
           
@@ -719,7 +734,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/nightmare-on-ann-salvages-halloweens-dregs/Content?oid=3637824">Nightmare on Ann salvages Halloween’s dregs<img src="/images/home/new.gif"></a>
+             <a href="http://www.charlestoncitypaper.com/charleston/cedar-lake-dancers-and-mike-daisey-settle-south-of-broad/Content?oid=4088602">Cedar Lake dancers and Mike Daisey settle South of Broad</a>
            </li>
 
           
@@ -730,7 +745,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/taco-boys-party-brings-out-the-creative-costumes/Content?oid=3637600">Taco Boy’s party brings out the creative costumes<img src="/images/home/new.gif"></a>
+             <a href="http://www.charlestoncitypaper.com/charleston/stars-came-out-for-jake-shimabukuros-honoluau/Content?oid=4088556">Stars came out for Jake Shimabukuro's Honoluau</a>
            </li>
 
           
@@ -741,7 +756,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/wild-benefit-combines-haute-cuisine-and-odd-birds/Content?oid=3637583">WILD benefit combines haute cuisine and odd birds<img src="/images/home/new.gif"></a>
+             <a href="http://www.charlestoncitypaper.com/seersucker/archives/2012/06/01/its-official-anthropologie-opening-on-king-street">It's official: Anthropologie opening on King Street</a>
            </li>
 
           
@@ -752,7 +767,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/freeloaders-bye-bye-halloween-hello-staches/Content?oid=3636760">Freeloaders: Bye-bye Halloween, Hello Staches</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/scenesters-celebrate-joy-kills-sorrow-with-a-laid-back-affair/Content?oid=4087396">SCENEsters celebrate Joy Kills Sorrow with a laid-back affair</a>
            </li>
 
           
@@ -763,7 +778,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/big-rodes-and-deep-fried-kool-aid/Content?oid=3635087">Big Rides and Deep-Fried Kool-Aid</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/weekend-round-up-aloha-honoluau/Content?oid=4086880">Weekend Round-Up: Aloha Honoluau</a>
            </li>
 
           
@@ -785,19 +800,6 @@
 
       <li class="blogItem">
         <a href="http://www.charlestoncitypaper.com/blogs/seersucker" target="_self">Seersucker &amp; Stilettos</a>
-      </li>
-
-      
-
-
-    
-       
-      
-      
-      
-
-      <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/EventSearch?eventSection=1069890&amp;eventCategory=1069920" target="_self">Halloween</a>
       </li>
 
       
@@ -853,7 +855,7 @@
       </li>
 
       
-        </ul> </li></ul> <!-- check 13 - Submit an event - 5 -->
+        </ul> </li></ul> <!-- check 12 - Submit an event - 5 -->
       
 
 
@@ -874,7 +876,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/CultureShock/archives/2011/11/01/art-of-sykes-brings-contemporary-flair-to-goose-creek">Art of Sykes brings contemporary flair to Goose Creek</a>
+             <a href="http://www.charlestoncitypaper.com/Spoletobuzz/archives/2012/06/06/its-a-circus-around-here-really">It's a circus around here. Really.<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -885,7 +887,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/review-male-leads-take-the-spotlight-in-thresholds-the-crucible/Content?oid=3634947">Review: Male leads take the spotlight in Threshold's <i>The Crucible</i></a>
+             <a href="http://www.charlestoncitypaper.com/Spoletobuzz/archives/2012/06/06/mike-daisey-and-the-long-dark-night-of-the-geek-soul">Mike Daisey and the long dark night of the geek soul<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -896,7 +898,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/CultureShock/archives/2011/10/27/cso-gets-new-vp">CSO gets new VP</a>
+             <a href="/charleston/spoleto-2012/Section?oid=4070434">Spoleto Festival 2012<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -907,7 +909,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/scott-poole-explores-the-history-of-monsters-in-america/Content?oid=3632880">Scott Poole explores the history of monsters in America</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/marcus-amaker-opens-up-in-his-fourth-book-of-poetry/Content?oid=4089246">Marcus Amaker opens up in his fourth book of poetry<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -918,8 +920,7 @@
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/cofc-pianist-sean-kennard-returns-to-george-street/Content?oid=3632887">CofC pianist Sean Kennard returns 
-to George Street</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/daniel-island-and-jonathan-green-pay-tribute-to-philip-simmons/Content?oid=4089250">Daniel Island and Jonathan Green pay tribute to Philip Simmons<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -930,7 +931,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/HolyCinema/archives/2011/10/26/some-unintentionally-scary-movies-to-scare-the-pants-off-you">Some unintentionally scary movies to scare the pants off you</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/youll-see-darling-companions-conclusion-coming-from-a-mile-away/Content?oid=4089266">You'll see Darling Companion's conclusion coming from a mile away<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -976,8 +977,21 @@ to George Street</a>
       
       
 
+      <li class="blogItem">
+        <a href="http://www.charlestoncitypaper.com/blogs/spoletobuzz" target="_self">Spoletobuzz</a>
+      </li>
+
+      
+
+
+    
+       
+      
+      
+      
+
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/ArticleArchives?category=1072155" target="_self">Film Reviews</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/ArticleArchives?category=1072155" target="_self">Film Reviews</a>
       </li>
 
       
@@ -1003,7 +1017,7 @@ to George Street</a>
       
 
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/MovieTimes?narrowByDate=Today" target="_self">Movie Times</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/MovieTimes?narrowByDate=Today" target="_self">Movie Times</a>
       </li>
 
       
@@ -1015,12 +1029,12 @@ to George Street</a>
       
       
 
-      <li class="">
-        <a href="http://www.charlestoncitypaper.com/charleston/fall-arts-preview/Category?oid=1309452" target="_self">Fall Arts Issue</a>
+      <li class="bold">
+        <a href="http://www.charlestoncitypaper.com/charleston/spoleto-2012/Section?oid=4070434" target="_self">Spoleto 2012</a>
       </li>
 
       
-        </ul> </li></ul> <!-- check 19 - Fall Arts Issue - 99 -->
+        </ul> </li></ul> <!-- check 19 - Spoleto 2012 - 99 -->
       
 
 
@@ -1041,7 +1055,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/hanging-up-the-cleaver/Content?oid=3636434">Hanging Up the Cleaver</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/co-delivers-bright-asian-fare-in-a-laid-back-setting/Content?oid=4089156">CO delivers bright Asian fare in a laid-back setting<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -1052,7 +1066,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/eat-this-tonight-pies-of-all-kinds/Content?oid=3634978">Eat This Tonight: Pies of all kinds</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/eat-this-tonight-tomatoes/Content?oid=4087495">Eat this tonight: tomatoes!</a>
            </li>
 
           
@@ -1063,7 +1077,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/Eat/archives/2011/10/28/mt-p-mellow-pours-it-on">Mt. P Mellow pours it on</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/cask-ales-and-rare-italians/Content?oid=4087452">Cask Ales and Rare Italians</a>
            </li>
 
           
@@ -1074,7 +1088,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/Eat/archives/2011/10/27/wine-food-fest-looking-for-tasty-vendors">Wine + Food fest looking for tasty vendors</a>
+             <a href="http://www.charlestoncitypaper.com/Eat/archives/2012/06/01/john-cuffs-charleston-burger-co-serves-epic-burgers">John Cuff's Charleston Burger Co. serves epic burgers</a>
            </li>
 
           
@@ -1085,7 +1099,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/Eat/archives/2011/10/27/verde-greens-up-the-eating-scene">Verde greens up the eating scene</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/poogans-porch-ambitiously-modernizes-its-classic-lowcountry-menu/Content?oid=4084973">Poogan's Porch ambitiously modernizes its classic Lowcountry menu</a>
            </li>
 
           
@@ -1096,7 +1110,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/ben-berryhill-heads-next-door-for-fresh-inspiration/Content?oid=3632904">Ben Berryhill heads Next Door for fresh inspiration</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/eat-your-veggies-cauliflower-spicy-greens-cherry-tomatoes/Content?oid=4083037">Eat Your Veggies: cauliflower, spicy greens, cherry tomatoes</a>
            </li>
 
           
@@ -1130,7 +1144,7 @@ to George Street</a>
       
 
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/charleston/dish-dining-guide-summer-2011/Category?oid=3562827" target="_self">DISH dining guide</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/dish-dining-guide-winter-2012/Category?oid=4020367" target="_self">DISH dining guide</a>
       </li>
 
       
@@ -1156,7 +1170,7 @@ to George Street</a>
       
 
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/ArticleArchives?category=1072160" target="_self">Restaurant Reviews</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/ArticleArchives?category=1072160" target="_self">Restaurant Reviews</a>
       </li>
 
       
@@ -1182,7 +1196,7 @@ to George Street</a>
       
 
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/EventSearch?eventSection=1069891" target="_self">Cuisine Calendar</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/EventSearch?eventSection=1069891" target="_self">Cuisine Calendar</a>
       </li>
 
       
@@ -1220,7 +1234,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/the-wandas-rediscover-the-simple-beauty-of-great-rock/Content?oid=3636618">The Wandas rediscover the simple beauty of great rock</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/fitz-and-the-tantrums-recapture-motowns-blood-sweat-and-tears/Content?oid=4089577">Fitz and the Tantrums recapture Motown's blood, sweat, and tears<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -1231,7 +1245,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/FeedbackFile/archives/2011/10/31/jimmy-buffet-concert-tickets-go-on-sale">Jimmy Buffet concert tickets go on sale</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/alice-coopers-nightmarish-theatrics-remain-gloriously-gory/Content?oid=4089581">Alice Cooper's nightmarish theatrics remain gloriously gory<img src="/images/home/new.gif"></a>
            </li>
 
           
@@ -1242,7 +1256,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/the-flaming-lips-elevated-the-joy/Content?oid=3636362">The Flaming Lips elevated the joy</a>
+             <a href="http://www.charlestoncitypaper.com/FeedbackFile/archives/2012/06/06/patterson-hoods-new-solo-album-was-born-in-charleston">Patterson Hood’s new solo album was born in Charleston</a>
            </li>
 
           
@@ -1253,7 +1267,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/FeedbackFile/archives/2011/10/30/support-for-the-frits-family">Support for the Frits family</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/the-jac-celebrate-the-cool-jazz-of-getz-and-gilberto/Content?oid=4088509">The JAC celebrate the cool jazz of Getz and Gilberto</a>
            </li>
 
           
@@ -1264,7 +1278,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/weigh-station-leaves-the-past-behind/Content?oid=3636331">Weigh Station leaves the past behind</a>
+             <a href="http://www.charlestoncitypaper.com/charleston/in-the-jukebox-company/Content?oid=4088490">In the Jukebox: Company</a>
            </li>
 
           
@@ -1275,7 +1289,7 @@ to George Street</a>
             
 
            <li class="subnavHeadlines ">
-             <a href="http://www.charlestoncitypaper.com/charleston/tv-on-the-radio-bring-the-swagger/Content?oid=3635803">TV on the Radio bring the swagger</a>
+             <a href="http://www.charlestoncitypaper.com/FeedbackFile/archives/2012/06/01/soul-shag-and-more-at-freshfields">Soul, shag, and more at Freshfields</a>
            </li>
 
           
@@ -1309,7 +1323,7 @@ to George Street</a>
       
 
       <li class="searchItem">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/EventSearch?eventSection=1067887&amp;sortType=location&amp;eventCategory=1069927" target="_self">Find live music</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/EventSearch?eventSection=1067887&amp;sortType=location&amp;eventCategory=1069927" target="_self">Find live music</a>
       </li>
 
       
@@ -1322,7 +1336,7 @@ to George Street</a>
       
 
       <li class="">
-        <a href="http://www.charlestoncitypaper.com/gyrobase/LocationSearch?locationCategory=1067911" target="_self">Music venues</a>
+        <a href="http://www.charlestoncitypaper.com/charleston/LocationSearch?locationCategory=1067911" target="_self">Music venues</a>
       </li>
 
       
@@ -1417,10 +1431,30 @@ to George Street</a>
 
   
   
+  
+  
 
 
 
+    
 
+
+  <link type="text/css" href="/foundation/scripts/jplayer/skin/jplayer.blue.monday.css" rel="stylesheet">
+  <script type="text/javascript" src="/foundation/scripts/jplayer/jquery.jplayer.min.js"></script>               
+  <style>
+  div.jp-audio,
+  div.jp-video {
+    /* Edit the font-size to counteract inherited font sizing.
+     * Eg. 1.25em = 1 / 0.8em
+     */
+    font-size:1.25em;
+  }
+  div#storyBody div.inlineAudio,
+  div#AudioPlayer div.inlineAudio {
+    width: 400px;
+    margin: auto;
+    }
+  </style>
   
     <div id="PageBody" class="MainColumn Page ">
       <div id="storyBody">      
@@ -1511,32 +1545,32 @@ to George Street</a>
 			
              
 				
-					<li><a href="http://www.charlestoncitypaper.com/charleston/riley-dominates-opponents-in-funding-race/Content?oid=3636946">Riley dominates opponents in funding race</a>1 comment</li>
+					<li><a href="http://www.charlestoncitypaper.com/TheBattery/archives/2012/06/06/police-2-year-old-jamarr-tiller-was-mauled-by-at-least-two-dogs">Police: 2-year-old JaMarr Tiller was mauled by at least two dogs</a>2 comments</li>
 				
 			
              
 				
-					<li><a href="http://www.charlestoncitypaper.com/HaireoftheDog/archives/2011/10/28/fitsnews-claims-thomas-ravenel-renounces-us-citizenship">FITSNews claims Thomas Ravenel renounces U.S. citizenship</a>3 comments</li>
+					<li><a href="http://www.charlestoncitypaper.com/charleston/co-delivers-bright-asian-fare-in-a-laid-back-setting/Content?oid=4089156">CO delivers bright Asian fare in a laid-back setting</a>14 comments</li>
 				
 			
              
 				
-					<li><a href="http://www.charlestoncitypaper.com/charleston/hanging-up-the-cleaver/Content?oid=3636434">Hanging Up the Cleaver</a>3 comments</li>
+					<li><a href="http://www.charlestoncitypaper.com/Eat/archives/2012/06/01/john-cuffs-charleston-burger-co-serves-epic-burgers">John Cuff's Charleston Burger Co. serves epic burgers</a>12 comments</li>
 				
 			
              
 				
-					<li><a href="http://www.charlestoncitypaper.com/charleston/review-male-leads-take-the-spotlight-in-thresholds-the-crucible/Content?oid=3634947">Review: Male leads take the spotlight in Threshold's <i>The Crucible</i></a>4 comments</li>
+					<li><a href="http://www.charlestoncitypaper.com/charleston/monologist-mike-daiseys-painful-odyssey-through-the-new-media-machine/Content?oid=4085052">Monologist Mike Daisey's painful odyssey through the new media machine</a>12 comments</li>
 				
 			
              
 				
-					<li><a href="http://www.charlestoncitypaper.com/HaireoftheDog/archives/2011/10/27/halloween-costume-tips-geisha-good-blackface-bad">Halloween costume tips: Geisha good, blackface bad</a>22 comments</li>
+					<li><a href="http://www.charlestoncitypaper.com/charleston/marcus-amaker-opens-up-in-his-fourth-book-of-poetry/Content?oid=4089246">Marcus Amaker opens up in his fourth book of poetry</a>1 comment</li>
 				
 			
              
 				
-					<li><a href="http://www.charlestoncitypaper.com/Eat/archives/2011/10/25/get-your-pizza-balls-on-king-street">Get your pizza balls on King Street</a>9 comments</li>
+					<li><a href="http://www.charlestoncitypaper.com/charleston/alice-coopers-nightmarish-theatrics-remain-gloriously-gory/Content?oid=4089581">Alice Cooper's nightmarish theatrics remain gloriously gory</a>1 comment</li>
 				
 			
 		</ul>
@@ -1556,7 +1590,16 @@ to George Street</a>
 
 </div>
 
+
+
+
+
+
+
+
     
+    
+
 
 <div id="ReaderReviewsBlock" class="MainSidebar Page  EdContent">
  
@@ -1573,41 +1616,30 @@ to George Street</a>
 
 <li>
    
-<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/j_paul_z/Location?oid=1068746">J. Paul'z</a></span>
+<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/state_street_real_estate_group/Location?oid=4076913">State Street Real Estate Group</a></span>
 
 
-    
-      <span class="smallratingGraphic"><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/no-star.gif" alt=""></span>
-    
-
-
-      
-      <span class="smallinfo">  The food here is GREAT! Wonderful selection and perfectly-sized portions. I live nearby and I…</span>
-      
-      
-      
-       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A1089441">hollyplay</a></span>
-      
-</li>
-
-
-
-<li>
-   
-<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/eye_level_art_103/Location?oid=1185852">Eye Level Art: 103</a></span>
-
-
-    
-      <span class="smallratingGraphic"><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/no-star.gif" alt=""><img src="/images/ratings/no-star.gif" alt=""><img src="/images/ratings/no-star.gif" alt=""><img src="/images/ratings/no-star.gif" alt=""></span>
-    
+<div class="starsContainer tiny">
+    <div class="goldStarContainer" style="left:0px;">
+    </div>
+    <div class="blankStarContainer">
+      <div class="blankStarContainerSub">
+        <div class="singleStar" style="left:0;"></div>
+        <div class="singleStar" style="left:11px;"></div>
+        <div class="singleStar" style="left:22px;"></div>
+        <div class="singleStar" style="left:33px;"></div>
+        <div class="singleStar" style="left:44px;"></div>
+      </div>
+    </div>
+  </div>
 
 
       
-        <span class="smallinfo"> this place is in a bad location safety-wise.</span>
+      <span class="smallinfo">  Just previewed the Santo Bruno Exhibit...<br> Exciting show...don't miss it! Easy to find on the…</span>
       
       
       
-       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A3634833">VNOAEHJONNA</a></span>
+       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A4089912">Karen Hewitt Hagan</a></span>
       
 </li>
 
@@ -1615,41 +1647,30 @@ to George Street</a>
 
 <li>
    
-<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/next_door/Location?oid=3588489">Next Door</a></span>
+<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/o_ku/Location?oid=1833386">O-Ku</a></span>
 
 
-    
-      <span class="smallratingGraphic"><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""></span>
-    
-
-
-      
-      <span class="smallinfo">  Been here twice since the slow-open, and it is a welcome addition to the East…</span>
-      
-      
-      
-       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A1147202">lawdog</a></span>
-      
-</li>
-
-
-
-<li>
-   
-<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/barsa_tapas_lounge_bar/Location?oid=2777186">Barsa Tapas Lounge &amp; Bar</a></span>
-
-
-    
-      <span class="smallratingGraphic"><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/no-star.gif" alt=""></span>
-    
+<div class="starsContainer tiny">
+    <div class="goldStarContainer" style="left:-44px;">
+    </div>
+    <div class="blankStarContainer">
+      <div class="blankStarContainerSub">
+        <div class="singleStar" style="left:0;"></div>
+        <div class="singleStar" style="left:11px;"></div>
+        <div class="singleStar" style="left:22px;"></div>
+        <div class="singleStar" style="left:33px;"></div>
+        <div class="singleStar" style="left:44px;"></div>
+      </div>
+    </div>
+  </div>
 
 
       
-      <span class="smallinfo">  Had dinner here last night and thought it was fantastic. Started off with the Pisco…</span>
+      <span class="smallinfo">  I know it was 10pm on a Sunday. But, that's no reason for the hamachi…</span>
       
       
       
-       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A1704729">joshl725</a></span>
+       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A1088190">Guy</a></span>
       
 </li>
 
@@ -1657,20 +1678,92 @@ to George Street</a>
 
 <li>
    
-<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/belgian_gelato/Location?oid=3496654">Belgian Gelato</a></span>
+<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/pearlz/Location?oid=1134323">Pearlz</a></span>
 
 
-    
-      <span class="smallratingGraphic"><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""><img src="/images/ratings/one-star.gif" alt=""></span>
-    
+<div class="starsContainer tiny">
+    <div class="goldStarContainer" style="left:-33px;">
+    </div>
+    <div class="blankStarContainer">
+      <div class="blankStarContainerSub">
+        <div class="singleStar" style="left:0;"></div>
+        <div class="singleStar" style="left:11px;"></div>
+        <div class="singleStar" style="left:22px;"></div>
+        <div class="singleStar" style="left:33px;"></div>
+        <div class="singleStar" style="left:44px;"></div>
+      </div>
+    </div>
+  </div>
 
 
       
-      <span class="smallinfo">  Legitimate Flavors served by an Amazing Staff. This store gives a very welcoming feeling from…</span>
+      <span class="smallinfo">  I must admit that I have enjoyed Pearlz may times in the past. This trip…</span>
       
       
       
-       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A3634252">Kyle David</a></span>
+       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A3395003">Jayman</a></span>
+      
+</li>
+
+
+
+<li>
+   
+<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/tristan/Location?oid=1068140">Tristan</a></span>
+
+
+<div class="starsContainer tiny">
+    <div class="goldStarContainer" style="left:0px;">
+    </div>
+    <div class="blankStarContainer">
+      <div class="blankStarContainerSub">
+        <div class="singleStar" style="left:0;"></div>
+        <div class="singleStar" style="left:11px;"></div>
+        <div class="singleStar" style="left:22px;"></div>
+        <div class="singleStar" style="left:33px;"></div>
+        <div class="singleStar" style="left:44px;"></div>
+      </div>
+    </div>
+  </div>
+
+
+      
+      <span class="smallinfo">  Hadn't been to Tristan's in a while, well over 5 years ago with a different…</span>
+      
+      
+      
+       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A1089035">willywoody</a></span>
+      
+</li>
+
+
+
+<li>
+   
+<span class="miniheadline"><a href="http://www.charlestoncitypaper.com/charleston/accent_on_wine/Location?oid=2424365">Accent on Wine</a></span>
+
+
+<div class="starsContainer tiny">
+    <div class="goldStarContainer" style="left:0px;">
+    </div>
+    <div class="blankStarContainer">
+      <div class="blankStarContainerSub">
+        <div class="singleStar" style="left:0;"></div>
+        <div class="singleStar" style="left:11px;"></div>
+        <div class="singleStar" style="left:22px;"></div>
+        <div class="singleStar" style="left:33px;"></div>
+        <div class="singleStar" style="left:44px;"></div>
+      </div>
+    </div>
+  </div>
+
+
+      
+        <span class="smallinfo"> A very welcome addition to downtown summerville, definitely something different, and delicious!</span>
+      
+      
+      
+       <span class="postedby"> -<a href="http://www.charlestoncitypaper.com/charleston/Profile?oid=oid%3A3729820">Marquesa Ortega</a></span>
       
 </li>
 
@@ -1682,7 +1775,7 @@ to George Street</a>
  
 </div>
 
-<div class="MainSidebar Page" id="Home_MR4">  
+<div class="MainSidebar Page clear" id="Home_MR4">  
 
 
 
@@ -1712,11 +1805,11 @@ to George Street</a>
       
         <li class="l0 storyItem">
     <h4 class="headline">
-      <a href="http://www.charlestoncitypaper.com/charleston/halloweeners-rally-for-monday-night-celebrations/Content?oid=3637700">PHOTOS: Halloweeners rally for Monday night celebrations</a>
+      <a href="http://www.charlestoncitypaper.com/charleston/co-delivers-bright-asian-fare-in-a-laid-back-setting/Content?oid=4089156">CO delivers bright Asian fare in a laid-back setting</a>
     </h4>
     
       <h5 class="subhead">
-        Bar-hopping on All Hallow's Eve
+        Fresh CO
       </h5>
     
   </li>
@@ -1724,11 +1817,11 @@ to George Street</a>
               
         <li class="l0 storyItem">
     <h4 class="headline">
-      <a href="http://www.charlestoncitypaper.com/charleston/victim-in-skinful-felony-dui-dies/Content?oid=3637680">Victim in Skinful felony DUI dies</a>
+      <a href="http://www.charlestoncitypaper.com/charleston/charlestons-bridges-cross-troubled-waters/Content?oid=4089598">Charleston's bridges cross troubled waters</a>
     </h4>
     
       <h5 class="subhead">
-        Charges against the suspect will remain the same
+        How to deal with jumpers, daredevils, and disasters
       </h5>
     
   </li>
@@ -1736,11 +1829,19 @@ to George Street</a>
               
         <li class="l0 storyItem">
     <h4 class="headline">
-      <a href="http://www.charlestoncitypaper.com/charleston/nightmare-on-ann-salvages-halloweens-dregs/Content?oid=3637824">Nightmare on Ann salvages Halloween’s dregs</a>
+      <a href="http://www.charlestoncitypaper.com/TheBattery/archives/2012/06/06/police-2-year-old-jamarr-tiller-was-mauled-by-at-least-two-dogs">Police: 2-year-old JaMarr Tiller was mauled by at least two dogs</a>
+    </h4>
+    
+  </li>
+        
+              
+        <li class="l0 storyItem">
+    <h4 class="headline">
+      <a href="http://www.charlestoncitypaper.com/charleston/flummerfelt-and-friends-touch-hearts-at-their-choral-orchestral-concert/Content?oid=4089893">Flummerfelt and friends touch hearts at their choral-orchestral concert</a>
     </h4>
     
       <h5 class="subhead">
-        Cave Party
+        Sacred Spirit Moves at the Gaillard
       </h5>
     
   </li>
@@ -1748,23 +1849,11 @@ to George Street</a>
               
         <li class="l0 storyItem">
     <h4 class="headline">
-      <a href="http://www.charlestoncitypaper.com/charleston/taco-boys-party-brings-out-the-creative-costumes/Content?oid=3637600">Taco Boy’s party brings out the creative costumes</a>
+      <a href="http://www.charlestoncitypaper.com/charleston/alice-coopers-nightmarish-theatrics-remain-gloriously-gory/Content?oid=4089581">Alice Cooper's nightmarish theatrics remain gloriously gory</a>
     </h4>
     
       <h5 class="subhead">
-        All Hallow's Fiesta
-      </h5>
-    
-  </li>
-        
-              
-        <li class="l0 storyItem">
-    <h4 class="headline">
-      <a href="http://www.charlestoncitypaper.com/charleston/riley-dominates-opponents-in-funding-race/Content?oid=3636946">Riley dominates opponents in funding race</a>
-    </h4>
-    
-      <h5 class="subhead">
-        P. Steven Dopp, cruise ship critic, backs three mayoral candidates
+        The rock 'n' roll horrorshow
       </h5>
     
   </li>
@@ -1861,6 +1950,7 @@ to George Street</a>
 		<li class="footernavblocklinks"><a href="http://www.charlestoncitypaper.com/charleston/MovieTimes?narrowByDate=Today">Movie times</a></li>
 		<li class="footernavblocklinks"><a href="http://www.charlestoncitypaper.com/charleston/ArticleArchives?category=1072153">Live theater</a></li>
 		<li class="footernavblocklinks"><a href="http://www.charlestoncitypaper.com/charleston/ArticleArchives?category=1072152">Visual arts</a></li>
+		<li class="footernavblocklinks"><a href="http://www.charlestoncitypaper.com/charleston/MoviesinthePark/Page">Movies in the Park</a></li>
 
 
 	</ul>
@@ -1892,9 +1982,15 @@ to George Street</a>
 <div style="clear:both;"></div>
 	
 		<div id="footerleaderboard">
-	<script type="text/javascript">
-  GA_googleFillSlot("Footer_Leaderboard");
-</script> 
+		
+		
+
+<script type="text/javascript">
+
+GA_googleFillSlot("Footer_Leaderboard");
+
+</script>
+
 </div>
 
 <div style="clear:both;"></div>
@@ -1917,7 +2013,7 @@ to George Street</a>
 <div id="footerCopyright">
   <p>
     Powered by <a href="http://foundation.gyrobase.com/" target="_blank">Foundation</a> &nbsp;
-    © Copyright 2011, 
+    © Copyright 2012, 
     <a href="http://www.charlestoncitypaper.com/">Charleston City Paper</a>
     &nbsp;&nbsp;<a href="http://www.charlestoncitypaper.com/charleston/Syndication"><img src="/images/rss.gif" alt="RSS" width="36" height="14" border="0" align="top"></a>
   </p>
@@ -2010,12 +2106,9 @@ qacct:"p-a4LDpi_DEopn-"
   <!-- end gridClamp -->
 </div>
 
-
-
+    
   
-
   
-
 
 
 </body></html>
