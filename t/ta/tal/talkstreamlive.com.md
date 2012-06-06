@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225001319id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607002329id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TalkStreamLive - A Dynamic Directory of Internet Radio
 
