@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119155114id_/http%3A//www.ktar.com%3Fsid%3D1086807%26nid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606133858id_/http%3A//www.ktar.com%3Fsid%3D1086807%26nid%3D159) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT - KTAR.com
+# PRIVACY STATEMENT - Bios - KTAR.com
 
 (Last revised January 2, 2009) 
 
@@ -19,3 +19,12 @@
 **Forums.** The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other. Operator is under no obligation to moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site. Operator retains the right to delete at any time and for any or no reason any material posted at the Site. 
 
 **Contact Information.** Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to webmaster@ktar.com. 
+
+**share this story:**
+
+[](https://web.archive.org/templates/v2_email_article.php?lastpage=http%3A%2F%2Fwww.ktar.com%2F%3Fsid%3D1086807%26nid%3D159)
+
+[](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ktar.com%2F%3Fsid%3D1086807%26nid%3D159&t=)
+
+  
+
