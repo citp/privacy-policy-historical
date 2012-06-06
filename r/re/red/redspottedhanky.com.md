@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redspottedhanky.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227212541id_/http%3A//www.redspottedhanky.com/policies/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redspottedhanky.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606120659id_/http%3A//www.redspottedhanky.com/policies/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Data Protection Policy - redspottedhanky.com
 
@@ -71,3 +71,9 @@ You may also ask us to provide details of the personal information that we hold 
 We may charge a fee for providing this information.
 
 If you think any information we have about you is incorrect or incomplete, [please email us as soon as possible.](mailto:atosonline@atosorigin.com)
+
+## [Cookie Policy](https://web.archive.org/cookie-policy/)
+
+[](https://web.archive.org/cookie-policy/)
+
+We use cookies to collect and process anonymous information about your visit to our website such as, which pages you visited, how long you spent on those pages, how often you visit. We will use this information to improve the contents of our site or to collate statistics about it, or to otherwise improve and personalise our services to you. 
