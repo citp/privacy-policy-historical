@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126105701id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606105504id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
@@ -64,18 +64,3 @@ If we merge with or are acquired by another company, the resulting combined comp
 | 
 
 ### Recently Updated Complaints
-
-[ \- result](https://web.archive.org/complaints-reviews/-l.html)  
-paper II booklet code b question10 the aim of education...
-
-[ \- Fooling People](https://web.archive.org/complaints-reviews/-l.html)  
-Country Club India is a fraud organisation luring people...
-
-[ \- Non activation](https://web.archive.org/complaints-reviews/-l.html)  
-I have purchased Reliance data connect No 9382541448 on...
-
-[ \- No water supply](https://web.archive.org/complaints-reviews/-l.html)  
-I m senior citizen, resident of H4/31 Mahvir enclave, near...
-
-[ \- MANVIR GAS AGENCY](https://web.archive.org/complaints-reviews/-l.html)  
-I have a gas connection of Bharat Gas. My consumer ID is...
