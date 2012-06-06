@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207040141id_/http%3A//www.techguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606022044id_/http%3A//www.techguide.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Sunday, 23 January 2011 23:05 
+##  [ Privacy Policy](http://techguide.com.au/privacy-policy)
 
-[](http://www.techguide.com.au/privacy-policy#)
+Details
+     Category: [Uncategorised](http://techguide.com.au/privacy-policy/2-uncategorised)
+    
+
+23 **Jan** **2011**
+
+     Written by Administrator 
 
 This privacy policy sets out how Tech Guide uses and protects any information that you give Tech Guide when you use this website.
 
@@ -63,6 +69,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy35622%20=%20'info'%20+%20'@';%20addy35622%20=%20addy35622%20+%20'techguide'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy35622%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy35622%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E.)[info@techguide.com.au](mailto:info@techguide.com.au).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy67182%20=%20'info'%20+%20'@';%20addy67182%20=%20addy67182%20+%20'techguide'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy67182%20+%20'\\'%3E'\);%20document.write\(addy67182\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[info@techguide.com.au](mailto:info@techguide.com.au).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
