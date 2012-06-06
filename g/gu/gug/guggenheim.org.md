@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229184756id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607005613id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### INTRODUCTION
 
-The Solomon R. Guggenheim Foundation (the "Guggenheim") is committed to protecting the privacy of its website visitors in accordance with applicable laws and regulations. All information gathered from you in connection with your use of this website (the "Site") is governed by the Guggenheim's Privacy Policy for website visitors set forth hereof (the "Privacy Policy"). 
+The Solomon R. Guggenheim Foundation (the "Guggenheim") is committed to protecting the privacy of its website visitors in accordance with applicable laws and regulations. All information gathered from you in connection with your use of this website (the "Site") is governed by the Guggenheim's Privacy Policy for website visitors set forth hereof (the "Privacy Policy").
 
 #### COLLECTION AND USE OF PERSONAL DATA BY GUGGENHEIM
 
@@ -20,7 +20,7 @@ When you subscribe to our online mailing list(s) and sign up for e-news, the Gug
 Online Memberships**  
 When you purchase a Guggenheim Museum membership online through the Site, the Guggenheim and its third-party merchants and agents will request information necessary to process your membership and acknowledge your contribution: your name, billing and shipping address, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."
 
-Please note that when you purchase a Guggenheim membership online, you exit the Guggenheim Site and enter the site of a third-party vendor, either Blackbaud or OvationTix. Blackbaud has an independent privacy policy that governs Blackbaud’s use of Personal Data, which is collected during your purchase. Please consult the [Blackbaud Privacy Policy](http://www.blackbaud.com/privacy/overview.aspx) for more information; or, for memberships purchased through the Guggenheim ticketing service, please consult the [OvationTix Privacy Policy](https://www.ovationtix.com/trs/terms.jsp). 
+Please note that when you purchase a Guggenheim membership online, you exit the Guggenheim Site and enter the site of Blackbaud, a third-party vendor. Blackbaud has an independent privacy policy that governs Blackbaud’s use of Personal Data, which is collected during your purchase. Please consult the [Blackbaud Privacy Policy](http://www.blackbaud.com/privacy/overview.aspx) for more information. 
 
 **Online Store Purchases**  
 When you order a product from the Guggenheim Museum "Online Store," the Guggenheim and its third-party merchants and agents will request information necessary to process your order: your name, billing and shipping address, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others." Please note that when you purchase a Guggenheim product online, you exit the Guggenheim Site and enter the site of our store merchant, "Yahoo." We use third-party Web beacons from Yahoo! to help analyze where visitors go and what they do while visiting the Site. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, please consult the Yahoo! Web Analytics [opt out](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). Yahoo has an independent privacy policy that governs Yahoo's use of Personal Data, which is collected during your purchase. Please consult the [Yahoo Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information.
@@ -28,7 +28,7 @@ When you order a product from the Guggenheim Museum "Online Store," the Guggenhe
 **Online Admissions and Program and Event Tickets**  
 When you purchase online tickets through the Site (including tickets for admission to the Solomon R. Guggenheim Museum, special exhibitions, performances, lectures, and other educational programs offered by the Guggenheim), the Guggenheim and its third-party merchants and agents will request information necessary to process your order: your name, billing and shipping address, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Disclosure of Personal Data to Others."
 
-Please note that when you purchase a Guggenheim ticket online, you exit the Guggenheim Site and enter the site of our ticket agent "OvationTix." OvationTix has an independent privacy policy that governs OvationTix’s use of Personal Data, which is collected during your purchase. Please consult the OvationTix privacy policy for more information. 
+Please note that when you purchase a Guggenheim ticket online, you exit the Guggenheim Site and enter the site of our ticket agents "Museumtix.com" or "Tix." Museumtix.com and Tix have independent privacy policies that govern their use of Personal Data, which is collected during your purchase. Please consult the [Museumtix.com](http://www.museumtix.com/help/PurchasePolicy.aspx?pvt=srgf) and [Tix](http://guggenheim.tix.com/Privacy.asp) privacy policies for more information. 
 
 **E-Cards**
 
@@ -75,7 +75,7 @@ The Guggenheim secure server software uses industry-standard Secure Socket Layer
 You may send comments about this Privacy Policy to [privacy@guggenheim.org](mailto:privacy@guggenheim.org).
 
 Effective Date: 9/15/08  
-Updated: 3/22/10
+Updated: 4/26/12
 
 © The Solomon R. Guggenheim Foundation, New York. All rights reserved.
 
