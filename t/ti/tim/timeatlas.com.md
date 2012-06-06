@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022715id_/http%3A//www.timeatlas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606170146id_/http%3A//www.timeatlas.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Productivity Portfolio is the sole owner of the information collected on WWW.TIM
 
 _**Orders**_
 
-Some of our written content may be sold such as specific research reports. Our payment processor, [Pay Pal](https://www.paypal.com/ "Link to PayPal site"), requests additional information from each purchaser. You must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill the order. If we have trouble processing an order, the information is used to contact you. **We do not have access to your Pay Pal financial data.**
+Some of our content may be sold such as specific research reports. Our payment processor, [Pay Pal](https://www.paypal.com/ "Link to PayPal site"), requests additional information from each purchaser. You must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill the order. If we have trouble processing an order, the information is used to contact you. **We do not have access to your Pay Pal financial data.**
 
 _**Email Updates**_
 
@@ -28,11 +28,11 @@ A cookie is a small piece of data stored on your computer from our website. Thes
 
 I'm continuing to experiment with various affiliates who may set their own cookies. The affiliates and ad location may change based on their performance. The purpose of these cookies is to identify timeatlas.com as the referring source so I'm properly compensated if you decide to purchase their products. In other words, the cookies help the vendor determine this site as the source so they know who to pay if you decide to purchase the product.
 
-Some of our advertising partners such as Google and ValueClick may place cookies or web beacons in the course of serving ads to this site. They may also serve [interest based advertising](http://www.google.com/ads/preferences/html/about.html "Link to Google interest based ad program") or retargeting ads. This means you may see ads on this site based on other web sites you visit. There is a [Google Ads Preferences setting](http://www.google.com/ads/preferences/view "Link to Google ad preference settings") which you may use to refine your selections or opt-out of their programs.
+Some of our advertising partners such as Google, ValueClick, Microsoft and IDG TechNet may place cookies or web beacons in the course of serving ads to this site. They may also serve [interest based advertising](http://www.google.com/ads/preferences/html/about.html "Link to Google interest based ad program") or retargeting ads. This means you may see ads on this site based on other web sites you visit. There is a [Google Ads Preferences setting](http://www.google.com/ads/preferences/view "Link to Google ad preference settings") which you may use to refine your selections or opt-out of their programs. This isn't an area I control.
 
 I also allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-If you're a user of the Action Enforcer service, which is Flash based, the application stores all your task information in a web shared object. This information is stored on your computer much like a cookie. If you delete the file, you will lose your custom lists, tasks, and timer groups. We do not have access to this information and can not recreate it for you if you mistakenly delete it. You can check the online users guide to find more information on this file.
+If you're a user of the Action Enforcer service, which is Flash based, the application stores all your task information in a web shared object (WSO). This information is stored on your computer much like a cookie. If you delete the file, you will lose your custom lists, tasks, and timer groups. We do not have access to this information and can not recreate it for you if you mistakenly delete it. You can check the online users guide to find more information on this file.
 
 ### If you use Firefox, you can view the contents for the cookies our site sets.
 
@@ -45,19 +45,23 @@ If you're a user of the Action Enforcer service, which is Flash based, the appli
 
 If you're an Internet Explorer user, you can manage your cookies through a freeware application called [IECookiesView](http://www.nirsoft.net/utils/iecookies.html "Link to IECookiesView utility") from Nir Sofer.
 
-If you go through this review process, you will see I have a cookie that expires in 32 years. I haven't a clue as to why our CMS system sets one for so long. I mean...who the heck is going to be using the same PC for that many years? Best I've done is to use a Sony monitor for 10 years and a HP Lasrerjet for about the same.
+If you go through this review process, you will see I have a cookie that expires in 32 years. I haven't a clue as to why the CMS system sets one for so long. I mean...who the heck is going to be using the same PC for that many years? Best I've done is to use a Sony monitor for 10 years and a HP Lasrerjet for about the same.
 
 _**Log Files**_
 
-Like most websites, our server creates big ugly log files. This file includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information unless you tatooed it on your body.
+Like most websites, our server creates big ugly log files. This file includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information unless you tattooed it on your body.
 
 As you probably guessed, parts of this policy were lifted from one of those "best practices" privacy policies. Pretty boring and sterile so I've added some more info below. Somebody must be making money off the word "aggregate".
 
-The web server log files are kept in several places. The current version is kept by our web hosting company. Typically, I download this file to my PC for analysis. Our web hosting company uses a rotating system where the previous file is archived. Files older than 3 months are overwritten. We have been keeping copies on our local machine for upwards of a year so we can see longer term trends.
+The web server log files are kept in several places. The current version is kept by our web hosting company. Sometimes, I download the file to my PC for analysis with Splunk for diagnosing errors. Our web hosting company uses a rotating system where the previous file is archived. Files older than 3 months are overwritten.
 
 You can see a good idea of the type of information I see and how I use this data in the article I wrote called, [Annual Report on Your Data and our Server Logs](http://www.timeatlas.com/news/security/annual_report_on_your_data_and_our_server_logs "Our article on server log information").
 
-This is also an area where I try different programs. If you have your own site you probably know the ordeal of analysis. Presently, I'm using [Google Analytics](http://www.google.com/analytics/ "Link to Google Analytics") and [LiveStats](http://www.gosquared.com/). At various times, I have used ClickTales for heatmaps and to watch user interaction. If you have any concerns or questions, please let me know.
+This is also an area where I continually try different programs. If you have your own site you probably know the ordeal of analysis. Presently, I'm using [Google Analytics](http://www.google.com/analytics/ "Link to Google Analytics"), LiveStats, Woopra and Clicky. At various times, I have used ClickTales for heatmaps and to watch user interaction. If you have any concerns or questions, please let me know.
+
+_**Testing**_
+
+Did that heading scare you? Don't worry I haven't wired the keyboard or activated your webcam although I would prefer it if you smile more often. On occasion, I do have various tests going on the site and use software services to help like Visual Website Optimizer. A test might be something as simple as changing a color or giving you a different version of a page or message if you're on an older browser. (Yes, I am talking to you people who insist on using very old versions of Internet Explorer). Based on these tests, I may then incorporate the change into production.
 
 ### Sharing
 
@@ -75,7 +79,7 @@ This Web site contains numerous links to other sites. Please be aware that I am 
 
 **_Email-A-Friend_**
 
-If you elect to use our referral service by emailing a friend an article link, the site asks you for the friend's name and email address. Productivity Portfolio will automatically send your friend a one-time email inviting them to visit the site. Productivity Portfolio uses this information for the sole purpose of sending this one-time email. The friend's email address is not stored. 
+If you elect to use our referral service by emailing a friend an article link, the site asks you for the friend's name and email address. Productivity Portfolio will automatically send your friend a one-time email inviting them to visit the site. Productivity Portfolio uses this information for the sole purpose of sending this one-time email. The friend's email address is not stored.
 
 ### Security
 
