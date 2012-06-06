@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208032313id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606200019id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
 
 # Tickld - Privacy Policy
 
@@ -50,7 +50,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 (DPA 1998). A small fee will be payable to cover postage as DPA 1998 requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the information held on you please write to hello@tickld.com with the subject line “Data Protection Act 1998 Application”. 
+You may request details of personal information which we hold about you under the Data Protection Act 1998 (DPA 1998). A small fee will be payable to cover postage as DPA 1998 requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the information held on you please write to hello@tickld.com with the subject line "Data Protection Act 1998 Application". 
 
 **Jurisdictional Clause**
 
