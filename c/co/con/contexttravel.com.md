@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contexttravel.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221142501id_/http%3A//www.contexttravel.com/FAQ/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contexttravel.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606123337id_/http%3A//www.contexttravel.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # FAQ - Privacy Policy | Context Travel
 
@@ -31,19 +31,3 @@ We can be reached via e-mail at [info@contexttravel.com](mailto:info@contexttrav
   * If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
 
 
-
-## Featured Walk
-
-### Marais Mansions
-
-The Renaissance arrived in Paris in the mid 16th century, transforming art and society. One of the best ways of reading and studying the Renaiss...
-
-[Read More](https://web.archive.org/city/Paris/walking_tour_details/Marais_Mansions)
-
-## General Questions
-
-### What happens if I need to cancel my trip?
-
-For most of our services we need at least 48 hours advance notice, at which time we refund 85% of the original purchase price. Some services, li...
-
-[Read More](https://web.archive.org/FAQ/General_Questions)
