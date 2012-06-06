@@ -1,34 +1,38 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606235151id_/http%3A//www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
 We are committed to protecting and respecting the privacy of all visitors and users of this website.
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only use your personal information in accordance with this privacy policy and applicable current data protection laws.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only use your personal information in accordance with this privacy policy and applicable current data protection laws, including the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011.
 
-By submitting your information and using our Website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this privacy policy.  
-You should print a copy of this privacy policy for future reference.
+This policy (together with our [terms of use](http://www.boohoo.com/restofworld/terms-of-use/pcat/termsofuse/), [Cookie Policy](http://www.boohoo.com/restofworld/about-cookie/page/aboutcookie/) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Wasabi Frog Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Steve Kuncewicz, who can be contacted at steve.kuncewicz@boohoo.com.
+
+By submitting your information and using our Website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this privacy policy. You should print a copy of this privacy policy for future reference.
 
 ## What personal information do we collect?
 
-If you decide to make an order with us, there is certain personal information that we will require from you in order to process your order (such as your name, delivery address, credit/debit card details, e-mail address and telephone number).
+If you decide to make an order with us, there is certain basic personal information that we will require from you in order to process your order (such as your name, delivery address, credit/debit card details, e-mail address and telephone number).
+
+We may also collect the following data about you to help us improve our service to you:
+
+  * Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to any service which we provide, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by a third party, and when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+
+
 
 We will only pass on your personal information to third parties if it is an essential part of trading with you (i.e. passing on your name and address to our carriers, or telephone number should there be a query with delivery). We will not rent or sell your name, address, email address, credit card details or any other personal information to any unrelated third party.
-
-From time to time we may also request further information to help us improve our service to you.  
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
 ## IP addresses and cookies 
 
 We also use your Internet Protocol (IP) address. An IP address is a set of numbers, which is assigned to your computer during a browsing session. It is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.
 
-Our site uses cookies to keep track of your visits to our website. A cookie is a small file that can be stored by your browser on your computer's hard drive. We use cookies to save your email address and password so that you don't have to re-enter it every time you visit our site. Cookies also help us to recognise when you visit our website and note the areas that are of interest to you. This allows us to tailor the service we provide.
-
-Cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites.
-
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
-
-Please note that our advertisers may also use cookies, over which we have no control.
+Our site uses cookies to distinguish you from other users of our site and to keep track of your visits. This helps us to provide you with the very best experience when you browse our site and to make improvements. For detailed information on the Cookies which we use and the reasons why we use them, see our [Cookie Policy](http://www.boohoo.com/restofworld/about-cookie/page/aboutcookie/)
 
 ## Site statistics
 
@@ -69,17 +73,17 @@ We may use information held about you to:
 
 ## Marketing and Communications
 
-You will have the opportunity to subscribe to other areas of the site. For instance you may wish to receive our newsletter or enter competitions. In these circumstances we will ask for additional information, such as your age, occupation, style interests etc. This will help us to target our marketing in a way we feel would be of specific interest to you. We may, from time to time, send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal data to these third party companies.
+You will have the opportunity to subscribe to other areas of the site. For instance you may wish to receive our newsletter or other marketing information (by E-Mail or Direct Mail) or enter competitions. In these circumstances we will ask for additional information, such as your age, occupation, style interests etc. This will help us to target our marketing in a way we feel would be of specific interest to you. We may from time to time send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal data to these third party companies.
 
 ## Disclosure of your information
 
 We may disclose your personal information:
 
-  * 1\. to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985;
-  * 2\. if Wasabi Frog Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * 3\. to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;
-  * 4\. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or,
-  * 5\. in order to enforce or apply our [terms of use](https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/page/termsofuse) or [terms and conditions of supply of products](https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/page/terms) and other agreements; or to protect the rights, property, or safety of Wasabi Frog Limited our customers, or others.
+  * To any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985; 
+  * If Wasabi Frog Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or,
+  * in order to enforce or apply our terms of use or terms and conditions of supply of products and other agreements; or to protect the rights, property, or safety of Wasabi Frog Limited, our customers, or others.
 
 
 
@@ -89,7 +93,9 @@ Unless required to do so by law, we will not otherwise share, sell or distribute
 
 ### Opting Out
 
-If you no longer wish to receive marketing information from us you have the option of ‘opting out’. Clear instructions on how to opt out of each area will be detailed specifically (for instance at the bottom of our e-newsletter your will have the option ‘To unsubscribe form our emails click here’). Alternatively, please let us know in writing.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. If you no longer wish to receive marketing information from us you have the option of ‘opting out’. Clear instructions on how to opt out of each area will be detailed specifically (for instance at the bottom of our e-newsletter you will have the option ‘To unsubscribe form our emails click here’). Alternatively, please let us know in writing.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 ### Access to information
 
