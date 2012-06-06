@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pvschools.net privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127085534id_/http%3A//pvschools.net/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvschools.net privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606043825id_/http%3A//www.pvschools.net/privacyPolicy.html) for the most accurate reproduction.*
 
 # PVUSD Privacy Policy and Disclaimer
 
