@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchgmctv.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125134103id_/http%3A//www.watchgmctv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchgmctv.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606145400id_/http%3A//www.watchgmctv.com/privacy-policy) for the most accurate reproduction.*
 
 # watchgmctv.com – gmc – uplifting entertainment – faith-friendly movies, shows – Christian music, Gospel music
 
