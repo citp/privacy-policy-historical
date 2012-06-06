@@ -1,116 +1,76 @@
-> *The following text is extracted and transformed from the pauloakenfold.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513015609id_/http%3A//www.gctrl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pauloakenfold.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606122612id_/http%3A//pauloakenfold.com/custom/privacy) for the most accurate reproduction.*
 
-# Privacy Policy // ground(ctrl)
+# PaulOakenfold.com
 
-[ground(ctrl)](https://web.archive.org/ "Say: ground control. No, really. Say it.")
+## Summary
 
-  * [Welcome](https://web.archive.org/ "Home")
-  * [Our Work](https://web.archive.org/case-studies/ "Case studies")
-  * [About Us](https://web.archive.org/about-us/ "About us")
-  * [Blog](https://web.archive.org/blog/ "ground\(ctrl\) blog")
+Your privacy is very important to us. By using [http://pauloakenfold.com](http://pauloakenfold.com/) you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
 
+## Amendments
 
+From time to time EQAL may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of Website, or technology, and such modifications shall be effective upon posting by EQAL. Your continued use of Website after EQAL posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If EQAL materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
 
-**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
+## Gathering of Personally-Identifying Information
 
-This Privacy Policy, effective October 1st, 2007, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service. 
+When EQAL collects PII from you it is because you are voluntarily providing that information through your use of Website or submitting PII to us in order to register as a Member. In addition, EQAL collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve Website, track usage, and for security purposes. Members may also choose to provide or store non-PII information in their account, including but not limited to date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively "Profile Information"). The Information in a Member's account is provided at his or her sole discretion.
 
-By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
+Members can change their PII and Profile Information at any time and can control how other Members and EQAL communicate with them by controlling their account settings, available within the "Edit Profile" section of the Member's profile page on any website operated by EQAL. Cookies are small bits of information that EQAL places on your computer. EQAL uses cookies to identify your Internet browser, store preferences, and determine whether you have installed the enabling software needed to access certain material on Website. Data in cookies may be read to authenticate user sessions or provide services.
 
-We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at support@groundctrl.com. 
+## Aggregated Statistics
 
-## About Ground(ctrl)™
+EQAL may collect statistics about the behavior of visitors on the Website. (E.g., monitoring the most popular sites on Website to help identify spam). EQAL may display this information publicly or provide it to others. We will not disclose your PII unless otherwise indicated below.
 
-Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers. 
+## Advertisements
 
-To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
+Third party advertisements displayed on Website by site owners may also contain cookies set by Internet advertising companies or advertisers (known as "third party cookies"). EQAL does not control these third party cookies and Users of Website should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on customized advertising on EQAL. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. EQAL may allow third party pixel tags to be present on Website for purposes of advertising, providing services or data and statistics collection.
 
-## The Information We Collect
+You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on Website.
 
-When you visit this web site, you provide us with three types of information: 
+When you voluntarily provide PII to EQAL, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses EQAL will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
 
-  1. web site information collected by us through your interaction with this web site;
-  2. personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and 
-  3. personal information you knowingly and voluntarily disclose to use when using this service.
+## 3rd Party Websites
 
+Website may be linked to Internet sites operated by other companies. Website may also carry advertisements from other companies. EQAL is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with Website or for the privacy practices of third party Internet advertising companies. Once you leave Website via such a link (e.g., to sites such as [http://www.youtube.com](http://www.youtube.com/)), access a third party application (such as widgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
 
+Advertisements placed on the Website by a site owner may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of EQAL Service, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please click here.
 
-First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
+Third party applications (such as widgets) created by third party developers may also be available on Website. Third party applications are small bits of software, often with interactivity, that can be installed into Members' profiles or shared with other Users. However, EQAL does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with EQAL. EQAL encourages Members not to provide PII to the third party's application unless the Member knows the party with whom it is interacting.
 
-Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network including your first name, last name, email address, password, location, birthday, AIM, Yahoo screen name, Jabber, ICQ, street address, city, state, postal code, country, Flicker Feed, third-party links, and avatar image. 
+## Use of Personally-Identifying Information
 
-Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by Ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
+EQAL will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If EQAL obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
 
-Children’s Online Privacy Protection Act of 1998
+## Member Search
 
-This privacy policy is provided in conformity with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age. 
+In order to locate other EQAL Members that you may already know in the physical world, EQAL allows Users to search for Members using Registration PII (i.e., full name or email address). EQAL also allows Users to browse for certain Profile Information in order to help connect with Members. EQAL may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under "Edit Profile." Search engines may index the portion of a Member's profile (including the Profile Information it contains) that is publicly displayed.
 
-If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact us at the address, phone number or email address provided at the end of this Privacy Policy. 
+## Promotional Materials
 
-The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
+If you have consented to receive promotional materials (e.g., newsletters) or notifications from EQAL, EQAL may periodically use your email address to send you such materials related to Website, as applicable. If you want to stop receiving such materials from EQAL, you can access the "Edit Profile" section on your profile page within any website operated by EQAL for which you have subscribed or follow the unsubscribe instructions at the bottom of each email.
 
-As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information. 
+EQAL employees, agents and contractors must have a business reason to obtain access to your PII. EQAL may share your PII with those who help us manage or provide EQAL Service' information activities (for example, message board administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes.
 
-We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the address listed at the end of this Privacy Policy. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you.
+## Disclosure
 
-## Correcting, Updating or Removing Your Information
+At EQAL's sole discretion, your PII may be shared with the third party owner or co-owner(s) of the website(s) which you join that is/are built on Website or one of its affiliated or related entities, in which case all PII will be subject to that entity or entities then applicable Privacy Policy and/or Terms of Use, copies of which can be found at the owner's or co-owner(s)'s website.
 
-At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature. 
+There may be instances when EQAL may access or disclose PII, Profile Information or non-PII without providing you a choice in order to: (i) protect or defend the legal rights or property of EQAL, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of Website or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if EQAL sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, EQAL may transfer your PII to the party or parties involved in the transaction as part of that transaction.
 
-## How We Use the Information
-
-We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
-
-When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications. 
-
-Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—i.e. the distribution of band information that, based on your profile, matters to you.
-
-## Sharing Your Information with Third Parties
-
-This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
-
-  1. enforce the network’s Terms and Conditions of Use Agreement;
-  2. protect the network’s rights;
-  3. coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards; 
-  4. protect the safety of it’s member; or
-  5. enhance each member’s promotional and informational-sharing experience. 
-
-
-
-The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service. 
-
-Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
-
-Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest. 
-
-## Third-Party Advertising
-
-Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
-
-Comments, Blogs, Messages, and Links
-
-Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites. 
-
-This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site. 
+When a Member who is located in the European Union chooses to post Profile Information that will be publicly disclosed, that Member is responsible for ensuring that such information conforms to all local data protection laws. EQAL is not responsible under the EU local data protection laws for Member-posted information.
 
 ## Security
 
-Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. 
+EQAL uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information (if applicable) in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, EQAL uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.
 
-Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information. 
+Whenever possible, EQAL Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and navigating to the "Edit Profile" section on your profile page. If you ask EQAL to stop using your PII, EQAL will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
 
-Disclaimer of Liability for Unauthorized Viewing of Personal Information
+If you would like to communicate with us about this Privacy Policy or EQAL's collection and use of your PII please email 
 
-You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+[privacy@eqal.com](mailto:privacy@eqal.com)
 
-Changes in the Privacy Policy’s Terms of Use, Notices and Revisions
+or write to us at
 
-We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
-
-Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
-
-Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
-
-## Contacting this Web Site
-
-If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at [support@groundctrl.com](mailto:support@groundctrl.com).
+Privacy, EQAL, Inc.  
+5250 Lankershim Blvd., Suite 720  
+North Hollywood, CA 91601  
+Attn: Paras Maniar
