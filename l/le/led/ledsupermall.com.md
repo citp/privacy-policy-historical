@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledsupermall.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204200056id_/http%3A//www.ledsupermall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledsupermall.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606045922id_/http%3A//www.ledsupermall.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Ledsupermall.com
 
