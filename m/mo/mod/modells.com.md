@@ -1,96 +1,117 @@
-> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108190412id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606064931id_/http%3A//www.modells.com/category/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
-# Help Desk
+# Privacy Policy- Gotta Go to Mo's
 
-Our Privacy Policy
+|  |  | 
 
-GSI Commerce Solutions, Inc. has created this privacy policy to inform you of the information gathering and dissemination practices for this Web site, www.modells.com. Because we want to demonstrate our commitment to your privacy, by notifying you of:
+****
 
-  1. What personally identifiable information of yours is collected through this Web site;
-  2. The organization collecting the information;
-  3. How the information is used;
-  4. With whom the information may be shared;
-  5. What choices are available to you regarding collection, use and distribution of the information;
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc control; and
-  7. How you can correct any inaccuracies in the information.
+Privacy Policy
 
+** **
 
+Modell's ® Online, Inc.
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-866-835-9129.
+**
 
-Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
+Effective and Last Updated: March 2012
 
-Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Web Site by email or otherwise, including any data, questions, comments, or suggestions (other than personally identifiable information which will be treated in accordance with this privacy policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by us and our affiliates for any purpose, including without limitation, reproduction, disclosure, transmission, publication, broadcast, and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Web Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products using such information. 
+** This website is owned and operated by Modell's Online, Inc. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the "Site"). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. **If you do not agree with this Privacy Policy, please do not use the Site.**
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.modells.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
+**1) Information Collected**
 
-**  External Links / Framed Web Pages **
+We collect two types of information from you: i) information that you voluntarily provide to us (e.g. through a voluntary registration process, sign-ups or emails); and ii) information that is derived through automated tracking mechanisms. 
 
-Our store locator functionality links to a third party web site. Any data provided through this functionality is not governed by this privacy policy. The privacy policy of the third party web site governs the information collection and dissemination practices occurring on such web site. 
-
-If you have accessed this Web Site through a link from certain of our advertising and marketing partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy. 
-
-**  Ordering from www.modells.com, Inc.**
-
-When you order from www.modells.com, we need your name, email address, shipping address, phone number and credit card number/expiration date. We use this data to process your order, ship it and send you order and shipping confirmations via email. Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)
-
-From time to time, we may use the purchases you make to customize our product recommendations. We also track customer traffic patterns and site usage. Traffic and usage data is used only to improve our site's design and provide our customers with a fulfilling shopping experience.
-
-  
-
-
-**  Opening a Modell's, Inc. account**
-
-We require your name, billing address, shipping address, email address and telephone number to open an account for you. We may also ask some additional optional questions to help us better serve you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) 
-
-**  Corrections/Updates to your Account **
-
-You can correct account data by clicking on "Manage My Account" within the Help Desk area of the site. If you have any questions or concerns about correcting or updating your Account, please contact our customer service department. 
-
-**  Receiving Promotions/Opt-Out **
-
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or call us toll-free at1-866-835-9129 and inform us that you want to unsubscribe to our email list. 
-
-In addition to being able to call our customer service department, you may also email us at [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions). When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
-
-**  Entering contests/sweepstakes**
-
-Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
-
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or telephone 1-866-835-9129.
-
-Users of this web site have the opportunity to e-mail product pages to their friends. In order to accomplish this, you must provide to us your friend's names and e-mails addresses. We only use your friend's information to send them the product pages you requested that they receive. 
-
-**  On-Line Gift Certificates and Gift Cards **
-
-If you send an on-line gift certificate or gift card to a third party you must provide us with the recipient's name and e-mail address. We only use this information to deliver such gift certificate or gift card. 
-
-You can use this form to give us any input which we will use to improve our site. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on our site. Except as provided in this privacy policy, this data is not shared with anyone in any way.
-
-**  Our Third Party Relationships**
-
-We have established several relationships with third parties vendors to best serve our customers.
-
-    
-
-  * **Retailer:** GSI Commerce Solutions, Inc operates this Web site pursuant to agreements with Modell's Holding Corp., Inc. Pursuant to such agreements, Modell's is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc. Additionally, Modell's may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. Modell's has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc here under.
-  * **Affiliates:** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.
-  * **Order Fulfillment:** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
-  * **Credit Card Processing:** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
-  * **Web Site Evaluation:** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
-  * **Marketing and Promotions:** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
-  * **Additional Third Party Relationships:** From time to time, we engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.
+  * Voluntary Registration Information.
 
 
 
-Additionally, From time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
+In order to fully access all services on this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, address, telephone number, and email address. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis.
 
-We use Secure Socket Layer (SSL) encryption technology to protect your personal information. The only time you are required to sign on our site is when you are making a purchase. On the Checkout page, you will be asked to access your existing account or create a new one. Existing account holders are prompted for their ID (your email address) and password. This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?" Click on this for instructions on how to get your password. 
+By registering with us, you consent to the use and method of disclosure as described in this Privacy Policy.
 
-**  Changes to Privacy Policy**
+  * Voluntary Information for Services and Features
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-**  Questions about our Policies**
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-866-835-9129.
+We also collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum, iv) participation in our MVP and/or Team Weeks plans, (v) commenting on articles, and others (vi) links to our Facebook pages, Twitter handle, etc.. When you choose to use these additional features, we require you to provide your "Contact Information" in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our other users in the future.
+
+  * Cookies
+
+
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. Modell's Online, Inc. uses cookies to store visitor's preferences and to record session information. Our site uses "cookies" and other tracking technologies. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer. 
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site.
+
+Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+
+**2) Referrals**
+
+You may choose to invite friends to visit **Modells.com** by using the "Tell a friend" and/or "Wishlist" invitation email features. **Modells.com** may store the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. **Modells.com** does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact **Modells.com** to request removal of their information from our database. 
+
+**3) How We Use Your Information**
+
+**Modells.com** only uses your personal information for the original purposes it was given. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
+
+**Modells.com** will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of **Modells.com** , unless required to do so by law. Further, **Modells.com** reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected.
+
+Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site. 
+
+**Modells.com** may use your personal information for targeted advertising toward you based on things such as region, gender, interests, goals, habits, etc.
+
+We may permit certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
+
+Also, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates.
+
+We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
+
+**Modells.com** may disclose Contact Information in special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions of use or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities.
+
+WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A BULLETIN BOARD, CHAT ROOM, FACEBOOK PAGE, TWITTER HANDLE, OR ANY OTHER PUBLICLY ACCESSIBLE AREA OF THE SITE. 
+
+You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information.
+
+We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
+
+**4) How We Protect Your Information**
+
+We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+**5) Third Party Advertising**
+
+Advertisements appearing on this Site may be delivered to you by **Modells.com** or one of our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the advertising partners to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. **Modells.com** does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners.
+
+This privacy statement covers the use of cookies by **Modells.com** and does not cover the use of cookies by any of its advertisers.
+
+**6) Accessing and Updating Your Personal Information and Preferences**
+
+We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account. 
+
+**7) Email Choice/Opt-out**
+
+If you no longer wish to receive updates or notifications you may opt-out of receiving these communications by changing your "email notification" settings in your "account settings/MY ACCOUNT settings." 
+
+**8) Children's Privacy and Parental Controls**
+
+We do not solicit any personal information from children under 14. If you are not 14 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
+
+**9) Disclaimer to Security**
+
+By consenting to the Terms and Conditions of the Site and hence the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
+
+**10) Notification of Changes**
+
+**Modells.com** reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
+
+**11) CONTACT INFORMATION:**
+
+If you have any questions or concerns regarding this Privacy Policy please contact:
+
+**Modells.com  
+Modell's Online, Inc.  
+Attention: Customer Service  
+498 7th Ave., 20th floor  
+New York, N.Y. 10018**
+
+Or email us by clicking **[Here.](http://www.modells.com/category/customer+service/contact+us.do) **
