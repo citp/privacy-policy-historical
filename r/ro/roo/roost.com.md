@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102064940id_/http%3A//www.roost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606074330id_/http%3A//www.roost.com/privacy.php) for the most accurate reproduction.*
 
 # Roost | Terms of Service
 
-Last updated: February 22, 2011.
+Last updated: December 15, 2011.
 
 Your privacy is very important, and we take it seriously. This Privacy Policy describes Roost's policies and procedures on the collection, use and disclosure of your information when you use the Roost Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/app/index.php/application/static?view=tos).
 
@@ -79,15 +79,15 @@ We are not responsible for the practices employed by websites linked to or from 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about our practices or this privacy policy, please contact us at privacy@Roost.com, or send mail to:
+  
 
-Roost, Inc.
 
-Attn: Privacy
+If you have any questions about our practices or this privacy policy, please contact us at privacy@verticalresponse.com, or send mail to: 
 
-OnePost St Suite 900
-
-San Francisco, CA 94104
+Roost by Vertical Response   
+Attn: Privacy   
+50 Beale St   
+San Francisco, CA 94105 
 
   
 
