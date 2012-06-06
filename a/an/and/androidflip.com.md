@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the androidflip.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216161734id_/http%3A//androidflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidflip.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607013134id_/http%3A//androidflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy of our visitors to  **androidflip.com** is important to us.  
-At  **androidflip.com** we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit androidflip.com, and how we safeguard your information. We never sell your personal information to third parties.
+The privacy of visitors to AndroidFlip.com is important.
+
+At androidflip.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit androidflip.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 ## Log Files
 
