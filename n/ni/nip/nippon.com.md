@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nippon.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207085642id_/http%3A//nippon.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nippon.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606065911id_/http%3A//nippon.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Nippon.com
 
 #### Overview
 
-As the operator of Nippon.com, the Japan Echo Foundation (“we”) may collect information from users as necessary for the operation of the services provided by the website. The information acquired is at all times handled appropriately within the scope of the purposes of use.
+As the operator of Nippon.com, the Nippon Communications Foundation (“we”) may collect information from users as necessary for the operation of the services provided by the website. The information acquired is at all times handled appropriately within the scope of the purposes of use.
 
 #### Information Acquisition and Use
 
