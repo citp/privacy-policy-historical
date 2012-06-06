@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oakwood.com privacy policy that was archived on 2011-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208034546id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oakwood.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606183630id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -50,7 +50,7 @@
     	
     	<input id="altLocationIndex" type="hidden" name="altLocationIndex" value="-1">
     	
-    	<input id="resultsPerPage" name="resultsPerPage" type="hidden" value="10">
+    	<input id="resultsPerPage" name="resultsPerPage" type="hidden" value="20">
     	<input id="sort" name="sort" type="hidden" value="avl">
 
     	
@@ -78,7 +78,7 @@
 			<div class="row">
 			 	<select id="nationSel" name="nationAbbr" class="inputfield" style="width: 160px;">
 			 		<option value="-1" selected="selected">Select Country</option>			 					 	
-           			<option value="US">United States</option><option value="AR">Argentina</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="BD">Bangladesh</option><option value="BE">Belgium</option><option value="BH">Bosnia and Herzegovina</option><option value="BR">Brazil</option><option value="CA">Canada</option><option value="CI">Chile</option><option value="CN">China</option><option value="CR">Costa Rica</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="EG">Egypt</option><option value="EU">Finland</option><option value="FR">France</option><option value="DE">Germany</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IE">Ireland</option><option value="IT">Italy</option><option value="JP">Japan</option><option value="LB">Lebanon</option><option value="LU">Luxembourg</option><option value="MY">Malaysia</option><option value="MX">Mexico</option><option value="NL">Netherlands</option><option value="NZ">New Zealand</option><option value="PA">Panama</option><option value="Pe">Peru</option><option value="PH">Philippines</option><option value="PO">Poland</option><option value="PT">Portugal</option><option value="RU">Russia</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="TW">Taiwan</option><option value="TH">Thailand</option><option value="TR">Turkey</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option>	
+           			<option value="US">United States</option><option value="AR">Argentina</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="BE">Belgium</option><option value="BH">Bosnia and Herzegovina</option><option value="BR">Brazil</option><option value="CA">Canada</option><option value="CI">Chile</option><option value="CN">China</option><option value="CR">Costa Rica</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="EG">Egypt</option><option value="EU">Finland</option><option value="FR">France</option><option value="DE">Germany</option><option value="GR">Greece</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IE">Ireland</option><option value="IT">Italy</option><option value="JP">Japan</option><option value="LB">Lebanon</option><option value="LU">Luxembourg</option><option value="MX">Mexico</option><option value="MA">Morocco</option><option value="NL">Netherlands</option><option value="PA">Panama</option><option value="Pe">Peru</option><option value="PH">Philippines</option><option value="PO">Poland</option><option value="PT">Portugal</option><option value="RU">Russia</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="TH">Thailand</option><option value="TR">Turkey</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option value="VE">Venezuela</option>	
 				</select>
 	        </div>
 	
@@ -161,7 +161,7 @@
 				</div>
 				
 				<div>
-					<input id="startDatePicker" name="startDateString" class="inputfield" style="width:155px;" readonly="readonly" type="text" value="12/09/2011">
+					<input id="startDatePicker" name="startDateString" class="inputfield" style="width:155px;" onchange="setDefaultEndDate();" readonly="readonly" type="text" value="06/07/2012">
 				</div>
 				
 			 </div>
@@ -176,7 +176,7 @@
 					</div>
 					
 					<div>
-	  			    	<input id="endDatePicker" name="endDateString" class="inputfield" style="width:155px;" readonly="readonly" type="text" value="01/07/2012">
+	  			    	<input id="endDatePicker" name="endDateString" class="inputfield" style="width:155px;" readonly="readonly" type="text" value="07/06/2012">
 	  			    </div>		
 			 </div>
 			 
@@ -268,8 +268,8 @@
 		});
 		
 		$( "#endDatePicker" ).datepicker({
-			numberOfMonths: 1,
-			minDate: +30
+			numberOfMonths: 1
+	//		minDate: +30
 		});
 	});
 
@@ -296,9 +296,9 @@
                 |
               <a href="http://www.oakwood.com/cms/careers-1.html">Careers</a>
                 |
-              <a href="https://portal.oakwood.com/c/portal/layout?p_l_id=1&amp;userType=client">Client Login</a>
+              <a id="clientLogin" href="https://portal.oakwood.com/c/portal/forward_last?userType=client">Client Login</a>
                 |
-              <a href="https://portal.oakwood.com/c/portal/layout?p_l_id=1&amp;userType=resident">Resident Login</a>
+              <a id="residentLogin" href="https://portal.oakwood.com/c/portal/forward_last?userType=resident">Resident Login</a>
                 |
               <a href="http://www.oakwood.com/cms/contact-us-1.html">Contact Us</a>
 </div>
@@ -325,12 +325,12 @@
 <a href="http://www.oakwood.com/cms/virtual-tours.html">Virtual Tours</a>
 </li>
 <li>
-<a href="http://www.oakwood.com/cms/furnishings-list.html">Furnishings List</a>
+<a href="http://www.oakwood.com/cms/furnished-rentals.html">Furnished Rentals</a>
 </li>
 </ul>
 </li>
 <li>
-<a href="http://www.oakwood.com/cms/apartments.html">Apartments</a>
+<a href="http://www.oakwood.com/cms/housing-options.html">Housing Options</a>
 </li>
 <li>
 <a href="http://www.oakwood.com/cms/residences.html">Residences</a>
@@ -342,7 +342,7 @@
 <a href="http://www.oakwood.com/cms/rental-options.html">Rental Options</a>
 </li>
 <li>
-<a href="http://www.oakwood.com/cms/housekeeping-1.html">Housekeeping</a>
+<a href="http://www.oakwood.com/cms/apartment-services.html">Apartment Services</a>
 </li>
 </ul>
 </li>
@@ -595,7 +595,7 @@
 		<a href="http://www.surveymonkey.com/s/updateourwebsite">Feedback</a>
 </div>
 <div>
-          © 2004 - 2011 Oakwood Worldwide / The most trusted name in temporary housing. <small><sup>SM</sup></small>
+          © 2004 - 2012 Oakwood Worldwide / The most trusted name in temporary housing. <small><sup>SM</sup></small>
 </div>
 <div style="padding-top: 5px; padding-bottom: 5px">
 <img style="position: relative; top: 3px" src="http://images.oakwood.com/images/frontPage/icon-eho_logo.gif" height="15" border="0" alt="Equal Housing Opportunity"> Equal Housing Opportunity
@@ -636,38 +636,30 @@
 
 
 
+
 	
 
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-921744-14']);
   _gaq.push(['_trackPageview']);
-
+  
+  
+    
  
- $(".searchResultPropertyHeaderLink").click(function() {
-	 _gaq.push(['_trackEvent', 'Search Result Page', 'Prices']);
- });
- $(".SRMoreInfo").click(function() {
-	 _gaq.push(['_trackEvent', 'Search Result Page', 'More Info']);
- });
- $(".SRMorePhotos").click(function() {
-	 _gaq.push(['_trackEvent', 'Search Result Page', 'More Photos']);
- });
- $(".SRAmenities").click(function() {
-	 _gaq.push(['_trackEvent', 'Search Result Page', 'Amenities']);
- });
+ 
+ 
+  
+
 
 
  
- $(".PDGroupReservation").click(function() {
-	 _gaq.push(['_trackEvent', 'Property Profile Page', 'Group Reservation']);
+ $("#clientLogin").click(function() {
+	 _gaq.push(['_trackPageview', '/clientlogin/']);
  });
- $(".PDEmailThisPage").click(function() {
-	 _gaq.push(['_trackEvent', 'Property Profile Page', 'Email this Page']);
- });
- $(".PDPdf").click(function() {
-	 _gaq.push(['_trackEvent', 'Property Profile Page', 'Download PDF']);
+ 
+ $("#residentLogin").click(function() {
+	 _gaq.push(['_trackPageview', '/residentlogin/']);
  });
  
  
@@ -679,6 +671,40 @@
 </script>
 
 	
+
+	
+			   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://fls.doubleclick.net/activityi;src=3447646;type=count746;cat=globa822;u10=1;u1=-1;u2=;u3=;u4=;u5=true;u6=false;u7=06|07|2012;u8=07|06|2012;u9=1;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="https://fls.doubleclick.net/activityi;src=3447646;type=count746;cat=globa822;u10=1;u1=-1;u2=;u3=;u4=;u5=true;u6=false;u7=06|07|2012;u8=07|06|2012;u9=1;ord=5740293133137.844?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+<iframe src="https://fls.doubleclick.net/activityi;src=3447646;type=count746;cat=globa822;u10=1;u1=-1;u2=;u3=;u4=;u5=true;u6=false;u7=06|07|2012;u8=07|06|2012;u9=1;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+
+
+
 
 			   
 <script type="text/javascript">
