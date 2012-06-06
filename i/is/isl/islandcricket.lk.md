@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007080846id_/http%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606142243id_/http%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
