@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forlocations.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107132925id_/http%3A//www.forlocations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forlocations.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606211615id_/http%3A//www.forlocations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
