@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algozone.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010045715id_/http%3A//www.algozone.com/privacy.php%3FosCsid%3Da091e2c2b227741505728a15b82471a1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algozone.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606102424id_/http%3A//www.algozone.com/privacy.php%3FosCsid%3Dd5ab47f71dbb40bdea11616c29e0ce69) for the most accurate reproduction.*
 
 # AlgoZone privacy policy
 
