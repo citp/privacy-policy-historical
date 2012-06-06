@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the muziic.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203222251id_/http%3A//www.muziic.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muziic.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606030317id_/http%3A//www.muziic.com/privacypolicy) for the most accurate reproduction.*
 
 # Muziic - Privacy Policy
 
-**Your privacy is important to us!
+Privacy Policy
 
-* * *
-
-** Muziic stores information that we collect through cookies, log files, and clear gifs to create a "profile" of your preferences. This statistical information may be used to help Muziic provide tailored services and to improve the content of the site for you.
+Muziic stores information that we collect through cookies, log files, and clear gifs to create a "profile" of your preferences. This statistical information may be used to help Muziic provide tailored services and to improve the content of the site for you.
 
 Giving us your personal data on this site is completely optional and will require you to setup an account with a password and an email address. You may also submit additional personal information (including data on your profile and on message boards). Please remember that any information you submit becomes public information that can be viewed by others.
 
