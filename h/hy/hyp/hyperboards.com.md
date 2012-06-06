@@ -1,31 +1,66 @@
-> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110207id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606175539id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Forums - Hyperboards
 
-  * The privacy policy was last updated on May 23rd, 2009.
+Last revision: March 8, 2012
 
-**Hyperboards Privacy Policy:**  
-It is our strong belief that your personal information is your personal property and that you should be able to disclose your personal information at your own discretion. Thus, Hyperboards will only ask you to provide us with enough personal information necessary for the creator of your forum or member account. The following document is a more in-depth description of our privacy policy. 
+Hyperboards is committed to fair information practices and privacy protection. Our Privacy Policy applies to all products, services, and web sites offered by Hyperboards. Information you share helps us improve our services, and our goal is to explain, as clearly as possible, what we do with information and how you can protect your privacy. If you have any questions about our Privacy Policy, please feel free to contact us through our website.
 
+Our Privacy Policy explains:
 
-
-  1. **What information we gather:**  
-The kind of personal information the Hyperboards service will be collecting from all users will be their email address and birthday. This information is collect directly from the user (and not through the use of cookies). Users have ability to hide their email address and birthday from the public, giving the user the power of discretion.
-  2. **How we use gathered information:**  
-The collected information will not be used for marketing back to the user. The user s email is required and will only be used by the Hyperboards service for forum related material (reply notifications, password reminder, forum activation, user account activation, and Hyperboards updates, special events, and contest winners). The birthday is required in order for the forum to process each user correctly, and the user age is determined based on the date given for the birthday field. All other personal information is optional.
-  3. **For your protection:**  
-The personal information collected is not disclosed to third parties. Additionally, all required personal information may be hidden from the public.
-  4. **Server Logged Information:**  
-Whenever a user views a page located on Hyperboards, the [Apache](http://www.apache.org/) Web server automatically logs certain information about the visitor. This information includes the user's IP address, browser, and where the user came from. This is standard information collected by most web servers. This information will not be disclosed to third parties.
-  5. **Public Forums:**  
-Please keep in mind that any information you choose to disclose in forums hosted by Hyperboards becomes public information. You should exercise caution when deciding to disclose your personal information. Remember that you have the option to refrain from including personal information, and you have the option to hide all required personal information.
-  6. **IP Logging:**  
-When a user posts a message on a forum hosted by Hyperboards, their IP address is automatically logged with that post. The administrator of the forum has the ability to view IP addresses when reading the posts in the forum.
-  7. **Cookies:**  
-Hyperboards uses cookies to store usernames and passwords for users when accessing forums. When logging into a forum, users have the option to set the length in minutes until the cookie expires, or to let the cookie last indefinitly.
-  8. **Forum Monitoring:**  
-Hyperboards reserves the right to monitor any and all message forums located on our server. Our staff reserves the right to access any and all password protected boards in order to ensure the content does not violate the [user agreement](http://www.hyperboards.com/userAgreement.cgi) view the contents of those boards, as well as the right to remove forums, or sections of forums that are found in violation of aforementioned agreement.
-  9. **Modifications to our policy:**  
-Hyperboards reserves the right to update and revise this privacy policy at any time.
+  * What information we collect and why
+  * How we use collected information
+  * Your privacy options
 
 
+
+## Information we collect
+
+**Information we ask for** \- When you create or update your account, we may ask you for "personally identifying" information, such as your email address, date of birth, and gender. Any personal information we require is automatically hidden from public view and can be made public if you choose. If you purchase our products or services, you may also be asked for your address, phone number, credit card information, or other information that can be used to contact you or personally identify you.
+
+**Cookies** \- When you visit Hyperboards, we transfer and store a small data file on your computer that helps us recognize you each time you visit, allowing us to keep you logged in, measure traffic to our site, and to track how you interact with our site so we can personalize your experience. Our advertisers may also utilize cookies, and their use of the information stored on those cookies is subject to their own privacy policies.
+
+**Anonymous information** \- When you visit Hyperboards using a site-viewing client, such as a browser, we collect standard log information, such as your IP address, browser type, browser language, the type of request you made, and the date/time of the request.
+
+This site is not intended for the use of children. Hyperboards does not solicit or knowingly collect information from children under 13 years old, and will not accept registration from them.
+
+## How we use information we collect
+
+We use personally identifying information that you provide to communicate with you, process transactions, customize advertising, personalize your experience, and conduct research for internal use to improve upon our products and services.
+
+We may also use non-personally identifying information to analyze how people are using our site and its products and services. For example, using anonymous analytical data, we can see which forums get the most hits, what topics are the most popular, and using your IP address, we can determine your general location and better target advertising to users.
+
+## Information sharing
+
+Hyperboards will not share your personal information with other companies or individuals, except in the following situations:
+
+  * **In relation to products or services** \- We disclose personal information to third parties in order to improve our products, services, and advertising. For example, we share information with companies that help us process information, deliver products to you, provide customer service, serve ads, and conduct customer satisfaction surveys. Your information will not be sold or shared with third parties for their marketing purposes.
+
+  * **If we have your consent** \- We may at certain times present you with an opportunity to co-register with companies that provide special offers, products, and services of their own. Under no obligation, you may choose to opt-in and co-register with a third party, at which point we will share your personal information with them. Third party companies may have their own terms and policies that you are asked to agree to, and Hyperboards is not responsible for said third party terms, policies, or actions.
+
+  * **As is required by law** \- We will share information if we are required to by law, or if we have a good faith belief that doing so is necessary in order to (a) conform to applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) protect against harm to the rights, property or safety of Hyperboards, its users, or the public as required or permitted by law. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+
+
+
+
+## Your choices
+
+After you register, you can choose to opt-out of receiving our email newsletter. However, we reserve the right to communicate with you on matters we consider especially important or relevant to material you have requested.
+
+You can use your user dashboard to review and update the information stored in your user account.
+
+Cookies can be disabled and managed within your browser settings. However, some features and services may not function properly with cookies disabled.
+
+## Security
+
+We take appropriate security measures to protect against unauthorized access, use, modification, disclosure, or destruction of your personal information. Your personal information is stored utilizing appropriate encryption on servers with firewalls and other unauthorized access prevention technologies, and is physically located in a secure facility.
+
+Access to personal information is restricted to Hyperboards employees, staff, and agents who need to know that information to process it on our behalf.
+
+## Publicly posted information
+
+You may share information with other users throughout our site through various means, such as user profiles, forum posts, and personal messages. Anything you post is publicly available. Hyperboards does not control, and is not responsible for the use of any information or content that you have exposed to the public through your use of Hyperboards. Please use discretion when sharing personal information.
+
+## Updates of this Privacy Policy
+
+This Privacy Policy is due to change from time to time. Such changes will be posted to this page and will be effective on the date thereof, and your continued use of our site will signify your acceptance of its terms.
