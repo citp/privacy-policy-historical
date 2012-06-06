@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the boohoo.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224144651id_/http%3A//www.boohoo.com/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boohoo.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606235151id_/http%3A//www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+
 <title>Privacy Policy at boohoo.com</title>
 
 
@@ -22,6 +23,10 @@
 
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="http://boohoomedia.live.venda.com/content/ebiz/boohoo/resources/images/AppIcons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://boohoomedia.live.venda.com/content/ebiz/boohoo/resources/images/AppIcons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://boohoomedia.live.venda.com/content/ebiz/boohoo/resources/images/AppIcons/apple-touch-icon-114x114.png">
+
 <link rel="stylesheet" href="http://www.boohoo.com/content/ebiz/boohoo/resources/css/base.css" type="text/css" media="screen, projector, print">
 <link rel="stylesheet" href="http://www.boohoo.com/content/ebiz/boohoo/resources/css/layout.css" type="text/css" media="screen, projector, print">
 <link rel="stylesheet" href="http://www.boohoo.com/content/ebiz/boohoo/resources/css/content.css" type="text/css" media="screen, projector, print">
@@ -47,12 +52,15 @@
 <link rel="stylesheet" href="http://www.boohoo.com/content/ebiz/boohoo/resources/css/print.css" type="text/css" media="print">
 
 
+<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+<script type="text/javascript">
+cmSetClientID("90386111",true,"data.coremetrics.com","boohoo.com");
+</script>
 
 
 
 
-
-<script src="http://www.boohoo.com/content/ebiz/boohoo/resources/js/minified/f2616879001734e17f480fcdccf73eca.js?1324254669"></script>
+<script src="http://www.boohoo.com/content/ebiz/boohoo/resources/js/minified/9e8bbc04c0cebcaefc5a20ffd27b3519.js?1338465143"></script>
 
 <script type="text/javascript" src="http://esp2.locayta.com/zones/6a1e78fa-fbb8-431d-aa36-ae9169ae6697.js"></script>
 
@@ -88,7 +96,7 @@
 
 
 
-<script type="text/javascript" src="https://app.salecycle.com/capture/boohoo.js"></script></head>
+<script type="text/javascript" src="https://app.salecycle.com/capture/boohoo.js?v=1"></script></head>
 <body id="mainlayout-static-pages">
 
 
@@ -127,16 +135,22 @@
 
 <p class="Lwelcome welcomemsg" id="welcome">Welcome to boohoo</p>
 <venda_block label="9901,mode=value,=giftcertificates,=,operator=or">
-<div class="regionLangSwitch">
-	<ul class="sw_button">
-		<li><a href="#" rel="europe"><img border="0" alt="Shop in Euros" src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/EU-flag.jpg"></a></li>
-		<li><a href="#" rel="restofworld"><img border="0" alt="Shop in Pounds" src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/UK-flag.jpg"></a></li>
-	</ul>
+<div id="hiddenRegion" style="display:none;">restofworld</div>
+<div id="drop">
+	<div id="empty" class="upped" style="height:19px;"></div>
+	<div id="curTxt"><span>Change currency:</span></div>
+	<div rel="restofworld"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/currency_UK.jpg"><span>GBP £</span></div>
+	<div rel="europe"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/currency_EUR.jpg"><span>EUR €</span></div> 
+	<div rel="usa"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/currency_USA.jpg"><span>USD $</span></div>
+	<div rel="canada"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/currency_Canada.jpg"><span>CAD $</span></div>
+	<div rel="aus"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/currency_Australia.jpg"><span>AUD $</span></div>
+<div rel="newz"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/newzflag.jpg"><span>NZD $</span></div>
 </div>
+
 <div id="ebizurl" class="hide">http://www.boohoo.com</div>
 <script type="text/javascript">
 jQuery(function(){
-RLSwitchEnable = 1; // Disable the region selection landing lightbox by default. '1' for anable
+RLSwitchEnable = 0; // Disable the region selection landing lightbox by default. '1' for anable
 
 	if(RLSwitchEnable == 1){ // Open the region selection landing lightbox for first time
 		if(!Venda.Ebiz.CookieJar.get("firstlanding")){ 
@@ -148,14 +162,48 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
 	}
 	
 	workflow = '';	
-	jQuery(".regionLangSwitch a").click(function() { Venda.Widget.RegionLangSwitch.changeRegionLang(this);return false;});
+	jQuery("#drop div:not('#empty')").click(function() {Venda.Widget.RegionLangSwitch.changeRegionLang(this);return false;});
 });
 </script>
-</venda_block>
+<script>
+var $curRegion = jQuery('#hiddenRegion').text()
+jQuery('#drop div').each(function(index){
+	region = jQuery(this).attr('rel')
+	if ($curRegion == region){
+	jQuery('#empty').prepend(jQuery(this).html());
+	jQuery(this).remove()
+	}
+})
 
+jQuery(document).ready(function(){
+	var autoHide = function(){jQuery('#empty').trigger('click');}
+	
+	jQuery('#empty').toggle(function()
+		{jQuery('html').bind('click',autoHide)
+		 jQuery('#drop').animate({'height':'190px'},'slow')
+		 jQuery(this).removeClass()
+		 jQuery(this).addClass('downed')
+		 jQuery('#drop').css('border-top','3px solid #DE006C')},
+		function()
+		{var dropthis = jQuery(this)
+		 jQuery('html').unbind('click',autoHide)
+		 jQuery('#drop').animate({'height':'19px'},'slow',function(){
+			dropthis.removeClass()
+			dropthis.addClass('upped')		 
+		 })
+		 jQuery('#drop').css('border-top','none')}		
+		);
+	
+	jQuery("#drop div:not('#empty')").click(function(){
+		jQuery('#drop').css('opacity','0.3')
+	})	
+})
+
+</script>
+</venda_block>
 </div><div class="Lcat_headercenter">
-<!--IFRAME Tag // Tag for network 937: The Response Team // Website: boohoo.com // Page: Run of Site // Placement: Run of site (3129370) // created at: Apr 1, 2011 2:13:10 PM   -->
-<iframe width="468" height="60" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="https://secserv.adtech.de/adiframe/3.0/937/3129370/0/1/ADTECH;target=_blank;grp=[group]"><script language="javascript" src="https://secserv.adtech.de/addyn/3.0/937/3129370/0/1/ADTECH;loc=700;target=_blank;grp=[group]"></script><noscript><a href="https://secserv.adtech.de/adlink/3.0/937/3129370/0/1/ADTECH;loc=300;grp=[group]" target="_blank"><img src="https://secserv.adtech.de/adserv/3.0/937/3129370/0/1/ADTECH;loc=300;grp=[group]" border="0" width="468" height="60"></a></noscript></iframe>
+<!--IFRAME Tag // Tag for network 937: The Response Team // Website: boohoo.com // Page: Run of Site // Placement: Run of site 468 x 60 (3129370) // created at: Feb 10, 2012 4:20:30 PM   -->
+<iframe width="468" height="60" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtech.de/adiframe/3.0/937/3129370/0/1/ADTECH;target=_blank;grp=[group]"><script language="javascript" src="http://adserver.adtech.de/addyn/3.0/937/3129370/0/1/ADTECH;loc=700;target=_blank;grp=[group]"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/937/3129370/0/1/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/937/3129370/0/1/ADTECH;loc=300;grp=[group]" border="0" width="468" height="60"></a></noscript></iframe>
 <!-- End of IFRAME Tag -->
 </div><div class="Lcat_headerright"><div class="Lcat_headerbasket">
 	
@@ -329,51 +377,7 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
     <li class="cat homeicon"><a href="http://www.boohoo.com" class="home_ico">Home</a></li>
     <!-- start main menu -->
       <!-- End tab -->
-<!-- Start tab -->
-    <li class="cat first topnavnewin"><a class="topnavlink" href="http://www.boohoo.com/restofworld/sale/icat/clearance/"><span style="color: #DE006C;">Sale</span>
-      <!--[if gt IE 6]><!--></a><!--<![endif]-->
-      <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
-      <div class="submenu menufeatures">
-        <div class="onecolumn">
-          <div class="top-onecolumn">
-            <div class="sublist subone">
-              <ul>
-                 <li><a href="http://www.boohoo.com/restofworld/sale/icat/clearance/"><span style="color: #DE006C;">Sale -  Up to 75% off</span></a></li>
-		<li><a href="http://www.boohoo.com/restofworld/sale/dresses/icat/saledresses/"><span>Dresses</span></a></li>             
-		<ul class="subdress">
-				<li><a href="http://www.boohoo.com/sale/dresses/icat/saledresses/#esp_cf=pdxtstyletax&amp;esp_filter_pdxtstyletax=Skater%20Dresses"><span>Skater Dresses</span></a></li>
-				<li><a href="http://www.boohoo.com/sale/dresses/icat/saledresses/#esp_cf=pdxtstyletax&amp;esp_filter_pdxtstyletax=BodyCon%20Dresses"><span>Bodycon Dresses</span></a></li>
-				<li><a href="http://www.boohoo.com/sale/dresses/icat/saledresses/#esp_cf=pdxtstyletax&amp;esp_filter_pdxtstyletax=Shift%20Dresses"><span>Shift Dresses</span></a></li>
-			</ul>
-                <li><a href="http://www.boohoo.com/restofworld/sale/tops/icat/saletops/"><span>Tops</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/sale/knitwear/icat/saleknitwear/"><span>Knitwear</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/sale/coats+jackets/icat/salecoats/"><span>Coats &amp; Jackets</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/sale/trousers+jumpsuits/icat/saletrousers/"><span>Trousers &amp; Jumpsuits </span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/sale/jeans/icat/salejeans/"><span>Jeans</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/sale/skirts/icat/saleskirts/"><span>Skirts</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/sale/playsuits+shorts/icat/saleshorts/"><span>Shorts &amp; Playsuits</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/sale/leggings/icat/saleleggings/"><span>Leggings</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/sale/lingerie+swimwear/icat/salelingerie/"><span>Lingerie &amp; Swimwear</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/sale/footwear/icat/salefootwear/"><span>Footwear</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/sale/accessories/icat/saleaccessories/"><span>Accessories</span></a></li>
-				</ul><ul>
-				<li><a href="http://www.boohoo.com/restofworld/pound-offers/ps5+under/icat/5poundsandunder/#esp_cf=m_offertext&amp;esp_filter_m_offertext=Clearance"><span style="color: #DE006C;">£5 &amp; Under</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/pound-offers/ps10+under/icat/10poundsandunder/#esp_cf=m_offertext&amp;esp_filter_m_offertext=Clearance"><span style="color: #DE006C;">£10 &amp; Under</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/pound-offers/ps20+under/icat/20poundsandunder/#esp_cf=m_offertext&amp;esp_filter_m_offertext=Clearance"><span style="color: #DE006C;">£20 &amp; Under</span></a></li>
 
-</ul><ul>
-<li><a href="http://www.boohoo.com/restofworld/teens/sale/icat/teens-sale/"><span>Teens Sale - up to 75% off</span></a></li>
-
-
-
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-    </li>
-    <!-- End Tab -->
 <!-- Start tab -->
     <li class="cat first topnavnewin"><a class="topnavlink" href="http://www.boohoo.com/restofworld/clothing/new-in/icat/newin/">New in
       <!--[if gt IE 6]><!--></a><!--<![endif]-->
@@ -384,142 +388,98 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
             <div class="sublist subone">
               <ul>
                 <li class="navHeading">New In</li>
-                <li><a href="http://www.boohoo.com/restofworld/clothing/new-in/icat/newin/"><span>Clothing</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/footwear/new-in-footwear/icat/newinfootwear/"><span>Footwear</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/accessories/new-in-accessories/icat/newinaccessories/"><span>Accessories</span></a></li>
-                <li><a href="http://www.boohoo.com/teens/new-in/icat/teens-newin/"><span>Teens</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/clothing/new-in/icat/newin/"><span>Womens Clothing</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/footwear/new-in-footwear/icat/newinfootwear/"><span>Womens Footwear</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/accessories/new-in-accessories/icat/newinaccessories/"><span>Womens Accessories</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/mens-clothing/new-in/icat/mens-new-in/"><span>Mens Clothing</span></a></li>
 
               </ul>
 <ul>
 <li class="navHeading">Our Newest Collection</li>
-<li><a href="http://www.boohoo.com/restofworld/collections/body-confidential/icat/body-confidential/"><span>Body Confidential</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/party-shop/icat/party-shop/"><span>Party Shop</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/christmas-tv-advert/icat/christmas-tv-advert/"><span>Boohoo TV Advert</span></a></li> </ul>             
+
+<li><a href="http://www.boohoo.com/restofworld/collections/summer-tv-advert/icat/summer-tv-advert/"><span>summer-tv-advert</span></a></li>
+
+				
+<li><a href="http://www.boohoo.com/restofworld/collections/ethnic-accents/icat/ethnic-accents/"><span>Ethnic Accents</span></a></li> 
+ 
+<li><a href="http://www.boohoo.com/restofworld/collections/festival-shop/icat/festivalshop/"><span>Festival Shop</span></a></li>
+
+ </ul>             
             </div>
           </div>
         </div>
       </div>
       <!--[if lte IE 6]></td></tr></table></a><![endif]-->
     </li>
-    <!-- End tab -->
- 
+    <!-- End tab -->	
 
-    <!-- Start tab -->
-    <li class="cat topnavclothing"><a class="topnavlink" href="http://www.boohoo.com/restofworld/clothing/icat/clothing/">Clothing
+	
+	
+	
+ <!-- Start tab -->
+    <li class="cat first topnavnewin"><a class="topnavlink" href="http://www.boohoo.com/restofworld/clothing/icat/clothing/">womens
       <!--[if gt IE 6]><!--></a><!--<![endif]-->
       <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
-      <div class="submenu menufeatures">
-        <div class="onecolumn">
-          <div class="top-onecolumn">
+      <div class="submenu menulooksfeatures">
+        <div class="twocolumn">
+          <div class="top-twocolumn">
             <div class="sublist subone">
               <ul>
-              	<li><a href="http://www.boohoo.com/restofworld/clothing/new-in/icat/newin/"><span>New in</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/clothing/dresses/icat/dresses/"><span>Dresses</span></a></li>
-				
-              	<li><a href="http://www.boohoo.com/restofworld/clothing/tops/icat/tops/"><span>Tops</span></a></li>
+                 <li><a href="http://www.boohoo.com/restofworld/clothing/new-in/icat/newin/"><span>New In</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/clothing/dresses/icat/dresses/"><span>Dresses</span></a></li> 
+				<li><a href="http://www.boohoo.com/restofworld/clothing/maxi-dresses/icat/maxidresses/"><span>Maxi Dresses</span></a></li> 
+		        <li><a href="http://www.boohoo.com/restofworld/clothing/tops/icat/tops/"><span>Tops</span></a></li>
 				<li><a href="http://www.boohoo.com/restofworld/clothing/knitwear/icat/knitwear/"><span>Knitwear</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/clothing/coats-+amp-jackets/icat/coatsandjackets/"><span>Coats &amp; Jackets</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/coats-+amp-jackets/blazers/icat/blazers/"><span>Blazers</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/clothing/trousers/icat/trousers/"><span>Trousers</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/clothing/jeans+denim/icat/jeansdenim/"><span>Jeans &amp; denim</span></a></li>
 				<li><a href="http://www.boohoo.com/restofworld/clothing/playsuits/icat/playsuits/"><span>Playsuits</span></a></li>
 				<li><a href="http://www.boohoo.com/restofworld/clothing/skirts/icat/skirts/"><span>Skirts</span></a></li>
-				
 				<li><a href="http://www.boohoo.com/restofworld/clothing/shorts/icat/shorts/"><span>Shorts</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/clothing/jumpsuits/icat/jumpsuits/"><span>Jumpsuits</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/clothing/leggings/icat/leggings/"><span>Leggings</span></a></li>                
+                <li><a href="http://www.boohoo.com/restofworld/clothing/coats-jackets/icat/coatsandjackets/"><span>Coats &amp; Jackets</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/coats-jackets/blazers/icat/blazers/"><span>Blazers</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/clothing/trousers/icat/trousers/"><span>Trousers</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/clothing/jeans+denim/icat/jeansdenim/"><span>Jeans &amp; Denim</span></a></li>
+				             <li><a href="http://www.boohoo.com/restofworld/clothing/jumpsuits/icat/jumpsuits/"><span>Jumpsuits</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/clothing/leggings/icat/leggings/"><span>Leggings</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/clothing/swimwear/icat/swimwear/"><span>Swimwear</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/clothing/onesies/icat/onesies/"><span>Onesies</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/smaller-sizes/icat/smaller-sizes/"><span>Smaller Sizes 4 &amp; 6</span></a></li>
+				</ul>
+            </div>
+			<div class="sublist subtwo">
+              <ul><li class="navHeading">Shops</li>
+<li><a href="http://www.boohoo.com/restofworld/collections/best-of-british/icat/bestofbritish/"><span>Best Of British</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/festival-shop/icat/festivalshop/"><span>Festival Shop</span></a></li>				
+<li><a href="http://www.boohoo.com/restofworld/collections/holiday-shop/icat/holidayshop/"><span>Holiday Shop</span></a></li>
+
+<li><a href="http://www.boohoo.com/restofworld/collections/dress-shop/icat/dress-shop/"><span>Dress Shop</span></a></li>
+
+<li><a href="http://www.boohoo.com/restofworld/collections/going-out-shop/icat/womens-going-out/"><span>Going Out Shop</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/clothing/jersey-basics/icat/jersey/"><span>Jersey Basics</span></a></li> 
+				<li><a href="http://www.boohoo.com/restofworld/collections/the-working-wardrobe/icat/theworkingwardrobe/"><span>Work Shop</span></a></li> 
+				<li><a href="http://www.boohoo.com/restofworld/clothing/last-chance-to-buy/icat/last-chance-to-buy/"><span>Last Chance to Buy</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/clothing/back-in-stock/icat/back-in-stock/"><span>Back in Stock</span></a></li>			
 				
-                
-                <li><a href="http://www.boohoo.com/restofworld/clothing/jersey-basics/icat/jersey/"><span>Jersey Basics</span></a></li>     
-<li><a href="http://www.boohoo.com/restofworld/clothing/last-chance-to-buy/icat/last-chance-to-buy/"><span>Last Chance to Buy</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/clothing/back-in-stock/icat/back-in-stock/"><span>Back in Stock</span></a></li>     
-              </ul>
-            
-</div>
-          </div>
-        </div>
-      </div>
-      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-    </li>
-    <!-- End Tab -->
-    
-    <!-- Start tab -->
-    <li class="cat topnavcollections"><a class="topnavlink" href="http://www.boohoo.com/restofworld/collections/icat/collections_titlepage/">Trends
-      <!--[if gt IE 6]><!--></a><!--<![endif]-->
-      <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
-      <div class="submenu menufeatures">
-        <div class="onecolumn">
-          <div class="top-onecolumn">
-            <div class="sublist subone">
-              <ul>
-                <li class="navHeading">Trend Alert</li>
-<li><a href="http://www.boohoo.com/restofworld/collections/body-confidential/icat/body-confidential/"><span>Body Confidential</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/sheer-romance/icat/sheer-romance/"><span>Sheer Romance</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/tough-glamour/icat/tough-glamour/"><span>Tough Glamour</span></a></li>                
-<li><a href="http://www.boohoo.com/restofworld/collections/boy-meets-girl/icat/boy-meets-girl/"><span>Boy Meets Girl</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/-vintage-jewel/icat/vintage-jewel/"><span>Vintage Jewel</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/the-midnight-hour/icat/themidnighthour/"><span>The Midnight Hour</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/animal-instinct/icat/animalinstinct/"><span>Animal Instinct</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/off-duty/icat/off-duty/"><span>Off Duty</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/the-working-wardrobe/icat/theworkingwardrobe/"><span>Work Shop</span></a></li>
-</ul><ul><li class="navHeading">Get the Look</li>
-<li><a href="http://www.boohoo.com/restofworld/features/celeb-style-steal/icat/celeb_stylesteal/"><span>Celeb Style Steal</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/features/pleather/icat/pleather/"><span>Pleather</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/features/trend-spot-on/icat/trend-spot-on/"><span>Spot on</span></a></li>	
-<li><a href="http://www.boohoo.com/restofworld/features/ladylike_chic/icat/ladylike_chic/"><span>Ladylike</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/features/autumn_blockparty/icat/autumn_blockparty/"><span>Autumn block party</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/features/new-season-trousers/icat/new_season_trousers/"><span>AW trousers</span></a></li>
-               
-              </ul>
-<ul>
-                <li class="navHeading">See it buy it</li>               
-<li><a href="http://www.boohoo.com/restofworld/collections/christmas-tv-advert/icat/christmas-tv-advert/"><span>Christmas TV Ad</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/features/shop-the-billboard/icat/shopthebillboard/"><span>Billboard</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/features/press-ads/icat/pressads/"><span>Magazine ads</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/in-the-press/icat/inthepress/"><span>Features in the press</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/christmas-magazine/icat/christmas-magazine/"><span>Stylefix</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/boohoo-tv/page/boohootv/"><span>boohoo TV</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/my-wardrobe/page/mywardrobe/"><span>Changing room</span></a></li>
-                
-              </ul>
+</ul><ul>
+				<li><a href="http://www.boohoo.com/restofworld/footwear/icat/footwear/"><span>Footwear</span></a></li> 
+			<li><a href="http://www.boohoo.com/restofworld/accessories/icat/accessories/"><span>Accessories</span></a></li> 
+
+</ul>
+
+<ul><li><a href="http://www.boohoo.com/bin/venda?ex=co_wizr-giftcertificates&amp;bsref=boohoo"><span>Gift Certificates</span></a></li> 
+</ul>
+
+
+
             </div>
           </div>
         </div>
+		
       </div>
       <!--[if lte IE 6]></td></tr></table></a><![endif]-->
     </li>
     <!-- End Tab -->
 
-   <!-- Start tab -->
-    <li class="cat topnavcollections"><a class="topnavlink" href="http://www.boohoo.com/restofworld/features/christmas-shop/icat/christmas_shop/">Christmas
-      <!--[if gt IE 6]><!--></a><!--<![endif]-->
-      <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
-      <div class="submenu menufeatures">
-        <div class="onecolumn">
-          <div class="top-onecolumn">
-            <div class="sublist subone">
-              <ul>
-<li><a href="http://www.boohoo.com/restofworld/features/christmas-shop/icat/christmas_shop/"><span>Boohoo Christmas</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/party-shop/icat/party-shop/"><span>Party Shop</span></a></li>
-
-
-<li><a href="http://www.boohoo.com/restofworld/footwear/party-footwear/icat/party-footwear/"><span>Party Shoes</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/accessories/party-accessories/icat/party-accessories/"><span>Party Accessories</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/accessories/gifts/icat/giftfinder/"><span>Gifts &amp; Stocking Fillers</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/christmas-casuals/icat/christmas-casuals/"><span>Christmas Casuals</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/christmas-tv-advert/icat/christmas-tv-advert/"><span>Christmas TV Ad</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/collections/christmas-magazine/icat/christmas-magazine/"><span>Christmas Stylefix</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-    </li>
-    <!-- End Tab -->
-    
     <!-- Start tab -->
-    <li class="cat topnavfootwear"><a class="topnavlink" href="http://www.boohoo.com/restofworld/footwear/icat/footwear/">Footwear
+    <li class="cat topnavnewin"><a class="topnavlink" href="http://www.boohoo.com/restofworld/footwear/icat/footwear/">Footwear
       <!--[if gt IE 6]><!--></a><!--<![endif]-->
       <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
       <div class="submenu menufeatures">
@@ -528,13 +488,12 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
             <div class="sublist subone">
               <ul>
                <li><a href="http://www.boohoo.com/restofworld/footwear/new-in-footwear/icat/newinfootwear/"><span>New in</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/footwear/boots/icat/boots/"><span>Boots</span></a></li>
-               <li><a href="http://www.boohoo.com/restofworld/footwear/high-heels/icat/highheels/"><span>High heels</span></a></li> 
+<li><a href="http://www.boohoo.com/restofworld/footwear/high-heels/icat/highheels/"><span>High heels</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/footwear/flats/icat/pumps/"><span>Flats</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/footwear/gladiators/icat/gladiators/"><span>Gladiators</span></a></li>
 <li><a href="http://www.boohoo.com/restofworld/footwear/wedges/icat/wedges/"><span>Wedges</span></a></li>
-               <li><a href="http://www.boohoo.com/restofworld/footwear/flats/icat/pumps/"><span>Flats</span></a></li>
+			   <li><a href="http://www.boohoo.com/restofworld/footwear/boots/icat/boots/"><span>Boots</span></a></li>
 <li><a href="http://www.boohoo.com/restofworld/footwear/wellies/icat/wellies/"><span>Wellies</span></a></li>			    
-			   
-			   <li><a href="http://www.boohoo.com/restofworld/footwear/gladiators/icat/gladiators/"><span>Gladiators</span></a></li>
 <li><a href="http://www.boohoo.com/restofworld/footwear/last-chance-footwear/icat/last-chance-footwear/"><span>Last Chance to Buy</span></a></li>
                       
               </ul>
@@ -545,9 +504,10 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
       <!--[if lte IE 6]></td></tr></table></a><![endif]-->
     </li>
     <!-- End Tab -->
+    
     <!-- Start tab -->
 
-    <li class="cat topnavaccessories"><a class="topnavlink" href="http://www.boohoo.com/restofworld/accessories/icat/accessories/">Accessories
+    <li class="cat topnavnewin"><a class="topnavlink" href="http://www.boohoo.com/restofworld/accessories/icat/accessories/">Accessories
       <!--[if gt IE 6]><!--></a><!--<![endif]-->
       <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
       <div class="submenu menufeatures">
@@ -559,10 +519,14 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
                 <li><a href="http://www.boohoo.com/restofworld/accessories/bags/icat/bags/"><span>Bags</span></a></li>
                 <li><a href="http://www.boohoo.com/restofworld/accessories/belts/icat/belts/"><span>Belts</span></a></li>
                 <li><a href="http://www.boohoo.com/restofworld/accessories/jewellery/icat/jewellery/"><span>Jewellery</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/accessories/scarves+hats/icat/scarveshats/"><span>Scarves, Hats &amp; Gloves</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/accessories/hosierytights/icat/hosiery/"><span>Hosiery &amp; Tights</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/accessories/sunglasses/icat/sunglasses/"><span>sunglasses</span></a></li>
+                
+ <li><a href="http://www.boohoo.com/restofworld/accessories/scarves+hats/icat/scarveshats/"><span>Scarves, Hats &amp; Gloves</span></a></li><li><a href="http://www.boohoo.com/restofworld/accessories/hosierytights/icat/hosiery/"><span>Hosiery &amp; Tights</span></a></li>
+                
                 <li><a href="http://www.boohoo.com/restofworld/accessories/hair-accessories/icat/hairaccessories/"><span>Hair accessories</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/accessories/gifts/icat/giftfinder/"><span>Gifts &amp; Stocking Fillers</span></a></li>
+				
+                <li><a href="http://www.boohoo.com/restofworld/accessories/gifts/icat/giftfinder/"><span>Gifts</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/accessories/beauty/icat/beauty/"><span>Beauty</span></a></li>
 <li><a href="http://www.boohoo.com/restofworld/accessories/last-chance-accessories/icat/last-chance-accessories/"><span>Last Chance To Buy</span></a></li>
               </ul>
             </div>
@@ -572,29 +536,134 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
       <!--[if lte IE 6]></td></tr></table></a><![endif]-->
     </li>
     <!-- End Tab -->
+    
     <!-- Start tab -->
-    <li class="cat topnavboohoosister"><a class="topnavlink" href="http://www.boohoo.com/restofworld/teens/icat/boohoosister/">Teens
+    <li class="cat topnavmens-clothing"><a class="topnavlinkM" href="http://www.boohoo.com/restofworld/mens-clothing/icat/mens-clothing/"><img id="topM" src="/content/ebiz/boohoo/resources/images/NEW_MENS.png" width="26px" height="15px" alt="new" style="left: 20px;
+    position: relative;"><img id="botM" src="/content/ebiz/boohoo/resources/images/new_blk.png" width="26px" height="15px" alt="new" style="display:none;left: 20px;
+    position: relative;">mens
       <!--[if gt IE 6]><!--></a><!--<![endif]-->
       <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
-      <div class="submenu menufeatures">
+      <div class="submenu submenuM menufeatures">
         <div class="onecolumn">
           <div class="top-onecolumn">
             <div class="sublist subone">
               <ul>
-                <li><a href="http://www.boohoo.com/restofworld/teens/new-in/icat/teens-newin/"><span>New in</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/teens/dresses/icat/teens-dresses/"><span>Dresses</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/teens/tops/icat/teens-tops/"><span>Tops</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/teens/coats+jackets/icat/teens-coats-jackets/"><span>Coats &amp; Jackets</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/teens/knitwear/icat/teens-knitwear/"><span>Knitwear</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/teens/jumpsuits+trousers/icat/teens-jumpsuits-trousers/"><span>Jumpsuits &amp; Trousers</span></a></li>
+               <li><a href="http://www.boohoo.com/restofworld/mens-clothing/new-in/icat/mens-new-in/"><span>New in</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/mens-clothing/t-shirts+vests/icat/mens-tshirts-vests/"><span>T-shirts &amp; Vests</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/mens-clothing/jumpers+cardigans/icat/mens-jumpers-cardigans/"><span>Jumpers &amp; Cardigans</span></a></li>
+               <li><a href="http://www.boohoo.com/restofworld/mens-clothing/coats+jackets/icat/mens-coats-jackets/"><span>Coats &amp; Jackets</span></a></li> 
+<li><a href="http://www.boohoo.com/restofworld/mens-clothing/shirts/icat/mens-shirts/"><span>Shirts</span></a></li>
+               <li><a href="http://www.boohoo.com/restofworld/mens-clothing/shorts/icat/mens-shorts/"><span>Shorts</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/mens-clothing/trousers/icat/mens-trousers/"><span>Trousers</span></a></li>			    
+<li><a href="http://www.boohoo.com/restofworld/mens-clothing/jeans/icat/mens-jeans/"><span>Jeans</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/mens-clothing/swimwear/icat/mens-swimwear/"><span>Swimwear</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/footwear/icat/mens-footwear/"><span>Footwear</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/accessories/icat/mens-accessories/"><span>Accessories</span></a></li>
+</ul><ul>
+<li><a href="http://www.boohoo.com/restofworld/sale/icat/mens-sale/"><span class="redMM">Clearance</span></a></li>
+</ul><ul>
+<li class="navHeading"><span>Shops</span></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/going-out-shop/icat/mens-going-out/"><span>Going Out Shop</span></a></li>  
+<li><a href="http://www.boohoo.com/restofworld/collections/holiday-shop/icat/mens-holiday-shop/"><span>Holiday Shop</span></a></li>    
+</ul>
+
+<ul><li><a href="http://www.boohoo.com/bin/venda?ex=co_wizr-giftcertificates&amp;bsref=boohoo"><span>Gift Certificates</span></a></li> 
+</ul>
+
+<ul> 
+<li class="navHeading"><span>Get the Look</span></li>    
+<li><a href="http://www.boohoo.com/restofworld/features/leading-men/icat/leading-men/"><span>Leading Men</span></a></li>      
+<li><a href="http://www.boohoo.com/restofworld/features/his-hers/icat/his-hers/"><span>His &amp; Hers</span></a></li>            
+              </ul>
+			  <ul> 
+<li class="navHeading"><span>Style Report</span></li>    
+<li><a href="http://www.boohoo.com/restofworld/features/style_aztec/icat/style_aztec/"><span>Aztec</span></a></li>      
+<li><a href="http://www.boohoo.com/restofworld/icat/shipwrecked/"><span>Shipwrecked</span></a></li>            
+              </ul>
+             </div>
+          </div>
+        </div>
+      </div>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+    <!-- End Tab -->
+    <!-- Start tab -->
+    <li class="cat topnavcollections"><a class="topnavlink" href="http://www.boohoo.com/restofworld/collections/icat/collections_titlepage/">Trends
+      <!--[if gt IE 6]><!--></a><!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
+      <div class="submenu menulooksfeatures">
+        <div class="twocolumn">
+          <div class="top-twocolumn">
+            <div class="sublist subone">
+              <ul>
+                <li class="navHeading">Collections</li>
 				
-				<li><a href="http://www.boohoo.com/restofworld/teens/skirts/icat/teens-skirts/"><span>Skirts</span></a></li>
-<li><a href="http://www.boohoo.com/restofworld/teens/playsuits+shorts/icat/teens-playsuits-shorts/"><span>Playsuits and shorts</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/teens/shoes/icat/teens-shoes/"><span>Shoes</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/teens/accessories/icat/teens-accessories/"><span>Accessories</span></a></li>
-                <li><a href="http://www.boohoo.com/restofworld/teens/sale/icat/teens-sale/"><span>Teens Sale - up to 75% off</span></a></li>
-				<li><a href="http://www.boohoo.com/restofworld/features/9-14-years-looks/icat/9-14yearslooks/"><span>Teens - Get the Look</span></a></li>
-				
+				<li><a href="http://www.boohoo.com/restofworld/collections/ethnic-accents/icat/ethnic-accents/"><span>Ethnic Accents</span></a></li>  
+				<li><a href="http://www.boohoo.com/restofworld/collections/sundae-girl/icat/sundae-girl/"><span>Sundae Girl</span></a></li>  
+				<li><a href="http://www.boohoo.com/restofworld/collections/garden-party/icat/garden-party/"><span>Garden Party</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/aztec/icat/aztec/"><span>Aztec</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/totally-tropical/icat/totally-tropical-trend/"><span>Totally Tropical</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/humbug/icat/humbug/"><span>Humbug</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/hello-sunshine/icat/hello-sunshine/"><span>Hello Sunshine</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/dress-to-impress/icat/dress-to-impress/"><span>Dress To Impress</span></a></li>
+
+             
+</ul><ul>
+<li class="navHeading">Shops</li>
+ 
+<li><a href="http://www.boohoo.com/restofworld/collections/best-of-british/icat/bestofbritish/"><span>Best Of British</span></a></li>
+ <li><a href="http://www.boohoo.com/restofworld/collections/summer-tv-advert/icat/summer-tv-advert/"><span>summer-tv-advert</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/festival-shop/icat/festivalshop/"><span>Festival Shop</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/holiday-shop/icat/holidayshop/"><span>Holiday Shop</span></a></li>
+
+<li><a href="http://www.boohoo.com/restofworld/collections/dress-shop/icat/dress-shop/"><span>Dress Shop</span></a></li>
+
+
+<li><a href="http://www.boohoo.com/restofworld/collections/going-out-shop/icat/womens-going-out/"><span>Going Out Shop</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/the-working-wardrobe/icat/theworkingwardrobe/"><span>Work Shop</span></a></li>
+</ul><ul>
+<li class="navHeading">Get the Look</li>
+<li><a href="http://www.boohoo.com/restofworld/features/his-hers/icat/his-hers/"><span>Celeb His &amp; Hers</span></a></li>   
+<li><a href="http://www.boohoo.com/restofworld/features/celeb-style-steal/icat/celeb_stylesteal/"><span>Celeb Star Style Steal</span></a></li>
+</ul>
+</div>
+			<div class="sublist subtwo">
+<ul>
+<li class="navHeading">Catwalk to Closet</li>
+
+<li><a href="http://www.boohoo.com/restofworld/features/co-ordinates/icat/co-ordinates/"><span>Co-ordinates</span></a></li>
+
+<li><a href="http://www.boohoo.com/restofworld/features/candycoated/icat/candycoated/"><span>Candy Coated</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/trend_wildside/icat/trend_wildside/"><span>Wild Side</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/trend_scarfprints/icat/trend_scarfprints/"><span>Scarf Prints</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/totally-tropical/icat/totally-tropical/"><span>Totally Tropical</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/aztec-prints/icat/aztec-prints/"><span>Aztec</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/trend-humbug/icat/trend-humbug/"><span>Humbug</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/minitrend-peplum/icat/minitrend-peplum/"><span>Peplum</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/florals/icat/florals/"><span>Florals</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/neon-brights/icat/neon-brights/"><span>Neon Flash</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/icat/minitrend-shorts/"><span>Short Story</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/minitrend-denim/icat/minitrend-denim/"><span>denim</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/top-of-the-crops/icat/top-of-the-crops/"><span>Top of the Crops</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/features/printed-trousers/icat/printed-trousers/"><span>Printed Trousers</span></a></li>
+
+<li><a href="http://www.boohoo.com/restofworld/features/minitrend-mixi/icat/minitrend-mixi/"><span>Mixi</span></a></li>            
+  
+              </ul>
+<ul>
+                <li class="navHeading">See it buy it</li>               
+ 
+ 
+<li><a href="http://www.boohoo.com/restofworld/icat/lookhsfashionweek/"><span>Look High Street Fashion Week</span></a></li>
+
+
+<li><a href="http://www.boohoo.com/restofworld/features/press-ads/icat/pressads/"><span>Magazine ads</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/in-the-press/icat/inthepress/"><span>Features in the press</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/collections/spring-summer-magazine/icat/spring-summer-magazine/"><span>Stylefix</span></a></li>
+
+<li><a href="http://www.boohoo.com/restofworld/boohoo-tv/page/boohootv/"><span>boohoo TV</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/my-wardrobe/page/mywardrobe/"><span>Style Closet</span></a></li>
+                
               </ul>
             </div>
           </div>
@@ -602,7 +671,76 @@ RLSwitchEnable = 1; // Disable the region selection landing lightbox by default.
       </div>
       <!--[if lte IE 6]></td></tr></table></a><![endif]-->
     </li>
-  </ul>
+    <!-- End Tab -->
+    <!-- Start tab -->
+    <li class="cat topnavholidayshop"><a class="topnavlink" href="http://www.boohoo.com/restofworld/collections/holiday-shop/icat/holidayshop/">HOLIDAY SHOP
+      <!--[if gt IE 6]><!--></a><!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
+      <div class="submenu menufeatures">
+        <div class="onecolumn">
+          <div class="top-onecolumn">
+            <div class="sublist subone">
+              <ul>
+                <li><a href="http://www.boohoo.com/restofworld/collections/holiday-shop/icat/holidayshop/"><span>Holiday Shop</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/holiday-shop/holiday-days/icat/holiday-days/"><span>Holiday Days</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/holiday-shop/holiday-nights/icat/holiday-nights/"><span>Holiday Nights</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/holiday-shop/holiday-maxis/icat/holiday-maxis/"><span>Maxis</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/holiday-shop/holiday-swimwear/icat/holiday-swimwear/"><span>Swimwear</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/holiday-shop/holiday-shoes+accessories/icat/holiday-shoes-accessories/"><span>Shoes, Bags &amp; Accessories</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/collections/holiday-shop/icat/mens-holiday-shop/"><span>Mens Holiday Shop</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+    <!-- End Tab -->
+	<!-- Start tab -->
+    <li class="cat first topnavnewin"><a class="topnavlink colHover" style="color:#DE006C;" href="http://www.boohoo.com/restofworld/sale/icat/clearance/">Clearance
+      <!--[if gt IE 6]><!--></a><!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><iframe class="one" src="/page/blankfortopmenu" style="-moz-opacity: .20;filter: alpha(opacity=20);"></iframe><![endif]-->
+      <div class="submenu menufeatures">
+        <div class="onecolumn">
+          <div class="top-onecolumn">
+            <div class="sublist subone">
+              <ul>
+                 <li><a href="http://www.boohoo.com/restofworld/sale/icat/clearance/"><span class="pinkMM">Clearance</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/sale/spring-summer/icat/sale-spring-summer/"><span>Spring Summer</span></a></li>
+<li><a href="http://www.boohoo.com/restofworld/sale/autumn-winter/icat/sale-autumn-winter/"><span>Autumn Winter</span></a></li>                      
+		<li><a href="http://www.boohoo.com/restofworld/sale/dresses/icat/saledresses/"><span>Dresses</span></a></li>             
+		                <li><a href="http://www.boohoo.com/restofworld/sale/tops/icat/saletops/"><span>Tops</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/sale/knitwear/icat/saleknitwear/"><span>Knitwear</span></a></li>
+                
+				<li><a href="http://www.boohoo.com/restofworld/sale/playsuits+shorts/icat/saleshorts/"><span>Shorts &amp; Playsuits</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/sale/skirts/icat/saleskirts/"><span>Skirts</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/sale/coats+jackets/icat/salecoats/"><span>Coats &amp; Jackets</span></a></li>
+				<li><a href="http://www.boohoo.com/sale/trousers+jumpsuits/icat/saletrousers/#esp_cf=pdxtcat&amp;esp_filter_pdxtcat=Trousers"><span>Trousers</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/sale/jeans/icat/salejeans/"><span>Jeans</span></a></li>
+				<li><a href="http://www.boohoo.com/sale/trousers+jumpsuits/icat/saletrousers/#esp_cf=pdxtcat&amp;esp_filter_pdxtcat=Jumpsuits"><span>Jumpsuits</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/sale/leggings/icat/saleleggings/"><span>Leggings</span></a></li>
+                <li><a href="http://www.boohoo.com/restofworld/sale/lingerie+swimwear/icat/salelingerie/"><span>Lingerie &amp; Swimwear</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/sale/footwear/icat/salefootwear/"><span>Footwear</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/sale/accessories/icat/saleaccessories/"><span>Accessories</span></a></li>
+				</ul><ul>
+<li><a href="http://www.boohoo.com/restofworld/sale/icat/mens-sale/"><span>Mens Clearance</span></a></li>
+</ul><ul>
+				<li><a href="http://www.boohoo.com/restofworld/teens/sale/icat/teens-sale/"><span>Teens Clearance</span></a></li>
+				</ul><ul>
+				<li><a href="http://www.boohoo.com/restofworld/pound-offers/ps5+under/icat/5poundsandunder/#esp_cf=m_offertext&amp;esp_filter_m_offertext=Clearance"><span class="pinkMM">£5 &amp; Under</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/pound-offers/ps10+under/icat/10poundsandunder/#esp_cf=m_offertext&amp;esp_filter_m_offertext=Clearance"><span class="pinkMM">£10 &amp; Under</span></a></li>
+				<li><a href="http://www.boohoo.com/restofworld/pound-offers/ps20+under/icat/20poundsandunder/#esp_cf=m_offertext&amp;esp_filter_m_offertext=Clearance"><span class="pinkMM">£20 &amp; Under</span></a></li>
+
+</ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+    <!-- End Tab -->
+	
+</ul>
 <script type="text/javascript">
 function changeImage(imgName,srcObj){
 	srcObj.src = imgName;
@@ -610,6 +748,8 @@ function changeImage(imgName,srcObj){
 </script>
  <style>
 #mainmenu li.cat .submenu li a:hover{color: #ffffff;}
+#mainmenu li.cat .submenu li a:hover span{color: #ffffff;}
+#mainmenu li.cat .submenuM li a:hover span{color: #000 !important;}
 </style>
 </div>
 <script type="text/javascript">
@@ -626,28 +766,34 @@ for (var i=0; i<getEls.length; i++) {
 <!-- start content-static-pages -->
 <div id="content-static-pages">
 <div id="middle-static-pages">
-<p class="Lcattree categorytree"><a href="/" class="treehome">Home</a>&nbsp;&gt;&nbsp;<a href="http://www.boohoo.com/restofworld/privacy-policy/pcat/privacy/" class="menuFontNonSelected">Privacy Policy</a></p>
-<input type="hidden" name="categorytree" id="categorytree" value="shop|privacy|||">
+<div class="notranslate"><p class="Lcattree categorytree"><a href="/" class="treehome">Home</a>&nbsp;&gt;&nbsp;<a href="http://www.boohoo.com/restofworld/privacy-policy/pcat/privacy/" class="menuFontNonSelected">Privacy Policy</a></p>
+<input type="hidden" name="categorytree" id="categorytree" value="shop|privacy|||"></div>
 	<!-- start content -->
 	<div id="col-two-three" class="eq-layo">
 		<a name="content" id="content"></a>
 		<div id="static_content">
 	<h1>Privacy</h1>
 	<p>We are committed to protecting and respecting the privacy of all visitors and users of this website.</p>
-	<p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only use your personal information in accordance with this privacy policy and applicable current data protection laws.</p>
-	<p>By submitting your information and using our Website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this privacy policy.<br>You should print a copy of this privacy policy for future reference.</p>
+	<p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only use your personal information in accordance with this privacy policy and applicable current data protection laws, including the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011.</p>
+	<p>This policy (together with our <a href="http://www.boohoo.com/restofworld/terms-of-use/pcat/termsofuse/">terms of use</a>, <a href="http://www.boohoo.com/restofworld/about-cookie/page/aboutcookie/">Cookie Policy</a> and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+	<p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Wasabi Frog Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Steve Kuncewicz, who can be contacted at steve.kuncewicz@boohoo.com.</p>
+	<p>By submitting your information and using our Website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this privacy policy. You should print a copy of this privacy policy for future reference.</p>	
 	<h2>What personal information do we collect?</h2>
-	<p>If you decide to make an order with us, there is certain personal information that we will require from you in order to process your order (such as your name, delivery address, credit/debit card details, e-mail address and telephone number).</p>
+	<p>If you decide to make an order with us, there is certain basic personal information that we will require from you in order to process your order (such as your name, delivery address, credit/debit card details, e-mail address and telephone number).</p>
+	<p>We may also collect the following data about you to help us improve our service to you:</p>
+	<ul class="bullet">
+		<li>Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to any service which we provide, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by a third party, and when you report a problem with our site.</li>
+		<li>If you contact us, we may keep a record of that correspondence.</li>
+		<li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+		<li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
+		<li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
+	</ul>	
 	<p>We will only pass on your personal information to third parties if it is an essential part of trading with you (i.e. passing on your name and address to our carriers, or telephone number should there be a query with delivery). We will not rent or sell your name, address, email address, credit card details or any other personal information to any unrelated third party.</p>
-	<p>From time to time we may also request further information to help us improve our service to you.<br> We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</p>
 	<h2>IP addresses and cookies </h2>
 	<p>We also use your Internet Protocol (IP) address. An IP address is a set of numbers, which is assigned to your computer during a browsing session. It is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.</p>
-	<p>Our site uses cookies to keep track of your visits to our website. A cookie is a small file that can be stored by your browser on your computer's hard drive. We use cookies to save your email address and password so that you don't have to re-enter it every time you visit our site. Cookies also help us to recognise when you visit our website and note the areas that are of interest to you. This allows us to tailor the service we provide.</p>
-	<p>Cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites.</p>
-	<p>You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</p>
-	<p>Please note that our advertisers may also use cookies, over which we have no control.</p>
+	<p>Our site uses cookies to distinguish you from other users of our site and to keep track of your visits. This helps us to provide you with the very best experience when you browse our site and to make improvements.  For detailed information on the Cookies which we use and the reasons why we use them, see our <a href="http://www.boohoo.com/restofworld/about-cookie/page/aboutcookie/">Cookie Policy</a></p>
 	<h2>Site statistics</h2>
-	<p>We monitor customer traffic on an aggregate basis using cookies and code, which is embedded, in the site. This provides statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. <span class="wasabitxt">Wasabi Frog Limited</span> uses this information to help improve the site and services to its users.</p>
+	<p>We monitor customer traffic on an aggregate basis using cookies and code, which is embedded, in the site. This provides statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. Wasabi Frog Limited uses this information to help improve the site and services to its users.</p>
 	<h2>Where we store your personal data </h2>
 	<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
 	<p>We follow strict security procedures in the storage and disclosure of personal information to prevent unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall.</p>
@@ -669,21 +815,22 @@ for (var i=0; i<getEls.length; i++) {
 		<li>notify you about changes to our service.</li>
 	</ul>
 	<h2>Marketing and Communications</h2>
-	<p>You will have the opportunity to subscribe to other areas of the site. For instance you may wish to receive our newsletter or enter competitions. In these circumstances we will ask for additional information, such as your age, occupation, style interests etc. This will help us to target our marketing in a way we feel would be of specific interest to you. We may, from time to time, send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal data to these third party companies.</p>
+	<p>You will have the opportunity to subscribe to other areas of the site. For instance you may wish to receive our newsletter or other marketing information (by E-Mail or Direct Mail) or enter competitions. In these circumstances we will ask for additional information, such as your age, occupation, style interests etc. This will help us to target our marketing in a way we feel would be of specific interest to you. We may from time to time send with your ordered products, inserts advertising the goods or services of unrelated third party companies. However, we do not pass on your personal data to these third party companies.</p>
 	<h2>Disclosure of your information</h2>
 	<p>We may disclose your personal information:</p>
-	<ul>
-		<li>1. to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985;</li>
-		<li>2. if <span class="wasabitxt">Wasabi Frog Limited</span> or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets;</li>
-		<li>3. to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;</li>
-		<li>4. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or,</li>
-		<li>5. in order to enforce or apply our <a href="page/termsofuse">terms of use</a> or <a href="page/terms">terms and conditions of supply of products</a> and other agreements; or to protect the rights, property, or safety of <span class="wasabitxt">Wasabi Frog Limited</span> our customers, or others.</li>
+	<ul class="bullet">
+		<li>To any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985; </li>
+		<li>If Wasabi Frog Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets;</li>
+		<li>to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;</li>
+		<li>if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or,</li>
+		<li>in order to enforce or apply our terms of use or terms and conditions of supply of products and other agreements; or to protect the rights, property, or safety of Wasabi Frog Limited, our customers, or others.</li>
 	</ul>
 	<p>Unless required to do so by law, we will not otherwise share, sell or distribute any of the personal information you provide to us without your consent.</p>
 	<h2>Your rights</h2>
 	
 	<h3>Opting Out</h3>
-	<p>If you no longer wish to receive marketing information from us you have the option of ‘opting out’. Clear instructions on how to opt out of each area will be detailed specifically (for instance at the bottom of our e-newsletter your will have the option ‘To unsubscribe form our emails click here’). Alternatively, please let us know in writing.</p>
+	<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. If you no longer wish to receive marketing information from us you have the option of ‘opting out’. Clear instructions on how to opt out of each area will be detailed specifically (for instance at the bottom of our e-newsletter you will have the option ‘To unsubscribe form our emails click here’). Alternatively, please let us know in writing.</p>
+	<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
 	<h3>Access to information</h3>
 	<p>You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at 49/51, Dale Street, Manchester, England, M1 2HF. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
 	<h3>Changes to our privacy policy</h3>
@@ -736,6 +883,10 @@ for (var i=0; i<getEls.length; i++) {
 		
 	</li>
 
+	<li class="navaboutcookies"><a href="http://www.boohoo.com/restofworld/about-cookies/pcat/aboutcookies/">About Cookies</a>
+		
+	</li>
+
 	<li class="navaffiliate"><a href="http://www.boohoo.com/restofworld/boohoo-affiliates/pcat/affiliate/">Boohoo Affiliates</a>
 		
 	</li>
@@ -758,27 +909,33 @@ for (var i=0; i<getEls.length; i++) {
   </div>
 </div><div class="Lgiftlink giftcertificatelink">
 
-<a href="http://www.boohoo.com/restofworld/collections/icat/collections_titlepage/" title="Inspiration " alt="Inspiration "><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/footer/footers_dec14_02.png"></a>
+<a href="http://www.boohoo.com/restofworld/collections/icat/collections_titlepage/" title="Collections" alt="Collections"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/footer/footers_March_22_02.png"></a>
   <div style="clear:both;">
   </div>
-</div><div class="Lgiftlink giftcertificatelink">
+</div>
+
+<div class="Lgiftlink giftcertificatelink">
 <img id="Image-Maps_1201109201230538" src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/footer/stayintouch_Oct12.png" usemap="#Image-Maps_1201109201230538" border="0" width="242" height="145" alt="">
 <map id="_Image-Maps_1201109201230538" name="Image-Maps_1201109201230538">
-<area shape="rect" coords="18,51,68,101" href="http://www.facebook.com/pages/boohoocom-Official-Page/112850788732826" alt="Facebook" title="Facebook" target="_blank">
+<area shape="rect" coords="18,51,68,101" href="http://www.facebook.com/BoohooOfficial" alt="Facebook" title="Facebook" target="_blank">
 <area shape="rect" coords="71,50,119,100" href="http://blog.boohoo.com" alt="blog" title="blog">
 <area shape="rect" coords="122,50,170,100" href="http://twitter.com/boohooOfficial" alt="twitter" title="twitter" target="_blank">
 <area shape="rect" coords="174,51,222,101" href="http://www.youtube.com/boohooclothing" alt="youtube" title="youtube" target="_blank">
 </map>
+
  
+
 <div class="fbFanBox">
                <div id="fb-root">
                </div>               
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/boohoocom-Official-Page/112850788732826" send="false" layout="button_count" width="450" show_faces="false" font="arial"></fb:like>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/boohoocom-Official-Page/112850788732826" send="false" layout="button_count" width="85" show_faces="false" font="arial"></fb:like>
               </div>
-        
+      
+
 
 <div style="clear:both;"></div>
-</div><div class="Lemailsignup emailsignup">
+</div>
+<div class="Lemailsignup emailsignup">
 <h4><span></span>FASHION FIX</h4>
 <form name="emailsonly1" action="https://www.boohoo.com/bin/venda" method="get" onsubmit="validateEmail(document.emailsonly1,'Please enter a valid email address'); return false;">
 <input type="hidden" name="ex" value="co_disp-view">
@@ -794,49 +951,125 @@ for (var i=0; i<getEls.length; i++) {
 	</fieldset>
 	
 </form>
-</div></div><div class="Lcat_megafooter"><style>
-
-#carriage-promo{
-margin-bottom:8px;
-margin-top:-3px;
-background:url("http://www.boohoo.com/content/ebiz/boohoo/resources/images/SALENOWON_change_stripv2.png") repeat-x scroll left bottom transparent;
-height:40px;
-
-width:100%;
-color:white;
-font-size:16px;
-padding-top:6px;
-z-index: 1001;
-}
-
-#carriage-promo span{
-font-size: 30px;
-position: relative;
-top: 18px;
+</div></div><div class="Lcat_megafooter"><div id="vDoW" style="display: none;">Thursday</div>
+<div id="vToD" style="display: none;">006</div>
+<div id="vYYYYMMDD" style="display: none;">20120607</div>
+<style type="text/css">
+#cPromoLink {
+text-decoration:none;
 }
 
 #cPromoLink:hover{
 text-decoration:none;
 }
 
+#carriage-promo{
+z-index: 1002;
+/*margin: 0px auto;
+width:964px;*/
+width: 100%;
+background-color: #E0006C;
+min-height:30px;
+text-align:center;
+color:#FFFFFF;
+font-size:24px;
+line-height: 24px;
+padding-top: 3px;
+display: none;
+}
 </style>
-<a id="cPromoLink" href="http://www.boohoo.com/restofworld/sale/icat/clearance/"><div id="carriage-promo" style="overflow:hidden;white-space:nowrap;">
-<img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/SALENOWON_change_V2_crop.png"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/SALENOWON_change_V2_crop.png"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/SALENOWON_change_V2_crop.png"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/SALENOWON_change_V2_crop.png">
-</div>
+<a id="cPromoLink" href="http://www.boohoo.com/restofworld/mens-clothing/new-in/icat/mens-new-in/">
+<div id="carriage-promo"></div>
 </a>
 
-<script>
+<script type="text/javascript">
+var vDay = jQuery('#vDoW').text();
+var vTime = jQuery('#vToD').text();
+var vTime = parseInt(vTime);
+var vYYYYMMDD = jQuery('#vYYYYMMDD').text();
+
+/* **************************************
+** THESE RULES OCCUR EVERY WEEK
+*************************************** */
+
+if ( (vDay == "Thursday" && vTime >= 1900) 
+      || (vDay == "Friday" && vTime < 1900) ) {
+       jQuery('#carriage-promo').html('<strong>UK Customers!</strong> Order Next Day Delivery before 7pm Friday and receive your Boohoo order on Saturday!');
+       jQuery('#carriage-promo').css({'display':'inline-block'}); 
+}
+
+else if ( (vDay == "Friday" && vTime >= 1900)
+          || (vDay == "Saturday")
+          ||  (vDay == "Sunday" && vTime < 1200) ) {
+       jQuery('#carriage-promo').html('<strong>UK Customers!</strong> Order Next Day Delivery until 12pm Sunday and receive your Boohoo order on Monday!');
+       jQuery('#carriage-promo').css({'display':'inline-block'});
+}
+
+
+
+/* **************************************
+** THESE RULES OCCUR ON SPECIFIC DATES 
+** AND OVERRIDE WEEKLY ONES.
+*************************************** */
+
+if ( vYYYYMMDD == '20120502') {
+     jQuery('#carriage-promo').html('Hurry, 20&#37; off menswear ends midnight tomorrow. Enter MENS20 at checkout.');
+     jQuery('#carriage-promo').css({'background-color':'#E0006C'});
+     jQuery('#carriage-promo').css({'color':'#fff'});
+     jQuery('#carriage-promo').css({'display':'inline-block'});
+}
+
+if ( vYYYYMMDD == '20120503') {
+     jQuery('#carriage-promo').html('Hurry, 20&#37; off menswear ends midnight tonight. Enter MENS20 at checkout.');
+     jQuery('#carriage-promo').css({'background-color':'#E0006C'});
+     jQuery('#carriage-promo').css({'color':'#fff'});
+     jQuery('#carriage-promo').css({'display':'inline-block'});
+}
+
+if ((vYYYYMMDD == '20120504' || vYYYYMMDD == '20120505') && jQuery("#homepage").length == 0) {
+     jQuery('#carriage-promo').html('Hurry, the 4 day boohoo sale ends midnight Monday 7th May!');
+     jQuery('#carriage-promo').css({'background-color':'#E0006C'});
+     jQuery('#carriage-promo').css({'color':'#fff'});
+     jQuery('#carriage-promo').css({'display':'inline-block'});
+}
+
+if ( vYYYYMMDD == '20120506' && jQuery("#homepage").length == 0) {
+     jQuery('#carriage-promo').html('Hurry, the 4 day boohoo sale ends midnight tomorrow!');
+     jQuery('#carriage-promo').css({'background-color':'#E0006C'});
+     jQuery('#carriage-promo').css({'color':'#fff'});
+     jQuery('#carriage-promo').css({'display':'inline-block'});
+}
+
+if ( vYYYYMMDD == '20120507' && jQuery("#homepage").length == 0) {
+     jQuery('#carriage-promo').html('Hurry, the 4 day boohoo sale ends midnight tonight!');
+     jQuery('#carriage-promo').css({'background-color':'#E0006C'});
+     jQuery('#carriage-promo').css({'color':'#fff'});
+     jQuery('#carriage-promo').css({'display':'inline-block'});
+}
+
+
 if(! navigator.userAgent.match(/Android/i) &&
  ! navigator.userAgent.match(/webOS/i) &&
  ! navigator.userAgent.match(/iPhone/i) &&
  ! navigator.userAgent.match(/iPod/i) &&
 ! navigator.userAgent.match(/iPad/i) )
  {
- jQuery('#carriage-promo').css({'position':'fixed','bottom':'0px','margin-top':'0px','margin-bottom':'-3px'});
+ jQuery('#carriage-promo').css({'position':'fixed','bottom':'0px','width':'100%'});
 }
 
+/* **************************************
+** SET THIS TO false IF YOU DON'T WANT
+** THIS ON THE HOME PAGE
+*************************************** */
+var onHomePage = false;
+
+if ( onHomePage === false && jQuery("#homepage").length > 0){
+       jQuery('#carriage-promo').css({'padding':'7px 0 5px','width':'964px','position':'relative','margin-top':'2px','font-size':'1.5em'}).prependTo('#homeboxess');
+	   //jQuery('#carriage-promo').css({'display':'none'});      
+}
 </script>
 
+<div style="clear:both;"></div>
 <div id="gradient-bottom"></div>
 <div style="clear:both;"></div>
 <div id="megaFooterContent">
@@ -850,6 +1083,8 @@ if(! navigator.userAgent.match(/Android/i) &&
       <li><a href="http://www.boohoo.com/restofworld/help/size-guide/pcat/sizechart/">Size Guide</a></li>
       <li><a href="http://www.boohoo.com/restofworld/frequently-asked-questions/frequently-asked-questions/page/faq/">FAQ's</a></li>
       <li><a href="http://www.boohoo.com/restofworld/terms+conditions/terms-and-conditions/page/terms/">T&amp;C's</a></li>
+<li><a href="http://www.boohoo.com/restofworld/privacy-policy/pcat/privacy/">Privacy Policy</a></li>
+<li><a href="http://www.boohoo.com/restofworld/about-cookies/pcat/aboutcookies/">About Cookies</a></li>
       <li><a href="http://www.boohoo.com/restofworld/contact-us/page/contact/">Contact Us</a></li>
       <li><a href="http://www.boohoo.com/restofworld/advertise-with-us/page/advertisewithus/">Advertise With Us</a></li>
      </ul>
@@ -858,10 +1093,14 @@ if(! navigator.userAgent.match(/Android/i) &&
     <h4>Connect with us</h4>
     <ul>
       <li><a href="http://www.boohoo.com/restofworld/stylefix-email/page/stylefix-email/">Boohoo Newsletter</a></li>
-      <li><a href="http://www.facebook.com/pages/boohoocom-Official-Page/112850788732826" target="_blank">Facebook</a></li>
+      
+      <li><a href="http://www.facebook.com/BoohooOfficial" target="_blank">Facebook</a></li>
 	  <li><a href="http://www.twitter.com/boohooOfficial" target="_blank">Twitter</a></li>
+	  
+	  	  
       <li><a href="http://blog.boohoo.com" target="_blank">Blog</a></li>
       <li><a href="http://boohoohelp.tumblr.com/" target="_blank">Customer Services Blog</a></li>
+<li><a href="http://twitter.com/Boohoo_cshelp" target="_blank">Customer Services Twitter</a></li>
 	  <li><a href="http://www.youtube.com/boohooclothing" target="_blank">YouTube</a></li>
       <li><a href="http://www.boohoo.com/restofworld/boohoo-affiliates/boohoo-affiliates/page/affiliate/">Become an Affiliate</a></li>
       <li><a href="http://www.boohoo.com/restofworld/careers/page/jobvacancies/">Careers at boohoo</a></li>
@@ -877,27 +1116,25 @@ if(! navigator.userAgent.match(/Android/i) &&
       <li><a href="http://www.boohoo.com/restofworld/clothing/dresses/icat/dresses/">Dresses</a></li>
       <li><a href="http://www.boohoo.com/restofworld/clothing/tops/icat/tops/">Tops</a></li>
       <li><a href="http://www.boohoo.com/restofworld/clothing/skirts/icat/skirts/">Skirts</a></li>
-      <li><a href="http://www.boohoo.com/restofworld/clothing/coats-+amp-jackets/icat/coatsandjackets/">Coats &amp; Jackets</a></li>
+      <li><a href="http://www.boohoo.com/restofworld/clothing/coats-jackets/icat/coatsandjackets/">Coats &amp; Jackets</a></li>
 	  <li><a href="http://www.boohoo.com/restofworld/clothing/knitwear/icat/knitwear/">Knitwear</a></li>
     </ul>
   </div>
   <div id="megaFooterCol4">
-	<h4>Inspiration</h4>
+	<h4>Trends</h4>
 	<ul>
-	  <li><a href="http://www.boohoo.com/restofworld/collections/icat/collections_titlepage/">Collections</a></li>
-      <li><a href="http://www.boohoo.com/restofworld/features/icat/features/">Fashion Features</a></li>
-      <li><a href="http://www.boohoo.com/restofworld/collections/icat/looks/">Look Book</a></li>
-      <li><a href="http://www.boohoo.com/bin/venda?ex=co_wizr-giftcertificates&amp;bsref=boohoo">Gift Vouchers</a></li>
-      <li><a href="http://www.boohoo.com/restofworld/my-wardrobe/page/mywardrobe/">Changing Room Tool</a></li>
-      <li><a href="http://www.boohoo.com/restofworld/boohoo-tv/page/boohootv/">Boohoo TV</a></li>
-      <li><a href="http://www.boohoo.com/restofworld/collections/christmas-magazine/icat/christmas-magazine/">Winter Magazine</a></li>
+	  <li><a href="http://www.boohoo.com/restofworld/collections/icat/collections_titlepage/">Trends</a></li>
       
+           <li><a href="http://www.boohoo.com/bin/venda?ex=co_wizr-giftcertificates&amp;bsref=boohoo">Gift Vouchers</a></li>
+      <li><a href="http://www.boohoo.com/restofworld/my-wardrobe/page/mywardrobe/">Style Closet</a></li>
+      <li><a href="http://www.boohoo.com/restofworld/boohoo-tv/page/boohootv/">Boohoo TV</a></li>
+       <li><a href="http://www.boohoo.com/restofworld/collections/spring-summer-magazine/icat/spring-summer-magazine/">Stylefix Magazine</a></li>     
 	</ul>
   </div>
   <div id="megaFooterCol5">
     <h4>Shop safely with boohoo</h4>
     <ul>
-      <p><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/footer/payment_options.png" alt="Shop safely with boohoo. " title="Shop safely with boohoo. " style="margin-bottom: 15px;">
+      <p><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/footer/trust-icons_221211.png" alt="Shop safely with boohoo. " title="Shop safely with boohoo. " style="margin-bottom: 15px;">
 
 
 </p>
@@ -910,9 +1147,12 @@ if(! navigator.userAgent.match(/Android/i) &&
   <div id="copyrightContent">
     <p>Copyright © 2011 boohoo.com. All rights reserved. See our <a href="http://www.boohoo.com/restofworld/terms-of-use/terms-of-use/page/termsofuse/">terms of use</a> and <a href="http://www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy/">privacy policy</a>.</p>
   </div>
-  <div id="hitwiseLogo">
+<img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/Lorrian_logo_footer.png" alt="Lorraine" title="Lorraine" style="margin-bottom: 15px;"> 
+ <div id="hitwiseLogo">
   <a href="#" onclick="javascript:window.open('http://www.hitwise.com/awards/popup.html?market=uk&amp;sDomain=www.boohoo.com&amp;iDate=2010&amp;iCatnum=501&amp;Cal=1&amp;semi=', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');" title="Hitwise Award Winner"><img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/footer/footer-icons/hitwise-logo.png" width="89" height="102" border="0" title="Hitwise Award Winner" alt="Loading..."></a>
   </div>
+</div>
+</div>
 </div></div><div class="Lcat_footerscripts"><script type="text/javascript">
 jQuery(document).ready(function($) {
 Cufon.replace('#categorylist-content h1', {fontFamily: 'Gill Sans Light'});
@@ -934,6 +1174,7 @@ Cufon.replace('#legendtrack', {fontFamily: 'Gill Sans Light'});
 Cufon.replace('#advertise', {fontFamily: 'Gill Sans Light'});
 Cufon.now();
 Cufon.replace('#accessoriesprod h2', {fontFamily: 'Gill Sans Light'});
+Cufon.replace('#iacctext', {fontFamily: 'Gill Sans Light'});
 <!--Cufon.replace('#accessoriesprod #accsliderlist li p.price', {fontFamily: 'Gill Sans Light'});-->
 });
 </script>
@@ -994,8 +1235,9 @@ catch (e) { }
 
 try {
 	LM.OnComplete = null;
+	//LM.Currency = "GBP";
 	LM.Currency = "GBP";
-	// track purchases
+	// track purchase
 	if (typeof purchasedItems != "undefined") {
 		for (var ii = 0; ii < purchasedItems.length; ii++) {
 			var _item = purchasedItems[ii];
@@ -1009,19 +1251,107 @@ catch (e) { }
 LM.init();
 </script>
 
+<!--coremetric tracking tags last updated 09/01/12-->
+<div id="CRTY" style="display:none;">GBP</div>
+<script>
+	//fire country tag, pontentail issue with not being in the head
+	var CRTY = jQuery('#CRTY').text();
+	cmSetupOther({"cm_currencyCode":CRTY});
+</script>
+
+
+
+
+
+
+<!--tracking newsletter registraion, on ever page-->
+
+
 
 <!--salecycle code-->
 <script type="text/javascript">
  try {var __scP=(document.location.protocol=="https:")?"https://":"http://";
 var __scS=document.createElement("script");__scS.type="text/javascript";
-__scS.src=__scP+"app.salecycle.com/capture/boohoo.js";
+__scS.src=__scP+"app.salecycle.com/capture/boohoo.js?v=1";
 document.getElementsByTagName("head")[0].appendChild(__scS);}catch(e){}
 </script>
-</div></div></div>
 
-</div>
+<script type="text/javascript" src="//www.boohoo.com/content/ebiz/boohoo/resources/js/ColourSwatchFlipper.js">
+</script>
+
+<script>
+jQuery(window).load(function(){
+var isZERO = jQuery('.pr-snippet-rating-decimal').text();    
+if(isZERO !== '0.0'){
+        jQuery('.pr-snippet-stars,.pr-snippet-review-count').show();
+	};
+});
+</script>
+
+<script>
+(function(a){LM.complete(function(){var b,c,d;d="GBP"===a("#CRTY").text()?"GBP":"nonGBP";a(".overDIV").each(function(){b=a(this);(c=a.parseJSON(b.text()))?b.html('<img src="http://www.boohoo.com/content/ebiz/boohoo/resources/images/overlays/'+c[d]+'">').show():b.html("")})})})(jQuery);
+</script></div></div>
+
+
 <!-- end wrapper -->
 <!-- Use this template to add custom site wide tracking tags for a site -->
+
+
+
+
+
+<!--coremetric tracking, last amended 09/01/12-->
+<div id="login" style="display:none;"></div>
+<div id="CRTY" style="display:none;">GBP</div>
+<script>
+var lgMAP = {G:'guest',E:'email_only',P:'partially_registered',R:'fully_registered',J:'job',A:'admin'};
+jQuery(document).ready(function(){
+	var login = jQuery('#login').text();
+	if(typeof lgMAP[login] != "undefined"){
+		login = lgMAP[login];
+	}
+	else{
+		login = 'UNL';
+	}
+	
+})
+
+var CRTY = jQuery('#CRTY').text();
+cmSetupOther({"cm_currencyCode":CRTY});
+
+</script>
+
+
+
+
+
+
+
+
+
+<div id="pageRef" style="display:none;">privacy</div>
+<script>
+jQuery(document).ready(function(){
+	var icatLEN = jQuery('.menuFontNonSelected').length;
+	var icatRef = icatLEN >= 2 ? jQuery('.menuFontNonSelected').eq(icatLEN-2).text() : 'static page'
+	//icatRef = icatRef.replace(/[^\w]/g, "").replace(/\d/g,"")
+	var pageRef = jQuery('#pageRef').text();
+	
+	//fire page view tag
+	cmCreatePageviewTag(pageRef,icatRef)
+		
+});
+</script>
+
+<!--tracking for pcat pages-->
+
+
+<!--catch all pageview tag-->
+
+ 
+
+
+
 
 
 
