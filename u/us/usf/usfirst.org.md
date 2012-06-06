@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203055343id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606164547id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # FIRST Privacy Policy and User Agreement | USFIRST.org
-
-_FIRST_ Privacy Policy and User Agreement
 
 We, at _FIRST,_ take privacy and security of personal information very seriously. This Privacy Policy discloses the privacy practices for _FIRST_ (" _FIRST_ ", "Our", "We", "Us") its web site [www.usfirst.org](https://web.archive.org/ "www.usfirst.org") and various related services (together referred to as the "Site"). 
 
