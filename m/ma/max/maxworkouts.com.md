@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095052id_/http%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606232943id_/http%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
 
 # MAX WORKOUTS: Privacy Policy
 
@@ -30,19 +30,4 @@ This Privacy Policy is subject to change without notice. Please check back often
 
 **Contacting us**
 
-In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/contact/) if you have any questions about the Privacy Policy or if you would like to provide feedback.
-
-## About The Author
-
-Shin Ohtake’s unconventional, no-nonsense approach to fitness & fat loss has made him the go-to source for fitness enthusiasts and trainers alike. His world-famous fitness program, MAX Workouts, has transformed and reshaped the bodies of thousands of people in over 100 countries - _without_ requiring hours in the gym.
-
-* * *
-
-  
-
-
-## 10 Ways To Improve Your Workouts And Get Better Results _Now_
-
-In this free report, I reveal the top 10 workout mistakes that are sabotaging your fitness goals. I'll tell you _exactly_ how to avoid these common pitfalls and show you what to do instead so you can burn more fat and increase your strength - starting with your very next workout...even if you try just a FEW of these tips, you're going to see and feel the difference right away! 
-
-Your report will be emailed to you instantly. Plus, you'll get my e-newsletter, jam-packed with expert tips on fitness, fat-loss & healthy eating - totally _free_. 
+In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/contact) if you have any questions about the Privacy Policy or if you would like to provide feedback.
