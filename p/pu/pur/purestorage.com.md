@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207201927id_/http%3A//www.purestorage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606152456id_/http%3A//www.purestorage.com/privacy) for the most accurate reproduction.*
 
 # Pure Storage | Privacy Policy
 
-Top of Page
+[Evaluate Pure Storage](https://web.archive.org/resources/evaluate.html)
 
 Pure Storage, Inc. (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.purestorage.com (" **Site** "), and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located at [www.purestorage.com/terms](https://web.archive.org/terms/).
 
@@ -64,7 +64,7 @@ Pure Storage, Inc. (" **Company** ") is committed to protecting your privacy. We
 Pure Storage, Inc.   
 Attn: Web Support   
 650 Castro Street   
-Suite 220   
+Suite #400   
 Mountain View, CA 94041-2055   
 (650) 823-4454 
 
