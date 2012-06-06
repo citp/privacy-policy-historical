@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelysms.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203201002id_/http%3A//www.lovelysms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelysms.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606165130id_/http%3A//www.lovelysms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Funny sms | Love sms | Sms joke | Friendship sms | Flirt sms | Hindi Urdu sms | Wise word
 
@@ -20,7 +20,7 @@ www.lovelysms.com does use cookies to store information about visitors preferenc
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 Google Adsense  
 Chitika  
-Amazon  
+infolink  
 Kontera
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.lovelysms.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
