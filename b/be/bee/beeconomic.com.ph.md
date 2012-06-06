@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224223014id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeconomic.com.ph privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606180102id_/http%3A//www.beeconomic.com.ph/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - beeconomic.com.ph
 
@@ -64,7 +64,10 @@ Regarding information transmitted between the Website and and/or users, while we
 If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Groupon Philippines Inc. then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
 
 **8\. Customer Service**  
-If you have any questions or concerns, please feel free to contact us at [support@groupon.ph](mailto:support@groupon.ph).
+If you have any questions or concerns, please feel free to contact us at [support@groupon.ph](mailto:support@groupon.ph).  
+ **  
+9.   DTI  
+**Should your questions or concerns not be addressed by Groupon Customer Service, you may opt to contact the DTI at 751-3330 or ** [dtincrlegal@yahoo.com](mailto:dtincrlegal@yahoo.com).**
 
-**9\. Changes to this Policy**  
-Please note that this Policy forms part of the [Terms & Conditions](http://www.beeconomic.com.ph/terms_and_conditions) for use of this Website and forms part of the Agreement between you and us. We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website. Depending on the nature of the change, we may announce the change: (a) on the home page of the Website, or (b) by email, if we have your email address. However, in any event, by continuing to use the Website following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your use of the Website.
+**10\. Changes to this Policy  
+** Please note that this Policy forms part of the [Terms & Conditions](http://www.beeconomic.com.ph/terms_and_conditions) for use of this Website and forms part of the Agreement between you and us. We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website. Depending on the nature of the change, we may announce the change: (a) on the home page of the Website, or (b) by email, if we have your email address. However, in any event, by continuing to use the Website following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your use of the Website.
