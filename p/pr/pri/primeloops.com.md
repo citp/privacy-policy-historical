@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primeloops.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203220134id_/http%3A//primeloops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeloops.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606084701id_/http%3A//www.primeloops.com/privacy) for the most accurate reproduction.*
 
 # Prime Loops | Privacy Policy Page
 
@@ -22,6 +22,6 @@
 
 7\. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at please contact us at info@primeloops.com or by post at: Sound Nation Limited, of Morrell Business Centre, 98 Curtain Road, London EC2A 3AF, United Kingdom.
 
-© 2011 Prime Loops. All rights reserved. 
+© 2012 Prime Loops. All rights reserved. 
 
 [](http://www.addthis.com/bookmark.php?v=250&username=primeloops)
