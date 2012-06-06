@@ -1,101 +1,156 @@
-<!--The following is the downloaded HTML source of the go2convert.com privacy policy that was archived on 2011-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111029014142id_/http%3A//www.go2convert.com/services/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the go2convert.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606185221id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Privacy Policy - Go2convert.com</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="Description" content="Convert image or picture format to BMP,CMYK, DCM, DCR, DCX, DDS, DNG, DPX, EPT, ERF, ICON, JP2, JPC, JPEG, MNG, MVG, NEF, PDF,PIX, PNM etc.">
         <meta name="keywords" content="image converter, image convert, pdf image converter,  convert html to image, dwg to image converter, psp image converter, image icon converter, raw image converter, converter and download, file converter">
-        <link href="/media/css/default.css" rel="stylesheet" type="text/css">
+        <!--css-->
+        <link href="/media/css/default.css?v=3.0" rel="stylesheet" type="text/css">
+        <link href="/media/jmodal/jquery.jmodal.css" type="text/css" rel="stylesheet">
+        <link rel="shortcut icon" href="/media/images/favicon.ico" type="image/x-icon">
+        <!--javascript-->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/media/js/jquery.uploadProgress.js"></script>
+        <script type="text/javascript" src="/media/jmodal/jquery.jmodal.js"></script>
+
+        <script type="text/javascript" src="/media/js/functions.js?v=3.0"></script>
+        <script type="text/javascript" src="/media/js/settab.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $("#list_of_converted").load("/uploaded/converted/?r="+ Math.round(Math.random() * 10000));
+                $("#need_resize").click(function(){
+                    if($(this).attr("checked")){
+                        $("#resize").removeAttr("disabled");
+                    }
+                    else{
+                        $("#resize").attr({"disabled":"disabled"});
+                    }
+                });
+            });
+        </script>
+        <!-- //javascript-->
     </head>
     <body>
-        <div id="wrapper">
+        <div id="header">
             <div id="top">
                 <div id="logo"><a href="/"><img src="/media/images/logo.png" alt="Logo" width="257" height="59"></a></div>
                 <div id="menu">
                     <ul>
-                        <li><a href="/">Home Page</a></li>
+                        <li><a href="/" class="selected">Home Page</a></li>
                         <li><a href="/uploaded/">Uploaded Files</a></li>
                         <li><a href="/converted/">Converted Files</a></li>
-                        <li><a href="/services/faq/">F.A.Q.</a></li>
+                        <li><a href="/faq/">F.A.Q.</a></li>
                     </ul>
                 </div>
-            </div>
-            <div id="banner">
-                <div id="description">
-                    <h2>Free Online Image Conversion</h2>
-                    <span>Here you can convert over 100 image formats, among them BMP, DIP, JPG, EPS, PCX, PDF, PNG, PSD, SVG, TGA, etc. Our Online Image Converter is quick and reliable, and what is most important quite easy-to-use.</span></div>
-                <div id="nav"><a href="/">Home</a> &gt; Privacy Policy</div>
-            </div>
-            <div id="content">
-                <div id="content_w">
-                    <h2>Privacy Policy</h2>
-                    <p>&nbsp;</p>
-                    <p><strong>Go2Convert.com</strong> created this privacy statement to illustrate our company commitment to privacy. The following discloses the information collecting and cookies for Go2Convert.com.</p>
-                    <p>&nbsp;</p>
-                    <p><strong>Collecting of Personally-Identifying Information<br>
-                        </strong>When a visitor joins Go2Convert.com as our member, certain personality-identifying information is requested. For example, username, email address, website name and website URL. Go2Convert.com collects such information just to fulfill the purpose of visitor's interaction and shall never sell or trade such information with others. Go2Convert.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Go2Convert.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of www.phpkode.com, third parties, or the public at large. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
-                    <p>&nbsp;</p>
-                    <p><strong>Cookies</strong>
-                        <br>
-                        A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Go2Convert.com uses cookies to help Go2Convert.com identify and track visitors, their usage of www.get-simple.info website, and their website access preferences. Visitors can set browsers to refuse cookies place on their computers, but certain features of Go2Convert.com may not function properly without the aid of cookies.</p>
-                    <p>&nbsp;</p>
-                    <p><strong>Ads</strong>
-                        <br>
-                        Advertising partners may set cookies when their ads appeared on Go2Convert.com to allow ad server to recognize your computer. The aim of these cookies is to illustrate targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Go2Convert.com and does not cover the use of cookies by any advertisers.</p>
-                    <p>&nbsp;</p>
-                    <p><strong>Security</strong>
-                        <br>
-                        To protect the loss, misuse and alteration of information under our control, log file access is restricted to system administrators only once stored on Go2Convert.com server.</p>
-                    <p>&nbsp;</p>
-                    <p><strong>Contact Information</strong>
-                        <br>
-                        If you have any questions about this privacy statement, please contact us at editor(at)PHPKode.info.</p>
-                    <p>&nbsp;</p>
-                </div>
-                <div id="content_right">
-                </div>
-                <div class="clear"></div>		
-            </div>
-            <div id="bottom">
-                <div class="sub_menu">
-                    <strong>Conversion Type:</strong><ul>
-
-                        <li>Image Converter</li>
-                        <li>Documents Converter</li>
-                        <li>Archives Converter</li>
-                        <li>Movie Converter</li>
-                        <li>Sound Converter</li>
-                    </ul>
-                </div>
-                <div class="sub_menu">
-                    <strong>Our Services:</strong><ul>
-
-                        <li>Local File Conversion</li>
-                        <li>Conversion From Url</li>
-                        <li>File Hosting</li>
-                        <li>FAQ</li>
-                    </ul>
-                </div>
-                <div id="copyright">
-                    <p><a href="/services/privacy-policy/">Privacy Policy</a> | <a href="/services/terms-of-use/">Terms of Use</a><br>
-			Copyright ® 2008 - 2011 <a href="/services/about-us/">Go2Convert™ Development Team</a></p>
-                    <p>A <a href="http://PHPKode.com" target="_blank">PHPKode</a> Site </p>
-                    <p>Service mail: support[#]phpkode.info</p>
-                </div>
+                <div class="clear"></div>
             </div>
         </div>
-        <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-8523340-1");
-        pageTracker._trackPageview();
-    } catch(err) {}</script>
+        <div id="mainbody">
+            <div id="wrapper">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td>
+                            <div id="content_left">
+                                <h2>Privacy Policy</h2>
+                                <p>&nbsp;</p>
+                                <p><strong>Go2Convert.com</strong> created this privacy statement to illustrate our company commitment to privacy. The following discloses the information collecting and cookies for Go2Convert.com.</p>
+                                <p>&nbsp;</p>
+                                <p><strong>Collecting of Personally-Identifying Information<br>
+                                    </strong>When a visitor joins Go2Convert.com as our member, certain personality-identifying information is requested. For example, username, email address, website name and website URL. Go2Convert.com collects such information just to fulfill the purpose of visitor's interaction and shall never sell or trade such information with others. Go2Convert.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Go2Convert.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of www.phpkode.com, third parties, or the public at large. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+                                <p>&nbsp;</p>
+                                <p><strong>Cookies</strong> <br>
+                                    A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Go2Convert.com uses cookies to help Go2Convert.com identify and track visitors, their usage of www.get-simple.info website, and their website access preferences. Visitors can set browsers to refuse cookies place on their computers, but certain features of Go2Convert.com may not function properly without the aid of cookies.</p>
+                                <p>&nbsp;</p>
+                                <p><strong>Ads</strong> <br>
+                                    Advertising partners may set cookies when their ads appeared on Go2Convert.com to allow ad server to recognize your computer. The aim of these cookies is to illustrate targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Go2Convert.com and does not cover the use of cookies by any advertisers.</p>
+                                <p>&nbsp;</p>
+                                <p><strong>Security</strong> <br>
+                                    To protect the loss, misuse and alteration of information under our control, log file access is restricted to system administrators only once stored on Go2Convert.com server.</p>
+                                <p>&nbsp;</p>
+                                <p><strong>Contact Information</strong> <br>
+                                    If you have any questions about this privacy statement, please contact us at editor(at)iKode.com.</p>
+                                <p>&nbsp;</p>
+                            </div>
+                            <div id="content_center">
+                                <div class="widget">
+                                    <ul>
+                                        <li><img src="/media/images/facebook.png" alt="Facebook" width="24" height="24" align="absmiddle"><a class="facebook" href="http://www.facebook.com/pages/PHPKode/128114143910564" title="Facebook">Facebook</a></li>
+                                        <li><img src="/media/images/rss.png" alt="Blog" width="24" height="24"><a class="rss" href="http://ikodenewsletter.blogspot.com/" title="Blog">Blog</a></li>
+                                        <li><img src="/media/images/twitter.png" alt="Twitter" width="24" height="24"><a class="twitter" href="http://www.twitter.com/phpkode" title="Twitter">Twitter</a></li>
+                                        <li><img src="/media/images/google-plus.png" alt="Google Plus" width="24" height="24"><a class="google plus" href="https://plus.google.com/u/0/101910060790621985185/posts" title="Google Plus">Google Plus</a></li>
+                                    </ul>
+                                </div>
+                                <div class="ads_300x250">
+                                    <!-- content_300x250 -->
+                                    <script type="text/javascript">
+                                        google_ad_client = "ca-pub-4274888171313463";
+                                        google_ad_slot = "1974440748";
+                                        google_ad_width = 300;
+                                        google_ad_height = 250;
+                                    </script>
+                                    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+                                </div>
+                                <div class="sub_title">Recent Posts</div>
+                                <div class="list">
+    <div class="text"><span class="subject"><a href="/faq/img-to-jpeg/">IMG to JPEG</a></span> <span><img src="/media/icons/img-to-jpeg.jpg" width="48" height="48" alt="IMG to JPEG">IMG can be converted to JPEG with our online converter. This online converter is free for every body.</span>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="list">
+    <div class="text"><span class="subject"><a href="/faq/psd-to-jpeg/">PSD to JPEG</a></span> <span><img src="/media/icons/psd-to-jpeg.jpg" width="48" height="48" alt="PSD to JPEG">PSD can be converted to JPEG with our online converter. This online converter is free for every body.</span>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="list">
+    <div class="text"><span class="subject"><a href="/faq/cr2-to-jpeg/">CR2 to JPEG</a></span> <span><img src="/media/icons/cr2-to-jpeg.jpg" width="48" height="48" alt="CR2 to JPEG">CR2 can be converted to JPEG with our online converter. This online converter is free for every body.</span>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="list">
+    <div class="text"><span class="subject"><a href="/faq/nef-to-jpeg/">NEF to JPEG</a></span> <span><img src="/media/icons/nef-to-jpeg.jpg" width="48" height="48" alt="NEF to JPEG">Nikon Electric Film can be converted by our online convert tool. Upload your RAW files to our converter and then click convert to finish.</span>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="learnmore">
+    <a href="/faq/">Learn More</a>
+</div>
 
+                            </div>
+                            <div class="clear"></div>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+        <div id="foot">
+            <div id="footer">
+                <ul id="footer_menu">
+                    <li><a href="/services/about_us/" target="_blank">About Us</a></li>
+                    <li><a href="/services/privacy_policy/" target="_blank">Privacy Policy</a></li>
+                    <li><a href="/services/terms_of_use/" target="_blank">Terms of Use</a></li>
+                    <li><a href="http://www.phpkode.com/services/make-suggestion/" target="_blank">Make a Suggestion</a></li>
+                    <li><a href="http://www.phpkode.com/services/advertise-with-us/" target="_blank">Advertise with Us</a></li>
+                    <li><a href="http://www.ikode.org/feedback.html" target="_blank" class="noborder">Contact Us</a></li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+            <div id="copy">
+                <div id="info">Copyright © 2010-2012 iKode Software Technology Co., Ltd. All Rights Reserved.</div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-8523340-1");
+                pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
     
 
 </body></html>
