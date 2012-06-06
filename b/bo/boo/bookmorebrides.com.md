@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookmorebrides.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207120626id_/http%3A//www.bookmorebrides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmorebrides.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606190339id_/http%3A//www.bookmorebrides.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for Book More Brides
 
-## BookMoreBrides.com (Book More Brides or "BMB”) Privacy Policy
+## BookMoreBrides.com (Book More Brides or “BMB”) Privacy Policy
 
 This Privacy Policy is here to let you know why we collect information and exactly what we do with it.
 
@@ -16,14 +16,14 @@ This information is used for internal marketing purposes only. BMB does not sell
 
 ### What are cookies and how do we use them?
 
-Cookies help track a person's "session" while online. By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. The cookie by itself doesn't tell us, or anyone else, who you are, what your email address is, or anything else personal. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
+Cookies help track a person’s “session” while online. By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. The cookie by itself doesn’t tell us, or anyone else, who you are, what your email address is, or anything else personal. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
 
 We offer a forum and blogs on our website. Any information you voluntarily disclose when you post to one of these areas becomes public and may be used by us for online and offline promotional and commercial uses. If you choose to post comments on our website, you should be aware that any personally identifiable information you submit is public and can be read, collected, or used by other users of those areas, and could be used to send you unsolicited messages. We are not responsible for any personally identifiable information you choose to submit.
 
 ### How do we store your information?
 
-Your information is stored at the list server that delivers BMB newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive BMB's newsletters.  
-All of the newsletters that are sent to you by BMB include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also[ contact us](http://www.bookmorebrides.com/contact/Stephanie-and-Jeff-Padovani) to change your information at any time.
+Your information is stored at the list server that delivers BMB newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive BMB’s newsletters.  
+All of the newsletters that are sent to you by BMB include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also[ contact us](https://web.archive.org/web/20120606190339id_/http%3A//www.bookmorebrides.com/contact/Stephanie-and-Jeff-Padovani) to change your information at any time.
 
 ### Other Sites:
 
@@ -31,11 +31,13 @@ BMB contains links to other websites. We cannot be responsible for their content
 
 ### Disclaimer:
 
-This policy may be changed at any time at BMB's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised June 22, 2010.
+This policy may be changed at any time at BMB’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised June 22, 2010.
 
-If you have any questions or concerns regarding our privacy policy please direct them to us through the [Contact Form](http://www.bookmorebrides.com/contact/Stephanie-and-Jeff-Padovani) on this site. You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please direct them to us through the [Contact Form](https://web.archive.org/web/20120606190339id_/http%3A//www.bookmorebrides.com/contact/Stephanie-and-Jeff-Padovani) on this site. You may also send a letter to:
 
 Stephanie & Jeff Padovani  
 Book More Brides  
 106 Fairview Ave  
 Poughkeepsie, NY 12601
+
+**_If you'd like to get more free information and strategies like this,[join our Wedding Business Tips email list here](http://bookmorebrides.viprespond.com/email-subscribe)._**
