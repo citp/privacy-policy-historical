@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123165035id_/http%3A//www.kcls.org/usingthelibrary/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606170940id_/http%3A//www.kcls.org/usingthelibrary/policies/privacy.cfm) for the most accurate reproduction.*
 
 # King County Library System -
 
