@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citiclassifieds.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207030149id_/http%3A//www.citiclassifieds.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiclassifieds.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606145149id_/http%3A//www.citiclassifieds.com/privacyPolicy) for the most accurate reproduction.*
 
 # citiclassifieds.com - Privacy Policy
 
@@ -10,9 +10,9 @@ This privacy policy describes how citiclassifieds.com website and services ("cit
 
 Our servers are located in the United States Therefore, if you choose to provide us with personal information; you are consenting to the transfer and storage of that information on our servers in the United States. We collect and store the following personal information:
 
-  * email address, physical contact information, and (depending on the service used) sometimes financial information;
-  * computer (or device) sign-on data, statistics on page views, traffic to and from citiclassifieds.com and ad data (all through cookies - you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); 
-  * other information, including users' IP address and standard web log information 
+  * E-mail address, physical contact information, and (depending on the service used) sometimes financial information;
+  * Computer (or device) sign-on data, statistics on page views, traffic to and from citiclassifieds.com and ad data (all through cookies - you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); 
+  * Other information, including users' IP address and standard web log information.
 
 
 
@@ -20,12 +20,12 @@ Our servers are located in the United States Therefore, if you choose to provide
 
 We use users' personal information to:
 
-  * provide our services
-  * resolve disputes and troubleshoot problems; 
-  * encourage safe trading and enforce our policies; 
-  * customize users' experience, measure interest in our services, improve our services and inform users about services and updates;
-  * communicate marketing and promotional offers to you according to your preferences;
-  * do other things for users as described when we collect the information.
+  * Provide our services
+  * Resolve disputes and troubleshoot problems; 
+  * Encourage safe trading and enforce our policies; 
+  * Customize users' experience, measure interest in our services, improve our services and inform users about services and updates;
+  * Communicate marketing and promotional offers to you according to your preferences;
+  * Do other things for users as described when we collect the information.
 
 
 
