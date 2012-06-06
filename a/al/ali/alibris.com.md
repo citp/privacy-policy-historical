@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223100354id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606142748id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
 
-# Alibris: New, Used, Rare & Out-of-Print Books -- Help & Customer Service
+# Help & Customer Service at Alibris Marketplace
 
 | 
 
