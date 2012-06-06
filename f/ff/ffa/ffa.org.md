@@ -1,40 +1,59 @@
-> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514125642id_/https%3A//www.ffa.org/help/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606151737id_/https%3A//www.ffa.org/help/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# National FFA Organization - Privacy Policy
+# National FFA Organization - Help
 
-The National FFA Organization has created this privacy policy statement to demonstrate our organization's commitment to your privacy. The type of information received about you depends entirely on how you use the site. Outlined below are the various methods of information collection and how this information is utilized within the National FFA Organization. 
+The National FFA Organization (the "Organization") and the National FFA Foundation (the "Foundation") are committed to respecting the privacy of FFA members and stakeholders. Our privacy policy governs the collection and use of personal information, whether gathered by our staff, from program participants, website visitors or through correspondence, and it reflects our approach to gathering and disseminating data. Our policy is to only use data collected for purposes that are integral to furthering the mission of FFA and agricultural education.
 
-Postal address:    
- **National FFA Organization  
-6060 FFA Drive, Indianapolis, IN 46268**  
-Regarding the website the National FFA can be reached via e-mail ( [webmaster@ffa.org](mailto:webmaster@ffa.org) ), or by telephone at 317-802-6060
+### Who We Are  
 
- **Information Collection** **  
-**Information collected by The National FFA Organization's website is utilized solely for the purpose of conducting business, sharing information and providing online services.    This information is never shared outside the National FFA Organization, or with departments within the organization that utilize different privacy policies. Personal information, including name, address, e-mail, phone number, etc., is provided on a voluntary basis only. This information may be used to respond to submitted requests or to provide requested services.  (e.g. product orders) 
+The National FFA Organization is a nonprofit 501(c)3 organization with a mission of developing the potential of students for premier leadership, personal growth and career success through agricultural education. FFA is an integral component of agricultural education at local, state and national levels. The National FFA Foundation is a nonprofit 501(c)3 organization with a mission of building partnerships with industry, education, government, other foundations and individuals to secure financial resources that fund FFA activities, recognize member achievements, develop student leaders and support the future of agricultural education. Both the Organization and the Foundation collaborate closely with allied organizations within the framework of the National Council for Agricultural Education. 
 
-**Collected Information** **  
-** Non-Identifying, Non-Aggregate information (IP address) is collected in order to measure site usage and make the site more useful and beneficial to visitors. 
+### Information Collection and Use
 
-**Cookies** **  
-**The National FFA Organization does not utilize ‘cookies’ to collect information given involuntarily by visitors to our site, nor does the organization sell, rent or otherwise transfer any information received.
+Personal information is collected via a number of websites that are either operated by the Organization and Foundation or operated by authorized vendors. Examples of these websites include the Agricultural Career Network, Shop FFA and the online event registration tool for the national FFA convention and the FFA Washington Leadership Conference program.
 
- **Mailing Lists & Electronic Newsletters** **  
-** The login page allows the voluntary submission of contact information so that respondents may receive informational e-mails and alerts. Recipients of e-mails and alerts, have the option to unsubscribe from the mailing list.  Those who choose to unsubscribe will not receive any further mailings from The National FFA Organization.
+Personal information collected is utilized for the purpose of transacting business such as merchandise sales, membership services, fulfillment of magazine subscriptions and conduct of programs offered by FFA such as national proficiency awards and American FFA Degrees. Personal information is not shared with third-party entities unaffiliated with the Organization or the Foundation without an individual’s express consent.
 
- **Children Under 13** **  
-** The National FFA Organization does not collect or maintain any information from individuals under the age of 13 in order to protect their privacy. The website is of general content in nature and is not directed specifically to children in this age group.  The FFA encourages all parents to assist their children with accessing information via the web. The FFA continuously monitor the website for content that is inappropriate for children.
+### Mailing Lists and Electronic Newsletters
 
-  **3rd Party Websites** **  
-** The National FFA website contains links to other Internet websites. The National FFA is not responsible for privacy practices of any linked sites, including corporate sponsors of the organization, resource sites not affiliated with The National FFA Organization and any state, chapter, or individual member’s websites linked from The National FFA Organization online resources. No warning will be issued when a visitor has accessed a link to a website outside the realm of The National FFA Organization website, but every effort is made to standardize the look and characteristics of all pages. 
+Recipients of e-mails and alerts have the option to unsubscribe from any mailing list. This may be done at the Subscription page on FFA.org or within their Agricultural Career Network profile. Those who choose to unsubscribe will not receive further mailings from the National FFA Organization or the National FFA Foundation. Communication preferences for electronic newsletters will be confirmed annually.
 
-**Disclosure and Updates to Customer Information** **  
-**Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us by phone, regular mail or e-mail.  Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers, and communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by contacting us via phone, regular mail or email. 
+### Coordination with the Educational Community
 
-**Security** **  
-**The National FFA Organization has appropriate security measures in place at the physical facilities where the information resides, to protect against the loss, misuse or alteration of information that is collected from you at our site.
+Strong, supportive relationships between the National FFA Organization, National FFA Foundation, state FFA associations, state FFA foundations and others in the agricultural education community are critical to our success. Given the importance of these relationships, the Organization and Foundation seek to remain fully aligned with our stakeholders' privacy concerns. The Organization and the Foundation will only utilize data provided by members and stakeholders to further the educational mission of FFA and agricultural education. In addition, personal information obtained on official FFA membership rosters, registrations and directories provided by local schools and state associations will only be used for Organization or Foundation donor campaigns upon written permission from the respective state supervisor of agricultural education for each state in which a donor activity is to be conducted.
 
- **Disclaimer** **  
-**All of the information on this site is presented in good faith and believed to be correct.   However, The National FFA Organization makes no representations or warranties as to the completeness or accuracy of this information. 
+### Privacy of Children
 
-**Policy Updates**   
-From time to time, customer information may be used for new, unanticipated uses not previously disclosed in the privacy notice. If our information practices change at some time in the future those changes will be posted to the FFA Website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check the Web site periodically. 
+Information collected from children consists of membership roster data including name, home address, age, e-mail addresses, phone numbers, birthdate, gender, ethnicity, race, residence type, high school graduation year, grade level and t-shirt size. This information, which may be shared with state associations and local chapters, is used to help students complete applications for awards and recognition, create participation portfolios, deliver the FFA magazine to students’ home addresses and notify students and their parents and/or guardians of opportunities supportive of the educational mission and objectives of the FFA. We do not require a child to disclose more information than is reasonably necessary to participate in the foregoing activities. We do not disclose information collected from children to unaffiliated third parties.
+
+Parents and legal guardians may review personal information we have collected about their child, request deletion or refuse to allow further collection or use of the information. To do so, please contact the National FFA Organization, 6060 FFA Drive, Indianapolis, IN 46268, privacy@ffa.org, 317-802-6060.
+
+### Information Security
+
+In order to protect against loss, misuse or alteration of information collected, the National FFA Organization ensures that appropriate security measures are in place at all physical facilities where data resides. User data is stored, both physically and electronically, according to the requirements specified by the Payment Card Industry Data Security Standard.
+
+### Browser Cookies
+
+A "cookie" is a unique data set or "signature" deposited on a user’s computer hard drive by the website that the user is accessing. The websites of the National FFA Organization and the National FFA Foundation utilize browser cookies for the purposes of caching user credentials for faster login, retaining shopping cart data for up to 30 days prior to sale, allowing faster return access to the site and allowing access to certain functions that might otherwise be inaccessible. Cookies from our websites are not linked in any way to personally identifiable information.
+
+### Links to Other Websites
+
+The Organization and Foundation websites often provide links to other websites that may be of interest to the students and stakeholders we serve. Although we work hard to ensure we provide links to appropriate sites and we take full responsibility for the content of our site and our own privacy policy, we are not responsible for the privacy practices or the content of sites to which we link. No notice will be issued when a visitor has accessed a link to a website outside the realm of the Organization and Foundation websites.
+
+### Disclaimer
+
+All information presented on the websites of the Organization and Foundation is presented in good faith and is believed to be correct. However, the Organization and Foundation make no representations or warranties as to the completeness or accuracy of this information.
+
+### Contacting FFA
+
+Questions regarding this privacy policy can be directed to the Organization and Foundation by regular mail, e-mail or phone. Additionally, stakeholders may prevent their information from being used for purposes other than those for which it was originally collected by contacting us. Upon request, we offer stakeholders the ability to have inaccuracies corrected in contact information, unique identifiers and communications that they direct to our site. Stakeholders can have their information corrected by contacting us through the following:
+
+  * Mail:  6060 FFA Drive, Indianapolis, IN  46278
+  * E-mail:  privacy@ffa.org
+  * Telephone:  317-802-6060
+
+
+
+### Policy Updates
+
+From time to time, customer information may be used for new, unanticipated uses not previously disclosed in this privacy policy. If our information practices change at some time in the future, those changes will be posted on all affected websites to notify users of the changes and provide an opportunity to opt out of the new uses. Those concerned about how their information is used should check the websites periodically.
