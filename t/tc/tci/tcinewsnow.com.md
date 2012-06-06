@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the tcinewsnow.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219033626id_/http%3A//www.tcinewsnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcinewsnow.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606064742id_/http%3A//tcinewsnow.com/privacy.php) for the most accurate reproduction.*
 
 # TCI News Now!: Privacy Policy
 
 News from the Turks and Caicos Islands:  
-Monday February 24, 2020
+Wednesday February 19, 2020
 
 ### TCI News Now! Privacy policy
 
