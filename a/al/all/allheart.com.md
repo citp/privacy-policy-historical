@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227025817id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | allheart.com
 
-  * [Embroidery, Emblems & Engraving Personalization](https://web.archive.org/web/20111227025817id_/http%3A//www.allheart.com/embroidery.html)
-  * Free Shipping on orders of $129+*   details »
-  * [Current Email Promotion](https://web.archive.org/web/20111227025817id_/http%3A//www.allheart.com/email-promotion.html)
+  * [Dickies Medical Uniforms: Up to 40% Off!](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/dickies-medical-uniforms.html?cmp=MBarLeftDickies40Off)
+  * [IguanaMed:  up to 35% Off!](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/iguanamed.html?cmp=MBarCenterIguana35Off)
+  * [Free Shipping with $49+ Koi Purchase!](https://web.archive.org/web/20120606051229id_/http%3A//www.allheart.com/koiscrubs.html?cmp=MBarRightKoiFreeShipping)
 
 
 
@@ -16,11 +16,11 @@ Your privacy is very important to us. We have created this Privacy Policy to dem
 
 ## Information Collection and Management
 
-Scrubs AC, Inc. collects information from Visitors and Customers who access the various parts of our Services. Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, and to send service and promotional emails. Promotional emails may be sent from any one or more of our brands, including allheart, allheart Chefs, and Jasco Uniform, plus other brands that we may market or acquire.
+Scrubs AC, Inc. collects information from Visitors and Customers who access the various parts of our Services. Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, and to send service and promotional emails. Promotional emails may be sent from any one or more of our brands, including allheart, allheartchefs and Jasco Uniform, plus other brands that we may market or acquire.
 
 In order to better provide you with numerous products and services, each of our Sites collects Personally Identifiable Information about its visitors. Personally Identifiable Information refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you. Personally Identifiable Information is requested when you register with us, order a product or service, fill out surveys, participate in contests or sweepstakes, correspond with us, or otherwise volunteer information, for instance, to request a catalog. Personally Identifiable Information might include your name, mailing address, telephone number, mobile phone number, email address, credit card and billing information, profession, gender, and other identification and contact information.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! and Google to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
 Except as otherwise stated in this Policy, we do not sell, trade or rent your Personally Identifiable Information collected on our Sites to others. The information collected by our Sites is used to process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our Sites. We will disclose your Personally Identifiable Information to third parties for tracking purposes, to charge your credit card (or process your check or money order, as appropriate), fill your order, improve the functionality of our sites, customize our marketing efforts with you, perform statistical and data analyses, deliver your order, and deliver promotional emails to you from us. These third parties may not use your Personally Identifiable Information other than to provide the services requested by us.
 
