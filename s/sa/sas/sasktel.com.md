@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208002834id_/http%3A//www.sasktel.com/about-us/legal-and-regulatory/privacy.html%3FLink%3DFooterPrivacy%26campaign%3DHome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606184456id_/http%3A//sasktel.com/about-us/legal-and-regulatory/privacy.html%3FLink%3DFooterPrivacy%26campaign%3DHome) for the most accurate reproduction.*
 
 # Privacy - Legal and Regulatory - About Us -
 
@@ -134,16 +134,15 @@ This information is collected on an aggregated basis. No personal information is
 
 **Cookies**
 
-Our site collects aggregated site-visitation statistics using cookies, small text files containing a unique identification number that identifies your browser to our computers. This small file of information allows the web site to remember important information that will make your use of the site more enjoyable. 
+Our site collects aggregated site-visitation statistics using cookies, small text files containing a unique identification number that identifies your browser to our computers. This small file of information allows our web site to remember important information that will make your use of our site more enjoyable. 
 
-Cookies tell us which pages are visited, by how many people, the average time spent, and other useful statistics relating to the use of the site. This helps us to enhance the online experience of visitors to our site. We use the statistics to understand how customers use our sites, to make it easier for you and other visitors to use, to monitor the site's performance and to improve our web site. 
+Cookies tell us which pages are visited, by how many people, the average time spent, and other useful statistics relating to the use of our site. This information does not identify you or link you personally to products or services purchased through sasktel.com. All gathered information is captured on an anonymous basis. This information helps us to enhance the online experience of visitors to our site. We use the statistics to understand how customers use our sites, to make it easier for you and other visitors to use, to monitor our site's performance and to improve our web site. We will also use information collected by cookies to target the delivery to you of information about our products and services that may be of interest to you. You will not be sent any promotional materials from any of our promotions that are no longer being offered in the marketplace.
 
-To assist you, cookies help us remember who you are through your browser settings, while saving your passwords and preferences so you don't have to enter them each time; essentially, cookies save you time.   
-We never combine information gathered by a cookie with personally identifiable information. 
+To assist you, cookies help us remember who you are through your browser settings, while saving your passwords and preferences so you don't have to enter them each time; essentially, cookies save you time. We never combine information gathered by a cookie with personally identifiable information. 
 
 The use of cookies is an industry standard and you will find that most major web sites use cookies and most major browsers are set up to accept them. If you wish, you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent.
 
-You do not need to accept cookies to visit our site. However, should you choose not to accept these cookies, your experience at our site (and other web sites) may be diminished and some features may not work properly.   
+You do not need to accept cookies to visit our site. However, should you choose not to accept these cookies, your experience at our site (and other web sites) may be diminished and some features may not work properly.  
   
 
 
@@ -191,4 +190,4 @@ Saskatchewan Information and Privacy Commissioner
 Regina , Saskatchewan   
 S4P 4B4 
 
-Last Modified:February 12, 2009 
+Last Modified: March 16, 2012 
