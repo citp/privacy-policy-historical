@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirationalquotes4u.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217084932id_/http%3A//www.inspirationalquotes4u.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationalquotes4u.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054709id_/http%3A//www.inspirationalquotes4u.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
