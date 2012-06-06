@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmacyreviewer.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103085957id_/http%3A//www.pharmacyreviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacyreviewer.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606214835id_/http%3A//www.pharmacyreviewer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Pharmacy Reviewer - Privacy Policy
 
 **What information do we collect?**
 
