@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206002140id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606112143id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
 
 # Backblaze - Online backup privacy policy
 
-Updated 3/22/10
+Updated 4/13/12
 
 This Privacy Policy explains what personal information is collected and how it is used and protected by Backblaze Inc., its websites (including www.backblaze.com), products and services (collectively, the “Service” or “Services”.) Backblaze defines Personal Information as your name, email address or billing information, or other data which can be reasonably linked to such information.   
 By using the Services, you expressly consent to the use of data as described in this Privacy Policy.
@@ -38,7 +38,10 @@ Security
 Backblaze is committed to the security of your data and has put in place industry standard physical and electronic enforcement mechanisms. Backblaze products automatically encrypt your data before transmission and send the encrypted data using industry-standard Secure Socket Layer (SSL) encryption. Your data is stored in a secure location with access controls for authorized employees only.
 
 Communication  
-From time to time, Backblaze will communicate with you via email to inform you of service-related information such as confirmation of a password change, expiration of a credit card, notification of a service issue, or availability of a new product or feature from Backblaze. We will not contact you excessively or to promote other third party products. In addition to email, we may contact you via phone for, support reasons only, if you provide us your phone number.
+From time to time, Backblaze will communicate with you via email.  There are two types of email you may receive;  
+1) Service related:  Service-related email such as a confirmation of password change, expiration of credit card, notification of a service change or availability of a new product version, or to reply to, or inform you, of a support issue.  You can not opt out of receiving these messages as they are part of the service.  To stop receiving these messages you must discontinue using the service.   
+2) Backblaze related: Backblaze service news and related material such as tips-and-tricks, service promotions (refer-a-friend, etc.), company news, Backblaze sponsored contests and similar types of material.  By using the Backblaze service and agreeing to the terms of service you have opted-in to receive such email.  You may opt-out of receiving such email using the opt-out mechanism provided in a given email or entering your email on our [unsubscribe  page](https://secure.backblaze.com/unsubscribe.htm) and you will no longer receive email of this type.  
+Note: if you provide us your phone number, we may contact you to discuss the service as well. You are not required to provide your phone number to use the service. 
 
 Updating or Removing Information
 
@@ -56,4 +59,4 @@ Privacy Complaints
 Backblaze is committed to protecting your privacy. If you have a privacy complaint, please contact us directly first to attempt to resolve any issue by visiting [www.backblaze.com/privacy](http://www.backblaze.com/privacy).
 
 Contacting Backblaze  
-To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please [contact us](https://web.archive.org/contact.html).
+To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please contact us.
