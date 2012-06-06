@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123318id_/http%3A//www.funambol.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606183521id_/http%3A//www.funambol.com/site/privacy.php) for the most accurate reproduction.*
 
 # Funambol: Privacy Policy
 
@@ -24,16 +24,16 @@ By registering at this site, you are authorizing Funambol to email you requested
 
 ### Frequently Asked Privacy Questions
 
-##### WHAT ARE COOKIES?
+##### What are cookies?
 
 Cookies are files of information that a web site stores on your computer's hard disk for record-keeping purposes. Cookies can make the web more useful by storing information about your preferences on a particular site. Cookies allow web sites to "remember" users across pages of a site and across multiple visits to a site. The use of cookies is an industry standard, and many major web sites use them to provide useful features to their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. Cookies cannot damage user files, nor can they read unrelated information from a user's hard drive. If you would prefer, you can set your settings to refuse cookies.
 
-##### IS MY PERSONAL INFORMATION SECURE?
+##### Is my personal information secure?
 
 The personal information collected by Funambol is stored in secure operating environments that are not available to the general public. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, while we strive to protect your personal information, Funambol cannot ensure or warrant the security of any information you transmit to us.
 
 ### Appendix
 
-We reserve the right to change this Privacy Policy at any time. Any questions regarding this Privacy Policy should be directed to [webmaster@funambol.com](mailto:webmaster@funambol.com).
+We reserve the right to change this Privacy Policy at any time. Any questions regarding this Privacy Policy should be directed to webmaster@funambol.com.
 
 Last updated: 24 October 2007
