@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082923id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606212252id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
 
 # Afghan123.com Privacy Policy
 
@@ -39,6 +39,6 @@ Changes to Privacy Policy
 If we decide to change our privacy policy, we will post those changes on this page  
 This Policy was last modified on 08/March/2011.  
   
-Copyright © 2007-2011 Afghan123 Network All Rights Reserved  
+Copyright © 2007-2012 Afghan123 Network All Rights Reserved  
   
    
