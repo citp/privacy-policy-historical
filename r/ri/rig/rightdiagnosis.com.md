@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightdiagnosis.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225114119id_/http%3A//www.rightdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightdiagnosis.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606154412id_/http%3A//www.rightdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RightDiagnosis.com
 
