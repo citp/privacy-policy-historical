@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scoutlander.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609203100id_/http%3A//www.scoutlander.com/publicsite/ModPrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlander.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606184650id_/http%3A//www.scoutlander.com/publicsite/ModPrivacyStatement.aspx) for the most accurate reproduction.*
 
 # ScoutLander Privacy Statement
 
-At ScoutLander, we respect and protect the privacy or our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of Wysitech websites, products and services that are located in, but not limited to the Wysitech.com, ScoutLander.com domains. 
+At ScoutLander, we respect and protect the privacy or our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of ScoutLander websites, products and services that are located in, but not limited to the ScoutLander.com domains. 
 
 **Information Collection and Use  
 ** ScoutLander is the sole owner of information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ScoutLander collects information from our users at several different points on our website and sign up process.   
