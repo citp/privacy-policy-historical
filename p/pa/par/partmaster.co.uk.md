@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119035511id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partmaster.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606154451id_/http%3A//www.partmaster.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Spares, Spare Parts & Accessories - Currys Partmaster.co.uk
 
