@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearthhacks.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220082844id_/http%3A//www.gearthhacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearthhacks.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606055153id_/http%3A//www.gearthhacks.com/privacy.php) for the most accurate reproduction.*
 
 # Google Earth Hacks - Privacy Statement
 
@@ -8,7 +8,7 @@ Google Earth Hacks has created this privacy statement in order to demonstrate ou
 We use your IP address to help diagnose problems with our server and to administer our Web site.
 
 **Third Party Advertising**  
-We use Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
