@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesamba.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226015030id_/http%3A//www.gamesamba.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesamba.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606203548id_/http%3A//www.gamesamba.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - GameSamba
 
