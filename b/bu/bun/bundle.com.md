@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bundle.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115214918id_/http%3A//money.bundle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundle.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606145206id_/http%3A//www.bundle.com/privacy-policy) for the most accurate reproduction.*
 
-# Bundle: The No. 1 Source for How People Spend and Save Money -- Personal Finance Data, Money Advice, Trends, News and Community
+# Unbiased, data-driven ratings of the best restaurants, bars, spas, businesses | Bundle
 
 **PRIVACY POLICY**
 
