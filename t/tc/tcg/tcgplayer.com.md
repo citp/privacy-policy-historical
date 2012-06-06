@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004305id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606093611id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -107,18 +107,7 @@ All rights reserved.
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  | 
-
-  
-| LATEST WoW TCG ARTICLE  
----  
-  
-|  **[Budget Ghoulies](http://wow.tcgplayer.com/db/article.asp?ID=3671)**  
----  
-  
-Today Sean returns to his roots and revisits our budget options for WoW, pot Throne of Tides. Read on to see where Sean takes Ghoulmaster Kalisa and her fellow Ghouls!   
-  
-LATEST DREAMBLADE ARTICLE  
+|  |  | LATEST DREAMBLADE ARTICLE  
 ---  
 LATEST SPOILS ARTICLE  
 ---  
