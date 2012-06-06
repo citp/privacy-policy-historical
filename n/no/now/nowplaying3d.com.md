@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowplaying3d.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205001023id_/http%3A//nowplaying3d.com/%3Fpage_id%3D219) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowplaying3d.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606030454id_/http%3A//nowplaying3d.com/%3Fpage_id%3D219) for the most accurate reproduction.*
 
 # nowplaying3d | Privacy Statement
 
@@ -25,4 +25,4 @@ _Information Other Methods_
 Where authorized and permitted by FTC guidelines and all other applicable laws, rules and regulations. NowPlaying3D may also use or allow the use of web beacons, trusted vendors and other third party companies who may gather data for purposes of advertising and/or to report to website traffic and statistics.
 
 All trademarks and images are the property of their respective owners.  
-Trademark for NowPlaying3D.com filed and pending.
+NowPlaying3D.com is a Federal Registered U.S. Trademark.
