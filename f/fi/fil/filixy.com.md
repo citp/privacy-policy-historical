@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filixy.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206235059id_/http%3A//www.filixy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filixy.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606022420id_/http%3A//www.filixy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Filixy Directory
 
