@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopblog.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015092100id_/http%3A//www.hiphopblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopblog.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607011340id_/http%3A//www.hiphopblog.com/component/content/article/85-privacy-policy.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy | Hip Hop Blog
 
