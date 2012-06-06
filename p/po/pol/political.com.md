@@ -1,173 +1,101 @@
-> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420014155id_/http%3A//www.political.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606130653id_/http%3A//www.political.com/Privacy) for the most accurate reproduction.*
 
-# Political.com - Privacy Policy - Political.com
+# Political.com – Privacy Policy
 
-**This Privacy Policy was last updated on February 10, 2009.**
+Privacy Policy
 
-**Introduction:**  
-This web sites which are located at the domain Political.com (the "Site") are operated by Political.com, LLC ("Political.com" or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy45617%20=%20'support'%20+%20'@';%20addy45617%20=%20addy45617%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy45617%20+%20'\\'%3E'%20\);%20document.write\(%20addy45617%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E.)_[support@Political.com](mailto:support@Political.com) ._ or at the address at the end of this policy.
+The following sets forth the policies for the collection and use of personally identifiable information ("Information") by Political.com (together with its parent and affiliated companies, in connection with its operation of the Web site located at Political.com (the “Political” or "Site"). 
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
+Collection of Information.
 
-  1. [_Types of Information Collected_](http://www.political.com/index.php/privacy-policy.html#information_collected)
+In connection with the Site, Political may collect Information in the following ways:
 
-    * [_Personal Data_](http://www.political.com/index.php/privacy-policy.html#personal_data)
+·     Through registration forms and surveys filled out by a user on the Site
 
-    * [_Aggregate and Anonymous Data_](http://www.political.com/index.php/privacy-policy.html#anonymous_data)
+·     Through Information provided by a user in connection with the purchase of products or services on the Site
 
-  2. [_Use of Cookies and Other Technologies_](http://www.political.com/index.php/privacy-policy.html#cookies)
+·     Through the maintenance and analysis of Web server logs
 
-  3. [_Our Use of Your Information_](http://www.political.com/index.php/privacy-policy.html#information_use)
+·     Via e-mail sent by a user to Political
 
-  4. [_Disclosure of Personal Data to Third Parties_](http://www.political.com/index.php/privacy-policy.html#disclosure)
+·     Through the use by Political of third-party databases from which user Information is extracted and combined with Information obtained by Political through other means.
 
-    * [_Disclosure to Affiliates_](http://www.political.com/index.php/privacy-policy.html#affiliates)
+Political may also connect non-personally identifiable information from users via "cookies" (small text files placed by Political on user computers), single-pixel GIF image files (also called “Web beacons”), Web server log analysis and other similar technological means. Such non-personally identifiable information may be used to track site trends and enhance the user experience, and may be shared with third parties. 
 
-    * [_Disclosure to Third Parties_](http://www.political.com/index.php/privacy-policy.html#third_parties)
+To the extent third parties may place advertising on the Site, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. Political is not responsible for information collected by third parties in this manner, nor for the collection or use of Information by other sites to which the Site is linked.
 
-    * [_Disclosure to Others_](http://www.political.com/index.php/privacy-policy.html#others)
+Types of Information Collected by Political.
 
-  5. [_Third Party Advertising and Links to Other Sites_](http://www.political.com/index.php/privacy-policy.html#advertising_links)
+The following types of Information about a user are among those that may be collected by Political in connection with the Site:
 
-  6. [_Your Choice_](http://www.political.com/index.php/privacy-policy.html#choice)
+·     Name
 
-  7. [_Access and Correction_](http://www.political.com/index.php/privacy-policy.html#access)
+·     Postal address
 
-  8. [_Children and Privacy_](http://www.political.com/index.php/privacy-policy.html#children)
+·     E-mail address
 
-  9. [_Message Boards, Chat Rooms, Blogs and Other User Forums_](http://www.political.com/index.php/privacy-policy.html#message)
+·     Telephone number
 
-  10. [_Data Security_](http://www.political.com/index.php/privacy-policy.html#security)
+·     Cellular telephone number
 
-  11. [_Exclusions_](http://www.political.com/index.php/privacy-policy.html#exclusions)
+·     Facsimile number
 
-  12. [_Other Terms and Conditions_](http://www.political.com/index.php/privacy-policy.html#other)
+·     Date of birth
 
-  13. [_Site Location_](http://www.political.com/index.php/privacy-policy.html#site)
+·     Age 
 
-  14. [_Changes to this Privacy Policy_](http://www.political.com/index.php/privacy-policy.html#changes)
+·     Gender 
 
-  15. [_Contacting POLITICAL.COM Regarding Your Privacy_](http://www.political.com/index.php/privacy-policy.html#contact)
+·     Other demographic information (e.g. occupation, income range)
 
+·     IP Address
 
+·     Referring site
 
-  1. **Types of Information Collected**
+·     Other technical information collected by the Site’s servers.
 
+No Collection of Information from Children.
 
+The Site is not intended for users under the age of 18, nor does Political knowingly collect or retain Information in connection with the Site from children under the age of 13.
 
+Use of Information.
 
-**Personal Data:** Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site, for example when you register for our Subscription Services, including without limitation, subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cell phone or other wireless devices (”Other Services”). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.  
- **Aggregate and Anonymous Data:** Aggregate and anonymous data are information collected automatically through the operation of the Site (“AA Data”). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page. 
+Political may use Information collected in connection with the Site in the following ways:
 
-  1. **Use of Cookies and Similar Technologies:**
+·     To provide requested information, survey results, products and services to users
 
+·     To improve the user experience with the Site
 
+·     In connection with the operation of the Site and Political’s internal business
 
+·     In connection with other Sites or offline businesses owned or operated by POLITICAL
 
-Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
+·     For Users to obtain information and offers for products and services offered by Political as well as selected third parties.
 
-In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. This information is anonymous data. 
+In order to do the foregoing, Political may provide your Information to third parties, including but not limited to third party marketers and vendors as well as third party contractors providing services to Political for the operation of the Site and its business, communication services and fulfillment of orders. Political will use commercially reasonable efforts to limit use of the Information by such third parties to the specific uses set forth above.  Political also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information. 
 
-  1. **Our Use of Your Data:**
+Political may also disclose Information when it determines it is necessary to comply with applicable laws or regulations or protect the interests or safety of Political, its customers, or other visitors to the Site.
 
+Access to Information.
 
+Users may modify and correct certain Information through a written request sent to:
 
+1100 Dexter Avenue North
 
-**Personal Data:** We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted.
+Suite 100
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data are linked with Personal Data, the linked AA Data will then be treated as Personal Data. 
+Seattle, WA 98109
 
-**AA Data:** We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, Political.com often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. Political.com may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
+Changes to this Privacy Policy.
 
-We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
+Political reserves the right to revise and update this Privacy Policy at any time. Any such revisions will be effective on the date of posting to the Site, and will apply to all information collected by Political both prior to and following the effective date. Your use of the Site following any such revisions will be deemed your acceptance of such revisions. Users should periodically visit this page to review the current policies with regard to Information.
 
-  1. **Disclosure of Personal Data:**
+Opting Out From Offers From POLITICAL.
 
+At any time, a user may opt out from receiving future offers from Political by following the instructions contained within each marketing communication. Such opting out will not apply to any communications from third parties to whom Political may have provided Information regarding the user.  Third parties’ use of the Information is subject to such parties’ own privacy policies, for which Political shall not be responsible.
 
+Your California Privacy Rights.
 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Political who are California residents to request certain information regarding Political’s disclosure of personal information for their direct marketing purposes. To make such a request, please write to: 1100 Dexter Avenue North Suite 100 Seattle, WA 98109. Within thirty days of receiving such a request, Political will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year.  Political reserves its right not to respond to requests submitted other than to the address specified in this paragraph.
 
-**Disclosure to Affiliates:** Personal Data collected by this Site may be shared with our affiliates which include other entities owned or controlled by Political.com, LLC We reserve the right to share both Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy25533%20=%20'support'%20+%20'@';%20addy25533%20=%20addy25533%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy25533%20+%20'\\'%3E'%20\);%20document.write\(%20addy25533%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@Political.com](mailto:support@Political.com) _ (see “Your Choices” below). **Disclosure to Third Parties:** Political.com, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. **Disclosure to Others:** In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of Political.com, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process. 
-
-If Political.com, LLC or Political.com sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
-
-  1. **Third-Party Advertising and Links to Other Sites:**
-
-
-
-
-This Site includes third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit [_http://doubleclick.net/privacy_policy_](http://doubleclick.net/privacy_policy) or [_http://networkadvertising.org/optout_nonppii.asp_](http://networkadvertising.org/optout_nonppii.asp).
-
-Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data.
-
-  1. **Your Choices:**
-
-
-
-
-You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, or contacting us at: [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy46513%20=%20'support'%20+%20'@';%20addy46513%20=%20addy46513%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy46513%20+%20'\\'%3E'%20\);%20document.write\(%20addy46513%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@Political.com](mailto:support@Political.com) _. You may opt-out of receiving offers from us and related products and services offered by third parties by contacting us at: [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy13888%20=%20'support'%20+%20'@';%20addy13888%20=%20addy13888%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy13888%20+%20'\\'%3E'%20\);%20document.write\(%20addy13888%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@Political.com](mailto:support@Political.com) _. If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.
-
-  1. **Access and Correction:**
-
-
-
-
-If you would like to review, correct or change the Personal Data that you have previously provided us, contact us at [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy20010%20=%20'support'%20+%20'@';%20addy20010%20=%20addy20010%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy20010%20+%20'\\'%3E'%20\);%20document.write\(%20addy20010%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@Political.com](mailto:support@Political.com) _. We will take reasonable steps to update or correct Personal Data in our possession.
-
-  1. **Children and Privacy:**
-
-
-
-
-We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services.
-
-  1. **Message Boards, Chat Rooms, Blogs and Other User Forums:**
-
-
-
-
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services.
-
-  1. **Data Security Disclaimer:**
-
-
-
-
-Political.com takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Political.com, LLC to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy13076%20=%20'support'%20+%20'@';%20addy13076%20=%20addy13076%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy13076%20+%20'\\'%3E'%20\);%20document.write\(%20addy13076%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@Political.com](mailto:support@Political.com) _.
-
-  1. **Exclusions:**
-
-
-
-
-This Privacy Policy shall not apply to any unsolicited information you provide to Political.com on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and Political.com shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
-
-  1. **Other Terms and Conditions:**
-
-
-
-
-Your access to and use of this Site or Other Services is subject to the Terms of Service.
-
-  1. **Applicable Law:**
-
-
-
-
-We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
-
-  1. **Changes to this Privacy Policy:**
-
-
-
-
-From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site.
-
-  1. **Contacting Political.com, LLC Regarding Your Privacy:**
-
-
-
-
-If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at [__](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy84135%20=%20'support'%20+%20'@';%20addy84135%20=%20addy84135%20+%20'political'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy84135%20+%20'\\'%3E'%20\);%20document.write\(%20addy84135%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)_[support@Political.com](mailto:support@Political.com) _, or at the address listed below.   
-Political.com-- Customer Care Department  
-1350 N.W. 8th Court, Penthouse 3  
-Miami, Florida 33136 
+Policy Last Revised: October 28, 2011
