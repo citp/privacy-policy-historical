@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegieendowment.org privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017073640id_/http%3A//www.carnegieendowment.org/about/index.cfm%3Ffa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegieendowment.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606140307id_/http%3A//carnegieendowment.org/about/index.cfm%3Ffa%3Dprivacy) for the most accurate reproduction.*
 
 # About - Carnegie Endowment for International Peace
 
