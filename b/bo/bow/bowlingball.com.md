@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bowlingball.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222239id_/http%3A//www.bowlingball.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlingball.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606100558id_/http%3A//www.bowlingball.com/info/privacy.html) for the most accurate reproduction.*
 
-# bowlingball.com Privacy Policy - bowlingball.com
+# bowlingball.com Privacy Policy
 
 **What information do we collect?**
 
@@ -72,7 +72,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
- **Online Privacy Policy Only**
+**Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
@@ -84,7 +84,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **09/03/2010**
+This policy was last modified on **05/29/2012**
 
  **Contacting Us**
 
@@ -110,5 +110,5 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully, 
 
-John Congdon IT Director  
+Keith Spear CEO  
 bowlingball.com
