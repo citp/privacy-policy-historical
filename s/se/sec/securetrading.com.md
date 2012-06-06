@@ -1,86 +1,90 @@
-> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117174800id_/http%3A//www.securetrading.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606060613id_/http%3A//www.securetrading.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SecureTrading - Privacy Policy
 
+Last Revision: 1st December 2011.
+
 \-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Terms and Conditions**
+**1.0 Introduction**
 
-**1.0 Disclaimer**
+SecureTrading Limited "SecureTrading" takes the privacy of our website visitors, merchants and partners very seriously. This policy explains how and for what purposes SecureTrading uses the information collected about its website visitors and those who apply for its services via www.securetrading.com ("Website"). In addition the terms and conditions which you accept as part of the application process set out how we treat the data which we collect on the application form and subsequently.
 
-Neither SecureTrading limited nor any of its partners, officers, employees and agents makes any express or implied representation or warranty and no responsibility or liability is accepted by any of them with respect to the adequacy, accuracy, completeness, correctness, suitability or reasonableness of the information contained on this website, and nothing contained herein shall be relied upon as a promise or representation regarding the historic or current position, business or performance of SecureTrading limited.
+**2.0 About SecureTrading**
 
-**2.0 Privacy Statement**
+SecureTrading Limited is a Payment Service Provider based in the United Kingdom and is part of the UC Group of companies. Our registered number is 4591066 and our registered office is at Sundridge Park Manor, Willoughby Lane, Bromley, Kent BR1 3FZ.
 
-This privacy statement relates to the SecureTrading web site at www.securetrading.com.
+SecureTrading may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st December 2011.
 
-SecureTrading is a payment service provider based in the United Kingdom. Our contact details for enquiries about privacy and data protection issues can be found in section 2.6.
+**3.0 Personal Data We Collect**
 
-**2.1 Anonymous access to our web site**
+We will collect personal information from you when you complete one of our online application forms including :
 
-You can access our web site home page and browse our site without disclosing your personal data.
-
-Any information supplied by your web browser (such as IP addresses, browser details and page requests) may be logged in order to provide us with statistics about the performance and effectiveness of our web site, but we do not link this information to personal data about specific individuals collected by any other means.
-
-**2.2 Data collection and its purpose**
-
-We collect personal data using forms on our web site. Use of these forms is entirely voluntary on your part, so if you don't want us to hold any personal data about you, then please do not submit the forms. The personal data collected includes:
-
-  * Your name 
-  * Your company name 
-  * Your telephone number 
-  * Your email address 
+  * Name and Job Title
+  * Contact details (including postal address, telephone number and email address)
+  * Company details including banking details
 
 
 
-We collect this data for sales and marketing purposes. A member of our sales team may use it to contact you in the future. We do not collect or use this personal data for any other purpose, and we do not disclose this personal data to other commercial organisations.
+We may also collect (even if you do not provide any Personal Data to us) information about where you are on the internet (e.g. the URL you came from, IP address, etc.), your browser type and the pages of the Website that were viewed during your visit. We collect this information to help us administer the Website and to provide you with a more effective service.
 
-**2.3 Confidentiality**
+**4.0 What do we do with the information we gather**
 
-We have implemented security policies, rules and technical measures to ensure that any personal data held under our control is protected from unauthorised access, unauthorised modification, unlawful destruction, accidental loss, improper use or improper disclosure. All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
+We will use your information that we gather to fulfil your order and to provide you with the service you have requested. To enable us to do this we may share your information with affiliate companies, our business partners and financial institutions such as acquirers as necessary to fulfil your request. If you agree when you apply for our services, we will also use your information for marketing purposes and to understand your needs and provide you with a better service, and in particularly for the following reasons:
 
-**2.4 Cookies**
-
-Cookies are text files, used by your computer's browser, that store visitor session data. Cookies, by themselves, do not identify the individual user. Cookies are commonly used on the Internet and do not harm your system.
-
-We currently use cookies to collate general management data which is used to plan enhancements to our services. SecureTrading does not store any personal information in cookies (on any computer that you may use) that can be used to identify you, such as your name or account numbers.
-
-If you do not want us to use cookies you may be able to configure your browser not to accept them. Please refer to your browser's 'help' facility for further information. However, you should bear in mind that this may affect our ability to process the transactions you wish to have authorised.
-
-**2.5 Your right of access to your personal data**
-
-Your rights of access to any personal data that we hold about you are as set out in the Data Protection Act 1998 (United Kingdom), and are summarised below:
-
-  * You can ask us whether we keep personal information about you by contacting our Data Protection Officer. Contact details can be found in section 2.5. 
-  * You can request a readable copy of your personal data from our Data Protection Officer, although we may first require proof of your identity. We charge £10.00 for this service, to cover our administrative costs. We will send the data to you within forty days of receiving the fee and verifying your identity. 
-  * You may challenge the data that we hold about you and, where appropriate, you may have the data corrected, amended, completed or deleted. 
+  * Internal record keeping
+  * To improve our products and services
+  * To be able to send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the Website according to your interests.
 
 
 
-For further information about your rights under the Data Protection Act 1998 visit the Information Commissioner's web site at <http://www.dataprotection.gov.uk/>.
+**5.0 Securing your data**
 
-**2.6 Contact details**
+The data that you provide us is sent via a secure link (HTTPS) and sensitive data stored is encrypted using standard encryption technology in computer servers with limited access and in controlled facilities. We store your personal information for at least for the duration of any customer relationship we have with you, or as otherwise required by law (normally up to a maximum of 7 years for legal and tax reasons).
+
+All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our your personal data.
+
+**6.0 Use of "cookies"**
+
+Cookies are information sent by a web server to a web browser and stored by a web browser. Cookies can store personally identifiable information, such as your name, e-mail address. However, a website can only have access to the personally identifiable information that you provide. For example, a website cannot determine your e-mail, address, or name **unless you type it in**. Cookies are commonly used on the Internet and do not harm your system. 
+
+SecureTrading and our third party partners may set the following types of cookies when you visit the Website.
+
+**6.1 Session cookies**
+
+These cookies reside on the Web browser and expire as soon as the visitor closes the browser. Session cookies remember information only for as long as the visitor operates the Web browser in a single session. This minimises the need to authenticate or reprocess each new area of the Website visited.
+
+**6.2 Persistent cookies**
+
+SecureTrading uses persistent cookies for some of its services including its Website tracking for the purposes of understanding how visitors use the Website. These persistent cookies will not store any identifying data.
+
+The SecureTrading blog uses persistent cookies to track name and email address. Its purpose is to improve visitor experiencing when returning to the blog. The cookie will remain on the visitor's hard drive until the set date has expired or until the visitor has deleted the file.
+
+**6.3 Third-Party cookies**
+
+SecureTrading's website makes use of Third party cookies for the delivery of the blog and visitor poll.
+
+We are aware that the EU's Privacy and Communications Directive came into force on 26 May 2011. The ICO have issued guidance about the Directive at <http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/cookie_rules_prepare.aspx>.
+
+We are currently reviewing our privacy policies and website practices and considering how best to implement the changes that are required to the way that we use cookies on the Website as a result of this new law.
+
+**7.0 Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you follow a link, we are not responsible for the privacy policies of the other sites even if you access the links from the Website. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**8.0 Governing Law**
+
+Your use of the Website is governed by the laws of England and Wales and all disputes arising out of or relating to this Privacy Policy will be determined exclusively by the English Courts.
+
+**9.0 Contact Us**
 
 If you have an enquiry or concern about our privacy policy, or you want to enquire about or request a copy of any of your personal data held by us, please contact our Data Protection Officer using one of the following methods:
 
-Phone: +44 (0) 1248 672000
+  * **Email:** [dpofficer@securetrading.com](mailto:dpofficer@securetrading.com)
+  * **Phone:** +44 (0)1248 672 000
+  * **Post:** Data Protection Officer, European Operations Centre, Parc Menai, Bangor, Gwynedd, UNITED KINGDOM, LL57 4BL
 
-Post: European Operations Centre
 
-Parc Menai
 
-Bangor
-
-Gwynedd
-
-UNITED KINGDOM
-
-LL57 4BF
-
-If you are not satisfied with our response to your concern you may wish to contact the Information Commissioner. Contact details can be found on the web site at <http://www.dataprotection.gov.uk/>.
-
-**3.0 Standard merchant agreement**
-
-A copy of SecureTrading's standard terms and conditions for merchants can be downloaded at the following location:
-
-For merchants using SecureTrading Merchant Account or Payment Gateway, please download from [here](https://web.archive.org/web/20111117174800id_/http%3A//www.securetrading.com/standard-merchant-agreement.html).
+If you are not satisfied with our response to your concern you may wish to contact the Information Commissioner. Contact details can be found on the ICO website at [http://www.ico.gov.uk](http://www.ico.gov.uk/)
