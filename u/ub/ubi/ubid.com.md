@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207190256id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606224307id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.*
 
 # What is uBid.com's Privacy & Security Policy? - uBid.com
 
-(Last Updated: June 29, 2010)
+(Last Updated: January 12, 2012)
 
-uBid.com, Inc. ("uBid.com") has created this statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
+uBid, ("uBid.com") has created this statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
 
 uBid.com uses the information we collect about you to process orders. When you register at uBid.com, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order. In some instances, products ordered at uBid.com are shipped directly from our vendors, and some of your information is shared with these vendors to enable them to fulfill and ship your order.
 
 When you sign up for uBid.com Auction Alerts, we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your bid and order status, and we may use your email address to send you notice of upgrades or changes to uBid.com, new services, and special offers. You may choose not to receive any of these emails when you register, or at a later date, by accessing uBid.com Auction Alerts.
 
 We occasionally will ask for additional information from you. For instance, we may ask for your name, address, and e-mail address in connection with a contest or other promotional feature in which you participate, so we can administer the contest and notify winners. We may offer contests or promotions with third parties; policies concerning use of your personal data gathered in connection with any such contest or promotion will be specifically set forth in the rules and policies applicable to the contest or promotion.
-
-uBid.com offers a service called "Tell a Friend" that allows you to notify friends about open auctions. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not save or share your buddies email address, they are only used for this one time mailing. Please note, however, that uBid.com opposes the practice of sending unsolicited commercial emails, also known as "spam". Therefore, we request that you send "Tell A Friend" emails only to people known by you who may be interested in the auction. If someone asks you not to send these emails to him or her, please comply.
 
 When you bid on an item, you must enter the amount of your bid, your uBid.com Login ID and your password. Only your initials, city and state and your bid will be publicly available in the Current Winning Bids history.
 
@@ -26,7 +24,7 @@ Upon registration with uBid.com, each of our customers is assigned a random and 
 
 In addition, we may share information about you with third parties as necessary to complete a transaction requested by you or to enable them to provide special opportunities and offers to you. We may share information about you with our business partners, affiliates or other third parties with your approval only. If your personally identifiable information changes, or if you no longer want us to share information you provide with third parties, you may correct, update, or unsubscribe by making the change in My Account located in My Page on uBid.com.
 
-You may choose whether or not to receive Outbid and order processing emails in My Account and in My Mailbox. By registering at uBid.com, you consent to the collection and use of this information by uBid.com for order processing, Auction Alert emails, or the sharing of your personally identifiable information to our business partners (with your consent only). In the event of changes in our privacy policy, this page will be updated with the current information.
+You may choose whether or not to receive Outbid and order processing emails in My Account and in "Essential Emails". By registering at uBid.com, you consent to the collection and use of this information by uBid.com for order processing, Auction Alert emails, or the sharing of your personally identifiable information to our business partners (with your consent only). In the event of changes in our privacy policy, this page will be updated with the current information.
 
 **Links**  
 This Web site may contain links to other web sites. We provide these links for your convenience, but we do not review, control or monitor the privacy practices of websites operated by others. We are not responsible for the performance of these sites or for your business dealings with them. Your use of other web sites is subject to the terms and conditions of those web sites, including the privacy policies of those web sites.
@@ -48,4 +46,4 @@ Some older browsers (such as IE 3.0.2) have known SSL bugs. These can result in 
 **Technical Details About Encryption**  
 uBid.com operates with a VeriSign Digital Server Certificate, featuring cryptographic techniques to reduce the risk that Digital IDs are not forged or tampered with. These techniques, developed by RSA Data Security, use a matched pair of encryption and decryption keys. This use of matched-key cryptography with a 1024-bit key length provides a level of security unavailable with conventional secret key cryptography.
 
-uBid.com, Inc. -- 740Â  Hilltop Drive. Itasca, IL 60143
+uBid.com, Inc. - 740 Hilltop Drive. Itasca, IL 60143
