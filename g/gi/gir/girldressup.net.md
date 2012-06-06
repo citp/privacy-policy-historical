@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girldressup.net privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723175644id_/http%3A//www.girldressup.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girldressup.net privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606160211id_/http%3A//www.sevengirlz.com/privacy.html) for the most accurate reproduction.*
 
-# Play Free Dress Up Games at GirlDressup.Net
+# Play Free Dress Up Games at SevenGirlz.com
 
 **1\. Privacy and information collection policy**
 
