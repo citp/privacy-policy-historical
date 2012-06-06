@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegabrielmethod.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113090230id_/http%3A//www.thegabrielmethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegabrielmethod.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607003222id_/http%3A//www.thegabrielmethod.com/privacy) for the most accurate reproduction.*
 
-# The Gabriel Method – Privacy
+# The Gabriel Method – Privacy Policy
 
 At The Gabriel Method, we care about your privacy. This policy describes how we will deal with your personal information in accordance with the National Privacy Principles and the Australian Privacy Act.
 
@@ -59,14 +59,4 @@ We cannot guarantee the security of information you may transmit to us. We will 
 
 To keep up with regulatory, technical and organisational change, we may change this policy from time to time by publishing the updated policy on our website. Please be sure to visit our website regularly to keep up to date with any changes.
 
-**Contacting us**
-
-If you have any problems or complaints, or general questions regarding our information handling practices, please contact us by email or by writing to:
-
-The Gabriel Method Pty Ltd  
-Shop 8 Palm Court  
-69 Strickland Street Denmark  
-WA 6333 Australia
-
-OR call our Privacy Officer at +1.215.825.5101 (USA) or  
-+61.8.9848.1818 (Australia) 
+ 
