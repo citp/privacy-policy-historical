@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volusion.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204070336id_/http%3A//www.volusion.com/safeharbor-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volusion.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606080856id_/http%3A//www.volusion.com/safeharbor-privacy) for the most accurate reproduction.*
 
 # Safe Harbor Customer Privacy Policy
 
@@ -46,7 +46,7 @@ We take reasonable steps to ensure that Personal Information we process is relia
 
 If you have any questions or concerns about this Policy or the Safe Harbor practices of Volusion, please write to us at the address listed below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the Safe Harbor Principles.
 
-Compliance Officer Volusion, Inc. 8911 N. Captial of Texas Highway, Ste. 1200 Austin, TX 78759 (p) 1.800.646.3517 (f) 512.293.8020 Email: Legal@volusion.com
+Compliance Officer Volusion, Inc. 8911 N. Captial of Texas Highway, Ste. 1200 Austin, TX 78759 (p) 1.800.646.3517 (f) 512.686.3761 Email: Legal@volusion.com
 
 If after contacting the EEA Client and Volusion, an individual's complaint or dispute has not been resolved, s/he can contact the International Centre for Dispute Resolution of the American Arbitration Association at www.adr.org. This organization will provide independent dispute resolution.
 
