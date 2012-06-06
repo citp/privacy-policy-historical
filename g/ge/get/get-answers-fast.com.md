@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-answers-fast.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203162012id_/http%3A//get-answers-fast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-answers-fast.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606090137id_/http%3A//get-answers-fast.com/privacy.html) for the most accurate reproduction.*
 
 # Get-Answers-Fast by Free Css Templates
 
