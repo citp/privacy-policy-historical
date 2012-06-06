@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherless.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112040313id_/http%3A//motherless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherless.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606220802id_/http%3A//motherless.com/privacy) for the most accurate reproduction.*
 
 # MOTHERLESS.COM - Go Ahead She Isn't Looking! : Privacy Policy
 
@@ -63,9 +63,3 @@ Changes to this Privacy Policy or e-mail practices
 MI reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the MI website.
 
 If we make changes in our e-mail practices or in the way we use your e-mail address, we will post those changes to this Privacy Policy.
-
-If you have questions or suggestions, please Contact Support.
-
-(Name)
-
-(Address)
