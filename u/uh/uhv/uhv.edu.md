@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207123142id_/http%3A//www.uhv.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054454id_/http%3A//www.uhv.edu/privacy.aspx) for the most accurate reproduction.*
 
 # University of Houston-Victoria | Privacy Policy
 
@@ -13,3 +13,5 @@ If you send us an electronic mail message with a question or comment that contai
 For site management functions, information is collected for analysis and statistical purposes. We do not report or use this information in any manner that would reveal personally identifiable information, and will not release it to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas.
+
+## [UHV Web Policy](https://web.archive.org/web/20120606054454id_/http%3A//www.uhv.edu/it/Web_guidelines/web_policies.aspx)
