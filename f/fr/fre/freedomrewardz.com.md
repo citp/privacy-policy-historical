@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomrewardz.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207150327id_/http%3A//freedomrewardz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomrewardz.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144717id_/http%3A//www.freedomrewardz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -28,5 +28,6 @@ International Transfer: If we send your information to one of our facilities in 
 
 Enforcement: We will regularly review how we are meeting these privacy principles and provide you a means to settle complaints about our privacy practices.
 
-To request access to your information, ask questions about our privacy practices, change your marketing preferences, or issue a complaint, please contact us at: 14 Sagar Pallazio, Sakinaka Jn., Andheri-Kurla Road, Andheri East, Mumbai - 400072, India or email us at accessinfo@FreedomRewardz.com or call us at 60008500.  
+To request access to your information, ask questions about our privacy practices, change your marketing preferences, or issue a complaint, please contact us at: The Qube, A-703,MV Road, Marol, Off Andheri-Kurla Road, Andheri (E) Mumbai,Pin Code – 400059 India or email us at accessinfo@FreedomRewardz.com   
+or call us at 60008500.  
 Thank you. 
