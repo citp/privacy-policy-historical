@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dieselbombers.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207080644id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Ddieselbombers.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselbombers.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144525id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Ddieselbombers.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
