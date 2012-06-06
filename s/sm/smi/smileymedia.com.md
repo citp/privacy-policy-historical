@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smileymedia.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228072944id_/http%3A//www.smileymedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileymedia.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606051015id_/http%3A//www.smileymedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Smiley Media
 
-**Effective Date: March 29, 2011**
+**Effective Date: March 08, 2012**
 
 **Privacy at Smiley Media, Inc.**
 
@@ -120,9 +120,7 @@ If you would like to modify or delete your personal information that we maintain
 
 **Opt-Out**
 
-By submitting your information to Smiley Media, you are consenting to receive marketing communications from Smiley Media and its third party marketing partners. If, after you have shared your information with Smiley Media, you decide that you do not want to receive marketing communications from Smiley Media, you can discontinue the communications by clicking here and following the opt-out instructions.  If you have registered or submitted information under more than one email account, you must submit separate unsubscribe requests for each account.
-
-We may provide information to third parties, and third parties may independently collect information about users as described in this Privacy Policy.  Information shared with, or collected by, these third parties is subject to those third parties' policies governing use and disclosure of personal information.  Users should contact those third parties directly if they do not wish to receive communications from them, do not want those third parties to collect information about them or wish to take any other actions with regard to such information.
+Once you submit data, as described above, we provide that data to the advertisers you have selected. If you do not want information shared, do not submit it. Third parties may independently collect information about users as described in this Privacy Policy. Information collected by these third parties is subject to those third parties' policies governing use and disclosure of personal information. Users should contact those third parties directly if they do not wish to receive communications from them, do not want those third parties to collect information about them, or wish to take any other actions with regard to such information.
 
 **No Spam Policy**
 
