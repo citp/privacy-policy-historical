@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124205730id_/http%3A//www.madcatz.com/Default.asp%3FPage%3D51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcatz.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606131347id_/http%3A//www.madcatz.com/Default.asp%3FPage%3D51) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,11 @@
 (Last Updated: April 13, 2004)    
  
 
-Mad Catz, Inc. respects the privacy rights of its online audience and customers, and is committed to protecting the information collected about you. We have created a Privacy Policy that provides a map of how we collect, store, and use the information that is collected via online forms, contests, and sweepstakes.
+Mad Catz Inc may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Please note that this Privacy Policy applies to the Mad Catz, Inc. website ([www.madcatz.com](http://www.madcatz.com/)) and the GameShark.com website only, and not to any of its affiliates or third-party links outside of the [www.madcatz.com](http://www.madcatz.com/) and [www.gameshark.com](http://www.gameshark.com/) domain names. In addition, Mad Catz, Inc. owns several other domain names that point to the [www.madcatz.com](http://www.madcatz.com/) domain name.
+
+Mad Catz, Inc. may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 If you have any questions, complaints, or feedback regarding our Privacy Policy, please feel free to contact us at:
 
@@ -79,9 +81,9 @@ Acknowledging and recognizing the rights and privacy of information from young c
   
 _Unsubscribing to Mad Catz Newsletter_
 
-To unsubscribe to the Mad Catz Newsletter, please e-mail [madcatznews@madcatz.com](mailto:madcatznews@madcatz.com) with the subject line "Unsubscribe", using the e-mail account that you are subscribed with.
+To unsubscribe to the Mad Catz Newsletter, please e-mail [madcatznews@madcatz.com](mailto:madcatznews@madcatz.com) with the subject line Unsubscribe, using the e-mail account that you are subscribed with.
 
   
 _Changes to this Privacy Policy_
 
-Mad Catz will occasionally update this Privacy Policy to continue to be compliant with Privacy Protection laws and to further protect your information. When we do, we will also revise the "last updated" date stamp at the top of this privacy policy.
+Mad Catz will occasionally update this Privacy Policy to continue to be compliant with Privacy Protection laws and to further protect your information. When we do, we will also revise the last updated date stamp at the top of this privacy policy.
