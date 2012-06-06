@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2011-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213171857id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2012-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120606174650id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<!-- 1323796719 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script type="text/javascript">var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[];TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src=document.location.protocol+'//insight.torbit.com/v1/insight.min.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b)})();</script>
+<!-- 1339004791 -->
 
 	<title>Privacy Policy | Archinect</title>
 
@@ -15,18 +15,21 @@
 	<link rel="shortcut icon" href="http://archinect.com/favicon.ico" type="image/ico">
 	
 		<!-- Main CSS -->
-	<link type="text/css" rel="stylesheet" href="/css/archinect.v3.css?20">
+	<link type="text/css" rel="stylesheet" href="/css/archinect.v3.css?21">
 
         
 	<!-- Alternate Main CSS only for IE7 and older -->
 	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/archinect.ie7.css?6" media="screen"><![endif]-->
 
+	<!-- Alternate Main CSS only for IE8 -->
+	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/archinect.ie8.css?2" media="screen"><![endif]-->
+
         <style type="text/css">span.archinect_error{color: red;}</style>
 
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript">
         var CKEDITOR_BASEPATH = '/js/ckeditor/';
 </script>
-<script type="text/javascript" src="/js/archinect.js?14"></script>
+<script type="text/javascript" src="/js/archinect.js?17"></script><style type="text/css">.noscript{display:none}</style>
 
 <script type="text/javascript">
 	$(document).ready(function(){
@@ -78,26 +81,41 @@
 
 		<script type="text/javascript">
 	ddaccordion.init({
-		headerclass: "menu", 
-		contentclass: "submenu", 
-		revealtype: "click", 
-		mouseoverdelay: 200, 
-		collapseprev: true, 
-		defaultexpanded: [4], 
-		onemustopen: false, 
-		animatedefault: false, 
-		persiststate: false, 
-		toggleclass: ["closedlanguage", "openlanguage"], 
-		togglehtml: ["none", "", ""], 
-		animatespeed: "fast", 
-		oninit:function(expandedindices){ 
-			
+		headerclass: "menu",
+		contentclass: "submenu",
+		revealtype: "click",
+		mouseoverdelay: 200,
+		collapseprev: true,
+		defaultexpanded: [4],
+		onemustopen: false,
+		animatedefault: false,
+		persiststate: false,
+		toggleclass: ["closedlanguage", "openlanguage"],
+		togglehtml: ["none", "", ""],
+		animatespeed: "fast",
+		oninit:function(expandedindices){
+
+			function detectOverlapping() {
+				var windowheight = $(window).height();
+				var menuheight = $('.MainMenu').height();
+				var remainingspace = windowheight - menuheight;
+				if (remainingspace < 175) {
+					$('.GlobalSocialIcons').hide();
+				} else {
+					$('.GlobalSocialIcons').show();
+				}
+			}
+
+			setTimeout(detectOverlapping, 500);
+
 		},
-		onopenclose:function(header, index, state, isuseractivated){ 
-			
+		onopenclose:function(header, index, state, isuseractivated){
+
 		}
 	    });
-	</script>
+	</script><style type="text/css">
+.submenu{display: none}
+</style>
 
 	<!-- AJAX forms -->
 	<script type="text/javascript">
@@ -108,7 +126,9 @@
 				if( typeof( arc_remove_editor ) == 'function' ) {
 					arc_remove_editor('form.arc_ajax .editor');
 				}
-
+				
+				arc_filterform(form);
+				
 				$('<input>').attr({
 					    type: 'hidden',
 					    name: 'arc_token',
@@ -133,8 +153,52 @@
 					}
 				});
 			}
+		
+		function arc_filterform(form){
+			if(typeof( arc_editor ) == 'function' && $(form).find('.editor').length > 0){					
+				$(form).find('.editor').each(function(editor_key, editor_value){
+					var start = '';
+					var end = '';									
+					var body_html = $('<div>'+$(editor_value).val()+'</div>');
+					var ptags = body_html.find('p').length;
+					if(ptags > 0){
+						for(var i=0; i<ptags; i++){
+							if($.trim(body_html.find('p').eq(i).text()) != '')
+							{
+								if(start === '')
+								{
+									start = i; //Get the start index of p tag that is not blank
+								}
+								end = i; //Get the end index of p tag that is not blank
+							}
+						}
+						
+						$(body_html).find('p').each(function(key, value){
+							if(key < start || key > end)
+							{
+								$(value).remove();
+							}
+						});										
+					}
+					arc_remove_editor($(editor_value));
+					$(editor_value).val($(body_html).html());
+					arc_editor($(editor_value));
+				});
+			}
+			return true;
+		}
+		
 		$(document).ready(function(){
 			$('form.arc_ajax').live('submit', arc_submitajax);
+			
+			$('form input.Filtering').live('click', function(){
+				var referer = $(this);
+				var form = $(this).parents('form');				
+				arc_filterform(form);
+				$(this).removeClass('Filtering').die("click");
+				setTimeout(function(){  $(referer).click(); }, 500);
+				return false;
+			});
 		});
 	</script>
 	<!-- JavaScript and CSS for jqModal -->
@@ -290,8 +354,8 @@
 
 					var buttons = '';
 
-					if(data['njobs']>0)
-						buttons+='<a id="MyJobsButton" href="/account/ads/list">My Jobs<span class="Status">'+data['njobs']+'</span></a>';
+					if(data['jobs_button'])
+						buttons+='<a id="MyJobsButton" href="/account/ads/list">My Jobs'+(data['njobs']>0? '<span class="Status">'+data['njobs']+'</span>': '')+'</a>';
 
 					if(data['blogs'].length == 1)
 						buttons+='<a id="MyJobsButton" href="/blog/'+data['blogs'][0]['id']+'/my-blog">My Blog</a>';
@@ -305,24 +369,9 @@
 						'<div id="LoginStatus">' +
 						display_name +
 						'<div class="HoverText" id="LoginStatusHover">' +
-						'<a href="/account/hub">Edit Settings</a><br />' +
-						'<a href="/auth/logout'+arc_pathname(document.location.pathname)+'">Log Out</a></div></div>');
+						'<a href="/account/hub" class="SettingsButton">Edit Settings</a><br />' +
+						'<a href="/auth/logout'+arc_pathname(document.location.pathname)+'" class="LogoutButton">Log Out</a></div></div>');
 
-					$('#LoginStatusHover').hide();
-
-					$("#LoginStatus").hoverIntent({
-						over: function(){
-							$('#LoginStatusHover').slideDown(100);
-							$('#LoginStatusHover a').fadeIn(0);
-						},
-
-						timeout: 200,
-
-						out: function(){
-							$('#LoginStatusHover').slideUp(100);
-							$('#LoginStatusHover a').fadeOut(0);
-						}
-					});
 
 				}
 
@@ -359,9 +408,8 @@
 					return false;
 				});
 
-
 				if( typeof(arc_page_post_session) == 'function' )
-					arc_page_post_session();
+					arc_page_post_session(data.logged_in);
 
 
 
@@ -428,21 +476,94 @@
 				  })();
 				</script>
 
+			<script type="text/javascript">
+
+	if (($.client.os == 'Mac') && ($.client.browser == 'Firefox')) {
+
+		var link = $('<link>');
+		link.attr({ type: 'text/css', rel: 'stylesheet', href: '/css/archinect.firefox.mac.css', });
+		$('head').append( link );
+
+	};
+
+	if ($.client.os == 'iPhone/iPod') {
+
+		var link = $('<link>');
+		link.attr({ type: 'text/css', rel: 'stylesheet', href: '/css/archinect.iphone.css', });
+		$('head').append( link );
+
+	};
+
+</script>
+
+			<script type="text/javascript">
+
+	$().ready(function() {
+	  $('#social').jqm({ajax: '/popup/social', trigger: 'a.GlobalSocialIcons'});
+	});
+
+	$(document).ready(function(){
+		$('#IconsDefault').css({opacity: 1});
+		$('#IconsHover').css({opacity: 0});
+
+		$('.GlobalSocialIcons').hoverIntent({
+			over: SocialIconsFadeIn,
+			timeout: 10,
+			out: SocialIconsFadeOut
+		});
+
+		function SocialIconsFadeIn() {
+			$('#IconsDefault').fadeTo('fast', 0);
+			$('#IconsHover').fadeTo('fast', 1);
+		}
+
+		function SocialIconsFadeOut() {
+			$('#IconsDefault').fadeTo('fast', 1);
+			$('#IconsHover').fadeTo('fast', 0);
+		}
+
+		function detectOverlapping() {
+			var windowheight = $(window).height();
+			var menuheight = $('.MainMenu').height();
+			var remainingspace = windowheight - menuheight;
+			if (remainingspace < 175) {
+				$('.GlobalSocialIcons').hide();
+			} else {
+				$('.GlobalSocialIcons').show();
+			}
+		}
+
+		function checkMenuDelay() {
+			setTimeout(detectOverlapping, 200);
+		}
+
+		$(document).ready(detectOverlapping);
+		$(window).resize(detectOverlapping);
+		$('.menu').click(checkMenuDelay);
+
+	});
+
+</script>
   </head>
 
-  <body class="" id="" style="">
+  <body class="" id="" style=""><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 32px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 
   
   
   
 	<div class="ColA">
 	
-				<div class="MainMenu">
+				<a class="GlobalSocialIcons" title="Follow and share Archinect content via social media!" style="display: none;">
+			<img class="SocialIcons" id="IconsDefault" src="/images/nav/social_icons_global.png" style="opacity: 1;">
+			<img class="SocialIcons" id="IconsHover" src="/images/nav/social_icons_global_hover.png" style="opacity: 0;">
+		</a>
+
+		<div class="MainMenu">
 			<div class="MenuLogo"><a href="/"><img src="/images/nav/a_logo.png" alt="Archinect Logo" border="0" width="100" height="100"></a></div>
 
 
-	<div class="menu"><a class="MenuButton Main" href="#"><em>Editorial &amp; News</em></a></div>
-	<div class="submenu">
+	<div class="menu closedlanguage" headerindex="0h"><a class="MenuButton Main" href="#"><em>Editorial &amp; News</em></a></div>
+	<div class="submenu" contentindex="0c" style="display: none;">
 
 			<a class="MenuButton " href="/&#9;&#9;features">
 		<em>
@@ -463,16 +584,16 @@
 		</div>
 
 
-	<div class="menu"><a class="MenuButton Main" href="#"><em>Employment</em></a></div>
-	<div class="submenu">
+	<div class="menu closedlanguage" headerindex="1h"><a class="MenuButton Main" href="#"><em>Employment</em></a></div>
+	<div class="submenu" contentindex="1c" style="display: none;">
 
 			<a class="MenuButton " href="/&#9;&#9;jobs">
 		<em>
 			Jobs		</em>
 		</a>
-			<a class="MenuButton " href="/&#9;&#9;jobseekers">
+			<a class="MenuButton " href="/&#9;&#9;talentfinder">
 		<em>
-			Job Seekers		</em>
+			Talent Finder		</em>
 		</a>
 			<a class="MenuButton " href="/&#9;&#9;employers">
 		<em>
@@ -481,8 +602,8 @@
 		</div>
 
 
-	<div class="menu"><a class="MenuButton Main" href="#"><em>Community</em></a></div>
-	<div class="submenu">
+	<div class="menu closedlanguage" headerindex="2h"><a class="MenuButton Main" href="#"><em>Community</em></a></div>
+	<div class="submenu" contentindex="2c" style="display: none;">
 
 			<a class="MenuButton " href="/&#9;&#9;people">
 		<em>
@@ -507,8 +628,8 @@
 		</div>
 
 
-	<div class="menu"><a class="MenuButton Main" href="#"><em>Academia</em></a></div>
-	<div class="submenu">
+	<div class="menu closedlanguage" headerindex="3h"><a class="MenuButton Main" href="#"><em>Academia</em></a></div>
+	<div class="submenu" contentindex="3c" style="display: none;">
 
 			<a class="MenuButton " href="/&#9;&#9;schools">
 		<em>
@@ -525,8 +646,8 @@
 		</div>
 
 
-	<div class="menu"><a class="MenuButton Main" href="#"><em>About</em></a></div>
-	<div class="submenu">
+	<div class="menu openlanguage" headerindex="4h"><a class="MenuButton Main" href="#"><em>About</em></a></div>
+	<div class="submenu" contentindex="4c" style="display: block;">
 
 			<a class="MenuButton " href="/&#9;&#9;about">
 		<em>
@@ -560,7 +681,203 @@
 
 		</div>
 
-		               		<div id="myhtmlticker" class="TickerStyle"></div>
+		               		<div id="myhtmlticker" class="TickerStyle" style="overflow: hidden;">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
+<!-- End Wayback Rewrite JS Include -->
+<div class="MessageDiv" style="display: block;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/97059721/xueting-wei">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Xueting Wei</strong>
+	~ Plastic Fabrication	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/97059721/xueting-wei">See Xueting's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/96039918/matt-jarosz">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Matt Jarosz</strong>
+	~ Me Myself &amp; Architecture-Self Portrait Project...	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/96039918/matt-jarosz">See Matt's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/93008040/ntchwaidumela-thomas">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Ntchwaidumela Thomas</strong>
+	~ Affordable Multifamily Shipping Container Housing	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/93008040/ntchwaidumela-thomas">See Ntchwaidumela's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/52829471/lee-malone">
+	        <strong>Lee Malone</strong>
+	~ Currently working on the Competition for IMAGINE...	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/52829471/lee-malone">See Lee's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/2924802/virginia-melnyk">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Virginia Melnyk</strong>
+	~ Folly 2014 Competition Entry 	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/2924802/virginia-melnyk">See Virginia's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/96905887/shelby-blessing">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Shelby Blessing</strong>
+	~ rapid prototyping of laser cut and hardened...	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/96905887/shelby-blessing">See Shelby's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/57523435/silvia-piccione">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Silvia Piccione</strong>
+	~ Sea Calm renovation / energyretro / Cape Vatican	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/57523435/silvia-piccione">See Silvia's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/87875889/alexa-getting">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Alexa Getting</strong>
+	~ Camilla Light and Sjorgras Bowl	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/87875889/alexa-getting">See Alexa's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/52757851/anurag-dania">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Anurag Dania</strong>
+	~ ews housing	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/52757851/anurag-dania">See Anurag's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/96788578/allyn-polancic">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Allyn Polancic</strong>
+	~ 3/21/14 We are going vertical! Wilshire Grand...	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/96788578/allyn-polancic">See Allyn's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/96924352/christopher-rooney">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Christopher Rooney</strong>
+	~ Conceptual Section for a Sonic Arts Centre based...	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/96924352/christopher-rooney">See Christopher's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<div class="MessageDiv" style="display: none;">
+	<a href="/web/20140407041921/http://archinect.com/people/status/73703209/katerina-hroncova-jurakova">
+			<img class="Icon" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon.png" border="0" width="12" height="12" alt="Click to see worksample">
+		<img class="IconHover" src="/web/20140407041921im_/http://archinect.com/images/nav/workupdate_icon_hover.png" border="0" width="12" height="12" alt="Click to see worksample" title="Click to see worksample">
+	        <strong>Katerina Hroncova (Jurakova)</strong>
+	~ another beautiful space for recording studios...	</a>
+	<div class="StatusLinks">
+		<a href="/web/20140407041921/http://archinect.com/people/status/73703209/katerina-hroncova-jurakova">See Katerina's status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a class="login_trigger" href="/web/20140407041921/http://archinect.com/own_status">Add your own status</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="/web/20140407041921/http://archinect.com/updates">See everyone's status</a>
+	</div>
+</div>
+<!--
+1396844335-->
+<!--
+     FILE ARCHIVED ON 04:19:21 Apr 07, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:09:16 Jan 30, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 2100.465
+  load_resource: 77.575
+  PetaboxLoader3.datanode: 1698.506 (4)
+  exclusion.robots: 0.204
+  RedisCDXSource: 360.587
+  exclusion.robots.policy: 0.188
+  PetaboxLoader3.resolve: 46.557
+  CDXLines.iter: 13.17 (3)
+  LoadShardBlock: 1719.981 (3)
+  esindex: 0.007
+--></div>
 		
 	  </div><!--/.Header-->
 
@@ -592,6 +909,9 @@
        <div class="jqmWindow" id="modal_dialog">
          Please wait... <img src="/images/nav/ajax-loader.gif" alt="loading">
        </div>
+		<div class="jqmWindow Engage jqmID1" id="social">
+			Please wait... <img src="/images/nav/ajax-loader.gif" alt="loading">
+		</div>
 <script type="text/javascript">
 _qevents.push( { qacct:"p-97pfFgotR3QOc"} );
 </script>
