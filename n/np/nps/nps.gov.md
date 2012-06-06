@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219214721id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606190838id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
