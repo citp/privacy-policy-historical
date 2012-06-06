@@ -1,37 +1,55 @@
-> *The following text is extracted and transformed from the basecamp.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125104732id_/http%3A//www.basecamp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basecamp.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606233405id_/http%3A//37signals.com/privacy) for the most accurate reproduction.*
 
-# Basecamp.com - Privacy Policy
+# 37signals Privacy Policy
 
-[Everest Basecamp](https://web.archive.org/)      [Route 66](https://web.archive.org/route-66-tour-the-mother-road/)
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-## Privacy Policy
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service of the specific application, or as otherwise required by law.
+  * We transfer information about you if 37signals is acquired by or merged with another company. In this event, 37signals will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-At Basecamp.com the privacy of our visitors is very important to us. This page contains information on the types of personal information we collect, how we use that information, and most importantly, how we keep your information safe.
 
-### Personally Identifiable Information and Log Files
 
-Like most websites we keep log files with information about our visitors. The information we collect in log files is not personally identifiable, and typically includes your Internet Protocol (IP) address, your Internet Service Provider (ISP), the browser you used to visit our site, the dates and times of your visits to our site, the pages you visited, and the links you clicked. These logs are used for traffic analysis and troubleshooting. 
+## INFORMATION GATHERING AND USAGE
 
-If you do provide personally identifiable information to us (for example your e-mail address if you sign up for a newsletter), we will not sell such information to third parties without your permission.
+  * When you register for any 37signals product we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+  * 37signals uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 37signals does not share your personal information with third parties, unless explicitly approved by you.
 
-### Advertisements, Cookies and Web Beacons
 
-Basecamp.com does not use or store any cookies on your computer.
 
-We make use of advertisements provided by third party companies to support Basecamp.com. These companies may use cookies and web beacons on Basecamp.com to collect and use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+## COOKIES
 
-A partial list of our adveristing partners can be found here: [Google Adsense third-party network](https://www.google.com/adsense/support/bin/answer.py?answer=94149).
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  * Cookies are required to use the 37signals services.
+  * We use cookies to record current session information, but do not require permanent cookies.
 
-You can opt out of cookies if the vendor or ad network offers this capability. The [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) provides a convenient location to opt out of many such cookies in one location.
 
-You can also disable or selectively turn off third-party cookies in your browser settings, or by managing preferences in certain anti-virus and anti-malware programs that may be installed on your computer. Turning off cookies can however affect your browsing experience, limiting the way you interact with certain websites.
 
-Deleting cookies on your computer will not permanently opt you out of any advertising program. Unless you disallow cookies in your browser settings, or opt out of the advertising program as described above, the next time you visit a site running the advertisements, a new cookie will be created.
+## DATA STORAGE
 
-### Google Adsense and the DoubleClick DART cookie
+37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our services. Although 37signals owns the code, databases, and all rights to the 37signals applications, you retain all rights to your data.
 
-One of the advertising programs we participate in is Google Adsense. Google uses cookies to serve ads on Basecamp.com. The DART cookie enables Google and its partners to serve ads on Basecamp.com, based on your visit to our sites and/or other sites on the Internet. DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+## DISCLOSURE
 
-### Contact Information
+  * 37signals may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service of any of our applications.
 
-If you have any questions about this page you can contact us at: [privacymessage@gmail.com](mailto:privacymessage@gmail.com)
+
+
+## CHANGES
+
+37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your 37signals service primary account holder account or by placing a prominent notice on our site. You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact [support@37signals.com](mailto:support@37signals.com).
+
+## US-EU SAFE HARBOR AND US-SWISS SAFE HARBOR
+
+37signals uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. 37signals has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view 37signals' certification, please visit <http://www.export.gov/safeharbor/>.
+
+Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
+
+## PRIVACY COMPLAINTS BY EUROPEAN UNION AND SWISS CITIZENS
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, 37signals commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact 37signals at [support@37signals.com](mailto:support@37signals.com) or by mail at 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA.
+
+37signals has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by 37signals, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+## QUESTIONS
+
+Any questions about this Privacy Policy should be addressed to [support@37signals.com](mailto:support@37signals.com) or by mail at: 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA
