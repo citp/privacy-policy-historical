@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214031902id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606225709id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Tradeking Customer Service - Tradeking Wiki
 
@@ -47,9 +47,9 @@ When you access our account holder areas, you are required to login by providing
 
 Access to your information is granted only to employees and third-party service providers who need it to perform a specific service. Our service providers are contractually obligated to keep information confidential. You are encouraged to read the privacy statements of our service providers.
 
-**Choice/Opt-out**
+**Opt-out**
 
-Users who no longer wish to receive marketing offers and promotions from TradeKing may opt-out of receiving these communications by logging into your account or by sending an e-mail.
+Users who no longer wish to receive marketing offers and promotions from TradeKing may opt-out of receiving these communications by sending an e-mail to unsubscribe@tradeking.com.
 
 Even if you decide to opt out from receiving offers and promotions from us, you must maintain an e-mail address for us to be able to continue to e-mail you trade and account information and follow US regulations.
 
@@ -73,4 +73,4 @@ The effective date of this Privacy Policy is provided below. Any updates or chan
 
 For more information or other questions regarding our Privacy Policy, please e-mail [service@tradeking.com](mailto:service@tradeking.com "Send mail to service@tradeking.com").
 
-12/03/2009 Version 004
+20110516 Privacy and Security Statement V5
