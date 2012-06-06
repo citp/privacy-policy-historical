@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208070735id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606180442id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheCelebrityCafe.com
 
