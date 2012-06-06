@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219012914id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606135006id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Inc.com
 
@@ -8,7 +8,7 @@ _Updated as of January 24, 2010_
 
 **Who We Are And How To Reach Us**
 
-[Mansueto Ventures LLC](https://web.archive.org/topic/Mansueto+Ventures+LLC "Mansueto Ventures LLC") owns and operates the [Inc.com](https://web.archive.org/topic/Inc.com "Inc.com") website, the inctechnology.com website, and all websites under the root domain of Inc.com (collectively referred to in this statement as the “Website'). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacy[at]inc.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
+Mansueto Ventures LLC owns and operates the Inc.com website, the inctechnology.com website, and all websites under the root domain of Inc.com (collectively referred to in this statement as the 'Website'). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at privacy[at]inc.com or Privacy Officer, Mansueto Ventures, 7 World Trade Center, New York, NY 10007.
 
 **Collection of Personal Information**
 
@@ -64,25 +64,25 @@ Following are the names and websites of some of the other companies who may set 
   * Casale Media - [www.casalemedia.com/privacy.html ](http://www.casalemedia.com/privacy.html)
   * Clearspring - [www.clearspring.com/legal/privacy ](http://www.clearspring.com/legal/privacy)
   * Collective Media - [www.collective-media.com/privacy](http://www.collective-media.com/privacy)
-  * [comScore](https://web.archive.org/topic/comScore+Inc. "comScore Inc.") \- [direct.comscore.com/docs/comScoreDirectPrivacyPolicy.pdf](http://direct.comscore.com/docs/comScoreDirectPrivacyPolicy.pdf)
+  * comScore - [direct.comscore.com/docs/comScoreDirectPrivacyPolicy.pdf](http://direct.comscore.com/docs/comScoreDirectPrivacyPolicy.pdf)
   * Context Web - [www.contextweb.com/ppolicy.html](http://www.contextweb.com/ppolicy.html)
   * DrivePM - [www.drivepm.com/privacy-policies.php](http://www.drivepm.com/privacy-policies.php)
-  * [Dynamic Logic](https://web.archive.org/topic/Dynamic+Logic+Inc. "Dynamic Logic Inc.") \- [www.dynamiclogic.com/na/company/privacypolicy](http://www.dynamiclogic.com/na/company/privacypolicy/)
-  * [Eyeblaster](https://web.archive.org/topic/Eyeblaster+Inc. "Eyeblaster Inc.") \- [www.eyeblaster.com/privacy.asp](http://www.eyeblaster.com/privacy.asp)
+  * Dynamic Logic - [www.dynamiclogic.com/na/company/privacypolicy](http://www.dynamiclogic.com/na/company/privacypolicy/)
+  * Eyeblaster - [www.eyeblaster.com/privacy.asp](http://www.eyeblaster.com/privacy.asp)
   * Eyewonder - [www.eyewonder.com/privacy.php](http://www.eyewonder.com/privacy.php)
-  * [Google Analytics](https://web.archive.org/topic/Google+Analytics "Google Analytics") \- [www.google.com/intl/en_ALL/privacy.html](http://www.google.com/intl/en_ALL/privacy.html)
-  * [Hitwise](https://web.archive.org/topic/Hitwise+Pty.+Ltd. "Hitwise Pty. Ltd.") \- [www.hitwise.com/other/privacy-policy.php](http://www.hitwise.com/other/privacy-policy.php)
+  * Google Analytics - [www.google.com/intl/en_ALL/privacy.html](http://www.google.com/intl/en_ALL/privacy.html)
+  * Hitwise - [www.hitwise.com/other/privacy-policy.php](http://www.hitwise.com/other/privacy-policy.php)
   * InsightExpress - [www.insightexpress.com/main.asp?pageID=143](http://www.insightexpress.com/main.asp?pageID=143)
   * Interpolls - [www.interpolls.com/privacy.html](http://www.interpolls.com/privacy.html)
   * Jupiter Media Metrix - [www.internet.com/corporate/privacy/privacypolicy.html](http://www.internet.com/corporate/privacy/privacypolicy.html)
   * Mediaplex - [www.mediaplex.com/mojo_privacy_statement.shtml](http://www.mediaplex.com/mojo_privacy_statement.shtml)
-  * [Millward Brown](https://web.archive.org/topic/Millward+Brown+Group "Millward Brown Group") IntelliQuest - [www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx](http://www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx)
-  * [Omniture](https://web.archive.org/topic/Omniture+Inc. "Omniture Inc.") \- [www.omniture.com/en/privacy/policy#optout](http://www.omniture.com/en/privacy/policy#optout)
+  * Millward Brown IntelliQuest - [www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx](http://www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx)
+  * Omniture - [www.omniture.com/en/privacy/policy#optout](http://www.omniture.com/en/privacy/policy#optout)
   * Pointroll - [www.pointroll.com/privacy-policy.aspx](http://www.pointroll.com/privacy-policy.aspx)
-  * [Quantcast](https://web.archive.org/topic/Quantcast+Corporation "Quantcast Corporation") \- [www.quantcast.com/docs/privacy](http://www.quantcast.com/docs/privacy)
+  * Quantcast - [www.quantcast.com/docs/privacy](http://www.quantcast.com/docs/privacy)
   * Quigo - [www.quigo.com/privacy.htm](http://www.timeinc.net/legal/www.quigo.com/privacy.htm)
   * Unicast - [www.unicast.com/privacy-policy.aspx](http://www.unicast.com/privacy-policy.aspx)
-  * [Vizu](https://web.archive.org/topic/Vizu+Inc. "Vizu Inc.") \- [answers.vizu.com/privacy-policy.htm](http://answers.vizu.com/privacy-policy.htm)
+  * Vizu - [answers.vizu.com/privacy-policy.htm](http://answers.vizu.com/privacy-policy.htm)
 
 
 
