@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143632id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606052222id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Lipsy - Privacy Policy
 
@@ -10,14 +10,14 @@ While we know that any woman wearing Lipsy can't help but get noticed, there are
 
 ##  Who Is Lipsy.co.uk?
 
-Lipsy.co.uk is a website operated by [Lipsy Limited](http://content.lipsy.co.uk/ImagesA/CMSImages/A091A005C5BE427BB5E56F0D93A048C5). We offer the latest fashion styles and trends delivered straight to the doorsteps of our customers and aim to be the most popular online fashion store in the UK.
+Lipsy.co.uk is a website operated by [Lipsy Limited](http://content.lipsy.co.uk/ImagesB/CMSImages/A091A005C5BE427BB5E56F0D93A048C5). We offer the latest fashion styles and trends delivered straight to the doorsteps of our customers and aim to be the most popular online fashion store in the UK.
 
 ##  What Information Do We Collect?
 
 Our Website is free for you to browse through and read. We only ask for your details for the following reasons:
 
-  * If you want to purchase product(s) from the Website
-  * If you want to register your details with us on the website
+  * If you want to purchase product(s) from the Website 
+  * If you want to register your details with us on the website 
   * If you want to take part in a prize draw or competition 
   * If you want to send us an email 
   * If you want to receive Lipsy news & exclusive offers via email 
@@ -29,11 +29,20 @@ When you place an order through our website, we may collect the following inform
 
 ##  What Do We Do With Your Information?
 
-We respect your privacy and all personal information obtained through this website is kept secure in accordance with the Data Protection Act 1998. We use information we collect from you to process your orders and to offer you the best possible customer service. We will only send you marketing material if you have specifically opted. You may opt out at any time by clicking the 'unsubscribe' link we put at the bottom of all our newsletters, through your account details or by opting out at registration. We will never share any of your personal information with third parties unless specified at the point of email collection.
+We respect your privacy and all personal information obtained through this website is kept secure in accordance with the Data Protection Act 1998. We use information we collect from you to: 
 
-##  Will You Send Me Emails?
+  *  Process your orders 
+  *  Manage your account 
+  *  Administer the website 
+  *  Monitor customer traffic patterns and site usage to help us develop and improve the design and layout of the site 
+  *  Notify you about enhancements to our services such as changes to the website, new services and special offers. 
 
-We will send you email updates unless you opt not to receive them. 
+
+
+##  Will You Send Me Marketing?
+
+We will send you email updates unless you opt not to receive them.   
+ We will only send you marketing material if you have specifically opted to receive it. You may opt out at any time by clicking the 'unsubscribe' link we put at the bottom of all our newsletters, through your account details or by opting out at registration. We will never share any of your personal information with third parties unless specified at the point of email collection. 
 
 ##  How Do I Unsubscribe?
 
@@ -43,20 +52,50 @@ Lipsy's policy is to allow users to unsubscribe from our regular emails at any t
 
 If you have sent a message asking us to stop sending emails, and this hasn't happened, it may be because the email address to which we are sending them is not the same as the address you sent your request from. Please check the address we are using and include this information in your request. The easiest way to do this is to return to us the whole of the unwanted email. The address we are sending to is included at the bottom of the message. 
 
-##  What Are Cookies?
+##  About Cookies
 
-No, unfortunately they are not biscuits! "Cookies" are small pieces of information, which are stored by your web browser on your computer's hard drive. Our cookies do not contain any personally identifying information. We may use cookies to store visitors' preferences, record session information, record what pages users' visit, alert visitors to new areas that we think might be of interest to them and record past activity on a site in order to provide a better service when visitors return to our site. We also ensure that visitors are not repeatedly sent the same banner ads and customise web page content based on a visitor's browser type or other information that the visitor sends. 
+**What are cookies?  
+**Cookies are small text files that are stored on your PC, phone or other web enabled device when you visit the Lipsy website. They are not harmful and do not contain any confidential information such as your home address, date of birth or credit card details.  
+Cookies are an essential part of how our site works. Some of these cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience.  
+By using our site, you also consent to the use of these cookies. Cookies are used on our site for the following reasons:
 
-  
+  * To allow you to securely sign in to your Lipsy Account, so that you can use 'My Account' features such as order information, making payments and viewing statements. 
+  * To store the content of your online shopping bag whilst you browse the site and to complete an order.If you want to send us an email 
+  * To record the areas of the website that you have visited, products you have viewed and time spent browsing, as well as the products you purchased. Lipsy uses this information to help make the website more user friendly, develop our site design and to continuously improve the quality of the service we provide. 
+  * To distribute visitors to our site evenly across platforms to ensure the content is served at the fastest possible speed. 
 
 
-##  Your Consent
 
-By using our website and submitting your information to Lipsy.co.uk, you consent to the collection and use of this information by Lipsy Limited. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you are not comfortable with any of the changes to our Privacy Policy, you will have the opportunity to remove your information from our network at any time. 
+We also offer you the facility to share your experience on our site through social sites such as Facebook, Twitter and Pinterest. By using these features, you are also consenting to allow cookies from these providers. More information about how these providers use cookies can be found at their websites.
+
+**Can I turn off cookies?  
+**Lipsy uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.   
+To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computerâ€™s hard drive. For information on how to disable cookies, please consult the 'Help' tab of your browser via the menu bar.  
+It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
+
+**Our use of advertisement tracking  
+**From time to time, we also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
+
+  * eSearchVision: <http://www.google.com/policies/privacy/>
+  * Struq: <http://www.struq.com/privacy_policy.php>
+  * Adjug: <http://www.adjug.com/info/privacy.asp>
+
+
+
+These cookies are as safe as the ones used whilst you browse our site and neither of these third parties collects any personal data from which they would be able to identify individual customers.  
+Lipsy is not responsible for the content or privacy policies of third parties or other websites.
+
+##  Access to your Information and Correction
+
+You have the right to request a copy of the information that we hold about you.  If you would like a copy of some or all of your personal information please email [dataprotection@lipsy.co.uk](mailto:dataprotection@lipsy.co.uk).  Please note there is a £10 fee.  We want to make sure that your personal information is accurate and up to date.  You may ask us to correct or remove information you think is inaccurate.  If you think the information we hold on you is incorrect. 
+
+##  Changes to our Privacy Policy
+
+By using our website and submitting your information to Lipsy.co.uk, you consent to the collection and use of this information by Lipsy Limited. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you are not comfortable with any of the changes to our Privacy Policy, you will have the opportunity to remove your information from our network at any time.  See Access to your Information and Correction above.  The Privacy Policy was last updated on 22/02/12. 
 
 ##  Links
 
-This website may contain links to other sites. Lipsy.co.uk is not responsible for the privacy practices or the content of external websites. If you have a question about the privacy policy of those websites, please contact them directly. 
+This website may contain links to other sites. Lipsy.co.uk is not responsible for the privacy practices or the content of external websites. If you have a question about the privacy policy of those websites, please read their Privacy Policy or contact them directly.
 
 ##  3D Secure
 
