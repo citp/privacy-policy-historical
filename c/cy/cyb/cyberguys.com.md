@@ -1,34 +1,51 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202022050id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606171551id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy Policy
 
-|  |  |   Privacy and Security |   
+|  |  |  |   
 ---|---  
-| [](http://www.cyberguys.com/?&cm_mmc=Email-_-Special%20Occasions-_-C0110%20Cyber%20Monday%20sale-_-Cell_12_Homepage "Continue Shopping") |  |   
+| [](http://www.cyberguys.com/ "Continue Shopping") |  |   
 ---|---|---  
   
-| This is the site of Cyberguys®  
+| 
+
+## This is the site of Cyberguys®  
+  
 ---  
 Our mailing address is:  
 11321 White Rock Rd.  
 Rancho Cordova, CA 95742  
 We can be reached via e-mail at: [customercare@cyberguys.com](mailto:customercare@cyberguys.com) or you can reach us by telephone at 1.800.892.1010  
-Our Promise of Privacy  
+  
+## Our Promise of Privacy  
+  
 We safeguard information about you according to established and commercially reasonable security standards and procedures. We also assess new technology for protecting customer information on an ongoing basis.  
-Protecting Information Exchanged Online  
+  
+## Protecting Information Exchanged Online  
+  
 When you place an online order with us, or provide information to us at our website, you provide personal and financial information that is necessary for us to process your order. Information provided to us at our website is sent in a "secure session" established with Secure Sockets Layer (SSL). SSL technology secretly encodes information that is sent over the Internet between your computer and Cyberguys.com  
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  
 There are two easy ways to tell if your browser is using a secure connection. One way is to look for a locked padlock icon at the bottom of your browser window.  
 Another way is to look for the change from the normal "http:" to "https" at the beginning of the web page address. The "s" indicates a secure connection. When you see the locked padlock or the "s" you can be 100% sure that your online data is secure!  
-Accurate and Updated Information  
+  
+## Accurate and Updated Information  
+  
 We maintain procedures designed to keep our records accurate, current and complete. If you find that our records are incomplete, inaccurate, or not current, please e-mail, write or call us and we will investigate the matter and where appropriate, promptly correct the information. Contact information is provided above.  
-What Information is Collected and How is it used?  
+  
+## What Information is Collected and How is it used?  
+  
 The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please feel free to e-mail us at [customercare@cyberguys.com](mailto:customercare@cyberguys.com) or call us at 1.800.892.1010 during regular business hours. We do not sell, rent or share email addresses or telephone numbers.  
-Linked Sites  
+  
+## Linked Sites  
+  
 We have not reviewed all of the sites linked to our site. Linkage to another site does not indicate any approval or endorsement of any material contained in a linked site, and we are not responsible for their contents. Your connection to linked sites is at your own risk.  
-How To Contact Us Regarding Privacy and Security Issues  
+  
+## How To Contact Us Regarding Privacy and Security Issues  
+  
 We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at [customercare@cyberguys.com](mailto:customercare@cyberguys.com) or call us at 1.800.892.1010 during regular business hours.  
-Company Guidelines  
+  
+## Company Guidelines  
+  
 | 1. | For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).  
 ---|---  
 2. | We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.  
