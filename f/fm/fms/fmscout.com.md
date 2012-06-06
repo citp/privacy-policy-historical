@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216144053id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmscout.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606070036id_/http%3A//www.fmscout.com/a-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
