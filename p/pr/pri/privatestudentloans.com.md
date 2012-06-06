@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007001833id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606225714id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
 
-# Private Student Loans Privacy Policy from the Student Loan Network
+# Privacy Policy from Student Loan Network | PrivateStudentLoans.com
 
 Edvisors is committed to protecting the privacy of your personal information. As part of that commitment, we provide this policy to explain our privacy practices, including what information we collect, how we use it, and what choices you have about collection and use of your personal information. We urge you to review this entire policy. 
 
