@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121021449id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606161645id_/http%3A//uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: UUA Privacy and Data Security Policy
 
@@ -56,7 +56,7 @@ This policy addresses the collection, use, and safeguarding of data about indivi
  
     * Authorized UUA staff members responsible for keeping information up-to-date. For example, the Ministry and Professional Leadership department maintains information about religious professionals who serve our congregations. The software permits staff to access only the information needed to do their jobs.
     * Each congregation may appoint up to four authorized persons who can view, change and download basic contact and position information (name, address, phone, email, positions held) about the congregation and its members, leaders and staff. Those authorized persons cannot access information about other congregations or their leaders and members.
-    * District staff members can view, but not change, basic contact and position information about the leaders and staff of the congregations within their own District.
+    * District staff members can view, but not change, basic contact and position information about the leaders and staff of the congregations within their own District. That information may also be included in online Directory listings maintained by a District or Regional office and visible only to authorized persons within the jurisdiction.
     * In the future, each congregation can elect to have an online directory of its own members and leaders. (Individuals can opt out of the online directory altogether, or they can indicate whether to exclude their address, phone number, and/or email address.) Only members and leaders of a congregation can view the online directory.
     * In the future, each member of a congregation can view and change only their own information.  
  
@@ -102,21 +102,23 @@ This policy addresses the collection, use, and safeguarding of data about indivi
  
   14. Does the UUA comply with laws and industry standards regarding data security and privacy?  
  
-    * Yes. The Vice President of Finance, the Director of Information Technology Services, and the Database Administrator oversee a portfolio of coordinated projects whose aim is to define and fulfill our ethical duty to our constituents in addition to achieving, monitoring, and maintaining compliance with the law. A program is in development that will ensure compliance with both the latest Payment Card Industry Data Security Standard ([PCI DSS 1.2](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml)) and the new Massachusetts data privacy law described as the toughest in the nation ([201 CMR 17.00](http://www.mass.gov/Eoca/docs/idtheft/201CMR17amended.pdf) (PDF): Standards for The Protection of Personal Information of Residents of the Commonwealth)  
+    * Yes. The Vice President of Finance, the Director of Information Technology Services, and the Database Administrator oversee a portfolio of coordinated projects whose aim is to define and fulfill our ethical duty to our constituents in addition to achieving, monitoring, and maintaining compliance with the law. A program is in development that will ensure compliance with both the latest Payment Card Industry Data Security Standard ([PCI DSS 1.2](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml)) and the new Massachusetts data privacy law described as the toughest in the nation ([201 CMR 17.00 (PDF)](http://www.mass.gov/Eoca/docs/idtheft/201CMR17amended.pdf): Standards for The Protection of Personal Information of Residents of the Commonwealth)  
  
   15. Whom should a person contact with a question or to have information corrected or removed?  
  
     * Individuals can ask their congregation's administrator to change their information, or they can contact the UUA's Data Services department at [data_services @ uua.org](mailto:data_services@uua.org) or [circulation @ uua.org](mailto:circulation@uua.org) or (617) 948-4654 with their request.
     * Questions concerning data stored about gifts should be directed to the Stewardship & Development department at [giftinfo @ uua.org](mailto:giftinfo@uua.org) or (617) 948-4624.
     * Individuals can [view and change](https://web.archive.org/my.uua.org) their own contact information online. This requires a one-time registration for identity verification.
-    * _UU World_ magazine subscribers can also [submit address changes online](http://www.uuworld.org/subscriptions/changeyouraddress.shtml).
+    * _UU World_ magazine subscribers can also [submit address changes online](http://subscriptions/changeyouraddress.shtml).
     * Individuals can "opt-out" of receiving various email correspondence from the UUA (e.g. email newsletters) by clicking the unsubscribe button in the body of the email.
     * Persons with questions or concerns about this policy or data security at the UUA are welcome to contact us at [data_services @ uua.org](mailto:data_services@uua.org) or (617) 948-4654.
 
 
 
-This work is made possible by the generosity of individual donors. Please consider [making a donation](http://www.kintera.org/site/lookup.asp?c=kkLRJ7MQKtH&b=5099485) today.
+For more information contact [data_services @ uua.org](mailto:data_services@uua.org).
 
-Last updated on Thursday, June 2, 2011. 
+This work is made possible by the generosity of individual donors. Please consider [making a donation](http://giving.uua.org/page.aspx?pid=419) today.
+
+Last updated on Wednesday, December 7, 2011. 
 
 Sidebar Content, Page Navigation
