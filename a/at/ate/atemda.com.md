@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the atemda.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421205806id_/http%3A//www.admeta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atemda.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/%3Fp%3D28) for the most accurate reproduction.*
 
-# Privacy Policy
+# Admeta makes buying and selling online media faster, smarter and more efficient.
 
 ## GENERAL AGREEMENTS
 
-##### Whitebox Echo
+##### WHITEBOX ECHO
 
-[ Whitebox Echo Direct Sales EULA (End-User Agreement for Advertisers)](http://admeta.com/images/stories/files/eula_%20echo_directsales_090228_appr.pdf "Whitebox Echo Direct Sales EULA \(End-User Agreement for Advertisers\)")
+[Whitebox Echo Direct Sales EULA (End-User Agreement for Advertisers)](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/eula_%20echo_directsales_090228_appr.pdf "Whitebox Echo Direct Sales EULA \(End-User Agreement for Advertisers\)")
 
-##### Whitebox Tango
+##### WHITEBOX TANGO
 
-[ Whitebox Tango Direct Sales EULA (End-User Agreement for Publishers and Sales Companies)](http://admeta.com/images/stories/files/eula%20tango%20direct%20sales%20090315_approved.pdf "Whitebox Tango Direct Sales EULA \(End-User Agreement for Publishers and Sales Companies\)")
+[Whitebox Tango Direct Sales EULA (End-User Agreement for Publishers and Sales Companies)](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/eula%20tango%20direct%20sales%20090315_approved.pdf "Whitebox Tango Direct Sales EULA \(End-User Agreement for Publishers and Sales Companies\)")
+
+[Whitebox Tango General Terms and Conditions för External Demand Campaign Buy](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/Campaign%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand Campaign Buy")
+
+[Whitebox Tango General Terms and Conditions för External Demand RTB Buy](https://web.archive.org/web/20120606154410id_/http%3A//www.admeta.com/agremeents/RTB%20Buy,%20Ts%20and%20Cs.pdf "Whitebox Tango General Terms and Conditions för External Demand RTB Buy")
 
 ## PRIVACY POLICY
 
-This is a privacy policy for Admeta AB. Our homepage on the Web is located at http://www.admeta.com . The full text of our privacy policy is available on the Web at [http://www.admeta.com/w3c/privacypolicy.html](http://admeta.com/w3c/privacypolicy.html "Privacy Policy") . Users may go to <http://www.admeta.com/optinout/optinout.asp> for information on how to opt-in or opt-out of use of their information.
+This is a privacy policy for Admeta AB. Our homepage on the Web is located at http://www.admeta.com . The full text of our privacy policy is available on the Web at <http://www.admeta.com/w3c/privacypolicy.html> . Users may go to <http://www.admeta.com/optinout/optinout.asp> for information on how to opt-in or opt-out of use of their information.
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
 Admeta AB, HQ  
 Vallgatan 26  
 S-411 16 GÖTEBORG  
-Phone +46 (0)31 23 34 50  
+Phone             +46 (0)31 23 34 50        
 Telefax +46 (0)31 701 84 50
 
-You may contact us by e-mail at [leif@admeta.com](mailto:leif@admeta.com) . You may call us at +46 31 23 33 50.
+You may contact us by e-mail at [leif@admeta.com](mailto:leif@admeta.com) . You may call us at             +46 31 23 33 50      .
 
 Dispute Resolution and Privacy Seals  
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-New Dispute: If you have any dispute regarding this P3P, please contact Leif at [leif@admeta.com](mailto:leif@admeta.com) .
+New Dispute: If you have any dispute regarding this P3P, please contact Leif at [leif@admeta.com](mailto:leif@admeta.com) .
 
 Additional Information  
 This policy is valid for 1 day from the time that it is loaded by a client.
@@ -145,7 +149,7 @@ INT
 Interactive data is collected.
 
   
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment> .
+The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at<http://www.w3.org/TR/p3pdeployment> .
 
 ## POLICY EVALUATION
 
