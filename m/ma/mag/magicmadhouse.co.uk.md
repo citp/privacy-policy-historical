@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magicmadhouse.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103105423id_/http%3A//www.magicmadhouse.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmadhouse.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606171323id_/http%3A//www.magicmadhouse.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
-# Privacy Policy
+# Magic Madhouse Private Policy | Private Policy Magic Madhouse
 
 Magic Madhouse is committed to ensuring your privacy is protected. We use information in accordance with the Data Protection Act 1998.
 
