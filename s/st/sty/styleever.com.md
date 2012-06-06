@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the styleever.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207142859id_/http%3A//www.styleever.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleever.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144431id_/http%3A//www.styleever.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Styleever.com | Privacy Policy
 
 _**General Principles:  
 **_
 
 Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.We categorise information about you (collectively referred to as "Personal Information") as follows:
 
-a) Profiling Information: Information which you provide when you register for a Service, which may include some or all of the following: - Information about your personal identity such as gender, marital status, age, preferences, likes and dislikes etc.; - Your financial information such as your banking details and any information relating to your income and lifestyle levels; and - Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like. - In the case of Facebook alligned services (if so opted by you), publicly available information of your friends, their likes and dislikes, etc. 
+a) Profiling Information: Information which you provide when you register for a Service, which may include some or all of the following: - Information about your personal identity such as gender, marital status, age, preferences, likes and dislikes etc.; - Your financial information such as your banking details and any information relating to your income and lifestyle levels; and - Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like. - In the case of Facebook alligned services (if so opted by you), publicly available information of your friends, their likes and dislikes, etc.
 
-b) Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers. 
+b) Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers.
 
 c) Service Usage: Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads.
 
 d) Log information: Information such as your web request, IP address, browser type, browser language, date and time of request.
 
-e) Transactional Information: Transactional history (other than banking details) about your e-commerce activities. 
+e) Transactional Information: Transactional history (other than banking details) about your e-commerce activities.
 
-f) Correspondence Information: Content, information about your correspondents, and the destination/origin of common notifications between you and any other person using our Services, which include email communications, blog, chat room and discussion board communications, instant message communications, experts forum communications, faxmail communications, membership of mailing lists etc. 
+f) Correspondence Information: Content, information about your correspondents, and the destination/origin of common notifications between you and any other person using our Services, which include email communications, blog, chat room and discussion board communications, instant message communications, experts forum communications, faxmail communications, membership of mailing lists etc.
 
-g) User IDs: Your usernames, passwords, email addresses and other security-related information used by you in relation to our Services. 
+g) User IDs: Your usernames, passwords, email addresses and other security-related information used by you in relation to our Services.
 
 h) Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc. We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services. We do not, for any reason whatsoever sell your Personal Information to any third party or otherwise trade on it.
 
