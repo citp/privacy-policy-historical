@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204072842id_/http%3A//www.businessinsurance.com/section/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606191102id_/http%3A//www.businessinsurance.com/section/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |Business Insurance News |Business Insurance
 
 ## Privacy Policy 
 
-Businessinsurance.com is a news and information service from Business Insurance, a business unit of Crain Communications Inc. Our postal address is 360 N. Michigan Ave., Chicago, IL 60601. We can be reached by e-mail at [help@BusinessInsurance.com](mailto:help@BusinessInsurance.com) or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions at [www.businessinsurance.com/section/terms-of-use](http://www.businessinsurance.com/section/terms-of-use). 
+Businessinsurance.com is a news and information service from Business Insurance, a business unit of Crain Communications Inc. Our postal address is 150 N. Michigan Ave., Chicago, IL 60601. We can be reached by e-mail at [help@BusinessInsurance.com](mailto:help@BusinessInsurance.com) or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions at [www.businessinsurance.com/section/terms-of-use](http://www.businessinsurance.com/section/terms-of-use). 
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
 
