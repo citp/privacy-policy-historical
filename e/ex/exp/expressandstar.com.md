@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressandstar.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017084830id_/http%3A//www.expressandstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressandstar.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606141812id_/http%3A//www.expressandstar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Express & Star
 
@@ -100,3 +100,15 @@ o Leave as a result of your visits to our site (including but not limited to, tr
 Questions, comments and requests regarding this privacy policy are welcomed and should be address to [c.leggett@expressandstar.co.uk](mailto:c.leggett@expressandstar.co.uk).
 
 **Last updated January 12 2009**
+
+## Lifestyle
+
+[ ](http://www.expressandstar.com/lifestyle/dining-out/?diffuser) [Interactive Dining Out map](http://www.expressandstar.com/lifestyle/dining-out/?diffuser)
+
+Hundreds of reviews by the Express & Star and Shropshire Star's teams to help you decide where to eat.
+
+## OUR NEW APP
+
+[ ](http://www.expressandstar.com/news/2012/01/16/get-our-new-app-plus-one-week-of-digital-paper-access-free/) [Get the new E&S app](http://www.expressandstar.com/news/2012/01/16/get-our-new-app-plus-one-week-of-digital-paper-access-free/)
+
+Download the Express & Star’s new app to your iPad or iPhone to get one week of access to our digital newspapers absolutely FREE. 
