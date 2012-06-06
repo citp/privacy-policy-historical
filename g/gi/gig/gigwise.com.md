@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230170722id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606140135id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Policy | Gigwise
 
@@ -31,7 +31,7 @@ Cookies do not attach to Your system and damage Your files. If You do not want i
 **Opt-Out**  
 You may opt out of some tracking cookies that will be able to identify you on other networks by using the following links:  
 <http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery>  
-[http://www.networkadvertising.org/managing/opt_out\\.php](http://www.networkadvertising.org/managing/opt_out/.php)
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Security**  
 Security is very important to Us. Security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
