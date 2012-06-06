@@ -1,34 +1,8 @@
-> *The following text is extracted and transformed from the flightschedulepro.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206233605id_/http%3A//www.flightschedulepro.com/front_endv2/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightschedulepro.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606024447id_/http%3A//www.flightschedulepro.com/front_endv2/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Schedule Pro
 
-**Flight Schedule Pro  
-PRIVACY POLICY  
-**
-
-**We Respect Your Rights.** **Your information is safe with Flight Schedule Pro.**
-
-**I. Overview**
-
 **This Privacy Policy explains in detail the information we collect and how we use that information. We take your privacy very seriously and will only use your information in accordance with this Privacy Policy. We won't rent or sell any personally identifiable information to third parties.** **Flight Schedule Pro will hold and transmit your personal information in a safe, confidential and secure environment.**
-
-  * What personally identifiable information of yours is collected by Flight Schedule Pro?
-
-  * Who is collecting the information?
-
-  * How the information is used?
-
-  * With whom can the information may be shared?
-
-  * What choices are available to you regarding collection, use and distribution of the information?
-
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information that Flight Schedule Pro.com has collected?
-
-  * How can you correct any inaccuracies in the information?  
-
-
-
-
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact Flight Schedule Pro at support@flightschedulepro.com.
 
@@ -85,16 +59,7 @@ Authorized company personnel as well as authorized representatives from your Fly
 **Required Account Information  
 **We collect your information and store it on our servers located in the Unites States. We use this information to do the following:
 
-  1. Provide you with our web-based services
-
-  2. Provide you with customer service and support
-
-  3. We give you the option (in your Account Profile) to receive the Flight Schedule Pro newsletter to stay informed on new features and service offerings.
-
-
-
-
-**Internal Purposes  
+ **Internal Purposes  
 **We are in regular communication with our users answering requests for services and solving customer support issues. Flight Schedule Pro sends out system emails on a regular basis such as to confirm your email address, notify you of upcoming reservations, upcoming currency expirations, as well as to send you notices and other informational disclosures required by law (for example, amendments to this privacy statement). These emails are not optional but are generally informational and helpful to you. 
 
 With your option you can receive the Flight Schedule Pro newsletter to stay up to date on changes in services and new features and tips, as well as questionnaires. You can change these options at any time in the My Account section.
@@ -107,20 +72,3 @@ With your option you can receive the Flight Schedule Pro newsletter to stay up t
 **  
 Disclosure To Third-Parties**  
 We want to make your interaction with your Flying Organization a more enjoyable experience by giving you a secure and reliable place in which to store your pilot information and other personally identifiable information. The Flying Organization you register with has access to the information you store in Flight Schedule Pro. However for your security, your Flying Organization does not have access to your password. Other cases where your personally identifiable information is disclosed to third parties: 
-
-  1. We disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action.
-
-  2. If we deem it necessary, we may disclose information to cooperate in investigation of fraud or other illegal activity.
-
-  3. We share aggregated statistical data with potential business partners or to stimulate our marketing efforts. For example, we may disclose that "we have 10,000 registered users in Florida." This information will not contain personally identifiable information.
-
-
-
-
-**V. Viewing And Updating Your Information** **  
-** You can always review information provided by visiting the My Account section and make changes to that information by logging into your account.
-
-**VI. Questions About Our Privacy Policy?   
-**If you have any questions about our Privacy Policy or our practices, you can email us at support@flightschedulepro.com or you can call 866.391.8324 or write us at Flight Schedule Pro, 15128 Glenwood Avenue, Overland Park, KS 66223.
-
-This Privacy Policy took effect on February 1, 2005\. This Privacy Policy was last updated on February 20, 2007.
