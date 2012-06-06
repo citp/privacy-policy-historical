@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029014142id_/http%3A//www.go2convert.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606185221id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Go2convert.com
 
@@ -19,4 +19,14 @@ Advertising partners may set cookies when their ads appeared on Go2Convert.com t
 To protect the loss, misuse and alteration of information under our control, log file access is restricted to system administrators only once stored on Go2Convert.com server.
 
 **Contact Information**   
-If you have any questions about this privacy statement, please contact us at editor(at)PHPKode.info.
+If you have any questions about this privacy statement, please contact us at editor(at)iKode.com.
+
+Recent Posts
+
+[IMG to JPEG](https://web.archive.org/faq/img-to-jpeg/) IMG can be converted to JPEG with our online converter. This online converter is free for every body.
+
+[PSD to JPEG](https://web.archive.org/faq/psd-to-jpeg/) PSD can be converted to JPEG with our online converter. This online converter is free for every body.
+
+[CR2 to JPEG](https://web.archive.org/faq/cr2-to-jpeg/) CR2 can be converted to JPEG with our online converter. This online converter is free for every body.
+
+[NEF to JPEG](https://web.archive.org/faq/nef-to-jpeg/) Nikon Electric Film can be converted by our online convert tool. Upload your RAW files to our converter and then click convert to finish.
