@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the apne.tv privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230202944id_/http%3A//www.apne.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apne.tv privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606082904id_/http%3A//apne.tv/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of Apne TV
 
-## Sponsers  
-  
-| 
+### Privacy Policy
 
 We are committed to ensure that privacy of a user is never compromised at Apne.tv. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as "data" below) that may be collected by this site, please read carefully and also free to contact us at _ **contact@apne.tv**_ for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site's owner, nor does it apply to persons that are not employees or agents of this website.
 
@@ -20,9 +18,4 @@ The Privacy policy of this website would be regulated on constant basis in-order
 
 Please contact us at contact@apne.tv for any questions and we do not take any responsibilty for any factors that are not in-control of the site's owner that would result in breach of privacy. 
 
-| 
-
-## Sponsers
-
-  
-
+[Kuch Toh Log Kahenge](http://www.apne.tv/episodes/id/186/Kuch-Toh-Log-Kahenge.html "Kuch toh log kahenge") [Dekha Ek Khwaab](http://www.apne.tv/episodes/id/211/Dekha-Ek-Khwaab.html "Dekha Ek Khwaab") [Parvarish Sony TV](http://www.apne.tv/episodes/id/212/Parvarish---Kuch-Khatti-Kuch-Meethi.html "Parvarish Sony TV") [Hitler Didi](http://www.apne.tv/episodes/id/210/Hitler-Didi.html "Hitler Didi")
