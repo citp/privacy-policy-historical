@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 37signals.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228090501id_/http%3A//37signals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 37signals.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606233405id_/http%3A//37signals.com/privacy) for the most accurate reproduction.*
 
 # 37signals Privacy Policy
 
@@ -38,17 +38,17 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your 37signals service primary account holder account or by placing a prominent notice on our site. You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact [support@37signals.com](mailto:support@37signals.com).
 
-## US-EU SAFE HARBOR
+## US-EU SAFE HARBOR AND US-SWISS SAFE HARBOR
 
-[](http://www.export.gov/safeharbor/)
+37signals uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. 37signals has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view 37signals' certification, please visit <http://www.export.gov/safeharbor/>.
 
-37signals uses annual self-assessments to assure compliance within the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union. Our privacy policy above serves as our statement of adherence to the US-EU Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
+Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
 
-## PRIVACY COMPLAINTS BY EUROPEAN UNION CITIZENS
+## PRIVACY COMPLAINTS BY EUROPEAN UNION AND SWISS CITIZENS
 
-In compliance with the Safe Harbor Principles, 37signals commits to resolve complaints about your privacy and our collection or use of your personal information. European Union (EU) citizens with inquiries or complaints regarding this privacy policy should first contact 37signals at [support@37signals.com](mailto:support@37signals.com) or by mail at 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA.
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, 37signals commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact 37signals at [support@37signals.com](mailto:support@37signals.com) or by mail at 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA.
 
-37signals has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by 37signals, you may contact the BBB EU SAFE HARBOR program at: Council of Better Business Bureaus, Inc., BBB EU SAFE HARBOR, 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203, USA; phone 703-276-0100; web www.bbb.org/us/safe-harbor-complaints
+37signals has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by 37signals, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## QUESTIONS
 
