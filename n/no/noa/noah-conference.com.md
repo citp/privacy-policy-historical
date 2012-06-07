@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211172736id_/http%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607162929id_/http%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
 
-# NOAH Conference London 2011 | NOAH Conference Website Privacy Policy
+# NOAH Conference Website Privacy Policy - NOAH Conference
 
 The NOAH Conference Website (hereinafter referred to as the **“NOAH”** ) is operated by NOAH Advisors Ltd., a company organized under the laws of the UK, with offices at Turks Row, 20 Cavalry Square (49), London SW3 4RB, UK (hereinafter referred to as **“NOAH”** ). Additional information about NOAH, such as contact details, as well as the name of the authorized representatives can be found under the **“Contact”** button displayed in the navigation bar of the NOAH Conference Website.
 
