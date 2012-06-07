@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fas.ie privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215535id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.ie privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607070621id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.*
 
 # FÁS - Privacy Statement for FÁS
 
@@ -40,7 +40,29 @@ FÁS do not knowingly collect any personal information from children.
 
 ## Use of Cookies
 
-FÁS do not use cookies apart from temporary session cookies which enable a visitors web browser to remember which pages on this website have already been visited. 
+Some sections of the FAS website use cookies. These cookies are encrypted and contain no personally identifiable information. All cookies have an expiration time after which they will be unusable.  
+
+
+## Use of Google Analytics   
+
+
+FAS use Google analytics to provide us with information on traffic on our website. Google analytics will collect information from you this information may include the following: 
+
+  * Type of web browser used, software manufacture and version number.
+  * Type of operating system
+  * Network location and IP address
+  * Time of visit
+  * Pages visited
+  * Time spent on each page of the website
+  * Referring site statistics 
+    * The website (URI) the user came through in order to arrive at this website (example: clicking on a hyperlink from Yahoo.com that took the user to this website) 
+    * Search engine query used (example: typing in a phrase into a search engine like Google, and clicking on a link from that search engine) 
+
+
+
+  
+The above information will be collected by Google and may be stored on databases located outside of Ireland. The above information does not include any personally identifiable information. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.   
+
 
 ## Enforcement of this Privacy Statement
 
