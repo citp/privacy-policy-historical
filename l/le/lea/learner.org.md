@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229174132id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608012353id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Annenberg Media: Privacy Policy
+# Annenberg Learner: Privacy Policy
 
 | 
 
@@ -35,7 +35,7 @@ The electronic information our servers collect about visitors depends on what th
 
 > We collect the IP ("internet protocol") addresses of our site visitors, in order to measure the number and frequency of visitors. This is often referred to as collecting information about "traffic." 
 > 
-> We use "cookies" on our site in only one way-and our cookies are temporary. If you order our videos or books online, temporary cookies are used for the duration of your session with us. These temporary cookies are sometimes referred to as "session management" cookies. Such temporary cookies allow you to go back and forth between different Web pages without losing the information you supplied at the start of the session. These temporary cookies disappear as soon as you, the visitor, close your Internet browser.
+> We use cookies on our site to facilitate the purchase of products, viewing of videos, interaction with various Web site forms, and the general user experience on our Web site. If you do not wish to accept cookies from our Web site, you can set your Web browser to block the cookies, but this may impact your use of the Web site. 
 
 **2\. If you identify yourself personally to us by sending us an email or using an online form to order materials, to register as a workshop site leader, or to subscribe to any of our weekly or monthly email news updates:**
 
