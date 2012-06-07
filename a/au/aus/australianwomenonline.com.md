@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082240id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607072211id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Australian Women Online
 
