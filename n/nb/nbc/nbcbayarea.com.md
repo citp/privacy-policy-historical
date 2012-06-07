@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nbcbayarea.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218191242id_/http%3A//www.nbcbayarea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcbayarea.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607020735id_/http%3A//www.nbcbayarea.com/privacy) for the most accurate reproduction.*
 
-# | NBC Bay Area
-
-## Privacy Policy
+# Privacy Policy | NBC Bay Area
 
 _This Privacy Policy was last updated on July 8, 2011._
 
