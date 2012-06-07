@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the semetrical.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124413id_/http%3A//www.semetrical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semetrical.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607023406id_/http%3A//www.semetrical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Semetrical
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
 **(1) What information do we collect?**
 
@@ -13,7 +13,7 @@ We may collect, store and use the following kinds of data:
 (c) information that you provide to us for the purpose of registering with us;   
 (d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;   
 (e) any other information that you choose to send to us; and   
-(f) information about websites that is publicly available. 
+(f) information about websites that is publicly available.
 
 **(2) Cookies**
 
@@ -29,7 +29,7 @@ Our advertisers/payment services providers may also send you cookies.
 
 We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin. 
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites. 
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites.
 
 **(3) Using your personal data**
 
@@ -50,7 +50,7 @@ We may use your personal information to:
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us. 
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
 **(4) Disclosures**
 
@@ -62,7 +62,7 @@ In addition, we may disclose information about you:
 (b) in connection with any legal proceedings or prospective legal proceedings;   
 (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and   
 (d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.   
-Except as provided in this privacy policy, we will not provide your information to third parties. 
+Except as provided in this privacy policy, we will not provide your information to third parties.
 
 **(5) International data transfers**
 
@@ -70,7 +70,7 @@ Information that we collect may be stored and processed in and transferred betwe
 
 Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Areas (EEA). 
 
-You expressly agree to such transfers of personal information. 
+You expressly agree to such transfers of personal information.
 
 **(6) Security of your personal data**
 
@@ -78,26 +78,26 @@ We will take reasonable technical and organisational precautions to prevent the 
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password. 
+You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
 **(7) Policy amendments**
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 **(8) Your rights**
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00). 
 
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.) 
+You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
 **(9) Third party websites**
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. 
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
 **(10) Updating information**
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated. 
+Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
 **(11) Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email at enquiries@semetrical.com. 
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email at enquiries@semetrical.com.
