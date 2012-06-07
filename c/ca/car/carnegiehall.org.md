@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegiehall.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007220926id_/http%3A//www.carnegiehall.org/Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegiehall.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607051640id_/http%3A//www.carnegiehall.org/Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carnegie Hall
 
