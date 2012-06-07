@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videousermanuals.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114015325id_/http%3A//www.videousermanuals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videousermanuals.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607081814id_/http%3A//www.videousermanuals.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Video User Manuals
 
