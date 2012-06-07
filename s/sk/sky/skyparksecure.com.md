@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyparksecure.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209003837id_/http%3A//www.skyparksecure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyparksecure.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607211557id_/http%3A//www.skyparksecure.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -17,7 +17,12 @@ We will not sell trade or rent your Personal Information to others unless you ha
 
 COOKIES
 
-A cookie is a small file of letters and numbers downloaded on to a device when the user accesses certain websites. Cookies allow a website to recognise a userâ€™s device. We use cookies for the sole purpose of tracking where your booking originated. This helps us to recognise where our efforts to bring you the best services at the best prices are performing best. This means that we can continue to offer you the best discounts and offers available. You are able to opt out of cookie storage and you should check your browser settings should you wish to do so. By using this web site you are consenting to the use of cookies.
+What are cookies?
 
-In addition to the use of your Personal Information as described above, we may also gather anonymous information, which may be used by us or shared with third parties. This is information which does not identify you, but which may be helpful for marketing purposes or for improving this website or the services provided through it.  
-If you have any questions or wish to have any Personal Information edited or deleted, please e-mail info@skyparksecure.com. 
+Cookies are tiny files stored on your computer when you visit certain pages on the internet. We use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
+
+To book airport parking with SkyParkSecure you need to have cookies enabled.. If you don't wish to have cookies enabled, you'll still be able to browse the site and use it for all other purposes than to book. Most web browsers have cookies enabled, but see Managing cookies below, for help to turn them on if you're not already set up.
+
+It's important to note that cookies can't harm your computer. We don't store any personally identifiable information such as credit card details in cookies we create, but we do use some encrypted information gathered from them to help improve your experience of the site. For example, they help us to identify and resolve any errors that may occur.
+
+We do have working relationships with very carefully-selected and continually monitored suppliers who may also set cookies during your visit to be used for remarketing purposes - in other words to show you different products and services based on what you appear to be interested in.
