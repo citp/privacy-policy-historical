@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smfnew.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072335id_/http%3A//www.smfnew.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smfnew.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607142630id_/http%3A//www.smfnew.com/privacy.php) for the most accurate reproduction.*
 
 # Free SMF Hosting - Free SMF Forum hosting - Our Privacy Policy
 
