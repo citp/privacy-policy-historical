@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206023040id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607060853id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
 
-# Terms and Conditions of Use | Credit Card Finder
+# Terms of Use, Disclaimer & Privacy Policy | Credit Card Finder
 
 **Terms and Conditions of Use**
 
@@ -26,211 +26,239 @@
 
 
 
+**Selection& Ordering of Products**
+
+1.  Regarding the ordering of products, we believe there is no perfect order nor perfect ranking system. Our products are therefore displayed in no particular order or ranking and instead we provide functionality for users to self-select and compare products.There is no particular basis or system of awards or ratings for the products on this site.
+
+2\. The products listed in the tables on our website are selected based on a number of features including but not limited to:
+
+  * Features: including, but not limited to interest rates, annual fees and penalty fees.
+  * Promotions: the availability of promotions in relation to particular products.
+  * Access: whether a financial institution is offering a particular product at a particular time.
+
+
+
+**Disclaimer**
+
+1.  Comparisons are not intended to be comprehensive of the market of available products and the not all providers in the market will always be included in our comparisons.
+
+2.  Where advertisements appear on this site they should not be taken as ranking or referencing any particular product above another in terms of its suitability for your use.
+
+3.  Financial products compared do not compare all features that may be relevant to you in your choices about which product to utilise.
+
+4.  Where terms such as “Top”, “Best”, “Featured”, “Editor’s Choice” and other terms indicating a ranking of products in a preferential order, these terms are not based on objective criteria and may not apply in relation to your personal circumstances. 
+
+5.  Where it is stated on this site that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
+
+**Disclosure**
+
+1\. Where our site links to particular products or displays ‘apply now’ buttons, we may receive a commission, referral fee or payment in relation to your clicking of this link. We also in some cases include products in particular comparisons or display products as ‘featured’ where the products being displayed or compared have commissions or referral fees or payments associated with them which we receive from product providers.
+
 **Privacy Policy**
 
 Hive Empire Pty Ltd ACN 118 785 121(“Hive Empire” or “we”) takes your privacy seriously. We have adopted the following principles in relation to how we manage personal information.
 
-**1.         Collection**
+**1\. Collection**
 
-1.1      Hive Empire will not collect personal information unless the information is necessary for one or more of its functions or activities.
+1.1 Hive Empire will not collect personal information unless the information is necessary for one or more of its functions or activities.
 
-1.2      Hive Empire will collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
+1.2 Hive Empire will collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
 
-1.3      At or before the time (or, if that is not practicable, as soon as practicable after) Hive Empire collects personal information about an individual from the individual, Hive Empire takes reasonable steps to ensure that the individual is aware of:
+1.3 At or before the time (or, if that is not practicable, as soon as practicable after) Hive Empire collects personal information about an individual from the individual, Hive Empire takes reasonable steps to ensure that the individual is aware of:
 
-(a)       the identity of the organisation and how to contact it; and
+(a) the identity of the organisation and how to contact it; and
 
-(b)       the fact that he or she is able to gain access to the information; and
+(b) the fact that he or she is able to gain access to the information; and
 
-(c)       the purposes for which the information is collected; and
+(c) the purposes for which the information is collected; and
 
-(d)       the organisations (or the types of organisations) to which the organisation usually discloses information of that kind; and
+(d) the organisations (or the types of organisations) to which the organisation usually discloses information of that kind; and
 
-(e)       any law that requires the particular information to be collected; and
+(e) any law that requires the particular information to be collected; and
 
-(f)       the main consequences (if any) for the individual if all or part of the information is not provided.
+(f) the main consequences (if any) for the individual if all or part of the information is not provided.
 
-1.4      If it is reasonable and practicable to do so, Hive Empire will collect personal information about an individual only from that individual.
+1.4 If it is reasonable and practicable to do so, Hive Empire will collect personal information about an individual only from that individual.
 
-1.5      If Hive Empire collects personal information about an individual from someone else, it takes reasonable steps to ensure that the individual is or has been made aware of the matters listed in subclause 1.3 except to the extent that making the individual aware of the matters would pose a serious threat to the life or health of any individual.
+1.5 If Hive Empire collects personal information about an individual from someone else, it takes reasonable steps to ensure that the individual is or has been made aware of the matters listed in subclause 1.3 except to the extent that making the individual aware of the matters would pose a serious threat to the life or health of any individual.
 
-**2.         Use and disclosure**
+**2\. Use and disclosure**
 
-2.1      Hive Empire will not use or disclose personal information about an individual for a purpose (the secondary purpose) other than the primary purpose of collection unless:
+2.1 Hive Empire will not use or disclose personal information about an individual for a purpose (the secondary purpose) other than the primary purpose of collection unless:
 
-(a)        both of the following apply:
+(a) both of the following apply:
 
-(i)        the secondary purpose is related to the primary purpose of collection and, if the personal information is sensitive information, directly related to the primary purpose of collection;
+(i) the secondary purpose is related to the primary purpose of collection and, if the personal information is sensitive information, directly related to the primary purpose of collection;
 
-(ii)       the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose; or
+(ii) the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose; or
 
-(b)        the individual has consented to the use or disclosure; or
+(b) the individual has consented to the use or disclosure; or
 
-(c)       if the information is not sensitive information and the use of the information is for the secondary purpose of direct marketing:
+(c) if the information is not sensitive information and the use of the information is for the secondary purpose of direct marketing:
 
-(i)        it is impracticable for Hive Empire to seek the individual’s consent before that particular use; and
+(i) it is impracticable for Hive Empire to seek the individual’s consent before that particular use; and
 
-(ii)       Hive Empire will not charge the individual for giving effect to a request by the individual to the organisation not to receive direct marketing communications; and
+(ii) Hive Empire will not charge the individual for giving effect to a request by the individual to the organisation not to receive direct marketing communications; and
 
-(iii)      the individual has not made a request to Hive Empire not to receive direct marketing communications; and
+(iii) the individual has not made a request to Hive Empire not to receive direct marketing communications; and
 
-(iv)      in each direct marketing communication with the individual, the organisation draws to the individual’s attention, that he or she may express a wish not to receive any further direct marketing communications; and
+(iv) in each direct marketing communication with the individual, the organisation draws to the individual’s attention, that he or she may express a wish not to receive any further direct marketing communications; and
 
-(v)       each written direct marketing communication by Hive Empire with the individual (up to and including the communication that involves the use) sets out Hive Empire contact details; or
+(v) each written direct marketing communication by Hive Empire with the individual (up to and including the communication that involves the use) sets out Hive Empire contact details; or
 
-(d)       Hive Empire reasonably believes that the use or disclosure is necessary to lessen or prevent:
+(d) Hive Empire reasonably believes that the use or disclosure is necessary to lessen or prevent:
 
-(i)        a serious and imminent threat to an individual’s life, health or safety; or
+(i) a serious and imminent threat to an individual’s life, health or safety; or
 
-(ii)       a serious threat to public health or public safety; or
+(ii) a serious threat to public health or public safety; or
 
-(e)       Hive Empire has reason to suspect that unlawful activity has been, is being or may be engaged in, and uses or discloses the personal information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities; or
+(e) Hive Empire has reason to suspect that unlawful activity has been, is being or may be engaged in, and uses or discloses the personal information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities; or
 
-(f)       the use or disclosure is required or authorised by or under law; or
+(f) the use or disclosure is required or authorised by or under law; or
 
-(g)       Hive Empire reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body:
+(g) Hive Empire reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body:
 
-(i)        the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law;
+(i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law;
 
-(ii)       the enforcement of laws relating to the confiscation of the proceeds of crime;
+(ii) the enforcement of laws relating to the confiscation of the proceeds of crime;
 
-(iii)      the protection of the public revenue;
+(iii) the protection of the public revenue;
 
-(iv)      the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct;
+(iv) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct;
 
-(v)       the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.
+(v) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.
 
-**3.         Data quality**
+**3\. Data quality**
 
 Hive Empire will take reasonable steps to make sure that the personal information it collects, uses or discloses is accurate, complete and up-to-date.
 
-**4.         Data security**
+**4\. Data security**
 
-4.1      Hive Empire will take reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
+4.1 Hive Empire will take reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.
 
-4.2      Hive Empire will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose for which the information may be used or disclosed under National Privacy Principle 2.
+4.2 Hive Empire will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose for which the information may be used or disclosed under National Privacy Principle 2.
 
-**5.         Openness** ****
+**5\. Openness** ****
 
-5.1      Hive Empire will set out in a document clearly expressed policies on its management of personal information. The organisation must make the document available to anyone who asks for it.
+5.1 Hive Empire will set out in a document clearly expressed policies on its management of personal information. The organisation must make the document available to anyone who asks for it.
 
-5.2      On request by a person, Hive Empire will take reasonable steps to let the person know, generally, what sort of personal information it holds, for what purposes, and how it collects, holds, uses and discloses that information.
+5.2 On request by a person, Hive Empire will take reasonable steps to let the person know, generally, what sort of personal information it holds, for what purposes, and how it collects, holds, uses and discloses that information.
 
-**6.         Access and correction**
+**6\. Access and correction**
 
-6.1      If Hive Empire holds personal information about an individual, it will provide the individual with access to the information on request by the individual, except to the extent that:
+6.1 If Hive Empire holds personal information about an individual, it will provide the individual with access to the information on request by the individual, except to the extent that:
 
-(a)       in the case of personal information other than health information, providing access would pose a serious and imminent threat to the life or health of any individual; or
+(a) in the case of personal information other than health information, providing access would pose a serious and imminent threat to the life or health of any individual; or
 
-(b)       in the case of health information, providing access would pose a serious threat to the life or health of any individual; or
+(b) in the case of health information, providing access would pose a serious threat to the life or health of any individual; or
 
-(c)       providing access would have an unreasonable impact upon the privacy of other individuals; or
+(c) providing access would have an unreasonable impact upon the privacy of other individuals; or
 
-(d)       the request for access is frivolous or vexatious; or
+(d) the request for access is frivolous or vexatious; or
 
-(e)       the information relates to existing or anticipated legal proceedings between the organisation and the individual, and the information would not be accessible by the process of discovery in those proceedings; or
+(e) the information relates to existing or anticipated legal proceedings between the organisation and the individual, and the information would not be accessible by the process of discovery in those proceedings; or
 
-(f)       providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way as to prejudice those negotiations; or
+(f) providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way as to prejudice those negotiations; or
 
-(g)       providing access would be unlawful; or
+(g) providing access would be unlawful; or
 
-(h)       denying access is required or authorised by or under law; or
+(h) denying access is required or authorised by or under law; or
 
-(i)        providing access would be likely to prejudice an investigation of possible unlawful activity; or
+(i) providing access would be likely to prejudice an investigation of possible unlawful activity; or
 
-(j)        providing access would be likely to prejudice:
+(j) providing access would be likely to prejudice:
 
-(i)        the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or
+(i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or
 
-(ii)       the enforcement of laws relating to the confiscation of the proceeds of crime; or
+(ii) the enforcement of laws relating to the confiscation of the proceeds of crime; or
 
-(iii)      the protection of the public revenue; or
+(iii) the protection of the public revenue; or
 
-(iv)      the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or
+(iv) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or
 
-(v)       the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders,
+(v) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders,
 
 by or on behalf of an enforcement body; or
 
-(k)       an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
+(k) an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
 
-6.2      However, where providing access would reveal evaluative information generated within the organisation in connection with a commercially sensitive decision-making process, Hive Empire will give the individual an explanation for the commercially sensitive decision rather than direct access to the information.
+6.2 However, where providing access would reveal evaluative information generated within the organisation in connection with a commercially sensitive decision-making process, Hive Empire will give the individual an explanation for the commercially sensitive decision rather than direct access to the information.
 
-6.3      If Hive Empire is not required to provide the individual with access to the information because of one or more of paragraphs 6.1(a) to (k) (inclusive), it will, if reasonable, consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties.
+6.3 If Hive Empire is not required to provide the individual with access to the information because of one or more of paragraphs 6.1(a) to (k) (inclusive), it will, if reasonable, consider whether the use of mutually agreed intermediaries would allow sufficient access to meet the needs of both parties.
 
-6.4      If Hive Empire charges for providing access to personal information, those charges:
+6.4 If Hive Empire charges for providing access to personal information, those charges:
 
-(a)       will not be excessive; and
+(a) will not be excessive; and
 
-(b)       will not apply to lodging a request for access.
+(b) will not apply to lodging a request for access.
 
-6.5      If Hive Empire holds personal information about an individual and the individual is able to establish that the information is not accurate, complete and up-to-date, the organisation must take reasonable steps to correct the information so that it is accurate, complete and up-to-date.
+6.5 If Hive Empire holds personal information about an individual and the individual is able to establish that the information is not accurate, complete and up-to-date, the organisation must take reasonable steps to correct the information so that it is accurate, complete and up-to-date.
 
-6.6      If the individual and Hive Empire disagree about whether the information is accurate, complete and up-to-date, and the individual asks the organisation to associate with the information a statement claiming that the information is not accurate, complete or up-to-date, the organisation must take reasonable steps to do so.
+6.6 If the individual and Hive Empire disagree about whether the information is accurate, complete and up-to-date, and the individual asks the organisation to associate with the information a statement claiming that the information is not accurate, complete or up-to-date, the organisation must take reasonable steps to do so.
 
-6.7      Hive Empire will provide reasons for denial of access or a refusal to correct personal information.
+6.7 Hive Empire will provide reasons for denial of access or a refusal to correct personal information.
 
-**7.         Identifiers**
+**7\. Identifiers**
 
-7.1      Hive Empire will not adopt as its own identifier of an individual an identifier of the individual that has been assigned by:
+7.1 Hive Empire will not adopt as its own identifier of an individual an identifier of the individual that has been assigned by:
 
-(a)       a government agency; or
+(a) a government agency; or
 
-(b)       an agent of a government agency acting in its capacity as agent; or
+(b) an agent of a government agency acting in its capacity as agent; or
 
-(c)       a contracted service provider for a Commonwealth contract acting in its capacity as contracted service provider for that contract.
+(c) a contracted service provider for a Commonwealth contract acting in its capacity as contracted service provider for that contract.
 
-7.2      Hive Empire will not use or disclose an identifier assigned to an individual by an agency, or by an agent or contracted service provider mentioned in subclause 7.1, unless:
+7.2 Hive Empire will not use or disclose an identifier assigned to an individual by an agency, or by an agent or contracted service provider mentioned in subclause 7.1, unless:
 
-(a)       the use or disclosure is necessary for the organisation to fulfil its obligations to the agency; or
+(a) the use or disclosure is necessary for the organisation to fulfil its obligations to the agency; or
 
-(b)       one or more of paragraphs 2.1(e) to 2.1(h) (inclusive) apply to the use or disclosure; or
+(b) one or more of paragraphs 2.1(e) to 2.1(h) (inclusive) apply to the use or disclosure; or
 
-(c)       the use or disclosure is by a prescribed organisation of a prescribed identifier in prescribed circumstances.
+(c) the use or disclosure is by a prescribed organisation of a prescribed identifier in prescribed circumstances.
 
-7.3      In this clause, identifier includes a number assigned by an organisation to an individual to identify uniquely the individual for the purposes of the organisation’s operations. However, an individual’s name or ABN (as defined in the A New Tax System (Australian Business Number) Act 1999) is not an identifier.
+7.3 In this clause, identifier includes a number assigned by an organisation to an individual to identify uniquely the individual for the purposes of the organisation’s operations. However, an individual’s name or ABN (as defined in the A New Tax System (Australian Business Number) Act 1999) is not an identifier.
 
-**8.         Anonymity**
+**8\. Anonymity**
 
 Wherever it is lawful and practicable, individuals must have the option of not identifying themselves when entering transactions with Hive Empire.
 
-**9.         Transborder data flows**
+**9\. Transborder data flows**
 
 Hive Empire may transfer personal information about an individual to someone (other than the organisation or the individual) who is in a foreign country only if:
 
-(a)       Hive Empire reasonably believes that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles; or
+(a) Hive Empire reasonably believes that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles; or
 
-(b)       the individual consents to the transfer; or
+(b) the individual consents to the transfer; or
 
-(c)       the transfer is necessary for the performance of a contract between the individual and Hive Empire, or for the implementation of pre-contractual measures taken in response to the individual’s request; or
+(c) the transfer is necessary for the performance of a contract between the individual and Hive Empire, or for the implementation of pre-contractual measures taken in response to the individual’s request; or
 
-(d)       the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the individual between the organisation and a third party; or
+(d) the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the individual between the organisation and a third party; or
 
-(e)       all of the following apply:
+(e) all of the following apply:
 
-(i)        the transfer is for the benefit of the individual;
+(i) the transfer is for the benefit of the individual;
 
-(ii)       it is impracticable to obtain the consent of the individual to that transfer;
+(ii) it is impracticable to obtain the consent of the individual to that transfer;
 
-(iii)      if it were practicable to obtain such consent, the individual would be likely to give it; or
+(iii) if it were practicable to obtain such consent, the individual would be likely to give it; or
 
-(f)       Hive Empire has taken reasonable steps to ensure that the information which it has transferred will not be held, used or disclosed by the recipient of the information inconsistently with the National Privacy Principles.
+(f) Hive Empire has taken reasonable steps to ensure that the information which it has transferred will not be held, used or disclosed by the recipient of the information inconsistently with the National Privacy Principles.
 
-**10.      Sensitive information**
+**10\. Sensitive information**
 
-10.1    Hive Empire will not collect sensitive information about an individual unless:
+10.1 Hive Empire will not collect sensitive information about an individual unless:
 
-(a)       the individual has consented; or
+(a) the individual has consented; or
 
-(b)       the collection is required by law; or
+(b) the collection is required by law; or
 
-(c)       the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where the individual whom the information concerns:
+(c) the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where the individual whom the information concerns:
 
-(i)        is physically or legally incapable of giving consent to the collection; or
+(i) is physically or legally incapable of giving consent to the collection; or
 
-(ii)       physically cannot communicate consent to the collection; or
+(ii) physically cannot communicate consent to the collection; or
 
-(d)       the collection is necessary for the establishment, exercise or defence of a legal or equitable claim.
+(d) the collection is necessary for the establishment, exercise or defence of a legal or equitable claim.
 
 Hive Empire stores your details if you subscribe to the CreditCardFinder.com.au email service with Aweber.com. Hive Empire cannot be held responsible for breach of security and any losses due to any breach of security of Aweber.com. You can review the [Aweber privacy policy](http://www.aweber.com/privacy.htm) on their website.
 
