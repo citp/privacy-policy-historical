@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montrealattitude.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208154236id_/http%3A//www.montrealattitude.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montrealattitude.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607041438id_/http%3A//www.montrealattitude.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Montreal Attitude - What's Yours? -
 
