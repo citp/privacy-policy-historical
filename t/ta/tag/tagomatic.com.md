@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tagomatic.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227102326id_/http%3A//www.tagomatic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagomatic.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607022300id_/http%3A//www.tagomatic.com/privacy.php) for the most accurate reproduction.*
 
 # Tagomatic - the community recommendation engine
-
-* * *
 
 This is the web site of **32nd Degree LLC**.
 
