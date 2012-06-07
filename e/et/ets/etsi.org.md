@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620094507id_/http%3A//www.etsi.org/website/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607024015id_/http%3A//www.etsi.org/website/privacy.aspx) for the most accurate reproduction.*
 
 # ETSI
 
@@ -10,10 +10,10 @@ We may share non-personal aggregate statistics (group) data about our website vi
 
 Any information captured is only used for the following purposes:
 
-  * For statistical or survey purposes to improve this website and its services to you.
-  * To serve website content to you.
-  * To administer this website.
+  * For statistical or survey purposes to improve this website and its services to you. 
+  * To provide you with website content. 
+  * To administer this website. 
 
 
 
-While the website uses cookies, disabling their use, will not materially impact on your interaction with the site.
+Whilst the website uses cookies, disabling their use will not materially impact on your interaction with the site.
