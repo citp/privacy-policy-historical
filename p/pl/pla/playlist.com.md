@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playlist.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204054446id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playlist.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607215911id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.*
 
 # Playlist | Privacy Policy
 
-## Last Updated: January 7, 2009
+## Last Updated: February 21, 2012
 
 ### Our Commitment to Your Privacy
 
@@ -32,9 +32,9 @@ If we directly combine any non-personal information gathered through passive mea
 
 ### Disclosure of Personal and Other Information
 
-We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them. Except as described in this policy or otherwise specifically disclosed to you at the point of collection, we will not provide your personal information to third parties for their marketing purposes.
+We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services, so they may also offer you their products and services, and for other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them. Except as described in this policy, we will not provide your personal information to third parties.
 
-We may share personal information with third parties (including regulatory or law enforcement authorities) in order to carry out a user's request or if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
+We may also share personal information with third parties (including regulatory or law enforcement authorities) in order to carry out a user's request or if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
 
