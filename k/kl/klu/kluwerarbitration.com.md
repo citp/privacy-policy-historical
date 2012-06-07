@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2011-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110717100445id_/http%3A//www.kluwerlaw.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607091945id_/http%3A//www.kluwerlaw.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kluwer Law International
 
