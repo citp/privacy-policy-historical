@@ -1,79 +1,47 @@
-> *The following text is extracted and transformed from the socialmediopolis.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205417id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediopolis.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607072504id_/http%3A//socialmediopolis.com/privacy-policy) for the most accurate reproduction.*
 
-# Your Network -- Powered by Groupsite.com
+# Privacy Policy
 
-Groupsite.com is a group communication and networking platform. This policy describes the types of personal and/or group information we may collect and how we use it to provide the Groupsite.com ("Groupsite") service. The information that we collect is used to improve the content of our Web pages and the quality of our service and is not shared with or sold to other organizations for commercial purposes, except to provide products or services under the terms of this agreement. 
+#### **Browser information collected on the web site:**
 
-Note: There are minor provisions of this privacy policy that do not apply to groups that have selected the "removal of advertisements" premium option. These provisions will be proceeded with an (*). 
+We log IP addresses, which are the locations of computers or networks on the Internet, and analyze them in order to improve the value of our site. We also collect aggregate numbers of page hits in order to track the popularity of certain pages and improve the value of our site. We do not gather, request, record, require, collect or track any Internet users' Personal Information through these processes.
 
-By using Groupsite.com, you agree to the collection and use of your personal and/or group information as described in this policy. You should know: 
+We may use cookies on our site. A "cookie" is a tiny text file that we store on your computer to customize your experience and support some necessary functions. We also may use cookies to better understand how our visitors use our site. Our cookies contain no Personal Information and are neither shared nor revealed to other sites. We do not look for or at other sites' cookies on your computer.
 
-  * We collect limited account information and store and maintain your account and profile information on our servers. 
-  * We will never rent, sell or share information that personally identifies you for marketing purposes except to provide products or services you've requested, when we have your permission or under the following circumstances: 
-    * We may share general information to trusted partners who work on behalf of or with Groupsite.com under confidentiality agreements. General information may be used to help Groupsite.com communicate offers to you from Groupsite.com and our marketing partners. Our partners do not have any independent right to share this general information and any offers will include a URL and email address where you can unsubscribe from future mailings. 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Groupsite.com's terms of use, or as otherwise required by law. 
-  * *Groupsite.com displays targeted advertisements based on personal or group information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria. 
-  * You can update your account information and preferences at any time. 
+You also have choices with respect to cookies. By modifying your browser preferences, you can accept all cookies, be notified when a cookie is set, or reject all cookies. (For more information on how to block or filter cookies, see **<http://www.cookiecentral.com/faq>**.) However, if you reject some or all cookies, your experience at our site and other sites throughout the World Wide Web may not be complete. Also, you would be unable to take advantage of personalized content delivery offered by other Internet sites or by us.
 
+We may use pixel tags (also known as web beacons or clear GIF files) or other tracking technology to help us manage our online advertising and to analyze and measure the effectiveness of online advertising campaigns and the general usage patterns of visitors to our Web site. Such technologies may also be used by third party advertising service providers who serve or assist us in managing ads on our site, such as DoubleClick, Yahoo Tremor and 24/7 RealMedia. These files enable us or these third parties to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website and to deliver advertising targeted to your interests. The information that is collected and shared using these pixel tags and similar technology is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. We are not responsible for and do not control any actions or policies of any third party advertising technology service providers or of any third party members of any related advertising networks.
 
+For more information about DoubleClick, including information about how to opt out of the use of these technologies by DoubleClick, go to **<http://www.doubleclick.net/us/corporate/privacy>**. To opt out of collection by 24/7 Real Media, please visit: **<http://www.247realmedia.com/opt-out.html>**. To opt our of collection by Yahoo Search Marketing, please go to **<http://info.yahoo.com/privacy/us/yahoo/ysmt/details.html>**.
 
-To comply with the Children's Online Privacy Protection Act, Groupsite.com is only available to users who are at least 13 years old. If you are under 13, please do not use the Groupsite.com service. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the **[Google ad and content network privacy policy](http://www.google.com/privacy/ads/)**.
 
-##  What types of personal information do we collect and how do we use it? 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.google.com/privacy/ads/)**.
 
-_Account information._ When you register with Groupsite.com, we will request some personal information, including your first and last name, email address, and password to create your account. Your password will be maintained on our system in an encrypted form. 
+#### **Privacy of our email lists:**
 
-_Email._ Groupsite.com will send to the primary email address specified in your Groupsite.com profile a monthly Groupsites-related newsletter. You may unsubscribe from this newsletter by writing to news(at)groupsite.com with UNSUBSCRIBE in the subject line or using the opt-out URL provided in every newsletter. 
+As noted above, we maintain e-mail lists to keep interested, eligible individuals informed about important topics, and individuals must affirmatively request to join them. We configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone other than those whom we authorize. However, we are not the author of this software, and are not responsible for any failures in the software to preserve subscriber anonymity.
 
-Groupsite Managers of Groupsite Pro accounts may also notify Groupsite.com if they wish their Groupsite members' addresses to be collectively suppressed from our newsletter distribution. Such requests can be made in writing to: news@groupsite.com and will not apply to Groupsite members that are also members of any other Groupsite. 
+#### **Opting out and modifying information:**
 
-Groupsite.com may occasionally contact pending Groupsite members with invitations to join your group by e-mail. Pending members are individuals who have not responded (with either a negative or affirmative response) to membership invitations extended by Groupsite managers and/or members. Invitations extended by Groupsite.com to pending members will clearly identify Groupsite.com, the name of the relevant Groupsite, the name of the person who invited them and an email opt-out option. 
+Subscribers to our e-mail list may terminate their subscriptions via a link at the bottom of each email sent from SocialMediopolis.com. We are in compliance with CAN-SPAM.
 
-Groupsite.com may also distribute periodic updates regarding the Groupsite.com service to group managers. These administrative messages are considered part of your Groupsite.com account service and group managers may not opt-out of receiving them. 
+#### **Children's privacy:**
 
-_Group data and contents and usage._ The contents of your Groupsite.com account are stored and maintained on Groupsite.com servers in order to provide the service. Because we keep back-up copies of data for the purposes of recovery from errors or system failure, residual copies of group contents may remain on our systems for some time, even after you have deleted information or after the termination of your account. Groupsite.com employees do not access the content of any accounts unless you specifically request them to do so (for example, if you are having technical difficulties accessing your account) or if required by law, to maintain our system, or to protect Groupsite.com or the public. 
+Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13.
 
-We also may collect information about the use of your account, such as how much bandwidth you are using, how often you log in and other information related to your use of Groupsite.com. Information displayed or clicked on in your Groupsite.com account (including user interface elements, links, and other information) is also recorded. We use this information internally to deliver the best possible service to you, such as improving the Groupsite.com user experience. 
+It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at [socialmediopolis.ed@gmail.com](mailto:socialmediopolis.ed@gmail.com).
 
-##  Cookies & log information 
+#### **Security:**
 
-Cookies. A cookie is a small data file that is sent to your computer when you first visit a website. As with most website cookies, our cookies include an identification number that is unique to the computer you are using. This identifier helps us better understand our user base and how they are using our site and services. 
+We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. For example, we use commercially reasonable tools and techniques to protect against unauthorized access to our systems. Also, we restrict access to Personal Information to those who need such access in the course of their duties for us.
 
-When you visit Groupsite.com and create a Groupsite.com account, we set and access cookies on your computer. We use cookies for a number of reasons, such as recognizing you when you visit the site, displaying the site according to your chosen user settings for language, and maintaining the security of your account. We may also use the cookies to collect aggregated information about the use of Groupsite.com to maintain, analyze and improve the service. If you set your browser so that it refuses cookies, you will not be able to use the Groupsite.com service. Groupsite.com uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contract, and research. Groupsite.com lets other companies that show advertisements of some of our pages set and access their cookies on your computer. Other companies" use of their cookies is subject to their own privacy policies, not this one. Advertisers do not have access to Groupsite.com cookies. 
+In addition, we protect the security of your credit card information when transmitted via our site by using Secure Sockets Layer (SSL) software, which encrypts information you enter. You should know that we have no control over the security of other sites on the Internet you might visit, interact with, or from which you engage in financial transactions.
 
-##  Transfer of information 
+Your own efforts to protect against unauthorized access play an important role in protecting the security of your personal information. You should be sure to sign off when finished using a shared computer, and always log out of any site when viewing personal information.
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of Groupsite.com, such as acquisition by or merger with another company. In such an event, Groupsite.com will notify you before information is transferred and becomes subject to a different privacy policy. 
+We may have links to other, outside web sites that we do not control. We are not responsible for the content or privacy policies of these sites, and users should check those policies on such sites.
 
-##  Updating your information 
+#### **Changes to this policy:**
 
-Groupsite Managers: You can change your Groupsite account settings at any time in the "Manager" section of your Groupsite. You can terminate your account at any time, by following simple instructions located in the "Upgrade  Groupsite" sub-tab within the "Manager" section of your Groupsite. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account. 
-
-All Users: You can change your Groupsite.com User account settings at any time from within the "My Profile" section of Groupsite(s) in which you participate. You can terminate your membership in and remove your profile information from a Groupsite at any time by going to the "My Settings" tab and selecting the "Remove me from this Groupsite" link. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your membership within a Groupsite. You can remove yourself from any Groupsite and still have an active account on the Groupsite.com platform (providing you ability to remain in, join or create other Groupsites). 
-
-##  Images of your Groupsite or profile in marketing materials 
-
-Groupsite.com reserves the right to include images of your Groupsite's header graphic or overview Summary page on the Groupsite.com website or in other marketing materials for demonstration and promotional purposes. We also may display additional pages from public and semi-public Groupsites. For Public Groupsites, this includes the possibility of displaying an image of your Professional or Social member profile, including your photograph. Groupsite.com will take care to present images in a professional manner and without compromising the character of the Groupsite. 
-
-You may specifically request in writing that we not use images of your profile page in this manner by sending a request via email to news@groupsite.com with the text REMOVE FROM MARKETING MATERIALS in the subject line. You may also submit your written request to: 
-
-Groupsite.com, Inc. 
-
-7226 Lee Deforest Drive, Suite 206 
-
-Columbia, MD 21046 
-
-Attn: Marketing 
-
-Groupsite Managers may also specifically request in writing that Groupsite.com not use images of their Groupsite's header graphic or pages in this manner by contacting us using either of the above described methods. 
-
-##  Changes 
-
-Groupsite.com may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in yourGroupsite.com profile or by placing a prominent notice on our site. 
-
-##  Questions 
-
-Any questions about this Privacy Policy should be addressed to privacy(at)groupsite.com. 
-
-We hope you will enjoy using Groupsite.com. 
+We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
