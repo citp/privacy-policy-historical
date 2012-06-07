@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscc.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162955id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscc.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607024320id_/http%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Information Highlights | U.S. Cellular
 
@@ -74,9 +74,10 @@ We will occasionally update this Privacy Statement to reflect changes in our ser
 
 ### Contacting Us
 
-U.S. Cellular welcomes your comments regarding this Privacy Statement. If you have questions about this Privacy Statement or believe that we have not adhered to it, please [email us](mailto:Privacy@uscellular.com) or write to us at the following address:
+U.S. Cellular welcomes your comments regarding this Privacy Statement. If you have questions about this Privacy Statement or believe that we have not adhered to it, please [email us](mailto:Privacy@uscellular.com), call us or write to us at the following address:
 
 U.S. Cellular  
 Attn: Director of Privacy  
 8410 W. Bryn Mawr Ave.  
-Chicago, Il. 60631-3486 
+Chicago, Il. 60631-3486  
+Telephone: 773-399-8900 
