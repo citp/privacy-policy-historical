@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064526id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607034953id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HamptonRoads.com | PilotOnline.com
 
