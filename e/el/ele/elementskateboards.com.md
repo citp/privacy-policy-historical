@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elementskateboards.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025011155id_/http%3A//elementskateboards.com/us/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementskateboards.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608010447id_/http%3A//elementunitedstates.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Element Skateboards - United States
+# Privacy Policy | Element
 
 **OUR COMMITMENT TO YOUR PRIVACY**  
 Element Skateboards, Inc. ("Element") respects your privacy. We are particularly sensitive to privacy issues on the Internet and therefore we provide this Privacy Policy so you know about our online information practices and understand how we treat the information we receive about you from the Internet. 
