@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogpaws.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084540id_/http%3A//www.blogpaws.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpaws.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607220203id_/http%3A//www.blogpaws.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BlogPaws Privacy Policy - BlogPaws
 
@@ -76,8 +76,8 @@ BlogPaws.com is not responsible for the privacy policies or practices of any thi
 
 If you have any questions about this privacy policy or BlogPaws.com’s treatment of your personal information, please write to: BlogPaws. LLC
 
-  * by email to blogpaws@gmail.com; or
-  * by post to BlogPaws, LLC, 5412 Wolf Street, Frederick, CO 80504.
+  * by email to BlogPawsTeam@blogpaws.com; or
+  * by mail to BlogPaws, LLC, 5412 Wolf Street, Frederick, CO 80504.
 
 
 
