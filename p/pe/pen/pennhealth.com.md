@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224014300id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607133627id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | About Us | University of Pennsylvania Health System | Penn Medicine
 
-## Privacy Statement
+[Back to Organization Policies](https://web.archive.org/health-system/about/organization/policies/)
 
 ### Commitment to Your Privacy
 
 Penn Medicine values your privacy and the confidentiality of the information you choose to share. Penn Medicine wants you to use the websites without being concerned that others will have access to your confidential information. This statement pertains only to Penn Medicine websites; Penn Medicine patients should also review the [HIPAA Notice of Privacy Practices](https://web.archive.org/health-system/about/organization/policies/notice-of-privacy-practices.html "HIPAA Notice of Privacy Practices").
 
 In almost all cases, you can use Penn Medicine's websites without sharing any personal information about yourself. The only information Penn learns about you is the information you voluntarily provide.
-
-If you have any questions about financial transactions performed on Penn Medicine's websites, please view the [refund policy](https://web.archive.org/health-system/about/organization/policies/refund-policy.html "Refund policy"). Please take a few minutes to read the complete policy. This policy may change from time to time. Please review it periodically.
 
 This statement is not intended to, and does not create, any contractual or other legal rights on behalf of any party. If you have any questions about this statement, please email [askuphs@uphs.upenn.edu](mailto:askuphs@uphs.upenn.edu).
 
@@ -61,4 +59,4 @@ If you are younger than 13, you should get permission from your parents or guard
 
 To Top
 
-[Need an appointment? Request one online](https://secure.pennhealth.com/request-appointment/ "Request an appointment using our online request form") 24 hours/day, 7 days/week or call 800-789-PENN (7366) to speak to a referral counselor. 
+[Need an appointment? Request one online](https://www.pennmedicine.org/request-appointment/ "Request an appointment using our online request form") 24 hours/day, 7 days/week or call 800-789-PENN (7366) to speak to a referral counselor. 
