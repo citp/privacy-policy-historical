@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nohandsseo.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221025813id_/http%3A//nohandsseo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nohandsseo.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607045425id_/http%3A//nohandsseo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # No Hands SEO Privacy Policy
 
@@ -69,7 +69,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://nohandsseo.com  
 support [@] nohandsseo.com
-
-This policy is powered by Free Privacy Policy and Rhino Support web-based [support software](http://www.rhinosupport.com/).
 
 If you have any feedback about No Hands SEO we are always happy to hear it. Please send all feedback to support @ No Hands SEO . com without the spaces.
