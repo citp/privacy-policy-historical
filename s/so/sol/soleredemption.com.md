@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the soleredemption.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208194906id_/http%3A//www.soleredemption.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soleredemption.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607051120id_/http%3A//www.soleredemption.com/policy) for the most accurate reproduction.*
 
-# Policy
+# Privacy Policy | Sole Redemption
 
 _We are not affiliated or liable for the actions or claims to the companies or sites listed in our[Links](http://www.soleredemption.com/store/)._
 
 **Privacy Policy:**
 
 SoleRedemption.COM PRIVACY POLICY  
-Last Updated: May 2009
+Last Updated: May 2012
 
 1\. Purpose
 
@@ -96,3 +96,10 @@ SoleRedemption.com expects its partners, advertisers and third-party affiliates 
 **Terms of Use:**
 
 No material from this Site may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any manner or form without explicit consent from SoleRedemption.com. Under no circumstances, including, but not limited to, negligence, shall SoleRedemption.com be liable for any special or consequential damages that result from the use of, or the inability to use, the materials in this Site. You agree to defend, indemnify, and hold harmless SoleRedemption.com, its officers, directors, employees, and agents from and against any claims, actions, or demands, including without limitation reasonable legal and accounting fees, arising from your use of the materials or your breach of the terms of this Agreement.
+
+**Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.**
+
+**End users may opt out of behavioral targeting through the opt-out link located at  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
+
+**SoleRedemption is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising:  [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).**  
+
