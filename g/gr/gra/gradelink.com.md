@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradelink.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205030257id_/http%3A//www.gradelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradelink.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607233528id_/http%3A//gradelink.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Gradelink
 
@@ -115,5 +115,5 @@ Privacy Officer
 Foothill Ranch, CA 92610  
 E-mail: legal@gradelink.com 
 
-© 2011 Gradelink Corp. All rights reserved.  
+© 2012 Gradelink Corp. All rights reserved.  
 Terms, conditions, features, availability, pricing, support and service options subject to change without notice.
