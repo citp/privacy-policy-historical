@@ -1,12 +1,9 @@
-<!--The following is the downloaded HTML source of the jancisrobinson.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102151557id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jancisrobinson.com privacy policy that was archived on 2012-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607023359id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<title>Jancis Robinson.com | Fine Wine Writing, Wine Reviews &amp; Tasting Notes from Jancis Robinson</title>
-<base href="http://www.jancisrobinson.com/">
 <meta name="google-site-verification" content="hFrf1wr5NDU2xIF5DytiOAzSTPaFK8xOruTQTNd8F9s">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="fine wine, fine wines, vintage wine, Jancis Robinson, bordeaux, wine reviews, restaurant reviews, wine cellar, champagne, tasting notes, Oxford Companion to Wine, what wine should I buy, French wine, en primeur, wine futures, wine ratings, wine scores, buying wine, storing wine, burgundy">
 <meta name="description" content="World-renowned wine authority and Master of Wine delivers her tasting notes, wine news, intelligent and courteous members' forum, and fine wine writing aplenty plus exclusive online access to The Oxford Companion to Wine.">
 <meta name="title" content="JancisRobinson.com">
@@ -21,11 +18,15 @@
 <meta property="og:url" content="">
 <meta property="og:image" content="">
 <meta property="og:site_name" content="JancisRobinson.com">
-<link rel="stylesheet" href="/images/html_styles/main.css" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+<base href="http://www.jancisrobinson.com/">
+<link rel="stylesheet" href="/images/html_styles/jr20120420.css" type="text/css">
 <!--[if IE]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(/images/html_styles/ie.css); /* ]]> */</style><![endif]-->
 <link rel="stylesheet" type="text/css" href="/lib/activespell/css/spell_checker.css">
 <link rel="stylesheet" type="text/css" media="all" href="/lib/jscalendar/calendar-blue.css" title="win2k-cold-1">
 <link href="http://www.jancisrobinson.com/rss" title="Latest articles" type="application/rss+xml" rel="alternate">
+<title>Jancis Robinson.com | Fine Wine Writing, Wine Reviews &amp; Tasting Notes from Jancis Robinson</title>
 <script type="text/javascript" src="/images/scripts/main.js"></script>
 <script type="text/javascript" src="/images/scripts/flashobject.js"></script>
 <script type="text/javascript" src="/lib/overlib/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
@@ -34,9 +35,11 @@
 <script type="text/javascript" src="/lib/jscalendar/calendar.js"></script>
 <script type="text/javascript" src="/lib/jscalendar/lang/calendar-en.js"></script>
 <script type="text/javascript" src="/lib/jscalendar/calendar-setup.js"></script>
+<script type="text/javascript" src="/images/scripts/login.js"></script>
 <script language="javascript" type="text/javascript">	
 	var show_help = '';
 </script>
+<script type="text/javascript" src="/lib/getTweets.js"></script>
 </head>
 
 <body onload="if (typeof OnLoadEvent=='function') OnLoadEvent();">
@@ -44,42 +47,98 @@
 <div id="container">
 
 <!-- ~~~~~~~~~~~~~~~ HEADER ~~~~~~~~~~~~~~~  -->
-<div id="header">
+ <div id="header">
 	<a href="http://www.jancisrobinson.com/" id="logo"></a>
-	<div id="phrase"></div>
-</div>
+	<div id="top-search-block">
+<script type="text/javascript">
+<!--
 
-<!-- ~~~~~~~~~~~~~~ CONTENT ~~~~~~~~~~~~~~  -->
-<div id="wrapper">
-<div id="content">
+var arrs_u = ['http://www.jancisrobinson.com/winetaster_search.html', 
+'http://www.jancisrobinson.com/ocwsearch.html',
+'http://www.jancisrobinson.com/forum/search.php?do=process', '',
+'http://www.jancisrobinson.com/sitesearch.html'];
+var arrs_n = ['free_text','free_text','query','','free_text'];
+var arrs_al = ['/winetaster_search.html','/ocwsearch.html','forum/search.php','','/sitesearch.html'];
+function dochange(t)
+{
+	var f = document.search_form;
+	if (!f)
+	{
+		return
+	}
+	var i = t.options[t.selectedIndex].value;
+	f.action = arrs_u[i];
+	document.getElementById('adv_link').href = arrs_al[i];
+	document.getElementById('fld_name').name = arrs_n[i];
+}
+
+function check_if_changed(input_id, style_class)
+{
+	input_obj = document.getElementById(input_id);
+	if (input_obj.className != style_class)
+	{
+		input_obj.value = '';
+	}
+}
+
+
+-->
+</script>
+	<form name="search_form" method="POST" action="/sitesearch.html">
+	<div>
+	<span style="font-size: 14pt;">Search</span>
+	<span class="purple" style="padding-left: 15px; font-size: 10pt;">
+	<a href="/sitesearch.html" style="text-decoration: none;" id="adv_link">Advanced search...</a></span>
+	</div>
+	<div>
+		<input name="free_text" style="width: 170px;" class="login_grey" type="text" id="fld_name" value="Enter search term" onclick="this.focus();" onfocus="text_input_onfocus('fld_name', 'Enter search term', 'login_field')" onblur="text_input_onblur('fld_name', 'Enter search term', 'login_grey')">
+		
+		
+        <input type="submit" value="Search" class="purple_button" onclick="check_if_changed('fld_name', 'login_field'); dochange(document.getElementById('sel_changer')); document.search_form.submit(); return false;">
+    </div>
+		<input name="do" value="process" type="hidden">
+		<input name="from_index" value="1" type="hidden">
+		<input name="quicksearch" value="1" type="hidden">
+		<input name="childforums" value="1" type="hidden">
+		<input name="exactname" value="1" type="hidden">
+		<input name="s" value="" type="hidden">
+		
+		
+		<input name="securitytoken" value="" type="hidden">
+	</form>		
+</div>
+<script type="text/javascript">
+setEnter('select');
+</script>
+ </div>
+
 <div class="hor-menu m1">
 	<ul>
 											<li><a href="http://www.jancisrobinson.com/index.php" target="_self">Home</a></li>
 													<li><a href="http://www.jancisrobinson.com/winetaster_search.html" target="_self">Tasting notes</a></li>
 																						<li><a href="http://www.jancisrobinson.com/forum/" target="_self">Forum</a></li>
 																									<li><a href="http://www.jancisrobinson.com/categories/free_for_all.html" target="_self">News</a></li>
-																						<li><a href="http://www.jancisrobinson.com/categories/wines_of_the_week.html" target="_self">Our views</a></li>
-																															<li><a href="http://www.jancisrobinson.com/categories/your_views.html" target="_self">Your views</a></li>
-																									<li><a href="http://www.jancisrobinson.com/categories/videos_podcasts.html" target="_self">Videos</a></li>
-													<li><a href="http://www.jancisrobinson.com/maps/index.html" target="_self">Maps</a></li>
-													<li><a href="http://www.jancisrobinson.com/categories/ocw.html" target="_self">Oxford Companion</a></li>
-																					<li class="active"><a class="active" href="http://www.jancisrobinson.com/categories/resources.html" target="_self">Instant expert</a></li>
-																																																							</ul>
-</div>
-	<div class="hor-menu m2">
-	<ul>
-																																																																																																																																																																													<li><a href="http://www.jancisrobinson.com/categories/learn_about_wine.html" target="_self">Learn about wine</a></li>
-																																																					<li><a href="http://www.jancisrobinson.com/categories/where_to_buy.html" target="_self">Where to buy</a></li>
-																																									
-		<li><a href="http://www.jancisrobinson.com/categories/where_to_store.html" target="_self">Where to store</a></li>
-																		<li><a href="http://www.jancisrobinson.com/categories/links_and_addresses.html" target="_self">Links and addresses</a></li>
-																												<li><a href="http://www.jancisrobinson.com/categories/books_dvds.html" target="_self">Books/DVDs</a></li>
-										</ul>
+																									<li><a href="http://www.jancisrobinson.com/categories/wines_of_the_week.html" target="_self">Our views</a></li>
+																												<li><a href="http://www.jancisrobinson.com/categories/videos_podcasts.html" target="_self">Videos</a></li>
+																			<li><a href="http://www.jancisrobinson.com/categories/your_views.html" target="_self">Your views</a></li>
+																									<li><a href="http://www.jancisrobinson.com/maps/index.html" target="_self">Maps</a></li>
+																					<li class="active"><a class="active" href="http://www.jancisrobinson.com/categories/ocw.html" target="_self">Oxford Companion</a></li>
+													<li><a href="http://www.jancisrobinson.com/categories/resources.html" target="_self">Instant expert</a></li>
+																																																													<li><a href="http://www.jancisrobinson.com/membership.html" target="_self">Membership</a></li>
+							</ul>
 </div>
 	 
 	 
 
 
+<!-- ~~~~~~~~~~~~~~ CONTENT ~~~~~~~~~~~~~~  -->
+
+
+ <table id="wrapper" style="width: 100%;"><tbody><tr>
+
+
+  <td id="content" style="vertical-align: top;">
+  
 <div class="content-block sans">
 	<div class="notes_path"><strong>You are here:</strong>&nbsp;&nbsp;<a href="/index.php"><strong>Home</strong></a>&nbsp;&gt;&gt;&nbsp;<a href="/page/privacy_policy.html"><strong>Privacy Policy</strong></a>
 </div>
@@ -166,7 +225,7 @@
   <br>
   <br>
   <br><strong></strong><a style="color: rgb(146, 19, 117);" class="anchor" title="Cookies" name="Cookies" id="Cookies"><strong>Cookies</strong></a>
-  <br> Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve the information from your computer so that they can keep track of things like other web sites you visit or how you navigate our website or other files which provide you with the Site. For more information about what cookies are and how they work, visit <a target="_blank" href="www.allaboutcookies.org">www.allaboutcookies.org</a>.
+  <br> Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve the information from your computer so that they can keep track of things like other web sites you visit or how you navigate our website or other files which provide you with the Site. For more information about what cookies are and how they work, visit <a target="_blank" href="http://www.allaboutcookies.org/" title="" onclick="">www.allaboutcookies.org</a>.
   <br>
   <br>On revisiting our website or in using the files, our computer server will recognise the cookie and give us information about your use of the Site. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance.
   <br>
@@ -178,182 +237,160 @@
 </p>
 </div>
 
-</div>
-</div>
+  </td>
 
 <!-- ~~~~~~~~~~~~~ SIDEBAR ~~~~~~~~~~~~~  -->
-<div id="navigation">
+  <td id="navigation">
 
-	<script type="text/javascript" src="/images/scripts/login.js"></script>
-<div class="hor-menu">
-<div style="float:left; margin-left: 15px;" class="deep-purple">Log in here</div>
-<div style="float:right;"><a href="/renew.html" style=" margin-right:15px" class="deep-purple">Renew</a></div>
-</div>
-<div id="login-block">
-<form name="main_login_form" method="POST" action="http://www.jancisrobinson.com/login.html">
-<p class="deep-purple sans" style="margin-top:0px;"><input id="login_email" class="login_grey" type="text" name="email" value="e-mail" onclick="this.focus();" onfocus="text_input_onfocus('login_email', 'e-mail', 'login')" onblur="text_input_onblur('login_email', 'e-mail', 'login_grey')">&nbsp;<span id="hidden_pass_div" style="display:none;"><input id="login_password" class="login" type="password" name="password" value="" onblur="pass_input_onblur('login_password', 'pass_div', 'hidden_pass_div')"></span><span id="pass_div" style="padding:0px; margin:0px;"><input id="login_password_text" class="login_grey" type="text" name="password" value="password" onfocus="pass_input_onfocus('login_password', 'pass_div', 'hidden_pass_div')"></span>&nbsp;&nbsp;<a href="/page/privacy_policy.html#" class="white" onclick="document.forms['main_login_form'].submit(); return false;">Go</a></p>
-<p class="deep-purple sans"><a href="/forgot.html">Forgotten password?</a>
-  <input id="login-block-remember" type="hidden" name="remember_me" value="1">&nbsp;</p>
-<input type="submit" style="width:0; height:0; border:none; padding:0; margin:0; position:absolute; top:-1; left:-1;">
-</form>
-</div>
-		<div id="trial-block">
-		<p class="trial_header">Join now</p>
-		<div style="margin:5px 0px;">Enter your e-mail now!</div>
-		<div class="sans"><form name="trial" method="POST" action="http://www.jancisrobinson.com/static_pages/join"><input id="trial_email" class="trial_grey" type="text" name="trial_email" value="e-mail" onclick="this.focus();" onfocus="text_input_onfocus('trial_email', 'e-mail', 'trial')" onblur="text_input_onblur('trial_email', 'e-mail', 'trial_grey')">&nbsp;&nbsp;<a href="/page/privacy_policy.html#" class="white" onclick="document.trial.submit(); return false;">Go</a></form></div>
-	</div>
-	
-	<div id="search-block">
-<script type="text/javascript">
-<!--
-
-var arrs_u = ['http://www.jancisrobinson.com/winetaster_search.html', 
-'http://www.jancisrobinson.com/ocwsearch.html',
-'http://www.jancisrobinson.com/forum/search.php?do=process', '',
-'http://www.jancisrobinson.com/sitesearch.html'];
-var arrs_n = ['free_text','free_text','query','','free_text'];
-var arrs_al = ['/winetaster_search.html','/ocwsearch.html','forum/search.php','','/sitesearch.html'];
-function dochange(t)
-{
-	var f = document.search_form;
-	if (!f)
-	{
-		return
-	}
-	var i = t.options[t.selectedIndex].value;
-	f.action = arrs_u[i];
-	document.getElementById('adv_link').href = arrs_al[i];
-	document.getElementById('fld_name').name = arrs_n[i];
-}
-
--->
-</script>
-	<p class="sans"><strong>Search</strong></p>
-	<form name="search_form" method="POST" action="http://www.jancisrobinson.com/winetaster_search.html">
-	<div id="Gobutton">
-            <p class="sans">
-		<input name="do" value="process" type="hidden">
-		<input name="from_index" value="1" type="hidden">
-		<input name="quicksearch" value="1" type="hidden">
-		<input name="childforums" value="1" type="hidden">
-		<input name="exactname" value="1" type="hidden">
-		<input name="s" value="" type="hidden">
-		<input name="securitytoken" value="" type="hidden">
-		<input name="free_text" class="search-input" type="text" id="fld_name">&nbsp;&nbsp;
-                <a class="Gobutton" href="/page/privacy_policy.html#" onclick="dochange(document.getElementById('sel_changer')); document.search_form.submit(); return false;">Go</a>
-	</p>
-        </div>
-	<p class="sans">
-		<select onchange="dochange(this);" id="sel_changer" class="search-input">
-                <option value="4">Rest of site</option>
-				</select>
-	</p>
-	<p class="sans" align="center"><a href="/sitesearch.html" id="adv_link">Advanced search</a></p>
-	<input type="image" src="/images/html_images/1px_transp.gif" style="width:0; height:0; border:none; padding:0; margin:0; position:absolute;">
-	</form>		
-</div>
-<script type="text/javascript">
-setEnter('select');
-</script>
-<div id="sidebar-block">
-<p align="center"></p><div align="center"><p><a href="/tasting_articles/ta201110191.html" target="" title="" onclick="">BORDEAUX 2009</a></p><p><a href="/tasting_articles/ta201110191.html" target="" title="" onclick="">tasted in bottle</a></p><p><a href="/tasting_articles/ta201110191.html" target="" title="" onclick="">300+ reviews</a>&nbsp;</p></div><p></p>
+		<div style="padding: 6pt 10pt 0pt 10pt; font-size: 12pt; color: #242424; font-family: Georgia, Times, serif;">Log in <form name="main_login_form" method="post" action="/login.html">
+  <div>
+  <input id="login_email" class="login_grey" type="text" name="email" value="Email address" onclick="this.focus();" onfocus="text_input_onfocus('login_email', 'Email address', 'login_field')" onblur="text_input_onblur('login_email', 'Email address', 'login_grey')">
+  </div>
+  <span id="hidden_pass_div" style="display:none;"><input id="login_password" class="login_field" type="password" name="password" value="" onblur="pass_input_onblur('login_password', 'pass_div', 'hidden_pass_div')"></span>
+  <div id="pass_div"><input id="login_password_text" class="login_grey" type="text" name="" value="Password" onfocus="pass_input_onfocus('login_password', 'pass_div', 'hidden_pass_div')"></div>
+  <input id="login-block-remember" type="hidden" name="remember_me" value="1"> 
+  <input type="submit" style="margin-top: 8pt;" class="purple_button" value="Log in">
+ </form>
+<p class="deep-purple sans" style="padding-top: 9pt; font-size: 8pt;"><a href="/forgot.html">Forgotten password?</a></p>
 </div>
 
 
 	
 <script type="text/javascript" src="/images/scripts/menu.js"></script>
-		<dl class="block" id="parent_1420">
-	<dt class="sans"><a href="/page/privacy_policy.html#" onclick="MenuDisplayDiv('parent_1420', 'children_1420');" target="_self">Free access</a></dt>
-</dl>	
-			<dl class="block light" id="children_1420">
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/learn_about_wine.html" target="_self">Learn about wine</a></dt>
-		
-	                <dt style="float:right;"><a href="http://twitter.com/jancisrobinson" target="_blank"><img style="position:relative; bottom:15px;" src="images/html_images/twitterLogo.png" alt="Jancis on Twitter" title=""></a></dt>
-        <dt style="float:right;"><a href="http://www.facebook.com/jancisrobinson" target="_blank"><img style="position:relative; left:47px; top:45px;" src="images/html_images/FacebookLogo.png" alt="Jancis on Facebook" title=""></a></dt>
-               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/free_for_all.html" target="_self">Free for all</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/wines_of_the_week.html" target="_self">&nbsp;&nbsp;Wines of the <br>&nbsp;&nbsp;week</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/nick_on_food.html" target="_self">&nbsp;&nbsp;Nick on<br>&nbsp;&nbsp;restaurants</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/travel_tips.html" target="_self">Travel tips</a></dt>
-		<dt style="float:right;"><a href="/articles/20080414_2"><img style="position:relative; top:25px;" src="images/html_images/china.gif" alt="" title=""></a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/books_dvds.html" target="_self">Books/DVDs</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/where_to_buy.html" target="_self">Where to buy</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/where_to_store.html" target="_self">Where to store</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/links_and_addresses.html" target="_self">Links and addresses</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/jancis_recommends.html" target="_self">Jancis recommends</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/videos_podcasts.html" target="_self">Videos</a></dt>
-		
-			</dl>	
-		<dl class="block bpurple" id="parent_1419">
-	<dt class="sans"><a href="/page/privacy_policy.html#" onclick="MenuDisplayDiv('parent_1419', 'children_1419');" target="_self">Purple pages</a></dt>
-</dl>	
-			<dl class="block light-purple" id="children_1419">
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/tasting_articles.html" target="_self">Tasting notes</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/your_views.html" target="_self">Your (re)views</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/forum/" target="_self">Forum</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/ocw.html" target="_self">Oxford Companion to Wine</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/maps/index.html" target="_self">World Atlas of Wine maps</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/inside_information.html" target="_self">Inside information</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/don_t_quote_me.html" target="_self">Don't quote me</a></dt>
-		
-	               
-	<dt class="sans" style="padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/alder_on_america.html" target="_self">Alder on America</a></dt>
-		
-</dl>
-<div class="block">
-	<div class="sans" style="padding-bottom:2px;">Sign up for our free newsletter</div>
-	<div><form name="subscription_home" method="POST" action="http://www.jancisrobinson.com/subscribe.html"><input id="subscribe_email" class="subscribe_grey" type="text" name="email" value="" onclick="this.focus();">&nbsp;&nbsp;<a href="/page/privacy_policy.html#" class="white" onclick="document.subscription_home.submit(); return false;">Go</a></form></div>
-</div>	
 
-</div>
 
-<div id="footer">						<a href="http://www.jancisrobinson.com/page/contact_us.html" target="_self">Contact us</a>
-				–		<a href="http://www.jancisrobinson.com/page/team_jancis.html" target="_self">Team Jancis</a>
-				–		<a href="http://www.jancisrobinson.com/page/site_faqs.html" target="_self">Site FAQs</a>
-				–		<a href="http://www.jancisrobinson.com/static_pages/join" target="_self">Join now</a>
-				–		<a href="http://www.jancisrobinson.com/page/terms_and_conditions.html" target="_self">Terms and Conditions</a>
-				–		<a href="http://www.jancisrobinson.com/page/privacy_policy.html" target="_self">Privacy policy</a>
-				–		<a href="http://www.jancisrobinson.com/page/site_map.html" target="_self">Site map</a>
-				–		<a href="http://www.jancisrobinson.com/rss" target="_self">RSS</a>
+			
+		
+<div style="padding: 12pt 0px;"><div class="separator"></div></div>
+
+<dl id="parent_1420">
+	<dt class="purple" style="padding-left: 10pt; font-family: Georgia, Times, serif; font-size: 12pt;"><a href="/page/privacy_policy.html#" onclick="MenuDisplayDiv('parent_1420', 'children_1420');" style="text-decoration: none;" target="_self">Free access</a></dt>
+</dl>	
+
+			<dl class="rhmenu_block" id="children_1420">
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/learn_about_wine.html" target="_self">Learn about wine</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/free_for_all.html" target="_self">Free for all</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/wines_of_the_week.html" target="_self">Wines of the week</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/nick_on_food.html" target="_self">Nick on restaurants</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/event_diary.html" target="_self">Events diary</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/videos_podcasts.html" target="_self">Videos</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/travel_tips.html" target="_self">Travel tips</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/books_dvds.html" target="_self">Books/DVDs</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/where_to_buy.html" target="_self">Where to buy</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/where_to_store.html" target="_self">Where to store</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/links_and_addresses.html" target="_self">Links and addresses</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/jancis_recommends.html" target="_self">Jancis recommends</a></dt>
+
+			</dl>
+			
+		
+<div style="padding: 12pt 0px;"><div class="separator"></div></div>
+
+<dl id="parent_1419">
+	<dt class="purple" style="padding-left: 10pt; font-family: Georgia, Times, serif; font-size: 12pt;"><a href="/page/privacy_policy.html#" onclick="MenuDisplayDiv('parent_1419', 'children_1419');" style="text-decoration: none;" target="_self">Purple Pages</a></dt>
+</dl>	
+<div style="padding: 4pt 0pt 0pt 10pt; font-size: 8pt;"><i>Paid membership access only</i></div>
+			<dl class="rhmenu_block" id="children_1419">
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/tasting_articles.html" target="_self">Tasting notes</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/forum/" target="_self">Members' forum</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/ocw.html" target="_self">Oxford Companion to Wine</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/maps/index.html" target="_self">World Atlas of Wine maps</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/inside_information.html" target="_self">Inside information</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/don_t_quote_me.html" target="_self">Don't quote me</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/alder_on_america.html" target="_self">Alder on America</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/alex_on_taste.html" target="_self">Alex on taste</a></dt>
+
+
+		<dt class="sans" style="padding-bottom: 6pt; padding-left:0px;"><a href="http://www.jancisrobinson.com/categories/your_views.html" target="_self">Your (re)views</a></dt>
+
+</dl><div style="padding: 20pt 0px;"><div class="separator"></div></div>
+  </td>
+
+ </tr></tbody></table>
+
+
+ <div id="bottom_menu">						<a href="http://www.jancisrobinson.com/page/contact_us.html" target="_self">Contact us</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/page/team_jancis.html" target="_self">Team Jancis</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/page/site_faqs.html" target="_self">Site FAQs</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/static_pages/join" target="_self">Join now</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/page/terms_and_conditions.html" target="_self">Terms and Conditions</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/page/privacy_policy.html" target="_self">Privacy policy</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/page/site_map.html" target="_self">Site map</a>
+				<span style="color: #b0b0b0; padding: 2pt 4pt; font-size: 8pt;">|</span>		<a href="http://www.jancisrobinson.com/rss" target="_self">RSS</a>
 	</div>
 
+ <div id="footer">
+  <div style="width: 200px; float: right;">
+<div style="color: #426496; font-family: Georgia, Times, serif; font-size: 13pt;">
+<a href="http://www.facebook.com/jancisrobinson" target="_blank"><img style="vertical-align: middle; padding-right: 5px;" src="/images/html_images/fb_logo.png" alt="Facebook logo">
+Facebook
+</a>
 </div>
-<div class="copy">© Copyright 2000-2011 Jancis Robinson</div>
+<div style="color: #636363; font-family: Arial, sans; margin: 6pt 3pt; width: 170px;">Keep up to date on our activity on Facebook.</div>
+<div class="separator" style="position: relative; left: -5px; margin-bottom: 10pt; margin-top: 4pt;"></div>
+<div><a style="color: #f19346; font-family: Georgia, Times, serif; font-size: 13pt;" href="/rss"><img style="vertical-align: middle; padding-left: 3px; padding-right: 13px;" src="/images/html_images/rss_logo.png">RSS</a></div>
+<div class="separator" style="position: relative; left: -5px; margin-bottom: 10pt; margin-top: 4pt;"></div>
+<div style="width: 190px">
+<a href="/articles/20080414_2"><img style="float: left; margin-left: 2px; margin-right: 10px; padding-bottom: 40px;" src="/images/html_images/china_flag.png" alt="China flag">
+<span class="purple" style="font-family: Arial, sans;">View our selection of Chinese-language content.</span>
+</a>
+</div>
+</div>  <div style="width: 730px;">
+<img src="/images/html_images/twitter_logo.png" alt="Twitter logo">
+<span style="padding-left: 6pt; color: #3893b1; position: relative; top: -11px; font-family: Georgia, Times, Serif; font-size: 12pt;">Follow us on Twitter</span>
+<div style="float: right;"><a href="http://twitter.com/jancisrobinson" target="_blank">More tweets...</a></div>
+<div class="quest" id="twitter_update_list"></div>
+<form name="subscription_home" method="POST" action="/subscribe.html">
+<img style="margin-left: 6px;" src="/images/html_images/mailing_list.png" alt="Mail envelope">
+ <span style="color: #636363; position: relative; top: -11px; font-family: Georgia, Times, Serif; font-size: 14pt; padding-left: 8px;">Sign up for our free newsletter
+ <input style="margin-left: 6px;" id="subscribe_email" class="login_grey" type="text" name="email" value="Your email address" onclick="this.focus();" onfocus="text_input_onfocus('subscribe_email', 'Your email address', 'login_field')" onblur="text_input_onblur('subscribe_email', 'Your email address', 'login_grey')">
+ <input type="submit" style="height: 25px; margin: 0px 12px; position: relative; top: -2px;" value="Sign up" class="signup_grey_button">
+ </span>
+</form>
 
-<script type="text/javascript" src="/lib/twitterFeed.js"></script>
-<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/jancisrobinson.json?callback=twitterCallback2&amp;count=15"></script>
+</div> 
+ </div>
+
+</div>
+
+ <div class="copy">© Copyright 2000-2012 Jancis Robinson</div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
