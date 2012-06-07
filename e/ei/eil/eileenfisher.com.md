@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208142811id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607211116id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
 
-# Free Standard Shipping on Women's Clothing at Shop at Eileen Fisher
+# Shop Women's Fashion & Clothing at Eileen Fisher
 
 **EILEEN FISHER PRIVACY POLICY**
 
@@ -22,7 +22,7 @@ By using our website, you agree to our privacy policy as described above and to 
 
 If you have any questions about our privacy policy or our 
 
-[_terms of use_](https://web.archive.org/web/20111208142811id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
+[_terms of use_](https://web.archive.org/web/20120607211116id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
 
 , please email us at 
 
