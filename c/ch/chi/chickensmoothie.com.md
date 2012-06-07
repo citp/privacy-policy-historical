@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225045id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607024313id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Chicken Smoothie
 
@@ -144,7 +144,7 @@ If you have any questions or concerns about privacy, please contact us using the
 [coppa@chickensmoothie.com](mailto:coppa@chickensmoothie.com)
 
 Privacy Manager, ChickenSmoothie.com  
-20 Gillespie St  
-North East Valley 9010  
+2 Gresham Street  
+Tainui 9013  
 Dunedin  
 New Zealand
