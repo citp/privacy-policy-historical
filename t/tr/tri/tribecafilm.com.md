@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tribecafilm.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203108id_/http%3A//www.tribecafilm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribecafilm.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607225943id_/http%3A//www.tribecafilm.com/privacy) for the most accurate reproduction.*
 
-# TribecaFilm.com | Privacy Policy | Privacy Policy
+# TribecaFilm.com | Privacy Policy
 
 Welcome to [www.TribecaFilm.com]() (the “Website”) operated by Tribeca Enterprises LLC, a Delaware limited liability company located at 375 Greenwich Street, New York, NY 10013 (“TE”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how your personally identifiable information (“PII”) and other information is collected by us in operating the Website. 
 
