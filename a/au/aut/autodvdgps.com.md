@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006103925id_/http%3A//www.autodvdgps.com/help/entry/51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608002059id_/http%3A//www.autodvdgps.com/adg-help-51-articles.html) for the most accurate reproduction.*
 
-# AutoDVDGPS Knowledgebase / Privacy Notice
+# Car DVD Player, Car Electronics, Car Accessories at Qualir
 
----  
-  
+[](http://www.autodvdgps.com/account.html)
+
+[](http://www.autodvdgps.com/contact_us.html)
+
+| 
+
+Privacy Policy
+
 | **Information protection policy**  
 ---  
 AutoDVDGPS.com highly values our visitors and customers' privacy and does our best to keep the collected information from unauthorized abuse. The following are our Information protection policies.   
@@ -14,7 +20,7 @@ AutoDVDGPS.com highly values our visitors and customers' privacy and does our be
 -We do not track or store personalised details about your web browsing.  
 -Customer data is stored securely and disposal of these paper records is via shredding.  
 -You are entitled to request a copy of the data we have on record about you or your orders.  
-Sometimes we request e.g. credit card scans or bill copies for verifications of first order payment, this is only a standard anti-fraud measure, we will cancel all your submitted data immediately after the verification check on your order. You are entitled to request us to cancel your account, but we will store your data from previous orders for accounting and anti-fraud purposes.   
+Sometimes we request e.g. credit card scans or bill copies for verifications of first order payment, this is only a standard anti-fraud measure, we will cancel all your submitted data immediately after the verification check on your order. You are entitled to request us to cancel your account, but we will store your data from previous orders for accounting and anti-fraud purposes.  
    
 **Privacy policy changes**  
 We reserve the right to change this privacy policy at any time. We will publish the change on AutoDVDGPS.com once there is any change. We will also take other reasonable measures to let you know the new changes. Should our company be merged by other company, we are responsible for notifying you personally. At that time, you determine whether you want to keep your account open or not.  
@@ -28,12 +34,4 @@ Since all credit card payments are handled through Paypal, AutoDVDGPS.com does n
    
 **Who has access to your personal information?**  
 Our employees who are responsible for handling your account have access to your information. In addition, our technical team may have access to your information in order to conduct routine checks on the integrity of our system and to perform necessary maintenance work.   
-The credit card processing companies will have access to your credit card information, billing address, name, and possibly your telephone number because we have to consult with a credit card processing company to process your credit card. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business. The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in. Additionally, judicial requests by a duly authorized court will require us to divulge certain information regarding your account should that situation arise. Finally, should our company ever be merged, your account information would then become the property of the new entity.  
-  
-* * *
-
-Contact Us
-
-* * *
-
-[](http://www.autodvdgps.com/help/rssfeed/)
+The credit card processing companies will have access to your credit card information, billing address, name, and possibly your telephone number because we have to consult with a credit card processing company to process your credit card. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business. The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in. Additionally, judicial requests by a duly authorized court will require us to divulge certain information regarding your account should that situation arise. Finally, should our company ever be merged, your account information would then become the property of the new entity.
