@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the missosology.org privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925182301id_/http%3A//www.missosology.org/main/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D230%26Itemid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missosology.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607085611id_/http%3A//www.missosology.org/main/index.php/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# MISSOSOLOGY • Privacy policy
 
 **Last Updated on** Tuesday, 28 June 2011 03:02  Tuesday, 28 June 2011 02:40 
 
-[](http://www.missosology.org/main/component/mailto/?tmpl=component&link=aHR0cDovL3d3dy5taXNzb3NvbG9neS5vcmcvbWFpbi9wcml2YWN5LXBvbGljeS5odG1s "E-mail") [](http://www.missosology.org/main/privacy-policy.html?tmpl=component&print=1&page= "Print") [](http://www.missosology.org/main/privacy-policy.pdf "PDF")
+[](http://www.missosology.org/main/index.php/component/mailto/?tmpl=component&link=9d70c0791c88dd47bb409356dfb560004e416f55 "E-mail") [](http://www.missosology.org/main/index.php/privacy-policy.html?tmpl=component&print=1&page= "Print") [](http://www.missosology.org/main/index.php/privacy-policy.pdf "PDF")
+
+[](http://pinterest.com/pin/create/button/)
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted clearly on the website. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -31,3 +33,18 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: contactus [ at ] missosology.info
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+Author Articles
+    
+
+More from this author:
+
+Latest Articles
+    
+
+Latest Articles:
+
+Most Read Articles
+    
+
+Most Read Articles:
