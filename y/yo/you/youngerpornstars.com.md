@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngerpornstars.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103053844id_/http%3A//youngerpornstars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngerpornstars.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608014245id_/http%3A//youngerpornstars.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
