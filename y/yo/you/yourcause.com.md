@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110203653id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607214512id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CSRconnect | Employee Engagement by YourCause
 
@@ -13,7 +13,7 @@ As used in this policy, the terms "using" and "processing" information include u
 **Information Collection and Use**  
 _Personally Identifiable Information._
 
-In the course of using the Services (including a Hosted Application), we may ask you to provide us with certain personally identifiable information("Personal Information")that can be used to contact or identify you and administer your account. Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. 
+In the course of using the Services (including a Hosted Application), we may ask you to provide us with certain personally identifiable information ("Personal Information") that can be used to contact or identify you and administer your account. Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. 
 
 We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage _(e.g., without limitation, zip code (on its own) and individual preferences)_ ("Non-Identifying Information"). 
 
