@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126075731id_/http%3A//www.buffalotech.com/about/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607033207id_/http%3A//www.buffalotech.com/about/legal-privacy) for the most accurate reproduction.*
 
 # About Buffalo - Legal | Buffalo Technology
 
