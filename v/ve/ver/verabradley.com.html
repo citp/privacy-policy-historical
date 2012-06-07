@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the verabradley.com privacy policy that was archived on 2011-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208175515id_/http%3A//www.verabradley.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verabradley.com privacy policy that was archived on 2012-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607044108id_/http%3A//www.verabradley.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -36,10 +36,14 @@
 			wid : (site.data.currentWindowSize[0] + site.data.backgroundSafteyMargin),
 			baseURL : scene7.data.imagePath + "background"
 		});
-		document.write('<style type="text/css">body { background: #fff url(' + bgURL + ') no-repeat fixed top left; }</style>');
+        if ((navigator.userAgent.match(/iPad/i)!= null)){
+             document.write('<style type="text/css">body { background:url(' + bgURL + ') repeat fixed center center;}</style>');
+        }
+		else {
+            document.write('<style type="text/css">body { background:url(' + bgURL + ') no-repeat fixed top left;}</style>');
+        }
 	}
 </script>
-<script type="text/javascript" src="/js/ocpsdk/aggregator/script_source.jsp?gkey=sG_1453223925966513874&amp;hash=-3750763034362895579"></script>
 
 <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
 			<script type="text/javascript">
@@ -501,7 +505,11 @@
 					
 							<a href="http://www.twitter.com/verabradley/" target="_blank"><img src="/assets/images/cms/home/twitter2.png" align="absmiddle" height="20" width="20" style="margin: 0 3px 3px 0;" alt="Twitter" title="Twitter"></a>
 							
-							<a href="http://www.youtube.com/user/ClubVeraBradley" target="_blank"><img src="/assets/images/cms/home/youtube.png" align="absmiddle" height="20" width="20" style="margin: 0 0px 3px 0;" alt="You Tube" title="You Tube"></a>
+							<a href="http://www.youtube.com/user/ClubVeraBradley" target="_blank"><img src="/assets/images/cms/home/youtube.png" align="absmiddle" height="20" width="20" style="margin: 0 3px 3px 0;" alt="You Tube" title="You Tube"></a>
+
+							<a href="http://pinterest.com/verabradley/" target="_blank"><img src="/assets/images/cms/home/pinterest.png" align="absmiddle" height="20" width="20" style="margin: 0 0px 3px 0;" alt="Pinterest" title="Pinterest"></a>
+							
+							
 						</div>
 						
 						
@@ -519,21 +527,22 @@
 
 				
 				<ul>
-					<li><span style="color: #669966; font-weight: bold; text-transform: uppercase;">NEW! </span><a href="/giftcard/Gift-Card/1001564/defaultColor/Green/p/1001564.uts">Gift Cards</a></li>
+					<li><a href="/giftcard/Gift-Card/1001564/defaultColor/Green/p/1001564.uts">Gift Cards</a></li>
 					<li><a href="/catalog/shop_catalogs.jsp">View Catalogs</a></li>
-					<li><a href="/catalog/request_catalog.jsp">Request A Catalog</a></li>
 					<li>|</li>
 					<li><a href="/content/content.jsp?pageName=aboutus">About Us</a></li>
-					<li><a href="/content/content.jsp?pageName=careers">Careers</a></li>
+					<li><a href="/assets/careers/index.html" target="_blank">Careers</a></li>
 					<li><a href="/content/content.jsp?pageName=mediaroom">Media Room</a></li>
 					<li><a href="http://investors.verabradley.com">Investor Relations</a></li>
-					<li><a href="/content/content.jsp?pageName=corporategifts">Corporate Gifts</a></li>
+					<li><a href="/content/content.jsp?pageName=corporategifts">Corporate Sales</a></li>
+
+
 				</ul>
 
 
 
 				<ul class="copyright">
-					<li class="small">©2011 Vera Bradley Sales, LLC All Rights Reserved</li>
+					<li class="small">©2012 Vera Bradley Sales, LLC All Rights Reserved</li>
 					<li><a href="/custserv/custserv.jsp?pageName=termsofuse">Terms of Use</a></li>
 					<li><a href="/custserv/custserv.jsp?pageName=legalnotices">Legal Notices</a></li>
 					<li><a href="/custserv/custserv.jsp?pageName=Privacy">Privacy Policy</a></li>
