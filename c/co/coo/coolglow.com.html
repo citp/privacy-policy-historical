@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coolglow.com privacy policy that was archived on 2011-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208200156id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolglow.com privacy policy that was archived on 2012-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607193025id_/http%3A//coolglow.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy - Glow Sticks, Glow Necklaces, Glow Bracelets, Wholesale Cheap Glow Sticks</title>
@@ -11,11 +11,12 @@
 <meta name="robots" content="index, follow">
 	<link rel="shortcut icon" href="http://coolglow.com/images/favicon.ico">
 	    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <link href="/templates/coolglow/css/template_css20111122_white.css" type="text/css" rel="stylesheet">
+    <link href="/templates/coolglow/css/template_css20120604_white.css" type="text/css" rel="stylesheet">
     
     <link href="/templates/coolglow/css/menuMatic_20111122_white.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="/templates/coolglow/css/jquery-ui-1.8.13.custom.css" type="text/css">
-    <link rel="stylesheet" href="/templates/coolglow/css/customprint_frontend.css" type="text/css">
+    <link rel="stylesheet" href="/includes/jqzoom_ev/css/jquery.jqzoom.css" type="text/css">
+    <!--link rel="stylesheet" href="/templates/coolglow/css/customprint_frontend.css" type="text/css" /-->
     
 	    
 <link rel="stylesheet" href="/templates/coolglow/css/landing_party.css" type="text/css">    
@@ -56,7 +57,7 @@
 	
 	  (function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		ga.src = 'https://ssl.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	
@@ -66,26 +67,53 @@
 	
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=75431243"></script></head>
 <body id="body">
-		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-	<script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId  : '135503379876288',
-          status : true, // check login status
-          cookie : true, // enable cookies to allow the server to access the session
-          xfbml  : true,  // parse XFBML
-          channelUrl  : document.location.protocol + '//www.coolglow.com/channel.html', // Custom Channel URL
-          oauth : true //enables OAuth 2.0
-        });
-      };
-    
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-    </script>
+	    
+            <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+        <script>
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId  : '135503379876288',
+              status : true, // check login status
+              cookie : true, // enable cookies to allow the server to access the session
+              xfbml  : true,  // parse XFBML
+              channelUrl  : document.location.protocol + '//www.coolglow.com/channel.html', // Custom Channel URL
+              oauth : true //enables OAuth 2.0
+            });
+            FB.Event.subscribe('edge.create',
+                function(response) {
+                    var urlLiked = response;
+                    var fbUserId = 0;
+                    var fbCatgoryId = jQuery("#fb_category_id").val();
+                    var fbProductId = jQuery("#fb_product_id").val();
+                    if (fbUserId > 0) {
+                        jQuery.post("/index.php?option=com_virtuemart&func=facebook_like", "fb_user_id=" + fbUserId +"&url_liked="+ urlLiked+"&fb_cat_id="+ fbCatgoryId+"&fb_prod_id="+ fbProductId, function() {
+                            document.location = document.location;	
+                        });
+                    } else {
+                        document.location = 'https://www.facebook.com/dialog/oauth?client_id=135503379876288&redirect_uri=http%3A%2F%2Fcoolglow.com%2Fprivacy-policy%2F&state=4bd7647e252e6aaec53e891372c062eb&scope=user_likes%2Cread_stream%2Cpublish_stream';
+                    }
+                    
+                }
+            );
+            FB.Event.subscribe('edge.remove',
+                function(response) {
+                    var urlLiked = response;
+                    var fbUserId = 0;
+                    jQuery.post("/index.php?option=com_virtuemart&func=facebook_unlike", "fb_user_id=" + fbUserId +"&url_liked="+ urlLiked, function() {
+                        document.location = document.location;	
+                    });
+                }
+            );
+         };
+        
+          (function() {
+            var e = document.createElement('script');
+            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+            e.async = true;
+            document.getElementById('fb-root').appendChild(e);
+          }());
+        </script>
+        
 	
 
 	
@@ -97,20 +125,18 @@
 	    	
     
     	<div id="hot_header">
-        	<div id="left" style="height: 40px;">
-            	<img src="http://coolglow.com/templates/coolglow/images/v2/hot_header_bg1_v2.gif">
+        	<div id="left">
+            	<img src="http://coolglow.com/templates/coolglow/images/v4/hot_header_bg1.gif">
             </div>
-            <div id="right" style="height: 40px; position: relative;">
-            	<img src="http://coolglow.com/templates/coolglow/images/v2/hot_header_bg2_v2.gif">
+            <div id="right" style="position: relative;">
+            	<img src="http://coolglow.com/templates/coolglow/images/v4/hot_header_bg2.gif">
             </div>
-            <!--img src="http://coolglow.com/templates/coolglow/images/v2/hot_header_bg_blackcyber.jpg" width="1010"-->
         </div>
     
         <div id="header"> 
         	<div id="logo">
             	<a href="http://coolglow.com/1/1/Glow-Products/" title="CoolGlow.Com" class="footprints_header_logo">
-                	                    	<img id="coolglowlogo" src="http://coolglow.com/templates/coolglow/images//v2/logo_white.jpg" alt="Cool Glow">
-                        
+                	<img id="coolglowlogo" src="http://coolglow.com/templates/coolglow/images//v2/logo_white.jpg" alt="Cool Glow">
                 </a>
                 <br>
             </div>
@@ -128,9 +154,9 @@
            
                 <div id="header_bookmark">
                  	<div class="separator"></div>
-                    <div id="bookmark"><a class="footprints_header_bookmark hand" onclick="bookmarksite('CoolGlow.Com','http://coolglow.com')" title="Bookmark"><img src="/templates/coolglow/images/v3/bookmark_white.jpg" border="0"></a></div>
+                    <div id="bookmark"><a class="footprints_header_bookmark hand" onclick="bookmarksite('CoolGlow.Com','http://coolglow.com')" title="Bookmark"><img src="/templates/coolglow/images/v3/bookmark_white.png" border="0"></a></div>
                     <div class="separator"></div>
-                                    <div id="livechat"><img class="footprints_topmenu_Live-Chat" onclick="window.open('http://server.iad.liveperson.net/hc/75431243/?cmd=file&amp;file=visitorWantsToChat&amp;site=75431243&amp;byhref=1&amp;SESSIONVAR!skill=Default%20Ticket%20Skill&amp;imageUrl=https://cprcare.com/images/chat/','mywindow','width=491,height=487')" style="cursor: pointer" src="/templates/coolglow/images/v3/chat_online_white.jpg" border="0" title="Chat with one of our representatives!"></div>
+                                    <div id="livechat"><img class="footprints_topmenu_Live-Chat" onclick="window.open('https://server.iad.liveperson.net/hc/75431243/?cmd=file&amp;file=visitorWantsToChat&amp;site=75431243&amp;byhref=1&amp;SESSIONVAR!skill=Default%20Ticket%20Skill&amp;imageUrl=https://cprcare.com/images/chat/','mywindow','width=491,height=487')" style="cursor: pointer" src="/templates/coolglow/images/v4/chat_online_white.png" border="0" title="Chat with one of our representatives!"></div>
                                      <div class="separator"></div>
                 </div>
            
@@ -154,8 +180,9 @@
         
        
         <div id="navigation3">
+        	<img id="bg_curve" src="/templates/coolglow/images/v4/bg_curve_white.png">
             <div id="tab1" class="tabs">
-            	<a href="/1/1/1/Glow-Products/" class="footprints_topmenu_Glow-Products-Tab"><img src="http://coolglow.com/templates/coolglow/images//v3/menu_tab1.png" id="menutab1"></a>
+            	<a href="/1/1/1/Glow-Products/" class="footprints_topmenu_Glow-Products-Tab"><img src="http://coolglow.com/templates/coolglow/images//v4/menu_tab1.png" id="menutab1" class="menutabs "></a>
                 <div id="submenutab1" class="submenutabs">
                     <div class="items twoline footprints_topmenu_Glow-Necklaces"><a href="/1/3/3/Glow-Necklaces/">Glow <br>Necklaces</a></div><div class="separators"></div>
                     <div class="items oneline footprints_topmenu_Glow-Sticks"><a href="/1/2/2/Glow-Sticks/">Glow Sticks</a></div><div class="separators"></div>
@@ -170,7 +197,7 @@
                 </div>
             </div>
             <div id="tab2" class="tabs">
-            	<a href="/2/75/75/LED-Products/" class="footprints_topmenu_LED-Products-Tab"><img src="http://coolglow.com/templates/coolglow/images//v3/menu_tab2.png" id="menutab2"></a>
+            	<a href="/2/75/75/LED-Products/" class="footprints_topmenu_LED-Products-Tab"><img src="http://coolglow.com/templates/coolglow/images//v4/menu_tab2.png" id="menutab2" class="menutabs "></a>
             	<div id="submenutab2" class="submenutabs">
                     <div class="items oneline footprints_topmenu_LED-Eye-Glasses"><a href="/2/83/83/LED-Eye-Glasses/">LED Eye Glasses</a></div><div class="separators"></div>
                    	<div class="items oneline footprints_topmenu_LED-Jewelry"><a href="/2/76/76/LED-Jewelry/">LED Jewelry</a></div><div class="separators"></div>
@@ -184,15 +211,15 @@
                 </div>
             </div>
             <div id="tab3" class="tabs">
-            	<a href="/3/1111/1111/Party-Supplies/" class="footprints_topmenu_Party-Supplies-Tab"><img src="http://coolglow.com/templates/coolglow/images//v3/menu_tab3.png" id="menutab3"></a>
-                <div id="submenutab3" class="submenutabs" style="display: block;">
+            	<a href="/3/1111/1111/Party-Supplies/" class="footprints_topmenu_Party-Supplies-Tab"><img src="http://coolglow.com/templates/coolglow/images//v4/menu_tab3.png" id="menutab3" class="menutabs  current-menutab"></a>
+                <div id="submenutab3" class="submenutabs" style="display: block; background: url('http://coolglow.com/templates/coolglow/images/v4/menu_bg3.png') repeat-x scroll 0 0 transparent;">
                     <div id="submenutab3_0_223" class="items oneline"><a href="/3/223/223/Theme-Parties/">Theme Parties</a></div><div class="separators"></div>
                     <div id="submenutab3_1_225" class="items oneline"><a href="/3/225/225/Special-Occasions/">Special Occasions</a></div><div class="separators"></div>
                     <div id="submenutab3_2_221" class="items oneline"><a href="/3/221/221/Holiday-Parties/">Holiday Parties</a></div><div class="separators"></div>
                     <div id="submenutab3_3_390" class="items oneline"><a href="/3/390/390/Party-Supplies/">Party Supplies</a></div><div class="separators"></div>
                     <div id="submenutab3_4_614" class="items oneline"><a href="/3/614/614/Sport-Themes/">Sports Theme</a></div><div class="separators"></div>
                     <div id="submenutab3_5_1112" class="items twoline"><a href="/3/1112/1112/Solid-Color-Tableware/">Solid Color<br>Tableware</a></div><div class="separators"></div>
-                    <div id="submenutab3_6_851" class="items oneline"><a href="/3/851/851/Wedding/">Wedding</a></div><div class="separators"></div>
+                    <div id="submenutab3_6_3712" class="items oneline"><a href="/3/3712/3712/Custom-Banners/">Custom Banners</a></div><div class="separators"></div>
                     <div id="submenutab3_7_368" class="items oneline"><a href="/3/368/368/Baby-Showers/">Baby Shower</a></div>
                     	
                     
@@ -202,21 +229,51 @@
             </div> 
              
                         
+                        
+                                  
+                                                            
+                        
+                        
             <div id="tab4" class="tabs">
-            	<a href="/4/237/237/Christmas/" class="footprints_topmenu_Christmas-Tab"><img src="http://coolglow.com/templates/coolglow/images//v3/menu_tab4_christmas.png" id="menutab4"></a>
+            	<a href="/4/5007/5007/Blacklight-Products/" class="footprints_topmenu_Blacklight-Tab"><img src="http://coolglow.com/templates/coolglow/images//v4/menu_tab_blacklight.png" id="menutab4" class="menutabs "></a>
                 <div id="submenutab4" class="submenutabs">
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/1746/1746/Christmas-Decorations/">Christmas<br>Decorations</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/1735/1735/Stocking-Stuffers/">Stocking<br>Stuffers</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/1751/1751/Santa-Hats-Headbands-and-Elf-Hats/">Santa Hats<br>Elf Hats</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/463/463/Christmas-Paper-Goods/">Christmas<br>Paper Goods</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/2271/2271/Christmas-Light-Up-Favors/">LED &amp;<br>Light-Ups</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/2269/2269/Christmas-Glow-Favors/">Christmas<br>Glow Favors</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/1739/1739/Gifts/">Christmas<br>Gifts</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/1747/1747/Santa-Claus-Costumes/">Santa Claus<br>Costumes</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/1744/1744/Christmas-Party-Extras/">Party<br>Extras</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/469/469/Christmas-Balloons/">Christmas<br>Balloons</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/467/467/Christmas-Invitations/">Christmas<br>Invitations</a></div><div class="separators"></div>
-                    <div class="items twoline" style="min-width: 30px; padding-left: 8px; padding-right: 8px;"><a href="/4/475/475/Christmas-Drinkware/">Christmas<br>Drinkware</a></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5013/5013/Blacklight-Paint/">Blacklight<br>Paint</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5012/5012/Blacklight-Tableware/">Blacklight<br>Tableware</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5009/5009/Blacklight-Cosmetics/">Blacklight<br>Cosmetics</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5010/5010/Blacklight-Bubbles/">Blacklight<br>Bubbles</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5014/5014/Blacklight-Posters/">Blacklight<br>Posters</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5129/5129/Blacklight-Apparel/">Blacklight<br>Apparel</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5008/5008/Blacklights/">Blacklight<br>Fixtures &amp; Bulbs</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/4/5016/5016/Blacklight-Room-Decor/">Blacklight<br>Room Decor</a></div>
+				</div>
+            </div> 
+            
+            
+            <div id="tab5" class="tabs">
+            	<a href="/5/242/242/Luau-Party/" class="footprints_topmenu_Luau-Tab"><img src="http://coolglow.com/templates/coolglow/images//v4/menu_tab_luau.png" id="menutab5" class="menutabs "></a>
+                <div id="submenutab5" class="submenutabs">
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/1183/1183/Luau-Drinkware-and-Coolers/">Drinkware &amp;<br>Coolers</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/568/568/Luau-Paper-Goods/">Luau<br>Paper Goods</a></div><div class="separators"></div>
+                    <div class="items oneline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/1203/1203/Outdoor-Decor/">Outdoor Decor</a></div><div class="separators"></div>
+                    <div class="items oneline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/1211/1211/Hawaiian-Leis">Hawaiian Leis</a></div><div class="separators"></div>
+                    <div class="items oneline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/1213/1213/Hula-Skirts/">Hula Skirts</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/1197/1197/Hanging-Decorations/">Hanging<br>Decorations</a></div><div class="separators"></div>
+                    <div class="items oneline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/1215/1215/Beach-Hats/">Beach Hats</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/5/570/570/Sunglasses-and-Eyewear/">Sunglasses &amp;<br>Eyeware</a></div>
+				</div>
+            </div> 
+            
+            <div id="tab6" class="tabs">
+            	<a href="/6/230/230/4th-of-July/" class="footprints_topmenu_Patriotic-Tab"><img src="http://coolglow.com/templates/coolglow/images//v4/menu_tab_july4th.png" id="menutab6" class="menutabs "></a>
+                <div id="submenutab6" class="submenutabs">
+                    <div class="items twoline" style="min-width: 98px; padding-left: 8px; padding-right: 8px;"><a href="/6/288/288/July-4th-Paper-Goods/">4th of July<br>Paper Goods</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 88px; padding-left: 8px; padding-right: 8px;"><a href="/6/1152/1152/July-4th-Drinkware">4th of July<br>Drinkware</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/6/290/290/July-4th-Hanging-Decorations">4th of July<br>Hanging Decorations</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 95px; padding-left: 8px; padding-right: 8px;"><a href="/6/300/300/July-4th-Light-Ups">4th of July<br>Light Ups</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/6/624/624/July-4th-Glow-Products/">4th of July<br>Glow Products</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/6/4434/4434/July-4th-Custom-Banners/">4th of July<br>Custom Banners</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/6/1162/1162/July-4th-Flags-Bows-and-Buntings">4th of July Flags,<br> Bows &amp; Buntings</a></div><div class="separators"></div>
+                    <div class="items twoline" style="min-width: 108px; padding-left: 8px; padding-right: 8px;"><a href="/6/1158/1158/July-4th-Garlands-and-Banners/">4th of July<br>Garlands &amp; Banners</a></div>
                 </div>
             </div> 
             
@@ -225,19 +282,16 @@
             
             
             <div id="search_box">
-            	&nbsp; &nbsp; &nbsp; Search&nbsp;
+            	Product Search:&nbsp;
                                 <form name="searchForm" action="/search-product/18/1/1/" method="get" style="display: inline">
-                	<input type="text" name="kw" maxlength="128" value="" autocomplete="off">&nbsp;
+                	<input type="text" name="kw" maxlength="128" value="">&nbsp;
                 </form>
-                <img src="http://coolglow.com/templates/coolglow/images//v3/menu_search_button_white.png" width="28" height="31" border="0" align="absmiddle" onclick="document.searchForm.submit();" style="cursor: pointer;" class="footprints_topmenu_Product-Search">
-           		<div id="new_view_cart">
-                    <a href="https://coolglow.com/view-cart" class="footprints_topmenu_View-Cart">
-                        <img src="http://coolglow.com/templates/coolglow/images/v3/cart2.png" width="72" height="72" border="0" align="absmiddle">
-                    </a>
-            	</div>
-               	
+                <img src="http://coolglow.com/templates/coolglow/images//v4/menu_search_button.png" border="0" onclick="document.searchForm.submit();" style="cursor: pointer; margin-left: -5px; vertical-align: middle" class="footprints_topmenu_Product-Search" alt="Search">
+           	</div>
+            <div id="new_view_cart">
+                <a href="https://coolglow.com/view-cart" class="footprints_topmenu_View-Cart">
+                    <img src="http://coolglow.com/templates/coolglow/images/v4/cart.png" border="0" align="absbottom">&nbsp;&nbsp;<u>View Cart</u>                 </a>
             </div>
-            
             
         </div>
         
@@ -252,11 +306,11 @@
                 
                 
                 <!--BEGIN: LEFT MENU -->
-                <h1 style="font-size: 13px; color: #FFF; background: url(/templates/coolglow/images/v3/landing/party2/menu_bg/green.png) repeat-x; height: 21px; padding-left: 10px; padding-top:5px; margin-top: 12px; width: 170px;">Holiday Parties</h1><ul class="nav"><li><a class="footprints_leftmenu_Hanukkah " href="/3/235/235/Hanukkah/" title="Hanukkah"><h2 style="color: #004f36">Hanukkah</h2></a></li><li><a class="footprints_leftmenu_Christmas " href="/3/237/237/Christmas/" title="Christmas"><h2 style="color: #004f36">Christmas</h2></a></li><li><a class="footprints_leftmenu_New-Years " href="/3/238/238/New-Years/" title="New Year's"><h2 style="color: #004f36">New Year's</h2></a></li><li><a class="footprints_leftmenu_Chinese-New-Year " href="/3/239/239/Chinese-New-Year/" title="Chinese New Year"><h2 style="color: #004f36">Chinese New Year</h2></a></li><li><a class="footprints_leftmenu_Valentines-Day " href="/3/240/240/Valentines-Day/" title="Valentine's Day"><h2 style="color: #004f36">Valentine's Day</h2></a></li><li><a class="footprints_leftmenu_Mardi-Gras " href="/3/231/231/Mardi-Gras/" title="Mardi Gras"><h2 style="color: #004f36">Mardi Gras</h2></a></li><li><a class="footprints_leftmenu_Easter " href="/3/222/222/Easter/" title="Easter"><h2 style="color: #004f36">Easter</h2></a></li><li><a class="footprints_leftmenu_Cinco-de-Mayo " href="/3/227/227/Cinco-de-Mayo/" title="Cinco de Mayo"><h2 style="color: #004f36">Cinco de Mayo</h2></a></li><li><a class="footprints_leftmenu_4th-of-July " href="/3/230/230/4th-of-July/" title="4th of July"><h2 style="color: #004f36">4th of July</h2></a></li><li><a class="footprints_leftmenu_Labor-Day " href="/3/521/521/Labor-Day/" title="Labor Day"><h2 style="color: #004f36">Labor Day</h2></a></li><li><a class="footprints_leftmenu_Halloween-Party " href="/3/233/233/Halloween-Party/" title="Halloween Party"><h2 style="color: #004f36">Halloween</h2></a></li><li><a class="footprints_leftmenu_Veterans-Day " href="/3/3234/3234/Veterans-Day/" title="Veterans Day"><h2 style="color: #004f36">Veterans Day</h2></a></li><li><a class="footprints_leftmenu_Thanksgiving " href="/3/234/234/Thanksgiving/" title="Thanksgiving"><h2 style="color: #004f36">Thanksgiving</h2></a></li></ul>
+                <h1 style="font-size: 13px; color: #FFF; background: url(/templates/coolglow/images/v3/landing/party2/menu_bg/green.png) repeat-x; height: 21px; padding-left: 10px; padding-top:5px; margin-top: 12px; width: 170px;">Holiday Parties</h1><ul class="nav"><li><a class="footprints_leftmenu_4th-of-July " href="/3/230/230/4th-of-July/" title="4th of July"><h2 style="color: #004f36">4th of July</h2></a></li><li><a class="footprints_leftmenu_Labor-Day " href="/3/521/521/Labor-Day/" title="Labor Day"><h2 style="color: #004f36">Labor Day</h2></a></li><li><a class="footprints_leftmenu_Halloween-Party " href="/3/233/233/Halloween-Party/" title="Halloween Party"><h2 style="color: #004f36">Halloween</h2></a></li><li><a class="footprints_leftmenu_Veterans-Day " href="/3/3234/3234/Veterans-Day/" title="Veterans Day"><h2 style="color: #004f36">Veterans Day</h2></a></li><li><a class="footprints_leftmenu_Thanksgiving " href="/3/234/234/Thanksgiving/" title="Thanksgiving"><h2 style="color: #004f36">Thanksgiving</h2></a></li><li><a class="footprints_leftmenu_Hanukkah " href="/3/235/235/Hanukkah/" title="Hanukkah"><h2 style="color: #004f36">Hanukkah</h2></a></li><li><a class="footprints_leftmenu_Christmas " href="/3/237/237/Christmas/" title="Christmas"><h2 style="color: #004f36">Christmas</h2></a></li><li><a class="footprints_leftmenu_New-Years " href="/3/238/238/New-Years/" title="New Year's"><h2 style="color: #004f36">New Year's</h2></a></li><li><a class="footprints_leftmenu_Chinese-New-Year " href="/3/239/239/Chinese-New-Year/" title="Chinese New Year"><h2 style="color: #004f36">Chinese New Year</h2></a></li><li><a class="footprints_leftmenu_Valentines-Day " href="/3/240/240/Valentines-Day/" title="Valentine's Day"><h2 style="color: #004f36">Valentine's Day</h2></a></li><li><a class="footprints_leftmenu_Mardi-Gras " href="/3/231/231/Mardi-Gras/" title="Mardi Gras"><h2 style="color: #004f36">Mardi Gras</h2></a></li><li><a class="footprints_leftmenu_St.-Patricks-Day " href="/3/226/226/St.-Patricks-Day/" title="St. Patrick's Day"><h2 style="color: #004f36">St. Patrick's Day</h2></a></li><li><a class="footprints_leftmenu_Easter " href="/3/222/222/Easter/" title="Easter"><h2 style="color: #004f36">Easter</h2></a></li><li><a class="footprints_leftmenu_Cinco-de-Mayo " href="/3/227/227/Cinco-de-Mayo/" title="Cinco de Mayo"><h2 style="color: #004f36">Cinco de Mayo</h2></a></li><li><a class="footprints_leftmenu_Memorial-Day " href="/3/229/229/Memorial-Day/" title="Memorial Day"><h2 style="color: #004f36">Memorial Day</h2></a></li></ul>
 				  <br style="clear: both">
-				  <br style="clear: both"><h1 style="font-size: 13px; color: #FFF; background: url(/templates/coolglow/images/v3/landing/party2/menu_bg/red.png) repeat-x; height: 21px; padding-left: 10px; padding-top:5px; margin-top: 12px; width: 170px;">Theme Parties</h1><ul class="nav"><li><a class="footprints_leftmenu_Winter-Wonderland " href="/3/3420/3420/Winter-Wonderland/" title="Winter Wonderland"><h2 style="color: #850365">Winter Wonderland</h2></a></li><li><a class="footprints_leftmenu_Casino-Theme " href="/3/909/909/Casino-Theme/" title="Casino Theme"><h2 style="color: #850365">Casino Theme</h2></a></li><li><a class="footprints_leftmenu_Hollywood-Theme- " href="/3/595/595/Hollywood-Theme-/" title="Hollywood Theme "><h2 style="color: #850365">Hollywood Theme </h2></a></li><li><a class="footprints_leftmenu_Western-Theme " href="/3/594/594/Western-Theme/" title="Western Theme"><h2 style="color: #850365">Western Theme</h2></a></li><li><a class="footprints_leftmenu_Pirate-Theme- " href="/3/919/919/Pirate-Theme-/" title="Pirate Theme "><h2 style="color: #850365">Pirate Theme </h2></a></li><li><a class="footprints_leftmenu_Fiesta-Theme " href="/3/245/245/Fiesta-Theme/" title="Fiesta Theme"><h2 style="color: #850365">Fiesta Theme</h2></a></li><li><a class="footprints_leftmenu_Luau-Theme- " href="/3/242/242/Luau-Theme-/" title="Luau Theme "><h2 style="color: #850365">Luau Theme </h2></a></li><li><a class="footprints_leftmenu_Summer-Theme- " href="/3/522/522/Summer-Theme-/" title="Summer Theme "><h2 style="color: #850365">Summer Theme </h2></a></li><li><a class="footprints_leftmenu_Pool-Theme- " href="/3/247/247/Pool-Theme-/" title="Pool Theme "><h2 style="color: #850365">Pool Theme </h2></a></li><li><a class="footprints_leftmenu_Beach-Theme- " href="/3/246/246/Beach-Theme-/" title="Beach Theme "><h2 style="color: #850365">Beach Theme </h2></a></li><li><a class="footprints_leftmenu_Fall-Theme- " href="/3/2617/2617/Fall-Theme-/" title="Fall Theme "><h2 style="color: #850365">Fall Theme </h2></a></li></ul>
+				  <br style="clear: both"><h1 style="font-size: 13px; color: #FFF; background: url(/templates/coolglow/images/v3/landing/party2/menu_bg/red.png) repeat-x; height: 21px; padding-left: 10px; padding-top:5px; margin-top: 12px; width: 170px;">Theme Parties</h1><ul class="nav"><li><a class="footprints_leftmenu_Kids-Party-Themes " href="/3/3162/3162/Kids-Party-Themes/" title="Kid's Party Themes"><h2 style="color: #850365">Kid's Party Themes</h2></a></li><li><a class="footprints_leftmenu_Beach-Party " href="/3/246/246/Beach-Party/" title="Beach Party"><h2 style="color: #850365">Beach Party</h2></a></li><li><a class="footprints_leftmenu_Casino-Party " href="/3/909/909/Casino-Party/" title="Casino Party"><h2 style="color: #850365">Casino Party</h2></a></li><li><a class="footprints_leftmenu_Disco-Party " href="/3/4174/4174/Disco-Party/" title="Disco Party"><h2 style="color: #850365">Disco Party</h2></a></li><li><a class="footprints_leftmenu_Fall-Party " href="/3/2617/2617/Fall-Party/" title="Fall Party"><h2 style="color: #850365">Fall Party</h2></a></li><li><a class="footprints_leftmenu_Fiesta-Party " href="/3/245/245/Fiesta-Party/" title="Fiesta Party"><h2 style="color: #850365">Fiesta Party</h2></a></li><li><a class="footprints_leftmenu_Hollywood-Party " href="/3/595/595/Hollywood-Party/" title="Hollywood Party"><h2 style="color: #850365">Hollywood Party</h2></a></li><li><a class="footprints_leftmenu_Luau-Party " href="/3/242/242/Luau-Party/" title="Luau Party"><h2 style="color: #850365">Luau Party</h2></a></li><li><a class="footprints_leftmenu_Patriotic-Theme-Party " href="/3/228/228/Patriotic-Theme-Party/" title="Patriotic Theme Party"><h2 style="color: #850365">Patriotic Theme Party</h2></a></li><li><a class="footprints_leftmenu_Pirate-Party " href="/3/919/919/Pirate-Party/" title="Pirate Party"><h2 style="color: #850365">Pirate Party</h2></a></li><li><a class="footprints_leftmenu_Pool-Party " href="/3/247/247/Pool-Party/" title="Pool Party"><h2 style="color: #850365">Pool Party</h2></a></li><li><a class="footprints_leftmenu_Princess-Party " href="/3/3134/3134/Princess-Party/" title="Princess Party"><h2 style="color: #850365">Princess Party</h2></a></li><li><a class="footprints_leftmenu_Summer-Party " href="/3/522/522/Summer-Party/" title="Summer Party"><h2 style="color: #850365">Summer Party</h2></a></li><li><a class="footprints_leftmenu_Western-Party " href="/3/594/594/Western-Party/" title="Western Party"><h2 style="color: #850365">Western Party</h2></a></li><li><a class="footprints_leftmenu_Winter-Wonderland-Party " href="/3/3420/3420/Winter-Wonderland-Party/" title="Winter Wonderland Party"><h2 style="color: #850365">Winter Wonderland Party</h2></a></li></ul>
 				  <br style="clear: both">
-				  <br style="clear: both"><h1 style="font-size: 13px; color: #FFF; background: url(/templates/coolglow/images/v3/landing/party2/menu_bg/blue.png) repeat-x; height: 21px; padding-left: 10px; padding-top:5px; margin-top: 12px; width: 170px;">Special Occasions</h1><ul class="nav"><li><a class="footprints_leftmenu_Bachelorette-Party " href="/3/847/847/Bachelorette-Party/" title="Bachelorette Party"><h2 style="color: #03679a">Bachelorette Party</h2></a></li><li><a class="footprints_leftmenu_Bridal-Shower " href="/3/852/852/Bridal-Shower/" title="Bridal Shower"><h2 style="color: #03679a">Bridal Shower</h2></a></li><li><a class="footprints_leftmenu_Anniversary " href="/3/861/861/Anniversary/" title="Anniversary"><h2 style="color: #03679a">Anniversary</h2></a></li><li><a class="footprints_leftmenu_School-Spirit " href="/3/886/886/School-Spirit/" title="School Spirit"><h2 style="color: #03679a">School Spirit</h2></a></li><li><a class="footprints_leftmenu_Graduation-Party " href="/3/252/252/Graduation-Party/" title="Graduation Party"><h2 style="color: #03679a">Graduation Party</h2></a></li><li><a class="footprints_leftmenu_Communions " href="/3/797/797/Communions/" title="Communions"><h2 style="color: #03679a">Communions</h2></a></li><li><a class="footprints_leftmenu_Baptism " href="/3/872/872/Baptism/" title="Baptism"><h2 style="color: #03679a">Baptism</h2></a></li><li><a class="footprints_leftmenu_Confirmation " href="/3/879/879/Confirmation/" title="Confirmation"><h2 style="color: #03679a">Confirmation</h2></a></li><li><a class="footprints_leftmenu_Mothers-Day " href="/3/456/456/Mothers-Day/" title="Mother's Day"><h2 style="color: #03679a">Mother's Day</h2></a></li><li><a class="footprints_leftmenu_Fathers-Day " href="/3/241/241/Fathers-Day/" title="Father's Day"><h2 style="color: #03679a">Father's Day</h2></a></li><li><a class="footprints_leftmenu_Birthday-Parties " href="/3/253/253/Birthday-Parties/" title="Birthday Parties"><h2 style="color: #03679a">Birthday Parties</h2></a></li></ul>
+				  <br style="clear: both"><h1 style="font-size: 13px; color: #FFF; background: url(/templates/coolglow/images/v3/landing/party2/menu_bg/blue.png) repeat-x; height: 21px; padding-left: 10px; padding-top:5px; margin-top: 12px; width: 170px;">Special Occasions</h1><ul class="nav"><li><a class="footprints_leftmenu_Graduation-Party " href="/3/252/252/Graduation-Party/" title="Graduation Party"><h2 style="color: #03679a">Graduation Party</h2></a></li><li><a class="footprints_leftmenu_School-Spirit " href="/3/886/886/School-Spirit/" title="School Spirit"><h2 style="color: #03679a">School Spirit</h2></a></li><li><a class="footprints_leftmenu_Fathers-Day " href="/3/241/241/Fathers-Day/" title="Father's Day"><h2 style="color: #03679a">Father's Day</h2></a></li><li><a class="footprints_leftmenu_Wedding-Events " href="/3/851/851/Wedding-Events/" title="Wedding Events"><h2 style="color: #03679a">Wedding Events</h2></a></li><li><a class="footprints_leftmenu_Bridal-Shower " href="/3/852/852/Bridal-Shower/" title="Bridal Shower"><h2 style="color: #03679a">Bridal Shower</h2></a></li><li><a class="footprints_leftmenu_Bachelorette-Party " href="/3/847/847/Bachelorette-Party/" title="Bachelorette Party"><h2 style="color: #03679a">Bachelorette Party</h2></a></li><li><a class="footprints_leftmenu_Anniversary " href="/3/861/861/Anniversary/" title="Anniversary"><h2 style="color: #03679a">Anniversary</h2></a></li><li><a class="footprints_leftmenu_Baptism " href="/3/872/872/Baptism/" title="Baptism"><h2 style="color: #03679a">Baptism</h2></a></li><li><a class="footprints_leftmenu_Communion " href="/3/797/797/Communion/" title="Communion"><h2 style="color: #03679a">Communion</h2></a></li><li><a class="footprints_leftmenu_Confirmation " href="/3/879/879/Confirmation/" title="Confirmation"><h2 style="color: #03679a">Confirmation</h2></a></li><li><a class="footprints_leftmenu_Mothers-Day " href="/3/456/456/Mothers-Day/" title="Mother's Day"><h2 style="color: #03679a">Mother's Day</h2></a></li></ul>
 				  <br style="clear: both">
 				  <br style="clear: both">                <!--END: LEFT MENU -->
               
@@ -382,9 +436,9 @@ information to third parties.
         <div id="bottom-links">
              <div class="links-box">
                 <h2>Our Partners:</h2>
-                <a href="http://www.fedex.com/us/index.html">Fedex.com</a><br>
-                <a href="http://www.ebay.com">eBay.com</a><br>
-                <a href="http://www.amazon.com">Amazon.com</a><br>
+                <a href="https://www.fedex.com/us/index.html">Fedex.com</a><br>
+                <a href="https://www.ebay.com">eBay.com</a><br>
+                <a href="https://www.amazon.com">Amazon.com</a><br>
                 <br>
                 <h2>About Us:</h2>
                 <a href="/about-cool-glow/">Company Overview</a><br>
@@ -427,7 +481,7 @@ information to third parties.
             
             <div style="float:left; margin-left: 0px;  margin-top: 13px; margin-right: 30px;"><img src="/templates/coolglow/images/cards.gif"></div>
                     <div style="float:left;  margin-top: 10px; margin-right: 20px;">
-            	<a id="bbblink" class="sehzbus" href="https://www.bbb.org/dallas/business-reviews/lighting-systems-and-equipment/cool-glow-in-irving-tx-90314665#bbblogo" title="Cool Glow, Lighting Systems &amp; Equipment, Irving, TX" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-dallas.bbb.org/logo/sehzbus/cool-glow-90314665.png" width="200" height="38" alt="Cool Glow, Lighting Systems &amp; Equipment, Irving, TX"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-dallas.bbb.org' + unescape('%2Flogo%2Fcool-glow-90314665.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-dallas.bbb.org/logo/cool-glow-90314665.js" type="text/javascript"></script>
+            	<a id="bbblink" class="sehzbus" href="https://www.bbb.org/dallas/business-reviews/lighting-systems-and-equipment/cool-glow-in-irving-tx-90314665#bbblogo" title="Cool Glow, Lighting Systems &amp; Equipment, Irving, TX" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-dallas.bbb.org/logo/sehzbus/cool-glow-90314665.png" width="200" height="38" alt="Cool Glow, Lighting Systems &amp; Equipment, Irving, TX"></a><script type="text/javascript">var bbbprotocol = "https://"; document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-dallas.bbb.org' + unescape('%2Flogo%2Fcool-glow-90314665.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-dallas.bbb.org/logo/cool-glow-90314665.js" type="text/javascript"></script>
             </div>
             <div style="float:left; margin-top: 1px; margin-right: 20px;">
                 <div id="googleCheckoutLogo"></div><script src="https://checkout.google.com/buttons/logos?merchant_id=600797731889307&amp;loc=en_US&amp;f=png"></script>
@@ -441,8 +495,8 @@ information to third parties.
         
         <div style="clear: both"></div>
         <center>
-            <div style="font-size: 14px; font-weight: bold; margin-top: 15px; color: #BBB">Cool Glow ships to all of the following 50 U.S. states. If you are placing an order for outside the U.S. please call us at 1.888.909.4569.</div>
-            <div style="position:relative; top:20px; margin-left: auto; margin-right: auto;">
+            <div id="bottom-states-header">Cool Glow ships to all of the following 50 U.S. states. If you are placing an order for outside the U.S. please call us at 1.888.909.4569.</div>
+            <div id="bottom-states">
                 <table width="800" cellpadding="0" cellspacing="0" border="0" style="text-align:left">
                 <tbody><tr>
                     <td width="1%">&nbsp;</td>
@@ -583,6 +637,7 @@ information to third parties.
                 </tbody></table>
                 <center><div style="color:#999999; font-size:12px;">All Right<a class="footprints_keywordtool_KW-Articles-Link" href="http://coolglow.com/all-keywords/3/1/" style="text-decoration:none; color:#999999; cursor:text;" onmouseover="window.status='';">s</a> Reserved.</div></center>
             </div>
+            <br><br><br><br>
         </center>
     </div>   
     </div>
@@ -643,10 +698,6 @@ information to third parties.
 
 <script type="text/javascript">
 
-	/* Added by Quoc 2011-06-07 */
-	var current_parent_category_id = -1;
-	var t = null;
-	var t1 = null;
 	
 
 	window.addEvent('domready', function() {			
@@ -659,160 +710,27 @@ information to third parties.
 			//jQuery.post("/index.php?option=com_popup", "popup_closed=1");
 		}
 		
-		jQuery(".tabs").mouseenter(function() {
+	});
+	
+	var mouseEnter = 0;
+	jQuery(".tabs").mouseenter(function() {
+		if (this.id != 'tab3') {
 			jQuery("#menu" + this.id).animate({'height': '+=5px', 'top': '-=5px'}, 'fast').addClass('ontop');
-			//jQuery("#submenutab3").hide();
-			//jQuery("#submenu" + this.id).show();
-		});
-		jQuery(".tabs").mouseleave(function() {
+			mouseEnter = this.id;
+		}
+		//jQuery("#submenutab3").hide();
+		//jQuery("#submenu" + this.id).show();
+	});
+	jQuery(".tabs").mouseleave(function() {
+		if (this.id != 'tab3' && mouseEnter != 0) {
 			jQuery("#menu" + this.id).animate({'height': '-=5px', 'top': '+=5px'}, 'fast').removeClass('ontop');
-			//jQuery("#submenu" + this.id).hide();
-			//jQuery("#submenutab3").show();
-			
-		});
-		
-	});
-	
-	
-	// Added by Quoc 2011-06-09
-	jQuery("#submenutab3").mouseleave(function() {
-		jQuery("#dropdown-wrapper-tab3").fadeOut(500);
-		current_parent_category_id = -1;
-	});
-	jQuery("#dropdown-wrapper-tab3").mouseenter(function() {
-		jQuery("#dropdown-wrapper-tab3").show();
-	});
-	jQuery('div[id*="submenutab3_"]').mouseenter(function() {
-		if (t1) clearTimeout(t1);
-		t1 = setTimeout(showDropDown.bind(this), 500); 															
-	});
-	jQuery('div[id*="submenutab3_"]').mouseleave(function() {
-		if (t1) clearTimeout(t1);
-	});
-	
-	// Added by Quoc 2011-06-14
-	function showDropDown() {
-		parent_category_id = this.id.substring(14);
-		if (parent_category_id == current_parent_category_id) { return; } // avoid requesting the current dropdown menu
-		
-		//get the position of the highlighted submenu 
-		position = this.id.substring(12,13);
-		
-		//move the dropdown menu left/right/middle
-/*			if (position >= 4) { // move the dropdown menu to the right
-			jQuery("#dropdown-wrapper-tab3").css("left", "324px");
-		} else {
-			jQuery("#dropdown-wrapper-tab3").css("left", "0px");
-		}*/
-		if (position == 0) {
-				jQuery("#dropdown-wrapper-tab3").css("left", "0px");
-				jQuery("#submenutab3highlighter").css("left", "-1px");
-		} else if (position == 1) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "123px");
-				jQuery("#submenutab3highlighter").css("left", "-1px");
-		} else if (position == 2) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "270px");
-				jQuery("#submenutab3highlighter").css("left", "-1px");
-		} else if (position == 3) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "118px");
-				jQuery("#submenutab3highlighter").css("left", "280px");
-		} else if (position == 4) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "207px");
-				jQuery("#submenutab3highlighter").css("left", "315px");
-		} else if (position == 5) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "116px");
-				jQuery("#submenutab3highlighter").css("left", "525px");
-		} else if (position == 6) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "208px");
-				jQuery("#submenutab3highlighter").css("left", "536px");
-		} else if (position == 7) { 
-				jQuery("#dropdown-wrapper-tab3").css("left", "324px");
-				jQuery("#submenutab3highlighter").css("left", "511px");
 		}
+		//jQuery("#submenu" + this.id).hide();
+		//jQuery("#submenutab3").show();
 		
-
-		//alert(jQuery("#"+this.id).html());
-
-		if (position != 5) { // 2-lined alias
-			//tempLabel = jQuery("#"+this.id).text(); 
-			tempLabel = jQuery("#"+this.id).html();
-			jQuery("#highlightcontent").css("top", "14px");
-		} else {
-			tempLabel = '<a href="/3/1112/1112/Solid-Color-Tableware/" >' + 'Solid Color <br /> Tableware' + '</a>';
-			jQuery("#highlightcontent").css("top", "4px");
-		}
-		jQuery("#highlightcontent").html(tempLabel); 
-		
-		// set the width of the highlighter
-		width = 3+jQuery("#"+this.id).outerWidth();
-		jQuery("#submenutab3highlighter").css("width", width);
-		
-		//from here: calculate the left position of the highligher
-		/*leftWidth = position==0 ? -1 : -2;
-		if (position >= 4) {
-			leftWidth = -328; /////////////////////////////////////////////////////////////
-		}
-		jQuery("#"+this.id).prevAll().each(function (index) {		
-			leftWidth += jQuery(this).outerWidth();
-		});
-		jQuery("#submenutab3highlighter").css("left", leftWidth);*/
-		
-		
-		//start requesting data for the dropdown-content
-		current_parent_category_id = parent_category_id;
-		jQuery('.dropdown-wrapper').show();
-
-		jQuery.post('/index2.php?option=com_virtuemart&page=ajax&func=loadDropDownMenu&submenu_id=3&category_id='+parent_category_id+'&parent_category_name='+tempLabel, function(data) {
-			ajaxResponse = extractAjaxResponse(data);
-			if (ajaxResponse != false) {
-				jQuery('.dropdown-content').html(ajaxResponse);
-				//bind the mouseover event to the left menu. when mouseover, show the right pane accordingly
-				jQuery('li[id*="dd_left_cat_id_"]').not('li[id="dd_left_cat_id_all"]').bind('mouseenter', function() {
-					if (t) clearTimeout(t);
-					t = setTimeout("showRightPane(\""+this.id.substring(15)+"\",\""+jQuery(this).text()+"\")", 500); 
-																			   });
-				jQuery('li[id*="dd_left_cat_id_"]').bind('mouseleave', function() {
-					if (t) clearTimeout(t);
-				});
-				// then show the dropdown menu
-				//by default, show the first category's content of the left menu on the right pane
-				jQuery('.dropdown-content').fadeIn(200);
-				
-			} else {
-				//alert("Failed to load drop down menu");
-			}
-		});		
-	}
+	});
 	
 	
-	//Added by Quoc 2011-06-10
-	function showRightPane(leftmenu_cat_id, leftmenu_alias) {
-		jQuery.post('/index2.php?option=com_virtuemart&page=ajax&func=getRightPane&submenu_id=3&leftmenu_cat_id='+leftmenu_cat_id+'&leftmenu_alias='+leftmenu_alias, function(data) {
-				ajaxResponse = extractAjaxResponse(data);
-				if (ajaxResponse != false) {
-					
-					jQuery(".dd-right-pane").delay(1000).html(ajaxResponse);
-							
-				} else {
-					//alert("Failed to show right pane");
-				}
-			});		
-			
-	} // end of showRightPane
-	
-	
-	/* Added by Quoc 2011-06-07 */
-	function extractAjaxResponse(data) {
-		var real_data = data.match(/\<\!\-\- ajax \-\-\>(.|\n|\r)*\<\!\-\- ajax \-\-\>/);
-		if (real_data != null) {
-			return real_data[0].toString();
-		} else {
-			return false;	
-		}
-	}
-	
-	
-
 		
 	
 	
