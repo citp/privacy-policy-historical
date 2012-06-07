@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodzie.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223032041id_/http%3A//foodzie.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodzie.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607032845id_/http%3A//foodzie.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
