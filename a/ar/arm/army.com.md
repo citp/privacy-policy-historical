@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126152341id_/http%3A//www.army.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608014104id_/http%3A//army.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Army. @ Army.com
+# Privacy Statement | Army.com
 
 FanMail.com, L.L.C. ("FanMail.com"), takes your privacy seriously. Please read the information below to find our more about our privacy practices.
 
@@ -67,3 +67,5 @@ FanMail.com may update this policy from time to time. We will notify you about s
 
 **Questions and Suggestions**  
 If you have any questions or suggestions regarding our privacy policy please email us at [customer-support@fanmail.com](mailto:customer-support@fanmail.com). 
+
+[](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Farmy.com%2Fsite%2Fprivacy&linkname=Privacy%20Statement%20%7C%20Army.com)
