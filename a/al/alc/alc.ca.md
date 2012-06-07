@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208021558id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607113523id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
 
 # Atlantic Lottery – Richer Moments / Loto Atlantique – Moments plus Riches
 
@@ -196,6 +196,13 @@ Your personal information is used to identify you as an “individual” in our 
 These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; to tailor the information we provide to you, effectively communicate to you, and to make emails more personal, useful and interesting. 
 
 For certain services, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. If we use this information in a manner different than the purpose for which it was collected, we will ask for your consent. 
+
+When you connect with us though social media platforms, including Facebook, we access your basic information, including name, profile picture, gender, networks, user ID, list of friends and any other information you make public.  We will use your information:  
+• to contact you to respond to a request you make; and  
+• to operate and improve our sites and services;  
+As a registered Facebook user, you are also subject to Facebook’s privacy policy.  Please check your Facebook account privacy settings for further information.
+
+When you create an account in our Geosweep game, you will need to create a unique nickname that will become publicly visible.  When you disclose your determined nickname, other players will be able to search it and view your Geos, how many friends you have and how long you have been friends.  This information can be sensitive if you chose your residence as a Geo, and if you give your Geo a name that reveals it is your residence. 
 
 ## Communications from the Sites 
 
