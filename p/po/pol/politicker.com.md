@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the politicker.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206183606id_/http%3A//www.politickerny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicker.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607050552id_/http%3A//www.politicker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PolitickerNY
+# Privacy Policy | Politicker
 
 Last Updated: March 15, 2011
 
