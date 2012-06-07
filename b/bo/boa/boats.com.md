@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211024451id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607184444id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Boats.com - Privacy
 
 ## Privacy
 
-**Boats.com Privacy Policy (Revised April 2007)**
+**Boats.com Privacy Policy**
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this Web Site. Please see our Terms of Use for additional information applicable to use of our Web Site.
 
@@ -39,13 +39,19 @@ Boats is the sole owner of the information collected on this site. Boats collect
 
 In order to use this site you do not need to provide any personal information, but where you do volunteer to provide personal information, we may disclose the following information to affiliated third parties such as other web sites owned and operated by Boats.com and to nonaffiliated third parties such as marketing companies, vessel brokers, vessel dealers and builders. The disclosed information may include data entered through one of our forms, through cookies, web beacons and web logs such as a Site Visitors name, address, email address, other contact information, boat information, boat category, engine information, boat accessories and options and information about the Site Visitors transactions and experiences with companies related to Boats.
 
-If you do not want us to share your personal information with third parties for their direct marketing purposes, please contact us by phone or email , as set forth below, and request that your information not be shared.
+Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information. If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our Email Opt Out Form.
 
 We use non-personal information such as aggregate demographic data and information about our boats to analyze and develop our marketing strategy and to determine how Site Visitors found out about us, our Site Visitors' interests regarding our services and how to further improve the Web site based upon these data.
 
-We may employ third parties to perform functions on our behalf. Examples of these functions include, without limitation, sending emails or other communications on our behalf or providing promotional or marketing assistance. These third parties may have access to our Site Visitors' personal information in order to provide these services to us or on our behalf.
+**Third Party Promotions:** We may employ third parties to perform functions on our behalf. Examples of these functions include, without limitation, sending emails or other communications on our behalf or providing promotional or marketing assistance. These third parties may have access to our Site Visitors' personal information in order to provide these services to us or on our behalf. Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information. If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
+
+We may send offers to selected groups of customers on behalf of unaffiliated businesses that want to market their products or services to you, and as part of these promotional offers we may sell or disclose certain of your personally identifiable information to such unaffiliated businesses. If you prefer not to be contacted by any such business with whom we share your personally identifiable information, you may follow the "unsubscribe" instructions provided in any email you receive from any such third party. In addition, you may opt out of our sharing your personally identifiable information with such businesses by following the instructions on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
 
 We may sell, transfer or otherwise disclose Site Visitors' information in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change.
+
+**Third Party Online Advertising:**
+
+We use third-party advertising companies to provide advertisements to you when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to show you advertisements tailored to your interests on this and other websites and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to opt out of having this information used by these companies, please visit the Network Advertising Initiative here: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Partners:** Some of our partners offer services on the Web site. To provide services, our partners collect personal information from Site Visitors. We exercise great care in choosing our partners but we neither control nor are we responsible for our partners' information collection practices. Site Visitors should view our partner's privacy policy to make an informed decision whether to provide personal information.
 
@@ -62,3 +68,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 **Children's Use of Web site:** Our web site is not directed or targeted to children under the age 13 and we do not knowingly acknowledge or accept orders, registrations or requests for any goods or services from persons under the age of 13. We do not permit anyone under the age of 13 to register with us. If it comes to our attention that a request has come from a person under the age of 13, we will not respond to such a request. Instead we will use reasonable efforts to delete any information provided by that child.
 
 **Notification of Changes:** It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner.
+
+© Copyright 2012 Dominion Enterprises. All rights reserved.
+
+Revised April 2012
