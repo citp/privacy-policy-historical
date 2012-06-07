@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueshellgames.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225073127id_/http%3A//blueshellgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueshellgames.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607214211id_/http%3A//blueshellgames.com/privacy) for the most accurate reproduction.*
 
 # Blue Shell Games: Privacy Policy
 
