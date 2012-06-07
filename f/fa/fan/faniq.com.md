@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216171428id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608010839id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
 
 # FanIQ - Privacy Policy
 
@@ -129,7 +129,7 @@ Email: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
 
 California Civil Code Section 1798.83 permits California residents who have provided PII to Datran Media or its partners to request certain information regarding FanIQ disclosure of PII to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties when required. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section.
 
-If you have any questions about your California privacy rights or this Privacy Policy, please contact us at admin@FanIQ.com or in writing at:
+If you have any questions about your California privacy rights or this Privacy Policy, please contact us at feedback@FanIQ.com or in writing at:
 
 FanIQ Privacy Department  
 c/o Datran Media  
