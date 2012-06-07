@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edocr.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217002315id_/http%3A//www.edocr.com/edocr-ltd-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edocr.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608005720id_/http%3A//www.edocr.com/edocr-ltd-privacy-policy) for the most accurate reproduction.*
 
 # edocr Ltd - Privacy Policy | edocr
 
@@ -28,5 +28,3 @@ We may endeavour to protect your personally identifiable information by encrypti
 We may update this Privacy Policy from time to time. The current version will be that posted on our website. You will be deemed to have accepted any changes if you continue to use our website and the services it provides after such changes have been made and posted as stated above.
 
 Effective 1 October 2007
-
-11306 reads
