@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belisi.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103052617id_/http%3A//www.belisi.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belisi.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607162448id_/http%3A//www.belisi.com/privacy.aspx) for the most accurate reproduction.*
 
 # Belisi Reviews, Belisi Service, Belisi Policies - Privacy Notice
 
@@ -44,9 +44,9 @@ For SMS text messages, you may remove your information by replying "STOP", "END"
 
 Your account at Belisi.com: If you have an account at Belisi.com, you can change your email preferences and account information (including email address) by clicking 'Edit My Account'. You'll be taken to a page in which you can see all the various types of emails we send and choose subscribe or unsubscribe as you wish. You may update or delete any account information at 'Edit My Account' as well. Once your preferences are set, simply click the 'Save' button.
 
-Call our customer service center: If you would rather talk to a person, you can call 1-800-434-1962 and one of our customer service representative can opt you out of any emails you choose. Our hours of operation are Monday through Friday Eastern Standard Time.
+Call our customer service center: If you would rather talk to a person, you can call 1-800-434-1962 and one of our customer service representative can opt you out of any emails you choose. Our hours of operation are Monday-Friday, 24 hours/day, Saturday & Sunday 9am to 6pm Eastern Standard Time.
 
-Send us a letter: In accordance with the CAN-SPAM Act, all of our emails have our postal address at the bottom. It is PO Box 689620, Jupiter, FL 33468-9620. If you send a letter to our office, including the email address you want unsubscribed, we will follow your instructions.
+Send us a letter: In accordance with the CAN-SPAM Act, all of our emails have our postal address at the bottom. It is PO Box 30609, Palm Beach Gardens, FL 33420. If you send a letter to our office, including the email address you want unsubscribed, we will follow your instructions.
 
 Contact us form: You can send us an email through our online form. Click here to contact us.
 
@@ -66,7 +66,7 @@ We employ a software technology called Web beacons, that help us better manage c
 
 Does Belisi.com Share the Information It Receives?
 
-Third-Party Service Providers: Belisi employs other companies and individuals to perform various functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, SMS text message, removing repetitive information from customer lists, analyzing data, providing various marketing services, processing credit card payments, and providing customer service. These service providers have access to personal information needed to perform their functions, but they may not use it for any other purpose.
+Third-Party Service Providers: We may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to us. Furthermore, we may sell, license, or share your information with third-parties for various marketing purposes, including but not limited to telemarketing, e-mail marketing, text messaging, and direct mail.
 
 Google Checkout: You also have the option to use Google Checkout when on site and completing an order. When you use this option, please be aware that you will be taken to Google’s own site to finish the purchase. Google’s privacy policy governs the collection and use of the information that you provide to them while on their site.
 
@@ -80,9 +80,9 @@ Can I have access to my personal information?
 
 Belisi will provide you reasonable access to your personally identifiable information, including email address, at no cost to you, within 30 days of your access request. If we cannot provide access within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so. To request access to your personally identifying information, click here to contact us or write us at the following address:
 
-PO Box 689620
+PO Box 30609
 
-Jupiter, FL 33468-9620
+Palm Beach Gardens, FL 33420
 
 How Secure is Information About Me on Belisi.com?
 
