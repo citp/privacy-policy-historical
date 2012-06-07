@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226164004id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607031843id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy
 
-RLC Pvt. Ltd. and its subsidiaries and affiliates ("GreenDust") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by GreenDust. You are advised to please read the Privacy Policy carefully. By accessing the services provided by GreenDust you agree to the collection and use of your data by GreenDust in the manner provided in this Privacy Policy. 
+RLC Pvt. Ltd. and its subsidiaries and affiliates ("GreenDust") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by GreenDust. You are advised to please read the Privacy Policy carefully. By accessing the services provided by GreenDust you agree to the collection and use of your data by GreenDust in the manner provided in this Privacy Policy. 
 
 **We want you to**
 
@@ -30,12 +30,12 @@ We will automatically receive and collect certain anonymous information in stand
 We may collect the following personally identifiable information about you: 
 
   * name including first and last name 
+  * password (stored in an encrypted format)
   * alternate email address
   * mobile phone number and contact details
   * ZIP/Postal code
   * demographic profile (like your age, gender, occupation, education, address and durables owned);
   * preferences and interests (such as news, sports, travel and so on);
-  * financial information (like account or credit card numbers); and
   * opinions of features on our websites.
 
 
@@ -48,19 +48,19 @@ We may also collect the following information:
 
 
 
-You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
+You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
 **WHO COLLECTS THE INFORMATION?**
 
-We will collect anonymous traffic information from you when you visit our site 
+We will collect anonymous traffic information from you when you visit our site 
 
-We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. 
+We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. 
 
-Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. 
+Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. 
 
-The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control. 
+The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control. 
 
-We make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
+We make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
 
 **HOW IS THE INFORMATION USED?**
 
@@ -98,8 +98,6 @@ Generally, we use anonymous traffic information to:
 **  
 WITH WHOM WILL YOUR INFORMATION BE SHARED?**
 
-We will not use your financial information for any purpose other than to complete a transaction with you. 
-
 We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: 
 
   * we have your permission 
@@ -109,31 +107,29 @@ We do not rent, sell or share your personal information and we will not disclose
 
 
 
-We share your information with advertisers on an aggregate basis only. 
-
 **WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?**
 
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
+Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
 
-You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. GreenDust reserves the right to send you certain service related communication, considered to be a part of your GreenDust account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
+You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. GreenDust reserves the right to send you certain service related communication, considered to be a part of your GreenDust account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
 
-Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
+Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
-If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. 
+If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. 
 
-You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/. 
+You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/. 
 
 **WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?**
 
-To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. 
+To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. We use firewalls on our server and all the passwords are stored in an encrypted format which makes it hard for a hacker to retrieve it. Our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. 
 
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
 
 **HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?**
 
 To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options: 
 
-  * Send an e-mail to [support@GreenDust.com](mailto:support@GreenDust.com)  
+  * Send an e-mail to [support@GreenDust.com](mailto:support@GreenDust.com)
   * Call the following telephone number: +91 (11) 49500100
 
 
@@ -141,6 +137,6 @@ To correct or update any information you have provided, our sites allow you to d
 **  
 POLICY UPDATES**
 
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site. 
+We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site. 
 
-You are can offer your views, suggestions, if any, by submitting the filled in feedback form online. 
+You are can offer your views, suggestions, if any, by submitting the filled in feedback form online. 
