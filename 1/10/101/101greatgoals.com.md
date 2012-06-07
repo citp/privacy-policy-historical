@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202084346id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607063514id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
 
-# Latest football (soccer) goals, videos, clips, & highlights – 101 Great Goals
+# 101 Great Goals Privacy and Cookie Policy | 101 Great Goals Football site
 
 1\. This Privacy and Cookie Policy explains how 101 Great Goals processes information about you both directly and indirectly. Please read this Privacy and Cookie Policy in conjunction with the terms & conditions of the particular service or services you are using.
 
@@ -80,8 +80,8 @@ Firefox 1.0 1. Select ‘Tools’ from the main task bar and then ‘Options’ 
 ## **Mobile Phone Browsers**
 
 1\. Launch the mobile browser  
-2\. Select ‘Options’ or ‘Settings’  
-3\. Click on the ‘Cookie’ (or click on ‘privacy’ then ‘cookies’)  
+2\. Select ‘Optionsâ€™ or â€˜Settings’  
+3\. Click on the ‘Cookie’ (or click on â€˜privacyâ€™ then â€˜cookiesâ€™)  
 4\. Choose the level of Cookie security you want, ranging from Accept all, Reject all or Prompt (or on/off)  
 DoubleClick Cookies  
 1\. Go to http://www.doubleclick.com/privacy/index.aspx  
