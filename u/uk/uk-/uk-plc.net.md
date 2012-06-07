@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-plc.net privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208175457id_/http%3A//www.uk-plc.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-plc.net privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607062214id_/http%3A//www.uk-plc.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 @UK PLC is committed to protecting your privacy and to comply with applicable data protection and privacy laws.
 
-Users may go to [http://controlcentre.uk-plc.net](https://web.archive.org/web/20111208175457id_/http%3A//) for information on how to opt-in or opt-out of use of their information.
+Users may go to [http://controlcentre.uk-plc.net](https://web.archive.org/web/20120607062214id_/http%3A//) for information on how to opt-in or opt-out of use of their information.
 
 We invite you to contact us if you have questions about this policy. 
 
@@ -28,7 +28,7 @@ You may call us: **+44 118 963 7000**
 
 We have the following privacy seals:
 
-  * Data Protection Act 1998: @UK PLC is registered under the data protection act 1998. Registration Number: X4473858 Date Registered: 05-FEB-00 
+  * Data Protection Act 1998: @UK PLC is registered under the data protection act 1998. Registration Number: Z7685806 Date Registered: 10-FEB-2003 
 
 
 
