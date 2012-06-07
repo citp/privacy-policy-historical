@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greendust.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226164004id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greendust.com privacy policy that was archived on 2012-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607031843id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="LTR" lang="en"><head>
 <base href="http://www.greendust.com/">
@@ -8,12 +8,13 @@
 <!-- RCI [BOM] -headertags-addswitch : includes/runtime/headertags/FDMS_headertags_addswitch.php -->
 <!-- RCI [EOM] -headertags-addswitch : includes/runtime/headertags/FDMS_headertags_addswitch.php -->
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta name="msvalidate.01" content="FA9CB5121BAFE027D1232A8461CEC58B">
  <title>Privacy Policy - Privacy Policy</title>
  <meta name="Description" content="Privacy Policy - Privacy Policy">
  <meta name="Keywords" content="Privacy Policy, Privacy Policy">
  <meta name="robots" content="index, follow">
  <meta name="revisit-after" content="30 days">
- <meta name="generator" content="Exemplar eSolutions Pvt. Ltd.">
+ <meta name="generator" content="RLC Pvt. Ltd.">
  <!-- EOF: Generated Meta Tags -->
 <link rel="stylesheet" type="text/css" href="templates/gdnew/stylesheet.css">
 <!-- RCI [BOM] -stylesheet-cre63ats : includes/runtime/stylesheet/CDS_stylesheet_cre63ats.css -->
@@ -38,23 +39,153 @@
   })();
 
 </script>
+
+<script language="javascript" type="text/javascript" src="templates/gdnew/dropdown_files/jquery-1.3.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="templates/gdnew/dropdown_files/jquery.customselect.js"></script>
+<script language="javascript" type="text/javascript" src="templates/gdnew/dropdown_files/jquery.lightbox-0.5.js"></script>
+<script type="text/javascript">
+<!----------------------------------
+//  para los desplegables en menu cabecera
+// --------------------------------->
+	$(document).ready(function(){
+		$("#menu ul a.cab-desplegable").bind("click", function(e) {
+			$id=$(this);
+			e.preventDefault();	
+			$(this).addClass("cab-desplegable-on"); // para cambiar el icono	
+			$(this).parent().find("#sub-menu").slideDown('fast').show(); //se muestra el sub-menu
+			$(this).parent().hover(function() {		
+			}, function(){
+				$(this).parent().find("#sub-menu").slideUp('slow'); //Desaparece el sub-menu cuando el puntero no esta
+				$id.removeClass("cab-desplegable-on"); // para cambiar el icono	
+			});
+		});
+	});
+</script>
+
  
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td height="28" align="center" class="topblackHeader"><table width="1100" border="0" align="center" cellpadding="0" cellspacing="0">
           <tbody><tr>
-            <td width="50%" align="left" class="topBlacknavText">Shopping Bag : <a href="http://www.greendust.com/shopping_cart.php" class="top_nav_link" title="Shopping Bag">
-						<b>0</b>&nbsp;Items</a>&nbsp;|&nbsp;
-						 <a href="http://www.greendust.com/login.php" class="top_nav_link" title="Login">Login</a> &nbsp;|&nbsp; <a href="http://www.greendust.com/create_account.php" class="top_nav_link" title="Register">Register</a> </td>
-            <td align="right" class="topBlacknavText">Toll Free : 1-800-103-3878 | Ph. : 011 49500100 (10am - 7pm 7 days a week) </td>
+            <td align="left" class="topBlacknavText">Call us: 1800 419 3878 / 011 4950 0100 (10am - 7pm 7 days a week) </td>
+		    <td width="50%" align="right" class="topBlacknavText">
+			
+				  <div id="menu">
+    <ul class="menu">
+	 <li>
+	 	<a href="http://www.greendust.com/shopping_cart.php" class="cab-desplegable" title="Shopping Bag">Shopping Bag : <b>0</b>&nbsp;Items</a>
+	 <!--
+     	<div id="sub-menu" style="display: hidden; ">
+          <div id="sub-menu-contenido">
+		   <fieldset id="entrar">
+		  <table width="250" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>1 x Intex Mobile 8809 V </td>
+    <td>Rs.5040</td>
+   
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   
+  </tr>
+</table>
+		</fieldset>
+		  </div>
+		 </div>
+       -->
+	 </li>
+	 
+	 
+	 <li>|</li>
+		
+	
+		
+            <li><a href="#" class="cab-desplegable" title="Login">Login</a>
+			<div id="sub-menu" style="display: none; ">
+          <div id="sub-menu-contenido">
+            <fieldset id="entrar">
+			<strong>Log in to get additional benefits</strong><br>
+<br>
+
+           <form name="login" action="http://www.greendust.com/login.php" method="post"><input type="hidden" name="action" value="process">               <label for="email_address">
+                Your <b>eMail</b>-Address</label><br>
+
+            
+                <input name="email_address" id="email_address" type="text" size="22" style="width:158px;border:1px solid #cecece;">
+                          <p>
+                <label for="password">
+                <b>Password</b>                </label><br>
+                <input name="password" id="password" type="password" size="22" style="width: 158px;border:1px solid #cecece;">
+              </p>
+              <p style="padding-top:5px;">
+                <input type="submit" value="Login" id="entrar_cuenta">
+              </p>
+              <p style="font: italic 10px Arial, Helvetica, sans-serif; color:#515151"> <a href="password_forgotten.php">Password forgotten? Click here</a></p>
+            </form>
+            </fieldset>
+          </div>
+        </div>
+			
+			</li>
+      <li>|</li>			
+			<li><a href="http://www.greendust.com/create_account.php" class="top_nav_link" title="Register">Register</a></li>
+			 <li>|</li>
+			
+            <!--
+             <li><a href="#" class="cab-desplegable" title="Track your Order">Track your Order</a>
+			<div id="sub-menu" style="display: none; ">
+          <div id="sub-menu-contenido">
+            <fieldset id="entrar">
+            <form name="login" action="track.php" method="post" id="login">
+              <p>
+                <label for="email_address">
+                eMail Address               </label>
+              </p>
+              <p>
+                <input name="customers_email_address" id="email_address" type="text" size="22" style="width:158px;border:1px solid #cecece;">
+              </p>
+              <p>
+                <label for="password">
+                <b>Order Number</b>                </label>
+              </p>
+              <p>
+                <input name="orders_id" id="password" type="text" size="22" style="width: 158px;border:1px solid #cecece;">
+              </p>
+              <p style="padding-top:5px;">
+                <input type="submit" value="Track Order" id="entrar_cuenta">
+              </p>
+              
+            </form>
+            </fieldset>
+          </div>
+        </div>
+			
+			</li>
+-->
+        </ul>
+  </div>
+				  
+				  </td>
+           
           </tr>
         </tbody></table></td>
       </tr>
       <tr>
         <td align="center"><table width="1100" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="250" height="60"><a href="http://www.greendust.com"><img src="templates/gdnew/images/shop/greendust_logo.jpg" alt="GreenDust" width="205" height="29" border="0"></a></td>
+            <td width="225" height="80"><a href="http://www.greendust.com"><img src="templates/gdnew/images/shop/greendust_logo.jpg" alt="GreenDust" width="205" height="29" border="0"></a></td>
             <td><form name="search_check" action="advanced_search_result.php" method="get" style="margin:0px;">
               <table width="362" border="0" align="center" cellpadding="0" cellspacing="0">
                 <tbody><tr>
@@ -111,13 +242,17 @@ jQuery(function($){
                 </tr>
               </tbody></table>
             </form></td>
-            <td width="400" align="right">
-			<form action="advanced_search_coupen.php" name="form_coupen" method="get" onsubmit="if(document.form_coupen.keywords.value==''){alert('Enter coupen code');return false;}">
-			<input type="text" name="keywords" class="search12"><input type="submit"></form>
-			<script language="javascript" src="http://www.greendust.com/support/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=3"></script>
+            <td align="right">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="150" align="center"><img src="templates/gdnew/images/gd4/free_shipping_cod.jpg" alt="GreenDust" width="233" height="53"></td>
+  <!--  <td width="190" align="center"><img src="templates/gdnew/images/gd4/free_delivery.jpg" alt="FREE Delivery" width="177" height="54" /></td>-->
+    <td align="right">			<script language="javascript" src="http://support.greendust.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=3"></script>
+			<script language="javascript" src="http://support.greendust.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;nolink=1&amp;departmentid=3"></script>
+</td>
+  </tr>
+</tbody></table>
 
-			<script language="javascript" src="http://www.greendust.com/support/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;nolink=1&amp;departmentid=3"></script>
-<!--			<script type="text/javascript" src="http://greendustsupport.info/livechat/livehelp_js.php?eo=1&department=1&amp;serversession=1&amp;pingtimes=15"></script>-->
 </td>
           </tr>
         </tbody></table></td>
@@ -125,313 +260,151 @@ jQuery(function($){
       <tr>
         <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td class="topNavBorder2">&nbsp;</td>
-            <td width="1100" height="31" class="topNavBorder"><table width="1100" border="0" align="center" cellpadding="0" cellspacing="0">
+            <td class="topNavBorder3">&nbsp;</td>
+            <td width="1100" height="31"><table width="1100" border="0" align="center" cellpadding="0" cellspacing="0">
               <tbody><tr>
-                <td width="68"><a href="http://www.greendust.com"><img src="templates/gdnew/images/shop/home.jpg" alt="GreenDust" width="68" height="31" border="0"></a></td>
-                <td><style media="all" type="text/css">@import "templates/gdnew/menu_style.css";</style>
-<div class="wrapper1">
+                
+                <td><link rel="stylesheet" href="templates/gdnew/navfiles/header-footer.css" type="text/css" media="screen">
+<script src="templates/gdnew/navfiles/jquery-1.4.4.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="templates/gdnew/navfiles/headerV2.min.js"></script>
+<script type="text/javascript"> 
+sHeaderAjaxUrl="aj.php?fuseajax=menu_header_content";
+document.mob.style.display="block";
+</script>
+<div id="NOTIE">
+<!--<![endif]-->
 
-			<div class="nav">
-				<ul id="navigation">
-			   	
-				
-					 <li class="">					
-						<a href="http://www.greendust.com/mobiles-c-104_105.html" title="Mobiles">
-							<span class="menu-left"></span>
-							<span class="menu-mid">Mobiles&nbsp;<img src="templates/gdnew/images/shop/downarrow.jpg" border="0"></span>
-							<span class="menu-right"></span>
-						</a>
-												
-	            	   	<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/mobiles-c-104_105.html" title="Mobile">Mobile</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/mobile-accessories-c-104_106.html" title="Mobile accessories">Mobile accessories</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-											</li>
+<div id="toolbar"></div>
+<div id="global-container" style="margin:0 auto" class="lang-it-country-it lang-it country-it static-header  home">
+<!-- TOP NAVIGATION -->
 
-					 <li class="">					
-						<a href="http://www.greendust.com/plasma-c-68_115.html" title="TV &amp; Video">
-							<span class="menu-left"></span>
-							<span class="menu-mid">TV &amp; Video&nbsp;<img src="templates/gdnew/images/shop/downarrow.jpg" border="0"></span>
-							<span class="menu-right"></span>
-						</a>
-												
-	            	   	<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/lcd-tv-c-68_69.html" title="LCD TV">LCD TV</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/led-tv-c-68_70.html" title="LED TV">LED TV</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/color-tv-c-68_71.html" title="Color TV">Color TV</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/plasma-c-68_115.html" title="Plasma">Plasma</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/dvd-player-c-68_118.html" title="DVD Player">DVD Player</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-											</li>
-
-					 <li class="">					
-						<a href="http://www.greendust.com/gaming-device-c-74_114.html" title="Electronics and Computers">
-							<span class="menu-left"></span>
-							<span class="menu-mid">Electronics and Computers&nbsp;<img src="templates/gdnew/images/shop/downarrow.jpg" border="0"></span>
-							<span class="menu-right"></span>
-						</a>
-												
-	            	   	<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/laptops-notebooks-c-74_75.html" title="Laptops &amp; notebooks">Laptops &amp; notebooks</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/tablets-c-74_76.html" title="Tablets">Tablets</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/camera-c-74_77.html" title="Camera">Camera</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/desktop-servers-c-74_78.html" title="Desktop &amp; Servers">Desktop &amp; Servers</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/home-audio-c-74_79.html" title="Home Audio">Home Audio</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/drive-disks-c-74_80.html" title="Pen Drive, Disks">Pen Drive, Disks</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/player-accessories-c-74_81.html" title="MP3 Player &amp; Accessories">MP3 Player &amp; Accessories</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/computer-accessory-peripherals-c-74_82.html" title="Computer Accessory &amp; Peripherals">Computer Accessory &amp; Peripherals</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/computer-parts-c-74_83.html" title="Computer Parts">Computer Parts</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/gaming-device-c-74_114.html" title="Gaming Device">Gaming Device</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-											</li>
-
-					 <li class="">					
-						<a href="http://www.greendust.com/water-heaters-c-85_110.html" title="Home Appliances">
-							<span class="menu-left"></span>
-							<span class="menu-mid">Home Appliances&nbsp;<img src="templates/gdnew/images/shop/downarrow.jpg" border="0"></span>
-							<span class="menu-right"></span>
-						</a>
-												
-	            	   	<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/refrigerators-c-85_86.html" title="Refrigerators">Refrigerators</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/washing-machine-c-85_87.html" title="Washing Machine">Washing Machine</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/microwave-c-85_88.html" title="Microwave">Microwave</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/air-conditioner-c-85_89.html" title="Air Conditioner">Air Conditioner</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/fans-coolers-c-85_113.html" title="Fans &amp; Air Coolers">Fans &amp; Air Coolers</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/vacuum-cleaners-c-85_112.html" title="Vaccum Cleaners">Vaccum Cleaners</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/water-heaters-c-85_110.html" title="Water Heaters">Water Heaters</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/water-purifier-c-85_111.html" title="Water Purifier">Water Purifier</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/other-c-85_90.html" title="Other">Other</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-											</li>
-
-					 <li class="">					
-						<a href="http://www.greendust.com/food-processor-c-92_109.html" title="Small Home/Kitchen Appliances">
-							<span class="menu-left"></span>
-							<span class="menu-mid">Small Home/Kitchen Appliances&nbsp;<img src="templates/gdnew/images/shop/downarrow.jpg" border="0"></span>
-							<span class="menu-right"></span>
-						</a>
-												
-	            	   	<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/juicers-mixers-blenders-c-92_93.html" title="Juicers, Mixers, JMG, Blenders">Juicers, Mixers, JMG, Blenders</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/kettles-c-92_97.html" title="Kettles">Kettles</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/ovens-toasters-sandwich-maker-c-92_94.html" title="Ovens, Toasters, Sandwich Maker">Ovens, Toasters, Sandwich Maker</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/steamer-rice-cookers-c-92_95.html" title="Steamer, Rice Cookers">Steamer, Rice Cookers</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/coffee-makers-c-92_108.html" title="Coffee Makers">Coffee Makers</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/food-processor-c-92_109.html" title="Food Processor">Food Processor</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/irons-c-92_96.html" title="Irons">Irons</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/chimney-c-92_98.html" title="Chimney">Chimney</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/cooktop-c-92_99.html" title="Cooktop">Cooktop</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-											</li>
-
-					 <li class="">					
-						<a href="http://www.greendust.com/health-c-101_102.html" title="Health &amp; Personal Care">
-							<span class="menu-left"></span>
-							<span class="menu-mid">Health &amp; Personal Care&nbsp;<img src="templates/gdnew/images/shop/downarrow.jpg" border="0"></span>
-							<span class="menu-right"></span>
-						</a>
-												
-	            	   	<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/personal-c-101_103.html" title="Personal">Personal</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/health-c-101_102.html" title="Health">Health</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-											</li>
-			   		<li class="last">
-						<a href="">
-							<span class="menu-left"></span>
-							<span class="menu-mid">View All</span>
-							<span class="menu-right"></span>
-						</a>
-						
-							<div class="sub">
-			   				<ul>
-			   					
-																
-								<li>
-									<a href="http://www.greendust.com/mobiles-c-104_105.html" title="Mobiles">Mobiles</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/plasma-c-68_115.html" title="TV &amp; Video">TV &amp; Video</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/gaming-device-c-74_114.html" title="Electronics and Computers">Electronics and Computers</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/water-heaters-c-85_110.html" title="Home Appliances">Home Appliances</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/food-processor-c-92_109.html" title="Small Home/Kitchen Appliances">Small Home/Kitchen Appliances</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/health-c-101_102.html" title="Health &amp; Personal Care">Health &amp; Personal Care</a>
-								</li>
-			   													
-								<li>
-									<a href="http://www.greendust.com/tv-video-c-119_120.html" title="Extended Warranty">Extended Warranty</a>
-								</li>
-			   								   				</ul>
-			   				<div class="btm-bg"></div>
-			   			</div>
-						
-			   		</li>
-
-
-
-			   		
-			   		
-			   	</ul>
+<div id="header" class="lang-fr country-fr static-header">
+  <ul class="main-nav nav" style="left:-100px;">
+	<li class="tab home active">
+    	<a class="tab-link" href="http://www.greendust.com" title="Home"><img src="templates/gdnew/images/icon_home.png" width="19" height="12" alt="Home" border="0"></a>
+    </li>
+    
+			<li id="nav-1" class=" tab universe-1">
+		<a class="tab-link" id="cat-104" href="http://www.greendust.com/mobiles-c-104.html" title="View Mobiles">Mobiles&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
 			</div>
-
-		</div>
-		
+	</li>
 	
+		<li id="nav-1" class=" tab universe-6">
+		<a class="tab-link" id="cat-139" href="http://www.greendust.com/laptop-c-139.html" title="View Laptop">Laptop&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-4">
+		<a class="tab-link" id="cat-132" href="http://www.greendust.com/desktop-c-132.html" title="View Desktop">Desktop&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-2">
+		<a class="tab-link" id="cat-134" href="http://www.greendust.com/camera-c-134.html" title="View Camera">Camera&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-2">
+		<a class="tab-link" id="cat-158" href="http://www.greendust.com/electronics-c-158.html" title="View Electronics">Electronics&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-4">
+		<a class="tab-link" id="cat-243" href="http://www.greendust.com/home-appliances-c-243.html" title="View Home Appliances">Home Appliances&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-6">
+		<a class="tab-link" id="cat-218" href="http://www.greendust.com/small-appliances-c-218.html" title="View Small Appliances">Small Appliances&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-6">
+		<a class="tab-link" id="cat-170" href="http://www.greendust.com/kitchen-appliances-c-170.html" title="View Kitchen Appliances">Kitchen Appliances&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-3">
+		<a class="tab-link" id="cat-192" href="http://www.greendust.com/personal-care-c-192.html" title="View Personal Care">Personal Care&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-3">
+		<a class="tab-link" id="cat-233" href="http://www.greendust.com/health-care-c-233.html" title="View Health Care">Health Care&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-4">
+		<a class="tab-link" id="cat-211" href="http://www.greendust.com/gaming-c-211.html" title="View Gaming">Gaming&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+		<li id="nav-1" class=" tab universe-4">
+		<a class="tab-link" id="cat-119" href="http://www.greendust.com/extended-warranty-c-119.html" title="View Extended Warranty">Extended Warranty&nbsp;</a>
+			
+            <div id="mob" class="header-tab-content" style="display: none; " align="center">
+             <div id="nav_d_loader" style="display:block;"><img src="bigLoader.gif" width="50" alt="Loading..."></div>
+			</div>
+	</li>
+	
+	
+<li class="tab home active">
+    	<a class="tab-link" href="http://www.greendust.com"><span>Home</span></a>
+    </li>
+</ul>
+	
+</div>
+<!-- ALLOK -->
+<!--My 10 - 0.154-->
+<!--Sw 0.11-->
+<!--MyM 4.100-->
+<!-- gc 0 --></div>
+</div>
+<div id="superbox-overlay" style="display: none; ">
+</div>
 
+<div id="superbox-wrapper" style="display: none; ">
+	<div id="superbox-container">
+		<p class="loading" style="display: none; ">Loading...</p>
+	</div>
+</div>
 </td>
               </tr>
             </tbody></table></td>
-            <td class="topNavBorder2">&nbsp;</td>
+            <td class="topNavBorder3">&nbsp;</td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -477,7 +450,7 @@ jQuery(function($){
             <td valign="top" class="cds_category_description"><!-- pages.php $display_string // -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td valign="top"><div class="cds_pages_body"><p>RLC Pvt. Ltd. and its  subsidiaries and affiliates ("GreenDust") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used  by GreenDust. You are advised to please read the Privacy Policy carefully. By  accessing the services provided by GreenDust you agree to the collection and use of  your data by GreenDust in the manner provided in this Privacy Policy.&nbsp;<br>
+    <td valign="top"><div class="cds_pages_body"><p>RLC Pvt. Ltd. and its  subsidiaries and affiliates ("GreenDust") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used  by GreenDust. You are advised to please read the Privacy Policy carefully. By  accessing the services provided by GreenDust you agree to the collection and use of  your data by GreenDust in the manner provided in this Privacy Policy. <br>
     <br>
     <br>
     <strong>We want you to</strong></p>
@@ -489,7 +462,7 @@ jQuery(function($){
     collection of certain data</li>
 </ul>
 <p><strong><br>
-  WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?</strong>&nbsp;<br>
+  WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?</strong> <br>
   <br>
   We will automatically receive and collect certain  anonymous information in standard usage logs through our Web server, including  computer-identification information obtained from "cookies," sent to  your browser from a </p>
 <ul type="disc">
@@ -502,12 +475,12 @@ jQuery(function($){
 <p>We may collect the following personally  identifiable information about you: </p>
 <ul type="disc">
   <li>name including first and       last name </li>
+  <li>password (stored in an encrypted format)</li>
   <li>alternate email       address</li>
   <li>mobile phone number       and contact details</li>
   <li>ZIP/Postal code</li>
   <li>demographic profile       (like your age, gender, occupation, education, address and durables       owned);</li>
   <li>preferences and       interests (such as news, sports, travel and so on);</li>
-  <li>financial       information (like account or credit card numbers); and</li>
   <li>opinions of       features on our websites.</li>
 </ul>
 <p>We may also collect the following  information: </p>
@@ -516,23 +489,23 @@ jQuery(function($){
   <li>the links you click       on our site</li>
   <li>the number of times       you access the page</li>
 </ul>
-<p>You can terminate your account at any  time. However, your information may remain stored in archive on our servers  even after the deletion or the termination of your account.&nbsp;<br>
+<p>You can terminate your account at any  time. However, your information may remain stored in archive on our servers  even after the deletion or the termination of your account. <br>
     <br>
     <br>
-    <strong>WHO COLLECTS THE INFORMATION?</strong>&nbsp;<br>
+    <strong>WHO COLLECTS THE INFORMATION?</strong> <br>
     <br>
-  We will collect anonymous traffic information from  you when you visit our site&nbsp;<br>
+  We will collect anonymous traffic information from  you when you visit our site <br>
   <br>
-  We will collect personally identifiable  information about you only as part of a voluntary registration process, on-line  survey, or contest or any combination thereof.&nbsp;<br>
+  We will collect personally identifiable  information about you only as part of a voluntary registration process, on-line  survey, or contest or any combination thereof. <br>
   <br>
-  Our advertisers may collect anonymous traffic  information from their own assigned cookies to your browser.&nbsp;<br>
+  Our advertisers may collect anonymous traffic  information from their own assigned cookies to your browser. <br>
   <br>
-  The Site contains links to other Web sites. We are  not responsible for the privacy practices of such Web sites which we do not  own, manage or control.&nbsp;<br>
+  The Site contains links to other Web sites. We are  not responsible for the privacy practices of such Web sites which we do not  own, manage or control. <br>
   <br>
-  We make chat rooms, forums, instant messenger and  message boards and other services available to you. Please understand that any  information that is disclosed in these areas becomes public information. We  have no control over its use and you should exercise caution when disclosing your  personal information to anyone.&nbsp;<br>
+  We make chat rooms, forums, instant messenger and  message boards and other services available to you. Please understand that any  information that is disclosed in these areas becomes public information. We  have no control over its use and you should exercise caution when disclosing your  personal information to anyone. <br>
   <br>
   <br>
-  <strong>HOW IS THE INFORMATION USED?</strong>&nbsp;<br>
+  <strong>HOW IS THE INFORMATION USED?</strong> <br>
   <br>
   We use your personal information to: </p>
 <ul type="disc">
@@ -560,10 +533,9 @@ jQuery(function($){
   <li>track your session       so that we can understand better how people use our sites</li>
 </ul>
 <p><strong><br>
-  WITH WHOM WILL YOUR INFORMATION BE SHARED?</strong>&nbsp;<br>
+  WITH WHOM WILL YOUR INFORMATION BE SHARED?</strong> <br>
   <br>
-  We will not use your financial information for any  purpose other than to complete a transaction with you.&nbsp;<br>
-  <br>
+
   We do not rent, sell or share your personal  information and we will not disclose any of your personally identifiable  information to third parties unless: </p>
 <ul type="disc">
   <li>we have your permission </li>
@@ -571,42 +543,42 @@ jQuery(function($){
   <li>to help       investigate, prevent or take action regarding unlawful and illegal       activities, suspected fraud, potential threat to the safety or security of       any person, violations of GreenDust's terms of use or to defend against legal       claims;</li>
   <li>special       circumstances such as compliance with subpoenas, court orders,       requests/order from legal authorities or law enforcement agencies       requiring such disclosure.</li>
 </ul>
-<p>We share your information with  advertisers on an aggregate basis only.&nbsp;<br>
+
     <br>
     <br>
-    <strong>WHAT CHOICES ARE AVAILABLE TO YOU REGARDING  COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?</strong>&nbsp;<br>
+    <strong>WHAT CHOICES ARE AVAILABLE TO YOU REGARDING  COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?</strong> <br>
     <br>
-  Supplying personally identifiable information is  entirely voluntary. You are not required to register with us in order to use  our sites. However, we offer some services only to visitors who do register.&nbsp;<br>
+  Supplying personally identifiable information is  entirely voluntary. You are not required to register with us in order to use  our sites. However, we offer some services only to visitors who do register. <br>
   <br>
-  You may change your interests at any time and may  opt-in or opt-out of any marketing / promotional / newsletters mailings. GreenDust  reserves the right to send you certain service related communication,  considered to be a part of your GreenDust account without offering you the facility  to opt-out. You may update your information and change your account settings at  any time.&nbsp;<br>
+  You may change your interests at any time and may  opt-in or opt-out of any marketing / promotional / newsletters mailings. GreenDust  reserves the right to send you certain service related communication,  considered to be a part of your GreenDust account without offering you the facility  to opt-out. You may update your information and change your account settings at  any time. <br>
   <br>
-  Upon request, we will remove/block your personally  identifiable information from our database, thereby canceling your  registration. See Contact information below. However, your information may  remain stored in archive on our servers even after the deletion or the  termination of your account.&nbsp;<br>
+  Upon request, we will remove/block your personally  identifiable information from our database, thereby canceling your  registration. See Contact information below. However, your information may  remain stored in archive on our servers even after the deletion or the  termination of your account. <br>
   <br>
-  If we plan to use your personally identifiable  information for any commercial purposes, we will notify you at the time we  collect that information and allow you to opt-out of having your information  used for those purposes.&nbsp;<br>
+  If we plan to use your personally identifiable  information for any commercial purposes, we will notify you at the time we  collect that information and allow you to opt-out of having your information  used for those purposes. <br>
   <br>
-  You can accept or decline the cookies. All sites  that are customizable require that you accept cookies. You also must accept  cookies to register as someone for access to some of our services. For  information on how to set your browser to alert you to cookies, or to reject  cookies, go to http://www.cookiecentral.com/faq/.&nbsp;<br>
-  <br>
-  <br>
-  <strong>WHAT SECURITY PROCEDURES ARE IN PLACE TO  PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?</strong>&nbsp;<br>
-  <br>
-  To protect against the loss, misuse and alteration  of the information under our control, we have in place appropriate physical,  electronic and managerial procedures. For example, our servers are accessible  only to authorized personnel and that your information is shared with  respective personnel on need to know basis to complete the transaction and to  provide the services requested by you.&nbsp;<br>
-  <br>
-  Although we will endeavor to safeguard the  confidentiality of your personally identifiable information, transmissions made  by means of the Internet cannot be made absolutely secure. By using this site,  you agree that we will have no liability for disclosure of your information due  to errors in transmission or unauthorized acts of third parties.&nbsp;<br>
+  You can accept or decline the cookies. All sites  that are customizable require that you accept cookies. You also must accept  cookies to register as someone for access to some of our services. For  information on how to set your browser to alert you to cookies, or to reject  cookies, go to http://www.cookiecentral.com/faq/. <br>
   <br>
   <br>
-  <strong>HOW CAN YOU CORRECT INACCURACIES IN THE  INFORMATION?</strong>&nbsp;<br>
+  <strong>WHAT SECURITY PROCEDURES ARE IN PLACE TO  PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?</strong> <br>
   <br>
-  To correct or update any information you have  provided, our sites allow you to do it online. In the event of loss of access  details you can use any of the following options: </p>
+To protect against the loss, misuse and alteration  of the information under our control, we have in place appropriate physical,  electronic and managerial procedures. We use firewalls on our server and all the passwords  are stored in an encrypted format which makes it hard for a hacker to retrieve  it. Our servers are accessible  only to authorized personnel and that your information is shared with  respective personnel on need to know basis to complete the transaction and to  provide the services requested by you. <br>
+  <br>
+  Although we will endeavor to safeguard the  confidentiality of your personally identifiable information, transmissions made  by means of the Internet cannot be made absolutely secure. By using this site,  you agree that we will have no liability for disclosure of your information due  to errors in transmission or unauthorized acts of third parties. <br>
+  <br>
+  <br>
+  <strong>HOW CAN YOU CORRECT INACCURACIES IN THE  INFORMATION?</strong> <br>
+  <br>
+  To correct or update any information you have  provided, our sites allow you to do it online. In the event of loss of access  details you can use any of the following options: <p></p>
 <ul type="disc">
-  <li>Send an e-mail to <a href="mailto:support@GreenDust.com">support@GreenDust.com</a> &nbsp;</li>
+  <li>Send an e-mail to <a href="mailto:support@GreenDust.com">support@GreenDust.com</a>  </li>
   <li>Call the following       telephone number: +91 (11) 49500100</li>
 </ul>
 <p><strong><br>
-  POLICY UPDATES</strong>&nbsp;<br>
+  POLICY UPDATES</strong> <br>
   <br>
-  We reserve the right to change or update this  policy at any time by placing a prominent notice on our site. Such changes  shall be effective immediately upon posting to this site.&nbsp;<br>
+  We reserve the right to change or update this  policy at any time by placing a prominent notice on our site. Such changes  shall be effective immediately upon posting to this site. <br>
   <br>
-  You are can offer your views, suggestions, if any,  by submitting the filled in feedback form online.&nbsp;<br>
+  You are can offer your views, suggestions, if any,  by submitting the filled in feedback form online. <br>
   <br>
   <br>
 </p></div></td>
@@ -700,13 +672,12 @@ jQuery(function($){
           <tr>
             <td height="22" align="left" class="footlinkleftpad"><a href="http://www.greendust.com/return-policy-pg-2.html" class="greySmallLink" title="Return Policy">Return Policy</a></td>
           </tr>
-          <tr>
-            <td>&nbsp;</td>
+<tr>
+            <td height="22" align="left" class="footlinkleftpad"><a href="sitemap.xml" title="Sitemap" class="greySmallLink">Sitemap XML</a> </td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
+            <td height="22" align="left" class="footlinkleftpad"><a href="http://www.greendust.com/sitemap.php" class="greySmallLink" title="Site Map">Sitemap</a></td>
+          </tr>          <tr>
             <td>&nbsp;</td>
           </tr>
           <tr>
@@ -720,6 +691,9 @@ jQuery(function($){
           <tr>
             <td height="10"></td>
           </tr>
+		   <tr>
+            <td height="22" class="footlinkleftpad"><a href="http://www.greendust.com/-pg-30.html" title="FAQs" class="greySmallLink">Mother's Day offer</a></td>
+          </tr>
           <tr>
             <td height="22" align="left" class="footlinkleftpad"><a href="#" class="greySmallLink" title="Privacy Policy">Customer Support </a></td>
           </tr>
@@ -729,6 +703,7 @@ jQuery(function($){
           <tr>
             <td height="22" class="footlinkleftpad"><a href="http://www.greendust.com/faqs-pg-4.html" title="FAQs" class="greySmallLink">FAQs</a></td>
           </tr>
+		 
           <tr>
             <td height="22" class="footlinkleftpad"><a href="http://www.greendust.com/contact-us-pg-10.html" title="Contact Us" class="greySmallLink">Contact Us </a></td>
           </tr>
@@ -799,7 +774,10 @@ jQuery(function($){
             <td height="10"></td>
           </tr>
           <tr>
-            <td height="22" align="left" class="footlinkleftpad"><a class="greySmallLink" href="http://www.greendust.com/about-greendust-pg-6.html" title="About GreenDust">About GreenDust </a></td>
+            <td height="22" align="left" class="footlinkleftpad"><a class="greySmallLink" href="http://www.reverselogistics.in" title="About RLC">About RLC</a></td>
+          </tr>
+		  <tr>
+            <td height="22" align="left" class="footlinkleftpad"><a class="greySmallLink" href="http://www.greendust.com/about-greendust-pg-6.html" title="About Brand GreenDust">About Brand GreenDust </a></td>
           </tr>
           <tr>
             <td height="22" align="left" class="footlinkleftpad"><a href="http://www.greendust.com/management-team-pg-8.html" title="Management Team" class="greySmallLink">Management Team </a></td>
@@ -843,7 +821,7 @@ jQuery(function($){
         <td colspan="5" height="5" class="OnlyFootBorderBottom"></td>
         </tr>
       <tr>
-        <td height="25" colspan="5" align="center">© Copyright 2011 RLC Pvt. Ltd. All rights reserved</td>
+        <td height="25" colspan="5" align="center">© Copyright 2012 RLC Pvt. Ltd. All rights reserved</td>
       </tr>
     </tbody></table>
   </td>
