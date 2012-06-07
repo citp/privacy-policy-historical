@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wocchat.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208160020id_/http%3A//www.wocchat.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wocchat.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607091441id_/http%3A//www.wocchat.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Free chat rooms
 
