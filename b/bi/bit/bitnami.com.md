@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitnami.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220436id_/http%3A//bitnami.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitnami.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607063347id_/http%3A//bitnami.org/privacy) for the most accurate reproduction.*
 
 # BitNami :: FAQ::Privacy
 
-BitRock, Incorporated (“BitRock”) understands the importance of protecting the privacy of all information that we collect by users of our websites, subscribers to our newsletters and other information services and customers of our products and services. This Privacy Policy outlines our use and disclosure of the personal information collected by or submitted to BitRock on all BitRock-owned websites, including: [bitrock.com](https://web.archive.org/redirect/to?url=http://bitrock.com), [installbuilder.bitrock.com](http://installbuilder.bitrock.com/), [bitnami.org](http://bitnami.org/), [bitnamistudio.com](http://bitnamistudio.com/), [bitnamihosting.com](http://bitnamihosting.com/). 
+BitRock, Incorporated (“BitRock”) understands the importance of protecting the privacy of all information that we collect by users of our websites, subscribers to our newsletters and other information services and customers of our products and services. This Privacy Policy outlines our use and disclosure of the personal information collected by or submitted to BitRock on all BitRock-owned websites, including: [bitrock.com](https://web.archive.org/redirect/to?from=%2Fprivacy&url=http%3A%2F%2Fbitrock.com), [installbuilder.bitrock.com](http://installbuilder.bitrock.com/), [bitnami.org](http://bitnami.org/), [bitnamistudio.com](http://bitnamistudio.com/), [bitnamihosting.com](http://bitnamihosting.com/). 
 
 What information do we collect?
 
