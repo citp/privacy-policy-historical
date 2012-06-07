@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the greatcall.com privacy policy that was archived on 2011-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204033441id_/http%3A//www.greatcall.com/Legal/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatcall.com privacy policy that was archived on 2012-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607120641id_/http%3A//www.greatcall.com/Legal/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head id="ctl00_headc"><meta charset="utf-8"><link rel="Shortcut Icon" href="/images/favicon.ico" type="image/icon"><link rel="stylesheet" href="/Shared/styles/global.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/reset.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/layout.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/modalboxes.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/scripts/slider/styles/slider.css" type="text/css" media="all"><link rel="stylesheet" type="text/css" href="/Shared/styles/gcmodal.css" media="all">
+<!DOCTYPE html><html lang="en"><head id="ctl00_headc"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"><meta charset="utf-8"><link rel="Shortcut Icon" href="/images/favicon.ico" type="image/icon"><link rel="stylesheet" href="/Shared/styles/global.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/reset.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/layout.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/styles/modalboxes.css" type="text/css" media="all"><link rel="stylesheet" href="/Shared/scripts/slider/styles/slider.css" type="text/css" media="all"><link rel="stylesheet" type="text/css" href="/Shared/styles/gcmodal.css" media="all">
     <script type="text/javascript" async="" src="https://web.archive.org/web/20110923034008/https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=189914367731993"></script><script src="/Shared/scripts/jquery-1.6.1.min.js" type="text/javascript"></script>
+
     <script src="/Shared/Scripts/common.js" type="text/javascript"></script>
     <script src="/Shared/Scripts/mask.js" type="text/javascript"></script>
     <script type="text/javascript" src="/Shared/Scripts/jquery.easing.1.3.js"></script>
@@ -73,48 +74,97 @@ fileref.setAttribute("src", filename)
     
 
 
-<div class="selectPanel">
-</div>
-<div class="selectMessage">
+<div class="selectParent">
+    <div class="selectBackground">
+    </div>
+    <div class="selectMessageContainer">
+        <div class="selectMessage">      
+            <div class="navButtons">
+                <div class="closeButton"><a href="#" id="registrationModal_btnClose">Cancel X</a></div>                
+                <div class="backButton"><a href="#" id="registrationModal_btnBack">&lt;&lt; Back</a>&nbsp;</div>
+            </div>
+            <div class="reg-header">MyGreatCall Registration</div>   
+            <div class="reg-modal-body">               
+                <div id="reg-modal-body-devices">
+                    <p>Are you registering your Jitterbug phone, your 5Star Responder, or your smartphone App?</p>
+                    <p>Click on appropriate image below.</p>
       
-      <div class="closeButton"><a href="#" onclick="RegistrationModal.hide();return false;">Cancel X</a></div>
-      <div class="reg-header">MyGreatCall Registration</div>
-     
-     <p>Are you registering your Jitterbug phone, your 5Star Responder, or your smartphone App?</p>
-     <p>Click on appropriate image below.</p>
-      
-        <ul id="greatcall-registration">
-        <li><a href="https://www.greatcall.com/Register.aspx" title="Click Here For Jitterbug" id="phones">Phones</a></li>     
-        <li><a href="https://www.greatcall.com/Registration/Responder" title="Click Here For 5Star Responder" id="responder">5Star Responder</a></li> 
-        <li><a href="https://www.greatcall.com/MobileAppRegistration.aspx" title="Click Here For Smart Phone App" id="apps">Apps</a></li> 
-        </ul>
+                    <ul class="greatcall-registration">
+                        <li><a href="https://www.greatcall.com/Register.aspx" title="Click Here For Jitterbug" id="phones">Phones</a></li>     
+                        <li><a href="https://www.greatcall.com/Registration/Responder" title="Click Here For 5Star Responder" id="responder">5Star Responder</a></li> 
+                        <li><a href="#" title="Click Here For Smart Phone App" id="apps">Apps</a></li> 
+                    </ul>
+                </div>           
+                <div id="reg-modal-body-apps">
+                    <p>Are you subscribing to 5Star, or MedCoach, or LiveNurse smartphone app?</p>
+                    <p>Click on appropriate image below.</p>
+                    <ul class="greatcall-registration" id="app-registration">
+                        <li><a href="https://www.greatcall.com/FiveStarSubscription" title="Subscribe To 5Star App" id="fivestar">5Star</a></li>
+                        <li><a href="https://www.greatcall.com/MobileAppRegistration.aspx?app=MedCoach" title="Subscribe To MedCoach App" id="medcoach">MedCoach</a></li>  
+                        <li><a href="https://www.greatcall.com/LiveNurse" title="Subscribe To LiveNurse" id="livenurse">LiveNurse</a></li> 
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script type="text/javascript">
-var RegistrationModal = function() {
-	return {
-		wireup: function() {
-			$("a[href$=Register.aspx]").not(".selectMessage a").click(function() {
-				RegistrationModal.show();
-				return false;
-			});
-			$("a[href$=register.aspx]").not(".selectMessage a").click(function() {
-				RegistrationModal.show();
-				return false;
-			});
-		},
-		show: function() {
-			$(".selectPanel").show();
-			$(".selectMessage").show();
-		},
-		hide: function() {
-			$(".selectPanel").hide();
-			$(".selectMessage").hide();
-		}
-	};
-} ();
+    var RegistrationModal = {
+        wireup: function () {
+            $("a[href$=Register.aspx]").not(".selectMessage a").click(function () {
+                RegistrationModal.show();
+                return false;
+            });
+            $("a[href$=register.aspx]").not(".selectMessage a").click(function () {
+                RegistrationModal.show();
+                return false;
+            });
+        },
+        show: function (section) {
+            if (section && section == "apps") {
+                $("#reg-modal-body-devices").hide();
+                $("#reg-modal-body-apps").show();
+                $("#registrationModal_btnBack").show();
+            }
+            else {
+                $("#reg-modal-body-devices").show();
+                $("#reg-modal-body-apps").hide();
+                $("#registrationModal_btnBack").hide();
+            }
+
+            $(".selectParent").show();
+        },
+        hide: function () {
+            $(".selectParent").hide();
+        }
+    };
+
+$(function () {
+    $("#registrationModal_btnClose").click(function () {
+        RegistrationModal.hide();
+        return false;
+    });
+
+    $("#registrationModal_btnBack").click(function () {
+        ToggleRegistrationModal();
+        return false;
+    });
+
+    $(".greatcall-registration #apps").click(function () {
+        ToggleRegistrationModal();
+        return false;
+    });
+});
+
+function ToggleRegistrationModal() {    
+    $("#reg-modal-body-devices").slideToggle("slow");
+    $("#reg-modal-body-apps").slideToggle("slow");
+    $("#registrationModal_btnBack").slideToggle("slow");    
+}
 
 </script>
+
 
     <div id="container">
                
@@ -187,14 +237,14 @@ var RegistrationModal = function() {
     	<div id="logo"><a href="http://www.greatcall.com/default.aspx"><img src="/images/logos/gc-logo.png" alt="GreatCall"></a></div>
        <div class="facebook-iframe"><div class="fb-like" data-href="http://www.facebook.com/greatcall" data-send="false" data-width="450" data-show-faces="false"></div></div>
 
-       </header>
+</header>
 
 
                         </div>
 
-                       <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+                       <form name="aspnetForm" method="post" action="/Legal/privacy-policy.aspx" id="aspnetForm">
 <input type="hidden" name="ctl00_ToolkitScriptManager_HiddenField" id="ctl00_ToolkitScriptManager_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwOTI1OTYyNzUPZBYCZg9kFgICBw9kFgICAQ9kFgICAQ8WAh4HVmlzaWJsZWhkZIHnJYD4/UwWlZDeNsdn2D57sODL">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYCAgcPZBYCAgEPZBYCAgEPFgIeB1Zpc2libGVoZGT/0PsoS77jed4DjdnaQZ7d35ti8g==">
 
 
 <script type="text/javascript">
@@ -210,7 +260,7 @@ s.eVar1="";
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=fjVQIv7j4mknb3lGJOFyk1ZBzhxJlolFFVviH5-oJtmIXi4mkT8tAKJr4ZXvZrIdFu-Y6f16zsa7WGP2HkW_WeRY56idUasxeoBdAhM76zF4FyYmKqZ0X129pY5RkAof4eOWU28lJQI3WNLQmic4LHNL2wjvXGK_9pVQhugu91cStHuJ0&amp;t=ffffffff83a16fb5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qKqfbj1hS-RRwK6LrmAT0_bE1HQyU1vNkJ6H8J6VMlcCtScsgsrDe7tYZPk_CyKKSKzetRqbvLWRv-EErM1rQvjzCMDNNY49veNDIvERm4JjLZYMQ5GZZydDHgXHxiT74RssziqUZDLtTr9YBD7oHO4CplzK8HSgM7ckRF8fKbZPXeoM0&amp;t=1a7f255a" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -481,7 +531,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
      <ul>
 			   <li>
-			   <a href="#" class="community-box1">
+			   <a href="http://www.greatcall.com/CheckCoverage/" class="community-box1">
 			   <h3>Reliable Nationwide Coverage</h3>
 			   <p>Powered by one of the nation’s largest and most reliable wireless networks. </p>
        <div class="learn-more">Learn more &gt;</div>  
@@ -567,9 +617,9 @@ Sys.Application.initialize();
 					<a href="http://www.greatcall.com/5Star_urgent_response/5Star_locator/">Locator Service</a>
 					</li>
 					<li>
-					<a href="http://www.greatcall.com/ResponderActivation/">Activate your 5Star</a>
+					<a href="http://www.greatcall.com/Activate/">Activate your 5Star</a>
 					</li>
-                    <li>
+					<li>
 					<a href="http://www.greatcall.com/5Star_urgent_response/Public_Safety/">Public Safety</a>
 					</li>
 				</ul>
@@ -583,9 +633,9 @@ Sys.Application.initialize();
 					<li>
 					<a href="http://www.greatcall.com/Mobile_apps/Medcoach_app/">MedCoach App</a>
 					</li>
-					<!-- <li>
-					<a   href="http://www.greatcall.com/Mobile_apps/Livenurse_app/">LiveNurse App</a>
-					</li>  -->
+					<li>
+					<a href="http://www.greatcall.com/Mobile_apps/Livenurse_app/">LiveNurse App</a>
+					</li>
 				</ul>
 
 				</li>
@@ -605,7 +655,7 @@ Sys.Application.initialize();
 					<a href="http://www.greatcall.com/Support/returns.aspx">Product Returns</a>
 					</li>
 				</ul>
-                <h5>MyGreatCall</h5>
+				<h5>MyGreatCall</h5>
 				<ul>
 					<li>
 					<a href="http://www.greatcall.com/login.aspx">Login</a>
@@ -625,29 +675,32 @@ Sys.Application.initialize();
 					<li>
 					<a href="http://www.greatcall.com/Community/awards.aspx">Awards</a>
 					</li>
-                    <li>
+					<li>
 					<a href="http://www.greatcall.com/AboutUs/">About Us</a>
 					</li>
-                    <li>
+					<li>
 					<a href="http://www.greatcall.com/businessDevelopment.aspx">Business Development</a>
 					</li>
 					<li>
 					<a href="http://tbe.taleo.net/NA6/ats/careers/jobSearch.jsp?org=GREATCALL&amp;cws=1">Careers</a>
 					</li>
-                    <li>
+					<li>
 					<a href="http://www.greatcall.com/partners/">Preferred Partners</a>
 					</li>
 					<li>
 					<a href="http://www.greatcall.com/Resellers/default.aspx">Resellers / Affiliates</a>
 					</li>
-                    <li>
+					<li>
 					<a href="http://www.greatcall.com/Community/press.aspx">Press Releases</a>
 					</li>
-                    <li>
+					<li>
 					<a href="http://www.greatcall.com/Community/">Testimonials</a>
 					</li>
 					<li>
 					<a href="http://www.greatcall.com/PressAssets/Assets.aspx">Press and Retail Assets</a>
+					</li>
+					<li>
+					<a href="http://www.greatcall.com/Sitemap.aspx">Sitemap</a>
 					</li>
 					<li>
 					<a href="http://www.greatcall.com/Legal/privacy-policy.aspx">Privacy Policy</a>
@@ -664,7 +717,7 @@ Sys.Application.initialize();
 				<h5>Connect</h5>
 				<ul>
 					<li>
-					<a href="http://www.facebook.com/greatcall" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Facebook']);" title="Like us on Facebook" class="facebook">Follow us on Facebook</a>
+					<a href="http://www.facebook.com/greatcall" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Facebook']);" title="Like us on Facebook" class="facebook">Like us on Facebook</a>
 					</li>
 					<li>
 					<a href="http://www.twitter.com/greatcallinc" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social', 'Click', 'Twitter']);" title="Follow us on Twitter" class="twitter">Follow us on Twitter</a>
@@ -681,7 +734,7 @@ Sys.Application.initialize();
 				</ul>
 				</li>
 		</ul>
-		 <div id="footer-copy">©2011 GreatCall. All Rights Reserved.</div>   
+		 <div id="footer-copy">©2012 GreatCall. All Rights Reserved.</div>   
 	</div>
 </footer>
   <!-- omniture begin -->
