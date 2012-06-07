@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222182059id_/http%3A//www.unitravel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607032318id_/http%3A//www.unitravel.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Unitravel.com - Privacy
 
 This website belongs and is managed by UniTravel Srl, hereinafter UniTravel, an Italian Company with registered office in Via Lazzarini, 13 Venice Italy, Vat Code 03458490277. It makes part of the circuit of portals that head to the website www.unitravel.com, hereinafter called UniTravel Network or simply the Network. 
 
