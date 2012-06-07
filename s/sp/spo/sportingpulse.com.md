@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingpulse.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207025444id_/http%3A//corp.sportingpulse.com/index.php%3Fid%3D75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingpulse.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607052337id_/http%3A//corp.sportingpulse.com/index.php%3Fid%3D75) for the most accurate reproduction.*
 
 # SportingPulse: Privacy Policy
 
