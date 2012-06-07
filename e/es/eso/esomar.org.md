@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006225818id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607072206id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
-# ESOMAR - Privacy Policy
+# Privacy Policy - ESOMAR
 
 **This is the Privacy Policy of ESOMAR B.V. and The Society of ESOMAR (“ESOMAR”).**
 
@@ -67,15 +67,11 @@ If you have any questions about ESOMAR’s Privacy Policy, please contact: [k.jo
 
 A cookie is a small amount of data that is sent to your computer browser from a website's computer and is stored on your computer, if your browser’s preferences allow it. Each website can send its own cookie to your browser but (to protect your privacy) your browser only permits a website to access its own cookies, not the cookies sent to you by other sites.
 
-You have the opportunity to set your device to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR to analyse the profile of our visitors and help us to provide you with a better user experience.
+ESOMAR uses cookies to help the server identify you when you log in to secure areas of the site, such as MyESOMAR, the Directory and Career Network. The cookies store your login information, so you can enter and leave the website without having to re-enter the same information over and over.
 
-ESOMAR uses cookies to:
+We also use cookies to track our online traffic flow (through Google Analytics and Google AdManager) and to personalise information in online forms.
 
-  * track online traffic flow (through Google Analytics and Google AdManager)
-  * enable login to the different sessions (My ESOMAR/Directory /Career network)
-  * personalize the information in online forms
-
-
+You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](http://www.esomar.org/cookies.php)
 
 ## Applicable Law
 
