@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the placelocal.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017141325id_/https%3A//www.paperg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placelocal.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607070846id_/http%3A//www.paperg.com/privacy.php) for the most accurate reproduction.*
 
-# PaperG - Privacy Policy
-
-**Privacy Policy**
+# PaperG | Privacy Policy
 
 Effective For: paperg.com, placelocal.com, flyerboard.com 
 
@@ -16,9 +14,9 @@ Please note that PaperG’s privacy practices as described below only apply to i
 
 Our main offices are located at:
 
-282 York Street, Suite 205
+455 Market St. Suite 1810
 
-New Haven, CT 06511
+San Francisco, CA 94105
 
 If you have any questions about this statement or how information is collected and used, you can reach us via e-mail at privacy@paperg.com.
 
@@ -59,7 +57,7 @@ Such information is collected in order to contact those persons to provide infor
 
 This information may be stored on our servers in the United States and usually deleted as space requires or in the normal course of business, but can be amended or deleted upon request.
 
-We may also collect contact information, including names, e-mail addresses and phone numbers, of those who communicate with others through our products and services.  
+We may also collect contact information, including names, e-mail addresses and phone numbers, of those who communicate with others through our products and services. 
 
 **Cookies and Web Beacons**
 
@@ -83,7 +81,7 @@ Please provide us with your full name and phone number to ensure your name is re
 
 **Changes to this Privacy Policy**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice as we add, change, or remove products and services from our offering.  If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes. If you are concerned about how your information is used, you should check back at our website periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice as we add, change, or remove products and services from our offering. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes. If you are concerned about how your information is used, you should check back at our website periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
