@@ -1,32 +1,26 @@
-<!--The following is the downloaded HTML source of the webdesignbooth.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214042206id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webdesignbooth.com privacy policy that was archived on 2012-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608010341id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy</title>
 
-<!--[if IE]>
-	<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv2/css/ie.css" type="text/css" media="screen, projection">
-<![endif]-->
-<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv2/style.css" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv2/css/print.css" type="text/css" media="print">
-<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv2/css/ie.css" type="text/css" media="print">
-<!--[if lte IE 6]>
-<style type="text/css">
-img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.com/wp-content/themes/wdbv2/iepngfix.htc") }
-</style>   
-<![endif]-->
+
+<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv3/style.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv3/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" href="http://www.webdesignbooth.com/wp-content/themes/wdbv3/css/ie.css" type="text/css" media="print">
+
 
 <link rel="alternate" type="application/rss+xml" title="Web Design Booth RSS Feed" href="http://www.webdesignbooth.com/feed/">
-<!-- <link rel="alternate" type="application/atom+xml" title="Web Design Booth Atom Feed" href="http://www.webdesignbooth.com/feed/atom/" /> -->
+<link rel="alternate" type="application/atom+xml" title="Web Design Booth Atom Feed" href="http://www.webdesignbooth.com/feed/atom/">
 <link rel="pingback" href="http://www.webdesignbooth.com/xmlrpc.php">
-<link rel="icon" href="http://www.webdesignbooth.com/wp-content/themes/wdbv2/images/favicon.ico">
-<link rel="shortcut icon" href="http://www.webdesignbooth.com/wp-content/themes/wdbv2/images/favicon.ico">
+<link rel="icon" href="http://www.webdesignbooth.com/wp-content/themes/wdbv3/images/favicon.ico">
+<link rel="shortcut icon" href="http://www.webdesignbooth.com/wp-content/themes/wdbv3/images/favicon.ico">
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/themes/wdbv2/js/jquery.idTabs.min.js"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/themes/wdbv2/js/superfish.js"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/themes/wdbv2/js/supersubs.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/themes/wdbv3/js/jquery.idTabs.min.js"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/themes/wdbv3/js/superfish.js"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/themes/wdbv3/js/supersubs.js"></script>
 
 
 <script type="text/javascript">
@@ -49,42 +43,79 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 	});
 </script>
 
+<script type="text/javascript">
+	$(document).ready(function() {
+        function isScrolledTo(elem) {
+            var docViewTop = $(window).scrollTop(); //num of pixels hidden above current screen
+            var docViewBottom = docViewTop + $(window).height();
+ 
+            var elemTop = $(elem).offset().top; //num of pixels above the elem
+            var elemBottom = elemTop + $(elem).height();
+ 
+            return ((elemTop <= docViewTop));
+        }
+ 
+        var catcher = $('#catcher');
+        var sticky = $('#sticky');
+		
+        $(window).scroll(function() {
+            if(isScrolledTo(sticky)) {
+                sticky.css('position','fixed');
+                sticky.css('top','0px');
+            } 
+			var stopHeight = catcher.offset().top + catcher.height();
+			if ( stopHeight > sticky.offset().top) {
+                sticky.css('position','absolute');
+                sticky.css('top', 'auto');
+            }
+        });
+    });
+</script>
+
 <link rel="alternate" type="application/rss+xml" title="Web Design Booth » Privacy Policy Comments Feed" href="http://www.webdesignbooth.com/privacy-policy/feed/">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.webdesignbooth.com/wp-content/plugins/contact-form-7/styles.css?ver=2.2.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.webdesignbooth.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="wp_greet_box_style-css" href="http://www.webdesignbooth.com/wp-content/plugins/wp-greet-box/css/style.css?ver=3.1.2" type="text/css" media="all">
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<link rel="stylesheet" id="wp_greet_box_style-css" href="http://www.webdesignbooth.com/wp-content/plugins/wp-greet-box/css/style.css?ver=3.3.1" type="text/css" media="all">
 <script type="text/javascript" src="http://www.webdesignbooth.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/plugins/wp-greet-box/js/functions.js?ver=3.1.2"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/plugins/wp-greet-box/js/js-mode.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/plugins/wp-greet-box/js/functions.js?ver=3.3.1"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/plugins/wp-greet-box/js/js-mode.js?ver=3.3.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.webdesignbooth.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.webdesignbooth.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Web Design Booth" href="http://www.webdesignbooth.com/">
 <link rel="prev" title="Contact" href="http://www.webdesignbooth.com/contact/">
 <link rel="next" title="Write For Us" href="http://www.webdesignbooth.com/write-for-us/">
-<meta name="generator" content="WordPress 3.1.2">
+<meta name="generator" content="WordPress 3.3.1">
 
 <!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[299,346] -->
 <meta name="description" content="This is the privacy policy of WebDesignBooth.com WebDesignBooth.com strongly believes in a consumer's right to privacy. WebDesignBooth.com does not engage in">
 <link rel="canonical" href="http://www.webdesignbooth.com/privacy-policy/">
 <!-- /all in one seo pack -->
-<link rel="stylesheet" href="http://disqus.com/stylesheets/webdesignbooth/disqus.css?v=2.0" type="text/css" media="screen">	<link href="http://www.webdesignbooth.com/wp-content/plugins/google-syntax-highlighter/Styles/SyntaxHighlighter.css" type="text/css" rel="stylesheet">
+	<link href="http://www.webdesignbooth.com/wp-content/plugins/google-syntax-highlighter/Styles/SyntaxHighlighter.css" type="text/css" rel="stylesheet">
 	
 
 <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
 <body>
-<!-- BuySellAds.com Ad Code -->
-<script type="text/javascript">
-(function(){
-  var bsa = document.createElement('script');
-     bsa.type = 'text/javascript';
-     bsa.async = true;
-     bsa.src = '//s3.buysellads.com/ac/bsa.js';
-  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
-})();
-</script>
-<!-- END BuySellAds.com Ad Code -->
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	
+	<script type="text/javascript">
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+	
+	<!-- BuySellAds.com Ad Code -->
+	<script type="text/javascript">
+	(function(){
+	  var bsa = document.createElement('script');
+		 bsa.type = 'text/javascript';
+		 bsa.async = true;
+		 bsa.src = '//s3.buysellads.com/ac/bsa.js';
+	  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+	})();
+	</script>
+	<!-- END BuySellAds.com Ad Code -->
 
 <div id="wrapper">
 	<div id="header-wrapper">
@@ -97,10 +128,7 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 			</div><!-- .logo -->
 			
 			<div class="header-ads">
-				<!-- BuySellAds.com Zone Code -->
-				<div id="bsap_1245490" class="bsarocks bsap_f0f4c9678067e2ec74baf03dfa8026df"></div>
-				<!-- END BuySellAds.com Zone Code -->
-			</div>
+				<a href="http://www.webdesignbooth.com/wp-content/plugins/adrotate/adrotate-out.php?track=MTQsNCwwLGh0dHBzOi8vd3d3LmUtanVua2llLmNvbS9lY29tL2diLnBocD9jbD01NDU4NSZhbXA7Yz1pYiZhbXA7YWZmPTY5OTgz" title="Gravity Forms Contact Form Plugin for WordPress"><img src="http://www.webdesignbooth.com/sponsors/gravity_468-80.gif" alt="Gravity Forms Plugin for WordPress" width="468" height="60" style="border:none;"></a>			</div>
 
 			<div class="clear"></div>
 		</div><!-- #header -->
@@ -125,7 +153,7 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 			<div class="post-3 page type-page status-publish hentry" id="post-3">
 			<h1 class="title">Privacy Policy</h1>
 			
-			<div class="entry">
+			<div class="post-content">
 				<p>This is the privacy policy of <strong>WebDesignBooth.com</strong></p>
 <p><strong>WebDesignBooth.com</strong> strongly believes in a consumer’s right to privacy. <strong>WebDesignBooth.com</strong> does not engage in the collection, distribution, sale or use of personally identifiable information about web users, such as name, phone number and street address. <strong>WebDesignBooth.com</strong> does not conduct individual web user “profiling”.</p>
 <h2>Usage tracking</h2>
@@ -161,7 +189,7 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 <p>We give users options whenever necessary and practical. Such choices include: Opting not to register to receive our electronic newsletters and Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.</p>
 <h2>Your Consent</h2>
 <p>By using this site, you agree and consent to the collection and use of this information by <strong>WebDesignBooth.com</strong>. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
-							</div><!-- .entry -->
+							</div><!-- .post-content -->
 		</div><!-- .post -->
 		
 </div><!-- #content-wrapper -->
@@ -186,6 +214,8 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 				<!-- g search-box -->
 			</div>
 			
+			<div class="divider"></div>
+			
 			<div id="sponsors" class="widgetcontainer">
 				<h3>Sponsors</h3>
 				<div id="bsa-rec">
@@ -196,13 +226,49 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 
 				<div id="bsa-square">
 					<!-- BuySellAds.com Zone Code -->
-					<div id="bsap_1239969" class="bsarocks bsap_f0f4c9678067e2ec74baf03dfa8026df"></div>
+					<div id="bsap_1274163" class="bsarocks bsap_f0f4c9678067e2ec74baf03dfa8026df"></div>
 					<!-- END BuySellAds.com Zone Code -->
 				</div>
 				<div class="clear"></div>
 				
 			</div>
+			
+			<div class="divider"></div>
 
+			<div id="google-plus-widget">
+				<!-- Place this tag in the <head> of your document -->
+				<link href="https://plus.google.com/101894946273771989519" rel="publisher"><script type="text/javascript">
+				window.___gcfg = {lang: 'en'};
+				(function() 
+				{var po = document.createElement("script");
+				po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+				var s = document.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(po, s);
+				})();</script>
+
+				<!-- Place this tag where you want the badge to render -->
+				<g:plus href="https://plus.google.com/101894946273771989519" width="330" height="131" theme="light"></g:plus>
+			</div>
+			
+			<div id="subscribe" class="widgetcontainer">
+				<h3>Subscribe</h3>
+				<div id="subscribe-links" class="left">
+					<a class="button" href="http://feeds.feedburner.com/WebDesignBooth" target="_blank" rel="nofollow" title="Subscribe to Feedburner"><span>Subscribe RSS Feed</span></a>
+					<a class="button" href="http://feedburner.google.com/fb/a/mailverify?uri=webdesignbooth" target="_blank" rel="nofollow" title="Subscribe via email"><span>Subscribe Email</span></a>
+					<a class="button" href="http://twitter.com/WebDesignBooth" target="_blank" rel="nofollow" title="Follow me on Twitter"><span>Follow Our Twitter</span></a>
+				</div>
+				<div id="subscribe-buttons" class="left">
+					<a href="http://feeds.feedburner.com/WebDesignBooth"><img src="http://feeds.feedburner.com/~fc/WebDesignBooth?bg=FF6A00&amp;fg=444444&amp;anim=0" style="border:0" alt=""></a>
+					<a target="_new" title="TwitterCounter for @WebDesignBooth" href="http://twittercounter.com/WebDesignBooth?from=button">
+						<img width="88" height="26" alt="TwitterCounter for @WebDesignBooth" style="border: medium none ;" src="http://srv2.twittercounter.com/counter/?username=WebDesignBooth&amp;style=">
+					</a>
+					<a class="delicious" href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;"> Bookmark</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="divider"></div>
+			
 			<div id="sidebar-tab" class="usual"> 
 				<ul class="tabbed"> 
 					<li><a class="selected" href="#tab1">Recent Posts</a></li>
@@ -212,30 +278,30 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 				
 				<div id="tab1">
 					<ul>
-												<li><a href="http://www.webdesignbooth.com/personal-facebook-fan-pages-of-celebrities/" title="Personal Facebook Fan Pages of Celebrities">Personal Facebook Fan Pages of Celebrities</a></li>
-												<li><a href="http://www.webdesignbooth.com/building-tabbed-navigation-using-sprytabbedpanels/" title="Building Tabbed Navigation using SpryTabbedPanels">Building Tabbed Navigation using SpryTabbedPanels</a></li>
-												<li><a href="http://www.webdesignbooth.com/interesting-creative-logos/" title="30 Interesting and Creative Logos">30 Interesting and Creative Logos</a></li>
-												<li><a href="http://www.webdesignbooth.com/creative-arts-created-using-cassette-tapes/" title="Creative Arts Created Using Cassette Tapes">Creative Arts Created Using Cassette Tapes</a></li>
-												<li><a href="http://www.webdesignbooth.com/using-dropbox/" title="How Using Dropbox Will Make Your Life Easier">How Using Dropbox Will Make Your Life Easier</a></li>
-												<li><a href="http://www.webdesignbooth.com/horizontal-navigation-menus-tips-tricks-and-showcases/" title="Horizontal Navigation Menus: Tips, Tricks and Showcases">Horizontal Navigation Menus: Tips, Tricks and Showcases</a></li>
-												<li><a href="http://www.webdesignbooth.com/7-steps-to-the-office-environment-of-your-dreams/" title="7 Steps to the Office Environment of Your Dreams">7 Steps to the Office Environment of Your Dreams</a></li>
-												<li><a href="http://www.webdesignbooth.com/prepare-yourself-for-the-after-effects-of-guest-post/" title="Prepare Yourself For The After Effects of Guest Post">Prepare Yourself For The After Effects of Guest Post</a></li>
-												<li><a href="http://www.webdesignbooth.com/optimize-twitter-for-search-engines/" title="How to Optimize Your Twitter for Search Engines">How to Optimize Your Twitter for Search Engines</a></li>
-												<li><a href="http://www.webdesignbooth.com/tokokoo-themes-giveaway/" title="Tokokoo Themes Giveaway">Tokokoo Themes Giveaway</a></li>
+												<li><a href="http://www.webdesignbooth.com/logos-featuring-animal/" title="40 Beautiful Logos Featuring Animal">40 Beautiful Logos Featuring Animal</a></li>
+												<li><a href="http://www.webdesignbooth.com/one-page-websites/" title="30+ Awe-Inspiring One Page Websites">30+ Awe-Inspiring One Page Websites</a></li>
+												<li><a href="http://www.webdesignbooth.com/ideology-of-comprehensive-web-design/" title="The 8 Ideology Of Comprehensive Web Design">The 8 Ideology Of Comprehensive Web Design</a></li>
+												<li><a href="http://www.webdesignbooth.com/extreme-and-controversial-advertising/" title="40 Examples of Extreme and Controversial Advertising">40 Examples of Extreme and Controversial Advertising</a></li>
+												<li><a href="http://www.webdesignbooth.com/creative-gig-posters/" title="A Showcase of Creative Gig Posters">A Showcase of Creative Gig Posters</a></li>
+												<li><a href="http://www.webdesignbooth.com/creative-resume-designs/" title="35 Creative Resume Designs To Attract Potential Employer">35 Creative Resume Designs To Attract Potential Employer</a></li>
+												<li><a href="http://www.webdesignbooth.com/tips-for-web-typography/" title="Web Typography: 10 ultimate steps to follow to hit the bull’s eye">Web Typography: 10 ultimate steps to follow to hit the bull’s eye</a></li>
+												<li><a href="http://www.webdesignbooth.com/designing-with-black/" title="Designing with Black: Techniques on How to Create this Artwork">Designing with Black: Techniques on How to Create this Artwork</a></li>
+												<li><a href="http://www.webdesignbooth.com/corporate-website-designs/" title="40 Attractive Corporate Website Designs">40 Attractive Corporate Website Designs</a></li>
+												<li><a href="http://www.webdesignbooth.com/trends-in-web-design/" title="Current trend is not about beauty, it’s all about function: Have a look">Current trend is not about beauty, it’s all about function: Have a look</a></li>
 											</ul>
 				</div> 
 				<div id="tab2">
 					<ul>
-												<li><a href="http://www.webdesignbooth.com/interesting-creative-logos/" title="30 Interesting and Creative Logos">30 Interesting and Creative Logos</a></li>
-												<li><a href="http://www.webdesignbooth.com/free-video-converters-for-windows-users/" title="Top 10 Free Video Converters for Windows Users">Top 10 Free Video Converters for Windows Users</a></li>
-												<li><a href="http://www.webdesignbooth.com/30-well-designed-online-shopping-carts/" title="30+ Well Designed Online Shopping Carts">30+ Well Designed Online Shopping Carts</a></li>
-												<li><a href="http://www.webdesignbooth.com/extremely-simple-way-to-display-delicious-counts-for-wordpress-users/" title="Extremely Simple Way To Display Delicious Counts For WordPress Users">Extremely Simple Way To Display Delicious Counts For WordPress Users</a></li>
-												<li><a href="http://www.webdesignbooth.com/30-websites-to-download-free-stock-photos/" title="30 Websites To Download Free Stock Photos">30 Websites To Download Free Stock Photos</a></li>
-												<li><a href="http://www.webdesignbooth.com/beautiful-and-scary-halloween-wallpapers/" title="65+ Beautiful and Scary Halloween Wallpapers">65+ Beautiful and Scary Halloween Wallpapers</a></li>
-												<li><a href="http://www.webdesignbooth.com/tokokoo-themes-giveaway/" title="Tokokoo Themes Giveaway">Tokokoo Themes Giveaway</a></li>
-												<li><a href="http://www.webdesignbooth.com/principles-to-become-and-stay-strong-in-the-search-engine-rankings/" title="Principles to Become (and stay) Strong in the Search Engine Rankings">Principles to Become (and stay) Strong in the Search Engine Rankings</a></li>
-												<li><a href="http://www.webdesignbooth.com/10-really-useful-server-monitoring-tools/" title="10 Really Useful Server Monitoring Tools">10 Really Useful Server Monitoring Tools</a></li>
-												<li><a href="http://www.webdesignbooth.com/30-really-cool-ipod-skins-that-you-can-buy/" title="30 Really Cool iPod Skins That You Can Buy">30 Really Cool iPod Skins That You Can Buy</a></li>
+												<li><a href="http://www.webdesignbooth.com/wordpress-showcase-40-beautiful-and-well-designed-blogs-powered-by-wordpress/" title="WordPress Showcase: 40+ Beautiful And Well Designed Blogs Powered By WordPress">WordPress Showcase: 40+ Beautiful And Well Designed Blogs Powered By WordPress</a></li>
+												<li><a href="http://www.webdesignbooth.com/beautiful-and-great-product-packaging-designs/" title="Beautiful and Great Product Packaging Designs For your Inspiration">Beautiful and Great Product Packaging Designs For your Inspiration</a></li>
+												<li><a href="http://www.webdesignbooth.com/35-absolutely-useful-firefox-plugins-for-web-designers-and-developers/" title="35 Absolutely Useful Firefox Plugins For Web Designers And Developers">35 Absolutely Useful Firefox Plugins For Web Designers And Developers</a></li>
+												<li><a href="http://www.webdesignbooth.com/ultimate-christmas-resources-for-designers/" title="Ultimate Christmas Resources: 60 Tutorials, Icons, Design Materials, WordPress Themes and Christmas Fonts">Ultimate Christmas Resources: 60 Tutorials, Icons, Design Materials, WordPress Themes and Christmas Fonts</a></li>
+												<li><a href="http://www.webdesignbooth.com/ice-sculptures/" title="40 Creative Ice Sculptures">40 Creative Ice Sculptures</a></li>
+												<li><a href="http://www.webdesignbooth.com/15-jquery-plugins-for-a-better-photo-gallery-and-slideshow/" title="15 jQuery Plugins For A Better Photo Gallery And Slideshow">15 jQuery Plugins For A Better Photo Gallery And Slideshow</a></li>
+												<li><a href="http://www.webdesignbooth.com/prepare-yourself-for-the-after-effects-of-guest-post/" title="Prepare Yourself For The After Effects of Guest Post">Prepare Yourself For The After Effects of Guest Post</a></li>
+												<li><a href="http://www.webdesignbooth.com/32-useful-portable-apps-for-web-designers-and-developers/" title="32 Useful Portable Apps For Web Designers and Developers">32 Useful Portable Apps For Web Designers and Developers</a></li>
+												<li><a href="http://www.webdesignbooth.com/minimalist-movie-posters/" title="30+ Simple and Minimalist Movie Posters">30+ Simple and Minimalist Movie Posters</a></li>
+												<li><a href="http://www.webdesignbooth.com/9-useful-javascript-syntax-highlighting-scripts/" title="9 Useful Javascript Syntax Highlighting Scripts">9 Useful Javascript Syntax Highlighting Scripts</a></li>
 											</ul>
 				</div> 
 				<div id="categories">
@@ -257,6 +323,8 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 	<li class="cat-item cat-item-19"><a href="http://www.webdesignbooth.com/category/javascript/" title="View all posts filed under Javascript">Javascript</a>
 </li>
 	<li class="cat-item cat-item-60"><a href="http://www.webdesignbooth.com/category/magento/" title="View all posts filed under Magento">Magento</a>
+</li>
+	<li class="cat-item cat-item-274"><a href="http://www.webdesignbooth.com/category/photography/" title="View all posts filed under Photography">Photography</a>
 </li>
 	<li class="cat-item cat-item-92"><a href="http://www.webdesignbooth.com/category/photoshop/" title="View all posts filed under Photoshop">Photoshop</a>
 </li>
@@ -296,159 +364,27 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 			
 			<div id="sidebar-middle-ads">
 				<a href="http://www.webdesignbooth.com/review/market-theme/" target="_blank" title="Market Theme"><img src="http://www.webdesignbooth.com/sponsors/market-theme.gif" alt="Market Theme Review"></a>
-				
-			</div>
-			
-			<div id="facebook-fan-widget">
-				<script type="text/javascript" src="http://static.ak.connect.facebook.com/connect.php/en_US"></script><script type="text/javascript">FB.init("3208a221999a718c33510aaea63c0300");</script><fb:fan profile_id="110401275660186" stream="0" connections="10" logobar="1" width="300"></fb:fan><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/WebDesignBooth">WebDesignBooth</a> on Facebook</div>
-			</div>
-			
-			<div id="subscribe" class="widgetcontainer">
-				<h3>Subscribe</h3>
-				<div id="subscribe-links" class="left">
-					<a class="button" href="http://feeds.feedburner.com/WebDesignBooth" target="_blank" rel="nofollow" title="Subscribe to Feedburner"><span>Subscribe RSS Feed</span></a>
-					<a class="button" href="http://feedburner.google.com/fb/a/mailverify?uri=webdesignbooth" target="_blank" rel="nofollow" title="Subscribe via email"><span>Subscribe Email</span></a>
-					<a class="button" href="http://twitter.com/webdesignbooth" target="_blank" rel="nofollow" title="Follow me on Twitter"><span>Follow Our Twitter</span></a>
-				</div>
-				<div id="subscribe-buttons" class="left">
-					<a href="http://feeds.feedburner.com/WebDesignBooth"><img src="http://feeds.feedburner.com/~fc/WebDesignBooth?bg=FF6A00&amp;fg=444444&amp;anim=0" style="border:0" alt=""></a>
-					<a target="_new" title="TwitterCounter for @WebDesignBooth" href="http://twittercounter.com/webdesignbooth?from=button">
-						<img width="88" height="26" alt="TwitterCounter for @WebDesignBooth" style="border: medium none ;" src="http://srv2.twittercounter.com/counter/?username=WebDesignBooth&amp;style=">
-					</a>
-					<a class="delicious" href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;"> Bookmark</a>
-				</div>
-				<div class="clear"></div>
 			</div>
 			</div><!-- #sidebar-top -->
 
+	<div class="divider"></div>
+	
 	<div id="sidebar-left">
-					<div id="all-posts" class="widgetcontainer widget-left">
-				<h3>All Posts</h3>
-				<ul id="sidebar-all-posts">
-								<li><a href="http://www.webdesignbooth.com/65-absolutely-beautiful-beach-wallpapers" title="65 Absolutely Beautiful Beach Wallpapers">Beach Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/gorgeous-blog-footer-designs" title="70 Gorgeous Blog Footer Designs">Blog Footer Designs</a></li>
-<li><a href="http://www.webdesignbooth.com/15-helpful-web-based-broken-link-checkers" title="15 Helpful Web Based Broken Link Checkers">Broken Link Checkers</a></li>
-<li><a href="http://www.webdesignbooth.com/creative-and-unique-business-card-designs" title="75 Creative And Unique Business Card Designs For Your Inspiration">Business Card Designs</a></li>
-<li><a href="http://www.webdesignbooth.com/30-fancy-calligraphy-fonts" title="30 Fancy Calligraphy Fonts">Calligraphy Fonts</a></li>
-<li><a href="http://www.webdesignbooth.com/40-awesome-cartoon-and-comic-fonts-for-designers" title="40 Awesome Cartoon And Comic Fonts For Designers">Cartoon And Comic Fonts</a></li>
-<li><a href="http://www.webdesignbooth.com/cartoon-character-design-tutorials" title="50 Useful Cartoon Character Design Tutorials">Cartoon Character Tutorials</a></li>
-<li><a href="http://www.webdesignbooth.com/ultimate-christmas-resources-for-designers" title="Ultimate Christmas Resources: 60 Tutorials, Icons, Design Materials, Wordpress Themes and Christmas Fonts">Christmas Resources</a></li>
-<li><a href="http://www.webdesignbooth.com/66-beautiful-christmas-wallpapers" title="66 Beautiful Christmas Wallpapers">Christmas Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/ways-to-improve-client-interaction" title="13 Ways To Improve Client Interaction">Client Interaction</a></li>
-<li><a href="http://www.webdesignbooth.com/colors-in-web-design" title="10 Most Commonly Used Colors In Web Design And Their Examples">Colors In Web Design</a></li>
-<li><a href="http://www.webdesignbooth.com/step-by-step-to-create-content-slider-using-jflow-a-minimalist-jquery-plugin" title="Step By Step To Create Content Slider using jFlow, A Minimalist jQuery Plugin">Content Slider</a></li>
-<li><a href="http://www.webdesignbooth.com/places-where-you-can-create-websites-online" title="40 Places Where You Can Create Your Websites Online">Create Websites Online</a></li>
-<li><a href="http://www.webdesignbooth.com/80-smart-and-creative-advertisements-that-you-should-bookmark-and-stumble" title="80 Smart And Creative Advertisements That You Should Bookmark And Stumble">Creative Advertisements</a></li>
-<li><a href="http://www.webdesignbooth.com/unique-and-creative-portfolio-designs" title="34 Unique And Creative Portfolio Designs">Creative Portfolio Designs</a></li>
-<li><a href="http://www.webdesignbooth.com/50-beautiful-and-creative-portfolios" title="50 Beautiful and Creative Portfolios">Creative Portfolios</a></li>
-<li><a href="http://www.webdesignbooth.com/10-promising-css-framework-that-worth-a-look" title="10 Promising CSS Framework That Worth A Look">CSS Frameworks</a></li>
-<li><a href="http://www.webdesignbooth.com/110-css-gallery-to-submit-your-web-design-part-1" title="110+ CSS Gallery To Submit Your Web Design, Part 1">CSS Galleries I</a></li>
-<li><a href="http://www.webdesignbooth.com/css-graphs-and-charts-11-hand-picked-tutorials-and-solutions" title="CSS Graphs And Charts: 11 Hand-picked Tutorials And Solutions">CSS Graphs And Charts</a></li>
-<li><a href="http://www.webdesignbooth.com/15-extremely-useful-css-grid-layout-generator-for-web-designers" title="15 Extremely Useful CSS Grid Layout Generator For Web Designers">CSS Grid Layout</a></li>
-<li><a href="http://www.webdesignbooth.com/5-alternative-and-tiny-css-grid-systems" title="5 Alternative And Tiny CSS Grid Systems">CSS Grid Systems</a></li>
-<li><a href="http://www.webdesignbooth.com/extremely-simple-way-to-display-delicious-counts-for-wordpress-users" title="Extremely Simple Way To Display Delicious Counts For Wordpress Users">Delicious Counts</a></li>
-<li><a href="http://www.webdesignbooth.com/best-desktop-blogging-softwares" title="Desktop Blogging: 20 Best Blogging Softwares To Help You Blog From Your Dekstop">Desktop Blogging Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/10-great-domain-tools-to-help-you-in-domain-search" title="10 Great Domain Tools To Help You In Domain Search">Domain Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/drupal-seo-tips-that-make-sense" title="Drupal SEO: Tips that Make Sense">Drupal SEO</a></li>
-<li><a href="http://www.webdesignbooth.com/80-absolutely-beautiful-dual-screen-wallpapers" title="80+ Absolutely Beautiful Dual Screen Wallpapers">Dual Screen Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/easter-eggs-wallpapers" title="30 Beautiful Easter Eggs Wallpapers">Easter Eggs Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/10-essential-wordpress-plugins-for-new-wordpress-installation" title="10 Essential Wordpress Plugins For New Wordpress Installation">Essential Wordpress Plugins</a></li>
-<li><a href="http://www.webdesignbooth.com/23-professional-facial-photoshop-retouching-tutorials" title="23 Professional Facial Photoshop Retouching Tutorials">Facial Retouching Tutorials</a></li>
-<li><a href="http://www.webdesignbooth.com/file-hosting-websites-for-you-to-upload-and-share-files-with-your-friends" title="20 File Hosting Websites For You To Upload And Share Files With Your Friends">File Hosting Websites</a></li>
-<li><a href="http://www.webdesignbooth.com/35-absolutely-useful-firefox-plugins-for-web-designers-and-developers" title="35 Absolutely Useful Firefox Plugins For Web Designers And Developers">Firefox Plugins</a></li>
-<li><a href="http://www.webdesignbooth.com/firefox-twitter-plugins" title="10 Useful Firefox Plugins For Twitter Lovers">Firefox Twitter Plugins</a></li>
-<li><a href="http://www.webdesignbooth.com/60-beautiful-firefox-wallpapers-to-fire-up-your-desktop" title="60+ Beautiful Firefox Wallpapers To Fire Up Your Desktop">Firefox Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/10-easy-to-implement-flash-based-mp3-players-for-your-website" title="10 Easy To Implement Flash Based Mp3 Players For Your Website">Flash Mp3 Players</a></li>
-<li><a href="http://www.webdesignbooth.com/10-adobe-air-applications-to-view-download-and-share-photos-on-flickr" title="10 Adobe AIR Applications To View, Download And Share Photos On Flickr">Flickr AIR Apps</a></li>
-<li><a href="http://www.webdesignbooth.com/140-sets-free-floral-and-flower-textures" title="140+ Sets Free Floral and Flower Textures">Flower Textures</a></li>
-<li><a href="http://www.webdesignbooth.com/30-websites-to-download-free-stock-photos" title="30 Websites To Download Free Stock Photos">Free Stock Photos</a></li>
-<li><a href="http://www.webdesignbooth.com/free-video-converters-for-windows-users" title="Top 10 Free Video Converters for Windows Users">Free Video Converters</a></li>
-<li><a href="http://www.webdesignbooth.com/beautiful-and-creative-graffiti-arts" title="60+ Beautiful And Creative Graffiti Arts">Graffiti Arts</a></li>
-<li><a href="http://www.webdesignbooth.com/60-awesome-grunge-font-that-every-designer-should-collect" title="60+ Awesome Grunge Font That Every Designer Should Collect">Grunge Font</a></li>
-<li><a href="http://www.webdesignbooth.com/beautiful-and-scary-halloween-wallpapers" title="65+ Beautiful and Scary Halloween Wallpapers">Halloween Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/30-beautiful-handwritten-fonts" title="30 Beautiful Handwritten Fonts">Handwritten Fonts</a></li>
-<li><a href="http://www.webdesignbooth.com/15-really-useful-web-based-html-editors" title="15 Really Useful Web-based HTML Editors">HTML Editor</a></li>
-<li><a href="http://www.webdesignbooth.com/photoshop-tutorials-for-icon-design" title="60+ Photoshop Tutorials For Icon Design">Icon Design Tutorials</a></li>
-<li><a href="http://www.webdesignbooth.com/6-free-icon-editors-to-create-and-edit-icons" title="6 Free Icon Editors To Create and Edit Icons">Icon Editors</a></li>
-<li><a href="http://www.webdesignbooth.com/solutions-to-ie-transparency" title="Transparency in Internet Explorer: 6 Simple Solutions">IE Transparency</a></li>
-<li><a href="http://www.webdesignbooth.com/12-really-useful-image-optimization-tools-for-web-designers" title="12 Really Useful Image Optimization Tools For Web Designers">Image Optimization Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/image-to-icon-5-ways-to-easily-convert-images-to-icon-files" title="Image To Icon: 5 Ways to Easily Convert Images To Icon Files">Image To Icon</a></li>
-<li><a href="http://www.webdesignbooth.com/30-really-cool-ipod-skins-that-you-can-buy" title="30 Really Cool iPod Skins That You Can Buy">iPod Skins</a></li>
-<li><a href="http://www.webdesignbooth.com/14-javascript-resources-and-plugins-for-creating-a-stylish-chart" title="14 Javascript Resources And Plugins For Creating A Stylish Chart">Javascript Chart</a></li>
-<li><a href="http://www.webdesignbooth.com/25-useful-javascript-tab-navigation-scripts" title="25+ Useful Javascript Tab Navigation Scripts">Javascript Tab</a></li>
-<li><a href="http://www.webdesignbooth.com/joomla-showcase-44-beautiful-joomla-website-designs" title="Joomla Showcase: 44 Beautiful Joomla Website Designs">Joomla Designs</a></li>
-<li><a href="http://www.webdesignbooth.com/top-15-seo-extensions-for-your-joomla-cms" title="Top 15 SEO Extensions For Your Joomla CMS">Joomla SEO Extensions</a></li>
-<li><a href="http://www.webdesignbooth.com/9-useful-jquery-calendar-and-date-picker-plugins-for-web-designers" title="9 Useful jQuery Calendar And Date Picker Plugins For Web Designers">jQuery Calendars</a></li>
-<li><a href="http://www.webdesignbooth.com/15-jquery-plugins-for-a-better-photo-gallery-and-slideshow" title="15 jQuery Plugins For A Better Photo Gallery And Slideshow">jQuery Slideshow</a></li>
-<li><a href="http://www.webdesignbooth.com/15-great-jquery-plugins-for-better-table-manipulation" title="15 Great jQuery Plugins For Better Table Manipulation">jQuery Table Plugins</a></li>
-<li><a href="http://www.webdesignbooth.com/15-jquery-plugins-to-create-an-user-friendly-tooltip" title="15 jQuery Plugins To Create A User Friendly Tooltip">jQuery Tooltip</a></li>
-<li><a href="http://www.webdesignbooth.com/30-breathtaking-landscape-wallpapers" title="30+ Breathtaking Landscape Wallpapers">Landscape Wallpapers</a></li>
-<li><a href="http://www.webdesignbooth.com/52-beautiful-latte-arts-for-your-inspiration" title="52 Beautiful Latte Arts For Your Inspiration">Latte Arts</a></li>
-<li><a href="http://www.webdesignbooth.com/incredible-long-exposure-photos" title="30 Incredible Long Exposure Photos">Long Exposure Photos</a></li>
-<li><a href="http://www.webdesignbooth.com/8-useful-lorem-ipsum-and-random-text-generators" title="8 Useful Lorem Ipsum And Random Text Generators">Lorem Ipsum</a></li>
-<li><a href="http://www.webdesignbooth.com/30-high-quality-magento-templates-to-spice-up-your-e-commerce-projects" title="30 High Quality Magento Templates To Spice Up Your E-commerce Projects">Magento Templates</a></li>
-<li><a href="http://www.webdesignbooth.com/60-beautiful-websites-showcasing-minimalist-design" title="60+ Beautiful Websites Showcasing Minimalist Design">Minimalist Design</a></li>
-<li><a href="http://www.webdesignbooth.com/wordpress-multi-languages-5-plugins-to-built-a-multilingual-website" title="Wordpress Multi Languages: 5 Plugins To Build A Multilingual Website">Multi Languages Blog</a></li>
-<li><a href="http://www.webdesignbooth.com/45-inspiring-navigation-menus-that-you-must-see" title="45 Inspiring Navigation Menus That You Must See">Navigation Menus</a></li>
-<li><a href="http://www.webdesignbooth.com/create-a-vertical-scrolling-news-ticker-with-jquery-and-jcarousel-lite" title="Create A Vertical Scrolling News Ticker With jQuery and jCarousel Lite">News Ticker</a></li>
-<li><a href="http://www.webdesignbooth.com/beautiful-night-photography" title="70+ Examples Of Beautiful Night Photography">Night Photography</a></li>
-<li><a href="http://www.webdesignbooth.com/the-ultimate-list-of-online-color-tools-for-web-developers" title="The Ultimate List Of Online Color Tools For Web Developers">Online Color Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/35-online-photo-editors-to-help-you-editing-photo-online" title="35 Online Photo Editors To Help You Editing Photo Online">Online Photo Editors</a></li>
-<li><a href="http://www.webdesignbooth.com/30-well-designed-online-shopping-carts" title="30+ Well Designed Online Shopping Carts">Online Shopping Carts</a></li>
-<li><a href="http://www.webdesignbooth.com/7-areas-of-php-you-might-want-to-optimize" title="7 Areas Of PHP You Might Want To Optimize">Optimize PHP</a></li>
-<li><a href="http://www.webdesignbooth.com/7-tools-to-optimize-the-speed-of-your-website" title="7 Tools To Optimize The Speed of Your Website">Optimize Website Speed</a></li>
-<li><a href="http://www.webdesignbooth.com/beautiful-and-great-product-packaging-designs" title="Beautiful and Great Product Packaging Designs For your Inspiration">Packaging Designs</a></li>
-<li><a href="http://www.webdesignbooth.com/5-extremely-simple-ways-to-add-page-curl-to-your-website" title="5 Extremely Simple Ways To Add Page Curl To Your Website">Page Curl</a></li>
-<li><a href="http://www.webdesignbooth.com/60-creative-and-mind-blowing-examples-of-photo-manipulation-art" title="60+ Creative And Mind-blowing Examples Of Photo Manipulation Art">Photo Manipulation Art</a></li>
-<li><a href="http://www.webdesignbooth.com/15-great-and-free-photoshop-alternatives" title="15 Great And Free Photoshop Alternatives">Photoshop Alternatives</a></li>
-<li><a href="http://www.webdesignbooth.com/30-easy-to-follow-photoshop-layout-design-tutorials" title="30+ Easy To Follow Photoshop Layout Design Tutorials">Photoshop Layout Design</a></li>
-<li><a href="http://www.webdesignbooth.com/20-promising-open-source-php-content-management-systemscms" title="20 Promising Open Source PHP Content Management Systems(CMS)">PHP CMS</a></li>
-<li><a href="http://www.webdesignbooth.com/12-free-and-open-source-php-forum-scripts" title="12 Free And Open Source PHP Forum Scripts">PHP Forum Scripts</a></li>
-<li><a href="http://www.webdesignbooth.com/22-open-source-php-frameworks-to-shorten-your-development-time" title="22 Open Source PHP Frameworks To Shorten Your Development Time">PHP Frameworks</a></li>
-<li><a href="http://www.webdesignbooth.com/32-useful-portable-apps-for-web-designers-and-developers" title="32 Useful Portable Apps For Web Designers and Developers">Portable Apps</a></li>
-<li><a href="http://www.webdesignbooth.com/awesome-photoshop-poster-design-tutorials" title="50+ Awesome Photoshop Poster Design Tutorials">Poster Design Tutorials</a></li>
-<li><a href="http://www.webdesignbooth.com/pricing-page-and-plan-comparison-tables" title="Pricing Page And Plan Comparison Tables: Tips, Tricks, Advices and Showcases">Pricing Page And Plan Comparison Tables</a></li>
-<li><a href="http://www.webdesignbooth.com/project-management-tools" title="20 Great Project Management Tools">Project Management Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/simple-ways-to-regain-creative-ideas-and-inspirations-for-designers" title="Simple Ways To Regain Creative Ideas And Inspirations For Designers">Regain Creative Ideas</a></li>
-<li><a href="http://www.webdesignbooth.com/15-really-cool-and-sexy-free-rss-feed-icons" title="15 Really Cool And Sexy Free RSS Feed Icons">RSS Icons</a></li>
-<li><a href="http://www.webdesignbooth.com/useful-screen-capture-tools" title="27 Useful Screen Capture Tools">Screen Capture Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/principles-to-become-and-stay-strong-in-the-search-engine-rankings" title="Principles to Become (and stay) Strong in the Search Engine Rankings">Search Engine Rankings</a></li>
-<li><a href="http://www.webdesignbooth.com/15-useful-firefox-seo-tools-for-serious-bloggers-and-web-designers" title="15+ Useful Firefox SEO Tools For Serious Bloggers And Web Designers">SEO Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/10-really-useful-server-monitoring-tools" title="10 Really Useful Server Monitoring Tools">Server Monitoring Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/33-beautiful-social-media-icon-sets-for-designers-and-bloggers" title="33 Beautiful Social Media Icon Sets For Designers And Bloggers">Social Media Icon Sets</a></li>
-<li><a href="http://www.webdesignbooth.com/10-social-media-monitoring-tools-to-monitor-your-brands-performance-and-results" title="10 Social Media Monitoring Tools to Monitor Your Brand" s="" performance="" and="" results="">Social Media Tools</a></li>
-<li><a href="http://www.webdesignbooth.com/the-dynamic-world-of-sports-flash-websites" title="The Dynamic World of Sports Flash Websites">Sports Flash Websites</a></li>
-<li><a href="http://www.webdesignbooth.com/30-beautiful-dingbats-and-symbol-fonts-suitable-for-your-christmas-use" title="30+ Beautiful Dingbats And Symbol Fonts Suitable For Your Christmas Use">Symbol Fonts</a></li>
-<li><a href="http://www.webdesignbooth.com/9-useful-javascript-syntax-highlighting-scripts" title="9 Useful Javascript Syntax Highlighting Scripts">Syntax Highlighting</a></li>
-<li><a href="http://www.webdesignbooth.com/10-free-and-powerful-windows-text-editors-for-web-developers" title="10 Free And Powerful Windows Text Editors For Web Developers">Text Editors</a></li>
-<li><a href="http://www.webdesignbooth.com/40-really-useful-photoshop-text-effect-tutorials" title="40 Really Useful Photoshop Text Effect Tutorials">Text Effects</a></li>
-<li><a href="http://www.webdesignbooth.com/60-tiger-art-works-and-photography-celebrating-year-of-tiger" title="60+ Tiger Art Works And Photography Celebrating Year Of Tiger">Tiger Photography</a></li>
-<li><a href="http://www.webdesignbooth.com/time-tracking-softwares" title="15 Useful Time Tracking Softwares">Time Tracking Softwares</a></li>
-<li><a href="http://www.webdesignbooth.com/seo-blogs-to-follow-to-brush-up-seo-knowledge" title="Top 15 SEO Blogs To Follow If You Want To Brush Up Your SEO Knowledge">Top SEO Blogs</a></li>
+					<div class="widgetcontainer widget-right">
+				<h3>Pages</h3>
+				<ul>
+					<li class="page_item page-item-2"><a href="http://www.webdesignbooth.com/about/">About</a></li>
+<li class="page_item page-item-12"><a href="http://www.webdesignbooth.com/contact/">Contact</a></li>
+<li class="page_item page-item-3 current_page_item"><a href="http://www.webdesignbooth.com/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-2184"><a href="http://www.webdesignbooth.com/reviews/">Reviews</a></li>
+<li class="page_item page-item-2086"><a href="http://www.webdesignbooth.com/search/">Search</a></li>
+<li class="page_item page-item-1486"><a href="http://www.webdesignbooth.com/write-for-us/">Write For Us</a></li>
 				</ul>
 			</div>
 			</div><!-- #sidebar-left -->
 
 	<div id="sidebar-right">
-					<div class="widgetcontainer widget-right">
-				<h3>Pages</h3>
-				<ul>
-					<li class="page_item page-item-2"><a href="http://www.webdesignbooth.com/about/" title="About">About</a></li>
-<li class="page_item page-item-12"><a href="http://www.webdesignbooth.com/contact/" title="Contact">Contact</a></li>
-<li class="page_item page-item-3 current_page_item"><a href="http://www.webdesignbooth.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
-<li class="page_item page-item-2184"><a href="http://www.webdesignbooth.com/reviews/" title="Reviews">Reviews</a></li>
-<li class="page_item page-item-2086"><a href="http://www.webdesignbooth.com/search/" title="Search">Search</a></li>
-<li class="page_item page-item-1486"><a href="http://www.webdesignbooth.com/write-for-us/" title="Write For Us">Write For Us</a></li>
-				</ul>
-			</div>
-			<div id="hosted-by" class="widgetcontainer widget-right">
-				<h3>Hosted By</h3>
-				<a href="http://www.wpwebhost.com" title="WPWebHost" target="_blank">
-					<img src="http://www.webdesignbooth.com/sponsors/wpbanner125x125-13k.gif" alt="WPWebHost">
-				</a>
-			</div>
-			
-			<div id="wordpress-themes" class="widgetcontainer widget-right">
+					<div id="wordpress-themes" class="widgetcontainer widget-right">
 				<h3>Wordpress Themes</h3>
 				<a href=" http://www.webdesignbooth.com/review/market-theme/" title="Market Theme Review" target="_blank">
 					<img src="http://images.webdesignbooth.com/reviews/market-theme/market-theme-thumb.jpg" alt="Market Theme Review">
@@ -459,7 +395,13 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 	<div class="clear"></div>
 
 	<div id="sidebar-bottom">
-		
+					<div class="clear" id="catcher"></div>
+			<div id="sticky">
+				<div id="facebook-fan-widget">
+					<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script> 
+					<script type="text/javascript">FB.init("3208a221999a718c33510aaea63c0300");</script><fb:fan profile_id="110401275660186" stream="0" connections="10" logobar="0" width="330"></fb:fan>
+				</div>
+			</div>
 			</div><!-- #sidebar-bottom -->
 
 </div><!-- #sidebar -->
@@ -468,21 +410,15 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 </div><!-- #container -->
 <div class="clear"></div>
 <div id="footer">
-	<div id="footer-nav">
-		<a href="http://www.webdesignbooth.com/">Home</a> | <a href="http://www.webdesignbooth.com/about/">About</a> | <a href="http://www.webdesignbooth.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.webdesignbooth.com/contact/">Contact</a>
-	</div><!-- #footer-nav -->
-	<p>WebDesignBooth.com is powered by Wordpress. Proudly hosted with <a href="http://www.wpwebhost.com" title="WPWebHost" target="_blank">WPWebhost</a>. </p>
+	<p>WebDesignBooth.com is powered by Wordpress. </p>
 	<p>
 		<a href="http://whos.amung.us/stats/oy5ogugey8be/"><img src="http://whos.amung.us/swidget/oy5ogugey8be.png" width="80" height="15" border="0" title="Click to see how many people are online"></a>
-		<!-- Site Meter -->
+		
 		<script type="text/javascript" src="http://s18.sitemeter.com/js/counter.js?site=s18webdesignbooth"></script>
 		<noscript>
 			<a href="http://s18.sitemeter.com/stats.asp?site=s18webdesignbooth" target="_top"><img src="http://s18.sitemeter.com/meter.asp?site=s18webdesignbooth" alt="Site Meter" border="0"/></a>
 		</noscript>
-		<!-- Copyright (c)2009 Site Meter -->
 	</p>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
-<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.2.1"></script>
 <script class="javascript" src="http://www.webdesignbooth.com/wp-content/plugins/google-syntax-highlighter/Scripts/shCore.js"></script>
 <script class="javascript" src="http://www.webdesignbooth.com/wp-content/plugins/google-syntax-highlighter/Scripts/shBrushCSharp.js"></script>
 <script class="javascript" src="http://www.webdesignbooth.com/wp-content/plugins/google-syntax-highlighter/Scripts/shBrushPhp.js"></script>
@@ -500,23 +436,24 @@ img, #header-wrapper #header .logo a { behavior: url("http://www.webdesignbooth.
 dp.SyntaxHighlighter.ClipboardSwf = 'http://www.webdesignbooth.com/wp-content/plugins/google-syntax-highlighter/Scripts/clipboard.swf';
 dp.SyntaxHighlighter.HighlightAll('code');
 </script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-includes/js/jquery/jquery.form.js?ver=2.73"></script>
+<script type="text/javascript" src="http://www.webdesignbooth.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.2.1"></script>
 	
 </div><!-- #footer -->
 
 <div id="tracking-code">
-	<div class="google-analytics">
-		<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			try {
-				var pageTracker = _gat._getTracker("UA-11136312-1");
-				pageTracker._trackPageview();
-				}
-			catch(err) {}
-		</script>
-	</div>
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-29005201-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
 </div>
 </div><!-- #wrapper -->
 
