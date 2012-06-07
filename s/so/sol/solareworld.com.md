@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213092319id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607084458id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Solar Energy World
+# Privacy Policy | Solar Energy World | MD, DC, NJ
 
 We value your privacy! Solar Energy World will never give, lease, sell or otherwise disclose your personal information. Any information you have submitted to Solar Energy World, LLC will be held with the utmost care, and will not be used in ways to which you have not consented. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions at all about our privacy policy, please email us at info@solareworld.com.
 
