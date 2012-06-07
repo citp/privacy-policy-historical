@@ -1,71 +1,80 @@
-> *The following text is extracted and transformed from the flite.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521205212id_/http%3A//www.flite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flite.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608005105id_/http%3A//www.flite.com/privacy-policy) for the most accurate reproduction.*
 
-# Flite - Privacy Policy
+# Privacy Policy — Flite
 
-This site is owned and operated by Flite, Inc. (“Flite” or “We”). We understand you value your privacy. At Flite, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of this web site and tells you how we may collect, use, and in some instances share this information. 
+## Flite Privacy Policy Statement
 
-**INFORMATION FLITE COLLECTS**
+This privacy policy has been updated recently, in order to be more consistent with the latest Web privacy standards and safe Internet advertising practices, as well as to reaffirm Flite's commitment to keeping your data private. These changes are unlikely to impact your day-to-day experience with the Flite platform. 
 
-Flite gathers two types of information about this website’s users: 
+Flite, Inc. (“Flite” or “We”) understands that you value your privacy, either as the viewer of a Flite advertisement or browser of a Flite website (“User”) or as a Flite customer who runs Flite Ad Products , registers as a Flite customer or contributes technology to the Flite Platform (“Customer”) (collectively referred to as “you”). At Flite, we want to make your experience online satisfying and safe. This policy governs information that you provide to us or that we learn from your use of our web sites, [flite.com](http://www.flite.com/) or [widgetbox.com](http://www.widgetbox.com/) (collectively referred to as “the Site”), or from advertisements using the Flite platform on other sites (“Flite Ad Products”). This policy describes how we may collect, use, and in some instances share this information. 
 
-Personal information that users provide through optional, voluntary submissions, such as email, survey information, and online registration forms to Flite. Personal information means any information that may be used to identify an individual, including, but not limited to, your name, home address, company name, telephone number, e-mail address, and credit card information such as the credit card number, card verification value, and the billing address. The types and amount of personal information collected for these activities will vary depending on the activity. 
+**PERSONALLY IDENTIFIABLE INFORMATION (PII)**  
+PII is information that identifies you or can be used to identify, contact, or locate you. This includes, but is not limited to, your name (i.e., first name or initial and last name), home or business address, email address, telephone number, and debit or credit card information such as the credit card number, card verification value, or billing address. 
 
-Flite also gathers non-personal information through aggregated tracking information derived mainly by tallying page views throughout our sites. This non-personal information collected includes click-throughs, IP addresses, and usage data. This non-personal information allows us to better tailor our content to site users’ needs. 
+We respect your privacy. We only collect PII through optional, voluntary submissions, such as email, survey information, and online registration forms. The types and amount of personal information collected from these activities will vary depending on the activity, but in no event will we collect PII that is not voluntarily given by you. 
 
-**USAGE TRACKING**
+**NON-PERSONALLY IDENTIFIABLE INFORMATION (NON-PII)**  
+We may collect Non-PII while you are visiting the Site or using Flite Ad Products. This anonymous data includes your IP address, web pages which have been viewed by you on our Site, click-throughs, and your interactions with Flite Ad Products. 
 
-We track product usage data and user traffic patterns throughout our site to improve the content of our Web pages and the quality of our service. In addition, we track click-through information, including IP addresses, to our site from the reports and emails we sent to our customers. This is done to gauge the effectiveness of our marketing campaigns and to discourage fraudulent use. 
+This type of information may be collected using different types of technologies, which can be summed up into two categories – usage tracking and browser cookies. We discuss each of these below. 
 
-**COOKIES**
+**USAGE TRACKING**  
+We track Non-PII product usage data and user traffic patterns throughout the Site to improve the content of our Site and the quality of our service. In addition, we track click-through information, including IP addresses, to our Site from the reports and emails we send to our Customers. This is done to gauge the effectiveness of our marketing campaigns and to monitor use of our Site. 
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Cookies are required to use the Flite service. We use cookies to record current session information. Additionally, if you choose the ‘remember me’ option, you are issued a permanent cookie. A permanent cookie is one that remains on the hard drive after the browser application has been closed. 
+Flite Ad Products also collect a wide array of User engagement data, including content navigation, scrolls, video plays, mouse hovers, etc. The information in these reports is in the aggregate, and cannot be used to identify anyone personally. 
 
-**How to decline or delete cookies:** Most browsers are set to automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to use or access some of the interactive features offered on the Site. The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, deleting cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Click “Help” in the toolbar of most browsers for instructions.
+**COOKIES**  
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from our website and stored on your computer’s hard drive. You have the ability of deleting cookies on your computer should you so wish (See Opt-Out). 
 
-**How to set permissions and delete Flash cookies:** Flashed based sites and advertisements have the potential to issue cookies. Adobe offers a web tool that runs locally on a user’s computer, and allows users to delete Flash cookies, as well as set permissions for sites to drop and store cookies on the user’s computer. The tool can be found at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html> and [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html "Adobe - Flash Player : Settings Manager - Website Privacy Settings panel")
+The Site uses browser cookies to record current session information. If you choose the ‘remember me’ option, you are issued a permanent cookie. A permanent cookie is one that remains on the hard drive after the browser application has been closed. Flite Ad Products use browser cookies for ad frequency throttling and User counting. Flite browser cookies do not track users outside of Flite Ad Products. Flite does not share any cookie information with third parties. 
 
-**CHILDREN**
+**OPT-OUT OF COOKIES**  
+You can choose to remove cookies stored by us from your computer, or to prevent us from storing cookies on your computer in the first place. Flite cookies will appear in your browser as coming from one of the following domains: widgetserver.com, widgetbox.com, and/or wbx.me. Most browsers are set to automatically accept cookies. However, most modern browsers can also be configured to decline cookies, and allow you to delete existing cookies. Consult your browser’s documentation, typically available through the “Help” menu on the toolbar, for instructions on how to prevent the browser from accepting new cookies, how to delete cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If you choose to decline cookies, you may not be able to use or access some of the interactive features offered on the Site or by some Flite Ad Products. For assistance with removing cookies or limiting communications from us, please email us at [support@flite.com](mailto:support@flite.com). 
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to Flite through this web site represents that they are 13 years of age or older. 
+**FLITE’S USE OF INFORMATION, TRANSFER AND SHARING POLICIES**  
+Flite uses your information in various ways, as outlined below.
 
-**FLITE’S USE OF INFORMATION**
+**PII:** Flite collects PII only when you choose to provide it to us. PII is treated/used differently in different instances, as described below. 
 
-We use the personal information about you stored in our member database in various ways. We use the personal information collected to provide you with our products and services. In addition, the personal information collected is used for identification and authentication, billing, and to contact you. Finally, information we gather may be used to otherwise improve our services. 
+  * **PII Flite collects on the Site:** We may collect PII voluntarily submitted by you through the Site when, for example, you register on the Site. Some common uses of this PII include identification and authentication, billing, and contacting Customers with notifications and/or product emails. We may combine this PII with Non-PII and use it to better target content and to create a more relevant experience for each Customer and User on the Site. For example, we may use the Customer login name (PII) and connected browsing history (non-PII) to send better directed marketing emails to interested Customers. The PII we collect on the Site is not shared with Flite Customers or Users, and we only use this information for our internal marketing purposes. 
+  * **The PII Flite collects through Flite Ad Products:** PII may be collected through a Flite Ad Product created by a particular Customer and is collected solely for the benefit of the Customer. For example, when a Customer creates a Flite Ad Product, they may opt to include a standard registration form in the ad that collects User PII that a User may voluntarily submit. This PII may be stored on Flite’s servers and the Customer will have access to this PII via their Flite login.
 
-**FLITE’S TRANSFER AND INFORMATION SHARING POLICY**
 
-We do not share personal information collected on this web site with third parties for their direct marketing. We provide personal information to trusted businesses or persons for the purpose of processing personal information on our behalf. 
 
-Flite does not otherwise share personal information about site users with third parties unless doing so is appropriate to carry out a user’s request or it reasonably believes that doing so is legally required or is in Flite’s interest to protect its property or other legal rights or the rights or property of others. 
+  
+**Non-PII:** Flite collects non-PII information on the Site and through Flite Ad Products. Flite uses your non-PII for two main purposes: 
 
-If Flite should ever file for bankruptcy or have its assets sold to or merge with another entity, information Flite receives from you from this Site is a Flite asset and may be transferred. 
+  * To better target content to Users and to create a more relevant experience for each Customer or User on the Site and in Flite Ad Products.
+  * To provide aggregate reporting to Customers, for our internal purposes, or to other third parties for marketing, analytic and advertising purposes. Such aggregate reporting does not identify you personally, and only identifies reporting statistics, such as number of persons to click on an Ad Product over a certain period of time.
 
-**INTERNATIONAL VISITORS AND CUSTOMERS**
 
+
+We may provide PII and non-PII to trusted businesses or persons for the purpose of processing information on our behalf. These third parties are bound to keep your PII and Non-PII confidential. We do not otherwise share PII or non-PII with third parties unless doing so is appropriate to carry out your request or we reasonably believe that doing so is legally required or necessary to protect your rights or those of Flite and our Customers. 
+
+**Notwithstanding the foregoing, Flite’s Privacy Policy does not apply to, and we cannot fully control how, third parties use your information. Accordingly, we cannot be held responsible for Customers’ use or other third parties’ use of your PII or Non-PII. For example, certain third parties that provide services to help deliver Flite Ad Products may directly collect and store User PII for the benefit of the Customer and Flite does not have control over such third party use.**
+
+If we should ever file for bankruptcy or have our assets sold to or merge with another entity, information we receive from you from this Site is a Flite asset and may be transferred. 
+
+**CHILDREN**  
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect PII from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to us through this website represents that they are 13 years of age or older. 
+
+**INTERNATIONAL VISITORS AND CUSTOMERS**  
 This web site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to: 
 
-The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and  
-The transfer of your personal data to the United States as indicated above.
+  * The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
+  * The transfer of your personal data to the United States as indicated above.
 
-**SECURITY**
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
 
-If Flite learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Flite may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Flite.com web site. Flite may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [support@flite.com](mailto:support@flite.com)
+**SECURITY**  
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you provide information at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, this is not a guarantee that such information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. **To the extent permitted by law, we hereby disclaim any liability related to a security breach or loss of your information.**
 
-**CHANGES AND UPDATES**
+If we learn of a security systems breach, we will adhere to all applicable security laws. We may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this Site. We may post a notice on our web site if a security breach occurs or may send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach mailed to the address provided by you or to withdraw your consent from receiving electronic notice, you should notify us by sending an email to [support@flite.com](mailto:support@flite.com "support@flite.com") or by mailing to 706 Mission Street, 5th Floor, San Francisco CA 94103. 
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date on the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your continued use of this web site constitutes your agreement to this Privacy Statement and any updates. 
+**CHANGES AND UPDATES**  
+We may amend this Privacy Policy at any time. When we do, we will also revise the “last updated” date on the Privacy Policy. Any such amendment to this Privacy Policy will be effective upon our posting of the revised Privacy Policy. Be sure to periodically review our Privacy Policy to stay informed about how we use information we collect from you. Your continued use of the Site or Flite Ad Products constitutes your agreement to this Privacy Policy and any updates.
 
-**CONTACTING FLITE**
+**CONTACTING FLITE**  
+For questions, comments, or concerns about this Privacy Policy, to update your PII, or for assistance with removing cookies or limiting communications from us, please email us at [support@flite.com](mailto:support@flite.com). 
 
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at [support@flite.com](mailto:support@flite.com)
-
-Postal Mail Address:  
-Flite  
-706 Mission Street  
-5th Floor  
-San Francisco, CA 94103  
-Attention: Privacy Officer 
-
-[Last Updated: April 27, 2011] 
+Last Updated: April 12, 2012 
