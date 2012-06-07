@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wavewatch.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228030017id_/http%3A//www.surfermag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavewatch.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607211441id_/http%3A//www.surfermag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SURFER Magazine
+# SURFER Magazine: Privacy Policy
 
 Source Interlink Companies, Inc. (“Source” or “We” or “we”) is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to Source Interlink Companies, Inc. and all of its parent companies, subsidiaries, and affiliates, including specifically Source Interlink Media, Inc. and its family of consumer publications. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions. 
 
