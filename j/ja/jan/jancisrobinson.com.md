@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102151557id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607023359id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Jancis Robinson.com | Fine Wine Writing, Wine Reviews & Tasting Notes from Jancis Robinson
 
@@ -64,7 +64,7 @@ The best way to contact us is via Contact us at the bottom of any purple page. E
 If, however, you want to change the email address we have on record, please contact [subscriptions@jancisrobinson.com](mailto:subscriptions@jancisrobinson.com). You can change your other details, including password, via Preferences at the bottom of any purple page. 
 
 ******Cookies**   
-Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve the information from your computer so that they can keep track of things like other web sites you visit or how you navigate our website or other files which provide you with the Site. For more information about what cookies are and how they work, visit [www.allaboutcookies.org](http://www.jancisrobinson.com/www.allaboutcookies.org). 
+Cookies are small files of information which are stored on your computer. Web sites you visit ask your computer to store this information and retrieve the information from your computer so that they can keep track of things like other web sites you visit or how you navigate our website or other files which provide you with the Site. For more information about what cookies are and how they work, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 On revisiting our website or in using the files, our computer server will recognise the cookie and give us information about your use of the Site. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. 
 
