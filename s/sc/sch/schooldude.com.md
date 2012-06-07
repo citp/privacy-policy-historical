@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220124444id_/http%3A//www.schooldude.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607082716id_/http%3A//www.schooldude.com/privacy-policy) for the most accurate reproduction.*
 
-# About - SchoolDude Privacy Policy
+# Privacy Policy « SchoolDude.com – Operations Software Made Just for Schools
 
-Our policy is to respect and protect the privacy of our users. Our goal is to provide a "buyer centric" service to our members. This means we strive to represent the best interest of our members rather than the suppliers and advertisers that would like to sell products and services to our members. We will not willfully disclose individually identifiable information about our customers to any third party without first receiving that user's permission. 
+Our policy is to respect and protect the privacy of our users. Our goal is to provide a "buyer centric" service to our members. This means we strive to represent the best interest of our members rather than the suppliers and advertisers that would like to sell products and services to our members. We will not willfully disclose individually identifiable information about our customers to any third party without first receiving that user’s permission. 
 
 **Does SchoolDude ask for personal information?**
 
@@ -18,7 +18,7 @@ Additionally, if you make a purchase from our site, the information obtained dur
 
 **How does SchoolDude use my personal information?**
 
-SchoolDude's goal in collecting personal information is to provide you, the user, with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about you, SchoolDude is able to deliver more relevant content, and hence better service, to you.
+SchoolDude’s goal in collecting personal information is to provide you, the user, with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about you, SchoolDude is able to deliver more relevant content, and hence better service, to you.
 
 **Will SchoolDude use my information for direct or email mailings?**
 
@@ -39,14 +39,14 @@ SchoolDude collects IP addresses for the purposes of system administration and s
 
 **What else should I know about my privacy?**
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example in discussion forums, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+Please keep in mind that whenever you voluntarily disclose personal information online – for example in discussion forums, through email, or in chat areas – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
 Furthermore, while we strive to protect your personal information, SchoolDude cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In addition, SchoolDude partners and third party Internet sites and services accessible through SchoolDude or parties whom we inform you are collecting data in connection with sweepstakes, promotions, etc., have separate privacy and data collection practices, independent of us. SchoolDude has no responsibility or liability for these independent policies or actions. 
 
-**The point?** You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+**The point?** You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online. 
 
 **We use Google Analytics** to conduct anonymous web traffic analysis for our site. While Google Analytics makes use of cookies, no personal information is ever collected or analyzed by this service. 
 
 **Our policy on Discussion Messages and Posts**
 
-The content of these messages and posts are not necessarily those shared by SchoolDude.com, Inc. These opinions are expressly those of the online community members and their guests. SchoolDude.com makes no claims to agree with or disagree with the opinions expressed online. SchoolDude.com will make every attempt to maintain decorum at its discretion and will remove visitors' posts if they are deemed to be unacceptable.
+The content of these messages and posts are not necessarily those shared by SchoolDude.com, Inc. These opinions are expressly those of the online community members and their guests. SchoolDude.com makes no claims to agree with or disagree with the opinions expressed online. SchoolDude.com will make every attempt to maintain decorum at its discretion and will remove visitors’ posts if they are deemed to be unacceptable.
