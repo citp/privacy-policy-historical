@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aliwaqas.info privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208021415id_/http%3A//aliwaqas.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliwaqas.info privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607094838id_/http%3A//aliwaqas.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ali Waqas Informatics -Gadget News As It Happens!
 
 At aliwaqas.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by aliwaqas.info and how it is used.
 
