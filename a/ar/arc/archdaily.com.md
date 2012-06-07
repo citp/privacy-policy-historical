@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archdaily.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120080547id_/http%3A//www.archdaily.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archdaily.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607091721id_/http%3A//www.archdaily.com/legal) for the most accurate reproduction.*
 
 # Legal | ArchDaily
 
@@ -8,7 +8,7 @@ Welcome to ArchDaily.com. ArchDaily.com (“Website”) is an interactive online
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions. We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify users of this change by e-mail to the last e-mail address provided to us. Users will have a choice (by means of an opt out opportunity) as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected if you opt out of the new policy.
 
- **I. INFORMATION WE COLLECT**
+**I. INFORMATION WE COLLECT**
 
 Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, that we automatically collect when you visit our Website or that you provide us.
 
@@ -20,7 +20,7 @@ Our definition of personally identifiable information includes any information t
 
 Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
- **II. HOW WE USE & SHARE THE INFORMATION COLLECTED **
+**II. HOW WE USE & SHARE THE INFORMATION COLLECTED **
 
 Personally Identifiable Information:
 
@@ -32,7 +32,7 @@ In certain instances we may also share your personally identifiable information 
 
 We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
- **III. OTHER USES & INFORMATION **
+**III. OTHER USES & INFORMATION **
 
 1\. IP Addresses:
 
@@ -56,28 +56,28 @@ As we continue to develop our business, we may sell or purchase assets. If anoth
 
 Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
 
- **IV. PUBLIC FORUMS**
+**IV. PUBLIC FORUMS**
 
 We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
 
- **V. CHILDREN**
+**V. CHILDREN**
 
 The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at legal@archdaily.com. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 
- **VI. KEEPING YOUR INFORMATION SECURE**
+**VI. KEEPING YOUR INFORMATION SECURE**
 
 We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
- **VII. OTHER SITES / LINKS**
+**VII. OTHER SITES / LINKS**
 
 Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
 
- **VIII. CONTACT & OPT-OUT INFORMATION **
+**VIII. CONTACT & OPT-OUT INFORMATION **
 
 You may contact us as at legal@archdaily.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
- **IX. SOLE STATEMENT**
+**IX. SOLE STATEMENT**
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
