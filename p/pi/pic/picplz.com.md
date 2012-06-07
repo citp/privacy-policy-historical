@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the picplz.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604181201id_/http%3A//picplz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picplz.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607044049id_/http%3A//picplz.com/privacy) for the most accurate reproduction.*
 
 # picplz privacy policy
 
 Last Updated: May 4, 2010
 
-This Privacy Policy describes how Mixed Media Labs, Inc. (“ **MixedMediaLabs** ,” “We,” “ **Us** ,” or “ **Our** ”) protects your privacy when you use picplz (the “ **Service** ”) which includes the Web site located at www.picplz.com (the “ **Site** ”) and all picplz mobile phone applications (“ **Mobile** ”).
+This Privacy Policy describes how picplz (“ **picplz** ,” “We,” “ **Us** ,” or “ **Our** ”) protects your privacy when you use picplz (the “ **Service** ”) which includes the Web site located at www.picplz.com (the “ **Site** ”) and all picplz mobile phone applications (“ **Mobile** ”).
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SERVICE. 
 
-This Privacy Policy applies to information (including, personal information) collected through the Service. For the purpose of this Privacy Policy, “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personal information has been removed. This Privacy Policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. This Privacy Policy is part of and incorporated into MixedMediaLabs’s [Terms of Service](http://www.picplz.com/terms) (“ **Terms of Service** ”). 
+This Privacy Policy applies to information (including, personal information) collected through the Service. For the purpose of this Privacy Policy, “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Service or about a group or category of services or users, from which individual identities or other personal information has been removed. This Privacy Policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. This Privacy Policy is part of and incorporated into picplz’s [Terms of Service](http://www.picplz.com/terms) (“ **Terms of Service** ”). 
 
 ### The What & How of Information We Collect
 
