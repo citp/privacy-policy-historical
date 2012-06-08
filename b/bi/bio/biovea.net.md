@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318215150id_/http%3A//biovea.net/%28S%28s2qrh0e0uokiud45tsphse55%29%29/display.aspx%3FWID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609004543id_/http%3A//www.biovea.com/uk/display.aspx%3FWID%3D24) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
+
+Search 
+
+BROWSE 
+
+Categories 
+
+|  | 
 
 ### Absolute Confidentiality
 
@@ -19,3 +29,9 @@ You can also remove yourself from our mailing list at any time by sending an ema
 The email SUBJECT line should read: UNSUBSCRIBE
 
 The email BODY should contain: your membership email address, as well as your first and last name.
+
+|  | 
+
+[ ](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4fc51ca10414ef67)
+
+[](http://a.pgtb.me/c2Cr)
