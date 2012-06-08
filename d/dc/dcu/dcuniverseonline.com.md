@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206001157id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608062033id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
 # Sony Online Entertainment
 
