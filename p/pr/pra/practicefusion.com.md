@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221040856id_/http%3A//www.practicefusion.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608085856id_/http%3A//www.practicefusion.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Practice Fusion | Privacy Policy
 
@@ -34,7 +34,7 @@ Access to our products, including Practice Fusion and Patient Fusion, are passwo
 
 Your email address is never used for any purpose other than to communicate with you or on your behalf. Your email may also be used for forgotten password or user account information, and in the future it may be used as a tool for messaging. Unless you opt out, we may also use your email address to send you promotional and marketing materials. Practice Fusion never shares your email address with external companies. Additionally, users may revoke their email permission at any time to opt out of receiving any future information. Simply contact us at:
 
-[phrsupport@practicefusion.com](mailto:phrsupport@practicefusion.com), or by U.S. mail at the address below:
+phrsupport@practicefusion.com, or by U.S. mail at the address below:
 
 Practice Fusion   
 420 Taylor Street   
@@ -66,7 +66,7 @@ We have no intention of accepting any information from individuals under the age
 
 ### Questions, complaints, and contacts
 
-If you have any questions about this Privacy Statement, our policies and practices, your rights under this statement, and your dealings with the Practice Fusion, send an email to [support](http://www.practicefusion.com/pages/support-contact-us.html), or by U.S. mail at the address below:
+If you have any questions about this Privacy Statement, our policies and practices, your rights under this statement, and your dealings with the Practice Fusion, send an email to [support](https://web.archive.org/pages/support-contact-us.html), or by U.S. mail at the address below:
 
 Practice Fusion   
 501 Folsom Street - Floor 1   
