@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zatse.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205444id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zatse.in privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608025423id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.*
 
 # 
 
