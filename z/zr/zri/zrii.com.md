@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zrii.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210023517id_/http%3A//zrii.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zrii.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608152900id_/http%3A//zrii.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Zrii
 
@@ -79,6 +79,6 @@ If the Privacy Policy changes materially so that your personally identifiable in
 **10\. Contact Information**
 
 For further information about this site or Zrii products, please visit  
-[www.Zrii.com/pages/company/contact.xhtml](https://web.archive.org/web/20111210023517id_/http%3A//zrii.com/company/contact.html)
+[www.Zrii.com/pages/company/contact.xhtml](https://web.archive.org/web/20120608152900id_/http%3A//zrii.com/company/contact.html)
 
 Effective: October 9, 2007
