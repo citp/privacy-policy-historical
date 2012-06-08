@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the intergi.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230003406id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intergi.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608071159id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
 
-# Intergi's Privacy Policy | Digital Site Rep Agency for Video Games and Entertainment
+# Intergi | Privacy Policies
 
-## 
-
-**Privacy Policy**
+##  **Intergi Entertainment's Privacy Policy**
 
 Please read this Privacy Policy carefully to understand how Intergi LLC, its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Intergi") uses and protects the information you provide. This privacy policy (the "Privacy Policy") applies to this World Wide Web site and any other websites owned or operated by Intergi or that may be subsequently added, variations or successors to this website ([www.intergi.com](http://www.intergi.com/ "www.intergi.com"), the "Intergi Sites"), any Intergi computer software downloadable or otherwise available from the Intergi Sites ("Intergi Software") and any Intergi services purchased or otherwise made available from the Intergi Sites ("Intergi Services") (collectively, the "Intergi Properties"). This Privacy Policy ("Privacy Policy") applies to all Users ("Users") of the Intergi Properties.
 
@@ -20,14 +18,13 @@ B. HOW INTERGI COLLECTS YOUR INFORMATION
 
 The Personal Information practices set forth apply to all of Intergi's customers worldwide.
 
-**1\. Registration.** Prior to using one or more of the Intergi Properties, Intergi may require certain Personal Information and Non-Personal Information to create an individual account ("Account") or to enable features or functionality of the Intergi Properties. Failure to provide all required information required by Intergi may prevent access to any or all Intergi Properties, and failure to maintain accurate information may result in suspension or termination of access to any or all Intergi Properties. 
+**1\. Registration.** Prior to using one or more of the Intergi Properties, Intergi may require certain Personal Information and Non-Personal Information to create an individual account ("Account") or to enable features or functionality of the Intergi Properties. Failure to provide all required information required by Intergi may prevent access to any or all Intergi Properties, and failure to maintain accurate information may result in suspension or termination of access to any or all Intergi Properties.
 
 **2\. Information Collected Through Technology.** While you are able to visit the Intergi Sites and remain anonymous, Intergi or its third party service providers may still collect Non-Personal Information about your use of the Intergi Properties (e.g. your Internet browser, operating system, IP address, connection speed, and the domain name of your Internet service provider). Such information may be gathered by the following methods:
 
 **(a) Cookies.** Cookies, including local shared objects, are small pieces of information that are stored by your browser on your computer's hard drive which work by assigning to your computer a unique number that has no meaning outside of the Intergi Sites. Cookies do not generally contain any Personal Information. Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. Not accepting cookies may make certain features of the Intergi Properties unavailable to you. Intergi respects the user's wish for anonymity and avoiding cookies. Click on the following link and Intergi’s Adserver will no longer place cookies on your computer. <http://ads.intergi.com/setoptoutcookie/>
 
-Intergi may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>**  
-**
+Intergi may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **(b) IP Address.** You may visit many areas of the Intergi Sites anonymously without the need to become a registered User. Even in such cases, Intergi may collect IP addresses automatically. An IP address is a number that is automatically assigned to your computer whenever you begin Services with an Internet services provider. Each time you access the Intergi Sites and each time you request one of Intergi's pages, the server logs your IP address.
 
@@ -80,6 +77,3 @@ Attn: Privacy
 1000E Hillsboro Blvd. Suite 201  
 Deerfield Beach, FL 33441  
 [support@intergi.com](mailto:support@intergi.com)
-
-  
-
