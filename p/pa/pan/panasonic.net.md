@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222024026id_/http%3A//www.panasonic.net/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609003236id_/http%3A//panasonic.net/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Panasonic Global
+
+Head on this page.
+
+  * go to text
+  * go to text site Information
+
+
+
+* * *
+
+Main Contents begins from here.
 
 This privacy policy is only applicable to the website under [http://panasonic.net](http://panasonic.net/) posted by Panasonic Corporation and its subsidiaries (referred to collectively below as "the Company").
 
@@ -27,3 +38,9 @@ The Company aims to obtain the satisfaction and trust of our customers by provid
   3. The Company's website occasionally uses cookies to enhance the information and services provided, and to make navigating the site more convenient. The Company's website does not use cookies to obtain information that would allow it to identify you except in cases where you have agreed to provide such information beforehand.
 
 
+
+* * *
+
+Local navigation area begins from here.
+
+Return to Top
