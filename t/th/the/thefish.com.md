@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefish.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210021111id_/http%3A//www.thefish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefish.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608224731id_/http%3A//www.thefish.com/privacy-policy) for the most accurate reproduction.*
 
 # A Christian look at pop culture
 
