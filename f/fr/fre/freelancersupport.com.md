@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancersupport.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209154341id_/http%3A//www.freelancersupport.com/modules/content/index.php%3Fid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancersupport.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608202434id_/http%3A//www.freelancersupport.com/modules/content/index.php%3Fid%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,4 +56,4 @@ To update the Privacy Statement, we will post both the changed version and its e
 
 While this Privacy Statement expresses FREELANCERSUPPORT's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond FREELANCERSUPPORT's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, FREELANCERSUPPORT disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
 
-[](https://web.archive.org/web/20111209154341id_/http%3A//www.freelancersupport.com/modules/content/print.php?id=4)     [](mailto:?subject=Interesting%20article%20in%20FreelancerSupport.com&body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20FreelancerSupport.com:%20%20http://www.freelancersupport.com/modules/content/index.php?id=4)
+[](https://web.archive.org/web/20120608202434id_/http%3A//www.freelancersupport.com/modules/content/print.php?id=4)     [](mailto:?subject=Interesting%20article%20in%20FreelancerSupport.com&body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20FreelancerSupport.com:%20%20http://www.freelancersupport.com/modules/content/index.php?id=4)
