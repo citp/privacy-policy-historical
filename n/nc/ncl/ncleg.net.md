@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201100832id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608062405id_/http%3A//ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
