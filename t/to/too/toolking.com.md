@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230012038id_/http%3A//www.toolking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609011918id_/http%3A//www.toolking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,10 @@ While creating an account with Tool King, you will be asked to provide a persona
 ### SSL Technology
 
 Secure Sockets Layer (SSL) technology is presently the safest way to send credit card information over the Internet. Information is first encrypted on your computer, then decrypted on our server, preventing anyone from accessing any information in between. To ensure your security, we recommend the use of SSL-capable browsers, like Netscape 3.0 or Internet Explorer 3.0 or higher.
+
+### Clicktale Tracking
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve our website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 ### Privacy Contact Information
 
