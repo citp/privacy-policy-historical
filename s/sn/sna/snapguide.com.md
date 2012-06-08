@@ -1,62 +1,69 @@
-> *The following text is extracted and transformed from the snapguide.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608221713id_/http%3A//www.snapguide.com/snapguide.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapguide.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608023900id_/http%3A//snapguide.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Snapguide
 
-| | 
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Snapguide's policies and procedures on the collection, use and disclosure of your information when you use the Snapguide Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://snapguide.com/about/terms). 
 
-Privacy Policy
+Information Collection and Use
 
-We are committed to protecting the privacy and security of all users of our site.
+Snapguide uses information we collect to determine your interests in order to provide you with the Service, analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track user Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws. 
 
-This privacy policy will advise you about how your personal information is protected by us and about the choices you have concerning our use of such information.  Please read this policy carefully.  This policy may need to be changed from time to time in order to address new issues and reflect changes on our site.  The changes will be posted here so that you will always know what information we gather, how the information may be used and whether we will disclose that information to anyone.  Please refer back to this policy regularly.
+**User-Provided Information:** You provide us information about yourself, such as your name, e-mail address, and access to data about your use of online services, if you sign up for the Service, including by signing into Snapguide with a third-party service or adding a Snapguide application on a social network. Your profile information, Content you post, and information about your use of the Service that you elect to make public will be available for public viewing on the Service and via our syndication channels. 
 
-If you have a question or concern regarding our privacy policy please send us an e-mail to 
+We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
 
-This policy does not apply to your use of unaffiliated sites to which Snapguide.com only links. This policy applies to your use of Snapguide.com and all other sites that we may own or operate currently or in the future.  Unless otherwise stated all reference to Snapguide.com include all such sites.
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Snapguide stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. 
 
-Personal Identification Information
+**Cookies:** When you visit the Service, we may send one or more “cookies” - a small data file - to your computer to uniquely identify your browser and let Snapguide help you log in faster and enhance your navigation through the site. A cookie may convey anonymous information about how you browse the Service to us, but does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
 
-We will never intentionally disclose any personal identification information about you as an individual user (for example: your full name, street address, telephone number, credit card number or your e-mail address), to any third party without having first received your permission.  We may request information from you in connection with your use of, or participation in, our contests, games, surveys, subscription registrations, content submissions, chats, bulletin boards, requests for suggestions, visitors' requests for free products or services or additional information, and in connection with other activities, services or resources we make available on any of our sites.  In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us.
+**Log Files:** Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. 
 
-If you do provide us with personal information we may use it to conduct the activities described above.  If you identify yourself to us by sending us an e-mail with questions or comments, we may use your personal information to respond to you questions or comments.  We may file your comments for future reference, or we may discard the information after it has been reviewed by us.
+**Clear Gifs Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Snapguide account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting and make Snapguide better for our users. 
 
-We may also contact you to confirm your registration and about your account status (should this apply to you) and regarding changes to the Snapguide.com Sites' Terms and Conditions and this Privacy Policy.
+**Third Party Services:** Snapguide uses several third party analytics services to help understand use of the Service. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address. They also receive this information and their use of it is governed by their Privacy Policy(s). 
 
-If you give us your permission, we may also use personal identification information for internal or external marketing and promotional purposes.  On occasion, for example, you may be sent e-mails to introduce a product or service that we think might be of interest to the users of our sites.  For us to obtain your permission to send you this information, we will give you an opportunity to "join-in"  at the time our request for your personal information is made.  If you do decide to "join-in", you may choose to "un-join" at any time, even after you have provided personal information, by following the procedures set forth below at the end of this Privacy Policy.  Please note, however, that under certain circumstances, if you initially do not choose to "join-in" or if you later "un-join", you may not be eligible for certain other benefits for which a name, e-mail address, telephone number or other personal identification information is needed.
+How We Share Your Information
 
-We have the following exceptions to these policies:  We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order.  We will also release specific information in special cases, such as an attempted breach of security of our sites.
+**Personally Identifiable Information:** Snapguide may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Snapguide (for instance, on servers or databases co-located with hosting providers). 
 
-Please note that if you give out personal information online, for example, using a message board or chat room, that information can be collected and used by third parties.  Although we strive to protect our user's privacy, we cannot guarantee the security of information you post in these forum and therefore you disclose such information at your own risk.
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
 
-Privacy of Children
+We may share or disclose your information with your consent. We cannot control third parties’ use of your information. 
 
-Snapguide.com understands that younger people need special safeguards. We urge all parents to participate in their children's internet use and exploration.
+Snapguide may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Snapguide’s rights or property. 
 
-  1. Users under 16 may not register with Snapguide.com without the consent of their parent or guardian.
-  2. If a user under 16 wins a contest for which they are eligible, notification and prizes will be sent to the parent or guardian who registered the user.
+**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Snapguide services. 
 
+Snapguide may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Snapguide. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Snapguide does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Snapguide to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Snapguide Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information. 
 
+How We Protect Your Information
 
-Non-Personal Information
+Snapguide uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Snapguide or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
 
-We may collect non-personal identification information, such as the internet service provider you use. Our system automatically gathers information about the areas you visit on our sites and the links you may select from within our site to other areas of the Web or elsewhere online.  We use such information in the aggregate to determine which areas of our sites are favorites, which need improvement and what technologies are being used so that we may continually improve our sites.  We may share this aggregate statistical information with our partners, suppliers or other third parties, but we will not share any individual names, or personal information.  
+In the event that personal information is compromised as a result of a breach of security, Snapguide will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in our [Terms of Service](http://snapguide.com/about/terms), or as otherwise required by applicable law. 
 
-Links
+Your Choices About Your Information
 
-You will find  links to other sites within our site.  We initially visit the sites or services that are linked however we do not control the contents or links that appear on these sites.  These sites and services may have their own privacy policy.  We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
+You may, of course, decline to submit personally identifiable information through the Service, in which case Snapguide may not be able to provide certain services to you. You may use the settings on the Service to control how certain information about you or your use of the Service is published, as further described on the Service. You may update or correct your account information and email preferences at any time by logging in to your account. 
 
-Your Security
+Children's Privacy
 
-Protecting your privacy and your information is a priority.  We exercise great care in providing secure transmission of your information from your PC to our servers.  We use secure server software to encrypt information to ensure that all internet transactions remain private. (unless sent by an unsecured means such as e-mail)
+Protecting the privacy of young children is especially important. Snapguide does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information. 
 
-"Un-join" or Change of Information
+Links to Other Web Sites
 
-To "un-join" at any time from receiving information  from Snapguide.com let us know by sending an email to   To discontinue receiving newsletters send an email to 
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. 
 
-To change your address or other information send us an email stating your original information and the new information to 
+Changes to Our Privacy Policy
 
-You signify your acceptance of this privacy policy by using our site.  Your continued use of the Snapguide.com site following the posting of change to these terms will mean that you accept those changes.
+If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
 
-Submissions - see [Copyright](https://web.archive.org/web/20020608221713id_/http%3A//www.snapguide.com/snapguide.com/copyright.htm) page.
+If you have any questions about this Privacy Policy, please contact us at [info@heavybits.com](mailto:info@heavybits.com), or send mail to: 
 
-(Last modified March 19, 2002)
+Heavy Bits, Inc.  
+Attn: Daniel Raffel  
+Attn: Privacy Agent  
+2 Mint Plaza, Suite 603  
+San Francisco, CA 94103  
+Email: [info@heavybits.com](mailto:info@heavybits.com)  
+
