@@ -1,42 +1,28 @@
-<!--The following is the downloaded HTML source of the npower.com privacy policy that was archived on 2011-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210174923id_/http%3A//www.npower.com/Home/Terms-and-conditions/Privacy-policy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npower.com privacy policy that was archived on 2012-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608060435id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy/index.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">	<meta http-equiv="x-ua-compatible" content="IE=8">
-
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head><meta charset="utf-8">
 <meta name="google-site-verification" content="SUMKbh90pJC2f8YhNtz-VnoZu0v1EnBcnf9_PojoSoc">
-
 
 
 <!-- SS_BEGIN_SNIPPET(fragment7,render_head)-->		
     <title>Website privacy policy - npower</title>  
 
-	<!-- BK 25/10/10 -->
+	<!-- BK 25/10/10 . -->
 	<meta name="Description" content="Website privacy policy - npower">
     <meta name="Keywords" content="Website privacy policy - npower">
     
     <!-- JCW: 24/01/2011 session expired refresh -->
 				
-	<script type="text/javascript" src="/idc/WCMSFragments/javascript/javascript.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/idc/WCMSFragments/javascript/javascript.js"></script>
 	<script type="text/javascript" src="/idc/WCMSFragments/javascript/quickwins.js"></script>
 	<script type="text/javascript" src="/idc/WCMSFragments/javascript/AC_RunActiveContent.js"></script>
-		<!-- MON: 16/10/2008 for RedEye tracking -->
-		<script type="text/javascript">
-		    function RedEyeTag(strTag) {
-		        imgRedEye = new Image();
-		        imgRedEye.src = 'http://reporting.npower.com/cgi-bin/rr.cgi/images/blank.gif?' + strTag;
-		    }
-		</script>
 			<!-- SS_END_SNIPPET(fragment7,render_head)-->
-
-	<!-- This is part of UCES demo <link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_demo.css" />-->
-
 		
-			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_reset.css">
-			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_styles.css">
-			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_head_foot.css">
-			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_popup.css">
-  	<!--[if IE 6]><link href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_ie6.css" rel="stylesheet" type="text/css"> <![endif]-->
-
+			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_reset.css?v=120223">
+			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_styles.css?v=120223">
+			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_head_foot.css?v=120223">
+			<link type="text/css" rel="stylesheet" href="/idc/groups/wcms_ta/@wcms/documents/stylesheets/style_guide_popup.css?v=120223">
 		
 			<script type="text/javascript" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/jquery.js"></script>
 			<script type="text/javascript" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/header_dropdown_script.js"></script>
@@ -45,269 +31,22 @@
 			<script type="text/javascript" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/site_search.js"></script>
     	
       
+      
   
 
-<!-- Maxymiser script start -->
-<!-- <script type="text/javascript" src="//maxymiser.hs.llnwd.net/o36/npower/js/mmcore.js"></script> -->
-<!-- Maxymiser script end -->
-
- 
-	<!-- Webtrends optimiser script start -->
-	<script type="text/javascript" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/webtrends_opt.js"></script>
-	<!-- Webtrends optimiser script end -->
-	<!--
-    	MON: 2011-03-02:
-    	This tracking routine has been completely rewritten so that
-        All the tracking tags are initialized *after* page load
-        and *after* the npower.js framework is initialized.
-    -->
-                          
-    <!-- START RedEye JavaScript Tracking Tag -->
-    <script type="text/javascript">
+<!-- Webtrends optimiser script start -->
+<script type="text/javascript" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/webtrends_opt.js"></script>
+<!-- Webtrends optimiser script end -->
 	
-	var DebugLog = new Array();
-	var DebugComplete = false;
-	var DebugResult;
-
-        var redEyeKey = '';
-    
-        function is_substring(str, substr)
-        {
-            str = str.toLowerCase();
-            substr = substr.toLowerCase();
-            if(str.indexOf(substr) >= 0) { return 1; } else { return 0; }
-        }
-    
-        function getRedEyeValue(redEyeKey)
-        {
-                var query = window.location.search.substring(1);
-                var retval='';
-                // eventually this will have different behaviour for different values
-                if (redEyeKey == "nosearchparam")
-                {
-                    var key = 'searchText';
-                    var start = query.indexOf(key)+ key.length + 1;
-                    var length = query.substr(start).indexOf("&");
-                    retval = query.substr(start,length);
-                }
-    
-    
-                return retval;
-        }    
-    
-		function LoadRedEye() {
-			CheckLog('About to load tracking tags...\n');
-			
-			//Tag rendering code
-			var protocol = 'http';    
-			var redeyedomain = 'reporting.npower.com';    
-		
-		
-			var nourlvalue = escape(window.location).toLowerCase();
-			
-			// fix for new stellent urls
-			var isMainSite = is_substring(nourlvalue, "at_home") + is_substring(nourlvalue, "in_business") + is_substring(nourlvalue, "about_npower");
-		
-		
-			//alert(nourlvalue);
-			// test for secondary page
-		
-			if ( (!(is_substring(nourlvalue,".htm")||is_substring(nourlvalue,".aspx")) && is_substring(nourlvalue,"wcms") ))
-			{
-				//alert("is secondary");
-				  // derive a page name from the title without the trailing npower
-				var pagename = window.document.title.replace(new RegExp(' - npower','g'),'');// remove trailing - npower
-				pagename = pagename.replace(new RegExp(' - ','g'),'_'); // replace hyphens with _
-				pagename=pagename.replace(/[\\/ ]/g,'_'); // replace spaces and /\ with _
-				pagename=pagename.replace(/[\.?]/g,''); // remove fullstops and ?
-				pagename = encodeURIComponent(pagename); // encode anything else.
-		
-				// append the contentId to make sure it is unique
-				var contentId = nourlvalue.substr(1+ nourlvalue.lastIndexOf('/'));
-		
-				// build it from the folder name. the derived page name and the content ID
-				nourlvalue =nourlvalue.substr(0,1+ nourlvalue.lastIndexOf('/'));
-				nourlvalue = nourlvalue + contentId +'_' +pagename;
-			}
-			
-			//alert(logic);
-			else if(isMainSite)
-			{
-				// special handling for the main home page
-				nourlvalue = nourlvalue.replace('/web/at_home/index.htm','/');
-				
-				if(!is_substring(nourlvalue, '/web') && !is_substring(nourlvalue, 'Go_green')  && !is_substring(nourlvalue, 'Juice-clean_and_green'))
-				{
-					protocol = 'https';		    
-				}
-				nourlvalue = nourlvalue.replace('/web', '').replace('/index.htm', '.html');
-			}
-			else
-			{
-				if(is_substring(nourlvalue, "/web/"))
-				{
-					// is a landing page
-					nourlvalue = nourlvalue.replace('web/', '').replace("index.htm", "");
-				}
-				else
-				{
-					// is a microsite
-					// microsite urls dont have web but we do need to replace our new directory with .html equivalent
-					nourlvalue = nourlvalue.replace('/index.htm', '.html');
-				}
-			}
-		
-			//Redeye reporting
-			var tag = protocol + '://' + redeyedomain + '/cgi-bin/rr.cgi/images/blank.gif?nourl=' + nourlvalue + '&norefer=' + escape(document.referrer);
-		
-			// add extra attributes
-			if ((redEyeKey != null ) && (redEyeKey.length>0))
-			{
-				var redEyeValue=getRedEyeValue(redEyeKey);
-				tag=tag+'&'+redEyeKey+"="+escape(redEyeValue);
-			
-			}
-			
-			tag = tag.toLowerCase();
-			//document.write("<IMG SRC='" + tag + "' WIDTH='1' HEIGHT='1' alt=''>"); //<< MON: 13/07/2009
-			
-			//MON: 13/07/2009 - changed so that the image is written asynchronously...
-			var theIMG = new Image();
-			theIMG.src = tag;
-			
-			CheckLog('� RedEye loaded');
-		}
-    //-->
-    
-    </script>
-    <!-- END RedEye Tracking Tag -->
-
-
-    <!-- RedEye Tracking Tag - for those without javascript -->
-    <noscript>
-        <div>
-            <img src="http://reporting.npower.com/cgi-bin/rr.cgi/images/blank.gif?nourl=www.npower.com/nojavascript" width="1" height="1" alt="" />
-        </div>
-    </noscript>
-    <!-- END RedEye Tracking Tag -->
-
-	<!-- Tracking Tags -->
-		<script type="text/javascript">
-		    if (addLoadEvent) {
-		        // MON: 2011-03-02
-		        // load stuff *after* page load so as to speed up the
-		        // loading of our actual page.
-		        addLoadEvent(LoadRedEye);
-		        addLoadEvent(LoadGoogle);
-		        //addLoadEvent(LoadCD);
-		        //addLoadEvent(LoadCriteo);
-		    }
-
-		    //Code to load external javascript files *AFTER* our page has loaded...
-		    function NPLoadExternalFile(filename, filetype) {
-		        var fileref;
-		        if (filetype == "js") { //if filename is a external JavaScript file
-		            fileref = document.createElement('script')
-		            fileref.setAttribute("type", "text/javascript")
-		            fileref.setAttribute("src", filename)
-		        }
-		        else if (filetype == "css") { //if filename is an external CSS file
-		            fileref = document.createElement("link")
-		            fileref.setAttribute("rel", "stylesheet")
-		            fileref.setAttribute("type", "text/css")
-		            fileref.setAttribute("href", filename)
-		        }
-
-		        if (typeof fileref != "undefined") {
-		            document.getElementsByTagName("head")[0].appendChild(fileref);
-		        }
-		    }
-
-		    function LoadGoogle() {
-		        NPLoadExternalFile('https://ssl.google-analytics.com/urchin.js', 'js');
-		        checkGoogle();
-		    }
-
-		    function LoadCD() {
-		        NPLoadExternalFile('https://j.clickdensity.com/cr.js', 'js');
-		        CheckLog('� Click Density loaded');
-		    }
-
-		    // GOOGLE
-		    var gAttempts = 0;
-		    var gTimer;
-		    function checkGoogle() {
-		        if (typeof _uacct == 'undefined') {
-		            if (gAttempts < 50) {
-		                gTimer = setTimeout("checkGoogle()", 100);
-		                gAttempts++;
-		                CheckLog('X Google failed. Trying again...');
-		            } else {
-		                clearTimeout(gTimer);
-		                CheckLog('X Google given up!');
-		            }
-		        } else {
-		            _uacct = "UA-2857785-1";
-		            urchinTracker();
-		            clearTimeout(gTimer);
-		            CheckLog('� Google loaded');
-		        }
-		    }
-
-		    // CLICK DENSITY
-		    //<![CDATA[
-		    var siteID = 3534;
-		    var keyElement = 'frame';
-		    //]]>
-
-
-		    // CRITEO
-		    function pcto_dis() {
-		        if (document.createElement) { var cto_dis_im = document.createElement('IFRAME'); if (cto_dis_im) { cto_dis_im.width = '1px'; cto_dis_im.height = '1px'; cto_dis_im.style.display = 'none'; cto_dis_im.src = 'http://dis.criteo.com/dis/dis.aspx?c=2&p=1782&cb=' + Math.floor(Math.random() * 99999999999); var cto_dis_doc = document.getElementById('pcto_dis_div'); if (cto_dis_doc !== null && cto_dis_doc.appendChild) { cto_dis_doc.appendChild(cto_dis_im); } } }
-		        CheckLog('� Criteo loaded');
-		    }
-
-		    function CheckLog(val) {
-		        if (DebugComplete)
-		            return;
-
-		        DebugLog.push(val);
-
-		        DebugResult = DebugLog.toString().replace(/,/g, "\n");
-		        if ((DebugResult.indexOf('Google loaded') > -1 || DebugResult.indexOf('Google given up!') > -1) && DebugResult.indexOf('Criteo loaded') > -1 && DebugResult.indexOf('RedEye loaded') > -1 && DebugResult.indexOf('Click Density loaded') > -1) {
-		            DebugComplete = true;
-		            createElement(null, null, 'div', 'tracking_debug_log');
-		            $__('tracking_debug_log').style.display = 'none';
-		            $__('tracking_debug_log').innerHTML = DebugResult.replace(/\n/g, "<br/>");
-		        }
-		    }
-
-		    function LoadCriteo() {
-		        //old code...
-		        //document.write('<div id="pcto_dis_div" style="display:none"></div>')
-		        //document.write('<div style="display:none"><img src="http://npoweruk.widget.criteo.com/pmo/display.js?p1='+escape('v=2&wi=7711916&pt1=0&pt2=1&si=1')+'&t1=sendEvent&resptype=gif&cb='+Math.floor(Math.random()*99999999999)+'" onload="pcto_dis();"/></div>');
-
-		        //MON: 2011-03-02
-		        //Placed here to speed up the page load.
-		        createElement(null, null, 'div', 'pcto_dis_div');
-		        $__('pcto_dis_div').style.display = 'none';
-
-		        createElement(null, null, 'div', 'criteo_holder');
-		        $__('criteo_holder').style.display = 'none';
-		        $__('criteo_holder').innerHTML = '<img src="http://npoweruk.widget.criteo.com/pmo/display.js?p1=' + escape('v=2&wi=7711916&pt1=0&pt2=1&si=1') + '&t1=sendEvent&resptype=gif&cb=' + Math.floor(Math.random() * 99999999999) + '" onload="pcto_dis();"/>';
-		    }
-    
-        </script>
-    <!-- Tracking Tags END -->	
-
-
 <script type="text/javascript" src="https://ots.optimize.webtrends.com/ots/lib/3.1/wt_lib.js" defer="defer"></script><style type="text/css">/* AUTO-GENERATED BY NPOWER.JS */
 body { height:100%; }
 html { height:100%; overflow-y:auto; margin:0; }
 #closeoverride { z-index:999; display:none; } 
-#np_overlay { z-index:998; position:fixed; _position:absolute; top:0px; left:0px; width:100%; height:100%; background:#000000; visibility:hidden; }</style><script type="text/javascript" src="https://ssl.google-analytics.com/urchin.js"></script></head>
+#np_overlay { z-index:998; position:fixed; _position:absolute; top:0px; left:0px; width:100%; height:100%; background:#000000; visibility:hidden; }</style></head>
 
-
+ 
+ 
+ 
  
  
  
@@ -315,10 +54,95 @@ html { height:100%; overflow-y:auto; margin:0; }
  
 <body style="position: absolute; left: -1000%; visibility: visible;">
 
+<!-- START JavaScript to set cookie -->
+<script type="text/javascript">
+    function get_cookie(Name) {
+        var search = Name + "="
+        var returnvalue = "";
+        if (document.cookie.length > 0) {
+            offset = document.cookie.indexOf(search)
+            // if cookie exists
+            if (offset != -1) {
+                offset += search.length
+                // set index of beginning of value
+                end = document.cookie.indexOf(";", offset);
+                // set index of end of cookie value
+                if (end == -1) end = document.cookie.length;
+                returnvalue = unescape(document.cookie.substring(offset, end))
+            }
+        }
+        return returnvalue;
+    }
 
- 
+    function set_cookie(cookieName, cookieValue, nDays) {
+        var today = new Date();
+        var expire = new Date();
+        if (nDays == null || nDays == 0) nDays = -1;
+        if (nDays == -1) 
+        { 
+            document.cookie = cookieName + "=" + escape(cookieValue)
+        } else {
+            expire.setTime(today.getTime() + 3600000 * 24 * nDays);
+            document.cookie = cookieName + "=" + escape(cookieValue)
+                 + ";expires=" + expire.toGMTString() + ";path=/"; 
+        }
+    }
+
+    function saveOptions(myOption) {
+        var cp = document.getElementById('cookiePanel');
+        if (myOption == 1) {
+            set_cookie('np_mc', '1', 365);
+            // cp.innerHTML = 'Thank you  want cookies';
+        } else {
+            set_cookie('np_mc', '0');
+            // cp.innerHTML = 'Thank you dont want cookies';
+        }
+    }
+
+    function showMyOption() {
+        var cp = document.getElementById('cookiePanel');
+        var myoption = get_cookie('np_mc');
+        if (myoption == '1') {
+            // cp.innerHTML = 'I have selected yes';
+            // hide the input panel.
+        } else if (myoption == '0') {
+            // cp.innerHTML = 'I have selected no';
+            // hide the input panel.
+        } else {
+            // cp.innerHTML = 'I have yet to decide';
+            // show input panel.
+        }
+    }
+</script>
+
+<!-- END -->
+
+<!-- START HTML for the cookie bar -->
+  <div class="cookie-bar-wrap" style="z-index: 1000;">
+    <div class="cookie-bar-inner" style="z-index: 999;">
+      
+      <span class="cookie-bar-intro-text">
+        <p>We use cookies to improve your experience when using our website. Some cookies have already been set.</p>
+      </span>
+      
+      <span class="cookie-controls">
+        <input name="Yes" value="Don't show this again" type="button" class="cookie-yes float-left" onclick="saveOptions(1)">
+        <p class="float-left"><a href="JavaScript:f7.AOpen('myoverlay','___f7Link_0');" title="How to control cookies" class="overlaybox" rel="myoverlay" onmousedown="dcsMultiTrack('DCSext.cookie_link','How to control cookies');" id="___f7Link_0" url="https://web.archive.org/web/20120608060435id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy/index.htm#myoverlay">How to control cookies</a></p>
+      </span>
+      
+      <span class="cookie-bar-policy">
+        <p>To find out more about the cookies we use, view our <a href="/home/terms-and-conditions/cookies/index.htm" title="Cookie policy (opens in a new window)" target="_blank" onclick="dcsMultiTrack('DCSext.cookie_link','Cookie policy');">cookie policy</a>.</p>
+      </span>
+    </div>
+  </div>
+
+<!-- END -->
+
 <!-- Webtrends Optimize -->
 <script type="text/javascript">    WTOptimize.setup({ s_pageDisplayMode: 'shift' });</script>
+
+
+
 <script>
     // MON: 2011-04-12
     // Used by the npower framework to render the page
@@ -327,34 +151,28 @@ html { height:100%; overflow-y:auto; margin:0; }
         Page.Start();
     }
 </script>
-	
-  <div id="skip" style="z-index: 1000;">
+  <div id="skip" style="z-index: 998;">
     <a href="#wrapper_content">Skip to main content</a>
   </div>
-
-
 <!-- HEADER AREA -->
-
-  		<div id="wrapper_header" style="z-index: 999;">
-    		<div id="header" style="z-index: 998;">
+<!-- HEADER AREA -->
+  		<div id="wrapper_header" style="z-index: 997;">
+    		<div id="header" style="z-index: 996;">
   		
-  		<!--SS_BEGIN_OPENREGIONMARKER(HEADER)-->
 
 <!--SS_END_OPENREGIONMARKER(HEADER)-->
-		<!--SS_BEGIN_ELEMENT(HEADER_element1)--><p><a href="/Home/index.htm"><img src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_npower_logo_trans.gif" class="npower" alt="npower logo."></a></p>
+		<p><a href="/home/index.htm"><img alt="npower logo." class="npower" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_npower_logo_trans.gif"></a></p>
 
-<div class="search" style="z-index: 997;">
-<form name="site_search" method="post" id="site_search" onsubmit="return false" action=""><input onfocus="value=''" onkeypress="return submitenter(this,event,'searchbox','https://customerservices.npower.com/app/answers/websearch_list/kw/')" name="searchbox" value=" Search npower.com" type="text" title="Search npower.com" id="searchbox" tabindex="4"><input value="Search" type="submit" class="searchbtn" onclick="siteSearch(this,'searchbox','https://customerservices.npower.com/app/answers/websearch_list/kw/');" alt="Submit button"></form>
+<div class="search" style="z-index: 995;">
+<form id="site_search" onsubmit="return false" method="post" name="site_search" action="#"><label for="searchbox">Search npower.com</label> <input onfocus="if (this.value == 'Search npower.com') {this.value = '';}" onkeypress="return submitenter(this,event,'searchbox','https://customerservices.npower.com/app/answers/websearch_list/kw/')" id="searchbox" title="Search npower.com" onblur="if (this.value == '') {this.value = 'Search npower.com';}" value="Search npower.com" name="searchbox" type="text"><input class="searchbtn" value="Search" onclick="if (searchbox.value == 'Search npower.com') {searchbox.value = '';}; {siteSearch(this,'searchbox','https://customerservices.npower.com/app/answers/websearch_list/kw/');}" type="submit"></form>
 </div>
 
-<p><a href="/fl/index.htm"><img src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_fl_league_logo.gif" class="league" alt="The Football league"></a></p><!--SS_END_ELEMENT(HEADER_element1)-->     
-
-
+<p><a href="/fl/index.htm"><img alt="The Football league" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_fl_league_logo_png.png" class="league"></a></p><!--SS_END_ELEMENT(HEADER_element1)-->     
 
     	<!-- This is the content for the RESIDENTIAL header --> 
         <ul class="nav_primary">
-            <li class="active"><a href="/Home/index.htm" title="Home">Home</a></li>
-            <li><a class="overlaybox cookielink" rel="sme_overlay" rev="BusinessLink" href="JavaScript:f7.AOpen('sme_overlay','___f7Link_0');" title="Business" id="___f7Link_0" url="https://web.archive.org/Business/index.htm">Business</a></li>
+            <li class="active"><a href="/home/index.htm" title="Home Energy">Home Energy</a></li>
+            <li><a class="overlaybox cookielink" rel="sme_overlay" rev="BusinessLink" href="JavaScript:f7.AOpen('sme_overlay','___f7Link_1');" title="Business Energy" id="___f7Link_1" url="https://web.archive.org/business/index.htm">Business Energy</a></li>
         </ul>
 			
 		<!-- Login management -->
@@ -371,193 +189,221 @@ html { height:100%; overflow-y:auto; margin:0; }
         }
 
         if (isLoggedIn == true) {
-            $('#login').find('img').attr('usemap', '#logoutaccounts');
+            $('.loggedout_links').css('display','none');
+            $('.loggedin_links').css('display', 'block');
+        } else {
+            $('.loggedout_links').css('display', 'block');
+            $('.loggedin_links').css('display', 'none');
         }
 
-        if (isLoggedIn == true) {
-            $('#login').find('img').attr('src', '/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_login_register_loggedin.gif');
-        }
     });
 </script>
-<div class="login" id="login" style="z-index: 996;">
-	<a href="/mynpower"><img class="signin" usemap="#none" alt="Login | Register for Mynpower" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_login_register.gif"></a>
+<div class="login cta" id="login" style="z-index: 994;">
+    <div class="loggedout_links" style="z-index: 993; display: block;">
+	    <a class="login_btn" href="/mynpower" title="Login">Register | Login</a>
+<!--	    <a class="register_btn" href="/home/mynpoweranonym/osrstep1/index.htm" title="Register">Register</a> -->
+    </div>
+    <div class="loggedin_links" style="display: none; z-index: 992;">
+	    <a href="/logout" title="Login" class="logout_btn">Log out</a>
+	    <a href="/mynpower" title="My accounts" class="myact_btn">My accounts</a>
+    </div>
 </div> 		
-
-<map name="logoutaccounts">
-<area shape="rect" coords="0,0,61,31" href="/logout" alt="Log out">
-<area shape="rect" coords="61,0,159,31" href="/mynpower" alt="My accounts">
-</map>
 		       
 		<!--<div class="login" id="login">-->
    	  			<!--<a href="/mynpower/"><img class="signin" alt="Login | Register for Mynpower" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_login_register.gif" /></a>-->
 		<!--</div>  -->
 
-            <div id="nav_secondary" style="z-index: 995;">
-                <ul class="menu">
-                    <li id="elec_gas" class=""><a href="/Home/Electricity-and-gas/Products/index.htm" title="Electricity &amp; Gas">Electricity &amp; gas</a><img alt="" class="listmarker" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_nav_arrow_down.gif"></li>
-                    <li id="home_energy" class=""><a href="/Home/npower-hometeam/index.htm" title="npower hometeam">npower hometeam</a><img alt="" class="listmarker" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_nav_arrow_down.gif"></li>
-                    <li id="green_energy" class=""><a href="/Home/Energy-efficiency/index.htm" title="Energy Efficiency">Energy efficiency</a><img alt="" class="listmarker" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_nav_arrow_down.gif"></li>
-                    <li id="cust_services" class=""><a href="/Home/CustomerServices/index.htm" title="Customer Services">Customer services</a><img alt="" class="listmarker" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_nav_arrow_down.gif"></li>
-                    <li id="faq"><a href="https://customerservices.npower.com/app/answers/list/" title="Frequently asked questions">FAQ</a></li>
-                </ul>
-                    
-                <!--ELECTRICITY AND GAS-->
-                <div class="dropdown_content elec_gas" style="display: none; z-index: 994;">
-                            <div class="column" style="z-index: 993;">
-                                <h2>Joining npower</h2>
-                                <ul>
-                                    <li><a href="/Home/Electricity-and-gas/Products/index.htm">View our products</a></li>
-                                    <li><a class="popup" href="/web/At_home/forms/Quote_and_switch/index.htm?JourneyID=10010" link="https://web.archive.org/web/At_home/forms/Quote_and_switch/index.htm?JourneyID=10010">Switch to npower</a></li>
-                                    <li><a href="/Home/Electricity-and-gas/Compare-prices/index.htm">Compare our energy prices</a></li>
-                                    <li><a href="/Home/Electricity-and-gas/New-connections/index.htm">New connections</a></li>
-                                    <li><a href="/Home/Electricity-and-gas/How-to-switch/index.htm">How to switch</a></li>
-                                    <li><a href="/Home/Electricity-and-gas/Electricity-and-gas-prices/index.htm">Electricity &amp; gas prices</a></li>
-                                </ul>
-                            </div>
-                                
-                                    <div class="column" style="z-index: 992;">
-                                        <h2>Popular products</h2>
-                                        <ul>
-                                        <li><a href="/Home/Electricity-and-gas/Products/winter-fix/index.htm">Winter fix</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Products/Standard/index.htm">Standard</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Products/Go-save/index.htm">Go Save</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Products/Football_Saver/index.htm">Football 45</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Products/Sign-Online/index.htm">Sign Online 24</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Products/GoFix8/index.htm">Go Fix 8</a></li>
-                                        </ul>
-                                    </div>
-                                    
-                                    <div class="column third" style="z-index: 991;">
-                                        <h2>Useful information</h2>
-                                        <ul>
-                                        <li><a href="/Home/Electricity-and-gas/Electricity-and-gas-prices/Direct-Debit-discounts/index.htm">npower discounts</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Types-of-meter/index.htm">Your meter explained</a></li>
-                                        <li><a href="/web/At_home/customer_service/payment_information/cs_prepayment_landing">Prepayment information</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Electricity-and-gas-prices/index.htm">Our prices explained</a></li>
-                                        <li><a href="/spreading_warmth/Content/Homepage/index.htm">Spreading Warmth</a></li>
-                                        <li><a href="/Home/Electricity-and-gas/Terms-and-conditions/index.htm">Terms &amp; conditions</a></li>
-                                        </ul>
-                                    </div>
-                                
-                                    <div class="column last" style="z-index: 990;">
-                                        <a href="/campaigns/direct_debit/" title="Click here to find out more about direct debit"><img width="222" height="173" alt="Get up to £100 annual discount" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_direct_debit.gif"> </a>                   
-                                    </div>
-                            </div>
-                                    
-                <!--HOME ENERGY-->		
-                <div class="dropdown_content home_energy" style="display: none; z-index: 989;">
-                                
-                                
-                                    <div class="column" style="z-index: 988;">
-                                        <h2>Service and repairs</h2>
-                                        <ul>
-                                        <li><a href="/Home/npower-hometeam/Servicing/Gas-boiler-service/index.htm">Boiler service</a></li>
-                                        <li><a href="/Home/npower-hometeam/Repair/Fixed-price-boiler-repair/index.htm">Boiler repair</a></li>
-                                        <li><a href="/Home/npower-hometeam/Repair/Pay-as-you-go-central-heating-repair/index.htm">Central heating repair</a></li>
-                                        <li><a href="/Home/npower-hometeam/Care-products/index.htm">Breakdown care</a></li>
-                                        <li><a href="/Home/npower-hometeam/index.htm">Other home cover</a></li>
-                                       </ul>
-                                    </div>
+            <div id="nav_secondary" style="z-index: 991;">
+  <ul id="npower-dropdown-menu" class="sf-menu">
+    <li class="level1-li sub electricity-and-gas">
+      <a href="/home/electricity-and-gas/products/index.htm" class="level1-a electGas">Electricity and gas<!--[if gte IE 7]><!--></a>
 
+      <!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul class="list-container">
+        <li class="inner-container">
+          <div class="list-column" style="z-index: 990;">
+          	<span class="title">Joining npower</span>
+        	<ul>
+            	<li><a href="/home/electricity-and-gas/products/index.htm" title="View our products">View our products</a></li>
+            	<li><a class="popup" href="/web/at_home/forms/quote_and_switch/index.htm?JourneyID=10010" title="Switch to npower" link="https://web.archive.org/web/at_home/forms/quote_and_switch/index.htm?JourneyID=10010">Switch to npower</a></li>
+            	<li><a href="/home/electricity-and-gas/compare-prices/index.htm" title="Compare our energy prices">Compare our energy prices</a></li>
+            	<li><a href="/home/electricity-and-gas/new-connections/index.htm" title="New connections">New connections</a></li>
+            	<li><a href="/home/electricity-and-gas/how-to-switch/index.htm" title="How to switch">How to switch</a></li>
+            	<li><a href="/home/electricity-and-gas/electricity-and-gas-prices/index.htm" title="Electricity &amp; gas prices">Electricity &amp; gas prices</a></li>
+        	</ul>
+          </div>
+          <div class="list-column" style="z-index: 989;">
+       		<span class="title">Popular products</span>
+            <ul>            
+            	<li><a href="/home/electricity-and-gas/products/bill-saver/index.htm" title="Bill Saver">Bill Saver</a></li>
+            	<li><a href="/home/electricity-and-gas/products/energy-discount/index.htm" title="Energy Discount December 2013">Energy Discount December 2013</a></li>
+            	<li><a href="/home/electricity-and-gas/products/standard/index.htm" title="Standard">Standard</a></li>
+            	<li><a href="/home/electricity-and-gas/products/go-save/index.htm" title="Go Save">Go Save</a></li>
+            	<li><a href="/home/electricity-and-gas/products/football_saver/index.htm" title="Football 45">Football 45</a></li>
+            	<li><a href="/home/electricity-and-gas/products/gofix/index.htm" title="Go Fix 12">Go Fix 12</a></li>
 
-                                    <div class="column" style="z-index: 987;">
-                                        <h2>Home insulation</h2>
-                                        <ul>
-                                        <li><a href="/Home/Energy-efficiency/Home-insulation/Cavity-wall-insulation/index.htm">Cavity wall insulation</a></li>
-                                        <li><a href="/Home/Energy-efficiency/Home-insulation/Loft-insulation-and-installation/index.htm">Loft insulation &amp; installation</a></li>
-                                        <li><a href="/Home/Energy-efficiency/Home-insulation/DIY-loft-insulation/index.htm">DIY loft insulation</a></li>
-                                       </ul>
-                                    </div>
-                                    
-                                    <div class="column third" style="z-index: 986;">
-                                        <h2>Other options</h2>
-                                        <ul>
-                                        <li><a href="/Home/npower-hometeam/Heating-system-solutions/Carbon-monoxide-alarms/index.htm">Carbon monoxide alarm</a></li>
-                                        <li><a href="/Home/npower-hometeam/Heating-system-solutions/Wireless-room-thermostat/index.htm">Wireless room thermostat</a></li>
-                                        <li><a href="/Home/npower-hometeam/Heating-system-solutions/Thermostatic-radiator-valve/index.htm">Thermostatic radiator valve</a></li>
+            </ul>
+          </div>
+          <div class="list-column second-last" style="z-index: 988;">
+           <span class="title">Useful information</span>
+            <ul>
+                                        <li><a href="/home/electricity-and-gas/electricity-and-gas-prices/direct-debit-discounts/index.htm" title="npower discounts">npower discounts</a></li>
+                                        <li><a href="/home/electricity-and-gas/types-of-meter/index.htm" title="Your meter explained">Your meter explained</a></li>
+                                        <li><a href="/home/electricity-and-gas/types-of-meter/prepayment-meter-tariffs/index.htm" title="Prepayment information">Prepayment information</a></li>
+                                        <li><a href="/home/electricity-and-gas/electricity-and-gas-prices/index.htm" title="Our prices explained">Our prices explained</a></li>
+                                        <li><a href="/spreading_warmth/content/homepage/index.htm" title="Spreading Warmth">Spreading Warmth</a></li>
+                                        <li><a href="/home/electricity-and-gas/terms-and-conditions/index.htm" title="Terms &amp; conditions">Terms &amp; conditions</a></li>
+
+            </ul>
+ 
+          </div>
+          <div class="list-column-last" style="z-index: 987;">
+           <a href="/campaigns/direct_debit/index.htm" title="Click here to find out more about direct debit"><img width="222" height="173" alt="Get up to �100 annual discount" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_direct_debit.gif"> </a> 
+          </div>
+        </li>
+      </ul>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
+    </li>
+    <li class="level1-li sub hometeam">
+      <a href="/home/npower-hometeam/index.htm" class="level1-a npowHome">npower hometeam<!--[if gte IE 7]><!--></a>
+      <!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul class="list-container">
+        <li class="inner-container">
+          <div class="list-column" style="z-index: 986;">
+           <span class="title">Service and repairs</span>
+                        <ul>
+                                        <li><a href="/home/npower-hometeam/servicing/gas-boiler-service/index.htm" title="Boiler service">Boiler service</a></li>
+                                        <li><a href="/home/npower-hometeam/repair/fixed-price-boiler-repair/index.htm" title="Boiler repair">Boiler repair</a></li>
+                                        <li><a href="/home/npower-hometeam/repair/pay-as-you-go-central-heating-repair/index.htm" title="Central heating repair">Central heating repair</a></li>
+                                        <li><a href="/home/npower-hometeam/care-products/index.htm" title="Breakdown care">Breakdown care</a></li>
+                                        <li><a href="/home/npower-hometeam/index.htm" title="Other home cover">Other home cover</a></li>
+
+            </ul>
+          </div>
+
+          <div class="list-column" style="z-index: 985;">
+          <span class="title">Home insulation</span>
+            <ul>
+                                        <li><a href="/home/energy-efficiency/home-insulation/cavity-wall-insulation/index.htm" title="Cavity wall insulation">Cavity wall insulation</a></li>
+                                        <li><a href="/home/energy-efficiency/home-insulation/loft-insulation-and-installation/index.htm" title="Loft insulation &amp; installation">Loft insulation &amp; installation</a></li>
+                                        <li><a href="/home/energy-efficiency/home-insulation/free-home-insulation/index.htm" title="Free home insulation">Free home insulation</a></li>
+                        </ul>
+          </div>
+
+          <div class="list-column second-last" style="z-index: 984;">
+           <span class="title">Other options</span>
+            <ul>
+                                        <li><a href="/home/npower-hometeam/heating-system-solutions/carbon-monoxide-alarms/index.htm" title="Carbon monoxide alarm">Carbon monoxide alarm</a></li>
+                                        <li><a href="/home/npower-hometeam/heating-system-solutions/wireless-room-thermostat/index.htm" title="Wireless room thermostat">Wireless room thermostat</a></li>
+                                        <li><a href="/home/npower-hometeam/heating-system-solutions/thermostatic-radiator-valve/index.htm" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li>
                                         </ul>
-                                    </div>
-                                
-                                    <div class="column last" style="z-index: 985;">
-                                        <a href="/Home/npower-hometeam/Care-products/Hometeam-50/index.htm" title="Click here to find out more about hometeam care"><img width="222" height="173" alt="npower hometeam50 central heating care" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_hometeam.gif"> </a>                   
-                                    </div>
-                           </div>
-                                    
-                <!--GREEN ENERGY-->		
-                <div class="dropdown_content green_energy" style="display: none; z-index: 984;">              
-                                     <div class="column" style="z-index: 983;">
-                                        <h2>Green for home</h2>
-                                        <ul>
-                                        <li><a href="/Home/Electricity-and-gas/Products/Juice/index.htm">npower Juice</a></li>
-                                        <li><a href="http://www.ntgreenenergy.org.uk/index.htm">National Trust Green Energy</a></li>
-                                        <li><a href="/Home/Energy-efficiency/Solar/index.htm">npower solar</a></li>
-                                        <li><a href="/Home/Energy-efficiency/Saving-energy/index.htm">Saving energy</a></li>
+ 
+          </div>
+          <div class="list-column-last" style="z-index: 983;">
+         <a href="/home/npower-hometeam/care-products/index.htm" title="Click here to find out more about hometeam boiler and central heating care"><img width="222" height="173" alt="npower hometeam boiler and central heating care" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_hometeam.gif"> </a>            
+          </div>
+        </li>
+      </ul>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+    <li class="level1-li sub energy-efficiency">
+      <a href="/home/energy-efficiency/index.htm" class="level1-a enerEff">Energy efficiency<!--[if gte IE 7]><!--></a>
+
+      <!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul class="list-container">
+        <li class="inner-container">
+          <div class="list-column" style="z-index: 982;">
+          <span class="title">Green for home</span>
+            <ul>
+                                        <li><a href="/home/electricity-and-gas/products/juice/index.htm" title="npower Juice">npower Juice</a></li>
+                                        <li><a href="http://www.ntgreenenergy.org.uk/index.htm" title="National Trust Green Energy">National Trust Green Energy</a></li>
+                                        <li><a href="/home/energy-efficiency/solar/index.htm" title="npower solar">npower solar</a></li>
+                                        <li><a href="/home/energy-efficiency/saving-energy/index.htm" title="Saving energy">Saving energy</a></li>
+										<li><a href="/home/energy-efficiency/saving-energy/home-energy-survey/index.htm" title="Home Energy Survey">Home Energy Survey</a></li>
+ 
+
+            </ul>
+          </div>
+          <div class="list-column" style="z-index: 981;">
+           <span class="title">Green for business</span>
+                        <ul>
+                                        <li><a href="/business/smartstart/index.htm" title="npower SmartStart">npower SmartStart</a></li>
+                                        <li><a href="/business/flexible-energy-solutions/renewable-energy/index.htm" title="Renewable energy">Renewable energy</a></li>
+                                        <li><a href="/business/electricity-and-gas/white-paper/index.htm" title="Business energy index">Business energy index</a></li>
+            </ul>
+          </div>
+          <div class="list-column second-last" style="z-index: 980;">
+           <span class="title">Other options</span>
+            <ul>
+                                        <li><a href="/home/energy-efficiency/saving-energy/index.htm" title="Saving energy">Saving energy</a></li>
+                                        <li><a href="/home/energy-efficiency/selling-your-energy/index.htm" title="Feed in Tariff Scheme">Feed in Tariff Scheme</a></li>
                                         </ul>
-                                    </div>
-                                    
-                                     <div class="column" style="z-index: 982;">
-                                        <h2>Green for business</h2>
-                                        <ul>
-                                        <li><a href="/e3/index.htm">npower SmartStart</a></li>
-                                        <li><a href="/Business/Flexible-energy-solutions/Renewable-energy/index.htm">Renewable energy</a></li>
-                                        <li><a href="/Business/Electricity-and-gas/White-paper/index.htm">Business energy index</a></li>
-                                        </ul>
-                                    </div>
-                                    
-                                     <div class="column third" style="z-index: 981;">
-                                        <h2>Other options</h2>
-                                        <ul>
-                                        <li><a href="/Home/Energy-efficiency/Saving-energy/index.htm">Saving energy</a></li>
-                                        <li><a href="/Home/Energy-efficiency/Selling-your-energy/index.htm">Feed in Tariff Scheme</a></li>
-                                        </ul>
-                                    </div>
-                                    
-                                    <div class="column last" style="z-index: 980;">
-                                        <a href="/Home/Electricity-and-gas/Products/Juice/index.htm" title="Click here to find out more about npower Juice"><img width="222" height="173" alt="npower Juice, Green energy at no extra cost" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_juice.gif"></a>
-                                    </div>
-                          </div>
-                          
-                <!--CUSTOMER SERVICES-->      
-                <div class="dropdown_content cust_services" style="display: none; z-index: 979;">
-                                <div class="column" style="z-index: 978;">
-                                        <h2>Your account</h2>
-                                        <ul>
-                                        <li><a href="/Home/CustomerServices/MeterReading/index.htm">Send meter readings</a></li>
-                                        <li><a href="/mybills/">View or pay my bills</a></li>
-                                        <li><a href="/Home/CustomerServices/Change-my-details/index.htm">Change my details</a></li>
-                                        <li><a href="/setupdd/">Setup a Direct Debit</a></li>
-                                        <li><a href="/Home/CustomerServices/index.htm">All customer services</a></li>
-                                        </ul>
-                                </div>
-                                <div class="column" style="z-index: 977;">
-                                        <h2>Energy services help</h2>
-                                        <ul>
-                                        <li><a href="/Home/CustomerServices/hometeam50caremembership/index.htm">Hometeam 50 Care Membership</a></li>
-                                        <li><a href="/Home/CustomerServices/Boilersandcentralheating/index.htm">Boilers and Central Heating   
-</a></li>
-                                        <li><a href="/Home/CustomerServices/npowerSolarPV/index.htm">npower Solar PV 
-</a></li>
-                                        <li><a href="/Home/CustomerServices/npowerElectricVehicles/index.htm">npower Electric Vehicles 
-</a></li>
-                                        <li><a href="/Home/CustomerServices/Cavitywallandloftinsulation/index.htm">Cavity Wall and Loft Insulation</a></li>
-                                        </ul>
-                                </div>
-                                <div class="column third" style="z-index: 976;">
-                                        <h2>Customer support</h2>
-                                        <ul>
-                                        <li><a href="/Home/CustomerServices/Emergencies/index.htm">Emergencies</a></li>
-                                        <li><a href="/Home/CustomerServices/Debt-management/index.htm">Debt management</a></li>
-                                        <li><a href="/Home/CustomerServices/Customer-information/index.htm">Customer information</a></li>
-                                        <li><a href="https://customerservices.npower.com/app/answers/list/">FAQs</a></li>
-                                        <li><a href="/Home/CustomerServices/Contact-customer-services/index.htm">Contact us</a></li>
-                                        </ul>
-                                </div>
-                                <div class="column last" style="z-index: 975;">
-                                        <a href="/Home/Moving-home/index.htm" title="Click here to let us know your moving home"><img alt="Moving home? Need some help? Let us know your moving and try some of our handy tools and services." src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_moving_home.gif"></a>
-                                </div>
-                            </div>
-			
-	  		</div><!-- END OF NAV_SECONDARY -->  
+ 
+          </div>
+          <div class="list-column-last" style="z-index: 979;">
+          <a href="/home/electricity-and-gas/products/juice/index.htm" title="Click here to find out more about npower Juice"><img width="222" height="173" alt="npower Juice, Green energy at no extra cost" src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_juice.gif"></a>
+          </div>
+        </li>
+      </ul>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+    <li class="level1-li sub customer-services">
+      <a href="/home/customerservices/index.htm" class="level1-a custServ">Customer services<!--[if gte IE 7]><!--></a>
+
+      <!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><![endif]-->
+      <ul class="list-container">
+        <li class="inner-container">
+          <div class="list-column" style="z-index: 978;">
+          <span class="title">Your account</span>
+            <ul>
+                                        <li><a href="/home/customerservices/meterreading/index.htm" title="Send meter readings">Send meter readings</a></li>
+                                        <li><a href="/mybills/" title="View or pay my bills">View or pay my bills</a></li>
+                                        <li><a href="/home/customerservices/change-my-details/index.htm" title="Change my details">Change my details</a></li>
+                                        <li><a href="/setupdd/" title="Setup a Direct Debit">Setup a Direct Debit</a></li>
+            </ul>
+          </div>
+          <div class="list-column" style="z-index: 977;">
+           <span class="title">Customer help</span>
+                        <ul>
+                                        <li><a href="/home/customerservices/emergencies/index.htm" title="Emergencies">Emergencies</a></li>
+                                        <li><a href="/home/customerservices/customer-information/index.htm" title="Customer information">Customer information</a></li>
+                                        <li><a href="https://customerservices.npower.com/app/answers/list/" title="FAQs">FAQs</a></li>
+                                        <li><a href="/home/customerservices/energy-services-help/index.htm" title="Energy services">Energy services</a></li>    
+						</ul>
+          </div>
+          <div class="list-column second-last" style="z-index: 976;">
+           <span class="title">Customer support</span>
+            <ul>
+                                        <li><a href="/home/customerservices/contact-customer-services/index.htm" title="Contact us">Contact us</a></li>
+                                        <li><a href="/home/customerservices/contact-customer-services/complaints/index.htm" title="Complaints">Complaints</a></li>
+                                        <li><a href="/home/customerservices/debt-management/index.htm" title="Debt management">Debt management</a></li>
+                                        <li><a href="/home/customerservices/index.htm" title="All customer services">All customer services</a></li>
+            </ul>
+ 
+          </div>
+          <div class="list-column-last" style="z-index: 975;">
+          <a href="/home/moving-home/index.htm" title="Click here to let us know your moving home"><img alt="Moving home? Need some help? Let us know your moving and try some of our handy tools and services." src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/sg_dropdown_moving_home.gif"></a>
+          </div>
+        </li>
+      </ul>
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+    <li class="level1-li sub support">
+      <a href="https://customerservices.npower.com/app/answers/list/" class="level1-a faq">FAQ<!--[if gte IE 7]><!--></a>
+      <!--<![endif]-->
+      <!--[if lte IE 6]><table><tr><td><![endif]-->
+
+      
+      <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+    </li>
+  </ul>
+
+</div><!-- END OF NAV_SECONDARY -->  
 				
     </div> <!-- END OF HEADER -->  
 
@@ -570,11 +416,10 @@ html { height:100%; overflow-y:auto; margin:0; }
 
 
 
-
+					
+<!-- HEADER AREA END -->
   <div id="wrapper_content_background" style="z-index: 974;">
-  
     <div id="wrapper_content" style="z-index: 973;">
-
 		<!--SS_BEGIN_SNIPPET(fragment2,1)--> 
 				<!--SS_END_SNIPPET(fragment2,1)-->	
 
@@ -741,7 +586,7 @@ html { height:100%; overflow-y:auto; margin:0; }
 <p>If you have any questions or if you feel that we are not complying with the terms of this privacy policy please do contact us through npower.com <a href="/web/At_home/customer_service/contact_us/customer_enquiry/index.htm">Contact Customer Service</a> and choose the "Other" option from the drop down list</p>
 </div><!--SS_END_ELEMENT(MainRegion_element1)--> 
 
-   	</div>
+								</div>
 
 			<div id="rhb" style="z-index: 970;">
         	
@@ -777,145 +622,109 @@ html { height:100%; overflow-y:auto; margin:0; }
 
 <!--SS_END_OPENREGIONMARKER(FOOTER)-->
 <!--SS_BEGIN_ELEMENT(FOOTER_element1)--><div id="wrapper_seo" style="z-index: 969;">
-<div class="seo" style="z-index: 968;">
+<div class="back_to_top" style="z-index: 968;"></div>
+
+<div class="seo" style="z-index: 967;">
+<ul class="clearfix">
+<li class="unit title">
+<h3>Electricity and gas</h3>
+
 <ul>
-<li class="title"><a title="Electricity &amp; Gas" href="/Home/Electricity-and-gas/Products/index.htm">Electricity &amp; Gas</a></li>
+<li><a href="/home/electricity-and-gas/products/index.htm" title="Find out more about our products">View our products</a></li>
 
-<li><a title="Find out more about products" href="/Home/Electricity-and-gas/Products/index.htm">View our products</a></li>
+<li><a href="/at_home/Applications/QAndS/Evo1/quote.aspx?workflow=QuoteAndSwitch" title="Find out more about switching to npower">Switch to npower</a></li>
 
-<li><a title="Find out more about green energy" href="/Home/Energy-efficiency/index.htm">Green energy</a></li>
-
-<li><a title="Find out more about types of meter" href="/Home/Electricity-and-gas/Types-of-meter/index.htm">Types of meter</a></li>
-
-<li><a title="Find out more about how to switch" href="/Home/Electricity-and-gas/How-to-switch/index.htm">How to switch</a></li>
-
-<li><a title="Find out more about electricity and gas prices" href="/Home/Electricity-and-gas/Electricity-and-gas-prices/index.htm">Electricity &amp; gas prices</a></li>
+<li><a href="/business/electricity-and-gas/index.htm" title="Find out more about business energy">Business energy</a></li>
 </ul>
+</li>
+
+<li class="unit title">
+<h3>Energy efficiency</h3>
 
 <ul>
-<li class="title"><a title="npower hometeam" href="/Home/npower-hometeam/index.htm">npower hometeam</a></li>
+<li><a href="/home/energy-efficiency/saving-energy/index.htm" title="Find out more about saving energy">Saving energy</a></li>
 
-<li><a title="Find out more about boiler services" href="/Home/npower-hometeam/Servicing/Gas-boiler-service/index.htm">Boiler services</a></li>
+<li><a href="/home/energy-efficiency/home-insulation/index.htm" title="Find out more about insulating your home">Insulating your home</a></li>
 
-<li><a title="Find out more about home insulation" href="/Home/Energy-efficiency/Home-insulation/index.htm">Home insulation</a></li>
-
-<li><a title="Find out more about breakdown cover" href="/Home/npower-hometeam/Care-products/index.htm">Breakdown cover</a></li>
-
-<li><a title="Find out more about saving energy" href="/Home/Energy-efficiency/Saving-energy/index.htm">Saving energy</a></li>
-
-<li><a title="Find out more about carbon monoxide alarm" href="/Home/npower-hometeam/Heating-system-solutions/Carbon-monoxide-alarms/index.htm">CO alarms</a></li>
+<li><a href="/home/energy-efficiency/selling-your-energy/index.htm" title="Find out more about generating energy">Generating energy</a></li>
 </ul>
+</li>
+
+<li class="unit title">
+<h3>Boilers and heating</h3>
 
 <ul>
-<li class="title"><a title="Business energy" href="/Business/">Business energy</a></li>
+<li><a href="/home/npower-hometeam/index.htm" title="Find out more about boiler and central heating care">Boiler and central heating care</a></li>
 
-<li><a title="Find out more about business electricity and gas" href="/Business/Electricity-and-gas/index.htm">Business electricity and gas</a></li>
+<li><a href="/home/npower-hometeam/servicing/gas-boiler-service/index.htm" title="Find out more about servicing your boiler">Servicing your boiler</a></li>
 
-<li><a title="Find out more about how to switch" href="/Business/Quote-and-switch/How-to-switch/index.htm">How to switch</a></li>
-
-<li><a title="Find out more about SmartStart" href="/Business/SmartStart/index.htm">SmartStart</a></li>
-
-<li><a title="Find out more about energy management" href="/Corporate/Energy-management/index.htm">Energy management</a></li>
-
-<li><a title="Find out more about risk management" href="/Corporate/Risk-management/index.htm">Risk management</a></li>
-
-<li><a title="Find out more about online services" href="/Corporate/Online-services/index.htm">Online services</a></li>
+<li><a href="/home/npower-hometeam/repair/pay-as-you-go-central-heating-repair/index.htm" title="Find out more about repairing your boiler">Repairing your boiler</a></li>
 </ul>
+</li>
+
+<li class="unit title last">
+<h3>Manage my account</h3>
 
 <ul>
-<li class="title"><a title="Energy efficiency" href="/Home/Energy-efficiency/index.htm">Energy efficiency</a></li>
+<li><a href="/mybills/" title="Find out more about viewing or paying bills">View or pay your bills </a></li>
 
-<li><a title="Find out more about green products" href="/Home/Electricity-and-gas/Products/Juice/index.htm">Green products</a></li>
+<li><a href="/meterread/" title="Find out more about sending a meter read">Send a meter reading</a></li>
 
-<li><a title="Find out more about green for your home" href="/Home/Energy-efficiency/index.htm">Green for your home</a></li>
-
-<li><a title="Find out more about buying green energy" href="/Home/Energy-efficiency/Selling-your-energy/index.htm">Buying green energy</a></li>
-
-<li><a title="Find out more about renewable energy" href="/Business/Flexible-energy-solutions/Renewable-energy/index.htm">Renewable energy</a></li>
-
-<li><a title="Find out more about energy efficiency" href="/Home/Energy-efficiency/Saving-energy/index.htm">Energy efficiency</a></li>
-
-<li><a title="Find out more about how to save this winter" href="http://www.direct.gov.uk/en/Nl1/Newsroom/DG_199725">Save this winter (DECC)</a></li>
+<li><a href="/home/customerservices/contact-customer-services/index.htm" title="Find out more about contacting us">Contact us</a></li>
 </ul>
+</li>
 
-<ul>
-<li class="title"><a title="Customer services" href="/Home/CustomerServices/index.htm">Customer services</a></li>
-
-<li><a title="Find out more about my npower" href="/mynpower/">My npower</a></li>
-
-<li><a title="Find out more about sending a meter read" href="/meterread/">Send a meter reading</a></li>
-
-<li><a title="Find out more about viewing or paying bills" href="/mybills/">View or pay my bills</a></li>
-
-<li><a title="Find out more about getting a Direct Debit Quote" href="/setupdd/">Get a Direct Debit Quote</a></li>
-
-<li><a title="Find out more about moving home" href="/Home/Moving-home/index.htm">Moving home</a></li>
-
-<li><a title="Send us your Feedback" href="http://surveys.ipsosinteractive.com/wix/p294873985.aspx">Send us your Feedback</a></li>
-
-<li><a href="https://customerservices.npower.com/app/answers/list/">FAQ</a></li>
-
-<li><a title="Find out more about how to contact us" href="/Home/CustomerServices/Contact-customer-services/index.htm">Contact us</a></li>
+<li style=" list-style: none;">
+<div style="clear: both; z-index: 966;">&nbsp;</div>
+</li>
 </ul>
 </div>
 </div>
 
-<div id="wrapper_footer" style="z-index: 967;">
-<div class="footer" style="z-index: 966;">
-<ul class="top_links">
-<li><a title="About npower" href="/Home/About-npower/">About npower</a> |&nbsp;</li>
+<div id="wrapper_footer" style="z-index: 965;">
+<div class="footer" style="z-index: 964;">
+<ul class="top_links clearfix">
+<li><a href="/home/about-npower/" title="About npower">About npower</a></li>
 
-<li><a title="Sitemap" href="/web/At_home/SiteMap/index.htm">Sitemap</a> |&nbsp;</li>
+<li><a href="http://www.npowerjobs.com/" title="npower jobs" target="_blank">npower jobs</a></li>
 
-<li><a title="Terms &amp; conditions" href="/Home/Terms-and-conditions/Website-terms/index.htm">Terms &amp; conditions</a> |&nbsp;</li>
+<li><a href="/education/web/homepage/index.htm" title="npower education" target="_blank">npower education</a></li>
 
-<li><a title="Privacy policy" href="/Home/Terms-and-conditions/Privacy-policy/index.htm">Privacy policy</a> |&nbsp;</li>
+<li><a href="http://www.npowermediacentre.com/" title="Media centre">Media centre</a></li>
 
-<li><a title="Media centre" href="http://www.npowermediacentre.com/">Media centre</a> |&nbsp;</li>
+<li><a href="/home/site-map/index.htm" title="Sitemap">Sitemap</a></li>
 
-<li><a title="Contact" href="/Home/Contact-us-choice/index.htm">Contact</a></li>
+<li><a href="/home/terms-and-conditions/website-terms/index.htm" title="Terms &amp; conditions">Terms &amp; conditions</a></li>
 
-<li class="copyright">© npower 2011</li>
-</ul>
+<li><a href="/home/terms-and-conditions/privacy-policy/index.htm" title="Privacy policy">Privacy policy</a></li>
 
-<ul class="bottom_links">
-<li><a target="_blank" title="npower Brighter Energy Debate" href="http://thebrighterenergydebate.npower.com">npower Brighter Energy Debate</a> |&nbsp;</li>
+<li><a href="/home/terms-and-conditions/cookies/index.htm" title="Cookies">Cookies</a></li>
 
-<li><a title="npower Football League" href="/fl/index.htm">npower Football League</a> |&nbsp;</li>
-
-<li><a target="_blank" title="npower cricket" href="/Cricket/web/Home/index.htm">npower cricket</a> |&nbsp;</li>
-
-<li><a target="_blank" title="npower renewables" href="http://www.rwe.com/web/cms/en/250908/rwe-npower-renewables/">npower renewables</a> |&nbsp;</li>
-
-<li><a target="_blank" title="npower education" href="/Education/web/homepage/index.htm">npower education</a> |&nbsp;</li>
-
-<li><a target="_blank" title="npower jobs" href="http://www.npowerjobs.com/">npower jobs</a></li>
+<li class="copyright">© npower 2012</li>
 </ul>
 </div>
 </div><!--SS_END_ELEMENT(FOOTER_element1)--> 
 
-<!-- Updated 27.06.11 - tracking fix -->
+<!-- UCM_INCLUDES File - Updated: 30/03/2012  -->
+<!-- Updated 03.05.12 -->
 
 	<!-- SME Overlay -->
-    <div class="overlaybox" id="sme_overlay" oncookiehide="BusinessLink" style="z-index: 965;"><div class="ob_rendered">
+    <div class="overlaybox" id="sme_overlay" oncookiehide="BusinessLink" style="z-index: 963;"><div class="ob_rendered">
 <a href="JavaScript:f7.h0('sme_overlay')" class="ob_close">X</a>
 <div class="ob_body">
 		<span class="HTMLContent" title="/idc/groups/wcms_content/@wcms/documents/digitalassets/sme_choice_overlay.html" defer="true"></span>
 	</div>
 </div></div>
+		
 	
-	
-	<!-- START OF SmartSource Data Collector TAG -->
+	<!-- Cookie optout for WebTrends -->
+	<!-- START OF SmartSource Data Collector TAG . -->
 	<!-- Copyright (c) 1996-2011 WebTrends Inc.  All rights reserved. -->
-	<!-- Version: 9.3.0 -->
-	<!-- Tag Builder Version: 3.1  -->
-	<!-- Created: 4/14/2011 10:45:06 AM -->
-
 			<script src="/idc/groups/wcms_content/@wcms/@resi/documents/digitalassets/webtrends_base_tag.js" type="text/javascript"></script>
-	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- -->
 	<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
 	<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-	<!-- ----------------------------------------------------------------------------------- -->
+	<!-- -->
 	<script type="text/javascript"> 
 	//<![CDATA[
 	    var _tag = new WebTrends();
@@ -939,10 +748,10 @@ html { height:100%; overflow-y:auto; margin:0; }
 	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsi64uzivz5bdfad3vpwybei_8l9q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.npower.com"/></div>
 	</noscript>
 	<!-- END OF SmartSource Data Collector TAG -->
-
- 
-<!-- begin Marin Software Tracking Script -->
-<div style="display: none; z-index: 964;">
+	
+	
+<!-- begin Marin Software Tracking Script . -->
+<div style="display: none; z-index: 962;">
 <script type="text/javascript">
     var _marinClientId = "qyu67ohai0";
     var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -955,11 +764,118 @@ _marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
     } catch (err) { }
 </script>
 <noscript>
-<img src="https://tracker.marinsm.com/tp?act=1&cid=qyu67ohai0&script=no" >
+<img src="https://tracker.marinsm.com/tp?act=1&amp;cid=qyu67ohai0&amp;script=no" alt="">
 </noscript>
 </div>
 <!-- end Copyright Marin Software -->
- 
+<!-- Google Analytics -->
+<script type="text/javascript"> 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-2857785-1']); 
+  _gaq.push(['_setDomainName', 'npower.com']); 
+  _gaq.push(['_trackPageview']); 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+
+</script>
+
+<!-- START jQUERY to show/hide cookie bar-->
+  <script type="text/javascript">
+    /*!
+     * jQuery Cookie Plugin
+     * https://github.com/carhartl/jquery-cookie
+     *
+     * Copyright 2011, Klaus Hartl
+     * Dual licensed under the MIT or GPL Version 2 licenses.
+     * http://www.opensource.org/licenses/mit-license.php
+     * http://www.opensource.org/licenses/GPL-2.0
+     */
+    (function($) {
+        $.cookie = function(key, value, options) {
+
+            // key and at least value given, set cookie...
+            if (arguments.length > 1 && (!/Object/.test(Object.prototype.toString.call(value)) || value === null || value === undefined)) {
+                options = $.extend({}, options);
+
+                if (value === null || value === undefined) {
+                    options.expires = -1;
+                }
+
+                if (typeof options.expires === 'number') {
+                    var days = options.expires, t = options.expires = new Date();
+                    t.setDate(t.getDate() + days);
+                }
+
+                value = String(value);
+
+                return (document.cookie = [
+                    encodeURIComponent(key), '=', options.raw ? value : encodeURIComponent(value),
+                    options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+                    options.path    ? '; path=' + options.path : '',
+                    options.domain  ? '; domain=' + options.domain : '',
+                    options.secure  ? '; secure' : ''
+                ].join(''));
+            }
+
+            // key and possibly options given, get cookie...
+            options = value || {};
+            var decode = options.raw ? function(s) { return s; } : decodeURIComponent;
+
+            var pairs = document.cookie.split('; ');
+            for (var i = 0, pair; pair = pairs[i] && pairs[i].split('='); i++) {
+                if (decode(pair[0]) === key) return decode(pair[1] || ''); // IE saves cookies with empty string as "c; ", e.g. without "=" as opposed to EOMB, thus pair[1] may be undefined
+            }
+            return null;
+        };
+    })(jQuery);
+
+
+    
+    if ($.cookie('np_mc') !== '1') { // If no cookie has been set, display the cookie bar:
+
+      $(function() {
+        $('.cookie-bar-wrap').slideDown('slow');
+      });
+
+      $('.cookie-yes').click(function() {
+        $('.cookie-bar-wrap').slideUp('slow');
+      });
+
+    } 
+  </script>
+
+<!-- END -->
+
+<!-- START Cookie bar overlay -->
+  <div class="overlaybox" id="myoverlay" style="z-index: 961;"><div class="ob_rendered">
+<a href="JavaScript:f7.h0('myoverlay')" class="ob_close">X</a>
+<div class="ob_body">
+    <div class="cookie-overlay" style="z-index: 960;">
+        <h2>What are Cookies?</h2>
+
+        <p>Cookies are small text files that are saved to your computer when you visit websites. npower uses cookies to improve your experience when using our websites.</p>
+
+        <p>To complete product purchases or manage your account, you need to have cookies enabled.  If you don't wish to enable cookies, you will still be able to browse our website but some functionality will be restricted.</p>
+
+        <p>We are currently working on ways to improve privacy and cookie preferences to comply with recent changes to legislation and to allow you to have greater control in managing your privacy on our websites.</p>
+
+        <p><a href="/home/terms-and-conditions/cookies/index.htm" title="Cookie policy" onclick="dcsMultiTrack('DCSext.cookie_link','View our cookie policy');">View our cookie policy</a></p>
+
+        <h2>Managing Cookies</h2>
+        
+        <p>If you wish to restrict or block the use of cookies on your computer when you visit an npower website, you can do this through your browser settings. The "Help" function within your browser should give details of how to manage cookies and how to delete cookies already on your computer.</p>
+        
+        <p>For further information on cookies and how you can control how these are used, you can visit <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>.</p>
+    </div>
+  </div>
+</div></div>
+
+<!-- END -->
 
 
 <div id="np_overlay" style="display: none;"></div></body></html>
