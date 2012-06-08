@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagedentrepreneur.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217112826id_/http%3A//www.simplewealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagedentrepreneur.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608134258id_/http%3A//www.simplewealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SimpleWealth
 
@@ -28,38 +28,4 @@ SimpleWealth Inc.
 Suite 300, 1716 – 16 Avenue NW  
 Calgary, Alberta, Canada T2M 0L7  
   
-* I am absolutely impressed with the level of integrity that Greg operates, both on a personal and professional level, and with his dedication to his client. He’s a true leader. I’m so impressed with the caliber of the quality of his content. 
-
-Mike Koenigs  
-Co-Founder, Traffic Geyser & Monster Follow-Up
-
-Greg is truly a jewel!  Your confident, supportive, knowledgeable and true-blue style of teaching is truly remarkable and inspirational.  Thank you for sharing yourself and your knowledge in such a clear and systematic way.
-
-Janet Chin-Lyn  
-Mahwah, NJ
-
-It far exceeded my expectations as far as the quality and quantity of information presented – it was really impressive. I will continue to do courses through you. 
-
-Suzanne Gonsalves  
-Calgary, AB
-
-* ### From Twitter  
-Follow Us: [@SimpleWealth](http://twitter.com/#!/SimpleWealth)
-
-  * Webinar tonight on the 3 Critical Marketing Mistakes that Entrepreneurs Make! Register here: <http://t.co/PqSbdllI> [#](http://twitter.com/SimpleWealth/statuses/128854825919201280)
-  * It's never too late to become the Trusted Authority. <http://t.co/sKOxa43p> Come check it out. We are opening the floodgates tomorrow! [#](http://twitter.com/SimpleWealth/statuses/126693209115082752)
-  * [@seattlesounddj](http://twitter.com/seattlesounddj) Glad you are getting value out of them! [#](http://twitter.com/SimpleWealth/statuses/124908841484820481)
-  * Steve Jobs had a profound impact on my life, and I just realized it when I wrote an article for my blog. It's been... <http://t.co/Qstw7PSI> [#](http://twitter.com/SimpleWealth/statuses/122696432472961024)
-  * Just posted a great interview with my dear friend Janet Bray Attwood, co-author of The Passion Test. Insight into... <http://t.co/QBkZxtW> [#](http://twitter.com/SimpleWealth/statuses/109307523181445120)
-  * <http://lnkd.in/QaSzXr> Thanks Holly! On behalf of Greg, Kourosh and SimpleWealth, It's been fun working with everyone like you as well :) [#](http://twitter.com/SimpleWealth/statuses/96718503926702080)
-  * [@river1ina](http://twitter.com/river1ina) Thanks for sharing all our messages! [#](http://twitter.com/SimpleWealth/statuses/96323943660654593)
-  * [Blog] Chasing passive income is a sure-fire path to financial disaster. Watch this video now: <http://ow.ly/5OFyr> [#](http://twitter.com/SimpleWealth/statuses/96250456107520000)
-  * How Passive Income Can Cripple You <http://nblo.gs/kV9NB> [#](http://twitter.com/SimpleWealth/statuses/96248025395113985)
-  * I posted 54 photos on Facebook in the album "Engage Today 2011" <http://fb.me/HILp85ag> [#](http://twitter.com/SimpleWealth/statuses/96047186999123968)
-
-
-
-  
-
-
-[](http://networkedblogs.com/ "NetworkedBlogs")
+© 2012 SimpleWealth. All Rights Reserved.
