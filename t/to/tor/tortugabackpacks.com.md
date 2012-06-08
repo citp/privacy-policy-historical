@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tortugabackpacks.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209045712id_/http%3A//www.tortugabackpacks.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tortugabackpacks.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608082011id_/http%3A//www.tortugabackpacks.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tortuga Backpacks
 
