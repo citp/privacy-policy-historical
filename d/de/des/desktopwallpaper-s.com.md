@@ -1,43 +1,26 @@
-> *The following text is extracted and transformed from the desktopwallpaper-s.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125101218id_/http%3A//desktopwallpaper-s.com/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopwallpaper-s.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608081729id_/http%3A//desktopwallpaper-s.com/privacy_policies.php) for the most accurate reproduction.*
 
 # Privacy Policy for the Website
 
 ### Privacy Policy for the Website.
 
-Last Updated: March 21, 2009
+Last Updated: March 29, 2012
 
-This privacy policy describes how the website, collects and uses information from users. The Yield Manager Site is the web-based user interface for the technology. This site is used primarily by Right Media and its customers, and their employees and agents.
+Your privacy on the Internet is of the utmost importance to us. This document outlines the types of information we receive and collect when you use our services and what we do with them.
 
-We collect Web usage information when Web visitors access our Web sites, including IP address, Web browser and operating system types, Web pages visited on our Web sites, time spent on our Web pages, and return visits to our Web sites. We may combine Web usage information with personal identifying information. We comply with all applicable laws and regulations, including the Children's Online Privacy Protection Act.
+**Information Automatically Logged**  
+During your visit, we does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, [Desktopwallpaper-s.com](http://desktopwallpaper-s.com/) obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website.
 
-How we use cookies, Web beacons, etc.
+**Wallpaper Images**  
+Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. All images displayed on the site are provided only for personal use as wallpaper on computers, cell phones and other personal electronic devices. In case of an error where you are the owner of an image and feel it is used unknowingly, please [contact us](mailto:100backgrounds@gmail.com) so we can immediately remove it from our website. We do not intend to display any copyright protected images.
 
-* Cookies are alphanumeric identifiers that a Web server sends to your computer when you visit a Web site. Cookies can contain a variety of information, such as a simple count of how often you visit a Web site or information that allows us to customize our Web site for your use. Web beacons (also known as "clear gifs" or "one-pixel gifs") are small graphic images on a Web page that allow us to monitor the activity on our Web sites or to make cookies more effective.  
-* We, may use "cookies" to tailor and improve the content we deliver to our Web visitors, to improve our Web sites by assessing which areas, features, and products are most popular, and to personalize our Web sites and make recommendations based on information, including product choices, a particular visitor has previously provided. For example, we may use a cookie to identify your state so we do not ask you to enter it more than once. We also use cookies to store user preferences.
+**External Links**  
+The site contains links to other websites. Please be aware that [Fantom-XP.com](http://www.fantom-xp.com/) is not responsible for the privacy practices or the content of such other sites. We encourage you to be aware when you leave the site or otherwise link to other sites, to read the privacy policies of each and every website that collects personally identifiable information. Present Privacy Policy applies solely to information collected by the site.
 
-* You can configure your Web browser to alert you when a Web site is attempting to send a cookie to your computer and allow you to accept or refuse the cookie. You can also set your browser to disable the capacity to receive cookies or you can delete cookies previously accepted. Some Web pages (and other Web pages) may not work correctly if you have cookies disabled.  
-* We may use advertising companies to deliver ads for offered services and products on our Web sites or on third party Web sites. These Internet ads are often called "banner ads" and may contain third-party cookies or Web beacons that allow tracking of visitors' responses to our advertisements. Although these third parties may receive anonymous Web usage information about ad viewing on such Web sites, we prohibit them from using this information for any purpose other than to assist us in measuring the effectiveness of our ads.  
-* We may also accept third party advertisements on our Web sites. You should refer to the privacy policy of these advertisers for information regarding their use of cookies and collection of information. You can visit the Network Advertising Initiative Web site to opt out of certain network advertisers' cookies.
+**Third Party Cookies**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more detailed information about cookies, [please click here](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html).
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our websites and other sites on the Internet. If you wish, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-* * *
-
-Advertising companies: 
-
-[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)
-
-DoubleClick’s Privacy Policy  
-http://emea.doubleclick.com/UK/privacy/default.aspx
-
-DoubleClick’s FAQ  
-http://www.doubleclick.com/privacy/faq.aspx
-
-DoubleClick’s DART Ad-Serving and Search Cookie Opt-Out  
-http://www.doubleclick.com/privacy/dart_adserving.aspx
-
-Yield Manager Privacy Policy  
-http://content.yieldmanager.com/privacy.html
-
-W3i Privacy Policies  
-http://www.w3i.com/privacy_policies.aspx
+**Contacting Us**  
+If you have any questions or suggestions regarding the Privacy Policy or Copyright, please contact us via following email address: [100backgrounds@gmail.com](mailto:100backgrounds@gmail.com)
