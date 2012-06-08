@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetripclip.com privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909014335id_/http%3A//thetripclip.com/tc/foot/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetripclip.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608205856id_/http%3A//thetripclip.com/tc/foot/privacy.php) for the most accurate reproduction.*
 
 # The Trip Clip - Privacy Policy
 
