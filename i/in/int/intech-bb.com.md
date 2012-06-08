@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210021820id_/http%3A//www.intech-bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608230001id_/http%3A//www.intech-bb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,5 +34,5 @@ Contact:
 
 For further issues, questions and inquiries about our privacy policy, contact us at [privacy@intech-bb.com](mailto:privacy@intech-bb.com)
 
-_*Cookie  
+ _*Cookie  
 A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by InTech-BB sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. _
