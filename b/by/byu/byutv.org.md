@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209093918id_/http%3A//byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608040227id_/http%3A//byutv.org/privacy) for the most accurate reproduction.*
 
 # BYUtv - About - Privacy
 
