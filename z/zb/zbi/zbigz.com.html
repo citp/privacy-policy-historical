@@ -1,0 +1,575 @@
+<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2012-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608053520id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title></title>
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+				<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+                
+                <link rel="stylesheet" href="css/style.min.css" type="text/css" media="screen">    
+                
+		<!--
+                <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="css/royalslider.css">
+		<link rel="stylesheet" href="css/royalslider-skins/iskin/iskin.css">
+                -->
+                <!--
+                <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+                <script type="text/javascript" src="js/core_api.js"></script>
+                <script type="text/javascript" src="js/core_api2.js"></script>
+                <script type="text/javascript" src="js/scripts.js"></script>
+		<script type="text/javascript" src="js/jquery.easing.1.3.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
+		<script type="text/javascript" src="js/royal-slider-8.1.min.js"></script>
+                <script src="js/smartajax/load.smartajax.js"></script>
+		-->
+                <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/script.min.js"></script>
+                <script src="js/smartajax/load.smartajax.js"></script>
+                <script>
+    		SmartAjax_load('js/smartajax/', function(){
+			SmartAjax.isDebug = false;
+			SmartAjax.setOptions({
+				cache: false,
+				reload: false,
+				timeout: 7,
+				containers:
+				[
+					{selector: '#content'}
+				],
+
+				before: function()
+				{
+					$('#prgbar0').show();
+
+					SmartAjax.proceed();
+				},
+				success: function()
+				{
+					SmartAjax.proceed();
+				},
+				done: function()
+				{
+					$('#prgbar0').hide();
+
+
+				}
+			});
+
+			SmartAjax.bind('a[rel=ajax]');
+			
+			//SmartAjax.bindForms('#main-form');
+			SmartAjax.bindForms('.login-forms', {
+    			history: false,
+    			timeout: 10,
+    			containers:
+    			[
+        		{selector: '#script-loader'}
+    			],
+				
+				before: function()
+				{
+					$('.prldr').show();
+					
+					SmartAjax.proceed();
+				},
+				success: function()
+				{
+					SmartAjax.proceed();
+				},
+				error: function()
+    			{
+        			alertMessage ('Server is not responding', 'Remote server is not responding. Please check your internet connection and retry, if you will see this message again try to reload the page')
+        			$('.prldr').hide();
+        			$('#login-btn, #register-btn, #send-btn, #send-btn2').removeClass('disable');
+    			},
+				done: function()
+				{
+					$('.prldr').hide();
+					
+					
+				}
+			});
+			SmartAjax.bindForms('#premium-load', {
+    			history: false,
+    			containers:
+    			[
+        		{selector: '#buy-premium-wrapper'}
+    			],
+
+				before: function()
+				{
+					$('#prgbar0').show();
+
+					SmartAjax.proceed();
+				},
+				success: function()
+				{
+					SmartAjax.proceed();
+				},
+				done: function()
+				{
+					$('#prgbar0').hide();
+
+
+				}
+			});
+			}, true);
+		</script><script src="js/smartajax/libs/historyjs/amplify.store.js"></script><div style="display: none;"></div><script src="js/smartajax/libs/historyjs/history.adapter.jquery.js"></script><script src="js/smartajax/libs/historyjs/history.js"></script><script src="js/smartajax/libs/historyjs/history.html4.js"></script><script src="js/smartajax/smartajax.js"></script>
+		 	</head>
+	<body>
+		<!-- statusbar -->
+
+<div id="statusbar"> <!-- class="login-yes"  class="premium-yes"-->
+	<ul>
+		<li class="separator"></li>
+
+		<li id="sb-main" class=""><a href="/" rel="ajax">Main</a></li>
+
+		<li class="separator" id="before-mf"></li>
+
+		<li class="navigation" id="sb-my-files"><a href="/myfiles" rel="ajax">My files</a><span></span></li>
+
+		<li class="separator"></li>
+
+		<li class="navigation" id="sb-profile"><a href="">Log in / Sign up</a></li>
+
+		<li class="separator"></li>
+
+		<li class="navigation" id="sb-premium"><a href="">Premium is</a></li>
+
+		<li class="separator"></li>
+
+
+		<li class="separator" id="before-socials"></li>
+<!--
+		<li class="navigation" id="sb-google">
+
+ 
+<g:plusone size="medium"></g:plusone>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+		</li>
+
+
+		<li class="navigation" id="sb-twitter">
+ 
+			<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+		</li>
+ -->
+
+
+		<li class="navigation" id="sb-fb-like">
+
+			<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%32Fzbigz.com&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowtransparency="true"></iframe>
+
+		</li>
+
+		<li class="separator" id="after-socials"></li>
+
+	</ul>
+	<div id="prgbar"></div>
+	<div id="prgbar0"></div>
+</div>
+		<div id="cashing-img">
+	<div id="script-loader">
+
+
+	</div>
+</div>
+<form id="load-main-in-backgrond" class="login-forms" method="post" action="/turn_on_premium"></form>
+<div id="shadow" style="height: 768px;">
+
+</div>
+
+<div id="alert" class="ui-draggable">
+	<div id="alert-title">
+		<div id="close-alert"></div>
+		<span> Alert </span>
+	</div>
+	<div id="main-alert">
+		<p></p>
+		<div id="alert-btn"> <div id="ok-btn"></div></div>
+	</div>
+</div>
+
+<ul id="notify-popup">
+</ul>
+
+<div id="select-wrapper">
+	<div id="close-select">x close</div>
+
+
+	<div id="cloud-free-wrapper">
+		<div id="cloud-free-light"></div>
+		<div id="cloud-free-btn"></div>
+	</div>
+
+
+	<div id="cloud-premium-wrapper">
+		<div id="cloud-premium-light"></div>
+		<div id="cloud-premium-btn"></div>
+	</div>
+
+	<ul id="diferences-table">
+		<div id="premium-hover-column"></div>
+		<div id="free-hover-column"></div>
+		<li class="fade-li" style="margin-bottom: 5px">
+
+			<span class="free-column" style="font-size: 16px">Free</span>
+			<span class="premium-column" style="font-size: 16px">Premium</span>
+		</li>
+
+		<li class="fade-li"><div class="diferences-table-li-bg"></div>
+			<p class="diferences-blur-title">Maximum caching speed - dedicated channels</p>
+			<p class="diferences-title">Maximum caching speed - dedicated channels</p>
+			<span class="free-column"><img src="img/no.png" alt="no" width="20" height="25"></span>
+			<span class="premium-column"><img src="img/yes.png" alt="yes" width="30" height="27"></span>
+		</li>
+		<li class="fade-li">
+			<p class="diferences-blur-title">Download speed</p>
+			<p class="diferences-title">Download speed</p>
+			<span class="free-column">&nbsp;150 KB/s</span>
+			<span class="premium-column">Unlimited</span>
+		</li>
+		<li class="fade-li"><div class="diferences-table-li-bg"></div>
+			<p class="diferences-blur-title">Maximum size of torrent</p>
+			<p class="diferences-title">Maximum size of torrent</p>
+			<span class="free-column">&nbsp;8 GB</span>
+			<span class="premium-column">Unlimited</span>
+		</li>
+		<li class="fade-li">
+			<p class="diferences-blur-title">Your files will be available in your account within</p>
+			<p class="diferences-title">Your files will be available in your account within</p>
+			<span class="free-column">&nbsp;7 days</span>
+			<span class="premium-column">Unlimited</span>
+		</li>
+		<li class="fade-li"><div class="diferences-table-li-bg"></div>
+			<p class="diferences-blur-title">Number of simultaneous downloads</p>
+			<p class="diferences-title">Number of simultaneous downloads</p>
+			<span class="free-column">&nbsp;2</span>
+			<span class="premium-column">Unlimited</span>
+		</li>
+		<li class="fade-li">
+			<p class="diferences-blur-title">Number of torrents in storage</p>
+			<p class="diferences-title">Number of torrents in storage</p>
+			<span class="free-column">&nbsp;2</span>
+			<span class="premium-column">Unlimited</span>
+		</li>
+		<li class="fade-li"><div class="diferences-table-li-bg"></div>
+			<p class="diferences-blur-title">Torrents are cached only if you are on the site</p>
+			<p class="diferences-title">Torrents are cached only if you are on the site</p>
+			<span class="free-column"><img src="img/yes.png" alt="yes" width="30" height="27"></span>
+			<span class="premium-column"><img src="img/no.png" alt="no" width="20" height="25"></span>
+		</li>
+		<li class="fade-li">
+			<p class="diferences-blur-title">Ads are visible</p>
+			<p class="diferences-title">Ads are visible</p>
+			<span class="free-column"><img src="img/yes.png" alt="yes" width="30" height="27"></span>
+			<span class="premium-column"><img src="img/no.png" alt="no" width="20" height="25"></span>
+		</li>
+		<li></li>
+		
+		<!-- 
+		<br>
+		<li class="fade-li">
+			<p class="diferences-blur-title" style="left: 170px;text-align: center;">* depends on the current ZbigZ load</p>
+			<p class="diferences-title" style="left: 170px;text-align: center;">* depends on the current ZbigZ load</p>
+
+		</li>
+        -->
+	</ul>
+</div>
+
+<div id="buy-premium" class="ui-draggable">
+	<div id="buy-premium-title">
+		<div id="close-premium"></div>
+		<span class="blue-title"> Buy premium </span>
+		<span class="gray-title"></span>
+	</div>
+	<form id="premium-load" name="premium-load" method="post" action="pay.php"></form>
+	<div id="buy-premium-wrapper">
+
+	</div>
+</div>
+
+
+<div id="login-window" class="ui-draggable"> <!-- class="logined" -->
+	<div id="login-title">
+		<span id="user-email">free</span>
+		<span id="title-of-login">Please Log In or Register</span>
+
+		<div id="close-login"></div>
+		<a href="logout.php" rel="ajax"><div id="log-out-btn">Log out</div></a>
+	</div>
+	<div id="main-profile">
+		<div id="sure-logout"></div>
+
+		<ul id="profile-statusbar">
+			<li id="profile-sb-navigation-info" class="active">Profile Info</li>
+			<li id="profile-sb-navigation-notify">Notifications</li>
+			<li id="profile-sb-navigation-password">Change password</li>
+		</ul>
+
+		<div id="profile-info-layout">
+			<ul>
+				<li id="profile-storage-in-use">Storage in use:<span>0 Gb</span></li>
+				<li id="profile-dl-speed">Maximum download speed:<span>Unlimited</span></li>
+				<li id="profile-max-capacity">Maximum storage capacity:<span>Unlimited</span></li>
+				<li id="profile-storage-period">Files storage period:<span>Unlimited</span></li>
+
+			</ul>
+		</div>
+
+		<div id="profile-notify-layout">
+
+			<p id="cashed-notify">Notify by email when the files are cached:</p> <!-- class="on" -->
+			<p id="news-notify">Get news from Zbigz.com by email:</p>
+		</div>
+		<form id="notify-form" name="notify-form" class="login-forms" method="post" action="notify.php"> 
+			<input id="notify-if-cashed" type="hidden" name="notify-if-cashed">
+			<input id="notify-news" type="hidden" name="notify-news">
+			<input id="notify-email" type="hidden" name="notify-user-email">
+		</form>
+
+		<div id="profile-changepass-layout">
+			<form id="changepass-form" name="notify-form" class="login-forms" method="post" action="changepass.php"> 
+				<div id="input-wrapper-8">
+					<label>
+						<span class="input-title0">Enter old password: </span><input class="input" id="input-type-old-pass" name="password-old" type="password">
+					</label>
+				</div>
+				<div id="input-wrapper-9">
+					<label>
+						<span class="input-title1">Enter new password: </span><input class="input" id="input-type-new-pass" name="password0" type="password">
+					</label>
+				</div>
+				<div id="input-wrapper-10">
+					<label>
+						<span class="input-title2"> Retype new password: </span><input class="input" id="input-retype-new-pass" name="password1" type="password">
+					</label>
+				</div>
+				<input id="changepass-email" type="hidden" name="changepass-user-email">
+			</form>
+
+		</div>
+
+		<div id="save-btns"> 
+			<div id="save-sucsess"></div>
+			<div id="save-btn"></div>
+			<div id="profile-get-premium-wrapper">
+				<div id="extend-btn"></div>
+				<div id="get-premium-btn"></div>
+				<p id="end-premium-date">Until <span>00/00/00</span></p>
+			</div>
+			<p id="premium-on-of-status">Premium is</p>
+
+			<span class="prldr"></span>
+		</div>
+	</div>
+	<div id="main-login">
+
+		<div id="register-layout">
+			<form name="register-form" class="login-forms" method="post" action="registration.php"> 
+			<h4 id="inner-regit-title">Please fill the form to create an account.</h4>
+
+				<div id="input-wrapper-0">
+					<label>
+						<span class="input-title0">E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
+					</label>
+				</div>
+				<div id="input-wrapper-1">
+					<label>
+						<span class="input-title1"> Password: </span><input class="input" id="" title="" name="password0" type="password">
+					</label>
+				</div>
+				<div id="input-wrapper-2">
+					<label>
+						<span class="input-title2"> Retype: </span><input class="input" id="" title="" name="password1" type="password">
+					</label>
+				</div>
+				<div id="input-wrapper-3">
+					<label>
+						<input class="checkbox" id="" value="" title="" name="tofu" type="checkbox"> <span class="input-title3"> I agree with <a href=""> Terms of Use </a></span>
+					</label>
+				</div>
+			</form>
+		</div>
+
+		<div id="login-layout">
+			<form name="login-form" class="login-forms" method="post" action="/login.php"> 
+			<h4 id="inner-login-title">Enter your E-mail and password and click Log In.</h4>
+				<div id="input-wrapper-4">
+					<label>
+						<span class="input-title0"> E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
+					</label>
+				</div>
+				<div id="input-wrapper-5">
+					<label>
+						<span class="input-title1"> Password: </span><input class="input" id="" title="" name="password" type="password">
+					</label>
+				</div>
+			</form>
+		</div>
+
+		<div id="forgot-password-layout">
+			<form name="email-form" class="login-forms" method="post" action="remind.php"> 
+				<h4 id="inner-forgot-title">Please enter your E-mail.<br> We will send you instructions.</h4>
+				<div id="input-wrapper-6">
+					<label>
+						<span class="input-title0"> E-mail: </span><input class="input" id="" title="" name="e-mail" type="text">
+					</label>
+				</div>
+			</form>
+		</div>
+
+		<div id="login-btns">
+			<div id="login-btn"></div>
+			<div id="register-btn"></div>
+			<div id="send-btn"></div>
+			<p id="forgot-btn">Forgot&nbsp;&nbsp; <br> password ?</p>
+			<p id="new-member-btn">New&nbsp;&nbsp; <br> member ?</p>
+			<p id="already-member-btn">Already&nbsp;&nbsp; <br>a member ?</p>
+			<p id="back-to-login-btn">Back <br> to login</p>
+			<span class="prldr"></span>
+		</div>
+	</div>
+</div>
+<div id="support-window" class="ui-draggable">
+	<div id="help-window-title">
+		<span> Support </span>
+		<div id="close-help"></div>
+	</div>
+	<div id="help-label"></div>
+	<div id="main-help">
+		<form name="support-form" class="login-forms" method="post" action="support.php">
+			<textarea name="message" id="help-textarea" cols="" rows="" placeholder="Type your message here..."></textarea>
+			<div id="send-btn2"></div>
+			<input id="support-email" type="hidden" name="user-email">
+
+		</form>
+		<span class="prldr"></span>
+		<div id="input-wrapper-7">
+			<label>
+				<span class="input-title0"> E-mail: </span><input class="input" id="input0" title="" name="" type="text">
+			</label>
+		</div>
+	</div>
+</div>		<!-- header -->
+<div id="header">
+	<div id="header-radius-bg"></div>
+	
+	<div id="logo"><a href="/" rel="ajax"><img src="img/logo.png" alt="ZbigZ" width="132" height="58"></a></div>
+	<form id="main-form" enctype="multipart/form-data" name="upload-torrent" method="post" action="/myfiles">
+            <input type="text" id="text-link-input" name="url" value="Paste your torrent or magnet link here ...">
+            <div id="go-btn">
+                <!-- <input type="image" src="img/go-go.png" alt="go-go"> -->
+            </div>
+            <div id="input-file-wrapper">
+                <input type="file" id="file-link-input" name="file" onchange="document.getElementById('text-link-input').value = String(this.value).replace('C:\\fakepath\\','')">
+            </div>
+        </form>
+</div>
+		<div id="content" style="width: 90%; margin-left: -45%; min-height: 358px;">
+                    <br>
+<div class="content-style">
+
+
+<h3 class="style-header">Privacy policy</h3>
+
+<p>
+We take your privacy very seriously. We do not collect any personal information about our users except information which is necessary 
+for administrative purposes.
+</p>
+<p>
+We do not sell, rent or otherwise voluntarily share or disclose any your personal information with any third parties.
+</p>
+<p>
+We can use third-party advertising or other services to make Zbigz.com better. These services may use some information about your 
+activity on this site in order to provide you with more services. Even in this case your personal information is not collected (including 
+your email address, name etc.).
+</p>
+<p>
+Zbigz.com may use cookies to store some information to improve the quality of our service. Cookies are stored on your computer and 
+can be deleted by you or you can prevent the storage of cookies.
+</p>
+<p>
+Zbigz.com may update this privacy policy at any time without additional notification. All changes will be published on this page.
+</p>
+</div>
+
+
+<script>
+
+	$('#statusbar ul li.active').not('#sb-profile, #sb-premium').removeClass('active');
+    $('.separator-inverse').removeClass('separator-inverse').addClass('separator');
+    $('#footer-wrapper ul li').removeClass('active');
+    $('#page-privacy').addClass('active');
+    $(document).ready(function() { $('#page-privacy').addClass('active'); })
+					
+					
+</script> 
+                    <script>
+                        resizeOnLoad ();
+                                                    
+                        
+                                                                            
+                            
+                           
+                            
+
+                        var _gaq = _gaq || [];
+                        _gaq.push(['_setAccount', 'UA-20549564-4']);
+                        _gaq.push(['_trackPageview']);
+
+                        (function() {
+                            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                        })();
+                    </script>
+		</div>
+                <!-- footer -->
+<div id="footer">
+        <div id="footer-radius-bg"></div>
+        <div id="footer-hr-links-bg"></div>
+        <div id="footer-wrapper">
+                <ul id="ul-service">
+                        <li class="li-hr">Services</li>
+                        <li id="page-premium-overview"><a href="page-premium-overview" rel="ajax">Premium overview</a></li>
+                        <!-- <li><a href="" rel="ajax">Anonymizer</a></li>  -->
+                        <li id="page-cooperation"><a href="page-cooperation" rel="ajax">Webmasters </a></li>
+                </ul>
+                <ul id="ul-documents">
+                        <li class="li-hr">Documents</li>
+                        <li id="page-copyright"><a href="page-copyright" rel="ajax">Copyright </a></li>
+                        <li id="page-privacy" class="active"><a href="page-privacy" rel="ajax">Privacy policy</a></li>
+                        <li id="page-therms-of-use"><a href="page-therms-of-use" rel="ajax">Terms of use </a></li>
+                </ul>
+                <ul id="ul-help">
+                        <li class="li-hr">Help info</li>
+                        <li id="page-quickstart"><a href="page-quickstart" rel="ajax">Quick start guide </a></li>
+                        <li id="page-features"><a href="page-features" rel="ajax">Features </a></li>
+                        <li id="page-how-it-works"><a href="page-how-it-works" rel="ajax">How it works? </a></li>
+                </ul>
+                <ul id="ul-share">
+                        <li class="li-hr">Join Us</li>
+                        <li class="fb"><a href="http://www.facebook.com/pages/ZbigZcom-official/217938498301702" target="_blank">Facebook</a></li>
+                        <!-- <li class="tw"><a href="">Twitter</a></li>
+                        <li class="gp"><a href="">Google +</a></li>  -->
+                </ul>
+        </div>
+</div>	
+</body></html>
