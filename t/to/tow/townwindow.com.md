@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the townwindow.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217065026id_/http%3A//www.townwindow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townwindow.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608084535id_/http%3A//www.townwindow.com/privacy-policy) for the most accurate reproduction.*
 
 # town window.com, privacy policies, privacy of data, privacy of listing, privacy
 
-|    
-
+[](http://www.townwindow.com/impulse-classes-bhopal)[](http://www.townwindow.com/wp-content/uploads/ads/mp_panch_parmeshwer_ads.jpg) |  [](http://www.townwindow.com/elevator-bank-coaching-bhopal)
 
 * * *
 
@@ -33,5 +32,6 @@ If you are our corporate customer, it is possible that we have entered into a co
 
 If you have questions or concerns about these privacy policies; please send us an email at wecare@townwindow.com
 
-|   
+|    
+  
 ---|---|---
