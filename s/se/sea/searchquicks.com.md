@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchquicks.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906024152id_/http%3A//searchquicks.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchquicks.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608042359id_/http%3A//www.searchquicks.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Searchquicks.com- Privacy Policy
 
