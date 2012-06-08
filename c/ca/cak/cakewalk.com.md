@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209201834id_/http%3A//www.cakewalk.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewalk.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608204910id_/http%3A//www.cakewalk.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Cakewalk Privacy Policy
 
@@ -26,3 +26,5 @@ Cakewalk
 Attention: Internet Privacy Policy   
 268 Summer St   
 Boston, MA 02210 
+
+Back to Top
