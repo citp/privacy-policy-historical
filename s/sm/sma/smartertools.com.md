@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217164208id_/http%3A//www.smartertools.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608063306id_/http%3A//www.smartertools.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###  SmarterTools Privacy Policy
+####  Disclosure of Personal Information
+
+Except as described in this statement, SmarterTools will not disclose personally identifying information about our customers to third parties without consent. We may share information regarding license verification, validation, and upgrade services to registered partners of SmarterTools. From time to time, SmarterTools, our authorized partners or contracted third parties may contact customers to gauge satisfaction with our products and/or services or to gather statements about SmarterTools or our products and services for marketing and promotional purposes (i.e. white papers, case studies, testimonials etc.) on the SmarterTools website or other public-facing websites. Such statements will not be used without the customer's consent. Finally, we may access or disclose information about you when it is required by law, such as pursuant to a subpoena or other judicial order, to enforce our agreements of policies governing your use of SmarterTools products and services, and/or to protect our intellectual property rights.
+
+####  Security of Personal Information
+
+SmarterTools is committed to protecting the security of your personal information. We employ industry-standard security measures to protect the loss, misuse, and alteration of the information we collect. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. While on a secure page, site visitors will notice a security icon on the bottom of the visitor’s browser.
+
+####  Changes to Our Privacy Policy
+
+SmarterTools’ privacy policy may change from time to time. When we post changes to this privacy policy, we will revise the “last updated” date on this page.
+
+Upon request, we may provide site visitors with access to all information (including proprietary information) that we maintain about them. Please contact our sales department to request and/or correct this information.
 
 ####  Collected Information
 
@@ -19,19 +31,3 @@ SmarterTools collects and uses your information to operate and improve our site 
 We may also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. We may occasionally send emails to our customers regarding new features and upgrades to our products. Customers wishing to opt out of such emails can modify their subscriptions by logging into their customer account. Customers are responsible for maintaining the confidentiality and security of their user registration and passwords.
 
 We do not send email to non-customers, except in cases where those email addresses are used as points-of-contact when a product or service is ordered, trial licenses are issued, technical support is required, or information is requested.
-
-####  Disclosure of Personal Information
-
-Except as described in this statement, SmarterTools will not disclose personally identifying information about our customers to third parties without consent. We may share information regarding license verification, validation, and upgrade services to registered partners of SmarterTools. From time to time, SmarterTools, our authorized partners or contracted third parties may contact customers to gauge satisfaction with our products and/or services or to gather statements about SmarterTools or our products and services for marketing and promotional purposes (i.e. white papers, case studies, testimonials etc.) on the SmarterTools website or other public-facing websites. Such statements will not be used without the customer's consent. Finally, we may access or disclose information about you when it is required by law, such as pursuant to a subpoena or other judicial order, to enforce our agreements of policies governing your use of SmarterTools products and services, and/or to protect our intellectual property rights.
-
-####  Security of Personal Information
-
-SmarterTools is committed to protecting the security of your personal information. We employ industry-standard security measures to protect the loss, misuse, and alteration of the information we collect. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. While on a secure page, site visitors will notice a security icon on the bottom of the visitor’s browser.
-
-####  Changes to Our Privacy Policy
-
-SmarterTools’ privacy policy may change from time to time. When we post changes to this privacy policy, we will revise the “last updated” date on this page.
-
-Upon request, we may provide site visitors with access to all information (including proprietary information) that we maintain about them. Please contact our sales department to request and/or correct this information.
-
-_Last updated September 21, 2011_
