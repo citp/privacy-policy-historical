@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213193424id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061626id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,12 +53,14 @@ Last updated: February 2011
 
 * * *
 
-### Leave a comment via Facebook
+* * *
+
+### Click the LIKE button to join our Facebook Fan Club
+
+### We love to hear from you! Share a comment below..
 
 * * *
 
-##  Stories Around The Net
-
-[Feedbox](http://feedbox.com/)
+### Handpicked Related Articles For You:
 
 * * *
