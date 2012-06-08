@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134359id_/http%3A//www.horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608025424id_/http%3A//www.horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # Horoscope.com Privacy Policy | Free Horoscopes, Astrology, Numerology and more...
+
+| 
 
 Horoscope.com, Inc. (" **we** " or " **Horoscope.com** ") has created this privacy policy (" **Privacy Policy** ") to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized products and services (collectively, " **Offerings** ") and exchanging information on our web sites located at **Horoscope.com, AstroCenter.com and PsychicCenter.com** (" **Sites** "). This Privacy Policy outlines the privacy practices for the Sites and is incorporated into and subject to the terms and conditions of our [Terms of Service](http://www.horoscope.com/tos.html) for the Sites (the " **Terms of Service** "). If any term of this Privacy Policy is inconsistent or conflicts with any term of the Terms of Service, this Privacy Policy will control with respect to the subject matter of this Privacy Policy. Any capitalized term used but not defined in this Privacy Policy has the meaning set forth in the Terms of Service. 
 
@@ -122,3 +124,5 @@ Email: privacy@horoscope.com
 Phone: 415 615 9028
 
 This Privacy Policy was last revised on March 8 2011. 
+
+| 
