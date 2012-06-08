@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021159id_/http%3A//www.hostbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608033007id_/http%3A//www.hostbaby.com/privacy) for the most accurate reproduction.*
 
 # Welcome | HostBaby
 
 Call us: 1-888-448-6369 
 
-[](https://web.archive.org/) Websites for Musicians and Authors
+[ ](https://web.archive.org/ "Build a Website in Minutes!") Websites for Musicians and Authors
 
   * [ Features ](https://web.archive.org/features/)
   * [ Pricing ](https://web.archive.org/pricing/)
@@ -123,10 +123,11 @@ By providing your personal data to HostBaby through the Website, you consent to:
   * [ Gallery ](https://web.archive.org/gallery/)
   * [ Pricing ](https://web.archive.org/pricing/)
   * [ HostBaby For Authors ](https://web.archive.org/authors/)
+  * [ HostBaby For Bands ](https://web.archive.org/build-band-website/)
 
 
 
-####  Need help 
+####  Need Help? 
 
   * [ HostBaby Manual ](http://hostbaby.org/wiki/Main_Page)
   * [ Forgot Password? ](https://web.archive.org/members/)
@@ -146,9 +147,9 @@ By providing your personal data to HostBaby through the Website, you consent to:
 
 ####  More 
 
-  * [ CD Baby ](http://www.cdbaby.com/)
-  * [ BookBaby ](http://www.bookbaby.com/)
-  * [ FilmBaby ](http://www.filmbaby.com/)
-  * [ Disc Makers ](http://www.discmakers.com/)
+  * [ CD Baby Music Distribution ](http://members.cdbaby.com/ "Sell on iTunes and More!")
+  * [ BookBaby Self Publishing ](http://www.bookbaby.com/ "Publish Your eBook")
+  * [ FilmBaby Movie Distribution ](http://www.filmbaby.com/ "Sell Your Movie Online")
+  * [ Disc Makers CD Manufacturing ](http://www.discmakers.com/ "Get Pro Qualitytitle=")
 
 
