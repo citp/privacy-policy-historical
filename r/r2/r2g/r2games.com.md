@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209101453id_/http%3A//www.r2games.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608072619id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - R2Games
-
-Your position: R2Games > Privacy Policy
-
-###  Privacy Policy
+# Play Free Online Games, MMORPG, Browser Games - R2games
 
 We take the privacy of our customers very seriously and as you will read, you are protected by our commitment to the following: 
 
