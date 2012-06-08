@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanwaggoner.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229231910id_/http%3A//ryanwaggoner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanwaggoner.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608130122id_/http%3A//ryanwaggoner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ryan Waggoner
 
@@ -37,3 +37,14 @@ Ads appearing on any of my websites may be delivered to users by advertising par
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, I may change this Privacy Policy from time to time, and in my sole discretion. I encourage visitors to frequently check this page for any changes to the Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=This%20privacy%20policy%20was%20adapted%20from%20the%20Automattic%20%28makers%20of%20Wordpress.com%29%20privacy%20policy%2C%20which%20they%20have%20generously%20licensed%20under%20Creative%20Commons.%0D%0AIf%20you%20have%20questions%20about%20anything%20related%20to%20privacy%20contact%20me.%0D%0A%0D%0AI%2C%20Ryan%20Waggoner%2C%20operat "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&srcTitle=Ryan+Waggoner+A+web+entrepreneur+creating+value+through+social+media "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Ryan+Waggoner+A+web+entrepreneur+creating+value+through+social+media&summary=This%20privacy%20policy%20was%20adapted%20from%20the%20Automattic%20%28makers%20of%20Wordpress.com%29%20privacy%20policy%2C%20which%20they%20have%20generously%20licensed%20under%20Creative%20Commons.%0D%0AIf%20you%20have%20questions%20about%20anything%20related%20to%20privacy%20contact%20me.%0D%0A%0D%0AI%2C%20Ryan%20Waggoner%2C%20operat "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fryanwaggoner.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
