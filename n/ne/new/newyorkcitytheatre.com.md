@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkcitytheatre.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000248id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkcitytheatre.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609001308id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.*
 
 # New York Theater - Privacy
 
@@ -34,4 +34,4 @@ You may choose to opt-out of receiving future communications from www.newyorkcit
 
 If you have any questions about this privacy statement or the security practices of this site, please [contact us](http://www.newyorkcitytheatre.com/customer-support/leaving_feedback.php).
 
-[](http://www.newyorkcitytheatre.com/theaters/radiocitymusichall/theater.php?month=11&year=2011)
+[](http://www.newyorkcitytheatre.com/theaters/marquistheater/evita.php)
