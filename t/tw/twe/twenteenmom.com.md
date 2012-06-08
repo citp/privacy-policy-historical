@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the twenteenmom.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193957id_/http%3A//www.twenteenmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenteenmom.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608095533id_/http%3A//www.twenteenmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Twen TEEN Mom » Privacy Policy
-
-  
-
+# Privacy Policy : Twenteen Mom
 
   * **Your Privacy**
 
@@ -15,11 +12,11 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url — <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, [Twen Teen Mom](http://www.twenteenmom.com/) has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, [Twenteen Mom](http://www.twenteenmom.com/) has no access or control over these cookies that may be used by third party advertisers.
 
   * **Collection of Personal Information**
 
-When visiting [Twen Teen Mom](http://www.twenteenmom.com/), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting [Twenteen Mom](http://www.twenteenmom.com/), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
   * **Links to third party Websites**
 
@@ -29,8 +26,7 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of [Twen Teen Mom](http://www.twenteenmom.com/) then you may contact us [here](http://www.twenteenmom.com/contact). 
+If you have any questions regarding the privacy policy of [Twenteen Mom](http://www.twenteenmom.com/) then you may contact us [here](http://www.twenteenmom.com/contact). 
 
 
-  
 
