@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecreativeim.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209101055id_/http%3A//www.ecreativeim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeim.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608212727id_/http%3A//www.ecreativeim.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -35,3 +35,6 @@ Changing your non-public personal information.
 Ecreativeworks provides you with the opportunity to change your non-public personal information online for all registration information. Please contact Ecreativeworks to change any non-public personal information provided to us through a contact form. 
 
 If you have any questions or concerns about any privacy issues, please contact us at [privacy@ecreativeworks.com](mailto:privacy@ecreativeworks.com). 
+
+©2012 Ecreative Internet Marketing | [Site Map](http://www.ecreativeim.com/site-map) | [Privacy](http://www.ecreativeim.com/privacy) | [Terms & Conditions](http://www.ecreativeim.com/terms-and-conditions)  
+An Internet Marketing Group of Ecreativeworks, Inc. – An Industrial Web Design Company. 
