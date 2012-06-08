@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldinterestingfacts.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106074715id_/http%3A//www.worldinterestingfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldinterestingfacts.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608230745id_/http%3A//www.worldinterestingfacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Interesting Facts | Interesting Facts Around the World
 
@@ -45,4 +45,8 @@ Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "W
 
 
 
-No related posts.
+Related posts:
+
+  1. [About](http://www.worldinterestingfacts.com/about "About") World Interesting Facts provide You with interesting facts about the worlds. If you have some interesting facts, You can share with us in admin@worldinterestingfacts.com Hope You Enjoy Our Website Incoming search terms for the article:interesting facts about worldworldintrestingfacts comwww worldintrestingfacts...
+
+
