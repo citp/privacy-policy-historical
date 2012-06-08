@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208233653id_/http%3A//www.chromacademy.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromacademy.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609004958id_/http%3A//www.chromacademy.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # CHROMacademy.com e-learning for the analytical chemistry community
 
@@ -39,7 +39,7 @@ We use the information (including PI) you provide to: respond to your requests f
 
 We use other companies and individuals to perform functions on our behalf, e.g., to fulfill subscription requests; maintain our databases; send emails; process credit card information; host our community forums, search engine, website traffic management system, banner ads, web conferences, surveys, and customer request forms; and provide customer service generally. They have access to your PI to perform their functions, but they may use your PI for no other purpose and are required to process any of your PI in accordance with this Policy.
 
-The companies that bring you CHROMacademy, in accordance with the best practices in data transparency and protection, have signed a “Data Controller” agreement setting out how and what we do with your data.  _[Click to view that agreement](https://web.archive.org/web/20111208233653id_/http%3A//www.chromacademy.com/Controller_Data_Sharing_Agreement_Advanstar_Crawford_Feb24_2011.pdf)_ ****
+The companies that bring you CHROMacademy, in accordance with the best practices in data transparency and protection, have signed a “Data Controller” agreement setting out how and what we do with your data.  _[Click to view that agreement](https://web.archive.org/web/20120609004958id_/http%3A//www.chromacademy.com/Controller_Data_Sharing_Agreement_Advanstar_Crawford_Feb24_2011.pdf)_ ****
 
 **Opt-Out Option:** You can decide whether you want to receive targeted advertising and promotional information from us, but please note: Unless you opt-out, we create lists compiled from Personal Information (including e-mail addresses) gathered from this Website and may share it with carefully-selected third parties whose products and services might be of interest to you. Every time we collect PI you will be given a chance to opt-out from receiving communications from us and our other uses of your Personal Information.  Also, you may always update your communication and other preferences by visiting this link <http://chromacademy.com/contact.asp> .  So, for example, if you do not want us to use your PI to personalize third-party advertisements we display to you, please request this to us in the comments box. ****
 
