@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divinewriters.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205011550id_/http%3A//www.divinewriters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinewriters.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608050036id_/http%3A//www.divinewriters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Divine Writers
+# Divine Writers » Privacy Policy
 
   
   
