@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensevista.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004050643id_/http%3A//sensevista.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensevista.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608230611id_/http%3A//sensevista.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Sense Vista : Desktop resource for Windows Vista
 
