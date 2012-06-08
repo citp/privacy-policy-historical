@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202001205id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608060640id_/http%3A//www.frenchtoday.com/sys/privacy-policy) for the most accurate reproduction.*
 
-# French Today Privacy Policy | French Today
+# French Today Privacy Policy
 
-If you feel that we are not abiding by our posted privacy policy, please contact Camille Chevalier at [camille@frenchtoday.com](mailto:camille@frenchtoday.com) or call (+33) 09 72 14 76 68
+If you feel that we are not abiding by our posted privacy policy, please contact Camille Chevalier at [camille@frenchtoday.com](http://www.frenchtoday.com/learn-french/contact-us) or call (+33) 09 72 14 76 68
 
 #### Information Collection and Use
 
@@ -42,7 +42,7 @@ French Today is committed to protecting the safety of children online. In compli
 
 #### Correction/Updating Personal Information
 
-Our system is set up to allow each user to make corrections to his or her contact information. If your contact information has changed, please make corrections by going to the link marked your account at the top of each page in the web store (www.frenchtoday.com/store). If you have any problems with this, or would like to be removed from our list, please contact us at [camille@frenchtoday.com](mailto:camille@frenchtoday.com) or by calling (+33) 09 72 14 76 68, or by sending a letter to our mailing address:
+Our system is set up to allow each user to make corrections to his or her contact information. If your contact information has changed, please make corrections by going to the link marked your account at the top of each page in the web store (www.frenchtoday.com/store). If you have any problems with this, or would like to be removed from our list, please contact us at [camille@frenchtoday.com](http://www.frenchtoday.com/learn-french/contact-us) or by calling (+33) 09 72 14 76 68, or by sending a letter to our mailing address:
 
 French Today  
 2bis Route des Islandais  
@@ -50,4 +50,4 @@ French Today
 France
     
     
-    [Admin login (Private)](http://www.frenchtoday.com/log-in/)
+    [Admin login (Private)](http://www.frenchtoday.com/component/com_user/Itemid,136/view,login/)
