@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114954id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608042847id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-|   
----  
 |  | 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._HockeyGiant.com's Privacy Policy
@@ -35,15 +33,4 @@ Carlsbad CA, 92008
 HockeyGiant™, HockeyGiant.com™, LacrosseGiant™, HomerunGiant™, and SportsGiant™  
 are operated by and are trademarks of SportsGiant LLC.  
   
----|---  
-  
-[Bauer Hockey](http://www.hockeygiant.com/hockey-company-stores-bauer---nike-hockey-store.html) | [CCM Hockey](http://www.hockeygiant.com/hockey-company-stores-ccm-hockey-store.html)| [Easton Hockey](http://www.hockeygiant.com/hockey-company-stores-easton-hockey-store.html) | [Reebok Hockey](http://www.hockeygiant.com/hockey-company-stores-rbk-hockey-store.html)| [Mission Hockey](http://www.hockeygiant.com/hockey-company-stores-mission-hockey-store.html) | [Tour Hockey](http://www.hockeygiant.com/hockey-company-stores-tour-hockey-store.html) | [NHL Hockey Apparel](http://www.hockeygiant.com/hockey-company-stores-nhl-team-store.html)
-
-**We reserve the right to refuse or cancel any and all orders at any time due to pricing errors whether confirmed, charged or shipped. **  
-Copyright © 2000, 2011 SportsGiant, LLC. All Rights Reserved. HockeyGiant™, HockeyGiant.com™, and SportsGiant™ are operated by and are trademarks of SportsGiant LLC. ****
-
-****
-
-Prices in our stores will vary from prices on our site.
-
-HockeyGiant has been around since 2000 and is the top online retailer with the best selection of Hockey Equipment from the best manufacturers: [Bauer Hockey](http://www.hockeygiant.com/hockey-company-stores-bauer---nike-hockey-store.html), [CCM Hockey](http://www.hockeygiant.com/hockey-company-stores-ccm-hockey-store.html), [Easton Hockey](http://www.hockeygiant.com/hockey-company-stores-easton-hockey-store.html), [Reebok Hockey](http://www.hockeygiant.com/hockey-company-stores-rbk-hockey-store.html), [Mission Hockey](http://www.hockeygiant.com/hockey-company-stores-mission-hockey-store.html), [Tour Hockey](http://www.hockeygiant.com/hockey-company-stores-tour-hockey-store.html), [Eagle Hockey](http://www.hockeygiant.com/hockey-company-stores-eagle-hockey-store.html), Under Armour Hockey, [Shock Doctor](http://www.hockeygiant.com/hockey-company-stores-shock-doctor-hockey-store.html) and more along with [NHL Hockey Apparel](http://www.hockeygiant.com/hockey-company-stores-nhl-team-store.html). Our range of Hockey Equipment includes Men’s, Women’s and Junior [Ice Hockey Skates](http://www.hockeygiant.com/ice-hockey-skates.html), [Inline Hockey Skates](http://www.hockeygiant.com/inline-hockey-skates.html), [Hockey Sticks](http://www.hockeygiant.com/stick---shafts---blades-hockey-composite-sticks---shafts-one-piece-sticks.html), NHL Replica Hockey Jerseys, Practice Hockey Jerseys, [Hockey Gloves](http://www.hockeygiant.com/hockey-gloves.html), [Hockey Bags](http://www.hockeygiant.com/wheels--bearings----misc--hockey-bags.html), Hockey Protective Equipment, [Hockey Pants](http://www.hockeygiant.com/ice-inline-pants---girdles.html) and [Hockey Accessories](http://www.hockeygiant.com/wheels--bearings----misc-.html) at the best prices. Check out the most popular pages on our site so far in 2009. Our [clearance page](http://www.hockeygiant.com/clearance-items-.html) where we have amazing deals on hockey equipment as well as our [weekly specials](http://www.hockeygiant.com/this-week-s-specials.html). If hockey deals are what you’re looking for, be sure to sign up for our emails as well as follow us on Facebook, Twitter, and YouTube for our great hockey coupon offers. ****
+---|---
