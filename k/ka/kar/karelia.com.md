@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118153400id_/http%3A//www.karelia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608111844id_/http%3A//www.karelia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Karelia Software
+# Privacy Policy | Sandvox | Karelia Software
 
 This policy addresses how Biophony LLC, a California limited liability company doing business as Karelia Software, ("Biophony," "Karelia," "we," "us," or "our") and its affiliated products, web sites, and services (including but not limited to www.karelia.com, and referred to as "Karelia Products, Sites, and Services") treat personal information that we collect and receive. Personal information is generally defined as information about you that is personally identifiable (such as your name, address, email address, or phone number) and that is not otherwise publicly available.
 
@@ -19,6 +19,8 @@ Karelia Products, Sites, and Services may automatically receive and record infor
           IP addresses:  Karelia Products, Sites, and Services may obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser, and session information may be used for various purposes, including but not limited to: (1) diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; (2) estimate the total number of users visiting our web sites from specific geographical regions; (3) help determine which users have access privileges to certain content, services or resources that we may offer; (4) monitor and prevent fraud and abuse.
 
           Cookies:  A cookie is generally defined as a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. If you reject all cookies, you may not be able to use Karelia Products, Sites, and Services if you are required to log in, and you may not be able to take full advantage of all offerings. Karelia Products, Sites, and Services use their own cookies for a number of purposes, including to: (1) keep track of preferences you specify while you are using Karelia Products, Sites, and Services; (2) estimate and report our total visitor size and traffic; and (3) conduct research to improve the content and services provided by or on Karelia Products, Sites, and Services, including but not limited to determining the version of the Karelia Product, Site, or Service being launched or requested, the version of the operating system in use, and your first four language preferences.
+
+For customers and website visitors from the European Union: With regards to the European Union’s cookie directive that will be effective in May 2012, be advised that Sandvox itself does not employ cookies; however, individual plugins, including but not limited to Google Analytics, do use cookies which may require disclosure and consent under the EU directive. At present, the cookie settings on Karelia’s websites are set to “allow all cookies” to improve the efficiency of your visit and to provide us with analytic feedback about visitors’ experiences. Viewing or otherwise engaging with Karelia’s websites signifies your consent to the use of such cookies; if you do not wish to allow cookies, you should change your browser’s cookie settings before continuing.
 
 **Information Use, Sharing, and Disclosure**
 
@@ -69,4 +71,4 @@ Altadena, CA 91001
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our practices. In some instances, honoring your requests may interfere with or preclude your ability to use Karelia Products, Sites, and Services or may require us to terminate our relationship with you.
 
-Effective Date: December 19, 2005
+Effective Date: December 19, 2005; amended May 20, 2012
