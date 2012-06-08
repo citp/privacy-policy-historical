@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgainer.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624160200id_/http%3A//www.techgainer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgainer.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608041238id_/http%3A//www.techgainer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | TechGainer
+# Privacy - TechGainer - Computer and Technology Tips | TechGainer
 
 ## Please Read Our Privacy Policy Carefully :
 
