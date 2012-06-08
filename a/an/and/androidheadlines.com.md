@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidheadlines.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006084125id_/http%3A//androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidheadlines.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608190944id_/http%3A//androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Android Headlines
 
