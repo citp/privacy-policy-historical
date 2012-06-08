@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3snoop.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202000425id_/http%3A//www.w3snoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3snoop.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608043417id_/http%3A//www.w3snoop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - W3Snoop.com
 
