@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silvalifesystem.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229051138id_/http%3A//www.silvalifesystem.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvalifesystem.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608055234id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |About| Silva Life System
+# Privacy Policy | Mindvalley
 
 ### The Skinny on Our Privacy Policy
 
@@ -8,27 +8,27 @@ For those who want the short and relevant answer, we will always, ALWAYS, respec
 
 #### 1\. How’s my information going to be used?
 
-When you sign up you’ll only get relevant information about Silva, meditation, complimentary access to the Silva Method Starter Kit and programs, products or complimentary online events that pertain to meditation, spirituality, and personal growth.
+When you sign up on our Products or Services, you’ll be receiving relevant information about Mindvalley, invites to our online events, as well as information about programs or products that pertain to meditation, spirituality, and personal growth.
 
-[For full disclosure on how your information is used, head here »](http://www.silvalifesystem.com/about/privacy-policy#information)
+[For full disclosure on how your information is used, head here »](http://www.mindvalley.com/privacy-policy/#information)
 
 #### 2\. How do I to stop receiving emails from you in the future? 
 
-If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Happiness Manager will be there to assist you!
+If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Happiness Manager will be there for you!
 
-All you have to do is drop our Customer Happiness Manager an email at [support@silvalifesystem.com](mailto:support@silvalifesystem.com) or [send one from our ‘Contact’ page here »](https://web.archive.org/contact)
+All you have to do is drop our Customer Happiness Manager an email at [support@mindvalley.com](mailto:support@mindvalley.com) or [send one from our ‘Contact’ page here »](http://www.mindvalley.com/contact)
 
 #### 3\. Who’s going to get my information?
 
-Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. These emails will always be sent from us and only us. We’ll never give out your email address or any of the information you submit on this site to anyone else.
+Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. We’ll never give out your email address or any of the information you submit on this site to anyone else.
 
-[For full disclosure on how your information is used, head here »](http://www.silvalifesystem.com/about/privacy-policy#information)
+[For full disclosure on how your information is used, head here »](http://www.mindvalley.com/privacy-policy/#information)
 
 #### 4\. What if I email you guys?
 
 Your emails are confidential, we won’t share your email, data, or email address. Cool? It’s just between you and us.
 
-[More on email privacy here »](https://web.archive.org/about/privacy-policy#email)
+[More on email privacy here »](http://www.mindvalley.com/privacy-policy/#email)
 
 #### 5\. Do you guys use cookies?
 
@@ -44,17 +44,17 @@ Yup, but our cookies don’t contain any personal information. We use them to he
 
 Here’s a picture of a real cookie, because these are more delicious.
 
-[More on cookie usage here »](https://web.archive.org/about/privacy-policy#collection)
+[More on cookie usage here »](http://www.mindvalley.com/privacy-policy/#collection)
 
-We also use Web Beacons to collect non-personal data on how you use our site, such as how long did you visit our page, what web browser you’re using, what’s your operating system, and who’s your Internet service provider. This data is collected from thousands of site visits and analyzed as a whole. This helps us build a better website to match your needs.
+We also use Web Beacons to collect non-personal data on how you use our site, such as how long did you visit our page, what web browser you’re using, what’s your operating system, and who’s your Internet service provider. In addition we also use Google Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to our website. This data is collected from thousands of site visits and analyzed as a whole. This helps us build a better website to match our visitors’ needs.
 
-But if any of this feels uncomfortable to you, head here to [disable cookies and beacons on your computer »](https://web.archive.org/about/privacy-policy#disabling-cookies)
+But if any of this feels uncomfortable to you, head here to [disable cookies and beacons on your computer »](http://www.mindvalley.com/privacy-policy/#disabling-cookies)
 
 #### 6\. What if I post in one of your forums or blog posts?
 
 Occasionally we hold public discussions through forums within our site. This may be on blog posts we put up or in our membership area. Please be aware that this is public space. Would you shout out your credit card information in public? Probably not. Use this same discretion when you post in our forums and when commenting.
 
-[Learn more about our forums here »](https://web.archive.org/about/privacy-policy#forums)
+[Learn more about our forums here »](http://www.mindvalley.com/privacy-policy/#forums)
 
 #### 7\. How tech savvy are you guys when it comes to data security?
 
@@ -62,9 +62,9 @@ We’re _real_ good. We have a ton (and wide variety, may I mention) of administ
 
 It is mandatory for our tech team to wear these nerd glasses. This ensures 100% tech savviness so that you’re data is always safe.
 
-[For more on data security, click here »](https://web.archive.org/about/privacy-policy#security)
+[For more on data security, click here »](http://www.mindvalley.com/privacy-policy/#security)
 
-Got more questions? You can get a hold of our customer happiness manager at [support@silvalifesystem.com](https://web.archive.org/web/20111229051138id_/http%3A//www.silvalifesystem.com/about/:mailto:support@silvalifesystem.com) or [over here for more info »](https://web.archive.org/contact)
+Got more questions? You can get a hold of our customer happiness manager at [support@mindvalley.com](https://web.archive.org/web/20120608055234id_/http%3A//www.mindvalley.com/:mailto:support@mindvalley.com) or [over here for more info »](http://www.mindvalley.com/contact)
 
 For the full and ever so much fun legalese, just read below :)
 
@@ -82,7 +82,7 @@ Members may be asked to provide certain personal information when they sign up f
 
 ### Affiliate Links
 
-Occasionally you may have clicked on one of Silva’s affiliate links and signed up or bought something via that link. In this case, the person or organization in charge of the affiliate link will have the information that you have submitted. This may be your email address, name, address, or whatever else they asked you. If you have signed up for bought something from Silva via an affiliate link, please check the privacy policy on their site.
+Occasionally you may have clicked on one of Mindvalley’s affiliate links and signed up or bought something via that link. In this case, the person or organization in charge of the affiliate link will have the information that you have submitted. This may be your email address, name, address, or whatever else they asked you. If you have signed up for bought something from Mindvalley via an affiliate link, please check the privacy policy on their site.
 
 ### Online shopping
 
@@ -94,17 +94,12 @@ If you complete an order for some other company(ies) that may be linked to our S
 
 When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
 
-Thanks for reading our privacy policy. We know it can get a little boring, so here are some cute kittens and puppies to break up the tedium.
-
-  
-  
-  
-  
-
+Thanks for reading our privacy policy.
 
 ### Automatic collection of information
 
-**Cookies** : Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+**Cookies** : Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:   
+
 
   * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
   * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
@@ -119,6 +114,14 @@ Thanks for reading our privacy policy. We know it can get a little boring, so he
 Web Beacons: We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
 
 **Disabling Cookies and Beacons** : If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
+
+You may also opt out of the DoubleClick cookie by visiting the Google advertising opt-out page:
+
+<http://tools.google.com/dlpage/gaoptout>
+
+Or you may opt out of Google Analytics by visiting the Google Analytics Opt-out page.
+
+<http://www.google.com/policies/privacy/ads/>
 
 ### Public forums
 
@@ -139,20 +142,10 @@ We implement a variety of administrative, managerial, and technical security mea
 
 Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-### Other Important Policies We Abide By
-
-  * We will always wash our hands right after using the loo.
-  * We will send rays of energy and happiness through the Internet. (Have you received it yet?)
-  * We will always try to treat every comment or email we receive from you like a timeless classic in the leagues with Ayn Rand, Hemingway, and Charles M. Schulz.
-
-
-
 ### Revisions to this policy
 
-Our Company reserves the right to revise, amend, or modify this policy, our [Terms Of Use & Service agreement](http://www.mindvalley.com/terms-of-use/), and our other policies and agreements at any time and in any manner, by updating this posting.
+Our Company reserves the right to revise, amend, or modify this policy, our [Terms Of Use & Service agreement](http://www.mindvalley.com/terms-of-use), and our other policies and agreements at any time and in any manner, by updating this posting.
 
 ## Where to direct questions about our privacy policy…
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](https://web.archive.org/contact) provided on this website.
-
-Thanks so much for reading this thing. As a reward, here’s a LOLcat for you:
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://www.mindvalley.com/contact) provided on this website.
