@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ncleg.net privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201100832id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncleg.net privacy policy that was archived on 2012-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608062405id_/http%3A//ncleg.net/Etc/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" type="text/css" href="/Templates/NCGA.css">
@@ -134,68 +134,6 @@
         document.writeln('</select>');
     }
 
-    // Begin: Zip Code Verification
-    function USPS_Window()
-    { window.open("http://www.usps.com/zip4/", "USPS_Zip_Win", "height=440,width=475,toolbar=no,scrollbars=yes,resizable"); }
-
-    function checkZIP(txtZIP) {
-        var theEntry = "";
-        theEntry = txtZIP.value
-        illegalEntry = "Your zip code entry, \"" + theEntry + "\", is not valid. Please try again, using the format \"12345-1234\"."
-        if ((theEntry == null) || (theEntry.length == 0)) {
-            window.alert("Please enter a zip code with its four digit extension.");
-            txtZIP.focus();
-            return false;
-        }
-        else if (theEntry.length < 10) {
-            window.alert(illegalEntry);
-            txtZIP.focus();
-            txtZIP.select();
-            return false;
-        }
-        else if (!isZIPCode(theEntry)) {
-            window.alert(illegalEntry);
-            txtZIP.focus();
-            txtZIP.select();
-            return false;
-        }
-        else
-        { return true; } 
-    }
-
-    function isZIPCode(theEntry) {
-        var zip5 = "";
-        var separator = "";
-        var ext4 = "";
-        var i;
-        for (i = 0; i < 5; i++) {
-            var c = theEntry.charAt(i);
-            zip5 = zip5 + c;
-        }
-        separator = theEntry.charAt(5);
-        for (i = 6; i < 10; i++) {
-            var c = theEntry.charAt(i);
-            ext4 = ext4 + c;
-        }
-        if ((separator == "-") && allDigits(zip5) && allDigits(ext4))
-        { return true; }
-        else
-        { return false; } 
-    }
-
-    function allDigits(s) {
-        var i;
-        for (i = 0; i < s.length; i++) {
-            var c = s.charAt(i);
-            if (!isDigit(c)) return false;
-        }
-        return true;
-    }
-
-    function isDigit(c)
-    { return ((c >= "0") && (c <= "9")) }
-
-    // End: Zip Code Verification	
 // -->
 </script> 
  
@@ -438,7 +376,7 @@
                                             <option value="sChamber=H&amp;nUserID=590">Rep. Johnathan Rhyne, Jr.</option>
                                             <option value="sChamber=H&amp;nUserID=311">Rep. Deborah K. Ross</option>
                                             <option value="sChamber=H&amp;nUserID=591">Rep. Efton M. Sager</option>
-											<option value="sChamber=H&amp;nUserID=632">Rep. Jason Saine</option> 
+                                            <option value="sChamber=H&amp;nUserID=632">Rep. Jason Saine </option>
                                             <option value="sChamber=H&amp;nUserID=563">Rep. Ruth Samuelson</option>
                                             <option value="sChamber=H&amp;nUserID=627">Rep. Norman W. Sanderson</option>
                                             <option value="sChamber=H&amp;nUserID=149">Rep. Mitchell S. Setzer</option>
@@ -453,6 +391,7 @@
                                             <option value="sChamber=H&amp;nUserID=48">Rep. Joe P. Tolson</option>
                                             <option value="sChamber=H&amp;nUserID=606">Rep. John A. Torbett</option>
                                             <option value="sChamber=H&amp;nUserID=102">Rep. William L. Wainwright</option>
+                                            <option value="sChamber=H&amp;nUserID=196">Rep. Trudi Walend </option>
                                             <option value="sChamber=H&amp;nUserID=195">Rep. Edith D. Warren</option>
                                             <option value="sChamber=H&amp;nUserID=630">Rep. Harry Warren</option>
                                             <option value="sChamber=H&amp;nUserID=198">Rep. Jennifer Weiss</option>
@@ -460,7 +399,8 @@
                                             <option value="sChamber=H&amp;nUserID=503">Rep. W. A. (Winkie) Wilkins</option>
                                             <option value="sChamber=H&amp;nUserID=107">Rep. Larry Womble</option>
                                             <option value="sChamber=H&amp;nUserID=481">Rep. Michael H. Wray</option>
-                                            </optgroup><optgroup label="Senate">
+											</optgroup>
+                                            <optgroup label="Senate">
 							                <option value="sChamber=S&amp;nUserID=2">Sen. Austin M. Allran</option>
                                             <option value="sChamber=S&amp;nUserID=83">Sen. Tom Apodaca</option>
                                             <option value="sChamber=S&amp;nUserID=143">Sen. Bob Atwater</option>
@@ -472,6 +412,7 @@
                                             <option value="sChamber=S&amp;nUserID=104">Sen. Andrew C. Brock</option>
                                             <option value="sChamber=S&amp;nUserID=139">Sen. Harry Brown</option>
                                             <option value="sChamber=S&amp;nUserID=223">Sen. Peter S. Brunstetter</option>
+                                            <option value="sChamber=S&amp;nUserID=366">Sen. Chris Carney</option>
                                             <option value="sChamber=S&amp;nUserID=244">Sen. Debbie A. Clary</option>
                                             <option value="sChamber=S&amp;nUserID=54">Sen. Daniel G. Clodfelter</option>
                                             <option value="sChamber=S&amp;nUserID=295">Sen. Warren Daniel</option>
@@ -510,8 +451,10 @@
                                             <option value="sChamber=S&amp;nUserID=310">Sen. Tommy Tucker</option>
                                             <option value="sChamber=S&amp;nUserID=237">Sen. Don Vaughan</option>
                                             <option value="sChamber=S&amp;nUserID=269">Sen. Michael P. Walters</option>
+											<option value="sChamber=S&amp;nUserID=367">Sen. Wes Westmoreland</option> 
                                             <option value="sChamber=S&amp;nUserID=365">Sen. Stan White</option>
-										</optgroup></select>
+											</optgroup>
+										</select>
                                 </td>
                                 <td style="">
 										<input class="toolsContainerFormButton" name="submitButton" type="submit" value="Go"> 
@@ -548,8 +491,8 @@
 					<td class="menuItem"><a href="/Calendars/Calendars.html">Calendars</a></td> 
 					<td class="menuItem"><a href="/gascripts/Committees/Committees.asp">Committees</a></td> 
 					<td class="menuItem"><a href="/Legislation/Legislation.html">Legislation/Bills</a></td> 
-					<td class="menuItem"><a href="/gis/randr07/redistricting.html">Redistricting</a></td> 
-					<td class="menuItem"><a href="/GIS/Representation/Representation.html">Who Represents Me?</a></td> 
+					<td class="menuItem"><a href="/representation/redistricting.aspx">Redistricting</a></td> 
+					<td class="menuItem"><a href="/representation/WhoRepresentsMe.html">Who Represents Me?</a></td> 
 					<td class="menuItem"><a href="/CitizenGuide/CitizenGuide.html">Citizen Guide</a></td> 					
 				</tr>
 			</tbody></table>
