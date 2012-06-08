@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super8.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213034757id_/http%3A//www.super8.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super8.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608095900id_/http%3A//www.super8.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Super 8
 
@@ -12,11 +12,11 @@ Revised October 2008
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues.
 
-[Privacy Notice to California Customers](https://web.archive.org/web/20111213034757id_/http%3A//www.super8.com/terms-policy/california_privacy_rights)
+[Privacy Notice to California Customers](https://web.archive.org/web/20120608095900id_/http%3A//www.super8.com/terms-policy/california_privacy_rights)
 
-[Canadian Privacy Policy](https://web.archive.org/web/20111213034757id_/http%3A//www.super8.com/terms-policy/canadian-privacy-policy)
+[Canadian Privacy Policy](https://web.archive.org/web/20120608095900id_/http%3A//www.super8.com/terms-policy/canadian-privacy-policy)
 
-[Politique de confidentialité](https://web.archive.org/web/20111213034757id_/http%3A//www.super8.com/terms-policy/canadian_french_privacy_policy)
+[Politique de confidentialité](https://web.archive.org/web/20120608095900id_/http%3A//www.super8.com/terms-policy/canadian_french_privacy_policy)
 
 **Application**. This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/ or Brands.
 
