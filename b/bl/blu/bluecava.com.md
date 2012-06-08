@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231074954id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609002424id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueCava - Privacy Policy
 
 **BlueCava Online Privacy Policy**
 
-September 16, 2011 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.
+May 21, 2012 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.
 
 This privacy policy covers data collected by BlueCava for the purposes of online advertising and detection and prevention of fraud on the Internet.   A common complaint about privacy policies is they can be long, difficult to understand and include too much “legalese”. We have tried to explain what we do in simple, understandable language, and add a little humor at the same time. We welcome your comments.
 
@@ -38,7 +38,9 @@ We do not target or create audience segments targeted at children under the age 
 
 **Device Identification**
 
-BlueCava has developed device identification technology that enables us to identify devices on the Internet. In order to do this, we collect non-personal information about your computer and Web browser when you visit one of our partner Websites. The type of information we collect includes the IP address, browser version, time zone, the fonts installed on your computer, browser plug-ins and various other properties of your computer/browser. We do not collect browsing history (aka history sniffing) as part of this process. The collected information is put into a “snapshot” and is sent to our servers. The servers use the information to create a unique Device ID for every device. The cool thing is, this stuff varies enough from computer to computer than we can uniquely identify devices (very few look alike). We can only collect this information when our software is included in a software application, is on a Website, or in an online ad.
+BlueCava has developed device identification technology that enables us to identify devices on the Internet.  In order to do this, we collect non-personal information about your device and Web browser when you visit one of our partner Websites.  The type of information we collect includes the type of device, IP address, browser version, time zone, the fonts installed on your device, browser plug-ins and various other properties of your device/browser. We do not collect browsing history stored in your device (aka history sniffing) as part of this process. The collected information is put into a “snapshot” and is sent to our servers each time you visit one of our partner Websites.  The servers use the information to create a unique Device ID for every device and to “match” the device to the snapshots we receive from our partners. The cool thing is, this stuff varies enough from computer to computer than we can uniquely identify devices (very few look alike).  We can only collect this information when our software is included in a software application, is on a Website, or in an online ad.
+
+Unlike in the old days when the family used to gather around the one radio for news and entertainment (and warmth–vacuum tubes get hot!), the average 21st century household requires multiple devices for both work and play.  When we use snapshots to create a unique Device ID, we are also able to group related devices into “households” based on strong, common characteristics among the snapshots, like IP addresses.  By understanding these households, we can help our customers understand how devices are related so they can deliver content personalized to you based on your interests gathered from all your devices, no matter which device you are using and not just your primary device.
 
 **Cookies**
 
@@ -82,11 +84,9 @@ Access to customer information is restricted to authorized personnel. In other w
 
 We think targeted advertising is a good thing. But we understand that some people don’t want data collected about them online. In addition, we’re supportive of industry self-regulatory principles for online behavioral advertising. So if you like pina coladas and getting caught in the rain but don’t want anyone to know it, we can help you opt-out so we won’t tell any of our customers that you like Jimmy Buffet.
 
-We provide another option in addition to opting-out. BlueCava allows you to pick the categories of advertising you want to see. So if you prefer margaritas over pina coladas, you can use our Preferences Manager to choose the categories of ads you’ll see, and won’t see.
+When you choose to opt-out of tracking, as we recognize the device from one Website to another, we will no longer share behavioral advertising data with third parties. Of course, we don’t let you opt out-of us gathering information related to fighting online fraud, because if we did, the fraudsters would have a field day.
 
-When you choose to opt-out, as we recognize the device from one Website to another, we will not keep any behavioral advertising related information and we will no longer share behavioral advertising data with third parties. In addition, we will delete any personal information we may have about the device. Of course, we don’t let you opt out-of us gathering information related to fighting online fraud, because if we did, the fraudsters would have a field day.
-
-[Click here to opt-in, opt-out and set your preferences.](http://www.bluecava.com/preferences/ "Preferences")
+[Click here to opt-in, opt-out.](http://www.bluecava.com/preferences/ "Preferences")
 
 To opt-out from other companies that BlueCava may share information with, or other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry Websites.
 
@@ -129,4 +129,4 @@ In our view, rooting out fraud and providing better online targeting makes our e
 
 **Changes to Privacy Policy**
 
-This Privacy Policy may change from time to time.  Our Privacy Policy was last updated on September 16, 2011.
+This Privacy Policy may change from time to time.  Our Privacy Policy was last updated on May 21, 2012.
