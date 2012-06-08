@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206013734id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608182353id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # dealchecker.co.uk - Privacy Policy
 
@@ -11,6 +11,8 @@ As you use our website we may ask you to provide contact information such as an 
 We ask you to submit your email address and post code when you subscribe to our newsletter service. We may also ask you to submit contact information if you enter a competition, if you provide feedback to us or if you apply for a job with us.
 
 In addition to personal information that you choose to give us we may also collect information about your computer, this may include you IP address, operating system, web browser software, screen resolution and referring web site.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service.](http://www.clicktale.com/privacy_service.aspx)
 
   
 ****
@@ -25,6 +27,8 @@ We will not share this information with any third parties unless specifically st
 
 The information that may be collected from your computer is not linked by us in any way to any personal information that you may have submitted to us. This information is used solely for the purpose of helping us to understand how we can improve our website for our customers. 
 
+We are using the information collected by the ClickTale service to improve the usefulness of and user experience on our website. 
+
   
 ****
   * **Third Party Companies**  
@@ -38,6 +42,8 @@ Following the links in dealchecker mailings to our preference centre
 Emailing us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
 
 Where you request changes to your dealchecker subscription it can take up to five days for changes to take effect. 
+
+You can choose to disable the ClickTale Service at [http://www.clicktale.net/disable.html.](http://www.clicktale.net/disable.html)
 
   
 ****
@@ -55,5 +61,8 @@ DMC Digital Limited, Dunstan House, 2nd Floor, 14a St Cross Street, London, EC1N
 
 Or email us at [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk)
 
-
+  
+**Spam**   
+dealchecker is against spam mailings. We will only send mailings to email addresses who have requested we do so directly or through our partner organisations. We will not send unsolicited mailings.   
+If you have received a mailing which you did not request please contact us on [enquiries@dealchecker.co.uk](mailto:enquiries@dealchecker.co.uk). 
 
