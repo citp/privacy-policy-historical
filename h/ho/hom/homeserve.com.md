@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127151528id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608095600id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | About | HomeServe
 
-Homeserve Plc ('we', 'our' or 'us') is committed to protecting the privacy of our users and customers. This privacy policy ('Privacy Policy') is intended to inform you how we gather, define, and utilise personal information such as your:
+HomeServe PLC ('we', 'our' or 'us') is committed to protecting the privacy of our users and customers. This privacy policy ('Privacy Policy') is intended to inform you how we gather, define, and utilise personal information such as your:
 
-  * Name
-  * Address
-  * Home telephone number
-  * Date of birth
-  * Payment details (Direct Debt, credit/debit card number)
-  * Property type
-  * Boiler details (make and model – only applicable to heating policies)
+  * Name 
+  * Address 
+  * Home telephone number 
+  * Date of birth 
+  * Payment details (Direct Debt, credit/debit card number) 
+  * Property type 
+  * Boiler details (make and model – only applicable to heating policies) 
   * Email address
 
 
@@ -26,13 +26,13 @@ Cable Drive
 Walsall  
 WS2 7BN
 
-Homeserve Plc is the data controller of your Information for the purposes of the Act.
+HomeServe PLC is the data controller of your Information for the purposes of the Act.
 
 ## What information do we collect?
 
 When you visit our website you may provide us with two types of information:
 
-  1. personal Information you provide to us on an individual basis during Registration, as described above. In addition, if you choose to correspond with us by email, we may retain the content of your email messages together with your email address and our responses.
+  1. personal Information you provide to us on an individual basis during Registration, as described above. In addition, if you choose to correspond with us by email, we may retain the content of your email messages together with your email address and our responses. 
   2. Website use information collected as you and others browse our website.
 
 
@@ -45,6 +45,12 @@ Similar to other commercial websites, our Website utilises a standard technology
 
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
+## New cookie requirements
+
+HomeServe is aware of the new EU cookie legislation which was introduced into the UK on 25th May 2011 through The Privacy and Electronic Communications (EC Directive) Regulations 2011. As a result, we are currently reviewing our website privacy policy and use of cookies to ensure we comply with the new cookie laws.
+
+Further information on how to delete and control cookies on your computer is available from [www.aboutcookies.org.](http://www.aboutcookies.org/)
+
 ## How do we use information we collect from cookies?
 
 As you browse on our Website, the Website uses its cookies to differentiate you from other users in order to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our Website and which parts of the Website are most popular. This helps us gather feedback in order to constantly improve our Website and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
@@ -53,18 +59,18 @@ As you browse on our Website, the Website uses its cookies to differentiate you 
 
 We use your Information in the following ways:
 
-  * To ensure that content from our Website is presented in the most effective manner for you and your computer
-  * To notify you about any changes to our service.
-  * For the purpose of administering your policy, training and statistical analysis, which may require us to pass your information to our group companies and/or to our service providers.
-  * In accordance with your authorisation as expressed via 'opt-ins' at the point of Registration.
+  * To ensure that content from our Website is presented in the most effective manner for you and your computer 
+  * To notify you about any changes to our service. 
+  * For the purpose of administering your policy, training and statistical analysis, which may require us to pass your information to our group companies and/or to our service providers. 
+  * In accordance with your authorisation as expressed via 'opt-ins' at the point of Registration. 
   * If you have given your consent by 'opting in' at the point of Registration, to contact you with information about products, services and special offers that you request from us, or that we feel may be of interest to you or to ask you to participate in one of our customer satisfaction surveys.
 
 
 
 We may pass your Information to other carefully selected third party organisations:
 
-  * If we buy or sell any business or assets in which case we may disclose your Information to the seller or buyer of such business or assets.
-  * If we are under a duty to disclose or share your personal data to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.
+  * If we buy or sell any business or assets in which case we may disclose your Information to the seller or buyer of such business or assets. 
+  * If we are under a duty to disclose or share your personal data to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. 
   * If you have opted in to receive information from carefully selected third parties, to use your Information to contact you to provide you with information about other products, services and special offers which may be of interest to you.
 
 
@@ -93,4 +99,4 @@ By using our website you consent to our collection and use of your Information a
 
 ## Where do we store your personal data?
 
-The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area. Your Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Privacy Policy.
+The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area. Your Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Privacy Policy.
