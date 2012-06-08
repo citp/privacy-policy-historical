@@ -1,47 +1,58 @@
-> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310222043id_/http%3A//www.panasonic.com/pol_docs/copyright-prv.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608044540id_/http%3A//shop.panasonic.com/legal/privacy/club-panasonic.dot) for the most accurate reproduction.*
 
-# Copyright Notice, Pricing Policies & Online Privacy Statement
+# Club Panasonic Privacy Statement
 
-**Copyright Notice, Pricing Policies & Online Privacy Statement**
+## Online Privacy Statement
 
-**Copyright Notice**  
-Copyright ©1998-2010 Panasonic Corporation of North America. All rights reserved. 
+Panasonic Corporation of North America ("Panasonic USA") has created this online privacy statement in order to disclose our information gathering and dissemination practices for this site, [www.panasonic.com](http://panasonic.com/).
 
-Panasonic Corporation of North America  
-One Panasonic Way  
-Secaucus, NJ 07094 
+## Collecting Information About You
 
-Panasonic and Technics are registered trademarks of Panasonic Corporation  
-Quasar is a registered trademark of Panasonic Corporation of North America. 
+There are instances (such as when you order a product or register a product purchase) when we ask you to provide certain personal information about yourself, such as your name, shipping/billing address, telephone number and email address. We may also maintain a record of your product purchases.
 
-**Pricing & Specifications Policy**  
-Unless otherwise noted, all prices shown on Panasonic.com are either the manufacturer's suggested retail price (MSRP), U.S. list price, or (if applicable) the price for direct purchase from the PanasonicDirect store. Dealer pricing may vary. Features, specifications & pricing subject to change. Special offers or promotions are valid only for the dates indicated.
+Our site provides you the opportunity to opt into receiving communications from us and our partners at any point where we request that you provide us with your personal information. Where indicated just select the appropriate option when completing a survey or other form.
 
-**Online Privacy Statement**  
-Panasonic Corporation of North America has created this online privacy statement in order to disclose our information gathering and dissemination practices for this site, [www.panasonic.com](http://www.panasonic.com/). 
+Whether or not to provide such personal information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products or access certain content on our web site. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, even if you have opted to not receive marketing communications from us.
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address identifies you and your shopping cart, and allows us to gather broad demographic information on site visitors. 
+In general, you can visit most of our web pages without telling us who you are or revealing any personal information about yourself. We use the Internet Protocol (IP) address of the computer (or similar computing device) which you use to access or web site to help diagnose problems with our server and to administer our web site. Your IP address identifies your computer or device and, if applicable, your shopping cart, and allows us to gather broad demographic information on site visitors, but individual users will remain anonymous, unless you voluntarily tell us who you are.
 
-Parts of our sites use a browser feature called "cookies". A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie can't read data off your hard disk or read cookie files created by other sites. A cookie will not corrupt your hard drive or transmit viruses to your computer. 
+## Cookies
 
-Panasonic uses cookies to recognize visitors when they return to our sites. Once we know it's you, we can customize your online visit. For instance, when you are ready to purchase an item, a cookie allows our site to "remember" you have added the item to your shopping cart. We can also show you new products or services based on your preferences, and alert you to new Web site features. We may also evaluate our content and services and tailor our Web sites, for visitors, based on other information we collect such as IP addresses, which are numbers assigned to your computer whenever you use the Internet, pixel tags, and the type of Internet browser or operating system you are using. This information is collected in the aggregate, but we may tie it to your personal information through cookie use as described above. 
+Parts of our site use a browser feature called "cookies". A "cookie" is a small data file that is placed on the hard drive (or equivalent storage device) of your computer (or similar computing device) when you visit a web site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive; so when you end your session and return to the same web site at a later date, the cookie information is still available. A cookie will not corrupt your hard drive or transmit viruses to your computer.
 
-Our site may contain or may link to various other sites which ask to collect user information voluntarily. Your information will be used by us and may be shared with our partners for market research studies, reports, and surveys as well as for marketing purposes. Users are always given the choice to use the opt-in feature if you prefer to participate in these opportunities (see below). 
+Panasonic USA uses cookies to recognize visitors when they return to our site. Once we know it's you, we can customize your online visit. For instance, when you are ready to purchase an item, a cookie allows our site to "remember" that you have added the item to your shopping cart. We can also show you new products or services based on your preferences, and alert you to new web site features. We may also evaluate our content and services and tailor our web site, for visitors, based on other information we collect such as IP addresses, pixel tags, and the type of Internet browser or operating system you are using. This information is collected in the aggregate, but we may tie it to your personal information through use of cookies.
 
-In particular, our company contracts with Coremetrics, a service partner, to provide data collection and reports regarding our customers' activities on our Web site. Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity. Coremetrics may store visitor ID, city, state, zip code, and email address on our behalf. Under no circumstances may Coremetrics use your information other than in connection with providing services to us to make our Web site more useful and efficient. If you would like to opt-out of these particular services, please click here. 
+Panasonic USA contracts with numerous service providers to provide us with data collection and reports regarding customer activities on our web site. These service providers may use cookies on our behalf and may receive information about your browsing and buying activity. They may store visitor ID, city, state, zip code, and/or email address on our behalf. Under no circumstances may our service providers use your information other than in connection with providing services to us, so that our web site can become more useful and efficient. If you would like to opt-out of these particular services, please contact the Panasonic Privacy Administrator as indicated below.
 
-**Choice/Opt-In**  
-Our site provides users the opportunity to opt into receiving communications from us and our partners at the point where we request information about the visitor. Where indicated just select the appropriate option when completing a survey or other form. 
+## Using Information About You
 
-This site may contain links to other sites. [Panasonic.com](http://www.panasonic.com/) is not responsible for the privacy practices or the content of such Web sites, even if these sites appear as part of the Panasonic website. 
+We use any personal information that you provide to us so that we can process any orders that you place and follow up with you concerning the products that you purchase. We also use your personal information so that we may gather data and statistics concerning visitors to our web site and analyze such data to look for preferences and trends. Also, if you permit us to do so, we use your personal information so that we may inform you of new products, services and offers from Panasonic USA and from our partners.
 
-**To Contact Us**  
-Please be advised that any form of communication sent to this site, be it ideas, suggestions or any other e-mail, will be considered nonconfidential and nonproprietary. 
+We allow third-party companies to collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of material clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or similar technology to collect this information.
 
-If you have any questions about this online privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+## Protecting Children
 
-Privacy Administrator   
-Panasonic Corporation of North America  
-1 Panasonic Way   
-Panazip 2F-10   
-Secaucus, NJ 07094 
+Panasonic USA does not intentionally collect personal information from children under age 13. If a child has provided us with personal information, a parent or guardian of that child should contact the Panasonic Privacy Administrator as indicated below.
+
+## Links to Third Party Sites
+
+Our site links to various other sites which may ask you to voluntarily provide your personal information. Your information will be used by us and may be shared with our partners for market research studies, reports, and surveys as well as for marketing purposes. You will always be given the choice to opt into receiving communications from us and our partners.
+
+## Communicating With Us
+
+Any form of communication sent to this site, be it ideas, suggestions or any other e-mail, will be considered non-confidential and non-proprietary.
+
+If you have any questions about this online Privacy Policy, the practices of this site or your dealings with this site, please contact us at:
+
+  * Privacy Administrator
+  * Panasonic Corporation of North America
+  * One Panasonic Way, 2F-3
+  * Secaucus, New Jersey 07094
+
+
+
+\--or--
+
+[PanasonicPrivacyAdministrator@us.panasonic.com](mailto:panasonicprivacyadministrator@us.panasonic.com)
+
+**This Privacy Policy was last revised on November 11, 2011.**
