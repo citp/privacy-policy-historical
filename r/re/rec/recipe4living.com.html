@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the recipe4living.com privacy policy that was archived on 2011-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205121626id_/http%3A//www.recipe4living.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recipe4living.com privacy policy that was archived on 2012-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120608024459id_/http%3A//www.recipe4living.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Privacy | Recipe4Living</title>
+	 
+<title>Privacy | Recipe4Living</title>
 	<meta name="keywords" content="Recipes, cooking tips, cooking, Wolfgang Puck, kitchen tips, fun food">
 	<meta name="description" content="Looking for recipes and cooking tips? You have come to the right place! Recipe4Living offers tens of thousands of user-submitted recipes, hundreds of articles, and numerous other features--and those numbers are climbing every day. There will never be enough cooks in our kitchen, so join Recipe4Living.com today!">
 	<meta name="author" content="Recipe4Living, Recipe4Living.com">
@@ -26,7 +27,13 @@
 	</script>
 
 	<script type="text/javascript" src="/frontend/base/js/mootoolsCore.js,mootoolsMore.js,StickyWin.js,Interface.js,Nav.js,HistoryManager.js,Forms.js,BrowseArea.js,Autocompleter.js,Milkbox.js,Wizard.js,sifr.js,Slideshow.js,Articles.js?ver=6wnp"></script><link rel="stylesheet" media="screen" type="text/css" href="/frontend/recipe4living/css/autocompleter.css">
-
+	
+	<script type="text/javascript" src="/frontend/base/js/jquery.min.js,jquery.fancybox-1.3.4.pack.js,jquery.cookie.js"></script>
+	<script type="text/javascript">
+		var R4LSignUpDhtml = jQuery.noConflict();
+		var R4LDhtml = jQuery.noConflict();
+	</script>
+	
 	
 	
 	<script type="text/javascript">
@@ -120,13 +127,16 @@ if (visit == null && visit2 == null) {
 	window.name = 'chef';
 	var url = 'http://www.focusforfree.com/dispatch2.asp?home=1451-28667E-L1';
 	newwin=open(url, 'dispwin', 'width=850,height=650,scrollbars=yes,menubar=no');
-	expire=new Date(expire.getTime()+2592000000);
+	expire=new Date(expire.getTime()+7776000000);
 	document.cookie='ChefPopup=here;expires='+expire+';path=/';
 }
 // -->
 </script>
 
+
+
 <div id="nav-header">
+
 		<div class="site-wrapper" id="top-ad"></div>
 	
 		
@@ -145,90 +155,39 @@ if (visit == null && visit2 == null) {
 					<div class="clear"></div>
 				</div>
 				<input class="textinput simpletext fl default" type="text" title="Enter search keywords..." autocomplete="off" name="searchterm" value="">
-								<div class="fl" style="padding-left:5px;">
-				 	<select name="recipeslug" id="recipeslug" style="width: 100px; height: 32px; padding: 7px; display: block;">
-						<option value="">All</option>
-													<option value="/recipes/appetizers">Appetizers</option>
-													<option value="/recipes/beauty">Beauty</option>
-													<option value="/recipes/beverages">Beverages</option>
-													<option value="/recipes/breads">Breads</option>
-													<option value="/recipes/breakfast">Breakfast</option>
-													<option value="/recipes/budget_cooking">Budget Cooking</option>
-													<option value="/recipes/campbell_s_recipes">Campbell's Recipes</option>
-													<option value="/recipes/casseroles">Casseroles</option>
-													<option value="/recipes/crockpot">Crockpot</option>
-													<option value="/recipes/desserts">Desserts</option>
-													<option value="/recipes/fruits">Fruits</option>
-													<option value="/recipes/global_cuisines">Global Cuisines</option>
-													<option value="/recipes/healthy">Healthy</option>
-													<option value="/recipes/jams_jellies_butters">Jams, Jellies &amp; Butters</option>
-													<option value="/recipes/kid_friendly">Kid-Friendly</option>
-													<option value="/recipes/lunch">Lunch</option>
-													<option value="/recipes/main_courses">Main Courses</option>
-													<option value="/recipes/main_ingredients">Main Ingredients</option>
-													<option value="/recipes/pastas">Pastas</option>
-													<option value="/recipes/pizzas">Pizzas</option>
-													<option value="/recipes/preparation">Preparation</option>
-													<option value="/recipes/quick_easy">Quick &amp; Easy</option>
-													<option value="/recipes/salads">Salads</option>
-													<option value="/recipes/sandwiches">Sandwiches</option>
-													<option value="/recipes/sauces_and_seasonings">Sauces and Seasonings</option>
-													<option value="/recipes/seasons">Seasons</option>
-													<option value="/recipes/sides">Sides</option>
-													<option value="/recipes/snacks">Snacks</option>
-													<option value="/recipes/soups_and_stews">Soups and Stews</option>
-													<option value="/recipes/special_occasion">Special Occasion</option>
-													<option value="/recipes/taste_and_texture">Taste and Texture</option>
-													<option value="/recipes/vegetables">Vegetables</option>
-													<option value="/recipes/vegetarian_vegan">Vegetarian/Vegan</option>
-													<option value="/recipes/wolfgang_puck">Wolfgang Puck</option>
-						
-					</select>
-										<select name="articleslug" id="articleslug" style="width: 100px; height: 32px; padding: 7px; display:none;">
-						<option value="">All</option>
-												<option value="hints_tips">Hints &amp; Tips</option>
-						<option value="a_dash_of_fun">A Dash Of Fun</option>
-						<option value="thinking_healthy">Thinking Healthy</option>
-											</select>
-				</div>
+								
+				
+				
+				
+				
+				
 				<button class="button-lg fl" type="submit" title="Find"><span>Search</span></button>
 			</div></form>
 		</div></div>
-		<script type="text/javascript">
-			var controllerradio = $$('.controllerradio');
-			function updateCategories() {
-				$('articleslug').setStyle('display', 'none');
-				$('recipeslug').setStyle('display', 'none');
-				controllerradio.each(function(ele) {
-					if((ele.get('value') == 'recipes') && (ele.get('checked'))){
-						$('recipeslug').setStyle('display', 'block');
-					}else if((ele.get('value') == 'articles') && (ele.get('checked'))){
-						$('articleslug').setStyle('display', 'block');
-					}
-				});
-			}
-			controllerradio.addEvent('click', function(event) {
-				updateCategories();
-			});
-			updateCategories();
-		</script>
+		
+	
 		<div id="nav-links" class="screenonly text-content fr">
 			<ul>
-				<li><a href="/index/subctr">Manage My Newsletters</a></li>
+				
 				<li>
 											<a href="/account/login/" id="sign_in"><span>Login</span></a> /
 						<a href="/register/" id="join_now"><span>Register</span></a>
 									</li>
-				<li><a href="/contact/">Contact us</a></li>
+				<li><a href="/index/subctr">Manage My Newsletters</a></li>
 			</ul>
 		</div>
 
 		<div id="nav-call-to-action" class="screenonly">
-			<ul>
-				<li><a href="/share" id="share-recipe-link" class="parent">Share a recipe</a></li>
-				<li><a href="/rss" id="rss-feeds-link" class="parent">RSS feeds</a></li>
-			</ul>
-		</div>
+		<img id="fbhover" src="/frontend/recipe4living/images/site/R4L-Hover-icon_fb.gif">
+		<img id="twhover" src="/frontend/recipe4living/images/site/R4L-Hover-icon_twitter.gif">
+		<img id="pihover" src="/frontend/recipe4living/images/site/R4L-Hover-icon_pinterest.gif">
+		<img id="youthover" src="/frontend/recipe4living/images/site/R4L-Hover-icon_youtube.gif">
+		<img id="cotbhover" src="/frontend/recipe4living/images/site/R4L-Hover-icon_COT.gif">
+		<img id="rsshover" src="/frontend/recipe4living/images/site/R4L-Hover-icon_feed.gif">
+		
+			<img src="/frontend/recipe4living/images/site/addarecipe.gif" style="float: left;"><a href="/share" id="share-recipe-link" class="parent" style="float: left; padding-top: 5px;">Add My Recipe</a><a href="http://goo.gl/8XKWk" class="parent"><img src="/frontend/recipe4living/images/site/facebook_icon.gif" onmouseover="document.getElementById('fbhover').style.display='block'" onmouseout="document.getElementById('fbhover').style.display='none'"></a><a href="http://goo.gl/QWWuy" class="parent"><img src="/frontend/recipe4living/images/site/twitter_icon.gif" onmouseover="document.getElementById('twhover').style.display='block'" onmouseout="document.getElementById('twhover').style.display='none'"></a><a href="http://goo.gl/LBcYo" class="parent"><img src="/frontend/recipe4living/images/site/pinteresT_icon.gif" onmouseover="document.getElementById('pihover').style.display='block'" onmouseout="document.getElementById('pihover').style.display='none'"></a><a href="http://goo.gl/l0xQ6" class="parent"><img src="/frontend/recipe4living/images/site/R4L-Home-icons_youtube.gif" onmouseover="document.getElementById('youthover').style.display='block'" onmouseout="document.getElementById('youthover').style.display='none'"></a><a href="http://goo.gl/1Pbsw" class="parent"><img src="/frontend/recipe4living/images/site/chewonthat_icon.gif" onmouseover="document.getElementById('cotbhover').style.display='block'" onmouseout="document.getElementById('cotbhover').style.display='none'"></a><a href="http://goo.gl/fDwlZ" class="parent"><img src="/frontend/recipe4living/images/site/rss_icon.gif" onmouseover="document.getElementById('rsshover').style.display='block'" onmouseout="document.getElementById('rsshover').style.display='none'"></a>
+			
+</div>
 
 		<div class="clear"></div>
 	</div>
@@ -321,7 +280,7 @@ if (visit == null && visit2 == null) {
 				
 				<li class="parent">
 					<div class="nav-item">
-						<a href="http://www.chefscatalog.com/?sourcecode=CW1WA1086"><span>Store</span></a>
+						<a href="http://www.chefscatalog.com/?sourcecode=CW3WA3086"><span>Store</span></a>
 					</div>
 				</li>
 				
@@ -334,7 +293,7 @@ if (visit == null && visit2 == null) {
 		</div>
 	</div>
 <div align="center" style="padding-top:2px;padding-bottom:2px;background:#EDE9E1;">
-			<a href="http://www.recipe4living.com/articles/search?layout=list&amp;sort=relevance&amp;searchterm=holiday&amp;page=1"><img src="http://pics.recipe4living.com/Christmas_Top_Nav_Banner.jpg" border="0" alt="Christmas Recipes"></a>
+			<a href="http://www.chewonthatblog.com/2012/06/02/enter-to-win-a-kitchen-aid-stand-mixer-multiple-ways-to-enter/"><img src="http://pics.recipe4living.com/KitchenAidmixerContest.jpg" border="0" alt="Kitchen Aid Mixer"></a>
 		</div>
 <div id="content-wrapper">
 	<div class="ad pushdown">
@@ -355,61 +314,37 @@ if (visit == null && visit2 == null) {
 					<div class="text-content">
 
 					
-								<p>Recipe4Living.com, a property of Silvercarrot.com and Ampere Media LLC, has created this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your personally identifiable information at the Recipe4Living.com website (the "Website"). As part of our business, we collect and, in some instances, may disclose information about you - but only as set forth in this Privacy Policy. To better protect your privacy, we provide this notice explaining our personal information collection and use practices and the choices that you can make concerning the use of your personal information. This Privacy Policy also applies to individuals that have agreed to receive e-mail marketing from Recipe4Living.com or one of our advertising partners, whether at the Website, via e-mail, on third-party websites or otherwise.</p>
-						
-						<h2>Information Collected and Use of Your Information</h2>
-						
-						<p>For each visitor to the Website, our servers automatically recognize only the visitor's domain name, but not the e-mail address (unless requested and supplied by the visitor as a part of registration).</p>
-						
-						<p>You must register to become a member at Recipe4Living.com in order to qualify to receive the products and services available through our Website.<!-- Some offers require a subsequent registration on the Milesource.com website. To qualify and claim these offers, the instructions posted on the Milesource.com website must be followed. The instructions may require the completion of a registration form, the completion of a survey and several weeks of active Milesource participation. Please review the Milesource.com website for specific instructions as they apply to the individual offers. If you wish to join Milesource.com to claim the offer and NOT join the Website please <a href="http://www.milesource.com/join/join.php3" target="_blank">click here</a>. This link will direct you to a general Milesource.com registration page where you can begin the registration process. On Milesource.com, you can view the offer of interest in the Milesource Award Center and the number of AwardMiles required to redeem that offer.--></p>
-						
-						<p>As part of our on-going efforts to ensure the best possible experience for all visitors to the Website, we collect data from browsers to aggregate statistical information. This includes the type of browser being used, its level of HTML support and what platform it is on. This Privacy Policy also applies to visitors to the Website that have agreed to receive e-mail marketing from Recipe4Living.com, but have not separately registered to become a Recipe4Living.com member. The personal profile information that you submit to Recipe4Living.com remains your property, but by submitting that information to Recipe4Living.com, its partners including, but not limited to, SilverNGold, Dealhighway.com, ConsumerValueDirect.com, SmartBrands, BargainSpot, SavingsAvalanche, Deal-zone.com, Couponandgifts.com, AskVinegarJoe.com, TVNewsDaily.com, AsmileADay.com, TensionBusters.com, YourDailySmile.com, YourSelfDaily.com, YourtimeDaily.com and/or any and all other affiliates, you Recipe4Living.com the right to use that information for marketing purposes.</p>
-						
-						<p>When visitors elect to become members of Recipe4Living.com, we request that they provide additional, personally-identifiable information. This includes name, address, e-mail address, telephone number, age bracket, day and month of birth. All registrants may receive e-mail confirming their registration, and subsequent correspondence. If you do not want to receive e-mail from us in the future, please let us know by using the unsubscribe option on the bottom of every email. Certain information, such as your e-mail address, is collected in order to, among other functions, verify your identity in the future within our database. When you select to receive information about offerings from a third party company during the registration process, we will share your personal information with that third party company to carry out your information request. Recipe4Living.com may also use such information to directly market certain offers to you (via e-mail, direct mail and/or telemarketing), to monitor compliance with our Terms and Conditions and for content improvement and feedback purposes. We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to our members. These businesses may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers.</p>
-						
-						<p>We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from customer lists, analyzing data, and providing marketing analysis. These agents have access to our members' personal information as needed to perform their functions for Recipe4Living.com, but we do not permit them to use our members' personal information for other purposes.</p>
-						
-						<p>Recipe4Living.com reserves the right to release current or past member information in the event Recipe4Living.com believes that the membership is being or has been used in violation of the Website's terms and conditions, or to commit unlawful acts, if the information is subpoenaed, if Recipe4Living.com is sold or acquired, or when Recipe4Living.com deems it necessary or appropriate. By agreeing to these conditions, you hereby consent to disclosure of any record or communication to any third party, when Recipe4Living.com, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission enabling regulations.</p>
-						
-						<p>In addition, by registering at the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the "Rule"). Notwithstanding that your telephone number may be listed at the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the Rule.</p>
-						
-						<p>From time to time, we may receive personal information about you from outside sources and add it to your existing registration information on file at the Website. We do this to improve personalization of our services (for example, providing better newsletter content, advertising and/or special offers that we think may be of interest you).</p>
-						
-						<p>We may also collect other information such as your IP address, domain names, access times and referring third party website addresses. This information is used by Recipe4Living.com for the operation of the Website, to maintain the quality of our offerings, and to provide general aggregate statistics regarding Recipe4Living.com. Such information is not personally identifiable.</p>
-						
-						<p>We also collect information such as the identification of the server that your computer is logged onto and whether you opened a Recipe4Living.com e-mail message delivered to you. We also may compare our member list to various lists received from other third party companies, in an effort to avoid sending identical or similar e-mail messages to our members.</p>
-						
-						<p>When you obtain any product or service directly from Recipe4Living.com, we collect certain financial information, such as your credit card number, credit card expiration date and billing address. Financial Information that you disclose to Recipe4Living.com is used to confirm your age and to bill you for shipping our products and services. To the extent that customer credit card-specific information is collected by Recipe4Living.com, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without your prior informed consent. Notwithstanding the foregoing, Recipe4Living.com reserves the right to share with third parties the fact that we have credit card information on file for specific customers but we will not share the specific credit card information with third parties without your prior informed consent.</p>
-						
-						<h2>Information Collection Processes</h2>
-						<p>Recipe4Living.com may employ "cookies" to help customize your access to the Website. A cookie is a piece of data stored on a your hard drive containing information about you. Cookies have many benefits to enhance your experience at our Website. For instance, by setting a cookie on our Website, a member would not have to log in a password more than once, thereby saving time while on our Website. Even in the case where a member rejects a cookie, they may still use our Website. The only drawback to this is that the member will be limited in what he/she can access in some areas on our Website, much like visitor-level access.</p>
-						
-						<p>We occasionally use cookies to anonymously track and target the interests of our members to further enhance the experience on our Website or for advertising tracking purposes. To find out more about cookies, please visit <a href="http://www.cookiecentral.com/" target="_blank">www.cookiecentral.com</a>. 
-						
-						</p><p>In addition to cookies, our Website pages and/or e-mails may contain electronic images known as "pixel tags" (also knows as clear gifs) to track the pages that visitors and/or members visit at the Website for purposes of formatting future campaigns and upgrading visitor information used in reporting statistics.</p>
-						
-						<p>Our Website may also contain pixel tags placed there by third parties to help determine the effectiveness of a joint promotional or advertising campaign.</p>
-						
-						<h2>Security</h2>
-						<p>Recipe4Living.com has security measures in place to protect the loss, misuse, and alteration of personal information under our control. Currently Recipe4Living.com uses Secure Socket Layer Software (SSL) to protect data and secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Recipe4Living.com cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Website is at your own risk. However, access to your information is strictly limited, and not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Recipe4Living.com user information. Employees not adhering to our firm policies are subject to disciplinary action.</p>
-						
-						<h2>Minors</h2>
-						<p>Individuals under 18 years of age are not permitted to participate in obtaining products and/or services at Recipe4Living.com. No information should be submitted to, or posted at, Recipe4Living.com by visitors under 18 years of age without the prior consent of their parent or guardian. Notwithstanding the foregoing, children 13 years of age and younger are not permitted to access Recipe4Living.com for any reason and we do not knowingly collect personal information from such children. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.</p>
-						
-						<h2>Third-Party Links</h2>
-						<p>Recipe4Living.com does not endorse, nor is Recipe4Living.com responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through the Recipe4Living.com Website. The entities that advertise and/or place banner ads at Recipe4Living.com are independent third parties and not affiliated with Recipe4Living.com.</p>
-						
-						<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
-						
-						<h2>Acceptance of this Privacy Policy</h2>
-						<p>By using this Website including, without limitation, signing up for offers and/or continuing to receive information from Recipe4Living.com, you agree to the Recipe4Living.com Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All changes will take effect immediately upon their posting on our Website. Please check this page periodically for changes. Your continued use of Recipe4Living.com or acceptance of our e-mails following the posting of changes to this Privacy Policy will mean that you accept any and all such changes and agree to continue receiving directing marketing from us and other third party companies. If you do not agree to the terms of this Privacy Policy, please unsubscribe at the bottom of our e-mail. If you have questions about this Privacy Policy, please contact us at:</p>
-						
-						<p>Recipe4Living<br>
-						Customer Service<br>
-						3400 Dundee Rd, suite 236<br>
-						Northbrook, IL 60062<br>
-						(847) 205-9320</p>
-						
+		<p>Recipe4Living.com, a property of Silvercarrot.com and Ampere Media LLC, has created this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your personally identifiable information at the Recipe4Living.com website (the "Website"). As part of our business, we collect and, in some instances, may disclose information about you - but only as set forth in this Privacy Policy. To better protect your privacy, we provide this notice explaining our personal information collection and use practices and the choices that you can make concerning the use of your personal information. This Privacy Policy also applies to individuals that have agreed to receive e-mail marketing from Recipe4Living.com or one of our advertising partners, whether at the Website, via e-mail, on third-party websites or otherwise.</p>
+<h2>Information Collected and Use of Your Information</h2>
+<p>For each visitor to the Website, our servers automatically recognize only the visitor's domain name, but not the e-mail address (unless requested and supplied by the visitor as a part of registration).</p>
+<p>You must register to become a member at Recipe4Living.com in order to qualify to receive the products and services available through our Website.<!-- Some offers require a subsequent registration on the Milesource.com website. To qualify and claim these offers, the instructions posted on the Milesource.com website must be followed. The instructions may require the completion of a registration form, the completion of a survey and several weeks of active Milesource participation. Please review the Milesource.com website for specific instructions as they apply to the individual offers. If you wish to join Milesource.com to claim the offer and NOT join the Website please <a href="http://www.milesource.com/join/join.php3" mce_href="http://www.milesource.com/join/join.php3" target="_blank">click here</a>. This link will direct you to a general Milesource.com registration page where you can begin the registration process. On Milesource.com, you can view the offer of interest in the Milesource Award Center and the number of AwardMiles required to redeem that offer.--></p>
+<p>As part of our on-going efforts to ensure the best possible experience for all visitors to the Website, we collect data from browsers to aggregate statistical information. This includes the type of browser being used, its level of HTML support and what platform it is on. This Privacy Policy also applies to visitors to the Website that have agreed to receive e-mail marketing from Recipe4Living.com, but have not separately registered to become a Recipe4Living.com member. The personal profile information that you submit to Recipe4Living.com remains your property, but by submitting that information to Recipe4Living.com, its partners including, but not limited to, SilverNGold, Dealhighway.com, ConsumerValueDirect.com, SmartBrands, BargainSpot, SavingsAvalanche, Deal-zone.com, Couponandgifts.com, AskVinegarJoe.com, TVNewsDaily.com, AsmileADay.com, TensionBusters.com, YourDailySmile.com, YourSelfDaily.com, YourtimeDaily.com and/or any and all other affiliates, you Recipe4Living.com the right to use that information for marketing purposes.</p>
+<p>When visitors elect to become members of Recipe4Living.com, we request that they provide additional, personally-identifiable information. This includes name, address, e-mail address, telephone number, age bracket, day and month of birth. All registrants may receive e-mail confirming their registration, and subsequent correspondence. Certain information, such as your e-mail address, is collected in order to, among other functions, verify your identity in the future within our database. When you select to receive information about offerings from a third party company during the registration process, we will share your personal information with that third party company to carry out your information request. Recipe4Living.com may also use such information to directly market certain offers to you (via e-mail, direct mail and/or telemarketing), to monitor compliance with our Terms and Conditions and for content improvement and feedback purposes. We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to our members. These businesses may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers.</p>
+<p>We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from customer lists, analyzing data, and providing marketing analysis. These agents have access to our members' personal information as needed to perform their functions for Recipe4Living.com, but we do not permit them to use our members' personal information for other purposes.</p>
+<p>Recipe4Living.com reserves the right to release current or past member information in the event Recipe4Living.com believes that the membership is being or has been used in violation of the Website's terms and conditions, or to commit unlawful acts, if the information is subpoenaed, if Recipe4Living.com is sold or acquired, or when Recipe4Living.com deems it necessary or appropriate. By agreeing to these conditions, you hereby consent to disclosure of any record or communication to any third party, when Recipe4Living.com, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission enabling regulations.</p>
+<p>In addition, by registering at the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the "Rule"). Notwithstanding that your telephone number may be listed at the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the Rule.</p>
+<p>From time to time, we may receive personal information about you from outside sources and add it to your existing registration information on file at the Website. We do this to improve personalization of our services (for example, providing better newsletter content, advertising and/or special offers that we think may be of interest you).</p>
+<p>We may also collect other information such as your IP address, domain names, access times and referring third party website addresses. This information is used by Recipe4Living.com for the operation of the Website, to maintain the quality of our offerings, and to provide general aggregate statistics regarding Recipe4Living.com. Such information is not personally identifiable.</p>
+<p>We also collect information such as the identification of the server that your computer is logged onto and whether you opened a Recipe4Living.com e-mail message delivered to you. We also may compare our member list to various lists received from other third party companies, in an effort to avoid sending identical or similar e-mail messages to our members.</p>
+<p>When you obtain any product or service directly from Recipe4Living.com, we collect certain financial information, such as your credit card number, credit card expiration date and billing address. Financial Information that you disclose to Recipe4Living.com is used to confirm your age and to bill you for shipping our products and services. To the extent that customer credit card-specific information is collected by Recipe4Living.com, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without your prior informed consent. Notwithstanding the foregoing, Recipe4Living.com reserves the right to share with third parties the fact that we have credit card information on file for specific customers but we will not share the specific credit card information with third parties without your prior informed consent.</p>
+<p>When you visit the Site, we may collect certain  non-personally-identifiable information from you, including your IP  address, browser type and language, the domain name from which you  accessed the Site and the date and time of your visit. In addition, we  may collect information about your browsing behavior, such as the areas  or pages of the Site that you visit, the amount of time you spend  viewing the Site, the number of times you return to the Site and other  clickstream data.<br> <br> We may use cookies to collect the non-personal information described  above. A cookie is a small text file that is stored on the hard drive of  your computer when you access the Site. We may also use cookies to: (1)  allow you to use the Site without having to re-enter your user name and  password; (2) monitor Site usage; (3) manage the Site; and (4) improve  the Site and our services. You are free to decline cookies, but by doing  so, you may not be able to use certain features on the Site. Check the  “Help” menu of your browser to learn how to change your cookie  preferences.<br> <br> We may also use web beacons on the Site, in our emails and in our  advertisements on other websites. Web beacons are tiny graphic images  that are used to collect information about your Site visit, such as the  pages you view and the features you use, as well as information about  whether you open and/or act upon one of our emails or advertisements.  Web beacons help us analyze our Site visitors' behavior and measure the  effectiveness of the Site and our advertising. We may work with service  providers that help us track, collect and analyze this information. In  addition, we may use third-party advertising companies to serve ads when  you visit the Site and to serve our advertisements across the Internet.  These companies may use non-personally identifiable information about  your visits to the Site and other websites in order to provide  advertisements about goods and services of interest to you. If you would  like more information about this practice and to know your choices  about not having this information used by these companies, click here.</p>
+<h2>Unsubscribe (Opt Out)</h2>
+<p>If you do not want to receive e-mail from us in the future, please let us know by using the unsubscribe option on the bottom of every email. You can also manage your newsletter subscriptions by visiting Recipe4Living.com and clicking on the "Manage My Subscriptions" link on the top right-hand side of the home page.</p>
+<h2>Information Collection Processes</h2>
+<p>Recipe4Living.com may employ "cookies" to help customize your access to the Website. A cookie is a piece of data stored on a your hard drive containing information about you. Cookies have many benefits to enhance your experience at our Website. For instance, by setting a cookie on our Website, a member would not have to log in a password more than once, thereby saving time while on our Website. Even in the case where a member rejects a cookie, they may still use our Website. The only drawback to this is that the member will be limited in what he/she can access in some areas on our Website, much like visitor-level access.</p>
+<p>We occasionally use cookies to anonymously track and target the interests of our members to further enhance the experience on our Website or for advertising tracking purposes. To find out more about cookies, please visit <a href="http://www.cookiecentral.com/" target="_blank">www.cookiecentral.com</a>.</p>
+<p>In addition to cookies, our Website pages and/or e-mails may contain electronic images known as "pixel tags" (also knows as clear gifs) to track the pages that visitors and/or members visit at the Website for purposes of formatting future campaigns and upgrading visitor information used in reporting statistics.</p>
+<p>Our Website may also contain pixel tags placed there by third parties to help determine the effectiveness of a joint promotional or advertising campaign.</p>
+<h2>Security</h2>
+<p>Recipe4Living.com has security measures in place to protect the loss, misuse, and alteration of personal information under our control. Currently Recipe4Living.com uses Secure Socket Layer Software (SSL) to protect data and secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Recipe4Living.com cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Website is at your own risk. However, access to your information is strictly limited, and not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Recipe4Living.com user information. Employees not adhering to our firm policies are subject to disciplinary action.</p>
+<h2>Minors</h2>
+<p>Individuals under 18 years of age are not permitted to participate in obtaining products and/or services at Recipe4Living.com. No information should be submitted to, or posted at, Recipe4Living.com by visitors under 18 years of age without the prior consent of their parent or guardian. Notwithstanding the foregoing, children 13 years of age and younger are not permitted to access Recipe4Living.com for any reason and we do not knowingly collect personal information from such children. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.</p>
+<h2>Third-Party Links</h2>
+<p>Recipe4Living.com does not endorse, nor is Recipe4Living.com responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through the Recipe4Living.com Website. The entities that advertise and/or place banner ads at Recipe4Living.com are independent third parties and not affiliated with Recipe4Living.com.</p>
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
+<h2>Acceptance of this Privacy Policy</h2>
+<p>By using this Website including, without limitation, signing up for offers and/or continuing to receive information from Recipe4Living.com, you agree to the Recipe4Living.com Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All changes will take effect immediately upon their posting on our Website. Please check this page periodically for changes. Your continued use of Recipe4Living.com or acceptance of our e-mails following the posting of changes to this Privacy Policy will mean that you accept any and all such changes and agree to continue receiving directing marketing from us and other third party companies. If you do not agree to the terms of this Privacy Policy, please unsubscribe at the bottom of our e-mail. If you have questions about this Privacy Policy, please contact us at:</p>
+<p>Recipe4Living<br> Customer Service<br> 3400 Dundee Rd, suite 236<br> Northbrook, IL 60062<br> (847) 205-9320</p>						
 											
 					</div>
 
@@ -425,41 +360,42 @@ if (visit == null && visit2 == null) {
 		<div class="content">
 						<div class="block">
 				<ul class="text-content">
-										<li><a href="/appetizers">Appetizers</a></li>
-										<li><a href="/beauty">Beauty</a></li>
-										<li><a href="/beverages">Beverages</a></li>
-										<li><a href="/breads">Breads</a></li>
-										<li><a href="/breakfast">Breakfast</a></li>
-										<li><a href="/budget_cooking">Budget Cooking</a></li>
-										<li><a href="/campbell_s_recipes">Campbell's Recipes</a></li>
-										<li><a href="/casseroles">Casseroles</a></li>
-										<li><a href="/crockpot">Crockpot</a></li>
-										<li><a href="/desserts">Desserts</a></li>
-										<li><a href="/fruits">Fruits</a></li>
-										<li><a href="/global_cuisines">Global Cuisines</a></li>
-										<li><a href="/healthy">Healthy</a></li>
-										<li><a href="/jams_jellies_butters">Jams, Jellies &amp; Butters</a></li>
-										<li><a href="/kid_friendly">Kid-Friendly</a></li>
-										<li><a href="/lunch">Lunch</a></li>
-										<li><a href="/main_courses">Main Courses</a></li>
-										<li><a href="/main_ingredients">Main Ingredients</a></li>
-										<li><a href="/pastas">Pastas</a></li>
-										<li><a href="/pizzas">Pizzas</a></li>
-										<li><a href="/preparation">Preparation</a></li>
-										<li><a href="/quick_easy">Quick &amp; Easy</a></li>
-										<li><a href="/salads">Salads</a></li>
-										<li><a href="/sandwiches">Sandwiches</a></li>
-										<li><a href="/sauces_and_seasonings">Sauces and Seasonings</a></li>
-										<li><a href="/seasons">Seasons</a></li>
-										<li><a href="/sides">Sides</a></li>
-										<li><a href="/snacks">Snacks</a></li>
-										<li><a href="/soups_and_stews">Soups and Stews</a></li>
-										<li><a href="/special_occasion">Special Occasion</a></li>
-										<li><a href="/taste_and_texture">Taste and Texture</a></li>
-										<li><a href="/vegetables">Vegetables</a></li>
-										<li><a href="/vegetarian_vegan">Vegetarian/Vegan</a></li>
-										<li><a href="/wolfgang_puck">Wolfgang Puck</a></li>
-									</ul>
+										 
+					<li><a href="/appetizers">Appetizer Recipes</a></li>										 
+					<li><a href="/beauty">Beauty Recipes</a></li>										 
+					<li><a href="/beverages">Beverage Recipes</a></li>										 
+					<li><a href="/breads">Bread Recipes</a></li>										 
+					<li><a href="/breakfast">Breakfast Recipes</a></li>										 
+					<li><a href="/budget_cooking">Budget Cooking</a></li>										 
+					<li><a href="/campbell_s_recipes">Campbell's Recipes</a></li>										 
+					<li><a href="/casseroles">Casserole Recipes</a></li>										 
+					<li><a href="/crockpot">Crockpot Recipes</a></li>										 
+					<li><a href="/desserts">Dessert Recipes</a></li>										 
+					<li><a href="/fruits">Fruit Recipes</a></li>										 
+					<li><a href="/global_cuisines">Global Cuisines</a></li>										 
+					<li><a href="/healthy">Healthy Recipes</a></li>										 
+					<li><a href="/jams_jellies_butters">Jams, Jellies &amp; Butters</a></li>										 
+					<li><a href="/kid_friendly">Kid-Friendly Recipes</a></li>										 
+					<li><a href="/lunch">Lunch Recipes</a></li>										 
+					<li><a href="/main_courses">Main Courses</a></li>										 
+					<li><a href="/main_ingredients">Main Ingredients</a></li>										 
+					<li><a href="/pastas">Pasta Recipes</a></li>										 
+					<li><a href="/pizzas">Pizza Recipes</a></li>										 
+					<li><a href="/preparation">Preparation</a></li>										 
+					<li><a href="/quick_easy">Quick &amp; Easy</a></li>										 
+					<li><a href="/salads">Salad Recipes</a></li>										 
+					<li><a href="/sandwiches">Sandwiches</a></li>										 
+					<li><a href="/sauces_and_seasonings">Sauces and Seasonings</a></li>										 
+					<li><a href="/seasons">Seasonal Recipes</a></li>										 
+					<li><a href="/sides">Side Dish Recipes</a></li>										 
+					<li><a href="/snacks">Snack Recipes</a></li>										 
+					<li><a href="/soups_and_stews">Soups and Stews</a></li>										 
+					<li><a href="/special_occasion">Special Occasion</a></li>										 
+					<li><a href="/taste_and_texture">Taste and Texture</a></li>										 
+					<li><a href="/vegetables">Vegetable Recipes</a></li>										 
+					<li><a href="/vegetarian_vegan">Vegetarian/Vegan</a></li>										 
+					<li><a href="/wolfgang_puck">Wolfgang Puck</a></li>					
+				</ul>
 			</div>
 					</div>
 	</div>
@@ -475,13 +411,39 @@ if (visit == null && visit2 == null) {
 		</div>
 		<br><br><!-- frontend/recipe4living/templates/nav/left.php -->
 	<div></div>
-				</div>
+	
+			</div>
 	
 			<div id="panel-right" class="column">
-					
-	<a href="http://www.tellusdaily.com/dispatch2.asp?home=1451-28299B-L1" target="_blank">
-		<img src="/frontend/recipe4living/images/site/r4lsignup.jpg" alt="Signup" style="margin-bottom: 10px;">
-	</a>
+				
+	<a href="#" class="fancy"><img src="/frontend/recipe4living/images/site/A_R4L-signup-homepage.gif" alt="Signup" style="margin-bottom: 10px;"></a>
+	<style>
+	#fancybox-overlay { position:absolute;top:0;left:0;width:100%;z-index:1100;display:none; }
+	#fancybox-wrap { position:absolute;z-index:1101;outline:none;display:none; }
+	#fancybox-outer { position:relative;width:100%;height:100%;background:#fff; }
+	#fancybox-close { position:absolute;top:-15px;right:-15px;width:30px;height:30px;cursor:pointer;z-index:1103;display:none;
+		background:transparent url('http://pics.recipe4living.com/fancybox/fancy_close.png'); }
+	#fancybox-frame { width:100%;height:100%;border:none;display:block; }
+	</style>
+	<script type="text/javascript">
+	var R4LSignUpDhtml = jQuery.noConflict();
+	R4LSignUpDhtml(document).ready(function() {
+	R4LSignUpDhtml("a.fancy").fancybox({
+			'width'					: 690,
+			'height'				: 518,
+			'autoScale'				: false,
+			'transitionIn'			: 'elastic',
+			'transitionOut'			: 'elastic',
+			'type'					: 'iframe',
+			'scrolling'				: 'no',
+			'padding'				: 0,
+			'hideOnOverlayClick'	: false,
+			'href'					: 'http://r4l.popularliving.com/subctr/forms/r4l_signup_right_column.php',
+			'overlayColor'			: '#000',
+			'overlayOpacity'		: 0.8
+		});
+	});
+	</script>
 				
 				<div class="ad">	<div class="screenonly">
 		<script type="text/javascript" language="JavaScript"> 
@@ -542,7 +504,6 @@ if (visit == null && visit2 == null) {
 	</div>
 </div>
 
-
 <div id="footer" class="site-wrapper screenonly">
 
 	<ul class="fl text-content">
@@ -594,7 +555,7 @@ if (visit == null && visit2 == null) {
 			<h4>Community</h4>
 			<ul>
 								<li><a href="/review_program">Product Reviews</a></li>
-				<li><a href="/links">Links</a></li>
+				<li><a href="/index/links">Advertise</a></li>
 				<li><a href="/rss">RSS Feeds</a></li>
 			</ul>
 		</li>
@@ -605,12 +566,12 @@ if (visit == null && visit2 == null) {
 		<div id="recipe-count" class="rounded">
 			<div class="content">
 				<p class="text-content">
-					<span class="number">21821</span>recipes &amp; counting!
+					<span class="number">22,257</span>recipes &amp; counting!
 				</p>
 			</div>
 		</div>
 		
-		<p class="text-content">© Recipe4Living 2011</p>
+		<p class="text-content">© Recipe4Living 2012</p>
 	
 	</div>
 	<div class="clear"></div>
@@ -646,4 +607,5 @@ if (visit == null && visit2 == null) {
 			_qacct="p-ed7ji9FtIlPSo";quantserve();
 		</script>
 	
-<div class="waiter" style="position: absolute; display: none;"></div></body></html>
+
+<div class="waiter" style="position: absolute; display: none;"></div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
