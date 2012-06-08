@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150438id_/http%3A//radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608152934id_/http%3A//www.radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
 
 # Radiomap.eu • Privacy Policy
 
     Radiomap.eu respects your privacy. Our Policy applies to our web sites, including http://radiomap.eu/. This Privacy Policy explains what information we collect through the Sites, how we use that information, and how your rights are respected by us. The Radiomap.eu Site contains links to other web sites. This Privacy Policy does not apply to the practices of any other companies or individuals that Radiomap.eu does not control, or any web sites that you link to from the Radiomap.eu Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. Please take a few moments to read this agreement. By accessing the Radiomap.eu Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may change in the future as indicated below.
 
-  
-
-
 ### Copyrights
 
     Radiomap.eu is a registered trademark owned by Mikhail Shcherbak. Radio station streams and logos are the copyright of each respective owner.
 
-  
-
-
 ### Radiomap.eu Links
 
     In various places on the Radiomap.eu Site, we collect "Personally Identifiable Information," such as your name, and e-mail address and other information that can be used to contact you or identify you as an individual. For example, we collect this information when you register for your Radiomap.eu account. From time to time in the future we may offer additional features, services, and promotional opportunities that would require you to submit Personally Identifiable Information to participate. We also collect "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Sites that you have visited, and the advertisements that you have clicked on. Your Personally Identifiable Information is linked to your Anonymous Information. Like many Internet sites, we also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer and that is stored on your hard drive. When you visit our Site(s) the cookie identifies your computer to us so that you do not have to re-register each time you visit. We may also use cookies to measure the traffic to our Sites and to measure the use of different services and features of the Sites.
-
-  
-
 
 ### Personal Use Only
 
@@ -33,7 +24,4 @@
 
     We may update this Privacy Policy from time to time as our services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your account or by posting a notice of such changes on the Radiomap.eu Site. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site.
 
-    If you have questions about this Statement or our policies, please [contact us](https://web.archive.org/about/contact.htm).
-
-|    
-
+    If you have questions about this Statement or our policies, please [contact us](https://web.archive.org/about/contact.htm). 
