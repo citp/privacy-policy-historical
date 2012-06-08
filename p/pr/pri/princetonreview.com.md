@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231111909id_/http%3A//www.princetonreview.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608023739id_/http%3A//www.princetonreview.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs your use of this web site, located at www.PrincetonReview.com (this "Web Site"), which is made available by The Princeton Review, Inc. ("The Princeton Review" or "we" or "us").
+This Privacy Policy governs your use of this web site, located at www.PrincetonReview.com (this "Web Site"), which is made available by TPR Education IP Holdings, LLC. ("The Princeton Review" or "we" or "us").
 
 Your privacy is a serious matter to us. This Privacy Policy outlines the type of Personal Information and other information that is collected through this Web Site and how that information is used and protected.
 
