@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225031704id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyrics.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608085332id_/http%3A//www.azlyrics.com/privacy.html) for the most accurate reproduction.*
 
 # A-Z Lyrics Universe Privacy Policy
 
-  
+[](http://www.azlyrics.com/)
+
 **PRIVACY STATEMENT FOR AZLYRICS.COM**
 
 Azlyrics.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: azlyrics.com 
@@ -34,3 +35,6 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.azlyrics.com/contact.html)
+
+All lyrics are property and copyright of their owners. All lyrics provided for educational purposes only.  
+**Copyright © 2000-2020 AZLyrics.com**
