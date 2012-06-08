@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryhexconverter.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108123848id_/http%3A//www.binaryhexconverter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryhexconverter.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608231019id_/http%3A//www.binaryhexconverter.com/privacy) for the most accurate reproduction.*
 
 # Privacy for BinaryHexConverter
 
