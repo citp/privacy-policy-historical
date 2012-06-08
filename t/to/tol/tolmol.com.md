@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolmol.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609092232id_/http%3A//www.tolmol.com/privacy-policy/shopping) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolmol.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608133119id_/http%3A//www.tolmol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TolMol.com
 
