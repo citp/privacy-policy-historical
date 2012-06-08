@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the lyst.com privacy policy that was archived on 2011-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210022358id_/http%3A//www.lyst.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyst.com privacy policy that was archived on 2012-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609001003id_/http%3A//www.lyst.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta charset="utf-8">
-        <title>Privacy</title>
+        <title>Privacy &amp; Cookies</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/ndk4ajd.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
         
         <meta name="description" content="Follow your favorite fashion designers and stylists on Lyst to find out what's inspiring them - or create your own Lyst and start setting trends.">
         <meta name="keywords" content="designer fashion, designer clothes, designer clothing, designer shoes, designer bags, designer handbags, designer accessories,retail,shopping,apparel,shoes,bags,handbags, high fashion">
         
         <meta property="fb:app_id" content="152784791451625">
-
-        <link href="/static/compressed/css/base_r6296a20fc106b3e1efd50ddacbd1f740.css" rel="stylesheet" type="text/css">
-        <script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/compressed/script/base_top_rd9d2cd261074b73438dd93b61c853ae2.js" charset="utf-8"></script>
+        <link href="/static/compressed/css/base_r651d80d4f7b3292e27283354c0ec776e.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="/static/compressed/script/base_top_r0bb633450d7134c7b9d8016ac2faffab.js" charset="utf-8"></script>
         
-
+		<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/oppfdfhedaoecmnamcfbkconhpefjdhj">
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <script>
             
@@ -25,32 +26,40 @@
                        function () {});
             };
             
+            $('html').removeClass('no-js').addClass('js');
 
             Lyst.login = new LoginManager(false);
             
 
             
-            var base_url = "http://www.lyst.com";
-            var facebook_app_namespace = "lyst-app";
+            var base_url = "http://www.lyst.com",
+                facebook_app_namespace = "lyst-app",
+                current_params = "",
+                
+                show_popups = false,
+                
+                show_popups_cookie = true,
+                
+                facebook_origin = false;
 
+                        var country = 'US';
             
-            var show_popups = true;
+            if (document.referrer.indexOf('facebook.com') > -1) {
+               show_popups = true;
+            }
+            
 
-            
-            var show_popups_cookie = true;
-            
-            var facebook_origin = false;
-
-            
+           
             $(function(){
                 Lyst.Facebook.setLoggedIntoUsHasFacebook(false);
                 Lyst.Facebook.setPostHabitsToTicker(false);
 
                 
                 var hide_popup_cookie_val = $.cookie('hide_popup');
-                if (hide_popup_cookie_val && hide_popup_cookie_val == "true"){
+                if (hide_popup_cookie_val && hide_popup_cookie_val == "true") {
                     show_popups_cookie = false;
                 }
+                process_source_vars();
             });
         </script>
 
@@ -58,58 +67,25 @@
         
 
         
-            
-                
-                <!-- Google Website Optimizer Control Script -->
-                <script>
-                function utmx_section(){}function utmx(){}
-                (function(){var k='2280599271',d=document,l=d.location,c=d.cookie;function f(n){
-                if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.
-                length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
-                d.write('<sc'+'ript src="'+
-                'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
-                +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
-                +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-                '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-                </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2280599271&amp;utmx=&amp;utmxx=&amp;utmxtime=1580470660771" type="text/javascript" charset="utf-8"></script>
-                <!-- End of Google Website Optimizer Control Script -->
-                <!-- Google Website Optimizer Tracking Script -->
-                <script type="text/javascript">
-                  var _gaq = _gaq || [];
-                  _gaq.push(['gwo._setAccount', 'UA-5946484-6']);
-                  _gaq.push(['gwo._trackPageview', '/2280599271/test']);
-                  (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                  })();
-                </script>
-                <!-- End of Google Website Optimizer Tracking Script -->
-            
-
             <!-- Normal GA Tracking Script -->
             <script>
                 var _gaq = _gaq || [];
                 _gaq.push(['_setDomainName', 'www.lyst.com']);
                 _gaq.push(['_setAccount', 'UA-5946484-5']);
-                _gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor', 2]);
+                _gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor', 3]);
+                
+                
+                
+                
                 
                 
                 
                     _gaq.push(['_trackPageview']);
                 
-                _gaq.push(['_trackPageLoadTime']);
                 (function() {
                     var ga = document.createElement('script'); ga.async = true;
                     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-            </script>
-            <script>
-                (function() {
-                    var po = document.createElement('script'); po.async = true;
-                    po.src = 'https://apis.google.com/js/plusone.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
                 })();
             </script>
             <!-- END Normal GA Tracking Script -->
@@ -122,14 +98,16 @@
 
     </head>
 
-    <body id="v2170" itemscope="" itemtype="http://schema.org/WebPage" class="">
-        <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    <body id="v3344" class="">
+        <div id="fb-root">
+                </div>
         <script>
-            window.fbAsyncInit = function() {
+             window.fbAsyncInit = function() {
                 FB.init({
                     appId: '152784791451625',
                     status: true,
                     cookie: true,
+                                logging: true,
                     xfbml: true,
                     oauth : true,
                     channelUrl: "http://www.lyst.com/facebook-channel.html"
@@ -141,13 +119,9 @@
 
                 //finally set init flag - checked in fbEnsureInit
                 fbApiInitialized = true;
+                //Lyst.Facebook.checkLoginStatus();
+                            show_fb_popup();
             };
-
-            (function() {
-                var e = document.createElement('script'); e.async = true;
-                e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-                document.getElementById('fb-root').appendChild(e);
-            }());
 
             /**
              * use this function as a wrapper to call the callback once facebook initialised
@@ -162,14 +136,13 @@
                 }
             }
         </script>
-
         
         <header class="lyst-header">
             <div class="container cf">
                 <h1 class="lyst-logo"><a title="Lyst. The things you want." id="logo" href="/">Lyst</a></h1>
 
-                <form class="lyst-search" id="search" role="search" action="/shop/?" method="GET">
-                    <input class="search-input" id="query_terms" type="text" autocomplete="off" name="q" placeholder="Find designers, people &amp; items…">
+                <form class="lyst-search" id="search" role="search" action="/shop/filter/?view=all&amp;stock_status=0&amp;stock_status=1&amp;stock_status=2&amp;stock_status=3" method="GET">
+                    <input class="search-input query_terms" type="text" autocomplete="off" name="q">
                     <input type="submit" class="search-button" value="">
 
                     <div class="search-suggest" id="search_suggest">
@@ -178,18 +151,597 @@
                         </ul>
                     </div>
                 </form>
+                <nav class="lyst-nav"><a id="shop-most-recent" href="/shop/whats-new/" data-sub-menu="ui-mega-menu-most-recent"><span>What's</span> New
+</a><a id="shop_women" href="/shop/womens/" data-sub-menu="ui-mega-menu-Women">
+Women
+</a><a id="shop_men" href="/shop/mens/" data-sub-menu="ui-mega-menu-Men">
+Men
+</a><a id="designers" href="/designers/" data-sub-menu="ui-mega-menu-designers">
+Designers
+</a><a id="bloggers" href="/who-to-follow/bloggers/" data-sub-menu="ui-mega-menu-bloggers">
+Bloggers
+</a><a class="who-to-follow" href="/who-to-follow/" data-sub-menu="ui-mega-menu-wtf">
+Who to Follow
+</a><a class="about" href="/about/" data-sub-menu="ui-mega-menu-about">
+About
+</a><a class="signin" href="/account/login/?next=/privacy/" data-sub-menu="ui-mega-menu-sign-in">
+Sign In
+</a></nav>
+            </div>
+            <div class="mega-menus">
+                
+                <div class="ui-mega-menu ui-mega-menu-Women">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            
+                            <nav class="menu-col menu-Clothing">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Women&amp;product_type=Clothing&amp;stock_status=3">Clothing</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Women&amp;sale=true&amp;product_type=Clothing&amp;stock_status=3" class="sale"><span>Clothing </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=beachwear&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">beachwear</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=nightwear&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">nightwear</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=coats&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">coats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=suits&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">suits</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=pants&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">pants</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=jeans&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">jeans</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=jumpsuits&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">jumpsuits</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=dresses&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">dresses</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=hosiery&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">hosiery</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=jackets&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">jackets</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=tops&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">tops</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=knitwear&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">knitwear</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sweats&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">sweats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=shorts&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">shorts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=skirts&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">skirts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=lingerie&amp;gender=Women&amp;product_type=Clothing&amp;stock_status=3">lingerie</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Shoes">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Women&amp;product_type=Shoes&amp;stock_status=3">Shoes</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Women&amp;sale=true&amp;product_type=Shoes&amp;stock_status=3" class="sale"><span>Shoes </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sneakers&amp;gender=Women&amp;product_type=Shoes&amp;stock_status=3">sneakers</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=boots&amp;gender=Women&amp;product_type=Shoes&amp;stock_status=3">boots</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=wedges&amp;gender=Women&amp;product_type=Shoes&amp;stock_status=3">wedges</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=flats&amp;gender=Women&amp;product_type=Shoes&amp;stock_status=3">flats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=heels&amp;gender=Women&amp;product_type=Shoes&amp;stock_status=3">heels</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Bags">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Women&amp;product_type=Bags&amp;stock_status=3">Bags</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Women&amp;sale=true&amp;product_type=Bags&amp;stock_status=3" class="sale"><span>Bags </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=shoulder bags&amp;gender=Women&amp;product_type=Bags&amp;stock_status=3">shoulder bags</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=backpacks&amp;gender=Women&amp;product_type=Bags&amp;stock_status=3">backpacks</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=clutches&amp;gender=Women&amp;product_type=Bags&amp;stock_status=3">clutches</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=luggage&amp;gender=Women&amp;product_type=Bags&amp;stock_status=3">luggage</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=briefcases&amp;gender=Women&amp;product_type=Bags&amp;stock_status=3">briefcases</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=totes&amp;gender=Women&amp;product_type=Bags&amp;stock_status=3">totes</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Accessories">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Women&amp;product_type=Accessories&amp;stock_status=3">Accessories</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Women&amp;sale=true&amp;product_type=Accessories&amp;stock_status=3" class="sale"><span>Accessories </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=cases&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">cases</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sunglasses&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">sunglasses</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=belts&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">belts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=gloves&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">gloves</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=hair&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">hair</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=scarves&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">scarves</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=wallets&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">wallets</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=watches&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">watches</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=hats&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">hats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=umbrellas&amp;gender=Women&amp;product_type=Accessories&amp;stock_status=3">umbrellas</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Jewelry">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Women&amp;product_type=Jewelry&amp;stock_status=3">Jewelry</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Women&amp;sale=true&amp;product_type=Jewelry&amp;stock_status=3" class="sale"><span>Jewelry </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=brooches&amp;gender=Women&amp;product_type=Jewelry&amp;stock_status=3">brooches</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=bracelets&amp;gender=Women&amp;product_type=Jewelry&amp;stock_status=3">bracelets</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=earrings&amp;gender=Women&amp;product_type=Jewelry&amp;stock_status=3">earrings</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=cuff links&amp;gender=Women&amp;product_type=Jewelry&amp;stock_status=3">cuff links</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=necklaces&amp;gender=Women&amp;product_type=Jewelry&amp;stock_status=3">necklaces</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=rings&amp;gender=Women&amp;product_type=Jewelry&amp;stock_status=3">rings</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="ui-mega-menu ui-mega-menu-Men">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            
+                            <nav class="menu-col menu-Clothing">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Men&amp;product_type=Clothing&amp;stock_status=3">Clothing</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Men&amp;sale=true&amp;product_type=Clothing&amp;stock_status=3" class="sale"><span>Clothing </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=beachwear&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">beachwear</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=t-shirts&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">t-shirts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=jeans&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">jeans</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=underwear&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">underwear</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=jackets&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">jackets</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=suits&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">suits</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=coats&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">coats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sweats&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">sweats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=shorts&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">shorts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=pants&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">pants</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=nightwear&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">nightwear</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=shirts&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">shirts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=knitwear&amp;gender=Men&amp;product_type=Clothing&amp;stock_status=3">knitwear</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Shoes">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Men&amp;product_type=Shoes&amp;stock_status=3">Shoes</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Men&amp;sale=true&amp;product_type=Shoes&amp;stock_status=3" class="sale"><span>Shoes </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sandals&amp;gender=Men&amp;product_type=Shoes&amp;stock_status=3">sandals</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=lace-ups&amp;gender=Men&amp;product_type=Shoes&amp;stock_status=3">lace-ups</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=boots&amp;gender=Men&amp;product_type=Shoes&amp;stock_status=3">boots</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sneakers&amp;gender=Men&amp;product_type=Shoes&amp;stock_status=3">sneakers</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=slip-ons&amp;gender=Men&amp;product_type=Shoes&amp;stock_status=3">slip-ons</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Bags">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Men&amp;product_type=Bags&amp;stock_status=3">Bags</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Men&amp;sale=true&amp;product_type=Bags&amp;stock_status=3" class="sale"><span>Bags </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=cases&amp;gender=Men&amp;product_type=Bags&amp;stock_status=3">cases</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=luggage&amp;gender=Men&amp;product_type=Bags&amp;stock_status=3">luggage</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=backpacks&amp;gender=Men&amp;product_type=Bags&amp;stock_status=3">backpacks</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=briefcases&amp;gender=Men&amp;product_type=Bags&amp;stock_status=3">briefcases</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=messenger&amp;gender=Men&amp;product_type=Bags&amp;stock_status=3">messenger</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=holdalls&amp;gender=Men&amp;product_type=Bags&amp;stock_status=3">holdalls</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Accessories">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Men&amp;product_type=Accessories&amp;stock_status=3">Accessories</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Men&amp;sale=true&amp;product_type=Accessories&amp;stock_status=3" class="sale"><span>Accessories </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=wallets&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">wallets</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=belts&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">belts</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=scarves&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">scarves</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=hats&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">hats</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=ties&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">ties</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=sunglasses&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">sunglasses</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=watches&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">watches</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=cufflinks&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">cufflinks</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=gloves&amp;gender=Men&amp;product_type=Accessories&amp;stock_status=3">gloves</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col menu-Jewelry">
+                                <ol>
+                                    <li>
+                                        <h5><a href="/shop/filter/?gender=Men&amp;product_type=Jewelry&amp;stock_status=3">Jewelry</a></h5>
+                                    </li>
+                                    <li><a href="/shop/filter/?gender=Men&amp;sale=true&amp;product_type=Jewelry&amp;stock_status=3" class="sale"><span>Jewelry </span>on Sale</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=rings&amp;gender=Men&amp;product_type=Jewelry&amp;stock_status=3">rings</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=bracelets&amp;gender=Men&amp;product_type=Jewelry&amp;stock_status=3">bracelets</a></li>
+                                    
+                                    <li><a href="/shop/filter/?category=necklaces&amp;gender=Men&amp;product_type=Jewelry&amp;stock_status=3">necklaces</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="ui-mega-menu ui-mega-menu-designers">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            <h5><a href="/designers/">Top Designers</a></h5>
+                            
+                            <nav class="menu-col">
+                                <ol>
+                                    
+                                    <li><a href="/31-phillip-lim/">3.1 Phillip Lim</a></li>
+                                    
+                                    <li><a href="/asos-collection/">ASOS Collection</a></li>
+                                    
+                                    <li><a href="/acne/">Acne</a></li>
+                                    
+                                    <li><a href="/alexander-mcqueen/">Alexander McQueen</a></li>
+                                    
+                                    <li><a href="/alexander-wang/">Alexander Wang</a></li>
+                                    
+                                    <li><a href="/alice-olivia/">Alice + Olivia</a></li>
+                                    
+                                    <li><a href="/bcbgmaxazria/">BCBGMAXAZRIA</a></li>
+                                    
+                                    <li><a href="/balenciaga/">Balenciaga</a></li>
+                                    
+                                    <li><a href="/balmain/">Balmain</a></li>
+                                    
+                                    <li><a href="/bottega-veneta/">Bottega Veneta</a></li>
+                                    
+                                    <li><a href="/burberry/">Burberry</a></li>
+                                    
+                                    <li><a href="/burberry-prorsum/">Burberry Prorsum</a></li>
+                                    
+                                    <li><a href="/calvin-klein/">Calvin Klein</a></li>
+                                    
+                                    <li><a href="/celine/">Celine</a></li>
+                                    
+                                    <li><a href="/chanel/">Chanel</a></li>
+                                    
+                                    <li><a href="/cheap-monday/">Cheap Monday</a></li>
+                                    
+                                    <li><a href="/chloe/">Chloé</a></li>
+                                    
+                                    <li><a href="/christian-louboutin/">Christian Louboutin</a></li>
+                                    
+                                    <li><a href="/comme-des-garcons/">Comme Des Garçons</a></li>
+                                    
+                                    <li><a href="/converse/">Converse</a></li>
+                                    
+                                    <li><a href="/dg/">D&amp;G</a></li>
+                                    
+                                    <li><a href="/DKNY/">DKNY</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col">
+                                <ol>
+                                    
+                                    <li><a href="/diane-von-furstenberg/">Diane Von Furstenberg</a></li>
+                                    
+                                    <li><a href="/diesel/">Diesel</a></li>
+                                    
+                                    <li><a href="/dior/">Dior</a></li>
+                                    
+                                    <li><a href="/dolce-gabbana/">Dolce &amp; Gabbana</a></li>
+                                    
+                                    <li><a href="/elizabeth-and-james/">Elizabeth And James</a></li>
+                                    
+                                    <li><a href="/fendi/">Fendi</a></li>
+                                    
+                                    <li><a href="/givenchy/">Givenchy</a></li>
+                                    
+                                    <li><a href="/gucci/">Gucci</a></li>
+                                    
+                                    <li><a href="/hm/">H&amp;M</a></li>
+                                    
+                                    <li><a href="/hermes/">Hermes</a></li>
+                                    
+                                    <li><a href="/isabel-marant/">Isabel Marant</a></li>
+                                    
+                                    <li><a href="/jcrew/">J.Crew</a></li>
+                                    
+                                    <li><a href="/jil-sander/">Jil Sander</a></li>
+                                    
+                                    <li><a href="/jimmy-choo/">Jimmy Choo</a></li>
+                                    
+                                    <li><a href="/lanvin/">Lanvin</a></li>
+                                    
+                                    <li><a href="/louis-vuitton/">Louis Vuitton</a></li>
+                                    
+                                    <li><a href="/marc-by-marc-jacobs/">Marc By Marc Jacobs</a></li>
+                                    
+                                    <li><a href="/marc-jacobs/">Marc Jacobs</a></li>
+                                    
+                                    <li><a href="/marchesa/">Marchesa</a></li>
+                                    
+                                    <li><a href="/mcq/">McQ by Alexander McQueen</a></li>
+                                    
+                                    <li><a href="/michael-kors/">Michael Kors</a></li>
+                                    
+                                    <li><a href="/missoni/">Missoni</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <nav class="menu-col">
+                                <ol>
+                                    
+                                    <li><a href="/miu-miu/">Miu Miu</a></li>
+                                    
+                                    <li><a href="/mulberry/">Mulberry</a></li>
+                                    
+                                    <li><a href="/oscar-de-la-renta/">Oscar de la Renta</a></li>
+                                    
+                                    <li><a href="/prada/">Prada</a></li>
+                                    
+                                    <li><a href="/proenza-schouler/">Proenza Schouler</a></li>
+                                    
+                                    <li><a href="/rag-bone/">Rag &amp; Bone</a></li>
+                                    
+                                    <li><a href="/ralph-lauren/">Ralph Lauren</a></li>
+                                    
+                                    <li><a href="/rick-owens/">Rick Owens</a></li>
+                                    
+                                    <li><a href="/roberto-cavalli/">Roberto Cavalli</a></li>
+                                    
+                                    <li><a href="/see-by-chloe/">See By Chloé</a></li>
+                                    
+                                    <li><a href="/stella-mccartney/">Stella McCartney</a></li>
+                                    
+                                    <li><a href="/theory/">Theory</a></li>
+                                    
+                                    <li><a href="/tibi/">Tibi</a></li>
+                                    
+                                    <li><a href="/tommy-hilfiger/">Tommy Hilfiger</a></li>
+                                    
+                                    <li><a href="/topshop/">Topshop</a></li>
+                                    
+                                    <li><a href="/tory-burch/">Tory Burch</a></li>
+                                    
+                                    <li><a href="/valentino/">Valentino</a></li>
+                                    
+                                    <li><a href="/vera-wang/">Vera Wang</a></li>
+                                    
+                                    <li><a href="/versace/">Versace</a></li>
+                                    
+                                    <li><a href="/vivienne-westwood/">Vivienne Westwood</a></li>
+                                    
+                                    <li><a href="/yves-saint-laurent/">Yves Saint Laurent</a></li>
+                                    
+                                    <li><a href="/zara/">Zara</a></li>
+                                    
+                                </ol>
+                            </nav>
+                            
+                            <p class="foot"><a href="/designers/">More »</a></p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="ui-mega-menu ui-mega-menu-sign-in">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            <nav class="menu-col">
+                                <ol>
+                                    <li><a href="/account/login/?next=/privacy/">Already a user?</a></li>
+                                    <li><a href="/account/register/">New user?</a></li>
+                                    <li><a href="#fblogin" onclick="return Lyst.login.doFacebookLogin('', false, 'connect_fb_login', true)">Connect with Facebook</a></li>
+                                    <li><a href="#twitterlogin" onclick="return Lyst.login.doTwitterLogin('', 'connect_twitter_login', true)">Connect with Twitter</a></li>
+                                    <li><a href="/pinterest/register/">Connect Pinterest account</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="ui-mega-menu ui-mega-menu-about">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            <nav class="menu-col">
+                                <ol>
+                                    <li><a href="/about/">What is Lyst?</a></li>
+                                    <li><a href="/faq/">Help &amp; FAQ</a></li>
+                                    <li><a href="/about/sales-alerts/">Sales Alerts</a></li>
+                                    <li><a href="/about/bloggers/">Bloggers</a></li>
+                                    <li><a href="/about/blog-widgets/">Blog Widgets</a></li>
+                                    <li><a href="/about/brands-and-stores/">Brands &amp; Stores</a></li>
+                                    <li><a href="/about/press/">Press</a></li>
+                                    <li><a href="/privacy/">Privacy &amp; Cookies</a></li>
+                                    <li><a href="/about/team/">Team</a></li>
+                                    <li><a href="/careers/">Careers</a></li>
+                                    <li><a href="/contact/" class="feedback-button">Feedback</a></li>
+                                    <li><a href="/contact/">Contact</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui-mega-menu ui-mega-menu-wtf">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            <nav class="menu-col">
+                                <ol>
+                                    <li><a href="/who-to-follow/featured/">Featured</a></li>
+                                    <li><a href="/who-to-follow/bloggers/">Bloggers</a></li>
+                                    <li><a href="/who-to-follow/">Designers</a></li>
+                                    <li><a href="/who-to-follow/users/">People</a></li>
+                                    <li><a href="/who-to-follow/stores/">Stores</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui-mega-menu ui-mega-menu-most-recent">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            <nav class="menu-col">
+                                <ol>
+                                    
+                                    <li><a href="/shop/whats-new/?view=all">Everything</a></li>
+                                    <li><a href="/shop/whats-new/?view=trending">Trending</a></li>
+                                    <li><a href="/shop/collections/">Collections</a></li>
+                                    <li><a href="/shop/runway/">Runway</a></li>
+                                    <li><a href="/shop/sale/">On Sale</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="ui-mega-menu ui-mega-menu-bloggers">
+                    <div class="container">
+                        <div class="ui-mega-menu-interior cf">
+                            <nav class="menu-col">
+                                <ol>
+                                    
+                                    <a href="/about/bloggers/">Connect Your Blog</a>
+                                    <li><br></li>
+                                    <li><h5><a href="/who-to-follow/bloggers/">Top Bloggers</a></h5></li>
+                                    <li><a href="/manrepeller/">The Man Repeller</a></li>
+                                    <li><a href="/whowhatwear/">Who What Wear</a></li>
+                                    <li><a href="/glitterguide/">Glitter Guide</a></li>
+                                    <li><a href="/sandrascloset/">Sandra's Closet</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
 
-                <nav class="lyst-nav">
-                    <a class="button" href="/who-to-follow/">Who to Follow</a>
-                    
-                    
-                    <a class="button" href="/account/login/" onclick="Lyst.login.addNextParamToLink(this);">Login</a>
-                    <a class="button" href="/account/register/">Sign Up</a>
-                    
-                </nav>
             </div>
         </header>
         
+
+    
+
+        
+        
+            
+
+<meta name="description" content="Lyst is a social shopping site that helps you discover the best fashion for you. Follow your favorite designers, boutiques, bloggers and stylists to get their latest updates in your stylefeed.">
+<meta name="keywords" content="designer fashion, designer clothes, designer clothing, designer shoes, designer bags, designer handbags, designer accessories,retail,shopping,apparel,shoes,bags,handbags, high fashion">
+
+
+<div class="lyst-body-splash lvr-promotion dark">
+
+    <div class="container cf">
+        <div class="splash-body cf">
+            <a href="" title="Dismiss this message" class="close"></a>
+            <h1><span class="win">Win $1250 shopping spree</span> at <span class="brand">LUISA VIA ROMA</span></h1>
+            <div class="enter">
+                
+                <p>Simply sign up to LYST to enter</p>
+                <a href="/account/register/11056/?utm_source=header&amp;utm_medium=banner&amp;utm_campaign=lvr_prom" rel="nofollow" class="button-black">Click to enter</a>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <script type="text/javascript">
+        $(function(){
+            $('.lyst-body-splash a.close').on('click', function(){
+                $('.lyst-body-splash').slideUp(400, function(){
+                    feedView.setScrollingValues();
+                });
+                $.get('/services/popup/stop/');
+                return false;
+            })
+        });
+    </script>
+
+
+
+        
+
+        
+
 
         
         
@@ -197,106 +749,129 @@
         <div class="lyst-body">
             <div class="container cf">
                 
-<div class="box8">
-<h1>LYST PRIVACY POLICY</h1>
+        
+        <div class="lyst-supp left" role="navigation">
+            <div class="lyst-about-nav">
+                <ol>
+                    <li><a href="/about/">What is Lyst?</a></li>
+                    <li><a href="/faq/">Help &amp; FAQ</a></li>
+                    <li><a href="/about/sales-alerts/">Sales Alerts</a></li>
+                    
+                </ol>
+                <ol>
+                    <li><a href="/about/bloggers/">Bloggers</a></li>
+                    <li><a href="/about/blog-widgets/">Blog Widgets</a></li>
+                    <li><a href="/about/brands-and-stores/">Brands / Stores</a></li>
+                    <li><a href="/about/press/">Press</a></li>
+                    <li><a href="/about/team/">Team</a></li>
+                    <li><a href="/careers/">Careers</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                </ol>
+                <ol>
+                    <li><a href="/terms/">Terms</a></li>
+                    <li><a href="/privacy/" class="active">Privacy</a></li>
+                </ol>
+            </div>
+        </div>
+        <div class="lyst-main lyst-about" role="main">
+            <h1>Lyst Privacy &amp; Cookie Policy</h1>
 
 <p>
-TO OUR COMMUNITY
-<br>
-If this sort of thing interests you, we would like your feedback on this Privacy Policy and our Terms of Service. My hope is that we will make changes as your use of the new version of Lyst evolves over the coming months. Feel free to <a href="mailto:cm@ly.st">email me</a> directly with any questions, comments and suggestions.
-<br>
-- Chris Morton, CEO / cofounder</p><p>
-</p>
-<p>
-Lyst knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the www.ly.st website and domain name (collectively, the “Website”), and/or using any other linked pages, features, content, or application services offered from time to time by Lyst in connection therewith (collectively the “Service”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
-</p>
-<p>
-1. WHAT DOES THIS PRIVACY POLICY COVER?
-</p>
-<p>
-This Privacy Policy covers Lyst’s treatment of personally identifiable information (“Personal Information”) that Lyst gathers when you access the Website and/or use some other features of the Service. This policy does not apply to the practices of companies that Lyst does not own or control, or to individuals that Lyst does not employ or manage.
-</p>
-<p>
-2. WHAT PERSONAL INFORMATION DOES LYST COLLECT?
-</p>
-<p>
-The information we gather enables us to personalize and improve our services. We collect the following types of information from our users:
-</p>
-<p>
-i. Personal Information You Provide to Us
-</p>
-<p>
-We receive and store any information you enter on the Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, IP address, browser information, username, password and any other information necessary for us to provide the Service, including the usernames and passwords for your accounts and profiles on third-party sites with which the Service interoperates. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Lyst’s products and services, including special and new features.
-</p>
-<p>
-ii. Personal Information Collected Automatically
-</p>
-<p>
-a. We receive and store certain types of information whenever you interact with our Website or use another feature of our Service. Lyst automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.
-</p>
-<p>
-b. More generally, our Service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, or user music preference data, similar to TV ratings that indicate how many people watched a particular show. Lyst only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or another feature of the Service so that we can make the Website appealing to as many customers as possible, and improve the Service. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Service. We share this type of statistical data so that our partners also understand how often people use our Service, so that they, too, may provide you with an optimal online experience. Again, Lyst never discloses aggregate information to a partner in a manner that would identify you personally.
-</p>
-<p>
+TO OUR COMMUNITY<br>
+If this sort of thing interests you, we would like your feedback on this Privacy Policy and our Terms of Service. My hope is that we will make changes as your use of the new version of Lyst evolves over the coming months. Feel free to <a href="mailto:cm@ly.st">email me</a> directly with any questions, comments and suggestions.<br>
+- Chris Morton, CEO / cofounder</p>
 
-iii. E-mail Communications
-</p>
-<p>
-We often receive a confirmation when you open an email from Lyst if your computer supports this type of program. Lyst uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
-</p>
-<p>
-3. WHAT ABOUT COOKIES?</p>
-<p>
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.</p>
-<p>
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Website’s most attractive features.</p>
-<p>
+<p>Lyst knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the www.ly.st website and domain name (collectively, the “Website”), and/or using any other linked pages, features, content, or application services offered from time to time by Lyst in connection therewith (collectively the “Service”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.</p>
 
-4. WILL LYST SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</p>
-<p>
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.</p>
-<p>
-i. Affiliated Businesses We Do Not Control</p>
-<p>
-We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Lyst may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.</p><p>
-ii. Agents</p><p>
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Lyst’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.</p><p>
-iii. User profiles and other information you post</p><p>
-User profile information including users. name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any Personal Information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.) becomes publicly available and can be collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.</p><p>
-iv. Communication in response to User Submissions</p><p>
-As part of the Service, you will receive from Lyst email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Lyst may send you email and other communication that it determines in its sole discretion relate to your User Submissions.</p><p>
-v. Business Transfers</p><p>
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Lyst, or substantially all of its assets were acquired, or in the unlikely event that Lyst goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Lyst may continue to use your Personal Information as set forth in this policy.</p><p>
-vi. Protection of Lyst and Others</p><p>
-We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Lyst, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p><p>
-vii. With Your Consent</p><p>
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p><p>
-5. IS PERSONAL INFORMATION ABOUT ME SECURE?</p><p>
-Your Lyst account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.</p><p>
-Lyst endeavors to protect user information to ensure that user account information is kept private. However, Lyst cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p><p>
-The Website contains links to other sites. Lyst is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.</p><p>
-Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.</p><p>
-6. WHAT PERSONAL INFORMATION CAN I ACCESS?</p><p>
-Lyst allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.</p><p>
-Real name; Account and user profile information;User e-mail address; Username and password; 
-User preferences; and Zip- and/or post-codes</p><p>
-Lyst will never allow this information to be released into the public domain as attributable to you. We may start to require new registrants to provide some or all of the above information.</p><p>
-7. WHAT CHOICES DO I HAVE?</p><p>
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of the Website or other features of the Service.</p><p>
-You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.</p><p>
-Once Lyst accounts are activated, you may request deletion of your account by following the instructions at the Account Settings section of the Website. Please note that some information may remain in our records after deletion of your account.</p><p>
-When you register for an account at our Website, you consent to receive email or other communications from us; if you do not wish to receive such communications, you should not register for an account at our Website. Please note that if you choose not to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.</p><p>
-8. CHANGES TO THIS PRIVACY POLICY</p><p>
-Lyst may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.</p><p>
+<h2>1. WHAT DOES THIS PRIVACY POLICY COVER?</h2>
+<p>This Privacy Policy covers Lyst’s treatment of personally identifiable information (“Personal Information”) that Lyst gathers when you access the Website and/or use some other features of the Service. This policy does not apply to the practices of companies that Lyst does not own or control, or to individuals that Lyst does not employ or manage.</p>
 
-9. TRADEMARKS</p><p>
-Lyst's policy on trademarks is available <a href="/trademark/">here</a></p><p>
+<h2>2. WHAT PERSONAL INFORMATION DOES LYST COLLECT?</h2>
+<p>The information we gather enables us to personalize and improve our services. We collect the following types of information from our users:</p>
 
-10. QUESTIONS OR CONCERNS</p><p>
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message <a href="mailto:privacy@lyst.com">here.</a> We will make every effort to resolve your concerns.</p><p>
-Effective Date: October 22nd 2010
-</p>
-</div>
+<h3>i. Personal Information You Provide to Us</h3>
+<p>We receive and store any information you enter on the Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, IP address, browser information, username, password and any other information necessary for us to provide the Service, including the usernames and passwords for your accounts and profiles on third-party sites with which the Service interoperates. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Lyst’s products and services, including special and new features.</p>
+
+<h3>ii. Personal Information Collected Automatically</h3>
+<p>a. We receive and store certain types of information whenever you interact with our Website or use another feature of our Service. Lyst automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.</p>
+<p>b. More generally, our Service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, or user music preference data, similar to TV ratings that indicate how many people watched a particular show. Lyst only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or another feature of the Service so that we can make the Website appealing to as many customers as possible, and improve the Service. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Service. We share this type of statistical data so that our partners also understand how often people use our Service, so that they, too, may provide you with an optimal online experience. Again, Lyst never discloses aggregate information to a partner in a manner that would identify you personally.</p>
+
+<h3>iii. E-mail Communications</h3>
+<p>We often receive a confirmation when you open an email from Lyst if your computer supports this type of program. Lyst uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.</p>
+
+<h2>3. WHAT ABOUT COOKIES?</h2>
+
+
+<p>A cookie is a small text file that is stored on a user's computer for tracking and record-keeping purposes. We use both session ID cookies and persistent cookies, to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies via your browser’s ‘clear cookie’ function. Please see allaboutcookies.org for more information about blocking cookies on your particular web browser. </p>
+
+<p> Unless you have adjusted your browser setting so that it will refuse cookies, we will drop cookies as soon as you visit our site. Persistent cookies enable us to track and target your interests to enhance your experience on our website. For example, we use this data to understand how you interact with our website so we can make improvements to the information and design of our website. By agreeing to the terms of this privacy policy, you consent to the cookies referenced above being dropped onto your machine. </p>
+
+
+<h2>4. WILL LYST SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</h2>
+<p>Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.</p>
+
+<h3>i. Affiliated Businesses We Do Not Control</h3>
+<p>We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Lyst may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.</p>
+
+<h3>ii. Agents</h3>
+<p>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Lyst’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.</p>
+
+<h3>iii. User profiles and other information you post</h3>
+<p>User profile information including users. name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Any Personal Information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, through reviews in product pages, etc.) becomes publicly available and can be collected and used by others. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.</p>
+
+<h3>iv. Communication in response to User Submissions</h3>
+<p>As part of the Service, you will receive from Lyst email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Lyst may send you email and other communication that it determines in its sole discretion relate to your User Submissions.</p>
+
+<h3>v. Business Transfers</h3>
+<p>In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Lyst, or substantially all of its assets were acquired, or in the unlikely event that Lyst goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Lyst may continue to use your Personal Information as set forth in this policy.</p>
+
+<h3>vi. Protection of Lyst and Others</h3>
+<p>We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Lyst, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+
+<h3>vii. With Your Consent</h3>
+<p>Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+
+<h2>5. IS PERSONAL INFORMATION ABOUT ME SECURE?</h2>
+<p>Your Lyst account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.</p>
+<p>Lyst endeavors to protect user information to ensure that user account information is kept private. However, Lyst cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+<p>The Website contains links to other sites. Lyst is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.</p>
+<p>Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.</p>
+
+<h2>6. WHAT PERSONAL INFORMATION CAN I ACCESS?</h2>
+<p>Lyst allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.</p>
+<p>Real name; Account and user profile information;User e-mail address; Username and password; 
+User preferences; and Zip- and/or post-codes</p>
+<p>Lyst will never allow this information to be released into the public domain as attributable to you. We may start to require new registrants to provide some or all of the above information.</p>
+
+<h2>7. WHAT CHOICES DO I HAVE?</h2>
+<p>As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of the Website or other features of the Service.</p>
+<p>You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.</p>
+<p>Once Lyst accounts are activated, you may request deletion of your account by following the instructions at the Account Settings section of the Website. Please note that some information may remain in our records after deletion of your account.</p>
+<p>When you register for an account at our Website, you consent to receive email or other communications from us; if you do not wish to receive such communications, you should not register for an account at our Website. Please note that if you choose not to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.</p>
+
+<h2>8. CHANGES TO THIS PRIVACY POLICY</h2>
+<p>Lyst may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.</p>
+
+<h2>9. TRADEMARKS</h2>
+<p>Lyst's policy on trademarks is available <a href="/trademark/">here</a></p>
+
+<h2>10. QUESTIONS OR CONCERNS</h2>
+<p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message <a href="mailto:privacy@lyst.com">here.</a> We will make every effort to resolve your concerns.</p>
+
+<p>Effective Date: October 22nd 2010</p>
+            
+        </div>
+        <script>
+            $(function () {
+                $(".connect-your-blog").click(function (ev) {
+                    var url = '/account/register_blog/';
+                    Lyst.Dialog({'title':'Connect your blog', 'modifierClass': 'wide', 'url': url})
+                        .get().attr('id', 'connect-your-blog');
+                    
+                    ev.preventDefault();
+                });
+            });
+        </script>
 
             </div>
         </div>
@@ -305,7 +880,7 @@ Effective Date: October 22nd 2010
         <footer class="lyst-footer">
             <div class="container cf">
                 <ul class="branding cf">
-                    <li><img src="/static/img/branding/footer-logo.png" alt="LYST"> The Things You Want.</li>
+                    <li><img src="/static/img/branding/footer-logo.png" alt="LYST"> A better way to shop.</li>
                 </ul>
 
                 <div class="country">
@@ -327,10 +902,10 @@ Effective Date: October 22nd 2010
                     </nav>
 
                     <nav>
-                        <a href="/partners/">Partners</a>
+                        <a href="/about/brands-and-stores/">Partners</a>
                         <a href="/shipping/">Shipping</a>
                         <a href="/terms/">Terms</a>
-                        <a href="/privacy/">Privacy</a>
+                        <a href="/privacy/">Privacy &amp; Cookies</a>
                     </nav>
 
                     <nav>
@@ -338,316 +913,65 @@ Effective Date: October 22nd 2010
                         <a target="_blank" href="http://lystit.com/">Blog</a>
                         <a target="_blank" href="http://www.facebook.com/Lyst">Facebook</a>
                         <a target="_blank" href="http://twitter.com/lyst">Twitter</a>
-                        
-                            <fb:like href="http://www.facebook.com/Lyst" send="false" width="120" height="30" layout="button_count" show_faces="false" font=""></fb:like>
-                            <g:plusone href="http://www.lyst.com" size="medium"></g:plusone>
-                        
                     </nav>
 
                     <nav>
-                        <a href="/who-to-follow/">Top Users</a>
+                        <a href="/who-to-follow/users/">Top Users</a>
                         <a href="/who-to-follow/?type=designer">Top Designers</a>
-                        <a href="/who-to-follow/?type=retailer">Top Stores</a>
-                    </nav>
-
-                    <nav class="top-searches">
-                        <h4>Top Searches</h4>
-                        <a href="/shop/balenciaga-bags/?product_type=Bags&amp;gender=Women&amp;designer=Balenciaga&amp;ref=fts">balenciaga bags</a>
-                        <a href="/shop/gucci-shoes/?product_type=Shoes&amp;gender=Women&amp;designer=Gucci&amp;ref=fts">gucci shoes</a>
-                        <a href="/shop/black-coat/?gender=Women&amp;q=black+coat">black coat</a>
                     </nav>
                 </div>
 
                 <p><small>Lyst Ltd. Established 2010. London + New York</small></p>
-                <p><small>© 2010-2011 Lyst</small></p>
+                <p><small>© 2012 Lyst</small></p>
             </div>
         </footer>
         
 
         
-
-        <div>
-            <script id="template-popup" type="text/html">
-<div class="popup">
-    <div class="matte"></div>
-    <div class="dialog <%= type %>">
-        <div class="dialog-header">
-            <h2><%= title %></h2>
-            <a class="close-button">Close</a>
-        </div>
-        <div class="content">
-        </div>
-    </div>
-</div>
-</script>
-
-<script id="template-popup-fullscreen-waiting" type="text/html">
-<div class="popup-fullscreen-waiting">
-    <div class="matte"></div>
-    <div class="content">
-        <div class="waiting"></div>
-    </div>
-</div>
-</script>
-
-<script id="template-comment" type="text/html">
-<li id="comment-<%= id %>" class="ui-comment media-block">
-    <a class="media-image" href="/<%= owner.slug %>/" tabindex="-1">
-        <img src="<%= owner.photo %>"
-             title="<%= owner.name %>"
-             alt="<%= owner.name %>"
-             width="32"
-             height="32">
-    </a>
-    <div class="media-content">
-        <a class="lyst-name" href="/<%= owner.slug %>/"><%= owner.name %></a>
-        <span class="comment"><%= text %></span>
-        <% if(is_owner) { %>
-        &middot; <span class="ui-comment-controls"><a href="#delete" onclick="Lyst.Services.deleteComment(this, event, '<%= id %>');">Delete</a></span>
-        <% } %>
-    </div>
-</li>
-</script>
-
-<script id="template-comment-extended" type="text/html">
-<li id="comment-<%= id %>" class="ui-comment media-block">
-    <a class="media-image" href="/<%= owner.slug %>/" tabindex="-1">
-        <img src="<%= owner.photo %>"
-            title="<%= owner.name %>"
-            width="32"
-            height="32" />
-    </a>
-    <div class="media-content">
-        <a class="lyst-name" href="/<%= owner.slug %>"><%= owner.name %></a>
-        <span class="comment"><%= text %></span>
-        <div class="meta-info">
-            <span class="timestamp">0 minutes ago</span>
-            <% if(is_owner) { %>
-            &middot; <span class="ui-comment-controls"><a href="#delete" onclick="Lyst.Services.deleteComment(this, event, '<%= id %>');">Delete</a></span>
-            <% } %>
-        </div>
-    </div>
-</li>
-</script>
-
-<script id="template-pin-dialog" type="text/html">
-<form action="#" method="post" id="pin-form">
-    <span>Share a note about this product</span>
-    <div class="ui-flexarea media-content">
-        <textarea id="pin_comment_textarea" name="pin_comment"
-            placeholder=""
-            onFocus="if(! this._uiControl) { return new Lyst.ui.TextAreaControl(this, {autoResize: true,
-                     onReturn: function() { $('#pin-form').submit(); }})};"></textarea>
-    </div>
-    <label for="pin_facebook">
-        <% if(postFBChecked) { %>
-            <input name="pin_facebook" id="pin_facebook" type="checkbox" checked="checked" />
-        <% }else { %>
-            <input name="pin_facebook" id="pin_facebook" type="checkbox" />
-        <% } %>
-        Post on facebook
-    </label>
-    <div class="submit"><input id="submit-note" class="button" type="submit" value="Share note"> <a id="skip-note" href="#">Not now</a></div>
-</form>
-</script>
-
-<script id="template-lyst-button" type="text/html">
-<a href="<%= url %>"
-    class="button button-add add-to-lyst<% if(pinned){ %> pinned<% } %>"
-    <% _.each(data, function(val, attr) { %>data-<%= attr %>="<%= val %>"<% }); %>
-    onClick="var that=this; return Lyst.login.then(that, function(){ Lyst.Services.togglePin(that); });">
-    <span class="icon <%= iconClass %>"></span><%= msg %></a>
-</script>
-
-<script id="template-collection-delete" type="text/html">
-<div id="collection-delete" class="popup">
-    <div class="matte"></div>
-    <div class="dialog">
-        <div class="dialog-header">
-            <h2>Confirm Delete</h2>
-            <a class="close-button">Close</a>
-        </div>
-        <div class="content">
-            <p>
-                Are you sure you want to delete: <strong><%= name %></strong>?
-            </p>
-            <div class="submit">
-                <a href="#yes" id="yes" class="button">
-                    Yes, delete my collection
-                </a>
-                <a href="#no" id="no" class="button">
-                    No
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-</script>
-
-<script id="template-collection-edit" type="text/html">
-<div id="collection-edit" class="popup">
-    <div class="matte"></div>
-    <div class="dialog">
-        <div class="dialog-header">
-            <h2>Edit Collection</h2>
-            <a class="close-button">Close</a>
-        </div>
-        <div class="content">
-            <form id="form-edit-collection" class="simple-form">
-                <div class="errors"></div>
-                <div class="field">
-                    <label class="desc" for="name">Name</label>
-                    <span class="ui-flexarea"><input type="text" id="edit-collection-name" name="name" value="<%= name %>"/></span>
-                </div>
-                <div class="field">
-                    <label class="desc" for="description">Description</label>
-                    <span class="ui-flexarea"><textarea id="edit-collection-description" name="description"><%= description %></textarea></span>
-                </div>
-                <div class="submit">
-                    <input type="submit" class="button submit" value="Save Changes" />
-                    <a id="no" href="#cancel">Cancel</a>
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
-</script>
-
-
-<script id="template-organizer" type="text/html">
-<div class="container cf">
-    <div class="organizer">
-        <h2 class="organizer-control"><a href="#"><span class="icon up"></span>Your Collections</a></h2>
-        <div class="organizer-tray cf">
-            <div class="collection-card create droppable">
-                <span>Drop to create new collection</span>
-            </div>
-        </div>
-    </div>
-</div>
-</script>
-
-<script id="template-organizer-collection" type="text/html">
-<div class="media-strip">
-    <a href="/<%= owner_slug %>/<%= slug %>/">
-    <% if(look_image_thumb_url){ %>
-        <img class="media-image" src="<%= look_image_thumb_url %>" alt="" width="55" height="55">
-    <% } %>
-    <% for(var i = 0; i < Math.min(4, images.length); i++) { %>
-        <img class="media-image" src="http://s3-eu-west-1.amazonaws.com/lyst-static/<%= images[i][0] %>" alt="" width="55" height="55">
-    <% } %>
-    </a>
-</div>
-<h4><a href="/<%= owner_slug %>/<%= slug %>/"><%= name %></a></h4>
-</script>
-
-<script id="template-create-collection" type="text/html">
-<div class="matte"></div>
-<div class="dialog">
-    <div class="dialog-header">
-        <h2>Name your new collection</h2>
-    </div>
-    <div class="content">
-        <div class="alert-box hidden">
-        </div>
-        <form class="simple-form" id="create_collection_form">
-            <div class="field">
-                <label class="desc" for="id_title">Title <span class="required">*</span></label>
-                <span class="ui-flexarea">
-                    <input type="text" id="id_title" name="title" />
-                </span>
-            </div>
-            <div class="field">
-                <label class="desc" for="id_description">Description</label>
-                <span class="ui-flexarea">
-                    <textarea id="id_description" name="description"></textarea>
-                </span>
-            </div>
-
-            <div class="submit">
-                <input class="button" type="submit" value="Create Collection">
-                <a herf="#" class="cancel">Cancel</a>
-            </div>
-        </form>
-    </div>
-</div>
-</script>
-
-<script id="template-search-suggest-tags" type="text/html">
-    <li class="header"><%= header %></li>
-
-    <% for(var i = 0; i < results.length; i++) { %>
-        <li
-            data-url="<%= results[i].url %>"
-            data-params="<%= results[i].params %>"
-            class="result cf tag-result"
-        >
-            <div class="tag-text">
-                <a href="<%= results[i].url %>">
-                    <div class="title"><%= results[i].value %></div>
-                </a>
-            </div>
-            <div href="<%= results[i].url %>" class="tag-type tag-<%= results[i].type %>">
-                <%= results[i].type %>
-            </div>
-        </li>
-    <% } %>
-
-</script>
-
-<script id="template-search-suggest-lysts" type="text/html">
-    <li class="header"><%= header %></li>
-
-    <% for(var i = 0; i < results.length; i++) { %>
-        <li
-            data-url="<%= results[i].url %>"
-            class="result cf lyst-result"
-        >
-            <div class="tag-text">
-                <a href="<%= results[i].url %>">
-                    <div class="title"><%= results[i].title %></div>
-                </a>
-                <% if (results[i].description) { %>
-                    <div class="description"><%= results[i].description %></div>
-                <% } %>
-            </div>
-            <a href="<%= results[i].url %>" class="tag-img">
-                <img class="media-image" src="<%= results[i].thumb_image %>" alt="" width="40" height="40">
-            </a>
-        </li>
-    <% } %>
-
-</script>
-
-<script id="template-search-suggest-waiting" type="text/html">
-<li class="searching">
-    <span class="icon waiting"></span> Searching
-</li>
-</script>
-
-<script id="template-search-suggest-all" type="text/html">
-<li class="submit result">
-    <div class="terms">See all results for &ldquo;<span class="search-text"></span>&ldquo;</div>
-</li>
-</script>
-
-        </div>
-
-        <a href="#feedback" class="feedback-button" onclick="Lyst.showFeedbackDialog(event);"></a>
-
-        <script>
+                <script>
             $(function() {
                 // search box backbone view
                 window.searchboxView = new Lyst.SearchboxView({
-                    el: $("#search")
+                    el: $("#search"),
+                    type: 'search'
                 });
-
-                // initilize tipsy
-                $('.tooltipsy').tipsy();
+                window.searchboxView.setCurrentParams('?');
 
                 
             });
         </script>
+                <div>
+            <script id="template-popup" type="text/html"><div class="popup"><div class="matte"></div><div class="dialog <%= type %>"><div class="dialog-header"><h2><%= title %></h2><a class="close-button">Close</a></div><div class="content"></div></div></div></script><script id="template-popup-fullscreen-waiting" type="text/html"><div class="popup-fullscreen-waiting"><div class="matte"></div><div class="content"><div class="waiting"></div></div></div></script><script id="template-comment" type="text/html"><li id="comment-<%= id %>" class="ui-comment media-block"><a class="media-image" href="/<%= owner.slug %>/" tabindex="-1"><img src="<%= owner.photo %>"
+             title="<%= owner.name %>"
+             alt="<%= owner.name %>"
+             width="32"
+             height="32"></a><div class="media-content"><a class="lyst-name" href="/<%= owner.slug %>/"><%= owner.name %></a><span class="comment"><%= text %></span><% if(is_owner) { %>
+        &middot; <span class="ui-comment-controls"><a href="#delete" onclick="Lyst.Services.deleteComment(this, event, '<%= id %>');">Delete</a></span><% } %></div></li></script><script id="template-comment-extended" type="text/html"><li id="comment-<%= id %>" class="ui-comment media-block"><a class="media-image" href="/<%= owner.slug %>/" tabindex="-1"><img src="<%= owner.photo %>"
+            title="<%= owner.name %>"
+            width="32"
+            height="32" /></a><div class="media-content"><a class="lyst-name" href="/<%= owner.slug %>"><%= owner.name %></a><span class="comment"><%= text %></span><div class="meta-info"><span class="timestamp">0 minutes ago</span><% if(is_owner) { %>
+            &middot; <span class="ui-comment-controls"><a href="#delete" onclick="Lyst.Services.deleteComment(this, event, '<%= id %>');">Delete</a></span><% } %></div></div></li></script><script id="template-pin-dialog" type="text/html"><ul><li>- Added to your lyst</li><li>- Tracking for Sales Alerts </li></ul></script><script id="template-lyst-button" type="text/html"><a href="<%= url %>"
+    class="button-black <%= iconClass %>"
+    <% _.each(data, function(val, attr) { %>data-<%= attr %>="<%= val %>"<% }); %>
+    onClick="var that=this; return Lyst.login.then(that, function(){ Lyst.Services.togglePin(that); });"><%= msg %></a></script><script id="template-collection-delete" type="text/html"><div id="collection-delete" class="popup"><div class="matte"></div><div class="dialog"><div class="dialog-header"><h2>Confirm Delete</h2><a class="close-button">Close</a></div><div class="content"><p>
+                Are you sure you want to delete: <strong><%= name %></strong>?
+            </p><div class="submit"><a href="#yes" id="yes" class="button">
+                    Yes
+                </a><a href="#no" id="no" class="button">
+                    No
+                </a></div></div></div></div></script><script id="template-dialog-collection-delete" type="text/html"><p>Are you sure you want to delete: <strong><%= name %></strong>?</p><div class="submit"><a href="#yes" id="yes" class="button-black">Yes, delete my collection</a><a href="#no" id="no" class="cancel close-button">No, don&#39;t delete it</a></div></script><script id="template-collection-edit" type="text/html"><div id="collection-edit" class="popup"><div class="matte"></div><div class="dialog"><div class="dialog-header"><h2>Edit Collection</h2><a class="close-button">Close</a></div><div class="content"><form id="form-edit-collection" class="simple-form"><div class="errors"></div><div class="field"><label class="desc" for="name">Name</label><span class="ui-flexarea"><input type="text" id="edit-collection-name" name="name" value="<%= name %>"/></span></div><div class="field"><label class="desc" for="description">Description</label><span class="ui-flexarea"><textarea id="edit-collection-description" name="description"><%= description %></textarea></span></div><div class="submit"><input type="submit" class="button submit" value="Save Changes" /><a id="no" href="#cancel">Cancel</a></div></form></div></div></div></script><script id="template-organizer" type="text/html"><div class="container cf"><div class="organizer"><h2 class="organizer-control"><a href="#"><span class="icon up"></span>Your Collections</a></h2><div class="organizer-tray cf"><div class="collection-card create droppable"><span>Drag and drop an item here to create new collection</span></div></div></div></div></script><script id="template-organizer-collection" type="text/html"><div class="media-strip"><a href="/<%= owner_slug %>/<%= slug %>/"><% if(look_image_thumb_url){ %><img class="media-image" src="<%= look_image_thumb_url %>" alt="" width="55" height="55"><% } %><% for(var i = 0; i < Math.min(4, images.length); i++) { %><img class="media-image" src="http://s3-eu-west-1.amazonaws.com/lyst-static/<%= images[i][0] %>" alt="" width="55" height="55"><% } %></a></div><h4><a href="/<%= owner_slug %>/<%= slug %>/"><%= name %></a></h4></script><script id="template-dialog-create-collection" type="text/html"><div class="alert-box hidden"></div><form class="simple-form" id="create_collection_form"><div class="field"><label class="desc" for="id_title">Title <span class="required">*</span></label><span class="ui-flexarea"><input type="text" id="id_title" name="title" /></span></div><div class="field"><label class="desc" for="id_description">Description</label><span class="ui-flexarea"><textarea id="id_description" name="description"></textarea></span></div><div class="submit"><input class="button-black" type="submit" value="Create Collection"><a herf="#" class="cancel close-button">Cancel</a></div></form></script><script id="template-search-suggest-tags" type="text/html"><li class="header"><span class="icon search-<%= header_slug %>"></span><%= header %></li><% for(var i = 0; i < results.length; i++) { %><li data-url="<%= results[i].url %>" data-params="<%= results[i].params %>" class="result cf tag-result"><div href="<%= results[i].url %>" class="tag-type tag-<%= results[i].type %>"><%= results[i].type %></div><div class="tag-text"><a href="<%= results[i].url %>"><div class="title"><%= results[i].value %></div></a></div></li><% } %></script><script id="template-search-suggest-lysts" type="text/html"><li class="header"><span class="icon search-<%= header_slug %>"></span><%= header %></li><% for(var i = 0; i < results.length; i++) { %><li data-url="<%= results[i].url %>" class="result cf lyst-result"><a href="<%= results[i].url %>" class="tag-img"><img class="media-image" src="<%= results[i].thumb_image %>" alt="" width="24" height="24" /></a><div class="tag-text"><a href="<%= results[i].url %>"><div class="title"><%= results[i].title %></div></a><% if (results[i].description) { %><div class="description"><%= results[i].description %></div><% } %></div></li><% } %></script><script id="template-search-suggest-waiting" type="text/html"><li class="searching"><span class="icon waiting"></span> Searching
+    </li></script><script id="template-search-suggest-all" type="text/html"><li class="submit result"><span class="icon search-results"></span> Show all results
+    </li></script><script id="template-search-follow" type="text/html"><% for(var i = 0; i < results.length; i++) { %><li data-url="<%= results[i].url %>" class="result cf follow-result"><img class="media-image" src="<%= results[i].thumb_image %>" alt="" width="24" height="24" /><div class="tag-text"><div class="title"><%= results[i].title %></div><% if (results[i].is_following) { %><a href="/api/users/add/<%= results[i].id %>"
+            class="button-black small-button tick-button"
+            onclick="App.onFollowClick(this); return false;"
+            data-lyst-id="<%= results[i].id %>">Following</a><% } else { %><a href="/api/users/add/<%= results[i].id %>"
+            class="button-black small-button plus-button"
+            onclick="App.onFollowClick(this); return false;"
+            data-lyst-id="<%= results[i].id %>">Follow</a><% } %></div></li><% } %></script><script id="template-modal-dialog" type="text/html"><div class="popup"><div class="matte"></div><div class="dialog  fixed-dialog"><div class="dialog-header"><h2><%= title %></h2></div><div class="content"></div></div></div></script><script id="template-dialog" type="text/html"><div class="popup"><div class="matte"></div><div class="dialog"><div class="dialog-header"><h2><%= title %></h2><a href="#" class="close-button"></a></div><div class="content"></div></div></div></script><script id="template-image-magnifier" type="text/html"><div class="popup image-magnifier popup-fullscreen-waiting" id="image-magnifier-<%= productId %>"><nav class="thumbs media-strip"><% for(var i = 0; i < images.length; i++) { %><a title="<%= title %>" href="<%= images[i].href %>" id="img<%= images[i].id %>" class="media-image"><img src="<%= images[i].src %>" width="55" height="55"/></a><% } %><a href="#close" class="button-black media-image close-button">Exit</a></nav><div class="matte close-button"></div><div class="image-container"><img /></div><div class="waiting"></div></div></script>
+
+        </div>
+        <script src="//connect.facebook.net/en_US/all.js"></script>
     
+
 
 </body></html>
