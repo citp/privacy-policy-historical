@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231151530id_/http%3A//www.studentcity.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608021259id_/http%3A//www.studentcity.com/legal) for the most accurate reproduction.*
 
 # Legal disclosure & Privacy policy - We take privacy seriously - StudentCity
 
