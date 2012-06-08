@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartlivecasino.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141137id_/http%3A//livecasino.smartlivegaming.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlivecasino.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608231053id_/http%3A//livecasino.smartlivegaming.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Smart Live Casino | Security and Privacy
 
