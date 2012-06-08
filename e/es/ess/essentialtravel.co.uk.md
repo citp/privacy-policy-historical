@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103013219id_/http%3A//www.essentialtravel.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609002357id_/http%3A//www.essentialtravel.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,15 +16,25 @@ The information we hold will be accurate and up to date. You can check the infor
 
 If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
 
-We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
+## Cookies
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+We may use technology to analyse the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your computer. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
+
+Read more about [our cookies and how to opt-out](http://www.essentialtravel.co.uk/cookies-information.asp) here.
+
+## Third-Party Web Beacons
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to **see how parts of our site are used and how we can improve the overall experience of our visitors and customers.**
+
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 ## Essential Travel Email Policy
 
 Essential Travel primarily use email to keep in touch with our customers. We send email confirmations when purchasing services from us as well as a monthly travel magazine. We endeavour to deliver emails straight to your inbox in a timely fashion. Your privacy is important to us which is why our email policy complies with UK and EU law.
 
-In Addition to confirmations and the monthly Essential Travel Magazine emails we also send sales emails. This is to let our customers know the range of services we offer as well as potential savings on future purchases. These emails are scheduled on a monthly basis and all emails give the recipient the chance to [unsubscribe](http://www.essentialtravel.co.uk/travelinsurance/unsubscribe.asp) permanently.
+In Addition to confirmations and the monthly Essential Travel Magazine emails we also send sales emails. This is to let our customers know the range of services we offer as well as potential savings on future purchases. These emails are scheduled on a monthly basis and all emails give the recipient the chance to [unsubscribe](http://www.essentialtravel.co.uk/unsubscribe.asp) permanently.
 
 If you have any questions/comments about privacy please call us on 0845 803 5434.
 
