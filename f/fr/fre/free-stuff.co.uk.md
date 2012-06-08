@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216140602id_/http%3A//www.free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608112134id_/http%3A//www.free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # free stuff
 
@@ -7,6 +7,16 @@ Privacy Policy for free-stuff.co.uk
 The privacy of our visitors to free-stuff.co.uk is important to us.
 
 At free-stuff.co.uk, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit free-stuff.co.uk, and how we safeguard your information.  We never sell your personal information to third parties.
+
+**Opt-in Newsletter Service**
+
+We require your e-mail address if you wish to receive our opt-in newsletter. We will never disclosure your e-mail address to third parties or use it for any other purpose. 
+
+**External Domains**
+
+We are not responsible for the privacy practices of other Web sites. Due to the nature of the Internet, we cannot be held responsible for any information being intercepted by a third party.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Free-Stuff.co.uk, please [contact us](http://www.free-stuff.co.uk/contact_us.php) and we'll be more than happy to help you out!
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
