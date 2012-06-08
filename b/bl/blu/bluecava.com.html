@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bluecava.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231074954id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluecava.com privacy policy that was archived on 2012-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609002424id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -36,7 +36,7 @@
 
 <link rel="alternate" type="application/rss+xml" title="BlueCava » Privacy Policy Comments Feed" href="http://www.bluecava.com/privacy-policy/feed/">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.bluecava.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="ss-downloads-css" href="http://www.bluecava.com/wp-content/plugins/ss-downloads/css/ss-downloads.css?ver=1105" type="text/css" media="all">
+<link rel="stylesheet" id="ss-downloads-css" href="http://www.bluecava.com/wp-content/plugins/ss-downloads/css/ss-downloads.css?ver=3471" type="text/css" media="all">
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.bluecava.com/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="http://www.bluecava.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bluecava.com/wp-includes/wlwmanifest.xml"> 
@@ -68,10 +68,15 @@
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script><!-- END Typekit Fonts for WordPress -->
 
 <!-- blue cava -->
-<script type="text/javascript" src="//lookup.bluecava.com/BCLD2.js"></script>
+<script type="text/javascript" src="//ds.bluecava.com/V50/AL/BCAL5.js"></script>
 <script type="text/javascript">
 function append_sid(link) {
-            return link;
+            var session_id = '3pvrvc5mc0esv75v5f6vcqt115';
+            if(link.indexOf('?') == -1) {
+                return link + '?PHPSESSID=' + session_id;
+            } else {
+                return link + '&amp;PHPSESSID=' + session_id;
+           }
     }
 </script>
 <script type="text/javascript">// Dec 5, 2010 2:53pm
@@ -213,7 +218,7 @@ function EmbedVideo() {
 }
 
 jQuery(document).ready(function () {
-    BCLD.getId(OnFingerprintReady, OnFingerprintError);
+    BCLD.getSnapshot(OnFingerprintReady, OnFingerprintError);
     EmbedVideo();
 });
 
@@ -324,67 +329,11 @@ return false;
 </script>
 </head>
 
-<body><div id="fuzz">
-<div class="msgBox">
-        <a class="close" href="#"><img src="/close.gif"></a>
-        <div id="goodMsg" style="padding:20px">
-			<p class="myresponseMsg">Thank you.  We have emailed your tech brief to the email address that you provided.</p>
-			<input class="myclosebutton" style="width:70px;" type="button" value="Done" size="20" onclick="closeFuzz()">
-	</div>
-	<div id="badMsg"><p class="myresponseMsg">Uh oh, there was an error and we couldn't reach our server. Please try again shortly.</p>
-                        <input class="myclosebutton" style="width:70px;" type="button" value="Done" size="20" onclick="closeFuzz()">
-	 </div>
-	<div id="hideme" style="padding:15px;border-style:outset;border-width:6px;border-color:#009bd5;">
-        <form method="post" action="/formHandler.php" class="cmxform" id="myform" name="myform">
-            <fieldset class="submitform">
-                        <h6 style="width:300px;margin-left:10px;">Where can we send your tech brief?</h6>
-                        <!--- First Name, Last Name, Company Name, Title, Email Address and Phone Number--->
-                <div>
-                    <label class="mylabelstyle" for="firstname" id="firstnameLabel">First Name: </label>
-                    <input class="myinputstyle" type="text" name="firstname" id="firstname">
-                </div>
-
-                <div>
-                    <label class="mylabelstyle" for="lastname" id="lastnameLabel">Last Name: </label>
-                    <input class="myinputstyle" type="text" name="lastname" id="lastname">
-                </div>
-
-                <div>
-                    <label class="mylabelstyle" for="company" id="companyLabel">Company: </label>
-                    <input class="myinputstyle" type="text" name="company" id="company">
-                </div>
-
-                <div>
-                    <label class="mylabelstyle" for="title" id="titleLabel">Title: </label>
-                    <input class="myinputstyle" type="text" name="title" id="title">
-                </div>
-                <div>
-                    <label class="mylabelstyle" for="email" id="emailLabel">Email: </label>
-                    <input class="myinputstyle" type="text" name="email" id="email">
-                </div>
-
-                <div>
-                    <label class="mylabelstyle" for="phone" id="phoneLabel">Phone: </label>
-                    <input class="myinputstyle" type="text" name="phone" id="phone">
-                </div>
-                <div style="margin-top:10px; align:center">
-		<input type="hidden" name="paper" value="/privacy-policy/">
-		<div style="font-style:italic;padding-bottom:10px;padding-left:20px;">All fields required.</div>
-                <input class="myinputstyle" style="width:70px;" type="button" value="Submit" size="20" onclick="submitForm()">
-                </div>
-            </fieldset>
-        </form>
-        </div>
-        <div id="loader">
-            <p>Please wait while we submit your details.</p>
-            <img src="/loader.gif">
-        </div>
-</div>
-</div>
 
 
 
 
+<body>
 
 <div id="wrapper" class="site">
 
@@ -438,7 +387,7 @@ return false;
 												
 												<div class="content">
 													<p><strong>BlueCava Online Privacy Policy</strong></p>
-<p>September 16, 2011 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.</p>
+<p>May 21, 2012 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.</p>
 <p>This privacy policy covers data collected by BlueCava for the purposes of online advertising and detection and prevention of fraud on the Internet.&nbsp;&nbsp; A common complaint about privacy policies is they can be long, difficult to understand and include too much “legalese”. We have tried to explain what we do in simple, understandable language, and add a little humor at the same time. We welcome your comments.</p>
 <p>We understand that how the Internet works, and how data is collected and used for online advertising can be a little complicated and difficult to understand. Our goal with this privacy policy is to help you understand what we do, how we do it, that what we do isn’t scary, and the options we provide you. The basis of our business is identifying devices (currently computers, cell phones, television set-top boxes and gaming consoles) that are connected to certain sites on the Internet. After identifying these machines, we collect data about those devices. The data we collect is generally used for the following: to deliver more relevant advertising, to measure the effectiveness of advertising and to reduce fraud on the Internet.&nbsp; We think these are all good things, as long as we do them the right way, we are transparent in how we do them and provide you with choices.</p>
 <p>Some people don’t like targeted ads.&nbsp; If you’d like to stop BlueCava from collecting data about your device for targeted advertising, click <a title="Preferences" href="http://www.bluecava.com/preferences/"><span style="text-decoration: underline;">here</span></a> to opt-out. If you opt-out, you’ll still receive ads, they just won’t be tailored to your interests.</p>
@@ -459,7 +408,8 @@ BlueCava does not collect sensitive information, including sensitive health or f
 </strong><br>
 We do not target or create audience segments targeted at children under the age of thirteen (13).&nbsp; We may collect data from a computer being used by someone who is under 13, and may use that data for creating interest based audience segments for advertising purposes. We are unable to prevent this since we don’t collect data with the intent of identifying children under the age of 13.</p>
 <p><strong>Device Identification</strong></p>
-<p>BlueCava has developed device identification technology that enables us to identify devices on the Internet. In order to do this, we collect non-personal information about your computer and Web browser when you visit one of our partner Websites. The type of information we collect includes the IP address, browser version, time zone, the fonts installed on your computer, browser plug-ins and various other properties of your computer/browser. We do not collect browsing history (aka history sniffing) as part of this process. The collected information is put into a “snapshot” and is sent to our servers. The servers use the information to create a unique Device ID for every device. The cool thing is, this stuff varies enough from computer to computer than we can uniquely identify devices (very few look alike). We can only collect this information when our software is included in a software application, is on a Website, or in an online ad.</p>
+<p>BlueCava has developed device identification technology that enables us to identify devices on the Internet. &nbsp;In order to do this, we collect non-personal information about your device and Web browser when you visit one of our partner Websites. &nbsp;The type of information we collect includes the type of device, IP address, browser version, time zone, the fonts installed on your device, browser plug-ins and various other properties of your device/browser. We do not collect browsing history stored in your device (aka history sniffing) as part of this process. The collected information is put into a “snapshot” and is sent to our servers each time you visit one of our partner Websites. &nbsp;The servers use the information to create a unique Device ID for every device and to “match” the device to the snapshots we receive from our partners. The cool thing is, this stuff varies enough from computer to computer than we can uniquely identify devices (very few look alike). &nbsp;We can only collect this information when our software is included in a software application, is on a Website, or in an online ad.</p>
+<p>Unlike in the old days when the family used to gather around the one radio for news and entertainment (and warmth–vacuum tubes get hot!), the average 21st century household requires multiple devices for both work and play.&nbsp; When we use snapshots to create a unique Device ID, we are also able to group related devices into “households” based on strong, common characteristics among the snapshots, like IP addresses.&nbsp; By understanding these households, we can help our customers understand how devices are related so they can deliver content personalized to you based on your interests gathered from all your devices, no matter which device you are using and not just your primary device.</p>
 <p><strong>Cookies</strong></p>
 <p>We like cookies. Chocolate Chip is our favorite. Lots of people are scared of Internet cookies, but without them, the Internet would be a lot harder to use. Cookies are small text files that can be used by a Website to store information on a users’ machine and later retrieve it. We think our technology is really neat because it doesn’t require us to use cookies to identify devices.&nbsp; However, in certain cases we may use cookies (aka browser cookies), Flash and/or HTML5 cookies to speed up the process of identifying the machine.&nbsp; This allows us to identify a device faster, which can be good for everybody. We don’t store any personal information in cookies. Which of these technologies we use depends upon our customers/partners.&nbsp; We require them to provide notice of which technologies they use on their Website.</p>
 <p><strong>Web Beacons</strong></p>
@@ -488,9 +438,8 @@ We do not target or create audience segments targeted at children under the age 
 </ul>
 <p><strong>Choices</strong></p>
 <p>We think targeted advertising is a good thing. But we understand that some people don’t want data collected about them online. In addition, we’re supportive of industry self-regulatory principles for online behavioral advertising. So if you like pina coladas and getting caught in the rain but don’t want anyone to know it, we can help you opt-out so we won’t tell any of our customers that you like Jimmy Buffet.</p>
-<p>We provide another option in addition to opting-out. BlueCava allows you to pick the categories of advertising you want to see. So if you prefer margaritas over pina coladas, you can use our Preferences Manager to choose the categories of ads you’ll see, and won’t see.</p>
-<p>When you choose to opt-out, as we recognize the device from one Website to another, we will not keep any behavioral advertising related information and we will no longer share behavioral advertising data with third parties. In addition, we will delete any personal information we may have about the device. Of course, we don’t let you opt out-of us gathering information related to fighting online fraud, because if we did, the fraudsters would have a field day.</p>
-<p><a title="Preferences" href="http://www.bluecava.com/preferences/">Click here to opt-in, opt-out and set your preferences.</a></p>
+<p>When you choose to opt-out of tracking, as we recognize the device from one Website to another, we will no longer share behavioral advertising data with third parties. Of course, we don’t let you opt out-of us gathering information related to fighting online fraud, because if we did, the fraudsters would have a field day.</p>
+<p><a title="Preferences" href="http://www.bluecava.com/preferences/">Click here to opt-in, opt-out.</a></p>
 <p>To opt-out from other companies that BlueCava may share information with, or other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry Websites.</p>
 <ul>
 <li>The Digital Advertising Alliance Website, <a href="http://www.aboutads.info/">www.aboutads.info</a>.</li>
@@ -517,7 +466,7 @@ Irvine, CA 92617</p>
 <p>In our view, rooting out fraud and providing better online targeting makes our economy more efficient and more productive. We think that companies should get what they pay for and that consumers should not have to bear the indirect burden of fraud and waste. It’s pretty straightforward.</p>
 <p><strong> </strong></p>
 <p><strong>Changes to Privacy Policy</strong></p>
-<p>This Privacy Policy may change from time to time. &nbsp;Our Privacy Policy was last updated on September 16, 2011.</p>
+<p>This Privacy Policy may change from time to time. &nbsp;Our Privacy Policy was last updated on May 21, 2012.</p>
 												</div> <!-- end .content -->								
 											
 									</div> <!-- end .entry -->
@@ -801,7 +750,7 @@ qacct:"p-c6KsiWIqSErd6"
 <img src="//pixel.quantserve.com/pixel/p-c6KsiWIqSErd6.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
-<!-- End Quantcast tag --><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201152.js" type="text/javascript"></script>
+<!-- End Quantcast tag --><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201223.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'18309404',v:'ext',post:'1108'});
 var load_cmc = function(){linktracker_init(18309404,1108,2);};
