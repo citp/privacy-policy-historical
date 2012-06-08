@@ -1,80 +1,64 @@
-> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2011-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110916223925id_/http%3A//www.displaylink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608124042id_/http%3A//www.displaylink.com/legal/privacy.php) for the most accurate reproduction.*
 
 # DisplayLink: Privacy
 
-**DISPLAYLINK (UK) LIMITED PRIVACY POLICY**
+This privacy policy sets out how DisplayLink (UK) Limited ("DisplayLink") uses and protects any information that you give DisplayLink when you use this website.
 
-DisplayLink (UK) Limited ("DisplayLink") is committed to protecting your privacy and this Privacy Policy sets out our privacy practices. Please take the time to review this Privacy Policy carefully as it tells you how your personal information will be treated by us.
+DisplayLink is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-By using the DisplayLink (UK) Limited site (www.DisplayLink.com) (the “Site”) and our services, you unconditionally agree to be bound by this Privacy Policy.
+DisplayLink may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 15th May 2012.
 
-DisplayLink wants to offer you the best possible internet experience. Consequently, additional functions, features, products or services are incorporated into the Site from time to time. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
+## What we collect
 
-Any questions regarding our Privacy Policy should be directed to DisplayLink’s Privacy Policy Manager (John Martyn), or alternatively see the section “Contacting us” below.
+We may collect the following information: 
 
-What do we collect and use personal information for?
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**In order to:**
 
-record and respond to any enquiries or other communications you make via the Site;  
-customise the service we provide to you;  
-to enable you to access password protected areas of the Site;  
-administrate or otherwise carry out our obligations in relation to any agreement you have with us;  
-verify your identity;  
-anticipate and resolve problems with any goods or services supplied to you;  
-carry out market research and tracking of sales data;  
-send you information about our products and services;  
-share information with other DisplayLink group companies;  
-analyse aggregated data (that is personal data that has been aggregated to the extent that the identity of the individuals is removed from the analysis and results) from customers and interested parties to help us make business decisions;  
-We may need to collect and process personal information about you through the Site (including your name, your username and password, address, company name, gender, and, in connection with your password (where applicable), an answer to a question that only you would know). We may ask you for this information through our Site, or via one of our telephone operators. Certain information is collected automatically, as described later in this Privacy Policy.
 
-Although we do not make it compulsory to give us every item of information we ask for, the more information you volunteer (and the more accurate it is), the better we can tailor our services for you.
+## What we do with the information we gather
 
-Certain DisplayLink services may be offered in conjunction with one of our partners. If in order to use such a service, your personal information may need to be shared or only our partner may need to collect and use it, then we will tell you when you first go to use that service. Please note that certain services may be unavailable if you do not want to disclose the personal information you are asked for.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Log files/IP addresses**
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-When you visit our Site, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer the Site and to collect broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information.
 
-**Non personal information**
 
-We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our Site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Site. We may from time to time supply the owners or operators of third party sites from which it is possible to link to our Site with information relating to the number of users linking to our Site from their sites. You cannot be identified from this information.
+## Security
 
-**Information placed on your computer**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-We may store some information (commonly known as a “cookie”) on your computer when you look at our Site. This information facilitates your use of our Site and helps us to provide you with the best level of service. For example, cookies ensure that you do not need to re-enter your details every time you visit our Site.
+## How we use cookies
 
-You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but certain DisplayLink services may not work correctly if you set your browser not to accept cookies.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Disclosing your information to others**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally entitled or obliged to do so (for example, if required to do so by Court order or for the purposes of prevention of fraud or other crime).   
-We will only sell your personal information to a third party as part of a sale of the assets of DisplayLink.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-**Information about products and services**
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time DisplayLink may send you details of products and services which we think may be of interest to you. If you are happy to be contacted in this way, we will ask you specifically for permission to do so.
+## Links to other websites
 
-**Keeping our records accurate**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, you may do so at any time by contacting us as set out below.
+## Controlling your personal information
 
-**Security**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-We have implemented technology and policies to safeguard your privacy from unauthorised access and improper use and will make reasonable efforts to update these measures as new technology becomes available.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at personalinfo@displaylink.com
 
-**Third party sites**
 
-We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our Site and recommend that you check the policy of each site you visit. Even other DisplayLink group companies may have different privacy policies as they are located throughout the world.
 
-In addition, if you linked to the Site from a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**Transferring your personal information outside the European Economic Area**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A fee of £10 will be payable. If you would like a copy of the information held on you please request this in writing by recorded delivery letter sent to the Data Protection Officer, DisplayLink, Mount Pleasant House, Cambridge, CB3 0RN. Also, please include proof of your identity. 
 
-As part of the services offered to you through our Site, the information you provide to us may be transferred to countries outside of the European Economic Area (“EEA”). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA. We may also share information with our group companies, (we currently have an office in the USA). These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
-
-In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
-
-**Contacting us**
-
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so sending an e-mail to us at personalinfo @ displaylink.com.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
