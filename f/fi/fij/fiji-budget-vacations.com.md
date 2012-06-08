@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiji-budget-vacations.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214092806id_/http%3A//www.fiji-budget-vacations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiji-budget-vacations.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061025id_/http%3A//www.fiji-budget-vacations.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Fiji Budget Vacations.com
 
