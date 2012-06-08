@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugaldad.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220004725id_/http%3A//frugaldad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugaldad.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608081552id_/http%3A//frugaldad.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Coupon Codes | Promotional Code | Frugal Dad
+# Privacy | Frugal Dad
 
 ### FrugalDad.com Privacy Policy
 
