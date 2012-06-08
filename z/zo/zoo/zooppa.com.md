@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zooppa.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204180752id_/http%3A//zooppa.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooppa.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608084126id_/http%3A//zooppa.com/corporate/privacy) for the most accurate reproduction.*
 
-# Zooppa.com - Zooppa.com | Social advertising network
+# Crowdsourced video & design website for marketers & advertisers | Zooppa
 
 The confidential information you provide when registering with Zooppa is collected exclusively for use by Zooppa, its representatives and agents, its advisors, and its business partners. Zooppa will use your confidential information only insofar as it allows us to provide our service to you. Zooppa will not share your confidential information with any parties other than those listed above.
 
