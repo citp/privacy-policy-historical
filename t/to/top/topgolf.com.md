@@ -1,83 +1,84 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219170316id_/http%3A//www.topgolf.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609012438id_/http%3A//www.topgolf.com/privacy-policy) for the most accurate reproduction.*
 
-# TopGolf offer a fun leisure experience for all the family, for people of all ages and abilities who enjoy a game of golf.
+# Privacy Policy | TopGolf
 
-TopGolf are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+_EFFECTIVE DATE: March 1, 2011_
 
-**(1) What information do we collect?**
+TopGolf International, Inc. and its subsidiaries ("TopGolf" or "we" or "our" or "us") are committed to respecting your privacy. This Privacy Policy describes the types of information collected from you, what we do with it and with whom we share it. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal information at our physical locations ("Locations") or through this website at www.topgolf.com (this "Site").
 
-We may collect, store and use the following kinds of personal data:
+Please note that the headings contained in this Privacy Policy are inserted for convenience of reference only and shall not in any way define or affect the meaning, construction, or scope of any of the provisions contained in this Privacy Policy.
 
-  * information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;
-  * information that you provide to us for the purpose of registering with us (including Executive Members Online Booking);
-  * information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including subscription to our e-newsletter);
-  * any other information that you choose to send to us.
+PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF USE FOR THE SITE CAREFULLY. YOUR USE OF THE SITE SIGNIFIES YOU HAVE READ, UNDERSTOOD AND AGREE TO THIS PRIVACY POLICY AND TERMS OF USE.
 
+**Information We Collect**
 
+Information is collected about you when you visit our Locations and contact us though this Site, including without limitation information you provide on signup, registration pages, surveys, or other submission through this Site.
 
-( **2) Cookies**
+**How Information We Collect is Used**
 
-We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+The information collected may be combined with other information collected about you and is used and disclosed in a number of ways by us, to help us better understand and serve our customers, including without limitation the following:
 
-We may send a cookie, which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes.
-
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites. 
-
-**(3) Using your personal data**
-
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
-
-We may use your personal information to:
-
-  * administer the website;
-  * improve your browsing experience by personalising the website;
-  * enable your use of the services available on the website;[ click here for our feedback form](https://web.archive.org/web/20081219170316id_/http%3A//www.topgolf.co.uk/enquiry_form.php)
-  * send you email notifications which you have specifically requested;
-  * send to you our newsletter and other TopGolf marketing communications which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at [EMAIL])
-  * provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
-  * deal with enquiries and complaints made by or about you relating to the website.
+  * To provide you with, or otherwise respond to your requests for, information and/or services, including but not limited to e-newsletters, marketing programs, forward-to-a-friend or other options in our marketing programs.
+  * To provide you with information about new products or services, events at our Locations, events that TopGolf sponsors, including but not limited to contests, sweepstakes and surveys, and other special offers and marketing programs, which may include information about partner companies or other programs any of us or them are involved with.
+  * To enhance our customers' experiences at our Locations and on this Site.
+  * To analyze customer behaviors and trends.
+  * To conduct research and analysis and to otherwise measure the effectiveness of our online and offline marketing efforts and to develop products, services, and marketing programs.
+  * To coordinate program activities and communications with other marketing programs conducted by us.
 
 
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
+We do not sell or rent to third parties any of the personal information that you provide to us through this Site or at our Locations, or authorize any of our suppliers to sell or rent any such personal information, and we do not authorize any of our suppliers to make independent use of your personal information for their own purposes, including but not limited to direct marketing.  However, aggregated information about customers utilizing this Site, in surveys or otherwise providing information to TopGolf may be utilized by TopGolf and/or suppliers in connection with research, benchmarking and other like uses.
 
-**(4) Other disclosures**
+**Site Usage Information**
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you: 
+Like most web sites, this Site gathers traffic patterns, site usage information and other aggregated data in order to evaluate our visitors' preferences and the effectiveness of this Site. This aggregate usage data does not identify you individually. We may share anonymous, aggregated statistics about visitors to this Site with third-parties, and we may allow third-parties to collect aggregate data through this Site and/or supplier sites accessible from or though this Site.
 
-  * to the extent that we are required to do so by law;
-  * in connection with any legal proceedings or prospective legal proceedings;
-  * in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); 
+This Site may use cookies to enhance the browsing and usage experience on our Site. "Cookies" are small files or records that are placed on your computer's hard drive (by us or a third party provider of ours) to collect information about your activities on our Site. The information captured about your activities on our Site will make it possible for us (i) to speed navigation and provide you with custom tailored content; (ii) to remember information you gave to us so you don't have to re-enter it each time you visit the Site; (iii) to monitor the effectiveness of certain of our marketing email campaigns; (iv) to monitor total number of visitors, pages viewed, and banners served on our Site, and (v) enforce limitations on downloads described for on-line coupons and other similar offers. If you refuse cookies, your experience on our Site may be affected — for example you may not be able to utilize all of the functions on this Site.
 
+**Contests/Sweepstakes**
 
+On occasion, TopGolf may conduct or sponsor contests/sweepstakes with the opportunity to win prizes. Each contest/sweepstakes has its own terms and conditions ("Official Contest/Sweepstakes Rules"). As part of entering a contest or sweepstakes on-line through this Site or through a third party provider site, certain personally identifiable information (including but not limited to name, address, phone number, etc.) may be required. This information will be used as described in the applicable Official Contest/Sweepstakes Rules. 
 
-Except as provided in this privacy policy, we will not provide your information to third parties. 
+**Protecting Our Community**
 
-**(6) Security of your personal data**
+The law requires that we and our suppliers may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants or other like orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we and our suppliers reserve the right to use and disclose your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, and/or violations of this Site's Terms and Conditions statement as required by law.
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+**Children's Privacy**
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+We do not knowingly collect any personally identifiable information from children under the age of thirteen (13) years.   This Site is directed to persons who are at least thirteen (13) years of age. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information through any point of contact, we ask to be contacted at the below address or email address and we will delete the information about the child referenced from our files.
 
-**(7) Policy amendments**
+**Security of Your Personal Information**
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+TopGolf requires that its suppliers take appropriate steps to keep your personal information confidential. Although we can't guarantee that there will never be a security problem, we have in place appropriate security measures to carefully guard against the loss or misuse of the information collected on this Site and at our Locations.
 
-**(8) Your rights**
+**Changes in Our Privacy Policy**
 
-You may instruct us not to process your personal data for marketing purposes by email (to [EMAIL]) at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+We reserve the right to change our Privacy Policy from time to time — for example, by altering our policy on sharing personal information. Be sure to check this page periodically for updates.
 
-[click here for our feedback form](https://web.archive.org/web/20081219170316id_/http%3A//www.topgolf.co.uk/enquiry_form.php)
+**Transfer of Assets or Business**
 
-**(9) Third party websites**
+In the event of a transfer or sale of some or all of our business or assets, TopGolf may disclose your personal information to those involved in such a transfer or sale of business or assets.
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+**Changing Your Information**
 
-  
-**(10) Updating information**
+Moved? Changed e-mail addresses? If you need to update or verify your personal information, please email [update@topgolf.com](mailto:update@topgolf.com) or in writing at TopGolf, 230 Gerry Drive, Wood Dale IL 60191, ATTN: Marketing Resources. Upon request, TopGolf will remove your personal information from our active database as soon as reasonably possible, unless we need to retain information for dispute resolution, troubleshooting and other valid legal or business reasons. Please note that we will not remove your historical usage information.
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+**Links to Other Sites**
 
-This [privacy policy](http://www.website-law.co.uk/privacypolicy.html "blocked::http://www.website-law.co.uk/privacypolicy.html") is based on a template
+This Site may provide links to web sites not operated by TopGolf, including our suppliers or partners. TopGolf requires that its suppliers take steps to keep your personal information confidential. Notwithstanding the foregoing, TopGolf assumes no responsibility for third-party web sites, including but not limited to the privacy practices of these third-party sites. We encourage you to be aware of this when you leave this Site, and we recommend that you review the privacy policies of every web site that collects personally identifiable information from you. This Privacy Policy applies only to this Site.
 
-created and distributed by [www.website-law.co.uk](http://www.website-law.co.uk/ "blocked::http://www.website-law.co.uk/")
+Although we endeavor to alert you when you are about to leave our Site when you click on a link to a third party site, TopGolf does not guarantee that you will receive this alert when you leave this Site. It is your responsibility to determine when you have left this Site.
+
+**Governing Law**
+
+TopGolf controls and operates this Site in the United States of America. Our online privacy practices are governed by the laws of the United States and Illinois, which may differ from privacy laws in your state or home country. By submitting your personal information to this Site, you consent to the transfer of your personal information to and within the United States and to any other country and its use and disclosure in accordance with U.S. federal and Illinois law and with this Privacy Policy.
+
+**Language**
+
+This English-language Privacy Policy is TopGolf's official statement of its online privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document controls.
+
+**For More Information**
+
+If you have any questions regarding our Privacy Policy, please contact us by sending an email to [feedback@topgolf.com](mailto:feedback@topgolf.com) or writing to us at TopGolf, 230 Gerry Drive, Wood Dale IL 60191, ATTN: Marketing Resources.
+
+ 
