@@ -1,32 +1,30 @@
-> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412031218id_/http%3A//www.schedulicity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulicity.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609013556id_/http%3A//www.schedulicity.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Make reservations online using Schedulicity.com. Search for your favorite businesses on Schedulicity and easily set reservations without having to pick up the phone. 
+# Privacy Policy | Schedulicity - Online Scheduling
 
 Updated as of February 5, 2009
 
-We are EdgeInova International, Inc. (“EdgeInova,” “we,” “us,” or “our”). We are located at 424 East Main, Ste. 201, Bozeman, Montana. EdgeInova takes your privacy seriously. Please read the following to learn more about our privacy policy, (the “Policy”) which describes how we treat personal information when you use the Schedulicity website (“Website”), as defined in our [Terms of Use](https://web.archive.org/web/20090412031218id_/http%3A//www.schedulicity.com/Terms.html). This Policy is part of the Terms of Use that govern all use of the Website. Any capitalized terms used but not defined in this Policy are defined in the Terms of Use.
+We are Schedulicity, Inc. (“Schedulicity,” “we,” “us,” or “our”). We are located at 424 East Main, Ste. 201, Bozeman, Montana. Schedulicity takes your privacy seriously. Please read the following to learn more about our privacy policy, (the “Policy”) which describes how we treat personal information when you use the Schedulicity website (“Website”), as defined in our [Terms of Use](https://web.archive.org/SystemPages/Terms.html). This Policy is part of the Terms of Use that govern all use of the Website. Any capitalized terms used but not defined in this Policy are defined in the Terms of Use.
 
 What This Privacy Policy Covers
 
-This privacy policy covers EdgeInova’s treatment of personally identifiable information that EdgeInova collects when you are on EdgeInova sites, and when you use EdgeInova’s services. This policy also covers EdgeInova’s treatment of any personally identifiable information that Website service providers share with EdgeInova.
+This privacy policy covers Schedulicity’s treatment of personally identifiable information that Schedulicity collects when you are on Schedulicity sites, and when you use Schedulicity’s services. This policy also covers Schedulicity’s treatment of any personally identifiable information that Website service providers share with Schedulicity.
 
-This policy does not apply to the practices of companies that EdgeInova does not own or control or to people that EdgeInova does not employ or manage.
+This policy does not apply to the practices of companies that Schedulicity does not own or control or to people that Schedulicity does not employ or manage.
 
 The Website also collects information that does not personally identify you ("NonPII"), which is commonly collected on the Internet. For example, we collect: the name of the domain and host for your Internet access (e.g., AOL, MSN); your computer's Internet address, browser software and operating system; dates and times of access or actions; and the Internet address you left before reaching us. We use NonPII for ordinary business purposes, such as to measure web page flow and also to customize features. Generally, we do not share NonPII with unaffiliated third parties other than our service providers but reserve the right to do so.
 
 Information Collection and Use
 
-EdgeInova collects personally identifiable information when you use certain EdgeInova products or services. EdgeInova may also receive personally identifiable information from Website service providers.
+Schedulicity collects personally identifiable information when you use certain Schedulicity products or services. Schedulicity may also receive personally identifiable information from Website service providers.
 
-EdgeInova also automatically receives and records information on our server logs, such as the browser you are using, your IP address, and the pages you requested.
+Schedulicity also automatically receives and records information on our server logs, such as the browser you are using, your IP address, and the pages you requested.
 
-EdgeInova shares personally identifiable information with the businesses where you schedule reservations.
+Schedulicity shares personally identifiable information with the businesses where you schedule reservations.
 
-EdgeInova may also use this information to customize your experience on the Website and to present Website users with web advertisements of interest to you based on your scheduling activities.
+Schedulicity may also use this information to customize your experience on the Website and to present Website users with web advertisements of interest to you based on your scheduling activities.
 
-To prevent your mailbox from receiving unwelcome correspondence, each service provider using EdgeInova’s services maintains an opt-out list for electronic mailings you may receive from them.
+To prevent your mailbox from receiving unwelcome correspondence, each service provider using Schedulicity’s services maintains an opt-out list for electronic mailings you may receive from them.
 
 We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Website and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.
 
@@ -34,17 +32,17 @@ We will not use your email address or other personally identifiable information 
 
 Subscribe/Unsubscribe
 
-To unsubscribe from a service provider’s mailing list, use the Unsubscribe link that is available in each e-mail you receive from them. This does not suppress emails sent directly from service providers using services other than EdgeInova’s. Unsubscribing only suppresses emails sent on the initiative of service providers using EdgeInova’s services with whom you have an existing business relationship. Note that even after you unsubscribe, you will continue to receive transactional email messages regarding the status of reservations you schedule.
+To unsubscribe from a service provider’s mailing list, use the Unsubscribe link that is available in each e-mail you receive from them. This does not suppress emails sent directly from service providers using services other than Schedulicity’s. Unsubscribing only suppresses emails sent on the initiative of service providers using Schedulicity’s services with whom you have an existing business relationship. Note that even after you unsubscribe, you will continue to receive transactional email messages regarding the status of reservations you schedule.
 
 Cookies
 
-EdgeInova may set and access cookies on your computer. EdgeInova may allow other companies to use cookies, or use electronic images (e.g., GIFs) that allow a website to count users who have visited that page or to access certain cookies. We do this to improve and enhance the functionality of our website. If you choose to not allow a cookie on your computer, our website may not work correctly.
+Schedulicity may set and access cookies on your computer. Schedulicity may allow other companies to use cookies, or use electronic images (e.g., GIFs) that allow a website to count users who have visited that page or to access certain cookies. We do this to improve and enhance the functionality of our website. If you choose to not allow a cookie on your computer, our website may not work correctly.
 
 We also may use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in any promotions, sweepstakes and contests.
 
 Third-party Advertisers, Links to Other Websites
 
-EdgeInova allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+Schedulicity allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
 Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, women ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Website, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
 
@@ -80,7 +78,7 @@ We reserve the right to change this Policy in our discretion in accordance with 
 
 Note About Children's Privacy Issues
 
-EdgeInova’s primary audience is adults looking to schedule reservations with service or resource providers. For that reason, when you register, we will ask you to confirm that you are over the age of 16. 
+Schedulicity’s primary audience is adults looking to schedule reservations with service or resource providers. For that reason, when you register, we will ask you to confirm that you are over the age of 16. 
 
 We have no intention of collecting personal information from children under the age of 16. Any use of our Website by children under the age of 16 should only be conducted under the supervision of that child’s parent or guardian. If a child under the age of 13 has provided his or her personal information, a parent or guardian may so inform us by emailing privacy@schedulicity.com or calling 406-582-0494, and we will use commercially reasonable efforts to delete that child’s personal information from our database (subject to applicable law and this Policy). For more information about children’s privacy on the internet, please see <http://www.onguardonline.gov/topics/kids-privacy.aspx>
 
@@ -105,6 +103,6 @@ Once we receive all required information, we will provide records as required by
 
 For more information about our privacy practices contact:  
 Email: privacy@schedulicity.com  
-Attention: Matthew Johnson  
+Attention: Jim Falcione  
 Phone: 406-582-0494  
 Fax: 406-587-7150
