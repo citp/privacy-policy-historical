@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketluck.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215062405id_/http%3A//www.ticketluck.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketluck.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609015109id_/http%3A//www.ticketluck.com/policies.php) for the most accurate reproduction.*
 
 # Policies: Ticket Luck
 
@@ -64,7 +64,7 @@ Changes to this Privacy Policy
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
 **CONTACT US**   
 If you have any questions about this privacy policy or the security practices of this site, please contact us through one of the methods listed on the contact us page of our site   
-[http://www.TicketLuck.com/contact.php](http://www.ticketluck.com/contact.php)   
+[http://www.TicketLuck.com/contact-us.php](http://www.ticketluck.com/contact-us.php)   
 Or 
 
 Customer Care at [sara@ticketluck.com](mailto:sara@ticketluck.com), or by contacting us by postal mail at the contact information listed below. 
