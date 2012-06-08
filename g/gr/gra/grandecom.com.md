@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114507id_/http%3A//mygrande.com/sanmarcos/index.php%3Fservice_area%3Dsanmarcos%26rdpage%3DPS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608074423id_/http%3A//www.mygrande.com/austin/privacy/privacy.php) for the most accurate reproduction.*
 
 # Grande Communications | Privacy
 
-Grande Communications Networks, LLC, ("Grande Communications"), created this privacy statement outlining your privacy rights in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by Grande Communications which can be found at [mygrande.com](http://www.mygrande.com/sanmarcos/), [mygrande.net](http://mygrande.net/) and [grandecom.net](http://grandecom.net/) (collectively, the 'Site').
+Grande Communications Networks, LLC, ("Grande Communications"), created this privacy statement outlining your privacy rights in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by Grande Communications which can be found at [mygrande.com](http://www.mygrande.com/austin/), [mygrande.net](http://mygrande.net/) and [grandecom.net](http://grandecom.net/) (collectively, the 'Site').
 
 Grande Communications is the sole owner of the information collected on the Site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Grande Communications collects information from our users at several different points on our Site as further described in this statement.
 
