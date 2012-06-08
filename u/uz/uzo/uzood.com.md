@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uzood.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162549id_/http%3A//www.uzood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uzood.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608074621id_/http%3A//www.uzood.com/privacy) for the most accurate reproduction.*
 
 # uZood - Free Video Sharing Community.
 
@@ -30,7 +30,7 @@ Contacting the website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact us at: info[at]uzood[dot]com
 
-Copyright © 2011 uZood. All rights reserved.
+Copyright © 2012 uZood. All rights reserved.
 
 Videos presented in this site are embedded from major video sharing sites like YouTube.com, Dailymotion.com etc.  
 uZood.com doesn't host any videos and can not be held responsible for the content.
