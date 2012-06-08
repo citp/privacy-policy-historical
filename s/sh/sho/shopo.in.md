@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopo.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082743id_/http%3A//shopo.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopo.in privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608020949id_/http%3A//www.shopo.in/privacypolicy) for the most accurate reproduction.*
 
-# 
+# None
 
 What this privacy policy covers
 
-This privacy policy covers the use of the web site at [http://www.Shopo.in ](http://www.etsy.com/)and the services provided by and provided by Shopo, Kite Factory, #44, 6th street, VV nagar, Kolathur post, Chennai - 600099, Tamilnadu, India, including how Shopo treats personal information that Shopo collects and receives. Pursuant to Shopo's Terms of Use, you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Shopo does not own or control, or individuals that Shopo does not employ or manage.
+This privacy policy covers the use of the web site at [http://www.Shopo.in ](http://www.shopo.in/)and the services provided by and provided by Shopo, Kite Factory, #44, 6th street, VV nagar, Kolathur post, Chennai - 600099, Tamilnadu, India, including how Shopo treats personal information that Shopo collects and receives. Pursuant to Shopo's Terms of Use, you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Shopo does not own or control, or individuals that Shopo does not employ or manage.
 
 Information Collection and How it is Used
 
