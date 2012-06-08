@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126140355id_/http%3A//www.ombwatch.org/node/397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608062651id_/http%3A//www.ombwatch.org/node/397) for the most accurate reproduction.*
 
 # Privacy Statement | OMB Watch
 
@@ -15,3 +15,6 @@ OMB Watch maintains several e-mail lists, and individuals may always choose whet
 To protect your e-mail privacy, we configure our mail servers to refuse relays and use various anti-junk-mail services to block spammers from our lists.
 
 We allow individuals to use our [FedSpending.org](http://www.fedspending.org/) and [RTK NET databases](http://www.rtknet.org/) at no charge. We encourage users to identify who they are in order to encourage their participation in policy matters consistent with the mission of this organization. We do not intentionally permit user access privileges to mass mailers or re-mailers.
+
+  
+
