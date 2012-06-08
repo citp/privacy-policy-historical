@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110154945id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608104205id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,8 +62,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 sdscripts.support @ gmail.com
-
-[](http://submissionwizards.com/Directory-Submissions/Directory-Submission-Services.html)
 
 |   
 ---|---|---
