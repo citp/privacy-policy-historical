@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530182325id_/http%3A//us.sunpowercorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608053013id_/http%3A//us.sunpowercorp.com/privacy) for the most accurate reproduction.*
 
 # SunPower Privacy Policy
 
@@ -59,9 +59,9 @@ You may post Personally-Identifying Information on areas of this Site that may b
 
 YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION.
 
-  * **Material you Choose to Reveal to Friends About Your SunPower System by Means of your iPhone**
+  * **Material you Choose to Reveal to Friends About Your SunPower System by Means of your mobile device**
 
-If you purchase a SunPower system, and you register for the SunPower on-line monitoring service, you will be able to view the performance of your SunPower system on your personal page on the SunPower monitoring site. If you download the iPhone Application to your iPhone or iPod Touch device, you will be able to view your personal SunPower system statistics on your Apple device, and you will be able to email your friends a link to your personal SunPower system monitoring pages. If you email your friends a link to your SunPower system monitoring pages, your friends will be able to see all of your Personally-Identifying Information on these pages. The link you send to your friend will expire eight days after the date upon which you sent it to your friend. After the link expires, your friend will no longer be able to view your Personal Information on your performance pages.
+If you purchase a SunPower system, and you register for the SunPower on-line monitoring service, you will be able to view the performance of your SunPower system on your personal page on the SunPower monitoring site. If you download the SunPower Mobile App Application to your mobile device, you will be able to view your personal SunPower system statistics on your device, and you will be able to email your friends a link to your personal SunPower system monitoring pages. If you email your friends a link to your SunPower system monitoring pages, your friends will be able to see all of your Personally-Identifying Information on these pages. The link you send to your friend will expire eight days after the date upon which you sent it to your friend. After the link expires, your friend will no longer be able to view your Personal Information on your performance pages.
 
   * **DMCA Infringement Notifications, Notices of Violations of Site Terms of Service and Other Communications Directed to Us.**
 
@@ -130,23 +130,23 @@ If you wish to contact us, please contact us at the following addresses and incl
 
 **Dealers**   
 SunPower Customer Service  
-3939 North First Street  
+77 Rio Robbles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
 Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
 
 **Residential Users   
 **SunPower Customer Service  
-3939 North First Street  
+77 Rio Robbles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
 Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
 
 **Commercial Customers**   
 SunPower Customer Service  
-3939 North First Street  
+77 Rio Robbles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
 Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
 
-This Privacy Policy is effective as of and was last updated on February 02, 2010.
+This Privacy Policy is effective as of and was last updated on December 01, 2011.
