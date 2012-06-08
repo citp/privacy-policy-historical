@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210055449id_/http%3A//www.fepblue.org/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608224232id_/http%3A//www.fepblue.org/about/privacy.jsp) for the most accurate reproduction.*
 
 # Blue Cross and Blue Shield's Federal Employee Plan - Privacy Policy
 
 ## Privacy Policy
 
-Your privacy is important to us. The Blue Cross and Blue Shield Association maintains high standards for the protection of your privacy on our Web sites. Here is what you can expect when you visit [www.fepblue.org](https://web.archive.org/index.jsp "FEPBlue.org Home")
+Your privacy is important to us. The Blue Cross and Blue Shield Association maintains high standards for the protection of your privacy on our Web sites. Here is what you can expect when you visit [www.fepblue.org](https://web.archive.org/index.jsp "FEPBlue.org Home")  
 
   * Other than to fulfill a request from you, we won't sell, rent or share any personally-identifiable information you provide without your consent.
   * We won't send you any unsolicited e-mail ("spam").
@@ -14,7 +14,7 @@ Your privacy is important to us. The Blue Cross and Blue Shield Association main
 
 Please remember that this policy only covers the data collection and use practices for fepblue.org, an official Web site of the Blue Cross and Blue Shield Association. BCBSA's privacy policies may differ at its other Web sites or in its off-line data collection and reporting practices. Questions regarding the privacy policy of your independent, local Blue Cross and Blue Shield company should be directed to that company.
 
-Each of our business partners, including Caremark (Pharmacy Programs), Medco (Pharmacy Programs), McKesson (Blue Health Connection), the US Office of Personnel Management (OPM), our enrollment area (the FEP Operations Center for Customer eService), Mondial Access or World Access for overseas benefit and provider information, and any other supplemental plan vendor, have separate privacy policies. Please read these policies when you access the Web sites of our business partners from this Web site.
+Each of our business partners, including Caremark (Pharmacy Programs), McKesson (Blue Health Connection), the US Office of Personnel Management (OPM), our enrollment area (the FEP Operations Center for Customer eService), Allianz Global Assistance or World Access for overseas benefit and provider information, and any other supplemental plan vendor, have separate privacy policies.
 
  **The information we collect:**
 
@@ -42,17 +42,17 @@ At this time, we do not use spyware on our site. Cookies are used to store [fepb
 
  **Sites we link to:**
 
-If you choose to use any of the links we provide to our member companies, sponsors, and other third party resources, you will be leaving our Web site and going to a new Web site. Protection of your privacy at those other sites will be governed by the privacy policy at that site. Please take the time to read the privacy policies at their sites. We have business relationships with the local Blue Cross and Blue Shield Plans, Caremark, Medco, McKesson, OPM, Mondial Access or World Access, supplemental benefit companies, and the FEP Operations Center. These linking relationships are not a form of advertising or promotion, but part of the unique set of benefits available under the Service Benefit Plan and the Blue Cross and Blue Shield Association of Plans. Nor are the links to other sites within our Web site of an advertising or promotional nature.
+If you choose to use any of the links we provide to our member companies, sponsors, and other third party resources, you will be leaving our Web site and going to a new Web site. Protection of your privacy at those other sites will be governed by the privacy policy at that site. Please take the time to read the privacy policies at their sites. We have business relationships with the local Blue Cross and Blue Shield Plans, Caremark, McKesson, OPM, Allianz Global Assistance or World Access, supplemental benefit companies, and the FEP Operations Center. These linking relationships are not a form of advertising or promotion, but part of the unique set of benefits available under the Service Benefit Plan and the Blue Cross and Blue Shield Association of Plans. Nor are the links to other sites within our Web site of an advertising or promotional nature.
 
  **Changes to this policy:**
 
 If we make any significant changes to this policy, we will let you know the effective date of the changes and provide a tool for you to understand what has changed.
 
-  * Policy updated 8/2010 – cookies are now used on the site. See “Cookies and Spyware” section for details.
+  * Policy updated 8/2010 – cookies are now used on the site. See "Cookies and Spyware" section for details.
 
 
 
-Includes changes and clarifications to reflect Medco as our Mail Service Pharmacy Program Benefits manager.
+Includes changes and clarifications to our Mail Service Pharmacy Program Benefits manager.
 
  **Glossary of Terms:**
 
