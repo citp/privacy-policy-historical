@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118122427id_/http%3A//www.gulfbase.com/Home/Page%3FpageID%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609012520id_/http%3A//www.gulfbase.com/home/page%3Fpageid%3D35) for the most accurate reproduction.*
 
 # GulfBase.com - Privacy
 
@@ -6,7 +6,7 @@
 
 ### **Effective: October 29th, 2008**
 
-Your privacy is important to us. Zughaibi & Kabbani General Partnership has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy policy governs the information collection practices of [www.gulfbase.com ](http://www.gulfbase.com/).
+Your privacy is important to us. Zughaibi & Kabbani General Partnership has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy policy governs the information collection practices of [www.gulfbase.com ](https://web.archive.org/web/20120609012520id_/http%3A//www.gulfbase.com/).
 
 We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy.
 
