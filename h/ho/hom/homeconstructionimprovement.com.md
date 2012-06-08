@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201060533id_/http%3A//www.homeconstructionimprovement.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061613id_/http%3A//www.homeconstructionimprovement.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Discloser, Disclaimer & Privacy Policies
 
