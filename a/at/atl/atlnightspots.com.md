@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlnightspots.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207040026id_/http%3A//www.atlnightspots.com/2009/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlnightspots.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608045131id_/http%3A//www.atlnightspots.com/2009/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Atl Night Spots
+# Privacy Statement
 
 1\. Purpose  
 Atl Night Spots has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes.
