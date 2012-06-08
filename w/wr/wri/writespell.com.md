@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the writespell.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209005132id_/http%3A//www.writespell.com/about-nicole/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writespell.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608104621id_/http%3A//www.writespell.com/about-nicole/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement | WriteSpell by nicóle olea
-
-[Link button](http://linksku.com/button "The new social bookmarking button, the Link button") by [WP Buttons](http://dev.linksku.com/sharepost/index.htm "WP Buttons adds sharing buttons to your WordPress blog!")
+# Privacy Policy Statement | WriteSpell
 
 This is the personal website of Nicole Olea.
 
