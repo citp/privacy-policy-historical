@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sescout.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155743id_/http%3A//sescout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescout.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608232848id_/http%3A//sescout.com/privacy-policy) for the most accurate reproduction.*
 
 # Search engine rank tracker (SERP TRACKER) used by top SEOs
 
