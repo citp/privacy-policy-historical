@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradebit.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206100418id_/http%3A//www.tradebit.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradebit.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608224555id_/http%3A//www.tradebit.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
