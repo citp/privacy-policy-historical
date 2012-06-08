@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144534id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylife.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608132758id_/http%3A//www.mylife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,9 +26,9 @@ Every member has a **Member Profile** , which includes the information you provi
 
 Please keep in mind that whenever you voluntarily provide information in public areas of a MyLife.com Site, such as the user profile pages or people search, that information can be viewed and possibly used by others, both on the MyLife.com Sites and potentially on our partners' sites, such as Wink.com. **_We advise users not to disclose contact information, including phone number, email address, street address, or instant messenger address (examples of "personally identifiable information") within these public areas that they do not wish to share_**. This information should instead be maintained in the appropriate email and contact information section of this site, which is protected under the terms of this privacy policy. ** __**
 
-**(4) Your Contacts.** To make the best use of MyLife.com and to help you keep in touch with your contacts and with other Members, we make it easy for you to invite people from your email address books to join you on MyLife.com. At your request we will search your email address book to see if anyone in it is already a Member of MyLife.com; you can also select and/or input your contacts' email addresses manually. Contacts who are not registered Members will receive an email invitation from us on your behalf inviting them to join. We may follow up such invitations with two reminder emails to some contacts if they do not respond to the initial invitation. The login credentials you enter when searching your email address book are used only for that purpose and are not stored or shared.  
+**(4) Your Contacts and Email Credentials.** To make the best use of MyLife.com and to help you keep in touch with your contacts and with other Members, we make it easy for you to invite people from your email address books to join you on MyLife.com. At your request we will search your email address book to see if anyone in it is already a Member of MyLife.com; you can also select and/or input your contacts' email addresses manually. Contacts who are not registered Members will receive an email invitation from us on your behalf inviting them to join. We may follow up such invitations with a limited number of reminder emails to some contacts if they do not respond to the initial invitation. Prior to the introduction of our new email integration services as of December 28, 2011, the login credentials you entered when searching your email address book were used only for that purpose and were not stored or shared. With the introduction of MyLife's new email integration services as set forth above, when you have activated and logged into the new email services, these credentials are stored with the purpose of connecting you to your external email accounts, if you do not log into and activate these email services, your credentials are not stored. 
 
-
+When you activate these email services, MyLife will also import the contacts from the various email systems and display them in the "my contacts" section of the website. An invitation to those people will only be sent on the explicit request of the user.   
 This contact import feature -- a helpful, easy way to connect with your friends and family and keep everyone updated on your life -- is common on many social networking sites. Information you enter about your contacts is covered by the same privacy policy terms as your own personal information on MyLife.com. 
 
 **B. Information About You Collected from Publicly Available Sources**
@@ -89,7 +89,7 @@ We may also use or disclose your membership registration or other personally ide
 
 **K. Third-Party Advertising.** We use ad serving technology and other third-party advertising companies to serve ads when you visit our website or receive our email newsletters and updates. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
-**L. Third Party Cookies**. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
+**L. Third Party Cookies**. We, or a data provider we have engaged, may place or recognize a unique "cookie" on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.privacychoice.org/companies> or <http://aboutads.info/choices>.
 
 **M. Other Third Parties.** MyLife may share non-personal, aggregate, or summary information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually but is often used to provide general demographics or statistics.
 
@@ -141,10 +141,7 @@ If any change to this Privacy Policy is unacceptable to you, you agree that your
 
 If you have any other questions about the MyLife.com Privacy Policy, please contact us by email at [privacy@mylife.com](mailto:privacy@mylife.com) or write to us at: 
 
-Effective date: September 22, 2011   
-
-
-Last updated: September 22, 2011   
+Last updated: December 29, 2011   
 
 
 **MyLife.com, Inc.**   
