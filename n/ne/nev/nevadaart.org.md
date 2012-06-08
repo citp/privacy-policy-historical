@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209115934id_/http%3A//www.nevadaart.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608220119id_/http%3A//nevadaart.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Nevada Museum of Art
 
@@ -28,7 +28,7 @@ As a service, the Museum offers visitors to the Museum website the opportunity t
 
 Cookies are small files of information that are stored on your computer's hard drive by your Web browser. The cookies we use do not contain any personal information. Most Web browsers automatically accept cookies, but you can change the preferences of your browser so that it does not accept them. In order to use all the features of the Museum Store online, we recommend that you accept cookies. 
 
-The Nevada Museum of Art policy on the use and disclosure of the information it collects on the Museum website
+#### The Nevada Museum of Art policy on the use and disclosure of the information it collects on the Museum website
 
 The Museum uses the personal information you provide to us for internal purposes, such as filling and tracking your order, analyzing trends and collecting statistics.
 
