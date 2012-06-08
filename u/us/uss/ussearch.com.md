@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224181347id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608091714id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | USSearch.com
 
@@ -80,7 +80,7 @@ If you have provided your email to join our mailing list, or provided informatio
 
 US SEARCH  
 Privacy Officer  
-600 Corporate Pointe, Suite 220  
+600 Corporate Pointe, Suite 210  
 Culver City, CA 90230
 
 Requests via email should be sent to [cservice@USSearch.com](mailto:cservice@USSearch.com).
