@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrealgames.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231000055id_/http%3A//www.myrealgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrealgames.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608043910id_/http%3A//www.myrealgames.com/privacy.html) for the most accurate reproduction.*
 
 # Free Games - Privacy Policy
 
