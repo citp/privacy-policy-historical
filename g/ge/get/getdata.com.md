@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the getdata.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223133158id_/http%3A//www.getdata.com/about/getdata-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdata.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608073352id_/http%3A//www.getdata.com/about/getdata-privacy-policy.php) for the most accurate reproduction.*
 
 # GetData privacy policy: We value our customers privacy
 
 This document sets forth the GetData Pty Ltd (GetData) Privacy Policy (the "Privacy Policy") for GetData web sites (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site. 
+
+### Changes in Privacy Policy
 
 All "personal information" ("personal information" is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains) that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. GetData reserves the right to change the Privacy Policy from time to time at its sole discretion, and will provide notice of material changes on the privacy policy page of its web Site. If as the result of such changes, you want to alter the ways in which GetData is allowed to use your personal information, you can do so by following the procedure described below in the section titled "Updating your personal information and privacy preferences."
 
@@ -10,14 +12,16 @@ You will be deemed to have been made aware of, and will be subject to, the chang
 
 Entities collecting personal information Personal information on this Site is collected by GetData Incorporated. GetData's address is:
 
-The Privacy Officer  
-GetData Pty Ltd  
-PO Box 71  
-Engadine NSW Australia 2233  
-Ph: +61 2 82086053  
+The Privacy Officer   
+GetData Pty Ltd   
+PO Box 71   
+Engadine NSW Australia 2233   
+Ph: +61 2 82086053   
 Fax: +61 2 95808447
 
 The Site may contain links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
+
+### Collection of personal information
 
 As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities GetData may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, GetData may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP code), e-mail address, employer, job title and department, telephone and facsimile numbers, and other personal information.
 
@@ -29,17 +33,25 @@ When you submit personal information to GetData through this Site, you understan
 
 You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of GetData. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
+### How your personal information is used
+
 GetData collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to qualify the entry and contact you regarding the contest or prize awards. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of GetData and selected third parties if you have so opted to receive such communications.
 
 GetData may collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. GetData may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
+
+### Your choices with respect to personal information
 
 GetData recognizes and appreciates the importance of responsible use of information collected on this Site. Without your consent, GetData will not communicate any information to you regarding products, services, and special offers available from GetData, although we may find it necessary to communicate with you regarding your use of the services on this Site. Except in the particular circumstances described in this Privacy Policy, GetData will also not provide your name to other companies or organizations without your consent.
 
 There are other instances in which GetData may divulge your personal information. GetData may provide your personal information if necessary, in GetData's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of GetData or others.
 
+### Protection of your personal information
+
 GetData will take reasonable steps to protect all personal information in its possession, to ensure integrity of the information and that it is only accessed by on the express authority of GetData. Personal information that is no longer needed by GetData nor required to be held by law will be destroyed by secure means, or deidentified so that the data cannot be traced back to the person to whom it relates to.
 
-This privacy policy does not prevent the disclosure of information to the extent required by a judicial order or other legal obligation. 
+This privacy policy does not prevent the disclosure of information to the extent required by a judicial order or other legal obligation.
+
+### Use of cookies
 
 When you visit this Site, you can browse the Site and access important information without revealing your identity. In order to improve our Site, we may use "cookies" to track your visit. A cookie is a small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, and enables GetData to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses.
 
@@ -47,23 +59,27 @@ Most browsers are initially set to accept cookies. You can set your browser to n
 
 While GetData may use cookies to track your visit to GetData web sites, and our Web servers automatically log the IP/Internet address of your computer, GetData does not generally use this information to identify you personally.
 
+### Updating your personal information and privacy preferences
+
 You have the right to access and correct your personal information and privacy preferences at any time. This may be accomplished by writing or calling GetData at:
 
-The Privacy Officer  
-GetData Pty Ltd  
-PO Box 71  
+The Privacy Officer   
+GetData Pty Ltd   
+PO Box 71   
 Engadine NSW Australia 2233
 
 Please include your name, address, and/or e-mail address when you contact us. No specific form is required to notify GetData of changes to your address or privacy preferences.
 
 Personal information submitted through this Site is not accessible online. To access and/or correct such information, you may write GetData at:
 
-The Privacy Officer  
-GetData Pty Ltd  
-PO Box 71  
+The Privacy Officer   
+GetData Pty Ltd   
+PO Box 71   
 Engadine NSW Australia 2233
 
 In your correspondence, please indicate with as much detail as possible the location on this Site where you provided your personal information.
+
+### Privacy-related enquiries and complaints
 
 GetData takes its users' privacy concerns seriously. If you believe that GetData has not complied with this Online Privacy Policy with respect to your personal information or you have other related enquiries or concerns, you may write to GetData at the address indicated above.
 
