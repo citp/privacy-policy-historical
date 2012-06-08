@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107054714id_/http%3A//www.gaadi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609012105id_/http%3A//www.gaadi.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
