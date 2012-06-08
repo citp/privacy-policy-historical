@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moremagazine.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150152id_/http%3A//www.moremagazine.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremagazine.co.uk privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608034719id_/http%3A//www.moremagazine.co.uk/privacy) for the most accurate reproduction.*
 
 # more! magazine: Privacy Policy
 
@@ -49,6 +49,8 @@ In order to enable us to provide you with a personalised browsing experience, th
 Like many other websites, this website uses cookies as they enable us to identify your computer when you visit this website. For example, cookies can make it possible for us to identify and automatically log in registered users of certain services on this website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of this website are the most popular to its visitors, and your preferences. You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies. Click here for instructions on how to disable cookies.
 
 Please be aware that if you do disable cookies, certain services on this website may not be available to you and your enjoyment of this website may be impaired.
+
+**Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office.**
 
 **Links and Third Party Advertising**
 
