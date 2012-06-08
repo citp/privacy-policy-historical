@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globinch.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209130726id_/http%3A//www.globinch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globinch.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608104325id_/http%3A//www.globinch.com/privacy-policy) for the most accurate reproduction.*
 
 # Globinch Privacy policy | Globinch
-
-## [Privacy Policy](http://www.globinch.com/privacy-policy/)
 
 Thank you for visiting **Globinch.com**
 
