@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishlist.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204132656id_/http%3A//www.wishlist.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlist.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608222259id_/http%3A//www.wishlist.com/privacypolicy) for the most accurate reproduction.*
 
 # The WishList.com Privacy Policy
 
