@@ -1,80 +1,49 @@
-> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223071826id_/http%3A//ww2.heartandstroke.ca/Page.asp%3FPageID%3D417) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608231613id_/http%3A//www.heartandstroke.com/site/c.ikIQLcMWJtE/b.3479111/k.9EA3/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Heart and Stroke Foundation of Canada
 
-  
-  
+#### Website Privacy Policy
 
+This version is in effect since _April_ _01_ , 2012 ****
 
-We recognize your right to confidentiality and pledge to protect your privacy. We are members of and adhere to the privacy guidelines of both the Canadian Marketing Association and the Canadian Centre of Philanthropy. 
+The Heart and Stroke Foundations across Canada are leading the way in eliminating heart disease and stroke and reducing their impact through the advancement of research and its application, the promotion of healthy living, and advocacy. This website is provided by Heart and Stroke Foundation of Canada, Heart and Stroke Foundation of Alberta, Northwest Territories Nunavut, Heart and Stroke Foundation of Ontario, Heart and Stroke Foundation of Quebec and Heart and Stroke Foundation of New Brunswick (collectively “ **HSF** ”).
 
-****
+Protecting your privacy is important to HSF. This Policy explains how HSF collects, uses, and discloses the personal information you may provide while using www.heartandstroke.com/.ca and any other web sites operated by HSF, any HSF provincial micro-sites, including any tools, apps, forums, event and course registration pages, contest entries, lottery ticket purchases and/or donations (the " **Web Sites** "), as well as the electronic publications, newsletter, and announcements you have access to on the Web Sites (" **Electronic Communications** "). By using the Web Sites, you signify your consent to the collection, use, and disclosure of your personal information in accordance with this Policy. If you do not agree with this Policy, please leave the site now.
 
-**Here's how we keep our pledge:**
+**Information Automatically Collected**
 
-__
+**Non-Identifying Information –** The Web Sites may automatically collect certain non-identifying information regarding users of the Web Sites, such as the IP address of your computer, the IP address of your Internet service provider, the date and time you access the Web Sites, the Internet address of the website from which you linked directly to the Web Sites, the operating system you are using, the sections of the Web Sites you visit, the pages of the Web Sites read and images viewed, and the materials you post to or download from the Web Sites. This non-identifying information is used for the operation of our web services, to maintain quality of the services, and to provide general statistics regarding use of our web services. 
 
-_Overall._ We only collect personally identifying information (for example, user name, donor name, e-mail address, mailing address, employer, and telephone number, etc.) about registered users, donors or other Site users (collectively, the "Users") when knowingly provided by them. 
+We make no attempt to link this information with the identity of individuals visiting our Web Sites. We may, however, review service logs for security purposes, for example to detect intrusions into our network. The possibility therefore exists that service log data, which contains visitors’ IP addresses, could in instances of criminal malfeasance be used to trace and identify individuals. In such instances, raw data logs would be shared with the appropriate investigative bodies authorized to investigate such breaches of security. Your non-identifying information may be permanently archived for future use. 
 
-__
+**Cookies –** The **** Web Sites may use "cookies", a technology that installs information on a website user's computer to permit the website to recognize future visits using that computer. Cookies enhance the convenience and use of a website. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Web Sites and your ability to access certain features of the Web Sites. 
 
-_Registration._ Personally identifiable information of Users will not be sold or otherwise transferred to unaffiliated third parties without the User's prior consent. However, we may use registration or other information in the following ways: 
+**Personal Information You Specifically Provide to the Web Sites**
 
-  * To guide development of new features and services relevant to Site Users; 
-  * To provide advertisers with summary - never individual - information about our Site's overall usage patterns; and 
-  * To focus advertising based on your preferences. 
+**Your Personal Information –** During **** your use of the Web Sites, you may be asked to voluntarily provide certain personal information, including, but not limited to, your name and your email address. Where you are making a donation to HSF, purchasing an item from the Web Sites (including without limitation, a ticket for one of HSF’s lotteries) or paying your annual certification fees, certification card processing fees or certification card replacement fees, the personal information requested may include your address and credit card information. 
 
+**Use of Your Personal Information –** HSF may use your personal information to contact and correspond with you; to respond to your inquiries; to facilitate and process your registration for certain courses, events and services; to grant access to certain special features or areas of the Web Sites (including to any HSF forums or HSF tools), where you have applied for access to or have posted information to those special features or areas of the Web Sites; to receive and process your annual certification fees, certification card processing fees, certification card replacement fees, donation or purchase of a lottery ticket; to issue tax receipts where applicable; to track communications with you; to provide you with a customized interactive experience; to help HSF develop new services, tools and website features that meet your needs; to improve the Web Sites; to provide you with the Electronic Communications you request; and as otherwise permitted or required by law. By visiting the Web Sites and providing HSF with your personal information in connection with a special feature of the Web Sites, you signify your consent for HSF to use such information for purposes inherent in that feature.
 
+**Electronic Communications from** **HSF – **At **** any time you may ask HSF to stop sending you Electronic Communications and other information by contacting the Chief Privacy Officer at your [provincial HSF office](http://www.heartandstroke.com/site/lookup.asp?c=ikIQLcMWJtE&b=3734867). Please allow two to three business days for the cancellation to take effect.
 
-HSFC will be pleased to inform you of the existence, any use, and disclosure of personally identifying information, and provide you with access to that Personal Information, within 30 (thirty) days of a receipt of a written request directed to HSFC Website Coordinator at 2300 Yonge Street, Suite 1300, Toronto, Ontario, M4P 1E4, subject to exceptions assigned by law. 
+**Disclosure of Your Personal Information –** HSF may transfer or otherwise disclose the information it collects from you to its employees, agents and service providers for the purpose of enabling these parties to perform a business, professional, charitable or technical support function for HSF. Such parties will be subject to the same obligations as HSF under this Policy. HSF may also disclose contact information it collects from you to other non-profit organizations. If you do not wish for your personal information to be disclosed to any other non-profit organizations, you may opt-out or withdraw your consent at any time by following the procedure outlined in the section entitled “Withdrawal of Consent”. HSF may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where HSF has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to protect the rights and property of HSF or otherwise as permitted or required by law.  If HSF is involved in a merger or other reorganization, HSF may also disclose your personal information to the resulting organization.
 
-If you wish to have your email address deleted from our database, email us at [delete@heartandstroke.ca](mailto:heartandstroke@hsf.on.ca) and include the EXACT words "CANCEL MAIL" in the body of your email. Please allow two to three business days for the actual cancellation to take effect. 
+**Disclosure of Personal Information Provided to Forums** – If you voluntarily submit or post any information, photographs or other content (“ **User Content** ”) to any HSF forums, Twitter pages, Facebook pages or other social networking pages/sites, certain of your personal information may be automatically included in the posting, including without limitation, your user name and email address and this information may be collected and used by others. HSF has no control over and is not liable for the collection, use or disclosure of any posted User Content or your included personal information by users of the Web Sites, forums, Twitter pages, Facebook pages or other social networking pages/sites. Any personal information posted, used or disclosed via an HSF forum, Twitter page, Facebook page or other social networking page or site is not subject to this Policy. You are responsible for ensuring the protection of any of your personal information that you post on any HSF forum, Twitter Page, Facebook Page or other social networking page or site. We recommend that you do not include your home address, job title, telephone number or other more sensitive personal information in any User Content, unless you are entirely satisfied that such information should be made public.
 
-__
+**Storing and Securing Your Information –** To help protect the confidentiality of your personal information, HSF employs security safeguards appropriate to the sensitivity of the information. Nevertheless, due to the nature of the Internet and Internet technologies, security and privacy risks cannot be eliminated and HSF cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy. 
 
-_Security._ HSFC uses Secure Socket Layer ("SSL") encryption technology to ensure the integrity and privacy of the personal and credit card information you pass to us via the Internet when you make an online donation or place an order online. However, to take advantage of this, you must use a compatible browser. 
+**Retention of Information –** HSF retains your personal information only as long as it is required for the purposes for which it was collected or as required by federal and provincial laws.  ****
 
-__
+**Accessing Your Personal Information –** Canada’s privacy laws give you certain rights to access and request corrections to your personal information in our custody or control. You may request access to your personal information and information about the collection, use and disclosure of that information by HSF by contacting the HSFC Website Coordinator at 2300 Yonge St., Suite 1300, P.O. Box 2414, Toronto, Ontario, M4P 1E4. You can help HSF maintain the accuracy of your information by notifying HSF of any changes to your personal information. 
 
-_Use of Cookies._ What is a cookie? Generally, cookies are small text files a website can use to recognize repeat users and ease the ongoing access to and use of the website. They do not come onto a user's system nor do they pose a threat to a user's files. Users should be aware that HSFC cannot control the use of cookies by advertisers or third parties hosting data for HSFC. Except as described herein, this Site does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties. However, if a User does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature. Please note that cookies may be necessary to provide the User with certain features (for example, customized delivery of information) available on HSFC's Site. 
+**Withdrawal of Consent -** You may withdraw your consent to the collection, use and disclosure of personal information about you at any time. To do this, please contact the Chief Privacy Policy Officer at your [provincial HSF office](http://www.heartandstroke.com/site/lookup.asp?c=ikIQLcMWJtE&b=3734867). Additionally, we routinely provide "opt out" or "unsubscribe" instructions on our Electronic Communications to provide for removal of your name from future transmissions. 
 
-__
+**Other Matters**
 
-_Opt-Out Options._ We give Users options wherever necessary and practical. Such choices include: 
+**Other Websites -** The Web Sites may contain links to other websites or Internet resources, notably those belonging to our partners. When you click on one of those links you are contacting another website or Internet resource that may collect information about you voluntarily or through cookies or other technologies. HSF has no responsibility or liability for or control over those other websites or Internet resources or their collection, use and disclosure of your personal information. 
 
-  * Opting not to provide certain personal information when registering. 
-  * Opting not to participate in Interactive Areas. 
-  * Opting not to receive email from HSFC. 
+**Former Users -** If you stop using the Web Sites and have not withdrawn your consent to the collection, use and disclosure of personal information about you in accordance with this Policy, HSF may continue to use and disclose your personal information in accordance with this Policy, as amended from time to time, and subject to compliance with the law. 
 
+**Privacy Policy Changes -** This Policy may be amended by HSF from time to time in HSF’s sole discretion and without any prior notice or liability to you or any other person. The collection, use and disclosure of your personal information by HSF will be governed by the version of this Policy in effect at that time. New versions of this Policy will be posted on the Web Sites. Your continued use of the Web Sites and receipt or request of any Electronic Communication subsequent to any changes to this Policy will signify that you consent to the collection, use and disclosure of your personal information in accordance with the changed Policy. Accordingly, when you use the Web Sites or receive or request any Electronic Communication, you should check the date of this Policy and review any changes since the last version. You should also bookmark this page and periodically review this Policy to ensure that you are familiar with the most current version. 
 
-
-You do not need to give personal information to receive information from this site. 
-
-****
-
-**User Submissions**
-
-HSFC appreciates your feedback! 
-
-Any information such as remarks, suggestions, questions, correspondence, comments, creative ideas, graphics, or other information communicated to HSFC through this Site, (collectively, called the "Submission") shall be treated as non-confidential. You agree that you will not upload or transmit any Submission that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party. 
-
-Your Submission becomes the property of HSFC and the HSFC shall be free to use the Submission on an unrestricted basis for any purpose whatsoever. 
-
-****
-
-**Use of Interactive Areas**
-
-If you use the Site's donation "pledge" forms, employment surveys, questionnaires, contests, profiles and any other interactive areas (collectively referred to as "Interactive Areas"), you are solely responsible for your own communications and the consequences of submitting those communications. HSFC does not assume any responsibility for the consequences of any Interactive Area communications on or arising from use of the HSFC Site. 
-
-**Content Use License**
-
-Upon acceptance of these Terms and Conditions, permission is granted for you to temporarily view, copy, print or download a single copy of the materials on this Site solely for your personal, non-commercial use. 
-
-The contents of the Site include but are not limited to text, graphics, images, logos, buttons, proprietary software icons, compilations (meaning the collection, arrangement and assembly), reading lists, libraries, updates, news, glossary, reviews, health tips, opinions, and other material including any modifications thereto ("Content"), are protected by copyright laws. HSFC will constantly be making changes to the Content contained on this Site in light of new information to serve you better. 
-
-You may reproduce limited excerpts of the data for personal use only, provided that each such copy contains a copyright notice as follows: © 2007 The Heart and Stroke Foundation of Canada. All rights reserved. You may not alter the information in this site in any way without prior written consent of HSFC. 
-
-Content is subject to change without notice at the sole editorial discretion of HSFC. If you violate any of these Terms and Conditions, your permission to use the Content automatically terminates and you must immediately destroy any copies you have made of any portion of the Content. 
-
-[Provincial Privacy Policy Officers contact information.](http://ww2.heartandstroke.ca/Page.asp?PageID=1613&ContentID=16843&ContentTypeID=1)  
-
+**Your Comments -** If you have any comments or questions about this Policy or your personal information, please contact the Chief Privacy Policy Officer at your [provincial HSF office](http://www.heartandstroke.com/site/lookup.asp?c=ikIQLcMWJtE&b=3734867).
