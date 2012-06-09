@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lurn.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128121913id_/http%3A//www.lurn.com/privacy-policy.html%3Fparams%3Dmain/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lurn.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610015037id_/http%3A//www.lurn.com/privacy-policy.html%3Fparams%3Dmain/privacypolicy) for the most accurate reproduction.*
 
 # Welcome to Lurn
 
