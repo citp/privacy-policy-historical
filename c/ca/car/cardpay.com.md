@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardpay.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107185451id_/http%3A//www.cardpay.com/card-pay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpay.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610011610id_/http%3A//www.cardpay.com/card-pay-policy) for the most accurate reproduction.*
 
 # Privacy policy - Cardpay
 
@@ -29,6 +29,8 @@ By using this site and the links from this site you may be brought to other Card
 ### Contact Us
 
 If you need more information or have any questions about this privacy statement, you can contact us by email at mailto:support@cardpay.com. Please mark your correspondence "For the Attention of Privacy Officer". Please also contact us if you have any comments or suggestions on how we can improve our privacy policies. We retain the right to change or remove our privacy policy at our discretion and will set up any new privacy policy here and we recommend you to visit this area frequently to keep you informed.
+
+/>
 
 Cardpay provide a secure online payment processing service.
 
