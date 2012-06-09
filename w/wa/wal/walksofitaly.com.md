@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125112228id_/http%3A//walksofitaly.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609030215id_/http%3A//www.walksofitaly.com/privacy_policy) for the most accurate reproduction.*
 
 # Walks of Italy | Privacy Policy when Booking a Walking Tour
 
