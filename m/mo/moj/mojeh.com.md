@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojeh.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108151839id_/http%3A//mojeh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojeh.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609065751id_/http%3A//mojeh.com/privacy-policy) for the most accurate reproduction.*
 
 # MOJEH MAGAZINE, PRIVACY POLICY
 
@@ -21,8 +21,13 @@ MOJEH, or its authorized agents, may use the details you provide for the followi
 • To respond directly to requests and queries that you may submit on the Contact Us page of MOJEH.com  
 • To inform you about product upgrades, new product?services from MOJEH.
 
-**Disclosure of Information**  
+|   | [](http://mojeh.com/wp-content/uploads/2011/09/static-image.jpg)
+
+**Disclosure of Information**
+
 MOJEH does not trade, rent, sell, any personal information gathered at our website.
 
 **General**  
-When there is no longer a requirement to store your personal information, MOJEH will delete the information from its systems. MOJEH reserves the right to change this Privacy Policy at any time without a notification.
+When there is no longer a requirement to store your personal information, MOJEH will delete the information from its systems. MOJEH reserves the right to change this Privacy Policy at any time without a notification.  
+  
+---|---|---
