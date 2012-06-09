@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zipcodezoo.com privacy policy that was archived on 2011-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208014133id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipcodezoo.com privacy policy that was archived on 2012-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609041957id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ZipcodeZoo Privacy Highlights</title>
@@ -196,6 +196,7 @@ Nifty("div.blurbbrown","tl br big");
 <li class="last"></li>
 </ul>
 
+
 <!-- end /includes/v2/headermenu.inc -->
 <div id="maindiv">
   <div id="maindivcon" class="full">
@@ -213,33 +214,26 @@ Nifty("div.blurbbrown","tl br big");
     <p>We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.</p>
   </div>
 </div>
- <!-- Start bottom -->
- 
-
- <script language="JavaScript" type="text/javascript">
- function DocTitle() {
-     return Document.title;
- }
- </script>
+<!-- Start mainbottom -->
+<!--sphider_noindex-->
 
 <noscript>
 <p>To fully enjoy all the features of ZipcodeZoo, please enable javascript.</p>
 </noscript>
 
 
-<form name="ReferForm" action="/Utilities/Refer-a-Friend.asp" target="_blank" method="post">
+<form name="ReferForm" action="/Utilities/Refer-a-Friend.asp" method="post">
   <script language="JavaScript" type="text/javascript"><!--	
             document.write ("<input type='hidden' name='title' value='" + document.title + "'>")
             //-->
 	    </script><input type="hidden" name="title" value="ZipcodeZoo Privacy Highlights">
 </form>
-<form name="ReportProblem" action="/Utilities/ReportaProblem.asp" method="get" target="_blank">
-  <input type="hidden" value="/About/Privacy.asp" name="url">
+<form name="formReportProblem" id="formReportProblem" action="/Utilities/ReportaProblem.asp" method="get" target="_blank">
+  <input value="" name="url" type="hidden">
 </form>
-	
 <script language="JavaScript" type="text/javascript"><!--	
-        function ReportProblem() {
-            document.ReportProblem.submit();}	
+	function ReportProblem() {
+	    var frm = document.getElementById("formReportProblem");frm.url.value=document.URL;frm.submit();}
         function ReferForm() {
             document.ReferForm.submit();}		
         function PrintPage() {
@@ -254,7 +248,7 @@ Nifty("div.blurbbrown","tl br big");
             } else if( window.opera && window.print ) { 
             return true; }}
            //-->
-	</script>
+</script>
   <div class="botspacer"></div>
   <div class="bottomnav">
     <ul id="navbottom">
@@ -264,7 +258,7 @@ Nifty("div.blurbbrown","tl br big");
       <li><a href="javascript:ReportProblem()">Report a Problem</a></li>
     </ul>
   </div>	
-<div id="footer"><p>© 2004-2011 David Stang. All rights reserved.</p></div>
+<div id="footer"><p>© 2004-2012 David Stang. All rights reserved.</p></div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -272,19 +266,13 @@ Nifty("div.blurbbrown","tl br big");
   _uacct = "UA-664701-1";
   urchinTracker();
 </script>
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-5f7-9RAK_k4o-";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-5f7-9RAK_k4o-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5f7-9RAK_k4o-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->	
+	
 <script src="/ieupdate.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 corners();
 </script>
+<!--/sphider_noindex-->
 
 
-
-</body></html>
+<!-- End mainbottom --></body></html>
