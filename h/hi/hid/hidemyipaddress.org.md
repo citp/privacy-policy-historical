@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidemyipaddress.org privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117002523id_/http%3A//www.hidemyipaddress.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidemyipaddress.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609022532id_/http%3A//www.hidemyipaddress.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hide My IP address - Browse anonymously
 
@@ -10,13 +10,9 @@ Join to us (
 
 #### Hide My IP Address
 
-) with your email account, and get benefits every week seperatly. 
+) with your email account, and get **fresh proxy list** every day into your mailbox for **FREE**. 
 
 ### About you
-
-**Your IP address:**  
-204.236.226.210  
-ec2-204-236-226-210.compute-1.amazonaws.com 
 
 ### Current users hidding IP
 
