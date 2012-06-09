@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumbox.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018222300id_/https%3A//www.zumbox.com/html/zumbox_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumbox.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609173557id_/https%3A//www.zumbox.com/zbxCB17726/html/zumbox_privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@
 
 1.               **Our Commitment to Privacy**
 
-1.1 Your privacy is of the utmost importance to us. Because we collect certain types of information about the users of this Web site at [zumbox.com](https://www.zumbox.com/) (" **Site** ") and its services, we feel you should fully understand the conditions of our collection and use of such information. This privacy policy (" **Privacy Policy** ") discloses what information we collect, how we use it, and how to correct or change it. By using this Site, you consent to our collection and use of your personal information as described in this Privacy Policy. 
+1.1 Your privacy is of the utmost importance to us. Because we collect certain types of information about the users of this Web site at [zumbox.com](https://www.zumbox.com/home) (" **Site** ") and its services, we feel you should fully understand the conditions of our collection and use of such information. This privacy policy (" **Privacy Policy** ") discloses what information we collect, how we use it, and how to correct or change it. By using this Site, you consent to our collection and use of your personal information as described in this Privacy Policy. 
 
 1.2 This Privacy Policy answers the following questions:
 
