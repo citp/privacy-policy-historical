@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duplichecker.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209120710id_/http%3A//www.duplichecker.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duplichecker.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609100551id_/http%3A//www.duplichecker.com/Privacy-Policy.asp) for the most accurate reproduction.*
 
-# Duplichecker
+# Privacy Policy
 
 The contents of this page are divided in the following heads: 
 
