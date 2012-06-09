@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ldoceonline.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230162725id_/http%3A//www.pearsoned.co.uk/Privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldoceonline.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609021925id_/http%3A//www.pearsoned.co.uk/Privacynotice) for the most accurate reproduction.*
 
 # Pearson - Privacy notice
 
-(Updated 6 December 2011) 
+(Version dated 6 December 2011) 
 
 **Introduction**   
 If you are under 18 years of age, please be sure to read this privacy notice with your parent or guardian and ask them questions about anything you don't understand.
