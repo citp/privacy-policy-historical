@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthtimes.org privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702013214id_/http%3A//www.earthtimes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthtimes.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609184011id_/http%3A//www.earthtimes.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Earth Times
 
