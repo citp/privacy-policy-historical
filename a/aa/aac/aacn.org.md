@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aacn.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126140926id_/http%3A//www.aacn.org/WD/MainPages/Content/PrivacyPolicy.content%3Fmenu%3DAboutUs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacn.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609222526id_/http%3A//www.aacn.org/wd/mainpages/content/privacypolicy.content%3Fmenu%3DaboutUs) for the most accurate reproduction.*
 
 # Privacy Policy
 
