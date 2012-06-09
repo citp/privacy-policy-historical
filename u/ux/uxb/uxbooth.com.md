@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211004810id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609234947id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Booth
 
@@ -20,26 +20,3 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 ### Links
 
 This web site contains links to other sites. Please be aware that UXBooth.com is not responsible for the privacy practices, or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-[](http://www.loop11.com/)
-
-### Latest Resources
-
-  * #### [Good UX in the Wild: Dropbox’s attention to detail on their download page](http://www.hanselman.com/blog/GoodUXInTheWildDropboxsAttentionToDetailOnTheirDownloadPage.aspx)
-
-Sometimes good UX is about being clever. Sometimes it's to make the user happy or smile. However, when the success of your product depends on …
-
-  * #### [OmniTouch – Touch screen for any surface](http://www.nickfinck.com/blog/entry/omnitouch_-_touch_screen_for_any_surface/)
-
-Microsoft Research will unveil OmniTouch, a touch screen for any surface, at UIST 2012. Chris Harrison wrote about the research he did on the …
-
-  * #### [Fake form fields for a better user experience](http://blog.objectivedigital.com/fake-form-fields-for-a-better-user-experience)
-
-Being a Sydney-based UX company we do heaps of work in finance, particularly with online forms. Typically an online form, usually comprising m…
-
-
-
-
-[Submit a resource](https://web.archive.org/new-resource/)
-
-### UX Booth Community
