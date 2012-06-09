@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206092723id_/http%3A//lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609063813id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.*
 
 # LucasArts.com | Privacy Policy
+
+([German](https://web.archive.org/legal/privacy/german.html) | [French](https://web.archive.org/legal/privacy/french.html))
 
 [](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=101) [](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=105&ctv_group=Children)
 
@@ -206,7 +208,7 @@ The TRUSTe Children’s Online Privacy Seal Program covers only personally ident
 
 **To What Web sites does this Privacy Policy Apply?**
 
-The terms of this Privacy Policy apply to all information submitted on [www.lucasarts.com](http://www.lucasarts.com/) and not to information that may be submitted to us offline. Furthermore, the terms of this Privacy Policy apply to all information submitted to the following Web sites: [www.starwars.com](http://www.starwars.com/), [www.ilm.com](http://www.ilm.com/), [www.lucasfilm.com](http://www.lucasfilm.com/), [www.lucaslearning.com](http://www.lucaslearning.com/) and [www.skywalkersound.com](http://www.skywalkersound.com/). In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities or divisions (such as Lucasfilm Ltd., Lucasfilm Entertainment Company Ltd., Lucas Licensing Ltd., Lucas Online, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals. 
+The terms of this Privacy Policy apply to all information submitted on [www.lucasarts.com](http://www.lucasarts.com/) and not to information that may be submitted to us offline. Furthermore, the terms of this Privacy Policy apply to all information submitted to the following Web sites: [www.starwars.com](http://www.starwars.com/), [www.ilm.com](http://www.ilm.com/), [www.lucasfilm.com](http://www.lucasfilm.com/), [www.lucaslearning.com](http://www.lucaslearning.com/) and [www.skywalkersound.com](http://www.skywalkersound.com/). In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities or divisions (such as Lucasfilm Ltd., Lucasfilm Entertainment Company Ltd., Lucas Licensing Ltd., Lucas Online, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, this Privacy Policy is intended to protect individuals. 
 
 **CONTACT INFORMATION:**
 
@@ -214,13 +216,13 @@ We hope you have a better understanding of our commitment to protect privacy. If
 
 If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child’s information, please contact us at the following address: 
 
-Lucas Online  
-One Letterman Drive  
-P.O. Box 29901  
-San Francisco, CA 94129-0901  
-Attn: Webmaster   
-(415) 623-1113   
-[webmaster@starwars.com](mailto:webmaster@starwars.com)
+> Lucas Online  
+>  One Letterman Drive  
+>  P.O. Box 29901  
+>  San Francisco, CA 94129-0901  
+>  Attn: Webmaster   
+>  (415) 623-1113   
+>  [webmaster@starwars.com](mailto:webmaster@starwars.com)
 
 Or [click here](http://www.starwars.com/webapps/registration/feedback/) to submit your questions online. 
 
@@ -228,19 +230,34 @@ If you do not receive acknowledgement of your inquiry or your inquiry has not be
 
 The TRUSTe Watchdog Dispute Resolution Program can be contacted directly at:
 
-[http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). 
+[http://watchdog.truste.com/pvr.php?page=complaint&url=www.lucasarts.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.lucasarts.com).
 
-TRUSTe will serve as a liaison with our Web site to resolve your concerns. 
+TRUSTe will serve as a liaison with our Web site to resolve your concerns.
 
 For additional information about our Web site, please see our [Terms of Use.](https://web.archive.org/legal/terms/)
 
-To see our third-party service providers and/or partners or operators who may collect cookies from this Web site, please view the **Privacy Policy: Appendix A** , by [clicking here](https://web.archive.org/legal/privacy/index_a.html). 
+To see our third-party service providers and/or partners or operators who may collect cookies from this Web site, please view the **Privacy Policy: Appendix A** , by [clicking here](https://web.archive.org/legal/privacy/index_a.html).
 
-Thanks. Have fun! 
+**Your California Privacy Rights**
 
-© 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
+In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of Lucasfilm Ltd. products to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at:
 
-Effective Date: 12/01/09
+> Lucas Online  
+>  One Letterman Drive  
+>  P.O. Box 29901  
+>  San Francisco, CA 94129-0901  
+>  Attn: Webmaster  
+>  (415) 623-1113  
+>  [webmaster@starwars.com](mailto:webmaster@starwars.com)  
+> 
+
+Please include your name, address, and email address. We will respond via email unless you specifically request a response by postal mail.
+
+© 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
+
+Thanks. Have fun!
+
+Effective Date: 01/31/12
 
   
 
