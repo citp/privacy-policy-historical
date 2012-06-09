@@ -1,40 +1,42 @@
-> *The following text is extracted and transformed from the taxtips.ca privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxtips.ca privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/privacy.htm) for the most accurate reproduction.*
 
 # TaxTips.ca - Personal Information Protection Policy
 
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/whatsnew.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/calculators.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/freein30.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/financialplanning.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/realestate.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/stocksandbonds.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/RRSPs.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/personal_income_tax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/seniors.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/disabilities.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/small_business_income_tax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/salestaxes.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/fedtax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/abtax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/bctax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/mbtax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/ontax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/qctax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/sktax.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/atlantic.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/territories.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/federalbudget.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/provbudgets.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/statistics.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/glossary.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/site_map.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/busdir.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/advertising.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/contact.htm)  
-[](https://web.archive.org/web/20111105004231id_/http%3A//www.taxtips.ca/related_sites.htm)
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/whatsnew.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/calculators.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/freein30.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/financialplanning.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/realestate.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/stocksandbonds.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/RRSPs.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/personal_income_tax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/seniors.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/disabilities.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/small_business_income_tax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/salestaxes.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/fedtax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/abtax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/bctax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/mbtax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/ontax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/qctax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/sktax.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/atlantic.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/territories.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/federalbudget.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/provbudgets.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/statistics.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/glossary.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/site_map.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/busdir.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/advertising.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/contact.htm)  
+[](https://web.archive.org/web/20120610014727id_/http%3A//taxtips.ca/links.htm)
 
 | | 
+
+### Protecting Your Privacy
 
 At TaxTips.ca, we are committed to providing our clients and web site visitors with exceptional service. As providing this service involves the collection, use and disclosure of some personal information about our clients and web site users, protecting their personal information is one of our highest priorities.
 
@@ -110,7 +112,7 @@ Google's use of the DART cookie enables it to serve ads to our users based on th
   
 | 
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).  
   
 #### Policy 2 - Consent
 
