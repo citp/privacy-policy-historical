@@ -1,165 +1,95 @@
-> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005517id_/http%3A//www.currensee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609081408id_/http%3A//www.currensee.com/US/legal/security-policy) for the most accurate reproduction.*
 
-# Privacy Policy | www.currensee.com
+# Security Policy | www.currensee.com
 
-**Introduction**
+### Introduction
 
-At Currensee our most important asset is our relationship with you. Therefore, we are committed to safeguarding the privacy of the personally identifiable information we collect from you via this website (the “Site”).
+Currensee, Inc (“Currensee”, “we” or “us”) desires to protect the privacy of our visitors and members in Currensee’s social trader network at [www.currensee.com](http://www.currensee.com/ "www.currensee.com") (the “Site”). 
 
-Your information is yours and we respect that. This policy outlines the types of information Currensee collects about you and how that information is used. The policy applies to all current and former members of Currensee. This policy may be revised from time to time, so please revisit this page often to remain fully informed of our policies.
+### 1\. Safeguarding private information
 
-We take precautions to ensure the information we collect about you is protected and is accessed only by authorized individuals and organizations. Specifically, we follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
+This privacy and security policy (“Privacy Policy”) is intended to provide you notice of our information management practices, including the types of information gathered and how it is used and safeguarded. Your use of this Site constitutes acceptance of this Privacy Policy and the Terms of Use, which are hereby incorporated by reference. <http://www.currensee.com/terms-of-use>
 
-Because we know how important security and privacy is to you, Currensee operates under the following principles when handling your personal information:
+Our employees and third-party service providers do not have access to private data, except as set forth in this Privacy Policy, the Terms of Use, or as otherwise disclosed to you.
 
-We allow you to create a screen name that is not your real name, providing you control of identifying information within the Currensee community.
+### 2\. Collection and Our Use of Information
 
-As a registered user, you may provide Currensee with the credentials to access your brokerage account (i.e. user ID, password, information necessary to access your account), we will never access your accounts for any other purpose than to provide the services as you have requested. Currensee uses security systems similar to those used by banks and other holders of sensitive information to protect credential information you entrust to us.
+We will collect no personally identifiable information about you when you visit our Site unless you voluntarily choose to provide that information to us. Any personally identifiable information that you provide to us via our Site will be used only for such purposes as are described either in this Privacy Policy (including the terms of use) or at the point of collection, such as to respond to your questions or comments, to register, to send you a requested brochure or to otherwise send information to you.
 
-You can de-activate your account for any reason at any time and we will delete all of your personally identifiable information from our servers. We will not keep a copy of your personally identifiable information for any purposes upon account deactivation except as may be required by law or to otherwise protect legal rights.
+### 3\. Aggregate and Statistical Data
 
-We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. Further, our employees and third party service providers have access to your nonpublic personal information only on a "need to know" basis. Finally, we internally audit our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information.
+We may collect certain aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies when you visit the Site (collectively, the “Aggregate and Statistical Data”). For instance, when you visit the Site, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited the Site, the pages you visited, the referrer (the website you came from), the type of browser you are using, the type of operating system you are using, and the domain name and address of your Internet service provider. Neither the web log information nor cookies (as discussed below) collects any personal information. They do not contain personal information, such as your name or e-mail address, and in no way are used to identify our users. Aggregate and Statistical Data helps us design the Site, to identify popular features, and for other managerial purposes.
 
-**What Information We Collect**  
-**Personally Identifiable Information**
+### 4\. Personally Identifiable Information
 
-When you browse the non-password protected portions of our Site, you do so anonymously; no personally identifiable information is collected. When you sign up to become a registered user of Currensee we request that you provide to us your name, address and email address, as well as your trading behavior, such as the techniques you use and the instruments you trade.
+You may also be asked to provide personally identifiable information on the Site, which may include your name, address, telephone number, forex trading account number, credit card number and e-mail address (your “Personally Identifiable Information”). This information may be gathered when feedback or e-mails are sent to the Site, when you register for an account, use our service, post information on the Site or use a credit card to pay for any payments. In all cases, you have the option of providing us with the Personally Identifiable Information, though certain services and features may not be available to you if you do not provide personally identifiable information. You agree that we may contact you to provide you with information we believe may be of interest to you. At that time, you will be offered the opportunity to opt out of this service. You may remove your e-mail address from the list at any time by clicking on the unsubscribe link provided at the bottom of every e-mail. We will not rent or sell your Personally Identifiable Information or share it with anyone except as otherwise stated in this Privacy Policy.
 
-You may also choose to supply trading information (e.g., how long you have been trading, your preferred trading hours, etc.) and a profile description. Once you register with Currensee and sign in to our Site, you are not anonymous to us. We may use the Registration Information to open an account with us, to provide services that may be useful to you and to contact you.
+**Transaction and holdings amounts**
 
-Our Site also permits you to contact us via email and our Contact Us form. Whenever you send an email via our Site or through the Contact Us form, you will be providing us with your name, email address and any information you choose to include in the text of your message. For example, you may choose to provide your mailing address or other information necessary or helpful for us to address your query or concern.
+Personally Identifiable Information may also include information associated with your executed transactions. We may use the raw data associated with this information for calculations and normalization purposes. This information is not shared with other members, except as provided in this Privacy Policy (including the Terms of Use).
 
-In addition, as a registered user of our Site, we collect and maintain information about your membership activity. This activity includes your trading ideas, executed transactions, positions, history, comments, subscriptions to other members as well as ratings of other members’ trading ideas and comments and their ratings of you. We publish this information and derivatives based on this information on our Site and we use this information to provide the services you have requested.
+**Controlling access to your Personally Identifiable Information**
 
-**Additional Personal Information You Provide, or Direct Us to Collect from Others, to Use our Service**
+We offer varying levels of information sharing. It is your decision what information is shared, and how.
 
-We also collect personal information from you in two other general ways:
+**Publicly available** – Information at this level can be accessed by anyone visiting the Site.
 
-  * Personal information you directly provide or input as you use the Currensee Site; and
-  * Personal information we gather with your permission from third party websites and Internet services that you register on our Site.
+**Registered community** – Information tagged at this level can be accessed by members of the Currensee community.
 
+**My Trading Team** – Information tagged at this level can only be accessed by members of your trading team, which you have explicitly authorized to have access to such information.
 
+**Private information** – Information tagged at this level can only be seen by you.
 
-For example, once you are a registered user of our Site, you may register your brokerage account through our Site by providing the user ID, password and other information necessary to access such account (“Verification Information”). We will collect the transactional information regarding your brokerage account to display it to you on the Site. This information may include your current holdings, and your past and future transactions, to name a few.
+You may set the access level separately for each of the following areas of your personal profile:
 
-Currensee limits its use of your personal investment information to the purposes for which it has been collected and as we describe in this Privacy Policy. Except as necessary to carry out your requests, Currensee uses this information only on an aggregate, non-personal basis.
+**General information. **This may include general information, such as your status, your bio or your picture.****
 
-**Technical and Other Information**
+**Trading Profile.** This may include information about your trading approach, trading hours, number of trades and other similar information.
 
-When you visit our platform, we may collect information through “cookies” or other similar Web tools to enhance the user experience. Cookies are small strings of text that are sent by our Site to your browser on your computer’s hard drive. Cookies enable us to recognize you when you return to our Site, to maintain your Web session while you browse throughout the Site, as well as help us provide you with a better, more personalized experience. Our cookies are not tied to personally identifiable information. Most web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies. However, rejecting cookies may prevent you from taking advantage of certain portions of our Site.
+**Trading team.** This generally includes a listing of your team members.
 
-In addition, when you are browsing our Site, Currensee automatically receives and records information on our server logs from your browser including your IP address, Currensee cookie information and the pages you request. We use this information to improve the functionality and usability of our services. Our log files are not tied to personally identifiable information.
+**Performance.** This may include information and statics on your aggregated trading performance.
 
-**How We Use the Information We Collect**  
-**Communications from the Site**
+### 5\. Non-Personally Identifiable Information 
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our Site is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature.
+Data that is not personally identifiable, such as answers to surveys, comments, ideas and suggestions that do not include your personally identifying information, are deemed to be non-confidential, and we are free to disclose and use such data, without any obligation whatsoever to you for any purpose and through any means.
 
-**Customer Service**
+### 6\. Use of Cookies
 
-Based upon the personally identifiable information you provide us during the registration process, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+We may store cookies on your computer or other technology to improve the quality of your visit to our Site, and to remember certain user attributes. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. We use “cookie" technology for several purposes. First, we use it to track general information about our users. The information collected through cookies is non-personally identifiable information and we use this information for statistical and market research purposes. We also give you the option to use cookies to establish a link between your computer and Currensee , to help authenticate you and to customize the Site’s content so that the information made available is more likely to be of interest to you. This link assures that, when you return to our Site, you will be able to log in without the necessity of providing your password, or help us to avoid asking for the same information on your return visits to the Site. You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Refer to your browser’s instructions or “Help” button to learn more about cookies.
 
-**Verification Information**
+### 7\. Security Technology
 
-As a registered user of our Site, you provide to us your Verification Information to access your trading records from your Broker. Verification Information is only used to verify the activity information and is not accessible anywhere on our Site.
+Currensee uses Secure Socket Layer (SSL) encryption technology in order to provide a secure environment for all transactions and to protect certain information that you submit from loss, misuse and alteration while under our control. This type of technology also protects you from having your information intercepted by anyone other than Currensee while it is being transmitted to us. We work hard to ensure that our Web sites are secure and that they meet industry standards. We also use other safeguards such as firewalls, authentication systems (e.g., passwords and personal identification numbers), and access control mechanisms to control unauthorized access to systems and data.
 
-**Information Sharing and Disclosure We Do Not Reveal Any Personally Identifiable Information**
+We maintain physical, electronic and procedural safeguards to maintain the confidentiality of your information.
 
-We will not publish any personally identifiable information (e.g. name, email address or contact information) on our platform or Site for others to view, without your permission, unless you choose to post it yourself on the Site.
+When you access our member areas, you are required to login by providing your username and your password. To preserve privacy and confidentiality, your login information is transmitted in an encrypted format through a multi-factor authentication process. If you circumvent such authentication and/or log-in process in any manner, you agree that you are liable for any and all subsequent security breaches involving your account(s).
 
-**We Do Not Reveal Any Verification Information**
+### 8\. Sharing Information with Third Parties
 
-We do not publish any verification information anywhere. This is used solely in order to retrieve your trading data and is kept in strict accordance with our Terms of Use.
+Currensee does not disclose your Personally Identifiable Information to third parties, except as described in this Privacy Policy (including the Terms of Use). Third party disclosures may include sharing such information with non-affiliated companies that perform support services for you as a member, including those that provide professional, legal, or accounting advice to Currensee. Personally Identifiable Information may be disclosed to non-affiliated companies that assist Currensee in providing services to you and are required to maintain the confidentiality of such information. We may also disclose your Personally Identifiable Information to other third parties as may be authorized by you.
 
-**You Choose to Whom You Want to Make Your Performances Public**
+Currensee may disclose your Personally Identifiable Information to third parties, only as necessary, that we engage to provide certain financial and other services to you. This information may be disclosed as part of normal business operations and as part of normal legal and or regulatory purposes required by our service partners, the Internal Revenue Service, the Commodity Futures Trading Commission, and other regulatory and government entities, and to third parties to assist in the analysis of Aggregate and Statistical Data, business analysis and marketing strategies. These third parties are bound by confidentiality provisions to assure the protection of your Personally Identifiable Information.
 
-You may choose to whom you provide authorization to explore your trading performance, if any: your Virtual Trading Team members and/or for all Currensee's members. Other registered users will be able to search for, access and review this information.
+Your Personally Identifiable Information is never sold to third parties.
 
-Should you elect to make your trading performance public to all Currensee's registered users, summary information including recent activity information may be made available to non-registered users and accessible by search engine technologies.
+### 9\. Regulatory Disclosure
 
-**We Do Not Rent or Share Any Personally Identifiable Information**
+Under limited circumstances, Currensee may disclose your personal information to third parties as permitted by, or to comply with, applicable laws and regulations. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this Privacy Policy, we will not use your Personally Identifiable Information for any other purpose, unless we describe how such information will be used at the time you disclose it to us or we obtain your permission.
 
-Currensee does not rent or share any personally identifiable information with third parties that are not our agents or service providers, except as described in this privacy policy or, otherwise, with your permission.
+### 10\. Correct or Remove Information
 
-**We May Provide Your Information If Legally Required**
+If you have submitted Personally Identifiable Information through the Site and would like that information deleted from our records, you would like to update or correct that information or you have and questions or comments regarding our Policy, please contact us at our e-mail address, [customer.support@currensee.com](mailto:customer.support@currensee.com) with the subject line “Privacy Policy Question”, and provide us with your name, postal address and any other information necessary to respond to your question. We will use commercially reasonable efforts to make corrections or remove your name and address from future mailings.
 
-Currensee may be required to provide your information under the following circumstances: in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against actual or threatened legal claims. In addition when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities or activities which we believe give rise to legal liability to us, our members or third parties, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Currensee’s terms of use, or as otherwise required by law.
+### 11\. Links to Other Sites
 
-**Links to Other Sites**
+Currensee may from time to time offer links to other sites from sites within the Currensee domain. We have no control over these external sites or their content, and cannot be held responsible for any actions they may take or any information they might collect. You may arrive at one of these sites through clicking on a banner advertisement, as part of a co-branding arrangement, or simply by selecting a link on a Currensee web page. You should be aware that this Privacy Policy does not apply to your use of these sites. If you provide any information to such sites, different rules regarding the collection and use of your Personally Identifiable Information may apply. Before using these linked sites, you may wish to review their privacy policies to understand how they treat privacy, security, data collection, and distribution. These sites might issue their own cookies or collect data or personal information. Use caution when visiting an external site.
 
-Our Site may reference or provide links to other websites that are not owned or controlled by Currensee. Please be aware that Currensee does not control, nor are we responsible for, the privacy policies or information practices of such other websites. This privacy policy applies only to information collected by this platform.
+### 12\. Changes to Policy
 
-**Invite-A-Friend**
+We may, at any time, revise these policies by updating this posting. Your continued use of this Site indicates your acceptance of all revisions and you should, therefore, periodically visit this page to review these policies for changes. If you have any comments or questions about this policy, please contact us at [customer.support@currensee.com](mailto:customer.support@currensee.com).
 
-Our Site empowers you with insights into your trading information and enables you to connect with other traders by providing the names and email addresses of others whom you would like to invite to our Site. This information is used only to send your invitation and reminders.
+### 13\. Consent to Processing in the United States
 
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to visit our Site. Currensee stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-**Amending Your Account Information**  
-**Accuracy of Information**
-
-We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer. It is your responsibility, however, to ensure that such information is accurate, complete and up-to-date. If you identify an inaccuracy, or need to make a change to any personally identifiable information you have provided to us, please update the information directly on our Site. Alternatively, you may Contact Us to have such information changed. If you believe any information to be erroneous, you can contact Currensee and we will endeavor to verify and correct it if erroneous. You may not change any information on the system regarding, or posted by, other people, including comments they make about you or your information.
-
-**You Can Terminate Your Membership at Any Time**
-
-You may terminate your Currensee membership at any time by contacting us directly. You can request your registration, activity and verification information be removed from our systems, and our security partners’ systems, and all data will be removed, subject to any legal requirements to keep it. Comments added to other members’ blog posts may remain but will no longer be attributable to you. Certain information may remain anonymously within aggregated data sets, and portions may remain in our archived records (pursuant to certain legal requirements) after your account has been deleted, as well as remain on third party systems we do not directly control.
-
-**A Word About Public Profiles**
-
-Our public profile feature allows you to publish portions of your Currensee profile, including your member screen name but NOT your email address to the public. You have the ability to choose which personal information about you may be viewed by others. The account settings, tools and controls enable you to manage access to your personal information, portfolio information and your network and contacts.
-
-**Journals, Comments and Posts**
-
-If you write a journal post, a comment or a note on this Site, you should be aware that any personally identifiable information you submit there may be read, collected, or used by other users of these forums for communication, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit.
-
-**Changes to This Privacy Policy**
-
-Currensee may update this policy at any time. However, we will notify you of significant changes in the way we treat personally identifiable information by sending a notice to your email address or by placing a prominent notice on this section of our Site. In the event Currensee should be acquired by or merged with another company, your personally identifiable information and/or technical information we obtain from you via this Site may be disclosed to any potential or actual third party purchasers or may be among those assets transferred.
-
-**Opt Out**
-
-You may opt out of receiving communications from us and our affiliates by following the opt-out link provided in any email received from us or by emailing us directly.
-
-**Consequences of Not Providing Information**
-
-You may choose not to provide us with your personally identifiable information. However, choosing not to provide certain requested personally identifiable information may prevent you from accessing and taking advantage of certain services offered by Currensee.
-
-**Children**
-
-In compliance with the Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501-06 and 16 C.F.R. §§ 1.1-1.1, our Site does not permit children under 18 years of age to become users, and we do not collect information from children. By using our Site, you represent that you are not under 18 years of age.
-
-**Acceptance of These Terms**
-
-This Privacy Policy is incorporated into and subject to the terms of the Currensee Terms of Use. If you do not agree to the terms of this Privacy Policy, please do not provide us with any information and do not use this Site. By using this Site and voluntarily providing your personally identifiable information to us, you consent to the collection and use of such personally identifiable information as set forth in this Privacy Policy.
-
-**Effectiveness**
-
-This Privacy Policy is effective as of February 1, 2009. We reserve the right, at any time, to modify, alter, or update this policy, and any such modifications, alterations, or updates will be effective upon posting. In the event we modify this Privacy Policy, your continued use of this Site will signify your acceptance of the modified Privacy Policy.
-
-If you have any questions about this Privacy Policy or the security on our Site, please [contact us](mailto:customer.support@currensee.com).
-
-_**Social Networking FAQ**_
-
-**Social Networking in General and the Currensee Trader Social Network**
-
-Social networks are on-line groups, networks or communities of people who share some common element(s) such as a particular interest, and are interested in exploring and discussing such interests with others on the internet. Social networking involves the on-line interaction of its members via multiple and various electronic formats, such as chat, messaging, email, video, voice chat, file sharing, blogging, discussion groups and so on.
-
-A social network provides its members with many features, such as the ability to create and view profiles of other members who share commonalities. A social network also allows members to create personal profiles, potentially with fairly detailed information, as well as allow its members to engage in activities such as create personal blogs, share personal information and other applications that allow its members to help them to connect with other network members.
-
-The Currensee Trader Social Network is limited to individuals who are active forex traders, as described in the Terms of Use http://www.currensee.com/terms-of-use. As with other social networks, members of the Currensee Trader Social Network may create personal profiles, in this case with respect to their forex trading, and may share among other information, information on their forex trading activities and performance and their market views and trading strategies.
-
-**Benefits to Social Networks**
-
-A social network provides opportunities for its members to engage with other members and share information over the Internet and find other members on-line with similar interests.
-
-**Risks to Social Networks**
-
-Social networks are not without their risks, which are no different than any other on-line activity. With public spaces, or even within a closed social network community, the services can be used by anyone. There are risks as one does not truly know who the other members of the social network are. In addition, while Currensee does its best to restrict access to your information, Currensee has no control over what third parties with access to your information may do with it. For example, you may post certain personal information, but another member copies and publishes it.
-
-When using social networks, you should take caution when posting your personal information as well as carefully consider the information you get from the social network. You should take care in trusting the information posted in a social network as it may be difficult to prevent members or the public at large from posting false or misleading information, including information in their personal profiles. Although Currensee takes reasonable steps to regularly monitor the content of its site to identify and remove any misleading or otherwise fraudulent posts, and may ban a member for egregious or repeat violations, there is no assurance that we will detect all misleading or fraudulent posts, and members should not rely upon or assume the accuracy of information posted by other members and should make their own independent trading decisions.
-
-In addition, be careful with personal information. Once you have posted your personal information to the internet, you have lost control over who will see it and how it will be used. Information you post or as contained in your profile can easily be copied and shared with thousands of others at the press of a button. In addition, when posting other materials, such as photos, you should take precaution as such information or pictures can be altered or distorted.
-
-There is the potential for risk in using the Currensee Trader Social Network stemming from the illegal or improper use of the social network by third parties who might, for example, post misleading information in an attempt to improperly influence trading decisions or find ways to copy and aggregate member profiles, collect personal financial information or copy personal content and use it for their own purposes.
-
-Beware of files posted or clicking on executable files on social networks as social network sites provide an ideal and cost-efficient platform for the distribution of viruses, worms and bots, Trojans, spyware and more. Companies with a presence on these sites could be adversely affected.
+By providing any personally identifiable information to us pursuant to this Privacy Policy, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection and processing of such information in the United States of America. The server on which this website is hosted may be outside the country from which you access this Site and may be outside your country of residence. Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer of your Personally Identifiable Information to various countries around the world that may have different levels of privacy protection than your country. By submitting your Personally Identifiable Information through this Site, you consent, acknowledge, and agree that we may collect, use, transfer, and disclose your Personally Identifiable Information as described in this Privacy Policy. If you do not consent to the terms of this Privacy Policy, please do not use this Site.
