@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webidz.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227024124id_/http%3A//www.webidz.com/content_pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webidz.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609061115id_/http%3A//www.webidz.com/content_pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # WeBidz Auctions
 
