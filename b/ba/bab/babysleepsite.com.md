@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210144408id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610004621id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Baby Sleep Site™ - Baby Sleep Help | Toddler Sleep Help | Custom Sleep Help
 
@@ -24,7 +24,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you can e-mail contact@babysleepsite.com to send a separate request..
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you can e-mail contact@babysleepsite.com to send a separate request..
 
 • To administer a contest, promotion, survey or other site feature
 
@@ -64,7 +64,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.babysleepsite.com/terms-of-use.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.babysleepsite.com/terms-of-use>.
 
 **Your Consent**
 
