@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planisware.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113182313id_/http%3A//www.planisware.com/main.php%3Fdocid%3D9448%26ch_lg%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planisware.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609060126id_/http%3A//www.planisware.com/main.php%3Fdocid%3D9448%26ch_lg%3D2) for the most accurate reproduction.*
 
 # Planisware: Privacy Policy
 
@@ -32,4 +32,4 @@ We communicate with users who request information about our products and service
 Planisware provides you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us such as emails or updates from us regarding new services and products offered on this Web site. The opt-out choice may be exercised by unsubscribing. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. 
 
 **Contact Us**   
-If you have any questions or concerns about our privacy policy or its implementation, you may contact through [our web formular](https://web.archive.org/web/20111113182313id_/http%3A//www.planisware.com/form.php?docid=22) or by phone at your nearest Planisware location. See our [contact](https://web.archive.org/web/20111113182313id_/http%3A//www.planisware.com/contact.php) page.
+If you have any questions or concerns about our privacy policy or its implementation, you may contact through [our web formular](https://web.archive.org/web/20120609060126id_/http%3A//www.planisware.com/form.php?docid=22) or by phone at your nearest Planisware location. See our [contact](https://web.archive.org/web/20120609060126id_/http%3A//www.planisware.com/contact.php) page.
