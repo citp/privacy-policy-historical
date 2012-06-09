@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212233id_/http%3A//www.corporatehousingbyowner.com/corporate-housing/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609062759id_/http%3A//www.corporatehousingbyowner.com/corporate-housing/privacy_policy) for the most accurate reproduction.*
 
 # Corporate Housing by owner: corporate housing and accommodations, furnished apartments for short term rentals
 
