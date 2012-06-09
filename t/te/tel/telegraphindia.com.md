@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124614id_/http%3A//telegraphindia.com/section/others/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609044339id_/http%3A//www.telegraphindia.com/section/others/privacy.jsp) for the most accurate reproduction.*
 
-# The Telegraph - Calcutta (Kolkata) | Privacy Policy
+# Privacy Policy
 
 This privacy policy is intended to protect an individual's privacy and seeks to explain the type of information The Telegraph collects from visitors to its site, what The Telegraph does with that information, and how users may find out more about this profile. This policy may change from time to time so please check it frequently. 
 
