@@ -1,16 +1,43 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207121529id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609232840id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.*
 
-# Fiction, Children's books, eBooks, Non-fiction books, textbooks and more at Waterstone's
+# Fiction, Children's books, eBooks, Non-fiction books, textbooks and more at Waterstones
 
-**Waterstone's Privacy Policy**
+**What are cookies?**
 
-Waterstone's Booksellers Limited ("Waterstone's"), are committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you and the procedures that we have in place to safeguard your privacy whilst you use the website.
+Waterstones.com places tiny text files called cookies onto your computer, tablet or mobile device. This is standard practice for almost all websites.
+
+Cookies are not harmful to your computer and are an essential part of online shopping. They allow us to give you a more efficient customer experience. 
+
+**What are cookies used for?**
+
+There are two main types of cookie; we call them "first party" and "third party" cookies. 
+
+First party cookies are small data files that Waterstones.com uses do things such as keeping track of what you've put in your basket and remembering who you are when you return to our site. We don't save personal information such as credit card details in cookies we create. 
+
+Third party cookies are set on behalf of Waterstones.com. The most important of these are Google, Tradedoubler and Affiliate Window who display text or banner adverts on our behalf on a number of other reputable websites. These partner cookies don't collect personal data and would not be able to identify you as an individual customer. 
+
+**On the whole, cookies are used:**
+
+* For technical purposes essential to effective operation of website, particularly in relation to online transactions.
+* To enable Waterstones.com to collect anonymous information about the browsing and shopping activities of our customers for internal analysis.
+* To drive Waterstones.com marketing, particularly banner advertisements and text adverts.
+* To enable Waterstones.com meet its contractual obligations to make payments to third parties when a product is purchased by someone who has visited our website from a site operated by those parties.
+
+_**How to manage cookies:**_
+
+**Microsoft Internet Explorer:** **1.** Choose the "tools" menu - then "Internet Options" **2.** Click on the "privacy" tab **3.** Select the appropriate setting 
+
+**Mozilla Firefox:** **1.** Choose the "tools" menu- then "Options" **2.** Click on the "privacy" icon **3.** Find the menu "cookie" and select the relevant option 
+
+**For Opera 6.0 and further:** **1.** Choose the > "Preferences" menu **2.** Privacy 
+
+Waterstones Booksellers Limited ("Waterstones"), are committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you and the procedures that we have in place to safeguard your privacy whilst you use the website.
 
 We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
 **The information we collect and how we use it**
 
-When you register with Waterstone's and/or place an order, we need to know your name, delivery address, credit or debit card number and expiry date, email address and telephone number. This information allows us to fulfil your order and notify you of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.
+When you register with Waterstones and/or place an order, we need to know your name, delivery address, credit or debit card number and expiry date, email address and telephone number. This information allows us to fulfil your order and notify you of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.
 
 We may also ask you to give us optional contact information, for example your mobile number and demographic information like your age.
 
@@ -42,7 +69,7 @@ You can usually change your browser so that it will not accept cookies.
 
 **Security of your information**
 
-We follow strict security procedures in the storage and disclosure of information which you have given us. This is to prevent unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall from the outside world. We use secure socket layer software (SSL) to encrypt all of your personal information including your credit card number and your name and address. Waterstone's internal procedures cover the storage, access and disclosure of your information.
+We follow strict security procedures in the storage and disclosure of information which you have given us. This is to prevent unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall from the outside world. We use secure socket layer software (SSL) to encrypt all of your personal information including your credit card number and your name and address. Waterstones internal procedures cover the storage, access and disclosure of your information.
 
 The Verisign Secure Site Program allows you to learn more about web sites you visit before you submit any confidential information. When you see a Verisign logo, clicking on it will verify that this website is secure.
 
@@ -52,7 +79,7 @@ Unless we have your express consent, we will only disclose your personal data to
 
 We use your information only as set out in this Policy and will not sell, rent or pass your information on to others for marketing purposes without your express consent.
 
-Waterstone's may however provide aggregate statistics about its customers, sales traffic patterns and related site information to reputable third-party vendors and relevant affiliate partners, but these statistics will include no personally identifying information. We may also release account information where we believe in good faith that this release is reasonably necessary to comply with the law.
+Waterstones may however provide aggregate statistics about its customers, sales traffic patterns and related site information to reputable third-party vendors and relevant affiliate partners, but these statistics will include no personally identifying information. We may also release account information where we believe in good faith that this release is reasonably necessary to comply with the law.
 
 **Your consent**
 
