@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210172226id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609062158id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alexandalexa
-
-### Privacy Policy
 
 ALEXANDALEXA.COM ("AA", "we", "our", "us") and its subsidiary companies respect the privacy rights of its online visitors ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We have adopted a Privacy Policy that guides how we collect, store and use the information that you provide us with.
 
@@ -32,7 +30,7 @@ AA collects personal information in several ways directly from its online visito
 
 As a user of our services, we may collect non-personal data about use of the website, such as pages visited, times and volume of use of the services as well as Traffic Data. Traffic data includes logs, details of networks, time of log-on or access, length of sessions and similar systems data.
 
-### What about cookies?
+### [What about cookies?](https://web.archive.org/cookie-policy)
 
 Our site uses cookies to keep track of how often you visit our site, the contents of your shopping cart, previous purchases and to deliver content specific to your interests. (A cookie is a piece of information that is stored on your computer's hard drive by your web browser which tracks your movements within websites.) Most browsers are automatically set to accept cookies but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our website, including the ability to purchase items.
 
