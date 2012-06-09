@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211032213id_/http%3A//www.prospects.ac.uk/graduate_prospects_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610005327id_/http%3A//www.prospects.ac.uk/graduate_prospects_privacy_statement.htm) for the most accurate reproduction.*
 
-# Privacy statement | Prospects.ac.uk
+# Privacy statement and cookie information | Prospects.ac.uk
 
 ## Protecting your privacy
 
@@ -44,35 +44,19 @@ We also use information in aggregate form (i.e. your individual details cannot b
 
 
 
-## 4\. How we share information with third parties
-
-We may disclose information obtained from you to third parties if you have ‘opted in’ to receive offers from carefully selected companies or where we need to perform services requested by you. Examples include administering competitions, analysing data, providing marketing assistance, developing/maintaining our website and processing credit or debit card payments. Secure Hosting Limited processes credit/debit transactions. We will transfer your personal information on the understanding that they keep it confidential.
-
-We reserve the right to release personal information without your consent or without consulting you, when we believe that this is appropriate to comply with our legal obligations, to enforce our terms and conditions, to protect the security of this website or to prevent fraud.
-
-From time to time we may share anonymous information about visitors to this site to potential advertisers, business partners and sponsors such as the number of users we have, their average age, location, etc. This information will be shared in a way that ensures your identity is not revealed.
-
-We may also disclose or access your account if required to do so by law.
-
 ## 5\. Cookies and other similar technologies
 
-Graduate Prospects uses session and persistent cookies, tags and other similar technologies as a means of collecting non-sensitive information on general website usage so that we may improve your experience on our website.
+Graduate Prospects uses first-party, third-party, session and persistent cookies, tags and other similar technologies as a means of collecting non-sensitive information on general website usage so that we may improve your experience on our website.
 
 Cookies are a small piece of information placed on your computer’s hard drive via your web browser to enable the sender to identify, authenticate and maintain specific information about how users behave. Cookies make using the website’s facilities quicker, easier and more convenient as well as allowing registered My Prospects users to be presented with a personalised version of the site.
 
-If you would like to browse the Prospects website you may do so without accepting cookies.
+**If you would like to browse the Prospects website you may do so without accepting cookies.**
 
-If you choose to deactivate cookies, the 'help' button on the menu bar of most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser tell you when you receive a new cookie, and how to disable cookies.
+For more information on the cookies used on this website and how to opt-out of accepting cookies, see our [List of cookies used on Prospects.ac.uk](https://web.archive.org/cookies_list.htm). Please read this information in full before deciding whether to disable cookies as doing so may reduce your enjoyment of our website.
 
-Please read this section in full before deciding whether to disable cookies as doing so may reduce your enjoyment of our website.
+**Our 'Remember me on this computer' checkbox**
 
-**Remember me on this computer – using First Party Cookies**
-
-Graduate Prospects uses First Party cookies:
-
-To save you time - we can remember your login details whenever you wish to login to My Prospects. Click the Remember me on this computer checkbox to save your email address and password. Although storing your email address and password is perfectly safe, we do not recommend that you enable this option on a shared or public computer.
-
-Session cookies are used to allow you to carry information across pages of this website and avoid having to re-enter information. Session cookies are not retained on your computer after you leave this site and then close down your browser.
+To save you time - we can remember your login details whenever you wish to login to My Prospects. Click the 'Remember me on this computer' checkbox. We do not recommend that you enable this option on a shared or public computer.
 
 ## 6\. Links
 
