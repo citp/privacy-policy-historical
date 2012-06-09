@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaltrends.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230010407id_/http%3A//www.digitaltrends.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltrends.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609090414id_/http%3A//www.digitaltrends.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Digital Trends
 
 Designtechnica Corporation understand and respect the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing Digital Trends’ intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
 
