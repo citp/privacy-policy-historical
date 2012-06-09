@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanrhetoric.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102052620id_/http%3A//americanrhetoric.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanrhetoric.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609155920id_/http%3A//www.americanrhetoric.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # American Rhetoric: Privacy Policy
 
