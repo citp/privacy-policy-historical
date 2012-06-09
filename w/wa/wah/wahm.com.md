@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahm.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155409id_/http%3A//www.internetbrands.com/ib/privacy/employment-database%3Fsite%3Dwww.wahm.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahm.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609141656id_/http%3A//www.internetbrands.com/ib/privacy/employment-database%3Fsite%3Dwww.wahm.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
