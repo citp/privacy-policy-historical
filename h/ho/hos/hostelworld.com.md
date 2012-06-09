@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229145645id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609030347id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
-# Hostelworld.com Security & Privacy Policy
+# Hostels Worldwide - Online Bookings, Ratings and Reviews
 
 _Hostelworld.com has been processing online hostel reservations since 1999 and we have always placed the security of our internet transactions and our customers credit card details as our top priority._
 
 We will continue to offer our customers the highest level of security available for online transactions and hope this reassures you when you make your reservations with us.
 
-All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Certificate is provided by Verisign. This ensures that your information is transmitted securely and is safe from third parties. Please read on for more information on site encryption.
+All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Certificate is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties. Please read on for more information on site encryption.
 
 ### SITE ENCRYPTION
 
@@ -41,7 +41,7 @@ We are required to send your information to the travel services provider with wh
 
 ### SECURITY
 
-All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by Verisign. This ensures that your information is transmitted securely and is safe from third parties.
+All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties.
 
 You should be aware that where you link to another website from this website, that Hostelworld.com has no control over that other website. Accordingly, Hostelworld.com cannot guarantee that the controller of that web site will respect your privacy in the same manner as Hostelworld.com.
 
