@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230000439id_/http%3A//www.cooking.com/GuestAssist/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609082240id_/http%3A//www.cooking.com/GuestAssist/privacy.asp) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -19,10 +19,10 @@ Cooking.com respects your privacy. Our Internet site is meant to be a service to
 
 *  **When you enter personal information in to the Shopping Cart** , we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
 
-**a. Your First Use of the Shopping Cart at Cooking.com** \- We use the information you provide to: 
+**a. Your First Use of the Shopping Cart at any Gourmet Catalog web-based store that is powered by Cooking.com** \- We use the information you provide to: 
 
-  * **automatically place you on our e-mail list** to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed;
-  * **automatically place you on our direct mail/catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
+  * **automatically place you on the store's e-mail list** to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed;
+  * **automatically place you on the store's direct mail/catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
 
 **b. Your Subsequent Use of the Shopping Cart at Cooking.com** \- If you have purchased a product from a Cooking.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
