@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231030524id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609074221id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Our Racing Games - Horse Racing Simulation, LLC
 
@@ -12,11 +12,15 @@ We collect the following personal information when registering for our free game
 
 Our site links to our online store which uses an order form for customers to order products and services. During the ordering process we collect your name, mailing address, email address and telephone number (Contact Information) and your account or credit card information (Financial Information). Our online store will charge your credit card or account for the products and services you order. We use your name and address to ship your order if you selected the US Mail shipping option. We use your email address to send you download instructions and to inform you of program bug fixes, new product releases and new product offerings such as horse data files. We use your telephone number to contact you in the event of a problem with your order or your installation. You may opt-out of future contract from us; see the choice/opt-out section below.
 
-Occasionally we run online surveys, contests or promotions for additional products and services that we sell. You will be periodically contacted with these opportunities. If you wish to no longer receive these particular mailings from us, you have the option to opt out of general solicitation emails while still receiving general game communications. Of course, at any time, a player can opt out of all communications by simply clicking on the Unsubscribe link at the bottom of each email communication we send.
+Occasionally we run online surveys, contests or promotions for additional products and services that we sell for ourselves or for third parties. You will be periodically contacted with these opportunities. If you wish to no longer receive these particular mailings from us, you have the option to opt out of general solicitation emails while still receiving general game communications. Of course, at any time, a player can opt out of all communications by simply clicking on the Unsubscribe link at the bottom of each email communication we send.
 
 Finally, unregistered users may request our Demonstration Version via email. In this case we only collect the email address of the requestor. Requestors may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 Our site contains links to other sites. [www.horseracegame.com](http://www.horseracegame.com/) is not responsible for the privacy practices or the content of such Web sites.
+
+Policy Changes
+
+[HorseRaceGame](http://www.horseracegame.com/) has the right to modify its privacy policy from time to time as long as those modifications do not include the direct disclosure of our customer’s personal information we have collected to any unrelated third party.
 
 Security
 
