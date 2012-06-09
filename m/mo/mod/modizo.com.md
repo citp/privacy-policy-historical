@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modizo.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123173444id_/http%3A//www.modizo.com/en-US/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modizo.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609095205id_/http%3A//www.modizo.com/en-US/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
