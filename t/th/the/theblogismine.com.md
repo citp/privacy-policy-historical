@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblogismine.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211003040id_/http%3A//www.theblogismine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogismine.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609235719id_/http%3A//www.theblogismine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheBlogIsMine.com
 
@@ -37,24 +37,21 @@ will never be disclosed to them.
 
 ## Who else has access to my personal information?
 
-The ads appearing on TheBlogIsMine’s website are delivered to you by DoubleClick,  Technorati Media, or Lotame, our Web advertising serving partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
+The ads appearing on TheBlogIsMine’s website are delivered to you by Google DoubleClick,  Technorati Media, CPX Interactive, Microsoft Advertising or Mad Ads Media, our Web advertising serving partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
 
-And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to “opt-out”, please go to <http://www.doubleclick.net/us/corporate/privacy>.
+Google, as a third party vendor, uses cookies to serve ads on TheBlogIsMine’s website. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our website and other websites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network privacy policy](http://www.google.com/privacy_ads.html).
 
 We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website.
 
 Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is  collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
 
-  * Technorati Media’s privacy policy  
-at <http://www.technoratimedia.com/technorati_media/privacy-policy.html>
-  * Feedburner’s privacy policy at [ ](http://www.feedburner.com/fb/a/privacy)
-
-<http://www.feedburner.com/fb/a/privacy>
-
-  * Google’s privacy policy  
-at <http://www.google.com/privacy.html>
+  * Technorati Media’s privacy policy at <http://www.technoratimedia.com/technorati_media/privacy-policy.html>
+  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
+  * Google’s privacy policy at <http://www.google.com/privacy.html>
 
 
+
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that TheBlogIsMine does not employ or manage are not covered by this Privacy Policy.
 
