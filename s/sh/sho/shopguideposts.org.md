@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopguideposts.org privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924054207id_/http%3A//www.shopguideposts.org/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopguideposts.org privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610013703id_/http%3A//www.shopguideposts.org/privacy-policy) for the most accurate reproduction.*
 
 # Guideposts Privacy Policy
 
