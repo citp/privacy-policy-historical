@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606163022id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609044530id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
 
 # Vopium Privacy Policy
 
@@ -139,5 +139,4 @@ R.C.S. Luxembourg B 141.459
 VAT No. LU22791878  
 Email: [support@vopium.com](mailto:%20support@vopium.com)
 
-Last revised: September 8th 2010   
-
+Last revised: September 8th 2010 
