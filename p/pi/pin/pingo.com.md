@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119225150id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610010816id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is very important to us at Pingo. Pingo is committed to respecting your privacy and the confidentiality of your Personal Information and the content of your communications. This Privacy Statement is meant to assist You and Visitors in understanding how We use and safeguard the information that We collect from the Website and in providing our services to You. To protect your privacy, the Personal Information that Pingo collects from You is used in the manner and for the purposes described in this Privacy Statement.
 
-Please read this Privacy Statement carefully. This document governs Pingo's collection, use and disclosure of your Personal Information as well as Non-Personally Identifiable Information. **You will not be able to register with Pingo or sign up for Our services until You read and consent to the practices set forth in this document by checking the box at the end of this Privacy Statement.** By accepting this Privacy Policy, registering with Pingo, or using Pingo's services, You also will be deemed to have read and accepted Pingo's [Terms and Conditions](https://web.archive.org/en/terms.do).
+Please read this Privacy Statement carefully. This document governs Pingo's collection, use and disclosure of your Personal Information as well as Non-Personally Identifiable Information. **You will not be able to register with Pingo or sign up for Our services until You read and consent to the practices set forth in this document by checking the box at the end of this Privacy Statement.** By accepting this Privacy Policy, registering with Pingo, or using Pingo's services, You also will be deemed to have read and accepted Pingo's [Terms and Conditions](https://web.archive.org/en/terms.do)
 
 **_Definitions_**
 
@@ -54,6 +54,9 @@ Pingo may collect and use your IP address to improve Pingo's service and adminis
 
 "Cookies" and "action tags" (action tags are also known as single pixel gifs or web beacons) are information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies and action tags do not personally identify users, although they do identify a user's computer. Pingo uses cookies and action tags to deliver content specific to Customers interests, maintain Customer preferences, and for other site functionality. We also have a retargeting program, which is explained below, that relies on action tags, and is directed at Visitors only, not Customers. Many Internet browsers are set up to accept cookies and action tags. If Customers or Visitors prefer, they can set their browser to refuse cookies and action tags. However, You may not be able to take full advantage of the Website if you do so. Advertisers who display ads on the Website also may use cookies and action tags to measure advertising effectiveness. Pingo does not have access to any information collected by cookies or action tags used by advertisers on the Website.
 
+Visitor Retargeting Program - We work with the following companies: ValueClick, Google, Media6 and Fetchback to display retargeted ads to Visitors on our behalf, across the Internet, using action tags. These action tags, an industry standard technology, collect Non-Personally Identifiable Information about Visitors' visits to the Website and enable Fetchback, ValueClick, Media6, and Google to deliver targeted advertisements on other Internet sites. If Visitors do not want Fetchback, Media6, ValueClick or Google to collect this information to deliver targeted advertisements, Visitors may opt out of their services by clicking on the following links: 
+
+Go to the Fetchback opt out section.   
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
 [Media6: http://media6degrees.com/about/privacy-policy/](http://media6degrees.com/about/privacy-policy/)
@@ -63,6 +66,8 @@ Pingo may collect and use your IP address to improve Pingo's service and adminis
 [Google: http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)
 
 We work with a company called Ve Interactive who may retain some of Visitor's Personal Information who do not complete the Pingo customer registration process. This information is only retained after a Visitor enters the data into Pingo's registration page fields. The Personal Information retained only includes the Visitor's first and last name as well as the Visitor's corresponding email address. No financial information is retained in this practice. The purpose of retaining this limited Personal Information is to follow up via e-mail with Visitors who did not complete the registration process, offer assistance in completing the process and offer Visitor promotional deals for Pingo's services. If Visitors do not want to receive such messages, Visitors may opt out of this practice by clicking on the link provided in the follow up email sent to Visitor and complying with the appropriate opt out instructions.
+
+Pingo may use some cookies that are not able to be controlled and limited by editing the privacy control settings on your Internet browser. These cookies, sometimes referred to as ‘flash cookies’, utilize Adobe’s Flash plug-in to track users and store information for various purposes including offering targeted advertisements. To remove these cookies, users should go to Adobe’s site (click either [Global Privacy Settings](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html#118539) or [Website Privacy Settings](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html)) and follow the instructions provided.
 
 **_Protection of Your Personal Information_**
 
@@ -146,8 +151,8 @@ Pingo Customer Service
 20 Second Avenue  
 Burlington, MA 01803, USA  
 [customerservice@pingo.com](mailto:customerservice@pingo.com)  
-U.S. Toll Free: 1-888-878-8838
+U.S. Toll Free: 1-888-878-8838 
 
 **_Effective Date_**
 
-This Privacy Statement is effective as of July 29, 2011.
+This Privacy Statement is effective as of April 23, 2012.
