@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisgwent.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110758id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisgwent.co.uk privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609121238id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,6 +43,8 @@ In addition to personal information we obtain, including your name, postal and e
 #### Cookies
 
 A "cookie" is a piece of software which can stick to a computer's hard drive and recalls details about how your computer operates. We reserve the right to use this information to track your movements through our website. Personal information about you is not collected during this process. You can disable the cookies if your browser allows this. For further information on how to do this, please refer to [www.aboutcookies.org](http://www.allaboutcookies.org/). However, you might not be able to use some of our on-line services if you follow this. We have no control over any cookies sent by third party websites.
+
+[How to control and delete cookies on Newsquest websites.](https://web.archive.org/my/account/cookiespolicy/)
 
 #### Third party advertising companies
 
