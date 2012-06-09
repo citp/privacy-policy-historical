@@ -1,27 +1,29 @@
-<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2011-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207074213id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2012-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609034055id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<head prefix="og: http://ogp.me/ns# mymojostreet:http://ogp.me/ns/apps/mymojostreet#">--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mymojostreet: http://ogp.me/ns/fb/mymojostreet#">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Mojostreet | Privacy</title>
+	<meta property="og:type" content="mymojostreet:">
+	<meta property="og:url" content="http://www.mojostreet.com/">
 
-<meta name="generator" content="Mojostreet">
-<meta name="description" content="mojostreet is a location based mobile game with real world benefits.">
-<meta property="og:site_name" content="Mojostreet">
-<meta property="og:image" content="http://www.mojostreet.com/images/map_image.png">
+<meta property="fb:app_id" content="181247205243797">
+<meta name="generator" content="mojostreet">
+<meta property="og:image" content="http://www.mojostreet.com/images/mojo_map_pin.png">
 <meta property="og:title" content="The location based mobile game with real world benefits.">
 <meta property="og:description" content="mojostreet is a location based mobile game with real world benefits.">
+<meta name="description" content="mojostreet is a location based mobile game with real world benefits.">
 
-
-<link href="http://www.mojostreet.com/css/global.css?1323243732" rel="stylesheet" type="text/css">
-<link href="http://www.mojostreet.com/css/design.css?1323243732" rel="stylesheet" type="text/css">
+<link href="http://www.mojostreet.com/css/global.css?1339213254" rel="stylesheet" type="text/css">
+<link href="http://www.mojostreet.com/css/design.css?1339213254" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 var sitePageType = 'privacy';
+var signupPagetype = '';
 </script>
 
 <script type="text/javascript" src="http://www.mojostreet.com/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.mojostreet.com/js/common.js?1231323243732"></script>
+<script type="text/javascript" src="http://www.mojostreet.com/js/common.js?1231339213254"></script>
 <link rel="icon" type="image/png" href="http://www.mojostreet.com/images/favico.png">
 <!--Google Analytics-->
 <script type="text/javascript">
@@ -108,15 +110,16 @@ var sitePageType = 'privacy';
   <!--End privacyHold-->
   </div> </div> 
  <div class="clearB"></div>
- <div class="Footer clearB"><a href="http://www.mojostreet.com/aboutus">About us</a> <a href="http://www.mojostreet.com/terms">Terms and Conditions</a> <a href="http://www.mojostreet.com/privacy">Privacy Policy</a> <a href="http://getsatisfaction.com/mojostreet" target="_blank">Help</a> <a href="http://www.mojostreet.com/download/application">Download</a> <a href="http://www.mojostreet.com/faqs">FAQs</a> <a href="http://www.mojostreet.com/mediacoverage">Media Coverage</a> <a href="http://blog.mojostreet.com/" target="_blank">Blog</a><span>© mojostreet.com</span> </div>
+ <div class="Footer clearB"><a href="http://www.mojostreet.com/aboutus">About us</a> <a href="http://www.mojostreet.com/mediacoverage" style="color:#a204ac">Media Coverage</a> <a href="http://www.mojostreet.com/download/application">Download</a> <a href="http://blog.mojostreet.com/" target="_blank" style="color:#a204ac">Blog</a> <a href="http://www.mojostreet.com/faqs">FAQs</a> <a href="http://www.mojostreet.com/terms">Terms and Conditions</a>  <a href="http://www.mojostreet.com/privacy">Privacy Policy</a> <a href="http://getsatisfaction.com/mojostreet" target="_blank">Help</a> <span>© mojostreet.com</span> </div>
 
 <div id="fb-root"></div>
 <script>
+var fbScope = 'publish_stream,email,user_birthday'; //publish_actions
 $(document).ready(function() {
 	window.fbAsyncInit = function() 
 	{
 		FB.init({ appId: '181247205243797',status: true,cookie: true,xfbml: true,oauth: true});
-			
+
 		var clicked = 0;
 		var clicked1 = 0;
 		var linkupPage = 0;
@@ -128,39 +131,40 @@ $(document).ready(function() {
 		var askForLogin = 0;
 		//var myProfilePage = 0;
 		var asyncFbId;
-			
-		//for popu up in header
+		var invitesFBFriends = 0;
+
+				//for popu up in header
 		$('#fb-auth').click(function(){	
 			clicked = 1;			
 			FB.getLoginStatus(updateButton);
 		}); 
-		
 		// for any page 
 		$('#fb-auth1').click(function(){	
 			clicked1 = 1;			
-			FB.getLoginStatus(updateButton1);
+			FB.getLoginStatus(updateButton1); //updateButton1
 		}); 
 		
 		//for link up page
+
 		$('#fb_auth_linkup').click(function(){	
 			showDomain(0);
 			clicked = 1;
 			linkupPage = 1			
 			FB.getLoginStatus(updateButton);
 		}); 
-		
 		$('#fbInvitesBtn').click(function(){	
 			getFbInvites();
 		});
-		
+		$('#fbInvitesBtntest').click(function(){	
+			getFbInvitestest();
+		});
+
 		function getFbFriends()
 		{
 			clicked = 1;
 			friendsPage = 1;	
-			
 			$('#fbfriends_list').hide();
 			$('#fbTitleId').hide();
-				
 			FB.getLoginStatus(updateButton);
 			pageType = 'reg';		
 		}
@@ -168,29 +172,28 @@ $(document).ready(function() {
 		{
 			clicked = 1;
 			profilePage = 1;	
-			
+
 			$('#noFacebookId').hide();
 			$('#fbfriends_list').hide();
 			$('#fbTitleId').hide();
-				
+
 			FB.getLoginStatus(updateButton);
 		}
 		function getFbInvites()
 		{
 			clicked = 1;
 			invitesPage = 1;
-			
+
 			$('#domainDiv').html('');	
 			$('#domainDiv').hide();	
-			
+
 			FB.getLoginStatus(updateButton);
-			
-		}
+		}		
+		
 		/*function setMyProfileFbId()
 		{
 			clicked = 1;
 			myProfilePage = 1;
-			
 			FB.getLoginStatus(updateButton);
 		}*/
 		function showFbInvites()
@@ -207,6 +210,7 @@ $(document).ready(function() {
 			);			
 		}
 		/************ this function is for http://www.mojostreet.com/registration ********************/
+		
 		function updateButton1(aResponse1) 
 		{
 			if(clicked1 == 1)
@@ -215,21 +219,21 @@ $(document).ready(function() {
 				{
 					clicked1 = 0; 				
 					aResoponseObj1 = aResponse1.authResponse;								
-					
 					FB.api('/me', function(response1) 
 					{
 						asyncFbId1 = response1.id;
-						
-						$.post( BASEURL + "registration/facebook/", {name: response1.name, email: response1.email,  fbId: asyncFbId1, access_token: aResoponseObj1.accessToken}, function(data) 
+
+						$.post( BASEURL + "registration/facebook/", {name: response1.name, email: response1.email,  fbId: asyncFbId1, access_token: aResoponseObj1.accessToken, dob:response1.birthday, gender:response1.gender}, function(data) 
 						{					
 							if( data == 1)							
 								window.location.href= BASEURL +'registration/register/';
 							else if(data == 2)
-								window.location.href= BASEURL +'profile';
+							{
+															window.location.href= BASEURL +'profile';
+															}
 													
 							ajax_on = 0;
 						});
-						
 						return false;				
 					});
 				}
@@ -239,15 +243,14 @@ $(document).ready(function() {
 					//fbButton.onclick = function() 
 					//{							
 						FB.login(function(response1) 
-						{
-							if (response1.session) 
-							{
-							}
-						}, {scope:'publish_stream,offline_access,email'});
+						{							
+						}, {scope:fbScope});
 					//}
 				}
 			}
 		}
+		
+		
 		function updateButton(aResponse) 
 		{
 			if(clicked == 1)
@@ -256,7 +259,6 @@ $(document).ready(function() {
 				{
 					clicked = 0; 				
 					aResoponseObj = aResponse.authResponse;								
-					
 					FB.api('/me', function(response) 
 					{
 						asyncFbId = response.id;
@@ -267,6 +269,7 @@ $(document).ready(function() {
 						}
 						else*/ if(invitesPage == 1 || defaultFacebookInvites == 1)
 						{
+
 							if(askForLogin == 1)
 							{
 								window.location.href = 'http://www.mojostreet.com/linkup/facebook/0/invites';
@@ -278,18 +281,19 @@ $(document).ready(function() {
 								$('#other_emails').hide();
 								$('#facebookErrorDiv').html('');  
 								$('#facebookErrorDiv').hide();		
-								
+
 								$.post( BASEURL+ 'ajax/invites/checkFacebook/'+response.id,  {}, function(data) 
 								{ 
 									var error = data;									
 									$('#facebookErrorDiv').hide();
-									
+
 									if(error == 0)
 									{
 										showFbInvites();
 									}
 									else if(error == 1)
 									{
+
 										if(confirm('The Facebook account connected with mojostreet is different from Facebook account you are tying to invite friends. Do you want to continue?'))
 										{
 											showFbInvites();
@@ -298,17 +302,21 @@ $(document).ready(function() {
 								});		
 							}							
 						}
+						/********************** Below code commented by priya on 7/06/2012 facepipe is using */
 						else if( (friendsPage == 1 && askForLogin == 0) || profilePage == 1)
 						{
-							$.post( BASEURL+'ajax/user/display_fb_friends/'+pageType, {fbId: response.id}, function(data) 
+							if(profilePage !=1)
 							{
-								if(data != 0)
+								$.post( BASEURL+'ajax/user/display_fb_friends/'+pageType, {fbId: response.id}, function(data) 
 								{
-									$('#fbTitleId').show();
-									$('#fbfriends_list').show();
-									$('#fbfriends_list').html( data );
-								}
-							});						
+									if(data != 0)
+									{
+										$('#fbTitleId').show();
+										$('#fbfriends_list').show();
+										$('#fbfriends_list').html( data );
+									}
+								});		
+							}
 						}					
 						else if(linkupPage == 1)
 						{
@@ -316,13 +324,15 @@ $(document).ready(function() {
 						}
 						else
 						{
-							$.post( BASEURL + "registration/facebook/", {name: response.name, email: response.email,  fbId: asyncFbId, access_token: aResoponseObj.accessToken}, function(data) 
+							$.post( BASEURL + "registration/facebook/", {name: response.name, email: response.email,  fbId: asyncFbId, access_token: aResoponseObj.accessToken, dob:response.birthday, gender:response.gender}, function(data) 
 							{					
 								if( data == 1)							
 									window.location.href= BASEURL +'registration/register/';
 								else if(data == 2)
-									window.location.href= BASEURL +'profile';
-														
+								{
+									//window.location.href= BASEURL +'profile';
+																		window.location.href= BASEURL +'profile';
+																	}
 								ajax_on = 0;
 							});
 						}
@@ -334,14 +344,11 @@ $(document).ready(function() {
 					askForLogin = 1;
 					//fbButton.onclick = function() 
 					//{	
-						if(friendsPage == 0 && profilePage == 0)	//facebook login is not required for some pages				
+						if((friendsPage == 0 && profilePage == 0) || invitesPage ==1)	//facebook login is not required for some pages				
 						{
 							FB.login(function(response) 
-							{
-								if (response.session) 
-								{
-								}
-							}, {scope:'publish_stream,offline_access,email'});
+							{								
+							}, {scope:fbScope});
 						}
 						if(profilePage == 1)
 						{
@@ -355,20 +362,69 @@ $(document).ready(function() {
 						}*/
 					//}
 				}
+			}			
+			else if(clicked1 == 1)
+			{
+				if (aResponse.authResponse) 
+				{
+					clicked1 = 0; 				
+					aResoponseObj1 = aResponse.authResponse;								
+					FB.api('/me', function(response1) 
+					{
+						asyncFbId1 = response1.id;
+
+						$.post( BASEURL + "registration/facebook/", {name: response1.name, email: response1.email,  fbId: asyncFbId1, access_token: aResoponseObj1.accessToken, dob:response1.birthday, gender:response1.gender}, function(data) 
+						{					
+							if( data == 1)							
+								window.location.href= BASEURL +'registration/register/';
+							else if(data == 2)
+							{
+								//window.location.href= BASEURL +'profile';
+																	window.location.href= BASEURL +'profile';
+																}
+													
+							ajax_on = 0;
+						});
+						return false;				
+					});
+				}
+				else 
+				{
+					askForLogin = 1;
+					//fbButton.onclick = function() 
+					//{							
+						FB.login(function(response1) 
+						{							
+						}, {scope:fbScope});
+					//}
+				}
 			}
+			
 		}	
-					
+		
 		FB.Event.subscribe('auth.statusChange', updateButton);		// run once with current status and whenever the status changes	
 			};
-	
-	(function() 
+	/*(function() 
 	{
 		var e = document.createElement('script'); e.async = true;
 		e.src = document.location.protocol 
 		+ '//connect.facebook.net/en_US/all.js';
 		document.getElementById('fb-root').appendChild(e);
-	}());
+	}());*/
+	
+	(function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js";
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+	
+	
+
 });
-</script>
+
+</script> 
+
+
 
 </body></html>
