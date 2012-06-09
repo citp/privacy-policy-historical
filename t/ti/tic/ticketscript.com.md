@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130141051id_/http%3A//company.ticketscript.com/eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketscript.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609053820id_/http%3A//company.ticketscript.com/eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - ticketscript
 
@@ -16,7 +16,7 @@ When transferring or receiving your data on our website, we always use coding te
 If you wish to discuss our privacy policy, you can contact us:  
 \- By email: info@ticketscript.com  
 \- By telephone: +31 (0)205289068  
-\- By letter: Prins Hendrikkade 187 1011 TD Amsterdam, the Netherlands
+\- By letter: Prins Hendrikkade 185 1011 TD Amsterdam, the Netherlands
 
 **About communication by email:**  
 If you do not wish to receive emails from our company in future, you can contact us at the above address.
