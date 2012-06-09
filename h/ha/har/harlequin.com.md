@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020132120id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609205209id_/http%3A//www.harlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
 
 # Harlequin.com | Privacy Policy
 
-[Click here](https://web.archive.org/web/20111020132120id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
+[Click here](https://web.archive.org/web/20120609205209id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
 
 **Effective Date: October 3, 2006**   
 **Last Updated: August 19, 2011**
