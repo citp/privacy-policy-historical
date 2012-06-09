@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kajabiapp.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208121626id_/http%3A//www.kajabiapp.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kajabiapp.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609095717id_/http%3A//www.kajabiapp.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Kajabi | Privacy Policy
 
