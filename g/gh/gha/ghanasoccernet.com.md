@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209133524id_/http%3A//www.ghanasoccernet.com%3Fpage_id%3D4839) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609133618id_/http%3A//www.ghanasoccernet.com%3Fpage_id%3D4839) for the most accurate reproduction.*
 
-# Privacy Policy | GHANAsoccernet.com - Latest Football News, Football Headlines, Live Scores, Results, Fixtures
+# Privacy Policy - GHANAsoccernet.com - Latest Football News, Football Headlines, Live Scores, Results, Fixtures | GHANAsoccernet.com brings to you the latest news on Ghana soccer, soccer, Ghana league, league Sunday, England league, league fantasy, Spain league, Italy league, France league, Nigeria league, Germany league, Egypt league, fantasy football, English football, English football league, football, world football, football news, etc.
 
 We at Ghana Sports Data Services, incorporating Ghanasoccernet website, strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.
 
