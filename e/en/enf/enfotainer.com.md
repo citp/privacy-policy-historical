@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enfotainer.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209093939id_/http%3A//www.enfotainer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enfotainer.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609083434id_/http%3A//www.enfotainer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enfotainer - Innovative Technology Blog
 
@@ -25,7 +25,5 @@ We also use third party advertisements on Enfotainer.com to support our site. So
 **Controlling Your Privacy**
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
-
-Share This With Your Friends!
 
 Comments are closed.
