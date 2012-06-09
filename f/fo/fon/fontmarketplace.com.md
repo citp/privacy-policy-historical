@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontmarketplace.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005011id_/http%3A//monotypeimaging.com/contact/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontmarketplace.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609042946id_/http%3A//monotypeimaging.com/contact/privacy.aspx) for the most accurate reproduction.*
 
 # Monotype Imaging: Privacy Policy
 
