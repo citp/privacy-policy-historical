@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027173149id_/http%3A//www.americanbar.org/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609050926id_/http%3A//www.americanbar.org/content/aba/utility/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
