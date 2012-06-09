@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214054034id_/http%3A//www.fastweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609074333id_/http%3A//www.fastweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fastweb
 
@@ -28,10 +28,6 @@ _Passive Collection of Information_ \--In addition to the information which you 
 
 _Collection of Information from Children_ \--Fastweb abides by federal law and the guidelines set up by the Federal Trade Commission regarding youth privacy. As such, Fastweb will not knowingly collect any personal information from or allow the registration of young people under the age of 13. 
 
-_Tell-A-Friend/Tell-A-Parent Programs_ \--You can choose to let a friend or your parents know about Fastweb through our Tell-A-Friend and Tell-A-Parent referral services. If you choose to use the Tell-A-Friend service, we will ask you for your friend's name and e-mail address and Fastweb will send your friend a one-time e-mail inviting him or her to visit Fastweb to learn more about our services. Fastweb stores your friend's contact information for the sole purpose of sending the e-mail. If you choose to use the Tell-A-Parent service, we will ask you for your parents' e-mail address and your parents will receive a one-time newsletter containing information which may be of interest to them. Your parents' contact information is used for the sole purpose of sending the newsletter unless they choose to opt-in to our service. Opt-out information will be included in the newsletter, so your parents may elect to stop receiving the newsletter at any time. 
-
-If you choose to use our email a friend feature to share an article we will ask for your friend’s name and e-mail address inviting him or her to read the suggested article. Fastweb stores your friends contact information for the sole purpose of sending the e-mail.
-
 _Use of Cookies_ \--Fastweb uses "cookies" to help maximize your online experience and enhance your safety online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
 
 Fastweb uses both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
@@ -48,7 +44,7 @@ You may not decline web beacons, however, they can be rendered ineffective by de
 
 **2\. USE OF INFORMATION**
 
-The information which you supply to Fastweb enables us to provide the scholarship, college and job search and matching services which you select by matching your background to our database of scholarship, college and job listings. In addition, Fastweb uses your information in order to customize our site to your interests and enhance your overall experience at our site. Fastweb tries to recognize you using various methods, including having you log in with your e-mail address and your password. Once Fastweb recognizes you, pages, advertisements and other content is customized for you so that you can see what interests you the most. In addition, as described above, Fastweb utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user. 
+The information which you supply to Fastweb enables us to provide the scholarship, college and job search and matching services which you select by matching your background to our database of scholarship, college and job listings. We use data about you and your use of our services to display customized advertising, both on our site and on other sites with which we have a business relationship. In addition, Fastweb uses your information in order to customize our site to your interests and enhance your overall experience at our site. Fastweb tries to recognize you using various methods, including having you log in with your e-mail address and your password. Once Fastweb recognizes you, pages, advertisements and other content is customized for you so that you can see what interests you the most. In addition, as described above, Fastweb utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners in order to serve customized advertisements to you on our Sites or sites with which we have a business relationship. This aggregate passive information does not contain any personal information which can identify any individual user. 
 
 _Contacting You by E-Mail_ \--Fastweb may use your contact information periodically in order to send you e-mail regarding updates at the Fastweb site, such as new Fastweb opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your profile, including the types of scholarships and other activities you have indicated an interest in. In addition, we may send you free informational newsletters or notices relating to topics which may be of special interest to you, including financial aid, admissions tips, job opportunities and job advice. Finally, if you specifically provide Fastweb with permission at the time of registration, you may also receive commercial e-mails. Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by Fastweb, as described below in section 4, “Opt out information.” E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged to include opt-out procedures in their messages to you. 
 
@@ -65,6 +61,8 @@ _Disclosure to Law Enforcement and Similar Disclosures_ \--While Fastweb strives
 **4\. MODIFICATION OF PRIVACY PREFERENCES AND OPT OUTS**
 
 Fastweb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from Fastweb by clicking [here](http://www.fastweb.com/account/edit_account). Fastweb will only communicate with you according to your instructions. In order to opt out of third-party communications, you will need to contact the third parties directly and follow its opt out process. If you have any questions relating to opting out, please contact us at info@Fastweb.com, and we will try to answer your questions. 
+
+Fastweb has a relationship with additional third parties in connection with serving customized ads to you, both on our sites and on other sites with which we have a business relationship. Please [click here](http://www.fastweb.com/content/ad-network) to see a list of the third parties Fastweb works with and to exercise your opt out. Many of these third parties are participating members of the [Network Advertising Initiative (NAI)](http://networkadvertising.org/). For those third parties that are NAI members, you can exercise your opt-out on the [NAI site](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **5\. SECURITY**
 
@@ -100,7 +98,7 @@ Alternatively, you may contact us at:
 
 Privacy at Fastweb   
 Fastweb, LLC   
-444 North Michigan Avenue, Suite 3000   
+444 North Michigan Avenue, Suite 600   
 Chicago, Illinois 60611   
 Fax: 312-467-0638   
-Update effective October 2, 2008. 
+Update effective April 21, 2011. 
