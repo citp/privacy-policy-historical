@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008090155id_/http%3A//www.thestage.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609165241id_/http%3A//www.thestage.co.uk/about/privacy) for the most accurate reproduction.*
 
 # The Stage / About / Privacy policy
 
-In this Privacy Policy, "we", "us", "our" or "The" means The Stage Newspaper Limited ("The Stage").
+In this Privacy Policy, "we", "us", "our" or "The" means The Stage Media Company Limited ("The Stage").
 
 We take the protection of the privacy of persons visiting the www.thestage.co.uk website ("Website") seriously. This Privacy Policy explains what information we will collect about you, how we will use that information and the steps that we will take to ensure that it is kept secure. By using the Website you consent to us collecting and using information about you in accordance with this Privacy Policy.
 
@@ -23,7 +23,7 @@ Where you seek to subscribe to The Stage's newspaper, we may ask you to supply u
 We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence: **We will not share your information with others without your prior consent.** We have also established the following four guiding principles:
 
   1. We will continue to invest in high-quality security and do our utmost to protect user privacy through the appropriate use of the latest security technology.
-  2. We will respect your email privacy. You will not receive unsolicited mail from The Stage and/or from third parties screened by The Stage Newspaper Limited unless you have agreed to this. We will, however, mail you occasionally with information about your registration and/or your subscription account.
+  2. We will respect your email privacy. You will not receive unsolicited mail from The Stage and/or from third parties screened by The Stage Media Company Limited unless you have agreed to this. We will, however, mail you occasionally with information about your registration and/or your subscription account.
   3. We will not pass on any individual user details (including your email address) unless we have your prior consent.
   4. Otherwise, we will only share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers.
 
@@ -36,6 +36,8 @@ You have the right to request a copy of information about you that we hold, and 
 ## What information do we collect?
 
 We collect information on our users in two ways: through cookies, and through registration.
+
+[**Read our separate cookie policy →**](https://web.archive.org/about/cookies)
 
 The minimum information we need to register a user is an email address, a password and a country. UK and US users will also need to provide a postcode/zipcode. We will ask further questions for different services, including competitions. Unless stated, all registration questions are compulsory. We also ask some further, voluntary questions so we can gain a clearer understanding of our users. Your responses help us to personalise services for our users. We do not share this information with third parties unless you have specifically consented to this
 
@@ -55,7 +57,7 @@ Please note that we reserve the right to access and disclose individually identi
 
 ## Legal information under the Data Protection Act
 
-For the purposes of the Data Protection Act of 1998, the Data Controller for thestage.co.uk is The Stage Newspaper Limited, Stage House, 47 Bermondsey Street, London SE1 3XT. Any queries regarding TSNL's use of data and data policies should be addressed to [webmaster@thestage.co.uk](mailto:webmaster@thestage.co.uk) or write to the Managing Director at the above address.
+For the purposes of the Data Protection Act of 1998, the Data Controller for thestage.co.uk is The Stage Media Company Limited, Stage House, 47 Bermondsey Street, London SE1 3XT. Any queries regarding TSNL's use of data and data policies should be addressed to [webmaster@thestage.co.uk](mailto:webmaster@thestage.co.uk) or write to the Managing Director at the above address.
 
 Significant data processors for thestage.co.uk include Electronic Media Audit Limited, which from time to time may process server log data hosted by thestage.co.uk to independently audit site usage for ABCe certification.
 
@@ -67,13 +69,6 @@ From time to time, other parties may provide services on our behalf, using The S
 
 
 
-In addition, pages on the Website may include content hosted on third party servers which may store additional information and/or request to store cookies within your web browser. Such usage is typically governed by the third parties' own privacy policies, which include:
+In addition, pages on the Website may include content hosted on third party servers which may store additional information and/or request to store cookies within your web browser. Such usage is typically governed by the third parties' own privacy policies.
 
-  * [Google Analytics](http://www.google.com/intl/en/privacy.html) provides us with anonymous aggregated information on usage of the Website
-  * [Google AdSense](http://www.google.com/intl/en/privacy.html) provides text and graphical advertising services on Website pages
-  * [Advertising.com](http://uk.advertising.com/privacy/index.php) provides graphical advertising services on Website pages
-  * [Amazon.co.uk](http://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&nodeId=502584) provides advertising of related books and other goods on Website pages
-
-
-
-This privacy policy was last reviewed on February 29th 2008 and is reviewed on a regular basis. If you have any questions or comments, please [contact us](https://web.archive.org/contact/).
+More information on this topic can be found within our [separate cookies policy.](https://web.archive.org/about/cookies/)
