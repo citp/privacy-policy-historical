@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalinterest.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007122501id_/http%3A//nationalinterest.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalinterest.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609154027id_/http%3A//nationalinterest.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The National Interest
 
