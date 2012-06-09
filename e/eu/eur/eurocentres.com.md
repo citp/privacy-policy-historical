@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the eurocentres.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201050149id_/http%3A//www.eurocentres.com/en/node/1085) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocentres.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609071041id_/http%3A//www.eurocentres.com/en/node/1085) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Eurocentres
 
-**What information do we collect?**  
+Eurocentres has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info [at] eurocentres [dot] com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+ **What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
