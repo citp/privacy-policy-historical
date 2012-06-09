@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legallyindia.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074224id_/http%3A//www.legallyindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legallyindia.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609185358id_/http%3A//www.legallyindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Legally India
 
@@ -11,7 +11,6 @@ We are committed to protecting your privacy and we will do what we reasonably ca
   3. Any comments submitted to the Website or posts made via our forums are readable by the public so please think before you post under your real name.
   4. If you prefer writing a comment on a story anonymously, please log out of your account and comment as an unregistered guest.
   5. We reserve the right to personally contact you via the email address you provide at any time, including but not limited to when commenting, posting in forums, getting in touch over the contact forms on our page. However, we will at all times keep your identity and email address confidential, subject to this privacy policy and the terms and conditions.
-
   6. In order to improve our website we may collect, store and use your personal data, such as:   
 (i) information about your computer, your IP address and your use of this website;   
 (ii) the information that you provided when you registered with us and/or our newsletters; and  
@@ -25,4 +24,5 @@ We are committed to protecting your privacy and we will do what we reasonably ca
   13. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
   14. We can change this privacy policy at any time but we will always notify you or give you the option of opting out if the new policy results in a fundamentally different use of the information from its use under the current policy.
 
-
+[Amarchand goes on lateral partner hunt, promotes one (next post) →](http://www.legallyindia.com/2009051617/Job-moves/amarchand-on-partner-hiring-spree-promotes-one "Amarchand goes on lateral partner hunt, promotes one")  
+---
