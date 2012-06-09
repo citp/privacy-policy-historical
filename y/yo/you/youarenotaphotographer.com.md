@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the youarenotaphotographer.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211024040id_/http%3A//youarenotaphotographer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youarenotaphotographer.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609121055id_/http%3A//youarenotaphotographer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | You Are Not a Photographer
+# Privacy Policy « You Are Not a Photographer | Exposing fauxtographers since 2011
 
-### [Privacy Policy](http://youarenotaphotog.tumblr.com/privacy)
+## Privacy Policy
+
+### Privacy Policy
 
 ****Privacy Policy for  [www.youarenotaphotographer.com](http://www.youarenotaphotographer.com/)****
 
