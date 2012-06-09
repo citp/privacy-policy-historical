@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526234732id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609234753id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
 
 # HBC Inc Privacy Policy, Copyright Notice and Liability Disclaimer
 
