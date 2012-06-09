@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the znetindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121338id_/http%3A//www.znetindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the znetindia.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609080722id_/http%3A//www.znetlive.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ZNetIndia.com
+# Privacy Policy | ZNetLive
 
 This privacy statement describes how ZNet Technologies Pvt Ltd collects and uses the personal information you provide on our Web site: <http://www.znetindia.com/>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-ZNet Technologies Pvt Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [abuse@znetindia.com](mailto:abuse@znetindia.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. ****
+ZNet Technologies Pvt Ltd has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at abuse@znetindia.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 **Collection and Use of Personal Information**  
 We collect the following personal information from you
@@ -26,7 +26,7 @@ We use this information to
 
 
 **Choice/Opt-Out**   
-You may choose to stop receiving our emails by logging into your account and updating your notification selections or you can contact us at [info@znetindia.com](mailto:info@znetindia.com)  
+You may choose to stop receiving our emails by logging into your account and updating your notification selections or you can contact us at info@znetindia.com  
 We enable you to create an account, and share information such as messages, offers, & requests with others.
 
 **Information Obtained from Third Parties**   
@@ -46,8 +46,6 @@ We may also disclose your personal information
 
 
 
-### **Cookies and Other Tracking Technologies**
-
 _**Cookies**_  
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
@@ -56,7 +54,7 @@ We use both session ID cookies and persistent cookies. We use persistent cookie 
 we use persistent cookie to store user id and session cookie to store different master ids.
 
 _**Tracking Technologies &Third Party Cookies**_  
-The use of cookies by our partners, affiliates, tracking utility company, service providers  are not covered by our privacy statement.  We do not have access or control over these cookies.  Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+The use of cookies by our partners, affiliates, tracking utility company, service providers are not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
 
 We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by ZNet Technologies Pvt Ltd only and does not cover the use of cookies by any third-party.
 
@@ -82,7 +80,7 @@ Our Web site offers publicly accessible blogs & community forums. You should be 
 
 You can link to our site using social networking services such as Facebook & Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information, name and email address to link between the sites. Services like Facebook & Twitter give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-With your consent we may post your testimonial along with your name.  If you want your testimonial removed please contact us at [info@znetindia.com](mailto:info@znetindia.com)
+With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at [info@znetindia.com](mailto:info@znetindia.com)
 
 **Correcting and Updating Your Personal Information**  
 To review and update your personal information to ensure it is accurate, you may login to your account or contact us directly at [info@znetindia.com](mailto:info@znetindia.com)
