@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211044409id_/http%3A//www.upstate.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609222314id_/http%3A//upstate.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SUNY Upstate Medical University
 
