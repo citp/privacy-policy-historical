@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the classifiedadsunlimited.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005938id_/http%3A//classifiedadsunlimited.com/index.cgi%3Fsession_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedadsunlimited.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609050651id_/http%3A//classifiedadsunlimited.com/index.cgi%3Fsession_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
-# Free Classified Ads Unlimited Privacy Statement
+# Free Classified Ads Privacy Statement
 
   
 
 
 ## Classified Ads Unlimited Privacy Policy Statement
 
-Classified Ads Unlimited is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the Free Classified Ads Unlimited. This policy may change from time to time so please check back periodically. 
+Classified Ads Unlimited is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the Free Classified Ads. This policy may change from time to time so please check back periodically. 
 
 This policy will let you know: 
 
@@ -28,11 +28,11 @@ This policy will let you know:
 
 **What personally identifiable information is collected from you**
 
-The Free Classified Ads Unlimited collects information in several ways from different parts of our web site. 
+The Free Classified Ads collects information in several ways from different parts of our web site. 
 
-Some personal information is gathered when you register. During registration, we ask for your name and email address. The system will also ask for your street address, city, state/province, zip/postal code, country, telephone number, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to Classified Ads Unlimited - you have a username and are able to take full advantage of the many offerings of the Free Classified Ads Unlimited. 
+Some personal information is gathered when you register. During registration, we ask for your name and email address. The system will also ask for your street address, city, state/province, zip/postal code, country, telephone number, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to Classified Ads Unlimited - you have a username and are able to take full advantage of the many offerings of the Free Classified Ads. 
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you place ads or take advantage of the other features of the Free Classified Ads Unlimited. If you contact us, we may keep a record of that correspondence. Every page within the Free Classified Ads Unlimited includes a link to this Privacy Policy. 
+In addition to registration we may ask you for personal information at other times, including (but not limited to) when you place ads or take advantage of the other features of the Free Classified Ads. If you contact us, we may keep a record of that correspondence. Every page within the Free Classified Ads includes a link to this Privacy Policy. 
 
 Back to Top
 
@@ -40,13 +40,13 @@ Back to Top
 
 **What cookies are and how they are used**
 
-As part of offering and providing customizable and personalized services, the Free Classified Ads Unlimited may use [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Certain features of the Free Classified Ads Unlimited require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.) 
+As part of offering and providing customizable and personalized services, the Free Classified Ads may use [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Certain features of the Free Classified Ads require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.) 
 
 Generally, we use cookies for the following purposes: 
 
-Advertising networks that serve ads onto the Free Classified Ads Unlimited may use their own cookies. 
+Advertising networks that serve ads onto the Free Classified Ads may use their own cookies. 
 
-The Free Classified Ads Unlimited may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers. 
+The Free Classified Ads may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers. 
 
 Back to Top
 
@@ -54,7 +54,7 @@ Back to Top
 
 **How your information is used**
 
-The primary goal of the Free Classified Ads Unlimited in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the classifieds. 
+The primary goal of the Free Classified Ads in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the classifieds. 
 
 Back to Top
 
@@ -62,7 +62,7 @@ Back to Top
 
 **Who is collecting your information**
 
-When you are asked for personal information on the Free Classified Ads Unlimited, you are sharing that information with the Free Classified Ads Unlimited alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the Free Classified Ads Unlimited. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. 
+When you are asked for personal information on the Free Classified Ads, you are sharing that information with the Free Classified Ads alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the Free Classified Ads. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. 
 
 Back to Top
 
@@ -80,9 +80,9 @@ Back to Top
 
 **What choices are available to you regarding collection, use, and distribution of your information**
 
-If you choose not to register or provide personal information, you can still use most of the Free Classified Ads Unlimited, but you will not be able to access areas or use features that require registration. 
+If you choose not to register or provide personal information, you can still use most of the Free Classified Ads, but you will not be able to access areas or use features that require registration. 
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the Free Classified Ads Unlimited that require registration in order to participate. You can still use most of the features of the Free Classified Ads Unlimited even if you do not accept cookies. 
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the Free Classified Ads that require registration in order to participate. You can still use most of the features of the Free Classified Ads even if you do not accept cookies. 
 
 Classified Ads Unlimited does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
 
@@ -92,11 +92,11 @@ Back to Top
 
 **How you can access, update or delete your information**
 
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the Free Classified Ads Unlimited, your information will stay with you. 
+We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the Free Classified Ads, your information will stay with you. 
 
 If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our "Forgot Password" feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means. 
 
-Your Free Classified Ads Unlimited account can be deleted, but doing so will result in not being able to access any of the features of the program that require user registration. 
+Your Free Classified Ads account can be deleted, but doing so will result in not being able to access any of the features of the program that require user registration. 
 
 Back to Top
 
@@ -104,7 +104,7 @@ Back to Top
 
 **The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
 
-Other than the administrator of the Free Classified Ads Unlimited or other authorized personnel of Classified Ads Unlimited, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access. 
+Other than the administrator of the Free Classified Ads or other authorized personnel of Classified Ads Unlimited, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access. 
 
 We recommend that you do not divulge your password to anyone. Classified Ads Unlimited will never ask you for your password in an unsolicited phone call or in an unsolicited email. 
 
