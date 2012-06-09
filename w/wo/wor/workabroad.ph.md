@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workabroad.ph privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019063456id_/http%3A//www.workabroad.ph/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workabroad.ph privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609223438id_/http%3A//www.workabroad.ph/privacy_policy.php) for the most accurate reproduction.*
 
-# Work Abroad - Privacy Policy
+# Privacy Policy - Work Abroad
 
 **WORKABROAD.PH** has created this privacy policy to ensure all users of the site's dedication to their privacy. **WORKABROAD.PH** collects and uses personal information submitted by registered jobseekers to assist them in finding the right job abroad by making the said information available to registered agencies licensed by the POEA. 
 
