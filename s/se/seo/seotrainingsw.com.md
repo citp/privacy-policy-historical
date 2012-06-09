@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109100022id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrainingsw.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609104703id_/http%3A//www.seotrainingsw.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Training Workshops | Search Engine Academy SW
 
@@ -125,3 +125,5 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 CONTACT INFORMATION
 
 roy @ SEOtrainingSW.com
+
+Rating: 0.0/ **10** (0 votes cast)
