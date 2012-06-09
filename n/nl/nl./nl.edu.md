@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210123956id_/http%3A//www.nl.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nl.edu privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609045454id_/http%3A//www.nl.edu/privacy) for the most accurate reproduction.*
 
 # National Louis University
 
@@ -28,4 +28,4 @@ By visiting and using the National Louis University web site you agree and conse
 
 ### Additional Information and Questions
 
-At any point during your visit with us, if you have any questions concerning your privacy, please feel free to contact the [NLU webmaster](https://web.archive.org/web/20111210123956id_/http://www.nl.edu/privacy/webmaster@nl.edu).
+At any point during your visit with us, if you have any questions concerning your privacy, please feel free to contact the [NLU webmaster](https://web.archive.org/web/20120609045454id_/http://www.nl.edu/privacy/webmaster@nl.edu).
