@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuster.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009010424id_/http%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuster.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609130017id_/http%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Simon & Schuster
 
