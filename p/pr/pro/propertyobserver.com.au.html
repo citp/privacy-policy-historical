@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the propertyobserver.com.au privacy policy that was archived on 2011-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207163614id_/http%3A//www.propertyobserver.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propertyobserver.com.au privacy policy that was archived on 2012-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609203308id_/http%3A//www.propertyobserver.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en-gb" lang="en-gb"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <meta name="msvalidate.01" content="448785E26DB8038FA65F90A76AD70317">
   <base href="http://www.propertyobserver.com.au/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="Property investment,">
+  <meta name="keywords" content="Property investment">
   
   <meta name="author" content="Amelie Mills">
   <meta name="description" content="Property investment news, analysis and commentary from Property Observer">
@@ -16,7 +16,6 @@
   <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <link rel="stylesheet" href="http://www.propertyobserver.com.au/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
   <link rel="stylesheet" href="/components/com_rsform/assets/css/front.css" type="text/css">
-  <link rel="stylesheet" href="http://www.propertyobserver.com.au/components/com_acesearch/assets/css/acesearch.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_icetabs/themes/default-white/assets/style.css" type="text/css">
   <link rel="stylesheet" href="/plugins/content/yoo_gallery/gallery.css.php" type="text/css">
   <link rel="stylesheet" href="/plugins/content/yoo_gallery/lib/mootools_old/slideshow/slideshow.css" type="text/css">
@@ -26,14 +25,17 @@
 
  .aidanews {}
  .aidanews a {text-decoration: none !important; }<!-- AiDaNews CSS END 
+ AiDaNews CSS -->
+
+ .aidanews {}
+ .aidanews a {text-decoration: none !important; }<!-- AiDaNews CSS END 
     -->
   </style>
-  <script type="text/javascript" async="" src="https://au-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4194.js?438998" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://au-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/system/flexiaccess/flexiaccess.js"></script>
   <script type="text/javascript" src="/media/system/js/modal.js"></script>
   <script type="text/javascript" src="/components/com_rsform/assets/js/script.js"></script>
-  <script type="text/javascript" src="http://www.propertyobserver.com.au/components/com_acesearch/assets/js/autocompleter.js"></script>
   <script type="text/javascript" src="/modules/mod_icetabs/assets/script_15.js"></script>
   <script type="text/javascript" src="/plugins/content/yoo_gallery/lib/mootools_old/slideshow/slideshow_packed.js"></script>
   <script type="text/javascript">
@@ -99,61 +101,123 @@ var jc_commentForm;
 				   else var expires = "";
 				   document.cookie = name+"="+value+expires+"; path=/";
 				}
-				function checkCookie()
+				function showP()
 				{
-				   showrightpane=getCookie('showpane');
-				   if ((showrightpane==null) || (showrightpane=="")) {
-				     setCookie('showpane','no',30); //set the default cookie value here
-				   }
-				}
-				function showP() {
-					var div = new Element('div', {'id': 'popupcontainer'});
 					var mydiv = document.getElementById('jfconversion');
-					div.setHTML(mydiv.innerHTML);
+                                        mydiv_children = mydiv.getChildren();
+                                        if ((mydiv_children == null) || (mydiv_children == "")) {
+                                                return;
+                                        }
 
-					SqueezeBox.fromElement(div,{
-						size: {x: 500, y: 300},
-						overlayOpacity: 0.7,
-						handler: 'adopt',
-						iframePreload:true,
-						onOpen: function() {
-							if (window.ie6) { 
-							  window.scrollTo(0,0);
-							  var t=$('sbox-btn-close'); var g = t.getStyle('background-image');
-							  if (g!="none") {
-							    g = g.replace("url(\"","").replace("\")","");
-							    t.setStyle("filter", 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="' + g + '",sizingMethod="crop")');
-							    t.setStyle("background","none");
-									t.setStyle("cursor","pointer");
-							  }
-							}
-						},
-						onHide: function(){
-							setCookie('showpane','yes',30);
+					if (0 == 0) {	// popup in corner
+
+						// the order of operations in this block cannot be changed
+
+						_gaq.push(['_trackEvent','PopUp', 'Display', 'PO - PopUp appears']);
+
+						var closerbox = new Element('div', { id: 'sbox-btn-close' });
+						closerbox.inject(document.body);
+
+						// override the close button css coordinates and 
+						// z it to be in front of the jfconversion div
+						boxz = 10000000;
+						closerz = boxz+10;
+						closerbox.setStyles({
+							'zIndex': closerz,
+							'right': '-5px',
+							'cursor': 'pointer'
+						});
+
+						closerbox.addEvent('click', function(event){
+							mydiv.setStyles({
+								'display': 'none'
+							});
+							_gaq.push(['_trackEvent','PopUp', 'Close', 'PO - PopUp closed']);
+							setCookie('showpopup','no',30);
+						});
+
+						closerbox.inject(mydiv,'bottom');
+
+						if (0 == 0) {		// show border
+							var bstyle = "solid";
+						} else {				// no border
+							var bstyle = "none";
 						}
-					});
-				}
-				function closeV() {
-					SqueezeBox.close();
-				}
-				function doPop(){
-					v = getCookie('showpane');
-					
-					if(!((v==null) || (v == "") || (v=="yes")))
-					{
-						showP();
+
+						mydiv.setStyles({
+							'display': 'block',
+							'position': 'fixed',
+							'right': '0px',
+							'bottom': '0px',
+							'zIndex': boxz,
+							'height': '265px',
+							'width': '425px',
+							'borderStyle': bstyle,
+							'borderColor': 'black',
+							'backgroundColor': 'white'
+
+						});
+
+					} else { 				// popup in squeezebox
+
+						var div = new Element('div', {'id': 'popupcontainer'});
+						div.setHTML(mydiv.innerHTML);
+
+						SqueezeBox.fromElement(div,{
+							size: {x: 425, y: 265},
+							overlayOpacity: 0.4,
+							handler: 'adopt',
+							iframePreload:true,
+							onOpen: function() {
+								_gaq.push(['_trackEvent','PopUp', 'Display', 'PO - PopUp appears']);
+								if (window.ie6) { 
+								  window.scrollTo(0,0);
+								  var t=$('sbox-btn-close'); var g = t.getStyle('background-image');
+								  if (g!="none") {
+								    g = g.replace("url(\"","").replace("\")","");
+								    t.setStyle("filter", 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="' + g + '",sizingMethod="crop")');
+								    t.setStyle("background","none");
+										t.setStyle("cursor","pointer");
+								  }
+								}
+							},
+							onHide: function(){
+								_gaq.push(['_trackEvent','PopUp', 'Close', 'PO - PopUp closed']);
+								setCookie('showpopup','no',30);
+							}
+						});
 					}
 				}
-				checkCookie();
-							window.addEvent('domready', function() {
-								setTimeout("doPop()", 1000);							
-							
-				 });
-				 //--> 
-				 </script>
+				function closeV()
+				{
+					SqueezeBox.close();
+				}
+				function doPop()
+				{
+					if (0 == 1) {
+						showP();
+						return;
+					}
+					// showP() itself handles outputing the cookie back
+					cookiecontents = getCookie('showpopup');
+					// leave this conditional unrolled for the future
+					if((cookiecontents == null) || (cookiecontents == ""))
+					{
+						showP();
+					} else {
+						if (cookiecontents != 'no') {
+							showP();
+						}
+					}
+				}
+
+				window.addEvent('domready', function() {
+					setTimeout("doPop()", 1000);							
+				});
+				//--> 
+				</script>
   <script type="text/javascript">var YOOeffects = { url: 'http://www.propertyobserver.com.au/plugins/system/yoo_effects/lightbox/' };</script>
 <script type="text/javascript" src="http://www.propertyobserver.com.au/plugins/system/yoo_effects/yoo_effects.js.php?lb=1&amp;re=1&amp;sl=1"></script>
-  <link href="/modules/mod_yj_mor_calc/css/stylesheet.css" rel="stylesheet" type="text/css">
 
 <link href="http://www.propertyobserver.com.au/templates/property/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link rel="stylesheet" href="http://www.propertyobserver.com.au/templates/system/css/system.css" type="text/css">
@@ -179,21 +243,18 @@ var jc_commentForm;
 #ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 100%;margin: 0 auto;}
 #ja-wrapper {min-width: 100%;}
 </style>
-
  
-<script type="text/javascript">
- 
+<script type="text/javascript"> 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23522785-1']);
   _gaq.push(['_trackPageview']);
- 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
- 
 </script>
+
 </head>
 
 
@@ -212,29 +273,34 @@ var jc_commentForm;
 
 </noscript>
 <!--END EFFECTIVE MEASURE CODE -->
+
+	<div id="cw_container">
+		<div id="ad1" class="gutter left"></div>
+
 	<div id="wrapper" class="container">
+	
 	<!-- BEGIN: HEADER -->
 		<div id="headerwrap">
 			<div id="header" class="clearfix">
 
 
 										<div id="top_banner">
-									<!-- begin ad tag (tile=2) -->
+									<!-- begin ad tag (tile=1) -->
 		<script language="JavaScript" type="text/javascript">
-		if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;} document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;sz=728x90;ord=2063814036556450.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+			if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;} document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=1;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=1;sz=728x90;ord=8118392924150826?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=1;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
 		<!-- End ad tag -->
-
-	
+		
+		
 						</div>						
 						<div id="header_under_banner">
 												
 				<div id="leftear">
 					 					
 								<div class="moduletable">
-					<p><a target="_self" href="/international/playboy-gunter-sachs-former-new-york-home-on-the-market/2011120652708"><img src="/images/stories/gunterear.png"></a></p>
-<h4 style="text-align: justify;"><a target="_self" href="/international/playboy-gunter-sachs-former-new-york-home-on-the-market/2011120652708">German playboy<br>Gunter Sachs' townhouse&nbsp;</a></h4>
-<h4 style="text-align: justify;">&nbsp;</h4>		</div>
+					<p><a href="/developments/ultimo-project-trieste-could-appeal-to-sub-$600000-buyers-before-june-30-government-grant-deadline/2012060755028" target="_self"><img src="/images/stories/2012/06/clockcircle.png"></a></p>
+<h4><a target="_self" href="/developments/ultimo-project-trieste-could-appeal-to-sub-$600000-buyers-before-june-30-government-grant-deadline/2012060755028">June 30 countdown:&nbsp;Trieste<br>about to hit Ultimo market</a></h4>
+<h4 class="subtitlestory" style="font-size: 14px; line-height: 16px; margin-top: 3px; margin-bottom: 8px; text-align: left;"></h4>		</div>
 	
 									</div>				
 
@@ -272,7 +338,7 @@ var jc_commentForm;
 		<!-- BEGIN: MAIN NAVIGATION -->
 				<div id="ja-mainnavwrap">
 			<div id="ja-mainnav">
-				<ul class="menu"><li class="item1"><a href="http://www.propertyobserver.com.au/"><span>Home</span></a></li><li class="item168"><a href="/news/"><span>News</span></a></li><li class="item226"><a href="/residential/"><span>Residential</span></a></li><li class="item188"><a href="/commercial/"><span>Commercial</span></a></li><li class="item228"><a href="/hotspots/"><span>Hotspots</span></a></li><li class="item230"><a href="/data-map"><span>Suburb Data</span></a></li><li class="item231"><a href="/tools/"><span>Tools</span></a></li><li class="item229"><a href="/trends/"><span>Trends</span></a></li></ul>				
+				<ul class="menu"><li class="item1"><a href="http://www.propertyobserver.com.au/"><span>Home</span></a></li><li class="item168"><a href="/news/"><span>News</span></a></li><li class="item226"><a href="/residential/"><span>Residential</span></a></li><li class="item188"><a href="/commercial/"><span>Commercial</span></a></li><li class="item228"><a href="/hotspots/"><span>Hotspots</span></a></li><li class="item230"><a href="/data-map"><span>Suburb Data</span></a></li><li class="item231"><a href="/tools/"><span>Tools</span></a></li><li class="item229"><a href="/trends/"><span>Trends</span></a></li><li class="item304"><a href="/tools/ebooks/"><span>eBooks</span></a></li></ul>				
 				<!-- BEGIN: SUB NAVIGATION -->
 									<div id="ja-subnav">
 						<ul class="menu"><li class="item174"><a href="/new-south-wales/"><span>NSW</span></a></li><li class="item179"><a href="/victoria/"><span>VIC</span></a></li><li class="item180"><a href="/queensland/"><span>QLD</span></a></li><li class="item220"><a href="/western-australia/"><span>WA</span></a></li><li class="item177"><a href="/south-australia/"><span>SA</span></a></li><li class="item178"><a href="/tasmania/"><span>TAS</span></a></li><li class="item175"><a href="/northern-territory/"><span>NT</span></a></li><li class="item173"><a href="/australian-capital-territory/"><span>ACT</span></a></li><li class="item275"><a href="/rural/"><span>Rural</span></a></li><li class="item299"><a href="/residential/new-developments/"><span>New Developments</span></a></li><li class="item300"><a href="/residential/house-land/"><span>House &amp; Land</span></a></li><li class="item301"><a href="/observers/"><span>Observers</span></a></li></ul>
@@ -284,6 +350,7 @@ var jc_commentForm;
 				
 		<!-- END: MAIN NAVIGATION -->
 
+		
 		
 		<!-- BEGIN: UPPER REGION -->
 		<div id="upperwrapper">
@@ -358,23 +425,23 @@ var jc_commentForm;
 					<div id="icetabs241" class="ice-slideshow-white -sl-white" style="height:auto; width:625px">
 	 <!-- MAIN CONTENT --> 
   <div class="ice-main-wapper" style="height:310px;width:630px;">
- 		  		<div class="ice-main-item" id="52439"> 
+ 		  		<div class="ice-main-item" id="54164"> 
                <div class="ice-description">
     <h3 class="ice-title">
-            Habitat Southbank. $78 a week in your pocket!    </h3>
+            Australand Carlton    </h3>
 <table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td valign="top"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-1" class="yoo-gallery slideshow"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au">
+	<tbody>
+		<tr>
+			<td valign="top"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"></a><div class="slideshow default"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+	</a><div id="yoo-gallery-1" class="yoo-gallery slideshow"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
 	
-		<div id="yoo-gallery-1-con" class="slideshow-bg" style="width:286px;height:210px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au">
+		<div id="yoo-gallery-1-con" class="slideshow-bg" style="width:288px;height:217px;"></div>
+		</a><div class="thumbnails"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+		</a><div class="thumbnail"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+	</a><div class="thumbnail-bg"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
 	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/habitat_01.jpg" title="Habitat 01" class="yoo-gallery-1-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/thumbs/thumb_habitat_01.jpg" alt="Habitat 01" width="53" height="38">
+	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/LOCAL-render-288pxX217px-1.gif" title="LOCAL-render-288pxX217px-1" class="yoo-gallery-1-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/thumbs/thumb_LOCAL-render-288pxX217px-1.gif" alt="LOCAL-render-288pxX217px-1" width="53" height="39">
 	</a>
 	
 	</div>
@@ -382,8 +449,8 @@ var jc_commentForm;
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/habitat_02.jpg" title="Habitat 02" class="yoo-gallery-1-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/thumbs/thumb_habitat_02.jpg" alt="Habitat 02" width="53" height="38">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/LOCAL-render-288pxX217px-2.gif" title="LOCAL-render-288pxX217px-2" class="yoo-gallery-1-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/thumbs/thumb_LOCAL-render-288pxX217px-2.gif" alt="LOCAL-render-288pxX217px-2" width="53" height="39">
 	</a>
 	
 	</div>
@@ -391,8 +458,8 @@ var jc_commentForm;
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/habitat_03.jpg" title="Habitat 03" class="yoo-gallery-1-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/thumbs/thumb_habitat_03.jpg" alt="Habitat 03" width="53" height="38">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/LOCAL-render-288pxX217px-3.gif" title="LOCAL-render-288pxX217px-3" class="yoo-gallery-1-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/thumbs/thumb_LOCAL-render-288pxX217px-3.gif" alt="LOCAL-render-288pxX217px-3" width="53" height="39">
 	</a>
 	
 	</div>
@@ -400,8 +467,17 @@ var jc_commentForm;
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/habitat_04.jpg" title="Habitat 04" class="yoo-gallery-1-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/maxvic/VIC/thumbs/thumb_habitat_04.jpg" alt="Habitat 04" width="53" height="39">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/LOCAL-render-288pxX217px-4.gif" title="LOCAL-render-288pxX217px-4" class="yoo-gallery-1-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/thumbs/thumb_LOCAL-render-288pxX217px-4.gif" alt="LOCAL-render-288pxX217px-4" width="53" height="39">
+	</a>
+	
+	</div>
+</div>
+<div class="thumbnail">
+	<div class="thumbnail-bg">
+	
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/LOCAL-render-288pxX217px-5.gif" title="LOCAL-render-288pxX217px-5" class="yoo-gallery-1-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/local/thumbs/thumb_LOCAL-render-288pxX217px-5.gif" alt="LOCAL-render-288pxX217px-5" width="53" height="39">
 	</a>
 	
 	</div>
@@ -416,51 +492,54 @@ var jc_commentForm;
 				show.play();
 	});
 </script></td>
-<td width="10"></td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">
-Positively geared in the heart of Melbourne! Own an apartment in a development designed by award-winning architects ROTHELOWMAN &amp; pocket an average of $78 per week (conditions apply). 100m from S. Melb Village &amp; Southbank's cultural precinct, 1BR apartments priced from $377,500. This buys you spacious living areas, light-filled bedrooms, superb views &amp; brilliant facilities. Leverage on low vacancy rates, high rental demand &amp; excellent growth.<br>
-<br>
-</td>
-</tr>
-<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" valign="top"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;">Register at habitatsouthbank.com.au</a></td>
-</tr>
-
-<tr>
-<td valign="top" align="right">
-<div style="float: right;"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8789980&amp;iu=/3831/PropertyObserver.com.au"><img src="/images/stories/marketing/advertising/logos/maxvic-logo.jpg" border="0"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
+			<td width="10"></td>
+			<td valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">
+								<b>Features spectacular resident’s rooftop.</b><br>
+								Designed by award winning architects Fender Katsalidis and ARM Architecture, Local invites you to experience low rise boutique apartment living at its best.<br>
+Located in a quiet tree-lined street only 400m to Lygon St &amp; Carlton Gardens, 700m to Melbourne University and 1.3km to the CBD.<br>
+Visit the Display Centre. Open everyday midday–3pm. Corner of Elgin &amp; Canning Streets, Carlton.<br>
+								
+							</td>
+						</tr>
+						<tr>
+							<td height="10"></td>
+						</tr>
+						<tr>
+							<td style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" valign="top"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" rel="nofollow">Enquire now 13 38 38 apartmentscarlton.com.au &gt;&gt;</a></td>
+						</tr>
+						
+						<tr>
+							<td valign="top" align="right">
+								<div style="float: right;"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"><img src="/images/stories/marketing/advertising/logos/local.gif" border="0"></a></div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
 </table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
-   		  		<div class="ice-main-item" id="52427"> 
+   		  		<div class="ice-main-item" id="50402"> 
                <div class="ice-description">
     <h3 class="ice-title">
-            Do you want the BEST property at the BEST address?    </h3>
+            The Mark at Sydney's Central Park    </h3>
 <table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td valign="top"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-2" class="yoo-gallery slideshow"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au">
+<td valign="top"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"></a><div class="slideshow default"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+	</a><div id="yoo-gallery-2" class="yoo-gallery slideshow"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
 	
-		<div id="yoo-gallery-2-con" class="slideshow-bg" style="width:286px;height:191px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au">
+		<div id="yoo-gallery-2-con" class="slideshow-bg" style="width:288px;height:217px;"></div>
+		</a><div class="thumbnails"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+		</a><div class="thumbnail"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+	</a><div class="thumbnail-bg"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
 	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/01_meares-logo.gif" title="01 Meares-logo" class="yoo-gallery-2-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/thumbs/thumb_01_meares-logo.gif" alt="01 Meares-logo" width="53" height="35">
+	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/cpj0857_propertyshowcaseimages_288x217_01.jpg" title="Cpj0857 Propertyshowcaseimages 288x217 01" class="yoo-gallery-2-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/thumbs/thumb_cpj0857_propertyshowcaseimages_288x217_01.jpg" alt="Cpj0857 Propertyshowcaseimages 288x217 01" width="53" height="39">
 	</a>
 	
 	</div>
@@ -468,8 +547,8 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/02_tawarri.jpg" title="02 Tawarri" class="yoo-gallery-2-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/thumbs/thumb_02_tawarri.jpg" alt="02 Tawarri" width="53" height="35">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/cpj0857_propertyshowcaseimages_288x217_02.jpg" title="Cpj0857 Propertyshowcaseimages 288x217 02" class="yoo-gallery-2-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/thumbs/thumb_cpj0857_propertyshowcaseimages_288x217_02.jpg" alt="Cpj0857 Propertyshowcaseimages 288x217 02" width="53" height="39">
 	</a>
 	
 	</div>
@@ -477,8 +556,8 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/03_Mirridong.jpg" title="03 Mirridong" class="yoo-gallery-2-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/thumbs/thumb_03_Mirridong.jpg" alt="03 Mirridong" width="53" height="35">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/cpj0857_propertyshowcaseimages_288x217_03.jpg" title="Cpj0857 Propertyshowcaseimages 288x217 03" class="yoo-gallery-2-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/thumbs/thumb_cpj0857_propertyshowcaseimages_288x217_03.jpg" alt="Cpj0857 Propertyshowcaseimages 288x217 03" width="53" height="39">
 	</a>
 	
 	</div>
@@ -486,8 +565,8 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/04_mereworth.jpg" title="04 Mereworth" class="yoo-gallery-2-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/thumbs/thumb_04_mereworth.jpg" alt="04 Mereworth" width="53" height="35">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/cpj0857_propertyshowcaseimages_288x217_04.jpg" title="Cpj0857 Propertyshowcaseimages 288x217 04" class="yoo-gallery-2-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/thumbs/thumb_cpj0857_propertyshowcaseimages_288x217_04.jpg" alt="Cpj0857 Propertyshowcaseimages 288x217 04" width="53" height="39">
 	</a>
 	
 	</div>
@@ -495,8 +574,8 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/05_Mona-estate.jpg" title="05 Mona-estate" class="yoo-gallery-2-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/meares/NSW/thumbs/thumb_05_Mona-estate.jpg" alt="05 Mona-estate" width="53" height="35">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/cpj0857_propertyshowcaseimages_288x217_05.jpg" title="Cpj0857 Propertyshowcaseimages 288x217 05" class="yoo-gallery-2-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/mark/thumbs/thumb_cpj0857_propertyshowcaseimages_288x217_05.jpg" alt="Cpj0857 Propertyshowcaseimages 288x217 05" width="53" height="39">
 	</a>
 	
 	</div>
@@ -516,23 +595,23 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top"><b>Upper Hunter NSW</b> - Merriwa. Amazing Tawarri - 1,295 prime ha, stunning homestead, gardens &amp; guest accom. <br>
-<b>Central West NSW</b> - Orange Mirridong - 827 highly productive ha, Boree Creek, stately 5BR Fed. Homestead.<br>
-<b>Southern Highlands NSW</b> - Berrima. An international address - 499 ha of rural splendour, 9 BR homestead.<br>
-<b>Braidwood, NSW</b> - near Canberra Mona Estate, history converted to modern day living, 3BR homestead , 5star guest accom, 120 acres<br>
+<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">Central Park is the $2 billion transformation of a heritage brewery site on Sydney's Broadway into a vibrant mixed-use urban village.<br>
 <br>
-
-
+Designed by architects Johnson Pilton Walker, 'The Mark' is a soaring glass tower of sustainability, advanced building technology and applied imagination - and your opportunity to capitalise on Central Park's success.
 </td>
 </tr>
 <tr>
-<td style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;" valign="top"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=8786020&amp;iu=/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;"> Meares &amp; Associates, Sydney. 02 93628111 or www.meares.com.au</a></strong></td>
+<td height="20"></td>
+</tr>
+<tr>
+<td style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;" valign="top"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" rel="nofollow">Register your interest now at centralparksydney.com or call 1300 857 057.</a><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"> &gt;&gt;</a></td>
 </tr>
 <tr>
 <td height="20"></td>
 </tr>
 <tr>
 <td valign="top" align="right">
+<div style="float: right;"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=6552700&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"><img src="/images/stories/marketing/advertising/residential/fraserlogo.jpg" width="175" border="0" height="23"></a></div>
 </td>
 </tr>
 </tbody>
@@ -541,23 +620,23 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 </tr>
 </tbody>
 </table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
-   		  		<div class="ice-main-item" id="50713"> 
+   		  		<div class="ice-main-item" id="53690"> 
                <div class="ice-description">
     <h3 class="ice-title">
-            Edgy, savvy and a surprisingly green investment    </h3>
+            Hyde Parkville Apartments    </h3>
 <table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td valign="top"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-3" class="yoo-gallery slideshow"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au">
+	<tbody>
+		<tr>
+			<td valign="top"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"></a><div class="slideshow default"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+	</a><div id="yoo-gallery-3" class="yoo-gallery slideshow"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
 	
-		<div id="yoo-gallery-3-con" class="slideshow-bg" style="width:286px;height:212px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au">
+		<div id="yoo-gallery-3-con" class="slideshow-bg" style="width:288px;height:217px;"></div>
+		</a><div class="thumbnails"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+		</a><div class="thumbnail"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
+	</a><div class="thumbnail-bg"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow">
 	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/lendlease-serrata-image-1.jpg" title="Lendlease-serrata-image-1" class="yoo-gallery-3-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/thumbs/thumb_lendlease-serrata-image-1.jpg" alt="Lendlease-serrata-image-1" width="53" height="39">
+	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/hyde/HYDE-render-288pxX217px-1.gif" title="HYDE-render-288pxX217px-1" class="yoo-gallery-3-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/hyde/thumbs/thumb_HYDE-render-288pxX217px-1.gif" alt="HYDE-render-288pxX217px-1" width="53" height="39">
 	</a>
 	
 	</div>
@@ -565,8 +644,8 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/lendlease-serrata-image-2.jpg" title="Lendlease-serrata-image-2" class="yoo-gallery-3-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/thumbs/thumb_lendlease-serrata-image-2.jpg" alt="Lendlease-serrata-image-2" width="53" height="39">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/hyde/HYDE-render-288pxX217px-2.gif" title="HYDE-render-288pxX217px-2" class="yoo-gallery-3-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/hyde/thumbs/thumb_HYDE-render-288pxX217px-2.gif" alt="HYDE-render-288pxX217px-2" width="53" height="39">
 	</a>
 	
 	</div>
@@ -574,17 +653,8 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 <div class="thumbnail">
 	<div class="thumbnail-bg">
 	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/lendlease-serrata-image-3.jpg" title="Lendlease-serrata-image-3" class="yoo-gallery-3-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/thumbs/thumb_lendlease-serrata-image-3.jpg" alt="Lendlease-serrata-image-3" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/lendlease-serrata-image-4.jpg" title="Lendlease-serrata-image-4" class="yoo-gallery-3-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/thumbs/thumb_lendlease-serrata-image-4.jpg" alt="Lendlease-serrata-image-4" width="53" height="39">
+	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/hyde/HYDE-render-288pxX217px-3.gif" title="HYDE-render-288pxX217px-3" class="yoo-gallery-3-thumb">
+		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/hyde/thumbs/thumb_HYDE-render-288pxX217px-3.gif" alt="HYDE-render-288pxX217px-3" width="53" height="39">
 	</a>
 	
 	</div>
@@ -599,415 +669,35 @@ Positively geared in the heart of Melbourne! Own an apartment in a development d
 				show.play();
 	});
 </script></td>
-<td width="10"></td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">Just a tiptoe from Collins Street, Serrata at Victroria Harbour gives you the edge when it comes to value.
-<ul style="margin: 0px !important; padding: 0 0 0 10px !important; list-style-type:circle !important;">
-<li>Edgy and eco-friendly one bedroom cityside apartments</li>
-<li>A short walk from Collins Street trams and Southern Cross Station</li>
-<li>Surrounded by practical local amenities including a full-line supermarket, banks, post-office and pharmacy</li>
-<li>Buy now and receive massive stamp duty savings</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td height="20"></td>
-</tr>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" valign="top"><a href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;">Visit www.serrataliving.com.au today</a></td>
-</tr>
-<tr>
-<td height="20"></td>
-</tr>
-<tr>
-<td valign="top" align="right">
-<div style="float: right;"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7356460;/3831/PropertyObserver.com.au"><img src="/images/stories/marketing/advertising/logos/serrata-logo.jpg" border="0"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
-   		  		<div class="ice-main-item" id="50402"> 
-               <div class="ice-description">
-    <h3 class="ice-title">
-            Queens Riverside: the new East Perth    </h3>
-<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td valign="top"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-4" class="yoo-gallery slideshow"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au">
-	
-		<div id="yoo-gallery-4-con" class="slideshow-bg" style="width:286px;height:212px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au">
-	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/queens riverside image 1.jpg" title="Queens Riverside Image 1" class="yoo-gallery-4-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/thumbs/thumb_queens riverside image 1.jpg" alt="Queens Riverside Image 1" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/queens riverside image 2.jpg" title="Queens Riverside Image 2" class="yoo-gallery-4-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/thumbs/thumb_queens riverside image 2.jpg" alt="Queens Riverside Image 2" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/queens riverside image 3.jpg" title="Queens Riverside Image 3" class="yoo-gallery-4-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/thumbs/thumb_queens riverside image 3.jpg" alt="Queens Riverside Image 3" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/queens riverside image 4.jpg" title="Queens Riverside Image 4" class="yoo-gallery-4-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/thumbs/thumb_queens riverside image 4.jpg" alt="Queens Riverside Image 4" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/queens riverside image 5.jpg" title="Queens Riverside Image 5" class="yoo-gallery-4-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/WA/thumbs/thumb_queens riverside image 5.jpg" alt="Queens Riverside Image 5" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-		</div>
-		
-	</div>
-</div>
-<script type="text/javascript">
-	window.addEvent('domready', function() {
-							var show = new SlideShow('yoo-gallery-4-con', 'yoo-gallery-4-thumb', { wait: 5000, effect: 'slide', duration: 1000, loop: true, thumbnails: true });
-				show.play();
-	});
-</script></td>
-<td width="10"></td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">East Perth's riverside precinct is poised for a valuable transformation as the WA Government combines with private enterprise to deliver $800million in infrastructure investment within a visionary masterplan. Queens Riverside is the embodiment of this vision: luxurious river-view apartments, a Fraser Suites hotel and a new dining destination... together creating a magnetic urban quarter. QIII, the first residential opportunity, is now selling.</td>
-</tr>
-<tr>
-<td height="20"></td>
-</tr>
-<tr>
-<td style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;" valign="top"><a href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;">Explore Queens Riverside online</a><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au"> &gt;&gt;</a></td>
-</tr>
-<tr>
-<td height="20"></td>
-</tr>
-<tr>
-<td valign="top" align="right">
-<div style="float: right;"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552820;/3831/PropertyObserver.com.au"><img src="/images/stories/marketing/advertising/residential/fraserlogo.jpg" width="175" border="0" height="23"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
-   		  		<div class="ice-main-item" id="50891"> 
-               <div class="ice-description">
-    <h3 class="ice-title">
-            Stunning apartments at Victoria Harbour    </h3>
-<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td valign="top"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-5" class="yoo-gallery slideshow"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au">
-	
-		<div id="yoo-gallery-5-con" class="slideshow-bg" style="width:286px;height:212px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au">
-	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/exo-apartments-1.jpg" title="Exo-apartments-1" class="yoo-gallery-5-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/thumbs/thumb_exo-apartments-1.jpg" alt="Exo-apartments-1" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/exo-apartments-2.jpg" title="Exo-apartments-2" class="yoo-gallery-5-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/thumbs/thumb_exo-apartments-2.jpg" alt="Exo-apartments-2" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/exo-apartments-3.jpg" title="Exo-apartments-3" class="yoo-gallery-5-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/thumbs/thumb_exo-apartments-3.jpg" alt="Exo-apartments-3" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/exo-apartments-4.jpg" title="Exo-apartments-4" class="yoo-gallery-5-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/thumbs/thumb_exo-apartments-4.jpg" alt="Exo-apartments-4" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/exo-logo.jpg" title="Exo-logo" class="yoo-gallery-5-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/serrata/vic/exo/thumbs/thumb_exo-logo.jpg" alt="Exo-logo" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-		</div>
-		
-	</div>
-</div>
-<script type="text/javascript">
-	window.addEvent('domready', function() {
-							var show = new SlideShow('yoo-gallery-5-con', 'yoo-gallery-5-thumb', { wait: 5000, effect: 'slide', duration: 1000, loop: true, thumbnails: true });
-				show.play();
-	});
-</script></td>
-<td width="10"></td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">
-Designed to amaze, inspire and delight - Exo is a unique sculptural form you really have to see to believe. 
-<br>
-A stunning residential project featuring 1 &amp; 2 bedroom apartments, located on the corner of Collins and Merchant Streets in Victoria Harbour, Docklands.
-<br>
-Register your interest now at www.exoapartments.com.au or call the Victoria Harbour Sales &amp; Information Centre on 03 8610 4800 to speak to a Lend Lease sales consultant.
-</td>
-</tr>
-<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" valign="top"><a href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;">Visit www.exoapartments.com.au</a></td>
-</tr>
-<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td valign="top" align="right">
-<div style="float: right;"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;7490620;/3831/PropertyObserver.com.au"><img src="/images/stories/marketing/advertising/logos/serrata-logo.jpg" border="0"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
-   		  		<div class="ice-main-item" id="52657"> 
-               <div class="ice-description">
-    <h3 class="ice-title">
-            Unprecedented Waterfront Apartment Living    </h3>
-<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td valign="top"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-6" class="yoo-gallery slideshow"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au">
-	
-		<div id="yoo-gallery-6-con" class="slideshow-bg" style="width:286px;height:212px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au">
-	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/Concavo_V01_Aerial-North.jpg" title="Concavo V01 Aerial-North" class="yoo-gallery-6-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/thumbs/thumb_Concavo_V01_Aerial-North.jpg" alt="Concavo V01 Aerial-North" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/Concavo_V17_DS_Living.jpg" title="Concavo V17 DS Living" class="yoo-gallery-6-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/thumbs/thumb_Concavo_V17_DS_Living.jpg" alt="Concavo V17 DS Living" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/Concavo_V19_Tower-Apt_Living.jpg" title="Concavo V19 Tower-Apt Living" class="yoo-gallery-6-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/thumbs/thumb_Concavo_V19_Tower-Apt_Living.jpg" alt="Concavo V19 Tower-Apt Living" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/LL7114_Concavo_V27_Pool_72dpi.jpg" title="LL7114 Concavo V27 Pool 72dpi" class="yoo-gallery-6-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/concavo/thumbs/thumb_LL7114_Concavo_V27_Pool_72dpi.jpg" alt="LL7114 Concavo V27 Pool 72dpi" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-		</div>
-		
-	</div>
-</div>
-<script type="text/javascript">
-	window.addEvent('domready', function() {
-							var show = new SlideShow('yoo-gallery-6-con', 'yoo-gallery-6-thumb', { wait: 5000, effect: 'slide', duration: 1000, loop: true, thumbnails: true });
-				show.play();
-	});
-</script></td>
-<td width="10"></td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">
-Experience Melbourne from the doorstep of Victoria Harbour.  Nestled on the harbour's edge, Convesso Concavo, with its iconic north facing panoramas, is one of Melbourne's most indulgent waterfront addresses.
-The chic, linear design of architects Bates Smart flows breathtakingly through the range of exceptionally appointed one, two and three bedroom apartments and penthouses.
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td height="10"></td>
-</tr>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" valign="top"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;">Register now at www.convesso.concavo.com.au</a></td>
-</tr>
-
-<tr>
-<td valign="top" align="right">
-<div style="float: right;"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=8912740&amp;iu=/3831/PropertyObserver.com.au"><img src="/images/stories/marketing/advertising/logos/concavo-logo.jpg" border="0"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
-   		  		<div class="ice-main-item" id="50401"> 
-               <div class="ice-description">
-    <h3 class="ice-title">
-            Central Park, Sydney. The opportunity is now.     </h3>
-<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td valign="top"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au"></a><div class="slideshow default"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au">
-	</a><div id="yoo-gallery-7" class="yoo-gallery slideshow"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au">
-	
-		<div id="yoo-gallery-7-con" class="slideshow-bg" style="width:286px;height:212px;"></div>
-		</a><div class="thumbnails"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au">
-		</a><div class="thumbnail"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au">
-	</a><div class="thumbnail-bg"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au">
-	
-	</a><a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/central park image 1.jpg" title="Central Park Image 1" class="yoo-gallery-7-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/thumbs/thumb_central park image 1.jpg" alt="Central Park Image 1" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/central park image 2.jpg" title="Central Park Image 2" class="yoo-gallery-7-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/thumbs/thumb_central park image 2.jpg" alt="Central Park Image 2" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/central park image 3.jpg" title="Central Park Image 3" class="yoo-gallery-7-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/thumbs/thumb_central park image 3.jpg" alt="Central Park Image 3" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/central park image 4.jpg" title="Central Park Image 4" class="yoo-gallery-7-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/thumbs/thumb_central park image 4.jpg" alt="Central Park Image 4" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-<div class="thumbnail">
-	<div class="thumbnail-bg">
-	
-	<a href="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/central park image 5.jpg" title="Central Park Image 5" class="yoo-gallery-7-thumb">
-		<img src="http://www.propertyobserver.com.au/images/stories/marketing/advertising/residential/fraser/NSW/thumbs/thumb_central park image 5.jpg" alt="Central Park Image 5" width="53" height="39">
-	</a>
-	
-	</div>
-</div>
-		</div>
-		
-	</div>
-</div>
-<script type="text/javascript">
-	window.addEvent('domready', function() {
-							var show = new SlideShow('yoo-gallery-7-con', 'yoo-gallery-7-thumb', { wait: 5000, effect: 'slide', duration: 1000, loop: true, thumbnails: true });
-				show.play();
-	});
-</script></td>
-<td width="10"><br></td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">Central Park is the $2 billion transformation of a heritage brewery site on Sydney's Broadway into a vibrant mixed-use urban village. Choose 'One Central Park' – Jean Nouvel’s first Australian project, clad in vertical gardens with a heroic cantilever. Or 'Park Lane' by Johnson Pilton Walker – true park living in the city, alongside the parklands at Central Park’s heart. Completing in stages from 2013 and moving fast, the opportunity is now.</td>
-</tr>
-<tr>
-<td height="20"><br></td>
-</tr>
-<tr>
-<td style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;" valign="top"><strong><a href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;">Explore Central Park online &gt;&gt;</a></strong></td>
-</tr>
-<tr>
-<td height="20"><br></td>
-</tr>
-<tr>
-<td valign="top" align="right">
-<div style="float: right;"><a target="_blank" href="http://ad.doubleclick.net/N3831/clk;6552700;/3831/PropertyObserver.com.au"><img src="/images/stories/marketing/advertising/residential/fraserlogo.jpg" width="175" border="0" height="23"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
+			<td width="10"></td>
+			<td valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 13px;" valign="top">
+								<b>The Best of Melbourne on your doorstep.</b><br>
+								Designed by renowned architects SJB, these boutique 1 &amp; 2 BR apartments represent the best of low-rise boutique living. Residents will enjoy access to ‘The Park Club’, featuring a 25m lap pool, gymnasium and landscaped outdoor retreat with views onto the Village Oval that adjoins Hyde Parkville.<br>
+Visit the Display Centre. Open everyday midday–3pm. Cade Way, Parkville.<br>
+								
+							</td>
+						</tr>
+						<tr>
+							<td height="10"></td>
+						</tr>
+						<tr>
+							<td style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" valign="top"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" target="_blank" style="font-family: Arial, Helvetica, sans-serif; color: #405c8c; font-size: 13px; font-weight: bold;" rel="nofollow">Enquire now 13 38 38 parkvilleapartments.com.au &gt;&gt;</a></td>
+						</tr>
+						
+						<tr>
+							<td valign="top" align="right">
+								<div style="float: right;"><a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=10734220&amp;iu=/3831/PropertyObserver.com.au" rel="nofollow"><img src="/images/stories/marketing/advertising/logos/hyde.gif" border="0"></a></div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
 </table><div style="float:left;margin-left:20px;"><ul type="disc"></ul></div><div class="clear"></div>  </div>        </div> 
    		                   <div class="ice-buttons-control">
             <div class="ice-previous">Previous</div>
@@ -1059,65 +749,66 @@ The chic, linear design of architects Bates Smart flows breathtakingly through t
 <div style="clear: both; font-size: 14px !important; color: #6575a6!important; display: block;font-style: italic ;
 ">
 
-<div> <span style="font-weight: bold; font-size: 95%;  display: block; margin-top: 10px !important; text-decoration: none !important;font-style:normal !important;"><a href="/economy/don-t-expect-the-unexpected-from-the-rba-christopher-joye/2011120652711" title="Don't expect the unexpected from the RBA: Christopher Joye">Don't expect the unexpected from the RBA: Christopher Joye</a></span>  </div><div> <span style="float:right; margin: 5px 0 0 5px;"><a href="/economy/don-t-expect-the-unexpected-from-the-rba-christopher-joye/2011120652711"><img src="http://www.propertyobserver.com.au/images/joyejonathan/chrisjoyelong1.png" alt="Don't expect the unexpected from the RBA: Christopher Joye" title="Don't expect the unexpected from the RBA: Christopher Joye" border="0" width="150px"></a></span><span style="display: block;color: #999999; background-image: url('/images/yellow-dot.jpg'); background-repeat: no-repeat; background-position: left center; padding-left: 12px;font-size: 12px; margin: 5px 5px 5px 0;"> Christopher Joye</span>  </div><div> <span style="">The RBA board is made up of nine individuals with their own agendas, and committees of strong-willed people are not known for making the hard decisions. </span> </div><div>  </div><div>  </div><div style=" clear: both;"></div></div>
+<div> <span style="font-weight: bold; font-size: 95%;  display: block; margin-top: 10px !important; text-decoration: none !important;font-style:normal !important;"><a href="/title-tattle/a-very-bondi-title-tattle" title="A very Bondi Title Tattle ">A very Bondi Title Tattle </a></span>  </div><div> <span style="float:right; margin: 5px 0 0 5px;"><a href="/title-tattle/a-very-bondi-title-tattle"><img src="http://www.propertyobserver.com.au/images/joyejonathan/titletattleformodule.png" alt="A very Bondi Title Tattle " title="A very Bondi Title Tattle " border="0" width="100px"></a></span><span style="display: block;color: #999999; background-image: url('/images/yellow-dot.jpg'); background-repeat: no-repeat; background-position: left center; padding-left: 12px;font-size: 12px; margin: 5px 5px 5px 0;"> Jonathan Chancellor</span>  </div><div> <span style="">Not all eyes were on the swell at Bondi Beach this week with Title Tattle viewing the best sales and listings - from Gretel Killeen's penthouse to Valerie Corrigan's mystery purchase. Even Karin Upton Baker's car space sale.</span> </div><div>  </div><div>  </div><div style=" clear: both;"></div></div>
 
 </div>
-<script type="text/javascript">
-	window.onload = function(){
-		var module_progress = $('module_progress');
-		new Ajax("/acesearch?format=raw&module=1&task=changeExtensionMod",
-				{method: 'get',
-				onRequest: function(){if(module_progress)module_progress.setStyle('visibility', 'visible');},
-				onComplete: function(){if(module_progress)module_progress.setStyle('visibility', 'hidden');},
-				update: $('custom_fields_module'), 
-				data: 'ext=&category=0'
-				}).request();
-	} 
-	
-		window.addEvent('domready', function() {
-		var url = '/acesearch?format=raw&module=1&task=complete';
-		var completer = new Autocompleter.Ajax.Json($('qr'), url, {'postVar': 'q'});
-	});
-		
-	
-	
-	function changeExtModule(a){
-		var module_progress = $('module_progress');
-		new Ajax("/acesearch?format=raw&module=1&task=changeExtensionMod",
-				{method: 'get',
-				onRequest: function(){module_progress.setStyle('visibility', 'visible');},
-				onComplete: function(){module_progress.setStyle('visibility', 'hidden');},
-				update: $('custom_fields_module'), 
-				data: 'ext='+a
-				}).request();
-	}
-	
-	function searchsubmit(){
-		var moquery = document.getElementById("qr").value.length;
-		
-		if (moquery >= "3"  ) {
-			return true;
-		} 
-		else {
-			alert("Please, make sure that your query length is higher than 3 characters.");
-			return false;
-		}
-	}
-	
+<div class="searchmysearch">
+   <span style="margin-right: 5px;margin-left: 7px;color:#6888B1;display:inline-block;padding-top:8px;font-wieght:700;">SEARCH SITE</span><div id="cse-search-form" style="width: 100%;height: 28px;"></div>
+</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '013646072378632351490:fmwsj3ijae4', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://www.propertyobserver.com.au/?option=com_googlesearch_cse");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
 </script>
+<style type="text/css">
+.gsc-branding-text
+{
+    display:none;
+}
+.gsc-input 
+{
+   background-image:none!important;
+}
+.gsc-search-button
+{
+   margin-left:5px;
+   background-color: transparent!important;
+   border: none!important;
+   color:#6888B1;
+}
+.gsc-clear-button 
+{
+   display:none!important;
+}
 
-<form id="acesearchModule" action="/index.php" method="post" name="acesearchModule" onsubmit="return searchsubmit();">
-	<div class="searchmysearch">
-<label>SEARCH SITE</label>
-		<input type="hidden" name="option" value="com_acesearch">
-		<input type="hidden" name="view" value="search">
-		<input type="hidden" name="task" value="search">
-		<input type="hidden" name="ext" value="">
-		
-		<input type="text" name="query" value="Search ..." id="qr" class="inputboxmysearch" onblur="if(this.value=='') this.value='Search ...';" onfocus="if(this.value=='Search ...') this.value='';">			<button class="buttonmysearch" id="module_button">GO</button>
-					<input type="hidden" name="mod_itemid" value="225">
-			</div>
-</form>
+.searchmysearch
+{
+   width: 300px;
+   font-size: 12px;
+   padding: 5px 0;
+   margin: 5px 0; 
+   background-color: #FCE57F;
+}
+
+#cse-search-form
+{
+   width: 200px!important;
+   display: inline-block!important;
+}
+
+.gsc-search-button
+{
+   margin-top:2px;
+}
+
+</style>
 <div class="rsformnewsletter_signup">
 	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.propertyobserver.com.au/privacy"><fieldset class="formFieldset" id="dailyNewsletterSignup">
 <div class="formHeading">FREE DAILY NEWSLETTER</div>
@@ -1134,8 +825,8 @@ The chic, linear design of architects Bates Smart flows breathtakingly through t
 								<div class="moduletable">
 							<!-- begin ad tag (tile=2) -->
 		<script language="JavaScript" type="text/javascript">
-		if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;} document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;tile=2;dcopt=ist;sz=300x600,300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;tile=2;dcopt=ist;sz=300x600,300x250;ord=2063814036556450.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;tile=2;sz=300x600,300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment,,;pos=1;tile=2;sz=300x600,300x250;ord=123456789?" width="300" height="600" border="0" alt=""></a></noscript>
+		if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;} document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=2;dcopt=ist;sz=300x600,300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=2;dcopt=ist;sz=300x600,300x250;ord=8118392924150826?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=2;sz=300x600,300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/default;sect=;kw=Property investment;pos=1;tile=2;sz=300x600,300x250;ord=123456789?" width="300" height="600" border="0" alt=""></a></noscript>
 		<!-- End ad tag -->
 
 			</div>
@@ -1156,52 +847,23 @@ The chic, linear design of architects Bates Smart flows breathtakingly through t
 <script type="text/javascript">
   var ord = window.ord || Math.floor(Math.random() * 1e16);
   document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=businessresources;kw=;sz=300x150;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=businessresources;kw=;sz=300x150;ord=2063814036556450.5?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=businessresources;kw=;sz=300x150;ord=8118392924150826?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N3831/jump/PropertyObserver.com.au/_default;pos=businessresources;kw=;sz=300x150;ord=[timestamp]?">
 <img src="http://ad.doubleclick.net/N3831/ad/PropertyObserver.com.au/_default; pos=businessresources;kw=;sz=300x150;ord=[timestamp]?" width="300" height="150" />
 </a>
 </noscript>		</div>
-			<div class="moduletable_calculator">
-					<script src="/modules/mod_yj_mor_calc/script/yj_mor_calc.js" type="text/javascript"></script>
-<img src="http://bs.serving-sys.com/BurstingPipe/adServer.bscn=tf&amp;c=19&amp;mc=imp&amp;pli=2967344&amp;PluID=0&amp;ord=%n&amp;rtu=-1" width="1" height="1">
- <!-- Mortgage Calculator starts here -->
-<div class="yj_mor_cal_calculator" style="width:300px;">
-<form id="yj_mor_form" action="">
-
-      <div class="left_mort_data">
-    <div class="yj_mor_lines">
-  <label>Loan Amount ($)</label><input class="boxFocus" name="text" id="textA" onfocus="this.className='boxFocus';this.value='';" onkeydown="xdelay('a')" value="250,000" size="10" type="text"></div>
- 
-  <div class="clear"></div>   
-     <div class="yj_mor_lines">
-   <label>Interest rate (%)</label><input class="boxFocus" name="text2" id="textB" onfocus="this.className='boxFocus';this.value='';" onblur="if(this.value=='')this.value='7.5'" onkeydown="xdelay('b')" value="7.25" size="10" type="text"></div>
-    <div class="clear"></div>   
-     <div class="yj_mor_lines">
-    <label>Loan term (years)</label><input name="text3" id="textC" onfocus="this.className='boxFocus';this.value='';" onkeydown="xdelay('c')" onblur="if(this.value=='')this.value='30'" value="30" size="10" type="text"></div>
-    <div class="clear"></div>   
-     
-   <div class="yj_mor_lines">
-   <label>Deposit ($)</label><input name="text4" id="textD" onfocus="this.className='boxFocus';this.value='';" onkeydown="xdelay('d')" value="0" size="10" type="text"></div>
-  <div class="clear"></div>   
- </div>
-
-<div class="right_mort_data">
-
-<div id="label_resultbox">Monthly Payment ($)</div>
-<input type="text" style="border:0; text-align:center;background:transparent;" name="text5" id="resultbox" onkeydown="return false;" value="1748.04">
-</div>
-
-<div class="clear"></div>
-
- </form>
-</div>
-<div class="footer">
-
-<a href="http://ad.doubleclick.net/N3831/clk;6512140;/3831/PropertyObserver.com.au" target="_blank" class="mortgage_choice_link"><img src="/modules/mod_yj_mor_calc/images/mortgage_choice_btn.png" alt="Talk to a home loan specialist today"></a>
-
-</div>
- <!-- Mortgage Calculator ends here -->		</div>
+			<div class="moduletable">
+					<!-- PropertyObserver.com.au/_default -->
+<script type="text/javascript">
+var ord = window.ord || Math.floor(Math.random() * 1e16);
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=2;tile=3;kw=;sz=300x250;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=2;tile=3;kw=;sz=300x250;ord=8118392924150826?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N3831/jump/PropertyObserver.com.au/_default;pos=2;tile=3;kw=;sz=300x250;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N3831/ad/PropertyObserver.com.au/_default;pos=2;tile=3;kw=;sz=300x250;ord=[timestamp]?" width="300" height="250" />
+</a>
+</noscript>		</div>
 			<div class="moduletable">
 					<span style="color: #8E8E8E;font-size: 11px;padding-left: 0px;">Sponsored Links</span>
 
@@ -1233,17 +895,83 @@ GA_googleFillSlot("PropertyObserver_SponsLink_2");
 <script type="text/javascript">
 GA_googleFillSlot("PropertyObserver_SponsLink_3");
 </script>		</div>
-			<div class="moduletable">
-					<!-- PropertyObserver.com.au/_default -->
+			<div class="moduletable moduletable_data_map_widget">
+					<h3>Suburb Data</h3>
+					
 <script type="text/javascript">
-var ord = window.ord || Math.floor(Math.random() * 1e16);
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=2;kw=;sz=300x250;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N3831/adj/PropertyObserver.com.au/_default;pos=2;kw=;sz=300x250;ord=2063814036556450.5?"></script>
-<noscript>
-<a href="http://ad.doubleclick.net/N3831/jump/PropertyObserver.com.au/_default;pos=2;kw=;sz=300x250;ord=[timestamp]?">
-<img src="http://ad.doubleclick.net/N3831/ad/PropertyObserver.com.au/_default;pos=2;kw=;sz=300x250;ord=[timestamp]?" width="300" height="250" />
-</a>
-</noscript>		</div>
+
+	
+	function showSuburbs(state){
+
+		var subList = $('mapAU');
+		new Ajax("/component/option,com_data_map/task,ajax/tmpl,component/",
+				{method: 'get',
+				onRequest: function(){
+					subList.empty();
+					var loading = new Element('img', {
+						'class' : 'loading_img',
+						'src' : '/images/loading.gif',
+						'width' : '230',
+						'height' : '230'
+					});
+					loading.inject(subList);
+				},
+				onComplete: function(){},
+				update: $('mapAU'), 
+				data: 'state='+state
+				}).request();
+	} 
+	function loadDataPage(pageUrl){
+		var subList = $('mapAU');
+		subList.empty();
+		var loading = new Element('img', {
+			'class' : 'loading_img',
+			'src' : '/images/loading.gif',
+			'width' : '230',
+			'height' : '230'
+		});
+		loading.inject(subList);
+		window.location = pageUrl;
+	}
+
+	
+	
+
+	
+</script>
+
+<div class="toptext"><center><p><b>Free suburb snapshots for investors</b></p><p>Powered by<br> <a class="myrpdata_logo" href="http://www.myrpdata.com" target="_blank"><img src="/images/myrpdata.png" alt="My RP Data"></a> </p></center></div>
+<div id="mapAU" class="">
+	<img usemap="#mapAreasAU" id="areaMap" alt="" src="/modules/mod_data_map/images/map.png"> 
+	<map name="mapAreasAU" id="mapAreasAU">
+		<area coords="94,18,94,147,10,171,1,93,5,62,73,17,92,18" shape="poly" title="Property data for Western Australia" alt="Property data for Western Australia" class="" id="area_WA" href="#" onclick="showSuburbs('WA');return false;">
+		<area coords="94,18,94,147,10,171,1,93,5,62,73,17,92,18" shape="poly" title="Property data for Western Australia" alt="Property data for Western Australia" class="" id="area_WA" href="#" onclick="showSuburbs('WA');return false;">
+		<area coords="181,191,192,230,217,230,216,194" shape="poly" title="Property data for Tasmania" alt="Property data for Tasmania" class="" id="area_TAS" href="#" onclick="showSuburbs('TAS');return false;">
+		<area coords="157,90,175,90,175,105,217,105,223,102,225,100,230,102,247,94,199,1,157,1" shape="poly" title="Property data for Queensland" alt="Property data for Queensland" class="" id="area_QLD" href="#" onclick="showSuburbs('QLD');return false;">
+		<area coords="95,90,156,90,156,2,95,2" shape="poly" title="Property data for Northern Territory" alt="Property data for Northern Territory" class="" id="area_NT" href="#" onclick="showSuburbs('NT');return false;">
+		<area coords="174,200,174,91,95,91,95,144" shape="poly" title="Property data for South Australia" alt="Property data for South Australia" class="" id="area_SA" href="#" onclick="showSuburbs('SA');return false;">
+		<area coords="175,147,180,147,186,154,190,153,195,156,198,160,207,161,213,163,219,167,226,167,225,186,219,193,188,191,181,191,175,191" shape="poly" title="Property data for Victoria" alt="Property data for Victoria" class="" id="area_VIC" href="#" onclick="showSuburbs('VIC');return false;">
+		<area coords="248,94,231,102,225,100,218,105,175,105,175,146,180,147,186,154,189,153,195,156,198,160,198,141,240,141,250,117" shape="poly" title="Property data for New South Wales" alt="Property data for New South Wales" class="" id="area_NSW" href="#" onclick="showSuburbs('NSW');return false;">
+		<area coords="241,141,198,141,198,160,202,160,208,161,215,164,218,167,228,167,236,154" shape="poly" title="Property data for Canberra" alt="Property data for Canberra" class="" id="area_ACT" href="#" onclick="showSuburbs('ACT');return false;">
+	</map>
+</div>
+
+<div id="subList">
+	
+</div>
+
+<div class="clear"></div>
+
+<div class="bottomtext"><center><p>Click on your state for more</p></center></div>		</div>
+			<div class="moduletable">
+					<div class="aidanews">
+<div style="clear: both; font-size: 14px !important; color: #6575a6!important; display: block;font-style: italic ;
+">
+
+<div>  </div><div>  </div><div>  </div><div>  </div><span style="float:right; margin: 5px 0 0 5px;"><a href="/residential/rp-data-rismark-march-1-daily-index/2012030153640"><img src="http://www.propertyobserver.com.au/images/stories/2012/06/rpindexjune8.gif" alt="RP Data-Rismark June 8 daily index" title="RP Data-Rismark June 8 daily index" border="0" width="280px"></a></span><div>  </div><div style=" clear: both;"></div></div>
+
+</div>
+		</div>
 	
 						
 				    </div>
@@ -1255,6 +983,111 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3
 		<!-- BEGIN: FOOTER -->
 		<div>&nbsp;</div>
 
+				<div class="moduletable">
+					
+
+	<script type="text/javascript">
+
+                function loadFeedAjax(feed_url, container) {
+                        strURL="/stablemates/loadRSSFeed.php";
+                        feed_url = "feed_url=http://" + encodeURIComponent(feed_url);
+                        var xmlHttpReq = false;
+                        // Mozilla/Safari
+                        if (window.XMLHttpRequest) {
+                                xmlHttpReq = new XMLHttpRequest();
+                        }
+                        // IE
+                        else if (window.ActiveXObject) {
+                                xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
+                        }
+                        xmlHttpReq.open('POST', strURL, true);
+                        xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                        xmlHttpReq.onreadystatechange = function() {
+                                if (xmlHttpReq.readyState == 4) {
+                                        document.getElementById(container).innerHTML = xmlHttpReq.responseText;
+                                }
+                        }
+                        xmlHttpReq.send(feed_url);
+                }
+
+		function showFeeds() {
+			 loadFeedAjax("www.crikey.com.au/feed/", "crikeyfeed"); 			 loadFeedAjax("blogs.crikey.com.au/welcome/files/blogs.xml", "crikeyblogsfeed"); 			 loadFeedAjax("www.smartcompany.com.au/index.php?option=com_bca-rss-syndicator&feed_id=15", "smartcompanyfeed"); 			 loadFeedAjax("www.startupsmart.com.au/features.html?format=feed&type=rss", "startupsmartfeed"); 						 loadFeedAjax("feeds.leadingcompany.com.au/leadingcompany/news", "leadingcompanyfeed"); 		}
+
+                if (window.addEventListener) // W3C standard
+                {
+                        window.addEventListener('load', showFeeds, false); 
+                }
+                else if (window.attachEvent) // Microsoft
+                {
+                        window.attachEvent('onload', showFeeds);
+                }
+
+	</script>
+
+	<style type="text/css">
+		#stablemates {/*overflow:auto; height:185px;*/ border-top:5px solid #eee; padding-top:5px; width:950px; margin:0 auto; clear:both;}
+		#stablemates div {width:178px; float:left; border-right: 1px solid #EEEEEE; margin-right:5px; padding-right:4px;}
+		#stablemates div span {text-align:left;}
+		#stablemates div.last {border-right:none; padding-right:0; margin-right:0;}
+		#stablemates div ul {padding:0; margin:0 0 0 15px; color:#ccc; list-style:disc;}
+		#stablemates div ul li {padding:0 0 5px 0; margin:0; line-height:1em; background:none;}
+		#stablemates div ul li a {font-size:11px; font-weight:normal; font-family:arial, verdana, helvetica, sans-serif; color:#333 !important; text-decoration:none;}
+		#stablemates h4 {text-align:center; height:40px; margin:10px 0 0 0;}
+		#stablemates h3 {display:none;}
+		#stablemates .crikeyblogs a {color: #6A9D33;}
+		#stablemates .crikey a {color: #ee0000;}
+		#stablemates .smartcompany a {color: #2B9CD5;}
+		#stablemates .startupsmart a {color: #f36648;}
+		#stablemates .propertyobserver a {color: #FFCC00;}
+		#stablemates .thepowerindex a {color: #666666;}
+		#stablemates .leadingcompany a {color: #3B68AC;}
+		#stablemates div img.stablemates_loading {margin:20px 0 0 55px;}
+	</style>
+
+	<div id="stablemates">
+	
+		<h3>Private Media Publications</h3>
+		
+		 
+			<div class="crikey">
+				<h4><a href="http://www.crikey.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/crikey.png" alt="Crikey"></a></h4>
+				<span id="crikeyfeed"></span>
+			</div>
+				
+		 
+			<div class="crikeyblogs">
+				<h4><a href="http://blogs.crikey.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/crikeyblogs.png" alt="Crikey Blogs"></a></h4>
+				<span id="crikeyblogsfeed"></span>
+			</div>
+				
+		 
+			<div class="smartcompany">
+				<h4><a href="http://www.smartcompany.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/smartcompany.jpg" alt="Smart Company"></a></h4>
+				<span id="smartcompanyfeed"></span>
+			</div>
+				
+		 
+			<div class="startupsmart">
+				<h4><a href="http://www.startupsmart.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/startupsmart.jpg" alt="StartupSmart"></a></h4>
+				<span id="startupsmartfeed"></span>
+			</div>
+						
+		 
+			<div class="leadingcompany last">
+				<h4><a href="http://www.leadingcompany.com.au/"><img src="http://www.crikey.com.au/wp-content/themes/crikey/img/stable/leadingcompany.png" alt="Leading Company"></a></h4>
+				<span id="leadingcompanyfeed"></span>
+			</div>
+		
+		<div class="clear"></div>
+
+	</div>
+
+	<div class="clear"></div>
+
+
+		</div>
+	
+
 		<div id="footer">
 
 			<div class="footerwrap">
@@ -1265,13 +1098,13 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3
 
 							<div class="moduletable_footercol">
 					<h3>Our Partners</h3>
-					<ul class="menu"><li class="item66"><a href="http://www.mortgagechoice.com.au" target="_blank"><span>Mortgage Choice</span></a></li><li class="item60"><a href="http://ad.doubleclick.net/N3831/clk;6531100;/3831/PropertyObserver.com.au" target="_blank"><span>Frasers Property</span></a></li><li class="item267"><a href="http://w3.lendlease.com.au/apartments/Default.aspx " target="_blank"><span>Lend Lease</span></a></li></ul>		</div>
+					<ul class="menu"><li class="item66"><a href="http://www.mortgagechoice.com.au" target="_blank"><span>Mortgage Choice</span></a></li><li class="item60"><a href="http://ad.doubleclick.net/N3831/clk;6531100;/3831/PropertyObserver.com.au" target="_blank"><span>Frasers Property</span></a></li></ul>		</div>
 			<div class="moduletable_footercol">
 					<h3>property observer</h3>
-					<ul class="menu"><li class="item45"><a href="/contact-us/"><span>Contact Us</span></a></li><li class="item54"><a href="/register"><span>Register</span></a></li><li class="item55"><a href="mailto:advertising@firstdigital.com.au"><span>Advertise</span></a></li><li class="item56"><a href="/about-us"><span>About us</span></a></li><li class="item137"><a href="/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li class="item58"><a href="/sitemap-1"><span>Sitemap</span></a></li><li class="parent item69"><a href="/rss-feeds"><span>RSS feeds</span></a></li><li class="item225"><a href="/search"><span>Search</span></a></li><li id="current" class="active item260"><a href="/privacy"><span>Privacy</span></a></li><li class="item285"><a href="/property-observer-code-of-conduct"><span>Code of Conduct</span></a></li></ul>		</div>
+					<ul class="menu"><li class="item45"><a href="/contact-us/"><span>Contact Us</span></a></li><li class="item54"><a href="/register"><span>Register</span></a></li><li class="item55"><a href="http://www.privatemedia.com.au/our-websites"><span>Advertise</span></a></li><li class="item56"><a href="/about-us"><span>About us</span></a></li><li class="item137"><a href="/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li class="item58"><a href="/sitemap-1"><span>Sitemap</span></a></li><li class="parent item69"><a href="/rss-feeds"><span>RSS feeds</span></a></li><li class="item225"><a href="/search"><span>Search</span></a></li><li id="current" class="active item260"><a href="/privacy"><span>Privacy</span></a></li><li class="item285"><a href="/property-observer-code-of-conduct"><span>Code of Conduct</span></a></li></ul>		</div>
 			<div class="moduletable_footercol">
 					<h3>Network partners</h3>
-					<ul class="menu"><li class="item62"><a href="http://www.crikey.com.au"><span>Crikey</span></a></li><li class="item256"><a href="http://www.startupsmart.com.au"><span>StartupSmart</span></a></li><li class="item63"><a href="http://www.smartcompany.com.au"><span>SmartCompany</span></a></li><li class="item266"><a href="http://www.thepowerindex.com.au"><span>THE POWER INDEX</span></a></li><li class="item303"><a href="http://www.privatemedia.com.au"><span>Private Media</span></a></li><li class="item263"><a href="http://technologyspectator.com.au/"><span>Technology Spectator</span></a></li><li class="item65"><a href="http://www.eurekareport.com.au/"><span>Eureka Report</span></a></li><li class="item72"><a href="http://www.climatespectator.com.au/" target="_blank"><span>Climate Spectator</span></a></li><li class="item64"><a href="http://www.businessspectator.com.au"><span>Business Spectator</span></a></li></ul>		</div>
+					<ul class="menu"><li class="item62"><a href="http://www.crikey.com.au"><span>Crikey</span></a></li><li class="item256"><a href="http://www.startupsmart.com.au"><span>StartupSmart</span></a></li><li class="item63"><a href="http://www.smartcompany.com.au"><span>SmartCompany</span></a></li><li class="item266"><a href="http://www.thepowerindex.com.au"><span>THE POWER INDEX</span></a></li><li class="item303"><a href="http://www.privatemedia.com.au"><span>Private Media</span></a></li><li class="item333"><a href="http://www.leadingcompany.com.au"><span>LeadingCompany</span></a></li><li class="item334"><a href="http://www.womensagenda.com.au"><span>Women's Agenda</span></a></li></ul>		</div>
 	
 				
 					<br style="clear:both;">
@@ -1280,9 +1113,10 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3
 		
 
 				<p style="text-align:center;font-size: 11px;color:#939598">
-					</p><div class="copyright" style="text-align: center;">Property Observer is Australia's leading website for property investors and savvy buyers, featuring <a href="/news/" title="Real-estate news">real-estate news</a>, property information, <a href="/tags/forecast" title="Market forecasts">market forecasts</a> and <a href="/observers/" title="Observers">expert commentary and analysis</a>. Property Observer covers all aspects of real estate, including residential property and commercial property, throughout Australia and around the world. Property Observer offers everything you need to know about selling your house, buying a house and the property cycle, as well as <a href="/residential/landlords/" title="Landlord advice">how to handle tenants</a> and when and how to invest in property.</div>
+					</p><div class="copyright" style="text-align: center;">Property Observer is Australia's number one property investment website for investors and savvy buyers, featuring <a href="/news/" title="property news">property news</a>, property information, <a href="/tags/forecast" title="Market forecasts">market forecasts</a> and <a href="/observers/" title="Expert property commentary and analysis">expert commentary and analysis</a>. Property Observer covers all aspects of real estate, including residential property and commercial property, throughout Australia and around the world. Property Observer offers everything you need to know about selling your house, buying a house and the property cycle, as well as <a href="/residential/landlords/" title="property management advice">tips on property management</a> and when and how to invest in property.</div>
 <div class="copyright" style="text-align: center;">Editor: Jonathan Chancellor | Publisher: James Thomson | Property Observer - Level 6, 22 William St, Melbourne, 3000 | Ph: (03) 8623 9999 Fax: (03) 8623 9975</div>
-<div class="copyright" style="text-align: center;">Popular on Partner Sites: <a href="http://www.smartcompany.com.au/steve-jobs.html" title="Steve Jobs Dead" target="_blank">Steve Jobs Dead | </a><a href="http://www.smartcompany.com.au/50-tips-from-australia-s-top-entrepreneurs-ebook" title="50 tips from Australia's top SME entrepreneurs" target="_blank">50 tips from Australia's top SME entrepreneurs</a></div>
+<div class="copyright" style="text-align: center;">Topics: <a title="Read the latest news, information and feature articles on the companies mentioned on Property Observer" href="/companies/">Companies </a>| <a title="Read the latest news, information and feature articles on the people mentioned on Property Observer" href="/people/">People </a>| <a title="Read the latest news, information and feature articles on the cities mentioned on Property Observer" href="/cities/">Cities </a>| <a title="Read the latest news, information and feature articles on the organisations mentioned on Property Observer" href="/organisations/">Organisations </a>| <a title="	Read the latest news, information and feature articles on the industry terms mentioned on Property Observer" href="/industry-terms/">Industry Terms</a></div>
+<div class="copyright" style="text-align: center;">Popular on Partner Sites: <a href="http://www.startupsmart.com.au/short-course/free-short-course-10-steps-to-a-better-website.html">How to improve your website</a> | <a href="http://www.smartcompany.com.au/free-ebook/049517-free-ebook-25-entrepreneurs-reveal-their-lessons-for-business-and-life.html">Entrepreneurs in Australia</a> Share Their Lessons for Success | <a href="http://www.startupsmart.com.au/planning/business-planning/five-reasons-to-start-up-in-2012-%E2%80%93-and-five-reasons-to-think-twice.html">Five reasons to start-up in 2012 – and five reasons to think twice</a></div>
 <div class="copyright" style="text-align: center;">Property Observer is a <a target="_blank" title="Private Media" href="http://www.privatemedia.com.au/">Private Media</a> website</div>
 <div class="copyright" style="text-align: center;">- This website was built by <a href="http://www.valegro.com.au" title="Property Observer web development and web hosting by Valegro">Valegro</a>&nbsp;-</div>
 <div class="copyright" style="text-align: center;"></div>
@@ -1296,7 +1130,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3
 				<br style="clear:both;">
 
 				<div style="text-align: center;">
-					<div class="copyright">Copyright © 2011 Private Media Pty Ltd - All rights reserved</div>
+					<div class="copyright">Copyright © 2012 Private Media Pty Ltd - All rights reserved</div>
 				</div>
 				
 				<br style="clear:both;">
@@ -1305,20 +1139,18 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3
 							<div class="moduletable_popup">
 					
 <div class="rsform_popup">
-	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.propertyobserver.com.au/privacy"><table style="width: 500px;" border="0" cellpadding="10" align="center">
+	<form method="post" id="userForm" enctype="multipart/form-data" action="http://www.propertyobserver.com.au/privacy"><table style="width: 400px;" border="0" cellpadding="10" align="center">
 <tbody>
 <tr>
-<td valign="top">
-<img src="/images/stories/marketing/ebooks/covers/market_tumoil100w.png" alt="Free eBook" style="float: right;">
-<h2><span style="color: #0098ca;">Register to the Property Observer Newsletter and receive a free eBook.</span></h2>
-<p>Share market turmoil can trigger a shift in investment strategy.</p>
-<p>We've asked Australia's leading property experts to provide the inside knowledge needed to negotiate these tumultuous times.</p>
-<p><span style="color: #1566b6;"><strong><span style="color: #0098ca;">Download your free eBook: 18 tips for investing in property following times of turmoil<br></span></strong></span></p>
-<p><input type="text" value="" size="20" name="form[emailnews]" id="emailnews">&nbsp; <input type="submit" value="Sign me up" name="form[Go]" id="Go"><span id="component355" class="formNoError">Please enter a valid email address.</span></p>
-<img style="float: right;" src="/images/stories/marketing/propertyobserver-logo200w.gif"> <input checked="checked" name="form[chkSpecial][]" type="checkbox" value="I wish to receive promotional information from related companies" id="chkSpecial0"><label for="chkSpecial0">I wish to receive promotional information from related companies</label> <input type="hidden" name="form[mailChimpSource]" id="mailChimpSource" value="51"></td>
+<td valign="top"><img src="/images/stories/marketing/ebooks/covers/realitycover_100w.gif" alt="Free eBook" style="float: right;">
+<h2><span style="color: #0098ca;">LESSONS FROM PROPERTY REALITY TV SHOWS</span></h2>
+<p><em>Property Observer</em> has collected the views of a panel of experts on what advice we can take away from our favourite shows such as The Block</p>
+<p><span style="color: #1566b6;"><strong><span style="color: #0098ca;">Register for Property Observer and download your free eBook now!<br></span></strong></span></p>
+<p><input type="text" value="" size="20" name="form[emailnews]" id="emailnews">&nbsp; <input type="submit" value="Sign me up" name="form[Go]" id="Go"><span id="component432" class="formNoError">Please enter a valid email address.</span></p>
+<img style="float: right;" src="/images/stories/marketing/propertyobserver-logo200w.gif"> <input checked="checked" name="form[chkSpecial][]" type="checkbox" value="I wish to receive promotional information from related companies" id="chkSpecial0"><label for="chkSpecial0">I wish to receive promotional information from related companies</label> <input type="hidden" name="form[mailChimpSource]" id="mailChimpSource" value="59"></td>
 </tr>
 </tbody>
-</table><input type="hidden" name="form[formId]" value="51"></form></div>		</div>
+</table><input type="hidden" name="form[formId]" value="59"></form></div>		</div>
 	
 				</div>			
 			
@@ -1328,16 +1160,28 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N3
 				<!-- END: FOOTER -->
 	</div>
 	
+		<div id="ad2" class="gutter right"></div>
+	</div>
+	
+	
 
 <!-- START Nielsen Online SiteCensus V6.0 --> 
 <!-- COPYRIGHT 2010 Nielsen Online --> 
-<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"> 
-</script> 
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script> 
 <script type="text/javascript"> 
- var pvar = { cid: "propertyobserver", content: "0", server: "secure-au" };  var trac = nol_t(pvar);  trac.record().post(); </script> <noscript>  <div>  <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=propertyobserver&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ var pvar = { cid: "propertyobserver", content: "0", server: "secure-au" };  var trac = nol_t(pvar);  trac.record().post();
+</script> 
+<noscript><div>  <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=propertyobserver&amp;cg=0&amp;cc=1&amp;ts=noscript"
  width="1" height="1" alt="" />
  </div>
-</noscript> 
+</noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- PC updated -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4194.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 </body></html>
