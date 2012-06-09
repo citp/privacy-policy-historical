@@ -1,47 +1,97 @@
-> *The following text is extracted and transformed from the mixturecloud.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608071346id_/http%3A//www.mixturecloud.com/lang-en-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixturecloud.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609021055id_/http%3A//www.mixturecloud.com/terms_privacy) for the most accurate reproduction.*
 
-# MixtureCloud.com
+# Privacy - MixtureCloud
 
-Mixturevideo Limited recognizes that its customers, visitors, users, and others who use Mixturevideo value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Mixturevideo site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
+Our procedures for collecting, using and disclosing your information are available in this Privacy policy. MixtureCloud’s service (our «Services») is accessible through our website www.mixtureCloud.com , applications on devices, through APIs and through third parties. Is called «Device» any computer, used to access MixtureCloud’s Service, including without any limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. Your access to MixtureCloud’s Service, regardless how you access it, is governed by this privacy policy. By using our Services, you consent to the collection, transfer, processing, storage, disclosure and other uses described in this privacy policy. The word «Information» refers collectively to all the different forms of data, content, and information described below.
 
-Please note that any video, image, or other content posted at the direction of users onto the Mixturevideo site becomes published content and is not considered personally identifiable information subject to this privacy notice.
+## A. Your datas
 
-## The Information Mixturevideo Limited Collects
+### 1\. Collection and Storage
 
-**User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Mixturevideo when choosing to participate in various activities on the sites such as uploading videos or posting messages.
+MixtureCloud may, while its Service is running, collect and store the following information:
 
-  * **Cookies Information:** When you visit the Mixturevideo site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Mixturevideo uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Mixturevideo site may not function properly if the ability to accept cookies is disabled.
-  * **Log File Information:** When you use the Mixturevideo site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+Private datas: When you create an account, we only save your email and your password. However, we may also collect some other private datas, like your name, your billings information and your mail address, according to the information you give us.  
+You may also give us access to other email addresses through your email account, to social network or file sharing. The collect of those information is done upon your approval and will only be done following a step coming from you.  
+Files: When you upload files («Files») on our Service MixtureCloud, we collect, store, secure and compress them. Rather than storing a file twice, we can associate all or a portion of an existing file to a file that you add to your MixtureCloud’s account.  
+Log Data: The use of our Service automatically lead to the record of some information from your device, its softwares and your activity.  
+Example of data that can be collected: The Device’s Internet Protocol (“IP”) address, browser type, the web page visited before you came to our website, information you search for on our website, local preferences, identification numbers associated with your Devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata concerning your Files, and other interactions with our Services.  
+Cookies: MixtureCloud can use «cookies». A cookie is a small data file that we transfer to your device. The use of cookies allow us to collect information and improve our Service.   
+The use of «session ID cookies» allow us to enable certain features of your account. You can choose to stop accepting cookies by changing your browser options, or to prompt you before accepting a cookie from the websites you visit directly by instructing your browser by changing its options. However, you may not be able to use all aspects of the Service if you don’t accept cookies.
 
+### 2\. Use
 
+Personal Datas: When you use our Services, your personal information (“Personal Information”) might be collected and used to identify you. MixtureCloud can use your personal information in order to (i) improve our Service, (ii) administer your use of the Service, (iii) better understand your needs and interests, (iv) personalize your experience, and (v) sometimes to offer product announcements.  
+We might need to step in your datas, in order to secure it. However, we will not look at your datas.You can at any time unsubscribe to our communications by following the instructions provided in the newsletters or by updating your account settings information.  
+Geo-Location.  
+We might sometimes use some information collected from a device, for instance the IP address, in order to find its approximate location.  
+Analyses :   
+Logging and cookies allow us to collect some information, that can be sometimes correlated with Personal Information. This information can be use for the following purposes:  
+Above situations  
+\- To increase our Service’s functionality  
+\- To control the use of our Services  
+\- For our Service's technical administration  
+From now on and as of the date this policy went into effect, we only use Google Analytics
 
-## The Way Mixturevideo Retains Information
+### 3\. Information Sharing and Disclosure
 
-  * To preserve the integrity of website databases, Mixturevideo's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Mixturevideo, you are consenting to store that information indefinitely.
+Your profile.  
+Your personal Information will be displayed in your public profile page, according to the preferences you set in your account. You can choose the degree of diffusion of your information, and customize the information that you want to display.   
+Please consider carefully the information you chose to disclose in your profile page. Adapt the quantity of information you display in public, according to your desired level of anonymity.  
+Please be reminded that public datas can be broadly and quickly disseminated.  
+Your profile information can be reviewed and revised at any time. With your consent, we may also share or disclose your information.
 
+Service Providers, Business partners and others:   
+In order to improve our Service, we may use certain trusted third part. It includes for instance, but without limitation, data storage, maintenance services, database management, web analytics, payment processing.  
+Your information will be accessible to these third parties, but only with the purpose of performing these tasks, on our behalf. They are under obligations similar to those in this Privacy Policy.
 
+Other applications.  
+If you access to our Services, through a third application, we may share your information with them, with your consent. The way those parties deal with your information is out of our responsibility. Consequently, please make sure that you trust the application and that their privacy policy is acceptable to you.
 
-## The Way Mixturevideo Limited Uses Information
+Compliance with law, and law enforcement requests : Protection of MixtureCloud’s Rights.  
+We may disclose your information and your files stored in your account to parties outside to MixtureCLoud, if we have good faith that disclosure is necessary or appropriate.
 
-  * If you submit personally identifiable information to us through the Mixturevideo website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
-  * Any personal information or video content that you voluntarily circlelose online (on circleussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Mixturevideo site, and other users can contact you through messages and comments. Any videos that you submit to the Mixturevideo site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
+The following situations might be concerned :  
+To comply with law, regulation or compulsory legal request  
+To prevent fraud or abuse of MixtureCloud or its users  
+To Protect MixtureCloud’s property rights  
+To protect the safety of any person from death or serious bodily injury
 
+If we provide your files to a law enforcement agency (as set above) we will remove MixtureCloud’s encryption from the files, before providing them. Nevertheless, MixtureCloud will not be able to decrypt any files that you encrypted before storing them on MixtureCloud.com.
 
+Safety of information transfers:  
+If our activity had to be reorganized (merger, acquisition, or sell of all or a portion or our assets) we can transfer you information as part of that transaction. Any change in control or use of your personal information or files will be notified to you. In that case, we will also notify you of choices you may have regarding the information.
 
-## When Mixturevideo circleloses Information
+Non private information:  
+Your non private, aggregated or non personal information can be disclosed.
 
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * Mixturevideo Limited also reserves the right to circlelose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Mixturevideo Limited, our users or others.
+### 4\. Change or deletion
 
+If you are a registered user, you can , by changing your account settings, review, update or delete your Personal information. If the law require it, we might keep copies of your information.
 
+### 5\. Retention
 
-## In the Event of Merger, Sale, or Bankruptcy
+As long as your account is active, we will retain your information. If you wish, you can delete your account at any time, in the settings of your account. In that case, we will no longer use your information to provide our Services.
 
-In the event that Mixturevideo Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+The use and retention of your information is allowed to us, if we need it in order to comply with our legal obligations, resolve disputes and enforce our agreements.  
+According to these requirements, the deletion of your information upon request will be done as quickly as possible. However, the deletion of your information from our servers can take some time, and some backed up versions might exist after deletion. In addition, files that you have in common with other users will not be deleted from our servers.
 
-## Changes and updates to this Privacy Notice
+## B. Global Policy
 
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Mixturevideo site constitutes your agreement to this privacy notice and any future revisions.
+### 1\. Security
+
+We care about the security of your information. Sensitive information that you input are encrypted, using secure socket layer technology (SSL).  
+In order to protect the information submitted to us, we follow generally accepted standards. However, no method of electronic transmission or storage is 100% secure.  
+Consequently, absolute security can’t be granted. If you have any questions about security on our website, you can contact us at security@mixturecloud.com
+
+### 2\. Our Policy toward Children
+
+Our Services are not directed to persons under 13. Therefore, we do not knowingly collect personally identifiable information from children under 13 years old. Parents or guardians should inform us if they become aware that his or her child has provided us with Personal information without their consent. They should contact us at privacy@mixturecloud.com.  
+We will take steps to delete such information from our files.
+
+### 3\. Changes to our Privacy policy
+
+We can amend this privacy policy from time to time. We will provide you with notice if we believe that a change made to this privacy policy materially reduces your rights. We might also provide notice of change in other circumstances. Once those changes become effective, if you continue to use our Services, you agree to be bound by the revised privacy policy.
+
+### 4\. Contacting us
+
+If you have any question regarding this privacy policy, you can contact us at privacy@mixturecloud.com
