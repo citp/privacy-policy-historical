@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorhousingbubble.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208010200id_/http%3A//www.doctorhousingbubble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorhousingbubble.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609061202id_/http%3A//www.doctorhousingbubble.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Dr. Housing Bubble Blog
 
@@ -18,4 +18,4 @@
 > 
 > You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as [Norton Internet Security](http://uk.norton.com/internet-security/).  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 > 
->  _AdSense Privacy Policy Provided by[JenSense](http://www.jensense.com/)_
+> _AdSense Privacy Policy Provided by[JenSense](http://www.jensense.com/)_
