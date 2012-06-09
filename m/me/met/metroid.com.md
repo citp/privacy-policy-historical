@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213255id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609182231id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
 Online Privacy Policy
 
-[Version française](https://web.archive.org/web/20111231213255id_/http://www.nintendo.com/corp/privacy_fr.jsp)
+[Version française](https://web.archive.org/web/20120527211313id_/http://www.nintendo.com/corp/privacy_fr.jsp)
 
 Please Note: If you are looking for the Privacy Policy related to the use of Nintendo systems, please use these links: [Wii](https://web.archive.org/consumer/systems/wii/en_na/privacyPolicy.jsp), [Nintendo 3DS](https://web.archive.org/consumer/systems/3ds/en_na/gi_index.jsp?menu=documents&submenu=doc-privacy-policy), [Nintendo DSi / Nintendo DSi XL](https://web.archive.org/consumer/systems/dsi/en_na/privacyPolicy.jsp)
 
-The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20111231213255id_/http://www.nintendo.com/corp/privacy_list.jsp). 
+The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20120527211313id_/http://www.nintendo.com/corp/privacy_list.jsp). 
 
 Last Updated: November 2, 2011
 
