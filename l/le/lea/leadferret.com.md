@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadferret.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220160549id_/http%3A//www.leadferret.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadferret.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609095850id_/http%3A//www.leadferret.com/privacy.php) for the most accurate reproduction.*
 
-# LeadFerret.com
+# Privacy Policy |LeadFerret | Company Directory
 
   
 The LeadFerret Privacy Policy is our way of ensuring the safety and accuracy of Internet users' personal information, whether gathered on this site, by our clients, or by our partners. We are in the email business and understand the importance of personal information security. We only work with companies that protect the personal information they collect from their existing or potential customers.
@@ -23,6 +23,8 @@ Orders LeadFerret uses forms for customers to request information, make suggesti
 The financial data we collect, such as credit card information, is used to bill you for the products, services and/or information in which you intend to purchase. We also use the information to check your qualifications with respect to navigating throughout the LeadFerret Web site. This information will only be used to fulfill your order(s) and will not be shared with anyone outside of LeadFerret.
 
 Security LeadFerret uses industry standard efforts to safeguard the confidentiality of your information, such as firewalls and Secure Socket Layers.
+
+The Use of Cookies Third party vendors may use cookies to serve ads based on prior visits to this website. No personally identifiable information is collected by these cookies. You can opt out of third party vendor’s cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Notification of Changes We are constantly looking for better ways to help protect the information of our clients. We reserve the right at our discretion to make changes to this policy at any time. If we decide to change our privacy policy, we will post those changes to this privacy statement and possibly other places we deem appropriate so our visitors and clients are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected and/or the current privacy policy at our discretion.
 
