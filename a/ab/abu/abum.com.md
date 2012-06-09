@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abum.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121051id_/http%3A//www.abum.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abum.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610012311id_/http%3A//www.abum.com/privacy-notice) for the most accurate reproduction.*
 
 # Interesting and funny videos that make you laugh at work or at home
 
