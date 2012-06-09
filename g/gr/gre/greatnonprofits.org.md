@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227220645id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatnonprofits.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609125553id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.*
 
 # GreatNonprofits: Find non-profits and charities to review, donate, or volunteer.
 
