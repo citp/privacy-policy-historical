@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125102030id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609125942id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indybay
 
@@ -54,8 +54,8 @@ If the SF Bay Area IMC becomes aware that a user's personal information provided
 To browse or publish to Indybay using SSL encryption (HTTPS), please use <https://www.indybay.org/>.
 
 Users should verify that the site they are reading or publishing to really is Indybay by verifying the site's SSL certificate fingerprints in their browser:  
-SHA1 fingerprint 72:2A:38:2A:D9:68:0A:43:01:09:28:4E:FF:38:36:49:CF:03:3F:BB  
-MD5 fingerprint A7:ED:5E:90:B7:FA:36:50:F5:E8:24:F4:5B:E7:77:52
+SHA-1 fingerprint C3 5D 60 CE 76 28 8C 83 29 F8 48 B2 5C E3 04 C0 F9 63 9E 13  
+SHA-256 fingerprint F2 F1 75 DB 4F 5C 63 CE D2 68 E7 73 17 E5 ED E0 65 3D D6 EB 91 7E 50 14 1E 45 FF 56 05 73 62 06
 
 #### UPDATES TO THE PRIVACY POLICY
 
