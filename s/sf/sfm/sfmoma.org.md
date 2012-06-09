@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201102947id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609234753id_/http%3A//www.sfmoma.org/about/about_site/privacy_policy) for the most accurate reproduction.*
 
 # SFMOMA | About Us | About SFMOMA | About the Site | SFMOMA Privacy Policy
 
@@ -18,7 +18,7 @@ The San Francisco Museum of Modern Art (" **SFMOMA** ") values the privacy of ou
 
 SFMOMA uses the information that we collect to provide various features and services to our Users, members, and visitors.
 
-SFMOMA may use all of the information that we collect from our Users to understand usage trends and preferences, to improve the way the SFMOMA Website works and looks, to improve our promotional efforts, membership drives, and fundraising efforts, and to create new features and functionality.
+SFMOMA may use all of the information that we collect from our Users to understand usage trends and preferences, to improve the way the SFMOMA Website and SFMOMA apps work and look, to improve our promotional efforts, membership drives, and fundraising efforts, and to create new features and functionality.
 
 SFMOMA may use automatically collected information and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the SFMOMA Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our promotional efforts, membership drives, and fundraising efforts; and (d) monitor aggregate usage metrics such as total number of visitors and pages viewed.
 
