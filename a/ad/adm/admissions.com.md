@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissions.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202080046id_/http%3A//www.fastweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissions.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609074333id_/http%3A//www.fastweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fastweb
 
