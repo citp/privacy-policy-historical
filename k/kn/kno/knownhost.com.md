@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228115850id_/http%3A//www.knownhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609035443id_/http%3A//www.knownhost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KnownHost
 
@@ -37,6 +37,8 @@ We will not provide any personally identifiable information about you to any oth
 **We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.**
 
 
+
+We will never disclose your data to any third party unless we are required to do so by court or administrative order. Each party retains all right, title and interest in its data, information and intellectual property rights, and nothing in this Agreement is intended to transfer or diminish such rights. We claim no ownership or control over any content submitted, posted or displayed by you on or through our services.
 
 ##### Use of Non-Personally Identifiable Information
 
