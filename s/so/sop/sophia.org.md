@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophia.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121216id_/http%3A//www.sophia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophia.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609070523id_/http%3A//www.sophia.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ _The terms “Sophia,” “we,” “us,” and “our”_ refer to Sophia Lear
 
 _References to “this Site”_ refer to the Web site owned by Sophia and located at Sophia.org.
 
-_The term User Generated Content_ refers to post learning packets, comments, questions, tests, notes, tutoring packets and other educational materials you post on or through this Site.
+_The term User Generated Content_ refers to post tutorials, comments, questions, tests, notes, tutorials and other educational materials you post on or through this Site.
 
 ## What Information Is Collected on this Site and How is it Used?
 
