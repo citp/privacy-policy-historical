@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siteglimpse.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114110158id_/http%3A//www.siteglimpse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteglimpse.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609082000id_/http%3A//www.siteglimpse.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-##  1\. What information do we collect?
+##  1\. What information do we collect? 
 
 **1.1** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
@@ -10,7 +10,7 @@
 
 **1.3** Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-##  2\. What do we use your information for?
+##  2\. What do we use your information for? 
 
 **2.1** Any of the information we collect from you may be used in one of the following ways:
 
@@ -23,7 +23,7 @@
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-##  3\. Do we use cookies?
+##  3\. Do we use cookies? 
 
 **3.1** Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
@@ -61,10 +61,8 @@ This policy was last modified on 8/07/2011
 
 ##  11\. Contacting Us
 
-**11.1** If there are any questions regarding this privacy policy you may contact us using the information below.
+**11.1** If there are any questions regarding this privacy policy you may [**contact us**](https://web.archive.org/Contact).
 
-[Contact Us](https://web.archive.org/web/20111114110158id_/http%3A//www.siteglimpse.com/Contact.aspx)
+**Site Disclaimer:**
 
-* * *
-
-**Site Disclaimer:** All trademarks are the property of their respective owners. The facts, figures, reviews, records, stats, and other data presented on this page is for suggestion and information purposes only. WebsiteDescription.com is not responsible for any incorrect or incomplete information. SiteGlimpse.com does not take responsibility for any user-reviews of websites inside its resource and reserves the right to keep or remove those. It is highly recommended that you review all the data for accuracy.
+All trademarks are the property of their respective owners. The facts, figures, reviews, records, stats, and other data presented on this page is for suggestion and information purposes only. SiteGlimpse.com is not responsible for any incorrect or incomplete information. SiteGlimpse.com does not take responsibility for any user-reviews of websites inside its resource and reserves the right to keep or remove those. It is highly recommended that you review all the data for accuracy.
