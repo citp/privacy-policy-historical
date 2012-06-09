@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112050304id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609172627id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy (The Deal)
+
+| 
 
 ## PRIVACY POLICY
 
@@ -25,7 +27,7 @@ The Web site uses advertising servers developed by third parties to display ads.
 
 We also contract with Third Party Vendors or to provide us with a data collection and reporting services regarding our users' activities on the Web site. When you visit the Web site, they may use cookies on our behalf and may receive anonymous information about your browsing activity on the Web site. We do not share any personally identifiable information (such as name, address, email address, credit card number, etc.) about our users these vendors. Further, they are contractually prohibited from using, in any manner, information obtained in the course of providing these services to The Deal.
 
- **IP Addresses and Log Files:** The Web site also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet.) The Web site does not log IP addresses to track your session, nor does it link IP addresses to anything personally identifiable.
+ **IP Addresses and Log Files:** The Web site also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet.)
 
  **What does the Web site do with the information it gathers and/or tracks?**
 
@@ -49,6 +51,24 @@ The Deal may also share your personal information if required by legal process, 
 
 Children are not eligible to use the Web site's services, and we ask that minors not submit any personal information to us. If you are under 18 years of age, you may use this service only with the participation of a parent or guardian. 
 
+**USER GENERATED CONTENT**
+
+Readers may add their opinions, information, commentary and other user-generated content on articles and topics addressed on the Web site. The Deal does not review every posting and is not responsible for nor does it endorse such content. By posting on this Web site, you agree to, and represent and warrant, the following:
+
+  
+
+
+  1. You have all legal and proprietary rights to post the content;
+  2. You agree that in posting your content, you are transferring to The Deal a non-exclusive, perpetual, irrevocable, royalty-free, transferable, worldwide license to use, distribute, post, publish, copy, edit and adapt your content, and to share those rights with other parties;
+  3. You will not post material that is illegal, libelous, defamatory, obscene or offensive in terms of race, national origin, ethnicity, gender, religion, age, disability or sexual orientation;
+  4. You will not use this service for commercial or illegal purposes; 
+  5. The Deal retains the right at any time and without notice to remove user content from our site
+
+
+
 **Miscellaneous**
 
 From time to time The Deal may review and update this policy.
+
+|   
+---|---|---
