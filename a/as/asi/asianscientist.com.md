@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asianscientist.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005237id_/http%3A//www.asianscientist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianscientist.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609054251id_/http%3A//www.asianscientist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Asian Scientist Magazine | Asian Science, Medicine and Technology News Updates
+# Privacy Policy | Asian Scientist Magazine | Science, Technology and Medicine News Updates From Asia
 
 AsianScientist.com collects non-personally identifiable information, such as overall statistics of its readership and visitor traffic, to improve the design and content of our site. However, the Site has no interest in personally identifying its users. 
 
@@ -20,9 +20,9 @@ For example, Google, as a third-party vendor, uses cookies to serve ads on Asian
 
 You can also change your privacy preferences regarding the use of cookies and similar technologies through your browser, or use an anonymous web browsing service such as Anonymizer.com which logs visits from the anonymizing service instead of the users’ own computers. 
 
-See also: ****
+**See also:**
 
-**
+ **
   * [About AsianScientist.com](http://www.asianscientist.com/about/ "About Us")
   * [Contact Us](http://www.asianscientist.com/contact-us/ "Contact Us")
   * [RSS Feed](http://asianscientist.com/feed/ "RSS Feed")
