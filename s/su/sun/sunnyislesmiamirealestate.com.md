@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113523id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609022400id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
 
 # Sunny Realty Privacy Statement
 
@@ -48,4 +48,4 @@ North Miami Beach, FL 33160
 
 **General Feedback:** [ info@SunnyRealty.com](mailto:info@SunnyRealty.com)
 
-Effective Date: 12/31/2011 
+Effective Date: 6/8/2012 
