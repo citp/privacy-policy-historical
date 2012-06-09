@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aigdirect.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025618id_/http%3A//www.aigdirect.com/x532.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aigdirect.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609101914id_/http%3A//www.aigdirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AIG Direct
 
@@ -57,7 +57,9 @@ We may share information under the following circumstances:
 
 • when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, or
 
-• if Matrix Direct is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information We may share information with other companies to offer customers other financial products and financial services that may be of interest to them. However, you have the right to tell us that you do not want us to share any information with these companies. This right is known as the right to “opt out.” You may opt out at any time by sending us a written request to the address below. Even if you opt out we may still disclose information as allowed or required by law. We will not share information with anyone else unless • we have the customer’s permission, or
+• if Matrix Direct is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information We may share information with other companies to offer customers other financial products and financial services that may be of interest to them. However, you have the right to tell us that you do not want us to share any information with these companies. This right is known as the right to “opt out.” You may opt out at any time by sending us a written request to the address below. Even if you opt out we may still disclose information as allowed or required by law. We will not share information with anyone else unless
+
+• we have the customer’s permission, or
 
 • we are allowed or required by law to disclose it.
 
@@ -114,6 +116,8 @@ A cookie is a piece of data stored on the user's computer tied to information ab
 How Do Third Party Cookies and Action Tags Work?
 
 Our site uses a service that collects data remotely by using "web beacons" or tags embedded in our site's content. The data we collect includes which operating system and browser you use, how you navigate to and through our site, and how long you stay on our web pages. This information is anonymous and does not include your name, email address, or any other contact information. We share this information with affiliated companies and with our third party vendor, WebSideStory. WebSideStory gives us reports of this aggregated, anonymous data. We use this data to improve our site by responding to our users' interests and providing more relevant and useful information. To learn more about WebSideStory's privacy standards and use of web beacons, please visit: http://www.websidestory.com/privacy/privacy-policy.html.
+
+We also use a third party, Fetchback, for retargeting advertisements to users of our site. We do not link to any personal information you provide to us through the site. To opt out of retargeting advertisements by Fetchback, please visit the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "Opt Out of Fetchback Retargeting Advertisements").
 
 The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our Privacy Privacy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
 
