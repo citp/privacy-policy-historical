@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traders.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126075003id_/http%3A//www.traders.com/index.php/component/content/article/2-uncategorised/47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traders.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609113859id_/http%3A//www.traders.com/index.php/component/content/article/2-uncategorised/47-traderscom-privacy-statement) for the most accurate reproduction.*
 
 # Traders.com
 
