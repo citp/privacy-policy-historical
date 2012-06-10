@@ -1,113 +1,91 @@
-> *The following text is extracted and transformed from the beso.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227030002id_/http%3A//www.beso.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beso.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610022327id_/http%3A//www.beso.com/beso-privacy-policy) for the most accurate reproduction.*
 
-# beso - Privacy Policy
+# Beso - Privacy Policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.beso.com&sealid=102)
+[Home ](https://web.archive.org/): Beso Privacy Policy 
 
-beso.com ("beso") operates an online shopping Web site and provides other services ("Services") designed to deliver the best possible online shopping experience to you, our users. We are committed to protecting the privacy and security of the information we may gather about you, and we appreciate your trust that we will use and share that information carefully and sensibly.
+Effective Date & Last Modified April, 24, 2012.
 
-All information you provide to beso via its website(s), or otherwise in connection with our Services, will be transmitted to, held and processed by us as described in this Privacy Policy. beso is a company incorporated in the United States of America. Accordingly, information submitted by you to beso will be transmitted to, held and processed in the USA. You should be aware that the laws governing data protection in the USA are not the same as those of European or other countries.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
-This Privacy Policy describes our practices concerning your privacy. Although this Privacy Policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our Network, shopping at participating merchants, or otherwise interacting with beso's practices so that you can make informed decisions. By accepting the User Agreement, using beso, shopping at participating merchants, or otherwise interacting with beso, you are consenting to the beso practices, including the use and disclosure of any personally identifiable information you have shared with us, as described in this Privacy Policy.
+**INTRODUCTION**
 
-**A SPECIAL NOTE ABOUT CHILDREN**
+This Privacy Policy tells you the types of information we collect when you use our Sites or Services, how we use that information, and the instances in which we share your information. 
 
-beso is not designed or intended for use by children under 13, although participating merchants on our Web site may offer children's products for purchase by adults. If you are under 18, you should use beso only with involvement of a parent or guardian. Children under 13 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it.
+Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopzilla.com, BizRate.com, Beso.com ("Sites"), and provides other online services ("Services"). As we are based in the United States of America, your information will be transmitted to, held and processed by us there in accordance with this Privacy Policy. 
 
-**ANTI-SPAM POLICY**
+**SUMMARY OF KEY PRINCIPLES**
 
-beso is 100% opposed to unsolicited commercial email ("spam"). We do not send emails to anyone without permission and we do not sell or provide email addresses to any unauthorized third party. If you receive any unsolicited emails from spammers, please be assured that beso did not provide your email address to such parties.
+We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy. Of course, you should read the terms of our full Privacy Policy.
 
-This does not mean that we can prevent spam from happening on the Internet. Unfortunately, spammers obtain email addresses in a number of devious ways, including when you respond and ask to be taken off a spam email list, and in some cases by just generating emails to millions of random email addresses in the hopes of getting a few "live" ones. Please be assured that at beso we hate spam as much as you do.
+  * We typically collect two kinds of information about you: (a) information that you provide that personally identifies you (e.g., full name or phone number); and (b) information that does not personally identify you (e.g., your IP address or type of browser); 
+  * This information is transmitted to, held and processed by us in the United States of America; 
+  * We typically use this information to provide you with our website and related services, and to produce reports and data about online shopping; 
+  * We may disclose this information to authorized third parties including our merchants, advertising and promotional partners and third party service providers for these purposes; 
+  * Through the use of "cookies," we work with and permit advertising networks to collect anonymous information about you to send you their ads and use the same information to send you our ads (see section III below); 
+  * You may at any time opt-out of certain activities as set out below (see section VI); 
+  * We encrypt any information you input using Secure Sockets Layer (SSL) software and take reasonable security measures to safeguard information; 
+  * If you register with us, you have the ability to update or correct the information you previously provided via the account section; 
+  * If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here](http://about.shopzilla.com/contact-us/site-questions); 
+  * Our websites and our services are not designed or intended for use by children under 13; and 
+  * This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate. 
 
-All that said, if you believe that you have gotten unsolicited email from us, [click here]() to contact us and we will investigate. Please be assured that we strive not to contact anyone without permission, and if you prefer not to receive any further communications from us, just tell us and we'll try to make sure you never hear from us again.
 
-**WHAT PERSONAL INFORMATION DOES beso GATHER?**
 
-The information we learn from shoppers helps us personalize and continually improve your shopping experience at beso and our participating merchants. Here are the general types of information we gather.
+  1. **WHAT INFORMATION DO WE COLLECT?**
 
- **Information You Give Us**
+We collect two kinds of information related to you: (a) Personally Identifiable Information ("PII"); and (b) Non-Personally Identifiable Information ("Non-PII").
 
-We receive and store any information you provide to us when you become a beso Member, submit a review or survey, communicate by email, telephone or physical mail with our customer service, or otherwise interact with us. Such information may include your name, address, email address, shopping interests and preferences, birthday, hometown, transaction history, and other personal data. You can choose not to provide certain information, but then you might not be able to take advantage of certain useful beso features.
+    1. **Personally Identifiable Information:** PII includes any information that identifies you as person. We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Sites such as a review, survey or promotion. You may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Sites or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Sites.
+    2. **Non-Personally Identifiable Information:** Non-PII is any information that does not identify you as a person including PII which has been rendered anonymous. We obtain non-PII either separately or together with your PII as described above. We collect certain non-PII from you when you access our Sites including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and how you use our Sites such as the web pages you visit, and the duration of your visits. 
+  2. **HOW WE USE & SHARE THE INFORMATION COLLECTED **
 
- **Information Gathered Automatically**
+PII and Non-PII is used to provide, or improve, our Sites and Services to you and to carry out your requests, respond to your inquiries, better serve you and understand your needs, or is used in other ways naturally associated with the circumstances in which you provided the information. 
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and "clear gifs" to obtain certain types of information when your Web browser accesses beso and our participating merchants' sites.
+We may disclose PII and Non-PII to: 
 
-Briefly, "cookies" are small files that we transfer to your computer's hard drive or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you, such as recognizing you as a beso member. "Clear gifs" are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of Web users or to let us know if you have opened an email that we sent you.
+    1. our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc; 
+    2. participating sponsors to a program or promotion you enter through our Sites or Services; 
+    3. our parent company, subsidiaries or other affiliated companies ("affiliated companies") for operational, marketing and promotional purposes; 
+    4. co-promotional partners and others with whom we have marketing or other relationships ;
+    5. participating merchants where you consent at the time you submit PII to us when using the interactive features of our Sites such as surveys and reviews concerning our participating merchants; and
+    6. our other users where you choose to publicly post reviews, comments or other information relating to products or services, communicate with other users via public forums (e.g., forums, message boards, bulletin boards, etc.).
 
-Examples of the information we collect and analyze in this manner include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your behavior on our Web site and related Services, including the products and merchants you view or searched for, as well as the URL you come from and go to next (whether this URL is on our site or not); cookie number; and participating merchants you visit. The cookies and clear gifs that we use do not contain and are not tied to personally identifiable information about you.
+In addition, we use non-PII to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities (see "Preference Based Advertising" below). We may use your non-PII by itself or aggregate it with information we have obtained from others to produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. 
 
-You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our Web site.
+  3. **COOKIES AND PREFERENCE BASED ADVERTISING**
+    1. **Cookies and Web Beacons:** We and the third parties we authorize automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. So, for example, our cookies may allow us to show you the past products you have searched for on our Sites. **It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to PII about you.**
 
- **Third Party Advertising**
+You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, some elements of our Sites will not function properly or be available to you. 
 
-We work with third parties, including advertising companies and website analysis firms, who use cookies and clear gifs to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit, or to conduct market research and website analysis. In addition, these third party advertising companies may use web beacons to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie, and to learn which banner ads bring users to our web site. To opt out of this third party advertising tracking, please [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+    2. **Preference Based Advertising:** We also work with and permit certain third parties, including advertising networks and website analysis firms, to place cookies on your computer/browser when you visit our Sites. These third party cookies are used to gather non-PII about your activities on our Sites and third party sites to serve you with advertisements while you are on third party sites ("Third-Party Ads"). If you do not wish to participate in this activity, please [click here](http://www.aboutads.info/choices/) to opt-out. 
 
-**DOES beso SHARE THE INFORMATION IT GATHERS?**
+Some important notes: (1) the opt-out tools for Third-Party Ads include all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with; (2) opting out of Our Ads does not automatically serve as an opt-out from Third-Party Ads - the same is true the other way around. To opt-out of Our Ads and Third-Party Ads, you must use each respective opt-out tool above; (3) the opt-out tools for both Our Ads and Third-Party Ads rely on cookies to ensure that your non-PII is not used for online advertising purposes ("Opt-out Cookies"). Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the relevant opt-out tasks again; and (4) the features of your internet browser and/or certain add-on software may allow you to block or limit the use of cookies for preference based advertising and other purposes. We cannot, however, promise that our Sites will work well or be compatible with these alternative methods of blocking or limiting the use of cookies. 
 
-Information about beso shoppers and other users is an important part of our business, and we take steps to maintain the privacy and security of such information against unauthorized access. We generally use such information for such purposes as customizing future shopping and savings opportunities for you, improving our Services, and communicating with you if you have authorized such communication. In an effort to serve you better and improve your online shopping experiences, we may also share such information in a responsible manner as described below.
+  4. **SALE OF BUSINESS AND DISCLOSURE BY LAW**
+    1. **Business Transactions:** We may disclose PII and Non-PII held by us : (a) to a prospective seller or actual seller of any business or assets we acquire; (b) if all or any of our assets are acquired by a third party, in which case, PII and Non-PII may be one of the transferred assets.
+    2. **Required disclosures :** We may disclose and use any PII or non-PII if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Sites, or other users; or (d) in an emergency to protect the health and safety of our Sites' s users or the general public.
+  5. **SECURITY OF INFORMATION**
 
- **Aggregated Research Data**
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location in the US, firewall protection, controlled access and encryption technology to protect your data. Please be advised, however, that while we strive to protect your PII, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your PII. In the unfortunate event that your personally identifiable information is compromised, we will notify you by e-mail to the last e-mail address you have provided us as soon as feasible under the circumstances (delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.) 
 
-The information collected from online surveys and reviews is used to develop ratings of, and research for, participating merchants, as well as product reviews and ratings. Our research team produces research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. Such information and data is based upon aggregated, anonymous information about millions of online shoppers and does not include personally identifiable information about individuals.
+  6. **YOUR OPTIONS & OPT-OUTS **
+    1. **What Information Can I Access?** If you register as a Beso member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Also, if you wish, you can delete your membership account entirely although we may retain certain information in limited circumstances - e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/terms-of-use.html). Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our "back-up" systems) and certain legal constraints.
+    2. **What Choices Do I Have (Opt-Out)?** You have many choices regarding how we use information about you, including: (1) To stop our emails, [click here](); (2) To opt-out of preference-based ads, [click here](http://www.shopzilla.com/ad_retarget_global_opt_out); (3) To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.com/contact-us/site-questions); and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services.
+    3. **You May Contact Us With Questions:** If you have any questions or concerns about privacy at Beso or Shopzilla, Inc, please contact us by [clicking here]().
+  7. **CHILDREN**
 
- **Agents**
+As neither our Sites nor our Services are intended for use by children under 13, children under 13 may not submit any PII to us. Also, if you are under 18, you should use Beso and submit information only with involvement of a parent or guardian. 
 
-From time to time, we employ other companies and individuals to perform various functions on our behalf. Examples include sending postal mail and e-mail, analyzing shopper data, and providing other data and services. In such instances, they may have access to personal information needed to perform their functions, but will be prohibited from using it for other purposes. We may at various times also use a web measurement service, which may employ "cookies" and/or software code embedded in our web pages in order to evaluate key website metrics. Any such web measurement service does not collect any personally identifiable information about our visitors unless they voluntarily provide it, and is prohibited from using any such information except to assist us in evaluating user behavior relating to our Web site.
+  8. **REVISIONS**
 
- **Special Offers**
+This Privacy Policy may change from time to time to reflect our changing business practices. We will provide you notice of any such changes by posting the new policy on our Sites or by email if the changes are material. 
 
-Sometimes we may send email newsletters or special offers to selected groups of beso shoppers who have chosen to receive email on behalf of participating merchants or other businesses. When we do this, we do not give that merchant or business your name or e-mail address.
+  9. **SOLE STATEMENT**
 
-If you no longer wish to receive these newsletters or special offers, you can opt-out by notifying us by [clicking here]() or by mail at the address below.
+This Privacy Policy and our Terms of Use , both as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
 
- **Business Transactions**
 
-As we continue to develop our business, we may share information with affiliates and participate in corporate transactions such as mergers and acquisitions, and it is possible that another company may acquire beso or its business assets in the future. In such cases, user information may be shared with the acquirer and/or other reputable parties involved in those transactions. Users will be notified via email or a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information in such a transaction. We provide you with 30 days notice to allow you the opportunity to notify beso if you do not wish such information to be shared by notifying us by [clicking here]().
 
- **Protection of beso and Others**
 
-We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our User Agreement and other agreements; assist in fraud protection or investigation; or protect the rights, property, or security of beso, our users, or others.
-
- **With Your Consent**
-
-Other than as described above, with your consent at the time you submit information to us, we may also share your information with participating merchants where you have shopped from time to time or their agents or other specified parties. Once we share information with your consent with a merchant or other party, the use and protection of that information by the merchant or other party will be subject to the privacy policies or terms of use of that party. You may opt-out of such sharing of your information by declining to provide it or by sending a subsequent opt-out request to us by [clicking here]() or by mail at the address below; however, opting-out may limit our ability to provide you with a specific service.
-
-**PARTICIPATING MERCHANT POLICIES**
-
-Online merchants and others who participate in our Web site and other Services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we cannot be responsible for their actions. We recommend that you always review the privacy policies and terms of use of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-
-**JOINT SERVICES**
-
-In certain areas or features on our Web site or other Services, we may work with a reputable third-party source of specialized information or other content and services to provide you with some information or service ("joint services"). You authorize us to share with such party any information you provide in connection with your use of those joint services, and such party's handling and use of any shared information shall be governed by their own privacy policies and terms of use. You may opt-out of such sharing of your information by declining to provide it or by sending a subsequent opt-out request to us by [clicking here]() or by mail at the address below; however, opting-out may limit our ability to provide you with a specific service. We recommend that you always review the privacy policies and terms of use before you complete any transaction with the provider of any service.
-
-**HOW SECURE IS INFORMATION ABOUT ME?**
-
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location, firewall protection, controlled access and encryption technology to protect your data. While no system is completely foolproof, we take the security of your personal information very seriously, and our security measures are designed to protect that information in a responsible manner.
-
-**WHAT INFORMATION CAN I ACCESS?**
-
-If you register as a beso member, beso gives you access to your registration information for the purpose of viewing and updating that information. You are also entitled to request a copy of any other personal information we hold about you. We may charge a fee for complying with this request. If you become aware that the personal information we hold about you is inaccurate, you may request that we amend it.
-
-**WHAT CHOICES DO I HAVE?**
-
-As discussed above, you can always choose not to provide information, although that might prevent us from personalizing our Services for you or prevent you from taking advantage of certain useful beso features.
-
-If you have registered as a member, you can add or update your registration information (for instance, if your name, email address or zip code changes), or delete your membership account entirely, at any time by visiting the Your Account area.
-
-We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/terms-of-use.html). Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems.
-
-**EMAIL POLICIES**
-
-From time to time, beso may send newsletters and other email to members and others who have agreed to be contacted by beso. You can always choose not to receive email from beso. Each of our email messages contains a link at the bottom of the email for the purpose of adjusting your email subscription preferences or to be removed from our mailing list. (If you do not want to receive notice of changes to our User Agreement and other legal notices from us, such as updates to this Privacy Policy, those notices will still govern your use of beso, and it is your responsibility to review them for changes.)
-
-**PRIVACY QUESTIONS?**
-
-If you have any questions or concerns about privacy at beso, please contact us at by [clicking here](), and we will try to answer your questions or otherwise resolve the matter to your satisfaction. Or, if you prefer, you may contact us in writing at beso.com, 1025 Prospect St, Suite 300, La Jolla, CA 92037.
-
-**REVISIONS**
-
-Your contact with beso and use of our Web site and other Services are subject to this Privacy Notice. Since our business changes constantly, this Privacy Policy will also change from time to time. Users will be notified via email or a prominent notice on our Web site for 30 days prior to the effective date of any material changes to this Privacy Policy. We provide you with 30 days notice to allow you the opportunity to notify beso if you do not wish your information to be subject to the proposed changes to this Privacy Policy. You should also check for recent changes on our Web site whenever you visit our Web site or use our other Services.
-
-**Effective Date: Privacy Policy last modified July 22, 2009**
+**© 2012 Shopzilla, Inc.**
