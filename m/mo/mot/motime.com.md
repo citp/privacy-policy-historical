@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231110501id_/http%3A//www.motime.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motime.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610181934id_/http%3A//www.motime.com/help/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -33,8 +33,9 @@ The mechanisms we have implemented to protect your Personal Information.
   **Your California Privacy Rights.** If you are a resident of the State of California, under the California Civil Code, you have the right to request information on how to exercise your disclosure choice options from companies conducting business in California. If you are a California resident and wish to request information from us about how to exercise your third party disclosure choices, you must send us a request for information indicating your preference as to how you would like us to respond to your request (i.e., e-mail or postal mail). To request such information, either contact us via electronic form at <http://www.motime.com/help/contactus/> or you may contact us via postal mail at:
 
  Motime - Privacy Administrator   
-P.O Box 297  
-New York, NY 10018-9998  
+P.O Box 436  
+New York, NY  
+10156  
 Attn: Your California Privacy Rights
 
  All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and that must also be clearly stated on the actual request. For all requests, please include your first and last name, street address, city, state and zip code. (Your street address is optional if you wish to receive a response to your request via e-mail, but please include your zip code for our record-keeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, notices that are illegible or that do not have complete information.
