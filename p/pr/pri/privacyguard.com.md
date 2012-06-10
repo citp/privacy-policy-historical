@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225205133id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610233244id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PrivacyGuard
 
