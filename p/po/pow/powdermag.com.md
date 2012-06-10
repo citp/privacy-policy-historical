@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powdermag.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212002313id_/http%3A//www.powdermag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powdermag.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610182516id_/http%3A//www.powdermag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyPowder Magazine | Powder Magazine
+# Privacy Policy | Powder.com
 
   
 
