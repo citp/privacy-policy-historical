@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveoffice.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213062731id_/http%3A//www.liveoffice.com/policy/liveoffice-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoffice.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610181347id_/http%3A//www.liveoffice.com/policy/liveoffice-privacy-statement) for the most accurate reproduction.*
 
 # LiveOffice Privacy Statement | LiveOffice
 
