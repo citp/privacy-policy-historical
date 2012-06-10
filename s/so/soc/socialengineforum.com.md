@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialengineforum.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212081051id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialengineforum.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610133431id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,5 +62,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us at [privacy@socialengineforum.com](mailto:privacy@socialengineforum.com).
 
-DMCA - This site does not store downloadable files on its servers. All attachments are remotely uploading to other external sites and servers  
-We only allows users to link downloadable files which are on third party sites and servers. Nulled materials are not for commercial usage
+All the resources listed here are just for testing purpose and they shouldn't be used at any commercial environment without a valid license.  
+Those are for users who wants to try them before buy. Help the developer to build it better by purchasing them from original authors.
