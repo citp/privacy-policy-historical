@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230064242id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610111527id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - StampWantsWiki
 
 ### From StampWantsWiki
+
+(Redirected from [Privacy policy](https://web.archive.org/w/index.php?title=Privacy_policy&redirect=no "Privacy policy"))
 
 This privacy policy sets out how bidStart uses and protects any information that you give bidStart when you use this website. 
 
