@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202070721id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610225037id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Urban Daily
 
@@ -12,10 +12,13 @@ Please read this Privacy Policy carefully. In addition, please review the Terms 
 
 Unless specifically stated otherwise, this Privacy Policy applies to information collected on the Company Sites, which also may be governed by separate or additional policies and does not apply to information about you collected by our affiliated providers, third party web sites (e.g., ad serving and tracking services), applications or offerings linked to or otherwise accessible from the Company Sites. The information collected or received by such affiliated providers and third parties is subject to their own respective privacy policies, which we encourage you to review. We are not responsible for compliance with other websites’ privacy policies or practices.
 
-The Company Sites are not directed to children under the age of thirteen (13). In compliance with the Children’s Online Privacy Protection Act (”COPPA”), we use reasonable commercial efforts to adhere to the prohibition on the collection of personal information online from children under the age of thirteen (13) without first obtaining verifiable parental consent. At a minimum, the Company Sites prohibit registration by, and will not knowingly collect personally identifiable information from, anyone under the age of thirteen (13). Company Site use and membership is void where prohibited by law.
+The Company Sites are not directed to children under the age of thirteen (13). In compliance with the Children’s Online Privacy Protection Act (”COPPA”), we use reasonable commercial efforts to adhere to the prohibition on the collection of personal information online from children under the age of thirteen (13) without first obtaining verifiable parental consent. At a minimum, the Company Sites prohibit registration by, and will not knowingly collect personally identifiable information from, anyone under the age of thirteen (13). Company Site use and membership is void where prohibited by law.  
+  
+
 
 ## INFORMATION WE COLLECT AND HOW WE USE IT
 
+  
 Whether you are a Company Site visitor or a registered member, we take certain steps to protect your information. Collection of information is usually grouped into two categories: Personal Information, which is information that is personally identifiable to a specific member (further defined below), and aggregate information, which is general demographic information that does not identify any individual member. We may use or disclose aggregate information for any purpose.
 
 The Company adheres to the Self-Regulatory Principles for Online Behavioral Advertising (the “Principles”), developed by leading industry associations to apply consumer-friendly standards to online behavioral advertising across the Internet.  To learn more about the Principles, please go to [www.aboutads.info](http://www.aboutads.info/).
