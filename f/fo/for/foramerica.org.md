@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foramerica.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210174427id_/http%3A//www.foramerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foramerica.org privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610155349id_/http%3A//www.foramerica.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# America, Inc - Privacy Policy
 
 This site collects names, addresses, phone numbers and e-mail addresses for the purpose of placing interested visitors in our database, through which they may receive information about America, Inc., breaking news or important events.
 
