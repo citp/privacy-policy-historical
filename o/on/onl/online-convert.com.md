@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202040743id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611001531id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy of online-convert.com
 
@@ -30,8 +30,12 @@ When users upload files to be converted online-convert.com stores those files on
 
 ## 7\. Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 ## 8\. Closing your account
 
 In order to close your account and to delete your personal data at online-convert.com, please [Login](http://www.online-convert.com/login), go to the user dashboard and select the option "Close account". 
+
+## 9\. Cookies and Web Beacons
+
+We do use cookies to store information, such as your personal preferences when you visit our site. This includes fro example the ability to login to some of our features, such as premium services. We also use third party advertisements on online-convert.com. Our advertising partners include Google Adsense. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
