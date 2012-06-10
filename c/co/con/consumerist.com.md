@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211122915id_/http%3A//consumerist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610180224id_/http%3A//consumerist.com/privacy-policy) for the most accurate reproduction.*
 
 # Consumer Media LLC Privacy Policy - The Consumerist
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to the Consumerist web site (located at [www.consume
 
 Consumer Media is a non-profit organization and an affiliate of Consumers Union of United States, Inc. ("Consumers Union"), the independent, non-profit consumer advocacy and testing organization, and publisher of Consumer Reports, whose mission is to work for a fair, just and safe marketplace for consumers and to empower consumers. To maintain our independence and impartiality, Consumer Media, like Consumers Union, accepts no outside advertising, no freebies, and has no agenda other than the interests of consumers.
 
-Our Privacy Policy describes how we collect and use the information you provide when you visit our Sites. This Privacy Policy is part of the Consumer Media LLC [User Agreement](https://web.archive.org/web/20111211122915id_/http://consumerist.com/privacy-policy/user.html). Please read this Privacy Policy carefully so that you understand our privacy practices.
+Our Privacy Policy describes how we collect and use the information you provide when you visit our Sites. This Privacy Policy is part of the Consumer Media LLC [User Agreement](https://web.archive.org/web/20120610180224id_/http://consumerist.com/privacy-policy/user.html). Please read this Privacy Policy carefully so that you understand our privacy practices.
 
 **INFORMATION WE COLLECT AND HOW WE COLLECT IT**  
 You can visit our Sites and view our content anonymously. For certain activities, we collect information about you.
@@ -68,7 +68,7 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 We reserve the right to share your personally identifiable information with legal authorities if required by law, for example, to comply with a court order or subpoena, or if we determine in our sole discretion that it is necessary to investigate, prevent or take action regarding suspected illegal activities, any violations of our User Agreement, or in connection with any safety or security concerns.
 
-Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (e.g., libels them or infringes their intellectual property rights), then in accordance with our [User Agreement](https://web.archive.org/web/20111211122915id_/http://consumerist.com/privacy-policy/user.html), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
+Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (e.g., libels them or infringes their intellectual property rights), then in accordance with our [User Agreement](https://web.archive.org/web/20120610180224id_/http://consumerist.com/privacy-policy/user.html), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
 
 **SECURITY  
 ** We work to protect your personal information from loss, misuse or unauthorized alteration. We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
