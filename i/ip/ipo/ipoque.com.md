@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipoque.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222034725id_/http%3A//ipoque.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipoque.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610054308id_/http%3A//www.ipoque.com/en/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | ipoque
+# Privacy Statement | ipoque - a Rohde & Schwarz Company
 
 ## Security of your information
 
