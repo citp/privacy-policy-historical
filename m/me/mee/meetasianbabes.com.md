@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118154149id_/http%3A//meetasianbabe.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetasianbabes.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610060412id_/http%3A//meetasianbabe.com/info.php%3Fsel%3D3) for the most accurate reproduction.*
 
 # Terms of Use
 
