@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylemid.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504183517id_/http%3A//www.stylemid.com/Privacy.asp%3FID_AREA%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylemid.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610023029id_/http%3A//www.stylemid.com/Privacy.asp%3FID_AREA%3D7) for the most accurate reproduction.*
 
 # PRIVACY TERMS - Luxury shop online in STYLEMID.COM ITALY
 
