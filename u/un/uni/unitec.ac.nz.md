@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitec.ac.nz privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204143534id_/http%3A//www.unitec.ac.nz/privacy-information.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitec.ac.nz privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610130429id_/http%3A//www.unitec.ac.nz/privacy-information.cfm) for the most accurate reproduction.*
 
 # Privacy Information - Unitec
 
