@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iium.edu.my privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083435id_/http%3A//www.iium.edu.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iium.edu.my privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610225126id_/http%3A//www.iium.edu.my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | International Islamic University Malaysia
+# Privacy Policy | IIUM Website (www2)
 
-[](http://www.iium.edu.my/print/1260 "Display a printer-friendly version of this page.")[](http://www.iium.edu.my/printmail/1260 "Send this page by e-mail.")[](http://www.iium.edu.my/printpdf/1260 "Display a PDF version of this page.")
+[](http://iium.edu.my/print/1260 "Display a printer-friendly version of this page.")[](http://iium.edu.my/printmail/1260 "Send this page by e-mail.")[](http://iium.edu.my/printpdf/1260 "Display a PDF version of this page.")
 
 This page explains our privacy policy which includes the use and protection of any information submitted by visitors. 
 
