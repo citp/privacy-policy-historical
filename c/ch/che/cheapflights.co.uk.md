@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206005833id_/http%3A//www.cheapflights.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610085005id_/http%3A//www.cheapflights.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,7 @@ Please contact us by [email](https://web.archive.org/help/feedback/) if you have
 Or by post at the following address:
 
 Content Editor  
+Cheapflights Media Ltd  
 One Alfred Place   
 London WC1E 7EB  
 United Kingdom
@@ -32,7 +33,7 @@ Cheapflights Media Ltd uses email addresses to send its weekly Travel Deals Aler
 
 We sometimes run competitions with our partners and competition entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. We try to make it very clear when this is the case and we have no responsibility for subsequent use or distribution of email addresses by our partners.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [cheapflights@list.cheapflights.co.uk](mailto:cheapflights@list.cheapflights.co.uk). Alternatively, please visit [www.cheapflights.co.uk/email-newsletter/unsubscribe/](http://www.cheapflights.co.uk/email-newsletter/unsubscribe/) to be removed from future communications.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us via [Feedback](https://web.archive.org/help/feedback/). Alternatively, please visit [Unsubscribe](https://web.archive.org/email-newsletter/unsubscribe/) to be removed from future communications.
 
 The security of your personal information, including your email address and postcode, is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during registration and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100 per cent secure, however. Therefore, though we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -43,7 +44,7 @@ If we decide to change our email practices, we will post those changes to this p
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to our email practices, we will notify you here, by email, and by means of a notice on our home page.
 
  **Access to Personally Identifiable Information  
-** If your email address changes, or if you no longer desire our service, you may correct, update, delete or deactivate your details by making the change on our member information page, the "Update Details" tab which is located in every newsletter, or by visiting the Contact Us page at [www.cheapflights.co.uk/help/contact-us/](http://www.cheapflights.co.uk/help/contact-us/).
+** If your email address changes, or if you no longer desire our service, you may correct, update, delete or deactivate your details by making the change on our member information page, the "Update Details" tab which is located in every newsletter, or by visiting the [Contact Us](http://www.cheapflights.co.uk/help/contact-us/) page.
 
  **Tracking Technologies  
 ** Tracking technologies are set up via the Cheapflights Media Ltd newsletter to monitor open and click performance. Cookies are only used once a user enters the Cheapflights.co.uk website in order to identify, discriminate and count the unique users visiting our website.
@@ -66,6 +67,6 @@ Cheapflights Media Ltd uses cookies which tell us about how users navigate the s
 
  **Widgets**
 
-We use the sharethis widget on this site to allow our users to tell their friends about the site, by allowing them to send a onetime email within the widget, inviting their friend to visit site.  We do not have access to any of the Personal Information collected within this widget.  We also use the sharethis widget to allow users to log into their third party social networking accounts and share a link to Cheapflights.co.uk with their friends.
+We use the share this widget on this site to allow our users to tell their friends about the site, by allowing them to send a onetime email within the widget, inviting their friend to visit site.  We do not have access to any of the Personal Information collected within this widget.  We also use the share this widget to allow users to log into their third party social networking accounts and share a link to Cheapflights.co.uk with their friends.
 
-Last updated: March 2010
+Updated: April 2012
