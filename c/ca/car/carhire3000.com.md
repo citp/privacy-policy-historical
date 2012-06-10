@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227061618id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611003823id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Great Prices on Car Hire Worldwide
 
