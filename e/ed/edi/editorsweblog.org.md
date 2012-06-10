@@ -1,50 +1,35 @@
-> *The following text is extracted and transformed from the editorsweblog.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150724id_/http%3A//www.editorsweblog.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorsweblog.org privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610111914id_/http%3A//www.wan-ifra.org/privacy-policy) for the most accurate reproduction.*
 
-# Editors Weblog: Privacy Policy
+# WAN-IFRA - Privacy Policy
 
-[The World Editors Forum](http://www.worldeditorsforum.org/) is the organisation for Editors within the [World Association of Newspapers](http://www.wan-press.org/) ([www.wan-press.org](http://www.wan-press.org/)).
+### 1\. Data protection
 
-The following discloses the information gathering and dissemination practices for two Web sites: [www.worldeditorsforum.org](http://www.worldeditorsforum.org/) and [www.editorsweblog.org](http://www.editorsweblog.org/). 
+To promote confidence in using our internet products and services, WAN-IFRA wishes to explain what happens with personal data that is gathered there. The following explains what kind of information is collected and how that information is used.
 
-**Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server, to gather statistical data about usage of our Web site and to administer our Web site. 
+### 2\. Collection of data
 
-**Cookies**  
-Our sites use cookies only for the registration form (see below). 
+You can access most pages on the WAN-IFRA website without divulging any information about yourself. In cases where your name, address, or other personal details are required, the website will inform you of this in advance. We store personal data communicated to us in connection with registration for an event, requests for information, or acquiring products or services. However, you can rest assured that we will never sell your personal details to third parties or market this information in any other way without your explicit permission. Personal data collected from forms will be passed on to the responsible WAN-IFRA staff member or the association member concerned.
 
-**Registration Forms**  
-Our sites' registration form requires users to give us contact information (only name, company, duties, e-mail and postal address). Contact information from the registration forms is used to ship information about our company. User contact information is also used to get in touch with users when necessary.
+### 3\. Right to cancel
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+At your request, WAN-IFRA will refrain from using your personal data to contact you and/or delete it. Please submit any such request by e-mail to [customerservice@wan-ifra.org](mailto:customerservice@wan-ifra.org). Data that is essential for order processing or other commercial purposes will not be deleted. Please be advised that, if you cancel, you cannot use our personalised service, as this is linked to your customer data.
 
-**External Links**  
-These sites contain links to other sites. The World Editors Forum ([www.worldeditorsforum.org](http://www.worldeditorsforum.org/)) and the Editors Weblog ([www.editorsweblog.org](http://www.editorsweblog.org/))are not responsible for the privacy practices or the content of such Web sites. 
+### 4\. Cookies
 
-We remind you that our sites seek to provide a forum for your ideas, stories and actions and to connect you to information that will be of use in your work. The issues, and trends we bring forward and the work of others we profile do not necessarily reflect the position or perspective of the two Web sites or their partners.
+WAN-IFRA, and, on our behalf, Nedstat use cookies to generating statistics on the numbers of new visitors and returning visitors. If you would like us not to use cookies, please turn off cookies in your browser. If you accept our cookies, please note that they will remain in your computer for five years unless you delete them.
 
-**Public Forums**  
-These sites will possibly make forums, message boards, Web and e-mail discussions and/or news groups available to its users. Any information disclosed in these areas will become public information. So, you should exercise caution when deciding to disclose your personal information. 
+### 5\. e-Mail newsletters
 
-We do not sell or share site registration information with outside firms or individuals. The World Editors Forum and the Editors Weblog may occasionally send users news and information about the WEF. 
+All that we require for your registration to our e-mail Newsletters "WAN-IFRA News" and "WAN-IFRA Executive News Service" is your e-mail address and (for "WAN-IFRA News") name, which we store and use to send you regular information via e-mail. As described already under item 2, we do not pass on any personal data to third parties. At the end of each newsletter there is a link that you can use at any time to cancel your subscription to our newsletters. Additionally, with a view toward further improving the newsletter offerings, we statistically analyse user and click behaviour in relation to our monthly "WAN-IFRA News".
 
-**Security**  
-These sites have security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+### 6\. Minors
 
-**Choice/Opt-Out**  
-Our sites provide users the opportunity to opt-out of receiving promotional/marketing information from us. 
+Persons under the age of 18 years should not communicate personal data to us without the prior consent of adults authorised to act on their behalf. We do not request, collect, or turn over personal data from minors to third parties.
 
-In any case, you can send e-mail to _pcarsten@wan.asso.fr_   
-You can also send mail to the following postal address:   
-_WEF/WAN, 7 rue Geoffroy Saint Hilaire, 75005 Paris, FRANCE._
+### 7\. Links to other websites
 
-**Data Quality/Access**  
-These sites give users the following options for changing and modifying information previously provided:   
-You can send e-mail to _pcarsten@wan.asso.fr_  
-You can also send mail to the following postal address: 
+The WAN-IFRA web pages contain links to other websites. WAN-IFRA has no influence on the content of outside web pages, nor on the adherence or non-adherence of these websites to data protection regulations.
 
-_7 rue Geoffroy Saint Hilaire, 75005 Paris, FRANCE._
+### 8\. Questions and comments
 
-**Contacting the Web Site **  
-If you have any questions about this privacy statement, the practices of these sites, or your dealings with these Web sites, you can contact: 
-
-_pcarsten@wan.asso.fr_
+For all queries related to data protection, contact WAN-IFRA data protection officer Lewis Johnson.
