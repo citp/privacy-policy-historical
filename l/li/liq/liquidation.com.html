@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liquidation.com privacy policy that was archived on 2011-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217091307id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liquidation.com privacy policy that was archived on 2012-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610225505id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <!-- Insert title & meta info -->
@@ -23,6 +23,10 @@
 
 
 <link rel="stylesheet" type="text/css" href="/bu/css/style.css">
+<link rel="stylesheet" type="text/css" href="/bu/css/jquery.lightbox-0.5.css">
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="/shared/bu/jslib/json2.js"></script>
+<![endif]-->
 <script>
     if(navigator.userAgent.indexOf("MSIE") > -1)
         document.write('<link rel="stylesheet" type="text/css" href="/bu/css/styleIE.css">');
@@ -31,6 +35,7 @@
       <link rel="stylesheet" type="text/css" href="/bu/css/styleIE.css">
 </noscript>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/shared/??bu/jslib/ejs.js,bu/jslib/autoEllipsis.js,bu/js/commons.js,bu/js/invoker.js,bu/js/search.js,bu/js/catogorylist.js,bu/js/customselect.js,bu/js/myAccountList.js,bu/js/tabbedNavManager.js,bu/jslib/jquery.cookie.js"></script>
 
 
@@ -56,6 +61,7 @@
     // custompagename is used by pagetracker in customized parts of Google Analytics.
     var custompagename = '';
     var str = false;
+	_LSI_NORMAL_URL = "http://www.liquidation.com";
 </script>
 
 
@@ -63,7 +69,7 @@
 <img src="/shared/bu/images/btnSprite.gif" style="display:none;">
 <div class="header">
 	<div>
-	    <a href="/"><img src="http://www.liquidation.com/aucimg/banners/0/bnr.gsx.holidaylogo.gif" border="0"></a>
+	    <a class="logo" title="Liquidation.com" href="/"></a>
 
 	    <div class="topMenuContainer">
 	        <div class="topMenuLeft"></div>
@@ -137,8 +143,8 @@
 	            </div>
 	        </div>
 	        <div class="topMenuright"></div>
-	        <a href="http://www.facebook.com/Liquidationcom" target="_blank"><img src="http://www.liquidation.com/aucimg/banners/0/bnr.gsi.facebookHP.png" border="0" style="padding-left: 6px;"></a>
-	        <a href="http://twitter.com/#!/liquidation_com" target="_blank"><img src="http://www.liquidation.com/aucimg/banners/0/bnr.gsj.twitterHP.png" border="0"></a>
+	        <a href="https://www.facebook.com/Liquidationcom" target="_blank"><img src="http://www.liquidation.com/aucimg/banners/0/bnr.gsi.facebookHP.png" border="0" style="padding-left: 6px;"></a>
+	        <a href="https://twitter.com/#!/liquidation_com" target="_blank"><img src="http://www.liquidation.com/aucimg/banners/0/bnr.gsj.twitterHP.png" border="0"></a>
 	    </div>
 	</div>
 	<div style="clear:both;"></div>
@@ -175,199 +181,376 @@
     
    <!-- <div style="clear:both;"></div> -->
     
-    
-    <div class="mainNav" style="margin-top: 0">
-        <div class="mainNavLeft"></div>
-        <div class="mainNavmiddle">
-        	<form id="search" name="search" defaulttext="-- Search --" onsubmit="return validate_search(this);" action="/auction/search" method="POST">
-            <div class="searchContent">
-                <input type="text" class="inputTextClass inputText" id="words" maxlength="100" title="-- Search --" value="-- Search --" allow="undefined" name="words">
-				<div name="category1" class="customselectDiv">
-	                <select id="category1" name="category1" class="">
-	                    <option value=" "> All Categories</option>
+		<div id="old_search_con">
+	<div class="mainNav" style="margin-top:0">
+		<div class="mainNavLeft"></div>
+		<div class="mainNavmiddle">
+			<form id="search" name="search" defaulttext="-- Search --" onsubmit="return validate_search(this);" action="http://www.liquidation.com/auction/search" method="POST">
+				<div class="searchContent">
+					<input type="text" class="inputTextClass inputText" id="words" maxlength="100" title="-- Search --" value="-- Search --" allow="undefined" name="words">
+					<div name="category1" class="customselectDiv">
+						<select id="category1" name="category1" class="">
+							<option value=" ">All Categories</option>
 
-	                </select>
-				</div>
-				<div name="item_condition" class="customselectDiv">
-	                <select id="item_condition" name="item_condition" class="">
-	                    <option value=" "> All Conditions</option>
+						</select>
+					</div>
+					<div name="item_condition" class="customselectDiv">
+						<select id="item_condition" name="item_condition" class="">
+							<option value=" ">All Conditions</option>
+						</select>
+					</div>
+					<div name="location" class="customselectDiv">
+						<select id="location" name="location" class="">
+							<option value="">All Locations </option>
+							<option value="EAST">US - Northeast</option>
+							<option value="MIDWEST">US - Midwest</option>
+							<option value="WEST">US - West</option>
+							<option value="SOUTH">US - South</option>
+							<option value="">----------</option>
+						</select>
+					</div>
 
-	                </select>
+					<input type="button" class="searchBtn" onclick="javascript: validate_search(document.search);">
 				</div>
-				<div name="location" class="customselectDiv">
-	                <select id="location" name="locations" class="">
-	                	<option value="">All Locations </option>
-	                	<option value="EAST">US - Northeast</option>
-                        <option value="MIDWEST">US - Midwest</option>
-                        <option value="WEST">US - West</option>
-                        <option value="SOUTH">US - South</option>
-                        <option value="">----------</option>
-	                </select>
-				</div>
-
-                <input type="button" class="searchBtn" onclick="javascript: validate_search(document.search);">
-			</div>
 			</form>
 			<div class="categoryListLink">
-                <a class="nonJS" href="javascript:void(0);">all categories</a>
-            </div>  
-            <div class="advancedSearchLink">
-                <a class="nonJS" href="javascript:void(0)">Advanced Search</a>
-            </div>
-
-           
-        </div>
-        <div class="mainNavRight"></div>
-    </div>
+				<a class="nonJS" href="javascript:void(0);">all categories</a>
+			</div>
+			<div class="advancedSearchLink">
+				<a class="nonJS" href="javascript:void(0)">Advanced Search</a>
+			</div>
+		</div>
+		<div class="mainNavRight"></div>
+	</div>
 	<div class="categoryList" style="display:none;">
-        <div class="container">
-            <ul class="list">
-                
-            </ul>
-        </div>
-        <div class="bottom"></div>
-    </div>
-    <div class="advancedSearch" style="display:none;">
-		<form id="advSearch" name="advSearch" action="http://www.liquidation.com/auction/search" method="POST">
-		<input type="hidden" value="keyword" name="cmd">
-        <div class="spacer"></div>
-        <div class="container">
-            <div class="containerHeader">
-                <label>Refine Search</label>
-                <div id="closeContainer" style="float: right;">
-                    <span>close</span>
-                    <img style="margin-left: 5px; margin-bottom: -2px;cursor:pointer;width:10px;height:10px;" src="/shared/bu/images/savesearch_closeIcon.gif">
-                </div>
-            </div>
-            <label> Select as few or as many fields you want. (<span>Hint:   selecting more fields will narrow your search</span>)</label>
-            <div class="containerBody" style="float:left;">
-                <div class="col1">
-                    <div style="margin-top: 5px;">Keyword:</div>
-                    <div style="margin-top: 109px;">Unit Price:</div>
-                    <div style="margin-top: 14px;">Lot Price:</div>
-                </div>
-                <div class="col2">
-                    <div class="keywordSearch">
-                        <input type="text" id="adv_words" class="inputText" name="words" maxlength="100" title="-- Search --" value="-- Search --">
-                    </div>
-                    <div class="keywordOption">
-                        <div>
-                            <input id="kyOptTitle" type="radio" value="0" name="descrip">
-                        </div>
-                        <label for="kyOptTitle">Title</label>
-                        <div>
-                            <input type="radio" id="kyOptTitle_Des" value="1" checked="true" name="descrip">
-                        </div>
-                        <label for="kyOptTitle_Des">Title and Description</label>
-                    </div>
-                    <div class="lookClass">
-                        <select id="match" class="customselect">
-                            <option value="3">Any keywords</option>
-                            <option value="1">All keywords</option>
-                            <option value="2">Exact phrase</option>
-                        </select>
+		<div class="container">
+			<ul class="list">
+
+			</ul>
+		</div>
+		<div class="bottom"></div>
+	</div>
+	<div class="advancedSearch" style="display:none;">
+		<form id="advSearch" name="advSearch" action="/auction/search" method="POST">
+			<input type="hidden" value="keyword" name="cmd">
+			<div class="spacer"></div>
+			<div class="container">
+				<div class="containerHeader">
+					<label>Refine Search</label>
+					<div class="closeContainer" style="float: right;">
+						<span>close</span>
+						<img style="margin-left: 5px; margin-bottom: -2px;cursor:pointer;width:10px;height:10px;" src="/shared/bu/images/savesearch_closeIcon.gif">
 					</div>
-                    <div class="lookClass">
-                        <select id="category1" class="customselect" multiple="true" name="category1" pname="categories">
+				</div>
+				<label> Select as few or as many fields you want. (<span>Hint:   selecting more fields will narrow your search</span>)</label>
+				<div class="containerBody" style="float:left;">
+					<div class="col1">
+						<div style="margin-top: 5px;">Keyword:</div>
+						<div style="margin-top: 109px;">Unit Price:</div>
+						<div style="margin-top: 14px;">Lot Price:</div>
+					</div>
+					<div class="col2">
+						<div class="keywordSearch">
+							<input type="text" id="adv_words" class="inputText" name="words" maxlength="100" title="-- Search --" value="-- Search --">
+						</div>
+						<div class="keywordOption">
+							<div>
+								<input id="kyOptTitle" type="radio" value="0" name="descrip">
+							</div>
+							<label for="kyOptTitle">Title</label>
+							<div>
+								<input type="radio" id="kyOptTitle_Des" value="1" checked="true" name="descrip">
+							</div>
+							<label for="kyOptTitle_Des">Title and Description</label>
+						</div>
+						<div class="lookClass">
+							<select id="match" class="customselect" name="match">
+								<option value="3">Any keywords</option>
+								<option value="1">All keywords</option>
+								<option value="2">Exact phrase</option>
+							</select>
+						</div>
+						<div class="lookClass">
+							<select id="adv_category1" class="customselect" multiple="true" name="category1" pname="categories">
 
-                        </select>
-                    </div>
-                    <div class="lookClass">
-                        <select id="location" class="customselect" multiple="true" name="locations">
-                            <option value="">Any Location</option>
-                            <option value="EAST">US - Northeast</option>
-                            <option value="MIDWEST">US - Midwest</option>
-                            <option value="WEST">US - West</option>
-                            <option value="SOUTH">US - South</option>
-                            
-                        </select>
-                    </div>
-                    <div class="limits">
-                        <input type="text" class="inputText" id="startPrice" name="startPrice">
-                        <label>to</label>
-                        <input type="text" class="inputText" id="endPrice" name="endPrice">
-                    </div>
-                    <div class="limits">
-                        <input type="text" class="inputText" id="LotStartPrice" name="LotStartPrice">
-                        <label>to</label>
-                        <input type="text" class="inputText" id="LotEndPrice" name="LotEndPrice">
-                    </div>
-                </div>
-                <div class="col3">
-                    <div>Seller Name:</div>
-                    <div>Auction ID:</div>
-                    <div>Lot Size:</div>
-                    <div>Item Condition:</div>
-                    <div>Shipping Terms:</div>
-                    <div>Auction Type:</div>
-                </div>
-                <div class="col4">
-                    <div class="cell">
-                        <input type="text" id="seller" name="seller" class="inputBox inputText" title="-- Name --" value="-- Name --">
-                    </div>
-                    <div class="cell">
-                        <input type="text" id="auction_id" name="auction_id" class="inputBox inputText" title="-- Number --" value="-- Number --">
-                    </div>
-                    <div class="cell">
-                        <select id="size" class="customselect selectBox" multiple="true" name="size" pname="sizes">
+							</select>
+						</div>
+						<div class="lookClass">
+							<select id="adv_location" class="customselect" multiple="true" name="location">
+								<option value="">Any Location</option>
+								<option value="EAST">US - Northeast</option>
+								<option value="MIDWEST">US - Midwest</option>
+								<option value="WEST">US - West</option>
+								<option value="SOUTH">US - South</option>
 
-                        </select>
-                    </div>
-                    <div class="cell">
-                        <select id="condition" class="customselect selectBox" multiple="true" name="condition" pname="conditions">
+							</select>
+						</div>
+						<div class="limits">
+							<input type="text" class="inputText" id="startPrice" name="startPrice">
+							<label>to</label>
+							<input type="text" class="inputText" id="endPrice" name="endPrice">
+						</div>
+						<div class="limits">
+							<input type="text" class="inputText" id="LotStartPrice" name="LotStartPrice">
+							<label>to</label>
+							<input type="text" class="inputText" id="LotEndPrice" name="LotEndPrice">
+						</div>
+					</div>
+					<div class="col3">
+						<div>Seller Name:</div>
+						<div>Auction ID:</div>
+						<div>Lot Size:</div>
+						<div>Item Condition:</div>
+						<div>Shipping Terms:</div>
+						<div>Auction Type:</div>
+					</div>
+					<div class="col4">
+						<div class="cell">
+							<input type="text" id="seller" name="seller" class="inputBox inputText" title="-- Name --" value="-- Name --">
+						</div>
+						<div class="cell">
+							<input type="text" id="auction_id" name="auction_id" class="inputBox inputText" title="-- Number --" value="-- Number --">
+						</div>
+						<div class="cell">
+							<select id="size" class="customselect selectBox" multiple="true" name="size" pname="sizes">
 
-                        </select>
-                    </div>
-                    <div class="cell">
-                        <select id="shipping_terms" name="shipping_terms" class="customselect selectBox">
-                            <option value="">Select a shipping term</option>
+							</select>
+						</div>
+						<div class="cell">
+							<select id="condition" class="customselect selectBox" multiple="true" name="condition" pname="conditions">
 
-                        </select>
-                    </div>
-                    <div class="cell">
-                        <select id="type" class="customselect selectBox" name="type" multiple="true" pname="types">
-                            
-                        </select>
-                    </div>
-                </div>
-                <div class="std">
-						<span>
+							</select>
+						</div>
+						<div class="cell">
+							<select id="shipping_terms" name="shipping_terms" class="customselect selectBox">
+								<option value="">Select a Shipping Term</option>
+
+							</select>
+						</div>
+						<div class="cell">
+							<select id="type" class="customselect selectBox" name="type" multiple="true" pname="types">
+
+							</select>
+						</div>
+
+					</div>
+					<div class="std">
 						<label for="closeFlag" class="labelClass">Search Closed Auctions:</label>
-						</span>
 						<input type="checkbox" class="chkbox" value="1" name="closeFlag" id="closeFlag">
 					</div>
-            </div>
-            <label>Format your search results</label>
-            <div class="formattingOption">
-                <label class="labelClas">Results Per Page:</label>
-                <div style="width:169px" class="divClass">
-                    <select id="_per_page" name="perPage" class="customselect" style="width:169px">
-                        <option selected="" value="30">30</option>
-                        <option value="50">50</option>
-                        <option value="100">100</option>
-                        <option value="200">200</option>
-                    </select>
-                </div>
-                <label style="margin-left:43px;" class="labelClas">Sort By:</label>
-                <div style="width:185px;margin-left:50px;" class="divClass">
-                    <select id="sort" name="sort" class="customselect" style="width:185px">
-                        <option value="close_time">Ending Date</option>
-                        <option value="auction_title">Title</option>
-                        <option value="number_of_items_per_lot">Quantity</option>
-                        <option value="price">Lot Price</option>
-                        <option value="country_state_code">Location</option>
-                    </select>
-                </div>
-				<input type="submit" onclick="javascript: validate_advSearch(document.advSearch);" class="goButton" value="" name="submit">
 				</div>
-            </div>
+				<label>Format your search results</label>
+				<div class="formattingOption">
+					<label class="labelClas">Results Per Page:</label>
+					<div style="width:169px" class="divClass">
+						<select id="_per_page" name="_per_page" class="customselect" style="width:169px">
+							<option selected="" value="30">30</option>
+							<option value="50">50</option>
+							<option value="100">100</option>
+							<option value="200">200</option>
+						</select>
+					</div>
+					<label style="margin-left:43px;" class="labelClas">Sort By:</label>
+					<div style="width:185px;margin-left:50px;" class="divClass">
+						<select id="sort" name="sort" class="customselect" style="width:185px">
+							<option value="close_time">Ending Date</option>
+							<option value="auction_title">Title</option>
+							<option value="number_of_items_per_lot">Quantity</option>
+							<option value="price">Lot Price</option>
+							<option value="country_state_code">Location</option>
+						</select>
+					</div>
+					<input type="submit" onclick="javascript: validate_advSearch(document.advSearch);" class="goButton" value="" name="submit">
+				</div>
+			</div>
 			<div class="spacer"></div>
 			<div class="bottomBG"></div>
-        </form></div>
+		</form>
+	</div>
+</div>
+		<div id="new_search_con" style="display: none;">
+	<div class="mainNav" style="margin-top:0">
+		<div class="mainNavLeft"></div>
+		<div class="mainNavmiddle">
+			<form id="new_search" name="new_search" defaulttext="-- Search --" onsubmit="return AdvancedSearchObj.validateSearch(this);" action="/auction/search" method="POST">
+				<input type="hidden" name="flag" value="new">
+				<div class="searchContent">
+					<input type="text" class="inputTextClass inputText" id="new_words" maxlength="100" title="-- Search --" value="-- Search --" allow="undefined" name="searchparam_words">
+					<div name="category1" class="customselectDiv">
+						<select id="new_srch_category1" name="searchparam_category1" class="">
+							<option value="">All Categories</option>
+						</select>
+					</div>
+					<div name="item_condition" class="customselectDiv">
+						<select id="new_item_condition" name="searchparam_dimension" class="">
+							<option value="">All Conditions</option>
+						</select>
+					</div>
+					<div name="location" class="customselectDiv">
+						<select id="new_location" name="searchparam_dimension" class="">
+							<option value="">All Locations</option>
+						</select>
+					</div>
+					<input type="button" class="searchBtn" onclick="javascript: AdvancedSearchObj.validateSearch(document.new_search);">
+				</div>
+			</form>
+			<div class="categoryListLink">
+				<a class="nonJS" href="javascript:void(0);">all categories</a>
+			</div>
+			<div class="advancedSearchLink">
+				<a class="nonJS" href="javascript:void(0)">Advanced Search</a>
+			</div>
+		</div>
+		<div class="mainNavRight"></div>
+	</div>
+	<div class="categoryList" style="display:none;">
+		<div class="container">
+			<ul class="list">
+
+			</ul>
+		</div>
+		<div class="bottom"></div>
+	</div>
+	<div class="advancedSearch" id="newadvsearch" style="display:none;">
+		<form id="new_advSearch" name="new_advSearch" action="/auction/search" method="POST">
+			<input type="hidden" value="keyword" name="cmd">
+			<input type="hidden" name="flag" value="new">
+			<div class="spacer"></div>
+			<div class="container">
+				<div class="containerHeader">
+					<label>Refine Search</label>
+					<div class="closeContainer" style="float: right;">
+						<span>close</span>
+						<img style="margin-left: 5px; margin-bottom: -2px;cursor:pointer;width:10px;height:10px;" src="/shared/bu/images/savesearch_closeIcon.gif">
+					</div>
+				</div>
+				<label> Select as few or as many fields you want. (<span>Hint:   selecting more fields will narrow your search</span>)</label>
+				<div class="containerBody" style="float:left;">
+					<div class="col1">
+						<div style="margin-top: 5px;">Keyword:</div>
+						<div style="margin-top: 37px;">Look For:</div>
+						<div style="margin-top: 11px;">Category:</div>
+						<div style="margin-top: 9px;">Location:</div>
+						<div style="margin-top: 10px;">Retail Price:</div>
+						<div style="margin-top: 10px;">Lot Price:</div>
+					</div>
+					<div class="col2">
+						<div class="keywordSearch">
+							<input type="text" id="new_adv_words" class="inputText" name="searchparam_words" maxlength="100" title="-- Search --" value="-- Search --">
+						</div>
+						<div class="keywordOption">
+							<div>
+								<input id="new_kyOptTitle" type="radio" value="0" name="searchparam_descrip">
+							</div>
+							<label for="kyOptTitle">Title</label>
+							<div>
+								<input type="radio" id="new_kyOptTitle_Des" value="1" checked="true" name="searchparam_descrip">
+							</div>
+							<label for="kyOptTitle_Des">Title and Description</label>
+						</div>
+						<div class="lookClass">
+							<select id="words_mode" class="customselect" name="searchparam_words_mode">
+								<option value="Any" selected="selected">Any keywords</option>
+								<option value="All">All keywords</option>
+								<option value="Exact">Exact Phrase</option>
+							</select>
+						</div>
+						<div class="lookClass" id="new_category_div">
+							<select id="new_category1" class="customselect selectBox" name="searchparam_category1" sname="Category" pname="Categories" multiple="true">
+								<option value="">Select a Category</option>
+							</select>
+						</div>
+						<!--div class="lookClass" style="position:relative;" id="sub_cat">
+							   <select id="sub_category" name="sub_category" class="customselect selectBox">
+								   <option value="">Select a Sub-Category</option>
+							   </select>
+						   </div-->
+						<div class="lookClass">
+							<select id="new_adv_location" multiple="true" class="customselect" name="searchparam_dimension" sname="Location" pname="Locations">
+							</select>
+						</div>
+						<div class="lookClass">
+							<select id="retailPriceRange" class="selectBox customselect" multiple="true" name="searchparam_dimension" sname="Retail Price Range" pname="Retail Price Ranges">
+							</select>
+						</div>
+						<div class="lookClass">
+							<select id="lotPriceRange" class="selectBox customselect" multiple="true" name="searchparam_dimension" sname="Lot Price Range" pname="Lot Price Ranges">
+							</select>
+						</div>
+					</div>
+					<div class="col3">
+						<div>Seller Name:</div>
+						<div>Auction ID:</div>
+						<div>Lot Size:</div>
+						<div>Item Condition:</div>
+						<div>Shipping Terms:</div>
+						<div>Auction Type:</div>
+					</div>
+					<div class="col4">
+						<div class="cell">
+							<input type="text" id="new_seller" name="searchparam_username_seller" class="inputBox inputText" title="-- Name --" value="-- Name --">
+						</div>
+						<div class="cell">
+							<input type="text" id="new_auction_id" name="searchparam_auction_id" class="inputBox inputText" title="-- Number --" value="-- Number --">
+						</div>
+						<div class="cell">
+							<select id="new_size" class="customselect selectBox" multiple="true" name="searchparam_dimension" sname="Size" pname="Sizes">
+							</select>
+						</div>
+						<div class="cell">
+							<select id="new_condition" class="customselect selectBox" multiple="true" name="searchparam_dimension" sname="Condition" pname="Conditions">
+							</select>
+						</div>
+						<div class="cell">
+							<select id="new_shipping_terms" name="searchparam_dimension" class="customselect selectBox" sname="Shipping Term">
+								<option value="">Select a Shipping Term</option>
+							</select>
+						</div>
+						<div class="cell">
+							<select id="new_type" class="customselect selectBox" name="searchparam_dimension" multiple="true" sname="Type" pname="Types">
+							</select>
+						</div>
+
+					</div>
+					<div class="std">
+						<label for="closeFlag" class="labelClass">Search Closed Auctions:</label>
+						<input type="checkbox" class="chkbox" value="1" name="searchparam_search_closed_auctions" id="new_closeFlag">
+					</div>
+				</div>
+				<label>Format your search results</label>
+				<div class="formattingOption">
+					<label class="labelClas">Results Per Page:</label>
+					<div style="width:169px" class="divClass">
+						<select id="new_per_page" name="_per_page" class="customselect" style="width:169px">
+							<option selected="" value="30">30</option>
+							<option value="50">50</option>
+							<option value="100">100</option>
+							<option value="200">200</option>
+						</select>
+					</div>
+					<label style="margin-left:43px;" class="labelClas">Sort By:</label>
+					<div style="width:185px;margin-left:50px;" class="divClass">
+						<select id="new_sort" name="sort" class="customselect" style="width:185px">
+							<option value="close_time">Ending Date</option>
+							<option value="auction_title">Title</option>
+							<option value="number_of_items_per_lot">Quantity</option>
+							<option value="current_bid">Lot Price</option>
+							<option value="state">Location</option>
+						</select>
+					</div>
+					<input type="submit" onclick="javascript: AdvancedSearchObj.validateAdvSearch(document.new_advSearch);" class="goButton" value="" name="submit">
+				</div>
+			</div>
+			<div class="spacer"></div>
+			<div class="bottomBG"></div>
+		</form>
+	</div>
+</div>
+    
         
         <!--<div class="bottom"></div>-->
 	
-    </div>
+</div>
 
 
 
@@ -478,9 +661,15 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
 			</li><li>Send an email to <a href="mailto:support@liquidation.com">support@liquidation.com</a>.
 		</li></ul>
 
-		<p>You may not opt-out of service/transactional related communication from the site.</p>
+<p>You may not opt-out of service/transactional related communication from the site.</p>
+
+
+<h3>Liquidation.com Facebook Application</h3>
+		
+<p>We do not include functionality that proxies, requests or collects Facebook usernames or passwords. We do not collect data on your Facebook friends and will not use that data to customize your experience or conduct promotional activities. We will collect your basic account information when you connect with our application. For all other data obtained through use of the Facebook API, we will obtain explicit consent from you before using it for any purpose other than displaying it back to you on our application. We will not directly or indirectly transfer any data you receive from Facebook, including user data or Facebook User IDs, to (or use such data in connection with) any ad network, ad exchange, data broker, or other advertising or monetization related toolset, even if you consent to such transfer or use. We will not use Facebook User IDs for any purpose outside of our application. We will not sell any data. We will delete all data we receive from Facebook concerning a user if the user asks us to do so. We will not include data you receive from Facebook concerning a user in any advertising creative, even if a user consents to such use. Should you visit LSI's website from Facebook, Google may add a cookie to track your visit to the site. We only use this information for statistical analysis purposes. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.</p>
+
 		<h3>Data Retention </h3>
-		<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can  update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.”</p>
+		<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can  update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.Â”</p>
 		
 		<h3>Correct/Update</h3>
 		
@@ -512,6 +701,7 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
 	</div>
 		</div>
 		
+			
 <layout id="search"></layout>
 
 
@@ -529,6 +719,7 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
 
 
  
+		
 		<div class="BottomBodyWidth" style="display:none;float:left;width:100%;">
 				
 	   </div>
@@ -550,7 +741,7 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
 	saveSearch_param.shipping_terms = '';
 	saveSearch_param.auctionType = '';
 	saveSearch_param.perPage = '';
-	saveSearch_param.sort = 'ARRAY(0xc295c9c)';
+	saveSearch_param.sort = 'ARRAY(0xde13428)';
 	saveSearch_param.page = '1';
 	saveSearch_param.ascending = '0';
 	var isloggedIn = 0;
@@ -583,7 +774,7 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
 <script type="text/javascript" src="/shared/bu/jslib/sellerCredibility.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
-		sellerData = {"prev_page_uri":null,"next_page_uri":null,"error":[{"status_code":"403","error_text":"Access denied","error_id":"5","error_code":"FORBIDDEN"}],"result":[],"meta":{"time":1324113185}};
+		sellerData = {"prev_page_uri":null,"next_page_uri":null,"error":[{"status_code":"403","error_text":"Access denied","error_id":"5","error_code":"FORBIDDEN"}],"result":[],"meta":{"time":1339368904}};
 		sellerCredibility.init();
 	});
 </script>
@@ -664,12 +855,12 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
     <div class="footerMiddle">
         <div class="listItems" style="width: 180px;"><label>Tools and Information</label>
             <ul>
-				<li id="loginFooterLink" style="display:block;"><a href="/login">login</a></li>
-                <li id="myAccountFooterLink" style="display:none;"><a href="/account/main">my account</a></li>
+                <li id="myAccountFooterLink"><a href="/account/main">my account</a></li>
                 <li><a href="/c/partner/affiliate/index.html">affiliate program</a></li>
                 <li><a rel="nofollow" href="/commercial_gross_sales_summary.csv">Commerical GSS</a></li>
                 <li><a href="/c/terms.html">terms and conditions</a></li>
                 <li><a href="/c/privacy.html">privacy policy</a></li>
+				<li><a href="http://www.liquidityservicesinc.com/careers">Careers</a></li>
                 <li><a href="/c/about/index.html">about us</a></li>
                 <li><a href="/contactus">contact us</a></li>
             </ul>
@@ -741,7 +932,7 @@ Liquidation.com complies with the EU Safe Harbor framework as set forth by the D
     <div class="footerRight"></div>
 </div>
 <div class="copyRightInfoContainer">
-    <p>Copyright © <span>2011</span> <a href="http://www.liquidityservicesinc.com/" target="_blank">Liquidity Services, Inc.</a> | NASDAQ: LQDT | All rights reserved.</p>
+    <p>Copyright © <span>2012</span> <a href="http://www.liquidityservicesinc.com/" target="_blank">Liquidity Services, Inc.</a> | NASDAQ: LQDT | All rights reserved.</p>
 </div>
 
 <script type="text/javascript">
