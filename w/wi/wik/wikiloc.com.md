@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218072231id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610045524id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
 
 # Privacy policy - Wikiloc
 
@@ -97,4 +97,4 @@ The blog available at Wikiloc.com is hosted by blogger.com who will store any co
 
 The processing of personal data is governed by the laws of Spain. 
 
-Wikiloc, the data controller, is registered in the Commercial Registry of Girona, Volume 2709, sheet 156, page number GI 47726, with tax number B-55022115 and its offices are located at Parc Cientific i Tecnologic of the Universitat de Girona, -Giroempren building - Office A2-02, C/Pic de Peguera, 15, Girona, Spain. Wikiloc may be contacted in the following email address: [info@wikiloc.com](mailto:info@wikiloc.com). 
+Wikiloc, the data controller, is registered in the Commercial Registry of Girona, Volume 2709, sheet 156, page number GI 47726, with tax number B-55022115 and its offices are located at Parc Cientific i Tecnologic of the Universitat de Girona, -Giroempren building - Office A2-02, C/Pic de Peguera, 11, Girona, Spain. Wikiloc may be contacted in the following email address: [info@wikiloc.com](mailto:info@wikiloc.com). 
