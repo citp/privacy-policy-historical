@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211174707id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610181440id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
 
 # Postscapes General - Postscapes Legal: Terms of Service and Privacy Policy
 
