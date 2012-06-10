@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119151431id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610032710id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobs2Web - Career Website Optimization & Job SEO
 
@@ -18,7 +18,7 @@ If you are not satisfied with our response you can contact [TRUSTe here](http://
 
 Jobs2Web, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Jobs2Web has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
 
-The TRUSTe program covers only information that is collected through the Web site Jobs2Web.com, Recruitment Marketing Platform sites we host on behalf of our clients and information behind the log in for our Service.
+The TRUSTe program covers only information that is collected through the Web site Jobs2Web.com, Recruiting Marketing Platform sites we host on behalf of our clients and information behind the log in for our Service.
 
 **About Jobs2Web and the information Jobs2Web collects**
 
@@ -26,7 +26,7 @@ Jobs2Web is committed to protecting your privacy and has created this Privacy Po
 
 **Your Personally Identifiable Information Collected by Jobs2Web**
 
-The opt-in subscribe form collects certain information you voluntarily choose to share with Jobs2Web, such as your name, email address, and phone number ("Personally Identifiable Information" or "PII").  You may always choose not to provide such Personally Identifiable Information; however, this may limit Jobs2Web’s ability to provide you with a specific service or particular content.  Jobs2Web may also collect other data, which may include Personally Identifiable Information.  
+The opt-in subscribe form collects certain information you voluntarily choose to share with Jobs2Web, such as your name, email address, and phone number ("Personally Identifiable Information" or "PII").  You may always choose not to provide such Personally Identifiable Information; however, this may limit Jobs2Webâ€™s ability to provide you with a specific service or particular content.  Jobs2Web may also collect other data, which may include Personally Identifiable Information.  
 
 **Personally Identifiable Information Used by Jobs2Web Clients**
 
@@ -36,7 +36,7 @@ Jobs2Web works with employers and other companies ("Clients") to provide the Job
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ€™ movements around the site and to gather demographic information about our user base as a whole.
 
 We do not link this automatically-collected data to personally identifiable information.
 
@@ -44,11 +44,11 @@ We use a third-party tracking service called Google Analytics that uses cookies 
 
 **Cookies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a userâ€™s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file. More information on cookies is available [here](http://en.wikipedia.org/wiki/HTTP_cookie).
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browserâ€™s "help" file. More information on cookies is available [here](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-We set a persistent cookie to store your password, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We set a persistent cookie to store your password, so you donâ€™t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, will be limited. For example, you cannot register for the Talent Community to receive future email alerts when jobs of interest to you become available.
 
@@ -66,7 +66,7 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 As is true of most Web sites, we gather and store certain information automatically. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ€™ movements around the site and to gather demographic information about our user base as a whole.
 
 We link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to determine the approximate geographic region of site visitors and measure effectiveness of referring sites.
 
@@ -97,7 +97,7 @@ Also, certain technical processing of messages and their content may be required
 
 **Security**
 
-This Site has industry standard security measures in place to protect the loss, misuse and integrity of the information under Jobs2Web’s control.  Although Jobs2Web makes good faith efforts to store the information collected by the Service in a secure operating environment that is not available to the public, Jobs2Web cannot guarantee complete security.  You acknowledge that you provide your personal information at your own risk.
+This Site has industry standard security measures in place to protect the loss, misuse and integrity of the information under Jobs2Webâ€™s control.  Although Jobs2Web makes good faith efforts to store the information collected by the Service in a secure operating environment that is not available to the public, Jobs2Web cannot guarantee complete security.  You acknowledge that you provide your personal information at your own risk.
 
 The security of the PII collected is of the utmost importance to Jobs2Web.  Jobs2Web takes all commercially reasonable steps to secure your PII.  Reasonable physical, electronic, and managerial procedures to safeguard the information we collect has been implemented and is updated periodically as deemed necessary by Jobs2Web.  With this in mind, Jobs2Web limits access to PII to only those employees and contractors who need access in order to perform their duties.
 
