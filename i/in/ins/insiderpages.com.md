@@ -1,96 +1,93 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008072407id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610021957id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
 
 # Insider Pages Privacy Policy
 
-InsiderPages.com("Insiderpages") is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to InsiderPages, Ask.com, Match.com, Citysearch, Evite, ServiceMagic, Gifts.com, Shoebuy, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, InsiderPages has revised its [Privacy Policy](https://web.archive.org/legal/privacy_full), effective July 2011, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/legal/privacy_faq) for details about the changes. Please review both the Consumer Privacy statement and this site’s complete privacy policy.
+(As of September 7, 2011)
 
-### Consumer Privacy at InsiderPages, an IAC Company
+Insider Pages, Inc. (“InsiderPages”) respects your privacy. When you use InsiderPages.com or any of our related applications (whether existing now or in the future, collectively, the “Properties”), we collect information about you and use it to facilitate and improve our services. Information about you may also be shared with other companies. For instance, companies engaged in "targeted" or "behavioral" advertising present ads that might be of interest to you based on information about your online activities. We want to be clear about how information about you may be used and what your privacy options are. 
 
-InsiderPages is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Evite, Gifts.com, Match.com, RealEstate.com, ServiceMagic, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/).
+This Privacy Policy explains what information we may collect, how we may use it, how other companies may use it, and tracking technologies that may be used to collect information. We may change this Privacy Policy at any time by posting a revised Privacy Policy on this page; such changes will be effective upon posting. 
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of InsiderPages, please [click here](https://web.archive.org/legal/privacy_full).
+The Properties may provide links to third party websites. This Privacy Policy does not apply to any information you may provide while on such third party websites. We encourage you to carefully read the privacy policies on those third party websites before providing any of your information on such sites. 
 
-### Information we may collect [(read more »)](https://web.archive.org/legal/privacy_full#information_we_collect)
+### Information we collect
 
-We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+#### A. Information collected automatically:
 
-We also may collect other types of information in the following ways when you visit our website:
+When you visit or use our Properties, we automatically collect and store information about your computer or mobile device and your activities. This information may include, but is not limited to: 
 
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
-  * We may assign your computer one or more [cookies](https://web.archive.org/legal/privacy_full#cookies) which may collect information to facilitate access to our website and to personalize your online experience.
-  * We may use standard Internet tools, such [web beacons](https://web.archive.org/legal/privacy_full#web_beacons), which collect information that tracks your use of our website and enables us to customize our services and advertisements.
-
-
-
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
-
-###  Information others may collect [(read more »)](https://web.archive.org/legal/privacy_full#information_others_collect)
-
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
-  * We do not provide any personal information to these companies.
-  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) which offers consumers the ability to opt out of ad targeting by all member companies.
+  * Your computer's IP address;
+  * Technical information about your computer or mobile device (such as type of device, web browser or operating system);
+  * Your preferences and settings (time zone, language, etc.);
+  * Your mobile device's unique ID number;
+  * Your mobile device's geographic location (specific geographic location if you've enabled collection of that information, or general geographic location automatically); 
+  * The URL of the last web page you visited before coming to our Properties;
+  * The search terms you have looked up and results you selected;
+  * The ads you clicked on; and
+  * How long you visited our Properties and which services and features you used.
 
 
 
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+#### B. Information you choose to provide:
 
-###  How we may use information we collect [(read more »)](https://web.archive.org/legal/privacy_full#how_we_use_information)
+You may choose to open an account and provide us with information in order to use certain services or to take advantage of special offers. This information may include your name, email address, phone number, credit card information (including billing address), and demographic information (age, gender, etc.). You may provide this information directly to us or you may chose to register using your Facebook account in which case you would authorize us to access certain Facebook profile information including, but not limited to, your first name, last name, gender, birth date and email address. You may also choose to post content (such as ratings, reviews or comments) that may be shared with others, through our Properties or through your Facebook account. You may choose not to provide us with any personally identifiable information, such as by not registering for an account on the Properties or connecting to the Properties with your Facebook account. However, if you don't provide certain information, you won't be able to use some of the services we offer. 
 
-We may use information to:
+### How we use your information
 
-  * Fulfill your requests for products and services;
-  * Offer products and services that may be of interest to you;
-  * Customize the advertising and content that you see on our website;
-  * Facilitate use of our website;
-  * Manage your account and your preferences;
-  * Analyze use of and improve our website, products and services;
-  * Identify and protect against fraudulent transactions and other misuses of our website; and
-  * Enforce our Terms of Use.
+We use your information to provide and improve our services, better understand our users to provide you with a more effective user experience, customize services for you (such as by remembering your preferences), present tailored offers to you, process and complete your transactions, make special offers, diagnose and fix problems, and sell and display ads that may be relevant to you. We may use your email address to allow you to log in to your account, send you notification regarding your account or products and services in which you are enrolled, send you confirmations (of your registration, purchase, etc.), send you messages as part of our services and to send you newsletters. We may also use your email address to respond to your customer service inquiries. Your mobile phone numbers and credit card information are used only for providing you the services you requested. 
+
+We may also share your information with other companies for various reasons. What information we make available to other companies depends on the nature of our relationships with them. We generally require these other companies to keep our users’ information confidential. 
+
+**Service Providers:** We may share all of the types of information we collect with vendors who provide services (such as voice transcription, email and SMS messaging, and payment processing and collection), conduct surveys, and run sweepstakes on our behalf. In addition, in connection with any purchase of our products or services, we may share information we collect from or about you with credit bureaus and similar organizations as permitted by law. 
+
+**Advertisers:** Advertisers and advertising networks use tracking technologies to collect information about users’ computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our Properties to enable them to display targeted ads to you. These companies as well as data analytics companies who service them may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our services. They also may use web technologies such as cookies and pixel tags to collect data about you when you visit our site. 
+
+**Analytics Companies:** We may allow analytics companies to use tracking technologies to collect information about our users' computers or mobile devices and their online activities. These companies analyze this information to help us understand how our Properties are being used. 
+
+**Aggregated Information:** We may publicly disclose aggregated information about our users, such as the total number of our users and their demographics. 
+
+**Legal Matters:** We may use or disclose user information: in response to a legal request, such as a subpoena, court order, or government demand; in response to comply with the law; in connection with a threat of litigation; to investigate or report illegal activity; to protect the legal rights of InsiderPages, our customers, our Properties or users of our Properties; or to enforce our rights or defend claims. We may also transfer your information to another company in connection with a corporate restructuring, such as a sale or merger. 
+
+**Job applicants:** If your information is submitted to us through our Properties when applying for a position with our company, the information will be used to consider your application. We may retain your information for a period of time. This information may be shared with our sister IAC companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings. 
+
+**Cookies:** When you visit our Properties, we may place "cookies" on your computer to recognize you. We do this to store your preferences, collect statistical data and track your use of our Properties. Ad companies may also place cookies on your computer to track your activities across various sites so that they can display targeted ads. Some ad companies and game developers use "flash cookies" for ads and games that use Flash media technology. 
+
+Cookies are widely used, and most web browsers are configured initially to accept cookies automatically. If you prefer not to accept cookies, you may adjust and configure your browser settings accordingly. However, if you turn off cookies, or refuse to accept a request to place a cookie, some features and services on the Properties may not function properly. 
+
+Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit http://www.networkadvertising.org/ and click on the "Consumer Opt-out" button. 
+
+**Pixel tags:** We may embed pixel tags (also called web beacons or clear GIFs) on web pages, ads, and emails. These tiny, invisible graphics are used to access cookies and track user activities (such as how many times a page is viewed). We may use pixel tags to measure the popularity of our features and services. Ad companies may use pixel tags to measure the number of ads displayed and their performance (such as how many people clicked on an ad). 
+
+### Children's privacy
+
+We do not knowingly allow children under the age of 13 to register for any service, and we do not knowingly collect any personally identifiable information from children under the age of 13. 
+
+### No Endorsement
+
+InsiderPages and the Properties are not medical referral sites and do not recommend or endorse any particular provider or medical treatment. No information on the Properties should be construed as medical and/or health advice. The Properties are not a “covered entity” for purposes of determining applicability of the Health Insurance Portability and Accountability Act of 1996 and the rules promulgated thereunder (HIPAA) to the Properties and the treatment of content provided by you. 
+
+### No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Properties. 
+
+### Information from users outside the United States
+
+If you're outside the United States, your information will be sent to and stored in the United States, where our servers are located. By using our Properties, you agree to the information collection, use, and sharing practices described in this Privacy Policy. 
+
+### Contact Information
+
+If you have questions, please contact us at: 
+
+Insider Pages, Inc.  
+c/o CityGrid Media, LLC  
+8833 West Sunset Boulevard  
+West Hollywood, CA 90069  
+Attn: Legal Department - Privacy Officer  
+[legal@insiderpages.com](mailto:legal@insiderpages.com)  
 
 
+### Your California Privacy Rights
 
-###  With whom we may share information we collect [(read more »)](https://web.archive.org/legal/privacy_full#with_whom_we_share_information)
+If you are a resident of California, you have the right to request information from us once every calendar year regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. You may request a copy of the information disclosed by sending an email to: [legal@insiderpages.com](mailto:legal@insiderpages.com)
 
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
-
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
-
-
-
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
-
-###  Your choices [(read more »)](https://web.archive.org/legal/privacy_full#information_collection)
-
-You may choose:
-
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;
-  * To delete or decline [cookies](https://web.archive.org/legal/privacy_full#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
-
-
-
-###  Security [(read more »)](https://web.archive.org/legal/privacy_full#security)
-
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
-
-### Changes to our Privacy Policy
-
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website. 
-
-### How to contact us
-
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/legal/privacy_full), or our information practices, please contact us by email or postal mail below: 
-
-Privacy Officer  
-Insider Pages  
-201 3rd Street, Suite 615  
-San Francisco, CA 94103
-
-[legal@insiderpages.com](mailto:legal@insiderpages.com)
-
-© 2007 IAC/InterActiveCorp. All rights reserved. 
+We may provide this information in any format at our discretion which may not be specific to you. 
