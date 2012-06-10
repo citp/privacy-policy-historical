@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxarticles.info privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208074625id_/http%3A//www.oxarticles.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxarticles.info privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611014841id_/http%3A//oxarticles.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » ox Articles
 
