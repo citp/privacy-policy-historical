@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japantourist.jp privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107171141id_/http%3A//www.japantourist.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantourist.jp privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610223300id_/http%3A//japantourist.jp/privacy) for the most accurate reproduction.*
 
 # JapanTourist - The Tourist's Portal to Japan
 
