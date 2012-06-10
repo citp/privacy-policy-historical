@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the addoway.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102010637id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addoway.com privacy policy that was archived on 2012-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610121900id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <title>Addoway - Privacy Policy</title>
@@ -10,9 +10,28 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <link rel="image_src" href="/images/Addoway_icon.jpg">
 <link rel="shortcut icon" href="/images/favicon_addoway.ico" type="image/x-icon">
-<link rel="stylesheet" href="/combine?t=c&amp;f=main.css,style2.css,jquery.ui.min.css,jquery.fancybox.new.css&amp;r=20" type="text/css" media="screen">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/combine?t=j&amp;f=jquery.min.js,jquery.fancybox.new.js,functions.js,jquery.impromptu.js,jquery.corner.min.js,jquery.oauthpopup.js,jquery.hashchange.js&amp;r=9"></script>
+<link rel="stylesheet" href="/combine?t=c&amp;f=main.css,style2.css,jquery.ui.min.css,jquery.fancybox.new.css&amp;r=27" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/combine?t=j&amp;f=jquery.min.js,jquery.fancybox.new.js,functions.js,jquery.impromptu.js,jquery.corner.min.js,jquery.oauthpopup.js,jquery.hashchange.js,jquery.example.js&amp;r=23"></script>
 <script type="text/javascript">
+function fb_onlogin() {
+                                if($("div#login_fb_pop").is(":hidden")) {
+                                    $("a#login_fb").trigger("click");
+                                }							 
+								$("div[id='login_fb_main']").hide();
+								$("div[id='login_fb_loading']").customFadeIn('slow');                                                                
+								$.post("http://www.addoway.com/login_fb/", {}, function(data) {
+									eval(data);
+								});
+							}
+                            
+                            function tw_onlogin() {
+                                $("div[id^='login_tw_main']").hide();
+                                $("div[id^='login_tw_email']").hide();
+                                $("div#login_tw_loading").customFadeIn('slow'); 
+								$.post("http://www.addoway.com/login_tw/", {}, function(data) {
+									eval(data);
+								});
+							}
 var scrollSpeed = 750;
 var step = 1;
 var current1 = 0;
@@ -32,32 +51,197 @@ $(document).ready(function() {
 		});
 	};
     $(".tab").corner("bottom 5px");
-    $(".hot_item").hover(function() {
-        $(this).find(".hot_item_sect_in").toggle(); 
-        $(this).find(".hot_item_sect_in_hidden").toggle();          
+    $(".hot_item_new").hover(function() {
+        var element = $(this).find(".hot_item_sect_in_hidden_new");
+            price_org = element.find(".hot_item_price_original").html();
+            if(price_org == null) {
+                element.stop().animate({top:'84px'},{queue:false, duration:500});
+            }
+            else {
+                element.stop().animate({top:'68px'},{queue:false, duration:500});
+            }
+    },function() {
+        var element = $(this).find(".hot_item_sect_in_hidden_new");
+        element.stop().animate({top:'124px'},{queue:false, duration:500});    
     });
    	$("#fundraiser_main").fancybox({
 		'overlayShow':	true,
 		'hideOnContentClick': false,
         'titleShow': false
-	}); 
+	});
     
+    $('input#search_field').example(function() {
+        return $(this).attr('title');
+    }, {className: 'search_example'}); 
+    
+$("a#main_login_popup").fancybox({
+        							'speedIn': 300,
+        							'speedOut': 0,
+        							'overlayOpacity': .2,
+        							'hideOnContentClick': false,
+        							'hideOnOverlayClick': false,
+                                    'showNavArrows': false,
+                                    'easingIn': 'swing',
+                                    'autoDimensions': false,
+        					  		'width': 490,
+        					    	'height': 310
+					         });
+                                                          
+                            $("a#fb_connect_main").live("click", function() {
+							FB.login(function(response) {
+							  if (response.authResponse) {
+                                  fb_onlogin();
+							  }
+							  else {
+								$("div#login_fb_loading").hide();
+								$("div#login_fb_main").show();
+							  }
+							}, {scope:'email'});
+							return false;
+						});
+                            
+                            $("a#tw_connect_main").live("click", function() {
+                                if($("div#login_tw_loading").is(":hidden")) {                                     
+    								$("div#login_tw_main").hide();
+                                    $("div#login_tw_loading").show()
+    								$("div#login_tw_pop").show();
+                                    $("a#popup_login_tw").addClass("current");
+    								$("a#main_login_popup").trigger("click");
+                                }
+                                $.oauthpopup({
+                                    path: "/twitter_connect",
+                                    callback: function(){
+                                        window.location.reload();
+                                    }
+                                });                                
+                            });
+                            
+                            $("button#tw_email_submit").live("click", function() {
+                                $("div#tw_email_error").html("");
+                                $("span#tw_loading_sm").css("visibility", "visible");
+                                var pemail = $("input#tw_pemail").val();
+                                var cpemail = $("input#tw_cpemail").val();
+                                $.post("http://www.addoway.com/login_tw/", {pemail:pemail, cpemail:cpemail}, function(data) {
+									eval(data);
+								});                                   
+                            });
+                                                            
+                            $("a[id^='login_']").click(function() {
+                                var this_id = $(this).attr("id").replace("login_", "");
+                                $(".login_pop").hide();
+						        $(".login_buttons a").removeClass("current");
+								$("a#popup_login_"+this_id).addClass("current");
+								$("div[id^='login_"+this_id+"_']").hide();
+								$("div#login_"+this_id+"_main").show();
+								$("div#login_"+this_id+"_pop").show();
+								$("a#main_login_popup").trigger("click");
+								$("input#username").focus();                                
+                            });
+                            
+                            $("a[id^='popup_login_']").live("click", function() {
+                                var this_id = $(this).attr("id").replace("popup_login_", "");
+						    	$(".login_buttons a").removeClass("current");
+								$(this).addClass("current");
+						  		$(".login_pop").hide();
+						  		$("div[id^='login_"+this_id+"_']").hide();
+								$("div#login_"+this_id+"_main").show();
+                                $("div#login_"+this_id+"_pop").customFadeIn("fast");
+                                $("input#username").focus();                                    
+                            });
  
 });
 </script>
 </head>
 <body id="addo_body">
-	
+	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+                        <script type="text/javascript">
+                        function tracklike(e, u) {
+                         $.ajax({type: "post", url: "/tracklike", data: "e="+e+"&u="+u});  
+                        }                    
+                        
+                        $(document).ready(function() {
+    					  window.fbAsyncInit = function() {
+    						 FB.init({
+                                appId: '186852054016', 
+                                status: true, 
+                                cookie: true, 
+                                xfbml: true,
+                                oauth: true,
+                                channelUrl : document.location.protocol +"//www.addoway.com/fb_channel"
+                            });
+                             
+                          };
+    					  (function() {
+    					    var e = document.createElement('script'); e.async = true;
+    					    e.src = document.location.protocol +
+    					      '//connect.facebook.net/en_US/all.js';
+    					    document.getElementById('fb-root').appendChild(e);
+    					  }());                            
+                        });                            
+    					</script>
 	<div id="page_loading"><div></div></div>
-	
-    <div style="display: none;">
-        <div id="fundraiser_pop_main">
-            <div><a id="fundraiser_pop_donate_link" href="http://www.globalgiving.org/dy/fundraiser/prevfund/gg.html?regid=6332" target="_blank">&nbsp;</a></div>
-            <img src="/images/charity/breast_cancer_pop_up.jpg" width="490" height="363">
-        </div>
-    </div>
-	<div id="way_wrapper_bottom">
-        <div id="way_wrapper_top">
+	<div style="display: none;">
+                        <div style="width: 480px;" id="login_pop_main">
+							<div style="height: 260px; padding: 20px 0 0 10px; ">
+								<div style="padding: 0 0 0 10px; font-size: 15px; font-weight: bold; text-align: left; color: #0f6ba8;">Choose any of these login options:</div>
+								<div><hr></div>
+								<div class="login_buttons"><a class="login_button_ad" id="popup_login_ad"></a><a class="login_button_fb" id="popup_login_fb"></a><a class="login_button_tw" id="popup_login_tw"></a></div>
+								<div style="clear: left;"></div>
+								<div style="display: none;" class="login_pop" id="login_ad_pop">
+									<div id="login_ad_main">
+							            <form action="https://www.addoway.com/login/" method="post"><br>
+											<div style="font-weight: bold;">Username or Email:</div>
+											<div style="padding: 3px 0 0 0;"><input class="input" name="username" id="username" value="" maxlength="40" size="35"></div>
+											<div style="font-weight: bold; padding: 10px 0 0 0;">Password:</div>
+											<div style="padding: 3px 0 0 0;"><input class="input" type="password" value="" name="password" size="35"></div>
+                                            <div style="padding: 3px 0 0 0; font-size: 10px;"><a href="https://www.addoway.com/forgotpassword/">Forgot password?</a></div>
+											<div style="padding: 5px 0 0 0;"><input class="checkbox" type="checkbox" value="1" name="remember">&nbsp;Remember Me</div>
+											<div style="padding: 5px 0 0 0;"><input type="hidden" name="submit" value="Login"><button class="button" type="submit">Login</button></div>
+							            </form>
+						            </div>
+								</div>
+								<div style="display: none;" class="login_pop" id="login_fb_pop">
+								    <div id="login_fb_main">
+										<div style="padding: 13px 0 0 0; font-weight: bold;">Already registered with Facebook?</div>
+										<div style="padding: 3px 0 0 0;">Use your Facebook account to register and login to Addoway</div>
+										<div style="padding: 10px 0 0 0;"><a id="fb_connect_main"><img src="/images/home/facebook_connect.gif" alt="Facebook Connect" title="Facebook Connect" width="194" height="25"></a></div>
+										<div style="padding: 10px 0 0 0; position: relative;"><div style="position: absolute; left: -50px; width: 400px; overflow: hidden; height: 80px;"><!--<iframe src="http://www.facebook.com/plugins/facepile.php?app_id=186852054016" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px;" allowTransparency="true"></iframe>--></div></div>
+									</div>                                  
+									<div id="login_fb_loading" style="padding: 30px 0 0 0; text-align: center; display:none;">
+										<div class="font_big" style="margin: 0 auto; text-align: center;">Logging in with Facebook Connect</div>
+										<div style="padding: 10px 0 0 0;"><img src="/images/indicator.gif" width="32" height="32" alt="loading..."></div>
+									</div>
+								</div>
+                                <div style="display: none;" class="login_pop" id="login_tw_pop">
+							    <div id="login_tw_main">
+									<div style="padding: 13px 0 0 0; font-weight: bold;">Already registered with Twitter?</div>
+									<div style="padding: 3px 0 0 0;">Use your Twitter account to register and login to Addoway</div>
+									<div style="padding: 10px 0 0 0;"><a id="tw_connect_main"><img src="/images/login_buttons/Twitter_signin_lighter.png" alt="Sign in with Twitter" width="151" height="24"></a></div>
+								</div>
+							    <div id="login_tw_email" style="padding: 5px 0 0 0; display:none;">
+                                    <div id="tw_email_error" style="height: 15px; text-align: center; margin-left: -30px;"></div>                                    
+                                    <div style="padding: 0 0 10px 0;">We'll need your email address to register a new account,<br>or to link to your existing Addoway account.</div>
+									<div style="font-weight: bold; float: left; padding: 3px 3px 0 0;">Email Address:</div>
+									<div style="padding: 3px 0 0 0;"><input class="input" name="username" id="tw_pemail" value="" maxlength="40" size="35"></div>
+									<div class="clear"></div>
+                                    <div style="font-weight: bold; padding: 13px 3px 0 0; float: left;">Confirm Email:</div>
+									<div style="padding: 10px 0 0 0;"><input class="input" value="" id="tw_cpemail" size="35"></div>
+									<div style="margin: 10px 0 0 0; text-align: center; height: 20px;"><button class="button" type="button" id="tw_email_submit">Continue</button>&nbsp;&nbsp;<span id="tw_loading_sm" style="visibility: hidden;"><img style="vertical-align: middle;" src="/images/indicator_lil.gif" width="16" height="16" alt="loading..."></span></div>
+								</div>                                
+								<div id="login_tw_loading" style="margin: 30px 0 0 -30px; text-align: center; display:none;">
+                                    <div class="font_big" style="margin: 0 auto; text-align: center;">Logging in with Twitter</div>
+									<div style="padding: 10px 0 0 0;"><img src="/images/indicator.gif" width="32" height="32" alt="loading..."></div>
+								</div>                                
+							</div>
+							</div>
+							<div id="register_field">
+								Or, <a href="https://www.addoway.com/register/">Register a New Addoway Account</a>
+							</div>
+						</div>
+                        </div>  
+	<div id="way_wrapper_bottom">        
+        <div id="way_wrapper_top" style="background-position: -1px 0px;">
+            
         	<div id="way_header">         
                 <div id="way_header_inner">
                                     
@@ -79,7 +263,7 @@ $(document).ready(function() {
                     </div>
                     <div class="header_search_bar">
 						<form style="margin: 0;" action="/search" method="get">
-							<input id="search_field" name="q" class="search nofocus" value="">&nbsp;<button id="search_button" type="submit"></button>
+							<input id="search_field" name="q" class="search nofocus search_example" value="" title="Search">&nbsp;<button id="search_button" type="submit"></button>
 						</form>                        
                     </div>    
                     <div class="main_header_links">
@@ -93,9 +277,12 @@ $(document).ready(function() {
                             <li><a href="http://www.addoway.com/about">About</a></li>
                             <li><a href="http://www.addoway.com/help">Help</a></li>
                         </ul>                
-                    </div>       
+                    </div> 
+                          
                 </div>
+                                
         	</div>
+            
             
         	<div id="way_main_top"></div>
             <div id="way_main">
@@ -104,7 +291,7 @@ $(document).ready(function() {
             <td align="left" valign="top" id="content">
                 <h1>Privacy Policy</h1><hr>
                 <div style="padding: 20px; font-size: 12px;">
-				   	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span style="font-family: verdana, geneva;">By becoming a member of   Addoway.com you are agreeing to have your email address; contact information; account activity when bidding,   selling, and/or buying; shipping and billing information you provide when   completing a transaction; chat and discussion data including but not limited   to ratings of other buyer/sellers; statistical analysis on page visits; IP   address; traffic to and from the site; and information from other companies   giving us demographic and traffic data collected and stored by our servers   located in the United States. We treat all information on our servers as   critically important data and will go through every effort to ensure your   privacy and security. Third parties may illegally intercept information   during your time with Addoway.com and we therefore cannot promise that your   information will always be safe and private from these unlawful parties, but   we make every effort to do everything possible on our side to stay protected   and keep these third parties out.</span></p> <p><span style="font-family: verdana,geneva;">Addoway.com will not in any way   sell or rent your information to any organization for any use at all unless   you give prior explicit consent. We may use this information to help us   improve the site content for marketing and advertising purposes. All users   have the option of opting out of marketing contacts in their user profile.   All information given to Addoway.com to create an account to buy and/or sell   will be kept in strict confidentiality and kept secure with the latest   technology. Personal information is collected solely to provide you with a   safe and efficient online experience.</span></p> <p><span style="font-family: verdana,geneva;">At Addoway.com you can trust that   your information is kept secure and safe. Please see rules under statistical   data for any questions regarding our question when creating a new account.   Users must take full responsibility of all information on their account and   assume responsibility for unlawful access into their account. Users must make   every effort to use secure networks and preferably access from home to reduce   the chances of account login and password information being stolen. Please   contact us immediately if you discover any suspicious activities or   violations of the terms &amp; conditions stated here. We may disclose personal   information in response to illegal activities to law enforcement if any   content violates the rights of other members. We will never ask you to verify   account information via email or phone. All contact from Addoway and its   users is strictly done through your profile.&nbsp;<br><b><br> </b>Addoway.com&nbsp;is the sole owner   of the information collected on this Site. We use collected information to   provide or improve Services for Users, and as more particularly set forth   above, we may use collected information to contact Users for a variety of   reasons, including, without limitation, obtaining information from Users   regarding their use of the Site and Services and ways we can improve them,   and to send information to them regarding us, our Services, or our Partners,   such as promotions and events. We use this information in ways we determine   appropriate in our sole discretion, and we reserve the right to do so. We   will not sell or rent personally identifiable information to anyone, and we   will not disclose any collected information to others in ways different from   what is disclosed in this statement.&nbsp;&nbsp;<br> &nbsp;<br> Addoway.com&nbsp;collects personally identifiable information when you   register for an Addoway.com account, when you use certain Addoway.com   products or services, and when you visit Addoway.com pages. Addoway.com may   also receive personally identifiable information from our business   partners.&nbsp;<br> &nbsp;<br> When you register with Addoway.com, we ask for personally identifiable   information including, but not limited to, your name, email address, address,   and zip code. Once you register with Addoway.com and sign in to our services,   you are not anonymous to us. Addoway.com also automatically receives and   records information on our server logs from your browser including your IP   address, Addoway.com cookie information, and the page you requested.&nbsp;<br> &nbsp;<br><b>Statistical Data</b></span></p> <p><span style="font-family: verdana,geneva;">When you add yourself to the   Addoway.com database you are asked a question regarding your online   purchasing experience. This information is only gathered for statistical   purposes to understand the population of users that come to Addoway.com and   will not be sold or rented in any way to any organization. All personal   information will be also kept confidential to protect privacy. Please strive   in every way to keep your computer and internet connections safe and secure   as we will not be responsible for account information being stolen due to   comprises from the users lack of personal precautions.</span></p> <p><span style="font-family: verdana,geneva;"><br></span></p> <p><span style="font-family: verdana,geneva;"><b>Protect Yourself Online and   Prevent Fraud&nbsp;</b>&nbsp;</span></p> <p><span style="font-family: verdana,geneva;">1.&nbsp; Never reply to emails that ask for personal information verification. Please   report all spam emails like this to&nbsp;<a href="mailto:spam@addoway.com" target="_blank">spam@addoway.com</a>. If you receive an email from Addoway.com you will also   be able to read this email via your personal account at&nbsp;<a href="../" target="_blank">www.addoway.com</a>. We will never contact you and ask you to verify personal   information.</span></p> <p><span style="font-family: verdana,geneva;"><br></span></p> <p><span style="font-family: verdana,geneva;">2.&nbsp; Keep a close eye on your personal accounts. Credit bureau reports should be   run annually for everyone to verify all information is correct and valid.</span></p> <p><span style="font-family: verdana,geneva;"><br></span></p> <p><span style="font-family: verdana,geneva;">3.&nbsp; In the event of identity theft; please follow the proper procedures to   protect yourself and your credit. The three major credit bureaus are listed   below, so please feel free to utilize this information in the event that you   want to check your credit history. &nbsp;&nbsp;</span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><br></span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><b>Equifax&nbsp;</b><a href="http://pricebeats.com/privacy/%5C" target="_blank">www.equifax.com</a>&nbsp;<br> Reporting fraud:   1-800-525-6285&nbsp;<br> Ordering report: 1-800-685-1111</span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><b>Experian&nbsp;</b><a href="http://pricebeats.com/privacy/%5C" target="_blank">www.experian.com&nbsp;</a>&nbsp;<br> Reporting fraud: 1-888-397-3742&nbsp;<br> Ordering report: 1-888-397-3742</span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><b>TransUnion&nbsp;</b><a href="http://pricebeats.com/privacy/%5C" target="_blank">www.tuc.com&nbsp;</a>&nbsp;<br> Reporting fraud: 1-800-680-7289&nbsp;<br> Ordering report: 1-800-916-8800&nbsp;</span></p> <p><span style="font-family: verdana,geneva;"><br> 4.&nbsp; Never give your password to anyone at   anytime. We suggest passwords that are strong in nature containing both alpha   and numeric characters. We also suggest changing your password often.</span></p> <p><span style="font-family: verdana,geneva;">5.&nbsp; Keep your firewall turned on; keep your operating system up-to-date; use   updated antivirus software; and use updated antispyware technology. See<a href="http://www.microsoft.com/protect/default.mspx" target="_blank">http://www.microsoft.com/protect/default.mspx&nbsp;</a>for more information on keeping your PC safe. &nbsp;</span></p><p><span style="font-family: verdana,geneva;"> 6.&nbsp; Know your seller. Read all comments   and pay specific attention to user comments on communication. Understand the   users return policy if any applies. If there is a deal that sounds too good   to be true, then it is probably too good to be true! Communicate openly and   understand expectations. If you have a question, please ask. Ask for tracking   numbers as soon as the product is shipped. &nbsp;</span></p><p><span style="font-family: verdana,geneva;"> 7.&nbsp; Know your buyer. Abnormal requests can   be a sign up suspicious activity. Are they requesting to pay it from multiple   PayPal accounts? What is their member rating? Communicate with the buyer   through the instant messenger format in your my profile section. Make sure   you have open lines of communication before sending your products. Once you   receive tracking numbers send them directly to the client and if you can   insure the products, please do so to protect yourself in the event the buyer   indicates they never received your item. The most important step is to set   expectations and communicate with the buyer.</span></p> <p><span style="font-family: verdana,geneva;">8.&nbsp; Addoway.com has been created to facilitate in the buying/selling transaction   process. We promote a safe and fun transaction environment. Buying and/or   selling outside of Addoway.com is done at users own risk! Use our   services. &nbsp;</span></p> <p><span style="font-family: verdana,geneva;">Please be advised that our privacy   policy can change at any time, so please continue to check back from time to   time. If we make any substantial changes we will ensure that we create an   announcement&nbsp;posting on the site.</span></p> <p><span style="font-family: verdana,geneva;">Thank you,</span></p> <p><span style="font-family: verdana,geneva;">Team Addoway</span></p> <p><span style="font-family: verdana,geneva;"><br> If you have any questions about   any information listed on Addoway please contact: <span style="text-decoration: underline; color: #0000ff;">membersupport<a href="mailto:webmaster@addoway.com" target="_blank">@addoway.com</a></span></span></p><p><span style="font-family: verdana,geneva;"><span style="color: #000000;">Addoway Inc.&nbsp;7147 E. Rancho Vista Drive, Suite B25,&nbsp;Scottsdale, AZ 85251</span><span style="text-decoration: underline; color: #0000ff;"><br></span></span></p></td></tr></tbody></table> <p><span style="font-family: verdana,geneva;"><br></span></p>
+				   	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span style="font-family: verdana, geneva;">By becoming a member of   Addoway.com you are agreeing to have your email address; contact information; account activity when bidding,   selling, and/or buying; shipping and billing information you provide when   completing a transaction; chat and discussion data including but not limited   to ratings of other buyer/sellers; statistical analysis on page visits; IP   address; traffic to and from the site; and information from other companies   giving us demographic and traffic data collected and stored by our servers   located in the United States. We treat all information on our servers as   critically important data and will go through every effort to ensure your   privacy and security. Third parties may illegally intercept information   during your time with Addoway.com and we therefore cannot promise that your   information will always be safe and private from these unlawful parties, but   we make every effort to do everything possible on our side to stay protected   and keep these third parties out.</span></p> <p><span style="font-family: verdana,geneva;">Addoway.com will not in any way   sell or rent your information to any organization for any use at all unless   you give prior explicit consent. We may use this information to help us   improve the site content for marketing and advertising purposes. All users   have the option of opting out of marketing contacts in their user profile.   All information given to Addoway.com to create an account to buy and/or sell   will be kept in strict confidentiality and kept secure with the latest   technology. Personal information is collected solely to provide you with a   safe and efficient online experience.</span></p> <p><span style="font-family: verdana,geneva;">At Addoway.com you can trust that   your information is kept secure and safe. Please see rules under statistical   data for any questions regarding our question when creating a new account.   Users must take full responsibility of all information on their account and   assume responsibility for unlawful access into their account. Users must make   every effort to use secure networks and preferably access from home to reduce   the chances of account login and password information being stolen. Please   contact us immediately if you discover any suspicious activities or   violations of the terms &amp; conditions stated here. We may disclose personal   information in response to illegal activities to law enforcement if any   content violates the rights of other members. We will never ask you to verify   account information via email or phone. All contact from Addoway and its   users is strictly done through your profile.&nbsp;<br><b><br> </b>Addoway.com&nbsp;is the sole owner   of the information collected on this Site. We use collected information to   provide or improve Services for Users, and as more particularly set forth   above, we may use collected information to contact Users for a variety of   reasons, including, without limitation, obtaining information from Users   regarding their use of the Site and Services and ways we can improve them,   and to send information to them regarding us, our Services, or our Partners,   such as promotions and events. We use this information in ways we determine   appropriate in our sole discretion, and we reserve the right to do so. We   will not sell or rent personally identifiable information to anyone, and we   will not disclose any collected information to others in ways different from   what is disclosed in this statement.&nbsp;&nbsp;<br> &nbsp;<br> Addoway.com&nbsp;collects personally identifiable information when you   register for an Addoway.com account, when you use certain Addoway.com   products or services, and when you visit Addoway.com pages. Addoway.com may   also receive personally identifiable information from our business   partners.&nbsp;<br> &nbsp;<br> When you register with Addoway.com, we ask for personally identifiable   information including, but not limited to, your name, email address, address,   and zip code. Once you register with Addoway.com and sign in to our services,   you are not anonymous to us. Addoway.com also automatically receives and   records information on our server logs from your browser including your IP   address, Addoway.com cookie information, and the page you requested.&nbsp;<br> &nbsp;<br><b>Statistical Data</b></span></p> <p><span style="font-family: verdana,geneva;">When you add yourself to the   Addoway.com database you are asked a question regarding your online   purchasing experience. This information is only gathered for statistical   purposes to understand the population of users that come to Addoway.com and   will not be sold or rented in any way to any organization. All personal   information will be also kept confidential to protect privacy. Please strive   in every way to keep your computer and internet connections safe and secure   as we will not be responsible for account information being stolen due to   comprises from the users lack of personal precautions.</span></p> <p><span style="font-family: verdana,geneva;"><br></span></p> <p><span style="font-family: verdana,geneva;"><b>Protect Yourself Online and   Prevent Fraud&nbsp;</b>&nbsp;</span></p> <p><span style="font-family: verdana,geneva;">1.&nbsp; Never reply to emails that ask for personal information verification. Please   report all spam emails like this to&nbsp;<a href="mailto:spam@addoway.com" target="_blank">spam@addoway.com</a>. If you receive an email from Addoway.com you will also   be able to read this email via your personal account at&nbsp;<a href="../" target="_blank">www.addoway.com</a>. We will never contact you and ask you to verify personal   information.</span></p> <p><span style="font-family: verdana,geneva;"><br></span></p> <p><span style="font-family: verdana,geneva;">2.&nbsp; Keep a close eye on your personal accounts. Credit bureau reports should be   run annually for everyone to verify all information is correct and valid.</span></p> <p><span style="font-family: verdana,geneva;"><br></span></p> <p><span style="font-family: verdana,geneva;">3.&nbsp; In the event of identity theft; please follow the proper procedures to   protect yourself and your credit. The three major credit bureaus are listed   below, so please feel free to utilize this information in the event that you   want to check your credit history. &nbsp;&nbsp;</span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><br></span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><b>Equifax&nbsp;</b><a href="http://pricebeats.com/privacy/%5C" target="_blank">www.equifax.com</a>&nbsp;<br> Reporting fraud:   1-800-525-6285&nbsp;<br> Ordering report: 1-800-685-1111</span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><b>Experian&nbsp;</b><a href="http://pricebeats.com/privacy/%5C" target="_blank">www.experian.com&nbsp;</a>&nbsp;<br> Reporting fraud: 1-888-397-3742&nbsp;<br> Ordering report: 1-888-397-3742</span></p> <p style="text-align: center;"><span style="font-family: verdana,geneva;"><b>TransUnion&nbsp;</b><a href="http://pricebeats.com/privacy/%5C" target="_blank">www.tuc.com&nbsp;</a>&nbsp;<br> Reporting fraud: 1-800-680-7289&nbsp;<br> Ordering report: 1-800-916-8800&nbsp;</span></p> <p><span style="font-family: verdana,geneva;"><br> 4.&nbsp; Never give your password to anyone at   anytime. We suggest passwords that are strong in nature containing both alpha   and numeric characters. We also suggest changing your password often.</span></p> <p><span style="font-family: verdana,geneva;">5.&nbsp; Keep your firewall turned on; keep your operating system up-to-date; use   updated antivirus software; and use updated antispyware technology. See&nbsp;<a href="http://www.microsoft.com/protect/default.mspx" target="_blank">http://www.microsoft.com/protect/default.mspx&nbsp;</a>for more information on keeping your PC safe. &nbsp;</span></p><p><span style="font-family: verdana,geneva;"> 6.&nbsp; Know your seller. Read all comments   and pay specific attention to user comments on communication. Understand the   users return policy if any applies. If there is a deal that sounds too good   to be true, then it is probably too good to be true! Communicate openly and   understand expectations. If you have a question, please ask. Ask for tracking   numbers as soon as the product is shipped. &nbsp;</span></p><p><span style="font-family: verdana,geneva;"> 7.&nbsp; Know your buyer. Abnormal requests can   be a sign up suspicious activity. Are they requesting to pay it from multiple   PayPal accounts? What is their member rating? Communicate with the buyer   through the instant messenger format in your my profile section. Make sure   you have open lines of communication before sending your products. Once you   receive tracking numbers send them directly to the client and if you can   insure the products, please do so to protect yourself in the event the buyer   indicates they never received your item. The most important step is to set   expectations and communicate with the buyer.</span></p> <p><span style="font-family: verdana,geneva;">8.&nbsp; Addoway.com has been created to facilitate in the buying/selling transaction   process. We promote a safe and fun transaction environment. Buying and/or   selling outside of Addoway.com is done at users own risk! Use our   services. &nbsp;</span></p> <p><span style="font-family: verdana,geneva;">Please be advised that our privacy   policy can change at any time, so please continue to check back from time to   time. If we make any substantial changes we will ensure that we create an   announcement&nbsp;posting on the site.</span></p> <p><span style="font-family: verdana,geneva;">Thank you,</span></p> <p><span style="font-family: verdana,geneva;">Team Addoway</span></p> <p><span style="font-family: verdana,geneva;"><br> If you have any questions about   any information listed on Addoway please contact: <span style="color: #0000ff;"><span style="text-decoration: underline;">membersupport@addoway.com</span></span></span></p></td></tr></tbody></table> <p><span style="font-family: verdana,geneva;"><br></span></p>
 				</div>
             </td>
         </tr>        
@@ -119,7 +306,7 @@ $(document).ready(function() {
             <div id="way_footer_back"></div>            
             <div id="way_footer_out">
                 <div id="way_footer_content">
-                    <div class="footer_copyright">© Addoway.com 2011, all rights reserved</div>
+                    <div class="footer_copyright">© Addoway.com 2012, all rights reserved</div>
                     <div class="footer_links">
                         <ul>
                             <li><a href="http://www.addoway.com/terms" title="Terms of Use">Terms of Use</a></li>
@@ -127,7 +314,7 @@ $(document).ready(function() {
                             <li><a href="http://www.addoway.com/about" title="About Us">About Us</a></li>
                             <li><a href="http://www.addoway.com/press" title="Press">Press</a></li>
                             <li><a href="http://www.addoway.com/shareandsave" title="Share &amp; Save">Share &amp; Save</a></li>
-                            <!--<li><a href="http://www.addoway.com/share-addoway" title="Affiliate Links">Affiliate Links</a></li>-->
+                            <li><a href="http://www.addoway.com/share-addoway" title="Affiliate Links">Affiliate Links</a></li>
                         </ul>
                     </div>
                     <div class="clear"></div>
@@ -137,6 +324,12 @@ $(document).ready(function() {
 	</div>
    	<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
    	<div id="FB_HiddenIFrameContainer" style="display:none; position:absolute; left:-100px; top:-100px; width:0px; height: 0px;"></div>
+   	<div style="display: none;">
+        <div id="fundraiser_pop_main">
+            <div><a id="fundraiser_pop_donate_link" href="http://www.globalgiving.org/dy/fundraiser/prevfund/gg.html?regid=6767" target="_blank">&nbsp;</a></div>
+            <img src="/images/charity/2012_Tornadoes_pop_up.jpg" width="489" height="360">
+        </div>
+    </div>  
 	<script type="text/javascript">
                             var _gaq = _gaq || [];
                             _gaq.push(["_setAccount", "UA-8107356-2"]);
@@ -153,4 +346,4 @@ $(document).ready(function() {
     
     
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
