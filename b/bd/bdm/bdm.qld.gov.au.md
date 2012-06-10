@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206222552id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610175702id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
 
 # Privacy - Department of Justice and Attorney-General
 
