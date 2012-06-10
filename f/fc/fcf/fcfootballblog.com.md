@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcfootballblog.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110914id_/http%3A//www.livefootball.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcfootballblog.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610032527id_/http%3A//www.livefootball.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,7 +89,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.livefootball.net/terms-and-conditions](https://web.archive.org/web/20111205110914id_/http%3A//terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.livefootball.net/terms-and-conditions](https://web.archive.org/web/20120610032527id_/http://www.livefootball.net/terms)
 
 **Your Consent**
 
