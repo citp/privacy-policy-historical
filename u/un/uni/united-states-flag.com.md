@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the united-states-flag.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101190505id_/http%3A//www.united-states-flag.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the united-states-flag.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610210835id_/http%3A//www.united-states-flag.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
