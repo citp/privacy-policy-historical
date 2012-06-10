@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108042800id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610081220id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Movoto Real Estate - Privacy Policy
 
@@ -58,6 +58,6 @@ Movoto requires our sales staff, affiliated real estate agents and other personn
 
 **Our Affiliated Entities:** A do-not-call request applies to Movoto and our affiliated agents for the purposes of Movoto initiated business contact. 
 
-**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1730 S El Camino Real Ste 500, San Mateo, CA 94402. We can also be reached by fax at (650) 349-9900, or by phone at 888-999-6806.
+**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1730 S El Camino Real Ste 500, San Mateo, CA 94402. We can also be reached by fax at (650) 349-9900, or by phone at 888-766-8686.
 
-© 2004-2011 by Movoto LLC. All rights reserved. Patent Pending. 
+© 2004-2012 by Movoto LLC. All rights reserved. Patent Pending. 
