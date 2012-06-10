@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618215848id_/http%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610235306id_/http%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# College Admissions - College Search - Cappex - Privacy Policy
+# Privacy Policy - Cappex
 
 **This Privacy Policy applies to Web sites operated by Cappex.com, LLC ("Cappex"), including www.cappex.com and www.meritaid.com. Please read this policy carefully before sharing any of your personally identifiable information with us.**
 
@@ -33,7 +33,9 @@ Information is collected from our users at several different points during visit
 
 **Newsletter** \- If a user wishes to subscribe to any of our newsletters, we ask them to register by providing their contact information, including email address, geographic information (ZIP code), and other information about themselves (such as high school student, parent, etc.). Newsletter recipients will also receive offers from time-to-time from Cappex and select sponsors; however, you may opt-out of receiving these offers at any time.
 
-**Cookies and Web Site Information** \- We use "cookie" technology and web server logs to collect information about how our web site is used by you. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computer used by you to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session.
+**Cookies and Web Site Information** \- We use "cookie" technology and web server logs to collect information about how our web site is used by you. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computer used by you to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. Information gathered through cookies and by our web server logs may include the date and time of visits, your IP address, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information may be appended to your personal information provided by you to us to help us provide you with better service and information. It also may be collected on an aggregate basis, and shared with or collected by third-party Web analytics services to help Cappex understand our users' aggregated Web site usage patterns and related trends. 
+
+**Click Tracking** \- This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service exclusively for improving the usefulness of Cappex.com for our visitors. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 Information gathered through cookies and by our web server logs may include the date and time of visits, your IP address, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information may be appended to your personal information provided by you to us to help us provide you with better service and information. It also may be collected on an aggregate basis, and shared with or collected by third-party Web analytics services to help Cappex understand our users' aggregated Web site usage patterns and related trends.
 
@@ -51,7 +53,7 @@ In addition, Cappex uses your information in order to customize our site to your
 
 **Contacting You by E-Mail** \- Cappex may use your contact information periodically in order to send you e-mail regarding updates at the Cappex site, such as new Cappex opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your profile, including the types of colleges and other activities you indicated having an interest in. Please note that e-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy.
 
-**Special Offers** \- We send all new users a welcoming email. Registered users will occasionally receive information on products, services, special deals, or a newsletter. Out of respect for the privacy, you may opt out of receiving these types of communications such as these offers at any time by following this [link](https://web.archive.org/page/account/optout.jsp;jsessionid=92F132887112E99B6B541C1F5F970530.server1).
+**Special Offers** \- We send all new users a welcoming email. Registered users will occasionally receive information on products, services, special deals, or a newsletter. Out of respect for the privacy, you may opt out of receiving these types of communications such as these offers at any time by following this [link](https://web.archive.org/page/account/optout.jsp).
 
 **Optional Information** \- At various other points during your visit to Cappex, you may be asked to provide information about yourself. For example, you may wish to participate in a survey or a contest, or apply to a scholarship. Participation in surveys, contests or scholarships or the use of other services which require the input of additional information is completely voluntary on your part, and you have the choice about whether to disclose the information necessary to use these features of our site. Contact information will be used to process entries, send promotional material, notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving use of and satisfaction with the Cappex site. Cappex may also conduct surveys on behalf of colleges, universities and other parties in order to provide them marketing and business information; provided however, none of your personally identifiable information will be shared as part of such surveys without your consent.
 
@@ -63,7 +65,7 @@ back to top
 
 Cappex will not knowingly sell, share, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy.
 
-**Sharing Information with Colleges and Universities** \- During the registration process, and at certain points thereafter in connection with specific offers, Cappex asks you whether information about you may be sent to third parties, including colleges, universities and sponsors who have products, services and opportunities which may be useful to you. Because Cappex understands how important your information is to you, we do not share any information that can identify you without your permission. If you give your permission to allow third parties to contact you, personal information about you (such as your contact information and other information collected during your visit to Cappex) may be shared with colleges, universities and other organizations. Regardless of your decision regarding the sharing of your personal information, we reserve the right to share aggregate demographic data and related usage information with our business partners and university and college users. Such aggregate information will not contain any personal information which can identify any individual user.
+**Sharing Information with Colleges and Universities** \- During the registration process, and at certain points thereafter in connection with specific offers, Cappex asks you whether information about you may be sent to third parties, including colleges, universities and sponsors who have products, services and opportunities which may be useful to you. Certain actions on the site - including but not limited to adding a college to your list, asking a college a question, and indicating you are planning to apply to a college - may also result in your information being shared with colleges. Because Cappex understands how important your information is to you, we do not share any information that can identify you without your permission. If you give your permission to allow third parties to contact you, personal information about you (such as your contact information and other information collected during your visit to Cappex) may be shared with colleges, universities and other organizations. Regardless of your decision regarding the sharing of your personal information, we reserve the right to share aggregate demographic data and related usage information with our business partners and university and college users. Such aggregate information will not contain any personal information which can identify any individual user.
 
 **Parents, Counselors and Advisors** \- Cappex permits you to share access to your account with parents, guardians, school counselors or other trusted advisors. If you permit such access, an email will be sent to such person who, if they are not already registered at Cappex, will, after registering at our site and creating a password, have full or partial access to your account and personally identifiable information. If they are already be registered with Cappex, as may be the case of a high school counselor for example, and you grant them access, such access will be immediate. Thereafter, we will share with such persons your profile, messages to you about colleges and universities, and other information relating to you so they may assist you in making one of the most important decisions of your life.
 
@@ -85,13 +87,13 @@ Cappex has security measures in place to help protect against the loss, misuse a
 
 Cappex helps protect personally identifiable information by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the servers where your information is stored. Our staff is trained to comply with our security procedures, are bound by confidentiality and our security procedures are reviewed and revised periodically.
 
-If you have any questions about security issues at our site, please send an e-mail to [privacy@cappex.com](mailto:privacy@cappex.com?subject=Security%20Question), and we will try to answer your questions.
+If you have any questions about security issues at our site, please send an e-mail to [privacy@cappex.com](mailto:privacy@cappex.com?subject=Security%20Question) , and we will try to answer your questions.
 
 back to top
 
 ### 5\. Updating Your Information
 
-You can update your personal information by clicking [here](https://web.archive.org/page/account/login.jsp;jsessionid=92F132887112E99B6B541C1F5F970530.server1), by clicking on the "Update Profile" link on the Cappex site, or by following the instructions included in any e-mail message you receive from Cappex. Users who are experiencing problems with updating their information should contact us at [customerservice@cappex.com](mailto:customerservice@cappex.com?subject=), and we will try to resolve your problems.
+You can update your personal information by clicking [here](https://web.archive.org/page/account/login.jsp), by clicking on the "Update Profile" link on the Cappex site, or by following the instructions included in any e-mail message you receive from Cappex. Users who are experiencing problems with updating their information should contact us at [customerservice@cappex.com](mailto:customerservice@cappex.com?subject=) , and we will try to resolve your problems.
 
 back to top
 
@@ -99,22 +101,22 @@ back to top
 
 **Acceptance of Terms** \- Your use of this site indicates an acceptance of the terms of the Privacy Policy.
 
-**Disclaimer** \- Cappex provides information created both by Cappex, and by third parties. While our site strives to provide accurate advice, Cappex does not make any warranty regarding the accuracy, reliability or use of any information provided on this site. Please see our [Terms of Use.](https://web.archive.org/page/about/termsOfService.jsp;jsessionid=92F132887112E99B6B541C1F5F970530.server1)
+**Disclaimer** \- Cappex provides information created both by Cappex, and by third parties. While our site strives to provide accurate advice, Cappex does not make any warranty regarding the accuracy, reliability or use of any information provided on this site. Please see our [Terms of Use.](https://web.archive.org/page/about/termsOfService.jsp)
 
-**Choice/Opt-out** \- Cappex users are given the opportunity to "opt-out" of having their personally identifiable information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from Cappex by clicking [here](https://web.archive.org/page/account/optout.jsp;jsessionid=92F132887112E99B6B541C1F5F970530.server1). Cappex will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [customerservice@cappex.com](mailto:customerservice@cappex.com?subject=), and we will try to answer your questions. 
+**Choice/Opt-out** \- Cappex users are given the opportunity to "opt-out" of having their personally identifiable information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from Cappex by clicking [here](https://web.archive.org/page/account/optout.jsp). Cappex will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [customerservice@cappex.com](mailto:customerservice@cappex.com?subject=) , and we will try to answer your questions. 
 
 **Changes to the Privacy Policy** \- Cappex reserves the right to update this Privacy Policy from time to time without notice to users other than posting the new Privacy Policy on this page. After posting such amended Privacy Policy, all information provided to us will be subject to the terms of the amended Privacy Policy. Please visit this page periodically so that you will be apprised of any changes. Your use of this site indicates an acceptance of the terms of the Privacy Policy.
 
-Your privacy is important to Cappex. If you have questions about any of the provisions described above, please contact us at [privacy@cappex.com](mailto:privacy@cappex.com?subject=).
+Your privacy is important to Cappex. If you have questions about any of the provisions described above, please contact us at [privacy@cappex.com](mailto:privacy@cappex.com?subject=) .
 
 **Alternatively, you may contact us at:**
 
 Privacy at Cappex  
 Cappex.com, LLC  
-600 Laurel Avenue  
+2008 Saint Johns Avenue  
 Highland Park, IL 60035  
 
 
 back to top
 
-Last Updated: June 26, 2008
+Last Updated: September 12, 2011
