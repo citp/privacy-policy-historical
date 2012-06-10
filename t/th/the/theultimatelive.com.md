@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theultimatelive.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612225923id_/http%3A//www.theultimatelive.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theultimatelive.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610141444id_/http%3A//www.theultimatelive.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » www.theultimatelive.com
 
@@ -62,6 +62,5 @@ Clarksville, Indiana 47131
 
 **
 
-Copyright © 2007-2011 TheUltimateLive / All Rights Reserved. / 
-
-[ ](https://web.archive.org/web/20110612225923id_/http://www.theultimatelive.com/policy/%3C/div)
+ ****[](http://www.addthis.com/bookmark.php?v=250&username=tdcpepsi) / **+Bookmark & Tag This Page+ **  
+[](http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82SFLCK5JC82Q)
