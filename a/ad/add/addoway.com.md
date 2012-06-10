@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addoway.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010637id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addoway.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610121900id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.*
 
 # Addoway - Privacy Policy
 
@@ -20,7 +20,7 @@ When you add yourself to the Addoway.com database you are asked a question regar
 
 **Protect Yourself Online and Prevent Fraud  ** 
 
-1.  Never reply to emails that ask for personal information verification. Please report all spam emails like this to [spam@addoway.com](mailto:spam@addoway.com). If you receive an email from Addoway.com you will also be able to read this email via your personal account at [www.addoway.com](https://web.archive.org/web/20111102010637id_/http%3A//). We will never contact you and ask you to verify personal information.
+1.  Never reply to emails that ask for personal information verification. Please report all spam emails like this to [spam@addoway.com](mailto:spam@addoway.com). If you receive an email from Addoway.com you will also be able to read this email via your personal account at [www.addoway.com](https://web.archive.org/web/20120610121900id_/http%3A//). We will never contact you and ask you to verify personal information.
 
 2.  Keep a close eye on your personal accounts. Credit bureau reports should be run annually for everyone to verify all information is correct and valid.
 
@@ -41,7 +41,7 @@ Ordering report: 1-800-916-8800 
   
 4.  Never give your password to anyone at anytime. We suggest passwords that are strong in nature containing both alpha and numeric characters. We also suggest changing your password often.
 
-5.  Keep your firewall turned on; keep your operating system up-to-date; use updated antivirus software; and use updated antispyware technology. See<http://www.microsoft.com/protect/default.mspx>[ ](http://www.microsoft.com/protect/default.mspx)for more information on keeping your PC safe.  
+5.  Keep your firewall turned on; keep your operating system up-to-date; use updated antivirus software; and use updated antispyware technology. See <http://www.microsoft.com/protect/default.mspx>[ ](http://www.microsoft.com/protect/default.mspx)for more information on keeping your PC safe.  
 
 6.  Know your seller. Read all comments and pay specific attention to user comments on communication. Understand the users return policy if any applies. If there is a deal that sounds too good to be true, then it is probably too good to be true! Communicate openly and understand expectations. If you have a question, please ask. Ask for tracking numbers as soon as the product is shipped.  
 
@@ -56,7 +56,4 @@ Thank you,
 Team Addoway
 
   
-If you have any questions about any information listed on Addoway please contact: membersupport[@addoway.com](mailto:webmaster@addoway.com)
-
-Addoway Inc. 7147 E. Rancho Vista Drive, Suite B25, Scottsdale, AZ 85251  
-
+If you have any questions about any information listed on Addoway please contact: membersupport@addoway.com
