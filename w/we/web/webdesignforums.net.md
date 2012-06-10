@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignforums.net privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212234918id_/http%3A//www.webdesignforums.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignforums.net privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610180957id_/http%3A//www.webdesignforums.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebDesignForums.net
 
@@ -87,7 +87,4 @@ This policy was last modified on 13th Feb 2011
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.webdesignforums.net  
-11 Harness Way  
-St Albans, Hertfordshire AL4 9HA  
-United Kingdom  
-contact@rikemedia.com
+<<<< REMOVED!!!!! >>>>>
