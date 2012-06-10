@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestickytissue.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224151215id_/http%3A//social.thestickytissue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestickytissue.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611013540id_/http%3A//goth-social-network.lizvicious.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of TheStickyTissue.com
+# Privacy Policy | Liz Vicious | A Goth Social Social Network for Discerning Men.
 
 **Introduction**  
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this site. This is an adult site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this site. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. Notice - Use of website by the subscriber constitutes the subscriber's express assent to the use of personal information collected by site. 
