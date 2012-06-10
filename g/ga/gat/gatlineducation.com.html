@@ -1,261 +1,435 @@
-<!--The following is the downloaded HTML source of the gatlineducation.com privacy policy that was archived on 2011-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213065047id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gatlineducation.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611000306id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Cengage Learning - Privacy Statement</title>
-<link href="/css/Cengage_GlobalV3.css" rel="stylesheet" type="text/css">
-<link href="/css/cengage_dotcom.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="Cengage Learning delivers highly-customized learning solutions for universities, instructors, students, libraries, government agencies, corporations, and professionals worldwide.">
+<meta name="keywords" content="education, publication, higher education, learning solutions, libraries, english language teaching, global, k-12, ap, honors, reference, professional, brooks cole, course technology, custom solutions, delmar, gale, heinle, schirmer, south-western, wadsworth, thomson learning">
+<link href="/css/dotcom/cengage_global_search.css" rel="stylesheet" type="text/css">
+<link href="/css/dotcom/cengage_dotcom.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/jscript/dotcom/jquery.cycle.all.min.js"></script>
 </head>
 <body>
 <div id="global">
-  <!-- start the header  -->
-<div id="headerWrap">
-  <!--
-  use this if you need to have the styles for the header and footer imported sepratly from the main site
-  -->
-  <style>
-  @import url("/css/Headfoot_V3.css");
-  </style>
-  <div id="cengage_nav"> 
-    <div class="cen_headImg">
-      <a href="/" target="_parent"><img src="http://academic.cengage.com/images/header_logos/cengageLearning_v3.jpg" alt="Cengage Learning" width="289" height="52" border="0" align="top"></a>
-    </div>
-  </div>
-  <div id="cen_Learninglink">
-    <div id="MainHeadLinks">
-      <a href="/" target="_parent">Home</a><span class="EDUspacer">|</span>
-      <a href="/about/" target="_parent">About Us</a><span class="EDUspacer">|</span>
-      <a href="/contact/" target="_parent">Contact Us</a><span class="EDUspacer">|</span>
-      <a href="/press/" target="_parent">Press Room</a><span class="EDUspacer">|</span>
-      <a href="/careers" target="_blank">Careers</a> 
-    </div>
-    <div id="Region_Links">
-      <ul>
-        <li><a href="/country" target="_new">Change Your Country</a>	</li>
-        <li class="region_spacer">|</li>
-        <li class="Active_region">United States</li>
-      </ul>
-    </div>
-  </div>
-<!--end Cengage Nav-->
+<!-- Header TMPL file begins here  -->
+<div id="skip">
+<a href="#SkipToContent">Skip to Main Content</a>
 </div>
-<!-- end headerWrap -->
+
+<style type="text/css" media="all">
+@import "/css/dotcom/header_footer.css";
+</style>
+<script type="text/javascript" src="/omniture/customLinkTracking.js"></script>
+<script type="text/javascript" src="/jscript/jquery.DOMWindow.js"></script>
+<script type="text/javascript" src="/jscript/jquery.url.js"></script>
+<script type="text/javascript" src="/jscript/jquery.tooltip.min.js"></script>
+<script type="text/javascript" src="/jscript/validation.js"></script>
+<script type="text/javascript" src="/jscript/jquery.hoverIntent.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+	
+	
+		/*set up behavior of the search text box*/
+		var defaultValue='Enter author, title, ISBN or keyword';
+		$('#search_text').focus(function(){
+			if(this.value==defaultValue){this.value='';} 
+		});
+		$('#search_text').blur(function(){
+			if($.trim(this.value)==''){this.value=defaultValue;}
+		});
+		$('#search_text').bind('keypress', function(e){
+			if(e.keyCode==13){$('#submit_button_header').click();}
+		});
+		/*this is to remove the tool tip FOUC */
+		$('#search_text').focus(function(){
+			if(this.value==defaultValue){this.value='';} 
+		});
+		$('#search_text').blur(function(){
+			if($.trim(this.value)==''){this.value=defaultValue;}
+		});
+		$('#search_text').bind('keypress', function(e){
+			if(e.keyCode==13){$('#submit_button_header').click();}
+		});
+		$('#select_catalog').removeClass('offLeft');
+		$('#select_catalog').addClass('selectAcatalog');		
+
+		/*hide select catalog tooltip on load*/
+		$('#select_catalog').hide();
+		/*form submit behavior*/
+		$("#submit_button_header").click(function(){
+			if($('#search_text').val()==defaultValue){$('#search_text').val('');}
+			if($("#N").val()=='0'){
+				$('#select_catalog').show();
+				return false;
+				}
+			if($("#N").val()=='gale'){
+				$('#searchInput').val($('#search_text').val());
+				$('#CenSearch').html('');
+				$('#gale_search').submit();
+				}
+			else if($("#N").val()=='elt'){
+				$('#search_terms').val($('#search_text').val());
+				$('#CenSearch').html('');
+				$('#elt_search').submit();
+				}
+			else{
+				var n = validateISBN2($('#search_text').val());
+				if (n[0]==true){$('#search_text').val(n[1]);}
+				var q = $('#search_text').val().replace(/^\s+|\s+$/g,'');
+				if (q==null || q.length== 0 ||q =='Enter author, title or keyword')
+					return false;
+				else{
+					$('#search_text').val(q);
+					$('#CenSearch').submit();
+					}
+				}
+			
+		});
+		
+	
+		
+		$("#Right_nav_dotcom a").click(function(){
+			var ObId = $(this).get(0).id;
+	
+			s=s_gi('thcengagecorp');
+			s.linkTrackVars='prop1,events'; 
+			s.linkTrackEvents='event4';
+			s.prop1=ObId;
+			s.eVar4=ObId;
+			s.events='event4';
+			s.tl(this,'o','ObId');
+		});
+		
+	
+		
+// hover fucntions for the show and hide 
+
+  function  ShowNav() {$('#tab1').fadeIn("10");$('#Cat_nav1 p').removeClass('TopNavHeader_long');$('#Cat_nav1 p').addClass('TopNavHeader_long_hov');$('#Cat_nav1').addClass('hov_bg');}
+  function  hideNav() {$('#tab1').fadeOut("2");$('#Cat_nav1 p').removeClass('TopNavHeader_long_hov');$('#Cat_nav1 p').addClass('TopNavHeader_long');$('#Cat_nav1').removeClass('hov_bg');}
+ 
+  function ShowNav_CN2() {$('#tab2').fadeIn("10");$('#Cat_nav2 p').removeClass('TopNavHeader');$('#Cat_nav2 p').addClass('TopNavHeader_hov');$('#Cat_nav2').addClass('hov_bg');}
+  function hideNav_CN2() { $('#tab2').fadeOut("2");$('#Cat_nav2 p').removeClass('TopNavHeader_hov');$('#Cat_nav2 p').addClass('TopNavHeader');$('#Cat_nav2').removeClass('hov_bg');}
+
+  function ShowNav_CN3() {$('#tab3').fadeIn("10");$('#Cat_nav3 p').removeClass('TopNavHeader');$('#Cat_nav3 p').addClass('TopNavHeader_hov');$('#Cat_nav3').addClass('hov_bg');}
+  function hideNav_CN3() {$('#tab3').fadeOut("2");$('#Cat_nav3 p').removeClass('TopNavHeader_hov');$('#Cat_nav3 p').addClass('TopNavHeader');$('#Cat_nav3').removeClass('hov_bg');}
+
+  function ShowNav_CN4() {$('#tab4').fadeIn("10");$('#Cat_nav4 p').removeClass('TopNavHeader');$('#Cat_nav4 p').addClass('TopNavHeader_hov');$('#Cat_nav4').addClass('hov_bg');}
+  function hideNav_CN4() {$('#tab4').fadeOut("2");$('#Cat_nav4 p').removeClass('TopNavHeader_hov');$('#Cat_nav4 p').addClass('TopNavHeader');$('#Cat_nav4').removeClass('hov_bg');}
+	
+	
+  // this should turn off the .on div's and toggel on the selected div. ides the slickbox on clicking the noted link
+  $('#Cat_nav1').hoverIntent(ShowNav, hideNav);
+  $('#Cat_nav2').hoverIntent(ShowNav_CN2, hideNav_CN2);
+  $('#Cat_nav3').hoverIntent(ShowNav_CN3, hideNav_CN3);
+  $('#Cat_nav4').hoverIntent(ShowNav_CN4, hideNav_CN4);
+
+// this is to remove the FOUC for the tabs navs
+
+	$('#tab1').removeClass('offLeft');
+	$('#tab1').addClass('dropDown');
+	$('#tab2').removeClass('offLeft');
+	$('#tab2').addClass('dropDown');
+	$('#tab3').removeClass('offLeft');
+	$('#tab3').addClass('dropDown');
+	
+	$('.dropDown').hide();
+	
+// this should trigger the hover intent to fire on Tab focus. , sorry very verbose 
+
+$('#Cat_nav0 a').focus(function(){hideNav();hideNav_CN2();hideNav_CN3();
+    });
+$('#Cat_nav1').focus(function(){ShowNav();hideNav_CN2();hideNav_CN3();
+    });    
+$('#Cat_nav2').focus(function(){ShowNav_CN2();hideNav();hideNav_CN3();
+    });    
+$('#Cat_nav3').focus(function(){ShowNav_CN3();hideNav();hideNav_CN2();
+    });    
+$('#purchaseNav').focus(function(){hideNav();hideNav_CN2();hideNav_CN3();
+    });
+
+    
 
 
-  
+	});
+</script>
+<style type="text/css">
+/* this is or the search buttion */
 
-  <div id="content">
-    <div id="main">
-      <div id="Left_nav" style="margin-top:10px;">
-  <p>
-    </p><h3>
-      Browse Our Catalogs
-    </h3>
-    <img src="/images/pubco/dotted_line.gif">
-    <ul>
-      <li>
-        <a href="http://elt.heinle.com">English Language Teaching</a>
-      </li>
-      <li>
-        <a href="/country" target="_blank">Global</a>
-      </li>
-      <li>
-        <a href="/highered">Higher Education</a>
-      </li>
-      <li>
-        <a href="/school">K-12/AP* Honors</a>
-      </li>
-      <li>
-        <a href="/gale" target="_blank">Library &amp; Reference</a>
-      </li>
-      <li>
-        <a href="/pro">Professional</a>
-      </li>
-    </ul>
-  <p></p>
-  <p>
-    </p><h3>
-      Our Featured Services
-    </h3>
-    <img src="/images/pubco/dotted_line.gif">
-    <ul>
-	  <li>
-        <a href="http://www.cengage.com/cengagecourse">CengageCourse</a>
-      </li>
-      <li>
-        <a href="http://www.cengage.com/custom">Custom Solutions</a>
-      </li>
-	  <li>
-        <a href="http://www.cengage.com/enterprise">Enterprise</a>
-      </li>
-	  <li>
-        <a href="http://www.cengage.com/teamup">TeamUP</a>
-      </li>
-	</ul>
-  <p></p>
-  <p>
-    </p><h3>
-      Get Information On
-    </h3>
-    <img src="/images/pubco/dotted_line.gif">
-    <ul>
-      <li>
-        <a href="/press">
-          <span id="press_link">Press Room</span>
-        </a>
-      </li>
-      <li>
-        <a href="/trends">
-          <span id="trends_link">Knowledge &amp; Trends</span>
-        </a>
-      </li>
-      <li>
-        <a href="/investor">
-          <span id="investor_link">Investor Relations</span>
-        </a>
-      </li>
-      <li>
-        <a href="/pubco/contact_author_corner.html">
-          <span id="author_link">Prospective Authors</span>
-        </a>
-      </li>
-    </ul>
-  <p></p>
-  <p>
-    </p><h3>
-      Our Leading Brands
-    </h3>
-    <img src="/images/pubco/dotted_line.gif">
-    <ul>
-      <li>
-        <a href="/brookscole">Brooks/Cole</a>
-      </li>
-      <li>
-        <a href="/coursetechnology">Course Technology</a>
-      </li>
-      <li>
-        <a href="/delmar">Delmar</a>
-      </li>
-      <li>
-        <a href="/gale">Gale</a>
-      </li>
-      <li>
-        <a href="/heinle">Heinle</a>
-      </li>
-      <li>
-        <a href="/schirmer">Schirmer</a>
-      </li>
-      <li>
-        <a href="/southwestern">South-Western</a>
-      </li>
-      <li>
-        <a href="/wadsworth">Wadsworth</a>
-      </li>
-    </ul>
-  <p></p>
-  <p>
-    </p><h3>
-      Featured Product Lines
-    </h3>
-    <img src="/images/pubco/dotted_line.gif">
-    <ul>
-      <li>
-        <a href="http://4ltrpress.cengage.com" target="_blank">4LTR Press</a>
-      </li>
-      <li>
-        <a href="http://aplia.com" target="_blank">Aplia</a>
-      </li>
-      <!--<li>
-        <a href="http://www.ardenshakespeare.com" target="_blank">Arden Shakespeare</a>
-      </li>-->
-      <li>
-        <a href="http://www.atomicdogpublishing.com" target="_blank">Atomic Dog Publishing</a>
-      </li>
-      <li>
-        <a href="http://chilton.cengage.com" target="_blank">Chilton</a>
-      </li>
-      <li>
-        <a href="http://computaught.com" target="_blank">CompuTaught</a>
-      </li>
-      <li>
-        <a href="http://ed2go.com" target="_blank">Education To Go</a>
-      </li>
-      <li>
-        <a href="http://milady.cengage.com" target="_blank">Milady</a>
-      </li>
-      <li>
-        <a href="http://netlearning.cengage.com" target="_blank">NetLearning</a>
-      </li>
-      <li>
-        <a href="http://www.galegroup.com/psm" target="_blank">Primary Source Media</a>
-      </li>
-      <li>
-        <a href="http://www.sleepingbearpress.com" target="_blank">Sleeping Bear Press</a>
-      </li>
-    </ul>
-  <p></p>
-</div>
-      <div id="center_div">
-        <h2> Privacy Statement</h2>
-        <p> Cengage Learning, Inc., and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. </p>
-        <h4 class="subhead"> Scope</h4>
-        <p> This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) website (<a href="/">www.cengage.com</a>) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school's own privacy policy. </p>
-        <p> Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's website, you should also read the privacy statement associated with that site. </p>
-        <h4 class="subhead"> Information That We Collect</h4>
-        <p> When you visit our website, you may provide us with two types of information: (1) personally identifiable information such as contact and other information about your profession or your interests that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the website. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. </p>
-        <h4 class="subhead"> How We Use Personal Information</h4>
-        <p> In general, we use all of the information we collect in order to: </p>
-        <ul style="padding-left: 20px; list-style-type: disc">
-          <li style="list-style-type: disc">respond to your requests for information, </li>
-          <li style="list-style-type: disc">provide you with products and services, </li>
-          <li style="list-style-type: disc">determine if you are eligible to receive certain products or services, </li>
-          <li style="list-style-type: disc">provide customer service, and </li>
-          <li style="list-style-type: disc">provide you with additional information that may be of interest, including marketing and educational materials from us and our partners. </li>
-        </ul>
-        <p> We will tailor the materials we provide you based on the information in your profile, such as your professional interests. Also, certain products (such as teachers' guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. </p>
-        <p> If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. </p>
-        <h4 class="subhead"> When We Disclose Personal Information</h4>
-        <p> We may also provide any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. </p>
-        <p> <i>If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about Cengage Learning products and services, or by contacting our Customer Service department by email at: <a href="mailto:esales@cengage.com">esales@cengage.com</a> or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET) and requesting the desired change (e.g., opting in or out of faxes).</i> </p>
-        <p> <i>You can also opt-out of receiving marketing emails from us and our partners at any time my following the opt-out instructions provided on every email. </i> </p>
-        <p> Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. </p>
-        <h4 class="subhead"> A Special Note About Children</h4>
-        <p> Although parts of the galeschools.com website provide information and activities for students, we do not knowingly collect any personal information about children. Teachers must provide their own personal information in order for students to participate in our online quizzes and contests. </p>
-        <p> We encourage parents and teachers to spend time online with children and to monitor their online activities. Please protect your child's privacy by instructing them to never provide personal information on this site or any other, or within any software registration process, without your permission. </p>
-        <h4 class="subhead"> Information Collected on Behalf of Educational Institutions</h4>
-        <p> Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school's privacy statement and FERPA, please contact that school's administration. </p>
-        <h4 class="subhead"> Cookies and Website Information</h4>
-        <p> Like most other commercial websites, we use standard "cookie" technology and web server logs to collect information about how our website is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. </p>
-        <p> Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our website and the websites visited just before and just after our website. This information is collected on an aggregate basis, and also may be associated with your personal information. </p>
-        <h4 class="subhead"> How Do You Access and/or Modify Your Information or Choices?</h4>
-        <p> If you visit our website and volunteer personally identifiable information, you may access such information at any time by visiting the account information area where you will have the opportunity to revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an email. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. </p>
-        <h4 class="subhead"> How We Secure Your Information</h4>
-        <p> We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss. For example, when we ask users to provide payment information (such as credit card number), the data is protected during transmission to us using Secure Sockets Layer (SSL) encryption technology. </p>
-        <h4 class="subhead"> Information Process in the United Sates</h4>
-        <p> This website may be operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located. We will adequately protect the data in all locations. </p>
-        <h4 class="subhead"> Changes to Our Policies</h4>
-        <p> This privacy notice is effective as of August 31, 2007. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. </p>
-        <h4 class="subhead"> Contact Us with Any Questions</h4>
-        <p> If you have any questions about this privacy statement or our use of your personal information, please contact us at: </p>
-        <p> Cengage Learning, Inc. <br>
-          200 First Stamford Place<br>
-          Suite 400<br>
-          Stamford, CT 06902<br>
-        </p><p> or email us at: <a href="mailto:corporatecommunications@cengage.com">corporatecommunications@cengage.com</a>.</p>
-        <h4 class="subhead"> Privacy and Security Policy Regarding Social Security Numbers and Other Sensitive Personal information</h4>
-        <p> Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business.  Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure.  All Cengage workers are required to follow these established safeguards, which include the following:
-        </p><div class="press">
-          <ul>
-            <li>Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage.  Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage's established privacy and security policy.</li>
-            <li>Cengage will only disclose Social Security numbers and other sensitive personal information (i) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (ii) as required or permitted by law.</li>
-          </ul>
-          <p>If you have any questions, please contact us at <a href="mailto:Robert.hotaling@cengage.com">Robert.hotaling@cengage.com</a> or <br><!-- carriage return added to prevent awkward line break -->+1 443.676.8808. </p>
+.testing {
+	background:transparent url('/images/search/search_searchBtn.jpg');
+	height:24px;
+	background-position: 1px 2px;
+	background-repeat: no-repeat;
+	width:62px;
+	border:0;
+	/*float:right;*/
+	margin:0px 0 0 2px;
+	padding:8px 0px 0px 0px;
+	
+	
+}
+</style>
+<div id="header_container">
+  <div id="header_white">
+    <div id="header_white_content">
+      <div id="header_logo"><a href="http://www.cengage.com"><img src="/images/header_logos/cengageLearning_v3.jpg" alt="Cengage Logo"></a></div>
+
+      <div id="header_white_right">
+      <div id="country_links">United States&nbsp;|&nbsp; <a href="/country" target="_blank">Change Your Country</a></div>
+        <div id="search_function">
+          <form id="CenSearch" name="CenSearch" target="_parent" action="/search/showresults.do">
+	     <label for="search_text" style="position:absolute; left:-10000px;">Enter author, title, ISBN or keyword</label>
+		<input type="text" id="Ntk" name="Ntk" value="all" style="display:none; visibility:hidden;">
+		<input type="text" id="Ns" name="Ns" value="P_CopyRight_Year|1" style="display:none; visibility:hidden;">
+		<input type="text" maxlength="60" id="search_text" name="Ntt" size="35" value="Enter author, title, ISBN or keyword"> 
+            &nbsp;on&nbsp;
+             <label for="N" style="position:absolute; left:-10000px;">Select Catalog</label>
+            <select id="N" name="N" style="width:210px;">
+              <!-- the N value is to parallel the index assigned value from the search engine -->
+              <option value="0">Select Catalog...</option>
+              <option value="elt">English Language Teaching</option>
+              <option value="gale">Library &amp; Reference</option>
+              <option value="16">Higher Education Catalog</option>
+              <option value="14">Professional Catalog</option>
+              <option value="15">School Catalog</option>
+            </select>
+                <button id="submit_button_header" name="submit_button_header" type="button" class="testing" alt="Search button used to find your book by entering the author,title, or ISBN" align="top" title="You must select a catalog to begin your search." value=""></button>
+          </form>
+          <!-- 
+			The next 2 forms are hidden (style="display:none; visibility:hidden;").  
+			They are present because the form above, via Javascript, has the ability to submit to either of the forms below
+			-->
+          <form id="gale_search" name="#gale_search" action="http://gale.cengage.com/servlet/SearchResultServlet" method="get" style="display:none; visibility:hidden;">
+
+            <input id="searchInput" name="searchText" type="text">
+            <input name="imprint" type="hidden" value="000">
+            <input name="region" type="hidden" value="9">
+            <input name="searchType" type="hidden" value="As">
+            <input name="searchBy" type="hidden" value="subTitle">
+            <input name="search_dropdown" id="search_dropdown" value="0">
+          </form>
+          <form id="elt_search" name="elt_search" action="http://elt.heinle.com/searchcengage/" method="get" style="display:none; visibility:hidden;">
+            <input name="search_terms" id="search_terms" type="text">
+
+          </form>
+          <!-- End Hidden Forms -->
+          <div id="select_catalog" class="offLeft"><img src="/static/dotcom/pop-upmessage.png" alt="You must select a catalog to begin your search."></div>
         </div>
-        <p></p>
       </div>
+    </div>
+  </div>
+  
+  
+ <div id="TopNav">
+	 <div id="companyInfo">
+	     <div id="Cat_nav0">
+	 	<ul>
+	 		<li tabindex="0">Customers &amp; Markets</li>
+	 </ul>
+	 		<div id="tab0">	
+	 	<ul>
+                    <li><a href="/highered">Higher Education</a></li>
+                    <li><a href="/school">School</a></li>
+                    <li><a href="/pro">Professional</a></li>
+                    <li><a href="/gale">Library &amp; Research</a></li>
+                <!--<li ><a href="/enterprise" target="_new">Institutional Solutions</a></li>
+                    <li ><a href="http://elt.heinle.com/" target="_new">English&nbsp;Language&nbsp;Teaching</a></li>-->
+                    <li><a href="/country">Global</a></li>
+                  
+                </ul>
+	 
+	 	</div>
+	 </div>
+	</div>
+	 
+
+
+         <div id="BlueLinks">
+         
+          <div id="Cat_nav1" tabindex="0">
+          	<p class="TopNavHeader_long">Our Company</p>
+
+          <div id="tab1" class="offLeft" style="filter:
+          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=135,strength=4)
+          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=270,strength=3)
+          progid:DXImageTransform.Microsoft.Alpha(opacity=96);">
+            <ul>
+                <li><a href="/about/">Overview</a></li>
+                <li><a href="/about/leadership.html">Leadership</a></li>
+                <li><a href="/trends/">Knowledge &amp; Trends</a></li>
+                <li><a href="/contact/">Contacts</a></li>
+                <li><a href="/investor/">Investors</a></li>
+		<li><a href="/rep/">Find Your Rep</a></li>
+</ul>
+                 <ul class="narrow_rightNav">
+               
+                <li><a href="/careers/">Careers</a></li>
+		<li><a href="/media/press/">Media</a></li>
+		<li><a href="/conventions">Conventions</a></li>
+                <li class="end"><a href="/awards">Awards</a></li>
+                <li><a href="/accessibility/" target="_parent">Accessibility</a></li>
+
+	   </ul>
+  
+	 <div class="left_inerwrap"> </div><!-- end iner wrap-->
+
+          </div>
+
+ <!-- end fist hidden navagation-->
+</div>
+
+   <div id="Cat_nav2" tabindex="0">
+          	<p class="TopNavHeader">Solutions</p>
+
+          <div id="tab2" class="offLeft" style="filter:
+          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=135,strength=4)
+          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=270,strength=3)
+          progid:DXImageTransform.Microsoft.Alpha(opacity=95);">
+            <ul>
+               <li><a href="/brands/">Brands</a></li>
+                   
+               <li>Catalogs</li>
+               
+            <ul class="cat_leftNav"> 
+                	<li> <a href="/highered">›› Higher Education</a></li>
+                	<li> <a href="/school">›› School</a></li>
+             </ul>
+            <ul class="cat_rightNav">
+                	<li> <a href="/pro/">›› Professional</a></li>
+                	<li> <a href="http://www.cengage.com/gale" target="_new">›› Library &amp; Research</a></li>
+                	</ul>
+                
+                
+               </ul>
+              <ul>
+                <li><a href="/cengagecourse/">CengageCourse</a></li>
+             </ul>
+  	 	<div class="left_inerwrap"> </div><!-- end iner wrap-->
+
+          </div>
+         
+
+ <!-- end hidden navagation 2-->
+</div>
+
+  <div id="Cat_nav3" tabindex="0">
+          	<p class="TopNavHeader">Services</p>
+
+          <div id="tab3" class="offLeft" style="filter:
+          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=135,strength=4)
+          progid:DXImageTransform.Microsoft.Shadow(color=#dddddd,direction=270,strength=3)        
+          progid:DXImageTransform.Microsoft.Alpha(opacity=95);">
+            <ul>
+                <li><a href="/coursecare/">CourseCare</a></li>
+                <li><a href="http://www.cengage.com/custom/customCourseDev.html">Course Development</a></li>
+                <li><a href="http://www.cengage.com/custom">Custom Solutions</a></li>
+                <li><a href="http://www.cengage.com/teamup">TeamUP</a></li>
+                </ul>
+              <ul class="narrow_rightNav">
+                <li><a href="http://www.computaught.com/">CompuTaught</a></li>
+                <li><a href="http://www.ed2go.com/">Ed2go</a></li>
+                <li><a href="http://netlearning.cengage.com/">NetLearning</a></li>
+             </ul>
+  	  
+
+          </div>
+         
+
+ <!-- end hidden navagation 3-->
+</div>
+ 
+               </div>
+   
+         <div id="BrainLink"><!-- put the id for the tracking of the brain link on this -->  
+                <ul>
+          	        <li><a id="purchaseNav" href="http://www.cengagebrain.com/shop/index.html">Buy, Rent, Access CengageBrain.com</a></li>
+                </ul>
+
+     </div>
+            
+ 
+</div>
+<div style="width:100px;">
+ <a name="SkipToContent"></a>
+ </div>
+</div>
+      
+
+<!--  header TMPL file ends here -->
+<div id="content_wrap">
+<!--<div id="content_wrap_right"> -->
+<div id="content">
+  <!-- you must have the left nabve template file in here   -->
+  <div id="leftNav">
+        	<ul>
+               
+                </ul>
+        </div>
+  <div id="center_div">
+    <h2> Privacy Statement</h2>
+    <p> Cengage Learning, Inc., and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. </p>
+    <h4 class="subhead"> Scope</h4>
+    <p> This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) website (<a href="/">www.cengage.com</a>) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school's own privacy policy. </p>
+    <p> Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's website, you should also read the privacy statement associated with that site. </p>
+    <h4 class="subhead"> Information That We Collect</h4>
+    <p> When you visit our website, you may provide us with two types of information: (1) personally identifiable information such as contact and other information about your profession or your interests that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the website. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. </p>
+    <h4 class="subhead"> How We Use Personal Information</h4>
+    <p> In general, we use all of the information we collect in order to: </p>
+    <ul style="padding-left: 20px; list-style-type: disc">
+      <li style="list-style-type: disc">respond to your requests for information, </li>
+      <li style="list-style-type: disc">provide you with products and services, </li>
+      <li style="list-style-type: disc">determine if you are eligible to receive certain products or services, </li>
+      <li style="list-style-type: disc">provide customer service, and </li>
+      <li style="list-style-type: disc">provide you with additional information that may be of interest, including marketing and educational materials from us and our partners. </li>
+    </ul>
+    <p> We will tailor the materials we provide you based on the information in your profile, such as your professional interests. Also, certain products (such as teachers' guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. </p>
+    <p> If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. </p>
+    <h4 class="subhead"> When We Disclose Personal Information</h4>
+    <p> We may also provide any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. </p>
+    <p> <i>If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about Cengage Learning products and services, or by contacting our Customer Service department by email at: <a href="mailto:esales@cengage.com">esales@cengage.com</a> or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET) and requesting the desired change (e.g., opting in or out of faxes).</i> </p>
+    <p> <i>You can also opt-out of receiving marketing emails from us and our partners at any time my following the opt-out instructions provided on every email. </i> </p>
+    <p> Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. </p>
+    <h4 class="subhead"> A Special Note About Children</h4>
+    <p> Although parts of the galeschools.com website provide information and activities for students, we do not knowingly collect any personal information about children. Teachers must provide their own personal information in order for students to participate in our online quizzes and contests. </p>
+    <p> We encourage parents and teachers to spend time online with children and to monitor their online activities. Please protect your child's privacy by instructing them to never provide personal information on this site or any other, or within any software registration process, without your permission. </p>
+    <h4 class="subhead"> Information Collected on Behalf of Educational Institutions</h4>
+    <p> Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school's privacy statement and FERPA, please contact that school's administration. </p>
+    <h4 class="subhead"> Cookies and Website Information</h4>
+    <p> Like most other commercial websites, we use standard "cookie" technology and web server logs to collect information about how our website is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. </p>
+    <p> Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our website and the websites visited just before and just after our website. This information is collected on an aggregate basis, and also may be associated with your personal information. </p>
+    <h4 class="subhead"> How Do You Access and/or Modify Your Information or Choices?</h4>
+    <p> If you visit our website and volunteer personally identifiable information, you may access such information at any time by visiting the account information area where you will have the opportunity to revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an email. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. </p>
+    <h4 class="subhead"> How We Secure Your Information</h4>
+    <p> We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss. For example, when we ask users to provide payment information (such as credit card number), the data is protected during transmission to us using Secure Sockets Layer (SSL) encryption technology. </p>
+    <h4 class="subhead"> Information Process in the United Sates</h4>
+    <p> This website may be operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located. We will adequately protect the data in all locations. </p>
+    <h4 class="subhead"> Changes to Our Policies</h4>
+    <p> This privacy notice is effective as of August 31, 2007. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. </p>
+    <h4 class="subhead"> Contact Us with Any Questions</h4>
+    <p> If you have any questions about this privacy statement or our use of your personal information, please contact us at: </p>
+    <p> Cengage Learning, Inc. <br>
+      200 First Stamford Place<br>
+      Suite 400<br>
+      Stamford, CT 06902<br></p>
+    <p> or email us at: <a href="mailto:corporatecommunications@cengage.com">corporatecommunications@cengage.com</a>.</p>
+    <h4 class="subhead"> Privacy and Security Policy Regarding Social Security Numbers and Other Sensitive Personal information</h4>
+    <p> Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business.  Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure.  All Cengage workers are required to follow these established safeguards, which include the following:</p>
+    <div class="press">
+      <ul>
+        <li>Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage.  Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage's established privacy and security policy.</li>
+        <li>Cengage will only disclose Social Security numbers and other sensitive personal information (i) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (ii) as required or permitted by law.</li>
+      </ul>
+      <p>If you have any questions, please contact us at <a href="mailto:Robert.hotaling@cengage.com">Robert.hotaling@cengage.com</a> or <br>
+        <!-- carriage return added to prevent awkward line break -->
+        +1 443.676.8808. </p>
+</div>
+</div>        
       <div id="Right_nav_dotcom">
   <!--Commented out to be redisplayed next quarter call.-->
-  <!-- --
+  <!--
   <div>
     <div class="Right_nav_box_top">
       <div class="Right_nav_box_top_content">Investor Relations</div>
@@ -263,20 +437,20 @@
     <div class="Right_nav_box_middle">
       <div class="Right_nav_box_middle_content"> Notice of Webcast and Conference Call<br />
         <br />
-        Cengage Learning will host a webcast and conference call to discuss the results for the fiscal first quarter ended September 30, 2011 on:<br />
+        Cengage Learning will host a webcast and conference call to discuss the results for the fiscal third quarter ended March 31, 2012 on:<br />
         <br />
         <a href="/investor">
         <ul style="list-style-position:inside; list-style:none;">
-          <li>Thursday, November 10, 2011 </li>
-          <li>9:00 A.M. (Eastern Time)</li>
+          <li>Friday, May 4, 2012</li>
+          <li>8:30 A.M. (EST)</li>
         </ul>
         </a>
-        <p><a href="/investor/pdf/First Quarter 2012 Investor Call Presentation.pdf">First Quarter 2012 Investor Call Presentation</a></p>
+        <p><a href="/investor/pdf/Third Quarter 2012 Investor Call Presentation.pdf">Third Quarter 2012 Investor Call Presentation</a></p>
       </div>
     </div>
     <div class="Right_nav_box_bottom"> </div>
   </div>
--- -->
+  -->
   <div>
     <div class="Right_nav_box_top">
       <div class="Right_nav_box_top_content"> &nbsp; </div>
@@ -300,13 +474,91 @@
   </div>
 </div>
 
-      <!-- MAIN -->
     </div>
   </div>
-  <!-- END CONTENT -->
-  <div id="footer">
-    
-<div id="FooterWrap">
+   
+<div id="expBottomNav">
+ <ul id="EXP_wrapper">
+        	
+            <li class="exp_title"><strong>Customers &amp; Markets</strong>
+		<ul class="navCol">
+			<li><a href="/highered" target="_parent">Higher Education</a></li>
+	
+			<li><a href="/school" target="_parent">School</a></li>
+			<li><a href="/pro" target="_parent">Professional</a></li>
+			<li><a href="/gale" target="_parent">Library &amp; Research</a></li>
+			<!--<li><a href="/enterprise">Institutional Solutions</a></li>
+			<li><a href="http://elt.heinle.com/" target="_parent">English Language Teaching</a></li>-->
+			<li><a href="/country" target="_parent">Global</a></li>
+		    </ul>
+	</li>
+
+           
+            	<li class="exp_title"><strong>Our Company</strong>
+		    <ul class="navCol">	
+			<li><a href="/about/">Overview</a></li>
+			<li><a href="/about/leadership.html">Leadership</a></li>
+			<li><a href="/trends/">Knowledge &amp; Trends</a></li>
+			<li><a href="/contact/">Contacts</a></li>
+			<li><a href="/investor/">Investors</a></li>
+			<li><a href="/careers/">Careers</a></li>
+			<li><a href="/media/press/">Media</a></li>
+			<li><a href="/conventions">Conventions</a></li>
+			<li><a href="/accessibility/" target="_parent">Accessibility</a></li>
+			<li><a href="/rep">Find Your Rep</a></li>
+		    </ul>
+               </li>
+         
+                <li class="exp_title"><strong>Solutions</strong>
+            <ul class="navCol">
+                <li><a href="/brands/">Brands</a></li>
+                <li>Catalogs
+               		<ul class="subNav"> 
+                	<li> <a href="/highered/" target="_parent">›› Higher Education</a></li>
+                	<li> <a href="/school/" target="_parent">›› School</a></li>
+                	<li> <a href="/pro/" target="_parent">›› Professional</a></li>
+                	<li> <a href="/gale/" target="_parent">›› Library &amp; Research</a></li>
+                	</ul>
+                </li>	
+                <li><a href="/cengagecourse/">CengageCourse</a></li>
+                
+            </ul>
+            </li>
+            
+                <li class="exp_title"><strong>Services</strong>
+                <ul class="navCol">
+                
+                <li><a href="/coursecare/">CourseCare</a></li>
+                <li><a href="/custom/customCourseDev.html">Course Development</a></li>
+                <li><a href="/custom">Custom Solutions</a></li>
+                <li><a href="/teamup">TeamUP</a></li>
+                <li><a href="http://www.computaught.com/">CompuTaught</a></li>
+                <li><a href="http://www.ed2go.com/">Ed2go</a></li>
+
+                <li><a href="http://netlearning.cengage.com/">NetLearning</a></li>
+                <!--<li><a href="http://milady.cengage.com/miladyu_continuinged.asp">Continuing Education</a></li>-->
+            </ul>
+            </li>
+            
+            
+              <li class="exp_title"><strong>Purchase</strong>
+            <ul class="lastNavCol">
+              <li><a href="http://www.cengagebrain.com/shop/index.html">CengageBrain.com</a></li>
+                <li><a href="http://serviceplus.cengage.com/">ServicePlus</a></li>
+
+                <li><a href="/gale" target="_parent">Library &amp; Research</a></li>
+                </ul>
+                </li>
+   </ul>
+            <div class="clear"></div><!-- end .clear -->
+        </div>
+ 
+  <div style="clear:both;"></div>
+</div>
+
+
+<div id="footer_landing">
+  <div id="FooterWrap">
   <div id="footer_InnerWrap">
   <div class="Footer_left">
     <a href="/" target="_parent">
@@ -329,10 +581,8 @@
     <span class="Blue_Text"> |</span>
     <a href="/careers" target="_blank">Careers</a>
   </div>
-    
-    
+      
   </div>
-  
   
   <div class="Footer_left">
     <a href="/copyright" target="_parent">Copyright Notices</a>
@@ -343,12 +593,13 @@
     <span class="Blue_Text"> |</span>
     <a href="/accessibility/" target="_parent">Accessibility</a>
     <span class="Blue_Text"> |</span>
+    <a href="/dmca/index.html" target="_parent"> DMCA Policy</a>
+    <span class="Blue_Text"> |</span>
     <a href="/us/piracy_report.html" target="_parent">Report Piracy</a>
   </div>
  
 </div>
 
-  </div>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -358,8 +609,8 @@ urchinTracker();
 <!-- SiteCatalyst code version: H.16.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://admin.wadsworth.com/omniture/s_code_remote_cengagedotcom.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript" src="http://admin.wadsworth.com/omniture/s_code_remote_cengagedotcom.js"></script>
+<script type="text/javascript"><!--
 
 /* You may give each page an identifying name, server, and channel on the next lines. */
 s.pageName="Privacy Statement"
@@ -385,7 +636,7 @@ s.eVar4=""
 s.eVar5=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
 <noscript>
