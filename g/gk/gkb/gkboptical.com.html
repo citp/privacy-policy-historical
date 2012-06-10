@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gkboptical.com privacy policy that was archived on 2011-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111128034121id_/http%3A//www.gkboptical.com/gkb-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gkboptical.com privacy policy that was archived on 2012-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610155945id_/http%3A//www.gkboptical.com/gkb-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,9 +19,9 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.gkboptical.com/media/css/5d8106517cd70543d01e1a93dd7be976.1322366937.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.gkboptical.com/media/css/bc5cf1b99a3dfe5a5aaaa6e9c3c964cc.1338982950.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.gkboptical.com/media/css/839d2c0f8b00537ca8ff62bcd97d9ba3.1303810462.css" media="print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.gkboptical.com/media/js/7be35eba1ddca691ceb241edf58cdb33.1314642672.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.gkboptical.com/media/js/7be35eba1ddca691ceb241edf58cdb33.1338475660.js"></script>
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.gkboptical.com/media/css/34907cabe7af4dc86a533784fed841d6.1310815553.css" media="all" />
 <script type="text/javascript" src="http://www.gkboptical.com/media/js/8752850b6a51b78670c5e44f8efbdf2f.1303810484.js"></script>
@@ -76,6 +76,25 @@ function initMenu() {
 		  }
 		jQuery(document).ready(function() {initMenu();});
 
+
+jQuery.displayClicks = function(settings) { 
+   	var sitewidthc = 960;
+	var fdate ='';
+	var tdate = '';
+	var minlimitc = (screen.width-sitewidthc)/2;
+   jQuery('<div id="clickmap-overlay"></div>').appendTo('body'); 
+ 
+   jQuery('<div id="clickmap-loading"></div>').appendTo('body'); 
+ 
+    jQuery.get('http://www.gkboptical.com/clickmap/index/show/', { l:escape( document.location.pathname),sw:minlimitc,fromDate:fdate,toDate:tdate},  
+        function(html) { 
+            jQuery(html).appendTo('body');     
+            jQuery('#clickmap-loading').remove(); 
+        } 
+    ); 
+}; 
+
+   
     </script>
    
     <!-- Indian Rupee CSS For View product -->
@@ -84,9 +103,47 @@ function initMenu() {
 .WebRupee{font-family: 'WebRupee';}
 </style>
 <meta name="msvalidate.01" content="FB61B113F65FF3CA25206CE1B0279314">
-<meta name="google-site-verification" content="wwnCWXpR3A_CKd7qfQmG1EWQHmZ5SA03qk7JLg-3ImM"><meta name="google-site-verification" content="wwnCWXpR3A_CKd7qfQmG1EWQHmZ5SA03qk7JLg-3ImM">
-</head>
+<meta name="google-site-verification" content="wwnCWXpR3A_CKd7qfQmG1EWQHmZ5SA03qk7JLg-3ImM"> 
+<meta name="google-site-verification" content="wwnCWXpR3A_CKd7qfQmG1EWQHmZ5SA03qk7JLg-3ImM">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body onload="toggles(1);toggles(2);toggles(3);toggles(4);toggles(5);toggles(6);toggles(7);toggles(8);toggles(9);toggles(10);">
+<!-- BEGIN Inchoo Facebook Connect -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+//<![CDATA[
+window.fbAsyncInit = function() {
+	FB.init({
+		appId		: "219371488092714",
+		channelUrl	: 'http://www.gkboptical.com/facebook/channel/index/locale/en_US/',
+		status		: true,
+		cookie		: true,
+		oauth		: true,
+		xfbml		: true
+	});
+	document.fire("facebook:fbAsyncInit");
+};
+
+(function(d){
+	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	js.src = "//connect.facebook.net/en_US/all.js";
+	d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+
+document.observe('click', function(e){
+	var target = e.findElement('a[rel^=facebook-connect]') || e.findElement('button[rel^=facebook-connect]');
+	if (target && target.readAttribute('rel')=='facebook-connect') {
+		e.stop();
+		try{
+			FB.login(function(response){
+				if(response.status=='connected') setLocation('http://www.gkboptical.com/facebook/customer_account/connect/');
+			}, {scope: "email,user_birthday,publish_stream"});
+		}catch(error){}
+	}
+});
+//]]>
+</script>
+<!-- END Inchoo Facebook Connect -->
 <div class="wrapper">     <noscript>
         <div class="noscript">
             <div class="noscript-inner">
@@ -95,456 +152,733 @@ function initMenu() {
             </div>
         </div>
     </noscript>
-   <div class="header">
-    <div class="header-wrap"> <div class="header-wrap">
-  <div class="header-top">
-    <div class="gop-logo"> <a href="http://www.gkboptical.com/" title="GKB Opticals"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/logo.jpg" alt="GKB Opticals" width="305" height="51"></a> </div>
-    <div class="gkb-as-wrap">
-      <div class="gkb-available">
+  
+  <div class="header">
+  	<div class="header-panel">
+     <script type="text/javascript">
+ jQuery(function() {
+            jQuery(document).saveClicks(); 
+      
+        });
+    </script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery.ajax({
+	type: "POST",
+	url: "http://www.gkboptical.com/ajax/index/login/",
+	data: '',
+	beforeSend: function(){  },
+	complete: function(){ },
+	success: function(response){
+		jQuery("#showStatusLogin").html(response);
+	}
+	});
+	jQuery.ajax({
+	type: "GET",
+	url: "http://www.gkboptical.com/ajax/index/qtyincart/",
+	data: '',
+	beforeSend: function(){  },
+	complete: function(){ },
+	success: function(response){
+		jQuery("#header_cart").html(response);
+	}
+	});
+	
+	jQuery.ajax({
+	type: "GET",
+	url: "http://www.gkboptical.com/catalog/category/returnMessage/",
+	data: '',
+	beforeSend: function(){  },
+	complete: function(){ },
+	success: function(response){
+		jQuery("#list_message_block").html(response);
+	}
+	});
+	var refre = document.referrer;
+	jQuery.ajax({
+	type: "POST",
+	url: "http://www.gkboptical.com/trackuser/index/trackerUser/",
+	data: 'referr='+refre,
+	beforeSend: function(){  },
+	complete: function(){ },
+	success: function(response){}
+	});
+});
+
+</script>
+<script>
+   function PopupCenter(pageURL, title,w,h) {
+   var left = (screen.width/2)-(w/2);
+   var top = (screen.height/2)-(h/2);
+   var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+   }
+</script>
+<div id="gkb-header">
+  <div class="header-wrapper">
+    <div class="top-panel">
+      <div class="toll-free"><span>Call us (Toll Free)</span><b>1800-419-1990</b></div>
+      <div class="gkb-top-panel">
         <ul>
-          <li><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/call_us.jpg" width="197" height="15" alt=""></li>
-          <li><a onclick="showCallBackForm('','500px','300px','400px','280');" href="javascript:void(0);"><strong>Request a call back</strong></a></li>
+          <li>Free Shipping</li>
+          <li>|</li>
+          <li>Money Back Policy</li>
+          <li>|</li>
+          <li>Cash on Delivery</li>
+          <li>|</li>
+          <li>Free Eye Testing</li>
+          <li>|</li>
+          <li>60 Stores</li>
         </ul>
       </div>
-      <div> <form id="search_mini_form" action="http://www.gkboptical.com/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <label for="search"></label>
-        <input type="text" id="search" name="q" value="" class="search-textfield left">
-        
-                
-        
-        <button type="submit" title="Search" class="search-butt left"><span><span>Search</span></span></button>
-        <div id="search_autocomplete" class="search-autocomplete autocomp"></div>
-        <script type="text/javascript">
+      <div class="gkb-logo"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/gkb_logo.jpg" width="147" height="30" alt="GKB Opticals"></div>
+    </div>
+    <div class="center-panel">
+      <div class="logo"><a href="http://www.gkboptical.com/" title="GKB Opticals"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/gkb-logo.png" alt="GKB Opticals"></a></div>
+      <div class="right-block">
+        <div class="gkb-dashboard">
+          <div class="align-right">
+            <ul>
+              <li class="cart"><a href="javascript:void(0);" onclick="PopupCenter('http://www.gkboptical.com/cash-on-delivery-availability/','name','450','250');">Check COD Availability</a></li>
+              <li class="myaccount"><a href="http://www.gkboptical.com/customer/account/">My Account</a></li>
+              <!-- <li class="wishlist"><a href="">Wishlist</a></li>-->
+              <li class="wishlist"><a href="http://www.gkboptical.com/order-tracking/">Order Tracking</a></li>
+              
+              <li class="login" id="showStatusLogin"></li>
+              <li><a href="#" rel="facebook-connect"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/f-login.jpg" width="65" height="18" alt=""></a></li>
+            </ul>
+          </div>
+          <div class="align-right">
+            <div class="form"> <form id="search_mini_form" action="http://www.gkboptical.com/catalogsearch/result/customUrl/" method="get">
+  <div>
+    <label for="search"></label>
+    <input type="text" id="search" name="q" value="" class="gkb-search">
+    <button type="submit" title="Search" class="gkb-search-butt"><span><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/search-icon.gif" width="15" height="14"><span>Search</span></span></button>
+    <div id="search_autocomplete" class="search-autocomplete autocomp"></div>
+    <script type="text/javascript">
         //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search...');
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search from almost 5,000 products!');
             searchForm.initAutocomplete('http://www.gkboptical.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
         //]]>
-        </script>
+        </script> 
+  </div>
+</form>
+
+
+<!--<form id="search_mini_form" action="" method="get">
+  <div class="form-search">
+    <label for="search"></label>
+    <input type="text" id="search" name="" value="" class="search-textfield left" />
+    <button type="submit" title="" class="search-butt left"><span><span></span></span></button>
+    <div id="search_autocomplete" class="search-autocomplete autocomp"></div>
+    <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            searchForm.initAutocomplete('', 'search_autocomplete');
+        //]]>
+        </script> 
+  </div>
+</form>
+--> </div>
+          </div>
+        </div>
+      </div>
     </div>
-</form> </div>
-    </div>
-    <div class="account-links">
-      <ul>
-        <li><a href="http://www.gkboptical.com/wishlist/">Wishlist</a></li>
-        <li><a href="http://www.gkboptical.com/customer/account/">My Account</a></li>
-        <li>
-                    <!--<a href="">--> 
-          <a href="javascript:void(0);" onclick="show_box('','757px','700px','793px','750')">Login</a>
-                  </li>
-      </ul>
-    </div>
-    <div class="gkb-logo"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/gkb_logo.jpg" alt="GKB Opticals" width="147" height="30"> </div>
   </div>
   <div class="megadropdown">
     <div class="megacorner-left">&nbsp;</div>
     <div class="megacorner-center">
-      <ul style="z-index:1000;position:relative;">
-        <li style="border-left:none;" class="hasSubNav"><a href="javascript:;">Sunglasses</a>
-          <div class="subNav threeCol" style="left:-4px;">
+      <ul style="position:relative;">
+        <li style="border-left:none;" class="hasSubNav"><a href="http://www.gkboptical.com/sunglasses/" class="white">Sunglasses</a>
+          <div class="subNav sixCol" style="left:-4px;">
             <div class="left col-noborder">
               <ul>
-                <li><a href="http://www.gkboptical.com/latest-designer-sunglasses/">Latest Fashion Sunglasses</a></li>
-                <!--<li><a href="?frame_shape=Aviator">Classic Collection</a></li>
-                <li><a href="?frame_shape=Aviator">Most popular sunglasses</a></li>-->
-                <li><a href="http://www.gkboptical.com/sunglasses/frame_shape=Wrap+around">Sporty/Biking Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?size=large">Oversized Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?polarized=1">Polarized Sunglasses</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses/"><span class="all-eyewear">All Sunglasses</span></a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-ord-product_sort_order-dir-asc/">Top Rated Sunglasses</a></li>
               </ul>
               <div style="margin-top:6px;">
                 <h3>Style</h3>
                 <ul>
-                  <li> <a href="http://www.gkboptical.com/sunglasses/?frame_shape=Aviator"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-avaitor.jpg" width="29" height="20" alt="Aviator Sunglasses">&nbsp;Aviator Sunglasses</a> </li>
-                  <li> <a href="http://www.gkboptical.com/sunglasses/?frame_shape=Wayfarer"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-wayfarer.jpg" width="29" height="20" alt="Wayfarer Sunglasses">&nbsp;Wayfarer Sunglasses</a> </li>
+                  <li> <a href="http://www.gkboptical.com/sunglasses-fs-aviator/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/shapes-aviator.jpg" width="25" height="12" alt="Aviator Sunglasses">&nbsp;Aviator</a> </li>
+                  <li> <a href="http://www.gkboptical.com/sunglasses-fs-wayfarer/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/shapes-wayfarer.jpg" width="25" height="12" alt="Wayfarer Sunglasses">&nbsp;Wayfarer</a> </li>
+                  <li> <a href="http://www.gkboptical.com/sunglasses-fz-large/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/shapes-square.jpg" width="25" height="12" alt="Oversize Sunglasses">&nbsp;Oversized</a> </li>
+                  <li> <a href="http://www.gkboptical.com/sunglasses-fs-wrap--around/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/shapes-rectangle.jpg" width="25" height="12" alt="Wrap Around Sunglasses">&nbsp;Rectancle</a> </li>
                 </ul>
               </div>
               <div style="margin-top:6px;">
                 <h3>Gender</h3>
                 <ul>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?gender=male-unisex">Men´s Sunglasses</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?gender=female-unisex">Women´s Sunglasses</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?gender=kids">Kid´s Sunglasses</a></li>
+                  <li><a href="http://www.gkboptical.com/sunglasses-gn-male/">Men´s Sunglasses</a></li>
+                  <li><a href="http://www.gkboptical.com/sunglasses-gn-female/">Women´s Sunglasses</a></li>
+                  <li><a href="http://www.gkboptical.com/sunglasses-gn-kids/">Kid´s Sunglasses</a></li>
                 </ul>
               </div>
             </div>
             <!-- .col -->
             
             <div class="left col-noborder">
-              <h3>Frame Material</h3>
+              <h3>Brands</h3>
               <ul>
-                <li><a href="http://www.gkboptical.com/sunglasses/?frame_material=Metal">Metal</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?frame_material=Shell">Shell</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?frame_material=Titanium">Titanium</a></li>
-              </ul>
-              <div style="margin-top:6px;">
-                <h3>Price Range</h3>
-                <ul>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?price=0-1500">Under Rs 1,500</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?price=1500-3000">Rs 1,500-3,000</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?price=3000-5000">Rs 3,000-5,000</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?price=5000-10000">Rs 5,000-10,000</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?price=10000-75000">Over Rs 10,000</a></li>
-                </ul>
-              </div>
-              <div style="margin-top:6px;">
-                <h3>Sales/Offers</h3>
-                <ul>
-                  <li><a href="http://www.gkboptical.com/sunglasses-sale/">Sunglasses Sale/Discount</a></li>
-                  <li><a href="http://www.gkboptical.com/marketing-online-offers/">Best Offers online</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/"><span class="all-eyewear">See all Sunglasses</span></a></li>
-                </ul>
-              </div>
-            </div>
-            
-            <!-- .col -->
-            <div class="left col-noborder">
-              <h3>Top Int'l Brands</h3>
-              <ul>
-                
                 <li> <a href="http://www.gkboptical.com/sunglasses/rayban/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ray-ban.jpg" width="32" height="20" alt="Ray-Ban">&nbsp;Ray-Ban</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/sundrive/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-sundrive.jpg" width="32" height="20" alt="Sundrive">&nbsp;Sundrive</a> </li>
                 <li> <a href="http://www.gkboptical.com/sunglasses/oakley/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oakley.jpg" width="32" height="20" alt="Oakley">&nbsp;Oakley</a> </li>
-                <li> <a href="http://www.gkboptical.com/sunglasses/prada/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-prada.jpg" width="32" height="20" alt="Prada">&nbsp;Prada</a> </li>
-                <li> <a href="http://www.gkboptical.com/sunglasses/vogue/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-vogue.jpg" width="32" height="20" alt="Vogue">&nbsp;Vogue</a> </li>
-                <li> <a href="http://www.gkboptical.com/sunglasses/dolce-gabbana/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dolce-gabbana.jpg" width="32" height="20" alt="Dolce Gabbana">&nbsp;Dolce&amp;Gabbana</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/vintage/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-vintage.jpg" width="32" height="20" alt="Vintage">&nbsp;Vintage</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/emporio-armani/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-emporio-armani.jpg" width="32" height="20" alt="Emporio Armani">&nbsp;Emporio Armani</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/tommy-hilfiger/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tommy-hilfiger.jpg" width="32" height="20" alt="Tommy Hilfiger">&nbsp;Tommy Hilfiger</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/polaroid/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-polaroid.jpg" width="32" height="20" alt="Polaroid">&nbsp;Polaroid</a> </li>
                 <li> <a href="http://www.gkboptical.com/sunglasses/maui-jim/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-maui-jim.jpg" width="32" height="20" alt="Maui-Jim">&nbsp;Maui-Jim</a> </li>
-                <li><a href="http://www.gkboptical.com/sunglasses/">40+ designer brands</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/vogue/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-vogue.jpg" width="32" height="20" alt="Vogue">&nbsp;Vogue</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/police/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-police.jpg" width="32" height="20" alt="Police">&nbsp;Police</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/high-gear/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-highgear.jpg" width="32" height="20" alt="Highgear">&nbsp;Highgear</a> </li>
               </ul>
-              <div style="margin-top:6px;">
-                <h3>Indian Designer Brands</h3>
-                <ul>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?brand_name=sundrive">Sundrive</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?brand_name=highgear">High Gear</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?brand_name=vintage">Vintage</a></li>
-                  <li><a href="http://www.gkboptical.com/sunglasses/?brand_name=scott">Scott</a></li>
-                </ul>
-              </div>
             </div>
-            <div class="mega-footer" style="display:none;"> <a href="http://www.gkboptical.com/sunglasses/">
-              <div class="mega-all-sunglasses">&nbsp;</div>
-              </a> <a href="http://www.gkboptical.com/sunglasses-sale/">
-              <div class="mega-all-sale">&nbsp;</div>
-              </a> </div>
-          </div>
-        </li>
-        <li class="hasSubNav"><a href="javascript:;">Eyeglasses</a>
-          <div class="subNav threeCol">
-            <div class="left col-noborder">
-            <ul>
-                <li><a href="http://www.gkboptical.com/latest-designer-eyeframes/">Latest Fashion Eyeglasses</a></li>
-                <!--<li><a href="">Classic Collection</a></li>
-                <li><a href="">Most popular eyeglasses</a></li>-->
-                <li><a href="http://www.gkboptical.com/eyeframes/?brand_name=Oakley-Puma-Tag+heuer">Sporty Eyeglasses</a></li>
-              </ul>
-             
-              <div style="margin-top:6px;">
-                <h3>Style</h3>
-                <ul>
-                  <li> <a href="http://www.gkboptical.com/eyeframes/?frametype=Full-Full+rim"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-fullrim.jpg" width="29" height="20" alt="Full Rim Eyeglasses">&nbsp;Full Rim Eyeglasses</a> </li>
-                  <li> <a href="http://www.gkboptical.com/eyeframes/?frametype=Half+rim"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-halfrim.jpg" width="29" height="20" alt="Half Rim Eyeglasses">&nbsp;Half Rim Eyeglasses</a> </li>
-                  <li> <a href="http://www.gkboptical.com/eyeframes/?frametype=Rimless"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-rimless.jpg" width="29" height="20" alt="Rimless Eyeglasses">&nbsp;Rimless Eyeglasses</a> </li>
-                  <li> <a href="http://www.gkboptical.com/eyeframes/?frame_shape=Wayfarer"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-wayfarer-e.jpg" width="29" height="20" alt="Wayfarer Eyeglasses">&nbsp;Wayfarer Eyeglasses</a> </li>
-                </ul>
-              </div>
-              <div style="margin-top:6px;">
-              <h3>Gender</h3>
-              <ul>
-                <li><a href="http://www.gkboptical.com/eyeframes/?gender=male-unisex">Men´s Eyeglasses</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?gender=female-unisex">Women´s Eyeglasses</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?gender=kids">Kid´s Eyeglasses</a></li>
-              </ul>
-                
-              </div>
-              
-            </div>
+            
             <!-- .col -->
             <div class="left col-noborder">
-             <h3>Frame Material</h3>
-                <ul>
-                  <li><a href="http://www.gkboptical.com/eyeframes/?frame_material=Metal">Metal</a></li>
-                  <li><a href="http://www.gkboptical.com/eyeframes/?frame_material=Shell">Shell</a></li>
-                  <li><a href="http://www.gkboptical.com/eyeframes/?frame_material=Titanium">Titanium</a></li>
-                </ul>
-              
-              <div style="margin-top:6px;">
-               <h3>Price Slabs</h3>
+              <h3>Popular Brands</h3>
               <ul>
-                <li><a href="http://www.gkboptical.com/eyeframes/?price=0-1500">Under Rs 1,500</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?price=1500-3000">Rs 1,500-3,000</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?price=3000-5000">Rs 3,000-5,000</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?price=5000-10000">Rs 5,000-10,000</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?price=10000-75000">Over Rs 10,000</a></li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/boss-orange/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-boss-orange.jpg" width="32" height="20" alt="Boss">&nbsp;Boss</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/burberry/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-burberry.jpg" width="32" height="20" alt="Burberry">&nbsp;Burberry</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/bvlgari/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-bvlgari.jpg" width="32" height="20" alt="Bvlgari">&nbsp;Bvlgari</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/dolce-gabbana/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dolce-gabbana.jpg" width="32" height="20" alt="Dolce&amp;Gabbana">&nbsp;Dolce&amp;Gabbana</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/prada/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-prada.jpg" width="32" height="20" alt="Prada">&nbsp;Prada</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/salvatore-ferragamo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-salvatore-ferragamo.jpg" width="32" height="20" alt="Salvatore Ferragamo">&nbsp;Salvatore </a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/versace/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-versace.jpg" width="32" height="20" alt="Versace">&nbsp;Versace</a> </li>
               </ul>
-                </div>
-                <div style="margin-top:6px;">
-              <h3>Sales/Offers</h3>
+              <div style="margin-top:6px;">
+                <h3>Specialty</h3>
                 <ul>
-                  <li><a href="http://www.gkboptical.com/eyeframes-sale/">Eyeframes Sale/Discount</a></li>
-                  <li><a href="http://www.gkboptical.com/marketing-online-offers/">Best Offers Online</a></li>
-                  <li><a href="http://www.gkboptical.com/eyeframes/"><span class="all-eyewear">See all Eyeglasses</span></a></li>
-                  
+                  <li><a href="http://www.gkboptical.com/sunglasses-pz-1/">Polarized</a></li>
+                  <li><a href="http://www.gkboptical.com/sunglasses-fm-titanium/">Titanium</a></li>
+                  <li><a href="http://www.gkboptical.com/sunglasses-fs-wrap--around/">Sporty</a></li>
                 </ul>
-                </div>
+              </div>
+            </div>
+            <div class="left col-noborder">
+              <h3>Price Range</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-0-1000/">Under Rs 1,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-1000-2000/">Rs 1,000-2,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-2000-4000/">Rs 2,000-4,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-4000-6000/">Rs 4,000-6,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-6000-8000/">Rs 6,000-8,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-8000-10000/">Rs 8,000-10,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-10000-15000/">Rs 10,000-15,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-15000-20000/">Rs 15,000-20,000</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-pr-20000-50000/">Rs 20,000+</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>More Brands</h3>
+              <ul>
+                <li> <a href="http://www.gkboptical.com/sunglasses/adidas/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-adidas.jpg" width="32" height="20" alt="Adidas">&nbsp;Adidas</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/d-g/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-d-g.jpg" width="32" height="20" alt="D&amp;G">&nbsp;D&amp;G</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/diesel/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-diesel.jpg" width="32" height="20" alt="Diesel">&nbsp;Diesel</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/dkny/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dkny.jpg" width="32" height="20" alt="DKNY">&nbsp;DKNY</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/rodenstock/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-rodenstock.jpg" width="32" height="20" alt="Rodenstock">&nbsp;Rodenstock</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/silhouette/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-slihouette.jpg" width="32" height="20" alt="Silhouette">&nbsp;Silhouette </a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/tag-heuer/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tag-heuer.jpg" width="32" height="20" alt="Tag Heuer">&nbsp;Tag Heuer</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/head/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-head.jpg" width="32" height="20" alt="Head">&nbsp;Head</a> </li>
+                <li> <a href="http://www.gkboptical.com/sunglasses/levis/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-levis.jpg" width="32" height="20" alt="Levis">&nbsp;Levis</a> </li>
+              </ul>
             </div>
             <!-- .col -->
             
             <div class="left col-noborder">
-              <h3>Top Int'l Brands</h3>
+              <h3>Colors</h3>
               <ul>
-                <li> <a href="http://www.gkboptical.com/eyeframes/rayban/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ray-ban.jpg" width="32" height="20" alt="Ray-Ban">&nbsp;Ray-Ban</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/oakley/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oakley.jpg" width="32" height="20" alt="Oakley">&nbsp;Oakley</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/prada/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-prada.jpg" width="32" height="20" alt="Prada">&nbsp;Prada</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/tag-heuer/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tag-heuer.jpg" width="32" height="20" alt="Police">&nbsp;Tag Heuer</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/hans-tepper/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-hans-stepper.jpg" width="32" height="20" alt="Dolce Gabbana">&nbsp;Hans Stepper</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/silhouette/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-slihouette.jpg" width="32" height="20" alt="Versace">&nbsp;Silhouette</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/d-g/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-d-g.jpg" width="32" height="20" alt="Versace">&nbsp;D&amp;G</a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes/">30+ designer brands</a> </li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-black/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-black.gif" width="13" height="13" alt="Black">&nbsp;Black</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-gray-silver/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-gray.gif" width="13" height="13" alt="Grey/Silver">&nbsp;Grey/Silver</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-brown/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-brown.gif" width="13" height="13" alt="Brown">&nbsp;Brown</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-pink-purple/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-purple.gif" width="13" height="13" alt="Red/Pink/Purple">&nbsp;Red/Pink/Purple</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-blue/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-blue.gif" width="13" height="13" alt="Blue/Green">&nbsp;Blue/Green</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-gold/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-gold.gif" width="13" height="13" alt="Gold">&nbsp;Gold</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-yellow/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-yellow.gif" width="13" height="13" alt="Yellow/Orange">&nbsp;Yellow/Orange</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-white/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-white.gif" width="13" height="13" alt="White">&nbsp;White</a></li>
+                <li><a href="http://www.gkboptical.com/sunglasses-cl-multicolored/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-multicolored.gif" width="13" height="13" alt="Multicolored">&nbsp;Multicolored</a></li>
               </ul>
-              <div style="margin:6px 0;">
-               
+              <div style="margin-top:6px;">
+                <ul>
+                  <li class="clear sale"><a href="http://www.gkboptical.com/sunglasses-sale/">Sale on Sunglasses<img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/s-sale.png" width="76" height="16"></a></li>
+                </ul>
               </div>
-              <h3>GKB Eyeglasses</h3>
+            </div>
+            
+            <!-- .col -->
+            
+            <div class="block-three">
               <ul>
-                <li><a href="http://www.gkboptical.com/eyeframes/?brand_name=activ">Activ</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?brand_name=inspira">Inspira</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?brand_name=legacy">Legacy</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?brand_name=brendo-salvani">Brendo Salvani</a></li>
+                <!--<li>Prescription Sunglasses</li>-->
+                <li>Need Advice : Call Us at 1800-419-1990</li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="hasSubNav"><a href="http://www.gkboptical.com/eyeframes/" class="white">Spectacles</a>
+          <div class="subNav sixCol" style="left:-174px;">
+            <div class="left col-noborder">
+              <ul>
+                <li><a href="http://www.gkboptical.com/eyeframes/"><span class="all-eyewear">All Spectacles</span></a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-ord-product_sort_order-dir-asc/">Top Rated Frames</a></li>
+              </ul>
+              <div style="margin-top:6px;">
+                <h3>Styles</h3>
+                <ul>
+                  <li><a href="http://www.gkboptical.com/eyeframes-fs-wayfarer/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-wayfarer-e.jpg" width="29" height="20" alt="Wayfarer">&nbsp;Wayfarer</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-fs-rectangle/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-fullrim.jpg" width="29" height="20" alt="Rectangle">&nbsp;Rectangle</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-fs-oval/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-fullrim.jpg" width="29" height="20" alt="Oval">&nbsp;Oval</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-ft-rimless/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-rimless.jpg" width="29" height="20" alt="Rimless Eyeglasses">&nbsp;Rimless</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-ft-half--rim/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-halfrim.jpg" width="29" height="20" alt="Half Rim Eyeglasses">&nbsp;Half Rim</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-fm-titanium/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-fullrim.jpg" width="29" height="20" alt="Ultra-light">&nbsp;Ultra-light</a></li>
+                  <!--<li><a href=""><img src="" width="29" height="20" alt="Full Rim Eyeglasses" />&nbsp;Sporty Frames</a></li>-->
+                </ul>
+              </div>
+              <div style="margin-top:6px;">
+                <h3>Gender</h3>
+                <ul>
+                  <li><a href="http://www.gkboptical.com/eyeframes-gn-male/">Men´s Eyeglasses</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-gn-female/">Women´s Eyeglasses</a></li>
+                  <li><a href="http://www.gkboptical.com/eyeframes-gn-kids/">Kid´s Eyeglasses</a></li>
+                </ul>
+              </div>
+            </div>
+            <!-- .col -->
+            <div class="left col-noborder">
+              <h3>Top Brands</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/eyeframes/inspira/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-inspira.jpg" width="32" height="20" alt="Inspira">&nbsp;Inspira</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/rayban/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ray-ban.jpg" width="32" height="20" alt="Ray-Ban">&nbsp;Ray-Ban</a> </li>
+                <li><a href="http://www.gkboptical.com/eyeframes/activ/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-activ.jpg" width="32" height="20" alt="Activ">&nbsp;Activ</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/oakley/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oakley.jpg" width="32" height="20" alt="Oakley">&nbsp;Oakley</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/tommy-hilfiger/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tommy-hilfiger.jpg" width="32" height="20" alt="Tommy Hilfiger">&nbsp;Tommy Hilfiger</a> </li>
+                <li><a href="http://www.gkboptical.com/eyeframes/legacy/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-legacy.jpg" width="32" height="20" alt="Legacy">&nbsp;Legacy</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/prada/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-prada.jpg" width="32" height="20" alt="Prada">&nbsp;Prada</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/police/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-police.jpg" width="32" height="20" alt="Police">&nbsp;Police</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/vogue/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-vogue.jpg" width="32" height="20" alt="Vogue">&nbsp;Vogue</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/tag-heuer/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tag-heuer.jpg" width="32" height="20" alt="Police">&nbsp;Tag Heuer</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/hans-stepper/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-hans-stepper.jpg" width="32" height="20" alt="Hans Stepper">&nbsp;Hans Stepper</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/silhouette/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-slihouette.jpg" width="32" height="20" alt="Silhouette">&nbsp;Silhouette</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/versace/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-versace.jpg" width="32" height="20" alt="Versace">&nbsp;Versace</a> </li>
               </ul>
             </div>
             <!-- .col -->
-            <div class="mega-footer" style="border-top: 1px solid #D7D7D7;display:none;"> <a href="http://www.gkboptical.com/eyeframes/">
-              <div class="mega-all-eyeglasses">&nbsp;</div>
-              </a> <a href="http://www.gkboptical.com/eyeframes-sale/">
-              <div class="mega-all-sale" style="margin-top:2px;">&nbsp;</div>
-              </a> </div>
+            
+            <div class="left col-noborder">
+              <h3>Popular Brands</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/eyeframes/boss-orange/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-boss-orange.jpg" width="32" height="20" alt="Boss">&nbsp;Boss</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/burberry/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-burberry.jpg" width="32" height="20" alt="Burberry">&nbsp;Burberry</a> </li>
+                <li><a href="http://www.gkboptical.com/eyeframes/bvlgari/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-bvlgari.jpg" width="32" height="20" alt="Bvlgari">&nbsp;Bvlgari</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/brendo-salvani/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-brendo-salvani.jpg" width="32" height="20" alt="Brendro Salvani">&nbsp;Brendro Salvani</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/carrera/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-carrera.jpg" width="32" height="20" alt="Carrera">&nbsp;Carrera</a> </li>
+                <li><a href="http://www.gkboptical.com/eyeframes/dkny/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dkny.jpg" width="32" height="20" alt="DKNY">&nbsp;DKNY</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/dolce-gabbana/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dolce-gabbana.jpg" width="32" height="20" alt="Dolce&amp;Gabbana">&nbsp;Dolce&amp;Gabbana</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/emporio-armani/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-emporio-armani.jpg" width="32" height="20" alt="Emporio Armani">&nbsp;Emporio Armani</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/esprit/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-esprit.jpg" width="32" height="20" alt="Esprit">&nbsp;Esprit</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/puma/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-puma.jpg" width="32" height="20" alt="Puma">&nbsp;Puma</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/salvatore-ferragamo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-salvatore-ferragamo.jpg" width="32" height="20" alt="Salvatore Ferragamo">&nbsp;Salvatore</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/safilo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-safilo.jpg" width="32" height="20" alt="Safilo">&nbsp;Safilo</a> </li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>Price Range</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-0-1000/">Under Rs 1,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-1000-2000/">Rs 1,000-2,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-2000-4000/">Rs 2,000-4,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-4000-6000/">Rs 4,000-6,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-6000-8000/">Rs 6,000-8,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-8000-10000/">Rs 8,000-10,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-10000-15000/">Rs 10,000-15,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-15000-20000/">Rs 15,000-20,000</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-pr-20000-50000/">Rs 20,000+</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>More Brands</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/eyeframes/adidas/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-adidas.jpg" width="32" height="20" alt="Adidas">&nbsp;Adidas</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/blick/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-blick.jpg" width="32" height="20" alt="Blick">&nbsp;Blick</a> </li>
+                <li><a href="http://www.gkboptical.com/eyeframes/charmant/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-charmant.jpg" width="32" height="20" alt="Charmant">&nbsp;Charmant</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/fcuk/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-fcuk.jpg" width="32" height="20" alt="FCUK">&nbsp;FCUK</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/ivux/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ivux.jpg" width="32" height="20" alt="Ivux">&nbsp;Ivux</a> </li>
+                <li><a href="http://www.gkboptical.com/eyeframes/levis/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-levis.jpg" width="32" height="20" alt="Levis">&nbsp;Levis</a></li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/luxottica/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-luxottica.jpg" width="32" height="20" alt="Luxottica">&nbsp;Luxottica</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/oopz/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oopz.jpg" width="32" height="20" alt="Oopz">&nbsp;Oopz</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/oxydo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oxydo.jpg" width="32" height="20" alt="Oxydo">&nbsp;Oxydo</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/pantone/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-pantone.jpg" width="32" height="20" alt="Pantone">&nbsp;Pantone</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/rodenstock/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-rodenstock.jpg" width="32" height="20" alt="Rodenstock">&nbsp;Rodenstock</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/s-t-dupont/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-stdupont.jpg" width="32" height="20" alt="S T Dupont">&nbsp;S T Dupont</a> </li>
+                <li> <a href="http://www.gkboptical.com/eyeframes/sferoflex/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-sferoflex.jpg" width="32" height="20" alt="Sferoflext">&nbsp;Sferoflex</a> </li>
+              </ul>
+            </div>
+            <!-- .col -->
+            <div class="left col-noborder">
+              <h3>Colors</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-black/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-black.gif" width="13" height="13" alt="Black">&nbsp;Black</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-gray-silver/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-gray.gif" width="13" height="13" alt="Grey/Silver">&nbsp;Grey/Silver</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-brown/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-brown.gif" width="13" height="13" alt="Brown">&nbsp;Brown</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-pink-purple/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-purple.gif" width="13" height="13" alt="Red/Pink/Purple">&nbsp;Red/Pink/Purple</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-blue/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-blue.gif" width="13" height="13" alt="Blue/Green">&nbsp;Blue/Green</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-gold/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-gold.gif" width="13" height="13" alt="Gold">&nbsp;Gold</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-yellow/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-yellow.gif" width="13" height="13" alt="Yellow/Orange">&nbsp;Yellow/Orange</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-white/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-white.gif" width="13" height="13" alt="White">&nbsp;White</a></li>
+                <li><a href="http://www.gkboptical.com/eyeframes-cl-multicolored/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/color-multicolored.gif" width="13" height="13" alt="Multicolored">&nbsp;Multicolored</a></li>
+              </ul>
+              <div style="margin-top:10px;">
+                <ul>
+                  <li class="clear sale"><a href="http://www.gkboptical.com/eyeframes-sale/">Sale on Eyeglasses <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/e-sale.png" width="76" height="16"></a></li>
+                </ul>
+              </div>
+            </div>
+            <!-- .col -->
+            
+            <div class="block-three">
+              <ul>
+                <li>Need Advice : Call Us at 1800-419-1990</li>
+              </ul>
+            </div>
           </div>
         </li>
-        <li class="hasSubNav"><a href="javascript:;">Contact Lenses</a>
-          <div class="subNav threeCol">
+        <li class="hasSubNav"><a href="http://www.gkboptical.com/contact-lenses/" class="white">Contact Lenses</a>
+          <div class="subNav sixCol" style="left:-340px;">
             <div class="left col-noborder">
-              <h3>Manufacturer</h3>
+              <h3>Brands</h3>
               <ul>
-                <li> <a href="http://www.gkboptical.com/contact-lenses/?lens_maufacturer=jnj"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-johnson-johnson.jpg" width="32" height="20" alt="Johnson&amp;Johnson">&nbsp;Johnson&amp;Johnson</a> </li>
-                <li> <a href="http://www.gkboptical.com/contact-lenses/?lens_maufacturer=bnl"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-bausch-lomb.jpg" width="32" height="20" alt="Bausch&amp;Lomb">&nbsp;Bausch&amp;Lomb</a> </li>
-                <li> <a href="http://www.gkboptical.com/contact-lenses/?lens_maufacturer=ciba vision"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ciba-vision.jpg" width="32" height="20" alt="Ciba Vision">&nbsp;Ciba Vision</a> </li>
+                <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 1 Day Moist-Acuvue Oasys for Astigmatism-Acuvue Bifocal-Acuvue Clear-Acuvue 2-Acuvue Oasys-Acuvue 1 Day"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-acuvue.jpg" width="32" height="20" alt="Acuvue">&nbsp;Acuvue</a> </li>
+                <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=SofLens 59-SofLens Daily Disposable-Soflens Daily Disposable for Astigmatism (SDDA)-SofLens 66 Toric-SofLens MultiFocal"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-soflens.jpg" width="32" height="20" alt="Soflens">&nbsp;Soflens</a> </li>
+                <li> <a href="http://www.gkboptical.com/contact-lenses/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-color-blends.jpg" width="32" height="20" alt="Color blends">&nbsp;Dailies</a> </li>
+                <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Freshlook ColorBlends"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-color-blends.jpg" width="32" height="20" alt="Color blends">&nbsp;Freshlook</a> </li>
+                <li> <a href="http://www.gkboptical.com/contact-lenses/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-color-blends.jpg" width="32" height="20" alt="Air Optix">&nbsp;Air Optix</a> </li>
               </ul>
-              <br>
+              <div style="margin-top:6px;">
+                <h3>Manufacturer</h3>
+                <ul>
+                  <li> <a href="http://www.gkboptical.com/contact-lenses/?lens_maufacturer=jnj"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-johnson-johnson.jpg" width="32" height="20" alt="Johnson&amp;Johnson">&nbsp;J&amp;J </a> </li>
+                  <li> <a href="http://www.gkboptical.com/contact-lenses/?lens_maufacturer=bnl"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-bausch-lomb.jpg" width="32" height="20" alt="Bausch&amp;Lomb">&nbsp;Bausch&amp;Lomb </a> </li>
+                  <li> <a href="http://www.gkboptical.com/contact-lenses/?lens_maufacturer=ciba vision"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ciba-vision.jpg" width="32" height="20" alt="Ciba Vision">&nbsp;Ciba Vision</a> </li>
+                </ul>
+              </div>
+            </div>
+            <!-- .col -->
+            <div class="left col-noborder">
               <h3>Frequency</h3>
               <ul>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?lens_type=daily disposal">Daily</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?modality=daily">Daily</a></li>
                 <li><a href="http://www.gkboptical.com/contact-lenses/?lens_type=bi weekly">BiWeekly</a></li>
                 <li><a href="http://www.gkboptical.com/contact-lenses/?lens_type=monthly disposable">Monthly</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?lens_type=yearly">Yearly</a></li>
-              </ul>
-            </div>
-            <!-- .col -->
-            <div class="left col-noborder">
-              <h3>Type</h3>
-              <ul>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?vision_type=Single">Single Vision</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?vision_type=bifocal-multifocal">Bifocal(Multifocal)</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Oasys for Astigmatism">Toric Lens</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?lens_type=Colour Lens">Colored Contact Lens</a></li>
-              </ul>
-              <div style="margin-top:6px;">
-                <h3>Top Contact Lens</h3>
-                <ul>
-                  <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 1 Day Moist-Acuvue Oasys for Astigmatism-Acuvue Bifocal-Acuvue Clear-Acuvue 2-Acuvue Oasys-Acuvue 1 Day"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-acuvue.jpg" width="32" height="20" alt="Acuvue">&nbsp;Acuvue</a> </li>
-                  <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=SofLens 59-SofLens Daily Disposable-Soflens Daily Disposable for Astigmatism (SDDA)-SofLens 66 Toric-SofLens MultiFocal"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-soflens.jpg" width="32" height="20" alt="Soflens">&nbsp;Soflens</a> </li>
-                  <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Freshlook ColorBlends"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-color-blends.jpg" width="32" height="20" alt="Color blends">&nbsp;Color blends</a> </li>
-                </ul>
-              </div>
-            </div>
-            <div class="left col-noborder">
-              <h3>Products</h3>
-              <ul>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 1 Day Moist">Acuvue 1 Day Moist</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 2">Acuvue 2</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Oasys">Acuvue Oasys</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">SofLens Daily Disposable</a></li>
-                <li><a href="http://www.gkboptical.com/contact-lenses/"><span class="all-eyewear">View All Contact Lenses</span></a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?modality=yearly">Yearly</a></li>
               </ul>
               <div style="margin-top:6px;">
                 <h3>Vision Type</h3>
+                <ul>
+                  <li><a href="http://www.gkboptical.com/contact-lenses/?vision_type=Single">Single Vision</a></li>
+                  <li><a href="http://www.gkboptical.com/contact-lenses/?vision_type=bifocal-multifocal">Bifocal(Multifocal)</a></li>
+                  <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Oasys for Astigmatism-Purevision Toric-SofLens 66 Toric">Toric Lens</a></li>
+                  <li><a href="http://www.gkboptical.com/contact-lenses/?lens_type=Colour Lens">Colored Contact Lens</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="left col-noborder">
+              <h3>Length of Usage</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 1 Day Moist">Freshlook ColorBlends</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 2">Acuvue 2</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Oasys">Acuvue Oasys</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Daily Disposable</a></li>
+              </ul>
+              <div style="margin-top:6px;">
+                <h3>Sale</h3>
                 <ul>
                   <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;vision_type=Single">Single</a> </li>
                   <li> <a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;vision_type=Bifocal-MultiFocal">Bifocal/MultiFocal</a> </li>
                 </ul>
               </div>
             </div>
-            <div class="mega-footer" style="width:360px;margin-top:-2px;">
-              
-                <a href="http://www.gkboptical.com/contact-lenses/">
-                <div class="mega-all-contactlens">&nbsp;</div>
-                </a>
-            
-            </div>
-          </div>
-        </li>
-        <li class="hasSubNav"><a href="javascript:;">Brands</a>
-          <div class="subNav threeCol subNavRight">
             <div class="left col-noborder">
-              <h3>&nbsp;</h3>
+              <h3>Johnson&amp;Johnson</h3>
               <ul>
-                <li> <a href="http://www.gkboptical.com/adidas/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-adidas.jpg" width="32" height="20" alt="Adidas">&nbsp;Adidas</a> </li>
-                <li> <a href="http://www.gkboptical.com/bluebay/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-bluebay.jpg" width="32" height="20" alt="Bluebay">&nbsp;Bluebay</a> </li>
-                <li> <a href="http://www.gkboptical.com/briko/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-briko.jpg" width="32" height="20" alt="Briko">&nbsp;Briko</a> </li>
-                <li> <a href="http://www.gkboptical.com/burberry/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-burberry.jpg" width="32" height="20" alt="Burberry">&nbsp;Burberry</a> </li>
-                <li> <a href="http://www.gkboptical.com/bvlgari/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-bvlgari.jpg" width="32" height="20" alt="Bvlgari">&nbsp;Bvlgari</a> </li>
-                <li> <a href="http://www.gkboptical.com/carrera/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-carrera.jpg" width="32" height="20" alt="Carrera">&nbsp;Carrera</a> </li>
-                <li> <a href="http://www.gkboptical.com/charmant/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-charmant.jpg" width="32" height="20" alt="Charmant">&nbsp;Charmant</a> </li>
-                <li> <a href="http://www.gkboptical.com/d-g/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-d-g.jpg" width="32" height="20" alt="D&amp;G">&nbsp;D&amp;G</a> </li>
-                <li> <a href="http://www.gkboptical.com/dkny/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dkny.jpg" width="32" height="20" alt="DKNY">&nbsp;DKNY</a> </li>
-                <li> <a href="http://www.gkboptical.com/dolce-gabbana/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-dolce-gabbana.jpg" width="32" height="20" alt="Dolce Gabbana">&nbsp;Dolce&amp;Gabbana</a> </li>
-                <li> <a href="http://www.gkboptical.com/emporio-armani/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-emporio-armani.jpg" width="32" height="20" alt="Emporio Armani">&nbsp;Emporio Armani</a> </li>
-                <li> <a href="http://www.gkboptical.com/esprit/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-esprit.jpg" width="32" height="20" alt="Esprit">&nbsp;Esprit</a> </li>
-                <li> <a href="http://www.gkboptical.com/fcuk-vision/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-fcuk.jpg" width="32" height="20" alt="Fcuk Vision">&nbsp;Fcuk Vision</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 1 Day Moist">Acuvue Bifocal</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?price=0-3800&amp;product=Acuvue 2">Acuvue 1 Day Moist (90 Lens)</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=acuvue-bifocal">Acuvue 1 Day Moist (5 Lens)</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=acuvue2-12lens-jjacu2">Acuvue 1 Day Moist (30 Lens)</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Acuvue 2</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Acuvue 1 Day</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Acuvue Oasys</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Acuvue Clear</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Acuvue Oasys for Astigmatism</a></li>
               </ul>
             </div>
             <div class="left col-noborder">
-              <h3>&nbsp;</h3>
+              <h3>Bausch&amp;Lomb </h3>
               <ul>
-                <li> <a href="http://www.gkboptical.com/french-connection/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-french-connection.jpg" width="32" height="20" alt="French Connection">&nbsp;French Connection</a></li>
-                <li> <a href="http://www.gkboptical.com/hans-stepper/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-hans-stepper.jpg" width="32" height="20" alt="Hans Stepper">&nbsp;Hans Stepper</a></li>
-                <li> <a href="http://www.gkboptical.com/head/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-head.jpg" width="32" height="20" alt="Head">&nbsp;Head</a></li>
-                <li> <a href="http://www.gkboptical.com/hilton-eyewear/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-hilton-eyewear.jpg" width="32" height="20" alt="Hilton Eyewear">&nbsp;Hilton Eyewear</a></li>
-                <li> <a href="http://www.gkboptical.com/luxottica/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-luxottica.jpg" width="32" height="20" alt="Luxottica">&nbsp;Luxottica</a></li>
-                <li> <a href="http://www.gkboptical.com/levis/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-levis.jpg" width="32" height="20" alt="Levis">&nbsp;Levis</a></li>
-                <li> <a href="http://www.gkboptical.com/maui-jim/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-maui-jim.jpg" width="32" height="20" alt="Maui-Jim">&nbsp;Maui-Jim</a></li>
-                <li> <a href="http://www.gkboptical.com/oakley/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oakley.jpg" width="32" height="20" alt="Oakley">&nbsp;Oakley</a></li>
-                <li> <a href="http://www.gkboptical.com/oxydo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-oxydo.jpg" width="32" height="20" alt="Oxydo">&nbsp;Oxydo</a></li>
-                <li> <a href="http://www.gkboptical.com/puma/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-puma.jpg" width="32" height="20" alt="Puma">&nbsp;Puma</a></li>
-                <li> <a href="http://www.gkboptical.com/polaroid/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-polaroid.jpg" width="32" height="20" alt="Polaroid">&nbsp;Polaroid</a></li>
-                <li> <a href="http://www.gkboptical.com/polo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-polo.jpg" width="32" height="20" alt="Polo">&nbsp;Polo</a></li>
-                <li> <a href="http://www.gkboptical.com/police/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-police.jpg" width="32" height="20" alt="Police">&nbsp;Police</a> </li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=soflens-59">SofLens 59</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">B4</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">HO4</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Optima 38</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">PureVision2</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">SofLens 66 Toric</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Purevision Toric</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">SofLens MultiFocal</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">U4</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">SofLens Daily Disposable</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Soflens Daily Disposable(SDDA)</a></li>
               </ul>
             </div>
             <div class="left col-noborder">
-              <h3>&nbsp;</h3>
+              <h3>Ciba Vision</h3>
               <ul>
-                <li> <a href="http://www.gkboptical.com/prada/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-prada.jpg" width="32" height="20" alt="Prada">&nbsp;Prada</a> </li>
-                <li> <a href="http://www.gkboptical.com/ralph-lauren/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ralph-lauren.jpg" width="32" height="20" alt="Ralph Lauren">&nbsp;Ralph Lauren</a> </li>
-                <li> <a href="http://www.gkboptical.com/ray-ban/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-ray-ban.jpg" width="32" height="20" alt="Ray-Ban">&nbsp;Ray-Ban</a> </li>
-                <li> <a href="http://www.gkboptical.com/stdupont/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-stdupont.jpg" width="32" height="20" alt="S.T.Dupont">&nbsp;S.T.Dupont</a> </li>
-                <li> <a href="http://www.gkboptical.com/safilo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-safilo.jpg" width="32" height="20" alt="Safilo">&nbsp;Safilo</a> </li>
-                <li> <a href="http://www.gkboptical.com/salvatore-ferragamo/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-salvatore-ferragamo.jpg" width="32" height="20" alt="Salvatore Ferragamo">&nbsp;Salvatore Ferragamo</a> </li>
-                <li> <a href="http://www.gkboptical.com/sferoflex/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-sferoflex.jpg" width="32" height="20" alt="Sferoflex">&nbsp;Sferoflex</a> </li>
-                <li> <a href="http://www.gkboptical.com/silhouette/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-slihouette.jpg" width="32" height="20" alt="Silhouette">&nbsp;Silhouette</a> </li>
-                <li> <a href="http://www.gkboptical.com/tag-heuer/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tag-heuer.jpg" width="32" height="20" alt="Tag Heuer">&nbsp;Tag Heuer</a> </li>
-                <li> <a href="http://www.gkboptical.com/tommy-hilfiger/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-tommy-hilfiger.jpg" width="32" height="20" alt="Tommy Hilfiger">&nbsp;Tommy Hilfiger</a> </li>
-                <li> <a href="http://www.gkboptical.com/versace/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-versace.jpg" width="32" height="20" alt="Versace">&nbsp;Versace</a> </li>
-                <li> <a href="http://www.gkboptical.com/versus/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-versus.jpg" width="32" height="20" alt="Versus">&nbsp;Versus</a> </li>
-                <li> <a href="http://www.gkboptical.com/vogue-eyewear/"> <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/menu-vogue.jpg" width="32" height="20" alt="Vogue">&nbsp;Vogue</a> </li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=soflens-59">Focus Dailies</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">O2 Optix</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Air Optix Aqua</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Freshlook ColorBlends</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Freshlook One Day</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/?product=SofLens Daily Disposable">Air Optix Aqua for Asigmatism</a></li>
+                <li><a href="http://www.gkboptical.com/contact-lenses/"><span class="all-eyewear">View All Contact Lenses</span></a></li>
+              </ul>
+            </div>
+            <div class="block-three">
+              <ul>
+                <!--<li>Prescription Sunglasses</li>-->
+                <li>Need Advice : Call Us at 1800-419-1990</li>
               </ul>
             </div>
           </div>
         </li>
-        <li class="hasSubNav"> <a href="javascript:;">Collections</a>
-          <div style="overflow:hidden;" class="subNav twoCol subNavRight">
-            <div class="left col-noborder">
-              <h3>Sunglasses</h3>
-              <ul>
-                <li><a href="http://www.gkboptical.com/sunglasses/rayban/">Ray Ban Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/oakley/">Oakley Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?gender=male-unisex">Men´s Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?gender=female-unisex">Women´s Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?size=large">Oversized Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?frame_shape=Aviator">Aviator Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?polarized=1">Polarized Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?brand_name=OAKLEY-MAUI JIM">Sporty Wrap Sunglasses</a></li>
-                <li><a href="http://www.gkboptical.com/sunglasses/?frame_shape=Wayfarer">Wayfarer Sunglasses</a></li>
-              </ul>
-            </div>
-            <div class="left col-noborder">
-              <h3>Eyeglass &amp; Frames</h3>
-              <ul>
-                <li><a href="http://www.gkboptical.com/eyeframes/rayban/">Ray Ban Frames</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/oakley/">Oakley Frames</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?gender=male-unisex">Men´s Eyeglasses</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?gender=female-unisex">Women´s Eyeglasses</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/">Designer Eyeglasses</a></li>
-                <li><a href="http://www.gkboptical.com/eyeframes/?frame_material=Titanium">Titanium Frames</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="hasSubNav"><a href="javascript:;">Sale</a>
-          <div class="subNav oneCol subNavRight">
-            <div class="left col-noborder">
-              <ul>
-                <li> <a href="http://www.gkboptical.com/sunglasses-sale/">Sunglasses&nbsp; <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/s-sale.png" width="76" height="18" alt="Sunglasses"></a> </li>
-                <li> <a href="http://www.gkboptical.com/eyeframes-sale/">Eyeglasses&nbsp; <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/e-sale.png" width="76" height="16" alt="Eyeglasses"></a> </li>
-                <h3 style="margin-top:10px;">Offers</h3>
-                <li><a href="http://www.gkboptical.com/marketing-online-offers/">Best Offers On Eyewear</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li style="border-right:none;padding-right:38px;" class="hasSubNav"><a href="javascript:;">Help</a>
-          <div class="subNav twoCol subNavRight">
+        <li class="hasSubNav"><a href="javascript:;" class="white">Help</a> 
+          <!--<div class="subNav threeCol subNavRight">-->
+          <div class="subNav sixCol" style="left:-538px;">
             <div class="left col-noborder">
               <h3>Advice</h3>
               <ul>
-                <li><a href="http://www.gkboptical.com/contact-lens-online-order/">Order Online</a></li>
-                <li><a href="http://www.gkboptical.com/shipping/">Delivery Times</a></li>
-                <li><a href="http://www.gkboptical.com/shipping/">Shipping Costs</a></li>
-                <li><a href="http://www.gkboptical.com/cancellation/">Exchanges/Returns</a></li>
-                <li><a href="http://www.gkboptical.com/payment/">Payment Methods</a></li>
+                <!--<li><a href="#">How to Order</a></li>
+                <li><a href="#">Optical Adivce</a></li>
+                <li><a href="#">Style Advice</a></li> -->
                 <li><a href="http://www.gkboptical.com/face-shape-guide/">Face Shape Guide</a></li>
                 <li><a href="http://www.gkboptical.com/frame-size-guide/">Frame Size Guide</a></li>
+                <li><a href="http://www.gkboptical.com/payment/">Payment Methods</a></li>
+                <li><a href="http://www.gkboptical.com/cancellation/">Exchanges/Returns</a></li>
+                <!--<li><a href="#">Servicing</a></li>-->
               </ul>
             </div>
-            
-            <!-- .col -->
             <div class="left col-noborder">
-              <h3>Store Locations</h3>
+              <h3>Benifits</h3>
               <ul>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-bangalore/"> Bangalore Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-kolkata/"> Kolkata Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-chennai/"> Chennai Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-mumbai/"> Mumbai Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-hyderabad/"> Hyderabad Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-delhi/"> Delhi Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-gujarat/"> Gujarat Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-outlets-pune/"> Pune Outlets</a> </li>
-                <li> <a href="http://www.gkboptical.com/gkb-retail-outlets/"> All GKB Outlets</a> </li>
+                <!--<li><a href="#">Free prescription lenses</a></li>
+                <li><a href="#">Free Eye Testing</a></li> -->
+                <li><a href="http://www.gkboptical.com/shipping/">Free shipping</a></li>
+                <li><a href="http://www.gkboptical.com/shipping/">Fast Delivery</a></li>
+                <!--<li><a href="#">100% money back policy</a></li> -->
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>Eyeglasses</h3>
+              <h4>1. Materials</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/frame-material/">&nbsp;Ultra-Light Eyeglasses</a></li>
+                <li><a href="http://www.gkboptical.com/frame-material/#metal">&nbsp;Metal Eyeglasses</a></li>
+                <li><a href="http://www.gkboptical.com/frame-material/#shell">&nbsp;Plastic Eyeglasses</a></li>
+              </ul>
+              <h4>2. Frame Type</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/frame-types/#fullrim">&nbsp;Full Rim</a></li>
+                <li><a href="http://www.gkboptical.com/frame-types/#halfrim">&nbsp;Half Rim</a></li>
+                <li><a href="http://www.gkboptical.com/frame-types/#rimless">&nbsp;Rimless</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>Prescription</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/prescription-details/#spherical">&nbsp;Spherical Power</a></li>
+                <li><a href="http://www.gkboptical.com/prescription-details/#cylindrical">&nbsp;Cylindrical Power</a></li>
+                <li><a href="http://www.gkboptical.com/prescription-details/#pd">&nbsp;Pupilary Distance</a></li>
+                <li><a href="http://www.gkboptical.com/prescription-details/#astigmatism">&nbsp;Astigmatism</a></li>
+                <li><a href="#">&nbsp;Zero Power</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>Lenses</h3>
+              <h4>1. Lens Thickness</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/lens-thickness/#1.50standard">&nbsp;1.5 Standard</a></li>
+                <li><a href="http://www.gkboptical.com/lens-thickness/#1.60ultra">&nbsp;1.6 Thin</a></li>
+                <li><a href="http://www.gkboptical.com/lens-thickness/#1.67extrathin">&nbsp;1.67 Extra Thin</a></li>
+                <li><a href="http://www.gkboptical.com/lens-thickness/#1.74ultrathin">&nbsp;1.74 Ultra-Thin</a></li>
+              </ul>
+              <h4>2. Lens Type</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/special-lens-coating/#satin">&nbsp;Satin AR</a></li>
+                <li><a href="http://www.gkboptical.com/special-lens-coating/#crizal">&nbsp;Crizal</a></li>
+                <li><a href="http://www.gkboptical.com/colored-lenses/#transitions">&nbsp;Transitions</a></li>
+                <li><a href="http://www.gkboptical.com/colored-lenses/#tinted">&nbsp;Tinted Lenses</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>Sunglasses</h3>
+              <ul>
+                <li><a href="http://www.gkboptical.com/sunglasses-pz-1/">Polarized sunglasses</a></li>
+                <li><a href="http://www.gkboptical.com/sunglass-lenses/#uvcoating">100% UV coating</a></li>
+                <!--<li><a href="#">Powered sunglasses</a></li>-->
+                <li><a href="http://www.gkboptical.com/frame-material/">Frame Material</a></li>
+                <li><a href="http://www.gkboptical.com/frame-types/">Frame Shapes</a></li>
+                <!--<li><a href="#">Lens Color</a></li>-->
+              </ul>
+            </div>
+            <div class="left col-noborder" style="display:none;">
+              <h3>Eye Health</h3>
+              <ul>
+                <li><a href="#">Computer Eye Strain</a></li>
+                <li><a href="#">Eye Protection Tips</a></li>
+                <li><a href="#">Wearing Sunglass Benifits</a></li>
+                <li><a href="#">Why Anti-Reflection</a></li>
+                <li><a href="#">Choose right Eyeglass</a></li>
+              </ul>
+            </div>
+            <div class="block-three">
+              <ul>
+                <!--<li>Prescription Sunglasses</li>-->
+                <li>Need Advice : Call Us at 1800-419-1990</li>
               </ul>
             </div>
           </div>
         </li>
+        <li class="hasSubNav"><a href="javascript:;" class="white">Locations</a>
+          <div class="subNav sixCol" style="left:-659px;">
+            <div class="left col-noborder"> 
+              <h3>East Locations</h3>
+              <h4>Kolkata</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=kolkata-garihat road">1. Gariahat Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Salt Lake City- Kolkata">2. Salt Lake City</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Rashbehari Avenue-Kolkata">3. Rashbehari Avenue</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Salt Lake- Kolkata">4. Salt Lake</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Park Street-Kolkata">5. Park Mansion</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Elgin Road- Kolkata">6. Forum Shopping Mall</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Gurusaday Road-Kolkata">7. Gurusaday Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Chak Garia-Kolkata">8. Highland Park</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Baguihati-Kolkata">9. Joramandir</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Shah Road-kolkata">10. South City Mall</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Rajdanga Main Road-Kolkata">11. Rajdanga Main..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Hatiara Rajarhat- Kolkata">12. City Centre-New..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=kolkatta-siliguri-megamall">13. COSMOS-The..</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>West Locations</h3>
+              <h4>Mumbai</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Colaba- Mumbai">1. Shahid Bhagat..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=mumbai-atria-mall">2. Atria Mall</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Linking Road,-Santacruz- Mumbai">3. Keshavkun</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Mumbai-Empire Mahal, Dadar TT">4. Dadar-TT</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Vashi-Navi Mumbai">5. Navi-Mumbai</a></li>
+              </ul>
+              <h4>Pune (Maharashtra)</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Pune-324 M.G">1. M.G.-Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Kalyaninagar-Pune">2. Fortaleza, Yerawada</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=pune-Hadapsar-Taluka-Haveli">3. Amanora Park..</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>North Locations</h3>
+              <h4>Delhi</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=delhi-unitech-greatIndiaPlace">1. Unitech</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=dlf-city-center">2. DLF City Center</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=dlf-select-city-walk">3. DLF Place</a></li>
+              </ul>
+              <h4>Jaipur (Rajasthan)</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=City Pulse Mall-Jaipur">1. Sawai Ram Singh..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=M.I. Road-Jaipur">2. Khetan Bhawan</a></li>
+              </ul>
+              <h4>Amritsar (North-West)</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=amritsar-celebration-mall">1.Celebration Mall</a></li>
+              </ul>
+             <h4>Raipur (Chhattisgarh)</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=raipur-city-centre-mall">1. City Centre Mall</a></li>
+              </ul>
+            </div>
+            <div class="left col-noborder">
+              <h3>South Locations</h3>
+              <h4>Hyderabad (Andhra..</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Himayat Nagar- Hyderabad">1. Morine Plaza</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Jubilee Hills- Hyderabad">2. Jubilee-Hills</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Banjara Hills,-Hyderabad">3. Banjara-Hills</a></li>
+              </ul>
+              <h4>Vizag (Andhra..</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=Station Road,-Vizag">1. Beside Dwarka Inn</a></li>
+              </ul>
+              <h4>Coimbatore</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=coimbatore-R.S.-puram">1. R.S. Puram</a></li>
+              </ul>
+              <h4>Puducherry</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=punducherry-mission-street">1. Mission Street</a></li>
+              </ul>
+              </div>
+              <div class="left col-noborder">
+              <h4>Chennai (Tamil Nadu)</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-ramaswamy">1. C P Ramaswamy..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-kasturaba-nagar">2. Kasturaba Nagar</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-annanagar-east">3. Annanagar East</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-ace-tower">4. Ace Tower</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-valluvarkottam-high-road">5. Valluvarkottam..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-velachery-tambaram">6. Velachery Tambaram</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-express-avenue">7. Express Avenue</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-arcot-road">8. Arcot Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-chetty-road">9. G.N. Chetty Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=chennai-ampa-sky-walk">10. Ampa Sky Walk</a></li>
+              </ul>
+              </div>
+               <div class="left col-noborder">
+              <h4>Bangalore (Karna..</h4>
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-old-plaza-theater">1. Old Plaza Theater</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-sampige-road">2. Sampige Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-gem-plaza">3. Gem Plaza</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-blockNo. IV">4. Koramangala</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-vasavi-plaza">5. Vasavi Plaza</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-indiranagar">6. Indiranagar</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-subbarama-chetty">7. Subbarama Chetty..</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-devraj-road">8. Devraj Urs Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=bangalore-commercial-street">9. Commercial Street</a></li>
+              </ul>
+              <h4>Gujarat</h4> 
+              <ul>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=gujarat-iscon-mega-mall">1. Iscon Mega Mall</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=gujarat-center-square-mall">2. Center Square Mall</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=gujarat-rudra-plus-complex">3. Rudra Plus Complex</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store= gujarat-race-course">4. Race Course</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=gujarat-dumas-road">5. Dumas Road</a></li>
+                <li><a href="http://www.gkboptical.com/storelocator/?store=gujarat-grand-central-mall">6. Grand Central Mall</a></li>
+              </ul>
+            </div>
+            <div class="block-three">
+              <ul>
+                <!--<li>Prescription Sunglasses</li>-->
+                <li>Need Advice : Call Us at 1800-419-1990</li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li style="border-right:none;padding:8px 10px;" class="hasnoSubNav"><a href="http://www.gkboptical.com/checkout/cart/" class="white">Shopping Cart <span id="header_cart">(0)</span></a> </li>
       </ul>
     </div>
     <div class="megacorner-right">&nbsp;</div>
   </div>
 </div>
-<script src="http://www.gkboptical.com/skin/frontend/gkb/default/js/general.js" type="text/javascript"></script>
- </div>
+<script src="http://www.gkboptical.com/skin/frontend/gkb/default/js/general.js" type="text/javascript"></script>     </div>
   </div>
   <div class="content-wrap">
-                
-    <div class="p-wrapper left"> 
-	<div class="p-breadcrumb">
-<div class="breadcrumbs">
-    <ul>
-                    <li class="home">
-                            <a href="http://www.gkboptical.com/" title="Go to Home Page">Home</a>
-                                        <span>/ </span>
-                        </li>
-                    <li class="cms_page">
-                            <strong>GKB Privacy Policy</strong>
-                                    </li>
-            </ul>
-</div>
-</div>
- 
-          <noscript>
-        <div class="noscript">
-            <div class="noscript-inner">
-                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
-                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
-            </div>
-        </div>
-    </noscript>
- 	    <div class="page-title">
+    <div class="main-content">    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
 <div class="std"><div style="padding: 0 5px;">
@@ -568,19 +902,16 @@ function initMenu() {
 <p>&nbsp;</p>
 <p><strong>Advertisements on gkboptical.com</strong>: We use third-party  advertising companies to serve ads when you visit our website. These  companies may use information (not including your name, address, email  address, or telephone number) about your visits to this and other  websites in order to provide advertisements about goods and services of  interest to you.<br><strong>&nbsp;</strong></p>
 <p><strong>Changes to this Privacy Polic</strong>y: On occasion  gkboptical.com may amend or change this Privacy Policy by updating or  revising this posting, with the revised terms taking effect as of the  date of its posting.</p>
-</div></div> 
-    
-              
-    </div>
-        
+</div></div></div>    
     <div class="right-navi">
-<a href="http://www.gkboptical.com/marketing-buyone-getone/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/buy_one_get_one_rightbanner.jpg?v=2" style="margin-bottom:5px;"></a>
+     
+<!--<a href=""><img src="?v=2" style="margin-bottom:5px;"/></a>
 
-<a href="http://www.gkboptical.com/invite/"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/refer-friends-right-banner.jpg?v=2" style="margin-bottom:5px;"></a>
+<a href=""><img src="?v=2" style="margin-bottom:5px;"/></a>-->
 
-<div class="right-widget gradient-gray left ">
-      <div class="paddingthree left"> <span class="bold">Subscribe Newsletter</span>
-      <p style="font-size:11px;text-align:center;">Signup and get 15% Off</p>
+<div class="right-widget gradient-gray left" style="display:none;">
+      <div class="paddingthree left"> <span class="bold">Get Your FREE Sunglasses</span>
+      <p style="font-size:11px;text-align:center;display:none;">Signup and get 15% Off</p>
       <form action="http://www.gkboptical.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
         <input name="email" type="text" class="textfield-custom fonteleven newsletter-field-right left required-entry validate-email" value="enter email address" id="newsletter" onclick="javascript:this.value='';">
         <input type="submit" title="Subscribe" value="Subscribe" class="newsletter-submit left">
@@ -588,7 +919,7 @@ function initMenu() {
       </div>
 <div class="gray-shadow">&nbsp;</div>
 </div>
-      <div class="right-widget why-choose  gradient-gray left "> <span class="bold paddingthree">Why Choose Us?</span>
+      <div class="right-widget why-choose  gradient-gray left " id="why-choose"> <span class="bold paddingthree">Why Choose Us?</span>
          <ul>
           <li>Widest Range
             <p><a href="http://www.gkboptical.com/sunglasses/" rel="nofollow">Sunglasses</a>, <a href="http://www.gkboptical.com/eyeframes/" rel="nofollow">Frames</a></p>
@@ -623,74 +954,7 @@ function initMenu() {
         </ul>
         <div class="gray-shadow">&nbsp;</div>
       </div>
-      
-<div class="liststyle right-widget gradient-gray left" id="csc"><!-- style="width:250px;margin-left:-110px;background:#FFF;z-index:999;position:relative;" -->
-      <a href="JavaScript:void(0);" onclick="expand();" id="go" title="Expand Mini Cart"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/expand.gif" class="left"></a><div class="gradient-blue bold white-text paddingthree shopping-cart" style="z-index:999;">&nbsp;Shopping Cart &nbsp;(0)</div>
-
-
-
-            <ul class="fontten"><li style="text-align:center;"><span class="bold fonteleven">Start Shopping</span></li></ul>	  <div class="gray-shadow" style="margin-top:10px;">&nbsp;</div>
- </div>
-     
-  
-  
-  
-<div class="liststyle right-widget gradient-gray left hide" id="esc"><!-- style="width:250px;margin-left:-110px;background:#FFF;z-index:999;position:relative;" -->
-<a href="JavaScript:void(0);" onclick="contract();" id="go" title="Restore Mini Cart"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/min.gif" class="left"></a>
-      <div class="gradient-blue bold white-text paddingthree shopping-cart" style="z-index:999;">&nbsp;Shopping Cart &nbsp;(0)</div>
-
-
-
-            <ul class="fontten"><li style="text-align:center;"><span class="bold fonteleven">Start Shopping</span></li></ul>	  <div class="" style="margin-top:10px;border-bottom:1px solid #CCC;">&nbsp;</div>
- </div>
-     
-  
-  
-  
-  <script>
-/*var count=1;
-
-function expand()
-{
-
-	if(count%2==0)
-	{
-		jQuery("#csc").animate({
-			width: "141px",
-			marginLeft: "0px"
-		}, 1000 );
-		jQuery("#csc").removeClass('expanded');
-		count++;
-	}
-	else
-	{
-		jQuery("#csc").animate({
-			width: "250px",
-			marginLeft: "-110px"
-		}, 1000 );
-		jQuery("#csc").addClass('expanded');
-		count++;
-	}
-}*/
-
-function expand()
-{
-jQuery("#csc").addClass('hide');
-jQuery("#esc").removeClass('hide');
-jQuery("#esc").addClass('expandedv');
-}
-
-function contract()
-{
-jQuery("#esc").removeClass('expandedv');
-//jQuery("#esc").addClass('hide');
-jQuery("#csc").removeClass('hide');
-jQuery("#esc").addClass('hide');
-}
-
-
-</script>
-<script type="text/javascript">
+      <script type="text/javascript">
 	function fetchLocation(ajaxUrl,cityid)
 	{
 		
@@ -761,14 +1025,14 @@ function setLocationsUrl(originalRequest) {
 </script>
 
 
-<div class="right-widget why-choose  gradient-gray left"> <div id="storecount" class="left paddingthree txt-orange bold">61</div><span class="bold paddingthree left"> Store Location(s)</span> 
+<div class="right-widget why-choose  gradient-gray left" id="locate"> <div id="storecount" class="left paddingthree txt-orange bold">62</div><span class="bold paddingthree left"> Store Location(s)</span> 
 <!--<form action="#" method="Post" name="storeform">-->
 
 
 
   <select name="city" size="1" class="validate-select store-location fonteleven" style="margin-top:8px;" onchange="return fetchLocation('http://www.gkboptical.com/storelocator/index/fetchstore/',this.value);">
     <option value="">Choose City</option>
-    <option value="15">Amritsar</option><option value="9">Aurangabad</option><option value="13">Bangalore</option><option value="8">Chennai</option><option value="12">Coimbatore</option><option value="1">Delhi</option><option value="17">Durgapur</option><option value="14">Gujarat</option><option value="6">Hyderabad</option><option value="5">Jaipur</option><option value="2">Kolkata</option><option value="3">Mumbai</option><option value="11">Punducherry</option><option value="4">Pune</option><option value="16">Raipur</option><option value="10">Siliguri</option><option value="7">Vishakapatnam</option>  </select>
+    <option value="15">Amritsar</option><option value="13">Bangalore</option><option value="19">Bhubaneswar</option><option value="8">Chennai</option><option value="12">Coimbatore</option><option value="1">Delhi</option><option value="17">Durgapur</option><option value="14">Gujarat</option><option value="6">Hyderabad</option><option value="5">Jaipur</option><option value="2">Kolkata</option><option value="3">Mumbai</option><option value="11">Punducherry</option><option value="4">Pune</option><option value="18">Raipur</option><option value="10">Siliguri</option><option value="7">Vishakapatnam</option>  </select>
 
   <select name="store" size="1" id="store" class="validate-select store-location fonteleven" onchange="return urlLocation('http://www.gkboptical.com/storelocator/index/fetchurl/',this.value);">
     <option>Choose Location</option>
@@ -829,160 +1093,247 @@ function changeStoreUrl()
 //]]>
 </script>
  
+ <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/modes-of-payment.jpg"> </div>
   </div>
-  </div>
-  <div class="clear footer"> 
-<div class="footer-top">
-	<div class="f-content">
-  <div class="bold f-content-title">Help</div>
-  <ul>
-    <li><a href="http://www.gkboptical.com/payment/" rel="nofollow">Payments</a></li>
-    <li><a href="http://www.gkboptical.com/shipping/" rel="nofollow">Shipping</a></li>
-    <li><a href="http://www.gkboptical.com/cancellation/" rel="nofollow">Cancellation &amp; Returns</a></li>
-    <li><a href="http://www.gkboptical.com/faq/" rel="nofollow">FAQs</a></li>
-    <li><a href="http://www.gkboptical.com/resources/" rel="nofollow">Resources</a></li>
-  </ul>
-</div>
-<div class="f-content">
-  <div class="bold f-content-title">gkboptical.com </div>
-  <ul>
-    <li><a href="http://www.gkboptical.com/contacts/" rel="nofollow">Contact Us</a></li>
-    <li><a href="http://www.gkboptical.com/about-gkb/" rel="nofollow">About Us</a></li>
-    <li><a href="http://www.gkboptical.com/careers/" rel="nofollow">Careers</a></li>
-    <li><a href="http://www.gkboptical.com/blog/">Blog</a></li>
-    <li><a href="http://www.gkboptical.com/press/" rel="nofollow">Press</a></li>
-  </ul>
-</div>
-<div class="f-content">
-  <div class="bold f-content-title">More </div>
-  <ul>
-    <li><a href="http://www.gkboptical.com/sitemap/" rel="nofollow">SiteMap</a></li>
-    <li><a href="http://www.gkboptical.com/gift-vouchers/" rel="nofollow">Gift Vouchers</a></li>
-    <li><a href="http://www.gkboptical.com/testimonials/" rel="nofollow">Testimonials</a></li>
-    <li><a href="http://www.gkboptical.com/affiliates/" rel="nofollow">Affiliates</a></li>
-    <li><a href="http://www.gkboptical.com/gkb-retail-outlets/" rel="nofollow">GKB Retail Outlets</a></li>
-  </ul>
-</div>
-<div class="f-content">
-  <div class="bold f-content-title">Your Eyes </div>
-  <ul>
-    <li><a href="http://www.gkboptical.com/how-eyes-work/" rel="nofollow">How eyes work</a></li>
-    <li><a href="http://www.gkboptical.com/visual-conditions/" rel="nofollow">Visual Conditions</a></li>
-    <li><a href="http://www.gkboptical.com/eye-testing/" rel="nofollow">Eye Testing</a></li>
-    <li><a href="http://www.gkboptical.com/computer-vision-syndrome/" rel="nofollow">Computer Vision Syndrome</a></li>
-    <li><a href="http://www.gkboptical.com/vision-care/" rel="nofollow">Vision Care for Children</a></li>
-  </ul>
-</div>
-	
-	
-		<div style="padding:5px 0px;">
-	
-	<!--<img src="" alt="" />-->
-	<iframe src="http://www.facebook.com/plugins/like.php?app_id=157748094290461&amp;href=http%3A%2F%2Fwww.facebook.com%2Fgkbopticals&amp;send=true&amp;layout=standard&amp;width=198&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:195px; height:45px; margin-left:5px;" allowtransparency="true"></iframe>
-	</div>
+  <div id="footer-wrap" class="clear"> <div class="gkb-footer-top">
+  <div class="footer-top-testimonials">
+    <h1>Testimonials</h1>
+    <span class="customer-review">
+    <p> "I just wanted to say thank you for my order and let you know I'm 100% satisfied with your service. I received my order even faster than I thought I would and I love my new Shades! Thank you."</p>
+    </span> <span class="customer-review-date">Thursday 20 January, 2012</span> <span class="customer-reviewer">Mr. Rajiv Kumar</span> <a href="http://www.gkboptical.com/testimonials/">View more reviews »</a> </div>
+  <div class="footer-top-payments">
+    <h1>Secure Payments Methods</h1>
+    <span>
+    <h5>All major credit and debit cards accepted</h5>
+    </span> <span><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/visa.png" width="51" height="32" alt="visa card"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/mastercard.png" width="51" height="32" alt="master card"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/american-express.png" width="51" height="32" alt="amex card"></span> <span>Credit Card, Debit Cards, Net Banking - <br>
+    All Indian Leading Banks, Cash On Delivery </span> <span class="powered-by">Powered by <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/cc-avenue.gif" width="80" height="16" alt="cc avenue"></span> </div>
+  <div class="footer-top-connect">
+    <h1>Fast and Safe shipping</h1>
+    <h5>Our Shipping partners are</h5>
+    <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/shipping-partners.jpg" width="214" height="62" alt="shipping partners">
+    <h1>Connect with us</h1>
+    <span class="social"><a href="http://www.facebook.com/gkbopticals" target="_blank"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/social_facebook.png" width="32" height="32" alt="facebook"></a> <a href="http://twitter.com/gkbopticals" target="_blank"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/social_twitter.png" width="32" height="32" alt="twitter"></a></span> 
     
-    <div class="left newsletter">
- <form action="http://www.gkboptical.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-	<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="83%">
-    <span class="fontfourteen bold">GKB NEWSLETTER</span></td>
-    <td width="17%">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><span class="fonteleven">Get latest trends &amp; special offers</span></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><input name="email" type="text" class="textfield-custom fonteleven newsletter-field left required-entry validate-email" value="enter email address" id="newsletter" onclick="javascript:this.value='';"></td>
-    <td valign="top"><button type="submit" title="Subscribe" class="newsletter-go left"></button></td>
-  </tr>
-</tbody></table></form>
-	
-	<!--<form action="" method="post" id="newsletter-validate-detail">
-    <span class="fontfourteen bold">NEWSLETTER</span><br />
-    <span class="fonteleven">Get latest trends & special offers</span>
-    <input name="email address" type="text" class="textfield-custom fonteleven newsletter-field left required-entry validate-email" value="enter email address" id=" email address"/>
-     <button type="submit" title=""  class="newsletter-go left"></button>
-    </form>-->
-    
-    </div>
+    <!--<span class="powered-by">Powered by <img src="common/images/blue-dart.gif" width="80" height="16" alt="blue dart" /></span>--> </div>
 </div>
-
-<div class="footer-center clear left">
-
-<div class="fc-content">
-<ul><li><p>Eyeglasses</p></li>
-	<li><a href="http://www.gkboptical.com/eyeframes/rayban/">Ray Ban glasses</a></li>
-	<li><a href="http://www.gkboptical.com/eyeframes/">Spectacle frames</a></li>
-	<li><a href="http://www.gkboptical.com/eyeframes/">EyeGlass Frames</a></li>
-	<li><a href="http://www.gkboptical.com/eyeframes/?frame_shape=Aviator">Aviator EyeGlasses</a></li>
-	<li>Anti Glare Eyeglasses</li>
-	<li><a href="http://www.gkboptical.com/eyeframes/oakley/">Oakley Eyeglasses</a></li>
-	<li><a href="http://www.gkboptical.com/eyeframes/">Designer Eyeglasses</a></li>
-	<li><a href="http://www.gkboptical.com/eyeframes/?frame_type=Rimless">Rimless Eyeglasses</a></li>
-	<li><a href="http://www.gkboptical.com/spectacle-lens-bifocal/">Bifocal Glasses</a></li>
-	<li><a href="http://www.gkboptical.com/spectacle-lens-progressive/">Progressive Glasses</a></li>
-</ul>
-</div>
-<div class="fc-content">
-<ul><li><p>Sunglasses Brands</p></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/rayban/">RayBan Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/oakley/">Oakley Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/prada/">Prada Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/versace/">Versace Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/bvlgari/">Bvlgari Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/police/">Police Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/maui-jim/">Maui Jim Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/vogue/">Vogue Sunglasses</a></li>
-	<li>Armani Sunglasses</li>
-	<li>Carrera Sunglasses</li>
-</ul>
-</div>
-<div class="fc-content">
-<ul><li><p>Sunglasses Types</p></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/?frame_shape=Aviator">Aviator Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/?polarized=1">Polarised Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/">Designer Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/?frame_shape=Wayfarer">Wayfarers Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/?size=large">Oversized sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/sunglasses/?brand_name=OAKLEY-MAUI JIM">Sport Sunglasses</a></li>
-	<li><a href="http://www.gkboptical.com/brands/">Sunglass Brands</a></li>
-	<li>Prescription Sunglasses</li>
-	<li><a href="http://www.gkboptical.com/sunglasses/">Latest Sunglasses</a></li>
-</ul>
-</div>
-
-<div class="left" style="margin:6px 0 0 2px;">
-  <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/ps-options.jpg" width="380" height="214" alt="">
-  </div>
-</div>
-<!-- To Call Footer Menu -->
-<div class="footer-center clear left">
-
-    <div class="fc-content">
-        <ul><li><p>Sunglasses</p></li>
-            <li><a href="http://www.gkboptical.com/sunglasses/adidas">Adidas&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/bluebay">Bluebay&nbsp;Sunglasses</a></li><li>Brendro Salvani&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/briko">Briko&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/burberry">Burberry&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/bvlgari">Bvlgari&nbsp;Sunglasses</a></li><li>CRAZY HEARTS WAYPHAR&nbsp;Sunglasses</li><li>CRISTALLO&nbsp;Sunglasses</li><li>Cartier&nbsp;Sunglasses</li><li>Charmant&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/d-g">D&amp;G&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/dkny">DKNY&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/dolce-gabbana">Dolce &amp; Gabbana&nbsp;Sunglasses</a></li><li>Dunhill&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/emporio-armani">Emporio Armani&nbsp;Sunglasses</a></li><li>Ested Dupont&nbsp;Sunglasses</li><li>Giorgio Armani&nbsp;Sunglasses</li><li>Gucci &nbsp;Sunglasses</li><li>Hans Stepper&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/head">Head &nbsp;Sunglasses</a></li><li>Hugo Boss&nbsp;Sunglasses</li><li>LUXOTTICA&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/levis">Levis&nbsp;Sunglasses</a></li><li>Lindberg&nbsp;Sunglasses</li>        </ul>
-    </div>
-
-    <div class="fc-content">
-        <ul><li><p>Sunglasses</p></li>
-            <li><a href="http://www.gkboptical.com/sunglasses/marco">Marco&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/maui-jim">Maui Jim&nbsp;Sunglasses</a></li><li>Mont Blanc&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/oakley">Oakley&nbsp;Sunglasses</a></li><li>PUMA&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/polaroid">Polaroid &nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/police">Police &nbsp;Sunglasses</a></li><li>Porsche&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/prada">Prada&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/rayban">Ray-Ban&nbsp;Sunglasses</a></li><li>Rodenstock &nbsp;Sunglasses</li><li>Safilo&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/salvatore-ferragamo">Salvatore Ferragamo&nbsp;Sunglasses</a></li><li>Seiko &nbsp;Sunglasses</li><li>Sferoflex&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/silhouette">Silhouette &nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/speedo">Speedo&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/tag-heuer">Tag Heuer&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/tommy-hilfiger">Tommy Hilfiger&nbsp;Sunglasses</a></li><li><a href="http://www.gkboptical.com/sunglasses/versace">Versace&nbsp;Sunglasses</a></li><li>Versus&nbsp;Sunglasses</li><li><a href="http://www.gkboptical.com/sunglasses/vogue">Vogue&nbsp;Sunglasses</a></li>        </ul>
-    </div>
-
-    <div class="fc-content">
-        <ul><li><p>Eyeglass Frames &amp; Spectacles</p></li>				
-            <li><a href="http://www.gkboptical.com/eyeframes/adidas-1">Adidas&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/bluebay">Bluebay&nbsp;Eyeglasses</a></li><li>Briko&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/burberry">Burberry&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/bvlgari">Bvlgari&nbsp;Eyeglasses</a></li><li>CRAZY HEARTS WAYPHAR&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/cristallo">CRISTALLO&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/carrera">Carrera&nbsp;Eyeglasses</a></li><li>Cartier&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/charmant">Charmant&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/d-g">D&amp;G&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/dkny">DKNY&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/dolce-gabbana">Dolce &amp; Gabbana&nbsp;Eyeglasses</a></li><li>Dunhill&nbsp;Eyeglass</li><li>Emporio Armani&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/esprit">Esprit&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/fcuk">Fcuk&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/fila">Fila&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/french-connection">French Connection&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/genesis">Genesis&nbsp;Eyeglasses</a></li><li>Giorgio Armani&nbsp;Eyeglass</li><li>Gucci &nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/hans-stepper">Hans Stepper&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/head">Head &nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/hilton">Hilton&nbsp;Eyeglasses</a></li><li>Hugo Boss&nbsp;Eyeglass</li>        </ul>
-    </div>
-
-    <div class="fc-content">
-        <ul><li><p>Eyeglass Frames &amp; Spectacles</p></li>				
-            <li>K:Actor&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/karmond">Karmond&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/luxottica">LUXOTTICA&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/levis">Levis&nbsp;Eyeglasses</a></li><li>Lindberg&nbsp;Eyeglass</li><li>Maui Jim&nbsp;Eyeglass</li><li>Mont Blanc&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/oakley">Oakley&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/oxydo">Oxydo&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/puma">PUMA&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/polo-ralph-lauren">Polo Ralph Lauren&nbsp;Eyeglasses</a></li><li>Porsche&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/prada">Prada&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/ralph-lauren">Ralph Lauren&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/rayban">Ray-Ban&nbsp;Eyeglasses</a></li><li>Rodenstock &nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/s-t-dupont">S.T.Dupont&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/safilo">Safilo&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/salvatore-ferragamo">Salvatore Ferragamo&nbsp;Eyeglasses</a></li><li>Seiko &nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/sferoflex">Sferoflex&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/silhouette">Silhouette &nbsp;Eyeglasses</a></li><li>Speedo&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/tag-heuer">Tag Heuer&nbsp;Eyeglasses</a></li><li>Tommy Hilfiger&nbsp;Eyeglass</li><li><a href="http://www.gkboptical.com/eyeframes/versace">Versace&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/versus">Versus&nbsp;Eyeglasses</a></li><li><a href="http://www.gkboptical.com/eyeframes/vogue">Vogue&nbsp;Eyeglasses</a></li>        </ul>
-    </div>
-
-<div class="fc-content">
-<ul>  <li><p>Contact Lenses</p></li>
-	        <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue 1 Day Moist">Acuvue 1 Day Moist</a></li>
+<div class="gkb-footer-center-wrap">
+  <div class="gkb-footer-center">
+    <div class="gkb-footer-center-left">
+      <div class="footer-section-cms">
+        <div class="footer-section">
+          <h5>Help</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/payment/" rel="nofollow">Payments</a></li>
+            <li><a href="http://www.gkboptical.com/shipping/" rel="nofollow">Shipping</a></li>
+            <li><a href="http://www.gkboptical.com/cancellation/" rel="nofollow">Cancellation &amp; Returns</a></li>
+            <li><a href="http://www.gkboptical.com/faq/" rel="nofollow">FAQs</a></li>
+            <li><a href="http://www.gkboptical.com/resources/" rel="nofollow">Resources</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>gkboptical.com</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/contacts/" rel="nofollow">Contact Us</a></li>
+            <li><a href="http://www.gkboptical.com/about-gkb/" rel="nofollow">About Us</a></li>
+            <li><a href="http://www.gkboptical.com/careers/" rel="nofollow">Careers</a></li>
+            <li><a href="http://www.gkboptical.com/blog/">Blog</a></li>
+            <li><a href="http://www.gkboptical.com/press/" rel="nofollow">Press</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>More . .</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/sitemap/" rel="nofollow">SiteMap</a></li>
+            <li><a href="http://www.gkboptical.com/gift-vouchers/" rel="nofollow">Gift Vouchers</a></li>
+            <li><a href="http://www.gkboptical.com/testimonials/" rel="nofollow">Testimonials</a></li>
+            <li><a href="http://www.gkboptical.com/affiliates/" rel="nofollow">Affiliates</a></li>
+            <li><a href="http://www.gkboptical.com/gkb-retail-outlets/" rel="nofollow">GKB Retail Outlets</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Your Eyes </h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/how-eyes-work/" rel="nofollow">How eyes work</a></li>
+            <li><a href="http://www.gkboptical.com/visual-conditions/" rel="nofollow">Visual Conditions</a></li>
+            <li><a href="http://www.gkboptical.com/eye-testing/" rel="nofollow">Eye Testing</a></li>
+            <li><a href="http://www.gkboptical.com/computer-vision-syndrome/" rel="nofollow">Computer Vision Syndrome</a></li>
+            <li><a href="http://www.gkboptical.com/vision-care/" rel="nofollow">Vision Care for Children</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-section-cs">
+        <div class="footer-section">
+          <h5>Eyeglasses</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/eyeframes/rayban/">Ray Ban glasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/">Spectacle frames</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/">EyeGlass Frames</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/?frame_shape=Aviator">Aviator EyeGlasses</a></li>
+            <li>Anti Glare Eyeglasses</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/oakley/">Oakley Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/">Designer Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/?frame_type=Rimless">Rimless Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/spectacle-lens-bifocal/">Bifocal Glasses</a></li>
+            <li><a href="http://www.gkboptical.com/spectacle-lens-progressive/">Progressive Glasses</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Sunglasses Brands</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/sunglasses/rayban/">RayBan Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/oakley/">Oakley Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/prada/">Prada Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/versace/">Versace Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/bvlgari/">Bvlgari Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/police/">Police Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/maui-jim/">Maui Jim Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/vogue/">Vogue Sunglasses</a></li>
+            <li>Armani Sunglasses</li>
+            <li>Carrera Sunglasses</li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Sunglasses Types</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/sunglasses/?frame_shape=Aviator">Aviator Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/?polarized=1">Polarised Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/">Designer Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/?frame_shape=Wayfarer">Wayfarers Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/?size=large">Oversized sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/?brand_name=OAKLEY-MAUI JIM">Sport Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/brands/">Sunglass Brands</a></li>
+            <li>Prescription Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/">Latest Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/cheap-sunglasses/">Cheap Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/cheap-eyeglasses-spectacle-frame/">Cheap Eyeglasses</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Sunglasses</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/sunglasses/adidas">Adidas&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/bluebay">Bluebay&nbsp;Sunglasses</a></li>
+            <li>Brendro Salvani&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/briko">Briko&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/burberry">Burberry&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/bvlgari">Bvlgari&nbsp;Sunglasses</a></li>
+            <li>CRAZY HEARTS WAYPHAR&nbsp;Sunglasses</li>
+            <li>CRISTALLO&nbsp;Sunglasses</li>
+            <li>Cartier&nbsp;Sunglasses</li>
+            <li>Charmant&nbsp;Sunglasses</li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Sunglasses</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/sunglasses/d-g">D&amp;G&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/dkny">DKNY&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/dolce-gabbana">Dolce &amp; Gabbana&nbsp;Sunglasses</a></li>
+            <li>Dunhill&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/emporio-armani">Emporio Armani&nbsp;Sunglasses</a></li>
+            <li>Ested Dupont&nbsp;Sunglasses</li>
+            <li>Giorgio Armani&nbsp;Sunglasses</li>
+            <li>Gucci &nbsp;Sunglasses</li>
+            <li>Hans Stepper&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/head">Head &nbsp;Sunglasses</a></li>
+            <li>Hugo Boss&nbsp;Sunglasses</li>
+            <li>LUXOTTICA&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/levis">Levis&nbsp;Sunglasses</a></li>
+            <li>Lindberg&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/marco">Marco&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/maui-jim">Maui Jim&nbsp;Sunglasses</a></li>
+            <li>Mont Blanc&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/oakley">Oakley&nbsp;Sunglasses</a></li>
+            <li>PUMA&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/polaroid">Polaroid &nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/police">Police &nbsp;Sunglasses</a></li>
+            <li>Porsche&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/prada">Prada&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/rayban">Ray-Ban&nbsp;Sunglasses</a></li>
+            <li>Rodenstock &nbsp;Sunglasses</li>
+            <li>Safilo&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/salvatore-ferragamo">Salvatore Ferragamo&nbsp;Sunglasses</a></li>
+            <li>Seiko &nbsp;Sunglasses</li>
+            <li>Sferoflex&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/silhouette">Silhouette &nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/speedo">Speedo&nbsp;Sunglasses</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <ul>
+            <li><a href="http://www.gkboptical.com/sunglasses/tag-heuer">Tag Heuer&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/tommy-hilfiger">Tommy Hilfiger&nbsp;Sunglasses</a></li>
+            <li><a href="http://www.gkboptical.com/sunglasses/versace">Versace&nbsp;Sunglasses</a></li>
+            <li>Versus&nbsp;Sunglasses</li>
+            <li><a href="http://www.gkboptical.com/sunglasses/vogue">Vogue&nbsp;Sunglasses</a></li>
+          </ul>
+          <h5>Frames &amp; Spectacles</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/eyeframes/adidas-1">Adidas&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/bluebay">Bluebay&nbsp;Eyeglasses</a></li>
+            <li>Briko&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/burberry">Burberry&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/bvlgari">Bvlgari&nbsp;Eyeglasses</a></li>
+            <li>CRAZY HEARTS WAYPHAR&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/cristallo">CRISTALLO&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/carrera">Carrera&nbsp;Eyeglasses</a></li>
+            <li>Cartier&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/charmant">Charmant&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/d-g">D&amp;G&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/dkny">DKNY&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/dolce-gabbana">Dolce &amp; Gabbana&nbsp;Eyeglasses</a></li>
+            <li>Dunhill&nbsp;Eyeglass</li>
+            <li>Emporio Armani&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/esprit">Esprit&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/fcuk">Fcuk&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/fila">Fila&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/french-connection">French Connection&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/genesis">Genesis&nbsp;Eyeglasses</a></li>
+            <li>Giorgio Armani&nbsp;Eyeglass</li>
+            <li>Gucci &nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/hans-stepper">Hans Stepper&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/head">Head &nbsp;Eyeglasses</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Frames &amp; Spectacles</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/eyeframes/hilton">Hilton&nbsp;Eyeglasses</a></li>
+            <li>Hugo Boss&nbsp;Eyeglass</li>
+            <li>K:Actor&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/karmond">Karmond&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/luxottica">LUXOTTICA&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/levis">Levis&nbsp;Eyeglasses</a></li>
+            <li>Lindberg&nbsp;Eyeglass</li>
+            <li>Maui Jim&nbsp;Eyeglass</li>
+            <li>Mont Blanc&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/oakley">Oakley&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/oxydo">Oxydo&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/puma">PUMA&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/polo-ralph-lauren">Polo Ralph Lauren&nbsp;Eyeglasses</a></li>
+            <li>Porsche&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/prada">Prada&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/ralph-lauren">Ralph Lauren&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/rayban">Ray-Ban&nbsp;Eyeglasses</a></li>
+            <li>Rodenstock &nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/s-t-dupont">S.T.Dupont&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/safilo">Safilo&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/salvatore-ferragamo">Salvatore Ferragamo&nbsp;Eyeglasses</a></li>
+            <li>Seiko &nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/sferoflex">Sferoflex&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/silhouette">Silhouette &nbsp;Eyeglasses</a></li>
+            <li>Speedo&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/tag-heuer">Tag Heuer&nbsp;Eyeglasses</a></li>
+            <li>Tommy Hilfiger&nbsp;Eyeglass</li>
+            <li><a href="http://www.gkboptical.com/eyeframes/versace">Versace&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/versus">Versus&nbsp;Eyeglasses</a></li>
+            <li><a href="http://www.gkboptical.com/eyeframes/vogue">Vogue&nbsp;Eyeglasses</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h5>Contact Lenses</h5>
+          <ul>
+            <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue 1 Day Moist">Acuvue 1 Day Moist</a></li>
             <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Oasys for Astigmatism">Acuvue Oasys for Astigmatism</a></li>
             <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Bifocal">Acuvue Bifocal</a></li>
             <li><a href="http://www.gkboptical.com/contact-lenses/?product=Acuvue Clear">Acuvue Clear</a></li>
@@ -1007,145 +1358,132 @@ function changeStoreUrl()
             <li><a href="http://www.gkboptical.com/contact-lenses/?product=Freshlook ColorBlends">Freshlook ColorBlends</a></li>
             <li><a href="http://www.gkboptical.com/contact-lenses/?product=Freshlook One Day">Freshlook One Day</a></li>
             <li><a href="http://www.gkboptical.com/contact-lenses/?product=Focus Monthly">Focus Monthly</a></li>
-         
-</ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="gkb-footer-center-right">
+      <h2>We deliver to all cities and town across India</h2>
+      <div class="gkb-footer-cities">
+        <ul>
+          <li>Agartala</li>
+          <li>Agra</li>
+          <li>Ahmedabad</li>
+          <li>Aizawl</li>
+          <li>Ajmer</li>
+          <li>Allahabad</li>
+          <li>Amritsar</li>
+          <li>Aurangabad</li>
+          <li>Bangalore(Bengaluru)</li>
+          <li>Baroda</li>
+          <li>Bharatpur</li>
+          <li>Bhiwadi</li>
+          <li>Bhopal</li>
+          <li>Bhubaneswar</li>
+          <li>Calicut</li>
+          <li>Chandigarh</li>
+          <li>Chennai (Madras)</li>
+          <li>Cochin</li>
+          <li>Coimbatore</li>
+          <li>Coorg</li>
+          <li>Cuttack</li>
+          <li>Daman</li>
+          <li>Dehradun</li>
+          <li>Delhi</li>
+          <li>Dispur</li>
+          <li>Durgapur</li>
+          <li>Faridabad</li>
+          <li>Gandhinagar</li>
+          <li>Gangtok</li>
+          <li>Ghaziabad</li>
+          <li>Goa</li>
+          <li>Greater Noida</li>
+          <li>Guntur</li>
+          <li>Gurgaon</li>
+          <li>Guwahati</li>
+          <li>Haridwar</li>
+          <li>Hoshiarpur</li>
+          <li>Hyderabad</li>
+          <li>Imphal</li>
+          <li>Indore</li>
+          <li>Itanagar</li>
+          <li>Jaipur</li>
+          <li>Jalandhar</li>
+          <li>Jammu</li>
+          <li>Jodhpur</li>
+          <li>Kanchipuram</li>
+          <li>Kanpur</li>
+          <li>Kavaratti</li>
+        </ul>
+      </div>
+      <div class="gkb-footer-cities">
+        <ul>
+          <li>Kodiakanal</li>
+          <li>Kohima</li>
+          <li>Kolhapur</li>
+          <li>Kolkata (Calcutta)</li>
+          <li>Lucknow</li>
+          <li>Ludhiana</li>
+          <li>Madurai</li>
+          <li>Mangalore</li>
+          <li>Meerut</li>
+          <li>Mumbai</li>
+          <li>Munnar</li>
+          <li>Mussoorie</li>
+          <li>Mysore</li>
+          <li>Nagpur</li>
+          <li>Nashik</li>
+          <li>Navi Mumbai</li>
+          <li>New Delhi</li>
+          <li>Noida</li>
+          <li>Ooty</li>
+          <li>Panaji</li>
+          <li>Patiala</li>
+          <li>Patna</li>
+          <li>Pondicherry</li>
+          <li>Pune</li>
+          <li>Puri</li>
+          <li>Raipur</li>
+          <li>Rajkot</li>
+          <li>Ranchi</li>
+          <li>Rishikesh</li>
+          <li>Satara</li>
+          <li>Secunderabad</li>
+          <li>Shillong</li>
+          <li>Shimla</li>
+          <li>Silvassa</li>
+          <li>Solapur</li>
+          <li>Srinagar</li>
+          <li>Surat</li>
+          <li>Thane</li>
+          <li>Thanjavur</li>
+          <li>Thiruvananthapuram</li>
+          <li>Tirupati</li>
+          <li>Udaipur</li>
+          <li>Vadodara</li>
+          <li>Varanasi</li>
+          <li>Vishakapatnam</li>
+          <li>Vasco Da Gama</li>
+          <li>Vellore</li>
+          <li>YamunaNagar</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
-
-
+<div class="gkb-footer-bottom-wrap">
+  <div class="gkb-footer-bottom"> <span> Policies : <a href="http://www.gkboptical.com/gkb-terms-of-use/">Terms of Use</a> - <a href="http://www.gkboptical.com/gkb-privacy-policy/">Privacy Policy</a> <span class="copyright">@ 2011 gkboptical.com</span> </span> </div>
 </div>
-<div class="footer-center fc-cities-wrap clear left">
-<p style="margin:10px;">We deliver to all cities and town across India</p>
-<ul>
-<div class="fc-cities">
-<li>Agartala</li>
-<li>Agra</li>
-<li>Ahmedabad</li>
-<li>Aizawl</li>
-<li>Ajmer</li>
-<li>Allahabad</li>
-<li>Amritsar</li>
-<li>Aurangabad</li>
-<li>Bangalore(Bengaluru)</li>
-<li>Baroda</li>
-<li>Bharatpur</li>
-<li>Bhiwadi</li>
-<li>Bhopal</li>
-<li>Bhubaneswar</li>
-<li>Calicut</li>
-<li>Chandigarh</li>
-</div>
-
-<div class="fc-cities">
-<li>Chennai (Madras)</li>
-<li>Cochin</li>
-<li>Coimbatore</li>
-<li>Coorg</li>
-<li>Cuttack</li>
-<li>Daman</li>
-<li>Dehradun</li>
-<li>Delhi</li>
-<li>Dispur</li>
-<li>Durgapur</li>
-<li>Faridabad</li>
-<li>Gandhinagar</li>
-<li>Gangtok</li>
-<li>Ghaziabad</li>
-<li>Goa</li>
-<li>Greater Noida</li>
-</div>
-
-<div class="fc-cities">
-<li>Guntur</li>
-<li>Gurgaon</li>
-<li>Guwahati</li>
-<li>Haridwar</li>
-<li>Hoshiarpur</li>
-<li>Hyderabad</li>
-<li>Imphal</li>
-<li>Indore</li>
-<li>Itanagar</li>
-<li>Jaipur</li>
-<li>Jalandhar</li>
-<li>Jammu</li>
-<li>Jodhpur</li>
-<li>Kanchipuram</li>
-<li>Kanpur</li>
-<li>Kavaratti</li>
-</div>
-
-<div class="fc-cities">
-<li>Kodiakanal</li>
-<li>Kohima</li>
-<li>Kolhapur</li>
-<li>Kolkata (Calcutta)</li>
-<li>Lucknow</li>
-<li>Ludhiana</li>
-<li>Madurai</li>
-<li>Mangalore</li>
-<li>Meerut</li>
-<li>Mumbai</li>
-<li>Munnar</li>
-<li>Mussoorie</li>
-<li>Mysore</li>
-<li>Nagpur</li>
-<li>Nashik</li>
-<li>Navi Mumbai</li>
-</div>
-
-<div class="fc-cities">
-<li>New Delhi</li>
-<li>Noida</li>
-<li>Ooty</li>
-<li>Panaji</li>
-<li>Patiala</li>
-<li>Patna</li>
-<li>Pondicherry</li>
-<li>Pune</li>
-<li>Puri</li>
-<li>Raipur</li>
-<li>Rajkot</li>
-<li>Ranchi</li>
-<li>Rishikesh</li>
-<li>Satara</li>
-<li>Secunderabad</li>
-<li>Shillong</li>
-</div>
-
-<div class="fc-cities">
-<li>Shimla</li>
-<li>Silvassa</li>
-<li>Solapur</li>
-<li>Srinagar</li>
-<li>Surat</li>
-<li>Thane</li>
-<li>Thanjavur</li>
-<li>Thiruvananthapuram</li>
-<li>Tirupati</li>
-<li>Udaipur</li>
-<li>Vadodara</li>
-<li>Varanasi</li>
-<li>Vishakapatnam</li>
-<li>Vasco Da Gama</li>
-<li>Vellore</li>
-<li>YamunaNagar</li>
-</div>
-</ul>
-</div>
-
-</div>
-
 <script type="text/javascript">
     //<![CDATA[
         var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
     //]]>
-    </script>   
-
-
-    <script type="text/javascript">
+    </script> 
+<script type="text/javascript">
    /* jQuery(window).load(function() {
         jQuery('#slider').nivoSlider({animSpeed:500,pauseTime:5000,directionNav:false});
     }); */
-    </script>      
+    </script> 
 <script type="text/javascript">
 /*
  * Display popup box
@@ -1219,7 +1557,6 @@ function setUrl(url)
   window.location.href =url;
 }
 </script>
-
 <style>
 .login-td{
 background-image:url('http://www.gkboptical.com/skin/frontend/gkb/default/images/cor_leftImg.png');
@@ -1228,177 +1565,133 @@ height:28px;
 width:9px;
 }
 </style>
-
-
 <div id="light" class="white_content" align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="display:inline-block; background-color:transparent; width:760px;">
     <tbody><tr>
       <td class="login-td">&nbsp;&nbsp;</td>
       <td id="topbg" style="height:28px;">&nbsp;</td>
-      <td valign="top" id="siderghtTop" style="height:28px;">
-      <a href="javascript:void(0)" onclick="return closeWindow();"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/closedBttn.png" width="28" height="27" border="0"></a>
-      </td>
+      <td valign="top" id="siderghtTop" style="height:28px;"><a href="javascript:void(0)" onclick="return closeWindow();"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/closedBttn.png" width="28" height="27" border="0"></a></td>
     </tr>
     <tr>
       <td id="leftside" width="9"></td>
-      <td style="background-color:#FFFFFF;"> <div id="modalIframeIdAlt" style="overflow:auto;display:none;">
-   <div id="divLoading" align="center" style="margin-top:100px;width:250PX; height:200px; "> <img id="divLoading" src="http://www.gkboptical.com/skin/frontend/gkb/default/images/loading.gif" alt="" align="center"> <br><br>
-    Loading....... </div>
-
-  </div><div id="modalIframeId" src="" height="auto" width="auto" frameborder="0" style="overflow:auto;display:none;">
-  
-  <div class="login-box">
-    <div>
-    
-     </div> 
-    <div id="errorMessage">
-       
-       </div>
-    
-    
-    <form action="javascript:void(0);" method="post" id="loginform" name="loginform" onsubmit="return validateLogin('http://www.gkboptical.com/customer/account/loginPopup/','loginform')">
-        <div class="left login-gkb">
-            <div class="left login-title">
-            <span class="left" style="padding-left:9px;">
-            <h1>Login&nbsp;&nbsp;</h1>
-            </span><span class="left">
-            <h2>[</h2>
-            </span><span class="left">
-            <p>If you already have an account </p>
-            </span><span class="left">
-            <h2>]</h2>
-            </span> 
+      <td style="background-color:#FFFFFF;"><div id="modalIframeIdAlt" style="overflow:auto;display:none;">
+          <div id="divLoading" align="center" style="margin-top:100px;width:250PX; height:200px; "> <img id="divLoading" src="http://www.gkboptical.com/skin/frontend/gkb/default/images/loading.gif" alt="" align="center"> <br>
+            <br>
+            Loading....... </div>
+        </div>
+        <div id="modalIframeId" src="" height="auto" width="auto" frameborder="0" style="overflow:auto;display:none;">
+          <div class="login-box">
+            <div>
+              
             </div>
-          
-	
-       <div class="clear login-details">
-       
-        <table class="login-details-t" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="35%"> <label class="fontthirteen right">Email Address&nbsp;</label></td>
-                <td width="65%">
-                  <input type="text" name="loginusername" value="" id="email" class="input-text required-entry validate-email login-fields" title="Email Address">
-				 </td>
-              </tr>
-              <tr>
-                <td> <label class="fontthirteen right">Password&nbsp;</label></td>
-                <td>
-                  <input type="password" name="loginpassword" class="input-text required-entry validate-password login-fields" id="pass" title="Password">
-               </td>
-              </tr>
-           
-           
-              <tr>
-                <td>&nbsp;</td>
-                <td>
-				
-                
-								
-				<button class="login-butt" title="login" type="submit" id="send2">
-				<span>Login</span>
-				</button>
-				</td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td><span class="fonteleven">Forgot your password? <a href="http://www.gkboptical.com/customer/account/forgotpassword/">Click here</a></span></td>
-              </tr>
-            </tbody></table>
-       </div>
-       
-       <h1 align="center">OR</h1>
-       
-       
-    <a href="#" rel="facebook-connect"><div class="clear left login-fb" style="float:left; width:323px; margin:15px 0 0 34px;"><center><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/fb-login.gif" width="151" height="53" alt=""></center>
-</div></a>
-	   </div>
-     </form>
-
-      
-   
-    <form action="http://www.gkboptical.com/customer/account/createpost/" method="post" name="signupform" id="signupform">
-    <div class="left login-gkb">
-    <div class="left login-title">
-    <span class="left" style="padding-left:9px;">
-    <h1>Sign Up&nbsp;&nbsp;</h1>
-    </span><span class="left">
-    <h2>[</h2>
-    </span><span class="left">
-    <p>To create a new account</p>
-    </span><span class="left"></span><span class="left">
-    <h2>]</h2>
-    </span> </div>
-	
-	<div class="clear login-details">
-        <table class="login-details-t" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="36%"><label class="fontthirteen right">First Name&nbsp;</label></td>
-                <td width="64%">
-                <input id="firstname" name="firstname" value="" title="First Name" class="input-text required-entry login-fields">
-				</td>
-              </tr>
-              <tr>
-                <td><label class="fontthirteen right">Last Name&nbsp;</label></td>
-                <td>
-                <input id="lastname" name="lastname" value="" title="Last Name" class="input-text required-entry login-fields">
-				</td>
-              </tr>
-              <tr>
-                <td> <label class="fontthirteen right">Email Address&nbsp;</label></td>
-                <td>
-                   <input type="text" name="email" id="email_address" value="" title="Email Address" class="input-text validate-email required-entry login-fields">
-                </td>
-              </tr>
-              <tr>
-                <td><label class="fontthirteen right">Password&nbsp;</label></td>
-                <td><input type="password" name="password" id="password" title="Password" class="input-text required-entry validate-password login-fields"></td>
-              </tr>
-              <tr>
-                <td><label class="fontthirteen right">Confirm Password</label></td>
-                <td><input type="password" name="confirmation" title="Confirm Password" id="confirmation" class="input-text required-entry validate-cpassword login-fields"></td>
-              </tr>
-			  <tr>
-                <td>&nbsp;</td>
-                <td><input name="term" id="term" type="checkbox" value="1" class="checkbox required-entry">&nbsp;<span class="fonteleven">I accept Terms of use and private policy</span></td>
-              </tr>
-			  <tr>
-                <td>&nbsp;</td>
-                <td>
-				<!--<input name="form-validate" type="submit" value="Sign Up" class="login-butt" id="form-validate" />-->
-				
-				<button class="login-butt" title="sign-up" type="submit" id="form-validate" name="form-validate">
-				<span>Sign Up</span>
-				</button>
-				
-				</td>
-              </tr>
-
-            </tbody></table>
-       </div>
-	</div>
-   
-    </form>
-    
-    
-<!-- <a href="#"><div class="clear left login-fb"><center><img src="" width="151" height="53" alt="" /></center>
+            <div id="errorMessage"> </div>
+                        <form action="javascript:void(0);" method="post" id="loginform" name="loginform" onsubmit="return validateLogin('http://www.gkboptical.com/customer/account/loginPopup/','loginform')">
+              <div class="left login-gkb">
+                <div class="left login-title"> <span class="left" style="padding-left:9px;">
+                  <h1>Login&nbsp;&nbsp;</h1>
+                  </span><span class="left">
+                  <h2>[</h2>
+                  </span><span class="left">
+                  <p>If you already have an account </p>
+                  </span><span class="left">
+                  <h2>]</h2>
+                  </span> </div>
+                <div class="clear login-details">
+                  <table class="login-details-t" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="35%"><label class="fontthirteen right">Email Address&nbsp;</label>
+                        </td>
+                      <td width="65%"><input type="text" name="loginusername" value="" id="email" class="input-text required-entry validate-email login-fields" title="Email Address"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="fontthirteen right">Password&nbsp;</label></td>
+                      <td><input type="password" name="loginpassword" class="input-text required-entry validate-password login-fields" id="pass" title="Password"></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td><button class="login-butt" title="login" type="submit" id="send2"> <span>Login</span> </button></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td><span class="fonteleven">Forgot your password? <a href="http://www.gkboptical.com/customer/account/forgotpassword/">Click here</a></span></td>
+                    </tr>
+                  </tbody></table>
+                </div>
+                <h1 align="center">OR</h1>
+                <a href="#" rel="facebook-connect">
+                <div class="clear left login-fb" style="float:left; width:323px; margin:15px 0 0 34px;">
+                  <center>
+                    <img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/fb-login.gif" width="151" height="53" alt="">
+                  </center>
+                </div>
+                </a> </div>
+            </form>
+                        <form action="http://www.gkboptical.com/customer/account/createpost/" method="post" name="signupform" id="signupform">
+              <div class="left login-gkb">
+                <div class="left login-title"> <span class="left" style="padding-left:9px;">
+                  <h1>Sign Up&nbsp;&nbsp;</h1>
+                  </span><span class="left">
+                  <h2>[</h2>
+                  </span><span class="left">
+                  <p>To create a new account</p>
+                  </span><span class="left"></span><span class="left">
+                  <h2>]</h2>
+                  </span> </div>
+                <div class="clear login-details">
+                  <table class="login-details-t" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="36%"><label class="fontthirteen right">First Name&nbsp;</label></td>
+                      <td width="64%"><input id="firstname" name="firstname" value="" title="First Name" class="input-text required-entry login-fields"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="fontthirteen right">Last Name&nbsp;</label></td>
+                      <td><input id="lastname" name="lastname" value="" title="Last Name" class="input-text required-entry login-fields"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="fontthirteen right">Email Address&nbsp;</label></td>
+                      <td><input type="text" name="email" id="email_address" value="" title="Email Address" class="input-text validate-email required-entry login-fields"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="fontthirteen right">Password&nbsp;</label></td>
+                      <td><input type="password" name="password" id="password" title="Password" class="input-text required-entry validate-password login-fields"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="fontthirteen right">Confirm Password</label></td>
+                      <td><input type="password" name="confirmation" title="Confirm Password" id="confirmation" class="input-text required-entry validate-cpassword login-fields"></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td><input name="term" id="term" type="checkbox" value="1" class="checkbox required-entry">
+                        &nbsp;<span class="fonteleven">I accept Terms of use and private policy</span></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td><!--<input name="form-validate" type="submit" value="Sign Up" class="login-butt" id="form-validate" />-->
+                        
+                        <button class="login-butt" title="sign-up" type="submit" id="form-validate" name="form-validate"> <span>Sign Up</span> </button></td>
+                    </tr>
+                  </tbody></table>
+                </div>
+              </div>
+            </form>
+                        
+            <!-- <a href="#"><div class="clear left login-fb"><center><img src="" width="151" height="53" alt="" /></center>
 </div></a>-->
-
-
-<div class="left login-add">
-<div class="login-add-details left"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/add-flat-discount.gif" width="162" height="27" alt=""> <span>Shop and earn points, and get flat discounts, on your purchases.</span></div>
-<div class="login-add-details left"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/add-special-offer.gif" width="162" height="27" alt=""><span>Know about the latest products &amp; get special offers from <a href="#">gkboptical.com</a></span></div>
-<div class="login-add-details left"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/add-members-benifit.gif" width="162" height="27" alt=""><span>Account Members are also eligible to receive special offers, promotions &amp; more�</span></div>
-<div class="login-add-details left login-add-border">Are you a GKB Opticals customer already? <a href="#">Login/Signup</a> to redeem your reward points</div>
-</div>
-</div>
-
-<script type="text/javascript">
+            
+            <div class="left login-add">
+              <div class="login-add-details left"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/add-flat-discount.gif" width="162" height="27" alt=""> <span>Shop and earn points, and get flat discounts, on your purchases.</span></div>
+              <div class="login-add-details left"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/add-special-offer.gif" width="162" height="27" alt=""><span>Know about the latest products &amp; get special offers from <a href="#">gkboptical.com</a></span></div>
+              <div class="login-add-details left"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/add-members-benifit.gif" width="162" height="27" alt=""><span>Account Members are also eligible to receive special offers, promotions &amp; more…</span></div>
+              <div class="login-add-details left login-add-border">Are you a GKB Opticals customer already? <a href="#">Login/Signup</a> to redeem your reward points</div>
+            </div>
+          </div>
+          <script type="text/javascript">
 //<![CDATA[
 var dataForm = new VarienForm('loginform', true);
 var dataForm = new VarienForm('signupform', false);
 //]]>
-</script>
-  </div></td>
+</script> 
+        </div></td>
       <td id="siderght"></td>
     </tr>
     <tr>
@@ -1406,16 +1699,14 @@ var dataForm = new VarienForm('signupform', false);
       <td id="sidebottom"></td>
       <td id="sidebottomright"></td>
     </tr>
-
   </tbody></table>
- 
 </div>
 <script type="text/javascript">
 document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?2z13c1LnYZGlHwQcXgN7MFLdVQKExfEp' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://zopim.com/?2z13c1LnYZGlHwQcXgN7MFLdVQKExfEp" charset="utf-8" type="text/javascript"></script>
+</script><script src="https://zopim.com/?2z13c1LnYZGlHwQcXgN7MFLdVQKExfEp" charset="utf-8" type="text/javascript"></script> 
 
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
-    <script type="text/javascript">
+<!-- BEGIN GOOGLE ANALYTICS CODE --> 
+<script type="text/javascript">
 
       var _gaq = _gaq || [];
 
@@ -1436,10 +1727,12 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopi
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 
       })();
+	  
+	  
 
-    </script>
+    </script> 
 
-<!-- END GOOGLE ANALYTICS CODE -->
+<!-- END GOOGLE ANALYTICS CODE --> 
 
 <script type="text/javascript">
 /*
@@ -1514,97 +1807,63 @@ function closeWindow2(){
 </script>
 <div id="lightbox-2" class="white_content" align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="display:inline-block; background-color:transparent; width:380px;">
- 
-    
- <tbody><tr>
+    <tbody><tr>
       <td class="login-td">&nbsp;&nbsp;</td>
       <td id="topbg" style="height:28px;">&nbsp;</td>
-      <td valign="top" id="siderghtTop" style="height:28px;">
-      <a href="javascript:void(0)" onclick="return closeWindow2();"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/closedBttn.png" width="28" height="27" border="0"></a>
-      </td>
-    </tr>    
-    
-       
-    
-    
+      <td valign="top" id="siderghtTop" style="height:28px;"><a href="javascript:void(0)" onclick="return closeWindow2();"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/closedBttn.png" width="28" height="27" border="0"></a></td>
+    </tr>
     <tr>
       <td id="leftside" width="9"></td>
-      <td style="background-color:#FFFFFF;"> <div id="modalIframeIdAlt-2" style="overflow:auto;display:none;">
-   <div id="divLoading" align="center" style="margin-top:100px;width:300px; height:200px; "> <img id="divLoading" src="http://www.gkboptical.com/skin/frontend/gkb/default/images/loading.gif" alt="" align="center"> <br><br>
-    Loading....... </div>
-
-  </div>
-  <div id="modalIframeId-2" src="" height="auto" width="auto" frameborder="0" style="overflow:auto;display:none;">
-  <form onsubmit="" name="callbackform" id="callbackform" method="post" action="http://www.gkboptical.com/storelocator/callback/">
-        <div class="login-gkb">
-            <div class="left login-title">
-            <span style="padding-left: 9px;" class="left">
-            <h1>Request Call-Back Form </h1>
-            </span>
+      <td style="background-color:#FFFFFF;"><div id="modalIframeIdAlt-2" style="overflow:auto;display:none;">
+          <div id="divLoading" align="center" style="margin-top:100px;width:300px; height:200px; "> <img id="divLoading" src="http://www.gkboptical.com/skin/frontend/gkb/default/images/loading.gif" alt="" align="center"> <br>
+            <br>
+            Loading....... </div>
+        </div>
+        <div id="modalIframeId-2" src="" height="auto" width="auto" frameborder="0" style="overflow:auto;display:none;">
+          <form onsubmit="" name="callbackform" id="callbackform" method="post" action="http://www.gkboptical.com/callback/index/savecallback/">
+            <div class="login-gkb">
+              <div class="left login-title"> <span style="padding-left: 9px;" class="left">
+                <h1>Request Call-Back Form </h1>
+                </span> </div>
+              <div class="clear login-details">
+                <table cellspacing="0" cellpadding="0" border="0" class="login-details-t">
+                  <tbody>
+                    <tr>
+                      <td width="35%"><label class="fontthirteen right">Email Address&nbsp;</label></td>
+                      <td width="65%"><input type="text" title="Email Address" class="input-text required-entry validate-email login-fields" id="email" value="" name="email">
+                        <input name="page" type="hidden" value="http://www.gkboptical.com/eyeframes/?gender=male-unisex&amp;gclid=CNb-t-alw7ACFUcb6wodHk6jkg"></td>
+                    </tr>
+                    <tr>
+                      <td><label class="fontthirteen right">Phone/Mobile No .</label></td>
+                      <td><input type="text" title="Phone" id="phone" class="input-text required-entry validate-digits login-fields" name="phone"></td>
+                    </tr><tr>
+                      <td valign="top"><label class="fontthirteen right">Your Message.</label></td>
+                      <td><textarea title="message" id="message" class="input-text" style="width:175px;" name="message"></textarea></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td><button id="send2" type="submit" title="login" class="login-butt"> <span>Submit Request</span> </button></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
             </div>
-          
-	
-       <div class="clear login-details">
-       
-        <table cellspacing="0" cellpadding="0" border="0" class="login-details-t">
-              <tbody><tr>
-                <td width="35%"> <label class="fontthirteen right">Email Address&nbsp;</label></td>
-                <td width="65%">
-                  <input type="text" title="Email Address" class="input-text required-entry validate-email login-fields" id="email" value="" name="email">
-                  <input name="current_url" type="hidden" value="http://www.gkboptical.com/enable-cookies">
-				 </td>
-              </tr>
-              <tr>
-                <td> <label class="fontthirteen right">Phone/Mobile No .</label></td>
-                <td>
-                  <input type="text" title="Password" id="pass" class="input-text required-entry validate-digits login-fields" name="phone">
-               </td>
-        
-            </tr><tr>
-                <td valign="top"> <label class="fontthirteen right">Your Message.</label></td>
-                <td>
-                  <textarea title="message" id="message" class="input-text" style="width:175px;" name="message"></textarea>
-
-
-               </td>
-              </tr>
-               
-               <tr>
-                <td></td>
-                <td>
-                
-               </td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td>
-				
-                
-								
-				<button id="send2" type="submit" title="login" class="login-butt">
-				<span>Submit Request</span>
-				</button>
-				</td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td></td>
-              </tr>
-            </tbody></table>
-       </div>
-       
-   
-	   </div>
-     </form>
-  
-
-<script type="text/javascript">
+          </form>
+          <script type="text/javascript">
 //<![CDATA[
 var dataForm = new VarienForm('callbackform', true);
 
 //]]>
-</script>
-  </div></td>
+</script> 
+        </div></td>
       <td id="siderght"></td>
     </tr>
     <tr>
@@ -1612,56 +1871,261 @@ var dataForm = new VarienForm('callbackform', true);
       <td id="sidebottom"></td>
       <td id="sidebottomright"></td>
     </tr>
-
   </tbody></table>
- 
 </div>
 <div id="fade" class="black_overlay"></div>
-<script type="text/javascript" src="http://www.gkboptical.com/js/widgets.js"></script>
-
-
-<!-- BEGIN Inchoo Facebook Connect -->
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script type="text/javascript">
-//<![CDATA[
-window.fbAsyncInit = function() {
-	FB.init({
-		appId  : "7654c9f40ffb842c469d2068b1b4f6cd",
-		status : true, // check login status
-		cookie : true, // enable cookies to allow the server to access the session
-		xfbml  : true,  // parse XFBML
-		channelUrl : 'http://www.gkboptical.com/facebook/channel/index/locale/en_US/'  // custom channel
-	});
-	Event.fire(window, "facebook:fbAsyncInit");
-};
-
-(function() {
-	var e = document.createElement('script');
-	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-	e.async = true;
-	document.getElementById('fb-root').appendChild(e);
-}());
-
-document.observe('click', function(e){
-	var target = e.findElement('a[rel^=facebook-connect]') || e.findElement('button[rel^=facebook-connect]');
-	if (target && target.readAttribute('rel')=='facebook-connect') {
-		e.stop();
-		try{
-			FB.login(function(response){
-				if(response.status=='connected') setLocation('http://www.gkboptical.com/facebook/customer_account/connect/');
-			}, {perms:"email"});
-		}catch(error){}
-	}
-});
-//]]>
-</script>
-<!-- END Inchoo Facebook Connect -->
+<script type="text/javascript" src="http://www.gkboptical.com/js/widgets.js"></script> 
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script>
+jQuery(document).ready(function(){
+	jQuery.ajax({
+		type: "POST",
+		url: "http://www.gkboptical.com/ajax/index/",
+		data: '',
+		beforeSend: function(){  },
+		complete: function(){ },
+		success: function(response){
+		jQuery("#locate").before(response);
+	}
+	});
+	jQuery.ajax({
+		type: "POST",
+		url: "http://www.gkboptical.com/ajax/index/recentview/",
+		data: '',
+		beforeSend: function(){  },
+		complete: function(){ },
+		success: function(response){
+		jQuery("#recview").replaceWith(response);
+	}
+	});
+	jQuery.ajax({
+		type: "POST",
+		url: "http://www.gkboptical.com/ajax/index/countertime/",
+		data: '',
+		beforeSend: function(){},
+		complete: function(){ },
+		success: function(response){
+			jQuery('.header').after(response);
+			jQuery('.daily-deal-wrap').show();
+		}
+	});
+});
+
+</script> 
+<script src="http://www.gkboptical.com/js/dialog_jquery.js" type="text/javascript" charset="utf-8"></script> 
+<script type="text/javascript" charset="utf-8">
+jQuery.noConflict();
+jQuery(document).ready(function(){
+if(!getCookie('sinuppopup')){
+ if(!getCookie('opensignuppopup')){
+  jQuery( "#dialog" ).dialog({
+   autoOpen: false,
+   minWidth: 750,
+   modal: true
+  });
+  jQuery("#tnc_link_top").click(function(event){
+   event.preventDefault();
+   jQuery("#dialog" ).dialog("open");
+  });
+  jQuery('#tnc_link_top').click();
+  setCookie("opensignuppopup",'opensignuppopup',3);
+ }
+}
+});
+
+function setCookie(c_name,value,exdays)
+{
+ var exdate=new Date();
+ exdate.setDate(exdate.getDate() + exdays);
+ var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+ document.cookie=c_name + "=" + c_value;
+}
+function getCookie(c_name)
+{
+ var i,x,y,ARRcookies=document.cookie.split(";");
+ for (i=0;i<ARRcookies.length;i++)
+ {
+   x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+   y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+   x=x.replace(/^\s+|\s+$/g,"");
+   if (x==c_name)
+  {
+  return unescape(y);
+  }
+   }
+}
+if(location.search.substring(1)=='subscribe=1'){
+  setCookie("sinuppopup","sinuppopup",300);
+ }
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.gkboptical.com/skin/frontend/gkb/default/css/signup.css" media="all"><link rel="stylesheet" type="text/css" href="http://www.gkboptical.com/skin/frontend/gkb/default/css/dialog_jquery.css" media="all"><div style="display:none"><a id="tnc_link_top" href="/polsterwelt/">abc</a></div>
+<div class="login-popup" id="dialog">
+  <h1>Welcome to the India's Largest Eyewear Online Store</h1>
+  <div class="login-wrapper">
+    <div class="login-first">
+      <div class="login-common-title">
+        <h1>Get Voucher &amp; Newsletter by email</h1>
+        <p>Stay updated on latest offers, collections</p>
+      </div>
+      <form action="http://www.gkboptical.com/ajax/index/newsletter/" method="post" name="newslettersignup" id="newslettersignup">
+        <div class="login-first-details"> 
+          <!--<div class="login-credentials">
+                <label>First Name <em>*</em></label>
+                 <input id="firstname" name="firstname" value="" title="First Name" class="input-text required-entry login-fields"  />
+              </div>
+              <div class="login-credentials">
+                <label>Last Name <em>*</em></label>
+                <input id="lastname" name="lastname" value="" title="Last Name" class="input-text required-entry login-fields"  />
+              </div>-->
+          <div class="login-credentials">
+            <label>Email Address <em>*</em></label>
+            <input type="text" name="email" id="newslettersignupemail" value="" title="Email Address" class="input-text validate-email required-entry login-fields">
+          </div>
+          <!--<div class="login-credentials">
+                <label>Password <em>*</em></label>
+                <input type="password" name="password" id="password" title="Password" class="input-text required-entry validate-password login-fields" />
+              </div>-->
+          <input type="button" value="Sign Up" class="login-submit" id="form-validate" name="form-validate">
+          <!--<div class="login-first-declare"><input name="term" id="term" type="checkbox"  value="1" class="checkbox required-entry inputcheckbox" checked="checked" />&nbsp;I accept <a href="http://www.gkboptical.com/gkb-terms-of-use/">Terms of Use</a> and <a href="http://www.gkboptical.com/gkb-privacy-policy/">Privacy Policy</a></div>--> 
+        </div>
+      </form>
+    </div>
+    <div class="login-offer-tc" style="color:#F00" id="error">
+          </div>
+    <div class="login-offer-tc">This Rs. 200 Voucher is valid on the complete range of <a href="http://www.gkboptical.com/sunglasses/" target="_self">Sunglasses</a> and <a href="http://www.gkboptical.com/eyeframes/" target="_self">Eyeglasses</a>.
+      <p style="margin-top:45px;color:#666;">Voucher valid on minimum purchase of Rs. 850</p>
+    </div>
+  </div>
+  <div class="login-wrapper-or">
+    <div class="or-seperator"> OR </div>
+  </div>
+  <div class="login-wrapper">
+    <div class="login-first">
+      <div class="login-common-title">
+        <h1>Login with Facebook</h1>
+      </div>
+      <div class="login-first-details">
+        <div class="login-first-fb"><a href="#" rel="facebook-connect"><img src="http://www.gkboptical.com/skin/frontend/gkb/default/images/facebook-login.png" width="283" height="45" alt=""> </a> </div>
+      </div>
+    </div>
+    <div class="login-first"> <a href="#" rel="facebook-connect">
+      <div class="login-discounted">
+        <h1>Sign up <br>
+          and get <br>
+          Rs.200 OFF</h1>
+        <p>on Sunglasses &amp; <br>
+          Eyeglasses</p>
+      </div>
+      </a> </div>
+  </div>
+  <!--<script type="text/javascript">
+  //<![CDATA[
+  var dataForm = new VarienForm('newslettersignup', false);
+  //]]>
+  </script>--> 
+</div>
+<script>
+    jQuery.noConflict();
+ jQuery(document).ready(function(){
+  jQuery('.login-submit').click(function(){
+   var email=jQuery('#newslettersignupemail').val();
+   if(email!=''){
+    jQuery.ajax({
+     type: "POST",
+     url: "http://www.gkboptical.com/ajax/index/newsletter/",
+     data: 'email='+email,
+     beforeSend: function(){  },
+     complete: function(){ },
+     success: function(response){
+      if(response=='success'){
+       setCookie("sinuppopup","sinuppopup",300);
+       location.reload();
+      }else{
+       jQuery('#error').html('There was a problem with the subscription' + response);
+      }
+    }
+    });
+   }else{
+    jQuery('#newslettersignupemail').addClass('validation-failed');
+   }
+  });
+ });
+ 
+  if(getCookie('sinuppopup') || getCookie('opensignuppopup')){
+   jQuery( "#dialog" ).hide();
+  }
+///////////////////////////////	
+   (function(jQuery) { 
+
+jQuery.fn.saveClicks = function() {
+	var ipa= '59.161.181.80';
+   	var sitewidth = 960;
+	var res=screen.width+'x'+screen.height;
+	var minlimit = ((screen.width-sitewidth)/2)-10;
+	var maxlimit = minlimit+sitewidth;
+	jQuery(this).bind('mousedown.clickmap', function(evt) { 
+		 if(evt.pageX>=minlimit && evt.pageX<=maxlimit)
+		{  
+			jQuery.post('http://www.gkboptical.com/clickmap/index/', 
+			{  
+				x:evt.pageX-minlimit,
+				y:evt.pageY,  
+				title:escape(document.location.pathname),
+				filename:ipa,
+				resolution:res
+			}); 
+		}
+    }); 
+}; 
+ 
+jQuery.fn.stopSaveClicks = function() { 
+     jQuery(this).unbind('mousedown.clickmap'); 
+}; 
+
+
+
+function loadDate()
+{
+jQuery.ajax({
+	type: "GET",
+	url: "http://www.gkboptical.com/clickmap/index/getRequestFooter/",
+	data: '',
+	beforeSend: function(){  },
+	complete: function(){ },
+	success: function(response){
+		alert(response);
+	}
+	});
+}
+
+jQuery.removeClicks = function() { 
+   jQuery('#clickmap-overlay').remove(); 
+    jQuery('#clickmap-container').remove(); 
+}; 
+         
+})(jQuery); 
+</script> 
+<script type="text/javascript">
+jQuery(function() {
+var jmpressOpts = {
+animation : { transitionDuration : '0.5s' }
+};
+jQuery( '#jms-slideshow' ).jmslideshow( jQuery.extend( true, { jmpressOpts : jmpressOpts }, {
+autoplay : true,
+bgColorSpeed: '1s',
+arrows : false
+}));
+});
+</script> 
+<script type="text/javascript">
+			$(window).load(function(){
+				$('#cr-container').crotator();
+			});
+</script>
   </div>
   <div class="copyright clear">
     <div class="c-text"> Policies : <a href="http://www.gkboptical.com/gkb-terms-of-use/" style="color:#fff; text-decoration:underline;">Terms of Use</a> - <a href="http://www.gkboptical.com/gkb-privacy-policy/" style="color:#fff;text-decoration:underline;">Privacy Policy</a>  <span class="right">@ 2011 gkboptical.com</span> </div>
   </div>
-
-
+</div>
 
 </body></html>
