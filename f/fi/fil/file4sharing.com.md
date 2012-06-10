@@ -1,100 +1,56 @@
-> *The following text is extracted and transformed from the file4sharing.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file4sharing.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610054854id_/http%3A//file4sharing.com/policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# File sharing website; easy file storage and sharing tool for sharing files online
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+At File4Sharing.com we know your number one concern is privacy. Therefore, we believe that we maintain the security and privacy standards you expect. This policy covers every single Services coming from the File4Sharing as specified by the Terms. Lastly, where more detailed facts that had the need to further explain our privacy policies, we ask that you of course tend not to hesitate to contact us.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Information Collected**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+All of the information obtained by File4Sharing.com for the purposes of file sharing is kept strictly confidential. We will never sell, rent or lease any of the personal information obtained through this website for any reason. File4Sharing.com will take every precaution to make sure that all the personal information that we receive is maintained and/or disposed of when necessary in a safe and secure manner.
 
-**Information Collection and Use**
+In order to attempt to obtain access to the Services and/or become a Member, end-users may be required to provide personally identifiable information ("PII") on the applicable registration form that may include, but not be limited to, all or some of the following: (a) your e-mail address; (b) your Facebook® account ID; (c) your credit card information or PayPal® information (depending on your preferred means of payment); and/or (d) any other information requested on the applicable registration form. For purposes of this Privacy Policy, items (b) and (c) in the preceding sentence shall be referred to as "Sensitive Information."
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+To the extent that File4Sharing gathers your specific credit card information, if ever, we will use the information to process and complete any transaction that you request. Through submitting your credit card information with us, you authorize File4sharing to occasionally check that your credit card account is still valid and active one by charging, after that immediately crediting, a small sum to the card. This verification can be done through a third party and, if so, File4sharing will share your information specific credit card information with the third party for verification purposes. Apart from those uses, we will not share your credit card information with third parties without your prior consent. In spite of the foregoing, File4sharing reserves the right to share with third-parties the fact that we have the credit card information on file for specific users, but we will not share your credit card information with third parties without your specific consent.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+For purposes of this Privacy Policy, "Facebook" shall mean Facebook Inc. Please be advised that File4sharing is not in any way affiliated with Facebook, and the Website and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+For purposes of Privacy Policy, "PayPal" shall mean PayPal, Inc. Please be advised that File4sharing is not in any way affiliated with PayPal, and the Website and Services are neither endorsed, nor sponsored, by PayPal. PayPal ® is a registered trademark of PayPal, Inc.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Use of PII (Personally Identifiable Information)**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The PII that you submit via the Website remains your property, but by submitting such information to us you grant us the right, subject to applicable state and federal law, to use the PII (other than Sensitive Information) for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all PII (other than Sensitive Information), on an aggregate and non-aggregate basis, with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law. These third parties may include, but shall not be limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where and to the extent permitted by applicable law); (d) SMS text-based marketers (where and to the extent permitted by applicable law); and (e) direct marketers.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may also use your PII for any Services-related purpose, and/or marketing and survey purpose, on our own behalf and on behalf of our affiliates and subsidiaries. We may disclose PII to third-party agents and independent contractors that help us create and/or operate promotions and surveys. You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website. We also use contact information from your PII to send you information about the Services, our other offerings and to keep you informed of our other products and services that may be of interest to you and to contact you about your billing account status. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers. If you wish to stop receiving future communications from us and/or third party advertisers, or if you wish to prevent the transfer and/or sale of your PII to third parties (subject to restrictions contained in applicable state and federal law), please see the Removal of Your Information/Opting Out section below.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+By submitting your Facebook® account ID at the Website, you agree to grant us access to your Facebook® profile for the sole and exclusive purpose of delivering Member Content URLs (as defined in the Terms and Conditions) to your Facebook® profile. By submitting your PII at the Website, you agree to receive e-mail marketing from us and our third-party advertisers. In addition, where you submit a telephone number at the Website, if ever, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission´s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the terms of the ATSR.
+
+In addition, where you present a cell phone number on the website, if ever, you agree to receive mobile marketing, including but not limited to SMS text-message based marketing from us and our third-party advertisers and sellers (where and to the extent that, such marketing is permitted by law). As such, despite your mobile phone number can be included in Do-Not-Call state and / or federal records, we reserve the right to contact you via SMS text message based marketing in accordance with applicable state and federal regulations. Further, you acknowledge that we reserve the right to share, sell, rent and lease and / or else distribute your mobile number and other mobile data with / to any third party, for every non-marketing uses permitted by this Policy Privacy and applicable law. 
+
+Despite the foregoing, File4sharing reserves the right to release current or past personal information: (i) if we believe that the website and / or services is / are or has / have been used in violation of the Terms and Conditions or to commit unlawful acts, (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, a notice will be provided by e-mail, and the opportunity to challenge the subpoena, prior to disclosure of any personal information under a subpoena, or (iii) if File4sharing is sold, merged or acquired, provided, however, that if File4sharing is involved in a merger, acquisition or sale of all or part of its assets, you are notified by email and / or notice on the Website of any change of ownership or use of your Personally Identifiable Information and options you may have regarding your PII.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We take appropriate security measures to shield against unauthorized usage of or unauthorized alteration, disclosure or destruction of data. This would include internal reviews of our data collection, storage and processing practices and security measures, plus physical security measures to defend against unauthorized entry to systems where we store personal data. We restrict usage of personal information to File4Sharing employees, contractors and agents who need to be aware that information as a way to operate, develop or improve our services. These individuals are bound by confidentiality obligations and might be going to take discipline, including termination and criminal prosecution, in case they fail to meet these obligations.
 
-**Updating Your Information**
+**Third Party Websites**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+This website may enclose links to third party websites owned and / or managed. File4Sharing is not liable for the privacy practices or content of such websites. In some cases, you may be required to purchase through one of these third party websites. In these cases, you may be asked to provide certain information such as credit card number to register or complete a transaction on this website. These third party websites have privacy practices and data collection and File4Sharing has no responsibility in connection therewith.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Minors**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+No information should be presented to, submitted or posted on the website by visitors under eighteen (18) years of age. Persons under eighteen (18) years of age cannot access the Website and does not intentionally collect PII from such individuals. We encourage the parents and guardians to spend time guarding their children to monitor the interactive activities of their children.
 
-      iii.      You may call us at: (480) 505-8800
+**Cookies**
 
-       iv.      You may fax us at: (480) 505-8844
+As soon as you visit File4Sharing, we might at any point send one of these cookies ­ small text file placed on computers by a website ­ on your computer that uniquely identifies your browser. We use cookies to create buzz around the complete quality of our service by storing user preferences and tracking user trends, similar to how people search. We might locate a cookie within your browser in the event if you visit an online site and consider or click on an advert backed by File4Sharing´s advertising services.
 
-**Sending Emails**
+**Changes to this Privacy Policy**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Please note that Privacy Policy may differ from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent; therefore we expect most such changes shall be minor. Regardless, we can post any Privacy Policy changes in this particular page and, if the changes are significant, now we will get a more prominent notice (including, for certain services, email notification of Privacy Policy changes). If you have all other questions or concerns regarding all kinds with this privacy policy, please do not hesitate for to email us using this website.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+[Contact Us](https://web.archive.org/web/20120610054854id_/http%3A//file4sharing.com/contact.html)
 
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+© 2012 ,File4Sharing-File sharing tool and file storage solutions, All Rights Reserved.   
+Developed by [webofsolutions](mailto:webofsolution@gmail.com)
