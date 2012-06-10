@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gungamezone.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228070554id_/http%3A//www.gungamezone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gungamezone.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611015808id_/http%3A//www.gungamezone.com/privacy) for the most accurate reproduction.*
 
-# 
+# GunGameZone.com Privacy Policy
 
 **Privacy Policy**
 
@@ -10,7 +10,7 @@ We know that privacy of your personal information is important. Therefore, we en
 
 **Personal Information Collected on this Website**
 
-No personally-identifiable information is collected on this website automatically, from consumers that browse the website for information or use the opt-out service. The only personally-identifiable information collected on this website is gathered on our “contact us” pages, where you can provide your name, email address and other types of personal information. We collect this information solely to respond to the comments that you send to us via that contact form.
+No personally-identifiable information is collected on this website automatically, from consumers that browse the website for information or use the opt-out service. The only personally-identifiable information collected on this website is gathered on our “ contact us” pages, where you can provide your name, email address and other types of personal information. We collect this information solely to respond to the comments that you send to us via that contact form.
 
 **Anonymous Information Collected on this Website**
 
@@ -28,7 +28,7 @@ We might use third party advertisements on http://www.gungamezone.com/ to suppor
 
 **DoubleClick DART Cookies**
 
-We may also use DART cookies for ad serving. The DoubleClick DART cookie is used by Google in the ads served on our website. When you visit our website and either view or click an ad, a cookie may be dropped on your browser. The data gathered from these cookies will be used to help better serve and manage ads on our website and across the web. Use of the DART cookie enables Google and its partners to serve ads to you on your visit of our or other pages on the Internet. You may opt out of the use of the DART cookie by visiting the advertising opt out page <http://www.google.com/privacy/ads/>.
+We may also use DART cookies for ad serving. The DoubleClick DART cookie is used by Google in the ads served on our website. When you visit our website and either view or click an ad, a cookie may be dropped on your browser. The data gathered from these cookies will be used to help better serve and manage ads on our website and across the web. Use of the DART cookie enables Google and its partners to serve ads to you on your visit of our or other pages on the Internet. You may opt out of the use of the DART cookie by visiting the advertising opt out page <http://www.google.com/policies/privacy/ads/>.
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in your other programs. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -50,7 +50,7 @@ As our services evolve this Privacy Policy may be revised to reflect those chang
 
 **Disclaimer**
 
-This website is presented for the purpose of disseminating information only. This website does not guarantee the accuracy, reliability, currency, completeness of any material contained on the site, including all personal information uploaded to the site by its users. Furthermore, this internet site will not be accountable for any legal liability that may arise from any material contained on this website or on any linked site. This website is not a substitute for independent professional advice and users should obtain any appropriate professional advice relevant to their particular circumstances. The material on this website may include the views or recommendations of third parties, which do not necessarily reflect the views of this website, or indicate its commitment to a particular course of action. If you believe that the content on this website infringes another’s copyright, contact us via our contact-us form (Link to: your contact page).
+This website is presented for the purpose of disseminating information only. This website does not guarantee the accuracy, reliability, currency, completeness of any material contained on the site, including all personal information uploaded to the site by its users. Furthermore, this internet site will not be accountable for any legal liability that may arise from any material contained on this website or on any linked site. This website is not a substitute for independent professional advice and users should obtain any appropriate professional advice relevant to their particular circumstances. The material on this website may include the views or recommendations of third parties, which do not necessarily reflect the views of this website, or indicate its commitment to a particular course of action. If you believe that the content on this website infringes another’ s copyright, contact us via our contact-us form (Link to: your contact page).
 
 **Contact us**
 
