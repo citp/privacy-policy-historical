@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the envylabs.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101200152id_/http%3A//envylabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envylabs.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611010240id_/http%3A//envylabs.com/privacy) for the most accurate reproduction.*
 
 # « Envy Labs
 
