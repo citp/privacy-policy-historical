@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed2go.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213065047id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed2go.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611000306id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Cengage Learning - Privacy Statement
 
@@ -88,7 +88,7 @@ or email us at: [corporatecommunications@cengage.com](mailto:corporatecommunicat
 
 ####  Privacy and Security Policy Regarding Social Security Numbers and Other Sensitive Personal information
 
-Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business. Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following: 
+Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business. Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
 
   * Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage's established privacy and security policy.
   * Cengage will only disclose Social Security numbers and other sensitive personal information (i) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (ii) as required or permitted by law.
