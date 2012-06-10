@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eveonline.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229091953id_/http%3A//www.eveonline.com/pnp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveonline.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611015200id_/http%3A//community.eveonline.com/pnp/privacy.asp) for the most accurate reproduction.*
 
 # EVE Online | Rules & Policies | Privacy Policy
 
 CCP hf. ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.eveonline.com/pnp/termsofuse.asp) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland. 
+This policy (together with our [terms of use](http://community.eveonline.com/pnp/termsofuse.asp) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland. 
 
 For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland. 
 
@@ -76,7 +76,7 @@ We may disclose your personal information to third parties:
 
   * If CCP hf. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.eveonline.com/pnp/termsofuse.asp) and other agreements; or to protect the rights, property, or safety of CCP hf., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://community.eveonline.com/pnp/termsofuse.asp) and other agreements; or to protect the rights, property, or safety of CCP hf., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
