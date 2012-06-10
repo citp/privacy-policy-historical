@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cxholidays.com privacy policy that was archived on 2011-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211155046id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cxholidays.com privacy policy that was archived on 2012-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610160106id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>
@@ -66,11 +66,14 @@ if (getParameter("reqsrc") != "") {
 		var core_locate = 'en_INTL';
 		var core_pageID = '/chl/en_INTL/r/legal'; 
 		var core_categoryID = "";
+		var cm_currencyCode4Coremetrcis = "";
 		
 		
 		core_categoryID = 'en_INTL';
+		cm_currencyCode4Coremetrcis = "CNY";
 		
-		cmSetClientID(cm_ClientID,clientManaged,collectionDomain,cookieDomain); 
+		cmSetClientID(cm_ClientID,clientManaged,collectionDomain,cookieDomain);
+		cmSetupOther({"cm_currencyCode":cm_currencyCode4Coremetrcis}); 
 	}catch(e){
 	}
 </script><script language="javascript1.2" src="//web.archive.org/web/20120519152810/http://libs.coremetrics.com/configs/90383576.js"></script>
@@ -233,7 +236,7 @@ if (getParameter("reqsrc") != "") {
 
 
 
-<!-- start general_article.jsp Sun Dec 11 06:16:26 GMT+08:00 2011 --> 
+<!-- start general_article.jsp Sun Jun 10 19:20:25 GMT+08:00 2012 --> 
 
 
 	    
@@ -267,7 +270,7 @@ if (getParameter("reqsrc") != "") {
 	      </tbody></table>
  
 
-<!-- end general_article.jsp Sun Dec 11 06:16:27 GMT+08:00 2011 --> 
+<!-- end general_article.jsp Sun Jun 10 19:20:25 GMT+08:00 2012 --> 
 
 
               <table width="758" border="0" cellspacing="0" cellpadding="0">
@@ -319,6 +322,15 @@ if (getParameter("reqsrc") != "") {
 
 <!-- BEGIN COREMETRICS SUPPORT -->
 <script language="javascript1.2" type="text/javascript">
+	//fix url bug begin
+	function removePortNo(url){
+		var str = url;
+		if(url.indexOf(":843") != -1){
+			str = url.substring(url.indexOf(":843") + 4);
+		}
+		return str;
+	}
+	//fix url bug end
 	try{
 		//var coreOnFlag = 1;  0 = off, 1 = on
 		//var coreProductionFlag = 0;  0 = Test,1 = Prod 
@@ -326,6 +338,10 @@ if (getParameter("reqsrc") != "") {
 		var searchUrl = window.location.href;
 		var coremetricsSplitUrl = searchUrl.substring((searchUrl.indexOf("?")),searchUrl.indexOf("="));
 		var coremetrics_Keyword = coremetricsSplitUrl.split("?");
+		//fix url bug begin
+		core_pageID = removePortNo(core_pageID);
+		core_categoryID = removePortNo(core_categoryID);
+		//fix url bug end
 		if(coreOnFlag){ 
 			if(coremetrics_Keyword[1]=="keyword"){
 				var searchResults = searchUrl.substring((searchUrl.indexOf("=")+1));
@@ -353,6 +369,15 @@ if (getParameter("reqsrc") != "") {
 
 
 <script language="javascript1.2" type="text/javascript">
+	//fix url bug begin
+	function removePortNo(url){
+		var str = url;
+		if(url.indexOf(":843") != -1){
+			str = url.substring(url.indexOf(":843") + 4);
+		}
+		return str;
+	}
+	//fix url bug end
 	try{
 		//var coreOnFlag = 1;  0 = off, 1 = on
 		//var coreProductionFlag = 0;  0 = Test,1 = Prod 
@@ -360,6 +385,10 @@ if (getParameter("reqsrc") != "") {
 		var searchUrl = window.location.href;
 		var coremetricsSplitUrl = searchUrl.substring((searchUrl.indexOf("?")),searchUrl.indexOf("="));
 		var coremetrics_Keyword = coremetricsSplitUrl.split("?");
+		//fix url bug begin
+		core_pageID = removePortNo(core_pageID);
+		core_categoryID = removePortNo(core_categoryID);
+		//fix url bug end
 		if(coreOnFlag){ 
 			if(coremetrics_Keyword[1]=="keyword"){
 				var searchResults = searchUrl.substring((searchUrl.indexOf("=")+1));
@@ -373,5 +402,5 @@ if (getParameter("reqsrc") != "") {
 	}catch(e){
 	}
 </script>
-<!-- page generated in 285 milliseconds-->
+<!-- page generated in 224 milliseconds-->
 </body></html>
