@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthcreatorsuniversity.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228101642id_/http%3A//student.wealthcreatorsuniversity.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D119) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthcreatorsuniversity.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610073247id_/http%3A//student.wealthcreatorsuniversity.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D119) for the most accurate reproduction.*
 
 # Privacy Policy
 
