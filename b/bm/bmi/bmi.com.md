@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221001328id_/http%3A//www.bmi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610131912id_/http%3A//www.bmi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BMI.com
 
-Broadcast Music, Inc., a global leader in rights management, collects license fees from businesses that use music, which it distributes as royalties to songwriters, composers & music publishers.
+Broadcast Music, Inc., a global leader in music rights management, collects license fees from businesses that use music, which it distributes as royalties to songwriters, composers & music publishers.
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Launched in September of 1994, BMI.com is BMI’s hub for electronically communi
 
 ## Who We Are
 
-Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Los Angeles, Nashville, Atlanta, Miami, Puerto Rico and London. We can be reached by e-mail at [webmaster@bmi.com](mailto:webmaster@bmi.com), or by telephone at (212) 220-3000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.
+Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Los Angeles, Nashville, Atlanta, Miami, Puerto Rico and London. We can be reached by e-mail at [[webmaster@bmi.com](mailto:webmaster@bmi.com)](mailto:webmaster@bmi.com), or by telephone at (212) 220-3000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.
 
 ## What We Collect and How We Use It
 
