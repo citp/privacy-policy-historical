@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fukitol.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211013518id_/http%3A//www.fukitol.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fukitol.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610114956id_/http%3A//www.fukitol.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D83) for the most accurate reproduction.*
 
 # PRIVACY POLICY | When Life Just Blows...FUKITOL! | LEGAL
 
