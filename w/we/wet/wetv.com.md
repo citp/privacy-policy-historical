@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112354id_/http%3A//www.wetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610115901id_/http%3A//www.wetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – WE tv
-
-
-
 
 Privacy Policy
 
@@ -77,7 +74,7 @@ WE: Women's Entertainment LLC
 11 Penn Plaza  
 New York, NY 10001
 
-Or, emailing us at: CONTACTWE@WEtvNetworks.com.
+Or, emailing us at: CONTACTWE@WE.com.
 
  **SECURITY**
 
@@ -89,4 +86,4 @@ Please be careful and responsible whenever you are on line.  Should you choose 
 
 This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.   
 
-Copyright © 2011 WE: Women's Entertainment LLC
+Copyright © 2012 WE: Women's Entertainment LLC
