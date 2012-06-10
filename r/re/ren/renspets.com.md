@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renspets.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212130830id_/http%3A//www.renspets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renspets.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611015205id_/http%3A//www.renspets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
