@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226140436id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610224909id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Updated August 4, 2011]
+[Updated February 24, 2012]
 
 Thank you for visiting the Department of the Interior website and reviewing our privacy policy.   How we handle information we learn about you from your visit to our website depends upon what you do when visiting our site.
 
