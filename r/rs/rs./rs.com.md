@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211144126id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610192521id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement — Rocket Software
 
@@ -97,7 +97,8 @@ Rocket Software, Inc. will use reasonable efforts to comply with this privacy st
 
 If you have any questions about this privacy statement, the practices of our software or Web sites, you may contact:
 
-Privacy Policy Group  
+Legal Department – Privacy  
 Rocket Software, Inc.  
-275 Grove Street  
-Newton, MA 02466
+77 Fourth Avenue   
+Waltham, MA 02451-1468  
+[privacypolicy@rocketsoftware.com ](mailto:privacypolicy@rocketsoftware.com)
