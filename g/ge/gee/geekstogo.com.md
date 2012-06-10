@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211040634id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610140147id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Geeks to Go! – Free help from tech experts
 
@@ -34,7 +34,7 @@ NetShelter as a third party vendor, uses cookies to serve ads [Privacy Statement
 Geekstogo.com gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. In order to comply with the COPPA ruling, if you are younger than 13 years of age, you are forbidden from becoming a member of geekstogo.com or posting information on geekstogo.com message boards without direct parental consent.
 
 **Enforcement**  
-If for some reason you believe geekstogo.com have not adhered to these principles, please notify us by e-mail at [](mailto:privacy@neowin.net)[privacy@geekstogo.com](mailto:privacy@geekstogo.com), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe geekstogo.com have not adhered to these principles, please notify us by e-mail at [privacy@geekstogo.com](mailto:privacy@neowin.net), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **Changes to this document**  
 Changes to this document may be made any time without warning. Geekstogo.com may or may not notify you of changes in this policy, however, we will make an effort to notify you if there are any major changes to this policy. You will not be notified about changes related to clarification and/or elaboration of parts of this policy.
