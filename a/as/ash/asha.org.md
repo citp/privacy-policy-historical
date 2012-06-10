@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asha.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204084814id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asha.org privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610073325id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for Our Web Site
 
