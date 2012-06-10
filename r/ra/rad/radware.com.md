@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618034542id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610210606id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Radware: Privacy Policy
 
-RADWARE respects the privacy of the users of this Website. This Privacy Policy outlines the steps RADWARE is taking to protect users’ privacy and the limitations in doing so.
+RADWARE respects the privacy of the users of this Website. This Privacy Policy outlines the steps RADWARE is taking to protect users' privacy and the limitations in doing so.
 
 By registering at our site, logging in, or by any other method of voluntarily providing us with your personal information, you accept the terms and conditions of this Privacy Policy.
 
-Collection of Personal Information. Personal information may be collected in one of three ways: (i) Users may submit personal information (such as name, email address, telephone number) while using this Website for the purpose of registering and logging into the site, downloading software or information, applying for a job, requesting information and other uses; (ii) when entering a product serial number, the Website will be updated with the applicable customer information; and (iii) when browsing the Website, a user’s IP address is automatically collected by our server. Information referred to under sections (i) and (ii) shall be referred to herein as “Personal Information” and the information referred to under section (iii) shall be referred to herein as “Tracking Information”.
+Collection of Personal Information. Personal information may be collected in one of three ways: (i) Users may submit personal information (such as name, email address, telephone number) while using this Website for the purpose of registering and logging into the site, downloading software or information, applying for a job, requesting information and other uses; (ii) when entering a product serial number, the Website will be updated with the applicable customer information; and (iii) when browsing the Website, a user's IP address is automatically collected by our server. Information referred to under sections (i) and (ii) shall be referred to herein as "Personal Information" and the information referred to under section (iii) shall be referred to herein as "Tracking Information".
 
 Use of Personal Information. Personal Information is not used or provided to any third party, except as outlined herein. By logging into our site and/or by providing your Personal Information, RADWARE assumes you are interested in obtaining more information about our company, its technology and our product offerings. Therefore, RADWARE may use your Personal Information solely for the purpose of (i) providing you with products, services, upgrades and additional offerings available on our Website; (ii) providing you with information we believe you would be interested in, such as newsletters, product updates, special offers, campaigns, service renewals and additional promotional materials; or (iii) answering your questions and inquiries. We may also provide your contact information to our business partners in order to (i) provide you with our products and services or provide joint or bundled solutions; or (ii) provide you with joint offers and complementary information which we believe may be of interest to you.
 
@@ -24,4 +24,4 @@ Questions. You may contact us with any questions regarding our Privacy Policy at
 
 Amendment of Policy. RADWARE reserves the right to amend the terms of this Policy from time to time without notice, by posting the revised terms on the Website.
 
-COPYRIGHT © 2009, Radware Ltd. All Rights Reserved.
+COPYRIGHT © 2010, Radware Ltd. All Rights Reserved.
