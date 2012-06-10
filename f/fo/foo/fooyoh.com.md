@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooyoh.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143926id_/http%3A//blog.fooyoh.com/fooyoh/entry/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooyoh.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611002411id_/http%3A//blog.fooyoh.com/fooyoh/entry/Privacy-Policy) for the most accurate reproduction.*
 
 # FOOYOH BLOG - Privacy Policy
 
