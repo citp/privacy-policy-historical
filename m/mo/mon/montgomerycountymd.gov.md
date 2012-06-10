@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212001148id_/http%3A//www.montgomerycountymd.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611013628id_/http%3A//www.montgomerycountymd.gov/privacy) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
@@ -14,22 +14,22 @@ It is our statement concerning how your information will be protected. If you ha
 The County adheres to and follows the practices and procedures described below for the purpose of assuring the privacy of visitors to the County web portal. These practices and procedures are approved by the Department of Technology Services, the Office of the County Attorney, and the Office of the County Executive. The County reserves the right to change these practices and procedures at any time without prior notice. The following is not intended and should not be interpreted as a contract of any nature, either stated or implied. 
 
 In addition to the above, the County also complies with the requirements for administering information systems as established in the Maryland Public Information Act (PIA) Title 10, Subtitle 6, Part III of the State Government Article. The PIA covers all counties, including Montgomery County, cities, towns, school districts, and special districts like soil conservation or sanitary sewage districts.   
-Beginning October 1, 2000 the PIA restricts the County's ability to create "personal records" and collect "[personal information](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#personalinfo)" The County cannot create personal records unless it clearly establishes the need for that information. A "personal record" is one that names or, with reasonable certainty, otherwise identifies an individual by an identifying factor such as an address, a description, a finger or voice print, a number or a picture. The County establishes its need to create personal records by showing that it is either needed to execute some legal obligation like collect property taxes or that it is needed for administrative convenience. The County collects personal information directly from individuals who choose to use one or more of the County's web applications. Collecting personal information is necessary in order to deliver the services requested.
+Beginning October 1, 2000 the PIA restricts the County's ability to create "personal records" and collect "personal information" The County cannot create personal records unless it clearly establishes the need for that information. A "personal record" is one that names or, with reasonable certainty, otherwise identifies an individual by an identifying factor such as an address, a description, a finger or voice print, a number or a picture. The County establishes its need to create personal records by showing that it is either needed to execute some legal obligation like collect property taxes or that it is needed for administrative convenience. The County collects personal information directly from individuals who choose to use one or more of the County's web applications. Collecting personal information is necessary in order to deliver the services requested.
 
 **CUSTOMER TRUST:**  
 Fostering and maintaining the public's trust is a cornerstone of the County's web portal program. We appreciate the trust and confidence that you place in us by providing requested personal information  
 
 
-  * [What organization in the County is collecting your information](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#CollectingOrg)
-  * [What personally identifiable information of yours is collected](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#InfoCollected)
-  * [How your information is used](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#HowUsed)
-  * [Whether and when the County uses Cookies](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#Cookies)
-  * [With whom your information may be shared](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#SharedInfo)
-  * [What choices are available to you regarding collection, use, and distribution of your information](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#Choices)
-  * [What kind of security procedures are in place to protect you](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#Security)
-  * [How you can correct any inaccuracies in your information](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#Corrections)
-  * [Procedures for limiting employee access to information and](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#Procedures)
-  * [How to contact the County](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#Contact)
+  * What organization in the County is collecting your information
+  * What personally identifiable information of yours is collected
+  * How your information is used
+  * Whether and when the County uses Cookies
+  * With whom your information may be shared
+  * What choices are available to you regarding collection, use, and distribution of your information
+  * What kind of security procedures are in place to protect you
+  * How you can correct any inaccuracies in your information
+  * Procedures for limiting employee access to information and
+  * How to contact the County
 
 
 
@@ -88,4 +88,4 @@ How to contact the County:
 We welcome your comments and invite you to contact us if you have any questions or concerns regarding this Privacy Policy. [Contact us](https://web.archive.org/contact) or call 311.  
 
 
-[< top >](https://web.archive.org/web/20111212001148id_/http://montgomerycountymd.gov/mcgtmpl.asp?url=/content/mcginfo/siteFiles/privacy.asp#top)
+< top >
