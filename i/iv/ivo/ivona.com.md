@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivona.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101061755id_/http%3A//www.ivona.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivona.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610160610id_/http%3A//www.ivona.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,63 +10,63 @@ IVONA Website may collect personal information from you relating both to your id
 
 There are a number of different ways that we may collect personal information from you: 
 
-Communications from you  
+_Communications from you_  
 You may contact us providing your name and contact details and any other personal information contained in your message.
 
-Customer Support  
+_Customer Support_  
 You may contact us in respect of technical assistance you require in respect of our products or information that you would like to receive relating to our products.
 
-Email/Direct mail campaigns  
-From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you may be interested in.
+_Email/Direct mail campaigns_  
+From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you may be interested interested in. However, we refrain from sending unsolicited information to persons who have not given their consent during the registration on the site.
 
-Newsletters  
-We may send out newsletters to our customers providing them with articles and information which we believe may be of interest to you.
+_Newsletters_  
+To those customers who gave us their consent we may send out newsletters providing them with articles and information which we believe may be of interest to you.
 
-Registration of Products  
+_Registration of Products_  
 Upon registration, you will be asked to provide certain information so that we can record you as an owner of the IVONA Website service to help us provide you with service and information. We require that you provide certain contact information.
 
-Purchases  
+_Purchases_  
 If you wish to purchase from our IVONA Website Store, we will require sufficient information to complete the purchase including your credit card information and your contact details.
 
-Surveys  
+_Surveys_  
 From time to time we may conduct surveys in respect of our products and services. Participation is optional.
 
-Aggregate Information  
+_Aggregate Information_  
 Whenever you enter our website, our web server automatically collects and aggregates information in respect of your visit. This information includes URLs or domains of referring websites, browser type, operating system, the pages that you access and the date and time of your visit. In general this aggregate information will not identify you personally. If we do correlate such information to you, we will treat it in accordance with this policy.
 
 ### 2\. Purposes for which we use Information
 
 IVONA Website may gather personally identifiable information about you, ONLY if you voluntarily choose to provide it yourself (for example: while submitting certain forms in or through the Website, or while registering to the IVONA Website Pricing section). If you choose not to provide required information, IVONA Website may not be able to comply with your request or provide certain services.
 
-Product Registration  
+_Product Registration_  
 Information you provide upon registration will be used to keep a record of your purchases and will assist in providing assistance if you contact our customer support service. We will also use this information to inform you of any upgrades, new products or promotions that may be of interest to you.
 
-Product Purchases  
+_Product Purchases_  
 When you purchase from our IVONA Website Store or directly from our Customer Services department, we will use your information to process payment and send you your login information.
 
-Information in respect of IVONA Website Products  
+_Information in respect of IVONA Website Products_  
 It is important for us to receive feedback from our customers and information on any features they would like to see in future products. We may contact you to ask you about our products and also to inform you of upgrades, technical issues, promotions and new products that you may be interested in.
 
-Internal Analysis  
+_Internal Analysis_  
 We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and profile customers, including customer preferences and purchasing trends, which we may use for marketing purposes and in respect of operations and development.
 
-Updating information  
+_Updating information_  
 We may contact you to ensure that the information we have in our records is still correct and to add additional information to complete your profile.
 
 ### 3\. Sharing of Information with Third Parties
 
-We may use outside vendors to process payment from customers.
+We may use outside vendors to process payment from customers. We do however respect the applicable regulations (in particular those regarding the protection of personal data).
 
 Please be aware that this Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers, other websites or any other third party which may be involved in or linked to IVONA Website's business. This privacy statement does not cover the information practices of those websites linking information. Your personal information may be subject to different privacy practices exercised by other providers, and IVONA Website is not responsible for the privacy practices exercised by any such provider. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit these providers individually to learn more about how they handle privacy.
 
-Legal Disclaimer  
+_Legal Disclaimer_  
 Although we make every effort to preserve user privacy, we may need to disclose personal information when required to do so by law or when necessary to comply with any current judicial proceedings, a court order or legal process served on our Website.
 
 ### 4\. Security
 
 We use commercially reasonable efforts to ensure that your information is stored and maintained in a secure environment. We have implemented procedures to ensure that your information is only made available to such designated staff as necessary to carry out the stated purposes that we have communicated to you.
 
-SSL Encryption  
+_SSL Encryption_  
 Order information received by the IVONA Website Store, including credit card information, is encrypted using Secure Sockets Layer (SSL). This ensures that your information is secure as it is sent over the Internet to our server.
 
 ### 5\. Cookies
@@ -101,16 +101,12 @@ We may use the services of third party companies to physically collect and store
 
 ### 11\. Changes to this Privacy Policy
 
-We may change the terms of this privacy policy from time to time in order to reflect our practices and provide greater protection for your information. Any change to this policy will be clearly displayed on this website. You are bound by the current version of this privacy policy. Any changes to this policy will not have retrospective effect. Information collected by us will be dealt with in accordance with the provisions of our policy which were in effect at the time of collection.
+We may change the terms of this privacy policy from time to time in order to reflect our practices and provide greater protection for your information. Any change to this policy will be clearly displayed on this website. You are not bound by the previous versions of our privacy policy. Any changes to this policy will not have retrospective effect. Information collected by us will be dealt with in accordance with the provisions of our policy which were in effect at the time of collection.
 
-### 12\. Business Transfers
+### 12\. Acceptance of Terms
 
-Information that is collected by IVONA Website is considered to be an asset. In the event that IVONA Website, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer on our website.
+By using our services, accessing our website or purchasing our products within the bounds of your consent you are agreeing to the practices relating to information collection and use that are described in this policy.
 
-### 13\. Acceptance of Terms
+### 13\. Contact Us
 
-By using our services, accessing our website or purchasing our products you are consenting to the practices relating to information collection and use that are described in this policy.
-
-### 14\. Contact Us
-
-Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [sales@ivona.com](mailto:sales@ivona.com).
+Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [support@ivona.com](mailto:support@ivona.com).
