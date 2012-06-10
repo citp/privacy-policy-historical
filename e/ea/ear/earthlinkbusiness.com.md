@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earthlinkbusiness.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102212532id_/http%3A//www.earthlinkbusiness.com/about-us/legal/privacy-policy.xea) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlinkbusiness.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610192717id_/http%3A//www.earthlinkbusiness.com/about-us/legal/privacy-policy.xea) for the most accurate reproduction.*
 
-# EarthLink Business - Privacy Policy
+# EarthLink Business Privacy Policy - EarthLink Business
 
 EarthLink Business is committed to protecting the privacy and security of your personal information. This Privacy Policy describes how EarthLink Business collects information when you access or use this website, how we use the collected information and the choices you have with respect to our collection and use of such information. By accessing or using this website, you consent to the collection of information as outlined in this Privacy Policy and its use by the EarthLink Business operating companies, which include: New Edge Network, Inc., DeltaCom, Inc., One Communications Corporation and STS Telecom, LLC. 
 
@@ -80,3 +80,5 @@ Policy Revisions
 EarthLink Business reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner without prior notice. Any revision or modification to this Privacy Policy will be effective upon posting to this website. 
 
 Effective June 1, 2011 
+
+**[Return to all EarthLink Business Legal Notices and Policies](https://web.archive.org/about-us/legal/legal.xea)**
