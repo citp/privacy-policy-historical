@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211170847id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257Cukhtml%257CPrivacyState%2Chtml/walk.html.%257Cukhtml%257CCor_uk_MyAcct%2Chtml%3Fcm_re%3DFooter-_-Legal-_-PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610174218id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257Cukhtml%257CPrivacyState%2Chtml/walk.html.%257Cukhtml%257CCor_uk_MyAcct%2Chtml%3Fcm_re%3DFooter-_-Legal-_-PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,11 +10,9 @@ go to top
 
 ## Customer information is gathered so we can serve you better.
 
-We make every effort to ensure its security and to treat your information responsibly. When you become a QVC Member, we ask for your name, address and phone number. We also ask for your credit card number and its expiry date, if you select that method for payment. Once we have your credit card information, we will not ask for it again unless a change is required. Your order history information is maintained in order to service your account.
+We make every effort to ensure its security and to treat your information responsibly. When you become a QVC Member, we ask for your name, address, date of birth and phone number. We also ask for your credit or debit card number and its expiry date, if you select that method for payment. Once we have your credit card information, we will not ask for it again unless a change is required. Your order history information is maintained in order to service your account.
 
 Credit card transactions are subject to routine searches from time to time. QVC undertakes these searches in association with licensed credit agencies to detect and prevent fraud.
-
-When you order from QVC, you can pay by cheque if you wish. Cheque payments to QVC are processed using Transax, a payment clearance system that operates without the need for a cheque guarantee card. Your order is released and delivered to you when payment has cleared.
 
 From time to time, we may write or telephone in order to update your account, or to give you information that we hope might interest you or gather feedback in order to help us improve customer service. If you don't want us to get in touch, simply tell a Customer Care Representative, or contact us at [**webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7Cukhtml%7CCor_uk_MyAcct,html), to have your name removed from our contact list.
 
@@ -80,11 +78,11 @@ You can e-mail us at [ **webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/
 Freephone **0800 51 41 31**
 
   * QVC UK Main Headquarters
-  * Marco Polo House
-  * Chelsea Bridge
-  * 346, Queenstown Road
+  * Building 8
+  * Chiswick Park
+  * 566 Chiswick High Road
   * London
-  * SW8 4NQ
+  * W4 5XU
 
 
   * QVC UK Customer Queries & Operations Centre
