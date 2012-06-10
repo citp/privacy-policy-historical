@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209201020id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3Den_CA%26context%3Danrr%26a%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610193349id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3Den_CA%26context%3Danrr%26a%3D37284) for the most accurate reproduction.*
 
 # Lavalife. Where singles click.
 
