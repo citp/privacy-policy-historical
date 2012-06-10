@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenkatgames.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101035118id_/http%3A//www.jenkatgames.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenkatgames.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611010840id_/http%3A//www.jenkatgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at JenkatGames.com
 
@@ -57,9 +57,39 @@ When you sign up as a Jenkat Media user, or download any software from Jenkat Me
 
 A second communication option is chosen by default, allowing Jenkat Media to share your information with trusted partners who may also choose to communicate with you. You also have the choice to uncheck the box for this option during the sign up process. 
 
+### FACEBOOK PLATFORM
+
+This site makes use of Facebook Platform which lets you log into other applications and websites using your Facebook account. When you log in using Facebook, Facebook gives Jenkat Media your User ID, but they do not share your email address or password with Jenkat Media without you giving permission.  
+
+
+If you already have an account with Jenkat Media, you may also be able to connect that account with your Facebook account. This can be done using techniques like an "email hash", which is similar to searching for someone on Facebook using an email address. The email addresses in this case are encrypted, so no email addresses are actually shared between Facebook and Jenkat Media.  
+
+
+How It Works  
+
+
+The website (Jenkat Media) sends over an encrypted version of your email address, and Facebook matches it with a database of email addresses that they have also encrypted. If there is a match, then Facebook tells the website the User ID associated with the email address. This way, when you log into our website using Facebook, we can link your Facebook account to your account on Jenkat Media.
+
+About Social Plugins  
+
+
+When you go to a game or application, or connect with a website using the Facebook Platform, Facebook gives the game, application, or website (sometimes referred to as just "Applications" or "Apps") your _User ID_ , as well your friends' User IDs (or your friend list).
+
+Your friend list helps us make your experience more social because it lets you find your friends on our website. Your User ID helps us personalize your experience because it can connect your account on our website with your Facebook account, and it can access your _public information_. This includes the information you choose to make public, as well as information that is always publicly available. If the application needs additional information, it will have to ask you for specific permission.  
+
+
+The _Apps you Use_ setting in Facebook lets you control the applications you use. You can see the permissions you have given these applications, as well as the last time an application accessed your information. You can also remove applications you no longer want, or turn off all Facebook applications.  
+
+
+Jenkat Media might also ask for permission to share specific information with the games and applications you use on our site (such as your public information). If you say okay, we will not be able to access any other information about you without asking specific permission from you or your friends.  
+
+
 ### OTHER INFORMATION COLLECTED
 
 Your Web browser or client software that you use to access Jenkat Media may transmit certain geographic information and information regarding the capabilities or features of your computer and/or software to us. We may also track other types of information, such as what games a user plays, how long our users have been members of any Jenkat Media businesses or programs, the last time a user visited Jenkat Media websites, and whether a user has won any of our games, lotteries, jackpots, or contests. We may use this information to calculate aggregate statistics about our user community or for security purposes, and may provide such information to advertisers and/or partners in aggregate form only. 
+
+Within certain games available on the website, your Windows Account Name may be used to populate your profile within the software program.  
+
 
 ### HOW INFORMATION IS USED
 
