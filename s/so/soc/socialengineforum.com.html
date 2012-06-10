@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the socialengineforum.com privacy policy that was archived on 2011-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111212081051id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialengineforum.com privacy policy that was archived on 2012-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610133431id_/http%3A//www.socialengineforum.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
 	<meta name="identifier-url" content="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=privacy">
 
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	
 	<!--
-	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-	Social Engine Forum - Largest Social Engine Resources Site
-	Web - http://www.socialengineforum.com IP - 188.138.115.68
-	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+	* @project     Social Engine Forum (Online Community)
+	* @version     12.05.231002 (Stable)
+	* @author      Coldware Networks Netherland <www.coldware.org>
+	* @copyright   2010-2012 Coldware Networks Netherland
+	* @link        http://www.socialengineforum.com
 	-->
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -22,673 +23,107 @@
 	
 	
 		<script type="text/javascript" src="http://www.socialengineforum.com/public/min/index.php?f=public/js/3rd_party/prototype.js,public/js/3rd_party/scriptaculous/scriptaculous-cache.js,public/js/ipb.js,public/js/ips.quickpm.js,cache/lang_cache/1/ipb.lang.js,public/js/timespan.js" charset="UTF-8"></script>
-		<link rel="alternate feed" type="application/rss+xml" title="SEF New Topics Feed" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=8">
-
-		<link rel="alternate feed" type="application/rss+xml" title="SEF New Replies Feed" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=9">
-
-		<link rel="alternate feed" type="application/rss+xml" title="SEF Top Viewed Feed" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=10">
-
-		<link rel="alternate feed" type="application/rss+xml" title="SEF Top Rated Feed" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=11">
+		<link rel="alternate feed" type="application/rss+xml" title="New Releases Feed" href="./index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=1">
 
 
+	<link type="text/css" href="./chat/css.php" rel="stylesheet" charset="utf-8">
+	<script type="text/javascript" src="./chat/js.php" charset="utf-8"></script>
 	
-		<link type="text/css" href="./chat/cometchatcss.php" rel="stylesheet" charset="utf-8">
-		<script type="text/javascript" src="./chat/cometchatjs.php" charset="utf-8"></script>
+	<script type="text/javascript" src="http://rtn.htp.3.sefcdn.net/public/js/3rd_party/jquery/jquery-1.4.2.min.js" charset="utf-8"></script>
+	<script type="text/javascript">
+		jQuery.noConflict();
+		jQuery(document).ready(function($){
+		$("header nav li:not(nav .submenu li)").live('mouseenter',
+			function () {
+				$("nav ul li.channel-active ul").hide();     
+				$("ul", this).show();
+				$(this).addClass("active");
+			}).live('mouseleave', 
+			function () {
+				$("ul", this).hide();			
+				$(this).removeClass("active");
+				$("nav ul li.channel-active ul").show();
+			}
+		);
+		
+		
+		var controlBar = $('header');
+		if (controlBar.length > 0) {
+			controlBar.hover(function() {
+				if ($(this).hasClass('fixed')) {
+					$(this).stop(true).fadeTo('fast', 1);
+				}
+			}, function() {
+				if ($(this).hasClass('fixed')) {
+					$(this).stop(true).fadeTo('slow', 0.5);
+				}
+			});
+			$(window).scroll(function() {
+				if ($(window).scrollTop() > 100) {
+					if (!controlBar.hasClass('fixed')) {
+						controlBar.addClass('fixed').stop(true).fadeTo('slow', 0.5);
+					}
+				} else {
+					if (controlBar.hasClass('fixed')) {
+						controlBar.removeClass('fixed').stop(true).fadeTo('fast', 1, function() {
+							$(this).css('filter', '');
+						});
+					}
+				}
+			}).trigger('scroll');
+		}
+		
+		});
+	</script>
 	
 		<link rel="search" type="application/opensearchdescription+xml" href="http://rtn.htp.37.sefcdn.net/search.xml" title="Social Engine Forum"><link rel="icon" href="http://rtn.htp.37.sefcdn.net/favicon.ico" type="image/x-icon">
 		<link rel="shortcut icon" href="http://rtn.htp.37.sefcdn.net/favicon.ico" type="image/x-icon">
 		<link rel="shortcut icon" href="http://rtn.htp.37.sefcdn.net/favicon.ico">
 		
 		
+	
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+			<link rel="stylesheet" type="text/css" media="print" href="http://www.socialengineforum.com/public/style_css/css_4/ipb_print.css">
 		
-	<style type="text/css">
-		#tab_awards .bar{-moz-border-radius:0;-webkit-border-top-left-radius:0;-webkit-border-top-right-radius:0;}
-		#tab_awards .general_box{max-height:250px;overflow:auto!important;}
-		#tab_awards li{list-style-type:none;list-style-image:none;list-style-position:outside;}
-		#list_awards .bar{-moz-border-radius:5px 5px 0 0;-webkit-border-top-left-radius:5px;-webkit-border-top-right-radius:5px;}
-		#list_awards .barnoedge{background:#d5dde5 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 50%;padding:4px 4px 0 0;}
-		#list_awards .baredge{-moz-border-radius:0 0 5px 5px;-webkit-border-bottom-left-radius:5px;-webkit-border-bottom-right-radius:5px;}
-		#list_awards .general_box{max-height:100%;}
-		#cab_awards{padding:5px 3px 3px;}
-		.awardstitle{font-size:14px;}
-		.awardsdesctext{font-size:11px;font-style:italic;color:#666666;}
-		.awardshead{font-size:11px;font-weight:bold;text-align:center;}
-		.awardsstats{font-size:12px;font-weight:bold;color:#1d3652;}
-		.awardsstatstext{font-size:12px;font-weight:normal;color:#1d3652;}
-		.bigboldaward{font-size:14px;font-weight:bold;}
-		#tab_awards div,#list_awards div{overflow:visible;}
-		#tab_awards div .row1,#list_awards div .row1{overflow:visible;font-weight:normal;border:1px solid #000000;padding:10px;}
-		#tab_awards h4,#list_awards h4{font-size:1.05em;font-weight:normal;background:#1d3652 url(http://dup.tem.94.sefcdn.net/clean/th_bg.png) repeat-x 50%;color:#fff;-moz-border-radius:5px 5px 0 0;-webkit-border-top-left-radius:5px;-webkit-border-top-right-radius:5px;padding:6px;}
-		#tab_awards p.posted_info,#list_awards p.posted_info{margin:0;padding:0 0 6px 6px;}
-	</style>
+	
 
+				
+	
 
-	<style type="text/css">
-		.homepage{margin-top:6px;padding:0;border;border:1px solid #425b83;}
-		.homepage .home_intro{background:#09293E;text-align:center;vertical-align:middle;}
-		.homepage .home_desc{background:#e5ecf1 url(http://rtn.htp.37.sefcdn.net/home/home_background.png) repeat-x;margin:0 -30px;font-size:12px;color:#656565;padding:20px 15px 10px 15px;}
-		.homepage #main_column{width:60%;float:left;}
-		.homepage #sidebar{float:right;width:320px;}
-		.homepage #sidebar ul{margin-top:10px;}
-		.homepage #features{margin-top: 15px;}
-		.homepage #features li{margin-bottom:5px;line-height:150%;clear:both;overflow:hidden;}
-		.homepage #features li img{float:left;margin:3px 20px 10px 0;border:1px solid #87A0B0;}
-		.homepage #more_desc{background:#e7f2f7;border:1px solid #c2dce9;padding:19px;margin-bottom:10px;}
-		.homepage .system_wrapper{background:#E6EDEF;border:1px solid #c2dce9;padding:10px 0px 10px 0px;}
-		.homepage #button_go{width:280px;height:36px;background:url(http://rtn.htp.37.sefcdn.net/home/button_go.png) no-repeat top;}
-		.homepage #button_go:hover{background-position:bottom;}
-		.homepage .generic{line-height:140%;}
-		.homepage .generic.size12{font-size:0.98em;}
-		.homepage .generic.size13{font-size:13px;padding-bottom:15px;padding-top:10px;}
-		.homepage .generic.size14{font-size:14px;padding-bottom:10px;}
-		.homepage .generic.size16{font-size:16px;padding-bottom:10px;}
-		.homepage .generic.size17{font-size:17px;padding-bottom:10px;}
-		.homepage .home_button{text-indent:-2000em;display:inline-block;}
-		.homepage .system_status{font-size:0.88em;vertical-align:middle;padding-right:8px;}
-		.homepage .system_status .full{color:#5B7F00;}
-		.homepage .system_status .medium{color:#917900;}
-		.homepage .system_status .low{color:#9E0000;}
-		.homepage #more_fea{padding-bottom:10px;}
-		.homepage .home_body{padding:25px;padding-top:35px;background:url(http://rtn.htp.37.sefcdn.net/home/bar/cross.png) repeat-x, url(http://rtn.htp.37.sefcdn.net/home/body_bg.png) no-repeat bottom right;}
-		.homepage .home_footer{}
-		.homepage #more_info{background:#425b83 url(http://rtn.htp.37.sefcdn.net/home/footer_bg.png) repeat-x;font-size:15px;margin:0;padding:20px;color:#fff;text-align:center;}
-		.homepage .ver_bot{vertical-align:bottom;}
-		.homepage .ver_top{vertical-align:top;padding-top:5px;}
-		.new, .hot, .unique{font-size:10px;font-weight:bold;color:#fff;padding:2px 5px;margin-top:-2px;-moz-border-radius:4px;vertical-align:middle;}
-		.new{background-color:#df6400;}
-		.hot{background-color:#a88c00;}
-		.unique{background-color:#00890a;}
-		.smart_header{margin:0px; padding:0px;}
-		.smart_banner{background:url(http://cop.log.6.sefcdn.net/posters/holidays/halloween/poster.png) no-repeat top right;min-width:308px;float:right;}
-		.smart_html{background:url(http://cop.log.6.sefcdn.net/posters/others/coldware/poster.png) no-repeat top right;min-width:308px;padding-right:30px;color:#EFEFEF;vertical-align:middle;}
-	</style>
-
-
-	<style type="text/css" title="Main" media="screen">
-		#ipboard_body .input_rte{width:100%;height:250px;}
-		#ipboard_body .ips_editor.lite_edition .input_rte{height:60px;}
-		#ipboard_body .ips_editor .input_rte.unloaded_editor{font-family:arial, verdana, tahoma, sans-serif;font-style:italic;font-size:11px;color:#b4b4b4;text-indent:5px;padding:5px 0;}
-		#ipboard_body .ips_editor{border:2px solid #d5dde5;position:relative;line-height:100%!important;margin:8px;}
-		#ipboard_body .ips_editor.with_sidebar .controls,#ipboard_body .ips_editor.with_sidebar .editor{margin-right:200px;}
-		#ipboard_body .ips_editor .controls{position:relative;}
-		#ipboard_body .ips_editor.with_sidebar .sidebar{position:absolute;top:0;right:0;width:194px;bottom:1px;border-color:#f6f8fa #d5dde5 #d5dde5 #f6f8fa;border-style:solid;border-width:1px;margin:0;}
-		#ipboard_body .ips_editor.with_sidebar .sidebar h4{background-color:#e4ebf2;height:25px;color:#1d3652;font-size:10px;font-weight:bold;}
-		#ipboard_body .ips_editor.with_sidebar .sidebar h4 span{display:block;padding:6px 0 0 6px;}
-		#ipboard_body .ips_editor.with_sidebar .sidebar .emoticon_holder{position:absolute;top:25px;bottom:1px;width:193px;overflow:auto;}
-		#ipboard_body .ips_editor .toolbar{height:30px;background:#e4ebf2 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x left 50%;border-color:#f6f8fa #d5dde5 #d5dde5 #f6f8fa;border-style:solid;border-width:1px;}
-		#ipboard_body .ips_editor .toolbar li{float:left;padding:3px;}
-		#ipboard_body .ips_editor .toolbar li.sep{padding-right:4px;border-right:1px solid #d5dde5;margin-right:4px;}
-		#ipboard_body .ips_editor .toolbar li.left{float:left;}
-		#ipboard_body .ips_editor .toolbar li.right{float:right;}
-		#ipboard_body .ips_editor .toolbar li span{display:block;padding:3px;}
-		#ipboard_body .ips_editor ul.ipbmenu_content,#ipboard_body .ips_editor ul.ipbmenu_content li{display:block;float:none;background-color:#fff;}
-		#ipboard_body .ips_editor .toolbar li .rte_menu.rte_control{font-size:11px;height:14px;border:1px solid #aeb9c5;margin-top:1px;background-color:#fff;background-image:url(http://dup.tem.94.sefcdn.net/clean/rte_icons/rte_arrow.png);background-repeat:no-repeat;background-position:right center;padding:4px 15px 2px 7px;}
-		#ipboard_body .rte_title{background-color:#d5dde5;color:#1d3652;font-size:10px;font-weight:bold;margin:-4px -4px 5px;padding:4px;}
-		#ipboard_body .rte_fontsize{min-width:50px;}
-		#ipboard_body .rte_font{min-width:85px;}
-		#ipboard_body .rte_special{min-width:90px;}
-		#ipboard_body .ipb_palette{background-color:#eef3f8;font-size:11px;border-color:#d5dde5;border-style:solid;border-width:1px 2px 2px 1px;padding:4px;}
-		#ipboard_body .ipb_palette label{display:block;font-weight:bold;clear:both;width:auto!important;float:none!important;text-align:left!important;}
-		#ipboard_body .ipb_palette input{clear:both;width:96%;margin-bottom:5px;font-size:11px;margin-right:6px;}
-		#ipboard_body .ipb_palette input[type=submit],#ipboard_body .input_submit.emoticons{background-color:#d5dde5;border:1px solid #d5dde5;text-align:center;color:#1d3652;font-size:11px;display:block;width:auto!important;margin:5px auto;padding:2px;}
-		#ipboard_body .ipb_palette.extended{min-width:250px;max-width:320px;}
-		#ipboard_body .ipb_palette pre{padding:5px 7px 10px;}
-		#ipboard_body ul.fontsizes li{padding:.3em 0!important;}
-		#ipboard_body .ipb_palette table.rte_colors{border-collapse:separate;background-color:#fff;border-spacing:1px;}
-		#ipboard_body table.rte_colors td{border:1px solid #777;font-size:1px;cursor:pointer;height:18px;margin:1px;padding:6px;}
-		#ipboard_body .rte_control{cursor:pointer;border:1px solid #e4ebf2;}
-		#ipboard_body .rte_hover{background-color:#d5dde5;}
-		#ipboard_body .rte_selected{background-color:#d5dde5;border:1px solid #aeb9c5;}
-	</style>
-
-
-	<style type="text/css" media="print">
-		*{font-family:Georgia, "Times New Roman", serif;}
-		html #content{font-size:10pt;}
-		#admin_bar,#header,#footer_utilities,#utility_links,.post_mod,.author_info,.rep_bar,.post_controls,.top,#content_jump,.topic_buttons,.topic_options,h1,.post_id,h3 img,.ip,hr,.moderation_bar,.topic_jump,.topic_share,#fast_reply,#reputation_filter,.statistics{display:none;}
-		#breadcrumb{display:block!important;}
-		#breadcrumb li{float:left;}
-		.post_block{margin-bottom:25pt;border-top:2pt solid gray;line-height:60%;padding-top:10px;}
-		.posted_info{color:gray!important;font-size:8pt!important;text-decoration:none!important;border-bottom:1pt solid lightgray;padding-bottom:3px;}
-		.post_block h3{display:inline!important;margin:0!important;padding:0!important;}
-		.post_block h3 a{color:black!important;text-decoration:none!important;font-style:normal!important;}
-		.post_block .post_body a:after{content:" (" attr(href) ") ";}
-		.post_body{margin-left:10pt;line-height:100%;margin-top:15pt;}
-		h1,h2,h3{font-weight:bold;}
-		#copyright{text-align:center;color:gray;font-size:9pt;}
-	</style>
-
-
-	<style type="text/css" title="Main" media="screen">
-		table{border-spacing:0;width:100%;}
-		caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
-		address{font-style:normal;display:inline;}
-		ol,ul{list-style:none;}
-		h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
-		q:before,q:after{content:'';}
-		body{background:#dddddd;color:#5d5d5d;font:normal 13px tahoma, arial, verdana, sans-serif;position:relative;}
-		td{padding:3px;}
-		body h2{font-size:1.6em;font-weight:normal;clear:both;margin:0 0 8px;}
-		body h3{font-weight:bold;font-size:1.1em;color:#3e3e3e;padding:5px 8px 3px;}
-		a:hover{color:#2f4c89;text-decoration:underline;}
-		.warn_message{background:#8f3838;border:1px solid #5e1414;border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px;box-shadow:inset 0 0 1px #fff;-moz-box-shadow:inset 0 0 1px #fff;-webkit-box-shadow:inset 0 0 1px #fff;text-shadow:1px 1px 0 #542121;width:100%;margin-top:10px;margin-left:auto;margin-right:auto;font-size:12px;font-weight:bold;color:#fff;padding:10px 0;}
-		.row1,.row1 td,.post_block.row1{background-color:#f8f8f8;}
-		.row1 .altrow,.row1.altrow,.personal_info{background-color:#f0f0f0;}
-		.row2,.row2 td,.post_block.row2,.message{background-color:#f3f3f3;}
-		.row2 .altrow,.row2.altrow,ul.topic_moderation{background-color:#eeeeee;}
-		#index_stats .hentry,.row1 td,.row2 td,#help_topics li{border-bottom:1px solid #dfdfdf;border-top:1px solid #fff;}
-		.row1,.row1 td,.post_block.row1,.row1 .altrow,.row1.altrow,.personal_info,.row2,.row2 td,.post_block.row2,.message{background-image:url(http://dup.tem.94.sefcdn.net/clean/row_bg.png);background-repeat:repeat-x;background-position:0 100%;}
-		.moderated,body .moderated td,.moderated td.altrow,.post_block.moderated,body td.moderated,body td.moderated{background-color:#f2e4e7;}
-		.moderated,.moderated a{color:#6f3642;}
-		body .maintitle{background:#4e6a97 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x left 50%;color:#fff;border:1px solid #46618d;border-bottom:0;text-shadow:#334562 0 -1px 0;font-size:14px;font-weight:bold;-moz-border-radius:5px 5px 0 0;-webkit-border-top-left-radius:5px;-webkit-border-top-right-radius:5px;overflow:hidden;line-height:18px;margin:0!important;padding:8px!important;}
-		ul.post_controls,div.post_controls{background-color:#e6e6e6;}
-		.bar{background:#d5dde5 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 50%;}
-		.altbar{background:#3a3a3a url(http://dup.tem.94.sefcdn.net/clean/shade.png) repeat-x bottom;color:#fff;}
-		.header{background:#343434 url(http://dup.tem.94.sefcdn.net/clean/shade.png) repeat-x bottom;color:#fff;}
-		.header th{border-bottom:1px solid #2c2c2c;}
-		.general_box{background-color:#f3f3f3;border:1px solid #4e6a97;border-bottom:4px solid #4e6a97;padding:10px;}
-		.general_box h3{background:#4e6a97;color:#fff;font-size:1em;border:0;margin:-10px -10px 6px;padding:5px;}
-		.post_block{background:#fafbfc;border-bottom:6px solid #4e6a97;position:relative;}
-		.post_block h3{background:#d9d9d9 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 0 50%;border-bottom:1px solid #d0d0d0;padding:8px;}
-		div.post_form fieldset{background-color:#f1f4f7;padding-bottom:15px;}
-		.date,.poll_question .votes{color:#a9a9a9;font-size:.8em;}
-		.views,.topic_date,.topic_date a:link,.topic_date a:visited,.topic_date a:hover,.topic_date a:active{color:#898989!important;}
-		.no_messages{background-color:#f6f8fa;color:#1c2837;padding:25px 30px;}
-		.tab_bar{background-color:#d5dde5;color:#4e6a97;font-size:.9em;-moz-border-radius:6px 6px 0 0;-webkit-border-top-left-radius:6px;-webkit-border-top-right-radius:6px;padding:7px 15px 30px;}
-		.tab_bar li.active{background-color:#3a3a3a;font-weight:bold;-moz-border-radius:3px 3px 0 0;-webkit-border-top-left-radius:3px;-webkit-border-top-right-radius:3px;}
-		.tab_bar.no_title.mini,.tab_bar.no_title{border-bottom:8px solid #3a3a3a;}
-		.filter_bar{background-color:#3a3a3a;color:#fff;font-size:.8em;text-align:center;margin:6px 0 0;padding:6px;}
-		.moderation_bar{background:#d5dde5;text-align:right;margin:10px 0 0;padding:6px 10px;}
-		.comment_wrap .comment.by_author,.comment_wrap .comment.by_author.row1{background:#f2f8f5;border-top:1px solid #4e6a97;border-bottom:1px solid #4e6a97;}
-		.comment_wrap .comment{border-bottom:1px solid #d5dde5;line-height:150%;padding:5px;}
-		.topic_prefix{background-color:#528f6c;color:#fff;font-size:.8em;font-weight:bold;-moz-border-radius:3px;-webkit-border-radius:3px;float:left;display:block;padding:0 4px;}
-		.sidebar_toggle{background-color:#4e6a97;line-height:1px;float:right;position:relative;-moz-outline:0;-moz-border-radius:3px 0 0 3px;-webkit-border-top-left-radius:3px;-webkit-border-bottom-left-radius:3px;margin:5px -17px 0 0;padding:5px 3px;}
-		.ipbmenu_content,.ipb_autocomplete{background-color:#eef3f8;border:1px solid #d5dde5;font-size:.9em;min-width:85px;z-index:2000;padding:5px;}
-		.ipbmenu_content li,.ipb_autocomplete li{border-bottom:1px solid #d5dde5;padding:5px;}
-		.ipb_autocomplete li.active{background:#d5dde5;}
-		.ipbmenu_content,.ipb_smartsearch{background-color:#eef3f8;border:1px solid #d5dde5;font-size:.9em;min-width:85px;z-index:2000;padding:5px;}
-		.ipbmenu_content li,.ipb_smartsearch li{border-bottom:1px solid #d5dde5;padding:5px;}
-		.ipb_smartsearch li:hover{background:#d5dde5;}
-		.input_submit{background:#4e6a97 url(http://dup.tem.94.sefcdn.net/clean/highlight.png) repeat-x 0 0;color:#fff;white-space:nowrap;font-weight:bold;font-size:.85em;text-decoration:none;overflow:visible;cursor:pointer;-moz-border-radius:2px;-webkit-border-radius:2px;border-color:#425b83;border-style:solid;border-width:1px;padding:3px 9px;}
-		.input_submit:hover{background-color:#5976a4;color:#fff;}
-		.input_submit.alt{background-color:#e4ebf2;color:#4e6a97;text-decoration:none;border-color:#bfcbd8;}
-		.input_submit.alt:hover{background-color:#eef3f8;color:#4e6a97;}
-		input.search_input{background-image:url(http://dup.tem.94.sefcdn.net/clean/search_input.png);background-repeat:no-repeat;background-position:5px 50%;padding-left:25px;}
-		body#ipboard_body fieldset.submit,body#ipboard_body p.submit{background-color:#d5dde5;text-align:center;padding:15px 6px;}
-		h1,#content_jump{text-indent:-9999px;height:0;width:0;}
-		#branding{background:#2b2b2b;height:80px;border-bottom:1px solid #1a1a1a;}
-		#admin_bar{background:#2e2e2e url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 50%;border-bottom:1px solid #252525;color:#d2d2d2;font-size:.8em;height:14px;padding:7px;}
-		#admin_bar li{color:#767676;padding:0 3px 0 5px;}
-		#admin_bar li.active,#admin_bar li.active a{color:#e74242;}
-		#primary_nav{background:#d9d9d9 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x left 50%;font-size:.95em;height:35px;border-top:1px solid #cecece;border-bottom:1px solid #334562;font-family:Tahoma, Arial, Helvetica, sans-serif;}
-		#primary_nav ul{border-right:1px solid #e9e9e9;border-left:1px solid #cecece;float:left;margin-left:10px;height:100%;}
-		#primary_nav ul li,#primary_nav ul li a{color:#4e6a97;text-decoration:none;}
-		#primary_nav ul li a{display:block;line-height:35px;border-left:1px solid #e9e9e9;border-right:1px solid #cecece;padding:0 10px;}
-		#primary_nav ul li a:hover{background:#d0d0d0 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x left 50%;color:#4e6a97;}
-		#primary_nav ul li{font-size:.95em;float:left;display:block;font-weight:bold;}
-		#primary_nav ul li.active{font-size:1.05em;font-weight:bold;margin-top:-1px;position:relative;padding:0;}
-		#primary_nav ul li.active a:link,#primary_nav ul li.active a:visited,#primary_nav ul li.active a:hover,#primary_nav ul li.active a:active{background:#4e6a97 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x left 50%;display:block;border:1px solid #334562;border-top:1px solid #b6c3d7;border-bottom:0;line-height:36px;color:#fff;padding:0 15px;}
-		#user_bar_container{background:#2e2e2e url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 50%;border-bottom:1px solid #252525;border-top:1px solid #777777;color:#d2d2d2;font-size:.9em;min-height:30px;}
-		#user_navigation{font-size:.9em;position:relative;z-index:9998;float:left;}
-		#user_navigation .photo{border:1px solid #252525;height:20px;vertical-align:middle;-ms-interpolation-mode:bicubic;margin:-3px 4px 0 -3px;}
-		#user_info{margin-left:60px;margin-right:15px;}
-		#user_navigation p{color:#d9e3ed;margin-top:6px;white-space:nowrap;}
-		#user_navigation p a{color:#a1bad3;}
-		#user_navigation #new_msg_count{background:#528f6c;border:1px solid #39644b;font-weight:bold;font-size:.9em;top:-3px;left:22px;line-height:normal;position:absolute;-moz-border-radius:3px;-webkit-border-radius:3px;padding:3px 7px;}
-		#user_navigation ul#user_other li{float:left;padding:0 4px;}
-		#user_navigation ul#user_link_menucontent{background:#2e2e2e;border:1px solid #252525;margin-top:1px;margin-left:-139px;width:170px;float:right;z-index:10000;}
-		#user_navigation ul#user_link_menucontent li{float:none;}
-		#user_navigation ul#user_link_menucontent a{color:#fff;text-decoration:none;display:block;padding:7px 5px 7px 15px;}
-		#user_navigation ul#user_link_menucontent a:hover{background:#393939;}
-		#user_navigation #user_link{-moz-outline:0;position:relative;}
-		#user_links a{display:block;float:left;line-height:30px;text-decoration:none;color:#fff;font-weight:bold;outline:none;padding:0 10px;}
-		#user_links a:hover{background:#393939 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 0 50%;}
-		#search{color:#4e6a97;float:right;padding-top:5px;padding-right:10px;}
-		#search .submit_input{border:0;background:transparent;cursor:pointer;font-weight:bold;overflow:visible;font-family:Tahoma, Arial, Helvetica, sans-serif;color:#fff!important;margin:0;padding:3px 10px;}
-		#search input#main_search{border:0;-moz-border-radius:3px;-webkit-border-radius:3px;color:#a3a3a3;font-weight:bold;background:#fff url(http://dup.tem.94.sefcdn.net/clean/search_icon.png) no-repeat 3px 50%;margin:0;padding:4px 3px 4px 20px;}
-		#search label,#search input,#search #adv_search{float:left;font-size:.9em;}
-		#secondary_nav{color:#fff;font-size:.9em;clear:both;font-weight:bold;background:#4e6a97 url(http://dup.tem.94.sefcdn.net/clean/shade.png) repeat-x bottom;border-bottom:1px solid #334562;min-height:16px;padding:8px 15px;}
-		#secondary_nav li{padding-right:7px;float:left;}
-		#section_links li{float:left;padding:0 7px;}
-		#section_links a{text-decoration:none;font-weight:bold;}
-		#section_links #rss_menu li{display:block;float:none;padding:0;}
-		#rss_menu{background-color:#ffdfbe;border:1px solid #ff7600;width:200px;display:block;z-index:9999;padding:1px;}
-		#rss_menu a{display:block;color:#ff7600;padding:3px;}
-		#rss_menu a:hover{background-color:#ff7600;color:#fff;text-decoration:none;}
-		#pm_notification{background:url(http://dup.tem.94.sefcdn.net/clean/trans_bg.png);color:#515151;width:60%;position:absolute;z-index:2000;margin:0 20%;padding:0;}
-		#pm_notification #pm_wrap{background:#f3f3f3;margin:0 6px 6px;padding:18px 0 30px;}
-		#pm_notification .photo{float:left;margin:0 15px;}
-		#pm_notification h2{font-size:1.5em;clear:none;color:#1c2837;margin:0 0 0 85px;}
-		#pm_notification p{margin:10px auto 0 95px;}
-		#pm_notification .ok_thanks{text-align:center;clear:both;padding:6px;}
-		#board_footer{color:#fff;font-size:.85em;border-top:1px solid #657da4;background:#4e6a97;clear:both;margin:0;padding:8px;}
-		#board_footer ul#utility_links li{float:left;padding-right:8px;}
-		#footer_utilities{background:#3a3a3a url(http://dup.tem.94.sefcdn.net/clean/shade.png) repeat-x bottom;color:#fff;font-size:.8em;padding:4px 15px;}
-		#footer_utilities form{margin:3px 0 0;}
-		#footer_utilities ul{margin:0;padding:2px 0;}
-		#footer_utilities li{float:right;padding:0 8px 4px;}
-		#content{clear:both;background:#f8f8f8;border:1px solid #cbcbcb;border-top:0;-moz-border-radius:0 0 5px 5px;-webkit-border-bottom-left-radius:5px;-webkit-border-bottom-right-radius:5px;height:100%;margin:0 10px 10px;padding:10px 17px 5px;}
-		#ajax_loading{background-color:#1a1a1a;color:#fff;text-align:center;width:8%;top:48%;left:46%;-moz-border-radius:5px;-webkit-border-radius:5px;z-index:10000;position:fixed;opacity:0.8;filter:alpha(opacity=80);padding:5px;}
-		#ipboard_body.redirector{width:500px;margin:150px auto 0;}
-		#redirect{background:#f8f8f8;border:1px solid #b8b8b8;-moz-border-radius:5px;-webkit-border-radius:5px;padding:10px;}
-		#redirect h2{background:url(http://dup.tem.94.sefcdn.net/clean/information.png) no-repeat 0 6px;padding-left:22px;}
-		#redirect div{border-top:1px dotted #b8b8b8;padding-top:10px;margin-top:10px;}
-		.topic_options,.generic_bar,.tab_filters{color:#3e3e3e;font-size:.85em;font-weight:bold;height:33px;}
-		.generic_bar,.tab_filters{background:#3a3a3a;}
-		.tab_filters{background:#3a3a3a;color:#fff;padding:0 10px;}
-		.topic_options{background:#d5dee5;color:#4e6a97;}
-		.topic_options li{float:right;padding:10px;}
-		#index_stats .general_box{margin-bottom:10px;overflow:hidden;}
-		.general_box.alt h3{margin:0 0 8px;}
-		.general_box .block_list{font-size:.9em;margin:-10px 0;}
-		.general_box .block_list li{margin:0 -10px;padding:6px;}
-		.progress_bar{background-color:#fff;border:1px solid #d5dde5;}
-		.progress_bar span{background:#3a3a3a url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x left 50%;color:#fff;font-size:0;font-weight:bold;text-align:center;text-indent:-2000em;height:10px;display:block;overflow:hidden;}
-		.progress_bar.limit span{background:#b82929 url(http://dup.tem.94.sefcdn.net/clean/progressbar_warning.png) repeat-x center;}
-		.progress_bar.user_warn{width:80%;margin:0 auto;}
-		.progress_bar.user_warn span{height:6px;}
-		.progress_bar.topic_poll{border:1px solid #d5dde5;margin-top:2px;width:40%;}
-		.resized_img img{margin-bottom:5px;border-color:#777;border-style:solid;border-width:3px 3px 6px;}
-		.resized_img span{background:#777;color:#fff;font-size:11px;padding:4px 8px;}
-		img.my_award{width:27px; height:27px}
-		li.rating a{-moz-outline:0;}
-		.antispam_img{margin-left:215px;margin-bottom:3px;}
-		.tagList{list-style-type:none;margin:0;padding:0;}
-		li.level2{font-size:14px;}
-		li.level3{font-size:16px;}
-		li.level4{font-size:18px;}
-		li.level5{font-size:20px;}
-		li.level6{font-size:22px;}
-		#updates_ticker{font-size:14px;color:#656565;background:#EEE;border:1px solid #BCBCBC;margin:0 0 10px 0;}
-		#updates_ticker > div{position:relative;margin:0 15px;padding:10px 0;}
-		#updates_ticker ul{position:absolute;top:10px;left:50px;}
-		#updates_ticker ul li{position:absolute;min-width:400px;white-space:nowrap;top:0;margin-left:25px;}
-		#updates_ticker .date{color:#8b8b8b;font-size:14px;}
-		#updates_ticker a{font-size:14px;text-decoration:none;}
-		.getting_started{color:#656565;background:#EEE;border:1px solid #BCBCBC;margin:0px;padding:15px 30px 10px 10px;}
-		span.error{color:#ad2930;font-weight:bold;clear:both;}
-		.maintitle .desc{font-size:.7em;color:#b6c7db;}
-		.margint{margin-top:5px;}
-		.marginr{margin-right:5px;}
-		.marginb{margin-bottom:5px;}
-		.bullets ul,.bullets ol,ul.bullets,ol.bullets{list-style:disc;margin-left:30px;line-height:150%;list-style-image:none;}
-		#user_navigation #new_msg_count,.message,.paynotify,.popupWrapper,.poll_question h4,.reputation,.smartinfo,.rounded{-moz-border-radius:4px;-webkit-border-radius:4px;}
-		.desc,p.posted_info,.warn_panel strong{font-size:.8em;color:#606060;}
-		.cancel,a.cancel:link,a.cancel:visited,a.cancel:hover,a.cancel:active{color:#ad2930;font-size:.9em;font-weight:bold;}
-		h2.maintitle{font-size:14px!important;}
-		.photo{border:1px solid #d8d8d8;}
-		em.moderated{background:transparent;font-size:.8em;font-weight:bold;margin-top:8px;display:block;clear:both;}
-		.positive{color:#6f8f52;}
-		.negative{color:#c7172b;}
-		.clickable{cursor:pointer;}
-		.clear{clear:both;}
-		.clearfix,.stats_list{overflow:auto;}
-		.block_wrap{margin-bottom:10px;padding:5px 0;}
-		.searchlite{background-color:#4e6a97;color:#fff;font-size:14px;}
-		.col_m_replies{width:5%;}
-		.col_f_topic,.col_m_subject{width:49%;}
-		.col_f_views,.col_f_starter,.col_r_total,.col_r_comments{width:10%;}
-		.col_f_post,.col_m_date,.col_r_updated,.col_r_section{width:25%;}
-		.col_c_post{width:30%;}
-		.col_c_forum{width:55%;}
-		.col_r_title{width:26%;}
-		table.ipb_table{line-height:120%;}
-		table.ipb_table caption span.desc{font-size:.6em;}
-		table.ipb_table h4,table.ipb_table .topic_title{font-size:1.1em;display:inline;}
-		table.ipb_table th,div#current_calendar ol#week_view li.month_bar{font-size:.85em;font-weight:bold;padding:6px;}
-		table.ipb_table ol.subforums{padding-top:6px;margin-top:5px;}
-		table.ipb_table ol.subforums li{background:transparent url(http://dup.tem.94.sefcdn.net/clean/bullet_black.png) no-repeat 3px 4px;color:#606060;font-size:.85em;float:left;padding:0 4px 0 15px;}
-		table.ipb_table ol.subforums li.newposts{background:transparent url(http://dup.tem.94.sefcdn.net/clean/bullet_green.png) no-repeat 0 0;color:#606060;font-size:.85em;float:left;padding:0 4px 0 16px;}
-		table.ipb_table tr.announcement td{font-weight:bold;font-size:1.1em;}
-		table.ipb_table tr.subhead th{font-weight:bold;font-size:1.1em;padding:8px;}
-		table.ipb_table ul li{font-size:.95em;}
-		input,textarea,select{font-family:Arial, Verdana, Tahoma, sans-serif;}
-		.input_text{background:#fff url(http://dup.tem.94.sefcdn.net/clean/input_text.png) repeat-x;font-size:.9em;font-family:arial, verdana, tahoma, sans-serif;border:1px solid #bfcbd8;padding:4px;}
-		.input_text.error{background-color:#f3dddd;}
-		.input_text.accept{background-color:#d0e2bf;}
-		.input_text.email,.input_text.password{width:18em;}
-		input.search_input,.input_text.search_input{background:#fff url(http://dup.tem.94.sefcdn.net/clean/search_input.png) no-repeat 4px 50%;padding-left:24px;-moz-border-radius:2px;-webkit-border-radius:2px;}
-		.input_text:focus,.input_text.error:focus,.input_text.accept:focus,.input_text.email:focus,.input_text.password:focus,.search_input:focus,.input_text.search_input:focus{-moz-box-shadow:0 0 7px #007ebf;-webkit-box-shadow:0 0 7px #007ebf;box-shadow:0 0 7px #007ebf;border:1px solid #007ebf;}
-		p.field{padding:15px;}
-		li.field{margin-left:27px;padding:5px;}
-		li.field.error{color:#ad2930;}
-		li.field.checkbox .input_check,li.field.checkbox .input_radio{margin-right:10px;vertical-align:middle;}
-		li.field.checkbox label{width:auto;float:none;display:inline;}
-		li.field.checkbox span.desc{padding-left:27px;margin-left:auto;display:block;}
-		.message{background:#d0e2bf url(http://dup.tem.94.sefcdn.net/clean/information.png) no-repeat 8px 10px;border:1px solid #b0ce94;color:#3e4934;line-height:150%;padding:10px 10px 10px 30px;}
-		.paynotify{border:1px solid #b0ce94;color:#3e4934;line-height:150%;padding:10px;}
-		.message h3{color:#323232;padding:0;}
-		.message.error{background-color:#f3dddd;background-image:url(http://dup.tem.94.sefcdn.net/clean/exclamation.png);color:#281b1b;font-size:1.1em;border-color:#deb7b7;}
-		.message.unspecific{background-color:#f3f3f3;color:#515151;clear:both;border-color:#d4d4d4;margin:0 0 10px;}
-		.message.user_status{background:#f9f7e0;color:#6c6141;font-size:1em;border:1px solid #eadca0;margin-bottom:10px;padding:5px 5px 5px 15px;}
-		.message.user_status.in_profile{font-size:1.2em;position:relative;padding-left:15px;overflow:auto;}
-		.message.user_status #update_status{background:#3a3a3a;font-size:.8em;font-weight:bold;margin-left:10px;-moz-border-radius:2px;-webkit-border-radius:2px;padding:3px 8px;}
-		.message.user_status .cancel{font-size:.75em;}
-		.ipbmenu_content li:last-child{border-bottom:0;padding-bottom:0;}
-		.ipbmenu_content li:first-child{padding-top:0;}
-		.popupWrapper{background:url(http://dup.tem.94.sefcdn.net/clean/trans_bg.png);color:#fff;}
-		.popupInner{background:#fff;color:#000;border:3px solid #d5dde5;-moz-border-radius:4px;-webkit-border-radius:4px;width:500px;overflow:auto;margin:6px;}
-		.popupInner h3{background-color:#dae4ed;font-size:1em;border:0;padding-left:24px;}
-		.popupClose{position:absolute;left:12px;top:12px;}
-		.popup_footer{position:absolute;bottom:0;right:0;padding:15px;}
-		.stem{width:31px;height:16px;position:absolute;}
-		.stem.topleft{background-image:url(http://dup.tem.94.sefcdn.net/clean/stems/topleft.png);}
-		.stem.topright{background-image:url(http://dup.tem.94.sefcdn.net/clean/stems/topright.png);}
-		.stem.bottomleft{background-image:url(http://dup.tem.94.sefcdn.net/clean/stems/bottomleft.png);}
-		.stem.bottomright{background-image:url(http://dup.tem.94.sefcdn.net/clean/stems/bottomright.png);}
-		.modal{background-color:#3e3e3e;}
-		.userpopup{padding-bottom:25px;overflow:hidden;position:relative;font-size:.9em;}
-		.userpopup h3{font-size:1.2em;}
-		.userpopup dl{border-bottom:1px solid #d4d4d4;padding-bottom:10px;margin-bottom:4px;}
-		.userpopup .photo{top:0;right:0;position:absolute;}
-		.userpopup .user_controls{left:10px;position:absolute;}
-		.userpopup .reputation{right:4px;position:absolute;}
-		.info dt{float:left;font-weight:bold;clear:both;width:30%;padding:3px 6px;}
-		.info dd{width:60%;margin-left:35%;padding:3px 6px;}
-		.topic_controls{min-height:38px;}
-		.topic_buttons li{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button.png) no-repeat top left;float:right;font-weight:bold;margin:0 0 5px 3px;padding:0;}
-		.topic_buttons li a,.topic_buttons li span{font-size:.9em;display:block;-moz-outline:0;color:#fff;text-decoration:none;margin:auto 0 auto 6px;}
-		.topic_buttons li span{padding:9px 12px 10px 3px;}
-		.topic_buttons li a{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button.png) no-repeat top right;padding:9px 12px 10px 3px;}
-		.topic_buttons li a img,.topic_buttons li span img{margin:-1px 5px 1px 0;}
-		.topic_buttons li a img.arrow{margin-right:-3px;}
-		.topic_buttons li:hover{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button_hover.png) no-repeat top left;}
-		.topic_buttons li:hover a{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button_hover.png) no-repeat top right;}
-		.topic_buttons li.disabled{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button_disabled.png) no-repeat top left;}
-		.topic_buttons li.disabled span{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button_disabled.png) no-repeat top right;color:#ededed;}
-		.topic_buttons li.closed{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button_closed.png) no-repeat top left;}
-		.topic_buttons li.closed span,.topic_buttons li.closed a{background:transparent url(http://dup.tem.94.sefcdn.net/clean/topic_button_closed.png) no-repeat top right;}
-		ul.post_controls{background:inherit url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 50%;font-size:.8em;text-align:right;clear:both;border-top:1px solid #dadada;padding:6px 10px 28px 6px;}
-		ul.post_controls li{background:transparent url(http://dup.tem.94.sefcdn.net/clean/post_button.png) no-repeat top left;float:right;font-weight:bold;margin:0 3px;padding:0;}
-		ul.post_controls a{background:transparent url(http://dup.tem.94.sefcdn.net/clean/post_button.png) no-repeat top right;color:#e1e4e9;font-weight:bold;text-decoration:none;margin-left:4px;display:block;padding:6px 9px 6px 4px;}
-		ul.post_controls li.selected{background:transparent url(http://dup.tem.94.sefcdn.net/clean/post_button_selected.png) no-repeat top left;}
-		ul.post_controls li.selected a{background:transparent url(http://dup.tem.94.sefcdn.net/clean/post_button_selected.png) no-repeat top right;color:#fff;}
-		span.pagination.no_pages{color:#acacac;font-size:.9em;height:15px;display:block;padding:5px 10px;}
-		ul.pagination.top{margin-bottom:15px;height:18px;padding:0 0 5px;}
-		ul.pagination.bottom{margin-top:15px;height:18px;padding:5px 0 0;}
-		ul.pagination a,ul.pagination li.active,ul.pagination li.pagejump,ul.pagination li.total{text-decoration:none;display:block;font-weight:bold;color:#4e6a97;padding:4px 7px;}
-		ul.pagination li,ul.pagination li.total:hover{background:#d9d9d9 url(http://dup.tem.94.sefcdn.net/clean/page.png) repeat-x 0 50%;font-size:.9em;float:left;-moz-border-radius:3px;-webkit-border-radius:3px;margin:0 2px 0 0;}
-		table.smart_footer{background-color:#232323;font-family:tahoma;color:#f1f1ec;font-size:1.05em;padding:10px 0 40px;}
-		td.smart_block_1{width:195px;padding:10px 0 0 20px;}
-		td.smart_block_2{text-align:center;font-size:.86em;padding:0 20px 0 0;}
-		td.smart_block_3{text-align:right;width:195px;font-size:.8em;padding:0 20px 0 0;}
-		td.smart_block_4{text-align:center;width:100%;font-size:.8em;padding:10px 0 15px;}
-		td.smart_block_5{font-size:.8em;text-align:left;padding:0 0 0 20px;}
-		td.smart_block_6{font-size:.8em;text-align:center;padding:0;}
-		td.smart_block_7{font-size:.8em;text-align:right;float:right;padding:0 20px 0 0;}
-		.smart_link,.smart_link:hover,.smart_link:visited,.smart_link:active{color:#f1f1ec;text-decoration:none;}
-		.smart_line{color:#f1f1ec;width:700px;}
-		ul.pagination li:hover{background-color:#cccccc;}
-		ul.pagination li.active,ul.pagination li.active:hover{color:#fff;background-color:#4e6a97;font-weight:bold;}
-		ul.mini_pagination{font-size:.75em;display:inline;margin-left:7px;}
-		ul.mini_pagination li a{background:#4e6a97;-moz-border-radius:2px;-webkit-border-radius:2px;color:#fff;text-decoration:none;padding:3px 5px;}
-		ul.mini_pagination li a:hover{background:#2f4c89;text-decoration:none;}
-		ul.mini_pagination li{display:inline;margin:0 1px 0 0;}
-		.moderation_bar.with_action{background-image:url(http://dup.tem.94.sefcdn.net/clean/topic_mod_arrow.png);background-repeat:no-repeat;background-position:right center;padding-right:36px;}
-		#topic_mod p{font-size:.9em;padding:7px;}
-		.filter_bar select{margin-right:10px;}
-		.tab_bar.no_title.mini{background:transparent;}
-		.tab_bar li{float:left;font-weight:bold;line-height:30px;padding:0 15px;}
-		.tab_bar li a{color:#4a6784;text-decoration:none;}
-		.tab_filters a{color:#d6d6d6;text-decoration:none;font-weight:normal;}
-		.tab_filters li{color:#d6d6d6;padding:0 4px;}
-		.tab_filters li.active,.tab_filters li.active a{font-weight:bold;color:#fff;}
-		.author_info{text-align:left;font-size:.9em;border-right:1px solid #dadada;padding-top:15px;width:225px;float:left;margin:0 -1px 5px 0;}
-		.author_info ul.user_fields{border-top:1px solid #dadada;clear:both;}
-		.author_info ul.user_fields li{clear:both;font-size:.9em;overflow:hidden;border-bottom:1px solid #dadada;padding:4px 0;}
-		.author_info ul.user_fields li span.ft,.author_info ul.user_fields li span.fc{display:block;float:left;}
-		.author_info ul.user_fields li span.ft{width:38%;text-align:right;font-weight:bold;padding:0 0 0 8px;}
-		.author_info ul.user_fields li span.fc{max-width:50%;padding:0 8px;}
-		.user_controls{text-align:center;margin:6px 0;}
-		.user_controls li{display:inline;margin:0 2px;}
-		.user_controls li a{display:inline-block;background-color:#4e6a97;-moz-border-radius:4px;-webkit-border-radius:4px;color:#fff;padding:3px;}
-		.warn_panel{text-align:left;margin:0 10px;padding:0 6px 6px;}
-		.warn_panel .warn_link{padding-left:10%;text-decoration:none;}
-		.warn_panel .warn_edit.up{margin-right:10%;}
-		.rating_mode.user_warn{width:80%;font-size:.9em;margin:0 auto;}
-		.rating_mode .warn_edit.down{float:none;margin-right:3px;}
-		.rating_mode .warn_edit.up{float:none;margin-left:2px;}
-		a.toggle{background:url(http://dup.tem.94.sefcdn.net/clean/cat_minimize.png) no-repeat;text-indent:-3000em;width:28px;height:17px;line-height:1px;display:block;-moz-outline:0;margin-top:2px;}
-		#latest_news{color:#3e3e3e;font-size:.9em;border:1px solid #cbcbcb;-moz-border-radius:3px;-webkit-border-radius:3px;margin:5px 0;padding:10px;}
-		#doodles{padding:5px 0;text-align:center;color:#656565;background:#eee;font-family:tahoma;font-size:.8em;border-bottom:1px solid #BCBCBC;}
-		div#categories{width:77%;}
-		div#categories.no_sidebar{width:100%;float:none;}
-		#index_stats{padding-bottom:25px;margin-bottom:20px;margin-top:5px;width:22%;}
-		#index_stats .hentry .photo{width:25px;}
-		.sidebar_toggle img{vertical-align:top;float:left;}
-		.category_block h3.collapsed a.toggle{background-image:url(http://dup.tem.94.sefcdn.net/clean/cat_maximize.png);}
-		.statistics{margin:5px 0 0;padding:15px;}
-		.statistics h2{font-size:1.1em;font-weight:bold;}
-		.statistics h2 span{font-size:.8em;font-weight:normal;color:#898989;}
-		.statistics #active_users,.statistics #forum_active_users{border-top:0;padding-top:0;}
-		body #topic_stats.statistics{min-height:50px;}
-		body .stats_list{border-top:1px solid #d5dde5;margin-bottom:10px;float:left;width:60%;line-height:140%;overflow:hidden;padding:10px 0 0;}
-		.stats_list li,.active_users li{float:left;font-size:.9em;margin-top:4px;padding:0 5px 0 0;}
-		.stats_list span.desc{font-weight:normal;}
-		.active_users span.name{font-size:.9em;margin-top:4px;padding:0 5px 0 0;}
-		#stats{border-left:1px solid #dedede;padding-left:20px;width:33%;float:right;}
-		#stats dl{margin-left:10px;margin-top:10px;}
-		#stats dt,#stats dd{border-top:1px solid #dedede;font-size:.85em;float:left;width:45%;padding:6px 2px;}
-		#stats dt{font-weight:bold;clear:both;}
-		#stats .extra{color:#a2a2a2;font-size:.9em;}
-		#stat_links{color:#d5dde5;font-size:.85em;text-align:center!important;margin-top:25px;}
-		#stat_links li{padding:2px 6px;}
-		.friend_list ul li,#top_posters li{text-align:center;min-width:80px;height:70px;float:left;margin:5px 0 0;padding:8px 0 0;}
-		.friend_list ul li span.name,#top_posters li span.name{font-size:.8em;}
-		ul.topic_moderation{margin-top:-2px;z-index:300;}
-		ul.topic_moderation li a{display:block;float:left;padding:0 3px;}
-		span.mini_rate{margin-right:12px;display:inline-block;}
-		img.mini_rate{margin-right:-5px;}
-		#forum_legend{width:39%;}
-		#forum_legend dl{font-size:.9em;margin-top:10px;}
-		#forum_legend dt,#forum_legend dd{font-size:.9em;border-top:1px solid #dedede;height:20px;float:left;padding:3px 2px;}
-		#forum_legend dt{text-align:center;width:9%;}
-		#forum_legend dd{width:38%;max-width:200px;}
-		.message.forum_rules{margin-bottom:20px;}
-		.rules{line-height:150%;}
-		#filter_form input.input_submit{margin-left:4px;}
-		ul.topic_jump{font-size:.9em;margin:3px auto 15px;padding:5px 0;}
-		.poll h3{background:#343434 url(http://dup.tem.94.sefcdn.net/clean/gradient_bg.png) repeat-x 50%;color:#fff;}
-		body .ip{color:#475769;font-weight:normal;font-size:11px;margin-right:10px;margin-left:15px;}
-		span.post_id{font-size:11px;font-weight:normal;padding-top:2px;display:block;float:right;}
-		input.post_mod{float:right;margin:0 6px 0 15px;}
-		.signature{color:#8e8e8e;font-size:11px;border-top:1px solid #dadada;margin:5px 0 0;padding:8px;}
-		.post_block.no_sidebar{background-image:none;}
-		.post_wrap{top:0;}
-		.post_block.topic_summary h3{padding:4px;}
-		.post_block.topic_summary .posted_info{float:left;width:220px;}
-		.post_body{margin-left:225px;line-height:100%;border-left:1px solid #dadada;padding-bottom:32px;}
-		.post_body .post{line-height:150%;padding:10px;}
-		.post_ignore{background:#fafbfc;color:#777;font-size:.9em;padding:15px;}
-		.post_ignore .reputation{text-align:center;float:none;display:inline;padding:2px 6px;}
-		.rep_bar{background:#e6e6e6;border:1px solid #dadada;border-bottom:0;font-size:.8em;-moz-border-radius:5px 5px 0 0;-webkit-border-top-left-radius:5px;-webkit-border-top-right-radius:5px;right:0;bottom:34px;margin-right:6px;max-width:90px;position:absolute;padding:0 10px;}
-		.post_block.rep_highlight .rep_bar{max-width:140px;}
-		.rep_bar ul{margin-top:8px;float:left;}
-		p.posted_info{border-bottom:1px solid #dadada;color:#898989;padding:10px 7px;}
-		p.posted_info strong.event{color:#1c2837;font-size:1.2em;}
-		p.edit{background-color:#f3f3f3;color:#515151;font-size:.9em;line-height:120%;margin-top:10px;padding:10px;}
-		div.threaded_view ul ul{margin-left:-25px;}
-		div.threaded_view ul li{padding:0 0 0 25px;}
-		div.threaded_view{line-height:140%;padding:5px 0 15px;}
-		table.accountaccess {border:1px solid black;}
-		table.accountaccess td{padding:8px;}
-		.topic_share{font-size:.9em;margin:3px 0 0;padding:5px 0;}
-		.poll{border-bottom:7px solid #3e3e3e;margin-bottom:5px;}
-		.poll fieldset{padding:9px;}
-		.poll_question{margin:10px 10px 10px 20px;padding:10px;}
-		.poll_question h4{background-color:#e4ebf2;margin:0 -7px;padding:5px;}
-		.poll_question ol{background-color:#fafbfc;padding:8px;}
-		.poll_question li{font-size:.9em;margin:6px 0;}
-		.snapback{margin-right:5px;padding:1px 0 1px 1px;}
-		.maintitle .rating{font-size:11px;float:right;margin:0 0 0 15px;}
-		div.post_form label{text-align:right;padding-right:15px;width:275px;float:left;clear:both;}
-		div.post_form span.desc,fieldset#poll_wrap span.desc{margin-left:290px;display:block;clear:both;}
-		div.post_form .antispam_img{margin-left:290px;}
-		fieldset.with_subhead{margin-bottom:0;padding-bottom:0;}
-		fieldset.with_subhead h4{text-align:right;margin-top:6px;width:300px;float:left;}
-		fieldset.with_subhead ul{border-bottom:1px solid #d5dde5;padding-bottom:6px;margin:0 15px 6px 320px;}
-		fieldset.with_subhead span.desc,fieldset.with_subhead label{width:auto;margin:0;}
-		fieldset.with_subhead #post_icons{border:0;margin-left:326px;}
-		fieldset.with_subhead #post_icons li{margin-right:15px;margin-bottom:6px;float:left;}
-		#toggle_post_options{background:transparent url(http://dup.tem.94.sefcdn.net/clean/add.png) no-repeat;font-size:.9em;display:block;margin:15px;padding:2px 0 2px 22px;}
-		.post_form #poll_wrap .question .wrap{background-color:#e4ebf2;margin-left:290px;margin-right:12px;padding:10px;}
-		.post_form #poll_wrap .question .wrap ol{margin-left:25px;margin-top:16px;list-style:decimal;}
-		.post_form #poll_wrap .question .wrap input.input_check,.post_form #poll_wrap .question .wrap label,.post_form #poll_wrap .question .wrap span.desc{text-align:left;margin-left:0;display:inline;width:auto;clear:none;float:none;}
-		.post_form #poll_form #poll_stats.desc{margin-left:320px;margin-bottom:8px;}
-		.swfupload{position:absolute;z-index:1;}
-		#attachments{margin:15px;}
-		#attachments li{background-color:#e4ebf2;border:1px solid #d5dde5;margin-bottom:10px;position:relative;padding:6px 20px 6px 42px;}
-		#attachments li p.info{color:#69727b;font-size:.8em;width:300px;}
-		#attachments li.complete .links{font-size:.9em;margin-right:15px;right:0;top:12px;display:block;position:absolute;}
-		#attachments li .progress_bar{margin-right:15px;width:200px;right:0;top:15px;position:absolute;}
-		#attachments li.complete,#attachments li.in_progress,#attachments li.error{background-repeat:no-repeat;background-position:12px 12px;}
-		#attachments li.in_progress{background-image:url(http://dup.tem.94.sefcdn.net/clean/loading.gif);}
-		#attachments li.error{background-image:url(http://dup.tem.94.sefcdn.net/clean/exclamation.png);background-color:#e8caca;border:1px solid #ddafaf;}
-		#attachments li.error .info{color:#8f2d2d;}
-		#attachments li.complete{background-image:url(http://dup.tem.94.sefcdn.net/clean/accept.png);}
-		#attachments li .thumb_img{left:6px;top:6px;width:30px;height:30px;overflow:hidden;position:absolute;}
-		div.post_form fieldset.attachments span.desc{display:inline;clear:none;margin:0 0 0 15px;}
-		#attach_wrap{background:#eef3f8;margin-top:8px;padding:6px;}
-		#attach_wrap h4{font-size:1em;font-weight:bold;}
-		#attach_wrap li{float:left;margin:5px 6px;}
-		#attach_wrap .desc.info{margin-left:24px;}
-		#comment_list{margin-top:10px;}
-		.comment_wrap .comment .photo{float:left;margin:0 10px 10px 0;}
-		.comment_wrap .comment h4,.comment_wrap .posted_date,.comment_wrap .comment .comment_content{margin-left:65px;}
-		.comment_wrap .comment h4{font-size:1.1em;margin-bottom:-3px;clear:none!important;}
-		.comment_wrap .comment .comment_content{padding:10px 5px;}
-		.comment_options li{font-size:.8em;font-weight:bold;float:left;margin:0 5px;}
-		.reputation,.post_block .rep_highlight{font-weight:bold;display:block;float:right;margin:6px;padding:3px 8px;}
-		.reputation.positive,.members li.positive{background:#6f8f52;color:#fff;}
-		.reputation.negative,.members li.negative{background:#b82929;color:#fff;}
-		.reputation.normalitive,.members li.normalitive{background:#ad9114;color:#fff;}
-		.reputation.zero{background:#dedede;color:#6e6e6e;}
-		.smartinfo{font-weight:bold;display:block;float:right;margin-right:6px;margin-top:-1px;padding:3px 8px;font-weight:normal;font-size:11px;}
-		.smartinfo.positive{background:#6f8f52;color:#fff;}
-		.smartinfo.negative{background:#b82929;color:#fff;}
-		.smartinfo.normalitive{background:#ad9114;color:#fff;}
-		.smartinfo a{color:#fff;text-decoration:none;}
-		.smartinfo.last{margin-right:0;}
-		body .post_block .rep_highlight{font-size:1.1em;float:left;}
-		#lightbox{position:absolute;left:0;width:100%;z-index:16000!important;text-align:center;line-height:0;}
-		#lightbox img{width:auto;height:auto;}
-		#lightbox a img{border:none;}
-		#outerImageContainer{position:relative;background-color:#fff;width:250px;height:250px;margin:0 auto;}
-		#loading{position:absolute;top:40%;left:0;height:25%;width:100%;text-align:center;line-height:0;}
-		#hoverNav{position:absolute;top:0;left:0;height:100%;width:100%;z-index:10;}
-		#imageContainer>#hoverNav{left:0;}
-		#hoverNav a{outline:none;}
-		#prevLink,#nextLink{width:49%;height:100%;background-image:url(data:image/gif;base64,AAAA);display:block;}
-		#prevLink{left:0;float:left;}
-		#nextLink{right:0;float:right;}
-		#prevLink:hover,#prevLink:visited:hover{background:url(http://dup.tem.94.sefcdn.net/clean/lightbox/prevlabel.gif) left 15% no-repeat;}
-		#nextLink:hover,#nextLink:visited:hover{background:url(http://dup.tem.94.sefcdn.net/clean/lightbox/nextlabel.gif) right 15% no-repeat;}
-		#imageDataContainer{font:10px Verdana, Helvetica, sans-serif;background-color:#fff;line-height:1.4em;overflow:auto;width:100%;margin:0 auto;}
-		#imageData{color:#666;padding:0 10px;}
-		#imageData #imageDetails{width:70%;float:left;text-align:left;}
-		#imageData #numberDisplay{display:block;clear:left;padding-bottom:1em;}
-		#imageData #bottomNavClose{width:66px;float:right;padding-bottom:.7em;outline:none;}
-		#overlay{position:absolute;top:0;left:0;z-index:15000!important;width:100%;height:500px;background-color:#000;}
-		strong.bbc{font-weight:bold!important;}
-		em.bbc{font-style:italic!important;}
-		span.bbc_underline{text-decoration:underline!important;}
-		div.bbc_indent{margin-left:50px;}
-		del.bbc{text-decoration:line-through!important;}
-		ul.bbc{list-style:disc outside;margin-left:30px;}
-		ul.bbc ul.bbc{list-style-type:circle;}
-		ul.bbc ul.bbc ul.bbc{list-style-type:square;}
-		ul.bbcol.decimal{margin-left:30px;list-style-type:decimal;}
-		ul.bbcol.lower-alpha{margin-left:30px;list-style-type:lower-alpha;}
-		ul.bbcol.upper-alpha{margin-left:30px;list-style-type:upper-alpha;}
-		ul.bbcol.lower-roman{margin-left:30px;list-style-type:lower-roman;}
-		ul.bbcol.upper-roman{margin-left:30px;list-style-type:upper-roman;}
-		hr.bbc{display:block;border-top:2px solid #777;}
-		div.bbc_spoiler_wrapper{border:1px inset #777;padding:4px;}
-		input.bbc_spoiler_show{width:45px;font-size:.7em;margin:0;padding:0;}
-		pre.prettyprint{background:#f8f8f8;border:1px solid #c9c9c9;overflow:auto;font-size:11px;line-height:140%;padding:5px;}
-		p.citation{background:#d3e9dc url(http://dup.tem.94.sefcdn.net/clean/citation_bg.png) no-repeat right;color:#2b3730;font-size:.9em;font-weight:bold;border-color:#6fa987;border-style:solid;border-width:1px 1px 0 3px;padding:5px 8px;}
-		div.blockquote{background:#f3f9f6;font-size:.9em;border-color:#6fa987;border-style:solid;border-width:1px 1px 1px 3px;margin:0;}
-		div.blockquote div.blockquote{font-size:1em;margin:0 15px;}
-		div.blockquote p.citation{font-size:1em;margin:6px 15px 0;}
-		div.quote{padding:12px;}
-		div.quote p.blockquote{margin-left:-12px;}
-		cite{display:block;font-weight:bold;}
-		#help_topics li{background-image:url(http://dup.tem.94.sefcdn.net/clean/help.png);background-repeat:no-repeat;background-position:9px 12px;margin-bottom:2px;padding:10px 32px;}
-		#help_topics li h3{padding:2px 0 0;}
-		#help_topics .help_doc ul,#help_topics .help_doc ol{padding:8px 0;}
-		#help_topics .help_doc li{background:none;padding:2px;}
-		#index_stats.portal{margin-top:0;}
-		#portal_articles{width:76%;margin-right:2%;}
-		#portal_active_users ul,#portal_active_users li{float:left;padding:3px;}
-		#stats_div{height:1px;overflow:hidden;margin-top:-1px;}
-		#help_topics,.help_doc,.border{border:1px solid #4e6a97;}
-		body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,.moderation_bar .moderation_bar{margin:0;padding:0;}
-		fieldset,img,abbr,acronym,#portal_articles .post_body{border:0;}
-		caption,th,#topic_mod #forum_mod_options_menucontent,.post_form #poll_wrap .question ul.post_controls,div.bbc_left{text-align:left;}
-		hr,.generic_bar,.progress_bar span span,.hide,#attachments li .links,#attachments li.error .links,#attachments.traditional .progress_bar{display:none;}
-		h3,h4,h5,h6,strong,li.field.error label,.post_block address,.post_form .question_title,#imageData #caption,div.bbc_spoiler span,.unread_topic{font-weight:bold;}
-		em,.activeuserposting,div.threaded_view .post_title{font-style:italic;}
-		img,.input_check,.input_radio,#user_links img.user_arrow,#section_links img{vertical-align:middle;}
-		h3 img,ul.post_controls a img,.maintitle .rating img{margin-top:-2px;}
-		h3 a,.topic_options a,.general_box a,table.ipb_table a,.ipbmenu_content a,body .topic_buttons li a:hover,body ul.post_controls a:hover,#latest_news a,.comment_wrap .comment h4 a{text-decoration:none;}
-		a,body .topic_options a{color:#4e6a97;}
-		body .maintitle a,body .ipb_table .header a,.general_box h3 a,#board_footer a,ul.post_controls a:hover,.poll h3 span.desc{color:#fff;}
-		.filter_bar a,.filter_bar label,#user_navigation ul a,#footer_utilities ul li:first-child,#forum_table .maintitle .desc a{color:#d5dde5;}
-		img.rate_img{width:12px;height:11px;}
-		#header,.userpopup .info{position:relative;}
-		#user_navigation ul,.author_info .title,#comment_innerwrap .no-form{margin-top:4px;}
-		#user_navigation ul#user_other,.marginl,.poll_question .votes{margin-left:5px;}
-		#user_navigation.not_logged_in,blockquote cite{font-size:1em;}
-		#user_links,#user_links a.ipbmenu{height:30px;}
-		#secondary_nav a,#admin_bar a,#stat_links a,.message.user_status #update_status,table.ipb_table th a,.message.user_status #update_status,.tab_bar li.active,.tab_bar li.active a,.members li.positive a,.members li.negative a,#footer_utilities a,a.input_submit:hover{color:#fff;text-decoration:none;}
-		#secondary_nav a:hover,#section_links a:hover,table.ipb_table a:hover,body table.ipb_table th a{text-decoration:underline;}
-		#section_links,body table.ipb_table tr td p{font-size:.9em;}
-		#board_footer p,div.bbc_right{text-align:right;}
-		.general_box.alt,.nopadding{padding:0;}
-		img.resized,li.field label,li.field span.desc,.filter_bar span.clickable,.comment_wrap .posted_date{display:block;}
-		.tagList li,#admin_bar ul,#admin_bar li,#stat_links li,.tab_filters ul,.tab_filters li,fieldset.with_subhead span.desc,fieldset.with_subhead label,.user_controls li{display:inline;}
-		li.level1,textarea{font-size:12px;}
-		.padding,table.ipb_table tr td,.userpopup > div,#hook_watched_items ul li,body#ipboard_body #hook_watched_items fieldset.submit{padding:8px;}
-		.margin,.post_form #poll_wrap .question .wrap ol li{margin:5px;}
-		.right,.warn_panel .warn_edit,#forum_table .maintitle .desc,.comment_options{float:right;}
-		.left,ul.post_controls li.report,ul.post_controls li.top,ul.post_controls.left li,ul.topic_moderation li,#forum_table .maintitle .main_forum_title,.main_forum_title,.rep_bar ul li,.topic .main_topic_title,div.post_form .captcha .input_text,.post_form #poll_form .topic_buttons li,.post_form #poll_form .post_controls li{float:left;}
-		.short,table.ipb_table tr .stats,.author_info li.avatar,.author_info li.group_icon,.author_info li.title,div.bbc_center{text-align:center;}
-		.col_f_icon,.col_f_picon,.col_c_icon,.col_m_status,.col_r_icon,.col_mod,.col_f_mod,.col_r_mod{width:3%;}
-		.col_m_to,.col_m_from,.col_c_stats{width:15%;}
-		li.field.checkbox,.post_block.no_sidebar .post_body,fieldset.with_subhead .checkbox input.input_check{margin-left:0;}
-		.popup_body,.post_block.topic_summary .post_body .post,#imageContainer,.help_doc{padding:10px;}
-		.tab_filters ul,h3.topic_share{padding-top:10px;}
-		.author_info.no_rep,#portal_active_users ul{margin-bottom:15px;}
-		span.smartbox{margin: -2px 0px 0px 0px;padding: 2px 5px;}
-		.stats_list ul,.stats_list p,.active_users p,fieldset.attachments .input_submit,fieldset.attachments .swfupload,fieldset.attachments .input_upload{margin-left:15px;}
-		ul.topic_jump li a,.topic_share a:link,.topic_share a:visited,.topic_share a:hover,.topic_share a:active{color:#4e6a97;background:#d9d9d9 url(http://dup.tem.94.sefcdn.net/clean/page.png) repeat-x 0 50%;line-height:200%;-moz-border-radius:3px;-webkit-border-radius:3px;text-decoration:none;padding:3px 6px;}
-		ul.topic_jump li a:hover,.topic_share a:hover{background-color:#cccccc;text-decoration:none;}
-		div.post_form .checkbox input.input_check,#mod_form .checkbox input.input_check,.post_form #poll_form .topic_buttons{margin-left:315px;}
-		div.post_form h3,.post_form #poll_wrap .question{margin-bottom:10px;}
-		ul.topic_jump li,.topic_share li{float:left;margin:0 1px;padding:0;}
-	</style>
-
-
-	<style type="text/css" title="Main" media="screen">
-		#category_shoutbox.maintitle{height:22px;}
-		.shoutbox_time{color:gray;}
-		.shoutbox_disabled{font-style:italic;color:red;}
-		.shoutbox_emol{width:40%;}
-		.shoutbox_emor{width:60%;}
-		#shoutbox-smilies-button_menucontent{border:1px solid;height:320px;width:200px;overflow:auto;}
-		#shoutbox-smilies-button_menucontent table{border-bottom:0;}
-		#shoutbox_sidebar.general_box{padding:10px 0;}
-		#shoutbox_sidebar.general_box h3{padding:5px 15px;}
-		#shoutbox_sidebar table.ipb_table.shoutbox_table{border-bottom:0;margin:-5px 0;}
-		.sidebar_shout{border-bottom:1px solid #d5dde5;padding:0;}
-		.sidebar_shout_div{border-bottom:1px dashed #d5dde5;padding:5px;}
-		#shoutbox_sidebar .shoutbox_time{color:gray;font-size:.8em;}
-		table.shoutbox_table tr td,#shoutbox_sidebar table.ipb_table.shoutbox_table tr td{padding:4px;}
-	</style>
-
-<!--[if lte IE 7]>
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media="screen" href="http://www.socialengineforum.com/public/min/index.php?f=public/style_css/css_4/awards.css,public/style_css/css_4/skin_home.css,public/style_css/css_4/ipb_ie9.css,public/style_css/css_4/ipb_editor.css,public/style_css/css_4/ipb_styles.css,public/style_css/css_4/ipshoutbox.css">
+	<!--[if lte IE 7]>
 	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://www.socialengineforum.com/public/style_css/css_4/ipb_ie.css" />
 	<![endif]-->
+	<!--[if IE]>
+	<style>
+		#smart_header #search .button{padding:4px 5px 3px;}
+		#smart_header .main-bg-grad,#smart_header .alt-bg-grad{background:url(http://dup.tem.94.sefcdn.net/clean/browsers/ie/menu_gradient.png) top left repeat-x #4E6A97;}
+		#smart_header header nav li#selected a.toplevel,#smart_header header nav li span:hover,#smart_header header nav li.active a,#smart_header header nav li.selected a{background:url(http://dup.tem.94.sefcdn.net/clean/browsers/ie/submenu_gradient.png) top left repeat-x #3F3F3F;}
+		table.smart_footer{background:url(http://dup.tem.94.sefcdn.net/clean/browsers/ie/footer_gradient.png) top left repeat-x #232323;}
+	</style>
+	<![endif]-->
+	<style>
+		#content{clear:both;background:#f8f8f8;border:1px solid #cbcbcb;border-top:0;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;height:100%;width:auto;margin:165px 20px 20px;padding:12px 17px 5px;box-shadow:0 0 15px rgba(0,0,0,1);-moz-box-shadow:0 0 15px rgba(0,0,0,1);-webkit-box-shadow:0 0 15px rgba(0,0,0,1);}
+		#smart_header{width:100%;position:fixed;z-index:100000;display:block;margin:-1px auto 0;}
+		body#ipboard_body{background:rgb(62,83,120) url(http://dup.tem.94.sefcdn.net/clean/clouds.png) repeat-x;background-attachment:fixed;background-position:bottom left;margin:0;}
+		
+		#smart_header header .logo{background-image:url(http://cop.log.6.sefcdn.net/logos/normal/logo.png);background-repeat:none;}
+	</style>
 	
 
 <script type="text/javascript">
@@ -711,7 +146,7 @@
 		ipb.vars['is_supmod']			= parseInt( 0 ),
 		ipb.vars['is_admin']			= parseInt( 0 ),
 		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= 'f33f403a84b2e4211461e46c2e5b44c3';
+		ipb.vars['session_id']			= 'c97064b1c7857367ca8c05515abf9eab';
 		ipb.vars['can_befriend']		= true;
 		/* ---- cookies ----- */
 		ipb.vars['cookie_id'] 			= '';
@@ -723,7 +158,7 @@
 		ipb.vars['rate_img_rated']		= 'http://www.socialengineforum.com/public/style_images/clean/bullet_star_rated.png';
 		/* ---- Uploads ---- */
 		ipb.vars['swfupload_swf']		= 'http://www.socialengineforum.com/public/js/3rd_party/swfupload/swfupload.swf';
-		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['swfupload_enabled']	= false;
 		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
 		ipb.vars['swfupload_debug']		= false; /* SKINNOTE: Turn off for production */
 		/* ---- other ---- */
@@ -738,7 +173,7 @@
 		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"\/page__","varSep":"__"};
 		
 		/* Templates/Language */
-		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'>" + ipb.lang['loading'] + "</div>";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://dup.tem.94.sefcdn.net/clean/pageload.gif'><br class='clear' />" + ipb.lang['loading'] + "</div>";
 		ipb.templates['close_popup']	= "<img src='http://dup.tem.94.sefcdn.net/clean/close_popup.png' alt='x' />";
 		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu'>#{items}</ul>");
 		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
@@ -747,130 +182,157 @@
 		ipb.templates['m_rem_friend']	= new Template("<a href='http://www.socialengineforum.com/index.php?app=members&amp;module=profile&amp;section=friends&amp;do=remove&amp;member_id=#{id}' title='Remove Friend'><img src='http://dup.tem.94.sefcdn.net/clean/user_delete.png' alt='Remove Friend' /></a>");
 		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
 		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}'><img src='#{img}' alt='' width='#{img_w}' height='#{img_h}' />&nbsp;&nbsp;#{itemvalue}</li>");
-		ipb.templates['smartsearch_wrap'] = new Template("<ul id='#{id}' class='ipb_smartsearch' style='width: 155px;'></ul>");
-		ipb.templates['smartsearch_item'] = new Template("<a href='index.php?showtopic=#{goid}' title='#{extra}'><li id='#{id}'>#{itemvalue}</li></a>");
 		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></div>");
 	//]]>
 	</script>
+		
 		<script type="text/javascript">
 			Loader.boot();
 		</script>
 	</head>
 	<body id="ipboard_body">
 		<div id="ipbwrapper">
-<h1>Social Engine Forum: Privacy Policy</h1>
+		<h1>Social Engine Forum: Privacy Policy</h1>
 			<p id="content_jump"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
-		
-            <script type="text/javascript">function makeAsHomepage() { if (window.external) { document.body.style.behavior='url(#default#homepage)'; document.body.setHomePage('http://www.socialengineforum.com'); } else { alert("Sorry, You can make Social Engine Forum as homepage in Internet Explorer only. Current browser does not support this function."); }} function addSearchAddon() { if (window.sidebar || window.external) { window.external.AddSearchProvider('http://www.socialengineforum.com/search.xml'); } else { alert("Sorry, You can add Social Engine Forum Search Engine in Firefox and Internet Explorer only. Current browser does not support this function."); }} function addToBookmarks() { title = "Social Engine Forum"; url = "http://www.socialengineforum.com/"; if (window.sidebar) { window.sidebar.addPanel(title, url, ""); } else if (window.external) { window.external.AddFavorite(url, title); } else { alert("Sorry, You can add Social Engine Forum as a bookmark in Firefox and Internet Explorer only. Current browser does not support this function."); }}</script>
-				<div id="admin_bar">
-					<p class="right">
-						<a href="http://www.socialengineforum.com/index.php?app=core&amp;module=search&amp;do=new_posts&amp;search_filter_app[forums]=1" title="View Newly Posted Content">See Whats New in the Site »</a>
-					</p>
-					<strong>Useful Tools:</strong> 
-					<ul id="mod_tools">
-							<li><a href="javascript:void(0);" onclick="makeAsHomepage();" title="Make this Site as your Homepage - For Internet Explorer Only">Make as Homepage</a></li>
-							<li><a href="javascript:void(0);" onclick="addSearchAddon();" title="Add Social Engine Forum Search Engine Addon - For Firefox and Internet Explorer Only">Add Search Engine Addon</a></li>
-							<li><a href="javascript:void(0);" onclick="addToBookmarks();" title="Bookmark this Site for Easy Access - For Firefox and Internet Explorer Only">Bookmark this Site</a></li>
-					</ul>
-				</div>
-            
-            <div id="header">
-            
-				<div id="branding">
+		<div id="smart_header">
+		<header class="main-bg-grad group" id="doodle-back">
+			<a href="http://www.socialengineforum.com/index.php?/index" class="logo" title="Social Engine Forum"></a>
+			<div id="userbar">
+				<div id="userbar-default">
+					<p>Welcome to the Revamped Social Engine Forum</p>
 					
-						<table border="0" width="100%" class="smart_header"><tbody><tr><td width="75%" align="left"><a href="http://www.socialengineforum.com/index.php?/index" title="Social Engine Forum - Largest Social Engine Resources Site" rel="home" accesskey="1"><img src="http://cop.log.6.sefcdn.net/logos/normal/logo.png" alt="Social Engine Forum - Largest Social Engine Resources Site" title="Social Engine Forum - Largest Social Engine Resources Site" width="386" height="80"></a></td><td width="25%" height="81" align="right" class="smart_html"><script type="text/javascript" src="http://www.coldware.org/widget.js"></script></td></tr></tbody></table>
+					<p id="userbar-options">Hi, You can <a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=register" title="Login to an Account">Create an Account</a> or <a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=login">Login to an Account</a></p>
 					
 				</div>
-
-				<div id="primary_nav">
-					<ul class="left">
-						
-				 <li id="nav_home" class="left"><a href="http://www.socialengineforum.com" title="Homepage" rel="home">Social Engine Forum</a> </li>
-						
-																																										<li id="nav_discussion" class="active"><a href="http://www.socialengineforum.com/index.php?/index" title="Go to Discussion">Discussion</a></li><li id="nav_members" class=""><a href="http://www.socialengineforum.com/index.php?app=members&amp;section=view&amp;module=list" title="Go to Member List">Members</a></li>
-						<li id="nav_help" class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6">Help</a></li>
-						
-							
-								
-							
-
-								
-																		<li id="nav_app_shoutbox" class=""><a href="http://www.socialengineforum.com/index.php?/shoutbox" title="Go to Shoutbox">Shoutbox</a></li>
-								
-							
-
-								
-							
-
-								
-							
-
-								
-																		<li id="nav_app_subscriptions" class=""><a href="http://www.socialengineforum.com/index.php?app=subscriptions" title="Go to Subscriptions">Subscriptions</a></li>
-								
-							
-
-								
-																		<li id="nav_app_awards" class=""><a href="http://www.socialengineforum.com/index.php?app=awards" title="Go to Awards">Awards</a></li>
-								
-							
-						
-						<li id="nav_search" class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=search" title="" accesskey="4" rel="search">Search</a></li>
-						<li id="nav_status" class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=status" title="Social Engine Forum Status" rel="status">Status</a></li>
-						<li id="nav_about" class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=about" title="About Social Engine Forum" rel="about">About</a></li>
-					</ul>
-                </div>
-                
-                <div id="secondary_nav">
-					<ul id="breadcrumb" class="left">
-												<li class="first" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.socialengineforum.com/index.php?/index">Social Engine Forum</a></li>
-							
-						
-							<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><span class="nav_sep">»</span> <span itemprop="title">Privacy Policy</span></li>
-							
-						
-					</ul>
-                    <ul id="section_links" class="right">
-						<li><a href="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=terms">Terms of Service</a></li>
-						<li><a href="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=privacy">Privacy Policy</a></li>
-						<li><img src="http://dup.tem.94.sefcdn.net/clean/feed.png" alt="RSS Feed" id="rss_feed" class="clickable"></li>
-					</ul>					
-                    <br class="clear">
-				</div>
-
-            <div id="user_bar_container">
-
-                
-					<div id="user_navigation" class="not_logged_in">
-					<div id="user_links">
-                    	<a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=login" title="Login to Account"><img src="http://dup.tem.94.sefcdn.net/clean/key.png" alt="" width="16" height="16"> Login to Account</a>
-						<a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=register" title="Create an Account"><img src="http://dup.tem.94.sefcdn.net/clean/paste_plain.png" alt="" width="16" height="16"> Create an Account</a>
-						<a href="http://www.socialengineforum.com/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6"><img src="http://dup.tem.94.sefcdn.net/clean/help.png" alt="" width="16" height="16"> Help</a>
-					<br class="clear">
-                    </div>
-                    </div>
-				
-				
-				
-                <div id="search">
-                    <form action="http://www.socialengineforum.com/index.php?app=core&amp;module=search&amp;do=quick_search&amp;search_filter_app[forums]=1" method="post" id="search-box">
-                    <fieldset>
-                        <label for="main_search" class="hide">Search</label>
-                        <input type="text" id="main_search" name="search_term" class="text_input" size="25" tabindex="6" value="">
-                        <input type="submit" class="submit_input" value="Search"><input type="hidden" name="content_title_only" value="1">
-                    </fieldset>
-                    </form>
-                </div>
-				<br class="clear">
-            </div>
-                
-				
 			</div>
+			<nav class="alt-bg-grad">
+				<ul>
+					<li id="selected" class="channel-active first-nav-item">
+						<a href="http://www.socialengineforum.com/index.php?/index" class="toplevel alt-bg-grad" title="Homepage" rel="home">Home</a>
+																																										<ul class="submenu">
+							<li><a href="http://www.socialengineforum.com">Welcome</a></li>
+							
+							<li class="active"><a href="http://www.socialengineforum.com/index.php?/index" title="Go to Discussion">Discussion</a></li>
+							
+							<li class=""><a href="http://www.socialengineforum.com/index.php?app=members&amp;section=view&amp;module=list" title="Go to Member List">Members</a></li>
+							
+							<li class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=help" title="View help" rel="help">Help</a></li>
+							
+							
+							
+							
+
+							
+														<li class=""><a href="http://www.socialengineforum.com/index.php?/shoutbox" title="Go to Shoutbox">Shoutbox</a></li>
+							
+							
+
+							
+							
+
+							
+							
+
+							
+														<li class=""><a href="http://www.socialengineforum.com/index.php?app=subscriptions" title="Go to Subscriptions">Subscriptions</a></li>
+							
+							
+
+							
+														<li class=""><a href="http://www.socialengineforum.com/index.php?app=awards" title="Go to Awards">Awards</a></li>
+							
+							
+							
+							<li class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=search" title="" rel="search">Search</a></li>
+							<li class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=status" title="Social Engine Forum Status">Status</a></li>
+							<li class=""><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=about" title="About Social Engine Forum">About</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="index.php?/forum/28-social-engine-3/" class="toplevel alt-bg-grad">Social Engine 3</a>
+						<ul class="submenu">
+							<li><a href="index.php?/forum/74-social-engine-3-nulled-plugins/">Social Engine 3 Plugins</a></li>
+							<li><a href="index.php?/forum/76-social-engine-3-templates/">Social Engine 3 Templates</a></li>
+							<li><a href="index.php?/forum/77-social-engine-3-mods-tutorials/">Social Engine 3 Mods</a></li>
+							<li><a href="index.php?/forum/28-social-engine-3/">More...</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="index.php?/forum/148-social-engine-4/" class="toplevel alt-bg-grad">Social Engine 4</a>
+						<ul class="submenu">
+							<li><a href="index.php?/forum/138-social-engine-4-nulled-modules/">Social Engine 4 Modules</a></li>
+							<li><a href="index.php?/forum/140-social-engine-4-templates/">Social Engine 4 Templates</a></li>
+							<li><a href="index.php?/forum/141-social-engine-4-mods-tutorials/">Social Engine 4 Mods</a></li>
+							<li><a href="index.php?/forum/148-social-engine-4/">More...</a></li>
+						</ul>
+					</li>
+					
+					<li>
+						<a href="http://www.socialengineforum.com/index.php?/user/0-guest/" class="toplevel alt-bg-grad">Get Access</a>
+						<ul class="submenu">
+							<li><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=register">Create an Account</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=login">Login to an Account</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=lostpass">Recover My Password</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=register&amp;do=05">Activate My Account</a></li>
+						</ul>
+					</li>
+					
+					
+					
+					<li class="last-nav-item">
+						<a href="http://www.socialengineforum.com/index.php?app=core&amp;module=search&amp;do=new_posts&amp;search_filter_app[forums]=1" class="toplevel alt-bg-grad">More...</a>
+						<ul class="submenu">
+							<li><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=search&amp;do=new_posts&amp;search_filter_app[forums]=1">What's New?</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=terms">Terms of Service</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=privacy">Privacy Policy</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=rss&amp;type=forums&amp;id=1">RSS Feed</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=members&amp;section=view&amp;module=list&amp;max_results=20&amp;sort_key=posts&amp;sort_order=desc&amp;filter=all">Top Posters</a></li>
+							<li><a href="http://www.socialengineforum.com/index.php?app=forums&amp;module=extras&amp;section=stats&amp;do=leaders">Moderation Team</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+			<script>
+			jQuery(document).ready(function($){
+				$("header nav ul li.channel-active ul").show();
+			});
+			</script>
+			<div id="smart-search">
+				<form id="search" method="post" action="http://www.socialengineforum.com/index.php?app=core&amp;module=search&amp;do=quick_search&amp;search_filter_app[forums]=1">
+					<input type="text" id="smart_search" name="search_term" class="text" placeholder="Start Searching..." tabindex="6" value=""><input type="submit" id="button-search" class="button alt-bg-grad" value="Search">
+					<input type="hidden" name="content_title_only" value="1">
+				</form>
+				<div id="header-nav">
+					<a id="nav-decoration" href="http://www.socialengineforum.com/index.php?/index" title="Quick Navigation"></a>
+					<div id="navigation-path">
+										<span>
+					<span><a href="http://www.socialengineforum.com/index.php?/index"><span>Home</span></a></span>
+						
+						
+						» <span itemprop="title">Privacy Policy</span>
+						
+						
+					</span>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+	
 			<div id="content" class="clear">
 			
+			<a id="j_content"></a>
 			
+			<div class="warn_message">
+				<table>
+					<tbody><tr>
+						<td width="70"><img src="http://dup.tem.94.sefcdn.net/clean/premium.png" title="Using Site as a Guest"></td>
+						<td>Welcome to Social Engine Forum. However, it seems that you still using the site as a guest. In guest mode, you will not able to download files, view links or codes we posted at topics. By registering as a member you will get your own profile and access to many features on the site. <a href="http://www.socialengineforum.com/index.php?app=subscriptions" class="nodec">Premium</a> members gets even more! Feel free to <a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=register" class="nodec">Sign Up</a> with us, if you already a member, please <a href="http://www.socialengineforum.com/index.php?app=core&amp;module=global&amp;section=login" class="nodec">Sign In</a>.</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<br class="clear">
 			
-            <a id="j_content"></a>
 			<h2>Privacy Policy</h2>
 <div class="row1 general_box rules">
 <strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site or place an order.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address and other required details to create an account. You may, however, visit our site anonymously as a guest.<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br> 
@@ -887,12 +349,13 @@
 </div>
 			<br class="clear">
 			<div class="warn_message">
-				<center>DMCA - This site does not store downloadable files on its servers. All attachments are remotely uploading to other external sites and servers<br>We only allows users to link downloadable files which are on third party sites and servers. Nulled materials are not for commercial usage</center>
+				<center>All the resources listed here are just for testing purpose and they shouldn't be used at any commercial environment without a valid license.<br>Those are for users who wants to try them before buy. Help the developer to build it better by purchasing them from original authors.</center>
 			</div>
 			<br class="clear">
 			</div>
 			<!-- __FOOTER__ -->
 			<!-- /__FOOTER__ -->
+			<footer>
 			<table class="smart_footer" width="100%">
 				<tbody><tr>
 					<td class="smart_block_1">
@@ -911,7 +374,7 @@
 						<!-- Copyright Information -->
         				  <p id="copyright" class="right">
         				  	Powered By <a href="http://www.invisionboard.com" title="IP.Board Homepage" class="smart_link" rel="external nofollow">IP.Board</a>
-        				  	 © 2011 &nbsp;<a href="http://www.invisionpower.com" title="IPS Homepage" class="smart_link" rel="external nofollow">IPS, <abbr title="Incorporated">Inc</abbr></a>.
+        				  	 © 2012 &nbsp;<a href="http://www.invisionpower.com" title="IPS Homepage" class="smart_link" rel="external nofollow">IPS, <abbr title="Incorporated">Inc</abbr></a>.
         				  <br>Licensed to: Coldware Networks NL</p>
 		<!-- / Copyright -->	
 					</td>
@@ -924,18 +387,32 @@
 						<br>
 						<a href="javascript:void(0);" onclick="javascript:jqcc.cometchat.scrollToTop();" class="smart_link">Social Engine Forum</a> is not associated with <a href="http://www.webligo.com" target="_blank" rel="external nofollow" class="smart_link">Webligo Developments</a> by any way
 						<br><br>
-						Best View in <a href="http://www.mozilla.com/en-GB/firefox/" target="_blank" rel="external nofollow" class="smart_link">Mozilla Firefox 4.0+</a> at 1024 X 768 Desktop Resolution with <a href="http://www.microsoft.com/windows/windows-7/default.aspx" target="_blank" rel="external nofollow" class="smart_link">Microsoft Windows 7</a>
+						<div class="platforms">
+							<ul>
+								<li class="html5" title="Built with HTML5">Built with HTML5</li>
+								<li class="desktop" title="Optimized for Desktop Computers">Supports Desktop Computers with HTML5 &amp; CSS3</li>
+								<li class="laptop" title="Optimized for Laptop &amp; Tablet Computers">Supports Laptop Computers, Blackberry Playbook &amp; Kindle Fire</li>
+								<li class="android" title="Optimized for Android Devices">Optimized for Android Devices</li>
+								<li class="iphone" title="Optimized for Apple iPhone">Optimized for Apple iPhone</li>
+								<li class="ipad" title="Optimized for Apple iPad">Optimized for Apple iPad</li>
+								<li class="css3" title="Designed with CSS3">Designed with CSS3</li>
+							</ul>
+						</div>
+						<br>
+						Best View in <a href="http://www.mozilla.com/en-GB/firefox/" target="_blank" rel="external nofollow" class="smart_link">Mozilla Firefox 10+</a> at 1280 X 960 Desktop Resolution with <a href="http://www.microsoft.com/windows/windows-7/default.aspx" target="_blank" rel="external nofollow" class="smart_link">Microsoft Windows 7</a>
+						<br>
+						Designed using HTML5 &amp; CSS3 with jQuery &amp; Prototype, requires a modern browser
 					</td>
 				</tr>
 				<tr>
 					<td colspan="1" class="smart_block_5">
-						Time Now: Dec 12 2011 02:10 AM
+						Time Now: Jun 10 2012 07:33 AM
 						
 					</td>
 					<td class="smart_block_6">
-					<img src="http://dup.tem.94.sefcdn.net/clean/footer_time.png" alt="Icon" width="16" height="16"> 0.0454 Seconds &nbsp;
+					<img src="http://dup.tem.94.sefcdn.net/clean/footer_time.png" alt="Icon" width="16" height="16"> 0.0386 Seconds &nbsp;
 						<img src="http://dup.tem.94.sefcdn.net/clean/database.png" alt="Icon" width="16" height="16"> 4 Queries &nbsp;
-						<img src="http://dup.tem.94.sefcdn.net/clean/stats_memory.png" alt="Icon" width="16" height="16"> 11.83 MB &nbsp;
+						<img src="http://dup.tem.94.sefcdn.net/clean/stats_memory.png" alt="Icon" width="16" height="16"> 11.94 MB &nbsp;
 						<img src="http://dup.tem.94.sefcdn.net/clean/server.png" alt="Icon" width="16" height="16"> CDN Enabled &nbsp;
 						<img src="http://dup.tem.94.sefcdn.net/clean/compression.png" alt="Icon" width="16" height="16"> GZIP Enabled
 					</td>
@@ -956,21 +433,21 @@
 					</td>
 				</tr>
 			</tbody></table>
+			</footer>
 			
 			<div id="stats_div"></div>
 			
 		</div>
-		
 	
 	<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-16899905-1']); _gaq.push(['_setDomainName', '.socialengineforum.com']); _gaq.push(['_setCustomVar', 1, 'VisitorType', 'Guests', 1]); _gaq.push(['_trackPageview']); _gaq.push(['_trackPageLoadTime']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
 	
-	
 	<!--
-	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-	Created, Designed & Developed by Coldware Networks Netherlands LTD
-	Copyrights 2011 Coldware Networks Netherlands. All Rights Reserved
-	$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+	* @project     Social Engine Forum (Online Community)
+	* @version     12.05.231002 (Stable)
+	* @author      Coldware Networks Netherland <www.coldware.org>
+	* @copyright   2010-2012 Coldware Networks Netherland
+	* @link        http://www.socialengineforum.com
 	-->
 	
 	
-<div id="cometchat_flashcontent"></div><div id="cometchat"><div id="cometchat_trayicons"><div id="cometchat_trayicon_chatrooms_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Chatrooms</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="500" height="300" id="cometchat_trayicon_chatrooms_iframe"></iframe></div></div></div><div id="cometchat_trayicon_announcements_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Announcements</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="280" height="300" id="cometchat_trayicon_announcements_iframe"></iframe></div></div></div><div id="cometchat_trayicon_translate_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Translate This Page</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="280" height="300" id="cometchat_trayicon_translate_iframe"></iframe></div></div></div><div id="cometchat_trayicon_share_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Share This Page</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="340" height="50" id="cometchat_trayicon_share_iframe"></iframe></div></div></div></div><div id="cometchat_base" style="left: 20px; width: 1326px;"><div id="cometchat_hide" onclick="jqcc.cometchat.hideBar();"></div><span id="cometchat_optionsbutton" class="cometchat_tab cometchat_optionsimages cometchat_optionsimages_exclamation" unselectable="on"></span><div id="cometchat_trayicons"><div id="cometchat_trayicon_home" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/home/icon.png"></div></div><div id="cometchat_trayicon_chatrooms" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/chatrooms/icon.png"></div></div><div id="cometchat_trayicon_announcements" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/announcements/icon.png"></div></div><div id="cometchat_trayicon_translate" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/translate/icon.png"></div></div><div id="cometchat_trayicon_share" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/share/icon.png"></div></div><div id="cometchat_trayicon_scrolltotop" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="chat/modules/scrolltotop/icon.png"></div></div></div><span id="cometchat_userstab" class="cometchat_tab" unselectable="on" style="display: none;"><span id="cometchat_userstab_icon"></span><span id="cometchat_userstab_text">Online Friends (0)</span></span><div id="cometchat_chatbox_right" class="cometchat_chatbox_right_last cometchat_chatbox_lr" style="display: none;"><span class="cometchat_tabtext">0</span><span style="top:-5px;display:none" class="cometchat_tabalertlr">0</span></div><div id="cometchat_chatboxes" unselectable="on" style="width: 0px; display: none;"><div id="cometchat_chatboxes_wide" style=""></div></div><div id="cometchat_chatbox_left" class="cometchat_chatbox_left_last cometchat_chatbox_lr" style="display: none;"><span class="cometchat_tabtext">0</span><span class="cometchat_tabalertlr" style="top:-5px;display:none;">0</span></div></div><div id="cometchat_optionsbutton_popup" class="cometchat_tabpopup" style="display: none; left: 1091px;"><div class="cometchat_userstabtitle"><div class="cometchat_userstabtitletext">Chat Options</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_tabsubtitle">Powered By <a href="http://www.cometchat.com">CometChat</a></div><div class="cometchat_tabcontent cometchat_optionstyle"><strong>My Status</strong><br><textarea class="cometchat_statustextarea"></textarea><br><input type="button" class="cometchat_statusbutton" value="Set my status"><br><div class="cometchat_statusinputs"><strong>I am...</strong><br><span class="cometchat_user_available"></span><span class="cometchat_optionsstatus available">Available</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus invisible">Invisible</span><div style="clear:both"></div><span class="cometchat_optionsstatus2 cometchat_user_busy"></span><span class="cometchat_optionsstatus busy">Busy</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus cometchat_gooffline">Offline</span><br clear="all"></div><div style="border-top:1px solid #eeeeee;margin-top:10px;padding-top:4px;"><div><input type="checkbox" id="cometchat_soundnotifications" style="vertical-align: -2px;">&nbsp;Disable sound notifications</div><div><input type="checkbox" id="cometchat_popupnotifications" style="vertical-align: -2px;">&nbsp;Disable popup notifications</div></div><div class="cometchat_hidebartext"><div><a href="javascript:void(0);" id="cometchat_hidebar"></a></div></div><a href="javascript:void(0);" onclick="javascript:jqcc.ccblock.blockList();" style="margin-left:5px;margin-top:5px;">Manage blocked users</a></div></div><div id="cometchat_userstab_popup" class="cometchat_tabpopup" style="display: none; left: 1091px;"><div class="cometchat_userstabtitle"><div class="cometchat_userstabtitletext">Online Friends</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_tabsubtitle" id="cometchat_searchbar"><input type="text" name="cometchat_search" class="cometchat_search cometchat_search_light" id="cometchat_search" value="Find a user"></div><div class="cometchat_tabcontent cometchat_tabstyle"><div id="cometchat_userscontent" unselectable="on"><div id="cometchat_userslist_available"></div><div id="cometchat_userslist_busy"></div><div id="cometchat_userslist_away"></div><div id="cometchat_userslist_offline"></div><div class="cometchat_userlist" onmouseover="jqcc(this).addClass('cometchat_userlist_hover');" onmouseout="jqcc(this).removeClass('cometchat_userlist_hover');" onclick="window.parent.location='index.php?app=members&amp;section=friends&amp;module=profile&amp;do=list'; "><span class="cometchat_userscontentname" style="float:right">Show all friends »&nbsp;&nbsp;</span></div></div></div></div></div><div id="cometchat_hidden"><div id="cometchat_hidden_content"></div></div><div id="cometchat_tooltip"><div class="cometchat_tooltip_content"></div></div></body></html>
+</body></html>
