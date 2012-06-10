@@ -1,79 +1,108 @@
-> *The following text is extracted and transformed from the gowholesale.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209121111id_/http%3A//www.gowholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowholesale.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610225505id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | goWholesale
+# Liquidation.com Privacy Policy
 
-This privacy policy may be changed from time to time, so please check it on a regular basis.
+Liquidity Services, Inc. ("LSI") wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy for the Web Site www.liquidation.com that states what information we collect, how that information is collected (whether it is by LSI, a vendor working for LSI, or some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps LSI is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy.
 
-#### What information does goWholesale collect?
+  * What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
+  * The organization collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control
+  * How you can correct any inaccuracies in the information
 
-Each time you visit goWholesale and its network of sites ("goWholesale"), we use a feature of your browser called a "cookie" to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer — but not you — to our servers every time you visit our site.
 
-We log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form.
 
-We also keep track of your computer's unique IP address to help diagnose problems with our server, to better serve your needs and to administer our web site. Your IP address is also used to gather broad demographic information about you, such as your location and your Internet Service Provider.
+Liquidation.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [COMPANY CONTACT INFO]. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-We will, at certain times, ask you to provide us with personal information to register for our services or to enter a sweepstakes. This information may include, but is not limited to, your name and email address. Some of the requested information will be noted as being required for us to provide you with the desired services.
+Liquidation.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-If you sign up to advertise on goWholesale, we will collect your credit card information during the registration process. We make our best efforts to protect credit card transactions through encryption, although we cannot guarantee complete security. In order to complete a transaction, payment information may also be transferred through one of our financial processing partners who verify such information.
+Liquidity Services, Inc. has created this privacy policy in order to demonstrate our firm commitment to privacy. 
 
-#### Who collects the information?
+We log your IP address, browser type, access times, and referring site to help diagnose potential problems with our server, and to administer our website. Your IP address is used to gather broad demographic information. Our log files are tied to your user ID, but are not tied to personally identifiable information (i.e., your first and last name combined with social security number, alien registration number, driver license or passport number, or credit card information).
 
-goWholesale usually collects any requested information from its users for its own purposes. However, goWholesale also has partners, which help us provide you with different content and advertising services.
+Our site uses cookies to keep track of your user account. We use cookies to deliver content specific to your interests, to save your username so you don't have to re-enter it each time you visit our site, and for other purposes. For our site to function properly, you need to have cookies enabled. Our cookies are tied to your user ID, but are not tied to personally identifiable information.
 
-If you have any questions regarding the collection or receipt of the information you provide on our site, please contact us at [support@gowholesale.com](mailto:support@gowholesale.com). Some of our content partners, as well as advertisers who display ads on our site, may use cookies or otherwise independently collect information from you. We cannot and do not control the collection or use of such information, or their use of cookies. We also do not have access to any information contained in or related to those cookies.
+Some of our business partners (e.g., tracking utility) use cookies on our site. We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. This is collected to track usage. Volume, and conversion statistics to improve the content and functionality of our site.
 
-#### What does goWholesale do with the data it collects?
+Our third party advertising companies may employ the use of a software technology called clear gifs (a.k.a. Web Beacons), that help them better manage content on their site by informing what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are NOT tied to users' personally identifiable information. 
 
-Whenever goWholesale collects data from any of its registered users, the data is intended to tailor or improve the experience of visitors to our site.
+Our site's registration form requires users to give us contact information (such as their name and email address) and business information (such as business type, expected volume and transactions). We use customer contact information from the registration form to send the user our Buyer Alert email. This information is never sold or rented out to third parties; however, we may provide information to LSI, our parent company, or to other companies owned or controlled by LSI, which they may use to contact you about items we believe you may be interested in, which are advertised for sale on other LSI websites. Users can Opt-in or Opt-out of receiving the newsletter during registration. Later, users who no longer wish to receive these emails may opt-out; see the choice/opt-out section below. 
 
-From the data collected, we can customize content and advertising based on a user's unique preferences. We use information from a cookie to differentiate between unique users, personalize our site for each unique user, control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, specific personal information is not shared with our advertisers, except as otherwise stated in this privacy policy.
+The customer's contact information is also used to contact the visitor when necessary (for instance to verify registration information, or collect payment for transactions). Business information that is collected is used to check the users' qualifications for registration. Third parties may be used to verify the identity of the user. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-We use unique computer IP addresses to help diagnose problems with our server and to administer our web sites. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process requires it, or to protect the rights or property of goWholesale or others.
+This site contains links to other sites. Liquidity Services, Inc. is not responsible for the privacy practices or the content of such Web sites. 
 
-When you register for the unique services offered on goWholesale, you willingly provide additional information to receive specific services and to experience personalized interactions on the site. We may use information to target offerings that may be of interest to you and/or to analyze aggregate user data to improve our services.
+As a service to the user, the site offers a feature that allows a user to send auction details to a person via e-mail. The e-mail address of the recipient is used to to send a one-time email about auction details only and is not used or saved by Liquidity Services, Inc. 
 
-We will send out occasional emails to provide you with information that we think you will find useful, including information about new products and services. We might also contact you to see if you are interested in participating in market research regarding goWholesale.
+As a service to the user, the site offers a feature that allows the user to send us feedback. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site, or review and discard your comments. Your personal information is only shared with explicit permission. 
 
-In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. If at any time you feel you have received e-mail from goWholesale that you did not request, please notify us immediately (along with a copy of the e-mail) to [feedback@gowholesale.com](mailto:feedback@gowholesale.com).
+Auction information collected during the posting and bidding process is considered public information. The site also offers a Question and Answer message board. Any information collected in this message board is considered public information; see "Public Forums" below. Although the site facilitates communications between buyer and seller, no information about either user is exchanged. 
 
-#### Under what circumstances does goWholesale share data?
+During the transaction process, financial information (credit card or bank information) is collected from the buyer to pay for the transaction. The site uses a third party to verify and process credit cards. All information exchanged with the credit card processor is encrypted. In addition the site will collect address information from the buyer to facilitate shipping of the goods. This address information may be exchanged with our third party shipping partners to manage the shipment of the goods from seller to buyer. These service providers may not use information that is shared with them for their own marketing purposes. 
 
-goWholesale may disclose your personal information to our business partners to provide you with any services you have willingly requested. If you have questions regarding the privacy policies or data-collection practices of any of goWholesale's partners, please contact that partner directly. goWholesale does not have control over and is not responsible for the data collection and use practices of our business partners.
+### Public Forums
 
-We also may disclose your personal information to a third party, if we believe in good faith that the law or legal process requires it, to protect the rights or property of goWholesale or others or as otherwise described in this privacy policy.
+Liquidation.com makes message boards available to its users in connection with specific auctions. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-We may also share aggregate demographic information with our advertisers or information collection companies, but in no case will we reveal any personally identifiable information in these instances.
+### Testimonials
 
-#### How can you update or correct your information?
+With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us [here](mailto:coach@liquidation.com)e.
 
-You can change your profile information by logging into your account at goWholesale, or by sending an email to [support@gowholesale.com](mailto:support@gowholesale.com).
+### Security
 
-#### How can deactivate your registration on goWholesale?
+Liquidation.com has security measures in place to protect the loss, misuse and alteration of the information under our control. Our site uses the standard SSL (secure sockets layer) encryption for all sensitive data that is transmitted over the Internet. This includes customers adding data to the web site, and employees transmitting data off the web site. No information, including the passwords that would give access to sensitive information ever flows over the Internet un-encrypted. 
 
-If you would like to deactivate your registration as an advertiser for one of the services offered on goWholesale, please send an email to [support@gowholesale.com](mailto:support@gowholesale.com).
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-goWholesale currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some of goWholesale's key services.
+### Choice/Opt-Out/Deletion
 
-#### Procedures to protect the loss or misuse of information
+Our site provides users the opportunity to opt-out of receiving Buyer Alert emails from us at the point where we request information about the visitor, and at any time the user may contact us and request to have their information removed from the database. The following options are available: 
 
-Except as otherwise stated in this privacy policy, goWholesale has taken stringent measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at goWholesale or its partners, and only after a password has been entered.
+  * Click on a link in all mailings to unsubscribe. 
+  * Log in to My Account at [http://www.liquidation.com/account/main](https://web.archive.org/account/main). 
+  * Send an email to [support@liquidation.com](mailto:support@liquidation.com). 
 
-#### Privacy policies for sites linked to goWholesale
 
-As a search engine and portal, the site contains links to web sites not necessarily affiliated with us.
 
-goWholesale does not control the privacy practices of those sites to which goWholesale links and, therefore, goWholesale encourages you to read the privacy policies of those sites.
+You may not opt-out of service/transactional related communication from the site.
 
-These sites have their own policies and practices with respect to online privacy, and goWholesale cannot be responsible for the privacy practices or the content of these unaffiliated web sites.
+### Liquidation.com Facebook Application
 
-In addition, in certain instances a goWholesale advertiser may ask you for personal information. It will be your decision as to whether to provide such information, as goWholesale cannot be responsible for the privacy practices of its advertisers.
+We do not include functionality that proxies, requests or collects Facebook usernames or passwords. We do not collect data on your Facebook friends and will not use that data to customize your experience or conduct promotional activities. We will collect your basic account information when you connect with our application. For all other data obtained through use of the Facebook API, we will obtain explicit consent from you before using it for any purpose other than displaying it back to you on our application. We will not directly or indirectly transfer any data you receive from Facebook, including user data or Facebook User IDs, to (or use such data in connection with) any ad network, ad exchange, data broker, or other advertising or monetization related toolset, even if you consent to such transfer or use. We will not use Facebook User IDs for any purpose outside of our application. We will not sell any data. We will delete all data we receive from Facebook concerning a user if the user asks us to do so. We will not include data you receive from Facebook concerning a user in any advertising creative, even if a user consents to such use. Should you visit LSI's website from Facebook, Google may add a cookie to track your visit to the site. We only use this information for statistical analysis purposes. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
 
-#### Notification of Changes
+### Data Retention 
 
-This policy may be revised over time as new features are added to goWholesale. We will post any such new privacy policies, along with the date of last revision, in prominent so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.Â”
 
-#### Contact Information
+### Correct/Update
 
-If you have any questions about this privacy policy, or about goWholesale's information collection practices, please feel free to contact us at [feedback@gowholesale.com](mailto:feedback@gowholesale.com)
+This site gives users the following options for changing and modifying information previously provided.
 
-#### This agreement was last revised on October 10, 2005.
+  * Email [support@liquidation.com](mailto:support@liquidation.com).
+  * Log in to My Account at [http://www.liquidation.com/account/main](https://web.archive.org/account/main).
+  * Call our Buyer Relations Team at (800) 498-1909.
+
+
+
+### Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our home page. 
+
+### Disclaimer
+
+We will not share any of your information with any outside party without your consent unless we are required to by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site. 
+
+### Contacting the Web Site
+
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this website, please contact us -
+
+**Webmaster**  
+Liquidity Services, Inc.  
+1920 L Street NW  
+6th Floor  
+Washington D.C. 20036  
+[webmaster@liquidation.com](mailto:webmaster@liquidation.com)
