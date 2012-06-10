@@ -1,33 +1,42 @@
-<!--The following is the downloaded HTML source of the shoppingexpress.com.au privacy policy that was archived on 2011-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211160831id_/http%3A//www.shoppingexpress.com.au/view/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppingexpress.com.au privacy policy that was archived on 2012-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610042958id_/http%3A//www.shoppingexpress.com.au/view/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" class="is_webkit"><head>
 
 <!-- Meta Data -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="for sale Australia wide, buy online &amp; save today with Shopping Express!">
 <meta name="google-site-verification" content="">
-<title>Privacy Policy</title>
+<meta name="google-site-verification" content="vyAytaet4MEtnVC-tHWFFWO7mhxuxhsrl-F0Nr57kWw">
+<title> | Buy Cheap, Online, Australia</title>
 
 <!--Favicon -->
 <link rel="shortcut icon" href="http://www.shoppingexpress.com.au/favicon.ico">
 
 <!-- Template Style Sheets -->
 <link rel="stylesheet" type="text/css" href="/assets/template/css/layout.css" media="all">
-<link rel="stylesheet" type="text/css" href="/assets/template/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="/assets/template/css/styles_v2.css" media="all">
 <!-- Plugin Style Sheets -->
 <link rel="stylesheet" type="text/css" href="/assets/template/plugins/fancybox/jquery.fancybox-1.3.4.css" media="all">
 <link rel="stylesheet" type="text/css" href="/assets/template/plugins/superfish/css/superfish.css" media="all">
 <link rel="stylesheet" type="text/css" href="/assets/template/plugins/formalize/formalize.css" media="all">
+<link rel="stylesheet" type="text/css" href="/assets/template/plugins/megamenu/m_menu.css" media="all">
+
+<!--[if lt IE 8]>
+        <link rel="stylesheet" type="text/css" href="/assets/template/css/ie7.css" />
+<![endif]-->
 
 <!-- Required Neto Scripts  - DO NOT REMOVE -->
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/assets/js/shipcost.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" src="/assets/js/shipcost.js"></script>
 <script type="text/javascript" src="/assets/js/util.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.min.js"></script> 
 <script type="text/javascript" src="/assets/js/YlFloat.js"></script> 
 <script type="text/javascript" src="/assets/template/plugins/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="/assets/js/neto/jquery.neto.1.35.js"></script>
+<script type="text/javascript" src="/assets/js/neto/jquery.neto.1.49.js"></script>
+
+<script type="text/javascript" src="/assets/template/plugins/megamenu/m_menu.min.js"></script>
+<script type="text/javascript" src="/assets/template/plugins/megamenu/jquery.hoverIntent.min.js"></script>
 
 
 
@@ -58,7 +67,36 @@
 			$.addToCartInit({
 				'cart_id' :  'cartcontents',
 				'target_id': 'cartcontentsheader',
-				'image_rel': 'itmimg'
+				'image_rel': 'itmimg',
+				'cart' : {
+					'footer': '</ul> <br> Total Item(s): <b>##item_count##</b><br />Sub Total: <b>##CURRENCY:product_total##</b><br/> ##IF:product_discount##Discount: <b>##CURRENCY:product_discount##</b><br/>##END IF:product_discount## <button class="viewcart btn" type="button" onclick="window.location=\'##checkouturl##\';" title="View Shopping Cart">View Cart</button> <button class="checkout btn btn-success" type="button" onclick="window.location=\'##checkouturl##\';" title="Checkout">Checkout</button>',
+					'successaddmessage': 
+							'<div class="successaddmessage"><div class="header">Item has been added to your cart</div>'+
+							'<div class="body"><div class="image"><img src="##thumb##" alt="##model##" width="60px" height="60px" border="0"/></div>'+
+							'<div class="description"><b>##qty##</b> x ##model## added to cart.</div>'+
+							'<div class="successaddmessageclear"></div></div>'+
+							'<div class="footer"><div class="left"><button type="button" class="btn" onclick="$.fancybox.close()" title="Continue Shopping">Continue Shopping</button>&nbsp;&nbsp;'+
+							'<button type="button" class="btn" onclick="window.location=\'##checkouturl##\';" title="View Cart">View My Cart</button></div>'+
+							'<div class="right"><button type="button" onclick="window.location=\'##checkouturl##\';" title="Checkout" class="calltoaction btn btn-success">Checkout Now &gt;</button></div></div>'+
+							'<div class="successaddmessageclear"></div></div>',
+					'successaddmessage_withunit':
+							'<div class="successaddmessage"><div class="header">Item has been added to your cart</div>'+
+							'<div class="body"><div class="image"><img src="##thumb##" alt="##model##" width="60px" height="60px" border="0"/></div>'+
+							'<div class="description"><b>##baseqty## ##base_unit##</b> (##qty## ##unit##) ##model## added to cart.</div>'+
+							'<div class="successaddmessageclear"></div></div>'+
+							'<div class="footer"><div class="left"><button type="button" class="btn" onclick="$.fancybox.close()" title="Continue Shopping">Continue Shopping</button>&nbsp;&nbsp;'+
+							'<button type="button" class="btn" onclick="window.location=\'##checkouturl##\';" title="View Cart">View My Cart</button></div>'+
+							'<div class="right"><button type="button" onclick="window.location=\'##checkouturl##\';" title="Checkout" class="calltoaction btn btn-success">Checkout Now &gt;</button></div></div>'+
+							'<div class="successaddmessageclear"></div></div>',
+					'multipleitemsmessage': 
+							'<div class="successaddmessage"><div class="header">Items have been added to your cart</div>'+
+							'<div class="body"><div class="description">All selected items added to cart.<br />Use the buttons below to continue.<br /><br /></div>'+
+							'<div class="successaddmessageclear"></div></div>'+
+							'<div class="footer"><div class="left"><button type="button" class="btn" onclick="$.fancybox.close()" title="Continue Shopping">Continue Shopping</button>&nbsp;&nbsp;'+
+							'<button type="button" onclick="window.location=\'##checkouturl##\';" class="btn" title="View Cart">View My Cart</button></div>'+
+							'<div class="right"><button type="button" onclick="window.location=\'##checkouturl##\';" title="Checkout" class="calltoaction btn btn-success">Checkout Now &gt;</button></div></div>'+
+							'<div class="successaddmessageclear"></div></div>'
+				}
 			});
 			$.compatListInit({});
 			$(".compatibility_list").change(function() {
@@ -89,7 +127,21 @@ $("#leftbanner").jFloat({
         $("#rightbanner").jFloat({
             position: "right"
         });
+		
+// Mega Menu Configuration
+var config = {
+    sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+    interval: 100, // number = milliseconds for onMouseOver polling interval
+    over: megaHoverOver, // function = onMouseOver callback (REQUIRED)
+    timeout: 200, // number = milliseconds delay before onMouseOut
+    out: megaHoverOut // function = onMouseOut callback (REQUIRED)
+};
+ 
+$("ul.m-menu li .sub").css({'opacity':'0'});
+// Trigger the menu with the above config
+$("ul.m-menu .level1-li").hoverIntent(config);
 });	
+
 </script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -98,21 +150,31 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </head>
 <body id="n_content">
 
-<div class="container_24" style="background:url(/assets/template/images/head_cut.gif) 5px 89px no-repeat;"> 
-<div class="grid_4">
-<div class="padding" style="padding:5px;">
-<a href="http://www.shoppingexpress.com.au" title="Shopping Express"><img src="/assets/website_logo.gif" height="110px" alt="Shopping Express"></a>
-</div>
-</div>
-<div class="grid_12">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="container_24 main-wrapper">
+
+
+<a id="main-logo" href="http://www.shoppingexpress.com.au" title="Shopping Express"><img src="/assets/main-logo.png" alt="Shopping Express"></a>
+
+<div class="grid_12 push_4">
 <div style="float:left; margin-top:18px;">
-<a href="/shop/microsoft-specials/microsoft-specials"><img src="/assets/ads/911.png" width="411px" height="54px" alt="Microsoft Windows &amp; Office"></a>
+<a href="/view/Windows_8_Upgrade_Promo"><img src="/assets/ads/1497.png" width="411px" height="53px" alt="Belkin Buy 2 or More SALE!"></a>
 </div>
 </div>
-<div class="grid_8">
+<div class="grid_8 push_4">
 <div class="headerlinks">
 	<ul>
-	<li> <b>My Shopping Cart - <span rel="a2c_item_count"> 0 </span> Items</b>  &nbsp; <a href="https://www.shoppingexpress.com.au/_mycart?ts=20111212030829" title="My Shopping Cart" rel="no-follow"><b>View Cart</b></a>&nbsp; or &nbsp;<a href="https://www.shoppingexpress.com.au/_mycart?ts=20111212030829&amp;fn=payment"><b>Checkout</b></a>
+	<li> <b>My Shopping Cart - <span rel="a2c_item_count"> 0 </span> Items</b>  &nbsp; <a href="https://www.shoppingexpress.com.au/_mycart?ts=20120610142956" title="My Shopping Cart" rel="no-follow"><b>View Cart</b></a>
 	</li>
 	</ul>
 </div>
@@ -122,8 +184,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <div class="headerlinks">
 <ul>
 
-<li><a href="shopexpress2011" target="_blank" title="Visit us on Twitter"><img src="/assets/template/images/twitter.png" alt="Twitter" height="24px" width="24px"></a></li>
-<li><a href="145816518805502" target="_blank" title="Visit us on Facebook"><img src="/assets/template/images/facebook.png" alt="Facebook" height="24px" width="24px"></a></li>
+<li><a href="http://twitter.com/#!/Shopexpress2011" target="_blank" title="Visit us on Twitter"><img src="/assets/template/images/twitter.png" alt="Twitter" height="24px" width="24px"></a></li>
+<li><a href="http://www.facebook.com/pages/shoppingexpresscomau/145816518805502" target="_blank" title="Visit us on Facebook"><img src="/assets/template/images/facebook.png" alt="Facebook" height="24px" width="24px"></a></li>
 <li><iframe src="https://www.facebook.com/plugins/like.php?href=shoppingexpress.com.au&amp;layout=button_count&amp;show_faces=true&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:20px; margin-top:2px;" allowtransparency="true"></iframe></li>
 <li style="padding-top:2px;"><!-- Place this tag where you want the +1 button to render -->
 <g:plusone size="medium"></g:plusone>
@@ -142,7 +204,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <div class="clear"></div>
 </div>
 </div>
-<div class="grid_20">
+<div class="grid_24">
 <div class="clear"></div>
 <div class="redmenu">
 
@@ -181,13 +243,364 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <div class="clear"></div>
 
 
+       <div id="global-nav" class="m-menu clearfix" role="navigation">
+           <ul class="level1 m-menu">
+           <li class="level1-li"><a style="color:#960814 !important; " href="/view/in_promo" class="level1-link">Hot Deals</a></li>
+           
+           <li class="level1-li"><a style="color:#960814 !important;" href="/shop/clearance/17" class="level1-link">Clearance</a></li>
+           
+           <li class="level1-li"><a style="color:#960814 !important;" href="/view/new_arrivals" class="level1-link">New Arrivals</a></li>
+           
+           <li class="level1-li"><a style="color:#960814 !important;" href="/view/Promotions" class="level1-link">Promotions</a></li>
 
-<div class="sf-menu_container"><ul class="sf-menu sf-js-enabled sf-shadow"><li class="current"><a href="http://www.shoppingexpress.com.au/shop/computer-it/computer-it" class="sf-with-ul">Computer &amp; IT<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cpu-processors/cpu-processors" class="sf-with-ul">CPU Processors<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cpu-processors/amd-processors/amd-processors">AMD Processors</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cpu-processors/intel-processors/intel-processors">Intel Processors</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cables-and-accessories/cables-and-accessories" class="sf-with-ul">Cables and Accessories<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cables-and-accessories/hdmi-cables/hdmi-cables">HDMI Cables</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cables-and-accessories/power-boards/power-boards">Power Boards</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/case/case" class="sf-with-ul">Case<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/case/atx-case-with-built-in-power-supply/atx-case-with-built-in-power-supply">ATX Case with built-in Power Supply</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/case/atx-case-without-built-in-power-supply/atx-case-without-built-in-power-supply">ATX Case without built-in Power Supply</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/case/case-accessories/case-accessories">Case Accessories</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/digital-photo-frames/1027">DIgital Photo Frames</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/desktop-pc-systems/desktop-pc-systems" class="sf-with-ul">Desktop PC systems<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/desktop-pc-systems/all-in-one-pcs/all-in-one-pcs">All in One PCs</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/desktop-pc-systems/budget-desktop-pc-computer-systems/budget-desktop-pc-computer-systems">Budget Desktop PC Computer Systems</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/desktop-pc-systems/business-desktop-pc-computer-systems/business-desktop-pc-computer-systems">Business Desktop PC Computer Systems</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/desktop-pc-systems/gaming-pc-computer-systems/gaming-pc-computer-systems">Gaming PC Computer Systems</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/flash-memory/flash-memory" class="sf-with-ul">Flash Memory<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/flash-memory/memory-pro-duo/memory-pro-duo">Memory Pro/Duo</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/flash-memory/sd-micro-sd-cards/sd-microsd-cards">SD/Micro SD Cards</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/flash-memory/usb-flash-drive/usb-flash-drive">USB Flash Drive</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/hard-drives/hard-drives" class="sf-with-ul">Hard Drives<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/hard-drives/external-portable-hard-drive-enclosures/external-portable-hard-drive-enclosures">External/Portable Hard Drive Enclosures</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/hard-drives/external-portable-hard-drives/external-portable-hard-drives">External/Portable Hard Drives</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/hard-drives/internal-hard-drives/internal-hard-drives">Internal Hard Drives</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/hard-drives/ssd-drives/ssd-drives">SSD Drives</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/keyboards-and-mice/keyboards-and-mice" class="sf-with-ul">Keyboards and Mice<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/keyboards-and-mice/keyboard-and-mouse-combos/keyboard-and-mouse-combos">Keyboard and Mouse Combos</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/keyboards-and-mice/keyboards/keyboards">Keyboards</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/keyboards-and-mice/mice/mice">Mice</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/lcd-led-monitors/LCD-LED-Monitors" class="sf-with-ul">LCD/LED Monitors<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/cables-and-accessories/cables-and-accessories">Cables and Accessories</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/lcd-led-monitors/lcd-monitors/lcd-monitors">LCD Monitors</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/lcd-led-monitors/led-monitors/led-monitors">LED Monitors</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/laptops-notebooks" class="sf-with-ul">Laptops/Notebooks<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/basic-simple-laptops/basic-simple-laptops">Basic Simple Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/business-laptops/business-laptops">Business Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/discontinued-refurbished-laptops/discontinued-refurbished-laptops">Discontinued/Refurbished Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/docking-stations-port-replicators/docking-stations-port-replicators">Docking Stations/Port Replicators</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/gaming-laptops/gaming-laptops">Gaming Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/graphic-design-laptops/graphic-design-laptops">Graphic Design Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/laptop-carry-bags/laptop-carry-bags">Laptop Carry Bags</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/laptop-coolers-stands/laptop-coolers-stands">Laptop Coolers/Stands</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/laptop-power-adapters/laptop-power-adapters">Laptop Power Adapters</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/laptop-warranty-upgrades/laptop-warranty-upgrades">Laptop Warranty Upgrades</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/multimedia-laptops/multimedia-laptops">Multimedia Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/tablet-pcs/tablet-pcs">Tablet PCs</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/laptops-notebooks/ultra-portable-laptops/ultra-portable-laptops">Ultra Portable Laptops</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/memory-ram/memory-ram" class="sf-with-ul">Memory/Ram<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/memory-ram/desktop-pc-memory/desktop-pc-memory">Desktop PC Memory</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/memory-ram/laptop-memory/laptop-memory">Laptop Memory</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/motherboards/motherboards" class="sf-with-ul">Motherboards<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/motherboards/amd-motherboards/amd-motherboards">AMD Motherboards</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/motherboards/intel-motherboards/intel-motherboards">Intel Motherboards</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/netbooks/netbooks" class="sf-with-ul">Netbooks<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/netbooks/netbooks/netbook-bags-sleeves/netbook-bags-sleeves">Netbook Bags/Sleeves</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/netbooks/netbooks/netbook-power-adapters/netbook-power-adapters">Netbook Power Adapters</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/netbooks/netbooks">Netbooks</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/netbooks/touchscreen-netbooks/touchscreen-netbooks">Touchscreen Netbooks</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/netbooks/warranty-upgrades/warranty-upgrades">Warranty Upgrades</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/network-attached-storage/network-attached-storage">Network Attached Storage</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/networking" class="sf-with-ul">Networking<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/accessories/accessories">Accessories</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/lan-adapters/lan-adapters">LAN Adapters</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/network-switches/network-switches">Network Switches</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/routers/routers">Routers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/voip/VOIP">VOIP</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/networking/wireless-lan-wifi-adapters/wireless-lan-wifi-adapters">Wireless LAN WiFi Adapters</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/optical-drives-blu-ray/optical-drives-blu-ray" class="sf-with-ul">Optical Drives/Blu-ray<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/optical-drives-blu-ray/dvd-blu-ray-media/dvd-blu-ray-media">DVD/Blu-ray Media</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/optical-drives-blu-ray/external-optical-blu-ray-drives/external-optical-blu-ray-drives">External Optical/Blu-ray Drives</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/optical-drives-blu-ray/internal-optical-blu-ray-drives/internal-optical-blu-ray-drives">Internal Optical/Blu-ray Drives</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/power-supplies/power-supplies">Power Supplies</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printer-consumables/printer-consumables" class="sf-with-ul">Printer Consumables<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printer-consumables/original-colour-laser-toners/original-colour-laser-toners">Original Colour Laser Toners</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printer-consumables/original-ink-cartridges/original-ink-cartridges">Original Ink Cartridges</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printer-consumables/original-mono-laser-toners/original-mono-laser-toners">Original Mono Laser Toners</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printers/printers" class="sf-with-ul">Printers<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printers/colour-laser-printers/colour-later-printers">Colour Laser Printers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printers/inkjet-printers/inkjet-printers">Inkjet Printers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printers/mono-laser-printers/mono-laser-printers">Mono Laser Printers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/printers/multifunction-printers/multifunction-printers">Multifunction Printers</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/scanners/scanners">Scanners</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/service/service">Service</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/software/software" class="sf-with-ul">Software<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/software/antivirus-and-security/antivirus-and-security">Antivirus and Security</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/software/business-and-office-applications/business-and-office-applications">Business and Office Applications</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/software/design-and-multimedia/design-and-multimedia">Design and Multimedia</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/software/operating-systems/operating-systems">Operating Systems</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/speakers/speakers" class="sf-with-ul">Speakers<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/speakers/headsets/headsets">Headsets</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/speakers/speakers">Speakers</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/surveillance-cameras/surveillance-cameras">Surveillance Cameras</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/tv-tuners/tv-tuners">TV Tuners</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/usb-device/usb-device" class="sf-with-ul">USB Device<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/usb-device/bluetooth-dongles/bluetooth-dongles">Bluetooth Dongles</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/controller-cards/card-readers/card-readers">Card Readers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/usb-device/usb-flash-drives/USB-flash-drives">USB Flash Drives</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/video-cards/video-cards" class="sf-with-ul">Video Cards<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/video-cards/ati-radeon/ati-radeon">ATI Radeon</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/video-cards/nvidia-geforce/nvidia-geforce">Nvidia Geforce</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/webcam/webcam">Webcam</a></li></ul></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/electronics/electronics" class="sf-with-ul">Electronics<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/electronics/consoles-and-gaming/consoles-and-gaming">Consoles and Gaming</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/dvd-blu-ray-players/dvd-blu-ray-players">DVD/Blu-ray Players</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/digital-cameras/digital-cameras">Digital Cameras</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/digital-slr-cameras/digital-slr-cameras">Digital SLR Cameras</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/digital-video-cameras/digital-video-cameras">Digital Video Cameras</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/mp3-players-and-accessories/mp3-players-and-accessories">MP3 Players and Accessories</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/media-players/media-players">Media Players</a></li><li><a href="http://www.shoppingexpress.com.au/shop/electronics/smartphones/smartphones">Smartphones</a></li><li><a href="http://www.shoppingexpress.com.au/shop/computer-it/surveillance-cameras/surveillance-cameras">Surveillance Cameras</a></li></ul></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/laptop-of-the-day/laptop-of-the-day">Laptop of the day</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/office-supplies/office-supplies" class="sf-with-ul">Office Supplies<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/recycled-paper-stationery/business-card-holders/business-card-holders">Business Card Holders</a></li><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/calculators/calculators">Calculators</a></li><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/recycled-paper-stationery/recycled-paper-stationery" class="sf-with-ul">Recycled Paper Stationery<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/recycled-paper-stationery/business-card-holders/business-card-holders">Business Card Holders</a></li><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/recycled-paper-stationery/media-holders/media-holders">Media Holders</a></li><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/recycled-paper-stationery/notepads/notepads">Notepads</a></li><li><a href="http://www.shoppingexpress.com.au/shop/office-supplies/recycled-paper-stationery/pens/pens">Pens</a></li></ul></li></ul></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/top-10-laptops/top-10-laptops">Top 10 Laptops</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/canon-printer-cash-back/canon-cash-back">Canon Printer Cash Back</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/christmas-ideas/christmas-ideas" class="sf-with-ul">Christmas Ideas<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/christmas-ideas/christmas-decorations/christmas-decorations">Christmas Decorations</a></li><li><a href="http://www.shoppingexpress.com.au/shop/christmas-ideas/christmas-trees/christmas-trees">Christmas Trees</a></li></ul></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/gift-vouchers/gift-vouchers">Gift Vouchers</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/holiday-sale/holiday-sale" class="sf-with-ul">Holiday Sale<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/holiday-sale/holiday-gadgets/holiday-gadgets">Holiday Gadgets</a></li><li><a href="http://www.shoppingexpress.com.au/shop/holiday-sale/holiday-security/holiday-security">Holiday Security</a></li><li><a href="http://www.shoppingexpress.com.au/shop/holiday-sale/holiday-travelling-accessories/holiday-travelling-accessories">Holiday Travelling Accessories</a></li></ul></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/next-day-dispatch-guarantee" class="sf-with-ul">Next Day Dispatch Guarantee<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-cables-powerboards/nddg-cables-powerboards">NDDG Cables &amp; PowerBoards</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-cameras/nddg-cameras">NDDG Cameras</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-comnputer-components/NDDG-computer-components">NDDG Comnputer Components</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-electronics/nddg-electronics">NDDG Electronics</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-flash-memory/nddg-flash-memory">NDDG Flash Memory</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-hard-drives/nddg-hard-drives">NDDG Hard Drives</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-lcd-led-monitors/NDDG-lcd-led-monitors">NDDG LCD/LED Monitors</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-laptops/nddg-laptops">NDDG Laptops</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-networking/nddg-networking">NDDG Networking</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-others/nddg-others">NDDG Others</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-printers/nddg-printers">NDDG Printers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-software/NDDG-software">NDDG Software</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-speakers/nddg-speakers">NDDG Speakers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-tablets-netbooks/nddg-tablets-netbooks">NDDG Tablets &amp; Netbooks</a></li><li><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/nddg-video-cards/nddg-video%20cards">NDDG Video Cards</a></li></ul></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/samsung-clearance/samsung-clearance">Samsung Clearance</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/tablet-pcs/tablet-pcs-hot">Tablet PCs</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/top-10-business-laptops/top-10-business-laptops">Top 10 Business Laptops</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/top-10-gaming-laptops/top-10-gaming-laptops">Top 10 Gaming Laptops</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/top-10-gaming-monitors/top-10-gaming-monitors">Top 10 Gaming Monitors</a></li><li class="current"><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/xmas-2011-gift-catalogue" class="sf-with-ul">Xmas 2011 Gift Catalogue<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/accessories/x2011gc-accessories">Accessories</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/electronics/x2011gc-electronics">Electronics</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/gaming-video-cards/x2011gc-gaming-video-cards">Gaming Video Cards</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/hard-drives/x2011gc-hard-drives">Hard Drives</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/x2011gc-laptops" class="sf-with-ul">Laptops<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/business-class/x2011gc-business-class-laptops">Business Class</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/core-i3/x2011gc-core-i3-laptops">Core i3</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/core-i5/x2011gc-core-i5-laptops">Core i5</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/core-i7/x2011gc-core-i7-laptops">Core i7</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/dual-core/x2011gc-dual-core-laptops">Dual Core</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/multimedia-entertainment/x2011gc-multimedia-entertainment-laptops">Multimedia Entertainment</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/laptops/top-gaming/x2011gc-top-gaming-laptops">Top Gaming</a></li></ul></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/monitors/x2011gc-monitors">Monitors</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/netbooks/x2011gc-netbooks">Netbooks</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/networking/x2011gc-networking">Networking</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/printers/x2011gc-printers">Printers</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/smartphone/x2011gc-smartphone">Smartphone</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/software/x2011gc-software">Software</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/tablets/x2011gc-tablets">Tablets</a></li><li><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/iphone-tablet-accessories/x2011gc-iphone-tablet-accessories">iPhone/Tablet Accessories</a></li></ul></li> 
-<li><a style="color:#960814" href="/view/in_promo">Hot Deals</a></li>
-<li><a style="color:#960814" href="/shop/clearance/17">Clearance</a></li>
-<li><a style="color:#960814" href="/view/new_arrivals">New Arrivals</a></li>
-</ul><br style="clear:both;"></div>
-
+           <li class="level1-li"><a style="color:#960814 !important;" href="/view/EpicHour" class="level1-link">Epic Hour</a></li>
+           
+               <li class="level1-li" id="m63">
+                   <a href="/shop/opened-box/opened-box" class="level1-link">Opened Box</a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m54">
+                   <a href="/shop/refurbished/refurbished-products" class="level1-link">Refurbished </a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m75">
+                   <a href="/shop/newsletter-deals/newsletter-deals" class="level1-link">Newsletter Deals</a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m50">
+                   <a href="/shop/the-top-10s/the-top-tens" class="level1-link">The Top 10s</a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m76">
+                   <a href="/shop/gift-vouchers/gift-vouchers" class="level1-link">Gift Vouchers</a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m39">
+                   <a href="/shop/tablet-pcs/tablet-pcs-hot" class="level1-link">Tablet PCs</a>
+                   
+                   <div class="sub" style="opacity: 0;">
+                       <ul class="level2">
+               <li class="level2-li"><a href="/shop/tablet-pcs/tablet-accessories/tablet-accessories">Tablet Accessories</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/tablet-pcs/tablet-pcs/tablet-pcs">Tablet PCs</a><ul></ul></li> 
+           </ul>
+                   </div>
+               </li>
+           
+               <li class="level1-li" id="m32">
+                   <a href="/shop/ultrabooks/ultrabooks" class="level1-link">Ultrabooks</a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m49">
+                   <a href="/shop/laptop-of-the-day/laptop-of-the-day" class="level1-link">Laptop of the day</a>
+                   
+               </li>
+           
+               <li class="level1-li" id="m53">
+                   <a href="/shop/laptops-notebooks/laptops" class="level1-link">Laptops/Notebooks</a>
+                   
+                   <div class="sub" style="opacity: 0;">
+                       <ul class="level2">
+               <li class="level2-li"><a href="/shop/laptops-notebooks/acer/acer-laptops">Acer</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/laptops-notebooks/asus/asus-laptops">Asus</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/laptops-notebooks/gigabyte/gigabyte-laptops">Gigabyte</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/laptops-notebooks/hp/hp-laptops">HP</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/laptops-notebooks/lenovo/lenovo-laptops">Lenovo</a><ul></ul></li> 
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           </ul><ul class="level2" id="slice1"><li class="level2-li"><a href="/shop/laptops-notebooks/samsung/samsung-laptops">Samsung</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/sony/sony-laptops">Sony</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/toshiba/toshiba-laptops">Toshiba</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/netbooks/netbooks">Netbooks</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/laptop-bags/laptop-bags">Laptop Bags</a><ul></ul></li></ul><ul class="level2" id="slice2"><li class="level2-li"><a href="/shop/laptops-notebooks/laptop-coolers/laptop-coolers">Laptop Coolers</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/laptop-docking-stations/laptop-docking-stations">Laptop Docking Stations</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/memory-ram/laptop-memory/laptop-memory">Laptop Memory</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/laptop-power-adapter/laptop-power-adapter">Laptop Power Adapter</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/laptops-notebooks/laptop-warranty-upgrades/laptop-warranty-upgrades">Laptop Warranty Upgrades</a><ul></ul></li></ul><ul class="level2" id="slice3"><li class="level2-li"><a href="/shop/laptops-notebooks/netbook-bags/netbook-bags">Netbook Bags</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/netbook-options/Netbook-Options">Netbook Options</a><ul></ul></li><li class="level2-li"><a href="/shop/laptops-notebooks/netbook-warranty-upgrades/netbook-warranty-upgrades">Netbook Warranty Upgrades</a><ul></ul></li></ul>
+                   </div>
+               </li>
+           
+               <li class="level1-li" id="m10">
+                   <a href="/shop/computer-it/computer-it" class="level1-link">Computer &amp; IT</a>
+                   
+                   <div class="sub" style="opacity: 0;">
+                       <ul class="level2">
+               <li class="level2-li"><a href="/shop/computer-it/cpu-processors/cpu-processors">CPU Processors</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/cpu-processors/amd-processors/amd-processors">AMD Processors</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/cpu-processors/intel-processors/intel-processors">Intel Processors</a></li>
+           </ul></li> 
+           
+               <li class="level2-li"><a href="/shop/computer-it/cables-and-accessories/cables-and-accessories">Cables and Accessories</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/cables-and-accessories/hdmi-cables/hdmi-cables">HDMI Cables</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/cables-and-accessories/power-boards/power-boards">Power Boards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/cables-and-accessories/usb-cables/usb-cables">USB Cables</a></li>
+           </ul></li> 
+           
+               <li class="level2-li"><a href="/shop/computer-it/case/case">Case</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/case/atx-case-with-psu/atx-case-with-built-in-power-supply">ATX Case with PSU</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/case/atx-case-without-psu/atx-case-without-built-in-power-supply">ATX Case without PSU</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/case/case-accessories/case-accessories">Case Accessories</a></li>
+           </ul></li> 
+           
+               <li class="level2-li"><a href="/shop/computer-it/controller-cards/controller-cards">Controller Cards</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/controller-cards/card-readers/card-readers">Card Readers</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/controller-cards/firewire-cards/firewire-cards">Firewire Cards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/controller-cards/network-cards/network-cards">Network Cards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/controller-cards/parallel-port-cards/parallel-port-cards">Parallel Port Cards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/controller-cards/serial-port-cards/serial-port-cards">Serial Port Cards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/controller-cards/usb-controller-cards/usb-controller-cards">USB Controller Cards</a></li>
+           </ul></li> 
+           
+               <li class="level2-li"><a href="/shop/computer-it/desktop-pc-systems/desktop-pc-systems">Desktop PC systems</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/desktop-pc-systems/all-in-one-pcs/all-in-one-pcs">All in One PCs</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/desktop-pc-systems/budget-desktop-pc/budget-desktop-pc-computer-systems">Budget Desktop PC</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/desktop-pc-systems/business-desktop-pc/business-desktop-pc-computer-systems">Business Desktop PC</a></li>
+           </ul></li> 
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           
+                
+           </ul><ul class="level2" id="slice5"><li class="level2-li"><a href="/shop/computer-it/flash-memory/flash-memory">Flash Memory</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/flash-memory/compact-flash/compact-flash">Compact Flash</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/flash-memory/memory-pro-duo/memory-pro-duo">Memory Pro/Duo</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/flash-memory/sd-micro-sd-cards/sd-microsd-cards">SD/Micro SD Cards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/flash-memory/usb-flash-drive/usb-flash-drive">USB Flash Drive</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/hard-drives/hard-drives">Hard Drives</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/hard-drives/cloud/cloud-storage">Cloud</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/hard-drives/external-drive-enclosures/external-portable-hard-drive-enclosures">External Drive Enclosures</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/hard-drives/external-portable-hard-drives/external-portable-hard-drives">External/Portable Hard Drives</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/hard-drives/internal-hard-drives/internal-hard-drives">Internal Hard Drives</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/hard-drives/ssd-drives/ssd-drives">SSD Drives</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/keyboards-and-mouse/keyboards-and-mice">Keyboards and Mouse</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/keyboards-and-mouse/keyboard-and-mouse-combos/keyboard-and-mouse-combos">Keyboard and Mouse Combos</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/keyboards-and-mouse/keyboards/keyboards">Keyboards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/keyboards-and-mouse/mice/mice">Mice</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/lcd-led-monitors/LCD-LED-Monitors">LCD/LED Monitors</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/cables-and-accessories/cables-and-accessories">Cables and Accessories</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/lcd-led-monitors/cloud-display/cloud-display">Cloud Display</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/lcd-led-monitors/lcd-monitors/lcd-monitors">LCD Monitors</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/lcd-led-monitors/led-monitors/led-monitors">LED Monitors</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/memory-ram/memory-ram">Memory/Ram</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/memory-ram/desktop-pc-memory/desktop-pc-memory">Desktop PC Memory</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/memory-ram/laptop-memory/laptop-memory">Laptop Memory</a></li>
+           </ul></li></ul><ul class="level2" id="slice6"><li class="level2-li"><a href="/shop/computer-it/motherboards/motherboards">Motherboards</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/motherboards/amd-motherboards/amd-motherboards">AMD Motherboards</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/motherboards/intel-motherboards/intel-motherboards">Intel Motherboards</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/network-attached-storage/network-attached-storage">Network Attached Storage</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/networking/networking">Networking</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/networking/accessories/accessories">Accessories</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/networking/lan-adapters/lan-adapters">LAN Adapters</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/networking/network-switches/network-switches">Network Switches</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/networking/routers-modem-routers/routers-modem-routers">Routers/Modem Routers</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/networking/voip/VOIP">VOIP</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/networking/wireless-lan-wifi-adapters/wireless-lan-wifi-adapters">Wireless LAN WiFi Adapters</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/optical-drives-blu-ray/optical-drives-blu-ray">Optical Drives/Blu-ray</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/optical-drives-blu-ray/external-optical-blu-ray-drives/external-optical-blu-ray-drives">External Optical/Blu-ray Drives</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/optical-drives-blu-ray/internal-optical-blu-ray-drives/internal-optical-blu-ray-drives">Internal Optical/Blu-ray Drives</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/power-supplies/power-supplies">Power Supplies</a><ul></ul></li></ul><ul class="level2" id="slice7"><li class="level2-li"><a href="/shop/computer-it/printer-consumables/printer-consumables">Printer Consumables</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/printer-consumables/original-colour-laser-toners/original-colour-laser-toners">Original Colour Laser Toners</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/printer-consumables/original-ink-cartridges/original-ink-cartridges">Original Ink Cartridges</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/printer-consumables/original-mono-laser-toners/original-mono-laser-toners">Original Mono Laser Toners</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/printers/printers">Printers</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/printers/colour-laser-printers/colour-later-printers">Colour Laser Printers</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/printers/inkjet-printers/inkjet-printers">Inkjet Printers</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/printers/mono-laser-printers/mono-laser-printers">Mono Laser Printers</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/printers/multifunction-printers/multifunction-printers">Multifunction Printers</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/scanners/scanners">Scanners</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/server/servers">Server</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/service/service">Service</a><ul></ul></li></ul><ul class="level2" id="slice8"><li class="level2-li"><a href="/shop/computer-it/software/software">Software</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/software/antivirus-and-security/antivirus-and-security">Antivirus and Security</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/software/business-and-office-applications/business-and-office-applications">Business and Office Applications</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/software/design-and-multimedia/design-and-multimedia">Design and Multimedia</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/software/operating-systems/operating-systems">Operating Systems</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/speakers/speakers">Speakers</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/speakers/headsets/headsets">Headsets</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/speakers/microphones/microphones">Microphones</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/speakers/speakers">Speakers</a></li>
+           </ul></li><li class="level2-li"><a href="/shop/computer-it/surveillance-cameras/surveillance-cameras">Surveillance Cameras</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/tv-tuners/tv-tuners">TV Tuners</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/video-cards/video-cards">Video Cards</a><ul>
+               <li class="level3-li"><a href="/shop/computer-it/video-cards/ati-radeon/ati-radeon">ATI Radeon</a></li>
+           
+               <li class="level3-li"><a href="/shop/computer-it/video-cards/nvidia-geforce/nvidia-geforce">Nvidia Geforce</a></li>
+           </ul></li></ul><ul class="level2" id="slice9"><li class="level2-li"><a href="/shop/computer-it/webcam/webcam">Webcam</a><ul></ul></li></ul>
+                   </div>
+               </li>
+           
+               <li class="level1-li" id="m11">
+                   <a href="/shop/electronics/electronics" class="level1-link">Electronics</a>
+                   
+                   <div class="sub" style="opacity: 0;">
+                       <ul class="level2">
+               <li class="level2-li"><a href="/shop/electronics/consoles-and-gaming/consoles-and-gaming">Consoles and Gaming</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/electronics/dvd-blu-ray-players/dvd-blu-ray-players">DVD/Blu-ray Players</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/electronics/digital-cameras/digital-cameras">Digital Cameras</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/electronics/digital-slr-cameras/digital-slr-cameras">Digital SLR Cameras</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/electronics/digital-video-cameras/digital-video-cameras">Digital Video Cameras</a><ul></ul></li> 
+           
+                
+           
+                
+           
+                
+           
+                
+           </ul><ul class="level2" id="slice11"><li class="level2-li"><a href="/shop/electronics/mp3-players-and-accessories/mp3-players-and-accessories">MP3 Players and Accessories</a><ul></ul></li><li class="level2-li"><a href="/shop/electronics/media-players/media-players">Media Players</a><ul></ul></li><li class="level2-li"><a href="/shop/electronics/smartphones/smartphones">Smartphones</a><ul></ul></li><li class="level2-li"><a href="/shop/computer-it/surveillance-cameras/surveillance-cameras">Surveillance Cameras</a><ul></ul></li></ul>
+                   </div>
+               </li>
+           
+               <li class="level1-li" id="m13">
+                   <a href="/shop/office-supplies/office-supplies" class="level1-link">Office Supplies</a>
+                   
+                   <div class="sub" style="opacity: 0;">
+                       <ul class="level2">
+               <li class="level2-li"><a href="/shop/office-supplies/recycled-paper-stationery/business-card-holders/business-card-holders">Business Card Holders</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/office-supplies/calculators/calculators">Calculators</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/office-supplies/labellers/labellers">Labellers</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/office-supplies/paper/paper">Paper</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/office-supplies/recycled-paper-stationery/recycled-paper-stationery">Recycled Paper Stationery</a><ul>
+               <li class="level3-li"><a href="/shop/office-supplies/recycled-paper-stationery/business-card-holders/business-card-holders">Business Card Holders</a></li>
+           
+               <li class="level3-li"><a href="/shop/office-supplies/recycled-paper-stationery/media-holders/media-holders">Media Holders</a></li>
+           
+               <li class="level3-li"><a href="/shop/office-supplies/recycled-paper-stationery/notepads/notepads">Notepads</a></li>
+           
+               <li class="level3-li"><a href="/shop/office-supplies/recycled-paper-stationery/pens/pens">Pens</a></li>
+           </ul></li> 
+           </ul>
+                   </div>
+               </li>
+           
+               <li class="level1-li" id="m60">
+                   <a href="/shop/ipad-iphone/iPad-iPhone" class="level1-link">iPad &amp; iPhone</a>
+                   
+                   <div class="sub" style="opacity: 0;">
+                       <ul class="level2">
+               <li class="level2-li"><a href="/shop/ipad-iphone/ipad/iPad">iPad</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/ipad-iphone/ipad-iphone-accessories/ipad-iphone-accessories">iPad &amp; iPhone Accessories</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/ipad-iphone/ipad-cover/ipad-cover">iPad Cover</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/ipad-iphone/iphone/iPhone">iPhone</a><ul></ul></li> 
+           
+               <li class="level2-li"><a href="/shop/ipad-iphone/iphone-cover/iPhone-cover">iPhone Cover</a><ul></ul></li> 
+           </ul>
+                   </div>
+               </li>
+           
+           </ul>
+       </div>
+       
 <div class="clear"></div>
 </div>
 
@@ -197,7 +610,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <div class="box">
 <div class="header">Newsletter <img src="/assets/template/newsletter.png" style="margin-left:30px; position:absolute;"></div>
 <div class="content">
-<div class="text">Recieve Exclusive deals &amp; special offers!</div><br style="clear:both;">
+<div class="text">Receive Exclusive deals &amp; special offers!</div><br style="clear:both;">
 
 <form accept-charset="UTF-8" name="IBNSubscribe" action="http://clicks.skem1.com/signup/" method="POST">
 <input type="hidden" name="c" value="11PVpH">
@@ -221,7 +634,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
       <li class="lv1"><a style="color:#960814" href="/view/in_promo">Hot Deals</a></li>
       <li class="lv1"><a style="color:#960814" href="/shop/clearance/17">Clearance</a></li>
       <li class="lv1"><a style="color:#960814" href="/view/new_arrivals">New Arrivals</a></li>
-<li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/computer-it/computer-it">Computer &amp; IT</a> (2095)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/electronics/electronics">Electronics</a> (139)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/laptop-of-the-day/laptop-of-the-day">Laptop of the day</a> (1)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/office-supplies/office-supplies">Office Supplies</a> (50)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/top-10-laptops/top-10-laptops">Top 10 Laptops</a> (10)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/canon-printer-cash-back/canon-cash-back">Canon Printer Cash Back</a> (7)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/christmas-ideas/christmas-ideas">Christmas Ideas</a> (36)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/gift-vouchers/gift-vouchers">Gift Vouchers</a> (4)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/holiday-sale/holiday-sale">Holiday Sale</a> (63)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/lucky-draws/lucky-draws">Lucky Draws</a> (0)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/next-day-dispatch-guarantee/next-day-dispatch-guarantee">Next Day Dispatch Guarantee</a> (332)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/samsung-clearance/samsung-clearance">Samsung Clearance</a> (7)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/tablet-pcs/tablet-pcs-hot">Tablet PCs</a> (26)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/top-10-business-laptops/top-10-business-laptops">Top 10 Business Laptops</a> (10)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/top-10-gaming-laptops/top-10-gaming-laptops">Top 10 Gaming Laptops</a> (10)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/top-10-gaming-monitors/top-10-gaming-monitors">Top 10 Gaming Monitors</a> (10)</li><li class="lv1"><a href="http://www.shoppingexpress.com.au/shop/xmas-2011-gift-catalogue/xmas-2011-gift-catalogue">Xmas 2011 Gift Catalogue</a> (403)</li> 
+      <li class="lv1"><a style="color:#960814" href="/view/Promotions">Promotions</a></li>
+<li class="lv1"><a href="/shop/opened-box/opened-box">Opened Box</a> (15)</li><li class="lv1"><a href="/shop/refurbished/refurbished-products">Refurbished </a> (14)</li><li class="lv1"><a href="/shop/newsletter-deals/newsletter-deals">Newsletter Deals</a> (0)</li><li class="lv1"><a href="/shop/the-top-10s/the-top-tens">The Top 10s</a> (0)</li><li class="lv1"><a href="/shop/gift-vouchers/gift-vouchers">Gift Vouchers</a> (0)</li><li class="lv1"><a href="/shop/tablet-pcs/tablet-pcs-hot">Tablet PCs</a> (111)</li><li class="lv1"><a href="/shop/ultrabooks/ultrabooks">Ultrabooks</a> (23)</li><li class="lv1"><a href="/shop/laptop-of-the-day/laptop-of-the-day">Laptop of the day</a> (2)</li><li class="lv1"><a href="/shop/laptops-notebooks/laptops">Laptops/Notebooks</a> (483)</li><li class="lv1"><a href="/shop/computer-it/computer-it">Computer &amp; IT</a> (1971)</li><li class="lv1"><a href="/shop/electronics/electronics">Electronics</a> (115)</li><li class="lv1"><a href="/shop/office-supplies/office-supplies">Office Supplies</a> (22)</li><li class="lv1"><a href="/shop/ipad-iphone/iPad-iPhone">iPad &amp; iPhone</a> (128)</li> 
       </ul>
     </div>
 
@@ -231,7 +645,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 	<div class="body">
 	<div class="sub_header">Brands</div>
       <ul>
-  <li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%20HD15M%201%2E8m%22"> HD15M 1.8m"</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%20HD15M%202m%22"> HD15M 2m"</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%20HD15M%203m%22"> HD15M 3m"</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%20Intel"> Intel</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%20PS2M"> PS2M</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%2CIomega%20eGo%201%20TB%20USB%203%2E0%20Desktop%20Hard%20Drive%20Grey%22">,Iomega eGo 1 TB USB 3.0 Desktop Hard Drive Grey"</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%2CIomega%20Prestige%203%20TB%20USB%203%2E0%20Desktop%20Hard%20Drive%22">,Iomega Prestige 3 TB USB 3.0 Desktop Hard Drive"</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/%2CKingston%20SSDNow%20128GB%202%2E5%20inch%20Internal%20Solid%20Sta">,Kingston SSDNow 128GB 2.5 inch Internal Solid Sta</a></li>
+  <li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/Acer">Acer</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/Adobe">Adobe</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/AMD">AMD</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/Antec">Antec</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/AOC">AOC</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/Apple">Apple</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/Astone">Astone</a></li><li class="lv1"><a href="http://www.shoppingexpress.com.au/brand/Asus">Asus</a></li>
   <li class="lv1"><b><a href="http://www.shoppingexpress.com.au/view/brands">Show all brands...</a></b></li>
       </ul>
     </div>
@@ -263,247 +677,93 @@ New Arrivals
 <ul>
 <li>
 <div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/lacie-netbook-kit-10-sleeve-mouse-usb-hub-313097/131097" title="Lacie Netbook Kit 10 Sleeve+Mouse+USB Hub 313097"><img src="/assets/thumb/131097.jpg" alt="Lacie Netbook Kit 10 Sleeve+Mouse+USB Hub 313097" rel="itmimg131097" width="60px" height="60px" border="0"></a>
+<a href="http://www.shoppingexpress.com.au/buy/toshiba-satellite-l750-core-i5-15.6-inch-nvidia-1gb-laptop-psk2za-004001/PSK2ZA-004001-8GB" title="Toshiba Satellite L750 Core i5 15.6 inch nVidia 1GB Laptop PSK2ZA-004001"><img src="/assets/thumb/PSK2ZA-004001-8GB.jpg" alt="Toshiba Satellite L750 Core i5 15.6 inch nVidia 1GB Laptop PSK2ZA-004001" rel="itmimgPSK2ZA-004001-8GB" width="60px" height="60px" border="0"></a>
 </div>
 <div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lacie-netbook-kit-10-sleeve-mouse-usb-hub-313097/131097">Lacie Netbook Kit 10 Sleeve+Mouse+USB Hub 313097</a></div>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/toshiba-satellite-l750-core-i5-15.6-inch-nvidia-1gb-laptop-psk2za-004001/PSK2ZA-004001-8GB">Toshiba Satellite L750 Core i5 15.6 inch nVidia 1G</a></div>
 <div class="price">
 
-$36.60
+$790.00
 
-<font class="save">38% OFF</font>
+<font class="save">11% OFF</font>
 </div>
 <div class="wishlist">
 
-<a class="wishlist_toggle" rel="131097"><span class="add" rel="wishlist_text131097">Add To Wishlist</span></a>
+<a class="wishlist_toggle" rel="PSK2ZA-004001-8GB"><span class="add" rel="wishlist_textPSK2ZA-004001-8GB">Add To Wishlist</span></a>
 
 </div>
 </div>
 <div class="bottom">
 
 
-<input type="text" id="qtyaxCEW131097" name="qtyaxCEW131097" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW131097" name="skuaxCEW131097" value="131097"> 
-<input type="hidden" id="modelaxCEW131097" name="modelaxCEW131097" value="Lacie Netbook Kit 10 Sleeve+Mouse+USB Hub 313097">
-<input type="hidden" id="thumbaxCEW131097" name="thumbaxCEW131097" value="/assets/thumb/131097.jpg">
+<input type="text" id="qtyyWCW8PSK2ZA-004001-8GB" name="qtyyWCW8PSK2ZA-004001-8GB" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skuyWCW8PSK2ZA-004001-8GB" name="skuyWCW8PSK2ZA-004001-8GB" value="PSK2ZA-004001-8GB"> 
+<input type="hidden" id="modelyWCW8PSK2ZA-004001-8GB" name="modelyWCW8PSK2ZA-004001-8GB" value="Toshiba Satellite L750 Core i5 15.6 inch nVidia 1GB Laptop PSK2ZA-004001">
+<input type="hidden" id="thumbyWCW8PSK2ZA-004001-8GB" name="thumbyWCW8PSK2ZA-004001-8GB" value="/assets/thumb/PSK2ZA-004001-8GB.jpg">
  
-<button type="button" class="addtocart" rel="axCEW131097" title="Add to Cart">Buy</button>
+<button type="button" class="addtocart" rel="yWCW8PSK2ZA-004001-8GB" title="Add to Cart">Buy</button>
 
 
 
 </div>
 </li> <li>
 <div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/philips-232e2sb-23-inch-lcd-monitor-smarttouch/232E2SB75" title="Philips 232E2SB 23 inch LCD Monitor SmartTouch"><img src="/assets/thumb/232E2SB75.jpg" alt="Philips 232E2SB 23 inch LCD Monitor SmartTouch" rel="itmimg232E2SB75" width="60px" height="60px" border="0"></a>
+<a href="http://www.shoppingexpress.com.au/buy/toshiba-satellite-pro-c850-core-i3-2.3ghz-15.6-inch-laptop-8gb-500gb-pskc9a-00u019-8gb/PSKC9A-00U019-8GB" title="Toshiba Satellite Pro C850 Core i3 2.3GHz 15.6 inch Laptop 8GB 500GB PSKC9A-00U019-8GB"><img src="/assets/thumb/PSKC9A-00U019-8GB.jpg" alt="Toshiba Satellite Pro C850 Core i3 2.3GHz 15.6 inch Laptop 8GB 500GB PSKC9A-00U019-8GB" rel="itmimgPSKC9A-00U019-8GB" width="60px" height="60px" border="0"></a>
 </div>
 <div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/philips-232e2sb-23-inch-lcd-monitor-smarttouch/232E2SB75">Philips 232E2SB 23 inch LCD Monitor SmartTouch</a></div>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/toshiba-satellite-pro-c850-core-i3-2.3ghz-15.6-inch-laptop-8gb-500gb-pskc9a-00u019-8gb/PSKC9A-00U019-8GB">Toshiba Satellite Pro C850 Core i3 2.3GHz 15.6 inc</a></div>
 <div class="price">
 
-$142.01
-
-<font class="save">18% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="232E2SB75"><span class="add" rel="wishlist_text232E2SB75">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtyaxCEW232E2SB75" name="qtyaxCEW232E2SB75" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW232E2SB75" name="skuaxCEW232E2SB75" value="232E2SB75"> 
-<input type="hidden" id="modelaxCEW232E2SB75" name="modelaxCEW232E2SB75" value="Philips 232E2SB 23 inch LCD Monitor SmartTouch">
-<input type="hidden" id="thumbaxCEW232E2SB75" name="thumbaxCEW232E2SB75" value="/assets/thumb/232E2SB75.jpg">
- 
-<button type="button" class="addtocart" rel="axCEW232E2SB75" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/philips-241e1sb-23.6-inch-lcd-monitor-full-hd/241E1SB75" title="Philips 241E1SB 23.6 inch LCD Monitor Full HD"><img src="/assets/thumb/241E1SB75.jpg" alt="Philips 241E1SB 23.6 inch LCD Monitor Full HD" rel="itmimg241E1SB75" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/philips-241e1sb-23.6-inch-lcd-monitor-full-hd/241E1SB75">Philips 241E1SB 23.6 inch LCD Monitor Full HD</a></div>
-<div class="price">
-
-$157.56
-
-<font class="save">22% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="241E1SB75"><span class="add" rel="wishlist_text241E1SB75">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtyaxCEW241E1SB75" name="qtyaxCEW241E1SB75" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW241E1SB75" name="skuaxCEW241E1SB75" value="241E1SB75"> 
-<input type="hidden" id="modelaxCEW241E1SB75" name="modelaxCEW241E1SB75" value="Philips 241E1SB 23.6 inch LCD Monitor Full HD">
-<input type="hidden" id="thumbaxCEW241E1SB75" name="thumbaxCEW241E1SB75" value="/assets/thumb/241E1SB75.jpg">
- 
-<button type="button" class="addtocart" rel="axCEW241E1SB75" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/lacie-rugged-safe-1tb-usb-firewire800-mobile-hard-drive-301490/301490" title="Lacie Rugged Safe 1TB USB Firewire800 Mobile Hard Drive 301490"><img src="/assets/thumb/301490.jpg" alt="Lacie Rugged Safe 1TB USB Firewire800 Mobile Hard Drive 301490" rel="itmimg301490" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lacie-rugged-safe-1tb-usb-firewire800-mobile-hard-drive-301490/301490">Lacie Rugged Safe 1TB USB Firewire800 Mobile Hard </a></div>
-<div class="price">
-
-$272.85
+$599.00
 
 <font class="save">14% OFF</font>
 </div>
 <div class="wishlist">
 
-<a class="wishlist_toggle" rel="301490"><span class="add" rel="wishlist_text301490">Add To Wishlist</span></a>
+<a class="wishlist_toggle" rel="PSKC9A-00U019-8GB"><span class="add" rel="wishlist_textPSKC9A-00U019-8GB">Add To Wishlist</span></a>
 
 </div>
 </div>
 <div class="bottom">
 
 
-<input type="text" id="qtyaxCEW301490" name="qtyaxCEW301490" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW301490" name="skuaxCEW301490" value="301490"> 
-<input type="hidden" id="modelaxCEW301490" name="modelaxCEW301490" value="Lacie Rugged Safe 1TB USB Firewire800 Mobile Hard Drive 301490">
-<input type="hidden" id="thumbaxCEW301490" name="thumbaxCEW301490" value="/assets/thumb/301490.jpg">
+<input type="text" id="qtyyWCW8PSKC9A-00U019-8GB" name="qtyyWCW8PSKC9A-00U019-8GB" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skuyWCW8PSKC9A-00U019-8GB" name="skuyWCW8PSKC9A-00U019-8GB" value="PSKC9A-00U019-8GB"> 
+<input type="hidden" id="modelyWCW8PSKC9A-00U019-8GB" name="modelyWCW8PSKC9A-00U019-8GB" value="Toshiba Satellite Pro C850 Core i3 2.3GHz 15.6 inch Laptop 8GB 500GB PSKC9A-00U019-8GB">
+<input type="hidden" id="thumbyWCW8PSKC9A-00U019-8GB" name="thumbyWCW8PSKC9A-00U019-8GB" value="/assets/thumb/PSKC9A-00U019-8GB.jpg">
  
-<button type="button" class="addtocart" rel="axCEW301490" title="Add to Cart">Buy</button>
+<button type="button" class="addtocart" rel="yWCW8PSKC9A-00U019-8GB" title="Add to Cart">Buy</button>
 
 
 
 </div>
 </li> <li>
 <div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/lacie-rugged-safe-500gb-usb-firewire800-mobile-hard-drive-301491/301491" title="Lacie Rugged Safe 500GB USB Firewire800 Mobile Hard Drive 301491"><img src="/assets/thumb/301491.jpg" alt="Lacie Rugged Safe 500GB USB Firewire800 Mobile Hard Drive 301491" rel="itmimg301491" width="60px" height="60px" border="0"></a>
+<a href="http://www.shoppingexpress.com.au/buy/lenovo-l2250p-22-inch-lcd-monitor-2572hb6/2572HB6" title="Lenovo L2250p 22 inch LCD Monitor Height Adjustable 2572HB6"><img src="/assets/thumb/2572HB6.jpg" alt="Lenovo L2250p 22 inch LCD Monitor Height Adjustable 2572HB6" rel="itmimg2572HB6" width="60px" height="60px" border="0"></a>
 </div>
 <div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lacie-rugged-safe-500gb-usb-firewire800-mobile-hard-drive-301491/301491">Lacie Rugged Safe 500GB USB Firewire800 Mobile Har</a></div>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lenovo-l2250p-22-inch-lcd-monitor-2572hb6/2572HB6">Lenovo L2250p 22 inch LCD Monitor Height Adjustabl</a></div>
 <div class="price">
 
-$199.10
+$199.00
 
-<font class="save">16% OFF</font>
+<font class="save">28% OFF</font>
 </div>
 <div class="wishlist">
 
-<a class="wishlist_toggle" rel="301491"><span class="add" rel="wishlist_text301491">Add To Wishlist</span></a>
+<a class="wishlist_toggle" rel="2572HB6"><span class="add" rel="wishlist_text2572HB6">Add To Wishlist</span></a>
 
 </div>
 </div>
 <div class="bottom">
 
 
-<input type="text" id="qtyaxCEW301491" name="qtyaxCEW301491" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW301491" name="skuaxCEW301491" value="301491"> 
-<input type="hidden" id="modelaxCEW301491" name="modelaxCEW301491" value="Lacie Rugged Safe 500GB USB Firewire800 Mobile Hard Drive 301491">
-<input type="hidden" id="thumbaxCEW301491" name="thumbaxCEW301491" value="/assets/thumb/301491.jpg">
+<input type="text" id="qtyyWCW82572HB6" name="qtyyWCW82572HB6" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skuyWCW82572HB6" name="skuyWCW82572HB6" value="2572HB6"> 
+<input type="hidden" id="modelyWCW82572HB6" name="modelyWCW82572HB6" value="Lenovo L2250p 22 inch LCD Monitor Height Adjustable 2572HB6">
+<input type="hidden" id="thumbyWCW82572HB6" name="thumbyWCW82572HB6" value="/assets/thumb/2572HB6.jpg">
  
-<button type="button" class="addtocart" rel="axCEW301491" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/lacie-wireless-space-1tb-neil-poulton-network-hard-drive-301932/301932" title="LaCie Wireless Space 1TB Neil Poulton Network Hard Drive 301932"><img src="/assets/thumb/301932.jpg" alt="LaCie Wireless Space 1TB Neil Poulton Network Hard Drive 301932" rel="itmimg301932" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lacie-wireless-space-1tb-neil-poulton-network-hard-drive-301932/301932">LaCie Wireless Space 1TB Neil Poulton Network Hard</a></div>
-<div class="price">
-
-$234.15
-
-<font class="save">5% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="301932"><span class="add" rel="wishlist_text301932">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtyaxCEW301932" name="qtyaxCEW301932" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW301932" name="skuaxCEW301932" value="301932"> 
-<input type="hidden" id="modelaxCEW301932" name="modelaxCEW301932" value="LaCie Wireless Space 1TB Neil Poulton Network Hard Drive 301932">
-<input type="hidden" id="thumbaxCEW301932" name="thumbaxCEW301932" value="/assets/thumb/301932.jpg">
- 
-<button type="button" class="addtocart" rel="axCEW301932" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/lacie-coat-laptop-carry-bag-for-up-to-10.2-inch-orange-130893/130893" title="Lacie Coat Laptop Carry Bag for up to 10.2 inch Orange, 130893"><img src="/assets/thumb/130893.jpg" alt="Lacie Coat Laptop Carry Bag for up to 10.2 inch Orange, 130893" rel="itmimg130893" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lacie-coat-laptop-carry-bag-for-up-to-10.2-inch-orange-130893/130893">Lacie Coat Laptop Carry Bag for up to 10.2 inch Or</a></div>
-<div class="price">
-
-$21.50
-
-<font class="save">13% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="130893"><span class="add" rel="wishlist_text130893">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtyaxCEW130893" name="qtyaxCEW130893" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW130893" name="skuaxCEW130893" value="130893"> 
-<input type="hidden" id="modelaxCEW130893" name="modelaxCEW130893" value="Lacie Coat Laptop Carry Bag for up to 10.2 inch Orange, 130893">
-<input type="hidden" id="thumbaxCEW130893" name="thumbaxCEW130893" value="/assets/thumb/130893.jpg">
- 
-<button type="button" class="addtocart" rel="axCEW130893" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/lacie-coat-17-orange-laptop-sleeve-neroprene-130927/130927" title="Lacie Coat 17' Orange Laptop Sleeve Neroprene 130927"><img src="/assets/thumb/130927.jpg" alt="Lacie Coat 17' Orange Laptop Sleeve Neroprene 130927" rel="itmimg130927" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/lacie-coat-17-orange-laptop-sleeve-neroprene-130927/130927">Lacie Coat 17' Orange Laptop Sleeve Neroprene 1309</a></div>
-<div class="price">
-
-$33.00
-
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="130927"><span class="add" rel="wishlist_text130927">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtyaxCEW130927" name="qtyaxCEW130927" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skuaxCEW130927" name="skuaxCEW130927" value="130927"> 
-<input type="hidden" id="modelaxCEW130927" name="modelaxCEW130927" value="Lacie Coat 17' Orange Laptop Sleeve Neroprene 130927">
-<input type="hidden" id="thumbaxCEW130927" name="thumbaxCEW130927" value="/assets/thumb/130927.jpg">
- 
-<button type="button" class="addtocart" rel="axCEW130927" title="Add to Cart">Buy</button>
+<button type="button" class="addtocart" rel="yWCW82572HB6" title="Add to Cart">Buy</button>
 
 
 
@@ -551,7 +811,12 @@ $33.00
 </div></div><div class="footer"></div>
 </div>
      
- 
+
+
+
+<div class="fb-like-box" data-href="http://www.facebook.com/pages/shoppingexpresscomau/145816518805502" data-width="188" data-height="350" data-show-faces="true" data-stream="false" data-header="true"></div>
+
+
 
 </div>
  
@@ -700,24 +965,22 @@ $33.00
 <ul class="thumb_24">
 <li>
 <center>
-<a href="/view/24hourdeal"><img class="image" style="margin-left:7px;" border="0" src="/assets/thumb/ET-FV3HA-A03.jpg" alt="Acer V243HL 24 inch LED LCD Monitor Black V243HLBD" width="120px" height="120px"></a><br>
-<div class="title"><a href="/view/24hourdeal">Acer V243HL 24 inch LED LCD Monitor Black V243HLBD</a><br></div>
+<a href="/view/24hourdeal"><img class="image" style="margin-left:7px;" border="0" src="/assets/thumb/S27A750D.jpg" alt="Samsung S27A750D 27 Inch 120Hz 3D 2ms LED Monitor LS27A750DSL/XY" width="120px" height="120px"></a><br>
+<div class="title"><a href="/view/24hourdeal">Samsung S27A750D 27 Inch 120Hz 3D 2ms LED Monitor </a><br></div>
 <div class="price">
-$139.00
+$449.00
 
-<font class="save">Save 57%</font>
+<font class="save">Save 25%</font>
 </div>
 <div class="rrp">
 
-RRP $329.00
+RRP $599.00
 </div>
 
 
-    
 <center>
-<img src="/assets/24_sml_med_stock.gif" alt="Medium Stock Availability">
+<img src="/assets/24_sml_high_stock.gif" alt="High Stock Availability">
 </center>
-    
 
 </center>
 </li> 
@@ -725,22 +988,22 @@ RRP $329.00
 
 <div id="countdown_dashboard_small"> 
 			<div class="dash hours_dash"> 
-				<div class="digit">0</div> 
-				<div class="digit">0</div>
+				<div class="digit"><div class="top" style="display: none;">0</div><div class="bottom" style="display: block;">0</div></div> 
+				<div class="digit"><div class="top" style="display: none;">0</div><div class="bottom" style="display: block;">0</div></div>
 				<div class="unit">h</div>
 			
 			</div> 
  
 			<div class="dash minutes_dash"> 
-				<div class="digit">0</div> 
-				<div class="digit">0</div> 
+				<div class="digit"><div class="top" style="display: none;">0</div><div class="bottom" style="display: block;">0</div></div> 
+				<div class="digit"><div class="top" style="display: none;">0</div><div class="bottom" style="display: block;">0</div></div> 
 				<div class="unit">m</div>
 				
 			</div> 
  
 			<div class="dash seconds_dash"> 
-				<div class="digit">0</div> 
-				<div class="digit">0</div> 
+				<div class="digit"><div class="top" style="display: none;">0</div><div class="bottom" style="display: block;">0</div></div> 
+				<div class="digit"><div class="top" style="display: none;">0</div><div class="bottom" style="display: block;">0</div></div> 
 				<div class="unit">s</div>
 			
 			</div> 
@@ -761,7 +1024,6 @@ RRP $329.00
 			});
 </script>
 </ul> 
-
 <br style="clear:both;">
 </div>
 <div class="footer"></div>
@@ -782,6 +1044,33 @@ Shopping Cart
 
 
 
+  
+
+  <div class="box">
+    <div class="header">Buying Guides</div>
+    <div class="body"><div class="articles">
+      <ul>
+        <li>
+<a href="http://www.shoppingexpress.com.au/buying/laptops-notebooks/what-is-the-best-laptop-to-buy/2" class="image"><img src="/assets/buying_guides/2.jpg" width="50px" height="50px"></a>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buying/laptops-notebooks/what-is-the-best-laptop-to-buy/2" title="What is the Best Laptop to buy">What is the Best Laptop to buy</a><br>
+
+</div>
+<br class="clear">
+</li><li>
+<a href="http://www.shoppingexpress.com.au/buying/routers-modem-routers/dual-band-routers-everyone-is-getting-it-but-do-you-need-one/1" class="image"><img src="/assets/buying_guides/1.jpg" width="50px" height="50px"></a>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buying/routers-modem-routers/dual-band-routers-everyone-is-getting-it-but-do-you-need-one/1" title="Dual Band Routers - Everyone is getting it, but do you need one?">Dual Band Routers - Everyone is getting it, but do you need one?</a><br>
+
+</div>
+<br class="clear">
+</li>
+      </ul>
+    </div></div><div class="footer"></div>
+  </div>
+  
+
+
+
+
 <div class="box">
 <div class="header">
 Top Sellers
@@ -791,240 +1080,233 @@ Top Sellers
 <ul>
 <li>
 <div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/750gb-samsung-m2-portable-hard-drive-usb-2.0-hx-m750uab-g/HX-M750UABG" title="750GB Samsung M2 Portable Hard Drive USB 2.0 HX-M750UAB-G"><img src="/assets/thumb/HX-M750UABG.jpg" alt="750GB Samsung M2 Portable Hard Drive USB 2.0 HX-M750UAB-G" rel="itmimgHX-M750UABG" width="60px" height="60px" border="0"></a>
+<a href="http://www.shoppingexpress.com.au/buy/sandisk-cruzer-slice-4gb-usb-drive-sdcz37-004g-b35s/SDCZ37-004G-B35S" title="SanDisk Cruzer Slice 4GB USB Drive SDCZ37-004G-B35S"><img src="/assets/thumb/SDCZ37-004G-B35S.jpg" alt="SanDisk Cruzer Slice 4GB USB Drive SDCZ37-004G-B35S" rel="itmimgSDCZ37-004G-B35S" width="60px" height="60px" border="0"></a>
 </div>
 <div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/750gb-samsung-m2-portable-hard-drive-usb-2.0-hx-m750uab-g/HX-M750UABG">750GB Samsung M2 Portable Hard Drive USB 2.0 HX-M7</a></div>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/sandisk-cruzer-slice-4gb-usb-drive-sdcz37-004g-b35s/SDCZ37-004G-B35S">SanDisk Cruzer Slice 4GB USB Drive SDCZ37-004G-B35</a></div>
 <div class="price">
 
-$89.00
+$5.00
 
-<font class="save">31% OFF</font>
+<font class="save">66% OFF</font>
 </div>
 <div class="wishlist">
 
-<a class="wishlist_toggle" rel="HX-M750UABG"><span class="add" rel="wishlist_textHX-M750UABG">Add To Wishlist</span></a>
+<a class="wishlist_toggle" rel="SDCZ37-004G-B35S"><span class="add" rel="wishlist_textSDCZ37-004G-B35S">Add To Wishlist</span></a>
 
 </div>
 </div>
 <div class="bottom">
 
 
-<input type="text" id="qtycNUe2HX-M750UABG" name="qtycNUe2HX-M750UABG" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe2HX-M750UABG" name="skucNUe2HX-M750UABG" value="HX-M750UABG"> 
-<input type="hidden" id="modelcNUe2HX-M750UABG" name="modelcNUe2HX-M750UABG" value="750GB Samsung M2 Portable Hard Drive USB 2.0 HX-M750UAB-G">
-<input type="hidden" id="thumbcNUe2HX-M750UABG" name="thumbcNUe2HX-M750UABG" value="/assets/thumb/HX-M750UABG.jpg">
+<input type="text" id="qtymJAF9SDCZ37-004G-B35S" name="qtymJAF9SDCZ37-004G-B35S" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skumJAF9SDCZ37-004G-B35S" name="skumJAF9SDCZ37-004G-B35S" value="SDCZ37-004G-B35S"> 
+<input type="hidden" id="modelmJAF9SDCZ37-004G-B35S" name="modelmJAF9SDCZ37-004G-B35S" value="SanDisk Cruzer Slice 4GB USB Drive SDCZ37-004G-B35S">
+<input type="hidden" id="thumbmJAF9SDCZ37-004G-B35S" name="thumbmJAF9SDCZ37-004G-B35S" value="/assets/thumb/SDCZ37-004G-B35S.jpg">
  
-<button type="button" class="addtocart" rel="cNUe2HX-M750UABG" title="Add to Cart">Buy</button>
+<button type="button" class="addtocart" rel="mJAF9SDCZ37-004G-B35S" title="Add to Cart">Buy</button>
 
 
 
 </div>
 </li> <li>
 <div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/asus-eee-pad-transformer-tf101-10.1-inch-tablet-pc-docking-tf101-1b179a-d/TF101-1B179A-D" title="Asus Eee Pad Transformer TF101 10.1 inch Tablet PC + Docking TF101-1B179A-D"><img src="/assets/thumb/TF101-1B179A-D.jpg" alt="Asus Eee Pad Transformer TF101 10.1 inch Tablet PC + Docking TF101-1B179A-D" rel="itmimgTF101-1B179A-D" width="60px" height="60px" border="0"></a>
+<a href="http://www.shoppingexpress.com.au/buy/seagate-expansion-2tb-usb-3.0-external-hard-drive-7200rpm-stay2000302/STAY2000302" title="Seagate Expansion 2TB USB 3.0 External Hard Drive 7200RPM STAY2000302"><img src="/assets/thumb/STAY2000302.jpg" alt="Seagate Expansion 2TB USB 3.0 External Hard Drive 7200RPM STAY2000302" rel="itmimgSTAY2000302" width="60px" height="60px" border="0"></a>
 </div>
 <div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/asus-eee-pad-transformer-tf101-10.1-inch-tablet-pc-docking-tf101-1b179a-d/TF101-1B179A-D">Asus Eee Pad Transformer TF101 10.1 inch Tablet PC</a></div>
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/seagate-expansion-2tb-usb-3.0-external-hard-drive-7200rpm-stay2000302/STAY2000302">Seagate Expansion 2TB USB 3.0 External Hard Drive </a></div>
 <div class="price">
 
-$479.00
-
-<font class="save">52% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="TF101-1B179A-D"><span class="add" rel="wishlist_textTF101-1B179A-D">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<a class="notify_popup" href="http://www.shoppingexpress.com.au/view/notifyme?item=TF101-1B179A-D&amp;model=Asus Eee Pad Transformer TF101 10.1 inch Tablet PC + Docking TF101-1B179A-D"><button type="button" title="Notify Me When Back In Stock">Out Of Stock</button></a>
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/western-digital-wd-tv-live-full-hd-media-player-network-wdbaap0000nbk-aesn/WDBAAP0000NBK-AESN" title="Western Digital WD TV Live Full HD Media Player Network WDBAAP0000NBK-AESN"><img src="/assets/thumb/WDBAAP0000NBK-AESN.jpg" alt="Western Digital WD TV Live Full HD Media Player Network WDBAAP0000NBK-AESN" rel="itmimgWDBAAP0000NBK-AESN" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/western-digital-wd-tv-live-full-hd-media-player-network-wdbaap0000nbk-aesn/WDBAAP0000NBK-AESN">Western Digital WD TV Live Full HD Media Player Ne</a></div>
-<div class="price">
-
-$98.95
-
-<font class="save">34% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="WDBAAP0000NBK-AESN"><span class="add" rel="wishlist_textWDBAAP0000NBK-AESN">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtycNUe2WDBAAP0000NBK-AESN" name="qtycNUe2WDBAAP0000NBK-AESN" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe2WDBAAP0000NBK-AESN" name="skucNUe2WDBAAP0000NBK-AESN" value="WDBAAP0000NBK-AESN"> 
-<input type="hidden" id="modelcNUe2WDBAAP0000NBK-AESN" name="modelcNUe2WDBAAP0000NBK-AESN" value="Western Digital WD TV Live Full HD Media Player Network WDBAAP0000NBK-AESN">
-<input type="hidden" id="thumbcNUe2WDBAAP0000NBK-AESN" name="thumbcNUe2WDBAAP0000NBK-AESN" value="/assets/thumb/WDBAAP0000NBK-AESN.jpg">
- 
-<button type="button" class="addtocart" rel="cNUe2WDBAAP0000NBK-AESN" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/netgear-dgnd3700-n600-wireless-dual-band-gigabit-adsl2-modem-router-usb/DGND3700" title="Netgear DGND3700 N600 Wireless Dual Band Gigabit ADSL2+ Modem Router + USB"><img src="/assets/thumb/DGND3700.jpg" alt="Netgear DGND3700 N600 Wireless Dual Band Gigabit ADSL2+ Modem Router + USB" rel="itmimgDGND3700" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/netgear-dgnd3700-n600-wireless-dual-band-gigabit-adsl2-modem-router-usb/DGND3700">Netgear DGND3700 N600 Wireless Dual Band Gigabit A</a></div>
-<div class="price">
-
-$189.00
-
-<font class="save">36% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="DGND3700"><span class="add" rel="wishlist_textDGND3700">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtycNUe2DGND3700" name="qtycNUe2DGND3700" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe2DGND3700" name="skucNUe2DGND3700" value="DGND3700"> 
-<input type="hidden" id="modelcNUe2DGND3700" name="modelcNUe2DGND3700" value="Netgear DGND3700 N600 Wireless Dual Band Gigabit ADSL2+ Modem Router + USB">
-<input type="hidden" id="thumbcNUe2DGND3700" name="thumbcNUe2DGND3700" value="/assets/thumb/DGND3700.jpg">
- 
-<button type="button" class="addtocart" rel="cNUe2DGND3700" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/hp-deskjet-1000-printer-j110a-ch340a/CH340A" title="HP Deskjet 1000 Printer - J110a (CH340A)"><img src="/assets/thumb/CH340A.jpg" alt="HP Deskjet 1000 Printer - J110a (CH340A)" rel="itmimgCH340A" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/hp-deskjet-1000-printer-j110a-ch340a/CH340A">HP Deskjet 1000 Printer - J110a (CH340A)</a></div>
-<div class="price">
-
-$24.00
-
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="CH340A"><span class="add" rel="wishlist_textCH340A">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtycNUe2CH340A" name="qtycNUe2CH340A" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe2CH340A" name="skucNUe2CH340A" value="CH340A"> 
-<input type="hidden" id="modelcNUe2CH340A" name="modelcNUe2CH340A" value="HP Deskjet 1000 Printer - J110a (CH340A)">
-<input type="hidden" id="thumbcNUe2CH340A" name="thumbcNUe2CH340A" value="/assets/thumb/CH340A.jpg">
- 
-<button type="button" class="addtocart" rel="cNUe2CH340A" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/seagate-barracuda-green-st2000dl003-2tb-internal-hard-drive-sata-3-64mb/ST2000DL003" title="Seagate Barracuda Green ST2000DL003 2TB Internal Hard Drive SATA 3 64MB"><img src="/assets/thumb/ST2000DL003.jpg" alt="Seagate Barracuda Green ST2000DL003 2TB Internal Hard Drive SATA 3 64MB" rel="itmimgST2000DL003" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/seagate-barracuda-green-st2000dl003-2tb-internal-hard-drive-sata-3-64mb/ST2000DL003">Seagate Barracuda Green ST2000DL003 2TB Internal H</a></div>
-<div class="price">
-
-$147.00
-
-<font class="save">26% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="ST2000DL003"><span class="add" rel="wishlist_textST2000DL003">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtycNUe2ST2000DL003" name="qtycNUe2ST2000DL003" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe2ST2000DL003" name="skucNUe2ST2000DL003" value="ST2000DL003"> 
-<input type="hidden" id="modelcNUe2ST2000DL003" name="modelcNUe2ST2000DL003" value="Seagate Barracuda Green ST2000DL003 2TB Internal Hard Drive SATA 3 64MB">
-<input type="hidden" id="thumbcNUe2ST2000DL003" name="thumbcNUe2ST2000DL003" value="/assets/thumb/ST2000DL003.jpg">
- 
-<button type="button" class="addtocart" rel="cNUe2ST2000DL003" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/iomega-ego-500gb-usb3.0-portable-hard-drive/35250" title="Iomega eGo 500GB USB3.0 Portable Hard Drive"><img src="/assets/thumb/35250.jpg" alt="Iomega eGo 500GB USB3.0 Portable Hard Drive" rel="itmimg35250" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/iomega-ego-500gb-usb3.0-portable-hard-drive/35250">Iomega eGo 500GB USB3.0 Portable Hard Drive</a></div>
-<div class="price">
-
-$85.00
-
-<font class="save">28% OFF</font>
-</div>
-<div class="wishlist">
-
-<a class="wishlist_toggle" rel="35250"><span class="add" rel="wishlist_text35250">Add To Wishlist</span></a>
-
-</div>
-</div>
-<div class="bottom">
-
-
-<input type="text" id="qtycNUe235250" name="qtycNUe235250" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe235250" name="skucNUe235250" value="35250"> 
-<input type="hidden" id="modelcNUe235250" name="modelcNUe235250" value="Iomega eGo 500GB USB3.0 Portable Hard Drive">
-<input type="hidden" id="thumbcNUe235250" name="thumbcNUe235250" value="/assets/thumb/35250.jpg">
- 
-<button type="button" class="addtocart" rel="cNUe235250" title="Add to Cart">Buy</button>
-
-
-
-</div>
-</li> <li>
-<div class="left">
-<a href="http://www.shoppingexpress.com.au/buy/acer-v243hl-24-inch-led-lcd-monitor-black-v243hlbd/ET-FV3HA-A03" title="Acer V243HL 24 inch LED LCD Monitor Black V243HLBD"><img src="/assets/thumb/ET-FV3HA-A03.jpg" alt="Acer V243HL 24 inch LED LCD Monitor Black V243HLBD" rel="itmimgET-FV3HA-A03" width="60px" height="60px" border="0"></a>
-</div>
-<div class="right">
-<div class="title"><a href="http://www.shoppingexpress.com.au/buy/acer-v243hl-24-inch-led-lcd-monitor-black-v243hlbd/ET-FV3HA-A03">Acer V243HL 24 inch LED LCD Monitor Black V243HLBD</a></div>
-<div class="price">
-
-$139.00
+$119.00
 
 <font class="save">57% OFF</font>
 </div>
 <div class="wishlist">
 
-<a class="wishlist_toggle" rel="ET-FV3HA-A03"><span class="add" rel="wishlist_textET-FV3HA-A03">Add To Wishlist</span></a>
+<a class="wishlist_toggle" rel="STAY2000302"><span class="add" rel="wishlist_textSTAY2000302">Add To Wishlist</span></a>
 
 </div>
 </div>
 <div class="bottom">
 
 
-<input type="text" id="qtycNUe2ET-FV3HA-A03" name="qtycNUe2ET-FV3HA-A03" value="" placeholder="Qty" class="input_tiny">
-<input type="hidden" id="skucNUe2ET-FV3HA-A03" name="skucNUe2ET-FV3HA-A03" value="ET-FV3HA-A03"> 
-<input type="hidden" id="modelcNUe2ET-FV3HA-A03" name="modelcNUe2ET-FV3HA-A03" value="Acer V243HL 24 inch LED LCD Monitor Black V243HLBD">
-<input type="hidden" id="thumbcNUe2ET-FV3HA-A03" name="thumbcNUe2ET-FV3HA-A03" value="/assets/thumb/ET-FV3HA-A03.jpg">
+<input type="text" id="qtymJAF9STAY2000302" name="qtymJAF9STAY2000302" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skumJAF9STAY2000302" name="skumJAF9STAY2000302" value="STAY2000302"> 
+<input type="hidden" id="modelmJAF9STAY2000302" name="modelmJAF9STAY2000302" value="Seagate Expansion 2TB USB 3.0 External Hard Drive 7200RPM STAY2000302">
+<input type="hidden" id="thumbmJAF9STAY2000302" name="thumbmJAF9STAY2000302" value="/assets/thumb/STAY2000302.jpg">
  
-<button type="button" class="addtocart" rel="cNUe2ET-FV3HA-A03" title="Add to Cart">Buy</button>
+<button type="button" class="addtocart" rel="mJAF9STAY2000302" title="Add to Cart">Buy</button>
+
+
+
+</div>
+</li> <li>
+<div class="left">
+<a href="http://www.shoppingexpress.com.au/buy/seagate-barracuda-st2000dm001-2tb-internal-hard-drive-sata-3-7200rpm/ST2000DM001" title="Seagate Barracuda ST2000DM001 2TB Internal Hard Drive SATA 3 7200rpm"><img src="/assets/thumb/ST2000DM001.jpg" alt="Seagate Barracuda ST2000DM001 2TB Internal Hard Drive SATA 3 7200rpm" rel="itmimgST2000DM001" width="60px" height="60px" border="0"></a>
+</div>
+<div class="right">
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/seagate-barracuda-st2000dm001-2tb-internal-hard-drive-sata-3-7200rpm/ST2000DM001">Seagate Barracuda ST2000DM001 2TB Internal Hard Dr</a></div>
+<div class="price">
+
+$119.00
+
+<font class="save">40% OFF</font>
+</div>
+<div class="wishlist">
+
+<a class="wishlist_toggle" rel="ST2000DM001"><span class="add" rel="wishlist_textST2000DM001">Add To Wishlist</span></a>
+
+</div>
+</div>
+<div class="bottom">
+
+
+<input type="text" id="qtymJAF9ST2000DM001" name="qtymJAF9ST2000DM001" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skumJAF9ST2000DM001" name="skumJAF9ST2000DM001" value="ST2000DM001"> 
+<input type="hidden" id="modelmJAF9ST2000DM001" name="modelmJAF9ST2000DM001" value="Seagate Barracuda ST2000DM001 2TB Internal Hard Drive SATA 3 7200rpm">
+<input type="hidden" id="thumbmJAF9ST2000DM001" name="thumbmJAF9ST2000DM001" value="/assets/thumb/ST2000DM001.jpg">
+ 
+<button type="button" class="addtocart" rel="mJAF9ST2000DM001" title="Add to Cart">Buy</button>
+
+
+
+</div>
+</li> <li>
+<div class="left">
+<a href="http://www.shoppingexpress.com.au/buy/hp-proliant-n40l-microserver-nas-658553-371/658553-371" title="HP ProLiant N40L MicroServer NAS 658553-371"><img src="/assets/thumb/658553-371.jpg" alt="HP ProLiant N40L MicroServer NAS 658553-371" rel="itmimg658553-371" width="60px" height="60px" border="0"></a>
+</div>
+<div class="right">
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/hp-proliant-n40l-microserver-nas-658553-371/658553-371">HP ProLiant N40L MicroServer NAS 658553-371</a></div>
+<div class="price">
+
+$239.00
+
+<font class="save">44% OFF</font>
+</div>
+<div class="wishlist">
+
+<a class="wishlist_toggle" rel="658553-371"><span class="add" rel="wishlist_text658553-371">Add To Wishlist</span></a>
+
+</div>
+</div>
+<div class="bottom">
+
+
+<a class="notify_popup" href="http://www.shoppingexpress.com.au/view/notifyme?item=658553-371&amp;model=HP ProLiant N40L MicroServer NAS 658553-371"><button type="button" title="Notify Me When Back In Stock">Out Of Stock</button></a>
+
+</div>
+</li> <li>
+<div class="left">
+<a href="http://www.shoppingexpress.com.au/buy/kingston-kvr1333d3n9-4g-4gb-pc-10600-1333-mhz-dimm-desktop-ram/KVR1333D3N94G" title="Kingston KVR1333D3N9/4G 4GB PC-10600 1333 MHz DIMM Desktop RAM"><img src="/assets/thumb/KVR1333D3N94G.jpg" alt="Kingston KVR1333D3N9/4G 4GB PC-10600 1333 MHz DIMM Desktop RAM" rel="itmimgKVR1333D3N94G" width="60px" height="60px" border="0"></a>
+</div>
+<div class="right">
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/kingston-kvr1333d3n9-4g-4gb-pc-10600-1333-mhz-dimm-desktop-ram/KVR1333D3N94G">Kingston KVR1333D3N9/4G 4GB PC-10600 1333 MHz DIMM</a></div>
+<div class="price">
+
+$24.00
+
+<font class="save">51% OFF</font>
+</div>
+<div class="wishlist">
+
+<a class="wishlist_toggle" rel="KVR1333D3N94G"><span class="add" rel="wishlist_textKVR1333D3N94G">Add To Wishlist</span></a>
+
+</div>
+</div>
+<div class="bottom">
+
+
+<input type="text" id="qtymJAF9KVR1333D3N94G" name="qtymJAF9KVR1333D3N94G" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skumJAF9KVR1333D3N94G" name="skumJAF9KVR1333D3N94G" value="KVR1333D3N94G"> 
+<input type="hidden" id="modelmJAF9KVR1333D3N94G" name="modelmJAF9KVR1333D3N94G" value="Kingston KVR1333D3N9/4G 4GB PC-10600 1333 MHz DIMM Desktop RAM">
+<input type="hidden" id="thumbmJAF9KVR1333D3N94G" name="thumbmJAF9KVR1333D3N94G" value="/assets/thumb/KVR1333D3N94G.jpg">
+ 
+<button type="button" class="addtocart" rel="mJAF9KVR1333D3N94G" title="Add to Cart">Buy</button>
+
+
+
+</div>
+</li> <li>
+<div class="left">
+<a href="http://www.shoppingexpress.com.au/buy/wd-caviar-green-3tb-sata-internal-hard-drive-wd30ezrx/WD30EZRX" title="WD Caviar Green 3TB SATA Internal Hard Drive WD30EZRX"><img src="/assets/thumb/WD30EZRX.jpg" alt="WD Caviar Green 3TB SATA Internal Hard Drive WD30EZRX" rel="itmimgWD30EZRX" width="60px" height="60px" border="0"></a>
+</div>
+<div class="right">
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/wd-caviar-green-3tb-sata-internal-hard-drive-wd30ezrx/WD30EZRX">WD Caviar Green 3TB SATA Internal Hard Drive WD30E</a></div>
+<div class="price">
+
+$188.00
+
+</div>
+<div class="wishlist">
+
+<a class="wishlist_toggle" rel="WD30EZRX"><span class="add" rel="wishlist_textWD30EZRX">Add To Wishlist</span></a>
+
+</div>
+</div>
+<div class="bottom">
+
+
+<input type="text" id="qtymJAF9WD30EZRX" name="qtymJAF9WD30EZRX" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skumJAF9WD30EZRX" name="skumJAF9WD30EZRX" value="WD30EZRX"> 
+<input type="hidden" id="modelmJAF9WD30EZRX" name="modelmJAF9WD30EZRX" value="WD Caviar Green 3TB SATA Internal Hard Drive WD30EZRX">
+<input type="hidden" id="thumbmJAF9WD30EZRX" name="thumbmJAF9WD30EZRX" value="/assets/thumb/WD30EZRX.jpg">
+ 
+<button type="button" class="addtocart" rel="mJAF9WD30EZRX" title="Add to Cart">Buy</button>
+
+
+
+</div>
+</li> <li>
+<div class="left">
+<a href="http://www.shoppingexpress.com.au/buy/seagate-expansion-1tb-desktop-external-hard-drive-usb-3.0-black-stay1000302/STAY1000302" title="Seagate Expansion 1TB Desktop External Hard Drive USB 3.0 Black STAY1000302 "><img src="/assets/thumb/STAY1000302.jpg" alt="Seagate Expansion 1TB Desktop External Hard Drive USB 3.0 Black STAY1000302 " rel="itmimgSTAY1000302" width="60px" height="60px" border="0"></a>
+</div>
+<div class="right">
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/seagate-expansion-1tb-desktop-external-hard-drive-usb-3.0-black-stay1000302/STAY1000302">Seagate Expansion 1TB Desktop External Hard Drive </a></div>
+<div class="price">
+
+$77.00
+
+<font class="save">60% OFF</font>
+</div>
+<div class="wishlist">
+
+<a class="wishlist_toggle" rel="STAY1000302"><span class="add" rel="wishlist_textSTAY1000302">Add To Wishlist</span></a>
+
+</div>
+</div>
+<div class="bottom">
+
+
+<a class="notify_popup" href="http://www.shoppingexpress.com.au/view/notifyme?item=STAY1000302&amp;model=Seagate Expansion 1TB Desktop External Hard Drive USB 3.0 Black STAY1000302 "><button type="button" title="Notify Me When Back In Stock">Out Of Stock</button></a>
+
+</div>
+</li> <li>
+<div class="left">
+<a href="http://www.shoppingexpress.com.au/buy/toshiba-sdhc-8gb-standard-type-card-sd-m08gr5w2/SD-M08GR5W2" title="Toshiba SDHC 8GB Standard Type card SD-M08GR5W2"><img src="/assets/thumb/SD-M08GR5W2.jpg" alt="Toshiba SDHC 8GB Standard Type card SD-M08GR5W2" rel="itmimgSD-M08GR5W2" width="60px" height="60px" border="0"></a>
+</div>
+<div class="right">
+<div class="title"><a href="http://www.shoppingexpress.com.au/buy/toshiba-sdhc-8gb-standard-type-card-sd-m08gr5w2/SD-M08GR5W2">Toshiba SDHC 8GB Standard Type card SD-M08GR5W2</a></div>
+<div class="price">
+
+$3.95
+
+<font class="save">84% OFF</font>
+</div>
+<div class="wishlist">
+
+<a class="wishlist_toggle" rel="SD-M08GR5W2"><span class="add" rel="wishlist_textSD-M08GR5W2">Add To Wishlist</span></a>
+
+</div>
+</div>
+<div class="bottom">
+
+
+<input type="text" id="qtymJAF9SD-M08GR5W2" name="qtymJAF9SD-M08GR5W2" value="" placeholder="Qty" class="input_tiny">
+<input type="hidden" id="skumJAF9SD-M08GR5W2" name="skumJAF9SD-M08GR5W2" value="SD-M08GR5W2"> 
+<input type="hidden" id="modelmJAF9SD-M08GR5W2" name="modelmJAF9SD-M08GR5W2" value="Toshiba SDHC 8GB Standard Type card SD-M08GR5W2">
+<input type="hidden" id="thumbmJAF9SD-M08GR5W2" name="thumbmJAF9SD-M08GR5W2" value="/assets/thumb/SD-M08GR5W2.jpg">
+ 
+<button type="button" class="addtocart" rel="mJAF9SD-M08GR5W2" title="Add to Cart">Buy</button>
 
 
 
@@ -1038,6 +1320,7 @@ $139.00
  
 
 </div>
+
                                                                  
  <div class="clear"></div>
 </div>
@@ -1058,15 +1341,13 @@ right:0px;
 }
 </style>
 
-<div id="leftbanner" style="width:120px; overflow:hidden;">
-<img src="/assets/images/why SE_4_120px_width.png">
-<a href="http://www.shoppingexpress.com.au/view/ToshibaLuckyDraw" target="_blank"><img src="/assets/images/smallbanner_5.jpg"></a>
+<div id="leftbanner" style="width: 120px; display: block; position: absolute; left: 58px; top: 20px; height: 1020px; overflow: hidden;"><div align="right" style="padding:2px;z-index:2000;font-size:12px;cursor:pointer;border-bottom:1px solid #f1f1f1; height:20px;" class="closeFloat"><span style="border:1px solid #000;height:14px;display:block;width:16px;padding-right:5px;">X</span></div>
+<a href="http://www.shoppingexpress.com.au/view/about-us" target="_blank"><img src="/assets/images/Why1.png"></a>
 </div>
-<div id="rightbanner" style="width:120px; overflow:hidden;">
-<a href="http://www.shoppingexpress.com.au/view/luckydraw_newregister" target="_blank"><img src="/assets/images/homebanner_3a.jpg"></a>
-<a href="http://www.shoppingexpress.com.au/view/luckydraw_buyandwin" target="_blank"><img src="/assets/images/homebanner_3b.jpg"></a>
-<a href="http://www.shoppingexpress.com.au/view/AsusLuckyDraw" target="_blank"><img src="/assets/images/smallbanner_1.jpg"></a>
-
+<div id="rightbanner" style="width: 120px; display: block; position: absolute; left: auto; right: 58px; top: 20px; height: 1020px; overflow: hidden;"><div align="right" style="padding:2px;z-index:2000;font-size:12px;cursor:pointer;border-bottom:1px solid #f1f1f1; height:20px;" class="closeFloat"><span style="border:1px solid #000;height:14px;display:block;width:16px;padding-right:5px;">X</span></div>
+<a href="http://www.shoppingexpress.com.au/view/EOFYS_Sale" target="_blank&quot;"><img src="/assets/images/eofys.png"></a>
+<a href="http://www.shoppingexpress.com.au/view/EOFYS_CashBack_Offers" target="_blank&quot;"><img src="/assets/images/CashBack.png"></a>
+<a href="http://www.shoppingexpress.com.au/shop/clearance/clearance" target="_blank&quot;"><img src="/assets/images/Clearance.png"></a>
 </div>
 <!-- End Banners -->
 
@@ -1121,7 +1402,7 @@ right:0px;
 <div class="footer4">
 <h3>Why shop with Shopping Express</h3>
 <ul class="whyshop">
-
+<ul>
 	<li>
 		Safe &amp; Secure</li>
 	<li>
@@ -1133,13 +1414,14 @@ right:0px;
 	<li>
 		Easy to use Interface</li>
 	<li>
-		90% of items dispatched within 24hrs</li>
+		Dispatch within Promised Time Frame</li>
 	<li>
 		Fast &amp; Efficient Email/Phone Support</li>
 	<li>
 		Thousands of happy customers</li>
 	<li>
 		Members/Non members Welcome</li>
+</ul>
 
 </ul>
 </div>
@@ -1221,4 +1503,4 @@ try {
 		COT("https://www.shoppingexpress.com.au/assets/cot.gif", "SC2", "none");
 	</script>
 
-</div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="whloverlay" class="undefined"></div><div id="whloverlaytig" style="display:none;"></div></body></html>
