@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211044027id_/http%3A//www.teenchat.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610132136id_/http%3A//www.teenchat.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
