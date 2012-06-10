@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215111030id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610030915id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
 
 # LowerMyBills.com - Privacy Policy
 
 |  | 
 
-Last updated: January 4, 2010
+Last updated: December 5, 2011
 
 **We Respect Your Privacy**
 
@@ -12,8 +12,12 @@ Last updated: January 4, 2010
 
 This Privacy Pledge applies to this website, LowerMyBills.com. . In addition, we may from time to time add new sites that may or may not be listed in this Privacy Pledge. Please note that this policy applies only to the information collected through this website and not to websites maintained by other companies or organizations to which we link. In addition, this policy applies only to information collected by LowerMyBills.com online, not offline. 
 
+[](https://privacy.truste.com/privacy-seal/LowerMyBills-com-Inc-/validation?rid=c6bab8b1-c418-44e6-b703-644ed9a52082 "TRUSTe online privacy certification")
+
 **TRUSTe**  
-[](https://www.truste.org/ivalidate.php?url=www.lowermybills.com) LowerMyBills.com. is a licensee of the Truste Privacy Program. LowerMyBills.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. TRUSTe is an independent privacy organization whose mission is to build users' trust and confidence on the Internet, and is the recognized leader in promoting Privacy Pledge disclosure, informed user consent, and consumer education. Their online seal, or "trustmark" is awarded to websites that adhere to established privacy principles and agree to comply with their established oversight and consumer resolution process. If you have questions or concerns about the TRUSTe Privacy Program, please contact us at [ ](mailto:customercare@lowermybills.com)[Customer Care](mailto:customercare@lowermybills.com). If you have further concerns after you have contacted LowerMyBills.com [Customer Care](mailto:customercare@lowermybills.com), you can contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) directly. 
+LowerMyBills.com. is a licensee of the Truste Privacy Program. LowerMyBills.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. TRUSTe is an independent privacy organization whose mission is to build users' trust and confidence on the Internet, and is the recognized leader in promoting Privacy Pledge disclosure, informed user consent, and consumer education. Their online seal, or "trustmark" is awarded to websites that adhere to established privacy principles and agree to comply with their established oversight and consumer resolution process. If you have questions or concerns about the TRUSTe Privacy Program, please contact us at [Customer Care](mailto:customercare@lowermybills.com). If you have further concerns after you have contacted LowerMyBills.com [Customer Care](mailto:customercare@lowermybills.com), you can contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) directly. 
+
+Lowermybills.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.lowermybills.com and does not cover information that may be collected behind the log in on our website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at[Customer Care](mailto:customercare@lowermybills.com)_. If you are not satisfied with our response you can contact TRUSTe [here](http://www.truste.org/consumers/watchdog_complaint.php). 
 
 **Information Collection and Use**  
 We will collect and use personal information about you to respond to your request for products and services offered through this website. We will also collect information in order to notify you about products, services, and other opportunities we think will be of interest to you. The information we collect may be from the following sources:
@@ -101,7 +105,9 @@ In some cases, we may use third parties to operate portions of the LowerMyBills.
 You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians. Please see our [Terms of Use ](https://web.archive.org/misc/termsofuse/index.jsp)for more information. 
 
 **Removing Your Information**  
-Federal and state regulations require that we maintain all information (including your personal information) submitted through the LowerMyBills.com website for various time periods. In order to comply with these regulations, we cannot delete your information from our database.
+We will retain your information for as long as your account is active or as needed to provide you services. _If you wish to request that we no longer use your information to provide you services or updates on additional products, contact us at[Customer Care](mailto:customercare@lowermybills.com)._ Additionally, we will retain and use your information as necessary to comply with our legal or regulatory obligations, resolve disputes, and enforce our agreements.
+
+If your personally identifiable information changes, or if you no longer desire our service, you may update, amend, or ask to have it removed from our mailing lists or production directory by emailing [Customer Care](mailto:customercare@lowermybills.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 calendar days.
 
 **Questions and Suggestions**  
 If you have any questions, concerns or suggestions about our Privacy Pledge, you may contact us: 
