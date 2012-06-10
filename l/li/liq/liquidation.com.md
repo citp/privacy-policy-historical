@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217091307id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610225505id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
 
 # Liquidation.com Privacy Policy
 
@@ -68,9 +68,13 @@ Our site provides users the opportunity to opt-out of receiving Buyer Alert emai
 
 You may not opt-out of service/transactional related communication from the site.
 
+### Liquidation.com Facebook Application
+
+We do not include functionality that proxies, requests or collects Facebook usernames or passwords. We do not collect data on your Facebook friends and will not use that data to customize your experience or conduct promotional activities. We will collect your basic account information when you connect with our application. For all other data obtained through use of the Facebook API, we will obtain explicit consent from you before using it for any purpose other than displaying it back to you on our application. We will not directly or indirectly transfer any data you receive from Facebook, including user data or Facebook User IDs, to (or use such data in connection with) any ad network, ad exchange, data broker, or other advertising or monetization related toolset, even if you consent to such transfer or use. We will not use Facebook User IDs for any purpose outside of our application. We will not sell any data. We will delete all data we receive from Facebook concerning a user if the user asks us to do so. We will not include data you receive from Facebook concerning a user in any advertising creative, even if a user consents to such use. Should you visit LSI's website from Facebook, Google may add a cookie to track your visit to the site. We only use this information for statistical analysis purposes. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+
 ### Data Retention 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.”
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.Â”
 
 ### Correct/Update
 
