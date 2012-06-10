@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216202725id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonline.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610200123id_/http%3A//www.antonline.com/privacy.htm) for the most accurate reproduction.*
 
 # ANTOnline.com - Best deals on a large selection of Electronics, Video Games, Servers, Home Improvement, Pet Products and Personel Care
 
