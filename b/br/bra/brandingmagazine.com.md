@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandingmagazine.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231005947id_/http%3A//www.brandingmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandingmagazine.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611090444id_/http%3A//www.brandingmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Branding Magazine
 
@@ -32,8 +32,18 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 By using our site, you consent to our privacy policy.
 
-_If we decide to change our privacy policy, we will update the Privacy Policy modification date below._
+**Refund Policy**
 
-This policy was last modified on _17/09/2011_
+This policy explains how you handle returns, refunds, and exchanges.  Please display this policy on either the product page or the checkout page of your website.  2Checkout.com makes every effort to refer refund requests to you, the seller, but reserves the right to issue a refund if necessary.
+
+Though “No Refund” Policies are generally permitted, 2Checkout.com strongly recommends against this business practice because it often leads to high customer chargebacks.  Please note there are certain situations where 2Checkout.com cannot permit “No Refund” Policies. If this applies to you, 2Checkout.com will let you know.
+
+****Services****
+
+If you are not 100% satisfied with your purchase, within 120 days from the purchase date, we will fully refund the cost of your order.
+
+_If we decide to change our privacy and refund policy, we will update the Privacy and refundPolicy modification date below._
+
+This policy was last modified on 06 _/05/2012_
 
 For more informations contact us on: **info@brandingmagazine.com**
