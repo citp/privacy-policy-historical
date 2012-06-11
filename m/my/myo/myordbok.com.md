@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myordbok.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017120931id_/http%3A//www.myordbok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myordbok.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611165630id_/http%3A//www.myordbok.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | MyOrdbok
+
+[ ](http://www.myordbok.com/)
 
 MyOrdbok do not collect any personal information from a visitor, unless the user explicitly and intentionally provides it.
 
