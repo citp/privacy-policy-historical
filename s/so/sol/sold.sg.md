@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124937id_/http%3A//www.sold.sg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611034731id_/http%3A//www.sold.sg/privacy.html) for the most accurate reproduction.*
 
-# Sold.sg
+# Online deals | Shopping deals | Bidding Singapore
 
 ### **PRIVACY POLICY**
 
@@ -52,12 +52,14 @@ Generally, Sold.sg collects User Data in order to fulfill the following purposes
 
   * •    Providing service to you such as processing your bids and facilitate transactions;
   * •    To personalize your experience and improve customer service;
-  * •    Marketing and communicating with you in relation to available products for bid and services offered by Sold.sg, and our affiliated service providers; 
+  * •    Marketing and email communicating with you in relation to available products for bid and services offered by Sold.sg, and our affiliated service providers; 
   * •    Safety, security and legal compliance.
 
 
 
 Please note that only necessary personal data is collected from registered users for business purposes only. Both the amount and the type of data collected shall be limited to that which is necessary to fulfil the purposes identified above.
+
+We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at info@sold.sg. 
 
 **
 
@@ -158,3 +160,5 @@ Subject to applicable laws, the prevailing language of the Privacy Policy will b
 **CONTACT US**
 
 If you have comments or questions about this Privacy Policy statement, please contact us at [ info@sold.sg ](mailto:info@sold.sg), titled “Privacy Policy”. 
+
+You can also visit or call us at, 33 Mohamed Sultan Road, #02-05/06, Tel: +65 6635 1130.
