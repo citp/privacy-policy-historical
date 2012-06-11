@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227110734id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611040649id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Growthink
 
-_Last Updated 10/07/2010_
+_Last Updated 1/25/2012_
 
 We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines our policies and procedures we utilize to safeguard your personal information. 
 
 **Data collection**
 
-Some of our services and/or information requests require you to register for an account and/or provide personal information. We may use that information to provide the service or fulfill the information you requested. 
+Some of our services and/or information requests require you to register for an account and/or provide personal information. So that we may provide you with services or fulfill the information you requested we may request your email, name, and telephone number. We will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission.
 
 **Cookies**
 
@@ -58,7 +58,7 @@ We are committed to preventing others from authorizing access to your customer i
 
 **Email Usage**
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc. 
+The email address you provide for order processing or for information requests, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc. 
 
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.
 
