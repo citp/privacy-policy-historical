@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222025402id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611023035id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
