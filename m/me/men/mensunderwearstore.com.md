@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensunderwearstore.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126143815id_/http%3A//www.mensunderwearstore.com/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensunderwearstore.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611084709id_/http%3A//www.mensunderwearstore.com/security-privacy.html) for the most accurate reproduction.*
 
 # MensUnderwearStore.com Security Statement & Privacy Policy
 
@@ -17,7 +17,7 @@ PCI Compliance means our servers passed tests that probe all of the known method
 
 The PCI Compliance scan was conducted by ScanAlert, a "Qualified Independent Scan Vendor" accredited by Visa USA, Mastercard International, American Express, Discover Card and JCB to perform network security compliance audtis conforming to the Payment Card Industry (PCI) Data Security Standards.
 
-If you have any questions regarding this statement, please [contact our Internet service department](https://web.archive.org/web/20111126143815id_/http%3A//www.mensunderwearstore.com/contact.html "Contact MensUnderwearStore.com").
+If you have any questions regarding this statement, please [contact our Internet service department](https://web.archive.org/web/20120611084709id_/http%3A//www.mensunderwearstore.com/contact.html "Contact MensUnderwearStore.com").
 
 * * *
 
