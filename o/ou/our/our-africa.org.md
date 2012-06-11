@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the our-africa.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211005326id_/http%3A//www.our-africa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the our-africa.org privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611055709id_/http%3A//www.our-africa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Our Africa
 
