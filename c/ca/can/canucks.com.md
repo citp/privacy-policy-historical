@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208153352id_/http%3A//www.nhl.com/ice/m_page.htm%3Fid%3D64440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611105423id_/http%3A//www.nhl.com/ice/m_page.htm%3Fid%3D64440) for the most accurate reproduction.*
 
 # NHL.com - The National Hockey League
 
