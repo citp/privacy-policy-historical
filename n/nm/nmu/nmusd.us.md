@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmusd.us privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926030022id_/http%3A//web.nmusd.us/portal/privacy%3Fd%3Dx%26return_url%3D1316793544666) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmusd.us privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611122028id_/http%3A//web.nmusd.us/portal/privacy%3Fd%3Dx%26return_url%3D1336102028396) for the most accurate reproduction.*
 
 # Privacy Notice
 
