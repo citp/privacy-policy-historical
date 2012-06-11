@@ -1,6 +1,35 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210115451id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611063656id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
+
+TripleClicks members are saving up to 99% on these items, which are being bid on right now!
+
+TCredits - 250 pack
+
+Current Price: $0.51*
+
+[BID NOW!](https://web.archive.org/pbXRA.php)
+
+Bid on these items  
+before they're gone!
+
+*Refresh browser for updated price
+
+  
+
+
+  
+• FREE Monthly TCredits!  
+• FREE Monthly Member Rewards Points! (MRP)  
+• Win $100's in our weekly drawing!  
+• Earn unlimited add'l TCredits/MRP!  
+• Exclusive member-only specials!
+
+[Join the wave](https://web.archive.org/Wave3/Wave3.php) and get all this & more!
+
+[](https://web.archive.org/ECA/ECAGW.php)
+
+[](http://www.facebook.com/pages/TripleClickscom/172874702800289) [](http://twitter.com/#!/GoTripleClicks)
 
 TripleClicks holds the privacy and security of our site visitors in the highest regard. The following information explains the type of information gathered on our sites and how that information is used.
 
@@ -26,4 +55,4 @@ We retain this information for a period of time to allow for the possibility of 
 
 We request a phone number on order forms in case we need to contact you about your order. We NEVER sell, rent, or loan our list of customer phone numbers, nor any other information about customers. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your phone number in case they need to contact you about your order. They are, of course, also provided your shipping address.
 
-Copyright @ 2011, Carson Services, Inc.
+Copyright © 2012, Carson Services, Inc. 
