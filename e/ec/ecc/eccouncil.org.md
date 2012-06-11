@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218075432id_/http%3A//www.eccouncil.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611132808id_/http%3A//www.eccouncil.org/privacy.aspx) for the most accurate reproduction.*
 
 # Certified Ethical Hacker, EC Council, CEH, Information Security, Computer Security, Network Security, Internet Security, Security Courses, Hacking
 
