@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212014818id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611045705id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
 
 # Twitter clone PHP social networking script. Micro blogging social network software - IM/SMS/Web. Start your own site just like twitter and jaiku.
 
