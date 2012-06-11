@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the recipe.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211160919id_/http%3A//www.recipe.com/recipecom/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipe.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611061342id_/http%3A//www.recipe.com/recipecom/file.jsp%3Fitem%3Dlegal/privacy) for the most accurate reproduction.*
 
 # Recipe.com
+
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
 
   * Online Privacy Policy
   * [Offline Privacy Policy](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy)
@@ -8,6 +10,7 @@
   * Your California Privacy Rights
   * Meredith Corporation "Shine the Light" Customer Notice
 
+  
 
 
 ## ONLINE PRIVACY POLICY
@@ -30,8 +33,7 @@ Please read this Online Privacy Policy carefully so that you understand our priv
 
 
 
-If you have questions about this Online Privacy Policy, please contact us at [privacy@meredith.com](mailto:privacy@meredith.com).  
-
+If you have questions about this Online Privacy Policy, please contact us at [privacy@meredith.com](mailto:privacy@meredith.com).
 
 Return to top 
 
@@ -63,7 +65,7 @@ Return to top
 
 ### How Your Information Will Be Used:
 
-Our primary goal in collecting information is to provide you with a customized experience when visiting our sites and to make our sites more valuable to you. 
+Our primary goal in collecting information is to provide you with a customized experience when visiting our sites and to make our sites more valuable to you.
 
 **Vendors and Service Providers.** To make your experience on our sites more useful and enjoyable, we may offer some features (such as chat rooms and email newsletters) in conjunction with third party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is necessary to provide you with the services we provide you in conjunction with that Provider Partner. Their use of this information will be subject to the terms of their respective privacy policies, which you can find on their websites. _We will not provide your email address to such third parties unless it's necessary to provide the services you have requested, or to allow you to participate in a co-sponsored promotion._
 
@@ -87,7 +89,7 @@ Return to top
 
 ### Newsletters and Promotions:
 
-**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://secure.recipe.com/common/profile/newsletter.jsp) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
+**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://secure.recipe.com/common/profile/newsletter.jsp), selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
 
 **Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](https://secure.recipe.com/common/profile/newsletter.jsp) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
 
@@ -107,7 +109,7 @@ Return to top
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
-**(As provided by California Civil Code Section 1798.83)**
+**(** **As provided by California Civil Code Section 1798.83)**
 
 Under California Civil Code Section 1798.83 - also known as the "Shine the Light" law - California residents have a right to request certain information from each business they patronize regarding that business's disclosures of personal information to third parties for the third parties' direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.
 
