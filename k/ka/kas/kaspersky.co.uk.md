@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218222851id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611024927id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
 
 # Kaspersky Lab UK :: Antivirus software
 
 ## Privacy policy
 
-The following statement discloses Kaspersky Lab's privacy policies for the Kaspersky Lab's web sites. We do update our policy periodically without notice so please check occasionally for any changes. Updates to our privacy policy will be published in this section.
+The following statement discloses Kaspersky Labs' privacy policies for the Kaspersky Labs' web sites. We do update our policy periodically without notice so please check occasionally for any changes. Updates to our privacy policy will be published in this section.
 
-We are always ready to explain: 
+We are always ready to explain:
 
   * What personal information is gathered, stored, tracked or used
   * With whom the information may be shared
@@ -76,4 +76,4 @@ Please remember that information you submit in a news discussion or forum is pub
 
 ### Contact information
 
-This information can be found on our [Contact Information](http://www.kaspersky.com/contact) page. 
+This information can be found on our [Contact Information](https://web.archive.org/about/contactinfo/ "Contact Information") page.
