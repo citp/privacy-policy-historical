@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the petra.com privacy policy that was archived on 2011-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205122510id_/http%3A//www.petra.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petra.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611072825id_/http%3A//www.petra.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy</title>
@@ -18,18 +18,22 @@
 </script>
 <![endif]-->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/95cce7dceb71df183fba8403564492a1.1322675979.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/c3622149b1f601dac537ed940859222a.1322054146.css" media="print">
-<script type="text/javascript" src="http://www.petra.com/min/f=/media/js/84e6dab2fa1a63b58b6db24a6835de7a.1321999611.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript">
+	var PETRA_BASE_URL = "http://www.petra.com/";
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/ea320652f90c1d4f98fff46685ddf527.1335816318.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/75a19cd11fa8b2164a624a37f9366a76.1325103672.css" media="print">
+<script type="text/javascript" src="http://www.petra.com/min/f=/media/js/8d5402e491bbfee59cd54a7bc6f60f36.1333483572.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/0ab8665efe3e2a2bf9be9b3e8550b67a.1322861130.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/2daf7a055ab2eb51325d02a44f311d64.1328215780.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.petra.com/min/f=/media/js/704e064c64ad2edb9f785383a8736464.1321999611.js"></script>
+<script type="text/javascript" src="http://www.petra.com/min/f=/media/js/d620d738cbe7958d2a78a8874fe2c93a.1324997075.js"></script>
 <![endif]-->
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/6f39de3a83271f95eed18eea8d6d7d4d.1321999611.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.petra.com/min/f=media/css/0d1f50cc6e121fc1ef84febba15cfa4c.1325103672.css" media="all" />
 <![endif]-->
 
 
@@ -43,6 +47,28 @@ Mage.Cookies.domain   = '.www.petra.com';
 <script type="text/javascript">
 //<![CDATA[
 optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+	window.HDUSeed='6ca8dde2c283f2f3fc9c6f71c857d2d2';
+	window.HDUSeedIntId = setInterval(function(){
+		if (document.observe) {
+			document.observe('dom:loaded', function(){
+				for (var i = 0; i < document.forms.length; i++) {
+					if (document.forms[i].getAttribute('action') && document.forms[i].getAttribute('action').match('contacts/index/post')) {
+						var el = document.createElement('input');
+						el.type = ('hidden');
+						el.name = 'hdu_seed';
+						el.value = window.HDUSeed;
+						document.forms[i].appendChild(el);
+						
+					}
+				}
+			});
+			clearInterval(window.HDUSeedIntId)
+		}
+	}, 100)
 //]]>
 </script>
 <script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
@@ -132,7 +158,7 @@ _gaq.push(['_trackPageview']);
     <div class="header">
     
         <div class="branding">
-                    <a href="http://www.petra.com/" title="Petra Industries, Inc." class="logo"><img src="http://www.petra.com/skin/frontend/enterprise/holiday2011/images/logo.png" alt="Petra Industries, Inc."></a>
+                    <a href="http://www.petra.com/" title="Petra Industries, Inc." class="logo"><img src="http://www.petra.com/skin/frontend/petra/default/images/logo.png" alt="Petra Industries, Inc."></a>
                        
         </div>
         
@@ -142,7 +168,7 @@ _gaq.push(['_trackPageview']);
 	</div>
 
 <div class="contact-info">
-	<span class="contact-rep-link"><a href="http://www.petra.com/contacts">Contact Your Personal Sales Rep</a></span>
+	<span class="contact-rep-link"><a href="http://www.petra.com/contact">Contact Us Now!</a></span>
 	<h1><span id="telephone-number">1-800-443-6975</span></h1>
 </div>
         
@@ -161,86 +187,35 @@ _gaq.push(['_trackPageview']);
 			<li class="level0 nav-1 level-top first parent" id="cat-nav">
 				<a href="#" class="cat_nav" id="main-nav-top-link">Category Navigation</a>
 				<ul class="level0" id="navroot">
+					
 					<li class="level1 nav-1 level-top first parent">
-<a href="http://www.petra.com/otterbox-store" class="level-top">
-<span>OtterBox® Store</span>
+<a href="http://www.petra.com/wireless" class="level-top">
+<span>Wireless Store</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-1-1 first">
-<a href="http://www.petra.com/otterbox-store/otterbox-ipod-cases">
-<span>iPod® Cases</span>
+<a href="http://www.petra.com/wireless/brands">
+<span>Browse Brands</span>
 </a>
 </li><li class="level2 nav-1-2">
-<a href="http://www.petra.com/otterbox-store/otterbox-iphone-cases">
-<span>iPhone® Cases</span>
+<a href="http://www.petra.com/wireless/cases-and-covers">
+<span>Cases &amp; Covers</span>
 </a>
 </li><li class="level2 nav-1-3">
-<a href="http://www.petra.com/otterbox-store/ipad-cases">
-<span>iPad® Cases</span>
+<a href="http://www.petra.com/wireless/power">
+<span>Power</span>
 </a>
 </li><li class="level2 nav-1-4">
-<a href="http://www.petra.com/otterbox-store/otterbox-blackberry-cases">
-<span>BlackBerry® Cases</span>
+<a href="http://www.petra.com/wireless/audio">
+<span>Audio</span>
 </a>
 </li><li class="level2 nav-1-5">
-<a href="http://www.petra.com/otterbox-store/otterbox-nokia-cases">
-<span>Nokia® Cases</span>
+<a href="http://www.petra.com/wireless/bluetooth">
+<span>Bluetooth®</span>
 </a>
-</li><li class="level2 nav-1-6">
-<a href="http://www.petra.com/otterbox-store/otterbox-palm-cases">
-<span>Palm® Cases</span>
-</a>
-</li><li class="level2 nav-1-7">
-<a href="http://www.petra.com/otterbox-store/otterbox-lg-cases">
-<span>LG® Cases</span>
-</a>
-</li><li class="level2 nav-1-8">
-<a href="http://www.petra.com/otterbox-store/otterbox-hp-cases">
-<span>HP® Cases</span>
-</a>
-</li><li class="level2 nav-1-9">
-<a href="http://www.petra.com/otterbox-store/otterbox-htc-cases">
-<span>HTC® Cases</span>
-</a>
-</li><li class="level2 nav-1-10">
-<a href="http://www.petra.com/otterbox-store/otterbox-samsung-cases">
-<span>Samsung® Cases</span>
-</a>
-</li><li class="level2 nav-1-11">
-<a href="http://www.petra.com/otterbox-store/otterbox-motorola-cases">
-<span>Motorola® Cases</span>
-</a>
-</li><li class="level2 nav-1-12">
-<a href="http://www.petra.com/otterbox-store/dell-cases">
-<span>Dell Cases</span>
-</a>
-</li><li class="level2 nav-1-13">
-<a href="http://www.petra.com/otterbox-store/nook-cases">
-<span>Nook Cases</span>
-</a>
-</li><li class="level2 nav-1-14">
-<a href="http://www.petra.com/otterbox-store/otterbox-pda-cases">
-<span>PDA Cases</span>
-</a>
-</li><li class="level2 nav-1-15">
-<a href="http://www.petra.com/otterbox-store/otterbox-waterproof-cases">
-<span>Waterproof Cases</span>
-</a>
-</li><li class="level2 nav-1-16">
-<a href="http://www.petra.com/otterbox-store/commuter">
-<span>Commuter™ Series</span>
-</a>
-</li><li class="level2 nav-1-17">
-<a href="http://www.petra.com/otterbox-store/defender">
-<span>Defender™ Cases</span>
-</a>
-</li><li class="level2 nav-1-18">
-<a href="http://www.petra.com/otterbox-store/impact">
-<span>Impact™ Series</span>
-</a>
-</li><li class="level2 nav-1-19 last">
-<a href="http://www.petra.com/otterbox-store/reflex">
-<span>Reflex™ Series</span>
+</li><li class="level2 nav-1-6 last">
+<a href="http://www.petra.com/wireless/accessories">
+<span>Accessories</span>
 </a>
 </li>
 </ul>
@@ -249,27 +224,27 @@ _gaq.push(['_trackPageview']);
 <span>Certified® Appliance</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-20 first">
-<a href="http://www.petra.com/certified/dryer">
-<span>Dryer</span>
-</a>
-</li><li class="level2 nav-2-21">
-<a href="http://www.petra.com/certified/refrigerator">
-<span>Refrigerator</span>
-</a>
-</li><li class="level2 nav-2-22">
-<a href="http://www.petra.com/certified/range">
-<span>Range</span>
-</a>
-</li><li class="level2 nav-2-23">
-<a href="http://www.petra.com/certified/washer">
-<span>Washer</span>
-</a>
-</li><li class="level2 nav-2-24">
+<li class="level2 nav-2-7 first">
 <a href="http://www.petra.com/certified/diswasher">
 <span>Dishwasher</span>
 </a>
-</li><li class="level2 nav-2-25 last">
+</li><li class="level2 nav-2-8">
+<a href="http://www.petra.com/certified/dryer">
+<span>Dryer</span>
+</a>
+</li><li class="level2 nav-2-9">
+<a href="http://www.petra.com/certified/range">
+<span>Range</span>
+</a>
+</li><li class="level2 nav-2-10">
+<a href="http://www.petra.com/certified/refrigerator">
+<span>Refrigerator</span>
+</a>
+</li><li class="level2 nav-2-11">
+<a href="http://www.petra.com/certified/washer">
+<span>Washer</span>
+</a>
+</li><li class="level2 nav-2-12 last">
 <a href="http://www.petra.com/certified/cleaning-and-accessories">
 <span>Cleaning &amp; Accessories</span>
 </a>
@@ -280,31 +255,35 @@ _gaq.push(['_trackPageview']);
 <span>Accessorize Your Apple®</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-26 first">
-<a href="http://www.petra.com/accessorize-your-apple/ipad-2">
-<span>iPad® 2</span>
-</a>
-</li><li class="level2 nav-3-27">
-<a href="http://www.petra.com/accessorize-your-apple/ipad">
-<span>iPad®</span>
-</a>
-</li><li class="level2 nav-3-28">
+<li class="level2 nav-3-13 first">
 <a href="http://www.petra.com/accessorize-your-apple/iphone-4s">
 <span>iPhone® 4S</span>
 </a>
-</li><li class="level2 nav-3-29">
+</li><li class="level2 nav-3-14">
 <a href="http://www.petra.com/accessorize-your-apple/iphone-4">
 <span>iPhone® 4</span>
 </a>
-</li><li class="level2 nav-3-30">
+</li><li class="level2 nav-3-15">
 <a href="http://www.petra.com/accessorize-your-apple/iphone-and-iphone-3g-3gs">
 <span>iPhone® &amp; iPhone® 3G/3GS</span>
 </a>
-</li><li class="level2 nav-3-31">
+</li><li class="level2 nav-3-16">
+<a href="http://www.petra.com/accessorize-your-apple/the-new-ipad">
+<span>The new iPad®</span>
+</a>
+</li><li class="level2 nav-3-17">
+<a href="http://www.petra.com/accessorize-your-apple/ipad-2">
+<span>iPad® 2</span>
+</a>
+</li><li class="level2 nav-3-18">
+<a href="http://www.petra.com/accessorize-your-apple/ipad">
+<span>iPad®</span>
+</a>
+</li><li class="level2 nav-3-19">
 <a href="http://www.petra.com/accessorize-your-apple/ipod">
 <span>iPod®</span>
 </a>
-</li><li class="level2 nav-3-32 last">
+</li><li class="level2 nav-3-20 last">
 <a href="http://www.petra.com/accessorize-your-apple/mac">
 <span>Mac</span>
 </a>
@@ -315,45 +294,45 @@ _gaq.push(['_trackPageview']);
 <span>Custom Installation</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-4-33 first">
-<a href="http://www.petra.com/custom-installation/home-theater">
-<span>Home Theater</span>
+<li class="level2 nav-4-21 first">
+<a href="http://www.petra.com/custom-installation/av-distribution">
+<span>A/V Distribution</span>
 </a>
-</li><li class="level2 nav-4-34">
-<a href="http://www.petra.com/custom-installation/televisions">
-<span>Televisions</span>
-</a>
-</li><li class="level2 nav-4-35">
-<a href="http://www.petra.com/custom-installation/satellite">
-<span>Satellite</span>
-</a>
-</li><li class="level2 nav-4-36">
-<a href="http://www.petra.com/custom-installation/mounts-stands-furniture">
-<span>Mounts, Stands &amp; Furniture</span>
-</a>
-</li><li class="level2 nav-4-37">
-<a href="http://www.petra.com/custom-installation/tools">
-<span>Tools</span>
-</a>
-</li><li class="level2 nav-4-38">
-<a href="http://www.petra.com/custom-installation/universal-remotes">
-<span>Universal Remotes</span>
-</a>
-</li><li class="level2 nav-4-39">
-<a href="http://www.petra.com/custom-installation/power-protection">
-<span>Power Protection</span>
-</a>
-</li><li class="level2 nav-4-40">
+</li><li class="level2 nav-4-22">
 <a href="http://www.petra.com/custom-installation/home-control-and-remote-lighting-systems">
 <span>Home Control &amp; Remote Lighting Systems</span>
 </a>
-</li><li class="level2 nav-4-41">
+</li><li class="level2 nav-4-23">
+<a href="http://www.petra.com/custom-installation/home-theater">
+<span>Home Theater</span>
+</a>
+</li><li class="level2 nav-4-24">
+<a href="http://www.petra.com/custom-installation/mounts-stands-furniture">
+<span>Mounts, Stands &amp; Furniture</span>
+</a>
+</li><li class="level2 nav-4-25">
+<a href="http://www.petra.com/custom-installation/power-protection">
+<span>Power Protection</span>
+</a>
+</li><li class="level2 nav-4-26">
+<a href="http://www.petra.com/custom-installation/satellite">
+<span>Satellite</span>
+</a>
+</li><li class="level2 nav-4-27">
+<a href="http://www.petra.com/custom-installation/televisions">
+<span>Televisions</span>
+</a>
+</li><li class="level2 nav-4-28">
+<a href="http://www.petra.com/custom-installation/tools">
+<span>Tools</span>
+</a>
+</li><li class="level2 nav-4-29">
+<a href="http://www.petra.com/custom-installation/universal-remotes">
+<span>Universal Remotes</span>
+</a>
+</li><li class="level2 nav-4-30 last">
 <a href="http://www.petra.com/custom-installation/accessories">
 <span>Accessories</span>
-</a>
-</li><li class="level2 nav-4-42 last">
-<a href="http://www.petra.com/custom-installation/av-distribution">
-<span>A/V Distribution</span>
 </a>
 </li>
 </ul>
@@ -362,45 +341,45 @@ _gaq.push(['_trackPageview']);
 <span>TV &amp; Video</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-5-43 first">
-<a href="http://www.petra.com/tv-video/home-theater">
-<span>Home Theater</span>
+<li class="level2 nav-5-31 first">
+<a href="http://www.petra.com/tv-video/accessories">
+<span>Antennas &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-5-44">
-<a href="http://www.petra.com/tv-video/televisions">
-<span>Televisions</span>
+</li><li class="level2 nav-5-32">
+<a href="http://www.petra.com/tv-video/blu-ray-dvd-and-vcr-players">
+<span>Blu-ray™, DVD &amp; VCR Players</span>
 </a>
-</li><li class="level2 nav-5-45">
-<a href="http://www.petra.com/tv-video/dvd-players">
-<span>DVD Players</span>
-</a>
-</li><li class="level2 nav-5-46">
-<a href="http://www.petra.com/tv-video/projectors-and-screens">
-<span>Projectors &amp; Screens</span>
-</a>
-</li><li class="level2 nav-5-47">
-<a href="http://www.petra.com/tv-video/tivo-dvr">
-<span>TiVo® &amp; DVR</span>
-</a>
-</li><li class="level2 nav-5-48">
-<a href="http://www.petra.com/tv-video/tuners-converters">
-<span>Tuners &amp; Converters</span>
-</a>
-</li><li class="level2 nav-5-49">
-<a href="http://www.petra.com/tv-video/mounts-stands-furniture">
-<span>Mounts, Stands &amp; Furniture</span>
-</a>
-</li><li class="level2 nav-5-50">
+</li><li class="level2 nav-5-33">
 <a href="http://www.petra.com/tv-video/cables-and-connectors">
 <span>Cables &amp; Connectors</span>
 </a>
-</li><li class="level2 nav-5-51">
+</li><li class="level2 nav-5-34">
+<a href="http://www.petra.com/tv-video/converter-boxes-and-tuners">
+<span>Converter Boxes &amp; Tuners</span>
+</a>
+</li><li class="level2 nav-5-35">
+<a href="http://www.petra.com/tv-video/home-theater">
+<span>Home Theater</span>
+</a>
+</li><li class="level2 nav-5-36">
+<a href="http://www.petra.com/tv-video/mounts-stands-furniture">
+<span>Mounts, Stands &amp; Furniture</span>
+</a>
+</li><li class="level2 nav-5-37">
+<a href="http://www.petra.com/tv-video/projectors-and-screens">
+<span>Projectors &amp; Screens</span>
+</a>
+</li><li class="level2 nav-5-38">
+<a href="http://www.petra.com/tv-video/televisions">
+<span>Televisions</span>
+</a>
+</li><li class="level2 nav-5-39">
+<a href="http://www.petra.com/tv-video/tivo-dvr-and-media-players">
+<span>TiVo, DVR &amp; Media Players</span>
+</a>
+</li><li class="level2 nav-5-40 last">
 <a href="http://www.petra.com/tv-video/universal-remotes">
 <span>Universal Remotes</span>
-</a>
-</li><li class="level2 nav-5-52 last">
-<a href="http://www.petra.com/tv-video/accessories">
-<span>Antennas &amp; Accessories</span>
 </a>
 </li>
 </ul>
@@ -409,202 +388,210 @@ _gaq.push(['_trackPageview']);
 <span>Audio</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-6-53 first">
-<a href="http://www.petra.com/audio/speakers">
-<span>Speakers</span>
-</a>
-</li><li class="level2 nav-6-54">
-<a href="http://www.petra.com/audio/home-theater">
-<span>Home Theaters</span>
-</a>
-</li><li class="level2 nav-6-55">
+<li class="level2 nav-6-41 first">
 <a href="http://www.petra.com/audio/audio-systems-and-components">
 <span>Audio Systems &amp; Components</span>
 </a>
-</li><li class="level2 nav-6-56">
+</li><li class="level2 nav-6-42">
+<a href="http://www.petra.com/audio/home-theater">
+<span>Home Theaters</span>
+</a>
+</li><li class="level2 nav-6-43">
 <a href="http://www.petra.com/audio/headphones">
 <span>Headphones</span>
 </a>
-</li><li class="level2 nav-6-57">
+</li><li class="level2 nav-6-44">
 <a href="http://www.petra.com/audio/ipod-iphone-accessories">
 <span>iPod®/iPhone® Accessories</span>
 </a>
-</li><li class="level2 nav-6-58">
-<a href="http://www.petra.com/audio/mp3-and-portable-audio">
-<span>MP3, MP4 &amp; Portable Audio</span>
-</a>
-</li><li class="level2 nav-6-59">
-<a href="http://www.petra.com/audio/wifi-radio">
-<span>WiFi Radio</span>
-</a>
-</li><li class="level2 nav-6-60">
-<a href="http://www.petra.com/audio/satellite-radio">
-<span>Satellite Radio</span>
-</a>
-</li><li class="level2 nav-6-61">
-<a href="http://www.petra.com/audio/musical-instruments">
-<span>Musical Instruments</span>
-</a>
-</li><li class="level2 nav-6-62">
-<a href="http://www.petra.com/audio/mounts-stands-furniture">
-<span>Mounts, Stands &amp; Furniture</span>
-</a>
-</li><li class="level2 nav-6-63">
-<a href="http://www.petra.com/audio/dj-lighting-and-effects">
-<span>DJ, Lighting &amp; Effects</span>
-</a>
-</li><li class="level2 nav-6-64">
+</li><li class="level2 nav-6-45">
 <a href="http://www.petra.com/audio/karaoke-systems">
 <span>Karaoke Systems &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-6-65 last">
+</li><li class="level2 nav-6-46">
+<a href="http://www.petra.com/audio/mounts-stands-furniture">
+<span>Mounts, Stands &amp; Furniture</span>
+</a>
+</li><li class="level2 nav-6-47">
+<a href="http://www.petra.com/audio/mp3-and-portable-audio">
+<span>MP3, MP4 &amp; Portable Audio</span>
+</a>
+</li><li class="level2 nav-6-48">
+<a href="http://www.petra.com/audio/musical-instruments">
+<span>Musical Instruments</span>
+</a>
+</li><li class="level2 nav-6-49">
+<a href="http://www.petra.com/audio/professional-av">
+<span>Professional A/V</span>
+</a>
+</li><li class="level2 nav-6-50">
+<a href="http://www.petra.com/audio/satellite-radio">
+<span>Satellite Radio</span>
+</a>
+</li><li class="level2 nav-6-51">
+<a href="http://www.petra.com/audio/speakers">
+<span>Speakers</span>
+</a>
+</li><li class="level2 nav-6-52">
+<a href="http://www.petra.com/audio/wifi-radio">
+<span>WiFi Radio</span>
+</a>
+</li><li class="level2 nav-6-53 last">
 <a href="http://www.petra.com/audio/audio-accessories">
 <span>Audio Accessories</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-7 level-top parent">
-<a href="http://www.petra.com/photo-and-video" class="level-top">
-<span>Photo &amp; Video</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-7-66 first">
-<a href="http://www.petra.com/photo-and-video/cameras">
-<span>Cameras</span>
-</a>
-</li><li class="level2 nav-7-67">
-<a href="http://www.petra.com/photo-and-video/camcorders">
-<span>Camcorders</span>
-</a>
-</li><li class="level2 nav-7-68">
-<a href="http://www.petra.com/photo-and-video/digital-frames">
-<span>Digital Frames</span>
-</a>
-</li><li class="level2 nav-7-69">
-<a href="http://www.petra.com/photo-and-video/tripods-and-stands">
-<span>Tripods &amp; Stands</span>
-</a>
-</li><li class="level2 nav-7-70">
-<a href="http://www.petra.com/photo-and-video/lenses">
-<span>Lenses</span>
-</a>
-</li><li class="level2 nav-7-71">
-<a href="http://www.petra.com/photo-and-video/memory-cards">
-<span>Memory Cards</span>
-</a>
-</li><li class="level2 nav-7-72">
-<a href="http://www.petra.com/photo-and-video/photo-quality-printers">
-<span>Photo Quality Printers</span>
-</a>
-</li><li class="level2 nav-7-73 last">
-<a href="http://www.petra.com/photo-and-video/photo-video-hardware-and-accessories">
-<span>Photo/Video Hardware &amp; Accessories</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-8 level-top parent">
-<a href="http://www.petra.com/computer-accessories" class="level-top">
-<span>Computer Accessories</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-8-74 first">
-<a href="http://www.petra.com/computer-accessories/apple-accessories">
-<span>Apple® Accessories</span>
-</a>
-</li><li class="level2 nav-8-75">
-<a href="http://www.petra.com/computer-accessories/laptop-accessories">
-<span>Laptop Accessories</span>
-</a>
-</li><li class="level2 nav-8-76">
-<a href="http://www.petra.com/computer-accessories/tablets-and-accessories">
-<span>Tablets &amp; Accessories</span>
-</a>
-</li><li class="level2 nav-8-77">
-<a href="http://www.petra.com/computer-accessories/netbooks-accessories">
-<span>Netbooks &amp; Accessories</span>
-</a>
-</li><li class="level2 nav-8-78">
-<a href="http://www.petra.com/computer-accessories/ereaders-accessories">
-<span>eReaders &amp; Accessories</span>
-</a>
-</li><li class="level2 nav-8-79">
-<a href="http://www.petra.com/computer-accessories/drives-and-storage">
-<span>Drives &amp; Storage</span>
-</a>
-</li><li class="level2 nav-8-80">
-<a href="http://www.petra.com/computer-accessories/networking">
-<span>Networking</span>
-</a>
-</li><li class="level2 nav-8-81">
-<a href="http://www.petra.com/computer-accessories/projectors-and-screens">
-<span>Projectors &amp; Screens</span>
-</a>
-</li><li class="level2 nav-8-82">
-<a href="http://www.petra.com/computer-accessories/mice-and-keyboards">
-<span>Mice &amp; Keyboards</span>
-</a>
-</li><li class="level2 nav-8-83">
-<a href="http://www.petra.com/computer-accessories/printers-scanners-and-fax">
-<span>Printers, Scanners &amp; Fax</span>
-</a>
-</li><li class="level2 nav-8-84">
-<a href="http://www.petra.com/computer-accessories/computer-audio">
-<span>Computer Audio</span>
-</a>
-</li><li class="level2 nav-8-85">
-<a href="http://www.petra.com/computer-accessories/webcams">
-<span>Webcams</span>
-</a>
-</li><li class="level2 nav-8-86">
-<a href="http://www.petra.com/computer-accessories/computer-gaming">
-<span>Computer Gaming</span>
-</a>
-</li><li class="level2 nav-8-87 last">
-<a href="http://www.petra.com/computer-accessories/accessories">
-<span>Accessories</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-9 level-top parent">
 <a href="http://www.petra.com/mobile-audio-video" class="level-top">
 <span>Mobile Audio/Video</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-9-88 first">
+<li class="level2 nav-7-54 first">
 <a href="http://www.petra.com/mobile-audio-video/car-audio">
 <span>Car Audio</span>
 </a>
-</li><li class="level2 nav-9-89">
-<a href="http://www.petra.com/mobile-audio-video/car-video">
-<span>Car Video</span>
-</a>
-</li><li class="level2 nav-9-90">
-<a href="http://www.petra.com/mobile-audio-video/satellite-radio">
-<span>Satellite Radio</span>
-</a>
-</li><li class="level2 nav-9-91">
+</li><li class="level2 nav-7-55">
 <a href="http://www.petra.com/mobile-audio-video/car-security">
 <span>Car Security</span>
 </a>
-</li><li class="level2 nav-9-92">
+</li><li class="level2 nav-7-56">
+<a href="http://www.petra.com/mobile-audio-video/car-video">
+<span>Car Video</span>
+</a>
+</li><li class="level2 nav-7-57">
 <a href="http://www.petra.com/mobile-audio-video/gps-navigation">
 <span>GPS Navigation</span>
 </a>
-</li><li class="level2 nav-9-93">
-<a href="http://www.petra.com/mobile-audio-video/radar-laser-detectors">
-<span>Radar/Laser Detectors</span>
-</a>
-</li><li class="level2 nav-9-94">
-<a href="http://www.petra.com/mobile-audio-video/marine-audio">
-<span>Marine Audio</span>
-</a>
-</li><li class="level2 nav-9-95">
+</li><li class="level2 nav-7-58">
 <a href="http://www.petra.com/mobile-audio-video/installation">
 <span>Installation</span>
 </a>
-</li><li class="level2 nav-9-96 last">
+</li><li class="level2 nav-7-59">
+<a href="http://www.petra.com/mobile-audio-video/marine-audio">
+<span>Marine Audio</span>
+</a>
+</li><li class="level2 nav-7-60">
 <a href="http://www.petra.com/mobile-audio-video/mobile-accessories">
 <span>Mobile Accessories</span>
+</a>
+</li><li class="level2 nav-7-61">
+<a href="http://www.petra.com/mobile-audio-video/radar-laser-detectors">
+<span>Radar/Laser Detectors</span>
+</a>
+</li><li class="level2 nav-7-62 last">
+<a href="http://www.petra.com/mobile-audio-video/satellite-radio">
+<span>Satellite Radio</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-8 level-top parent">
+<a href="http://www.petra.com/photo-and-video" class="level-top">
+<span>Photo &amp; Video</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-8-63 first">
+<a href="http://www.petra.com/photo-and-video/camcorders">
+<span>Camcorders</span>
+</a>
+</li><li class="level2 nav-8-64">
+<a href="http://www.petra.com/photo-and-video/cameras">
+<span>Cameras</span>
+</a>
+</li><li class="level2 nav-8-65">
+<a href="http://www.petra.com/photo-and-video/digital-frames">
+<span>Digital Frames</span>
+</a>
+</li><li class="level2 nav-8-66">
+<a href="http://www.petra.com/photo-and-video/lenses">
+<span>Lenses</span>
+</a>
+</li><li class="level2 nav-8-67">
+<a href="http://www.petra.com/photo-and-video/memory-cards">
+<span>Memory Cards</span>
+</a>
+</li><li class="level2 nav-8-68">
+<a href="http://www.petra.com/photo-and-video/optics">
+<span>Optics</span>
+</a>
+</li><li class="level2 nav-8-69">
+<a href="http://www.petra.com/photo-and-video/photo-quality-printers">
+<span>Photo Quality Printers</span>
+</a>
+</li><li class="level2 nav-8-70">
+<a href="http://www.petra.com/photo-and-video/photo-video-hardware-and-accessories">
+<span>Photo/Video Hardware &amp; Accessories</span>
+</a>
+</li><li class="level2 nav-8-71 last">
+<a href="http://www.petra.com/photo-and-video/tripods-mounts-and-stands">
+<span>Tripods, Mounts &amp; Stands</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-9 level-top parent">
+<a href="http://www.petra.com/computer-accessories" class="level-top">
+<span>Computer Accessories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-9-72 first">
+<a href="http://www.petra.com/computer-accessories/apple-accessories">
+<span>Apple® Accessories</span>
+</a>
+</li><li class="level2 nav-9-73">
+<a href="http://www.petra.com/computer-accessories/computer-audio">
+<span>Computer Audio</span>
+</a>
+</li><li class="level2 nav-9-74">
+<a href="http://www.petra.com/computer-accessories/computer-gaming">
+<span>Computer Gaming</span>
+</a>
+</li><li class="level2 nav-9-75">
+<a href="http://www.petra.com/computer-accessories/drives-and-storage">
+<span>Drives &amp; Storage</span>
+</a>
+</li><li class="level2 nav-9-76">
+<a href="http://www.petra.com/computer-accessories/ereaders-accessories">
+<span>eReaders &amp; Accessories</span>
+</a>
+</li><li class="level2 nav-9-77">
+<a href="http://www.petra.com/computer-accessories/notebook-accessories">
+<span>Notebook Accessories</span>
+</a>
+</li><li class="level2 nav-9-78">
+<a href="http://www.petra.com/computer-accessories/mice-and-keyboards">
+<span>Mice &amp; Keyboards</span>
+</a>
+</li><li class="level2 nav-9-79">
+<a href="http://www.petra.com/computer-accessories/monitors">
+<span>Monitors</span>
+</a>
+</li><li class="level2 nav-9-80">
+<a href="http://www.petra.com/computer-accessories/netbooks-accessories">
+<span>Netbooks &amp; Accessories</span>
+</a>
+</li><li class="level2 nav-9-81">
+<a href="http://www.petra.com/computer-accessories/networking">
+<span>Networking</span>
+</a>
+</li><li class="level2 nav-9-82">
+<a href="http://www.petra.com/computer-accessories/printers-scanners-and-fax">
+<span>Printers, Scanners &amp; Fax</span>
+</a>
+</li><li class="level2 nav-9-83">
+<a href="http://www.petra.com/computer-accessories/projectors-and-screens">
+<span>Projectors &amp; Screens</span>
+</a>
+</li><li class="level2 nav-9-84">
+<a href="http://www.petra.com/computer-accessories/tablets-and-accessories">
+<span>Tablets &amp; Accessories</span>
+</a>
+</li><li class="level2 nav-9-85">
+<a href="http://www.petra.com/computer-accessories/webcams">
+<span>Webcams</span>
+</a>
+</li><li class="level2 nav-9-86 last">
+<a href="http://www.petra.com/computer-accessories/accessories">
+<span>Accessories</span>
 </a>
 </li>
 </ul>
@@ -613,45 +600,49 @@ _gaq.push(['_trackPageview']);
 <span>Cell, Phone &amp; Office Acc.</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-10-97 first">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/cellular-cell-phone-accessories">
-<span>Cell Phone Accessories</span>
-</a>
-</li><li class="level2 nav-10-98">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/ipod-iphone-accessories">
-<span>iPod®/iPhone® Accessories</span>
-</a>
-</li><li class="level2 nav-10-99">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/telephones">
-<span>Telephones</span>
-</a>
-</li><li class="level2 nav-10-100">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/office-electronics">
-<span>Office Electronics</span>
-</a>
-</li><li class="level2 nav-10-101">
+<li class="level2 nav-10-87 first">
 <a href="http://www.petra.com/cellular-phone-and-office-accessories/audio-video-accessories">
 <span>Audio/Video Accessories</span>
 </a>
-</li><li class="level2 nav-10-102">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/projectors-and-screens">
-<span>Projectors &amp; Screens</span>
+</li><li class="level2 nav-10-88">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/cellular-cell-phone-accessories">
+<span>Cell Phone Accessories</span>
 </a>
-</li><li class="level2 nav-10-103">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/mice-and-keyboards">
-<span>Mice &amp; Keyboards</span>
-</a>
-</li><li class="level2 nav-10-104">
-<a href="http://www.petra.com/cellular-phone-and-office-accessories/printers-scanners-and-fax">
-<span>Printers, Scanners &amp; Fax</span>
-</a>
-</li><li class="level2 nav-10-105">
+</li><li class="level2 nav-10-89">
 <a href="http://www.petra.com/cellular-phone-and-office-accessories/computer-accessories">
 <span>Computer Accessories</span>
 </a>
-</li><li class="level2 nav-10-106 last">
+</li><li class="level2 nav-10-90">
 <a href="http://www.petra.com/cellular-phone-and-office-accessories/desktop-organization">
 <span>Desktop Organization</span>
+</a>
+</li><li class="level2 nav-10-91">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/iphone-accessories">
+<span>iPhone® Accessories</span>
+</a>
+</li><li class="level2 nav-10-92">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/mice-and-keyboards">
+<span>Mice &amp; Keyboards</span>
+</a>
+</li><li class="level2 nav-10-93">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/office-electronics">
+<span>Office Electronics</span>
+</a>
+</li><li class="level2 nav-10-94">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/office-furniture">
+<span>Office Furniture</span>
+</a>
+</li><li class="level2 nav-10-95">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/printers-scanners-and-fax">
+<span>Printers, Scanners &amp; Fax</span>
+</a>
+</li><li class="level2 nav-10-96">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/projectors-and-screens">
+<span>Projectors &amp; Screens</span>
+</a>
+</li><li class="level2 nav-10-97 last">
+<a href="http://www.petra.com/cellular-phone-and-office-accessories/telephones">
+<span>Telephones</span>
 </a>
 </li>
 </ul>
@@ -660,29 +651,29 @@ _gaq.push(['_trackPageview']);
 <span>Observation &amp; Security</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-11-107 first">
-<a href="http://www.petra.com/observation-and-security/surveillance-cameras">
-<span>Surveillance Cameras</span>
+<li class="level2 nav-11-98 first">
+<a href="http://www.petra.com/observation-and-security/auto-security">
+<span>Auto Security</span>
 </a>
-</li><li class="level2 nav-11-108">
+</li><li class="level2 nav-11-99">
 <a href="http://www.petra.com/observation-and-security/complete-surveillance-systems">
 <span>Complete Surveillance Systems</span>
 </a>
-</li><li class="level2 nav-11-109">
+</li><li class="level2 nav-11-100">
 <a href="http://www.petra.com/observation-and-security/home-security-systems">
 <span>Home Security Systems</span>
 </a>
-</li><li class="level2 nav-11-110">
+</li><li class="level2 nav-11-101">
 <a href="http://www.petra.com/observation-and-security/security-sensors-and-alarms">
 <span>Security Sensors &amp; Alarms</span>
 </a>
-</li><li class="level2 nav-11-111">
+</li><li class="level2 nav-11-102">
+<a href="http://www.petra.com/observation-and-security/surveillance-cameras">
+<span>Surveillance Cameras</span>
+</a>
+</li><li class="level2 nav-11-103 last">
 <a href="http://www.petra.com/observation-and-security/surveillance-video-equipment">
 <span>Surveillance Video Equipment</span>
-</a>
-</li><li class="level2 nav-11-112 last">
-<a href="http://www.petra.com/observation-and-security/fiber-optics">
-<span>Fiber Optics</span>
 </a>
 </li>
 </ul>
@@ -691,49 +682,49 @@ _gaq.push(['_trackPageview']);
 <span>Gaming</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-12-113 first">
+<li class="level2 nav-12-104 first">
+<a href="http://www.petra.com/gaming/nintendo-ds-dsi">
+<span>Nintendo DS™/DSi™</span>
+</a>
+</li><li class="level2 nav-12-105">
 <a href="http://www.petra.com/gaming/nintendo-wii">
 <span>Nintendo Wii™</span>
 </a>
-</li><li class="level2 nav-12-114">
-<a href="http://www.petra.com/gaming/nintendo-ds">
-<span>Nintendo DS™</span>
-</a>
-</li><li class="level2 nav-12-115">
-<a href="http://www.petra.com/gaming/nintendo-dsi-accessories">
-<span>Nintendo DSi</span>
-</a>
-</li><li class="level2 nav-12-116">
-<a href="http://www.petra.com/gaming/gamecube-controllers-and-accessories">
-<span>GameCube™</span>
-</a>
-</li><li class="level2 nav-12-117">
-<a href="http://www.petra.com/gaming/playstation-portable">
-<span>PlayStation® Portable</span>
-</a>
-</li><li class="level2 nav-12-118">
+</li><li class="level2 nav-12-106">
 <a href="http://www.petra.com/gaming/playstation-2">
 <span>PlayStation® 2</span>
 </a>
-</li><li class="level2 nav-12-119">
+</li><li class="level2 nav-12-107">
 <a href="http://www.petra.com/gaming/playstation-3">
 <span>PlayStation® 3</span>
 </a>
-</li><li class="level2 nav-12-120">
+</li><li class="level2 nav-12-108">
+<a href="http://www.petra.com/gaming/playstation-portable">
+<span>PlayStation® Portable</span>
+</a>
+</li><li class="level2 nav-12-109">
+<a href="http://www.petra.com/gaming/playstation-vita-accessories">
+<span>PlayStation®Vita Accessories</span>
+</a>
+</li><li class="level2 nav-12-110">
 <a href="http://www.petra.com/gaming/xbox">
 <span>Xbox®</span>
 </a>
-</li><li class="level2 nav-12-121">
+</li><li class="level2 nav-12-111">
 <a href="http://www.petra.com/gaming/xbox-360">
 <span>Xbox 360®</span>
 </a>
-</li><li class="level2 nav-12-122">
-<a href="http://www.petra.com/gaming/universal-gaming-accessories">
-<span>Universal Gaming Accessories</span>
+</li><li class="level2 nav-12-112">
+<a href="http://www.petra.com/gaming/gamecube-controllers-and-accessories">
+<span>GameCube™</span>
 </a>
-</li><li class="level2 nav-12-123 last">
+</li><li class="level2 nav-12-113">
 <a href="http://www.petra.com/gaming/classic-gaming-accessories">
 <span>Classic Gaming Accessories</span>
+</a>
+</li><li class="level2 nav-12-114 last">
+<a href="http://www.petra.com/gaming/universal-gaming-accessories">
+<span>Universal Gaming Accessories</span>
 </a>
 </li>
 </ul>
@@ -742,45 +733,37 @@ _gaq.push(['_trackPageview']);
 <span>Housewares</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-13-124 first">
-<a href="http://www.petra.com/housewares/household-appliances-and-accessories">
-<span>Household Appliances &amp; Accessories</span>
-</a>
-</li><li class="level2 nav-13-125">
-<a href="http://www.petra.com/housewares/vacuum-and-cleaning">
-<span>Vacuum &amp; Cleaning</span>
-</a>
-</li><li class="level2 nav-13-126">
-<a href="http://www.petra.com/housewares/appliance-accessories">
-<span>Appliance Accessories</span>
-</a>
-</li><li class="level2 nav-13-127">
-<a href="http://www.petra.com/housewares/health-and-personal-care-accessories">
-<span>Health &amp; Personal Care Accessories</span>
-</a>
-</li><li class="level2 nav-13-128">
-<a href="http://www.petra.com/housewares/telephones">
-<span>Telephones</span>
-</a>
-</li><li class="level2 nav-13-129">
+<li class="level2 nav-13-115 first">
 <a href="http://www.petra.com/housewares/clocks">
 <span>Clocks</span>
 </a>
-</li><li class="level2 nav-13-130">
+</li><li class="level2 nav-13-116">
+<a href="http://www.petra.com/housewares/health-and-personal-care-accessories">
+<span>Health &amp; Personal Care Accessories</span>
+</a>
+</li><li class="level2 nav-13-117">
+<a href="http://www.petra.com/housewares/household-appliances-and-accessories">
+<span>Household Appliances &amp; Accessories</span>
+</a>
+</li><li class="level2 nav-13-118">
 <a href="http://www.petra.com/housewares/lighting">
 <span>Lighting</span>
 </a>
-</li><li class="level2 nav-13-131">
+</li><li class="level2 nav-13-119">
+<a href="http://www.petra.com/housewares/personal-security-and-accessories">
+<span>Personal Security &amp; Accessories</span>
+</a>
+</li><li class="level2 nav-13-120">
+<a href="http://www.petra.com/housewares/telephones">
+<span>Telephones</span>
+</a>
+</li><li class="level2 nav-13-121">
 <a href="http://www.petra.com/housewares/tools">
 <span>Tools</span>
 </a>
-</li><li class="level2 nav-13-132">
+</li><li class="level2 nav-13-122 last">
 <a href="http://www.petra.com/housewares/electronic-learning-tools">
 <span>Toys &amp; Electronic Learning Tools</span>
-</a>
-</li><li class="level2 nav-13-133 last">
-<a href="http://www.petra.com/housewares/personal-security-and-accessories">
-<span>Personal Security &amp; Accessories</span>
 </a>
 </li>
 </ul>
@@ -789,37 +772,41 @@ _gaq.push(['_trackPageview']);
 <span>Outdoor &amp; Fitness</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-14-134 first">
+<li class="level2 nav-14-123 first">
+<a href="http://www.petra.com/outdoor-and-fitness/binoculars-and-optical-accessories">
+<span>Binoculars &amp; Optical Accessories</span>
+</a>
+</li><li class="level2 nav-14-124">
 <a href="http://www.petra.com/outdoor-and-fitness/gps-and-fitness-accessories">
 <span>GPS &amp; Fitness Accessories</span>
 </a>
-</li><li class="level2 nav-14-135">
-<a href="http://www.petra.com/outdoor-and-fitness/binoculars-and-optics">
-<span>Binoculars &amp; Optics</span>
+</li><li class="level2 nav-14-125">
+<a href="http://www.petra.com/outdoor-and-fitness/gun-and-specialty-cases">
+<span>Gun &amp; Specialty Cases</span>
 </a>
-</li><li class="level2 nav-14-136">
-<a href="http://www.petra.com/outdoor-and-fitness/radios-scanners-and-accessories">
-<span>Radios, Scanners &amp; Accessories</span>
+</li><li class="level2 nav-14-126">
+<a href="http://www.petra.com/outdoor-and-fitness/lighting-systems">
+<span>Lighting Systems</span>
 </a>
-</li><li class="level2 nav-14-137">
+</li><li class="level2 nav-14-127">
 <a href="http://www.petra.com/outdoor-and-fitness/metal-detectors-and-accessories">
 <span>Metal Detectors &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-14-138">
-<a href="http://www.petra.com/outdoor-and-fitness/yard-games-tools-and-decor">
-<span>Yard Games, Tools &amp; Decor</span>
+</li><li class="level2 nav-14-128">
+<a href="http://www.petra.com/outdoor-and-fitness/radios-scanners-and-accessories">
+<span>Radios, Scanners &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-14-139">
-<a href="http://www.petra.com/outdoor-and-fitness/gun-cases">
-<span>Gun Cases</span>
+</li><li class="level2 nav-14-129">
+<a href="http://www.petra.com/outdoor-and-fitness/tripods-stands-and-mounts">
+<span>Tripods, Stands &amp; Mounts</span>
 </a>
-</li><li class="level2 nav-14-140">
-<a href="http://www.petra.com/outdoor-and-fitness/lamps-lights-and-accessories">
-<span>Lamps, Lights &amp; Accessories</span>
-</a>
-</li><li class="level2 nav-14-141 last">
+</li><li class="level2 nav-14-130">
 <a href="http://www.petra.com/outdoor-and-fitness/weather-stations-and-thermometers">
 <span>Weather Stations &amp; Thermometers</span>
+</a>
+</li><li class="level2 nav-14-131 last">
+<a href="http://www.petra.com/outdoor-and-fitness/yard-tools-and-decor">
+<span>Yard Tools &amp; Decor</span>
 </a>
 </li>
 </ul>
@@ -828,15 +815,15 @@ _gaq.push(['_trackPageview']);
 <span>Batteries &amp; Media</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-15-142 first">
+<li class="level2 nav-15-132 first">
 <a href="http://www.petra.com/batteries-and-media/batteries-chargers-and-accessories">
 <span>Batteries, Chargers &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-15-143">
+</li><li class="level2 nav-15-133">
 <a href="http://www.petra.com/batteries-and-media/media-memory-and-accessories">
 <span>Media, Memory &amp; Accessories</span>
 </a>
-</li><li class="level2 nav-15-144 last">
+</li><li class="level2 nav-15-134 last">
 <a href="http://www.petra.com/batteries-and-media/digital-media-readers-and-adapters">
 <span>Digital Media Readers &amp; Adapters</span>
 </a>
@@ -847,33 +834,37 @@ _gaq.push(['_trackPageview']);
 <span>RTO &amp; Appliance</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-16-145 first">
-<a href="http://www.petra.com/rto-and-appliance/dollies-and-hand-trucks">
-<span>Dollies &amp; Hand Trucks</span>
-</a>
-</li><li class="level2 nav-16-146">
-<a href="http://www.petra.com/rto-and-appliance/moving-supplies">
-<span>Moving Supplies</span>
-</a>
-</li><li class="level2 nav-16-147">
-<a href="http://www.petra.com/rto-and-appliance/tools-and-storage">
-<span>Tools &amp; Storage</span>
-</a>
-</li><li class="level2 nav-16-148">
-<a href="http://www.petra.com/rto-and-appliance/cleaing-supplies">
-<span>Cleaning Supplies</span>
-</a>
-</li><li class="level2 nav-16-149">
-<a href="http://www.petra.com/rto-and-appliance/restoration-supplies">
-<span>Restoration Supplies</span>
-</a>
-</li><li class="level2 nav-16-150">
+<li class="level2 nav-16-135 first">
 <a href="http://www.petra.com/rto-and-appliance/appliance-accessories">
 <span>Appliance Accessories</span>
 </a>
-</li><li class="level2 nav-16-151 last">
+</li><li class="level2 nav-16-136">
+<a href="http://www.petra.com/rto-and-appliance/cleaing-supplies">
+<span>Cleaning Supplies</span>
+</a>
+</li><li class="level2 nav-16-137">
+<a href="http://www.petra.com/rto-and-appliance/dollies-and-hand-trucks">
+<span>Dollies &amp; Hand Trucks</span>
+</a>
+</li><li class="level2 nav-16-138">
+<a href="http://www.petra.com/rto-and-appliance/first-aid-safety">
+<span>First Aid &amp; Safety</span>
+</a>
+</li><li class="level2 nav-16-139">
+<a href="http://www.petra.com/rto-and-appliance/moving-supplies">
+<span>Moving Supplies</span>
+</a>
+</li><li class="level2 nav-16-140">
+<a href="http://www.petra.com/rto-and-appliance/restoration-supplies">
+<span>Restoration Supplies</span>
+</a>
+</li><li class="level2 nav-16-141">
 <a href="http://www.petra.com/rto-and-appliance/rto-accessories-and-supplies">
 <span>RTO Accessories &amp; Supplies</span>
+</a>
+</li><li class="level2 nav-16-142 last">
+<a href="http://www.petra.com/rto-and-appliance/tools-and-storage">
+<span>Tools &amp; Storage</span>
 </a>
 </li>
 </ul>
@@ -882,53 +873,57 @@ _gaq.push(['_trackPageview']);
 <span>Closeouts</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-17-152 first">
+<li class="level2 nav-17-143 first">
 <a href="http://www.petra.com/closeouts/custom-installation-closeouts">
-<span>Custom Install - Closeouts</span>
+<span>Custom Install</span>
+</a>
+</li><li class="level2 nav-17-144">
+<a href="http://www.petra.com/closeouts/tv-video-closeouts">
+<span>TV/Video</span>
+</a>
+</li><li class="level2 nav-17-145">
+<a href="http://www.petra.com/closeouts/audio-closeouts">
+<span>Audio</span>
+</a>
+</li><li class="level2 nav-17-146">
+<a href="http://www.petra.com/closeouts/mobile-audio-video-closeouts">
+<span>Mobile A/V</span>
+</a>
+</li><li class="level2 nav-17-147">
+<a href="http://www.petra.com/closeouts/photo-and-video-closeouts">
+<span>Photo/Video</span>
+</a>
+</li><li class="level2 nav-17-148">
+<a href="http://www.petra.com/closeouts/computer-accessories-closeouts">
+<span>Computer</span>
+</a>
+</li><li class="level2 nav-17-149">
+<a href="http://www.petra.com/closeouts/cell-phone-and-office-accessories-closeouts">
+<span>Phone/Off.</span>
+</a>
+</li><li class="level2 nav-17-150">
+<a href="http://www.petra.com/closeouts/gaming-closeouts">
+<span>Gaming</span>
+</a>
+</li><li class="level2 nav-17-151">
+<a href="http://www.petra.com/closeouts/housewares-closeouts">
+<span>Housewares</span>
+</a>
+</li><li class="level2 nav-17-152">
+<a href="http://www.petra.com/closeouts/observation-security-closeouts">
+<span>Security</span>
 </a>
 </li><li class="level2 nav-17-153">
-<a href="http://www.petra.com/closeouts/tv-video-closeouts">
-<span>TV &amp; Video - Closeouts</span>
+<a href="http://www.petra.com/closeouts/outdoor-and-fitness-closeout">
+<span>Outdoor/Fitness</span>
 </a>
 </li><li class="level2 nav-17-154">
-<a href="http://www.petra.com/closeouts/audio-closeouts">
-<span>Audio - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-155">
-<a href="http://www.petra.com/closeouts/mobile-audio-video-closeouts">
-<span>Mobile Audio/Video - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-156">
-<a href="http://www.petra.com/closeouts/photo-and-video-closeouts">
-<span>Photo &amp; Video - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-157">
-<a href="http://www.petra.com/closeouts/computer-accessories-closeouts">
-<span>Computer Accessories - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-158">
-<a href="http://www.petra.com/closeouts/cell-phone-and-office-accessories-closeouts">
-<span>Cellular, Phone &amp; Office - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-159">
-<a href="http://www.petra.com/closeouts/gaming-closeouts">
-<span>Gaming - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-160">
-<a href="http://www.petra.com/closeouts/housewares-closeouts">
-<span>Housewares - Closeouts</span>
-</a>
-</li><li class="level2 nav-17-161">
-<a href="http://www.petra.com/closeouts/outdoor-and-fitness-closeout">
-<span>Outdoor &amp; Fitness - Closeout</span>
-</a>
-</li><li class="level2 nav-17-162">
 <a href="http://www.petra.com/closeouts/batteries-and-media-closeouts">
-<span>Batteries &amp; Media - Closeouts</span>
+<span>Batt./Media</span>
 </a>
-</li><li class="level2 nav-17-163 last">
+</li><li class="level2 nav-17-155 last">
 <a href="http://www.petra.com/closeouts/rto-and-appliance-closeouts">
-<span>RTO &amp; Appliance - Closeouts</span>
+<span>RTO/App.</span>
 </a>
 </li>
 </ul>
@@ -938,7 +933,7 @@ _gaq.push(['_trackPageview']);
 
 				<form id="search_mini_form" action="http://www.petra.com/catalogsearch/result/" method="get">
 					<div class="form-search">
-						<input id="search" type="text" size="60" name="q" value="" class="input-text">&nbsp;<button type="submit" id="search_button" title="Search" class="button"><span><span>Search</span></span></button> <a href="http://www.petra.com/catalogsearch/advanced/">Advanced Search</a>
+						<input id="search" type="text" size="60" name="q" value="" class="input-text">&nbsp;<button type="submit" id="search_button" title="Search" class="form-button"><span><span>Search</span></span></button> <a href="http://www.petra.com/catalogsearch/advanced/">Advanced Search</a>
 						<div id="search_autocomplete" class="search-autocomplete"></div>
 						
 						<script type="text/javascript">
@@ -1009,23 +1004,27 @@ _gaq.push(['_trackPageview']);
 <p>All information within this website, including images and text, is copyrighted and remains the exclusive property of Petra Industries, Inc. and may not be used without our consent.  This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
 <p>By using our website, you consent to this privacy policy. If we decide to change our privacy policy, we will post those changes on this page. If you have questions, comments or concerns regarding this privacy statement, or feel that this website is not following its stated policy, you may contact us at <a href="mailto:feedback@petra.com">feedback@petra.com</a>.</p></div>				</div>
 				
-				<div class="col-right side-col"><div class="box"><a href="http://www.petra.com/application"><img style="display: block;" src="http://www.petra.com/media/callouts/application.jpg" alt="Apply Now!" width="180" height="100"></a></div>
-<div class="box"><a href="http://www.petra.com/contacts"><img style="display: block;" src="http://www.petra.com/media/callouts/CAT211_callout.gif" alt="Get a Free Catalog!" width="180"></a></div>
-<div class="box"><a href="http://www.petra.com/rebate-center"><img style="display: block;" src="http://www.petra.com/media/callouts/SiriusXM_30MIR.jpg" alt="SiriusXM $30 Rebate" width="180"></a></div>
-<div class="box"><a href="http://www.petra.com/certified"><img style="display: block;" src="http://www.petra.com/media/callouts/CERTIFIED_SideBar.jpg" alt="Certified Appliance Accessories :-]" width="180" height="163"></a></div></div>
+				<div class="col-right side-col">	<div class="box">
+		<a href="/application"> <img style="display: block;" src="/media/callouts/application.jpg" alt="Apply Now!"></a>
+	</div>
+<div class="box"><a href="http://www.petra.com/contact"><img style="display: block;" src="http://www.petra.com/media/callouts/CAT112_callout.jpg" alt="Get a Free Catalog!" width="180"></a></div>
+<div class="box"><div class="widget widget-banner-inline">
+        <ul>
+        </ul>
+</div>
+</div></div>
 			
 			</div>
         </div>
         
                 
 <div class="footer-container">
-	 <div class="footer-graphic"></div>
     <div class="footer">
         <div class="informational">
 <div id="company-information" class="footer-link-section">
 <h4>Company Information</h4>
 <ul>
-<li><a href="http://www.petra.com/contacts">Contact Us</a></li>
+<li><a href="http://www.petra.com/contact">Contact Us</a></li>
 <li><a href="http://www.petra.com/about-petra">About Us</a></li>
 <li><a href="http://www.petra.com/careers1.php">Careers</a></li>
 <li><a href="http://www.petra.com/news/cat/press-releases">Press Releases</a></li>
@@ -1037,7 +1036,7 @@ _gaq.push(['_trackPageview']);
 <h4>Your Account</h4>
 <ul>
 <li><a href="http://www.petra.com/sales/order/history/">Order History</a></li>
-<li><a href="http://www.petra.com/contacts">Request a Catalog</a></li>
+<li><a href="http://www.petra.com/contact">Request a Catalog</a></li>
 <li><a href="http://www.petra.com/terms">Terms &amp; Conditions</a></li>
 <li><a href="http://www.petra.com/shipping">Shipping Information</a></li>
 <li><a href="http://www.petra.com/reseller-agreements">Reseller Agreements and Authorizations</a></li>
@@ -1050,17 +1049,19 @@ _gaq.push(['_trackPageview']);
 <li><a href="http://www.petra.com/application">Become a Customer</a></li>
 <li><a href="http://www.petra.com/manu-sku-index">Manufacturer's SKU Index</a></li>
 <li><a href="http://www.petra.com/newatpetra">New at Petra</a></li>
-<li><a href="http://www.petra.com/twitter">Track deals on Twitter</a></li>
+<!--
+<li><a href="http://www.petra.com/twitter" _mce_href="http://www.petra.com/twitter">Track deals on Twitter</a></li>
+-->
 <li><a href="http://www.petra.com/petra-channels">Petra Channels</a></li>
 <li><a href="http://www.petra.com/current-email">Current Emails &amp; Promos</a></li>
 <li><a href="http://www.petra.com/rebate-center">Rebate Center</a></li>
 </ul>
 </div>
 </div>
-<div class="legality" style="clear: both; text-align: center;"><span style="font-size: x-small;">Monday through Friday, 8:00 a.m. – 6:00 p.m. CST.</span></div>    </div>
-    <address class="copyright">©2011 Petra Industries, Inc. All Rights Reserved 
+<div class="legality" style="clear: both; text-align: center;"><span style="font-size: x-small;">Monday through Friday, 8:00 a.m. – 6:00 p.m. CST.<br><span>Petra has 6-day-a-week distribution processing and same-day shipping is guaranteed on orders placed before 6:00 p.m. CST on normal business days.</span><br>&nbsp;</span></div>        
+        <address class="copyright"> ©2012 Petra Industries, Inc. All Rights Reserved 
 2101 South Kelly, Edmond, Oklahoma  73013<br>Tel. 800.443.6975 • Fax 800.997.3872 • email <a href="mailto:feedback@petra.com">feedback@petra.com</a></address>
-   
+    </div>   
 </div>
             </div>
 </div>
