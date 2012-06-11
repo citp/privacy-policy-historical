@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the register365.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019222512id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register365.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611201822id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Register365
 
