@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212075329id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.mya%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dmb_rcol_services%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dmy_account%26siteArea%3Dbtb.mya%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611045821id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.mya%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dmb_rcol_services%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dmy_account%26siteArea%3Dbtb.mya%26type%3Dprivacy) for the most accurate reproduction.*
 
 # BT.com | Small & medium business | Your account
 
@@ -20,8 +20,9 @@ How can I manage BT's contact with me for marketing purposes?
 How do we protect your personal information?   
 How do you find out about changes to our privacy policy?   
 Does BT's privacy policy protect me when I use BT's websites?   
-When do we use cookies?   
-How do you disable cookies?   
+When do we use cookies and how do we get your consent?   
+Browser settings   
+Further information   
 Are third party sites covered by this policy?   
    
 [ ](http://www.bt.com/index.jsp "back")  
@@ -204,7 +205,7 @@ Return to top
 #### How can I manage BT's contact with me for marketing purposes?  
   
    
-You may choose not to receive marketing information from BT and, if you are already receiving such information from us, you can ask us to stop at any time. If you would like BT not to call or mail you with details of products, services and special offers, please call 0800 800 150 (residential customers) or 0800 400 400 (business customers) or contact your Account Manager. If you would like to stop unsolicited telemarketing calls from companies (including BT), please contact the Telephone Preference Service on 0845 0700707 or do this online at [www.tpsonline.org.uk](http://www.tpsonline.org.uk/) and register your telephone number(s). Direct marketing calls should stop after 28 days. If you would like to stop unsolicited direct marketing mailings companies (including BT), please contact the Mail Preference Service on 0345 034599 or do this online at [www.mpsonline.org.uk](http://www.mpsonline.org.uk/). Direct marketing mailers should stop or significantly reduce after 3 months. (Remember to re-register if you change your address).   
+You may choose not to receive marketing information from BT and, if you are already receiving such information from us, you can ask us to stop at any time. If you would like BT not to call or mail you with details of products, services and special offers, please call 0800 800 150 (residential customers) or 0800 400 400 (business customers) or contact your Account Manager. If you would like to stop unsolicited telemarketing calls from other companies, please contact the Telephone Preference Service on 0845 0700707 or do this online at [www.tpsonline.org.uk](http://www.tpsonline.org.uk/) and register your telephone number(s). Direct marketing calls should stop after 28 days. If you would like to stop unsolicited direct marketing mailings from other companies, please contact the Mail Preference Service on 0345 034599 or do this online at [www.mpsonline.org.uk](http://www.mpsonline.org.uk/). Direct marketing mailers should stop or significantly reduce after 3 months. (Remember to re-register if you change your address).   
    
 Return to top  
    
@@ -266,40 +267,40 @@ Over and above what BT does to safeguard your privacy and security on-line, ther
 Return to top  
    
   
-#### When do we use cookies?  
+#### When do we use cookies and how do we get your consent?  
   
    
-A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit our website. If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.  
-Our servers use two different types of cookies. The first type is known as a "session-based" cookie and is allocated to your PC only for the duration of your visit to our website. It helps you to move around the website faster. This cookie automatically expires when you close down your browser.  
-The second type of cookie known as a "persistent" cookie is allocated to your PC only if you agree by selecting the "Remember me" function. This cookie, if chosen, will remain on your PC for a period of time.  
-This cookie allows us to:  
-This cookie allows us to:   
-   
-  
-  * welcome you as an individual when you log on to our website
-  * limit how often you see particular advertisements or announcements on our website
-  * identify your defaults if you have set up a customised homepage
-  * provide you with relevant self-help information
-  * track where you have come from if you have come to our website from another website
-  * track how many times you visit a page or advertisement
-
-  
-   
-We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it.   
-Please note that as the cookie is based on your PC, we will not find it if you visit our websites using a different PC to the one you registered on.   
+**What are cookies?**  
+A "cookie" is a text file containing small amounts of information which a server downloads to your personal computer (PC) or mobile when you visit a website. The server then sends a cookie back to the originating website each time you subsequently visit it, or if you visit another website which recognises that cookie.  
+There are different types of cookies which are used to do different things, such as letting you navigate between different pages on a website efficiently, remembering preferences you have given a website, and improving your overall experience. Others are used to provide you with advertising which is more tailored to your interests, or to measure the number of site visits and the most popular pages users visit.  
+Some cookies are allocated to your PC only for the duration of your visit to a website, and these are called session based cookies. These automatically expire when you close down your browser.  
+Another type of cookie known as a "persistent". These cookies would remain on your PC for a period of time.  
+ **What are the new rules?**  
+Website operators already have to give users information about the cookies they use and why they use them. Now they also have to have your consent to use them.  
+In order to comply with these new rules, we have developed a system of classifying the different types of cookies which we use on BT.com, or which may be dropped by third parties through our websites. This system of classification is based on the purpose the cookies are used for, and also determines the way we will ask for your consent to use them. The classification explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your PC. We have also designed a series of icons which represent the different categories of cookies, and these icons link through to a more detailed description of those cookies and their purpose. The icons are shown on a 'sliding scale' which you can use to adjust your choices about the types of cookies which you agree to have on your PC at any time as the tool bar which displays these icons is always visible on the footer on all the pages you view on BT.com.  
+ **How we ask for your consent**  
+When you visit BT.com for the first time after we introduced these icons we will show you a notice which tells you that we use cookies, why we use them, and how you can change which cookies you chose to accept using the sliding scale toolbar and clicking on the icons. If you enter BT.com having seen this notice without making any changes to the existing cookie settings we have provided we will take this as your agreement to those settings as we have told you about them and we assume you are happy with them. If you change the settings using the icons on the sliding scale, you are giving your consent to use those which you have not disabled.  
+However, one of the categories of cookies which we have identified is those which are 'strictly necessary' to enable us to provide you with any service which you have requested from us to be delivered online. We do not need to ask for your consent to use these, as we would not be able to provide the service you had asked for without them.  
+A further category of cookies which we have identified we have called 'Performance cookies' and we use these only to improve our site or measure response rates. All information collected by these cookies is anonymous and does not in any way impact on your privacy. We need to use them to maintain our site's effectiveness and ease of use, so we have not provided an opportunity for these to be disabled, and by using our site and online services you are agreeing that we can place these types of cookies on your PC.  
+ **Using the sliding scale and icons**  
+You can access the cookie classification and icons wherever the 'cookie preferences' tool bar appears. To make your choices, just slide the bar to the icon which represents a type of cookie based on its function. If you click on the icon you will see a detailed description of the type of cookie represented by that icon, why we want to use them, and what would happen if you don't chose to accept them. We also give a list of the individual cookies we use in each category in the 'more about cookies' section, so that if you check your internet settings, you know what these are if you have agreed we can use them.   
    
 Return to top  
    
   
-#### How do you disable cookies?  
+#### Browser settings  
   
    
-All types of cookies can be removed from your PC but there may be some deterioration in the service you receive (for example, you may receive many pop up boxes containing the same advertisements or you may not be able to access a page you earlier personalised).  
-Your browser lets you choose whether to accept, not to accept or to be warned before accepting cookies. These settings can be found in the advanced preferences   
-**_In Internet Explorer 6 select: Tools menu / Internet options / Privacy_**  
- ** _In Netscape 7.1 select: Edit menu / Preferences / Privacy and Security / Cookies_**  
- ** _In Firefox select: Tools menu / Options / Privacy / Cookies_**  
-For removing the "Remember me" cookie, just unpick the box when you sign in.   
+In addition to using the icons, cookies can also be removed from your PC using browser settings but there will still be some deterioration in the service you receive (for example, you may receive many pop up boxes containing the same advertisements or you may not be able to access a page you earlier personalised).  
+Your browser lets you choose whether to accept, not to accept or to be warned before accepting cookies. These can be found in the advanced preferences.   
+   
+Return to top  
+   
+  
+#### Further information  
+  
+   
+The categorisation and icons are also used in a 'cookie code' developed by the International Chamber of Commerce (ICC) for use by website operators to comply with the new rules. There is also more information to be found on www.allaboutcookies.org.   
    
 Return to top  
    
