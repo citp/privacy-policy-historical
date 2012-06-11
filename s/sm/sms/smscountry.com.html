@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smscountry.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smscountry.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611032913id_/http%3A//www.smscountry.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -94,7 +94,7 @@
 <tr>
 <td colspan="2" style="font-weight:normal;">
 <a href="registration.asp" title="Register now to send Bulk SMS"><u>Register Now</u></a>  | <!--a href="forgot-password.asp">Forgot Password?</a-->
-<a style="color:#000;font-size:11px;cursor:hand;" rel="ibox" target="forgot-password.asp" href="index.asp"><u>Forgot Password?</u></a>
+<a id="fpwd" style="color:#000;font-size:11px;cursor:hand;" rel="ibox" target="forgot-password.asp" href="index.asp"><u>Forgot Password?</u></a>
 <input type="submit" name="button1" value="Login" onclick="return valid();" id="button1" input="" class="btn_1" style="margin-left:25px; width:45px; ">
 
 
@@ -109,6 +109,26 @@
        
         </form>
     </div>
+	 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAiDWaS6xjkr-AVLoJwRFEvRSgLoObPUrmlSwy27fgDJ9pE4oyTBSYeHlbrmLsevzTNFmcPH6asBWrDw"></script>
+
+    <script type="text/javascript">
+        var code
+       
+        if (google.loader.ClientLocation) {
+            visitor_country = google.loader.ClientLocation.address.country; visitor_countrycode = google.loader.ClientLocation.address.country_code;
+
+            code = visitor_countrycode
+        }
+
+        if (code == 'IN') {
+
+            document.getElementById("fpwd").target = "forgot-password.asp";
+           
+        } else {
+            document.getElementById("fpwd").target = "forget_password_old.aspx";
+        }
+       
+    </script>
 </div>
 
   <ul id="maintab" style="margin:40px 0 0 0;">
