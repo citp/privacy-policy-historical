@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2space.net privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121004746id_/http%3A//www.2space.net/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2space.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611050013id_/http%3A//www.2space.net/info/privacyPolicy) for the most accurate reproduction.*
 
 # 2SPACE.NET === INFO - PRIVACY POLICY ===
 
@@ -44,4 +44,4 @@ It is 2Space®'s policy not to use or share personal information about Visitors 
 
 ### Questions or Suggestions
 
-If you have questions or suggestions concerning our privacy policy please don't hesitate to [contact](https://web.archive.org/web/20111121004746id_/http://www.2space.net/info/contact/) us. 
+If you have questions or suggestions concerning our privacy policy please don't hesitate to [contact](https://web.archive.org/web/20120611050013id_/http%3A//www.2space.net/contact/) us. 
