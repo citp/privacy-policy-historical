@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the anytrip.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222041121id_/http%3A//www.anytrip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytrip.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611043648id_/http%3A//www.anytrip.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AnyTrip.com
-
-## Member Of
-
-[](http://www.abta.com/find-a-holiday/member-search/7167)
 
 ## Follow us on...
 
