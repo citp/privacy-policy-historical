@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msmobiles.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211070409id_/http%3A//wmpoweruser.com/wmpoweruser-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msmobiles.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611042448id_/http%3A//wmpoweruser.com/wmpoweruser-com-privacy-policy) for the most accurate reproduction.*
 
-# WMPoweruser.com Privacy Policy | WMPoweruser
+# WMPoweruser.com Privacy PolicyWMPoweruser
 
 ****Information about our Organisation and Web site****
 
