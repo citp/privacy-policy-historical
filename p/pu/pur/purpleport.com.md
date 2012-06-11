@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211161332id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611020956id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / PurplePort.com - FREE high quality portfolio hosting and social networking for the modelling industry and related professionals and amateurs alike.
+# Privacy Policy / Portfolio hosting and networking for models, photographers and related creatives / PurplePort.com
 
 At PurplePort Limited we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by the internet contracts experts LegalCentre.co.uk.
 
@@ -10,7 +10,7 @@ We do update this Policy from time to time so please do review this Policy regul
 
 For the purpose of the Data Protection Act 1998 our data controller is Russ Freeman.
 
-1\. Information We Collect 
+## 1\. Information We Collect 
 
 In operating our website we may collect and process the following data about you:
 
@@ -20,19 +20,24 @@ In operating our website we may collect and process the following data about you
 
 1.3 Information provided to us when you communicate with us for any reason.
 
-2\. Use of Cookies 
+## 2\. Use of Cookies 
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. 
+We use cookies to remember who you are. We store your email address and encrypted versions of your password in those cookies. If you'd like to delete the cookies associated with PurplePort.com then please read about how over at <http://www.aboutcookies.org/>.
 
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+However, deleting or denying the purpleport.com cookies will mean you will not be able to use large parts of the web site
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you. 
+We also use google analytics and this uses cookies to track web site usage. These cookies are not essential for your continued use of the web site and can be removed at any time.
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
+By continued use of PurplePort we will store the following cookies on your computer:
 
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+  * **profanity, adult, nsfw** \- These are the content filter options and can be deleted at any time.
+  * **p, e, phash** \- These are used to identify you so you can access member only functions and features of the web site. Deleting them will mean you will not be able to access your account.
+  * **ASPSESSIONID*** \- This cookie, which is fairly randomly generated, identifies you whilst you visit the site. Deleting or denying it will negatively affect your use of the site.
+  * **__ut*** \- These are placed by Google Analytics, which we use to monitor web site traffic and site usage. They can be deleted or declined.
 
-3\. Use of Your Information
+
+
+## 3\. Use of Your Information
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -44,23 +49,15 @@ The information that we collect and store relating to you is primarily used to e
 
 3.4 If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you. 
 
-3.5 Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
-
-3.6 If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for. 
-
-3.7 If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
-
-3.8 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
-
-4\. Storing Your Personal Data
+## 4\. Storing Your Personal Data
 
 4.1 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
 
-4.2 Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. 
+4.2 Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure it's safety. 
 
 4.3 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-5\. Disclosing Your Information
+## 5\. Disclosing Your Information
 
 5.1 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
 
@@ -72,14 +69,14 @@ The information that we collect and store relating to you is primarily used to e
 
 5.2.3 To assist fraud protection and minimise credit risk.
 
-6\. Third Party Links
+## 6\. Third Party Links
 
 You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
 
-7\. Access To Information
+## 7\. Access To Information
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access will be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-8\. Contacting Us
+## 8\. Contacting Us
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at support@purpleport.com.
