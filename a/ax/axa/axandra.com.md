@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005400id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611172238id_/http%3A//www.axandra.com/seo/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Axandra SEO software tools
 
@@ -72,7 +72,7 @@ We believe in what we do. We’ll gladly give you a complete refund of the purch
 
 Shopping with Axandra is 100% safe – you never have to worry about credit card safety when you shop at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay them.
 
-  * Safety in Numbers: Axandra products are sold by SWREG, Inc. USA. SWREG is one of the oldest and biggest online stores on the Internet. When you shop at SWREG, you’ll be one of thethousands of customers who have safely shopped with SWREG without credit card fraud. 
+  * Safety in Numbers: Axandra products are sold by SWREG, Inc. USA. SWREG is one of the oldest and biggest online stores on the Internet. When you shop at SWREG, you’ll be one of thethousands of customers who have safely shopped with SWREG without credit card fraud.
   * Safe Technology: SWREG’s secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts your credit card number, so that it cannot be read while the information travels over the Internet. 
 
 
