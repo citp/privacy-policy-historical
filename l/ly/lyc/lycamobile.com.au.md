@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202090516id_/http%3A//lycamobile.com.au/PrivacyPolicy.aspx%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611032116id_/http%3A//www.lycamobile.com.au/privacy-policy/en) for the most accurate reproduction.*
 
 # LYCAMOBILE PRIVACY POLICY
 
@@ -8,9 +8,9 @@
   
 **INTRODUCTION**  
   
-At Lycamobile Pty Limited (“Lycamobile”), we look after your Personal Data carefully.  We adhere strictly to the requirements of the Privacy Act including the National Privacy Principles (the “Act”) and other data privacy and data retention regulations.  
+At Lycamobile Pty Limited ("Lycamobile"), we look after your Personal Data carefully.  We adhere strictly to the requirements of the Privacy Act including the National Privacy Principles (the "Act") and other data privacy and data retention regulations.  
   
-This Privacy Policy (together with our general terms and conditions which may be found at [http://www.lycamobile.com.au](http://www.lycamobile.com.au/) __ describes how we generate, collect, use, process and store the Personal Data that you provide to us or that is generated or collected when you use our online services and when you use our mobile telephone services.  Please take a moment to read our Privacy Policy so you know what choices you have about your Personal Data.  This Privacy Policy may change occasionally so it's a good idea to come back and read through it again, from time to time.   
+This Privacy Policy (together with our general terms and conditions which may be found at [http://www.lycamobile.com.au](http://www.lycamobile.com.au/home/en) __ describes how we generate, collect, use, process and store the Personal Data that you provide to us or that is generated or collected when you use our online services and when you use our mobile telephone services.  Please take a moment to read our Privacy Policy so you know what choices you have about your Personal Data.  This Privacy Policy may change occasionally so it's a good idea to come back and read through it again, from time to time.   
   
 For the purpose of the Act, the data controller is Lycamobile Pty Limited (Company Number 139 717 212) with its registered office located at Suite 305, Level 3, 66 Berry Street, North Sydney, NSW 2060.   
   
@@ -20,7 +20,7 @@ We may collect and process the following Personal Data about you:
   
   * Your name, address, date of birth, mobile telephone number, call data records including Traffic Data and Location Data, top-up records, credit card or debit card details, billing records, voice mail recordings.
   * If you contact our Customer Services Department, we may keep a record of that correspondence, including copies of e-mails and your e-mail address.  We may also monitor or record any telephone calls made to our Customer Services Department for quality assurance.
-  * Information that you provide by filling in forms on our website [www.lycamobile.com](http://www.lycamobile.com/).au.  This includes information provided at the time of registering to use our website, subscribing to our products and services, posting material or requesting further products or services.  We may also ask you for information when you report a problem with our website or our mobile telephone services and products. 
+  * Information that you provide by filling in forms on our website [www.lycamobile.com.au](http://www.lycamobile.com.au/home/en).  This includes information provided at the time of registering to use our website, subscribing to our products and services, posting material or requesting further products or services.  We may also ask you for information when you report a problem with our website or our mobile telephone services and products. 
   * Details of your visits to our website including, but not limited to, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
   * We may also ask you to complete surveys that we use for market research purposes, although you do not have to respond to them.
   * Other data, from time to time, to help us provide you with improved products and services.  For example, now and again we might ask you to fill in a questionnaire, just so you can let us know how we're doing. 
@@ -29,7 +29,7 @@ We may collect and process the following Personal Data about you:
   
 **IP ADDRESSES AND COOKIES**  
   
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is statistical data about a user’s browsing actions and patterns, and does not identify any individual.   
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is statistical data about a user's browsing actions and patterns, and does not identify any individual.   
   
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.  Cookies contain information that is transferred to your computer's hard drive.  They help us to improve our website and to deliver a better and more personalised service.  Cookies enable us:   
   
@@ -80,7 +80,7 @@ We use Personal Data held about you in the following ways:
 
 
 
-Lycamobile and other Lyca companies may also use your Personal Data to contact you by post, telephone, e-mail or SMS to let you know about products and services offered by Lycamobile, other Lyca group companies and selected companies, including any special offers and promotions, which may interest you.  If you do not wish to receive this information or be contacted in this way, you may at any time, free of any charge, opt out of this direct marketing by requesting to be put on a designated list.  You may make this request by contacting the Customer Services Department or by sending an e-mail to [unsubscribe@lycamobile.com.au](mailto:unsubscribe@lycamobile.com.au). We won’t ever share your details with companies outside the Lyca group for marketing purposes without your consent.  
+Lycamobile and other Lyca companies may also use your Personal Data to contact you by post, telephone, e-mail or SMS to let you know about products and services offered by Lycamobile, other Lyca group companies and selected companies, including any special offers and promotions, which may interest you.  If you do not wish to receive this information or be contacted in this way, you may at any time, free of any charge, opt out of this direct marketing by requesting to be put on a designated list.  You may make this request by contacting the Customer Services Department or by sending an e-mail to [unsubscribe@lycamobile.com.au](mailto:unsubscribe@lycamobile.com.au). We won't ever share your details with companies outside the Lyca group for marketing purposes without your consent.  
   
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day).  We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in Sydney).  We may make use of the Personal Data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.   
   
@@ -108,4 +108,4 @@ Please be aware that our website provides access to other websites by linking to
   
 **CONTACTING US**  
   
-If you have any comments or queries concerning our website, please contact us.  For queries regarding Lycamobile's products or services, please call our Customer Services Department on 122 from any Lycamobile Account or 01300854607 from another telephone.  You may also e-mail the Customer Services Department at [cs@lycamobile.com.au](mailto:cs@lycamobile.com).
+If you have any comments or queries concerning our website, please contact us.  For queries regarding Lycamobile's products or services, please call our Customer Services Department on 122 from any Lycamobile Account or 01300854607 from another telephone.  You may also e-mail the Customer Services Department at [cs@lycamobile.com.au](mailto:cs@lycamobile.com.au).
