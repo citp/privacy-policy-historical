@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229200510id_/http%3A//www.environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611173221id_/http%3A//www.environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Environmental Graffiti
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
 If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site, is conditional on your parent or guardian’s consent to this privacy policy.
 
-**1\. What information do we collect?**
+ **1\. What information do we collect?**
 
 We may collect, store and use the following kinds of personal information:
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation);
+(a) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp);  
+
 
 (b) information that you provide to us for the purpose of registering with us, including details of your Paypal account details necessary for us to remit [Revenue Share] to you;
 
@@ -36,7 +37,7 @@ We publish Google Adsense interest-based advertisements on our website. These ar
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-**3\. Using your personal information**
+ **3\. Using your personal information**
 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -64,7 +65,7 @@ We will not without your express consent provide your personal information to an
 
 All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-**4\. Disclosures**
+ **4\. Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -81,7 +82,7 @@ In addition, we may disclose your personal information:
 (e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
 Except as provided in this privacy policy, we will not provide your information to third parties.  
-**  
+ **  
 5\. International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
@@ -91,7 +92,7 @@ Information which you provide may be transferred to countries which do not have 
 In addition, personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
 You expressly agree to such transfers of personal information.  
-**  
+ **  
 6\. Security of your personal information  
 **  
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
@@ -101,7 +102,7 @@ We will store all the personal information you provide on our secure (password- 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).  
-**  
+ **  
 7\. Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
@@ -120,18 +121,18 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
-**9\. Third party websites**
+ **9\. Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**10\. Updating information**
+ **10\. Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**11\. Contact**
+ **11\. Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [email] or by post to 72-75 Red Lion Street, London, WC1R 4NA. 
 
 **12\. Data controller**
 
-The data controller responsible in respect of the information collected on this website is Environmental Graffiti Limited. 
+The data controller responsible in respect of the information collected on this website is Environmental Graffiti Limited.
