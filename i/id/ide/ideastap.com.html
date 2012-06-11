@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ideastap.com privacy policy that was archived on 2011-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111212035433id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideastap.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611165537id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head id="ctl00_h"><meta http-equiv="X-UA-Compatible" content="IE=7"><meta charset="utf-8"><meta content="no" http-equiv="imagetoolbar"><title>
 	Privacy policy
@@ -30,6 +30,7 @@
 
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-6449846-1']);
+	_gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor', 2]);
 	_gaq.push(['_trackPageview']);
 
 	(function () {
@@ -113,7 +114,8 @@
       "callbackFunction": function(data) {
         if (data.value == true) {
           // success
-          window.location.href = data.dictionary.url;
+          _gat._getTrackerByName()._trackEvent('User Actions', 'Login', data.dictionary.displayname);
+          setTimeout('window.location.href = "' + data.dictionary.url + '"', 100);
         }
       }
      });
@@ -138,6 +140,7 @@
 
 		<div class="top-slide-triggers">
 			<a class="login-trigger" href="#">Login </a>
+			<a class="safety-trigger" href="/Safety">Safety</a>
 			<a class="signup-trigger" href="/Register?ReturnUrl=%2fPrivacyPolicy">Get involved with     IdeasTap  <strong>Create a profile</strong></a>
 		</div>
 	
@@ -169,7 +172,7 @@
         </div>
         <nav id="page-nav">
           <ul id="ctl00_tm_tm">
-	<li id="menu_SignUp" class="c0" style="width: 109px;"><a href="/Register">Sign up</a><span></span></li><li id="menu_Networks" class="c1 parent" style="width: 140px;"><ul class=" child"><li id="menu_peopleredirect" class="first-child"><a href="/People">People</a><span></span></li><li id="menu_groupsredirect"><a href="/Groups">Groups</a><span></span></li><li id="menu_eventsRedirect"><a href="/LiveEvents">Events</a><span></span></li><li id="menu_forumsredirect"><a href="/Forum">Forums</a><span></span></li><li id="menu_education"><a href="http://www.ideastap.com/Education">Education</a><span></span></li></ul><a href="/Networks">Networks<aside></aside></a><span></span></li><li id="menu_Opportunities" class="c2 parent" style="width: 166px;"><ul class=" child"><li id="menu_briefsredirect" class="first-child"><a href="/Opportunities/Briefs">Briefs</a><span></span></li><li id="menu_Jobs"><a href="/Opportunities/Jobs">Jobs (etc)</a><span></span></li><li id="menu_discounts"><a href="/Opportunities/discounts">Discounts + offers</a><span></span></li><li id="menu_spa"><a href="/Opportunities/spa">The Spa</a><span></span></li></ul><a href="/Opportunities">Opportunities<aside></aside></a><span></span></li><li id="menu_IdeasMag" class="c3 parent" style="width: 141px;"><ul class=" child"><li id="menu_allarticles" class="first-child"><a href="/Search#types=1,magazine">All articles</a><span></span></li><li id="menu_videos"><a href="/Search#types=1,magazine&amp;types=2,video&amp;terms=">Videos</a><span></span></li><li id="menu_theknowledge"><a href="/Search#types=1,magazine&amp;types=3,ideastapknowledgepage">The Knowledge</a><span></span></li><li id="menu_Jotw"><a href="/Search#types=1,magazine&amp;types=3,ideastapjoboftheweekpage">Job of the week</a><span></span></li><li id="menu_blogsredirect"><a href="/IdeasMag/Blogs">Blogs</a><span></span></li></ul><a href="/IdeasMag">IdeasMag<aside></aside></a><span></span></li><li id="menu_Funding" class="c4 parent" style="width: 133px;"><ul class=" child"><li id="menu_ExplainingOurFunds" class="first-child"><a href="/Funding/Explaining-Our-Funds">Explaining Our Funds</a><span></span></li></ul><a href="/Funding">Funding<aside></aside></a><span></span></li><li id="menu_Partners" class="c5 parent" style="width: 134px;"><ul class=" child"><li id="menu_ovnv" class="first-child"><a href="/Partners/ovnv">Old Vic New Voices</a><span></span></li><li id="menu_nationalyouththeatre"><a href="/Partners/nationalyouththeatre">National Youth Theatre</a><span></span></li><li id="menu_magnumphotos"><a href="/Partners/magnumphotos">Magnum Photos</a><span></span></li><li id="menu_nsdf"><a href="/Partners/nsdf">National Student Drama Festival</a><span></span></li><li id="menu_ideasclub"><a href="/Partners/ideasclub">Ideas Club</a><span></span></li><li id="menu_NSA"><a href="/Partners/NSA">National Skills Academy</a><span></span></li><li id="menu_theroses"><a href="/Partners/theroses">The Roses</a><span></span></li><li id="menu_more"><a href="/Partners">More</a><span></span></li></ul><a href="/Partners">Partners<aside></aside></a><span></span></li><li id="menu_AboutUs" class="c6 parent" style="width: 137px;"><ul class=" child"><li id="menu_meettheteam" class="first-child"><a href="/About-Us/meet-the-team">Meet the team</a><span></span></li><li id="menu_ContactUs"><a href="/ContactUs">Contact Us</a><span></span></li><li id="menu_history"><a href="/About-Us/history">Our history</a><span></span></li><li id="menu_alumni"><a href="/About-Us/alumni">Alumni</a><span></span></li><li id="menu_supporters"><a href="http://www.ideastap.com/judges">Supporters</a><span></span></li><li id="menu_helpcentre"><a href="http://www.ideastap.com/faqs">Help Centre</a><span></span></li></ul><a href="/About-Us">About us<aside></aside></a><span></span></li>
+	<li id="menu_SignUp" class="c0" style="width: 111px; padding-left: 1px;"><a href="/Register">Sign up</a><span></span></li><li id="menu_Networks" class="c1 parent" style="width: 142px; padding-left: 1px;"><ul class=" child"><li id="menu_peopleredirect" class="first-child"><a href="/People">People</a><span></span></li><li id="menu_groupsredirect"><a href="/Groups">Groups</a><span></span></li><li id="menu_eventsRedirect"><a href="/LiveEvents">Events</a><span></span></li><li id="menu_forumsredirect"><a href="/Forum">Forums</a><span></span></li><li id="menu_education"><a href="http://www.ideastap.com/Education">Education</a><span></span></li></ul><a href="/Networks">Networks<aside></aside></a><span></span></li><li id="menu_Opportunities" class="c2 parent" style="width: 168px; padding-left: 1px;"><ul class=" child"><li id="menu_briefsredirect" class="first-child"><a href="/Opportunities/Briefs">Briefs</a><span></span></li><li id="menu_Jobs"><a href="/Opportunities/Jobs">Arts jobs</a><span></span></li><li id="menu_spa"><a href="/Opportunities/spa">IdeasTap Spa: advice + events</a><span></span></li><li id="menu_discounts"><a href="/Opportunities/discounts">Discounts + offers</a><span></span></li></ul><a href="/Opportunities">Opportunities<aside></aside></a><span></span></li><li id="menu_IdeasMag" class="c3 parent" style="width: 143px;"><ul class=" child"><li id="menu_allarticles" class="first-child"><a href="/Search#types=1,magazine">All articles</a><span></span></li><li id="menu_videos"><a href="/Search#types=1,magazine&amp;types=2,video&amp;terms=">Videos</a><span></span></li><li id="menu_theknowledge"><a href="/Search#types=1,magazine&amp;types=3,ideastapknowledgepage">The Knowledge</a><span></span></li><li id="menu_Jotw"><a href="/Search#types=1,magazine&amp;types=3,ideastapjoboftheweekpage">Job of the week</a><span></span></li><li id="menu_blogsredirect"><a href="/IdeasMag/Blogs">Blogs</a><span></span></li></ul><a href="/IdeasMag">IdeasMag<aside></aside></a><span></span></li><li id="menu_Funding" class="c4" style="width: 115px;"><a href="/Funding">Funding</a><span></span></li><li id="menu_Partners" class="c5 parent" style="width: 136px;"><ul class=" child"><li id="menu_ovnv" class="first-child"><a href="/Partners/ovnv">Old Vic New Voices</a><span></span></li><li id="menu_nationalyouththeatre"><a href="/Partners/nationalyouththeatre">National Youth Theatre</a><span></span></li><li id="menu_magnumphotos"><a href="/Partners/magnumphotos">Magnum Photos</a><span></span></li><li id="menu_nsdf"><a href="/Partners/nsdf">National Student Drama Festival</a><span></span></li><li id="menu_NSA"><a href="/Partners/NSA">National Skills Academy</a><span></span></li><li id="menu_bfi"><a href="/Partners/bfi">BFI</a><span></span></li><li id="menu_hightide"><a href="/Partners/hightide">HighTide</a><span></span></li><li id="menu_mac"><a href="/Partners/mac">mac birmingham</a><span></span></li><li id="menu_theroses"><a href="/Partners/theroses">The Roses</a><span></span></li><li id="menu_more"><a href="/Partners">More</a><span></span></li></ul><a href="/Partners">Partners<aside></aside></a><span></span></li><li id="menu_aboutus" class="c6 parent" style="width: 142px;"><ul class=" child"><li id="menu_helpcentre" class="first-child"><a href="http://www.ideastap.com/faqs">Help centre</a><span></span></li><li id="menu_history"><a href="/about-us/history">Our history</a><span></span></li><li id="menu_alumni"><a href="/about-us/alumni">Alumni</a><span></span></li><li id="menu_meettheteam"><a href="/about-us/meet-the-team">Meet the team</a><span></span></li><li id="menu_supporters"><a href="http://www.ideastap.com/judges">Supporters</a><span></span></li><li id="menu_ContactUs"><a href="/ContactUs">Contact us</a><span></span></li></ul><a href="/about-us">About Us<aside></aside></a><span></span></li>
 </ul>
 <div class="languageMenu">
   
@@ -302,7 +305,7 @@
     
     <li class="">
       <a href="/Community/Partners/nsdf">
-        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Partner_content/nsdf/NSDF_footer.jpg&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="nsdf" width="95" height="54">
+        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Footer/nsdf-footer-logo.jpg&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="nsdf" width="95" height="54">
       </a>
     </li>
     
@@ -313,14 +316,32 @@
     </li>
     
     <li class="">
-      <a href="/Community/Partners/ideasclub">
-        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Partner_content/ideasclub/ideasclub_new_footer.png&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="IdeasClub" width="95" height="54">
+      <a href="http://www.ideastap.com/Partners/bfi">
+        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Footer/Footer-BFI.jpg&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="BFI" width="95" height="54">
       </a>
     </li>
     
     <li class="">
-      <a href="/Community/Partners/raamroses">
+      <a href="http://www.ideastap.com/hightide">
+        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Footer/Footer-HighTide.jpg&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="HighTide" width="95" height="54">
+      </a>
+    </li>
+    
+    <li class="">
+      <a href="http://www.ideastap.com/Partners/mac">
+        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Footer/mac-logo-footer.gif&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="mac birmingham" width="95" height="54">
+      </a>
+    </li>
+    
+    <li class="">
+      <a href="/Community/Partners/theroses">
         <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Partner_content/Roses/Design/roses-logo-footer.jpg&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="The Roses" width="95" height="54">
+      </a>
+    </li>
+    
+    <li class="">
+      <a href="http://www.ideastap.com/Partners/brain-wash">
+        <img src="http://www.ideastap.com:80/ImageHandler.ashx?FileName=/Upload/CmsMedia/Footer/brain-wash-footer.jpg&amp;Width=95&amp;Height=54&amp;ImageMod=Crop&amp;OutputFormat=HighQualityJpeg&amp;CacheEnabled=True" alt="Brain Wash" width="95" height="54">
       </a>
     </li>
     
