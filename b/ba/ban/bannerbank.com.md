@@ -1,100 +1,81 @@
-> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611090635id_/http%3A//bannerbank.com/Documents/BANR_Privacy.pdf) for the most accurate reproduction.*
 
-# Banner Bank Privacy page
+# FACTS
 
- [Home](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/default.html)  
- [About Us](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/about.html)  
- [Personal Solutions](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/personal.html)  
- [Business Solutions](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/business.html)  
- [Contact Us/Locations](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/contactus.html)  
- [Stock Quotes](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/stock.html)  
- [Investment Services](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/invest.html)  
- [Job Opportunities](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/job.html)  
- [News/Press Releases](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/news.html)  
- [Related Links](https://web.archive.org/web/20070628135551id_/http%3A//www.bannerbank.com/related.html) |    
-**The Opportunities you Deserve, The Privacy you Expect  
-**
-
-Banner Corporation and its affiliates, Banner Bank, Community Financial Corporation, and Northwest Financial Corporation, respect and value your personal privacy and your personal information. Our goal is to serve you and meet your financial needs in the most effective and convenient way possible and to ensure that information you share with us or we gather about you remains confidential.  
-
-
-To offer you the opportunities you deserve as a Banner Corporation customer, we find that sharing limited amounts of your personal information within our Banner Corporation family of companies and with well-respected, carefully selected business partners enables us to offer you personalized products and services at lower costs and/or with greater convenience than would otherwise be possible.  
-
-
-Banner Corporation does not sell customer information to any third-party marketer.  
-  
-**Information We Gather and Disclose  
-**
-
-In order to provide financial products and services to you, protect your account from fraud, and comply with government regulations, we collect and maintain a range of customer data including nonpublic personal information about you from the following sources:  
-
-
-  * Information we receive from you on applications or other forms, such as your name, address, phone number, Social Security Number, assets, income, and debts. 
-  * Information about your transactions with us, our affiliates or others, such as your account balance, payment history, parties to transactions, and overdraft history. 
-  * Information we receive from consumer reporting agencies, such as your creditworthiness or credit history.
-  * Information we receive from outside sources regarding their relationships with you or verifying representations made by you, such as banking history, loan or deposit balances, employment history, or property insurance coverage.
-
-
-
-We disclose nonpublic personal information to third parties, such as credit reporting agencies, federal and state regulators, and loan investors, in order to do business with you or as permitted by law.  
-
-
-We may also share nonpublic personal information with companies that perform services on our behalf, such as vendors who prepare monthly statements, process checks or provide support of one or more of our products or services. These business partners contractually agree to keep your information confidential and not to use it for any other purpose.  
-
-
-We may share with our affiliates only information about your transactions with us, such as your account balance, payment history, parties to transactions and overdraft history as permitted by law.  
+                                                                                                                               Rev. October 2011
+                               WHAT DOES BANNER BANK DO WITH YOUR PERSONAL INFORMATION?
+ FACTS
+ Why?                          Financial companies choose how they share your personal information. Federal law gives consumers
+                               the right to limit some but not all sharing. Federal law also requires us to tell you how we collect,
+                               share, and protect your personal information. Please read this notice carefully to understand what we
+                               do.
+ What?                         The types of personal information we collect and share depend on the product or service you have
+                               with us. This information can include:
+                                 l Social Security number                                    l Overdraft history
+                                 l Account balances                                          l Account transactions
+                                 l Credit history                                            l Checking account information
+ How?                          All financial companies need to share customers' personal information to run their everyday business.
+                               In the section below, we list the reasons financial companies can share their customers' personal
+                               information; the reasons Banner Bank chooses to share; and whether you can limit this sharing.
+    Reasons we can share your personal information                           Does Banner Bank share?             Can you limit this sharing?
+ For our everyday business purposes -                                                          Yes                          No
+ such as to process your transactions, maintain your
+ account(s), respond to court orders and legal
+ investigations, or report to credit bureaus
+ For our marketing purposes -                                                                   No                     We don't share
+ to offer our products and services to you
+ For joint marketing with other financial companies                                             No                     We don't share
+ For our affiliates' everyday business purposes -                                              Yes                          No
+ information about your transactions and experiences
+ For our affiliates' everyday business purposes -                                              Yes                          Yes
+ information about your creditworthiness
+ For our affiliates to market to you                                                           Yes                          Yes
+ For nonaffiliates to market to you                                                             No                     We don't share
+ To limit our                    l Call Toll-free 800-272-9933
+ sharing                       Please note:
+                               If you are a new customer, we can begin sharing your information 30 days from the date we sent this
+                               notice. When you are no longer our customer, we continue to share your information as described in
+                               this notice.
+                               However, you can contact us at any time to limit our sharing.
+ Questions?                    Call toll-free 800-272-9933
+Privacy Model Disclosure                                                                                                        PRIV-MODEL 8/1/2010
+VMP® Bankers Systems™
+Wolters Kluwer Financial Services © 2010                               2011.1/1660 3082558-010 Custom EPRV1660
 
 
-We occasionally receive limited medical information if a customer applies for credit insurance. We do not share medical information except to process transactions or service customer requests.  
-  
-**Benefits of Sharing With Financial Service Providers and Joint Marketing Partners  
-**
-
-To make products or services that we believe may meet your financial needs available to you, we may share all of the information we collect as described in "Information We Gather and Disclose" to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.  
-  
-**Our Security Procedures  
-**
-
-We take prudent steps to safeguard customer information. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal and state standards to guard your nonpublic personal information.  
-  
-**Banner Corporation Web Site  
-**
-
-Visitors to the Banner Corporation public web site remain anonymous. Banner Corporation does not collect identifying information about visitors to our site. We may use standard software to collect non-identifying information about visitors, such as:
-
-* Date and time our site was accessed
-
-* IP address (A numeric address given to servers connected to the internet)  
-
-
-* Web browser used  
-
-
-* City, State, and Country
-
-This general information enables us to serve you better by continually improving our web site and making it even more convenient.
-
-Visitors may elect to provide us with personal information via e-mail. This information is used internally, as appropriate, to handle the sender's request. It is not disseminated or sold to other organizations.
-
-**Former Customers  
-**
-
-We will continue to adhere to Banner Corporation's privacy policies and practices, as amended from time to time, even if you are no longer a customer.  
-  
-**Who Should You Contact with Questions?  
-**  
-If you have questions about our Privacy Policy, please call Banner Corporation at 1-800-272-9933 and ask for the Compliance Department or write us at:
-
-Banner Corporation  
-Attn: Compliance Department  
-10 South First Avenue  
-Walla Walla, WA 99362
-
-We will be glad to answer your questions.
-
-Because of Banner Corporation's high commitment to confidentiality of customer information, all comments relating to our privacy policy will be forwarded directly to our Compliance Officer for prompt consideration. 
-
-  
-  
-  
----|---
+Page 2
+What We Do
+How does Banner Bank protect   To protect your personal information from unauthorized access and use, we use
+my personal information?       security measures that comply with federal law. These measures include computer
+                               safeguards and secured files and buildings.
+                               We also maintain other physical, electronic and procedural safeguards to protect
+                               this information and we limit access to information to those employees for whom
+                               access is appropriate.
+How does Banner Bank collect   We collect your personal information, for example, when you
+my personal information?         l Open an account                          l Use your credit or debit card
+                                 l Pay your bills                           l Make deposits or withdrawals from
+                                 l Apply for a loan                            your account
+                               We also collect your personal information from others, such as credit bureaus,
+                               affiliates, or other companies.
+Why can't I limit all sharing? Federal law gives you the right to limit only
+                                 l sharing for affiliates' everyday business purposes - information about your
+                                    creditworthiness
+                                 l affiliates from using your information to market to you
+                                 l sharing for nonaffiliates to market to you
+                               State laws and individual companies may give you additional rights to limit sharing.
+What happens when I limit      Your choices will apply to everyone on your account.
+sharing for an account I hold
+jointly with someone else?
+Definitions
+Affiliates                     Companies related by common ownership or control. They can be financial and
+                               non-financial companies.
+                                 l Our affiliates include:
+                                     l Financial companies such as: Northwest Financial Corporation and
+                                        Banner Corporation and its banking affiliates and subsidiaries, Banner
+                                        Bank, Islanders Bank, and Community Financial Corporation.
+Nonaffiliates                  Companies not related by common ownership or control. They can be financial and
+                               non-financial companies.
+                                 l Banner Bank does not share with nonaffiliates so they can market to you.
+Joint Marketing                A formal agreement between nonaffiliated financial companies that together market
+                               financial products or services to you.
+                                 l Banner Bank doesn't jointly market.
