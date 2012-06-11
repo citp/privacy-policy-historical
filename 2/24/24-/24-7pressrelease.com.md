@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220437id_/http%3A//www.24-7pressrelease.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24-7pressrelease.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611035321id_/http%3A//www.24-7pressrelease.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Press Release Distribution from 24-7PressRelease.com
 
@@ -22,4 +22,4 @@ Security: 24-7PressRelease.com uses the services of 2Checkout.com for secure tra
 
 Choice of information: The amount of information you enter as a new user, for contact information on your press release is optional to you. 24-7PressRelease.com does require a minimum of contact information for our base release level distribution that includes your first and last name, email address, company name and job title. If you wish to change any information, you may do so by logging into your account and making the changes on your own. The data you supply within your account is data we keep on file. 
 
-Redress: If you feel that our privacy policy has not been met, please do not hesitate to [**_contact us_**](https://web.archive.org/web/20111101220437id_/http%3A//www.24-7pressrelease.com/contact_us.php) to have the issue resolved. 
+Redress: If you feel that our privacy policy has not been met, please do not hesitate to [**_contact us_**](https://web.archive.org/web/20120611035321id_/http%3A//www.24-7pressrelease.com/contact_us.php) to have the issue resolved. 
