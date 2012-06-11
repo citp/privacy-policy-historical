@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mp3mixx.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123174106id_/http%3A//www.mp3mixx.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3mixx.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611101941id_/http%3A//www.mp3mixx.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+###### Information page
 
 Using mp3mixx.com website means that you have studied and accepted the Terms of Use. In case you do not accept one or more of the Agreements provisions, please, do not use this site.
 
