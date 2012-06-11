@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122134422id_/http%3A//www.hipipo.com/index.php%3Flinkvar%3Dterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611054518id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
 
 # Terms: HiPipo.com
 
-|  |  |  [](http://www.hipipo.com/) | Follow Us [](http://www.facebook.com/hipipo.entertainment)[](http://twitter.com/hipipo) |  [Login](http://www.hipipo.com/index.php?linkvar=sign_in) | [Register](http://www.hipipo.com/index.php?linkvar=join) |   |   
-  
----|---|---|---|---  
-|    
-  
-  * [Home](http://www.hipipo.com/ "Home")
-
-  
-  
-[ Home ](http://www.hipipo.com/) | [ ](http://www.hipipo.com/index.php?linkvar=members_home) [ Main ](http://www.hipipo.com/index.php) | [ Register ](http://www.hipipo.com/index.php?linkvar=join)| [ Forgot Password? ](http://www.hipipo.com/index.php?linkvar=forgoten_password) | [Find Friends](http://www.hipipo.com/index.php?linkvar=search "Find Friends")  
-  
 |   
-|  | 
+---  
+|    
+---  
+| 
 
 **What information do we collect?**
 
