@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130221252id_/http%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611095854id_/http%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSID
 
@@ -106,7 +106,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 If you have questions, comments, and/or complaints regarding CSID’s Privacy Policy or how we collect, transmit, and process data please contact us by:
 
 **PHONE**  
-1.800.805.7004
+855.890.CSID (2743)
 
 **E-MAIL**  
 [privacy@csid.com](mailto:privacy@csid.com)
