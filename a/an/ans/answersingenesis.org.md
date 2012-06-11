@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208230429id_/http%3A//www.answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611074155id_/http%3A//www.answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Answers in Genesis
 
