@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103095856id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611182023id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
 
 # BatteryMart.com Privacy Statement - BatteryMart.com
 
@@ -20,9 +20,9 @@ Our site uses an order form for customers to request information, products, and 
 
 Contact information from the order forms is used to ship purchases. The customer's contact information is also used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. Furthermore, you can be assured that the information you give us is private. We do not sell, rent or share information about our customers.
 
-## Email Updates
+## Email Newsletter
 
-You can always opt-out of email updates at BatteryMart.com. You may also unsubscribe to these e-mails at any time using the unsubscribe link at the base of any BatteryMart.com e-mail. Your email address will never be sold to a third party.
+You can always opt-out of the email newsletter at BatteryMart.com. You may also unsubscribe to these e-mails at any time using the unsubscribe link at the base of any BatteryMart.com newsletter e-mail. Your email address will never be sold to a third party.
 
 **Notice to customers using e-mail filtering "SPAM" software**
 
@@ -36,6 +36,7 @@ BatteryMart.com uses your e-mail address to:
   * Notify you of any billing issues with processing your order.
   * Respond to inquiries.
   * Return information.
+  * Following up shortly after your order to be sure that everything was okay.
   * Keep you updated about BatteryMart.com related news and information if chosen.
 
 
