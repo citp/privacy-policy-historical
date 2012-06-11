@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128011522id_/http%3A//freewheel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611070906id_/http%3A//www.fwmrm.net/privacy) for the most accurate reproduction.*
 
-# FreeWheel
+# Privacy Policy | FreeWheel
 
-## FreeWheel Media, Inc. Privacy Statement
+##### FreeWheel Media, Inc. Privacy Statement
 
 Effective Date:    July 18, 2011
 
@@ -64,10 +64,8 @@ We provide all visitors to our web site with the opportunity to review, modify, 
 
 If you have any questions about this Statement, the practices of this site, or your dealings with this website, you can contact:
 
-FreeWheel Media, Inc.
-
-20 E. 3rd Avenue, Second Floor
-
+FreeWheel Media, Inc.  
+20 E. 3rd Avenue, Second Floor  
 San Mateo, CA 94401
 
 Attn:  Webmaster
