@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogandwatch.me privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924035535id_/http%3A//www.blogandwatch.me/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogandwatch.me privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611112741id_/http%3A//blogandwatch.me/index.php/Rules-FAQs/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Blog and Watch - Privacy Policy
+# Blog and Watch ME - Privacy Policy
 
 ## Privacy Policy
 
@@ -52,7 +52,7 @@ You may request that we delete your Personal Information by contacting our Suppo
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users' cashes.
 
-If you have any further questions about your Personal Information, please [Contact Us](http://blogandwatch.me/index.php/component/contact/1-administration/1-blog-and-watch-me-support-team).
+If you have any further questions about your Personal Information, please [Contact Us](http://blogandwatch.me/index.php/Contact/Blog-And-Watch-ME-Support-Team.html).
 
 ### Confidentiality and security
 
@@ -72,4 +72,4 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
 
 ### Contact Information
 
-If you have questions or suggestions, please [Contact us](http://blogandwatch.me/index.php/component/contact/1-administration/1-blog-and-watch-me-support-team)
+If you have questions or suggestions, please [Contact us](http://blogandwatch.me/index.php/Contact/Blog-And-Watch-ME-Support-Team.html)
