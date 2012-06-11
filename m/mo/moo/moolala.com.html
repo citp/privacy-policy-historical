@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moolala.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226062338id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moolala.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611042930id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
@@ -24,19 +24,19 @@
     
 
     <link rel="stylesheet" href="http://www.moolala.com/Content/common.css" type="text/css">
-  <link rel="stylesheet" href="http://www.moolala.com/Content/moolala.css?v=469054CA98" type="text/css">
+    <link rel="stylesheet" href="http://www.moolala.com/Content/moolala.css?v=469054CA98" type="text/css">
+    <link rel="stylesheet" href="http://www.moolala.com/Content/colorbox_white.css" type="text/css">
+    <link rel="shortcut icon" type="image/x-icon" href="http://files.moolala.com/favicon.ico">
 
     
     <style type="text/css">
         body { background-position: center 59px; }
     </style>
     
-    <link rel="stylesheet" href="http://www.moolala.com/Content/colorbox_white.css" type="text/css">
 
     <!--[if lte IE 9]>
         <script src="http://www.moolala.com/Scripts/html5.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" type="image/x-icon" href="http://files.moolala.com/favicon.ico">
 
     
     <title>Moolala - Privacy Policy</title>
@@ -90,28 +90,55 @@
         });
     </script>
 
-</head>
+<script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script></head>
 
 
 <body id="body" class="">
 
       
       <div id="fb-root"></div>
-        <script src="http://connect.facebook.net/en_US/all.js"></script>
-        <script>
-          function afterFacebookConnect() {
-            FB.getLoginStatus(function (response) {
-              if (response.session) {
-                window.location = "../Facebook/Login?token=" + response.session.access_token;
-              } else {
-                // user clicked Cancel
-              }
-            });
-          };
-          FB.init({
-            appId: '205328742852571', cookie: true,
-            status: true, xfbml: true
-          });
+        <!--script src="http://connect.facebook.net/en_US/all.js"></script-->
+        <script type="text/javascript" language="javascript">
+
+            function afterFacebookConnect() {
+                FB.getLoginStatus(function (response) {
+                    /*if (response.status == 'connected') {
+                        var uid = response.authResponse.userID;
+                        var accessToken = response.authResponse.accessToken;
+                        alert('full login');
+                    } else if (response.status == 'not_authorized') {
+                        alert('user is logged on fb, not to app');
+                    } else {
+                        alert('user not logged on fb');
+                    }*/
+                    if (response.authResponse) {
+                        window.location = "../Facebook/Login?token=" + response.authResponse.accessToken;
+                    } else {
+                        // user clicked Cancel
+                    }
+                });
+            }
+
+            window.fbAsyncInit = function () {
+                FB.init({
+                    appId: '249525255118160', //'205328742852571', // App ID
+                    channelUrl: 'http://www.moolala.com/channel.html',
+                    status: true, // check login status
+                    cookie: true, // enable cookies to allow the server to access the session
+                    xfbml: true,  // parse XFBML
+                    oauth: true,
+                });
+
+                // Additional initialization code here
+            };
+
+            // Load the SDK Asynchronously
+            (function (d) {
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "http://connect.facebook.net/en_US/all.js"; //
+                d.getElementsByTagName('head')[0].appendChild(js);
+            } (document, 'script', 'facebook-jssdk'));
         </script>
       
     <div id="dialogOverlay" class="opacity50" onclick="clickDialogOverlay();"></div>
@@ -185,7 +212,7 @@
                 loadTopSignupBarCountriesPopup();
             }
         });
-        var topSignupBarCurrentLocationID = 835;
+        var topSignupBarCurrentLocationID = 813;
         function loadTopSignupBarCountriesPopup() {
             var href = '/Location/TopSignupBarCountriesPopup/?ajax=1';
             $.colorbox({ opacity: 0.5, href: href });
