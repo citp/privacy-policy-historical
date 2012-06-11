@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50centsolos.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212084136id_/http%3A//50centsolos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50centsolos.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611202725id_/http%3A//50centsolos.com/privacy.php) for the most accurate reproduction.*
 
 # 50 Cent Solos Privacy Policy
 
