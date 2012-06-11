@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ford.co.uk privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101134723id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ford.co.uk privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611093036id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
-<!-- Server: -113 D ENGInE Rocks  -->
+<!-- Server: 68  -->
 <meta name="robots" content="index,follow">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en">
@@ -16,11 +16,15 @@ messageText	=	"We have detected that you may not have the latest version of Adob
 buttonText	=	"No thanks!";
 FDlink		=	"http://www.macromedia.com/go/getflashplayer";
 reqVersion	=	"9.0.124.0";
+</script>
+<script type="text/javascript">
 // mobile sniffer
 ForceRedirectUserAgents = 'android,iphone,blackberry,nokia';
 ForceRedirectMinWidth = '480';
-MobileRedirectURL = 'http://m.ford.co.uk';
+MobileHomePageRedirectURL = 'http://m.ford.co.uk';
 </script>
+<!--  doing javascript calling from is body-->
+<script type="text/javascript" src="/cs/ContentServer?pagename=ENGInE%2fscript%2fGroupedJS"></script>	
 <script type="text/javascript">
 // <![CDATA[
 if(typeof engine == "undefined") engine = new Object();
@@ -77,10 +81,47 @@ if(typeof engine.browser == "undefined") engine.browser = new Object();
 engine.browser.isIE = navigator.appName == 'Microsoft Internet Explorer';
 //  ]]>
 </script>
+<script type="text/javascript">
+// <![CDATA[
+// TODO - add exception handling 
+secondLevelDomain = '';	
+// sample - myCookie = Cookie.write('isOwnerAuthenticated', true, {domain: secondLevelDomain});
+//  ]]>	
+</script>
+<script type="text/javascript">
+var overlayurl = [];
+var overlayparams = [];
+var triggers =[];
+</script>
 <!--  doing javascript calling from is body-->
 <script type="text/javascript" src="/cs/ContentServer?pagename=ENGInE%2fscript%2fGroupedJS"></script>
-</head>
-<body onload="engine.navigation.init(document.getElementById('currentContext'));engine.navigation.init(document.getElementById('nextSteps'));">
+</head><body onload="engine.navigation.init(document.getElementById('currentContext'));engine.navigation.init(document.getElementById('nextSteps'));"><div id="cookieAlertBoxID" class="cookieAlertBox">
+<div class="top">
+<sub>*</sub>
+<h4 class="title">Ford Cookie Usage</h4>
+<a id="closeBtnID" class="closeBtn" href="#" title="Close">Close</a>				
+</div>
+<div class="midContent">
+<div class="BTIarticleTitle">
+</div>
+<div class="BTIarticleBody">
+<div class="BTIarticleText">
+<p align="left">The Ford website uses certain cookies. A cookie is a text-only string of information that the Ford website transfers to the cookie file of the browser on your computer. Cookies allow the Ford website to perform properly and remember your browsing history. Cookies also help a website to arrange content to match your preferred interests more quickly. Cookies alone cannot be used to identify you. You can find out more about cookies and how to control them using the Ford Cookie Guide:<br>
+</p> 
+</div>
+</div>
+<ul>
+<li><a id="linkID" class="link" href="http://www.ford.co.uk/Footer/CookieGuide?intcmp=other-nwp-cookies-cookie-alert-link">Find out more</a> </li>
+<li><a id="btnLinkID" class="btnLink" href="#"><span>Continue</span></a> </li>
+</ul>
+</div>
+<div class="bottom"></div>
+</div>
+<script type="text/javascript">
+engine.cookieLegislation.trigger();
+</script>
+
+
 <script type="text/javascript" language="JavaScript" src="/cs/ContentServer?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>	
 <script type="text/javascript">var sford=new Object;sford.tabName='';sford.pageName='brand:privacy';sford.dlwasSent=false;sford.eVar11='brand:privacy';sford.hier1='help:privacy';sford.tagViewPhoto='';sford.tagHighlights='';sford.tagDownload='';s.pageName='brand:privacy';s.hier1='help:privacy';s.channel='footer';s.eVar4='eng';s.prop4='eng';s.eVar11='brand:privacy';s.prop11='brand:privacy';s.eVar14='ford-uk';s.prop14='ford-uk';s.eVar15='ford-brand';s.prop15='ford-brand';</script>
 <script type="text/javascript">
@@ -104,14 +145,14 @@ return (this.match(str+"$")==str)
 }
 function createPath() {
 var currentURL = window.location.href;
-if(!currentURL.contains("/cs/ContentServer?") && !currentURL.contains("/cs/Satellite?")){
-if(currentURL.contains("=") && currentURL.contains("/") && !currentURL.contains("?")){
+if(!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1){
+if(currentURL.indexOf("=") > -1 && currentURL.indexOf("/") > -1 && !currentURL.indexOf("?") > -1){
 currentURL = currentURL.substring(0, currentURL.indexOf("="));
 currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
 }
-if(currentURL.contains("?")){
+if(currentURL.indexOf("?") > -1){
 currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-if(currentURL.contains("=") && currentURL.contains("/")){
+if(currentURL.indexOf("=") > -1 && currentURL.indexOf("/") > -1){
 currentURL = currentURL.substring(0, currentURL.indexOf("="));
 currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
 }
@@ -132,13 +173,13 @@ tc_page_alias = createPath();
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >--> 
 <div id="masthead">
-<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214321074725&amp;blobkey=id" style="float:left" border="0" alt="Father and son at laptops" title="Father and son at laptops" height="115" width="980">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214321074725&amp;blobkey=id" border="0" alt="Father and son at laptops" title="Father and son at laptops" height="115" width="980">
 </div>
 <!--<END_MHB001 >--> 
 <div id="lockup_container">
 <div>
 <!--<START_LU001 >--> 
-<a href="/"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214406545037&amp;blobkey=id" border="0" alt="Ford Home" title="Ford Home" width="150" height="69"></a>
+<a href="/"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214414147117&amp;blobkey=id" border="0" alt="Ford Home" title="Ford Home" width="150" height="69"></a>
 <!--<END_LU001 >-->
 </div>
 </div>
@@ -151,42 +192,28 @@ tc_page_alias = createPath();
 <div class="navtop"></div>
 <div id="navAnchor"></div>
 <ul id="currentContext" class="currentContext"> 
-<li id="menu1204903584430">
+<li id="menu1204903584430" class="">
 <a href="/">Home</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/100Years">100 years in Britain</a></li>		
-<li>
-<a href="/TheFordStandard">The Ford Standard</a></li>		
-<li>
-<a href="/Cars">Cars</a></li>		
-<li>
-<a href="/Commercialvehicles">Commercial vehicles</a></li>		
-<li>
-<a href="/FordFleet">Ford Fleet</a></li>		
-<li>
-<a href="/FordDirect">Used vehicles - Ford Direct</a></li>		
-<li>
-<a href="/FordInnovation">Ford innovation</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord">Buying and protecting your Ford</a></li>		
-<li>
-<a href="/FordLease">Ford Lease</a></li>		
-<li>
-<a href="/CurrentPromo">Promotions</a></li>		
-<li>
-<a href="/FordMobility">Ford Mobility</a></li>		
-<li>
-<a href="/OwnerServices">Owner services</a></li>		
-<li>
-<a href="/FordECOneticTechnology">Ford ECOnetic Technology</a></li>		
-<li>
-<a href="/AboutFord">About Ford</a></li>		
-<li>
-<a href="/Sports-and-Activities">Sports and activities</a></li></ul>
+<ul class="navsubmenu">
+<li class="">
+<a href="/Cars">Cars</a></li>
+<li class="">
+<a href="/Commercialvehicles">Commercial vehicles</a></li>
+<li class="">
+<a href="/FordDirect">Used vehicles - Ford Direct</a></li>
+<li class="">
+<a href="/FordFleet">Ford Fleet</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord">Buying, protecting and insuring your Ford</a></li>
+<li class="">
+<a href="/FordMotability">Ford Motability</a></li>
+<li class="">
+<a href="/OwnerServices">Owner services</a></li>
+<li class="">
+<a href="/experience-ford">Experience Ford</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
@@ -196,33 +223,16 @@ tc_page_alias = createPath();
 <div class="navdivider">
 </div>
 <ul id="nextSteps" class="nextSteps">
-<li id="menu1204983764994" class="navnextSteps">
-<a href="/100Years">100 years in Britain</a>
-<script>
-document.getElementById('menu1204983764994').className="navnextSteps";
-</script>
-</li>
-<li id="menu1204969053517">
-<a href="/TheFordStandard">The Ford Standard</a>
-<div id="navsubmenu" class="navsubmenu">
-<div class="navsubmenutop">
-</div>
-<ul class="navsubmenu">		
-<li>
-<a href="/TheFordStandard/Overview">Overview</a></li>		
-<li>
-<a href="/TheFordStandard/Promotions">Promotions</a></li></ul>
-<div class="navsubmenubottom">
-</div>			
-</div>
-</li>
-<li id="menu1204903584104">
+<li id="menu1204903584104" class="">
 <a href="/Cars">Cars</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
+<ul class="navsubmenu">
+<li class="">
+<a href="/Cars/CarPromotions">Car promotions</a>
+</li>
+<li class="">
 <a href="/Cars/Ka">Ka</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -230,7 +240,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/Ka">
-<label>Price from £8,545</label>
+<label>Price from £8,725</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919788623&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919788623&amp;blobkey=id" width="166" height="80" border="0" alt="Ka_thumbnail"></span>
@@ -241,8 +251,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
+</li>
+<li class="">
 <a href="/Cars/Fiesta">Fiesta</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -250,7 +260,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/Fiesta">
-<label>Price from £9,495</label>
+<label>Price from £9,795</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919789989&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919789989&amp;blobkey=id" width="166" height="80" border="0" alt="Fiesta_thumbnail"></span>
@@ -261,8 +271,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
+</li>
+<li class="">
 <a href="/Cars/Fusion">Fusion</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -270,7 +280,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/Fusion">
-<label>Price from £12,305</label>
+<label>Price from £12,310</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919765859&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919765859&amp;blobkey=id" width="166" height="80" border="0" alt="Fusion_thumbnail"></span>
@@ -281,9 +291,12 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
-<a href="/Cars/Focus">All-new Focus</a>
+</li>
+<li class="">
+<a href="/Cars/B-MAX">B-MAX</a>
+</li>
+<li class="">
+<a href="/Cars/Focus">Focus</a>
 <div class="navflyout">
 <div class="navflyouttop">
 </div>
@@ -301,48 +314,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
-<a href="/Cars/Focus2010">Focus</a>
-<div class="navflyout">
-<div class="navflyouttop">
-</div>
-<ul>
-<li>
-<a href="/Cars/Focus2010">
-<label>Price from £15,555</label>
-<span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
-<span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919755352&amp;blobkey=id');">
-<img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919755352&amp;blobkey=id" width="166" height="80" border="0" alt="Focus_thumbnail"></span>
-</span>
-</a>
 </li>
-</ul>
-<div class="navflyoutbottom">
-</div>
-</div>
-</li>		
-<li>
-<a href="/Cars/FocusCoupe-Cabriolet">Focus Coupé-Cabriolet</a>
-<div class="navflyout">
-<div class="navflyouttop">
-</div>
-<ul>
-<li>
-<a href="/Cars/FocusCoupe-Cabriolet">
-<label>Price from £22,420</label>
-<span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
-<span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919762968&amp;blobkey=id');">
-<img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919762968&amp;blobkey=id" width="166" height="80" border="0" alt="Focus Coupé-Cabriolet_thumbnail"></span>
-</span>
-</a>
-</li>
-</ul>
-<div class="navflyoutbottom">
-</div>
-</div>
-</li>		
-<li>
+<li class="">
 <a href="/Cars/C-MAX">C-MAX &amp; Grand C-MAX</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -350,7 +323,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/C-MAX">
-<label>Price from £17,195</label>
+<label>Price from £17,700</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204978240596&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204978240596&amp;blobkey=id" width="166" height="80" border="0" alt="New C-MAX_thumbnail"></span>
@@ -361,8 +334,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
+</li>
+<li class="">
 <a href="/Cars/Kuga">Kuga</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -370,7 +343,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/Kuga">
-<label>Price from £21,645</label>
+<label>Price from £21,900</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919782245&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919782245&amp;blobkey=id" width="166" height="80" border="0" alt="Kuga_thumbnail"></span>
@@ -381,8 +354,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
+</li>
+<li class="">
 <a href="/Cars/Mondeo">Mondeo</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -390,7 +363,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/Mondeo">
-<label>Price from £17,795</label>
+<label>Price from £18,100</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919783497&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919783497&amp;blobkey=id" width="166" height="80" border="0" alt="Mondeo_thumbnail"></span>
@@ -401,8 +374,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
+</li>
+<li class="">
 <a href="/Cars/S-MAX">S-MAX</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -410,7 +383,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/S-MAX">
-<label>Price from £22,295</label>
+<label>Price from £22,600</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919718304&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919718304&amp;blobkey=id" width="166" height="80" border="0" alt="S-MAX_thumbnail"></span>
@@ -421,8 +394,8 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
+</li>
+<li class="">
 <a href="/Cars/Galaxy">Galaxy</a>
 <div class="navflyout">
 <div class="navflyouttop">
@@ -430,7 +403,7 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <ul>
 <li>
 <a href="/Cars/Galaxy">
-<label>Price from £24,645</label>
+<label>Price from £24,955</label>
 <span style="display:block; margin-left: 10px; margin-top: 8px; padding: 0;">
 <span style="position:relative;width:166px;height:80px;display:inline-block;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919763863&amp;blobkey=id');">
 <img style="margin:0;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);" src="/cs/BlobServer?blobtable=Nameplate&amp;blobcol=urlbaseimage&amp;blobwhere=1204919763863&amp;blobkey=id" width="166" height="80" border="0" alt="Galaxy_thumbnail"></span>
@@ -441,319 +414,216 @@ document.getElementById('menu1204983764994').className="navnextSteps";
 <div class="navflyoutbottom">
 </div>
 </div>
-</li>		
-<li>
-<a href="/Cars/Ranger">Ranger</a>
-</li>		
-<li>
-<a href="/Cars/FordDirect">Used vehicles - Ford Direct</a>
-</li>		
-<li>
-<a href="/Cars/FordRental">Ford Rental</a>
-</li>		
-<li>
-<a href="/Cars/Technology">Technology</a>
-</li>		
-<li>
-<a href="/Cars/KineticDesign">Ford kinetic Design</a>
-</li>		
-<li>
+</li>
+<li class="">
+<a href="/Cars/Ranger">All-New Ranger</a>
+</li>
+<li class="">
+<a href="/Cars/Ranger2011">Ranger</a>
+</li>
+<li class="">
 <a href="/Cars/FutureVehicles">Future Vehicles</a>
 </li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
 </li>
-<li id="menu1204903584303">
+<li id="menu1204903584303" class="">
 <a href="/Commercialvehicles">Commercial vehicles</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/Commercialvehicles/FiestaVan">Fiesta Van</a></li>		
-<li>
-<a href="/Commercialvehicles/TransitConnect">Transit Connect</a></li>		
-<li>
-<a href="/Commercialvehicles/TourneoConnect">Tourneo Connect</a></li>		
-<li>
-<a href="/Commercialvehicles/Transit">New Ford Transit</a></li>		
-<li>
-<a href="/Commercialvehicles/TransitChassisCab">Transit Chassis Cab</a></li>		
-<li>
-<a href="/Commercialvehicles/TransitMinibus">Transit Minibus</a></li>		
-<li>
-<a href="/Commercialvehicles/TransitMotorhomesChassis">Transit Motorhomes Chassis</a></li>		
-<li>
-<a href="/Commercialvehicles/Tourneo">Tourneo</a></li>		
-<li>
-<a href="/Commercialvehicles/Ranger">Ranger</a></li>		
-<li>
-<a href="/Commercialvehicles/FordRentalCommercialVehicles">Ford Rental CVs</a></li>		
-<li>
-<a href="/Commercialvehicles/BestPractice">Department for Transport Van Best Practice Programme </a></li>		
-<li>
-<a href="/Commercialvehicles/FutureVehicles">Future Vehicles</a></li>		
-<li>
-<a href="/Commercialvehicles/LEZ">Low Emission Zone</a></li>		
-<li>
+<ul class="navsubmenu">
+<li class="">
+<a href="/Commercialvehicles/CommercialPromotions">Commercial vehicle promotions</a></li>
+<li class="">
+<a href="/Commercialvehicles/FiestaVan">Fiesta Van</a></li>
+<li class="">
+<a href="/Commercialvehicles/TransitConnect">Transit Connect</a></li>
+<li class="">
+<a href="/Commercialvehicles/TourneoConnect">Tourneo Connect</a></li>
+<li class="">
+<a href="/Commercialvehicles/TransitCustom">New Transit Custom</a></li>
+<li class="">
+<a href="/Commercialvehicles/TourneoCustom">New Tourneo Custom</a></li>
+<li class="">
+<a href="/Commercialvehicles/Transit">Ford Transit</a></li>
+<li class="">
+<a href="/Commercialvehicles/TransitChassisCab">Transit Chassis Cab</a></li>
+<li class="">
+<a href="/Commercialvehicles/TransitMotorhomesChassis">Transit Motorhomes Chassis</a></li>
+<li class="">
+<a href="/Commercialvehicles/TransitMinibus">Transit Minibus</a></li>
+<li class="">
+<a href="/Commercialvehicles/Tourneo">Tourneo</a></li>
+<li class="">
+<a href="/Commercialvehicles/Ranger">All-New Ranger</a></li>
+<li class="">
+<a href="/Commercialvehicles/Ranger2011">Ranger</a></li>
+<li class="">
+<a href="/Commercialvehicles/BestPractice">Department for Transport Van Best Practice Programme </a></li>
+<li class="">
 <a href="/Commercialvehicles/eBCN">Backbone Commercial News</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
 </li>
-<li id="menu1204903585346">
+<li id="menu1204907558598" class="">
+<a href="/FordDirect">Used vehicles - Ford Direct</a>
+<div id="navsubmenu" class="navsubmenu">
+<div class="navsubmenutop">
+</div>
+<ul class="navsubmenu">
+<li class="">
+<a href="/FordDirect/Overview">Overview</a></li>
+<li class="">
+<a href="/FordDirect/VehicleLocator">Vehicle Locator</a></li>
+<li class="">
+<a href="/FordDirect/FordDirectFAQs">Ford Direct FAQs</a></li></ul>
+<div class="navsubmenubottom">
+</div>			
+</div>
+</li>
+<li id="menu1204903585346" class="">
 <a href="/FordFleet">Ford Fleet</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/FordFleet/Overview">Overview</a></li>		
-<li>
-<a href="/FordFleet/PriceListsAndOrderGuides">Price lists and order guides</a></li>		
-<li>
-<a href="/FordFleet/DriversSupport">Drivers support</a></li>		
-<li>
-<a href="/FordFleet/SalesSupport">Sales support</a></li>		
-<li>
-<a href="/FordFleet/AftersalesSupport">Aftersales support</a></li>		
-<li>
-<a href="/FordFleet/WholeLifeCosts">Whole Life Costs</a></li>		
-<li>
-<a href="/FordFleet/NewsAndReviews">News and Reviews</a></li>		
-<li>
+<ul class="navsubmenu">
+<li class="">
+<a href="/FordFleet/Overview">Overview</a></li>
+<li class="">
+<a href="/FordFleet/PriceListsAndOrderGuides">Price lists and order guides</a></li>
+<li class="">
+<a href="/FordFleet/DriversSupport">Drivers support</a></li>
+<li class="">
+<a href="/FordFleet/SalesSupport">Sales support</a></li>
+<li class="">
+<a href="/FordFleet/AftersalesSupport">Aftersales support</a></li>
+<li class="">
+<a href="/FordFleet/Finance-for-Business">Finance for Business</a></li>
+<li class="">
+<a href="/FordFleet/WholeLifeCosts">Whole Life Costs</a></li>
+<li class="">
+<a href="/FordFleet/NewsAndReviews">News and Reviews</a></li>
+<li class="">
+<a href="/FordFleet/Budget2012">Budget 2012</a></li>
+<li class="">
 <a href="/FordFleet/GovernmentInitiatives">Government Initiatives</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
 </li>
-<li id="menu1204928048278" class="navnextSteps">
-<a href="/FordDirect">Used vehicles - Ford Direct</a>
-<script>
-document.getElementById('menu1204928048278').className="navnextSteps";
-</script>
-</li>
-<li id="menu1204907556887">
-<a href="/FordInnovation">Ford innovation</a>
+<li id="menu1204903584058" class="">
+<a href="/BuyingandprotectingyourFord">Buying, protecting and insuring your Ford</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/FordInnovation/KineticDesign">Ford kinetic Design</a></li>		
-<li>
-<a href="/FordInnovation/Heritage">Heritage</a></li>		
-<li>
-<a href="/FordInnovation/AwardsAndAccolades">Awards and accolades</a></li>		
-<li>
-<a href="/FordInnovation/Technology">Technology</a></li>		
-<li>
-<a href="/FordInnovation/EcoTechnology">Eco technology</a></li>		
-<li>
-<a href="/FordInnovation/FordECOneticTechnologies">Ford ECOnetic Technologies</a></li>		
-<li>
-<a href="/FordInnovation/Innovation">Innovation</a></li></ul>
+<ul class="navsubmenu">
+<li class="">
+<a href="/BuyingandprotectingyourFord/Promotions">Promotions</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/BuyersGuide">Buyer’s Guide</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/FinancefromFordCredit">Finance from Ford Credit</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/FordInsure">Ford Insure Motor Insurance</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/Warranties">Warranties</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/RoadsideAssistance">Roadside assistance</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/ServiceandMaintenancePlans">Service and maintenance plans</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/FordMobility">Ford Mobility</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/MilitaryandTaxFreeSales">Military and tax free sales</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/GuaranteedAssetProtection">Guaranteed Asset Protection</a></li>
+<li class="">
+<a href="/BuyingandprotectingyourFord/Ford-for-Business">Ford for Business</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
 </li>
-<li id="menu1204903584058">
-<a href="/BuyingandprotectingyourFord">Buying and protecting your Ford</a>
+<li id="menu1204907557470" class="">
+<a href="/FordMotability">Ford Motability</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/BuyingandprotectingyourFord/FinancefromFordCredit">Finance from Ford Credit</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/FordInsure">Ford Insure Motor Insurance</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/Warranties">Warranties</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/RoadsideAssistance">Roadside assistance</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/ServiceandMaintenancePlans">Service and maintenance plans</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/FordMobility">Ford Mobility</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/MilitaryandTaxFreeSales">Military and tax free sales</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/GuaranteedAssetProtection">Guaranteed Asset Protection</a></li>		
-<li>
-<a href="/BuyingandprotectingyourFord/BuyersGuide">Buyer’s Guide</a></li></ul>
+<ul class="navsubmenu">
+<li class="">
+<a href="/FordMotability/Overview">Overview</a></li>
+<li class="">
+<a href="/FordMotability/Motability-Offers">Ford Motability Range &amp; Offers</a></li>
+<li class="">
+<a href="/FordMotability/FordMotabilityPricing">Ford Motability pricing</a></li>
+<li class="">
+<a href="/FordMotability/VehicleAdaptationsandAssessmentCentres">Vehicle Adaptations and Assessment Centres</a></li>
+<li class="">
+<a href="/FordMotability/TheMotabilityCharity">Motability Schemes</a></li>
+<li class="">
+<a href="/FordMotability/FordMotabilityFAQs">Ford Motability FAQs</a></li>
+<li class="">
+<a href="/FordMotability/ContactFordMotability">Contact Ford Motability</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
 </li>
-<li id="menu1204953372482">
-<a href="/FordLease">Ford Lease</a>
-<div id="navsubmenu" class="navsubmenu">
-<div class="navsubmenutop">
-</div>
-<ul class="navsubmenu">		
-<li>
-<a href="/FordLease/Overview">Overview</a></li>		
-<li>
-<a href="/FordLease/AboutFordLease">About Ford Lease</a></li>		
-<li>
-<a href="/FordLease/Brochures">Brochures</a></li>		
-<li>
-<a href="/FordLease/Promotions">Promotions</a></li></ul>
-<div class="navsubmenubottom">
-</div>			
-</div>
-</li>
-<li id="menu1204930477217">
-<a href="/CurrentPromo">Promotions</a>
-<div id="navsubmenu" class="navsubmenu">
-<div class="navsubmenutop">
-</div>
-<ul class="navsubmenu">		
-<li>
-<a href="/CurrentPromo/Overview">Overview</a></li>		
-<li>
-<a href="/CurrentPromo/CarPromotions">Car promotions</a></li>		
-<li>
-<a href="/CurrentPromo/CommercialPromotions">Commercial vehicle promotions</a></li>		
-<li>
-<a href="/CurrentPromo/MobilityPromotions">Ford Mobility Best Buys</a></li>		
-<li>
-<a href="/CurrentPromo/FordLeasePromotions">Ford Lease contract hire promotions</a></li>		
-<li>
-<a href="/CurrentPromo/SmallFleetPromotions">Small Fleet Promotions</a></li>		
-<li>
-<a href="/CurrentPromo/AccessoriesPromotions">Accessories promotions </a></li>		
-<li>
-<a href="/CurrentPromo/ServicePromotions">Service Promotions</a></li>		
-<li>
-<a href="/CurrentPromo/Insurancepromotions">Insurance promotions</a></li></ul>
-<div class="navsubmenubottom">
-</div>			
-</div>
-</li>
-<li id="menu1204907557470">
-<a href="/FordMobility">Ford Mobility</a>
-<div id="navsubmenu" class="navsubmenu">
-<div class="navsubmenutop">
-</div>
-<ul class="navsubmenu">		
-<li>
-<a href="/FordMobility/Overview">Overview</a></li>		
-<li>
-<a href="/FordMobility/FordMobilityRange">Ford Mobility range</a></li>		
-<li>
-<a href="/FordMobility/FordMobilityPricing">Ford Mobility pricing</a></li>		
-<li>
-<a href="/FordMobility/VehicleAdaptationsandAssessmentCentres">Vehicle Adaptations and Assessment Centres</a></li>		
-<li>
-<a href="/FordMobility/TheMotabilityCharity">Motability Schemes</a></li>		
-<li>
-<a href="/FordMobility/FordMobilityAmbassadors">Ford Mobility Ambassadors</a></li>		
-<li>
-<a href="/FordMobility/FordMobilityFAQs">Ford Mobility FAQs</a></li>		
-<li>
-<a href="/FordMobility/FordMobilityBestBuys">Ford Mobility Best Buys</a></li>		
-<li>
-<a href="/FordMobility/MobilityPrizeDraw">Ford Mobility Prize Draw</a></li>		
-<li>
-<a href="/FordMobility/ContactFordMobility">Contact Ford Mobility</a></li></ul>
-<div class="navsubmenubottom">
-</div>			
-</div>
-</li>
-<li id="menu1204903584709">
+<li id="menu1204903584709" class="">
 <a href="/OwnerServices">Owner services</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/OwnerServices/Overview">Overview</a></li>		
-<li>
-<a href="/OwnerServices/FinanceandProtectionforOwners">Finance and protection for owners</a></li>		
-<li>
-<a href="/OwnerServices/VehicleServiceandRepair">Vehicle service and repair</a></li>		
-<li>
-<a href="/OwnerServices/FordAccessories">Ford Accessories</a></li>		
-<li>
-<a href="/OwnerServices/FuelEconomyandEnvironmentalProtection1">Fuel economy and environmental protection</a></li>		
-<li>
-<a href="/OwnerServices/OlderFordVehicles">Older Ford vehicles</a></li>		
-<li>
-<a href="/OwnerServices/NewBuyers">New Buyers</a></li>		
-<li>
-<a href="/OwnerServices/SafetyRecalls">Safety Recalls</a></li>		
-<li>
-<a href="/OwnerServices/FordEconoCheck">Ford Econo Check</a></li>		
-<li>
-<a href="/OwnerServices/AccidentManagement">Ford Accident Management</a></li>		
-<li>
-<a href="/OwnerServices/LifestyleCollection">Ford Lifestyle Collection</a></li></ul>
+<ul class="navsubmenu">
+<li class="">
+<a href="/OwnerServices/Overview">Overview</a></li>
+<li class="">
+<a href="/OwnerServices/Promotions">Promotions</a></li>
+<li class="">
+<a href="/OwnerServices/FinanceandProtectionforOwners">Finance and protection for owners</a></li>
+<li class="">
+<a href="/OwnerServices/VehicleServiceandRepair">Vehicle service and repair</a></li>
+<li class="">
+<a href="/OwnerServices/FordAccessories">Ford Accessories</a></li>
+<li class="">
+<a href="/OwnerServices/FuelEconomyandEnvironmentalProtection">Fuel economy and environmental protection</a></li>
+<li class="">
+<a href="/OwnerServices/OlderFordVehicles">Older Ford vehicles</a></li>
+<li class="">
+<a href="/OwnerServices/NewBuyers">New Buyers</a></li>
+<li class="">
+<a href="/OwnerServices/SafetyRecalls">Safety Recalls</a></li>
+<li class="">
+<a href="/OwnerServices/AccidentManagement">Ford Accident Management</a></li>
+<li class="">
+<a href="/OwnerServices/LifestyleCollection">Ford Lifestyle Collection</a></li>
+<li class="">
+<a href="/OwnerServices/Owner-Manuals">Owner's Manuals</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
 </li>
-<li id="menu1204976413533" class="navnextSteps">
-<a href="/FordECOneticTechnology">Ford ECOnetic Technology</a>
-<script>
-document.getElementById('menu1204976413533').className="navnextSteps";
-</script>
-</li>
-<li id="menu1204903585417">
-<a href="/AboutFord">About Ford</a>
+<li id="menu1205003984681" class="">
+<a href="/experience-ford">Experience Ford</a>
 <div id="navsubmenu" class="navsubmenu">
 <div class="navsubmenutop">
 </div>
-<ul class="navsubmenu">		
-<li>
-<a href="/AboutFord/CompanyInformation">Company information</a></li>		
-<li>
-<a href="/AboutFord/CorporateSocialResponsibility">Corporate Social Responsibility</a></li>		
-<li>
-<a href="/AboutFord/Shareholders">Shareholders</a></li>		
-<li>
-<a href="/AboutFord/Sustainability">Sustainability</a></li>		
-<li>
-<a href="/AboutFord/News">News</a></li>		
-<li>
-<a href="/AboutFord/FordCareers">Ford Careers</a></li>		
-<li>
-<a href="/AboutFord/DealerAgreementApplications">Dealer Agreement applications</a></li>		
-<li>
-<a href="/AboutFord/top-100-ethical-companies">Top 100 Ethical Companies</a></li>		
-<li>
-<a href="/AboutFord/IndependentOperators">Independent operators</a></li>		
-<li>
-<a href="/AboutFord/Fordcomponentsales">Ford Component Sales</a></li></ul>
-<div class="navsubmenubottom">
-</div>			
-</div>
-</li>
-<li id="menu1204903584691">
-<a href="/Sports-and-Activities">Sports and activities</a>
-<div id="navsubmenu" class="navsubmenu">
-<div class="navsubmenutop">
-</div>
-<ul class="navsubmenu">		
-<li>
-<a href="/Sports-and-Activities/Overview">Overview</a></li>		
-<li>
-<a href="/Sports-and-Activities/UEFAChampionsLeague">Ford and UEFA Champions League</a></li>		
-<li>
-<a href="/Sports-and-Activities/FordandOtherSports">Ford and other sports</a></li>		
-<li>
-<a href="/Sports-and-Activities/CharityActivities">Charity activities</a></li>		
-<li>
-<a href="/Sports-and-Activities/Sponsorships">Sponsorships</a></li>		
-<li>
-<a href="/Sports-and-Activities/FordEvents">Ford Events</a></li>		
-<li>
-<a href="/Sports-and-Activities/FordMotorsport2011">Ford Motorsport</a></li>		
-<li>
-<a href="/Sports-and-Activities/Motor-Shows">Motor shows</a></li>		
-<li>
-<a href="/Sports-and-Activities/FordCentenaryTour">Ford Centenary Tour</a></li></ul>
+<ul class="navsubmenu">
+<li class="">
+<a href="/experience-ford/AboutFord">About Ford</a></li>
+<li class="">
+<a href="/experience-ford/Heritage">Heritage</a></li>
+<li class="">
+<a href="/experience-ford/FordInnovation">Ford innovation</a></li>
+<li class="">
+<a href="/experience-ford/Technology">Technology</a></li>
+<li class="">
+<a href="/experience-ford/KineticDesign">Ford kinetic Design</a></li>
+<li class="">
+<a href="/experience-ford/AwardsAndAccolades">Awards and accolades</a></li>
+<li class="">
+<a href="/experience-ford/Sports-and-Activities">Sports and activities</a></li></ul>
 <div class="navsubmenubottom">
 </div>			
 </div>
@@ -813,10 +683,10 @@ document.frmSiteSearchBox.s.focus();
 </span>
 <div class="DlBody">
 <div class="DlMap">
-<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214347137330&amp;blobkey=id" rendermode="live" alt="United Kingdom">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214347137330&amp;blobkey=id" alt="United Kingdom">
 </div>
 <form action="/cs/ContentServer" method="get" name="sbedlform" id="satellite:form_SBEsearchBOX">
-<input type="hidden" name="pagename" value="UKEN_ENGInE/LayoutDL">
+<input type="hidden" name="pagename" value="UKEN_ENGInE/LayoutDL_Bing">
 <input type="hidden" name="site" value="UKEN_ENGInE">
 <input type="hidden" name="c" value="Page">
 <input type="hidden" name="cid" value="1204903584770">
@@ -826,7 +696,7 @@ document.frmSiteSearchBox.s.focus();
 <input type="hidden" name="marketlang" value="UK_EN">
 <input class="searchSubmit" type="submit" value="">
 </form>
-<a href="/cs/ContentServer?cid=1204903585012&amp;pagename=UKEN_ENGInE%2FLayoutDL&amp;brand=FF&amp;addresssearchstring=Enter+town+or+postcode&amp;c=Page&amp;marketlang=UK_EN&amp;site=UKEN_ENGInE" id="sbeAdlLink">
+<a href="/cs/ContentServer?cid=1204903585012&amp;pagename=UKEN_ENGInE%2FLayoutDL_Bing&amp;brand=FF&amp;addresssearchstring=Enter+town+or+postcode&amp;c=Page&amp;marketlang=UK_EN&amp;site=UKEN_ENGInE" id="sbeAdlLink">
 Advanced Dealer Locator
 </a>
 </div>
@@ -901,43 +771,31 @@ window.addEvent('domready', engine.sbe.init.bind(engine.sbe) );
 </div>	        
 </li>
 <li class="SbeLinkCategory_SBEB">
-<a href="/SBE/BrochureRequest/p=1204903585276" class="SbeWithSubmenu" title="Request a brochure" onclick="return false">
+<a href="/SBE/BrochureRequest/p=1204903585276" class="SbeWithSubmenu" title="Brochures" onclick="return false">
 <span class="SbeIcon"></span>
-<span class="SbeDescription">Request a brochure</span>
+<span class="SbeDescription">Brochures</span>
 </a>
 <div class="SbeSubmenu">
 <div class="SbeSubmenuTop"></div>
 <ul class="SbeLinksSubmenuBody">
 <li class="SbeLinkCategory_SBEB" style="background: no-repeat">
 <a href="/SBE/BrochureRequest/BrochureRequestCar/p=1204903585276">
-<span class="SbeDescription">Car</span>
+<span class="SbeDescription">Request a Car brochure</span>
 </a>
 </li>							
 <li class="SbeLinkCategory_SBEB" style="background: no-repeat">
 <a href="/SBE/BrochureRequest/BrochureRequestVan/p=1204903585276">
-<span class="SbeDescription">Van</span>
-</a>
-</li>							
-<div class="SbeSubmenuBottom">&nbsp;</div>
-</ul>
-</div>	        
-</li>
-<li class="SbeLinkCategory_SBEB">
-<a href="/SBE/DownloadeBrochure/p=1204903585276" class="SbeWithSubmenu" title="Download eBrochure" onclick="return false">
-<span class="SbeIcon"></span>
-<span class="SbeDescription">Download eBrochure</span>
-</a>
-<div class="SbeSubmenu">
-<div class="SbeSubmenuTop"></div>
-<ul class="SbeLinksSubmenuBody">
-<li class="SbeLinkCategory_01St" style="background: no-repeat">
-<a href="/SBE/DownloadeBrochure/Car/p=1204903585276">
-<span class="SbeDescription">Car</span>
+<span class="SbeDescription">Request a Van brochure</span>
 </a>
 </li>							
 <li class="SbeLinkCategory_01St" style="background: no-repeat">
-<a href="/SBE/DownloadeBrochure/Van/p=1204903585276">
-<span class="SbeDescription">Van</span>
+<a href="/SBE/BrochureRequest/View-a-Car-iBrochure/p=1204903585276">
+<span class="SbeDescription">View a Car iBrochure</span>
+</a>
+</li>							
+<li class="SbeLinkCategory_01St" style="background: no-repeat">
+<a href="/SBE/BrochureRequest/View-a-Van-iBrochure/p=1204903585276">
+<span class="SbeDescription">View a Van iBrochure</span>
 </a>
 </li>							
 <div class="SbeSubmenuBottom">&nbsp;</div>
@@ -1009,13 +867,13 @@ engine.navigation.init(ul, null, 'SbeAnchor', '');
 <div>Our mobile services provider is required to be able to provide historic information data to local telecommunications regulators, mobile operators and authorities on request. This includes opt-in, opt-out, inbound message and outbound message, date and time, mobile phone number and network operator. This data is not available to Ford or its consumers. For further information and contact details please log onto the following sites;</div>
 <div>&nbsp;</div>
 <div>For more information about OFCOM view the link below. </div>
-<div><a target="_blank" href="http://www.ofcom.org.uk/">View the OFCOM site </a></div>
+<div><a href="http://www.ofcom.org.uk/" target="_blank">View the OFCOM site </a></div>
 <div>&nbsp;</div>
 <div>For more information about PhonePay Plus view the link below. </div>
-<div><a target="_blank" href="http://www.phonepayplus.org.uk/">View the PhonePay Plus site </a></div>
+<div><a href="http://www.phonepayplus.org.uk/" target="_blank">View the PhonePay Plus site </a></div>
 <div>&nbsp;</div>
 <div>Our mobile services provider also complies with the standards and rules set out by the Global Mobile Marketing Association (MMA), view the link below.</div>
-<div><a target="_blank" href="http://www.mmaglobal.com/main">View the Global Mobile Marketing Association site </a></div>
+<div><a href="http://www.mmaglobal.com/main" target="_blank">View the Global Mobile Marketing Association site </a></div>
 <div>&nbsp;</div>
 <div><strong>Contact Us&nbsp;</strong></div>
 <div>You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However we may be prevented from doing so by legislation, for example relating to health and safety or financial regulation (e.g. when dealing with Ford Credit). </div>
@@ -1035,11 +893,12 @@ engine.navigation.init(ul, null, 'SbeAnchor', '');
 <br>
 <br>
 <div><strong><font size="2">Cookies</font></strong></div>
-<div><strong>&nbsp;</strong></div>
+<div><a href="/Footer/CookieGuide" contenteditable="false">View our Cookie Guide</a></div>
+<!--
 <div><strong>What is a Cookie?&nbsp;</strong></div>
 <div>A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. Cookies can help a website to arrange content to match your preferred interests more quickly - most major websites use cookies. Cookies alone cannot be used to identify you.</div>
 <div>&nbsp;</div>
-<div>A cookie will typically contain the name of the domain from which the cookie has come; the "lifetime" of the cookie; and a value, usually a randomly generated unique number. </div>
+<div>A cookie will typically contain the name of the domain from which the cookie has come; the &quot;lifetime&quot; of the cookie; and a value, usually a randomly generated unique number. </div>
 <div>&nbsp;</div>
 <div>Two types of cookies are used on this website:</div>
 <ul type="disc">
@@ -1080,13 +939,13 @@ engine.navigation.init(ul, null, 'SbeAnchor', '');
 <div>&nbsp;</div>
 <div>Open 'Windows Explorer' <br>
 Click on the 'Search' button on the tool bar <br>
-Type ‘cookie’ into the search box for 'Folders and Files' <br>
+Type &lsquo;cookie&rsquo; into the search box for 'Folders and Files' <br>
 Select 'My Computer' in the 'Look In' box <br>
 Click 'Search Now' <br>
 Double click on the folders that are found <br>
 'Select' any cookie file <br>
 Hit the 'Delete' button on your keyboard <br>
-If you are not using Microsoft Windows Explorer, then you should select ‘cookies’ in the ‘Help’ function for information on where to find your cookie folder. <br>
+If you are not using Microsoft Windows Explorer, then you should select &lsquo;cookies&rsquo; in the &lsquo;Help&rsquo; function for information on where to find your cookie folder. <br>
 <br>
 <strong>Disabling and enabling cookies</strong> <br>
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Should you wish to be alerted before a cookie is accepted on your hard disk, guideline instructions follow below: <br>
@@ -1103,42 +962,43 @@ Once you delete these files, you will have no more cookies and your browser will
 <br>
 <strong>In Internet Explorer 7.0</strong>: <br>
 Exit Internet Explorer 7, and then exit any instances of Microsoft Windows Explorer <br>
-Click ‘Start’, click ‘Run’, type ‘inetcpl.cpl’, and then press ENTER <br>
-On the General tab, click ‘Delete’ under Browsing History in the Internet Properties dialog box <br>
-In the Delete Browsing History dialog box, click ‘Delete Cookies’ <br>
-In the Delete Cookies dialog box, click ‘Yes’. <br>
+Click &lsquo;Start&rsquo;, click &lsquo;Run&rsquo;, type &lsquo;inetcpl.cpl&rsquo;, and then press ENTER <br>
+On the General tab, click &lsquo;Delete&rsquo; under Browsing History in the Internet Properties dialog box <br>
+In the Delete Browsing History dialog box, click &lsquo;Delete Cookies&rsquo; <br>
+In the Delete Cookies dialog box, click &lsquo;Yes&rsquo;. <br>
 <br>
 <strong>In Internet Explorer 8.0</strong>: <br>
-Click ‘Safety’ on the Command bar <br>
-Select ‘Delete Browsing History’ <br>
-Select the option for cookies and click ‘Delete’ <br>
+Click &lsquo;Safety&rsquo; on the Command bar <br>
+Select &lsquo;Delete Browsing History&rsquo; <br>
+Select the option for cookies and click &lsquo;Delete&rsquo; <br>
 Alternatively, Internet Explorer 8's new InPrivate browsing feature allows users to browse the internet without recording information from visited sites (including cookies). To use InPrivate mode: <br>
-Click ‘Safety’ on the Command bar <br>
-Select ‘InPrivate Browsing’ <br>
+Click &lsquo;Safety&rsquo; on the Command bar <br>
+Select &lsquo;InPrivate Browsing&rsquo; <br>
 <br>
 If you have an older version of Internet Explorer that is not listed here, please visit the Microsoft website to upgrade to a newer version. <br>
 <br>
 <strong>In Mozilla Firefox</strong>: <br>
-Click on ‘Tools’, then ‘Options’ (or ‘Edit | Preferences’ on Linux) <br>
-Select ‘Privacy’ <br>
-In the Cookies panel, click on ‘Show Cookies’ <br>
-To remove a single cookie click on the entry in the list and click on the ‘Remove Cookie’ button <br>
-To remove all cookies click on the ‘Remove All Cookies’ button. <br>
+Click on &lsquo;Tools&rsquo;, then &lsquo;Options&rsquo; (or &lsquo;Edit | Preferences&rsquo; on Linux) <br>
+Select &lsquo;Privacy&rsquo; <br>
+In the Cookies panel, click on &lsquo;Show Cookies&rsquo; <br>
+To remove a single cookie click on the entry in the list and click on the &lsquo;Remove Cookie&rsquo; button <br>
+To remove all cookies click on the &lsquo;Remove All Cookies&rsquo; button. <br>
 <br>
 <strong>In Google Chrome</strong>: <br>
-Click on the ‘Tools’ menu and select ‘Options’ <br>
-Click the ‘Under the Hood’ tab and locate the ‘Security’ section <br>
-In the ‘Cookie settings’ section, click the ‘Show cookies’ button <br>
-Select ‘Remove all’ to delete all cookies from the list (alternatively, you can remove all cookies created within a specific time period by selecting the ‘Clear browsing data’ option in the Tools menu) <br>
-To delete a specific cookie, simply select the website that set the cookie from the list and click on ‘Remove’ <br>
+Click on the &lsquo;Tools&rsquo; menu and select &lsquo;Options&rsquo; <br>
+Click the &lsquo;Under the Hood&rsquo; tab and locate the &lsquo;Security&rsquo; section <br>
+In the &lsquo;Cookie settings&rsquo; section, click the &lsquo;Show cookies&rsquo; button <br>
+Select &lsquo;Remove all&rsquo; to delete all cookies from the list (alternatively, you can remove all cookies created within a specific time period by selecting the &lsquo;Clear browsing data&rsquo; option in the Tools menu) <br>
+To delete a specific cookie, simply select the website that set the cookie from the list and click on &lsquo;Remove&rsquo; <br>
 Click on the Close button when you've finished. <br>
 <br>
 <strong>In Safari</strong>: <br>
-Choose ‘Preferences’ from Safari menu <br>
-Select ‘Security’ icon <br>
-Press ‘Show Cookies’ button <br>
+Choose &lsquo;Preferences&rsquo; from Safari menu <br>
+Select &lsquo;Security&rsquo; icon <br>
+Press &lsquo;Show Cookies&rsquo; button <br>
 Select the Cookies to be deleted from the list <br>
-Press Delete button. </div>		
+Press Delete button. </div>
+--> <br>		
 </div>
 </div>
 </div>                       
@@ -1149,7 +1009,7 @@ Press Delete button. </div>
 <div class="center_item">
 </div>
 <div class="center_item">
-</div>                          
+</div>      
 <div id="center_btt">
 </div>
 <!-- TD 8042 - AddThis Social Book Marking tool display Starts--> 
@@ -1158,11 +1018,11 @@ Press Delete button. </div>
 <!-- AddThis Button BEGIN -->
 <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
 <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=engineps">
-<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214402013198&amp;blobkey=id" style="float:left" border="0" alt="Bookmark &amp; Share" title="Bookmark &amp; Share" height="81" width="560">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214402013198&amp;blobkey=id" border="0" alt="Bookmark &amp; Share" title="Bookmark &amp; Share" height="81" width="560">
 </a>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?username=engineps"></script>
 <script type="text/javascript"> 
-var addthis_config = {ui_language:'en',services_compact:'facebook,twitter,print,stumbleupon,google,myspace,digg,delicious,reddit,linkedin',services_exclude:'hotmail,gmail,email,aolmail,yahoomail,email',ui_hover_direction:'1'};
+var addthis_config = {ui_language:'en',services_compact:'facebook,twitter,print,stumbleupon,google,myspace,digg,delicious,reddit,linkedin,Pinterest',services_exclude:'hotmail,gmail,email,aolmail,yahoomail,email',ui_hover_direction:'1'};
 var addthis_localize = {share_caption:'Share',favorites:'Favorites',print:'Print',more:'More'}; 
 </script>
 <!-- AddThis Button END -->
@@ -1186,24 +1046,169 @@ var addthis_localize = {share_caption:'Share',favorites:'Favorites',print:'Print
 <div id="container_footer">
 <!--<START_FT001 >--> 
 <div id="footercontainerwhite">
-<div class="spacer10high"></div>
+<!-- Carline Footer -->
+<!-- <Start> -->
+<div id="carline_footer">
+<div class="carlinerow">
+<div class="spacer14high"></div>
+<script type="text/javascript">
+window.addEvent('domready', function() {
+var listDiv = document.id('listContainer');
+var size = listDiv.getSize();
+var setListDiv = $$('.carlinecol, .carlinecol_start');
+setListDiv.setStyle('height', size.y); 
+});
+</script>
+<div id="listContainer">
+<div class="carlinecol_start">
+<div class="centered">
+<a href="">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214419586729&amp;blobkey=id" border="0" alt=" " title=" " height="1" width="1">
+</a>
+</div>
+</div>	
+<div class="carlinecol">
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars" class="carlineLink" style="font-weight:bold;text-decoration:none;text-transform:uppercase;">Cars</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Ka" class="carlineLink" style="text-decoration:none;">Ka</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Fiesta/Overview" class="carlineLink" style="text-decoration:none;">Fiesta</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Fusion" class="carlineLink" style="text-decoration:none;">Fusion</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Focus" class="carlineLink" style="text-decoration:none;">Focus</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/C-MAX" class="carlineLink" style="text-decoration:none;">C-MAX</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Mondeo" class="carlineLink" style="text-decoration:none;">Mondeo</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Kuga" class="carlineLink" style="text-decoration:none;">Kuga</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/S-MAX" class="carlineLink" style="text-decoration:none;">S-MAX</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/Galaxy" class="carlineLink" style="text-decoration:none;">Galaxy</a></div>
+</div>
+</div>	
+<div class="carlinecol">
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles" class="carlineLink" style="font-weight:bold;text-decoration:none;text-transform:uppercase;">Commercial Vehicles</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/FiestaVan" class="carlineLink" style="text-decoration:none;">Fiesta Van</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TransitConnect" class="carlineLink" style="text-decoration:none;">Transit Connect</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/Transit" class="carlineLink" style="text-decoration:none;">Transit Van</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TransitCustom" class="carlineLink" style="text-decoration:none;">Transit Custom</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TourneoConnect" class="carlineLink" style="text-decoration:none;">Tourneo Connect</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TransitChassisCab" class="carlineLink" style="text-decoration:none;">Transit Chassis Cab</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TransitMinibus" class="carlineLink" style="text-decoration:none;">Transit Minibus</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TransitMotorhomesChassis" class="carlineLink" style="text-decoration:none;">Transit Motorhomes Chassis</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/Tourneo" class="carlineLink" style="text-decoration:none;">Tourneo</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/TourneoCustom" class="carlineLink" style="text-decoration:none;">Tourneo Custom</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/Ranger" class="carlineLink" style="text-decoration:none;">Ranger</a></div>
+</div>
+</div>	
+<div class="carlinecol">
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/" class="carlineLink" style="font-weight:bold;text-decoration:none;text-transform:uppercase;">Home</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Cars/CarPromotions/Overview" class="carlineLink" style="text-decoration:none;">Car Promotions</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Commercialvehicles/CommercialPromotions/Overview" class="carlineLink" style="text-decoration:none;">CV Promotions</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Footer/ContactUs" class="carlineLink" style="text-decoration:none;">Contact Us</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/experience-ford/AboutFord/FordCareers" class="carlineLink" style="text-decoration:none;">Careers</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/experience-ford/AboutFord/Scholarships" class="carlineLink" style="text-decoration:none;">Scholarships</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineLink_placeholder"><a href="/Hidden/Mobile" class="carlineLink" style="text-decoration:none;">Mobile Version</a></div>
+</div>
+</div>	
+<div class="carlinecol_end">				
+<div class="carlineLinkGroup"><div class="carlineLink_placeholder" style="font-weight:bold;text-decoration:none;text-transform:uppercase;"><strong> </strong></div></div>
+<div class="carlineLinkGroup">
+<div class="carlineIcon">
+<a href="http://www.facebook.com/forduk" target="_blank">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214415290839&amp;blobkey=id" border="0" alt="Facebook" title="Facebook" height="16" width="16">
+</a>
+</div>
+<div class="carlineLink"><a href="http://www.facebook.com/forduk" class="carlineLink" target="_blank" style="text-decoration:none;">Facebook</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineIcon">
+<a href="http://twitter.com/#!/forduk" target="_blank">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214415290854&amp;blobkey=id" border="0" alt="Twitter" title="Twitter" height="16" width="16">
+</a>
+</div>
+<div class="carlineLink"><a href="http://twitter.com/#!/forduk" class="carlineLink" target="_blank" style="text-decoration:none;">Twitter</a></div>
+</div>
+<div class="carlineLinkGroup">
+<div class="carlineIcon">
+<a href="http://www.youtube.com/forduktv" target="_blank">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214419771186&amp;blobkey=id" border="0" alt="Youtube Logo" title="Youtube Logo" height="16" width="16">
+</a>
+</div>
+<div class="carlineLink"><a href="http://www.youtube.com/forduktv" class="carlineLink" target="_blank" style="text-decoration:none;">YouTube</a></div>
+</div>
+</div>	
+</div>
+</div>
+</div>
+<!-- <End> -->
+<div class="spacer14high"></div>
 <div id="footercontainerleft">
-<div id="footerwhiteleft">
-<a href="/" class="footerwhiteleft">Home</a>
-<a href="/Footer/ContactUs" class="footerwhiteleft">Contact Us</a>
-<a href="/Footer/FAQs" class="footerwhiteleft">FAQs</a>
-<a href="/Footer/Careers" class="footerwhiteleft">Careers</a>
-<a href="/Footer/TermsAndConditions" class="footerwhiteleft">Terms and Conditions</a>
+<div id="footerblackleft">
+<a href="/" class="footerblackleft">Home</a>
+<a href="/Footer/ContactUs" class="footerblackleft">Contact Us</a>
+<a href="/Footer/PrivacyPolicy" class="footerblackleft">Privacy Policy</a>
+<a href="/Footer/Accessibility" class="footerblackleft">Accessibility</a>
 </div>
 </div>
 <div id="footercontainerright">
-<div id="footerwhiteright">
-© 2011, Ford Motor Company
-<a href="/Footer/PrivacyPolicy" class="footerwhiteright">Privacy Policy</a>
-<a href="/Footer/Accessibility" class="footerwhiteright">Accessibility</a>
-<a href="/Footer/SiteMap" class="footerwhiteright">Site Map</a>
+<div id="footerblackright">
+© 2012, Ford Motor Company
+<a href="/Footer/TermsAndConditions" class="footerblackright">Terms and Conditions</a>
+<a href="/Footer/FAQs" class="footerblackright">FAQs</a>
+<a href="/Footer/SiteMap" class="footerblackright">Site Map</a>
+<a href="/Footer/CookieGuide" class="footerblackright">Cookie Guide</a>
 </div>
-</div>			
+</div>
 <div class="spacer10high"></div>
 </div>
 <!--<END_FT001 >-->
