@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611032913id_/http%3A//www.smscountry.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & Anti - Spam policy to send SMS through SMScountry
 
@@ -40,16 +40,16 @@ You hereby acknowledge that the acceptance of this privacy policy is a condition
 
 Apart from bulk Push of SMS's (sending SMS), our platform also allows you to Pull SMS (receive SMS) 
 
-[_more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/two-way-sms.asp)
+[_more >>_](https://web.archive.org/web/20120611032913id_/http%3A//www.smscountry.com/two-way-sms.asp)
 
 With this application you can easily send SMS to multiple recipients from your mail account, to any mobile phone across the globe. 
 
-[_more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/Email2SMS.aspx)
+[_more >>_](https://web.archive.org/web/20120611032913id_/http%3A//www.smscountry.com/Email2SMS.aspx)
 
 Mobile2Many feature enables you to send SMS to your Phonebook contacts without the need to visit our website. 
 
-[_more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/hand-2-many.aspx)
+[_more >>_](https://web.archive.org/web/20120611032913id_/http%3A//www.smscountry.com/hand-2-many.aspx)
 
 Get free from the job of remembering each and every occasion, It will be our job to remind you through SMS about anything at any date and at any time you want.
 
-[ _more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/remainder-sms.aspx)
+[ _more >>_](https://web.archive.org/web/20120611032913id_/http%3A//www.smscountry.com/remainder-sms.aspx)
