@@ -1,45 +1,88 @@
-<!--The following is the downloaded HTML source of the taylorswift.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231021940id_/http%3A//www.taylorswift.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taylorswift.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611104535id_/http%3A//taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class="js multiplebgs cssanimations csstransitions desktop" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 		<meta name="title" content="Taylor Swift Official Website | TaylorSwift.com">
 		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 		<meta name="description" content="The Official Website for recording artist Taylor Swift. Features tour dates, Taylor's blog, fan forums, online store and more!">
 		<meta name="keywords" content="taylor, swift, pop, music, country, t-shirts, tees, posters, lyrics, tour dates, tour, photos, videos, forums">
 		<meta name="author" content="ground(ctrl)">
 		<meta name="robots" content="index, follow">
+		
 				
-						<link href="/clients/taylor_swift_new/img/favicon.ico" rel="shortcut icon">
+						<link rel="shortcut icon" href="/clients/taylor_swift/img/favicon.ico">
 				
-						
-				<title>Home : Taylor Swift Official Website : TaylorSwift.com</title>
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		
+				<title>Home : Taylor Swift</title>
 
 				<!--[if !IE 6]><!-->
 		<link href="/themes/master/css/master.css" media="screen" rel="stylesheet" type="text/css">
-				<link href="/clients/taylor_swift_new/css/client.css" media="screen" rel="stylesheet" type="text/css">
+				<link href="/clients/taylor_swift/css/client.css" media="screen" rel="stylesheet" type="text/css">
 						<!--<![endif]-->
 					<!--[if IE 6]><link href="/themes/master/css/client_IE6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 		
 		
 				
-				<script src="/engine/js/jquery/jquery-1.4.2.js" type="text/javascript"></script>
+				<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script>window.jQuery || document.write('<script src="/engine/js/jquery/jquery-1.7.1.min.js" type="text/javascript"><\/script>')</script><script src="/engine/js/jquery/jquery-1.7.1.min.js" type="text/javascript"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+		<script>window.jQuery.ui || document.write('<script src="/engine/js/jquery/jquery-ui-1.8.16.min.js" type="text/javascript"><\/script>')</script><script src="/engine/js/jquery/jquery-ui-1.8.16.min.js" type="text/javascript"></script>
+		
+		
 		<script src="/engine/js/jquery/plugins/fancybox/jquery.fancybox-1.3.1.js" type="text/javascript"></script>
 		<script src="/engine/js/jquery/plugins/jquery.json.js" type="text/javascript"></script>
 		<script src="/engine/js/jquery/plugins/jquery.cookie.js" type="text/javascript"></script>
 		<script src="/engine/js/swfobject/swfobject-2.2.js" type="text/javascript"></script>
-		<script src="/engine/js/GC.js" type="text/javascript"></script>
-		<script src="/engine/js/jquery/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>		
-				<script src="/clients/taylor_swift_new/js/client.js" type="text/javascript"></script>
-<meta property="description" content="The Official Website for recording artist Taylor Swift. Features tour dates, Taylor's blog, fan forums, online store and more!">
-<meta property="keywords" content="taylor, swift, pop, music, country, t-shirts, tees, posters, lyrics, tour dates, tour, photos, videos, forums">
+		<script src="/themes/master/js/master.js" type="text/javascript"></script>
+				
+				<meta name="google-site-verification" content="5cIEdWLsSUwUrc9Jm76JAdPL5aTC1eDcYFuZmLTnhUw">
+
+<link rel="stylesheet" type="text/css" href="/clients/taylor_swift/css/interiors.css">
+
+<!-- <script src="/clients/taylor_swift/js/client.js" type="text/javascript"></script> -->
+<script src="/clients/taylor_swift/js/plugins.min.js" type="text/javascript"></script>
+<script src="/clients/taylor_swift/js/global.js" type="text/javascript"></script>
+<script src="/clients/taylor_swift/js/interiors.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" charset="utf-8">
+
+$(function(){
+
+	// Always Load Global
+	TS.global.init();
+
+	// Check To See if we nede to load anything based on server response
+	$('html').ajaxSuccess(function(event, XMLHttpRequest, ajaxOptions) {
+        if (ajaxOptions.url.indexOf('/ajax/home') !== -1) {
+			// Server Has Returned Homepage
+			TS.home.init();
+		}else if(ajaxOptions.url.indexOf('/ajax/index/dashboard') !== -1){
+			// Server Has Returned Dashboard
+			TS.global.dashboard();
+		}
+	});
+
+	// window._pathname is set in global.js use it.
+	// if were not on the homepage, load the interior js
+	if ( _pathname[0] !== '' ){
+		TS.interiors.init();
+	}
+
+});
+
+</script>
 		
 				<link rel="alternate" type="application/rss+xml" title="News" href="/api/rss/news">
 		<link rel="alternate" type="application/rss+xml" title="Events" href="/api/rss/events">
 	
-						
+				
 
 	</head>
-	<body class="privacy">
+	<body class="taylor-privacy-policy">
 		<!--[if lt IE 7]>
 		<div id="ie6alert">
 			<p><strong>Warning:</strong> We do not support the <a href="http://en.wikipedia.org/wiki/Web_browser" title="What is a web browser, you ask?" target="_blank" class="help">web browser</a> you are using, and cannot guarantee a problem free experience. Please upgrade to one of these modern web browsers (they&rsquo;re free):</p>
@@ -52,244 +95,395 @@
 			</ul>
 		</div>
 		<![endif]-->
+
+		
+		<div id="dash">
+	<div class="contents">
+					<a class="shellBtn" href="/login">Login</a>
+			<a class="shellBtn" href="/register">Join Taylor Connect</a>
+				<div class="toggle" title="Click to Toggle"></div>
+	</div>
+</div>
 		
 				<div id="header">
-	<div class="section top">
-		<div class="pages nav">
-		<ul>
-		<li class="home"><a href="/">Home</a></li>
-		<li class="news"><a href="/news">News</a></li>
-		<li class="journal"><a href="/media/photos/17363">Journal</a></li>
-		<li class="events"><a href="/events">Tour Dates</a></li>
-		<li class="photos"><a href="/media/photos">Photos</a></li>
-		<li class="videos"><a href="/media/videos">Videos</a></li>
-		<li class="about"><a href="/about">My Life</a></li>
-		<li class="store close"><a href="http://store.taylorswift.com/">Online Store</a></li>
+		<div id="connect">
+		<div class="wrapper">
+			<div id="activityFeed" class="activity">
+
+			</div>
+			<div class="menu">
+				<ul>
+					<li><a class="shellBtn" href="/users">Connect Users</a></li>
+					<li><a class="shellBtn" href="/blogs">User Blogs</a></li>
+					<li><a class="shellBtn" href="/forum">Fan Forums</a></li>
+									</ul>
+			</div>
+		</div>
+	</div>
+
+		<div class="top">
+		<div class="wrapper">
+							<h1 id="logo"><a href="/">Taylor Swift</a></h1>
+			
+			<div class="navigation">
+	<ul id="homeNav">
+		<li class="nav-button"><a href="#homeAbout">About</a></li>
+		<li class="nav-button"><a href="#homeNews">News</a></li>
+		<li class="nav-button"><a href="#homeEvents">Events</a></li>
+		<li class="nav-button"><a href="#homeMedia">Media</a></li>
+		<li><a href="/about#journal">Journal</a></li>
+		<li><a href="/releases">Music</a></li>
+		<li class="connectLink"><a href="#" class="taylorConnectToggle">Taylor Connect</a></li>
+		<li><a href="http://store.taylorswift.com/" target="_blank">Store</a></li>
+	</ul>
+	<ul id="interiorNav">
+		<li><a href="/about">About</a></li>
+		<li><a href="/news">News</a></li>
+		<li><a href="/events">Events</a></li>
+		<li><a href="/media">Media</a></li>
+		<li><a id="journalLink" href="/about#journal">Journal</a></li>
+		<li><a href="/releases">Music</a></li>
+		<li class="connectLink"><a href="#" class="taylorConnectToggle">Taylor Connect</a></li>
+		<li><a href="http://store.taylorswift.com/" target="_blank">Store</a></li>
 	</ul>
 </div>
-		<ul class="social nav">
-			<li class="twitter"><a href="http://twitter.com/taylorswift13">Twitter</a></li>
-			<li class="youtube"><a href="http://youtube.com/user/taylorswift">YouTube</a></li>
-			<li class="facebook"><a href="http://facebook.com/TaylorSwift">Facebook</a></li>
-			<li class="itunes"><a href="http://itunes.apple.com/us/artist/taylor-swift/id159260351">iTunes</a></li>
-		</ul>
-	</div><!-- .section.top -->
+		</div>
+	</div>
 </div>
 		
 		
 		<div id="page">
 			<div id="container">
-				
-								<div id="main" class="full">
-	<div class="section privacy">
+				<div id="breadcrumbs">
+	<div class="nav">
+		<span class="here">You are here:</span> <a href="/">Home</a>
+	</div><!-- .nav -->
+</div>
+				<div id="main" class="full">
+	<div class="section custom-page">
 		<div class="header">
-			<h1 class="title"><span>Privacy Policy</span></h1>
-			<ul class="nav actions">
-				<li><a href="http://support.groundctrl.com">Support</a></li>
-			</ul>
-		</div><!-- .header -->
-		
-		<div class="content details">
-			<p>This policy is effective as of <strong>November 29, 2011</strong>, and reflects only non-material changes and clarifications from the previous version.</p>
-
-			<p><strong>Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.</strong></p>
-			
-			<p>This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.</p>
-			
-			<p>By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.</p>
-			
-			<p>We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.</p>
-			
-			<h2 id="about-groundctrl">About ground(ctrl)™</h2>
-			<p>Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.</p>
-			
-			<p>To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.</p>
-			
-			<h2 id="collect-information">The Information We Collect</h2>
-			<p>When you visit this web site, you provide us with three types of information:</p>
-			<ol>
-				<li>Web site information collected by us through your interaction with this web site;</li>
-				<li>Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and</li>
-				<li>Personal information you knowingly and voluntarily disclose to use when using this service.</li>
-			</ol>
-
-			<p>First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.</p>
-			
-			<p>Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:</p>
-			
-			<dl>
-				<dt>Your first and last name</dt>
-				<dd>For the purpose of addressing you personally</dd>
-				
-				<dt>Your email address and encrypted password</dt>
-				<dd>To provide you with access to your personal account, and to send notifications about activity on the website</dd>
-				
-				<dt>Street address, city, state, postal code, country</dt>
-				<dd>To verify billing information for orders you place on the website and/or ship merchandise to you</dd>
-				
-				<dt>Your location</dt>
-				<dd>So you may optionally share your geographic location with other members of the website</dd>
-				
-				<dt>Birth date</dt>
-				<dd>So that you may optionally share your age with other members of the website</dd>
-				
-				<dt>AIM, Yahoo screen name, Jabber, ICQ screen names</dt>
-				<dd>So that you may optionally share your instant message information with other users of the site</dd>
-				
-				<dt>Flickr user id and Twitter user name</dt>
-				<dd>So that you may optionally display recent photos and twitter posts on your profile page</dd>
-				
-				<dt>Links to your third-party sites</dt>
-				<dd>So that you may optionally share favorite or other personal websites with other members of the site</dd>
-				
-				<dt>An avatar image</dt>
-				<dd>So that you may optionally provide a visual representation of yourself next to items you publish on the site</dd>
-			</dl>
-			
-			<p>We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.</p>
-
-			<p>Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).</p>
-			
-			<h2 id="coppa">Children’s Online Privacy Protection Act Of 1998</h2>
-			<p>This privacy policy is provided in conformity with the <a href="http://www.coppa.org/coppa.htm" title="COPPA - Children's Online Privacy Protection">Children’s Online Privacy Protection Act of 1998</a> (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.</p>
-			
-			<p>If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:</p>
-			
-			<div class="vcard">
-				<div><a href="http://groundctrl.com" class="org url">ground(ctrl)</a></div>
-				<div class="street-address">808 R Street, Suite 201</div>
-				<div><span class="locality">Sacramento</span>, <abbr class="region" title="California">CA</abbr> <span class="postal-code">95811</span></div>
-				<div class="tel"><span class="type">Toll Free:</span> 1 (877) GND-CTRL</div>
-				<div class="tel"><span class="type">Phone</span> (916) 443-9202</div>
-				<div class="tel"><span class="type">Fax</span> (916) 443-9204</div>
-				<div class="email"><a href="mailto:info@groundctrl.com">info@groundctrl.com</a></div>
-			</div>
-			
-			<p>Additional operators maintaining information collected through this website include: Taylor Swift.</p>
-
-			<p>The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).</p>
-			
-			<p>As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.</p>
-			
-			<p>We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.</p>
-			
-			<h2 id="updating-information">Correcting, Updating or Removing Your Information</h2>
-			<p>At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature.</p>
-			
-			<h2 id="use-information">How We Use the Information</h2>
-			<p>We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.</p>
-			
-			<p>When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
-			
-			<p>Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.</p>
-			
-			<h2 id="sharing-information">Sharing Your Information with Third Parties</h2>
-			<p>This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:</p>
-			
-			<ol>
-				<li>Enforce the network’s Terms and Conditions of Use Agreement;</li>
-				<li>Protect the network’s rights;</li>
-				<li>Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;</li>
-				<li>Protect the safety of it’s members; or</li>
-				<li>Enhance each member’s promotional and informational-sharing experience.</li>
-			</ol>
-
-			<p>The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.</p>
-			
-			<p>Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.</p>
-			
-			<p>Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.</p>
-			
-			<h2 id="advertising">Third-Party Advertising</h2>
-			<p>Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.</p>
-			
-			<h2 id="communication">Comments, Blogs, Messages, and Links</h2>
-			<p>Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.</p>
-			
-			<p>This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.</p>
-			
-			<h2 id="security">Security</h2>
-			<p>Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.</p>
-			
-			<p>Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.</p>
-			
-			<h2 id="liability">Disclaimer of Liability for Unauthorized Viewing of Personal Information</h2>
-			<p>You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.</p>
-			
-			<h2 id="changes">Changes in the Privacy Policy’S Terms of Use, Notices and Revisions</h2>
-			<p>We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.</p>
-			
-			<p>Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.</p>
-			
-			<p>Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
-			
-			<h2 id="contact">Contacting This Web Site</h2>
-			<p>If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:</p>
-
-			<div class="vcard">
-				<div><a href="http://groundctrl.com" class="org url">ground(ctrl)</a></div>
-				<div class="street-address">808 R Street, Suite 201</div>
-				<div><span class="locality">Sacramento</span>, <abbr class="region" title="California">CA</abbr> <span class="postal-code">95811</span></div>
-				<div class="tel"><span class="type">Toll Free:</span> 1 (877) GND-CTRL</div>
-				<div class="tel"><span class="type">Phone</span> (916) 443-9202</div>
-				<div class="tel"><span class="type">Fax</span> (916) 443-9204</div>
-				<div class="email"><a href="mailto:info@groundctrl.com">info@groundctrl.com</a></div>
-			</div>
-		
-		</div><!-- .content.details -->
-
-		<div class="footer">
-			<ul class="nav actions">
-				<li><a href="http://support.groundctrl.com">Support</a></li>
-			</ul>
-		</div><!-- .footer -->
+			<h2 class="title taylor-privacy-policy"><span>Taylor Privacy Policy</span></h2>
+		</div>
+		<div class="details content">
+			<div class="formatted">
+<p class="p1"><span class="s1">Welcome to the Taylor Swift on-line experience on TaylorSwift.com, and thank you for visiting our website!&nbsp;</span></p>
+<p class="p1"><span class="s1">This website is operated by GROUND CTRL, LLC d/b/a&nbsp; Ground(ctrl), on behalf of Taylor Nation, LLC (collectively, “<strong><em>we</em></strong>,” “<strong><em>us</em></strong>” or “<strong><em>our</em></strong>”).&nbsp; We respect your privacy and share your concern about its protection. This Privacy Policy (this “<strong><em>Policy</em></strong>”) explains how we collect, use and protect information that we learn about you as a result of your interaction with us through the websites on which this Policy is posted (collectively, the “<strong><em>Sites</em></strong>”) and the services provided through the Sites (the “<strong><em>Services</em></strong>”).&nbsp;</span></p>
+<p class="p1"><span class="s1">We comply with United States privacy laws and regulations.&nbsp; We do not represent that the Sites are governed by or operated in accordance with the laws of other nations, or that the Sites or any portion of the Sites are appropriate or available for use in any particular location.&nbsp; If you choose to access the Sites, you do so at your own risk, and you are responsible for complying with all local laws, rules and regulations.&nbsp; Visitors to the Sites from outside the United States acknowledge and agree, by using the Sites, that the Sites are subject to United States laws and regulations, and waive any claims against us that may arise under their own national laws.</span></p>
+<p class="p1"><span class="s1"><strong>By accessing any part of the Sites or using the Services,<em> </em>you agree to this Policy. This Policy is part of the Terms of Use governing your use of the Sites and Services.&nbsp; Please read the </strong><a href="http://www.taylorswift.com/tnc"><strong>Terms of Use</strong></a><strong>.&nbsp;&nbsp; If you do not agree with any part of this Policy, please do not use the Sites or the Services.</strong>&nbsp;&nbsp;</span></p>
+<p class="p1"><span class="s1"><em>Last Updated: January 3, 2012</em></span></p>
+<p class="p1"><span class="s1">This Policy is effective as of the date set forth above and is only applicable to the Sites and not to any other website that you may be able to access from any of the Sites which may have its own data collection and use practices and policies.&nbsp; We reserve the right to modify this Policy at any time, and such revisions will become effective upon the earlier of (i) posting of the revisions to the Sites, or (ii) distribution by electronic mail. For this reason, please visit this page on a regular basis and check the “Last Updated” date at the top of this Policy to ensure that you are familiar with the most recent version of this Policy.&nbsp; Your continued use of any of the Sites or Services after the effective date of the revisions signifies your acceptance of any such changes or revisions. You can address your questions or concerns regarding this Policy to <a href="mailto:webmaster@taylorswift.com" target="_blank">webmaster@taylorswift.com</a>.</span></p>
+<p class="p1"><span class="s1">This Policy applies solely to our online information gathering and disclosure practices in connection with the Sites, and does not apply to any of our practices conducted offline.</span></p>
+<p class="p2"><span class="s1">This Policy answers the following questions:</span></p>
+<ul>
+<li class="li3"><span class="s2">&nbsp;</span><span class="s1">What is our policy on children’s privacy?&nbsp;</span></li>
+<li class="li3"><span class="s2">&nbsp;</span><span class="s1">What information do we collect about you and how do we use it?&nbsp;</span></li>
+<li class="li3"><span class="s2">&nbsp;</span><span class="s1">Will we share your personally-identifiable information with third parties?&nbsp;</span></li>
+<li class="li3"><span class="s2">&nbsp;</span><span class="s1">What choices do you have about the collection and use of your personally-identifiable information?&nbsp;</span></li>
+<li class="li3"><span class="s2">&nbsp;</span><span class="s1">What security measures do we take to safeguard your personally-identifiable information?</span></li>
+<li class="li3"><span class="s2">&nbsp;</span><span class="s1">What are your California Privacy Rights?&nbsp;</span></li>
+<li class="li4"><span class="s2">&nbsp;</span><span class="s1">How can you contact us?&nbsp;</span></li>
+</ul>
+<p><span class="s1"><strong><em>What is our policy on children’s privacy?</em></strong></span></p>
+<p class="p8"><span class="s1">The Sites are not for children under 13 years of age.&nbsp; However, there are some areas of the Sites that may be attractive to children under 13.&nbsp; We do not condition participation by a child of any age in any activity or any of the services available on or through the Sites on the disclosure of more personally-identifiable information than is reasonably necessary to participate in an activity.&nbsp; We do not knowingly collect personally-identifiable information from users of the Sites who are under 13 years of age.&nbsp; No personally-identifiable information should be submitted to, or posted at, the Sites by visitors under 13 years of age without the prior written consent of their parent or guardian.&nbsp;</span></p>
+<p class="p2"><span class="s1">If we receive an e-mail message from a child who discloses, or is otherwise known to us, to be under 13 years of age, we may, without the consent of the child’s parent or guardian:</span></p>
+<ul>
+<li class="li2"><span class="s1">Respond to a one-time request from the child;&nbsp;</span></li>
+<li class="li2"><span class="s1">Provide notice of the child’s communication to the child’s parent or guardian;&nbsp;</span></li>
+<li class="li2"><span class="s1">Use this information as may be necessary to ensure the safety of the child on the Sites; or&nbsp;</span></li>
+<li class="li1"><span class="s1">Send our electronic periodical publications and materials, with the notification to the child’s parent or guardian and the opportunity to discontinue any future delivery of the above information.&nbsp;</span></li>
+</ul>
+<p class="p1"><span class="s1">Any parent or guardian of a child under 13 years of age who has provided personally-identifiable information to us may request a description of the personally-identifiable information that has been collected from or about that child, and either limit or restrict any further maintenance or use of such information from that child and/or direct us to delete it.&nbsp; Also, a parent may decline to allow any future collection of personally-identifiable information from that child.&nbsp; Such requests can be made by contacting us at&nbsp;<a href="mailto:webmaster@taylorswift.com" target="_blank">webmaster@taylorswift.com</a>. We will take reasonable measures to verify that the requesting party is, in fact, the parent or guardian of the child in question before providing a child’s personally-identifiable information to such person.&nbsp;&nbsp;</span></p>
+<p class="p1"><span class="s1">A parent may also access the personally-identifiable information that has been collected by us through accessing the “My Account” area of that parent’s child’s account by logging into the Sites with that child’s account name and password.</span></p>
+<p class="p1"><span class="s1">We will not knowingly use or disclose any personally-identifiable information of a child under 13 years of age for any purpose except as described above.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p class="p7"><span class="s1"><strong><em>What information do we collect about you and how do we use it?</em></strong></span></p>
+<p class="p11"><span class="s1"><strong><em>The types of information we collect and how we collect it</em></strong></span></p>
+<p class="p1"><span class="s1">By accessing or using the Sites, you may provide us with two types of information: (1) personally-identifiable information that you voluntarily choose to disclose to us, such as your name, address, telephone number, e-mail address and credit card information; and (2) non-personally-identifiable information, which we collect through the use of the technology called “cookies,” “web beacons” and/or “web logs.”&nbsp; You do not need to submit personally-identifiable information to access certain areas of the Sites, but if you do not want to disclose certain personally-identifiable information to us, you will not be able to access certain aspects of the Services.</span></p>
+<p class="p1"><span class="s1">We collect personally-identifiable information when you create an account, subscribe to our mailing list, participate in chat rooms, forums, polls, surveys, and questionnaires, participate in contests, sweepstakes, or other promotions, purchase a product, contact us, or receive customer or technical support. &nbsp;</span></p>
+<p class="p1"><span class="s1">To subscribe to our mailing list, you will need to provide your e-mail address, the country of your primary residence, your postal code and your date of birth.&nbsp; You will also need to create a screen name and password to access&nbsp; some of the other Services.&nbsp; When you are purchasing products, you will need to provide your name, address, e-mail address and phone number and, additionally, we or one of our third-party payment or fulfillment service providers will ask for your shipping and billing address and credit card, debit card or other payment information.&nbsp;&nbsp;</span></p>
+<p class="p8"><span class="s1">We may also collect other types of information (known as demographic information) such as your gender, hobbies and interests. This demographic information may be associated with your personally-identifiable information.</span></p>
+<p class="p11"><span class="s1"><strong><em>How we use your personally-identifiable information</em></strong></span></p>
+<p class="p1"><span class="s1">The personally-identifiable information that you provide to us will allow us to fulfill your product or service order, contact you about your account or your order of our products or services, alert you of new products or services, features or enhancements, notify you of changes in the Services, handle/route your customer service questions or issues, and/or inform you of contests, promotions, or special events and offers.&nbsp; &nbsp;</span></p>
+<p class="p1"><span class="s1">We keep track of your interactions with us, including, but not limited to, your activity within the Services.&nbsp; We may use information relating to your interactions with us to generate information about the popularity of certain Services and how users of the Sites utilize different aspects of the Services (“<strong><em>Popularity Data</em></strong>”).&nbsp; We may use this Popularity Data to design, develop and implement additional services and features of the Sites and to improve the Services.&nbsp; Popularity Data may be associated with your account and we may provide a point system in which your account earns points through the amount of Popularity Data your account has achieved.&nbsp; These points may be displayed with the account information that is publicly displayed to other end users of the Sites, such as when you participate in a forum in the Sites, but we do not disclose the Popularity Data itself as associated with your account.&nbsp;&nbsp;</span></p>
+<p class="p8"><span class="s1">We may use personally-identifiable information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Services.&nbsp;&nbsp;</span></p>
+<p class="p11"><span class="s1"><strong><em>How we use your non-personally-identifiable information</em></strong></span></p>
+<p class="p11"><span class="s1"><em>Cookies</em></span></p>
+<p class="p1"><span class="s1">We use “cookies” to collect information, on an aggregate basis, about how the Sites are used. This information may include the date and time of visits to the Sites and time spent on the Sites. The use of “cookies” allows us to personalize your use of the Sites and to provide greater convenience each time that you visit.&nbsp; Additionally, advertisements that are managed by third parties which may appear on the Sites use cookies.&nbsp; Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Sites and this information may permit us to identify other sites that you have visited that are also associated with such advertisers.&nbsp;&nbsp;</span></p>
+<p class="p8"><span class="s1">You may choose to disable cookies on your computer, block all cookies, or receive a warning before a cookie is stored on your computer (please consult instructions for your web browser). However, if you disable or block cookies, it is possible that some parts of the Services will not be accessible to you.</span></p>
+<p class="p11"><span class="s1"><em>Log Information&nbsp;&nbsp;</em></span></p>
+<p class="p8"><span class="s1">Our servers automatically record information that your browser sends whenever you visit the Sites.&nbsp; This information includes your Internet Protocol address, your geographic location, your browser type and version, which Sites and/or Services you use and when and how long you use them.&nbsp; We use this information to monitor and analyze how users use the Sites and Services, to provide customer service and to maintain and improve the Services.</span></p>
+<p class="p7"><span class="s1"><strong><em>Will we share your personally-identifiable information with third parties?</em></strong></span></p>
+<p class="p11"><span class="s1"><strong><em>Sharing of information</em></strong></span></p>
+<p class="p1"><span class="s1">We may disclose certain elements of your personally identifiable information (e.g., your name and e-mail address) with Taylor Swift and members of her management team, her employees,agents, contractors and sub-contractors, and her companies and subsidiaries, and their respective employees, agents, contractors and sub-contractors, for the limited purpose of enabling them to communicate directly with you about upcoming musical performances, personal appearances, contests, sweepstakes, promotions, announcements and other special events.</span></p>
+<p class="p1"><span class="s1">We may use your personally-identifiable information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personally-identifiable information about customers.&nbsp;&nbsp;</span></p>
+<p class="p2"><span class="s1">In addition, we will share the personally-identifiable information we collect from you under the following circumstances:</span></p>
+<ul>
+<li class="li12"><span class="s1"><strong>Protection of rights</strong>.&nbsp; We will share personally-identifiable information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Use for the Sites, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Services, or (iv) such action is appropriate to protect our rights, property or safety or the rights, property or safety of our employees, users of the Services or others.&nbsp;</span></li>
+<li class="li12"><span class="s1"><strong>Asset transfers</strong>.&nbsp; If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personally-identifiable information collected from you through your use of the Services, could be included in the transferred assets.&nbsp; Should such an event occur, we will use reasonable means to notify you, either through e-mail and/or a prominent notice on the Sites.&nbsp;</span></li>
+<li class="li8"><span class="s1"><strong>Service Providers</strong>.&nbsp; We may share your personally-identifiable information with service providers that we engage for the purpose of processing information on our and your behalf.&nbsp; For example, we have partnered with other companies to sell products through the Services, fulfill product orders, process payments and administer our e-mail announcements.&nbsp; Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze and/or store data.&nbsp; While providing services for us, these companies may access your personally-identifiable information.&nbsp; To the extent applicable, we require these entities to comply with this Policy and appropriate confidentiality and security measures.&nbsp;</span></li>
+</ul>
+<ul>
+<li class="li8"><span class="s1"><strong>On-line Sweepstakes and Contests</strong>. We may share personally-identifiable information collected in connection with on-line contest, sweepstakes or other promotions with the third-party sponsors of such promotions, or otherwise as set forth in the Official Rules applicable to the promotion.&nbsp; You should carefully review the Official Rules of each promotion in which you choose to participate through the Sites, as they may contain additional important information about a third party’s use of your personally-identifiable information.&nbsp; To the extent any Official Rules conflict with this Policy, the Official Rules will govern that particular promotion.</span></li>
+</ul>
+<p class="p11"><span class="s1"><strong><em>Additional information you should know about third parties</em></strong></span></p>
+<p class="p8"><span class="s1">This Policy does not cover the information practices of third-party websites linked to any of the Sites. Although we encourage such third parties to adopt and follow their own privacy policies, we do not control, and are not responsible for, their collection and use of your personally-identifiable information.&nbsp; You should refer to the privacy policies and statements of other websites to obtain information regarding their information collection, use and disclosure policies.&nbsp;&nbsp;</span></p>
+<p class="p8"><span class="s1">When you click on an advertisement or third-party logo displayed on the Sites that links you to a different website, this Policy no longer applies and you must read the privacy policy of the advertiser or third party to see how your personally-identifiable information will be handled on their website.</span></p>
+<p class="p8"><span class="s1">The Services may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another.&nbsp; When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.</span></p>
+<p class="p14"><span class="s1"><strong><em>What choices do you have about the collection and use of your personally-identifiable information?</em></strong></span></p>
+<p class="p10"><strong><em>Control of your information</em></strong></p>
+<p class="p1"><span class="s1">You may access, update or delete your personally-identifiable information or modify your account preferences for the Services by accessing the “My Account” area of the Services or by contacting us at privacy@TaylorSwift.com.&nbsp; Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities. Please also understand that, once deleted, your information may not be available on the Sites but may remain stored indefinitely in our databases.&nbsp;</span></p>
+<p class="p15"><span class="s1"><strong><em>Opting out of receiving communications from us</em></strong></span></p>
+<p class="p1"><span class="s1">If you no longer want to receive our announcements by e-mail, you may unsubscribe from receiving them at any time by choosing the “Unsubscribe” link at the bottom of our e-mails, or by writing to us at&nbsp;<a href="mailto:webmaster@taylorswift.com" target="_blank">webmaster@taylorswift.com</a>.&nbsp; If you e-mail us to change your contact preferences, we will implement your requested changes in a reasonable time frame.&nbsp; Please note that your requested changes will not be effective until we implement such changes.&nbsp; Please also note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.</span></p>
+<p class="p8"><span class="s1">If you choose to join one of our mobile marketing lists, please be aware that there are usually costs associated with receiving SMS or MMS messages, depending on your wireless carrier and plan.&nbsp; You should check with your wireless carrier to determine what charges apply before signing up to receive our updates via your mobile phone.&nbsp; If you wish to stop receiving messages from us on your mobile phone, simply reply to the message with “STOP.”</span></p>
+<p class="p11"><span class="s1"><strong><em>Mediation</em></strong></span></p>
+<p class="p8"><span class="s1">If you are a resident of a country outside of the European Economic Area, you also agree that, in the event any dispute or claim arises out of or relating to this Policy, you will attempt in good faith to negotiate a written resolution of the matter directly with either GROUND CTRL, LLC d/b/a Ground(ctrl) or Taylor Nation, LLC, depending on your concern.&nbsp; You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, the parties shall join in mediation services in Nashville, Davidson County, Tennessee, with a mutually agreed mediator in an attempt to resolve the dispute.&nbsp; Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees or costs costs, even if you would otherwise be entitled to them.</span></p>
+<p class="p11"><span class="s1"><strong><em>Dispute resolution for residents of the European Economic Area</em></strong></span></p>
+<p class="p8"><span class="s1">If you are a resident of the European Economic Area (“<strong><em>EEA</em></strong>”), in the event that you have any dispute or claim arising out of or relating to this Policy, you may report your claim to the Data Protection Authority located in your jurisdiction.&nbsp;&nbsp;</span></p>
+<p class="p14"><span class="s1"><strong><em>What security measures do we take to safeguard your personally-identifiable information?</em></strong></span></p>
+<p class="p8"><span class="s1">The personally-identifiable information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.&nbsp; In addition, we restrict access to personally-identifiable information to our employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Sites and Services.&nbsp; All personnel who have access to this information are trained in the maintenance and security of such information.&nbsp; However, no data transmission over the Internet can be guaranteed to be completely secure, and, for this reason, we cannot ensure or warrant the security of any information that you transmit to us.&nbsp; You can help protect your personally-identifiable information by using a combination of letters and numbers in your password, changing your password often, using a secure web browser, and signing off and closing your web browser when you are finished with the use of the Sites.</span></p>
+<p class="p11"><span class="s1"><strong><em>European Commission's Directive on Data Protection - Safe Harbor</em></strong></span></p>
+<p class="p8"><span class="s1">We adhere to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection.&nbsp; For more information on the Safe Harbor framework, visit the Department of Commerce’s website located at <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor<span class="s4">/</span></a>.&nbsp;</span></p>
+<p class="p7"><span class="s1"><strong><em>Your California Privacy Rights</em></strong></span></p>
+<p class="p8"><span class="s1">Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes.&nbsp; If you are a California resident and wish to make such a request, please send an e-mail to privacy@TaylorSwift.com or contact us at the address below.</span></p>
+<p class="p7"><span class="s1"><strong><em>How can you contact us?</em></strong></span></p>
+<p class="p8"><span class="s1">If you have any questions about our privacy practices or this Policy, please contact us at:</span></p>
+<p class="p18"><span class="s1">Taylor Nation, LLC</span><span class="s1"><br>242 West Main Street PMB 412<br>Hendersonville, TN 37075<br>E-mail:&nbsp;</span><a href="mailto:webmaster@taylorswift.com" target="_blank">webmaster@taylorswift.com</a></p>
+</div>
+		</div>
 	</div>
 </div>
 			</div><!-- #container -->
-		</div><!-- #page -->
 
-		 <div id="footer">
-	<div class="section">
-		<div class="pages nav">
-		<ul>
-		<li class="home"><a href="/">Home</a></li>
-		<li class="news"><a href="/news">News</a></li>
-		<li class="journal"><a href="/media/photos/17363">Journal</a></li>
-		<li class="events"><a href="/events">Tour Dates</a></li>
-		<li class="photos"><a href="/media/photos">Photos</a></li>
-		<li class="videos"><a href="/media/videos">Videos</a></li>
-		<li class="about"><a href="/about">My Life</a></li>
-		<li class="store close"><a href="http://store.taylorswift.com/">Online Store</a></li>
-	</ul>
+						<div id="legalInfo">
+				<div class="bird"></div>
+				<div class="wrapper">
+					<p class="copy">© 2012 Taylor Swift. All Rights Reserved. <a href="/taylor-privacy-policy/">Privacy Policy</a> <span class="divider">|</span> <a href="/taylor-terms-conditions/">Terms of Service</a> <span class="divider">|</span> <a href="/privacy/">g(c) Privacy Policy</a> <span class="divider">|</span> <a href="/terms/">g(c) Terms of Service</a></p>
+					<p class="poweredby">Powered by <a href="http://groundctrl.com/"><strong>ground</strong>(ctrl)</a></p>
+										<div class="social">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://taylorswift.com" data-count="horizontal" data-via="taylorswift13">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+						<g:plusone href="http://taylorswift.com" size="medium" style="width:65px"></g:plusone>
+						<iframe src="//www.facebook.com/plugins/like.php?href=http://taylorswift.com&amp;send=false&amp;layout=button_count&amp;width=115&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:115px; height:21px;" allowtransparency="true"></iframe>
+					</div>
+									</div>
+			</div>
+					</div><!-- #page -->
+
+		<div id="footer">
+		<div id="bottom">
+
+		<div class="wrapper">
+			<div id="twitterFeed" class="tweets loading"><span class="loadingText">Loading...</span></div>
+			<div class="socialize">
+				<div class="icon mail">
+					<a href="#mailingList" id="toggleMailingList"><span>Mailing List</span></a>
+				</div>
+				<div class="icon jukebox">
+					<a href="#"><span>Jukebox</span></a>
+				</div>
+				<div class="icon twitter">
+					<a href="http://twitter.com/taylorswift13"><span>Twitter</span></a>
+				</div>
+				<div class="icon facebook">
+					<a href="http://facebook.com/TaylorSwift"><span>Facebook</span></a>
+				</div>
+				<div class="icon youtube">
+					<a href="http://youtube.com/user/taylorswift"><span>YouTube</span></a>
+				</div>
+				<div class="icon itunes">
+					<a href="http://itunes.apple.com/us/artist/taylor-swift/id159260351"><span>iTunes</span></a>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-		<ul class="nav terms">
-			<li>© 2011 Taylor Nation, LLC</li>
-			<li class="privacy coppa"><a href="/privacy/">Privacy Policy</a></li>
-			<li><a href="http://groundctrl.com/terms/">Terms &amp; Conditions</a></li>
-		</ul>
-		<div id="copyright">
-			<a href="http://www.bigmachinemusic.com/" target="_blank" class="bigmachine">Big Machine Music</a>
-			<p><span class="poweredby">powered by <a href="http://groundctrl.com"><strong>ground</strong>(ctrl)</a></span></p>
-		</div><!-- #copyright -->
-	</div><!-- .section -->
+
+<div style="display: none;">
+	<div id="mailingList">
+		<form method="post" action="http://taylorswift.us2.list-manage.com/subscribe/post?u=c69e402558219d0c8a0c48cd6&amp;id=2f3e4cb96a">
+			<fieldset class="inputs">
+				<ol>
+					<li class="stringish">
+						<label for="mce-EMAIL">Your Email Address</label>
+						<input type="email" id="mce-EMAIL" name="EMAIL" value="" placeholder="enter email address">
+					</li>
+					<li class="select multi">
+						<label for="mce-MMERGE1-month">Enter Your Birthdate (You must be 13 years or older to join)</label>
+						<select name="MMERGE1[month]" id="mce-MMERGE1-month" class="month">
+							<option>January</option>
+							<option>February</option>
+							<option>March</option>
+							<option>April</option>
+							<option>May</option>
+							<option>June</option>
+							<option>July</option>
+							<option>August</option>
+							<option>September</option>
+							<option>October</option>
+							<option>November</option>
+							<option>December</option>
+						</select>
+						<select name="MMERGE1[day]" id="mce-MMERGE1-day" class="day">
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+							<option>10</option>
+							<option>11</option>
+							<option>12</option>
+							<option>13</option>
+							<option>14</option>
+							<option>15</option>
+							<option>16</option>
+							<option>17</option>
+							<option>18</option>
+							<option>19</option>
+							<option>20</option>
+							<option>21</option>
+							<option>22</option>
+							<option>23</option>
+							<option>24</option>
+							<option>25</option>
+							<option>26</option>
+							<option>27</option>
+							<option>28</option>
+							<option>29</option>
+							<option>30</option>
+							<option>31</option>
+						</select>
+						<select name="MMERGE1[year]" id="mce-MMERGE1-year" class="year">
+							<option>2011</option>
+							<option>2010</option>
+							<option>2009</option>
+							<option>2008</option>
+							<option>2007</option>
+							<option>2006</option>
+							<option>2005</option>
+							<option>2004</option>
+							<option>2003</option>
+							<option>2002</option>
+							<option>2001</option>
+							<option>2000</option>
+							<option>1999</option>
+							<option>1998</option>
+							<option>1997</option>
+							<option>1996</option>
+							<option>1995</option>
+							<option>1994</option>
+							<option>1993</option>
+							<option>1992</option>
+							<option>1991</option>
+							<option>1990</option>
+							<option>1989</option>
+							<option>1988</option>
+							<option>1987</option>
+							<option>1986</option>
+							<option>1985</option>
+							<option>1984</option>
+							<option>1983</option>
+							<option>1982</option>
+							<option>1981</option>
+							<option>1980</option>
+							<option>1979</option>
+							<option>1978</option>
+							<option>1977</option>
+							<option>1976</option>
+							<option>1975</option>
+							<option>1974</option>
+							<option>1973</option>
+							<option>1972</option>
+							<option>1971</option>
+							<option>1970</option>
+							<option>1969</option>
+							<option>1968</option>
+							<option>1967</option>
+							<option>1966</option>
+							<option>1965</option>
+							<option>1964</option>
+							<option>1963</option>
+							<option>1962</option>
+							<option>1961</option>
+							<option>1960</option>
+							<option>1959</option>
+							<option>1958</option>
+							<option>1957</option>
+							<option>1956</option>
+							<option>1955</option>
+							<option>1954</option>
+							<option>1953</option>
+							<option>1952</option>
+							<option>1951</option>
+							<option>1950</option>
+							<option>1949</option>
+							<option>1948</option>
+							<option>1947</option>
+							<option>1946</option>
+							<option>1945</option>
+							<option>1944</option>
+							<option>1943</option>
+							<option>1942</option>
+							<option>1941</option>
+							<option>1940</option>
+							<option>1939</option>
+							<option>1938</option>
+							<option>1937</option>
+							<option>1936</option>
+							<option>1935</option>
+							<option>1934</option>
+							<option>1933</option>
+							<option>1932</option>
+							<option>1931</option>
+							<option>1930</option>
+							<option>1929</option>
+							<option>1928</option>
+							<option>1927</option>
+							<option>1926</option>
+							<option>1925</option>
+							<option>1924</option>
+							<option>1923</option>
+							<option>1922</option>
+							<option>1921</option>
+							<option>1920</option>
+							<option>1919</option>
+							<option>1918</option>
+							<option>1917</option>
+							<option>1916</option>
+							<option>1915</option>
+							<option>1914</option>
+							<option>1913</option>
+							<option>1912</option>
+							<option>1911</option>
+							<option>1910</option>
+							<option>1909</option>
+							<option>1908</option>
+							<option>1907</option>
+							<option>1906</option>
+							<option>1905</option>
+							<option>1904</option>
+							<option>1903</option>
+						</select>
+						</li>
+					<li class="checkbox">
+						<label for="tos">
+							<input type="checkbox" id="tos" value="" name="tos">
+							By checking this box you agree to the TaylorSwift.com <a href="/taylor-terms-conditions/" target="_blank">Terms of Use</a>
+						</label>
+					</li>
+				</ol>
+			</fieldset>
+			<fieldset class="buttons">
+				<ul>
+					<li class="submit">
+						<input type="submit" id="mc-embedded-subscribe" name="subscribe" value="Join the Mailing List">
+					</li>
+				</ul>
+			</fieldset>
+		</form>
+	</div>
 </div>
-
-
-<!-- Start Quantcast tag -->
-<p>
-<script type="text/javascript">// <![CDATA[
-_qoptions={
-qacct:"p-e6SqDVzDh4T5o"
-};
-// ]]></script>
-<script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
-</p>
-<p><noscript> &amp;lt;img src="http://pixel.quantserve.com/pixel/p-e6SqDVzDh4T5o.gif" mce_src="http://pixel.quantserve.com/pixel/p-e6SqDVzDh4T5o.gif" style="display: none;" mce_style="display: none;" border="0" height="1" width="1" alt="Quantcast"/&amp;gt; </noscript></p>
-<!-- End Quantcast tag -->
-
-
-
-
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -308,9 +502,35 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 	pageTrackerAll._trackPageview();
 </script>
 
+<div id="fb-root"></div>
+<script src="//connect.facebook.net/en_US/all.js#appId=&amp;xfbml=1"></script>
+<script src="//platform.twitter.com/widgets.js"></script>
+<script src="//apis.google.com/js/plusone.js"></script>
 
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
 
-<script type="text/javascript" src="/clients/taylor_swift_new/js/bgfix.js"></script>
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-e6SqDVzDh4T5o"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-e6SqDVzDh4T5o.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 
 	
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
