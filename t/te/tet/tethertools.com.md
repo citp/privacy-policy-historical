@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126065521id_/http%3A//tethertools.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611075941id_/http%3A//tethertools.com/privacy-security) for the most accurate reproduction.*
 
 # Tether Tools - Resource for Tethered Photography Equipment | Tether Tools
 
-This policy was last updated on October 5, 2009.
+This policy was last updated on December 30, 2011.
 
 Below is the Tether Tools (“TT”) privacy and security policy:
 
