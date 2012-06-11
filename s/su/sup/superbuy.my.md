@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbuy.my privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212175104id_/http%3A//www.superbuy.my/shop/RedirCT.aspx%3Fw%3DAIL%26s%3DBUY%26p%3DM_FOOTER%26sec%3DPNC%26rd%3Dt-privacyandsecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbuy.my privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611144922id_/http%3A//www.superbuy.my/shop/t-privacyandsecurity.aspx) for the most accurate reproduction.*
 
 # Privacy & Security
 
