@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildtangent.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230072738id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildtangent.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611064606id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.*
 
 # WildTangent: Privacy Policy
 
@@ -97,7 +97,7 @@ You may opt out of receiving alerts or email or text message updates concerning 
 
 **_How do you Resolve Dispute?_**
 
-Should a customer ever have a privacy complaint, WildTangent has agreed to participate in the Better Business Bureau's Privacy Dispute Resolution system. More information about this program may be obtained at [http://www.bbbonline.org](http://www.bbbonline.org/). 
+Should a customer ever have a privacy complaint, WildTangent has agreed to participate in the Better Business Bureau's Privacy Dispute Resolution system. More information about this program may be obtained at <http://www.bbb.org/us/safe-harbor-complaints>
 
 **_Do you Participate in the E.U. Safe Harbor Program?_**
 
