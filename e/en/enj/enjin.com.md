@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115143id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611064256id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy dec 2010
 
@@ -6,17 +6,7 @@ Privacy Policy
 
 Last revision: December, 2010
 
-        Enjin provides[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg)[guild hosting](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg) and[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg)[clan website hosting](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg).
-
-US Address:
-
-Enjin
-
-3141 Piper Lane E-2461
-
-Charlotte, NC 28208-7325
-
-US
+Enjin provides[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg)[guild hosting](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg) and[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg)[clan website hosting](http://www.google.com/url?q=http%3A%2F%2Fwww.enjin.com%2F&sa=D&sntz=1&usg=AFQjCNEDEndMtY0toNm-WBFjv6dKdaZ6Cg).
 
 AU Address:
 
@@ -31,8 +21,6 @@ NSW, SYDNEY
 Australia
 
 [info@enjin.com](mailto:info@enjin.com)
-
-+12505654790
 
 Enjin has been developed for all gamers, clans, guilds, and gaming communities, to organize and stay connected through the creation of gaming websites and profiles. This Privacy Policy is designed to articulate our privacy policies and how we collect and use the information you choose to share. We reserve the right to modify this policy at any time and without any notice. Please note, that by using Enjin Services you accept this policy.
 
@@ -114,18 +102,4 @@ Contact
 
 If you have any questions, concerns, or suggestions regarding our privacy policy please contact info@enjin.com.
 
-Address:
-
-Enjin
-
-3141 Piper Lane
-
-E-2461
-
-Charlotte, NC 28208-7325
-
-US
-
 [info@enjin.com](mailto:info@enjin.com)
-
-+12505654790
