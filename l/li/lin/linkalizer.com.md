@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkalizer.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125452id_/http%3A//www.linkalizer.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkalizer.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611081014id_/http%3A//www.linkalizer.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - LinkAlizer
 
-### Privacy
+### Privacy Policy
 
 **www.linkalizer.com respects your privacy.**
 
@@ -11,6 +11,10 @@ Any personal information you provide to us including and similar to your name, a
 **Credit card details**
 
 www.linkalizer.com will never ask for Credit Card details and request that you do not enter it on any of the forms on www.linkalizer.com.
+
+**Refund Policy**
+
+Normally no refund is done as the member already enjoys the services provided by linkalizer.com. The upgrade is done automatically immediately on payment enabling the member all facilities given to Premium members. However, refund could be claimed for Multi Send Out if the service is not provided for more than 24 working hours. Refund should be claimed using the contact form quoting the transaction ID.
 
 **External Sites.**
 
