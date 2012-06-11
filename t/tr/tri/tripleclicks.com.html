@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2011-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210115451id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611063656id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,7 +15,7 @@
 <script type="text/javascript" src="/common/modal/modalfiles/modal.js"></script><div id="interVeil"></div>
 <script type="text/javascript" src="/common/jquery.min.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script type="text/javascript" src="/common/javascript.js?1323518091.6196"></script>
+<script type="text/javascript" src="/common/javascript.js?1339396616.063"></script>
 <script type="text/javascript" src="/common/jquery.jcarousel.js"></script>
 
 
@@ -968,6 +968,27 @@ border:1px solid #ccc;
 		}
 		
 				
+		// wrapper for getXtraActiveAuction		
+		function x_getXtraActiveAuction() {
+			sajax_do_call("getXtraActiveAuction",
+				x_getXtraActiveAuction.arguments);
+		}
+		
+				
+		// wrapper for getSFIActiveAuction		
+		function x_getSFIActiveAuction() {
+			sajax_do_call("getSFIActiveAuction",
+				x_getSFIActiveAuction.arguments);
+		}
+		
+				
+		// wrapper for getAuction		
+		function x_getAuction() {
+			sajax_do_call("getAuction",
+				x_getAuction.arguments);
+		}
+		
+				
 		// wrapper for removeItemFromBanner		
 		function x_removeItemFromBanner() {
 			sajax_do_call("removeItemFromBanner",
@@ -1000,6 +1021,48 @@ border:1px solid #ccc;
 		function x_updateNPOFeaturedItem() {
 			sajax_do_call("updateNPOFeaturedItem",
 				x_updateNPOFeaturedItem.arguments);
+		}
+		
+				
+		// wrapper for supportNPOItem		
+		function x_supportNPOItem() {
+			sajax_do_call("supportNPOItem",
+				x_supportNPOItem.arguments);
+		}
+		
+				
+		// wrapper for setCartAttributes		
+		function x_setCartAttributes() {
+			sajax_do_call("setCartAttributes",
+				x_setCartAttributes.arguments);
+		}
+		
+				
+		// wrapper for getSongs		
+		function x_getSongs() {
+			sajax_do_call("getSongs",
+				x_getSongs.arguments);
+		}
+		
+				
+		// wrapper for reactivateMemberListing		
+		function x_reactivateMemberListing() {
+			sajax_do_call("reactivateMemberListing",
+				x_reactivateMemberListing.arguments);
+		}
+		
+				
+		// wrapper for memberListingWasPickedUp		
+		function x_memberListingWasPickedUp() {
+			sajax_do_call("memberListingWasPickedUp",
+				x_memberListingWasPickedUp.arguments);
+		}
+		
+				
+		// wrapper for updateLocalPickup		
+		function x_updateLocalPickup() {
+			sajax_do_call("updateLocalPickup",
+				x_updateLocalPickup.arguments);
 		}
 		
 		
@@ -1173,6 +1236,10 @@ document.onclick=hidemenu
 </script>
 
 
+<!-- -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,900|Abel" rel="stylesheet" type="text/css">
+<script src="/common/jquery.iphone-switch.js" type="text/javascript"></script>
+
 
 
 
@@ -1181,106 +1248,230 @@ document.onclick=hidemenu
 <div id="tcWideContainer">
 
 
-<div id="tcContent">
+<style>
+#musicBarLoading
+{
+	font-size: 18px;
+	text-align: center;
+}
+#musicBar
+{
+	display: none;
+	background:#333333;
+	color:#FFFFFF;
+	padding:8px;
+	font-family:"Helvetica Neue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	margin-bottom:10px;
+}
+
+#musicBarPlayer
+{
+	margin:0 auto; 
+	font-size:.9em;
+}
+
+#musicBar a
+{
+	color: #ccc;
+}
+.mejs-volume-slider
+{
+	border: 1px solid black !important;
+	border-radius: .5em;
+	top: 0px !important;
+	display:none;
+}
+.mejs-container
+{
+	width: auto !important;
+	background: none !important;	
+}
+.mejs-controls
+{
+	background: none !important;	
+}
+.mejs-time-total
+{
+	border: 1px solid black;
+	
+	box-shadow: 0 0 3px #CCC;
+    -webkit-box-shadow: 0 0 3px #CCC; 
+    -moz-box-shadow: 0 0 3px #CCC; 
+}
+#songContainer
+{
+	float: left;
+	width: 55px;
+}
+#songInfo
+{
+	float: left;
+	margin-left: 5px;
+	height:30px;
+	line-height:30px;	
+}
+.songLinks
+{
+	font-size: 11px;
+}
+#songTitle
+{
+	color: #FFCC00;
+	font-weight:bold;
+}
+#songArtist a
+{
+	color: #FFCC00;
+}
+.clearboth0 { clear:both; height:0px; }
+#musicBar .star { position:relative; top:2px; padding:0px 1px 0px 0px; }
+#musicBar .vote { padding:0px 4px; color:#333333; border:1px solid #FFCC00; text-decoration:none; background-color:#FFCC00; letter-spacing:1px; margin-left:3px; margin-right:3px; font-weight:bold; font-size:.7em; border-radius:2px; }
+#musicBar a.reviewshare { padding:0px 4px; color:#333333; border:1px solid #cccccc; text-decoration:none; background-color:#cccccc; letter-spacing:1px; margin-left:3px; font-weight:bold; font-size:.7em; border-radius:2px; }
+#musicBar a.close { padding:0px 4px; color:#ffffff; border:1px solid #CC0000; text-decoration:none; background-color:#CC0000; letter-spacing:1px; margin-left:3px; margin-right:3px; font-weight:bold; font-size:.7em; border-radius:2px; }
+#musicBar .stars a { color:#333333; }
+</style>
+<div id="musicBar">
+	<div style="float:right; width:440px; text-align:right; height:30px; line-height:30px;">
+		<span class="songLinks">
+		</span>	
+		<a href="#" onclick="openVoteWindow(); return false" target="_blank" class="vote" id="voteButton">VOTE</a>
+		<span class="songLinks">rate</span>
+		<span class="stars">
+			<a href="#" onclick="rateSong(1)" style="border:0;">
+				<img src="/images/icons/icon_star12pxA.gif" class="star" star="1">
+			</a>
+			<a href="#" onclick="rateSong(2)" style="border:0;">
+				<img src="/images/icons/icon_star12pxA.gif" class="star" star="2">
+			</a>
+			<a href="#" onclick="rateSong(3)" style="border:0;">
+				<img src="/images/icons/icon_star12pxA.gif" class="star" star="3">
+			</a>
+			<a href="#" onclick="rateSong(4)" style="border:0;">
+				<img src="/images/icons/icon_star12pxA.gif" class="star" star="4">
+			</a>
+			<a href="#" onclick="rateSong(5)" style="border:0;">
+				<img src="/images/icons/icon_star12pxA.gif" class="star" star="5">
+			</a>
+		</span>
+		<a href="#" onclick="openConnectWindow(); return false" target="_blank" class="reviewshare connect" id="connectButton">CONNECT</a>
+		<a href="#" onclick="hideMusicBar();" class="close">X</a>
+	</div>
+
+	<div id="musicBarPlayer">
+		<div id="songContainer">
+			<audio id="song" src="1.mp3" preload="none"></audio>
+		</div>
+		<div id="songInfo">
+			<div style="width:440px; font-size:1.1em; overflow:hidden; text-overflow:ellipsis; float:left; white-space:nowrap;">
+				
+				<a href="#" onclick="playNextSong()" style="border:0; display: none; font-size: 0; line-height: 0; text-decoration: none; margin: 9px 10px 0 2px;" id="nextSongButton"><img src="/images/buttons/b_musicbarNext.png" style="border:0;"></a>
+					
+				Now playing: <span id="songTitle">Song</span> by <span id="songArtist">Artist</span>
+			</div>						
+		</div>
+		<div class="clearboth0"></div>		
+	</div>
+
+</div>
+<div class="clearboth0"></div>
 <!------------------------------------------------------------------------------ TripleClicks header -->
-<div id="tcHeader">
 
-	<div id="tcLogo">
-   		<a href="/"><img src="/images/logos/logo-TCv3.gif" height="75" width="318" alt="TripleClicks - Buy, Sell, Trade" border="0"></a>	</div>
+<div id="tcContent"><!--SITEWRAP-->
+<div id="header2012">
 
-	<div id="tcwLogin">
-        <form method="post" action="/privacy_policy.php">
-    E-mail or ID #
-   	    <input name="username" type="text" id="username" size="15" class="forms" value="">
-      	Password 
-   	    <input name="password" type="password" id="password" size="10" class="forms">
-   	    <input type="image" src="/images/buttons/b_Login.gif" alt="Go" width="43" height="18" align="absmiddle" border="0">
-		<br>
-		Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
-		    
-        
-    </form>        
-        </div>
-
-        <div id="tcShoppingCart">
-<a href="/credits.php">TCredits:</a> <span id="headerCredits">0</span> |  Cart: <span id="cartQty"></span> item <!-- : $<span id='cartSubtotal'>0.00</span> --> | <a href="/cart/viewcart.php">View Cart</a> | <a href="/cart/checkout.php">Checkout</a>                  <br><a href="/myaccount/messageCenter.php">Message Center</a>
-                |
-                	<a href="/myaccount/reviews.php">Reviews</a>
-                </div>
+    <div id="headerInfo">
+            <div style="padding-top:30px; line-height:18px;">
+                        <form method="post" action="/privacy_policy.php">
+            E-mail or ID #
+                <input name="username" type="text" id="username" size="15" class="forms" value="">
+                Password 
+                <input name="password" type="password" id="password" size="10" class="forms">
+                <input type="image" src="/images/buttons/b_Login.gif" alt="Go" width="43" height="18" align="absmiddle" border="0">
+                <br>
+                Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
+                            
+                        
+            </form>        
+                    </div>
+    	</div>
     
-    <div id="tcwMenu" style="white-space:none; overflow:hidden;">
-    	<div class="indentmenuW">
-            <ul>
-				<li><a href="/customer_care.php" class="current">Customer Care</a></li>
-				<li><a href="/myaccount/">My Account</a></li>
-				<li><a href="/Wave3/W3index.php">Wave3</a></li>
-				<li><a href="/cart/viewwishlist.php">My Wishlist</a></li>
-                <li><a href="/search/deal/close" }="">Closeouts</a></li>				
-                <li><a href="/search/deal/hot">Hot Deals</a></li>
-				<li><a href="/member_benefits.php">Member Center</a></li>
-				<li><a href="/myaccount/sell_your_stuff.php">List It!</a></li>
-               	<li><a href="/">Home</a></li>
-			</ul>
-	  </div>
-    </div>
+    <div id="logo">
+		<a href="/"><img src="/images/logos/logo-TCv3.gif" border="0" width="300" height="69" style="padding:10px 0px 15px 0px;"></a>
+	</div>
 
-<div id="tcwSearchbarTest" style="white-space:none;">
+	<ul class="menu">
+		<li><a href="/">HOME</a></li>
+		<li><a href="/indexDeals.php">DEALS</a></li>
+		<li><a href="/indexProducts.php">PRODUCTS</a></li>
+		<!--<li><a href="#">SERVICES</a></li>-->
+		<li><a href="/indexAuctions.php">AUCTIONS</a></li>
+		<li><a href="/music/index.php">MUSIC</a></li>
+		<!--<li><a href="#">WANTS</a></li>-->
+		<li><a href="/indexContests.php">FREE &amp; CONTESTS</a></li>
+	</ul>
+	
+	<ul class="menuRight">	
+		<li class="menuRightLI"><a href="/myaccount/" class="selected" style="color:#FFFFFF;">MEMBER CENTER</a></li>	
+	</ul>
+	
+	<div class="clearboth0"></div>	
 
-<div style="float:right; line-height:30px; padding-right:10px; font-size:11px;"><a href="/adv_search.php">ADVANCED SEARCH</a></div>
+	<div class="headerSearchBox">
+		<span style="float:right; line-height:20px;"><a href="/adv_search.php" style="color:#FFFFFF; position:relative; top:2px;">Advanced Search</a></span>
+		
+			<form method="post" action="/search/resultsv2.php" id="searchForm">
+            <input type="hidden" name="search" value="t">
+            <input type="text" name="text_search" class="searchBox" value="" id="text_search" onkeyup="showLiveResults(this.value)" autocomplete="off">	
+			<label for="searchDropdown" style="position:relative; top:2px; float:left; ">in</label>
 
-<div style="float:left; line-height:30px; padding-left:10px;">
-<form method="post" action="/search/resultsv2.php" id="searchForm">
-<input type="hidden" name="search" value="t">
+            <select name="dept" id="dept" class="dropdown" style="width:150px;">
+                <option value="-1">All Departments</option>
+                                    <option value="228">Antiques &amp; Collectibles</option>
+                                    <option value="1">Apparel</option>
+                                    <option value="229">Arts &amp; Crafts</option>
+                                    <option value="2">Books</option>
+                                    <option value="3">Business</option>
+                                    <option value="4">Computers</option>
+                                    <option value="363">Digital Downloads</option>
+                                    <option value="237">Education</option>
+                                    <option value="5">Electronics</option>
+                                    <option value="6">Food &amp; Beverage</option>
+                                    <option value="7">Gifts &amp; Flowers</option>
+                                    <option value="8">Health &amp; Wellness</option>
+                                    <option value="9">Home &amp; Garden</option>
+                                    <option value="233">Jewelry</option>
+                                    <option value="387">Magazine Subscriptions</option>
+                                    <option value="11">Miscellaneous</option>
+                                    <option value="12">Movies, Music &amp; Games</option>
+                                    <option value="13">Personal Care &amp; Beauty</option>
+                                    <option value="14">Pet Care</option>
+                                    <option value="242">Phones &amp; Accessories</option>
+                                    <option value="240">Real Estate</option>
+                                    <option value="241">Romance</option>
+                                    <option value="15">Sports &amp; Outdoors</option>
+                                    <option value="436">TCredits</option>
+                                    <option value="16">Tools &amp; Automotive</option>
+                                    <option value="17">Toys, Kids &amp; Baby</option>
+                                    <option value="243">Travel</option>
+                            </select>
+		<input type="image" src="/images/site/bg_searchButton.png" alt="Go" id="searchButton">
+            </form>	
+		
+		<div class="clearboth0"></div>		
+	
+	</div>
 
-<span style="font-size:15px; letter-spacing:-1px; font-weight:bold; color:#333333;">What are you looking for?&nbsp;</span>
-<input name="text_search" type="text" id="text_search" size="18" class="forms" style="background-image:url(/images/site/bg_searchBar.gif); position:relative; top:-1px; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#333333; border-radius:15px; padding-left:20px; width:325px; margin-right:5px;" onkeyup="showLiveResults(this.value)" autocomplete="off">&nbsp; 
-
-<strong>SEARCH</strong>&nbsp; 
-<select name="dept" id="dept" class="forms" style="width:150px; height:25px; font-size:12px;">
-<option value="-1">All Departments</option>
-<option value="228">Antiques &amp; Collectibles</option>
-<option value="1">Apparel</option>
-<option value="229">Arts &amp; Crafts</option>
-<option value="2">Books</option>
-<option value="3">Business</option>
-<option value="4">Computers</option>
-<option value="363">Digital Downloads</option>
-<option value="237">Education</option>
-<option value="5">Electronics</option>
-<option value="6">Food &amp; Beverage</option>
-<option value="7">Gifts &amp; Flowers</option>
-<option value="8">Health &amp; Wellness</option>
-<option value="9">Home &amp; Garden</option>
-<option value="233">Jewelry</option>
-<option value="387">Magazine Subscriptions</option>
-<option value="11">Miscellaneous</option>
-<option value="12">Movies, Music &amp; Games</option>
-<option value="13">Personal Care &amp; Beauty</option>
-<option value="14">Pet Care</option>
-<option value="242">Phones &amp; Accessories</option>
-<option value="240">Real Estate</option>
-<option value="241">Romance</option>
-<option value="15">Sports &amp; Outdoors</option>
-<option value="436">TCredits</option>
-<option value="16">Tools &amp; Automotive</option>
-<option value="17">Toys, Kids &amp; Baby</option>
-<option value="243">Travel</option>
-</select>
-<input type="image" src="/images/buttons/b_Go.gif" alt="Go" width="34" height="20" align="absmiddle" style="margin-left:5px; position:relative; top:-2px;">
-</form>
 </div>
-</div>
 
-</div>
-<!------------------------------------------------------------------------------ end TripleClicks header -->
+<!------------------------------------------------------------------------------ End TripleClicks header -->
+
 
 <!------------------------------------------------------------------------------ Clear Both -->
-<div class="tcClearBoth">
-</div>
-<!--[if IE 8]><div style="height:10px;"></div><![endif]-->
-<div id="liveSearch" style="position:absolute;width:350px;border: 3px dashed black; padding: 8px;left:0px;top:0px;z-index:100;display:none;background-color:white;"></div>
-<!------------------------------------------------------------------------------ end TripleClicks clear both -->
+<div class="tcClearBoth"></div>
 
+<!--[if IE 8]><div style="height:10px;"></div><![endif]-->
+
+<div id="liveSearch" style="position:absolute;width:350px;border: 3px dashed black; padding: 8px;left:0px;top:0px;z-index:100;display:none;background-color:white;"></div>
 <div style="margin:0 auto; width:960px;">
 <img src="/images/site/h_tcsh-cstcare960.jpg" alt="ECA" width="960" height="60" border="0" usemap="#ECA">
 <map name="ECA" id="ECA">
@@ -1353,23 +1544,37 @@ a.mainSidebarLink3:hover {
 
 <div id="MainSidebar">
 
+<!--
 <a href="/all_departments.php" class="mainSidebarLink3">Browse All Products</a>
 <a href="/dotd.php" class="mainSidebarLink1">Deal of the Day</a>
 <a href="/search/deal/close" class="mainSidebarLink1">Closeouts</a>
 <a href="/search/deal/hot" class="mainSidebarLink1">Hot Deals</a>
 <a href="/search/na/1" class="mainSidebarLink1" style="margin-bottom:0px;">Newly Added</a>
-<div class="dividerDotted"></div>		
+<div class="dividerDotted"></div>
+-->
 
 	<div style="font-size:11px;">
-	
+		
 		<div>
 			<p align="center"><img src="/images/site/h_PBsidebar.gif" alt="Pricebenders" width="170" height="55" style="margin-bottom:5px;"></p>
 			<p align="center">TripleClicks members are saving up to 99% on these items, which are being bid on right now!</p>
 			<p>&nbsp;</p>
 			
+							
+								
+					
+				                                        	                    					<p align="center"></p>			
+					<p align="center" style="font-size:11px; font-weight:bold;">TCredits - 250 pack</p>
+					<p align="center"><img src="/SFIImages/AUCTCredit250.jpg" width="160" style="margin:5px; "></p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $0.51*</p>
+					<p align="center"><a href="/pbXRA.php" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
+					<p>&nbsp;</p>
+				
+								
+				<p align="center">Bid on these items<br> 
+				before they're gone!</p>
+				<p align="center" style="font-size:11px; font-style:italic;">*Refresh browser for updated price</p>	
 			
-						
-			<p align="center" style="padding:10px; display:block; background-color:#eeeeee; border-radius:5px;">No auctions are currently live.  For upcoming auctions, <a href="/PBauctionSchedule.php">check out the Auction Schedule</a>.</p>
 											
 		</div>
 		
@@ -1457,81 +1662,90 @@ a.mainSidebarLink3:hover {
 
 <!------------------------------------------------------------------------------ end TripleClicks index body -->
 <!------------------------------------------------------------------------------ Clear Both -->
-<div class="tcClearBoth"></div>
+<div class="tcClearBoth">
+</div>
 <!------------------------------------------------------------------------------ end TripleClicks clear both -->
 
 <!------------------------------------------------------------------------------ TripleClicks footer -->
-<div id="tcWideFooter">
+<!--END SITEWRAP-->
+<div id="footer2012">
 
-	<div id="tcwFootTop1"><div class="padding5px">CUSTOMER CARE</div></div>
-   	<div id="tcwFootTop2"><div class="padding5px">GIVING BACK</div></div>
-    <div id="tcwFootTop3"><div class="padding5px">SAFE &amp; SECURE SHOPPING</div></div>
-	<div id="tcwFootTop4"><div class="padding5px">POWERED BY</div></div>
-	
-<div style="clear:both; height:0px;"></div>
-
-	<div id="tcwFootBot1">
-	<div class="padding5px">
-		<div style="float:left;">
-    		• <a href="/contact_us.php">Contact Us</a><br>
-			• <!--Start AliveChat Chat Link Code-->
-					<a style="cursor:pointer;text-decoration:underline; color:#006699;" onclick="javascript:window.open('//www.websitealive1.com/447/rRouter.asp?groupid=447&amp;websiteid=417&amp;departmentid=474&amp;dl='+escape(document.location.href),'','width=400,height=400');">Live Chat</a>
-					<!--End AliveChat Chat Link Code-->
-					<br>
-      		• <a href="/myaccount/order_status.php">Order Status</a><br>					
-       		• <a href="/privacy_policy.php">Privacy Policy</a>
-    	</div>
-		<div style="float:left; margin-left:5px;">• <a href="/myaccount/payment_options.php">Payment Options</a><br>
-			• <a href="/returns_refunds.php">Returns &amp; Refunds</a><br>
-	   		• <a href="/terms_and_conditions.php">Terms &amp; Conditions</a><br>
-		</div>
-		<div style="clear:both; height:0px;"></div>
-	</div>
-	</div>
-    
-    <div id="tcwFootBot2">
-	<div class="padding5px">
-		<img src="/images/logos/logo-Care_sm.gif" style="float:right; margin-left:10px;">
-		TripleClicks donates a portion of every sale to the international charity <a href="http://www.care.org" target="_blank">CARE</a>.					
-	</div>
-	</div>
-   	
-    <div id="tcwFootBot3">
-	<div class="padding5px">
-		<div>
-			<div style="float:left; padding-left:60px;">
-				<img src="/images/site/i_PaymentLogos.gif">			
-			</div>
-			<div style="float:left;">
-				<a href="//nebraska.bbb.org/WWWRoot/Report.aspx?site=135&amp;bbb=0714&amp;firm=207000239" target="_blank"><img src="/images/site/i_bbb.gif" border="0" style="float:right;"></a>
-			</div>
-			<div style="clear:both;"></div>	
-		</div>
-    </div>
-	</div>
-
-	<div id="tcwFootBot4">
-	<div class="padding5px">
-		<img src="/images/logos/logo-sfi_sm.gif" alt="SFI" width="59" height="25">
+	<div id="customerCare">
+	<span class="footerHeader">Customer Care</span><br>
+	<br>
+		<a href="/contact_us.php">Contact Us</a><br>
+		<!--Start AliveChat Chat Link Code-->
+		<a style="cursor:pointer; color:#006699;" onclick="javascript:window.open('//www.websitealive1.com/447/rRouter.asp?groupid=447&amp;websiteid=417&amp;departmentid=474&amp;dl='+escape(document.location.href),'','width=400,height=400');">Live Chat</a>
+		<!--End AliveChat Chat Link Code-->
 		<br>
-
-			
-			Your TripleClicks Affiliate is:<br>
-			<strong>
-			 
-			</strong>
-			</div>
+      	<a href="/myaccount/order_status.php">Order Status</a><br>
+        <a href="/myaccount/payment_options.php">Payment Options</a><br>
+		<a href="/returns_refunds.php">Returns &amp; Refunds</a><br>
+	   	<a href="/terms_and_conditions.php">Terms &amp; Conditions</a><br>
+       	<a href="/privacy_policy.php">Privacy Policy</a>
 	</div>
 	
-		<div style="clear:both; height:0px;"></div>
+	<div id="giving">
+	<span class="footerHeader">Giving Back</span><br>
+	<br>
+	<img src="/images/logos/logo-Care_sm.gif" style="float:left; padding-right:10px;">
+	TripleClicks donates a portion of every sale to the international charity CARE.<br>
+	</div>
+	
+	<div id="safeSecure">
+	<span class="footerHeader">Safe &amp; Secure Shopping</span>
+	<br>
+	<br>
+	<img src="/images/site/i_PaymentLogos.gif" width="157" height="65" style="float:left; padding-right:10px;">
+	<img src="/images/site/i_bbb.gif" width="39" height="65" style="float:left; padding-right:10px;">
+		<div style="float:left; width:150px; text-align:center; ">
+			                <!-- IF HTTP -->
+                TripleClicks features secure checkout from Verisign
+            			<br><br>
+				<strong>Currency:</strong><br>
+				<select name="currency" id="currency" class="forms" style="margin-top:3px;" onchange="updateCurrency();">
+									<option value="USD">United States Dollars</option>
+									<option value="EUR">Euros</option>
+									<option value="GBP">United Kingdom Pounds</option>
+									<option value="JPY">Japanese Yen</option>
+									<option value="CAD">Canadian Dollars</option>
+									<option value="AUD">Australian Dollars</option>
+									<option value="RUB">Russian Rubles</option>
+									<option value="MXN">Mexican Pesos</option>
+									<option value="NZD">New Zealand Dollars</option>
+									<option value="SGD">Singapore Dollars</option>
+									<option value="HKD">Hong Kong Dollars</option>
+									<option value="SEK">Swedish Kronor</option>
+									<option value="NOK">Norwegian Kroner</option>
+									<option value="MYR">Malaysian Ringgit</option>
+									<option value="ZAR">South African Rand</option>
+									<option value="CHF">Swiss Francs</option>
+									<option value="INR">Indian Rupees</option>
+								</select>			
+		</div>
+	</div>
+	
+	<div id="sponsor">
+	<span class="footerHeader">Powered by</span><br>
+		<br>
+		<img src="/images/logos/logo-sfi_sm.gif" width="59" height="25"><br>
+		<br>
+			</div>	
+	
+	<div style="clear:both; height:0px;"></div>		
 
 </div>
-
-<div align="center" style="text-align:center; padding-top:10px;">
-	<span style="font-size:11px;">Copyright @ 2011, Carson Services, Inc.</span>
-</div>
-
+	
 <div class="tcClearBoth"></div>
+
+
+
+<div align="center" style="text-align:center; padding-top:10px; font-size:11px;">
+	Copyright © 2012, Carson Services, Inc.
+</div>
+
+
+
 
 <!------------------------------------------------------------------------------ end TripleClicks footer -->
 
@@ -1550,6 +1764,11 @@ try {
     pageTracker._trackPageview();
 } catch(err) {}</script>
 
+
+<div style="display:none;">
+<img src="/images/buttons/b_bidButton.gif" alt="BidButton">
+
+</div>
 
 
 
