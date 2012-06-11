@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119010231id_/http%3A//www.bloodhorse.com/horse-racing/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612015109id_/http%3A//www.bloodhorse.com/horse-racing/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Advertising | About Us | BloodHorse.com
 
