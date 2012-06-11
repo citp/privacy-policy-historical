@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easytobook.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228151622id_/http%3A//www.easytobook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytobook.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611181807id_/http%3A//www.easytobook.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - EasyToBook.com
+# 
 
-Easytobook.com respects the privacy of all our customers and therefore all your personal data will be attended to with the highest confidentiality.
+Easytobook respects the privacy of all our customers and therefore all your personal data will be attended to with the highest confidentiality.
 
 In order to offer you the fastest and easiest service, we do request your personal data upon booking with us. Your personal data will only be shared with your chosen hotel venue. Easytobook.com will never share your personal data to other parties than your chosen hotel venue, except if the Dutch government obliges us to do so.
 
@@ -15,7 +15,9 @@ Easytobook.com makes use of cookies; small simple text files that are stored on 
 Cookies are used to trace which information, products or services interest you, so more personal advertisement can be directed at you, on this and other websites. They can also save your set preferences for a specific site or service for your convenience.  
 At any time, you can set your cookies from your browser settings. You can switch them off totally, or be warned when a website wants to set a cookie for you.
 
-In order to guarantee bookings of our customers at hotel venues, we require the following personal data:
+* * *
+
+**In order to guarantee bookings of our customers at hotel venues, we require the following personal data:**
 
   * First name of the guest
   * Last name of the guest
@@ -25,6 +27,8 @@ In order to guarantee bookings of our customers at hotel venues, we require the 
   * Card details
 
 
+
+* * *
 
 Your card details: 
 
@@ -36,16 +40,22 @@ To protect our customers, our server and network are protected with firewalls an
 
 Rest assured, easytobook.com will not sell your personal information. You can count on us to keep your credit card information secure and always protect your privacy.
 
+* * *
+
 SSL Technology 
 
 The SSL encryption process converts the information you enter into bits of code which are securely transmitted over the Internet when you submit your Booking Form. This scrambled data cannot be read as the information travels over the Internet.  
 Once the encrypted data is received by our secure server, it is translated back into its original form so that our systems can read and process it. Your credit card information is not transmitted over the Internet again.
 
-Book by telephone
+* * *
+
+Book by telephone 
 
 If you prefer to give your credit card details over the telephone, you can call our Customer Service Team with your credit card information and booking details, and we will process the booking for you. Call +31 20 5313300
 
-[See full list of frequently asked questions (FAQ).](https://web.archive.org/faq/ "Help and FAQ")
+[See full list of frequently asked questions (FAQ).](https://web.archive.org/faq/?amu=280822650 "Help and FAQ")
+
+* * *
 
 Email correspondence from easytobook.com:
 
@@ -53,6 +63,5 @@ After you have processed your booking on our website, we will send you a confirm
 
 To develop our booking service, we may send you after sales emails. If you do not appreciate such emails you can easily opt out by clicking on the Preferences link on the top of our Newsletter. Alternatively you can send an email to support@ematters.nl to unsubscribe.
 
-Should you have any questions or remarks about our privacy statement, please contact at [ customercare@easytobook.com ](mailto:customercare@easytobook.com) or by telephone on +31 20 531 33 00.
-
-[See full list of frequently asked questions (FAQ).](https://web.archive.org/faq/ "Help and FAQ")
+Should you have any questions or remarks about our privacy statement, please contact at [ customercare@easytobook.com ](mailto:customercare@easytobook.com) or by telephone on +31 20 531 33 00.  
+[See full list of frequently asked questions (FAQ).](https://web.archive.org/faq/?amu=280822650 "Help and FAQ")
