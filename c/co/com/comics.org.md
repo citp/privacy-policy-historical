@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comics.org privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212073124id_/http%3A//www.comics.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.org privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611182006id_/http%3A//www.comics.org/privacy) for the most accurate reproduction.*
 
 # GCD Privacy Policy
 
