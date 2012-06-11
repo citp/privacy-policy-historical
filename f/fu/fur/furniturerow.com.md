@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturerow.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142321id_/http%3A//www.furniturerow.com/aboutUs/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturerow.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611091432id_/http%3A//www.furniturerow.com/aboutUs/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Furniture Row Privacy Policy
 
