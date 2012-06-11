@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bet.co.za privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225134316id_/http%3A//www.bet.co.za/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet.co.za privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611063839id_/http%3A//www.bet.co.za/Privacy_Policy) for the most accurate reproduction.*
 
 # BET.CO.ZA PRIVACY POLICY - BET.co.za - simple sports betting - live betting odds & spread betting.
 
