@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119044807id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611132901id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | tripsta.co.uk
+# Online Travel Agency Safety Policy | tripsta.co.uk
+
+_Print_
 
 **Secure Transactions-Privacy Policy  
 **
