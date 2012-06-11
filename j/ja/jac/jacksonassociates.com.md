@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209204543id_/http%3A//www.jacksonassociates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611070625id_/http%3A//www.jacksonassociates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Product Testing Quantitative Research Focus Group Data Collection | Jackson Associates | Atlanta, Boston
 
