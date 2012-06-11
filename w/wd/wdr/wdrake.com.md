@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/FAQ.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/CustomerService/FAQ.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions - Customer Service - Walter Drake
 
   * About Us
   * Ordering Online
   * Order Form
+  * EasyPAY
   * Product Search and Availability
   * Personalized and Photo Merchandise
   * Shipping
   * Returns
+  * Services
   * Security and Privacy
   * Toy Safety
-  * Services
   * Canada
-  * Processing Fee
+  * Processing 
   * Auto Refill
   * Gift Certificates
 
@@ -45,23 +46,51 @@ Attn: Product Ideas
 Oshkosh, WI 54906  
 [newideas@wdrake.com](mailto:newideas@wdrake.com)
 
-Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/ContactUs.aspx). 
+Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/CustomerService/ContactUs.aspx). 
+
+How do I get to Walter Drake locations?
+
+Directions to our Executive Offices  
+250 City Center  
+Oshkosh, WI 54906  
+Phone: 1-920-231-3800
+
+From Highway 41:  
+Exit Highway 41 at 9TH AVENUE  
+IF NORTHBOUND: Turn RIGHT  
+IF SOUTHBOUND: Turn LEFT  
+Turn LEFT onto SOUTH MAIN ST  
+Turn LEFT onto CEAPE AVE   
+Visitor parking is in front of office along river.
+
+Directions to our Distribution Center  
+2155 South Oakwood Road  
+Oshkosh, WI 54906  
+Phone: 1-920-231-3800
+
+From Highway 41:  
+Exit Highway 41 at Highway 44.  
+If NORTHBOUND, turn left.  
+If SOUTHBOUND, turn right.  
+Turn RIGHT on Highway 91.  
+Turn RIGHT on OAKWOOD ROAD.  
+Easy Comforts is on the left before the stop sign. 
 
 What are the Walter Drake Affiliate Programs?
 
-We recently partnered with Linkshare to manage our affiliate program. Join our affiliate program today and earn cash by promoting our brand and products on your website. When one of your customers visits our site and makes a purchase, we pay you a commission. For more information and to join, please visit the [Linkshare affiliate website](http://www.linkshare.com/affiliates/affiliates.shtml). 
+We recently partnered with Linkshare to manage our affiliate program. Join our affiliate program today and earn cash by promoting our brand and products on your website. When one of your customers visits our site and makes a purchase, we pay you a commission. For more information and to join, please visit the [Linkshare affiliate website](http://www.linkshare.com/advertisers/publishers/). 
 
 What is the Walter Drake Environmental Policy?
 
 Did you know?
 
-* Walter Drake Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/Copy%20of%20Environmental%20Emmisions%20Equivalents.xls).  
+* Walter Drake Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/Copy%20of%20Environmental%20Emmisions%20Equivalents.xls).  
 * Walter Drake Company uses corrugate shipping containers made from over 60% post consumer content.  
 * Walter Drake Company is committed to recycling. Annually, our distribution center recycles 600 tons of cardboard and 60 tons of office paper.  
-* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/Paper%20Reduction%202005-2007.pdf).  
+* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/Paper%20Reduction%202005-2007.pdf).  
 * The Walter Drake Foundation donates more than $100,000 each year to support charitable, scientific, literary and educational institutions
 
-[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/Environmental_Policy.aspx). 
+[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/CustomerService/Environmental_Policy.aspx). 
 
   
 
@@ -72,23 +101,29 @@ You can enter your promotion or source code in a box located near the bottom of 
 
 Can I cancel an order after it has been submitted?
 
-You may not cancel your submitted order through our website. You may call our customer service department at 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central). You may also email us at [ help@WDrake.com](mailto:help@WDrake.com). Have your customer order number ready to give to us. We’ll be more than willing to assist you. 
+You cannot cancel your submitted order through our website at this time; please contact our Customer Service Department
 
-Can I check my phone or mail orders on the web?
+ **Phone: 1-855-202-7393**  
+Monday-Friday 8:00AM - 10:00PM  
+Saturday 8:00AM - 5:00PM (Central)
 
-Once you place an order and establish an account at wdrake.com you will be able to check the status of the orders you place online. At this time you are not able to check the status of your phone, fax, or mail orders through your online account. [Click here to log into your account or create an account](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/MyAccount/Default.aspx). 
+ **Email:[ help@WDrake.com](mailto:help@WDrake.com)**  
+Please allow 24 hours turn-around time for an email response. 
 
 Can I get help with my online order?
 
-Yes! You may call our customer service department at 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central). We will be happy to help you. 
+Yes! Please contact our Customer Service Department.
 
-How does Installment Billing work?
+ **Phone: 1-855-202-7393**  
+Monday-Friday 8:00AM - 10:00PM  
+Saturday 8:00AM - 5:00PM (Central)
 
-Installment billing is available for credit card orders only and is subject to approval. (Debit cards may be used however charges will be preauthorized and funds will be reserved in your account prior to billing.) Merchandise total must exceed $75 after discounts, promotions, and gift certificates have been applied to your order. Your merchandise total will be divided into equal payments. The first payment will also include shipping & handling fees and sales tax and will be charged to your credit card on the date we ship your order. The balance due will be divided into equal monthly payments each commencing 30 days from the date of your previous payment. We will automatically charge your credit card until full payment is received. In the case of split shipments, drop shipments, or backorders your payments may be split based on when your items ship. There is no interest charged by Walter Drake for installment billing. Normal interest charges may be applied by your credit card company per your individual card agreement. If unable to obtain credit card authorization at the time of billing, you authorize Walter Drake to charge up to the full unpaid balance to another credit card we have on file. Installment Billing only available on select offers. 
+ **Email:[ help@WDrake.com](mailto:help@WDrake.com)**  
+Please allow 24 hours turn-around time for an email response. 
 
 Can I place an order online and send you a check?
 
-We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/images/OrderForm.pdf) from the website and mail it in with a check. 
+We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/images/OrderForm.pdf) from the website and mail it in with a check. 
 
 Do I have to pay sales tax?
 
@@ -106,35 +141,11 @@ Some customers have asked why these new requirements exist. We are required to p
 
 Do I have to register to place an order?
 
-No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/MyAccount/Default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
+No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/MyAccount/Default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
 
 How do I check the status of my web order?
 
 You may check the status of your order online, provided you have previously created an account. To check on the status of your order, log in to your account and click on the Order Status link. 
-
-I forgot my password. What do I do?
-
-What should I expect to happen once I place an online order?
-
-Once you submit your order, we will email you twice, confirming that we have received your order. The initial confirmation does not contain any details, but lets you know we have received your order. You will then receive a more detailed confirmation within minutes of ordering. We will also email a shipping confirmation when your order has been shipped from our fulfillment center. 
-
-When I add a product to my basket, nothing happens.
-
-A couple of tips may be helpful while shopping at our website:
-
-1) Please enable cookies on your computer for our website, as this is necessary when entering codes from our catalogs or email offers. You may also want to remove any existing cookies that our website has added to your computer. You can do this in your Internet Explorer toolbar by going to Tools, Internet Options, and then Delete Cookies.
-
-2) Verify that your current security level is at, or below, Medium. You may do this in Internet Explorer by going to Tools, Internet Options, then to the “Security” tab. There is a box in the lower half of the window that is called “Security level for this zone”. If this box says “Medium”, “Medium-Low” or “Low”, do not change it. If the box shows “High” please move the slider down to “Medium”, and press the “OK” button.
-
-We hope this will enhance your shopping experience on our website. If you continue to have further difficulties with our website, please contact us at the number below to place your order. 
-
-When will my credit card be charged?
-
-Your credit card is charged when the merchandise ships from our fulfillment center. Back orders are not charged until the merchandise ships. 
-
-Which credit cards do you accept?
-
-We accept Visa, MasterCard, American Express and Discover. 
 
 How do I track an Order's Status?
 
@@ -144,18 +155,19 @@ How can I find more about my previous Orders?
 
 You can check your order history at any time by logging into your account and clicking on the "Order History" link. 
 
-What are my Ordering and Payment Options?
+I forgot my password. What do I do?
 
-Whether this is your first time shopping online or your hundredth time, we want your shopping experience to be as enjoyable as possible. That's why we offer two easy and convenient ways to shop the Walter Drake website. Take a look...
+What should I expect to happen once I place an online order?
 
-  1. One way to shop our website is to simply browse through the items by clicking on a category along the top of the screen or just by selecting one of the many items [we feature each month](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/Default.aspx). This way you'll be able to take a peek at all of our handy, hard to find, great value gadgets and gifts.
-  2. And if you have an idea of what you're looking for but aren't sure exactly where to find it, try our Search Feature located at the top of the page. It allows you to look for an item using a keyword or by simply typing in the 6-digit product number.
-Certain transactions on our site may result in a pop-up page being displayed. If you click on the "Add to Cart" button and nothing appears to happen, you probably have a pop-up blocker preventing the next page from showing. You can temporarily disallow the pop-up blocker from preventing display. Please see instructions for your particular blocker software.
+Once you submit your order, we will email you twice, confirming that we have received your order. The initial confirmation does not contain any details, but lets you know we have received your order. You will then receive a more detailed confirmation within minutes of ordering. We will also email a shipping confirmation when your order has been shipped from our fulfillment center. 
 
-We accept Visa, MasterCard, American Express and Discover.
+When will my credit card be charged?
 
+Your credit card is charged when the merchandise ships from our fulfillment center. Back orders are not charged until the merchandise ships. 
 
+Which credit cards do you accept?
 
+We accept Visa, MasterCard, American Express and Discover. 
 
 What are your terms of Use?
 
@@ -219,13 +231,20 @@ Do you have an order form that I can print?
   
 
 
+How does Installment Billing work?
+
+Installment billing is available for credit card orders only and is subject to approval. (Debit cards may be used however charges will be preauthorized and funds will be reserved in your account prior to billing.) Merchandise total must exceed $75 after discounts, promotions, and gift certificates have been applied to your order. Your merchandise total will be divided into equal payments. The first payment will also include shipping & handling fees and sales tax and will be charged to your credit card on the date we ship your order. The balance due will be divided into equal monthly payments each commencing 30 days from the date of your previous payment. We will automatically charge your credit card until full payment is received. In the case of split shipments, drop shipments, or backorders your payments may be split based on when your items ship. There is no interest charged by Walter Drake for installment billing. Normal interest charges may be applied by your credit card company per your individual card agreement. If unable to obtain credit card authorization at the time of billing, you authorize Walter Drake to charge up to the full unpaid balance to another credit card we have on file. Installment Billing only available on select offers. 
+
+  
+
+
 Can I find out if a product I want to order is in stock?
 
 Yes, we will let you know about availability before you add a product to your cart. Additionally, once you review your shopping cart, inventory availability will be listed for each of your products. 
 
 I can't find an item on your website that I know I saw in your catalog. Can I still order it?
 
-Please call our customer service department at 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central) to check the availability of the product you wish to order. 
+Please call our customer service department at 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday 8:00 AM - 5:00 PM (Central) to check the availability of the product you wish to order. 
 
 I can't find the product I am looking for. How do I search for it?
 
@@ -233,6 +252,16 @@ Enter the item number, the product name, or a description of the product in the 
 
   
 
+
+Can I order photo products from your website?
+
+Yes, you can. You may choose to either upload your photos or mail them to us. Should you choose to mail in your photos, please print your name, address, and order number on the back of your photo(s) and send to:
+
+Walter Drake  
+250 City Center  
+Oshkosh, WI 54906
+
+Please allow for original advertised processing time once your photo is received at Walter Drake. 
 
 How do I send my photos in for the photo product I ordered?
 
@@ -257,17 +286,7 @@ Please note that you may upload photos to accompany your order by following the 
 
 After I've typed in the personalization for a product, how do I review it to make sure it is correct?
 
-You can review personalization when you are on the [Shopping Cart page](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/Checkout/CheckoutStep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
-
-Can I order photo products from your website?
-
-Yes, you can. You may choose to either upload your photos or mail them to us. Should you choose to mail in your photos, please print your name, address, and order number on the back of your photo(s) and send to:
-
-Walter Drake  
-250 City Center  
-Oshkosh, WI 54906
-
-Please allow for original advertised processing time once your photo is received at Walter Drake. 
+You can review personalization when you are on the [Shopping Cart page](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/Checkout/CheckoutStep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
 
 If I order a personalized product and non-personalized product, will I receive all merchandise in the same order or in multiple shipments?
 
@@ -293,15 +312,13 @@ USPS Priority Mail is for customers OUTSIDE THE CONTIGUOUS UNITED STATES ONLY. I
 
 Do you ship internationally?
 
-Yes, we will ship to APO and FPO address as well as Alaska, Hawaii, Puerto Rico, US Territories (see “Do you have express shipping?” above for more details) and Canada (see Canadian FAQs). Also, if you live outside the US and wish to ship to a US state or territory, we can arrange to have your order set up with a foreign billing address and US shipping address by calling Customer Service at 1-855-202-7393. 
+Yes, we will ship to APO and FPO address as well as Alaska, Hawaii, Puerto Rico, US Territories and Canada (see Canadian FAQs). Also, if you live outside the US and wish to ship to a US state or territory, we can arrange to have your order set up with a foreign billing address and US shipping address by calling Customer Service at 1-855-202-7393. 
 
 How do you ship orders?
 
 We use USPS as our primary delivery agent. In most cases, orders that ship from our distribution center will arrive in approximately 7 to 9 business days. We process all non-personalized, in-stock items within 2 business days of receipt of your order. Allow 2 to 3 additional business days for orders with personalized items. Upon completion of your order allow 5 business days for delivery. Please use a street address whenever possible; P.O. Boxes may delay delivery.
 
 All items that are in stock will ship together unless they are physically extra large or are drop-ship (direct delivered from another location).
-
-We also have express shipping options available via UPS. See “Do you have express shipping?” above for more details 
 
 What are your shipping costs?
 
@@ -322,55 +339,57 @@ Shipping Costs
 
 Merchandise Subtotal| Please Add  
 ---|---  
-$0.00 - $19.99| $3.99  
-$20.00 - $39.99| $6.99  
-$40.00 - $59.99| $8.99  
+$0.00 - $9.99| $3.99  
+$10.00 - $19.99| $4.99  
+$20.00 - $29.99| $6.99  
+$30.00 - $44.99| $7.99  
+$45.00 - $59.99| $9.99  
 $60.00 - $79.99| $11.99  
 $80.00 - $99.99| $13.99  
 $100.00 or more| $15.99  
   
-What if I have a credit card replacement or exchange?
+What is the return/exchange policy?
 
-On credit card replacements or exchanges, the original order will be credited and the replacement or exchange will be recharged. 
+All returns must be made within 45 days from the date of shipment. We carefully inspect orders prior to shipment; upon receipt, please inspect your purchase and notify us of any damage. We will arrange for a prompt replacement. If you are dissatisfied with any _non-personalized_ merchandise, you may return your purchase for a refund of the merchandise value. Shipping charges will not be reimbursed.
 
-What should I do if I received a damaged, missing or incorrectly personalized item(s)?
+We cannot accept returns on _personalized_ items for reasons other than defects in the material or workmanship.
 
-Call, write, fax or email our Customer Service Department. There is a 24-hour turn-around period for Customer Service emails.
+We also cannot offer refunds on our clearance items, but would be happy to exchange your item for credit or replacement.
 
-Call: 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central)  
-Fax: 1-920-231-6942  
-Email: [help@WDrake.com](mailto:help@WDrake.com)  
-Write:  
-Walter Drake, Return Goods  
-2155 S. Oakwood Road  
+If you receive a damaged or incorrectly personalized item, or if you are missing an item please contact our Customer Service Department.
+
+ **Phone: 1-855-202-7393**  
+Monday- Friday 8:00AM – 10:00PM  
+Saturday 8:00AM – 5:00PM (Central) 
+
+**Email:[help@wdrake.com](mailto:help@wdrake.com)**  
+Please allow 24 hours in turn-around time for an email response.
+
+ **Fax: 1-920-231-6942**
+
+How can I make a return or exchange?
+
+Return or exchange using your packing slip. To return an item, fill in all applicable information on the reverse side of your packing slip and send it to us along with the item. A return shipping label is provided on the packing slip. Use the shipping company of your preference.
+
+ **If you no longer have your packing slip,** please put contact information, item number and price, action desired (refund or replacement), method of payment if needed as well as the reason for returning the merchandise on a separate sheet of paper and mail it along with the item to:
+
+Walter Drake  
+Return Goods  
+2155 S. Oakwood Rd.  
 Oshkosh, WI 54906
 
-All other merchandise can be returned via Parcel Post. 
+ **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/CustomerService/WebOnlyReturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit=1&loc=en_US&appid=XOLT&country=US&Postal=54901&trans_mode=001). 
 
-How can I do a Return or Exchange?
+  
 
-All returns must be made within 45 days from the date of shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship.
 
-Due to the bargain prices of our clearance items, we cannot do refunds but will be happy to exchange your item for credit or replacement.
+How can I request a catalog?
 
-If you have any damaged, missing or incorrectly personalized item(s), call, write, fax or email our Customer Service Department.
+How can I signup for Walter Drake emails?
 
-Call: 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central)  
-FAX: 1-920-231-6942  
-Email: [help@WDrake.com](mailto:help@WDrake.com)
+How can I signup for Custom Corporate Gifts?
 
-Write:  
-Walter Drake, Return Goods  
-250 City Center  
-Oshkosh, WI 54906
-
-All other merchandise can be returned via Parcel Post.
-
-To return an item, fill in the reverse side of your packing slip and send it to us along with the item. If you no longer have your packing slip, please put all of the information on a separate sheet of paper and mail along with the item to: Return Goods, 2155 S. Oakwood Rd, Oshkosh, WI, 54906.
-
-Or, you can [print a return label](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/WebOnlyReturns.aspx) for your convenience and have the cost deducted from your return.
-
-On credit card replacements or exchanges, the original order will be credited and the replacement or exchange will be recharged. 
+We are pleased to help you create custom products for business gifts, commemoratives and incentive programs. Please call our Customer Service Department at 1-855-202-7393 for details. 
 
   
 
@@ -381,7 +400,14 @@ Your WDrake.com shopping is safe with the use of Secure Sockets Layer (SSL) and 
 
 What will you do with my name, email address, and order information?
 
-Your shipping and billing address may be used to send you our print catalog or catalogs and direct mail from our affiliated companies that we feel may be of interest to you. We may also trade your name and mailing address with other reputable mail order companies. If you do not want your name traded with or rented to other companies, email our customer service department at [help@WDrake.com](mailto:help@WDrake.com), call 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central) or fax us at 1-920-231-6942. There may be up to a 24-hour turnaround period for Customer Service emails. 
+Your shipping and billing address may be used to send you our print catalog or catalogs and direct mail from our affiliated companies that we feel may be of interest to you. We may also trade your name and mailing address with other reputable mail order companies. If you do not want your name traded with or rented to other companies, please contact our Customer Service Department.
+
+ **Phone: 1-855-202-7393**  
+Monday-Friday 8:00AM - 10:00PM  
+Saturday 8:00AM - 5:00PM (Central)
+
+ **Email:[help@WDrake.com](mailto:help@WDrake.com)**  
+Please allow 24 hours turn-around time for an email response. 
 
 Who can I contact with a Public Relations inquiry?
 
@@ -395,8 +421,7 @@ Comments about our Privacy Policy may be sent by e-mail to [help@WDrake.com](mai
 
 Our privacy policy addresses the following questions:
 
- **Who are we?**
-
+ **Who are we?**  
 Walter Drake is a leading direct marketing company in the United States, providing quality products to millions of customers through our catalogs and online.
 
 The Walter Drake business mailing address is:  
@@ -471,9 +496,14 @@ From time to time, Walter Drake will send out an email announcing special sales 
 
 * If you receive a promotional e-mail from us, click on the link "Click Here to Unsubscribe" found at the bottom of every e-mail letter we send out.  
 * You may unsubscribe in the "Email Signup" section of our web site.  
-* You may e-mail, call, or fax Customer Service:  
-Customer Service: [help@WDrake.com](mailto:help@WDrake.com)  
-1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central)
+* You may e-mail or call our Customer Service Department:
+
+ **Phone: 1-855-202-7393**  
+Monday-Friday 8:00AM - 10:00PM  
+Saturday 8:00AM - 5:00PM (Central)
+
+ **Email:[help@WDrake.com](mailto:help@WDrake.com)**  
+Please allow 24 hours in turn-around time for an email response.
 
  **Links To Other Sites**
 
@@ -503,20 +533,16 @@ Safety is a priority for the Walter Drake Company. All toys sold by Walter Drake
   
 
 
-How can I request a catalog?
-
-How can I signup for Walter Drake emails?
-
-How can I signup for Custom Corporate Gifts?
-
-We are pleased to help you create custom products for business gifts, commemoratives and incentive programs. Please call our Customer Service Department at 1-855-202-7393 for details. 
-
-  
-
-
 How do you ship to Canada?
 
-Walter Drake fulfills online Canadian orders through our partner, Borderfree. Simply add items to your order and click on Canadian Check Out to complete your order. You will see your total landed price including all duties, taxes, shipping and handling charges in Canadian dollars before you place your order. You will pay Borderfree the total amount for your order in Canadian dollars (which means that they will bill your credit card) and we will ensure that products get right to your door. If you have any questions about Canadian orders, call Customer Service at 1-855-202-7393 Monday-Friday 8:00 AM - 10:00 PM, Saturday and Sunday 8:00 AM - 5:00 PM (Central), or email us at [help@WDrake.com](mailto:help@WDrake.com). 
+Walter Drake fulfills online Canadian orders through our partner, Borderfree. Simply add items to your order and click on Canadian Check Out to complete your order. You will see your total landed price including all duties, taxes, shipping and handling charges in Canadian dollars before you place your order. You will pay Borderfree the total amount for your order in Canadian dollars (which means that they will bill your credit card) and we will ensure that products get right to your door. If you have any questions about Canadian orders, please contact our Customer Service Department.
+
+ **Phone: 1-855-202-7393**  
+Monday-Friday 8:00AM - 10:00PM  
+Saturday 8:00AM - 5:00PM (Central)
+
+ **Email:[help@WDrake.com](mailto:help@WDrake.com)**  
+Please allow 24 hours in turn-around time for an email response. 
 
 How much duty do you charge on Canadian orders?
 
@@ -542,7 +568,7 @@ Yukon Territory |  5% |  \- |  \-
   
 What are your shipping and handling charges for Canadian orders?
 
-Shipping and handling charges depend on the size and weight of your package and your ship-to destination. To know the exact shipping and handling charges before you buy, simply add items to your order and check out through our Canadian Check Out. Also included will be a processing fee. This is a flat fee to help defray the cost of handpicking your order. This fee will be included in the shipping and handling fee when you check out. We will tell you the exact charges for your desired item(s) before you actually place an order. 
+Shipping and handling charges depend on the size and weight of your package and your ship-to destination. To know the exact shipping and handling charges before you buy, simply add items to your order and check out through our Canadian Check Out. Also included will be Processing. This is a flat fee to help defray the cost of handpicking your order. Processing will be included in the shipping and handling fee when you check out. We will tell you the exact charges for your desired item(s) before you actually place an order. 
 
 What are my shipping options to Canada?
 
@@ -571,17 +597,19 @@ Within 24 hours of placing your order, you will receive an order confirmation em
 
 What is the returns policy for Canadian orders?
 
-All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20111125204706id_/http%3A//www.wdrake.com/WalterDrake/CustomerService/ContactUs.aspx). Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
+All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20120611092024id_/http%3A//www.wdrake.com/walterdrake/CustomerService/ContactUs.aspx). Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
 
   
 
 
-What is the Processing Fee?
+What is Processing?
 
-The Processing Fee helps us maintain the lowest possible prices and shipping charges by offsetting a portion of the cost to process and fulfill your order. We choose not to hide these costs within our shipping chart or cover them by raising the price of our products.
+Processing helps us maintain the lowest possible prices and shipping charges by offsetting a portion of the cost to process and fulfill your order. We choose not to hide these costs within our shipping chart or cover them by raising the price of our products.
 
-Join our [Buyer's Club](http://www.wdrake.com/WalterDrake/Shopping/ProductDetail.aspx?CID=Top+Reviews&SCID=Top+Reviews&ProductID=BC00345202) and receive FREE shipping and 10% discount on all orders.  
-OR  
+Join our [Buyer's Club](http://www.wdrake.com/WalterDrake/Shopping/ProductDetail.aspx?CID=Top+Reviews&SCID=Top+Reviews&ProductID=BC00345202) and receive FREE shipping and 10% discount on all orders.
+
+OR
+
 Sign up for our [Email list](https://www.wdrake.com/WalterDrake/CustomerService/EmailSignup.aspx) and receive special offers!
 
   
@@ -601,11 +629,25 @@ On your initial order you will pay the regular shipping and handling price as no
 
 How do I change my order?
 
-In order to make any changes such as the quantity of your delivery, the delivery date, your delivery address, email ([help@WDrake.com](mailto:help@WDrake.com)) or call (1-855-202-7393) customer service and they will be happy to help you out. It is best to call at least 7 to 10 days prior to your normal delivery date in order for us to try to accommodate your request. 
+In order to make any changes such as the quantity of your delivery, the delivery date, your delivery address, please contact our Customer Service Department.
+
+ **Phone: 1-855-202-7393**
+
+Monday-Friday 8:00AM – 10:00PM  
+Saturday: 8:00AM – 5:00PM (Central)  
+ **Email:[help@wdrake.com](mailto:help@wdrake.com)**  
+Please allow 24 hours turn-around time for an email response. 
 
 How do I cancel my program?
 
-If you wish to cancel your program for any reason, simply email ([help@WDrake.com](mailto:help@WDrake.com)) or call (1-855-202-7393) customer service and they will be happy to assist you. 
+If you wish to cancel your program for any reason, please contact our Customer Service Department.
+
+ **Phone: 1-855-202-7393**  
+Monday-Friday 8:00AM – 10:00PM  
+Saturday: 8:00AM – 5:00PM (Central)
+
+ **Email:[help@wdrake.com](mailto:help@wdrake.com)**  
+Please allow 24 hours turn-around time for an email response. 
 
 Walter Drake Auto Refill Terms and Conditions
 
