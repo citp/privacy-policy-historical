@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629154447id_/http%3A//www.door2windows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611073036id_/http%3A//www.door2windows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | door2windows
-
-  
-
 
 ### What information do we collect?
 
