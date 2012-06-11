@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130102039id_/http%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611061628id_/http%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoodRx
 
@@ -23,3 +23,14 @@ We may collect the following types of information:
 
 
 For site security purposes and to ensure that this service remains available to all users, GoodRx, Inc. uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+**To Opt-Out Of Future Communications:**  
+If you do not want to receive further communication from GoodRx you may contact us at the address or email address below.  
+
+
+GoodRx, Inc.  
+2644 30th St., Ste 101  
+Santa Monica, CA 90405  
+USA 
+
+[info@goodrx.com](mailto:info@goodrx.com)
