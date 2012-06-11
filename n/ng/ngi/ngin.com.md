@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngin.com privacy policy that was archived on 2011-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110821160520id_/http%3A//www.ngin.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngin.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611054626id_/http%3A//www.ngin.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | NGIN
 
@@ -59,29 +59,35 @@ While NGIN is careful in choosing its sponsors and advertisers, we are only resp
 
 Our sites contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. We may sometimes offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors/entrants voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the third party sponsors' use of this information.
 
-  5. #### Cookies
+  5. #### Right to Deliver and Send Commercial Messages
+
+You agree to receive commercial messages from NGIN or any third party chosen by NGIN (thereafter NGIN Commercial partners) on any device you use to access and operate NGIN products and services and which may be based on characteristics derived from information explicitly or implicitly provided by you, such as your location, to NGIN and which will be treated according to our Privacy Policy.
+
+Commercial messages are messages sent on your NGIN account or email address for commercial purposes for NGIN or NGIN Commercial partners’ products and services. Commercial messages sent byNGIN or NGIN Commercial partners to your email address will include a one click opt-out option.
+
+  6. #### Cookies
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. These Cookies do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering with us.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.
 
-  6. #### Our Commitment to Security
+  7. #### Our Commitment to Security
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-  7. #### How to Contact Us
+  8. #### How to Contact Us
 
 If you have any questions or concerns about the NGIN online policy for this site or its implementation you may contact us at 612-379-1030 or at support@ngin.com.
 
-  8. #### Online Registration
+  9. #### Online Registration
 
 When asked to submit personal billing information, it is important to know that this information is used only for payment processing verification. NGIN does not distribute sell or otherwise exploit this information in any way. For security reasons complete credit card numbers are never saved or stored.
 
-  9. #### Updates
+  10. #### Updates
 
 From time to time, we may update this privacy notice. We will note the date the Policy was changed at either the top or bottom of the Policy, to keep you informed of when updates occur. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
 
 
 
-LAST UPDATED: July 25, 2011 © NGIN, 2011. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
+LAST UPDATED: July 25, 2011 © NGIN, 2012. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
