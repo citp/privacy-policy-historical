@@ -1,0 +1,725 @@
+<!--The following is the downloaded HTML source of the korea.net privacy policy that was archived on 2012-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120611082631id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="stylish-select"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="Republic Korea, Korean alphabet, Korean spicy food, Korean Language Tests, Facts about Korea, South Korea, About Korea, Korean government, accommodation in Korea, Inter-Korean Relations, Hanok, martial arts taekwondo, Korean blue house,">
+<meta name="author" content="Korean Culture and Information Service (KOCIS)">
+<meta name="copyright" content="Copyright(C) 1999-2012 KOCIS. All rights reserved.">
+<meta name="description" content="The South Korean government provides news about Korea, Korean government policy, information on Korean history, Korean culture, traveling in South Korea, life in Korea, inter-Korean relations and more.">
+<meta name="Cache-Control" content="public">
+
+<title>Korea.net : The official website of the Republic of Korea</title>
+
+<link rel="stylesheet" type="text/css" href="/css/common/layout.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/common/all.css" media="screen">
+
+
+
+
+
+	
+	
+	
+	
+<link rel="stylesheet" type="text/css" href="/css/common/layout.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/common/all.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/english/language.css" media="screen">
+	
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/js/common/menu_model1.js"></script>
+<script type="text/javascript" src="/js/common/menu_model2.js"></script>
+<script type="text/javascript" src="/js/common/print.js"></script>
+<script type="text/javascript" src="/js/common/jquery.stylish-select.js"></script>
+<script type="text/javascript" src="/js/common/font.js"></script>
+<script src="/js/common/Top_select.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/common/navtext.js"></script>
+<script type="text/javascript" src="/js/common/stat.js"></script>
+<script type="text/javascript">
+$(function(){
+// START menu script 
+	$('#gnb').menuModel({hightLight:{level_1:2,level_2:0}});
+	
+	
+	$('#lm').menuModel2({hightLight:{level_1:3,level_2:0,level_3:0},target_obj:'',showOps:{display:'block'}, hideOps:{display:'none'}});
+	
+	
+	
+// END menu script 
+});
+</script>
+<script type="text/javascript">
+$(window).load(function(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'categoryId': '128',
+			'statDiv':'category'
+		}
+	});
+	
+	
+		$.ajax({
+			type:'POST',
+			url: '/koreanet/logStat',
+			data:{
+				'contentId': '67',
+				'categoryId': '128',
+				'statDiv':'content'
+			}
+		});
+		
+		$.ajax({
+			type:'POST',
+			url: '/koreanet/viewCountStat',
+			data:{
+				'contentId': '67',
+				'type':'A050102'
+			}
+		});
+	
+	
+	$('#Attached_file').click(function(){
+		$.ajax({
+			type:'POST',
+			url: '/koreanet/logStat',
+			data:{
+				'contentId': '67',
+				'categoryId': '128',
+				'statDiv':'file'
+			}
+		});
+	});
+	
+	//cookie option
+	document.cookie = "Name=Value;httpOnly";
+	
+});	
+
+function copy_url() {
+	var urlText  = $.trim($('#urlCopy').text());
+	var IE = (document.all) ? true : false;
+	if (IE) {
+			window.clipboardData.setData("Text", urlText);
+			alert("The web address for this text has been copied.");
+	} else {
+		temp = prompt("Ctrl+C를 눌러 클립보드로 복사하세요.", urlText);
+	};
+};
+
+function pdfDown(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '67',
+			'categoryId': '128',
+			'statDiv':'pdf'
+		}
+	});
+};
+
+function ebookClick(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '67',
+			'categoryId': '128',
+			'statDiv':'ebook'
+		}
+	});
+};
+
+function videoDown(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '67',
+			'categoryId': '128',
+			'statDiv':'video'
+		}
+	});
+};
+
+function searchKeyword( searchWord ){
+	/*var searchFrm = "<form id='searchKeywordFrm' name='searchKeywordFrm' method='post' action='/Others/search'>";
+	searchFrm += "<input type='hidden' name='unifiedSearchValue' id='unifiedSearchValue' value='" + searchWord +"'></input>";
+	searchFrm += "<input type='hidden' name='Tab' id='Tab' value='ALL'></input>";
+	searchFrm += "<input type='hidden' name='startCount' id='startCount' value='0'></input>";
+	searchFrm += "</form>";
+	$('body').append( searchFrm );
+	$('#unifiedSearchValue').val( searchWord );
+	$('#searchKeywordFrm').submit();*/
+	$('#Search1').val( searchWord );
+	$('#form1').submit();
+}
+
+
+	function contentView( linkURL, articleId, listQueryString, flag ){
+		$('#viewFrm').append( "<input type='hidden' name='articleId' id='articleId' value='" + articleId + "' />" );
+		$('#viewFrm').append( "<input type='hidden' name='flag' id='flag' value='" + flag + "' />" );
+		var listParam = listQueryString.split("&");
+		for( var num=0; num < listParam.length; num++ ){
+			var paramArr = listParam[ num ].split("=");
+			var str = "<input type='hidden' name='" + paramArr[0] + "' id='" + paramArr[0] + "' value='" + paramArr[1] + "' />";
+			$('#viewFrm').append( str );
+		}
+		
+		if( flag ){
+			$('#viewFrm').append( "<input type='hidden' name='flag' id='flag' value='" + flag + "' />" );
+		}
+		
+		$('#viewFrm').attr('action',linkURL + '/view');
+		$('#viewFrm').submit();
+	}
+	
+	function rssService( copyURL, categoryTitle ){
+		$('#domain').val( copyURL );
+		$('#title').val( categoryTitle + 'RSS' );
+		$('#rssFrm').attr('action','/Others/Subscribe-to-Koreanet/RSS-Service');
+		$('#rssFrm').submit();
+	}
+	
+	function tabLink( linkURL, flag, gov ){
+		
+		if( flag ){
+			$('#tabFrm').append( "<input type='hidden' name='flag' id='flag' value='" + flag + "' />" );
+		}
+		
+		if( gov ){
+			$('#tabFrm').append( "<input type='hidden' name='gov' id='gov' value='" + gov + "' />" );
+		}
+		
+		$('#tabFrm').attr('action',linkURL);
+		$('#tabFrm').submit();
+	}
+	
+	function listLink( linkURL, viewQueryString, flag ){
+		var viewParam = viewQueryString.split("&");
+		for( var num=0; num < viewParam.length; num++ ){
+			var paramArr = viewParam[ num ].split("=");
+			var str = "<input type='hidden' name='" + paramArr[0] + "' id='" + paramArr[0] + "lue' value='" + paramArr[1] + "' />";
+			$('#listFrm').append( str );
+		}
+		
+		if( flag ){
+			$('#listFrm').append( "<input type='hidden' name='flag' id='flag' value='" + flag + "' />" );
+		}
+		
+		$('#listFrm').attr('action',linkURL);
+		$('#listFrm').submit();
+	}
+	
+	function currentView( linkURL, affairId, subId, articleId ){
+		$('#currentFrm').append( "<input type='hidden' name='affairId' id='affairId' value='" + affairId + "' />" );
+		$('#currentFrm').append( "<input type='hidden' name='subId' id='subId' value='" + subId + "' />" );
+		$('#currentFrm').append( "<input type='hidden' name='articleId' id='articleId' value='" + articleId + "' />" );
+		$('#currentFrm').attr('action',linkURL);
+		$('#currentFrm').submit();
+	}
+	function filedown( fileUrl ){
+		$('#fileUrl').val( fileUrl );
+		$('#downloadFrm').submit();
+	}
+</script>
+</head><body><form id="viewFrm" name="viewFrm" method="post"></form>
+
+<form id="rssFrm" name="rssFrm" method="post">
+	<input type="hidden" id="domain" name="domain">
+	<input type="hidden" id="title" name="title">
+</form>
+
+<form id="tabFrm" name="tabFrm" method="post"></form>
+
+<form id="listFrm" name="listFrm" method="post"></form>
+
+<form id="currentFrm" name="currentFrm" method="post">
+</form>
+
+<form id="downloadFrm" name="downloadFrm" method="post" action="/koreanet/fileDownload">
+	<input type="hidden" id="fileUrl" name="fileUrl">
+</form>
+
+
+<!--[if IE 6]>
+<style type="text/css">html {filter:expression(document.execCommand("BackgroundImageCache", false, true));}</style>
+<script type="text/javascript" src="/js/common/DD_belatedPNG_0.0.7a-min.js"></script>
+<script type="text/javascript">DD_belatedPNG.fix('h1, h2, h3, h4, h5, h6, div, p, ul, ol, dl, dt, dd, li, a, span, strong, img');</script>
+<![endif]-->
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30636777-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+	<div id="skipnavi">
+		 
+<a href="#gnb">gnb</a>
+<a href="#content">content</a>
+<a href="#footer">footer</a>
+	</div>
+	<!--// skipnavi -->
+	<div id="header">
+		
+
+<div id="dotmenu">
+	<ul>
+		<li class="utilMenu01"><a href="http://www.kocis.go.kr/en/web/kocis/kocis_greetings.asp" target="_blank" title="KOCIS">KOCIS</a></li>
+		<li class="last utilMenu02">
+		
+		
+		<a href="http://www.korea.net/Others/Suggestion">Contact Us </a>
+		
+		
+		
+		</li>
+		<li class="last utilMenu03"><a href="http://m.korea.net/english" target="_blank" title="mobile">Mobile</a></li>
+	</ul>
+</div><!--// dotmenu -->
+	</div>
+	<!--// header -->
+
+	<div id="navi">
+		
+
+<div class="navi_in">
+<ul id="gnb" class="gnb">
+<li id="mNavi01">
+		<a href="/NewsFocus/Policies" class="over">
+			News Focus</a>
+		<div id="sNavi01" class="submenu">
+		<dl>		
+		<dt><a href="/NewsFocus/Policies"><strong>Policies</strong></a></dt>
+					<dt><a href="/NewsFocus/Business"><strong>Business </strong></a></dt>
+					<dt><a href="/NewsFocus/Sci-Tech"><strong>Sci/Tech</strong></a></dt>
+					</dl>
+			<dl>
+			<dt><a href="/NewsFocus/Society"><strong>Society</strong></a></dt>
+					<dt><a href="/NewsFocus/Culture"><strong>Culture</strong></a></dt>
+					<dt><a href="/NewsFocus/Travel"><strong>Travel</strong></a></dt>
+					</dl>
+			<dl>
+			<dt><a href="/NewsFocus/Sports"><strong>Sports</strong></a></dt>
+					<dt><a href="/NewsFocus/People"><strong>People</strong></a></dt>
+					<dt><a href="/NewsFocus/Daily-News"><strong>Daily News</strong></a></dt>
+					</dl>
+			</div>
+	</li>
+<li id="mNavi02">
+		<a href="/AboutKorea/Korea-at-a-Glance/Facts-about-Korea" class="over">
+			About Korea</a>
+		<div id="sNavi02" class="submenu">
+		<dl class="mar_l5">		
+		<dt><a href="/AboutKorea/Korea-at-a-Glance/Facts-about-Korea"><strong>Korea at a Glance</strong></a></dt>
+					<dd><a href="/AboutKorea/Korea-at-a-Glance/Facts-about-Korea">Facts about Korea</a></dd>
+						<dd><a href="/AboutKorea/Korea-at-a-Glance/History">History</a></dd>
+						<dd><a href="/AboutKorea/Korea-at-a-Glance/Society">Society</a></dd>
+						<dd><a href="/AboutKorea/Korea-at-a-Glance/Inter-Korean-Relations">Inter-Korean Relations</a></dd>
+						<dd><a href="/AboutKorea/Korea-at-a-Glance/Korea-in-the-World">Korea in the World</a></dd>
+						<dt><a href="/AboutKorea/Economy/Overview"><strong>Economy</strong></a></dt>
+					<dd><a href="/AboutKorea/Economy/Overview">Overview</a></dd>
+						<dd><a href="/AboutKorea/Economy/Leading-Industries">Leading Industries</a></dd>
+						<dd><a href="/AboutKorea/Economy/Challenges-Facing-the-Korean-Economy">Challenges Facing the Korean Economy</a></dd>
+						<dd><a href="/AboutKorea/Economy/Foreign-Direct-Investment">Foreign Direct Investment (FDI)</a></dd>
+						<dd><a href="/AboutKorea/Economy/Business-Environment">Business Environment</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/AboutKorea/Culture-and-the-Arts/UNESCO-Treasures-in-Korea"><strong>Culture and the Arts</strong></a></dt>
+					<dd><a href="/AboutKorea/Culture-and-the-Arts/UNESCO-Treasures-in-Korea">UNESCO Treasures in Korea</a></dd>
+						<dd><a href="/AboutKorea/Culture-and-the-Arts/Fine-Arts">Fine Arts</a></dd>
+						<dd><a href="/AboutKorea/Culture-and-the-Arts/Literature-and-Painting">Literature and Painting</a></dd>
+						<dd><a href="/AboutKorea/Culture-and-the-Arts/Music-and-Dance">Music and Dance</a></dd>
+						<dd><a href="/AboutKorea/Culture-and-the-Arts/Dramas-and-Movies">Dramas and Movies</a></dd>
+						<dd><a href="/AboutKorea/Culture-and-the-Arts/Museums-and-Theaters">Museums and Theaters</a></dd>
+						<dt><a href="/AboutKorea/Korean-Life/Housing"><strong>Korean Life </strong></a></dt>
+					<dd><a href="/AboutKorea/Korean-Life/Housing">Housing</a></dd>
+						<dd><a href="/AboutKorea/Korean-Life/Clothing">Clothing</a></dd>
+						<dd><a href="/AboutKorea/Korean-Life/Food">Food</a></dd>
+						<dd><a href="/AboutKorea/Korean-Life/Festivals">Festivals</a></dd>
+						<dd><a href="/AboutKorea/Korean-Life/Religion">Religion</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/AboutKorea/Tourism/Travel-Information"><strong>Tourism</strong></a></dt>
+					<dd><a href="/AboutKorea/Tourism/Travel-Information">Travel Information</a></dd>
+						<dd><a href="/AboutKorea/Tourism/Transportation">Transportation</a></dd>
+						<dd><a href="/AboutKorea/Tourism/Accommodation">Accommodation</a></dd>
+						<dd><a href="/AboutKorea/Tourism/Exploring-Korea">Exploring Korea</a></dd>
+						<dd><a href="/AboutKorea/Tourism/Shopping">Shopping</a></dd>
+						<dt><a href="/AboutKorea/Sports/Seoul-Olympics-in-Retrospect"><strong>Sports</strong></a></dt>
+					<dd><a href="/AboutKorea/Sports/Seoul-Olympics-in-Retrospect">Seoul Olympics in Retrospect</a></dd>
+						<dd><a href="/AboutKorea/Sports/Overall-Olympic-Standing">Overall Olympic Standing</a></dd>
+						<dd><a href="/AboutKorea/Sports/2002-FIFA-World-Cup-Korea-Japan">2002 FIFA World Cup Korea/Japan</a></dd>
+						<dd><a href="/AboutKorea/Sports/National-Sports-Events">National Sports Events</a></dd>
+						<dd><a href="/AboutKorea/Sports/Popular-Sports">Popular Sports</a></dd>
+						<dd><a href="/AboutKorea/Sports/Traditional-Sports">Traditional Sports</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/AboutKorea/Living-in-Korea/Finding-Housing"><strong>Living in Korea</strong></a></dt>
+					<dd><a href="/AboutKorea/Living-in-Korea/Finding-Housing">Finding Housing</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Communication-Systems-and-Internet-facilities">Communication Systems and Internet facilities</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Banking">Banking</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Drivers-Licenses">Driver’s Licenses</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Medical-Facilities">Medical Facilities</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/National-Health-Insurance-for-Foreign-Nationals">National Health Insurance for Foreign Nationals</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Experiencing-Korean-Traditional-Culture">Experiencing Korean Traditional Culture</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Employment-and-Job-Training">Employment and Job Training</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Visa-Affairs-and-Immigration-Service">Visa Affairs and Immigration Service</a></dd>
+						<dd><a href="/AboutKorea/Living-in-Korea/Service-Institutions-for-Foreign-Nationals">Service Institutions for Foreign Nationals</a></dd>
+						</dl>
+			</div>
+	</li>
+<li id="mNavi03">
+		<a href="/Events/Festivals" class="over">
+			Events</a>
+		<div id="sNavi03" class="submenu">
+		<dl>		
+		<dt><a href="/Events/Festivals"><strong>Festivals</strong></a></dt>
+					<dt><a href="/Events/Exhibitions"><strong>Exhibitions</strong></a></dt>
+					<dt><a href="/Events/Performances"><strong>Performances</strong></a></dt>
+					</dl>
+			<dl>
+			<dt><a href="/Events/Holidays"><strong>Holidays</strong></a></dt>
+					<dt><a href="/Events/Overseas"><strong>Overseas</strong></a></dt>
+					<dt><a href="/Events/Others"><strong>Others</strong></a></dt>
+					</dl>
+			</div>
+	</li>
+<li id="mNavi04">
+		<a href="/Resources/Publications/About-Korea" class="over">
+			Resources</a>
+		<div id="sNavi04" class="submenu">
+		<dl class="mar_l5">		
+		<dt><a href="/Resources/Publications/About-Korea"><strong>Publications</strong></a></dt>
+					<dd><a href="/Resources/Publications/About-Korea">About Korea</a></dd>
+						<dd><a href="/Resources/Publications/KOREA-Magazines">KOREA Magazines</a></dd>
+						<dd><a href="/Resources/Publications/Economic-Bulletins">Economic Bulletins</a></dd>
+						<dd><a href="/Resources/Publications/Others">Others</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/Resources/Multimedia/Video"><strong>Multimedia</strong></a></dt>
+					<dd><a href="/Resources/Multimedia/Video">Video</a></dd>
+						<dt><a href="/Resources/Newsletter"><strong>Newsletter</strong></a></dt>
+					<dt><a href="/Resources/Website-Directory"><strong>Website Directory</strong></a></dt>
+					</dl>
+			<dl>
+			<dt><a href="/Resources/Social-Media/THE-KOREA-BLOG"><strong>Social Media</strong></a></dt>
+					<dd><a href="/Resources/Social-Media/THE-KOREA-BLOG">THE KOREA BLOG</a></dd>
+						<dd><a href="/Resources/Social-Media/Twitter">Twitter</a></dd>
+						<dd><a href="/Resources/Social-Media/Facebook">Facebook</a></dd>
+						<dd><a href="/Resources/Social-Media/Scribd">Scribd</a></dd>
+						<dd><a href="/Resources/Social-Media/Youtube">Youtube</a></dd>
+						<dd><a href="/Resources/Social-Media/Flickr">Flickr</a></dd>
+						<dd><a href="/Resources/Social-Media/Smart-Application">Smart Application</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/Resources/Useful-Info/Learn-Korean"><strong>Useful Info</strong></a></dt>
+					<dd><a href="/Resources/Useful-Info/Learn-Korean">Learn Korean</a></dd>
+						<dd><a href="/Resources/Useful-Info/Korean-Language-Tests">Korean Language Tests</a></dd>
+						<dd><a href="/Resources/Useful-Info/Map">Map</a></dd>
+						<dd><a href="/Resources/Useful-Info/Foreign-Exchange-Calculator">Foreign Exchange Calculator</a></dd>
+						<dd><a href="/Resources/Useful-Info/Reservation-Assistance">Reservation Assistance</a></dd>
+						<dd><a href="/Resources/Useful-Info/Helpful-Telephone-Numbers">Helpful Telephone Numbers</a></dd>
+						</dl>
+			</div>
+	</li>
+<li id="mNavi05">
+		<a href="/Government/Administration/President-Lee-Myung-Bak" class="over">
+			Government</a>
+		<div id="sNavi05" class="submenu">
+		<dl class="mar_l5">		
+		<dt><a href="/Government/Administration/President-Lee-Myung-Bak"><strong>Administration </strong></a></dt>
+					<dd><a href="/Government/Administration/President-Lee-Myung-Bak">President Lee Myung-Bak</a></dd>
+						<dd><a href="/Government/Administration/First-Lady-Kim-Yoon-ok">First Lady Kim Yoon-ok</a></dd>
+						<dd><a href="/Government/Administration/Cabinet">Cabinet</a></dd>
+						<dd><a href="/Government/Administration/Lee-Administrations-Main-Policies">Lee Administration’s Main Policies</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/Government/Current-Affairs/National-Affairs"><strong>Current Affairs</strong></a></dt>
+					<dd><a href="/Government/Current-Affairs/National-Affairs">National Affairs</a></dd>
+						<dd><a href="/Government/Current-Affairs/Foreign-Affairs">Foreign Affairs</a></dd>
+						<dd><a href="/Government/Current-Affairs/International-Events">International Events</a></dd>
+						<dd><a href="/Government/Current-Affairs/Korean-Wave">Korean Wave</a></dd>
+						<dd><a href="/Government/Current-Affairs/Others">Others</a></dd>
+						<dt><a href="/Government/Briefing-Room/Press-Releases"><strong>Briefing Room</strong></a></dt>
+					<dd><a href="/Government/Briefing-Room/Press-Releases">Press Releases</a></dd>
+						<dd><a href="/Government/Briefing-Room/Summit-Diplomacy">Summit Diplomacy</a></dd>
+						<dd><a href="/Government/Briefing-Room/Presidential-Speeches">Presidential Speeches</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/Government/Constitution-and-Government/Constitution"><strong>Constitution and Government</strong></a></dt>
+					<dd><a href="/Government/Constitution-and-Government/Constitution">Constitution</a></dd>
+						<dd><a href="/Government/Constitution-and-Government/Executive-Branch">Executive Branch</a></dd>
+						<dd><a href="/Government/Constitution-and-Government/Legislature">Legislature</a></dd>
+						<dd><a href="/Government/Constitution-and-Government/Judiciary">Judiciary</a></dd>
+						<dd><a href="/Government/Constitution-and-Government/Independent-Organizations">Independent Organizations</a></dd>
+						<dd><a href="/Government/Constitution-and-Government/Local-Governments">Local Governments</a></dd>
+						</dl>
+			</div>
+	</li>
+<li id="mNavi06">
+		<a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers" class="over">
+			About Us</a>
+		<div id="sNavi06" class="submenu">
+		<dl>		
+		<dt><a href="http://www.kocis.go.kr/en/web/kocis/kocis_greetings.asp" target="_blank"><strong>KOCIS</strong></a></dt>
+					<dt><a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers"><strong>Overseas Korea Centers</strong></a></dt>
+					<dd><a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers">Culture and Information Officers</a></dd>
+						<dd><a href="/AboutUs/Overseas-Korea-Centers/Korean-Cultural-Centers">Korean Cultural Centers</a></dd>
+						</dl>
+			<dl>
+			<dt><a href="/AboutUs/Ministry-of-Culture-Sports-and-Tourism"><strong>Ministry of Culture, Sports and Tourism</strong></a></dt>
+					</dl>
+			</div>
+	</li>
+</ul>
+
+
+<div id="Link" class="selCont">
+	<label for="my-dropdown" class="hidden">click the ddropdown and select site</label>
+	<select id="my-dropdown" name="my-dropdown" style="display: none;">
+	  <option value="http://www.korea.net" selected="selected">English</option>
+	  <option value="http://spanish.korea.net">español</option>
+	  <option value="http://chinese.korea.net">中文</option>
+	  <option value="http://vietnamese.korea.net">Việt</option>
+	  <option value="http://japanese.korea.net">日本語</option>
+	  <option value="http://german.korea.net">Deutsch</option>
+	  <option value="http://french.korea.net">français</option>
+	  <option value="http://russian.korea.net">русский</option>
+	  <option value="http://arabic.korea.net">العربية</option>
+	</select><div class="newListSelected " tabindex="0"><div class="selectedTxt">Select language</div><ul class="newList" style="visibility: visible; top: 162px; height: 162px; left: 0px; display: none;"><li><a href="JavaScript:void(0);">English</a></li><li><a href="JavaScript:void(0);">español</a></li><li><a href="JavaScript:void(0);">中文</a></li><li><a href="JavaScript:void(0);">Việt</a></li><li><a href="JavaScript:void(0);">日本語</a></li><li><a href="JavaScript:void(0);">Deutsch</a></li><li><a href="JavaScript:void(0);">français</a></li><li><a href="JavaScript:void(0);">русский</a></li><li><a href="JavaScript:void(0);">العربية</a></li></ul></div>
+</div>
+</div><!-- // navi_in -->
+
+	</div>
+
+	<div id="wrap_containerBG">
+		<div id="wrap_container">
+			<div id="container">
+				<div id="container_header">
+					
+
+
+<script type="text/javascript">
+function searchValue( searchWord ){
+	$('#Search1').val( searchWord );
+	$('#form1').submit();
+}
+</script>
+<h1 class="h1_logo"><a href="/"><img src="/images/common/logo.png " alt="Korea.net Gatewav to Korea"></a></h1>
+<div class="top_search">
+	<div class="wrapSchBox">
+		<form method="post" name="unifiedSearchForm" id="form1" action="/Others/search">
+		<fieldset>
+		<label for="Search1" class="hidden">Search</label><input type="text" name="unifiedSearchValue" id="Search1" class="Search1"><input type="submit" id="Search1_1" value="Search" class="Search_btn">
+		</fieldset>
+		</form>
+	</div>
+	<ul class="Hottopics">
+		<li><a href="#" onclick="javascript:searchValue('Korean Wave')">Korean Wave</a></li><li><a href="#" onclick="javascript:searchValue('Expo 2012 Yeosu Korea ')">Expo 2012 Yeosu Korea </a></li><li><a href="#" onclick="javascript:searchValue('Team Korea in London 2012')">Team Korea in London 2012</a></li><li class="last"><a href="#" onclick="javascript:searchValue('Dokdo')">Dokdo</a></li>
+	</ul>
+</div><!--// top_search -->
+				</div>
+				<!--// container_header -->
+
+				<div id="container2">
+					<div id="sidebar">
+						<div class="lnb">
+							 
+
+<h2 class="h2_lnb"><strong>Others</strong></h2>
+		<ul id="lm">
+		<li><a href="/Others/Site-Guide"><strong>Site Guide</strong></a>
+					</li><li><a href="/Others/Sitemap"><strong>Sitemap</strong></a>
+					</li><li><a href="/Others/Privacy-Policy" class="hover"><strong>Privacy Policy</strong></a>
+					</li><li><a href="/Others/Subscribe-to-Koreanet/KOREA-Magazine"><strong>Subscribe to Korea.net</strong></a>
+					<ul class="bgline" style="display: none;">
+					<li><a href="/Others/Subscribe-to-Koreanet/KOREA-Magazine" class="lh">KOREA Magazine</a></li>
+							<li><a href="/Others/Subscribe-to-Koreanet/Newsletter-Service" class="lh">Newsletter Service</a></li>
+							<li><a href="/Others/Subscribe-to-Koreanet/RSS-Service" class="lh">RSS Service</a></li>
+							</ul>
+					</li><li><a href="/Others/Koreanet-Partner"><strong>Korea.net Partner</strong></a>
+					</li><li><a href="/Others/Suggestion"><strong>Contact Us</strong></a>
+					</li><li><a href="/Others/Notice"><strong>Notice</strong></a>
+					</li><li class="last"><a href="/Others/search"><strong>KOREA.NET Search</strong></a>
+					</li></ul>
+	
+						</div>
+						<!--// lnb -->
+						<div class="side_banner">
+							 
+<p><a href="/Others/Subscribe-to-Koreanet/KOREA-Magazine"><img src="/images/english/common/side_bannerimg1.gif" alt="Korea Magazine"></a></p>
+<p><a href="/Others/Subscribe-to-Koreanet/Newsletter-Service"><img src="/images/english/common/side_bannerimg2.gif" alt="Newsletter Service"></a></p>
+<p><a href="/Others/Subscribe-to-Koreanet/RSS-Service"><img src="/images/english/common/side_bannerimg3.gif" alt="RSS Service"></a></p>
+						</div>
+					</div>
+					<!--// sidebar -->
+
+					<!-- START CONTENT -->
+					<div id="content">
+						<div id="depth_menubar">
+							
+
+<p class="home">
+
+	
+	<a href="/"><img src="/images/common/home.gif" alt="home"></a>
+
+</p>
+
+
+	
+	<div class="depth_bg1">
+		<p><a href="/Others/Site-Guide">Others</a></p>
+	</div>
+	<p class="depth2">Privacy Policy</p>
+	
+	
+
+						</div>
+						<!--// depth_menubar -->
+
+						<div id="Title">
+							<h3>Privacy Policy</h3>
+						</div>
+
+						<div id="content_text">
+							<div id="view05_textBox">
+								<div id="content_text_ALLBOX">
+									<!-- START TEXT  -->
+									<br>
+<div class="FactKorea_box2">
+<h5 class="h5_catTit">· General provisions</h5>
+<div class="text_v2 mar_t25 mar_b20">www.korea.net (hereafter "Korea.net"),operated by the Korean Culture and Information Service (hereafter "KOCIS"),is committed to protecting its members' information proactively,and has established the privacy statement as described below,with which it complies stringently. Korea.net uses the member's personal information to facilitate the use of an optimal service only,and shall not provide it to any third party without the consent of the member,and shall exert its best efforts to protect the member from damages occasioned by information leakage. <br><br>The personal information policy of Korea.net is subject to change according to the relevant laws and regulations,guidelines,or internal operation policies. If any modification is made to the method of handling the members' personal information,Korea.net will notify its members of the change in accordance with the relevant laws and regulations and the service terms of use. </div>
+<h5 class="h5_catTit">· KOCIS privacy statement is outlined below.</h5>
+<div class="boxSt1">
+<ul>
+<li>- Purpose of collecting and using personal information </li><br>
+<li>- Items of personal information and methods of collecting it </li><br>
+<li>- Providing and sharing of personal information </li><br>
+<li>- Members' rights concerning their personal information </li><br>
+<li>- Retention and usage period of personal information </li><br>
+<li>- Technical measures for privacy protection </li><br>
+<li>- Items related to cookie operation </li><br>
+<li>- Member's complaints with regards to the privacy statement </li><br>
+<li>- Privacy protection manager </li><br>
+<li>- Effective date and update of the policy </li></ul></div><br>
+<h5 class="h5_catTit">1. Purpose of Collecting and Using Personal Information </h5>
+<div class="text_v2 mar_t25 mar_b20">Korea.net collects the personal information of its members and uses it in order to provide an optimal service to its members via the website operated by the KOCIS. Korea.net will provide more useful information to its members based on the personal information submitted by them. In addition,Korea.net requests the submission of personal information to enable it to provide effective answers to members' questions. </div>
+<h5 class="h5_catTit">2. Items and Methods of Collecting Personal Information</h5>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS collects the minimum amount of personal information required to conclude and implement the service agreement by using only lawful and fair means. When the KOCIS collects the personally identifiable information of its members,it collects and retains that personal information only in accordance with the regulations of the law and the user's consent.</div><br>
+<div class="text_v2 mar_t25 mar_b20">The following personal information is required for collection by the KOCIS:</div>
+<div class="boxSt1">
+<ol>
+<li>1. Required items: ID (E -mail address),name,and nationality </li>
+<li>2. Optional item: Log information generated by the log analysis system</li></ol></div>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS shall retain the following personal information by agreement with the members.</div>
+<div class="boxSt1">
+<ul>
+<li>· Personal information file name: Member of the Korea.net's homepage </li><br>
+<li>· Retained by: Global Communication and Contents Division,the KOCIS </li><br>
+<li>· Purpose of retention: E -mailing service </li><br>
+<li>· Major items: E-mail address,name,and nationality </li><br>
+<li>· Retention period: To be immediately removed upon the member's withdrawal from the service </li></ul></div>
+<div class="text_v2 mar_t25 mar_b20">* Any additional information collected from Korea.net online events will be used,subject to agreement by the members or modification of the related section of the Terms of Use. The KOCIS shall not collect any personal information containing details that might violate the basic human rights of the member,except with the member's consent and in accordance with the regulations of the law. </div>
+<h5 class="h5_catTit">3. Providing and Sharing of Personal Information</h5>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS shall not provide the information submitted by the member to any third party without the member's prior consent or use it for any other purposes.<br>The KOCIS shall obtain the consent of the member regarding the following items,and the member shall have the right to refuse or withdraw from them. <br><br><strong>The KOCIS shall obtain the consent of the member regarding the following items,and the member shall have the right to refuse or withdraw from them. </strong></div>
+<div class="boxSt1">
+<ul>
+<li>· Identity of the privacy protection manager (pertinent organization,name,and phone number) </li><br>
+<li>· Personal information item to be collected </li><br>
+<li>· Period of retention and use of the personal information </li><br>
+<li>· Issues related to personal information provision to a third party </li><br>
+<li>· Withdrawal from membership,the member's right to retrieve his/her own information and request its correction,and method of making a request </li><br><ll>· Other items stipulated by the relevant laws and regulation,such as the Information and Communication Network Use Promotion Law</ll> </ul></div>
+<div class="text_v2 mar_t25 mar_b20">The right to access the member's personal information is restricted to the relevant staff. However,the KOCIS may use the personal information or provide it to a third party that is not included in the prior notice or exceeds or the specified scope without the member's consent in the following exceptional cases. </div>
+<div class="boxSt1">
+<ul>
+<li>· If the personal information is needed for statistics,academic study,or market research,and is provided in a format that does not allow identification of a specific individual; </li><br><br>
+<li>· If the member has applied for a service,and the personal information needs to be provided to the company associated with the KOCIS in order to complete the transaction and implement a service use agreement that requires the minimum user information (name,e-mail,address,etc.).</li></ul></div>
+<div class="text_v2 mar_t25 mar_b20">The right to access the member's personal information is restricted to the relevant staff. However,the KOCIS may use the personal information or provide it to a third party that is not included in the prior notice or exceeds or the specified scope without the member's consent in the following exceptional cases.</div>
+<h5 class="h5_catTit">4. Members' Rights Concerning Their Personal Information</h5>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS respects the member's right to own his/her personal information to the maximum extent. </div>
+<h5 class="h5_catTit">5. Retention and Usage Period of Personal Information</h5>
+<div class="text_v2 mar_t25 mar_b20">The personal information submitted by the member will be used for service provision from the date of his/her joining the membership to the date of his/her withdrawal from the membership. If the member withdraws from membership or is expelled,his/her personal information will be destroyed immediately. However,even if the member terminates the terms of use and withdraws from the membership,his/her personal information will be retained for a certain period of time in order to cope with a lawsuit or controversy should either arise. At this time,retrieval and use of the retained personal information shall be limited to the specified reason only. </div>
+<h5 class="h5_catTit">6. Technical Measures for Privacy Protection</h5>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS shall do its best to devise adequate technical management measures to protect against leakage of the member's personal information. The KOCIS does its best to secure stability in handling the member's personal information,in order to ensure that it is not lost,stolen,disclosed,altered,or damaged. To that end,the KOCIS devises technical measures such as a supplementary device that uses the password,a security device that can send personal information safely on the network using an encryption algorithm,an access control device that uses an intrusion blocking system,and other technical devices needed to secure availability. The KOCIS restricts to the minimum possible the number of staff members who can access the member's personal information,and provides continuous training to ensure conformance to this policy and other privacy protection efforts. In addition,every effort is made to prevent illegal information leakages by regularly updating the administrator's password,which is used to access personal information. </div>
+<h5 class="h5_catTit">7. Items Related to Cookie Operation</h5>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS uses cookies partially in order to provide a better service by remembering the member when the member visits the site again. A cookie is a small amount of the information sent by the website server of the service provider to the user's computer,which contains information on the visited website and the user's personal information. Cookies identify the user's computer browser but do not identify the user individually. Users can have cookie-handling options by setting the web browser option – accepting all cookies,notifying the user when the cookie is installed,or rejecting all cookies. Specific personal information collected by the KOCIS when users visit Korea.net will not be disclosed to the outside,unless it is processed via a legal procedure in accordance with the relevant laws and regulations. </div>
+<h5 class="h5_catTit">8. Member's Complaints with Regard to the Privacy Statement</h5>
+<div class="text_v2 mar_t25 mar_b20">The KOCIS promptly handles member's complaints about privacy protection. If a member thinks that the KOCIS has not implemented the privacy statement properly,the member can contact the privacy protection manager at any time. The KOCIS shall resolve the issue as quickly as possible,if a correction should be made. </div></div>
+<h5 class="h5_catTit">9. . Privacy Protection Manager</h5>
+<div class="boxSt1">
+<ul>
+<li>· Privacy protection manager: webmaster</li><br>
+<li>· E-mail: webmaster@korea.net </li><br>
+<li>· Phone number: +82-2-398-1933 </li></ul></div>
+<h5 class="h5_catTit">10. Effective Date and Update of the Policy </h5>
+<div class="text_v2 mar_t25 mar_b20">The privacy statement may be changed or amended in order to provide a better service to members or as a result of a government agency's instruction or changes in the relevant laws and regulations. It can take seven days or longer to notify members of such a change. </div>
+									<!--//END TEXT -->
+								</div>
+								 
+
+<p class="endline"><span>Department </span> Global Communication and Contents Division </p>
+								<!--//content_text_ALLBOX -->
+							</div>
+							<!--//view05_textBox -->
+						</div>
+						<!--// content_text-->
+					</div>
+					<!--// content -->
+					<!--// END CONTENT-->
+
+				</div>
+				<!--// container2 -->
+			</div>
+			<!--// container -->
+		</div>
+		<!--// wrap_container -->
+	</div>
+	<!--// wrap_containerBG -->
+
+	<div id="footer">
+		
+
+<div class="footer_in">
+	<p class="copyright"><img src="/images/common/logo_footer.png" alt="korea.net">Copyright © 1999-<script type="text/javascript">document.write((new Date()).getFullYear());</script>2020 KOCIS. All rights reserved.</p>
+	<ul>
+		<li><a href="http://www.korea.net/Others/Suggestion">Contact Us </a></li>
+		<li><a href="/Others/Privacy-Policy">Privacy policy </a></li>
+		<li><a href="/Others/Site-Guide">Site Guide</a></li>
+		<li class="last"><a href="/Others/Sitemap">Sitemap</a></li>
+	</ul>
+</div>
+
+<!-- AceCounter Log Gathering Script V.71.2011011101 -->
+<script language="javascript">
+if(typeof EL_GUL == 'undefined'){
+var EL_GUL = 'gtr.kcisa.kr';var EL_GPT='80'; var _AIMG = new Image(); var _bn=navigator.appName; var _PR = location.protocol=="https:"?"https://"+EL_GUL:"http://"+EL_GUL+":"+EL_GPT;if( _bn.indexOf("Netscape") > -1 || _bn=="Mozilla"){ setTimeout("_AIMG.src = _PR+'/?cookie';",1); } else{ _AIMG.src = _PR+'/?cookie'; };
+document.writeln("<scr"+"ipt language='javascript' src='/acecounter/acecounter_V70.js'></scr"+"ipt>");
+}
+</script><script language="javascript" src="/acecounter/acecounter_V70.js"></script>
+
+<noscript><img src='http://gtr.kcisa.kr:80/?uid=48&je=n&' border=0 width=0 height=0></noscript>
+<!-- AceCounter Log Gathering Script End -->
+	</div>
+	<!--// footer -->
+
+</body></html>
