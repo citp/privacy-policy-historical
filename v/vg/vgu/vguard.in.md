@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229095857id_/http%3A//www.vguard.in/privacy-policy-v-guard-electrical-wire) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611201948id_/http%3A//www.vguard.in/privacy-policy-v-guard-electrical-wire) for the most accurate reproduction.*
 
 # V-Guard : Privacy Policy | Solar Water Heater | Electrical Wires | Ceiling Fans
 
