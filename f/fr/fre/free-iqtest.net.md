@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-iqtest.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124705id_/http%3A//www.free-iqtest.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-iqtest.net privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611031823id_/http%3A//www.free-iqtest.net/privacy.asp) for the most accurate reproduction.*
 
 # Free IQ Test - Privacy Policy
 
