@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225130641id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611034230id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-**Privacy Policy**
+ **Privacy Policy**
 
 The privacy of our visitors to SongOnLyrics.com is important to us. At  
 visit SongOnLyrics.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit SongOnLyrics.com, and how we safeguard your information. We never sell your personal information to third parties.  
