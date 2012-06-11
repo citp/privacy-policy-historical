@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140123id_/http%3A//www.fitflop.com/scat/dataprotectionprivacypoli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611103505id_/http%3A//www.fitflop.com/scat/dataprotectionprivacypoli) for the most accurate reproduction.*
 
 # Privacy Policy at FitFlop
 
@@ -119,7 +119,7 @@ When you access certain pages of our Website, purchase Products or register for 
 
 In the event that you do not wish to be contacted for such purposes, ensure that you tick the appropriate box as you go through the registration or other process. 
 
-You may unsubscribe from our contact list at any time by replying to a promotional e-mail with the word “unsubscribe” in the subject line, by e-mailing us at [info@fitflop.com](https://web.archive.org/web/20111101140123id_/http%3A//www.fitflop.com/scat/info@fitflop.com) or telephoning us on the contact details provided. 
+You may unsubscribe from our contact list at any time by replying to a promotional e-mail with the word “unsubscribe” in the subject line, by e-mailing us at [info@fitflop.com](https://web.archive.org/web/20120611103505id_/http%3A//www.fitflop.com/scat/info@fitflop.com) or telephoning us on the contact details provided. 
 
 When entering any of our contests or prize draws, you will have to provide your name, email address and mailing address and if you win, we will send the prize to the contact address or details provided. 
 
