@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salem-news.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117180951id_/http%3A//salem-news.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salem-news.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612012850id_/http%3A//www.salem-news.com/pages/privacy.php) for the most accurate reproduction.*
 
 # SALEM-NEWS.COM PRIVACY STATEMENT
 
