@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022737id_/http%3A//fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611020855id_/http%3A//www.fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WZTV FOX17 :: Privacy Policy
 
@@ -30,17 +30,17 @@ All personal information collected by this Website may be disclosed as required 
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
-5:00PM The Simpsons
+6:00pm American Dad
 
-5:30PM King of the Hill
+6:30PM The Clevelands
 
-6:00PM Two and a Half Men
+7:00PM The Simpsons
 
-6:30PM Two and a Half Men
+7:30PM Bob's Burger
 
-7:00PM Kitchen Nightmares
+8:00PM Family Guy
 
-8:00PM Fringe
+8:30PM American Dad
 
 9:00PM FOX News at 9:00
 
@@ -50,13 +50,13 @@ The Website allows certain advertisements/postings which include links to other 
 
 [To FOX.com](http://www.fox.com/)
 
-37°
+73°
 
 [](https://web.archive.org/newsroom/wx/#iradar)
 
 ## Forecast
 
-Some overnight clouds will pass through Middle Tennessee, but clearing out by Saturday morning.  A cold air mass will keep the skies clear and sunny on Saturday through Monday.  Saturday night ...
+Most of us made it through Sunday with just a few rain drops, but heavy rain lurks to the south. An upper level low is sending in moisture from the Gulf and will give us off and on showers through Tuesday ...
 
 [](https://web.archive.org/newsroom/wx/)
 
