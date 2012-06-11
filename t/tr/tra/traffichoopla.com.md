@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204146id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611083453id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
 
-# TrafficHoopla Privacy Policy
+# TrafficHoopla.com Privacy Policy
 
  | 
 
-**TrafficHoopla Privacy Policy**
+**TrafficHoopla.com Privacy Policy**
 
-This privacy policy applies to the website of TrafficHoopla.
+This privacy policy applies to the website of TrafficHoopla.com
 
 | To contact our organization, use the following information.  
 ---  
- | http://traffichoopla.com/trk.cgi?team1  
+ | TrafficHoopla.com/support  
 TrafficHoopla.com | Carrmedia LLC  
 2140 E. Southlake Blvd. #L609  
 Southlake, TX 76092 USA  
   
-Because we want to demonstrate our commitment to our users' privacy, we disclose all of the information we collect, why we collect it, and what we do with the it.
+Because we want to demonstrate our commitment to our users' privacy,  
+we disclose all of the information we collect, why we collect it, and what we do with the it.
 
 Information is collected for the following purposes.  
 ---  
@@ -26,7 +27,8 @@ The following organizations have access to the information we collect.
 ---  
  | Ourselves  
   
-If you are concerned about your personal information we collect, contact us using the information contained in this policy.
+If you are concerned about your personal information we collect,  
+contact us using the information contained in this policy.
 
 Our web site uses cookies to enhance how it operates and ensure we better serve our visitors.
 
@@ -41,6 +43,8 @@ Web Navigation information
 Computer system information  
 Information about interactions with the web site  
   
-If you have a question about our privacy policy, or you would like to dispute any information collected contact us using the information contained in this policy.
+If you have a question about our privacy policy,  
+or you would like to dispute any information collected,  
+contact us using the information contained in this policy.
 
 [Return to TrafficHoopla Main page](http://traffichoopla.com/)
