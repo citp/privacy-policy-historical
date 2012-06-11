@@ -1,77 +1,176 @@
-> *The following text is extracted and transformed from the orkut.co.in privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223225019id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkut.co.in privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612003759id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Orkut Privacy Notice
+# Privacy Policy – Policies & Principles – Google
 
-July 14, 2011
+Last modified: March 1, 2012 ([view archived versions](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/archive/)) 
 
-The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use orkut. In addition, the following describes our additional privacy practices that are specific to orkut. If you are using Google Talk in conjunction with orkut, please refer to the [Google Talk Privacy Notice](http://www.google.com/talk/privacy.html) for information about our privacy practices that are specific to Talk.
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-**Personal information**
+Our Privacy Policy explains: 
 
-  * You need a [Google Account](http://www.google.com/privacy_faq.html) to use orkut. Google asks for some personal information when you create a Google Account, including your email address and a password, which is used to protect your account from unauthorized access. A Google Account allows you to access many of our services that require registration.
-  * As an orkut member, you can create a profile or orkut community that includes personal information, such as your gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other Internet users on various search engines, as determined by your privacy settings. If you restrict accessibility to your community by changing the privacy setting from “open” to ‘hidden’, or by opting to making it inaccessible to the Web, that change will be recorded immediately and ‘crawlers’ of various search engines will be blocked from accessing your community, however, Google does not control the content that may already have been indexed or cached by third party websites and therefore may continue to appear there till the content on such websites is refreshed. 
-  * When you invite new members into your network or send messages through orkut – including messages sent to non-orkut users, such as to share your photo albums or events with them - we collect and maintain information associated with those messages, including email addresses and content. We also automatically store contact information about such non-orkut users in your “contacts” list. That contacts list also includes:
-    * your Gmail contact list, which is pre-populated in your orkut “contacts”;
-    * contact information that you provide to us about your friends (both orkut and non-orkut users) via the “find friends” or “contacts” features in orkut; and
-    * contact information for your friends (including non-orkut users) to whom you have sent messages through Picasa or another Google service that you access through your Google Account
-  * When you send and receive SMS messages to or from the orkut website, we collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction.
-  * When you interact with an orkut feature, we may collect and maintain information about your activities linked to that feature. In the case of Promotions, we keep track of which promotions we have served to you, and if you interact with a Promotion we will also collect and maintain data relating to your clicks, your deletion of the promotion, and your forwarding of the promotion to your orkut friends.
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
 
 
-**Uses and Information Sharing**
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
 
-  * Google maintains and processes your personal information and content of your communications in order to provide your orkut account, access to that account, and use of orkut services, in addition to the purposes described in the Google Privacy Policy. Orkut services include relevant advertising and related links based on the content of your profile and messages exchanged by you as part of your activity streams on your profile. Your profile information is displayed according to the preferences you set in your account.
-  * When you send messages through orkut, your name and email address will be identified in the message. We also use your name and email address to notify you of new members, messages, or other information, such as invitations to join friends' networks, new testimonials or "fan" ratings, and crush notices.
-  * If you invite another person to join orkut, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join orkut. All invitees are given the option not to receive further invitations from orkut.
-  * If you invite non-orkut users to view content on orkut, we use the name and email address you provide us to contact that person, and to store that information for purposes related to your use of Google Account services, such as to maintain your orkut “contacts” list or to make suggestions of friends based on common contacts. We also use that information to maintain a history on that person’s behalf of content that orkut users have shared with them on orkut.
-  * If you provide us with contact information for non-orkut users, we store that information for purposes related to your use of Google Account services, such as to maintain your contacts list, to suggest that you invite such contacts to join orkut, or to make suggestions of friends based on common contacts.
-  * Friends or other persons who know your email address can use that address to look up whether you have an orkut profile registered under that email address and which orkut profile has been created under that email address. Orkut friends can identify you in any photo that they or their friends have uploaded to orkut, by “tagging” you in that photo. You can opt-out of being “tagged” in photos via your “settings” preference.
-  * When you send and receive SMS messages to or from the orkut website, we use the data we collect to operate, develop and improve our services. Our third party providers also may collect data about your SMS usage in order to provide the service. In addition, your wireless carrier collects data about your SMS usage. Their practices are governed by their own privacy policies.
-  * Orkut allows third-party developers to upload applications to the orkut application directory. You may choose to use an application by adding it to your profile. If you add an application to your profile, the application may collect information from your profile or other information about your activities on orkut, and share that information with others. Please see our [Terms of Use of Applications](http://www.orkut.com/AppTerms.aspx) for details about data sharing when you add an application.
-  * When one of your orkut friends adds an application to their profile page, your public profile name, profile URL and profile photo will be shared with the developer of the application and with other users and viewers of the application, even if you have not added that application to your profile.
+### Information we collect
 
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online. 
 
+We collect information in two ways: 
 
-**Ads served on orkut**
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
-  * Orkut strives to provide you with relevant and useful advertising and we use the [DoubleClick cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx), as well as other third party ad serving systems, to do so. We may use a range of information including cookies, web beacons, IP addresses, usage data and other non-personal information about your computer or device (such as browser type and operating system) to provide you with relevant advertising. If you are logged into your Orkut Account, we may also show you advertising based on the information you have provided to us in your Orkut Account.
-  * We use the [DoubleClick cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on Orkut to help advertisers and publishers serve and manage ads on this site and other Google and AdSense partner websites. Advertisers may serve ads based on interests and demographic categories associated with non-personally identifiable online activities including activity on other AdSense partner sites. Advertisers may also serve ads to you based on previous activity on that advertiser's website or based on non-personally identifiable information from other companies. This non- personally identifiable information is held separately from your Orkut Account data, or other personally identifying information in our possession.
-  * You may view, edit and add to the categories used to provide you with interest- based advertising in the [Ads Preferences Manager](http://www.google.com/ads/preferences?hl=en-US) for the DoubleClick cookie. Your ads preferences will be respected across Orkut, AdSense partner sites and Google sites using the DoubleClick cookie to serve such ads. For more information about interest-based advertising and the Ads Preference Manager [see our FAQ](http://www.google.com/privacy_faq.html).
-  * You also may choose to [opt out of the DoubleClick cookie](http://optout.doubleclick.com/cgi-bin/optoutgoogle.pl) at any time. If you select the DoubleClick opt-out cookie, ads delivered to your browser by our ad serving technology will not be served based on the DoubleClick cookie. Find more information [here](http://www.google.com/privacy_faq.html) about opting out of the DoubleClick cookie.
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
 
+    * **Device information**
 
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account. 
 
-**Ads served on orkut outside of applications**
+    * **Log information**
 
-  * Other third-party ad serving companies may display ads on orkut, provided they comply with our [ad serving requirements](http://adwords.google.com/support/bin/answer.py?answer=94230). Google uses [Google AdSense](http://www.google.com/adsense/) technology to serve ads on the orkut website. Most of the ads you see on orkut (outside of applications) are served by Google through Google AdSense. However, Google also allows advertisers to choose to use a third-party ad server to serve ads through AdSense. Those third-party ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. A list of those third party servers is available [here](http://www.google.com/support/orkut/bin/answer.py?hl=en&answer=140020), along with links to their websites which provide information about how to opt-out of their cookies if such functionality is available from the ad server. Orkut does not provide any personal information to these third-party ad servers or ad networks without your consent. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. We provide advertisers only aggregated non-personal information such as the number of times one of their ads was clicked.
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
+When you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
 
-**Ads served within applications:**
+    * **Unique application numbers**
 
-  * Application developers may choose to use either Google AdSense or a third-party ad server to serve ads into the developer's applications on the orkut site. Such ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. We encourage you to contact the application developers to obtain more information about which ad servers the developers use and/or if you are seeking information about how to opt-out of the cookie for such ad servers (if such functionality is available from the ad servers).
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
+    * **Local storage**
 
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
 
-**Your choices**
+    * **Cookies and anonymous identifiers**
 
-  * Google provides a number of tools to restrict who can view certain portions of your profile and certain other information that you provide on the site. For example, when you create your profile you can limit the viewing of certain information to yourself, your friends, friends of friends, or make the information available to all orkut members.
-  * You can update your profile information at any time by clicking on the "edit" button in your profile setting.
-  * Messages you receive from orkut can be sent to your primary email address or orkut inbox, depending on the preferences you choose in the "my settings" page.
-  * You can terminate your account at any time. To learn how, [click here](http://help.orkut.com/support/bin/answer.py?answer=11596&p=Privacy.aspx). If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from orkut servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup systems.
-
+We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 
 
-**More information**
 
-Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.commerce.gov/).
 
-Further information about orkut is available [here](http://help.orkut.com/support).
+### How we use information we collect
 
-For more information about our privacy practices, go to [the full privacy policy](http://www.google.com/privacy.html). If you have additional questions, please [contact us any time](http://www.google.com/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=privacy). Or write to us at:
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-Privacy Matters   
-c/o Google Inc.   
-1600 Amphitheatre Parkway   
-Mountain View CA 94043 (USA)
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
+
+We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
+
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+
+### Transparency and choice
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here. 
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706) to see and adjust how your Google Profile appears to particular individuals. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. 
+
+### Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content. 
+
+### Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+### Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+### Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
+  * We offer you [two step verification](http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+### Application
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+### Enforcement
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20120612084354id_/http://www.google.com/intl/en-US/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+### Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+### Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+
+
