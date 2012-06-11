@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softitem.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010017id_/http%3A//www.softitem.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softitem.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611071340id_/http%3A//www.softitem.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy --softitem.com
 
@@ -20,7 +20,7 @@ And we may need to contact you about upload problems, etc. And you could easily 
 
 Once you purchase products from us, additional information will be needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) by any means, and will only be used for sending the Registration Information and the Free upgrade to you via email. Besides, if you send email to us for requesting help, your email address will only be used to send replies to you.
 
-If you have any question or concern about this matter, please do not hesitate to contact us. softitem[@]gmail.com. 
+If you have any question or concern about this matter, please do not hesitate to contact us. softitemcom[@]gmail.com. 
 
   
 
