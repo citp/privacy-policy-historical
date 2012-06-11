@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213010321id_/http%3A//www.about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611223846id_/http%3A//www.about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
 
 # Privacy Collection Statement | Sensis
 
@@ -26,11 +26,11 @@ Personal information is collected by Sensis to, among other things; enable us to
 
 Sensis collects personal information in a number of ways, including: 
 
-  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you use or submit information to us through our websites (eg by email or cookies) or when you subscribe to digital applications (apps); 
-  * from third parties such as our Related Companies, carriage service providers, credit reporting agencies or your representatives; 
-  * from publicly available sources of information, including from your public websites and from your listings in other online directories; 
-  * from the organisations identified below under "[When we disclose your personal information](http://about.sensis.com.au/legal/privacy.php?ref=ypflk#disclose#disclose)"; 
-  * from our own records of how you use our services; or 
+  * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you use or submit information to us through our websites (eg by email or cookies) or when you subscribe to digital applications (apps);
+  * from third parties such as our Related Companies, carriage service providers, credit reporting agencies or your representatives;
+  * from publicly available sources of information, including from your public websites and from your listings in other online directories;
+  * from the organisations identified below under "[When we disclose your personal information](http://about.sensis.com.au/legal/privacy.php?ref=ypflk#disclose#disclose)";
+  * from our own records of how you use our services; or
   * when legally required to do so. 
 
 
@@ -39,17 +39,17 @@ Sensis collects personal information in a number of ways, including:
 
 Your personal information may be used in order to:
 
-  * verify your identity; 
-  * assist you to subscribe to our products and services; 
-  * provide our products and services, including directory services and advertising through a number of media; 
-  * administer and manage those products and services, including charging, billing and collecting debts; 
-  * make changes to your profile; 
-  * respond to any queries or feedback you may have; 
-  * inform you of ways the products and services provided to you could be improved; 
-  * conduct appropriate checks for credit-worthiness and for fraud; 
-  * prevent and detect any misuse of, or fraudulent activities involving the Sensis websites; 
-  * research and develop our products and services; 
-  * gain an understanding of your information and communication needs or obtain your feedback or views about our services in order for us to provide you with a better service; 
+  * verify your identity;
+  * assist you to subscribe to our products and services;
+  * provide our products and services, including directory services and advertising through a number of media;
+  * administer and manage those products and services, including charging, billing and collecting debts;
+  * make changes to your profile;
+  * respond to any queries or feedback you may have;
+  * inform you of ways the products and services provided to you could be improved;
+  * conduct appropriate checks for credit-worthiness and for fraud;
+  * prevent and detect any misuse of, or fraudulent activities involving the Sensis websites;
+  * research and develop our products and services;
+  * gain an understanding of your information and communication needs or obtain your feedback or views about our services in order for us to provide you with a better service;
   * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
 
 
@@ -61,14 +61,14 @@ Sensis may also use your personal information to promote and market the products
 
 ##### When we disclose your personal information
 
-In order to deliver the services you require or for the purposes set out above, Sensis may disclose your personal information to organisations outside Sensis. Your personal information is disclosed to these organisations only in relation to Sensis and Related Companies providing services to our customers. These organisations may carry out:
+In order to deliver the services you require or for the purposes set out above, Sensis may disclose your personal information to organisations outside Sensis, which may include overseas. Your personal information is disclosed to these organisations only in relation to Sensis and Related Companies providing services to our customers. These organisations may carry out:
 
-  * customer enquiries; 
-  * mailing systems; 
-  * billing and debt-recovery functions; 
-  * information technology services; 
-  * marketing, telemarketing and sales services; 
-  * market research; and 
+  * customer enquiries;
+  * mailing systems;
+  * billing and debt-recovery functions;
+  * information technology services;
+  * marketing, telemarketing and sales services;
+  * market research; and
   * website usage analysis. 
 
 
@@ -76,14 +76,14 @@ In order to deliver the services you require or for the purposes set out above, 
 Sensis takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.   
 In addition, we may disclose your personal information to: 
 
-  * your authorised representatives or legal advisers (when requested by you to do so); 
-  * credit-reporting and fraud-checking agencies; 
-  * credit providers (for credit related purposes such as creditworthiness, credit rating, credit provision and financing); 
-  * Telstra and our Related Companies; 
-  * our professional advisers, including our accountants, auditors and lawyers; 
-  * government and regulatory authorities and other organisations, as required or authorised by law; 
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation); 
-  * our directories and syndication partners; and 
+  * your authorised representatives or legal advisers (when requested by you to do so);
+  * credit-reporting and fraud-checking agencies;
+  * credit providers (for credit related purposes such as creditworthiness, credit rating, credit provision and financing);
+  * Telstra and our Related Companies;
+  * our professional advisers, including our accountants, auditors and lawyers;
+  * government and regulatory authorities and other organisations, as required or authorised by law;
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation);
+  * our directories and syndication partners; and
   * other telecommunication and information service providers (eg if you obtain services from other providers, we may need to disclose your information for billing purposes). 
 
 
@@ -114,7 +114,7 @@ Sensis may use third parties to analyse usage statistics on our websites. Such a
 
 Telstra’s and Sensis’ digital advertising network is responsible for placing some of the advertising on Sensis’ sites. To make this advertising more relevant to you, anonymous information about the previous web browsing activity on your computer’s internet browser on sites within Telstra’s and Sensis’ network is collected and used to associate your computer with one or more pre-defined interest categories. 
 
-Advertising that matches those interest categories may then be served to your computer’s internet browser. This interest based advertising (also called online behavioural advertising) does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra and Sensis ****[**here**](http://www.telstra.com.au/privacy/interest-based-advertising/). General information about interest based advertising is available from the industry website [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/ "http://www.youronlinechoices.com.au/"), and you can also opt out of some or all interest based advertising [here](https://web.archive.org/web/20111213010321id_/http://about.sensis.com.au/Privacy-Collection-Statement/www.youronlinechoices.com.au/opt-out).
+Advertising that matches those interest categories may then be served to your computer’s internet browser. This interest based advertising (also called online behavioural advertising) does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra and Sensis ****[**here**](http://www.telstra.com.au/privacy/interest-based-advertising/). General information about interest based advertising is available from the industry website [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/ "http://www.youronlinechoices.com.au/"), and you can also opt out of some or all interest based advertising [here](https://web.archive.org/web/20120611223846id_/http://about.sensis.com.au/Privacy-Collection-Statement/www.youronlinechoices.com.au/opt-out).
 
 ##### Acts in the course of journalism
 
@@ -128,7 +128,7 @@ You may click-through to third party sites from our sites in which case we recom
 
 Sensis takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
 
-  * let us know if there are any errors in your personal information; and 
+  * let us know if there are any errors in your personal information; and
   * keep us up to date with changes to personal information such as your name, address, contact details. 
 
 
