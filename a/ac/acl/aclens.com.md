@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216141122id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611030246id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
+
+| 
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.aclens.com/seal_m "Validate TRUSTe privacy certification")
 
 AC Lens collects information about its customers both during the order process and as customers navigate the http://www.aclens.com/ web site. The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and AC Lens will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, AC Lens reserves the right to contact existing customers regarding store specials and other significant events.
 
-**Opt-Out Provided**   
+**Opt-Out Provided**  
 AC Lens will provide existing customers with the opportunity to "opt-out" or choose to be removed from future mailings from AC Lens. Opt-out information will be included with any non-personal or non-essential message sent to prior customers. You may also Opt-Out by sending an email to [service@aclens.com](mailto:service@aclens.com) requesting that you be removed from certain types of future mailings or calling 1-888-248-5367. A personal or essential message is one that would relate directly to the particular customer's order.
 
 **Non-Personal Information**  
@@ -21,7 +23,7 @@ AC Lens may verify your prescription information provided with your order with y
 **Legal Disclosure of Your Information**  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-**Contests and Drawings**  
+**Contests an Drawings**  
 AC Lens may sponsor or host contests or drawings from time to time. Some contests may be offered in conjunction with a third party sponsor and website users will be notified at the time of the contest as to whether a third party sponsor is involved and whether the third party will be receiving the user's information to send promotional communications. The website user can then choose whether to enter the contest or not at that time based on the terms and conditions associated with that particular contest.
 
 **Transaction Security**  
