@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154219id_/http%3A//www.apexlearning.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612144146id_/http%3A//apexlearning.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Apex Learning | Privacy Policy
 
@@ -121,4 +121,4 @@ _No Guarantee of Security_. No data transmission over the Internet is guaranteed
 If you have questions or concerns regarding this Privacy Policy, please contact our support department at: Apex Learning Inc. 1215 Fourth Ave., Suite 1500 Seattle, WA 98161 or via email at: [support@apexlearning.com](mailto:support@apexlearning.com). In the U.S. you may also call us toll-free at: 1 (800) 453-1454.   
 
 
-Copyright © 2011 Apex Learning Inc. Apex Learning®, the Apex Learning logo, ClassTools®, ClassTools Achieve®, ClassTools Virtual™, Literacy Advantage™, and Beyond Books® are either registered trademarks or trademarks of Apex Learning Inc. 
+Copyright © 2012 Apex Learning Inc. Apex Learning®, the Apex Learning logo, ClassTools®, ClassTools Achieve®, ClassTools Virtual™, Literacy Advantage™, and Beyond Books® are either registered trademarks or trademarks of Apex Learning Inc. 
