@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphone5specs.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229171436id_/http%3A//www.iphone5specs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone5specs.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612213109id_/http%3A//www.iphone5specs.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone 5 Specs and News
 
