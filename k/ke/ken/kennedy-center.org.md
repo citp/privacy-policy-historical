@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222004008id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612075325id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Kennedy Center: Privacy Statement
 
