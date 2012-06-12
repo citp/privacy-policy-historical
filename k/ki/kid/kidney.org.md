@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143541id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612093925id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
 
-# National Kidney Foundation: Our Privacy Policy
+# National Kidney Foundation: Local Offices
 
 ## **Privacy**
 
@@ -16,7 +16,7 @@ When you apply for membership, donate funds or a vehicle, register for an event,
 
 ## Online Transactions
 
-National Kidney Foundation Web sites employ Secure Socket Layer (SSL) security for data encryption and firewall technology. System passwords are routinely changed.All credit card information transmitted during online transactions is processed with Secure Socket Layer (SSL) security, an established protocol for transmitting information via the Internet which uses server authentication and data encryption to ensure that your data is safe and secure. Once processed, credit card information is not stored. Access to National Kidney Foundation Web sites is restricted to authorized staff only. Despite use of these safeguards, we cannot guarantee and do not represent that your information will always be secure from unauthorized access. 
+National Kidney Foundation Web sites employ Secure Socket Layer (SSL) security for data encryption and firewall technology. System passwords are routinely changed. All credit card information transmitted during online transactions is processed with Secure Socket Layer (SSL) security, an established protocol for transmitting information via the Internet which uses server authentication and data encryption to ensure that your data is safe and secure. Once processed, credit card information is not stored. Access to National Kidney Foundation Web sites is restricted to authorized staff only. Despite use of these safeguards, we cannot guarantee and do not represent that your information will always be secure from unauthorized access.
 
 ## Web Site Cookies
 
@@ -28,7 +28,7 @@ The National Kidney Foundation uses cookies to remember visitor preferences. For
 
 ## Advertising
 
-This Web site does not accept advertising 
+This Web site does not accept advertising.
 
 [Policy on Discontinuing Contact](https://web.archive.org/about/pdf/PolicyDiscontinuingContact.pdf)
 
