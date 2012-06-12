@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016194956id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612045548id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.aspx) for the most accurate reproduction.*
 
 # Web Site Privacy Policy for the Monterey Bay Aquarium
 
@@ -113,6 +113,5 @@ If you have any questions about this Policy or our practices related to the Site
 
 #### 6.2 UPDATES AND CHANGES.
 
-We reserve the right, at any time, to revise this Policy simply by posting a revised Policy and without any notice to you. Any such revision will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+We reserve the right, at any time, to revise this Policy simply by posting a revised Policy and without any notice to you. Any such revision will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.  
 
-Back to top
