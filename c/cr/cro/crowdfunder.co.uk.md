@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125428id_/http%3A//www.crowdfunder.co.uk/pg/privacy-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612112502id_/http%3A//www.crowdfunder.co.uk/pg/privacy-policy-17) for the most accurate reproduction.*
 
 # Privacy policy - Crowdfunder
 
@@ -8,7 +8,7 @@ The purpose of this Privacy Policy is to let you know what kinds of information 
 
 **1**. Personal data means data which is capable of identifying a living person. Users of the site may provide us with personal data, such as their name, address, telephone number and credit card details.
 
-**2**. Crowdcube Plc (“we” or “us”) provide the Crowdfunder service (“Crowdfunder”), and this website. Your personal data will be collected, processed, stored and used by us, and passed to and processed by other data processors acting under contract with us to provide and promote Crowdfunder, to process payments you make to us, to provide customer support, and for other purposes referred to in this Privacy Policy and the other agreements that Users may have with us. It is possible that some of the computer systems and companies that process your data on our behalf may be based in countries outside the European Union (“EU”).  Countries outside the EU may not have as well developed data protection laws to protect your information as those inside the EU, but we will ensure that your personal data is treated in compliance with United Kingdom data protection laws and this Privacy Policy.
+**2**. Crowdcube Ltd (“we” or “us”) provide the Crowdfunder service (“Crowdfunder”), and this website. Your personal data will be collected, processed, stored and used by us, and passed to and processed by other data processors acting under contract with us to provide and promote Crowdfunder, to process payments you make to us, to provide customer support, and for other purposes referred to in this Privacy Policy and the other agreements that Users may have with us. It is possible that some of the computer systems and companies that process your data on our behalf may be based in countries outside the European Union (“EU”).  Countries outside the EU may not have as well developed data protection laws to protect your information as those inside the EU, but we will ensure that your personal data is treated in compliance with United Kingdom data protection laws and this Privacy Policy.
 
 **3**. In the course of using Crowdfunder, Users may make their personal data available to others. It is the Users’ responsibility to ensure that they wish to reveal information about themselves (including personal data) in their use of the Crowdfunder Service.
 
@@ -36,4 +36,4 @@ Please note that you will also receive important emails from us that are an inte
 
 **8.** Your personal data may be disclosed if we or an entity processing your data on our behalf are compelled to do so by law, or receive a valid, legally compliant request by a law enforcement or governmental authority.
 
-**9.** To inspect, change or correct your identity and contact information, please log-in. If you have other questions about the handling or protection of your personal data, a written enquiry should be addressed to by email to support@crowdfunder.co.uk.
+To inspect, change or correct your identity and contact information, please log-in. If you have other questions about the handling or protection of your personal data, a written enquiry should be addressed to by email to support@crowdfunder.co.uk.
