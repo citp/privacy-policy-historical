@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211195839id_/http%3A//www.oddee.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddee.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612230856id_/http%3A//www.oddee.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We respect our users’ privacy and we are committed to safeguarding their priva
 Like most standard website servers, ours use log files. The information collected in our log files includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. 
 
 **2\. Email Contact**  
-If a user wishes to communicate with us they must supply an email address and name in order to use our [contact us](https://web.archive.org/web/20111211195839id_/http%3A//www.oddee.com/contactus.aspx) page. 
+If a user wishes to communicate with us they must supply an email address and name in order to use our [contact us](https://web.archive.org/web/20120612230856id_/http%3A//www.oddee.com/contactus.aspx) page. 
 
 **3\. Newsletter/RSS Feed**  
 If a user wishes to subscribe to our newsletter or RSS feed, we ask for an email address. Out of respect for our users privacy we provide a way to opt-out of these communications. 
@@ -57,4 +57,4 @@ This website contains links to other sites. Please be aware that we are not resp
 
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20111211195839id_/http%3A//www.oddee.com/contactus.aspx). 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20120612230856id_/http%3A//www.oddee.com/contactus.aspx). 
