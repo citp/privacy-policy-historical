@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypetwarehouse.com.au privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212090858id_/http%3A//www.mypetwarehouse.com.au/store/content/29/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetwarehouse.com.au privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612022302id_/http%3A//www.mypetwarehouse.com.au/privacy) for the most accurate reproduction.*
 
-# Pet Supplies, Pet Accessories, Pet Products, Vet Supplies Online | Privacy Policy - My Pet Warehouse
+# Privacy Policy - My Pet Warehouse
 
 |   
 ---|---  
@@ -32,12 +32,12 @@ If you choose to visit My Pet Warehouse, your visit and any dispute over privacy
 It is important to realise that our business changes constantly, and our Privacy Policy and Conditions of Use may change accordingly. Although periodic reminders of our policies and conditions may be emailed to you (unless you have instructed us not to) we recommend reviewing our website policies from time to time to ensure any changes to these policies and conditions are understood and agreed to. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 **Questions**  
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link found in our menu. Or you can email us directly at: [sales@mypetwarehouse.com.au](mailto:sales@centrecom.com.au)
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link found in our menu. Or you can email us directly at: [sales@mypetwarehouse.com.au](mailto:sales@mypetwarehouse.com.au)
 
 My Pet Warehouse knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This policy describes our privacy policy. By visiting My Pet Warehouse, you are accepting the practices described in this Privacy Policy.
 
-**Common Search Terms:** [Pet Supplies Online](http://www.mypetwarehouse.com.au/) | Pet Accessories | Pet Food | Pet Products | Pet Supplies | Pet Grooming | [MyPetWarehouse](http://www.mypetwarehouse.com.au/store/go/about-us/) | [Online Pet Store](http://www.mypetwarehouse.com.au/) | [Pet Barn](http://www.mypetwarehouse.com.au/store/content/60/Pet-Barn/)   
-Dog Collars | Dog Food | Dog Accessories | Dog Supplies | Dog Grooming | [Petbarn](http://www.mypetwarehouse.com.au/store/content/60/Pet-Barn/) | Cat Supplies | Cat Food | Cat Grooming | Vet Supplies | Pet Care
+**Common Search Terms:** [Pet Supplies Online](http://www.mypetwarehouse.com.au/) | Pet Accessories | Pet Food | Pet Products | Pet Supplies | Pet Grooming | [MyPetWarehouse](http://www.mypetwarehouse.com.au/about) | [Online Pet Store](http://www.mypetwarehouse.com.au/) | [Pet Barn](http://www.mypetwarehouse.com.au/pet-barn)   
+Dog Collars | Dog Food | Dog Accessories | Dog Supplies | Dog Grooming | [Petbarn](http://www.mypetwarehouse.com.au/pet-barn) | Cat Supplies | Cat Food | Cat Grooming | Vet Supplies | Pet Care
 
 Copyright © MyPetWarehouse 2012 all rights reserved. A.B.N. 21 620 597 911. All prices listed are in AUD and include GST.  
-Prices and specifications are subject to change without notice. E&OE. SEO by [Shout Web Strategy](http://www.shoutwebstrategy.com.au/).
+Prices and specifications are subject to change without notice. E&OE. 
