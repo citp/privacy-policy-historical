@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125124932id_/http%3A//www.brittany-ferries.co.uk/information/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612021221id_/http%3A//www.brittany-ferries.co.uk/information/security-privacy) for the most accurate reproduction.*
 
 # Brittany Ferries - Brittany Ferries online privacy policy
 
-Brittany Ferries is strongly committed to conforming to the Data Protection Act (1998) and to protecting your privacy and providing a safe online experience for all our users.
-
-This Privacy Policy applies to information collected online throughout Brittany Ferries Web site. 
+Brittany Ferries is strongly committed to conforming to the Data Protection Act (1998) and to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online throughout Brittany Ferries Web site. 
 
 ## Security
 
-When making a booking on our website, all information you submit to us - including all personal and financial details - is transmitted in encrypted form. This encryption process ensures that all information is coded before it is sent across the Internet.
-
-We also offer extra payment security through these providers.
-
-[ ](http://www.mastercard.com/uk/personal/en/cardholderservices/securecode/faqs.html) [ ](http://www.visaeurope.com/personal/onlineshopping/verifiedbyvisa/main.jsp)
+When making a booking on our website, all information you submit to us - including all personal and financial details - is transmitted in encrypted form. This encryption process ensures that all information is coded before it is sent across the Internet. We also offer extra payment security through MasterCard SecureCode® and Verified by Visa.
 
 ## Collection and tracking of personal information
 
 So that we can provide you with the most efficient and enhanced service, we request information about you when you sign up to our newsletter mailing list. We collect personally identifiable information such as names, email addresses and demographic information such as age, gender and post code. We also may collect your IP address, browser type, domain name, access times and referring Web site address. This information is collected both during registration on a site or in response to specific requests, for example when signing up for a newsletter.
 
-## What we do with collected information
+### What we do with collected information
 
 We use personal information so that we may send you the most relevant offers based on your details. You may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our service, respond to any problems that may arise and to gauge user trends to determine what part of our services are most popular.
 
@@ -30,9 +24,7 @@ We do not under any circumstances sell any personal details to third parties.
 
 ## Use of cookies
 
-Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable the cookie function on your browser.
-
-Some pages on our site contain cookies which serve to help us in analysing user behaviours and purchasing patterns which we use to help us improve our services. 
+Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable the cookie function on your browser. [Find out more](http://www.brittany-ferries.co.uk/information/about-cookies) about what cookies are used on the Britany Ferries UK Site.
 
 ## Other tracking systems
 
@@ -52,12 +44,4 @@ We will occasionally update this Privacy Policy as necessary to maintain the hig
 
 If you have any questions about this Privacy Policy or our privacy practices, please write to us at:
 
-Internet Team  
-Brittany Ferries  
-Millbay Docks  
-Plymouth  
-Devon  
-PL1 3EW  
-England
-
-Updated July 2008
+Internet Team, Brittany Ferries, Millbay Docks, Plymouth, Devon, PL1 3EW, England
