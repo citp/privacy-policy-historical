@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scasd.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109015854id_/http%3A//www.scasd.org/site/Default.aspx%3FPageType%3D3%26ModuleInstanceID%3D4586%26ViewID%3D7b97f7ed-8e5e-4120-848f-a8b4987d588f%26RenderLoc%3D0%26FlexDataID%3D4091%26PageID%3D713) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scasd.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612065156id_/http%3A//www.scasd.org/site/Default.aspx%3FPageType%3D3%26ModuleInstanceID%3D4586%26ViewID%3D7b97f7ed-8e5e-4120-848f-a8b4987d588f%26RenderLoc%3D0%26FlexDataID%3D4091%26PageID%3D713) for the most accurate reproduction.*
 
 # 
 
