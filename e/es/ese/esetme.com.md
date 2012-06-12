@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esetme.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130051014id_/http%3A//www.eset.com/me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esetme.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612160845id_/http%3A//www.eset.com/me/privacy) for the most accurate reproduction.*
 
 # ME :: Privacy
 
