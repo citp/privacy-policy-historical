@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nbc10.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009163038id_/http%3A//www.nbcphiladelphia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc10.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612025509id_/http%3A//www.nbcphiladelphia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NBC Philadelphia
-
-## Privacy Policy
+# Privacy Policy | NBC 10 Philadelphia
 
 _This Privacy Policy was last updated on July 8, 2011._
 
