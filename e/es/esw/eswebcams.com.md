@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526200455id_/http%3A//support.camsluts.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612100914id_/http%3A//support.camsluts.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
 
 # Cam Sluts
 
