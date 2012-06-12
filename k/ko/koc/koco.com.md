@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the koco.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105033715id_/http%3A//www.koco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koco.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612053147id_/http%3A//www.koco.com/connect/privacy) for the most accurate reproduction.*
 
-# KOCO.com - Privacy
+# privacy
 
-**HEARST TELEVISION PRIVACY POLICY**
+  * **HEARST TELEVISION PRIVACY POLICY**
 
 This Web site (the "Site"), on which this Privacy Policy is posted, is operated by Hearst Television Inc. ("Hearst Television") and its parent, subsidiary and affiliated entities (collectively referred to herein as "we", "us", "our" or "Hearst"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](https://web.archive.org/station/21273835/detail.html), which governs your use of this Site in general.
 
@@ -142,6 +142,9 @@ We reserve the right, in its sole discretion, to modify, alter or otherwise upda
 
 **How can you ask questions or contact us?**
 
-If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:hearsttelevisionnotice@hearst.com).
+If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:hearsttelevisionnotice@hearst.com)
 
 **Effective: October 1, 2009**
+
+
+
