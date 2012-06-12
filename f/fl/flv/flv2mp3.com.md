@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the flv2mp3.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205005428id_/http%3A//www.flv2mp3.com/info/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flv2mp3.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612085927id_/http%3A//flv2mp3.com/info/policy) for the most accurate reproduction.*
 
-# YouTube to MP3 converter and free online video downloader. The best Youtube downloader for you
+# 
+
+  * [Terms of Service](http://flv2mp3.com/info/terms)
+  *  · 
+  * [Privacy Policy](http://flv2mp3.com/info/policy)
+  *  · 
+  * [FAQ](http://flv2mp3.com/info/faq)
+  *  · 
+  * [Top 1000](http://flv2mp3.com/top/top1000)
+  *  · 
+  * [Feedback](http://flv2mp3.com/feedback/)
+
+
+
+  * Privacy Policy
+
+
 
 Absolutely no information given to the flv2mp3.com via membership, feedback form or mailing list will be given, sold or distributed to any outside organization. Your contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings by contacting flv2mp3.com. Children under the age of 14 are not permitted to register at our site, nor are they permitted to submit personal information via feedback forms or through our mailing list.
 
