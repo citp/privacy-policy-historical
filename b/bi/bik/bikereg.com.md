@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231155001id_/http%3A//www.bikereg.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612025108id_/http%3A//www.bikereg.com/privacy.aspx) for the most accurate reproduction.*
 
 # BikeReg.com - online cycling event registration
 
@@ -38,7 +38,7 @@ For removing information from our database to not receive future communications 
 
 Correct/Update
 
-To change and modify information previously provided, visit [http://www.bikereg.com](http://www.bikereg.com/) or email [Info@BikeReg.com](mailto:Info@BikeReg.com).
+To change and modify information previously provided, visit <http://www.bikereg.com/> or email [Info@BikeReg.com](mailto:Info@BikeReg.com).
 
 Contacting the Web Site
 
