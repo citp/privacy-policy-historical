@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008122522id_/http%3A//www.nbcnewyork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612025555id_/http%3A//www.nbcnewyork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC New York
-
-## Privacy Policy
 
 _This Privacy Policy was last updated on July 8, 2011._
 
