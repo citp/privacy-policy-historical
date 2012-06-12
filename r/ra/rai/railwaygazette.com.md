@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229032728id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612163354id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Railway Gazette: Privacy Policy
+# Privacy Policy - Railway Gazette
 
 **PRIVACY POLICY railwaygazette.com  
 **We take the protection of our users’ personal data very seriously and comply with the regulations imposed by data protection laws. We also do our utmost to ensure that the data collected is protected by technical and organisational measures as part of our IT security policy. Your data will not be forwarded to third parties. The only exceptions to this apply in cases where the law requires this or we have a legal obligation to do so or should you have expressly given your consent to the data being forwarded.  
