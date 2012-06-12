@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008043318id_/http%3A//www.spencersonline.com/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612204348id_/http%3A//www.spencersonline.com/privacy-policy1) for the most accurate reproduction.*
 
 # Spencer's - Privacy Policy
 
