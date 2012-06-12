@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerotohundred.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206123442id_/http%3A//www.zerotohundred.com/newforums/faq-and-enquiries/229433-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerotohundred.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612133808id_/http%3A//www.zerotohundred.com/newforums/faq-and-enquiries/229433-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zerotohundred.com
 
@@ -27,8 +27,7 @@ We use industry-standard traffic reporting records through our multiple website 
 **Legal proceedings**  
 We will make every possible effort to preserve user privacy but Zerotohundred.com may need to disclose information when required by law.
 
-**Business Transitions**
-
+**Business Transitions**  
 If Zerotohundred.com is acquired by or merges with another firm, the assets of our website, including personal information, will likely be transferred to the new firm.
 
 **Links**  
