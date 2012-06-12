@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crowdfunder.co.uk privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101125428id_/http%3A//www.crowdfunder.co.uk/pg/privacy-policy-17) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdfunder.co.uk privacy policy that was archived on 2012-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120612112502id_/http%3A//www.crowdfunder.co.uk/pg/privacy-policy-17) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -19,22 +19,22 @@
 	<!-- !!! STOP BOTS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 	
 	
-	<link href="http://www.crowdfunder.co.uk/favicon.ico" rel="SHORTCUT ICON">
+	<link href="/favicon.ico" rel="SHORTCUT ICON">
 		
-	<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/default.css">
-	<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/global.css?v=4">
-	<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/jquery.lightbox-0.5.css">
-	<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/fancybox/jquery.fancybox-1.3.1.css">
-	<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/style.css?v=16">
+	<link rel="stylesheet" type="text/css" href="/css/default.css">
+	<link rel="stylesheet" type="text/css" href="/css/global.css?v=4">
+	<link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css">
+	<link rel="stylesheet" type="text/css" href="/css/fancybox/jquery.fancybox-1.3.1.css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css?v=16">
 	
-	<link rel="stylesheet" type="text/css" media="print" href="http://www.crowdfunder.co.uk/css/print.css">
+	<link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
 	
 	<!--[if IE 6]>
-	<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/style-ie6.css" />
+	<link rel="stylesheet" type="text/css" href="/css/style-ie6.css" />
 		<![endif]-->
 	
 	<!--[if IE 7]>
-		<link rel="stylesheet" type="text/css" href="http://www.crowdfunder.co.uk/css/style-ie7.css" />
+		<link rel="stylesheet" type="text/css" href="/css/style-ie7.css" />
 	<![endif]-->
 	
 		
@@ -46,15 +46,57 @@
 </head>
 <body>
 
+<div id="cookieInformationBar"><div style="background-color:#d7d7d7;padding:4px 0px 4px 0px;border-style:solid;border-color:#505050;border-width:0px 0px 1px 0px;"><div style="width:974px;margin:0 auto;color:#606060;"><div style="text-align:center;">We use cookies to help provide you with the best possible online experience.<br> By using this site, we’ll assume that you’re happy to receive cookies. <a href="http://www.crowdfunder.co.uk/pg/privacy-policy-17" class="cookieLink">View Cookie Policy</a>.</div></div><div class="clear"></div></div></div>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	function cookieInformationBar_Agree() {
+		document.getElementById('cookieInformationBar').style.display = "none";
+	}
+	function setCookie(c_name,value,exdays) {
+		var exdate = new Date();
+		exdate.setDate(exdate.getDate() + exdays);
+		var c_value = escape(value) + ((exdays == null) ? "" : "; expires="+exdate.toUTCString());
+		c_value += ';path=/';
+		document.cookie = c_name + "=" + c_value;
+	}
+	function getCookie(c_name) {
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)	{
+			x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			x=x.replace(/^\s+|\s+$/g,"");
+			if (x==c_name) {
+				return unescape(y);
+			}
+		}
+	}
+	var cf_cookie = getCookie('cf_cookie_accept');
+	//console.log('CFC:'+cf_cookie);
+	if (typeof cf_cookie == "undefined") {
+		//console.log('CFC: not set..');
+		var bar = '<div style="background-color:#d7d7d7;padding:4px 0px 4px 0px;border-style:solid;border-color:#505050;border-width:0px 0px 1px 0px;">';
+		bar += '<div style="width:974px;margin:0 auto;color:#606060;">';
+		bar +='<div style="text-align:center;">';
+		bar +='We use cookies to help provide you with the best possible online experience.<br />';
+		bar +=' By using this site, we’ll assume that you’re happy to receive cookies.';
+		bar +=' <a href="http://www.crowdfunder.co.uk/pg/privacy-policy-17" class="cookieLink">View Cookie Policy</a>.';
+		//bar +='<input onclick="cookieInformationBar_Agree()" type="button" style="cursor:pointer;background-color:#c0c0c0;padding:2px 6px 2px 6px;border-style:solid;border-color:#a0a0a0;border-width:1px;color:#606060;" value="I Agree" />';
+		bar +='</div>'
+		bar +='</div>'
+		bar +='<div class="clear"></div>'
+		bar +='</div>';
+		document.getElementById('cookieInformationBar').innerHTML = bar;
+		setCookie('cf_cookie_accept','1',3650); // Expires in 10 years
+	}
+</script>
 <div class="header">
 	<div class="header_inner">
 		
 		<div class="logo">
-	<a class="pngfix" href="http://www.crowdfunder.co.uk/" title="Crowdfunding, UK fundraising platform for creative &amp; social projects | Crowdfunder">Crowdfunding, UK fundraising platform for creative &amp; social projects | Crowdfunder</a>
+	<a class="pngfix" href="/" title="Crowdfunding, UK fundraising platform for creative &amp; social projects | Crowdfunder">Crowdfunding, UK fundraising platform for creative &amp; social projects | Crowdfunder</a>
 </div>
 		
 			<div class="login_top">
-		<form action="http://www.crowdfunder.co.uk/login" method="post">
+		<form action="/login" method="post">
 		<div>
 			<div class="col_1">
 				<div class="divInputText_143x22">
@@ -80,9 +122,9 @@
 											</div>
 					<div class="clear"></div>
 								<div class="header_links_register_pass_recovery">
-					<a href="http://www.crowdfunder.co.uk/register" title="Become a member! Register now!">Register</a>
+					<a href="/register" title="Become a member! Register now!">Register</a>
 					<span class="delimiter">|</span>
-					<a href="http://www.crowdfunder.co.uk/password-recovery" title="Recover your password">Forgotten password</a>
+					<a href="/password-recovery" title="Recover your password">Forgotten password</a>
 				</div>
 				<div class="clear"></div>
 			</div>
@@ -101,9 +143,9 @@
 		<div class="nav_menu_top">
 						<ul>
 									<li><a href="/investments" title="Fund a pitch"><span>Fund a pitch</span></a></li>
-									<li><a href="http://www.crowdfunder.co.uk/pg/-funding-your-project-3" title="Start a pitch"><span>Start a pitch</span></a></li>
-									<li><a href="http://www.crowdfunder.co.uk/pg/how-crowdfunder-works-4" title="How it works"><span>How it works</span></a></li>
-									<li><a href="http://www.crowdfunder.co.uk/pg/about-crowdfunder-1" title="About us"><span>About us</span></a></li>
+									<li><a href="/pg/-funding-your-project-3" title="Start a pitch"><span>Start a pitch</span></a></li>
+									<li><a href="/pg/how-crowdfunder-works-4" title="How it works"><span>How it works</span></a></li>
+									<li><a href="/pg/about-crowdfunder-1" title="About us"><span>About us</span></a></li>
 									<li><a href="http://blog.crowdfunder.co.uk/" target="_blank" title="Blog"><span>Blog</span></a></li>
 									<li><a href="http://forum.crowdfunder.co.uk/" target="_blank" title="Forum"><span>Forum</span></a></li>
 								
@@ -124,7 +166,7 @@
 			
 <div class="breadcrumbs">
 	<ul>
-					<li><a href="http://www.crowdfunder.co.uk/" title="Home">Home</a></li>
+					<li><a href="/" title="Home">Home</a></li>
 				<li class="last"><strong>Privacy policy</strong></li>
 			</ul>
 	<div class="clear"></div>
@@ -137,7 +179,7 @@
 				</div>
 				
 					<div class="buttonSignUp">
-		<a class="commonLinkButton_134x34" href="http://www.crowdfunder.co.uk/register">Sign up now</a>
+		<a class="commonLinkButton_134x34" href="/register">Sign up now</a>
 	</div>
 				
 				<div class="clear"></div>
@@ -151,7 +193,7 @@
 <p><b style="mso-bidi-font-weight:normal">Privacy Policy<o:p></o:p></b></p>
 <p>The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have about how we &nbsp;use the information.<o:p></o:p></p>
 <p><strong>1</strong>. Personal data means data which is capable of identifying a living person. Users of the site may provide us with personal data, such as their name, address, telephone number and credit card details.<o:p></o:p></p>
-<p><strong>2</strong>. Crowdcube Plc (“we” or “us”) provide the Crowdfunder service (“Crowdfunder”), and this website. Your personal data will be collected, processed, stored and used by us, and passed to and processed by other data processors acting under contract with us to provide and promote Crowdfunder, to process payments you make to us, to provide customer support, and for other purposes referred to in this Privacy Policy and the other agreements that Users may have with us. It is possible that some of the computer systems and companies that process your data on our behalf may be based in countries outside the European Union (“EU”).&nbsp; Countries outside the EU may not have as well developed data protection laws to protect your information as those inside the EU, but we will ensure that your personal data is treated in compliance with United Kingdom data protection laws and this Privacy Policy.<o:p></o:p></p>
+<p><strong>2</strong>. Crowdcube Ltd (“we” or “us”) provide the Crowdfunder service (“Crowdfunder”), and this website. Your personal data will be collected, processed, stored and used by us, and passed to and processed by other data processors acting under contract with us to provide and promote Crowdfunder, to process payments you make to us, to provide customer support, and for other purposes referred to in this Privacy Policy and the other agreements that Users may have with us. It is possible that some of the computer systems and companies that process your data on our behalf may be based in countries outside the European Union (“EU”).&nbsp; Countries outside the EU may not have as well developed data protection laws to protect your information as those inside the EU, but we will ensure that your personal data is treated in compliance with United Kingdom data protection laws and this Privacy Policy.<o:p></o:p></p>
 <p><strong>3</strong>. In the course of using Crowdfunder, Users may make their personal data available to others. It is the Users’ responsibility to ensure that they wish to reveal information about themselves (including personal data) in their use of the Crowdfunder Service.<o:p></o:p></p>
 <p><strong>4</strong>. Cookies are small files which, depending on your browser settings, may be automatically stored on your computer's hard drive when your Web browser accesses a specific Web page. The cookies on the Crowdfunder site are set by us, or (where an advertiser deploys a cookie) by the advertiser. You may not be able to register for Crowdfunder, nor will you be able to use certain aspects of the Crowdfunder service, if your browser is set to reject cookies.&nbsp; You can find out how to do this at: <a href="http://www.allaboutcookies.org/manage-cookies/">http://www.allaboutcookies.org/manage-cookies/</a><o:p></o:p></p>
 <p>The Web sites you visit, including those of advertisers, have their own privacy policies. We advise you to review the privacy policies of Web sites before providing them with any of your personal data.<o:p></o:p></p>
@@ -165,7 +207,7 @@
 <p><strong>c. </strong>to keep his/her password or other access information secret.<o:p></o:p></p>
 <p><strong>7. </strong>We will retain your personal data only as long as is necessary for the purposes to which you consent under your agreement(s) with us and this Privacy Policy, or as is required by applicable law, and then we will delete it.<o:p></o:p></p>
 <p><strong>8.</strong>Your personal data may be disclosed if we or an entity processing your data on our behalf are compelled to do so by law, or receive a valid, legally compliant request by a law enforcement or governmental authority.<o:p></o:p></p>
-<p><span style="font-size: small; "><span style="font-family: Arial; "><strong><span style="line-height: 115%; ">9. </span></strong><span style="line-height: 115%; ">To inspect, change or correct your identity and contact information, please log-in. If you have other questions about the handling or protection of your personal data, a written enquiry should be addressed to by email to support@crowdfunder.co.uk.</span></span></span></p>
+<p>To inspect, change or correct your identity and contact information, please log-in. If you have other questions about the handling or protection of your personal data, a written enquiry should be addressed to by email to support@crowdfunder.co.uk.</p>
 <p>&nbsp;</p>					<div class="clear"></div>
 					
 					
@@ -193,59 +235,62 @@
 
 <div class="footer">
 	<div class="footer_inner">
-		
+
 		<div class="footer_content">
 			<div class="col_1">
 				<div class="nav_menu_footer">
-										<ul>
-													<li><a href="/contact" title="Contact us">Contact us</a></li>
-													<li class="notFirst">| <a href="http://www.crowdfunder.co.uk/pg/user-contract-11" title="Terms and conditions">Terms and conditions</a></li>
-													<li class="notFirst">| <a href="http://www.crowdfunder.co.uk/pg/privacy-policy-17" title="Privacy policy">Privacy policy</a></li>
-													<li class="notFirst">| <a href="/sitemap" title="Sitemap">Sitemap</a></li>
-													<li class="notFirst">| <a href="http://www.crowdfunder.co.uk/pg/faq-24" title="FAQ">FAQ</a></li>
-											</ul>
-										
+												<ul>
+																	<li><a href="/contact" title="Contact us">Contact us</a></li>
+																	<li class="notFirst">| <a href="/pg/user-contract-11" title="Terms and conditions">Terms and conditions</a></li>
+																	<li class="notFirst">| <a href="/pg/privacy-policy-17" title="Privacy policy">Privacy policy</a></li>
+																	<li class="notFirst">| <a href="/sitemap" title="Sitemap">Sitemap</a></li>
+																	<li class="notFirst">| <a href="/pg/faq-24" title="FAQ">FAQ</a></li>
+																	<li class="notFirst">| <a href="/pg/guidelines-34" title="Guidelines">Guidelines</a></li>
+															</ul>
+						
 										<div class="clear"></div>
 				</div><!-- .nav_menu_footer -->
-				
+
 				<div id="webSiteDevelopment">
-					<span>Part of The Crowdcube Group  © 2010-2011&nbsp;</span>
+					<span>Part of The Crowdcube Group  © 2010-2012&nbsp;</span>
 					<a style="margin-right: 2px;" class="CommonLink" href="http://www.crowdcube.com/" target="_blank">Crowdcube Limited</a>
 					<span>.&nbsp;&nbsp;&nbsp;&nbsp;</span>
-					
+					<br>
 					<a class="webSiteDevelopmentLink" href="http://www.exsistowebsitedesign.co.uk/services/corporate-website-development-1" target="_blank" title="Web design agency Exsisto Ltd.">Developed</a> <span>by&nbsp;</span>
 					<a class="exsistoLinkLogo pngfix" href="http://www.exsistowebsitedesign.co.uk/" target="_blank" title="Web design agency Exsisto Ltd.">Web design agency Exsisto Ltd.</a>
 					<div class="clear"></div>
 				</div><!-- .webSiteDevelopment -->
-				
+
 			</div>
+            <div class="col_2">
+            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.crowdfunder.co.uk&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br> <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
+            </div>
 			<div class="col_2">
-				<div>
-					<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tbody><tr><td align="center"></td></tr>
-<tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img style="width: 300px;" src="https://www.paypal.com/en_GB/i/bnr/horizontal_solution_PP.gif" border="0" alt="Solution Graphics"></a></td></tr></tbody></table><!-- PayPal Logo -->
-				</div>
-								
+            <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tbody><tr><td align="center"></td></tr><tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/bnr_shopNowUsing_150x60.gif" border="0" alt="Additional Options"></a></td></tr></tbody></table><!-- PayPal Logo -->
 			</div>
+            <div class="col_3">
+                <a href="http://www.crowdsourcing.org/caps"><img border="0" src="/images/common/awards/caps-badge-dark.png"></a>
+            </div>
 			<div class="clear"></div>
 		</div><!-- .footer_content -->
-		
+
 	</div><!-- .footer_inner -->
 </div><!-- .footer -->
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery.watermarkinput-modified.js"></script>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery.styled-select.js"></script>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery.id_tabs.js"></script>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery.jcarousel.js"></script>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery.lightbox-0.5.min.js"></script>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.watermarkinput-modified.js"></script>
+<script type="text/javascript" src="/js/jquery.styled-select.js"></script>
+<script type="text/javascript" src="/js/jquery.id_tabs.js"></script>
+<script type="text/javascript" src="/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
+<script type="text/javascript" src="/js/jquery.fancybox-1.3.1.pack.js"></script>
 
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/ckeditor_2/ckeditor.js"></script>
+<script type="text/javascript" src="/ckeditor_2/ckeditor.js"></script>
 
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/common.js?v=3"></script>
+<script type="text/javascript" src="/js/common.js?v=3"></script>
 
 <!--[if IE 6]>
-<script type="text/javascript" src="http://www.crowdfunder.co.uk/js/pngfix_dd_belated.js"></script>
+<script type="text/javascript" src="/js/pngfix_dd_belated.js"></script>
 <script type="text/javascript">
 	DD_belatedPNG.fix(".pngfix, .anotherClass p, .block_featured_pitches .item .itemProgressBar");
 </script>
@@ -289,7 +334,7 @@
 				);
 			
 			
-										newwindow = window.open( 'http://www.crowdfunder.co.uk/fbconnectredirect?form_source=' + form_source + '&fblogin=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2RpYWxvZy9vYXV0aD9jbGllbnRfaWQ9MTI1MzMzNTE3NTU5ODk2JnJlZGlyZWN0X3VyaT1odHRwJTNBJTJGJTJGd3d3LmNyb3dkZnVuZGVyLmNvLnVrJTJGZmJjb25uZWN0JTJGTDNCbkwzQnlhWFpoWTNrdGNHOXNhV041TFRFMyUzRmxvZ2luc3VjYyUzRDEmc3RhdGU9NjAyMmYyNmZjMjczZjI5OTliNWNiYTNjMjI5YjJiYjQmc2NvcGU9ZW1haWw=' , 'Login_by_facebook' , features);
+										newwindow = window.open( '/fbconnectredirect?form_source=' + form_source + '&fblogin=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2RpYWxvZy9vYXV0aD9jbGllbnRfaWQ9MTI1MzMzNTE3NTU5ODk2JnJlZGlyZWN0X3VyaT1odHRwJTNBJTJGJTJGd3d3LmNyb3dkZnVuZGVyLmNvLnVrJTJGZmJjb25uZWN0JTJGTDNCbkwzQnlhWFpoWTNrdGNHOXNhV041TFRFMyUzRmxvZ2luc3VjYyUzRDEmc3RhdGU9ZjFkNDNlNWUyNjhiMDQ1NzU3ZGJjMGMxYzFhODQ3ZDUmc2NvcGU9ZW1haWw=' , 'Login_by_facebook' , features);
 						
 						
 			if (window.focus) {newwindow.focus()}
@@ -316,4 +361,4 @@
 </script>
 
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
