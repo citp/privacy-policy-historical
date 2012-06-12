@@ -1,83 +1,45 @@
-> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901215803id_/http%3A//www.fretplay.com/privacy-statement-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612113917id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy Policy | Songsterr Guitar Tabs and Chords
 
-Sem Hadland AS is the sole owner of the information collected on Fretplay.com. Fretplay.com collects information from our users at several different points on our Web site. 
+Songsterr.com is an online educational and entertainment community that allows users to watch and learn how to play guitar tabs from worldwide music artists. Users can create their own accounts.
 
-### Submitted tabs and chords
+Songsterr.com is very conscious of online privacy concerns. If you have any questions concerning this privacy policy, please email us at [hq@songsterr.com](mailto:hq@songsterr.com)
 
-These files are the author's own work and represents their interpretation of the song. You may only use this file for private study, scholarship, or research.
+## Data Collection and Use
 
-### Profile
+Songsterr.com will collect members submitted information such as name and email address in order to authenticate a member and to communicate with that member about our services.
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. We [do not] share your profile with other third parties. [Your profile is shared in aggregate form only.] [Your profile is shared together with your personally identifiable information.]
+Songsterr.com may also choose to log non-personal identifiable data including your IP address, account information, user data, and browser type, from all members and visitors to the site. This data collection is used to assist us in managing the website, track the usage and improve our services. This non-personal identifiable information may be shared with third-parties to provide more relevant services and advertisements to members.
 
-### Cookies
+Email addresses are used on the site for the purposes of sending updates, newsletters or general news regarding the website services. With the exception of these uses, a user’s email address is not shared or displayed within users. Users may choose to opt out of receiving emails of this type by changing their account settings.
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. [Usage of a cookie is in no way linked to any personally identifiable information while on our site.] We use [both] session ID cookies [and] persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+## Your Financial Information
 
-### Third Party Advertising
+Songsterr.com is designed to provide a safe and secure environment for making payments. When you subscribe to Songsterr Plus account, our systems redirects your browser software on your computer to establish a secure, encrypted connection using an Internet-standard technology called SSL with a third-party payment processing system. This encrypted connection prevents information from being intercepted as it travels the Internet between our systems. You can verify that you are viewing a secure web page by checking your browser’s lock icon — on a secure page the lock will appear in the “locked” position.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Your credit card information is sent through a secure connection to third-party credit card processor directly and is never retained on our servers.
 
-This privacy statement covers the use of cookies by fretplay.com only and does not cover the use of cookies by any advertisers.
+If for any reason these systems fail and unauthorized charges are made to your account, the Fair Credit Billing Act stipulates that your bank cannot hold you liable for more than $50 of fraudulent charges. This protection applies only to credit cards (not debit cards) issued under the laws of the United States of America. Credit cards issued in other countries may afford similar protection.
 
-### Log Files
+## Cookies
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Songsterr.com uses cookies to store visitors’ preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customise newsletters, advertising, and Web page content based on browser type and users information. The information that is stored in cookies is not linked to any personally identifiable information which members enter on the site. You can change your cookie preferences within your browser settings to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set, however, disabling cookies with Songsterr.com may limit the services available to you. Please be aware that Songsterr.com allows 3rd party advertisers that are placing advertisements on some page of our site to set and access their cookies on your computer. Each Advertiser is subject to their own privacy policy and use of cookies and it is not party to the Songsterr Privacy Policy.
 
-### Clear Gifs (Web Beacons/Web Bugs)
+## Links
 
-We employ Commission Junction a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.
+Songsterr.com is not responsible or liable for the privacy policies and/or practices on other linked sites. When linking to another site a user or visitor should read the privacy policy associated with that site. This privacy policy is only associated with information collected on Songsterr.com.
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited “www.companyX.com”, which uses an advertising company's clear gif, the Web site [or advertising company] would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company [or Web site].
+## Correcting/Updating or Removing Information
 
-### Legal Disclaimer
+Songsterr.com users may modify or remove any of their personal information at any time by logging into their account and accessing Edit Profile feature.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+## Security
 
-### Aggregate Information (non-personally identifiable)
+Songsterr.com user accounts are secured by member-created passwords. Songsterr.com takes every endeavor to ensure that members account information is kept private. We take reasonable measures to protect member information that is stored within our databases, and there is restricted access to member information to only those employees who need access, such as our customer service and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorised entry or use, hardware or software failure, and other factors could compromise the security of member information at any time. If you would like any additional information about the security measures we use, please contact us at [hq@songsterr.com](mailto:hq@songsterr.com)
 
-We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
+## Changes in Our Privacy Policy
 
-### Business Transitions
-
-In the event fretplay.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
-
-### Links
-
-This Web site contains links to other sites. Please be aware that we, fretplay.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-### Surveys & Contests
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used [shared with the contest survey sponsors] to notify the winners and award prizes. [Anonymous] Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.
-
-### Chat Rooms, Message Boards, and Public Forums
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
-
-### Security  
-
-
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-If users have any questions about the security at our Web site, please use the contact info below.
-
-### Supplementation of Information
-
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-### Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
-
-Sem Hadland  
-Markveien 2  
-4370 Egersund  
-Norway 
-
-[sem(a)fretplay.com](mailto:sem\(a\)fretplay.com) (change (a) with @ - antispam)
+We may make changes to our privacy policy on occasion, in the event of this we will post the changes on the site to ensure that our users are always aware of the information we collect, how we use it, and when we may disclose it. Acceptance of any minor changes will be taken if a user uses the site after those changes have been posted. In the event that we are going to use user personally identifiable information in such a way that is materially different from that stated at the time of collection we will post a notice on the Web site for 30 days.
