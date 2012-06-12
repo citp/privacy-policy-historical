@@ -1,42 +1,70 @@
-> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164015id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612075335id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books Ltd
 
-This web site is owned and operated by Penguin Books Limited.
+This web site is owned and operated by **Penguin Books Limited**.
 
-How to contact us
+Our Privacy Policy 
 
-If you have any questions about this web site or our privacy policy, please contact us by writing to:
+We want visitors to our websites to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.
 
-Online Marketing,  
-Penguin Group (UK),  
-80 Strand,  
-London WC2R 0RL
+**By using our websites you accept the terms of this Privacy Policy.**
 
-or by telephoning: 020 7010 3000.
+Personal Information 
 
-Our approach to privacy
+We will not collect any personal data from you unless you specifically provide it and we will only use that information for the purposes to which you have consented. We do not ask you to provide any more information than is reasonably necessary to enable you to participate in an activity on our website and to improve the website.
 
-We want people who visit our web site to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about your rights and the way we collect and use personal information.
+We do not generally disclose your personal information to third parties. We may have to sometimes, in which case we will inform you of our intention to do so when we collect the information and you will have the opportunity to consent to that use or not.
 
-We do not ask you to disclose any more information than is reasonably necessary to enable you to participate in an activity on our web site and to improve the web site.
+Except as described in this Privacy Policy, we do not maintain any personal information obtained from users through this website in a retrievable form.
 
-We do not generally disclose personal information we have collected from you through this web site to third parties. We may do so sometimes, in which case we will say so when the information is collected and you will be able to inform us that you do not want us to do this. This will not stop you enjoying the site, you can simply tell us that you are happy for us to have the information so you can take part in the activities we offer, but that you do not want us to pass that information on.
+The information that we collect and how we use it
 
-Besides what we describe in this Privacy Policy, we do not maintain any personal information obtained from users through this web site in a retrievable form.
+Below are some examples of when we might request your information and how we will use it.
 
-The information we collect and how we use it
+**Newsletters**  
+We have several newsletters that keep readers up-to-date with information on our books, authors, events, offers etc. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you. We may also ask you to provide other information about yourself, such as your name, age, sex and location so that we can personalise your newsletters.
 
-When you want to participate in activities on our web site, this is the sort of information we ask for and how we use it:
+**Prize Promotions**  
+We regularly run competitions and prize draws and, in addition to your answer or entry, we will require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented when you entered.
 
-* When you enter competitions, we ask you for your name, email and residential address. If you win, we can let you know if you have won anything, send you your prize and let other people (such as other users of our website, the public and our own employees) know about our competitions and their winners.
+**Shopping**  
+To be able to buy items from any of our online shops, we will require you to register an account with us. For this, we will ask you to provide your name, email address, a password and password reminder, your billing and delivery address and bank details. We use a third-party payment service to facilitate purchases through our site so, by providing us with your information, you consent to us passing that information to our payment service provided for the purpose of completing your transactions.
 
-* When you send e-postcards, we will ask you for your name and email address so we can let whoever receives the postcard know who sent it and so we can make sure you get a copy (by email) too.
+**Forums and User Content**  
+If you sign up to one of our forums, we will ask you to provide a username and email address so that we can let people know who posts which comment and to enable us to deal with any inappropriate or offensive behaviour.
 
-* If you register to be sent information about our authors, books and so forth either on the Hear From Us page or in any of the following areas of the web site: the Press Office, Author's Lounge, Academics pages or Booksellers pages, we will ask you for your name, contact and demographic details. We use this information to identify you, to contact you about your interest in Penguin, including sending out information you have requested, and for internal market research purposes.
+For the same reasons, if you provide comments on any articles or upload your own content to our sites, we may ask you to provide your email address. 
 
-We only keep the personal information you submit for these purposes until we have made use of it in these ways.
+**Email and other contact details** You may wish to contact us from time to time by sending us letters or emails or by filling in contact forms on one of our websites. We will only use this information to respond to your query or suggestion.
 
 Cookies
 
-We use cookies on this web site. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They enable us to recognize your web browser. In effect, cookies tell us when you have visited our site and where you have been, but they do not identify you personally - just the presence of your browser. We use cookies to see how often people visit our site and what they look at. This helps us to know what parts of the site are popular - what people are interested in - so we can make sure we have more interesting material on the site in future. If you don't want us to be able to do this, your browser's help section should be able to tell you how you can disable or filter cookies and how to arrange for your browser to tell you when you've been sent a new cookie.
+We use cookies on this site to enable certain parts of the site to function and to collect non-personal information about your use of the site so that we can improve our visitors' experience.
+
+**What are Cookies?**  
+Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They cannot harm your computer and do not contain any information that enable us to identify you personally, they just enable our websites to recognise your computer and to identify certain other non-personal information such as which browser you are using. This information can be used to make the website work, to identify which parts of the site can work better or to analyse how often people visit the site and what they look at. We will not associate this data with any personally identifying information that you may choose to provide to us in other ways.
+
+B **y your using this website, we imply that you have read this policy and agree to us sending you cookies.**
+
+Third Party Cookies
+
+Some features used on this website may involve a cookie being sent to your computer by a third party. For example, if you view or listen to any embedded audio or video content you may be sent cookies from the site where the embedded content is hosted. Likewise, if you share any content on this website through social networks (for example by clicking a Facebook "like" button or a "Tweet" button) you may be sent cookies from these websites. We do not control the setting of these cookies so please check the websites of these third-parties for more information about their cookies and how to manage them.
+
+**How to manage cookies**  
+To make full use of this site, your device must be set to accept cookies otherwise some of its functionality (for example online shopping) may not work.
+
+If you nevertheless want to restrict, block or disable cookies, you can do so by changing your browser settings. If you would like more specific information about how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which has detailed information for each browser as well as more information about cookies in general.
+
+How to contact us
+
+If you have any questions about this web site or our privacy policy, please contact us by writing to:  
+Digital Marketing  
+Penguin Books Limited  
+80 Strand  
+London  
+WC2R 0RL
+
+or by telephoning: 020 7010 3000.
+
+Last Updated: 18 May 2012
