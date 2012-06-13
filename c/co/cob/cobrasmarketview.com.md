@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013074916id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173013id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
 
-# Privacy Policy « Cobra's Market View
+# Privacy Policy | Cobra's Market View
 
 **What information do we collect?**
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service](http://terms%20of%20service/). 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service](http://www.cobrasmarketview.com/?page_id=149). 
 
 **Your Consent**
 
