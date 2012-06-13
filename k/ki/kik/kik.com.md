@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kik.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219213942id_/http%3A//www.kik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kik.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175408id_/http%3A//kik.com/privacy) for the most accurate reproduction.*
 
 # Kik - Privacy Policy
 
@@ -87,10 +87,11 @@ In addition to the disclosures described in Section 2, we may additionally discl
 
 9.1 You can help by keeping us informed of any changes such as a change of address or telephone number. If you have any questions, comments or suggestions or if you find any errors in our information about you, please contact us at:
 
-Tera Dargavel  
+Community Manager  
+Kik Interactive Inc  
 420 Weber St N  
 Waterloo, ON  
 N2L 4E7   
-tera@kik.com
+support@kik.com
 
 9.2 We take compliance with the privacy laws seriously and if you have a complaint concerning our compliance we will investigate your complaint and if it is justified, we will take appropriate measures. 
