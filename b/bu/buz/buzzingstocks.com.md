@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzingstocks.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213135914id_/http%3A//www.buzzingstocks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzingstocks.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174916id_/http%3A//www.buzzingstocks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzingStocks.com
 
