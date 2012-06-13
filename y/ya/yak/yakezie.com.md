@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203222658id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613184918id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yakezie.com
 
@@ -15,5 +15,9 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+The Yakezie Network **does not** own the respective Member sites, nor do we have control over the content of respective Member sites except for on Yakezie.com.  Members are free to join the Challenge to become Members and leave as they please.  Please contact the respective Members site owners if there are any issues or questions.
+
+Per FTC guidelines, this website may be compensated by companies mentioned through advertising, affiliate programs or otherwise. Any references to third party products, rates, or websites are subject to change without notice. Please do the appropriate research before participating in any third party offers.
 
 [Contact the webmaster for more information](mailto:webmaster@yakezie.com "Email the Webmaster") | [Read our Terms of Service](http://yakezie.com/terms-of-service "Yakezie.com Terms of Service")
