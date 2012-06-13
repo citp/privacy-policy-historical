@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mysurvey.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011025808id_/https%3A//www.mysurvey.com/index.cfm%3Faction%3DMain.lobbygeneral%26mycontent%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysurvey.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613022918id_/https%3A//www.mysurvey.com/index.cfm%3Faction%3DMain.lobbygeneral%26mycontent%3DPRIVACY) for the most accurate reproduction.*
 
 # MySurvey | Discover the Power of Your Opinion
 
 ## My Survey Privacy Policy
 
 **Policy Effective Date:** March 1998  
-**Last Revised:** January 2011
+**Last Revised:** December 2011
 
 | [](http://www.truste.org/ivalidate.php?url=www.mysurvey.com&sealid=102)  
   
@@ -58,7 +58,7 @@ As is the case with any information you provide to any business operating in the
 **Updating Your Personal Information:**  
 _Policies on Correcting/Updating Personal Information_
 
-MySurvey.com relies on panel members themselves to provide any updates to personal identifying information. Members may update email addresses, password, mailing address, phone number as well as name of the person who initially registered by going to the Update Your Info section of this website (available to members only). For changes to any other personal information, including user name, panel members are asked to contact MySurvey.com via [email](https://web.archive.org/web/20111011025808id_/https%3A//www.mysurvey.com/index.cfm?action=Main.lobbyGeneral&myContent=CONTACT "Contact Us") or by phone. The toll-free customer service number is 1-800-537-4097. Customer service hours are 9 AM to 10 PM (Eastern Time) on weekdays and 10 AM to 6 PM on Saturday. Members may also update their email addresses or other information by [emailing](https://web.archive.org/web/20111011025808id_/https%3A//www.mysurvey.com/index.cfm?action=Main.lobbyGeneral&myContent=CONTACT "Contact Us"), by calling, or by mailing in their changes (see postal address at the end of this page), whatever they prefer. (Please note that changes sent via the postal service will take longer to implement due to time needed for mail delivery.) We will respond to your change request within 30 days of receiving it; the response will either be to change your information as requested or to respond to you with more information. (Note: when emailing us with changes to your information, please use the email links provided above.)
+MySurvey.com relies on panel members themselves to provide any updates to personal identifying information. Members may update email addresses, password, mailing address, phone number as well as name of the person who initially registered by going to the Update Your Info section of this website (available to members only). For changes to any other personal information, including user name, panel members are asked to contact MySurvey.com via [email](https://web.archive.org/web/20120613022918id_/https%3A//www.mysurvey.com/index.cfm?action=Main.lobbyGeneral&myContent=CONTACT "Contact Us") or by phone. The toll-free customer service number is 1-800-537-4097. Customer service hours are 9 AM to 10 PM (Eastern Time) on weekdays and 10 AM to 6 PM on Saturday. Members may also update their email addresses or other information by [emailing](https://web.archive.org/web/20120613022918id_/https%3A//www.mysurvey.com/index.cfm?action=Main.lobbyGeneral&myContent=CONTACT "Contact Us"), by calling, or by mailing in their changes (see postal address at the end of this page), whatever they prefer. (Please note that changes sent via the postal service will take longer to implement due to time needed for mail delivery.) We will respond to your change request within 30 days of receiving it; the response will either be to change your information as requested or to respond to you with more information. (Note: when emailing us with changes to your information, please use the email links provided above.)
 
 MySurvey.com may occasionally supplement information obtained from panel members with third party information (such as demographic or ownership information that MySurvey.com doesn't typically collect, e.g. small dog ownership). In order to accomplish this, we may need to share your information with a third party. MySurvey.com may also use third party database applications to provide services (such as customer support or email communications to members). In such cases, we ensure your privacy by having these third parties sign a written, legally binding agreement stipulating that they will not share MySurvey.com data with any outside party and that any individual identifying information is to be used solely for the purpose of matching records or providing the agreed upon database service.
 
@@ -69,7 +69,7 @@ _Your Decision Not To Participate_
 
 Panel members may decline to respond to a survey or opt to drop interactive panel membership at any time. We respect the decision to decline participation and will not try to dissuade you. Panelists who prefer not to complete a given survey need not do so.
 
-Panelists who would like to withdraw their membership from the interactive panel may do so at any time by contacting MySurvey.com via email or by calling the toll-free customer service number (1-800-537-4097). Customer service hours are 9 AM to 10 PM (Eastern Time) on weekdays and 10 AM to 6 PM on Saturday. Panelists may also withdraw membership by clicking on the unsubscribe link found on the Contact page in the member area of the MySurvey.com site and on the bottom of every email that members receive from MySurvey.com. We will process all unsubscribe requests within 10 days of receipt and usually within 48 hours of receipt.
+Panelists who would like to withdraw their membership from the interactive panel may do so at any time by contacting MySurvey.com via email or by calling the toll-free customer service number (1-800-537-4097). Customer service hours are 9 AM to 10 PM (Eastern Time) on weekdays and 10 AM to 6 PM on Saturday. Panelists may also withdraw membership by clicking on the unsubscribe link found at the bottom of the My Profile page in the member area of the MySurvey.com site and on the bottom of every email that members receive from MySurvey.com. We will process all unsubscribe requests within 10 days of receipt and usually within 48 hours of receipt.
 
 Upon receipt of the drop request, MySurvey.com may ask you to complete brief survey about the reason(s) for discontinuing membership. This survey is optional and does not involve any additional email; any results will help us improve panel members' experience. Thereafter, MySurvey.com will stop sending survey notifications. However, the panel member will continue to be entered in the sweepstakes drawing for the contest period in which participation was suspended unless the panelist requests otherwise. Following the sweepstakes drawing and any relevant winner notification, no further contact will occur.
 
@@ -80,7 +80,7 @@ MySurvey.com uses cookies on our registration and survey forms during the time y
 
 MySurvey.com also uses cookies on the member area of the site to store user name automatically and password (optionally) so that the user does not have to repeatedly retype the information. For users' convenience, this cookie is stored for subsequent sessions. Member area cookies are also used to identify valid members in order to protect access to their specific member information (such as rewards account information) and to personalize their experience on the site. The web server also creates cookies to uniquely identify each user session when a member visits the site. This latter cookie is automatically deleted at the end of a session.
 
-MySurvey.com also uses cookies for advertising research purposes by keeping track of the types of online advertisements that you see on the websites that you visit, as well as the number of times that you see those ads.
+MySurvey.com also uses cookies, including Flash cookies, for advertising research purposes by keeping track of some of the types of online advertisements that you see on the websites that you visit, as well as the number of times that you see those ads.
 
 No personal identifying information is stored on any cookie nor do we retain any cookied information on our databases.
 
@@ -100,7 +100,7 @@ _How to Contact Us About Your Privacy Concerns_
 
 Questions regarding this statement should be directed to the MySurvey.com site coordinator.
 
-  * via email - [Click here to email us.](https://web.archive.org/web/20111011025808id_/https%3A//www.mysurvey.com/index.cfm?action=Main.lobbyGeneral&myContent=CONTACT "Contact Us")
+  * via email - [Click here to email us.](https://web.archive.org/web/20120613022918id_/https%3A//www.mysurvey.com/index.cfm?action=Main.lobbyGeneral&myContent=CONTACT "Contact Us")
   * via regular mail directed to:
 
 MySurvey.com Technical Support  
