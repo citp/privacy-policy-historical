@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekapp.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209164652id_/http%3A//www.seekapp.com%3Ftmp%3Dseekapp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekapp.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171704id_/http%3A//www.seekapp.com%3Ftmp%3Dseekapp_privacy) for the most accurate reproduction.*
 
 # SeekApp.com - Explore the possibilities! - Privacy Policy
 
