@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecritic.co.uk privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128180933id_/http%3A//www.cruisecritic.co.uk/aboutus/%3FID%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613220219id_/http%3A//www.cruisecritic.co.uk/aboutus/%3FID%3D11) for the most accurate reproduction.*
 
 # CruiseCritic.co.uk - About Us
 
@@ -22,7 +22,7 @@ We have adopted the following Principles of Privacy, which summarize and clarify
 
 _Information Collected by Third Parties_. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies to collect information about your online activities. The purposes for collecting this information include: to measure usage of our site; to analyze, modify, and personalize advertising content on this and other sites; and to provide ads about goods and services that may be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. To learn more, please click here <http://www.networkadvertising.org/>.
 
-7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please visit <http://www.cruisecritic.co.uk/newsletter/manage.cfm> or contact the [Community Manager](mailto:community@cruisecritic.com).
+7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please utilize the Update Profile link at the bottom of any of our mailings.
 
 The Independent Traveler, Inc.  
 7 Tree Farm Road  
