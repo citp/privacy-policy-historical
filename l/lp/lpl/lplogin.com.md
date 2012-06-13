@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lplogin.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220609id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lplogin.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613211812id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Lunarpages Privacy Policy
 
@@ -96,5 +96,3 @@ Lunarpages reserves the right to revise, amend, or modify this policy and our ot
 Version 3.1
 
 Effective 10/1/2008
-
-© 2000 - 2011 Add2Net, Inc. All Rights Reserved.
