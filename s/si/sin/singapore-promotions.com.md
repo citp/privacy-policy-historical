@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singapore-promotions.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212223822id_/http%3A//singapore-promotions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singapore-promotions.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171118id_/http%3A//singapore-promotions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Singapore Promotions
 
@@ -6,7 +6,7 @@ This is the web site of Singapore-Promotions.Com.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
-We collect the e-mail addresses of those who post messages to our comments, subscribe to our e-mail notifications, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, mailing lists, information volunteered by the consumer, such as survey information and/or site registrations.
+We collect the e-mail addresses of those who post messages to our comments, subscribe to our e-mail notifications, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, mailing lists, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used for internal review, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor. E-Mail addresses in particular, are never sold to any third parties.
 
