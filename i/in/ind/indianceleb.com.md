@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indianceleb.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227231215id_/http%3A//www.indianceleb.com/ourprivacyvow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianceleb.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613232029id_/http%3A//www.indianceleb.com/ourprivacyvow.html) for the most accurate reproduction.*
 
 # IndianCeleb Privacy Vow
 
-Cyber Art Works is committed to protecting the privacy of our customer's personal information. The following information explains our information gathering and dissemination practices. 
+IndianCeleb is committed to protecting the privacy of our customer's personal information. The following information explains our information gathering and dissemination practices. 
 
 **_Information Collected:_**
 
@@ -43,17 +43,17 @@ Back to Top
 
 **_Other Web Sites; Links:_**
 
-This web site contains links to other web sites. Cyber Art Works is not responsible for the privacy practices or the content of such web sites.   
+This web site contains links to other web sites. IndianCeleb is not responsible for the privacy practices or the content of such web sites.   
 Back to Top
 
 **_Opt-Out, Delete/Deactivate:  _**
 
-While Cyber Art Works does not give users the opportunity to remove their information from our database, you may elect not to receive future communications or to discontinue use of our service. If you're about to register for our service please un-check the box that says, "Occasionally email me product news." If you are already a registered user please visit the profile page of our web site and uncheck the box related to sending information to you via email or you can send an email to unsubscribe [@] indianceleb.com and request that no future communications be sent to you from us.    
+While IndianCeleb does not give users the opportunity to remove their information from our database, you may elect not to receive future communications or to discontinue use of our service. If you're about to register for our service please un-check the box that says, "Occasionally email me product news." If you are already a registered user please visit the profile page of our web site and uncheck the box related to sending information to you via email or you can send an email to unsubscribe [@] indianceleb.com and request that no future communications be sent to you from us.    
 Back to Top
 
 **_Correct/Update:_**
 
-Cyber Art Works allows its users the option to change information previously provided. This may be done through the following method: 
+IndianCeleb allows its users the option to change information previously provided. This may be done through the following method: 
 
 1\. Visit [www.indianceleb.com](http://www.indianceleb.com/) and log in   
 2\. Click on the Profile tab    
@@ -66,7 +66,7 @@ To contact IndianCeleb.com please drop an email at [webmaster at the rate Indian
 Back to Top
 
 **_Our Email Confidentiality Policy:_**   
-Cyber Art Works is absolutely committed to protecting the privacy of our users.We will not give or sell your contact information to third parties.   
+IndianCeleb is absolutely committed to protecting the privacy of our users.We will not give or sell your contact information to third parties.   
 Back to Top
 
 **_Terms of Service:_**   
@@ -74,7 +74,7 @@ Click here for the full Terms of Service. 
 Back to Top
 
 **_Copyright Policy:_**   
-Cyber Art Works respects the copyright and intellectual property rights of others, and believes that our members should respect those rights as well. Materials which infringe or appear to infringe upon the proprietary rights of others may be removed by Cyber Art Works in our sole discretion. In addition, Cyber Art Works may terminate the accounts of members who appear to infringe the copyright or other intellectual property rights of others.    
+IndianCeleb respects the copyright and intellectual property rights of others, and believes that our members should respect those rights as well. Materials which infringe or appear to infringe upon the proprietary rights of others may be removed by IndianCeleb in our sole discretion. In addition, IndianCeleb may terminate the accounts of members who appear to infringe the copyright or other intellectual property rights of others.    
 If you believe that your copyright in any material has been infringed on our site, please notify us. You must provide us with the following information, which we will then forward to the alleged infringer:    
  
 
