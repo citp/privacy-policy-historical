@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213144135id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172431id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
 
-# Legal | Black Viper's Website | www.blackviper.com
+# Legal | Black Viper | www.blackviper.com
 
 ## Introduction
 
@@ -57,7 +57,7 @@ The banners:
 
   * Google, as a third party vendor, uses cookies to serve ads on my sites.
   * Google’s use of the DART cookie enables it to serve ads to my readers based on their visit to my sites and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
 
 
 
