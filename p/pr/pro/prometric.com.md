@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215060706id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613221437id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.*
 
 # Prometric Services: Testing an Assessment
 
