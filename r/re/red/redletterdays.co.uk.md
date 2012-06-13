@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207184638id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614010459id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
@@ -6,25 +6,21 @@ At Red Letter Days we are committed to protecting your privacy. We use the infor
 
 ###  Controllers of personal information 
 
-Any personal information provided or to be gathered at redletterdays.co.uk is controlled by Red Letter Days, 77 Muswell Hill, Muswell Hill, London, N10 3RE. 
+Any personal information provided or to be gathered at redletterdays.co.uk is controlled by Red Letter Days, 77 Muswell Hill, Muswell Hill, London, N10 3PJ.
 
 ###  What information do we collect? How do we use it? 
 
-When you order, we need to know your name, address, email address, recipient name and delivery address. This allows us to process and fulfil your order and to notify you of the status of your order. 
+When you order, we need to know your name, address, email address, recipient name and delivery address. This allows us to process and fulfil your order and to notify you of the status of your order.
 
-We also ask for your telephone number, which enables us to contact you urgently if there is a problem with your order. 
+We also ask for your telephone number, which enables us to contact you urgently if there is a problem with your order.
 
-When you book an experience, we need you know your name, address, email address, answers to any questions required by our experience partners, and a telephone number (preferably mobile) so that we can contact you if there are any last-minute changes to your experience. We will also email you answers to any online booking questions submitted and responses to booking date requests. If you provide us with a mobile phone number, we will send you an SMS reminder the day before you are due to take part in your experience. 
+To book a date for your experience, we need you know your name, address, email address, answers to any questions required by our experience partners, and a telephone number (preferably mobile) so that we can contact you if there are any last-minute changes to your experience. We will also email you answers to any online booking questions submitted and responses to booking date requests. If you provide us with a mobile phone number, we will send you an SMS reminder the day before you are due to take part in your experience.
 
-If you have a web account, you can also access a copy of the booking confirmation letter to print and bring with you on the day. Throughout each of these processes, when you login or create an account, you are able to choose whether you wish to receive further information from us and the method by which you would like to receive it (email, post, telephone and/or SMS). 
+If you have a web account, you can also access a copy of the booking confirmation letter to print and bring with you on the day. When you create an account, or login at any time after this, you are able to choose whether you wish to receive occasional emails from us about offers, promotions and our latest gift ideas. 
 
 ###  How does Red Letter Days protect customer information? 
 
 When you place orders we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Legislation, we follow strict security procedures in the storage and disclosure of information you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you. 
-
-###  Red Letter Days' use of cookies 
-
-We do not use cookies for collecting customers' personal data from the site. Red Letter Days and our online advertising management partners do use cookies to track whether our customers have been referred to us by online advertisements. This enables us to learn which advertisements bring users to our website. The information collected is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
 
 ###  Will Red Letter Days disclose the information it collects to outside parties? 
 
@@ -32,7 +28,7 @@ Red Letter Days does not sell, trade or rent your personal information to others
 
 When a customer responds to a promotion offered in conjunction with a third party, that third party may, from time to time, collect information about those customers. They will only then be contacted if they have opted-in to receive further information.
 
-Red Letter Days may capture and provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
+Red Letter Days may capture and provide aggregate statistics about our customer behaviour, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
 We employ other companies and individuals to perform functions on our behalf.
 
@@ -59,3 +55,150 @@ By using our website, you consent to the collection and use of this information 
 ###  Tell us what you think 
 
 Red Letter Days welcomes your questions and comments about privacy. Please send emails to [feedback@redletterdays.co.uk](mailto:feedback@redletterdays.co.uk). 
+
+  
+
+
+## What are Cookies?
+
+A cookie is a tiny text file that is stored on your computer when you visit a website. Red Letter Days use these cookies to keep track of what you have in your basket when making a purchase and to help improve your visit to our site. For example, we may use this information to help us choose relevant products to show you or to identify errors and help us resolve them, making your shopping experience with us as enjoyable as possible.
+
+It is important to remember that these cookies cannot harm your computer and do not store any personal data, such as credit card details.
+
+We do have relationships with carefully selected third parties, who may set a cookie during your visit to our site for remarketing purposes; meaning that they may show you some of our products that you have shown an interest in at a later date.
+
+It is important for us to provide you with this information to comply with recent legislation and to ensure we are completely open and honest with you about your privacy when using our site.
+
+  
+
+
+## Our Cookies Policy
+
+To enable us to provide the optimum shopping experience on our site, your computer, tablet or mobile phone will need to accept cookies; helping us to provide you with certain personalised features of our site.
+
+The cookies on our site do not store any sensitive information such as your name, address or payment details; they simply hold the 'key' that, once you are signed in, is associated with this information. However, if you would prefer to restrict, block or delete cookies from our site, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser (or your mobile phone's handset manual) to learn how to change your cookie preferences.
+
+Here is a list of the main cookies we use and what we use them for: 
+
+Cookie Name | Usage  
+---|---  
+s_cc, s_sq, s_vi[ID], _#srchist, _#sess, _#env, _#tsa, _#uid, _#vdf, s_ppv, s_pv |  | Adobe SiteCatalyst  
+---  
+Read by the JavaScript code to determine if cookies are enabled. Used by the SiteCatalyst ClickMap functionality and to identify a unique visitor. No personal details are stored.  
+Utma, utmb, utmc, utuz |  | Google Analytics  
+---  
+Records the number of user visits, the time of the first, previous and current visit. Used to measure how long you stay on our site and where you came from. No personal details are stored.  
+ASP.NET_SessionId, NSC_xxxxxx-TTM, NSC_xxxxxx-iuuq, rld_user |  | Various Vendors  
+---  
+These cookies help our web servers deal with requests from you; such as placing items into the basket or selecting a product 
+
+They also help making bookings, keeping you in session along with keeping you safe and secure. We store various pieces of information such as test modes, user Id’s and where you came from. No personal details are stored.  
+  
+### Flash cookies
+
+Red Letter Days uses video content to bring experiences to life using Adobe Flash Player. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your user experience. Flash cookies are stored on your device in much the same way as other cookies, but they are managed differently by your browser.
+
+If you wish to disable or delete a Flash cookie, see [Adobe Flashplayer Security Settings](http://www.adobe.com/security/flashplayer/). Please bear in mind, if you disable Flash cookies for redletterdays.co.uk you will unable to access certain types of content, such as videos.
+
+### Social Networking sites
+
+You may have cookies stored on your computer from social networking sites such as Facebook and Twitter when you “share” redletterdays.co.uk content with friends. We do not control the settings of these sites, so you will have to check the specific site for more information about their cookies.
+
+### Further information about cookies
+
+For more information about cookies and how to manage them, please visit [aboutcookies.org](http://www.aboutcookies.org/)
+
+  
+
+
+## Third Party Cookies
+
+Whilst browsing our site you will notice that some of the cookies are not related to Red Letter Days. If you view a page that contains embedded content, cookies may be written to your computer from these sites. Red Letter Days does not have control over the cookie settings on these sites and we recommend that you check such sites for more information on how to manage their settings.
+
+Partners that may drop a cookie on redletterdays.co.uk include:
+
+Partner Name | Cookie Use  
+---|---  
+MyThings Media | MyThings Media use cookies to deliver personalised adverts when visiting other websites based on your visit to our site.  
+Adobe SiteCatalyst | SiteCatalyst is used to improve your online shopping experience. Information gathered is not confidential or interchangeable. No personal details are stored.  
+DC Storm, Affiliate Window, Affilinet, Google, MSN/Yahoo Search Alliance, Fan Distribution | Sometimes we advertise on third party websites. DC Storm cookies are used to enable us to track which advertisements you click on and interact with. Each advertiser uses its own tracking cookies; information gathered is not confidential or interchangeable.  
+  
+### Social Networking sites
+
+You may have cookies stored on your computer from social networking sites such as Facebook and Twitter when you “share” redletterdays.co.uk content with friends. We do not control the settings of these sites, so you will have to check the specific site for more information about their cookies.
+
+### Further information about cookies
+
+For more information about cookies and how to manage them, please visit [aboutcookies.org](http://www.aboutcookies.org/)
+
+If you would like to learn more about why we use cookies, the Internet Advertising Bureau (IAB) with its Affiliate Marketing Council (AMC) has produced an information website called [Online Performance Marketing, Cookies and You](http://www.iab-performance-marketing-explained.net/).
+
+  
+
+
+## Managing Cookies
+
+If cookies are switched off on your computer, your shopping experience with us will be restricted and you will not be able to complete your purchase.
+
+### Enabling cookies
+
+Follow these instructions to check the type of web browser you are using:
+
+**For PCs** select the "Help" tab at the top of your browser window and then select the "About" option
+
+**For Macs** select the Apple menu and then select the "About" option.
+
+### How to check cookies are enabled
+
+**Google Chrome**
+
+  * 1\. Click on "Tools" at the top of your browser window and select Options 
+  * 2\. Click the "Under the Hood" tab, locate the "Privacy" section, and select the "Content settings" button
+  * 3\. Now select "Allow local data to be set"
+
+
+
+**Microsoft Internet Explorer 6.0, 7.0, 8.0**
+
+  * 1\. Click on "Tools" at the top of your browser window and select "Internet options", then click on the "Privacy" tab
+  * 2\. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 
+  * 3\. Settings above Medium will disable cookies 
+
+
+
+**Mozilla Firefox**
+
+  * 1\. Click on "Tools" at the top of your browser window and select Options
+  * 2\. Then select the Privacy icon
+  * 3\. Click on Cookies, then select "allow sites to set cookies"
+
+
+
+**All other browsers**
+
+Please check browser documentation or online help forums
+
+### Third-party cookies
+
+Whilst browsing our site you will notice that some of the cookies are not related to Red Letter Days. If you view a page that contains embedded content, cookies may be written to your computer from these sites. Red Letter Days does not have control over the cookie settings on these sites and we recommend that you check such sites for more information on how to manage their settings.
+
+### Further information about cookies
+
+For more information about cookies and how to manage them, please visit [aboutcookies.org](http://www.aboutcookies.org/)
+
+  
+
+
+## Advertising on other websites (MyThings Media)
+
+Red Letter Days work with MyThings Media to offer you a selection of products that may be of interest to you based on your visit to our site. MyThings Media is the appointed agency for Red Letter Days and work with third party sites to advertise Red Letter Days products. Adverts will contain a variety of products from various sections of our site, based on the browsing history on your computer. Cookies are used to enable MyThings Media to do this.
+
+### Your Privacy
+
+Please remember that the information stored in cookies is completely anonymous and does not contain any personal information. You can find out more information on how MyThings Media works [here](http://www.mythings.com/English/General/OptOut).
+
+### Disabling Adverts
+
+If you decide that you no longer wish to receive adverts relevant to you, you can opt out permanently [here](http://www.mythings.com/English/General/OptOut).
+
+To find out more about cookies and how to opt out of certain ones, please visit Your Online Choices [here](http://www.youronlinechoices.com/uk/your-ad-choices).
