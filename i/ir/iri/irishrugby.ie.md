@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215014439id_/http%3A//www.irishrugby.ie/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613200421id_/http%3A//www.irishrugby.ie/legal.php) for the most accurate reproduction.*
 
 # Irish Rugby : The IRFU : Legal Notice & Privacy Policy
 
@@ -26,7 +26,58 @@ We employ other companies and individuals to perform functions on our behalf suc
 
 ## Cookies
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We may use cookies to store information on your computer. This information may help us identify if you are registered with the site and shortcut your access through the site. We will only read cookies from your cookie file placed there through your web browser's interaction with this site. Note that you may change your browser settings to refuse cookies.
+EU Cookie directive
+
+From 26 May 2011 a new European Union directive requires us to gain the consent of our users to download cookies on to their machines. There are various methods we could use to gain users consent. For example, we could use pop-ups; prompting users to tick a box to confirm they give permission for us to download cookies on their machine.
+
+Alternatively, we could use an online form that all users must complete before using the website.
+
+We consider both of these solutions as obtrusive. We want our users find information and services quickly.
+
+Therefore, we have taken the decision to promote how we use cookies on our website instead. This will enable users to make an informed decision whether they want to disable this feature.  
+There are links on our terms and conditions and disclaimer pages which are in the footer of every web page pointing to this information.
+
+What is a Cookie
+
+Information may be sent to your computer in the form of an Internet "cookie" to allow our servers to monitor your requirements. The cookie is stored on your computer. Our server may request that your computer return a cookie to it.
+
+These return cookies do not contain any information supplied by you or any personally identifiable information about you. However, we use cookies to keep track of your shopping cart when you are using the IRFU Store Online.
+
+Such measures are necessary to allow IRFU to measure the usability of the systems, which will help to continually improve user experience of our websites. Your browser software should however enable you to block cookies if you wish to. For more information about cookies, please visit <http://www.allaboutcookies.org/>.
+
+Strictly Necessary Cookies
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+Performance Cookies
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+Functionality Cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located.
+
+These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+Targeting or Advertising Cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+Google Analytics
+
+IRFU uses Google Analytics, a web analytics service provided by Google. Google Analytics collects first party cookies, which are text files placed on your computer to collect standard internet log information and visitor behaviour. This information is sent to Google and is used to evaluate how our website is being used. This enablesIRFU to compile statistical reports. A full list of cookies used by Google Analytics and explanations on how these work are available on the Google code website. 
+
+IRFU does not collect (nor allow any third party to collect) personally identifiable information of visitors to our site. We will not associate any data gathered with any personally identifying information. We will not link or seek to link an IP address with the identity of a computer user. In short, Google Analytics doesn't identify who you are, but it does track your movements on our websites.
+
+How to disable cookies
+
+You can stop cookies being downloaded on to your computer by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website.
+
+There is more information about cookies, including how to delete them on the website aboutcookies.org. You may also opt out of being tracked by Google Analytics.
+
+Consent
+
+By using our website you consent to collection and use of any information you provide to us by IRFU Limited for the purposes described above. If we amend our privacy policy, any changes will be published on this web site. If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from IRFU, please contact us.
 
 ## Disclaimer
 
