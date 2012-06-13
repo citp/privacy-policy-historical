@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliohd.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628060544id_/http%3A//foliohd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliohd.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613223400id_/http%3A//foliohd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FolioHD
 
@@ -45,4 +45,4 @@ Although most changes are likely to be minor, Critical Axiom may change its Priv
 
 Last updated: 5/2010
 
-If you have questions about accessing or correcting your personal data please contact our [support team](mailto:support@foliohd.com).
+If you have questions about accessing or correcting your personal data please contact our [support team](https://web.archive.org/contact).
