@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetaoofbadass.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211172248id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetaoofbadass.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173403id_/http%3A//www.thetaoofbadass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tao of Badass
 
