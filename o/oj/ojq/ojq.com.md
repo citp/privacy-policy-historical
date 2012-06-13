@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojq.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211155219id_/http%3A//www.ojq.com/ojq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojq.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174748id_/http%3A//www.ojq.com/ojq/privacy-policy) for the most accurate reproduction.*
 
 # OJQ | Privacy Policy
 
