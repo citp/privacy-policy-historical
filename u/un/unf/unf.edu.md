@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unf.edu privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214195822id_/http%3A//www.unf.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D4294967533) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unf.edu privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171733id_/http%3A//www.unf.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D4294967533) for the most accurate reproduction.*
 
 # University of North Florida - Privacy Policy
 
@@ -10,6 +10,6 @@ In addition, we gather information regarding the volume and timing of access to 
 
 If you choose to share personal information with us - by sending us a message or filling out a form with personal information - we will use the information only for the purposes you authorized. Some of the information may be saved for a designated period of time to comply with Florida's archiving policies, but we will not disclose the information to third parties or other government agencies, unless required to do so by law. ****
 
-**Under Florida law, many e-mails to UNF are public record.**
+**Under Florida law, many e-mails to UNF are public record.**  If you do not want your e-mail address released in response to a public records request, do not send electronic mail to the University.  Instead, contact the office you wish to contact by phone or in writing.   
 
 If you have other questions about our privacy policy, please feel free to e-mail us at [webmaster@unf.edu](mailto:webmaster@unf.edu?subject=Internet%20Privacy%20Policy "webmaster").
