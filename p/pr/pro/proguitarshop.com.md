@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the proguitarshop.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050858id_/http%3A//proguitarshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proguitarshop.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613214215id_/http%3A//proguitarshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy notice discloses the privacy practices for www.proguitarshop.com.  
+**This privacy notice discloses the privacy practices for www.proguitarshop.com.**
+
 This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
@@ -12,7 +13,7 @@ This privacy notice applies solely to information collected by this web site. It
 
 
 
-**Information Collection, Use, and Sharing**
+### Information Collection, Use, and Sharing
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
@@ -22,7 +23,7 @@ We are the sole owners of the information collected on this site. We only have a
 
 
 
-**Your Access to and Control Over Information**
+### Your Access to and Control Over Information
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
@@ -33,7 +34,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**Security**
+### Security
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
