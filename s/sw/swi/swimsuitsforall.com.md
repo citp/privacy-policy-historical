@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214185810id_/http%3A//www.swimsuitsforall.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173039id_/http%3A//www.swimsuitsforall.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
    [](https://web.archive.org/)
 
-[www.swimsuitsforall.com](https://web.archive.org/web/20111214185810id_/http%3A//www.swimsuitsforall.com/customer-service/www.swimsuitsforall.com) (the "Site") is brought to you by Swimsuits for All inc. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
+[www.swimsuitsforall.com](https://web.archive.org/web/20120613173039id_/http%3A//www.swimsuitsforall.com/customer-service/www.swimsuitsforall.com) (the "Site") is brought to you by Swimsuits for All inc. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
 
 ## Collection of Information
 
@@ -60,10 +60,11 @@ We may change this privacy policy from time to time. When we do, we will post th
 
 California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. To make such a request, please write to us at the following address:
 
-Swimsuits for All Inc. 265 Route 36 West. Suite 205A West Long Branch, N.J. 07764
+Swimsuits for All Inc. 2 Industrial Drive, Keyport NJ, 07735  
+
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, contact us at [**privacy@swimsuitsforall.com**](https://web.archive.org/web/20111214185810id_/http%3A//www.swimsuitsforall.com/customer-service/privacy@swimsuitsforall.com)
+If you have questions or concerns about this Privacy Policy, contact us at [**privacy@swimsuitsForAall.com**](mailto:privacy@swimsuitsForAll.com)
 
 [](https://web.archive.org/)
