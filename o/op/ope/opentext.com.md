@@ -1,77 +1,88 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211175301id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613231748id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy - OpenText Corporation
+# Privacy and Security Policy - OpenText
 
-### Privacy and Security
+### Overview
 
-OpenText is committed to protecting your personal information. This statement explains our practices for this Web site.
+OpenText supports the right to privacy, including the rights of individuals to control the dissemination and use of personal data that describes them, their personal choices, or life experiences. OpenText is committed to protecting Personal Data of the users of our Website. OpenText supports domestic and international laws and regulations that seek to protect the privacy rights of such individuals.
 
-### What Personal Information We Gather
+"Personal Data" means any information about an identifiable individual. It includes, without limitation, information relating to identity, gender, address, telephone number, e-mail address and date of birth.
 
-We gather personal information that we need to know when you ask us to do something for you. For example, if you ask us to send you ExecuLink, our quarterly newsletter, we need to know and store your email address. We will always ask for your permission and tell you how we're going to use your personal information first. You can always choose not to provide it.
+This Policy statement outlines our principles with respect to Personal Data collected, processed and used via our Website (the "Website").
 
-### How We Use It
+### Operator of the Website
 
-We only use the personal information we gather for purposes that you have agreed to, for example, to send you a newsletter. We do not collect personal information about any of our site's visitors unless the visitor authorizes us to do so.
+The Website is owned and operated by Open Text Corporation, 275 Frank Tompa Drive, N2L 0A1 Waterloo, Canada ("OpenText"). From a data privacy perspective this means that OpenText is data controller.
 
-### Who Has Access to It
+**Personal Data you provide us and purpose of our collection processing and use of your Personal Data**
 
-Only people within OpenText who need to access your personal information can access it; for example, the people who send a newsletter need to know your email address.
+All Personal Data you provide us is processed fairly and lawfully.
 
-### How We Share It
+When visiting our Website there is always an option not to provide Personal Data. You may, however, voluntarily provide us with Personal Data for the following purposes:
 
-We do not sell or provide your personal information to any third parties.
-
-We might share your personal information under the following circumstances:
-
-  * We have your consent.
-  * We are required to share customer information by law, to protect the interests of the company or in the discharge of public duty.
-  * We need to share your personal information with a business partner in order to provide a service you have requested. Our business partner's use of your information is restricted to the delivery of the service you have requested.
+  * Creation of a customer account that enables you to download OpenText asset and product and other information;
+  * Responding to your inquiry and/or providing you access to specific information as requested by you;
+  * Registration to OpenText events 
+  * Distribution and marketing purposes
 
 
 
-### How You Change or Remove It
+For the purposes mentioned above we collect the following Personal Data about you:
 
-You have access to your personal information that we retain. We try to keep your personal information accurate and up to date. If you'd like to change or remove your personal information, please [contact us](http://www.opentext.com/2/global/company/company-contact.htm).
-
-### Security
-
-We use current security measures to safeguard your personal information.
-
-  * All the personal information you provide us is stored in a secure computing environment protected by secure firewalls to prevent unauthorized access.
-  * We control access so that only people who need to access the information can. All staff of OpenText are required to adhere to a security agreement.
-  * To use the Knowledge Center, you must use a unique, confidential OpenText userID and password.
-  * When you use secure areas of the site, we use Secure Sockets Layer (SSL) protocol with 128-bit encryption. This means that all the information sent between your computer and our secure computer environment is encrypted or scrambled so that no one can read it in transit. You can read it and we can read it-no one else. There are two cues to show you that you are using a secure area. First, the Web site address (or URL) appears as https:// (instead of just http://)-the "s" is for "secure." Second, a lock or key indicator appears in the status bar of your Web browser.
-  * Secure areas of the site have a time-out feature. If you leave your secure session inactive for some time, it times-out to prevent unauthorized access.
+  * Full name
+  * Company name
+  * Company location
+  * Position in company
+  * Department
+  * Telephone number
+  * Email address
 
 
 
-### Credit Cards
-
-We do accept credit card payments for registrations. If someone uses your credit card to make an unauthorized purchase, check with the institution that issued your card to find out what the exact liability is.
-
-### Email
-
-If you send us an email, we may save it if we think we'll need it to communicate with you. We never sell or share email addresses. Remember, email is not a secure way to send personal information because it is not encrypted. Please don't send any personal information to us using email; use our secure forms instead.
+Depending on context, we may also collect additional Personal Data to successfully provide services or process requests.
 
 ### Cookies
 
-Our Web site stores information in a small text file, called a cookie, on your computer. We use what is called a "persistent cookie," which is stored as a file on your computer and remains there when you close your Web browser. The cookie can only be read by the Web site that created it when you visit that site again.
+See [Information About Cookies on this OpenText Website](http://www.opentext.com/2/global/company/site-cookies-information.htm).
 
-### Our Use of Cookies
+### IP Addresses
 
-OpenText stores a unique number (not any personal information) in the cookie that we place on your computer. We use this cookie to determine if you have visited the site before, and to ensure you are only prompted once to fill in certain forms such as our Document Download form. The information we store in the cookie does not include data such as your name, company, email address, telephone number, state/province, country or the industry you work in.
+OpenText uses IP addresses to help diagnose problems and to administer the OpenText Website. When you visit our Website, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you fill out a form or send us an e-mail message.
 
-**Note:** If you do not allow cookies to be saved on your computer, you will not be able to download information from this site.
+**Transfer of your Personal Data to OpenText Group Companies and service providers.**
 
-### Security Concerns
+We may transfer your Personal Data to our OpenText branded affiliates globally ("OpenText Group Companies"), if and to the extent this is necessary for answering or otherwise complying with your requests.
 
-Once the cookie is saved on your computer, our Web site is the only site that can access and read the information that you provide. OpenText will not provide this information to any third parties or use it for sending unsolicited email.
+OpenText may engage service providers that act on behalf and under the instructions of OpenText. These service providers, for example, IT service providers that support the OpenText IT infrastructure, may have access to your Personal Data. OpenText will require such service providers to adopt adequate technical and organizational security measures to ensure the processing of Personal Data only as instructed by OpenText and for no other purposes.
 
-### Java and Javascript
+Our OpenText Group Companies and/or the service providers may be located in countries that do not provide for an adequate level of data protection as established by the European Data Protection Directive (95/46/EG). Where required under applicable law, OpenText will implement appropriate measures to secure the data transfers in accordance with applicable data protection laws.
 
-Java is a programming language that allows different kinds of computers to talk to each other. We use Java technology to provide functionality such as navigation menus, forms and so on. You will still be able to use this Web site if you have Java or Javascript disabled, but some functionality may not be available.
+### Links to our Affiliates
 
-### Changes to this Statement
+If you want to learn about the privacy policies of our OpenText Group Companies that are accessible via links from the Website, please read the detailed privacy policies posted on their respective Websites.
 
-We may amend this privacy and security statement from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on this Web site.
+### Security
+
+We are committed to ensuring that your Personal Data is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the Personal Data we collect.
+
+  * All the Personal Data you provide us is stored in a secure computing environment protected by secure firewalls to prevent unauthorized access.
+  * We control access so that only people who need to access the Personal Data can.  All staff of OpenText are provided security training and are required to adhere to a comprehensive set of security policies, procedures, and standards related to their jobs.
+  * When you use secure areas of the Website, we use Secure Sockets Layer (SSL) protocol with 128-bit encryption. This means that all the information sent between your computer and our secure computer environment is encrypted or scrambled so that no one can read it in transit. Secure areas of the site have a time-out feature. If you leave your secure session inactive for some time, it times-out to prevent unauthorized access.
+
+
+
+### Safe Harbor
+
+The U.S. Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQs) ("the U.S.-EU Safe Harbor Framework") to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EU to the United States. The U.S. Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of data protection principles and frequently asked questions (FAQs) ("the U.S.-Swiss Safe Harbor Framework") to enable U.S. companies to satisfy Swiss law requirements for adequate protection of personal information transferred from Switzerland to the United States.
+
+This Policy is in accordance with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework and we are registered with the U.S. Department of Commerce's Safe Harbor Program. To learn more about the Safe Harbor program and to view our certification, please visit <http://export.gov/safeharbor/>.
+
+### Information or other rights with regard to your Personal Data
+
+You may request from OpenText access to, correction of, blocking of and/or deletion of your Personal Data in line with applicable data protection law. Please direct any such request and any other questions you may have with regard to these Privacy Principles to itsecuritycompliance@opentext.com, IT Security Manager, 38 Leek Crescent, L4B 4N8 Richmond Hill, Canada.
+
+Open Text Corporation, Waterloo, Canada
+
+### Questions
+
+Contact [itsecuritycompliance@opentext.com](mailto:itsecuritycompliance@opentext.com)
