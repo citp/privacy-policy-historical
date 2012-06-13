@@ -1,26 +1,38 @@
-<!--The following is the downloaded HTML source of the whosampled.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224164942id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whosampled.com privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613174528id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="music, listen, sample, cover, remix, song, watch, download, mp3">
 <meta name="description" content="Privacy Policy for WhoSampled">
+<meta property="fb:app_id" content="136259916449994">
 <title>Privacy Policy | WhoSampled</title>
-<link rel="stylesheet" type="text/css" href="/static/css/default_20110622.css">
+<link rel="stylesheet" type="text/css" href="/static/css/default_20120308.css">
 <link rel="stylesheet" type="text/css" href="/static/css/pages_20090204.css">
 <link rel="shortcut icon" href="/static/images/favicon.ico">
 <link rel="apple-touch-icon" href="/static/images/apple-touch-icon.png">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136259916449994"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/ws_basic.js"></script>
-<script type="text/javascript" src="/static/js/ws_form_validation_20110628.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/ws_basic.js"></script>
+<script type="text/javascript" src="/static/js/ws_form_validation_20120522.js"></script>
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
 <script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-0891957717916630");
-GS_googleEnableAllServices();
-</script>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
 <script type="text/javascript">
-GA_googleUseIframeRendering();
+googletag.defineSlot('/1419468/160x600', [160, 600], 'div-gpt-ad-1324556474075-0').addService(googletag.pubads());
+googletag.defineSlot('/1419468/300x250_Above_the_Fold', [300, 250], 'div-gpt-ad-1324556474075-4').addService(googletag.pubads());
+googletag.defineSlot('/1419468/300x250_Front_Page', [300, 250], 'div-gpt-ad-1324556474075-9').addService(googletag.pubads());
+googletag.defineSlot('/1419468/728x90_Above_the_fold', [728, 90], 'div-gpt-ad-1324556474075-13').addService(googletag.pubads());
+googletag.defineSlot('/1419468/728x90_Front_Page', [728, 90], 'div-gpt-ad-1324556474075-17').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
 </script>
 
 
@@ -42,13 +54,69 @@ GA_googleUseIframeRendering();
 </head>
 <body>
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=136259916449994";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+var ws_fbAccessToken = '';
+
+(function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+}(document));
+
+window.fbAsyncInit = function() {
+	FB.init({
+          appId      : 136259916449994,
+          channelUrl : '/static/fb_channel_file.html',
+          status     : true,
+          cookie     : true,
+          xfbml      : true
+        });
+
+	FB.getLoginStatus(function(response) {
+		if (response.status === 'connected') {
+			ws_fbAccessToken = response.authResponse.accessToken;
+		}
+	});
+}
+
+function process_login(access_token) {
+	$.getJSON('/facebook/connect-user/?access_token=' + access_token, {},
+		function process_json(json_response) {
+			if (json_response.status == 'true') {
+				window.location = '/user/homepage/';
+			}
+			else {
+				alert('Facebook login failed');			
+			}
+		}
+	)
+}
+
+function facebook_connect() {
+	if (ws_fbAccessToken != '') {
+		process_login(ws_fbAccessToken)
+	} else {
+		FB.login(function(response) {
+			if (response.authResponse) {
+				process_login(response.authResponse.accessToken)
+			}
+		}, {scope: 'email,publish_actions'});
+	}
+}
+</script>
+
+
+	
+		<script type="text/javascript">
+		if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
+		if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
+		if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
+		document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/whosampled.mmn/ros;pos=top;genre=urbn;' + dcopt + ';tile=' + tile + ';sz=1x1;ord=' + cachebuster + '?"></scr'+'ipt>');
+		</script><script src="http://ad.doubleclick.net/adj/whosampled.mmn/ros;pos=top;genre=urbn;dcopt=ist;;tile=1;sz=1x1;ord=8737359666?"></script>
+	
+
 
 <div id="container">
 	<div id="topSection">
@@ -78,7 +146,7 @@ GA_googleUseIframeRendering();
 			<tr>
 				<td width="280px"></td>
 				<td align="left" valign="top" width="90px" style="padding-top:9px;"><div class="fb-like" data-href="http://www.facebook.com/whosampled" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial"></div></td>
-				<td aligh="left" valign="top" width="125px" style="padding-top:9px;"><a href="https://twitter.com/whosampled" class="twitter-follow-button" data-show-count="false" data-lang="en" data-show-screen-name="false" data-width="125px">Follow @whosampled</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
+				<td aligh="left" valign="top" width="125px" style="padding-top:9px;"><a href="https://twitter.com/whosampled" class="twitter-follow-button" data-show-count="false" data-lang="en" data-show-screen-name="false" data-width="125px"></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
 				<td align="left" height="40px">
 					<div class="navigation" style="font-size:11px;line-height:15px;">
 						
@@ -90,17 +158,6 @@ GA_googleUseIframeRendering();
 	<div class="heightSepSmall"></div>
 	
 	
-	
-		<script type="text/javascript">
-		if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
-		if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-		if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
-		document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/whosampled.mmn/ros;pos=top;genre=urbn;' + dcopt + ';tile=' + tile + ';sz=1x1;ord=' + cachebuster + '?"></scr'+'ipt>');
-		</script><script src="http://ad.doubleclick.net/adj/whosampled.mmn/ros;pos=top;genre=urbn;dcopt=ist;;tile=1;sz=1x1;ord=5938606523?"></script>
-	
-
-
-	
 <div class="bigMain">
 	<div class="bigBoxTop">
 		<div class="smallHeaders">
@@ -108,50 +165,48 @@ GA_googleUseIframeRendering();
 		</div>
 	</div>
 	<div class="bigBoxMiddle">
-		<div class="innerContent2">
-			<br>
-This policy sets out the basis on which any personal data collected through www.whosampled.com (the “<b>Website</b>”), or that you provide to the Website, will be processed.  Please read this policy carefully before you use the Website.<br>
+		<div class="innerContent2" style="line-height:16px;">
+			This Privacy Policy sets out the basis on which any personal data collected through WhoSampled.com and related apps (the "<b>Service</b>"), or that you provide to the Service, will be processed. Please read this policy carefully before you use the Service.<br>
 <br>
-For the purpose of the Data Protection Act 1998 (“<b>Act</b>”), the data controller is Whosampled.com Limited (“<b>we</b>” or “<b>us</b>”) of Nena House, Ground B, 77-79 Great Eastern Street, London EC2A 3HU.<br>
+For the purpose of the Data Protection Act 1998 ("<b>Act</b>"), the data controller is Whosampled.com Limited ("<b>we</b>" or "<b>us</b>") of Nena House, Ground B, 77-79 Great Eastern Street, London EC2A 3HU.<br>
 <br>
 <b>Information we may collect from you</b><br>
 We may collect and process the following data about you:<br>
 <ul>
-	<li>Information that you provide by filling in forms on the Website including information provided at the time of registration to use the Website, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with the Website.</li>
+	<li>Information that you provide by filling in forms on the Service including information provided at the time of registration to use the Service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with the Service.</li>
 	<li>If you contact us, we may keep a record of that correspondence.</li>
 	<li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
-	<li>Details of transactions you carry out through the Website and of the fulfilment of your orders/services.</li>
-	<li>Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
+	<li>Details of transactions you carry out through the Service and of the fulfilment of your orders.</li>
+	<li>Details of your usage of the Service including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
 </ul>
 <br>
 <b>IP addresses and cookies</b><br>
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.<br>
 <br>
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us:<br>
+For the same reason, we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Service and to deliver a better and more personalised Service. They enable us:<br>
 <ul>
 	<li>To estimate our audience size and usage pattern.</li>
-	<li>To store information about your preferences, and so allow us to customise the Website according to your individual interests.</li>
-	<li>To speed up your searches.</li>
-	<li>To recognise you when you return to the Website.</li>
+	<li>To store information about your preferences, and so allow us to customise the Service according to your individual interests.</li>
+	<li>To recognise you when you return to the Service.</li>
 </ul>
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.<br>
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Service.<br>
 <br>
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may also use cookies, over which we have no control. In order to opt-out from cookies served by various advertising providers, you can use industry-wide services such as those run by the <a href="http://www.aboutads.info/choices/" target="_blank">Digital Advertising Alliance</a> or the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative</a>.<br>
+We use third-party advertising companies to serve ads when you use the Service. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites and apps in order to provide advertisements about goods and services that may be of interest to you. These companies may also use cookies, over which we have no control. In order to opt-out from cookies served by various advertising providers, you can use industry-wide services such as those run by the <a href="http://www.aboutads.info/choices/" target="_blank">Digital Advertising Alliance</a> or the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative</a>.<br>
 <br>
 <b>Where we store your personal data</b><br>
-The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area ("<b>EEA</b>"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.<br>
+The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area ("<b>EEA</b>"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.<br>
 <br>
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.<br>
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Service, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.<br>
 <br>
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.<br>
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Service; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.<br>
 <br>
 <b>Uses made of the information</b><br>
 We use information held about you in the following ways:<br>
 <ul>
-	<li>To ensure that content from the Website is presented in the most effective manner for you and for your computer.</li>
+	<li>To ensure that content from the Service is presented in the most effective manner for you and for your computer.</li>
 	<li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
-	<li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
-	<li>To notify you about changes to our service.</li>
+	<li>To allow you to participate in interactive features of the Service, when you choose to do so.</li>
+	<li>To notify you about changes to the Service.</li>
 </ul>
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by e-mail. Where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.<br>
 <br>
@@ -168,22 +223,23 @@ We may disclose your personal information to third parties:
 </ul>
 <br>
 <b>Your rights</b><br>
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by <a href="/contact/ask/">contacting us</a>.<br>
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by <a href="/contact/ask/">contacting us</a>.<br>
 <br>
-The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.<br>
+The Service may, from time to time, contain links to and from the websites and apps of our partner networks, advertisers and affiliates. If you follow a link to any of these services, please note that these services have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these services.<br>
 <br>
 <b>Access to information</b><br>
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.<br>
 <br>
-<b>Changes to our privacy policy</b><br>
-Please note that this privacy policy may change from time to time. We expect the majority of changes to be minor; however, we will not reduce your rights under this privacy policy without your explicit consent. Any changes we make will be posted on this page and, if the changes are significant, we will provide a more prominent notice (including but not limited to an email notification of privacy policy changes.)<br>
+<b>Changes to our Privacy Policy</b><br>
+Please note that this Privacy Policy may change from time to time. We expect the majority of changes to be minor; however, we will not reduce your rights under this Privacy Policy without your explicit consent. Any changes we make will be posted on this page and, if the changes are significant, we will provide a more prominent notice (including but not limited to an email notification of Privacy Policy changes.)<br>
 <br>
 <b>Contact</b><br>
-Questions, comments and requests regarding this privacy policy are welcomed and should be sent via <a href="/contact/ask/">our contact form</a>.<br>
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent via <a href="/contact/ask/">our contact form</a>.<br>
 <br>
-Last updated: November 21, 2011
-			</div>
+Last updated: May 20, 2012
+
 		</div>
+	</div>
 	<div class="bigBoxBottom"></div>
 </div>
 
@@ -208,8 +264,8 @@ Last updated: November 21, 2011
        	         	        			<li><a href="/about/us/">About Us</a></li>
 							<li><a href="http://blog.whosampled.com">Blog</a></li>
 							<li><a href="/about/faq/">Frequently Asked Questions</a></li>
-							<li><a href="/about/terms/">Terms and Conditions</a></li>
 							<li><a href="/about/privacy/">Privacy Policy</a></li>
+							<li><a href="/about/terms/">Terms and Conditions</a></li>
         		                	</ul>
 					</td>
 					<td width="184px" valign="top" align="left">
@@ -218,8 +274,9 @@ Last updated: November 21, 2011
 							<li><a href="/contact/ask/">Contact Us</a></li>
 							<li><a href="/about/advertise/">Advertise on WhoSampled</a></li>
 							<li><a href="/about/jobs/">Jobs</a></li>
-							<li><a href="http://www.twitter.com/whosampled" target="_blank">WhoSampled on Twitter</a></li>
-							<li><a href="http://www.facebook.com/pages/WhoSampledcom/29562154093" target="_blank">WhoSampled on Facebook</a></li>
+							<li><a href="/about/copyright/">Copyright / DMCA</a></li>
+							<li><a href="http://www.facebook.com/whosampled" target="_blank">Facebook</a> | <a href="http://www.twitter.com/whosampled" target="_blank">Twitter</a> | <a href="http://www.youtube.com/whosampled" target="_blank">YouTube</a></li>
+							<li></li>
 						</ul>
 					</td>
 					<td width="184px" align="left" valign="top">
@@ -250,37 +307,10 @@ Last updated: November 21, 2011
 				</tr>
 			</tbody></table>
 			<br><br>
-			Copyright © 2011 WhoSampled.com Limited. All rights reserved.
+			Copyright © 2012 WhoSampled.com Limited. All rights reserved.
 		</div>
 	</div>
 </div>
-
-	<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-70RhgKmunzjBs",
-labels:"Music"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-70RhgKmunzjBs.gif?labels=Music" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
-
 
 
 </body></html>
