@@ -1,0 +1,2802 @@
+<!--The following is the downloaded HTML source of the cyclegear.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614000003id_/http%3A//www.cyclegear.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- TEMPLATE: customerServiceTemplate.cfm -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="author" content="iCongo, Inc."><title>Cycle Gear - Motorcycle Gear and Motorcycle Accessories</title><meta name="description" content="Cycle Gear"><meta name="keywords" content="Cycle Gear"> 
+<!-- END metaTags.cfm -->
+
+
+        <!-- BEGIN: buySAFE Seal -->
+        
+        <script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
+        
+        <!-- END: buySAFE Seal -->
+    
+
+    <script type="text/javascript">
+
+        //Shopping cart global variables
+        var g_extimateTaxText = 'estimated taxes';
+        var g_actualLang = "eng"
+        var g_cfid = "";
+        var g_cftoken = "";
+        var g_currentRow = 0;
+        var g_currentShoppingCartPage = "shoppingCartConfirmation";
+        var g_linkfornewitempopup = "http://www.cyclegear.com//sharedPages/presentationlayer/baseTemplates/shoppingCart/shoppingCartDetailsPopUpNewFreeItem.cfm?dummy=nothing&var=d&ckey=US";
+        var g_ukey = "55161011";
+        var g_hasUPSOnline = "false";
+        var g_ShoppingCartShowTax = "true";
+        var g_linkOneStepCheckoutLocation = "http://www.cyclegear.com/eng/checkout/redirect.cfm?sectionID=b2c/shoppingCart/shoppingFinalReview.cfm&var=d&ckey=US";
+        var g_linkCheckoutLocation = "http://www.cyclegear.com/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&chkOut=Y&var=d&ckey=US";
+        var g_linkShoppingCartPayment = "/eng/customerservice/privacypolicy.cfm?sectionID=b2c/shoppingCart/shoppingCartPayment.cfm&var=d&ckey=US";
+        var g_linkUpdateCartServlet = "http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingCart/shoppingCartDetails.cfm&var=d&ckey=US&amp;refreshed=true";
+        var g_linkUpdatePaymentServlet = "http://www.cyclegear.com/eng/checkout/redirect.cfm?sectionID=b2c/shoppingCart/shoppingCartPayment.cfm&var=d&ckey=US&amp;refreshed=true";
+        var g_linkUpdateUserProfile = "http://www.cyclegear.com/eng/checkout/redirect.cfm?sectionID=b2c/shoppingCart/user/userLogin_Profile.cfm&var=d&ckey=US";
+        var g_linkShoppingCartPaypalExpress = "/frontEndComponents/specificComponents/b2c/servlet/shoppingCart/shoppingCartPaypalExpressCheckout.cfm?lang=eng&var=d&ckey=US";
+        var g_linkUpdateCart = "http://www.cyclegear.com/sharedPages/frontEndComponents/specificComponents/b2c/servlet/shoppingCart/updateCart.cfm?lang=eng&var=d&ckey=US";
+        var g_numberLineItems = 0;
+        var g_splitOrder = false;
+        var g_oldSizeSelection = "";
+        var g_pickupShippingMethodID = "";
+        var g_refreshPage = false;
+        var g_calcTax = "true";
+        var g_userHasUpdatedField = false;
+
+        //Shopping cart messages
+        var msg_closeBox = "X";
+        var msg_enterZipCode = " - Enter zip code (to see Price)";
+        var msg_errorCheckAgreement = "Please check the term of agreement to proceed";
+        var msg_errorColorNoBreak = "Please select a color.";
+        var msg_errorColor = "Please select a color." + "<br>";
+        var msg_errorCountry = "Please select a country.";
+        var msg_errorNotEnoughQuantity = "We are sorry, there are only ::QTY_AVAIL:: units available, please reduce your desired quantity to ::QTY_AVAIL:: or less to proceed.";
+        var msg_errorNumberQty = "Quantity field must be a number for";
+        var msg_errorQty = "Please enter a quantity for";
+        var msg_errorPickupMethod = "Select a pickup location";
+        var msg_errorPrestigeCard = "Please enter a valid prestige Code";
+        var msg_errorShippingMethod = "Please select a shipping method.";
+        var msg_errorSize = "Please select a size.";
+        var msg_errorSize2 = "Please select a size." + "<br>";
+        var msg_freeItemOutOfStock = "Free Item associated to this promo code out of stock.";
+        var msg_freeItemSizeColor = "Please select the color and size of your free item.";
+        var msg_freeShipping = "Free Shipping";
+        var msg_giftWrapAdded = "The gift wrap is added";
+        var msg_giftWrapRemoved = "The gift wrap is removed";
+        var msg_notAvailable = "N/A";
+        var msg_overMaxQuantity = "Thanks for your interest. Since it seems that you want to make a bulk purchase, we encourage you to give us a call at 1-800-CYCLEGEAR (292-5343) to place your order. This will give us a chance to check the available inventory and coordinate shipment so that you get the best possible service.";
+        var msg_selectSize = "Please select a size";
+        var msg_selectDimension = "Please select a dimension";
+        var msg_lessThanMinimumQty = "You cannot order less than ::MINIMUM_ORDER_QTY:: of the product on line ::LINE_NO::.";
+        var msg_paymentMethodNotSelected = "Please select a payment method";
+        var msg_personalisableMultipleMismatch = "You must order a multiple of ::MULTIPLE_QUANTITY:: for ::DESCRIPTION::.";
+        var msg_personalisableMinimumNotAttained = "You must order at least ::MINIMUM_QUANTITY:: for ::DESCRIPTION::.";
+        var msg_personalisableCategoryMinimumNotAttained = "You must order a total of at least ::MINIMUM_QUANTITY:: articles for category ::DESCRIPTION::.";
+        var msg_itemNotPersonalised = "Item not Personalized";
+        var msg_itemPersonalisationMultipleMismatch = "You must order a multiple of ::MULTIPLE_QUANTITY:: for ::DESCRIPTION::.";
+        var msg_visionTimeoutError = "An error has occured while processing your request. Please try again later.";
+        var msg_visionConnectionError = "An error has occured while processing your request.";
+        var msg_visionGeneralError = "An error has occured while processing your request.";
+        var msg_sampleAccountAmountToHigh = "The amount for sample account can not be higher than ::TOTAL::.";
+        var msg_POMethodNeedPONumber = "PO Number is required.";
+        var msg_nextAvailableDeliveryDate = "There is no delivery available on selected date, next available delivery date is ::NEXT_AVAILABLE_DELIVERY::.";
+        var msg_requestedDeliveryDateAjusted = "Your requested date has been ajusted to the earliest delivery date.";
+        var msg_prizeAddItemGeneralError = "An error has occured while processing your request.";
+        var msg_emptyCart = "You must first add some products to your cart.";
+        var msg_enterValidZipCode = "Please enter your shipping Zip Code / Postal Code";
+
+        siteUrl = 'http://www.cyclegear.com/sharedPages/';
+
+        //Modal alert boxes
+        var g_ShowModal = false;
+        var g_linkProductAddToCartCrossSell = "http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/style/productAddToCartCrossSell.cfm&var=d&ckey=US";
+        var g_showShoppingCartPopupAfterAdd = true;
+        var g_addToCartRedirectToCrossSellPage = false;
+        var g_imageInProgress = "/_static/images/www/Shared/aniInProgress.gif";
+
+        translate = {
+            checkout: "proceed to checkout",
+            keepShopping: "keep shopping",
+            shoppingBag: "Shopping Cart",
+            product: "product",
+            style: "Brands",
+            color: "color",
+            size: "size",
+            price: "price",
+            qty: "qty",
+            total: "total",
+            onSale:  "on sale",
+            productonSale:  "Sale Price",
+            productprice: "Our Price",
+            coordinatesTitle: "Free Item(s)",
+            freeItemMenuLabel: "add free item(s)",
+            newLabel:  "NEW",
+            yousave:  "you save",
+            priceWas:  "was",
+            showDollarAmountSaveOnSalePrice: "true"
+        };
+
+        msg_addToRegistrySelectColorSize = "Please select a color and size";
+        msg_skuAddedToRegistry_success = "The item was successfully added to your registry";
+        msg_skuAddedToRegistry_error = "An error occured while attempting to add the item to your registry";
+    </script>
+    <script type="text/javascript" src="http://www.cyclegear.com/cyclegear/410736841551/true/lib.js"></script>
+
+    
+    <script type="text/javascript">
+        j$(function(){
+            j$('ul.sf-menu').superfish({
+            delay:666,
+            autoArrows:  false,                           // disable generation of arrow mark-up
+            dropShadows: false                            // disable drop shadows
+            });
+        });
+    </script>
+
+    
+
+    <link rel="shortcut icon" href="http://www.cyclegear.com/favicon.ico" type="image/ico">
+    <link type="text/css" rel="stylesheet" href="http://www.cyclegear.com/cyclegear/410736841551/g/true/gui.css">
+    <!--[if IE]>
+        <link type="text/css" rel="stylesheet" href="http://www.cyclegear.com/css/ie.css" />
+    <![endif]-->
+    <!--[if IE 6]>
+        <link href="http://www.cyclegear.com/css/ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    
+			<script src="/cfajax/banners/bannersV9.js?vk=E7858013" type="text/javascript"></script>
+		
+</head>
+<body class="customer-service">
+	<div id="wrapper">
+
+		<div id="contentBlock">
+
+
+
+			<div id="customerservice-block" class="mainBlock">
+
+				
+					<h1>Privacy Policy</h1>
+				
+
+				<h2>Privacy Policy</h2>
+
+				
+					<div class="cms-content">When you make a purchase from 1-800-CYCLEGEAR or cyclegear.com, we'll use your information to process your order. We will send emails to confirm that your order was received and to confirm that your order was shipped. We may need to contact you via phone, postal mail or email if we have questions regarding your order. In addition, you may sign up to receive updates about our products, discounts, contests and promotions. <br>
+<br>
+We do occasionally share name and address information from your online and phone purchases with appropriate companies that offer similar products, taking great care that your information will be used responsibly. We will not share any personal financial information. If you would prefer not to have your name and address shared with other companies, just send an email to <a href="mailto:customerservice@cyclegear.com">customerservice@cyclegear.com</a> with "Opt-out" in the subject line and ask that your info not be shared. In any case, we will not share your email information. <br>
+<br>
+Of course, you can unsubscribe from our catalog mailings, our emails or our sharing policy at any time. Just let us know and we'll remove you from the appropriate list(s) faster than Ricky Carmichael could get a holeshot.</div>
+				
+
+			</div>
+
+		</div>
+
+
+		<!-- START footer.cfm -->
+
+    
+    
+    
+    <div id="footerBlock">
+        <div id="footerBar">
+            <!-- START newsletterSignup.cfm -->
+
+
+<script language="javascript">
+	function __IsValidEmail(email) {
+		filter = /^[\w-]+(?:\.[\w-]+)*@(?:[\w-]+\.)+[a-zA-Z]{2,7}$/
+
+		//trim
+		email = email.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+
+		if (filter.test(email))	{
+			return true;
+			}
+		else {
+			return false;
+			}
+		}
+
+	function validateFormSavingsEmail(loggedIn) {
+
+		var emailValue = document.getElementById('form_SavingLeftNav').email.value;
+		// First verify that the email is in a  proper format
+
+		if(!__IsValidEmail(emailValue))	{
+			alert("Please enter a valid email address.");
+			}
+		//else if(loggedIn == 'true' && 'false' == 'false') {
+		//	alert("Please logout before subscribing to a newsletter with another email address.");
+		//	}
+		else if (__IsValidEmail(emailValue)) {
+			document.form_SavingLeftNav.action = 'http://www.cyclegear.com/sharedpages/cfclib/newsletter/controller.cfc';
+			document.form_SavingLeftNav.submit();
+			}
+		}
+		
+		function emptyEmailField() {
+			// get rid of the "enter your email address" message in the email field when it receives focus
+			// i.e. only empty the field if it contains the default text
+			var emailValue = document.getElementById('newsletterEmail').value;
+			if (emailValue == 'enter your email address') {
+				document.getElementById('newsletterEmail').value = '';
+			}	
+		}
+</script>
+
+	<div id="enterEmail">
+		<div id="newsletterMessage" class="enterEmailBackgroundeng"></div>
+		<form name="form_SavingLeftNav" id="form_SavingLeftNav" method="post" action="javascript:validateFormSavingsEmail('NO');">
+			<fieldset>
+				<label>JOIN OUR EMAIL LIST</label>
+				<input type="text" value="enter your email address" name="email" id="newsletterEmail" class="input" onfocus="emptyEmailField()" ;="">
+				
+			</fieldset>
+			<input type="button" id="btn-subscribe" value="SUBSCRIBE" onclick="javascript:validateFormSavingsEmail('NO');">
+			<input type="hidden" name="method" value="get">
+			<input type="hidden" name="lang" value="eng">
+			<input type="hidden" name="groupId" value="2">
+		</form>
+	</div>
+
+<!-- END newsletterSignup.cfm -->
+
+            <div id="SocialMediaIcons">
+	            <ul>
+	                <li class="youtubeIco"><a href="http://www.youtube.com/user/CycleGearDirect" target="_blank">YouTube</a></li>
+	                <li class="twitterIco"><a href="http://twitter.com/#!/cyclegear" target="_blank">Twitter</a></li>
+	                <li class="facebookIco"><a href="http://www.facebook.com/cyclegear" target="_blank">Facebook</a></li>
+	            </ul>
+            </div>
+        </div>
+
+	    <div id="footerLinks">
+	        
+<!-- TEMPLATE: emptyTemplate.cfm -->
+
+<div class="footer-section"><strong>Shopping Links</strong>
+<ul>
+    <li><a href="http://www.cyclegear.com/eng/brands">Motorcycle Brands </a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/street-gear">Street Riding Apparel</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/cruiser-gear">Cruiser Riding Apparel</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear">Dirt Bike Riding Gear</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear">ATV &amp; UTV Gear</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/universal-parts--accessories">Motorcycle Parts</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/universal-parts--accessories">Motorcycle Accessories</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/tires">Motorcycle Tires</a></li>
+    <li><a href="http://www.cyclegear.com/eng/categories/outlet">Motorcycle Outlet </a></li>
+    <li><a href="http://www.cyclegear.com/eng/product/gift_card/gift_card">Motorcycle Gift Cards </a></li>
+</ul>
+</div>
+<div class="footer-section"><strong>Policies</strong>
+<ul>
+    <li><a href="http://www.cyclegear.com/eng/customerService/returnpolicy.cfm#satisfaction">100% Satisfaction Guarantee </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/returnpolicy.cfm#helmetexchange">7-Day No Hassle Helmet Exchange </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/returnpolicy.cfm#returns">No Hassle Returns &amp; Exchanges </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/returnpolicy.cfm#bestprice">30-Day Best Price Guarantee </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/pricingpolicy.cfm">Pricing Policy </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/paymentinfo.cfm">Payment Info </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/backorder.cfm">Backorder Policy </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/international.cfm">International Orders </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/shippingpolicy.cfm">Shipping Info </a></li>
+</ul>
+</div>
+<div class="footer-section"><strong>Shopping Help</strong>
+<ul>
+    <li><a href="http://www.cyclegear.com/eng/customerservice/redirect.cfm?sectionID=contact/contact.cfm">1-800-CYCLEGEAR</a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/international.cfm">International Orders </a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerService/shippingpolicy.cfm">Shipping Info </a></li>
+    <li><a target="_blank" href="http://issuu.com/cyclegear/docs/june_ebook?mode=window&amp;backgroundColor=%23222222">View our Catalog </a></li>
+    <li><a href="http://www.cyclegear.com/eng/myaccount/redirect.cfm?sectionID=b2c/myAccount/userProfile/insertUpdateProfile.cfm&amp;pageTitle=requestcat">Request our Catalog</a></li>
+    <li><a href="https://www.cyclegear.com/eng/myaccount/redirect.cfm?sectionID=b2c/myAccount/userProfile/insertUpdateProfile.cfm&amp;pageTitle=joingearmail">Join GearMail</a></li>
+    <li><a href="http://www.cyclegear.com/eng/aboutus/military_welcome.cfm">Military Customers</a></li>
+</ul>
+<strong>By Riders, For Riders</strong>
+<ul>
+    <li><a target="_blank" href="http://gear-garage.com/">Gear Garage</a></li>
+</ul>
+</div>
+<div class="footer-section"><strong>Account Info</strong>
+<ul>
+    <li><a href="https://www.cyclegear.com/eng/myaccount/redirect.cfm?sectionID=b2c/myAccount/myAccountHomePage.cfm&amp;var=d&amp;ckey=US&amp;cmAccountLogin=1">Your Account</a></li>
+    <li><a href="https://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingCart/shoppingCartDetails.cfm&amp;var=d&amp;ckey=US">Your Shopping Cart</a></li>
+    <li><a href="https://www.cyclegear.com/store/Order-Status">Your Order Status</a></li>
+    <li><a href="https://www.cyclegear.com/eng/myaccount/redirect.cfm?sectionID=b2c/myAccount/favorites/displayFavorites.cfm&amp;var=d&amp;ckey=US">Your Wish List</a></li>
+</ul>
+<strong>Site Info</strong>
+<ul>
+    <li><a href="http://www.cyclegear.com/eng/customerService/sitesecurity.cfm">Site Security</a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerservice/privacypolicy.cfm">Privacy Policy</a></li>
+    <li><a href="http://www.cyclegear.com/eng/SiteInfo/affiliate.cfm">Affiliate Program</a></li>
+</ul>
+</div>
+<div class="footer-section"><strong>Company Info</strong>
+<ul>
+    <li><a href="http://www.cyclegear.com/eng/aboutus/aboutus.cfm">About Us</a></li>
+    <li><a href="http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm">Store Locator</a></li>
+    <li><a href="http://www.cyclegear.com/eng/customerservice/redirect.cfm?sectionID=contact/contact.cfm">Contact Us</a></li>
+    <li><a href="http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/regionalEvents/regionalEvents.cfm">Local Events</a></li>
+    <li><a href="http://www.cyclegear.com/eng/landingpages/msf_completion.cfm">MSF Discount</a></li>
+    <li><a href="http://tbe.taleo.net/NA2/ats/careers/jobSearch.jsp?org=CYCLEGEAR&amp;cws=1">Join Our Team</a></li>
+    <li><a href="http://www.cyclegear.com/eng/aboutus/keepriding.cfm">We Support Riding</a></li>
+</ul>
+</div> 
+	    </div>
+
+	    <div id="footerBottomIcons">
+	        <span id="bphId_235"><img src="/_static/webupload/33/1604_1.png" ""=""></span>
+	    </div>
+	</div>
+	
+	
+	
+			<!-- Start of Vidi Emi Oculus 1.01 -->
+			<script language="JavaScript" type="text/javascript">
+			<!--
+			date=new Date();
+			var SERVER= "www.cyclegear.com";
+
+			var VE;
+			VE="$V=43478A101";
+			VE+="$S="+escape(SERVER);
+			VE+="$T="+escape(document.title);
+			VE+="$C="+escape(document.cookie);
+			VE+="$D="+escape(date.getTimezoneOffset());
+			VE+="$B=;;;;";
+			VE+="$R="+escape(document.referrer);
+			VE+="$U="+escape(document.location);
+			document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://snap.vidiemi.com/veocgs.aspx?'+VE+'">');
+			// -->
+			</script><img border="0" width="1" height="1" src="http://snap.vidiemi.com/veocgs.aspx?$V=43478A101$S=www.cyclegear.com$T=Cycle%20Gear%20-%20Motorcycle%20Gear%20and%20Motorcycle%20Accessories$C=$D=0$B=;;;;$R=$U=https%3A//web.archive.org/web/20120614000003id_/http%253A//www.cyclegear.com/eng/customerservice/privacypolicy.cfm">
+			<noscript>
+				<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://snap.vidiemi.com/veocgs.aspx?$V=43478A101&$J=0">
+			</noscript>
+			<!--End 0f Vidi Emi Oculus -->
+			
+
+<!-- END footer.cfm -->
+
+
+	</div>
+
+	<div id="topNavigation">
+	<!-- START topNavigation.cfm -->
+
+		<div id="topBanners">
+			<div id="TopleftBanner">
+			
+	            <span id="bphId_220"><a href="/eng/customerservice/redirect.cfm?sectionID=contact/contact.cfm" class="bannerLink" rel="{trackingLinkId:0,bannerId:1595,track:'Y'}"><img src="/_static/webupload/33/1595_1.jpg" ""=""></a></span> 
+			</div>
+			<div id="ToprightBanner">
+				<span id="bphId_221"><a href="/eng/storeSection/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm" class="bannerLink" rel="{trackingLinkId:0,bannerId:1596,track:'Y'}"><img src="/_static/webupload/33/1596_1.jpg" ""=""></a></span>
+			</div>
+		</div>
+	
+	     
+	     <span id="bphId_215"><!--::bannerPlaceholder_215::--></span>
+	     <div id="logo">
+			<a href="http://www.cyclegear.com" class="backGround215 bannerPlaceHolder">Cycle Gear</a>
+		</div>
+		
+	<div id="StoreHoursHolder">
+		
+			<a href="http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm"><span id="bphId_243"></span></a><a href="/eng/customerService/returnpolicy.cfm#satisfaction" class="bannerLink" rel="{trackingLinkId:0,bannerId:1795,track:'Y'}"><img src="/_static/webupload/33/1795_1.jpg" ""=""></a>
+			
+	</div>
+          <script type="text/javascript">
+               function CloseShoppingCartPopUp() {
+                    $('shoppingBagWindow').style.display = 'none';
+                    }
+
+               function ShoppingBagGoToCheckout() {
+                    window.location.href ='http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingCart/shoppingCartDetails.cfm&var=d&ckey=US';
+                    }
+          </script>
+
+          
+
+          <script type="text/javascript">
+               function Checkout() {
+                    document.location='/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&chkOut=Y&var=d&ckey=US';
+                    }
+
+               function shoppingBagClick(){
+                         CloseShoppingCartPopUp();
+                              openShoppingBag(0,0.00,'&var=d&ckey=US');
+                         }
+
+          </script>
+
+
+     
+
+          <div id="toolBar">
+               <!-- START toolbar.cfm -->
+
+
+<div id="headerLinks">
+
+	
+		<ul>
+			<li><a href="http://www.cyclegear.com/eng/customerService/customerservice.cfm?&amp;var=d&amp;ckey=US">customer service</a></li>
+		
+			<li><a href="http://www.cyclegear.com/store/Order-Status">Order Status</a></li>
+		
+			<li class="noRightBorder"><a href="http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">login</a> <span style="float:left;">/</span> <a href="http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">register</a></li>
+		
+	</ul>
+</div>
+
+
+<div id="SearchContainer">
+	
+
+<div id="shoppingBagWindowContainer">
+	<div class="boxBlock" id="shoppingBagWindow" style="display:none;" onmouseover="OpenShopPopClearTimeout()" onmouseout="OpenShopPopStartTimeout();">
+		<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+		<div id="alertBoxContent">
+			<div id="alertBoxCloseButton"><button type="submit" onclick="CloseShoppingCartPopUp();">&nbsp;</button></div>
+			<div class="title">SHOPPING BAG</div>
+			<div id="ShippingBagLineItems"></div>
+			<div id="bagButtons2">
+				
+					<a href="#" class="standardButton" name="continue shopping" onclick="CloseShoppingCartPopUp();"><span>keep shopping</span></a>
+					<a href="#" id="miniCartCheckout" class="standardButton" name="checkout" onclick="ShoppingBagGoToCheckout();"><span>checkout</span></a>					
+				
+			</div>
+		</div>
+		
+			<div id="bannerMiniCart"><span id="bphId_246"><a href="/eng/customerService/returnpolicy.cfm#bestprice" class="bannerLink" rel="{trackingLinkId:0,bannerId:1026,track:'Y'}"><img src="/_static/webupload/33/1026_1.jpg" ""=""></a></span></div>
+			
+	</div>
+</div>
+
+
+	<div id="topShoppingCart" onmouseover="ShowShopingCartPopUpDelay(false)" onmouseout="ShowShopingCartPopClearTimeout();">
+		
+
+				<span id="ShoppingBagInfoLine">
+					<span class="ShoppingCartLabel">My Shopping Cart</span>
+					<a href="javascript:window.location.href='http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingCart/shoppingCartDetails.cfm&amp;var=d&amp;ckey=US'"><span id="miniCartItemTotal">  0</span> item(s)</a>
+				</span>
+				
+
+					<br>
+					<span id="shoppinCartShip"><span id="miniCartAmtForFreeShipping" class="red">$99.00</span> until FREE Ground Shipping</span>
+				
+	</div>
+
+	<div id="topForm" class="topFormBackgroundeng">
+		<script language="javascript">
+			var useUrlRewrite = "true";
+			
+				var keyword_search_type = "solr";
+			
+
+			function trim(str, chars) {
+			    return ltrim(rtrim(str, chars), chars);
+			}
+
+			function ltrim(str, chars) {
+			    chars = chars || "\\s";
+			    return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+			}
+
+			function rtrim(str, chars) {
+			    chars = chars || "\\s";
+			    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+			}
+
+
+			function submitSearchFormOnTop() {
+				try	{
+					//var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					//var actionVal = 'http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
+
+					var actionVal = 'http://www.cyclegear.com';
+					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					var keyword = document.getElementById('searchTerm').value;
+
+					if(keyword == "keyword / item #") keyword = "";
+					if(selectedValue == "EntireSite" && keyword != "")
+						selectedValue = "";
+					else if(selectedValue != "EntireSite" && keyword != "")
+						selectedValue += "-";
+
+/*
+					while(keyword.indexOf(' ') != -1)
+					{
+						keyword = keyword.replace(' ','_');
+					}
+*/
+					while(keyword.indexOf('-') != -1)
+					{
+						keyword = keyword.replace('-','_');
+					}
+
+
+					while(keyword.indexOf('#') != -1) {
+						keyword = keyword.replace('#','');
+					}
+					actionVal = actionVal + '/eng/search/'+ selectedValue+ escape(keyword);
+
+					document.getElementById('form_search').setAttribute('action', actionVal);
+					document.getElementById('form_search').submit();
+				} catch(e) {
+					document.getElementById('searchSection').disabled = false;
+					document.getElementById('searchTerm').disabled = false;
+				}
+			}
+
+			function submitSearchFormSolr() {
+				try	{
+					//var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					//var actionVal = 'http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
+
+					var actionVal = 'http://www.cyclegear.com';
+					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					var keyword = document.getElementById('searchTerm').value;
+
+
+
+					while(keyword.indexOf(' ') != -1) {
+						keyword = keyword.replace(' ','_');
+						}
+					while(keyword.indexOf('#') != -1) {
+						keyword = keyword.replace('#','');
+					}
+
+					while(keyword.indexOf('&') != -1) {
+						keyword = keyword.replace('&','');
+					}
+
+					actionVal = actionVal+'/eng/search/'+ escape(keyword);
+
+					with(this.document) {
+						if (!document.all) // IE Again!
+						{
+							getElementById('form_search').setAttribute('action',actionVal);
+							forms['form_search'].submit();
+							}
+						else {
+							getElementById('form_search').setAttribute('action',actionVal);
+							getElementById('form_search').submit();
+							}
+						}
+					}
+				catch(e) {
+					with(this.document) {
+						if (!document.all) // IE Again!
+							{
+							forms['form_search'].searchSection.disabled =false;
+							forms['form_search'].searchTerm.disabled =false;
+							}
+						else {
+							getElementById('searchSection').disabled =false;
+							getElementById('searchTerm').disabled =false;
+							}
+						}
+						//alert('Javascript Error: \n' + e.message);
+					}
+				}
+
+			function submitSearchFormOnTopNourlRewrite() {
+				try	{
+					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					var actionVal = 'http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
+
+					//var actionVal = 'http://www.cyclegear.com';
+					// selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					var keyword = document.getElementById('searchTerm').value;
+
+					while(keyword.indexOf(' ') != -1) {
+						keyword = keyword.replace(' ','_');
+					}
+					document.getElementById('form_search').setAttribute('action',actionVal);
+					document.getElementById('form_search').submit();
+				} catch(e) {
+					document.getElementById('searchSection').disabled = false;
+					document.getElementById('searchTerm').disabled =false;
+				}
+			}
+
+			function submitSearchFormNexTopia() {
+				var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+				var actionVal = 'http://www.cyclegear.com/search/';
+				var keyword = trim(document.getElementById('searchTerm').value);
+
+				if(keyword == '' || keyword == 'search for costumes') {
+					showAlert({message:'Please enter a keyword to search',closeBText:'x',cssClass:'alertboxSmall'});
+				} else {
+					keyword = keyword.replace(/\s+/g,'_').replace(/-/g,'~');
+
+					actionVal = actionVal + document.getElementById('searchSection').value;
+					actionVal = actionVal + '-' + keyword;
+					document.getElementById('form_search').setAttribute('action',actionVal);
+					document.getElementById('form_search').submit();
+				}
+			}
+
+
+
+			function submitSearchFormById(id) {
+				var t = 'sel-'+id;
+				var index = document.getElementById(t).index
+				document.getElementById('searchSection').options[index].selected=true;
+				submitSearchFormOnTop();
+			}
+
+			function submitenter(myfield,e) {
+				var keycode;
+				if (window.event) keycode = window.event.keyCode;
+				else if (e) keycode = e.which;
+				else return true;
+
+				if (keycode == 13) {
+					// submitSearchFormOnTop();
+					if ( window.keyword_search_type && keyword_search_type == "nextopia" ) {
+						submitSearchFormNexTopia();
+					} else if ( window.keyword_search_type && keyword_search_type == "solr" ){
+						submitSearchFormOnTop();
+					} else if ( useUrlRewrite ) {
+						submitSearchFormOnTop();
+					} else {
+						submitSearchFormOnTopNourlRewrite();
+					}
+					return false;
+				} else {
+					return true;
+				}
+			}
+
+		</script>
+
+		
+			
+
+			<form id="form_search" name="form_search" action="" method="post">
+				<input type="hidden" name="storeId" id="storeId" value="2">
+				<input type="hidden" name="solr" id="solr" value="http://209.202.132.55:8180/solr/">
+				<input type="hidden" name="isKeywordSearch" id="isKeywordSearch" value="true">
+				<span class="fieldCtn"><input type="text" name="keywords" id="searchTerm" value="keyword / item #" onfocus="if(this.value=='keyword / item #') this.value='';" onkeypress="return submitenter(this,event)" autocomplete="off"></span>
+				<div id="matching" class="searchScroll"></div>
+
+				<select name="section" id="searchSection">
+					<option selected="selected" value="EntireSite">Entire site</option>
+					
+							<option id="21291" value="Cruiser-Gear">Cruiser Gear</option>
+						
+							<option id="21350" value="Dirt-Bike--ATV-Gear">Dirt Bike &amp; ATV Gear</option>
+						
+							<option id="21529" value="Outlet">Outlet</option>
+						
+							<option id="21405" value="Parts--Accessories">Parts &amp; Accessories</option>
+						
+							<option id="21199" value="Street-Gear">Street Gear</option>
+						
+							<option id="21498" value="Tires">Tires</option>
+						
+				</select>
+
+				
+					<input type="button" id="srcGo" value="search" name="srcGo" onclick="javascript:submitSearchFormOnTop();">
+				
+			</form>
+		
+	</div>
+
+</div>
+
+
+<!-- END toolBar.cfm -->
+          </div>
+
+          
+               <div id="navigationMenu">
+                    
+<!-- START mainMenu.cfm -->
+
+
+
+
+    <ul id="topMenuSections" class="nav sf-menu lev1">
+
+    
+
+            <li class="level1" id="lev1opt1">
+                <a href="http://www.cyclegear.com" class="level1a sf-with-ul">
+                    <span class="title">home</span>
+                    <span class="sf-sub-indicator">ï¿½</span>
+                </a>
+            </li>
+
+            
+            
+
+                    <li id="lev1opt2" class="level1">
+                        <a class="level1a" href="http://www.cyclegear.com/eng/categories/street-gear">
+                            <span class="title">Street Gear</span>
+                        </a>
+
+                
+
+                <ul style="visibility:hidden;display:none;">
+                    <div id="Sublevel2">
+                        
+
+                        <div class="col">
+                        <ul class="lev2">
+
+                        
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets">Street Helmets<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/full-face-helmets">Full-Face Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/flip-up-helmets">Flip-up Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/half-helmets">Half-Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/open-face-helmets">Open-Face Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/womens-helmets">Women's Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/kids-street-helmets">Kids' Street Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/bluetooth-helmets">Bluetooth Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/shields-riding-glasses">Shields &amp; Riding Glasses</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/helmet-accessories">Helmet Accessories</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/shoei-full-face-helmets">Shoei Full-Face Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/icon-full-face-helmets">Icon Full-Face Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/street-helmets/bilt-full-face-helmets">Bilt Full-Face Helmets</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/mens-street-apparel">Men's Street Apparel<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/mens-street-apparel/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/mens-street-apparel/boots">Boots</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/mens-street-apparel/leather">Leather</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/mens-street-apparel/textiles">Textiles</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/mens-street-apparel/kids">Kid's</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/womens-street-apparel">Women's Street Apparel<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/womens-street-apparel/boots">Boots</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/womens-street-apparel/leather">Leather</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/womens-street-apparel/textiles">Textiles</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/womens-street-apparel/gloves">Gloves</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear">Cold &amp; Rain Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/jackets-vests">Jackets &amp; Vests</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/pants-overpants">Pants &amp; Overpants</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/1-and-2-piece-suits">1- and 2-Piece Suits</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/boots">Boots</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/electric-gear">Electric Gear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/cold-rain-gear/base-layers-accessories">Base Layers &amp; Accessories</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/hot-weather-gear">Hot-Weather Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/hot-weather-gear/mens-hot-weather-gear">Men's Hot-Weather Gear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/hot-weather-gear/womens-hot-weather-gear">Women's Hot-Weather Gear</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/body-armor">Body Armor<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/body-armor/spine-chest-protectors">Spine &amp; Chest Protectors</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/body-armor/safety-jackets">Safety Jackets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/body-armor/shorts-pants">Shorts &amp; Pants</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/body-armor/elbow-knee-armor">Elbow &amp; Knee Armor</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/body-armor/knee-sliders">Knee Sliders</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/apparel-care">Apparel Care<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/apparel-care/leather-care">Leather Care</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/apparel-care/textile-care">Textile Care</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/street-gear/casual-wear">Casual Wear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/casual-wear/kids-casual-wear">Kids Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/casual-wear/sunglasses">Sunglasses</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/casual-wear/ms-casual-wear">M's Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/street-gear/casual-wear/ws-casual-wear">W's Casual Wear</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+
+                                
+                      </div>
+                  </ul>
+                </li>
+
+            
+
+                    <li id="lev1opt3" class="level1">
+                        <a class="level1a" href="http://www.cyclegear.com/eng/categories/cruiser-gear">
+                            <span class="title">Cruiser Gear</span>
+                        </a>
+
+                
+
+                <ul style="visibility:hidden;display:none;">
+                    <div id="Sublevel2">
+                        
+
+                        <div class="col">
+                        <ul class="lev2">
+
+                        
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets">Cruiser Helmets<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets/flip-up-helmets">Flip-up Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets/half-helmets">Half-Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets/open-face-helmets">Open-Face Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets/womens-helmets">Women's Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets/shields-riding-glasses">Shields &amp; Riding Glasses</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-helmets/helmet-accessories">Helmet Accessories</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/mens-biker-gear">Men's Biker Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/mens-biker-gear/jackets-vests">Jackets &amp; Vests</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/mens-biker-gear/pants-chaps">Pants &amp; Chaps</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/mens-biker-gear/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/mens-biker-gear/boots">Boots</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/womens-biker-gear">Women's Biker Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/womens-biker-gear/pants-chaps">Pants &amp; Chaps</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/womens-biker-gear/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/womens-biker-gear/boots">Boots</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/womens-biker-gear/jackets-vests">Jackets &amp; Vests</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-hot-weather-gear">Cruiser Hot-Weather Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-hot-weather-gear/womens-hot-weather-gear">Women's Hot-Weather Gear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-hot-weather-gear/mens-hot-weather-gear">Men's Hot-Weather Gear</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear">Cruiser Cold &amp; Rain Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/1-and-2-piece-suits">1- and 2-Piece Suits</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/boots">Boots</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/electric-gear">Electric Gear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/jackets-vests">Jackets &amp; Vests</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/pants-overpants">Pants &amp; Overpants</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/cruiser-cold-rain-gear/base-layers-accessories">Base Layers &amp; Accessories</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/apparel-care">Apparel Care<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/apparel-care/leather-care">Leather Care</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/cruiser-gear/casual-wear">Casual Wear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/casual-wear/ws-casual-wear">W's Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/casual-wear/kids-casual-wear">Kids Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/casual-wear/sunglasses">Sunglasses</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/cruiser-gear/casual-wear/ms-casual-wear">M's Casual Wear</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+
+                                
+                      </div>
+                  </ul>
+                </li>
+
+            
+
+                    <li id="lev1opt4" class="level1">
+                        <a class="level1a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear">
+                            <span class="title">Dirt Bike &amp; ATV Gear</span>
+                        </a>
+
+                
+
+                <ul style="visibility:hidden;display:none;">
+                    <div id="Sublevel2">
+                        
+
+                        <div class="col">
+                        <ul class="lev2">
+
+                        
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets">Off-Road Helmets<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/full-face-dirt-snow-helmets">Full-Face (Dirt &amp; Snow) Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/full-face-sm-ds-helmets">Full-Face (SM &amp; DS) Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/womens-off-road-helmets">Women's Off-Road Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/kids-off-road-helmets">Kids Off-Road Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/helmet-accessories">Helmet Accessories</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/goggles">Goggles</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/off-road-helmets/goggle-accessories">Goggle Accessories</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/mens-off-road-apparel">Men's Off-Road Apparel<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/mens-off-road-apparel/snow-gear">Snow Gear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/mens-off-road-apparel/pants-shorts">Pants &amp; Shorts</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/mens-off-road-apparel/jerseys-jackets">Jerseys &amp; Jackets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/mens-off-road-apparel/boots-socks">Boots &amp; Socks</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/mens-off-road-apparel/gloves">Gloves</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/womens-off-road-apparel">Women's Off-Road Apparel<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/womens-off-road-apparel/pants-shorts">Pants &amp; Shorts</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/womens-off-road-apparel/jerseys-jackets">Jerseys &amp; Jackets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/womens-off-road-apparel/boots-socks">Boots &amp; Socks</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/womens-off-road-apparel/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/womens-off-road-apparel/snow-gear">Snow Gear</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/adults-protective-gear">Adults' Protective Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/adults-protective-gear/elbow-knee-guards-braces">Elbow &amp; Knee Guards &amp; Braces</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/adults-protective-gear/roost-guards-more">Roost Guards &amp; More</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/adults-protective-gear/safety-jackets">Safety Jackets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/adults-protective-gear/neck-collars-braces">Neck Collars &amp; Braces</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/adults-protective-gear/kidney-belts">Kidney Belts</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-protection">Kids Protection<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-protection/elbow-knee-guards">Elbow &amp; Knee Guards</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-protection/roost-guards-more">Roost Guards &amp; More</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-protection/collars-braces">Collars &amp; Braces</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-protection/pants-shorts-kidney-belts">Pants, Shorts &amp; Kidney Belts</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-riding-gear">Kids Riding Gear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-riding-gear/boots-socks">Boots &amp; Socks</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-riding-gear/gloves">Gloves</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-riding-gear/pants-shorts">Pants &amp; Shorts</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/kids-riding-gear/jerseys-jackets">Jerseys &amp; Jackets</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/casual-wear">Casual Wear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/casual-wear/ws-casual-wear">W's Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/casual-wear/kids-casual-wear">Kids Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/casual-wear/ms-casual-wear">M's Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/dirt-bike--atv-gear/casual-wear/sunglasses">Sunglasses</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+
+                                
+                      </div>
+                  </ul>
+                </li>
+
+            
+
+                    <li id="lev1opt5" class="level1">
+                        <a class="level1a" href="http://www.cyclegear.com/eng/categories/parts--accessories">
+                            <span class="title">Parts &amp; Accessories</span>
+                        </a>
+
+                
+
+                <ul style="visibility:hidden;display:none;">
+                    <div id="Sublevel2">
+                        
+
+                        <div class="col">
+                        <ul class="lev2">
+
+                        
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts">Parts<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/lights-electrics">Lights &amp; Electrics</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/other-parts">Other Parts</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/chains">Chains</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/universal-footpegs">Universal Footpegs</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/handlebars-handguards">Handlebars &amp; Handguards</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/engine-fueling">Engine &amp; Fueling</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/sprockets">Sprockets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/parts/braking-components">Braking Components</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/tools">Tools<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/tools/hand-tools">Hand Tools</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage">Luggage<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/waist-fanny-packs">Waist/Fanny Packs</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/helmet-bags">Helmet Bags</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/gear-bags">Gear Bags</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/other-luggage">Other Luggage</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/tank-bags-magnetic-mount">Tank Bags - Magnetic Mount</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/tank-bags-strap-mount">Tank Bags - Strap Mount</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/saddlebags">Saddlebags</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/tail-bags">Tail Bags</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/backpacks">Backpacks</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/messenger-bags">Messenger Bags</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/luggage/fender-bags">Fender Bags</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands">Ramps &amp; Stands<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/wheel-chocks">Wheel Chocks</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/front-stands">Front Stands</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/rear-stands">Rear Stands</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/lifts-lift-stands">Lifts &amp; Lift Stands</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/solid-ramps">Solid Ramps</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/folding-ramps">Folding Ramps</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/carriers-haulers">Carriers &amp; Haulers</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/ramps-stands/tie-downs-anchors">Tie-downs &amp; Anchors</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/security">Security<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/security/chains-cables">Chains &amp; Cables</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/security/locks">Locks</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/security/alarms">Alarms</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/security/covers">Covers</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/oils-chemicals">Oils &amp; Chemicals<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/oils-chemicals/cleaners-lubes">Cleaners &amp; Lubes</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/oils-chemicals/oil-fluids-filters">Oil, Fluids &amp; Filters</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/exhaust">Exhaust<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/exhaust/race-exhaust-systems">Race Exhaust Systems</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/exhaust/street-exhaust-systems">Street Exhaust Systems</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/exhaust/off-road-exhaust-systems">Off-Road Exhaust Systems</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/electronics">Electronics<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/electronics/alarms">Alarms</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/electronics/bike-to-bike-communication">Bike-to-Bike Communication</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/electronics/speedometers-computers">Speedometers &amp; Computers</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/electronics/video-cameras">Video Cameras</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/entertainment">Entertainment<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/entertainment/home-accents">Home Accents</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons">Plastics &amp; Add-ons<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/grips">Grips</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/mirrors">Mirrors</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/tank-protectors">Tank Protectors</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/decals-graphics">Decals &amp; Graphics</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/atv-accessories">ATV Accessories</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/other-dirt-bike-atv-add-ons">Other Dirt Bike &amp; ATV Add-ons</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/off-road-snow-accessories">Off-Road Snow Accessories</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/sliders-spools">Sliders &amp; Spools</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/windscreens">Windscreens</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/parts--accessories/plastics-add-ons/other-add-ons">Other Add-ons</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+
+                                
+                      </div>
+                  </ul>
+                </li>
+
+            
+
+                    <li id="lev1opt6" class="level1">
+                        <a class="level1a" href="http://www.cyclegear.com/eng/categories/tires">
+                            <span class="title">Tires</span>
+                        </a>
+
+                
+
+                <ul style="visibility:hidden;display:none;">
+                    <div id="Sublevel2">
+                        
+
+                        <div class="col">
+                        <ul class="lev2">
+
+                        
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/tires/street">Street<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/street/street-track-tires">Street &amp; Track Tires</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/street/dual-sport-tires">Dual-Sport Tires</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/street/tire-tubes--more">Tire Tubes &amp; More</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/street/scooter-tires">Scooter Tires</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/tires/cruiser">Cruiser<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/cruiser/cruiser-tires">Cruiser Tires</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/cruiser/tire-tubes-more">Tire Tubes &amp; More</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/tires/off-road">Off Road<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/off-road/dual-sport-tires">Dual-Sport Tires</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/off-road/off-road-tire-tubes-more">Off-Road Tire Tubes &amp; More</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/off-road/atv-tires">ATV Tires</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/off-road/off-road-tires">Off-Road Tires</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/tires/tools-accessories">Tools &amp; Accessories<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/tools-accessories/gauges--pumps">Gauges &amp; Pumps</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/tires/tools-accessories/accessories">Accessories</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+
+                                
+                      </div>
+                  </ul>
+                </li>
+
+            
+
+                    <li id="lev1opt7" class="level1">
+                        <a class="level1a" href="http://www.cyclegear.com/eng/categories/outlet">
+                            <span class="title">Outlet</span>
+                        </a>
+
+                
+
+                <ul style="visibility:hidden;display:none;">
+                    <div id="Sublevel2">
+                        
+
+                        <div class="col">
+                        <ul class="lev2">
+
+                        
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/street-closeouts">Street Closeouts<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/street-closeouts/bike-parts">Bike Parts</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/street-closeouts/everything-else-street">Everything Else Street</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/street-closeouts/street-helmets">Street Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/street-closeouts/mens-apparel">Men's Apparel</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/street-closeouts/womens-apparel">Women's Apparel</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/cruiser-closeouts">Cruiser Closeouts<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/cruiser-closeouts/cruiser-helmets">Cruiser Helmets</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/cruiser-closeouts/mens-apparel">Men's Apparel</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/cruiser-closeouts/womens-apparel">Women's Apparel</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/off-road-closeouts">Off Road Closeouts<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/off-road-closeouts/helmets-goggles">Helmets &amp; Goggles</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/off-road-closeouts/mens-apparel">Men's Apparel</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/off-road-closeouts/womens-apparel">Women's Apparel</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/off-road-closeouts/bike-parts">Bike Parts</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/closeout-kids">Closeout Kids<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/closeout-kids/kids-riding-gear">Kids Riding Gear</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/closeout-maintenance">Closeout Maintenance<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/closeout-maintenance/tools">Tools</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/closeout-electronics">Closeout Electronics<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/closeout-electronics/all-electronics">All Electronics</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/closeout-luggage">Closeout Luggage<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/closeout-luggage/on-body-luggage">On-Body Luggage</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+                                <div class="col">
+                                <ul class="lev2">
+
+                                
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/closeout-casual-wear">Closeout Casual Wear<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/closeout-casual-wear/mens-casual-wear">Men's Casual Wear</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/closeout-casual-wear/womens-casual-wear">Women's Casual Wear</a>
+                                </li>
+                            
+
+                            <li class="level2 titleNav ">
+                                <a class="level2a" href="http://www.cyclegear.com/eng/categories/outlet/last-chance-deals">Last Chance Deals<span class="menuExpandArrow">ï¿½</span></a>
+                            </li>
+
+                            
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/last-chance-deals/street">Street</a>
+                                </li>
+                            
+
+                                <li class="level2">
+                                    <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/categories/outlet/last-chance-deals/off-road">Off-Road</a>
+                                </li>
+                            
+                                </ul>
+                                </div>
+
+                                
+                      </div>
+                  </ul>
+                </li>
+
+            
+
+	    <li id="lev1opt8" class="level1">
+	        <a class="level1a" href="http://www.cyclegear.com/eng/brands">
+	            <span class="title">Brands</span>
+	        </a>
+	        <ul>
+	            <div id="Sublevel2">
+	                <div class="col">
+	                    <ul class="lev2">
+	                    
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/dainese-motorcycle-apparel">DAINESE</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bilt">BILT</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/oneal">O'NEAL</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/shoei">SHOEI</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/alpinestars">ALPINESTARS</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/fox">FOX</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/icon">ICON</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/sedici">SEDICI</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/gopro">GOPRO</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/street---steel">STREET &amp; STEEL</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/trackside">TRACKSIDE</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/leatt">LEATT</a>
+	                            </li>
+
+	                            
+	                                </ul>
+	                                </div>
+
+	                                
+	                                    <div class="col">
+	                                    <ul class="lev2">
+	                                
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/seven-zero-seven">SEVEN ZERO SEVEN</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bell">BELL</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/speed-and-strength">SPEED AND STRENGTH</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/speedmetal">SPEEDMETAL</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/dunlop">DUNLOP</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/firstgear-motorcycle-jackets-gloves-pants-and-suits">FIRSTGEAR</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/stockton-tool-company">STOCKTON TOOL COMPANY</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/scorpion">SCORPION</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/cortech">CORTECH</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/joe-rocket">JOE ROCKET</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/custombilt">CUSTOM BILT</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/fieldsheer">FIELDSHEER</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/-100">100 PERCENT</a>
+	                            </li>
+
+	                            
+	                                </ul>
+	                                </div>
+
+	                                
+	                                    <div class="col">
+	                                    <ul class="lev2">
+	                                
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/acerbis">ACERBIS</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/agv">AGV</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/air-force">AIR FORCE</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/airhawk">AIRHAWK</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/answer">ANSWER</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/anti-monkey-butt">ANTI MONKEY BUTT</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/arai">ARAI</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/asterisk">ASTERISK</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/atlas">ATLAS</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/avon">AVON</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/avon-galindo">AVON-GALINDO</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bel-ray">BEL-RAY</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bikemaster">BIKEMASTER</a>
+	                            </li>
+
+	                            
+	                                </ul>
+	                                </div>
+
+	                                
+	                                    <div class="col">
+	                                    <ul class="lev2">
+	                                
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bikers-comfort-in-action">BIKERS COMFORT IN ACTION</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bilt4kids">BILT 4 KIDS</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bilt-iron-workers">BILT IRON WORKERS</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/blackstar">BLACKSTAR</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/blitzkrieg">BLITZKRIEG</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bmc">BMC</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bolt">BOLT</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/boyesen">BOYESEN</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bridgestone">BRIDGESTONE</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/bully">BULLY</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/camelbak">CAMELBAK</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/canyon-dancer">CANYON DANCER</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/cardo">CARDO</a>
+	                            </li>
+
+	                            
+	                                </ul>
+	                                </div>
+
+	                                
+	                                    <div class="col">
+	                                    <ul class="lev2">
+	                                
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/carlisle">CARLISLE</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/castrol">CASTROL</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/chase-harper">CHASE HARPER</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/chatterbox">CHATTERBOX</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/cheng-shin">CHENG SHIN</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/chicken-hawk">CHICKEN HAWK</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/chris-products">CHRIS PRODUCTS</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/clymer">CLYMER</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/cobra">COBRA</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/competition-werkes">COMPETITION WERKES</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/continental">CONTINENTAL</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/covermax">COVERMAX</a>
+	                            </li>
+
+	                            
+
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands/crampbuster">CRAMPBUSTER</a>
+	                            </li>
+
+	                            
+	                                </ul>
+	                                </div>
+
+	                                
+	                                    <div class="col">
+	                                    <ul class="lev2">
+	                                
+	                            <li class="level2">
+	                                <a class="level2a sf-with-ul" href="http://www.cyclegear.com/eng/brands">More...</a>
+	                            </li>
+	                            
+	                </ul></div>
+	            </div></ul>
+	        </li>
+        
+    </ul>
+
+
+    
+
+<!-- END mainMenu.cfm -->
+
+
+
+
+
+
+
+
+
+
+
+               </div>
+          
+
+          <form name="logoutUser" method="post" action="/sharedPages//frontEndComponents/specificComponents/b2c/servlet/myAccount/logout.cfm?&amp;var=d&amp;ckey=US&amp;useNextPage=Y">
+               <input type="hidden" name="nextPage" value="http://www.cyclegear.com">
+          </form>
+
+          <div class="searchWindow" id="searchBox" style="display:none;">
+               <div class="searchFormContainer">
+               
+               </div>
+               <button class="searchBtnClose" type="submit">x</button>
+               <div class="searchBackground"></div>
+          </div>
+
+          <div class="myAccountWindow" id="myAccountBox" style="display:none;">
+               <div class="closeX"><a href="javascript:void(0)" onclick="javascript:hideBox('myAccountBox');">x</a></div>
+               <ul>
+                    
+                         <li><a href="https://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">register</a></li>
+                         <li><a href="https://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">login</a></li>
+                         
+                         
+                              <li><a href="http://www.cyclegear.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;goToPage=favoritesListing&amp;var=d&amp;ckey=US">My Wish List</a></li>
+                         
+               </ul>
+          </div>
+
+
+     
+     
+<!-- END topNavigation.cfm -->
+
+	</div>
+
+	
+	<!-- START coremetrics.cfm -->
+
+<!-- END coremetrics.cfm -->
+	<!-- START google.cfm -->
+
+					
+					<script type="text/javascript">
+						var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+						document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+					</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	
+					<script type="text/javascript">
+						var pageTracker = _gat._getTracker("UA-962549-1");
+						
+						
+							pageTracker._trackPageview();
+						
+					</script>
+				 
+		<!-- begin Marin Software Tracking Script -->
+		<script type="text/javascript">
+		var _marinClientId = "1292cgu8517";
+		var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
+		document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
+		_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://tracker.marinsm.com/tracker/1292cgu8517.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		try {
+		_marinTrack.trackPage();
+		} catch(err) {}
+		</script>
+		<noscript>
+		<img src="https://tracker.marinsm.com/tp?act=1&cid=1292cgu8517&script=no" >
+		</noscript>
+		<!-- end Copyright Marin Software -->		
+	
+        <!-- BEGIN: buySAFE Seal -->
+        <span id="BuySafeSealSpan"></span>
+        <script type="text/javascript">
+        buySAFE.Hash = 'W32lyqqS%2FKsfB5HInJkN7AqNBGtaIbUxIpdJHBH3BPiJzNcEw852t20kDV61tJJPFUj2czXs6lWThBBs0LoR6g%3D%3D';
+        WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
+        </script>
+        <!-- END: buySAFE Seal -->
+    
+<!-- END google.cfm -->
+	
+
+
+
+</body></html>
