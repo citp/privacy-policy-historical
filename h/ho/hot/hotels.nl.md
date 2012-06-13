@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211002547id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171232id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Hotels.nl privacy statement
 
-This privacy statement is part of, and covers the Hotels.nl website. Hotels.nl respects the privacy of all visitors of its website www.hotels.nl and makes sure that all your personal data is treated confidentially. If you do not fully agree with this privacy statement, you should not use this website. 
+This privacy statement is part of, and covers the Hotels.nl website. Hotels.nl respects the privacy of all visitors of its website www.hotels.nl and makes sure that all your personal data is treated confidentially. If you do not fully agree with this privacy statement, you should not use this website.
 
 The data Hotels.nl processes can be placed into two categories:  
 
 
-  1. Personal data, which you fill in yourself on the booking form, such as your name, address, telephone number and e-mail address.
+  1. Personal data, which you fill in yourself on the booking form, such as your name, address, telephone number and email address.
   2. 'Traffic data', such as your computer's IP address is logged and your surfing (habit) on the Hotels.nl website is monitored.
 
 
 
 ## 1\. Personal data
 
-If you wish to book a hotel via our website, we will ask you for some personal data in order to identify you. This information is used to process and handle your booking and to e-mail you your booking status. We will only send you an e-mail in the following cases: 
+If you wish to book a hotel via our website, we will ask you for some personal data in order to identify you. This information is used to process and handle your booking and to email you your booking status. We will only send you an email in the following cases: 
 
-  * As confirmation of booking / alteration or cancellation. After you have made a booking, you will receive a confirmation e-mail with all the information regarding your booking. You will also receive a confirmation e-mail after altering or cancelling your booking.
-  * To ask for your feedback about the hotel: A week or so after your stay in the hotel you will receive an e-mail requesting you to evaluate the hotel.
-  * To inform you about hotel specials, if you have registered to receive the e-mail newsletter. However, you can undo your registration at any time, by sending an e-mail to [am@hotels.nl](mailto:am@hotels.nl) or by using the link provided in the newsletter.
-  * If you have made a double booking, you will automatically receive an e-mail to check whether you do in fact want to make more than one booking.
-  * We will send you an e-mail, to remind you about your booking, a few days prior to your arrival date.
-  * We will also send you an e-mail if you do not take up your reservation without cancelling your booking or informing us in advance (i.e. a no-show).
+  * As confirmation of booking / alteration or cancellation. After you have made a booking, you will receive a confirmation email with all the information regarding your booking. You will also receive a confirmation email after altering or cancelling your booking.
+  * To ask for your feedback about the hotel: A week or so after your stay in the hotel you will receive an email requesting you to evaluate the hotel.
+  * To inform you about hotel specials, if you have registered to receive the email newsletter. However, you can undo your registration at any time, by sending an email to [am@hotels.nl](mailto:am@hotels.nl) or by using the link provided in the newsletter.
+  * If you have made a double booking, you will automatically receive an email to check whether you do in fact want to make more than one booking.
+  * We will send you an email, to remind you about your booking, a few days prior to your arrival date.
+  * We will also send you an email if you do not take up your reservation without cancelling your booking or informing us in advance (i.e. a no-show).
 
 
 
