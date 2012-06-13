@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015108id_/http%3A//www.digitalpacific.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172144id_/http%3A//www.digitalpacific.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Digital Pacific Privacy Policy
 
@@ -6,7 +6,9 @@
 
 Digital Pacific is dedicated to maintaining the privacy of our web hosting customers. Once you have chosen to become a Digital Pacific customer, we assure you that your personal information will be exclusively used to provide you with comprehensive services.
 
-When you establish web hosting services with Digital Pacific, you will be asked to provide contact and payment information. The contact information will include your name, address, phone number and email address. The payment information typically includes your credit card number. In the normal course of providing our web hosting services, we also create and maintain other information such as account status, system usage, plan type and support requests. All information collected by Digital Pacific will be used for the sole purpose of maintaining our relationship with you as a customer.
+When you establish web hosting services with Digital Pacific, you will be asked to provide contact and payment information which will be stored in our system for future billing and customer communication requirements.
+
+The contact information will include your name, address, phone number and email address. The payment information typically includes your credit card number. In the normal course of providing our web hosting services, we also create and maintain other information such as account status, system usage, plan type and support requests. All information collected by Digital Pacific will be used for the sole purpose of maintaining our relationship with you as a customer.
 
 ## How does Digital Pacific use customer information?
 
