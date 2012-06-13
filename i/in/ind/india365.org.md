@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193718id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614015707id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | India 365
+# Privacy Policy
 
-### Privacy Policy
+**Introduction**
+
+At [india365](http://www.india365.org/ "india365").org we always wanted to have a clean [privacy policy](http://www.india365.org/privacy/ "privacy policy") to protect your privacy. This page discloses the way we gather information and dissemination practices. Do let me know if you have if you  have any questions or suggestions for us.
+
+**Personal Information**
+
+The information you enter on this website will not be misused at any circumstances. However, we may disclose some or all the information (after taking your permission) to the third party vendors to provide information or to offer you services based on your request.
 
 **What information do we collect?**
 
-We collect information from you when you place an order.
+We collect information from you when you request for information or to place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
@@ -24,15 +30,13 @@ To improve our website
 To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**  
-Do we use cookies?**
+**Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 **Links to third party Websites**
 
-****  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. You should carefully checkout the[privacy policy](http://www.india365.org/privacy/ "privacy policy") of external sites before disclosing any personal information.
+We have included links on this site (few affiliate links included) for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. You should carefully checkout the privacy policy of external sites before disclosing any personal information.
 
 **Stats:**
 
@@ -56,10 +60,12 @@ By using our site, you consent to our privacy policy.
 
 Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our privacy policy, we will post those changes on this page and the changes will take effect instantly.
 
 Contacting Us
 
 If there are any questions regarding this privacy policy you may [contact](http://www.india365.org/contact/ "contact") us using the information below.
 
 mn.[vamsi](http://www.india365.org/about/ "vamsi")@[gmail](http://www.india365.org/gmail-search-emailid-people-address-attachment/ "gmail").com
+
+Rating: 0.0/ **10** (0 votes cast)
