@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tip.it privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214134313id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tip.it privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172753id_/http%3A//www.tip.it/runescape%3Fpage%3Dprivacy.htm) for the most accurate reproduction.*
 
-# Tip.it RuneScape Help :: Privacy :: The Original RuneScape help site!
+# Tip.It RuneScape Help :: Privacy :: The Original RuneScape Help Site!
 
 Rune Tips is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you may provide online here on our site.
 
@@ -16,7 +16,7 @@ Personal information **will not be released** to third parties except to further
 
 Our website is not set up to track, collect or distribute personal information about its visitors. It does recognize the IP home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our site. This information is used only for internal purposes by Rune Tips technical support staff (for example, so that you can not vote in polls from the same IP more than once).
 
-In addition, our web site uses third party services to collect information about the visits to our web sites. For example, they compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and will not be used to gather such information. We will not use any service which does not have a privacy policy. If you have information that a service uses or gathers personal information, please inform us by [contacting us](https://web.archive.org/web/20111214134313id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm?contact) and we will immediately re-evaluate our relations with that third party.
+In addition, our web site uses third party services to collect information about the visits to our web sites. For example, they compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and will not be used to gather such information. We will not use any service which does not have a privacy policy. If you have information that a service uses or gathers personal information, please inform us by [contacting us](https://web.archive.org/web/20120613172753id_/http%3A//www.tip.it/runescape%3Fpage%3Dprivacy.htm?contact) and we will immediately re-evaluate our relations with that third party.
 
 ### Third Party Advertising
 
