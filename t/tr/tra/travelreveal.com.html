@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelreveal.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214033028id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelreveal.com privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613171422id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy of Travelreveal.com – deny unauthorized access to application.</title>
@@ -21,20 +21,17 @@
 <link rel="shortcut icon" type="image/x-icon" href="http://www.travelreveal.com/images/fevicon.gif"><link href="http://www.travelreveal.com/css/common.css" rel="stylesheet" type="text/css">
 <link href="http://www.travelreveal.com/css/destination.css" rel="stylesheet" type="text/css"> 
 </head>
-<body> <div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<body><div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
     <script>
       window.fbAsyncInit = function() {
         FB.init({
-          appId   : '115137445210730',
-          session : null, // don't refetch the session when PHP already has it
-          status  : true, // check login status
-          cookie  : true, // enable cookies to allow the server to access the session
-          xfbml   : true // parse XFBML
+          appId: '115137445210730',
+          cookie: true,
+          xfbml: true,
+          oauth: true
         });
-
-        // whenever the user logs in, we refresh the page
-        FB.Event.subscribe('auth.login', function() {  
-		  if(document.getElementById("valSess").value==0)
+        FB.Event.subscribe('auth.login', function(response) {
+          if(document.getElementById("valSess").value==0)
 			{
 			  if(document.getElementById("registerPopUp").style.display=="block")
 				popup('registerPopUp');
@@ -54,401 +51,797 @@
 		  else
 		    {  window.location.reload(); }
         });
+        FB.Event.subscribe('auth.logout', function(response) {
+          window.location.reload();
+        });
       };
-
       (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
         document.getElementById('fb-root').appendChild(e);
       }());
     </script>
 <div id="mainWrapper" style="height:auto;">   
+
 <link href="http://www.travelreveal.com/css/popup.css" rel="stylesheet" type="text/css">
+
 <script language="javascript" type="text/javascript" src="http://www.travelreveal.com/commonJavascript/popup.js"></script>
+
 <script language="javascript" type="text/javascript" src="http://www.travelreveal.com/commonJavascript/validation.js"></script>
+
 <script language="javascript" type="text/javascript" src="http://www.travelreveal.com/commonJavascript/dmsAutoComplete.js"></script>
+
 <script language="javascript" type="text/javascript" src="http://www.travelreveal.com/javascript/javascript.js"></script>
 
+
+
 <script language="javascript">
+
 	function showBox(id)
+
 {  
+
 		if(document.getElementById('pBoxOut').style.display=="inline")
+
 		{
+
 			document.getElementById('hlink').style.background='none';
+
 			document.getElementById('hlink').style.color='';
+
 			document.getElementById('pBoxOut').style.display="none";
+
 			document.getElementById('pBoxIn').style.display="inline";
+
 			document.getElementById('apDiv1').style.display="none";
+
 		}
+
 		else
+
 		{
+
 			document.getElementById('hlink').style.background='#6B97C4';
+
 			document.getElementById('hlink').style.color='#FFF';
+
 			document.getElementById('pBoxOut').style.display="inline";
+
 			document.getElementById('pBoxIn').style.display="none";
+
 			document.getElementById('apDiv1').style.display="block";
+
 		} 
+
 }
+
 </script>
 
+
+
 <div id="banner">
+
 <div id="logoBox">
-<div id="logo" style="cursor:pointer;" title="Travel Reveal" onclick="window.location='http://www.travelreveal.com/'"></div>
+
+<div id="logo" style="cursor:pointer;" title="Travelreveal.com" onclick="window.location='http://www.travelreveal.com/'"></div>
+
 </div>
-<div style="width:160px;height:18px; float:right; margin:5px 0px 0 0;"><fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests">
+
+
+<div style="width:160px;height:18px; float:right; margin:5px 0px 0 0;"><fb:login-button data-scope="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests">
+
          Login with Facebook
+
       </fb:login-button></div>
+
 <div id="signInBox">
+
 <a href="#" class="signInBoxClass" style="background:none;" onclick="popup('loginPopUp')">Sign In<span class="commonOne"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Sign In" title="Sign In" align="absmiddle" class="arrowSignIn" style="padding-right:5px; border:none;"></span></a>
+
 <a href="#" class="signInBoxClass" onclick="popup('registerPopUp')">Register</a>
+
 </div>
+
+
 </div>
+
+
+
 
 	<input type="hidden" name="valSess" id="valSess" value="0">
+
+
 <!--LOGIN START--> 
+
+
   <div id="blanket" style="display:none;"></div> 
+
   
+
 <div id="loginPopUp" style="display:none;">
+
 <div id="popupDiv">
+
  
+
 <div id="popupCloseButton" onclick="popup('loginPopUp')"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg"></div> 
+
 <div class="popupCommonDiv">
+
   <h1>Sign in to TravelReveal</h1>
+
 </div>
+
 <div class="popupCommonDiv">
+
   <h2>Sign in using your Facebook account</h2>
+
 </div>
+
 <div class="popupCommonDiv">
+
   <p>Easily find your friend’s travel advice, and share your own.</p>
+
 </div>
+
 <div class="popupCommonDiv">
-       <fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests" onclick="popup('loginPopUp')">
+
+       <fb:login-button data-scope="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests" onclick="popup('loginPopUp')">
+
          Login with Facebook
+
       </fb:login-button>
+
 </div>
+
 <div class="popupCommonDiv">
+
   <h2>...or sign in to your Travel Reveal acount</h2>
+
 </div>
+
 <div class="popupInformationDiv">
 
+
+
 <div class="textAndField">
+
 <div class="textDiv">E-mail adress:</div>
+
 <div class="textFieldDiv">
+
   <input name="loginEmail" type="text" class="filterSearch" id="loginEmail" maxlength="120" onchange="login(1)">
+
   <span class="error" id="errorloginEmail">  </span>
-</div>
-</div>
-<div class="textAndField">
-<div class="textDiv">Password:</div>
-<div class="textFieldDiv">
-  <input name="loginPassword" type="password" class="filterSearch" maxlength="15" id="loginPassword" onkeypress="userLogin(event)" onchange="login(1)">
-  <span class="error" id="errorloginPassword"> </span>
-</div>
-</div>
-<div class="textAndField">
-<div class="textDiv">&nbsp;</div>
-<div class="textFieldDiv">
-  <p><span style="cursor:pointer;" onclick="popup('forgotPasswordPopUp');popup('loginPopUp')">Forgot Password?</span>&nbsp;&nbsp;&nbsp;<span class="error" id="loginError">  </span></p>
-</div>
-</div>
-<div class="textAndField">
-<div class="textDiv">&nbsp; </div>
-<div class="textFieldDiv">
-  <p>
-  <input type="checkbox" name="checkbox" id="checkbox">
-  Keep me signed in on this computer</p>
-</div>
-</div>
-</div>
-<div class="popupCommonDiv">&nbsp;</div>
-<div style="width:500px; height:30px;">
-<div class="buttonSignIn" style="float:left; margin:0px; margin-left:150px; _margin-left:70px;"><a href="javascript:void(0)" id="siginWait" onclick="login(0)" class="buttonClass">Sign In</a>&nbsp;</div>
-<div style="width:120px; float:left; margin-left:40px; padding-left:5px;text-decoration:none; font-weight:normal; font-family:Arial; font-size:12px; color:#4b4b4b; text-align:justify; line-height:1.5em;">&nbsp;Don't have account?</div>
-<div class="buttonSignIn" style="float:left; margin:0px;" onclick="popup('registerPopUp');popup('loginPopUp')"><a href="#" class="buttonClass">Sign Up</a></div></div>
+
 </div>
 
-<input type="hidden" name="logintoken" id="logintoken" value="83313">
-    
-<input type="hidden" name="revewFor" id="revewFor" value="">
 </div>
+
+<div class="textAndField">
+
+<div class="textDiv">Password:</div>
+
+<div class="textFieldDiv">
+
+  <input name="loginPassword" type="password" class="filterSearch" maxlength="15" id="loginPassword" onkeypress="userLogin(event)" onchange="login(1)">
+
+  <span class="error" id="errorloginPassword"> </span>
+
+</div>
+
+</div>
+
+<div class="textAndField">
+
+<div class="textDiv">&nbsp;</div>
+
+<div class="textFieldDiv">
+
+  <p><span style="cursor:pointer;" onclick="popup('forgotPasswordPopUp');popup('loginPopUp')">Forgot Password?</span>&nbsp;&nbsp;&nbsp;<span class="error" id="loginError">  </span></p>
+
+</div>
+
+</div>
+
+<div class="textAndField">
+
+<div class="textDiv">&nbsp; </div>
+
+<div class="textFieldDiv">
+
+  <p>
+
+  <input type="checkbox" name="checkbox" id="checkbox">
+
+  Keep me signed in on this computer</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="popupCommonDiv">&nbsp;</div>
+
+<div style="width:500px; height:30px;">
+
+<div class="buttonSignIn" style="float:left; margin:0px; margin-left:150px; _margin-left:70px;"><a href="javascript:void(0)" id="siginWait" onclick="login(0)" class="buttonClass">Sign In</a>&nbsp;</div>
+
+<div style="width:120px; float:left; margin-left:40px; padding-left:5px;text-decoration:none; font-weight:normal; font-family:Arial; font-size:12px; color:#4b4b4b; text-align:justify; line-height:1.5em;">&nbsp;Don't have account?</div>
+
+<div class="buttonSignIn" style="float:left; margin:0px;" onclick="popup('registerPopUp');popup('loginPopUp')"><a href="#" class="buttonClass">Sign Up</a></div></div>
+
+</div>
+
+
+
+
+<input type="hidden" name="logintoken" id="logintoken" value="91554">
+
+    
+
+<input type="hidden" name="revewFor" id="revewFor" value="">
+
+</div>
+
  
+
 <!--LOGIN END-->
+
 <!--REGISTRATION START-->
 
+
+
 <div id="registerPopUp" style="display:none;">
+
 <div id="popupDiv"> 
+
 <div id="popupCloseButton" onclick="popup('registerPopUp')">
+
 <img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg">
+
 </div> 
+
   
+
 <div class="popupCommonDiv">
+
   <h1>Sign in to TravelReveal</h1>
+
 </div>
+
 <div class="popupCommonDiv">
+
  
-      <fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests" onclick="popup('registerPopUp')">
+
+      <fb:login-button data-scope="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests" onclick="popup('registerPopUp')">
+
          Login with Facebook
+
       </fb:login-button>
+
 </div>
+
 <div class="popupCommonDiv">
+
   <h2>...or fill out the form below</h2>
+
 </div>
+
 		<div class="popupInformationDiv" style="margin-bottom:10px;">
+
 <span class="error" id="validationServerError" style="width:200px; font-size:12px; margin-left:150px; text-align:center;"></span>
 
+
+
 <div class="textAndField">
+
 <div class="textDiv">Screen Name:</div>
+
 <div class="textFieldDiv">
+
 <input name="screenCk" type="hidden" class="textFielClass" id="screenCk" value=""><input name="screenName_h" type="text" maxlength="25" class="textFielClass" id="screenName_h" onkeyup="screenNameCheck(this.value)" onblur="validation(1)" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="errorScreenName"></span>
+
 </div>
+
 </div>
+
 <div class="textAndField">
+
 <div class="textDiv">E-mail address:</div>
+
 <div class="textFieldDiv">
+
  <input name="emailCk" type="hidden" class="textFielClass" id="emailCk" value=""> <input name="email_h" type="text" class="textFielClass" id="email_h" onkeyup="emailIdCheck(this.value)" maxlength="120" onblur="validation(1)" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="errorEmail"> </span><span class="error" id="errorEmail2"> </span>
+
 </div>
+
 </div>
+
 <div class="textAndField">
+
 <div class="textDiv">Password:</div>
+
 <div class="textFieldDiv">
+
   <input name="password" type="password" maxlength="15" class="textFielClass" id="password" onblur="validation(1)" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="errorPassword"></span>
+
 </div>
+
 </div>
+
 <div class="textAndField">
+
   <div class="textDiv">Gender:</div>
+
   <div class="textFieldDiv">
+
     <p>
+
        <input type="radio" name="gender_h" id="male_h" value="1" onchange="validation(1)">
+
   Male 
+
   <input type="radio" name="gender_h" id="female_h" value="2" onchange="validation(1)">
+
   Female &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="error" id="errorGender"></span>
+
     </p>
+
   </div> 
+
 </div>
+
 <div class="textAndField">
+
 <div class="textDiv">&nbsp;</div>
+
 <div class="textFieldDiv">
+
   <p>
+
     <input checked="checked" name="checkbox" type="checkbox" id="checkbox">
+
     Keep me signed in on this computes</p>
+
 </div>
+
 </div>
+
 </div>
+
+
 
 <div style="width:450px; color:#666; margin-left:50px;"><p><input checked="checked" name="userTNCChk" type="checkbox" id="userTNCChk">agree to the <a target="_blank" href="http://www.travelreveal.com/terms-n-conditions/" style="text-decoration:none; font-size:11px;">Terms &amp; Conditions</a> and <a target="_blank" href="http://www.travelreveal.com/privacy-policy/" style="text-decoration:none; font-size:11px; ">Privacy Policy</a>  of travelreveal.com </p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="error" id="erroruserTNCChk"></span>
+
 <div class="popupCommonDiv" style="margin-top:5px;">  
+
   <div style="width:500px; height:30px;">
+
 <div class="buttonSignIn" style="float:left; margin:0px; width:70px; margin-left:110px; _margin-left:70px;"><a href="javascript:void(0)" id="siginUpWait" onclick="validation(0)" class="buttonClass">Sign&nbsp;Up</a>&nbsp;</div>
+
 <div style="width:120px; float:left; margin-left:40px; padding-left:5px;text-decoration:none; font-weight:normal; font-family:Arial; font-size:12px; color:#4b4b4b; text-align:justify; line-height:1.5em;">&nbsp;Already a member?</div>
+
 <div class="buttonSignIn" style="float:left; margin:0px;" onclick="popup('registerPopUp');popup('loginPopUp')"> <a href="#" class="buttonClass">Sign In</a></div></div>
-</div>
+
 </div>
 
 </div>
+
+
+
+</div>
+
 <!--REGISTRATION END-->
+
  
+
  <!--FORGOT PASSWORD START-->
+
  
+
 <div id="forgotPasswordPopUp" style="display:none;">
+
 <div id="popupDiv">
+
 <div id="popupCloseButton" onclick="popup('forgotPasswordPopUp')"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg"></div>
+
 <div class="popupCommonDiv">
+
   <h1>Forgot your password</h1>
+
 </div>
+
 <div class="popupCommonDiv">
+
   <p>Enter your email address and We'll send you an e-mail to reset it. <br>
+
   If you not find e-mail please check your spam also.
+
 </p>
+
 </div>
+
 <div class="popupInformationDiv">
+
   <!--<div class="textAndField">
+
 <div class="textDiv">&nbsp;</div>
+
 <div class="textFieldDiv"><img src="http://www.travelreveal.com/images/popup/email_address.gif" width="194" height="29" /></div>
+
 </div>--><span class="textDiv" style="color:#984377; width:auto; text-align:left; overflow:hidden; margin-left:141px;" id="fPassError"></span>
+
   <div class="textAndField">
+
 <div class="textDiv">E-mail adress:</div>
+
 <div class="textFieldDiv">
+
   <input name="forgotPasswordEmail" type="text" maxlength="120" class="textFielClass" id="forgotPasswordEmail">&nbsp;<span class="error" id="errorForgotPasswordEmail"> </span>
+
  
-</div>
+
 </div>
 
 </div>
+
+
+
+</div>
+
 <div class="popupCommonDiv">&nbsp;</div>
 
+
+
 <div class="textFieldDiv">
+
 <div class="buttonSignInTwo"><a onclick="forgotPassword(0)" id="fSubmitWait" href="#" class="buttonClass">Submit</a></div>
+
 <div class="buttonSignInTwo"><a onclick="popup('forgotPasswordPopUp');popup('loginPopUp')" href="#" class="buttonClass">Back</a>
 
-</div>
+
 
 </div>
-<div class="popupCommonDiv">&nbsp;</div>
+
+
+
 </div>
+
+<div class="popupCommonDiv">&nbsp;</div>
+
+</div>
+
+
 
     
+
 </div>
+
  
+
 <!--FORGOT PASSWORD END-->
+
+
 
 <!--FORGOT PASSWORD Reset Instructions START-->
 
+
+
 <div id="forgotPasswordPopUpInst" style="display:none;">
+
 <div id="popupDiv">
+
 <div id="popupCloseButton" onclick="popup('forgotPasswordPopUpInst')"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg"></div>
+
 <div class="popupCommonDiv">
+
   <h1>Reset your password</h1>
+
 </div>
+
 <div class="popupInformationDiv">
+
   <div class="textAndField">
+
     <p>To sign into TravelReveal, please follow these steps in the <strong>next 24 hours:</strong></p>
+
   </div>
+
 <div class="textAndField">
+
     <p> 1. Leave this window or browser tab open if you want to continue what you're doing</p>
+
   </div>
+
   <div class="textAndField">
+
     <p> 2. Open the e-mail we just sent to <strong><span id="fpEmail"></span></strong></p>
+
   </div>
+
   <div class="textAndField">
+
     <p> 3. Click on the link in the e-mail to reset your password</p>
+
   </div>
+
   <div class="textAndField">
+
     <p>Once you have saved your new password, return to this screen to resume your activity.</p>
+
   </div>
+
 </div>
+
 <div class="popupCommonDiv">&nbsp;</div>
+
 </div>
+
 </div>
+
  
+
 <!--FORGOT PASSWORD Reset Instructions END-->
+
+
 
 <!--MANAGE BUSINESSES START -->
 
+
+
 <div id="manageBusinessesPopUp" style="display:none;">
 
+
+
 </div>
+
+
 
 <!--MANAGE BUSINESSES END-->
 
+
+
 <!--MESSAGE POPUP START-->
 
+
+
 <div id="messagePopup" style="display:none;">
+
 <div id="popupDiv">
+
 <div id="popupCloseButton" onclick="popup('messagePopup')"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg"></div>
+
 <div class="popupCommonDiv">
+
   <h1>Please Logout Your Current Account</h1>
+
 </div>
+
+
 
 <div class="popupCommonDiv">&nbsp;</div>
+
 </div>
+
 </div>
+
  
+
 <!--MESSAGE POPUP END--> 
 
+
+
 <div id="feedBackPopUp" style="display:none;">
+
 	<div id="popupDiv"> 
+
 <div id="popupCloseButton" onclick="popup('feedBackPopUp')">
+
 <img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg">
+
 </div> 
+
     <div class="popupCommonDiv">
+
   <h1>Feedback</h1>
+
 </div>
+
 <span id="feedback_thanks"> 
+
 	<div class="popupInformationDiv" style="margin-bottom:10px;">
 
+
+
 	<div class="textAndField">
+
 <div class="textDiv">Name:</div>
+
 <div class="textFieldDiv"> <input name="feedback_name" type="text" class="textFielClass" id="feedback_name" maxlength="50" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="feedback_errorName"></span>
+
 </div>
+
 </div>	
 
-	<div class="textAndField">
-<div class="textDiv">E-mail address:</div>
-<div class="textFieldDiv">  <input name="feedback_email" type="text" class="textFielClass" id="feedback_email" maxlength="120" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="feedback_errorEmail"></span> 
-</div>
-</div>
+
 
 	<div class="textAndField">
+
+<div class="textDiv">E-mail address:</div>
+
+<div class="textFieldDiv">  <input name="feedback_email" type="text" class="textFielClass" id="feedback_email" maxlength="120" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="feedback_errorEmail"></span> 
+
+</div>
+
+</div>
+
+
+
+	<div class="textAndField">
+
 <div class="textDiv">Feedback:</div>
+
 <div class="textFieldDiv">
+
     <textarea name="feedback_content" cols="60" class="distance" style="color:#434343" rows="8" id="feedback_content" onkeyup="limiter('5000','feedback_content_lim','feedback_content')" onblur="limiter('5000','review_content_lim','review_content')"></textarea>     
+
    <br>
+
    <span class="filterSearch" id="feedback_content_lim">(5000 chars. left)</span> <br>
+
 <span id="feedback_content_error" class="error"></span>
 
 
+
+
+
 </div>
-</div> 
 
 </div> 
+
+
+
+</div> 
+
 	    
+
     <div class="popupCommonDiv" style="margin-top:5px;">  
+
       <div style="width:500px; height:30px;"> 
+
   		  <div class="buttonSignIn" style="float:right; margin:0px;"> <span onclick="valfeedback()" id="feedbackWait" class="buttonClass">Submit</span></div> 
+
     </div> 
+
 </div>  
+
 </span>
+
+
 
 <span id="feedback_thanks1" style="display:none;">
+
 	<div class="popupInformationDiv" style="margin-bottom:10px;"><div class="textAndField"><h2><span id="thanksContent">Thanks for feedback !</span>
+
     </h2></div></div>
+
 </span>
 
+
+
 </div>
+
 </div>
+
+
 <style type="text/css">
+
       *{margin:0px;padding:0px;}
+
       #suggestPost
+
       {
+
         background:transparent url(http://www.travelreveal.com/images/common/feedback.png) no-repeat scroll 0px 0px;
+
         height:170px;
+
         left:0;
+
         position:fixed;
+
 		_position:absolute;
+
         top:200px;
+
         width:40px;
+
       }
+
       
+
       #suggestPost a
+
       {
+
         display:block;
+
         height:170px;
+
         width:40px;
+
       }
+
     </style><div id="suggestPost"><a href="javascript:void(0)" onclick="feedback()"></a></div>
+
     <script language="javascript">
+
 function chkVal(val1,id1,str1)
+
 { 
+
 	if(val1==str1)
+
 	  document.getElementById(id1).value = ""; 
+
 }
+
 </script>
-<script language="javascript" src="http://www.travelreveal.com/javascript/dmsAutoComplete.js"></script>
+
+
+
 <div id="menuBox">
+
 <div id="menu">
+
 <ul>
+
 <li><a href="http://www.travelreveal.com/travel-guide/" class="menu">Destination</a></li>
+
 <li><a href="http://www.travelreveal.com/hotels/" class="menu">Hotel</a></li>
+
 <li><a href="http://www.travelreveal.com/attractions/" class="menu">Attraction</a></li> 
+
 <li><a href="http://www.travelreveal.com/photos/" class="menu">Photos</a></li>
+
 <li><a href="http://www.travelreveal.com/offers/" class="menu">Offers</a></li>
+
 <li><a href="http://www.travelreveal.com/writereview/" class="menu">Write a Review</a></li>
+
  
-  
+
+ 
+ 
+
 </ul>
+
 </div>
+
 <div id="searchBox">
+
 <div id="searchLeft">
+
     <input type="text" class="searchBox" name="globalsearch" id="globalsearch" onfocus="chkVal(this.value,this.id,'Search city, hotel, attraction')" value="Search city, hotel, attraction" onpaste="globalSarchVal(this.value,this.id,'')"> 
+
           <input type="hidden" name="city_id" id="city_id" value="0">
 
+
+
       <div id="acDiv_globalsearch"></div>
+
 </div>
+
 <div id="searchIcon" class="cursorPointer" onclick="globalsearch('')" title="Search"></div>
+
 </div>
+
 </div>
+
 <div id="menuBottomLine"></div>  <div id="startFilterHotelResultDiv">
   <div id="hotelBg">
   
@@ -512,58 +905,94 @@ function chkVal(val1,id1,str1)
 
 <!-- End Add Box -->
 <!-- Start FOOTER SECTION Here -->
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-12901967-1']);
-_gaq.push(['_setLocalRemoteServerMode']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-</script>
-
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
  
+
  <div id="footer">
+
 	<div id="footerLeftDiv">
+
   <p><span class="a1"><a href="http://www.travelreveal.com/about-us/" class="a1">About Us</a>&nbsp;  |&nbsp;  <a href="http://www.travelreveal.com/careers/" class="a1">Careers</a>&nbsp;  |&nbsp;  <a href="http://www.travelreveal.com/contact-us/" class="a1">Contact Us</a> &nbsp;   |&nbsp;  <a href="http://blog.travelreveal.com/" class="a1">Blog</a> &nbsp;|&nbsp;  <a href="http://www.travelreveal.com/terms-n-conditions/" class="a1">Terms &amp; Conditions</a>&nbsp; |&nbsp;<a href="http://www.travelreveal.com/privacy-policy/" class="a1"> Privacy Policy</a>&nbsp; |&nbsp; <a href="http://www.travelreveal.com/disclaimer/" class="a1">Disclaimer </a> &nbsp;|&nbsp; <a href="http://www.travelreveal.com/user/hotelOwner/businessVerification2.php" class="a1">Hoteliers</a> &nbsp;|&nbsp; <a href="http://www.travelreveal.com/help/" class="a1">Help</a></span><br>
+
      
+
   </p>
+
  <span id="common"> <p>Best Viewed in IE7+ &amp; Firefox 3.5 1024*768 Resolution. All brands are trademarks of their respective owners.<br>
+
     © Copyright 2009-10. Netmantle Informatics Pvt. Ltd. All rights reserved.</p></span>
+
 </div>
+
 	<div id="footerRightDiv"><span id="common">
+
   <p><strong>About TravelReveal™<br>
+
     </strong> 
+
   </p>
+
   <p>TravelReveal™ provides  reviews, articles, photos, official contact information,
+
     recommendations and opinions on hotels, attractions, destinations worldwide.</p></span>
+
 </div>
+
 </div>
+
 <input type="hidden" name="curentUrl" id="curentUrl" value="http://www.travelreveal.com/privacy-policy/">
+
 <input type="hidden" name="temp_global" id="temp_global" value="http://www.travelreveal.com/">
 
+
+
 <script language="javascript">
+
 	var AC = new dmsAutoComplete('globalsearch','acDiv_globalsearch');
+
+
 
 AC.ajaxTarget = 'http://www.travelreveal.com/ajax/autocompleteglobalsearch.php';
 
+
+
 AC.chooseFunc = function(id,label){ 
+
 	}
+
  
 
+
+
 </script>
+
 <script language="javascript">	  
+
  function changeBackground() {    
 
+
+
     document.getElementById("mainWrapper").style.height='auto'; 
+
 }
+
 changeBackground();   
+
+</script>
+<script type="text/javascript">
+
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12901967-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
 </script><!-- End FOOTER SECTION Here -->
 
 </div> 
