@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldship1.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214626id_/http%3A//www.worldship1.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldship1.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172841id_/http%3A//www.worldship1.com/en/privacy) for the most accurate reproduction.*
 
 # World Ship Privacy Policy
 
