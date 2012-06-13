@@ -1,58 +1,103 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204055922id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613222843id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
-We hold only a minimal amount of information on each registered client. In order to register, we only require an email address (and a password). Prior to sending any payments, we will also require details in order to make payment. 
+TopCashBack treats member’s privacy very seriously and we do all that we can to ensure that the data held on our members is protected and used correctly. 
 
-We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page. 
+The privacy policy below details what information we hold on you as a member of Top CashBack and the ways in which we use this information. 
 
-Member usernames & basic related statistics may occassionally be exposed, where a person has followed your referral link they may see your name when they follow the link. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £10.00) may be visible to the referring member. If you were referred to TopCashBack, this fact will be made clear in your account details page, from which you may opt out of them being able to see your account balance. Where selected (default), account balances are only displayed until you reach the referral threshold (currently £10.00). Once this is reached your account balance will no longer be visible. 
+## OVERVIEW
 
-  * We may monitor traffic patterns in order to improve our services, to help monitor purchases and cashback and keep accounts up to date.
-  * We do not send Junk Email or Spam. We may send emails with site updates or offers, but users will be able to specify the type of emails received.
-  * We do not pass users details on to third parties, unless specifically requested to do so by the users.
-  * An exception to the above is that we may pass your details on to the merchants or their agents for verification of transactions only and for fraud prevention measures. These details passed on will not be used for marketing or any other purposes.
+The data collected or stored by Top CashBack is used in conjunction with the member Terms and Conditions document <http://www.topcashback.co.uk/Terms> The data held is used to allow us to offer cashback discounts and functions/services which relate to the provision of cashback. 
 
+We aim to be very flexible and transparent in the use of users details. If users wish for their account to be deleted or amended in any way – or if they wish to prevent us from using their information for any purposes, either as initially stated or for any new purposes, then they may contact us using our ‘Contact Us’ form and we will endeavour to comply with their wishes. 
 
+## DATA COLLECTED/HELD ON MEMBERS
 
-Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £5. 
+In order to register for our service, we only require an email address (and a password). 
 
-It is possible that we will wish to use customer information in unanticipated ways, not stated in our Privacy Policy. In this event, we will contact individuals before using the data for new purposes, so that the individual users may opt-out if they wish. 
+Prior to sending any payments, we will also require details in order to make payment – this may be in the form of BACS details or a registered Paypal email address. 
 
-We aim to be very flexible and transparent in the use of users details. If users wish for their account to be deleted or amended in any way – or if they wish to prevent us from using their information for any purposes, either as initially stated or for any new purposes, then they may contact us using our ‘Contact Us’ form and we will endeavor to comply with their wishes. 
+We also keep accounts updated with cashback levels based on your purchase history via the Top CashBack website. In order to track the cashback, we keep a record of your clicks to merchant pages. 
 
-If any user feels this site is not following its stated information policy, then they may inform us through our ‘Contact Us’ form. 
+Members can choose to add some optional information to accounts, for example ‘Gender’ and ‘Date of Birth’ which may be used to send relevant offers and deals. 
 
-Cookie Policy
+It is possible that we will wish to use customer information in unanticipated ways, not stated in our Privacy Policy. In this event, we will contact individuals before using the data for new purposes, so that the individual users may opt-out if they wish. If any user feels this site is not following its stated information policy, then they may inform us through our ‘Contact Us’ form. 
 
-We recommend that all users enable cookies in their browsers in order to make full use of the site and in order to ensure that any purchases on third party sites are recorded. Cookies are small pieces of data or information that are stored by a users browser onto their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases. 
+## HOW DO WE SHARE THIS DATA/WHO WITH?
 
-If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page.
+We do not pass users details on to third parties, unless specifically requested to do so by the users or where it is a required to help obtain/track or validate cashback earnings. 
 
-Subscription
+On rare occasions personal data may also be disclosed if we are requested to do so by law, or receive a valid request for its disclosure – for example fraud prevention prevention measures. These details passed on will not be used for marketing or any other purposes. 
 
-We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. Please visit your account settings to view these preferences.
+Member usernames & basic related statistics may occasionally be exposed, where a person has followed your referral link they may see your username when they follow the link. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £10.00) may be visible to the referring member. Account balances are only displayed until you reach the referral threshold (currently £10.00). Once this is reached your account balance will no longer be visible. 
 
-Contact
+Top CashBack may use data on your purchase/click behaviour to send/display deals which we believe will be of interest to you. You can opt out of receiving these communications within your account settings. 
 
-Should you wish to contact us then please visit our [ contact page](https://web.archive.org/contact)
+In order to offer some aspects of our service such as Top CashBack compare, we may be required to share data with third parties. Where this is the case, we will make sure that you are informed and consent to this. The third parties may have their own privacy policies which will be presented to users prior to their consenting. 
 
-Telephone: 
+## HOW SECURE IS YOUR DATA HELD BY US?
 
-Email: 
+At Top CashBack, we treat the security of your data extremely seriously and have a number of measures in place to ensure that your data isn’t compromised or accessed unless absolutely necessary to offer our services. 
 
-Mailing Address:
+All of our data is held on secure servers and password/payment details are encrypted. Only staff members of Top CashBack have access to this data and they may only see the last 4 digits of details such as your bank account number. 
 
-TopCashBack
+## COOKIE POLICY
 
-UKC Systems Ltd
+Cookies are small pieces of data or information that are stored by a users browser onto their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services 
 
-Lion Buildings
+In order to track your purchases, cookies are stored on your computer, they simply store tracking information so that when you visit a merchant via Top CashBack, any purchases made will result in the merchant reading this information. The merchant will then send us information about your purchase, at which point we can then credit your account. Therefore in order to use the Top CashBack service and earn cashback, it is a requirement to have cookies enabled in your browser software. 
 
-Uttoxeter
+Cookies may also be used by Top CashBack to enable full use of our website, including logging in and user preferences. If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page. 
 
-Staffordshire
+Like many websites, Top CashBack may use cookies to allow third party advertisers (which we generally label as “sponsored adverts”) to present you with advertising on Top CashBack based on interests/preferences defined by your past web browsing activity – also known as ‘behavioural advertising’. To find out more about how this works or you are concerned about this, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
-ST14 8HP
+We recommend that all users enable cookies in their browsers in order to make full use of the site and in order to ensure that any purchases on third party sites are recorded. You may refuse to accept cookies by adjusting the settings of your browser software, however, if you do not have cookies enabled, third-party merchants will not record your purchases and you will not be able to earn cashback from our service. 
 
-United Kingdom
+For more information regarding the use of cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or <http://www.microsoft.com/info/cookies.mspx>
+
+Cookies are used by TopCashBack to perform the below functions: 
+
+1\. To track your transactions. When you make a purchase on a merchant's site it is third party cookies used by our tracking agency that give us the information to track your cashback. Specifically it tells us which retailer's site you've clicked through to and when. If you've made a purchase this cookie will be used by the merchant to recognise Top CashBack as the referrer and hence report the relevant cashback to us.
+
+2\. To test if your tracking works.
+
+3\. For us to recognise your user account and to keep you logged in to your Account for a period of time.
+
+4\. To show you deals based on your behaviour during that session e.g ‘Recently Visited Merchants’
+
+5\. Allow us to comply with your choices about the display of information in your Account.
+
+6\. Remember the options you select.
+
+7\. To allow you to interact and post on our forum.
+
+8\. To tell us how you found the website and who to assign any referral bonuses.
+
+Having reviewed the use of cookies as part of the Top CashBack service, we believe that the cookies used are strictly necessary to offer the services/provision of cashback and related services and/or are non-intrusive cookies which are used to enhance the service offered. 
+
+## AMENDING YOUR DETAILS/EMAIL SETTINGS
+
+We do not send Junk Email or Spam! We may send emails with site updates or offers, but users will be able to specify the type of emails received from within their account. All of our emails contain a link which you can use to opt-out/unsubscribe from further emails of that nature. 
+
+A few of our service emails are essential to allow the use of Top CashBack and so it is not possible to opt-out of receiving these. 
+
+Registered users may update their account details held by us, online by using the relevant links from within their account page. 
+
+## SUBSCRIPTION
+
+We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. 
+
+Please visit your account settings to view these preferences. 
+
+## DISCLOSURE OF PERSONAL DATA
+
+As part of our compliance with the Data Protection Act 1998, we give members the opportunity to view any information held on them as an individual. This may include purchase information, account totals, contact details and other information. 
+
+Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £5. 
+
+## COMPANY DETAILS
+
+UKC Systems Ltd – Trading as TopCashBack. is a company registered in England and Wales, under company registration number 5336020 and having its registered address as Lion Buildings, 8 Market Place, Uttoxeter, Staffordshire, ST14 8HP. Registered under the Data Protection Act. Registration No. Z1905336 
+
+Should you wish to contact us then please visit our contact page. <http://www.topcashback.co.uk/contact>
