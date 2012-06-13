@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogvault.net privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214023440id_/http%3A//blogvault.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogvault.net privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175305id_/http%3A//blogvault.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « « Wordpress Backup Service | blogVault Wordpress Backup Service | blogVault
+# Privacy Policy « Wordpress Backup & Restore Service | blogVault Wordpress Backup & Restore Service | blogVault
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
