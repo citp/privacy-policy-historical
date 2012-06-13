@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrwa.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214220223id_/http%3A//www.unrwa.org/etemplate.php%3Fid%3D813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrwa.org privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171642id_/http%3A//www.unrwa.org/etemplate.php%3Fid%3D813) for the most accurate reproduction.*
 
 # Privacy policy-UNRWA
 
@@ -29,7 +29,7 @@ Personally identifiable information that you provide in this way will not be giv
 UNRWA takes great care to keep the details you provide for credit card payments confidential. We use [RBS WorldPay](http://www.rbsworldpay.com/), which ensures an optimum level of security. To prevent fraud, your data is encrypted and then transmitted automatically and directly to the credit card issuer, who processes the payment. 
 
 More answers to [questions about donations  
-](https://web.archive.org/web/20111214220223id_/http%3A//www.unrwa.org/etemplate.php?id=814)
+](https://web.archive.org/web/20120613171642id_/http%3A//www.unrwa.org/etemplate.php?id=814)
 
 ## What if I do not want to provide personal information?
 
