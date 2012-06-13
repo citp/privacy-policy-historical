@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the icopyright.net privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612211705id_/http%3A//info.icopyright.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icopyright.net privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613213340id_/http%3A//info.icopyright.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iCopyright.com
+# iCopyright’s Privacy Policy :: iCopyright
 
 **Collection and Use of Information**
 
-This statement discloses the privacy practices for iCopyright, Inc.'s Content Services, including the instant licensing service and Clip&Copy.
+This statement discloses the privacy practices for iCopyright, Inc.’s Content Services, including the instant licensing service and Clip&Copy.
 
 iCopyright has a firm commitment to privacy. You should know that iCopyright gathers data only from registered customers; we do not gather and store information about visitors to the site. The following discloses the information gathering and dissemination practices for iCopyright. iCopyright does not engage in the practice of law and nothing on this web site constitutes legal advice. If you desire legal advice, you must consult with an attorney. The content available via this web site is for general information purposes only, and is not intended as a substitute for the professional judgment and services of a licensed attorney. Reliance on the content is solely at your own risk.
 
 **IP Address/Log Files**
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, diagnose problems with our servers, track users' movement in the aggregate, and gather broad demographic information for aggregate use to improve the Web site's navigation and features. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, diagnose problems with our servers, track users’ movement in the aggregate, and gather broad demographic information for aggregate use to improve the Web site’s navigation and features. IP addresses, etc. are not linked to personally identifiable information.
 
 **Cookies**
 
@@ -39,7 +39,7 @@ We may use your personal information in the following ways:
 
 
 
-We also maintain records of registered customers' transactions with the iCopyright.com system, including:
+We also maintain records of registered customers’ transactions with the iCopyright.com system, including:
 
   * reprint rights, licenses, and permissions granted to you
   * your use and navigation of the service
@@ -61,7 +61,7 @@ iCopyright will aggregate transaction records and demographic information and ma
 
 We may disclose Personally Identifiable Information to others as follows:
 
-  * Each publisher or content owner may require that iCopyright disclose to it the names and other identifying information of the customers to whom the publisher's rights or permissions have been granted as part of the legal licensing process. iCopyright does not control the use of such information by publishers/content owners.]
+  * Each publisher or content owner may require that iCopyright disclose to it the names and other identifying information of the customers to whom the publisher’s rights or permissions have been granted as part of the legal licensing process. iCopyright does not control the use of such information by publishers/content owners.]
   * Each service provider may require your name or other identifying information to fulfill a request that you make. You will be asked for this information at the time of each request. iCopyright does not control the use of such information by service providers.
   * iCopyright will disclose such information when required to do so by law or as requested by government or law enforcement authorities.
   * iCopyright maintains records of all licensing transactions, even if You cancel your account, so long as our agreements with content owners require us to, which is usually three (3) years.
@@ -83,15 +83,15 @@ iCopyright may offer you the option of allowing us to send you various kinds of 
 
 **Correct/Update Your Information or Cancel Your Account**
 
-To modify existing account information, visit your MyAccount pages. To deactivate your account, send a request to [support@icopyright.net](mailto:support@icopyright.net). You will be contacted for verification.
+To modify existing account information, visit your MyAccount pages. To deactivate your account, send a request to [support@icopyright.net](mailto:support@icopyright.net). You will be contacted for verification.
 
-**Children's Guidelines**
+**Children’s Guidelines**
 
 iCopyright will NOT knowingly collect online contact information from anyone under the age of 13.
 
 **Links**
 
-This site contains links to other sites. Please note that when you click one of these links, you will be entering another Web site. We encourage you to read the privacy statements of these linked sites, as their policies may differ from iCopyright's policy.
+This site contains links to other sites. Please note that when you click one of these links, you will be entering another Web site. We encourage you to read the privacy statements of these linked sites, as their policies may differ from iCopyright’s policy.
 
 **Security**
 
@@ -101,4 +101,4 @@ We recognize that security has become a critical issue for Internet users. iCopy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
+If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
