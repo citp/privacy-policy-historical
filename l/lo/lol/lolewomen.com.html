@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lolewomen.com privacy policy that was archived on 2011-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111212180041id_/http%3A//www.lolewomen.com/us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lolewomen.com privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613192434id_/http%3A//www.lolewomen.com/us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     <title>Privacy Policy  | lolё</title>
@@ -8,12 +8,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Learn about LOLË's privacy policy and disclosure and protection of consumer information">
 <meta name="keywords" content="">
-
-
 <link rel="apple-touch-icon" href="http://www.lolewomen.com/us/skin/frontend/default/lole_2011/images/lole/lole-ipad.png">
 <link rel="icon" href="http://www.lolewomen.com/us/skin/frontend/default/lole_2011/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.lolewomen.com/us/skin/frontend/default/lole_2011/favicon.ico" type="image/x-icon">
-<script src="http://www.lolewomen.com/us/skin/frontend/default/lole_2011/js/jquery.tools.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.lolewomen.com/us/skin/frontend/default/lole_2011/js/jquery.tools.min.js" type="text/javascript"></script>
 
 
 <link rel="stylesheet" type="text/css" href="http://www.lolewomen.com/us/media/css/4df3f6d45924c675e8f662c17b28d566.css">
@@ -32,7 +31,23 @@
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://www.lolewomen.com/us/media/js/15aff8db4046c434424b91974ee605a0.js"></script>
 <![endif]-->
-<script type="text/javascript">var Translator = new Translate([]);</script>
+
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-7321306-1"]);
+    _gaq.push(["_trackPageview", "/us/privacy-policy/"]);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+        <script type="text/javascript">var Translator = new Translate([]);</script>
+
 <script type="text/javascript"> 
 
 jQuery(document).ready(function(){
@@ -44,24 +59,30 @@ jQuery(document).ready(function(){
     var BLANK_IMG = 'http://www.lolewomen.com/us/js/spacer.gif';
     var BASE_URL = 'http://www.lolewomen.com/us/';
     var SKIN_URL = 'http://www.lolewomen.com/us/skin/';
-    var LOLEWISHLIST_URL = 'http://www.lolewomen.com/us/shop-this-look/index/view/';
+    var LOLEWISHLIST_URL = 'https://www.lolewomen.com/us/shop-this-look/index/view/';
+    var SHOPTHISLOOK = 'http://www.lolewomen.com/us/shop-this-look/index/view/';
 	  var HOMEAJAXBLOG = 'http://www.lolewomen.com/blog/ajax-blog-homepage/?lang=en';
 	  var PANTRY_AJAX = 'http://www.lolewomen.com/us/pantry/index/pantry/';
 	  var TOPSELLERS_AJAX = 'http://www.lolewomen.com/us/shop-this-look/index/topseller/';
 	  var HOMEPAGE_WEATHER_AJAX = 'http://www.lolewomen.com/us/weather/index/homepage/';
 	  var HOMEPAGE_MEETUP_AJAX = 'http://www.lolewomen.com/us/meet-up/index/homepage/';
+	  
     //]]>
 </script>
 
 
 <style type="text/css">
 /* Custom CSS for HTTPS requests */
-body { background:url('http://d3ej0l378cxwy7.cloudfront.net/website_2011/page/bg_winter_HD.jpg') #fff top center fixed ; }
-</style><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+body { background:url('http://d3ej0l378cxwy7.cloudfront.net/website_2011/page/bg_summer_HD.jpg') #fff top center fixed ; }
+</style>
+
+</head>
 <body class=" cms-page-view cms-privacy-policy">
   <div class="wrapper">
     <div class="container">
-        <script type="text/javascript">
+        
+
+<script type="text/javascript">
 function removeSearchLabel(text)
 {
 	if(text == 'Find an item')
@@ -76,7 +97,7 @@ function addSearchLabel(text)
 
 
 <div id="header">
-  <div id="top-logo"><a href="http://www.lolewomen.com/us/"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/logo_lole_top.png" alt="" width="68" height="59"></a></div>
+  <div id="top-logo"><a href="http://www.lolewomen.com/us/home/"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/logo_lole_top.png" alt="" width="68" height="59"></a></div>
   <div></div>
   
   <div id="menu-left">
@@ -86,6 +107,15 @@ function addSearchLabel(text)
         <script type="text/javascript">
 jQuery(document).ready(function() {
   jQuery('.overlay_shop_it_menu').each(function(){
+    var over = jQuery(this);
+    jQuery(this).parent().mouseenter(function(){
+      over.fadeIn();
+    }).mouseleave(function(){
+      over.fadeOut();
+    });
+  });
+  
+  jQuery('.overlay_featured').each(function(){
     var over = jQuery(this);
     jQuery(this).parent().mouseenter(function(){
       over.fadeIn();
@@ -109,7 +139,7 @@ jQuery(document).ready(function() {
       <li>
         <a href="http://www.lolewomen.com/us/store/">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/all.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/all_new.jpg" alt="" width="135" height="76">
           </div>
           <div class="overlay_shop_it_menu" id="overlay_act_all" onclick="location.href='http://www.lolewomen.com/us/store/'">
                         <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/all_over.png" alt="" width="135" height="76">
@@ -120,81 +150,83 @@ jQuery(document).ready(function() {
       <li>
         <a href="http://www.lolewomen.com/us/store/?activity=1737">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1737.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/yoga.jpg" alt="" width="135" height="76">
           </div>
           <div class="overlay_shop_it_menu" id="overlay_act_1737" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1737'">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1737_over.png" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/yoga_over.png" alt="" width="135" height="76">
           </div>
         </a>
-        <div class="activity_name">Yoga / Spa</div>
+        <div class="activity_name">Yoga / Pilates</div>
       </li>
       <li>
         <a href="http://www.lolewomen.com/us/store/?activity=1738">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1738.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/run.jpg" alt="" width="135" height="76">
           </div>
           <div class="overlay_shop_it_menu" id="overlay_act_1738" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1738'">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1738_over.png" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/run_over.jpg" alt="" width="135" height="76">
           </div>
         </a>
-        <div class="activity_name">Running / Fitness</div>
-      </li>
+             <div class="activity_name">Run / Urban Fitness</div>
+                  </li>
       <li>
-        <a href="http://www.lolewomen.com/us/store/?activity=1745">
+        <a href="http://www.lolewomen.com/us/store/?activity=10033">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/store/list/toolbar/submenu/urban_fitness.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/tennis.jpg" alt="" width="135" height="76">
           </div>
-          <div class="overlay_shop_it_menu" id="overlay_act_1745" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1745'">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/store/list/toolbar/submenu/urban_fitness_over.jpg" alt="" width="135" height="76">
+          <div class="overlay_shop_it_menu" id="overlay_act_10033" onclick="location.href='http://www.lolewomen.com/us/store/?activity=10033'">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/tennis_over.png" alt="" width="135" height="76">
           </div>
         </a>
-        <div class="activity_name">Urban Fitness</div>
+        <div class="activity_name">Tennis</div>
       </li>
       <li>
         <a href="http://www.lolewomen.com/us/store/?activity=1742">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1742.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/lifestyle.jpg" alt="" width="135" height="76">
           </div>
           <div class="overlay_shop_it_menu" id="overlay_act_1742" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1742'">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1742_over.png" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/lifestyle_over.png" alt="" width="135" height="76">
           </div>
         </a>
-        <div class="activity_name">Travel</div>
+        <div class="activity_name">Lifestyle / Travel</div>
       </li>
       <li>
-        <a href="http://www.lolewomen.com/us/store/?activity=1833">
+        <a href="http://www.lolewomen.com/us/store/?activity=1732">
           <div class="activity_image" style="background-image:url('')">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1833.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/golf.jpg" alt="" width="135" height="76">
           </div>
-          <div class="overlay_shop_it_menu" id="overlay_act_1833" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1833'">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1833_over.png" alt="" width="135" height="76">
+          <div class="overlay_shop_it_menu" id="overlay_act_1732" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1732'">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/golf_over.png" alt="" width="135" height="76">
           </div>
         </a>
-        <div class="activity_name">Winter sports</div>
+        <div class="activity_name">Golf</div>
       </li>
       <li>
-        <a href="http://www.lolewomen.com/us/store/?activity=1743">
+        <a href="http://www.lolewomen.com/us/store/?activity=1998">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1743.jpg" alt="" width="135" height="76">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/beach.jpg" alt="" width="135" height="76">
           </div>
-          <div class="overlay_shop_it_menu" id="overlay_act_1743" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1743'">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/1743_over.png" alt="" width="135" height="76">
+          <div class="overlay_shop_it_menu" id="overlay_act_1998" onclick="location.href='http://www.lolewomen.com/us/store/?activity=1998'">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/beach_over.png" alt="" width="135" height="76">
           </div>
         </a>
-        <div class="activity_name">Everyday lifestyle</div>
+        <div class="activity_name">Beach / Water Sports</div>
       </li>
+      
+      
       <li>
         <a href="http://www.lolewomen.com/us/store/?categories=458">
           <div class="activity_image">
-            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/sale.jpg" alt="" width="135" height="76">
-          </div>
+                        <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/sale-winter-bouton-2-bg-en.jpg" alt="" width="135" height="76">
+                      </div>
           <div class="overlay_shop_it_menu" id="overlay_act_sale" onclick="location.href='http://www.lolewomen.com/us/store/?categories=458'">
-                        <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/sale_over_en.jpg" alt="" width="135" height="76">
+                        <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/sale-winter-bouton-2-en.jpg" alt="" width="135" height="76">
                       </div>
         </a>
-        <div class="activity_name">Sale</div>
-      </li>
-    </ul>
+        <div class="activity_name">Winter Sale</div>
+      </li>      	  
+     </ul>
     
     <div id="submenu_spacer" style="float:left;clear:both;margin-left:30px;"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/big_spacer.png" alt="" width="600" height="1"></div>
     
@@ -219,29 +251,56 @@ jQuery(document).ready(function() {
         <li><a href="http://www.lolewomen.com/us/store/?categories=590">Ecological</a></li>
       </ul>
       <ul class="sub_menu_options">
-        <li><a href="http://www.lolewomen.com/us/shop-it/">Fall / Winter looks</a></li>
+        <li><a href="http://www.lolewomen.com/us/shop-it/">Spring / Summer</a></li>
         <li><a href="http://www.lolewomen.com/us/pantry/">The Pantry</a></li>
       </ul>
       <ul class="sub_menu_options">
         <li><a href="http://www.lolewomen.com/us/tech-lab/">Nature</a></li>
-        <li><a href="http://www.lolewomen.com/us/tech-lab/">Performance</a></li>
-        <li><a href="http://www.lolewomen.com/us/tech-lab/">Fit</a></li>
-        <li><a href="http://www.lolewomen.com/us/tech-lab/">Glossary</a></li>
+        <li><a href="http://www.lolewomen.com/us/tech-lab/?techid=7">Performance</a></li>
+        <li><a href="http://www.lolewomen.com/us/tech-lab/?techid=17">Fit</a></li>
+        <li><a href="http://www.lolewomen.com/us/tech-lab/?techid=25">Glossary</a></li>
       </ul>
     </div>
   </div>
   
   
-  <div style="float:right;margin-top:37px;margin-right:20px;">
-    <div class="title" style="float:left">New arrivals</div>
-    <div style="float:left;clear:both">
-      <a href="http://www.lolewomen.com/us/store/?categories=548/"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/transit.jpg" alt="" width="266" height="187"></a>
+
+
+  <div style="float:left;margin-top:37px;margin-left:20px;">
+    <div class="title" style="float:left">Featured</div>
+    <div id="featured" style="clear:left;margin-left:0;">
+      <a href="http://www.lolewomen.com/us/store/?categories=548">
+        <div class="featured_image" style="position:relative;">
+          <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/new_arrivals.jpg" alt="">
+        </div>
+        <div class="overlay_featured" style="display:none;position:absolute;z-index:30;">
+                    <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/new_arrivals_over_en.jpg" alt="">
+                  </div>
+      </a>
     </div>
     
+    <!-- YELLOW LABEL BOTTOM IMAGE
+    <div style="float:left;clear:both">
+      <div class="title" style="float:left;">Yellow Label</div>
+      <div style="float:left;clear:both">
+        <a href="http://www.lolewomen.com/us/store/yellowlabel/">
+        <div style="float:left;clear:left;">
+            <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/YELLOW-LABEL-small.jpg" alt=""/>
+        </div>
+        <div class="overlay_featured" style="display:none;position:absolute;z-index:30;float:left;clear:left;">
+          <img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/YELLOW-LABEL-OVER.jpg" alt=""/>
+        </div>
+        </a>
+      </div>
+    </div>-->
+    
+    <!--
     <div class="title" style="float:left;clear:both;margin-top:5px;margin-bottom:8px;">Pantry</div>
     <div style="float:left;clear:both;">
-      <a href="http://www.lolewomen.com/us/pantry/"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/pantry.jpg" alt="" width="266" height="100"></a>
+      <a href="http://www.lolewomen.com/us/pantry/"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/pantry.jpg" alt="" width="266" height="100" /></a>
     </div>
+      <a href="http://www.lolewomen.com/us/pantry/"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/shop_it/pantry.jpg" alt="" /></a>
+    </div>-->
   </div>
   
   <!--
@@ -280,6 +339,7 @@ jQuery(document).ready(function() {
   });
 });
 </script>
+
 
 <div id="dropdown_live_it">
   <div class="btn_close_dropdown"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/btn_dropdown_close.png" onclick="jQuery('#dropdown_live_it').css('display','none');" alt="" width="10" height="10"></div>
@@ -347,7 +407,7 @@ jQuery(document).ready(function() {
   <ul>
     <li><a href="http://www.lolewomen.com/us/story/">Our Story</a></li>
     <li><a href="http://www.lolewomen.com/us/careers/">Careers</a></li>
-    <li><a href="http://www.lolewomen.com/us/stores/">Find a Store / Atelier</a></li>
+    <li><a href="http://www.lolewomen.com/us/stores/location/map/">Find a Store / Atelier</a></li>
     <li><a href="http://www.lolewomen.com/us/lolemedia/">Media</a></li>
     <li><a href="http://www.lolewomen.com/us/contacts/">Customer Service</a></li>
   </ul>
@@ -368,6 +428,7 @@ jQuery(document).ready(function() {
 	        <li><a href="http://www.lolewomen.com/ca/en/privacy-policy/">Canada</a></li>
       <li><a href="http://www.lolewomen.com/ca/fr/privacy-policy/">Canada (francais)</a></li>
       <li><a href="http://www.lolewomen.com/us/privacy-policy/">USA</a></li>
+      <li><a href="http://www.lolewomen.fr">Europe</a></li>
 	  	      </ul>
 </div>    
     <div style="float:left">
@@ -431,21 +492,8 @@ function closeBag()
   </div>
 </div>
 
-        <!--
-		        <ul class="top-links" style="vertical-align: top">
-                            <li  class="first"><a  href="https://www.lolewomen.com/us/customer/account/create/"  title="Register" >Register</a></li>
-            						<li>&nbsp;|&nbsp;</li>
-							                <li id="top-links-cart"><a  href="http://www.lolewomen.com/us/checkout/cart/"  title="My Cart" >My Cart</a></li>
-            						<li>&nbsp;|&nbsp;</li>
-							                <li ><a  href="https://www.lolewomen.com/us/wishlist/"  title="My Wishlist" class="top-link-wishlist">My Wishlist</a></li>
-            						<li>&nbsp;|&nbsp;</li>
-							                <li id="top-links-checkout"><a  href="http://www.lolewomen.com/us/checkout/cart"  title="Checkout" >Checkout</a></li>
-            						<li>&nbsp;|&nbsp;</li>
-							                <li ><a  href="https://www.lolewomen.com/us/customer/account/"  title="My Account" >My Account</a></li>
-            						<li>&nbsp;|&nbsp;</li>
-							                <li  class="last"><a  href="https://www.lolewomen.com/us/customer/account/login/"  title="Log In" >Log In</a></li>
-            				        </ul>
--->
+        
+
             <div class="outline-creator">
             
             <div class="middle layout-1column" id="main">
@@ -455,7 +503,7 @@ function closeBag()
   <ul id="menu_items">
     <li><a href="http://www.lolewomen.com/us/story/">Our Story</a></li>
     <li><a href="http://www.lolewomen.com/us/careers/">Careers</a></li>
-    <li><a href="http://www.lolewomen.com/us/stores/">Find a store/Atelier</a></li>
+    <li><a href="http://www.lolewomen.com/us/stores/location/map/">Find a store/Atelier</a></li>
     <li><a href="http://www.lolewomen.com/us/lolemedia/">Media</a></li>
     <li><a class="current" href="http://www.lolewomen.com/us/contacts/">Customer Service</a></li>
   </ul>
@@ -547,10 +595,40 @@ function handleEnter(inField, e)
 
 function callDealersLocatorFooter()
 {
-  var href= 'http://findit.lolewomen.com/?q='+jQuery('#findastoreFooter').val();
-  window.open(href);
+  var href= 'http://www.lolewomen.com/us/stores/location/map/?q='+jQuery('#findastoreFooter').val();
+  window.location= href;
+}
+
+/*
+ * Validate newsletter subscription form
+ */
+function validateNewsletterForm()
+{
+  var isValid= true;
+  
+  // EMAIL
+  if(jQuery('#MERGE0').val() == '')
+  {
+    isValid= false;
+    jQuery('#email_label').css('color','red');
+  }
+  // CITY
+  if(jQuery('#MERGE3').val() == '')
+  {
+    isValid= false;
+    jQuery('#city_label').css('color','red');
+  }
+  // LANGUAGE
+  if(!jQuery('#MERGE6-0').attr('checked') && !jQuery('#MERGE6-1').attr('checked'))
+  {
+    isValid= false;
+    jQuery('#language_label').css('color','red');
+  }
+  
+  return isValid;
 }
 </script>
+
 <div>
   <!-- FOOTER TOP PART -->
   <div id="footer-top">
@@ -562,7 +640,7 @@ function callDealersLocatorFooter()
         <li><a href="http://www.lolewomen.com/us/careers/">Careers</a></li>
         <li><a href="http://www.lolewomen.com/us/lolemedia/">Media</a></li>
         <li><a href="http://www.lolewomen.com/us/sitemap/">Site Map</a></li>
-        <li><a href="http://www.lolewomen.com/us/stores/">Find a Store</a></li>
+        <li><a href="http://www.lolewomen.com/us/stores/location/map/">Find a Store</a></li>
       </ul>
     </div>
     
@@ -580,18 +658,343 @@ function callDealersLocatorFooter()
     
     <!-- newsletter -->
     <div id="newsletter">
-      <h5>newsletter</h5>
+      <h5>follow us</h5>
       <div id="footer-newsletter">
-        <form action="http://www.lolewomen.com/us/newsletter/subscriber/new/" method="post" name="newsletter" id="newsletter-validate-detail">
-      	<div style="float:left"><input type="text" id="newsletter-email" name="email" onblur="addNewsletterLabel(this.value)" onclick="removeNewsletterLabel(this.value);" value="email signup..."></div>
-      	<div style="float:left;clear:none;" id="newsletter-btn-go"><img style="margin-top:14px;cursor:pointer;" onclick="document.forms.newsletter.submit()" src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/btn_newsletter.png" alt="Newsletter" width="36" height="30"></div>
-        </form>
+      	      <ul style="margin:12px 50px 17px 0px;"><li>Sign up to Lolë Newsletter and get 15% OFF.<a id="inline" href="#data" style="margin: 10px 0 0 5px;"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/arrow_newletter.png" alt="" width="12" height="12"></a></li></ul>
+
+				<script type="text/javascript">
+					jQuery(document).ready(function() {
+					/* Using custom settings */
+					jQuery("a#inline").fancybox({
+						'hideOnContentClick': false
+					});
+						
+				});
+				</script>
+
+<div style="display:none"><div id="data">
+<!-- Begin MailChimp Signup Form -->
+<div id="newsletterMsg">
+<h5>Newsletter Sign up</h5>
+<form action="http://www.lolewomen.com/us/newsletter/subscriber/new/" method="post" onsubmit="return validateNewsletterForm();">
+<label id="email_label">EMAIL ADDRESS</label> <span class="asterisk">*</span>
+<br>
+<input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" class="input">
+<br>
+<label id="city_label">CITY</label> <span class="asterisk">*</span>
+<br>
+<input type="text" name="MERGE3" id="MERGE3" size="25" value="" class="input">
+<br>
+COUNTRY <span class="asterisk">*</span>
+<br>
+<select id="MERGE5" name="MERGE5" style="width: 16.5em;">
+<option value="Canada" *|if:merge5="Canada|*" selected*|end:if|*="">Canada</option>
+<option value="Aaland Islands" *|if:merge5="Aaland" islands|*="" selected*|end:if|*="">Aaland Islands</option>
+<option value="Afghanistan" *|if:merge5="Afghanistan|*" selected*|end:if|*="">Afghanistan</option>
+<option value="Albania" *|if:merge5="Albania|*" selected*|end:if|*="">Albania</option>
+<option value="Algeria" *|if:merge5="Algeria|*" selected*|end:if|*="">Algeria</option>
+<option value="American Samoa" *|if:merge5="American" samoa|*="" selected*|end:if|*="">American Samoa</option>
+<option value="Andorra" *|if:merge5="Andorra|*" selected*|end:if|*="">Andorra</option>
+<option value="Angola" *|if:merge5="Angola|*" selected*|end:if|*="">Angola</option>
+<option value="Anguilla" *|if:merge5="Anguilla|*" selected*|end:if|*="">Anguilla</option>
+<option value="Anguilla" *|if:merge5="Anguilla|*" selected*|end:if|*="">Anguilla</option>
+<option value="Antarctica" *|if:merge5="Antarctica|*" selected*|end:if|*="">Antarctica</option>
+<option value="Antigua And Barbuda" *|if:merge5="Antigua" and="" barbuda|*="" selected*|end:if|*="">Antigua And Barbuda</option>
+<option value="Argentina" *|if:merge5="Argentina|*" selected*|end:if|*="">Argentina</option>
+<option value="Armenia" *|if:merge5="Armenia|*" selected*|end:if|*="">Armenia</option>
+<option value="Aruba" *|if:merge5="Aruba|*" selected*|end:if|*="">Aruba</option>
+<option value="Australia" *|if:merge5="Australia|*" selected*|end:if|*="">Australia</option>
+<option value="Austria" *|if:merge5="Austria|*" selected*|end:if|*="">Austria</option>
+<option value="Azerbaijan" *|if:merge5="Azerbaijan|*" selected*|end:if|*="">Azerbaijan</option>
+<option value="Bahamas" *|if:merge5="Bahamas|*" selected*|end:if|*="">Bahamas</option>
+<option value="Bahrain" *|if:merge5="Bahrain|*" selected*|end:if|*="">Bahrain</option>
+<option value="Bangladesh" *|if:merge5="Bangladesh|*" selected*|end:if|*="">Bangladesh</option>
+<option value="Barbados" *|if:merge5="Barbados|*" selected*|end:if|*="">Barbados</option>
+<option value="Belarus" *|if:merge5="Belarus|*" selected*|end:if|*="">Belarus</option>
+<option value="Belgium" *|if:merge5="Belgium|*" selected*|end:if|*="">Belgium</option>
+<option value="Belize" *|if:merge5="Belize|*" selected*|end:if|*="">Belize</option>
+<option value="Benin" *|if:merge5="Benin|*" selected*|end:if|*="">Benin</option>
+<option value="Bermuda" *|if:merge5="Bermuda|*" selected*|end:if|*="">Bermuda</option>
+<option value="Bhutan" *|if:merge5="Bhutan|*" selected*|end:if|*="">Bhutan</option>
+<option value="Bolivia" *|if:merge5="Bolivia|*" selected*|end:if|*="">Bolivia</option>
+<option value="Bosnia and Herzegovina" *|if:merge5="Bosnia" and="" herzegovina|*="" selected*|end:if|*="">Bosnia and Herzegovina</option>
+<option value="Botswana" *|if:merge5="Botswana|*" selected*|end:if|*="">Botswana</option>
+<option value="Bouvet Island" *|if:merge5="Bouvet" island|*="" selected*|end:if|*="">Bouvet Island</option>
+<option value="Brazil" *|if:merge5="Brazil|*" selected*|end:if|*="">Brazil</option>
+<option value="British Indian Ocean Territory" *|if:merge5="British" indian="" ocean="" territory|*="" selected*|end:if|*="">British Indian Ocean Territory</option>
+<option value="Brunei Darussalam" *|if:merge5="Brunei" darussalam|*="" selected*|end:if|*="">Brunei Darussalam</option>
+<option value="Bulgaria" *|if:merge5="Bulgaria|*" selected*|end:if|*="">Bulgaria</option>
+<option value="Burkina Faso" *|if:merge5="Burkina" faso|*="" selected*|end:if|*="">Burkina Faso</option>
+<option value="Burundi" *|if:merge5="Burundi|*" selected*|end:if|*="">Burundi</option>
+<option value="Cambodia" *|if:merge5="Cambodia|*" selected*|end:if|*="">Cambodia</option>
+<option value="Cameroon" *|if:merge5="Cameroon|*" selected*|end:if|*="">Cameroon</option>
+<option value="Cape Verde" *|if:merge5="Cape" verde|*="" selected*|end:if|*="">Cape Verde</option>
+<option value="Cayman Islands" *|if:merge5="Cayman" islands|*="" selected*|end:if|*="">Cayman Islands</option>
+<option value="Central African Republic" *|if:merge5="Central" african="" republic|*="" selected*|end:if|*="">Central African Republic</option>
+<option value="Chad" *|if:merge5="Chad|*" selected*|end:if|*="">Chad</option>
+<option value="Chile" *|if:merge5="Chile|*" selected*|end:if|*="">Chile</option>
+<option value="China" *|if:merge5="China|*" selected*|end:if|*="">China</option>
+<option value="Christmas Island" *|if:merge5="Christmas" island|*="" selected*|end:if|*="">Christmas Island</option>
+<option value="Cocos (Keeling) Islands" *|if:merge5="Cocos" (keeling)="" islands|*="" selected*|end:if|*="">Cocos (Keeling) Islands</option>
+<option value="Colombia" *|if:merge5="Colombia|*" selected*|end:if|*="">Colombia</option>
+<option value="Comoros" *|if:merge5="Comoros|*" selected*|end:if|*="">Comoros</option>
+<option value="Congo" *|if:merge5="Congo|*" selected*|end:if|*="">Congo</option>
+<option value="Cook Islands" *|if:merge5="Cook" islands|*="" selected*|end:if|*="">Cook Islands</option>
+<option value="Costa Rica" *|if:merge5="Costa" rica|*="" selected*|end:if|*="">Costa Rica</option>
+<option value="Cote D'Ivoire" *|if:merge5="Cote" d'ivoire|*="" selected*|end:if|*="">Cote D'Ivoire</option>
+<option value="Croatia" *|if:merge5="Croatia|*" selected*|end:if|*="">Croatia</option>
+<option value="Cuba" *|if:merge5="Cuba|*" selected*|end:if|*="">Cuba</option>
+<option value="Curacao" *|if:merge5="Curacao|*" selected*|end:if|*="">Curacao</option>
+<option value="Cyprus" *|if:merge5="Cyprus|*" selected*|end:if|*="">Cyprus</option>
+<option value="Czech Republic" *|if:merge5="Czech" republic|*="" selected*|end:if|*="">Czech Republic</option>
+<option value="Denmark" *|if:merge5="Denmark|*" selected*|end:if|*="">Denmark</option>
+<option value="Djibouti" *|if:merge5="Djibouti|*" selected*|end:if|*="">Djibouti</option>
+<option value="Dominica" *|if:merge5="Dominica|*" selected*|end:if|*="">Dominica</option>
+<option value="Dominica" *|if:merge5="Dominica|*" selected*|end:if|*="">Dominica</option>
+<option value="Dominican Republic" *|if:merge5="Dominican" republic|*="" selected*|end:if|*="">Dominican Republic</option>
+<option value="East Timor" *|if:merge5="East" timor|*="" selected*|end:if|*="">East Timor</option>
+<option value="Ecuador" *|if:merge5="Ecuador|*" selected*|end:if|*="">Ecuador</option>
+<option value="Egypt" *|if:merge5="Egypt|*" selected*|end:if|*="">Egypt</option>
+<option value="El Salvador" *|if:merge5="El" salvador|*="" selected*|end:if|*="">El Salvador</option>
+<option value="Equatorial Guinea" *|if:merge5="Equatorial" guinea|*="" selected*|end:if|*="">Equatorial Guinea</option>
+<option value="Eritrea" *|if:merge5="Eritrea|*" selected*|end:if|*="">Eritrea</option>
+<option value="Estonia" *|if:merge5="Estonia|*" selected*|end:if|*="">Estonia</option>
+<option value="Ethiopia" *|if:merge5="Ethiopia|*" selected*|end:if|*="">Ethiopia</option>
+<option value="Falkland Islands" *|if:merge5="Falkland" islands|*="" selected*|end:if|*="">Falkland Islands</option>
+<option value="Faroe Islands" *|if:merge5="Faroe" islands|*="" selected*|end:if|*="">Faroe Islands</option>
+<option value="Fiji" *|if:merge5="Fiji|*" selected*|end:if|*="">Fiji</option>
+<option value="Finland" *|if:merge5="Finland|*" selected*|end:if|*="">Finland</option>
+<option value="France" *|if:merge5="France|*" selected*|end:if|*="">France</option>
+<option value="French Guiana" *|if:merge5="French" guiana|*="" selected*|end:if|*="">French Guiana</option>
+<option value="French Polynesia" *|if:merge5="French" polynesia|*="" selected*|end:if|*="">French Polynesia</option>
+<option value="French Southern Territories" *|if:merge5="French" southern="" territories|*="" selected*|end:if|*="">French Southern Territories</option>
+<option value="Gabon" *|if:merge5="Gabon|*" selected*|end:if|*="">Gabon</option>
+<option value="Gambia" *|if:merge5="Gambia|*" selected*|end:if|*="">Gambia</option>
+<option value="Georgia" *|if:merge5="Georgia|*" selected*|end:if|*="">Georgia</option>
+<option value="Germany" *|if:merge5="Germany|*" selected*|end:if|*="">Germany</option>
+<option value="Ghana" *|if:merge5="Ghana|*" selected*|end:if|*="">Ghana</option>
+<option value="Gibraltar" *|if:merge5="Gibraltar|*" selected*|end:if|*="">Gibraltar</option>
+<option value="Greece" *|if:merge5="Greece|*" selected*|end:if|*="">Greece</option>
+<option value="Greenland" *|if:merge5="Greenland|*" selected*|end:if|*="">Greenland</option>
+<option value="Grenada" *|if:merge5="Grenada|*" selected*|end:if|*="">Grenada</option>
+<option value="Guadeloupe" *|if:merge5="Guadeloupe|*" selected*|end:if|*="">Guadeloupe</option>
+<option value="Guam" *|if:merge5="Guam|*" selected*|end:if|*="">Guam</option>
+<option value="Guatemala" *|if:merge5="Guatemala|*" selected*|end:if|*="">Guatemala</option>
+<option value="Guernsey" *|if:merge5="Guernsey|*" selected*|end:if|*="">Guernsey</option>
+<option value="Guinea" *|if:merge5="Guinea|*" selected*|end:if|*="">Guinea</option>
+<option value="Guinea-Bissau" *|if:merge5="Guinea-Bissau|*" selected*|end:if|*="">Guinea-Bissau</option>
+<option value="Guyana" *|if:merge5="Guyana|*" selected*|end:if|*="">Guyana</option>
+<option value="Haiti" *|if:merge5="Haiti|*" selected*|end:if|*="">Haiti</option>
+<option value="Heard and Mc Donald Islands" *|if:merge5="Heard" and="" mc="" donald="" islands|*="" selected*|end:if|*="">Heard and Mc Donald Islands</option>
+<option value="Honduras" *|if:merge5="Honduras|*" selected*|end:if|*="">Honduras</option>
+<option value="Hong Kong" *|if:merge5="Hong" kong|*="" selected*|end:if|*="">Hong Kong</option>
+<option value="Hungary" *|if:merge5="Hungary|*" selected*|end:if|*="">Hungary</option>
+<option value="Iceland" *|if:merge5="Iceland|*" selected*|end:if|*="">Iceland</option>
+<option value="India" *|if:merge5="India|*" selected*|end:if|*="">India</option>
+<option value="Indonesia" *|if:merge5="Indonesia|*" selected*|end:if|*="">Indonesia</option>
+<option value="Iran" *|if:merge5="Iran|*" selected*|end:if|*="">Iran</option>
+<option value="Iraq" *|if:merge5="Iraq|*" selected*|end:if|*="">Iraq</option>
+<option value="Ireland" *|if:merge5="Ireland|*" selected*|end:if|*="">Ireland</option>
+<option value="Israel" *|if:merge5="Israel|*" selected*|end:if|*="">Israel</option>
+<option value="Italy" *|if:merge5="Italy|*" selected*|end:if|*="">Italy</option>
+<option value="Jamaica" *|if:merge5="Jamaica|*" selected*|end:if|*="">Jamaica</option>
+<option value="Japan" *|if:merge5="Japan|*" selected*|end:if|*="">Japan</option>
+<option value="Jersey  (Channel Islands)" *|if:merge5="Jersey" (channel="" islands)|*="" selected*|end:if|*="">Jersey  (Channel Islands)</option>
+<option value="Jordan" *|if:merge5="Jordan|*" selected*|end:if|*="">Jordan</option>
+<option value="Kazakhstan" *|if:merge5="Kazakhstan|*" selected*|end:if|*="">Kazakhstan</option>
+<option value="Kenya" *|if:merge5="Kenya|*" selected*|end:if|*="">Kenya</option>
+<option value="Kiribati" *|if:merge5="Kiribati|*" selected*|end:if|*="">Kiribati</option>
+<option value="Kuwait" *|if:merge5="Kuwait|*" selected*|end:if|*="">Kuwait</option>
+<option value="Kuwait" *|if:merge5="Kuwait|*" selected*|end:if|*="">Kuwait</option>
+<option value="Kyrgyzstan" *|if:merge5="Kyrgyzstan|*" selected*|end:if|*="">Kyrgyzstan</option>
+<option value="Lao People's Democratic Republic" *|if:merge5="Lao" people's="" democratic="" republic|*="" selected*|end:if|*="">Lao People's Democratic Republic</option>
+<option value="Latvia" *|if:merge5="Latvia|*" selected*|end:if|*="">Latvia</option>
+<option value="Lebanon" *|if:merge5="Lebanon|*" selected*|end:if|*="">Lebanon</option>
+<option value="Lesotho" *|if:merge5="Lesotho|*" selected*|end:if|*="">Lesotho</option>
+<option value="Liberia" *|if:merge5="Liberia|*" selected*|end:if|*="">Liberia</option>
+<option value="Libya" *|if:merge5="Libya|*" selected*|end:if|*="">Libya</option>
+<option value="Liechtenstein" *|if:merge5="Liechtenstein|*" selected*|end:if|*="">Liechtenstein</option>
+<option value="Lithuania" *|if:merge5="Lithuania|*" selected*|end:if|*="">Lithuania</option>
+<option value="Luxembourg" *|if:merge5="Luxembourg|*" selected*|end:if|*="">Luxembourg</option>
+<option value="Macau" *|if:merge5="Macau|*" selected*|end:if|*="">Macau</option>
+<option value="Macedonia" *|if:merge5="Macedonia|*" selected*|end:if|*="">Macedonia</option>
+<option value="Madagascar" *|if:merge5="Madagascar|*" selected*|end:if|*="">Madagascar</option>
+<option value="Malawi" *|if:merge5="Malawi|*" selected*|end:if|*="">Malawi</option>
+<option value="Malaysia" *|if:merge5="Malaysia|*" selected*|end:if|*="">Malaysia</option>
+<option value="Maldives" *|if:merge5="Maldives|*" selected*|end:if|*="">Maldives</option>
+<option value="Mali" *|if:merge5="Mali|*" selected*|end:if|*="">Mali</option>
+<option value="Malta" *|if:merge5="Malta|*" selected*|end:if|*="">Malta</option>
+<option value="Marshall Islands" *|if:merge5="Marshall" islands|*="" selected*|end:if|*="">Marshall Islands</option>
+<option value="Martinique" *|if:merge5="Martinique|*" selected*|end:if|*="">Martinique</option>
+<option value="Mauritania" *|if:merge5="Mauritania|*" selected*|end:if|*="">Mauritania</option>
+<option value="Mauritius" *|if:merge5="Mauritius|*" selected*|end:if|*="">Mauritius</option>
+<option value="Mayotte" *|if:merge5="Mayotte|*" selected*|end:if|*="">Mayotte</option>
+<option value="Mexico" *|if:merge5="Mexico|*" selected*|end:if|*="">Mexico</option>
+<option value="Micronesia, Federated States of" *|if:merge5="Micronesia," federated="" states="" of|*="" selected*|end:if|*="">Micronesia, Federated States of</option>
+<option value="Moldova, Republic of" *|if:merge5="Moldova," republic="" of|*="" selected*|end:if|*="">Moldova, Republic of</option>
+<option value="Monaco" *|if:merge5="Monaco|*" selected*|end:if|*="">Monaco</option>
+<option value="Mongolia" *|if:merge5="Mongolia|*" selected*|end:if|*="">Mongolia</option>
+<option value="Montenegro" *|if:merge5="Montenegro|*" selected*|end:if|*="">Montenegro</option>
+<option value="Montserrat" *|if:merge5="Montserrat|*" selected*|end:if|*="">Montserrat</option>
+<option value="Montserrat" *|if:merge5="Montserrat|*" selected*|end:if|*="">Montserrat</option>
+<option value="Morocco" *|if:merge5="Morocco|*" selected*|end:if|*="">Morocco</option>
+<option value="Mozambique" *|if:merge5="Mozambique|*" selected*|end:if|*="">Mozambique</option>
+<option value="Myanmar" *|if:merge5="Myanmar|*" selected*|end:if|*="">Myanmar</option>
+<option value="Namibia" *|if:merge5="Namibia|*" selected*|end:if|*="">Namibia</option>
+<option value="Nauru" *|if:merge5="Nauru|*" selected*|end:if|*="">Nauru</option>
+<option value="Nepal" *|if:merge5="Nepal|*" selected*|end:if|*="">Nepal</option>
+<option value="Netherlands" *|if:merge5="Netherlands|*" selected*|end:if|*="">Netherlands</option>
+<option value="Netherlands Antilles" *|if:merge5="Netherlands" antilles|*="" selected*|end:if|*="">Netherlands Antilles</option>
+<option value="New Caledonia" *|if:merge5="New" caledonia|*="" selected*|end:if|*="">New Caledonia</option>
+<option value="New Zealand" *|if:merge5="New" zealand|*="" selected*|end:if|*="">New Zealand</option>
+<option value="Nicaragua" *|if:merge5="Nicaragua|*" selected*|end:if|*="">Nicaragua</option>
+<option value="Niger" *|if:merge5="Niger|*" selected*|end:if|*="">Niger</option>
+<option value="Nigeria" *|if:merge5="Nigeria|*" selected*|end:if|*="">Nigeria</option>
+<option value="Niue" *|if:merge5="Niue|*" selected*|end:if|*="">Niue</option>
+<option value="Norfolk Island" *|if:merge5="Norfolk" island|*="" selected*|end:if|*="">Norfolk Island</option>
+<option value="North Korea" *|if:merge5="North" korea|*="" selected*|end:if|*="">North Korea</option>
+<option value="Northern Mariana Islands" *|if:merge5="Northern" mariana="" islands|*="" selected*|end:if|*="">Northern Mariana Islands</option>
+<option value="Norway" *|if:merge5="Norway|*" selected*|end:if|*="">Norway</option>
+<option value="Oman" *|if:merge5="Oman|*" selected*|end:if|*="">Oman</option>
+<option value="Pakistan" *|if:merge5="Pakistan|*" selected*|end:if|*="">Pakistan</option>
+<option value="Palau" *|if:merge5="Palau|*" selected*|end:if|*="">Palau</option>
+<option value="Palestine" *|if:merge5="Palestine|*" selected*|end:if|*="">Palestine</option>
+<option value="Panama" *|if:merge5="Panama|*" selected*|end:if|*="">Panama</option>
+<option value="Papua New Guinea" *|if:merge5="Papua" new="" guinea|*="" selected*|end:if|*="">Papua New Guinea</option>
+<option value="Paraguay" *|if:merge5="Paraguay|*" selected*|end:if|*="">Paraguay</option>
+<option value="Peru" *|if:merge5="Peru|*" selected*|end:if|*="">Peru</option>
+<option value="Philippines" *|if:merge5="Philippines|*" selected*|end:if|*="">Philippines</option>
+<option value="Pitcairn" *|if:merge5="Pitcairn|*" selected*|end:if|*="">Pitcairn</option>
+<option value="Poland" *|if:merge5="Poland|*" selected*|end:if|*="">Poland</option>
+<option value="Portugal" *|if:merge5="Portugal|*" selected*|end:if|*="">Portugal</option>
+<option value="Puerto Rico" *|if:merge5="Puerto" rico|*="" selected*|end:if|*="">Puerto Rico</option>
+<option value="Qatar" *|if:merge5="Qatar|*" selected*|end:if|*="">Qatar</option>
+<option value="Reunion" *|if:merge5="Reunion|*" selected*|end:if|*="">Reunion</option>
+<option value="Romania" *|if:merge5="Romania|*" selected*|end:if|*="">Romania</option>
+<option value="Russia" *|if:merge5="Russia|*" selected*|end:if|*="">Russia</option>
+<option value="Russia" *|if:merge5="Russia|*" selected*|end:if|*="">Russia</option>
+<option value="Rwanda" *|if:merge5="Rwanda|*" selected*|end:if|*="">Rwanda</option>
+<option value="Saint Kitts and Nevis" *|if:merge5="Saint" kitts="" and="" nevis|*="" selected*|end:if|*="">Saint Kitts and Nevis</option>
+<option value="Saint Lucia" *|if:merge5="Saint" lucia|*="" selected*|end:if|*="">Saint Lucia</option>
+<option value="Saint Vincent and the Grenadines" *|if:merge5="Saint" vincent="" and="" the="" grenadines|*="" selected*|end:if|*="">Saint Vincent and the Grenadines</option>
+<option value="Samoa (Independent)" *|if:merge5="Samoa" (independent)|*="" selected*|end:if|*="">Samoa (Independent)</option>
+<option value="San Marino" *|if:merge5="San" marino|*="" selected*|end:if|*="">San Marino</option>
+<option value="Sao Tome and Principe" *|if:merge5="Sao" tome="" and="" principe|*="" selected*|end:if|*="">Sao Tome and Principe</option>
+<option value="Saudi Arabia" *|if:merge5="Saudi" arabia|*="" selected*|end:if|*="">Saudi Arabia</option>
+<option value="Senegal" *|if:merge5="Senegal|*" selected*|end:if|*="">Senegal</option>
+<option value="Serbia" *|if:merge5="Serbia|*" selected*|end:if|*="">Serbia</option>
+<option value="Serbia" *|if:merge5="Serbia|*" selected*|end:if|*="">Serbia</option>
+<option value="Seychelles" *|if:merge5="Seychelles|*" selected*|end:if|*="">Seychelles</option>
+<option value="Sierra Leone" *|if:merge5="Sierra" leone|*="" selected*|end:if|*="">Sierra Leone</option>
+<option value="Singapore" *|if:merge5="Singapore|*" selected*|end:if|*="">Singapore</option>
+<option value="Sint Maarten" *|if:merge5="Sint" maarten|*="" selected*|end:if|*="">Sint Maarten</option>
+<option value="Slovakia" *|if:merge5="Slovakia|*" selected*|end:if|*="">Slovakia</option>
+<option value="Slovenia" *|if:merge5="Slovenia|*" selected*|end:if|*="">Slovenia</option>
+<option value="Solomon Islands" *|if:merge5="Solomon" islands|*="" selected*|end:if|*="">Solomon Islands</option>
+<option value="Somalia" *|if:merge5="Somalia|*" selected*|end:if|*="">Somalia</option>
+<option value="South Africa" *|if:merge5="South" africa|*="" selected*|end:if|*="">South Africa</option>
+<option value="South Georgia and the South Sandwich Islands" *|if:merge5="South" georgia="" and="" the="" south="" sandwich="" islands|*="" selected*|end:if|*="">South Georgia and the South Sandwich Islands</option>
+<option value="South Korea" *|if:merge5="South" korea|*="" selected*|end:if|*="">South Korea</option>
+<option value="South Korea" *|if:merge5="South" korea|*="" selected*|end:if|*="">South Korea</option>
+<option value="Spain" *|if:merge5="Spain|*" selected*|end:if|*="">Spain</option>
+<option value="Sri Lanka" *|if:merge5="Sri" lanka|*="" selected*|end:if|*="">Sri Lanka</option>
+<option value="St. Helena" *|if:merge5="St." helena|*="" selected*|end:if|*="">St. Helena</option>
+<option value="St. Pierre and Miquelon" *|if:merge5="St." pierre="" and="" miquelon|*="" selected*|end:if|*="">St. Pierre and Miquelon</option>
+<option value="Sudan" *|if:merge5="Sudan|*" selected*|end:if|*="">Sudan</option>
+<option value="Sudan" *|if:merge5="Sudan|*" selected*|end:if|*="">Sudan</option>
+<option value="Suriname" *|if:merge5="Suriname|*" selected*|end:if|*="">Suriname</option>
+<option value="Svalbard and Jan Mayen Islands" *|if:merge5="Svalbard" and="" jan="" mayen="" islands|*="" selected*|end:if|*="">Svalbard and Jan Mayen Islands</option>
+<option value="Swaziland" *|if:merge5="Swaziland|*" selected*|end:if|*="">Swaziland</option>
+<option value="Sweden" *|if:merge5="Sweden|*" selected*|end:if|*="">Sweden</option>
+<option value="Switzerland" *|if:merge5="Switzerland|*" selected*|end:if|*="">Switzerland</option>
+<option value="Syria" *|if:merge5="Syria|*" selected*|end:if|*="">Syria</option>
+<option value="Taiwan" *|if:merge5="Taiwan|*" selected*|end:if|*="">Taiwan</option>
+<option value="Tajikistan" *|if:merge5="Tajikistan|*" selected*|end:if|*="">Tajikistan</option>
+<option value="Tanzania" *|if:merge5="Tanzania|*" selected*|end:if|*="">Tanzania</option>
+<option value="Thailand" *|if:merge5="Thailand|*" selected*|end:if|*="">Thailand</option>
+<option value="Togo" *|if:merge5="Togo|*" selected*|end:if|*="">Togo</option>
+<option value="Tokelau" *|if:merge5="Tokelau|*" selected*|end:if|*="">Tokelau</option>
+<option value="Tonga" *|if:merge5="Tonga|*" selected*|end:if|*="">Tonga</option>
+<option value="Trinidad and Tobago" *|if:merge5="Trinidad" and="" tobago|*="" selected*|end:if|*="">Trinidad and Tobago</option>
+<option value="Trinidad and Tobago" *|if:merge5="Trinidad" and="" tobago|*="" selected*|end:if|*="">Trinidad and Tobago</option>
+<option value="Trinidad and Tobago" *|if:merge5="Trinidad" and="" tobago|*="" selected*|end:if|*="">Trinidad and Tobago</option>
+<option value="Tunisia" *|if:merge5="Tunisia|*" selected*|end:if|*="">Tunisia</option>
+<option value="Turkey" *|if:merge5="Turkey|*" selected*|end:if|*="">Turkey</option>
+<option value="Turkmenistan" *|if:merge5="Turkmenistan|*" selected*|end:if|*="">Turkmenistan</option>
+<option value="Turks &amp; Caicos Islands" *|if:merge5="Turks" &="" caicos="" islands|*="" selected*|end:if|*="">Turks &amp; Caicos Islands</option>
+<option value="Turks and Caicos Islands" *|if:merge5="Turks" and="" caicos="" islands|*="" selected*|end:if|*="">Turks and Caicos Islands</option>
+<option value="Tuvalu" *|if:merge5="Tuvalu|*" selected*|end:if|*="">Tuvalu</option>
+<option value="Uganda" *|if:merge5="Uganda|*" selected*|end:if|*="">Uganda</option>
+<option value="Ukraine" *|if:merge5="Ukraine|*" selected*|end:if|*="">Ukraine</option>
+<option value="United Arab Emirates" *|if:merge5="United" arab="" emirates|*="" selected*|end:if|*="">United Arab Emirates</option>
+<option value="United States of America" *|if:merge5="United" states="" of="" america|*="" selected*|end:if|*="">United States of America</option>
+<option value="United Kingdom" *|if:merge5="United" kingdom|*="" selected*|end:if|*="">United Kingdom</option>
+<option value="Uruguay" *|if:merge5="Uruguay|*" selected*|end:if|*="">Uruguay</option>
+<option value="USA Minor Outlying Islands" *|if:merge5="USA" minor="" outlying="" islands|*="" selected*|end:if|*="">USA Minor Outlying Islands</option>
+<option value="Uzbekistan" *|if:merge5="Uzbekistan|*" selected*|end:if|*="">Uzbekistan</option>
+<option value="Vanuatu" *|if:merge5="Vanuatu|*" selected*|end:if|*="">Vanuatu</option>
+<option value="Vatican City State (Holy See)" *|if:merge5="Vatican" city="" state="" (holy="" see)|*="" selected*|end:if|*="">Vatican City State (Holy See)</option>
+<option value="Venezuela" *|if:merge5="Venezuela|*" selected*|end:if|*="">Venezuela</option>
+<option value="Vietnam" *|if:merge5="Vietnam|*" selected*|end:if|*="">Vietnam</option>
+<option value="Virgin Islands (British)" *|if:merge5="Virgin" islands="" (british)|*="" selected*|end:if|*="">Virgin Islands (British)</option>
+<option value="Virgin Islands (U.S.)" *|if:merge5="Virgin" islands="" (u.s.)|*="" selected*|end:if|*="">Virgin Islands (U.S.)</option>
+<option value="Wallis and Futuna Islands" *|if:merge5="Wallis" and="" futuna="" islands|*="" selected*|end:if|*="">Wallis and Futuna Islands</option>
+<option value="Western Sahara" *|if:merge5="Western" sahara|*="" selected*|end:if|*="">Western Sahara</option>
+<option value="Yemen" *|if:merge5="Yemen|*" selected*|end:if|*="">Yemen</option>
+<option value="Zaire" *|if:merge5="Zaire|*" selected*|end:if|*="">Zaire</option>
+<option value="Zambia" *|if:merge5="Zambia|*" selected*|end:if|*="">Zambia</option>
+<option value="Zimbabwe" *|if:merge5="Zimbabwe|*" selected*|end:if|*="">Zimbabwe</option>
+</select>
+<br>
+<label id="language_label">LANGUAGE</label> <span class="asterisk">*</span>
+<br>
+<ul class="interestgroup_field" id="MERGE6" style="list-style-type:none; margin:0px; padding:0px;text-transform: capitalize;">
+<table>
+<tbody><tr>
+    <td><input type="radio" name="MERGE6" id="MERGE6-0" value="English" *|if:merge6="English|*" checked*|end:if|*="" class="inputlangue"></td>
+    <td><span>English </span></td>
+    <td><input type="radio" name="MERGE6" id="MERGE6-1" value="French" *|if:merge6="French|*" checked*|end:if|*="" class="inputlangue"></td>
+    <td><span>French</span></td>
+</tr>
+</tbody></table>
+</ul>
+<br>
+LOCAL COMMUNITY 
+<br>
+    <select id="MERGE7" name="MERGE7" style="width: 16.5em;">
+<option value="" *|if:merge7="|*" selected*|end:if|*=""></option>
+<option value="Atelier Lole St-Denis" *|if:merge7="Atelier" lole="" st-denis|*="" selected*|end:if|*="">Atelier Lole St-Denis</option>
+<option value="Atelier Lole Westmount" *|if:merge7="Atelier" lole="" westmount|*="" selected*|end:if|*="">Atelier Lole Westmount</option>
+<option value="Atelier Lole Bayview" *|if:merge7="Atelier" lole="" bayview|*="" selected*|end:if|*="">Atelier Lole Bayview</option>
+<option value="Atelier Lole Oakville" *|if:merge7="Atelier" lole="" oakville|*="" selected*|end:if|*="">Atelier Lole Oakville</option>
+<option value="Atelier Lole Cote Basque" *|if:merge7="Atelier" lole="" cote="" basque|*="" selected*|end:if|*="">Atelier Lole Cote Basque</option>
+<option value="Atelier Lole Paris" *|if:merge7="Atelier" lole="" paris|*="" selected*|end:if|*="">Atelier Lole Paris</option>
+<option value="Showtique New York" *|if:merge7="Showtique" new="" york|*="" selected*|end:if|*="">Showtique New York</option>
+</select>
+<br>
+ <span class="asterisk">*</span> <span>Indicates required</span>
+ <br>
+<input class="button" type="submit" value="subscribe to list">
+
+
+
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+</div></div>
+
+
+        <!--form action="http://www.lolewomen.com/us/newsletter/subscriber/new/" method="post" name="newsletter" id="newsletter-validate-detail">
+      	<div style="float:left"><input type="text" id="newsletter-email" name="email" onblur="addNewsletterLabel(this.value)" onclick="removeNewsletterLabel(this.value);" value="email signup..." /></div>
+      	<div style="float:left;clear:none;" id="newsletter-btn-go"><img style="margin-top:14px;cursor:pointer;" onclick="document.forms.newsletter.submit()" src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/btn_newsletter.png" alt="Newsletter" width="36" height="30"/></div>
+        </form-->
       </div>
       <div id="social-icons">
-        <a href="http://www.lolewomen.com/blog"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_blog.png" alt="Lolelove" width="30" height="30"></a>
-        <a href="http://www.facebook.com/lolewomen"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_facebook.png" alt="Facebook" width="30" height="30"></a>
-        <a href="http://twitter.com/lolewomen"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_twitter.png" alt="Twitter" width="30" height="30"></a>
-        <a href="http://www.youtube.com/lolewomen"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_youtube.png" alt="Youtube" width="60" height="30"></a>
+        <a href="http://www.facebook.com/lolewomen" target="_blank"><img width="30" height="30" src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_facebook.png"></a>
+        <a href="http://twitter.com/lolewomen" target="_blank"><img width="30" height="30" src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_twitter.png"></a>
+        <a href="http://www.pinterest.com/lolewomen" target="_blank"><img width="30" height="30" src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_pinterest.png"></a>
+        <a href="http://www.vimeo.com/lolewomen" target="_blank"><img width="60" height="30" src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/footer/icon_youtube.png"></a>
       </div>
     </div>
     
@@ -609,8 +1012,8 @@ function callDealersLocatorFooter()
   
   <!-- FOOTER BOTTOM PART -->
   <div id="footer-bottom">
-    <div id="lang"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/flag_usa.png" alt="" width="16" height="11">ENGLISH</div>
-    <div id="privacy"><a href="http://www.lolewomen.com/us/privacy-policy/">PRIVACY POLICY</a> / <a href="http://www.coalision.com">COALISION.COM</a></div>
+          <div id="lang"><img src="http://d3ej0l378cxwy7.cloudfront.net/website_2011/header/flag_usa.png" alt="" width="16" height="11">ENGLISH</div>
+            <div id="privacy"><a href="http://www.lolewomen.com/us/privacy-policy/">PRIVACY POLICY</a> / <a href="http://www.coalision.com">COALISION.COM</a></div>
     <div id="copyright">© LOLË INC. ALL RIGHTS RESERVED</div>
   </div>
 </div>
@@ -621,25 +1024,19 @@ function callDealersLocatorFooter()
 //]]>
 </script>
 
+
 <div id="tooltips"></div>
-        </div>
+
+<!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=174498; 
+var hs_salog_version = "2.00";
+var hs_ppa = "lolewomen.app12.hubspot.com";
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://lolewomen.app12.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->        </div>
     </div>
   </div>
-    
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
-<script type="text/javascript">
-//<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-    var _gaq = _gaq || [];
-    _gaq.push(["_setAccount", "UA-7321306-1"]);
-    _gaq.push(["_trackPageview", "/us/privacy-policy/"]);
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-            
+        
 
 </body></html>
