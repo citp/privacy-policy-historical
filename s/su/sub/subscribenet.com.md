@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subscribenet.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221203438id_/http%3A//www.flexerasoftware.com/company/about/privacy-legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subscribenet.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613224205id_/http%3A//www.flexerasoftware.com/company/about/privacy-legal.htm) for the most accurate reproduction.*
 
 # Legal and Privacy Notices - Legal - Flexera Software
 
