@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213013112id_/http%3A//www.cshl.edu/Contact-Us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613193525id_/http%3A//www.cshl.edu/Contact-Us/privacy-policy) for the most accurate reproduction.*
 
 # Cold Spring Harbor Laboratory | Privacy Policy
 
