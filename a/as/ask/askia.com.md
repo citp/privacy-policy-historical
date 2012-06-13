@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001032id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613232008id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - Software for surveys
 
@@ -37,12 +37,12 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20111204001032id_/http%3A//www.askia.com/contact@askia.com).
+Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20120613232008id_/http%3A//www.askia.com/contact@askia.com).
 
 ### Latest news
 
 [Subscribe](https://web.archive.org/news/feed)
 
-#### [Askia is hiring!](https://web.archive.org/news/askia-grp-customer-srv-job-111021)
+#### [Askia at Insight Show 2012](https://web.archive.org/news/askia-at-insight-2012)
 
-We are looking for people to join our customer service teams all over the Askia globe ;) You are a multitasking magician who has the ability to look after all aspects of our customer service, you understand market research software. Contact [jacques@askia.com](mailto:jacques@askia.com?subject=Askia%20customer%20service%20job%20offer)
+Askia will be exhibiting at the [Insight Show](http://www.insightshow.co.uk/) again this year to demonstrate and advise on our ever increasing portfolio of market research driven applications. We will be on **stand F259** and very much look forward to seeing you there! 
