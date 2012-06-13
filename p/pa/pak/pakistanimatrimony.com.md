@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakistanimatrimony.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213151805id_/http%3A//www.pakistanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanimatrimony.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174927id_/http%3A//www.pakistanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Pakistani Matrimony, Matrimony, Indian Matrimony
+# Pakistani Matrimony, Matrimonial, Marriage,PakistaniMatrimony.com
 
 PakistaniMatrimony.com owned by Consim Info USA Inc, and PakistaniMatrimony.com being hereafter referred to as Consim Info USA Inc, is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
