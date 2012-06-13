@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2iim.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130224543id_/http%3A//www.2iim.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2iim.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613203517id_/http%3A//www.2iim.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # 2IIM - IIM CAT Classes : Disclaimer
 
