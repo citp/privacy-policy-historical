@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116131206id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613073736id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -10,27 +10,23 @@ When you sign up for an account with AdSpeed.com, we collect your personal infor
 
 #### Email Address
 
-Your email address will not be shared with, sold to, or accessible by any third party. As a client of AdSpeed.com, your email address is used only for communications between you and AdSpeed.com, including technical support, welcome message, lost password recover, newsletters, notices about updates and scheduled maintenances. Any invalid email address will result in the termination of your account and service with AdSpeed.com. 
+Your email address will not be shared with, sold to, or accessible by any third party. As a client of AdSpeed.com, your email address is used only for communication between you and AdSpeed.com, including welcome message, technical support, billing, lost password recovery, our own newsletters, update/modification notices and scheduled maintenance. An invalid email address might result in the termination of your account and service with AdSpeed.com. 
 
 #### Information Automatically Logged
 
 We log your IP address to help identify any unauthorized access to your account. If you are not a member of AdSpeed.com, we use your IP to administer and improve our own website. We do not sell your records to any third party. 
 
-#### Cookie
+#### Browser Cookie
 
-AdSpeed.com uses cookies to allow and decline accesses to the appropriate person(s) to your account. The cookie helps our server knows that you are an authorized user and lets you navigate around the website without asking you for authorization repeatedly. For visitors, we use cookies to improve our website navigation. We do not track visitors through different websites once you leave AdSpeed.com. 
+AdSpeed.com uses a browser cookie, a data file stored within your browser, to allow and decline access to the appropriate person(s) to your account. The browser cookie helps our server know that you are an authorized user and let you navigate around the website without asking you for authorization repeatedly. For visitors, we use a browser cookie to improve our website navigation. We do not track visitors through different websites once you leave AdSpeed.com. 
 
 #### Newsletter Opt In/Out
 
 When signing up, you have an option to subscribe to our monthly newsletter. If you authorize us to send you a monthly newsletter, you will receive it directly from us. You may unsubscribe from the newsletter at any time by clicking the link at the bottom of each newsletter message. 
 
-#### Advertisers/Sponsors
-
-We might have external ad agents as well as direct advertisers display ads on this site and display sponsor ads on your website if your publisher account is free/sponsor-based. We do not have access to any information that they collect from you. All sponsored ads will comply with our policy of acceptable contents. Please consult their privacy statement for details. In case you could not find the appropriate statement, please contact us for help. 
-
 #### External Links
 
-This site contains links to external websites. We are not responsible for the privacy practices or the content of such websites. 
+This website contains links to external websites. We are not responsible for the privacy practices or the content of such websites. 
 
 #### Public Forums
 
@@ -42,21 +38,21 @@ Our [Terms of Service](https://adspeed.com/Knowledges/2/Content/Terms_Service.ht
 
 #### General
 
-By registering as a member of our service, you are agreeing to accept this privacy policy. We reserve the right to modify this policy at any time prior to any notice. It is your own benefit to check for any update of the policy in case we have not yet noticed our members. 
+By registering as a member of our service, you are agreeing to accept this privacy policy. We reserve the right to modify this policy at any time prior to any notice. It is your own benefit to check for any update of the policy in case we have not yet notified our members. 
 
-If you have any questions about this privacy statement, or the practices of AdSpeed.com, please contact us.
+If you have any questions about this privacy statement, or the practices of AdSpeed.com, please [contact us](https://adspeed.com/Helps/contact.html).
 
 ## Testimonials for our Ad Servers
 
-  * > I have referred one of my clients to open an account with AdSpeed, and also suggested that he requests the Fast Delivery Add-on to upload banners easier. Thank you for your great service.
+  * > Thanks! We are a fan of AdSpeed.
 > 
-> _Rene G_  
->  Toronto Hispano
+> _Maarten D_  
+>  Modation Online Concepts
 
-  * > I look forward to referring your service to our entire group.
+  * > We definitely appreciate your great customer service. I would recommend your service to any colleague searching for ad serving.
 > 
-> _Bob Marceau_  
-> 
+> _Antoine L_  
+>  kelDOM
 
 
 
