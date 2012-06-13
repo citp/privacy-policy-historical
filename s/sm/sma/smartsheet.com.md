@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227015626id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614001424id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartsheet
 
 ## Smartsheet.com Privacy Policy
 
-Updated policy: Effective on July 20, 2011
+Updated policy: Effective on May 4, 2012
 
 This privacy statement describes how Smartsheet collects and uses the personal information you provide on our Web site: www.smartsheet.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.smartsheet.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Smartsheet,-Inc-/validation?rid=fc25c0bf-a7a4-425b-a6c0-77cb0b376cf2 "Validate TRUSTe privacy certification")
 
 Smartsheet.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.smartsheet.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Eric Browne at support@smartsheet.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint
 
-TRUSTe will then serve as a liaison with us to resolve your concerns. Smartsheet.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
+TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -108,7 +108,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 ## Safe Harbor
 
-## [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.smartsheet.com/seal_m "TRUSTe European Safe Harbor certification")
+## [](https://privacy.truste.com/privacy-seal/Smartsheet,-Inc-/validation?rid=fc25c0bf-a7a4-425b-a6c0-77cb0b376cf2 "TRUSTe European Safe Harbor certification")
 
 The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/
 
