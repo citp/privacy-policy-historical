@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linelab.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205101id_/http%3A//www.linelab.org/contacts-linelab-templates/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linelab.org privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613202849id_/http%3A//www.linelab.org/contacts-linelab-templates/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.linelab.org/contacts-linelab-templates/privacy-policy?tmpl=component&print=1&layout=default&page= "Print")
+[](http://www.linelab.org/contacts-linelab-templates/privacy-policy?tmpl=component&print=1&page= "Print")
 
 ##  [ Privacy Policy](http://www.linelab.org/contacts-linelab-templates/privacy-policy)
 
