@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527224425id_/http%3A//www.taulia.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614011729id_/http%3A//www.taulia.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Taulia - Privacy Policy
+# Privacy policy
 
-`**www.taulia.com Privacy Policy  
-**  
+##  Privacy Policy 
+
+www.taulia.com Privacy Policy
+
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-Any data we request that is not required will be specified as voluntary or optional. 
+Any data we request that is not required will be specified as voluntary or optional.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or Company name. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -26,7 +28,7 @@ Any of the information we collect from you may be used in one of the following w
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
 • To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
 • To send periodic emails
 
@@ -38,9 +40,9 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
 
-These security measures include: password protected directories and databases to safeguard your information and PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+These security measures include: password protected directories and databases to safeguard your information and PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
 
 **Do we use cookies?**
 
@@ -72,7 +74,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.taulia.com/page/terms_of_use](https://web.archive.org/page/terms_of_use).
+Please also visit our [Terms and Conditions](http://www.taulia.com/en/terms-of-use.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
@@ -80,19 +82,19 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **03/01/2010**
+This policy was last modified on 03/01/2010
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.taulia.com  
-465 California Street Suite 410  
-San Francisco, CA 94104  
+100 Pine Street, Suite 1750  
+San Francisco, CA 94111  
 United States  
-info@taulia.com  
+[info@taulia.com](mailto:info@taulia.com)  
 (415) 376 8280
 
 **Privacy Policy Customer Pledge**
@@ -104,13 +106,12 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+  
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/ "Trust Guard Dispute Resolution form").
 
-Respectfully, 
+Respectfully,
 
 Philip Stehlik CTO  
 www.taulia.com
 
-`
-
-www.taulia.com's privacy policy has been verified by [Trust Guard](https://secure.trust-guard.com/certificates/www.taulia.com)
+www.taulia.com's privacy policy has been verified by [Trust Guard](https://secure.trust-guard.com/certificates/www.taulia.com "Taulia secure trust guard certificate")
