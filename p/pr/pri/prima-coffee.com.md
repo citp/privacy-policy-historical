@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120180246id_/http%3A//prima-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613183912id_/http%3A//prima-coffee.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | Prima Coffee
+# Privacy Policy - Customer Security is our Priority | Prima Coffee
 
 ##  Prima Coffee: Privacy Policy
 
@@ -46,11 +46,9 @@ Please also visit our [ Terms and Conditions](http://prima-coffee.com/terms-use)
 
 Your visit to and interaction with Prima Coffee is governed by the Terms of Use, Return Policy, Shipping Policy, Privacy Policy, and Pricing Policy which are posted on this site. These policies, along with our Glossary of Terms govern your visit to Prima Coffee. We reserve the right to make changes to our site and policies, at any time without any prior notification. 
 
-### Changes to our Privacy Policy
+### Opt Out
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on May 9, 2011
+You may choose to opt out at any time from receiving any further promotional material, newsletters, or any non-order related communication from us by using the email address listed below.
 
 ### Contacting Us
 
@@ -64,3 +62,9 @@ There you go, that’s it, but if you have any questions regarding this privacy 
 Louisville, KY 40213
 
 
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on June 12, 2012
