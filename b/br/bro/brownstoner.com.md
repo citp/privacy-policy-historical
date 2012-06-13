@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brownstoner.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230193717id_/http%3A//www.brownstoner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownstoner.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613211535id_/http%3A//www.brownstoner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brownstoner
+# Brownstoner | Privacy Policy
 
 Your privacy is important to us at Brownstoner Media LLC (“Brownstoner Media”, “we”, or “our”). Accordingly, we have established and implemented information handling practices for www.brownstoner.com (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in the Terms of Use <http://www.brownstoner.com/terms-of-use/>.
 
