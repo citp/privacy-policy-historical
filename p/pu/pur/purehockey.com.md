@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purehockey.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920064641id_/http%3A//www.purehockey.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purehockey.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613184535id_/http%3A//www.purehockey.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Our website (www.purehockey.com) allows you to buy products and services, get information, enter contests, receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. Except as limited below, we reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired.
 
