@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takkle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225051id_/http%3A//www.takkle.com/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takkle.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614003504id_/http%3A//www.takkle.com/privacy.vm) for the most accurate reproduction.*
 
 # Takkle.com
 
