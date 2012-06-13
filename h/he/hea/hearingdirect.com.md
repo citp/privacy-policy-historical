@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013715id_/http%3A//www.hearingdirect.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174750id_/http%3A//www.hearingdirect.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HearingDirect.com ™
 
