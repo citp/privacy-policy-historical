@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214134637id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173252id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Complete University Guide
 
