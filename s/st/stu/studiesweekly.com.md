@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studiesweekly.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130204020id_/http%3A//www.studiesweekly.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiesweekly.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613214928id_/http%3A//www.studiesweekly.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Studies Weekly Privacy Policy
+# Privacy Policy | Studies Weekly
 
 What information do we collect?   
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
