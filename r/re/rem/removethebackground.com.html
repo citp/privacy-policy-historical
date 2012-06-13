@@ -1,378 +1,339 @@
-<!--The following is the downloaded HTML source of the removethebackground.com privacy policy that was archived on 2011-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213200734id_/http%3A//www.removethebackground.com/about-us/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the removethebackground.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614002638id_/http%3A//www.removethebackground.com/about-us/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta name="google-site-verification" content="TgBp_tWuJaenjAGD58j6pyD8-HUgezWUZCFU4pIzgcw">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<title>Remove The Background - packshot and product image clipping</title>
-<link rel="stylesheet" type="text/css" href="http://www.removethebackground.com/style.css" media="all">
-<link rel="stylesheet" media="screen" type="text/css" href="/colorpicker/css/colorpicker.css">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.js" type="text/javascript"></script>
-<script src="/javascripts/jquery.scrollTo-1.4.2-min.js" type="text/javascript"></script>
-<script src="/javascripts/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="/colorpicker/js/colorpicker.js"></script>
-<script type="text/javascript" src="/colorpicker/js/jscolor.js"></script>
-<script type="text/javascript" src="/swfupload/swfupload.js"></script>
-<script type="text/javascript" src="/javascripts/jquery.numeric.js"></script>
-<script type="text/javascript" src="/javascripts/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
-<script type="text/javascript" src="/javascripts/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="/javascripts/functions.js"></script>
-<link rel="stylesheet" type="text/css" href="/javascripts/fancybox/jquery.fancybox-1.3.4.css" media="screen">
-
-<script type="text/javascript" src="/syntaxhighlighter/scripts/shCore.js"></script>
-<script type="text/javascript" src="/syntaxhighlighter/scripts/shBrushJScript.js"></script>
-<script type="text/javascript" src="/syntaxhighlighter/scripts/shBrushXml.js"></script>
-<link type="text/css" rel="stylesheet" href="/syntaxhighlighter/styles/shCoreDefault.css">
-<script type="text/javascript">SyntaxHighlighter.all();</script>
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-23104389-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script type="text/javascript">
-        function deleteImage() {
-            var varData = '{"contactEmail": "' + $('#contactEmailDel').val()
-            + '","contactAPIkey": "' + $('#contactAPIkeyDel').val()
-            + '","imageTicket": "' + $('#imageTicketDel').val()
-            + '"}';
-            $('#DeleteRequest').text(varData);
-            $.ajax({
-				cache: false,
-                type: "DELETE", //GET or POST or PUT or DELETE verb
-                url: "http://api.removethebackground.com/REST.svc/Image/" + $('#imageTicketDel').val(), // Location of the service
-                data: varData, //Data sent to server
-                contentType: "application/json; charset=utf-8", // content type sent to server
-                dataType: "xml", //Expected data format from server
-                processdata: false, //True or False
-                success: function (msg) {//On Successfull service call
-                    ServiceSucceeded(msg, "DELETE");
-                },
-                error: ServiceFailed// When Service call fails
-            });
-        }
-
-        function addImage() {
-            //We are passing multiple paramers to the service in json format {"contactEmail" : "janus@removethebackground.com", "contactAPIkey":"apikey"}
-            var varData = '{"contactEmail": "' + $('#contactEmail').val() 
-            + '","contactAPIkey": "' + $('#contactAPIkey').val()
-            + '","developerAPIkey": "' + $('#developerAPIkey').val()
-            + '","templateId": "' + $('#templateId').val()
-            + '","imageURL": "' + $('#imageURL').val()
-            + '","imageURL2": "' + $('#imageURL2').val()
-            + '","imageURL3": "' + $('#imageURL3').val()
-            + '","imageURL4": "' + $('#imageURL4').val()
-            + '","imageURL5": "' + $('#imageURL5').val()
-            + '","imageRequestedDeliveryTimeInHours": "' + $('#imageRequestedDeliveryTimeInHours').val()
-            + '","imageCallbackURL": "' + $('#imageCallbackURL').val()
-            + '"}';
-            $('#PostRequest').text(varData);
-            $.ajax({
-                cache: false,
-                type: "POST", //GET or POST or PUT or DELETE verb
-                url: "http://api.removethebackground.com/REST.svc/Image/", // Location of the service
-                data: varData, //Data sent to server
-                contentType: "application/json; charset=utf-8", // content type sent to server
-                dataType: "xml", //Expected data format from server
-                processdata: false, //True or False
-                success: function (msg) {//On Successfull service call
-                    ServiceSucceeded(msg, "POST");
-                },
-                error: ServiceFailed// When Service call fails
-            });
-        }
-        
-        function ServiceSucceeded(result, type) {
-            //result.xml check for IE
-            var xmlstr = result.xml ? result.xml : (new XMLSerializer()).serializeToString(result);
-            if (type == "POST") {
-                $('#PostResponse').text(xmlstr);
-            } else {
-                $('#DeleteResponse').text(xmlstr);
-            }
-            if ($(result).find("ErrorCode").text() != 'NoError') {
-                alert("Error:\n\n" + $(result).find("ErrorCode").text() + " - " + $(result).find("Message").text());
-            } else {
-                alert("Call successfull.");
-            }
-        }
-
-        function ServiceFailed() {
-            alert("Call failed");
-        }
-
-        function submitImageStatus() {
-            $('#getStatusForm').attr('action', 'http://api.removethebackground.com/REST.svc/Image/' + $('#imageTicket').val() + '/')
-            $('#getStatusForm').submit();
-        }
-    </script>
-</head>
-
-<body>
-    <!--top-->
-    <div class="top">
-    <div class="topbg">
-        <div class="w980">
-            <a href="/">
-            <img src="/images/logoremove-beta.png" width="261" height="96" class="logoremove fl" alt="REMOVE">
-            </a>
-            <div class="topsubmn fr">
-    <a href="/sign-up/" class="link1">Sign up now</a>
-    <a href="/partner-programs/" class="link1">Partner Programs</a>
-    <a href="/about-us/" class="link1ac">About us</a>
-</div><div class="menubg fr">
-    <a href="/" class="link2"><span>Home</span></a>
-    <a href="/pricing.asp" class="link2"><span>Pricing</span></a>
-    <a href="/developer-api/" class="link2"><span>Developer</span></a>
-    <a href="/login/" class="link2"><span>Login</span></a>
-    <div class="cl"></div>
-</div>
-            <div class="cl"></div>
-            
-        <div class="cl"></div>    
-        </div>
-    </div>
-    </div>
-    <!--e:top-->
-
-
-<!--content-->
-<div class="content">
-<div class="contentbg">
-	<div class="w980">
-    	<div class="ctariket">
-        
-        	<div class="artileft">
-            	<!--box5-->
-<div class="box5">
-    <div class="boxtop"></div>
-    <ul class="boxcont">
-    
-		<li class="leftmnl"><a href="/about-us/" class="link4">About us</a></li>
-		<!--<li class="leftmnl"><a href="/about-us/management.asp" class="link4">Management</a></li>-->
-		<li class="leftmnl"><a href="/about-us/contact.asp" class="link4">Contact</a></li>
-		<!--<li class="leftmnl"><a href="/about-us/social-responsibility.asp" class="link4">CSR</a></li>-->
-		<li class="leftmnl"><a href="/about-us/privacy-policy.asp" class="link4">Privacy policy</a></li>
-		<li class="leftmnl"><a href="/about-us/terms-of-use.asp" class="link4">Terms of use</a></li>
-
-    
-    </ul>
-    <div class="boxbott"></div>    
-<div class="cl"></div> 
-</div>
-<!--e:box5-->
-
-            </div>
-            
-            <div class="articenter">
-            	<h1>PRIVACY POLICY</h1>
-
-				<p>The purpose of this policy is:<br><br><b>- to assure you that we recognise and fully respect the privacy and personal data of the visitors to this website and<br><br>- to explain what personal information we collect from this website and how we ensure its' best protection.</b><br><br>By your access to and use of this Website (www.removethebackground.com) you agree to our processing, storing and using that information in accordance with the principles set out in this Privacy Policy. We will limit the collection and use of your information to a minimum. We will only collect such information as is required to help you avail the loans or keeping you informed about the services offered by Us or our affiliates. The information you provide may also be used for analytical and statistical purposes.<br><br>We will take all reasonable steps to safeguard the security and confidentiality of any information you provide to us. We cannot, however, guarantee the security of any information you disclose online. You accept the inherent security implications of providing information over the internet and will not hold us responsible for any breach of security or disclosure of information unless we have been negligent. Any password and user name allocated to you by us must be kept secret and must not be disclosed to anyone, unless we have given you our prior written permission.<br><br>We do not sell, share or transfer any of your information to any external organisation unless we have previously informed you that this will happen through disclosures or agreement, and we have your authority to do so. We can also disclose your information to authorised parties if we are required by law to do so.<br><br>We will always maintain control over the confidentiality of your information. If you have consented or have provided us with your email address, we may periodically send you details of products and services which we offer. You may opt out of receiving these at any time by ticking the 'opt out' box provided in the promotional email message.</p><br>
-
-				<h3>USE OF IMAGES SENT TO US FOR AVAILING OUR SERVICES</h3> 
-				<p>The Website www.removethebackground.com provides services to remove backgrounds of images our customers send to us. We will not use the images sent for private or commercial use without the prior consent of the customer. When processed the images will be available on a public URL. The public URL will not be published.</p><br>
-
-				<h3>CHANGING THE INFORMATION WE HOLD ABOUT YOU</h3>
-				<p>If you would like to change the registration information we hold about you from our registration database, you may do so by sending a mail to: cs@removethebackground.com</p><br>
-
-				<h3></h3>
-				<p></p><br>
-				
-				<h3></h3>
-				<p></p><br>
-				
-				<h3></h3>
-				<p></p><br>
-				
-				<h3></h3> 
-				<p></p><br>
-
-				<h3></h3>
-				<p></p><br>
-
-				<h3></h3>
-				<p></p><br>
-				
-				<h3></h3>
-				<p></p><br>
-				
-				<h3></h3>
-				<p></p>
-				</div>
-				            
-            <div class="artiright">
-            	<a href="/pricing.asp"><img src="/images/trynow2.png" alt="try now" class="psitraynow" border="0/"></a>
-            </div>
-            
-       	<div class="cl"></div> 	
-        </div>
-    </div>
-</div>
-</div>
-<!--e:content-->
-
-<!--footer-->
-<div class="footer">
-	<div class="w980">
-     	<div class="ct1box w239 fl">
-        	<h2> <img src="/images/ttftdeve.png" alt="Developer API"></h2>
-            <p>
-            	Our Developer API is an interface for integrating with third-party applications like CMS and shopping cart systems. Get started by reading our Best Practice section for creating a successful integration. All Developer Partners earn a 10% lifetime commission on all orders they generate.&nbsp;<a href="/developer-api/" style="color:#86BDCC;">Read more</a>
-            </p>        
-        </div>
+<!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta name="google-site-verification" content="TgBp_tWuJaenjAGD58j6pyD8-HUgezWUZCFU4pIzgcw">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+        <title>
+            Remove The Background packshot and product image clipping service
+        </title>
         
         
-        <div class="ct1box w250 fl">
-        	<h2> <img src="/images/ttftquick.png" alt="Quick Links"></h2>
-            <p>
-            	<a href="/pricing.asp">Free Trial - Three images free!<br>
-				Pricing - Instant quote</a><br>
-				<a href="/about-us/contact.asp">Contact us</a><br>
-				<a href="/partner-programs/">Become a partner</a><br>
-				<a href="/developer-api/">Integrations</a><br>
-				<a href="/about-us/privacy-policy.asp">Privacy policy</a><br>
-				<a href="/about-us/terms-of-use.asp">Terms of use</a><br>
-				<!--a href="/developer-api/best-practice-integration.asp">How-to guides</a-->
-            </p>        
-        </div>
-        
-        
-        <div class="ct1box w250 fl">
-        	<h2> <img src="/images/ttftabout.png" alt="About" style="margin-bottom:4px;"></h2>
-            <p>
-            	We offer low cost, hassle-free, clipping path service for websites. We work 24 hours per day, seven days a week to ensure fast and reliable delivery. Our production facilities are located in Hanoi, the beautiful capital of Vietnam.
-			</p>        
-        </div>
-        
-        
-        <div class="w240 fl">
-        	<h2> <img src="/images/ttfcontact.png" alt="Remove The Background"></h2>
-            <p style="margin-top:17px;">
-				Remove The Background ApS<br>
-				Klitrosevej 17<br>
-				DK-7500 Holstebro<br>
-				DENMARK<br>
-				<br>
-				Customer service:<br>
-				<a href="mailto:cs@removethebackground.com">cs@removethebackground.com</a>
-             </p>
-             
-        </div>
-        
-    <div class="cl"></div>    
-    </div>
-</div>
-<!--e:footer-->
+        <link rel="stylesheet" type="text/css" charset="utf-8" href="/css/style.css">
+        <link rel="stylesheet" type="text/css" charset="utf-8" href="/css/style_en.css">
+        <link rel="stylesheet" media="screen" type="text/css" href="/colorpicker/css/colorpicker.css">
+        <link href="/javascripts/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
+        <link href="/javascripts/popup/osx.css" rel="stylesheet" type="text/css">
+        <link href="/css/dd.css" rel="stylesheet" type="text/css">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.js" type="text/javascript"></script>
+        <script src="/javascripts/jquery.scrollTo-1.4.2-min.js" type="text/javascript"></script>
+        <script src="/javascripts/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="/colorpicker/js/colorpicker.js"></script>
+        <script type="text/javascript" src="/colorpicker/js/jscolor.js"></script>
+        <script src="/javascripts/fancybox/jquery.mousewheel-3.0.4.pack.js" type="text/javascript"></script>
+        <script src="/javascripts/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+        <script src="/javascripts/jquery.numeric.js" type="text/javascript"></script>
+        <script src="/javascripts/functions.js" type="text/javascript"></script>
+        <script src="/javascripts/popup/osx.js" type="text/javascript"></script>
+        <script src="/javascripts/popup/jquery.simplemodal.js" type="text/javascript"> </script>
+        <script src="/javascripts/popup/popup.js" type="text/javascript"></script>
+        <script src="/javascripts/language/jquery.dd.js" type="text/javascript"></script>
 
-<div id="popDarkenPage"></div>
-<div style="display:none">
-<div id="popContainer">
-    <div id="popTop"></div>
-    <div id="popMiddle">
-    	<div id="popCloseDiv"><img src="/images/cross.png" onclick="hidePop();" width="14" height="14" alt="X"></div>
+    </head>
+    <body onload="checkCount()">
         
-        <form action="/trialconfirmation.asp" method="post" id="trialForm">
-        <div id="beforeFileDialog">
-        
-        	
-            <div style="margin:0 0 20px 0; color:#101315; font-size:18px;">
-            	Before we begin, please tell us a little about yourself 
-            </div>
-            
-            <div class="trialL">Name<div class="trialNotice">*</div></div>
-            <div class="trialR"><input type="text" id="trialName" name="trialName" onkeyup="trialCheckInputsTimer();"></div>
-            
-            <div class="trialL">E-mail<div class="trialNotice">*</div></div>
-            <div class="trialR"><input type="text" id="trialEmail" name="trialEmail" onkeyup="trialCheckInputsTimer();"><div id="trialEmailStatus"></div></div>
-            
-            <div class="trialL">Company<div class="trialNotice">*</div></div>
-            <div class="trialR"><input type="text" id="trialCompany" name="trialCompany" onkeyup="trialCheckInputsTimer();"></div>
-            
-            <div class="trialL">Business<div class="trialNotice">*</div></div>
-            <div class="trialR">
-            <select name="trialBusiness" id="trialBusiness" onchange="trialCheckInputsTimer();">
-            	<option>Select your line of business</option>
-                <option>E-tailer (e-commerce site)</option>
-                <option>Agency / Reseller</option>
-                <option>Photographer</option>
-                <option>Developer</option>
-                <option>E-business consultant</option>
-                <option>Other</option>
-            </select>
-            </div>
-            
-            <div style="margin-left:107px; clear:both; margin-bottom:10px; color:#000;">
-            <div><img src="/images/no.png" style="margin-bottom:10px;"></div>
-            By uploading images I agree to comply with the <a href="#" onclick="$('#freeTrialGuideLines').toggle('blind', '', 500, '' ); return false;" style="color:#000; text-decoration:underline;"> free trial guidelines</a>
-            </div>
-            <div style="display:none; height: 250px; margin: 0 0 15px 107px; overflow: auto; padding: 10px 10px 0 0; width: 435px;" id="freeTrialGuideLines">
-                <strong>Free Trial Guidelines</strong><br>
-                In most cases we will make your images without any questions. However we do have a few rules we would like you to comply with:<br>
-                <br>
-                <strong>1.</strong> Product images only (no pet, person and landscape photos please)<br>
-                <strong>2.</strong> If images are complex (or have multiple objects), company name is required.<br>
-                <strong>3.</strong> Machine like behavior is not tolerated (like multiple request from same IP address)<br>
-                <br>
-                Remove The Background has the right to refuse any image without further explanation.&nbsp;
-            </div>
-        	<div style="margin-left:107px;">
-            	<div id="btnUpload"></div>
-            </div>
-            
-		
-        </div>
-        <div id="afterFileDialog">
-            <h2>Uploading your images</h2>
-            <div id="popProgCont">
-                <div id="popProgContT"></div>
-                <div id="popProgContM">
-                    <div id="popProgressContainer">
-                        
-                    </div>
-                    <div id="popUploadedContainer">
-                        
-                        <div class="cl" id="popUploadedCl"></div>
-                        
-                    </div>
+        <!--largetop-->
+        <div class="top">
+            <!-- Insert default "rm_top" markup here -->
+            <div class="topbg">
+                <div class="w980">
                     
+                      <!-- Insert default "rm_menu_top" markup here -->                   
+
+                        <a href="/">
+                          <img width="261" height="96" alt="REMOVE" class="logoremove fl" src="/images/logoremove.png">
+                        </a>&nbsp;<div class="topsubmn fr">
+                       <select name="webmenu" id="webmenu" onchange="changeLanguage(this.value)" style="display:none;">
+                                <option value="67" title="/lang/com.png">International</option>
+                                <option value="1" title="/lang/dk.png">Danmark</option>
+                                <option value="60" title="/lang/se.png">Sverige</option>
+                                <option value="68" title="/lang/uk.png">United Kingdom</option>
+                              
+                     </select> 
+                      <a class="link1" href="/sign-up.aspx">Sign up now</a>
+                      <a class="link1" href="/partner-programs.aspx">Partner Programs</a>
+                      <a class="link1" href="/about-us.aspx">About us</a>
+
+                   </div>
+                   
                     
+    <div class="menubg fr">
+        <a class="link2" href="/"><span>
+            Home
+        </span></a><a class="link2" href="/pricing.aspx"><span>
+            Pricing
+        </span></a><a class="link2" href="/developer-api.aspx"><span>
+            Developer
+        </span></a><a class="link2" href="/login.aspx"><span>
+            Login
+        </span></a>
+        <div class="cl">
+        </div>
+    </div>
+    <div class="cl">
+    </div>
+
+                    <!--end -rm_top -->
+                    
+    <!-- Insert "rm_fash" markup here -->
+
+                    <div class="cl">
+                    </div>
                 </div>
-                <div id="popProgContB"></div>
             </div>
-            <div style="height:20px;"></div>
-            
-            <div class="fr">
-                <a href="#" style="width:110px; height:21px; background:url(/images/trialContinue.gif) left top no-repeat; display:block;" onclick="trialSubmitForm(); return false;"></a>
-            </div>
-            
-            <div id="btnAddMoreUploadCont" class="fr" style="margin-right:12px; overflow:hidden;">
-            	<div id="btnAddMoreUpload"></div>
-            </div>
-            
-            <div id="trialError" style="display:none; font-size:10px; color:#666; text-align:right; padding-top:10px; clear:both;"></div>
-            
-            <input type="hidden" name="function" id="trialContinue" value="">
-            <input type="hidden" name="contactID" id="contactID" value="">
-            <input type="hidden" name="batchId" id="batchId" value="">
         </div>
-        </form>
+        <!--e:largetop-->
+        <!--content-->
         
+    <div class="content">
+        <div class="contentbg">
+            <div class="w980">
+                <div class="ctariket">
+                    <div class="artileft">
+                        <!--box5-->
+                        <div class="box5">
+                            <div class="boxtop">
+                            </div>
+                            <ul class="boxcont">
+                                <li class="leftmnl"><a href="/about-us.aspx" class="link4">
+                                    About us
+                                </a></li>
+                                <!--<li class="leftmnl"><a href="/about-us/management.asp" class="link4">Management</a></li>-->
+                                <li class="leftmnl"><a href="/about-us/contact.aspx" class="link4">
+                                    Contact
+                                </a></li>
+                                <!--<li class="leftmnl"><a href="/about-us/social-responsibility.asp" class="link4">CSR</a></li>-->
+                                <li class="leftmnl"><a href="/about-us/privacy-policy.aspx" class="link4">
+                                    Privacy policy
+                                </a></li>
+                                <li class="leftmnl"><a href="/about-us/terms-of-use.aspx" class="link4">
+                                    Terms of use
+                                </a></li>
+                            </ul>
+                            <div class="boxbott">
+                            </div>
+                            <div class="cl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="articenter">
+                        
+          <h1>PRIVACY POLICY</h1>
+
+<p>The purpose of this policy is:<br>
+<br>
+ <strong>- to assure you that we recognise and fully respect the
+privacy and personal data of the visitors to this website
+and</strong><br>
+<br>
+ <strong>- to explain what personal information we collect from
+this website and how we ensure its best protection.</strong><br>
+<br>
+ By your access to and use of this Website
+(www.removethebackground.com) you agree to our processing, storing
+and using that information in accordance with the principles set
+out in this Privacy Policy. We will limit the collection and use of
+your information to a minimum. We will only collect such
+information as is required to help you avail the service or keeping
+you informed about the services offered by Us or our affiliates.
+The information you provide may also be used for analytical and
+statistical purposes.<br>
+<br>
+ We will take all reasonable steps to safeguard the security and
+confidentiality of any information you provide to us. We cannot,
+however, guarantee the security of any information you disclose
+online. You accept the inherent security implications of providing
+information over the internet and will not hold us responsible for
+any breach of security or disclosure of information unless we have
+been negligent. Any password and user name allocated to you by us
+must be kept secret and must not be disclosed to anyone, unless we
+have given you our prior written permission.<br>
+<br>
+ We do not sell, share or transfer any of your information to any
+external organisation unless we have previously informed you that
+this will happen through disclosures or agreement, and we have your
+authority to do so. We can also disclose your information to
+authorised parties if we are required by law to do so.<br>
+<br>
+ We will always maintain control over the confidentiality of your
+information. If you have consented or have provided us with your
+email address, we may periodically send you details of products and
+services which we offer. You may opt out of receiving these at any
+time by ticking the 'opt out' box provided in the promotional email
+message.</p>
+
+<p>&nbsp;</p>
+
+<h3>USE OF IMAGES SENT TO US FOR AVAILING OUR SERVICES</h3>
+
+<p>The Website www.removethebackground.com provides services to
+remove backgrounds of images sent to us by customers. We will not
+use the images sent for private or commercial use without the prior
+consent of the customer. When processed, the images will be
+available on a public URL. The public URL will not be
+published.</p>
+
+<p>&nbsp;</p>
+
+<h3>CHANGING THE INFORMATION WE HOLD ABOUT YOU</h3>
+
+<p>If you would like to change the registration information we hold
+about you from our registration database, you may do so by sending
+a mail to: cs@removethebackground.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+          <!-- Insert default "Aboutus_articenter" markup here -->
+        
+                    </div>
+                    <div class="artiright">
+                        <a href="/pricing.aspx">
+                            <img src="/images/trynow2.png" alt="try now" border="0/" class="psitraynow">
+                        </a>
+                    </div>
+                    <div class="cl">
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div id="popBottom"></div>
-</div>
-</div>
+
+        <!--e:content-->
+        <!--footer-->
+        <div class="footer">
+            <!-- Insert default "rm_footer" markup here -->
+            <div class="w980">
+                
+    <div class="ct1box w239 fl">
+        <h2><img src="/images/ttftdeve.png" alt="Developer API"></h2>
+
+<p>Our Developer API is an interface for integrating with
+third-party applications like CMS and shopping cart systems. Get
+started by reading our Best Practice section for creating a
+successful integration. All Developer Partners earn a 10% lifetime
+commission on all orders they generate. <a style="color: #86bdcc;" href="/developer-api.aspx">Read more</a></p>
+    </div>
+    <div class="ct1box w250 fl">
+        <h2><img src="/images/ttftquick.png" alt="Quick Links"></h2>
+
+<p><a href="/pricing.aspx">Free Trial - Three images free!<br>
+ Pricing - Instant quote</a><br>
+ <a href="/about-us/contact.aspx">Contact us</a><br>
+ <a href="/partner-programs.aspx">Become a partner</a><br>
+ <a href="/developer-api.aspx">Integrations</a><br>
+ <a href="/about-us/privacy-policy.aspx">Privacy policy</a><br>
+ <a href="/about-us/terms-of-use.aspx">Terms of use</a><br>
+ 
+<!--a href="/developer-api/best-practice-integration.asp">How-to guides</a--></p>
+    </div>
+    <div class="ct1box w250 fl">
+        <h2><img src="/images/ttftabout.png" alt="About" style="margin-bottom: 4px;"></h2>
+
+<p>We offer low cost, hassle-free, clipping path service for
+websites. We work 24 hours per day, seven days a week to ensure
+fast and reliable delivery. Our production facilities are located
+in Hanoi, the beautiful capital of Vietnam.</p>
+    </div>
+    <div class="w240 fl">
+        <h2><img src="/images/ttfcontact.png" alt="Remove The Background"></h2>
+
+<p style="margin-top: 17px;">Remove The Background Inc<br>
+524 Union Street #266<br>
+San Francisco, CA 94133<br>
+UNITED STATES<br>
+<br>
+Phone: (415) 523-7738&nbsp;</p>
+
+<p style="margin-top: 17px;">Customer service:<br>
+ <a href="mailto:cs@removethebackground.com">cs@removethebackground.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a></p>
+    </div>
+    <div class="cl">
+    </div>
+
+            </div>
+        </div>
+       
+        <div style="display: none">
+            <input type="button" id="popup_show" name="popup_show" value="Demo" class="osx demo">
+            <div id="osx-modal-content">
+                <div id="osx-modal-title">
+                    &nbsp;</div>
+                <div id="osx-modal-data" style="display: block;">
+                    <h1>
+                        <div id="intro_languages">
+                            Remove The Background<br>
+                            er nu tilgængelig på dansk!</div>
+                    </h1>
+                    <div class="mapLink" id="image_languages">
+                        <a href="http://www.removethebackground.dk/">
+                            <img src="/media/6117/dkintro.png"></a></div>
+                    <div id="note_languages">
+                        <p>
+                            Bemærk! Danske kunder kan ikke længere<br>
+                            købe på vores internationale website.
+                        </p>
+                    </div>
+                    <div class="closeLink">
+                        <a href="#" class="simplemodal-close">
+                            <img src="/media/6122/introclose.png"></a>
+                        <div>
+                            <a href="#" class="simplemodal-close">Close and continue - international website</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <script type="text/javascript">
+            $(document).ready(function (e) {
+                try {
+                    loadLanguage();
+                    $("#webmenu").msDropDown();                    
+                } catch (e) {
+                    alert(e.message);
+                }               
+            });   
+        </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"cloudflare.com/email-protection"==a.substr(7 ,31)){s='';j=44;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 
 </body></html>
