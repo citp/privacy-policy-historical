@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquatuning.us privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206185658id_/http%3A//www.aquatuning.us/shop_content.php/coID/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquatuning.us privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613202157id_/http%3A//www.aquatuning.us/shop_content.php/coID/2) for the most accurate reproduction.*
 
 # Aquatuning -Your watercooling and modding distributor -
 
