@@ -1,153 +1,6 @@
-> *The following text is extracted and transformed from the watches2u.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119222811id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watches2u.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614002409id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Watches2u](http://www.watches2u.com/)
-
-FREE UK DELIVERY (Subject To Terms And Conditions)
-
-Extended Christmas returns until 10th January 2012 on all orders
-
-  * [SHOP BY BRAND](http://www.watches2u.com/watches/manufacturers.html)
-  * [MENS WATCHES](http://www.watches2u.com/mens-watches.html)
-
-    * MENS BRANDS 
-      * ACCURIST
-
-      * CASIO
-
-      * DIESEL
-
-      * EMPORIO ARMANI
-
-      * NIXON
-
-      * POLICE
-
-      * ROTARY
-
-      * SEIKO
-
-      * TIMEX
-
-      * TIMEX IQ
-
-    * BY TYPE 
-      * SPORTS
-
-      * CHRONOGRAPHS
-
-      * DESIGNER
-
-      * SWISS
-
-      * GOLD
-
-      * DIGITAL
-
-      * POCKET WATCHES
-
-      * AUTOMATIC
-
-      * LEATHER STRAP
-
-      * TITANIUM
-
-    * BY PRICE 
-      * £50 OR LESS
-
-      * £50 TO £100
-
-      * £100 TO £150
-
-      * £150 TO £200
-
-      * £200 TO £250
-
-      * £250 TO £300
-
-      * £300 TO £350
-
-      * £350 TO £400
-
-      * £400 TO £500
-
-      * £500 AND UP
-
-[VIEW ALL MENS WATCHES](http://www.watches2u.com/mens-watches.html)
-
-  * [LADIES WATCHES](http://www.watches2u.com/ladies-watches.html)
-
-    * LADIES BRANDS 
-      * ACCURIST
-
-      * DIESEL
-
-      * DKNY
-
-      * SWATCH
-
-      * EMPORIO ARMANI
-
-      * FOSSIL
-
-      * GUESS
-
-      * KAREN MILLEN
-
-      * MICHAEL KORS
-
-      * TIMEX
-
-    * BY TYPE 
-      * DESIGNER
-
-      * GOLD
-
-      * SILVER
-
-      * DIAMOND
-
-      * PINK
-
-      * LEATHER STRAP
-
-      * SPORTS
-
-      * SWISS MOVEMENT
-
-      * CERAMIC
-
-      * DIGITAL
-
-    * BY PRICE 
-      * £50 OR LESS
-
-      * £50 TO £100
-
-      * £100 TO £150
-
-      * £150 TO £200
-
-      * £200 TO £250
-
-      * £250 TO £300
-
-      * £300 TO £350
-
-      * £350 TO £400
-
-      * £400 TO £500
-
-      * £500 AND UP
-
-[VIEW ALL LADIES WATCHES](http://www.watches2u.com/ladies-watches.html)
-
-  * CATEGORIES
-  * INFO
-  * DEALS
-
-
 
 Watches2u is an Official Watch Stockist
 
@@ -163,16 +16,14 @@ You are entitled to see the information that we hold about you, and you may ask 
 
 Contact Us
 
-Telephone:| 0208 687 1642  
+Telephone:| 0208 688 5748  
 ---|---  
 Address:| Watches2u  
-Unit D  
-Mill Green Business Park  
-Mill Green Road  
-Mitcham, Surrey  
-CR4 4HT  
+PO Box 2041  
+Croydon  
+CR90 9JW  
   
 Company reg. 4520107  
 VAT no. GB 876 326 493
 
-Copyright © 2011 Watches2u. All Rights Reserved.
+Copyright © 2012 Watches2u. All Rights Reserved.
