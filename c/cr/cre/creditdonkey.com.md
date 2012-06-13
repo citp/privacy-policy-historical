@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143814id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172406id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
@@ -10,13 +10,13 @@ We value your privacy. This page outlines what we do with the information you pr
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor's IP address, domain name, name, location and e-mail address (where possible).
 
-We collect the IP address, domain name, name, location and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the visitor, such as newsletter subscriptions and/or site registrations, name and address, telephone number, email.
+We collect the IP address, domain name, name, location and e-mail address (where possible) of visitors to our Web page, and the e-mail addresses of those who communicate with us via e-mail. We aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, and information volunteered by the visitor, such as newsletter subscriptions and/or site registrations, name and address, telephone number, email.
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to show other visitors your location, used by us to contact consumers for marketing purposes, and shared with other organizations for commercial purposes.
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to the credit card comparison wizard, record user-specific information on what pages users access or visit, record past activity at our site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us a detail unsubscription request via e-mail at the above address.
+**If you do not want to receive e-mail from us in the future, please let us know by sending us a detail unsubscription request via e-mail to info@lunchspark.com**
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting.
 
@@ -24,13 +24,11 @@ If you supply us with your postal address on-line you may receive mailings from 
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies.
 
+If you do not want your email address (or postal address or telephone number, if provided) to be shared in this fashion, please let us know by sending such request to info@lunchspark.com.
+
 With respect to Ad Servers: We partner with or have special relationships with ad server companies. Please check the privacy policy of the other companies. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
-
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
