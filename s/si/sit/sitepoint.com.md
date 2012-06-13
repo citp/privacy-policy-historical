@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212235950id_/http%3A//www.sitepoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613174228id_/http%3A//www.sitepoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » SitePoint
+# Privacy Policy - SitePoint » Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More
 
 This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy. Below is an outline of the information that SitePoint gathers, how it’s used, and how you can “opt-out”
 
