@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizsheet.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213010228id_/http%3A//www.bizsheet.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizsheet.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613192721id_/http%3A//www.bizsheet.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bizsheet.com
 
