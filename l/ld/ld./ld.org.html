@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ld.org privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101175854id_/http%3A//www.ncld.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ld.org privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613230024id_/http%3A//www.ncld.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.ncld.org/privacy-policy">
@@ -16,13 +16,8 @@
   <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1017" type="text/css">
   <link rel="stylesheet" href="/components/com_rsform/assets/calendar/calendar.css" type="text/css">
   <link rel="stylesheet" href="/components/com_rsform/assets/css/front.css" type="text/css">
-  <link rel="stylesheet" href="/plugins/system/modalizer/modals/colorbox/style1/colorbox.css" type="text/css">
-  <style type="text/css">
-    <!--
-#cboxLoadedContent{background-color:#fff;}
-    -->
-  </style>
-  <script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?v=1017"></script>
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?v=1017"></script>
   <script type="text/javascript" src="/plugins/system/jcemediabox/js/mediaobject.js?v=1017"></script>
   <script type="text/javascript" src="/plugins/system/jcemediabox/addons/default.js?v=1017"></script>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
@@ -32,14 +27,31 @@
   <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
   <script type="text/javascript" src="/components/com_rsform/assets/js/script.js"></script>
-  <script type="text/javascript" src="/plugins/system/modalizer/modals/jquery.min.js"></script>
-  <script type="text/javascript" src="/plugins/system/modalizer/modals/colorbox/jquery.colorbox-min.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
   <script type="text/javascript">
 	JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:1,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
-			$j(document).ready(function(){
-				$j('a.modalizer_link,a.modal,a.modalizer').colorbox({});
-				$j('a.modalizer_link_image').colorbox({});
-				$j('a.modalizer_link_external').colorbox({width:'80%',height:'80%',iframe:true});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+			window.addEvent('domready', function() {
+				SqueezeBox.initialize();
+				$$('a.modalizer_link,a.modal,a.modalizer').each(function(el) {
+					el.addEvent('click', function(e) {
+						new Event(e).stop();
+						// fix sizing problem if auto size window is opened before fixed
+						$('sbox-window').setStyle( 'width', '' ).setStyle( 'height', '' );
+						SqueezeBox.fromElement(el);
+						SqueezeBox.setOptions({});
+					});
+				});
 			});
 		
   </script>
@@ -95,8 +107,29 @@ var imageHeaders = [
 
 
 
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1659553-1']);
+  _gaq.push(['_setDomainName', 'ncld.org']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </head>
 <body id="page_bg">
+<!-- KISSInsights widget -->
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/ki.js/34029/6Cg.js" async="true"></script>
+<!-- end KISSInsights widget -->
 	<div class="wrapper">
 		<div id="mainbody">
 			<div id="mainbody-padding">
@@ -111,11 +144,11 @@ var imageHeaders = [
 										<div class="moduletable-mainmenu">
 					<ul class="menu"><li class="parent item2"><a href="/ld-basics"><span>LD Basics</span></a></li><li class="parent item31"><a href="/in-the-home"><span>In the Home</span></a></li><li class="parent item45"><a href="/at-school"><span>At School</span></a></li><li class="parent item64"><a href="/college-aamp-work"><span>College &amp; Work</span></a></li><li class="parent item69"><a href="/on-capitol-hill"><span>On Capitol Hill</span></a></li></ul>		</div>
 			<div class="moduletable-resourcesmenu">
-					<ul class="menu"><li class="item624"><a href="/ld-insights"><span>LD Insights Blog</span></a></li><li class="parent item82"><a href="/publications-a-more"><span>Publications &amp; More</span></a></li><li class="item831"><a href="/resource-locator"><span>Resource Locator</span></a></li><li class="item755"><a href="/age-related-content"><span>Age-Related Content</span></a></li><li class="parent item845"><a href="/ld-talks"><span>LD Talks</span></a></li><li class="item850"><a href="/recursos-en-espanol"><span>Recursos en Español</span></a></li><li class="item93"><a href="/other-ncld-sites"><span>Other NCLD Sites</span></a></li></ul>		</div>
+					<ul class="menu"><li class="item624"><a href="/ld-insights"><span>LD Insights Blog</span></a></li><li class="parent item82"><a href="/checklists-a-more"><span>Checklists &amp; More</span></a></li><li class="item831"><a href="/resource-locator"><span>Resource Locator</span></a></li><li class="item755"><a href="/age-related-content"><span>Age-Related Content</span></a></li><li class="parent item845"><a href="/ld-talks"><span>LD Talks</span></a></li><li class="parent item850"><a href="/recursos-en-espanol"><span>Recursos en Español</span></a></li></ul>		</div>
 			<div class="moduletable-subscribe">
-					<img style="border: 0px none #000000; margin-bottom: 5px;" alt="Subscribe to our Newsletters" src="/images/content/mod_subscribe2.gif" height="59" width="196"> <br> <form method="post" action="https://secure2.convio.net/ncld/site/CRConsAPI?method=create&amp;api_key=ncldopanapi&amp;v=1.0"> <input name="method" id="method" value="create" type="hidden"> <input name="api_key" id="APIKEY" value="ncldopanapi" type="hidden"> <input name="v" id="v" value="1.0" type="hidden"> <input name="redirect" value="http://ncld.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1140" type="hidden"> <input name="login_name" id="login_name" value="auser25765874" type="hidden"> <input name="login_password" id="login_password" value="9O4i5FODIK" type="hidden"> <input name="primary_email" id="email" value="Enter your email" style="height: 14px; width: 109px; font-size: 13px; color: #666; padding: auto 3px; float: left; margin: 0 5px;" onblur="if(this.value=='') this.value='Enter your email';" onfocus="if(this.value=='Enter your email') this.value='';" type="text"><input value="Sign Up" style="margin-top: 1px;" src="/images/content/email_signup.jpg" type="image"> </form>		</div>
+					<img style="border: 0px none #000000; margin-bottom: 5px;" alt="Subscribe to our Newsletters" src="/images/content/mod_subscribe2.gif" height="59" width="196"> <br><form method="post" onsubmit="_gaq.push(['_linkByPost', this]);" action="https://secure2.convio.net/ncld/site/CRConsAPI?method=create&amp;api_key=ncldopanapi&amp;v=1.0"><input name="method" id="method" value="create" type="hidden"> <input name="api_key" id="APIKEY" value="ncldopanapi" type="hidden"> <input name="v" id="v" value="1.0" type="hidden"> <input name="redirect" value="http://ncld.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1140" type="hidden"> <input name="login_name" id="login_name" value="auser25765874" type="hidden"> <input name="login_password" id="login_password" value="9O4i5FODIK" type="hidden"> <input name="primary_email" id="email" value="Enter your email" style="height: 14px; width: 109px; font-size: 13px; color: #666; padding: auto 3px; float: left; margin: 0 5px;" onblur="if(this.value=='') this.value='Enter your email';" onfocus="if(this.value=='Enter your email') this.value='';" type="text"><input value="Sign Up" style="margin-top: 1px;" src="/images/content/email_signup.jpg" type="image"></form>		</div>
 			<div class="moduletable-subscribe">
-					<div align="center"><a target="_blank" title="Watch LD.org on YouTube!" href="http://www.youtube.com/user/NCLD1401"><img style="border-width: 0px;" alt="Watch our YouTube Channel" src="/images/content/youtube_ncld.png" width="43" height="43"> </a><a target="_blank" title="Find LD.org on Facebook!" href="http://www.facebook.com/LD.org"><img style="border-width: 0px;" alt="Find Us on Facebook" src="/images/content/facebook_ncld.png" width="43" height="43"></a> <a target="_blank" title="Follow LD.org on Twitter!" href="http://twitter.com/LDorg"><img style="border-width: 0px;" alt="Follow LD.org on Twitter!" src="/images/content/twitter_ncld.png" width="43" height="43"></a><a target="_blank" title="Subscribe to What's New on LD.org" href="http://feeds.feedburner.com/new-on-ldorg"><img style="border-width: 0px; margin-left: 3px;" alt="Subscribe to What's New on LD.org" src="/images/content/rss_ncld.png" width="43" height="43"></a></div>		</div>
+					<div align="center"><a target="_blank" title="Watch LD.org on YouTube!" href="http://www.youtube.com/user/NCLD1401"><img style="border-width: 0px;" alt="Watch our YouTube Channel" src="/images/content/youtube_ncld.png" height="35" width="35"> </a><a target="_blank" title="Find LD.org on Facebook!" href="http://www.facebook.com/LD.org"><img style="border-width: 0px;" alt="Find Us on Facebook" src="/images/content/facebook_ncld.png" height="35" width="35"></a> <a target="_blank" title="Follow LD.org on Twitter!" href="http://twitter.com/LDorg"><img style="border-width: 0px;" alt="Follow LD.org on Twitter!" src="/images/content/twitter_ncld.png" height="35" width="35"></a><a target="_blank" title="Join Us on Google+" href="https://plus.google.com/b/106610793872834115249/106610793872834115249/posts"><img style="border-width: 0px;" alt="Join Us on Google+" src="/images/content/googleplus.png" height="35" width="35"></a><a target="_blank" title="Subscribe to What's New on LD.org" href="http://feeds.feedburner.com/new-on-ldorg"><img style="border-width: 0px; margin-left: 3px;" alt="Subscribe to What's New on LD.org" src="/images/content/rss_ncld.png" height="35" width="35"></a></div>		</div>
 			<div class="moduletable-poll">
 					<h3>Take Our Poll!</h3>
 					<form action="index.php" method="post" name="form2">
@@ -124,7 +157,7 @@ var imageHeaders = [
 <thead>
 	<tr>
 		<td style="font-weight: bold;">
-			Professionals say that my child		</td>
+			During the upcoming summer months, I want my child to: 		</td>
 	</tr>
 </thead>
 	<tbody><tr>
@@ -132,47 +165,47 @@ var imageHeaders = [
 			<table class="pollstableborder-poll" cellspacing="0" cellpadding="0" border="0">
 							<tbody><tr>
 					<td class="sectiontableentry2-poll" valign="top">
-						<input type="radio" name="voteid" id="voteid493" value="493" alt="493">
+						<input type="radio" name="voteid" id="voteid649" value="649" alt="649">
 					</td>
 					<td class="sectiontableentry2-poll" valign="top">
-						<label for="voteid493">
-							Has a learning disability.						</label>
+						<label for="voteid649">
+							take a break from school work						</label>
 					</td>
 				</tr>
 											<tr>
 					<td class="sectiontableentry1-poll" valign="top">
-						<input type="radio" name="voteid" id="voteid494" value="494" alt="494">
+						<input type="radio" name="voteid" id="voteid650" value="650" alt="650">
 					</td>
 					<td class="sectiontableentry1-poll" valign="top">
-						<label for="voteid494">
-							Has AD/HD.						</label>
+						<label for="voteid650">
+							continue to practice reading and writing skills (in fun ways)						</label>
 					</td>
 				</tr>
 											<tr>
 					<td class="sectiontableentry2-poll" valign="top">
-						<input type="radio" name="voteid" id="voteid495" value="495" alt="495">
+						<input type="radio" name="voteid" id="voteid651" value="651" alt="651">
 					</td>
 					<td class="sectiontableentry2-poll" valign="top">
-						<label for="voteid495">
-							Is gifted and talented.						</label>
+						<label for="voteid651">
+							get a job or do volunteer work 						</label>
 					</td>
 				</tr>
 											<tr>
 					<td class="sectiontableentry1-poll" valign="top">
-						<input type="radio" name="voteid" id="voteid496" value="496" alt="496">
+						<input type="radio" name="voteid" id="voteid652" value="652" alt="652">
 					</td>
 					<td class="sectiontableentry1-poll" valign="top">
-						<label for="voteid496">
-							A combination of the above.						</label>
+						<label for="voteid652">
+							get lots of physical exercise 						</label>
 					</td>
 				</tr>
 											<tr>
 					<td class="sectiontableentry2-poll" valign="top">
-						<input type="radio" name="voteid" id="voteid497" value="497" alt="497">
+						<input type="radio" name="voteid" id="voteid653" value="653" alt="653">
 					</td>
 					<td class="sectiontableentry2-poll" valign="top">
-						<label for="voteid497">
-							None of the above.						</label>
+						<label for="voteid653">
+							make new friends and deepen existing friendships 						</label>
 					</td>
 				</tr>
 										</tbody></table>
@@ -183,7 +216,7 @@ var imageHeaders = [
 			<div>
 				<input type="submit" name="task_button" class="vote_button" value=" ">
 				&nbsp;
-				<input type="button" name="option" class="results_button" value=" " onclick="document.location.href='/component/poll/42-professionals-say-that-my-child'">
+				<input type="button" name="option" class="results_button" value=" " onclick="document.location.href='/component/poll/55-during-the-upcoming-summer-months-i-want-my-child-to-'">
 			</div>
 		</td>
 	</tr>
@@ -191,8 +224,8 @@ var imageHeaders = [
 
 	<input type="hidden" name="option" value="com_poll">
 	<input type="hidden" name="task" value="vote">
-	<input type="hidden" name="id" value="42">
-	<input type="hidden" name="deeedfcfc5b392f86575de7cc396b6b4" value="1"></form>		</div>
+	<input type="hidden" name="id" value="55">
+	<input type="hidden" name="1e8ec87c320cf7a3605b0c90de409f02" value="1"></form>		</div>
 			<div class="moduletable">
 					<table style="text-align: center;" width="120" align="center" border="0" cellpadding="2" cellspacing="0">
 <tbody style="text-align: left;">
@@ -295,13 +328,13 @@ This Privacy Policy describes how NCLD collects and uses information from all en
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy75789 = 'h&#101;lp' + '&#64;';
- addy75789 = addy75789 + 'ncld' + '&#46;' + '&#111;rg';
- document.write( '<a ' + path + '\'' + prefix + addy75789 + suffix + '\'' + attribs + '>' );
- document.write( addy75789 );
+ var addy76997 = 'h&#101;lp' + '&#64;';
+ addy76997 = addy76997 + 'ncld' + '&#46;' + '&#111;rg';
+ document.write( '<a ' + path + '\'' + prefix + addy76997 + suffix + '\'' + attribs + '>' );
+ document.write( addy76997 );
  document.write( '<\/a>' );
  //-->
- </script><a href="mailto:help@ncld.org">help@ncld.org</a> <script language="JavaScript" type="text/javascript">
+ </script><a href="mailto:help@ncld.org">help@ncld.org</a><script language="JavaScript" type="text/javascript">
  <!--
  document.write( '<span style=\'display: none;\'>' );
  //-->
@@ -340,11 +373,11 @@ This Privacy Policy describes how NCLD collects and uses information from all en
 																														<tr valign="top">
 											<td class="article_module">
 														<div class="moduletable">
-					<img src="/images/content/greenwhatsnewstar.jpg" alt="greenwhatsnewstar" width="112" height="27"><br><br> 
+					<img src="/images/content/greenwhatsnewstar.jpg" alt="greenwhatsnewstar" height="27" width="112"><br><br>
 <ul>
-<li><a title="The IEP Team: The Law, the Reality and the Dream" class="jce_file" href="/at-school/your-childs-rights/iep-aamp-504-plan/the-iep-team-the-law-the-reality-and-the-dream">The IEP Team: The Law, the Reality and the Dream &gt;</a></li>
+<li><a title="Congress Needs to Ensure Accessible Materials for College Students with LD" href="/on-capitol-hill/federal-laws-aamp-ld/adaaa-a-section-504/accessible-instructional-materials-in-postsecondary-education-new-recommendations-to-congress">Congress Needs to Ensure Accessible Matierals for College Students with LD &gt;</a></li>
 <li><a title="Choosing a School: An Overview of What Parents Need to Consider" class="jce_file" href="/at-school/general-topics/parentschool-partnership/choosing-a-school-an-overview-of-what-parents-need-to-consider">Choosing a School: What Parents Need to Consider &gt;</a></li>
-<li><a title="New on LD.org" href="/new-on-ldorg">More new articles &amp; resources ›</a> </li>
+<li><a title="New on LD.org" href="/new-on-ldorg">More new articles &amp; resources ›</a></li>
 </ul>
 <ul>
 <li><a href="http://feeds.feedburner.com/new-on-ldorg"><img src="/images/stories/rss-icon-orange.jpg" alt="subscribe" style="margin-right: 5px; border: 0px;" align="left"><span>Subscribe</span></a></li>
@@ -375,7 +408,7 @@ This Privacy Policy describes how NCLD collects and uses information from all en
 						<div class="moduletable">
 					<a href="/privacy-policy/108"><strong>LD.org</strong></a> is a program of the National Center for Learning Disabilities, Inc.<br>		</div>
 			<div class="moduletable-footermenu">
-					<ul class="menu"><li class="item114"><span class="separator"><span>© 2011 The National Center for Learning Disabilities, Inc.</span></span></li><li id="current" class="active item115"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item116"><a href="/sitemap"><span>Sitemap</span></a></li></ul>		</div>
+					<ul class="menu"><li class="item114"><span class="separator"><span>© 2012 The National Center for Learning Disabilities, Inc.</span></span></li><li id="current" class="active item115"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item116"><a href="/sitemap"><span>Sitemap</span></a></li></ul>		</div>
 			<div class="moduletable-bottom">
 					Our online resources for parents, educators and individuals with learning disabilities are made possible through the contributions of thousands of individuals, as well as the following foundations:<br><strong>Oak Foundation, Robert Wood Johnson Foundation and Emily Hall Tremaine Foundation</strong>.<br><br> The National Center for Learning Disabilities, Inc., is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. All contributions are tax-deductible to the extent permitted by law.		</div>
 	
@@ -383,15 +416,14 @@ This Privacy Policy describes how NCLD collects and uses information from all en
 		</div>
 		
 	</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1659553-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+<!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=154326; 
+var hs_salog_version = "2.00";
+var hs_ppa = "ncld.app12.hubspot.com";
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ncld.app12.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
 
 
 </body></html>
