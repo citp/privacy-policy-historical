@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122126id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613233933id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
 
 # Crowdtap - Where Consumers and Brands Collaborate
 
-**Crowdtap LLC** (“Crowdtap”, “Company”, “we” or “us”), the operator of this web site, is committed to preserving the privacy of those who visit our www.crowdtap.com website (“Site”). Crowdtap has created this Privacy Policy in order to demonstrate our firm commitment to helping you better understand what information we collect about you and what may happen to that information during your visit to the Site. This Privacy Policy applies solely to information collected at this Site. By using or accessing the Site, you signify your assent to our Privacy Policy. **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.**
+**Crowdtap, Inc.**  (“Crowdtap”, “Company”, “we” or “us”), the operator of this web site, is committed to preserving the privacy of those who visit our www.crowdtap.com website (“Site”). Crowdtap has created this Privacy Policy in order to demonstrate our firm commitment to helping you better understand what information we collect about you and what may happen to that information during your visit to the Site. This Privacy Policy applies solely to information collected at this Site. By using or accessing the Site, you signify your assent to our Privacy Policy. **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.**
 
 ## Information Collected
 
@@ -97,7 +97,4 @@ New York, NY 1003
 EMAIL   
 help@crowdtap.com
 
-PHONE   
-(646) 535-9490
-
-Effective Date: This privacy policy is effective and was last updated on May 14th, 2010. 
+Effective Date: This privacy policy is effective and was last updated on February 20th, 2012. 
