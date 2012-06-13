@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143557id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171614id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
 
 # GO Markets - Foreign Exchange (forex) Trading - Privacy Policy
 
