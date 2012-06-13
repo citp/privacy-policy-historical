@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmettraveller.com.au privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121204643id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmettraveller.com.au privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614014455id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
@@ -35,7 +35,7 @@ This notice provides highlights of the full [Privacy Policy](https://web.archive
 
   * To view and edit your personal information, go to [My Profile](http://membership.ninemsn.com.au/Personalprofile.asp).   
 
-  * To understand your advertising choices, go to [Advertising Choices](https://web.archive.org/web/20111121204643id_/http%3A//help.ninemsn.com.au/support/privacy_full.asp#13). 
+  * To understand your advertising choices, go to [Advertising Choices](https://web.archive.org/web/20120614014455id_/http%3A//help.ninemsn.com.au/support/privacy_full.asp#13). 
 
 
 
