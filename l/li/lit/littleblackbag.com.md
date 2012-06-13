@@ -1,0 +1,137 @@
+> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171923id_/http%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
+
+# Little Black Bag | Privacy
+
+Effective Date: January 17, 2012
+
+Little Black Bag, Inc. ("LBB," "we" or "us") has implemented this Privacy Policy ("Privacy Policy") for its website located at www.littleblackbag.com (the "Website") to provide our members (collectively "Members" or "you") and other users and visitors of the Website (collectively "Users" or "you") information regarding the collection and use of your information on the Website, so that you can make an informed decision about your use of the Website.
+
+**The Information We Collect**
+
+1\. _Personal Information_ : We'll ask you to provide certain information if you choose to register with LBB as a Member or otherwise request products, services, or information from us, including your name, email address and your date of birth, address, and other information that identifies you either directly or indirectly (collectively "Personal Information"). You can also import your Personal Information from a third party to make the LBB registration process easier.
+
+You may also provide Personal Information within your profile on the Website to tell others about yourself, or when taking advantage of promotions, responding to surveys, or subscribing to newsletters or other lists.
+
+Our Website may offer its users the opportunity to post reviews, comments, Newsfeed items, use bulletin board blogs and chat rooms, and tag messages. If you choose to use these features, you should be aware that any Personal Information you submit through these features can be read, collected, or used by other viewers of these forums and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums.
+
+When you register as a Member on the Website using your Facebook username and password, you provide access us to your basic Facebook profile information. Only the information from your Facebook profile that you specifically grant us permission to view during the registration process will be available to us. The authentication of your Facebook login credentials, however, will be conducted through Facebook alone and not by us or through our Website. We do not have access to your Facebook login credentials at any time.
+
+2\. _Anonymous Information_ : 
+
+a. _Cookies_. LBB uses cookies to collect information for record keeping purposes and make it easier to navigate the Website. Cookies are small text files that are stored on users’ hard drives. We will not use cookies to collect Personal Information without getting your permission. LBB uses both “session ID cookies” and “persistent cookies.” Session ID cookies are used to store information while a user is logged into the Website and expire when the user closes his/her browser. Persistent cookies are used to make tasks like logging into the site easier for returning users by remembering a user's login information. Persistent cookies stay on a user’s hard drive from one session to the next.
+
+You may choose not to receive cookies from LBB by following instructions in your web browser's "help" file, but this may make certain features of the Website inaccessible to you.
+
+b. _Clear GIFs/Beacons_. When visiting our Website, we may also use “Clear GIFs” (aka “web beacons” or “pixel tags”) or similar technologies in our Website and/or in our communications with you. A Clear GIF is typically a one-pixel, transparent image located on a web page or in an e-mail or other type of message, that helps us to verify an individual’s viewing or receipt of a web page or message. Clear GIFs allow us to know whether you have viewed a web page prior to visiting our Website and may enable us to relate such information to other information, including your Personal Information. We use information provided from Clear GIFs to enable more accurate reporting, improve the effectiveness of our marketing, and make our Website better for our users.
+
+c. _IP Address and Clickstream Data_. LBB also collects Members’ and Users’ IP addresses and basic log file information (such as address, browser type and language, number of clicks, domain names of web sites visited, pages viewed, the amount of time spent on particular pages, and the date and time) to help locate potential problems with our server and to aggregate general user statistics including demographic and geographical information. We use this information to analyze general usage patterns, and to provide advertisements and other services appropriate to the user’s location. LBB may aggregate user information in a non-personally identifiable manner to share with advertisers and to enhance the Website with new features.
+
+3\. _Content Posted_
+
+a. _Public Content_. You can contribute to the Website in a number of different ways, including writing reviews, uploading photos, participating in talk threads, filling out your public profile, and voting on other users’ contributions. We may store these contributions (your “Public Content”), display them to other users, and use them for promotional purposes. Note that if you include Personal Information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.
+
+b. _Sharing Public Content with Third Party Services_. We allow you to access third party services, such as Facebook and Twitter, to share your selected Public Content with those services, and import information about who you are connected with on those other services so you can connect with them on the Website. You can always opt out on your LBB account page.
+
+**Collection of Your Information by Third-Parties**
+
+When you provide information to us on a third-party site or platform (for example, via Facebook), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this Privacy Policy and the information the third-party site or platform collects is subject to the third-party site or platform's privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our Website.
+
+We may from time to time supplement information you give us with information from other sources, such as information to validate or update your address, payment card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to enable us to fulfill our products and services, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes. Local law may require that you authorize the third-party to share your information with us before we can acquire it.
+
+**Online Tracking and Advertising**
+
+We, and certain service providers operating on our behalf or with whom we may partner or affiliate, may collect and store information about your activity on our Website or our social networking pages on third-party sites or platforms (“Social Networking Pages”) using tracking technologies, such as cookies, Flash cookies, and web beacons. This tracking data may be used for many purposes, including to provide useful features to simplify your experience when you use our Website and Social Networking Pages, remember your shipping information for future purchases, deliver relevant content based on your preferences, usage patterns and location, monitor and evaluate the use and operation of our Website and Social Networking Pages, analyze traffic on our Website and Social Networking Pages, and provide other services relating to web page activity and internet usage. We may associate this tracking data with your Account with LBB, in which case, we will treat it as personal information. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online.
+
+We may also allow advertisers and third parties to collect information about your activity on our Website and Social Networking Pages using tracking technologies, for example, such as Google Analytics. Tracking data collected by these advertisers and third parties may be used to decide which ads you see both on our Website and Social Networking Pages and on third-party sites and applications, but does not identify you personally and is not associated with your LBB Account. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers by clicking [here](http://www.aboutads.info/).
+
+Examples of online tracking technologies include:
+
+• Cookies. Cookies are pieces of information that a website places on the hard drive of your computer when you visit the website. Cookies may involve the transmission of information from us to you and from you directly to us, to another party on our behalf, or to another party in accordance with its Privacy Policy. We may use cookies to bring together information we collect about you. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your guest experience more efficient and some of our services will not function properly.
+
+• Flash cookies. We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our Website to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you disable Flash cookies, you won't have access to many features that make your guest experience more efficient and some of our services will not function properly.
+
+• Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its Privacy Policy. We may use web beacons to bring together information we collect about you.
+
+**How We Use Your Information**
+
+1\. _Personal Information_. If you submit Personal Information to us through the Website, including registration and profile information, then we use this information to operate, maintain, and provide the features and functionality of the Website, personalize content and experiences on the Website, optimize or improve our operations, and detect, investigate and prevent activities that may violate our policies or be illegal. LBB will use your email address to complete the signup process. By providing LBB your email address, you consent to our using the email address to send you service-related notices, including among other things notices required by law, in lieu of postal mail. We may also use your email address to send you other messages, including regarding changes to Website features or to Website policies and special offers and promotions. If you do not want to receive email messages relating to offers from us or third parties, you may opt out by changing your account settings.
+
+2\. _Anonymous Information_. We use non-Personal Information, such as anonymous Website use data and IP addresses, to improve the quality and design of the Website and to create new features and services by storing, tracking, and analyzing your preferences and trends. We may use such information to: (a) remember information so that you will not have to re-enter it during your current or subsequent visits to the Website; (b) provide customized content and information; (c) monitor the effectiveness of our marketing campaigns and aggregate metrics such as total number of visitors and traffic; (d) diagnose or fix technology problems; (e) access your information after you sign in; (f) market our Website to advertisers and other third parties; (g) aggregate general User and Member statistics including demographic and geographic information; and (h) other purposes for which your personal identity is not revealed.
+
+3\. _Posted Information_. Any information or Content that you voluntarily disclose for posting to public areas of the Website (for instance, in your Newsfeed, in a forum or by commenting on a blog post) becomes available to the public.
+
+4\. _Information Available to Members and Communications with Other Members_. Our Website allows users to communicate with each other. A key feature of our Website, for example, allows Members to trade products contained in the Member’s Little Bag Bag with other Members. In order to facilitate such communication, the Website may allow all of its registered Members to view each others’ name and general geographic location (e.g. city of residence). Other Members may also see your bids, items for trade, ratings and associated comments connected to your name. 
+
+5\. _Information From Third Party Services_. Some third party services, such as Facebook and Twitter, may also provide us with information from your accounts on such services to enhance and personalize your use of this Website. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on LBB. You can adjust your LBB privacy settings within your LBB account to block this feature, in which case we will delete the information that we receive from your accounts with those other services. You can also further modify your privacy settings with those other services directly. For example, you can adjust your privacy setting on Facebook at https://www.facebook.com/settings to prevent your Facebook friends from sharing information about you from their Facebook accounts with LBB.
+
+6\. _Information Submitted for LittleBlackBag.com Delights Instant Win Game_. Any information that you provide to LBB in connection with your participation as an entrant in the LittleBlackBag Delights Instant Win Game will be governed by the terms of this Privacy Policy and the Official Rules of the LittleBlackBag Delights Instant Win Game, which can be found here(coming soon) (the “Official Rules”). LBB may publish the names of any Instant Winners (as defined in the Official Rules) on the Website, in e-mails to other Members and Users, on social networking pages, and other written and online publications.
+
+**When We Share Information**
+
+LBB will not share your Personal Information with any third party without first obtaining your express permission, except in the limited circumstances set forth below.
+
+The name you use for your account information will be used to identify you on the Website to other Members and Users.
+
+We may use third party service providers to help us operate our business and the Website or administer activities on our behalf, such as sending emails, processing orders, order fulfillment, credit card processing, data processing, and sweepstake administration. These service providers may also have access to your information in connection with their performance of services on behalf of LBB. 
+
+We may provide information, including Personal Information, to our subsidiaries, affiliated companies, subcontractors, and service providers so such parties can, among other things (a) perform services and/or process such information on our behalf (including, without limitation, credit card processing services), (b) use the information to offer greater functionality and enhanced services through the Website, and provide you with additional product and service opportunities, and (c) communicate these opportunities to you. When we do this, the recipients of your information are bound by the terms of this Privacy Policy.
+
+We share non-Personal Information (such as anonymous Website use data) with third-parties to assist them in understanding our Website, including Users’ and Members’ use of our Website and the services we provide and the success of advertisements and promotions.
+
+We may release your information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state or federal laws or respond to a court order, subpoena, law enforcement or regulatory request, or search warrant. We reserve the right to collect and share any information: (i) in order to investigate, prevent, or take action regarding suspected or actual illegal activities; (ii) as appropriate or necessary to enforce our Terms of Use or investigate potential or actual violations of the Terms of Use or Privacy Policy; (iii) take precautions against liability; (iv) to protect the security, safety, or integrity of our Website, Members, or Users; or (v) to exercise or protect the rights, property, or the rights and personal safety of LBB affiliates, Members, Users or others.
+
+We may assign or transfer the information we collect from you to a third party in the event that LBB is acquired by or merged with a third party entity, or due to our bankruptcy, insolvency, reorganization, receivership, or similar situation. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided through this Website in a manner that is consistent with this Privacy Policy.
+
+**Information Collected by Third Parties**
+
+Third-party ad servers or ad networks may serve advertisements on the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+LBB does not provide any Personal Information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks LBB to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The LBB Privacy Policy does not apply to, and we cannot control the activities of, such advertisers. Some of the third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+
+**Our Commitment To Children’s Privacy**
+
+Protecting the privacy of young children is extremely important and is mandated by U.S. law. The Website is a general audience site, and we restrict the use of our Website to individuals age 18 and above. We do not knowingly collect the Personal Information of individuals under 18 years of age. If you are under 18 years of age, you should not register or provide Personal Information on the Website. If we later obtain actual knowledge that a Member or User is under 18 years of age, we will take steps to remove that Member’s or User’s Personal Information from our systems.
+
+**International Members and Users**
+
+The Website is hosted in the United States and is intended for and directed to Members and Users in the United States. The Website and services provided within the Website are void where prohibited. If you are accessing the Website from outside the United States, your use of the Website is governed by U.S. law, you are transferring your Personal Information to the United States, you consent to that transfer, and you understand that U.S. law may require our disclosure of your Personal Information to U.S. governmental authorities.
+
+**Your Controls and Choices**
+
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices are set forth below.
+
+Personal InformationYou may update or correctyour Personal Information by using your account settings. You may request that LBB remove other Personal Information from the current Website by contacting us at [help@littleblackbag.com](mailto:help@littleblackbag.com) with the understanding that LBB may maintain an archive of the information you request to be removed from the Website. You may also change your account preferences on the Website, including whether you wish to receive offers and promotions. 
+
+To protect your privacy and security, we take reasonable steps (such as requesting a password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your password and account information at all times. Certain features on our Website may allow you to share your information with others by publicly posting that information on the Website and/or sharing that information by other external communication methods including (without limitation) email, Facebook or Twitter. You are responsible for what information, if any, you choose to share by external communication methods. To the extent that you choose to share any such information by or through external communication methods, it is no longer considered Personal Information and is not covered by this Privacy Policy.
+
+You may exercise your controls and choices, request access to your Personal Information, or send any questions you have regarding the specific Personal Information about you that we process or retain, by contacting us at [help@littleblackbag.com](mailto:help@littleblackbag.com) or 2332 Cotner Avenue, Suite 201, Los Angeles, CA 90064 or following instructions provided in communications sent to you by LBB.
+
+**Our Commitment To Data Security**
+
+We implement security measures to protect against the loss, misuse and alteration of information under our control. However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your Personal Information, and your use of the Website indicates that you are willing to assume this risk.
+
+**Compromise of Personal Information**
+
+In the event that Personal Information is compromised as a result of a breach of security, LBB will promptly notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+**Notification Procedures**
+
+It is LBB’s policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to Members and Users via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by LBB in its sole discretion. LBB reserves the right to determine the form and means of providing notifications to our Members and Users, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+**Sale or Transfer of Business or Assets**
+
+If we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, Personal Information of our Members and Users may be one of the assets sold or merged in connection with that transaction. Information about our Members and Users may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding. In such transactions, Personal Information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained.
+
+**Your California Privacy Rights**
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address set forth below. Please allow 30 days for a response.
+
+**Changes to This Privacy Policy**
+
+From time to time, we may change this Privacy Policy to accommodate new technologies, industry practices, regulatory requirements, LBB procedures, or for other purposes. Those changes will be available for your review on most pages of the Website that you view and on our web page located at http://www.littleblackbag.com/privacy. When required by applicable law, we will obtain your consent to any such changes. Changes to this Privacy Policy will be reflected in the “effective date” above. Your continued use of the Website after any such changes have been made will signify your assent to the changed Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version.
+
+**Contact Information**
+
+Please contact us at [help@littleblackbag.com](mailto:help@littleblackbag.com) or 2332 Cotner Avenue, Suite 201, Los Angeles, CA 90064 with any questions or comments about this Privacy Policy or the Website.
