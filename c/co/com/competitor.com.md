@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205092716id_/http%3A//competitor.com/privacy-policy/%3Futm-medium%3Dcgifootnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613215507id_/http%3A//running.competitor.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Competitor.com
+# Competitor Group, Inc. Privacy Policy
 
 Your privacy and security are important to Competitor Group, Inc. (“Competitor Group”). This privacy statement demonstrates our firm commitment to privacy. This privacy statement discloses the information we gather and how we use it. Any questions concerning this statement should be directed to [customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com).
 
@@ -10,7 +10,7 @@ Our websites automatically recognize the consumer’s IP address, aggregate info
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and used by us to contact consumers for marketing purposes. We may also use your IP address to administer our web sites, and to help diagnose problems with our servers.
 
-Our websites contain links to other web sites. Competitor Group is not responsible for the privacy practices or the content of such websites. This site  also uses Tynt (http://tynt.com) link-building service, which is cookie-free and captures no personal data.
+Our websites contain links to other web sites. Competitor Group is not responsible for the privacy practices or the content of such websites. This site also uses Tynt (http://tynt.com) link-building service, which is cookie-free and captures no personal data.
 
 If you register for a Competitor Group event, you will be asked to register for a free ID and password and to provide information on event registration forms. Unique identifiers, such as IDs and passwords, are collected to verify your identity and for use as account numbers in our record system. Your contact information may also be used to contact you when necessary for customer service reasons. Financial information that is collected is used only to bill you for products and services that you specifically request. Your contact information may also be used to provide you with important race updates.
 
