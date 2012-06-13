@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovethaipussy.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211011252id_/http%3A//ilovethaipussy.com/tour2/index.php%3Fsection%3D632%26nats%3DMDowOjc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovethaipussy.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175921id_/http%3A//ilovethaipussy.com/tour2/index.php%3Fsection%3D632%26nats%3DMDowOjc) for the most accurate reproduction.*
 
 # I LOVE THAI PUSSY | Amateur Bareback Thai Hardcore Porn
 
