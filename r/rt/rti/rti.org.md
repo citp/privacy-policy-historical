@@ -1,67 +1,56 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214230755id_/http%3A//rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613191508id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - RTI International
 
-The commitment of RTI International (RTI) to the protection of your information is summarized by the following principles.
+This privacy policy applies to transactions and activities in which you engage ("Transactions") and to data you gather on this site (the "Site"). It does not apply to any other website or offline point of contact between you and RTI. By visiting our Site, you are accepting the practices described in the privacy policy in effect at the time of your visit.
 
-###  Guiding Principles
+##  Guiding Principles
 
-We will not obtain personally identifying information about you when you visit our Site, unless you choose to provide such information to us.
+The commitment of RTI International to the protection of your information is summarized by the following principles:
 
-We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](http://www.rti.org/terms.cfm) page).
+  * We will not obtain personally identifying information about you when you visit our Site, unless you choose to provide such information to us.
+  * We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](http://www.rti.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
 
-###  Google Analytics
 
-We are using Google Analytics ("GA") as our website usage and analysis tool and do convey to their web service the information indicated below. We do not provide any personally identifying information to GA. If you do not wish for your usage statistics to be sent to GA, please use the following form to set a cookie on your browser to let our website know that you wish your usage to be kept private. Our web server will continue to log all traffic to this site but your usage will not be included in our GA analysis reports. You will need to reset this form if you restart or clear your cookies from your browser.
 
-###  Application of this Privacy Policy
+  
+The following sections provide more detail on how RTI will handle information obtained about your visit to this Site. The information we receive depends on what you do when visiting our Site.
 
-This privacy policy only applies to transactions and activities in which you engage ("Transactions") and to data you gather on the RTI external Web site (the "Site") and does not apply to any other Web site or offline point of contact between you and RTI. Please review this privacy policy periodically as we may modify it from time to time.  By visiting our Site, you are accepting the practices described in the privacy policy in effect at that time. This privacy policy was last revised on 7/23/2008.
-
-The following sections provide more detail on how RTI will handle information we learn about you from your visit to this Site. The information we receive depends upon what you do when visiting our site.
-
-###  If you visit this Site to read or download information
+##  If You Visit This Site to Read or Download Information
 
 We collect and store only the following information about you:
 
-  * the name of the domain you are using to access the Internet (for example, asdf.com, if you are connecting from an ASDF online account, or ncsu.edu if you are connecting from N.C. State University's domain)
-  * the date and time you access our Site
-  * the Internet address of the Web site from which you linked directly to our Site
-  * the type of Web browser you are using
-  * what information you view while visiting our Site
+  * Name of the domain you used to access the Internet (e.g., asdf.com, ncsu.edu, nih.gov)
+  * Date and time you accessed our Site
+  * Internet address of the website from which you linked directly to our Site
+  * Type of web browser you used
+  * Information you viewed while visiting our Site
 
 
 
-We use the information we collect to measure the number of visitors to the different sections of our Site, find out what information is most viewed, and to help us make our Site more useful to visitors.
+  
+We use this information to measure the number of visitors to the different sections of our Site, find out what information is most viewed, and to help us make our Site more useful to visitors.
 
-The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](http://www.rti.org/terms.cfm) page).
+The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](http://www.rti.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
 
-###  If you decide to provide identifying information about yourself
+##  If You Decide to Provide Iidentifying Information About Yourself
 
-You may decide to provide us personally identifying information for reasons such as
+We may require you to provide us some personally identifying information if you choose to engage in such activities as
 
-  * Registering for an event or to receive a newsletter
-  * To have information sent to you
-  * To access restricted information on our Site
-
+  * Requesting information from us
+  * Commenting on a post
 
 
-In each case, we will let you know what type of information we need. This personal information will be stored in our database and will only be used to provide the service you have requested. As stated earlier, we will not share this information with any third party, except if required by law.
 
-###  Cookies and other information stored on your computer
+  
+In each case, the type of information needed to fulfill your request will be specified in a form on our Site, and typically includes only name and email. This personal information will be stored in our database and will only be used to provide the service you have requested. As stated earlier, we will not share this information with any third party, except if required by law.
 
-Cookies are essentially tokens of information, such as preferences and passwords, which some Web servers collect from you when you access them. That data is stored on your hard drive, not on the Web site's server. Whenever you visit a "cookie" site, the server looks for its cookie on your hard drive and, if found, then reads the information it stored there. Cookies generally are stored in your browser's directory or folder in a file named cookie.txt (MagicCookie on a Macintosh).
+##  Cookies and Other Information Stored on Your Computer
 
-This Site sets persistent "cookies" only to tailor the Site to user-selected preferences such as displaying the Site in a version designed for the visually impaired. We do not use persistent cookies to collect or store personally identifiable information. This Site uses session cookies to help reduce the amount of information you will have to re-enter when entering data into forms. We also use session cookies to manage and balance Web traffic among RTI Web servers and to maintain session state information as you navigate through this Site. The session cookies are stored only in the volatile memory of your computer, and expire automatically when you close your Web browser or otherwise end your browser process.
+Cookies are essentially tokens of information, such as preferences and passwords, which some web servers collect when you access them. The data are stored on your hard drive, not on the website's server. Whenever you visit a "cookie" site, the server looks for its cookie on your hard drive and, if found, reads the information stored. Cookies are typically stored in your browser's directory or folder in a file named cookie.txt (MagicCookie on a Macintosh).
 
-###  For More Information
+This Site sets persistent "cookies" only to tailor the Site to user-selected preferences such as displaying the Site in a version designed for the visually impaired. We do not use persistent cookies to collect or store personally identifiable information. This Site uses session cookies to help reduce the amount of information you will have to re-enter when entering data into forms. We also use session cookies to manage and balance web traffic among RTI web servers and to maintain session state information as you navigate through this Site. Session cookies are stored only in the volatile memory of your computer, and expire automatically when you close your browser or otherwise end your browser process.
 
-If you have any questions or comments about the information presented here, please contact RTI at the address or phone or email address listed below.
+##  Security
 
-RTI Webmaster  
-Office of Communications  
-3040 Cornwallis Road  
-P.O. Box 12194  
-Research Triangle Park, NC 27709-2194 USA  
-Telephone: +1 (919) 541-6000  
-E-mail: webmaster@rti.org
+We use what we believe to be commercially reasonable security procedures to protect personally identifiable information that you provide to us. While we consider these procedures to be adequate, no method of transmission over the Internet, or method of storage, is completely secure. Therefore, there is still a risk that your personally identifiable information could be misappropriated and we cannot guarantee its absolute security.
