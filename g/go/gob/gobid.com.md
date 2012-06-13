@@ -1,80 +1,71 @@
-> *The following text is extracted and transformed from the gobid.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413122947id_/http%3A//www.gobid.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobid.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613204321id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | gobid.com
+# Share Tickets | unseat.me
 
-Privacy Policy  
-GoBid.com respects your privacy. This Policy informs you of our privacy practices, and of the options you have with regard to how your personal information is collected and used.  
-GoBid.com (“GoBid” or “We”) self-certifies the privacy policies described below in accordance with the U.S.-E.U. Safe Harbor principles, specifically, Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement.   
-More information about the U.S. Department of Commerce’s Safe Harbor Program can be found at <http://www.export.gov/safeharbor> .
+## Privacy Policy
 
-  I. Application.
+Protecting your private information is our priority. This Statement of Privacy applies to the unseat.me and unseat.me, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to unseat.me, Inc. include unseat.me, unseat.me, unseatme.com and unseatme.com. The unseat.me website is a Social Network site. By using the unseat.me website, you consent to the data practices described in this statement.
 
-  This Privacy Policy applies to all websites owned or used by GoBid (“GoBid’s Websites”), as well as all Web-based transactions in which GoBid collects Personal Information (as defined below) from its customers. 
+### Collection of your Personal Information
 
-  This Policy applies to all Personal Information received by GoBid in any format including electronic, paper or verbal.  GoBid will not sell or share this information with third parties in ways different than what is disclosed in this Privacy Policy. On a global basis, GoBid will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy.
+unseat.me may collect personally identifiable information, such as your name. If you purchase unseat.me's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. unseat.me may also collect anonymous demographic information, which is not unique to you, such as your age. We may gather additional personal or non-personal information in the future.
 
-  Please note, GoBid’s Websites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave GoBid’s Website and be re-directed to a third party site. GoBid does not control those sites or the privacy practices of those third party sites, which may differ from GoBid’s privacy practices.  We do not endorse or make any representations about third party websites, and the personal data you choose to provide to third party websites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any website or company before submitting your personal information to them.
+Information about your computer hardware and software may be automatically collected by unseat.me. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the unseat.me website.
 
-  II. Scope; Usage.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through unseat.me's public message boards, this information may be collected and used by others.
 
-  Collection of Personal Information
+unseat.me encourages you to review the privacy statements of websites you choose to link to from unseat.me so that you can understand how those websites collect, use and share your information. unseat.me is not responsible for the privacy statements or other content on websites outside of the unseat.me website.
 
-  For the purposes of this Policy, “Personal Information” means any information that identifies, or could be used by or on behalf of GoBid to identify, an individual. Personal Information does not include information that is encoded, nor does it include publicly available information that has not been combined with non-public Personal Information.
+### Use of your Personal Information
 
-  In order to provide you with the highest level of service, we ask that you voluntarily provide us with certain Personal Information about yourself. Your Personal Information includes your first and last name, your physical address, your email address, and information relating to your activities (e.g., purchasing activities, shipping address, etc.) at our website.
+unseat.me collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-  GoBid also collects information from commercially available sources that it deems credible. Such information may include your name, address, email address and demographic data. The information GoBid collects from these commercial sources may be combined and cross-referenced with the information you provide to GoBid. 
+unseat.me may also use your personally identifiable information to inform you of other products or services available from unseat.me and its affiliates. unseat.me may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-    Use of Your Personal Information
+unseat.me does not sell, rent or lease its customer lists to third parties.
 
-  We use your Personal Information to provide you with the auction and product services at our website. We also may use your Personal Information to assist you in completing a transaction, or to communicate with you about or products or services. 
+unseat.me may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. unseat.me may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to unseat.me, and they are required to maintain the confidentiality of your information.
 
-  We may disclose your Personal Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+unseat.me may keep track of the websites and pages our users visit within unseat.me, in order to determine what unseat.me services are the most popular. This data is used to deliver customized content and advertising within unseat.me to customers whose behavior indicates that they are interested in a particular subject area.
 
-  In addition, we may use your Personal Information in the aggregate to determine our customers' demographics and preferences. By doing so, we are able to deliver targeted advertisements on our website which you may find to be helpful and informative. 
+unseat.me will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on unseat.me or the site; (b) protect and defend the rights or property of unseat.me; and, (c) act under exigent circumstances to protect the personal safety of users of unseat.me, or the public.
 
-  Other than as stated in this Privacy Policy, we will not release your Personal Information to unknown or unaffiliated third parties, and we will not cross-reference your Personal Information with that of any other customer or entity.
+### Use of Cookies
 
-      Sharing of Your Personal Information
+The unseat.me website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-  On occasion, we may hire third parties to perform certain functions on our behalf. Examples include fulfilling orders, delivering packages, removing repetitive information from our customer lists, analyzing data, providing marketing assistance, and providing customer service. These third parties have access to your Personal Information to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements before any information is provided to them, and they are restricted from using the information for other purposes.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize unseat.me pages, or register with unseat.me site or services, a cookie helps unseat.me to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same unseat.me website, the information you previously provided can be retrieved, so you can easily use the unseat.me features that you customized.
 
-  Where GoBid has knowledge that one of GoBid’s employees or agents is using or disclosing Personal Information in a manner contrary to this Policy, GoBid will take reasonable steps to prevent or stop the use or disclosure. GoBid holds its employees and agents accountable for maintaining the trust that our customers place in our company.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the unseat.me services or websites you visit.
 
-  Also, in the unlikely event that GoBid, or substantially all of GoBid’s assets are acquired, your Personal Information may be one of the transferred assets. It is GoBid’s practice to seek appropriate protection for information in these types of transactions. 
+### Security of your Personal Information
 
-    Your Choices
+unseat.me secures your personal information from unauthorized access, use or disclosure.
 
-  You will have the option to opt-out of any uses of Your Personal Information in which your Personal Information would be disclosed to a non-agent third party, or where such information would be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by you. GoBid will provide you with reasonable “opt out” mechanisms to exercise your choice before GoBid discloses any information as described in the paragraph. 
+### Children Under Thirteen
 
-    Accuracy & Access
+unseat.me does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-  GoBid will take reasonable steps to ensure that you Personal Information is relevant accurate, complete and current, to its intended use.  We provide individuals with reasonable access to personal information that they provided to us, as well as the ability to review and correct such information, as applicable.
+### Opt-Out & Unsubscribe
 
-  To protect your privacy and security, we also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your Personal Information. To view and change the Personal Information that you directly provided to us, you can return to the Web page where you originally submitted your data and follow the instructions on that Web page, or contact GoBid’s Privacy Officer as indicated below. 
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from unseat.me by contacting us using the contact information provided below.
 
-  In addition, we may limit or deny access to Personal Information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Safe Harbor Agreement. In some circumstances, we may charge a reasonable fee, where warranted, for access to Personal Information.
+### Changes to this Statement
 
-  Security
+unseat.me will occasionally update this Statement of Privacy to reflect company and customer feedback. unseat.me encourages you to periodically review this Statement to be informed of how unseat.me is protecting your information.
 
-  To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of your Personal Information, we utilize physical, technical and administrative procedures to safeguard the information we collect.
+### Contact Information
 
-  Among other things, we use Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data, such as credit card information. SSL encryption is designed to make the information unreadable by anyone but us. This security measure is working when you see the symbol of either an unbroken key or a closed lock (depending on your browser) at the bottom of your browser window.
+unseat.me welcomes your questions or comments regarding this Statement of Privacy. If you believe that unseat.me has not adhered to this Statement, please contact unseat.me at:
 
-  We also use firewalls and restricted access methods to ensure the security of the information we collect. We limit access to your Personal Information and data to those persons in GoBid, or as agents of GoBid, that have a specific business purpose for maintaining and processing such information. GoBid’s employees who have been granted physical access to your Personal Information will be made aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so.
+unseat.me, Inc.  
+2130 Fillmore Street #212  
+San Francisco, California 94115
 
-  Contact for Privacy Issues
+Email Address:  
+help@unseatme.com
 
-  GoBid’s designated contact for questions related to our website’s privacy officer is Bradley J. Gross, Esq., c/o Becker & Poliakoff, P.A., 3111 Stirling Road, Fort Lauderdale, Florida 33312, email: [bgross@becker-poliakoff.com](mailto:bgross@becker-poliakoff.com).
+Telephone number:  
+415-287-0662
 
-  **If you have any questions or comments about this Policy, please direct them to the above designated person.**  
-** **  
-III. Dispute Resolution
-
-  GoBid will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between GoBid and the complainant, we have agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities to resolve disputes pursuant to the Safe Harbor Principles. In the event that we or such authorities determine that we did not comply with this policy, we will take appropriate steps to address any adverse effects and to promote future compliance.
-
-  Any person who we determine is in violation of our privacy policies will be subject to disciplinary process.
-
-  IV. Changes to This Privacy Policy
-
-  The practices described in this Policy are the current Personal Information protection policies as of January 1, 2009. GoBid reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate notice will be given concerning such amendments.
+Effective as of 3/1/2011
