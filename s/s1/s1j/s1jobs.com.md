@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616131730id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173546id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ The type of personal information collected on the Site could include your name, 
 
 We collect non-personally identifiable data, known as ‘click-stream data’, across the portfolio of web sites owned by Newsquest (Herald & Times) Ltd. This click stream data is anonymous, and includes information such as IP address, which pages have been visited and what actions have been taken.
 
-We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.
+We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. [Find out more about how we use cookies](https://web.archive.org/cookies/ "Find out more about how we use cookies")
 
 **The way we use information**
 
