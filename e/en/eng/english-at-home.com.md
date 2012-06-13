@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006234818id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613050419id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - english-at-home.com
 
-##  Privacy Policy
+## Privacy Policy
 
 Your privacy is important to us.
 
@@ -23,7 +23,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-  
-
+[](mailto:?subject=Privacy%20Policy&body=)
 
 Comments are closed. Still have a question? Ask in the [Help Me English Q&A](http://my.english-at-home.com/) forum
