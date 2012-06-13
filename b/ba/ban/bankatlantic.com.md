@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213140402id_/http%3A//www.bankatlantic.com/privacyPolicy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613194148id_/http%3A//bankatlantic.com/privacyPolicy/default.html) for the most accurate reproduction.*
 
 # BankAtlantic
 
-This online notice supplements BankAtlantic’s Privacy Policy and is intended to help you understand how we keep non-public information about you secure and confidential. If you have not already done so, we suggest that you review the full text of our [Privacy Policy](https://web.archive.org/Documents/PDF%20Privacy%20Policy%20.pdf).
+This online notice supplements BankAtlantic’s Privacy Policy and is intended to help you understand how we keep non-public information about you secure and confidential. If you have not already done so, we suggest that you review the full text of our [Privacy Policy](https://web.archive.org/Documents/PDF%20Privacy%20Policy.pdf).
 
 To view the Privacy Policy, you will need to use Adobe's Acrobat Reader program. If you do not have Adobe Acrobat Reader installed, click on the Adobe image to download the program for free.| [ ](http://bankatlantic.com/Interstitialpages/default.html?vartag=Microsoft&varurl=http://www.adobe.com/products/acrobat/readstep2.html)   
 ---|---  
@@ -22,7 +22,7 @@ More information about Online Banking, privacy, and information security:
 
 When you register for Online Banking, BankAtlantic will ask you for basic registration information, such as your name, address, social security, existing BankAtlantic account number(s), your city of birth (or business industry), mother's maiden name (or business license number), date of birth (or date founded), contact telephone numbers, a user ID and password which you choose, and an E-mail address for customer service. Additional information may be required to utilize value-added features of Online Banking, such as Funds Transfer, Telephone Banking, and Bill Pay, or to access specific third party Internet services such as BankAtlantic ShareBuilder. If you decide to open an account online, or when completing one of our customer surveys we will also ask you for basic registration information, such as the type of information highlighted above. We will use the above information for providing the services and/or accessing the sites you select on your behalf, monitoring and improving our existing products and services, or for purposes of offering new product and service information of interest to you.
 
-As with most online businesses, BankAtlantic logs information about access to its website, including the IP addresses from which a user came to the site in order to diagnose problems with the server, administer the BankAtlantic.com site, and to aggregate statistical data. BankAtlantic reserves the right to share aggregated information with third parties.  For specific details regarding BankAtlantic's policy on the sharing of information, please refer to our [privacy policy](https://web.archive.org/Documents/PDF%20Privacy%20Policy%20.pdf).
+As with most online businesses, BankAtlantic logs information about access to its website, including the IP addresses from which a user came to the site in order to diagnose problems with the server, administer the BankAtlantic.com site, and to aggregate statistical data. BankAtlantic reserves the right to share aggregated information with third parties.  For specific details regarding BankAtlantic's policy on the sharing of information, please refer to our [privacy policy](https://web.archive.org/Documents/PDF%20Privacy%20Policy.pdf).
 
 Back To Menu.
 
@@ -42,7 +42,7 @@ Back To Menu.
  **Who has access to my personal information?**
 
 Customer data is stored in encrypted format in our Internet Banking database, and is transmitted in that encrypted format within the network. Should you forget your password you will need to call our customer care department toll-free at 1-800-741-1700 so that it may be reset for you.  
-For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our [privacy policy](https://web.archive.org/Documents/PDF%20Privacy%20Policy%20.pdf). For more detailed information on our Security policies, please [click here](https://web.archive.org/SecurityCenter/default.html).
+For specific details regarding BankAtlantic’s policy on the sharing of information, please refer to our [privacy policy](https://web.archive.org/Documents/PDF%20Privacy%20Policy.pdf). For more detailed information on our Security policies, please [click here](https://web.archive.org/SecurityCenter/default.html).
 
  **What if I need to change the personal information I previously disclosed?**
 
