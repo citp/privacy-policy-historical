@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221100746id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613232533id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
@@ -67,17 +67,17 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### Recently discussed
 
-(0 minutes ago)  
-[BSNL](https://web.archive.org/complaints/bsnl-c55485.html)  
-puk code
+(2 hours 40 minutes ago)  
+[godrej mattress](https://web.archive.org/complaints/godrej-mattress-himachal-pradesh-c359736.html)  
+reg.mattress pressed and loosy
 
-(4 minutes ago)  
-[mts data card](https://web.archive.org/complaints/mts-data-card-mumbai-city-maharashtra-c686816.html)  
-Data Card Not Activated after 20 days
+(2 hours 46 minutes ago)  
+[Nokia 500](https://web.archive.org/complaints/nokia-500-raipur-chhattisgarh-c743321.html)  
+problem regarding many applications
 
-(6 minutes ago)  
-[Rediff Bol 8.0](https://web.archive.org/complaints/rediff-bol-80-thane-maharashtra-c418603.html)  
-list of chat rooms of rediff bol is empty
+(3 hours 26 minutes ago)  
+[Sys-Tech Computer](https://web.archive.org/complaints/sys-tech-computer-pune-maharashtra-c704768.html)  
+Does not replacing laptop adapter under warranty
 
 [](http://www.yadsi.in/ "India Classifieds")
 
