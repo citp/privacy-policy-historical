@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201162103id_/http%3A//www.bazaarvoice.com/consumer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613221519id_/http%3A//www.bazaarvoice.com/consumer-privacy-policy) for the most accurate reproduction.*
 
 # Consumer Privacy Policy | Bazaarvoice
 
@@ -35,25 +35,37 @@ We use information collected at various times and by web beacons and cookies pla
 
 The Social Commerce Data that we collect from users includes, for example, a user's browser type and version (e.g., Internet Explorer 7.0, Firefox 3.0, or Safari 3.1.1), and operating system (e.g., Windows Vista or Macintosh OS X). In addition, we may collect information about a user's browsing behavior, such as the date and time they visit the web pages on which we are collecting Social Commerce Data, the content areas or pages of the websites that a user visits (e.g., "Product Overview" or "Product Reviews details page"), and other click-stream data, none of which includes personal information about the user.
 
+Bazaarvoice may collect personally identifiable information like email addresses on an opt-in basis , when a user submits content on our client’s sites, however, this information is not stored with social commerce data, nor is it ever used for online behavioral advertising.
+
 ## Use of Social Commerce Data
 
 We analyze Social Commerce Data collected from various sources and at different times to define segments and to attribute membership within those segments to users to influence the user-generated content and types of marketing messages that are displayed to you.
 
 We also use Social Commerce Data to identify and help prevent fraudulent activity and to provide aggregate statistics for market research and statistical analysis. We are aware of the sensitivity of certain types of data. We do not create or share any segments that reflect Social Commerce Data that we consider sensitive. While the types of Social Commerce Data that may be considered sensitive may vary among users, we presently treat Social Commerce Data as sensitive if it includes data reflecting a user having a medical condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. We may, from time to time, update the types of Social Commerce Data that we consider sensitive.
 
+We may create segments that indicate a user’s interest in fitness or exercise equipment or services, or general health products like vitamins, where creation of such segments does not reflect a user having a specific medical condition.
+
+We may, from time to time, update the types of Social Commerce Data that we consider sensitive.
+
 ## Children
 
-We do not intentionally collect Social Commerce Data from, and do not tailor any segments to, children under 13 years of age.
+We do not intentionally collect Social Commerce Data from, and do not tailor any segments to, children less than 13 years of age.
 
 ## Disclosure of Information
 
 We disclose Social Commerce Data, and information derived from Social Commerce Data, to our clients in the ordinary course of our business. We indicate to our clients a user's membership within a segment at various times. For example, we may tag an anonymous user as a member of a segment when the user views certain web pages that are operated or controlled by a client. Our clients may use a user's membership within a segment to display advertisements and personalized user generated content targeted to the user. Our clients may also use third-party service providers, acting on behalf of those clients, to display advertising or other content that reflects a user's membership in a segment. We do not authorize our clients to resell Social Commerce Data to third parties. Please note that our clients have their own data retention policies.
 
-We may share Social Commerce Data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf.
+Our social commerce data may be combined with anonymous data from third parties to display advertisements and personalized user generated content. 
+
+We may share aggregate Social Commerce Data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf.
 
 We may also disclose Social Commerce Data if we believe that we have a legal obligation to do so.
 
-In addition, information in our possession or control, including Social Commerce Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.
+In addition, information in our possession or control, including aggregate Social Commerce Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.
+
+## Data Retention
+
+Social Commerce Data is not stored in our cookies, and is retained on our servers in its original form for up to six months. User level data may be retained for up to eighteen months before it is aggregated or deleted. Online behavioral data is not stored in the cookie.
 
 ## Data Security
 
@@ -61,9 +73,9 @@ We use security measures that are reasonably designed to protect Preference Data
 
 ## Opting Out
 
-We provide multiple ways for you to opt out of our services. 
+We provide multiple ways for you to opt out of our services.
 
-We make available a Bazaarvoice "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Social Commerce Data on that browser. You can learn more about our opt-out cookie here. By opting out of the Bazaarvoice cookie you are also opting out of targeting and website customization options from Bazaarvoice through some of our clients and third party partners.
+We make available a Bazaarvoice "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Social Commerce Data on that browser. By opting out of the Bazaarvoice cookie you are also opting out of targeting and website customization options from Bazaarvoice through some of our clients and third party partners.
 
 These opt-out tools are cookie-based. Please note that these tools only prevent us from collecting Social Commerce Data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser's cookie files, we will collect Social Commerce Data from that browser until an opt-out cookie is reset on that browser.
 
@@ -73,4 +85,4 @@ Additionally, you may prevent us from collecting Social Commerce Data on a brows
 
 As a consumer, you have the choice to exclude your anonymous social commerce preferences from being collected by Bazaarvoice. To opt out, click the button below:
 
-To opt out of targeting by other companies, visit Advertising Initiative at [www.networkadvertising.org](https://web.archive.org/web/20111201162103id_/http%3A//www.bazaarvoice.com/www.networkadvertising.org). If you change your mind and want to update your online Social Commerce Data preferences, please click here.
+Bazaarvoice is also a member of the Network Advertising Initiative ("NAI"), which allows for the central deletion of it's members' s cookies from a single opt-out page. To find out more and/or opt-out of NAI member cookies, visit the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp). 
