@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitvforum.net privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214200034id_/http%3A//tv.desitvforum.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15235%26Itemid%3D194) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitvforum.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614013923id_/http%3A//tv.desitvforum.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15235%26Itemid%3D194) for the most accurate reproduction.*
 
 # Desitvforum - Watch Online Movies, Tv Serials, Bollywood Videos - Privacy Policy
 
