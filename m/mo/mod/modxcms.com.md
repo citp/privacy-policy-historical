@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the modxcms.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205827id_/http%3A//modx.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modxcms.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172458id_/http%3A//modx.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MODX
 
 #### This is the web site of MODX.
 
-We can be reached by [using our contact form](http://modx.com/about/contact/?subj=privacy) or writing the address in the sidebar.
+We can be reached by [using our contact form](http://modx.com/company/contact/?subj=privacy) or writing the address in the sidebar.
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our forums, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and what actions they take, information volunteered by the consumer, such as survey information and/or site registrations, telephone number, payment information (e.g., credit card number and billing address).
 
 The information we collect is used to improve the content of our Web pages, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-We do not share any personally identifiable information or consumers' private information with third parties. We may share aggregate information of consumer use of our website with third parties.
+We do not share any personally identifiable information or consumers’ private information with third parties. We may share aggregate information of consumer use of our website with third parties.
 
 MODX stores all email, and strives to keep records of all phone calls with customers, Partners and other parties with whom we communicate. We use these records so we can improve our service and products, and so we may have a history of our interactions that can be used for Pre-Sales Support and for Technical Support.
 
@@ -34,8 +34,8 @@ If you feel that this site is not following its stated information policy, you m
 
 ##### Acceptance of MODX Privacy Policy Terms and Conditions
 
-By using modx.com and its affiliated websites* ("MODX websites"), you signify your agreement and understanding of the MODX Privacy Policy. If you do not agree, do not use the website. If we need to change our policy, we will post these changes to this page. 
+By using modx.com and its affiliated websites* (“MODX websites”), you signify your agreement and understanding of the MODX Privacy Policy. If you do not agree, do not use the website. If we need to change our policy, we will post these changes to this page. 
 
-Your continued of of MODX websites following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](http://modx.com/about/contact/?subj=privacy).
+Your continued of of MODX websites following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](http://modx.com/company/contact/?subj=privacy).
 
 _* MODX websites include but are not limited to modx.com, rtfm.modx.com, docs.modx.com, bugs.modx.com, shop.modx.com, demo.modx.com, support.modx.com, wtf.modx.com, modxpo.modx.com, rest.modx.com, api.modx.com, modxcms.com, svn.modxcms.com, my.modxcms.com, rest.modxcms.com and modxpo.modxcms.com, and RSS feeds managed by Google Feedburner on behalf of MODX._
