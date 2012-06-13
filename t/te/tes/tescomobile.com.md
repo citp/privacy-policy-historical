@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060927id_/http%3A//phone-shop.tesco.com/tesco-mobile/about-us/terms-paym-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613024750id_/http%3A//phone-shop.tesco.com/tesco-mobile/about-us/terms-paym-privacy.aspx) for the most accurate reproduction.*
 
 # Pay monthly - Privacy Policy - Terms & Conditions - Tesco Mobile
 
