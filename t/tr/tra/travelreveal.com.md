@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelreveal.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214033028id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelreveal.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613171422id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Travelreveal.com – deny unauthorized access to application.
 
