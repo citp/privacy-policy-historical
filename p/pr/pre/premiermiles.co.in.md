@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiermiles.co.in privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214033436id_/http%3A//www.premiermiles.co.in/PrivacyStatment.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiermiles.co.in privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172237id_/http%3A//www.premiermiles.co.in/PrivacyStatment.aspx) for the most accurate reproduction.*
 
 # PremierMiles | Privacy Statement
 
@@ -41,23 +41,8 @@ We will regularly review how we are meeting these privacy principles and provide
 
 
 
-To request access to your information, ask questions about our privacy practices, change your marketing preferences, or issue a complaint, please contact us at: 14 Sagar Pallazio, Sakinaka Jn., Andheri-Kurla Road, Andheri East, Mumbai - 400072, India or email us at accessinfo@PremierMiles.com or call us at 18002094484. Thank you. 
+To request access to your information, ask questions about our privacy practices, change your marketing preferences, or issue a complaint, please contact us at: The Qube, A-703, MV Road, Marol, Off Andheri-Kurla Road, Andheri (E), Mumbai – 400059, India or email us at accessinfo@PremierMiles.com or call us at 18002094484. Thank you. 
 
-Return  One Way
-
-Passengers
-
-Adult [12+ yrs]  
-
-
-Child [2-11 yrs]  
-
-
-Infant [0-2 yrs]  
-
-
-Book using PremierMiles
-
-Please Provide a Valid Email ID and Password.
+Please Provide a Valid Email ID and Password. 
 
 If your registered user then click on Login otherwise contiue as guest.
