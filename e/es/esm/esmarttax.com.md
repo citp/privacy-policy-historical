@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213014233id_/http%3A//www.esmarttax.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613191058id_/http%3A//www.esmarttax.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # eSmart Tax Privacy Statement - FREE online income tax software filing, IRS e-File tax return form for Federal & State, 1040 tax forms and more.
 
