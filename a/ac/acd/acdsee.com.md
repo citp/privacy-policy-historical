@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225024329id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613224147id_/http%3A//www.acdsee.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ACD Systems
 
@@ -69,8 +69,8 @@ Seattle, Washington
 United States of America  
 Fax: 1.866.544.0291
 
-200-1312 Blanshard Street  
+129-1335 Bear Mountain Parkway,  
 Victoria, BC, Canada   
-V8W 2J1
+V9B 6T9
 
 If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@acdsystems.com](mailto:privacy@acdsystems.com).
