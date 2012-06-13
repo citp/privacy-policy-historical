@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourwinds10.net privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015102352id_/http%3A//www.fourwinds10.net/siterun_static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourwinds10.net privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613192653id_/http%3A//www.fourwinds10.net/siterun_static/privacy) for the most accurate reproduction.*
 
 # Privacy >> Four Winds 10 - fourwinds10.com
 
