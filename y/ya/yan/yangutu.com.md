@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yangutu.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225115909id_/http%3A//yangutu.com/dating/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yangutu.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614002534id_/http%3A//yangutu.com/dating/policy) for the most accurate reproduction.*
 
-# Privacy Policy on Site for Dating Yangutu
+# Yangutu Policy
 
 ## Privacy Policy
 
@@ -24,17 +24,21 @@ All your interaction with other Yangutu.com users as well as with the Yangutu te
 
 Non-identifying information is used to help other users find your personal profile. We may also use this information in the future to research any improvements our service may need.
 
-**5\. Financial Security**
+**5\. Private Information**
+
+We do not share any private information (e-mail addresses, IP addresses, passwords). We provide this information only by the court order.
+
+**6\. Financial Security**
 
 We do not record or store your credit card information. Your payment details are encrypted with a secure socket layer technology (SSL) to ensure your payment data protection and transmitted directly to our processing company for authorization.
 
-**6\. Mailings**
+**7\. Mailings**
 
 Yangutu uses your email address to send mailings from time to time. The purpose of mailings are:
 
   1. Notifications on new messages sent to you by other community members
   2. New perfect matches
-  3. To recover your password and other types of notifications
+  3. To recover your password
   4. Other types of notifications, promotions and service announcements.
 
 
@@ -43,6 +47,6 @@ Our support team may contact you to assist you with your membership.
 
 [Yangutu](http://yangutu.com/) does not sell rent your email address and other personal information for any kind of promotional mailings to third parties.
 
-The instructions to unsubscribe from our mailings are located in the bottom of the messages we send. Usually, these are both a link to unsubscribe with a single click and the email address to send an empty message to.
+The instructions to unsubscribe from our mailings are located in the bottom of the messages we send. There you can also find the direct link to unsubscribe with a single click.
 
 If you have any further questions or concerns about our privacy policy please contact us at [info@yangutu.com](mailto:info@yangutu.com)
