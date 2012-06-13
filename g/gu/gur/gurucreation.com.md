@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gurucreation.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121185958id_/http%3A//www.gurucreation.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurucreation.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613220127id_/http%3A//www.gurucreation.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Make Money Online
+# Privacy Policy
 
 Protecting your privacy is essential and very important to us. We know that the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.
 
@@ -27,7 +27,7 @@ Some of our business partners (e.g., advertisers) use cookies on our website as 
 **Third Party Advertiser’s Links**  
 Our website contain links to other sites that are not owned, operated or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link to, that may collect personal identifiable information. While we may use cookies in some areas of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to these links and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your rights about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html), [here](http://www.clickbank.com/privacy.html) or [here](https://7search.com/legal/privacy.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to these links and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your rights about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html) & [here](http://www.clickbank.com/privacy.html)..
 
 **Specific Parties**  
 * Google, as a third party vendor, uses cookies to serve ads on this site.  
