@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216104632id_/http%3A//www.breezemasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613200251id_/http%3A//www.breezemasti.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | breezemasti.com
 
 Privacy Policy for breezemasti.com
 
@@ -27,5 +27,3 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of breezemasti.com then you may contact us at breezemasti@gmail.com 
-
-Number of View :1142 
