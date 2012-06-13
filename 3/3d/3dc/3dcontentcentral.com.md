@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124002738id_/http%3A//www.3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613055624id_/http%3A//www.3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # 3D ContentCentral - Privacy Statement
 
@@ -32,16 +32,16 @@ If you do not wish your information to be shared with DS SolidWorks partners, Su
 
 **Entities Collecting Personal Information**
 
-The information provided at this site is collected by DS SolidWorks Corporation, 300 Baker Avenue, Concord, Massachusetts, 01742. DS SolidWorks' telephone number is (978) 317-5011
+The information provided at this site is collected by Dassault Systèmes SolidWorks Corp., 175 Wyman Street, Waltham, Massachusetts 02451. Our telephone number is 781-810-5011
 
 This website contains links to Supplier models owned and maintained by other companies. By downloading a Supplier model, you consent to sending your personal information to the company that owns the Supplier model or the Internet catalog services provider of that company, and you acknowledge that such collection of personal information will be subject to the privacy policies of the company that owns the Supplier model or the Internet catalog services provider or of that company.
 
 **Updating Personal Information and "Opting Out"**
 
 DS SolidWorks wants to ensure that the information it collects is accurate. Please notify us of any change to your address, phone number, email address or other information by sending us an email message at [privacy@solidworks.com](mailto:privacy@solidworks.com) or by notifying us in writing at  
-DS SolidWorks Corporation  
-300 Baker Avenue  
-Concord, MA 01742  
+Dassault Systèmes SolidWorks Corporation  
+175 Wyman Street  
+Waltham, Massachusetts 02451  
 Attn: Legal Department 
 
 If at any time you wish to "opt out" of receiving information from DS SolidWorks or its partners or other companies (with the exception of Suppliers described in more detail below), please notify us by sending us an email or written message at the addresses shown above. Please note that due to lead times on certain mailings and other contacts, you may continue to receive contacts for a period following your "opt out" notification
