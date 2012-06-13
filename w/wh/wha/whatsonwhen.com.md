@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatsonwhen.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103042244id_/http%3A//www.whatsonwhen.com/sisp/index.htm%3Ffx%3Dstatic%26page%3Dprivacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonwhen.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613195849id_/http%3A//www.whatsonwhen.com/sisp/index.htm%3Ffx%3Dprivacy) for the most accurate reproduction.*
 
-# | Whatsonwhen
+# Whatsonwhen - Whatsonwhen footer
 
 John Wiley & Sons, Inc. and its related companies including but not limited to Whatsonwhen Limited (collectively, "Wiley") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Wiley you consent to the practices described herein. 
 
