@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219113515id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613234338id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
 
-# PowerArchiver – Privacy Policy | PowerArchiver 2011
+# PowerArchiver – Privacy Policy | PowerArchiver
 
 ### ConeXware Privacy Policy
 
