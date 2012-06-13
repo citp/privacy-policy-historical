@@ -1,0 +1,432 @@
+<!--The following is the downloaded HTML source of the alive.com privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613174519id_/http%3A//www.alive.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>
+							Privacy Policy | alive					</title>
+		
+				<meta name="robots" content="no-cache">
+<meta name="description" content="Alive Publishing Group Inc. September 1, 2011 We pledge to fully meet and, where possible, exceed internationally recognized standards of personal data privacy protection. In doing so, we will ensure...">
+<meta name="keywords" content="health and wellness, healthy eating">
+		
+				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google.com/jsapi" type="text/javascript"></script>
+		<script type="text/javascript">
+		    //<![CDATA[
+				google.load("jquery", '1.4.2');
+		    	google.load("jqueryui", '1.8.1');
+		    //]]>
+		</script>
+		
+				<script type="text/javascript">
+			function getBaseURL() {
+			    return "http://www.alive.com/";
+			}
+		</script>
+		
+		<script type="text/javascript">
+			function getUserId()
+			{
+									return 0;
+							}
+			
+		</script>
+		
+		<script src="http://www.alive.com/public/js/underscore-min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/videos.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/recipeView.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/likes.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/util.js" type="text/javascript" charset="utf-8"></script>
+		
+		<script src="http://www.alive.com/public/js/jquery.validate.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/jquery.metadata.js" type="text/javascript" charset="utf-8"></script>
+		<script src="http://www.alive.com/public/js/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script>
+		
+						
+				<script src="http://www.alive.com/public/js/jquery.purr.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" href="http://www.alive.com/public/css/purr.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		
+				<script src="http://www.alive.com/public/js/shadowbox.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" href="http://www.alive.com/public/css/shadowbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function(){
+				Shadowbox.init({
+					handleOversize: "drag",
+					modal: false,
+					overlayOpacity: 0.5,
+					onOpen: moveCloseLink
+				});
+				
+				function moveCloseLink(){ 
+				    var cb=document.getElementById('sb-nav-close'); 
+				    var tb=document.getElementById('sb-title'); 
+				    if(tb) tb.appendChild(cb); 
+					$('#sb-nav-close').html('close');
+				}
+				
+				
+				$("#findaretailer").validate();
+				$.metadata.setType("attr", "validate");
+				
+				$('#postal_code').placeholder();
+				
+								
+				$pushdownContainer = $('#opa-pushdown');
+				
+									$pushdownContainer.css('background','#fff').css('height','10px');
+				
+				var $rhsAd = $('#ad-300');
+
+									//$('#adwrapper').remove();
+					//$rhsAd.append('<img src="http://www.alive.com/public/images/300x250.jpg" />');
+					$('#adheader').remove();
+					$rhsAd.remove();
+								
+			});
+			
+			
+			function updateCount(type,id)
+			{
+				$.ajax({
+				  url: 'http://www.alive.com/admin/adManager/count',
+				  type: 'POST',
+				  data: {type:type, id:id},
+				  complete: function(xhr, textStatus) {
+				    //called when complete
+				  },
+				  success: function(data, textStatus, xhr) {
+				    //called when successful
+				  },
+				  error: function(xhr, textStatus, errorThrown) {
+				    //called when there is an error
+				  }
+				});
+			}
+			
+			
+			$('.internalad').live('click',function(e){
+				$this = $(this);
+				id = string_subtract($this.attr('id'),'internalad_');
+				$.ajax({
+				  url: 'http://www.alive.com/admin/internalAdManager/count',
+				  type: 'POST',
+				  data: {id:id},
+				  complete: function(xhr, textStatus) {
+				    //called when complete
+				  },
+				  success: function(data, textStatus, xhr) {
+				    //called when successful
+				  },
+				  error: function(xhr, textStatus, errorThrown) {
+				    //called when there is an error
+				  }
+				});
+			});
+			
+			
+		</script>
+		
+				<link href="http://www.alive.com/public/css/style.css" rel="stylesheet" type="text/css" media="screen">		
+						
+				<script type="text/javascript"> 
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-1167548-2']);
+		  _gaq.push(['_setDomainName', '.alive.com']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+				
+	</head>
+
+<body>
+	<div id="wrapper">
+		<div id="wrapper-inner">
+			<div id="header">
+				<div id="pre-menu">
+					<div id="logo">
+						<a href="http://www.alive.com/" title="alive Logo" rel="alive Logo">
+							<img src="http://www.alive.com/public/images/logo.png" title="alive Logo" rel="alive Logo" alt="alive Logo">
+						</a>
+						<p id="slogan">your <b>complete source</b> for natural health and wellness</p>
+					</div>
+					<div id="features-right">
+						<div id="menu-right">
+							<ul id="menu-right-list">
+								<li><a href="http://www.alive.com/newsletter" class="top-link" title="Join alive Magazine newsletter">join newsletter</a></li>
+								<li><a href="https://ca.alive.com" class="top-link" title="Subscribe to alive Magazine">subscribe</a></li>
+								<li>
+									
+																											<a href="http://www.alive.com/auth/login" class="top-link" title="Sign in to alive">sign in</a>
+									<form action="http://www.alive.com/auth/login" method="post" accept-charset="utf-8">									<ul id="sign-in" class="sub-menu-mod">
+										<li>
+											<label for="email" class="label-login">EMAIL</label>
+											<input type="text" name="login" value="" id="login" maxlength="80" class="login-text">										</li>
+										<li>
+											<label for="password" class="label-login">PASSWORD</label>
+											<input type="password" name="password" value="" id="password" class="login-text">											<label>
+												<input type="checkbox" name="remember" class="checkbox-default" value="1">
+											Remember Me</label>
+										</li>
+										<li>
+											<input type="submit" name="submit" value="LOG IN" id="submit-button">
+										</li>
+										<li>
+											<a class="white-link" href="http://www.alive.com/auth/forgot_password">FORGOT PASSWORD?</a>
+										</li>
+										<li>
+											NOT A MEMBER?<br>
+											<a href="http://www.alive.com/auth/register" class="white-link">CLICK HERE TO REGISTER</a>
+										</li>
+									</ul>
+									</form>																	</li>
+							</ul>
+							<div class="clear"></div>
+						</div>
+						<div id="search-box">
+							<form action="http://www.alive.com/search/articles" accept-charset="utf-8" method="GET">							<input name="keywords" type="text" id="search" placeholder="Search more than 10,000 articles" value="">
+							<input type="submit" value="" id="search-button">
+							</form>							<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+				
+				<div id="menu">
+	<ul id="main-menu-list">
+		<li class="main">
+			<a href="http://www.alive.com/" class="main-link">home</a>
+		</li>
+		<li class="separator">|</li>
+		<li class="main">
+			<a href="http://www.alive.com/health" class="main-link">health</a>
+			<ul id="sub-health" class="sub-menu">
+				<li><a href="http://www.alive.com/health/articles" class="sub-link">Articles A-Z</a></li>
+				<li><a href="http://www.alive.com/health/blog" class="sub-link">Health Blog</a></li>
+				<li><a href="http://www.alive.com/health/supplements" class="sub-link">Supplement Guide</a></li>
+			</ul>
+		</li>
+		<li class="separator">|</li>
+		<li class="main">
+			<a href="http://www.alive.com/lifestyle" class="main-link">lifestyle</a>
+			<ul id="sub-lifestyle" class="sub-menu">
+				<li><a href="http://www.alive.com/lifestyle/articles" class="sub-link">Articles A-Z</a></li>
+				<li><a href="http://www.alive.com/fitness" class="sub-link">Fitness</a></li>
+				<li><a href="http://www.alive.com/beauty" class="sub-link">Beauty</a></li>
+				<li><a href="http://www.alive.com/greenliving" class="sub-link">Green Living</a></li>
+				<li><a href="http://www.alive.com/lifestyle/blog" class="sub-link">Lifestyle Blog</a></li>
+			</ul>
+		</li>
+		<li class="separator">|</li>
+		<li class="main">
+			<a href="http://www.alive.com/food" class="main-link">food</a>
+			<ul id="sub-food" class="sub-menu">
+				<li><a href="http://www.alive.com/food/ingredients" class="sub-link">Ingredients A-Z</a></li>
+				<li><a href="http://www.alive.com/food/recipes" class="sub-link">Recipe Finder</a></li>
+				<li><a href="http://www.alive.com/food/blog" class="sub-link">Food Blog</a></li>
+				<li><a href="http://www.alive.com/food/mealoftheday" class="sub-link">Meal of the Day</a></li>
+			</ul>
+		</li>
+		<li class="separator">|</li>						
+		<li class="main">
+			<a href="http://www.alive.com/community" class="main-link">community</a>
+			<ul id="sub-community" class="sub-menu">
+				<li><a href="http://www.alive.com/health/blog" class="sub-link">Blogs</a></li>
+				<li><a href="http://www.alive.com/contests" class="sub-link">Contests</a></li>
+				<li><a href="http://www.alive.com/forums" class="sub-link">Forum</a></li>
+			</ul>
+		</li>
+		<li class="separator">|</li>
+		<li class="main">
+			<a href="http://www.alive.com/videos" class="main-link">videos</a>
+			<ul id="sub-videos" class="sub-menu">
+				<li><a href="http://www.alive.com/videos/viewCategory/fitness" class="sub-link">Fitness</a></li>
+				<li><a href="http://www.alive.com/videos/viewCategory/food" class="sub-link">Food</a></li>
+			</ul>	
+		</li>
+				<li class="separator">|</li>						
+		<li class="main"><a href="http://www.alive.com/partners" class="main-link">product partners</a></li>
+		<li id="last"><a href="http://www.aliveacademy.com/" class="main-link" target="_blank">alive academy</a></li>																												
+	</ul>
+	<div class="clear"></div>
+</div>				
+								<div class="space15"></div>
+							</div><div id="content">
+	<div id="left">
+		<div id="page-container">
+			<div class="main-header">
+				<span class="span-main-header">Privacy Policy</span>
+				<div class="clear"></div>
+			</div>
+			<div id="page-text">
+				<div id="privacy-content">
+<h2 class="privacy-header">Alive Publishing Group Inc.<br> September 1, 2011</h2>
+<p>We pledge to fully meet and, where possible, exceed internationally recognized standards of personal data privacy protection. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality.</p>
+<h2 class="privacy-header">Types of Personally Identifiable Information We Collect</h2>
+<p>We collect personally identifiable information such as identification and contact details of web visitors, information on their preferences in relation to the subject matter of the website, and payment-related information such as credit card details. Our purpose for collecting this information is to compile aggregate statistics on usage of alive.com. We also use personally identifiable information to manage magazine subscriptions.</p>
+<h2 class="privacy-header">Collection of Information from Individuals without Their Knowledge</h2>
+<p>We use cookies to gather demographic data and to track web traffic in various areas of the website. We do not disclose the gathered information to third parties. If your computer does not accept cookies, you may not have access to all parts of alive.com.</p>
+<h2 class="privacy-header">Hosted Online Stores or Service Providers</h2>
+<p>In the online store on our website, we collect information from visitors to the extent that it allows us to fulfill their order.</p>
+<h2 class="privacy-header">Accuracy of Personally Identifiable Information</h2>
+<p>Web users have the opportunity to correct and update personally identifiable information by emailing us at <a class="mail-link" href="mailto: webmaster@alive.com" target="_blank">webmaster@alive.com</a>.</p>
+<h2 class="privacy-header">Retention of Personally Identifiable Information</h2>
+<p>We retain personally identifiable information indefinitely in order to provide you with our services. Users may request to retract personally identifiable information by emailing us at webmaster@alive.com.</p>
+<h2 class="privacy-header">To Access and Correct Your Personal Data</h2>
+<p>If you would like to access your personal data or impersonal accumulated statistics, please send an email request to the webmaster at <a href="mailto:webmaster@alive.com">webmaster@alive.com</a>. We will handle your request promptly and provide this information to you within 40 days.</p>
+<h2 class="privacy-header">Disclosure of Information about Individuals</h2>
+<p>We do not disclose personally identifiable information to other parties except to facilitate an order made by the individual with a merchant hosted at the website. We do not sell personal data, including email addresses, to third parties. We reserve the right to disclose and print the names, addresses, photographs, and likenesses of contest winners and runners up for promotional and marketing purposes. We also disclose impersonally identifiable aggregate statistics relating to our web visitors to advertisers.</p>
+<h2 class="privacy-header">Direct Marketing</h2>
+<p>We use information collected from our visitors to market products or services to you. You can opt out of this kind of marketing by emailing us at <a href="mailto:webmaster@alive.com">webmaster@alive.com</a>. We comply with the opt-out requests we receive.</p>
+<h2 class="privacy-header">Security</h2>
+<p>To ensure the security and confidentiality of personal data collected online, we use encryption for transmission of credit card details. Access to personal data is restricted to employees who need to use these details and who have been trained to observe confidentiality and handle such information appropriately.</p>
+<h2 class="privacy-header">Third-party Advertising</h2>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.</p>
+<h2 class="privacy-header">Who to Contact about Our Privacy Policy and Practices</h2>
+<p>For any additional questions regarding our privacy policy and practices, please contact our webmaster at <a class="mail-link" href="mailto: webmaster@alive.com" target="_blank">webmaster@alive.com</a>.</p>
+</div>			</div>
+		</div>
+	</div>
+	<div id="right">
+		
+<div id="videos">
+	<div class="section-header-wrap">
+		<div class="section-header">LATEST VIDEOS</div>
+		<div class="clear"></div>
+	</div>
+	<div id="video-wrapper">
+		<div>
+			<a href="#" class="arrow" id="video-left-arrow">
+				<span id="left-arrow"></span>
+			</a>
+		</div>
+		<div id="video-content">
+									<div class="video-container">
+				<div class="video-thumb" style="background:none;text-align:center">
+					<a class="play-button" href="http://www.alive.com/videos/view/65/hot_and_sour_tofu_soup"></a>
+					<img src="http://img.youtube.com/vi/CBpIkEwKZQ0/2.jpg" style="width:120px">
+				</div>
+				<div class="video-title">
+					<div class="video-name" onclick="javascript:window.location.href='http://www.alive.com/videos/view/65/hot_and_sour_tofu_soup'">Hot and Sour Tofu Soup</div>
+									</div>
+			</div>
+						<div class="video-container">
+				<div class="video-thumb" style="background:none;text-align:center">
+					<a class="play-button" href="http://www.alive.com/videos/view/64/cabbage_and_potato_curry"></a>
+					<img src="http://img.youtube.com/vi/0wsbzrbTbDU/2.jpg" style="width:120px">
+				</div>
+				<div class="video-title">
+					<div class="video-name" onclick="javascript:window.location.href='http://www.alive.com/videos/view/64/cabbage_and_potato_curry'">Cabbage and Potato Curry</div>
+									</div>
+			</div>
+						<div class="clear"></div>
+		</div>
+		<div>
+			<a href="#" class="arrow" id="video-right-arrow">
+				<span id="right-arrow"></span>
+			</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>		<h2 id="adheader" class="small-text" style="margin-bottom: 0; text-align: center;">ADVERTISEMENT</h2>
+<div id="ad-300" style="min-height:250px;position:relative">
+	<div id="adwrapper" style="width:600px;position:absolute;min-height:250px;right:0px;z-index:1">
+		<div id="ad300">
+		</div>
+	</div>
+	</div>		<div id="find-retailer">
+	<div class="section-header-wrap-mod">
+		<div class="section-header-pink">FIND A NATURAL HEALTH RETAILER</div>
+		<div class="clear"></div>
+	</div>
+	<div id="find-retailer-inner">
+		<div id="find-retailer-left">
+			<img src="http://www.alive.com/public/images/temp-retail-pic.png">
+		</div>
+		<div id="find-retailer-right">
+			<form action="http://www.alive.com/locations/findRetailers" method="post" accept-charset="utf-8" id="findaretailer">						<label for="province" class="form-labels">Province</label>
+			<select name="province">
+<option value="AB">Alberta</option>
+<option value="BC" selected="selected">British Columbia</option>
+<option value="MB">Manitoba</option>
+<option value="NB">New Brunswick</option>
+<option value="NL">Newfoundland and Labrador</option>
+<option value="NT">Northwest Territories</option>
+<option value="NS">Nova Scotia</option>
+<option value="NU">Nunavut</option>
+<option value="PE">Prince Edward Island</option>
+<option value="SK">Saskatchewan</option>
+<option value="ON">Ontario</option>
+<option value="QC">Quebec</option>
+<option value="YT">Yukon</option>
+</select>			<label for="postal_code" class="form-labels" style="margin-top: 5px;">Postal Code</label>
+			<input name="postal_code" type="text" class="required" id="postal-code">
+			<input type="submit" value="SEARCH" class="general-button">
+			</form>		</div>
+		<div class="clear"></div>
+	</div>
+	<a href="http://www.alive.com/aliveaustralia" style="text-decoration: none;">
+		<div class="pink-full-button">Looking for Australian Retailers?<br>CLICK HERE</div>		
+	</a>
+</div>		
+				<div id="newsletter">
+			<a id="internalad_6" class="internalad" target="_blank" href="http://alive.com/awards/index/1/2011">
+				<img src="http://www.alive.com/timthumb.php?src=http://www.alive.com/uploads/8f8642b97b67d85a63daaad537b041fe.jpg&amp;q=100&amp;w=300&amp;zc=1" title="" alt="">
+			</a>
+		</div>
+					
+		<div id="follow-us">
+	<div class="section-header-wrap">
+		<div class="section-header">FOLLOW US</div>
+		<div class="clear"></div>
+	</div>
+	<div id="link-container">
+		<a href="http://www.facebook.com/pages/alive-Magazine/223383214364118" id="facebook" class="img-link" target="_blank"><span>facebook</span></a>
+		<a href="https://plus.google.com/115031422972901434935" id="google-plus" class="img-link" target="_blank"><span>google plus</span></a>
+		<a href="http://twitter.com/aliveHealth" id="twitter" class="img-link" target="_blank"><span>twitter</span></a>
+		<a href="http://www.youtube.com/aliveMagazineOnline" id="youtube" class="img-link" target="_blank"><span>youtube</span></a>
+		<a href="http://pinterest.com/alivemag" id="pinterest" class="img-link" target="_blank"><span>pinterest</span></a>
+		<a href="http://www.alive.com/articles/rss" id="rss" target="_blank"><span>rss</span></a>
+		<div class="clear"></div>
+	</div>
+</div>	</div>
+</div>
+			<div class="clear"></div>
+			<div id="footer">
+				<ul id="footer-menu">
+					<li><a href="http://www.alive.com/about" class="footer-link">about us</a></li>
+					<li><a href="http://www.alive.com/aliveaustralia" class="footer-link">alive australia</a></li>
+					<li><a href="http://www.alive.com/awards/index" class="footer-link">awards</a></li>
+					<li><a href="http://www.alive.com/contact" class="footer-link">contact</a></li>
+					<li><a href="https://ca.alive.com/" class="footer-link">subscribe</a></li>
+					<li><a href="http://www.alive.com/advertise" class="footer-link">advertise</a></li>
+					<li><a href="http://www.alive.com/privacy" class="footer-link">privacy policy</a></li>
+					<li><a href="http://www.alive.com/sitemap" class="footer-link">site map</a></li>
+				</ul>
+				<div class="clear"></div>
+				
+				<div id="copyright">
+					© 2005 - 2012 ALIVE PUBLISHING GROUP
+					
+					
+					<p id="disclaimer">
+						The information provided on this website is for educational and informational purposes only. It should not be used as a substitute for the advice of an appropriately qualified and licensed practitioner or health care provider. The opinions expressed here are not necessarily those of Alive Publishing Group Inc., its affiliates, or parent company. Different views may appear in future articles or publications. Information on alive.com is copyrighted and must not be reprinted, duplicated, or transmitted without permission.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+	
+
+</body></html>
