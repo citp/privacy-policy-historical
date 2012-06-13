@@ -1,27 +1,26 @@
-<!--The following is the downloaded HTML source of the thecompleteuniversityguide.co.uk privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214134637id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-of-use/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecompleteuniversityguide.co.uk privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613173252id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-of-use/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 
     <title>
         Privacy Policy - Complete
-        University Guide</title>
-    <!--<meta name="viewport" content="width=device-width, initial-scale=1" />-->
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+        University Guide</title>    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="/favicon.ico?v=1">
-    <link rel="stylesheet" href="/css/default.css" type="text/css">
+    <link rel="stylesheet" href="/css/default.css?a=1" type="text/css">
     <link rel="stylesheet" href="/Scripts/jquery.rating/jquery.rating.css" type="text/css">
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="/css/ie7.css" type="text/css" />
     <![endif]-->
     <link rel="stylesheet" media="print" href="/css/print.css" type="text/css">
     <!--[if !IE]-->
-    <link rel="stylesheet" media="screen and (max-device-width: 800px)" href="/css/mobile.css" type="text/css">
+    <link rel="stylesheet" media="screen and (max-device-width: 480px)" href="/css/mobile.css" type="text/css">
     <!--[endif]-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/jquery-1.4.4.min.js"></script>
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/scripts/jquery-1.4.4.min.js"></script>
     <script src="/scripts/jquery.tools.min.js"></script>
     <script src="/scripts/jquery.tinysort.min.js" type="text/javascript"></script>
     <script src="/scripts/jquery.rating/jquery.rating.js"></script>
@@ -47,6 +46,7 @@
         GA_googleAddSlot("ca-pub-1547718739784929", "New_Leaderboard");
         GA_googleAddSlot("ca-pub-1547718739784929", "New_MPU");
         GA_googleAddSlot("ca-pub-1547718739784929", "New_Sky");
+        GA_googleAddSlot("ca-pub-1547718739784929", "New_Sponsorship");
     </script>
     <script type="text/javascript">
      GA_googleAddAttr("section", "home");
@@ -80,27 +80,72 @@
      </script>
 
 <!-- Guardian network tag -->
-    <script type="text/javascript">
-        function DM_onSegsAvailable(rsinetsegs, csid) {
-            if (csid == "e05516") {
-                var e=document.createElement("script");
-                e.language="JavaScript";
-                e.type="text/javascript";
-
-                e.src="http://oas.guardian.co.uk/adstream.cap/123?c=rsi_segs&va="+rsinetsegs.join('|')+"&e=90d";
-
-                if (document.body == null) {
-                    // we're in the head
-                    document.getElementsByTagName("head")[0].appendChild(e);
-                } else {
-                    // we're in the body
-                    document.body.insertBefore(e,document.body.firstChild);
-                }
-            }
+<!-- START QUANTCAST AD TAG -->
+<script type="text/javascript">
+    var quantSegs = "";
+    var quant_segs_beg = document.cookie.indexOf('quant_segs');
+    if (quant_segs_beg >= 0) {
+        quant_segs_beg = document.cookie.indexOf('=', quant_segs_beg) + 1;
+        if (quant_segs_beg > 0) {
+            var quant_segs_end = document.cookie.indexOf(';', quant_segs_beg);
+            if (quant_segs_end == -1) quant_segs_end = document.cookie.length;
+            quantSegs = unescape(document.cookie.substring(quant_segs_beg, quant_segs_end));
         }
-    </script>
-    <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=E05516&amp;auto=t"></script>
+    }
+
+    function qc_results(result) {
+        var qc = "";
+        for (var i = 0; i < result.segments.length; i++) {
+            qc += "qc=" + result.segments[i].id + "&"; //customizable per your ad server
+        }
+
+        document.cookie = "quant_segs=" + escape(qc);
+    }
+
+</script>
+<!-- END QUANTCAST AD TAG -->
+<!-- AUDIENCESCIENCE AD TAG CODE -->
+<script type="text/javascript">
+<!--
+    var rsi_segs = [];
+    var segs_beg = document.cookie.indexOf('rsi_segs=');
+    if (segs_beg >= 0) {
+        segs_beg = document.cookie.indexOf('=', segs_beg) + 1;
+        if (segs_beg > 0) {
+            var segs_end = document.cookie.indexOf(';', segs_beg);
+            if (segs_end == -1) segs_end = document.cookie.length;
+            rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|');
+
+        }
+    }
+    var segLen = 100;
+    segQS = "";
+    if (rsi_segs.length < segLen) { segLen = rsi_segs.length }
+    for (var i = 0; i < segLen; i++) {
+        segQS += ("a" + "=" + rsi_segs[i])
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+
+    var gsegQS = "";
+    gsegQS = segQS.replace(/E0/g, '&a=E0').replace("a=&", "") + '&';
+
+</script>
+<!-- END AUDIENCESCIENCE AD TAG CODE -->
 <!-- End of Guardian network tag -->
+
+    <link href="https://plus.google.com/110571300599640891316" rel="publisher">
+    <script type="text/javascript">
+        window.___gcfg = { lang: 'en' };
+        (function () {
+            var po = document.createElement("script");
+            po.type = "text/javascript"; po.async = true; po.src = "https://apis.google.com/js/plusone.js";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(po, s);
+        })();
+    </script>
 
     <meta property="fb:page_id" content="153223774734517">
     <meta property="og:title" content="Privacy Policy">
@@ -166,9 +211,6 @@
 <li><a href="/careers/">Career Profiles</a></li>
 <li><a href="/careers/what-do-graduates-earn/">What Do Graduates Earn?</a></li>
 <li><a href="/careers/case-studies">Career Case Studies</a></li>
-</ul></div></li><li><a href="/jobs/" class="nav1">Jobs</a><div class="sub"><ul>
-<li><strong>Jobs</strong></li>
-<li><a href="/jobs">Graduate Jobs</a></li>
 </ul></div></li><li><a href="/preparing-to-go/" class="nav1">Preparing to Go</a><div class="sub"><ul>
 <li><strong>Preparing for University</strong></li>
 <li><a href="/preparing-to-go/misco">Laptops &amp; Accessories</a></li>
@@ -182,10 +224,10 @@
 <li><a href="/preparing-to-go/staying-safe-and-secure">Staying Safe and Secure</a></li>
 <li><a href="/preparing-to-go/advice-for-parents">Advice for Parents</a></li>
 <li><a href="http://www.honestjohn.co.uk/young-drivers/" target="_blank">Young Drivers</a></li>
-</ul></div></li><li><a href="/ucas-clearing-2011/" class="nav1">Clearing</a><div class="sub"><ul>
+</ul></div></li><li><a href="/ucas-clearing/" class="nav1">Clearing</a><div class="sub"><ul>
 <li><strong>Clearing Guide</strong></li>
-<li><a href="/ucas-clearing-2011/real-life-experiences">Real Life Experiences</a></li>
-<li><a href="/ucas-clearing-2011/faqs">Frequently Asked Questions</a></li>
+<li><a href="/ucas-clearing/real-life-experiences">Real Life Experiences</a></li>
+<li><a href="/ucas-clearing/faqs">Frequently Asked Questions</a></li>
 </ul></div></li><li><a href="/mba/" class="nav1">MBA</a><div class="sub"><ul>
 <li><strong>MBA and Business Courses</strong></li>
 <li><a href="/mba">MBA Courses</a></li>
@@ -276,7 +318,7 @@
     </div>
 
     <div id="social-googleplus" class="socialButton">
-        <div class="g-plusone" data-size="medium" data-count="true"></div>
+        <g:plusone size="medium"></g:plusone>
     </div>
 </div>
 
@@ -286,11 +328,6 @@
         twitterScript.type = "text/javascript";
         twitterScript.src = "http://platform.twitter.com/widgets.js";
         $("body").append(twitterScript);
-
-        var googlePlusScript = document.createElement("script");
-        googlePlusScript.type = "text/javascript";
-        googlePlusScript.src = "https://apis.google.com/js/plusone.js";
-        $("body").append(googlePlusScript);
     });
 </script>
 
@@ -338,19 +375,19 @@
 
     <div class="box"><h3><a href="/terms-of-use/">Terms of Use</a></h3><ul><li><b>Privacy Policy</b></li><li><a href="/terms-of-use/disclaimer/">Disclaimer</a></li><li><a href="/terms-of-use/copyright/">Copyright</a></li></ul></div>
 
-            
-<!--        <div class='box'>
-            <h3>Sponsored By</h3>
-            <div style='padding:20px 0; text-align:center; background-color:White;'>
-            <a href="http://undergraduate.bpp.com/?utm_source=undergrad_completeuniguide_leaderboards&utm_medium=leaderboard&utm_campaign=undergrad_completeuniguide_leaderboards_2200911" target="_blank" onclick="_gat._getTrackerByName()._trackEvent('Advert', 'Sponsor', 'BPP');">
-            <img src="/images/ads/250x150-BPP-Undergrad2012-v01.gif" /></a>
+        
+                
+            <div class="mpu ad">
+                <script type="text/javascript">
+                    GA_googleFillSlot("New_Sponsorship");
+                </script>
             </div>
-            </div>
--->
+            <div class="clear"></div>
+
             <div class="box" id="newsBox">
                 <h3>Latest News</h3>
                 <div class="latestNews">
-                <ul><li><a href="/news/2m-engineers-will-be-needed!/">'Take Physics and Maths!'</a></li><li><a href="/news/25-english-universities-publish-revised-fee-and-scholarship-levels/">25 English universities publish revised fee and scholarship levels</a></li><li><a href="/news/a-levels-–-teachers-get-'unfair'-advice/">Is teacher's advice on A-levels cheating?</a></li></ul>
+                <ul><li><a href="/news/10-colleges-eligible-for-university-status/">10 colleges could become universities</a></li><li><a href="/news/'awful'-access-to-scotland's-finest-universities/">NUS slates 'shocking record' of Scots universities</a></li><li><a href="/news/how-top-universities-aid-poorer-students/">Poor students aided to enter professions</a></li></ul>
                 </div>
                 <div class="moreLink">
                     <a href="/news/">More News</a>
@@ -391,7 +428,7 @@
 
             <div class="box">
                 <h3>About the Site</h3>
-                <p>Our independent UK <a href="/league-tables/rankings">University League Tables &amp; Rankings&nbsp;2012</a>&nbsp;give you a good guide to which university is best for you, overall and by subject. We work closely with all main <a href="/universities/" title="Universities">UK Universities</a> and&nbsp;<a href="/ucas/" title="UCAS">UCAS</a>.</p>
+                <p>Our independent UK <a href="/league-tables/rankings">University League Tables &amp; Rankings&nbsp;2013</a> give you a good guide to which university is best for you, overall and by subject. We work closely with all main <a href="/universities/" title="Universities">UK Universities</a> and&nbsp;<a href="/ucas/" title="UCAS">UCAS</a>.</p>
 <p>Whether you are aiming for the top 10 or not, we help students around the world research degree courses, accommodation and make the right choice in changing times.</p>
 <ul>
 <li><a href="/about-us/" title="About Us">About Us</a>, <a href="/contact">Contact Us</a>&nbsp;and <a href="/advertise-with-us/" title="Advertise With Us">Advertise</a></li>
@@ -400,7 +437,7 @@
 <li><a href="/sites-we-like/" title="Sites We Like">Sites We Like</a></li>
 <li><a href="/terms-of-use/" title="Terms of Use">Terms of Use</a>, <a href="/terms-of-use/privacy-policy/" title="Privacy Policy">Privacy</a> and <a href="/terms-of-use/disclaimer/" title="Disclaimer">Disclaimer</a>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
 </ul>
-<p><a href="/terms-of-use/copyright/" title="Copyright">The Complete University Guide © 2011</a></p>
+<p style="text-align: center;"><a href="/terms-of-use/copyright/" title="Copyright">The Complete University Guide © 2012</a></p>
             </div>
 
         </div>
@@ -455,6 +492,19 @@
             }
         });
 
+        $('a[href^=mailto]').click(
+        function () {
+            if (!$(this).attr('onclick')) {
+                var href = $(this).attr('href');
+                var url = href.replace(/mailto:/, '').replace(/\?.*/, '');
+                _gat._getTrackerByName()._trackEvent('Link', 'Email', url);
+                if (href.indexOf("?") == -1) {
+                    $(this).attr('href', href + '?subject=This+query+came+to+you+via+The+Complete+University+Guide+website');
+                }
+                $(this).attr('target', '_blank');
+            }
+        });
+
         $('.nextSteps a').click(
         function () {
             if (!$(this).attr('onclick')) {
@@ -474,6 +524,54 @@
     });
 </script>
 
+<!-- START GUARDIAN --> 
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-73ktnlRTKQPTw&amp;callback=qc_results"></script>
+
+<script src="http://js.revsci.net/gateway/gw.js?csid=e05516&amp;auto=t"></script>
+
+<!-- Quantcast Measurement --> 
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function () {
+        var elem = document.createElement('script');
+
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+</script><script type="text/javascript">
+             _qevents.push({
+                 qacct: "p-73ktnlRTKQPTw",
+                 labels: "select-studentandgrad"
+             }); 
+</script> 
+
+<noscript> 
+<div style="display:none;"> 
+<img src="//pixel.quantserve.com/pixel/p-73ktnlRTKQPTw.gif?labels=select-studentandgrad" border="0" height="1" width="1" alt="Quantcast"/> 
+</div> 
+</noscript> 
+<!-- End Quantcast Measurement -->
+<!-- END GUARDIAN --> 
+
+<!-- START UTARGET -->
+<script type="text/javascript">
+    sas_tmstp = Math.round(Math.random() * 10000000000); sas_masterflag = 1;
+    function SmartAdServer(sas_pageid, sas_formatid, sas_target) {
+        if (sas_masterflag == 1) { sas_masterflag = 0; sas_master = 'M'; } else { sas_master = 'S'; };
+        document.write('<scr' + 'ipt src="http://www4.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr' + 'ipt>');
+    }
+</script>
+<script type="text/javascript">
+    sas_pageid = '23593/160778';      // Page : TheCompleteUniversityGuide/homepage
+    sas_formatid = 9855;              // Format : Popunder1x1 1x1
+    sas_target = '';                  // Targeting
+    SmartAdServer(sas_pageid, sas_formatid, sas_target);
+</script><script src="http://www4.smartadserver.com/call/pubj/23593/160778/9855/M/924081707/?"></script>
+<!-- END UTARGET -->
 
 
 </body></html>
