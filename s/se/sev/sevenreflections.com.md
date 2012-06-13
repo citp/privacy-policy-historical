@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205000322id_/http%3A//www.sevenreflections.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614013838id_/http%3A//www.sevenreflections.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Seven Reflections - Subscribe Privacy
 
@@ -30,3 +30,17 @@ We take precautions to protect your information. When you submit sensitive infor
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for 'https' at the beginning of the address of the web page. 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+
+We have an [Opt Out](http://www.sevenreflections.com/optout.php) option if you'd like to permanently remove your account. We don't share your information with third parties. 
+
+Anti-Spam Policy
+
+We do not SPAM. We have multiple subscriptions, including birthday reminders, 52-days change period alert, and occasional newsletters. You can change [your permissions](http://www.sevenreflections.com/settings.php) to email subscriptions at any time. 
+
+Your [Subscription Settings](http://www.sevenreflections.com/settings.php) can be accessed by following this [link](http://www.sevenreflections.com/settings.php), or can be easily located in your [account](http://www.sevenreflections.com/account.php). 
+
+We do require the activation of your account and confirmation of your email address when you initially sign up. For this purpose, the initial email confirmation message is sent to the email address entered during registration. 
+
+FaceBook Connect Policy
+
+You can sign up to SevenReflections.com using Facebook API button. It is easy and fast and if you have the facebook account, we strongly recommend this option. Please, notice that we will ask for your permission to access your basic information you set with Facebook, including your birthday, relationship status, the country of your location and your email address. Once you give Sevenreflections.com a permission to Connect Via Facebook as long as your facebook account is logged in, we keep the cookie to authorize you on our website. 
