@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehourbacklinks.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227022946id_/http%3A//www.onehourbacklinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehourbacklinks.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614001445id_/http%3A//www.onehourbacklinks.com/privacy.html) for the most accurate reproduction.*
 
 # One Hour Backlinks | Privacy Policy - Buy indexed and high PR links with our link building service
 
