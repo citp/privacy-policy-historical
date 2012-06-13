@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213042710id_/http%3A//www.healthjobsuk.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613193422id_/http%3A//www.healthjobsuk.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ www.healthjobsuk.com;
 
 | 
 
-Nursingnet Limited a company registered in England and Wales with company number 04028397 whose registered office is at Health Bank, Main Street, Great Longstone, Bakewell, Derbyshire, DE45 1TA; and  
+Nursingnet Limited a company registered in England and Wales with company number 04028397 whose registered office is at Heath Bank, Main Street, Great Longstone, Bakewell, Derbyshire, DE45 1TA; and  
   
 "you", "your"
 
@@ -168,11 +168,11 @@ an individual, company, or firm accessing our Site.
 
 **
 
-6.1 You have the right to object to your personal data being used for �direct marketing' and/or �host mailing' purposes (see Conditions 4.2.5, and 4.2.6 above). You can change your options in relation to the information you wish to receive at any time by clicking the "unsubscribe link" on any email we send to you, updating your account details on the Site or by contacting our Compliance Officer in writing by post or email.
+6.1 You have the right to object to your personal data being used for 'direct marketing' and/or 'host mailing' purposes (see Conditions 4.2.5, and 4.2.6 above). You can change your options in relation to the information you wish to receive at any time by clicking the "unsubscribe link" on any email we send to you, updating your account details on the Site or by contacting our Compliance Officer in writing by post or email.
 
 6.2 As mentioned above you can set your internet browser to refuse cookies or you can ask your internet browser to alert you when a cookie is being set up (see Condition 10).
 
-6.3 You have the right under the DPA to request from us information as to what personal data we are processing about you. Such requests should be made in writing by post or email to the Compliance Officer and should be accompanied by a �10.00 fee. We will provide you with the relevant information within 40 days of receipt of the fee.
+6.3 You have the right under the DPA to request from us information as to what personal data we are processing about you. Such requests should be made in writing by post or email to the Compliance Officer and should be accompanied by a £10.00 fee. We will provide you with the relevant information within 40 days of receipt of the fee.
 
 6.4 You have other rights under the DPA in relation to our processing of your personal data.
 
