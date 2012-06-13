@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215063538id_/http%3A//utshob.com/index.php%3Fmain_page%3Dpage%26id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613173513id_/http%3A//utshob.com/index.php%3Fmain_page%3Dpage%26id%3D9) for the most accurate reproduction.*
 
-# Privacy Policy : Zen Cart!, The Art of E-commerce
+# Privacy Policy
 
 WWW.UTSHOB.COM, recognizes and respects the importance of maintaining the privacy of our customers, registered members (Members) and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
