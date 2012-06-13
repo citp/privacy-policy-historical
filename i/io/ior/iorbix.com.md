@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607015557id_/http%3A//iorbix.com/social/display-network-privacy.php%3Ftab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iorbix.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613175445id_/http%3A//iorbix.com/network-privacy.php%3Ftab%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Terms | iOrbix
 
 Privacy Policy
 
 This agreement was written in English (US).  
-Date of Last Revision: July 18, 2010
+Date of Last Revision: February 10, 2012
 
 What information do we collect?
 
@@ -44,8 +44,14 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Your account settings and email notifications
 
 When you register on iOrbix, you are automatically subscribed to the email notifications of its basic features.  
-However, you may disable some or all notifications via your [Account Settings](https://web.archive.org/web/20110607015557id_/http%3A//iorbix.com/social/display-settings-account.php).  
+However, you may disable some or all notifications via your [Account Settings](https://web.archive.org/web/20120613175445id_/http%3A//iorbix.com/settings-account.php).  
 On that page, you can edit your account preferences. You may also delete your account if you no longer wish to share your personal information on iOrbix. 
+
+iOrbix sub-sites sites
+
+We offer a few [iOrbix](http://iorbix.com/) sub-sites, such as "[Agency Top Model](http://agencytopmodel.com/)" and "AvaWars".  
+If you register on one of these sites, you are automatically joining on iOrbix. However, your account on iOrbix will be totally private to public, in exception of your name, age, gender, location and profile photo.  
+At any moment you may login on iOrbix and activate/migrate your account. By doing that, you become a common member of iOrbix. 
 
 Third party links
 
@@ -61,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110607015557id_/http%3A//iorbix.com/social/display-network-privacy.php?tab=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20120613175445id_/http%3A//iorbix.com/network-privacy.php?tab=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 Your Consent
 
@@ -74,4 +80,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the [contact form](https://web.archive.org/web/20110607015557id_/http%3A//iorbix.com/social/display-network-contact.php) or email us to our email.
+If there are any questions regarding this privacy policy you may email us to our email.
