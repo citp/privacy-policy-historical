@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecigs.net.au privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128005847id_/http%3A//www.ecigs.net.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigs.net.au privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613203441id_/http%3A//www.ecigs.net.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D10) for the most accurate reproduction.*
 
-# Privacy Policy - Electronic Cigarettes Australia Pty Ltd (Ecigs)
+# Electronic Cigarettes Australia Pty Ltd (Ecigs) - Privacy Policy
 
 We understand that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.
 
