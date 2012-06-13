@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217123157id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613030430id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-music and sound effects downloads,  
-movie background sounds,  
-sound efffects,  
-free souneffects tea kettle,  
-heart machine sound effect,  
-sound fx free,  
-free boxing bell sound effect,  
-blood sound effect download,  
-welcome sound effect,  
-free sound effects swarm of bees,  
-radio dial sound effect,  
+www wav sounds,  
+www wav sounds com,  
+digital audio sound effects,  
+order up sound effect free,  
+shut up sound effect,  
+downtown sounds,  
+dj sound effects pack,  
+free silly sound effects,  
+gun reloading and fire sound effect,  
+bump head sound effect,  
+crowd clapping sound effect,  
+hey sound effect,  
+heartbeat sound effect,  
 sounds of a ticking clock to download,  
-barking dogs sound effect,  
-wildcat sound effect,  
-fairy dust sound effect,  
-money machine sound effect,  
-robomatic sound effects,  
-barbera sound effects,  
-unusual sounds to download,  
-sound effects recordings 
+sythesised sound effects,  
+downloadable sound clips free,  
+transformers sound effects,  
+sound noise,  
+sound effects previews,  
+movie wav sounds 
 
-|  [News at AudioSparx](http://www.audiosparx.com/sa/news/default.cfm) | [Newsletter Opt-In](http://www.audiosparx.com/sa/em/optin/default.cfm) | [Client Testimonials](http://www.audiosparx.com/sa/testimony/default.cfm) | [Artist Testimonials](http://www.audiosparx.com/sa/testimony/artists.cfm) | [Recent Licensing Deals](http://www.audiosparx.com/sa/testimony/licensings.cfm) | [All Music Genres](http://www.audiosparx.com/sa/links/production-music.cfm) | [Dramatic Music Genres](http://www.audiosparx.com/sa/links/dramatic-music.cfm) | [World Music Genres](http://www.audiosparx.com/sa/links/world-music.cfm) | [Kids Music Genres](http://www.audiosparx.com/sa/links/kids-music.cfm) | [In-Store Music](http://www.audiosparx.com/sa/radiosparx) | [MusicPack Collections](http://www.audiosparx.com/sa/packs/list.cfm/project_iid.2) | [Music Editor's Picks](http://www.audiosparx.com/sa/best_music/default.cfm) | [Production Music Albums](http://www.audiosparx.com/sa/links/royalty-free-music-cds.cfm) | [In-Store Music](http://www.audiosparx.com/sa/radiosparx) | [Dramatic Masters Music Library](http://www.audiosparx.com/sa/dramatic "Dramatic Music") | [Halloween Music, Horror, Scary and Sci Fi Music](http://www.audiosparx.com/sa/horror "Halloween Music, Horror Music and Scary Music") | [Kids Music](http://www.audiosparx.com/sa/kids) | [African Music](http://www.audiosparx.com/sa/africa) | [Music in Arabic](http://www.audiosparx.com/sa/middleeast) | [Commercial, News and Corporate Music](http://www.audiosparx.com/sa/links/commercial-music.cfm) | [Film and TV Music](http://www.audiosparx.com/sa/television_music/music_for_tv.cfm "Music for Film") | [Radio Music and Sound Effects](http://www.audiosparx.com/sa/radio "Music for Radio") | [Games and Software Music](http://www.audiosparx.com/sa/games_music/game_music.cfm "Game Music") | [Romantic, Love and Wedding Music](http://www.audiosparx.com/sa/love_songs) | [Christmas and Holiday Music](http://www.audiosparx.com/sa/Christmas) | [Vocal Music Library](http://www.audiosparx.com/sa/vocals) | [Top 100 Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-vocal-tracks.cfm) | [Top 100 Indie Rock Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-indie-vocal-tracks.cfm) | [Top 100 Pop Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-pop-vocal-tracks.cfm) | [Top 100 R&B Vocal Track](http://www.audiosparx.com/sa/vocals/top-100-rnb-vocal-tracks.cfm) | [Top 100 Rock Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-rock-vocal-tracks.cfm) | [Top 100 Jazz Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-jazz-vocal-tracks.cfm) | [Top 100 Classical Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-classical-vocal-tracks.cfm) | [Top 100 World Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-world-vocal-tracks.cfm) | [Top 100 Country Vocal Tracks](http://www.audiosparx.com/sa/vocals/top-100-country-vocal-tracks.cfm) | [Browse Music by Production Style](http://www.audiosparx.com/sa/display/displayby.cfm/target.style) | [Browse Music by Mood](http://www.audiosparx.com/sa/display/displayby.cfm/target.mood) | [Browse Music by Instrument](http://www.audiosparx.com/sa/display/displayby.cfm/target.instrument) | [Browse Music by Lyrical Topic](http://www.audiosparx.com/sa/display/displayby.cfm/target.subject) | [Browse Music by Country](http://www.audiosparx.com/sa/display/displayby.cfm/target.region) | [Browse Music by Playlist](http://www.audiosparx.com/sa/playlists/default.cfm) | [Sound Effect Genres](http://www.audiosparx.com/sa/links/sound-effects.cfm) | [SoundPack Collections](http://www.audiosparx.com/sa/packs/list.cfm/project_iid.1) | [Scary Sound Effects](http://www.audiosparx.com/sa/horror) | [Christmas and Holiday SFX](http://www.audiosparx.com/sa/Christmas) | [Beats & Loops Genres](http://www.audiosparx.com/sa/links/beats.cfm) | [Instrument Sounds](http://www.audiosparx.com/sa/links/beats.cfm) | [Instruments and Software](http://www.audiosparx.com/sa/marketplace) | [ComposerPack Collections](http://www.audiosparx.com/sa/packs/list.cfm/project_iid.3) | [Featured Ringtones](http://www.audiosparx.com/sa/links/music-ringtones.cfm) | [Ringtone Categories](http://www.audiosparx.com/sa/realtones/ringtones.cfm/rtone.true) | [Artist Directory](http://www.audiosparx.com/sa/artist/list.cfm) | [Hollywood A-List](http://www.audiosparx.com/sa/artist/hollywood-a-list.cfm) | [Hot New Artists](http://www.audiosparx.com/sa/artist/hotnew.cfm) | [Classical Masters Library](http://www.audiosparx.com/sa/links/classical-music.cfm) | [Orchestras and Ensembles](http://www.audiosparx.com/sa/classical_masters/orchestras-and-ensembles.cfm) | [Sell Music or SFX Here](http://www.audiosparx.com/sa/publisher/info.cfm) | [Frequently Asked Questions](http://www.audiosparx.com/sa/faq.cfm) | [AudioSparx Company Info](http://www.audiosparx.com/sa/company.cfm)
+| 
 
-|   
----  
-  
+| 
+
 **Privacy Policy of AudioSparx  **
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
@@ -96,6 +95,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 *************************************  
   
+---  
   
   
   
@@ -104,23 +104,23 @@ We know that you care how your information is used, and we appreciate your trust
 [ ](http://www.audiosparx.com/)  
 
 
-energetic sounds,  
-dj sound trademarks,  
-news sound clips,  
-free sound effects horrible scream,  
-tv static sound effect free,  
-mp3 sound effects machine guns,  
-free mp3 sound fx,  
-animal sounds wave files,  
-weed sounds,  
-confused sound effects,  
-dog barking sound effects,  
-sexy sounds,  
-where can i find free sound effects,  
-rain sound,  
-free keyboard sound effects,  
-free rain sounds download,  
-sound effects for movies,  
-sounds downloads,  
-sounds effect,  
-shockwave sound com 
+www a1 freesound effects com,  
+wav files clips,  
+media sound effects,  
+sounds of hell,  
+sea sounds effects,  
+free sound clips mp3,  
+cat sound effects,  
+sound effects da da da,  
+traffic sounds,  
+free sounds com,  
+doctor who sound effects,  
+free elk bugle sound clip,  
+shaving cream sound effect,  
+filling vial sound effect,  
+web humor today's sounds,  
+human souds,  
+restaurant sound effects,  
+downloads sounds,  
+sondrio,  
+foley sound effects 
