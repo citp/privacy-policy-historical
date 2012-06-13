@@ -1,25 +1,93 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228191827id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613114450id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gardening Know How Gardening Know How
 
-**We will not sell or share your email address.** We respect your privacy. We collect visitor information in an effort to improve your experience and to communicate with you about our services, contests and promotions. We recognize that we must maintain and use customer information responsibly. When obtaining information from you, we follow a simple, common sense principle: we ask only for the information we need to provide the service you request. For example, if you would like to receive emails from us, we need an email address.
+ | 
 
-This web site does not store or capture personal information, but may log the user’s IP Address which is automatically recognised by the Web Server.
+ **What information do we collect?**
 
-This site’s Web Server/Internet Service Provider (ISP) may use cookies for collecting user information for system administration of the Web server only.You should also be aware that third party cookies may be used for tracking purchases of goods from this website or customizing your advertising experience.
+We collect information from you when you register on our site, place an order, respond to a survey or fill out a form.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) .
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Many companies use cookies to help make your internet experience better. But you have the option of turning off cookies in your browser by going to Tools>Internet Options, but please be aware that turning of cookies will affect your internet experience.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-This Privacy Policy Statement only relates to this site and does not necessarily extend to any linked external or internal Internet/Intranet sites as these sites should have their own relevant Privacy Policy Statements included.
+ **What do we use your information for?**
 
-Summary of terms
+Any of the information we collect from you may be used in one of the following ways:
 
-Web Browser – Used to locate and display Web pages via a software application. The most popular ones are Netscape Navigator and Microsoft Internet Explorer.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Cookie – Message given to a Web Browser by a Web Server. The message is then stored by the browser in a text file called cookie.txt. Each time the browser requests a page from the server, this message is sent back. A cookie’s main objective is to identify users and personalise their visit by customising web pages for them for example by welcoming them by name next time they visit the same site. To accomplish the latter a site using cookies for this purpose will usually invite you to provide personal information such as your name, e-mail address and interests. Submission, by you, of these details implies consent for their use.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-IP (Internet Protocol) – All networks connected to the internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one host to another and that the messages are understood. IP address If you are connected to the Internet you have one, for example it may look something like this 198.184.98.9
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Web Server / Internet Services Provider (ISP) – Manages the Internet Service and delivers (serves up) web pages to your computer.
+; To process transactions  
+
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+; To administer a contest, promotion, survey or other site feature
+
+; To send periodic emails
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on May 24, 2012
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.gardeningknowhow.com  
+57 Wandle Ave  
+Bedford, Ohio 44146  
+USA  
+questions@gardeningknowhow.com
+
+|  
