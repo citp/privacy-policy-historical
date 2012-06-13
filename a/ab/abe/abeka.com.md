@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010417id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172314id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # A Beka Book :: Privacy Policy
 
