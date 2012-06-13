@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
 # NPD Online Research - Making your opinions count
 
   
-Updated: September 2009
+Updated: May 2012
 
 **About NPD**
 
@@ -25,11 +25,9 @@ In this privacy statement, we describe our privacy practices, including how we c
 
 **NPD and TRUSTe**
 
-The NPD Group is a certified licensee of the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. Because we want to further demonstrate our commitment to our users’ privacy, we have agreed to disclose our information practices and have its privacy practices monitored for compliance by TRUSTe. 
+The NPD Group has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's is an independent third party, whose mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, you should first contact Janet Hall, Research Director, via mail at NPD Online Research, 900 West Shore Road, Port Washington, NY 11050 or via e-mail at [janet.hall@npdor.com](mailto:janet.hall@npdor.com). If you are not satisfied with our response you can contact TRUSTe here. 
 
-If you have questions or concerns regarding this statement, you should first contact Janet Hall, Research Director, via mail at NPD Online Research, 900 West Shore Road, Port Washington, NY 11050 or via e-mail at [janet_hall@npdor.com](mailto:janet_hall@npdor.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison to resolve users' concerns. However, please understand that the TRUSTe Privacy Program covers only information that is collected through this web site, and does not cover information that may be collected through software downloaded from this site.
-
-We may from time to time change our privacy practices, but will notify you directly if we materially change the way that we use your personally identifiable information. Please see _Notification of Changes_ below for more details. 
+We may from time to time change our privacy practices, but will notify you directly if we materially change the way that we use your personally identifiable information. Please see Notification of Changes below for more details. 
 
 **MEMBERSHIP**
 
@@ -43,13 +41,13 @@ Your contact information is used to send you a welcome e-mail when you register,
 
 Demographic data is collected to ensure that we send you surveys relevant to your lifestyle and interests. It is used only for statistical and classification purposes in aggregated or summary form (grouped together with other panelists' data) and is NOT shared or sold on an individual basis. 
 
-We do not knowingly collect personally identifiable information from users who are under the age of 13 or users under the age of 18 who reside in Maine.
+We do not knowingly collect personally identifiable information from users who are under the age of 13.
 
 At registration and in each communication with you thereafter, you may opt-out of receiving future surveys and mailings; see _How To Unsubscribe_ below. 
 
 **Correcting/Updating Your Information**
 
-We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/memberservices.asp). 
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/memberservices.asp). 
 
 If you are a SweepLand member, you may change your name, mailing address and e-mail preferences by visiting [www.sweepland.com](http://www.sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
@@ -107,7 +105,7 @@ NPD and its agents employ physical, electronic and managerial protections and pr
 
 **HOW TO UNSUBSCRIBE**
 
-Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
+Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20120614011851id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
 **NOTIFICATION OF CHANGES**
 
@@ -123,4 +121,4 @@ NPD Online Research
 900 West Shore Road   
 Port Washington, NY 11050   
 USA   
-[janet_hall@npdor.com](mailto:janet_hall@npdor.com)
+[janet.hall@npdor.com](mailto:janet.hall@npdor.com)
