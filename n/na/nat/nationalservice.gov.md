@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193334id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613205012id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
 # NationalService.gov > Security and Privacy Policy
 
@@ -54,4 +54,4 @@ Our recent FISMA system security assessments confirmed that all current Corporat
 
 ### Public Burden Statements and Privacy Act Notices
 
-[Please click here to view our current Public Burden Statements and Privacy Act Notices.](https://web.archive.org/pdf/cncs_burden_and_privacy_statements.pdf) (75 KB PDF)
+[Please click here to view our current Public Burden Statements and Privacy Act Notices.](https://web.archive.org/pdf/cncs_burden_and_privacy_statements.pdf) (112 KB PDF)
