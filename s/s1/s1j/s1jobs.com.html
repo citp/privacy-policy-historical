@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616131730id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2012-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613173546id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,7 +24,7 @@
  
 
 
-<script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580465953950"></script></head>
+<script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580465954657"></script></head>
 
 <body id="search">
 <div id="wrapper">
@@ -59,7 +59,7 @@
 
 <p>We collect non-personally identifiable data, known as ‘click-stream data’, across the portfolio of web sites owned by Newsquest (Herald &amp; Times) Ltd. This click stream data is anonymous, and includes information such as IP address, which pages have been visited and what actions have been taken.</p>
 
-<p>We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.</p>
+<p>We use cookies to collect this type of information. Cookies are files or pieces of information that may be stored on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Most browsers are initially set to accept cookies. However, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. <a href="/cookies/" title="Find out more about how we use cookies">Find out more about how we use cookies</a></p>
 
 <p><strong>The way we use information</strong></p>
 
@@ -177,7 +177,7 @@ playback timings (ms):
         
             <ul id="nav-menu">
                 <li class="home-nav"><a href="/" title="home">home</a></li>
-                <li class="my-account-nav"><a href="/myaccount/" title="my account">my account</a></li>
+                <li class="my-account-nav"><a href="/myaccount/" title="my account" rel="nofollow">my account</a></li>
                 <li class="news-guides-nav"><a href="/newsandguides/" title="news + guides">news + guides</a></li>    
                 <li class="public-sector-nav"><a href="http://public.s1jobs.com/" title="public sector">public sector</a></li>
                 <li class="recruiters-nav"><a href="/recruiters/" class="current" title="recruiters">recruiters</a></li>
@@ -187,8 +187,8 @@ playback timings (ms):
             <ul id="sub-menu">
             	<li><a href="/search/">advanced search</a></li>
                 <li><a href="/recruiterprofiles.html">recruiter profiles</a></li>
-                <li><a href="/myaccount/">job alerts by email</a></li>
-                <li><a href="/myaccount/career-profile/select/">add cv</a></li>
+                <li><a href="/myaccount/" rel="nofollow">job alerts by email</a></li>
+                <li><a href="/myaccount/career-profile/select/" rel="nofollow">add cv</a></li>
                 <li><a href="/help/">help</a></li>
             </ul>
 
@@ -248,14 +248,36 @@ s1JS.Jobs.fastAds.renderAd('leaderboard');
                     <li class="first"><a href="/help/"> Contact us</a> </li>
                     <li><a href="/terms/"> Terms of use</a>  </li>
                     <li><a href="/privacy/"> Privacy policy</a></li>
+                    <li><a href="/cookies/"> How We Use Cookies</a></li>
                     <li><a href="/directory/"> Jobs in Scotland</a></li>
-                    <li><a href="/myaccount/whats_rss.shtml/"> RSS Job Alerts</a></li>
+                    <li><a href="/myaccount/whats_rss.shtml/" rel="nofollow"> RSS Job Alerts</a></li>
                 </ul>
             </li>
         </ul>
             
         </div>
     </div><!-- end footer -->
+	
+	
+	<!-- AUDIENCESCIENCE --> 
+	<script> 
+	    audienceScienceSegments='';
+	    var rsi_segs = [];
+	    var segs_beg=document.cookie.indexOf('rsi_segs=');
+	 
+	    if (segs_beg>=0){
+	        segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+	        if(segs_beg>0){
+	            var segs_end=document.cookie.indexOf(';',segs_beg);
+	            if(segs_end==-1) segs_end=document.cookie.length;
+	            rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+	            audienceScienceSegments= document.cookie.substring(segs_beg,segs_end)
+	        }
+	    }
+	</script> 
+	<!-- /AUDIENCESCIENCE --> 
+	
+	
     <script src="/__utm.js" type="text/javascript"></script>
 
 <!-- omniture sitecatalyst -->
@@ -279,7 +301,7 @@ s1JS.Jobs.fastAds.renderAd('leaderboard');
  s.server=""
  s.channel=""
  s.pageType=""
- s.prop1=""
+ s.prop1="<tmpl_var name=keywords_required>"
  s.prop2=""
  s.prop3=""
  s.prop4=""
@@ -384,7 +406,7 @@ function OAS_AD(pos)
 
 
 document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + skeywords.join('&') + '"><\/SCR' + 'IPT>');
-</script><script language="JavaScript1.1" src="http://oas.newsquestdigital.co.uk/RealMedia/ads/adstream_mjx.ads/www.s1jobs.com/ads/s1jobs-run_of_site/1680228163@x05,x01,Right?"></script>
+</script><script language="JavaScript1.1" src="http://oas.newsquestdigital.co.uk/RealMedia/ads/adstream_mjx.ads/www.s1jobs.com/ads/s1jobs-run_of_site/1607647200@x05,x01,Right?"></script>
 
 
 
@@ -497,7 +519,7 @@ writeTracker();
                 </li>
                 
                 <li>
-                    <input type="hidden" id="sign-in-return-to" name="return_to" value="/web/20110616131730id_/http://www.s1jobs.com/privacy/">
+                    <input type="hidden" id="sign-in-return-to" name="return_to" value="/web/20120613173546id_/http://www.s1jobs.com/privacy/">
                     <span class="buttons"><button type="submit" class="standard">Sign In</button></span>
                     <a href="/web/20120120011458/http://www.s1jobs.com/myaccount/forgotten-password/" class="inline-link forgot-password">Forgotten Password</a>                
               </li>  
