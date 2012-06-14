@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the amog.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227074019id_/http%3A//amog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615010955id_/http%3A//amog.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | AMOG
 
 AMOG.COM PRIVACY POLICY  
-Last Updated: May 2009
+Last Updated: May 2012
 
 1\. Purpose
 
@@ -88,3 +88,10 @@ AMOG.com does not knowingly collect or solicit Personally Identifiable Informati
 17\. Affiliated sites, linked sites and advertisements.
 
 AMOG.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a AMOG.com page, certain content that is actually created or hosted by a third party. Also, through AMOG.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. AMOG.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+**Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.**
+
+**End users may opt out of behavioral targeting through the opt-out link located at  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
+
+**AMOG is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising:  [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).**  
+
