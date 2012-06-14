@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockytravel.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204085821id_/http%3A//www.rockytravel.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockytravel.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614210457id_/http%3A//www.rockytravel.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ Copyrights and Trademarks The contents of this site are protected by copyright u
 
 All materials contained on this website www.rockytravel.net are Copyright 2008-2011© Rocky Travel® VAT IT0163108093 - ALL RIGHTS RESERVED
 
-[Leave Rocky Travel® Privacy Policy and Disclaimer and return to the Home Page](http://rockytravel.net/en/home)
+[Leave Rocky Travel® Privacy Policy and Disclaimer and return to the Home Page](http://www.rockytravel.net/en/home)
