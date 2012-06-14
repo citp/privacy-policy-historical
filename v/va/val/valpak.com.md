@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154312id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614195104id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
 
-# Free Coupons, Food Coupons and Restaurant Coupons Online - Valpak.com
+# Free Printable Coupons, Local Deals, and Online Promo Codes - Valpak.com
 
 Effective on 9/21/2010
 
