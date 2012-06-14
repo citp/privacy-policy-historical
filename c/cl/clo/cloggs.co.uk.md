@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211022341id_/http%3A//www.cloggs.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614110016id_/http%3A//www.cloggs.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,7 +24,7 @@ The type of information we will collect about you includes:- your name, your add
   * \- Improve the layout and/or content of the pages of our website and customise them for users;
   * \- Identify visitors to our website;
   * \- Carry out research on our users' demographics and tracking of sales data;
-  * \- Send you information we think you may find useful or which you havce requested from us, including information about our products and services (or those of carefully selected third parties), provided you have indicated that you do not object to being contacted for these purposes.
+  * \- With your consent upon registering with us, send you information we think you may find useful or which you have requested from us, including information about our products and services (or those of carefully selected third parties), provided you have indicated that you do not object to being contacted for these purposes.
 
 
 
@@ -34,7 +34,7 @@ At any stage you also have the right to ask us to stop using your personal data 
 
 ## Controlling Your Personal Information
 
-The website is owned by Libcol Ltd and the Data Controller is Venda
+The website is owned by Cloggs (UK) Limited and the Data Controller is Venda
 
 The data controller is responsible for and controls the processing of your personal data in accordance with the Data Protection Act 1998. We are registered with the Information Commissioner's Office and our registration number is 01422012.
 
@@ -49,15 +49,7 @@ We will use the information you provide to send you information we think you may
 
 If you do not want to hear about Cloggs product offers, sales or promotions that we believe you may be interested in can be removed from the offer list by sending an email to customerservices@cloggs.co.uk; or by following the instructions at [www.cloggs.co.uk/page/newsletterunsubscribe](https://web.archive.org/page/newsletterunsubscribe)
 
-**Data Protection:** we know that you care how the information about you is used an shared and we appreciate your trust in us to do that carefully and sensibly and in full compliance with the Data Protection Act 1998. Many of our customers are interested in hearing about related products and services. Therefore, we occasionally make our mailing list available to other very carefully selected organisations whose products and services may be of interest to you. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. You can opt-out any time by writing to us at the address below:
-
-Libcol Ltd t/a Cloggs.co.uk  
-7th Floor, The Charters  
-102 New Street  
-Birmingham  
-United Kingdom  
-B2 4HQ   
-
+**Data Protection:** we know that you care how the information about you is used an shared and we appreciate your trust in us to do that carefully and sensibly and in full compliance with the Data Protection Act 1998.
 
 ## Automatic Customer Tracking
 
