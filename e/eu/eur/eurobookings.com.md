@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226022310id_/http%3A//www.eurobookings.com/privacy.html%3Fq%3Drmcnf%3A1%5B2%2C0%5D%3Bcur%3AEUR%3Bfrm%3A1%3Bsort%3A0_desc%3B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614114536id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
 
 # Eurobookings.com - Privacy statement
 
