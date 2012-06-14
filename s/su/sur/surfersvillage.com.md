@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001251id_/http%3A//www.surfersvillage.com//popup/popup4.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfersvillage.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614103051id_/http%3A//www.surfersvillage.com/popup/popup4.htm) for the most accurate reproduction.*
 
 # Privacy
 
-**Wahinesurfing Privacy Policy**
+### PRIVACY POLICY
 
-**Our commitment to you**
+Surfersvillage is concerned about the protection of online privacy for all our website visitors. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process.
 
-Surfersvillage is concerned about the protection of online privacy for all our website visitors. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process. Any cookie technology (where our servers deposit special codes on a visitor's computer) will only be used to track non-personal information such as type of browser, operating system, and domain names to improve our visitors' online experience.
+Any cookie technology (where our servers deposit special codes on a visitor's computer) will only be used to track non-personal information such as type of browser, operating system, and domain names to improve our visitors' online experience. 
 
 There is much confusion about cookies, how they are used, and what they can do. Cookies are very small text files written by an Internet server to a customer's browser when information is exchanged. Cookies only contain information that the server computer "knew" in the first place and can only be read by the serving domain that placed them. Cookies are an essential part of how the Internet works today and allow server computers to recognize your computer's browser when you return.
 
 If you have ever gone to a web page that automatically provides personalized content to you without you having to "log in," such as your own stock portfolio, this is almost certainly being accomplished with a cookie. As cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information or transmit it to anyone.
 
-Cookies are implemented as part of the technology implemented by your web browser.
+Cookies are implemented as part of the technology implemented by your web browser.  
+For Netscape please visit : http://home.netscape.com/   
+For Microsoft please visit : http://www.microsoft.com/   
 
-For Netscape please visit : http://home.netscape.com/ For
-
-Microsoft please visit : http://www.microsoft.com/
 
 Surfersvillage only collects personally identifiable data, such as names, addresses, email addresses, and the like, when voluntarily submitted by a visitor. In addition, we advise minors to get parental permission before filling out any online forms.
 
@@ -26,6 +25,4 @@ In some instances, when an email address has been provided by the visitor, and t
 
 These notices, sent periodically, will announce website upgrades, new product information and other similar updates.
 
-We reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy.
-
-© 2004 Surfersvillage.com - All Rights Reserved. 
+Surfersvillage reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy. 
