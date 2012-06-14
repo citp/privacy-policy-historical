@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the provenpixel.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228182054id_/http%3A//provenpixel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provenpixel.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614164156id_/http%3A//www.provenpixel.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ProvenPixel
 
@@ -34,4 +34,4 @@ Our Website may contain links to Websites operated by other companies. Some of t
 
 **Changes to this Privacy Policy:** SourceKnowledge will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
 
-**Questions or Suggestions:** If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us using our [contact form](https://web.archive.org/web/20111228182054id_/http%3A//provenpixel.com/contact.html).
+**Questions or Suggestions:** If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us using our [contact form](https://web.archive.org/web/20120614164156id_/http%3A//www.provenpixel.com/contact.html).
