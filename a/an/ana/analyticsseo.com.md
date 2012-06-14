@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the analyticsseo.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117030014id_/http%3A//www.analyticsseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticsseo.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614104739id_/http%3A//www.analyticsseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Analytics SEO
 
 ### **Our Commitment to Privacy**
 
-Analytics SEO is a service provided by Dizzy Heights (UK) Limited. 
+Analytics SEO is a service provided by Analytics SEO Limited. 
 
 Your privacy is important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
@@ -30,13 +30,13 @@ This data is collected using first party cookies and covers visitor information 
 
 We use the information you provide about yourself when placing an order only to complete that order and to provide fantastic customer service during the term of your service. We do not share this information with outside parties without your permission. 
 
-Although Dizzy Heights owns the data storage, databases and the Analytics SEO site, you retain all rights to your data. 
+Although Analytics SEO Ltd owns the data storage, databases and the Analytics SEO site, you retain all rights to your data. 
 
 We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses, except under the following circumstances:
 
 If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service, or as otherwise required by law.
 
-If Dizzy Heights or Analytics SEO is acquired by or merged with another company,  Dizzy Heights will notify you before information about you is transferred and becomes subject to a different privacy policy.
+If Analytics SEO Ltd is acquired by or merged with another company,  Analytics SEO Ltd will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 ### **Data Sharing Programme & SEO Effectiveness Research**
 
@@ -58,7 +58,7 @@ These safeguards help prevent unauthorised access, maintain data accuracy, and e
 
 ### **Cancellation or Termination of the Account**
 
-If you choose to cancel your account and leave the Analytics SEO service or if your account is terminated because of your breach of the Terms of Service, please be aware that Dizzy Heights may for a time retain residual information in our backup and/or archival copies in our database. We will make reasonable commercial efforts to delete your information as soon as reasonably practical.
+If you choose to cancel your account and leave the Analytics SEO service or if your account is terminated because of your breach of the Terms of Service, please be aware that Analytics SEO Ltd may for a time retain residual information in our backup and/or archival copies in our database. We will make reasonable commercial efforts to delete your information as soon as reasonably practical.
 
 ### **Our Commitment to Children's Privacy**
 
