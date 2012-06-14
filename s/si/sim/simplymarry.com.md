@@ -1,62 +1,72 @@
-> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229213808id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614180414id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Matrimony - Simplymarry Matrimonial
 
-This privacy statement discloses the privacy practices of SimplyMarry.com and all websites owned or operated by SimplyMarry.com and its subsidiaries and corporate affiliates. 
+Times Business Solutions Ltd, (TBSL) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties - www.timesjobs.com, www.magicbricks.com, www.simplymarry.com, www.ads2book.com, www.peerpower.com and www.yolist.comTBSL. 
 
-  * Information that we collect from you
-  * How we collect and use information
-  * Disclosure of your information to third parties
-  * Links to or Access from other sites
-  * Contacting the Website
-  * Acceptance of Privacy Statement
+TBSL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TBSL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TBSL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
+
+**By using TBSL’s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.**
+
+USER INFORMATION
+
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
+
+All required information is service dependent and TBSL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services.
+
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force. 
+
+COOKIES
+
+To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
+
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
+
+LINK TO THIRD PARTY SITES
+
+TBSL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
+
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TBSL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you. 
+
+INFORMATION SHARING
+
+TBSL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
+
+**a)** When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
+
+**b)** TBSL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+
+ACCESSING AND UPDATING PERSONAL INFORMATION
+
+When you use TBSL’s websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. 
+
+INFORMATION SECURITY
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+
+All information gathered on TBSL is securely stored within the TBSL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. 
+
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.   
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [tbsl-legal@indiatimes.co.in](mailto:tbsl-legal@indiatimes.co.in) ; or write at the following address: 
+
+**Times Business Solutions Limited**  
+(A Times Group Company)  
+Times Center  
+6 FC, Film City  
+Sector 16 A ,  
+Noida - 201301  
+INDIA   
+Ph: 0120-330 2768  
+[legal.tbsl@timesgroup.com](mailto:legal.tbsl@timesgroup.com)
+
+We request you to please provide the following information in your complaint:-
+
+  1. Identification of the information provided by you 
+  2. Clear statement as to whether the information is personal information or sensitive personal information 
+  3. Your address, telephone number or e-mail address. 
+  4. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be. 
+  5. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
 
 
-
-  
-
-
-Information that we collect from you:
-
-We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, user-specified password, e-mail Id, mailing address, zip code and telephone number or fax number. 
-
-How we collect and use information:
-
-  * **Information about you-** When you register or subscribe to any of our services, we collect a wide variety of information about you. We collect information from you primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience. We might display your marital status and most recent log-in date and other profile/account information to your matches. Finally, for interactive content and community services such as Advice where you may choose to have a public profile, we may display your information to other visitors. You may choose to provide us with your photo(s) and by providing us such content, you agree that we may make them available to your matches and users of SimplyMarry's services. 
-  * **Purchase Information-** To process purchases, we may require your name, address, phone number, email address and credit card information. Such information is used primarily to process your order or as otherwise described herein. SimplyMarry.com is a VeriSign secure site, which ensures complete safety of your online payments and credit card details. 
-  * **E-mails and Calls-** We require an e-mail address from you when you register for our services. We use your e-mail for both transactional (e.g., order confirmation, refund and renewal processing, notifying of matches for our Singles service) and promotional (e.g., newsletters, new product offerings, special discounts, event notifications, special third-party offers) purposes. E-mail messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked. We reserve the right to send you certain communications relating to the SimplyMarry services, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by telephone or text message (including to any wireless number you may provide to us) solely in connection with SimplyMarry's services. 
-
-
-
-Disclosure of your information to third parties:
-
-The information collected from our clients is shared only with members of SimplyMarry or members of our partners. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. 
-
-  * **Disclosure by Law-** You acknowledge and agree that we may disclose information you provide if required to do so by law, 
-  * **Disclosure to trusted third parties by us-** We may share your information with third parties, but not in a manner that would reveal your identity and share your information with service providers that may be associated with us to perform functions on our behalf. Your information will be treated as private and confidential by such service providers and not used for any other purpose than we authorize. 
-  * **Disclosure to trusted third parties at your request-** When purchasing a SimplyMarry subscription or while visiting our site, we may provide you with advertisements, promotions, sweepstakes and offers from third party providers. If you choose to accept any such offers, you may either (depending on the situation) directly provide your information in connection with the offer to such third party provider, or we will provide your information, including billing information, to the third party provider by pre-populating the offer registration forms. Your information will not be transferred until you actually accept the offer. You may opt-out of the offer at any time up until this point. Please refer to the third party provider's own privacy policy (provided on the offer pages) if you have any questions regarding how your information is used by such providers. Please be aware that these offers may be presented on pages framed by a SimplyMarry website. We do this to provide a seamless experience. Although these offer pages have the look and feel of our websites, you will be submitting your information directly to the third-party advertiser. You agree that we will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings, including the sharing of the information you supply to us with third party providers described here, or as the result of the presence of such providers on SimplyMarry site. 
-
-
-
-Links to or Access from other sites:
-
-We may contain links to other websites. Please be aware that SimplyMarry is not responsible for the privacy practices of other Web sites. We encourage you to be aware of this when you leave our site, and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by SimplyMarry.
-
-Contacting the Website:
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with any SimplyMarry websites, you can contact:
-
-[**SimplyMarry.com**](http://www.simplymarry.com/)  
-Times Business Solutions Ltd.,   
-Times Center (Digital Content Production Facility),  
-FC - 6, (Ground Floor), Sector 16 A, Film City,  
-NOIDA - 201 301 - (U.P.)
-
-Acceptance of Privacy Statement:
-
-Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service.  
-**By using our website, you are accepting the practices set out in this privacy statement and the applicable terms and conditions of service.**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement page and any other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by other means, such as e-mail, at our discretion.
-
-Your continued use of any portion of our website following posting of the updated privacy statement will constitute your acceptance of the changes. 
