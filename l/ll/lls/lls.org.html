@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504121455id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614182255id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <link rel="icon" type="image/gif" href="/assets/images/icons/favicon.ico">
@@ -31,17 +31,16 @@
             <![endif]-->
 <!-- Google Analytics Tracking Code -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-225158-16']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-225158-16']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 </script>
     <script type="text/javascript" src="/js/jquery/jquery-1.4.2.js"></script>
 <script type="text/javascript" src="/js/jquery/jqueryslidemenu.js"></script>
@@ -184,11 +183,11 @@ attachClicksToLinks = function(linkElements, expandLeftNavigation) {
              If the link is to a resource with '.pdf', or under a /pdf/ directory, then assume it's
              a pdf document and open in a new window. Or if the link targets a new window open in a new window
              */
-            var extension = urlString.match(/\.doc|\.docx|\.pdf|\.ppt|\.pptx|\.xls|\.xlsx|\.mp3/gi);
-            var validExtension = extension != "" && extension != undefined && extension != null;
+            var extension = urlString.match(/\.doc|\.docx|\.pdf|\.ppt|\.pptx|\.xls|\.xlsx|\.mp3/gi) + "".toString();
+            var validExtension = extension != "" && extension != undefined && extension != null && extension != "null";
             if (validExtension || urlString.indexOf('/pdf/') > -1 || link.attr('target') == '_blank') {
-                if (validExtension)_gaq.push(['_trackEvent','Document', extension, urlString]);
-                else _gaq.push(['_trackEvent','Page', "target _blank", urlString]);
+                if (validExtension) _gaq.push([ '_trackEvent', extension, 'Downloads', urlString ]);
+                else _gaq.push([ '_trackEvent', 'Outgoing', 'Links', urlString ]);
                 window.open(link.attr('href'));
                 return false;
             }
@@ -296,7 +295,7 @@ loadInternalScript = function () {
                 var script = jQuery(data).text();
                 eval(script);
             });
-    }
+        }
     })
 };
 addParamToUrl = function(url, key, value) {
@@ -632,7 +631,7 @@ errorReturnClick = function(shouldAbort) {
                                                 </li>
                                                 <li>
 <a href="/diseaseinformation/myeloproliferativediseases/">
-	Myeloproliferative Diseases
+	Myeloproliferative Neoplasms
 </a>
                                                 </li>
                                                 <li>
@@ -879,6 +878,8 @@ Footer Items (not in left nav)
 								<a href="/footer/disclaimer/">Disclaimer</a>
 				      	 		&nbsp;|&nbsp;	
 								<a href="/footer/refund/">Refund Policy</a>
+				      	 		&nbsp;|&nbsp;	
+								<a href="/footer/publicdisclosure/">Public Disclosure</a>
 				</div>
 			</div>
 			<div id="footerRight">
@@ -987,7 +988,7 @@ Footer Items (not in left nav)
 						    		</li>
 					    	 		<li>
 <a href="/diseaseinformation/myeloproliferativediseases/">
-	Myeloproliferative Diseases
+	Myeloproliferative Neoplasms
 </a>
 						    		</li>
 					    	 		<li>
@@ -1094,6 +1095,8 @@ Footer Items (not in left nav)
     <div class="clearfloat"></div>
   </div>
 </div>
-            	
+            		<script src="http://resolacen.netmng.com/?aid=146&amp;tax=leu" type="text/javascript" defer="defer">
+		</script>
+	
 
 </body></html>
