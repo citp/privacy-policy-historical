@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223093153id_/http%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shmoop.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614073455id_/http%3A//www.shmoop.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy
 
