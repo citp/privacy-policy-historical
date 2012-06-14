@@ -1,86 +1,60 @@
-<!--The following is the downloaded HTML source of the fileswap.com privacy policy that was archived on 2011-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111020135154id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fileswap.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614020000id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link type="text/css" rel="stylesheet" href="/_css/global.css?v=20">
-		<script type="text/javascript" src="/_js/jquery.js"></script>
-		<script type="text/javascript" src="/_js/jquery-ui.js"></script>
-		<script type="text/javascript" src="/_js/jquery.ui.multidraggable-1.8.8.js"></script>
-		<script type="text/javascript" src="/_js/supersleight.plugin.js"></script>
-		<script type="text/javascript" src="/_js/base64.js"></script>
-		<script type="text/javascript" src="/_js/global.js?v=10"></script>
-<script type="text/javascript">
- $(document).ready(function(){
-$('.trans').supersleight();
- });
-</script>
-		<title>FileSwap.com : Privacy Policy</title>
+		<link type="text/css" rel="stylesheet" href="/_css/global.css?v=40">
+		<!--[if gte IE 6]>
+		<link type="text/css" rel="stylesheet" href="/_css/ie.css"/>
+		<![endif]-->
+		<script type="text/javascript" src="/_js/compiled.js?ver=d2d20f3c005fa77e4951cf4f59e1b787"></script>
+		<script type="text/javascript" src="/_js/global.js?ver=1"></script>
 		
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.trans').supersleight();
+			});
+		</script>
+		<title>FileSwap.com : Privacy Policy</title>
+		<meta property="og:site_name" content="FileSwap.com">
+		<meta property="og:image" content="http://www.fileswap.com/_images/icon.png">
+		<meta property="fb:app_id" content="129527953724571">
+		
+		<script type="text/javascript">var __st_loadLate=true; var switchTo5x=true;</script>
+		<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher: '2b0d0175-317a-4f7a-8cb2-8408514d3020'});</script>
 	</head>
-	<body onclick="bodyClick();">
-		<ul id="myMenu" class="contextMenu">
-			<li class=""><a href="#open">Open</a></li>
-			<li class="edit separator"><a href="#edit">View Information</a></li>
-			<li class="delete"><a href="#delete">Delete</a></li>
-		</ul>
+	<body onclick="bodyClick();" id="body">
+		<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+		<script type="text/javascript">
+			window.fbAsyncInit = function() {
+			FB.init({
+			appId : '129527953724571',
+			cookie : true, // enable cookies to allow the server to access the session
+			xfbml : true, // parse XFBML
+			oauth : true
+		});
 
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-	<script type="text/javascript">
-		window.fbAsyncInit = function() {
-		FB.init({
-		appId : '129527953724571',
-		session : null, // don't refetch the session when PHP already has it
-		status : true, // check login status
-		cookie : true, // enable cookies to allow the server to access the session
-		xfbml : true // parse XFBML
-	});
-
-	// whenever the user logs in, we refresh the page
-	FB.Event.subscribe('edge.create', function(targetUrl) {
-	  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
-	});
-	FB.Event.subscribe('auth.login', function() {
-		document.location='/legal/privacy_policy.php?';
-	});
-	};
-	(function() {
-	var e = document.createElement('script');
-	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-	e.async = true;
-	document.getElementById('fb-root').appendChild(e);
-	}());
-	</script>
+		// whenever the user logs in, we refresh the page
+		FB.Event.subscribe('auth.login', function(response) {
+			if (response.authResponse)
+				setInterval("window.location.reload();",1000);
+		});
+		};
+		(function() {
+			var e = document.createElement('script'); e.async = true;
+			e.src = document.location.protocol +
+				'//connect.facebook.net/en_US/all.js';
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		</script>
 
 
-<div style="z-index:9005; position:absolute;top:120px;	width:500px; left:390px;font-size:12px; text-align:center;display:none;" id="uploadDLG" class="popup">
- <div class="popupToolbar" style="text-align:left;"><b>Upload to FileSwap</b><img style="float:right;" src="/_images/icon/icon_close.gif" onclick="$('#uploadDLG').hide(); $('#uploadModal').hide();" alt=""></div><br>
- <br><div style="color:#555555;margin-bottom:20px;text-align:center;">Tip: Select multiple files by holding the Ctrl key when clicking them.</div>
-
-<div id="buttonPlaceholder">Loading...</div>
-
-<div style="text-align:left; color:#555;margin-top:40px; border:1px solid #e0e0e0; background:white; padding:10px;">
-Having trouble? Choose another upload option:
-<ol>
-<li><a href="/client/">FileSwap Client</a>: Automatically sync from your desktop PC!</li>
-<li><a href="/account/ftp.php">FTP Upload</a>: Upload with an FTP client</li>
-<li><a href="#remoteurl" onclick="onclickPopupShow(this, '%0D%0A%3Cdiv%20style%3D%22display%3Ainline%3B%20%22%3E%0D%0A%09%09%3Cdiv%20class%3D%22popupToolbar%22%3E%3Cb%3EUpload%20From%20Remote%20URLs%3C%2Fb%3E%3Cimg%20style%3D%22float%3Aright%3B%22%20src%3D%22%2F_images%2Ficon%2Ficon_close.gif%22%20onclick%3D%22onclickPopupHide%28%29%3B%20%24%28%27%23uploadModal%27%29.hide%28%29%3B%22%3E%3C%2Fdiv%3E%0D%0A%09%09%3Cbr%2F%3E%0D%0A%0D%0A%3Cbr%2F%3E%0D%0A%3Cdiv%20class%3D%22popuplabel%22%20style%3D%22width%3A400px%3B%22%3EEnter%20multiple%20URL%27s%20separated%20by%20new%20lines%20and%20FileSwap.com%20will%20fetch%20any%20files%20from%20these%20URLs%20to%20your%20account%21%0D%0A%3Cbr%2F%3E%3Cbr%2F%3EExample%3A%20%3Cbr%2F%3E%0D%0Ahttp%3A%2F%2Fwww.fileswap.com%2Ffile1%3Cbr%2F%3E%0D%0Ahttp%3A%2F%2Fwww.fileswap.com%2Ffile2%0D%0A%3C%2Fdiv%3E%0D%0A%3Cbr%2F%3E%0D%0A%3Cb%3EURL%28s%29%3A%20%3C%2Fb%3E%20%3Cbr%2F%3E%3Ctextarea%20id%3D%22txtURL%22%3E%3C%2Ftextarea%3E%3Cbr%2F%3E%0D%0A%3Cbutton%20type%3D%22submit%22%20name%3D%22submit%22%20onclick%3D%22onclickPopupHide%28%29%3B%20%24%28%27%23uploadModal%27%29.hide%28%29%3B%22%3ECancel%3C%2Fbutton%3E%20%3Cbutton%20style%3D%22margin-left%3A5px%3B%22%20onclick%3D%22uploadURL%28%29%3B%22%29%3B%20%22%3EStart%20remote%20upload%3C%2Fbutton%3E', 'bottom', 'right'); $('#uploadDLG').hide();">Remote URL</a>: Upload directly from another website</li>
-</ol>
-
-</div>
-<br><br>
-<button onclick="$('#uploadDLG').hide(); $('#uploadModal').hide();" class="btn_00" value="" name="submit" type="submit">
-			<span>Cancel</span>
-		</button>
-</div>
-<div id="uploadModal" style="display: none; z-index: 5000; background-color: rgb(204, 204, 204); width: 1366px; height: 768px; position: absolute; top: 0px; left: 0px; opacity: 0.6;"></div>
-				<script type="text/javascript">
-				$("#uploadModal").css({"width": $(document).width(), "height":$(document).height()});
-				</script>
+		<div id="uploadModal" style="display:none;z-index:5000; background-color:#CCC; width:100%; height: 100%; position:fixed; top:0; left:0; opacity:.60;opacity:0.6;filter:alpha(opacity=60);">
+		</div>
 
 
-
-		<div style="position:absolute; left:0; top:212px; z-index:-1;" onclick="javascript:document.location='/feedback/';">
+		<div style="position:absolute; left:0; top:212px; z-index:-1; cursor:pointer;" onclick="javascript:document.location='/feedback/';">
 			<a href="/feedback/">
 				<img src="/_images/feedback2.gif" border="0" style="z-index:-1;" alt="">
 			</a>
@@ -88,192 +62,181 @@ Having trouble? Choose another upload option:
 		<div><div style="background-color:#AA0000;color:white;font-size:20px;padding:10px;position:absolute;text-align:center;z-index:200; width:100%; display:none;" id="delWarning">File will be deleted for good!</div></div>
 		<div align="center" style="width: 974px; margin: 0px auto; position:relative;">
 			
-			<table style="width:974px;" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="38%" valign="top" align="left">
-						<div style="padding-top:15px; padding-left:15px; ">
-							<a href="/"><img class="trans" src="/_images/logo/fileswap_large.png" alt="File Swap - Sharing Made Simple"></a>
-						</div>
-					</td>
-					<td width="62%" align="right" valign="top">
-						<table cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td valign="top" align="right" height="50">
-									<div style="width:180px; padding-left:10px; padding-right:10px; position:relative;" class="page_header">
-										<div style="position: absolute; left: -1px; width: 180px; top:28px;text-align:left;display:none; z-index:99999" id="loginBox" class="page_header">					
-											<form name="loginForm" action="/account/login.php">
-												<span style="font-size:12px;">Email:</span>
-												<br>
-												<input type="text" id="username" name="username" style="width:160px;">
-												<br>
-												<span style="font-size:12px;">Password:</span>
-												<br>
-												<input type="password" name="password" style="width:160px;" onkeydown="if(event.keyCode==13) document.loginForm.submit();">
-												<br><input type="checkbox" name="rememberme" value="1" checked="checked"> <span style="font-size:11px;">Remember me </span>
-											<br>
-												<a href="#" onclick="document.loginForm.submit();">Log in</a> | <a href="/account/forgot_pass.php">Forgot Password?</a>
-											<br><br>
-											<fb:login-button perms="email" onclick="">Login with Facebook</fb:login-button>	
-											</form>								
-										</div>			
-										<span style="border-right:1px dotted;padding-right:12px;"><a href="#" onclick="$('#loginBox').slideToggle(); $('#username').focus(); ">Login</a></span>
-										<span style="padding-left:10px;"><a href="/account/signup.php">Create FREE Account</a></span>
-									</div>
-								</td>
-							</tr>
-							<tr>
-								<td valign="bottom" style="white-space:nowrap;" width="518" height="60" align="right">
-									<div style="width:86px;" class="tabmenu_item tabmenu_rightitem">
-										<div style="float:left; width:85px; text-align:center;">
-											<a href="/overview/">Overview</a>
-										</div>
-									</div>
-									<div style="width:86px;" class="tabmenu_item">
-										<div style="float:left; width:85px; margin-right:1px; border-right:1px dotted #749ad7;	text-align:center;">
-											<a href="/affiliate/">Make $$$</a>
-										</div>
-									</div>
-									<div style="width:80px;" class="tabmenu_item">
-										<div style="float:left; width:79px; margin-right:1px; border-right:1px dotted #749ad7;	text-align:center;">
-											<a href="/premium/">Premium</a>
-										</div>
-									</div>
-									<div style="width:85px;" class="tabmenu_item ">
-										<div style="float:left; width:84px; margin-right:1px; border-right:1px dotted #749ad7; text-align:center;">
-											<a href="/client/">PC Client</a>
-										</div>
-									</div>
-									<div style="width:171px;" class="tabmenu_item tabmenu_leftitem">
-										<div style="float:left; width:170px; margin-right:1px; border-right:1px dotted #749ad7; text-align:center;">
-											<a href="/">Upload / Manage Files</a>
-										</div>
-									</div>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
+			<div style="width:974px; height:110px; position:relative;">
+				<a href="/"><img style="display:block; position:absolute; top:15px; left:15px; width:302px; height:88px;" class="trans" src="/_images/logo/fileswap_large.png" alt="File Swap - Sharing Made Simple"></a>
+				
+				<div style="width:180px; position:absolute; top:0px; right:0px;" class="page_header">
+					<div style="position: absolute; left: -1px; width: 180px; top:28px;text-align:left;display:none; z-index:99999" id="loginBox" class="page_header">
+						<form name="loginForm" action="https://www.fileswap.com/account/login.php" method="POST">
+							<span style="font-size:12px;">Email:</span>
+							<br>
+							<input type="text" id="username" name="username" style="width:160px;">
+							<br>
+							<span style="font-size:12px;">Password:</span>
+							<br>
+							<input type="password" autocomplete="off" name="password" style="width:160px;" onkeydown="if(event.keyCode==13) document.loginForm.submit();">
+							<br><input type="checkbox" name="rememberme" value="1" checked="checked"> <span style="font-size:11px;">Remember me </span>
+							<br>
+							<a href="#" onclick="document.loginForm.submit();">Log in</a> | <a href="/account/forgot_pass.php">Forgot Password?</a>
+						<br><br>
+						<fb:login-button scope="email" onclick="">Login with Facebook</fb:login-button>
+						</form>
+					</div>
+					<span style="border-right:1px dotted;padding-right:12px;"><a href="#" onclick="$('#loginBox').slideToggle(); $('#username').focus(); ">Login</a></span>
+					<span style="padding-left:10px;"><a href="https://www.fileswap.com/account/signup_start.php">Create FREE Account</a></span>
+				</div>
+				<div class="tabmenu">
+					<span onclick="location.href='/'" class="tabmenu_item tabmenu_item_hover tabmenu_leftitem">
+					<a href="/">Upload</a>
+					<span style="display:block; position:absolute; right:0px; top:8px; width:0px; overflow:hidden; border-right:1px dotted #749ad7; height:16px;">
+						&nbsp;
+					</span>
+				</span>
+					<span onclick="location.href='/client/'" class="tabmenu_item tabmenu_item_hover">
+					<a href="/client/">Sync</a>
+					<span style="display:block; position:absolute; right:0px; top:8px; width:0px; overflow:hidden; border-right:1px dotted #749ad7; height:16px;">
+						&nbsp;
+					</span>
+				</span>
+					<span onclick="location.href='/premium/'" class="tabmenu_item tabmenu_item_hover">
+					<a href="/premium/">Upgrade</a>
+					<span style="display:block; position:absolute; right:0px; top:8px; width:0px; overflow:hidden; border-right:1px dotted #749ad7; height:16px;">
+						&nbsp;
+					</span>
+				</span>
+					<span onclick="location.href='/affiliate/'" class="tabmenu_item tabmenu_item_hover">
+					<a href="/affiliate/">Spread the Word!</a>
+					<span style="display:block; position:absolute; right:0px; top:8px; width:0px; overflow:hidden; border-right:1px dotted #749ad7; height:16px;">
+						&nbsp;
+					</span>
+				</span>
+					<span onclick="location.href='/overview/'" class="tabmenu_item tabmenu_item_hover tabmenu_rightitem">
+					<a href="/overview/">Overview</a>
+				</span>
+				</div>
+			</div>
 			
-		<div class="rounded_block centered_block">
-		<div class="top_left"></div>
-		<div class="top_right"></div>
-		<div class="bot_left"></div>
-		<div class="bot_right"></div>
-		<div class="rounded_block_header">
-			FILESWAP.COM'S PRIVACY POLICY
-		</div>
-		<div class="rounded_block_cnt">
-			This Privacy Policy applies to the following website:  (1) <b>www.FileSwap.com.</b>
-			('Site').
-			<br>
-			<br>
-			We are committed to protecting your privacy.  The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while using our Site.  By accessing and using our Site, you signify your assent to this Privacy Policy.  If you do not agree with our information practices, please do not access or use our Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page.  Such changes will be effective upon posting.
-			<br>
-			<br>
-			<br>
-			<b>Information Collection and Use</b>
-			<br>
-			<br>
-			The host/user is the sole owner of the information collected on the Site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points throughout our Site.
-			<br>
-			<br>
-			<br>
-			<b>Registration Forms</b>
-			<br>
-			<br>
-			In order to gain access to our Site, you may be requested to provide us with your date of birth.  In addition, in order to become a member of our Site, a user must complete the on-line registration form. During registration, a host is required to provide us with certain contact information (which may include your name, corporate information, desired host's subdomain name, and e-mail address).  This information is used to set-up and maintain an account.  If we need to contact a user, the contact information is used to get in touch with the host/user.  From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs.
-			<br>
-			<br>
-			<br>
-			<b>Cookies</b>
-			<br>
-			<br>
-			A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our Site, we are able track IP addresses and browser preferences in order to enhance and personalize your experience at our Site.  Please note that some of our business partners may also use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies.
-			<br>
-			<br>
-			<br>
-			<b>Profiling</b>
-			<br>
-			<br>
-			From time to time, we may combine personal information and preferences collected on-line with personal information and preferences collected off-line in order to enhance and personalize our services.
-			<br>
-			<br>
-			<br>
-			<b>Sharing</b>
-			<br>
-			We may share aggregated demographic information with our sponsors.  This is not linked to any personal information that can identify any individual person.  From time to time, we may contract another party to provide certain specific services to our hosts/users.  If we have collected your personally identifiable information from one Site, that Site may share the information with other sites within our network in order to provide you with additional goods and services for which we believe you may be interested.
-			<br>
-			<br>
-			Except as provided above, we do not currently sell or otherwise make available personally identifiable information about our users to third parties.  Nevertheless, we reserve the right to make such information available to third parties in the future in order to enhance and personalize our services, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership.
-			<br>
-			<br>
-			<br>
-			<b>Law Enforcement</b>
-			<br>
-			<br>
-			We will cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law.  We will also notify the appropriate authorities if we suspect that any of our users are engaged in illegal activities, such as obscenity or child pornography.
-			<br>
-			<br>
-			<br>
-			<b>Links</b>
-			<br>
-			<br>
-			The Site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Site they should read the privacy statements of each and every web site that collects personally identifiable information.
-			<br>
-			<br>
-			<br>
-			<b>Security</b>
-			<br>
-			<br>
-			We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We encourage you to contact us if you are interested in learning more about our security measures.
-			<br>
-			<br>
-			<br>
-			<b>Third Party Sources of Information</b>
-			<br>
-			<br>
-			From time to time and in order to enhance our services, we may supplement the information we receive from you with information we obtain from third party sources.
-			<br>
-			<br>
-			<br>
-			<b>Children</b>
-			<br>
-			<br>
-			Our Site is not intended for children.  Our Site does not target children, nor do we solicit data, or knowingly collect personally identifiable information from them.  We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit.
-			<br>
-			<br>
-			<br>
-			<b>Correction/Updating Personal Information</b>
-			<br>
-			<br>
-			If a user's personally identifiable information changes (such as phone number or a credit card number), or if a user no longer desires our service, you may contact us to correct or update this information.
-			<br>
-			<br>
-			<br>
-			<b>Choice/Opt-out </b>
-			<br>
-			<br>
-			From time to time, we may send our hosts/users e-mail or other notices regarding new services, promotions, or other information which may be of general interest.  Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us.
-			<br>
-			<br>
-			<br>
-			<b>Notification of Changes</b>
-			<br>
-			<br>
-			We reserve the right to modify this Privacy Policy at any time by posting such changes on our Site.  Any changes to this Privacy Policy will become effective upon posting such changes.  If you access or use our Site, you are required to periodically check our Privacy Policy for any changes.  If you continue to access or use any of our Site after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
-			<br>
-			<br>
-			If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes.  You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy.  The notice will provide you with an opportunity to 'opt-out' so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information.  If you do not affirmatively 'opt-out' pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice.  (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may 'opt-out' so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information.  If you do not affirmatively 'opt-out' pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).
-			<br>
-			<br>
-			<br>
-			<b>Contact Information</b>
-			<br>
-			<br>
-			If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please use the feedback form <a href="/feedback/">here</a>.
-		</div>
+			<div class="rounded_block centered_block">
+	<div class="top_left"></div>
+	<div class="top_right"></div>
+	<div class="bot_left"></div>
+	<div class="bot_right"></div>
+	<div class="rounded_block_header">
+		FILESWAP.COM'S PRIVACY POLICY
 	</div>
+	<div class="rounded_block_cnt">
+		This Privacy Policy applies to the following website:  (1) <b>www.FileSwap.com.</b>
+		('Site').
+		<br>
+		<br>
+		We are committed to protecting your privacy.  The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while using our Site.  By accessing and using our Site, you signify your assent to this Privacy Policy.  If you do not agree with our information practices, please do not access or use our Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page.  Such changes will be effective upon posting.
+		<br>
+		<br>
+		<br>
+		<b>Information Collection and Use</b>
+		<br>
+		<br>
+		The host/user is the sole owner of the information collected on the Site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points throughout our Site.
+		<br>
+		<br>
+		<br>
+		<b>Registration Forms</b>
+		<br>
+		<br>
+		In order to gain access to our Site, you may be requested to provide us with your date of birth.  In addition, in order to become a member of our Site, a user must complete the on-line registration form. During registration, a host is required to provide us with certain contact information (which may include your name, corporate information, desired host's subdomain name, and e-mail address).  This information is used to set-up and maintain an account.  If we need to contact a user, the contact information is used to get in touch with the host/user.  From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs.
+		<br>
+		<br>
+		<br>
+		<b>Cookies</b>
+		<br>
+		<br>
+		A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our Site, we are able track IP addresses and browser preferences in order to enhance and personalize your experience at our Site.  Please note that some of our business partners may also use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies.
+		<br>
+		<br>
+		<br>
+		<b>Profiling</b>
+		<br>
+		<br>
+		From time to time, we may combine personal information and preferences collected on-line with personal information and preferences collected off-line in order to enhance and personalize our services.
+		<br>
+		<br>
+		<br>
+		<b>Sharing</b>
+		<br>
+		We may share aggregated demographic information with our sponsors.  This is not linked to any personal information that can identify any individual person.  From time to time, we may contract another party to provide certain specific services to our hosts/users.  If we have collected your personally identifiable information from one Site, that Site may share the information with other sites within our network in order to provide you with additional goods and services for which we believe you may be interested.
+		<br>
+		<br>
+		Except as provided above, we do not currently sell or otherwise make available personally identifiable information about our users to third parties.  Nevertheless, we reserve the right to make such information available to third parties in the future in order to enhance and personalize our services, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership.
+		<br>
+		<br>
+		<br>
+		<b>Law Enforcement</b>
+		<br>
+		<br>
+		We will cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law.  We will also notify the appropriate authorities if we suspect that any of our users are engaged in illegal activities, such as obscenity or child pornography.
+		<br>
+		<br>
+		<br>
+		<b>Links</b>
+		<br>
+		<br>
+		The Site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Site they should read the privacy statements of each and every web site that collects personally identifiable information.
+		<br>
+		<br>
+		<br>
+		<b>Security</b>
+		<br>
+		<br>
+		We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We encourage you to contact us if you are interested in learning more about our security measures.
+		<br>
+		<br>
+		<br>
+		<b>Third Party Sources of Information</b>
+		<br>
+		<br>
+		From time to time and in order to enhance our services, we may supplement the information we receive from you with information we obtain from third party sources.
+		<br>
+		<br>
+		<br>
+		<b>Children</b>
+		<br>
+		<br>
+		Our Site is not intended for children.  Our Site does not target children, nor do we solicit data, or knowingly collect personally identifiable information from them.  We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit.
+		<br>
+		<br>
+		<br>
+		<b>Correction/Updating Personal Information</b>
+		<br>
+		<br>
+		If a user's personally identifiable information changes (such as phone number or a credit card number), or if a user no longer desires our service, you may contact us to correct or update this information.
+		<br>
+		<br>
+		<br>
+		<b>Choice/Opt-out </b>
+		<br>
+		<br>
+		From time to time, we may send our hosts/users e-mail or other notices regarding new services, promotions, or other information which may be of general interest.  Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us.
+		<br>
+		<br>
+		<br>
+		<b>Notification of Changes</b>
+		<br>
+		<br>
+		We reserve the right to modify this Privacy Policy at any time by posting such changes on our Site.  Any changes to this Privacy Policy will become effective upon posting such changes.  If you access or use our Site, you are required to periodically check our Privacy Policy for any changes.  If you continue to access or use any of our Site after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
+		<br>
+		<br>
+		If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes.  You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy.  The notice will provide you with an opportunity to 'opt-out' so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information.  If you do not affirmatively 'opt-out' pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice.  (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may 'opt-out' so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information.  If you do not affirmatively 'opt-out' pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).
+		<br>
+		<br>
+		<br>
+		<b>Contact Information</b>
+		<br>
+		<br>
+		If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please use the feedback form <a href="/feedback/">here</a>.
+	</div>
+</div>
+
+			
 			<div class="item_float_left">
 				
 			</div>
@@ -283,11 +246,11 @@ Having trouble? Choose another upload option:
 			<div class="item_float_clear">
 			</div>
 			
+
 			<div class="page_footer" style="text-align:left;">
 				<div style="float:left; ">
 					<b>© <a href="/">FileSwap.com</a></b><br>
 					<a href="/premium/">Premium</a><br>
-					<a href="/affiliate/">Referral Program</a><br>
 					<a href="/overview/">Overview</a><br>
 					<a href="/affiliate/banners.php">Link to Us</a><br>
 				</div>
@@ -295,22 +258,24 @@ Having trouble? Choose another upload option:
 					<b>Upload</b><br>
 					<a href="/">Browser Upload</a><br>
 					<a href="/account/ftp.php">Upload with FTP</a><br>
+					<a href="/account/email.php">Upload via Email</a><br>
 					<a href="/client/">Upload on PC</a><br>
-				</div>	
+				</div>
 				<div style="float:left; padding-left:50px;">
 					<b>Policies</b><br>
 					<a href="/legal/tos.php">Terms of Service</a><br>
 					<a href="/legal/privacy_policy.php">Privacy Policy</a><br>
 					<a href="/legal/use_policy.php">Acceptable Use</a><br>
+					<a href="/legal/dmca.php">DMCA Policy</a><br>
 				</div>
 				<div style="float:left;padding-left:40px;">
 					<b>Contact Us</b><br>
 					<a href="/feedback/">Send Feedback</a><br>
 					<a href="http://twitter.com/fileswap/" target="_blank">Follow on Twitter</a>
-					
+
 				</div>
 				<div style="float:left;padding-left:60px;">
-				
+
 				<div style="float:left;">
 				<a href="http://www.twitter.com/fileswap/" target="_blank"><img src="/_images/icon/ico_footer_twitter.png" alt="" border="0"></a>
 				</div>
@@ -320,14 +285,15 @@ Having trouble? Choose another upload option:
 				</a>
 				&nbsp;
 				&nbsp;
-				( Oct 09 )
+				( JUN 07 )
 				<br>
-				<span style="font-size:12px;"><a href="http://www.twitter.com/fileswap/" target="_blank">Questions regarding FileSwap.com or your account? Contact us directly via our feedback form: http://t.co/e9uhP0la</a></span>
+				<span style="font-size:12px;"><a href="http://www.twitter.com/fileswap/" target="_blank"> FileSwap PC Client update released! One click upload, better performance, &amp;amp; more! Upgrade Now! http://t.co/LBVPXn2W</a></span>
 				</div>
 				<div class="item_float_clear"></div>
 				</div>
 				<div class="item_float_clear"></div>
-			</div><script type="text/javascript">
+			</div>
+			<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -338,5 +304,22 @@ Having trouble? Choose another upload option:
 			} catch(err) {}
 			</script>
 		</div>
+		<!-- Google Code for FileSwap General Visitor[no upload] Remarketing List -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1072568869;
+		var google_conversion_language = "en";
+		var google_conversion_format = "3";
+		var google_conversion_color = "ffffff";
+		var google_conversion_label = "nJZCCOiW1wEQpbS4_wM";
+		var google_conversion_value = 0;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
+		<noscript>
+		<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072568869/?label=nJZCCOiW1wEQpbS4_wM&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
 	
-	</body></html>
+</body></html>
