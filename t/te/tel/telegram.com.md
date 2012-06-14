@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120020211id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614114737id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
 
-# Worcester Telegram & Gazette - telegram.com - Privacy policy
+# Privacy policy - Worcester Telegram & Gazette - telegram.com
 
 _This Privacy Policy was last updated January 1, 2011_
 
