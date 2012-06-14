@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abyznewslinks.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101073107id_/http%3A//www.abyznewslinks.com/priva.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abyznewslinks.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614132919id_/http%3A//www.abyznewslinks.com/priva.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Newspapers - Newspaper & News Media Guide
 
@@ -6,6 +6,6 @@ ABYZ News Links runs Google AdSense advertisements to help support the site.  G
 
 You can choose to disable or selectively turn off cookies by altering your browser settings or by managing settings in your internet security program.  This can, however, affect how you are able to interact with some websites.   This may include requiring you to manually login each time you visit ecommerce sites, forums, as well as certain other sites.
 
-AdSense advertisements are provided by Google and are governed by their privacy policy which is available at the [Google](http://www.google.com/privacy.html) website.
+AdSense advertisements are provided by Google and are governed by their privacy policy which is available at the [Google](http://www.google.com/policies/privacy/) website.
 
 ABYZ News Links does not have access to any of the information collected by Google.
