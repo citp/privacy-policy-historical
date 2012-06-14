@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617151354id_/http%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614052906id_/http%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United with Israel
 
@@ -41,13 +41,11 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to keep track of advertisements and .
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do NOT sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Third party links**
 
@@ -68,3 +66,10 @@ By using our site, you consent to our websites privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+[](http://tellafriend.socialtwist.com/)
+
+[](http://unitedwithisrael.org/plant-fruit-trees/)
+
+|   |   
+---|---|---
