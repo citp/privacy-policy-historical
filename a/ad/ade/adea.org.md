@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123141552id_/http%3A//www.adea.org/about_adea/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614054543id_/http%3A//www.adea.org/about_adea/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
