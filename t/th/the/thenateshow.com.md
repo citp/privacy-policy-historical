@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenateshow.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208213657id_/http%3A//www.thenateshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenateshow.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614062030id_/http%3A//www.thenateshow.com/privacy) for the most accurate reproduction.*
 
 # Nate Berkus: The Official Website of The Nate Berkus Show Nate Berkus TheNateShow.Com's Privacy Policy.
 
