@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldride.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016043132id_/http%3A//www.oldride.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldride.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614112614id_/http%3A//support.oldride.com/index.html%3Ft_id%3D22%26mt%3D11) for the most accurate reproduction.*
 
 # Help & Support
 
