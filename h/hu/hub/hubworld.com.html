@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hubworld.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230014521id_/http%3A//www.hubworld.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hubworld.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615005613id_/http%3A//www.hubworld.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -14,7 +14,11 @@
         
             <meta name="robots" content="index, follow">
         
-        <link rel="image_src" href="/images/facebook.jpg">
+        
+        
+        
+        <link rel="image_src" href="http://www.hubworld.com/hubworld/images/facebook.jpg">
+
     
 
     
@@ -41,197 +45,177 @@
 
 </head>
 
-<body id="body" class="hubworld logged-out articles articles-preloadedaction  page-top-title">
+<body id="body" class="hubworld logged-out articles articles-preloadedaction preloadedaction  page-top-title">
     <input type="hidden" name="xml-content-path" value="/article/privacy-policy" id="xml-content-path">
     <div id="container">
         <header>
     <div id="top-bar">
         <div id="top-bar-content">
             <span id="top-bar-links">
-                <a href="/tv-schedule">TV Schedule</a>
-                <a href="/channel-locator">Find The Hub on TV</a>
+                <a href="/tv-schedule" class="tv-schedule-link"><span>TV Schedule</span></a>
+                <a href="#" id="channel-locator" class="channel-locator-link"><span>Find The Hub on TV</span></a>
             </span>
-            <form id="header-search-form" action="" method="post">
-                <input type="text" name="header-search-query" id="header-search-query" value="Search" maxlength="64">
-                <input type="submit" name="header-search-submit" id="header-search-submit" value="Search">
-            </form>
+            <div id="user-area">
+
+                <div class="user-logged-in">
+                    <div id="user-name"></div>
+                    <div class="user-logged-in-nav">
+                        <a href="/profile" id="profile" class="button-basic"><span>Profile</span></a>
+                        <a href="/log-out" id="log-out" class="button-basic"><span>Log out</span></a>
+                    </div>
+                    <div id="gamer-pic">
+                        <img id="gamer-pic-img" src="" alt="/api/image.php?type=gamerpic&amp;size=thumb&amp;uname=">
+                        <div id="gamer-pic-frame"></div>
+                    </div>
+                </div>
+
+
+                <div class="user-logged-out">
+                    <a href="/login" id="sign-in" class="button-basic"><span>Sign In</span></a>
+                    <a href="/register" id="register" class="button-basic"><span>Join Now</span></a>
+                </div>
+
+            </div>
         </div>
     </div>
 
     <div id="header-content">
         <a href="/" id="logo">Hubworld</a>
-
-
+    
         <nav>
             <ul>
-                <li class="shows"><a href="/shows">Shows</a></li>
                 <li class="games"><a href="/games">Games</a></li>
                 <li class="videos"><a href="/videos">Videos</a></li>
-                <li class="club"><a href="/club">Club Hub</a></li>
+                <li class="shows"><a href="/shows">Shows</a></li>
             </ul>
         </nav>
 
-        <div id="user-area">
+        <form id="header-search-form" action="" method="post">
+            <input type="text" name="header-search-query" id="header-search-query" value="Search" maxlength="64">
+            <input type="submit" name="header-search-submit" id="header-search-submit" value="Search">
+        </form>
 
-            <div class="user-logged-in">
-                <div id="gamer-pic">
-                    <img id="gamer-pic-img" src="" alt="/api/image.php?type=gamerpic&amp;size=thumb&amp;uname=">
-                    <div id="gamer-pic-frame"></div>
-                </div>
-                <div id="user-name"></div>
-            </div>
 
-            <div id="meter-area">
-                <div id="meter"><div id="meter-fill"></div></div>
-                <span id="tier-title">Tier</span>
-                <div class="tip">
-                    <div class="tooltip">
-                        <div class="title">Club Bucks Lifetime</div>
-                        <div class="sub-title"></div>
-                        <div class="description">Track your total Club Bucks to see how many you need to level up a Tier.</div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="user-logged-out">
-                <a href="/login" id="sign-in" class="button-gray"><span>Sign In</span></a>
-                <a href="/register" id="register" class="button-gray-arrow"><span>Join Now</span></a>
-            </div>
-
-            <div class="user-logged-in">
-                <a href="/club/" id="room" class="button-gray-arrow"><span>Your Room</span></a>
-                <a href="/log-out" id="log-out"><span>Log out</span></a>
-            </div>
-
-            <a href="/club/challenges" id="challenges" class="icons tip-small bottom">
-                Challenges
-                <div class="tooltip">
-                    <div class="title">Check out your Achievements!</div>
-                </div>
-            </a>
-            <a href="#" id="gloves" class="icons tip-small bottom disabled">
-                Gloves
-                <div class="tooltip">
-                    <div class="title">Coming Soon</div>
-                </div>
-            </a>
-            <a href="#" id="crowns" class="icons tip-small bottom disabled">
-                Crowns
-                <div class="tooltip">
-                    <div class="title">Coming Soon</div>
-                </div>
-            </a>
-            <a href="/club/store" id="club-bucks" class="icons tip-small bottom">
-                <div class="tooltip">
-                    <div class="title">Club Bucks</div>
-                    <div class="description">Total Club Bucks you can spend at the Store.</div>
-                </div>
-            </a>
-            <span id="club-bucks-total">0</span>
-        </div>
-
-        <div id="brand-bar" class="carousel rotating-carousel">
+        <div id="brand-bar" class="carousel rotating-carousel skip">
+    <input type="hidden" value="5" class="increment">
     <div class="container">
         <div class="items">
             
+                <a href="/kaijudo/shows/rise-of-the-duel-masters/">
+                    <img src="/hubworld/images/kaijudo/show-pages/kaijudo-brandbar-129x56.jpg" alt="Kaijudo: Rise of the Duel Masters">
+                </a>
+            
+                <a href="/care-bears/shows/welcome-to-care-a-lot">
+                    <img src="/hubworld/images/care-bears/welcome-to-care-a-lot/show-pages/cbear-show-brand-bar_129x56.jpg" alt="Care Bears">
+                </a>
+            
                 <a href="/transformers/shows/prime">
-                    <img src="/hubworld/img/brand-bar/Tprime_Optimus_BrandBarIcon_v2.jpg" alt="Transformers Prime">
-                </a>
-            
-                <a href="/my-little-pony/shows/friendship-is-magic">
-                    <img src="/hubworld/img/brand-bar/MLP_rainbowdash_BrandBarIcon_v2.jpg" alt="My Little Pony">
-                </a>
-            
-                <a href="/family-game-night/shows/family-game-night">
-                    <img src="/hubworld/img/brand-bar/FamilyGameNight_BrandBarIcon.jpg" alt="Family Game Night">
-                </a>
-            
-                <a href="/majors-and-minors/shows/majors-and-minors">
-                    <img src="/hubworld/img/brand-bar/majors-and-minors-brandbaricon.jpg" alt="Majors &amp; Minors">
-                </a>
-            
-                <a href="/rl-stine/shows/the-haunting-hour">
-                    <img src="/hubworld/img/brand-bar/RL-Stine-Haunting-Hour_BrandBarIcon.jpg" alt="R.L. Stine's The Haunting Hour">
-                </a>
-            
-                <a href="/dan-vs/shows/dan-vs">
-                    <img src="/hubworld/img/brand-bar/DanVS_BrandBarIcon.jpg" alt="Dan Vs.">
-                </a>
-            
-                <a href="/the-adventures-of/shows/chuck-and-friends">
-                    <img src="/hubworld/img/brand-bar/chuck_BrandBarIcon.jpg" alt="Chuck and Friends">
+                    <img src="/hubworld/images/transformers/prime/show-pages/tprime-brandbar-129x56.jpg" alt="Transformers Prime">
                 </a>
             
                 <a href="/pound-puppies/shows/pound-puppies">
-                    <img src="/hubworld/img/brand-bar/PoundPuppies_BrandBarIcon.jpg" alt="Pound Puppies">
+                    <img src="/hubworld/images/pound-puppies/show-pages/pound-puppies-brandbar-129x56.jpg" alt="Pound Puppies">
                 </a>
             
-                <a href="/strawberry-shortcakes/shows/berry-bitty-adventures">
-                    <img src="/hubworld/img/brand-bar/SScake_BrandBarIcon.jpg" alt="Strawberry Shortcake">
+                <a href="/the-aquabats-super-show/shows/the-aquabats-super-show/">
+                    <img src="/hubworld/images/aquabats/show-pages/abats-brandbar-129x56.jpg" alt="The Aquabats! Super Show!">
                 </a>
             
-                <a href="/generation-on/shows/generation-on">
-                    <img src="/hubworld/images/generation-on/show-pages/genon-brandbar-62x56.jpg" alt="Generation On">
+                <a href="/my-little-pony/shows/friendship-is-magic">
+                    <img src="/hubworld/images/my-little-pony/frienship-is-magic/show-pages/mlp-fim-brandbar-129x56.jpg" alt="My Little Pony">
                 </a>
             
-                <a href="/scrabble/shows/showdown">
-                    <img src="/hubworld/images/generic/brand-bar/scrabble-brandbar-62x56.jpg" alt="Scrabble Showdown">
+                <a href="/dan-vs/shows/dan-vs">
+                    <img src="/hubworld/images/dan-vs/show-pages/dan-vs-brandbar-129x56.jpg" alt="Dan Vs.">
+                </a>
+            
+                <a href="/rl-stine/shows/the-haunting-hour">
+                    <img src="/hubworld/images/rl-stines-the-haunting-hour/show-pages/haunting-hour-brandbar-129x56.jpg" alt="R.L. Stine's The Haunting Hour">
+                </a>
+            
+                <a href="/the-super-hero-squad-show/shows/the-super-hero-squad-show">
+                    <img src="/hubworld/images/super-hero-squad/show-pages/shss-brandbar-129x56.jpg" alt="The Super Hero Squad Show">
                 </a>
             
                 <a href="/rl-stine/shows/goosebumps">
-                    <img src="/hubworld/images/goosebumps/show-pages/goosebumps-brandbar-62x56.jpg" alt="Goosebumps">
+                    <img src="/hubworld/images/goosebumps/show-pages/goosebumps-brandbar-129x56.jpg" alt="Goosebumps">
                 </a>
             
-                <a href="/jem-and-the-holograms/shows/jem-and-the-holograms">
-                    <img src="/hubworld/img/brand-bar/jem-brand-bar_58x52.jpg" alt="Jem and the Holograms">
+                <a href="/family-game-night/shows/family-game-night">
+                    <img src="/hubworld/images/family-game-night/show-pages/fgn-brandbar-129x56.jpg" alt="Family Game Night">
+                </a>
+            
+                <a href="/transformers/shows/rescue-bots">
+                    <img src="/hubworld/images/transformers/rescue-bots/show-pages/transformers-rescue-bots-brand-bar-129x56.jpg" alt="Transformers Rescue Bots">
                 </a>
             
                 <a href="/batman/shows/the-animated-series">
-                    <img src="/hubworld/images/batman-the-animated-series/show-pages/bat-anim-show-brand-bar-icon.jpg" alt="Batman The Animated Series">
+                    <img src="/hubworld/images/batman-the-animated-series/show-pages/batman-animated-brandbar-129x56.jpg" alt="Batman The Animated Series">
                 </a>
             
-                <a href="/secret-millionaires-club/shows/mini-series">
-                    <img src="/hubworld/images/secret-millionaires-club/show-pages/smc-brandbar-62x56.jpg" alt="Secret Millionaires Club">
+                <a href="/strawberry-shortcakes/shows/berry-bitty-adventures">
+                    <img src="/hubworld/images/strawberry-shortcakes-berry-bitty-adventure/show-pages/ssbba-brandbar-129x56.jpg" alt="Strawberry Shortcake">
                 </a>
             
-                <a href="/game-of-life/shows/game-of-life/">
-                    <img src="/hubworld/images/game-of-life/show-pages/gol-brandbar-62x56.jpg" alt="Game of Life">
-                </a>
-            
-                <a href="/gi-joe/shows/renegades">
-                    <img src="/hubworld/img/brand-bar/GiJoe_BrandBarIcon.jpg" alt="G.I. Joe Renegades">
+                <a href="/the-adventures-of/shows/chuck-and-friends">
+                    <img src="/hubworld/images/adventures-of-chuck-and-friends/show-pages/chuck-and-friends-brandbar-129x56.jpg" alt="Chuck and Friends">
                 </a>
             
                 <a href="/fraggle-rock/shows/fraggle-rock">
-                    <img src="/hubworld/img/brand-bar/FraggleRock_BrandBarIcon.jpg" alt="Fraggle Rock">
+                    <img src="/hubworld/images/fraggle-rock/show-pages/fraggle-rock-brandbar-129x56.jpg" alt="Fraggle Rock">
                 </a>
             
-                <a href="/conan-the-adventurer/shows/conan-the-adventurer">
-                    <img src="/hubworld/images/conan-the-adventurer/brand-bar/conan-brand-bar_58x52.jpg" alt="Conan the Adventurer">
+                <a href="/jem-and-the-holograms/shows/jem-and-the-holograms">
+                    <img src="/hubworld/images/jem-and-the-holograms/show-pages/jem-brandbar-129x56.jpg" alt="Jem and the Holograms">
                 </a>
             
-                <a href="/deltora-quest/shows/deltora-quest">
-                    <img src="/hubworld/img/brand-bar/DeltoraQuest_BrandBarIcon.jpg" alt="Deltora Quest">
+                <a href="/generation-on/shows/generation-on">
+                    <img src="/hubworld/images/generation-on/show-pages/generation-on-brandbar-129x56.jpg" alt="Generation On">
+                </a>
+            
+                <a href="/gi-joe/shows/renegades">
+                    <img src="/hubworld/images/gi-joe/renegades/show-pages/joe-renegades-brandbar-129x56.jpg" alt="G.I. Joe Renegades">
+                </a>
+            
+                <a href="/secret-millionaires-club/shows/mini-series">
+                    <img src="/hubworld/images/secret-millionaires-club/show-pages/smc-brandbar-129x56.jpg" alt="Secret Millionaires Club">
                 </a>
             
                 <a href="/atomic-betty/shows/atomic-betty">
-                    <img src="/hubworld/img/brand-bar/Atomic-BrandBarIcon.jpg" alt="Atomic Betty">
+                    <img src="/hubworld/images/atomic-betty/show-pages/atomic-betty-brandbar-129x56.jpg" alt="Atomic Betty">
                 </a>
             
-                <a href="/cosmic-quantum-ray/shows/cosmic-quantum-ray">
-                    <img src="/hubworld/img/brand-bar/CQR-BrandBarIcon.jpg" alt="Cosmic Quantum Ray">
+                <a href="/in-the-night-garden/shows/in-the-night-garden">
+                    <img src="/hubworld/images/in-the-night-garden/show-pages/in-the-night-garden-brandbar-129x56.jpg" alt="In The Night Garden">
                 </a>
             
-                <a href="/dennis-and-gnasher/shows/dennis-and-gnasher">
-                    <img src="/hubworld/img/brand-bar/Dennis_BrandBarIcon.jpg" alt="Dennis and Gnasher">
+                <a href="/animal-mechanicals/shows/animal-mechanicals">
+                    <img src="/hubworld/images/animal-mechanicals/show-pages/animal-mechanicals-brandbar-129x56.jpg" alt="Animal Mechanicals">
                 </a>
             
-                <a href="/twisted-whiskers/shows/twisted-whiskers-show">
-                    <img src="/hubworld/img/brand-bar/Twisted-BrandBarIcon.jpg" alt="Twisted Whiskers">
+                <a href="/the-wotwots/shows/the-wotwots">
+                    <img src="/hubworld/images/the-wot-wots/show-pages/wotwots-brandbar-129x56.jpg" alt="The WotWots">
                 </a>
             
                 <a href="/pictureka/shows/pictureka">
-                    <img src="/hubworld/img/brand-bar/Pictureka_BrandBarIcon.jpg" alt="Pictureka!">
+                    <img src="/hubworld/images/pictureka/show-pages/pictureka-brandbar-129x56.jpg" alt="Pictureka!">
+                </a>
+            
+                <a href="/deltora-quest/shows/deltora-quest">
+                    <img src="/hubworld/images/deltora-quest/show-pages/deltora-quest-brandbar-129x56.jpg" alt="Deltora Quest">
+                </a>
+            
+                <a href="/cosmic-quantum-ray/shows/cosmic-quantum-ray">
+                    <img src="/hubworld/images/cosmic-quantum-ray/show-pages/cosmic-quantum-ray--brandbar-129x56.jpg" alt="Cosmic Quantum Ray">
+                </a>
+            
+                <a href="/twisted-whiskers/shows/twisted-whiskers-show">
+                    <img src="/hubworld/images/twisted-whiskers/show-pages/twisted-brandbar-129x56.jpg" alt="Twisted Whiskers">
+                </a>
+            
+                <a href="/dennis-and-gnasher/shows/dennis-and-gnasher">
+                    <img src="/hubworld/images/dennis-and-gnasher/show-pages/dennis-brandbar-129x56.jpg" alt="Dennis and Gnasher">
                 </a>
             
         </div>
@@ -479,9 +463,8 @@
 
 </div>
 
-            </div>
-            <footer>
-                <div class="footer-groups-divider"></div>
+                <footer>
+                    <div class="footer-groups-divider"></div>
 <div class="footer-groups">
     <div class="footer-groups-top"></div>
 
@@ -498,7 +481,19 @@
     
         <li><a href="/my-little-pony/shows/friendship-is-magic/games">My Little Pony <br>Friendship is Magic Games</a></li>
     
-        <li><a href="/my-little-pony/shows/friendship-is-magic/characters">My Little Pony <br>Friendship is Magic Characters</a></li>
+        <li><a href="/my-little-pony/shows/friendship-is-magic/cast-gallery">My Little Pony <br>Friendship is Magic Characters</a></li>
+    
+</ul>
+<ul class="">
+    <li class="footer-links-header"><a href="/the-aquabats-super-show/shows/the-aquabats-super-show">The Aquabats! Super Show!</a></li>
+    
+        <li><a href="/the-aquabats-super-show/shows/the-aquabats-super-show/videos">The Aquabats! Super Show! Videos</a></li>
+    
+        <li><a href="/the-aquabats-super-show/shows/the-aquabats-super-show/games">The Aquabats! Super Show! Games</a></li>
+    
+        <li><a href="/the-aquabats-super-show/shows/the-aquabats-super-show/cast-gallery">The Aquabats! Super Show! Characters</a></li>
+    
+        <li><a href="/the-aquabats-super-show/shows/the-aquabats-super-show/images">The Aquabats! Super Show! Galleries</a></li>
     
 </ul>
 <ul class="">
@@ -508,17 +503,39 @@
     
         <li><a href="/transformers/shows/prime/games">Transformers Prime Games</a></li>
     
-        <li><a href="/transformers/shows/prime/characters">Transformers Prime Characters</a></li>
-    
-        <li><a href="/transformers/shows/prime/images">Transformers Prime Galleries</a></li>
+        <li><a href="/transformers/shows/prime/cast-gallery">Transformers Prime Characters</a></li>
     
 </ul>
 <ul class="">
     <li class="footer-links-header"><a href="/transformers/shows/rescue-bots">Transformers Rescue Bots</a></li>
     
+        <li><a href="/transformers/shows/rescue-bots/videos">Transformers Rescue Bots Videos</a></li>
+    
         <li><a href="/transformers/shows/rescue-bots/cast-gallery">Transformers Rescue Bots Characters</a></li>
     
-        <li><a href="/transformers/shows/rescue-bots">Transformers Rescue Bots Humans</a></li>
+        <li><a href="/transformers/shows/rescue-bots/secondary-characters">Transformers Rescue Bots Human Characters</a></li>
+    
+</ul>
+<ul class="">
+    <li class="footer-links-header"><a href="/kaijudo/shows/rise-of-the-duel-masters">Kaijudo: Rise of the Duel Masters</a></li>
+    
+        <li><a href="/kaijudo/shows/rise-of-the-duel-masters/cast-gallery">Kaijudo: Rise of the Duel Masters Characters</a></li>
+    
+        <li><a href="/kaijudo/shows/rise-of-the-duel-masters/bad-guys-gallery">Kaijudo: Rise of the Duel Masters Villains</a></li>
+    
+</ul>
+                </div>
+            
+                <div class="footer-column">
+                    
+<ul class="">
+    <li class="footer-links-header"><a href="/care-bears/shows/welcome-to-care-a-lot">Care Bears: Welcome to Care-a-Lot</a></li>
+    
+        <li><a href="/care-bears/shows/welcome-to-care-a-lot/cast-gallery/">Care Bears: Welcome to Care-a-Lot Characters</a></li>
+    
+        <li><a href="/care-bears/shows/welcome-to-care-a-lot/videos">Care Bears: Welcome to Care-a-Lot Videos</a></li>
+    
+        <li><a href="/hubworld/specials/care-bears-welcome-to-care-a-lot-downloadables/">Care Bears: Welcome to Care-a-Lot Wallpapers</a></li>
     
 </ul>
 <ul class="">
@@ -528,7 +545,39 @@
     
         <li><a href="/family-game-night/shows/family-game-night/games">Family Game Night Games</a></li>
     
-        <li><a href="/family-game-night/shows/family-game-night/images">Family Game Night Images</a></li>
+        <li><a href="/family-game-night/shows/family-game-night/set-photos">Family Game Night Images</a></li>
+    
+</ul>
+<ul class="">
+    <li class="footer-links-header"><a href="/rl-stine/shows/the-haunting-hour">The Haunting Hour</a></li>
+    
+        <li><a href="/rl-stine/shows/the-haunting-hour/videos">The Haunting Hour Videos</a></li>
+    
+        <li><a href="/rl-stine/shows/the-haunting-hour">The Haunting Hour Games</a></li>
+    
+</ul>
+<ul class="">
+    <li class="footer-links-header"><a href="/pound-puppies/shows/pound-puppies">Pound Puppies</a></li>
+    
+        <li><a href="/pound-puppies/shows/pound-puppies/videos">Pound Puppies Videos</a></li>
+    
+        <li><a href="/pound-puppies/shows/pound-puppies/games">Pound Puppies Games</a></li>
+    
+        <li><a href="/pound-puppies/shows/pound-puppies/cast-gallery">Pound Puppies Characters</a></li>
+    
+        <li><a href="/pound-puppies/shows/pound-puppies/secondary-characters">Pound Puppies Images</a></li>
+    
+</ul>
+<ul class="">
+    <li class="footer-links-header"><a href="/dan-vs/shows/dan-vs">Dan Vs.</a></li>
+    
+        <li><a href="/dan-vs/shows/dan-vs/videos">Dan Vs. Videos</a></li>
+    
+        <li><a href="/dan-vs/shows/dan-vs/games/">Dan Vs. Games</a></li>
+    
+        <li><a href="/dan-vs/shows/dan-vs/cast-gallery">Dan Vs. Characters</a></li>
+    
+        <li><a href="/dan-vs/shows/dan-vs/show-stills">Dan Vs. Images</a></li>
     
 </ul>
                 </div>
@@ -536,11 +585,13 @@
                 <div class="footer-column">
                     
 <ul class="">
-    <li class="footer-links-header"><a href="/majors-and-minors/shows/majors-and-minors">Majors &amp; Minors</a></li>
+    <li class="footer-links-header"><a href="/the-super-hero-squad-show/shows/the-super-hero-squad-show">The Super Hero Squad Show</a></li>
     
-        <li><a href="/majors-and-minors/shows/majors-and-minors/images">Majors &amp; Minors Cast</a></li>
+        <li><a href="/the-super-hero-squad-show/shows/the-super-hero-squad-show/cast-gallery">The Super Hero Squad Show Heroes</a></li>
     
-        <li><a href="/majors-and-minors/shows/majors-and-minors/videos">Majors &amp; Minors Videos</a></li>
+        <li><a href="/the-super-hero-squad-show/shows/the-super-hero-squad-show/bad-guys-gallery">The Super Hero Squad Show Villains</a></li>
+    
+        <li><a href="/the-super-hero-squad-show/shows/the-super-hero-squad-show/videos">The Super Hero Squad Show Videos</a></li>
     
 </ul>
 <ul class="">
@@ -550,21 +601,19 @@
     
         <li><a href="/strawberry-shortcakes/shows/berry-bitty-adventures/games">Strawberry Shortcake <br>Berry Bitty Adventures Games</a></li>
     
-        <li><a href="/strawberry-shortcakes/shows/berry-bitty-adventures/characters">Strawberry Shortcake <br>Berry Bitty Adventures Characters</a></li>
+        <li><a href="/strawberry-shortcakes/shows/berry-bitty-adventures/cast-gallery">Strawberry Shortcake <br>Berry Bitty Adventures Characters</a></li>
     
-        <li><a href="/strawberry-shortcakes/shows/berry-bitty-adventures/images">Strawberry Shortcake <br>Berry Bitty Adventures Images</a></li>
+        <li><a href="/strawberry-shortcakes/shows/berry-bitty-adventures/show-stills">Strawberry Shortcake <br>Berry Bitty Adventures Images</a></li>
     
 </ul>
 <ul class="">
-    <li class="footer-links-header"><a href="/dan-vs/shows/dan-vs">Dan Vs.</a></li>
+    <li class="footer-links-header"><a href="/gi-joe/shows/renegades">G.I. Joe Renegades</a></li>
     
-        <li><a href="/dan-vs/shows/dan-vs/videos">Dan Vs. Videos</a></li>
+        <li><a href="/gi-joe/shows/renegades/videos">G.I. Joe Renegades Videos</a></li>
     
-        <li><a href="/dan-vs/shows/dan-vs/games/dan-vs-this-game">Dan Vs. Games</a></li>
+        <li><a href="/gi-joe/shows/renegades/games">G.I. Joe Renegades Games</a></li>
     
-        <li><a href="/dan-vs/shows/dan-vs/characters">Dan Vs. Characters</a></li>
-    
-        <li><a href="/dan-vs/shows/dan-vs/images">Dan Vs. Images</a></li>
+        <li><a href="/gi-joe/shows/renegades/cast-gallery">G.I. Joe Renegades Characters</a></li>
     
 </ul>
 <ul class="">
@@ -577,50 +626,12 @@
         <li><a href="/scrabble/shows/showdown/images">Scrabble Showdown Images</a></li>
     
 </ul>
-                </div>
-            
-                <div class="footer-column">
-                    
-<ul class="">
-    <li class="footer-links-header"><a href="/pound-puppies/shows/pound-puppies">Pound Puppies</a></li>
-    
-        <li><a href="/pound-puppies/shows/pound-puppies/videos">Pound Puppies Videos</a></li>
-    
-        <li><a href="/pound-puppies/shows/pound-puppies/games">Pound Puppies Games</a></li>
-    
-        <li><a href="/pound-puppies/shows/pound-puppies/characters">Pound Puppies Characters</a></li>
-    
-        <li><a href="/pound-puppies/shows/pound-puppies/images">Pound Puppies Images</a></li>
-    
-</ul>
 <ul class="">
     <li class="footer-links-header"><a href="/jem-and-the-holograms/shows/jem-and-the-holograms">Jem and the Holograms</a></li>
     
         <li><a href="/jem-and-the-holograms/shows/jem-and-the-holograms/videos">Jem and the Holograms Videos</a></li>
     
-        <li><a href="/jem-and-the-holograms/shows/jem-and-the-holograms/characters">Jem and the Holograms Characters</a></li>
-    
-</ul>
-<ul class="">
-    <li class="footer-links-header"><a href="/gi-joe/shows/renegades">G.I. Joe Renegades</a></li>
-    
-        <li><a href="/gi-joe/shows/renegades/videos">G.I. Joe Renegades Videos</a></li>
-    
-        <li><a href="/gi-joe/shows/renegades/games">G.I. Joe Renegades Games</a></li>
-    
-        <li><a href="/gi-joe/shows/renegades/characters">G.I. Joe Renegades Characters</a></li>
-    
-        <li><a href="/gi-joe/shows/renegades/images">G.I. Joe Renegades Images</a></li>
-    
-</ul>
-<ul class="">
-    <li class="footer-links-header"><a href="/rl-stine/shows/the-haunting-hour">The Haunting Hour</a></li>
-    
-        <li><a href="/rl-stine/shows/the-haunting-hour/videos">The Haunting Hour Videos</a></li>
-    
-        <li><a href="/rl-stine/shows/the-haunting-hour">The Haunting Hour Games</a></li>
-    
-        <li><a href="/rl-stine/shows/the-haunting-hour">The Haunting Hour Images</a></li>
+        <li><a href="/jem-and-the-holograms/shows/jem-and-the-holograms/cast-gallery">Jem and the Holograms Characters</a></li>
     
 </ul>
                 </div>
@@ -628,9 +639,25 @@
                 <div class="footer-column">
                     
 <ul class="">
-    <li class="footer-links-header"><a href="/rl-stine/shows/goosebumps">Goosebumps</a></li>
+    <li class="footer-links-header"><a href="/the-adventures-of/shows/chuck-and-friends">The Adventures of <br>Chuck &amp; Friends</a></li>
     
-        <li><a href="/rl-stine/shows/goosebumps">Goosebumps Images</a></li>
+        <li><a href="/the-adventures-of/shows/chuck-and-friends/videos">The Adventures of <br>Chuck &amp; Friends Videos</a></li>
+    
+        <li><a href="/the-adventures-of/shows/chuck-and-friends/games">The Adventures of <br>Chuck &amp; Friends Games</a></li>
+    
+        <li><a href="/the-adventures-of/shows/chuck-and-friends/cast-gallery">The Adventures of <br>Chuck &amp; Friends Characters</a></li>
+    
+        <li><a href="/the-adventures-of/shows/chuck-and-friends/images">The Adventures of <br>Chuck &amp; Friends Images</a></li>
+    
+</ul>
+<ul class="">
+    <li class="footer-links-header"><a href="/fraggle-rock/shows/fraggle-rock">Fraggle Rock</a></li>
+    
+        <li><a href="/fraggle-rock/shows/fraggle-rock/videos">Fraggle Rock Videos</a></li>
+    
+        <li><a href="/fraggle-rock/shows/fraggle-rock/cast-gallery">Fraggle Rock Characters</a></li>
+    
+        <li><a href="/fraggle-rock/shows/fraggle-rock/images">Fraggle Rock Images</a></li>
     
 </ul>
 <ul class="">
@@ -640,25 +667,17 @@
     
 </ul>
 <ul class="">
-    <li class="footer-links-header"><a href="/fraggle-rock/shows/fraggle-rock">Fraggle Rock</a></li>
+    <li class="footer-links-header"><a href="/rl-stine/shows/goosebumps">Goosebumps</a></li>
     
-        <li><a href="/fraggle-rock/shows/fraggle-rock/videos">Fraggle Rock Videos</a></li>
-    
-        <li><a href="/fraggle-rock/shows/fraggle-rock/characters">Fraggle Rock Characters</a></li>
-    
-        <li><a href="/fraggle-rock/shows/fraggle-rock/images">Fraggle Rock Images</a></li>
+        <li><a href="/rl-stine/shows/goosebumps/video">Goosebumps Videos</a></li>
     
 </ul>
 <ul class="">
-    <li class="footer-links-header"><a href="/the-adventures-of/shows/chuck-and-friends">The Adventures of <br>Chuck &amp; Friends</a></li>
+    <li class="footer-links-header"><a href="/majors-and-minors/shows/majors-and-minors">Majors &amp; Minors</a></li>
     
-        <li><a href="/the-adventures-of/shows/chuck-and-friends/videos">The Adventures of <br>Chuck &amp; Friends Videos</a></li>
+        <li><a href="/majors-and-minors/shows/majors-and-minors/majors-and-minors-cast-gallery-2">Majors &amp; Minors Cast</a></li>
     
-        <li><a href="/the-adventures-of/shows/chuck-and-friends/games">The Adventures of <br>Chuck &amp; Friends Games</a></li>
-    
-        <li><a href="/the-adventures-of/shows/chuck-and-friends/characters">The Adventures of <br>Chuck &amp; Friends Characters</a></li>
-    
-        <li><a href="/the-adventures-of/shows/chuck-and-friends/images">The Adventures of <br>Chuck &amp; Friends Images</a></li>
+        <li><a href="/majors-and-minors/shows/majors-and-minors/videos">Majors &amp; Minors Videos</a></li>
     
 </ul>
                 </div>
@@ -680,27 +699,27 @@
 
         <ul class="footer-corporate">
             
-                <li><a href="/privacy-policy">Privacy Policy (2/23/11)</a></li>
-            
-                <li><a href="/about-us">About Us</a></li>
+                <li><a href="/privacy-policy">Privacy Policy (Updated - 2/23/11)</a></li>
             
                 <li><a href="/terms-and-conditions">Terms-Conditions</a></li>
             
-                <li><a href="/careers">Jobs</a></li>
-            
                 <li><a href="/hub-headlines">Hub Headlines</a></li>
+            
+                <li><a href="/about-us">About Us</a></li>
             
                 <li><a href="/need-help">Help/FAQs</a></li>
             
+                <li><a href="/need-help">Viewer Relations</a></li>
+            
                 <li><a href="/online-safety">Online Safety</a></li>
             
-                <li><a href="/need-help">Viewer Relations</a></li>
+                <li><a href="/careers">Jobs</a></li>
             
         </ul>
 
         <div class="footer-copyright">
             <span>
-                © 2011 Hub Television Networks, LLC. All Rights Reserved.
+                © 2012 Hub Television Networks, LLC. All Rights Reserved.
             </span>
         </div>
 
@@ -715,7 +734,9 @@
 
 
 
-            </footer>
+                </footer>
+            </div>
+
         </div>
         <div id="tooltip-template">
     <div class="top"></div>
@@ -731,105 +752,7 @@
 </div>
     </div>
 
-    <div id="bottom-bar">
-    <ul id="bottom-bar-content">
-        <li>
-            <a href="/club" id="bottom-room" class="bottom-link tip-small top">
-                <div class="tooltip">
-                    <div class="title">Room</div>
-                    <div class="description">Click to visit your Club Room</div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="/club/store" id="bottom-store" class="bottom-link tip-small top">
-                <div class="tooltip">
-                    <div class="title">Store</div>
-                    <div class="description">Click to visit your Club Store, and send Gifts</div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="/club/challenges" id="bottom-challenges" class="bottom-link tip-small top">
-                <div class="tooltip">
-                    <div class="title">Challenges</div>
-                    <div class="description">Click to see the Challenges page and view your Achievements</div>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="/club/favorites" id="bottom-favorites" class="bottom-link tip-small top">
-                <div class="tooltip">
-                    <div class="title">Favorites</div>
-                    <div class="description">Click to see games and videos you have added as Favorites</div>
-                </div>
-            </a>
-            <div class="favorites bubble">
-                <div class="top"></div>
-                <div class="inner">
-                    <div class="title">Favorites</div>
-                    <div class="tabs">
-                        <div class="tabs-left"></div>
-                        <div class="tabs-right"></div>
-                        <div class="tabs-inner">
-                            <a href="#" class="tab selected">Games</a>
-                            <a href="#" class="tab">Videos</a>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <div class="tab-content games selected"></div>
-                        <div class="tab-content videos"></div>
-                    </div>
-                </div>
-                <div class="bottom"></div>
-                <a href="/club/favorites" class="see-all">See all</a>
-                <a href="#" class="close-button">Close</a>
-                <div class="carat"></div>
-            </div>
-        </li>
-        <li>
-            <a href="/club/friends" id="bottom-friends" class="bottom-link tip-small top">
-                <div class="tooltip">
-                    <div class="title">Friends</div>
-                    <div class="description">Click to see your friends</div>
-                </div>
-            </a>
-            <div class="friends bubble">
-                <div class="top"></div>
-                <div class="inner">
-                    <div class="title">Friends</div>
-                    <div class="content">
-                        <div class="people"></div>
-                    </div>
-                    <div id="bottom-add-friend">
-                        <div id="bottom-add-friend-form">
-                            <span class="input-text-shaded">
-                                <input type="text" name="bottom-add-friend-field-username" id="bottom-add-friend-field-username" maxlength="40" value="Enter Username">
-                            </span>
-                            <a href="#" id="bottom-add-friend-submit" class="button-small-blue-arrow"><span>Add a Friend</span></a>
-                        </div>
-                        <div class="error">Username does not exist.<br>Please enter a new username.</div>
-                        <div class="success">Friend request sent!</div>
-                    </div>
-                </div>
-                <div class="bottom"></div>
-                <a href="/club/friends" class="see-all">See all</a>
-                <a href="#" class="close-button">Close</a>
-                <div class="carat"></div>
-            </div>
-        </li>
-        <li>
-            <a href="/club/notifications" id="bottom-notifications" class="bottom-link tip-small top">
-                <div class="tooltip">
-                    <div class="title">Notifications</div>
-                    <div class="description">Click to see your notifications</div>
-                </div>
-            </a>
-        </li>
-    </ul>
-</div>
-
-<section id="content-item-template">
+    <section id="content-item-template">
     <div class="thumbimg">
         <a href="#">
             <img src="" alt="Watch" class="thumb">
@@ -844,18 +767,50 @@
     </div>
 </section>
 
-<div id="friend-template">
-    <a href="#" class="avatar-area">
-        <div class="avatar">
-            <img src="" alt="">
-        </div>
-        <div class="frame"></div>
-    </a>
-    <a href="#" class="username"></a>
-    <div class="tier-data"></div>
-</div>
 
-    <input type="hidden" name="metagame-url" value="http://hasbro.nitro.bunchball.net" id="metagame-url">
+    
+    <script>
+        function kpiCFheight(ht) {
+            var frameFoo = document.getElementById('kpiFrame');
+            var divFoo = document.getElementById('kpiDiv');
+            divFoo.style.height = ht;
+            frameFoo.style.height = ht;
+        }
+        function postChannel(chanNum) {
+            // do something with the channel number
+            var tmpFoo = document.getElementById('channelFoo');
+            tmpFoo.innerHTML = "Channel " + chanNum;
+        }
+        document.domain = "hubworld.com";
+    </script>
+    <div id="channel-finder-wrapper" class="fb dark-blue-box">
+        <div class="fb-top fb-top-short">
+            <div class="fb-top-left"></div>
+            <div class="fb-top-middle"></div>
+            <div class="fb-top-right"></div>
+        </div>
+        <div class="fb-middle">
+            <div class="fb-middle-left">
+                <div class="fb-middle-right">
+                    <div class="fb-middle-content">
+                        <a href="#" id="channel-finder-close">X</a>
+                        <div id="kpiDiv">
+                            <iframe scrolling="no" frameborder="0" id="kpiFrame" src=""></iframe>
+                                <div class="modular-content-channel-locator">
+                                    <img src="/hubworld/images/generic/banners/generic-blank_120x90.png">
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="fb-bottom">
+              <div class="fb-bottom-left"></div>
+              <div class="fb-bottom-middle"></div>
+              <div class="fb-bottom-right"></div>
+        </div>
+    </div>
+    
 
     
     
@@ -863,9 +818,9 @@
     <script type="text/javascript" src="/js/libs/jquery-1.6.min.js"></script>
     <script type="text/javascript" src="/js/libs/jscrollpane-2.0.0.min.js"></script>
     <script type="text/javascript" src="/js/libs/jquery.mousewheel-3.0.4.js"></script>
+    <script type="text/javascript" src="/js/libs/swfobject-2.2.min.js"></script>
 
     
-    <script src="http://assets.bunchball.com/scripts/nitro/current/nitro.js"></script>
     <script></script>
 
     
@@ -902,7 +857,13 @@
         <script type="text/javascript" src="/js/omniture.js"></script>
     
 
+
     
+
+    
+    
+
+
 
 
 </body></html>
