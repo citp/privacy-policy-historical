@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medkoder.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307135302id_/http%3A//www.medkoder.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medkoder.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614163242id_/http%3A//www.medkoder.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: MedKoder
 
