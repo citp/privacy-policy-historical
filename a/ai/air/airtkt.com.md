@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: AirTkt.com
 
@@ -17,12 +17,12 @@ Your privacy is very important to us at airtkt.com we have established and imple
 
 This privacy policy describes the practices that apply to our site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed privacy policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our website. We use the information collected about our visitors to improve our site content and ease of use. 
 
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[ ](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
 
-Airtkt.com Airtkt.com provides this Privacy Policy to explain our company's policies concerning the compilation, use and security of the personal information of the customers using our website. By "personal information", we mean anything that can be connected to a specific person. This includes name, address, phone number, email-address and credit card numbers. 
+Airtkt.com provides this Privacy Policy to explain our company's policies concerning the compilation, use and security of the personal information of the customers using our website. By "personal information", we mean anything that can be connected to a specific person. This includes name, address, phone number, email-address and credit card numbers. 
 
 **Types of Information We Collect:**
 
@@ -44,7 +44,7 @@ The third - party advertising companies may also employ technology that is used 
 
 Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, your ability to use some features on our site may be impaired. 
 
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[ ](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -53,7 +53,7 @@ Please read and review our Privacy Policy. We hope that you will feel comfortabl
 
 1\. We use your email address only to send a confirmation email when you sign up for an account and to allow you to reset your password if you lose or forget your old one. We also send you an automated notice if a review or a suggestion you submit is accepted or declined or you subscribe to sales and online promotions. No other use is now or ever will be made of this address, although the administrators may personally email you if extenuating circumstances arise where this is required. We will not send you any other email unless you contact us first and specifically request information, regarding your trip. We do not sell this address, or link it to any other personal information.
 
-2\. Any personally identifiable information you submit while booking with our website will only be disclosed to travel suppliers who are linked to your bookings. If you become a registered member of [airtkt.com](http://www.airtkt.com/index.htm), you must provide your name, e-mail address, citizenship, password, etc. This information is collected on the registration form for several reasons including:
+2\. Any personally identifiable information you submit while booking with our website will only be disclosed to travel suppliers who are linked to your bookings. If you become a registered member of [airtkt.com](http://www.airtkt.com/index.htm), you must provide your name, e-mail address, citizenship, password, etc. This information is collected on the registration form for several reasons including.
 
 a. To complete air, hotel, car and other reservations.  
 b. To allow us to contact you for customer service purposes, if necessary specific needs arise.   
@@ -69,7 +69,7 @@ c. We need your e-mail address to confirm each reservation you transact on our w
 
 In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and about our website users may be among the transferred assets. 
 
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[ ](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -88,9 +88,9 @@ Bookings are not guaranteed until a ticket is issued (since the airline can chan
 
 When purchasing airline tickets or paying for hotel booking for someone other than yourself, or when credit card holder is traveling with passengers that have a different last name, the credit card holder must authorize the charge by completing the Credit Card Authorization Form and faxed or email to us same day or within 12 hours of purchasing the tickets. Failure to that may result in cancellation of reservations at the company's discretion. Our agent may call you to verify the Credit Card holder's information for Credit Card security reasons. As an added security step we may call your credit card company on a three way call to verify the transition.
 
-We also advise all customers, please confirm your flights at least 24 hours before each departure by calling the airline directly. Airlines will occasionally change flight schedules and it is the travelers' responsibility to be aware of these changes.Click here for airline contact information. 
+We also advise all customers, please confirm your flights at least 24 hours before each departure by calling the airline directly. Airlines will occasionally change flight schedules and it is the travelers' responsibility to be aware of these changes. Click here for airline contact information. 
 
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[ ](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -109,14 +109,7 @@ If you become a registered member of Airtkt.com, you must provide your name, e-m
 
 Most Important tip for buying tickets on our website is to become Member of (MY Eros Family). Our membership is free and members can get the Special Sale fare from our website and save more on their travel. Those special fares are only available to members only; our advice is please sign in as a member before you search. To become a registered member of airtkt.com, you must provide your name, e-mail address, country, member login password. 
 
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
-
-  
-
-
-We do not send out any newsletters for special sales or online promotions. You may choose to subscribe to some that keep you up to date with the latest special travel deals and low airfares in the most rewarding online travel portal. 
-
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[ ](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -141,7 +134,7 @@ Correcting of inputted data we correct any errors that are brought to our attent
 
 Notification of Changes Airtkt.com, reserves the right to change the terms, conditions, and notices in this privacy policy. While we don't anticipate any changes in our privacy policy, there is always a possibility of change.
 
-Under no circumstances, including but not limited to negligence, shall [airtkt.com](http://www.airtkt.com/index.htm) be liable for any special, incidental or consequential damages that result from the use of the information or materials on [airtkt.com](http://www.airtkt.com/index.htm) or its family of sites, even if [airtkt.com](http://www.airtkt.com/index.htm) or an authorized representative of [airtkt.com](http://www.airtkt.com/index.htm), has been advised of the possibility of such damages, our goal is to protect your privacy when you visit or personalize our site and to make your online experience safe and fun. Because we collect certain types of information about you when you visit our site, we have written this policy to share our practices and use of that information.
+Under no circumstances, including but not limited to negligence, shall [airtkt.com](http://www.airtkt.com/index.htm) be liable for any special, incidental or consequential damages that result from the use of the information or materials on [airtkt.com](http://www.airtkt.com/index.htm)or its family of sites, even if [airtkt.com](http://www.airtkt.com/index.htm) or an authorized representative of [airtkt.com](http://www.airtkt.com/index.htm), has been advised of the possibility of such damages, our goal is to protect your privacy when you visit or personalize our site and to make your online experience safe and fun. Because we collect certain types of information about you when you visit our site, we have written this policy to share our practices and use of that information.
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY.
 
@@ -152,4 +145,4 @@ If you have questions or concerns about our privacy policy (or your travel progr
 9.00 AM to 1.00 PM Saturday (Pacific Time)  
 Customer support 24x7 
 
-[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[ ](https://web.archive.org/web/20120614060116id_/http%3A//www.airtkt.com/privacy_policy.php#1)
