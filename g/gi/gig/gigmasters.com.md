@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213134945id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615010026id_/http%3A//gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for GigMasters.com
 
@@ -8,7 +8,7 @@ _Effective August 19th, 2011_
 
 Gigmasters.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
-If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail <http://www.gigmasters.com/contact.aspx>, by telephone 866-342-9794, by postal mail GigMasters.com, Inc., 33 South Main Street, Norwalk, CT 06854. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail [http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx), by telephone 866-342-9794, by postal mail GigMasters.com, Inc., 33 South Main Street, Norwalk, CT 06854. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 Log Files
     Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are linked to personally identifiable information to help identify you and your shopping cart.
@@ -30,7 +30,7 @@ Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us by clicking <http://www.gigmasters.com/contact.aspx>
+If you have any questions about security on our Web site, you can email us by clicking [http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx)
 
 Data Retention
     We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@gigmasters.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -39,31 +39,31 @@ Choice/Opt-Out
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email by clicking <http://www.gigmasters.com/contact.aspx>
-  2. You can visit the following URL: <http://www.gigmasters.com/u.asp>
+  1. You can send email by clicking [http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx)
+  2. You can visit the following URL: [http://www.gigmasters.com/u.asp](https://web.archive.org/u.asp)
   3. You can call the following telephone number: 866-342-9794
 
 
 Correct/Update
     This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email <http://www.gigmasters.com/contact.aspx>
-  2. users can go to their control panel once logged in and update their profile. <http://www.gigmasters.com/login.aspx>
+  1. email [http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx)
+  2. users can go to their control panel once logged in and update their profile. [http://www.gigmasters.com/login.aspx](https://web.archive.org/login.aspx)
   3. call the following telephone number: 866-342-9794
 
 
 Removal From Directory
     This site gives users the following options for removing their listing from our directory. 
 
-  1. email <http://www.gigmasters.com/contact.aspx>
-  2. visit <http://www.gigmasters.com/login.aspx>
+  1. email [http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx)
+  2. visit [http://www.gigmasters.com/login.aspx](https://web.archive.org/login.aspx)
   3. call the following telephone number: 866-342-9794
 
 
 Company Testimonials/Notable Quotes
-    We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/testimonials.asp>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
+    We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page ([http://www.gigmasters.com/testimonials.asp](https://web.archive.org/testimonials.asp)) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
 
-  1. email <http://www.gigmasters.com/contact.aspx>
+  1. email [http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx)
   2. call the following telephone number: 866-342-9794
 
 
@@ -81,4 +81,4 @@ Michael Caldwell
 GigMasters.com, Inc.  
 33 South Main Street  
 Norwalk, CT 06854  
-<http://www.gigmasters.com/contact.aspx>
+[http://www.gigmasters.com/contact.aspx](https://web.archive.org/contact.aspx)
