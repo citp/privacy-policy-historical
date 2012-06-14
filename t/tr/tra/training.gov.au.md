@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the training.gov.au privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205064442id_/http%3A//training.gov.au/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the training.gov.au privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614211058id_/http%3A//training.gov.au/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # training.gov.au - Privacy policy
 
