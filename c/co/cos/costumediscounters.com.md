@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220055536id_/http%3A//www.costumediscounters.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614071641id_/http%3A//www.costumediscounters.com/privacy-security.html) for the most accurate reproduction.*
 
 # Discount Halloween Costumes with the Lowest Prices Guaranteed Buy at Costume Discounters
 
@@ -30,4 +30,4 @@ When checking out, you can opt out of email promotions. Also, every email will h
 45 Fernwood Ave.  
 Edison, NJ 08837
 
-[Terms & Conditions](http://www.costumediscounters.com/terms-conditions.html) [Privacy](http://www.costumediscounters.com/privacy-security.html) Copyright © 2011 Costume Discounters. All Rights Reserved. 
+[Terms & Conditions](http://www.costumediscounters.com/terms-conditions.html) [Privacy](http://www.costumediscounters.com/privacy-security.html) Copyright © 2012 Costume Discounters. All Rights Reserved. 
