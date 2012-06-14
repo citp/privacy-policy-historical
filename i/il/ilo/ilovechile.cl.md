@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilovechile.cl privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125116id_/http%3A//ilovechile.cl/i-love-chile/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovechile.cl privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614203951id_/http%3A//ilovechile.cl/awpcp/i-love-chile/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# I Love Chile Magazine, Chile's Local Info in English | Privacy Policy - I Love Chile Magazine, Chile's Local Info in English
 
 **Your privacy**
 
@@ -27,9 +27,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of [ilovechile.cl](http://www.ilovechile.cl/), then you may contact us at info@ilovechile.cl.
-
-### [I Love Chile Administrator](http://ilovechile.cl/author/i-love-chile-admin "I Love Chile Administrator")
-
-I Love Chile is Chile's top English-language media group, focused on promoting English in Chile and Chile in English.I Love Chile is operated by a combination of Chileans and expats who work hand-in-hand to bring you fair and unbiased news.I Love Chile strives to bridge the gap between cultures.
-
-[Website](http://www.ilovechile.cl/ "I Love Chile Administrator") \- [Twitter](http://www.twitter.com/ILoveChile "I Love Chile Administratoron Twitter") \- [Facebook](http://www.facebook.com/ILCNews "I Love Chile Administrator on Facebook") \- [More Posts](http://ilovechile.cl/author/i-love-chile-admin "More posts by I Love Chile Administrator")
