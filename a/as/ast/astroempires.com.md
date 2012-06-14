@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the astroempires.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216164844id_/http%3A//www.astroempires.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroempires.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614104251id_/http%3A//www.astroempires.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Astro Empires
 
-We collect personal information when you register our service or otherwise voluntarily provide such information.
+We collect personal information when you register our services, place an order with us or otherwise voluntarily provide such information.
 
 Our servers automatically record information when you visit our website, including the URL, IP address, browser information, and the date and time.
 
