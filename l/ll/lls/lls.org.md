@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lls.org privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504121455id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lls.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614182255id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Leukemia & Lymphoma Society
 
