@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606131204id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614104843id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
 
 # Wyndham Hotels & Resorts - Privacy Policy
 
@@ -45,12 +45,12 @@ By phone -
 * 888-877-0675 for Microtel Inn & Suites;
 * 888-297-2778 for Hawthorn Suites;
 
-By mail - Opt Out/ Privacy, Hotel Group Wyndham Hotel Group, LLC 1 Sylvan Way Parsippany, NJ 07054 
+By mail - Opt Out/ Privacy, Hotel Group Wyndham Hotel Group, LLC 22 Sylvan Way Parsippany, NJ 07054 
 
 We also invite your feedback and comments on this Policy. Please contact us at the e-mail address or telephone number above or by writing to us at:  
 Privacy Policy Inquiry.  
 Wyndham Hotel Group,  
-1 Sylvan Way,  
+22 Sylvan Way,  
 Parsippany, NJ 07054.   
   
 Reservations   
@@ -95,6 +95,6 @@ We may be obligated to disclose Information about you to a law enforcement agenc
 Correction   
 We make repeated efforts to verify the accuracy of Information and to correct and update our database from Information available to us. In the event a Customer believes that such Information held by us is inaccurate or outdated, we will, upon notification and sufficient time for verification, take all reasonable steps to correct any inaccuracy or update outdated information of which we are made aware.   
 Downloading   
-Please feel free to download or copy this Policy. You may obtain a copy free of charge by writing to us at Customer Privacy Policy, Wyndham Hotel Group, 1 Sylvan Way, Parsippany, NJ 07054.   
+Please feel free to download or copy this Policy. You may obtain a copy free of charge by writing to us at Customer Privacy Policy, Wyndham Hotel Group, 22 Sylvan Way, Parsippany, NJ 07054.   
 Policy Changes.   
 The Policy in effect at the time of each visit to a Brand Web site applies to that visit. However, we may change or terminate this Policy at any time without prior notice by posting an amended version of the Policy on our Web site and providing you with the ability to opt out of any new, unanticipated uses of Information not previously disclosed in the Policy. Please check our Policy each time you visit our Web site or more frequently if you are concerned about how your Information will be used. 
