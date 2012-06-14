@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210221id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614170845id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -8,7 +8,7 @@ Security and Privacy
 
  **For Pleasant Holidays Privacy Policy, SEE BELOW**
 
-**For Distinguished Resorts Hawaii World Privacy Policy,[CLICK HERE](http://drhw.tpsww.com/Travel/HTMLGenPagesDisplay.do?screenName=drhw_privacy.html)**
+**For Journese Privacy Policy,[CLICK HERE](http://drhw.tpsww.com/Travel/HTMLGenPagesDisplay.do?screenName=journese_privacy.html)**
 
 This site is owned and operated by Pleasant Holidays, LLC (hereinafter referred to as "Pleasant Holidays," "we," "us," or "our").
 
@@ -97,6 +97,6 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 | [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
  | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
   
- Copyright © 1999-2011 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
+ Copyright © 1999-2012 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
   
-SessionId: k_5YC-loYxxqEwcVqcwGJ6J| 
+SessionId: 0001_DgsG-BckvPDiJdnWPBA4uh:12a5oom32| 
