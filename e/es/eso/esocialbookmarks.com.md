@@ -1,61 +1,68 @@
-> *The following text is extracted and transformed from the esocialbookmarks.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206150222id_/http%3A//esocialbookmarks.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esocialbookmarks.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614094631id_/http%3A//www.esocialbookmarks.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | eSocial Bookmarks
+# Privacy | eSocial Bookmarks
 
-## eSocialBookmarks Privacy Policy
+## Privacy Policy
 
-Date of last revision: November 05, 2011.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
-### About this Privacy Policy
+When accessing our Web site, This website will learn certain information about you during your visit.
 
-This privacy policy applies only to eSocialBookmarks.com and its service. The eSocialBookmarks.com Web site is for Internet users who would like to save bookmarks simple fast and free way. eSocialBookmarks.com was designed to provide user friendly, comfortable and secure free space to store bookmarks. You are advised to read the privacy policy at any other Web site that you visit by clicking on any advertisement or any other means after you leave our site. We are not responsible for how other Web sites treat your privacy, once you leave our site.  
-Any bookmark is stored in eSocialBookmarks.com web-site is visible to anyone.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-### Types Of Information Collected When You Interact With eSocialBookmarks
+What Are Cookies?
 
-Like most cms platforms we use log files, in this case StatCounter. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-### Legal Requirements
+IP Addresses
 
-We may block or delete eSocialBookmarks accounts when we believe the information is stored there is harmful, dangerous or illegal.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
 
-### Cookie Information
+Email Information
 
-As many web-sites, we use cookies. Cookie is a small piece of data we store on your computer for an short period of time. We use temporary cookies to store your eSocialBookmarks button activation mark, to avoid regeneration of eSocialBookmarks button ID.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-### Advertisers
+How Do We Use the Information That You Provide to Us?
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx).
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-We use outside ad companies to display ads on this blog. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. we work with many advertising companies like: Google Adsense, CJ etc. Please check the advertisers websites for respective privacy policies.
+Our Web site will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-### Controlling Your Privacy
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+A Special Note About Children
 
-### Security of your bookmarks
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
 
-Safe storage of bookmarks created by you is very important for us.  
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your bookmarks.  
-We cannot guarantee the security of our Web site servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.  
-You are responsible for keeping your eSocialBookmarks PIN in safe place.
+How Do We Protect Your Information and Secure Information Transmissions?
 
-### Using your bookmarks data
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-We may use your bookmarks information to:  
-\- administer the website  
-\- enable or disable your use of the services available on the website  
-\- expand our services
+This Web Site may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-### Deletion Of Your Account
+For site security purposes and to ensure that this service remains available to all users, our site uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-Requests for deletion of your account may result in removal of your records from the registry.
+DoubleClick DART Cookie  
+> Google, as a third party vendor, uses cookies to serve ads on our site.  
+> Googles use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.  
+> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL http://www.google.com/privacy_ads.html
 
-### Privacy Policy Changes
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include .
 
-We may update this Privacy Policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. The latest version of our Privacy Policy will always be at <http://www.esocialbookmarks.com/static/privacy/>. If you continue to access or use the eSocialBookmarks Web site and its Services after Privacy Policy changes become effective, you agree with the revised Privacy Policy.
+Google Adsense  
+Commission Junction  
+Adbrite  
+Clickbank  
+Amazon
 
-### Contact
+Compensation Disclosure: This site receives compensation for referred sales of some or all mentioned products.
 
-We welcome any queries, comments or requests you may have regarding this Terms and Conditions. Please do not hesitate to contact us by e-mail: [adtypists @ gmail.com](mailto:adtypists@gmail.com).  
+Policy Changes
 
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+Contact
+
+If you have any questions regarding this Policy, or your dealings with our web site, please [contact us](mailto:info@esocialbookmarks.com).
