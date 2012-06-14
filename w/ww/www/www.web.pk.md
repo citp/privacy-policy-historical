@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the www.web.pk privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128022914id_/http%3A//www.web.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.web.pk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614033421id_/http%3A//www.web.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web.PK
 
-The privacy of our visitors to **www.Web.pk** is important to us, Before using any of our any service & tools, you must read the following terms and conditions.
+The privacy of our visitors to **www.Web.pk** is important to us, Before using any of our any service, you must read the following terms and conditions.
 
-_**At www.Web.pk, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.Web.pk, and how we safeguard your information. We never sell your personal information to third parties.**_
+**Privacy Policy for www.web.pk**
+
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.web.pk/contact/).
+
+At www.web.pk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.web.pk and how it is used.
 
 **Log Files**  
-As with most [other](http://www.web.pk/category/uncategorized/ "other") websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Like many other Web sites, www.web.pk makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+www.web.pk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-We also use third party advertisements on www.Web.pk to support our site. Some of these advertisers may use [technology](http://www.web.pk/category/technology/ "technology") such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.web.pk.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.web.pk and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
 
-**Copyright:**  
-All content including Text & Images are the property of www.Web.pk. Ufone, Mobilink, Waridtel, Telenor, Zong are registered trademarks of their Brands. MS Windows, MSN and Windows Live Messenger are registered trademarks of Microsoft Corporation. AOL and AIM are registered trademarks of America Online, Inc. ICQ is a registered mark of ICQ, Inc. Yahoo is a service mark of Yahoo. THIS SITE IS NOT AFFILIATED IN ANY WAY WITH MICROSOFT CORPORATION, AMERICA ONLINE, ICQ, YAHOO, Ufone, Mobilink, Waridtel, Telenor, Zong or any Government Institution.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.web.pk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**Third Party Advertising:**  
-We use third party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+www.web.pk has no access to or control over these cookies that are used by third-party advertisers.
 
-**Third Party Cookies:**  
-In the course of serving advertisements, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.web.pk’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-**Disclaimer:**  
-We do not take any responsibility for any error or omission by www.Web.pk or Third Parties. We don’t request or save any personal information including and similar to your name, address, telephone number and e-mail address. We are not responsible for any damage caused by anyone using our tools or directly by our services.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
