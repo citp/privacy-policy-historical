@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dramasonline.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113172118id_/http%3A//www.dramasonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramasonline.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614034417id_/http%3A//www.dramasonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Watch Pakistani Dramas Online
+
+###  Privacy Policy 
 
 **Privacy Policy**
 
