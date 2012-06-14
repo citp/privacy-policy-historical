@@ -1,14 +1,12 @@
-<!--The following is the downloaded HTML source of the yunfile.com privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202150528id_/http%3A//www.yunfile.com/user/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yunfile.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614092723id_/http%3A//www.yunfile.com/user/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Yunfile.com - Free File Hosting and Sharing, Permanently Save </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="File Hosting, Free File Hosting, Forever Profit Share, Free Storage, Permanently Save, Downloading Earn, Unlimited Downloading Speed and Bandwith ">
 	<meta name="keywords" content="File Hosting | Free File Hosting | Permanently Save | Unlimited Downloading Speed and Bandwidth | Netdrive | Internet Drive | Earn from Internet Dive | Internet Earn | Download and Earn | Forever Profit Share ">
-
-
-	<style type="text/css">@import url( /templates/yunfile/styles/main.css );</style>
+	<style type="text/css">@import url( /templates/yunfile/skin/style0/css/main.css );</style>
 	<script type="text/javascript" src="/templates/yunfile/js/jquery.js"></script>
 </head>
 
@@ -17,9 +15,11 @@
 <div id="header">
 	<a href="http://www.yunfile.com/"><img src="/images/logo1.jpg" class="logo" alt="YunFile.com"></a> 
 	<div id="login_box">
-		<form action="http://www.yunfile.com/view" class="login" method="post" id="login_form">
+		<!--form action="http://www.yunfile.com/view?module=user&action=validateLogin&returnPath=http://www.yunfile.com/explorer/list.html" class="login" method="post" id="login_form"-->
+		<form action="" class="login" method="post" id="login_form">
 		<input type="hidden" name="module" value="user">
 		<input type="hidden" name="action" value="validateLogin">
+			<input type="hidden" name="returnPath" value="http://www.yunfile.com/explorer/list.html">
 
 
 			<table class="tform">
@@ -40,7 +40,7 @@
                 </tr>
 				<tr>
 					<td></td>
-					<td><button type="button" onclick="javascript:window.location.href='/user/insert/.html'">Register </button></td>
+					<td><button type="button" onclick="javascript:window.location.href='http://www.yunfile.com/user/insert/.html'">Register </button></td>
 					<td class="tright"><button type="submit">Sign in </button></td>
 				</tr>
 			</tbody></table>
@@ -135,7 +135,51 @@ function active_submenu(){
 	if(!subMenu) return;
 	var menus = subMenu.getElementsByTagName("a");
 	var menu;
+	var menuUrl;
+	var newMenuUrl;
 	var currUrl = window.location.href;
+	var arr;
+	var newCurrUrl;
+	if(currUrl.indexOf("module")!=-1 && currUrl.indexOf("action")!=-1){
+		arr=currUrl.split("&");
+		newCurrUrl=arr[1];
+	}
+	oldActiveSubMenu = menus[0];
+	for (var i=0; i<menus.length; i++) {
+		menu = menus[i];
+		menuUrl = menu.href;
+		if(menuUrl.indexOf("module")!=-1 && menuUrl.indexOf("action")!=-1){
+			arr=menuUrl.split("&");
+			newMenuUrl=arr[1];
+			if(newMenuUrl==newCurrUrl){
+				menu.parentNode.className = "active";
+				if(i==0) 
+					menu.parentNode.className = "active first";
+				if(menu!=oldActiveSubMenu){
+					oldActiveSubMenu.parentNode.className = "";
+					if(oldActiveSubMenu==menus[0])
+						oldActiveSubMenu.parentNode.className = "first";
+				}
+				oldActiveSubMenu = menu;
+				break;
+			}
+		}
+		else{
+			if(currUrl==menuUrl){
+			menu.parentNode.className = "active";
+			if(i==0) 
+				menu.parentNode.className = "active first";
+			if(menu!=oldActiveSubMenu){
+				oldActiveSubMenu.parentNode.className = "";
+				if(oldActiveSubMenu==menus[0])
+					oldActiveSubMenu.parentNode.className = "first";
+			}
+			oldActiveSubMenu = menu;
+			break;
+		}
+		}
+	}
+
 	oldActiveSubMenu = menus[0];
 	for (var i=0; i<menus.length; i++) {
 		menu = menus[i];
@@ -293,7 +337,7 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 <!--zhu ye di bu  -->
 <div id="footer">
-	<span class="copy">@ 2010 YunFile.com. </span>
+	<span class="copy">@ 2012 YunFile.com. </span>
 	<ul>
 		<li><a href="http://www.yunfile.com/user/terms.html">Terms &amp; Conditions</a></li>
 		<li><a href="http://www.yunfile.com/user/privacy.html">Privacy Policy</a></li>
@@ -311,4 +355,5 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 <script>
 	active_submenu();
-</script></body></html>
+</script>
+</body></html>
