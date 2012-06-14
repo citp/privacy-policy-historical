@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mercurypay.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227200908id_/http%3A//www.mercurypay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurypay.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023330id_/http%3A//www.mercurypay.com/privacy.htm) for the most accurate reproduction.*
 
 # Mercury Payment Systems - Privacy Policy
 
-## Privacy Policy
+Privacy Policy
 
 Updated as of June, 2010   
 Integrity is one of our core values.
 
-Thank you for visiting [http://www.mercurypay.com](http://www.mercurypay.com/) (the " **Website** "). At Mercury Payment Systems, LLC ("Mercury"), we value and respect your privacy, and this privacy policy (the " **Privacy Policy** ") is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our [Terms and Conditions of Use](https://web.archive.org/web/20111227200908id_/http%3A//www.mercurypay.com/termsandconditions.htm) available at [www.mercurypay.com/termsandconditions.htm](https://web.archive.org/web/20111227200908id_/http%3A//www.mercurypay.com/termsandconditions.htm) describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of this Privacy Policy. **YOUR USE OF THE WEBSITE AND CONTINUED USE OF THE WEBSITE FOLLOWING ANY CHANGES TO THIS PRIVACY POLICY, SIGNIFIES YOUR CONSENT TO BE LEGALLY BOUND BY BOTH THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THOSE SET FORTH IN OUR TERMS AND CONDITIONS OF USE. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE OR PROVIDE ANY INFORMATION TO US.**
+Thank you for visiting [http://www.mercurypay.com](http://www.mercurypay.com/) (the " **Website** "). At Mercury Payment Systems, LLC ("Mercury"), we value and respect your privacy, and this privacy policy (the " **Privacy Policy** ") is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our [Terms and Conditions of Use](https://web.archive.org/web/20120614023330id_/http%3A//www.mercurypay.com/termsandconditions.htm) available at [www.mercurypay.com/termsandconditions.htm](https://web.archive.org/web/20120614023330id_/http%3A//www.mercurypay.com/termsandconditions.htm) describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of this Privacy Policy. **YOUR USE OF THE WEBSITE AND CONTINUED USE OF THE WEBSITE FOLLOWING ANY CHANGES TO THIS PRIVACY POLICY, SIGNIFIES YOUR CONSENT TO BE LEGALLY BOUND BY BOTH THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THOSE SET FORTH IN OUR TERMS AND CONDITIONS OF USE. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE OR PROVIDE ANY INFORMATION TO US.**
 
 ### THE INFORMATION WE COLLECT
 
