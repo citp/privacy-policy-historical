@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msnpeople.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228081324id_/http%3A//www.msnpeople.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnpeople.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614084456id_/http%3A//www.msnpeople.com/help/privacy) for the most accurate reproduction.*
 
-# My Social Network People - Community - Privacy Policy
+# My Social People - Privacy Policy
 
 My Social Networking People Privacy Policy  
 This Privacy Policy describes “My Social Networking People's policies and procedures on the collection, use and disclosure of your information. “My Social Networking People” receives your information through our various web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by “My Social Networking People” in the United States or any other country where “My Social Networking People” operates.
