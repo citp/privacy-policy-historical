@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the pdftoword.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207223741id_/http%3A//www.pdftoword.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftoword.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023511id_/http%3A//www.pdftoword.com/privacy.aspx) for the most accurate reproduction.*
 
 # PDF to Word Converter — 100% Free
 
-At Nitro PDF Software we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. Our Privacy Policy tells you how we collect, use, distribute and protect personal information. 
+At Nitro PDF Software we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. Our Privacy Policy tells you how we collect, use, distribute and protect personal information.
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.pdftoword.com/seal_m "Validate TRUSTe privacy certification")
 
-Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@nitropdf.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
+Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@nitropdf.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
 
 Nitro PDF Pty. Ltd. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. NitroPDF has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NitroPDF’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
 
-##  Information we collect 
+## Information we collect
 
 The types of information we collect and handle normally comprises:
 
   * Identity and contact details such as name, email address, phone number, credit card information, and mailing address
-  * Product and service preferences 
+  * Product and service preferences
 
 
 
@@ -97,7 +97,7 @@ You may request that we provide you with access to the personal information we h
 
 
 
-We may not be able to provide you with access to such information. If we deny your request for access, we will let you know why. We may also charge a fee to cover our reasonable costs associated with your request.
+We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 ##  Personal information security and data retention 
 
@@ -125,7 +125,7 @@ We partner with a third party ad network to either display advertising on our We
 
 ###  Links to other sites 
 
-This Web site contains links to other sites that are not owned or controlled by Nitro PDF Pty. Ltd. Please be aware that we, Nitro PDF, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+This Web site contains links to other sites that are not owned or controlled by Nitro PDF Pty. Ltd. Please be aware that we, Nitro PDF, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
 ##  Changes to our Privacy Policy 
 
@@ -137,6 +137,6 @@ This Privacy Policy was last amended March 18, 2011.
 
 If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by [emailing us ](mailto:privacy@nitropdf.com) or by contacting us by postal mail at the contact information listed below.
 
-Nitro PDF Software  
+Nitro  
 717 Market Street, Suite 600  
 San Francisco, CA 94103
