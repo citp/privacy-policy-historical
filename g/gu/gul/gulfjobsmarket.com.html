@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gulfjobsmarket.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203095340id_/http%3A//www.gulfjobsmarket.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gulfjobsmarket.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614051336id_/http%3A//www.gulfjobsmarket.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,57 +7,58 @@
   
   <meta http-equiv="X-UA-Compatible" content="IE=8">
   
-		<title>Jobs and News Website in the Gulf and the Middle East: Privacy Policy | Gulf Jobs Market</title>
-		
-		
-		
-		
+    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>Jobs and News Website in the Gulf and the Middle East: Privacy Policy | Gulf Jobs Market</title>
+    
+    
+    
+    
     <link href="http://static.gulfjobsmarket.com/css/reset.css" media="screen" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/themes/base/jquery-ui.css" type="text/css" media="all">
-    <link href="http://static.gulfjobsmarket.com/css/application.css" media="screen" rel="stylesheet" type="text/css">
-    <link rel="alternate" type="application/rss+xml" title="Gulf Jobs Market RSS Feed" href="http://www.gulfjobsmarket.com/feed">
 
+
+    <link rel="alternate" type="application/rss+xml" title="Gulf Jobs Market RSS Feed" href="http://www.gulfjobsmarket.com/feed">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script type="text/javascript" src="http://static.gulfjobsmarket.com/js/jquery-ui-1.7.2.custom.min.js"></script>
     <script type="text/javascript" src="http://static.gulfjobsmarket.com/js/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="/public/javascripts/jquery.center.js"></script>
-    
-    
-    
-    
-    
-		<script type="text/javascript">
-					$(document).ready(function(){
-						$('#dialog').dialog({
-							autoOpen: false,
-							resizable: false,
-							width: 210,
-							buttons: {
-								"Ok": function() { 
-									$("#q").val($("#s_textarea").val());
-									$(this).dialog("close");
-								}, 
-								"Cancel": function() { 
-									$(this).dialog("close"); 
-								} 
-							}
-						});
-					});
-					
-					function findValue(li) {
-						if( li != null ) {//return alert("No match!");
-							if( !!li.extra ) 
-								var sValue = li.extra[0];
-							else 
-								var sValue = li.selectValue;
-						}
-						$("#q").focus();
-					}
 
-					function selectItem(li) {
-						findValue(li);
-					}
-		</script>
+    <script type="text/javascript" src="/public/javascripts/jquery.popup.js?20111214130933"></script>    
+    
+    <link href="/wp-content/themes/gjm-v2-gulfjobsmarket/css/application.css?20120112100629" media="screen" rel="stylesheet" type="text/css">    
+    
+    
+    <script type="text/javascript">
+          $(document).ready(function(){
+            $('#dialog').dialog({
+              autoOpen: false,
+              resizable: false,
+              width: 210,
+              buttons: {
+                "Ok": function() { 
+                  $("#q").val($("#s_textarea").val());
+                  $(this).dialog("close");
+                }, 
+                "Cancel": function() { 
+                  $(this).dialog("close"); 
+                } 
+              }
+            });
+          });
+          
+          function findValue(li) {
+            if( li != null ) {//return alert("No match!");
+              if( !!li.extra ) 
+                var sValue = li.extra[0];
+              else 
+                var sValue = li.selectValue;
+            }
+            $("#q").focus();
+          }
+
+          function selectItem(li) {
+            findValue(li);
+          }
+    </script>
 
     <!-- menu script-->
     <script>
@@ -112,58 +113,61 @@
     <script>
       // returns the dimensions of editable browser area
       function getViewportDimensions() {
-	      var dimensions = new Object();
-	
-	      if (document.documentElement)
-	      {
-		      // IE6 compliant
-		      dimensions.newLeft = document.documentElement.scrollLeft;
-		      dimensions.newTop = document.documentElement.scrollTop;
+        var dimensions = new Object();
+  
+        if (document.documentElement)
+        {
+          // IE6 compliant
+          dimensions.newLeft = document.documentElement.scrollLeft;
+          dimensions.newTop = document.documentElement.scrollTop;
 
-		      dimensions.viewportWidth = document.documentElement.clientWidth,
-		      dimensions.viewportHeight = document.documentElement.clientHeight
-	      }
-	      else if (document.body)
-	      {
-		      // DOM compliant
-		      dimensions.newLeft = document.body.scrollLeft;
-		      dimensions.newTop = document.body.scrollTop;
+          dimensions.viewportWidth = document.documentElement.clientWidth,
+          dimensions.viewportHeight = document.documentElement.clientHeight
+        }
+        else if (document.body)
+        {
+          // DOM compliant
+          dimensions.newLeft = document.body.scrollLeft;
+          dimensions.newTop = document.body.scrollTop;
 
-		      dimensions.viewportWidth = window.innerWidth,
-		      dimensions.viewportHeight = window.innerHeight
-	      }
-	
-	      return dimensions;
+          dimensions.viewportWidth = window.innerWidth,
+          dimensions.viewportHeight = window.innerHeight
+        }
+  
+        return dimensions;
       }
 
       function openPopup(div_id) {
-	      // hiding previously opened popups
-	      var divs = document.getElementsByTagName('div');
-	      for (var i = 0; i < divs.length; i++) {
-		      if ($(divs[i]).attr('name') == 'gjm_popup_div') {
-			      divs[i].style.display = 'none';
-		      }
-	      }
 
-	      var msgDiv = document.getElementById(div_id);
+        $("#"+div_id).center();
 
-	      var viewportDimensions = getViewportDimensions();
-	
-	      viewportDimensions.newLeft += Math.ceil(viewportDimensions.viewportWidth / 2) - 200; //(msgDiv.offsetWidth / 2);
-	      viewportDimensions.newTop += Math.ceil(viewportDimensions.viewportHeight / 2) - 200;
-			
-	      msgDiv.style.left	= viewportDimensions.newLeft + 'px';
-	      msgDiv.style.top	= viewportDimensions.newTop + 'px';
-	
-	      msgDiv.style.display = 'block';			
+        //// hiding previously opened popups
+        //var divs = document.getElementsByTagName('div');
+        //for (var i = 0; i < divs.length; i++) {
+          //if ($(divs[i]).attr('name') == 'gjm_popup_div') {
+            //divs[i].style.display = 'none';
+          //}
+        //}
+
+        //var msgDiv = document.getElementById(div_id);
+
+        //var viewportDimensions = getViewportDimensions();
+  
+        //viewportDimensions.newLeft += Math.ceil(viewportDimensions.viewportWidth / 2) - 200; //(msgDiv.offsetWidth / 2);
+        //viewportDimensions.newTop += Math.ceil(viewportDimensions.viewportHeight / 2) - 200;
+      
+        //msgDiv.style.left  = viewportDimensions.newLeft + 'px';
+        //msgDiv.style.top  = viewportDimensions.newTop + 'px';
+  
+        //msgDiv.style.display = 'block';      
         
-	      return false;
+        //return false;
       };    
     
     </script>
 
-		<script type="text/javascript" src="http://static.gulfjobsmarket.com/js/toggle.js"></script>
-		<script type="text/javascript" src="http://static.gulfjobsmarket.com/js/date-format.js"></script>
+    <script type="text/javascript" src="http://static.gulfjobsmarket.com/js/toggle.js"></script>
+    <script type="text/javascript" src="http://static.gulfjobsmarket.com/js/date-format.js"></script>
       <!-- JavaScript Dependencies for Tabview: -->
       <script src="http://yui.yahooapis.com/2.5.2/build/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"><!--mce:0--></script>
       <script src="http://yui.yahooapis.com/2.5.2/build/element/element-beta-min.js" type="text/javascript"><!--mce:1--></script>
@@ -180,15 +184,9 @@
       <script type="text/javascript" src="http://static.gulfjobsmarket.com/js/sudoSlider.min.js"></script>      
       
       
-		<script type="text/javascript" src="http://www.gulfjobsmarket.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+    <script type="text/javascript" src="http://www.gulfjobsmarket.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
 <script type="text/javascript" src="http://www.gulfjobsmarket.com/wp-content/plugins/google-analyticator/external-tracking.js?ver=abc"></script>
 <link rel="index" title="Gulf Jobs Market" href="http://www.gulfjobsmarket.com">
-
-<!-- Start Of Script Generated By cforms v10.5.2 [Oliver Seidel | www.deliciousdays.com] -->
-<link rel="stylesheet" type="text/css" href="http://www.gulfjobsmarket.com/wp-content/plugins/cforms/styling/cforms.css">
-<script type="text/javascript" src="http://www.gulfjobsmarket.com/wp-content/plugins/cforms/js/cforms.js"></script>
-<!-- End Of Script Generated By cforms -->
-
 <script type="text/javascript" src="http://www.gulfjobsmarket.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
 <!--
@@ -236,8 +234,8 @@ mysack.setVar( "results_div_id", second_div );
 }
 //-->
 </script>
-	<link rel="icon" href="http://www.gulfjobsmarket.com/wp-content/themes/grid-focus-public-10/images/gulfjobs_logo_100px.jpg" type="image/jpg">
-	<link rel="shortcut icon" href="http://www.gulfjobsmarket.com/wp-content/themes/grid-focus-public-10/images/gulfjobs_logo_100px.jpg" type="image/jpg">
+	<link rel="icon" href="http://www.gulfjobsmarket.com/wp-content/themes/gjm-v2-gulfjobsmarket/images/page_icon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://www.gulfjobsmarket.com/wp-content/themes/gjm-v2-gulfjobsmarket/images/page_icon.ico" type="image/x-icon">
 <meta name="description" content="Gulf Jobs Market privacy policy. Search for thousands jobs across the Middle East in the IT and Telecoms, Banking and Finance, Oil and Gas sectors.">
 
 <!-- WP Menubar 3.0: start CSS -->
@@ -251,35 +249,35 @@ mysack.setVar( "results_div_id", second_div );
 	<script type="text/javascript">var fileTypes = ['Array'];</script>
 
 <script type="text/javascript">
-			function firstClear(obj) {
+      function firstClear(obj) {
 if(obj.clearThis == undefined) { obj.value = ''; obj.clearThis = true; }}
 
 function checkLocationField() {
-		if (document.getElementById('location').disabled == true) {
-			document.getElementById('location').disabled=false;
-			document.getElementById('industry').options[1].value = "56";
-			document.getElementById('industry').options[1].text = "Jobs in Banking";
-			document.getElementById('industry').options[2].value = "57";
-			document.getElementById('industry').options[2].text = "Jobs in Finance";
-			document.getElementById('industry').options[3].value = "59";
-			document.getElementById('industry').options[3].text = "Jobs in Oil and Gas";
-			document.getElementById('industry').options[4].value = "58";
-			document.getElementById('industry').options[4].text = "Jobs in IT and Telecoms";
-			document.getElementById('industry').selectedIndex = 0;
-			document.getElementById('location').selectedIndex = 0;
-		} else {
-			document.getElementById('location').disabled=true;
-			document.getElementById('industry').options[1].value = "700";
-			document.getElementById('industry').options[1].text = "Banking News";
-			document.getElementById('industry').options[2].value = "701";
-			document.getElementById('industry').options[2].text = "Finance News";
-			document.getElementById('industry').options[3].value = "702";
-			document.getElementById('industry').options[3].text = "Oil and Gas News";
-			document.getElementById('industry').options[4].value = "703";
-			document.getElementById('industry').options[4].text = "IT and Telecoms News";
-			document.getElementById('industry').selectedIndex = 0;
-			document.getElementById('location').selectedIndex = 0;
-		}
+    if (document.getElementById('location').disabled == true) {
+      document.getElementById('location').disabled=false;
+      document.getElementById('industry').options[1].value = "56";
+      document.getElementById('industry').options[1].text = "Jobs in Banking";
+      document.getElementById('industry').options[2].value = "57";
+      document.getElementById('industry').options[2].text = "Jobs in Finance";
+      document.getElementById('industry').options[3].value = "59";
+      document.getElementById('industry').options[3].text = "Jobs in Oil and Gas";
+      document.getElementById('industry').options[4].value = "58";
+      document.getElementById('industry').options[4].text = "Jobs in IT and Telecoms";
+      document.getElementById('industry').selectedIndex = 0;
+      document.getElementById('location').selectedIndex = 0;
+    } else {
+      document.getElementById('location').disabled=true;
+      document.getElementById('industry').options[1].value = "700";
+      document.getElementById('industry').options[1].text = "Banking News";
+      document.getElementById('industry').options[2].value = "701";
+      document.getElementById('industry').options[2].text = "Finance News";
+      document.getElementById('industry').options[3].value = "702";
+      document.getElementById('industry').options[3].text = "Oil and Gas News";
+      document.getElementById('industry').options[4].value = "703";
+      document.getElementById('industry').options[4].text = "IT and Telecoms News";
+      document.getElementById('industry').selectedIndex = 0;
+      document.getElementById('location').selectedIndex = 0;
+    }
 }
 </script>
 
@@ -298,7 +296,7 @@ function checkLocationField() {
 </style>
 <![endif]-->
 
-		    <!--parent_id-->
+        <!--parent_id-->
     
     <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
     </script>
@@ -320,9 +318,9 @@ function checkLocationField() {
     </script>
 
 
-	<script>
-	  function hintalize(){
-    	$("input[type=text], input[type=password], textarea").each(function(index){
+  <script>
+    function hintalize(){
+      $("input[type=text], input[type=password], textarea").each(function(index){
         var hint = $(this).attr('alt');
         var val = $(this).val();
         $(this).removeClass('selected_input');
@@ -335,6 +333,7 @@ function checkLocationField() {
   
     $(function(){
     
+      //=todo get rid of this bs, that I wrote previously
       if ( $("#submit_search").length > 0 ) {
         $("#submit_search").click(function(e){
           $(this).parents('form').submit();
@@ -355,49 +354,83 @@ function checkLocationField() {
       }
 
     });
-	</script></head>
-	
-		
-	
-	
+  </script></head>
+  
+    
+  
+  
 <body>
-
-	<script type="text/javascript">
+  <!-- ClickTale Top part -->
+  <script type="text/javascript">
+  var WRInitTime=(new Date()).getTime();
+  </script>
+  <!-- ClickTale end of Top part -->  
+  
+  <script type="text/javascript">
          var myTabs = new YAHOO.widget.TabView("menu_content");
-	</script>
-	<script type="text/javascript">
+  </script>
+  <script type="text/javascript">
          var myTabs = new YAHOO.widget.TabView("menu_content1");
-	</script>
+  </script>
 
+
+
+  <!-- loading message -->
+  <script type="text/javascript">
+    function showLoadingMessage(message) {
+      message = typeof(message) != 'undefined' ? message : "Loading...";
+      $("#loading_message .body").html(message);
+      $("#loading_message").center();
+
+    }
+
+    function hideLoadingMessage() {
+      $("#loading_message").hide();
+    }
+  </script>
+
+  <div id="loading_message">
+    <table border="0" align="center" width="100%">
+      <tbody><tr>
+        <td>
+          <img src="/img/loading.gif" border="0">
+        </td>
+        <td class="body">
+          Loading...
+        </td>
+      </tr>
+    </tbody></table>
+  </div>
+  <!-- end of loading message -->
+  <div id="wrapper">
     <div id="container">
       <div id="header">
         <div id="logo">
 
           <a href="/">
-            <img alt="Gulf Jobs Market Logo" src="/wp-content/themes/gjm-v2/images/gulfjobs_logo_100px.jpg">
+            <img alt="Gulf Jobs Market Logo" src="/wp-content/themes/gjm-v2-gulfjobsmarket/images/gulfjobs_logo_100px.jpg">
           </a>
         </div>
         <div id="stats_ads">
-
-                      <div class="date" id="date">
-              <script type="text/javascript">
-                document.write(dateFormat("dddd dS mmmm yyyy  h:MM TT"));
-                                                          clientDate = new Date();
-                                                          clientGMT = - clientDate.getTimezoneOffset() / 60;
-                                                          document.cookie = "timezone="+clientGMT+"; path=/; expires="+dateFormat("ddd, d-mmm-yyyy")+" "+(clientDate.getHours() - clientGMT)+":"+(clientDate.getMinutes()+30)+":"+clientDate.getSeconds()+" GMT";
-              </script>
-            </div>
-                                <div id="stats">
-                      <span class="main_stat">
-              Over 1,000 Live Jobs
+          <div class="date" id="date">
+            <script type="text/javascript">
+              document.write(dateFormat("dddd dS mmmm yyyy  h:MM TT"));
+              clientDate = new Date();
+              clientGMT = - clientDate.getTimezoneOffset() / 60;
+              document.cookie = "timezone="+clientGMT+"; path=/; expires="+dateFormat("ddd, d-mmm-yyyy")+" "+(clientDate.getHours() - clientGMT)+":"+(clientDate.getMinutes()+30)+":"+clientDate.getSeconds()+" GMT";
+            </script>
+          </div>
+          <div id="stats">
+            <span class="main_stat">
+              Over 1,200 Live Jobs
             </span>
 
             <span class="sub_stat">Jobsite for Exec, Senior and Mid-level Professionals</span>
           </div>
-                      <div id="top_ad"><a href="http://www.ey.com/careers" rel="nofollow" target="_blank"><img border="0" alt="Ernst and Young Jobs in UAE" title="Ernst and Young Jobs in UAE" src="http://www.gulfjobsmarket.com/wp-content/banners/Ernst and Young Jobs in UAE.gif"></a>
+          <div id="top_ad"><a href="http://www.ey.com/careers" rel="nofollow" target="_blank"><img border="0" alt="Ernst and Young Jobs in UAE" title="Ernst and Young Jobs in UAE" src="http://www.gulfjobsmarket.com/wp-content/banners/Ernst and Young Jobs in UAE.gif"></a>
 
 </div>
-                              <div class="janitor"></div>
+          <div class="janitor"></div>
         </div>
         <div class="janitor"></div>
       </div>
@@ -408,37 +441,50 @@ function checkLocationField() {
                           <a href="/">Home</a>
                       </li>
           <li>
-                          <a href="/browse-gulf-jobs.html">Browse Gulf Jobs</a>
-            
+                        <a href="/browse-gulf-jobs.html">
+              Browse Gulf Jobs
+            </a>
+          
             <ul>
               <li>
-                <a href="/gulf-jobs-by-industry.html">Browse by Industry</a>
+                <a href="/gulf-jobs-by-industry.html">
+                  Browse by Industry
+                </a>
               </li>
-              <li>
-                <a href="/jobs-in-the-uae.html">Jobs in the UAE</a>
-              </li>
-              <li>
-                <a href="/jobs-in-dubai.html">Jobs in Dubai</a>
-              </li>
-              <li>
-                <a href="/jobs-in-qatar.html">Jobs in Qatar</a>
-              </li>
-              <li>
-                <a href="/jobs-in-abu-dhabi.html">Jobs in Abu Dhabi</a>
-              </li>
-              <li>
-                <a href="/jobs-in-saudi-arabia.html">Jobs in Saudi Arabia</a>
-              </li>
-              <li>
-                <a href="/jobs-in-bahrain.html">Jobs in Bahrain</a>
-              </li>
-              <li>
-                <a href="/jobs-in-oman.html">Jobs in Oman</a>
-              </li>
-              <li>
-                <a href="/jobs-in-kuwait.html">Jobs in Kuwait</a>
-              </li>
-              <li>
+              
+                                <li>
+                    <a href="/jobs-in-abu-dhabi.html">
+                      Jobs in Abu Dhabi                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-bahrain.html">
+                      Jobs in Bahrain                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-dubai.html">
+                      Jobs in Dubai                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-kuwait.html">
+                      Jobs in Kuwait                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-oman.html">
+                      Jobs in Oman                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-qatar.html">
+                      Jobs in Qatar                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-saudi-arabia.html">
+                      Jobs in Saudi Arabia                    </a>
+                  </li>
+                                    <li>
+                    <a href="/jobs-in-the-uae.html">
+                      Jobs in UAE                    </a>
+                  </li>
+                                <li>
                 <a href="/jobs-for-uae-nationals.html">Jobs for UAE Nationals</a>
               </li>
             </ul>
@@ -450,9 +496,12 @@ function checkLocationField() {
           <li>
                           <a class="get_jobs_by_email" href="/get-jobs-by-email">Get jobs by Email</a>
                       </li>
+          <!--
           <li>
-                          <a href="/distribute-your-cv">Distribute your CV</a>
-                      </li>
+                          <a href='/distribute-your-cv'>Distribute your CV</a>
+            
+          </li>
+          -->
           <li>
                           <a class="career_advice" href="/career-advice">Careers Advice</a>
                       </li>
@@ -503,11 +552,10 @@ function checkLocationField() {
         <div class="janitor"></div>
       </div>
       
-		  <div id="dialog" style="display:none;" title="Gulf Jobs Market">
-			  <p>Please enter keywords here:</p>
-			  <textarea id="s_textarea" style="padding:0px;"></textarea>
-		  </div>   
-		  
+      <div id="dialog" style="display:none;" title="Gulf Jobs Market">
+        <p>Please enter keywords here:</p>
+        <textarea id="s_textarea" style="padding:0px;"></textarea>
+      </div>   
 <div id="mid" class="fix">
 	<div id="singleCol" class="fix"><a name="main"></a>
 				<div class="post" id="post-677">
@@ -555,6 +603,7 @@ If we decide to change our privacy policy, we will seek to advise all users of t
 
 </div>
         <div id="skyscrapers"></div>
+      </div>
     
     </div>
     <div id="footer">
@@ -567,22 +616,20 @@ If we decide to change our privacy policy, we will seek to advise all users of t
         <div class="footer">
         
           <div>
-            Copyright © 2008 - 2011 · All Rights Reserved · Co Reg No 06729972 · 
-            <a href="/middle-east/gulf-news" target="_blank">Gulf Jobs News</a>
-            · 
+            Copyright © 2008 - 2012 · All Rights Reserved · Co Reg No 06729972 · 
+            <a target="_blank" href="http://news.gulfjobsmarket.com/news.html">Gulf Jobs News</a>
+             · 
             <a href="/privacy-policy">Privacy Policy</a>
-            · 
-            <a href="/contact-us">Contact us</a>        
-            
+             · 
+            <a href="/contact-us">Contact Us</a>        
           </div>
           <div class="social_footer_icons">
-            <a target="_blank" href="http://www.facebook.com/thegulfjobsmarket" class="facebook32"></a>
-            <a target="_blank" href="http://twitter.com/GulfJobsMarket" class="twitter32"></a>
+            <a target="_blank" href="http://facebook.com/thegulfjobsmarket" class="facebook32" title="Become our fan on Facebook"></a>
+            <a target="_blank" href="http://twitter.com/GulfJobsMarket" class="twitter32" title="Follow us on Twitter"></a>
           <div>
         </div>
       </div>
     </div> 
-    
 
   <!-- Lyris tracking, added 24 May 2010, modified 14 June 2010 -->
   
@@ -650,15 +697,6 @@ If we decide to change our privacy policy, we will seek to advise all users of t
 
   </script>
   
-  <script type="text/javascript"><!--
-	  document.write('<'
-		  + 'script type="text/javascript" src="'
-		  + document.location.protocol
-		  + '//stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=2qH0evnvvWMrqE'
-		  + '"><'
-		  + '/script>');
-	  // -->
-  </script><script type="text/javascript" src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=2qH0evnvvWMrqE"></script>
   <!-- Google Analytics Tracking by Google Analyticator: http://cavemonkey50.com/code/google-analyticator/ -->
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -673,5 +711,23 @@ If we decide to change our privacy policy, we will seek to advise all users of t
 	} catch(err) {}</script>
 			<script type="text/javascript">var fileTypes = [''];</script>
 			  
+   
+  <!-- ClickTale Bottom part -->
+  <div id="ClickTaleDiv" style="display: none;"></div>
+  <script type="text/javascript">
+  document.write(unescape("%3Cscript%20src='"+
+   (document.location.protocol=='https:'?
+    'https://clicktale.pantherssl.com/':
+    'http://s.clicktale.net/')+
+   "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  var ClickTaleSSL=1;
+  if(typeof ClickTale=='function') ClickTale(32833,0.04,"www");
+  </script>
+  <!-- ClickTale end of Bottom part --> 
+ 
+  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","536d87be42",402887,"MwRbYxEDDUFVVhZcCQpObEUKTQpcUFAaGxYMEQ==",0,247,new Date().getTime()]);</script>
 
-</div></div></body></html>
+
+</div></div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum.js"></script></body></html>
