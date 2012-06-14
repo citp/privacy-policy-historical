@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126162023id_/http%3A//www.gcu.edu/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614094330id_/http%3A//www.gcu.edu/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Grand Canyon University
 
