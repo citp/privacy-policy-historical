@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubworld.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230014521id_/http%3A//www.hubworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubworld.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615005613id_/http%3A//www.hubworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubworld Privacy Policy
 
