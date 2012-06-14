@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227132302id_/http%3A//www.manta.com/coms2/page_terms_conditions_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614051142id_/http%3A//www.manta.com/coms2/page_terms_conditions_privacy) for the most accurate reproduction.*
 
 # Terms & Conditions: Privacy
 
-We are committed to protecting the information that you provide us when you use the Web sites, applications, content and services of Manta.com and its affiliated properties (collectively, “Manta”).  This privacy policy explains what information we collect when you use Manta, why we collect it, and how we use it to improve your experience. 
+This privacy policy explains what information is collected when you use the Web sites, applications, content and services of Manta.com and its affiliated properties (“Manta”),  why this information is collected, and how we use it to improve your experience. 
 
 ## Your Manta Information
 
@@ -14,7 +14,7 @@ Your information may be supplemented with additional information from other comp
 
             Your Profile
 
- When you register with us, we use certain information we collect from you (your name, business, and location of your business) to set up a profile on your behalf to share with others, and which information will be available by search on Manta to help you promote your business or profession. After you register with Manta, you may provide additional member information about yourself (member profile, company profile) and add company profile information about your business in the My Profile area on Manta. Such member and company profiles could include, at your option, a description of your skills or products, experience, education and membership in organizations. Also in the My Profile area, you can control what information you want to share with others.
+ When you register with us, sign up for an application or service, become a member of a company profile or make recommendations on the service, we use certain information we collect from you (your name, business, and location of your business) to set up a profile on your behalf to share with others, and which information will be available by search to help you promote your business or profession. After you register with Manta, you may provide additional member information about yourself (member profile, company profile) and add company profile information about your business in the My Profile area on Manta. Such member and company profiles could include, at your option, a description of your skills or products, experience, education and membership in organizations. Also in the My Profile area, you can control what information you want to share with others. Please use http://www.manta.com/coms2/page_faq www.manta.com/coms2/page_faq to obtain information about Manta’s various features and services and the options you have to use those services.
 
             Contact Information
 
@@ -22,13 +22,13 @@ We may offer you services to send invitations via Manta or email addresses if th
 
             You Consent to our Collection of Information
 
-By providing information to us for the purposes of creating your Manta account or adding any additional details to your profile, you understand and agree that we may process information about you and make information about you available to others. In addition, if you post any information about yourself on areas of Manta that are publicly accessible, such as message boards or forums, you understand and agree that such information will be available to others. 
+By providing information to us for the purposes of creating your Manta account, interacting with Manta’s services and features, or adding any additional details to your profile, you understand and agree that we may process information about you and make information about you available to others. In addition, if you post any information about yourself on areas of Manta that are publicly accessible, such as message boards or forums, you understand and agree that such information will be available to others. 
 
 ## How Manta Information Is Used
 
 Your Manta information is used to operate and improve the features, offerings and content presented to you by us; to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of our products; to share information about you and your business; to communicate with other users and business contacts; and, to help offer you other products, programs, or services that may be of interest or relevance to you. 
 
-Your Manta information will not be shared with third parties for marketing purposes unless it is necessary to fulfill a transaction you have requested, or in other circumstances in which you have given your consent to the sharing of your Manta information to affiliates, partners, agents or other parties whose products or services we believe may be of interest to you. Since Manta is design to help companies and business professionals network with others, Manta is designed so that certain information about you and your business is available to others on Manta and via the internet, including, your name, and location of your business. As we explain below, you can add, enhance, modify or delete what information is made available to others in the My Profile area of Manta. We may use your Manta information to present offers to you on behalf of business partners and advertisers.
+Your Manta information will not be shared with third parties for marketing purposes unless it is necessary to fulfill a transaction you have requested, or in other circumstances in which you have given your consent to the sharing of your Manta information to affiliates, partners, agents or other parties whose products or services we believe may be of interest to you. Since Manta is design to help companies and business professionals network with others, Manta is designed so that certain information about you and your business is available to others on Manta and via search engines, including, your name, and location of your business, and to help you communicate with companies and business professionals. As we explain below, you can add, enhance, modify or delete what information is made available to others in the My Profile area of Manta. Please use www.manta.com/coms2/page_faq to learn about all of Manta’s services and offerings, and what options you have to take advantage of such services. We may use your Manta information to present offers to you on behalf of business partners and advertisers.
 
 The contents of your online communications, as well as other information about you  as a Manta user, may be accessed and disclosed in response:  to lawful governmental requests or legal process (for example, a court order, search warrant or subpoena), in other circumstances in which we have a good faith belief that a crime has been or is being committed by a user, that an emergency exists that poses a threat to the safety of you or another person, when necessary either to protect our property, or for us to render the service you have requested.
 
@@ -39,15 +39,15 @@ Your Information Choices
 In the My Profile area on Manta, you have the following choices:
 
   * You may review, enhance, add, change or delete such information in the My Profile area. 
+  * You may choose to make your member profile available to search engines through the My Profile area. 
   * You may control how other users may send you messages. 
   * You may change your settings to control visibility on Manta. 
   * You may remove all information about you and your business by cancelling your account by sending a request to [help@manta.com](mailto:help@manta.com). We will use commercially reasonable efforts to block access to your information upon termination of your account; however, you understand and agree that certain information may be retained by us as part of our standard back up and archiving process. 
 
 
 
-In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (example, a user ID or e-mail address and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you are using.
-
-You can make or change your choices about receiving offerings from us or our partners by going to http://www.manta.com/profile/newsletters. Any e-mails that you receive that contain marketing promotions will provide an option to remove your name from future mailings; provided, however, you understand and agree that this exclusion does not apply to notices we provide you about your Manta services. 
+  
+You can make or change your choices about receiving offerings from us or our partners by going to <http://www.manta.com/profile/newsletters>. Any e-mails that you receive that contain marketing promotions will provide an option to remove your name from future mailings; provided, however, you understand and agree that this exclusion does not apply to notices we provide you about your Manta services. 
 
 ## Cookies, Advertising Networks
 
@@ -55,35 +55,19 @@ We may place "cookies" on your Web browser. Cookies are small pieces of informat
 
 Also, we, and certain third party companies under agreement with us, may deploy cookies, pixel tags, web beacons or similar technologies to collect and assemble non-personal, demographic, behavioral and technical information about the use of Manta from our users in order to group such users that share a common interest into general interest categories (collectively, “Audience Segment Cookies”).  Such Audience Segment Cookies, which do not identify you personally, may be placed when you access Manta, share content from Manta, when advertisements are presented on Manta, and/or when you respond to advertisements or other offerings on Manta. We and these third party companies may use such non-personally identifiable information in combination with your visits to Manta and other sites in order to present advertisements about goods and services likely to be of greater interest to you, to measure the effectiveness of Manta and advertisements, and to help predict the characteristics and preferences of our audiences and the audiences of our third party companies. We may share certain information about you as a user that is not personally identified to you (such as user industry and position) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies by ad network providers is subject to their own privacy policies. 
 
-Please click here to find out what choices you have to "opt out" of the targeted advertising delivered by these networks. You can find out more about ad network providers by clicking on one of the links below: 
+Please click here to find out what choices you have to "opt out" of the targeted advertising delivered by these networks. You can find out more about ad network providers by accessing [www.manta.com/coms2/page_adnetworks](https://web.archive.org/coms2/page_adnetwork). 
 
-  * Tacoda 
-  * Premium Network 
-  * Casale Media 
-  * Tribal Fusion 
-  * Brand.net 
-  * Yahoo/Blue Lithium 
-  * 24/7 Real Media
-  * Google AdSense/AdX
-  * Chitika
-  * eXelate
-  * Bizo
-  * Advertising.com
-  * AdMeld
-
-
-
-To learn more about such audience behavior advertising practices, you can visit www.networkadvertising.org.
+Many of the advertising networks participate in the opt-out program offered by the Network Advertising Initiative. To learn more about such audience behavior advertising practices, you can visit [www.networkadvertising.org](https://web.archive.org/web/20120614051142id_/http%3A//www.manta.com/coms2/www.networkadvertising.org).
 
 ## Security
 
 We make available a secure page for entering sensitive information, protected by industry-standard SSL encryption technology. This technology encrypts your information prior to transmitting it over the Internet. 
 
-We maintain the confidential information you provide us in a secure database. We further require credentials such as a user identification (e.g., email address) and password to limit access to registered accounts. Please keep in mind that while we have established safeguards to help prevent unauthorized access to or misuse of you Manta information, we cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, in the event of unauthorized acts by third parties that violate applicable law or our policies)..
+We maintain the confidential information you provide us in a secure database. We further require credentials such as a user identification (e.g., email address) and password to limit access to registered accounts. Please keep in mind that while we have established safeguards to help prevent unauthorized access to or misuse of you Manta information, we cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, in the event of unauthorized acts by third parties that violate applicable law or our policies).
 
 ## Questions
 
-If you have further questions or concerns that have not been addressed in this statement, please send your inquires to:
+If you have further questions or concerns that have not been addressed in this statement, please send your inquiries to:
 
 Manta.com Privacy Policy  
 c/o Manta Media Inc.  
@@ -92,3 +76,8 @@ Suite 200
 Columbus, Ohio 43240 
 
 Please be sure to include your name, address and daytime phone number so we can contact you.
+
+## Changes
+
+We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us as well as for special features and services not described in this Policy that may be introduced in the future.  
+
