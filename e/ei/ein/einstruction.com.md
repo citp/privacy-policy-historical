@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201180846id_/http%3A//www.einstruction.com/about-einstruction/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614062221id_/http%3A//www.einstruction.com/about-einstruction/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eInstruction.com
+# Privacy Policy | © eInstruction®
 
 eInstruction has created this privacy statement to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for all eInstruction websites.
 
