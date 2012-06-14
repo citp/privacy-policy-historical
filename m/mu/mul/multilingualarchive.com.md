@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multilingualarchive.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202163723id_/http%3A//www.multilingualarchive.com/en/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualarchive.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614214611id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
 
 # WorldLingo Privacy Policy
 
@@ -33,7 +33,7 @@ WorldLingo' Privacy Policy is designed to help you understand how we collect and
 
 By using or accessing WorldLingo, you are accepting the practices described in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20111202163723id_/http%3A//www.multilingualarchive.com/en/company/privacy@worldlingo.com).
+If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20120614214611id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
 
 * * *
 
