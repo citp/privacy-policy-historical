@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the websiterecord.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214083743id_/http%3A//websiterecord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiterecord.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614101239id_/http%3A//websiterecord.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Website Record
 
 **Privacy Policy for Websiterecord.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact.websiterecord@gmail.com.  
+If you require any more information or have any questions about our privacy policy, please feel free to contact us our contact page.  
 At Websiterecord.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Websiterecord.com and how it is used. 
 
 Log Files  
