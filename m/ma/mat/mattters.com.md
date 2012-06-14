@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattters.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007140813id_/http%3A//mattters.com/-/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattters.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614132124id_/http%3A//mattters.com/-/privacy) for the most accurate reproduction.*
 
 # Mattters - Follow Your Interests
 
