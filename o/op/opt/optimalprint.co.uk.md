@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125005454id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614190431id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,3 +74,5 @@ Some of our business partners whose content is linked to or from this site may a
 This Site should not be used to send or use e-cards, e-mails, SMS or any other electronic documents in any manner that would constitute the transmission of Spam, SMS or unsolicited e-mails. Automating the creation and/or transmission of e-cards, e-mails or any other electronic documents by the use of scripting or any programs is strictly prohibited. The number of e-cards, SMS, e-mails or any other electronic documents that you can send can at any point, be limited by Optimalprint. Likewise, Optimalprint reserves the right, in its sole discretion, at any time, and without prior notice, to limit the number of recipients to which you may send e-cards, SMSs, e-mails or any other electronic documents. 
 
 You agree that you are responsible for protecting your password and controlling access to your registered account and that you will be responsible for all orders placed or other actions that are taken through your registered account. 
+
+Loading. Please wait... 
