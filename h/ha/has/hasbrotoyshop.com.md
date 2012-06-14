@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206160025id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614030242id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
 
 # HASBRO WEB SITE PRIVACY STATEMENT
 
