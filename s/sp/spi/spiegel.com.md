@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206002929id_/http%3A//www.spiegel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614182455id_/http%3A//www.spiegel.com/privacy-policy) for the most accurate reproduction.*
 
 # Spiegel | Privacy Policy - Spiegel
 
@@ -6,7 +6,7 @@
 ---  
 This is the Privacy Policy for Spiegel Catalog, Inc.  
 Shopping online has changed our lives. At Spiegel your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner.  
-This Privacy Policy applies only to information collected through Spiegel’s website. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This Policy was last revised on October 1, 2009.  
+This Privacy Policy applies only to information collected through Spiegel’s website. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This Policy was last revised on February 1, 2012.  
   
 [What information do we collect?](http://www.spiegel.com/customer/privacy.aspx#collect)  
 [How do we use your information?](http://www.spiegel.com/customer/privacy.aspx#info)   
