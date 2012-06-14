@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625124439id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614205711id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Info for those writing or signing a petition | GoPetition
+# Privacy Policy | GoPetition
 
-GoPetition - Privacy Statement
+Privacy Statement
 
 GoPetition recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This privacy policy forms part or our Terms of Use (TOU) and is subject to and should be read with our TOU.  
 
@@ -13,7 +13,7 @@ We will not email you anything unrelated to GoPetition. If your email address is
 
 Your information
 
-GoPetition will not give or sell your information to any third party. If signing a petition, your information can be accessed by the petition's author. The author agrees to use signatures responsibly and legally. This may involve the author contacting you about the campaign you have supported at GoPetition. Petition targets may also ultimately view signature details provided by each signer.  
+GoPetition will not give or sell your information to any third party. If signing a petition, your information can be accessed by the petition's author. Petition authors agree to use signatures responsibly, legally and in compliance with our Terms and this Privacy Policy. This may involve the author contacting you about the campaign you have supported at GoPetition. Authors also have permission to forward petition signatures to the relevant petition's target, so petition targets may also ultimately view signature details. Authors agree not to republish petition signatures on any other website or public media forum.  
 
 
 Signature and Signature Comment Display and Search Engine Access to Signature Lists and Signature Comments
@@ -24,7 +24,13 @@ The public lists and comments give weight to each petition and confidence to oth
 
 Please note that search engines such as Google and Yahoo may be able to view your signature and signature comment and may index your signature and signature comment (if made). 
 
-You may prevent indexing by cloaking your signature with an "Anonymous" designation and by "hiding" your comment. GoPetition members may now edit their signatures (including comments) to encourage or hide from search engine exposure. For information about how to edit your signature please read our FAQ.GoPetition's use of Google Maps software GoPetition generates signature maps powered by a special application of Google Maps known as MarkerClusterer. This software collects signature markers into different clusters and displays the number of markers in each cluster with a label, creating new clusters as the map zoom level changes. Signature maps at GoPetition can be used for a variety of purposes, electoral and otherwise. Maps at GoPetition do NOT label any particular signer, nor are they intended to. The maps are simply designed to give a geographical overview of supporter interest. You should be aware that any geographical information you provide may be used to generate maps at GoPetition.Advertisements on GoPetition
+You may prevent indexing by cloaking your signature with an "Anonymous" designation and by "hiding" your comment. GoPetition members may now edit their signatures (including comments) to encourage or hide from search engine exposure. For information about how to edit your signature please read our FAQ.
+
+Facebook comments
+
+If you use the facebook comment facility on any petition then your name and facebook photo may appear on the GoPetition site. GoPetition uses a facebook plugin for the facebook comment facility. GoPetition does not guarenatee that attempts to edit facebook comments by users of this facility will result in the desired editorial results. Any use of the facebook comment facility is at the user's own risk. 
+
+GoPetition's use of Google Maps software GoPetition generates signature maps powered by a special application of Google Maps known as MarkerClusterer. This software collects signature markers into different clusters and displays the number of markers in each cluster with a label, creating new clusters as the map zoom level changes. Signature maps at GoPetition can be used for a variety of purposes, electoral and otherwise. Maps at GoPetition do NOT label any particular signer, nor are they intended to. The maps are simply designed to give a geographical overview of supporter interest. You should be aware that any geographical information you provide may be used to generate maps at GoPetition.Advertisements on GoPetition
 
 GoPetition uses the services of Google and ValueClick advertising.  
 
@@ -37,9 +43,15 @@ Cookies
 
 See info above. We also use some cookies to remember who you are. In addition, GoPetition uses cookies and scripting for several site functions. This information is used to enhance customer experience of our software.
 
-Access to Signature Details and Personal Information
+Signature Details and Personal Information
+
+Signatures will include the signer's IP address which will be available to the author and GoPetition administrators for security reasons. Other information provided to GoPetition in the signature process will be treated according to international standards.
 
 GoPetition provides personal data access rights to all signers and others who leave personal information on the GoPetition website. GoPetition respects the data access rights of those who entrust information to the GoPetition website. GoPetition complies with International protocols in this regard. International standards allow for small administrative fees to be applied in some cases where records are requested or edits requested in relation to personal records.
+
+Email contact from GoPetition
+
+If you are signing a petition, you may be sent a signature receipt by email that confirms that you have signed the petition. The receipt is for your records and provides information about how to edit and manage your signature. You may also be sent an update about the petition you have signed. On an occasional basis, you may be sent infomation about related petitions and site updates. If you have joined during or after the signature process you may sent email that is relevant to your GoPetition account.
 
 Important Links
 
