@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112160140id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614090229id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
 # Security Information - Privacy Statement - The Grocery Game
 
@@ -101,23 +101,27 @@ The Privacy Notice posted on this site was updated on or about December 29, 2004
 Enter your zip to find out which stores are available.  
 ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
 
-  * 24,012
+  * 25,630
 
 ###### Deals Valid Today in US and Canada
 
-  * 418,264
+  * 15,378
+
+###### Unadvertised Sales this week
+
+  * 176,206
 
 ###### Deals Members Shopped For This Week
 
-  * $1,263,897
+  * $555,586
 
 ###### Amount Members Saved this week
 
-  * 147
+  * 141
 
 ###### Local lists in US and Canada
 
-  * $4,350,165
+  * $2,303,243
 
 ###### Amount Members Saved this month
 
@@ -138,4 +142,4 @@ RULES [INVITE](https://web.archive.org/inc-referral-form.cfm)
 
 [ ](https://web.archive.org/app/teris-coupon-tracker/) [ ](https://web.archive.org/app/teris-coupon-center/) [ ](http://teritoday.thegrocerygame.com/)
 
-© 2011 The Grocery Game, Inc. All rights reserved.
+© 2012 The Grocery Game, Inc. All rights reserved.
