@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 24megabytes.com privacy policy that was archived on 2011-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110727023731id_/http%3A//24megabytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24megabytes.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614153035id_/http%3A//24megabytes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
-﻿﻿﻿﻿﻿The privacy of our visitors is extremely important to us. In 24megabytes.com, we recognize the importance of privacy. Then we leave it the kind of personal information that we receive and collect when you visit 24megabytes.com ,and how we store this information. We never sell your information to third parties, whether individuals or firms.
+The privacy of our visitors is extremely important to us. In 24megabytes.com, we recognize the importance of privacy. Then we leave it the kind of personal information that we receive and collect when you visit 24megabytes.com ,and how we store this information. We never sell your information to third parties, whether individuals or firms.
 
 **The records**
 
