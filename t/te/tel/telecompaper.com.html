@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the telecompaper.com privacy policy that was archived on 2011-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111020162005id_/http%3A//www.telecompaper.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telecompaper.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614135840id_/http%3A//www.telecompaper.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>
 	Telecompaper Privacy Policy
-</title><meta http-equiv="content-type" content="text/html charset=iso-8859-1"><meta http-equiv="content-language" content="en"><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"><link rel="alternate" type="application/rss+xml" title="Telecompaper Headlines" href="/syndication/rss.aspx"><link rel="alternate" type="application/rss+xml" title="Telecompaper Reports" href="/syndication/reports.aspx"><link rel="search" type="application/opensearchdescription+xml" title="Telecompaper search" href="/search/opensearchdescription.xml"><link href="/style/tp_style_3.min.css" rel="stylesheet" type="text/css">
-	<script src="http://www.telecompaper.com/scripts/telecompaper.min.js" type="text/javascript"></script>
+</title><meta http-equiv="content-type" content="text/html charset=iso-8859-1"><meta http-equiv="content-language" content="en"><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico?v1"><link rel="alternate" type="application/rss+xml" title="Telecompaper Headlines" href="/syndication/rss.aspx"><link rel="alternate" type="application/rss+xml" title="Telecompaper Reports" href="/syndication/reports.aspx"><link rel="search" type="application/opensearchdescription+xml" title="Telecompaper search" href="/search/opensearchdescription.xml"><link href="/style/tp_style_5.min.css?v2" rel="stylesheet" type="text/css">
 	<script src="http://www.telecompaper.com/scripts/jquery.min.js" type="text/javascript"></script>
+    <script src="http://www.telecompaper.com/scripts/jquery.cookie.js" type="text/javascript"></script>
+    <script src="http://www.telecompaper.com/scripts/telecompaper.min.js?v1" type="text/javascript"></script>
 	
     <script type="text/javascript">
     //<![CDATA[
@@ -17,25 +18,59 @@
         $(document).ready(function() {
             attachEventListener(document, "onkeypress", safeinput, false);
         });
+        $(document).ready(function () {
+            $(".edition_tab").hover(function () { $(".edition_expanded").show(); }, function () { $(".edition_expanded").hide(); })
+            $(".login_tab").hover(function () { $(".login_expanded").show(); }, function () { $(".login_expanded").hide(); })
+        });
     //]]>
     </script>
     
     <link rel="canonical" href="http://www.telecompaper.com/about/privacy-policy">
 </head>
 <body dir="ltr">
-    <div class="container">
-    <div id="nonFooter">
-    <form method="post" action="/about/privacy-policy" id="About">
+    <form method="post" action="/about/privacy-policy" id="News">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTg5NTUzODI5ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUTY3RsMDAkZGVmYXVsdFNlYXJjaM6r7AqHdxdGTd4D2z+WuhMqC69s7oojg5TJvYD27jin">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQyNzY0NTA2MGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFE2N0bDAwJGRlZmF1bHRTZWFyY2jT/1ns790ekX7wN3uaH46JArN2zA==">
 </div>
 
 
-<script src="/ScriptResource.axd?d=r_l2y9RfYsXX77uqi1lwXKcQgTY12CVkprARG_oOoAwCd4HRROoUnlylpQEdUmJ0sZU_C9szZpncmmwz_OWICQmFtSkKOkJ0CnMUWrluILL32xSRaZG9_GtpPbrOa-cFkiQu9gHm8sjtYFVJmFc8uNChCpkiYO9BDY3JdT2gcO41&amp;t=2610f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JfRWHD_YhNV1vKG-MeVgbgLsGiULMAVzwOjjdv9KMXkHzfDDMj-PEuk9MWgARqIPUIbgAtx8WizmqiOGXKxrkm40gmd6IUIj7-hM4C_HW2M7VcPfUAMNUxjDKPQlSIoQtbXy3Y-PQxtwMVOt6SvjWpOk6SNAoD7CnFAEbKgItRIpAfUS0&amp;t=ffffffff940d030f" type="text/javascript"></script>
     
+    <div class="container">
+    <div id="nonFooter">
     
-    <!--header-->
-    <div class="mainheader">
+    <div class="tabrow">
+        <div class="tabs">
+            <div class="lefttabs">
+                <div class="main_tab"><a href="http://www.telecompaper.com/" class="tp_news">tp:news</a></div>
+                <div class="main_tab"><a href="http://www.telecompaper.com/research" class="tp_research">tp:research</a></div>
+                <div class="main_tab"><a href="http://www.telecompaper.com/events" class="tp_events">tp:events</a></div>
+            </div>
+            <div class="righttabs">
+                <div id="loginUnknown" class="login_tab">
+                    <div class="login_head">
+                        <b><a id="Linkbutton1" href="javascript:__doPostBack('ctl00$Linkbutton1','')">Log in</a></b><span class="drop_down"></span>
+                    </div>
+                    <div class="login_expanded">
+                        <div><a href="http://www.telecompaper.com/international/subscriptions">Register</a></div>
+                    </div>
+                </div>
+                
+                <div class="right_tab"><a href="http://www.telecompaper.com/about/this-website/products">Products</a></div>
+                <div class="right_tab">
+                    <div id="UpdatePanel2">
+	
+                        
+<a class="binder" href="http://www.telecompaper.com/account/content/binder">0</a>
+                        <a class="binder_text" href="http://www.telecompaper.com/account/content/binder">Article Binder</a>
+                    
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="header" class="mainheader">
         <div id="headLogo"><a href="http://www.telecompaper.com/" title="Telecompaper">Telecompaper</a></div>
         
         <div id="UpdateProgress2" style="display:none;">
@@ -46,76 +81,59 @@
         
 </div>
         
-        <div id="headLinks">
-            <div id="headCart">
-<a id="cart" href="http://www.telecompaper.com/order/shoppingcart.aspx"><span class="cart"></span></a></div>
-        
-            <div id="searchPanel" class="searchPanel">
+        <!--<div id="headLinks">
+            <div class="searchText">
+                Search <b><a href="javascript:__doPostBack(&#39;ctl00$ctl10&#39;,&#39;&#39;)">International</a></b> | <b><a href="javascript:__doPostBack(&#39;ctl00$ctl11&#39;,&#39;&#39;)">Site</a></b> | <b><a href="http://www.telecompaper.com/search/index.aspx">Advanced</a></b>
+            </div>
+            <div class="clear"></div>
+        </div>-->
+
+        <div class="side_stripes">
+        </div>
+
+        <div id="searchPanel" class="searchPanel">
 	
-                <input name="ctl00$searchText" type="text" maxlength="100" id="searchText" class="searchInput"><input type="image" name="ctl00$defaultSearch" id="defaultSearch" class="searchimg" src="" alt=" " align="top">
+            <input name="ctl00$searchText" type="text" value="Search keywords" maxlength="100" id="searchText" class="searchInput" onblur="if (this.value==''){this.value='Search keywords'}" onclick="if(this.value=='Search keywords'){this.value = ''}"><input type="image" name="ctl00$defaultSearch" id="defaultSearch" class="searchimg" src="" alt=" " align="top">
+        
+</div>
+
+        <div id="headCart"><a href="http://www.telecompaper.com/order/shoppingcart.aspx" id="Cart3_cart" class="cart">0</a>
+<a href="http://www.telecompaper.com/order/shoppingcart.aspx" class="cart_image"></a></div>
+        
+    </div>
+    <div class="clear"></div>
+    
+    <div class="menu_row1">
+        <div id="menuAbout"><a href="http://www.telecompaper.com/about">About</a></div>
+        <div id="menuAboutSpacer" class="spacer">:</div>
+        <div id="menuAacuisitions"><a href="http://www.telecompaper.com/about/telecompaper/acquisitions?internal=true">Acquisitions</a></div>
+        <div id="menuAacuisitionsSpacer" class="spacer">:</div>
+        <div id="menuPressReleases"><a href="http://www.telecompaper.com/about/telecompaper/press-releases">Press Releases</a></div>
+        <div class="subscription"><a href="http://www.telecompaper.com/international/subscriptions">Subscriptions</a></div>
+    </div>
+    
+    <div id="sideStripes">
+        <div id="contentOuter">
+            <div id="UpdatePanel1">
+	
+                
+    <div id="TopContentPlaceHolder_group" class="regular_content">
+        <h1>Telecompaper Privacy Policy</h1>
+    </div>
+
             
 </div>
-            <div class="searchText">
-                Search <b><a id="LinkButton1" href="javascript:__doPostBack('ctl00$LinkButton1','')">International</a></b> | <b><a id="LinkButton2" href="javascript:__doPostBack('ctl00$LinkButton2','')">Site</a></b> | <b><a href="http://www.telecompaper.com/search/index.aspx">Advanced</a></b>
-            </div>
-            <div class="clear"></div>
-            
-            <span id="TPDateTime" class="TPDateTime">Thursday 20 Oct 2011, 18:20 CET</span>
-            
-            <div class="clear"></div>
-            <div class="login">
-                <div id="loginUnknown">
-                    You are not logged in (<a id="Linkbutton3" href="javascript:__doPostBack('ctl00$Linkbutton3','')">Log In</a> / <a href="http://www.telecompaper.com/international/subscriptions"><b>Register</b></a>)
-                </div>
-                
-            </div>
-        </div>
-    </div>
-    <div class="clear"></div>
-    
-    <!--tabs-->
-    <div class="tabrow">
-        <div class="tabs">
-            <div class="lefttabs">
-                <div><a href="http://www.telecompaper.com/">International</a></div>
-                <div><a href="http://www.telecompaper.com/nederlands">Nederlands</a></div>
-                <div><a href="http://www.telecompaper.com/research">Research</a></div>
-                <div><a href="http://events.telecompaper.com/" target="_blank">Events</a></div>
-            </div>
-            <div class="righttabs">
-                <div><a href="http://www.telecompaper.com/account/index.aspx">My Account</a></div>
-                <div class="tab_x"><a href="http://www.telecompaper.com/about">About</a></div>
-            </div>
-        </div>
-    </div>
-    <div class="menu_row1">
-        <div id="menuAbout"><a href="http://www.telecompaper.com/about">Telecompaper</a></div>
-        <div id="menuWebsite" class="menu_row1_active"><a href="http://www.telecompaper.com/about/this-website">This Website</a></div>
-    </div>
-    <div class="menu_row2">
-        
-    
-    <div><a href="http://www.telecompaper.com/about/this-website">Submit Announcement</a></div>
-    <div><a href="http://www.telecompaper.com/about/this-website/advertising">Advertising</a></div>
-    <div><a href="http://www.telecompaper.com/about/this-website/faq">FAQ</a></div>
-    <div><a href="http://www.telecompaper.com/about/this-website/products">Products</a></div>
-    <div class="active"><a href="http://www.telecompaper.com/about/privacy-policy">Privacy Policy</a></div>
-
-    </div>
-    <div class="clear"></div>
-    
-    <div id="contentOuter">
-        <div id="content">
-            <div class="main">
-                
-                <div id="MainUpdate">
+            <div id="contentSide">
+                <div id="content">
+                    <div class="main">
+                        
+                        <div id="MainUpdate">
 	
-                <span id="debug"></span>
-                <div class="clear"></div>
-                
+                        <span id="debug"></span>
+                        <div class="clear"></div>
+                        
     
-    <div class="group blockWide">
-        <h1>Telecompaper Privacy Policy</h1>
+    <div class="regular_content">
         <p>Your privacy is important to us. This policy covers how Telecom.paper BV (“Telecompaper”) treats personal information that Telecompaper collects and receives. Personal information is information about you that is personally identifiable such as your name, address, e-mail address, or phone number, and that is not otherwise publicly available.</p>
         <br>
         <h3>The Information We Collect</h3>
@@ -148,122 +166,539 @@
         <br>
     </div>
 
-                
-</div>
-                <div class="clear"></div>
-                <br>
-                
-            </div>
-            <div class="side">
-                
-                    <div id="sideNavOuter">
-                        <div id="sideNavInner">
-                            
-<a class="sideNavRowA sideHighlight" href="http://www.telecompaper.com/account/content/binder">
-    <b><span class="fLeft">Article Binder</span></b>
-    <span class="fRight">0 articles</span>
-</a>
-                            <a class="sideNavRowA" href="http://www.telecompaper.com/international/subscriptions">
-                                <b><span class="fLeft">Subscriptions</span></b>
-                                <span class="fRight">How to enjoy our products</span>
-                            </a>
-                            <a class="sideNavRowA" href="http://www.telecompaper.com/about/this-website/products">
-                                <b><span class="fLeft">Products</span></b>
-                                <span class="fRight">What we have to offer</span>
-                            </a>
-                            <a class="sideNavRowA" href="http://www.telecompaper.com/about">
-                                <b><span class="fLeft">About Telecompaper</span></b>
-                                <span class="fRight">Who we are</span>
-                            </a>
-                            <div class="sideNavRowB">
-                                <a class="sideNavColB" href="http://www.telecompaper.com/about/this-website/faq">
-                                    <span class="faq"></span>
-                                    <b>FAQ</b>
-                                </a>
-                                <a class="sideNavColB sideNavColMid" href="http://www.telecompaper.com/about/telecompaper/contact">
-                                    <span class="contact"></span>
-                                    <b>Contact</b>
-                                </a>
-                                <a class="sideNavColB sideNavColEnd" href="http://www.telecompaper.com/international/syndication">
-                                    <span class="rssR"></span>
-                                    <b>Feeds</b>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="sideLower">
                         
-                        <div id="SidePlaceHolder__ctrl_0_block" class="tabbedBox references">
-    <div class="tabbedBoxHead">
-        <a id="rb_tab_1" class="rb_tab width1 tab_active">References</a>
-    </div>
-    <div class="tabbedBoxBody">
-        <div id="rb_tab_1_c" class="rb_tab_c">
-            <table cellpadding="0" cellspacing="0" class="table_100">
-                <tbody><tr><td><i>"Telecompaper is the most comprehensive single source of daily news across the telecoms industry. We have been impressed by this product excellence, the customised solutions &amp; overall flexibility from Telecompaper. We have been happy customers for over 3 years now."</i> <span class="source">Orange Group, Head of Market Intelligence</span></td></tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" class="table_100">
-                <tbody><tr><td><i>"Great, thanks! I appreciate timely support."</i> <span class="source">research client</span></td></tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" class="table_100">
-                <tbody><tr><td><i>"I have been subscribed to the Headlines for several years to keep in touch of what happens in telecom market worldwide."</i> <span class="source">headline subscriber</span></td></tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" class="table_100">
-                <tbody><tr><td><i>"Many thanks for your quick response and report on the Dutch Broadband market. We use this to verify our own estimates."</i> <span class="source">research company</span></td></tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" class="table_100">
-                <tbody><tr><td><i>"Many thanks for excellent customer service. I am about to fully read the complete report, but am very impressed with the first few pages."</i> <span class="source">LogicaCMG</span></td></tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" class="table_100" style="border-bottom:none;margin-bottom:0px;">
-                <tbody><tr><td><i>"Your information of the Dutch mobile promotion market is a perfect source for understanding the dynamics in the mobile market."</i> <span class="source">handset manufacturer</span></td></tr>
-            </tbody></table>
-	    </div>
-    </div>
 </div>
-                        <div id="SidePlaceHolder__ctrl_1_block" class="tabbedBox references">
-    <div class="tabbedBoxHead">
-        <a id="rb_tab_1" class="rb_tab width1 tab_active">Some of our Clients</a>
+                        <div class="clear"></div>
+                        <br>
+                        <div id="MainBannerBottom_banner" class="main_banner banner">
+	
+    <div class="banner_border">
+        <a id="MainBannerBottom_ClickDiv" style="position:relative;z-index:10;cursor:pointer;"></a>
+	    <div style="clear:both"></div>
+        <input type="hidden" name="ctl00$MainBannerBottom$AdID" id="MainBannerBottom_AdID" value="0">
+        <input type="hidden" name="ctl00$MainBannerBottom$Dest" id="MainBannerBottom_Dest">
+        <input type="hidden" name="ctl00$MainBannerBottom$NewWindow" id="MainBannerBottom_NewWindow" value="False">    
     </div>
-    <div class="tabbedBoxBody">
-        <div id="rb_tab_1_c" class="rb_tab_c">
-            <table cellpadding="0" cellspacing="0" class="table_100">
-                <tbody><tr>
-                    <td>
-                        Swisscom, Strategy Analytics, KPN, <nobr>T-Mobile</nobr> Netherlands, Ziggo, <nobr>T-Mobile</nobr> International, OPTA, Vodafone Group Services, UPC Nederland, Orange UK, Samsung Electronics Benelux, Belcompany, Sony Ericsson Mobile Communications AB, Global Intelligence Alliance, Belgacom, Alcatel-Lucent, Tele2 Nederland, Samsung Electronics UK, T for Telecom, UPC, Orange Communications, McKinsey &amp; Company France, Booz Allen &amp; Hamilton Germany, Dutch Competition Authority, Siemens Home and Office Comm. Devices, Financial Times, The Phone House Netherlands BV, Telekom Austria, The Boston Consulting Group, Telenet, T-Mobile Deutschland GmbH, Ericsson Telecommunicatie B.V., Quintel Strategy Consulting, Qualcomm, Nokia Pte Ltd., COLT Telecom B.V., F-Secure Corporation, Ovum Europe Ltd, Sunrise-IMS, CBS, TMN Portugal, Acision, Informa Telecoms and Media, Pyramid Research, TeliaSonera AB, LG Electronics, Ofcom, and many more.
-                    </td>
-                </tr>
-            </tbody></table>
-	    </div>
-    </div>
+    <div class="banner_clearer" style="clear:both"></div>
+
 </div>
-                        <br>
-                        <br>
                     </div>
-                
+                    <div id="side" class="side">
+                        
+                            <div id="SidePlaceHolder_SideBanner_banner" class="side_banner banner">
+	
+    <div class="banner_border">
+        <a id="SidePlaceHolder_SideBanner_ClickDiv" style="position:relative;z-index:10;cursor:pointer;"></a>
+	    <div style="clear:both"></div>
+        <input type="hidden" name="ctl00$SidePlaceHolder$SideBanner$AdID" id="SidePlaceHolder_SideBanner_AdID" value="0">
+        <input type="hidden" name="ctl00$SidePlaceHolder$SideBanner$Dest" id="SidePlaceHolder_SideBanner_Dest">
+        <input type="hidden" name="ctl00$SidePlaceHolder$SideBanner$NewWindow" id="SidePlaceHolder_SideBanner_NewWindow" value="False">    
+    </div>
+    <div class="banner_clearer" style="clear:both"></div>
+
+</div>
+                            <div id="SidePlaceHolder_CBTabs1_block" class="gray_box">
+    <h3>Market Commentary</h3>
+    
+    
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">1 Jun</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/commentary/kpn-shows-itself-as-opportunistic-as-america-movil">
+	                    KPN shows itself as opportunistic as America Movil
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">31 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/commentary/telefonicas-troubles-may-open-door-for-kpn">
+	                    Telefonica's troubles may open door for KPN
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">30 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/commentary/carlos-slims-european-adventure-just-starting">
+	                    Carlos Slim's European adventure just starting
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">25 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/commentary/facebook-from-hype-to-hysteria-to-realism">
+	                    Facebook: from hype to hysteria to realism
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">25 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/commentary/t-mobile-beats-kpn-in-q1-on-both-consumer-and-business-markets">
+	                    T-Mobile beats KPN in Q1, on both consumer and business markets
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <div class="rule"></div>
+        <b><a id="SidePlaceHolder_CBTabs1_NewsRepeater_lnkMore" href="http://www.telecompaper.com/international/commentary"><span class="lnk">:::</span> more market commentary</a></b>
+	
+
+    <div class="clear"></div>
+</div>
+                            <div id="SidePlaceHolder_CBTabs2_block" class="gray_box">
+    <h3>Background Articles</h3>
+    
+    
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">13 Jun</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/background/will-apple-start-to-enter-the-mobile-payments-sphere">
+	                    Will Apple start to enter the mobile payments sphere?
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">7 Jun</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/background/intel-looks-at-nfc-from-both-ends">
+	                    Intel looks at NFC from both ends
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">31 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/background/mobile-financial-services-harder-to-gain-ground-in-more-mature-financial-environments">
+	                    Mobile financial services: harder to gain ground in more mature financial environments?
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">24 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/background/paypal-m-payment-has-to-be-relevant-to-users">
+	                    PayPal: m-payment has to be relevant to users
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="table_100">
+	        <tbody><tr valign="top">
+	            <td class="listTime">16 May</td>
+	            <td>
+	                <a href="http://www.telecompaper.com/background/gsma-reports-on-its-first-global-mobile-money-adoption-survey">
+	                    GSMA reports on its first Global Mobile Money Adoption Survey
+	                </a>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <div class="rule"></div>
+        <b><a id="SidePlaceHolder_CBTabs2_NewsRepeater_lnkMore" href="http://www.telecompaper.com/international/background"><span class="lnk">:::</span> more background articles</a></b>
+	
+
+    <div class="clear"></div>
+</div>
+                            <div id="SidePlaceHolder_NewsTabs1_block" class="tabbedBox white_box content_box">
+    
+    <h3>
+        <a id="nt_tab_2" class="nt_tab tab_active" onclick="ShowTab('nt_tab_2');return false;" href="#">Top Stories</a>
+        &nbsp;&nbsp;/&nbsp;&nbsp;
+        <a id="nt_tab_3" class="nt_tab" onclick="ShowTab('nt_tab_3');return false;" href="#">Most Read</a>
+    </h3>
+
+    <div id="nt_tab_2_c" class="nt_tab_c index_group">
+        
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/icann-receives-over-1900-applications-for-new-gtlds">
+                        <b>Icann receives over 1,900 applications for new gTLDs</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        10:24 | World | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/nokia-warns-for-poor-results-plans-10000-job-cuts">
+                        <b>Nokia warns for poor results, plans 10,000 job cuts </b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        09:43 | World | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/telefonica-iusacell-strike-network-sharing-agreement">
+                        <b>Telefonica, Iusacell strike network-sharing agreement </b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        09:38 | Mexico | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/claro-vivo-oi-and-tim-win-4g-licences-in-brazil">
+                        <b>Claro, Vivo, Oi and TIM win 4G licences in Brazil</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        13 Jun | Brazil | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/verizon-introduces-shared-data-plans-for-multiple-devices">
+                        <b>Verizon introduces shared data plans for multiple devices</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        12 Jun | United States | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <b><a id="SidePlaceHolder_NewsTabs1_list2_NewsRepeater_lnkMore" href="http://www.telecompaper.com/international/news/all"><span class="lnk">:::</span> more news</a></b>
+	
+
+	</div>
+	<div id="nt_tab_3_c" class="nt_tab_c index_group" style="display:none;">
+        
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/nokia-warns-for-poor-results-plans-10000-job-cuts">
+                        <b>Nokia warns for poor results, plans 10,000 job cuts </b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        09:43 | World | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/over-54-of-mobile-users-own-smartphones-in-canada-study">
+                        <b>Over 54% of mobile users own smartphones in Canada - study</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        11 May | Canada | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/claro-vivo-oi-and-tim-win-4g-licences-in-brazil">
+                        <b>Claro, Vivo, Oi and TIM win 4G licences in Brazil</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        13 Jun | Brazil | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/apple-uses-qualcomm-licence-in-defence-against-motorola">
+                        <b>Apple uses Qualcomm licence in defence against Motorola</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        13 Feb | World | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <table cellpadding="0" cellspacing="0" class="title_rows">
+	        <tbody><tr valign="top">
+	            <td>
+	                <a href="http://www.telecompaper.com/news/apple-adds-maps-facebook-integration-with-ios-6">
+                        <b>Apple adds maps, Facebook integration with iOS 6</b>
+	                </a>
+                    <br>
+                    <span class="listType">
+                        12 Jun | World | <a href="http://www.telecompaper.com/international/news">News</a>
+                    </span>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	
+        <b><a id="SidePlaceHolder_NewsTabs1_list3_NewsRepeater_lnkMore" href="http://www.telecompaper.com/international/news/all"><span class="lnk">:::</span> more news</a></b>
+	
+
+	</div>
+    
+    <div class="clear"></div>
+</div>
+                            <div id="SidePlaceHolder_SideCalendar1_block" class="content_box calendar_box white_box">
+    <h3>
+        <a id="cal_tab_1" class="cal_tab tab_active" onclick="ShowTab('cal_tab_1');return false;" href="#">Calendar</a>
+        &nbsp;&nbsp;/&nbsp;&nbsp;
+        <a id="cal_tab_2" class="cal_tab" onclick="ShowTab('cal_tab_2');return false;" href="#">Industry Events</a>
+    </h3>
+
+    <div id="cal_tab_1_c" class="cal_tab_c index_group">
+        
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/calendar">11 Jun</a>
+                    </td>
+	                <td>
+	                    <span>Apple global developers conference</span>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/calendar">14 Jun</a>
+                    </td>
+	                <td>
+	                    <span>Kabel Deutschland fiscal Q4 </span>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/calendar">15 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/research/dutch-mobile-consumer-q1-2012-handset-edition"><strong>Report</strong>: Dutch Mobile Consumer - Q1 2012 - Handset edition</a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/calendar">18 Jun</a>
+                    </td>
+	                <td>
+	                    <span>7th Annual European Spectrum Management Conference </span>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/calendar">19 Jun</a>
+                    </td>
+	                <td>
+	                    <span>Mitel fiscal Q4</span>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/calendar">19 Jun</a>
+                    </td>
+	                <td>
+	                    <span>Mobile Broadband Traffic Management Conference </span>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <div class="rule"></div>
+            <b><a href="http://www.telecompaper.com/international/calendar" id="SidePlaceHolder_SideCalendar1_ThisWeekRepeater_aMore"><span class="lnk">:::</span> More Calendar Items</a></b>
+	    
+    </div>
+    <div id="cal_tab_2_c" class="cal_tab_c index_group" style="display:none;">
+        
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/industry-events#3040">18 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/international/industry-events#3040">CEE 2012</a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/industry-events#3058">18 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/international/industry-events#3058">7th Annual European Spectrum Management Conference </a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/industry-events#3068">18 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/international/industry-events#3068">Telecom Expense Management 2012</a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/industry-events#3073">18 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/international/industry-events#3073">WDM &amp; Next Generation Optical Networking</a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/industry-events#2968">19 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/international/industry-events#2968">SIMposium Europe 2012</a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <table cellpadding="0" cellspacing="0" class="table_100">
+	            <tbody><tr valign="top">
+	                <td class="listTime calTime">
+                        <a href="http://www.telecompaper.com/international/industry-events#3024">19 Jun</a>
+                    </td>
+	                <td>
+	                    <a href="http://www.telecompaper.com/international/industry-events#3024">The Digital Home World Summit </a>
+	                </td>
+	            </tr>
+	        </tbody></table>
+	    
+            <div class="rule"></div>
+            <b><a href="http://www.telecompaper.com/international/industry-events" id="SidePlaceHolder_SideCalendar1_RepeaterEvents_aMore"><span class="lnk">:::</span> More Industry Events</a></b>
+	    
+    </div>
+
+    <div class="clear"></div>
+</div>
+                            
+
+<div class="block_social">
+    <table cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td class="icon name">
+                <div class="social_twitter"></div>
+                Twitter
+            </td>
+            <td class="link">
+                <a href="http://twitter.com/#!/telecompaper" id="SidePlaceHolder_Social_lnkTwitter" target="_blank"><span class="lnk">:::</span> follow Telecompaper on Twitter</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="icon name">
+                <div class="social_facebook"></div>
+                Facebook
+            </td>
+            <td class="link">
+                <a href="http://www.facebook.com/telecompaper" id="SidePlaceHolder_Social_lnkFacebook" target="_blank"><span class="lnk">:::</span> like Telecompaper on Facebook</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="icon name">
+                <div class="social_linkedin"></div>
+                LinkedIn
+            </td>
+            <td class="link">
+                <a href="http://www.linkedin.com/company/telecompaper" id="SidePlaceHolder_Social_lnkLinkedIn" target="_blank"><span class="lnk">:::</span> connect with Telecompaper on LinkedIn</a>
+            </td>
+        </tr>
+        </tbody><tfoot>
+            <tr>
+                <td class="name">
+                    Free Headlines
+                </td>
+                <td class="link">
+                    <a href="http://www.telecompaper.com/international/headlines" id="SidePlaceHolder_Social_lnkHeadlines"><span class="lnk">:::</span> subscribe now</a>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+
+</div>
+
+
+                        
+                    </div>
+                </div>
             </div>
         </div>
     </div>
     <div class="clear"></div>
-    
-    <!--tabs-->
-    <div class="bottomstripe"></div>
-    <div class="tabrow">
-        <div class="tabs">
-            <div class="lefttabs">
-                <div><a href="http://www.telecompaper.com/">International</a></div>
-                <div><a href="http://www.telecompaper.com/nederlands">Nederlands</a></div>
-                <div><a href="http://www.telecompaper.com/research">Research</a></div>
-                <div><a href="http://events.telecompaper.com/" target="_blank">Events</a></div>
-            </div>
-            <div class="righttabs">
-                <div><a href="http://www.telecompaper.com/account/index.aspx">My Account</a></div>
-                <div class="tab_x"><a href="http://www.telecompaper.com/about">About</a></div>
-            </div>
-        </div>
-    </div>
-    
+
     <div id="clearer"></div>
-    </form>
     </div>
     
     <div id="footer">
@@ -271,6 +706,7 @@
     </div>
     
     </div><!--container-->
+    </form>
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
