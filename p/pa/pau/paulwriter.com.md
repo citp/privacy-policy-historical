@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the paulwriter.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215055735id_/http%3A//paulwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulwriter.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614121806id_/http%3A//www.paulwriter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - paulwriter
 
-**Privacy Policy**  
 A **privacy policy** states how you will respect the privacy of your website users. It says what information you will gather, how you will use it and how you will keep it secure.
 
 A **privacy policy** is a legal document that discloses some or all of the ways a party gathers, uses, discloses and manages a customer's data. The exact contents of a privacy policy will depend upon the applicable law and may need to address the requirements of multiple countries or jurisdictions. While there is no universal guidance for the content of specific privacy policies, a number of organizations provide example forms.
