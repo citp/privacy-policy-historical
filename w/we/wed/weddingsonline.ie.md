@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216220547id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614234108id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
 
-# Privacy - Wedding Venues, Wedding Dresses, Photographers, Bands, Wedding Blog
+# Privacy - WeddingsOnline
 
 WeddingsOnline.ie is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, , to understand what types of personal information we collect and how this information is used.
 
