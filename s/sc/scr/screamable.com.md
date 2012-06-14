@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screamable.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221134702id_/http%3A//screamable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamable.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614173113id_/http%3A//screamable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,4 +21,4 @@ When visiting Screamable, the IP address used to access the site will be logged 
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
  **Email Addresses**  
-Email address mentioned in the comment form will always be use for privacy and never be used for spamming or will never be sold to anyone.
+Email address mentioned in the comment form will always be use for privacy and never be used for spamming or will never be sold or given to anyone.
