@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228011826id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614094817id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
 
 # ManageEngine Privacy Policy
 
@@ -8,7 +8,7 @@
 
 [www.webnms.com](http://www.webnms.com/), [www.manageengine.com](http://www.manageengine.com/), [www.securecentral.com](http://www.securecentral.com/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.codeminer.com](http://www.codeminer.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
 
-Our postal address is 
+**Our postal address is**
 
 ZOHO Corp.  
 4900 Hopyard Rd., Suite 310   
@@ -24,8 +24,7 @@ You can visit most areas of our websites without providing personal information.
 
 When you sign up for an ManageEngine service that requires registration or express interest in our products, we ask you for personal information such as your name and email address. You may also be asked to choose a unique username, a password, a security question and an answer to the security question. In addition, we collect information regarding the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone and operating system of visitors to our websites. In case of products or services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. If you are a user of Zoho services, we also store and maintain your documents, to-do list and other data stored in your account in order to provide the services for which you are registered.
 
-We use temporary and permanent cookies to enhance the experience on our websites. Temporary cookies will be removed from your computer each time you close your browser. By selecting ‘keep me signed-in’ option in Zoho services, a permanent cookie will be stored in your computer and you will not have to sign-in by providing complete login information, each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the websites.  
-
+We use temporary and permanent cookies to enhance the experience on our websites. Temporary cookies will be removed from your computer each time you close your browser. By selecting ‘keep me signed-in’ option in Zoho services, a permanent cookie will be stored in your computer and you will not have to sign-in by providing complete login information, each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the websites.
 
 ## How we use Information
 
@@ -37,8 +36,7 @@ We use Internet Protocol address, browser type, browser language, referring URL,
 
 Unless requested to the contrary by the customer, we publish the names of our customers other than individual users of Zoho services in the Customer List at our websites, press releases, advertisements, brochures and other promotional materials. 
 
-We use cookies for easier access to our websites. Once you close your browser, the temporary cookies simply terminate, except for the permanent cookies created when you select the ‘keep me signed-in’ option.   
-
+We use cookies for easier access to our websites. Once you close your browser, the temporary cookies simply terminate, except for the permanent cookies created when you select the ‘keep me signed-in’ option.
 
 ## Links from our websites
 
@@ -50,7 +48,7 @@ We have partners/affiliates/resellers for specific products and services. We may
 
 ## How secure is your Information
 
-We adopt appropriate data collection, storage and processing practices and security measures, as well as physical security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored in your account. Access to your name and email address is restricted to our employees, contractors, business partners, affiliates and resellers who need to know such information in connection with our products and services and are bound by confidentiality obligations.
+We adopt appropriate data collection, storage and processing practices and security measures, as well as physical security measures to \protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored in your account. Access to your name and email address is restricted to our employees, contractors, business partners, affiliates and resellers who need to know such information in connection =with our products and services and are bound by confidentiality obligations.
 
 ## Your Choice in Information Use
 
@@ -70,6 +68,6 @@ Any changes to our privacy policy will be posted on our websites in order to kee
 
 ## END OF PRIVACY POLICY
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)
-
-| 
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)  
+  
+---|---
