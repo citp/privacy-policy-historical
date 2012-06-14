@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229123244id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614204437id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Winamp
 
@@ -65,7 +65,7 @@ We may use agents and contractors in order to help operate Winamp Services. If s
 
 #### Your Choices about Your Winamp Information
 
-We offer you notice and appropriate choices about the use or sharing of your information, as described in this Privacy Policy. Specifically, you may opt out of certain sharing of information used for advertising purposes. Learn more about your advertising choices [here](http://www.platform-a.com/privacy-policy). You may also have the ability to disable specific Winamp features that share information, as described in more detail below.
+We offer you notice and appropriate choices about the use or sharing of your information, as described in this Privacy Policy. Specifically, you may opt out of certain sharing of information used for advertising purposes. Learn more about your advertising choices [here](http://www.aboutads.info/). You may also have the ability to disable specific Winamp features that share information, as described in more detail below.
 
 #### Privacy Information for Specific Winamp Services
 
