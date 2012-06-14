@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the infoq.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101133948id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoq.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614035538id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 	<title>InfoQ - Tracking change and innovation in the enterprise software development community</title>
     
 	
@@ -12,27 +12,29 @@
 <meta name="copyright" content="© 2006 C4Media">
 <meta name="author" content="alex[at]c4media[dot]com">
 
+<meta name="google-site-verification" content="0qInQx_1WYOeIIbxnh7DnXlw1XOxNgAYakO2k4GhNnY">
+
 	
 	
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn3.infoq.com/styles/style.css?20110831">
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn4.infoq.com/styles/header_footer.css?20110831">
-    <link rel="stylesheet" type="text/css" media="print" href="http://cdn1.infoq.com/styles/print.css?20110829">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn3.infoq.com/styles/style.css?20120530">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn4.infoq.com/styles/header_footer.css?20120530">
+    <link rel="stylesheet" type="text/css" media="print" href="http://cdn2.infoq.com/styles/print.css?20120530">
     <!--[if LTE IE 6]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn3.infoq.com/styles/style-ie6.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn1.infoq.com/styles/style-ie6.css" />
     <![endif]-->
     <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn4.infoq.com/styles/style-ie7.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn1.infoq.com/styles/style-ie7.css" />
     <![endif]-->
     <!--[if IE 8]>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn4.infoq.com/styles/style-ie8.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn3.infoq.com/styles/style-ie8.css" />
     <![endif]-->
-    <link rel="shortcut icon" href="http://cdn3.infoq.com/favicon.ico?20110420" type="image/x-icon">
+    <link rel="shortcut icon" href="http://cdn1.infoq.com/favicon.ico?20110420" type="image/x-icon">
     <link rel="apple-touch-icon" href="http://cdn2.infoq.com/apple-touch-icon.png?20110420">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn4.infoq.com/scripts/combinedJs_en.js?20110704" type="text/javascript"></script>
-	<script src="http://cdn1.infoq.com/scripts/ui/dropdown.js" type="text/javascript"></script>
-	<script src="http://cdn3.infoq.com/scripts/ui/dropdownie6.js" type="text/javascript"></script>
-	<script src="http://cdn2.infoq.com/scripts/ui/custom-form-elements.js" type="text/javascript"></script>
+    <script src="http://cdn2.infoq.com/scripts/combinedJs_en.js?20110704" type="text/javascript"></script>
+	<script src="http://cdn4.infoq.com/scripts/ui/dropdown.js" type="text/javascript"></script>
+	<script src="http://cdn4.infoq.com/scripts/ui/dropdownie6.js" type="text/javascript"></script>
+	<script src="http://cdn3.infoq.com/scripts/ui/custom-form-elements.js" type="text/javascript"></script>
 	
 	
 </head>
@@ -90,9 +92,11 @@ var homeURL='/';
 	        <a href="javascript:void(0);" class="close-popup" onclick="javascript:hideLoginWindow(false);">Close</a>
 	        <h2 class="existing-user">Existing Users:</h2>
 	        <div id="loginAreaFields">
-	        <form name="popup-login" onsubmit="doLogin('loginMessage', 'forgotMessage', 'username', 'password', false);return false;">
+	        <!-- form name="popup-login" onsubmit="doLogin('loginMessage', 'forgotMessage', 'username', 'password', false);return false;"-->
+	        <form method="POST" name="popup-login" action="https://www.infoq.com/login.action" target="loginFrame" onsubmit="showLoginMessages('loginMessage','forgotMessage');">	        
 	          <label>Email</label>
 	          <div class="clearer" style="height: 0px;"></div>
+	          <input type="hidden" name="fromHeader" id="fromHeader" value="false">
 	          <input type="text" name="username" id="username" value="">
 	          <div class="clearer" style="height: 0px;"></div>
 	          <label>Password</label>
@@ -119,11 +123,12 @@ var homeURL='/';
 <script type="text/javascript">
 	$(document).ready(function() {
 		// Login dropdown
-		$('.top-right a.login').click(function() {
+		$('.top-right a.login').click(function() {			
 			var popup = $('#popupLogin'),
 				link = $('.top-right a.login'),
 				position = link.parent().position();
 
+			action=new Function("void(0);");
 			link.toggleClass('login-active');
 			popup.css('left', position.left);
 			popup.toggle();
@@ -174,7 +179,7 @@ var homeURL='/';
 
 
 
-<a class="logo-img" href="/"><img src="http://cdn1.infoq.com/styles/i/logo-infoq.gif" alt="InfoQ"></a>
+<a class="logo-img" href="/"><img src="http://cdn2.infoq.com/styles/i/logo-infoq.gif" alt="InfoQ"></a>
 
 
       
@@ -194,7 +199,7 @@ var homeURL='/';
 	
 	    
 	    
-	634,980 Oct unique visitors
+	602,283 May unique visitors
 </span>
 
     </div>	
@@ -204,7 +209,7 @@ var homeURL='/';
   <div id="header">
 	<p class="skip"><a href="#content">Skip to Content</a></p>
   
-    <div id="quote"><p><nobr>Tracking change and innovation in the enterprise software development community</nobr></p></div>
+    <div id="quote"><p><nobr>Facilitating the spread of knowledge and innovation in enterprise software development</nobr></p></div>
     
     
 	
@@ -220,9 +225,11 @@ var homeURL='/';
 
 
 <script type="text/javascript">
-	function doSearch(countryCode){		
+	function doSearch(searchOrder){		
 		var searchString = document.getElementById("searchId").value;
-		document.getElementById("searchTerm").value =  searchString;		
+		document.getElementById("searchTerm").value =  searchString;
+		document.getElementById("searchOrder").value = searchOrder;		
+		
 		document.getElementById("cse-search-box").submit();
 	}
 	
@@ -237,23 +244,24 @@ var homeURL='/';
 	
 
 
-    <div class="search-box">
-      
-			
+
+<div class="search-box">
+				
 <form id="cse-search-box" onsubmit="customOnsubmit(); return true;" action="/search.action" method="GET">
 
-	<input type="hidden" name="queryString" size="20" id="searchTerm">
-
-	
-	<div class="input-search-bg">
+		<input type="hidden" name="queryString" size="20" id="searchTerm">
+        <input type="hidden" name="searchOrder" size="15" id="searchOrder">
+        
 			
+			<div class="input-search-bg">
+					
+				
+					<input type="text" name="search" id="searchId" onclick="clearSearchText();" onkeypress="if ((event.which &amp;&amp; event.which == 13)||(event.keyCode &amp;&amp; event.keyCode == 13)){doSearch('relevance');}">
+				
+			</div>
+    		<input type="submit" value="" name="go" class="search-go" onclick="doSearch('relevance');return false;">
 		
-			<input type="text" name="search" id="searchId" onclick="clearSearchText();" onkeypress="if ((event.which &amp;&amp; event.which == 13)||(event.keyCode &amp;&amp; event.keyCode == 13)){doSearch('');}">
-		
-	</div>
-    <input type="submit" value="" name="go" class="search-go" onclick="doSearch('');return false;">
-
-</form>
+	</form>
 
 
 <script>
@@ -264,7 +272,7 @@ var homeURL='/';
 
 
 
-    </div>
+</div>
 </li>
             	       
 	        <li><a href="javascript:void(0)" class="login" title="Login"><b></b><span></span>Login</a></li>
@@ -281,24 +289,39 @@ var homeURL='/';
 
 
 
-<a style="padding-top: 0px;" href="http://qconsf.com?utm_source=infoq&amp;utm_medium=banner&amp;utm_campaign=buttonimage" target="_blank">
-	<img src="http://cdn1.infoq.com/styles/i/qcon/sf_2011/qcon_banner_small_140x60_tracks8.jpg" class="qcon">
-</a>
+
+<div class="Qcon2">
+	<div class="logoConference">
+		<a href="#" title="QCon" onclick="return false;"><img src="http://cdn3.infoq.com/styles/i/qcon.jpg" alt="" border="0"></a>
+	</div>
+	<div class="conference1">
+		<a href="http://qconnewyork.com/?utm_source=infoq&amp;utm_medium=header&amp;utm_campaign=infoqheader" target="_blank" title="qconnewyork"><strong>New York 2012</strong><br>June 18th - June 22nd</a>
+	</div>
+</div>
+
+
+
+
 
 	        </li>
 	      </ul>
-	      <div id="popupLogin" class="LoginWindowHeaderBox">
-	        <div class="bg-top-right"></div>
-	        <a href="javascript:void(0);" class="close-popup-top" onclick="javascript:hideLoginWindow(true);">Close</a>
-	        <h2 class="existing-user">Existing Users:</h2>
-	        <form name="tpopup-login" onsubmit="doLogin('tloginMessage', 'tforgotMessage', 'tusername', 'tpassword', true);return false;">
+	      <iframe name="loginFrame" id="loginFrame" style="width:0;height:0;border:0;"></iframe>
+          <div id="popupLogin" class="LoginWindowHeaderBox">
+            <div class="bg-top-right"></div>
+            <a href="javascript:void(0);" class="close-popup-top" onclick="javascript:hideLoginWindow(true);">Close</a>
+            <h2 class="existing-user">Existing Users:</h2>
+            
+            
+            
+            <form method="POST" name="tpopup-login" action="https://www.infoq.com/login.action" target="loginFrame" onsubmit="showLoginMessages('tloginMessage','tforgotMessage');">
 	          <label>Email</label>
 	          <div class="clearer" style="height: 0px;"></div>
-	          <input type="text" name="tusername" id="tusername" value="">
+	          <input type="hidden" name="fromHeader" id="tfromHeader" value="true">
+	          <input type="text" name="username" id="tusername" value="">
 	          <div class="clearer" style="height: 0px;"></div>
 	          <label>Password</label>
 	          <div class="clearer" style="height: 0px;"></div>
-	          <input type="password" name="tpassword" id="tpassword" value="">
+	          <input type="password" name="password" id="tpassword" value="">
 	          <div class="clearer" style="height: 0px;"></div>
 	          <input type="submit" value="" name="submit-login" class="submit-login">
 	          <div class="clearer" style="height: 0px;"></div>
@@ -322,6 +345,7 @@ var homeURL='/';
         
     <div class="clearer" style="height: 0px;"></div>
     
+    <!--googleoff: index-->
     
 
 
@@ -342,24 +366,25 @@ var homeURL='/';
               <li><a class="f_headertopic" href="/mobile/" title="Mobile">Mobile</a></li>
               <li><a class="f_headertopic" href="/HTML5Topic/" title="HTML5">HTML5</a></li>
               <li><a class="f_headertopic" href="/javascript/" title="JavaScript">JavaScript</a></li>
-              <li><a class="f_headertopic" href="/cloud-computing/" title="Cloud">Cloud</a></li>
-              <li><a class="f_headertopic" href="/Devops/" title="DevOps">DevOps</a></li>
-              
-              <li><a class="f_headertopic" href="/agile/" title="Agile">Agile</a></li>
-              
-              <li><a class="f_headertopic" href="/soa/" title="SOA">SOA</a></li>
-              <li><a class="f_headertopic" href="/agile_techniques/" title="Agile Techniques">Agile Techniques</a></li>
                             
+              
+              
+              
+              
+              <li><a class="f_headertopic" href="/cloud-security/" title="Cloud Security">Cloud Security</a></li><li><a class="f_headertopic" href="/agile/" title="Agile">Agile</a></li><li><a class="f_headertopic" href="/agile_techniques/" title="Agile Techniques">Agile Techniques</a></li><li><a class="f_headertopic" href="/NoSQL/" title="NoSQL">NoSQL</a></li>
+              
+                           
             </ul>
             
             <div class="submenu-end"></div>
             
             <ul class="partner-zones">
             	<li>
-            		<a class="f_headertopic" href="http://www.infoq.com/news/2011/08/minor-ui-launch" style="color:#4E81BB;font-family:Helvetica,Arial;float:none;font-weight:bold;text-decoration:underline;">New UI!</a>                	
+            		<a class="f_headertopic" href="/topics"><strong>All topics</strong></a>                	
                 </li>
-              
-            </ul>            
+                               
+            </ul>
+            
             
           </div>
         </div>
@@ -387,6 +412,9 @@ var homeURL='/';
             </ul>
             <div class="submenu-end"></div>
             
+            
+            
+            
           </div>
         </div>
       </li>
@@ -411,6 +439,8 @@ var homeURL='/';
           </ul>
           <div class="submenu-end"></div>
           
+            
+            
           </div>
         </div>
       </li>
@@ -434,6 +464,7 @@ var homeURL='/';
           </ul>
           <div class="submenu-end"></div>
           
+            
           </div>
         </div>
       </li>
@@ -456,6 +487,7 @@ var homeURL='/';
           </ul>
           <div class="submenu-end"></div>
           
+            
           </div>
         </div>
       </li>
@@ -479,6 +511,7 @@ var homeURL='/';
           </ul>
           <div class="submenu-end"></div>
           
+            
           </div>
         </div>
       </li>	
@@ -488,8 +521,13 @@ var homeURL='/';
 </div>
 
 
-	<script src="http://cdn2.infoq.com/scripts/ui/jquery.hoverIntent.js" type="text/javascript"></script>
+    <!--googleon: index-->
+	<script src="http://cdn1.infoq.com/scripts/ui/jquery.hoverIntent.js" type="text/javascript"></script>
 <script type="text/javascript">
+		var loginMessage;
+		var forgotMessage;
+		// rss url is used in more places so declare it a global var
+		var rssUrl;
 		//after page is loaded the RSS link is constructed
 		$(function(){
 			 buildRSSUrl();			 
@@ -501,8 +539,9 @@ var homeURL='/';
 			var countryCode= ''; 
 			var first = '/rss';
 			var second = '/rss.action?token='
+			rssUrl = countryCode + first + second + token;
 			//change the value of the link
-			$('#persfeed').attr('href', countryCode + first + second + token);
+			$('#persfeed').attr('href', rssUrl);
 		}
 				
 		//enable hoverIntent plugin for personas links
@@ -521,11 +560,52 @@ var homeURL='/';
 		function showDefaultTopics() {
 		    $('.navigation li').removeClass("active");
 		    $('#pseudopersona').addClass("active");
-		}	
+		}
+
+		function showLoginMessages(loginMessageId, forgotMessageId){
+			$('#'+forgotMessageId).hide();			
+			$('#'+loginMessageId).html(JSResource.login_sendingRequest);			
+			$('#'+loginMessageId).show();
+			// loginMessage and forgot message value is used in ok.jsp and notRegistered.jsp loaded in an iframe. Needs to be set here to be accessed from the iframe
+			loginMessage=loginMessageId;
+			forgotMessage=forgotMessageId;
+		}
 </script>
     
 <!-- End header -->
 
+	
+	
+	
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+
+<script type="text/javascript">	
+	var gamId="ca-pub-8701954197102483";
+	GS_googleAddAdSenseService(gamId);	
+	GS_googleEnableAllServices();
+</script>
+
+<script type="text/javascript">		
+	GA_googleAddSlot(gamId, "en_300x250_category");
+	GA_googleAddSlot(gamId, "en_300x250_banner_searchResults");
+	GA_googleAddSlot(gamId, "en_textlink1");
+	GA_googleAddSlot(gamId, "en_textlink2");
+	GA_googleAddSlot(gamId, "en_textlink3");
+	GA_googleAddSlot(gamId, "en_textlink4");
+	GA_googleAddSlot(gamId, "en_textlink5");			
+</script>
+
+<script type="text/javascript">
+	GA_googleFetchAds();
+</script>
 	
 	<div id="columns_container_full">
 	
@@ -564,42 +644,6 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 	</div></div>
 	
 
-	
-	
-
-
-
-
-
-
-
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">	
-	// used for test machine	
-	
-	// used for production
-	GS_googleAddAdSenseService("ca-pub-8701954197102483");
-	
-	GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">		
-	// used for test machine	
-	
-	
-	// used for production
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_300x250_category");
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_leftbar_skyscraper_120x600");
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_textlink1");
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_textlink2");
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_textlink3");
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_textlink4");
-	GA_googleAddSlot("ca-pub-8701954197102483", "en_textlink5");		
-</script>
-<script type="text/javascript">
-	GA_googleFetchAds();
-</script>
 	</div>
 
 	<div class="clearer"></div>
@@ -615,6 +659,7 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 
 	<div id="footer">
 	<script type="text/javascript">
+		var oneStepNewsletterURL ='/newsletter/subscribe.action';
 		$.ajax({
 			url: "/api/latestcontent.action",
 			contentType: "application/x-www-form-urlencoded; charset=utf-8",
@@ -653,21 +698,25 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
       <div class="footer-column">
         <ul>
        	  <li><a href="/" class="home" title="Home">Home</a></li>
+       	  <li><a href="/topics" style="padding-left:28px;" title="All Topics"><strong>All topics</strong></a></li>
           <li><a href="/about" class="about" title="About InfoQ">About us</a></li>
           
-          <li><a href="http://www.qconferences.com/" target="_blank" class="qcon" title="Qcon Conferences">QCon Conferences</a></li>
+          <li><a href="http://www.qconferences.com/" target="_blank" class="qcon" title="QCon Conferences">QCon Conferences</a></li>
           
 		  
           
 	        <li><a href="/reginit.action" class="account" title="Create account">Create account</a></li>
           	<li><a href="javascript:void(0)" class="login" title="Login" onclick="javascript:showLoginWindow(this,ALIGN_LEFT,new Function('void(0);'));">Login</a></li>
+                    
           
-          <li class="contribute-li"><a href="mailto:news@infoq.com?Subject=[NEWS]&amp;Body=Thanks for your interest in submitting news to InfoQ.com. Please provide as much detail about your news suggestion in this email as possible.   Your suggestion will be forwarded to a queue our editors review for news ideas - if selected - an InfoQ editor will write an original story using material you provided.  Feel free to delete this paragraph and replace it with your news story.  - InfoQ Editorial team." class="contribute-news" title="Contribute news">Contribute News</a></li>
+		    	<li class="contribute-li"><a href="/contribute" class="contribute-news" title="Contribute an Article">Contribute an Article</a></li>		    	
+		  	    
+		  
         </ul>
       </div>
       
       <div class="footer-column" id="mainCommunitiesArea">
-      	<p class="communities" id="communitiespick">Choose the default sections</p>
+      	<p class="communities" id="communitiespick">Personalize Your Main Interests</p>
       	<div id="communities">
 	        <ul>
 	        	
@@ -716,14 +765,14 @@ var communityChangeMessage = 'Your new preferences will be used starting with th
 	
 	<p>EVENTS</p>
 	<ul>		
-		<li><a href="http://qconsf.com" title="QCon San Francisco November 16-18, 2011">QCon San Francisco November 16-18, 2011</a></li>
+		<li><a href="http://qconnewyork.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="QCon New York, June 18-22">QCon New York, June 18-22</a></li>
 	</ul>
 </div>
 
 	
       
-      <div class="footer-column latest-news">
-	    
+     <div class="footer-column follow-us">
+		
 
 
 
@@ -731,11 +780,47 @@ var communityChangeMessage = 'Your new preferences will be used starting with th
 
 
 
-<a href="http://qconsf.com?utm_source=infoq&amp;utm_medium=banner&amp;utm_campaign=footerbannerinfoq" target="_blank">
-	<img src="http://cdn4.infoq.com/styles/i/qcon/sf_2011/qcon_banner_350x250_300off.jpg">
-</a>
+<!--Follow Us -->
 
+	<div class="followus-box">
+	    <fieldset>
+	    <legend>Follow Us</legend>
+	        <div>
+		        <a target="_blank" href="/newsletter_sample.html" class="followus-click">
+		        	<img src="http://cdn1.infoq.com/styles/i/img_click-here.png">
+		        </a>
+		        <p class="general">Infoq Weekly Newsletter</p>
+		        <div class="followus-description">Subscribe to our Weekly email newsletter to follow all new content on InfoQ</div>
+	        </div>	        
+	        <div id="subscriptionForm">
+		        <form action="#" onsubmit="newsletter.saveSubscription(); return false;">
+		            <input type="text" class="followus-input" id="newsletterEmail" name="newsletterEmail" value="Your email here" onclick="newsletter.clearEmailText();" onblur="newsletter.resetEmailText();">
+		            <input type="submit" value="Subscribe" class="followus-submit" onclick="return newsletter.validateEmail();">		            
+		        </form>
+	        </div>
+	        <div id="successMessage" class="followus-successMessage"></div>
+			<div id="errorMessage" class="followus-message"></div>			
+	        <div>
+	            <ul class="followus-box-list">
+	                <li><a class="followus-box-list-rss" href="#" id="followUsBoxRss" target="_blank">Your personalized RSS</a></li>
+	                <li><a class="followus-box-list-t" href="http://twitter.com/infoq" target="_blank">For daily content and announcements</a></li>
+	                <li><a class="followus-box-list-fb" href="http://www.facebook.com/InfoQ" target="_blank">For major community updates</a></li>
+	            </ul>
+	        </div>
+	    </fieldset>
+	</div>
+
+<!-- Follow Us END -->
+
+<script type="text/javascript">
+	var newsletterDefaultText='Your email here';
+	$(document).ready(function() {
+		$('#followUsBoxRss').attr('href', rssUrl);
+	});
+</script>
      </div>
+     
+     
       
       <div class="footer-column">
       	<p class="general">General Feedback</p>
@@ -755,15 +840,78 @@ var communityChangeMessage = 'Your new preferences will be used starting with th
                
         
         
-        <span>InfoQ.com and all content copyright © 2006-2011 C4Media Inc.&nbsp;InfoQ.com hosted at <a href="http://www.contegix.com/">Contegix</a>, the best ISP we've ever worked with.<br><a href="/PrivacyPolicy.jsp">Privacy policy</a></span>
+        <span>InfoQ.com and all content copyright © 2006-2012 C4Media Inc.&nbsp;InfoQ.com hosted at <a href="http://www.contegix.com/">Contegix</a>, the best ISP we've ever worked with.<br><a href="/PrivacyPolicy.jsp">Privacy policy</a></span>
       </div>
       <div class="clearer"></div>
     </div>
 	</div>
 
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+})();
+GPT.overrideG();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+	googletag.defineSlot('/5286733/en_geo_banner_bottom', [728, 90], 'id_geo_banner_ad').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().collapseEmptyDivs();
+	googletag.enableServices();
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+<div id="id_geo_banner" style="display:none;position:fixed;bottom:0;left:0;width:100%;z-index:100000;">
+	<div id="id_geo_banner_ad">
+		<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('id_geo_banner_ad');});
+		function showAd() {
+			try {
+				$('#id_geo_banner iframe:first').attr('width', '100%');
+				$('#id_geo_banner iframe:first').attr('height', 'auto');
+				$('#id_geo_banner iframe:first').css('min-width', '1024px');
+			}catch(err){}
+			$('#id_geo_banner').show('slow');
+			setTimeout("$('#id_geo_banner').hide('slow');", 30000);
+		}
+
+		if(CookieManager.readCookie("igabgt") == null) {
+			GPT.monitorSlot("/5286733/en_geo_banner_bottom", showAd);
+		}
+		</script>
+	</div>
 </div>
 
-<script src="http://cdn1.infoq.com/scripts/__utm.js" type="text/javascript"></script>
+
+</div>
+
+<script src="http://cdn3.infoq.com/scripts/__utm.js" type="text/javascript"></script>
 <script src="/dwr/engine.js" type="text/javascript"></script>
 <script src="/dwr/interface/UserCategoryUtil.js" type="text/javascript"></script>
 <script src="/dwr/interface/DWRRewriteAction.js" type="text/javascript"></script>
@@ -802,9 +950,18 @@ var communityChangeMessage = 'Your new preferences will be used starting with th
 
 
 
+
+
+
+
+
+
+
 <script type="text/javascript">
+  var gaProfile="UA-6608133-2";
+  urchinTracker();
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6608133-2']);
+  _gaq.push(['_setAccount', gaProfile]);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -867,6 +1024,15 @@ Tracker.safeExec(Tracker.doTrackAuthorImpressions);
 		</script>
 	</div>
 </div>
+
+
+
+
+
+
+
+
+
 <script type="text/javascript">
 		$(document).ready(function() {
 		    var noleftbartextlinks='';			
@@ -874,6 +1040,13 @@ Tracker.safeExec(Tracker.doTrackAuthorImpressions);
 			for(i=1; i<6; i++){					
 					$("#textlink"+i).append($("#divtextlink"+i+" > div"));
 					$("#divtextlink"+i+" > div").remove();
+					
+					// remove the height and width from all elements under the $("#textlink" + i) as it seems goole started to inforce the size on the textlinks to 120x100. This has started today: 2011-11-17.
+					// this size needs to be specified in GAM as no element can be created without a size. Today there are divs so this is why I wanted to remove the size from all elements under
+					// the li
+					//2011-11-18 they removed the height and width props from the div they generate. I also remove this so that all appears correctly. I leave it only commented in casase this is needed again. 
+					//$("#textlink" + i).children().css("height","auto");
+					//$("#textlink" + i).children().css("width","auto");
 			}	
 			checkToDisplayGAMADs("textlink1", "textlink1");
 			checkToDisplayGAMADs("textlink2", "textlink2");
@@ -883,12 +1056,13 @@ Tracker.safeExec(Tracker.doTrackAuthorImpressions);
 			if(noleftbartextlinks=='true'){
 				if($("#home_textlinks > li:has(div)").length>0){
 					$('#widgetSponsoredLinks').show();
+					$('.adsTowerWrap').css('display', 'block');	
 					// resize the reserved space 
 					$('#hometextlinks').css("height","auto");
 					$("#home_textlinks > li:visible:last").addClass("last");
 				}else{
-					// hide the #hometextlinks div which acts like a predefined reserved space there because there are no links
-					$('#hometextlinks').hide();
+					// hide the div above the hometextlinks div which acts like a predefined reserved space there because there are no links
+					$('.adsTowerWrap').css('display', 'none');	               
 				}
 			}else{ //textlinks in the content page use case			    
 				//eliminate <br> and </br> in this specific use case
@@ -908,8 +1082,8 @@ Tracker.safeExec(Tracker.doTrackAuthorImpressions);
 				}				
 			}
 	     });				
-	</script>
+</script>	
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","bfafe6a5f6",410411,"YAFWMEEAW0RUVk1cCllLfjdjTmVFXENYVhxnC1gNUBgbXUZF",0,19,new Date().getTime()])</script>
 
 
-
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum.js"></script></body></html>
