@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214042658id_/http%3A//www.sabre-holdings.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614065408id_/http%3A//www.sabre.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Sabre Holdings :: Privacy Policy
+# None
 
 Thank you for taking the time to review our privacy policy for this Web site. Sabre Inc. under the Sabre Holdings brand, operates the sabre-holdings.com site to communicate corporate news and information, information about our brands and to provide a tool for communicating with our many customers and vendors. Investor information, news releases, product overviews, registration processing for Sabre Inc. organized and sponsored events and career opportunity information are all provided through this Web site. If you are already familiar with our Corporate Data Privacy Policy, which immediately follows and also appears on other Sabre Inc.-affiliated web sites (and would like to only review the policy covering this specific site), please go to the sabre-holdings.com web site policy below.
 
@@ -11,42 +11,42 @@ Datenschutzregelung von Sabre Inc. (German)
 Politica di Sabre Inc. sulla riservatezza dei dati (Italian)  
 Politique de Sabre Inc. en matière de confidentialité des données (French)   
 Normas de privacidad sobre información de Sabre Inc. (Spanish)  
-Política de privacidade de dados do Sabre Inc. (Portuguese)   
+PolÃ­tica de privacidade de dados do Sabre Inc. (Portuguese)   
 Sabre Inc. datasekretesspolicy (Swedish)   
 Δήλωση προστασίας προσωπικών δεδομένων της Sabre Inc. (Greek)   
-Sabre Inc. 情報に関するプライバシーポリシー (Japanese)
+Sabre Inc. 情報に関するプライバシーポリシー ( (Japanese)
 
-## Sabre-holdings.com Policy 
+## Sabre-holdings.com Policy
 
-Sabre-holdings.com is a site operated by Sabre Inc. to provide information about the corporation and our businesses. You will find corporate news, investor relations information, event registration, information on products and services, partner and business development opportunities and career opportunities information. You may be asked to provide information depending on the service or information you are requesting. You will find specific information regarding any personal information you provide on this site at each section where you are requested to input information. 
+Sabre-holdings.com is a site operated by Sabre Inc. to provide information about the corporation and our businesses. You will find corporate news, investor relations information, event registration, information on products and services, partner and business development opportunities and career opportunities information. You may be asked to provide information depending on the service or information you are requesting. You will find specific information regarding any personal information you provide on this site at each section where you are requested to input information.
 
-Sabre Inc.'s host computer and servers are located in the United States. By your use of the sabre-holdings.com web site you consent to your data being transferred to and processed in the United States. 
+Sabre Inc.'s host computer and servers are located in the United States. By your use of the sabre-holdings.com web site you consent to your data being transferred to and processed in the United States.
 
 These policies do not constitute contracts. By use of the sabre-holdings.com web site, you acknowledge that you do not intend either privacy policy to form a contract.
 
-## How Information Is Gathered 
+## How Information Is Gathered
 
-Voluntary Information may be collected from you in several instances when you are on the sabre-holdings.com web site. When you request information to be sent to you on various products and services, investor information or when you provide us information regarding potential business opportunities, you will be asked to complete an online form or submit information via e-mail. Information collected will include names, postal addresses, e-mail addresses, telephone numbers, credit card information and certain preferences you have depending on the services or information you are requesting. 
+Voluntary Information may be collected from you in several instances when you are on the sabre-holdings.com web site. When you request information to be sent to you on various products and services, investor information or when you provide us information regarding potential business opportunities, you will be asked to complete an online form or submit information via e-mail. Information collected will include names, postal addresses, e-mail addresses, telephone numbers, credit card information and certain preferences you have depending on the services or information you are requesting.
 
 The information you provide will never be used for purposes other than for the reasons it was given without your permission.
 
-Cookies are data placed on your computer to enable us to know on future visits your preferences concerning the site. Sabre-holdings.com may use cookies to determine your preferences as to screen or presentation choices while you are visiting the site. We never use cookies to gather any personally identifiable information. Cookies are not utilized by third party services Sabre Inc. engages to process information while you are on the sabre-holdings.com site. No clickstream data is gathered at this site. 
+Cookies are data placed on your computer to enable us to know on future visits your preferences concerning the site. Sabre-holdings.com may use cookies to determine your preferences as to screen or presentation choices while you are visiting the site. We never use cookies to gather any personally identifiable information. Cookies are not utilized by third party services Sabre Inc. engages to process information while you are on the sabre-holdings.com site. No clickstream data is gathered at this site.
 
-## How is the Information Used 
+## How is the Information Used
 
-Information collected will be used to fulfill your request and provide you with the services or information you have requested. When information concerning registration for events is collected it will be used to provide you with a better experience at the event. However, this information is not used beyond Sabre Inc. Résumé information will be used in determining if career opportunities may be available to you at Sabre Inc. or its affiliates. Information you provide us regarding business opportunities and ideas will be used to evaluate those proposals. 
+Information collected will be used to fulfill your request and provide you with the services or information you have requested. When information concerning registration for events is collected it will be used to provide you with a better experience at the event. However, this information is not used beyond Sabre Inc. RÃ©sumÃ© information will be used in determining if career opportunities may be available to you at Sabre Inc. or its affiliates. Information you provide us regarding business opportunities and ideas will be used to evaluate those proposals.
 
-## How We Use Third Parties 
+## How We Use Third Parties
 
-In certain cases, Sabre Inc. will use third party vendors to support fulfillment of your request or for the service you are taking advantage of. Career information, event registration, investor information and marketing information requests are processed by outside services. As stated in our corporate policy, Sabre Inc. will not engage fulfillment firms who do not comply with our data privacy requirements. 
+In certain cases, Sabre Inc. will use third party vendors to support fulfillment of your request or for the service you are taking advantage of. Career information, event registration, investor information and marketing information requests are processed by outside services. As stated in our corporate policy, Sabre Inc. will not engage fulfillment firms who do not comply with our data privacy requirements.
 
-### How is Information Shared 
+### How is Information Shared
 
-Information you provide may be shared internally with other Sabre Inc. departments, affiliates or brands in order to process your request for information or services. Information is not shared outside of Sabre Inc. or its affiliates unless your permission has been obtained. 
+Information you provide may be shared internally with other Sabre Inc. departments, affiliates or brands in order to process your request for information or services. Information is not shared outside of Sabre Inc. or its affiliates unless your permission has been obtained.
 
 ### Concerns or Questions Concerning Your Privacy
 
-This web site provides information and services for many different businesses within Sabre Inc. Any questions or issues about your privacy or information you provide us should be sent to the appropriate e-mail address below. 
+This web site provides information and services for many different businesses within Sabre Inc. Any questions or issues about your privacy or information you provide us should be sent to the appropriate e-mail address below.
 
 Marketing Information - [contact.us@sabre.com](mailto:contact.us@sabre.com)  
 General sabre.com Inquiries - [contact.us@sabre.com](mailto:contact.us@sabre.com)   
