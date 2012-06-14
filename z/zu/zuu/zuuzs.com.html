@@ -1,69 +1,89 @@
-<!--The following is the downloaded HTML source of the zuuzs.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123122751id_/http%3A//www.zuuzs.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zuuzs.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615004223id_/http%3A//www.zuuzs.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-<title>zuuzs.com | Privacy Policy</title><meta name="keywords" content="zuuzs, zuuzs.com, privacy, privacy policy">
+    
+    
+    <title>zuuzs.com | Privacy Policy</title><meta name="keywords" content="zuuzs, zuuzs.com, privacy, privacy policy">
 <meta name="description" content="zuuzs privacy policy for members ">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta property="og:title" content="zuuzs.com - The Place Where Friends Meet to Shop, Share and Earn">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.zuuzs.com/">
+<meta property="og:url" content="http://www.zuuzs.com/images/zbag.jpg">
 <meta property="og:image" content="http://www.zuuzs.com/images/zbag.jpg">
 <meta property="og:site_name" content="zuuzs">
 <meta property="fb:app_id" content="2373072738"><link href="/favicon.ico" rel="favicon">
 <link href="https://ajax.googleapis.com/ajax/libs/yui/3.3.0/build/cssreset/reset-min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister|Didact+Gothic" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/zuuzs_style.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE 7]> <link href="/css/zuuzs_style_ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <link href="/css/modal-window.css" media="screen" rel="stylesheet" type="text/css">
-<!--[if lte IE 6]> <link href="/css/modal-window-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<!--[if lte IE 6]> <link href="/css/modal-window-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="/css/smart_wizard.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
 <script type="text/javascript" src="/js/modal-window.min.js"></script>
 <script type="text/javascript" src="/js/jquery.corner.js"></script>
 <script type="text/javascript" src="/js/jquery.corner.wrap.js"></script>
+<script type="text/javascript" src="/js/jquery.tinyTips.min.js"></script>
+<script type="text/javascript" src="/js/jquery.smartWizard-2.0.min.js"></script>
 <script type="text/javascript">
     //<![CDATA[
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-22283621-1']);
-  _gaq.push(['_trackPageview']);
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22283621-1']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
+    (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-    //]]>
+    })();
+        //]]>
 </script></head>
 <body>
 <div id="container_body">
-<div id="fb-root"></div>
+    <div id="fb-root"></div>
 <script type="text/javascript">
-    FB.init({ 
+    FB.init({
         appId:'107665512666617',
         cookie:true,
         status:true,
-        xfbml:true 
+        xfbml:true,
+        oauth:true
     });
     // autologin user
-    if(window.location.pathname == '/') {
-        FB.getLoginStatus(function(response) {
+    if (window.location.pathname == '/') {
+//        FB.getLoginStatus(function (response) {
+//            if (response.session) {
+//                if (response.perms) {
+//                    if (document.getElementById('rpath') != null) {
+//                        window.location = '/ajax/login/?rpath=' + document.getElementById('rpath').value;
+//                    } else {
+//                        window.location = '/ajax/login/';
+//                    }
+//                } else {
+//                    alert('There seems to be a problem with your Facebook Login');
+//                }
+//            }
+//        });
+    }
+    if (window.location.pathname == '/member/') {
+        FB.getLoginStatus(function (response) {
             if (response.session) {
-            	if (response.perms) {
-                    if(document.getElementById('rpath') != null) {
-            	        window.location = '/ajax/login/?rpath=' + document.getElementById('rpath').value;
-                    } else {
-                        window.location = '/ajax/login/';
+                FB.api('/me/permissions', function (response) {
+                    if (typeof response['data'][0]['user_checkins'] == 'undefined' || response['data'][0]['user_checkins'] === 0) {
+                        FB.login(function (response) {
+                            if (response.authResponse) {
+                                window.location = '/ajax/login/';
+                            }
+                        }, {scope:'email,user_birthday,user_interests,user_likes,user_relationships,publish_stream,offline_access'});
                     }
-            	} else {
-                    alert('There seems to be a problem with your Facebook Login');
-            	}
+                });
             }
         });
     }
-    FB.Event.subscribe('auth.login', function(response) {
-        if(response.status == 'connected') {
-            if(document.getElementById('rpath') != null) {
+    FB.Event.subscribe('auth.login', function (response) {
+        if (response.status == 'connected') {
+            if (document.getElementById('rpath') != null) {
                 window.location = '/ajax/login/?rpath=' + document.getElementById('rpath').value;
             } else {
                 window.location = '/ajax/login/';
@@ -73,14 +93,14 @@
 </script>
 <div id="header_body">
     <div id="header_container">
-        <div id="logo_container">
-            <a href="http://www.zuuzs.com/"><img src="/images/zuuzs_logo.png" alt="zuuzs - shop, share, earn" width="243" height="113"> </a>
+                        <div id="logo_container">
+            <a href="http://www.zuuzs.com/"><img src="/images/logo_2012_tagline.png" alt="zuuzs - one word, so many possibilities" width="257" height="113"></a>
         </div>
     </div>
 </div>
     <div id="main_body">
-    	<div id="zuuzs_container">
-<div class="zuuzs_2col">
+        <div id="zuuzs_container">
+            <div class="zuuzs_2col">
     <div class="leftCol">
     <h2>Company</h2>
 <h3><a href="/about/">About</a></h3>
@@ -112,7 +132,7 @@
         <li style="list-style-type:none;"><h3>2. Information From Other Sources</h3></li>
         <ol style="padding-left:20px;">
         <li style="list-style-type:none;"><h4>A. Cookies  and Other Technologies&nbsp; </h4></li>
-        <p>We use cookies and other  technologies, such as, web beacons (also known as “clear gifs” and “pixel tags”)  to recognize you, customize your experience, and serve advertisements. &nbsp;&nbsp;Cookies are very small files placed on your  computer, and they allow us to count the number of visitors to zuuzs.com and  distinguish repeat visitors from new visitors. They also allow us to save Member  preferences and track Member trends. We rely on cookies for the proper  operation of zuuzs.com; therefore if your browser is set to reject all cookies,  the website will not function properly and you may lose functionality. &nbsp;Specifically, we require our Members to have  cookies enabled in order to accumulate and receive FUNdzs (<em>i.e.</em>, cash payments).&nbsp; We do  not link cookies or web beacons to any Personal Information. &nbsp;&nbsp;We may also enable advertisers and ad servers  to promote third-party products and/or services by placing advertisements on zuuzs.com.  These advertisers and ad servers may use cookies and/or web beacons to monitor  information related to served advertisements. Clicking on such advertisements  will direct you to the website of a third-party and the advertiser. This  Privacy Policy does not cover the privacy practices of any advertisers or ad  servers.</p>
+        <p>We use cookies and other  technologies, such as, web beacons (also known as “clear gifs” and “pixel tags”)  to recognize you, customize your experience, and serve advertisements. &nbsp;&nbsp;Cookies are very small files placed on your  computer, and they allow us to count the number of visitors to zuuzs.com and  distinguish repeat visitors from new visitors. They also allow us to save Member  preferences and track Member trends. We rely on cookies for the proper  operation of zuuzs.com; therefore if your browser is set to reject all cookies,  the website will not function properly and you may lose functionality. &nbsp;Specifically, we require our Members to have  cookies enabled in order to accumulate and receive fundzs (<em>i.e.</em>, cash payments).&nbsp; We do  not link cookies or web beacons to any Personal Information. &nbsp;&nbsp;We may also enable advertisers and ad servers  to promote third-party products and/or services by placing advertisements on zuuzs.com.  These advertisers and ad servers may use cookies and/or web beacons to monitor  information related to served advertisements. Clicking on such advertisements  will direct you to the website of a third-party and the advertiser. This  Privacy Policy does not cover the privacy practices of any advertisers or ad  servers.</p>
         <br>
         <li style="list-style-type:none;"><h4>B. Information Collected Automatically&nbsp; </h4></li>
         <p>We automatically receive and  collect from your internet use information like your IP address, the URLs of websites  from which you arrive or leave zuuzs.com, your type of browser and language,  access times, the content of any undeleted cookies that your browser previously  accepted from us, your operating system, your mobile provider, your mobile  device, and your ISP. We may use such information to analyze trends, administer  the website, prevent fraud, track visitor movement in the aggregate, and gather  broad demographic information.&nbsp;&nbsp; </p>
@@ -133,7 +153,7 @@
         <br>
         <li style="list-style-type:none;"><h4>G. Information About Others </h4></li>
         <p>We encourage you to refer your  family, friends, and colleagues to zuuzs.com by sending us their name and email  address. We will keep this information in our database, and send that person an  e-mail containing your name and inviting them to visit zuuzs.com. This e-mail  will also include instructions on how to remove their information from our  database. You agree that you will not abuse this feature by entering names and  addresses of those who would not be interested in zuuzs.com’s services. </p><br>
-        <p>zuuzs.com provides value to its Member  by paying FUNdzs (<em>i.e.</em>, cash rewards)  to our Members. The information we collect (<em>e.g.</em>,  name, email address, and physical address) is used to track and send FUNdzs Members  earn.</p><br>
+        <p>zuuzs.com provides value to its Member  by paying fundzs (<em>i.e.</em>, cash rewards)  to our Members. The information we collect (<em>e.g.</em>,  name, email address, and physical address) is used to track and send fundzs Members  earn.</p><br>
         <p>Additionally, we may use  information on the websites you visit or the offers you view on zuuzs.com to  select special offers that will be relevant to you. Except at an aggregate  level, however, we do not share that information with our partners, advertisers  or other third parties.</p>
         </ol>
         </ul>
@@ -161,7 +181,7 @@
         <h2>Who Sees Your Personal Information</h2>
         <ol style="padding-left:20px;">
         <li style="list-style-type:none;"><h3>1. Our Employees</h3></li>
-        <p>Only a very limited number of  zuuzs.com employees ever have access to your Personal Information. This  information is used to track and send FUNdzs you earn.</p>
+        <p>Only a very limited number of  zuuzs.com employees ever have access to your Personal Information. This  information is used to track and send fundzs you earn.</p>
         <br>
         <li style="list-style-type:none;"><h3>2. Our Members</h3></li>
         <p>When you use zuuzs.com, certain  information you post or provide through zuuzs.com, such as your name, profile,  picture, comments, collections and reviews, may be shared with other Members  and posted on publicly available portions of zuuzs.com, including without  limitation, social media applications and other public forums in which you  choose to participate. Please keep in mind that if you choose to disclose  Personal Information when posting comments or other information or content  through zuuzs.com, this information may become publicly available and may be  collected and used by others, including people outside of zuuzs.com. We will  not have any obligations with respect to any information that you post to parts  of zuuzs.com available to others, and recommend that you use caution when  giving out Personal Information to others through social media networks or otherwise.</p>
@@ -213,7 +233,7 @@
         <p>You have a right at any time to  stop us from contacting you for marketing purposes. When you receive  promotional communications from us, you may indicate a preference to stop  receiving further promotional communications from us and you will have the  opportunity to “opt-out” by following the unsubscribe instructions provided in  the promotional e-mail you receive or by contacting us directly at contact@zuuzs.com.</p><br>
         <p>Despite your indicated email  marketing preferences, we may send you administrative emails regarding  zuuzs.com, including, for example, administrative and transactional  confirmations, and notices of updates to our Privacy Policy if we choose to  provide such notices to you in this manner.</p><br>
         <p>You have the right to request a  copy of the Personal Information that we hold about you. If you would like a  copy of some or all of your Personal Information, please contact us at contact@zuuzs.com.  We may charge a reasonable fee for this service. We want to make sure that your  information is accurate and up-to-date. You may ask us to correct or remove  information which you think is inaccurate. You may change any of your profile  information by editing it in the profile settings page.</p><br>
-        <p>It is the Member's responsibility  to update and maintain accurate contact information in their account. You can  make changes by visiting your account page and entering corrections. Email and  street addresses that are entered into a Member's personal profile page are the  addresses that will be used for all contact including for your FUNdzs payments.  zuuzs.com is not responsible for payments sent to an incorrect addresses  provided by you.</p><br>
+        <p>It is the Member's responsibility  to update and maintain accurate contact information in their account. You can  make changes by visiting your account page and entering corrections. Email and  street addresses that are entered into a Member's personal profile page are the  addresses that will be used for all contact including for your fundzs payments.  zuuzs.com is not responsible for payments sent to an incorrect addresses  provided by you.</p><br>
         <p>We will post all changes to this  Privacy Policy here at zuuzs.com. You are responsible for checking periodically  on policy updates.</p>
         <br>
         <h2>How You Can Access Your Information</h2>
@@ -267,16 +287,19 @@
         </div>
         <br>
     </div>
-    <div id="footer_body">
+        <div id="footer_body">
     	<div id="footer_container">
             <div style="vertical-align:top">
                 <span>Company</span>
                 <ul>
                     <li><a href="/about/">About</a></li>
                     <li><a href="/contact/">Contact</a></li>
-                    <li><a href="http://blog.zuuzs.com">Blog</a></li>
+                    <li><a href="/blog/">Blog</a></li>
                     <li><a href="/careers/">Careers</a></li>
                     <li><a href="/contact/press/">Press</a></li>
+                    <li><a href="/retailer/">Retailers</a></li>
+                    <li><a href="/channel/style/">Weekly Picks</a></li>
+                    <li><a href="/channel/gifts-for-grads/">Gifts for Grads</a></li>
                 </ul>
             </div>
             <div style="vertical-align:top">
@@ -290,103 +313,81 @@
                 </ul>
             </div>
             <div style="width:545px;vertical-align:top; padding-top:6px;">
-                    <strong>zuuzs is the place where friends meet to shop, share, and earn together.</strong>
-                    <p>
+                <strong>zuuzs is the place where friends meet to shop, share, and earn together.</strong>
+                <p>
 					<br>
 					zuuzs makes it easy to shop with all your favorite online stores, lets you share 	
 					<br>
                     great deals and shopping insights with your friends and family without ever 	
 					<br>
                     needing to leave the zuuzs website, and lets you all earn money on your purchases.
-            <br>
-            <span style="padding-top:12px; font-size:13px; text-decoration:none; font-weight:normal">(855)-MY-zuuzs &nbsp;&nbsp; (855-699-8897)</span>
-            </p></div>
+                    <br>
+                    <span style="padding-top:12px; font-size:13px; text-decoration:none; font-weight:normal">(855)-MY-zuuzs &nbsp;&nbsp; (855-699-8897)</span>
+                </p>
+            </div>
             <div style="vertical-align:top; padding-left: 10px;">
                 <span>Connect with Us</span>
                 <br>
-                <div style="display: block; margin-bottom: 5px;">
-                    <iframe src="https://www.facebook.com/plugins/like.php?app_id=268858503142477&amp;href=www.facebook.com%2Fmyzuuzs&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=trebuchet+ms&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+                <div>
+                    <a href="http://www.facebook.com/myzuuzs" target="_blank"><img src="/images/icon_facebook.png" height="24"></a>
+                    <a href="http://twitter.com/zuuzs" target="_blank"><img src="/images/icon_twitter.png" height="24"></a>
+                    <a href="https://plus.google.com/117760950262369224040" target="_blank"><img src="/images/icon_gplus.png" height="24"></a>
+                    <a href="http://pinterest.com/zuuzstyle" target="_blank"><img src="/images/icon_pinterest.png" height="24"></a>
                 </div>
-                <div style="display: block; margin-bottom: 5px;">
-                    <script type="text/javascript">
-                        (function(){
-                            if(typeof tw == "undefined") {
-                                var tw = document.createElement('script'); tw.type = 'text/javascript'; tw.async = true;
-                                tw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'platform.twitter.com/widgets.js';
-                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tw, s);
-                            }
-                        })();
-                    </script>
-                    <a href="https://twitter.com/zuuzs" class="twitter-follow-button" data-show-count="false">Follow</a>
-                </div>
-                <div style="display: block;">
-                    <!-- Place this tag where you want the +1 button to render -->
-                    <g:plusone size="medium" href="http://www.zuuzs.com/" annotation="none"></g:plusone>
-
-                    <!--  Place this tag after the last plusone tag -->
-                    <script type="text/javascript">
-                      (function() {
-                        if(typeof po == "undefined") {
-                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                            po.src = 'https://apis.google.com/js/plusone.js';
-                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                <script type="text/javascript">
+                    (function(){
+                        if(typeof tw == "undefined") {
+                            var tw = document.createElement('script'); tw.type = 'text/javascript'; tw.async = true;
+                            tw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'platform.twitter.com/widgets.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tw, s);
                         }
-                      })();
-                    </script>
-                </div>
-                <div style="display: block;">
-                    <a href="http://pinterest.com/zuuzs/" target="_blank"><img src="http://passets-cdn.pinterest.com/images/pinterest-button.png" width="78" height="26" alt="Follow Us on Pinterest"></a>
-                </div>
+                    })();
+                </script>
             </div>
-            <p>
-            </p><p class="copyright">Copyright © 2011, zuuzs, llc. All rights reserved. Retailer logos are trademarks of the respective organizations.</p>
+            <p>&nbsp;</p>
+            <p class="copyright">Copyright © 2012, zuuzs, llc. All rights reserved. Retailer logos are trademarks of the respective organizations.</p>
         </div>
     </div>
 </div>
 
 <script type="text/javascript">
-$(document).ready(function() {
-    if(typeof FB !== "undefined") {
-    	$('a.fblogin').bind('click', function(){
-    		FB.login(
-                function(response) {
-                    if (response.session) {
-                        if (response.perms) {
+$(document).ready(function () {
+    if (typeof FB !== "undefined") {
+        $('a.fblogin').bind('click', function () {
+            FB.login(
+                    function (response) {
+                        if (response.authResponse) {
                             // user is logged in and granted some permissions.
                             // perms is a comma separated list of granted permissions
-                            window.location = '/member/';
+                            window.location = '/ajax/login/';
                         } else {
-                            // user is logged in, but did not grant any permissions
-                            alert('Oops, it looks like you did not accept the permissions. Please click log in again and accept the permissions.');
+                            // user is not logged in
                         }
-                    } else {
-                        // user is not logged in
-                    }
-                }, {perms:'email,user_birthday,user_interests,user_likes,user_relationships,publish_stream,offline_access'}
+                    }, {scope:'email,user_birthday,user_interests,user_likes,user_relationships,publish_stream,user_checkins,read_stream,offline_access'}
             );
             return false;
         });
     }
-    
+
     // always bind the forgot password action
-	$('#forgot_password').bind('click', function() {
-	    var email_address = $('#login_email').val();
-	    if(email_address == '') {
-	        alert('Please enter your email address and click this link.');
-	        return false;
-	    }
-	    $.post('/ajax/forgot-password/', {'email':email_address});
-	    alert('An email with your password has been sent.');
-	    return false;
-	});
+    $('#forgot_password').bind('click', function () {
+        var email_address = $('#login_email').val();
+        if (email_address == '') {
+            alert('Please enter your email address and click this link.');
+            return false;
+        }
+        $.post('/ajax/forgot-password/', {'email':email_address});
+        alert('An email with your password has been sent.');
+        return false;
+    });
 
     // always bind the login form
-    $('#zuuzs_login_form').bind('submit', function() {
-        $.post('/ajax/login/', $(this).serialize(), function(response) {
-            if(response.status == 'success') {
-            	window.location = response.rpath;
+    $('#zuuzs_login_form').bind('submit', function () {
+        $.post('/ajax/login/', $(this).serialize(), function (response) {
+            if (response.status == 'success') {
+                window.location = response.rpath;
             } else {
-            	alert('There was an error with your email address or password. Please double-check them and try again or click forgot password to have it emailed to you.');
+                alert('There was an error with your email address or password. Please double-check them and try again or click forgot password to have it emailed to you.');
             }
         }, 'json');
         return false;
@@ -406,101 +407,132 @@ $(document).ready(function() {
     $('input[title]').inputHints();
 });
 
-function helpPopup(){
-    $.zPopup('<H2>Have  a question or feedback?</h2><h3>We want to hear from you</h3><br /><p><strong>Want to write to us?<br /></strong><a href="/help/">Send us an email</a><br /><br></p><p><strong>Prefer to call?<br /></strong>(855) MY-zuuzs or 855-699-8897<strong></strong><br /><br /></p><p><strong>Or, want to look for  an answer?<br /></strong><a href="/about/learn/">Search our How it Works page</a></p><br /><br />', {'width':500}); 
+function fbShare(name, link, description, caption, picture) {
+    caption = typeof(caption) != 'undefined' ? caption : '';
+    picture = typeof(picture) != 'undefined' ? picture : 'http://www.zuuzs.com/images/zbag.jpg';
+    FB.ui({
+                method:'feed',
+                name:name,
+                caption:caption,
+                link:link,
+                picture:picture,
+                description:description
+            },
+            function (response) {
+                if (response && response.post_id) {
+                    //alert('Post was published.');
+                } else {
+                    //alert('Post was not published.');
+                }
+            }
+    );
 }
-function pickCatPopup(){
-    $.zPopup('<div style="float:right"></div><h2>    <img src="/images/email/zuuzs_email_logo.png" align="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br />    Help zuuzs Give You What You\'re Really Looking For</h2><br /><br /><!-- onSubmit="javascript:setCategories(); return false;" --><form id="choose_categories" onSubmit="javascript:submitForm(); return false;">    <div style="height: 120px; scroll; overflow-x: hidden; margin-right: -10px;">        <table >        <thead>            <tr>            	<th style="padding-right:40px;"></th>                <th style="padding-right:40px;"><strong>Most Shopped For</strong></th>                <th><strong>Very Close 2nd</strong></th>            </tr>        </thead>            <tr >                <td style="padding-right:40px;">What do you shop for most online?</td>                <td style="padding-right:40px;">                    <select id="cat1" name="cat1">                        <option value="100">All</option>                    <br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="1">Appliances</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="2">Audio/Video/Books</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="3">Automotive</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="4">Baby/Maternity</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="5">Bridal/Wedding</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="6">Camping/Outdoor Gear</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="7">Children</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="8">Cooking/Kitchen</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="9">Cosmetics/Beauty</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="10">Dating Services</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="11">Department Stores</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="12">Discount/Mass Merchandisers</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="13">Drugstore/Pharmacy</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="14">Educational Materials & Services</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="15">Electronics</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="16">Entertainment</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="17">Financial Services</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="18">Flowers</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="19">Food/Beverage</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="20">Games/Toys</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="21">Gardening</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="22">Gifts</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="23">Health/Fitness</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="24">Hobbies/Collectibles</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="25">Home</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="35">Internet/Online</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="36">Jewelry</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="33">Men\'s Clothing/Accessories</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="26">Miscellaneous</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="27">Office/Business</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="28">Party Supplies</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="29">Pets</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="30">Restaurants</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="31">Sports</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="32">Travel</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>29</b><br /><option value="34">Women\'s Clothing/Accessories</option>                    </select>                </td>                <td >                    <select id="cat2" name="cat2">                        <option value="100">All</option>                    <br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="1">Appliances</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="2">Audio/Video/Books</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="3">Automotive</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="4">Baby/Maternity</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="5">Bridal/Wedding</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="6">Camping/Outdoor Gear</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="7">Children</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="8">Cooking/Kitchen</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="9">Cosmetics/Beauty</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="10">Dating Services</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="11">Department Stores</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="12">Discount/Mass Merchandisers</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="13">Drugstore/Pharmacy</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="14">Educational Materials & Services</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="15">Electronics</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="16">Entertainment</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="17">Financial Services</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="18">Flowers</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="19">Food/Beverage</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="20">Games/Toys</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="21">Gardening</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="22">Gifts</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="23">Health/Fitness</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="24">Hobbies/Collectibles</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="25">Home</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="35">Internet/Online</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="36">Jewelry</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="33">Men\'s Clothing/Accessories</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="26">Miscellaneous</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="27">Office/Business</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="28">Party Supplies</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="29">Pets</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="30">Restaurants</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="31">Sports</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="32">Travel</option><br /><b>Notice</b>:  Undefined index: id in <b>/var/www/www_zuuzs/application/views/scripts/partials/_popup_choose_categories.php</b> on line <b>41</b><br /><option value="34">Women\'s Clothing/Accessories</option>                    </select>                </td>        </table>        <br />        <br />        <div style="color:#666666;">        You can change your shopping preferences at any time by visiting your zuuzs profile!        </div>    </div>    <div style="text-align: right;">        <br />        <img id="registerLoading" style="padding: 9px; vertical-align: top; display: none;" src="/images/loader_big.gif">        <input width="102" type="image" height="38" src="/images/save_btn_trans.png">    </div></form>',  {'allowClose':false, width: 750});
+function helpPopup() {
+    $.zPopup('<div style="text-align: center;"><h2>Got Something to Say?</h2><h3>We\'re always here to help!</h3><br /><p><a href="/help/">Send us an email</a> or call us at (855) MY-zuuzs.<br /><br /></p><p>Maybe we already answered your question <a href="/about/learn/"><strong>here.</strong></a><br /></p><br /><br /></div>', {'width':500});
+}
+function submitBlogPopup() {
+    $.zPopup('<div style="float:right"></div><h2>    <img src="/images/email/zuuzs_email_logo.png" alt="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br />    Customized Pages</h2><br /><br /><div>    Your customized pages have been submitted.<br />    It can take up to 24 hour hours for you page to be approved.</div><div style="text-align: right;">    <br />    <img id="registerLoading" style="padding: 9px; vertical-align: top; display: none;" src="/images/loader_big.gif" alt="Loading..." />    <input type="button" value="Ok" onclick="window.location = \'/affiliates/\'; " /></div>', {'allowClose':false, width:750});
+}
+function bloggerprogrampopup() {
+    $.zPopup('<div style="float:right"><a href="#close"><img src="/images/icons_fam/cancel.png" style="text-align:right"></a></div><div style="float:right"></div><h3>    <img src="/images/email/zuuzs_email_logo.png" alt="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br /><br />    <strong>January Blogger Incentive Program Details</strong></h3><br />During the month of January, for every new zuuzs registration of a direct friend that occurs via the blogger\'s link (personal URL or customized zuuzs landing page), blogger will be paid $0.10. There is no limit to the number of registrations.<br /><br />For questions or more information, please write to <a href="bloggerconnection@zuuzs.com">bloggerconnection@zuuzs.com</a><br /><br />', {'allowClose':true, width:750});
+}
+function bloggerprogrampopup2() {
+    $.zPopup('<div style="float:right"><a href="#close"><img src="/images/icons_fam/cancel.png" style="text-align:right"></a></div><div style="float:right"></div><h3>    <img src="/images/email/zuuzs_email_logo.png" alt="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br /><br />    <strong>February Blogger Incentive Program Details</strong></h3><br />For each new Member that directly joins zuuzs by accepting your invitation to become a Member first (as opposed to receivingand accepting an invitation from another Member), zuuzs will pay you Fifteen Cents ($0.15) per new Member.  Payments will bemade the 21st of the month following end of the Program, provided the applicable account threshold designated in your profileis met.  If the threshold is not met, such amounts will be credited to your account and paid when the threshold is met.<br /><br />The Program will run from February 3, 2012 through February 29, 2012.<br /><br />For questions or more information, please write to <a href="bloggerconnection@zuuzs.com">bloggerconnection@zuuzs.com</a><br /><br />', {'allowClose':true, width:750});
+}
+function bloggerprogrampopup3() {
+    $.zPopup('<div style="float:right"><a href="#close"><img src="/images/icons_fam/cancel.png" style="text-align:right"></a></div><div style="float:right"></div><h3>    <img src="/images/email/zuuzs_email_logo.png" alt="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br /><br />    <strong>March Blogger Incentive Program Details</strong></h3><br />For each new Member that directly joins zuuzs by accepting your invitation to become a Member first (as opposed to receivingand accepting an invitation from another Member), zuuzs will pay you Fifteen Cents ($0.15) per new Member.  Payments will bemade the 21st of the month following end of the Program, provided the applicable account threshold designated in your profileis met.  If the threshold is not met, such amounts will be credited to your account and paid when the threshold is met.<br /><br />The Program will run from March 8, 2012 through March 31, 2012.<br /><br />For questions or more information, please write to <a href="bloggerconnection@zuuzs.com">bloggerconnection@zuuzs.com</a><br /><br />', {'allowClose':true, width:750});
+}
+function bloggerprogrampopup5() {
+    $.zPopup('<div style="float:right"><a href="#close"><img src="/images/icons_fam/cancel.png" style="text-align:right"></a></div><div style="float:right"></div><h3>    <img src="/images/email/zuuzs_email_logo.png" alt="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br /><br />    <strong>May Blogger Incentive Program Details</strong></h3><br />For each new Member that directly joins zuuzs by accepting your invitation to become a Member first (as opposed to receivingand accepting an invitation from another Member), zuuzs will pay you Twenty Five Cents ($0.25) per new Member.  Payments will bemade the 21st of the month following end of the Program, provided the applicable account threshold designated in your profileis met.  If the threshold is not met, such amounts will be credited to your account and paid when the threshold is met.<br /><br />The Program will run from May 2, 2012 through May 31, 2012.<br /><br />For questions or more information, please write to <a href="bloggerconnection@zuuzs.com">bloggerconnection@zuuzs.com</a><br /><br />', {'allowClose':true, width:750});
+}
 
-}
-function submitBlogPopup(){
-    $.zPopup('<div style="float:right"></div><h2>    <img src="/images/email/zuuzs_email_logo.png" align="zuuzs Logo" style="text-align: left; vertical-align: middle; margin-top: -15px;" />    <br />    Customized Pages</h2><br /><br />        <div >        Your customized pagees have been submitted.<br />        It can take up to 24 hour hours for you page to be approved.        </div>    </div>    <div style="text-align: right;">        <br />        <img id="registerLoading" style="padding: 9px; vertical-align: top; display: none;" src="/images/loader_big.gif">        <input type="button" value="Ok" onclick="window.location = \'/affiliates/\'; ">    </div></form>',  {'allowClose':false, width: 750});
-
-}
-jQuery.fn.inputHints = function() {
+jQuery.fn.inputHints = function () {
     // hides the input display text stored in the title on focus
     // and sets it on blur if the user hasn't changed it.
 
     // show the display text
-    $(this).each(function(i) {
-        if($(this).val() == '' || $(this).val() == $(this).attr('title'))
-        $(this).val($(this).attr('title')).addClass('hint').css('color', '#999999');
+    $(this).each(function (i) {
+        if ($(this).val() == '' || $(this).val() == $(this).attr('title'))
+            $(this).val($(this).attr('title')).addClass('hint').css('color', '#999999');
     });
 
     // hook up the blur & focus
-    return $(this).focus(function() {
-        if ($(this).val() == $(this).attr('title')) {
-            $(this).val('').removeClass('hint').css('color', '#000000');
-        }
-    }).blur(function() {
-        if ($(this).val() == '') {
-            $(this).val($(this).attr('title')).addClass('hint').css('color', '#999999');
-        }
-    });
+    return $(this).focus(
+            function () {
+                if ($(this).val() == $(this).attr('title')) {
+                    $(this).val('').removeClass('hint').css('color', '#000000');
+                }
+            }).blur(function () {
+                if ($(this).val() == '') {
+                    $(this).val($(this).attr('title')).addClass('hint').css('color', '#999999');
+                }
+            });
 };
 
-(function( $ ){
-    $.zPopup = function(message, options) {
+(function ($) {
+    $.zPopup = function (message, options) {
         // Do your awesome plugin stuff here
         var settings = {
-            'width'            : 328,
-            'height'           : 'auto',
-            'maskHeight'       : $(document).height(),
-            'maskWidth'        : $(window).width(),
-            'allowClose'       : true
+            'width':328,
+            'height':'auto',
+            'maskHeight':$(document).height(),
+            'maskWidth':$(window).width(),
+            'allowClose':true,
+            'afterOpen':null,
+            'overlay':true
         };
 
         // merge options and defaults
 
-        if ( options ) { 
-          $.extend( true, settings, options );
+        if (options) {
+            $.extend(true, settings, options);
         }
 
         // calculate the values for center alignment
-        var dialogTop =  ($(window).height()/3) - ($('#dialog-box').height()); 
-        var dialogLeft = (settings.maskWidth/2) - ((($('#dialog-box').size() > 0) ? $('#dialog-box').width() : settings.width)/2);
-        
+        var dialogTop = ($(window).height() / 3) - ($('#dialog-box').height());
+        var dialogLeft = (settings.maskWidth / 2) - ((($('#dialog-box').size() > 0) ? $('#dialog-box').width() : settings.width) / 2);
+
         dialogTop = (dialogTop > 30) ? dialogTop : 30;
-    
+
         // assign values to the overlay and dialog box
-        if($('div#dialog-overlay').size() === 0) {
-            $('<div/>').attr('id','dialog-overlay').css({
+        if ($('div#dialog-overlay').size() === 0 && settings.overlay) {
+            $('<div/>').attr('id', 'dialog-overlay').css({
                 'display':'block',
                 'width':'100%',
                 'height':'100%',
                 'filter':'alpha(opacity=50)',
                 '-moz-opacity':'0.5',
-                '-khtml-opacity': '0.5',
-                'opacity': '0.5',
-                'background': '#000000',
-                'position': 'absolute',
-                'top': '0',
-                'left': '0',
-                'z-index': '3000',
-                'height': settings.maskHeight,
-                'width': settings.maskWidth
+                '-khtml-opacity':'0.5',
+                'opacity':'0.5',
+                'background':'#000000',
+                'position':'absolute',
+                'top':'0',
+                'left':'0',
+                'z-index':'3000',
+                'height':settings.maskHeight,
+                'width':settings.maskWidth
             }).appendTo('body');
-        } else {
+        } else if (settings.overlay) {
             $('div#dialog-overlay').show();
         }
-        
-        if($('div#dialog-box').size() === 0) {
-            $('<div/>').attr('id','dialog-box').css({
+
+        if ($('div#dialog-box').size() === 0) {
+            $('<div/>').attr('id', 'dialog-box').css({
                 'display':'block',
-                'box-shadow': '0px 0px 10px rgba(0, 0, 0, 0.5)',
-                '-moz-box-shadow': '0px 0px 10px rgba(0, 0, 0, 0.5)',
-                '-webkit-box-shadow': '0px 0px 10px rgba(0, 0, 0, 0.5)',
-                'border-radius': '5px',
-                '-moz-border-radius': '5px',
-                '-webkit-border-radius': '5px',
+                'box-shadow':'0px 0px 10px rgba(0, 0, 0, 0.5)',
+                '-moz-box-shadow':'0px 0px 10px rgba(0, 0, 0, 0.5)',
+                '-webkit-box-shadow':'0px 0px 10px rgba(0, 0, 0, 0.5)',
+                'border-radius':'5px',
+                '-moz-border-radius':'5px',
+                '-webkit-border-radius':'5px',
                 'background':'#eeeeee',
                 'position':'fixed',
                 'z-index':'5000',
-                'margin-left': (settings.width/2)*-1,
-                'width': settings.width,
-                'height': settings.height,
-                'top': 30,
-                'left': '50%'
+                'margin-left':(settings.width / 2) * -1,
+                'width':settings.width,
+                'height':settings.height,
+                'top':30,
+                'left':'50%'
             }).appendTo('body')
             $('<div class="dialog-content"/>').css({
                 'text-align':'left',
@@ -510,22 +542,27 @@ jQuery.fn.inputHints = function() {
             $('<div id="dialog-message"/>').appendTo('div.dialog-content');
         } else {
             //$('#dialog-box').css({top:dialogTop, left:dialogLeft}).show();
-            $('#dialog-box').show();
+            $('#dialog-box').show().css({'margin-left':(settings.width / 2) * -1, 'width':settings.width, 'height':settings.height});
         }
-        
+
         // if user resize the window, call the same function again
         // to make sure the overlay fills the screen and dialogbox aligned to center    
         //$(window).resize(function () {
-            //only do it if the dialog box is not hidden
-            //if(!$('#dialog-box').is(':hidden')) $.zPopup(undefined, settings);
-        //}); 
-        
+        //only do it if the dialog box is not hidden
+        //if(!$('#dialog-box').is(':hidden')) $.zPopup(undefined, settings);
+        //});
+
         // display the message
         $('#dialog-message').html(message);
 
-        if(settings.allowClose) {
+        // run the afterOpen callback
+        if (typeof settings.afterOpen == 'function') {
+            settings.afterOpen.call(this);
+        }
+
+        if (settings.allowClose) {
             $('#dialog-overlay, #dialog-box').click(function (event) {
-                if(typeof event.target.href !== 'undefined' && event.target.nodeName == 'A' && event.target.href !== '#close') {
+                if (typeof event.target.href !== 'undefined' && event.target.nodeName == 'A' && event.target.href !== '#close') {
                     window.location = event.target.href;
                 } else {
                     $('#dialog-overlay, #dialog-box').hide();
@@ -535,18 +572,18 @@ jQuery.fn.inputHints = function() {
         } else {
             $('#dialog-overlay, #dialog-box').unbind('click');
             $('#dialog-box a').click(function (event) {
-                if(typeof event.target.href !== 'undefined' && event.target.nodeName == 'A' && event.target.href !== '#close') {
-                    if(event.target.target == '_blank') {
+                if (typeof event.target.href !== 'undefined' && event.target.nodeName == 'A' && event.target.href !== '#close' && $(event.target).parent().attr('href') !== '#close') {
+                    if (event.target.target == '_blank') {
                         window.open(event.target.href);
                     } else {
                         window.location = event.target.href;
                     }
-                } else {
+                } else if(((typeof event.target.href !== 'undefined' && event.target.nodeName == 'A' && event.target.href == '#close') || $(event.target).parent().attr('href') == '#close')) {
                     $('#dialog-overlay, #dialog-box').hide();
                 }
                 return false;
             });
         }
     };
-})( jQuery );
+})(jQuery);
 </script></body></html>
