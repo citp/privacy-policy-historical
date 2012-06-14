@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215065852id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615000246id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Play free Rummy on highly secured, reliable online Rummy portal
+# Ace2Three - Privacy Policy
 
 At Ace2Three.com, we provide online skill games for fun and excitement in an accessible,understandable and trust-worthy environment. As part of this we are committed to protecting the privacy of our members and users. The privacy statement explains what information we collect from our members and users, how we use the information, and what choices are available to our users and members. 
 
