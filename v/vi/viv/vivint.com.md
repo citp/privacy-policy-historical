@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the vivint.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126030652id_/http%3A//www.vivint.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivint.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614105807id_/http%3A//www.vivint.com/legal/privacy) for the most accurate reproduction.*
 
 # privacy policy | Vivint
+
+## Privacy policy   
+
 
 #### What information do we collect?
 
@@ -42,7 +45,9 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 #### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+As we develop our business, we may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Vivint or as part of a corporate reorganization or stock sale or other change in corporate control.
 
 #### Third-party links 
 
