@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lendio.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019015318id_/http%3A//www.lendio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendio.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023917id_/http%3A//www.lendio.com/legal/privacy) for the most accurate reproduction.*
 
-# Lendio
+# Lendio Privacy policy
 
 Lendio, Inc. respects the privacy of our clients and has developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This policy describes and sets forth our policies on the following topics:
 
@@ -46,7 +46,7 @@ We collect the following information regarding your business:
 
   * _Web Beacons:_ "Web beacons" (also known as "clear gifs" and "pixel tags") are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behavior of our customers. We do not link the web beacons to any personally identifiable information.
 
-  * _Purchase Information:_ To process purchases, we may require your name, address, phone number, email address and credit card information. Such information is used primarily to process your order or as otherwise described herein. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) by a third party, which only uses your information for that purpose.
+  * _Sign-Up Information:_ To process sign-ups, we may require your name, address, phone number, email address and credit card information. Such information is used primarily to process your order or as otherwise described herein. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) by a third party, which only uses your information for that purpose.
 
   * _E-mails and Telephone Calls:_ We require an e-mail address from you when you register for our services. We use your e-mail for both transactional (e.g., order confirmation, refund and renewal processing) and promotional (e.g., newsletters, new product offerings, special discounts, event notifications, special third-party offers) purposes. E-mail messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked. If you would rather not receive promotional e-mails from us, please see the section below labeled "Choice/Opt-Out". We reserve the right to send you certain communications relating to the Lendio services, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by telephone or text message (including to any wireless number you may provide to us) solely in connection with Lendio´s services. If you would rather not receive telephone calls or text messages from us, you may change or delete your number from your account preferences page(s), or ask to be removed from our contact list if you receive a call or text message from us. We fully comply with the requirements of the U.S. CAN-SPAM Act.
 
@@ -103,9 +103,8 @@ We may update this privacy policy to reflect changes to our information practice
 You can contact us about this privacy policy by writing or email us at the address below:
 
 Lendio, Inc.  
-3630 West South Jordan Pkwy., Ste. 202  
-South Jordan, UT 84095  
+10235 South Jordan Gateway, Suite 410 South Jordan, UT 84095  
 Email: support@lendio.com  
 Phone: 855.8.LENDIO (855.853.6346)
 
-This policy was last revised 08/03/2011
+This policy was last revised 01/16/2012
