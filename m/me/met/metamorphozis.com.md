@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metamorphozis.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208195410id_/http%3A//www.metamorphozis.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metamorphozis.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614020537id_/http%3A//www.metamorphozis.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free Website Templates, Free Web Templates, Flash Templates, Web Design Tutorials, Flash Tutorials, Promotion Tutorials
+# Free Website Templates, Free Web Templates, Flash Templates, Website Templates, Website Design
 
 Do You Like Our Website? Share With Others!
 
