@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cheatography.com privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215205956id_/http%3A//www.cheatography.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheatography.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614151515id_/http%3A//www.cheatography.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 
@@ -15,14 +15,18 @@
 
         <link rel="alternate" type="application/rss+xml" title="New Cheat Sheets RSS feed." href="http://www.cheatography.com/explore/new/rss/">
 
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
         <script type="text/javascript" src="/scripts/fancybox/jquery.fancybox.js"></script>
         <script type="text/javascript" src="/scripts/jquery.cookie.js"></script>
         <script type="text/javascript" src="/scripts/jquery.formalize.js"></script>
         <script type="text/javascript" src="/scripts/jquery.tagsinput.js"></script>
         <script type="text/javascript" src="/scripts/jquery.hoverIntent.minified.js"></script>
         <script type="text/javascript" src="/scripts/ajax.js"></script>
+        <!--<script type="text/javascript" src="http://cheatography.envoyapp.com/scripts/jquery.flot.js"></script>
+        <script type="text/javascript" src="http://cheatography.envoyapp.com/scripts/jquery.flot.bubble.js"></script>
+        <script type="text/javascript" src="http://cheatography.envoyapp.com/scripts/jquery.flot.pie.js"></script>-->
 
         <link href="/styles/styles.css" rel="stylesheet" type="text/css">
         <link href="/styles/print.css" rel="stylesheet" type="text/css" media="print">
@@ -70,11 +74,19 @@
                     'width': 300,
                     'autoDimensions': false
                 });
+                $('.inline_big').fancybox({
+                    'titleShow': false,
+                    'width': 960,
+                    'height': '80%',
+                    'autoDimensions': false
+                });
                 $('.login_popup').fancybox({
                     'titleShow': false,
                     'autoDimensions': true,
                     'onComplete': function() {
                         $("#fancybox-frame").contents().find(".sidebar_username").focus();
+                        $('#login_form').show();
+                        $('#password_reset_form').hide();
                     }
 
                 });
@@ -128,7 +140,44 @@
                 if ($('#cs_filter')) {
                     $('#cs_filter').focus();
                 }
-            });
+                
+                /*$( ".cheat_sheet_output_column_1, .cheat_sheet_output_column_2, .cheat_sheet_output_column_3" ).sortable({
+                    connectWith: ".cheat_sheet_output_sortable",
+                    stop: function(event, ui) { setCsOrder(); }
+                }).disableSelection();*/
+
+                // If login failed, open login popup
+                            });
+
+            function setCsOrder() {
+                var csOrder = {
+                    'cheat_sheet_id': cheat_sheet_id,
+                    'cs1': [],
+                    'cs2': [],
+                    'cs3': []
+                };
+                // Get column 1
+                $('.cheat_sheet_output_column_1 .cheat_sheet_output_wrapper').each(function() {
+                    var blockId = $(this).attr('id');
+                    blockId = blockId.substring(6);
+                    csOrder.cs1.push(blockId);
+                });
+                $('.cheat_sheet_output_column_2 .cheat_sheet_output_wrapper').each(function() {
+                    var blockId = $(this).attr('id');
+                    blockId = blockId.substring(6);
+                    csOrder.cs2.push(blockId);
+                });
+                $('.cheat_sheet_output_column_3 .cheat_sheet_output_wrapper').each(function() {
+                    var blockId = $(this).attr('id');
+                    blockId = blockId.substring(6);
+                    csOrder.cs3.push(blockId);
+                });
+                // Awesome. Got the list of block IDs, by column, for this cheat sheet. Send it to PHP.
+                $.post('/ajax.php?action=reorder_cheat_sheet', csOrder, function(data) {
+                    
+                });
+
+            }
 
             function replyTo(reply_comment_id, thread) {
                 if (reply_comment_id == 0) {
@@ -156,6 +205,7 @@
         //--></script>
 
         
+        
     </head>
 
 <body>
@@ -173,16 +223,29 @@
         </form>
         <ul>
             <li><a href="/">Home</a></li>
+            <li><a href="/explore/">Topics</a>
+                <ul>
+                    <li><a href="/home-garden-and-lifestyle/">Home, Garden and Lifestyle</a></li>
+                    <li><a href="/office-business-and-technology/">Office, Business and Technology</a></li>
+                    <li><a href="/travel-culture-and-language/">Travel, Culture and Language</a></li>
+                    <li><a href="/hobbies-games-and-leisure/">Hobbies, Games and Leisure</a></li>
+                </ul>
+            </li>
             <li><a href="/explore/">Cheat Sheets</a>
                 <ul>
                     <li><a href="/explore/top/">Top Cheat Sheets</a></li>
                     <li><a href="/explore/new/">By Date</a></li>
                     <li><a href="/explore/popular/">By Popularity</a></li>
-                    <li><a href="/explore/tags/">Tags</a></li>
+                    <li><a href="/explore/tags/">By Tag</a></li>
+                    <li><a href="/explore/downloads/">Recently Downloaded</a></li>
+                    <li><a href="/external/">Elsewhere (Links)</a></li>
                 </ul>
             </li>
             <li><a href="/create/">Create</a>
-                            </li>
+                <ul>
+                    <li><a href="/requests/">Cheat Sheet Requests</a></li>
+                                    </ul>
+            </li>
             <li><a href="/members/">Members</a></li>
             <li><a href="/blog/">Blog</a></li>
             <li class="last on"><a href="/help/">Help</a></li>
@@ -193,38 +256,61 @@
     </div></div><!-- /header -->
 
     <div id="content"><div id="content_inner">
-        <div style="line-height: 32px; padding: 10px 20px; margin: 0; border-bottom: 1px solid #E0E4CC; background: #F0F2E6;">
+        <div id="user_bar" class="user_bar">
                             <span style="float: right;"><a href="#login_popup" class="imagelink login_popup"><img style="vertical-align: middle;" src="/images/login.png" alt="Login"></a> &nbsp; or &nbsp; <a href="/members/register/" class="imagelink"><img style="vertical-align: middle;" src="/images/register.png" alt="Register"></a></span>
-                <strong><a href="#login_popup" class="login_popup">Login</a> or <a href="/members/register/">Register</a> today</strong> to make and share your own cheat sheets!
+                <strong><a href="#login_popup" class="login_popup" id="login_trigger">Login</a> or <a href="/members/register/">Register</a> today</strong>
+                to make and share your own cheat sheets! 
+                <!--<a href="/blog/competition-time-cheatographer-enrich-thyself/"><strong>Win $100</strong> for making a cheat sheet in January!</a>-->
+                (<a href="#why_join" class="inline">Why Join?</a>)
+
+                <!-- to make and share your own cheat sheets!-->
             
 
             <div style="display: none;">
                 <div id="login_popup" style="width: 600px;">
                     <div class="block_wrapper" style="margin: 0; background: url('/images/cccccc.png') 50% 0 repeat-y;">
                         <div class="left_block">
-                            <h2 style="margin: 8px;">Cheatography Login</h2>
-                            <form action="" method="POST" id="sidebar_form"><input type="hidden" name="action" value="login">
-                                <fieldset>
-                                    <div class="sidebar_box" style="padding-bottom: 0;">
-                                        <div class="sidebar_box_row">
-                                            <label for="sidebar_username">Username</label>
-                                            <input type="text" class="with_width" name="sidebar_username" id="sidebar_username">
+                            <div id="login_form">
+                                <h2 style="margin: 8px;">Cheatography Login</h2>
+                                                                <form action="" method="POST" id="sidebar_form"><input type="hidden" name="action" value="login">
+                                    <fieldset>
+                                        <div class="sidebar_box" style="padding-bottom: 0;">
+                                            <div class="sidebar_box_row">
+                                                <label for="sidebar_username">Username</label>
+                                                <input type="text" class="with_width" name="sidebar_username" id="sidebar_username" value="">
+                                            </div>
+                                            <div class="sidebar_box_row">
+                                                <label for="sidebar_password">Password</label>
+                                                <input type="password" class="with_width" name="sidebar_password" id="sidebar_password">
+                                            </div>
+                                            <!--<div class="sidebar_box_row">
+                                                <label for="sidebar_remember">Remember&nbsp;Me</label>
+                                                <input type="checkbox" checked name="sidebar_remember" id="sidebar_remember">
+                                            </div>-->
+                                            <div class="sidebar_box_row">
+                                                <button id="login_button" type="submit"><div><span><strong>Login</strong> to your account</span></div></button>
+                                                <p style="margin: 10px 0 0 100px;"><a href="#" onclick="$('#login_form').hide(); $('#password_reset_form').show(); return false;">Forgotten your password?</a></p>
+                                            </div>
                                         </div>
-                                        <div class="sidebar_box_row">
-                                            <label for="sidebar_password">Password</label>
-                                            <input type="password" class="with_width" name="sidebar_password" id="sidebar_password">
+                                    </fieldset>
+                                </form>
+                            </div>
+                            <div id="password_reset_form" style="display: none;">
+                                <h2 style="margin: 8px;">Password Reset</h2>
+                                <form action="" method="POST" id="sidebar_form"><input type="hidden" name="action" value="new_password">
+                                    <fieldset>
+                                        <div class="sidebar_box">
+                                            <div class="sidebar_box_row">
+                                                <label for="sidebar_username">Email or Username</label>
+                                                <input type="text" class="with_width" name="sidebar_username" id="sidebar_username">
+                                            </div>
+                                            <div class="sidebar_box_row">
+                                                <button id="login_button" type="submit"><div><span><strong>Reset</strong> password</span></div></button>
+                                            </div>
                                         </div>
-                                        <!--<div class="sidebar_box_row">
-                                            <label for="sidebar_remember">Remember&nbsp;Me</label>
-                                            <input type="checkbox" checked name="sidebar_remember" id="sidebar_remember">
-                                        </div>-->
-                                        <div class="sidebar_box_row">
-                                            <button id="login_button" type="submit"><div><span><strong>Login</strong> to your account</span></div></button>
-                                            <p style="margin: 10px 0 0 100px;"><a href="?password_reset=true">Forgotten your password?</a></p>
-                                        </div>
-                                    </div>
-                                </fieldset>
-                            </form>
+                                    </fieldset>
+                                </form>
+                            </div>
 
                             <h2 style="margin: 0 8px 8px 8px;">Join Us!</h2>
                             <p>Not a Cheatographer? <a href="/members/register/">Register here</a>!</p>
@@ -237,6 +323,24 @@
                             <p style="text-align: center;"><a class="imagelink" href="/twitter/"><img class="twitter_button" width="150" height="22" src="/images/blank.gif"></a></p>
                         </div>
                         <div class="clear"></div>
+                    </div>
+                </div>
+                <div id="why_join">
+                    <h2 style="margin: 8px 0;">Why Join Cheatography?</h2>
+                    <div style="margin: 0 8px;">
+                        <p><strong>Make and share cheat sheets!</strong><br>Join a great community of Cheatographers and add your very own contributions.</p>
+                        <p><strong>Save your favourites!</strong><br>Quick access to your most loved cheat sheets.</p>
+                        <p><strong>Fewer ads!</strong><br>Members see no ads on the site.</p>
+                        <p><strong>Coming soon ...</strong><br>Requests, ratings and more!</p>
+                    </div>
+                </div>
+                <div id="download_popup">
+                    <h2 style="margin: 8px 0;">Why Join Cheatography?</h2>
+                    <div style="margin: 0 8px;">
+                        <p><strong>Make and share cheat sheets!</strong><br>Join a great community of Cheatographers and add your very own contributions.</p>
+                        <p><strong>Save your favourites!</strong><br>Quick access to your most loved cheat sheets.</p>
+                        <p><strong>Fewer ads!</strong><br>Members see no ads on the site.</p>
+                        <p><strong>Coming soon ...</strong><br>Requests, ratings and more!</p>
                     </div>
                 </div>
             </div>
@@ -255,93 +359,60 @@
             
                     <div id="sidebar" class="sidebar"><div id="sidebar_inner"><!-- help --><div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>Cheatography?</h4></div>
-    <div class="sidebar_box_row">Cheatography is a collection of cheat sheets and quick references for everything from history to art. <a href="/about/">Find out more</a>.</div>
-</div>
-
-<div class="sidebar_box">
-    <div class="sidebar_box_first_row"><h4>Work in progress!</h4></div>
+    <div class="sidebar_box_row">Cheatography is a collection of 99 cheat sheets and quick references for everything from travel to science, like the <a href="/danielschmitz/cheat-sheets/jquery-mobile/">jQuery Mobile Cheat Sheet</a>. <a href="/about/">Find out more</a>.</div>
     <div class="sidebar_box_row">Cheatography is in beta while we iron out the last few bugs. Please <a href="http://getsatisfaction.com/cheatography">get in touch</a> with any ideas, suggestions or problems!</div>
 </div>
 
-
-<!-- /web/www.cheatography.com/cache/6dc87eb53e6da6ddb3cff0e16dac0686.cache -->
-<form action="" method="POST" id="sidebar_form"><input type="hidden" name="action" value="login">
-    <fieldset>
-        <div class="sidebar_box">
-            <div class="sidebar_box_first_row"><h4>Login or Register</h4></div>
-
-                <div class="sidebar_box_row sidebar_login_buttons">
-                    <a class="imagelink" href="/facebook/"><img class="facebook_button" width="150" height="22" src="/images/blank.gif"></a><br>
-                    <a class="imagelink" href="/twitter/"><img class="twitter_button" width="150" height="22" src="/images/blank.gif"></a>
-                </div>
-
-            <div class="sidebar_box_row">Not a Cheatographer? <a href="/members/register/">Register here</a>!</div><div class="sidebar_box_row">
-                <label for="sidebar_username">Username</label>
-                <input type="text" class="with_width" name="sidebar_username" id="sidebar_username">
-            </div>
-            <div class="sidebar_box_row">
-                <label for="sidebar_password">Password</label>
-                <input type="password" class="with_width" name="sidebar_password" id="sidebar_password">
-            </div>
-            <!--<div class="sidebar_box_row">
-                <label for="sidebar_remember">Remember&nbsp;Me</label>
-                <input type="checkbox" checked name="sidebar_remember" id="sidebar_remember">
-            </div>-->
-            <div class="sidebar_box_row">
-                <button id="login_button" type="submit"><div><span><strong>Login</strong> to your account</span></div></button>
-            </div>
-            <div class="sidebar_box_row">
-                <a href="/privacy/?password_reset=true">Forgotten your password?</a>
-            </div>
-        </div>
-    </fieldset>
-</form>
-
-<div class="sidebar_box">
+<!-- /web/www.cheatography.com/cache/6dc87eb53e6da6ddb3cff0e16dac0686.cache --><div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>Recent Activity</h4></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="monsieur-h/"><img src="http://www.gravatar.com/avatar/c8dd616334cde2c9e88df7b2bf711784?d=http%3A%2F%2Frobohash.org%2Fc8dd616334cde2c9e88df7b2bf711784%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="monsieur_h"></a> <a href="monsieur-h/" class="user_hover">monsieur_h</a> updated <a href="/monsieur-h/content/compilateur-variables/">Compilateur - Variables</a>. <span class="sidebar_event_date">08:54</span></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="xsultan/"><img src="http://www.gravatar.com/avatar/f39f8b1f93b0148fcbc75a5fed6be6fa?d=http%3A%2F%2Frobohash.org%2Ff39f8b1f93b0148fcbc75a5fed6be6fa%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="xsultan"></a> <a href="xsultan/" class="user_hover">xsultan</a> created <a href="/xsultan/content/functions/">Functions()</a>. <span class="sidebar_event_date">20:20</span></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="gissehel/"><img src="http://www.gravatar.com/avatar/8baecaad78100760d4eb9db3f8223024?d=http%3A%2F%2Frobohash.org%2F8baecaad78100760d4eb9db3f8223024%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="gissehel"></a> <a href="gissehel/" class="user_hover">gissehel</a> updated <a href="/gissehel/content/split-screen/">Split screen</a>. <span class="sidebar_event_date">09:58</span></div>
-            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="cgingerich/"><img src="http://www.gravatar.com/avatar/c41d3d5f6c94179bddf89881f1cc29d3?d=http%3A%2F%2Frobohash.org%2Fc41d3d5f6c94179bddf89881f1cc29d3%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="cgingerich"></a> <a href="cgingerich/" class="user_hover">cgingerich</a> updated <a href="/cgingerich/content/bitmap/">Bitmap</a>. <span class="sidebar_event_date">22:03</span></div>
-            <div class="sidebar_box_row sidebar_box_last_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="cartographer/"><img src="http://www.gravatar.com/avatar/1c01c83265a15eb07ad2b01dc989942a?d=http%3A%2F%2Frobohash.org%2F1c01c83265a15eb07ad2b01dc989942a%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="cartographer"></a> <a href="cartographer/" class="user_hover">cartographer</a> updated <a href="/cartographer/cheat-sheets/test/">Test</a>. <span class="sidebar_event_date">11:07</span></div>
-    </div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="bkristensen/"><img class="gravatar" src="http://www.gravatar.com/avatar/2d7756b69a9ede86e7dc6b4ac7f85a3a?d=http%3A%2F%2Fgraph.facebook.com%2F650139276%2Fpicture%3Fsize%3Dsquare&amp;s=32" width="32" height="32" alt="bkristensen"></a> <a href="bkristensen/" class="user_hover">bkristensen</a> requested <a href="/requests/umbraco/">Umbraco</a>. <span class="sidebar_event_date">4 hours 22 mins ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="mishin/"><img class="gravatar" src="http://www.gravatar.com/avatar/fc47e34663f359d08fdffd03098b0149?d=http%3A%2F%2Fgraph.facebook.com%2F1432238474%2Fpicture%3Fsize%3Dsquare&amp;s=32" width="32" height="32" alt="mishin"></a> <a href="mishin/" class="user_hover">mishin</a> updated <a href="/mishin/content/present-continuous-example/">PRESENT CONTINUOUS Example</a>. <span class="sidebar_event_date">7 hours 13 mins ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="example42/"><img class="gravatar" src="http://www.gravatar.com/avatar/d816998c307a07ebd9e533f6d0fbaeb8?d=http%3A%2F%2Frobohash.org%2Fd816998c307a07ebd9e533f6d0fbaeb8%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="example42"></a> <a href="example42/" class="user_hover">example42</a> updated <a href="/example42/content/editing-sublime-text-2/">Editing - Sublime Text 2</a>. <span class="sidebar_event_date">21 hours 56 mins ago</span></div>
+            <div class="sidebar_box_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="evropi/"><img class="gravatar" src="http://www.gravatar.com/avatar/a7f1529299c8fb9a263b8e8afcab23da?d=http%3A%2F%2Frobohash.org%2Fa7f1529299c8fb9a263b8e8afcab23da%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="Evropi"></a> <a href="evropi/" class="user_hover">Evropi</a> requested <a href="/requests/dwarf-fortress/">Dwarf Fortress</a>. <span class="sidebar_event_date">6 days 22 hours ago</span></div>
+            <div class="sidebar_box_row sidebar_box_last_row"><a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="dan-schmidt/"><img class="gravatar" src="http://www.gravatar.com/avatar/3f64840de0858bc38f6cc77544cdffbc?d=http%3A%2F%2Ftwitter.com%2Fapi%2Fusers%2Fprofile_image%2FDanSchmidt_1984%3Fsize%3Dbigger&amp;s=32" width="32" height="32" alt="dan_schmidt"></a> <a href="dan-schmidt/" class="user_hover">dan_schmidt</a> updated <a href="/dan-schmidt/content/type-function-return-values/">type() Function Return Values</a>. <span class="sidebar_event_date">2 weeks 6 days ago</span></div>
+        <div class="clear"></div>
+</div>
 
 
-<!-- /web/www.cheatography.com/cache/a98ac7058754245fdf9056fa700ef6d5.cache --><div class="sidebar_box">
+<!-- /web/www.cheatography.com/cache/a98ac7058754245fdf9056fa700ef6d5.cache --><div class="sidebar_box" id="latest_comments">
     <div class="sidebar_box_first_row"><h4>Latest Comments</h4></div>
             <div class="sidebar_box_row">
-                    <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="wattslevi/"><img src="http://www.gravatar.com/avatar/08639fddc53d40a81011425d270e38e0?d=http%3A%2F%2Frobohash.org%2F08639fddc53d40a81011425d270e38e0%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="wattslevi"></a>
-            <a href="wattslevi/" class="user_hover">wattslevi</a>
-                commented on
-                    <a href="/fredv/" class="user_hover">fredv</a>
-        
-        <span class="sidebar_event_date">07:02</span></div>
+                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="mishin/"><img class="gravatar" src="http://www.gravatar.com/avatar/fc47e34663f359d08fdffd03098b0149?d=http%3A%2F%2Fgraph.facebook.com%2F1432238474%2Fpicture%3Fsize%3Dsquare&amp;s=32" width="32" height="32" alt="mishin"></a>
+                <a href="mishin/" class="user_hover">mishin</a>
+                        commented on
+                            <a href="/ericg/cheat-sheets/vi-editor/">VI Editor</a>
+            
+            <span class="sidebar_event_date">1 day 5 hours ago</span>
+        </div>
             <div class="sidebar_box_row">
-                    <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="spaceduck/"><img src="http://www.gravatar.com/avatar/e5f4dc698559e9cdd546c749924c2342?d=http%3A%2F%2Frobohash.org%2Fe5f4dc698559e9cdd546c749924c2342%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="SpaceDuck"></a>
-            <a href="spaceduck/" class="user_hover">SpaceDuck</a>
-                commented on
-                    <a href="/spaceduck/cheat-sheets/classic-cocktails/">Classic Cocktails</a>
-        
-        <span class="sidebar_event_date">14:38</span></div>
+                            <img class="gravatar" style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/02a89748562815360c941dc8e742dc3c?d=http%3A%2F%2Frobohash.org%2F02a89748562815360c941dc8e742dc3c%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="Ben23">
+                Ben23                        commented on
+                            <a href="/i3quest/cheat-sheets/jquery/">jQuery</a>
+            
+            <span class="sidebar_event_date">6 hours 46 mins ago</span>
+        </div>
             <div class="sidebar_box_row">
-                    <img style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/4cac8265e32b458d4b629ded6a018e14?d=http%3A%2F%2Frobohash.org%2F4cac8265e32b458d4b629ded6a018e14%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="Anan">
-            Anan                commented on
-                    <a href="/davechild/cheat-sheets/php/">PHP</a>
-        
-        <span class="sidebar_event_date">12:17</span></div>
+                            <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="mishin/"><img class="gravatar" src="http://www.gravatar.com/avatar/fc47e34663f359d08fdffd03098b0149?d=http%3A%2F%2Fgraph.facebook.com%2F1432238474%2Fpicture%3Fsize%3Dsquare&amp;s=32" width="32" height="32" alt="mishin"></a>
+                <a href="mishin/" class="user_hover">mishin</a>
+                        commented on
+                            <a href="/davechild/cheat-sheets/wikipedia/">Wikipedia</a>
+            
+            <span class="sidebar_event_date">1 week ago</span>
+        </div>
             <div class="sidebar_box_row">
-                    <img style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/151a32d6ee97f196a389b47be3b72046?d=http%3A%2F%2Frobohash.org%2F151a32d6ee97f196a389b47be3b72046%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="Drillerly">
-            Drillerly                commented on
-                    <a href="/fredv/cheat-sheets/gmail-cheat-sheet/">Gmail Cheat Sheet</a>
-        
-        <span class="sidebar_event_date">07:03</span></div>
+                            <img class="gravatar" style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/28e6f586e093d0280f93c01024da8dad?d=http%3A%2F%2Frobohash.org%2F28e6f586e093d0280f93c01024da8dad%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="Chris">
+                Chris                        commented on
+                            <a href="/davechild/cheat-sheets/regular-expressions/">Regular Expressions</a>
+            
+            <span class="sidebar_event_date">1 week ago</span>
+        </div>
             <div class="sidebar_box_row sidebar_box_last_row">
-                    <a class="imagelink" style="float: left; margin: 5px 8px 5px 0;" href="warrickball/"><img src="http://www.gravatar.com/avatar/c740542d05ae8cf23f4b53dc71e5dd96?d=http%3A%2F%2Frobohash.org%2Fc740542d05ae8cf23f4b53dc71e5dd96%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="warrickball"></a>
-            <a href="warrickball/" class="user_hover">warrickball</a>
-                commented on
-                    <a href="/spaceduck/cheat-sheets/classic-cocktails/">Classic Cocktails</a>
-        
-        <span class="sidebar_event_date">13:35</span></div>
+                            <img class="gravatar" style="float: left; margin: 5px 8px 5px 0;" src="http://www.gravatar.com/avatar/b7a87fe638a1ddae5b204b6e62c56c8b?d=http%3A%2F%2Frobohash.org%2Fb7a87fe638a1ddae5b204b6e62c56c8b%3Fsize%3D32x32%26bgset%3Dany&amp;s=32" width="32" height="32" alt="Marc">
+                Marc                        commented on
+                            <a href="/david/cheat-sheets/object-oriented-design/">Object Oriented Design</a>
+            
+            <span class="sidebar_event_date">1 week, 1 day ago</span>
+        </div>
     </div>
 
 
@@ -406,7 +477,7 @@
             <div id="footer"><div id="footer_inner">
 
                 
-                <div style="float: left; width: 290px; margin: 0 20px;">
+                <div style="float: left; width: 300px; margin: 0 20px;">
                     
     <div class="sidebar_box">
         <div class="sidebar_box_first_row"><h4>Cheatography Feeds</h4></div>
@@ -420,15 +491,15 @@
 
 
 <!-- /web/www.cheatography.com/cache/c9516da3d4c91c134fa4d1ea4ad734ac.cache -->                </div>
-                <div style="float: left; width: 290px;">
+                <div style="float: left; width: 300px;">
                     <div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>On The Blog</h4></div>
-            <div class="sidebar_box_row sidebar_box_last_row"><a href="/blog/november-review/">November Review</a><br>Month two in the world of Cheatography - more brilliant new cheat sheets, a host of site changes and the second member of the month!<br><em>Posted on 3 December</em>.</div>
+            <div class="sidebar_box_row sidebar_box_last_row"><a href="/blog/now-accepting-requests/">Now Accepting Requests!</a><br>Cheatography is now open for requests! Add your own, or support other people's requests, for cheat sheets you'd like somebody to make.<br><em>Posted on 26 February</em>.</div>
     </div>
 
 
 <!-- /web/www.cheatography.com/cache/5782f0da8e94446b5194b32ea3203ced.cache -->                </div>
-                <div style="float: right; width: 290px; margin-right: 20px;">
+                <div style="float: right; width: 300px; margin-right: 20px;">
                     <div class="sidebar_box">
     <div class="sidebar_box_first_row"><h4>License and Permissions</h4></div>
     <div class="sidebar_box_row">All cheat sheets and the textual content on them is released under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/">Creative Commons License</a>.</div>
@@ -438,7 +509,7 @@
 <!-- /web/www.cheatography.com/cache/f8907c0fd88808056c552e1060117bb3.cache -->                </div>
                 <div class="clear"></div>
                 <div style="text-align: center;">
-                    © 2011  Cheatography.com &nbsp; | &nbsp; <a href="/terms-and-conditions/">Terms</a> and <a href="/privacy/">Privacy</a> &nbsp; | &nbsp; Site by <a href="http://www.addedbytes.com/">Dave Child</a>.
+                    © 2011  - 2012 Cheatography.com &nbsp; | &nbsp; <a href="/terms-and-conditions/">Terms</a> and <a href="/privacy/">Privacy</a> &nbsp; | &nbsp; Site by <a href="http://www.addedbytes.com/">Dave Child</a>.
                 </div>
                 <div class="clear"></div>
             </div></div>
@@ -463,30 +534,26 @@
 
     </script>
 
-    <script type="text/javascript" charset="utf-8">
-        var is_ssl = ("https:" == document.location.protocol);
-        var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-        document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+    
+        <script type="text/javascript" charset="utf-8">
+            var is_ssl = ("https:" == document.location.protocol);
+            var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+            document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
 
-    <script type="text/javascript" charset="utf-8">
-        var feedback_widget_options = {};
+        <script type="text/javascript" charset="utf-8">
+            var feedback_widget_options = {};
 
-        feedback_widget_options.display = "overlay";
-        feedback_widget_options.company = "cheatography";
-        feedback_widget_options.placement = "right";
-        feedback_widget_options.color = "#333";
-        feedback_widget_options.style = "idea";
+            feedback_widget_options.display = "overlay";
+            feedback_widget_options.company = "cheatography";
+            feedback_widget_options.placement = "right";
+            feedback_widget_options.color = "#333";
+            feedback_widget_options.style = "idea";
 
-        var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-    </script>
+            var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+        </script>
 
-    <script type="text/javascript">
-        var sauce_client = 2;
-        var host_protocol = (document.location.protocol == 'https:') ? 'https' : 'http';
-        document.write(unescape('%3Cscript src="' + host_protocol + '://www.addedbytes.com/tracker/tracker.js.php" type="text/javascript"%3E%3C/script%3E'));
-    </script><script src="https://www.addedbytes.com/tracker/tracker.js.php" type="text/javascript"></script>
-
+    
 
 
 </body></html>
