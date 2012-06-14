@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217015744id_/http%3A//www.1shoppingcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614213930id_/http%3A//www.1shoppingcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 1ShoppingCart.com - 1ShoppingCart.com
 
