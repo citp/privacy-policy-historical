@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcrowd.com privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031075419id_/http%3A//www.designcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcrowd.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614030913id_/http%3A//www.designcrowd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignCrowd
 
