@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memwg.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210010908id_/http%3A//www.memwg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memwg.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615001239id_/http%3A//www.memwg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
