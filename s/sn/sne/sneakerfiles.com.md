@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerfiles.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225014518id_/http%3A//www.sneakerfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerfiles.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614214220id_/http%3A//www.sneakerfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SneakerFiles
 
