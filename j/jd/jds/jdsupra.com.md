@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121112006id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614020556id_/http%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # JD Supra
+
+[](https://web.archive.org/)
 
 ## Last updated: March 31, 2010:
 
@@ -39,3 +41,7 @@ We reserve the right to change this Policy at any time. Please refer to the date
 ## Contacting JD Supra
 
 If you have any questions about this privacy statement, the practices of this site, your dealings with this Web site, or if you would like to change any of the information you have provided to us, please contact us at: [info@jdsupra.com](mailto:info@jdsupra.com). 
+
+JD Supra gets your content noticed, increases your visibility and makes your marketing efforts hassle free...
+
+[Learn More](https://web.archive.org/legal-marketing/)  or  [Schedule a demo](https://web.archive.org/legal-marketing/)
