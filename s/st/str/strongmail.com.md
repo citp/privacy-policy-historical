@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204162634id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614222941id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Social Media & Email Marketing Company Privacy Policy | StrongMail
 
