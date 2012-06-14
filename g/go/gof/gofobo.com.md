@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143339id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614094629id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.*
 
-# gofobo Privacy Policy | gofobo
+# gofobo Privacy Policy | Gofobo
 
 Welcome to gofobo, an online community for movie fans to interact with movies through advance movie screenings, promotions, contests, sweepstakes and special events.
 
@@ -8,9 +8,15 @@ Welcome to gofobo, an online community for movie fans to interact with movies th
 At gofobo, we take your privacy seriously. Our site may request users to provide contact, demographic and/or personal information (such as their name, location, gender, age and e-mail address). The demographic information is used to enhance user experience so we can be more content-specific. The contact information is used to notify users of new content and for surveys and newsletters, via e-mail. Personal information that is collected is used primarily for in-house statistics, advertising and marketing information. Gofobo collects the users' ZIP codes to provide specific theatre and event demographics in their areas.
 
 * **Use of Information.**  
-We will display your personal information on your profile and elsewhere on the site, according to the preferences you set in your account, where it may be seen by other members or nonmembers. Members' full names are never directly revealed to other members. As with any online service, we encourage users to think carefully about what personal information they will disclose on their profile.
 
-We may use your information, such as your age, ZIP code or IP address, to statistically analyze site usage and customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. We may provide informational reports with our business partners who are involved with providing free content to gofobo members. We may provide information to other businesses with which we partner or which we carefully select to offer you products, services and promotions through our Web site or offline.
+
+We will display your personal information on your profile and elsewhere on the site, according to the preferences you set in your account, where may be seen by other members or nonmembers. Members' full names are never directly revealed to other members. As with any online service, we encourage users to think carefully about what personal information they will disclose on their profile.
+
+We may use your information, such as your age, ZIP code or IP address, in aggregate form to statistically analyze site usage and customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. We may provide informational reports with our business partners who are involved with providing free content to gofobo members.
+
+If you elect to OPT-IN to receive additional promotional information from gofobo during the registration process, we may provide your personally identifiable information to other businesses, companies and organizations with which we partner or which we carefully select to offer you products, services and promotions through our Web site or offline.
+
+Also, if you elect to OPT-IN to participate in any sweepstakes, surveys, questionnaires or other events during your visit to our Web site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to elect to OPT-IN to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties.
 
 Finally, we will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect the rights and property of gofobo, its affiliates or the public.
 
