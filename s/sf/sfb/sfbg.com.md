@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614082731id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614111123id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy/Comment Policy | San Francisco Bay Guardian
-
-Last Updated on March 1, 2010
+# Privacy/Comment Policy | SF Bay Guardian
 
 This Privacy Policy discloses the privacy practices for The San Francisco Bay Guardian newspaper and sfbg.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Guardian" include sfbg.com and The San Francisco Bay Guardian newspaper.
 
@@ -29,4 +27,4 @@ For any questions or comments regarding our information or security practices, y
 
 **COMMENT POLICY**
 
-Under the Digital Millennium Copyright Act, comments are the sole responsibility of the individual commenters. SFBG reserves the right to delete any comments that include hate speech, libel, plagiarism, threats, or off-topic assertions and inappropriate language in order to protect the integrity of the site and its users. We do not edit comments for content.  
+Under the Digital Millennium Copyright Act, comments are the sole responsibility of the individual commenters. SFBG reserves the right to delete any comments that include hate speech, libel, plagiarism, threats, personal attacks or off-topic assertions, and inappropriate language in order to protect the integrity of the site and its users. We do not edit comments for content.  
