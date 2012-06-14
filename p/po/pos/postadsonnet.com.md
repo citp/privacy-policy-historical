@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postadsonnet.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109001718id_/http%3A//www.postadsonnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsonnet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614195606id_/http%3A//www.postadsonnet.com/privacy.php) for the most accurate reproduction.*
 
-# Free Classified ads, classified ads, classifieds - PostAdsOnNet
+# Free Classified Sites - PostAdsOnNet
 
 Please read the following policy to understand how your personal information will be treated. This policy may change from time to time in order to address new issues and reflect changes on our site so please check back periodically. By using this service after we post changes, you indicate your acceptance to those changes.
 
@@ -26,7 +26,7 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
 
-Finally, postadsonnet.com may provide personal information to the extent necessary to comply with applicable laws, police investigations, or in legal proceedings where such information is relevant. We may also disclose account information in cases where we have reason to believe that disclosing this information is necessary to identify, contact or investigate or bring legal action against someone who may be violating our [User Agreement](http://www.postadsonnet.com/tou.php) or may be causing injury to or interference with our rights or property, our other website users and their rights or property, or anyone else who could be harmed by such activities.
+Finally, postadsonnet.com may provide personal information to the extent necessary to comply with applicable laws, police investigations, or in legal proceedings where such information is relevant. We may also disclose account information in cases where we have reason to believe that disclosing this information is necessary to identify, contact or investigate or bring legal action against someone who may be violating our [User Agreement](http://www.postadsonnet.com/terms.php) or may be causing injury to or interference with our rights or property, our other website users and their rights or property, or anyone else who could be harmed by such activities.
 
  **
 
@@ -58,7 +58,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact us [here](http://www.postadsonnet.com/contact/).
+Should you have other questions or concerns about these privacy policies, please contact us [here](http://www.postadsonnet.com/contact.php).
 
 **Policy Statement Changes:**
 
