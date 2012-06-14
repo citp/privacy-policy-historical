@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the zohorecruit.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220154919id_/http%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zohorecruit.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614171746id_/http%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
 
 # Zoho - Privacy Policy
 
   
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.Zoho.com&sealid=102)
 
-Last Updated: 16th April 2010   
+Last Updated: 28th December 2010
 
+## General
 
-## General 
-
-At ZOHO Corporation, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of Zoho Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website. This Privacy Policy Statement applies exclusively to [www.zoho.com](http://www.zoho.com/).
+At ZOHO Corporation, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice as regards use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of Zoho Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. In the event of a material change, we shall notify you via email or by means of a prominent notice on the website. This Privacy Policy Statement applies exclusively to [www.zoho.com](http://www.zoho.com/).
 
 ZOHO Corporation is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. As a testament of our commitment to your privacy, we have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. Please direct all your inquiries pertaining to this Privacy Policy Statement or the service to us at the contact information below.
 
 Mailing Address: 4900 Hopyard Road, Suite 310, Pleasanton, California (CA) 94588. We can be reached via e-mail at [privacy@zohocorp.com](mailto:privacy@zohocorp.com) or you can reach Zoho Customer Support Services by telephone at 888 900 9646.
 
-ZOHO Corporation adheres to the European Union Safe Harbor protocols as set forth by the United States Department of Commerce, with regards to the collection, use and storage of information governed and protected under the European Union Data Protection Act.
+ZOHO Corporation complies with the provisions of the U.S-E.U Safe Harbor framework as set forth by the United States Department of Commerce, with regards to the collection, use and storage of Personal Information received from the European Union. For more information about the U.S-E.U Safe Harbor framework kindly visit <http://export.gov/safeharbor/>.
 
 ## Children's Online Privacy Protection
 
@@ -32,7 +31,7 @@ Since we understand that you may wish not to disclose your Personal Information 
 
 
 
-> During the Registration Process for creating a user account, we request for your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Upon registration you will have the option of choosing a security question and an answer to the security question, which if given, will be used solely for the purpose of resetting your password. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement. When you elect to sign up for a user account, you also have the option to create the user account using any of the trusted third party user authentication services integrated with Zoho Services . In doing so, no Personal Information within your third party email accounts is transferred to your user account without your explicit consent.
+> During the Registration Process for creating a user account, we request for your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Upon registration you will have the option of choosing a security question and an answer to the security question, which if given, will be used solely for the purpose of resetting your password. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement. When you elect to sign up for a user account, you also have the option to create the user account using any of the trusted third party user authentication services integrated with Zoho Services. In doing so, no Personal Information within your third party email accounts is transferred to your user account without your explicit consent.
 > 
 > Zoho will have access to third party personal information provided by you as part of using Zoho Services such as contacts in your Zoho Mail account. This information may include third party names, email addresses, phone numbers and physical addresses and will be used for servicing your requirements as expressed by you to Zoho and solely as part and parcel of your use of Zoho Services. We do not share this third party personal information with anyone for promotional purposes, nor do we utilize it for any purposes not expressly consented to by you. When you elect to refer friends to the website, we request their email address and name to facilitate the request and deliver this one time email.
 > 
@@ -48,13 +47,13 @@ Since we understand that you may wish not to disclose your Personal Information 
 
 
 
-> We store and maintain files, documents, to-do lists, emails and other data stored in your user account at our facilities in the United States or any other country. Use of Zoho Services signifies your consent to such transfer of your data outside of your country. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your user account. Hence your files and data may remain on our servers even after deletion or termination of your user account. We assure you that the contents of your user account will not be disclosed to anyone and will not be accessible even to employees of Zoho except in circumstances specifically mentioned in this Privacy Policy Statement. We also do not process the contents of your user account for serving targeted advertisements.
+> We store and maintain files, documents, to-do lists, emails and other data stored in your user account at our facilities in the United States. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your user account. Hence your files and data may remain on our servers even after deletion or termination of your user account. We assure you that the contents of your user account will not be disclosed to anyone and will not be accessible even to employees of Zoho except in circumstances specifically mentioned in this Privacy Policy Statement and Terms of Services. We also do not process the contents of your user account for serving targeted advertisements.
 
   * **Financial Information**
 
 
 
-> In case of services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. Your financial information will not be stored by us except for the name and address of the card holder and the last four digits of the Credit Card number. Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement.
+> In case of services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. Your financial information will not be stored by us except for the name and address of the card holder, the expiry date and the last four digits of the Credit Card number. Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement.
 
   * **Visitor Details**
 
@@ -74,7 +73,7 @@ Some pages of our website contain external links. You are advised to verify the 
 
 ## With whom we share Information
 
-We may need to disclose Personal Information to our affiliates, service providers and business partners solely for the purpose of providing Zoho Services to you. In such cases Zoho will also ensure that such affiliates, service providers and business partners comply with this Privacy Policy Statement and adopt appropriate confidentiality and security measures. We will obtain your prior specific consent before we share or disclose your Personal Information to any person outside Zoho for any purpose that is not directly connected with providing Zoho Services to you. We may share generic aggregated demographic information not linked to any Personal Information regarding visitors and users with our business partners and advertisers. Please be aware that laws in various jurisdictions in which we operate may obligate us to disclose user information and the contents of your user account to the local law enforcement authorities under a legal process or an enforceable government request.  In addition, we may also disclose Personal Information and contents of your user account to law enforcement authorities if such disclosure is determined to be necessary by Zoho in our sole and absolute discretion for protecting the safety of our users, employees, or the general public.
+We may need to disclose Personal Information to our affiliates, service providers and business partners solely for the purpose of providing Zoho Services to you. In such cases Zoho will also ensure that such affiliates, service providers and business partners comply with this Privacy Policy Statement and adopt appropriate confidentiality and security measures. We will obtain your prior specific consent before we share or disclose your Personal Information to any person outside Zoho for any purpose that is not directly connected with providing Zoho Services to you. We may share generic aggregated demographic information not linked to any Personal Information regarding visitors and users with our business partners and advertisers. Please be aware that laws in various jurisdictions in which we operate may obligate us to disclose user information and the contents of your user account to the local law enforcement authorities under a legal process or an enforceable government request. In addition, we may also disclose Personal Information and contents of your user account to law enforcement authorities if such disclosure is determined to be necessary by Zoho in our sole and absolute discretion for protecting the safety of our users, employees, or the general public.
 
 ## **How secure is your Information**
 
@@ -94,11 +93,11 @@ We may need to provide access to your Personal Information and the contents of y
 
 ## **Enforcement of Privacy Policy**
 
-We make every effort, including periodic reviews to ensure that Personal Information provided by you is used in conformity with this Privacy Policy Statement. If you have any concerns regarding our adherence to this Privacy Policy Statement or the manner in which Personal Information is used for the purpose of providing Zoho Services, kindly contact Zoho Customer Support Services at [support@zohocorp.com](mailto:support@zohocorp.com). We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
+We make every effort, including periodic reviews to ensure that Personal Information provided by you is used in conformity with this Privacy Policy Statement. If you have any concerns regarding our adherence to this Privacy Policy Statement or the manner in which Personal Information is used for the purpose of providing Zoho Services, kindly contact Zoho Customer Support Services at [support@zohocorp.com](mailto:support@zohocorp.com) . We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
 
 ## **Notification of Changes**
 
-Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back at <http://www.zoho.com/privacy.html> periodically.
+Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back at <http://www.zoho.com/privacy.html> periodically.
 
 ## **Blogs and Forums**
 
@@ -108,6 +107,6 @@ Zoho also supports third party widgets on the website that allow users to share 
 
 ## **END OF PRIVACY POLICY**
 
-If you have any questions or concerns regarding this Privacy Policy Statement, please contact us at [legal@zohocorp.com](mailto:legal@zohocorp.com). We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity. In the event that your inquiry goes unaddressed beyond this reasonable expectation, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.zoho.com). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+If you have any questions or concerns regarding this Privacy Policy Statement, please contact us at [legal@zohocorp.com](mailto:legal@zohocorp.com) . We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity. In the event that your inquiry goes unaddressed beyond this reasonable expectation, please contact [TRUSTe ](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.zoho.com). TRUSTe shall then serve as a liaison with us to resolve your concerns.
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.Zoho.com&sealid=102)
