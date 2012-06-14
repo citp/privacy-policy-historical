@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aarons.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210164520id_/http%3A//www.aarons.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarons.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614093054id_/http%3A//www.aarons.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Aarons.com
+# Privacy Policy | Aarons.com | Lease Furniture, TVs & More
 
 Aaron's, Inc., its divisions, including Aaron's Sales and Lease Ownership, Rimco and Woodhaven Furniture Industries; its subsidiaries, Aaron's Canada, ULC and 99LTO, LLC d/b/a HomeSmart; and its holding company, Aaron Investment Company (collectively referred to in this Privacy Statement as "we," "us," or "our" ), recognize the importance of protecting the privacy of all information provided by users of http://www.aarons.com, http://www.shopaarons.com, http://aaronrents.com, http://www.shopaarons.ca, http://gorimco.com, http://aaronssports.com, http://www.aaronsfranchise.com, http://aaronsinc.com, http://www.aaronsofficefurniture.com, http://aaronsoutdoorstv.com, and any and all of their subdomains (collectively referred to in this Privacy Statement as our "website"), recipients of our advertisements and all other customers of our products and services. This Privacy Statement covers how we collect, use, disclose, transfer, and store your information in the United States and Canada. By doing business with us or by accessing or using our website, you consent to the privacy practices described in this Privacy Statement. 
 
@@ -71,7 +71,7 @@ We may share your personal information with:
   * Select third party vendors, business partners and other companies so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. Such third parties are not restricted by this Privacy Statement with respect to their use and further sharing of your personal information, and we are not responsible for their use or sharing of your information. 
   * Third parties where disclosure is appropriate to comply with the law, to enforce or apply applicable terms and conditions and other agreements, or to protect the rights, property or safety of us, our franchisees, and our customers and visitors; 
   * Credit bureaus (where permitted by law) including in accordance with the Fair Credit Reporting Act and similar provincial consumer reporting legislation where applicable; and 
-  * A third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance, or financing of all or any portion of our business, assets, or shares in order for you to continue to receive the same products and services from the third party. 
+  * A third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance, or financing of all or any portion of our business, assets, shares or accounts. 
 
 
 
@@ -144,4 +144,4 @@ Legal Department
 Atlanta, Georgia 30305  
 Attention: Privacy Officer 
 
-_Last Update: Nov 23, 2011._
+_Last Update: May 9, 2012._
