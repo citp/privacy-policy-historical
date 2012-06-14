@@ -1,202 +1,55 @@
-<!--The following is the downloaded HTML source of the wearepopslags.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121015405id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wearepopslags.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615012148id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
-<title>Privacy Policy | We Are Pop Slags</title>
+<title>
+Privacy Policy | We Are Pop Slags</title>
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">    
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="/wp-content/themes/WAPS4/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/wp-content/themes/WAPS5/style.css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/popslags">
 <meta name="author" content="Silvan Schreuder and Geraint Humphreys">
 <meta name="msvalidate.01" content="6B9DDC949DE4202DA0D2A8E0979F0C7B">
 <meta name="verify-v1" content="rozOto5brvBxMB8jmHSuCDEcsBpPdF6uqt73fUuvzPk=">
 <meta name="google-site-verification" content="sxrPm6KyLUvrbC0db5GvWq8q89EHP_xFvR5guQnIXt4"></head><body><br>
-<!--Shuffler-d6187f91ae0863a4cf412eec9648c342-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <link href="https://plus.google.com/117378933171357850650/" rel="publisher">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=78540916881"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://fast.fonts.com/jsapi/fd8046e9-e8ed-4137-b9e2-0b064ad9eec2.js"></script>
 
-<script language="javascript" type="text/javascript" src="/wp-content/themes/WAPS4/includes/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://fast.fonts.com/jsapi/fd8046e9-e8ed-4137-b9e2-0b064ad9eec2.js"></script>
-<script type="text/javascript">
-
-$(document).ready(function() {
-
-	//Default Action
-	$(".tab_content").hide(); //Hide all content
-	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
-	$(".tab_content:first").show(); //Show first tab content
-	
-	//On Click Event
-	$("ul.tabs li").click(function() {
-		$("ul.tabs li").removeClass("active"); //Remove any "active" class
-		$(this).addClass("active"); //Add "active" class to selected tab
-		$(".tab_content").hide(); //Hide all tab content
-		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
-		$(activeTab).fadeIn(); //Fade in the active content
-		return false;
-	});
-
-});
-</script>
-<script type="text/javascript">
-
-$(document).ready(function() {
-
-	//Default Action
-	$(".tab2_content").hide(); //Hide all content
-	$("ul.tabs2 li:first").addClass("active").show(); //Activate first tab
-	$(".tab2_content:first").show(); //Show first tab content
-	
-	//On Click Event
-	$("ul.tabs2 li").click(function() {
-		$("ul.tabs2 li").removeClass("active"); //Remove any "active" class
-		$(this).addClass("active"); //Add "active" class to selected tab
-		$(".tab2_content").hide(); //Hide all tab content
-		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
-		$(activeTab).fadeIn(); //Fade in the active content
-		return false;
-	});
-
-});
-</script>   
-
-<!-- slider
-<script src="/wp-content/themes/WAPS4/includes/js/jquery.js" type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-
-(function () {
-    $.fn.infiniteCarousel = function () {
-        function repeat(str, n) {
-            return new Array( n + 1 ).join(str);
-        }
-        
-        return this.each(function () {
-            // magic!
-            var $wrapper = $('> div', this).css('overflow', 'hidden'),
-                $slider = $wrapper.find('> ul').width(9999),
-                $items = $slider.find('> li'),
-                $single = $items.filter(':first')
-                
-                singleWidth = $single.outerWidth(),
-                visible = Math.ceil($wrapper.innerWidth() / singleWidth),
-                currentPage = 1,
-                pages = Math.ceil($items.length / visible);
-                
-            /* TASKS */
-            
-            // 1. pad the pages with empty element if required
-            if ($items.length % visible != 0) {
-                // pad
-                $slider.append(repeat('<li class="empty" />', visible - ($items.length % visible)));
-                $items = $slider.find('> li');
-            }
-            
-            // 2. create the carousel padding on left and right (cloned)
-            $items.filter(':first').before($items.slice(-visible).clone().addClass('cloned'));
-            $items.filter(':last').after($items.slice(0, visible).clone().addClass('cloned'));
-            $items = $slider.find('> li');
-            
-            // 3. reset scroll
-            $wrapper.scrollLeft(singleWidth * visible);
-            
-            // 4. paging function
-            function gotoPage(page) {
-                var dir = page < currentPage ? -1 : 1,
-                    n = Math.abs(currentPage - page),
-                    left = singleWidth * dir * visible * n;
-                
-                $wrapper.filter(':not(:animated)').animate({
-                    scrollLeft : '+=' + left
-                }, 1500, function () {
-                    // if page == last page - then reset position
-                    if (page > pages) {
-                        $wrapper.scrollLeft(singleWidth * visible);
-                        page = 1;
-                    } else if (page == 0) {
-                        page = pages;
-                        $wrapper.scrollLeft(singleWidth * visible * pages);
-                    }
-                    
-                    currentPage = page;
-                });
-            }
-            
-            // 5. insert the back and forward link
-            $wrapper.after('<a href="#" class="arrow back"></a><a href="#" class="arrow forward"></a>');
-            
-            // 6. bind the back and forward links
-            $('a.back', this).click(function () {
-                gotoPage(currentPage - 1);
-                return false;
-            });
-            
-            $('a.forward', this).click(function () {
-                gotoPage(currentPage + 1);
-                return false;
-            });
-            
-            $(this).bind('goto', function (event, page) {
-                gotoPage(page);
-            });
-            
-            // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
-            $(this).bind('next', function () {
-                gotoPage(currentPage + 1);
-            });
-        });
-    };
-})(jQuery);
-
-$(document).ready(function () {
-    // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
-    var autoscrolling = true;
-    
-    $('.infiniteCarousel').infiniteCarousel().mouseover(function () {
-        autoscrolling = false;
-    }).mouseout(function () {
-        autoscrolling = true;
-    });
-    
-    setInterval(function () {
-        if (autoscrolling) {
-            $('.infiniteCarousel').trigger('next');
-        }
-    }, 5000);
-});
-
-
-</script>
-<!-- end slider -->
-
-<!--[if IE 6]>
-<script type="text/javascript" src="/wp-content/themes/WAPS4/includes/js/pngfix.js"></script>
-<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/WAPS4/css/ie6.css" />
-<![endif]-->	
-
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/WAPS4/css/ie7.css" />
-<![endif]-->
-
+<!--FB meta-->
+  <meta property="og:title" content="Privacy Policy">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://www.wearepopslags.com/privacy-policy/"> <!-- put your site URL here -->
+  <meta property="og:site_name" content="We Are Pop Slags">
+  <meta property="fb:app_id" content="78540916881"> <!-- Replace app id with your own-->
+<!--end of FB meta-->
+ 
 <!--[if IE]>
    <style type="text/css">
-   .box-frontpage, #promo_MPU,#promo_TB, #wp-email-popup, #siteinfo, #footer, .communityticker, .greet_block,.archive_header,.box, .archive_description, .box-search,.postsingle, .more_entries a,.infiniteCarousel,.more_entries .wp-pagenavi a:visited,#tabs,#video ul.wooTabs li,#comments,#respond, .widget, html ul.tabs li.active, html ul.tabs li.active a:hover, html ul.tabs2 li.active, html ul.tabs2 li.active a:hover, .tab_container, .tab2_container {
+   .box-frontpage, #promo_MPU,#promo_TB, #wp-email-popup, #siteinfo, #footer, .communityticker, .greet_block,.archive_header,.box, .archive_description, #commentsfb, .box-search,.postsingle, .more_entries a,.infiniteCarousel,.more_entries .wp-pagenavi a:visited,#tabs,#video ul.wooTabs li,#comments,#respond, .widget, html ul.tabs li.active, html ul.tabs li.active a:hover, html ul.tabs2 li.active, html ul.tabs2 li.active a:hover, .tab_container, .tab2_container {
        background:transparent;
        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#c0000000,endColorstr=#c0000000);
        zoom: 1;
     } 
+
     </style>
 <![endif]-->
-   
+
 <script type="text/javascript">
 	window.google_analytics_uacct = "UA-2458537-1";
 </script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.1.9 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="We are committed to protecting your personal privacy. This Privacy Policy explains our policies on privacy. If you have any requests or queries at any time">
+<link rel="canonical" href="http://www.wearepopslags.com/privacy-policy/">
+<!-- / Yoast WordPress SEO plugin. -->
+
 				
 	<script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.2.2 | http://yoast.com/wordpress/google-analytics/
+	// Google Analytics for WordPress by Yoast v4.2.3 | http://yoast.com/wordpress/google-analytics/
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount','UA-2458537-1']);
-</script><script src="http://www.wearepopslags.com/wp-content/plugins/google-analytics-for-wordpress/custom_se_async.js" type="text/javascript"></script>
-<script type="text/javascript">	_gaq.push(['_setCustomVar',2,'year','2009',3],['_trackPageview'],['_trackPageLoadTime']);
+</script><script src="http://cdn.wearepopslags.com/wp-content/plugins/google-analytics-for-wordpress/custom_se_async.js" type="text/javascript"></script>
+<script type="text/javascript">	_gaq.push(['_setCustomVar',2,'year','2009',3],['_trackPageview']);
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -204,80 +57,55 @@ $(document).ready(function () {
 	})();
 	//]]></script>
 <link rel="alternate" type="application/rss+xml" title="We Are Pop Slags » Privacy Policy Comments Feed" href="http://www.wearepopslags.com/privacy-policy/feed/">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.wearepopslags.com/wp-content/plugins/contact-form-7/styles.css?ver=3.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.wearepopslags.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-includes/js/swfobject.js?ver=2.2"></script>
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=3.2.1"></script>
+<link rel="stylesheet" id="contact-form-7-css" href="http://cdn.wearepopslags.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://cdn.wearepopslags.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://cdn.wearepopslags.com/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://cdn.wearepopslags.com/wp-content/plugins/sharebar/js/sharebar.js?ver=3.3.2"></script>
+<script type="text/javascript" src="http://cdn.wearepopslags.com/wp-includes/js/swfobject.js?ver=2.2-20120417"></script>
+<script type="text/javascript" src="http://cdn.wearepopslags.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=3.3.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.wearepopslags.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.wearepopslags.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="We Are Pop Slags" href="http://www.wearepopslags.com/">
-<link rel="prev" title="Terms &amp; Conditions" href="http://www.wearepopslags.com/terms-conditions/">
-<link rel="next" title="Advertise on music website We Are Pop Slags" href="http://www.wearepopslags.com/advertising-info/">
-<meta name="generator" content="WordPress 3.2.1">
-<link rel="canonical" href="http://www.wearepopslags.com/privacy-policy/">
-<link rel="shortlink" href="http://wp.me/PlFBt-4z">
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
-<script type="text/javascript">AudioPlayer.setup("http://www.wearepopslags.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"490",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"000000",text:"545454",leftbg:"5A9DE2",lefticon:"ffffff",volslider:"ff0000",voltrack:"FFFFFF",rightbg:"EE3322",rightbghover:"ff0000",righticon:"ffffff",righticonhover:"b3f213",track:"FFFFFF",loader:"b85b5a",border:"ffffff",tracker:"abd1f5",skip:"eef51e",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
-<script type="text/javascript">
-//<![CDATA[
-var _wpcf7 = { cached: 1 };
-//]]>
-</script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.wearepopslags.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.3.2">
 
 
 <!-- Facebook Like Thumbnail -->
 <meta property="og:image" content="">
 <!-- End Facebook Like Thumbnail -->
 
-<link href="http://www.wearepopslags.com/wp-content/plugins/fuzzy-seo-booster/seoqueries.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="http://www.wearepopslags.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
-<script type="text/javascript">
-var ajaxurl = ajaxurl;
-</script>
-
-<!-- using Like-Button-Plugin-For-Wordpress [v4.5.2] | by Stefan Natter (http://www.gb-world.net) -->
-<meta property="og:site_name" content="We Are Pop Slags">
-<meta property="og:type" content="article">
-<meta property="fb:admins" content="610436150">
-<meta property="fb:app_id" content="78540916881">
-<meta property="fb:page_id" content="18415592764">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://www.wearepopslags.com/privacy-policy/">
-<meta property="og:description" content="We are committed to protecting your personal privacy. This Privacy Policy explains our policies on privacy. If you have any requests or queries at any time concerning you [...]">
-<meta property="og:locality" content="London">
-<meta property="og:region" content="London">
-<meta property="og:country" content="United Kingdom">
-<!-- using Like-Button-Plugin-For-Wordpress [v4.5.2] | by Stefan Natter (http://www.gb-world.net) -->
-	
-	<link rel="stylesheet" href="http://www.wearepopslags.com/wp-content/plugins/mm-forms/stylesheet.css" type="text/css"><link rel="stylesheet" href="http://www.wearepopslags.com/wp-content/plugins/mm-forms/calendar.css" type="text/css">	<script type="text/javascript" src="http://www.wearepopslags.com/wp-content/plugins/mm-forms/mm-forms.js"></script>
-	<script type="text/javascript" src="http://www.wearepopslags.com/wp-content/plugins/mm-forms/calendar.js"></script>
-	
-
-<!-- platinum seo pack 1.3.7 -->
-<meta name="robots" content="index,follow,noodp,noydir">
-<meta name="description" content="We are committed to protecting your personal privacy. This Privacy Policy explains our policies on privacy. If you have any requests or queries at any time">
-<link rel="canonical" href="http://www.wearepopslags.com/privacy-policy/">
-<!-- /platinum one seo pack -->
-<link rel="hub" href="http://pubsubhubbub.appspot.com"><link rel="hub" href="http://superfeedr.com/hubbub"><meta name="generator" content="Headlines 4.0">
+<link href="http://cdn.wearepopslags.com/wp-content/plugins/fuzzy-seo-booster/seoqueries.css" rel="stylesheet" type="text/css"><link rel="hub" href="http://pubsubhubbub.appspot.com"><link rel="hub" href="http://superfeedr.com/hubbub"><link rel="stylesheet" href="http://cdn.wearepopslags.com/wp-content/plugins/sharebar/css/sharebar.css" type="text/css" media="screen">
+<script type="text/javascript">jQuery(document).ready(function($) { $('.sharebar').sharebar({horizontal:'true',swidth:'70',minwidth:960,position:'left',leftOffset:30,rightOffset:10}); });</script>
+<!-- Sharebar Plugin by Monjurul Dolon (http://mdolon.com/) - more info at: http://devgrow.com/sharebar-wordpress-plugin -->
+<meta name="generator" content="Headlines 5.0">
 <meta name="generator" content="Woo Framework Version 1.1.1">
 <script type="text/javascript">Cufon.replace("h1, h2, h3, h4, h5, h6, .cufon");</script>
 <style type="text/css">.widget h3 { line-height:22px; }</style>
-<link href="http://www.wearepopslags.com/wp-content/themes/WAPS4/styles/default.css" rel="stylesheet" type="text/css">
-<link href="http://www.wearepopslags.com/wp-content/themes/WAPS4/custom.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.wearepopslags.com/wp-content/themes/WAPS5/styles/default.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.wearepopslags.com/wp-content/themes/WAPS5/custom.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="http://dev.wearepopslags.com/wp-content/uploads/2010/02/favicon.ico">
-<!-- Wordpress Popular Posts v2.0.3 -->
-<script type="text/javascript" charset="utf-8">
-    /* <![CDATA[ */				
-    jQuery.post('http://www.wearepopslags.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'dd09f20a74', id: 283});
-    /* ]]> */
+
+<script type="text/javascript">
+function addLink() {
+    var body_element = document.getElementsByTagName('body')[0];
+    var selection;
+    selection = window.getSelection();
+    var pagelink = "<br /><br /> Read more at We Are Pop Slags:  <a href='"+document.location.href+"'>"+document.location.href+"</a>"; //Change this if you like
+    var copy_text = selection + pagelink;
+    var new_div = document.createElement('div');
+	new_div.style.left='-99999px';
+	new_div.style.position='absolute';
+
+    body_element.appendChild(new_div );
+    new_div.innerHTML = copy_text ;
+    selection.selectAllChildren(new_div );
+    window.setTimeout(function() {
+        body_element.removeChild(new_div );
+    },0);
+}
+
+document.oncopy = addLink;
 </script>
-<!-- End Wordpress Popular Posts v2.0.3 -->
-            
-<!-- Wordpress Popular Posts v2.0.3 -->
-<link rel="stylesheet" href="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen">
-<!-- Wordpress Popular Posts v2.0.3 -->
-<!-- Vipers Video Quicktags v6.3.1 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+
+<!-- Vipers Video Quicktags v6.4.1 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
 <style type="text/css">
 .vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
 </style>
@@ -286,10 +114,33 @@ var ajaxurl = ajaxurl;
 	var vvqflashvars = {};
 	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
 	var vvqattributes = {};
-	var vvqexpressinstall = "http://www.wearepopslags.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+	var vvqexpressinstall = "http://cdn.wearepopslags.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
 // ]]>
 </script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+var $j = jQuery.noConflict();
+
+$j(document).ready(function() {
+
+	//Default Action
+	$j(".tab2_content").hide(); //Hide all content
+	$j("ul.tabs2 li:first").addClass("active").show(); //Activate first tab
+	$j(".tab2_content:first").show(); //Show first tab content
+	
+	//On Click Event
+	$j("ul.tabs2 li").click(function() {
+		$j("ul.tabs2 li").removeClass("active"); //Remove any "active" class
+		$j(this).addClass("active"); //Add "active" class to selected tab
+		$j(".tab2_content").hide(); //Hide all tab content
+		var activeTab = $j(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$j(activeTab).fadeIn(); //Fade in the active content
+		return false;
+	});
+
+});
+</script>
 <!--[if lte IE 7]>
 <script type="text/javascript">
 jQuery(function() {
@@ -302,193 +153,156 @@ jQuery(function() {
 </script>
 <![endif]-->
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
+<!-- Google Admanager -->
 <script type="text/javascript">
-  GS_googleAddAdSenseService("ca-pub-7353481636043317");
-  GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-  GA_googleAddSlot("ca-pub-7353481636043317", "WAPS_articlepage_footer_468x60");
-  GA_googleAddSlot("ca-pub-7353481636043317", "WAPS_ROS_leaderboard_top_728x90");
-  GA_googleAddSlot("ca-pub-7353481636043317", "WAPS_ROS_MPU_top_300x250");
-</script>
-<script type="text/javascript">
-  GA_googleFetchAds();
-</script>
-<meta property="fb:app_id" content="78540916881">
-
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
 </script>
 
-
-<script>
-    nav = jQuery.noConflict(true);
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/2320412/WAPS_ROS_MPU_top_300x250', [300, 250], 'div-gpt-ad-1339277524029-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
 </script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/2320412/WAPS_ROS_leaderboard_top_728x90', [728, 90], 'div-gpt-ad-1339277827513-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!-- end Google Admanager -->
 
 <!-- Pull down navigation -->
 <script>
-$(document).ready(function () {
-	$(".pulldownnav_top").hover(function(){
-		$(this).addClass('hover');
+var $menu = jQuery.noConflict();
+
+$menu(document).ready(function () {
+	$menu(".pulldownnav_top").hover(function(){
+		$menu(this).addClass('hover');
 	  },
 	  function(){
-		$(this).removeClass('hover');
+		$menu(this).removeClass('hover');
 	  }
 	);
-	$("#pulldownnav .dropdown").bgiframe();
+	$menu("#pulldownnav .dropdown").bgiframe();
 });
 </script>
+
 <!-- /Pull down navigation -->
 
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=78540916881";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
+<a name="toppage" id="toppage"></a>
 <div id="container">
-       
 	<div id="top">
-    
         <div id="header" class="col-full">                 
             <div id="logo">
-               
-                <a href="http://www.wearepopslags.com" title="pop music coverage of pop news, music videos, downloads, forums and interviews"><img class="title" src="http://www.wearepopslags.com/wp-content/themes/WAPS4/images/logo.png" alt="We Are Pop Slags"></a>
-                
+                <a href="http://www.wearepopslags.com" title="New pop news, music videos, downloads, forums and interviews"><img class="title" src="http://cdn.wearepopslags.com/wp-content/themes/WAPS5/images/logo.png" alt="We Are Pop Slags"></a>
                                     <span class="site-title"><a href="http://www.wearepopslags.com">We Are Pop Slags</a></span>
-                                
-                    <span class="site-description">pop music coverage of pop news, music videos, downloads, forums and interviews</span>
+                                    <span class="site-description">New pop news, music videos, downloads, forums and interviews</span>
                 
             </div><!-- /#logo -->
                           <div class="leaderboard">
-                                <!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: Popslags // Page: ROS // Placement: Popslags leader (2486026) // created at: Apr 19, 2010 3:38:18 PM-->
+                                <!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: Popslags // Page: ROS // Placement: Popslags leader (2486026) // created at: Apr 19, 2010 3:38:18 PM
                                 <script language="javascript">
-                                <!--
                                 if (window.adgroupid == undefined) {
                                     window.adgroupid = Math.round(Math.random() * 1000);
                                 }
                                 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-                                //-->
-                                </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=345;misc=1580356844230"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|2486026|0|1|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="468" height="60"></a></noscript>
+                                </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|2486026|0|1|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="468" height="60"></a></noscript>
                                 <!-- End of JavaScript Tag --> 
+                                
+                                <!-- WAPS_ROS_leaderboard_top_728x90 -->
+                                <div id="div-gpt-ad-1339277827513-0" style="width:728px; height:90px;">
+                                <script type="text/javascript">
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1339277827513-0'); });
+                                </script>
+                                </div>
               			  </div>
 
-<!-- Navigation -->
+          <!-- Navigation -->
 <div id="pulldownnav">   
 	<!-- Home --> 
 	<div id="nav_home" class="pulldownnav_top">
-		<a href="/"><img src="/wp-content/themes/WAPS4/images/s.gif" width="55" height="45" class="navImage" border="0" alt="We Are Pop Slags home page" title="We Are Pop Slags home page"></a>
+		<a href="/"><img src="/wp-content/themes/WAPS5/images/s.gif" width="55" height="45" class="navImage" border="0" alt="We Are Pop Slags home page" title="We Are Pop Slags home page"></a>
 	</div>
-	<!-- /Home -->
+	<!-- /Home --> 
 
 	<!-- News -->	
 	<div id="nav_news" class="pulldownnav_top">
-		<a href="/category/pop-news"><img src="/wp-content/themes/WAPS4/images/s.gif" width="79" height="45" class="navImage" border="0" alt="Latest pop music news" title="Latest pop music news"></a>
-		<div class="dropdown">
-			<ul>		
-                						<li><a href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" rel="bookmark">Video: Amy Winehouse ‘Our Day Will Come’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-michael-buble-santa-claus-is-coming-to-town/" rel="bookmark">Video: Michael Bublé ‘Santa Claus Is Coming To Town’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-florence-the-machine-no-light-no-light/" rel="bookmark">Video: Florence + The Machine ‘No Light, No Light’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/watch-lady-gaga-previews-marry-the-night-the-prelude-pathetique/" rel="bookmark">Watch: Lady Gaga previews ‘Marry The Night: The Prelude Pathetique’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/watch-children-in-need-rocks-manchester-lady-gaga-more-to-follow-live-post/" rel="bookmark">Watch: Children In Need Rocks Manchester – Gaga, Buble, Coldplay &amp; more</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-sky-ferreira-traces/" rel="bookmark">Video: Sky Ferreira ‘Traces’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-selena-gomez-the-scene-hit-the-lights/" rel="bookmark">Video: Selena Gomez &amp; The Scene ‘Hit The Lights’</a></li>
-                    					<p style="padding-top:15px; padding-left:20px;"><a href="/category/pop-news/" class="btn">More pop news »</a></p>                    
-			<!-- News side promo -->
-			</ul>
-			<div class="container">           
-            			<a href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" rel="bookmark"></a><a title="Video: Amy Winehouse ‘Our Day Will Come’" href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Wino.jpg&amp;h=120&amp;w=120&amp;zc=1&amp;q=50" alt="Video: Amy Winehouse ‘Our Day Will Come’" class="thumbnail" height="120" width="120"></a><h3>Video: Amy Winehouse ‘Our Day Will Come’</h3><p><img class="burst" src="/wp-content/themes/WAPS4/images/hot.png"></p>            
-			</div> 
-		</div>	
+		<a href="/category/pop-news"><img src="/wp-content/themes/WAPS5/images/s.gif" width="79" height="45" class="navImage" border="0" alt="Latest pop music news" title="Latest music news"></a>
 	</div>
     <!-- /News -->
     
     <!-- Videos -->
 	<div id="nav_videos" class="pulldownnav_top">
-		<a href="/category/music-videos"><img src="/wp-content/themes/WAPS4/images/s.gif" width="87" height="45" class="navImage" border="0" alt="The latest new Pop Music Videos" title="The latest new Pop Music Videos"></a>
-		<div class="dropdown">
-			<ul>
-                						<li><a href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" rel="bookmark">Video: Amy Winehouse ‘Our Day Will Come’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-michael-buble-santa-claus-is-coming-to-town/" rel="bookmark">Video: Michael Bublé ‘Santa Claus Is Coming To Town’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-florence-the-machine-no-light-no-light/" rel="bookmark">Video: Florence + The Machine ‘No Light, No Light’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/watch-lady-gaga-previews-marry-the-night-the-prelude-pathetique/" rel="bookmark">Watch: Lady Gaga previews ‘Marry The Night: The Prelude Pathetique’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-sky-ferreira-traces/" rel="bookmark">Video: Sky Ferreira ‘Traces’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-selena-gomez-the-scene-hit-the-lights/" rel="bookmark">Video: Selena Gomez &amp; The Scene ‘Hit The Lights’</a></li>
-                    					<li><a href="http://www.wearepopslags.com/video-beyonce-end-of-time-live-at-roseland-live-at-roseland-elements-of-4-dvd-news/" rel="bookmark">Video: Beyonce ‘End Of Time (Live At Roseland)’ + ‘Live At Roseland: Elements of 4′ DVD news</a></li>
-                                    	<p style="padding-top:15px; padding-left:20px;"><a href="/category/music-videos/" class="btn">More music videos »</a></p>
-                    
-	<!-- Videos side promo -->
-			</ul>
-			<div class="container">            
-            			<li><a href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" rel="bookmark"></a><a title="Video: Amy Winehouse ‘Our Day Will Come’" href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Wino.jpg&amp;h=120&amp;w=120&amp;zc=1&amp;q=70" alt="Video: Amy Winehouse ‘Our Day Will Come’" class="thumbnail" height="120" width="120"></a><h3>Video: Amy Winehouse ‘Our Day Will Come’</h3><p><img class="burst" src="/wp-content/themes/WAPS4/images/hot.png"></p></li>		</div>			
-	</div></div>
+		<a href="/category/music-videos"><img src="/wp-content/themes/WAPS5/images/s.gif" width="87" height="45" class="navImage" border="0" alt="Latest music videos" title="Latest music videos"></a>
+	</div>
 	<!-- /Videos -->
     
-    <!-- Pop Atlas -->
-	<div id="nav_popatlas" class="pulldownnav_top">
-		<a href="/category/pop-atlas" title="Pop Atlas: pop music from around the world"><img src="/wp-content/themes/WAPS4/images/s.gif" width="105" height="45" class="navImage" border="0" alt="Pop Atlas: pop music from around the world"></a>
-		<div class="dropdown">
-			<ul>
-                				<li><a href="http://www.wearepopslags.com/video-studio-killers-ode-to-the-bouncer/" rel="bookmark">Video: Studio Killers ‘Ode To The Bouncer’</a></li>
-                				<li><a href="http://www.wearepopslags.com/watch-eric-saade-hearts-in-the-air-video/" rel="bookmark">Watch: Eric Saade – Hearts In The Air (video)</a></li>
-                				<li><a href="http://www.wearepopslags.com/video-outlines-i-cannot-think/" rel="bookmark">Video: Outlines ‘I Cannot Think’</a></li>
-                				<li><a href="http://www.wearepopslags.com/watch-mylene-farmer-lonely-lisa-video/" rel="bookmark">Watch: Mylène Farmer ‘Lonely Lisa’ (video)</a></li>
-                				<li><a href="http://www.wearepopslags.com/watch-margaret-berger-in-a-box-video/" rel="bookmark">Watch: Margaret Berger – In A Box (video)</a></li>
-                				<li><a href="http://www.wearepopslags.com/video-enrique-iglesias-no-me-digas-que-no/" rel="bookmark">Video: Enrique Iglesias- ‘No Me Digas Que No’</a></li>
-                				<li><a href="http://www.wearepopslags.com/pop-atlas-france-french-pop-musi/" rel="bookmark">Pop Atlas: France – Mylène Farmer and more</a></li>
-                                <p style="padding-top:15px; padding-left:20px;"><a href="/category/pop-atlas/" class="btn">More »</a></p>                
-	<!-- Pop Atlas side promo -->
-			</ul>
-			<div class="container">          
-            			<li><a href="http://www.wearepopslags.com/video-studio-killers-ode-to-the-bouncer/" rel="bookmark"></a><a title="Video: Studio Killers ‘Ode To The Bouncer’" href="http://www.wearepopslags.com/video-studio-killers-ode-to-the-bouncer/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/07/Studio-Killers.jpg&amp;h=120&amp;w=120&amp;zc=1&amp;q=50" alt="Video: Studio Killers ‘Ode To The Bouncer’" class="thumbnail" height="120" width="120"></a><h3>Video: Studio Killers ‘Ode To The Bouncer’</h3><p><img class="burst" src="/wp-content/themes/WAPS4/images/hot.png"></p></li>		</div>	
-	</div></div>
-	<!-- /Pop Atlas-->
-
-    <!-- Facebook -->
-	<div id="nav_community" class="pulldownnav_top">
-		<a href="/show-us-some-love/"><img src="/wp-content/themes/WAPS4/images/s.gif" width="112" height="45" class="navImage" border="0" alt="Show some love for We Are Pop Slags" title="Show some love for We Are Pop Slags"></a>	
+    <!-- New Songs -->
+	<div id="nav_songs" class="pulldownnav_top">
+		<a href="/category/new-pop-music/" title="Listen to new pop music"><img src="/wp-content/themes/WAPS5/images/s.gif" width="105" height="45" class="navImage" border="0" alt="Listen to the latest pop songs"></a>
 	</div>
-    <!-- /Facebook -->
-    
-    <!-- Community -->
-        <!-- 
-	<DIV id="nav_community" class="pulldownnav_top">
-		<A href="/community/" title="Pop music forum and message board"><IMG src="/wp-content/themes/WAPS4/images/s.gif" width="114" height="45" class="navImage" border="0" alt="Pop Music forum and community" title="Pop Music forum and community"></A>
-		<DIV class="dropdown">
-			<UL>
-                <li></li>-->
+	<!-- /Artists-->
 
-	<!-- Community side promo -->
-    <!-- 
-			</UL>
-			<DIV class="container">
-            As if we had to give you reasons to join the We Are Pop Slags forum; well, here they are:
-            <li><a href="/category/register">share, discover and discuss the latest essential releases</a></li>
-            <li><a href="/category/register">watch and post new videos (you can even add YouTube videos in your posts)</a></li>
-            <li><a href="/category/register">private message other users</a></li>
-			<p style="padding-top: 25px;"><a href="/community/register.php?" class="btn"></a></p>
-            </DIV> 
-		</DIV>	
-	</DIV>-->
+    <!-- free stuff -->
+	<div id="nav_freestuff" class="pulldownnav_top">
+		<a href="/forum/" title="Pop Music Forum"><img src="/wp-content/themes/WAPS5/images/s.gif" width="105" height="45" class="navImage" border="0" alt="Community Messageboards"></a>
+	</div>
+	<!-- /free stuff-->
 	
     <!-- Facebook -->
 	<div id="nav_fb" class="pulldownnav_top">
-		<a href="http://www.facebook.com/popslags?sk=app_100265896690345" target="_blank"><img src="/wp-content/themes/WAPS4/images/s.gif" width="112" height="45" class="navImage" border="0" alt="We Are Pop Slags on Facebook" title="Follow We Are Pop Slags on Facebook"></a>	
+		<a href="http://www.facebook.com/popslags" target="_blank" title="We Are Pop Slags on Facebook"><img src="/wp-content/themes/WAPS5/images/s.gif" width="112" height="45" class="navImage" border="0" alt="We Are Pop Slags on Facebook" title="Follow We Are Pop Slags on Facebook"></a>	
 	</div>
     <!-- /Facebook -->
 
 	<!-- Twitter -->
 
 	<div id="nav_twitter" class="pulldownnav_top">
-		<a href="http://www.twitter.com/popslags/" target="_blank"><img src="/wp-content/themes/WAPS4/images/s.gif" width="114" height="45" class="navImage" border="0" alt="We Are Pop Slags on Twitter" title="Follow We Are Pop Slags on Twitter"></a>	
+		<a href="http://www.twitter.com/popslags/" target="_blank"><img src="/wp-content/themes/WAPS5/images/s.gif" width="114" height="45" class="navImage" border="0" alt="We Are Pop Slags on Twitter" title="Follow We Are Pop Slags on Twitter"></a>	
 	</div>
 	<!-- /Twitter -->    
     <!-- Search -->
     <div id="navsearch">
-                                        <div id="search" class="fr">
-                        <form method="get" id="searchform" action="http://www.wearepopslags.com">
-                            <input type="text" class="field" name="s" id="s" value="Enter keywords..." onfocus="if (this.value == 'Enter keywords...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter keywords...';}">
-                            <input class="submit btn" type="image" src="/wp-content/themes/WAPS4/images/ico-search.png" value="Go">
-                        </form>
-                    </div><!-- /#search -->
-                    </div>
+        <div id="cse-search-form" style="width: 100%;"></div>
+			<script src="http://www.google.co.uk/jsapi" type="text/javascript"></script>
+            <script type="text/javascript"> 
+              google.load('search', '1', {language : 'en'});
+              google.setOnLoadCallback(function() {
+                var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+                  '017533574516842606668:-c4ejmmdzwg', customSearchOptions);
+                customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                var options = new google.search.DrawOptions();
+                options.enableSearchboxOnly("http://www.wearepopslags.com", "s");
+                customSearchControl.draw('cse-search-form', options);
+              }, true);
+            </script>
+            <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css">
+        </div>
     <!-- /Search -->
 
 </div>    
@@ -500,7 +314,8 @@ $(document).ready(function () {
         </div><!-- /#header -->
         
         </div>
-    </div><!--/#top-->       
+    </div><!--/#top-->
+    <!--not working-->       
     <div id="content" class="col-full">
 		<div id="main" class="col-left">
 	            
@@ -513,21 +328,21 @@ $(document).ready(function () {
                         <div class="entry">
                             <p>We are committed to protecting your personal privacy. This Privacy Policy explains our policies on privacy. If you have any requests or queries at any time concerning your personal information or our practices, please contact us at <script type="text/javascript">
  &lt;!--
- var prefix = \'&amp;#109;a\' + \'i&amp;#108;\' + \'&amp;#116;o\';
- var path = \'hr\' + \'ef\' + \'=\';
- var addy19841 = \'&amp;#105;nf&amp;#111;\' + \'&amp;#64;\';
- addy19841 = addy19841 + \'w&amp;#101;&amp;#97;r&amp;#101;p&amp;#111;psl&amp;#97;gs\' + \'&amp;#46;\' + \'c&amp;#111;m\' + \'&amp;#46;\' + \'\';
- document.write( \'&lt;a \' + path + \'\\'\' + prefix + \':\' + addy19841 + \'\\'&gt;\' );
+ var prefix = '&amp;#109;a' + 'i&amp;#108;' + '&amp;#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy19841 = '&amp;#105;nf&amp;#111;' + '&amp;#64;';
+ addy19841 = addy19841 + 'w&amp;#101;&amp;#97;r&amp;#101;p&amp;#111;psl&amp;#97;gs' + '&amp;#46;' + 'c&amp;#111;m' + '&amp;#46;' + '';
+ document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy19841 + '\'&gt;' );
  document.write( addy19841 );
- document.write( \'&lt;\/a&gt;\' );
+ document.write( '&lt;\/a&gt;' );
  //--&gt;\n </script>info[at]wearepopslags.com.<script type="text/javascript">
  &lt;!--
- document.write( \'&lt;span style=\\'display: none;\\'&gt;\' );
+ document.write( '&lt;span style=\'display: none;\'&gt;' );
  //--&gt;
  </script><span style="display: none;">This e-mail address is being protected from spam bots, you need JavaScript enabled to view it  <script type="text/javascript">
  &lt;!--
- document.write( \'&lt;/\' );
- document.write( \'span&gt;\' );
+ document.write( '&lt;/' );
+ document.write( 'span&gt;' );
  //--&gt;
  </script></span></p>
 <p align="left">
@@ -543,7 +358,7 @@ If you post any personal information to any forums, this information will immedi
 <p><strong>2.&nbsp;&nbsp; &nbsp;Cookies – what are they and how do we use them?</strong><br>
 Cookies are bits of electronic information that a website can transfer to your hard drive to help tailor and keep records of your visit to that website. If you visit our website, cookies help us recognise you when you visit again and allow us to better customise your visit to your individual preferences, helping us provide you with the best possible service on our Website.</p>
 <p>Most major websites use cookies and their use is standard on the internet. Please note: most internet browsers automatically accept cookies, but you can instruct your browser not to accept cookies or to prompt you before accepting cookies from the sites you visit. If you decide not to accept our cookies, you may not be able to use all the interactive features of our site.</p>
-<p>For further information on cookies and how to switch them off see <a title="All About Cookies" href="http://www.allaboutcookies.org/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.allaboutcookies.org']);" target="_blank">www.allaboutcookies.org</a>.</p>
+<p>For further information on cookies and how to switch them off see <a title="All About Cookies" href="http://www.allaboutcookies.org/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.allaboutcookies.org/']);" target="_blank">www.allaboutcookies.org</a>.</p>
 <p><strong>3. Links</strong><br>
 This site contains links and references to other websites outside of our control. Please be aware that we have no control over these sites and our privacy policy does not apply to these sites. We encourage you to read the privacy policies and terms and conditions of linked or referenced sites you enter.</p>
 <p><strong>4. International data transfer</strong><br>
@@ -555,216 +370,83 @@ The use of a website to collect and process personal information inevitably invo
                     </div><!-- /.post -->
                                         
                 </div><!-- /.box -->
-                
-                	                
-<!-- You can start editing here. -->
-
-<div id="comments">
-
-	
-		<h3>One Response to “Privacy Policy”</h3>
-
-		<ol class="commentlist">
-	
-			                 
-
-	<li class="comment even thread-even depth-1" id="li-comment-23791">
-    
-    	<a name="comment-23791"></a>
-      	
-      	<div class="comment-container">
-
-			            
-            <div class="avatar"><img alt="" src="http://1.gravatar.com/avatar/b3bddef3af283b50310a99680b6d4626?s=60&amp;d=&amp;r=R" class="photo avatar avatar-60 photo" height="60" width="60"></div>
-        
-                  	    
-            <div class="comment-right">
-                    
-                <div class="comment-head">
-                                
-                    <span class="name fl">Name</span>
-                    
-                                        
-                        <span class="reply fr"><a class="comment-reply-link" href="/privacy-policy/?replytocom=23791#respond" onclick="return addComment.moveForm(&quot;comment-23791&quot;, &quot;23791&quot;, &quot;respond&quot;, &quot;283&quot;)">Reply</a></span><!-- /.reply -->
-                        <span class="date fr"><a href="http://www.wearepopslags.com/privacy-policy/comment-page-1/#comment-23791" title="Direct link to this comment">02. Oct, 2011 at 9:51 am</a></span>
-                                            <span class="edit fr"></span>
-                                        
-                </div><!-- /.comment-head -->
-              
-                <div class="comment-entry" id="comment-23791">
-                
-                    <p>PLZ PLAY THE SONGS</p>
-                    
-                                        
-        
-                </div><!-- /comment-entry -->
-            
-            </div><!-- /comment-right -->
-		
-		</div><!-- /.comment-container -->
-		
-</li>
-		
-		</ol>    
-
-		<div class="navigation">
-			<div class="fl"></div>
-			<div class="fr"></div>
-			<div class="fix"></div>
-		</div><!-- /.navigation -->
-		    
-    	
-	
-</div> <!-- /#comments_wrap -->
-
-
-<div id="respond">
-
-	<h3>Leave a reply</h3>
-	<p>Let us know your thoughts. And if you'd like a picture to show with your comment, go get a <a href="http://en.gravatar.com/" target="_blank">Gravatar</a>.</p>
-
-	<div class="cancel-comment-reply">
-		<small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Click here to cancel reply.</a></small>
-	</div><!-- /.cancel-comment-reply -->
-
-		    
-		<form action="http://www.wearepopslags.com/wp-comments-post.php" method="post" id="commentform" onsubmit="if (url.value == ' ') {url.value = '';}">
-
-	    <div class="left">
-
-		
-			<p>
-                <input type="text" name="author" class="txt" id="commentauthor" tabindex="1" value="Name " onfocus="if (this.value == 'Name (required)') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Name (required)';}">
-			</p>
-
-			<p>
-                <input type="text" name="email" class="txt" id="email" tabindex="2" value="Email " onfocus="if (this.value == 'Email (required)') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email (required)';}">
-			</p>
-
-			<p>
-                <!--<input type="text" name="url" class="txt" id="url" tabindex="3" value=" " onfocus="if (this.value == ' ') {this.value = '';}" onblur="if (this.value == '') {this.value = ' ';}" />-->
-			</p>
-
-		        
-        </div>
-
-		<div class="right">
-        
-		<!--<p><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </p>-->
-
-		<p><textarea name="comment" id="comment" rows="10" cols="50" tabindex="4"></textarea></p>
-		<br><input type="hidden" name="comment_post_ID" value="283" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-		<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="e1c4cbc997"></p>		<input name="submit" type="submit" id="submit" tabindex="5" value="Submit comment »">
-		<input type="hidden" name="comment_post_ID" value="283">
-		
-	
-		
-        </div>
-        
-		</form><!-- /#commentform -->
-
-	
-	<div class="fix"></div>
-
-</div><!-- /#respond -->
-
-				                                                    
+                                                    
 			  
         
 		</div><!-- /#main -->
 
         <div id="sidebar" class="col-right">
-<!--Shuffler-d6187f91ae0863a4cf412eec9648c342-->
 	<!-- Widgetized Sidebar -->	
 	<div id="promo_MPU">ADVERTISEMENT<br>
         <center>
-        <!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: Popslags // Page: ROS // Placement: Popslags mpu (2486025) // created at: Apr 19, 2010 3:38:18 PM-->
+        <!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: Popslags // Page: ROS // Placement: Popslags mpu (2486025) // created at: Apr 19, 2010 3:38:18 PM
         <script language="javascript">
-        <!--
         if (window.adgroupid == undefined) {
             window.adgroupid = Math.round(Math.random() * 1000);
         }
         document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|2486025|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-        //-->
-        </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|2486025|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=345;misc=1580356844309"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|2486025|0|170|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|2486025|0|170|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="300" height="250"></a></noscript>
+        </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|2486025|0|170|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|2486025|0|170|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="300" height="250"></a></noscript>
         <!-- End of JavaScript Tag -->
+        <!-- WAPS_ROS_MPU_top_300x250 -->
+        <div id="div-gpt-ad-1339277524029-0" style="width:300px; height:250px; background-color:#FFFFFF;">
+        <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1339277524029-0'); });
+        </script>
+        </div>					
         </center>
     </div>
     <div style="clear: both; display: block; padding-top: 10px; text-align:center;"></div> 
     
 	<div id="siteinfo">
-		Recommend us on Google <g:plusone size="medium" href="http://www.wearepopslags.com"></g:plusone><br><br>
-		<a href="https://plus.google.com/117378933171357850650/?prsrc=3"><div style="display: inline-block;"><span style="float: left; margin-right: 4px;">We Are Pop Slags</span><span style="float: left; margin-right: 11px;">on</span><div style="float: left;"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" width="16" height="16" style="border: 0;"></div><div style="clear: both"></div></div></a><br><br>
-        <a href="http://twitter.com/popslags" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#5A9DE2">Follow @popslags</a>
-		<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-    </div>
-
+      <a href="http://twitter.com/popslags" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#5A9DE2">Follow @popslags</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+    </div>				                
     <!-- New tabs -->
     <div class="container">
     <ul class="tabs2">
-        <li><a href="#tab4">Trending stories</a></li>
         <li><a href="#tab5">Latest stories</a></li>
     </ul>
-    <div class="tab2_container">
-        <div id="tab4" class="tab2_content">
-			<ul>
-			<!-- Wordpress Popular Posts Plugin v2.0.3 [SC] [weekly] -->
-<ul>
-<li><a href="http://www.wearepopslags.com/listen-bob-sinclar-ft-sophie-ellis-bextor-f-with-you/" title="Listen: Bob Sinclar ft. Sophie Ellis Bextor - F*** With You"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/sophie-ellis-bextor.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Listen: Bob Sinclar ft. Sophie Ellis Bextor - F*** With You" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/listen-bob-sinclar-ft-sophie-ellis-bextor-f-with-you/" title="Listen: Bob Sinclar ft. Sophie Ellis Bextor - F*** With You"><span class="wpp-post-title">Listen: Bob Sinclar ft. Sophie Ellis Bextor - F*** With You</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" title="Video: Amy Winehouse 'Our Day Will Come'"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Wino-520x248.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Video: Amy Winehouse 'Our Day Will Come'" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" title="Video: Amy Winehouse 'Our Day Will Come'"><span class="wpp-post-title">Video: Amy Winehouse 'Our Day Will Come'</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/watch-lady-gaga-previews-marry-the-night-the-prelude-pathetique/" title="Watch: Lady Gaga previews 'Marry The Night: The Prelude Pathetique'"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/gagaprelude-520x267.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Watch: Lady Gaga previews 'Marry The Night: The Prelude Pathetique'" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/watch-lady-gaga-previews-marry-the-night-the-prelude-pathetique/" title="Watch: Lady Gaga previews 'Marry The Night: The Prelude Pathetique'"><span class="wpp-post-title">Watch: Lady Gaga previews 'Marry The Night: The Prelude Pathetique'</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/listen-marina-the-diamonds-starring-role/" title="Listen: Marina &amp; The Diamonds 'Starring Role'"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/marina-and-the-diamonds-radioactive-520x345.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Listen: Marina &amp; The Diamonds 'Starring Role'" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/listen-marina-the-diamonds-starring-role/" title="Listen: Marina &amp; The Diamonds 'Starring Role'"><span class="wpp-post-title">Listen: Marina &amp; The Diamonds 'Starring Role'</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/video-sky-ferreira-traces/" title="Video: Sky Ferreira 'Traces'"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/sky-f_traces-520x337.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Video: Sky Ferreira 'Traces'" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/video-sky-ferreira-traces/" title="Video: Sky Ferreira 'Traces'"><span class="wpp-post-title">Video: Sky Ferreira 'Traces'</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/video-florence-the-machine-no-light-no-light/" title="Video: Florence + The Machine 'No Light, No Light'"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Florence_no-520x248.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Video: Florence + The Machine 'No Light, No Light'" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/video-florence-the-machine-no-light-no-light/" title="Video: Florence + The Machine 'No Light, No Light'"><span class="wpp-post-title">Video: Florence + The Machine 'No Light, No Light'</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/listen-little-boots-shake-new-single/" title="Listen: Little Boots - Shake (new single)"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Little-Boots-Image-Lo-Res-520x346.jpg&amp;h=60&amp;w=60&amp;zc=1" alt="Listen: Little Boots - Shake (new single)" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/listen-little-boots-shake-new-single/" title="Listen: Little Boots - Shake (new single)"><span class="wpp-post-title">Listen: Little Boots - Shake (new single)</span><div class="fix"></div></a> </li>
-<li><a href="http://www.wearepopslags.com/watch-children-in-need-rocks-manchester-lady-gaga-more-to-follow-live-post/" title="Watch: Children In Need Rocks Manchester - Gaga, Buble, Coldplay &amp; more"><img src="http://www.wearepopslags.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/CIN-520x206.gif&amp;h=60&amp;w=60&amp;zc=1" alt="Watch: Children In Need Rocks Manchester - Gaga, Buble, Coldplay &amp; more" border="0" class="wpp-thumbnail" width="60" height="60"></a><a href="http://www.wearepopslags.com/watch-children-in-need-rocks-manchester-lady-gaga-more-to-follow-live-post/" title="Watch: Children In Need Rocks Manchester - Gaga, Buble, Coldplay &amp; more"><span class="wpp-post-title">Watch: Children In Need Rocks Manchester - Gaga, Buble, Coldplay &amp; more</span><div class="fix"></div></a> </li>
-</ul>
-<!-- End Wordpress Popular Posts Plugin v2.0.3 -->
-<div class="fix"></div>
-			</ul>  
-        </div>              
+    <div class="tab2_container">            
         <div id="tab5" class="tab2_content">
 	        <ul>
-			<li>
-	<a title="Video: Amy Winehouse ‘Our Day Will Come’" href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Wino.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Video: Amy Winehouse ‘Our Day Will Come’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Video: Amy Winehouse ‘Our Day Will Come’" href="http://www.wearepopslags.com/video-amy-winehouse-our-day-will-come/" rel="bookmark">Video: Amy Winehouse ‘Our Day Will Come’</a>
-	<span class="meta">19. Nov, 2011</span>
-	<div class="fix"></div>
+			<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/cherylcole_screwyou-40x40.png" class="attachment-sidebar-thumb wp-post-image" alt="cherylcole_screwyou" title="cherylcole_screwyou"></div>
+	<div class="latesttitle"><h2><a title="Listen: Cheryl Cole – Screw You ft. Wrench 32 (new single) + Craziest Thing (ft. will.i.am)" href="http://www.wearepopslags.com/listen-cheryl-cole-screw-you-ft-wrench-32-new-single-craziest-thing-ft-will-i-am/" rel="bookmark">Listen: Cheryl Cole – Screw You ft. Wrench 32 (new single) + Craziest Thing (ft. will.i.am)</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Video: Michael Bublé ‘Santa Claus Is Coming To Town’" href="http://www.wearepopslags.com/video-michael-buble-santa-claus-is-coming-to-town/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/mb_xmas.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Video: Michael Bublé ‘Santa Claus Is Coming To Town’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Video: Michael Bublé ‘Santa Claus Is Coming To Town’" href="http://www.wearepopslags.com/video-michael-buble-santa-claus-is-coming-to-town/" rel="bookmark">Video: Michael Bublé ‘Santa Claus Is Coming To Town’</a>
-	<span class="meta">18. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/usherscream-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="Usher Scream Fuerza Bruta NYC" title="Usher Scream Fuerza Bruta NYC"></div>
+	<div class="latesttitle"><h2><a title="Usher premieres video for ‘Scream’" href="http://www.wearepopslags.com/usher-premieres-video-for-scream/" rel="bookmark">Usher premieres video for ‘Scream’</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Video: Florence + The Machine ‘No Light, No Light’" href="http://www.wearepopslags.com/video-florence-the-machine-no-light-no-light/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Florence_no.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Video: Florence + The Machine ‘No Light, No Light’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Video: Florence + The Machine ‘No Light, No Light’" href="http://www.wearepopslags.com/video-florence-the-machine-no-light-no-light/" rel="bookmark">Video: Florence + The Machine ‘No Light, No Light’</a>
-	<span class="meta">18. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/elsie-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="elsie" title="elsie"></div>
+	<div class="latesttitle"><h2><a title="Elsie – London Town (interactive video)" href="http://www.wearepopslags.com/elsie-london-town-interactive-video/" rel="bookmark">Elsie – London Town (interactive video)</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Watch: Lady Gaga previews ‘Marry The Night: The Prelude Pathetique’" href="http://www.wearepopslags.com/watch-lady-gaga-previews-marry-the-night-the-prelude-pathetique/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/gagaprelude.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Watch: Lady Gaga previews ‘Marry The Night: The Prelude Pathetique’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Watch: Lady Gaga previews ‘Marry The Night: The Prelude Pathetique’" href="http://www.wearepopslags.com/watch-lady-gaga-previews-marry-the-night-the-prelude-pathetique/" rel="bookmark">Watch: Lady Gaga previews ‘Marry The Night: The Prelude Pathetique’</a>
-	<span class="meta">17. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/skyferreiraredlips-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="skyferreiraredlips" title="skyferreiraredlips"></div>
+	<div class="latesttitle"><h2><a title="Sky Ferreira – Red Lips (video)" href="http://www.wearepopslags.com/sky-ferreira-red-lips-video/" rel="bookmark">Sky Ferreira – Red Lips (video)</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Watch: Children In Need Rocks Manchester – Gaga, Buble, Coldplay &amp; more" href="http://www.wearepopslags.com/watch-children-in-need-rocks-manchester-lady-gaga-more-to-follow-live-post/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/CIN.gif&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Watch: Children In Need Rocks Manchester – Gaga, Buble, Coldplay &amp; more" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Watch: Children In Need Rocks Manchester – Gaga, Buble, Coldplay &amp; more" href="http://www.wearepopslags.com/watch-children-in-need-rocks-manchester-lady-gaga-more-to-follow-live-post/" rel="bookmark">Watch: Children In Need Rocks Manchester – Gaga, Buble, Coldplay &amp; more</a>
-	<span class="meta">17. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/gold_dust_hires1-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="gold_dust_hires" title="gold_dust_hires"></div>
+	<div class="latesttitle"><h2><a title="Tori Amos to release new orchestral album: Gold Dust" href="http://www.wearepopslags.com/tori-amos-to-release-new-orchestral-album-gold-dust/" rel="bookmark">Tori Amos to release new orchestral album: Gold Dust</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Video: Sky Ferreira ‘Traces’" href="http://www.wearepopslags.com/video-sky-ferreira-traces/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/sky-f_traces.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Video: Sky Ferreira ‘Traces’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Video: Sky Ferreira ‘Traces’" href="http://www.wearepopslags.com/video-sky-ferreira-traces/" rel="bookmark">Video: Sky Ferreira ‘Traces’</a>
-	<span class="meta">17. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/still_getting_younger_remixes-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="still_getting_younger_remixes" title="still_getting_younger_remixes"></div>
+	<div class="latesttitle"><h2><a title="Wynter Gordon: Still Getting Younger (video)" href="http://www.wearepopslags.com/wynter-gordon-still-getting-younger-video/" rel="bookmark">Wynter Gordon: Still Getting Younger (video)</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Video: Selena Gomez &amp; The Scene ‘Hit The Lights’" href="http://www.wearepopslags.com/video-selena-gomez-the-scene-hit-the-lights/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/Selgomez.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Video: Selena Gomez &amp; The Scene ‘Hit The Lights’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Video: Selena Gomez &amp; The Scene ‘Hit The Lights’" href="http://www.wearepopslags.com/video-selena-gomez-the-scene-hit-the-lights/" rel="bookmark">Video: Selena Gomez &amp; The Scene ‘Hit The Lights’</a>
-	<span class="meta">17. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/tammywynette_remix-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="tammywynette_remix" title="tammywynette_remix"></div>
+	<div class="latesttitle"><h2><a title="Listen: Dave Audé – Stand By Your Man remix (Tammy Wynette)" href="http://www.wearepopslags.com/listen-dave-aude-stand-by-your-man-remix-tammy-wynette/" rel="bookmark">Listen: Dave Audé – Stand By Your Man remix (Tammy Wynette)</a></h2></div>
+	<div class="fix"></div> 
 </li>
-<li>
-	<a title="Listen: Marina &amp; The Diamonds ‘Starring Role’" href="http://www.wearepopslags.com/listen-marina-the-diamonds-starring-role/"><img src="http://www.wearepopslags.com/wp-content/themes/WAPS4/thumb.php?src=http://www.wearepopslags.com/wp-content/uploads/2011/11/marina-and-the-diamonds-radioactive-1024x680.jpg&amp;h=60&amp;w=60&amp;zc=1&amp;q=70" alt="Listen: Marina &amp; The Diamonds ‘Starring Role’" class="thumbnail" height="60" width="60"></a>	<a title="Permalink to  Listen: Marina &amp; The Diamonds ‘Starring Role’" href="http://www.wearepopslags.com/listen-marina-the-diamonds-starring-role/" rel="bookmark">Listen: Marina &amp; The Diamonds ‘Starring Role’</a>
-	<span class="meta">17. Nov, 2011</span>
-	<div class="fix"></div>
+<li><div class="wpp-thumbnail">
+	<img width="40" height="40" src="http://cdn.wearepopslags.com/wp-content/uploads/2012/06/cheryl-cole-promo-shot-40x40.jpg" class="attachment-sidebar-thumb wp-post-image" alt="Cheryl Cole promo shot for A Million Lights album" title="Cheryl Cole promo shot for A Million Lights album"></div>
+	<div class="latesttitle"><h2><a title="Cheryl Cole announces first ever solo arena tour dates" href="http://www.wearepopslags.com/cheryl-cole-announces-first-ever-solo-arena-tour-dates/" rel="bookmark">Cheryl Cole announces first ever solo arena tour dates</a></h2></div>
+	<div class="fix"></div> 
 </li>
 		
                     
@@ -775,126 +457,106 @@ The use of a website to collect and process personal information inevitably invo
         
     <div style="clear: both; display: block; padding: 5px 0; text-align:center;"></div>
     
-	<div id="ns_widget_mailchimp-3" class="widget widget_ns_mailchimp"><h3>Get the latest headlines &amp; updates in your inbox </h3>	
-				<form action="/privacy-policy/" id="ns_widget_mailchimp_form-3" method="post">
-																<input type="hidden" name="ns_mc_number" value="3">
-						<label for="ns_widget_mailchimp-email-3">Email Address :</label>
-						<input id="ns_widget_mailchimp-email-3" type="text" name="ns_widget_mailchimp_email">
-						<input class="button" type="submit" name="Join now!" value="Join now!">
+	<div id="ns_widget_mailchimp-5" class="widget widget_ns_mailchimp"><h3>Sign up for our weekly newsletter</h3>	
+				<form action="/privacy-policy/" id="ns_widget_mailchimp_form-5" method="post">
+																<input type="hidden" name="ns_mc_number" value="5">
+						<label for="ns_widget_mailchimp-email-5">Email Address :</label>
+						<input id="ns_widget_mailchimp-email-5" type="text" name="ns_widget_mailchimp_email">
+						<input class="button" type="submit" name="Join now" value="Join now">
 					</form>
-						<script>jQuery('#ns_widget_mailchimp_form-3').ns_mc_widget({"url" : "/index.php", "cookie_id" : "ns_widget_mailchimp-3", "cookie_value" : "191036ed993332f7257ea6387c88abd6", "loader_graphic" : "http://www.wearepopslags.com/wp-content/plugins/mailchimp-widget/images/ajax-loader.gif"}); </script>
-				</div>		
+						<script>jQuery('#ns_widget_mailchimp_form-5').ns_mc_widget({"url" : "/index.php", "cookie_id" : "ns_widget_mailchimp-5", "cookie_value" : "d41d8cd98f00b204e9800998ecf8427e", "loader_graphic" : "http://cdn.wearepopslags.com/wp-content/plugins/mailchimp-widget/images/ajax-loader.gif"}); </script>
+				</div><div id="seoqueries-terms" class="widget seoqueries_widget"><h3>Popular search terms</h3>Nobody landed on this page from a search engine, yet!</div><div id="rss-2" class="widget widget_rss"><h3><a class="rsswidget" href="http://www.wearepopslags.com/forum/forums/-/index.rss" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://cdn.wearepopslags.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.wearepopslags.com/forum/" title="Pop music forum where we discuss and review the latest music videos and album releases">Chatter on the forum</a></h3><ul><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/cheryl-cole-third-album-a-million-lights-singles.19/" title=" […]">Cheryl Cole - Third album 'A Million Lights' + singles</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/little-mix-debut-album-singles.48/" title=" […]">Little Mix - debut album + singles</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/leona-lewis-glassheart-singles.30/" title=" […]">Leona Lewis - Glassheart + singles</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/no-doubt-new-album-push-and-shove-singles.38/" title=" […]">No Doubt new album: Push and Shove + singles</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/jennifer-lopez-announces-tour-dates.28/" title=" […]">Jennifer Lopez announces tour dates</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/usher-looking-4-myself-singles.59/" title=" […]">Usher - Looking 4 Myself + singles</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/kelly-clarkson-new-album.81/" title=" […]">Kelly Clarkson - new album</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/beyonc%C3%A9-5th-studio-album-singles.82/" title=" […]">Beyoncé - 5th studio album + singles</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/madonna-mdna-tour-thread-spoilers.17/" title=" […]">Madonna MDNA Tour thread (spoilers)</a></li><li><a class="rsswidget" href="http://www.wearepopslags.com/forum/threads/alexandra-burke-heartbreak-on-hold-album-singles.26/" title=" […]">Alexandra Burke - 'Heartbreak On Hold' album + singles</a></li></ul></div>		
 
     <div id="siteinfo">
-	 <h3>We Are Pop Slags</h3>
-         <p>Get the latest pop music news, breaking entertainment stories, music videos and all the celeb gossip and pictures from We Are Pop Slags. <a href="http://www.wearepopslags.com/about-2/">More about us</a>.<br>
-           <br>
-         </p>
-         <a style="text-decoration:none" href="http://www.newsnow.co.uk/nn/WeArePopSlags" rel="nofollow" target="_blank"> <li><img alt="We Are Pop Slags on News Now" border="0" src="/wp-content/themes/WAPS4/images/NNstat_featured_wht_trans.gif"></li> 
-         <br><br>
-         </a><li><a style="text-decoration:none" href="http://www.newsnow.co.uk/nn/WeArePopSlags" rel="nofollow" target="_blank"></a><a href="http://shuffler.fm/channels/site_url%253Ahttp%253A%252F%252Fwww%252Ewearepopslags%252Ecom"><img alt="play this blog on Shuffler.fm" src="http://shuffler.fm/assets/buttons/32px.png"></a></li>
+	 <h3>A pop music website</h3>
+         <p><a href="http://www.wearepopslags.com/about-2/">We Are Pop Slags</a> is all about pop music. We bring you the latest pop music releases for June 2012 and far beyond.<br><br></p>
          <br>
+         <div style="background:url('http://tools.blognation.com/bn/tools/widget/image/yfs34GrvtASa4rkztgAKgw.png') no-repeat -1px -1px;">This site has recently been added to <a href="http://www.bestmusicblogs.org" target="_blank">Best Music Blogs</a>, which is part of one of the largest networks of blog directories on the Web. Please visit <a href="http://www.bestmusicblogs.org/blog/23258/we-are-pop-slags" target="_blank">my blog's personal page</a> to vote for our blog and comment to other blog users.</div>
+         <br>
+		 <a title="Mp3 Blog" href="http://www.mp3blogger.com" rel="nofollow"><img title="Mp3 Blog" alt="Mp3 Blog" src="http://www.mp3blogger.com/images/mp3-blogger-sm.png" height="15" width="80"></a> 
   </div>
    
-    
 	<!-- Widgetized Sidebar -->	
-	<div id="text-322257211" class="widget widget_text"><h3>Copyright</h3>			<div class="textwidget">If you have any concerns about the content in one of our posts, whether it’s an inaccurate fact or breach of a copyright, please contact us at info[at]wearepopslags dot com and rectify the issue straight away.</div>
-		</div>		
+			
              
 	
 </div><!-- /#sidebar -->
     </div><!-- /#content -->
 		
-<div id="footer"><!--Shuffler-d6187f91ae0863a4cf412eec9648c342-->
-<center><!--JavaScript Tag // Tag for network 577: Sonic / Trafficksolutions Limited // Website: Popslags // Page: ROS // Placement: Popslags leader (2486026) // created at: Apr 19, 2010 3:38:18 PM-->
-<script language="javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=345;misc=1580356844368"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|577|2486026|0|1|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|577|2486026|0|1|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="468" height="60"></a></noscript>
-<!-- End of JavaScript Tag --> 
-</center>
-</div><br>
-
-<div id="footerform">
-	<div class="close">
-		<div id="closefornow"> <a href="#" onclick="slidedown(); return false;">Close X</a></div>
-	</div>
-	<!-- Your Tag Line-->
-	<div class="tagline">Subscribe to our weekly newsletter for all of the latest pop news, songs and videos.</div>
-<!-- Begin MailChimp Signup Form -->
-<script type="text/javascript">
-// delete this script tag and use a "div.mce_inline_error{ XXX !important}" selector
-// or fill this in and it will be inlined when errors are generated
-var mc_custom_error_style = '';
-</script>
-<div>
-<form action="http://wearepopslags.us2.list-manage1.com/subscribe/post?u=34aa3ed46f488e1c0f365a70f&amp;id=cad923b9b2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-	<fieldset>
-	
-<div>
-<label for="mce-EMAIL">Your email: </label>
-<input type="text" value="" name="EMAIL" class="required email" id="mce-EMAIL"> <input type="submit" value="Sign up" name="subscribe" id="mc-embedded-subscribe" class="btn">
-</div>
-		<div id="mce-responses">
-			<div class="response" id="mce-error-response" style="display:none"></div>
-			<div class="response" id="mce-success-response" style="display:none"></div>
-		</div>
-	</fieldset>	
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-     
-	<!-- /HTML Web Form TO be Replace -->
-</div>
-
 <div id="footer">
-      <p style="line-height: 20px"><strong>BROWSE::</strong> <a href="http://www.wearepopslags.com/category/download-free-mp3/">Free MP3 Downloads</a> | <a href="http://www.wearepopslags.com/category/interview">Interviews</a> | <a href="http://www.wearepopslags.com/category/movies">Movie Soundtracks</a>  | <a href="http://www.wearepopslags.com/category/music-videos">Music Videos</a> | <a href="http://www.wearepopslags.com/category/new-pop-music/">New Pop Music</a> | <a href="http://www.wearepopslags.com/category/performances/">Performances</a> | <a href="http://www.wearepopslags.com/category/pop-atlas/">Pop Atlas</a> |   <a href="http://www.wearepopslags.com/category/pop-news/">Pop News</a> | <a href="http://www.wearepopslags.com/category/tour-news/">Tour News</a> |  <a href="http://www.wearepopslags.com/category/competitions/">Competitions</a> 
-      </p><p style="line-height: 20px"><strong>ABOUT:: </strong><a href="http://www.wearepopslags.com/about-2/">About us</a> | <a href="http://www.wearepopslags.com/links/">Links</a> | <a href="http://www.wearepopslags.com/link-exchange/">Link exchange</a> | <a href="http://www.wearepopslags.com/contact/">Contact Us</a> | <a href="http://www.wearepopslags.com/advertising-info/">Advertising info</a>
-      </p><p style="line-height: 20px"><strong>SOCIALIZE:: </strong><a href="http://www.facebook.com/popslags" target="_blank">Facebook Fan Page</a> | <a href="http://www.twitter.com/popslags" target="_blank">Popslags @ Twitter</a> | <a href="http://www.wearepopslags.com/sign-up-to-our-newsletter/">Sign Up To Our Newsletter</a></p>
-      <p style="line-height: 20px"><strong>LEGAL:: </strong><a href="http://www.wearepopslags.com/terms-conditions/"> Terms and Conditions</a> | <a href="http://www.wearepopslags.com/privacy-policy">Privacy Policy</a> | <a href="http://www.wearepopslags.com/feed" target="_blank">RSS Feed</a><br>
-        </p>                  
-  <p><br>
-  <a href="http://www.wearepopslags.com/category/download-free-mp3/">Free MP3 downloads</a> instead of RapidShare, Zshare, 4Shared, Easy-Share, MegaUpload, HotFire, Mediafire, yousendit (ysi) or torrent.<br>
-  <br>
-  <strong>We Are Pop Slags brings you the latest  news, celebrity gossip and photos, new songs and music videos</strong>. Copyright (c) 2007-2011 We Are Pop Slags. All rights reserved.
-<br>
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
-<script type="text/javascript" src="http://www.wearepopslags.com/wp-content/plugins/contact-form-7/scripts.js?ver=3.0.1"></script>
-<!-- Google Analytics Social Button Tracking -->
-<script type="text/javascript" src="http://js.gb-world.net/lib/ga_social_tracking.js?ver=0.1"></script>
-</p><div id="fb-root"><script async="" src="https://connect.facebook.net/en_GB/all.js"></script></div>
+	<ul><h3>We Are Pop Slags</h3>
+		 <a href="/sign-up-to-our-newsletter/"> Newsletter</a><br>
+		 <a href="/links/">Links</a><br>
+         <a href="http://feeds.feedburner.com/popslags" target="_blank">RSS feed</a><br>
+         <a href="/contact">Contact us</a><br>
+		 <a href="/about-2/">About us</a><br>
+         <a href="/advertising-info/">Advertising</a><br>
+         <a href="/terms-conditions/">Terms of use</a><br>
+         <a href="/privacy-policy">Privacy Policy</a><br>
+    </ul>
+
+	<ul><h3>Quick links</h3>
+    	 <a href="/category/pop-news">Pop news</a><br>
+		 <a href="/category/music-videos">New music videos</a><br>
+         <a href="/category/new-pop-music" target="_blank">New songs</a><br>
+         <a href="/category/download-free-mp3">Download free MP3s</a><br>
+         <a href="/category/competitions">Competitions</a><br>
+         <a href="/category/performances/">Live and TV performances</a><br>
+         <a href="http://www.facebook.com/popslags" target="_blank">Popslags on Facebook</a><br>
+         <a href="http://www.twitter.com/popslags" target="_blank">Popslags on Twitter</a><br>
+    </ul>
+	<ul><h3>Popular pop stars</h3>
+    	 <a href="/artists/alexandra-burke">Alexandra Burke news</a><br>
+    	 <a href="/artists/beyonce">Beyonce news</a><br>
+    	 <a href="/artists/britney-spears">Britney Spears news</a><br>
+    	 <a href="/artists/cheryl-cole">Cheryl Cole news</a><br>
+    	 <a href="/artists/cher-lloyd">Cher Lloyd news</a><br>
+    	 <a href="/artists/christina-aguilera">Christina Aguilera news</a><br>
+    	 <a href="/artists/jennifer-lopez">Jennifer Lopez news</a><br>
+    	 <a href="/artists/jessie-j">Jessie J news</a><br>
+    </ul>
+    <ul><h3>&nbsp;</h3>   
+    	 <a href="/artists/jls">JLS news</a><br>
+    	 <a href="/artists/katy-perry">Katy Perry news</a><br>
+    	 <a href="/artists/kelly-clarkson">Kelly Clarkson news</a><br>
+    	 <a href="/artists/kesha">Kesha news</a><br>
+    	 <a href="/artists/kylie-minogue">Kylie Minogue news</a><br>
+    	 <a href="/artists/lady-gaga">Lady Gaga news</a><br>    
+    	 <a href="/artists/lana-del-rey">Lana Del Rey news</a><br>
+    	 <a href="/artists/leona-lewis">Leona Lewis news</a><br>
+    </ul>
+
+    <ul><h3>&nbsp;</h3>   
+    	 <a href="/artists/little-mix">Little Mix news</a><br>
+    	 <a href="/artists/madonna">Madonna news</a><br>
+    	 <a href="/artists/mariah-carey">Mariah Carey news</a><br>
+    	 <a href="/artists/one-direction">One Direction news</a><br>
+    	 <a href="/artists/rihanna">Rihanna news</a><br>
+    	 <a href="/artists/robyn">Robyn news</a><br>
+    	 <a href="/artists/shakira">Shakira news</a><br>
+    	 <a href="/artists/the-wanted">The Wanted news</a><br>
+    </ul>
+
+<p><a href="#toppage">↑ Back to top</a> (c) 2012 We Are Pop Slags</p> <br><br>
+</div><br><br>
+<script type="text/javascript" src="http://cdn.wearepopslags.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.js?ver=3.09"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-    window.fbAsyncInit = function() {
-        FB.init({appId: '78540916881', status: true, cookie: true,
-                         xfbml: true});
-		_ga.trackFacebook();
-		    };
-    (function() {
-        var e = document.createElement('script'); e.async = true;
-        e.src = document.location.protocol +
-            '//connect.facebook.net/en_GB/all.js';
-        document.getElementById('fb-root').appendChild(e);
-    }());
+var _wpcf7 = {"loaderUrl":"http:\/\/www.wearepopslags.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201147.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://cdn.wearepopslags.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.2"></script>
 <script type="text/javascript">
-st_go({blog:'5164815',v:'ext',post:'283'});
-var load_cmc = function(){linktracker_init(5164815,283,2);};
-if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
-else load_cmc();
-</script>
-<!-- DB Cache Reloaded Generated in 1.360 seconds. Made 62 queries to database and 30 cached queries. Memory used - 24.6MB -->
-<!-- Cached by DB Cache Reloaded Fix -->
- 
-	      <br> 
-</div>
-<br><br><br><br><br><br><br><br>
+  window.___gcfg = {lang: 'en-GB'};
 
-</body></html>
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- Dynamic page generated in 1.450 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-06-14 18:34:19 -->
+<!-- Compression = gzip --></body></html>
