@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exact.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229060801id_/http%3A//www.exact.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exact.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614202045id_/http%3A//www.exact.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Exact
 
