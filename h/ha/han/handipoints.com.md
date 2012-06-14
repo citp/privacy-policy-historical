@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handipoints.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228200724id_/http%3A//www.handipoints.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handipoints.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614121319id_/http%3A//www.handipoints.com/privacy.html) for the most accurate reproduction.*
 
 # Handipoints Privacy Policy
 
