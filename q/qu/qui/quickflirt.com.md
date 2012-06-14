@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214032322id_/http%3A//www.quickflirt.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023546id_/http%3A//www.quickflirt.com/privacy.cfm) for the most accurate reproduction.*
 
 # Your privacy and safety at Quick Flirt Online Dating
 
-### Privacy Policy
+**Privacy Policy**
 
 (' **We** ') Cupid plc are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms and conditions of use](http://www.quickflirt.com/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms and conditions of use](http://www.quickflirt.com/terms.cfm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** ').
 
@@ -32,7 +32,7 @@ We use the information we hold about you in the following ways:
   * To allow you to participate in any interactive features of the Site(including the features that require the mobile phone number).
   * To help personalise your repeat visits to the Site.
   * To notify you of any compatible matches or any matches who are near your location.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing by us and third parties** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
   * To answer any questions you may raise or respond to any comments you may send to us.
   * To notify you about changes to our service or the functionality of the Site.
   * To carry out market analysis and research.
@@ -92,7 +92,9 @@ We may collect information about your computer, including where available your I
 
 For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
-You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.  We use cookiesto enhance our security, help us gather information during subscription and understand our web traffic trends. You can amend your browser settings so that you do not accept cookies, but this will probably adversely affect the way you experience our Site.
+
+Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you. The non-personal data gathered is used to provide anonymised statistical information.
 
 **Where we store your personal data**
 
