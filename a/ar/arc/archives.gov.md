@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015022433id_/http%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614020709id_/http%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Use
 
@@ -61,7 +61,7 @@ Cookies will not:
 
 
 
-**Embedded applications**
+**Embedded Applications**
 
 On occasion, the National Archives will embed media in its sites. For example, embedded videos and slideshows are most common on blogs like [AOTUS: Collector in Chief](http://blogs.archives.gov/aotus/). When we embed media from a third party, it is to enhance the visitor’s experience.
 
@@ -69,7 +69,7 @@ Where possible, we embed the media in a way that minimizes the use of cookies. T
 
 Some of the media embedded from a third party site is from NARA’s archival collections and is available through the [Archival Research Catalog](https://web.archive.org/research/arc/) or on archives.gov. Media from select current public programs is available on archives.gov. Embedded videos are captioned or a transcript will be provided on request.
 
-**Third-party web sites**
+**Third-party Web Sites**
 
 In accordance with the Open Government Directive, the National Archives has a presence on several Web 2.0/[social media platforms](https://web.archive.org/social-media/). Each of these sites provides visitors with a unique way to interact with the National Archives and helps us to open our collections to the public. The National Archives official presence on a social media platform is marked by the use of a NARA [logo or seal](https://web.archive.org/about/regulations/part-1200.html).
 
@@ -151,8 +151,17 @@ Top of Page
 
 **Copyright, Restrictions, and Permissions Notice**
 
-  * Generally, materials produced by Federal agencies are in the public domain and may be reproduced without permission. However, not all materials appearing on this web site are in the public domain. Some materials have been donated or obtained from individuals or organizations and may be subject to restrictions on use.
-  * You may consult our reference staff for details on specific items. We are aware of donor restrictions applicable to our collections, but we cannot confirm copyright status for any item. We recommend that you contact the [**United States Copyright Office**](https://web.archive.org/global-pages/exit.html?link=http://lcweb.loc.gov/copyright/) at The Library of Congress to search currently copyrighted materials.
+Generally, materials produced by Federal agencies are in the public domain and may be reproduced without permission. However, not all materials appearing on this web site are in the public domain.
+
+Some materials have been donated or obtained from individuals or organizations and **[may be subject to restrictions](https://web.archive.org/global-pages/privacy.html#restrictions)** on use.
+
+  * If you have copyright information about an item you've seen on our website, including items in [ARC](https://web.archive.org/research/arc/) and [OPA](https://web.archive.org/research/search/), or if you are the copyright owner and believe our website has not properly attributed your work to you or has used it without permission, we want to hear from you. Please email [copyright@nara.gov](mailto:copyright@nara.gov) with your contact information and a link to the relevant content.
+
+
+
+You may consult our reference staff for details on specific items. We are aware of donor restrictions applicable to our collections, but we cannot confirm copyright status for any item. 
+
+  * We recommend that you contact the [**United States Copyright Office**](https://web.archive.org/global-pages/exit.html?link=http://lcweb.loc.gov/copyright/) at The Library of Congress to search currently copyrighted materials.
   * Please note that because we cannot guarantee the status of specific items, you use materials found in our holdings at your own risk.
   * Images on our web site (or a third party site where we share images, such as Flickr) which are in the public domain may be used without permission. If you use images from our collections, we ask that you credit us as the source. Please note that some images on our site have been obtained from other organizations. Permission to use these images should be obtained directly from those organizations.
   * Links may be made to our web site from other personal and organizational web pages. We request that you link to our site rather than downloading portions of it to another web server, so that our viewers will see our most up-to-date information.
