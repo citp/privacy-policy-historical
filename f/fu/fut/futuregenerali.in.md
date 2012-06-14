@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futuregenerali.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144100id_/http%3A//www.futuregenerali.in/Corporate/CorporateOther/CorporateOtherPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuregenerali.in privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614042605id_/http%3A//www.futuregenerali.in/Corporate/CorporateOther/CorporateOtherPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Future Generali
+# Privacy Policy | Future Generali
 
 We are committed to protecting Your privacy and have taken reasonable steps to protect the confidentiality of the Personal Information You have furnished to us and its transmission through the world wide web.
 
