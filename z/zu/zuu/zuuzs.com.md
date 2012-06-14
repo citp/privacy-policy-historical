@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuuzs.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123122751id_/http%3A//www.zuuzs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuuzs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615004223id_/http%3A//www.zuuzs.com/about/privacy) for the most accurate reproduction.*
 
 # zuuzs.com | Privacy Policy
 
@@ -37,7 +37,7 @@ We also may request information about your interests, activities, gender, age, a
 
     1. #### A. Cookies and Other Technologies 
 
-We use cookies and other technologies, such as, web beacons (also known as “clear gifs” and “pixel tags”) to recognize you, customize your experience, and serve advertisements.   Cookies are very small files placed on your computer, and they allow us to count the number of visitors to zuuzs.com and distinguish repeat visitors from new visitors. They also allow us to save Member preferences and track Member trends. We rely on cookies for the proper operation of zuuzs.com; therefore if your browser is set to reject all cookies, the website will not function properly and you may lose functionality.  Specifically, we require our Members to have cookies enabled in order to accumulate and receive FUNdzs ( _i.e._ , cash payments).  We do not link cookies or web beacons to any Personal Information.   We may also enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on zuuzs.com. These advertisers and ad servers may use cookies and/or web beacons to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third-party and the advertiser. This Privacy Policy does not cover the privacy practices of any advertisers or ad servers.
+We use cookies and other technologies, such as, web beacons (also known as “clear gifs” and “pixel tags”) to recognize you, customize your experience, and serve advertisements.   Cookies are very small files placed on your computer, and they allow us to count the number of visitors to zuuzs.com and distinguish repeat visitors from new visitors. They also allow us to save Member preferences and track Member trends. We rely on cookies for the proper operation of zuuzs.com; therefore if your browser is set to reject all cookies, the website will not function properly and you may lose functionality.  Specifically, we require our Members to have cookies enabled in order to accumulate and receive fundzs ( _i.e._ , cash payments).  We do not link cookies or web beacons to any Personal Information.   We may also enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on zuuzs.com. These advertisers and ad servers may use cookies and/or web beacons to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third-party and the advertiser. This Privacy Policy does not cover the privacy practices of any advertisers or ad servers.
 
   
 
@@ -79,7 +79,7 @@ We fully comply with the requirements of the U.S. CAN-SPAM Act.  zuuzs.com does
 
 We encourage you to refer your family, friends, and colleagues to zuuzs.com by sending us their name and email address. We will keep this information in our database, and send that person an e-mail containing your name and inviting them to visit zuuzs.com. This e-mail will also include instructions on how to remove their information from our database. You agree that you will not abuse this feature by entering names and addresses of those who would not be interested in zuuzs.com’s services. 
 
-zuuzs.com provides value to its Member by paying FUNdzs ( _i.e._ , cash rewards) to our Members. The information we collect ( _e.g._ , name, email address, and physical address) is used to track and send FUNdzs Members earn.
+zuuzs.com provides value to its Member by paying fundzs ( _i.e._ , cash rewards) to our Members. The information we collect ( _e.g._ , name, email address, and physical address) is used to track and send fundzs Members earn.
 
 Additionally, we may use information on the websites you visit or the offers you view on zuuzs.com to select special offers that will be relevant to you. Except at an aggregate level, however, we do not share that information with our partners, advertisers or other third parties.
 
@@ -117,7 +117,7 @@ We do not sell, rent, or otherwise provide your Personal Information to any thir
 
   1. ### 1\. Our Employees
 
-Only a very limited number of zuuzs.com employees ever have access to your Personal Information. This information is used to track and send FUNdzs you earn.
+Only a very limited number of zuuzs.com employees ever have access to your Personal Information. This information is used to track and send fundzs you earn.
 
   
 
@@ -219,7 +219,7 @@ Despite your indicated email marketing preferences, we may send you administrati
 
 You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at contact@zuuzs.com. We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
 
-It is the Member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your account page and entering corrections. Email and street addresses that are entered into a Member's personal profile page are the addresses that will be used for all contact including for your FUNdzs payments. zuuzs.com is not responsible for payments sent to an incorrect addresses provided by you.
+It is the Member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your account page and entering corrections. Email and street addresses that are entered into a Member's personal profile page are the addresses that will be used for all contact including for your fundzs payments. zuuzs.com is not responsible for payments sent to an incorrect addresses provided by you.
 
 We will post all changes to this Privacy Policy here at zuuzs.com. You are responsible for checking periodically on policy updates.
 
