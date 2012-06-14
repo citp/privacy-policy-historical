@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212004436id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614085128id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Corsa Capital
 
@@ -45,10 +45,54 @@ Corsa Capital Investments, Corp.
 P.O. Box 3321, Drake Chambers, Road Town  
 Tortola, British Virgin Islands
 
-|    | 
-
 FOREX quotes
 
+EURUSD 1.2558 -0.13%  
   
+---  
   
----|---|---
+GBPUSD 1.5483 -0.23%  
+  
+USDJPY 79.33 -0.05%  
+  
+USDCHF 0.9561 0.10%  
+  
+USDCAD 1.0285 0.01%  
+  
+EURJPY 99.62 -0.19%  
+  
+EURCHF 1.2008 -0.02%  
+  
+GBPJPY 122.78 -0.29%  
+  
+GBPCHF 1.4804 -0.13%  
+  
+GOLD 1618.30 0.11%  
+  
+AUDJPY 78.77 -0.19%  
+  
+CADJPY 77.10 -0.06%  
+  
+SILVER 28.93 0.28%  
+  
+CADCHF 0.9291 0.11%  
+  
+AUDCHF 0.9499 -0.04%  
+  
+NZDCHF 0.7422 0.09%  
+  
+EURAUD 1.2642 -0.01%  
+  
+EURGBP 0.8110 0.12%  
+  
+AUDCAD 1.0217 -0.14%  
+  
+AUDUSD 0.9936 -0.13%  
+  
+NZDCAD 0.7983 -0.01%  
+  
+CRSIDX 10290.3 0.00%  
+  
+CHFJPY 82.87 -0.16%  
+  
+NZDJPY 61.58 -0.05%
