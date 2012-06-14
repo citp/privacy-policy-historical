@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uobd2.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219064145id_/http%3A//uobd2.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uobd2.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614052438id_/http%3A//www.uobd2.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UOBD2.com - China Auto Diagnostic Tool Center -Top Quality, Good Service, Competitive Price
 
@@ -13,11 +13,9 @@ Thank you for accessing the website ("Site") of uobd2.com, Limited.  We respect
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
 This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-uobd2.com website to which this Site links or that links to this Site.  
-**
+****
 
-Information Collection And Use
-
-**
+**Information Collection And Use**
 
 1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:  
 * Help make this Site easier for you to use by not having to enter information more than once.  
@@ -58,11 +56,10 @@ Information Collection And Use
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
   While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.  
-**
+****
 
-OPT OUT/CORRECTIONS
+**OPT OUT/CORRECTIONS**
 
-**  
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to UOBD2’s Customer Support department at [chinauobd2@gmail.com](mailto:chinauobd2@gmail.com). Please do not email your credit card number or other sensitive information.
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION  
