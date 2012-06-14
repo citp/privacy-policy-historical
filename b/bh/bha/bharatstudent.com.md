@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bharatstudent.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213044748id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatstudent.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614030809id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.*
 
 # BharatStudent Help
 
 **About bharatstudent.com**  
-Bharatstudent.com is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. Bharat student members can view each others' profiles, communicate with old friends and meet new friends, create or join any gangs, share photos, videos, post comments and send messages. To enrich our members' experience, we request and display some personal information to other visitors and members, which allows our users to identify each other and expand their network. Bharat student members can change their profile information at any time. 
+Bharatstudent.com is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. Bharat student members can view each others' profiles, communicate with old friends and meet new friends, create or join any gangs, share photos, post comments and send messages. To enrich our members' experience, we request and display some personal information to other visitors and members, which allows our users to identify each other and expand their network. Bharat student members can change their profile information at any time. 
 
 Bharatstudent.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at privacy@bharatstudent.com 
 
