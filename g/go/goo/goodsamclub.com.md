@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003804id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614093011id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Good Sam Club
 
-We appreciate the trust you place in Affinity, its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this “Privacy Policy”) describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us. 
+We appreciate the trust you place in Good Sam Enterprises, LLC. its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this “Privacy Policy”) describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us. 
 
 Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please feel free to contact us directly at any time.
 
-Affinity Group, Inc.  
+Good Sam Enterprises, LLC.  
 PO Box 6888  
 Englewood, CO 80155-6888  
 800-234-3450  
-[info@affinitygroup.com](mailto:info@affinitygroup.com)
+[info@goodsamfamily.com](mailto:info@goodsamfamily.com)
 
 ## Types of information we collect and how we collect it.
 
@@ -38,7 +38,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 When you supply us with personally identifiable information, the information you provide is added to our customer file. We use personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, we use your information to process your order, or if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is also used to send you: e-mail updates related to clubs, products and services, discounts, upcoming events and newsletters about our sites; RV or other e-mail promotions and special offers from our third-party sponsors; periodic mailings or telephone contact related to clubs, products and services, discounts, upcoming events, newsletters about our sites; periodic mailings related to RV or other promotions and special offers from our third-party sponsors. 
 
-In addition, by joining Good Sam Club and/or other Affinity-sponsored membership clubs, you agree and acknowledge that we may recognize your membership among our affiliated companies and on our web sites. For example, if you are a member of Good Sam Club and have also joined the RV.Net forum, we will indicate that you are a Good Sam Club member by displaying a "Good Sam" icon by your user name whenever you post content to an RV.Net forum. If you would like to remove the Good Sam Club icon in relation to your forum posts, you may do so in your forum account in the "My Profile" section.
+In addition, by joining Good Sam Club and/or other Good Sam Enterprises-sponsored membership clubs, you agree and acknowledge that we may recognize your membership among our affiliated companies and on our web sites. For example, if you are a member of Good Sam Club and have also joined the RV.Net forum, we will indicate that you are a Good Sam Club member by displaying a "Good Sam" icon by your user name whenever you post content to an RV.Net forum. If you would like to remove the Good Sam Club icon in relation to your forum posts, you may do so in your forum account in the "My Profile" section.
 
 ## Who We Share Your Information With 
 
@@ -74,15 +74,15 @@ We will give out personal information as required by law, for example, to comply
 
 In many cases, if you have established an account with one of our business units, you can review your communication preferences through the “My Account” section of our websites. Communication preferences are permissions that you have granted us to communicate with you on specific areas of interest. You may make modifications to your communication preferences directly through this section of “My Account”. 
 
-If you don’t have an account, can’t find your account or our site doesn’t provide an account section, you can simply contact us via email by clicking "Contact Us" on any of our Web pages or send an email directly to info@affinitygroup.com. Please include information in the email that will help us identify your account so we can assist you with your inquiry or request.
+If you don’t have an account, can’t find your account or our site doesn’t provide an account section, you can simply contact us via email by clicking "Contact Us" on any of our Web pages or send an email directly to info@goodsamfamily.com. Please include information in the email that will help us identify your account so we can assist you with your inquiry or request.
 
 ## E-mail Communications
 
-You can use much of our site without giving us any personally identifiable information. When you register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At anytime you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at info@affinitygroup.com. 
+You can use much of our site without giving us any personally identifiable information. When you register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At anytime you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at info@goodsamfamily.com. 
 
 ## Direct Mail Communications
 
-We recognize that your privacy is very important to you and we are committed to protecting it.  When you subscribe to our publications, join our clubs or otherwise do business with us, please tell us if you do not want to receive our direct mail marketing offers for any or just certain products and/or services.  We will mark your account for a three-year period. You will not receive any direct mail offers from us during this three-year period for those products and/or services that you have indicated to us that you are not interested in receiving. If you change your mind, just get in touch with us andask that we include you in future offerings.  You can ask us at any time to not include you in future offerings.  However, please note that because marketing campaigns are planned a few months ahead of time, you may continue to receive marketing offers for two to four months. Write to us at Affinity Mail Preference Service, P.O. Box 6888, Englewood, CO 80155-6888 to opt out from specific future mailings. 
+We recognize that your privacy is very important to you and we are committed to protecting it.  When you subscribe to our publications, join our clubs or otherwise do business with us, please tell us if you do not want to receive our direct mail marketing offers for any or just certain products and/or services.  We will mark your account for a three-year period. You will not receive any direct mail offers from us during this three-year period for those products and/or services that you have indicated to us that you are not interested in receiving. If you change your mind, just get in touch with us andask that we include you in future offerings.  You can ask us at any time to not include you in future offerings.  However, please note that because marketing campaigns are planned a few months ahead of time, you may continue to receive marketing offers for two to four months. Write to us at Good Sam Mail Preference Service, P.O. Box 6888, Englewood, CO 80155-6888 to opt out from specific future mailings. 
 
 ## The Type of Security We Provide 
 
@@ -100,6 +100,6 @@ This Privacy Policy shall not apply to any unsolicited information you provide u
 
 ## Policy Changes
 
-Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of October 6, 2009 and has not been revised in any material respect since such effective date. All changes to this Privacy Policy are effective immediately. In the event of any material changes to this Privacy Policy, we will notify users of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30 days after the effectiveness of the changes.
+Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of March 1, 2012 and has not been revised in any material respect since such effective date. All changes to this Privacy Policy are effective immediately. In the event of any material changes to this Privacy Policy, we will notify users of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30 days after the effectiveness of the changes.
 
-Copyright 2009 Affinity Group, Inc. All Rights Reserved.
+Copyright 2012 Good Sam Enterprises, LLC. All Rights Reserved.
