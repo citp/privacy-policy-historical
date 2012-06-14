@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmnewsblog.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115090650id_/http%3A//www.mlmnewsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmnewsblog.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614114647id_/http%3A//www.mlmnewsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | MLMNewsBlog.comMLMNewsBlog.com
+# MLMNewblog.com Privacy Policy | MLMNewsBlog.com
 
 **What information do we collect?** We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
 
@@ -75,8 +75,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://MLMNewsBlog.com
-
+http://MLMNewsBlog.com  
 New Delhi, New Delhi 110060  
 India  
 mlmnewsblog@gmail.com
