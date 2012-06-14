@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229065505id_/http%3A//www.carbonite.com/en/terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615015809id_/http%3A//www.carbonite.com/en/terms-of-use/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Carbonite
 
@@ -26,23 +26,8 @@ Carbonite is very concerned about protecting the privacy of children. Carbonite 
 
 ### EUROPEAN PERSONALLY IDENTIFIABLE INFORMATION
 
-Carbonite has committed to handling personally identifiable information from users in the European Union and the European Economic Area in accordance with the European Union’s Safe Harbor Principles. Carbonite’s self-certification on the U.S. Department of Commerce’s Safe Harbor List can be found at <http://export.gov/safeharbor>. Carbonite is committed to the resolution of complaints about (1) Your privacy, and (2) Carbonite’s collection or use of Your personal information. Carbonite has committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with Carbonite, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc.
+Carbonite has committed to handling personally identifiable information from users in the European Union and the European Economic Area in accordance with the European Union’s Safe Harbor Principles and to refer unresolved privacy complaints to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Carbonite, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-If You do not receive acknowledgment of Your complaint or Your complaint is not satisfactorily addressed by Carbonite, You should contact:
+Carbonite’s self-certification on the U.S. Department of Commerce’s Safe Harbor List can be found at <http://export.gov/safeharbor>. 
 
-Council of Better Business Bureaus, Inc.   
-BBB EU Safe Harbor   
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203   
-Phone: 703-276-0100  
-Web: [http://www.us.bbb.org](http://www.us.bbb.org/)   
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
-
-### CONTACT INFORMATION
-
-Email:  | [privacy@carbonite.com](mailto:privacy@carbonite.com)  
----|---  
-Postal: | Carbonite, Inc.   
-Attention: Privacy Policy   
-177 Huntington Avenue   
-Boston, MA 02115
+To contact Carbonite's privacy officer, please email [privacy@carbonite.com](mailto:privacy@carbonite.com).
