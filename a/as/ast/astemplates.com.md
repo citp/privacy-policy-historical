@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204034452id_/http%3A//www.astemplates.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614023130id_/http%3A//www.astemplates.com/policy.php) for the most accurate reproduction.*
 
-# AS Templates - Professional Website Templates
+# Privacy Policy - ASTemplates
 
 ### 1\. Advertisement
 
