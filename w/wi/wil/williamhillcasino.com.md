@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003256id_/http%3A//www.williamhillcasino.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillcasino.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614181732id_/http%3A//www.williamhillcasino.com/privacy.htm) for the most accurate reproduction.*
 
 # Information on William Hill Casino's Use of Personal Data
-
-Download |  | Home|  | GETTING STARTED|  | PROMOTIONS|  | DEPOSIT|  | CASHOUT|  | PRIVACY & SECURITY|  | GAMES|  | 24/7 SUPPORT  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-  
-[Home](http://www.williamhillcasino.com/) » Privacy & Security
 
 **PRIVACY POLICY For www.williamhillcasino.com (“the Website”)**
 
