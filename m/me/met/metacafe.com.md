@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226153719id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614024631id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,12 @@ Metacafe may use cookies, web beacons or similar technologies to enhance and per
 
 Metacafe does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. To disable cookies, follow the instructions in your web browser. 
 
+### Local Shared Object (Flash Cookie)
+
+We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you disable Flash cookies, you won't have access to many features that make your guest experience more efficient and some of our services will not function properly. 
+
+Click [here](https://secure.metacafe.com/account/login/?token=cc6207f616b24881a96d35b888e7f9f4) to cancel an existing account.
+
 ### Security
 
 Metacafe has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information. 
@@ -64,4 +70,4 @@ Third Parties' Practices. This Privacy Policy does not cover the information pra
 
 The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer. 
 
-Last updated: July 21st, 2011.
+Last updated: May 13st, 2012.
