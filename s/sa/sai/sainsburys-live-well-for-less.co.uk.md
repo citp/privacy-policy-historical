@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburys-live-well-for-less.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154608id_/http%3A//www.sainsburys.co.uk/sol/iw_container_page.jsp%3FpageRef%3Dsites/www/site_furniture/Site_Furniture_PP.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburys-live-well-for-less.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614130253id_/http%3A//www.sainsburys.co.uk/sol/iw_container_page.jsp%3FpageRef%3Dsites/www/site_furniture/Site_Furniture_PP.page) for the most accurate reproduction.*
 
 # Privacy policy - Sainsbury's
 
@@ -114,13 +114,11 @@ Cookies
     Back to top
     
 
-• We use a feature of your internet browser called a ‘cookie’ on this website.  A ‘cookie’ is a very small text file that your web browser places on your computer’s hard drive which allows us to help you get the best out of your visit to the website.  A ‘cookie’ can be thought of as an identification card which tells our website when you have returned. For further information about cookies please visit <http://www.allaboutcookies.org/>.   
-• Our ‘cookies’ are only used to store basic information like your user identification.  They do not store password or credit card information.  
-• We use ‘cookies’ to make accessing the website more convenient as you won’t need to remember your user name / email address. This information will allow us to welcome you by name and, over time, to personalise our website content to reflect your preferences.  For security reasons, you will still need to enter your password. Our ‘cookie’ will remain on your hard drive indefinitely.  
-• It is possible for you to view our website without providing any personal information but you will need to register your details so that we can process any online order you may make.  Another advantage of registering is that we will be able to contact you about special offers from which you can benefit. We also use cookies to provide aggregate statistics on visitors to our websites and their browsing behaviour. However, Sainsbury’s will never use this information to identify you personally or to market products and services to you without your consent.    
-• Sainsbury’s uses trusted data analytics service providers like Google Analytics, Adobe and Omniture to help us analyse the aggregate website visitor statistics collected from our site cookies. Sainsbury’s may also set third party cookies (cookies which are not set by the sainsburys.co.uk domain) while you are browsing the site and use the data collected for the same analytical purpose. Sainsbury’s sets out strict conditions for the processing of any cookie information by any third party and remains in control of this information at all times.  
-• You can set your browser to accept or reject all (or certain) ‘cookies’.  You can also set your browser to alert you each time a ‘cookie’ is presented to your computer.  You can delete ‘cookies’ that have been stored on your computer but remember, if you prevent us from placing ‘cookies’ on your computer during your visit or you subsequently delete a ‘cookie’ that has been placed, it will not be possible for you to use this website effectively.  The system relies on the ‘cookie’ to identify you as the user.  
-• Please be assured that Sainsbury’s does not use ‘cookies’ to retrieve personal information about you from your computer.  We will only gain such information if you have knowingly and willingly provided such information to us.
+We use a feature of your internet browser called a 'cookie' on the Sainsbury's website.
+
+A 'cookie' is a very small text file that your web browser places on your computer's hard drive which allows us to help you get the best out of your visit to the website and improve your user experience. A 'cookie' can be thought of as an identification card which tells a website when you have returned.
+
+To read our  Cookie Policy please [click here.](http://www.sainsburys.co.uk/sol/iw_container_page.jsp?pageRef=sites/www/site_furniture/terms_and_conditions/Cookie_policy.page "Sainsbury's Cookie policy")
 
     
 
