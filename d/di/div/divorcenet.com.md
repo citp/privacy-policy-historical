@@ -1,32 +1,138 @@
-> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518204916id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614082740id_/http%3A//www.nolo.com/security-privacy.html) for the most accurate reproduction.*
 
-# DivorceNet Privacy Statement — DivorceNet
+# Security & Privacy | Nolo.com
 
-**Our Online Data Collection and Use Practices**  
-This statement explains the online data collection and use practices of DivorceNet.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Lawtek Media Group, LLC. This statement does not apply to the offline data collection and use practices of Lawtek Media Group, LLC. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Lawtek in other settings.
+### Security and data-tracking concerns
 
-Since Internet technologies continue to evolve and Internet business models are not fully established, this statement is subject to change. Any changes to the privacy statement will be posted on this page and we will notify you of any material changes by placing a prominent notice on the home page of DivorceNet.com. We encourage you to periodically visit this page to stay informed about the data practices of DivorceNet.com. By using this site, you consent to the data practices described on this page and any updates. 
+  * BBB Accreditation Rating A+
+  * TRUSTe Site Verification
+  * Site Security
+  * The Use of Cookies
+  * Log Files
 
-**The Information We Collect On This Site**  
-DivorceNet.com maintains and uses the anonymous, non-personal information collected in our server log files. This information includes such anonymous data as number of visitors to the site, most popular pages, the user's operating system (for example, Macintosh or Windows), and user's browser type (for example, Netscape Navigator or Internet Explorer). We use this information to help us improve our website and enhance your viewing experience. The server log files do not collect email addresses or other personally identifying information. We do not tie this information to personal data and therefore it remains anonymous. 
 
-**Surveys**  
-The information we gather from online surveys on the DivorceNet.com site is for DivorceNet.com use only. We generally do not request personally identifiable information such as name or email address in connection with our surveys. If we publish the results of a survey online, the information is in a collective, non-personally identifiable form. 
 
-**Cookies**  
-Occasionally our website may use temporary Cookie information to personalize your viewing experience. We do not correlate Cookie information with any personally identifying information such as name, address or email address. 
+### The information you give us
 
-**How to Change or Delete Your Information**  
-If you have submitted personally identifiable information through our website and would like to change or delete that information, please email us at support@divorcenet.com. In your email, please tell us which page or form on the website you used to submit your information. 
+  * Ordering from Nolo
+  * Testimonials
+  * Nolo’s Online Legal Forms
 
-**Our Data Security Measures**  
-Rest assured that we have put into place physical, electronic and managerial procedures to prevent unauthorized access, maintain data accuracy, ensure the correct use of information and safeguard and secure the information we collect about you. However, DivorceNet.com cannot guarantee that unauthorized access or disclosure of information will never occur. 
 
-**Restrictions**  
-DivorceNet.com may disclose personal information if required to do so by law or if we believe such action is necessary to comply with legal process served on DivorceNet.com. If information received is harmful, obscene, threatening, criminal or has criminal implications, we reserve the right to use, disseminate, or store this information as we deem appropriate in our sole and absolute discretion. 
 
-**Your Consent**  
-By using our website, you agree to the conditions of this privacy statement. We reserve the right to change this privacy statement. If we change the statement, we will post the changes on this page to keep you informed of the information we collect, how we use this information, and whether the information is shared with third parties. Your continued use of the site constitutes your agreement to this privacy statement and any updates. 
+### When we'll contact you
 
-**How to Contact Us**  
-Should you have other questions or concerns about this privacy statement or our data collection practices, please write to us at 321 Walnut Street, Suite 440, Newton, MA 02460 or call us at 1-617-527-9777.
+
+
+  * Order Confirmation Emails
+  * Infrequent Email Communications
+
+
+
+### Other privacy information
+
+  * Policy on Sharing of Information
+  * Legal Disclaimer
+  * Online Surveys
+  * Off-Site Links
+  * Co-branded Sites
+  * Framed Sites
+  * Privacy Policy Changes
+
+
+
+### BBB Accreditation Rating A+
+
+Nolo has been a BBB Accredited business since October 2009. This means Nolo supports the BBB's services to the public and meets the BBB Accreditation Standards. Based on BBB files, Nolo has a BBB rating of A+ on a scale from A+ to F. The BBB issues Reliability Reports on all businesses, whether or not they are BBB accredited.
+
+### TRUSTe Site Verification
+
+[](http://www.truste.org/ivalidate.php?url=www.nolo.com&sealid=101) Nolo is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for [www.nolo.com](http://www.nolo.com/ "www.nolo.com"). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; and how you can correct any inaccuracies in the information. This Web site has agreed to participate in TRUSTe's formal resolution process. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
+
+### Site Security
+
+We work with LMi.net E-Commerce Solutions to make our site as secure as possible, helping you avoid e-fraud while using a top-of-the-line shopping cart system.
+
+To protect the security of the information you give us when you order online, Nolo uses Secure Sockets Layer (SSL) technology. SSL encrypts your information so that no one other than Nolo will be able to decode it. SSL establishes a secure connection between your computer and our computers, and that connection remains secure until you complete or cancel an order.
+
+How will you know that your connection is secure? Simply check the lower right corner of your browser after placing a Nolo product in your shopping cart. If you see a closed lock or an unbroken key (depending on what browser you are using), your connection is secure and your information is safe.
+
+### The Use of Cookies
+
+Nolo's website places a session cookie on your computer. A cookie is a unique identifier that helps us understand how visitors navigate the site. The use of cookies is standard on the Internet and many major websites employ them. Most browsers automatically accept cookies; however, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept the cookie.
+
+The cookie itself does not identify you, your email address or any other personal information. We use the information it provides to help us improve the site and our service, and to provide our visitors with a better experience while on the site. These cookies are not tied to personally identifiable information. Even without accepting a cookie you can still access most of the features on the site. There will, however, be limitations on your use of some site functions. For example, if you choose to disable cookies you will not be able to take advantage of promotional discounts in our outbound emails. In order for the links in our newsletters to work, the subsequent landing page we create for the promotion and in order have you receive the appropriate discount, your cookies will need to be enabled. The email itself does not contain a cookie, the landing page you come to via the email will use a cookie to apply the appropriate discount. There is no personal or aggregate data collected by these cookies. The cookies are used to track the flow of traffic through the site and to maintain a list of products that have been added to the shopping cart.
+
+Some of our business partners use cookies on our site. We have no access to or control over these third party cookies.
+
+### Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, and date/time stamp.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personally identifiable information.
+
+### Ordering from Nolo
+
+Nolo is committed to your right to privacy. We only collect information that you voluntarily give us. We will never rent or sell this private information to anyone.
+
+When purchasing products or services on the Nolo website, you'll be asked for personally identifiable information. This personally identifiable information includes your name, mailing address, phone number and email address as well as your credit card type, credit card number, credit card expiration date and credit card security code. This information is transmitted using a secure, encrypted form. Only billing and shipping vendors have access to billing or shipping information. These service providers can only use this information for the purpose of billing and shipping products to our customers, and not for their own marketing purposes. The Nolo website may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy policies or content of those other websites.
+
+### Testimonials
+
+By communicating positive comments to Nolo regarding Nolo's products and services you consent to allow Nolo to use those comments in whole or in part in Nolo's promotional materials as well as third-party materials promoting Nolo products. Nolo shall never use your full name, only your initials and location, when identifying the source of the comments.
+
+### Nolo’s Online Legal Forms
+
+#### Information Collected by Nolo’s Online Legal Forms
+
+  * Before you create online documents using Nolo’s Online Legal Forms, you will provide information to set up a Online Legal Forms account. You can delete your entire account via the account management page.
+  * Once you start an Online Legal Form, we'll keep your data for 90 days so that you can come back, make changes, and complete it. You can delete unpurchased Online Legal Forms at any time. To do so, go into your Online Legal Forms account and select the delete option next to the document you want removed.
+  * For documents that you download directly from Nolo's Online Legal Forms, you have the option to delete your data if you prefer that Nolo not store it. To do so, go into your Online Legal Forms account and select the delete option next to the document you want removed. Otherwise there is a designated data storage period for documents you download directly from Nolo. If you purchase Nolo's Online Living Trust, we will keep your data for two years. For all other Online Forms, once you make the purchase, we will keep your data for one year. For documents that Nolo files on your behalf, like the Online California LLC, we'll keep your data for a year to ensure that your order has been fulfilled correctly. 
+
+
+
+#### Online Legal Forms Payment Policy
+
+Payment for Nolo's Online Will and Nolo's Online Living Trust occurs before you begin the document interview process. For all other Online Forms, payment occurs when you want to download or submit your completed document. You can complete a document interview, but you will be unable to download or print the document until you purchase it. 
+
+### Order Confirmation Emails
+
+After placing an order, a customer will receive a confirmation email with their shipping address and order details, including an order number.
+
+### Infrequent Email Communications
+
+Nolo.com will from time to time deliver email offers to customers who have opted to allow us to communicate with them, though not all are subscribers to Nolo's email newsletters or to Nolo's Legal Updater. Customers who ask to no longer receive such offers are marked as "Do Not Deliver" in our database.
+
+Finally, if there's ever a major error included in a Nolo email that provides misleading information or misstates the nature of an offer, Nolo will send a corrected version of the email, accompanied with an explanation of the problem.
+
+### Sharing of Information
+
+Nolo does not share aggregate or personal information with 3rd parties who are not service providers.
+
+###  Legal Disclaimer
+
+Nolo will disclose personal and aggregate information when required by a valid legal mechanism such as a search warrant, subpoena, or court order, or when we deem it necessary, in our sole discretion, to protect our rights and the safety of others, or our members, employees, or properties.
+
+### Online Surveys
+
+At times Nolo will run online surveys asking for specific contact or demographic information, such as what areas of the site interest you and how you use the web for personal use. These surveys are always optional. The purpose of these surveys is to improve the website for its users.
+
+### Off-Site Links
+
+Nolo provides links to other sites. Nolo is not responsible for the privacy practices or contents of these other sites.
+
+### Co-Branded Sites
+
+From time to time, we work with trusted partners to market our products. You may find our products on various sub-domains of our site. These types of pages are branded by both Nolo and a trusted partner. However, the data collected on these types of pages is governed by our privacy policy. We do not share your personally identifiable information with these third parties. All pages governed by our privacy policy will have this link on the footer of each page.
+
+### Framed Sites
+
+Nolo may syndicate its content to and distribute its content through other sites on the Internet. Although you may see the Nolo logo on these pages, your activity and information on a framed site is governed, gathered and controlled by the privacy statement on the URL /domain address you're visiting. Nolo does not receive user information back from these framed sites.
+
+### Privacy Policy Changes
+
+From time to time we may revise this privacy notice. If we make a material change, we will post a notice on the Nolo Web site and notify you by e-mail, at which time you'll be able to "opt out" of these new practices by contacting us (using the contact information above).
