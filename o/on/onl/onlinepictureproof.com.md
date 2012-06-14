@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinepictureproof.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125095103id_/http%3A//www.onlinepictureproof.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinepictureproof.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614110512id_/http%3A//www.onlinepictureproof.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Online Picture Proof | Online picture Proofing and sales service for photographers | Proof photos online |
 
