@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122013922id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614215911id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
 
 # A Weight Watchers support network
 
@@ -81,3 +81,15 @@ Users of our site are always notified when their information is being collected 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. Protecting the privacy of our visitors is our topmost concern.   
 
+
+     
+---  
+  
+[  
+Disclaimer, Privacy Statement & Terms of Use](https://web.archive.org/disclosure.htm).    
+Copyright © 2000-2012 - Health Discovery Network   
+All rights reserved. **Health Discovery is independently owned & operated and is not affiliated with Weight Watchers or Discovery Health Channel**
+
+NOTE:  Weight Watchers is a registered trademark of Weight Watchers International, Inc. Points and Points Plus are trademarks of Weight Watchers International, Inc. Authentic information about the program is only available at your local Weight Watchers meeting. This site is not affiliated with Weight Watchers International in any way, and Weight Watchers has not reviewed this site for accuracy or suitability for WW members. Information on this site is based on recollections and assumptions of it's author and is not warranted for any purpose by it's author. All readers are encouraged to go to a Weight Watcher's meeting for actual WW info.  This site is presented under the rights of the First Amendment; rights worth fighting for.
+
+All information is intended for your general knowledge only and is not a substitute for medical advice or treatment for specific medical conditions. You should seek prompt medical care for any specific health issues and consult your physician before starting a new fitness regimen.
