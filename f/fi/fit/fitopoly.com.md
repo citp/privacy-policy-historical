@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitopoly.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114135304id_/http%3A//www.fitopoly.com/privacy-pg-31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitopoly.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614170323id_/http%3A//www.fitopoly.com/privacy-pg-31.html) for the most accurate reproduction.*
 
 # Fitopoly.com
 
