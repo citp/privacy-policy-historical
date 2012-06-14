@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tremormedia.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226101206id_/http%3A//www.tremorvideo.com/about-us/privacy-policy-2011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tremormedia.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614141852id_/http%3A//www.tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy 2011 « Tremor Video
+# Privacy Policy « Tremor Video
 
 ##### Opt out of Interest-Based Advertising
 
