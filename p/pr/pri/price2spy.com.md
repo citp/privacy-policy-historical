@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903024512id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614025009id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Price2Spy - competitor price monitoring tool
+# Price2Spy - Competitor price monitoring tool - Privacy Policy
 
 This privacy policy sets out how WEBCentric uses and protects any information that you give WEBCentric when you use this website. 
 
