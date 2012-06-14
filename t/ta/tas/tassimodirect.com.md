@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219120824id_/http%3A//www.tassimodirect.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614234616id_/https%3A//www.tassimodirect.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tassimo Privacy Policy
 
 * * *
 
@@ -84,7 +84,7 @@ Back To Top
 
 Like many companies, we use "cookies" on our website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. When you visit our website, cookies are placed on your computer. We use cookies to tell us, for example, whether you've visited us before or if you're a new visitor and to help us identify site features and recipes in which you may have the greatest interest. We collect this information to enhance your experience on our website. The "help" portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of our website features.
 
-During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Tassimodirect.com advertising during your visits to other websites. To opt-out of Tassimodirect.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.gsimedia.net/optout.html).  
+During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Tassimodirect.com advertising during your visits to other websites. To opt-out of Tassimodirect.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.tassimodirect.com/optout.html).  
 Back To Top
 
 ### Web Beacons
