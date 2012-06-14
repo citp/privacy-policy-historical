@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvardbusiness.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201213026id_/http%3A//harvardbusiness.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvardbusiness.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614135054id_/http%3A//harvardbusiness.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About - Harvard Business Publishing
 
