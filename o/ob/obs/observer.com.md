@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213048id_/http%3A//www.observer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614062411id_/http%3A//www.observer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The New York Observer
+# Privacy Policy | Observer
 
 Last Updated: March 16, 2009
 
@@ -43,7 +43,7 @@ The aggregated information we collect is used for a number of purposes including
 
 
 
-Many portions of _The New York Observer_ site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, _The New York Observer_ does collect personally identifying information regarding our online users, including in the following ways: 
+Many portions of _The New York Observer_ site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, _The New York Observer_ does collect personally identifying information regarding our online users, including in the following ways:
 
   * When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, signing up for a newsletter or tutorial, or otherwise contacting us.
   * When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration, that appears on our site.
@@ -53,7 +53,7 @@ Many portions of _The New York Observer_ site can be used without registering or
 
 
 
-The personal information we collect may be used in a number of ways, including the following: 
+The personal information we collect may be used in a number of ways, including the following:
 
   * To improve the content of _The New York Observer_ site, including by allowing _The New York Observer_ 's editors to consult with readers.
   * To communicate with users about registration and other customer service issues.
@@ -64,7 +64,7 @@ The personal information we collect may be used in a number of ways, including t
 
 ## Information sharing
 
-_The New York Observer_ may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances: 
+_The New York Observer_ may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
 
   * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of _The New York Observer_ or our employees or customers.
   * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
