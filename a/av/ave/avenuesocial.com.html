@@ -1,0 +1,730 @@
+<!--The following is the downloaded HTML source of the avenuesocial.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614082225id_/http%3A//www.avenuesocial.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!--<meta name="google-site-verification" content="cT2PLnsBBOHtugelo7K6oDhaHtQVb_dDGeXxEffJ5W0" />-->
+    <meta name="google-site-verification" content="dLeEAYTUgaNjJgi7nUtS1ty1f0QZEApuX0EIMHk9D-Y">
+    
+    
+    <title>Privacy Policy | Avenue Social Inc.</title>
+    <meta name="keywords" content="Privacy Policy | Avenue Social Inc.">
+    <meta name="description" content="Privacy Policy | Avenue Social Inc.">    
+ <link href="http://www.avenuesocial.com/css/css.css?1" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.avenuesocial.com/gallery/style2.css">
+<link rel="stylesheet" type="text/css" href="http://www.avenuesocial.com/css/style.css">
+<!-- Download Form CSS Start --> 
+<link rel="stylesheet" type="text/css" href="http://www.avenuesocial.com/download_page/stylesheet-new.css">
+ <!-- Download Form CSS End --> 
+ <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
+
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.avenuesocial.com/gallery/jquery.min.js"></script>
+    <!--Portfolio inner page js start-->
+    <script type="text/javascript" src="http://www.avenuesocial.com/js/tab_script.js"></script>
+    <!--Portfolio inner page js end-->
+
+<link href="http://www.avenuesocial.com/js/style.css" rel="stylesheet" type="text/css"> 
+<script language="javascript" type="text/javascript" src="http://www.avenuesocial.com/js/jcarousellite.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$("#client-wrapper .client-holder").jCarouselLite({
+			btnNext: ".default .next",
+			btnPrev: ".default .prev",
+			visible: 6,
+			auto: true,
+			speed: 1500
+		});
+	});
+</script>
+
+
+	
+
+ 
+<script type="text/javascript">
+
+$(document).ready(function() {	
+
+
+  //Get all the LI from the #tabMenu UL
+  $('#tabMenu li').click(function(){
+    
+    //perform the actions when it's not selected
+    if (!$(this).hasClass('selected')) {    
+           
+	    //remove the selected class from all LI    
+	    $('#tabMenu li').removeClass('selected');
+	    
+	    //Reassign the LI
+	    $(this).addClass('selected');
+	    
+	    //Hide all the DIV in .boxBody
+	    $('.boxBody div.parent').slideDown('1500');
+	    
+	    //Look for the right DIV in boxBody according to the Navigation UL index, therefore, the arrangement is very important.
+	    $('.boxBody div.parent:eq(' + $('#tabMenu > li').index(this) + ')').slideUp('1500');
+	    
+	 }
+    
+  }).mouseover(function() {
+
+    //Add and remove class, Personally I dont think this is the right way to do it, anyone please suggest    
+    $(this).addClass('mouseover');
+    $(this).removeClass('mouseout');   
+    
+  }).mouseout(function() {
+    
+    //Add and remove class
+    $(this).addClass('mouseout');
+    $(this).removeClass('mouseover');    
+    
+  });
+
+	//Mouseover with animate Effect for Category menu list
+ 
+	
+	//Mouseover effect for Posts, Comments, Famous Posts and Random Posts menu list.
+  	
+	
+});
+
+</script>
+
+
+
+	<script type="text/javascript" src="http://www.avenuesocial.com/js/jquery-easing-1.3.pack.js"></script>
+	<script type="text/javascript" src="http://www.avenuesocial.com/js/jquery-easing-compatibility.1.2.pack.js"></script>
+	<script type="text/javascript" src="http://www.avenuesocial.com/js/coda-slider.1.1.1.pack.js"></script>
+	
+	<script type="text/javascript">
+	
+		var theInt = null;
+		var $crosslink, $navthumb;
+		var curclicked = 0;
+		
+		theInterval = function(cur){
+			clearInterval(theInt);
+			
+			if( typeof cur != 'undefined' )
+				curclicked = cur;
+			
+			$crosslink.removeClass("active-thumb");
+			$navthumb.eq(curclicked).parent().addClass("active-thumb");
+				$(".stripNav ul li a").eq(curclicked).trigger('click');
+			
+			theInt = setInterval(function(){
+				$crosslink.removeClass("active-thumb");
+				$navthumb.eq(curclicked).parent().addClass("active-thumb");
+				$(".stripNav ul li a").eq(curclicked).trigger('click');
+				curclicked++;
+				if( 8 == curclicked )
+					curclicked = 0;
+				
+			}, 3000);
+		};
+		
+		$(function(){
+			
+			$("#main-photo-slider").codaSlider();
+			
+			$navthumb = $(".nav-thumb");
+			$crosslink = $(".cross-link");
+			
+			$navthumb
+			.click(function() {
+				var $this = $(this);
+				theInterval($this.parent().attr('href').slice(1) - 1);
+				return false;
+			});
+			
+			theInterval();
+		});
+	</script>
+	
+           
+     <link rel="stylesheet" media="screen" href="http://www.avenuesocial.com/js/script-css.css">
+
+		<script src="http://www.avenuesocial.com/js/script.js"></script>
+        
+
+<script type="text/javascript" src="http://www.avenuesocial.com/script/common.js"></script>
+
+	<link rel="stylesheet" href="http://www.avenuesocial.com/script/screen.css" type="text/css" media="all">
+ <!-- Header Navigation Start -->       
+<link rel="stylesheet" type="text/css" media="all" href="http://www.avenuesocial.com/navigation_js/style.css">
+<!--<script src="navigation_js/jquery.min.js"></script>-->
+<script type="text/javascript" src="http://www.avenuesocial.com/navigation_js/slides.jquery.js"></script>
+<script type="text/javascript" src="http://www.avenuesocial.com/navigation_js/jquery.ba-hashchange.min.js"></script>
+<script type="text/javascript" src="http://www.avenuesocial.com/navigation_js/vitrue-scripts.js">
+ <!-- Header Navigation End -->  
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+#slider1 {
+    width: 960px; /* important to be same as image width */
+    height: 310px; /* important to be same as image height */
+    position: relative; /* important */
+	overflow: hidden; /* important */
+	-moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;
+}
+
+#slider1Content {
+    width: 960px; /* important to be same as image width or wider */
+    position: absolute;
+	top: 0;
+	margin-left: 0;
+	
+}
+.slider1Image {
+    float: left;
+    position: relative;
+	display: none;
+}
+.slider1Image span {
+    position: absolute;
+	font: 10px/15px Arial, Helvetica, sans-serif;
+    padding: 10px 13px;
+    width: 694px;
+    background-color: #000;
+    filter: alpha(opacity=70);
+    -moz-opacity: 0.7;
+	-khtml-opacity: 0.7;
+    opacity: 0.8;
+    color: #fff;
+    display: none;
+}
+.clear {
+	clear: both;
+}
+.slider1Image span strong {
+    font-size: 14px;
+}
+.left {
+	top: 0;
+    left: 0;
+	width: 250px !important;
+	height: 290px;
+}
+.right {
+	right: 0;
+	bottom: 0;
+	width: 90px !important;
+	height: 290px;
+}
+ul { list-style-type: none;}
+</style>
+
+<link rel="stylesheet" type="text/css" href="http://www.avenuesocial.com/script/style.css">
+
+	<script type="text/javascript" src="http://www.avenuesocial.com/script/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#featured > ul").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 7000, true);
+        });
+    </script>
+    <script src="http://www.avenuesocial.com/js/jquery-1.3.2.js" type="text/javascript"></script>
+
+        <script src="http://www.avenuesocial.com/js/jquery.capSlide.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(function() {
+               
+                $("#capslide_img_cont1").capslide({
+                    caption_color	: 'white',
+                    caption_bgcolor	: 'black',
+                    overlay_bgcolor : '#000',
+                    border			: '5px solid #fff',
+                    showcaption	    : true
+                });
+				$("#capslide_img_cont2").capslide({
+                    caption_color	: 'white',
+                    caption_bgcolor	: 'black',
+                    overlay_bgcolor : '#000',
+                    border			: '5px solid #fff',
+                    showcaption	    : true
+                });
+				$("#capslide_img_cont3").capslide({
+                    caption_color	: 'white',
+                    caption_bgcolor	: 'black',
+                    overlay_bgcolor : '#000',
+                    border			: '5px solid #fff',
+                    showcaption	    : true
+                });
+
+            });
+        </script>
+        
+        
+        
+
+<script type="text/javascript">
+var rowid = 1;
+</script>
+
+
+<style type="text/css">
+     
+      #suggestPost
+      {
+        
+        height:170px;
+        left:0;
+        position:fixed;
+        top:205px;
+        width:40px;
+      }
+      div#suggestPost a:hover
+      {
+        background-position:-51px 0px;
+      }
+      #suggestPost a
+      {
+		background:url(http://www.avenuesocial.com/images/suggest-post.png) no-repeat scroll 0px 0px;
+        display:block;
+        height:170px;
+        width:40px;
+      }
+    </style>
+    
+    <link media="screen" rel="stylesheet" href="http://www.avenuesocial.com/poup_up/colorbox.css">
+	
+	<script src="http://www.avenuesocial.com/poup_up/jquery.colorbox.js"></script>
+	<script>
+		$(document).ready(function(){
+			//Examples of how to assign the ColorBox event to elements
+			
+			$(".example6").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+			
+			
+			//Example of preserving a JavaScript event for inline calls.
+			$("#click").click(function(){ 
+				$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+				return false;
+			});
+		});
+	</script>
+    </head>
+    
+    <body>
+        <div class="mainwapper">
+                <div class="main_wapper">
+             		<div class="header">
+                		 <div class="Logo_navi"><div class="logo"><a href="http://www.avenuesocial.com/index.html" class="logo_pic"></a></div>
+                		<!-- <div class="fb_fan"><img src="images/fb_likes_icons.png" width="74" height="20"></div>-->
+                <div class="top_num_box"><a href="http://www.avenuesocial.com/ask-for-quote.html" class="slowgin_but"></a><h2>(888)253-4567</h2></div>
+                 		   <div class="navi_box">
+                                <ul id="menu-primary" class="menu">
+		<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212" style=" z-index:50000;">
+			
+            <a href="http://www.avenuesocial.com/what-we-do.html" class="">What We Do</a>
+				<ul class="sub-menu" style="display: none; ">
+                	<li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214">
+					<a href="http://www.avenuesocial.com/facebook-fan-page.html">Facebook Fan page</a>
+                    </li>
+                    <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214">
+					<a href="http://www.avenuesocial.com/facebook-app.html">Custom Facebook Apps</a>
+                    </li>
+                    <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214">
+					<a href="http://www.avenuesocial.com/web-apps.html">Web Apps</a>
+                    </li>
+					<!--<li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214">
+					<a href="http://www.avenuesocial.com/mobile-app.html">Mobile Apps</a>
+                   </li>-->
+                   <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214" style=" z-index:-20000">
+					<a href="http://www.avenuesocial.com/mobile-app.html">Mobile Apps</a>
+						<ul class="sub-menu" style=" z-index:-60000">
+							<li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1217">
+								<a href="http://www.avenuesocial.com/iphone.html">iPhone</a>
+							</li>
+							<li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1216">
+							   <a href="http://www.avenuesocial.com/blackberry.html">BlackBerry</a>
+							</li>
+							<li id="menu-item-1218" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1218">
+                               <a href="http://www.avenuesocial.com/android.html">Android</a>
+                            </li>
+                           
+                        </ul>
+                   </li>
+                   <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214" style=" z-index:-60000; background:#e1edf4'">
+					<a>Expertise</a>
+						<ul class="sub-menu" style=" z-index:20000">
+                            <li id="menu-item-1218" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1218">
+                               <a href="http://www.avenuesocial.com/game-development.html">Facebook Game Development</a>
+                            </li>
+                            <li id="menu-item-1218" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1218">
+                               <a href="http://www.avenuesocial.com/timeline-apps.html">Timeline Apps Development</a>
+                            </li>
+							<li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1217">
+								<a href="http://www.avenuesocial.com/facebook-ecommerce.html">Social Commerce</a>
+							</li>
+							<li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1216">
+							   <a href="http://www.avenuesocial.com/promotions-contests.html">Promotion &amp; Contests</a>
+							</li>
+							<li id="menu-item-1218" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1218">
+                               <a href="http://www.avenuesocial.com/analytics.html">Analytics</a>
+                            </li>
+                            
+                        </ul>
+                   </li>
+                    <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page 		                    menu-item-1214" style=" z-index:-70000; background:#e1edf4;">
+					<a>Approach</a>
+						<ul class="sub-menu">
+							<li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1217">
+								<a href="http://www.avenuesocial.com/social-influence-marketing.html">Social Media Marketing</a>
+							</li>
+							<li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page                            menu-item-1216">
+							   <a href="http://www.avenuesocial.com/how-we-work.html">How we Work</a>
+							</li>
+							
+                        </ul>
+                   </li>
+		 </ul>
+     </li>
+     
+     <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1214">
+    	<a>Our Work</a>
+        <ul class="sub-menu">
+        	<li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217">
+				<a href="http://www.avenuesocial.com/client-portfolio.html">Clients</a>
+			</li>
+            <li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217">
+				<a href="http://www.avenuesocial.com/portfolio.html">Portfolio</a>
+			</li>
+            
+        </ul>
+    </li>
+    
+    <li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1214">
+		 <a>Solution</a>
+			 <ul class="sub-menu">
+				 <li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217">
+					<a href="http://www.avenuesocial.com/agencies.html">Agencies</a>
+				 </li>
+				 <li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
+				 	<a href="http://www.avenuesocial.com/automotive.html">Automotive</a>
+				 </li>
+                 <li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
+				 	<a href="http://www.avenuesocial.com/cpg.html">Consumer Pkg Goods</a>
+				 </li>
+                 <li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
+				 	<a href="http://www.avenuesocial.com/entertainment.html">Entertainment</a>
+				 </li>
+                 <li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
+				 	<a href="http://www.avenuesocial.com/financial-services.html">Financial Services</a>
+				 </li>
+                 <li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
+				 	<a href="http://www.avenuesocial.com/retail.html">Retail</a>
+				 </li>
+                 <li id="menu-item-1216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1216">
+				 	<a href="http://www.avenuesocial.com/cause-marketing.html">Cause Marketing</a>
+				 </li>
+							
+             </ul>
+         </li>
+    
+	 <li id="menu-item-6742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6742">
+       <a class="">Resources</a>
+         <ul class="sub-menu" style="display: none; ">
+            <li id="menu-item-6751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6751">
+                <a href="http://www.avenuesocial.com/white-papers.html">Whitepapers</a>
+            </li>
+			<li id="menu-item-6753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6753">                <a href="http://www.avenuesocial.com/infographics.html">Video Blog &amp; Infographics</a>
+            </li>
+			<li id="menu-item-6752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6752">					                <a href="http://www.avenuesocial.com/events.html">Events</a>
+            </li>
+			<li id="menu-item-6750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6750">                <a href="http://www.avenuesocial.com/blog/">Blog</a></li>
+        </ul>
+    </li>
+    <li id="menu-item-6742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6742">
+       <a class="">Company</a>
+         <ul class="sub-menu" style="display: none; ">
+            <li id="menu-item-6751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6751">
+                <a href="http://www.avenuesocial.com/about-us.html">About Us</a>
+            </li>
+			<li id="menu-item-6753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6753">                <a href="http://www.avenuesocial.com/the-team.html">The Team</a>
+            </li>
+			<li id="menu-item-6752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6752">					                <a href="http://www.avenuesocial.com/join-us.html">Join us</a>
+            </li>
+            <!-- <li id="menu-item-6752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6752">
+            <a href="http://www.avenuesocial.com/privacy-policy.html">Privacy Policy</a></li>-->
+        </ul>
+    </li>
+
+    <li id="menu-item-1209" style="padding:0 0 0 5px" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209">
+    	<a href="http://www.avenuesocial.com/ask-for-quote.html" class="">Contact</a>
+    </li>
+
+</ul>    
+                               
+                           </div>
+                       </div>
+                       
+                  </div>
+                  </div>
+
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>.::Avenue Social::.</title>
+       
+    
+    
+    
+              <div class="iner_gall">
+                    <div class="inner_heading_box">
+                    	<div class="inner_heading">Privacy Policy</div>
+                        <!--<div class="inner_heading_txt">We Eat, Sleep and Breath Social Media.				              			</div>-->
+                    </div>       
+              </div>
+                <div class="portfolio_middle_box">
+               	  <div class="portfolio_box">
+               	    	
+                		<b>What information do we gather?</b> <br><br>
+
+AvenueSocial has set this privacy plan to explain our policies regarding customer's personal data that is collected for our use. When you place a query online, you will only need to give some basic information to us by filling out a simple query form so that we could contact you to discuss the need. You will only need to enter your name, e-mail address, phone number or country.<br><br>
+
+<b>What do we use your information for?</b><br><br>
+
+AvenueSocial uses the personal data for handling orders. AvenueSocial and its members also use your personal data and other personally non-identifiable information that will help us in handling your orders properly and to better respond to your complexity. Furthermore, your information may be used for the following ways:
+
+    To improve our website features (by the feedbacks we receive from you)
+    To keep you updated with our latest offers and happening
+    To improve customer services.<br><br>
+
+
+<b>How do we protect your information? </b><br><br>
+AvenueSocial uses a secure server for the purpose of securing your private information.  All your private/credit information sends out via Secure Socket Layer (SSL) technology that is used to keep the information confidential when you place your order online.<br><br>
+
+<b>Do we use Cookie?</b><br><br>
+ We may use "cookies" for specific purposes which cookies are designed for.  A cookie is a piece of information that the computer that hosts our Site gives to your computer when you access a website. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately.<br><br>
+
+
+<b>Do we disclose any information to outside parties?</b><br><br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include our subsidiaries and trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+                 
+                
+                 <div class="clients_box">
+    <div class="clients_box_head">Brands Get Social Using Avenuesocial</div>
+    <div id="client-wrapper">
+	<div class="client-holder">
+    	
+        <ul>
+        
+        <li class="c-onlive client-img"></li>
+        
+        <li class="c-pizzahut client-img"></li>
+        
+        <li class="c-tapjoy client-img"></li>
+        
+        <li class="c-twalaba client-img"></li>
+        
+        <li class="c-whitehouse client-img"></li>
+        
+        <li class="c-ubl client-img"></li>
+        
+        <li class="c-zoom-prospector client-img"></li>
+        
+            <li class="c-boyfriend client-img"></li>
+            
+            
+            <li class="c-buttler client-img"></li>
+            
+           
+            
+        	<li class="c-askmen client-img"></li>
+            
+          
+            
+            <li class="c-foodies client-img"></li>
+            
+            
+            
+            <li class="c-formost client-img"></li>
+            
+           
+            
+            <li class="c-onlive client-img"></li>
+            
+            <li class="c-pizzahut client-img"></li>
+            
+            <li class="c-tapjoy client-img"></li>
+            
+            <li class="c-twalaba client-img"></li>
+            
+            <li class="c-ubl client-img"></li>
+            
+            <li class="c-zoom-prospector client-img"></li>
+            
+        <li class="c-boyfriend client-img"></li>
+        
+        <li class="c-buttler client-img"></li>
+        
+     
+        
+
+        
+        </ul>
+    </div>
+</div>
+ </div>
+                          </div>
+            </div>
+              <div class="footer_wapper">
+  <div class="footer">
+    <div class="main_foot">
+      <div class="main_foot_block" style="width:165px;">
+        <div class="block_title">Services</div>
+        <ul class="foot_link">
+          <li><a href="http://www.avenuesocial.com/">Facebook App Developers</a></li>
+          <li><a href="http://www.avenuesocial.com/facebook-fan-page.html">Facebook Fan Pages</a></li>
+          <li><a href="http://www.avenuesocial.com/facebook-app.html">Custom Facebook Apps</a></li>
+          <li><a href="http://www.avenuesocial.com/web-apps.html">Web App Developer</a></li>
+          <li><a href="http://www.avenuesocial.com/mobile-app.html">Mobile App Developer</a></li>
+          <!--<li><a href="http://www.avenuesocial.com/interaction-design.html">Interaction Design</a></li>-->
+          <li style="width:126% !important;"><a href="http://www.avenuesocial.com/iphone.html">iPhone App Development</a></li>
+          <li style="width:126% !important;"><a href="http://www.avenuesocial.com/blackberry.html">Blackberry App Development</a></li>
+          <li style="width:126% !important;"><a href="http://www.avenuesocial.com/android.html">Android App Development</a></li>
+          <li style="width:126% !important;"><a href="http://www.avenuesocial.com/game-development.html">Facebook Game Development</a></li>
+          <li style="width:126% !important;"><a href="http://www.avenuesocial.com/timeline-apps.html">Timeline Apps Development</a></li>
+          <li style="width:126% !important;"><a href="http://www.avenuesocial.com/social-influence-marketing.html">Social Media Marketing</a></li>
+        </ul>
+      </div>
+      <!-- end main_foot_block -->
+      <div class="main_foot_block" style="width:97px;">
+        <div class="block_title">Company</div>
+        <ul class="foot_link">
+          <li><a href="http://www.avenuesocial.com/about-us.html">About Us</a></li>
+          <li><a href="http://www.avenuesocial.com/the-team.html">The Team</a></li>
+          <li><a href="http://www.avenuesocial.com/join-us.html">Join Us</a></li>
+          <li><a href="http://www.avenuesocial.com/expertise.html">Expertise</a></li>
+          <li><a href="http://www.avenuesocial.com/privacy-policy.html">Privacy Policy</a></li>
+          <li><a href="http://www.avenuesocial.ae/">Avenuesocial MEA</a></li>
+        </ul>
+      </div>
+      <!-- end main_foot_block -->
+      <div class="main_foot_block">
+        <div class="block_title">Solution</div>
+        <ul class="foot_link">
+          <li><a href="http://www.avenuesocial.com/agencies.html">Agencies</a></li>
+          <li><a href="http://www.avenuesocial.com/automotive.html">Automotive</a></li>
+          <li><a href="http://www.avenuesocial.com/cpg.html">Consumer Pkg Goods</a></li>
+          <li><a href="http://www.avenuesocial.com/entertainment.html">Entertainment</a></li>
+          <li><a href="http://www.avenuesocial.com/financial-services.html">Financial Services</a></li>
+          <li><a href="http://www.avenuesocial.com/retail.html">Retail</a></li>
+          <li><a href="http://www.avenuesocial.com/cause-marketing.html">Cause Marketing</a></li>
+        </ul>
+      </div>
+      <!-- end main_foot_block -->
+      <div class="main_foot_block">
+        <div class="block_title">Portfolio</div>
+        <ul class="foot_link">
+          <li><a href="http://www.avenuesocial.com/portfolio/promotion-contest.html">Promotion &amp; Contest</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/gifting.html">Gifting</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/mobile.html">Mobile</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/game.html">Game</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/fb-commerce.html">FB Commerce</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/polls-survey.html">Polls &amp; Survey</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/coupon-badges.html">Coupons &amp; Badges</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/trivia-quiz.html">Trivia &amp; Quiz</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/sweepstakes.html">Sweepstakes</a></li>
+          <li><a href="http://www.avenuesocial.com/portfolio/entertainment.html">Entertainment</a></li>
+        </ul>
+      </div>
+      <!-- end main_foot_block -->
+      <div class="main_foot_block" style="width:152px;">
+        <div class="block_title">Resources</div>
+        <ul class="foot_link">
+          <li><a href="http://www.avenuesocial.com/white-papers.html">White Papers</a></li>
+          <li><a href="http://www.avenuesocial.com/infographics.html">Video Blog &amp; Infographics</a></li>
+          <li><a href="http://www.avenuesocial.com/events.html">Events</a></li>
+        </ul>
+      </div>
+      <!-- end main_foot_block -->
+      <div class="main_foot_block" style="width:130px;">
+        <div class="block_title">Contact</div>
+        <ul class="foot_link">
+          <li style="color:#018DC8;"><a href="http://www.avenuesocial.com/ask-for-quote.html" style="color:#018DC8;">Request a quote</a></li>
+          <li style="color:#333;">Call: (888)253-4567</li>
+          <li style="color:#333; font-size:14px; margin-left:-1px;">Email: <a style="color:#018DC8;" href="mailto:sales@avenuesocial.com">sales@avenuesocial.com</a></li>
+        </ul>
+      </div>
+      <!-- end main_foot_block --> 
+    </div>
+    <!--   <div class="foot_but">
+                <h2 style="text-align:right;">Call: (888)253-4567</h2>
+                <a href="ask_for_quote.php" class="slowgin_but"></a>
+                </div>-->
+    <div class="footer_last_link">
+      <div class="footer_last_link_left"> © 2012 AVENUESOCIAL, Inc. and all related designs and logos are trademarks of 
+        AVENUESOCIAL, Inc. </div>
+      <div class="footer_last_link_right"> <span style="padding:0 0 10px 0;">CONNECT WITH US</span> <span> <a href="http://www.facebook.com/avenuesocial&#10;"><img src="http://www.avenuesocial.com/images/fb1.png" width="26" height="26" style="padding:0 5px;"></a><a href="#"><img src="http://www.avenuesocial.com/images/google2.png" width="27" height="26" style="padding:0 5px;"></a><a href="http://www.twitter.com/avenuesocial&#10;"><img src="http://www.avenuesocial.com/images/tw3.png" width="37" height="26" style="padding:0 5px;"></a> </span> </div>
+    </div>
+  </div>
+</div>
+<script>
+			(function($){
+				//cache nav
+				var nav = $("#topNav");
+				$(" #topNav ul li ul ").css({display: "none"}); // Opera Fix
+				$(" #topNav li").hover(function(){
+						$(this).find('ul:first').stop(true, true).slideDown();
+
+						},function(){
+						$(this).find("ul").stop(true, true).slideUp();
+						});
+				//add indicator and hovers to submenu parents
+						//show subnav on hover
+			})(jQuery);
+		</script>
+<div id="suggestPost"><a href="ask-for-quote.html"></a></div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3145101-7']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+
+<!-- Google Code for social media Remarketing List --> 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1062186678;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "NmtXCPL7iQIQtt2--gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script> 
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1062186678/?label=NmtXCPL7iQIQtt2--gM&amp;guid=ON&amp;script=0"/> </div>
+</noscript>
+    
+
+       
+</div>
+</body></html>
