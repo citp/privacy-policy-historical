@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004555id_/http%3A//www.bridalguide.com/planning/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614105755id_/http%3A//www.bridalguide.com/planning/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wedding Planning, Ideas & Etiquette | Bridal Guide Magazine
 
