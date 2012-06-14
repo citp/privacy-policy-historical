@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tandyleatherfactory.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173855id_/http%3A//www.tandyleatherfactory.com/home/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tandyleatherfactory.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614052817id_/http%3A//www.tandyleatherfactory.com/en-usd/home/privacy/privacy.aspx) for the most accurate reproduction.*
 
-# Tandy Leather Factory - Privacy and Security
+# Privacy and Security - Tandy Leather Factory
 
 Tandy Leather Factory is sensitive to the private nature of information you provide to us over the Internet. Our Privacy Policy is designed to protect your personal information while at the same time giving you the opportunity to obtain interesting and useful information, products and services.
 
@@ -17,3 +17,5 @@ We reserve the right to update this policy. Should the Privacy Policy change, th
 If you have any questions about the Tandy Leather Factory Web Site or Privacy Policy, please send an email to tlfhelp@tandyleather.com.
 
 Effective Date: November 1, 2008
+
+* * *
