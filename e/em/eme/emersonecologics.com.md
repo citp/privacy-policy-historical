@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209022215id_/http%3A//www.emersonecologics.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emersonecologics.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615011216id_/http%3A//www.emersonecologics.com/Privacy) for the most accurate reproduction.*
 
 # Emerson Ecologics : Privacy Statement
+
+Privacy Policy
 
 Emerson Ecologics has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.emersonecologics.com](http://www.emersonecologics.com/)
 
