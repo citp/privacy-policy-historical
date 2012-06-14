@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparktrust.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214135654id_/http%3A//sparktrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparktrust.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614053459id_/http%3A//www.sparktrust.com/privacy) for the most accurate reproduction.*
 
 # SparkTrust Systems
 
@@ -53,6 +53,4 @@ By using the SparkTrust Systems Services, accessing the SparkTrust Systems web s
 
 If you have any questions regarding this privacy policy, please contact us at [info@sparktrust.com](mailto:info@sparktrust.com).
 
-### Hands free hacker protection.
-
-SparkTrust provides a complete security and trust-building solution. 
+[](https://console.sparktrustcertified.com/verify/amaza8yhe122)
