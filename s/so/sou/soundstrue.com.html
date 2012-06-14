@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soundstrue.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102005704id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundstrue.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614194505id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,26 +12,52 @@
 	<meta name="keywords" content="">
 	
 	<link href="http://www.soundstrue.com/shop/st_assets/css/st_reset.css" rel="stylesheet" type="text/css">
+	<link href="http://www.soundstrue.com//components/public/css/global.css" rel="stylesheet" type="text/css">
 	<link href="http://www.soundstrue.com/shop/st_assets/css/st_base.css?a=b" rel="stylesheet" type="text/css">
-	
-	<script type="text/javascript" async="" src="https://www.staging-soundstrue.com/google/ga.js"></script><script language="javascript" src="http://www.soundstrue.com/components/public/js/jquery.js" type="text/javascript"></script>
+	<link href="http://www.soundstrue.com//components/public/css/emailsignup.css" rel="stylesheet" type="text/css">
+		
+	<script type="text/javascript" async="" src="https://www.soundstrue.com/google/ga.js"></script><script language="javascript" src="http://www.soundstrue.com/components/public/js/jquery.js" type="text/javascript"></script>
 	<script language="javascript" src="http://www.soundstrue.com/shop/js/jquery/plugins/jquery.browse.js" type="text/javascript"></script>
 	<script language="javascript" src="http://www.soundstrue.com/shop/js/jquery/plugins/jquery.focus.js" type="text/javascript"></script>
+	
 	<script type="text/javascript">
-	var googleAccount;
-	var googleDomain;
-	var googleGAFileFromServer;
-	if (document.location.hostname == 'www.soundstrue.com') {
-		googleAccount = 'UA-5276897-2';
-		googleDomain = '.soundstrue.com';
-		googleGAFileFromServer = document.location.protocol + '//www.soundstrue.com/google/ga.js';
-	} else {
-		googleAccount = 'UA-5276897-5';
-		googleDomain = '.staging-soundstrue.com';
-		googleGAFileFromServer = document.location.protocol + '//www.staging-soundstrue.com/google/ga.js';
-	}	
-</script>
+	var
+		googleHostname,
+		googleAccount,
+		googleDomain,
+		googleGAFileFromServer,
+		googleFlag
+	;
 
+	googleFlag = 'unknown';
+	googleHostname = 'www.soundstrue.com';
+
+	switch(googleHostname){
+		case 'www.soundstrue.com': googleFlag = 'production'; break;
+		case 'soundstrue.com': googleFlag = 'production'; break;
+		case 'www.staging-soundstrue.com': googleFlag = 'staging'; break;
+		case 'staging-soundstrue.com': googleFlag = 'staging'; break;
+	}
+
+	switch(googleFlag){
+		case 'production':
+			googleAccount = 'UA-5276897-2';
+			googleDomain = '.soundstrue.com';
+			googleGAFileFromServer = document.location.protocol + '//www.soundstrue.com/google/ga.js';
+		break;
+		case 'staging':
+			googleAccount = 'UA-5276897-5';
+			googleDomain = '.staging-soundstrue.com';
+			googleGAFileFromServer = document.location.protocol + '//www.staging-soundstrue.com/google/ga.js';
+		break;
+		case 'unknown':
+			googleAccount = 'UA-5276897-2';
+			googleDomain = '.unknown';
+			googleGAFileFromServer = document.location.protocol + '//www.soundstrue.com/google/ga.js';
+		break;
+	}
+
+</script>
 <script type="text/javascript">
 	
 	var _gaq = _gaq || [];
@@ -41,19 +67,20 @@
 	_gaq.push(['_setAllowLinker', true]);
 	_gaq.push(['_trackPageview']);
 	_gaq.push(['_trackPageLoadTime']);
-	
+
 	assignGoogleAsync = true;
 	if (typeof googleAsync != 'undefined') {
 		googleAsync == false ? assignGoogleAsync = false : assignGoogleAsync = true;
 	}
-	
+
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = assignGoogleAsync;
 		ga.src = googleGAFileFromServer;
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 
-</script>	<script type="text/javascript">
+</script>
+	<script type="text/javascript">
 	function applyAddLinkerToSelector(selector) {
 		$(selector).each(function(){
 			if($(this).attr('onclick') == undefined) {
