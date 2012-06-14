@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentaryheaven.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206055729id_/http%3A//documentaryheaven.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentaryheaven.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614175243id_/http%3A//documentaryheaven.com/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | Documentary Heaven
 
