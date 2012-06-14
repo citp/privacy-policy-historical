@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growweedeasy.com privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030050809id_/http%3A//growweedeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growweedeasy.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614142539id_/http%3A//growweedeasy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grow Weed Easy
 
@@ -19,7 +19,3 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on GrowWeedEasy.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts. However, in most cases you would still be able to visit all pages of the site and read all the free cannabis growing information provided.
-
-  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fgrowweedeasy.com%2Fprivacy-policy&linkname=Privacy%20Policy%20%7C%20Grow%20Weed%20Easy)
-
-
