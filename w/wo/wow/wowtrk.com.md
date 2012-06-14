@@ -1,60 +1,106 @@
-> *The following text is extracted and transformed from the wowtrk.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120081654id_/http%3A//www.wowtrk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowtrk.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614120953id_/http%3A//www.wowmedia.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WOW Trk - Affiliate Network
+# Privacy Policy and Cookies Information | WOW Media
 
-WOW Trk Affiliates understands the importance of privacy, and we strive to keep sensitive and personal information confidential. We request that all affiliates and merchants/advertisers read this policy in order to better understand how the information you provide to us and that we may otherwise collect may be used. If you have any queries relating to this policy, please do not hesitate to contact us at support@wowmedia.eu.
+Effective Date: 02/04/2012
 
-Information
+  1. **Who are we?**
 
-We collect information based on the following criteria:
 
-1\. You are a registered WOW Trk Affiliates merchant,  
-2\. You are a registered WOW Trk Affiliates affiliate, or  
-3\. You have applied to become a registered merchant or affiliate.
+  1. We are WOW Media UK Ltd. We own and operate this site. Our contact details are in the “contact us” section on our site. Please contact us if you have any questions or feedback about this policy. We’d be delighted to help.
 
-If you are one of these three users, when you register and start using any of our sites located at [www.wowtrk.com](http://www.wowtrk.com/)and [www.wowtrk.co.uk](http://www.wowtrk.co.uk/) (the “Site”), we require relevant program information, including but not limited to log-in, contact, company, website, website user and payment data in order to manage your account and provide you with the services requested. In addition once you are a member of WOW Trk Affiliates, we require sales and earnings data, and we collect performance statistics related to your WOW Trk Affiliates affiliate program(s) in order to properly compensate our users. Information is collected by WOW Trk Affiliates but is the sole property of the advertiser and is shared only with the advertiser.
 
-Contacting us with a question: When you contact us with a question or suggestion, we may collect your name, e-mail address and any comments you have. We only use this information to respond to and/or resolve your  
-question or concern.
+  2. We are registered with the Information Commissioner’s Register of Data Controllers under number Z1109403.
 
-Information collected by Cookies. We do not collect data while you browse our public pages of the Site although WOW Trk Affiliates uses cookies to track leads and sales for the purpose of properly compensating affiliates. When a web visitor views an affiliate page and clicks on a merchant link, a cookie is placed on the visitor’s hard drive. If the visitor performs a prescribed action (for example, signing up for a newsletter) or buys something, the cookie records their action. If the visitor revisits the merchant’s site and buys anything else, the cookie will also track subsequent sales and credit the appropriate affiliate (depending on the  
-cookie’s specified duration). We are collecting this information in order to track customers or sales.  
-WOW Trk Affiliates does not intentionally use cookies to track personal information. However, systems of some partner merchants may use portions of personal information (in the form of a customer or order ID) to track  
-customers or sales. A merchant may choose to pass WOW Trk Affiliates the ID, but without any other identifying/related information. WOW Trk Affiliates does nothing to prevent the disabling or blocking of  
-cookies. If a visitor chooses to disable or block cookies, any leads or sales the visitor makes will not be able to be tracked.
 
-When We Disclose Information  
-We share specific information only with registered WOW Trk Affiliates merchants and affiliates in order for them to make educated decisions while forming affiliations. Merchants and affiliates who are considering  
-forming an affiliation may view pertinent company, contact and performance information, and they may contact each other to solicit affiliation or find out additional details. After an affiliation has been formed, we  
-share sales and performance information necessary to calculate commission payments from merchants to affiliates. In addition, merchants may email or contact existing affiliates with potential offers and news.
+  2. **What’s the point of this policy?**
 
-Occasionally we may share category information or general user statistics with potential partners. No personal identifying information will be included in such information and your identity will remain absolutely anonymous.
 
-How We Protect Your Information  
-We employ a number of safeguards to protect your information. Every user creates a unique password that only the user knows. You should never share your password and take usual recommended precautions (use a combination of numbers, letters and upper- and lowercase; change your password periodically). Particularly sensitive information, such as commission and earnings information are only available to the directly associated  
-merchant and affiliate(s), and some information can only be accessed by system administrators. Our servers are backed up daily and our web hosting features triple redundancy.
+  1. The idea is that we tell you how we deal with your “personal data”. (This is the technical term for information about any identified or identifiable living person). Please read on to find out what kinds of personal data we collect, how we use and protect it, to whom we disclose it and how you can access and rectify it.
 
-Sharing and Selling Data  
-WOW Trk Affiliates does not share or sell your data to unaffiliated third parties. It does share data with member merchants and affiliates, as outlined in “When We Disclose Information,” in order for merchants and affiliates to make informed decisions about the affiliations they make.
 
-In addition, from time to time, we may share non-user specific, aggregate information, or company names for the purpose of educating potential merchants and affiliates. No personal identifying information will be included in such information and your identity will remain absolutely anonymous.
+  2. Please don’t use our site or services unless you are completely happy with this policy. If you do use our site or services, we’ll assume that you do accept the policy.
 
-Finally, in case required by law, we may disclose personal information.
 
-Access, Update and Deletion  
-We want your information and preferences to be accurate and complete. If you would like to access or update the personal information we maintain about you in our systems, please contact us at support@wowmedia.eu. You may use the same contact information above to send us a request that we delete personally identifiable information stored in the databases we actively use. Unless restricted by law, we will take all reasonable steps to functionally delete such information from our database(s), although we may keep a copy for archival purposes for as long as necessary in our opinion. We will respond to your request to access, update or delete your information within thirty (30) business days.
+  3. **Might the policy change?**
 
-Surveys  
-Occasionally, WOW Trk Affiliates may conduct voluntary surveys for its own business development purposes. The results of these surveys may be shared or disclosed, but company- or website-specific data will not be released  
-without first securing necessary written consent.
 
-Minors  
-We do not knowingly solicit information from users under the age of 18 and require all affiliates to certify that they are legal adults, 18 years or older.
+  1. It may well do and so you should check it whenever you visit our site. We’ll assume you agree to the revised policy if you use the site or our services after the effective date shown at the top of the policy.
 
-General Notes About Our Privacy Policy  
-WOW Trk Affiliates websites contain links to other sites. We are not responsible for their privacy policies and urge you to review their respective policies.
 
-We are also not responsible for the privacy policies of our partner merchants’ and affiliates’ sites and advise you to familiarize yourself with their respective policies.
+  4. **What personal or other data do we collect?**
 
-Change in Our Privacy Policy  
-If there are changes or additions to this Privacy Policy, we will post those changes here so that you will always know what information we collect online or offline, how we use it and what choices you have. Regardless of any changes we make to our Privacy Policy, we will only use your personal information in accordance with the version of the Privacy Policy in place at the time you provided your information unless you give us your consent to do otherwise.
+
+  1. We collect and store the information which you give us via forms on our site – such as your name, postal and email address, phone number, date of birth, bank / Paypal and other information to make payments to you – or when communicating with us by email or in some other way.
+
+
+  2. We may receive and store certain information automatically when you interact with us. Examples include the internet protocol (IP) address used to connect your computer to the internet, connection information such as browser type and version, your operating system and platform, a unique reference number linked to the data you enter on our system, login details, the full URL clickstream to, through and from our site (including date and time), cookie number, activity on our website including the pages you visited and searches you made.
+
+
+  5. **What about cookies?**
+
+
+  1. Please see our separate [Cookies Page](https://web.archive.org/cookies) with information about our cookies.
+
+
+  6. **How do we use your personal data?**
+
+
+  1. We use your personal data to provide our services eg send service messages, process payments by you, send payments to you and/or fulfil orders.
+
+
+  2. We use your personal data to help us communicate with you effectively should you try to contact us via our site including verification of any claims you may make.
+
+
+  3. If you have agreed on our site, we may use your personal data to send you emails (or other communications) with details of our or third party goods or services which may be of interest to you including information about special offers or promotions.
+
+
+  4. We may use IP addresses or personal data to recognize you when you visit or return to our site so we can show you ads or other content tailored to your preferences, to tailor marketing emails which we send you (assuming you have agreed to receive such emails), to track anonymised traffic and usage patterns, to prevent or detect fraud or abuses or to help us improve our site.
+
+
+  5. We retain personal data from closed accounts in order to comply with legal obligations, enforce our terms and conditions, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations and take other actions as permitted by law.
+
+
+  6. We may access, remove, alter or store or otherwise use any personal data if we think you have or may have breached our terms and conditions or to enforce our rights or protect the public or where if we are required to do so by law or appropriate authority.
+
+
+  7. **How do we protect personal data?**
+
+
+  1. Security is a high priority. We take appropriate precautions to protect personal data from loss, misuse, unauthorised access or disclosure, alteration or destruction using the same safeguards as we use for our own proprietary information.
+
+
+  2. Don’t forget that email and other electronic communications are not secure if they haven’t been encrypted. Your communications may pass through servers in a number of countries before they reach us. So we don’t accept responsibility for any unauthorised access to or loss of personal data that stems from a cause beyond our control. Nor can we be held responsible for the actions or omissions of other users or third parties who may misuse your personal data which they collect from the site.
+
+
+  8. **To whom do we disclose personal data?**
+
+
+  1. We may allow access to your personal data by third parties who supply us with a service – for the purpose of their service only and in accordance with our instructions.  Examples include website hosts and businesses which assist us in undertaking communications or monitoring our site.
+
+
+  2. We may make “co-registration” offers on our websites whereby we invite you to “join” certain third party sites. If you tick this option then the information you supply on that page of our site will be sent to those third parties either via us or direct. It is your responsibility to review the third party’s terms and conditions / privacy policy and otherwise satisfy yourself that you are happy to provide your information to that third party. The same applies if you otherwise supply information on third party websites to which we may link.  We are not responsible for the use of your data by such third parties.
+
+
+  3. We may disclose personal data so far as reasonably necessary:  
+a.      if we think you have or may have breached our terms and conditions or to enforce our rights or protect the public or where we have reasonable grounds for believing that a criminal act has been committed or if we are required to do so by law or appropriate authority; or  
+b.      in the case of an actual or proposed (including negotiations for a) sale or merger or business combination involving all or the relevant part of our business.
+
+
+  4. We may share your information with any other companies within our group for the purposes stated in this privacy policy.
+
+
+  5. We may store or transfer personal data outside the European Economic Area for the purposes stated in this policy.
+
+
+  9. **How can you access and rectify personal data?**
+
+
+  1. You can access and rectify your personal data by contacting us by the means shown on our website. We may charge an administration fee in line with data protection laws.
+
+
+  2. For information about your rights under UK data protection laws, see the website of the [UK Information Commissioner](http://www.ico.gov.uk/)
+
+
+
+Version 2.0
