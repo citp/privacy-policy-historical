@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005704id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614194505id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement of Sounds True Inc.
 
