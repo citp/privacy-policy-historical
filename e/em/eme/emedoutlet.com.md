@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219025031id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614155434id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy ::Emedoutlet Online Pharmacy::
 
+[](http://www.emedoutlet.com/free-samples-medicine.html)  
+  
 ---  
 It is our top priority to protect your privacy. We do collect personal information about you in order to fill your prescription orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have entrusted to us. This notice describes our current privacy policy and practices.  
 **Privacy And Security**  
@@ -16,6 +18,11 @@ Emedoutlet respects the confidentiality of your personal information. There are 
 We do not rent, sell, or disclose any of your personal information, regardless of whether you are a current or former customer. Should your relationship with Emedoutlet end, we will continue to limit disclosures of your personal information in accordance with our stated privacy policy and practices just as we do for those who maintain a continuing relationship with us.  
 We welcome your inquiries. Please email us at [noreply@emedoutlet.com](mailto:noreply@emedoutlet.com)  
   
+  
+[ ](http://www.emedoutlet.com/charity.php)
+
+[ ](http://www.emedoutlet.com/invitefriends_step1.php "Online Drugstore Referral Discount Program")
+
 ### [View Testimonial](https://www.emedoutlet.com/testimonial_view.php)
 
   * Linda M
@@ -81,3 +88,9 @@ UK Contact: +44 20 7558 8172
 Toll Free: +1-877-2306032
 
 M-F 9:00 AM 4:00 PM EST 
+
+[](http://www.facebook.com/pages/EmedOutlet/123391934362733)
+
+[](http://twitter.com/#!/emedoutlet_com)
+
+Please Enable cookies On your Browser
