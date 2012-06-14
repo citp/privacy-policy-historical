@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stihldealer.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214452id_/http%3A//www.stihlusa.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stihldealer.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615003943id_/http%3A//www.stihlusa.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - STIHL USA
 
-[Back to the STIHL Front Page](https://web.archive.org/web/20111231214452id_/http%3A//www.stihlusa.com/index.html)
+[Back to the STIHL Front Page](https://web.archive.org/web/20120615003943id_/http%3A//www.stihlusa.com/index.html)
 
 **Privacy**
 
@@ -16,4 +16,4 @@ To opt out of the use of cookies for marketing please click on the links below.
 
 <http://www.google.com/privacy/ads/>
 
-[Back to the STIHL Front Page](https://web.archive.org/web/20111231214452id_/http%3A//www.stihlusa.com/index.html)
+[Back to the STIHL Front Page](https://web.archive.org/web/20120615003943id_/http%3A//www.stihlusa.com/index.html)
