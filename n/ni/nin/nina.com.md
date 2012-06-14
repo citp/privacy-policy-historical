@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nina.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123141705id_/http%3A//www.nina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nina.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614220934id_/http%3A//www.nina.com/privacy.php) for the most accurate reproduction.*
 
 # Nina.com - Nina Hartley Privacy
 
