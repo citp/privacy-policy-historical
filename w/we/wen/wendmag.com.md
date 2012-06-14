@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wendmag.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216024251id_/http%3A//www.wendmag.com/magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendmag.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614152439id_/http%3A//www.wendmag.com/magazine/privacy-policy) for the most accurate reproduction.*
 
 # Wend Magazine » Privacy Policy
 
