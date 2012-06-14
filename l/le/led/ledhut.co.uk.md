@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledhut.co.uk privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106124219id_/http%3A//www.ledhut.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledhut.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614202340id_/http%3A//www.ledhut.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
