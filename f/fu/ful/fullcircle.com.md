@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullcircle.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215003141id_/http%3A//www.fullcircle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcircle.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614043143id_/http%3A//www.fullcircle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Full Circle
 
