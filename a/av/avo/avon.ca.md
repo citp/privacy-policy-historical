@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avon.ca privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211172814id_/http%3A//www.ca.avon.com/PRSuite/privacy_security.page%3FLANG_CD%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.ca privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614191039id_/http%3A//www.ca.avon.com/PRSuite/privacy_security.page%3FLANG_CD%3Den_CA) for the most accurate reproduction.*
 
 # Avon cosmetics, beauty, make-up, skincare, fragrance, jobs, work from home
 
