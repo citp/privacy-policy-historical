@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderofbooks.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927043021id_/http%3A//www.orderofbooks.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderofbooks.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614122700id_/http%3A//www.orderofbooks.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer/Privacy Policy | OrderOfBooks.com
 
