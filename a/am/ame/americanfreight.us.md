@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214200243id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614141411id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | American Freight Furniture
 
