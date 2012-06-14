@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buypakistan.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010246id_/http%3A//www.buypakistan.com/cms-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buypakistan.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614080729id_/http%3A//www.buypakistan.com/cms-privacy_policy.html%3FosCsid%3D915712c2c1061efc03e0d04ea720ba26) for the most accurate reproduction.*
 
 # Privacy Policy
 
