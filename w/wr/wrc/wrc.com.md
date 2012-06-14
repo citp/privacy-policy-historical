@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216220446id_/http%3A//www.wrc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614233443id_/http%3A//www.wrc.com/privacy-policy) for the most accurate reproduction.*
 
 # World Rally Championship
 
 ## 1\. Privacy Statement
 
-North One TV will use any personal information collected from this website ([http://www.wrc.com](http://www.wrc.com/)) in accordance with the UK Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website for The Office of the Data Protection Commissioner. North One TV has taken appropriate measures to keep secure any personal information given by users of this site. 
+Fédération Internationale de l'Automobile ("FIA") will use any personal information collected from this website ([http://www.wrc.com](http://www.wrc.com/)) in accordance with the UK Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website for The Office of the Data Protection Commissioner. The FIA has taken appropriate measures to keep secure any personal information given by users of this site. 
 
 ## 2\. What information do we collect and why?
 
@@ -16,7 +16,15 @@ Any information you provide to [http://www.wrc.com](http://www.wrc.com/) will on
 
 ## 3\. Your rights
 
-You have the right to access your information held by North One TV and where necessary, to have it amended. For more details, please write to Lucie Rutherford at North One TV, Mayward House, 46-52 Pentonville Road, London, N1 9HF
+You have the right to access your information held by the FIA and where necessary, to have it amended.
+
+For more details, please write to:
+
+Hayley Gallagher  
+WRC Media Delegate  
+Federation Internationale de l'Automobile  
+8 Place de la Concorde  
+F75008 Paris
 
 ## 4\. Links to other websites 
 
