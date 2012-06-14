@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224041222id_/http%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614082053id_/http%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
-[Home](https://web.archive.org/) » **Privacy and Site Security Policies**
+[Home](https://web.archive.org/) » **Privacy Policy**
 
   * Ordering
   * Payment Options
@@ -34,10 +34,6 @@ In our catalog printed beside each part listing is a price. However, this conven
 ### Credit Card
 
 We accept Visa, MasterCard, American Express, Discover, Car Care One, Checks by Phone and personal checks with your name, address, check number and bank imprinted on the front. If you have a P.O. Box on your check, please include your physical address. Personal checks will not be accepted for orders of $1,000 or more.
-
-### C.O.D. Orders
-
-We accept COD's up to $1,000. COD orders shipped UPS can be paid by money orders or certified funds ONLY. There is a $12.00 fee to process a COD order.
 
 All shipments are F.O.B. Columbiana, Ohio. Small items (under 150 pounds) will be shipped by ground service or express service if requested. Larger items will be shipped by truck freight. We do not ship C.O.D. orders to a P.O. Box, APO, or FPO. All orders must have complete shipping address and phone number. Truck freight is tailgate only, customer must have someone available to unload freight. If the condition of your package is questionable, please contact our Customer Service Department immediately at **800-555-3353, prompt 5**.
 
@@ -85,7 +81,8 @@ Sometimes it becomes necessary to cancel orders for a backorder or discontinued 
 
 We occasionally make our mailing list available to carefully selected companies whose products or services might interest you. If you prefer to have your name withheld, please send your mailing label complete with name and address to:
 
-Mail List Preference 4Wheel Drive Hardware P.O. Box 57 Columbiana, OH 44408 
+44488 State Route 14,  
+Columbiana, OH 44408 
 
 ### Duplicate Catalogs
 
@@ -97,50 +94,81 @@ Although every effort is made to keep our catalog and web site error free, mista
 
 Price, taxes and shipping rates are subject to change without notice.
 
-Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and offers of value to you. We're able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. The following discloses our information gathering and dissemination practices for this Web site: 4wd.com. 
+Your privacy is important to us. The following discloses our information gathering and dissemination practices for 4wd.com. 
 
 ### Browsing
 
-We collect certain information when you visit 4wd.com to improve the quality of your experience. The information that we collect depends upon where you travel within our site. Anytime that you visit our site to browse, read or download information, we collect and store the name of the domain and host from which you access the Internet (for example, msn.com, aol.com, etc…); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. We use this information to measure the number of visitors to areas of our site, and to help us make our site more useful and interesting to our visitors.
+We collect certain information when you visit 4wd.com to improve the quality of your experience. The information we may collect and store includes: 
+
+  * Name of the domain and host you use to access the Internet
+  * IP address of the computer 
+  * Browser software and operating system 
+  * Date and time you access our site
+  * The referral source that brought you to our site 
+
+
+
+We use this information to measure the number of visitors to areas of our site, and to help us make our site more useful and interesting to our visitors.
 
 ### Cookies
 
-We use "cookies" on our site to enable you to save your Jeep information and to expedite any future orders. A "cookie" is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it possible for you to use an online "shopping cart" to keep track of items you wish to purchase. The cookie transmits this information back to the Web site's computer, which, generally speaking, is the only computer that can read it. Most consumers do not know that "cookies" are being placed on their computers when they visit websites. If you want to know when this happens, or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer. Our site relies upon the use of cookies to enhance your shopping experience, but our cookies do not contain nor track your personally identifiable information.
+Our site relies on cookies to store your Jeep information and enhance your shopping experience. These cookies do not contain or track personally identifiable information.
 
-### Online Registration Request
+### Online registration request
 
-If you choose to provide more information to us through our online registration, you may provide your e-mail address and create a password or provide greater detail, such as your name, address, postal address and telephone number ("Registration Information"). Your Registration Information will enable us to provide you information regarding future products and services that may suit your particular interests. You may access and modify or remove your Registration Information by selecting the "Your Account" button on our homepage.
+You may choose to provide personally identifiable information to us through our online registration. This information may include your email address, name, address, and telephone number (“Registration Information”). If you choose to store this information, you can use it to place future orders with us. 
 
-### Product Purchases
+We may use your email address to send you offers that may suit your needs. You may opt out of email communication at any time, by sending an email to [webmaster@4wd.com](mailto:webmaster@4wd.com) with REMOVE in the subject line. 
 
-If you choose to purchase a product from us, we will collect your personally identifiable information, such as your name, e-mail address, billing postal address, shipping postal address, telephone number, credit card number and expiration date ("Purchase Information") in order to properly process your purchase. You may not modify or remove your Purchase Information - even if you cancel or return your product order - as it is necessary to maintain a record of your initial product purchase.
+You may access and modify or remove your Registration Information by selecting the "Login/Register" button on our homepage. 
+
+### Product purchases
+
+If you choose to purchase a product from us, we will collect the following personally identifiable information: 
+
+  * Name
+  * Email address
+  * Billing postal address
+  * Shipping postal address
+  * Telephone number
+  * Credit card number
+  * Expiration date
+  * CVV number
+
+
+
+This information is collectively known as "Purchase Information". We use Purchase Information to process your order. You may not modify or remove your Purchase Information - even if you cancel or return your product order - as it is necessary to maintain a record of your initial product purchase.
 
 ### Contest
 
-We run contests on our site in which we ask visitors for contact information (like e-mail address). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We use vehicle identification and make and model information to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+We periodically run contests on our site. These contests may ask you to provide certain contact information, such as email address. We use contact data from our contests to send offers that may suit your interests. You may opt out of email communication at any time, by sending an email to [webmaster@4wd.com](mailto:webmaster@4wd.com) with REMOVE in the subject line. 
 
 ### Links to other sites
 
-This site contains links to other sites. 4wd.com is not responsible for the privacy practices or the content of such linked Web sites.
+This site contains links to other sites. 4wd.com is not responsible for the privacy practices or the content of such linked websites.
 
-### Mailing List
+### Third parties and affiliate companies 
 
-We may make our customer list available to companies whose offerings may be of interest. If you prefer not to receive these mailings, please write to us at: Mail List Preference, 4Wheel Drive Hardware, PO Box 57, Columbiana, OH 44408. We will not give your email address to other companies.
+We do not share your email address with any third-party or affiliate company. 
 
-### Duplicate Catalog
+We may make our mailing list available to companies whose offerings may be of interest. If you prefer not to receive these mailings, please write to us at: Mail List Preference, 4Wheel Drive Hardware, 44488 State Route 14, Columbiana, OH, 44408.
 
-If you are receiving more than one copy of our catalog, please send us both mailing labels or call our Customer Service Department and indicate which one is the most correct. Or please share your extra catalog with a "Jeeper" friend.
+### Opt-out procedures 
 
-### Printing Errors
+To be removed from the catalog mailing list: 
 
-Although every effort is made to keep our catalog and website error free, mistakes sometimes occur. We are not responsible for typographical and or technical errors. Price and shipping rates are subject to change without notice.
+  * Please write to us and let us know which catalog you would like to stop receiving.
+  * Our mailing address is: Mail List Preference, 4Wheel Drive Hardware, 44488 State Route 14, Columbiana, OH, 44408.
+  * Please allow three months for mailing change requests to be implemented. 
 
-### How Can I Opt Out of Receiving Further Communication?
 
-To be removed from your Catalog Mailing List: You can contact us by mail at the address listed above and let us know which specific catalog you wish to stop receiving. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented. 
 
-To unsubscribe from an E-Mail List: Simply send an email to [webmaster@4wd.com](mailto:webmaster@4wd.com), subject line: REMOVE. 
+To be removed from our email newsletter list: 
 
-**NOTE: This policy may be modified from time to time. You are encouraged to review this policy on a monthly basis.**
+  * Please send an email to [webmaster@4wd.com](mailto:webmaster@4wd.com) with REMOVE in the subject line.
+
+
+
+**NOTE: This policy may be modified from time to time. You are encouraged to review this policy monthly.**
 
 back to top
