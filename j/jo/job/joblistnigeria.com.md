@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090420id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614064733id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Jobs in Nigeria - Job Vacancies in Nigeria
 
@@ -49,19 +49,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 Unfortunately, email and online fraud are continuing concerns for virtually all businesses and organizations that operate on the Internet. Please be aware that, Joblist Nigeria can never request for your personal information either online or offline. If you receive an email or pop-up window requesting that you sign in to JoblistNigeria.com and provide your personal information, do not respond. If you suspect any fraud, send us an email through [admin@joblistnigeria.com](mailto:admin@joblistnigeria.com) and we will take appropriate action which might include reporting them to EFCC
 
 **Effective date:** November 1, 2009
-
-Jobs in Nigeria
-
-  * [efcc recruitment](http://joblistnigeria.com/about/privacy "efcc recruitment")
-  * [efcc nigeria recruitment](http://joblistnigeria.com/about/privacy "efcc nigeria recruitment")
-  * [www efccrecruitment com](http://joblistnigeria.com/about/privacy "www efccrecruitment com")
-  * [Efcc recruitment in nigeria](http://joblistnigeria.com/about/privacy "Efcc recruitment in nigeria")
-  * [www efcc vacancy](http://joblistnigeria.com/about/privacy "www efcc vacancy")
-  * [Www efcc nig com](http://joblistnigeria.com/about/privacy "Www efcc nig com")
-  * [www EFCC Recruitment com](http://joblistnigeria.com/about/privacy "www EFCC Recruitment com")
-  * [www efcc nigeria com](http://joblistnigeria.com/about/privacy "www efcc nigeria com")
-  * [efcc recruitment for2011/2012](http://joblistnigeria.com/about/privacy "efcc recruitment for2011/2012")
-  * [efcc nigeria/career](http://joblistnigeria.com/about/privacy "efcc nigeria/career")
 
   
   
