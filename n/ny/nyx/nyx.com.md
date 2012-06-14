@@ -1,159 +1,56 @@
-> *The following text is extracted and transformed from the nyx.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyx.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614095419id_/http%3A//www.nyx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Privacy Policy | NYSE Euronext
 
-Privacy Policy  
+**NYSE EURONEXT  
+PRIVACY POLICY**
 
+PLEASE NOTE THAT THE FOLLOWING “PRIVACY POLICY” WAS UPDATED ON 23 MAY 2012.  PRIOR TO USING OUR WEBSITE OR APPLICATION, WE ADVISE YOU TO CAREFULLY REVIEW ALL OF THE SECTIONS THAT APPEAR BELOW.
 
-  
-Updated September 30, 2004  
-Version 2.4
+The privacy policies described herein (this " **Privacy Policy** ") apply wherever you use the web pages available at the URL nyx.com, [www.nyx.com](http://www.nyx.com/ "www.nyx.com"), usequities.nyx.com, nysetechnologies.nyx.com, globalderivatives.nyx.com, bonds.nyx.com, etp.nyx.com, indices.nyx.com, connect.nyx.com, [www.nyseeuronext.com](http://www.nyseeuronext.com/ "www.nyseeuronext.com"), [www.nyse.com](http://www.nyse.com/ "www.nyse.com"), [www.nysenet.com](http://www.nysenet.com/ "www.nysenet.com"), [www.nyxdata.com](http://www.nyxdata.com/ "www.nyxdata.com"), [www.nysedata.com](http://www.nysedata.com/ "www.nysedata.com") and selected other domains, including any linked pages owned and operated by NYSE Euronext or any successors thereof, or any application made available by NYSE Euronext for use on a tablet, mobile phone or other mobile device (individually and collectively, the "NYSE Euronext Website"). NYSE Euronext respects the privacy of our online visitors.  This Privacy Policy tells you how we protect the personal information that you supply voluntarily and will describe the choices you have concerning such information.  Please read this Privacy Policy carefully.  We may need to change this Privacy Policy from time to time in order to address new issues and reflect changes on our NYSE Euronext Website.  We will post changes here so that you know what information we gather, how we might use that information, and whether we will disclose that information to anyone.  Changes and modifications to this Privacy Policy will be effective immediately upon our posting of the changes and modification on the NYSE Euronext Website, except where prohibited by law.  You agree to review this Privacy Policy each time you use the NYSE Euronext Website. By submitting your personal data to us, you consent to the collection and use of your personal data in accordance with this Privacy Policy.
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+  For the purpose of this Agreement, “NYSE Euronext” shall mean NYSE Euronext and all of its subsidiaries, affiliates and their officers, directors, employees and agents.
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+The NYSE Euronext Website is a general audience web site and NYSE Euronext does not knowingly collect personally identifiable information from children under 13 years of age.
 
-**This Privacy Policy protects your privacy by:**
+**Personal Information - Collection and Use**  
+In general, you can visit the NYSE Euronext Website without telling us who you are or revealing any personal information about yourself.
 
-**Informing you about:**
+1\. Personally Identifiable Information
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+The choice of whether to and how much personally identifiable information you provide to NYSE Euronext is left completely to you and is voluntary. There are times when we may need information from you, such as your name, country of residence, mailing address or e-mail address. You will be asked to supply that information voluntarily. We collect and use personal information (including but not limited to name, address, telephone number and email) in order to:
 
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
+  * tailor our services to match your requirements;
+  * respond to queries or requests submitted by you;
+  * administer or otherwise carry out our obligations in relation to any agreement you have with us;
+  * anticipate and resolve problems with any products or services supplied to you;
+  * create products or services that may meet your needs; and  
+  * communicate with you about our products and services  
+  * provide access to restricted pages or contents of the NYSE Euronext Website
+  * comply with legal and/or regulatory requirements
 
 
 
+You are aware of and explicitly agree with the fact that, as part of the services offered to you through our NYSE Euronext Website, the information you provide to us through the NYSE Euronext Website may be collected and stored by NYSE Euronext, 11 Wall Street, New York, N.Y., in the United States of America, as well as in other countries outside the European Economic Area (“EEA”).  You are aware of the fact that legislation applicable to such collection and storage might differ from the legislation that is applicable in your jurisdiction, such as EEA national privacy legislation.   By way of example, our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
 
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+Except when required to do so by law (for example, if required to do so by legal process or for the purposes of prevention of fraud or other crime), NYSE Euronext does not currently share, sell, rent, lend or give any of the personally identifiable information you provide to us with or to  any third party, other than with our subsidiaries and affiliates and our service providers who assist us in providing information and/or services to you and who need to know the information in order to verify or fulfil your transactions with us. The provision of personally identifiable information about you to these service providers is done in accordance with agreements which state that the service provider agrees to keep such information confidential and to use such information in accordance with all applicable laws.  It is unethical for third parties to gather personally identifiable information from any communication you have made with us for any purpose, either by manual or electronic means.  NYSE Euronext does not grant permission to third parties to use personally identifiable information obtained under these circumstances.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+  NYSE Euronext maintains physical, electronic, and procedural safeguards to guard your non-public, personally identifiable information. This includes, among other things, using encryption technology for credit card data used in e-commerce transactions.  However, NYSE Euronext cannot guarantee that any information is totally secure. Third parties may unlawfully intercept or access transmissions or private communications and NYSE Euronext makes no representation, warranty or guarantee that our NYSE Euronext Website is protected from viruses, security threats or other vulnerabilities or that your information will always be secure. You hereby acknowledge that we are not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. If we become aware of any security breach which we know has resulted in unauthorized access of your personally identifying information, then we will endeavor to inform you of that breach as soon as it is practicable for us to do so.
 
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+We aim to keep our information about you as accurate as possible. If you would like to access, review or change the details you have supplied us with, please email our NYSE Euronext Website Editor at comm-web@nyx.com.  If you would like to contact NYSE Euronext about our Privacy Policy, please email [privacy@nyx.com](mailto:privacy@nyx.com).
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+2\. Anonymous Information
 
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+  We gather information during normal browsing which we do not tie back to a specific individual user.  Like many other Websites, NYSE Euronext receives and collects information about your session, including the IP (internet protocol) address, domain name, browser type, operating system you use, the files you download, pages you visit and dates/times of those visits. When NYSE Euronext receives information about your session or about you (for example, your age and the town where you live), we may use it as part of aggregated statistics for research, regulatory purposes, or to improve our NYSE Euronext Website, products and services. This data is analyzed for certain trends and statistics and allows us to enhance our offerings to you and to provide an enjoyable and an innovative online experience. This information about your session or about you may be collected by technology such as, "cookie" and "web beacons".
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+**Cookies**  
+There is a technology called "cookies" which are small text files that a website transfers to a user's hard disk or browser which can be used by a Website to enable its users to store tailored information from the Website. Some NYSE Euronext Website pages use cookies so that we can better serve you when you return to our NYSE Euronext Website. A cookie does not retrieve any other data from your hard drive or capture or store your e-mail address. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You may continue browsing our site even if you decide not to accept the cookie. However, if you decide to erase or block the cookie you may not be able to utilise some features of the NYSE Euronext Website.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+**Web Beacons**  
+NYSE Euronext employs a software technology that serves as a web tracking device to collect certain information about traffic to the NYSE Euronext Websites. This device is classified as a "web beacon" by the Network Advertising Initiative, which means that the scope of its collection is restricted to NYSE Euronext Website traffic data. It is similar in function to cookies. The main difference between cookies and web beacons is that web beacons are invisible on the page and are much smaller, about the size of the period at the end of this sentence. A P3P-compliant JavaScript cookie is set and collected by the tracking device to allow for differentiation between visitors to the sites. This data is used for tracking and reporting aggregate usage patterns on the NYSE Euronext Website but does not include any personally identifiable information about individual visitors.
 
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+**Links to Third Party Websites**  
+NYSE Euronext provides links to third party Websites; however, we are not responsible for those sites, their content or privacy policies. This Privacy Policy does not apply to any web pages not under a domain owned and operated by NYSE Euronext, regardless of any hyperlinks from a web page under our domains to external web pages. We advise you to check their privacy policies as well.
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+**Laws and Applicable Jurisdiction**  
+You acknowledge and agree that this Agreement is governed by and should be interpreted in accordance with New York law and in the event of any dispute arising in relation to this Agreement or any dispute arising in relation to the NYSE Euronext Website, whether in contract or in tort or otherwise, the New York courts will have exclusive jurisdiction over such dispute.  The failure of NYSE Euronext to exercise or enforce any right or provision of these Terms and Conditions of Use shall not constitute a waiver of such right or provision.
