@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021717id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614173507id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Unclaimed Money - Cash Unclaimed Privacy Policy
 
@@ -19,7 +19,8 @@ We collect information for the following purpose(s):
 * Research and development.  
 * Building records of visitors without linking identifying information to the records for the purpose of research, analysis and reporting.  
 * Assisting you in your search for unclaimed money  
-* Signing you up for your membership, newsletter lists and related payment transactions
+* Signing you up for your membership, newsletter lists and related payment transactions  
+* Sending sales and marketing materials to you for various products &/or services.
 
 Use Of Email Addresses: 
 
@@ -27,7 +28,7 @@ If you provide us with your email address we will utilize it to send you email r
 
 Who has access to the information we collect? 
 
-Ourselves and/or our agents which utilize the information only for the purpose given.Information is only shared with our partners who share our privacy policy. 
+Ourselves and/or our agents, partners & affiliates which utilize the information only for the purpose given. Information will only be shared with companies who also follow our privacy policies. 
 
 How long is information kept? 
 
@@ -49,5 +50,4 @@ CashUnclaimed.com
 19881 Brookhurst Street  
 Suite C-285  
 Huntington Beach, CA 92646  
-Email: Webmaster@cashunclaimed.com  
-
+br>
