@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120215616id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614113157id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 2012 Travel Deals
+# Privacy Policy - Travel Deals 2012
 
 Your Privacy  
 We give our site visitors the opportunity to provide Traveldealsfinder.com with their personal information in response to specific services or tasks (e.g., signing up for our newsletters). In order to receive additional services, visitors may be required to provide personal information such as an email address.
@@ -25,4 +25,9 @@ Please do not send to Traveldealsfinder.com or post on Traveldealsfinder.com any
 Revisions  
 Traveldealsfinder.com may at any time revise the terms and conditions herein by updating this legal page. You are bound by any such revisions and should therefore periodically visit this page to review the current terms and conditions.
 
-2012 Travel Deals2012 Travel Deals 
+  
+
+
+### Privacy Policy : Online Booking, Feedback, Comments and Reviews
+
+Check this section for latest comments, reviews and feedback on Privacy Policy
