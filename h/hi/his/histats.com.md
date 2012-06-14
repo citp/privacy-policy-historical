@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208212255id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the histats.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614180311id_/http%3A//www.histats.com/%3Fact%3D5) for the most accurate reproduction.*
 
 # Histats.com Counter ,the free web stats and stat counter, hit counter, free web tracker and tracking tools, professional and free!!
 
