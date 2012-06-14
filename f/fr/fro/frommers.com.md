@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219191705id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614215235id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
-
-[](https://web.archive.org/)
 
 |   
 ---  
 | [About Frommer's](https://web.archive.org/about/index.html) |   
 |  |   
 |  | [Partnerships](https://web.archive.org/about/about_partner.html) |   
-|  |  | [Advertise with Us](http://www.frommers.biz/premium-services/advertising-sponsorships/) |   
+|  |  | [Advertise with Us](http://www.frommers.biz/advertising/) |   
 |  |  | [Content Licensing & Premium Services](http://frommers.biz/) |   
 |  |  | [Affiliate Program](https://web.archive.org/about/affiliate_program.html) |   
 |  |  | [Link to Us](https://web.archive.org/about/link_to_us.html) |   
@@ -29,7 +27,7 @@
 |  |   
 |  | [Frommer's Complete Catalog](http://promo.wiley.com/2010frommersctlg/USsales/) |   
 |  |   
-|  | [Press Center](http://www.frommers.com/about/press_center.html) |   
+|  | [Press Room](http://www.frommers.com/about/press_room.html) |   
 |  |   
 |  | [Legal & Copyright Notices](https://web.archive.org/about/copyright.html) |   
 |  |   
@@ -61,4 +59,4 @@ Please note that Wiley's Privacy and Data Protection Policy is reviewed periodic
 
 | 
 
-[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=992487756193868800?)
+[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=582482378728828700?)
