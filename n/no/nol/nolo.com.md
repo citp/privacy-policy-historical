@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nolo.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617004950id_/http%3A//www.nolo.com/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolo.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614082740id_/http%3A//www.nolo.com/security-privacy.html) for the most accurate reproduction.*
 
-# Security and Privacy - Nolo
-
-##### _Last Updated on 12/17/2009_
+# Security & Privacy | Nolo.com
 
 ### Security and data-tracking concerns
 
@@ -18,21 +16,16 @@
 
   * Ordering from Nolo
   * Testimonials
-  * Affiliates
   * Nolo’s Online Legal Forms
-    * Information Collected by Nolo’s Online Legal Forms
-    * Online Legal Forms Payment Policy
-  * Suggestion Box
 
 
 
 ### When we'll contact you
 
-  * Email communications you may receive from Nolo:
-    * Order Confirmation Emails
-    * Newsletter Subscription Confirmation Emails
-    * Newsletter Cancellation Confirmation Emails
-    * Scheduled Email Newsletters
+
+
+  * Order Confirmation Emails
+  * Infrequent Email Communications
 
 
 
@@ -44,14 +37,6 @@
   * Off-Site Links
   * Co-branded Sites
   * Framed Sites
-
-
-
-### Getting in touch with us
-
-  * Modify your information
-  * Change or opt out of your newsletter subscription
-  * Contact Us
   * Privacy Policy Changes
 
 
@@ -60,19 +45,11 @@
 
 Nolo has been a BBB Accredited business since October 2009. This means Nolo supports the BBB's services to the public and meets the BBB Accreditation Standards. Based on BBB files, Nolo has a BBB rating of A+ on a scale from A+ to F. The BBB issues Reliability Reports on all businesses, whether or not they are BBB accredited.
 
-Back to top 
-
-More
-
 ### TRUSTe Site Verification
 
-[](http://www.truste.org/ivalidate.php?url=www.nolo.com&sealid=101) Nolo is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for www.nolo.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; and how you can correct any inaccuracies in the information. This Web site has agreed to participate in TRUSTe's formal resolution process. If you have questions or concerns regarding this statement, you should first contact us by e-mail at privacy@nolo.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+[](http://www.truste.org/ivalidate.php?url=www.nolo.com&sealid=101) Nolo is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for [www.nolo.com](http://www.nolo.com/ "www.nolo.com"). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; how the information is used; with whom the information may be shared; and how you can correct any inaccuracies in the information. This Web site has agreed to participate in TRUSTe's formal resolution process. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
-
-Back to top 
-
-More
 
 ### Site Security
 
@@ -82,10 +59,6 @@ To protect the security of the information you give us when you order online, No
 
 How will you know that your connection is secure? Simply check the lower right corner of your browser after placing a Nolo product in your shopping cart. If you see a closed lock or an unbroken key (depending on what browser you are using), your connection is secure and your information is safe.
 
-Back to top 
-
-More
-
 ### The Use of Cookies
 
 Nolo's website places a session cookie on your computer. A cookie is a unique identifier that helps us understand how visitors navigate the site. The use of cookies is standard on the Internet and many major websites employ them. Most browsers automatically accept cookies; however, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept the cookie.
@@ -93,10 +66,6 @@ Nolo's website places a session cookie on your computer. A cookie is a unique id
 The cookie itself does not identify you, your email address or any other personal information. We use the information it provides to help us improve the site and our service, and to provide our visitors with a better experience while on the site. These cookies are not tied to personally identifiable information. Even without accepting a cookie you can still access most of the features on the site. There will, however, be limitations on your use of some site functions. For example, if you choose to disable cookies you will not be able to take advantage of promotional discounts in our outbound emails. In order for the links in our newsletters to work, the subsequent landing page we create for the promotion and in order have you receive the appropriate discount, your cookies will need to be enabled. The email itself does not contain a cookie, the landing page you come to via the email will use a cookie to apply the appropriate discount. There is no personal or aggregate data collected by these cookies. The cookies are used to track the flow of traffic through the site and to maintain a list of products that have been added to the shopping cart.
 
 Some of our business partners use cookies on our site. We have no access to or control over these third party cookies.
-
-Back to top 
-
-More
 
 ### Log Files
 
@@ -106,37 +75,15 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personally identifiable information.
 
-Back to top 
-
-More
-
 ### Ordering from Nolo
 
 Nolo is committed to your right to privacy. We only collect information that you voluntarily give us. We will never rent or sell this private information to anyone.
 
 When purchasing products or services on the Nolo website, you'll be asked for personally identifiable information. This personally identifiable information includes your name, mailing address, phone number and email address as well as your credit card type, credit card number, credit card expiration date and credit card security code. This information is transmitted using a secure, encrypted form. Only billing and shipping vendors have access to billing or shipping information. These service providers can only use this information for the purpose of billing and shipping products to our customers, and not for their own marketing purposes. The Nolo website may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy policies or content of those other websites.
 
-When placing an order with Nolo, the address you provide is used to send your order and a catalog. If you would prefer not to receive a catalog from us, please let us know at [cs@nolo.com](mailto:cs@nolo.com). When signing up for our newsletters, we collect your email address and name for the sole purpose of sending the emails you have requested. See Choice/Opt-out for unsubscribe instructions.
-
-Back to top 
-
-More
-
 ### Testimonials
 
 By communicating positive comments to Nolo regarding Nolo's products and services you consent to allow Nolo to use those comments in whole or in part in Nolo's promotional materials as well as third-party materials promoting Nolo products. Nolo shall never use your full name, only your initials and location, when identifying the source of the comments.
-
-Back to top 
-
-More
-
-### Affiliates
-
-If you choose to join our Affiliates program we collect information such as name, address, site URL, Social Security Number or Tax ID#, phone, and email on our site. We use this information to register you in our affiliate program. For more information on this program, please go to our [Affiliates FAQ page](https://web.archive.org/affiliates/faq.html). This information is not shared with any third parties.
-
-Back to top 
-
-More
 
 ### Nolo’s Online Legal Forms
 
@@ -152,157 +99,40 @@ More
 
 Payment for Nolo's Online Will and Nolo's Online Living Trust occurs before you begin the document interview process. For all other Online Forms, payment occurs when you want to download or submit your completed document. You can complete a document interview, but you will be unable to download or print the document until you purchase it. 
 
-Back to top 
-
-More
-
-### Suggestion Box
-
-The suggestion box is for customers to submit suggestions about our products. Contact info is not required, but, if any is given, it is used solely for follow-up, if necessary. No personal information submitted via the Suggestion Box is used for any other purpose.
-
-Back to top 
-
-More
-
-### Communications from Nolo
-
-Nolo may contact customers via email for various reasons. The details on when and why are explained below.
-
-#### Order Confirmation Emails
+### Order Confirmation Emails
 
 After placing an order, a customer will receive a confirmation email with their shipping address and order details, including an order number.
 
-#### Email Newsletter Subscription Confirmation Emails
+### Infrequent Email Communications
 
-Anyone subscribing to one or more newsletters for the first time gets a confirmation email which contains:
+Nolo.com will from time to time deliver email offers to customers who have opted to allow us to communicate with them, though not all are subscribers to Nolo's email newsletters or to Nolo's Legal Updater. Customers who ask to no longer receive such offers are marked as "Do Not Deliver" in our database.
 
-  * confirmation of subscription
-  * names of the specific newsletters they are subscribed to
-  * two links to free downloadable eProducts
-  * an email address in case subscribers have questions or comments
-  * instructions on how to cancel their subscriptions
-
-
-
-Anyone updating their current subscriptions or email information gets an email that:
-
-  * confirms their changes
-  * names specific newsletters they are subscribed to
-  * an email address in case subscribers have questions or comments
-  * instructions on how to cancel their subscriptions
-
-
-
-In addition: Anyone who signs up for the first time for a particular newsletter, or changes a current subscription to get a new newsletter, will then receive the current edition of that newsletter within minutes of subscribing - which is mentioned in the confirmation email. The only exception is Nolo's Special Offer, which is sent out to new/current subscribers only when the next one is available.
-
-#### Email Newsletter Cancellation Confirmation Emails
-
-Anyone unsubscribing from an email newsletter(s) receives an email confirmation that they are unsubscribed. This email details those email newsletters they will no longer receive, and those that they are still subscribed to. If they are no longer subscribed to any email newsletters, this is also indicated. Cancelled subscribers are also provided an opportunity to re-subscribe at any time, and an email for any questions or comments.
-
-#### Scheduled Email Newsletters
-
-Nolo.com currently publishes four regularly delivered email newsletters:
-
-  * NoloBriefs (delivered monthly)
-  * Nolo's Special Offer (delivered monthly)
-  * Nolo's BizBriefs (delivered monthly)
-  * Every Landlord's Legal Quarterly (delivered every three months)
-
-Back to top 
-
-More
+Finally, if there's ever a major error included in a Nolo email that provides misleading information or misstates the nature of an offer, Nolo will send a corrected version of the email, accompanied with an explanation of the problem.
 
 ### Sharing of Information
 
 Nolo does not share aggregate or personal information with 3rd parties who are not service providers.
 
-Back to top 
-
-More
-
-### Legal Disclaimer
+###  Legal Disclaimer
 
 Nolo will disclose personal and aggregate information when required by a valid legal mechanism such as a search warrant, subpoena, or court order, or when we deem it necessary, in our sole discretion, to protect our rights and the safety of others, or our members, employees, or properties.
-
-Back to top 
-
-More
 
 ### Online Surveys
 
 At times Nolo will run online surveys asking for specific contact or demographic information, such as what areas of the site interest you and how you use the web for personal use. These surveys are always optional. The purpose of these surveys is to improve the website for its users.
 
-Back to top 
-
-More
-
 ### Off-Site Links
 
 Nolo provides links to other sites. Nolo is not responsible for the privacy practices or contents of these other sites.
-
-Back to top 
-
-More
 
 ### Co-Branded Sites
 
 From time to time, we work with trusted partners to market our products. You may find our products on various sub-domains of our site. These types of pages are branded by both Nolo and a trusted partner. However, the data collected on these types of pages is governed by our privacy policy. We do not share your personally identifiable information with these third parties. All pages governed by our privacy policy will have this link on the footer of each page.
 
-Back to top 
-
-More
-
 ### Framed Sites
 
 Nolo may syndicate its content to and distribute its content through other sites on the Internet. Although you may see the Nolo logo on these pages, your activity and information on a framed site is governed, gathered and controlled by the privacy statement on the URL /domain address you're visiting. Nolo does not receive user information back from these framed sites.
 
-Back to top 
-
-More
-
-### Modify Your Information
-
-Get in touch with Nolo to change your previously provided information:
-
-Nolo Customer Service
-
-950 Parker St
-
-Berkeley, CA 94710
-
-USA
-
-Phone +1-800-728-3555 
-
-Back to top 
-
-More
-
-### Choice/Opt-Out
-
-You can opt-out from receiving email and catalog mailings from us by contacting us:
-
-Nolo Customer Service
-
-950 Parker St
-
-Berkeley, CA 94710
-
-USA
-
-Phone +1-800-728-3555 
-
-Additionally, at the end of every newsletter, there is a link to opt-out of future mailings.
-
-Back to top 
-
-More
-
 ### Privacy Policy Changes
 
 From time to time we may revise this privacy notice. If we make a material change, we will post a notice on the Nolo Web site and notify you by e-mail, at which time you'll be able to "opt out" of these new practices by contacting us (using the contact information above).
-
-Back to top 
-
-More
-  *[CA]: California
