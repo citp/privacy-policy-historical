@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214112752id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614144452id_/http%3A//xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XtremeTop100.com - Gaming top 100 list
 
@@ -26,6 +26,6 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 Concerns or questions about this privacy policy can be directed to XtremeTop100.com for further clarification. 
 
-© 2011 [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php)
+© 2012 [XtremeTop100 .com](http://www.xtremetop100.com/) \- [privacy policy](https://web.archive.org/privacypolicy.php)
 
 [](http://t.extreme-dm.com/?login=alco84)
