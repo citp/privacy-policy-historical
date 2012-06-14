@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212015237id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614195105id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
 
 # WeddingVendors.com: Privacy Policy
 
@@ -40,7 +40,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/privacy_ads.html). 
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/policies/privacy/ads/). 
 
 Some of our advertising partners, such as Google Adsense, may use cookies and web beacons on our site. These third-party ad servers or ad networks use such technology to deliver the advertisements and links that appear on www.weddingvendors.com sent directly to your browser. They automatically receive your IP address when this occurs. 
 
@@ -64,7 +64,7 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-## Our Commitment To Data Security
+## Our Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
@@ -72,7 +72,7 @@ When placing an order all credit card information is encrypted at all stages fro
 
 All emails and newsletters from this site allow you to opt out of further mailings. 
 
-## How You Can Access Or Correct Your Information
+## How You Can Access or Correct Your Information
 
 You can access all your personally identifiable information that we collect online and maintain by logging into your registered account. We use this procedure to better safeguard your information. 
 
@@ -80,6 +80,6 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-## How To Contact Us
+## How to Contact Us
 
 Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/contact/). 
