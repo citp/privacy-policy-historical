@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twittericon.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216194737id_/http%3A//www.twittericon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittericon.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614154832id_/http%3A//www.twittericon.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Twitter Icons and Backgrounds
+# Privacy « TwitterIcon
 
 TwitterIcon.com respects your privacy on the Internet. As part of our operations, we gather certain types of information about our contacts and web visitors, and we would like to explain the types of information we assemble, what we do with it and how to correct or change your information.
 
