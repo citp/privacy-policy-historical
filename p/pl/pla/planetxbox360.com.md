@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetxbox360.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120021325id_/http%3A//www.planetxbox360.com/page/show/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetxbox360.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614110746id_/http%3A//www.planetxbox360.com/page/show/privacyPolicy) for the most accurate reproduction.*
 
 # News, Games and Forums for the Xbox 360
 
@@ -39,7 +39,7 @@ _Changes to Policy_
 From time to time, Complex may revise this Policy, in whole or in part, and with or without notice. Complex will post the revised Policy on the Site, so that users can always be aware of what information Complex collects, how the information is used and under what circumstances such information may be disclosed.
 
 _Opt Out_  
-When a user registers on the Site, the user may have opted in to receive communications from Complex, including offers, updates and newsletters. If a user has not opted in, the user will not receive any communication from Complex. A user may opt out at any time by changing the election on the user profile page. A user may also opt out by following the instructions in a newsletter or other email. Additionally, a user may opt out by sending an email to [webmaster@PlanetXbox360.com](https://web.archive.org/web/20111120021325id_/http%3A//www.planetxbox360.com/page/show/webmaster@PlanetXbox360.com) with the subject line OPT-OUT. By choosing to opt-in, you consent to the collection and use of all Personal Information collected by Complex. 
+When a user registers on the Site, the user may have opted in to receive communications from Complex, including offers, updates and newsletters. If a user has not opted in, the user will not receive any communication from Complex. A user may opt out at any time by changing the election on the user profile page. A user may also opt out by following the instructions in a newsletter or other email. Additionally, a user may opt out by sending an email to [webmaster@PlanetXbox360.com](https://web.archive.org/web/20120614110746id_/http%3A//www.planetxbox360.com/page/show/webmaster@PlanetXbox360.com) with the subject line OPT-OUT. By choosing to opt-in, you consent to the collection and use of all Personal Information collected by Complex. 
 
 _Contact Information_  
-Please direct all questions in connection with this Policy via e-mail to [webmaster@PlanetXbox360.com](https://web.archive.org/web/20111120021325id_/http%3A//www.planetxbox360.com/page/show/webmaster@PlanetXbox360.com).
+Please direct all questions in connection with this Policy via e-mail to [webmaster@PlanetXbox360.com](https://web.archive.org/web/20120614110746id_/http%3A//www.planetxbox360.com/page/show/webmaster@PlanetXbox360.com).
