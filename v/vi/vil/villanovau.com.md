@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villanovau.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209134121id_/http%3A//info.bisk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villanovau.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614041414id_/http%3A//info.bisk.com/privacy.html) for the most accurate reproduction.*
 
 # Bisk Privacy Statement
 
