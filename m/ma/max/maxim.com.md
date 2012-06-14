@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213211id_/http%3A//www.maxim.com/Utility/Footer%2BLinks/CORPORATE/PRIVACY%2BPOLICY/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614035812id_/http%3A//www.maxim.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Maxim
 
 Updated May 12, 2011 
 
-As used herein, “Site” refers to www.maxim.com and other sites on the World Wide Web (including sites designed to be accessed by browsers using Wireless Application Protocol) originating in the United States which are owned and/or operated by Alpha Media Group Inc. (“AMG”). 
+As used herein, “Site” refers to [www.maxim.com](http://www.maxim.com/) and other sites on the World Wide Web (including sites designed to be accessed by browsers using Wireless Application Protocol) originating in the United States which are owned and/or operated by Alpha Media Group Inc. (“AMG”). 
 
 By accessing and using the Site, you expressly accept and agree to be bound by the terms and conditions set forth in the Privacy Policy (“Policy”). If you do not wish to be bound by the Policy, you have no license to use the Site and should leave the Site immediately. 
 
 AMG reserves the right to modify the Policy in any way, at any time. Any and all such modifications will take effect immediately after AMG provides reasonable notice. Notice may be given by posting on the Site, via electronic communication, in writing, and/or any other means that provides reasonable notice. Your further use of the Site after such reasonable notice has been provided constitutes your acceptance of the modified Policy. 
 
-Collection & Use of Information 
+Collection & Use of Information
 
 1\. Personally-Identifying Information
 
 AMG, directly and through third parties, collects personally-identifying information when you register for the online newsletter or magazine subscriber-only area of the Site, enter contests, and/or participate in other online activities (including, but not limited to, surveys, chat rooms, games, and bulletin boards) throughout the Site. This personally-identifying information may include your name, address (street address, city, state, and zip code), contact information (e.g., e-mail address and telephone numbers), and other identifiers that permit AMG and/or third parties to contact you directly. 
 
-AMG uses personally-identifying information to award prizes and/or, with your permission, for promotional and marketing purposes. AMG uses this information and outside records to offer promotions, products, programs, or services that may be of interest to you. If you prefer not to receive such offers from AMG, please click here. 
+AMG uses personally-identifying information to award prizes and/or, with your permission, for promotional and marketing purposes. AMG uses this information and outside records to offer promotions, products, programs, or services that may be of interest to you. If you prefer not to receive such offers from AMG, please [click here](http://pref.email.maxim.com/preferences/). 
 
 AMG may also, from time-to-time, make personally-identifying information available to other companies so that they may also offer promotions, products, programs, and/or services of interest to you. If you prefer not to receive such offers from other companies, please click here. 
 
@@ -28,7 +28,7 @@ If guests elect to use the Site’s "E-mail to a Friend" referral service for in
 
 2\. Non-Personally-Identifying Information 
 
-AMG, directly and through third parties, collects non-personally identifying information for purposes of site administration and to compile aggregate information about usage of the Site. To learn more about how AMG uses a third party service to collect and use non-personally identifying information on the Site, click here: http://www.nielsen-netratings.com/privacy/sitecensus.htm 
+AMG, directly and through third parties, collects non-personally identifying information for purposes of site administration and to compile aggregate information about usage of the Site. To learn more about how AMG uses a third party service to collect and use non-personally identifying information on the Site, click here: [http://www.nielsen-netratings.com/privacy/sitecensus.htm ](http://www.nielsen-netratings.com/privacy/sitecensus.htm%C2%A0)
 
 AMG also shares aggregate, non-personally-identifying information with third parties for advertising and promotional purposes. 
 
@@ -66,26 +66,26 @@ The use of advertising cookies sent by third-party servers is standard in the In
 
 6\. Third-Party Advertisers 
 
-AMG uses third party advertising companies and advertising networks to serve ads to you on its behalf when you visit the Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses: http://www.networkadvertising.org/optout_nonppii.asp? http://www.advertising.com/Privacy.html? http://www.doubleclick.com/us/about_doubleclick/privacy 
+AMG uses third party advertising companies and advertising networks to serve ads to you on its behalf when you visit the Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses: <http://www.networkadvertising.org/optout_nonppii.asp>? <http://www.advertising.com/Privacy.html>? [http://www.doubleclick.com/us/about_doubleclick/privacy ](http://www.doubleclick.com/us/about_doubleclick/privacy%C2%A0)
 
-Minors 
+Minors
 
 Minors (individuals under 18 years of age) should always ask parents for permission before providing any personal information online. No information should be submitted to or posted on the Site by any Minor without the consent of a parent or guardian. Unless otherwise disclosed during collection, AMG does not knowingly provide any personally-identifying information about Minors, regardless of its source, to third parties, nor is this information knowingly used by AMG for any marketing or promotional purposes. Minors are not allowed to participate in contests on the Site. 
 
-Public Forums 
+Public Forums
 
 Whenever you disclose information online in chat rooms, message boards, or similar posting areas, that information can be viewed, collected, and used by anyone. Therefore, do not disclose any information in such areas that you do not want made available to the general public. AMG is not responsible for the consequences of such disclosures including, but not limited to, unsolicited communications. 
 
-Security 
+Security
 
 The Site has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and to make proper use of the information that AMG collects. Nevertheless, no transmission of data over the Internet can ever be completely secure. Thus, while AMG strives to protect your personal information, it cannot absolutely guarantee the security of any information that you provide. 
 
-Subscriptions 
+Subscriptions
 
-To unsubscribe from the Maxim Online newsletter and/or other electronic communications from AMG, reply to the e-mail newsletters with “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line or follow the [Unsubscribe](http://pref.email.maxim.com/preferences/) link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from Site partners by typing “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line in a reply to one of the Site partner’s e-mails to you or by following the “unsubscribe” link at the bottom of the e-mail. 
+To unsubscribe from the Maxim Online newsletter and/or other electronic communications from AMG, reply to the e-mail newsletters with “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line or follow the "[unsubscribe](https://pref.email.maxim.com/preferences/)" link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from Site partners by typing “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line in a reply to one of the Site partner’s e-mails to you or by following the “unsubscribe” link at the bottom of the e-mail. 
 
 To change the address of your Maxim Magazine subscription, or to provide any other subscription-related information to AMG, you may write to Maxim, P.O. Box 420235, Palm Coast, FL 3214, or call 1(386)447-6312. 
 
-Questions 
+Questions
 
 Please direct any comments or questions regarding AMG’s Privacy Policy to Alpha Media Group, Privacy Policy, 415 Madison Ave, 3rd floor, New York, NY 10017.
