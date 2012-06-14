@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigclick.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209053443id_/http%3A//ecigclick.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigclick.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614133214id_/http%3A//ecigclick.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
