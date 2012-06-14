@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116074144id_/http%3A//www.gameim.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameim.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614100507id_/http%3A//www.gameim.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# WOW Gold for Sale, Buy WOW Gold & Cheap Dofus Kamas With Big Discount
+# GW2 Gold Cheap Sale, Buy Safe SWTOR Credits,RS Gold
 
 [Home](https://web.archive.org/) » Privacy Policy
 
