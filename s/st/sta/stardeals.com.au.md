@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the stardeals.com.au privacy policy that was archived on 2011-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110810062235id_/http%3A//www.stardeals.com.au/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardeals.com.au privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614093808id_/http%3A//www.groupon.com.au/data_privacy) for the most accurate reproduction.*
 
-# Up to 70% discount on restaurants, spas, wellness, fitness - stardeals.com.au
+# Up to 70% discount on restaurants, spas, wellness, fitness - groupon.com.au
+
+**Privacy Policy**
 
 **We protect your personal information and data**
 
 **1\. Protecting You**  
-The Groupon Australia website www.stardeals.com.au is owned and operated by Groupon Australia Pty Ltd (t/a Groupon Australia). Groupon Australia Pty Ltd ("Groupon Australia", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
+The Groupon Australia website [www.groupon.com.au](http://www.groupon.com.au/) is owned and operated by Groupon Australia Pty Ltd (t/a Groupon Australia). Groupon Australia Pty Ltd ("Groupon Australia", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
 
 Please note that use of the Website by you is subject to this privacy policy (the "Policy") and the Website’s [terms and conditions](http://www.stardeals.com.au/terms_and_conditions) of use ("Terms and Conditions"). Where this Policy uses a word starting with a capital letter, that term will be defined in the Terms and Conditions or elsewhere in this Policy.
 
@@ -64,7 +66,7 @@ Regarding information transmitted between the Website and and/or users, while we
 If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Groupon Australia Pty Ltd then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
 
 **8\. Customer Service**  
-If you have any questions or concerns, please feel free to contact us at [support@stardeals.com.au](mailto:mailtosupport@stardeals.com.au).
+If you have any questions or concerns, or if you wish to request access to your personal information held by Groupon, please feel free to contact us at [contact.groupon.com.au](http://contact.groupon.com.au%22/).
 
 **9\. Changes to this Policy**  
 Please note that this Policy forms part of the [Terms & Conditions](http://www.stardeals.com.au/terms_and_conditions) for use of this Website and forms part of the Agreement between you and us. We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website. Depending on the nature of the change, we may announce the change: (a) on the home page of the Website, or (b) by email, if we have your email address. However, in any event, by continuing to use the Website following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your use of the Website.
