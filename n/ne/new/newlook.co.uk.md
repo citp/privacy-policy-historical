@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225192514id_/http%3A//www.newlook.com/furniture/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615005623id_/http%3A//www.newlook.com/furniture/privacy_security.jsp) for the most accurate reproduction.*
 
 # Security and Privacy | New Look
+
+Here at New Look we have recently completed a review of all the cookies on our website. We will soon be making some small changes to provide our customers with a bit more information about them. In the meantime if you have any questions you can always contact us <http://www.newlook.com/furniture/contact_us.jsp>
 
 * ### What's our privacy policy?
 
