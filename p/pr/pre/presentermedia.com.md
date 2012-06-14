@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentermedia.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224065535id_/http%3A//www.presentermedia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentermedia.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614205820id_/http%3A//www.presentermedia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Presenter Media - PowerPoint Templates, 3D Animations and Clipart
 
