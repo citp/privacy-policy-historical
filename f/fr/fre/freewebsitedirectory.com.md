@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsitedirectory.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009103848id_/http%3A//www.freewebsitedirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsitedirectory.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614223300id_/http%3A//www.freewebsitedirectory.com/privacy.html) for the most accurate reproduction.*
 
 # Free Website Directory - Privacy Policy
 
