@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crackle.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227073208id_/http%3A//www.crackle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackle.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615000927id_/http%3A//www.crackle.com/privacy.aspx) for the most accurate reproduction.*
 
 # Crackle Privacy Policy
 
 #### Opting Out Of Future Communications; Updating And Deleting Your Information
 
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy, please feel free to [contact us](https://web.archive.org/support/feedback.aspx). If you wish to exclude your personal information from our direct marketing purposes or would like to update or delete your e-mail address or other personal information that you previously submitted to us, you may do so by editing your Profile page by following the process described [here](https://web.archive.org/support/faq/#change_email). 
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy, please feel free to [contact us](https://web.archive.org/support/feedback.aspx). If you wish to exclude your personal information from our direct marketing purposes or would like to update or delete your email address or other personal information that you previously submitted to us, you may do so by editing your Profile page by following the process described [here](https://web.archive.org/support/faq/#change_email). 
 
 or by writing to us at:   
 Crackle, Inc.,   
