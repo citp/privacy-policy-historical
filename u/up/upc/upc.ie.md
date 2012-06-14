@@ -1,80 +1,73 @@
-> *The following text is extracted and transformed from the upc.ie privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113044203id_/http%3A//www.upc.ie/termsandconditions/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upc.ie privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615003954id_/http%3A//www.upc.ie/termsandconditions/privacypolicy) for the most accurate reproduction.*
 
 # UPC - Privacy Policy
 
-#### Purpose
+#### We care about your privacy
 
-This Privacy Policy/Privacy Statement applies to all customers of UPC Communications Ireland Limited and its subsidiaries (collectively, “UPC,” “we,” our,” or “us”). It also applies to any visitors to our website www.upc.ie, who may or may not be customers of UPC. The purpose of this policy/statement is to tell you how UPC obtains and uses your personal data. We want you to be confident in the knowledge that we treat your personal data with care and in accordance with our obligations under data protection legislation and privacy law. This policy/statement should be read in conjunction with our general terms and conditions and any terms and conditions that may apply for individual services that you have signed up for. 
+UPC Communications Ireland Ltd., Building P2, Eastpoint Business Park, Clontarf, Dublin 3, is committed to protecting your privacy. We want you to be confident in the knowledge that we treat your Personal Information with care and in accordance with our obligations under applicable data protection and privacy laws. This privacy policy (“Policy”) describes how we obtain and process your Personal Information when you use our products and services and when we provide you with our products and services. This Policy governs how UPC Communications Ireland Ltd. handles Personal Information you provide to us, subject to notice or consent where required by applicable law. This Policy applies to all customers of UPC Communications Ireland Ltd. and its subsidiaries. It also applies to any visitors to our websites, who may or may not be customers of UPC Communications Ireland Ltd. Please read this Policy in conjunction with our general terms and conditions and any terms and conditions that may apply to the products and services that you have signed up for. This Policy may be subject to change from time to time. Please check our websites on a regular basis for any changes made to this Policy. Our products or services may contain links to other companies’ websites and services which they offer; these companies may have privacy policies of their own. We recommend that you read the privacy policies of such third parties. We are not responsible for the privacy practices or content of any such third parties’ products or third parties’ services. 
 
-#### When do we collect your personal information?
+#### What do we mean by “Personal Information”? 
 
-We collect information about you when you:
+With the objective of setting high privacy standards, we support a wide interpretation of what constitutes Personal Information, which we define as data that relates to any natural person such as an employee or consumer, including but not limited to names, addresses, birthdates and billing records. With respect to our customers and when the context so requires, Personal Information also includes traffic data, location data, IP addresses, internet usage data and set top box usage data.
 
-  1. Sign up for our services;
-  2. Sign up for additional services, or amend your existing services;
-  3. shall be adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed;
-  4. Register for MY UPC on our website at [www.upc.ie](http://www.upc.ie/);
-  5. Respond to any enquiries that you may have regarding your services; or 
-  6. Request information in relation to new products and services.
+#### What Personal Information do we collect?
 
+Due to the nature of our services and products, we may collect the following Personal Information subject to notice or consent where relevant: 
 
-
-#### When do we process your personal information?
-
-We use your personal information in accordance with the purpose for which you provided it. This includes:
-
-  1. Setting up your account;
-  2. Communicating with you about your service;
-  3. Advising you of any changes to your service;
-  4. Administration purposes; and
-  5. Credit scoring purposes.
+  1. **Contact Information** , meaning information that allows us to identify or contact you. This information includes name, address, telephone number, e-mail address, user names and passwords, birthdates, gender, language preferences, delivery details, as well as other contact information which is collected directly from you. 
+  2. **Account Information** , meaning information you provide to us to set up our services such as bank account information, billing address, and information you provide us when you enter competitions or when you contact us inquiring about our products and services.
+  3. **Service Information** , meaning information necessary for us to provide services to you, such as the model and service number of your set top box, software version used, smartcard ID, IP/MAC address and level of the service package. 
+  4. **General Usage Information** , meaning information generated when you use our products and services, for instance, when you utilize our network to make a phone call, use the internet, use our websites, view television programs, use Video on Demand (“VOD”) or when you browse the TV menus such as a TV Guide or VOD catalogue. 
+  5. **Other Personal Information** , meaning information we may obtain, in accordance with applicable law, from publicly available sources or from credit check agencies. We may also collect Personal Information about other people when you provide us with this, for example, if you buy one of our products as a present for another person. 
 
 
 
-We may also use your personal information for:
+#### For what purposes do we use Personal Information?
 
-  1. Training purposes;
-  2. Carrying out customer research and analysis;
-  3. Providing you with information about our new products and services subject always to your marketing preferences. (Should you wish at anytime to change your marketing preferences please call 1908); and
-  4. Managing our network. 
+We collect information about you due to the nature of our services and products. It is important for us to ensure that our products and services are simple, personal and reliable. We are constantly looking for ways to improve our services and products and to match them as much as possible to your personal needs. We may therefore collect Personal Information for the following purposes, subject to notice or consent where relevant: 
+
+  1. **To provide our products and services.** We use Contact, Account and Service Information for setting up and maintaining our products and services, for our administrative processes and to administer contests and competitions. These activities include provisioning, technical support, hardware and software upgrades, billing, collection of payments and credit checking. 
+  2. **To enhance our products and services.** We may rely on General Usage Information to identify improvement areas. For instance, high VOD usage in a certain genre may lead to a broader film catalogue in this genre. We may also conduct market research to improve our existing services and develop new products according to the needs of our customers. 
+  3. **To present new products and services.** We may communicate with you about upcoming features in our products and services or promotions that might interest you. Please refer to Section “How can you opt-in and opt-out?” where we explain how you can update your marketing preferences.
+  4. **To enable the purchase of goods and services from our Commerce Partners.** From time to time, we may present you with special offers on screen or online while using our products and services enabling you to purchase goods and services from our partners, such as advertisers, promoters, application providers or app stores (all referred to herein as “Commerce Partners”). Should you decide to take advantage of such offers or engage in a transaction, we may collect and communicate your relevant Personal Information to Commerce Partners sponsoring the promotions or transactions. The information will be collected and disclosed by UPC Communications Ireland Ltd., only upon your affirmative response to such offers. In addition to fulfilling your request, Commerce Partners may also use Personal Information to send you other information in which you might be interested. The use of Personal Information by Commerce Partners will be governed by their respective privacy policies, which you should refer to in the event that you have any queries regarding how our Commerce Partners might use your Personal Information. 
+  5. **To manage our performance.** We may use Personal Information when asking for feedback in respect of the performance of our products and services, our customer care service and our maintenance and operations. Where allowed by applicable law, we may use information related to your use and access to our products and services for purposes of traffic management, customer enquiries and prevention or detection of fraud. Where allowed by applicable law, we may also monitor and record our communications with you, including e-mails and phone conversations, for training purposes, quality assurance and to record details about the products and services you order from us. 
+  6. **To meet our legal obligations.** We may be required by law to disclose Personal Information in compliance with the terms of a valid legal process or where required to do so by law enforcement agencies. These disclosures may be made without your consent and knowledge, and without notice, in compliance with the terms of a valid legal process. We reserve the right to challenge the access to Personal Information by authorities. 
+  7. **Other uses.** We may use anonymous and aggregated information to develop reports and analyses about what types of content and /or advertisements are watched or skipped, for research and for other legitimate business purposes. 
 
 
 
-#### Do we disclose your personal information to any third parties?
+#### To whom may we disclose Personal Information?
 
-We sometimes use other companies to provide services on our behalf (for example sales and marketing services), or services to us (for example credit checking services). We may need to provide your personal information to these companies in order for them to be able to provide these services. These companies are at all times subject to strict contractual instructions in relation to how they process and protect your personal information. These instructions are in accordance with a data processor’s legal obligations under Irish data protection legislation. You can therefore be assured that a data processor even if located outside the European Union will be obliged to comply with Irish data protection law when processing your information.
+UPC Communications Ireland Ltd. is committed to protecting Personal Information. For the performance of our products and services, we may disclose, in compliance with applicable law and subject to prior notice or consent where relevant, Personal Information to third parties as described below, including third parties located in countries outside the EU and Switzerland where the privacy rules differ from the rules in the EU and Switzerland. 
 
-We may be required at law to disclose your personal information to law enforcement agencies for the purpose of detection and prevention of crime and or, to third parties on foot of a court order. Any such disclosures will at all times be made in accordance with the law. 
+  1. **Entities within the Liberty Global Group.** We may share your Personal Information with any parent company, subsidiaries, or other companies under common control (collectively "Affiliates"). In such event, we will require our Affiliates to honor this Policy. 
+  2. **UPC Communications Ireland Ltd. Employees.** We limit the number of our employees who have access to your Personal Information to a select group of specially authorized employees. Access is granted to these employees for the proper performance of their duties on a need to know basis. 
+  3. **Commerce Partners.** When you elect to participate in a special offer or engage in a transaction presented by us but provided by our Commerce Partners, we may disclose Personal Information to such Commerce Partners where relevant. For more details please refer to Section “For what purposes do we use Personal Information?”.
+  4. **Purchaser of our business.** If another company acquires UPC Communications Ireland Ltd. or acquires assets of UPC Communications Ireland Ltd. that comprise or include your Personal Information, that company will possess the Personal Information collected by UPC Communications Ireland Ltd. and it will assume the rights and obligations regarding your Personal Information as described in this Policy.
+  5. **Other third parties.** Where allowed by applicable law, we may also share Personal Information with third parties we trust where the disclosure is necessary for the performance of our products and services (e.g. customer care) and with third party vendors specifically engaged by UPC Communications Ireland Ltd. to provide products or services to us, in which case we will require those parties to keep that information confidential and secure and to use it solely for the purpose of providing the specified products or services to us. Where allowed by applicable law, we may also share Personal Information with credit check agencies or debt collection agencies. There may be instances where we may be required by law to disclose Personal Information to authorities or other third parties. 
 
-#### Right of Access
 
-You have the right to request a copy of any personal information that we hold on you and to have any inaccuracies corrected. You should address any requests in writing to 
 
-Correspondence Department,  
-UPC Communications Ireland Limited,  
-Building P2,  
-East Point Business Park,  
-Clontarf,  
-Dublin 3. 
+#### How do we protect Personal Information?
 
-An administrative charge of €6.35 will apply in relation to a request for a copy of your personal information. 
+We work very hard to protect your privacy and have taken key steps in protecting it. We have formally appointed individuals who are responsible for the security of our network, supporting infrastructure and our information systems. We have implemented solutions to protect Personal Information, which consist of a variety of both technical and policy based solutions which vary depending on the applicable service or product offered or provided to you. These solutions may include, but are not limited to, password protection, encryption, firewalls, anti-virus, intrusion detection, anomaly detection and access controls for our employees. 
 
-#### Cookies
+#### How long do we keep Personal Information?
 
-A cookie is a small file which is placed on your device when you visit a website, or open an email. UPC uses cookies for a variety of reasons. These are to enable us to identify traffic to our website including pages visited, visitor numbers, traffic paths taken and to provide tailored advertising messages based on your usage of our website. The cookies do not capture any personal information about you, they simply allow us to recognise your device as one that has previously visited our website and records your usage of that website. Agents who assist UPC in preparing targeted advertising, promotions and advice on website improvements may also use the information gathered by these cookies, such use is only for the purposes described. 
+We must keep Personal Information for no longer than is necessary for us to fulfill the purposes for which the Personal Information was collected unless we are specifically required to keep your Personal Information longer by applicable law. 
 
-You have the ability to accept or decline cookies. To decline cookies you need to configure your web browser so that it does not accept cookies. You will need to refer to the specific instructions of your web browser to decline cookies. You should be aware that if you turn off cookies this may limit your online experience with us. 
+#### How can you opt-in and opt-out?
 
-We also use cookies served by Google in order to make our advertising on other websites more relevant to you. You can opt out of Google’s use of cookies by visiting [www.google.com/ads/preferences/plugin/](http://www.google.com/ads/preferences/plugin/) and clicking on the button marked “Download the advertising cookie opt-out plugin”.
+We are a triple play company who provides telephone, broadband and TV services. We may contact you to tell you about any new telephone, broadband or TV products or services, or bundle of services that might be of interest to you.In the case of postal and telephone marketing we collect your marketing preferences on an opt-out basis when we set up your account. If you do not opt-out of receiving postal or telephone marketing from us we may write to you, or call you about any products or services which we believe might be of interest to you. You can change your postal or telephone marketing preferences at any time by calling our Customer Service free of charge on 1908 or through the ‘Contact Us’ page on our website. In the case of electronic marketing (which includes SMS and email) we will collect your marketing preferences for similar products or services on an opt-out basis. You should note that as we are a triple play company the term “similar” means any of or a combination of telephone, broadband or TV products and/or services. If you do not opt-out of electronic marketing we may inform you about our products and services by SMS or email. You will be given an opportunity to opt out each time we send a marketing communication to you electronically. Your marketing consent to electronic marketing will remain valid for a further 12 months after receipt of an email or SMS from us unless you opt-out of receiving electronic marketing communications from us. You can of course also contact us at any time by calling our Customer Service free of charge on 1908 or contact us through the ‘Contact Us’ page on our website. to update your electronic marketing preferences. 
 
-You should be aware that third party websites will have their own privacy policy/statement. UPC is not responsible for and does not accept any liability for these websites. We suggest that you review the privacy policy/statement of any third party website that you visit. 
+#### What about cookies?
 
-#### How long do we keep your personal information for and is it secure?
+"Cookies" are small pieces of information stored by your internet browser that collect data such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed and other click stream data. We use cookies to help us tailor our websites to your needs, to deliver a better, more personalized service and to remember certain choices you’ve made so you don’t have to re-enter them. Cookies also enable us to identify traffic to our website including pages visited, visitor numbers and traffic paths taken. We may use advertising network providers to help present advertisements or other content on this website and other websites that display UPC Ireland advertisements. Advertising network providers use cookies, web beacons, or similar technologies on your computer or mobile or other device to serve you advertisement or content tailored to interests you have shown by building a profile of your internet browsing on this website and other websites you have visited. The use of cookies, web beacons, or similar technologies by our advertising network providers is subject to their own privacy policies, not UPC Communications Ireland Ltd Privacy Policy. You can manually disable and enable cookies on your computer or mobile or other device. Most internet browsers provide the ability to accept or decline specific cookies or types of cookies, and to refuse or delete all cookies. The process will depend on your browser. You should refer to the instructions of your specific web browser to use this functionality. Restricting or blocking cookies may, however, have a negative impact upon the usability of many websites. 
 
-We only keep your personal information for as long as is necessary for the purpose for which the information was collected. We may be required by law in certain circumstances to keep your information for a longer period. Any longer period that may apply will be in accordance with our legal obligations.
+#### What are your rights? 
 
-We consider the safeguarding of your personal information as paramount. We have in place extensive technical and organisational security measures to ensure that this is the case. You should however be aware that communications on the internet such as email are not secure unless encrypted and we cannot accept responsibility for any unauthorised access or loss of information that is beyond our control. 
+You have a right to have incomplete, incorrect, inappropriate or outdated Personal Information deleted or updated. If you believe any of the details we hold about you are incomplete, incorrect, inappropriate or outdated, let us know and we will make the necessary corrections or deletions within the applicable legal time frames. You have a right to know what Personal Information we hold about you. Where permitted by applicable law we may apply a small charge that will cover the cost of the administration involved in providing such information to you. You also have a right to request that we stop processing your Personal Information for direct marketing purposes. If you no longer want to receive direct marketing information or telephone sales calls from us, please contact our Customer Service. You can contact Customer Service through the ‘Contact Us’ page on our website. Please be aware that when you opt-out or request us to stop processing your Personal Information there may be instances where we may not be able to continue to provide you with our products or services. 
 
-#### General
+#### How can you contact us about this Policy?
 
-We reserve the right to change this Privacy Policy at any stage and will post our amended Privacy Policy on our website at [www.upc.ie](http://www.upc.ie/)
+If you have any comments or queries concerning this Policy or you wish to request access to the Personal Information that we hold on you then please contact our Privacy Officer at [privacy@upc.ie](mailto:privacy@upc.ie)
