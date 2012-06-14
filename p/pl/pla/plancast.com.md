@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plancast.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202225414id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plancast.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614182007id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on Plancast
 
