@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205111641id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614020522id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
 
 # Preloved | Sell Used for Free Online in UK and Ireland
 
-[Home](http://www.preloved.co.uk/) > Preloved Privacy Policy 
+[Home](http://www.preloved.co.uk/) > Privacy And Cookies Policy 
 
 We take your privacy very seriously and are keen to ensure that you do not receive any unwelcome messages or spam as a result of your joining Preloved.
 
@@ -16,73 +16,119 @@ Most importantly:
 
 The policy below explains in detail how we manage your personal information:
 
-## How we collect personal information
+Moo Limited trading as "Preloved" and "Preloved Classifieds" ("we" "our" "us") are committed to protecting and respecting your privacy.
 
-  * You may browse the site without telling us who you are or revealing any personal information about yourself.
-  * In order to perform certain activities on Preloved, you must first become a member. During registration, you are required to supply your full name, a screen name (which can be just a first name or a nickname), contact information (email address and or telephone number), and your address.
-  * You may also choose to provide additional personal information (for example your occupation and your hobbies) in your Public Profile. This is entirely optional and it is down to you to decide how much information you wish to make public and in what detail.
-  * If you make a credit card payment to Preloved, you do so via a third party payment processing company. In this case, Preloved may store your full address and the results of any card verification checks. Preloved does not store credit card numbers.
+This policy together with our terms of use (<http://www.preloved.co.uk/terms>) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Moo Limited of 483 Green Lanes, London N13 4BS, registration number PZ8708167.
 
+## Information We May Collect From You
 
-## Disclosing your personal information
+We may collect and process the following data about you:
 
-  * Preloved may publish a member's screen name, town, county and country on the site. Other details of the address (including the postcode) are not published on the site.
-  * When becoming a member of Preloved, you are given the opportunity to specify whether you wish to be contacted via email or telephone in response to any adverts you publish. You must choose at least one of these methods of contact. If you choose to be contacted by telephone, your telephone number is published to other members. If you choose to be contacted by email, your email address is not published but we provide a form from which other members can send you a message. These settings can be changed by visiting the members area at <http://www.preloved.co.uk/members/>
-  * Preloved may publish a member's Public Profile on the site. You can control the information contained in this profile at <http://www.preloved.co.uk/members/>
-  * Preloved will not sell, share or rent your name, email address, or any other personal details to any other third party for marketing purposes.
-  * Preloved may at its discretion take steps to verify with third parties the accuracy of any personal information you provide.
-  * Preloved may at its discretion disclose personal information that is required by the police (or other organisations with a law enforcement role) for the prevention and detection of crime or the apprehension or prosecution of offenders, as provided for under Section 29 of the Data Protection Act.
-  * Preloved may at its discretion disclose personal information to intellectual property rights holders for the investigation of fraud, intellectual property infringement or other unlawful activity connected to their property, as provided for under Section 35 of the Data Protection Act.
-  * Preloved may disclose specific personal information where it is required to by law, and where necessary for the purpose of or in connection with any legal proceedings, as provided for under Section 35 of the Data Protection Act.
-  * We may share aggregated demographic information with our partners, advertisers or other third parties. This will not contain information that can identify any individual person.
+  * Information that you provide by filling in forms on our sites preloved.com and preloved.co.uk (Preloved). This includes information provided at the time of registering to use Preloved, subscribing to any of our services, posting material, sending messages or requesting further services. We may also ask you for information when you report an issue or concern in connection with your use of Preloved or we have or receive a complaint or query about you. 
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out via Preloved.
+  * Details of your visits to Preloved including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+  * Details of the messages you send and receive using our messaging service including without limitation, when you sent or received a message and the contents of that message. We may (but are not obliged to) view the contents of any message whether or not you have viewed its contents. Messages are not private and are not confidential.
 
 
 
-## Newsletters and other email
+## IP Addresses
 
-  * We send all new members a welcome message via email. We also send members emails relating to the status of their account (for example when an advert needs to be renewed or their membership is about to expire).
-  * At the time of joining, members are offered the opportunity to receive an email newsletter. This newsletter is published from time to time and contains news about the site, hints and tips, special offers, and other information that we feel would be of interest to our members. Members may at any time choose to no longer receive this information by visiting the members area at <http://www.preloved.co.uk/members/>, or by following the instructions contained in each email they receive.
-  * Members may choose to subscribe to certain areas of the site to receive new content via email (for example to receive new adverts in a certain category). Members may at any time choose to no longer receive this information by visiting the members area at <http://www.preloved.co.uk/members/>, or by following the instructions contained in each email they receive.
-
-
-
-## Tell a friend
-
-  * In some areas of the web site, Preloved offers tools to allow users to send information to a friend. Preloved will send the friend a one-time email inviting them to visit the site. Preloved does not store any information about the sender, the recipient, nor details of the message sent.
-
-
-
-## Viewing, changing or removing your personal information
-
-  * Members may view all information that Preloved stores about them as an individual, by visiting the members area at <http://www.preloved.co.uk/members/>
-  * Here, they may also correct or update their personal information and opt out of receiving future newsletters or subscriptions by email. (see 'Newsletters and other email' above).
-  * Members may request that all personal information for them be removed by contacting us at <http://www.preloved.co.uk/contact/>. We will close your account and remove all personal information from the public site immediately. However, where there has been activity on an account within the preceeding 90 days, we reserve the right to retain records of your personal information for a further 90 days and may disclose this information in order to comply with any legal obligations and to prevent fraud, as outlined above.
-
-
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
 ## Cookies
 
-  * A cookie is a small piece of text placed by us on the user's computer. They enable us to recognise visitors as they move from page to page. They enable us to personalise the visitor experience and to avoid the need to repeatedly log in. Cookies set by Preloved do not contain any personal information about you.
-  * Some of our business partners (for example, advertisers) use cookies and these may be stored on your computer as a result of a visit to Preloved or other sites on the Internet. Advertisers may use these cookies to display adverts based on your prior visits to Preloved and/or other sites. We have no access to or control over these cookies. You can opt out of cookies by third party advertisers by visiting the [Advertising Initiative Opt Out Page](http://www.networkadvertising.org/managing/opt_out.asp).
-  * It may well be possible to view some pages within Preloved with cookies disabled by your browser although this is not guaranteed nor recommended.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. 
+
+Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+
+We use cookies for the following purposes:
+
+  * Recognise you as you move from one page to the next during a browsing session. This enables us, for example, to remember that you placed a particular item into a shopping basket.
+  * Recognise that you are logged in.
+  * Store information about your preferences, and so allow us to customise our site and to provide you with offers that are targeted at your individual interests.
+  * Recognise you when you return to our site at a later date.
+  * Estimate our audience size and analyse general usage patterns.
 
 
 
-## Links to Other Sites
+Please note that our advertisers may also use cookies, over which we have no control. 
 
-  * This web site contains links to other sites. Preloved is not responsible for the privacy practices of other such sites.
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
+
+## Where We Store Your Personal Data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Uses Made of the Information
+
+We use information held about you in the following ways:
+
+  * To ensure that content from Preloved is presented in the most effective manner for you and for your computer. 
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service. 
 
 
 
-## About Preloved
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-Preloved is a trading name of Moo Ltd. Moo Ltd is registered under the Data Protection Act, registration number PZ8708167. The company may be contacted at:
+## Disclosure of Your Information
 
-Moo Ltd   
-483 Green Lanes   
-London   
-N13 4BS   
-England
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-We may amend this Privacy Policy at any time by posting the amended terms on the site. All amended terms shall take effect automatically 30 days after they are initially posted on the site for existing members and immediately for all other visitors. This policy was last revised 5th November 2010.
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Moo Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation. 
+  * In order to enforce or apply our terms of use (<http://www.preloved.co.uk/terms>) and other agreements. 
+  * In order to protect the rights, property, or safety of us, our customers, or others. This includes: 
+    * exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; 
+    * passing on your personal information to police and other governmental and regulatory bodies (such as Trading Standards); 
+    * passing on your information to other Preloved users who confirm to us that they intend to issue proceedings or take legal action against you; 
+    * releasing your user name and a general warning statement to other users where we have received a complaint or a number of complaints about you or we have reason to suspect that you have breached our terms (<http://www.preloved.co.uk/terms>)
+
+
+
+## Data Retention
+
+We have no obligation to you to retain your data. However, we (or our internet service providers) where required to do so by the Data Retention (EC Directive) Regulations 2009 (or similar, replacement or equivalent legislation) may retain in respect of each communication which you send using our Service for a period of 12 months from it being sent: 
+
+  * data necessary to trace and identify the source of the communication which includes user ID information and the name and address of the subscriber or registered user to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of the communication; 
+  * data necessary to identify the destination of a communication which includes the name and address of the subscriber or registered user and the user ID of the intended recipient of the communication; 
+  * data necessary to identify the date, time and duration of a communication;
+  * the date and time of the log-in to and log-off from the internet e-mail or internet telephony service, based on a specified time zone; 
+  * data necessary to identify the type of communication; 
+  * information in relation to the internet service used; 
+  * Data necessary to identify users' communication equipment (or what purports to be their equipment) such as the digital subscriber line (DSL) or other end point of the originator of the communication.
+
+
+
+## Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via <http://www.preloved.co.uk/contact>.
+
+Preloved may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## Access to Information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## Changes to Our Privacy Policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page you should check this policy from time to time for changes.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <http://www.preloved.co.uk/contact>. 
+
+This policy was last revised 1st January 2012.
