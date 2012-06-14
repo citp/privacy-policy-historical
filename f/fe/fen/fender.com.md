@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206181343id_/http%3A//www.fender.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614034419id_/http%3A//www.fender.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Fender® Privacy Policy
 
@@ -8,8 +8,8 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 
 **Fender Musical Instruments Corporation  
 Attn: Legal** **  
-** 8860 E. Chaparral Road, Suite 100  
-Scottsdale, AZ 85250
+** 17600 N. Perimeter Drive, Suite 100  
+Scottsdale, AZ 85255
 
 **PRIVACY POLICY**
 
@@ -89,8 +89,7 @@ Your privacy is important to Fender. If you have any questions or concerns regar
 
 Attn:  Legal
 
-8860 E. Chaparral Road
+17600 N. Perimeter Drive  
+Suite 100  
+Scottsdale, AZ 85255  
 
-Suite 100
-
-Scottsdale, AZ 85250
