@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212193748id_/http%3A//www.pokerheaven.com/siteinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614022854id_/http%3A//www.pokerheaven.com/siteinfo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy at Poker Heaven
 
