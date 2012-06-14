@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coomeet.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022121045id_/http%3A//coomeet.com/policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coomeet.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614235038id_/http%3A//coomeet.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Fast Video Dating
 
@@ -56,15 +56,20 @@ d) to protect the Company's and Application users' or third parties' interests i
 6.1. Application users have the right to change one's personal information at any time.  
 6.2. Application users have the right to change or remove one's video and photo content at any time.
 
-## 7\. Protection of personal user information
+## 7\. The right to unsubscribe from Application notifications
 
-7.1. The Company takes all necessary measures to protect the personal information of Application users. However, the company cannot provide the security of those devices that users use to connect to the Internet (PC's, mobile devices, etc.) and the information stored on these devices (passwords, account information, etc.).  
-7.2. The Company strongly recommends that Application users ensure the safety of the devices they use to connect to the Internet and securely store passwords and other information about their accounts.  
-7.3. You acknowledge and agree that you are personally responsible for:  
-7.3.1. The security of the device you use to connect to the Internet.  
-7.3.2. The secure storage of your passwords and account information.  
-7.4. You acknowledge and agree that neither the Company nor the Application users, nor any other third party shall be liable for the losses incurred by you because of your negligent attitude to the safety of the device you use to connect to the Internet, or because you have disclosed/entrusted the information about your password or account to other persons or stored it improperly.
+7.1. Application users have the right to unsubscribe from notifications they receive by e-mail (hereinafter reffered to as Newsletter) at any time.  
+7.2. Even after you unsubscribe, the company may send you service or legal notifications (hereinafter reffered to as Required information), including but not limited to Application account password reminder e-mails, service changes notifications, as well as Application User agreement or Policy changes notifications, etc.
 
-## 8\. Change of Privacy Policy
+## 8\. Protection of personal user information
 
-8.1. The Company reserves the right to make changes to this Policy at any time without notice. The fact that you continue to use the Application will be deemed as your immediate acceptance of such changes. The changes are effective upon posting the latest version of this Policy at <http://123fvd.com/en/privacypolicy/>
+8.1. The Company takes all necessary measures to protect the personal information of Application users. However, the company cannot provide the security of those devices that users use to connect to the Internet (PC's, mobile devices, etc.) and the information stored on these devices (passwords, account information, etc.).  
+8.2. The Company strongly recommends that Application users ensure the safety of the devices they use to connect to the Internet and securely store passwords and other information about their accounts.  
+8.3. You acknowledge and agree that you are personally responsible for:  
+8.3.1. The security of the device you use to connect to the Internet.  
+8.3.2. The secure storage of your passwords and account information.  
+8.4. You acknowledge and agree that neither the Company nor the Application users, nor any other third party shall be liable for the losses incurred by you because of your negligent attitude to the safety of the device you use to connect to the Internet, or because you have disclosed/entrusted the information about your password or account to other persons or stored it improperly.
+
+## 9\. Change of Privacy Policy
+
+9.1. The Company reserves the right to make changes to this Policy at any time without notice. The fact that you continue to use the Application will be deemed as your immediate acceptance of such changes. The changes are effective upon posting the latest version of this Policy at <http://123fvd.com/en/privacypolicy/>.
