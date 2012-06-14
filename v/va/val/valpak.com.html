@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the valpak.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231154312id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valpak.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614195104id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class=" webkit chrome linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:nitro="http://www.bunchball.com/nitro" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class=" webkit chrome linux js"><head>
 <meta http-equiv="PRAGMA" content="NO-CACHE"> 
 <meta http-equiv="Expires" content="-1">
 
@@ -16,17 +16,19 @@
 
 
 
-<script type="text/javascript">
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var g_page = "privacyPolicy";
 var g_context = '/coupons';
 var g_ajaxErrors = false;
 var g_content, g_lastBtn, g_lastBtnText = '';
 var g_mobileNum, g_phoneNum = 0;
 var g_phonePattern = /^(\d{10})$/;
-var g_Lat = 9999;
-var g_Lng = 9999;
-var g_radius = 10;
-var g_searchId = 0;
+var g_Lat = 40.296944;
+var g_Lng = -111.693889;
+var g_radius = 25;
+var g_searchId = 86506424;
 var g_omniPage = 'privacyPolicy';
 var g_visit = '';
 var g_isMobile = false;
@@ -84,7 +86,9 @@ var g_CONTENT_PRINT_LIST  	= "61";
 	
 	
 	
-	Free Coupons, Food Coupons and Restaurant Coupons Online - Valpak.com
+	
+	
+	Free Printable Coupons, Local Deals, and Online Promo Codes - Valpak.com
 
 </title>
 
@@ -97,7 +101,8 @@ var g_CONTENT_PRINT_LIST  	= "61";
 	
 	
 	
-		<meta name="Description" content="Print free coupons, restaurant coupons, grocery coupons, auto coupons and more on Valpak.com. Valpak is your source for online coupons.">
+	
+		<meta name="Description" content="Free, printable coupons for food and restaurants, grocery, and more on Valpak.com. Find local deals and get your online coupon or promo code for more discounts.">
 	
 
 
@@ -111,7 +116,11 @@ var g_CONTENT_PRINT_LIST  	= "61";
 
 
 
+
+
 <link rel="stylesheet" type="text/css" href="/8/d/css/printSite.css" id="printCSS" media="print">
+
+
 
 <script type="text/javascript">
 	var addthis_config = {"data_track_clickback":true};
@@ -131,15 +140,18 @@ var g_CONTENT_PRINT_LIST  	= "61";
 <script type="text/javascript" src="/8/d/js/jquery.numeric.js"></script>
 <script type="text/javascript" src="/8/d/js/jquery.textoverflow.js"></script>
 <script type="text/javascript" src="/8/common/common.js"></script>
+<script type="text/javascript" src="/8/common/jquery.qrcode.min.js"></script>
 <script type="text/javascript" src="/8/d/js/site.js"></script>
 <script type="text/javascript" src="/8/d/js/vp_log.js"></script>
 <script type="text/javascript" src="/8/d/js/validation.js"></script>
 <script type="text/javascript" src="/8/d/js/modal.js"></script>
+
+
 <!--[if IE 7]>
 <link type="text/css" rel="stylesheet" href="/8/d/css/ie7.css"/>
 <![endif]-->
 
-<!--[if IE 8]>
+<!--[if gte IE 8]>
 <link type="text/css" rel="stylesheet" href="/8/d/css/ie8.css"/>
 <![endif]-->
 </head>
@@ -150,18 +162,29 @@ var g_CONTENT_PRINT_LIST  	= "61";
     
 
 
+
 <div class="header">
 	<div class="logo">
-		<a href="/coupons/" onclick="s_objectID=&quot;https://web.archive.org/coupons/_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/8/d/img/logo.png" alt=""></a>
+		<a href="/coupons/savings/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/all/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/8/d/img/valpak-logo.png" alt="Valpak Logo"></a>
 	</div>
 
 	<div class="topbox">	
 		<div class="printlistBtn">
 		
+			<a id="print-coupon" class="disabled" title="Your print list is empty" href="javascript:vp_showPrintList()" onclick="s_objectID=&quot;javascript:vp_showPrintList()_1&quot;;return this.s_oc?this.s_oc(e):true"><span>(<span class="jq-PL">0</span>)</span></a>
+		
 		</div>
         
 
 		<div class="search">
+		
+			<form class="searchform" action="/coupons/query" method="get" onsubmit="return vp_validateKeywords()">
+				<label>Search:</label>
+				<input type="text" id="keywords" name="keywords" class="searchterms input240" value="Company, product or service">
+                <input type="hidden" name="geo" value="Orem, UT">
+                <input type="submit" class="gobtn" value="go">
+			</form>
+			<div id="keywordsError" class="error"></div>
 		
 		</div>
 	</div>
@@ -173,7 +196,7 @@ var g_CONTENT_PRINT_LIST  	= "61";
 			
 				
 				
-				Not Me?
+				Not You?
 			
 			</a></li>
 			<li>
@@ -187,7 +210,7 @@ var g_CONTENT_PRINT_LIST  	= "61";
 			<li class="last"><a class="icon-sprite icon-help" href="javascript:var saveOmniPageName = s.pageName;vp_omniLogPage('general:help', {events:'event24'});s.pageName = saveOmniPageName;modal_content('help',800);;" onclick="s_objectID=&quot;javascript:var saveOmniPageName = s.pageName;vp_omniLogPage('general:help', {events:'event24'});s_1&quot;;return this.s_oc?this.s_oc(e):true">Help</a></li>
 		</ul>
 	</div>
-	<div id="visitorLinks" class="topnav" style="margin-top:5px">
+	<div id="visitorLinks" class="topnav">
 		<ul>
 			
 			<li>
@@ -198,7 +221,7 @@ var g_CONTENT_PRINT_LIST  	= "61";
 				
 			
 			</li>
-			<li style="padding-right:0">
+			<li>
 			
 				
 				
@@ -206,7 +229,7 @@ var g_CONTENT_PRINT_LIST  	= "61";
 				
 			
 			</li>
-			
+			<li class="last"><a class="icon-sprite icon-help" href="javascript:var saveOmniPageName = s.pageName;vp_omniLogPage('general:help', {events:'event24'});s.pageName = saveOmniPageName;modal_content('help',800);;" onclick="s_objectID=&quot;javascript:var saveOmniPageName = s.pageName;vp_omniLogPage('general:help', {events:'event24'});s_2&quot;;return this.s_oc?this.s_oc(e):true">Help</a></li>
 		</ul>
 	</div>
 	<div class="clearall"></div>
@@ -238,8 +261,16 @@ $(document).ready(function() {
 		   $(".logo img").attr({src:'/8/d/img/logoOn.png'});
 		},
 		function(){
-		   $(".logo img").attr({src:'/8/d/img/logo.png'});
-	});	
+		   $(".logo img").attr({src:'/8/d/img/valpak-logo.png'});
+	});
+	
+	// Tooltips
+	$('a[rel^="tooltip1"]').hover(function() {
+		vp_tooltip(this,'on',1);
+	},
+	function() {
+		vp_tooltip(this,'off',1);
+	});
 });
 </script>
     
@@ -259,28 +290,28 @@ $(document).ready(function() {
 	<div class="local">
 		<ul>
 			<!-- All Coupons -->
-            <li class="ui-state-disabled">
+            <li class="allcoupons">
             
             	
-                    <a href="javascript:;" onclick="s_objectID=&quot;javascript:;_1&quot;;return this.s_oc?this.s_oc(e):true">
-                        <span></span><span style="float:left">Local Savings</span>
-                    </a>
-                
             	
+                
+                	<a href="/coupons/savings/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/all/Orem/UT_2&quot;;return this.s_oc?this.s_oc(e):true">
+                        <span class="home-icon"></span><span style="float:left">Local Savings</span>
+                    </a>
                 
 			
 				<div class="megamenu" style="display:none">
 					<div class="menucouponall">
-						<a href="/coupons/savings/all/" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/all/_1&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(0)</span></a>
+						<a href="/coupons/savings/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/all/Orem/UT_3&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(167)</span></a>
 					</div>
 					<div class="menublock">
 						<div class="menugroup first">
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Restaurants (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Restaurants/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Restaurants/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Restaurants <span>(26)</span></a>
                                 
                             
                             <div class="catdesc">Local savings for food &amp; drinks at restaurants, pizza offers and more.</div>
@@ -291,9 +322,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Home &amp; Office (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Home-and-Office/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Home-and-Office/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Home &amp; Office <span>(25)</span></a>
                                 
                             
                             <div class="catdesc">Home &amp; Office savings and discounts for local kitchen &amp; bath remodeling contractors, handyman, plumbing &amp; lawn services.</div>
@@ -304,9 +335,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Services (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Services/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Services/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Services <span>(23)</span></a>
                                 
                             
                             <div class="catdesc">Save money on professional services including tax preparation, vet services &amp; grooming for your dog or cat, home security monitoring &amp; daycare.</div>
@@ -321,9 +352,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Automotive (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Automotive/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Automotive/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Automotive <span>(23)</span></a>
                                 
                             
                             <div class="catdesc">Save money on your next oil change, car wash or auto repair services.</div>
@@ -334,9 +365,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Entertainment &amp; Travel (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Entertainment-and-Travel/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Entertainment-and-Travel/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Entertainment &amp; Travel <span>(11)</span></a>
                                 
                             
                             <div class="catdesc">Print Travel &amp; Entertainment savings for discount concert, event &amp; sports tickets and savings on airport parking &amp; shuttle service.</div>
@@ -347,9 +378,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Personal Care (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Personal-Care/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Personal-Care/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Personal Care <span>(3)</span></a>
                                 
                             
                             <div class="catdesc">Save money on haircuts, tanning salons, nail salons &amp; other fitness, beauty &amp; weight loss services.</div>
@@ -364,9 +395,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">General (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/General/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/General/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">General <span>(3)</span></a>
                                 
                             
                             <div class="catdesc">Savings for local services including dry cleaning discounts, carpet cleaning, maid services &amp; more.</div>
@@ -377,9 +408,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Health (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Health/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Health/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Health <span>(44)</span></a>
                                 
                             
                             <div class="catdesc">Save on medical expenses for dental care, health care, medical weight loss services, eye exams, and more.</div>
@@ -390,9 +421,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Shops (0)</span>
                                 
                                 
+                                    <a href="/coupons/savings/Shops/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/savings/Shops/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Shops <span>(9)</span></a>
                                 
                             
                             <div class="catdesc">Print savings for department store savings and discounts on clothing, furniture, sporting goods, shoes, &amp; more.</div>
@@ -404,15 +435,15 @@ $(document).ready(function() {
 				</div>
 			</li>
             <!-- Local Coupons -->
-			<li class="ui-state-disabled">
+			<li class="allcoupons">
             
             	
-                    <a href="javascript:;" onclick="s_objectID=&quot;javascript:;_2&quot;;return this.s_oc?this.s_oc(e):true">
-                        <span class="smitem">Local Coupons</span>
-					
-                    </a>
-                
             	
+                
+                	<a href="/coupons/local-coupons/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/all/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">
+                        <span class="smitem">Local Coupons</span>
+                        <span class="count">(160)</span>
+                    </a>
                 
 			
                 <div class="localcouponsmenu" style="display:none">
@@ -421,7 +452,7 @@ $(document).ready(function() {
                         <div class="local-details">
                             <h3>Local Coupons</h3>
                             <p style="margin-top:2px">Print these coupons anytime for great savings for you and your family.</p>
-                            <a href="/coupons/local-coupons/all/" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/all/_1&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(0)</span></a>
+                            <a href="/coupons/local-coupons/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/all/Orem/UT_2&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(160)</span></a>
                         </div>
                     </div>
                     <div class="menublock">
@@ -429,9 +460,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Restaurants (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Restaurants/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Restaurants/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Restaurants <span>(25)</span></a>
                                 
                             
                             <div class="catdesc">Save money with local restaurant coupons, pizza coupons &amp; discounts.</div>
@@ -442,9 +473,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Home &amp; Office (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Home-and-Office/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Home-and-Office/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Home &amp; Office <span>(24)</span></a>
                                 
                             
                             <div class="catdesc">Save with Home &amp; Office coupons and get discounts for local kitchen &amp; bath remodeling contractors &amp; supplies.</div>
@@ -455,9 +486,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Services (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Services/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Services/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Services <span>(21)</span></a>
                                 
                             
                             <div class="catdesc">Save money on professional services including tax preparation, vet services &amp; grooming for your dog or cat, home security monitoring &amp; daycare.</div>
@@ -472,9 +503,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Automotive (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Automotive/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Automotive/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Automotive <span>(23)</span></a>
                                 
                             
                             <div class="catdesc">Print oil change coupons, car wash coupons &amp; save on auto repair services.</div>
@@ -485,9 +516,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Entertainment &amp; Travel (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Entertainment-and-Travel/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Entertainment-and-Travel/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Entertainment &amp; Travel <span>(11)</span></a>
                                 
                             
                             <div class="catdesc">Print Travel &amp; Entertainment coupons for discount concert, event &amp; sports tickets &amp; savings on airport parking &amp; shuttle service.</div>
@@ -498,13 +529,14 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Personal Care (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Personal-Care/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Personal-Care/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Personal Care <span>(3)</span></a>
                                 
                             
                             <div class="catdesc">Save money on haircuts, tanning salons, nail salons &amp; other fitness, beauty &amp; weight loss services.</div>
                             </div>
+
                             
                         </div>
                         <div class="clearall"></div>
@@ -515,9 +547,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">General (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/General/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/General/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">General <span>(3)</span></a>
                                 
                             
                             <div class="catdesc">Save on local services &amp; print dry cleaning coupons, carpet cleaning coupons &amp; more.</div>
@@ -528,9 +560,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Health (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Health/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Health/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Health <span>(43)</span></a>
                                 
                             
                             <div class="catdesc">Save on medical expenses for dental care, health care, medical weight loss services, eye exams, and more.</div>
@@ -541,9 +573,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Shops (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-coupons/Shops/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-coupons/Shops/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Shops <span>(7)</span></a>
                                 
                             
                             <div class="catdesc">Print coupons for department store savings and discounts on clothing, furniture, sporting goods, shoes, &amp; more.</div>
@@ -555,15 +587,15 @@ $(document).ready(function() {
 				</div>
 			</li>
             <!-- Local Deals -->
-            <li class="ui-state-disabled">
+            <li class="allcoupons">
             
             	
-                    <a href="javascript:;" onclick="s_objectID=&quot;javascript:;_3&quot;;return this.s_oc?this.s_oc(e):true">
+                
+                
+                	<a href="/coupons/local-deals/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/all/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">
                         <span class="smitem">Local Deals</span>
-					
+                    	<span class="count">(7)</span>
                     </a>
-                
-                
                 
 			
                 <div class="localdealsmenu" style="display:none">
@@ -573,7 +605,7 @@ $(document).ready(function() {
                         <div class="local-details">
                             <h3>Local Deals</h3>
                             <p style="margin-top:2px">Purchase deals direct from Valpak for fantastic savings!</p>
-                            <a href="/coupons/local-deals/all/" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/all/_1&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(0)</span></a>
+                            <a href="/coupons/local-deals/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/all/Orem/UT_2&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(7)</span></a>
                         </div>
                     </div>
                     <div class="menublock">
@@ -581,9 +613,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Restaurants (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-deals/Restaurants/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/Restaurants/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Restaurants <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Save money with new restaurant deals and coupons with deep discounts for food &amp; drinks at local restaurants, pizza deals &amp; more.</div>
@@ -594,9 +626,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Home &amp; Office (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-deals/Home-and-Office/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/Home-and-Office/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Home &amp; Office <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Save up to 90% on office &amp; home projects with deals for lawn &amp; landscaping services, air conditioning, plumbing &amp; handyman  service or building &amp; contractor supplies.</div>
@@ -607,9 +639,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Services (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-deals/Services/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/Services/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Services <span>(2)</span></a>
                                 
                             
                             <div class="catdesc">Local deals for professional services including tax preparation, veterinary services, pet grooming, home security systems, childcare programs &amp; more.</div>
@@ -680,9 +712,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Health (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-deals/Health/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/Health/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Health <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Save on medical expenses for general or cosmetic dental care, medical weight loss programs, prescription eyewear &amp; more.</div>
@@ -693,9 +725,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Shops (0)</span>
                                 
                                 
+                                    <a href="/coupons/local-deals/Shops/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/local-deals/Shops/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Shops <span>(2)</span></a>
                                 
                             
                             <div class="catdesc">Shopping deals &amp; discounts for clothing &amp; goods at department stores, furniture, sporting goods, shoes, &amp; more.</div>
@@ -708,29 +740,29 @@ $(document).ready(function() {
         	</li>
 			
             <!-- Groceries -->
-            <li class="ui-state-disabled">
+            <li>
             
             	
 				
-                    <a href="javascript:;" onclick="s_objectID=&quot;javascript:;_4&quot;;return this.s_oc?this.s_oc(e):true">
-                        <span class="mitem">Groceries</span>
-					
-                    </a>
-                
             	
+                
+                	<a href="/coupons/grocery-savings/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/grocery-savings/all/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">
+                        <span class="mitem" onclick="vp_logActivity(2, {scId:111});">Groceries</span>
+                    	<span class="count">(197)</span>
+                    </a>
                 
 			
             </li>
             <!-- Other Savings -->
-            <li class="ui-state-disabled">
+            <li class="allcoupons">
             
             	
-                    <a href="javascript:;" onclick="s_objectID=&quot;javascript:;_5&quot;;return this.s_oc?this.s_oc(e):true">
-                        <span class="mitem">Other Savings</span>
-					
-                    </a>
-                
             	
+                
+                	<a href="/coupons/other-savings/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/all/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">
+                        <span class="mitem">Other Savings</span>
+                    	<span class="count">(28)</span>
+                    </a>
                 
 			
             	<div class="localcouponsmenu" style="display:none">
@@ -739,7 +771,7 @@ $(document).ready(function() {
                         <div class="local-details">
                             <h3>Other Savings</h3>
                             <p style="margin-top:2px">Find online coupons anytime for great savings.</p>
-                            <a href="/coupons/other-savings/all/" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/all/_1&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(0)</span></a>
+                            <a href="/coupons/other-savings/all/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/all/Orem/UT_2&quot;;return this.s_oc?this.s_oc(e):true">In All Categories <span>(28)</span></a>
                         </div>
                     </div>
 					<div class="menublock">
@@ -760,9 +792,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Home &amp; Office (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/Home-and-Office/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/Home-and-Office/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Home &amp; Office <span>(9)</span></a>
                                 
                             
                             <div class="catdesc">Savings for your next home &amp; garden project, landscaping service, air conditioning, plumbing, handyman or even office supplies.</div>
@@ -773,9 +805,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Services (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/Services/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/Services/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Services <span>(6)</span></a>
                                 
                             
                             <div class="catdesc">Find savings for tax preparation, vet services &amp; grooming for your dog or cat, home security monitoring &amp; daycare.</div>
@@ -803,9 +835,9 @@ $(document).ready(function() {
 							<div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Entertainment &amp; Travel (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/Entertainment-and-Travel/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/Entertainment-and-Travel/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Entertainment &amp; Travel <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Travel &amp; Entertainment savings for airport parking &amp; shuttle service &amp; discount concerts, sports events &amp; more.</div>
@@ -816,9 +848,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Personal Care (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/Personal-Care/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/Personal-Care/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Personal Care <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Save money on haircuts, tanning salons, nail salons &amp; other fitness, beauty &amp; weight loss services.</div>
@@ -833,9 +865,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">General (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/General/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/General/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">General <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Local savings for dry cleaning, carpet cleaning or maid &amp; house cleaning services.</div>
@@ -846,9 +878,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Health (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/Health/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/Health/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Health <span>(1)</span></a>
                                 
                             
                             <div class="catdesc">Find savings for medical expenses, dental care, medical weight loss programs, prescription eyewear &amp; more.</div>
@@ -859,9 +891,9 @@ $(document).ready(function() {
                             <div class="grouptitle">
                             
                                 
-                                    <span class="menuOff">Shops (0)</span>
                                 
                                 
+                                    <a href="/coupons/other-savings/Shops/Orem/UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/other-savings/Shops/Orem/UT_1&quot;;return this.s_oc?this.s_oc(e):true">Shops <span>(9)</span></a>
                                 
                             
                             <div class="catdesc">Find department store savings &amp; discounts on clothing, furniture, sporting goods, shoes, &amp; more.</div>
@@ -873,15 +905,15 @@ $(document).ready(function() {
 				</div>
             </li>
 			
-			<li class="ui-state-disabled">
+			<li>
 			
             	
-                    <a href="javascript:;" onclick="s_objectID=&quot;javascript:;_6&quot;;return this.s_oc?this.s_oc(e):true">
-                        <span class="mitem">Coupon Codes</span>
-					
-                    </a>
-                
             	
+                
+                	<a href="/coupons/coupon-codes/all?geo=Orem, UT" onclick="s_objectID=&quot;https://web.archive.org/coupons/coupon-codes/all?geo=Orem,%20UT_1&quot;;return this.s_oc?this.s_oc(e):true">
+                        <span class="mitem">Coupon Codes</span>
+                    	<span class="count">(23183)</span>
+                    </a>
                 
 			
             </li>
@@ -893,22 +925,23 @@ $(document).ready(function() {
         <h2>Just For You!</h2>
         <ul>
             
+		
             <!-- Deals History -->
-            <li class="historylink profilelink" style="height:40px">
+            <li class="historylink profilelink">
                 <p class="iconbg">
 				
 					
 					
 						<a href="/coupons/signIn?history=true" onclick="s_objectID=&quot;https://web.archive.org/coupons/signIn?history=true_1&quot;;return this.s_oc?this.s_oc(e):true">
 							<span class="icon-profile icon-deal"></span>
-							<span class="value">My Deal Vouchers</span>
+							<span class="value">Your Deal Vouchers</span>
 						</a>
 					
 				
 				</p>
             </li>
             <!-- Profile -->
-            <li class="profilelink">
+            <li class="yourprofilelink profilelink">
                 <p class="iconbg">
 				
 					
@@ -929,10 +962,11 @@ $(document).ready(function() {
 					
 						
 						
+				
 					
 						
 						
-							<a href="/coupons/signIn?history=true" onclick="s_objectID=&quot;https://web.archive.org/coupons/signIn?history=true_2&quot;;return this.s_oc?this.s_oc(e):true">History</a>
+							<a href="/coupons/signIn?history=true" onclick="s_objectID=&quot;https://web.archive.org/coupons/signIn?history=true_2&quot;;return this.s_oc?this.s_oc(e):true">Your Purchases</a>
 						
 					
 					</span>
@@ -957,8 +991,8 @@ $(document).ready(function() {
 
 
 	
-		
 	
+		
 	
 
 
@@ -1074,6 +1108,9 @@ $(document).ready(function() {
 <h3>9. Comments</h3>
 
 <p>We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at <a href="mailto:customer_service@valpak.com." onclick="s_objectID=&quot;mailto:customer_service@valpak.com._3&quot;;return this.s_oc?this.s_oc(e):true">customer_service@valpak.com</a></p>
+
+
+
 		
 	
     </div>
@@ -1098,7 +1135,7 @@ $(document).ready(function() {
 			<h3>
 			<a class="ffacebook" href="/coupons/layout/omniture.jsp?omniParams={s.prop21='facebook';}&amp;pageName=redirect:facebook&amp;redirectURL=http%3A%2F%2Fwww.facebook.com%2FValpak" title="Valpak on Facebook" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27facebook%27;}&amp;pageNam_1&quot;;return this.s_oc?this.s_oc(e):true">Find us on Facebook</a>
 			&nbsp;&nbsp;&nbsp;&nbsp;
-			<a class="ftwitter" href="/coupons/layout/omniture.jsp?omniParams={s.prop21='twitter';}&amp;pageName=redirect:twitter&amp;redirectURL=http%3A%2F%2Ftwitter.com%2F%23%21%2Fvalpakcoupons" title="Valpak on Twitter" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27twitter%27;}&amp;pageName_1&quot;;return this.s_oc?this.s_oc(e):true">Follow us on Twitter</a>
+			<a class="ftwitter" href="/coupons/layout/omniture.jsp?omniParams={s.prop21='twitter';}&amp;pageName=redirect:twitter&amp;redirectURL=https%3A%2F%2Ftwitter.com%2F%23%21%2Fvalpakcoupons" title="Follow Valpak on Twitter" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27twitter%27;}&amp;pageName_1&quot;;return this.s_oc?this.s_oc(e):true">Follow us on Twitter</a>
 			</h3>
 		</div>
 		<div class="fboxes">
@@ -1106,7 +1143,7 @@ $(document).ready(function() {
 				<h4>About Valpak</h4>
 				<ul>
 					<li><a href="/coupons/layout/omniture.jsp?omniParams={s.prop21='about us';}&amp;pageName=redirect:about%20us&amp;redirectURL=http://www.coxtarget.com/" title="Learn about Valpak/Cox Target Media" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27about%20us%27;}&amp;pageN_1&quot;;return this.s_oc?this.s_oc(e):true">About Us</a></li>
-					
+					<li><a href="/coupons/all-about-coupons-infographic?vpref=Footer-InfoG" title="All About Coupons Infographic" onclick="s_objectID=&quot;https://web.archive.org/coupons/all-about-coupons-infographic?vpref=Footer-InfoG_1&quot;;return this.s_oc?this.s_oc(e):true">All About Coupons</a></li>
 					<li><a href="/coupons/layout/omniture.jsp?omniParams={s.prop21='press releases';}&amp;pageName=redirect:press%20releases&amp;redirectURL=http://www.coxtarget.com/press_releases.jsp" title="Valpak in the News" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27press%20releases%27;}_1&quot;;return this.s_oc?this.s_oc(e):true">Press Releases</a></li>
 					<li><a href="/coupons/layout/omniture.jsp?omniParams={s.prop21='valpak channel';}&amp;pageName=redirect:valpak%20channel&amp;redirectURL=http://www.youtube.com/user/CoxTargetMedia" title="Valpak Media Youtube Channel" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27valpak%20channel%27;}_1&quot;;return this.s_oc?this.s_oc(e):true">Valpak Channel</a></li>
 					<li><a href="/coupons/layout/omniture.jsp?omniParams={s.prop21='corporate overview';}&amp;pageName=redirect:corporate%20overview&amp;redirectURL=http://www.coxtarget.com/corporate/index.jsp" title="Valpak Corporate Overview" target="_blank" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27corporate%20overview%_1&quot;;return this.s_oc?this.s_oc(e):true">Corporate Overview</a></li>
@@ -1117,6 +1154,15 @@ $(document).ready(function() {
 			<div class="fbox">
 				<h4>Advertise with Us</h4>
 				<ul>
+					<li>
+					
+						
+						
+						
+							<a href="/coupons/layout/omniture.jsp?omniParams={s.prop21='vbc';}&amp;pageName=redirect:vbc&amp;redirectURL=https://www.valpakbusinesscenter.com?vpref=Footer-VBC" title="Merchant Login" target="_blank" rel="nofollow" onclick="s_objectID=&quot;https://web.archive.org/coupons/layout/omniture.jsp?omniParams={s.prop21=%27vbc%27;}&amp;pageName=red_1&quot;;return this.s_oc?this.s_oc(e):true">Merchant Login</a>
+						
+					
+					</li>
 					<li><a href="http://www.valpak.com/advertise?vpref=advertiser" title="Cox Target Media Targets Clients for Measurable Results. Learn more..." onclick="s_objectID=&quot;http://www.valpak.com/advertise?vpref=advertiser_1&quot;;return this.s_oc?this.s_oc(e):true">Advertising Information</a></li>
 					<li><a href="http://www.valpak.com/advertise/direct-marketing-services.jsp?vpref=advertiser" title="Direct Marketing Delivers Targeted Clients &amp; Measurable Results. Learn more..." onclick="s_objectID=&quot;http://www.valpak.com/advertise/direct-marketing-services.jsp?vpref=advertiser_1&quot;;return this.s_oc?this.s_oc(e):true">Why Direct Marketing?</a></li>
 					<li><a href="http://www.valpak.com/advertise/direct-marketing-services/FAQS.jsp?vpref=advertiser" title="Advertising FAQ" onclick="s_objectID=&quot;http://www.valpak.com/advertise/direct-marketing-services/FAQS.jsp?vpref=advertiser_1&quot;;return this.s_oc?this.s_oc(e):true">Advertising FAQ</a></li>	
@@ -1152,10 +1198,10 @@ $(document).ready(function() {
 			</div>
 			<div class="fbox flast">
 				<h4>Get the Valpak<br> mobile<br> app!</h4>
-				<a class="imgright" href="/coupons/show/mobileApps" title="Get the Valpak mobile app!" onclick="s_objectID=&quot;https://web.archive.org/coupons/show/mobileApps_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/8/d/img/phone.png" alt="Valpak Mobile Apps"></a>
+				<a class="imgright" href="/coupons/show/mobileApps" title="Get the Valpak mobile app!" onclick="s_objectID=&quot;https://web.archive.org/coupons/show/mobileApps_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/8/d/img/small-phone-valpak-app.png" alt="Small mobile phone displaying Valpak app"></a>
 			</div>
 		</div>
-		<p>Copyright © 19<span>95-Sat Dec 31 10:43:11 EST 2011 Valpak Direct Marketing Systems, Inc. All Rights Reserved.</span></p>
+		<p>Copyright © 19<span>95-Thu Jun 14 15:51:04 EDT 2012 Valpak Direct Marketing Systems, Inc. All Rights Reserved.</span></p>
 		<p class="flinks">
         	<a href="/coupons/show/copyright" title="Valpak Trademark/Copyright Notification" onclick="s_objectID=&quot;https://web.archive.org/coupons/show/copyright_1&quot;;return this.s_oc?this.s_oc(e):true">Trademark/Copyright Notification</a>&nbsp;
 			|&nbsp;<a href="/coupons/show/termsOfUse" title="Valpak.com Terms of Use" onclick="s_objectID=&quot;https://web.archive.org/coupons/show/termsOfUse_1&quot;;return this.s_oc?this.s_oc(e):true">Terms of Use</a>&nbsp;
@@ -1167,6 +1213,8 @@ $(document).ready(function() {
 		</p>
 	</div>
 </div>
+
+<!-- =======[Initialize Settings]======== -->
 <script type="text/javascript">
 $(document).ready(function() {
 	/* Set up Omniture log clicks on all links in footer */
@@ -1183,7 +1231,6 @@ $(document).ready(function() {
 
 
 
-
 <div id="dialog-content"></div>
 
 
@@ -1194,6 +1241,25 @@ $(document).ready(function() {
 
 
 <div id="printMailer" class="dHide"></div>
+
+<!-- =======[Initialize Settings]======== -->
+<script type="text/javascript">
+$(document).ready(function() {
+
+
+
+
+});
+
+// Establish 1st visit for the session
+if (!g_visit) {
+	document.cookie = 'visits=1';
+}
+// Clear geo search related cookies
+$.cookie("findingmethod",null, { path: "/" });
+$.cookie("geo",null, { path: "/" });
+$.cookie("radius",null, { path: "/" });
+</script>
 
 
 
@@ -1243,7 +1309,7 @@ s.prop22="Consumer website";
 //		from the vpref parameter
 
 	
-s.eVar5="a11zpBJeiuSJSHGEhX";
+s.eVar5="fz8MYLHFTT9jvraBGeMh";
 	
 	
 		
@@ -1258,7 +1324,8 @@ s.eVar11="Non-Member";
 
 
 
-
+s.pageName="general:privacy policy";
+s.prop21="privacy policy";
 
 /******* DO NOT ALTER ANYTHING BELOW THIS LINE ! ********/
 
@@ -1302,6 +1369,7 @@ var s_code=s.t();if(s_code)document.write(s_code);
 
 
 
+	
 
 
 
@@ -1312,6 +1380,20 @@ var s_code=s.t();if(s_code)document.write(s_code);
 
 
 
+
+
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-29922349-1']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
 
  
@@ -1350,15 +1432,7 @@ var s_code=s.t();if(s_code)document.write(s_code);
 
 
 
-<script type="text/javascript">
-// Establish 1st visit for the session
-if (!g_visit) {
-	document.cookie = 'visits=1';
-}
-// Clear geo search related cookies
-$.cookie("findingmethod",null, { path: "/" });
-$.cookie("geo",null, { path: "/" });
-$.cookie("radius",null, { path: "/" });
-</script>
+
+
 
 </body></html>
