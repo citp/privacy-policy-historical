@@ -1,35 +1,32 @@
-> *The following text is extracted and transformed from the likesbay.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120161333id_/http%3A//likesbay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likesbay.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614075450id_/http%3A//www.likesbay.com/privacy.php) for the most accurate reproduction.*
 
-# LikesBay Privacy Policy for Free Fans, Followers and Views
+# LikesBay
 
-  
-
-
-This Policy applies as to all products and services provided by LikesBay, MedSites the owner and provider of LikesBay, and yourself the User of LikesBay. This Policy applies to our use of any and all Data collected by us in relation to your use of LikesBay and any Services or Systems therein.
+This Policy applies as to all products and services provided by Likes Bay, MedSites the owner and provider of Likes Bay, and yourself the User of Likes Bay. This Policy applies to our use of any and all Data collected by us in relation to your use of Likes Bay and any Services or Systems therein.
 
 ##### 1\. Definitions and Interpretation 
 
 In this Policy the following terms shall have the following meanings: 
 
-“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and / or any communications System on LikesBay;
+“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and / or any communications System on Likes Bay;
 
-“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of LikesBay;
+“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of Likes Bay;
 
-“ **Cookie** ” means a small text file placed on your computer by LikesBay when you visit certain parts of LikesBay. This allows us to identify recurring visitors and to analyse their browsing habits within LikesBay. 
+“ **Cookie** ” means a small text file placed on your computer by Likes Bay when you visit certain parts of Likes Bay. This allows us to identify recurring visitors and to analyse their browsing habits within Likes Bay. 
 
-“ **Data** ” means collectively all information that you submit to LikesBay. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+“ **Data** ” means collectively all information that you submit to Likes Bay. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
 
-“ **LikesBay** ” / “ **LikesBay** ” is Own by MedSites
+“ **Likes Bay** ” / “ **Likes Bay** ” is Own by MedSites
 
-“ **Service** ” means collectively any online facilities, tools, services or information that LikesBay makes available through LikesBay either now or in the future;
+“ **Service** ” means collectively any online facilities, tools, services or information that Likes Bay makes available through Likes Bay either now or in the future;
 
-“ **System** ” means any online communications infrastructure that LikesBay makes available through LikesBay either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+“ **System** ” means any online communications infrastructure that Likes Bay makes available through Likes Bay either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
 
-“ **User** ” / “ **Users** ” means any third party that accesses LikesBay and is not employed by LikesBay and acting in the course of their employment; and
+“ **User** ” / “ **Users** ” means any third party that accesses Likes Bay and is not employed by Likes Bay and acting in the course of their employment; and
 
-“ **Member** ” / “ **Members** ” means any third party that accesses LikesBay and is not employed by LikesBay and acting in the course of their employment; and
+“ **Member** ” / “ **Members** ” means any third party that accesses Likes Bay and is not employed by Likes Bay and acting in the course of their employment; and
 
-“ **Web Site** ” means the website that you are currently using (LikesBay.com) and any sub-domains of this site (e.g. support.LikesBay.com unless expressly excluded by it's own terms and conditions.
+“ **Web Site** ” means the website that you are currently using (Likes Bay.com) and any sub-domains of this site (e.g. support.Likes Bay.com unless expressly excluded by it's own terms and conditions.
 
 ##### 2\. Data Collected
 
@@ -57,7 +54,7 @@ Without limitation, any of the following Data may be collected:
 
 2.11 operating system (automatically collected);
 
-2.12 a list of URLS starting with a referring site, your activity on LikesBay, and the site you exit to (automatically collected); and
+2.12 a list of URLS starting with a referring site, your activity on Likes Bay, and the site you exit to (automatically collected); and
 
 2.13 Twitter profile information provided to us through the Twitter API and your express permission;
 
@@ -67,11 +64,11 @@ Without limitation, any of the following Data may be collected:
 
 2.16 Website profile information;
 
-2.17 Online social connections made or received by you through LikesBay.
+2.17 Online social connections made or received by you through Likes Bay.
 
 ##### 3\. Our Use of Data
 
-3.1 Any personal Data you submit will be retained by LikesBay for as long as you use the Services and Systems provided on LikesBay. Data that you may submit through any communications System that we may provide may be retained for a longer period.
+3.1 Any personal Data you submit will be retained by Likes Bay for as long as you use the Services and Systems provided on Likes Bay. Data that you may submit through any communications System that we may provide may be retained for a longer period.
 
 3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. 
 
@@ -85,15 +82,15 @@ Without limitation, any of the following Data may be collected:
 
 3.4.3 transmission by email of promotional materials that may be of interest to you;
 
-3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update LikesBay.
+3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update Likes Bay.
 
 ##### 4\. Third Party Web Sites and Services
 
-LikesBay may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of LikesBay. Any Data used by such parties is used only to the extent required by them to perform the services that LikesBay requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+Likes Bay may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of Likes Bay. Any Data used by such parties is used only to the extent required by them to perform the services that Likes Bay requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
 ##### 5\. Changes of Business Ownership and Control
 
-5.1 LikesBay may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+5.1 Likes Bay may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
 
 5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
 
@@ -103,7 +100,7 @@ LikesBay may, from time to time, employ the services of other parties for dealin
 
 ##### 7\. Your Right to Withhold Information
 
-7.1 You may access certain areas of LikesBay without providing any Data at all. However, to use all Services and Systems available on LikesBay you may be required to submit Account information or other Data.
+7.1 You may access certain areas of Likes Bay without providing any Data at all. However, to use all Services and Systems available on Likes Bay you may be required to submit Account information or other Data.
 
 7.2 You may restrict your internet browser’s use of Cookies. For more information see clause 10.4 below.
 
@@ -115,18 +112,18 @@ LikesBay may, from time to time, employ the services of other parties for dealin
 
 ##### 9\. Security
 
-9.1 Data security is of great importance to LikesBay and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+9.1 Data security is of great importance to Likes Bay and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
 
 ##### 10\. Cookies
 
-10.1 LikesBay may set and access Cookies on your computer.
+10.1 Likes Bay may set and access Cookies on your computer.
 
-10.2 A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by LikesBay that placed it there, not any other sites.
+10.2 A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by Likes Bay that placed it there, not any other sites.
 
-10.3 You may delete Cookies, however you may lose any information that enables you to access LikesBay more quickly.
+10.3 You may delete Cookies, however you may lose any information that enables you to access Likes Bay more quickly.
 
-10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on LikesBay.
+10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on Likes Bay.
 
 ##### 11\. Changes to this Policy
 
-LikesBay reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on LikesBay and you are deemed to have accepted the terms of the Policy on your first use of LikesBay following the alterations.
+Likes Bay reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on Likes Bay and you are deemed to have accepted the terms of the Policy on your first use of Likes Bay following the alterations.
