@@ -1,0 +1,832 @@
+<!--The following is the downloaded HTML source of the brighton.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614020240id_/http%3A//www.brighton.com/content/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!--<![endif]--><head>
+ <title>Privacy &amp; Security</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <meta name="keywords" content="Brighton Collectibles, Handbags, Jewelry, Charms, Eyewear, rings">
+ <meta name="description" content="Brighton is known for designing products with a message. Many of the items in the collection have a defining detail that gives them special meaning. Whether it is love notes engraved on a bracelet or a handbag adorned with a treasured photo, Brighton products help create lasting memories.">
+ <style type="text/css" media="all">
+
+
+
+	@import "http://www.brighton.com/Bundle/p-5a1be8bfc89cd969c7dabebfb5eb36a0-0-1-cab952.min.css";
+        
+ </style>
+
+<style type="text/css" media="print">
+@import "http://www.brighton.com/css/print.css";
+</style>
+
+
+ <link rel="icon" href="/favicon.ico" type="image/ico">
+ <link rel="home" title="Home" href="http://www.brighton.com/">
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.brighton.com/Bundle/r-183adfa7f9a6f43eea0e8eb5d55ba7c3-73a9c3.min.js"></script>
+<script type="text/javascript">
+$j = jQuery;
+jQuery.noConflict();
+</script>
+
+<script src="http://www.brighton.com/Bundle/p-8fc6279976c3f9bd9628909ae85e846f-0-1-8556b1.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+function IncludeJavaScript(jsFile, onLoadCallback) {
+    var head = document.getElementsByTagName('head')[0] || document.documentElement;
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = jsFile;
+    if (onLoadCallback) {
+        s.onload = s.onreadystatechange = function() {
+            if (!s.readyState || s.readyState == 'loaded' || s.readyState == 'complete') {
+                s.onreadystatechange = null;
+                onLoadCallback(s);
+            }
+        };
+    }
+    head.appendChild(s);
+}
+</script>
+
+<script type="text/javascript">
+$j(document).ready(function() {
+	$j('img[original]').lazyload({
+		effect: 'fadeIn',
+		placeholder: "http://www.brighton.com/Public/Images/white.gif"
+	});
+});
+</script>
+
+<script type="text/javascript">
+function set_fade_timer(){
+	t = setTimeout("disable_subscribe_pop()", 15000);
+}
+
+function disable_subscribe_pop(){
+	$j("#resp_div_signup").fadeOut("slow");
+	$j("#backgroundDiv").fadeOut("slow");
+	$j("#resp_div_signup").fadeOut("slow");
+	$j("#email_address_24").val("");
+	$j("#resp_div_signup").css("background", "#FFFFFF");
+	clearTimeout(t);
+}
+
+function enable_subscribe_pop(){
+	var windowHeight = document.documentElement.clientHeight;
+	var windowWidth = document.documentElement.clientWidth;
+	
+	$j("#resp_div_signup").text("Sending Subscription request ...");
+	$j("#resp_div_signup").css({"font-size" : "140%"});
+	$j("#resp_div_signup").css({"color" : "red"});
+	$j("#resp_div_signup").fadeIn("slow");
+	$j("#backgroundDiv").css({"height": windowHeight});
+	$j("#backgroundDiv").css({"width": windowWidth});
+	$j("#backgroundDiv").fadeIn("slow");
+}
+
+function checksubscription(){
+	var email_address = document.getElementById("email_address_24").value;
+	var email_signup = document.getElementById("email_signup_24").value;
+		
+	if (window.XMLHttpRequest){
+		xmlhttp_subscribe =new XMLHttpRequest();
+	}
+	else{
+		xmlhttp_subscribe = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	
+	xmlhttp_subscribe.onreadystatechange=function(){
+		if(xmlhttp_subscribe.readyState==4 && xmlhttp_subscribe.status==200){
+			var resp_div = document.getElementById("resp_div_signup");
+			resp_div.innerHTML = xmlhttp_subscribe.responseText;
+			if(document.getElementById("subscribe_pop_success")){
+				$j("#resp_div_signup").css("background", "url(/store_image/site/footer_popup_v2.gif)");
+				$j("#resp_div_signup").css("background-repeat", "no-repeat");
+				//$j("#resp_div_signup").css("background-position", "50% 50%");
+				//$j("#resp_div_signup").css("background-size", "620px 420px"); no
+			}
+			set_fade_timer();
+		}
+	}
+	
+	xmlhttp_subscribe.open("POST","http://www.brighton.com/Shop/EmailNotification/Confirmation.php",true);
+	xmlhttp_subscribe.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlhttp_subscribe.send("email_signup="+email_signup+"&address="+email_address);
+	enable_subscribe_pop();	
+}
+</script>
+
+<script type="text/javascript">
+$j(document).ready(function() {
+	var searchInputs = document.getElementsByName('s');
+	for (var i = 0; i < searchInputs.length; ++i) {
+		if (!searchInputs[i].placeholder) {
+			if (searchInputs[i].getAttribute('placeholder'))
+				searchInputs[i].placeholder = searchInputs[i].getAttribute('placeholder');
+			else
+				searchInputs[i].placeholder = searchInputs[i].value;
+		}
+		if (supportsInputPlaceholder)
+			searchInputs[i].value = '';
+		searchInputs[i].onclick = function(){};
+		setInputPlaceholderFallback(searchInputs[i]);
+		var form = searchInputs[i].form;
+		if (!form.action.match(/search/))
+			continue;
+		searchInputs[i].setAttribute('autocomplete', 'off');
+		searchInputs[i].setAttribute('spellcheck', 'false');
+				form.action = form.action.replace('search', 'searchx');
+	}
+});
+</script>
+
+<script type="text/javascript">
+var gcsLoadCallback = function() {
+	$j(document).ready(function() {
+		var cse_id = '018264616900089523570:1io0eghv2f0';
+		var searchInputs = document.getElementsByName('s');
+		var formCount = 0;
+		for (var i = 0; i < searchInputs.length; ++i) {
+			var form = searchInputs[i].form;
+			if (!form.action.match(/searchx/))
+				continue;
+			if (!form.id.length) {
+				form.id = 'searchForm'+formCount;
+				formCount++;
+			}
+			google.search.CustomSearchControl.attachAutoCompletion(
+				cse_id,
+				searchInputs[i],
+				form.id
+			);
+		}
+	});
+};
+IncludeJavaScript("http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A1%2C%22callback%22%3A%22gcsLoadCallback%22%7D%5D%7D");
+</script><script type="text/javascript" async="" src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A1%2C%22callback%22%3A%22gcsLoadCallback%22%7D%5D%7D"></script>
+
+<style type="text/css">
+.gsc-completion-container{z-index:10000005}
+</style>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1593506-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+</script>
+<script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+</head>
+
+<body id="www-brighton-com">
+<script type="text/javascript">
+    var shpn='';
+    var shpc='';
+    var shpp='';
+    var shpb='';
+    var shpi='';
+    var shps='';
+    var shcv='';
+    var shcq='';
+    var shcp='';
+    var additional='';
+</script>
+<div id="body" class="page-privacy-security ">
+<div id="header">
+ <h1><a href="http://www.brighton.com/" title="Return to home page" accesskey="1">Privacy &amp; Security at Brighton</a></h1>
+
+ <form enctype="multipart/form-data" method="get" action="http://www.brighton.com/search/0/0/1/1/" name="search_site">
+<div class="header_marea1">
+<ul class="menu_header1">
+    <li style="display:none" id="customer_message"></li>
+        <li class="header_nav__checkout" id="header_li26"><a href="http://www.brighton.com/cart"><span>/ Checkout</span></a></li>
+            <li class="cart" id="header_li17"><div id="shopping_cart_area" style="display:inline"><a href="http://www.brighton.com/cart" id="shop_cart_link"><span>Shopping Bag</span></a></div></li>
+            <li class="header_nav_help" id="header_li27"><a class="nm_tab" href="javascript:;">Help</a><ul><li><div id="help_popup"><table cellspacing="0" cellpadding="0"><tbody><tr><td></td><td>We are here to help</td></tr><tr><td colspan="2" class="htline"><h5></h5></td></tr><tr><td class="helptitle htcall">Call:</td><td class="helpinfo hicall">1-800-628-7687<br>Monday - Friday 7am - 5pm PST</td></tr><tr><td class="helptitle htemail">Email:</td><td class="helpinfo hiemail"><a href="/contact">Anytime</a></td></tr><tr><td colspan="2" class="htline"><h5></h5></td></tr><tr></tr><tr><td></td><td><a href="/content/34/faqs">Check out our FAQ page</a></td></tr></tbody></table></div></li></ul></li>
+            <li class="stores" id="header_li16"><a href="http://www.brighton.com/stores"><span>Store Locator</span></a></li>
+            <li class="header_nav_wishlist last_item" id="header_li28"><a href="http://www.brighton.com/wishlist"><span>Wishlist</span></a></li>
+            <li class="header_nav_my_account last_item" id="header_li23"><a href="http://www.brighton.com/Shop/Customer/Account"><span>My Account</span></a></li>
+    
+</ul>
+</div>
+</form>
+    <script>MemberMessage();</script>
+
+<div id="searchsite">
+<form method="get" action="http://www.brighton.com/search/0/0/1/1/" name="search_site" onsubmit="if(document.getElementById('searchsite_keyword').value!='Search') return true;">
+<table cellspacing="0" cellpadding="0"><tbody>
+<tr>
+<td><input type="text" id="searchsite_keyword" name="s" value="Search" size="15" onclick="if(this.value=='SEARCH')this.value='';"></td>
+<td><input type="submit" name="g" value="Go" class="search_btn"></td>
+</tr>
+</tbody></table>
+</form>
+</div>
+</div>
+<div id="header_banners">        <div id="header_banner1" class="">
+        	<div class="caption"></div></div></div>
+
+<script>
+var productSelectionTimer = false;
+var checkcartloadedtimer = false;
+var showHelpTimer = false;
+var showHelpHideTimer = false;
+var showCartTimer = false;
+var showCartHideTimer = false;
+var checkcartloadedtimer = false;
+var stock_product_id;
+
+
+function addLoadEvent(func)
+{    
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function')
+    {
+        window.onload = func;
+    } 
+    else 
+    {
+        window.onload = function()
+        {
+            oldonload();
+            func();
+        }
+    }
+}
+
+addLoadEvent(onloadVersionTwo);
+
+function onloadVersionTwo() {
+
+
+    if(jQuery("#product_page").attr('id')) {
+	    if(jQuery.cookie('product_stores') != "viewed") {
+	        $("#product_stores_message").show();
+	        jQuery.cookie('product_stores',"viewed", { path: '/', expires: 3650 });
+	    }
+		if(jQuery("#vwitem").attr('id')) {
+			if($("#vwitem").val()) {
+				checkProductStockSelection();
+			} else {
+				productSelectionTimer = setTimeout("checkProductStockSelection()",200);
+			}
+		}
+	    if(jQuery("#product_store_stock_window").attr('id')) {
+	    	$("#product_store_stock_tabs").children('h3').each(function(index){
+    			$(this).click(function() {
+    				$("#product_store_stock_tabs").children('h3').each(function(index){
+    						$(this).removeClass("selected");
+		    				var div = $(this).attr("id");
+		    				div = div.substring(1);
+		    				$("#"+div).hide();
+    					});
+    				var click_div = $(this).attr("id");
+    				click_div = click_div.substring(1);
+    				if(click_div == "product_store_stock_area") {
+    					$("#store_locator").show();
+    				} else {
+    					$("#store_locator").hide();
+    				}
+    				$(this).addClass("selected");
+    				$("#"+click_div).show();
+    			});
+	    	});
+	    }
+	    
+    	tobj=$(".product_description").offset();
+    	//$("#product_store_stock_window").offset({top:tobj.top+$(".product_description").height()+40});
+    }
+	if(jQuery("#shopping_cart_area").attr('id')) {
+		checkcartloadedtimer = setTimeout("checkCartLoaded()",200);
+	}	
+}
+
+cartItemsOnload = function() {
+	jQuery("#cartrequest_addeditems").hide();
+	jQuery("#cartrequest_subnumber").hover(function() {
+		showCartTimer = setTimeout("showQuickCart()",300);
+	});
+	jQuery("#cartrequest_subnumber").mouseleave(function() {
+		if(showCartTimer) {
+			clearTimeout(showCartTimer);
+			showCartTimer = false;
+		}
+	});
+	jQuery("#cartrequest_addeditems,#cartrequest_subnumber").mouseenter(function() {
+		clearTimeout(showCartHideTimer);
+	});
+	jQuery("#cartrequest_addeditems,#cartrequest_subnumber").mouseleave(function() {
+		showCartHideTimer = setTimeout("hideQuickCart()",300);
+	});	
+}
+
+cartItemsJsonpResponse = function(response) {
+	jQuery("#cart_request_status").html(response['items']);
+	cartItemsOnload();
+}
+
+checkCartLoaded = function() {
+	if(jQuery("#cart_request_area").attr('id')) {
+		if (QuickCart_jsonp_enabled) {
+			QuickCart_JsonpRequest("http://www.brighton.com/Shop/Cart/Request/Items?callback=cartItemsJsonpResponse");
+		} else {
+			jQuery("#cart_request_status").load("http://www.brighton.com/Shop/Cart/Request/Items",cartItemsOnload);
+		}
+		if(checkcartloadedtimer) {
+			clearTimeout(checkcartloadedtimer);
+			checkcartloadedtimer = false;
+		}
+	} else {
+		checkcartloadedtimer = setTimeout("checkCartLoaded()",200);
+	}
+}
+
+showQuickCart = function()
+{
+	if(showCartTimer) {
+		jQuery("#cartrequest_addeditems").show();
+		jQuery("#cartrequest_subnumber").addClass("selected");
+                jQuery("#cartrequest_action_close").hide();
+                /*jQuery("#cartrequest_action_close").click(function() {
+			jQuery("#cartrequest_subnumber").removeClass("selected");
+			jQuery('#cartrequest_addeditems').hide();
+		});*/
+	}
+	showCartTimer = false;
+}
+
+hideQuickCart = function()
+{
+	jQuery("#cartrequest_addeditems").hide();
+        jQuery("#cartrequest_action_close").show();
+	jQuery("#cartrequest_subnumber").removeClass("selected");
+}
+
+checkProductStockSelection = function() {
+	if(jQuery("#product_page").attr('id')) {
+		var product_id = jQuery("#vwitem").val();
+		if (!product_id) {
+			product_id = 0;
+		}
+		if(stock_product_id !== product_id) {
+			stock_product_id = product_id;
+			jQuery("#product_store_stock_window").show();
+			jQuery("#store_locator").hide();
+			jQuery('#product_store_stock_window').append('<div class="loading" style="width:100%;height:75%;"></div>');
+			jQuery("#store_locator_content").show();
+			var extraParams = {};
+			if (typeof userData != "undefined") {
+				if(userData.zip) {
+					extraParams.zip = userData.zip;
+				}
+				if (userData.zipcode_distance) {
+					extraParams.zipcode_distance = userData.zipcode_distance;
+				}
+			}
+			if (typeof productFinderParams != "undefined") {
+				for (var i in productFinderParams) {
+					if (productFinderParams.hasOwnProperty(i)) {
+						extraParams[i] = productFinderParams[i];
+					}
+				}
+			}
+			var loadUrl = 'http://www.brighton.com/product-finder/'+product_id+"?nomap=1&nofilters=1&nolegend=1&embedded=1&limit=3&"+jQuery.param(extraParams);
+			jQuery("#store_locator_content").load(loadUrl,function(){
+				jQuery('div').remove('.loading');
+				jQuery("#store_locator").show();
+				});
+		} else {
+			productSelectionTimer = setTimeout("checkProductStockSelection()",200);
+		}
+	}
+}
+
+CheckProductFinderSubmitExtra = function() {
+	if (jQuery("#vwitem").length && !jQuery("#vwitem").val()) {
+		alert("Please select a style.");
+		return false;
+	}
+	return true;
+};
+
+</script>
+<div id="product_stores_message" style="display:none;cursor:pointer;" onclick="jQuery('#product_stores_message').hide();">
+<img src="http://www.brighton.com/store_image/site/find_in_stores.png">
+</div>
+<div id="product_store_stock_window" style="display:none;">
+	<div id="product_store_stock_tabs">
+		<h3 id="_product_store_stock_area" class="selected">Find in Store</h3>
+		<h3 id="_product_store_stock_info">What's This?</h3>
+	</div>
+	<div id="product_store_stock_area">
+	</div>
+	<div id="product_store_stock_info" style="display:none;">
+		<p>
+		If you are anything like us, you'd much rather go into your local store -  where you can see and touch the products you are viewing on-line! The specialty retailers listed have recently been shipped the item – so you can simply give them a call to see if the product you love is still in stock, or visit one of the Brighton Collectible stores listed – these stores are sure to have the item in stock. Shop whichever way you want, and have fun finding your favorites!
+		</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var myDiv = document.getElementById("header_li27");
+if (myDiv) {
+myDiv.innerHTML = "<A class=\"nm_tab\" HREF=\"javascript:;\">Help<\/A><ul><li><div id=\"help_popup\"><table cellspacing=\"0\" cellpadding=\"0\"><tbody><tr><td><\/td><td>We are here to help<\/td><\/tr><tr><td COLSPAN=\"2\" class=\"htline\"><H5><\/H5><\/td><tr><td class=\"helptitle htcall\">Call:<\/td><td class=\"helpinfo hicall\">1-800-628-7687<BR>Monday - Friday 7am - 5pm PST<\/td><\/tr><tr><td class=\"helptitle htemail\">Email:<\/td><td class=\"helpinfo hiemail\"><a href=\"\/contact\">Anytime<\/a><\/td><\/tr><tr><td COLSPAN=\"2\" class=\"htline\"><H5><\/H5><\/td><tr><tr><td><\/td><td><a href=\"\/content\/34\/faqs\">Check out our FAQ page<\/a><\/td><\/tr><\/tbody><\/table><\/div><\/li><\/ul>";
+}
+</script>
+
+
+<script type="text/javascript">
+jQuery(".menu_header1").append(jQuery("#customer_message"))
+</script>
+
+
+
+<div style="display:none;"><div><div></div>        </div>
+        </div> 
+	<div class="tab_area">
+	<div id="tabs" style="width:650px">
+	<ul style="width:650px" id="meu">
+	<li id="tab-id-8" class="shop_tab"><a href="http://www.brighton.com/category/8/1/jewelry.html" class="shop_tab"><span>Jewelry</span></a><div id="tab_container_8"><ul id="tab_content_8"><li id="tab-id-87"><a href="http://www.brighton.com/category/87/1/new-arrivals.html"><span>New Arrivals</span></a></li><li id="tab-id-36"><a href="http://www.brighton.com/category/36/1/bracelets.html"><span>Bracelets</span></a></li><li id="tab-id-35"><a href="http://www.brighton.com/category/35/1/necklaces.html"><span>Necklaces</span></a></li><li id="tab-id-34"><a href="http://www.brighton.com/category/34/1/earrings.html"><span>Earrings</span></a></li><li id="tab-id-37"><a href="http://www.brighton.com/category/37/1/rings.html"><span>Rings</span></a></li><li id="tab-id-12"><a href="http://www.brighton.com/category/12/1/watches.html"><span>Watches</span></a></li><li id="tab-id-39"><a href="http://www.brighton.com/category/39/1/hair-accessories.html"><span>Hair Accessories</span></a></li><li id="tab-id-38"><a href="http://www.brighton.com/category/38/1/anklets.html"><span>Anklets</span></a></li><li id="tab-id-119"><a href="http://www.brighton.com/category/119/1/box-sets.html"><span>Box Sets</span></a></li><li id="tab-id-120"><a href="http://www.brighton.com/category/120/1/heart-notes.html"><span>Heart Notes</span></a></li></ul>
+</div>
+</li><li id="tab-id-2" class="shop_tab"><a href="http://www.brighton.com/category/2/1/charms.html" class="shop_tab"><span>Charms</span></a><div id="tab_container_2"><ul id="tab_content_2"><li id="tab-id-91"><a href="http://www.brighton.com/category/91/1/new-arrivals.html"><span>New Arrivals</span></a></li><li id="tab-id-40"><a href="http://www.brighton.com/category/40/1/charm-holders.html"><span>Charm Holders</span></a></li><li id="tab-id-41"><a href="http://www.brighton.com/category/41/1/beads.html"><span>Beads</span></a></li><li id="tab-id-42"><a href="http://www.brighton.com/category/42/1/spacers.html"><span>Spacers</span></a></li><li id="tab-id-43"><a href="http://www.brighton.com/category/43/1/charms.html"><span>Charms</span></a></li><li id="tab-id-44"><a href="http://www.brighton.com/category/44/1/minis.html"><span>Mini's</span></a></li><li id="tab-id-45"><a href="http://www.brighton.com/category/45/1/ear-discs.html"><span>Ear Discs</span></a></li><li id="tab-id-132"><a href="http://www.brighton.com/category/132/1/charming-keepsakes.html"><span>Charming Keepsakes</span></a></li><li id="tab-id-133"><a href="https://www.brighton.com/charmbuilder"><span>Charm Builder</span></a></li></ul>
+</div>
+</li><li id="tab-id-6" class="shop_tab"><a href="http://www.brighton.com/category/6/1/handbags.html" class="shop_tab"><span>Handbags</span></a><div id="tab_container_6"><ul id="tab_content_6"><li id="tab-id-88"><a href="http://www.brighton.com/category/88/1/new-arrivals.html"><span>New Arrivals</span></a></li><li id="tab-id-18"><a href="http://www.brighton.com/category/18/1/backpacks.html"><span>Backpacks</span></a></li><li id="tab-id-19"><a href="http://www.brighton.com/category/19/1/cross-bodies.html"><span>Cross Bodies</span></a></li><li id="tab-id-20"><a href="http://www.brighton.com/category/20/1/hobos.html"><span>Hobos</span></a></li><li id="tab-id-21"><a href="http://www.brighton.com/category/21/1/organizers.html"><span>Organizers</span></a></li><li id="tab-id-22"><a href="http://www.brighton.com/category/22/1/satchels.html"><span>Satchels</span></a></li><li id="tab-id-23"><a href="http://www.brighton.com/category/23/1/shoulderbags.html"><span>Shoulderbags</span></a></li><li id="tab-id-24"><a href="http://www.brighton.com/category/24/1/small-bags.html"><span>Small Bags</span></a></li><li id="tab-id-25"><a href="http://www.brighton.com/category/25/1/special-occasion.html"><span>Special Occasion</span></a></li><li id="tab-id-27"><a href="http://www.brighton.com/category/27/1/totes.html"><span>Totes</span></a></li><li id="tab-id-99"><a href="http://www.brighton.com/category/99/1/straw.html"><span>Straw</span></a></li></ul>
+</div>
+</li><li id="tab-id-82" class="shop_tab"><a href="http://www.brighton.com/category/82/1/accessories.html" class="shop_tab"><span>Accessories</span></a><div id="tab_container_82"><ul id="tab_content_82"><li id="tab-id-89"><a href="http://www.brighton.com/category/89/1/new-arrivals.html"><span>New Arrivals</span></a></li><li id="tab-id-83"><a href="http://www.brighton.com/category/83/1/small-collectibles.html"><span>Small Collectibles</span></a></li><li id="tab-id-59"><a href="http://www.brighton.com/category/59/1/travel.html"><span>Travel</span></a></li><li id="tab-id-134" class="daddy"><a href="http://www.brighton.com/category/134/1/footwear.html" class="daddy"><span>Footwear</span></a><div id="tab_container_134"><ul id="tab_content_134"><li id="tab-id-135"><a href="http://www.brighton.com/category/135/1/flip-flops.html"><span>Flip Flops</span></a></li><li id="tab-id-136"><a href="http://www.brighton.com/category/136/1/flats.html"><span>Flats</span></a></li><li id="tab-id-137"><a href="http://www.brighton.com/category/137/1/heels.html"><span>Heels</span></a></li><li id="tab-id-138"><a href="http://www.brighton.com/category/138/1/sandals.html"><span>Sandals</span></a></li><li id="tab-id-139"><a href="http://www.brighton.com/category/139/1/wedges.html"><span>Wedges</span></a></li></ul>
+</div>
+</li><li id="tab-id-4" class="daddy"><a href="http://www.brighton.com/category/4/1/eyewear.html" class="daddy"><span>Eyewear</span></a><div id="tab_container_4"><ul id="tab_content_4"><li id="tab-id-53"><a href="http://www.brighton.com/category/53/1/sunglasses.html"><span>Sunglasses</span></a></li><li id="tab-id-54"><a href="http://www.brighton.com/category/54/1/readers.html"><span>Readers</span></a></li><li id="tab-id-56"><a href="http://www.brighton.com/category/56/1/holders.html"><span>Holders</span></a></li><li id="tab-id-57"><a href="http://www.brighton.com/category/57/1/eyeglass-charms.html"><span>Eyeglass Charms</span></a></li></ul>
+</div>
+</li><li id="tab-id-11" class="daddy"><a href="http://www.brighton.com/category/11/1/wallets.html" class="daddy"><span>Wallets</span></a><div id="tab_container_11"><ul id="tab_content_11"><li id="tab-id-93"><a href="http://www.brighton.com/category/93/1/new-arrivals.html"><span>New Arrivals</span></a></li><li id="tab-id-86"><a href="http://www.brighton.com/category/86/1/coin-purses-pouches.html"><span>Coin Purses &amp; Pouches</span></a></li><li id="tab-id-47"><a href="http://www.brighton.com/category/47/1/medium-wallets.html"><span>Medium Wallets</span></a></li><li id="tab-id-48"><a href="http://www.brighton.com/category/48/1/small-wallets.html"><span>Small Wallets</span></a></li><li id="tab-id-46"><a href="http://www.brighton.com/category/46/1/large-wallets.html"><span>Large Wallets</span></a></li></ul>
+</div>
+</li><li id="tab-id-5" class="daddy"><a href="http://www.brighton.com/category/5/1/belts.html" class="daddy"><span>Belts</span></a><div id="tab_container_5"><ul id="tab_content_5"><li id="tab-id-96"><a href="http://www.brighton.com/category/96/1/new-arrivals.html"><span>New Arrivals</span></a></li><li id="tab-id-71"><a href="http://www.brighton.com/category/71/1/casual.html"><span>Casual</span></a></li><li id="tab-id-73"><a href="http://www.brighton.com/category/73/1/dressy.html"><span>Dressy</span></a></li><li id="tab-id-72"><a href="http://www.brighton.com/category/72/1/chain.html"><span>Chain</span></a></li><li id="tab-id-74"><a href="http://www.brighton.com/category/74/1/stretch.html"><span>Stretch</span></a></li></ul>
+</div>
+</li><li id="tab-id-58"><a href="http://www.brighton.com/category/58/1/key-fobs.html"><span>Key Fobs</span></a></li><li id="tab-id-122" class="daddy"><a href="http://www.brighton.com/category/122/1/mens.html" class="daddy"><span>Men's</span></a><div id="tab_container_122"><ul id="tab_content_122"><li id="tab-id-123"><a href="http://www.brighton.com/category/123/1/belts.html"><span>Belts</span></a></li><li id="tab-id-124"><a href="http://www.brighton.com/category/124/1/wallets-more.html"><span>Wallets &amp; More</span></a></li></ul>
+</div>
+</li></ul>
+</div>
+</li><li id="tab-id-7" class="shop_tab"><a href="http://www.brighton.com/category/7/1/home-gifts.html" class="shop_tab"><span>Home &amp; Gifts</span></a><div id="tab_container_7"><ul id="tab_content_7"><li id="tab-id-63"><a href="http://www.brighton.com/category/63/1/clocks.html"><span>Clocks</span></a></li><li id="tab-id-66"><a href="http://www.brighton.com/category/66/1/desktop.html"><span>Desktop</span></a></li><li id="tab-id-97"><a href="http://www.brighton.com/category/97/1/fragrances.html"><span>Fragrances</span></a></li><li id="tab-id-64"><a href="http://www.brighton.com/category/64/1/frames.html"><span>Frames</span></a></li><li id="tab-id-62"><a href="http://www.brighton.com/category/62/1/illuminations.html"><span>Illuminations</span></a></li><li id="tab-id-65"><a href="http://www.brighton.com/category/65/1/tableware.html"><span>Tableware</span></a></li><li id="tab-id-67"><a href="http://www.brighton.com/category/67/1/vanity-fare.html"><span>Vanity Fare</span></a></li></ul>
+</div>
+</li>
+	</ul>
+	</div>
+	</div>
+	
+<div id="adminmenu" style="display:none"></div>
+<style type="text/css">
+#adminmenu {display:none;
+    background:#DAC6C6;
+    border-bottom:1px solid #666;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:100099999;
+}
+div#meua {
+    float:none;
+    top:0px;
+    background:#DAC6C6;
+    padding:0 0 0 0;
+    margin:1px;
+    width:1020px;
+        margin-left:auto;
+        margin-right:auto;
+    height:21px;
+    list-style:none;
+    font-size:11px;
+    font-family:tahoma,verdana;
+    z-index:2220;
+}
+div#meua p {
+    color: #333;
+    font-size: 11px;
+    padding: 3px 0 0 0;
+}
+div#meua img.spinner {
+    width: 13px;
+    height: 13px;
+    vertical-align: bottom;
+    padding-right: 5px;
+}
+</style>
+<script type="text/javascript">
+
+
+if (document.cookie.indexOf('GuestStateAdmin=') != -1) {
+	$j(document.body).css({
+		position: 'relative',
+		'background-position': 'center 2em',
+		'margin-top': '22px'
+	});
+	$j('#adminmenu').append('<div id="meua"><p><img class="spinner" src="http://www.brighton.com/Public/Images/spinner.gif">Loading admin menu...</p></ul>')
+	$j('#adminmenu').show();
+	$j.ajax({
+		url: ajaxFormatUrl('_adminmenu'),
+		dataType: 'text',
+		cache: false,
+		complete: function(jqxhr) {
+			if (jqxhr && jqxhr.status == 200) {
+								$j('#adminmenu').css({top:'-1000px'}).html(jqxhr.responseText).css({top:'0'});
+								$j('#adminmenu').css({position:'fixed'});
+				$j(document).trigger('AdminMenu.ready');
+			} else {
+				$j('#adminmenu').hide();
+			}
+		}
+	});
+
+
+
+}
+var customerrefhovering=false;
+$j(document).ready(function () {
+   if($j('[name=order_customerid_external]').length!=0) {
+       $j('[name=order_customerid_external]').after('<div id="customerrefchooser" style="display: none; position: absolute; left: 750px; margin-top: -150px;  background: #eee; float:right; height: 180px; width: 500px; overflow: auto;" class="ui-widget ui-widget-content ui-corner-all"><img src="/Public/Images/spinner.gif"></img> </div>')
+       $j('[name=order_customerid_external]').focus(function(){
+                if(!customerrefhovering) $j('#customerrefchooser').fadeIn().load(ajaxFormatUrl('_ordercustomercandidates'),{order_id: ''});
+
+       }).blur(function(){     
+               if(!customerrefhovering) $j('#customerrefchooser').fadeOut();
+       });        
+
+       $j('#customerrefchooser').hover(function(){ customerrefhovering=true; }, function() { customerrefhovering=false; }).click(function(){
+            $j('input[name=order_customerid_external]').focus();
+       });
+   }
+
+});
+</script>
+<!-- CURRENT DB tc_brighton  -->
+
+	
+<script language="javascript">
+    QuickCart_checkQuckCart();
+</script>
+<div id="sub">
+<div id="trail">
+    <ul>
+        <li><a href="http://www.brighton.com/">Home</a></li>
+                <li>Privacy &amp; Security</li>
+    </ul>
+</div>
+<div id="stage">
+    <h2>Privacy &amp; Security</h2>
+		    
+        
+    <p></p><div class="with-list">
+At Brighton, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to www.brighton.com. Feel free to email us at <a href="mailto:brightoninfo@brighton.com">brightoninfo@brighton.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> with any questions you might have.
+<h3>What Information We Collect</h3>
+In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us. This information is used solely by Brighton and is stored in a secure environment. Under certain circumstances we do also collect the user's IP address, but only when we suspect that credit card fraud may have occurred. We also periodically conduct surveys of visitors to our Web site. This helps us better understand what our customers would like to see from us. We use this information for internal marketing research purposes. We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.
+<h3>Use of Information that You Provide</h3>
+At Brighton we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, gaining knowledge internally regarding what our customers want and mailing circulars and special offers from Brighton. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us, you can always remove yourself from our mailing list by sending an e-mail to <a href="mailto:brightoninfo@brighton.com">brightoninfo@brighton.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>.
+<h3>Opt-out Email policy</h3>
+We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us at any time, you can always remove your name from our mailing list by sending an email to <a href="mailto:brightoninfo@brighton.com">brightoninfo@brighton.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> stating that you wish to unsubscribe.
+<h3>Security of the Information You Provide</h3>
+Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology, which provides the highest level of security currently available for secure transactions, to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used.
+<br><br>Additionally, access to your Personal Information is provided only to our employees and agents who have a need to know such information for the purpose of fulfilling your order and offering our high level of customer service. The computers that store your Personal Information are located in a separate facility which employs the latest in firewall and security technology.
+<h3>Use of Cookies</h3>
+We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.
+<h3>Your Acceptance of these Terms</h3>
+By using our Web site, you agree to accept the Brighton privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove
+</div>
+<div style="clear:both;"> </div><br><br><p></p>
+    
+        
+    </div>
+
+<div style="clear: both;height: 0px;overflow: hidden;"></div>
+</div>
+
+<div id="footer">
+<script>
+jQuery('#stage').prepend('<div id=\"category_sublist\"><h3><A HREF=\"javascript:;\">About Us</a></h3><ul><li class=\"list-history\"><a href=\"http://www.brighton.com/content/history\">History</a></li><li class=\"list-brighton-cares\"><a href=\"http://www.brighton.com/content/cares\">Brighton Cares</a></li><li class=\"list-careers\"><a href=\"http://brightoncollectibles.com/careers\">Careers</a></li><li class=\"list-college\"><a href=\"http://www.brighton.com/content/college\">College Partner Program</a></li><li class=\"list-privacy\"><a href=\"http://www.brighton.com/content/privacy\">Privacy Policy</a></li><li class=\"list-terms-conditions\"><a href=\"http://www.brighton.com/content/terms\">Terms & Conditions</a></li><li class=\"list-global-citizenship\"><a href=\"http://www.brighton.com/content/global\">Global Citizenship</a></li></ul></div>');
+if (jQuery(".page-history").length != 0) {jQuery("ul li.list-history a").addClass('selected')}
+if (jQuery(".page-brighton-cares").length != 0) {jQuery("ul li.list-cares a").addClass('selected')}
+if (jQuery(".page-careers").length != 0) {jQuery("ul li.list-careers a").addClass('selected')}
+if (jQuery(".page-brighton-college-partner-program").length != 0) {jQuery("ul li.list-college a").addClass('selected')}
+if (jQuery(".page-privacy-security").length != 0) {jQuery("ul li.list-privacy a").addClass('selected')}
+if (jQuery(".page-terms-conditions").length != 0) {jQuery("ul li.list-terms-conditions a").addClass('selected')}
+if (jQuery(".page-global-citizenship").length != 0) {jQuery("ul li.list-global-citizenship a").addClass('selected')}
+
+</script>
+
+<div id="footermenu">
+<form enctype="multipart/form-data" method="get" action="http://www.brighton.com/search/0/0/1/1/" name="search_site">
+<div class="footer_marea1">
+<ul class="menu_footer1">
+
+        <li class="home" id="footer_li15"><a href="http://www.brighton.com/"><span>Home</span></a></li>
+            <li id="footer_li3"><a href="http://www.brighton.com/content/3/shipping-information.html"><span>Shipping Information</span></a></li>
+            <li class="cart" id="footer_li17"><a href="http://www.brighton.com/cart"><span>Shopping Bag</span></a></li>
+            <li id="footer_li19"><a href="http://www.brighton.com/order-status"><span>Order Status</span></a></li>
+            <li class="last_item" id="footer_li8"><a href="http://www.brighton.com/content/8/contact-us.html"><span>Contact Us</span></a></li>
+            <li class="stores" id="footer_li16"><a href="http://www.brighton.com/stores"><span>Store Locator</span></a></li>
+            <li class="last_item" id="footer_li23"><a href="http://www.brighton.com/Shop/Customer/Account"><span>My Account</span></a></li>
+        </ul></div><div class="footer_marea2"><ul class="menu_footer2">    <li class="last_item" id="footer_li4"><a href="privacy"><span>Privacy &amp; Security</span></a></li>
+            <li class="last_item" id="footer_li5"><a href="terms"><span>Terms &amp; Conditions</span></a></li>
+            <li class="last_item" id="footer_li88"><a href="global"><span>Global Citizenship</span></a></li>
+    
+</ul>
+</div>
+</form>
+</div>
+
+<div id="copyright">
+
+    <div id="banners">
+    <table>
+    <tbody><tr>
+            <td class="banner "><div id="backgroundDiv" onclick="disable_subscribe_pop();"></div>
+<div id="resp_div_signup" class="popup_box" style="background-color:#fff;"></div>
+
+<div id="footer_area">
+<div id="footer_menloo">
+<div id="footer_menkoo">
+<h3><a href="http://www.brighton.com/stores">Store Locator</a></h3>
+		
+<form name="zipForm" action="http://www.brighton.com/stores" method="post">
+<table cellspacing="0" cellpadding="0"><tbody>
+	<tr>
+		<td class="foot_td_text"><input class="modern_input mi_footer_enter_location input_field store_locator_input_value" name="zip" type="text" value="Enter City, State or Zip Code" onclick="javascript:if(this.value=='Enter City, State or Zip Code') this.value='';"></td>
+		<td class="foot_td_button"><input type="submit" class="modern_button mb_go" value="Go"></td>
+	</tr>
+</tbody></table>
+<input type="hidden" name="search" value="1">
+</form>
+
+</div>
+<div id="footer_menjoo">
+<ul>
+   <li id="footsignup">
+      <div class="email_signup">
+      <form name="confirmation" id="confirm">
+       <table cellspacing="0" cellpadding="0"><tbody><tr>
+        <td colspan="2" align="RIGHT"><h3>Keep me up to date on everything Brighton</h3></td>
+		</tr>
+		<tr>
+	<td><input class="modern_input mi_footer_email" id="email_address_24" name="address" type="text" value="Sign-up for Emails!" onclick="javascript:if(document.getElementById('email_address_24').value=='Sign-up for Emails!') document.getElementById('email_address_24').value=''" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24').click(); return false;}"></td>
+	<td id="td_for_signup"><input name="email_signup" id="email_signup_24" class="go_button" type="button" value="Sign Up!" onclick="return checksubscription();"></td>
+</tr></tbody></table>
+</form>
+   </div></li>
+</ul>
+</div>
+
+<div style="clear:both;"></div>
+</div>
+
+<div id="footer_mennoo">
+<div id="footer_menooo">
+<ul>
+	<li class="reversal"><h3><a href="http://www.brighton.com/content/history">About Us</a></h3>
+		<ul>
+			<li><a href="http://www.brighton.com/content/history">History</a></li>
+			<li><a href="http://www.brighton.com/content/cares">Brighton Cares</a></li>
+			<li><a href="http://brightoncollectibles.com/careers/">Careers</a></li>
+			<li><a href="http://www.brighton.com/content/college">College Partner Program</a></li>
+			<li><a href="http://www.brighton.com/content/privacy">Privacy Policy</a></li>
+			<li><a href="http://www.brighton.com/content/terms">Terms &amp; Conditions</a></li>
+			<li><a href="http://www.brighton.com/content/global">Global Citizenship</a></li>
+		</ul>
+	</li>
+	<li class="reversal"><h3><a href="http://brightoncollectibles.com/e-cards/">Bright Ideas</a></h3>
+		<ul>
+			<li><a href="http://www.brightonretail.com/calendar/weekly_view.php">Events</a></li>
+			<li><a href="http://brightoncollectibles.com/e-cards/">E-Cards</a></li>
+			<li><a href="http://www.brightoncollectibles.com/mobile/">Mobile</a></li>
+			<li><a href="http://www.brighton.com/charmbuilder/">Charm Builder</a></li>
+		</ul>
+	</li>
+	<li class="reversal"><h3><a href="http://www.brighton.com/contact">Customer Service</a></h3>
+		<ul>
+			<li><a href="http://www.brighton.com/contact">Contact Us</a></li>
+			<li><a href="http://www.brighton.com/content/34/faqs">FAQ's</a></li>
+			<li><a href="http://www.brighton.com/order-status">Order Status</a></li>
+			<li><a href="http://www.brighton.com/returns">Easy Returns</a></li>
+			<li><a href="http://www.brighton.com/content/shipping">Shipping Information</a></li>
+			<li><a href="http://www.brightoncollectibles.com/giftcard/">Gift Card Balances</a></li>
+            <li><a href="http://www.brighton.com/Shop/EmailNotification/Preferences">Email Preferences</a></li>
+		</ul>
+	</li>
+</ul>
+</div>
+<div id="footer_menqoo">
+<div style="clear:both;">
+<ul>
+	<li><a target="_other" href="http://twitter.com/#!/brighton"><img src="http://www.brighton.com/store_image/site/twitter.png"></a></li>
+<li><a target="_other" href="http://www.facebook.com/BrightonCollectibles"><img src="http://www.brighton.com/store_image/site/facebook.png"></a></li>
+<li style="padding-top:5px;"><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FBrightonCollectibles&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe></li>
+</ul>
+<div style="clear:both;"></div>
+</div>
+<div id="footer_menkey" style="padding:20px 0 0 0; text-align:right;">
+<a target="_other" href="http://www.brightonretail.com/"><img src="http://www.brighton.com/store_image/site/brighton_retailer_key.png"></a><a>
+</a></div><a>
+
+
+</a></div><a>
+<div style="clear:both;"></div>
+</a></div><a>
+</a></div><a>
+</a></td>
+            </tr>
+    </tbody></table>
+    </div>
+    <!-- <br> -->
+
+<div id="powered_by_torrey">
+© 2012  Brighton. All rights reserved.
+<script language="javascript">
+document.write("<br /><a href=http://www.torreycommerce.com id=torreypower>Powered by TorreyCommerce</a>");
+</script><br><a href="http://www.torreycommerce.com" id="torreypower">Powered by TorreyCommerce</a>
+</div>
+
+<br>
+
+<div id="footer_admin_links">
+<img src="http://www.brighton.com/stat.gif" width="1" height="1">
+</div>
+</div>
+</div>
+</div>
+
+<!-- BEGIN: Google Trusted Store -->
+	
+<!-- END: Google Trusted Store -->
+
+
+
+
+	<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9555&amp;cb=93647819797226110&amp;shcv=&amp;shcq=&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120614020240id_%2Fhttp%253A%2F%2Fwww.brighton.com%2Fcontent%2Fprivacy"></script><script type="text/javascript">
+	    var aid='9555';var tdr='';if (top.document.referrer != ''){tdr = encodeURIComponent(top.document.referrer);}var plh='';if (parent.location.href != ''){plh = encodeURIComponent(parent.location.href);}shpi = encodeURIComponent(shpi);(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*100000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid='+aid+'&cb='+a+'&shcv='+shcv+'&shcq='+shcq+'&shcp='+shcp+'&shpn='+shpn+'&shpc='+shpc+'&shpp='+shpp+'&shpb='+shpb+'&shpi='+shpi+'&tdr='+tdr+'&plh='+plh+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
+	</script>
+
+
+
+<script type="text/javascript">
+$j(window).load(function() {
+    function IsImageOk(img) {
+       return (!img.complete) ? false : !(typeof img.naturalWidth !="undefined" && img.naturalWidth == 0);
+    }
+    var root = "/";
+
+    for (var i = 0; i < document.images.length; i++) {
+        var src = document.images[i].src;
+        if(src.indexOf('cloudfront.net')==-1 && src.indexOf('s3.amazonaws.com/tc-photos/')==-1) continue;
+        if (!IsImageOk(document.images[i])) {
+            var newstr = document.images[i].src.replace("http://dfmlo8oja8g1e.cloudfront.net/","");
+            newstr = newstr.replace("http://d2oqjo3nc0aqra.cloudfront.net/","");
+            newstr = newstr.replace("http://s3.amazonaws.com/tc-photos/","");
+
+            var param = newstr.split('/');
+            if (param.length != 4) {
+                continue;
+            }
+            var imagesplit= param[3].split('.');
+            var newurl=root+'photos/'+param[1]+"/"+param[2]+"/"+param[0]+"0S"+imagesplit[0]+"/alt/"+param[3];
+            document.images[i].src = newurl;
+        }
+    }
+});
+</script>
+
+
+<!-- Generated on June 13, 2012, 7:02:38 pm -->
+<!-- Server web3 -->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"cloudflare.com/email-protection"==a.substr(7 ,31)){s='';j=44;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
+
+
+
+
+
+</body></html>
