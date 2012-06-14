@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidbux.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220133538id_/http%3A//www.vidbux.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidbux.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614024003id_/http%3A//www.vidbux.com/pages/privacy.html) for the most accurate reproduction.*
 
 # VidBux - Upload Videos, Make Profit
 
