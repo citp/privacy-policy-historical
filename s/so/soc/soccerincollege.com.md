@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccerincollege.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529040252id_/http%3A//soccerincollege.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerincollege.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614084650id_/http%3A//soccerincollege.com/privacy.aspx) for the most accurate reproduction.*
 
 # Sports In College
 
