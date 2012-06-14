@@ -1,8 +1,42 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222192510id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614070829id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
+[Patricia Pearl - Small Claims Procedure - A Practical Guide](http://consumeractiongroup.co.uk/paypal.php?go=pearl)  
+An excellent guide for the layperson in how to use the County Court - a must if you are intending to start a claim.
 
+£19.99 + £1.50 (P&P)
+
+* * *
+
+[Last Will and Testament Kit](http://consumeractiongroup.co.uk/paypal.php?go=willpack)
+
+  
+Make a legally valid will without the fuss and expense of a solicitor - includes a full step-by-step guide.
+
+£9.99 + £1.50 (P&P)
+
+[BAILIFFS - The Law and Your Rights](http://consumeractiongroup.co.uk/paypal.php?go=bailiff)
+
+  
+Written by John Kruse, one of the leading experts on Bailiff Law, this consumer friendly guide is essential reading for anyone who comes into contact with a bailiff. 
+
+The book is easy to understand and clearly explains the rights a bailiff has, and also what they cannot do when collecting debts and repossessing goods etc.
+
+£13.95 + £2.00 (P&P)
+
+[Reclaim the Right Ltd. - reg. 05783665 in the UK
+
+reg. office:  
+923 Finchley Road  
+London   
+NW11 7PE
+
+](http://www.consumeractiongroup.co.uk/forum/feedback.php)
+
+| 
+    
+    
     THE CONSUMER FORUMS PRIVACY POLICY
     
     This policy applies to all forums operated by Reclaim the Right Limited, and includes (but is not limited to) the Consumer Action Group, 
@@ -127,3 +161,12 @@
     
     Effective Date: July  05, 2006
     
+
+consumeractiongroup.co.uk   
+|  [](http://www.browsealoud.com/uk/videotours/) |    
+  
+  
+---|---  
+  
+[](http://www.consumersniper.com/)   
+[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)
