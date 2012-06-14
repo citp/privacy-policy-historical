@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109050927id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorsportal.eu privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614112000id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
 
 # StudyPortals: The European Study Choice Platform
 
