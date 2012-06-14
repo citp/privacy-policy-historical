@@ -1,25 +1,38 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203002629id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614061729id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy Page | BMIGaming.com / BMI Worldwide, Inc.
 
+> **  
+>   
+>   BMI Worldwide Privacy Policy Statement                                                    **
+> 
 > * * *
 > 
 > **  
-> Privacy Philosophy for[ www.bmigaming.com](http://www.bmigaming.com/) \- **BMI Worldwide, Inc. has created this website privacy policy statement in order to demonstrate our firm commitment to your online privacy. **Your privacy is very important to us**. This privacy policy describes the information we collect on our Web site, [bmigaming.com](http://www.bmigaming.com/) (the "Web Site" or "bmigaming.com"), and how we protect it. As necessary,  
+> _Last Updated   :  Tuesday, May 15, 2012  
+> _** **
+> 
+> Privacy Philosophy for
+> 
+> [ www.bmigaming.com](http://www.bmigaming.com/) **\- BMI Worldwide, Inc. has created this website privacy policy statement in order to demonstrate our firm commitment to your online privacy. **Your privacy is very important to us**. This privacy policy describes the information we collect on our Web site, [bmigaming.com](http://www.bmigaming.com/) (the "Web Site" or "bmigaming.com"), and how we protect it. As necessary,  
 > our privacy policy may be updated to meet the needs of consumers and partners. We will always post  
 > our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective  
 > upon posting pursuant to our notification of changes section. **We do not otherwise distribute any personally identifiable information** to any parties other than  
 > our authorized Partners and Agents and we do not authorize any of our Partners or Agents to resell or otherwise distribute any information that we provide them without prior approval from you. However, we  
 > and our authorized Partners _retain the right to sell and or to share_ _any _non-personally identifiable information._ _By using this Web Site, you are agreeing to accept the terms of our privacy policy as  
 > currently posted on the Web Site below. If you have any questions about our privacy policy,   
-> please email us at : [privacy@bmigaming.com](mailto:privacy@bmigaming.com) **COPPA (Children's Online Privacy Protection Act)** **Statement -** The Children's Online Privacy  
+> please email us at : [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=BMI%20Gaming%20:%20Privacy%20Policy%20Request)  
+>   
+>  **COPPA (Children's Online Privacy Protection Act)** **Statement -** The Children's Online Privacy  
 > Protection Act of April 2000 (COPPA) applies to the online collection of personal information from  
 > children under 13 years of age. In compliance with the Act, BMI Worldwide, Inc. does not collect any  
-> personally identifiable information from, nor conducts business with, any child under 18 years of age.
+> personally identifiable information from, nor conducts business with, any child under 18 years of age.  
+>  
 > 
 > * * *
 > 
->  **What non-personally identifiable information is collected and how is it used   **\- We collect and  
+>  **  
+> What non-personally identifiable information is collected and how is it used   **\- We collect and  
 > use your IP address to help diagnose problems with our server and to administer the Web Site. Your  
 > IP address is used to help identify you and previous promotion selections on the BMI Worldwide, Inc.  
 > website. We also collect information such as browser type, domain name, access time, and page  
@@ -29,8 +42,9 @@
 > 
 > ** \- You may request information on products,  
 > and services on the Web Site by using our inquiry and order forms, which may ask you to provide your unique identifier (like a login ID), email address and/or financial information (like your credit card number) but only when needed for a specific transaction. Your financial information is used strictly to bill you for products and services, and your unique identifier (if implemented) is used to verify your identity in our record system. All non-financial information that you submit on our order forms are collected and stored  
-> by us, and may be provided to one of our Partners (as this term is defined in this policy). We use such personally identifiable information provided by you on the order form to fulfill your requests, and to contact you in the future via email informing you of our products and services. You may choose to "opt-out" from receiving such information from us at any time, by clicking the link on our product emails to remove your  
-> name from our mailing list, or emailing us at [opt-out@bmigaming.com](mailto:opt-out@bmigaming.com) or by writing to us at : _Privacy Department, BMI Worldwide, Inc., Inc., 3500 NW Boca Raton Blvd, Boca Raton, FL 33432._ .
+> by us, and may be provided to one of our Partners (as this term is defined in this policy). We use such personally identifiable information provided by you on the order form to fulfill your requests, and to contact you in the future via email informing you of our products and services. You may choose to "opt-out" from receiving such information from us at any time, by following the instructions at the bottom on our emails  
+> to permanently remove your email address from our mailing list, or by emailing us with the single word "STOP" in the message subject header to : [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=STOP) or by writing us via mail with your  
+> email address included to : _BMI Worldwide, Inc., Attn : Privacy Department, 3500 NW Boca Raton Boulevard, Building 721, Boca Raton, Florida, 33431, USA_
 > 
 >  **Online Surveys **- **** We sometimes ask you to complete our online surveys on our web site or those of  
 > our partners. You may be asked to provide contact information (like email addresses) and demographic information (like your zip code, age, or income level). Participation in these surveys is optional, but does help us provide complete customer satisfaction. The personally identifiable information that we collect  
@@ -40,13 +54,11 @@
 >  **Contests **- **** BMI Worldwide, Inc. may have relationships with businesses in the future that contribute and/or offer promotions on the bmigaming.com website, and with the web sites that carry the promotions offered by these businesses, referred to as "Partners". Certain Partners may run contests, sweepstakes, and other promotions on our site from time to time. To participate, you may be asked for to provide us or them with certain personally identifiable information and other information and materials. Any such information that you submit is collected by us (and may be shared with our Partners) and/or our Partner (and may be shared with us) running the contest, sweepstakes, or other promotion and will be used in accordance  
 > with the Official Rules, if provided in connection with such contest, sweepstakes, or other promotion.
 > 
->  **Contact Us and Feedback Forms **\- BMI Worldwide, Inc. collects contact information (like your email address) on Contact Us, Sales Inquiry and Feedback Forms, and from affiliate websites we own. The personally identifiable information that we collect from these forms is used to better understand your   
-> needs and provide you with the type of services and information that you may be interested in. We   
-> may store such information to be used for future mailings or to contact you. You may choose to   
-> "opt-out" from receiving such information from us at any time, by clicking the link on our broadcast  
-> emails to remove your name from our mailing list, or by emailing us at [opt-out@bmigaming.com](mailto:opt-out@bmigaming.com)  
-> or by writing to us at : _Privacy Department, BMI Worldwide, Inc., Inc., 3500 NW Boca Raton Blvd,  
->  Building 721, Boca Raton, FL 33431, USA._  
+>  **Forms, Emails and Online Chat **\- BMI Worldwide, Inc. collects contact information (like your email address) on many forms you may use to contact us on our website (s), as well as emails you send  
+> us, or if you engage in a online chat with us and/or other affiliate websites we own. The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store  
+> such information to be used for future mailings or to contact you. You may choose to "opt-out" from receiving information from us at any time, by following the instructions at the bottom on our emails to permanently remove your email address from our mailing list, or by emailing us with the single word "STOP" in the message subject header to : [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=STOP) or by writing us via mail with  
+> your email address included to : _BMI Worldwide, Inc., Attn : Privacy Department, 3500 NW Boca  
+>  Raton Boulevard, Building 721, Boca Raton, Florida, 33431, USA_  
 >  **  
 > Legal Requirements **\- We may be required disclose personally identifiable information to other parties  
 > if required to do so by law or if we reasonably believe that such action is necessary to conform to the  
@@ -73,9 +85,10 @@
 >  **  
 > Do you give out Cookies? **\- For your convenience, we may place cookies on your computer, so we can keep track of your personal information and previous promotion selections, make sure that you don't see the same promotional offer repeatedly, and otherwise customize your experience on the Web Site. Cookies are small text files from a Web site that are stored on your hard drive. Cookies themselves do not contain any personally identifiable information. If your system does not accept cookies, we may not be able to customize your experience and you may not be able to accept any promotional or sale offers from us.
 > 
->  **What organization is collecting the information?** \- All information that you provide on the Web Site  
-> is collected by BMI Worldwide, Inc. and/or our Partners. Click here to find more information about [BMI Worldwide, Inc.](http://www.bmigaming.com/bmiprofile.htm)  
->  **  
+>  **What organization is collecting the information?** \- All information that you provide on the website,  
+> or via emails, chats, forms or other forms of communication with us is collected by BMI Worldwide,  
+> Inc. and/or our partners and affiliates on our behalf.   
+> **  
 > Do you share any of my information with others? **\- We may share personally identifiable information and non-personally identifiable information about our customers (i.e., information that does not identify individual users such as individual or aggregate demographic information) with our authorized Partners  
 > that perform functions on our behalf or on behalf of our Partners, such as companies or individuals that deliver packages, fulfill orders, provide marketing assistance, process credit card payments, analyze  
 > data, or provide customer service (collectively, "Agents"). Personally identifiable information is shared  
@@ -87,23 +100,30 @@
 > sell and otherwise share _non-personally identifiable_ , and/or aggregate information with other third parties.
 > 
 >  **Can I control how you collect, use and distribute my personal information? **-  All your personally identifiable information that we collect on the web site is provided to us voluntarily by users. We provide  
-> you with the opportunity to opt-out of receiving emails from us by emailing us at [opt-out@bmigaming.com](mailto:opt-out@bmigaming.com)  
-> or by writing to us at : _Privacy Department, BMI Worldwide, Inc., Inc., 3500 NW Boca Raton Boulevard, Building 721, Boca Raton, FL 33431, USA._ We urge all Partners to give you the opportunity to opt-out of  
-> receiving future communications from them. However, we cannot monitor or guarantee that our Partners will provide you with such opt-out opportunity. If you wish to remove your personally identifiable information from our database and not receive future communications from us, you can contact us as provided below. If you wish to remove your personal information from the database of our Partners to whom we provided your information, you must contact them directly.
+> you with the opportunity to opt-out of receiving emails from us at any time, by following the instructions  
+> at the bottom on our emails to permanently remove your email address from our mailing list, or by   
+> mailing us with the single word "STOP" in the message subject header to : [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=STOP)  
+> or by writing us via mail with your email address included to : _BMI Worldwide, Inc., Attn : Privacy Department, 3500 NW Boca Raton Boulevard, Building 721, Boca Raton, Florida, 33431, USA_  
+>  We also urge all partners to give you the opportunity to opt-out of receiving future communications  
+> from them. However, we cannot monitor or guarantee that our Partners will provide you with such  
+> opt-out opportunity. If you wish to remove your personally identifiable information from our database  
+> and not receive future communications from us, you can contact us as provided below. If you wish  
+> to remove your personal information from the database of our Partners to whom we provided your information, you must contact them directly.
 > 
->  **What kind of security is in place to protect the loss, misuse or alteration of information under the company's control ?** \- Our web site has various security measures in place to protect the loss, misuse, and alteration of the information under our control. BMI Worldwide, Inc. operates a secure data network  
-> that is protected by industry standard firewall and password protection systems. All financial information  
-> is encrypted and securely transferred for fulfillment purposes with our Partners, and then stored in a  
-> password-protected database. Our security and privacy policies are periodically reviewed and /or enhanced as necessary, and only authorized individuals have access to the information provided  
-> by our customers. And our entire website is certified on a daily basis to be performing optimally  
-> and to be totally "hacker-free" by ScanAlert and AlertSafe web site monitoring companies.
+>  **What kind of security is in place to protect the loss, misuse or alteration of information under  
+>  the company's control ?** \- Our web site has various security measures in place to protect the loss, misuse, and alteration of the information under our control. BMI Worldwide, Inc. operates a secure  
+> data network that is protected by industry standard IPS firewalls and password protection systems.  
+> All financial information is encrypted and securely transferred for fulfillment purposes with our   
+> Partners, and then stored in a password-protected database. Our security and privacy policies  
+> are periodically reviewed and /or enhanced as necessary, and only authorized individuals have  
+> access to the information provided by our customers. And our entire website domain is certified  
+> daily to be performing optimally and to be "hacker and malware free" by several monitoring firms.
 > 
->  **How you can correct any inaccuracies in the information?** \- You can change or modify the personal  
-> information previously provided by you at any time. If you wish to change or modify your information,  
-> deactivate your account, stop receiving future communications from us, or have any questions  
-> about this privacy statement or your dealings with the Web Site, you can:
+>  **How you can correct any inaccuracies in the information?** \- You can change or modify the  
+> personal information previously provided by you at any time. If you wish to change or modify your information, deactivate your account, stop receiving future communications from us, or have  
+> any questions about this privacy statement or your dealings with the Web Site, you can:
 > 
->   1. Email [privacy@bmigaming.com](mailto:privacy@bmigaming.com)   
+>   1. Email [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=BMI%20Gaming%20:%20Privacy%20Policy%20Request)   
 > 
 >   2. Send postal mail to the following postal address:
 > 
@@ -113,7 +133,8 @@
 > Boca Raton, FL 33431 USA   
 > Attn: 
 > 
-> _**Privacy Department**_
+> _**Privacy Department  
+>   **_
 > 
 
 > 
@@ -123,4 +144,4 @@
 
 [](http://www.bmigaming.com/mastergameselect.htm)
 
-**[](https://web.archive.org/web/20111203002629id_/http%3A//www.bmigaming.com/termsofaccess.htm)
+**[](https://web.archive.org/web/20120614061729id_/http%3A//www.bmigaming.com/termsofaccess.htm)
