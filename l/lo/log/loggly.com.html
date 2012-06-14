@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the loggly.com privacy policy that was archived on 2011-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111118175127id_/http%3A//loggly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loggly.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614150100id_/http%3A//loggly.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
       <title>Privacy Policy | Loggly</title>
     
-    <link href="/theme/4dbecb59dabe9d5ae300008d/stylesheets/reset,loggly,syntax,jquery.ui.css" rel="stylesheet" type="text/css">
+    <link href="/theme/4dbecb59dabe9d5ae300008d/stylesheets/reset,loggly,syntax,jquery.ui,tipsy.css" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -18,9 +18,14 @@
         <meta name="keywords" content="Log management, manage logs, analyze logs, operations, log management operations, data analysis, time series data, root cause analysis, alerting, debugging, troubleshooting, root cause analysis, security investigation, stored searches, dashboarding, cloud computing, SaaS">
     
     
+    <!-- auto redirects for Support section -->
+    
+    
+    
+    
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/ktd2oxm.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script src="/theme/4dbecb59dabe9d5ae300008d/javascripts/jquery,jquery.qtip,jquery.cookie,jquery.ui,jquery.linkify,fancyzoom.min,cookie,loggly,pricing,time.js" type="text/javascript"></script>
+    <script src="/theme/4dbecb59dabe9d5ae300008d/javascripts/jquery,jquery.qtip,jquery.cookie,jquery.ui,jquery.linkify,fancyzoom.min,cookie,loggly,pricing,time,tipsy.js" type="text/javascript"></script>
     <link rel="shortcut icon" href="/assets/4e162874dabe9d25e00048c8/favicon.ico" type="image/x-icon">
     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -33,6 +38,17 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
+      //marketo munchkin
+      $.ajax({ 
+          url: document.location.protocol + '//munchkin.marketo.net/munchkin.js', 
+          dataType: 'script', 
+          cache: true, 
+          success: function() { 
+            Munchkin.init('734-FWR-987'); 
+          } 
+      });
+      
+      
     </script>
 
     <script type="text/javascript">
@@ -55,13 +71,17 @@
         };
       }());
     </script>
+    <!-- start Mixpanel --><script type="text/javascript">(function(d,c){var a,b,g,e;a=d.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===d.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';b=d.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);c._i=[];c.init=function(a,d,f){var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";g="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config".split(" ");
+for(e=0;e<g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
+mixpanel.init("d30fc9eeac0d785681e9f3790a549cb7");</script><!-- end Mixpanel -->
+
   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
   <body>
     <header>
       <h1><a href="/">Loggly</a></h1>
       <ul id="nav">
           <li id="nav-features">
-              <a href="/features/">Features</a>
+              <a href="/features/">Product</a>
           </li>
           <li id="nav-pricing-signup">
             <a href="https://app.loggly.com/pricing/">Signup</a>
@@ -82,15 +102,15 @@
           <div id="subdomain_box">
               <form method="post" class="target">
                 <a href="#" id="subdomain_box_close">Close</a>
-                  <p>
                       <label for="id_subdomain_popup">Enter your subdomain</label>
                       <input type="text" autocapitalize="off" name="subdomain" maxlength="30" id="id_subdomain_popup">
-                  </p>
                   <div class="errorhidden error"></div>
                   <input type="hidden" value="/" name="next">
                 <p class="password_reset">If you don't know the subdomain for your account, you can retrieve it by <a href="https://app.loggly.com/accounts/password/reset/">resetting your password</a>.  If you don't have an account, <a href="https://app.loggly.com/pricing">signup now</a>.
               </p>
+   
               </form>       
+              
           </div>
       </div>
       <div class="clear"></div>
@@ -192,6 +212,7 @@
           </ul>
           <h3><a href="/support/">Support</a></h3>
           <ul>
+            <li><a href="/status/">Service Status</a></li>
             <li><a href="mailto:support@loggly.com">Contact</a></li>
             <li><a href="http://wiki.loggly.com/">Wiki</a></li>
             <li><a href="http://forum.loggly.com/">Forum</a></li>
@@ -214,10 +235,10 @@
             
             <li><a href="/company/swag/">Swag</a></li>
             
-            <li><a href="/company/videos/">Videos</a></li>
-            
           </ul>
+          <h3><a href="http://loggly.myshopify.com">Shop</a></h3>
         </div>
+
         <div class="section externals">
           <ul>
             <li><a href="http://twitter.com/loggly" class="twitter" target="_blank">Twitter</a></li>
@@ -227,11 +248,13 @@
         </div>
       </div>
       <div class="section twitter">
-        <h3>Just in from <a href="http://twitter.com/loggly" target="_blank">@loggly</a></h3>
+        <h3>Just in from <a href="http://twitter.com/loggly" target="_blank" class="twitter_handle_link">@loggly</a></h3>
         <p class="tweet" id="tweet_tweet"></p>
         <p class="meta">Posted a few minutes past a while ago.</p>
       </div>
-      <p class="copyright">© 2011 Loggly, Inc., All Rights Reserved</p>
+      <p class="copyright">© 2012 Loggly, Inc., All Rights Reserved</p>
+        <script type="text/javascript">var llactid=21903;if("https:"==document.location.protocol){var i;var llactid;var myid;myid=1;mypage=escape(location.href);myref=escape(document.referrer);myip=escape(location.hostaddress);if(i!="undefined"){if(i>10000){myid=i;}}if(llactid!="undefined"){if(llactid>10000){myid=llactid;}}if(myref==""){myref="None";}if(mypage==""){mypage="Unavailable";}var linkreefer="https://trackalyzer.com:443/trackalyze_secure.asp?r="+myref+"&p="+mypage+"&i="+myid;document.write("<img src='"+linkreefer+"'>");function Trackalyzer(myid,page){var mypage=escape(location.href);var myref=escape(document.referrer);var myip=escape(location.hostaddress);var forward=false;if(page!=null){mypage=page;forward=true;};if(myref==""){myref="None";};if(mypage==""){mypage="Unavailable";};var linkreefer="https://trackalyzer.com:443/trackalyze_secure.asp?i="+myid+"&r="+myref+"&p="+mypage+"&f="+forward;document.write("<img src='"+linkreefer+"'>");if(forward==true){window.location=(mypage)};}}else{var i;var llactid;var myid;var llnocookies;myid=1;mypage=escape(location.href);myref=escape(document.referrer);myip=escape(location.hostaddress);if(i!="undefined"){if(i>10000){myid=i;}}if(llactid!="undefined"){if(llactid>10000){myid=llactid;}}if(myref==""){myref="None";}if(mypage==""){mypage="Unavailable";}var linkreefer="http://t6.trackalyzer.com/trackalyze.asp?r="+myref+"&p="+mypage+"&i="+myid+"&llnocookies="+llnocookies;document.write("<img src='"+linkreefer+"'>");function Trackalyzer(myid,page,pass){var currentpage=(location.href);var mypage=escape(location.href);var myref=escape(document.referrer);var myip=escape(location.hostaddress);var forward=false;if(pass=='xxx'){forward=true;};if(page!=null){forward=true;mypage=page;};if(myref==""){myref="None";};if(mypage==""){mypage="Unavailable";};var linkreefer="http://t6.trackalyzer.com/trackalyze.asp?i="+myid+"&r="+myref+"&p="+mypage+"&f="+forward;document.write("<img src='"+linkreefer+"'>");if(forward==true){window.location=(currentpage);window.open(mypage)};}}</script><img src="https://trackalyzer.com:443/trackalyze_secure.asp?r=None&amp;p=https%3A//web.archive.org/web/20120614150100id_/http%253A//loggly.com/privacy&amp;i=21903">
     </footer>
+
   
-<div id="zoom" style="display:none;">                   <table id="zoom_table" style="border-collapse:collapse; width:100%; height:100%;">                     <tbody>                       <tr>                         <td class="tl" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="tm" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;"></td>                         <td class="tr" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="ml" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;"></td>                         <td class="mm" style="background:#fff; vertical-align:top; padding:10px;">                           <div id="zoom_content">                           </div>                         </td>                         <td class="mr" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="bl" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="bm" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;"></td>                         <td class="br" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                     </tbody>                   </table>                   <a href="#" title="Close" id="zoom_close" style="position:absolute; top:0; left:0;">                     <img src="/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/closebox.png" alt="Close" style="border:none; margin:0; padding:0;">                   </a>                 </div></body></html>
+<div id="zoom" style="display:none;">                   <table id="zoom_table" style="border-collapse:collapse; width:100%; height:100%;">                     <tbody>                       <tr>                         <td class="tl" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="tm" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;"></td>                         <td class="tr" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="ml" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;"></td>                         <td class="mm" style="background:#fff; vertical-align:top; padding:10px;">                           <div id="zoom_content">                           </div>                         </td>                         <td class="mr" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="bl" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="bm" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;"></td>                         <td class="br" style="background:url(/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                     </tbody>                   </table>                   <a href="#" title="Close" id="zoom_close" style="position:absolute; top:0; left:0;">                     <img src="/theme/4dbecb59dabe9d5ae300008d/stylesheets/images/closebox.png" alt="Close" style="border:none; margin:0; padding:0;">                   </a>                 </div><iframe style="display: none;"></iframe></body></html>
