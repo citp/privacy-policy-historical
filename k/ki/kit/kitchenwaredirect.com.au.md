@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenwaredirect.com.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005807id_/http%3A//www.kitchenwaredirect.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenwaredirect.com.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615004401id_/http%3A//www.kitchenwaredirect.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # Kitchenware Direct Australia - Privacy & Security Policy
 
