@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the futuresimple.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083620id_/http%3A//www.futuresimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresimple.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614050258id_/http%3A//www.futuresimple.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy| Future Simple
 
-PipeJump or QuoteBase ("The Service") are online services provided by FutureSimple Inc. ("The Company"). The Company is committed to protect the privacy of its customers and this Privacy Policy outlines what kinds of information we collect and the way that we may use it. 
+Base or QuoteBase ("The Service") are online services provided by FutureSimple Inc. ("The Company"). The Company is committed to protect the privacy of its customers and this Privacy Policy outlines what kinds of information we collect and the way that we may use it. 
 
-  * In order to use The Service, we need you to provide us with information such as your company's name, your name and email address. If you'd like to use a paid version of The Service, The Company will need your credit card and billing information as well.
+  * In order to use The Service, we need you to provide us with information such as your company's name, your name and email address. If you'd like to use a paid version of The Service, The Company will need your credit card and billing information as well. The company also collects application usage statistics.
   * The Company uses the information that was gathered in order to service you, bill you and perform research regarding the usage of The Service.
   * The Company will not sell this information, rent it or exchange it with any third party.
   * However, if requested by law, The Company holds its right to share your information with the authorities.
