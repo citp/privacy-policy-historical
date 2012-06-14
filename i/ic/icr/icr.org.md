@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223931id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614060446id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Institute for Creation Research and its agents will not give or sell personal information about you to another organization. 
+The Institute for Creation Research will not give or sell personal information that you enter on our website to another organization.
 
 No information is collected other than data that is typically collected by web sites in general. If you choose to provide additional information, such as signing up for a free subscription, this will allow us to serve you better.
+
+Our website uses Google Analytics. [Click here](http://www.google.com/goodtoknow) for more information on managing the data your browser shares with Google.
 
 If you no longer wish to receive our email publications, please [click here](http://www.icr.org/change) to unsubscribe. To request removal from our print mailing list, please send your name and postal address to [subscriptions@icr.org](mailto:subscriptions@icr.org).
 
