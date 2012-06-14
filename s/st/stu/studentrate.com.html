@@ -1,29 +1,22 @@
-<!--The following is the downloaded HTML source of the studentrate.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224042731id_/http%3A//www.studentrate.com/studentrate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentrate.com privacy policy that was archived on 2012-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614105322id_/http%3A//studentrate.com/StudentRate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta id="ctl00_MetaDescription" name="description" content="Studentrate deal page for user login and displaying hottest local and national deals.  User can search deal for school or deal category."><meta id="ctl00_MetaKeyword" name="keyword" content="Student Rate, School Reviews, Deals, Hot, Local, Event, Students, Ratings, Best of everything,"><meta name="verify-v1" content="pYi8atLa4nThjOP13EYCXSPl8jh/kW+faN23ylnCKwU=">
-    <!-- BEGIN embed 3D Carousel / include SWFObject Java file -->
-    
-    <!-- END embed 3D Carousel -->
-     <title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta id="ctl00_MetaDescription" name="description" content="Studentrate deal page for user login and displaying hottest local and national deals.  User can search deal for school or deal category."><meta id="ctl00_MetaKeyword" name="keyword" content="Student Rate, School Reviews, Deals, Hot, Local, Event, Students, Ratings, Best of everything,"><meta name="verify-v1" content="pYi8atLa4nThjOP13EYCXSPl8jh/kW+faN23ylnCKwU="><title>
 	StudentRate - Privacy Statement
 </title>
-     <link href="../Styles/RadStyles.css" rel="stylesheet" type="text/css">
-     <link rel="stylesheet" href="../Styles/css/style.css" type="text/css" media="all">
+     
      <script type="text/javascript" src="../styles/js/jquery.js"></script>
 		<script type="text/javascript" src="../styles/js/jquery-easing.js"></script>
 		<script type="text/javascript" src="../styles/js/fns.js"></script>
 <script type="text/javascript" src="../styles/js/floatingDiv.js"></script>
 
-<link rel="stylesheet" type="text/css" href="../MasterPage/Skins/Window.css">
-<link rel="stylesheet" type="text/css" href="../MasterPage/Skins/MyCustomSkin/Window.MyCustomSkin.css">
+<link rel="stylesheet" href="../../css/style.css" type="text/css" media="all">
+	<script type="text/javascript" src="../../js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="../../js/functions.js"></script>
+
 
     
-    
-    <!--<link href="../Styles/RadStyles.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="../Scripts/date.js"></script>
-
-<script type="text/javascript" src="../../Assets/Scripts/formfocus.js"></script>-->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
@@ -50,14 +43,15 @@
 
 <script type="text/JavaScript">
 <!--
+    var loginFailed = false;
 
     function OnClientClose(sender, args) {
         window.location.reload(true);
     }
 
     function ShowRegisterFromFacebook() {
-        oWindow = window.radopen('../../Login.aspx' + '?register=1', 'DialogWindow');
-        oWindow.SetSize(550, 635);
+        oWindow = window.radopen('../../Register.aspx', 'DialogWindow');
+        oWindow.SetSize(500, 450);
         oWindow.Center();
     }
 
@@ -68,11 +62,35 @@
         oWindow.Center();
     }
 
+    function ShowSimpleRegister(dealid, locationid, register) {
+        var oWindow;
+
+        if ('False' == 'True') {
+            if (dealid != '' && locationid != '')
+                oWindow = window.radopen('../../Register.aspx' + '?deal=' + dealid + '&location=' + locationid, 'CouponWinwod');
+            else if (dealid != '')
+                oWindow = window.radopen('../../Register.aspx' + '?deal=' + dealid + '&location=' + locationid, 'CouponWinwod');
+            else
+                oWindow = window.radopen('../../Register.aspx', 'CouponWinwod');
+        }
+        else {
+            if (dealid != '' && locationid != '')
+                oWindow = window.radopen('../../Register.aspx' + '?deal=' + dealid + '&location=' + locationid, 'DialogWindow');
+            else if (dealid != '')
+                oWindow = window.radopen('../../Register.aspx' + '?deal=' + dealid + '&location=' + locationid, 'DialogWindow');
+            else
+                oWindow = window.radopen('../../Register.aspx', 'DialogWindow');
+        }
+
+        oWindow.SetSize(500, 460);
+        oWindow.Center();
+    }
+
     function ShowRegister(dealid, locationid, register) {
         var oWindow;
 
         if (register != null) {
-            oWindow = window.radopen('../../Login.aspx?register=1', 'CouponWinwod');
+            oWindow = window.radopen('../../Register.aspx', 'CouponWinwod');
         } else {
 
             if ('False' == 'True') {
@@ -93,7 +111,7 @@
             }
         }
         
-        oWindow.SetSize(550, 635);
+        oWindow.SetSize(450, 395);
         oWindow.Center();
     }
 
@@ -191,7 +209,7 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
 
 //-->
 
-    </script>
+</script>
    
 
     <script type="text/JavaScript">
@@ -227,45 +245,69 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
     </script>
 <script type="text/javascript">function displayServerErrors(){};</script>
 
-<link href="/StudentRate/WebResource.axd?d=Jd7IF3CCrE_eyiXaOAVrcChyg5JBS6zrGGyxYNWU0WwBUnRRvWkOBjcbP9JAqfi7dPed5cXUUGxrKoM_I_wRZX_oUea3t8yn5qgTUt1aOSD_PFk8f3spMFVx6DjcWvyaA8IeTeEpP-fvj7v2xZBmb9ozoY01&amp;t=633957930320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/StudentRate/WebResource.axd?d=c_9Uxe47SgR26HQdES05msM4F395SpzrodPVmhjys-EfVnQFhj86A1zg_RLtoIO4nVyZMjoQf0XaOFucAH79nCdhl-3PkkATqQT7PD1X107T_Ir7Is06wdGiolJ2fFBcvKxjyHLS0RhXssz1_V1E_Jz8FSBtxbEB6sFjZnKGNNrqphEQ0&amp;t=633957930320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/StudentRate/WebResource.axd?d=nONPvSkmsEpC8KSjbV1zY1pfrS6d8iGujiunQ3TKNElSbrXTyRN5SakF0Bl9d-ExjE27DAefH4TwrFaHSc2hu8L402FiPM09Ll5YaArx_qe6D6g9AYgUZBn5c2DDHkcFp_u6CQ2&amp;t=633957930320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/StudentRate/WebResource.axd?d=pOcdzHr5g_BNnlq9MjCpEzDMnfjUxU1QieQwN4WeJSdyjrEOJ5R6Ov-6TCqcIdYzAxH1_9RJGCZjpLXpY7Pz_AXl8OUPlJgNg5V7U4xj8EvNWQnRh01SRKzEb6L63b96f7pv0lKEMVGD_05piiKESbV29gQ1&amp;t=633957930320000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=4ba4f8ecb3df9e94142e8eb4af6c0fc6"></script></head>
+<script type="text/javascript">
+    function SubmitSearch() {
+        alert('test');
+        window.location = "/studentrate/googlesearchresults.aspx";
+    }
+</script>
+
+<link href="/StudentRate/WebResource.axd?d=nONPvSkmsEpC8KSjbV1zY1pfrS6d8iGujiunQ3TKNElSbrXTyRN5SakF0Bl9d-ExjE27DAefH4TwrFaHSc2hu8L402FiPM09Ll5YaArx_qe6D6g9AYgUZBn5c2DDHkcFp_u6CQ2&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/StudentRate/WebResource.axd?d=pOcdzHr5g_BNnlq9MjCpEzDMnfjUxU1QieQwN4WeJSdyjrEOJ5R6Ov-6TCqcIdYzAxH1_9RJGCZjpLXpY7Pz_AXl8OUPlJgNg5V7U4xj8EvNWQnRh01SRKzEb6L63b96f7pv0lKEMVGD_05piiKESbV29gQ1&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 		
 
-
 <body onload="placeIt(); initialize();MM_preloadImages('../Assets/Images/newdesign/ratings_mouseover.gif','../Assets/Images/newdesign/events_mouseover.gif','../../Assets/Images/newdesign/best_mouseover.gif','../../Assets/Images/newdesign/whatshot_mouseover.gif','../../Assets/Images/newdesign/guides_mouseover.gif')">
-
-<div id="fb-root"></div>
-  <script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            appId      : '4ba4f8ecb3df9e94142e8eb4af6c0fc6',
-            status     : true, 
-            cookie     : true,
-            xfbml      : true
-          });
-
+    <div id="fb-root">
+    </div>
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '163834633657387',
+                channelUrl: '//StudentRate.com/channel.html',
+                cookie: true,
+                xfbml: true,
+                oauth: true,
+                status: true
+            });
+            
+            FB.getLoginStatus(function (response) {
+                if (response.status === 'connected' && !loginFailed) {
+                    window.onload = function () {
+                        var uid = response.authResponse.userID;
+                        var accessToken = response.authResponse.accessToken;
+                        document.getElementById('ctl00_accessToken').value = accessToken;
+                        document.forms[0].submit();
+                    }
+                } else {
+                    FB.Event.subscribe('auth.login', function (response) {
+                        if (response.status === 'connected') {
+                            var uid = response.authResponse.userID;
+                            var accessToken = response.authResponse.accessToken;
+                            document.getElementById('ctl00_accessToken').value = accessToken;
+                            document.forms[0].submit();
+                        }
+                    });
+                }
+            });
+            
         };
-        (function(d){
-           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=4ba4f8ecb3df9e94142e8eb4af6c0fc6";
-           d.getElementsByTagName('head')[0].appendChild(js);
-         }(document));
-      </script>
- 
-
-
-
-<input name="ctl00$hdnDomain" type="hidden" id="ctl00_hdnDomain" value="usm-maine">
+        (function (d) {
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        } (document));
+    </script>
+<input name="ctl00$hdnDomain" type="hidden" id="ctl00_hdnDomain" value="all">
 
  
      <script src="../../Assets/Scripts/astracker.js" type="text/javascript">
     </script>
     <!--Site Container Open-->
-    <form name="aspnetForm" method="post" action="privacystatement.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgRmD2QWBAIDDxYCHgdjb250ZW50BYgBU3R1ZGVudHJhdGUgZGVhbCBwYWdlIGZvciB1c2VyIGxvZ2luIGFuZCBkaXNwbGF5aW5nIGhvdHRlc3QgbG9jYWwgYW5kIG5hdGlvbmFsIGRlYWxzLiAgVXNlciBjYW4gc2VhcmNoIGRlYWwgZm9yIHNjaG9vbCBvciBkZWFsIGNhdGVnb3J5LmQCBA8WAh8ABV5TdHVkZW50IFJhdGUsIFNjaG9vbCBSZXZpZXdzLCBEZWFscywgSG90LCBMb2NhbCwgRXZlbnQsIFN0dWRlbnRzLCBSYXRpbmdzLCBCZXN0IG9mIGV2ZXJ5dGhpbmcsZAICD2QWEAIDD2QWBAIBDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh8BaGRkAgQPZBYCAgEPEGQPFgJmAgEWAhAFBlBlb3BsZQUGUGVvcGxlZxAFCUFsbCBTaXRlcwUJQWxsIFNpdGVzZxYBAgFkAgYPFgIeBGhyZWYFPn4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPXVzbS1tYWluZSZ0aXRsZT1WZW5kb3JzZAIHDxYCHwIFQn4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPXVzbS1tYWluZSZ0aXRsZT1Mb2NhbF9EZWFsc2QCCw8UKwACDxYGHgRUZXh0BRxVbml2ZXJzaXR5IG9mIFNvdXRoZXJuIE1haW5lHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2geE2NhY2hlZFNlbGVjdGVkVmFsdWVkZA8UKwACFCsAAg8WBh8DBQtBbGwgU2Nob29scx4FVmFsdWUFATAeCFNlbGVjdGVkaGRkFCsAAg8WBh8DBRxVbml2ZXJzaXR5IG9mIFNvdXRoZXJuIE1haW5lHwYFBDU4NzYfB2dkZA8UKwECZmYWAQV4VGVsZXJpay5XZWIuVUkuUmFkQ29tYm9Cb3hJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDA5LjMuMTIwOC4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FghmDw8WBB4IQ3NzQ2xhc3MFCXJjYkhlYWRlch4EXyFTQgICZGQCAQ8PFgQfCAUJcmNiRm9vdGVyHwkCAmRkAgIPDxYGHwMFC0FsbCBTY2hvb2xzHwYFATAfB2hkZAIDDw8WBh8DBRxVbml2ZXJzaXR5IG9mIFNvdXRoZXJuIE1haW5lHwYFBDU4NzYfB2dkZAIPDxYCHwIFL34vU2Nob29sL0Jlc3RPZkV2ZXJ5VGhpbmcvQmVzdE9mRXZlcnlUaGluZy5hc3B4ZAIQDxYCHwIFa34vU2Nob29sL0RlYWxzL0RlYWxTZWFyY2hSZXN1bHQuYXNweD9TY2hvb2xJZD01ODc2JkNhdGVnb3J5SWQ9MCZMb2NhbD0xJnNjaG9vbD1Vbml2ZXJzaXR5IG9mIFNvdXRoZXJuIE1haW5lZAIRDxQrAAIPFgIfBGhkEBYCZgIBFgIPFgIfBGhkDxYCHwRoZA8WAmZmFgEFclRlbGVyaWsuV2ViLlVJLlJhZFdpbmRvdywgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAwOS4zLjEyMDguMzUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBYEAgMPDxYCHwRoZGQCBA8PFgIfBGhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAUQY3RsMDAkZGRsU2Nob29scwUXY3RsMDAkUmFkV2luZG93TWFuYWdlcjEFEmN0bDAwJERpYWxvZ1dpbmRvdwUSY3RsMDAkQ291cG9uV2lud29kBRBjdGwwMCRkZGxTY2hvb2xzDxQrAAIFHFVuaXZlcnNpdHkgb2YgU291dGhlcm4gTWFpbmUFBDU4NzZkd2yW1wXqZbcL+3y6xQ6cU9rhJsc=">
+    <form name="aspnetForm" method="post" action="Privacystatement.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgRmD2QWBAIDDxYCHgdjb250ZW50BYgBU3R1ZGVudHJhdGUgZGVhbCBwYWdlIGZvciB1c2VyIGxvZ2luIGFuZCBkaXNwbGF5aW5nIGhvdHRlc3QgbG9jYWwgYW5kIG5hdGlvbmFsIGRlYWxzLiAgVXNlciBjYW4gc2VhcmNoIGRlYWwgZm9yIHNjaG9vbCBvciBkZWFsIGNhdGVnb3J5LmQCBA8WAh8ABV5TdHVkZW50IFJhdGUsIFNjaG9vbCBSZXZpZXdzLCBEZWFscywgSG90LCBMb2NhbCwgRXZlbnQsIFN0dWRlbnRzLCBSYXRpbmdzLCBCZXN0IG9mIGV2ZXJ5dGhpbmcsZAICD2QWEAICD2QWBAIBDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh8BaGRkAgMPFgIeBFRleHQFmQE8YSBjbGFzcz0nYW51bScgaHJlZj0nL1N0dWRlbnRSYXRlL1NjaG9vbC9EZWFscy9EZWFsU3VtbWFyeS5hc3B4P3NjaG9vbD1hbGwmdGl0bGU9VmVuZG9ycyc+PHAgY2xhc3M9J251bScgcnVuYXQ9J3NlcnZlcicgc3R5bGU9J2N1cnNvcjpoYW5kOyc+MTkxPC9wPjwvYT5kAgUPFgIfAgUUQ2hvb3NlIHlvdXIgbG9jYXRpb25kAggPFgIeBGhyZWYFOH4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPWFsbCZ0aXRsZT1WZW5kb3JzZAIJDxYCHwMFPH4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPWFsbCZ0aXRsZT1Mb2NhbF9EZWFsc2QCEw8WAh8DBS9+L1NjaG9vbC9CZXN0T2ZFdmVyeVRoaW5nL0Jlc3RPZkV2ZXJ5VGhpbmcuYXNweGQCFA8WAh8DBUx+L1NjaG9vbC9EZWFscy9EZWFsU2VhcmNoUmVzdWx0LmFzcHg/U2Nob29sSWQ9MCZDYXRlZ29yeUlkPTAmTG9jYWw9MSZzY2hvb2w9ZAIVDxQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGQQFgJmAgEWAg8WAh8EaGQPFgIfBGhkDxYCZmYWAQVyVGVsZXJpay5XZWIuVUkuUmFkV2luZG93LCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDA5LjMuMTIwOC4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FgQCAw8PFgIfBGhkZAIEDw8WAh8EaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRdjdGwwMCRSYWRXaW5kb3dNYW5hZ2VyMQUSY3RsMDAkRGlhbG9nV2luZG93BRJjdGwwMCRDb3Vwb25XaW53b2RxTc0AI4EOLxqz2X+ntUR91OSq6Q==">
 
 
-<script src="/StudentRate/ScriptResource.axd?d=o12DG1B3ji1SVB0EbxpufNvQC84_v76SqwcaZrmqM7fP1BmtUOU6sBBcUG6ZMRh7WSODvR4c_t1o0KSYTugkmFxoaAzIGygCC4bXlfZLhk5DR6Q0zkhB6-PphZJQb-Fx7qWMEb3CoP36amFBViqf5s6qzDVeR3WT8G07JuIvCB6Gyv5p0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
+<script src="/StudentRate/ScriptResource.axd?d=o12DG1B3ji1SVB0EbxpufNvQC84_v76SqwcaZrmqM7fP1BmtUOU6sBBcUG6ZMRh7WSODvR4c_t1o0KSYTugkmFxoaAzIGygCC4bXlfZLhk5DR6Q0zkhB6-PphZJQb-Fx7qWMEb3CoP36amFBViqf5s6qzDVeR3WT8G07JuIvCB6Gyv5p0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -273,134 +315,106 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </script>
 
 <script src="/StudentRate/ScriptResource.axd?d=-wf6pKf6x0JQDQL7oI0Dl36qf_12FOOE6ElcTnr58LSkd7cGI-fP5vEwNDmg8TS_pASEzglZ_BhQDWyAut_oxs7afB2zVMOy94jAXadrbCMy1xq5AWG-9UzRtO2Mp2nxCyPsiQ2&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/StudentRate/ScriptResource.axd?d=Eu-HigQWVycPX933UNrw0xj-MGYYgzhxdX3Qw7EuBP5jhsuznJR47K38OxMlJMohfe9giuc_RUpHLX1UH3pIBuDCUZ7yQQr1meq-b5HkV1mrMHZRJZns1zmKT0Y76FTIAto53aeYr0ljZ9E5eFynrFHadfI1&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=-2PDtmsx-OTyT4bbo9wWRmypEihUNNapD-JUrv-NxVtTEAMXoKj-YjZz-K7IjXy_c7w1Jv9sOgq_-iKBUTpCCHm4iZNLP5eCjVHIoKT3B7lvSvADfKHhTWkNdGqhTMstS7A-IT3LokvItMD5Wno8HXZplro1&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=s26SEM9lm0UDKF8VIhEy0QJXezsNe1KT2vDsrq4bFmOzlWc6kofxSDIJ1JoUoQXCK1_yvKzvWNJoNBiJkt6jQJKedsgTd7qNYiVEb8Z7V39JTbstvXFRCv5fFgax6-_SE3jguJH0zxOaRHhYikwBKLauk0U1&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=CWQQrczRlYmV_9LtvQtPTR_zZtFPgpztOl1AnHa4j_kkea56tcnUbg3VKIujZHUVk8PtMd3-n3WANU-ZwjVSDqjza0sGltbiKP84aBw1Ky0_4XuvIko4JIB0ibffIKHswW7cNgU4QpFG7HaMdT9u0rGQvjJV_q5TDUDsIWsTawAIuHSC0&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=c63PjXgFpvppwtLrVmdugU4zJMyoZFQVTnKmAHz7gSnBlDnmAe4cN2tIwzrqBJk0GCZoZ-H6dp976hUVaeOjnbXVj9qAkUrmHCRx9Mh7QN-ZOM0i9zUZHjiJddnmKkoKcy0KvKmFO8h91lte-su1JDKgNdE1&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=Eu-HigQWVycPX933UNrw0xj-MGYYgzhxdX3Qw7EuBP5jhsuznJR47K38OxMlJMohfe9giuc_RUpHLX1UH3pIBuDCUZ7yQQr1meq-b5HkV1mrMHZRJZns1zmKT0Y76FTIAto53aeYr0ljZ9E5eFynrFHadfI1&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=yM-lQj_FAhCe1nEQO2gHBYy_6dH4YjX17trs6le3S76-ZZFlj92WiqR3_IeapbO7h-sbAup_87Jcis0hdzximrGEdTj4xw2opWe82n4ggMW9oOWinz2vcker5hOI4lXUbYrhxssQQQGF5Ce8MFzPkWdlQl9ynjPigj-LybyMasHXQZ8y0&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=Zk13XL5SzDgup6Rul3SaXdHHRsH1dZgBeH6jWrWxhsCCaN5pboCKmVCbdN_Y_P-eFnB4XhYhxCfsVdOq-XWkf5PVimK6MtlsNlAy6dXdBWCmE6ukm3T6r1PzJIA9RWACqSWpjRsCFUl-TwiZCzYkc4EvEgI1&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=ETnwh6sAwdf7Pgb3vIblRrOVqX1NzMt2cKZQa1cth4qU4UkMWCFY7AvcGpzUrzSltSpVcjizSA593v30UNoJtfuCd9L4pZ3CuZhvkNwhvVKIE1wn3CeppKfbI7sWv2aZYiVgRTw6uyj3E2lI1-a1-T-6mG81&amp;t=46a80b48" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKIsd7fCwLnzMr5CQKiq7iuCwKUt4+yCu7MHmEDtImYc0rC4W49xnoWACRX"> 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKPvYe6DwLnzMr5CQLo84CFAQKfqpy3DALe8/SEAQLk88yEAQL28+CDAQKisI/AAfZZa/tci8+4VIYXAs157ywW9uDT"> 
     
     
 
 
-        
-        <!-- Page -->
-		<div id="page">
-			<div id="wrap">
-			<!-- Header -->
-			<div id="header">
-				
-        
+        <div class="shell">
+		
+		<!-- Header -->
+		<div id="header">
 
-     <!-- Logo -->
-					<h1 id="logo"><a href="/" id="ctl00_studentratelogo">StudentRate.com Local 
-                        and national student discounts.</a></h1>
-                <div style="float: left; margin-left:180px;">
-                
-                <div id="ctl00_pnlLoggedIn">
+			<!-- Logo -->
+			<h1 id="logo"><a href="../../" class="notext">studentrate</a></h1>
+			<!-- End Logo -->
+
+			<!-- Top Bar -->
+			
+			    <div id="ctl00_userLogin_pnlLoggedOut">
 	
-                
-                 
-</div></div>
-     <!-- / Logo -->
-     
-     <div id="topsearch" style="float: right;">
-     <table border="0" width="100%"><tbody><tr><td colspan="2">
-         <div id="ctl00_userLogin_pnlLoggedOut">
-	
-    <table width="100%">
-        <tbody><tr>
-            <td align="right">
-                <fb:login-button v="2" size="small" onlogin="window.location.reload(true);">Connect</fb:login-button>
-                | <a href="javascript:scroll(0,0);" onclick="ShowRegister();">Log In</a> | <a href="javascript:scroll(0,0);" onclick="ShowRegister();">Register</a> | Follow Us <a href="http://www.facebook.com/studentrate" target="_blank">
-                        <img src="../Styles/css/images/icon-facebook.gif"></a>
-                <a href="http://twitter.com/studentrate" target="_blank">
-                    <img src="../Styles/css/images/Twitter-icon.png"></a>
-            </td>
-        </tr>
-    </tbody></table>
+<div id="top-bar2">
+    <ul>
+             <li>
+                <a href="javascript:scroll(0,0);" onclick="ShowSimpleRegister();">Register</a> 
+             </li>
+			<li>
+                <a href="javascript:scroll(0,0);" onclick="ShowRegister();">Log In</a> 
+             </li>
+                        
+         
+    </ul>
+   </div>
 
 </div>
 
 <br>
-</td></tr><tr><td></td><td align="right">
-     <span id="ctl00_SearchInput1">
-            <table cellspacing="0">  <!-- Making this lot vertical align properly using CSS and no table is beyond me -->
-              <tbody><tr>
-                <td></td>
-                <td class="ms-sbcell"><input name="ctl00$SearchInput1$SearchTerm" type="text" value="Search StudentRate.com" id="ctl00_SearchInput1_SearchTerm" accesskey="S" title="Enter search words" class="field" onclick="javascript:this.value='';"></td>
-                <td class="ms-sbcell ms-sbgo"><input type="submit" name="ctl00$SearchInput1$SearchButton" value="Search" id="ctl00_SearchInput1_SearchButton" class="button-submit"></td>
-              </tr>
-            </tbody></table>
-          </span>
-     </td></tr></tbody></table>
-						
-						
-						
-						
-						
-						
-							
-                      
-					    <div class="cl">&nbsp;</div>                 
-                    
-						
-					</div>
-	 
-	 
-            </div>
-<!-- Main Navigation Holder -->
-			<div id="navigation">
+			
+					
+				
+			
+			<!-- End Top Bar -->
 
-					
-					<!-- Main Navigation -->
-					<ul>
-					    
-					    <li id="Li1"><a href="../../" id="ctl00_Home_Anchor">Home</a></li>
-					    <li id="b-nationals"><a href="../../School/Deals/DealSummary.aspx?school=usm-maine&amp;title=Vendors" id="ctl00_nationalAnchor">
-                            National Deals</a></li>
-					    <li id="b-locals"><a href="../../School/Deals/DealSummary.aspx?school=usm-maine&amp;title=Local_Deals" id="ctl00_localsAnchor">
-                            Local Deals</a></li>
-					    
-					    	<li id="Li2"><a href="../../School/Deals/Textbooks.aspx" id="ctl00_Textbooks_Anchor">
-                                Textbooks</a></li>		
-					    <li id="b-giveaways"><a href="../../School/Deals/Drawing.aspx" id="ctl00_Drawing_Anchor">
-                            Giveaways</a></li>	
-                           
-                            
-                        <li id="Li3"><a href="../../forum/default.aspx" id="ctl00_Forum_Anchor">
-                            Forum</a></li>	 	    					    
+			<div class="cl">&nbsp;</div>
 
-				   </ul>
-					<!-- / Main Navigation -->
-					
-					
-					
-					<!-- Search Exclusive Bar -->
-					<div id="select-school-menu">
-						
-							
-							<div id="ctl00_ddlSchools" class="RadComboBox RadComboBox_Default" style="display:-moz-inline-stack;display:inline-block;">
-	<table cellpadding="0" cellspacing="0" summary="combobox" border="0" style="border-width:0;width:100%">
-		<tbody><tr>
-			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$ddlSchools" type="text" class="rcbInput" id="ctl00_ddlSchools_Input" value="University of Southern Maine"></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_ddlSchools_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
-		</tr>
-	</tbody></table><!-- 2009.3.1208.35 --><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_ddlSchools_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Default " style="display:none;"><div class="rcbScroll rcbWidth" style="height:200px;width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem ">All Schools</li><li class="rcbItem ">University of Southern Maine</li></ul></div><div class="rcbMoreResults" id="ctl00_ddlSchools_MoreResultsBox"><a id="ctl00_ddlSchools_MoreResultsBoxImage">select</a><span></span></div></div></div><input id="ctl00_ddlSchools_ClientState" name="ctl00_ddlSchools_ClientState" type="hidden">
-</div>
-						
-					</div>
-					<!-- / Search Exclusive Bar -->
-
+			<!-- Deals info -->
+			<div class="deals-info">
+				<a class="anum" href="/StudentRate/School/Deals/DealSummary.aspx?school=all&amp;title=Vendors"><p class="num" runat="server" style="cursor:hand;">191</p></a>
+				<p> <br><strong>Choose your location
+				</strong><a style="text-decoration: underline; color:Black;" href="#" onclick="ShowChangeLocation();return false;">change location</a></p>
 			</div>
+			<!-- End Deals info -->
+			
+		</div>
+		<!-- End Header -->
 
-      <!-- Content -->
-			<div id="white-list">
-					<div id="main">
-						<div id="main-in">
-						
+		<!-- Navigation -->
+		<div id="navigation">
+
+			<!-- Search -->			
+			<div id="search" style="overflow:hidden">
+			
+					            <input name="ctl00$googlesearch1$cx" type="hidden" id="ctl00_googlesearch1_cx" value="010051758647672127726:trppdz0ohqg">
+            <input name="ctl00$googlesearch1$cof" type="hidden" id="ctl00_googlesearch1_cof" value="FORID:11">
+              <input name="ctl00$googlesearch1$ie" type="hidden" id="ctl00_googlesearch1_ie" value="UTF-8">
+							
+		<input type="submit" name="ctl00$googlesearch1$go" value="" id="ctl00_googlesearch1_go" class="search-btn" style="overflow:hidden">
+		<span class="field-wrapper">
+		    <input name="ctl00$googlesearch1$q" type="text" id="ctl00_googlesearch1_q" class="field" value="Search" title="Search" style="overflow:hidden;vertical-align:top">
+		</span>
+		<div class="cl">&nbsp;</div>			
+			
+      
+
+
+			    
+                       
+
+
+					        </div>
+			<!-- End Search -->
+
+			<ul>
+				<li id="Li1"><a href="../../" id="ctl00_Home_Anchor">home</a></li>
+				<li id="b-nationals"><a href="../../School/Deals/DealSummary.aspx?school=all&amp;title=Vendors" id="ctl00_nationalAnchor">national</a></li>
+				<li id="b-locals"><a href="../../School/Deals/DealSummary.aspx?school=all&amp;title=Local_Deals" id="ctl00_localsAnchor">local</a></li>
+				<li id="Li2"><a href="../../School/Deals/Textbooks.aspx" id="ctl00_Textbooks_Anchor">textbooks</a></li>
+				<li id="li-Travel"><a href="../../School/Deals/Travel.aspx" id="ctl00_Travel_Anchor">travel</a></li>
+				<li id="b-studentloans"><a href="../../School/Deals/StudentLoans.aspx" id="ctl00_Money_Anchor">money</a></li>
+				<li id="b-giveaways"><a href="../../School/Deals/Drawing.aspx" id="ctl00_Drawing_Anchor">giveaways</a></li>
+				<li id="li-blog"><a href="../../blog/default.aspx" id="ctl00_Blog_Anchor">blog</a></li>
+				<li id="Li3"><a href="../../forum/default.aspx" id="ctl00_Forum_Anchor">forum</a></li>
+			</ul>
+			
+			<div class="cl">&nbsp;</div>
+		</div>
+		<!-- End Navigation -->
 					
 
 									
@@ -574,40 +588,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
      
        
 
-	                        
-					</div>
-					</div> 
-			</div>
+	       <br>
 			
-			<!-- / Content -->
-			<div id="main-bot-shadow">&nbsp;</div>
-			<!-- Footer Banner -->
-			<div id="bottom-banner">
-			
-				<br><center>
-				
-				<script type="text/javascript">
-  GA_googleFillSlot("template_bottom");
-</script>
-				
-				
-				<!--<a href="#"><img src="../Styles/css/images/banner2.jpg" alt="" /></a>--></center><br>
-			<br>
-			</div>
-			<!-- / Footer Banner -->
-</div>
 			<!-- Footer -->
 			<div id="footer">
-			
-				<p><a href="http://www.studentrate.com">Studentrate.com <span>|</span> All rights reserved </a> <span>|</span> <a href="Privacystatement.aspx">Privacy Statement</a> <span>|</span> <a href="TermsOfUse.aspx">Terms of Use</a> <span>|</span> <a href="contactus.aspx">Contact us</a> <span>|</span> <a href="../../guides/guides.aspx" id="ctl00_Guides_Anchor">Guides</a> <span>|</span> <a href="../../vendor/vendors.aspx" id="ctl00_Vendors_Anchor">Vendors</a> <span>|</span> <a href="../../School/BestOfEveryThing/BestOfEveryThing.aspx" id="ctl00_Best_Anchor"></a>  <a href="../../School/Deals/DealSearchResult.aspx?SchoolId=5876&amp;CategoryId=0&amp;Local=1&amp;school=University of Southern Maine" id="ctl00_Deals_Anchor">Deal Search</a> </p>
-			</div>
-			
-			<!-- / Footer --> 
+			<p><a href="http://www.studentrate.com">Studentrate.com <span>|</span> All rights reserved </a> <span>|</span> <a href="Privacystatement.aspx">Privacy Statement</a> <span>|</span> <a href="TermsOfUse.aspx">Terms of Use</a> <span>|</span> <a href="contactus.aspx">Contact us</a> <span>|</span> <a href="../../guides/guides.aspx" id="ctl00_Guides_Anchor">Guides</a> <span>|</span> <a href="../../vendor/vendors.aspx" id="ctl00_Vendors_Anchor">Vendors</a> <span>|</span> <a href="../../School/BestOfEveryThing/BestOfEveryThing.aspx" id="ctl00_Best_Anchor"></a>  <a href="../../School/Deals/DealSearchResult.aspx?SchoolId=0&amp;CategoryId=0&amp;Local=1&amp;school=" id="ctl00_Deals_Anchor">Deal Search</a> </p>
 		</div>
+	</div>
 		<!-- / Page -->				
             
  <div id="ctl00_RadWindowManager1" style="display:none;">
-	<div id="ctl00_RadWindowManager1_alerttemplate" style="display:none;">
+	<!-- 2009.3.1208.35 --><div id="ctl00_RadWindowManager1_alerttemplate" style="display:none;">
 		<div class="rwDialogPopup radalert">			
 			<div class="rwDialogText">
 			{1}				
@@ -667,21 +658,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 		</div><div id="ctl00_DialogWindow" style="display:none;">
 		<div id="ctl00_DialogWindow_C">
 
-		</div><input id="ctl00_DialogWindow_ClientState" name="ctl00_DialogWindow_ClientState" type="hidden">
+		</div><input id="ctl00_DialogWindow_ClientState" name="ctl00_DialogWindow_ClientState" type="hidden" autocomplete="off">
 	</div><div id="ctl00_CouponWinwod" style="display:none;">
 		<div id="ctl00_CouponWinwod_C">
 
-		</div><input id="ctl00_CouponWinwod_ClientState" name="ctl00_CouponWinwod_ClientState" type="hidden">
+		</div><input id="ctl00_CouponWinwod_ClientState" name="ctl00_CouponWinwod_ClientState" type="hidden" autocomplete="off">
 	</div><input id="ctl00_RadWindowManager1_ClientState" name="ctl00_RadWindowManager1_ClientState" type="hidden">
 </div> 
+    <input name="ctl00$accessToken" type="hidden" id="ctl00_accessToken">
     
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":0,"_height":200,"_isAspNet35":true,"_postBackReference":"__doPostBack(\u0027ctl00$ddlSchools\u0027,\u0027arguments\u0027)","_showMoreResultsBox":true,"_skin":"Default","_text":"University of Southern Maine","_uniqueId":"ctl00$ddlSchools","_value":"5876","allowCustomText":true,"clientStateFieldID":"ctl00_ddlSchools_ClientState","collapseAnimation":"{\"type\":12,\"duration\":200}","enableLoadOnDemand":true,"expandAnimation":"{\"duration\":450}","itemData":[{"value":"0"},{"value":"5876","selected":true}],"itemRequestTimeout":500,"markFirstMatch":true,"selectedIndex":1}, {"dropDownOpening":OnClientDropDownOpenedHandler}, null, $get("ctl00_ddlSchools"));
-});
 Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"clientStateFieldID":"ctl00_DialogWindow_ClientState","formID":"aspnetForm","height":"300px","iconUrl":"","left":"","minimizeIconUrl":"","modal":true,"name":"DialogWindow","navigateUrl":"../../School/Deals/rateDeal.aspx","reloadOnShow":true,"showContentDuringLoad":false,"skin":"MyCustomSkin","top":"","visibleStatusbar":false,"visibleTitlebar":false,"width":"370px"}, {"close":OnClientClose}, null, $get("ctl00_DialogWindow"));
 });
@@ -694,7 +683,6 @@ Sys.Application.add_init(function() {
 //]]>
 </script>
 </form>
-    <script src="http://cdn.wibiya.com/Toolbars/dir_0515/Toolbar_515988/Loader_515988.js" type="text/javascript"></script>
-
+    
 
 </body></html>
