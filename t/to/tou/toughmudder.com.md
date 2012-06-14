@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toughmudder.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216182313id_/http%3A//toughmudder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughmudder.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614105158id_/http%3A//toughmudder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tough Mudder
 
@@ -25,8 +25,11 @@ If you have any questions about this privacy policy, don’t see your concerns a
 Except as disclosed below, we don’t sell, barter, give away, or rent your personal information.
 
   * **(a) Personal Information.** Use of certain features of the site, like signing up to receive a newsletter, or responding to one of our surveys may require that you provide certain personally identifiable information, in other words, information that identifies or describes you, such as your name, email address, telephone numbers, address, zip code, age, and gender (“personal information”). We also may collect and store personal information about you that we receive from other sources, e.g. the information we receive from RaceIt.com when you register for an event or to be a spectator. RaceIt.com has its own privacy policy and you should refer to it for any questions you may have about the information RaceIt collects about you when you register for one of our events or to be a spectator using RaceIt.com.
+
   * **(b) Anonymous Information.** Even if you don’t request a newsletter or fill-out a survey, when you interact with the site, we may collect certain non-personal information. For example, our servers keep an activity log that tracks all visitors to the site. The information in the activity log is anonymous and therefore does not identify you individually. The anonymous information our server collects may include among other data: your IP address, your registered domain or home server, time of access, date of access, web page(s) visited, number of clicks, software crash reports, type of browser used, session identification number, search terms, search results, access times and referring website’s addresses. 
+
   * **(c) Cookies and Spyware.** We do not install spyware on your computer, nor do we use spyware to retrieve information from your computer.
+
 
 
 
@@ -40,9 +43,11 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 
 
+
 Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes described in this Privacy Policy. 
 
   * **(e) No Information Collected From Children.** Our site is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age you should not use this site, and under no circumstance should you send information about yourself to us. If we discover that a child under the age of 13 has provided us with personal information, we will immediately delete that child’s information from the site. 
+
 
 
 
@@ -51,13 +56,21 @@ Google may also transfer this information to third parties where required to do 
 Except as disclosed in this privacy policy, we do not use or disclose information about your individual visits to our site or your personal information collected online to any parties other than those with whom we partner or are affiliated without your consent. 
 
   * **(a) In General.** We use your personal information to communicate with you about your interest in our events and our company, to help us improve your experience on the site and in some cases to promote our events or to inform visitors to our site about the people who participate in our events. We may also use your information to prevent or detect abuses of our terms of use and to enable third parties to carry out technical or other functions on our behalf. 
+
   * **(b) Your Submissions.** By giving us your personal information either through our website or email, you expressly consent to our collection, use and disclosure of your personal information as described in this privacy policy. When you submit personal information to us, we may use your personal information to contact you, and we may provide it to certain third parties for marketing or promotional purposes. For example: 
-  *     * If you fill out a Media Profile Survey, we may share your personal information with members of the media and other third parties for marketing and promotional purposes. 
-    * If you fill out a Tough Mudder Universe Survey, we may post certain personal information about you in the Participant Profiles portion of our site and share it with third parties for marketing and promotional purposes . We will not post your contact information on our website, but please be careful about what you disclose to us and do not disclose any information that you expect to keep private. 
-    * If you fill out a survey expressing interest in volunteering for or hosting an event or if you request to receive posters or our newsletter, we will use your personal information to contact you and may share your personal information with third parties for purposes of fulfilling your request.
+
+  * If you fill out a Media Profile Survey, we may share your personal information with members of the media and other third parties for marketing and promotional purposes. 
+
+  * If you fill out a Tough Mudder Universe Survey, we may post certain personal information about you in the Participant Profiles portion of our site and share it with third parties for marketing and promotional purposes . We will not post your contact information on our website, but please be careful about what you disclose to us and do not disclose any information that you expect to keep private. 
+
+  * If you fill out a survey expressing interest in volunteering for or hosting an event or if you request to receive posters or our newsletter, we will use your personal information to contact you and may share your personal information with third parties for purposes of fulfilling your request.
+
   * **(c) Use of Anonymous Information.** We may use anonymous information to help us determine how people use parts of the site and who our users are so we can improve our site. We may also use anonymous information to provide information in aggregated form to our partners and other third parties about how our users collectively use the site. We may also use or share anonymous information (or other information, other than personal information) in any other manner that we decide is appropriate or necessary.
+
   * **(d) Third-Parties.** We may occasionally have third party representatives, agents, affiliates and partners that perform functions on our behalf, such as event registration, marketing, analytics, etc. These entities may have access to your personal information but only as needed to perform their services. 
+
   * **(e) Emergency Situations.** We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the site; (b) protect and defend the our rights or property, the site or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the site or the public.
+
 
 
 
@@ -85,4 +98,4 @@ As our website continues to develop, we may change or add new services or featur
 
 You may always opt-out of receiving future e-mail messages and newsletters from us or request that your information be removed from our website or corrected. To make such a request, you can send us a message at [info@toughmudder.com](mailto:info@toughmudder.com). 
 
-Last Updated: January 7, 2011
+Last Updated: May 1, 2012
