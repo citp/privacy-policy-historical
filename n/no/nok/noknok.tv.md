@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noknok.tv privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204080639id_/http%3A//noknok.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noknok.tv privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614024144id_/http%3A//www.noknok.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NokNok.tv
 
@@ -6,7 +6,7 @@
 
 Modern information and communication technologies play a fundamental role in the activities of an organisation like Republic Publishing Ltd . We are based in UK and our principal activity is online publishing. Our privacy policy covers Republic Publishing Ltd and its Web sites:
 
-Web Sites(s): 
+Web Sites(s):
 
 www.noknok.tv
 
@@ -23,6 +23,46 @@ You can access our Web sites home page and browse our sites without disclosing y
 Our Web sites enable you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data.
 
 Our Web sites do not include links to third party Web service providers.
+
+### Cookies
+
+You should be aware that by using the site, information and data may be automatically collected through the use of Cookies.
+
+What are cookies?
+
+“Cookies” are small text files that store basic information that a web site can use to recognise repeat site visits and, as an example, recall Your name if this has been previously supplied. We may use this information (and share it with third party business partners) to observe Your internet use and to compile data in order to improve the Site, target advertising to You and assess general effectiveness of such advertising. Cookies do not attach to Your system or damage Your files.
+
+What sort of cookies do we use?
+
+1\. Strictly necessary cookies
+
+Essential cookies that enable You to browse the site and use its features.
+
+2\. Functionality cookies
+
+Cookies that improve the functionality of the site by storing Your preferences.
+
+3\. Performance cookies
+
+Cookies that help to improve the site performance and provide You with a better user experience.
+
+4\. Online behavioural advertising cookies
+
+**Cookies that serve You advertisements, relevant to You and Your interests.**
+
+ **
+
+Does anyone else use cookies on the site?
+
+Third party cookies
+
+We may also use or allow third parties to serve cookies.
+
+For example, like many companies, we use Google Analytics to help us monitor site traffic. If we include content from other sites (like Youtube, Facebook, Twitter), You may be sent cookies from these sites. We don’t control them, and You might want to check these third-party sites for more information about their cookies and how to manage them.
+
+How can You manage cookies?
+
+If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookies feature. Note, however, that “personalised” services may be affected if the Cookies option is disabled. If You wish to disable the setting of Cookies in Your browser, please visit [ AboutCookies.org ](http://www.aboutcookies.org/default.aspx?page=1) for the most up to date instructions.
 
 ### Automatic Collection of Information
 
@@ -103,3 +143,5 @@ We cannot demonstrate that our privacy policy accords with the privacy instrumen
 ### Privacy Support
 
 If you have an enquiry or concern about our privacy policy, please contact jbc@noknok.tv. We do not recommend another means by which visitors' concerns may be addressed.
+
+**
