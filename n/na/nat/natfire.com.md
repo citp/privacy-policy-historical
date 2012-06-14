@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natfire.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209014836id_/http%3A//www.natfire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natfire.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614021833id_/http%3A//www.natfire.com/privacy.php) for the most accurate reproduction.*
 
 # National Fireproofing - Flamex PF Fire Retardant Spray - FS I-DS Fire Retardant Spray - FS-II Fire Retardant Spray - DC 333 DC 315 Fire Blocking Paint
 
