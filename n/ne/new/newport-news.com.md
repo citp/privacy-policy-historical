@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225235508id_/http%3A//www.newport-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport-news.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614031254id_/http%3A//www.newport-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newport News
 
@@ -26,15 +26,13 @@ In some instances, we share some of your information with our parent company, su
 
 When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file (including your name, address, phone number and email address). You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings from Newport News, then please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to reach us to remove yourself from our contact list.
 
-We may send you email with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such email from us in the future, please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to contact us to remove yourself from our email list or, click on the "opt-out" link on any email you receive from us. Please note that when you make a purchase and provide us with your email address, we may send you confirmation of your order via email even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order.
+We may send you email with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such email from us in the future, please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to contact us to remove yourself from our email list or, click on the "unsubscribe" link on any email you receive from us. Please note that when you make a purchase and provide us with your email address, we will send you confirmation of your order via email even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order.
 
 We supply our customer file (including your name, address, phone number and email address) to certain Newport News Affiliates. In addition to information provided to Newport News Affiliates, we may also provide your name, address and phone number (but not your email address) to a select group of companies who are not Newport News Affiliates and whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for information on where to contact us if you do not want us to share this information with Newport News Affiliates or other third parties.
 
 Note that Newport News Affiliates and other third parties with whom we share your information have their own privacy statements, and those statements apply to your personal information when it is held by such Newport News Affiliates or third parties. Please refer to the Newport News Affiliate or third party privacy statements, as applicable, for further information on how those entities treat your personal information.
 
 In some instances, we use third party companies to help us in providing our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these third party service providers are given access to some or all of the information you provide to us, including your email address, and may use cookies on our behalf. These third party service providers are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available from Newport News. For more information about these companies, [Click Here](http://www.newport-news.com/customer/thirdparties.aspx).
-
-Newport News may participate with certain reputable companies who offer you the ability to establish a membership that would enable you to participate in travel and entertainment programs. If you elect to activate a trial membership in the Newport News Insider Pass program we will provide your name, address and credit card information to Encore Marketing International, the Newport News Insider Pass service provider. Newport News is not responsible for the privacy practices of the companies sponsoring these membership programs and we suggest you review the privacy policy of each company with whom you may be considering a membership.
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
@@ -77,17 +75,6 @@ Newport News does not seek to solicit information from anyone under the age of t
 
 * * *
 
-  * financial information (such as your credit card account information)
-  * unique identifier information (your customer number or password)
-  * transaction information (dates on which you made purchases, amounts and types of purchases) 
-  * contact information (your name, address, phone number)
-
-
-
-We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. [ Click Here](http://www.newport-news.com/customer/privacy_policy.aspx#contact) for Contact Information.
-
-[Back to the Top](http://www.newport-news.com/customer/privacy_policy.aspx#top).
-
 * * *
 
 **Changes to this privacy statement**
@@ -112,23 +99,17 @@ It is our goal to make our privacy practices easy to understand. We have created
 
 To contact us for any reason, including a request to be added to or taken off a list, or if you have any concerns or questions, please contact us:
 
-  * By mail: 
-
-    Newport News  
-    5100 City Line Road  
-    Hampton VA 23630-5100
-
   * By phone:
 
-    1.800.759.3950
+    1.800.688.2830
 
   * By email:
 
-    [customercare@newport-news.com](mailto:customercare@newport-news.com)
+    [support@artemissllc.zendesk.com](mailto:support@artemissllc.zendesk.com)
 
 
 
 
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
-We are an active member of the Direct Marketing Association. [ Click here](http://www.the-dma.org/index.php) for additional privacy information from the DMA. If you feel that this site is not following its stated information privacy policy, you may contact us at the above address or phone number or at [ customercare@newport-news.com](mailto:customercare@newport-news.com) or you may contact the DMA's Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+We are an active member of the Direct Marketing Association. [ Click here](http://www.the-dma.org/index.php) for additional privacy information from the DMA. If you feel that this site is not following its stated information privacy policy, you may contact us at the above address or phone number or at [ support@artemissllc.zendesk.com](mailto:support@artemissllc.zendesk.com) or you may contact the DMA's Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
