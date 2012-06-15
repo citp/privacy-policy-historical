@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216212820id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615174324id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TheSchoolRun
+# TheSchoolRun's privacy policy | TheSchoolRun
 
 This policy (together with our terms and conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -35,13 +35,13 @@ The information we hold will be accurate, relevant and up to date. You can check
 
 [enquiries@theschoolrun.com](mailto:enquiries@theschoolrun.com)
 
-or calling customer services on 0845 259 1418. If you find any inaccuracies we will delete or correct them promptly. The Access to Information Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+. If you find any inaccuracies we will delete or correct them promptly. The Access to Information Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 All personal information will be held in accordance with our internal security policy and the law. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your general internet usage by [using a cookie file](http://www.theschoolrun.com/about-cookies) which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
   * To estimate our audience size and usage pattern.
   * To store information about your preferences, and so allow us to customise our site according to your individual interests.
@@ -60,8 +60,8 @@ We may disclose your personal information to any member of our group, which mean
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If P2P Publishing Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of P2P Publishing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If Jade Creative Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Jade Creative Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
