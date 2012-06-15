@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellaanokam.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003154555id_/http%3A//www.stellaanokam.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaanokam.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615095939id_/http%3A//www.stellaanokam.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy
 
