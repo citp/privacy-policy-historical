@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617042817id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130839id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oz Broadband Speed Test
 
@@ -30,8 +30,3 @@ We try and bring you advertisements that are of interest to you. We have a relat
 ### Further Information
 
 For further information, or if you feel that we are not following our privacy policy, please feel free to [contact us](https://web.archive.org/contact/) at any time.
-
-## Site Stats
-
-**Total Users:** 5,095  
-**Tests Run:** 8,187,418 
