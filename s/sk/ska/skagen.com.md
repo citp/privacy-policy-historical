@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skagen.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107232228id_/http%3A//www.skagen.com/en-US/privacyPolicy.fx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skagen.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615162549id_/http%3A//www.skagen.com/en-US/privacyPolicy.fx) for the most accurate reproduction.*
 
 # 
 
