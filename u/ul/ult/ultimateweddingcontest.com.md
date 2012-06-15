@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimateweddingcontest.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055050id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateweddingcontest.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615114610id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Crate&Barrel
+# Privacy Policy | Crate and Barrel
 
 The front door to your home. Open, it invites and welcomes friends and family. Closed it provides privacy and security.
 
@@ -44,7 +44,7 @@ Back to Top
 
 The personal information we collect is primarily intended to offer better customer service and to improve communications. The customer information from Euromarket Design's CB2 and Crate and Barrel brands is combined to provide greater security and inform customers of products and services that may interest them. When a purchased item is not immediately available, many of our customers appreciate receiving an email to update the status of their order. We also may need to contact customers by phone, postal mail, or email if questions arise regarding their orders.
 
-When you shop at a Crate and Barrel store, order from our catalogues, or visit us online, it is also an opportunity for you to provide us with information and feedback that helps us continue to bring new ideas, unique products, and a creative approach to shopping for your home.
+When you shop at a Crate and Barrel store, order from our catalogs, or visit us online, it is also an opportunity for you to provide us with information and feedback that helps us continue to bring new ideas, unique products, and a creative approach to shopping for your home.
 
 Back to Top
 
@@ -84,7 +84,7 @@ Back to Top
 
 ## Remove Your Name From Our Lists at Any Time
 
-To delete your name from the Crate and Barrel email contact list, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). To request to have your name removed from the catalogue mailing list, please complete this quick [catalogue opt-out form](https://web.archive.org/Customer-Service/Catalogue-Preference.aspx). We appreciate your patience as it may take up to six to eight weeks to process your request from the date of receipt. When you make subsequent purchases at Crate and Barrel, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list.
+To delete your name from the Crate and Barrel email contact list, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). To request to have your name removed from the catalog mailing list, please complete this quick [catalogue opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx). We appreciate your patience as it may take up to six to eight weeks to process your request from the date of receipt. When you make subsequent purchases at Crate and Barrel, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list.
 
 Back to Top
 
@@ -110,10 +110,10 @@ We also contract with Omniture to help us assess visitation to our Crate and Bar
 
 <http://www.omniture.com/en/privacy/policy>
 
-We contract with third-party service providers to place our advertising messages on this and other websites. These providers may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, postal address, email address or any other personal information about the user. For more information about this practice, including privacy and confidentiality, please visit the following websites:
+We contract with third-party service providers to place our banner advertising on other websites. These providers may collect information from us about your visits to our website and stores, and your interaction with our products and services. They may also use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Personally identifiable information may be shared with a third party advertising partner and its service providers, including your name, postal address and email address, as well as a record of any transactions you conduct on our website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted third party service provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) to learn more about the use of this information by our third-party advertising partner or to choose limited use of this information by opting out of interest-based online advertising.
 
-<http://audiencescience.com/privacy.asp>   
-<http://acerno.com/policy.html>
+  
+
 
 Back to Top
 
@@ -141,18 +141,18 @@ Back to Top
 
 If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here's how to [contact us](https://web.archive.org/Customer-Service/Contact-Us.aspx).
 
-**Phone:**  
+ **Phone:**  
 Customer Service Department  
 800.237.5672  
 Monday - Sunday, 7 days a week
 
-**Email:**  
+ **Email:**  
 [customer_service@crateandbarrel.com](mailto:customer_service@crateandbarrel.com?subject=crate%20and%20barrel%20customer%20service)
 
-**Address:**  
+ **Address:**  
 Crate and Barrel  
 Customer Service Department  
 1860 W. Jefferson Avenue  
 Naperville, IL 60540-3918
 
-_Last Updated, March 1st 2011_
+ _Last Updated, March 1st 2011_
