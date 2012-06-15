@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223021252id_/http%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprecruiter.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161500id_/http%3A//www.ziprecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZipRecruiter
 
 _Last revised: August 24, 2010_
 
-ZipRecruiter, Inc. ("ZipRecruiter," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by ZipRecruiter when you use the ZipRecruiter Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
+ZipRecruiter, Inc. ("ZipRecruiter," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by ZipRecruiter when you use the ZipRecruiter Service located on www.ziprecruiter.com, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
+
+ZipRecruiter has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@ziprecruiter.com. If you are not satisfied with our response you can contact TRUSTe here.
 
 ### Information We Collect
 
 ##### User-Provided Information:
 
-You provide us information about yourself, such as your name and e-mail address, if you register for an account with or respond to a post on or through the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
+You provide us information about yourself, such as your name and e-mail address and phone number, if you register for an account with or respond to a post on or through the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
+
+Once you sign up for the service we allow you to provide additional information about yourself and other people. The additional information we may collect is as follows; information about candidates such as their name, email address, phone number, resume, experience, education, country and zip code. You may also export your candidates to an excel spreadsheet to make it easier to manage. Information about additional users you wish to allow access to the service may include their name and email address.
+
+We will ask you to provide information about hiring companies that may be used on your job pages.  This includes: Company Name, Website, Logo and a description of the company. Candidates may also provide a headshot photo along with their job application.  Please note that this photo will be seen by users of the site and the companies in which you have submitted your application.  You may remove your photo at any time by emailing us at support@ziprecruiter.com.
 
 ##### Cookies Information:
 
@@ -22,7 +28,7 @@ Log file information is automatically reported by your browser each time you acc
 
 ##### Clear Gifs Information:
 
-When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your ZipRecruiter account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make ZipRecruiter better for our users.
+When you use the Service, ZipRecruiter or our third party analytics providers may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously and help us better manage content on our site by informing us of what content is effective. No personally identifiable information from your ZipRecruiter account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make ZipRecruiter better for our users.
 
 ##### Third Party Services:
 
@@ -30,11 +36,13 @@ ZipRecruiter uses third party analytics service to help understand use of the Se
 
 ### How We Use Your Information
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
+We use the personal information you submit to create your account, allow you to add candidates and other users, operate, maintain, and provide to you the features and functionality of the Service. We use this information to allow you to better manage who is able to access the service, view resumes, set up resume alerts (which you may turn off at any time by logging into your account), view posted jobs, view archived jobs, create a new job, rate candidates, view receipts, determine who may be the right fit as a candidate for the positions you have open, and to contact you in response to your inquiries.
 
 By providing ZipRecruiter your email address, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. [You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings.] We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your Account page (for Employers) or by following the opt-out instructions in the message. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. 
 
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. ZipRecruiter stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [privacy@ziprecruiter.com](mailto:privacy@ziprecruiter.com).
+If you choose to use our invitation service to invite a friend to the service, we provide you with a link to copy and paste to share with your friends, or spread the word on linkedin, facebook or twitter.  We provide you with a unique link ID so that you earn credit for each friend that joins the site by following your link. Your friend may contact us to request that we remove this information from our database at [privacy@ziprecruiter.com](mailto:privacy@ziprecruiter.com).
+
+If you wish to invite a friend to view our blog posts we will ask you for that person's email address and automatically send an email invitation. ZipRecruiter stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at privacy@ziprecruiter.com.
 
 ZipRecruiter may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
 
@@ -46,15 +54,13 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 ##### Personally Identifiable Information:
 
-ZipRecruiter will not rent or sell your personally identifiable information to others. ZipRecruiter may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of ZipRecruiter (for instance, on servers or databases co-located with hosting providers).
+ZipRecruiter will not rent or sell your personally identifiable information with third parties other than as disclosed within this privacy policy. ZipRecruiter may share your personally identifiable information with third parties for the purpose of providing the Service to you. The types of third parties who we may share your personally identifiable information are credit card processing company, customer service provider, and an email service provider. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of ZipRecruiter (for instance, on servers or databases co-located with hosting providers).
 
-Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
-
-If you respond to a job posting on the Service, we will share your response with the Employer that posted the job.
+Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information. If you respond to a job posting on the Service, we will share your response with the Employer that posted the job.
 
 From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. You will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
 
 Except as otherwise described in this Privacy Policy, ZipRecruiter will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of ZipRecruiter, our Users or others.
 
@@ -62,7 +68,7 @@ Except as otherwise described in this Privacy Policy, ZipRecruiter will not disc
 
 We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain ZipRecruiter services.
 
-ZipRecruiter may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on ZipRecruiter. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. ZipRecruiter does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks ZipRecruiter to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see [Google Privacy Center](http://www.google.com/privacy_ads.html) or [The NAI Tool to Opt Out of Behavioral Advertising](http://networkadvertising.org/managing/opt_out.asp). The ZipRecruiter Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+ZipRecruiter may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on ZipRecruiter. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. ZipRecruiter does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks ZipRecruiter to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see http://preferences-mgr.trustee.com[Google Privacy Center](http://www.google.com/privacy_ads.html) or [The NAI Tool to Opt Out of Behavioral Advertising](http://networkadvertising.org/managing/opt_out.asp). The ZipRecruiter Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
 ### How We Protect Your Information
 
@@ -70,17 +76,39 @@ ZipRecruiter cares about the integrity and security of your personal information
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from ZipRecruiter, at all times.
 
+When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
 ### Compromise of Personal Information
 
 In the event that personal information is compromised as a result of a breach of security, ZipRecruiter will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
+### Customer Testimonials
+
+We post customer testimonials on our Web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+### Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+### Social Media (Features) and Widgets:
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### Job Widget
+
+We allow you to embed a job widget to instantly publish and list all of your job openings on your own Company website as well as several other Job Boards. This widget does not collect any personal information, it will simply link back to the job openings that are hosted on our site.
+
 ### Your Choices About Your Information
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case ZipRecruiter may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account and [describe how to change]. You can review and correct the information about you that ZipRecruiter keeps on file by contacting us directly at [support@ziprecruiter.com](mailto:support@ziprecruiter.com).
+You may, of course, decline to submit personally identifiable information through the Service, in which case ZipRecruiter may not be able to provide certain services to you. You may update, delete inaccuracies, or correct your account information and email preferences at any time by logging in to your account and selecting email/password. You can review, delete inaccuracies and correct the information about you that ZipRecruiter keeps on file by contacting us directly at [support@ziprecruiter.com](mailto:support@ziprecruiter.com). We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@ziprecruiter.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+To request removal of your personal information from our blog, community forums, or testimonials, contact us at support@ziprecruiter.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Children's Privacy
 
-Protecting the privacy of young children is especially important. For that reason, ZipRecruiter does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on ZipRecruiter. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@ziprecruiter.com](mailto:info@ziprecruiter.com).
+Protecting the privacy of young children is especially important. For that reason, ZipRecruiter does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on ZipRecruiter. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@ziprecruiter.com](mailto:info@ziprecruiter.com).
 
 ### Links to Other Web Sites
 
@@ -92,14 +120,10 @@ It is our policy to provide notifications, whether such notifications are requir
 
 ### Changes to Our Privacy Policy
 
-If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@ziprecruiter.com](mailto:info@ziprecruiter.com), or send mail to:
 
 ZipRecruiter, Inc.  
 1453 Third Street Promenade, Suite 335  
 Santa Monica, CA 90401 
-
-### Updates
-
-\--
