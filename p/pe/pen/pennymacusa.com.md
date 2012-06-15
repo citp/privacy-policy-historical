@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213153416id_/http%3A//www.pennymacusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615225930id_/http%3A//www.pennymacusa.com/privacy.php) for the most accurate reproduction.*
 
-# PennyMac Home Loan Solutions
+# Privacy Policy - PennyMac Mortgage Loan Services
 
 ## Online and Financial Privacy Notice
 
