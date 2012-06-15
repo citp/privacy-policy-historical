@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btemplates4u.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219033644id_/http%3A//www.btemplates4u.com/2011/07/new-blogger-templates-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btemplates4u.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615115429id_/http%3A//www.btemplates4u.com/2011/07/new-blogger-templates-privacy-policy.html) for the most accurate reproduction.*
 
 # BTemplates 4U Privacy Policy - Best Blogger Templates | Premium Templates | New Blogger Themes
 
