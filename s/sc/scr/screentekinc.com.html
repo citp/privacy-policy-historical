@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the screentekinc.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125115710id_/http%3A//www.screentekinc.com/privacy-policies.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the screentekinc.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615193604id_/http%3A//www.screentekinc.com/privacy-policies.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 <title>ScreenTek Privacy Policy</title>
 
@@ -65,30 +65,153 @@ MM_reloadPage(true);
 
 <script type="text/javascript">
 
+
+
 var _gaq = _gaq || [];
+
+
 
 _gaq.push(['_setAccount', 'UA-84616-1']);
 
+_gaq.push(['_setDomainName', 'screentekinc.com']);
+
+_gaq.push(['_addIgnoredRef', 'screentekinc.com']);
+
+
+
 _gaq.push(['_trackPageview']);
+
+
 
 _gaq.push(['_trackPageLoadTime']);
 
+
+
 (function() {
+
+
 
    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 
+
+
    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+
 
    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 
+
+
 })();
+
+
 
 </script>
 
 
-</head>
 
-<body>
+<link href="https://plus.google.com/103337143140993419649" rel="publisher">
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyCNKAJ3hIZyxbNm9IyKTCIuApPZCA2CAHo" type="text/javascript"></script>
+ 
+     <script type="text/javascript">
+     //<![CDATA[
+     var map;
+     var geocoder;
+ 
+     function load() {
+       if (GBrowserIsCompatible()) {
+         geocoder = new GClientGeocoder();
+         map = new GMap2(document.getElementById('map'));
+         map.addControl(new GSmallMapControl());
+         map.addControl(new GMapTypeControl());
+         map.setCenter(new GLatLng(40, -100), 4);
+       }
+     }
+ 
+    function searchLocations() {
+      var address = document.getElementById('addressInput').value;
+      geocoder.getLatLng(address, function(latlng) {
+        if (!latlng) {
+          alert(address + ' not found');
+        } else {
+          searchLocationsNear(latlng);
+        }
+      });
+    }
+ 
+    function searchLocationsNear(center) {
+      var radius = document.getElementById('radiusSelect').value;
+      var searchUrl = 'http://www.screentekinc.com/phpsqlsearch_genxml.php?lat=' + center.lat() + '&lng=' + center.lng() + '&radius=' + radius;
+      GDownloadUrl(searchUrl, function(data) {
+        var xml = GXml.parse(data);
+        var markers = xml.documentElement.getElementsByTagName('marker');
+        map.clearOverlays();
+ 
+        var sidebar = document.getElementById('sidebar');
+        sidebar.innerHTML = '';
+        if (markers.length == 0) {
+          sidebar.innerHTML = 'No results found.';
+          map.setCenter(new GLatLng(40, -100), 4);
+          return;
+        }
+ 
+        var bounds = new GLatLngBounds();
+        for (var i = 0; i < markers.length; i++) {
+          var name = markers[i].getAttribute('name');
+          var address = markers[i].getAttribute('address');
+          var distance = parseFloat(markers[i].getAttribute('distance'));
+          var point = new GLatLng(parseFloat(markers[i].getAttribute('lat')),
+                                  parseFloat(markers[i].getAttribute('lng')));
+ 
+          var marker = createMarker(point, name, address);
+          map.addOverlay(marker);
+          var sidebarEntry = createSidebarEntry(marker, name, address, distance);
+          sidebar.appendChild(sidebarEntry);
+          bounds.extend(point);
+        }
+        //document.getElementById("numstore").value = markers.length;
+        map.setCenter(bounds.getCenter(), map.getBoundsZoomLevel(bounds));
+      });
+    }
+ 
+     function createMarker(point, name, address) {
+       var marker = new GMarker(point);
+       var html = '<b>' + name + '</b> <br/>' + address;
+       GEvent.addListener(marker, 'click', function() {
+         marker.openInfoWindowHtml(html);
+       });
+       return marker;
+     }
+ 
+ function createSidebarEntry(marker, name, address, distance) {
+       var div = document.createElement('div');
+       var html = '<b><span style = "font-size:14px;color:#C60000;">' + name + '</b> </span>(' + distance.toFixed(1) + ')<br/>' + address + '<hr>';
+       div.innerHTML = html;
+       var repnet =  name;
+       div.style.cursor = 'pointer';
+       div.style.marginBottom = '5px';
+       GEvent.addDomListener(div, 'click', function() {
+         GEvent.trigger(marker, 'click');
+          document.getElementById("addselected").value = repnet;
+       });
+       GEvent.addDomListener(div, 'mouseover', function() {
+         div.style.backgroundColor = '#eee';
+       });
+       GEvent.addDomListener(div, 'mouseout', function() {
+         div.style.backgroundColor = '#fff';
+       });
+       return div;
+     }
+     //]]>
+ 
+ 
+  </script>
+  </head>
+
+  <body onload="load()" onunload="GUnload()">
+
 
 
    <table width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -105,9 +228,9 @@ _gaq.push(['_trackPageLoadTime']);
                <td valign="top">
                   <table align="center">
                    <tbody><tr nowrap="">
-                    <td>
+                    <td align="right">
 
-                    <img src="/images/layout-new-connect_07.jpg" align="absmiddle">
+                <!--   <img src="/images/layout-new-connect_07.jpg" align="absmiddle">  -->
                     <a href="/blog/"><img src="/images/icon-blog_32.png" width="32" height="32" border="0" align="absmiddle"></a>
                     <a href="http://www.facebook.com/ScreenTek"><img src="/images/icon-facebook_32.png" width="32" height="32" border="0" align="absmiddle"></a>
                     <a href="http://twitter.com/ScreenTekInc"><img src="/images/icon-twitter_32.png" width="32" height="32" border="0" align="absmiddle"></a>
@@ -125,7 +248,7 @@ _gaq.push(['_trackPageLoadTime']);
                <td align="center">
                   <table border="0" cellspacing="1" cellpadding="1">
                    <tbody><tr>
-                    <td><img src="/gfx/search.gif" border="0" hspace="10"></td>
+                <!--    <td><img src="/gfx/search.gif" border="0" hspace="10"></td> -->
 <form name="form1" method="get" action="/search-lcd-screen.shtml"></form>
                     <td><input type="text" name="lcds_product" id="lcds_product" size="40" style="font-weight: bold; font-size: 10px; color: #483399; background: #eeeeee; border: 1px solid #333333" value="Product Search" onclick="javascript:if (this.value == 'Product Search') this.value = '';"></td>
                     <td><input type="image" src="/gfx/button-search.gif" name="Submit" border="0" hspace="3"></td>
@@ -144,15 +267,15 @@ _gaq.push(['_trackPageLoadTime']);
 
                   <table width="100%" border="0" cellspacing="1" cellpadding="1">
                    <tbody><tr style="font-size: 11px; font-weight: bold;" align="center">
-                    <td><a class="bottom-menu" href="https://www.screentekinc.com/shop/view_cart"><img src="/gfx/button-cart.gif" width="29" height="29" align="left" border="0"></a></td>
+                    <td><a class="bottom-menu" href="https://www.screentekinc.com/shop/view_cart"><img src="https://www.screentekinc.com/gfx/button-cart.gif" width="29" height="29" align="left" border="0"></a></td>
                     <td nowrap=""><a class="bottom-menu" href="https://www.screentekinc.com/shop/view_cart"><b><span style="color: #000000;">0 Items • $0.00</span><br>
                     <u>Shopping Cart</u></b></a></td>
                     <td><img src="/gfx/1x1-cccccc.gif" border="0" hspace="8" width="1" height="29"></td>
-                    <td><a class="bottom-menu" href="https://www.screentekinc.com/shop/check_out"><img src="/gfx/button-checkout.gif" width="29" height="29" align="left" border="0"></a></td>
+                    <td><a class="bottom-menu" href="https://www.screentekinc.com/shop/check_out"><img src="https://www.screentekinc.com/gfx/button-checkout.gif" width="29" height="29" align="left" border="0"></a></td>
                     <td nowrap=""><a class="bottom-menu" href="https://www.screentekinc.com/shop/check_out"><span style="color: #000000;">Est. Final Total: $0.00</span><br>
                     Check Out</a></td>
                     <td><img src="/gfx/1x1-cccccc.gif" border="0" hspace="8" width="1" height="29"></td>
-                    <td><a class="bottom-menu" href="https://www.screentekinc.com/shop/account"><img src="/gfx/button-account.gif" width="29" height="29" align="left" border="0"></a></td>
+                    <td><a class="bottom-menu" href="https://www.screentekinc.com/shop/account"><img src="https://www.screentekinc.com/gfx/button-account.gif" width="29" height="29" align="left" border="0"></a></td>
                     <td nowrap=""><a class="bottom-menu" href="https://www.screentekinc.com/shop/account">Your Account</a></td>
                    </tr>
                   </tbody></table>
@@ -493,6 +616,7 @@ function input_callback1() { var phonefield = document.callback1.telephone.value
 
                <b><a href="/">ScreenTek</a></b><br>
                <br>
+               <!--<a class="bottom" href="/careers.shtml">Careers</a><br>-->
                <a class="bottom" href="/contact-us.shtml">Contact Us</a><br>
                <a class="bottom" href="/faq.shtml">FAQ's</a><br>
                <a class="bottom" href="/shipping.shtml">Shipping</a><br>
@@ -513,6 +637,7 @@ function input_callback1() { var phonefield = document.callback1.telephone.value
                <a class="bottom" href="/backlight-ccfl-led-explained.shtml">Backlights explained: LED vs LCD vs CCFL</a><br>
                <a class="bottom" href="/pixelbright-lcds.shtml">Screen surface explained: Glossy vs Matte</a><br>
                <a class="bottom" href="/glossary/">Glossary of Industry Terms</a><br>
+               <a class="bottom" href="/misc-resources.html">Misc. Resources</a><br>
 
                </td>
                <td>
@@ -546,7 +671,7 @@ function input_callback1() { var phonefield = document.callback1.telephone.value
                </td>
                <td>
 
-               <p><img src="/qr/qr-m.screentekinc.com-code-url.png"></p>
+               <p><img src="/images/certified-logosm.png"></p>
 
                </td>
               </tr>
