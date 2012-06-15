@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225013617id_/http%3A//www.angara.com/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615140759id_/http%3A//www.angara.com/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy and Security | Angara.com
 
@@ -60,5 +60,5 @@ Angara is concerned about the privacy of young children and we do not knowingly 
 
 **Headquarters**  
 Angara Inc.  
-550 South Hill St, Suite 1554  
+550 South Hill St, Suite 1625  
 Los Angeles, CA 90013
