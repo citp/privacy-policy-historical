@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103024906id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingbolt.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616002304id_/http%3A//gamingbolt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GamingBolt.com: Video Game News, Reviews, Previews and Blog
+# Privacy Policy « GamingBolt.com: Video Game News, Reviews, Previews and Blog
 
 This policy describes the ways we collect, store, use and protect your personal information. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it.
 
