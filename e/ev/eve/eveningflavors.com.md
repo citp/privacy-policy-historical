@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveningflavors.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123084216id_/http%3A//www.eveningflavors.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningflavors.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615155358id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com
 
