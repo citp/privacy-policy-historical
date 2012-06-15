@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115930id_/http%3A//www.findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsomeone.co.nz privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615231644id_/http%3A//www.findsomeone.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FindSomeone
 
@@ -16,7 +16,7 @@ We have designed a thorough privacy policy with these things in mind.
 
 If you have any questions regarding our privacy policy, we encourage you to contact our privacy officer through our [contact form](https://web.archive.org/contactform.aspx).
 
-This privacy policy was last updated on 19th August 2011.
+This privacy policy was last updated on 1st May 2012.
 
 ### Collection and use of your information
 
@@ -32,7 +32,7 @@ You are required to provide us with certain personal information, such as your n
 
 You are encouraged to provide a lot of information about yourself for your profile to help find people to meet. You may update this information at any time. All information you provide for your profile should be considered public as any internet user can conceivably find this information. 
 
-Members may also have the ability to see which other members have viewed their profiles. 
+Members may also have the ability to see which other members have viewed their profile and saved them as a favourite. 
 
 We provide [options](https://web.archive.org/member/editoptions.aspx) to allow you to restrict visibility of your profile and visibility of any photos you upload. If you select "show my photos to anyone" your photo (and profile) may also appear in the FindSomeone newsletter. If you wish to remove your profile from the FindSomeone website, you may do this using the "remove my profile" link on the [options page](https://web.archive.org/member/editoptions.aspx). 
 
@@ -59,7 +59,7 @@ Customer service phone conversations may be recorded for internal training and q
 
   6. FindSomeone usage information.
 
-We may collect information on how you use FindSomeone for the purposes of improving our services. This includes collecting and storing information relating to features you use and pages you visit on FindSomeone. See also the section on "Cookies" below. This information is mainly used for our own purposes. However, members may have the ability to see which other members have viewed their profiles. 
+We may collect information on how you use FindSomeone for the purposes of improving our services. This includes collecting and storing information relating to features you use and pages you visit on FindSomeone. See also the section on "Cookies" below. This information is mainly used for our own purposes. However, members may have the ability to see which other members have viewed their profile and saved them as a favourite. 
 
 We use additional information to do internal research on our users' demographics, interests, and behaviour to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. 
 
