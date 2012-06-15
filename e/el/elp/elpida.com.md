@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022503id_/http%3A//www.elpida.com/en/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616005229id_/http%3A//www.elpida.com/en/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Elpida Memory
 
@@ -70,7 +70,7 @@ Visitors to these linked websites are advised to check the information privacy p
   10. **Contact information**  
 Please direct any inquiries regarding the privacy policy Elpida Memory maintains for its website to the following: 
 
-[Please click here for the inquiry](https://web.archive.org/web/20111210022503id_/http%3A//www.elpida.com/en/images/ppolicy_contact.gif)
+[Please click here for the inquiry](https://web.archive.org/web/20120616005229id_/http%3A//www.elpida.com/en/images/ppolicy_contact.gif)
 
 Information contained in the visitor's inquiry may be redirected to an appropriate section of Elpida in order to present the visitor with a suitable answer. Please understand our email procedures and kindly submit your inquiry.
 
