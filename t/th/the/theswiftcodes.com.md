@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the theswiftcodes.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108013755id_/http%3A//www.theswiftcodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theswiftcodes.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615182407id_/http%3A//www.theswiftcodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : the SWIFT codes
 
 The SWIFT code consists of 8 or 11 characters. When 8-digits code is given, it refers to the primary office.
+
+Currently, there are over 7,500 “live” SWIFT codes. The "live" codes are for the partners who are actively connected to the SWIFT network. On top of that, there are more than 10,000 additional codes, which are used for manual transactions. These additional codes are for the passive participants.
+
+The registrations of SWIFT Codes are handled by Society for Worldwide Interbank Financial Telecommunication (“SWIFT”) and their headquarters is located in La Hulpe, Belgium.
+
+SWIFT is the registered trademarks of S.W.I.F.T. SCRL with a registered address at Avenue Adèle 1, B-1310 La Hulpe, Belgium.
 
 **Privacy Policy for www.theswiftcodes.com**
 
