@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207085259id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615045408id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,15 +120,18 @@ You may choose to:
 
 To do any of these, let us know by one of these methods:
 
-* Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us.
-* Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information.
-* Send an e-mail with your request and current contact information to _[PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)_
-* Send a letter with your request and current contact information to: 
+  * Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us.
+  * Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information.
+  * Send an e-mail with your request and current contact information to _[PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com)_
+  * Send a letter with your request and current contact information to: 
 
 Best Buy Corporate Campus  
 Attn: Customer Care/Privacy  
 7601 Penn Avenue South  
 Richfield, MN 55423-3645 
+
+
+
 
 ## Interest-Based Advertising
 
@@ -172,4 +175,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645 
 
-Last Updated: 7.15.2011
+Last Updated: 5.23.2012
