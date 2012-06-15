@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articledepot.net privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217142008id_/http%3A//www.articledepot.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledepot.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615175455id_/http%3A//www.articledepot.net/privacy) for the most accurate reproduction.*
 
 # Articledepot.net Free Website Content | Free Article Directory » Privacy
 
