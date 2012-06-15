@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517132742id_/http%3A//www.booking.com/general.en-us.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615141913id_/http%3A//www.booking.com/general.en.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
 
-# Booking.com: Privacy statement. Book your hotel now!
+# Booking.com: Privacy Statement. Book your hotel now!
 
-## Privacy policy
+## Privacy Policy
 
 We highly value your trust in choosing Booking.com for your online hotel reservation. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal details (including your credit card details).
 
 This privacy policy applies to all of our services (whether accessed or made available online or through any other platform or device (hereafter collectively referred to as the "website")).
 
-## Information collection
+## Information Collection
 
 When you make a reservation for a hotel (or any other type of accommodation), you will be asked to complete online forms providing: your name, (home or office) address, (business or private) email address, (cell, home or office) telephone number, credit card details (i.e. credit card type and number, CVC code, expiration date, credit card holder name) and to the extent available, reservation preferences and smoking preference. This information is required to process, book and complete your reservation (including the sending of a confirmation email of the booking to you).
 
-## Disclosure of personal details
+## Disclosure of Personal Details
 
 For our services, we shall collect for the following purposes the following information:
 
-_Reservation orders:_ For the purposes of completing your booking and save for disclosures required by law, criminal investigations, subpoenas or court orders, we will only disclose your name, contact details and the credit card details to the relevant hotel with which a booking is made. However, please note that from time to time, we may use third party distributors which provide certain services and functions for and on our behalf. These third party distributors may have access to (part of your) personal information in order to perform their services and functions, but are subject to a confidentiality obligation pursuant to which they cannot use, share or disclose the information for any other purpose.
+_Reservation Orders:_ For the purposes of completing your booking and save for disclosures required by law, criminal investigations, subpoenas or court orders, we will only disclose your name, contact details and the credit card details to the relevant hotel with which a booking is made. However, please note that from time to time, we may use third party distributors which provide certain services and functions for and on our behalf. These third party distributors may have access to (part of your) personal information in order to perform their services and functions, but are subject to a confidentiality obligation pursuant to which they cannot use, share or disclose the information for any other purpose.
 
 _Surveys:_ By completing a booking, you agree to receive an email with an invitation to complete our guest review form. We send you this email shortly after your stay at the hotel, and the guest review form can be completed anonymously. By completing the guest review, you agree that the completed guest review can be uploaded to and used on our website on the relevant hotel information page and on such other platforms and social media (wholly or partly) owned, controlled, managed or hosted by us or our trusted business partners for the sole purpose of informing (future) customers on the service (level) and quality of the relevant hotel. We reserve the right to adjust, refuse or remove review forms at our sole discretion. The guest review form should be regarded as a survey and does not include any (further commercial) offers, invitations or incentives whatsoever.
 
-_Newsletters and other information:_ If you would like to subscribe to our newsletter or would like to receive promotional communications or other information from us (in respect to our affiliated companies' or business partners' products or services), we offer you the option to "Opt in" for this service. If you no longer want to receive our newsletter and other promotional communications, you can simply click on the unsubscribe link.
+_Newsletters and Other Information:_ If you would like to subscribe to our newsletter or would like to receive promotional communications or other information from us (in respect to our affiliated companies' or business partners' products or services), we offer you the option to "Opt in" for this service. If you no longer want to receive our newsletter and other promotional communications, you can simply click on the unsubscribe link.
 
 _Visitor's registration, log in and use of "cookies" and web beacons:_ For (improvement of) our service and product, we use (temporary and persistent) cookies, authorized third parties cookies, web beacons and/or other technologies to collect non-personally identifiable data such as IP address, browser type and Internet Service Provider (ISP) and (for users of our service through a mobile device) Unique Device Identifier, Operating System and Latitude/Longitude (the "Non-PII"). This non-personally identifiable data helps us to track browsing behavior, to create specific or tailor-made offers or advertisements, and to monitor and record the visits and use of our website(s).
 
@@ -32,7 +32,7 @@ Please note that from time to time, we may use third party service providers for
 
 When visiting and using our website, we do not share any personal information about our customers with our Service Providers and the Service Providers will not collect any personally identifiable information ("PII"). PII does not include your IP address, browser type, Internet Service Provider , Unique Device Identifier, Operating System and Latitude/Longitude. We may share and disclose your personal details and information to a governmental or investigative authority if required by law (or any regulation having the force of law), legal process, criminal investigation, court order or subpoena.
 
-_About cookies and web beacons:_ Cookies are text files stored in your computer, either temporarily or persistently on your hard drive. Cookies are used for authenticating, session tracking (state maintenance) and maintaining specific information on the use and users of our website, such as site preferences or the contents of electronic shopping carts. Cookie files may also be placed in your computer by our trusted third-party advertising companies for the purposes as set out in this paragraph. The data collected by these cookies are completely anonymous. If you prefer, you can delete all cookies that are already on your computer's hard drive by searching for files with "cookie" in them and delete them, and for the future, you can edit your browser options such that (future) cookies are blocked; however, please note that if you do this you may not be able to use the full functionality of our website. For more information about (the use and decline of) cookies, please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+_About Cookies and Web Beacons:_ Cookies are text files stored in your computer, either temporarily or persistently on your hard drive. Cookies are used for authenticating, session tracking (state maintenance) and maintaining specific information on the use and users of our website, such as site preferences or the contents of electronic shopping carts. Cookie files may also be placed in your computer by our trusted third-party advertising companies for the purposes as set out in this paragraph. The data collected by these cookies are completely anonymous. If you prefer, you can delete all cookies that are already on your computer's hard drive by searching for files with "cookie" in them and delete them, and for the future, you can edit your browser options such that (future) cookies are blocked; however, please note that if you do this you may not be able to use the full functionality of our website. For more information about (the use and decline of) cookies, please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 Web beacons consist of a small string of software code that represents a graphic image request on a Web page or email. There may or may not be a visible graphic image associated with the web beacon and often the image is designed to blend into the background of a Web page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. Web beacons used by Booking.com collect only anonymous data.
 
@@ -51,7 +51,7 @@ Furthermore, we have implemented and use security procedures and technical and p
 
 Our server and network are protected by firewalls against unauthorized access and we have intrusion detection systems that monitor and detect unauthorized (attempts to) access or misuse our servers.
 
-Your credit card details will be kept by us up to a maximum of 10 days after a booking is made. After that period, your credit card data will be deleted.
+Your credit card details will be kept by us up to a maximum of 10 days after a booking is made. After that period, your credit card data will be deleted, unless you have stored your credit card in your personal account.
 
 ## Control over your data
 
@@ -66,8 +66,8 @@ After you have made a booking, you will receive a confirmation message with all 
 
 ## Contact
 
-Booking.com B.V. is the responsible party for the processing of the personal data. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Weteringschans 28, 1017 SG, Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246.
+Booking.com B.V. is the responsible party for the processing of the personal data. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246.
 
-If you have any suggestions or remarks about this privacy statement, please send an email to: [phfgbzre.freivpr@obbxvat.pbz](mailto:%20customer.service@booking.com?subject=Privacy%20statement)
+If you have any suggestions or remarks about this privacy statement, please send an email to: [phfgbzre.freivpr@obbxvat.pbz](mailto:%20customer.service@booking.com?subject=Privacy%20Statement)
 
 We are at all times entitled to change the way we collect, transmit and process personal information and such other information as we may deem necessary. This Privacy Statement may therefore be amended from time to time in order to reflect the latest changes.
