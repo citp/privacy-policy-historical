@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213184545id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615215705id_/http%3A//www.foxybingo.com/privacy.php) for the most accurate reproduction.*
 
-# Foxy Bingo. £20 free gameplay when you deposit £10. Play Online Bingo.
+# Foxy Bingo - Foxy Bingo - join now and get a £20 welcome bonus at the UK's Top Online Bingo site!
+
+## Privacy Policy
 
 The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. 
 
 As such, all personal data and customer funds are transferred to and stored by Cassava on its servers in Gibraltar. Cassava is happy to provide you with online bingo services under its remote gambling licence issued by the Government of Gibraltar, and is committed, along with the Brand Owner, (collectively the "Company", "we" or "us"), to preserving the privacy of all visitors to the Website.
 
-When you use the Company's bingo services, you shall be asked to provide personal identifiable information ("PII") to the Company. The Company, as mentioned above, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online bingo services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions using the form on [this page](http://www.foxybingo.com/skin/help/contact.php) and we will do our best to answer your questions in full as quickly as possible. 
+When you use the Company's bingo services, you shall be asked to provide personal identifiable information ("PII") to the Company. The Company, as mentioned above, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online bingo services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions using the form on [this page](http://foxybingo.com/help-contact-us.php) and we will do our best to answer your questions in full as quickly as possible. 
 
 #### Personal Identifiable Information Collection
 
@@ -24,11 +26,11 @@ We ensure that your information will not be disclosed to government institutions
 
 #### Your Choice - Direct Marketing
 
-Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by sending a blank message with the word "Remove" in the subject area using the form on [this page](http://www.foxybingo.com/skin/help/contact.php) If you would like to stop receiving our mail or telemarketing offers, please call 1-800-480-5170 or write to Cassava Enterprises (Gibraltar) Limited, Suite 601/701, Europort, Gibraltar. 
+Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by sending a blank message with the word "Remove" in the subject area using the form on [this page](http://foxybingo.com/help-contact-us.php) If you would like to stop receiving our mail or telemarketing offers, please call 1-800-480-5170 or write to Cassava Enterprises (Gibraltar) Limited, Suite 601/701, Europort, Gibraltar. 
 
 #### Your Rights in relation to your PII
 
-You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email contact us using the form on [this page](http://www.foxybingo.com/skin/help/contact.php). We may levy a small charge to cover the cost of administration. 
+You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email contact us using the form on [this page](http://foxybingo.com/help-contact-us.php). We may levy a small charge to cover the cost of administration. 
 
 #### Security
 
@@ -64,6 +66,6 @@ Your PII will not be stored for any longer period than is necessary for the purp
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing. 
 
-If you have any enquiry about this Privacy Policy please contact our Customer Services team using the form on [this page](http://www.foxybingo.com/skin/help/contact.php). 
+If you have any enquiry about this Privacy Policy please contact our Customer Services team using the form on [this page](http://foxybingo.com/help-contact-us.php). 
 
 [ Last amended: 6th August 2009 ]
