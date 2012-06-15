@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615075348id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Using Financial Stock Market & Investing Analysis & Premium Services | Privacy | TheStreet
 
-[About Us](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/index.html) | [Investor Relations](https://web.archive.org/investor-relations/index.html) | [Jobs](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/jobs.html) | [Terms of Use](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/terms-of-use.html) | [Masthead](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/masthead.html) | [Who's Who](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/whos-who.html) | [Conflicts & Disclosure Policy](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/disclosure.html) | [Privacy Policy](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/privacy.html) | [Reprints](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/reprints.html) | [Corrections](https://web.archive.org/story/corrections.html) | [FAQs](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/faq.html)
-
 TheStreet
 
-_Last revised: July 14, 2011_
+_Last revised: February 24, 2012_
 
-TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [Terms of Use](https://web.archive.org/web/20111228182635id_/http%3A//www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
+TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [Terms of Use](https://web.archive.org/web/20120615075348id_/http%3A//www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
 
 Questions or comments regarding this policy should be directed to [privacy@thestreet.com](mailto:privacy@thestreet.com).
 
@@ -18,7 +16,7 @@ We gather two types of data about our users: personal information and tracking i
 
 ## PERSONAL INFORMATION
 
-Personal information is provided by users when registering on TheStreet Portfolio of Websites as a member of TheStreet, our free flagship site, or another one of our free websites, when registering as a subscriber to one of our premium subscription services, and voluntarily at certain other points, such as entering contests or completing surveys. We will always provide a secure area of our sites for you to enter your information, but if you prefer, you may talk offline to a customer service representative and provide the required information by email at [members@thestreet.com](mailto:members@TheStreet.com), or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET.
+Personal information is provided by users when registering on TheStreet Portfolio of Websites as a member of TheStreet, our free flagship site, or another one of our free websites, when registering as a subscriber to one of our premium subscription services, and voluntarily at certain other points, such as entering contests or completing surveys. You may enter your information on our site, but if you prefer, you may talk offline to a customer service representative and provide the required information by email at [members@thestreet.com](mailto:members@TheStreet.com), or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET.
 
 Registering for Membership on TheStreet
 
@@ -28,11 +26,11 @@ In order to register, you will have to supply us with your email address and cho
 
 Subscribing to Premium Services
 
-If you would like access to one or more of our premium subscription-based services, you first must [register](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) as a member of TheStreet as described above. Then, on the subscription registration page for the premium service you are interested in, you will need to supply us with the information specified to activate your free trial or paid subscription. This may include credit card or other payment account information which we maintain in encrypted form on secure servers. By registering, you consent to our using your information to contact you for account maintenance issues, or with offers for our products or services or the products or services of third parties. This contact may occur in any manner, including without limitation, via direct mail, email or telephone.
+If you would like access to one or more of our premium subscription-based services, you will need to supply us with the information specified to activate your free trial or paid subscription. This may include credit card or other payment account information which we maintain in encrypted form on our servers.
 
 Other Personal Information Collection:
 
-  * Portfolio Tool - We provide a free portfolio tool which registered members of TheStreet can use to stay current on stocks in their portfolio. Participant's portfolio information is kept confidential.
+  * Portfolio Tool - We may provide a free portfolio tool which registered members of TheStreet can use to stay current on stocks in their portfolio. Participant's portfolio information is kept confidential.
   * White Papers - We may offer white papers on various investment and financial topics. In order to download these special reports, you may be required to enter your email address, phone number and/or some additional personal information.
   * Blogs - We may offer blogs featuring running commentary throughout the trading day by some of our most popular contributors. These blogs allow subscribers to respond to a blogger's commentary or to another subscriber's post. Access to some blogs may require a paid subscription to one of our premium services. We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment. Please note that information submitted to the blogs will be available for any user of that service to read, and is no longer private.
   * Surveys/Polls - At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, for example, your investment experience or your reaction to a particular article. Because information obtained in these surveys is connected with individual subscribers and is used internally or by third-party partners to better market our services, participation is voluntary. In addition, some columnists will on occasion take polls of their readers. Such polls are solely for the editorial use of the individual columnists, and participation is voluntary.
@@ -56,18 +54,16 @@ TheStreet uses the personal information and tracking information obtained from i
 
   * To enhance users' experiences on TheStreet Portfolio of Websites, including the display of customized content and advertising;
   * To improve our content;
-  * To notify visitors about updates to TheStreet Portfolio of Websites and our Services (as such term is defined in our Terms of Use);
+  * To notify visitors about updates to TheStreet Portfolio of Websites and our Services (as such term is defined in our Terms of Use) and to contact users regarding account maintenance issues in any manner including without limitation, via direct mail, email, telephone or SMS text messages;
   * To maintain and improve TheStreet Portfolio of Websites and our Services;
-  * To ensure the technical functioning of TheStreet Portfolio of Websites and our Services;
-  * To provide you via email, telephone, or SMS text message with information and offers for our Services, as well as free email newsletters containing selected stories, market information, advertisements and links to TheStreet Portfolio of Websites. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account or contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET;
-  * To deliver our Services. You can view your account information at any time by visiting the Your Account or by contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET; and
-  * To contact you via email, telephone, or SMS text message with special offers and advertisements for products or services offered by third parties. If you do not wish to receive third party offers and advertisements, please change your settings on our [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account, or contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET.
+  * To ensure the technical functioning of TheStreet Portfolio of Websites and our Services; and
+  * To deliver our Services, as well as free email newsletters containing selected stories, market information, advertisements and links to TheStreet Portfolio of Websites, or to contact you via direct mail, email, telephone, or SMS text message with information and offers for our Services, as well as special offers and advertisements for products or services offered by third parties. You can select which free newsletters you would like to receive, unsubscribe from delivery of our free newsletters, our marketing messages and third party offers and advertisements at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account or contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET. Please note that if you unsubscribe from communications but subsequently reregister with TheStreet or enter your email address into any form on TheStreet Portfolio of Websites, your communication preferences may revert from their unsubscribed status and/or you may receive communications from which you had previously unsubscribed.
 
 
 
 Information Sharing
 
-TheStreet does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances: 
+TheStreet does not sell or disclose personal information about you described above to other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances: 
 
   * In response to subpoenas, court orders, or legal process, or otherwise to cooperate with law enforcement agencies or state and federal regulators;
   * We provide the information to our subsidiaries and affiliated companies;
