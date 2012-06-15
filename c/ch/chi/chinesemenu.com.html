@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chinesemenu.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230063604id_/http%3A//www.chinesemenu.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chinesemenu.com privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616013101id_/http%3A//www.chinesemenu.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,21 +30,10 @@
 <span>
           Order service: <strong title="Phone call">1-888-727-6368</strong>
 </span>,
-        <script type="text/javascript"><!--
-            var HOSTNAME = location.hostname;
-            HOSTNAME = HOSTNAME.substring(0,HOSTNAME.indexOf(".")).toLowerCase();
-            if(HOSTNAME=="www"){
-            HOSTNAME = "us";
-            }
-            if($.Cookies.get("dineremail")!="" && $.Cookies.get("dinerpwd")){
-            document.write("<a href='/account/?type=my'>My! "+$.Cookies.get("dineremail")+"</a><a href='/account/signout.htm'>Sign out</a>");
-            }else if($.Cookies.get("resturemail")!="" && $.Cookies.get("resturpwd")){
-            document.write("<a href='http://"+$.Cookies.get("restcountry")+".chinesemenu.com/restboss/?tab=home'>My! "+$.Cookies.get("resturemail")+"</a><a href='/account/signout.htm'>Sign out</a>");
-            }else{
-            document.write("<a href='https://"+location.hostname+"/account/signin-"+HOSTNAME+".htm'>Sign In</a><a href='https://"+location.hostname+"/account/register-"+HOSTNAME+".htm'>Regsiter</a>");
-            }
-          -->
-</script>
+        
+        <script language="javascript">
+        	userLoginInfo();
+        </script>
 <a href="javascript:feedback.showDialog()">Feedback</a>
 <a href="/learningcenter/">LearningCenter</a>
 <a href="/help/">Help</a>
@@ -56,18 +45,9 @@
               cn:China,
               ">
 
-<script type="text/javascript"><!--
-              var countries = document.getElementById("countryCode").value.split(",");
-              var country = "";
-              for(var i=0; i<countries.length-1; i++){
-              if(countries[i].substring(0,HOSTNAME.length).toLowerCase()==HOSTNAME){
-              country = countries[i].split(":")[1];
-              break;
-              }
-              }
-              document.write('<a href="javascript:void(0)">'+country+'▼</a>');
-            -->
-</script><a href="javascript:void(0)">▼</a>
+<script type="text/javascript">           
+			writeCountry();            
+          </script>
 <ul id="countries">
 <li>
 <a href="http://us.chinesemenu.com/">USA</a>
@@ -92,14 +72,8 @@
 <form method="get" action="/search/" style="margin:0; padding:0" onsubmit="this.q.value=this.q.value.trim();if(this.q.value=='')return false">
 <div class="search">
 <img src="/images/home.gif" align="absmiddle">
-<input type="text" name="q" value="" class="q" onfocus="this.select()">
+<input type="text" name="q" value="" class="q">
 <input type="submit" value="Find Restaurant" class="b">
-<script type="text/javascript"><!--
-              if(HOSTNAME!="uk" && HOSTNAME!="au"){
-              document.write('<a href="/search/?q=top100"><img src="/images/top100ico.gif" border="0" align="middle" />TOP100</a>');
-              }
-            -->
-</script><a href="/search/?q=top100"><img src="/images/top100ico.gif" border="0" align="middle">TOP100</a>
 </div>
 </form>
 </div>
@@ -194,7 +168,8 @@
 </div>
 <div class="right">
 <div id="recent"></div>
-<script type="text/javascript"><!--
+<script type="text/javascript">
+        
           var obj = new Ajax.Request(
           "/search/?type=recent",
           {
@@ -212,8 +187,8 @@
           $.Import("/ad-"+HOSTNAME+"/adjs.js");
           adjs.ad03();
           adjs.ad04();
-        -->
-</script>
+        
+      </script>
 </div>
 <div class="center">
 <div style="font-size:14px;padding-top:10px;padding-left:15px;">Location:<a href="">Home</a>&gt;Privacy</div>
@@ -389,26 +364,29 @@ You will not have the ability to opt-out of receiving transactional and relation
 <a href="/">Home</a> |
         <a href="/aboutus.html">About Us</a> | <a href="/contactus.html">Contact Us</a> | <a href="/learningcenter/">LearningCenter</a> | <a href="/help/">Help</a> | <a href="/privacypolicy.html">Privacy Policy</a> | <a href="javascript:feedback.showDialog()">Feedback</a> | <a href="http://top100.chinesemenu.com/" target="_blank">Top100 Restaurant</a>
 </div>
-<div class="links">
-<a href="http://www.facebook.com/profile.php?id=100001168642161&amp;ref=ts" title="facebook" target="_blank">
-<img src="/images/facebook.gif">
-</a>&nbsp;<a href="http://www.myspace.com/538106174" title="myspace" target="_blank">
-<img src="/images/myspace.gif">
-</a>&nbsp;<a href="http://twitter.com/Chinese_Menu" title="twitter" target="_blank">
-<img src="/images/twitter.gif">
-</a>&nbsp;<a href="http://www.youtube.com/user/MyChineseMenu" title="youtube" target="_blank">
-<img src="/images/youtube.gif">
-</a>&nbsp;<a href="http://www.foodbuzz.com/foodies/profile/chinesemenu" title="foodbuzz" target="_blank">
-<img src="/images/foodbuzz.gif">
-</a>&nbsp;</div>
+<div class="linkicon">
+<a href="http://www.facebook.com/chinesemenupage" target="_blank"><span class="facebook">&nbsp;</span>Facebook</a>
+<a href="http://www.facebook.com/pages/ChineseMenu%E5%9B%BD%E9%99%85%E4%B8%AD%E9%A4%90%E7%BD%91/209804112457385" target="_blank">
+<span class="facebook">&nbsp;</span>Facebook中文</a>
+<a href="https://twitter.com/#!/Chinese_Menu" target="_blank">
+<span class="twitter">&nbsp;</span> Twitter
+        </a>
+<a href="http://www.youtube.com/user/MyChineseMenu/videos" target="_blank">
+<span class="youtube">&nbsp;</span> YouTube
+        </a>
+<a href="http://www.flickr.com/photos/chinese_menu/" target="_blank">
+<span class="flickr">&nbsp;</span> Flickr
+        </a>
+</div>
 <div class="copyright">
 <a href="http://www.frontsql.com" target="_blank">
 <img src="/images/frontsql.gif" align="absmiddle">
-</a>Copyright ©<a href="http://www.s-b-s.net" target="_blank">s-b-s.net</a> All rights reserved.
+</a>Copyright ©<a href="http://www.chinesemenu.com" target="_blank">ChineseMenu.com</a> All rights reserved.
       </div>
 </div>
 </div>
-<script type="text/javascript"><!--
+<script type="text/javascript">
+      
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-18171544-1']);
         _gaq.push(['_setDomainName', '.chinesemenu.com']);
@@ -419,8 +397,8 @@ You will not have the ability to opt-out of receiving transactional and relation
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-      -->
-</script>
+      
+    </script>
 
 
 
