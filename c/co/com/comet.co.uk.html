@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comet.co.uk privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231222917id_/http%3A//www.comet.co.uk/static/services/our-site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comet.co.uk privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615155658id_/http%3A//www.comet.co.uk/static/services/our-site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -42,7 +42,8 @@
 	
 <div id="header">
 	<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
---><script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/jquery.autocomplete.js"></script>
+-->
+<script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/jquery.autocomplete.js"></script>
 <!-- <link rel="stylesheet" href="http://css.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/css/jquery.autocomplete.css" type="text/css" />
 -->        
             
@@ -59,9 +60,10 @@
     <ul>
 
 	<!-- START ContentInclude.jsp --><li class="shopping selected"><a href="http://www.comet.co.uk" title="Shopping on Comet.co.uk">Shopping</a></li>
-<li class="services_selected"><a href="http://www.comet.co.uk/static/services/services_home/comet-services" title="Comet's Services and Support">Services &amp; Support</a></li>
-<li class="advice"><a href="http://www.pluggedin.co.uk/" title="Product videos and advice" target="_blank">Videos &amp; Advice</a></li>
-<li class="advice"><a href="http://www.clearance-comet.co.uk/" title="Comet clearance" target="_blank">Clearance Auctions</a></li>
+<li class="services_selected"><a href="/static/services/services_home/comet-services" title="Comet's Services and Support">Services &amp; Support</a></li>
+<li class="privacy_selected"><a title="Privacy &amp; Cookies." href="/static/services/our-site/privacy">Privacy &amp; Cookies</a></li>
+<li class="advice"><a href="http://www.clearance-comet.co.uk/" onclick="recordOutboundLink(this, 'Outbound Links', 'clearance-comet.co.uk');" title="Comet clearance" target="_blank">Clearance Auctions</a></li>
+
       	<!-- END ContentInclude.jsp -->
 
       <li class="basket"><a href="https://secure.comet.co.uk/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10002&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView" id="cicOrderCalc" title="My Basket">My basket</a>
@@ -209,7 +211,7 @@
                 <input name="storeQuery" id="storeQuery" type="text" class="text">
               </p>
               <p class="button_container">
-                <button type="submit" class="orange" onclick="javascript:window.location='http://classic.multimap.com/clients/places.cgi?client=comet_new';"><span class="search">Search</span></button>
+                <button type="submit" class="orange"><span class="search">Search</span></button>
               </p>
 
             </fieldset>
@@ -235,8 +237,20 @@
         </p>
       </fieldset>	 
    </form>
+<script>
+$(document).ready(function(){
+
+	$("#searchQuery").autocomplete($('#psuffix').val()+"endecaTypeAhead.jsp");
+
+});   
+</script>
+   
   </div>
-  <p class="orderbyphone"><span>Order by phone</span> 08712 009 009 <span id="dis">10p a min plus network extras</span></p>
+  <!-- Change for Services & FAQ banner change in Home page Start- Cognizant -->
+  <div id="servhome">
+  	<img src="/wcsstore/CometSharedStoreFront/Comet/img/services-homebanner.jpg" alt="Services">
+   </div>
+   <!-- Change for Services & FAQ banner change in Home page End - Cognizant -->
   <script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/Header.js"></script><!--START- Adding new piece of code for Robbie- This a temporary fix and all hubs has to come from CRX in overnight feed --><!--END- Adding new piece of code for Robbie -->	 
 
   <div id="navigation">
@@ -249,16 +263,16 @@
 	<h4 class="lilach4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="lilac">	
 		<li class="pi_nav_list">
-   <a target="_blank" href="http://www.pluggedin.co.uk/article/all-you-need-know-about-buying-washing-machine?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-washguide&amp;utm_campaign=meganav" class="pi_laundish_icon1">Top tips for buying a washing <span class="new_win_icon"> machine</span></a>
+   <a target="_blank" href="http://www.pluggedin.co.uk/article/all-you-need-know-about-buying-washing-machine?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-washguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_laundish_icon1">Top tips for buying a washing <span class="new_win_icon"> machine</span></a>
 		</li> 
 		<li class="pi_nav_list">
-			  <a target="_blank" href="http://www.pluggedin.co.uk/article/buying-dishwasher-how-choose-right-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-dishwashguide&amp;utm_campaign=meganav" class="pi_laundish_icon2">Find the right dishwasher for <span class="new_win_icon">you</span> </a>			
+			  <a target="_blank" href="http://www.pluggedin.co.uk/article/buying-a-dishwasher-how-to-choose-the-right-one?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_laundish_icon2">Find the right dishwasher for <span class="new_win_icon">you</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-			   <a target="_blank" href="http://www.pluggedin.co.uk/article/all-you-need-know-about-buying-washer-dryer?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-washdryguide&amp;utm_campaign=meganav" class="pi_laundish_icon3">Your guide to buying a washer <span class="new_win_icon">dryer</span> </a>			
+			   <a target="_blank" href="http://www.pluggedin.co.uk/article/all-you-need-know-about-buying-washer-dryer?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-washdryguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_laundish_icon3">Your guide to buying a washer <span class="new_win_icon">dryer</span> </a>			
 		</li>	
 		<li class="pi_nav_list">
-			     <a target="_blank" href="http://www.pluggedin.co.uk/article/all-you-need-know-about-buying-tumble-dryer?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-tumbledryguide&amp;utm_campaign=meganav" class="pi_laundish_icon4">Complete tumble dryer buyer's  <span class="new_win_icon">guide</span> </a>			
+			     <a target="_blank" href="http://www.pluggedin.co.uk/article/all-you-need-know-about-buying-tumble-dryer?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-tumbledryguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_laundish_icon4">Complete tumble dryer buyer's  <span class="new_win_icon">guide</span> </a>			
 		</li>							
 	</ul>
 </div>
@@ -286,9 +300,11 @@
         <li><a href="/c/Integrated-Laundry-Dishwashers/Integrated-Tumble-Dryers/1730">Integrated Tumble Dryers</a></li>
     </ul>
 </div>
+
 <br style="clear:left;">
 <!-- added clear left after every third mnhub -->
-
+<!-- added clear class for new line, after every forth mnhub -->
+<!--<div class="clear"></div>-->
 <div class="mnhub">
     <h4><a href="/c/Laundry-Dishwashers/Washer-Dryers/1724">Washer Dryers</a></h4>
     <ul>
@@ -297,8 +313,6 @@
     </ul>
 </div>
 
-<!-- added clear class for new line, after every forth mnhub -->
-<!--<div class="clear"></div>-->
 <div class="mnhub">
     <h4><a href="/c/Laundry-Dishwashers/Laundry-Dishwasher-Accessories/1734">Laundry &amp; Dishwashing Accessories</a></h4>
     <ul>
@@ -326,20 +340,27 @@
 	<h4 class="lilach4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="lilac">	
 		<li class="pi_nav_list">
-		<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-fridge-or-freezer-guide-choosing-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-refrigerationguide&amp;utm_campaign=meganav" class="pi_ff_icon1">Top tips for buying a fridge or <span class="new_win_icon">freezer </span> </a>			
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-a-fridge-or-freezer-a-guide-to-choosing-one?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_ff_icon1">Top tips for buying a fridge or <span class="new_win_icon">freezer </span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/fully-frost-free-refrigeration-explained?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-frostfreevid&amp;utm_campaign=meganav" class="pi_ff_icon2">Fully frost free  <span class="new_win_icon">refrigeration</span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/fully-frost-free-refrigeration-explained?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-frostfreevid&amp;utm_campaign=meganav" rel="nofollow" class="pi_ff_icon2">Fully frost free  <span class="new_win_icon">refrigeration</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-		<a target="_blank" href="http://www.pluggedin.co.uk/article/how-organise-your-fridge-and-freezer?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-tidyfridgeguide&amp;utm_campaign=meganav" class="pi_ff_icon3">How to keep food fresher &amp; <span class="new_win_icon">safer </span> </a>			
+
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/how-organise-your-fridge-and-freezer?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-tidyfridgeguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_ff_icon3">How to keep food fresher &amp; <span class="new_win_icon">safer </span> </a>			
+		</li>	
+        
+        <li class="pi_nav_list">
+
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/things-to-look-for-when-choosing-a-fridge?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_ff_icon4">Things to look for when buying a <span class="new_win_icon"> fridge</span> </a>			
 		</li>					
 	</ul>
 </div>
 
+
 <div class="mnhub">
     <h4><a href="/c/Fridges-Freezers/Fridge-Freezers/1735">Fridge Freezers</a></h4>
-    <ul>
+    <ul class="">
         <li><a href="/c/Fridges-Freezers/Fridge-Freezers/1735">Fridge Freezers</a></li>
         <li><a href="/c/Fridges-Freezers/American-Style-Fridge-Freezers/1736">American Style Fridge Freezers</a></li>
         <li><a href="/c/Integrated-Fridges-Freezers/Integrated-Fridge-Freezers/1747">Integrated Fridge Freezers</a></li>
@@ -362,8 +383,8 @@
         <li><a href="/c/Freezers/Chest-Freezers/1746">Chest Freezers</a></li>
     </ul>
 </div>
-<br style="clear:left;">
 <!-- added clear left after every third mnhub -->
+<br style="clear:left;">
 
 <div class="mnhub">
     <h4><a href="/c/Fridges-Freezers/Chillers/1740">Chillers</a></h4>
@@ -373,15 +394,13 @@
     </ul>
 </div>
 
-<!-- added clear class for new line, after every forth mnhub -->
-<!--<div class="clear"></div>-->
-
 <div class="mnhub">
     <h4><a href="/c/Fridges-Freezers/Refrigeration-Accessories/2024">Refrigeration Accessories</a></h4>
     <ul>
         <li><a href="/c/Fridges-Freezers/Refrigeration-Accessories/2024">Refrigeration Accessories</a></li>
     </ul>
 </div>
+
 
       	<!-- END ContentInclude.jsp -->
   		<p class="banner">
@@ -403,19 +422,22 @@
 	<h4 class="lilach4"><span>Plugged in - helpful guides</span></h4>
 		<ul class="lilac">	
 		<li class="pi_nav_list">
-						<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-freestanding-cooker-all-you-need-know?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-freecookguide&amp;utm_campaign=meganav" class="pi_cooking_icon1">Our guide to buying a freestanding <span class="new_win_icon">cooker</span> </a>			
+						<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-freestanding-cooker-all-you-need-know?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-freecookguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_cooking_icon1">Our guide to buying a freestanding <span class="new_win_icon">cooker</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-								<a target="_blank" href="http://www.pluggedin.co.uk/article/choosing-built-cooker-all-you-need-know?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-builtcookguide&amp;utm_campaign=meganav" class="pi_cooking_icon2">Built-in cookers – what you need to <span class="new_win_icon">know </span> </a>			
+								<a target="_blank" href="http://www.pluggedin.co.uk/article/choosing-a-built-in-cooker-all-you-need-to-know?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_cooking_icon2">Built-in cookers - what you need to <span class="new_win_icon">know </span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-								<a target="_blank" href="http://www.pluggedin.co.uk/article/looking-microwave-your-guide-buying-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-microguide&amp;utm_campaign=meganav" class="pi_cooking_icon3">Find the best <span class="new_win_icon">microwave</span> </a>			
+
+								<a target="_blank" href="http://www.pluggedin.co.uk/article/looking-for-a-microwave-your-guide-to-buying-one?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_cooking_icon3">Find the best <span class="new_win_icon">microwave</span> </a>			
 		</li>
 		<li class="pi_nav_list">
-									<a target="_blank" href="http://www.pluggedin.co.uk/article/induction-cooking-rocks?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-inductionrocks&amp;utm_campaign=meganav" class="pi_cooking_icon4">Induction cooking  <span class="new_win_icon">rocks!</span> </a>			
+									<a target="_blank" href="http://www.pluggedin.co.uk/article/built-in-cooking-what-are-the-options?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_cooking_icon4">Built-in cooking, what are the<span class="new_win_icon"> options</span> </a>			
 		</li>							
 	</ul>
 </div>
+
+
 
 <div class="mnhub">
     <h4><a href="/s/Kitchen-Home/Cookers/1682">Cookers</a></h4>
@@ -475,24 +497,27 @@
 	<h4 class="lilach4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="lilac">	
 		<li class="pi_nav_list">
-		<a target="_blank" href="http://www.pluggedin.co.uk/article/looking-microwave-your-guide-buying-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-microguide&amp;utm_campaign=meganav" class="pi_smappliances_icon1">Find the best <span class="new_win_icon">microwave</span> </a>			
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/looking-for-a-microwave-your-guide-to-buying-one?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_smappliances_icon1">Find the best <span class="new_win_icon">microwave</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-		<a target="_blank" href="http://www.pluggedin.co.uk/article/vacuum-cleaners-how-choose-right-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-vacuumguide&amp;utm_campaign=meganav" class="pi_smappliances_icon2">Read our buyer's guide to vacuum <span class="new_win_icon">cleaners</span> </a>			
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/vacuum-cleaners-how-to-choose-the-right-one?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_smappliances_icon2">How to choose the right vacuum <span class="new_win_icon">cleaner</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/choosing-right-coffee-maker?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-coffeeguide&amp;utm_campaign=meganav" class="pi_smappliances_icon3">Choosing the right coffee <span class="new_win_icon">maker</span> </a>			
+
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/choosing-right-coffee-maker?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-coffeeguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_smappliances_icon3">Choosing the right coffee <span class="new_win_icon">maker</span> </a>			
 		</li>
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/which-dyson-vacuum-cleaner?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-dysonhot&amp;utm_campaign=meganav" class="pi_smappliances_icon4">Introducing the Dyson Hot AM04 fan <span class="new_win_icon">heater </span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/top-tips-for-choosing-the-right-iron?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_smappliances_icon4">Top tips for choosing the right <span class="new_win_icon">iron </span> </a>			
 		</li>							
 	</ul>
 </div>
 
+
+
 <div class="mnhub">
     <h4><a href="/s/Kitchen-Home/Small-Appliances/1687">Small Kitchen Appliances</a></h4>
     <ul>
-        <li><a href="/c/Ironing/Ironing/1809">Ironing</a></li>
+        <li><a href="/c/Ironing/Ironing/1809">Irons</a></li>
         <li><a href="/c/Ironing/Steam-Generator-Irons/1810">Steam Generator Irons</a></li>
         <li><a href="/c/Kettles-Toasters/Kettles-Water-Filters/2023">Kettles &amp; Water Filters</a></li>
         <li><a href="/c/Kettles-Toasters/Toasters/2022">Toasters</a></li>
@@ -529,7 +554,6 @@
         <li><a href="/c/Vacuum-Cleaners/Vacuum-Accessories/1966">Vacuum Accessories</a></li>
     </ul>
 </div>
-
 <br style="clear:left;">
 <!-- added clear left after every third mnhub -->
 
@@ -543,6 +567,7 @@
         <li><a href="/c/Heating-Cooling/Air-Conditioners/1984">Air Conditioners</a></li>
     </ul>
 </div>
+
 
       	<!-- END ContentInclude.jsp -->
   <p class="banner">
@@ -565,16 +590,16 @@
 	<h4 class="greenh4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="green">	
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-television-all-you-need-know?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-tvguide&amp;utm_campaign=meganav" class="pi_tv_icon1">Your guide to buying a  <span class="new_win_icon">television</span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-a-television-all-you-need-to-know?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI " rel="nofollow" class="pi_tv_icon1">Your guide to buying a <span class="new_win_icon">television</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-				<a target="_blank" href="http://www.pluggedin.co.uk/article/10-things-you-need-know-about-smart-tvs?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-10smarttv&amp;utm_campaign=meganav" class="pi_tv_icon2">What is smart <span class="new_win_icon">TV?</span> </a>			
+				<a target="_blank" href="http://www.pluggedin.co.uk/article/10-things-you-need-know-about-smart-tvs?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-10smarttv&amp;utm_campaign=meganav" rel="nofollow" class="pi_tv_icon2">10 things you need to know about Smart <span class="new_win_icon">TVs</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-					<a target="_blank" href="http://www.pluggedin.co.uk/article/active-v-passive-3d-tv-which-one-best?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-activepassive3dguide&amp;utm_campaign=meganav" class="pi_tv_icon3">Active or passive 3D TV - which is <span class="new_win_icon">best?</span> </a>			
+					<a target="_blank" href="http://www.pluggedin.co.uk/article/tips-for-buying-a-home-cinema-system?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_tv_icon3">Top tips for buying a home cinema <span class="new_win_icon">system</span> </a>			
 		</li>
 		<li class="pi_nav_list">
-				<a target="_blank" href="http://www.pluggedin.co.uk/article/digital-television-recorders-guide-buying-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-ldvrguide&amp;utm_campaign=meganav" class="pi_tv_icon4">Complete Digital Video Recorders <span class="new_win_icon">guide</span> </a>			
+				<a target="_blank" href="http://www.pluggedin.co.uk/article/digital-television-recorders-guide-buying-one?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-ldvrguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_tv_icon4">The complete guide to Digital Television <span class="new_win_icon">Recorders</span> </a>			
 		</li>					
 	</ul>
 </div>
@@ -584,70 +609,74 @@
 <div class="mnhub">
     <h4><a href="/s/TV-DVD/Televisions/1692">Televisions</a></h4>
     <ul>
-        <li><a href="/c/Televisions/LCD-Plasma-LED-TVs/1844">LCD, Plasma &amp; LED TVs</a></li>
-        <li><a href="/c/Televisions/LCD-Plasma-LED-TV-Packages/1845">LCD, Plasma &amp; LED TV Packages</a></li>
+               
+        <li><a href="/c/Televisions/LCD-Plasma-LED-TVs/1844">All TVs</a></li>
+        <li><a href="/c/Televisions/LCD-Plasma-LED-TV-Packages/1845">TV Packages</a></li>
         <li><a href="/c/LCD-Plasma-LED-TVs/LCD-TVs/2113">LCD TV</a></li>
         <li><a href="/c/LCD-Plasma-LED-TVs/Plasma-TVs/2114">Plasma TV</a></li>
         <li><a href="/c/LCD-Plasma-LED-TVs/LED-TVs/2115">LED TV</a></li>
-        <li><a href="/c/Televisions/LCD-Plasma-LED-TVs/1844/3D-Capability/Yes">3D TV</a></li>
-        <!--<li><a href="/c/Televisions/Projectors/1848">Projectors</a></li>-->
+        <!--<li><a href="/c/Televisions/LCD-Plasma-LED-TVs/1844/3D-Capability/Yes">3D TV</a></li>-->
     </ul>
 </div>
 
 <div class="mnhub">
-    <h4><a href="/s/TV-DVD/Digital-Recorders/1693">Digital Recorders &amp; Players</a></h4>
+    <h4><a href="/s/TV-DVD/Digital-Set-Top-Boxes/1693">Digital Set Top Boxes</a></h4>
+    <ul>  
+        <li><a href="/c/Digital-Set-Top-Boxes/Freeview-freesat-Receivers/2546">Freeview &amp; freesat Receivers</a></li>
+        <li><a href="/c/Digital-Set-Top-Boxes/Freeview-freesat-Recorders/1851">Freeview &amp; freesat Recorders</a></li>
+    </ul>        
+</div>
+
+<div class="mnhub">
+    <h4><a href="/s/TV-DVD/DVD-Blu-ray/1694">DVD &amp; Blu-ray</a></h4>
     <ul>
-        <li><a href="/c/Blu-ray-DVD-Players/Blu-ray-Players/1855">Blu-ray Players</a></li>
-        <!--<li><a href="/c/Blu-ray-DVD-Players/Blu-ray-Recorders/2139">Blu-ray Recorders</a></li>-->
-        <li><a href="/c/Blu-ray-DVD-Players/DVD-Players/1856">DVD Players</a></li>
-        <li><a href="/c/Digital-Recorders/DVD-Recorders/1852">DVD Recorders</a></li>
-        <li><a href="/c/Digital-Recorders/DVD-Recorders-with-Hard-Drive/1853">DVD Recorders with Hard Drive</a></li>
-        <li><a href="/c/Blu-ray-DVD-Players/Portable-DVD-Players/2367">Portable DVD Players</a></li>      
-        <li><a href="/c/Digital-Recorders/Freeview+-freesat-Recorders/1851">Freeview &amp; Freesat Recorders</a></li>              
+        <li><a href="/c/DVD-Blu-ray/DVD-Players-Recorders/1856">DVD Players &amp; Recorders</a></li>
+        <li><a href="/c/DVD-Blu-ray/Blu-Ray-Players-Recorders/1855">Blu-ray Players &amp; Recorders</a></li> 
+        <li><a href="/webapp/wcs/stores/servlet/SearchResultsDisplayView?storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;searchTerm=tvpackagesbr">TV &amp; Blu-ray Packages </a></li>  
+        
+             
+        <li><a href="/c/DVD-Blu-ray/Portable-DVD-Players/2367">Portable DVD Players</a></li>
     </ul>
 </div>
+
+<br style="clear:left;">
+<!-- added clear left after every third mnhub -->
+
 
 <div class="mnhub">
     <h4><a href="/s/TV-DVD/Home-Cinema-Systems/1695">Home Cinema Systems</a></h4>
     <ul>
-        <li><a href="/c/Home-Cinema-Systems/DVD-Home-Cinema-Systems/1858">DVD Home Cinema</a></li>
-        <li><a href="/c/Home-Cinema-Systems/Blu-ray-Home-Cinema-Systems/1859">Blu-ray Home Cinema</a></li>
+        <li><a href="/c/Home-Cinema-Systems/DVD-Blu-ray-Home-Cinema/1858">DVD &amp; Blu-ray Home Cinema</a></li>        
+        <li><a href="/webapp/wcs/stores/servlet/SearchResultsDisplayView?storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;searchTerm=tvpackageshcs">TV &amp; Home Cinema Packages</a></li>
         <li><a href="/c/Home-Cinema-Systems/Sound-Bar/2535">Sound Bar</a></li>        
+        <li><a href="/c/Home-Cinema-Systems/Speaker-Systems/2548">Sourceless Speakers</a></li>        
     </ul>
 </div>
 
-
-<br style="clear:left;">
-<!-- added clear left after every third mnhub -->
 
 <div class="mnhub">
     <h4><a href="/s/TV-DVD/TV-DVD-Accessories/1697">TV &amp; DVD Accessories</a></h4>
     <ul>
         <li><a href="/c/TV-DVD-Accessories/TV-Stands/1867">TV Stands</a></li>
+        <li><a href="/c/TV-DVD-Accessories/Apple-TV/2544">Apple TV</a></li>
         <li><a href="/c/TV-DVD-Accessories/TV-Wall-Brackets/1868">TV Wall Brackets</a></li>
-        <li><a href="/c/TV-DVD-Accessories/Remote-Controls/1869">Aerials &amp; Remote Controls</a></li>
+        <li><a href="/c/TV-DVD-Accessories/Aerials-Signal-Boosters/1869">Aerials &amp; Signal Boosters</a></li>
         <li><a href="/c/TV-DVD-Accessories/3D-Glasses/2449">3D Glasses</a></li>
 		<li><a href="/c/TV-DVD-Accessories/3D-TV-Smart-TV-Accessories/2469">Smart TV Accessories </a></li>		
-        <li><a href="/c/TV-DVD-Accessories/HDMI-Cables-Scart-Leads/1870">HDMI Cables &amp; Scart Leads</a></li>
+        <li><a href="/c/TV-DVD-Accessories/Cables-Connectors/1870">Cables &amp; Connectors</a></li>
         <li><a href="/c/TV-DVD-Accessories/Other-TV-Accessories/1871">TV Accessory Bundles</a></li>
     </ul>
 </div>
 
 <div class="mnhub">
-    <h4><a href="/s/TV-DVD/Digital-TV-Services/1696">Digital TV Services</a></h4>
+    <h4><a href="#">Digital TV Services</a></h4>
     <ul>
         <li><a href="/static/sitepages/freesat/freesat">Freesat</a></li>
-        <li><a href="/static/sitepages/freeview/freeview">Freeview</a></li>
-        <li><a href="/static/sitepages/digital_switchover/digital_switchover">Digital Switchover</a></li>
+        <li><a href="/static/sitepages/freeview_hd/freeview_hd">Freeview HD</a></li>
+        <li><a href="/static/sitepages/digital_switchover/digital_switchover">Digital Switchover Information</a></li>
+        <li><a href="/collections/DigitalSwitchover_TV">Digital Switchover Products</a></li>
     </ul>
 </div>
-
-<!--<div class="mnhub">
-    <h4><a href="/s/TV-DVD/TV-Projectors-Accessories/2501">TV Projectors &amp; Accessories</a></h4>
-    <ul>
-        <li><a href="/c/TV-Projectors-Accessories/TV-Projectors/2502">TV Projectors</a></li>        
-    </ul>
-</div>-->
 
 
       	<!-- END ContentInclude.jsp -->
@@ -671,13 +700,12 @@
     <h4><a href="/s/Computers/Laptops/1719">Laptops</a></h4>
     <ul>
         <li><a href="/c/Laptops/Laptops/1954">Laptops</a></li>
-        <li><a href="/c/Laptops/Laptops/1954/Brand/APPLE">MacBooks</a></li>
-        <li><a href="/webapp/wcs/stores/servlet/SearchResultsDisplayView?storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;searchTerm=ultrabooks">Ultrabooks</a></li>
+<li><a href="/c/Laptops/Laptops/1954#!No=0&amp;N=1954+4294966101&amp;side=/Brand/APPLE">MacBooks</a></li>
+        <li><a href="/webapp/wcs/stores/servlet/SearchResultsDisplayView?storeId=10151&amp;catalogId=10002&amp;langId=-1&amp;searchTerm=ultrabookrange">Ultrabooks</a></li>
         <li><a href="/c/Laptops/Laptop-Bags/1957">Laptop Bags</a></li>
         <li><a href="/c/Laptops/Netbooks/1959">Netbooks</a></li>
         <li><a href="/c/Laptops/Mobile-Broadband/1960">Mobile Broadband</a></li>
         <!--<li><a href="/c/Laptops/PDAs-and-Handheld-Computers/1958">Tablets</a></li>-->
-        <li><a href="/c/Digital-Photo-Frames-Digital-Books/Digital-Books/1908">E-Readers</a></li>        
     </ul>
 </div>
 
@@ -706,7 +734,7 @@
 <div class="mnhub">
     <h4><a href="/s/Computers/Computer-Accessories/1721">Computer Accessories</a></h4>
     <ul>
-        <li><a href="/c/Computer-Accessories/Wireless-Home-Networking/1974">Wireless Home Networking</a></li>
+        <li><a href="/c/Computer-Accessories/Home-Networking/1974">Home Networking</a></li>
         <li><a href="/c/Computer-Accessories/Keyboards-Mice/1979">Computer Keyboards &amp; Mice</a></li>
         <li><a href="/c/Computer-Accessories/Web-Cams-Modems-Headsets/1975">Web Cams, Modems &amp; Headsets</a></li>
         <li><a href="/c/Computer-Accessories/PC-Speakers/1985">PC speakers</a></li>
@@ -737,11 +765,15 @@
 
 
 <div class="mnhub">
-    <h4><a href="/s/Computers/iPad/2438">iPad &amp; Tablets</a></h4>
+    <h4><a href="/s/Computers/iPad-Tablets-eReaders/2438">iPad, Tablets, Kindle &amp; E-Readers</a></h4>
     <ul>
-        <li><a href="/c/iPad-Tablets/iPad/2439">iPad</a></li>
-        <li><a href="/c/iPad-Tablets/Tablets/2461">Tablets</a></li>
-        <li><a href="/c/iPad/iPad-Accessories/2440">Tablet Accessories</a></li>
+        <li><a href="/c/iPad-Tablets-eReaders/iPad/2439">iPad</a></li>
+        <li><a href="/c/iPad-Tablets-eReaders/Tablets/2461">Tablets</a></li>
+        <li><a href="/c/iPad-Tablets-eReaders/eReaders/2550">Kindle &amp; E-Readers</a></li>               
+        <li><a href="/c/iPad-Tablets-eReaders/iPad-Accessories/2440">Tablet Accessories</a></li>
+        <li><a href="/webapp/wcs/stores/servlet/SearchResultsDisplayView?storeId=10151&amp;catalogId=10002&amp;langId=&amp;searchTerm=kindleaccessories">Kindle Accessories</a></li>
+
+      
     </ul>
 </div>
 
@@ -750,6 +782,9 @@
     <ul>
         <li><a href="/static/sitepages/computing_services/index">Helpline, set up &amp; wireless installation
 </a></li>
+
+        <li><a href="/c/iPad-Tablets-Kindle-eReaders/AppleTV/2588">Apple TV</a></li>
+
  
     </ul>
 </div>
@@ -787,39 +822,40 @@
 	<h4 class="greenh4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="green">	
 		<li class="pi_nav_list">
-		<a target="_blank" href="http://www.pluggedin.co.uk/article/top-10-things-consider-when-buying-digital-camera?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-camera10things&amp;utm_campaign=meganav" class="pi_cameras_icon1">Find a digital camera with our 10 top <span class="new_win_icon">tips</span> </a>			
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/top-10-things-consider-when-buying-digital-camera?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-camera10things&amp;utm_campaign=meganav" rel="nofollow" class="pi_cameras_icon1">Find a digital camera with our 10 top <span class="new_win_icon">tips</span> </a>			
 		</li> 
         	<li class="pi_nav_list">
-					<a target="_blank" href="http://www.pluggedin.co.uk/article/what-look-when-choosing-camcorder?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-camcorderguide&amp;utm_campaign=meganav" class="pi_cameras_icon2">How to choose a <span class="new_win_icon">camcorder </span> </a>			
+					<a target="_blank" href="http://www.pluggedin.co.uk/article/what-to-look-for-when-choosing-a-camcorder?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_cameras_icon2">What to look for when choosing a <span class="new_win_icon"> camcorder </span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-					<a target="_blank" href="http://www.pluggedin.co.uk/article/digital-slr-cameras-beginners-users-guide?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-dslrguide&amp;utm_campaign=meganav" class="pi_cameras_icon3">A beginner's guide to Digital SLR <span class="new_win_icon">cameras</span> </a>			
+
+					<a target="_blank" href="http://www.pluggedin.co.uk/article/digital-slr-cameras-beginners-users-guide?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-dslrguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_cameras_icon3">A beginner's guide to Digital SLR <span class="new_win_icon">cameras</span> </a>			
 		</li>
 		<li class="pi_nav_list">
-				<a target="_blank" href="http://www.pluggedin.co.uk/article/buyers-guide-digital-camera-accessories?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-camerakit&amp;utm_campaign=meganav" class="pi_cameras_icon4">Find the best kit for your digital <span class="new_win_icon">camera</span> </a>			
+				<a target="_blank" href="http://www.pluggedin.co.uk/article/buyers-guide-digital-camera-accessories?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-camerakit&amp;utm_campaign=meganav" rel="nofollow" class="pi_cameras_icon4">Find the best kit for your digital <span class="new_win_icon">camera</span> </a>			
 		</li>					
 	</ul>
 </div>
 
+
+
 <div class="mnhub">
     <h4><a href="/s/Cameras-Camcorders/Digital-Cameras/1707">Digital Cameras</a></h4>
     <ul>
-        <li><a href="/c/Digital-Cameras/Digital-Cameras/2006">Digital Cameras</a></li>
+        <li><a href="/c/Digital-Cameras/Digital-Compact-Cameras/2006">Digital Compact Cameras</a></li>
+        <li><a href="/c/Digital-Cameras/Bridge-Cameras/2028">Bridge Cameras</a></li>
         <li><a href="/c/Digital-Cameras/Digital-Camera-Packages/2138">Digital Camera Packages</a></li>
-        <li><a href="/c/Camera-Camcorder-Accessories/Digital-Camera-Accessories/1910">Digital Camera Accessories</a></li>
-        <li><a href="/c/Camera-Camcorder-Accessories/Memory-Cards/1909">Memory Cards</a></li>
-		<li><a href="http://www.snapfish.co.uk/comet_meganav_digitalcameras" target="_blank">Comet Photo Service</a></li>	
     </ul>
 </div>
 
 <div class="mnhub">
-    <h4><a href="/s/Cameras-Camcorders/Digital-SLR-Cameras/2362">Digital SLR Cameras</a></h4>
+    <h4><a href="/s/Cameras-Camcorders/Interchangeable-Lens-Cameras/2362">Interchangeable Lens Cameras</a></h4>
     <ul>
-        <li><a href="/c/Digital-SLR-Cameras/Digital-SLR-Kits-Bodies/2363">Digital SLR Kits &amp; Bodies</a></li>
-        <li><a href="/c/Digital-SLR-Cameras/Lenses/2365">Digital SLR Lenses</a></li>
-        <li><a href="/c/Digital-SLR-Cameras/Other-Digital-SLR-Accessories/2366">Digital SLR Accessories</a></li>
-		<li><a href="http://www.snapfish.co.uk/comet_meganav_digitalslrcameras" target="_blank">Comet Photo Service</a></li>
-		<li><a href="/c/Digital-SLR-Cameras/Digital-SLR-Camera-Packages/2364">Digital SLR Camera Packages</a></li>
+        <li><a href="/c/Interchangeable-Lens-Cameras/Digital-SLR-Cameras/2363">Digital SLR Cameras</a></li>
+        <li><a href="/c/Interchangeable-Lens-Cameras/Compact-System-Cameras/2551">Compact System Cameras</a></li>
+		<li><a href="/c/Interchangeable-Lens-Cameras/DSLR-Compact-System-Packages/2364">DSLR &amp; Compact System Packages</a></li>
+        <li><a href="/c/Interchangeable-Lens-Cameras/Lenses/2365">Lenses</a></li>
+        <li><a href="/c/Interchangeable-Lens-Cameras/Flashguns-Accessories /2366">Flashguns &amp; Accessories</a></li>
     </ul>
 </div>
 
@@ -827,7 +863,7 @@
     <h4><a href="/c/Camcorders/Camcorders/1906">Camcorders</a></h4>
     <ul>
         <li><a href="/c/Camcorders/Camcorders/1906">Camcorders</a></li>
-        <li><a href="/c/Camera-Camcorder-Accessories/Camcorder-Accessories/1911">Camcorder Accessories</a></li>
+        <li><a href="/c/Camcorders/Pocket-Camcorders/2552">Pocket Camcorders</a></li>
     </ul>
 </div>
 
@@ -836,11 +872,32 @@
 <!-- added clear left after every third mnhub -->
 
 <div class="mnhub">
-    <h4><a href="/s/Cameras-Camcorders/Digital-Photo-Frames-Digital-Books/1709">Digital Photo Frames</a></h4>
+    <h4><a href="/s/Cameras-Camcorders/Camera-Camcorder-Accessories/1710">Camera &amp; Camcorder Accessories</a></h4>
     <ul>
-        <li><a href="/c/Digital-Photo-Frames-Digital-Books/Digital-Photo-Frames/1907">Digital Photo Frames</a></li>
+        <li><a href="/c/Camera-Camcorder-Accessories/Memory-Cards/1909">Memory Cards</a></li>
+        <li><a href="/c/Camera-Camcorder-Accessories/Bags-Cases/1910">Bags &amp; Cases</a></li>
+        <li><a href="/c/Camera-Camcorder-Accessories/Batteries-Chargers/1911">Batteries &amp; Chargers</a></li>    
+        <li><a href="/c/Camera-Camcorder-Accessories/Cables/1913">Cables</a></li>    
+        <li><a href="/c/Camera-Camcorder-Accessories/Tripods-Supports/2553">Tripods &amp; Supports</a></li>    
+        <li><a href="/c/Camera-Camcorder-Accessories/Accessories-Kits/1912">Accessories Kits</a></li>    
     </ul>
 </div>
+
+<div class="mnhub">
+    <h4><a href="/s/Cameras-Camcorders/Digital-Photo-Frames/1709">Digital Photo Frames</a></h4>
+    <ul>
+        <li><a href="/c/Digital-Photo-Frames/Digital-Photo-Frames/1907">Digital Photo Frames</a></li>
+    </ul>
+</div>
+
+
+<div class="mnhub">
+    <h4><a href="http://www.snapfish.co.uk/comet_meganav_digitalcameras" target="_blank">Comet Photo Service</a></h4>
+    <ul>
+		<li><a href="http://www.snapfish.co.uk/comet_meganav_digitalcameras" target="_blank">Comet Photo Service</a></li>	
+    </ul>
+</div>
+
       	<!-- END ContentInclude.jsp -->
           <p class="banner">
           
@@ -861,79 +918,59 @@
 	<h4 class="greenh4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="green">	
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/review/microsoft-kinect-xbox-360?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-kinectreview&amp;utm_campaign=meganav" class="pi_gaming_icon1">Is the Xbox Kinect any  <span class="new_win_icon">good?</span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/handheld-games-console-buyers-guide?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_gaming_icon1">A guide to handheld games <span class="new_win_icon">consoles</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/how-watch-catch-tv-through-your-games-console?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-consoletvcatchup&amp;utm_campaign=meganav" class="pi_gaming_icon2">Catch-up TV on your games <span class="new_win_icon">console</span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/a-guide-to-buying-a-games-console?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWP" rel="nofollow" class="pi_gaming_icon2">The ultimate guide to buying a games <span class="new_win_icon">console</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-		<a target="_blank" href="http://www.pluggedin.co.uk/article/id-buy-games-console-which-one-right-me?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-gameguide&amp;utm_campaign=meganav" class="pi_gaming_icon3">How to choose the right games <span class="new_win_icon">console</span> </a>			
+
+		<a target="_blank" href="http://www.pluggedin.co.uk/article/microsoft-kinect-for-xbox-360?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_gaming_icon3">Microsoft Kinect for Xbox 360 Expert <span class="new_win_icon">Review</span> </a>			
 		</li>
 		<li class="pi_nav_list">
-<a target="_blank" href="http://www.pluggedin.co.uk/article/vote-your-favourite-computer-games-golden-joystick-awards?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-goldenjoystick&amp;utm_campaign=meganav" class="pi_gaming_icon4">Vote for your favourite video <span class="new_win_icon">game</span> </a>			
+<a target="_blank" href="http://www.pluggedin.co.uk/article/the-best-ps3-and-xbox-360-games-for-christmas?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_gaming_icon4">The best PS3 &amp; Xbox 360 games <span class="new_win_icon">available</span> </a>			
 		</li>					
 	</ul>
 </div>
 
+
 <div class="mnhub">
-    <h4><a href="/s/Games-Consoles/Sony-Playstation-3/1698">Playstation 3</a></h4>
+    <h4><a href="/s/Games/Sony-Playstation-3/1698">Playstation 3</a></h4>
     <ul>
-        <li><a href="/c/Sony-Playstation-3/Sony-PS3-Console-Packages/1873">Sony PS3 Console and Packages</a></li>
         <li><a href="/c/Sony-Playstation-3/Sony-PS3-Games/1875">Sony PS3 Games</a></li>
         <li><a href="/c/Sony-Playstation-3/Sony-PS3-Accessories/1876">Sony PS3 Accessories</a></li>
     </ul>
 </div>
 
 <div class="mnhub">
-    <h4><a href="/s/Games-Consoles/Nintendo-Wii/1699">Nintendo Wii</a></h4>
+    <h4><a href="/s/Games/Nintendo-Wii/1699">Nintendo Wii</a></h4>
     <ul>
-        <li><a href="/c/Nintendo-Wii/Wii-Consoles-and-Packages/1877">Wii Console &amp; Packages</a></li>
         <li><a href="/c/Nintendo-Wii/Wii-Games/1878">Wii Games</a></li>
         <li><a href="/c/Nintendo-Wii/Wii-Accessories/1879">Wii Accessories</a></li>
     </ul>
 </div>
 
 <div class="mnhub">
-    <h4><a href="/s/Games-Consoles/Xbox-360/1700">Xbox 360</a></h4>
+    <h4><a href="/s/Games/Xbox-360/1700">Xbox 360</a></h4>
     <ul>
-        <li><a href="/c/Xbox-360/Xbox-360-Consoles-Packages/1881">Xbox 360 Console &amp; Packages</a></li>
         <li><a href="/c/Xbox-360/Xbox-360-Games/1883">Xbox 360 Games</a></li>
         <li><a href="/c/Xbox-360/Xbox-360-Accessories/1884">Xbox 360 Accessories</a></li>
     </ul>
 </div>
-
-
 <br style="clear:left;">
 <!-- added clear left after every third mnhub -->
 
+
+
 <div class="mnhub">
-    <h4><a href="/s/Games-Consoles/Nintendo-3DS/2464">Nintendo 3DS</a></h4>
+    <h4><a href="/s/Games/Nintendo-DS-3DS/1701">Nintendo DS &amp; 3DS</a></h4>
     <ul>
-        <li><a href="/c/Nintendo-3DS/Nintendo-3DS-Console-Packages/2465">Nintendo 3DS Console &amp; Packages</a></li>
-        <li><a href="/c/Nintendo-3DS/Nintendo-3DS-Games/2466">Nintendo 3DS Games</a></li>
-        <li><a href="/c/Nintendo-3DS/Nintendo-3DS-Accessories/2467">Nintendo 3DS Accessories</a></li>
+        <li><a href="/c/Nintendo-DS/Nintendo-DS-Games/1886">Nintendo DS &amp; 3DS Games</a></li>
+        <li><a href="/c/Nintendo-DS/Nintendo-DS-Accessories/1887">Nintendo DS &amp; 3DS Accessories</a></li>
     </ul>
 </div>
 
 
-<div class="mnhub">
-    <h4><a href="/s/Games-Consoles/Nintendo-DS/1701">Nintendo DS</a></h4>
-    <ul>
-        <li><a href="/c/Nintendo-DS/Nintendo-DS-Console-and-Packages/1885">Nintendo DS Console &amp; Packages</a></li>
-        <li><a href="/c/Nintendo-DS/Nintendo-DS-Games/1886">Nintendo DS Games</a></li>
-        <li><a href="/c/Nintendo-DS/Nintendo-DS-Accessories/1887">Nintendo DS Accessories</a></li>
-    </ul>
-</div>
-
-
-<div class="mnhub">
-    <h4><a href="/s/Games-Consoles/Sony-PSP/1702">Sony PSP</a></h4>
-    <ul>
-        <li><a href="/s/Games-Consoles/Sony-PSP/1702">Sony PSP Console &amp; Packages</a></li>
-        <li><a href="/c/Sony-PSP/PSP-Games/1889">Sony PSP Games</a></li>
-        <li><a href="/c/Sony-PSP/PSP-Accessories/1890">Sony PSP Accessories</a></li>
-    </ul>
-</div>
       	<!-- END ContentInclude.jsp -->
 
           <p class="banner">
@@ -954,16 +991,16 @@
 	<h4 class="greenh4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="green">	
 		<li class="pi_nav_list">
-					<a target="_blank" href="http://www.pluggedin.co.uk/article/dab-radio-guide-0?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-dabguide&amp;utm_campaign=meganav" class="pi_ipod_icon1">DAB Radio - the complete <span class="new_win_icon">guide</span></a>			
+					<a target="_blank" href="http://www.pluggedin.co.uk/article/dab-radio-guide-0?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-dabguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_ipod_icon1">DAB Radio - the complete <span class="new_win_icon">guide</span></a>			
 		</li> 
 		<li class="pi_nav_list">
-						<a target="_blank" href="http://www.pluggedin.co.uk/article/10-years-how-ipods-changed-world?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-ipod10years&amp;utm_campaign=meganav" class="pi_ipod_icon2">Celebrating 10 years of the Apple <span class="new_win_icon">iPod</span> </a>			
+						<a target="_blank" href="http://www.pluggedin.co.uk/article/the-beginners-guide-to-mp3-players?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_ipod_icon2">The beginners guide to MP3 <span class="new_win_icon">players </span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-							<a target="_blank" href="http://www.pluggedin.co.uk/review/my-new-best-ipad-accessory?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-fidelioreview&amp;utm_campaign=meganav" class="pi_ipod_icon3">Philips Fidelio - best speaker <span class="new_win_icon">dock? </span> </a>			
+							<a target="_blank" href="http://www.pluggedin.co.uk/article/things-to-look-for-when-choosing-headphones?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_ipod_icon3">Things to look for when buying new <span class="new_win_icon">headphones</span> </a>			
 		</li>
 		<li class="pi_nav_list">
-							<a target="_blank" href="http://www.pluggedin.co.uk/article/tune-best-music-gadgets?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-bestmusicgadgets&amp;utm_campaign=meganav" class="pi_ipod_icon4">Tune in to the best music  <span class="new_win_icon">gadgets</span> </a>			
+							<a target="_blank" href="http://www.pluggedin.co.uk/article/a-guide-to-mp3-players?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_ipod_icon4">Work out which MP3 player is right for <span class="new_win_icon">you?</span> </a>			
 		</li>					
 	</ul>
 </div>
@@ -992,27 +1029,39 @@
 <div class="mnhub">
     <h4><a href="/s/iPods-MP3-Hi-Fi/Radio/1713">Radio</a></h4>
     <ul>
-        <li><a href="/c/Radio/Personal-DAB-Radios/1925">Personal DAB Radios</a></li>
-        <li><a href="/c/Radio/Personal-Analogue-Radios/1926">Personal Analogue Radios</a></li>
         <li><a href="/c/Radio/Portable-DAB-Radios/1927">Portable DAB Radios</a></li>
-        <li><a href="/c/Radio/CD-Radio-Cassettes/1929">CD Radio Cassettes</a></li>
+        <li><a href="/c/Radio/Personal-DAB-Radios/1925">Personal DAB Radios</a></li>
+        <li><a href="/c/Radio/Portable-Analogue-Radios/1928">Portable Analogue Radios</a></li>
+        <li><a href="/c/Radio/Personal-Analogue-Radios/1926">Personal Analogue Radios</a></li>
+        <li><a href="/c/Radio/Internet-Radio/2568">Internet Radios</a></li>
         <li><a href="/c/Radio/Clock-Radios/1930">Clock Radios</a></li>
+        <li><a href="/c/Radio/CD-Radio-Cassettes/1929">CD Radio Cassettes</a></li>
+    </ul>
+</div>
+<br style="clear:left;">
+<!-- added clear left after every third mnhub -->
+<div class="mnhub">
+    <h4><a href="/s/iPods-MP3-Hi-Fi/Headphones/2562">Headphones</a></h4>
+    <ul>
+        <li><a href="/c/Headphones/In-Ear/2580">In Ear</a></li>
+        <li><a href="/c/Headphones/On-Ear/2581">On Ear</a></li>
+        <li><a href="/c/Headphones/Over-Ear/2582">Over Ear</a></li>
+        <li><a href="/c/Headphones/Around-Ear-Clip/2583">Around-Ear Clip</a></li>
     </ul>
 </div>
 
 
-<br style="clear:left;">
-<!-- added clear left after every third mnhub -->
 
 <div class="mnhub">
     <h4><a href="/s/iPods-MP3-Hi-Fi/iPod-Personal-Audio-Accessories/1714">iPod &amp; Personal Audio Accessories</a></h4>
     <ul>
         <li><a href="/c/iPod-Personal-Audio-Accessories/Speakers/1931">Speakers</a></li>
-        <li><a href="/c/iPod-Personal-Audio-Accessories/Headphones/1932">Headphones</a></li>
         <li><a href="/c/iPod-Personal-Audio-Accessories/Cases/1933">Cases</a></li>
         <li><a href="/c/iPod-Personal-Audio-Accessories/Cables-Connections/1934">Cables &amp; Connections</a></li>
     </ul>
 </div>
+
+
       	<!-- END ContentInclude.jsp -->
           <p class="banner">
           
@@ -1033,18 +1082,25 @@
 	<h4 class="blueh4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="blue">	
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/sat-nav-beginners-guide?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-satnavvidguide&amp;utm_campaign=meganav" class="pi_satnav_icon1">Getting started with a Sat <span class="new_win_icon">nav </span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/sat-nav-beginners-guide?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-satnavvidguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_satnav_icon1">Getting started with a Sat <span class="new_win_icon">nav </span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/choosing-home-phone?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-landlinevid&amp;utm_campaign=meganav" class="pi_satnav_icon2">How to pick a landline <span class="new_win_icon">phone</span> </a>			
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/choosing-home-phone?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-landlinevid&amp;utm_campaign=meganav" rel="nofollow" class="pi_satnav_icon2">How to pick a landline <span class="new_win_icon">phone</span> </a>			
 		</li> 
 		<li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/satellite-navigation-systems-%E2%80%93-questions-and-answers?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-satnavquestions&amp;utm_campaign=meganav" class="pi_satnav_icon3">Everything you need to know about Sat <span class="new_win_icon">nav</span> </a>	
+
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/satellite-navigation-systems-questions-and-answers?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_satnav_icon3">Everything you need to know about Sat <span class="new_win_icon">nav</span> </a>	
+		</li>
+        
+        	<li class="pi_nav_list">
+
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/satellite-navigation-systems-questions-and-answers?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_satnav_icon4">How to update your satellite navigation <span class="new_win_icon">system</span> </a>	
 		</li>
 		
 	</ul>
 </div>
 
+	
 <div class="mnhub">
     <h4><a href="/s/Sat-Nav-Phones/GPS-Sat-Nav-PDAs/1715">GPS &amp; Sat Nav</a></h4>
     <ul>
@@ -1058,6 +1114,7 @@
     <ul>
         <li><a href="/c/Landline-Phones-Faxes/Digital-Cordless-Phones/1939">Digital Cordless Phones</a></li>
         <li><a href="/c/Landline-Phones-Faxes/Corded-Phones/1940">Corded Phones</a></li>
+       	<li><a href="/c/Landline-Phones-Faxes/Designer-Phones/2543">Designer Phones</a></li>
         <li><a href="/c/Landline-Phones-Faxes/Two-Way-Radios/1941">Two Way Radios</a></li>
         <li><a href="/c/Landline-Phones-Faxes/Fax-Machines/1942">Fax Machines</a></li>
     </ul>
@@ -1102,14 +1159,20 @@
 	<h4 class="lilach4"><span>Plugged in - helpful guides</span></h4>
 	<ul class="lilac">	
 		<li class="pi_nav_list">
-					<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-mens-shaver-heres-what-look?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-shaverguide&amp;utm_campaign=meganav" class="pi_health_icon1">Find the perfect men's electric <span class="new_win_icon">shaver</span> </a>			
+					<a target="_blank" href="http://www.pluggedin.co.uk/article/buying-a-mens-shaver-heres-what-to-look-for?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_health_icon1">Find the perfect men's electric <span class="new_win_icon">shaver</span> </a>			
 		</li> 
 <li class="pi_nav_list">
-	<a target="_blank" href="http://www.pluggedin.co.uk/article/top-tips-choosing-hair-straighteners-and-stylers?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-straightenerguide&amp;utm_campaign=meganav" class="pi_health_icon2">Top tips for choosing hair straighteners &amp; <span class="new_win_icon">stylers</span> </a>			
+	<a target="_blank" href="http://www.pluggedin.co.uk/article/top-tips-choosing-hair-straighteners-and-stylers?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-straightenerguide&amp;utm_campaign=meganav" rel="nofollow" class="pi_health_icon2">Top tips for choosing hair straighteners &amp; <span class="new_win_icon">stylers</span> </a>			
 		</li> 
 <li class="pi_nav_list">
-			<a target="_blank" href="http://www.pluggedin.co.uk/article/hairdryers-stylist-you?utm_source=comet.co.uk&amp;utm_medium=referral&amp;utm_content=mn-hairdryerguide&amp;utm_campaign=meganav" class="pi_health_icon3">Hairdryers for the stylist in <span class="new_win_icon">you</span> </a>			
-		</li>                 
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/hairdryers-for-the-stylist-in-you?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_health_icon3">Hairdryers for the stylist in <span class="new_win_icon">you</span> </a>			
+		</li>
+        
+        <li class="pi_nav_list">
+			<a target="_blank" href="http://www.pluggedin.co.uk/article/10-gadgets-to-help-you-keep-fit?utm_source=COMET&amp;utm_medium=MEGANAV&amp;utm_campaign=NEWPI" rel="nofollow" class="pi_health_icon4">10 gadgets to help you keep fit &amp; <span class="new_win_icon">healthy</span> </a>			
+		</li> 
+        
+                        
 	</ul>
 </div>
 
@@ -1134,15 +1197,23 @@
 <div class="mnhub">
     <h4><a href="/s/Health-Beauty/Health-Wellbeing/1691">Health &amp; Wellbeing</a></h4>
     <ul>
-        <li><a href="/c/Health-Wellbeing/Weighing-Scales/1840">Weighing Scales</a></li>
         <li><a href="/c/Health-Wellbeing/Dental-Care/1841">Dental Care</a></li>
         <li><a href="/c/Health-Wellbeing/Other-Health-Beauty-Products/1843">Other Health &amp; Beauty Products</a></li>
         <li><a href="/c/Health-Wellbeing/Body-toning/2374">Body Toning</a></li>
         <li><a href="/c/Health-Wellbeing/Fitness/2375">Fitness</a></li>
-        <li><a href="/c/Health-Wellbeing/Facial-care/2376">Facial Care</a></li>
-        <li><a href="/c/Health-Wellbeing/Laser-hair-removal/2377">Laser Hair Removal</a></li>            
     </ul>
 </div>
+
+<br style="clear:left;">
+<!-- added clear left after every third mnhub -->
+<div class="mnhub">
+    <h4><a href="/s/Sat-Nav-Phones/Baby-Monitors/2488">Baby Monitors</a></h4>
+    <ul>
+        <li><a href="/c/Baby-Monitors/Baby-Monitors/2549">Baby Monitors</a></li>
+    </ul>
+</div>
+
+
       	<!-- END ContentInclude.jsp -->
           <p class="banner">
           
@@ -1167,12 +1238,26 @@
 	<input type="hidden" name="hsprefix" id="hsprefix" value="https://www.comet.co.uk/">
 	<input type="hidden" name="hwebprefix" id="hwebprefix" value="http://www.comet.co.uk/webapp/wcs/stores/servlet/">
 	<input type="hidden" name="hswebprefix" id="hswebprefix" value="https://secure.comet.co.uk/webapp/wcs/stores/servlet/">
+	<input type="hidden" name="newhprefix" id="newhprefix" value="http://www.comet.co.uk/">
+	<input type="hidden" name="newhwebprefix" id="newhwebprefix" value="http://www.comet.co.uk/webapp/wcs/stores/servlet/">
 	<input type="hidden" name="smallimagePath" id="smallimagePath" value="http://img.comet.co.uk/images/prod30/">
 	<input type="hidden" name="imagePathProduct60" id="imagePathProduct60" value="http://img.comet.co.uk/images/prod60/">
 </div> 
+<script type="text/javascript">var mobileSite = false;</script>
 <!-- END HeaderDisplay.jspf --><!-- Header Nav End --><!-- START ContentInclude.jsp --><link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/style.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/print.css" rel="stylesheet" type="text/css" media="print">
 <link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/jquery-ui.css" rel="stylesheet" type="text/css">
+<link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/cookies.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="/wcsstore/CometSharedStoreFront/Comet/prod/services/js/show-hide.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script src="http://jquery-ui.googlecode.com/svn/trunk/ui/jquery.ui.widget.js"></script>
+<script src="http://jquery-ui.googlecode.com/svn/trunk/ui/jquery.ui.tabs.js"></script>
+<script>
+$(function() {
+    $( "#tabs" ).tabs();
+});
+</script>
 
 <!--[if lt IE 7 ]> <link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/ie-6.css" rel="stylesheet" type="text/css" media="screen" /> <![endif]-->
 <!--[if IE 7 ]> <link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/ie-7.css" rel="stylesheet" type="text/css" media="screen" /> <![endif]-->
@@ -1181,13 +1266,14 @@
 <!--[if lt IE 7 ]> <link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/ie-6.css" rel="stylesheet" type="text/css" media="screen" /> <![endif]-->
 <!--[if IE 7 ]> <link href="/wcsstore/CometSharedStoreFront/Comet/prod/services/css/ie-7.css" rel="stylesheet" type="text/css" media="screen" /> <![endif]-->
 
+
 <div id="page_container">
 
     <a id="top"></a>
     <div class="section_titles">
         <div class="section_header"><h1>Services &amp; Support</h1></div>
         <div class="section_hub_header"><h2>Our Site</h2></div>
-        <div class="section_article_header"><h3>Privacy</h3></div>
+        <div class="section_article_header"><h3>Privacy &amp; Cookies</h3></div>
     </div>
 
     <div id="container_div" class="container_div_our-site">
@@ -1216,149 +1302,260 @@
                 <!--<li><a href="/static/services/our-site/online-chat">Online chat<span></span></a></li>-->
                 <li><a href="/static/services/our-site/accessibility">Accessibility<span></span></a></li>
                 <li><a href="/static/services/our-site/security">Security<span></span></a></li>
-                <li class="current">Privacy<span></span></li>
+                <li class="current">Privacy &amp; Cookies<span></span></li>
                 <img src="/wcsstore/CometSharedStoreFront/Comet/prod/services/img/hub_img.png" alt="Hub Image">		
             </ul>
         </div>		
 
         <div class="section_article">	
             <div class="section_article_inner" id="privacy">
-                <h2>Privacy Policy</h2>
-                <p>
-                    Comet Group plc ("Comet", "us", "we") takes the protection of your online privacy seriously and this Privacy Policy sets out how we use and protect any personal information we obtain from dealings which arise from you 
-					using this website.  Comet is not responsible for the privacy practices of any websites which may be linked from the Comet website, so please separately check their privacy policies.  
-				</p>
-                <p>We may change this Privacy Policy from time to time by updating this page so please check our Privacy Policy for any changes when you revisit our website. This Privacy Policy is effective from December 2011.</p>
-
-
-                <h3>What personal information do we collect?</h3>
-                <p>
-                	We ask for your personal information when you make a purchase in store, register with MyComet, sign up for promotions, offers or competitions, or to receive news, or when you fill in the personal details section 
-					of 'Your Basket' to make a purchase. Depending on which of these services you use, we may collect:  
-                </p>
-                <ul>
-                	<li>your name and contact information including postal address, e-mail address and telephone number, even if you do not complete your purchase;</li>
-                    <li>details of any purchase orders that you place through the website, and any details we need for delivery, installation, appliance disposal, product service plan or product servicing as applicable;</li>
-                    <li>card payment details if making a purchase;</li>
-                    <li>details you provide when you contact us or make enquiries either generally or about any purchases you make with us; </li>
-                    <li>details of your visits to the website and the resources that you access; and </li>
-                    <li>information you provide if you report a problem with our website;</li>
-                </ul>
-                <p>
-                	Even if you do not use these services, or for example, do not proceed with a purchase, we will still gather any personal details entered and information about your activity on the website to understand what parts of 
-					the website and what products you are interested in, so that we can improve our website and tailor our services to you. Further details are in the Cookies section of this Privacy Policy.                 
-				</p>
-
-
-                <h3>What we do with the personal information we collect?</h3>
-                <p>Depending on how you engage with us, we may use your information:</p>
-                <ul>
-                    <li>to facilitate your use of this website and the services available through it;</li>
-                    <li>
-                        when you purchase from us, to process your order, collect payment, enable you to track you order online, arrange delivery and for other purchase related services such as installation, disposal of your old appliance 
-						(as relevant), and product warranty (this may include contacting you by telephone, email or SMS to arrange, confirm or upgrade your delivery, installation or appliance disposal) and for ongoing customer service dealings 
-						including any faults or repairs or refunds;
-                    </li>    
-                    <li>for internal accounting and regulatory purposes;</li>
-                    <li>for statistical analysis to assess our business performance and to improve our products and services;</li>
-                    <li>to improve and personalise your experience when you visit the website (See Cookies), and to keep you informed about other products and services you might be interested in (See Keeping You Informed); and</li>
-                    <li>to ask you from time to time if you would like to provide feedback on or participate in market research on our products and services. You do not have to participate in these if you do not wish.</li>
-                </ul>
-
-
-                <h3>Who do we share it with?</h3>
-                <p>
-                	Please note that Comet is legally required to notify the TV Licensing Authority of any purchase you make of television receiving equipment. Please 
-                    see <a href="http://www.tvlicensing.co.uk" target="_blank">www.tvlicensing.co.uk</a> for more details.
-                </p>
-                <p>If you take out an additional service plan with your purchase, Comet will share limited personal information with the service plan provider.</p>
-                <p>Comet may also disclose your personal information:</p>
-                <ul>
-                    <li>
-                        if we use authorised service providers to perform certain services on our behalf, for example this might include providing IT support and maintenance, website hosting services, our direct marketing programme 
-						and for online payment services. We do not permit our service providers to share or to use such information for any other purpose and they are under strict obligations to keep your information secure;
-                    </li>    
-                    <li>Trusted third party suppliers providing relevant products and services related to your Comet purchases (see Keeping You Informed)</li>
-                    <li>
-                        to the police, regulators, law enforcement or other government agency where the law requires this, where appropriate to prevent or detect criminal activity, or in connection with product safety, and otherwise to relevant 
-                        third parties to protect Comet, its business, staff and customers; and
-                    </li>
-                    <li>to prospective or actual buyers in the event that Comet sells any of its business or assets so help ensure continuity of your customer relationship.</li>
-                </ul>
-
-
-                <h3>Keeping You Informed</h3>
-                <p>We may from time to time contact or update you about products, services or offers that may be relevant to you.</p>
-                <p>
-                	This may include delivery, installation and appliance disposal options, and extended warranties, and other products and services related to your Comet purchases, some of which are provided by Comet and some by our 
-					trusted partners to whom we may pass on your details.  
-                </p>
-                <p>
-                	We or they may contact you about these by telephone, mail, email and SMS, using the contact details you provide and update us with, which we obtain or update with you in our dealings, or which we obtain or update from 
-					external sources. This may include telephone numbers which are registered by you or others with the Telephone Preference Service unless you have told us directly that you do not wish to be contacted for this purpose 
-					on a particular telephone number. <em>By providing your details through the website, you are agreeing to this.</em>
-				</p>
-
-				<p>
-                	If you don't want to be contacted by post or telephone you can email us at <a href="mailto:dataremoval@comet.co.uk">dataremoval@comet.co.uk</a> or write to us at the address in Your Rights. If you do so, please bear 
-                    with us for a short time whilst we adjust our records. This usually takes up to 28 days but we try to do it sooner.  
-				</p>
-                <p>
-                	If you don't want to be contacted by email, please change from the 'yes' to the 'no' options when you first give your details online.  If you choose 'yes' you can still change your mind later, Comet's marketing emails 
-					contain an easy means for you to unsubscribe.				
-				</p>
-                <p>Please note that Comet would not necessarily remove all your details from its records but would note and respect your changed marketing preferences.</p>
+                <h2>Privacy Policy &amp; Cookies</h2>
+		        <div id="tabs">
+                    <ul id="cookie_nav">
+                        <li class="nav_privacy"><a href="#tabs-privacy"><span class="tab_text">Privacy<br>Policy</span></a></li>
+                        <li class="nav_whatcookies"><a href="#tabs-whatscookies"><span class="tab_text">What are cookies?</span></a></li>
+                        <li class="nav_cookiepolicy"><a href="#tabs-cookiepolicy"><span class="tab_text">Our cookie policies</span></a></li>
+                        <li class="nav_changecookie"><a href="#tabs-changecookie"><span class="tab_text">Changing<br>your cookies</span></a></li>
+                    </ul>
+                    <div id="cookies_main">
+                        <div class="holder">
+                            <!--LAUNDRY-->
+                            <div id="tabs-privacy">
+                                <h2>Privacy Policy</h2>
+                                <p>
+                                    Comet Group Ltd ("Comet", "us", "we") takes the protection of your online privacy seriously and this Privacy Policy sets out how we use and protect any personal information we obtain from dealings which arise from you 
+                                    using this website.  Comet is not responsible for the privacy practices of any websites which may be linked from the Comet website, so please check separately their privacy policies.  
+                                </p>
+                                <p>We may change this Privacy Policy from time to time by updating this page so please check our Privacy Policy for any changes when you revisit our website. This Privacy Policy is effective from December 2011.</p>
                 
                 
-                <h3>Security and Storage</h3>
-                <p>Whilst we have policies, rules and measures in place and try to take all reasonable steps to safeguard your personal information, we cannot guarantee the security of any information you provide online. </p>
+                                <h3>What personal information do we collect?</h3>
+                                <p>
+                                    We ask for your personal information when you make a purchase in store, register with MyComet, sign up for promotions, offers or competitions, or to receive news, or when you fill in the personal details section 
+                                    of 'Your Basket' to make a purchase. Depending on which of these services you use, we may collect:  
+                                </p>
+                                <ul>
+                                    <li>your name and contact information including postal address, e-mail address and telephone number, even if you do not complete your purchase;</li>
+                                    <li>details of any purchase orders that you place through the website, and any details we need for delivery, installation, appliance disposal, product service plan or product servicing as applicable;</li>
+                                    <li>card payment details if making a purchase;</li>
+                                    <li>details you provide when you contact us or make enquiries either generally or about any purchases you make with us; </li>
+                                    <li>details of your visits to the website and the resources that you access; and </li>
+                                    <li>information you provide if you report a problem with our website;</li>
+                                </ul>
+                                <p>
+                                    Even if you do not use these services, or for example, do not proceed with a purchase, we will still gather any personal details entered and information about your activity on the website to understand what parts of 
+                                    the website and what products you are interested in, so that we can improve our website and tailor our services to you. Further details are in the Cookies section of this Privacy Policy.                 
+                                </p>
+                
+                
+                                <h3>What we do with the personal information we collect?</h3>
+                                <p>Depending on how you engage with us, we may use your information:</p>
+                                <ul>
+                                    <li>to facilitate your use of this website and the services available through it;</li>
+                                    <li>
+                                        when you purchase from us, to process your order, collect payment, enable you to track you order online, arrange delivery and for other purchase related services such as installation, disposal of your old appliance 
+                                        (as relevant), and product warranty (this may include contacting you by telephone, email or SMS to arrange, confirm or upgrade your delivery, installation or appliance disposal) and for ongoing customer service dealings 
+                                        including any faults or repairs or refunds;
+                                    </li>    
+                                    <li>for internal accounting and regulatory purposes;</li>
+                                    <li>for statistical analysis to assess our business performance and to improve our products and services;</li>
+                                    <li>to improve and personalise your experience when you visit the website (See Cookies), and to keep you informed about other products and services you might be interested in (See Keeping You Informed); and</li>
+                                    <li>to ask you from time to time if you would like to provide feedback on or participate in market research on our products and services. You do not have to participate in these if you do not wish.</li>
+                                </ul>
+                
+                
+                                <h3>Who do we share it with?</h3>
+                                <p>
+                                    Please note that Comet is legally required to notify the TV Licensing Authority of any purchase you make of television receiving equipment. Please 
+                                    see <a href="http://www.tvlicensing.co.uk" target="_blank">www.tvlicensing.co.uk</a> for more details.
+                                </p>
+                                <p>If you take out an additional service plan with your purchase, Comet will share limited personal information with the service plan provider.</p>
+                                <p>Comet may also disclose your personal information:</p>
+                                <ul>
+                                    <li>
+                                        if we use authorised service providers to perform certain services on our behalf, for example this might include providing IT support and maintenance, website hosting services, our direct marketing programme 
+                                        and for online payment services. We do not permit our service providers to share or to use such information for any other purpose and they are under strict obligations to keep your information secure;
+                                    </li>    
+                                    <li>Trusted third party suppliers providing relevant products and services related to your Comet purchases (see Keeping You Informed)</li>
+                                    <li>
+                                        to the police, regulators, law enforcement or other government agency where the law requires this, where appropriate to prevent or detect criminal activity, or in connection with product safety, and otherwise to relevant 
+                                        third parties to protect Comet, its business, staff and customers; and
+                                    </li>
+                                    <li>to prospective or actual buyers in the event that Comet sells any of its business or assets so help ensure continuity of your customer relationship.</li>
+                                </ul>
+                
+                
+                                <h3>Keeping You Informed</h3>
+                                <p>We may from time to time contact or update you about products, services or offers that may be relevant to you.</p>
+                                <p>
+                                    This may include delivery, installation and appliance disposal options, and extended warranties, and other products and services related to your Comet purchases, some of which are provided by Comet and some by our 
+                                    trusted partners to whom we may pass on your details.  
+                                </p>
+                                <p>
+                                    We or they may contact you about these by telephone, mail, email and SMS, using the contact details you provide and update us with, which we obtain or update with you in our dealings, or which we obtain or update from 
+                                    external sources. This may include telephone numbers which are registered by you or others with the Telephone Preference Service unless you have told us directly that you do not wish to be contacted for this purpose 
+                                    on a particular telephone number. <em>By providing your details through the website, you are agreeing to this.</em>
+                                </p>
+                
+                                <p>
+                                    If you don't want to be contacted by post or telephone you can email us at <a href="mailto:dataremoval@comet.co.uk">dataremoval@comet.co.uk</a> or write to us at the address in Your Rights. If you do so, please bear 
+                                    with us for a short time whilst we adjust our records. This usually takes up to 28 days but we try to do it sooner.  
+                                </p>
+                                <p>
+                                    If you don't want to be contacted by email, please change from the 'yes' to the 'no' options when you first give your details online.  If you choose 'yes' you can still change your mind later, Comet's marketing emails 
+                                    contain an easy means for you to unsubscribe.				
+                                </p>
+                                <p>Please note that Comet would not necessarily remove all your details from its records but would note and respect your changed marketing preferences.</p>
+                                
+                                
+                                <h3>Security and Storage</h3>
+                                <p>Whilst we have policies, rules and measures in place and try to take all reasonable steps to safeguard your personal information, we cannot guarantee the security of any information you provide online. </p>
 
+                            </div>
+                            <!--LAUNDRY-->
+                            
+                            <!--What Cookies-->
+                            <div id="tabs-whatscookies">
+                                <h2>What are cookies?</h2>
+                                <p>
+									Cookies are small files that are downloaded on to your computer when you visit a website and they typically hold bits of information like the site name and unique used ID. They are simply text files and they are 
+                                    not programs. These small bits of information can then be accessed by your browser and allows it to be recognised by a website if you decide to return. The information that cookies contain help to make your 
+                                    browsing experience smoother, for example they enable you to store items in your basket, adding each item as you click "add to basket" and even to tailor the things that you see on a website to your personal preferences. 
+                                    Cookies do not harm your computer and are not "programs".
+								</p>
+                                <p>                                    
+									Comet.co.uk uses cookies to remember you when you return to our website and to allow you to add products to your basket. If you do not want to have cookies enabled then you can browse Comet.co.uk but you will not 
+                                    be able to purchase products.  We do not store any personal information such as your credit card details but do use the information to improve your experience with us and make your time on Comet.co.uk run more smoothly. 
+                                </p>
+                                
+                                <p>
+                                <strong>3rd Party Cookies</strong><br>
+                                In addition to the cookies that we use, we work with a number of trusted 3rd Parties to help improve the level of the online service we offer.  They will also place cookies on your computer, 
+                                these are described in the table below.  
+A number of these cookies are used to provide banner advertisements for Comet when you visit some other websites.  The cookies are designed to provide you with relevant advertising based on the products you have recently viewed on our website.  Again these do not contain any personally identifiable information, but if you would like to opt out of these marketing cookies please click here to be taken to an independent website which will help you identify and manage cookies of this nature that have been stored on your computer by our and other businesses’ websites.
+								</p>
+                                
 
-                <h3>Cookies - What We Do</h3>
-                <p>
-                	We use cookies for certain areas of our website. Cookies are files that store information on your hard drive or browser so that our website can recognise that you have visited the website before and which are used to 
-					facilitate access to the website, to tailor your experience of the website and to allow you to move through processes including the payment processes on the website. They make it easier for you to maintain your preferences 
-					on the website, and by seeing how you use the website, we can tailor the website around your preferences and measure usage of the website. We use cookies to:
-				</p>
-                <ul>
-                    <li>look at what items you have viewed so that you can use the product comparison and recently viewed items resources on the website;</li>    
-                    <li>
-                    	place advertisements for our products on other external sites. We do this by allowing visitor tracking providers to identify your visit to our website and the pages you have viewed whilst on it. This allows them to 
-						serve tailored advertisements to you on third party websites in their adserving network, based on the information they have collected whilst you were visiting our website; and
-                    </li>
-                    <li>
-                        look at your purchasing and browsing habits with us, including to track your wish list, favourites, and which products you place in 'Your Basket' on the website including where you did not proceed to purchase, and 
-						according to your marketing preferences (See Keeping You Informed), we may send you follow up contact by email, SMS, telephone or post regarding your abandoned purchase. We also use visitor tracking providers to 
-						collect information about your online activity on the website, such as the web pages you visit, the links you click, and the searches you conduct on the website.  We use the information to compile reports and to help us 
-						improve the site. The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the website from and the pages they visited. You can learn all about 
-						cookies at <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.
-                    </li>
-                </ul>
+                                <h2>Are there different types of cookies? </h2>
+                                
+                                <p>
+                                <strong>Session, or transient cookies</strong><br>
+                                Cookies that are stored in the computer's memory only during a user's browsing session and are automatically deleted from the user's computer when the browser is closed.
+                                </p>
+                                <p>
+These cookies usually store a session ID that is not personally identifiable to users, allowing the user to move from page to page without having to log-in repeatedly. They are widely used by commercial web sites (for example, to keep track of items that a consumer has added to a shopping cart).</p>
+<p>
+Session cookies are never written on the hard drive and they do not collect any information from the user's computer. Session cookies expire at the end of the user's browser session and can also become no longer accessible after the session has been inactive for a specified length of time, usually 20 minutes.</p>
 
-
-                <h3>Cookies - Changing your Browser Settings</h3>
-                <p>
-                	Most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of 
-					most browsers for instructions or review the cookie management guide produced by the Interactive Advertising Bureau – <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.) If you do so, some of 
-					the features and services of the website may not function properly. Your continued use of the website will be treated as consent to the use of these cookies for the purposes described.                
-				</p>
-
-                <h3>Will my personal data be transferred abroad?</h3>
-                <p>
-                	If our services providers, or any third party to whom we transfer your personal information as referred to in this Privacy Policy, is located in a non-EU country that does not have comparable data privacy laws, we will 
-					put in place appropriate measures for the security and protection of your personal information.  
-				</p>
-
-                <h3>Your Data Protection Rights  </h3>
-                <p>
-                	You may at any time upon written request and payment of the statutory £10 fee, ask if we hold your personal details and if so, subject to certain exceptions, be provided with a copy of them. If you would like to request this, 
-					please write, enclosing the fee, to:				
-				</p>
-				<p>The Director's Office, Comet Group plc, Criterion House, George Street, Hull, HU1 3AU.</p>
-                <p>
-                	You can also write to this address if you have any queries about how Comet handles your personal information or if you believe any information we have about you is incorrect or incomplete. We will amend this as appropriate. 
-					You can also correct some types of information you have provided to us by signing in to your online account. You can also call us on 08712 009 009 (Calls to this number cost 10p a minute plus network extras).
-				</p>
+<br>
+                                <p>
+                                <strong>Permanent, persistent, or stored cookies</strong><br>
+                               Cookies that are stored on the user's computer and are not deleted when the browser is closed. Permanent cookies can retain user preferences for a particular web site, allowing those preferences to be used in future browsing sessions.
+                                </p>
+								<p>Permanent cookies can be used to identify individual users, so they may be used by web sites to analyse users' surfing behaviour within the web site. These cookies can also be used to provide information about numbers of visitors, the average time spent on a particular page and generally the performance of the web site. They are usually configured to keep track of users for a prolonged period of time, in some cases many years into the future.</p>
+                                <br>
+                                <p>
+                                <strong>Flash cookies</strong><br>
+                              If you have Adobe Flash installed on your computer (most computers do), small files may be stored on your computer by websites that contain Flash media, such as video clips. These files are known as Local Shared Objects (LSOs) or Flash cookies. They can be used for the same purposes as regular cookies (properly called HTTP cookies).
+                                </p>
+                                <p>Flash cookies can also back up the data that is stored in a regular cookie. When you delete cookies using your browser controls, your Flash cookies are not affected. So a website that served a cookie to you may recognise you on your next visit if it backed up its now-deleted cookie data to a Flash cookie.</p>
+                            </div>
+                            <!--What Cookies-->
+                            
+                            <!--Policy-->
+                            <div id="tabs-cookiepolicy">
+                                <h2>Our cookie policies</h2>
+                                <p>
+                                	On Comet.co.uk we use cookies to ensure that you have the best possible experience on our website and you will need cookies enabled in order to be able to make a purchase, as some parts of our website are 
+                                    totally personalised to you.
+                                </p>
+								<ul>
+                                	<li>facilitate your access to the website</li>
+                                    <li>measure your usage of the website overall</li>
+                                    <li>help us understand what interests you when you are browsing the website;</li>
+                                    <li>recognise you if you return to the website so that we can make revisiting easier and refresh you on goods you showed an interest in, and aspects of the website you used on your previous visit(s);</li>
+                                    <li>to allow easier access from page to page of the website; and to facilitate processes such as ordering and paying for goods online</li>
+                                </ul>
+                                
+                                <table width="480" border="0" cellspacing="0" cellpadding="0" class="cookie_table">
+                                    <tbody><tr class="table_hdr">
+                                        <td width="80">Cookie Title</td>
+                                        <td width="80">Cookie Name</td>
+                                        <td width="60">Expiration Period</td>
+                                        <td width="250">Purpose</td>
+                                    </tr>
+                                    <tr>
+                                        <td width="80" valign="top" class="table_noborder">Google Analytics</td>
+                                        <td width="80" valign="top" class="table_noborder">utmz<br>utma<br>utmb<br>utmc</td>
+                                        <td width="60" valign="top" class="table_noborder">&nbsp;</td>
+                                        <td width="250" rowspan="3">
+                                            These cookies are used to collect information about how you use our website, including to track your wish list, favourites, and which products you  place in 'Your Basket' including where you did not proceed 
+                                            to purchase. These cookies also collect information on the web pages you visit, the links you click, and the searches you conduct on the website. We use the information to compile reports and to help us improve 
+                                            the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+                                            <br><br>
+                                            These cookies allow us to see anonymous information about site behaviour and which site led customers to visit ours. 
+                                            <br><br>
+                                            <a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html" target="_blank">Find out more information on Google Analytics</a>        
+                                            <br><br>
+                                            <a href="http://www.coremetrics.co.uk/company/privacy.php" target="_blank">Find out more information on Coremetrics</a>        
+                                        </td>                                        
+                                    </tr>
+                                    <tr>
+                                        <td width="80" valign="top" class="table_noborder">Coremetrics</td>
+                                        <td width="80" valign="top" class="table_noborder">cmTPSet, utma, utmb, utmc</td>
+                                        <td width="60" valign="top" class="table_noborder">20 years</td>
+                                    </tr>
+                                    <tr>
+                                        <td width="80" valign="top" class="table_noborder">DC Storm</td>
+                                        <td width="80" valign="top" class="table_noborder">srchist, sess, vdf, uid, slid, clkid, lps, tsa, env, stc, nxd</td>
+                                        <td width="60" valign="top" class="table_noborder">1000 days</td>
+                                    </tr>
+                                    <tr>
+                                        <td width="80" valign="top">Criteo</td>
+                                        <td width="80" valign="top">&nbsp;</td>
+                                        <td width="60" valign="top">&nbsp;</td>
+                                        <td>
+                                            <span class="table_text">
+                                            This cookie collects anonymous data. In order to identify which products you might be interested in, the cookie records which pages you have browsed on our website. Based on the information collected, 
+                                            the cookie places tailored advertisements to you on third party websites. You can opt out of any remarketing cookies by clicking
+                                            <a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank">here</a>.
+                                            </span>
+                                        </td>                                                                                
+                                    </tr>
+                                    <tr>
+                                        <td width="80" valign="top">Third party sellers</td>
+                                        <td width="80" valign="top">Aw1001, AWSESS, awpv9, aw3, AW, _aw_m_, _dw_p, _dw_s</td>
+                                        <td width="60" valign="top">90 days</td>
+                                        <td width="250">
+                                            These cookies allow us to reward third party sellers for generating sales on our site. These cookies are necessary to allow customers to receive cashback from third party sites.  
+                                        </td>                                                                                                                                                                
+                                    </tr>  
+                                </tbody></table>
+                                
+                                <p>
+                                	The cookies we use do not store any of your personal information. If you do not want to have cookies enabled then you can choose to disable them but you will not be able to make a purchase. Each browser 
+                                    is different, so go to the 'Help' menu of your browser you are using to learn how to change your cookie preferences.
+								</p>
+                                <p>If you'd like to learn more about how to manage or disable cookies the visit <a href="http://www.aboutcookies.org" target="_blank">www.aboutcookies.org</a></p>
+                            </div>
+                            <!--Policy-->
+                            
+                            <!--Change cookies-->
+                            <div id="tabs-changecookie">
+                                <h2>Changing your broswers setttings</h2>
+                                <p>
+									Most browser settings automatically accept cookies. Your continued use of this website will be treated as your consent to the use of cookies as described above and unless you adjust your browser to decline 
+                                    them, cookies will be placed. It is therefore important that you check your browser settings and adjust them accordingly. If you do not agree to the use of cookies, please modify your browser settings to 
+                                    decline them.  (Click "Help" in the toolbar of most browsers for instructions or review the cookie management guide produced by the 
+                                    Interactive Advertising Bureau - <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.).  
+                                    However, declining cookies means that some features and services of the website may not function properly.                                  
+                                </p>
+                            </div>
+                            <!--Change cookies-->
+                        </div>                    
+                    </div>
+                            
+				</div>
             </div>
         </div>
 
@@ -1366,12 +1563,12 @@
 			<div class="contact_block">
 				<h3>Contact Us</h3>
 				<p>
-                	Comet Group Plc,<br>
+                	Comet Group Ltd,<br>
                     Criterion House,<br>
                     George Street,<br>
                     Hull, HU 1 3AU
                 </p>
-                <p>08712 009 009 <br> <span class="telephone_terms">Calls to this number cost 10p a minute plus network extras</span></p>	<ul>
+                	<ul>
 		<li><a href="http://comet.custhelp.com/app/answers/list" title="Ask a question">Ask a question</a></li>
 		<!--<li><a href="/static/services/our-site/online-chat" title="Online Chat">Online Chat</a></li>-->
 	</ul>
@@ -1534,10 +1731,12 @@ cmCreatePageviewTag("services_oursite_privacy", "SERVICES_OURSITE_PRIVACY", null
     <li>
       <h4>Help</h4>
       <ul>
+      
+        <li><a href="http://comet.custhelp.com/app/answers/list" target="_blank">Frequently Asked Questions</a></li>
         <li><a href="/static/services/contact-us/contact-us">Contact Us</a></li>
-        <!--<li><a href="http://comet.custhelp.com/app/answers/list">Frequently Asked Questions</a></li>-->
+        <li><a href="/static/buyers-guide/buyersguide/buyersguide">Buying Guides</a></li>
         <li><a href="/static/services/our-site/security">Security</a></li>
-        <li><a href="/static/services/our-site/privacy">Privacy</a></li>
+        <li><a href="/static/services/our-site/privacy">Privacy &amp; Cookies</a></li>
         <li><a href="/static/services/your-order/returns-refunds">Returns</a></li>
 		<li><a href="/storefinder">Store finder</a></li>        
       </ul>
@@ -1550,9 +1749,9 @@ cmCreatePageviewTag("services_oursite_privacy", "SERVICES_OURSITE_PRIVACY", null
         <li><a href="http://www.cometb2b.com/" target="_blank">Doing Business at Comet</a></li>
         <li><a href="http://www.clearance-comet.co.uk/" target="_blank">Comet Clearance</a>
         </li><li><a href="http://www.cometmobilevoucher.com/comet/public" target="_blank">Comet SMS Vouchers</a></li>
-        <li><a href="/static/sitepages/SportsAid/SportsAid" target="_blank">SportsAid Charity</a></li>
-		<li id="ecard"><a href="http://www.cometecard.co.uk" target="_blank">Comet Christmas eCard</a>
-      </li></ul>
+        <li><a href="/static/sitepages/2012/SportsAid/SportsAid" target="_blank">SportsAid Charity</a></li>
+		<!-- li id="ecard"><a href="http://www.cometecard.co.uk" target="_blank">Comet Christmas eCard</a -->
+      </ul>
     </li>
     <li>
       <h4>Comet Newsletter</h4>
@@ -1591,8 +1790,8 @@ cmCreatePageviewTag("services_oursite_privacy", "SERVICES_OURSITE_PRIVACY", null
       
       <div class="footer_social_follow">
       	<h4>Follow us on:</h4>
-      	<span class="social_follow_link"><a href="http://www.facebook.com/cometuk" target="_blank"><img src="/wcsstore/CometSharedStoreFront/Comet/prod/images/facebook.jpg" width="34" height="34" alt="Follow us on Facebook"></a></span>
-      	<span class="social_follow_link"><a href="http://twitter.com/#!/CometPlc" target="_blank"><img src="/wcsstore/CometSharedStoreFront/Comet/prod/images/twitter.jpg" width="34" height="34" alt="Follow us on Twitter"></a></span>
+      	<span class="social_follow_link"><a href="http://www.facebook.com/cometuk" target="_blank"><img src="/wcsstore/CometSharedStoreFront/Comet/prod/images/facebook.png" width="34" height="34" alt="Follow us on Facebook"></a></span>
+      	<span class="social_follow_link"><a href="http://twitter.com/#!/cometltd" target="_blank"><img src="/wcsstore/CometSharedStoreFront/Comet/prod/images/twitter.png" width="34" height="34" alt="Follow us on Twitter"></a></span>
       </div>
     </li>
   </ul>
@@ -1606,33 +1805,105 @@ cmCreatePageviewTag("services_oursite_privacy", "SERVICES_OURSITE_PRIVACY", null
     <li><a href="/static/sitepages/sitemap/sitemap" title="Comet.co.uk Sitemap">Sitemap</a></li>
     <li><a href="/static/services/our-site/accessibility" title="Comet.co.uk Accessibility Statement">Accessibility</a></li>
   </ul>
-  <p>© Comet Group plc 1999 - 2011.</p><br>
-  <p id="priceest">All save prices established for a minimum of 7 days</p>
+  <p>© Comet Group Ltd 1999 - 2012.</p><br>
+  <p id="priceest">All save prices established for a minimum of 14 days</p>
   </div>  
 </div>
-      	<!-- END ContentInclude.jsp -->
-   
-	 
+      	<!-- END ContentInclude.jsp --> 
 <div id="floatingfooter">
   <div id="share">
     <ul>
-     <!-- Changed By Cognizant :  Footer Phone Number Change- Start -->
-       <li class="phone">
-          <div class="vcard">
-            <span class="tel">
-                <span class="type">Comet Call Centre</span>
-                <span class="value">08712 </span><span class="value">009 </span><span class="value">009</span></span>
-            
-          </div>
-          <span class="dis">10p a min plus network extras</span>
+     
+      <li id="serviceshome"><img src="/wcsstore/CometSharedStoreFront/Comet/img/servicesft.jpg" alt="Services"></li>
+      <li id="faqhome"><a href="http://comet.custhelp.com/app/answers/list" title="FAQ"><img src="/wcsstore/CometSharedStoreFront/Comet/img/faqft.jpg" alt="FAQ"></a></li>
+      
+      
+      
+       <li class="compare">
+       <div id="reloadcompare">
+     
+      	<a class="flink" href="http://www.comet.co.uk/webapp/wcs/stores/servlet/CompareProductsView?catalogId=10002&amp;langId=-1&amp;storeId=10151" id="compareProdLength" title="Compare up to 4 products side-by-side"><strong>0</strong> Compare products</a>
+     </div> 	       
+       	<div id="compare_now" class="container"><a href="#" id="compare_close_link" style="display:none" title="Close"><span>Close</span></a>
+       	
+ 		<h4>Product Comparison</h4>
+    	 <p>Compare up to 4 products side-by-side <a href="http://www.comet.co.uk/webapp/wcs/stores/servlet/CompareProductsView?catalogId=10002&amp;langId=-1&amp;storeId=10151" class="button" id="compare_now_link"><span class="compare">Compare now</span></a></p>
+    	
+		 		
+		 		
+<script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/externalCompareProducts.js"></script> 
+ <ul class="product_grid" id="compareProducts">
+ <li></li>
+ </ul>  
+<noscript>
+	<p>To view your products to compare, click on the link below, or click Compare Now</p>.
+</noscript>
+
+ 
+       		   		 	
+		 
+		  
+	  	</div>	  
       </li>
-      <!-- Changed By Cognizant :  Footer Phone Number Change- End --><!-- START ContentInclude.jsp --><!--	<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'2f707c07-3779-4a1a-8630-aae0110d11b5'});</script>   
+      
+      <li class="recent">   
+      	
+      	<a class="flink" href="http://www.comet.co.uk/webapp/wcs/stores/servlet/RecentlyViewedView?catalogId=10002&amp;langId=-1&amp;storeId=10151" id="recentlyViewedLength" title="Recently view products and content"><strong>0</strong> Recently viewed</a>
+        <div id="recently_viewed" class="container">
+        	
+        	<h4>Recently viewed</h4>
+     		<p>Your recently viewed products</p>     
+     		
+		 		
+<script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/externalRecentlyViewed.js"></script>
+<ul class="product_grid" id="recentlyViewedProducts">
+<li></li>
+</ul>     	       
+        <noscript>
+			
+        <p>To view your recently viewed products, click on the link below</p>.
+        </noscript>
+     
+     		
+                
+		</div>
+      </li>
+	<!-- START ContentInclude.jsp --><!--	<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'2f707c07-3779-4a1a-8630-aae0110d11b5'});</script>   
 
 
       <li class="facebook"><span class='st_facebook_large'><span class="copy">Share on Facebook</span></span></li>
       <li class="twitter"><span class='st_twitter_large' ><span class="copy">Share on Twitter</span></span></li>
 -->
       	<!-- END ContentInclude.jsp -->
+
+<li class="feedback">
+<a class="flink feedbackRoll" target="_blank" href="http://www.cometsurvey.empathica.com" onclick="_gaq.push(['_trackEvent','survey','Product'])">Feedback</a>
+<div id="feedbubble" class="container" style="display: none;">
+<p>We'd love to hear from you</p>
+<p>
+
+
+<a target="_blank" href="http://www.cometsurvey.empathica.com" onclick="_gaq.push(['_trackEvent','survey','Product'])">Click here to feedback</a>
+
+</p>
+<div class="tail"></div>
+</div>
+
+
+</li>
+
+
+<script language="JavaScript">
+ $("li.feedback, #feedbubble").hover(
+         function() {
+         $('#feedbubble').fadeIn();
+         },
+         function() {
+      $('#feedbubble').fadeOut();
+                         });
+</script>
+
+
 
     </ul>
   
@@ -1666,15 +1937,56 @@ for (i=0;i<ARRcookies.length;i++)
 //alert("cicEdit=" + cicEdit);
 
 CommonVariablesJS.setCommonVars('.comet.co.uk', cicEditOrderId, cicEdit, 'false', 'G', false);
-</script><!--Affiliate Window Tracking-->
-	<script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/157.js" defer="defer"></script>
+</script><!--Affiliate Window Tracking--><!-- Commented below script and included the Affiliate Window tag to download the js directly - F0376437--><!-- <script type="text/javascript" src="http://js.comet.co.uk/wcsstore/CometSharedStoreFront/Comet/js/157.js" defer="defer"></script> -->
+	<script type="text/javascript" src="https://www.dwin1.com/157.js" defer="defer"></script>
 	<!--/Affiliate Window Tracking--><!--Google Analytics Tracking-->
 	<script type="text/javascript"> 
 	
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-5893494-1']);
 	  _gaq.push(['_setDomainName', '.comet.co.uk']);
-	  _gaq.push(['_trackPageview']); 
+	  if('https:' != document.location.protocol){
+	  	var href = document.location.href;
+	  	if(href == 'http://www.comet.co.uk/'){
+	  		_gaq.push(['_trackPageview','/homepage']);
+	  	}else{
+	  		if(href.match("/c/")){
+	  			if(href.match("#")){	  			  		  	
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/c/"),href.indexOf("#"))]);
+	  			}else{
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/c/"),href.length)]);
+	  			}
+	  		}else if(href.match("/p/")){	  			  		  	
+	  			if(href.match("#")){	  			  		  	
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/p/"),href.indexOf("#"))]);
+	  			}else{
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/p/"),href.length)]);
+	  			}
+	  		}else if(href.match("/s/")){	  			  		  	
+	  			if(href.match("#")){	  			  		  	
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/s/"),href.indexOf("#"))]);
+	  			}else{
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/s/"),href.length)]);
+	  			}
+	  		}else if(href.match("/h/")){	  			  		  	
+	  			if(href.match("#")){	  			  		  	
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/h/"),href.indexOf("#"))]);
+	  			}else{
+	  				_gaq.push(['_trackPageview',href.substring(href.indexOf("/h/"),href.length)]);
+	  			}
+	  		}else if(href.match("&searchTerm")){	  			  		  	
+	  			if(href.match("#")){	  			  		  	
+	  				_gaq.push(['_trackPageview','/SearchResultsDisplayView/'+href.substring(href.indexOf("searchTerm"),href.indexOf("#"))]);
+	  			}else{
+	  				_gaq.push(['_trackPageview','/SearchResultsDisplayView/'+href.substring(href.indexOf("searchTerm"),href.length)]);
+	  			}
+	  		}else{
+	  			_gaq.push(['_trackPageview']);
+	  		}
+	  	} 
+	  }else{
+	  			_gaq.push(['_trackPageview']);
+	  } 	  
 	  _gaq.push(['_trackPageLoadTime']);
 	
 	  (function() {
