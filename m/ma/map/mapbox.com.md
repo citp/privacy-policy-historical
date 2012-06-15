@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230043745id_/http%3A//mapbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615041759id_/http%3A//mapbox.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MapBox
+# Privacy policy | MapBox
 
 MapBox is committed to protecting the privacy of the people and organizations that use our service. This privacy notice discloses the privacy practices for mapbox.com and all map tiles served and hosted through our website.
 
