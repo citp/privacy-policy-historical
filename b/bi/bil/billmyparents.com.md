@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the billmyparents.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213081115id_/http%3A//www.billmyparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmyparents.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615060605id_/http%3A//www.billmyparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BillMyParents
+
+## BillMyParents Privacy Policy
 
 Effective Date of Current Policy: 3/15/2011
 
 ### OVERVIEW
 
-Socialwise®, Inc. (owners and operators of www.BillMyParents.com) is committed to respecting and protecting the privacy rights of all users of our websites and services (collectively the “Service”). Please read this Privacy Policy carefully to understand how we collect and use information in connection with the Service.
+BillMyParents®, Inc. (owners and operators of www.BillMyParents.com) is committed to respecting and protecting the privacy rights of all users of our websites and services (collectively the “Service”). Please read this Privacy Policy carefully to understand how we collect and use information in connection with the Service.
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv-coppa/en/www.billmyparents.com/seal_m "Validate TRUSTe children privacy certification") [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.billmyparents.com/seal_m "Validate TRUSTe privacy certification")
 
@@ -14,7 +16,7 @@ Socialwise®, Inc. (owners and operators of www.BillMyParents.com) is committed 
 
 The Service enables children to shop online and choose things they would like to purchase. Rather than borrowing a parents’ credit card, or having to have their parents shop with them, BillMyParents enables the child to choose the item and have their Parent or other trusted party (collectively, the “Giver”) receive a purchase interest notification. The parent or legal guardian (hereafter “Parent”) can then decide whether or not to approve and finalize the purchase. With BillMyParents, sensitive information like credit card data is handled securely by giving Parents an easy and convenient way to control how and when purchases are made. 
 
-SocialWise has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the site www.BillMyParents.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@BillMyParents.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+BillMyParents has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the site www.BillMyParents.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@BillMyParents.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Parents:
 
@@ -63,9 +65,8 @@ Why do we collect information from children and how do we use it?
 Please note that you can always ask us to review or delete any of your child’s information and you can refuse to permit further collection or use of your child’s information at any time by logging into your account and selecting “edit accounts”, sending an email to info@billmyparents.com or written request to the contact information listed below. However, if you ask us to delete your child’s information, your child may not be able to participate further with the Service. You may contact us by any means listed below and we will work hard to respond promptly. 
 
 BillMyParents  
-6440 Lusk Boulevard  
-Suite 200  
-San Diego, CA 92121  
+P.O. Box 910889  
+San Diego, CA 92191-0889  
 Phone: (858) 677-0080  
 Fax: (858) 677-0180 
 
@@ -139,7 +140,7 @@ Surveys
 
 We sometimes use email information to send surveys. If we use a vendor to help us, we do not permit them to use this information other than to manage the survey for us.
 
-We may ask the User to fill out an online survey so we can improve the Service. The User’s Personally Identifiable Information will be kept confidential, but the feedback the User provides in the survey is not confidential and may be used by Socialwise®, Inc. or others. 
+We may ask the User to fill out an online survey so we can improve the Service. The User’s Personally Identifiable Information will be kept confidential, but the feedback the User provides in the survey is not confidential and may be used by BillMyParents®, Inc. or others. 
 
 Shopping
 
@@ -163,7 +164,7 @@ DATA SHARING
 
 Disclosures of Personally Identifiable Information with others.
 
-At times, we may share information with other carefully selected companies and organizations that are not part of Socialwise®, Inc. These companies and organizations may use the information we send them to provide special opportunities and offers to the Requestor. It is not our policy to share the Requestor’s shipping address, billing information, or telephone numbers with any of these organizations. For Requestors whom we know to be under 13 years old, we will not knowingly share your Personally Identifiable Information with such third parties unless approved by the Parent. If you wish to opt-out from third party sharing you may contact us at info@BillMyParents.com. If you no longer wish to be contacted by such third parties you must contact that third party directly.
+At times, we may share information with other carefully selected companies and organizations that are not part of BillMyParents®, Inc. These companies and organizations may use the information we send them to provide special opportunities and offers to the Requestor. It is not our policy to share the Requestor’s shipping address, billing information, or telephone numbers with any of these organizations. For Requestors whom we know to be under 13 years old, we will not knowingly share your Personally Identifiable Information with such third parties unless approved by the Parent. If you wish to opt-out from third party sharing you may contact us at info@BillMyParents.com. If you no longer wish to be contacted by such third parties you must contact that third party directly.
 
 Additionally, we may sometimes use certain vendors and suppliers such as a credit card processing company to bill you for goods and services, a third party customer service company to help you with your customer service requests, and a third party tracking utility company to analyze trends. We also work with other partners such as PacSun, Industrial Ride Shop and Amazon in connection with the provision of the Service. When we do, we make efforts to ensure that these parties treat information in accordance with this Privacy Policy. These third parties are only allowed to use your personal information to provide you with the service you have requested. 
 
@@ -231,8 +232,7 @@ CONTACT
 If you have any questions about this Privacy Policy, our Terms of Use or about our websites in general, please email us at: info@BillMyParents.com or write to: 
 
 BillMyParents  
-6440 Lusk Blvd.  
-Ste. 200  
-San Diego, CA 92121  
+P.O. Box 910889  
+San Diego, CA 92191-0889  
 (866) 883-0820 – Phone  
 (858) 677-0180 – FAX 
