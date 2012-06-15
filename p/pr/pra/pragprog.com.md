@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227114516id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615075815id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
 
-# The Pragmatic Bookshelf
+# The Pragmatic Bookshelf | Our Commitment to Privacy
 
 As with most modern organizations, The Pragmatic Programmers, LLC, uses computers to run our business. Under some circumstances, some of our computer systems may hold information about individuals. This document describes the ways in which this information is collected, what we do with it, and what you can do about it. This privacy policy covers the information that we hold on our website, and on the systems that support our web site.
 
