@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatlossfactor.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114329id_/http%3A//www.fatlossfactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatlossfactor.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615065314id_/http%3A//www.fatlossfactor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy The Fat Loss Factor
 
@@ -96,4 +96,6 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
-Copyright © 2010
+**Opting Out:** Should you wish to no longer receive email communication from us, simply send an email to: unsubscribe@fatlossfactor.com and we will remove you from our database. Also, at the bottom of any email you might receive from us is an unsubscribe link that, when clicked, will automatically unsubscribe you.
+
+Copyright © 2012
